@@ -50665,19 +50665,11 @@
     },
     "23690": {
         "id": 23690,
-        "name": "Cupboard"
+        "name": "Food Barrel"
     },
     "23691": {
         "id": 23691,
-        "name": "Cupboard"
-    },
-    "23692": {
-        "id": 23692,
-        "name": "Cupboard"
-    },
-    "23693": {
-        "id": 23693,
-        "name": "Cupboard"
+        "name": "Gangplank"
     },
     "23694": {
         "id": 23694,
@@ -60665,7 +60657,7 @@
     },
     "28859": {
         "id": 28859,
-        "name": "Servant's moneybag"
+        "name": "Servant's money bag"
     },
     "28861": {
         "id": 28861,
@@ -101854,5 +101846,9 @@
     "53260": {
         "id": 53260,
         "name": "Bank chest"
+    },
+    "53263": {
+        "id": 53263,
+        "name": "Barrier"
     }
 }

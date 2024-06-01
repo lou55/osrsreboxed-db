@@ -1,7 +1,7 @@
 {
     "id": 2043,
     "name": "Zulrah",
-    "last_updated": "2021-07-12",
+    "last_updated": "2024-06-01",
     "incomplete": true,
     "members": true,
     "release_date": "2015-01-08",
@@ -50,7 +50,7 @@
     "defence_slash": 0,
     "defence_crush": 0,
     "defence_magic": 0,
-    "defence_ranged": 300,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 12934,

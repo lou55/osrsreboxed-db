@@ -1,7 +1,7 @@
 {
     "id": 23654,
     "name": "Occult necklace",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-06-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -42,7 +42,7 @@
         "defence_ranged": 0,
         "melee_strength": 0,
         "ranged_strength": 0,
-        "magic_damage": 10,
+        "magic_damage": 5,
         "prayer": 2,
         "slot": "neck",
         "requirements": {

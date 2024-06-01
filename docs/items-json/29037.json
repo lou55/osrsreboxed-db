@@ -1,7 +1,7 @@
 {
     "id": 29037,
     "name": "Blue moon chestplate",
-    "last_updated": "2024-05-11",
+    "last_updated": "2024-06-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -42,7 +42,7 @@
         "defence_ranged": 0,
         "melee_strength": 2,
         "ranged_strength": 0,
-        "magic_damage": 0,
+        "magic_damage": 1,
         "prayer": 0,
         "slot": "body",
         "requirements": null

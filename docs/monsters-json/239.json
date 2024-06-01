@@ -1,7 +1,7 @@
 {
     "id": 239,
     "name": "King Black Dragon",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-06-01",
     "incomplete": true,
     "members": true,
     "release_date": "2002-09-24",
@@ -50,11 +50,11 @@
     "magic_bonus": 0,
     "attack_ranged": 0,
     "ranged_bonus": 0,
-    "defence_stab": 70,
+    "defence_stab": 60,
     "defence_slash": 90,
     "defence_crush": 90,
     "defence_magic": 80,
-    "defence_ranged": 70,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 536,

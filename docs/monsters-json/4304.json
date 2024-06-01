@@ -1,14 +1,14 @@
 {
     "id": 4304,
     "name": "Kalphite Queen",
-    "last_updated": "2021-07-12",
+    "last_updated": "2024-06-01",
     "incomplete": true,
     "members": true,
     "release_date": "2004-09-07",
     "combat_level": 333,
     "size": 5,
     "hitpoints": 255,
-    "max_hit": 31,
+    "max_hit": 33,
     "attack_type": [
         "stab",
         "ranged",

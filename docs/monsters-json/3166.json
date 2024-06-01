@@ -1,8 +1,8 @@
 {
     "id": 3166,
     "name": "Spiritual warrior",
-    "last_updated": "2024-02-09",
-    "incomplete": false,
+    "last_updated": "2024-06-01",
+    "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
     "combat_level": 123,
@@ -53,7 +53,7 @@
     "defence_slash": 25,
     "defence_crush": 13,
     "defence_magic": 35,
-    "defence_ranged": 35,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 1623,

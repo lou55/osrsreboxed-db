@@ -39145,7 +39145,7 @@
     },
     "21213": {
         "id": 21213,
-        "name": "Servant's moneybag"
+        "name": "Servant's money bag"
     },
     "21214": {
         "id": 21214,
@@ -49593,59 +49593,59 @@
     },
     "26156": {
         "id": 26156,
-        "name": "Group iron helm"
+        "name": "Group ironman helm"
     },
     "26158": {
         "id": 26158,
-        "name": "Group iron platebody"
+        "name": "Group ironman platebody"
     },
     "26160": {
         "id": 26160,
-        "name": "Group iron platebody"
+        "name": "Group ironman platebody"
     },
     "26162": {
         "id": 26162,
-        "name": "Group iron platebody"
+        "name": "Group ironman platebody"
     },
     "26164": {
         "id": 26164,
-        "name": "Group iron platebody"
+        "name": "Group ironman platebody"
     },
     "26166": {
         "id": 26166,
-        "name": "Group iron platelegs"
+        "name": "Group ironman platelegs"
     },
     "26168": {
         "id": 26168,
-        "name": "Group iron bracers"
+        "name": "Group ironman bracers"
     },
     "26170": {
         "id": 26170,
-        "name": "Hardcore group iron helm"
+        "name": "Hardcore group ironman helm"
     },
     "26172": {
         "id": 26172,
-        "name": "Hardcore group iron platebody"
+        "name": "Hardcore group ironman platebody"
     },
     "26174": {
         "id": 26174,
-        "name": "Hardcore group iron platebody"
+        "name": "Hardcore group ironman platebody"
     },
     "26176": {
         "id": 26176,
-        "name": "Hardcore group iron platebody"
+        "name": "Hardcore group ironman platebody"
     },
     "26178": {
         "id": 26178,
-        "name": "Hardcore group iron platebody"
+        "name": "Hardcore group ironman platebody"
     },
     "26180": {
         "id": 26180,
-        "name": "Hardcore group iron platelegs"
+        "name": "Hardcore group ironman platelegs"
     },
     "26182": {
         "id": 26182,
-        "name": "Hardcore group iron bracers"
+        "name": "Hardcore group ironman bracers"
     },
     "26184": {
         "id": 26184,
@@ -51725,31 +51725,31 @@
     },
     "27042": {
         "id": 27042,
-        "name": "Group iron helm (unranked)"
+        "name": "Group ironman helm (unranked)"
     },
     "27044": {
         "id": 27044,
-        "name": "Group iron platelegs (unranked)"
+        "name": "Group ironman platelegs (unranked)"
     },
     "27046": {
         "id": 27046,
-        "name": "Group iron bracers (unranked)"
+        "name": "Group ironman bracers (unranked)"
     },
     "27048": {
         "id": 27048,
-        "name": "Group iron platebody (unranked)"
+        "name": "Group ironman platebody (unranked)"
     },
     "27050": {
         "id": 27050,
-        "name": "Group iron platebody (unranked)"
+        "name": "Group ironman platebody (unranked)"
     },
     "27052": {
         "id": 27052,
-        "name": "Group iron platebody (unranked)"
+        "name": "Group ironman platebody (unranked)"
     },
     "27054": {
         "id": 27054,
-        "name": "Group iron platebody (unranked)"
+        "name": "Group ironman platebody (unranked)"
     },
     "27086": {
         "id": 27086,
@@ -56826,5 +56826,9 @@
     "29485": {
         "id": 29485,
         "name": "Graceful recolour"
+    },
+    "29486": {
+        "id": 29486,
+        "name": "Cursed amulet of magic"
     }
 }

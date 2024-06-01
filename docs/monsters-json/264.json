@@ -1,7 +1,7 @@
 {
     "id": 264,
     "name": "Green dragon",
-    "last_updated": "2024-05-11",
+    "last_updated": "2024-06-01",
     "incomplete": true,
     "members": true,
     "release_date": "2004-03-22",
@@ -47,11 +47,11 @@
     "magic_bonus": 0,
     "attack_ranged": 0,
     "ranged_bonus": 0,
-    "defence_stab": 20,
+    "defence_stab": 10,
     "defence_slash": 40,
     "defence_crush": 40,
     "defence_magic": 30,
-    "defence_ranged": 20,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 1623,

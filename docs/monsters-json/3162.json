@@ -1,7 +1,7 @@
 {
     "id": 3162,
     "name": "Kree'arra",
-    "last_updated": "2021-09-24",
+    "last_updated": "2024-06-01",
     "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
@@ -53,7 +53,7 @@
     "defence_slash": 180,
     "defence_crush": 180,
     "defence_magic": 200,
-    "defence_ranged": 200,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 532,

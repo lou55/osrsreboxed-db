@@ -1,7 +1,7 @@
 {
     "id": 12825,
     "name": "Arcane spirit shield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-06-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -42,7 +42,7 @@
         "defence_ranged": 52,
         "melee_strength": 0,
         "ranged_strength": 0,
-        "magic_damage": 0,
+        "magic_damage": 3,
         "prayer": 3,
         "slot": "shield",
         "requirements": {

@@ -1,7 +1,7 @@
 {
     "id": 6060,
     "name": "Stool",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-06-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -27,8 +27,8 @@
     "duplicate": true,
     "examine": "A stool for milking",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs3W/UtTURgH8O1/CKJ+KC0yalFjoDWwEqRCirKUVSrGMpOiojcqGUXWGL0hiL1QoWCIiZQRREVR1F/2xPeM791zn87mrruFBx7uveeeeT4+5zlnSyRWfkuKP3zv/3lLyuNCjzwcPeqidLNbitePuCBidiIvM+OnZPrJoAdl/4mG4WUQUQAxLGbq0YC8KPWFJsYz3tkIoyIhkzJ+u/cvFK6AMAh6VjwhE3dzbiyuPhDGa/SPhYJ8m7u2PBRBuGd2CHr1oN+BOLYaCJ/7Pj8qvxbH5PfifQfCHOmmJhd2dtPKaed/TRAm9YEm7x0PQLj3geYmT4dAuCfIzm5aMrQMmIjFjWcLwuRAcHmrgRaeD8cHYpbQ5wMxkwQhaxb0/uXZAISIBGJdWBAmtyBd0LVAH16PhEFvbzQOQj9ARDGTekdWA32cOhcvCAEAQdy+SwUwwH+euRCAfr67E2AigzQKf5yYsXy7FId2uygN75XCQFau5tpk5HBaBg9sk1zHZjmU3ejGAvTlzSUvyM5epZX/O6TfgtB/q2+XAzDwfLm3Vc4c3CH9+1LSs6fFYfa3Ngegr7NXlgsqn0HIUDUQMoEA4uKxjIt813Y52bk1wHTt3CCdmfVuPLKqQfpQtLObVt7yPhBCLxkmxqSp5lWhZ0Q2tdb1MTuxgohCMEPIRHf7JmnbsiaYGDXD/o70OtfHgo4NpLOEK0GYnMuBpSSSwdohaP7pUADCKU1MXSDsMB+IPzFQtKiRTMvqEAj9gPI9QcgOvjZ0hurMDloFZOsI/XiPWuGS8ITGPZYKV2553HO58LURG4goZoHLgffcfXjmEnK3aRBOaQ0iys7uaWWQb9mYIQQm0SCikDGOYf3gZ8en6fMBCGdQhHMoDNLLhj5OgCv6ieGxwFrj9xfgDYOwy5YCYTL0+UD8YuVyxQayy4Z+DWJBE8SzCp/jWICw5TUIZ1Dkc8i3bBqE+1ogXT+xgHzLpkF4pwtagzBO10+DILTKb5laYeuHYUE4FDWIEQGUSPBYrxUWqEPXTyygeptF1oNlVMb+p2aRvrCfWdHtDzHdgol48QNcAAAAAElFTkSuQmCC",
-    "wiki_name": "Stool",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Stool",
+    "wiki_name": "Stool (animation item)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Stool_(animation_item)",
     "equipment": null,
     "weapon": null
 }

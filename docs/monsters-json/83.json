@@ -1,7 +1,7 @@
 {
     "id": 83,
     "name": "Skeleton",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-06-01",
     "incomplete": true,
     "members": false,
     "release_date": "2001-09-23",
@@ -52,7 +52,7 @@
     "defence_slash": 11,
     "defence_crush": -2,
     "defence_magic": 1,
-    "defence_ranged": 4,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 1623,

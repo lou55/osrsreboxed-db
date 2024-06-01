@@ -1,7 +1,7 @@
 {
     "id": 4870,
     "name": "Ahrim's robetop 50",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-06-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -42,7 +42,7 @@
         "defence_ranged": 0,
         "melee_strength": 0,
         "ranged_strength": 0,
-        "magic_damage": 0,
+        "magic_damage": 1,
         "prayer": 0,
         "slot": "body",
         "requirements": {

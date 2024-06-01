@@ -1,7 +1,7 @@
 {
     "id": 2205,
     "name": "Commander Zilyana",
-    "last_updated": "2023-06-09",
+    "last_updated": "2024-06-01",
     "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
@@ -50,7 +50,7 @@
     "defence_slash": 100,
     "defence_crush": 100,
     "defence_magic": 100,
-    "defence_ranged": 100,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 526,
