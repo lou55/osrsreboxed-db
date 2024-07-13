@@ -35293,25 +35293,25 @@
     },
     "6184": {
         "id": 6184,
-        "name": "Prince tunic",
+        "name": "Royal frog tunic",
         "type": "normal",
         "duplicate": false
     },
     "6185": {
         "id": 6185,
-        "name": "Prince leggings",
+        "name": "Royal frog leggings",
         "type": "normal",
         "duplicate": false
     },
     "6186": {
         "id": 6186,
-        "name": "Princess blouse",
+        "name": "Royal frog blouse",
         "type": "normal",
         "duplicate": false
     },
     "6187": {
         "id": 6187,
-        "name": "Princess skirt",
+        "name": "Royal frog skirt",
         "type": "normal",
         "duplicate": false
     },
@@ -102373,25 +102373,25 @@
     },
     "18073": {
         "id": 18073,
-        "name": "Prince tunic",
+        "name": "Royal frog tunic",
         "type": "placeholder",
         "duplicate": true
     },
     "18074": {
         "id": 18074,
-        "name": "Prince leggings",
+        "name": "Royal frog leggings",
         "type": "placeholder",
         "duplicate": true
     },
     "18075": {
         "id": 18075,
-        "name": "Princess blouse",
+        "name": "Royal frog blouse",
         "type": "placeholder",
         "duplicate": true
     },
     "18076": {
         "id": 18076,
-        "name": "Princess skirt",
+        "name": "Royal frog skirt",
         "type": "placeholder",
         "duplicate": true
     },
@@ -167644,5 +167644,641 @@
         "name": "Cursed amulet of magic",
         "type": "placeholder",
         "duplicate": true
+    },
+    "29489": {
+        "id": 29489,
+        "name": "Rainbow cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29490": {
+        "id": 29490,
+        "name": "Rainbow cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29491": {
+        "id": 29491,
+        "name": "Colourful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29492": {
+        "id": 29492,
+        "name": "Colourful cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29493": {
+        "id": 29493,
+        "name": "Colourful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29494": {
+        "id": 29494,
+        "name": "Colourful cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29495": {
+        "id": 29495,
+        "name": "Colourful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29496": {
+        "id": 29496,
+        "name": "Colourful cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29497": {
+        "id": 29497,
+        "name": "Colourful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29498": {
+        "id": 29498,
+        "name": "Colourful cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29499": {
+        "id": 29499,
+        "name": "Colourful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29500": {
+        "id": 29500,
+        "name": "Colourful cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29501": {
+        "id": 29501,
+        "name": "Colourful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29502": {
+        "id": 29502,
+        "name": "Colourful cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29503": {
+        "id": 29503,
+        "name": "Colourful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29504": {
+        "id": 29504,
+        "name": "Colourful cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29505": {
+        "id": 29505,
+        "name": "Colourful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29506": {
+        "id": 29506,
+        "name": "Colourful cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29507": {
+        "id": 29507,
+        "name": "Rainbow crown shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29508": {
+        "id": 29508,
+        "name": "Rainbow crown shirt",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29509": {
+        "id": 29509,
+        "name": "Colourful crown shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29510": {
+        "id": 29510,
+        "name": "Colourful crown shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29511": {
+        "id": 29511,
+        "name": "Colourful crown shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29512": {
+        "id": 29512,
+        "name": "Colourful crown shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29513": {
+        "id": 29513,
+        "name": "Colourful crown shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29514": {
+        "id": 29514,
+        "name": "Colourful crown shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29515": {
+        "id": 29515,
+        "name": "Colourful crown shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29516": {
+        "id": 29516,
+        "name": "Colourful crown shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29517": {
+        "id": 29517,
+        "name": "Armadyl communiqu\u00e9",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29518": {
+        "id": 29518,
+        "name": "Unconscious broav",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29519": {
+        "id": 29519,
+        "name": "Broav",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29520": {
+        "id": 29520,
+        "name": "Broav",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29521": {
+        "id": 29521,
+        "name": "Dirty shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29522": {
+        "id": 29522,
+        "name": "Waste-paper basket",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29523": {
+        "id": 29523,
+        "name": "Ruby key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29524": {
+        "id": 29524,
+        "name": "Notes on pressure",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29525": {
+        "id": 29525,
+        "name": "Movario's notes (volume 1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29526": {
+        "id": 29526,
+        "name": "Movario's notes (volume 2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29527": {
+        "id": 29527,
+        "name": "Weight (1kg)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29528": {
+        "id": 29528,
+        "name": "Weight (2kg)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29529": {
+        "id": 29529,
+        "name": "Weight (5kg)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29530": {
+        "id": 29530,
+        "name": "Enriched snapdragon",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29531": {
+        "id": 29531,
+        "name": "Super truth serum",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29532": {
+        "id": 29532,
+        "name": "Truth serum",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29533": {
+        "id": 29533,
+        "name": "Suspect sketch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29534": {
+        "id": 29534,
+        "name": "Cell key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29535": {
+        "id": 29535,
+        "name": "Strange teleorb",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29536": {
+        "id": 29536,
+        "name": "Teleorb",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29537": {
+        "id": 29537,
+        "name": "Teleorb",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29538": {
+        "id": 29538,
+        "name": "Enriched snapdragon seed",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29539": {
+        "id": 29539,
+        "name": "Agility dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29540": {
+        "id": 29540,
+        "name": "Energy dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29541": {
+        "id": 29541,
+        "name": "Restoration dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29542": {
+        "id": 29542,
+        "name": "Attack dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29543": {
+        "id": 29543,
+        "name": "Strength dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29544": {
+        "id": 29544,
+        "name": "Defence dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29545": {
+        "id": 29545,
+        "name": "Combat dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29546": {
+        "id": 29546,
+        "name": "Ranged dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29547": {
+        "id": 29547,
+        "name": "Prayer dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29548": {
+        "id": 29548,
+        "name": "Hunter dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29549": {
+        "id": 29549,
+        "name": "Fishing dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29550": {
+        "id": 29550,
+        "name": "Magic dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29551": {
+        "id": 29551,
+        "name": "Balance dolmen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29552": {
+        "id": 29552,
+        "name": "Air block",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29553": {
+        "id": 29553,
+        "name": "Earth block",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29554": {
+        "id": 29554,
+        "name": "Fire block",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29555": {
+        "id": 29555,
+        "name": "Water block",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29556": {
+        "id": 29556,
+        "name": "Vine flower",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29557": {
+        "id": 29557,
+        "name": "Vine flower",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29558": {
+        "id": 29558,
+        "name": "Grimy note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29560": {
+        "id": 29560,
+        "name": "Elite black full helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29561": {
+        "id": 29561,
+        "name": "Elite black full helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29562": {
+        "id": 29562,
+        "name": "Elite black platebody",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29563": {
+        "id": 29563,
+        "name": "Elite black platebody",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29564": {
+        "id": 29564,
+        "name": "Elite black platelegs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29565": {
+        "id": 29565,
+        "name": "Elite black platelegs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29566": {
+        "id": 29566,
+        "name": "Dark squall hood",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29567": {
+        "id": 29567,
+        "name": "Dark squall hood",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29568": {
+        "id": 29568,
+        "name": "Dark squall robe top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29569": {
+        "id": 29569,
+        "name": "Dark squall robe top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29570": {
+        "id": 29570,
+        "name": "Dark squall robe bottom",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29571": {
+        "id": 29571,
+        "name": "Dark squall robe bottom",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29572": {
+        "id": 29572,
+        "name": "Silif",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29573": {
+        "id": 29573,
+        "name": "Lit explosive",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29574": {
+        "id": 29574,
+        "name": "Bone claw",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29575": {
+        "id": 29575,
+        "name": "Bone claw",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29576": {
+        "id": 29576,
+        "name": "Bone claw",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29577": {
+        "id": 29577,
+        "name": "Bone claws",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29578": {
+        "id": 29578,
+        "name": "Bone claws",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29579": {
+        "id": 29579,
+        "name": "Bone claws",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29580": {
+        "id": 29580,
+        "name": "Tormented synapse",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29581": {
+        "id": 29581,
+        "name": "Tormented synapse",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29582": {
+        "id": 29582,
+        "name": "Tormented synapse",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29583": {
+        "id": 29583,
+        "name": "Smouldering heart",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29584": {
+        "id": 29584,
+        "name": "Smouldering heart",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29585": {
+        "id": 29585,
+        "name": "Smouldering pile of flesh",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29586": {
+        "id": 29586,
+        "name": "Smouldering pile of flesh",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29587": {
+        "id": 29587,
+        "name": "Smouldering gland",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29588": {
+        "id": 29588,
+        "name": "Smouldering gland",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29589": {
+        "id": 29589,
+        "name": "Emberlight",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29590": {
+        "id": 29590,
+        "name": "Emberlight",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29591": {
+        "id": 29591,
+        "name": "Scorching bow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29592": {
+        "id": 29592,
+        "name": "Scorching bow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29594": {
+        "id": 29594,
+        "name": "Purging staff",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29595": {
+        "id": 29595,
+        "name": "Purging staff",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29596": {
+        "id": 29596,
+        "name": "Duradel's notes",
+        "type": "normal",
+        "duplicate": false
     }
 }

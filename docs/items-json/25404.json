@@ -1,7 +1,7 @@
 {
     "id": 25404,
     "name": "Bloodbark body",
-    "last_updated": "2024-06-01",
+    "last_updated": "2024-07-13",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 48000,
     "highalch": 72000,
     "weight": 4.535,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": false,
     "release_date": "2021-01-27",
     "duplicate": false,

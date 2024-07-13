@@ -1,7 +1,7 @@
 {
     "id": 29025,
     "name": "Blood moon tassets",
-    "last_updated": "2024-05-11",
+    "last_updated": "2024-07-13",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 115964,
     "highalch": 173946,
     "weight": 4.082,
-    "buy_limit": null,
+    "buy_limit": 15,
     "quest_item": false,
     "release_date": "2024-03-20",
     "duplicate": false,

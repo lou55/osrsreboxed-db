@@ -60759,14 +60759,6 @@
         "id": 28925,
         "name": "Portal"
     },
-    "28928": {
-        "id": 28928,
-        "name": "Juna"
-    },
-    "28929": {
-        "id": 28929,
-        "name": "Juna"
-    },
     "28930": {
         "id": 28930,
         "name": "Broken cart"
@@ -89277,75 +89269,75 @@
     },
     "44805": {
         "id": 44805,
-        "name": "Flowers"
+        "name": "Red flowers"
     },
     "44806": {
         "id": 44806,
-        "name": "Flowers"
+        "name": "Red flowers"
     },
     "44807": {
         "id": 44807,
-        "name": "Flowers"
+        "name": "Red flowers"
     },
     "44808": {
         "id": 44808,
-        "name": "Flowers"
+        "name": "Orange flowers"
     },
     "44809": {
         "id": 44809,
-        "name": "Flowers"
+        "name": "Orange flowers"
     },
     "44810": {
         "id": 44810,
-        "name": "Flowers"
+        "name": "Orange flowers"
     },
     "44811": {
         "id": 44811,
-        "name": "Flowers"
+        "name": "Yellow flowers"
     },
     "44812": {
         "id": 44812,
-        "name": "Flowers"
+        "name": "Yellow flowers"
     },
     "44813": {
         "id": 44813,
-        "name": "Flowers"
+        "name": "Yellow flowers"
     },
     "44814": {
         "id": 44814,
-        "name": "Flowers"
+        "name": "Green flowers"
     },
     "44815": {
         "id": 44815,
-        "name": "Flowers"
+        "name": "Green flowers"
     },
     "44816": {
         "id": 44816,
-        "name": "Flowers"
+        "name": "Green flowers"
     },
     "44817": {
         "id": 44817,
-        "name": "Flowers"
+        "name": "Indigo flowers"
     },
     "44818": {
         "id": 44818,
-        "name": "Flowers"
+        "name": "Indigo flowers"
     },
     "44819": {
         "id": 44819,
-        "name": "Flowers"
+        "name": "Indigo flowers"
     },
     "44820": {
         "id": 44820,
-        "name": "Flowers"
+        "name": "Violet flowers"
     },
     "44821": {
         "id": 44821,
-        "name": "Flowers"
+        "name": "Violet flowers"
     },
     "44822": {
         "id": 44822,
-        "name": "Flowers"
+        "name": "Violet flowers"
     },
     "44825": {
         "id": 44825,
@@ -101850,5 +101842,1501 @@
     "53263": {
         "id": 53263,
         "name": "Barrier"
+    },
+    "53268": {
+        "id": 53268,
+        "name": "Table"
+    },
+    "53269": {
+        "id": 53269,
+        "name": "Collapsed trap"
+    },
+    "53273": {
+        "id": 53273,
+        "name": "Pit"
+    },
+    "53274": {
+        "id": 53274,
+        "name": "Pit trap"
+    },
+    "53275": {
+        "id": 53275,
+        "name": "Baited pit trap"
+    },
+    "53276": {
+        "id": 53276,
+        "name": "Broken table"
+    },
+    "53277": {
+        "id": 53277,
+        "name": "Broken table"
+    },
+    "53278": {
+        "id": 53278,
+        "name": "Trapdoor table"
+    },
+    "53279": {
+        "id": 53279,
+        "name": "Trapdoor"
+    },
+    "53281": {
+        "id": 53281,
+        "name": "Cell gate"
+    },
+    "53282": {
+        "id": 53282,
+        "name": "Cell gate"
+    },
+    "53283": {
+        "id": 53283,
+        "name": "Wanted poster"
+    },
+    "53284": {
+        "id": 53284,
+        "name": "Wanted poster"
+    },
+    "53285": {
+        "id": 53285,
+        "name": "Counter"
+    },
+    "53286": {
+        "id": 53286,
+        "name": "Counter"
+    },
+    "53287": {
+        "id": 53287,
+        "name": "Counter"
+    },
+    "53288": {
+        "id": 53288,
+        "name": "Ledge"
+    },
+    "53289": {
+        "id": 53289,
+        "name": "Ledge"
+    },
+    "53290": {
+        "id": 53290,
+        "name": "Herb patch"
+    },
+    "53291": {
+        "id": 53291,
+        "name": "Herbs"
+    },
+    "53292": {
+        "id": 53292,
+        "name": "Herbs"
+    },
+    "53296": {
+        "id": 53296,
+        "name": "Broken statue"
+    },
+    "53297": {
+        "id": 53297,
+        "name": "Statue of Hazelmere"
+    },
+    "53298": {
+        "id": 53298,
+        "name": "Statue of Turael"
+    },
+    "53299": {
+        "id": 53299,
+        "name": "Statue of Duradel"
+    },
+    "53300": {
+        "id": 53300,
+        "name": "Statue of Sloane"
+    },
+    "53301": {
+        "id": 53301,
+        "name": "Statue of Ghommal"
+    },
+    "53302": {
+        "id": 53302,
+        "name": "Statue of Cyrisus"
+    },
+    "53303": {
+        "id": 53303,
+        "name": "Rock"
+    },
+    "53304": {
+        "id": 53304,
+        "name": "Rock"
+    },
+    "53306": {
+        "id": 53306,
+        "name": "Drawers"
+    },
+    "53307": {
+        "id": 53307,
+        "name": "Drawers"
+    },
+    "53313": {
+        "id": 53313,
+        "name": "Large door"
+    },
+    "53314": {
+        "id": 53314,
+        "name": "Large door"
+    },
+    "53317": {
+        "id": 53317,
+        "name": "Large door"
+    },
+    "53318": {
+        "id": 53318,
+        "name": "Large door"
+    },
+    "53319": {
+        "id": 53319,
+        "name": "Ladder"
+    },
+    "53320": {
+        "id": 53320,
+        "name": "Ladder"
+    },
+    "53321": {
+        "id": 53321,
+        "name": "Large doors"
+    },
+    "53322": {
+        "id": 53322,
+        "name": "Large doors"
+    },
+    "53343": {
+        "id": 53343,
+        "name": "Rock"
+    },
+    "53346": {
+        "id": 53346,
+        "name": "Rubble"
+    },
+    "53347": {
+        "id": 53347,
+        "name": "Ladder"
+    },
+    "53348": {
+        "id": 53348,
+        "name": "Ladder"
+    },
+    "53349": {
+        "id": 53349,
+        "name": "Tile"
+    },
+    "53350": {
+        "id": 53350,
+        "name": "Trapdoor"
+    },
+    "53358": {
+        "id": 53358,
+        "name": "Ladder"
+    },
+    "53359": {
+        "id": 53359,
+        "name": "Desk"
+    },
+    "53360": {
+        "id": 53360,
+        "name": "Desk"
+    },
+    "53361": {
+        "id": 53361,
+        "name": "Wardrobe"
+    },
+    "53362": {
+        "id": 53362,
+        "name": "Wardrobe"
+    },
+    "53363": {
+        "id": 53363,
+        "name": "Key rack"
+    },
+    "53364": {
+        "id": 53364,
+        "name": "Key rack"
+    },
+    "53365": {
+        "id": 53365,
+        "name": "Solid door"
+    },
+    "53366": {
+        "id": 53366,
+        "name": "Solid door"
+    },
+    "53367": {
+        "id": 53367,
+        "name": "Table"
+    },
+    "53368": {
+        "id": 53368,
+        "name": "Table"
+    },
+    "53369": {
+        "id": 53369,
+        "name": "Table"
+    },
+    "53370": {
+        "id": 53370,
+        "name": "Ladder"
+    },
+    "53371": {
+        "id": 53371,
+        "name": "Ladder"
+    },
+    "53372": {
+        "id": 53372,
+        "name": "Wardrobe"
+    },
+    "53373": {
+        "id": 53373,
+        "name": "Wardrobe"
+    },
+    "53374": {
+        "id": 53374,
+        "name": "Wardrobe"
+    },
+    "53441": {
+        "id": 53441,
+        "name": "Gate"
+    },
+    "53442": {
+        "id": 53442,
+        "name": "Gate"
+    },
+    "53443": {
+        "id": 53443,
+        "name": "Gate"
+    },
+    "53444": {
+        "id": 53444,
+        "name": "Gate"
+    },
+    "53445": {
+        "id": 53445,
+        "name": "Gate"
+    },
+    "53446": {
+        "id": 53446,
+        "name": "Gate"
+    },
+    "53478": {
+        "id": 53478,
+        "name": "Solid door"
+    },
+    "53479": {
+        "id": 53479,
+        "name": "Solid door"
+    },
+    "53484": {
+        "id": 53484,
+        "name": "Crate"
+    },
+    "53485": {
+        "id": 53485,
+        "name": "Crate"
+    },
+    "53486": {
+        "id": 53486,
+        "name": "Crate"
+    },
+    "53487": {
+        "id": 53487,
+        "name": "Barrel"
+    },
+    "53488": {
+        "id": 53488,
+        "name": "Barrel"
+    },
+    "53489": {
+        "id": 53489,
+        "name": "Chain"
+    },
+    "53490": {
+        "id": 53490,
+        "name": "Chain"
+    },
+    "53501": {
+        "id": 53501,
+        "name": "Table"
+    },
+    "53502": {
+        "id": 53502,
+        "name": "Table"
+    },
+    "53503": {
+        "id": 53503,
+        "name": "Table"
+    },
+    "53504": {
+        "id": 53504,
+        "name": "Table"
+    },
+    "53505": {
+        "id": 53505,
+        "name": "Table"
+    },
+    "53506": {
+        "id": 53506,
+        "name": "Map board"
+    },
+    "53511": {
+        "id": 53511,
+        "name": "Bridge"
+    },
+    "53512": {
+        "id": 53512,
+        "name": "Bridge"
+    },
+    "53513": {
+        "id": 53513,
+        "name": "Wall"
+    },
+    "53514": {
+        "id": 53514,
+        "name": "Wall"
+    },
+    "53525": {
+        "id": 53525,
+        "name": "Barricade"
+    },
+    "53526": {
+        "id": 53526,
+        "name": "Barricade"
+    },
+    "53527": {
+        "id": 53527,
+        "name": "Barricade"
+    },
+    "53528": {
+        "id": 53528,
+        "name": "Barricade"
+    },
+    "53529": {
+        "id": 53529,
+        "name": "Barricade"
+    },
+    "53530": {
+        "id": 53530,
+        "name": "Barricade"
+    },
+    "53531": {
+        "id": 53531,
+        "name": "Barricade"
+    },
+    "53582": {
+        "id": 53582,
+        "name": "Crate"
+    },
+    "53583": {
+        "id": 53583,
+        "name": "Crate"
+    },
+    "53584": {
+        "id": 53584,
+        "name": "Storage crate"
+    },
+    "53585": {
+        "id": 53585,
+        "name": "Barrel"
+    },
+    "53586": {
+        "id": 53586,
+        "name": "Barrel"
+    },
+    "53607": {
+        "id": 53607,
+        "name": "Ice wall"
+    },
+    "53608": {
+        "id": 53608,
+        "name": "Ice wall"
+    },
+    "53609": {
+        "id": 53609,
+        "name": "Recess"
+    },
+    "53610": {
+        "id": 53610,
+        "name": "Recess"
+    },
+    "53611": {
+        "id": 53611,
+        "name": "Recess"
+    },
+    "53612": {
+        "id": 53612,
+        "name": "Recess"
+    },
+    "53613": {
+        "id": 53613,
+        "name": "Recess"
+    },
+    "53614": {
+        "id": 53614,
+        "name": "Recess"
+    },
+    "53615": {
+        "id": 53615,
+        "name": "Recessed block"
+    },
+    "53616": {
+        "id": 53616,
+        "name": "Recessed block"
+    },
+    "53617": {
+        "id": 53617,
+        "name": "Recessed block"
+    },
+    "53618": {
+        "id": 53618,
+        "name": "Recessed block"
+    },
+    "53619": {
+        "id": 53619,
+        "name": "Recessed block"
+    },
+    "53620": {
+        "id": 53620,
+        "name": "Recesses"
+    },
+    "53621": {
+        "id": 53621,
+        "name": "Recessed blocks"
+    },
+    "53622": {
+        "id": 53622,
+        "name": "Opening"
+    },
+    "53623": {
+        "id": 53623,
+        "name": "Wall"
+    },
+    "53624": {
+        "id": 53624,
+        "name": "Wall"
+    },
+    "53625": {
+        "id": 53625,
+        "name": "Mechanism"
+    },
+    "53626": {
+        "id": 53626,
+        "name": "Mechanism"
+    },
+    "53627": {
+        "id": 53627,
+        "name": "Mechanism"
+    },
+    "53628": {
+        "id": 53628,
+        "name": "Mechanism"
+    },
+    "53629": {
+        "id": 53629,
+        "name": "Mechanism"
+    },
+    "53630": {
+        "id": 53630,
+        "name": "Mechanism"
+    },
+    "53631": {
+        "id": 53631,
+        "name": "Cavity"
+    },
+    "53632": {
+        "id": 53632,
+        "name": "Cavity"
+    },
+    "53633": {
+        "id": 53633,
+        "name": "Cavity"
+    },
+    "53637": {
+        "id": 53637,
+        "name": "Hole"
+    },
+    "53638": {
+        "id": 53638,
+        "name": "Blocked cavity"
+    },
+    "53639": {
+        "id": 53639,
+        "name": "Rubble"
+    },
+    "53640": {
+        "id": 53640,
+        "name": "Statue"
+    },
+    "53641": {
+        "id": 53641,
+        "name": "Statue"
+    },
+    "53642": {
+        "id": 53642,
+        "name": "Statue"
+    },
+    "53643": {
+        "id": 53643,
+        "name": "Statue"
+    },
+    "53644": {
+        "id": 53644,
+        "name": "Statue"
+    },
+    "53645": {
+        "id": 53645,
+        "name": "Statue"
+    },
+    "53646": {
+        "id": 53646,
+        "name": "Statue"
+    },
+    "53647": {
+        "id": 53647,
+        "name": "Statue"
+    },
+    "53648": {
+        "id": 53648,
+        "name": "Statue"
+    },
+    "53649": {
+        "id": 53649,
+        "name": "Statue"
+    },
+    "53650": {
+        "id": 53650,
+        "name": "Statue"
+    },
+    "53651": {
+        "id": 53651,
+        "name": "Statue"
+    },
+    "53652": {
+        "id": 53652,
+        "name": "Statue"
+    },
+    "53653": {
+        "id": 53653,
+        "name": "Statue"
+    },
+    "53654": {
+        "id": 53654,
+        "name": "Statue"
+    },
+    "53655": {
+        "id": 53655,
+        "name": "Statue"
+    },
+    "53656": {
+        "id": 53656,
+        "name": "Statue"
+    },
+    "53657": {
+        "id": 53657,
+        "name": "Statue"
+    },
+    "53658": {
+        "id": 53658,
+        "name": "Statue"
+    },
+    "53659": {
+        "id": 53659,
+        "name": "Statue"
+    },
+    "53660": {
+        "id": 53660,
+        "name": "Statue"
+    },
+    "53661": {
+        "id": 53661,
+        "name": "Statue"
+    },
+    "53662": {
+        "id": 53662,
+        "name": "Statue"
+    },
+    "53663": {
+        "id": 53663,
+        "name": "Statue"
+    },
+    "53664": {
+        "id": 53664,
+        "name": "Statue"
+    },
+    "53665": {
+        "id": 53665,
+        "name": "Statue"
+    },
+    "53666": {
+        "id": 53666,
+        "name": "Stone table"
+    },
+    "53667": {
+        "id": 53667,
+        "name": "Stone table"
+    },
+    "53668": {
+        "id": 53668,
+        "name": "Stone table"
+    },
+    "53669": {
+        "id": 53669,
+        "name": "Stone table"
+    },
+    "53670": {
+        "id": 53670,
+        "name": "Stone table"
+    },
+    "53671": {
+        "id": 53671,
+        "name": "Stone table"
+    },
+    "53672": {
+        "id": 53672,
+        "name": "Stone table"
+    },
+    "53673": {
+        "id": 53673,
+        "name": "Stone table"
+    },
+    "53674": {
+        "id": 53674,
+        "name": "Stone table"
+    },
+    "53675": {
+        "id": 53675,
+        "name": "Stone table"
+    },
+    "53676": {
+        "id": 53676,
+        "name": "Wall"
+    },
+    "53677": {
+        "id": 53677,
+        "name": "Stone cube"
+    },
+    "53678": {
+        "id": 53678,
+        "name": "Stone cube"
+    },
+    "53679": {
+        "id": 53679,
+        "name": "Stone cube"
+    },
+    "53680": {
+        "id": 53680,
+        "name": "Stone cube"
+    },
+    "53681": {
+        "id": 53681,
+        "name": "Stone cube"
+    },
+    "53682": {
+        "id": 53682,
+        "name": "Stone cube"
+    },
+    "53683": {
+        "id": 53683,
+        "name": "Stone cube"
+    },
+    "53684": {
+        "id": 53684,
+        "name": "Stone cube"
+    },
+    "53685": {
+        "id": 53685,
+        "name": "Stone cube"
+    },
+    "53686": {
+        "id": 53686,
+        "name": "Stone cube"
+    },
+    "53687": {
+        "id": 53687,
+        "name": "Stone cube"
+    },
+    "53688": {
+        "id": 53688,
+        "name": "Stone cube"
+    },
+    "53689": {
+        "id": 53689,
+        "name": "Stone cube"
+    },
+    "53690": {
+        "id": 53690,
+        "name": "Stone cube"
+    },
+    "53691": {
+        "id": 53691,
+        "name": "Stone cube"
+    },
+    "53692": {
+        "id": 53692,
+        "name": "Stone cube"
+    },
+    "53693": {
+        "id": 53693,
+        "name": "Stone cube"
+    },
+    "53694": {
+        "id": 53694,
+        "name": "Huge door"
+    },
+    "53695": {
+        "id": 53695,
+        "name": "Huge door"
+    },
+    "53696": {
+        "id": 53696,
+        "name": "Huge door"
+    },
+    "53697": {
+        "id": 53697,
+        "name": "Huge door"
+    },
+    "53698": {
+        "id": 53698,
+        "name": "Dolmen"
+    },
+    "53699": {
+        "id": 53699,
+        "name": "Dolmen"
+    },
+    "53700": {
+        "id": 53700,
+        "name": "Dolmen"
+    },
+    "53701": {
+        "id": 53701,
+        "name": "Dolmen"
+    },
+    "53702": {
+        "id": 53702,
+        "name": "Dolmen"
+    },
+    "53703": {
+        "id": 53703,
+        "name": "Dolmen"
+    },
+    "53704": {
+        "id": 53704,
+        "name": "Dolmen"
+    },
+    "53705": {
+        "id": 53705,
+        "name": "Dolmen"
+    },
+    "53706": {
+        "id": 53706,
+        "name": "Dolmen"
+    },
+    "53707": {
+        "id": 53707,
+        "name": "Dolmen"
+    },
+    "53708": {
+        "id": 53708,
+        "name": "Dolmen"
+    },
+    "53709": {
+        "id": 53709,
+        "name": "Dolmen"
+    },
+    "53710": {
+        "id": 53710,
+        "name": "Dolmen"
+    },
+    "53711": {
+        "id": 53711,
+        "name": "Dolmen"
+    },
+    "53712": {
+        "id": 53712,
+        "name": "Dolmen"
+    },
+    "53713": {
+        "id": 53713,
+        "name": "Dolmen"
+    },
+    "53714": {
+        "id": 53714,
+        "name": "Dolmen"
+    },
+    "53715": {
+        "id": 53715,
+        "name": "Dolmen"
+    },
+    "53716": {
+        "id": 53716,
+        "name": "Dolmen"
+    },
+    "53717": {
+        "id": 53717,
+        "name": "Dolmen"
+    },
+    "53718": {
+        "id": 53718,
+        "name": "Dolmen"
+    },
+    "53719": {
+        "id": 53719,
+        "name": "Dolmen"
+    },
+    "53720": {
+        "id": 53720,
+        "name": "Dolmen"
+    },
+    "53721": {
+        "id": 53721,
+        "name": "Dolmen"
+    },
+    "53723": {
+        "id": 53723,
+        "name": "Dead vine"
+    },
+    "53724": {
+        "id": 53724,
+        "name": "Vine flower"
+    },
+    "53725": {
+        "id": 53725,
+        "name": "Brazier"
+    },
+    "53726": {
+        "id": 53726,
+        "name": "Brazier"
+    },
+    "53727": {
+        "id": 53727,
+        "name": "Rocks"
+    },
+    "53728": {
+        "id": 53728,
+        "name": "Brazier"
+    },
+    "53729": {
+        "id": 53729,
+        "name": "Brazier"
+    },
+    "53730": {
+        "id": 53730,
+        "name": "Brazier"
+    },
+    "53731": {
+        "id": 53731,
+        "name": "Rocks"
+    },
+    "53732": {
+        "id": 53732,
+        "name": "Brazier"
+    },
+    "53733": {
+        "id": 53733,
+        "name": "Brazier"
+    },
+    "53734": {
+        "id": 53734,
+        "name": "Brazier"
+    },
+    "53736": {
+        "id": 53736,
+        "name": "Brazier"
+    },
+    "53737": {
+        "id": 53737,
+        "name": "Brazier"
+    },
+    "53794": {
+        "id": 53794,
+        "name": "Dead vine"
+    },
+    "53795": {
+        "id": 53795,
+        "name": "Dead vine"
+    },
+    "53796": {
+        "id": 53796,
+        "name": "Dead vine"
+    },
+    "53797": {
+        "id": 53797,
+        "name": "Dead vine"
+    },
+    "53798": {
+        "id": 53798,
+        "name": "Dead vine"
+    },
+    "53799": {
+        "id": 53799,
+        "name": "Dead vine"
+    },
+    "53800": {
+        "id": 53800,
+        "name": "Dead vine"
+    },
+    "53801": {
+        "id": 53801,
+        "name": "Dead vine"
+    },
+    "53802": {
+        "id": 53802,
+        "name": "Dead vine"
+    },
+    "53809": {
+        "id": 53809,
+        "name": "Skeletal remains"
+    },
+    "53810": {
+        "id": 53810,
+        "name": "Skeletal remains"
+    },
+    "53811": {
+        "id": 53811,
+        "name": "Skeletal remains"
+    },
+    "53812": {
+        "id": 53812,
+        "name": "Skeletal remains"
+    },
+    "53813": {
+        "id": 53813,
+        "name": "Skeleton"
+    },
+    "53814": {
+        "id": 53814,
+        "name": "Skeleton"
+    },
+    "53815": {
+        "id": 53815,
+        "name": "Skeleton"
+    },
+    "53816": {
+        "id": 53816,
+        "name": "Skeleton"
+    },
+    "53819": {
+        "id": 53819,
+        "name": "Brazier"
+    },
+    "53820": {
+        "id": 53820,
+        "name": "Brazier"
+    },
+    "53821": {
+        "id": 53821,
+        "name": "Mysterious Stone"
+    },
+    "53822": {
+        "id": 53822,
+        "name": "Mysterious Stone"
+    },
+    "53823": {
+        "id": 53823,
+        "name": "Stone of Jas"
+    },
+    "53824": {
+        "id": 53824,
+        "name": "Stone of Jas"
+    },
+    "53825": {
+        "id": 53825,
+        "name": "Stone of Jas"
+    },
+    "53826": {
+        "id": 53826,
+        "name": "Plinth"
+    },
+    "53830": {
+        "id": 53830,
+        "name": "Hole"
+    },
+    "53831": {
+        "id": 53831,
+        "name": "Hole"
+    },
+    "53832": {
+        "id": 53832,
+        "name": "Hole"
+    },
+    "53883": {
+        "id": 53883,
+        "name": "Broken wall"
+    },
+    "53884": {
+        "id": 53884,
+        "name": "Broken wall"
+    },
+    "53885": {
+        "id": 53885,
+        "name": "Painting"
+    },
+    "53886": {
+        "id": 53886,
+        "name": "Painting"
+    },
+    "53892": {
+        "id": 53892,
+        "name": "Ladder"
+    },
+    "53893": {
+        "id": 53893,
+        "name": "Door"
+    },
+    "53894": {
+        "id": 53894,
+        "name": "Door"
+    },
+    "53895": {
+        "id": 53895,
+        "name": "Stairs"
+    },
+    "53896": {
+        "id": 53896,
+        "name": "Stairs"
+    },
+    "53897": {
+        "id": 53897,
+        "name": "Door"
+    },
+    "53898": {
+        "id": 53898,
+        "name": "Door"
+    },
+    "53899": {
+        "id": 53899,
+        "name": "Gate"
+    },
+    "53900": {
+        "id": 53900,
+        "name": "Gate"
+    },
+    "53901": {
+        "id": 53901,
+        "name": "Old battered door"
+    },
+    "53902": {
+        "id": 53902,
+        "name": "Old battered door"
+    },
+    "53903": {
+        "id": 53903,
+        "name": "Old battered door"
+    },
+    "53904": {
+        "id": 53904,
+        "name": "Old battered door"
+    },
+    "53905": {
+        "id": 53905,
+        "name": "Old battered door"
+    },
+    "53906": {
+        "id": 53906,
+        "name": "Old battered door"
+    },
+    "53907": {
+        "id": 53907,
+        "name": "Old battered door"
+    },
+    "53908": {
+        "id": 53908,
+        "name": "Floor wire"
+    },
+    "53909": {
+        "id": 53909,
+        "name": "Floor wire"
+    },
+    "53910": {
+        "id": 53910,
+        "name": "Floor wire"
+    },
+    "53911": {
+        "id": 53911,
+        "name": "Floor wire"
+    },
+    "53912": {
+        "id": 53912,
+        "name": "Floor wire"
+    },
+    "53913": {
+        "id": 53913,
+        "name": "Floor wire"
+    },
+    "53914": {
+        "id": 53914,
+        "name": "Bookcase"
+    },
+    "53915": {
+        "id": 53915,
+        "name": "Bookcase"
+    },
+    "53916": {
+        "id": 53916,
+        "name": "Bookcase"
+    },
+    "53917": {
+        "id": 53917,
+        "name": "Bookcase"
+    },
+    "53918": {
+        "id": 53918,
+        "name": "Bookcase"
+    },
+    "53919": {
+        "id": 53919,
+        "name": "Bookcase"
+    },
+    "53920": {
+        "id": 53920,
+        "name": "Bookcase"
+    },
+    "53921": {
+        "id": 53921,
+        "name": "Gate"
+    },
+    "53922": {
+        "id": 53922,
+        "name": "Gate"
+    },
+    "53923": {
+        "id": 53923,
+        "name": "Gate"
+    },
+    "53924": {
+        "id": 53924,
+        "name": "Spiral staircase"
+    },
+    "53925": {
+        "id": 53925,
+        "name": "Floor"
+    },
+    "53926": {
+        "id": 53926,
+        "name": "Floor"
+    },
+    "53927": {
+        "id": 53927,
+        "name": "Spiral staircase"
+    },
+    "53928": {
+        "id": 53928,
+        "name": "Statue"
+    },
+    "53929": {
+        "id": 53929,
+        "name": "Statue"
+    },
+    "53930": {
+        "id": 53930,
+        "name": "Statue"
+    },
+    "53931": {
+        "id": 53931,
+        "name": "Statue"
+    },
+    "53932": {
+        "id": 53932,
+        "name": "Statue"
+    },
+    "53933": {
+        "id": 53933,
+        "name": "Statue"
+    },
+    "53935": {
+        "id": 53935,
+        "name": "Pile of weights"
+    },
+    "53936": {
+        "id": 53936,
+        "name": "Drawers"
+    },
+    "53937": {
+        "id": 53937,
+        "name": "Pressure gauge"
+    },
+    "53938": {
+        "id": 53938,
+        "name": "Waste-paper basket"
+    },
+    "53939": {
+        "id": 53939,
+        "name": "Bookcase"
+    },
+    "53940": {
+        "id": 53940,
+        "name": "Desk"
+    },
+    "53941": {
+        "id": 53941,
+        "name": "Desk"
+    },
+    "53942": {
+        "id": 53942,
+        "name": "Tunnel"
+    },
+    "53943": {
+        "id": 53943,
+        "name": "Treasure pile"
+    },
+    "53944": {
+        "id": 53944,
+        "name": "Contraption"
+    },
+    "53945": {
+        "id": 53945,
+        "name": "Tiling"
+    },
+    "53946": {
+        "id": 53946,
+        "name": "Stairs"
+    },
+    "53947": {
+        "id": 53947,
+        "name": "Stairs"
+    },
+    "53948": {
+        "id": 53948,
+        "name": "Stairs"
+    },
+    "53949": {
+        "id": 53949,
+        "name": "Bed"
+    },
+    "53950": {
+        "id": 53950,
+        "name": "Bed chest"
+    },
+    "53951": {
+        "id": 53951,
+        "name": "Bed chest"
+    },
+    "53952": {
+        "id": 53952,
+        "name": "Bed chest"
+    },
+    "53953": {
+        "id": 53953,
+        "name": "Bed chest"
+    },
+    "53954": {
+        "id": 53954,
+        "name": "Empty pallet"
+    },
+    "53955": {
+        "id": 53955,
+        "name": "Coal pile"
+    },
+    "53956": {
+        "id": 53956,
+        "name": "Coal pile"
+    },
+    "53957": {
+        "id": 53957,
+        "name": "Coal pile"
+    },
+    "53958": {
+        "id": 53958,
+        "name": "Coal pile"
+    },
+    "53960": {
+        "id": 53960,
+        "name": "Empty pallet"
+    },
+    "53961": {
+        "id": 53961,
+        "name": "Fire rune pile"
+    },
+    "53962": {
+        "id": 53962,
+        "name": "Fire rune pile"
+    },
+    "53963": {
+        "id": 53963,
+        "name": "Fire rune pile"
+    },
+    "53964": {
+        "id": 53964,
+        "name": "Fire rune pile"
+    },
+    "53966": {
+        "id": 53966,
+        "name": "Empty pallet"
+    },
+    "53967": {
+        "id": 53967,
+        "name": "Death rune pile"
+    },
+    "53968": {
+        "id": 53968,
+        "name": "Death rune pile"
+    },
+    "53969": {
+        "id": 53969,
+        "name": "Death rune pile"
+    },
+    "53970": {
+        "id": 53970,
+        "name": "Death rune pile"
+    },
+    "53972": {
+        "id": 53972,
+        "name": "Empty pallet"
+    },
+    "53973": {
+        "id": 53973,
+        "name": "Magic logs pile"
+    },
+    "53974": {
+        "id": 53974,
+        "name": "Magic logs pile"
+    },
+    "53975": {
+        "id": 53975,
+        "name": "Magic logs pile"
+    },
+    "53976": {
+        "id": 53976,
+        "name": "Magic logs pile"
+    },
+    "53978": {
+        "id": 53978,
+        "name": "Display dial"
+    },
+    "53979": {
+        "id": 53979,
+        "name": "Display dial"
+    },
+    "53980": {
+        "id": 53980,
+        "name": "Display dial"
+    },
+    "53981": {
+        "id": 53981,
+        "name": "Display dial"
+    },
+    "53994": {
+        "id": 53994,
+        "name": "Barrel"
+    },
+    "53995": {
+        "id": 53995,
+        "name": "Barrel"
+    },
+    "53996": {
+        "id": 53996,
+        "name": "Crate"
+    },
+    "53997": {
+        "id": 53997,
+        "name": "Crate"
+    },
+    "53998": {
+        "id": 53998,
+        "name": "Table"
+    },
+    "53999": {
+        "id": 53999,
+        "name": "Stool"
+    },
+    "54000": {
+        "id": 54000,
+        "name": "Bookcase"
+    },
+    "54001": {
+        "id": 54001,
+        "name": "Bookcase"
+    },
+    "54002": {
+        "id": 54002,
+        "name": "Bookcase"
+    },
+    "54004": {
+        "id": 54004,
+        "name": "Desk"
+    },
+    "54005": {
+        "id": 54005,
+        "name": "Books"
+    },
+    "54006": {
+        "id": 54006,
+        "name": "Books"
+    },
+    "54007": {
+        "id": 54007,
+        "name": "Books"
+    },
+    "54011": {
+        "id": 54011,
+        "name": "Bookcase"
+    },
+    "54012": {
+        "id": 54012,
+        "name": "Broken furnace"
+    },
+    "54013": {
+        "id": 54013,
+        "name": "Drawers"
+    },
+    "54028": {
+        "id": 54028,
+        "name": "Bed"
+    },
+    "54029": {
+        "id": 54029,
+        "name": "Bed"
+    },
+    "54030": {
+        "id": 54030,
+        "name": "Bed"
+    },
+    "54031": {
+        "id": 54031,
+        "name": "Bed"
+    },
+    "54033": {
+        "id": 54033,
+        "name": "Floor wire"
+    },
+    "54034": {
+        "id": 54034,
+        "name": "Floor wire"
+    },
+    "54049": {
+        "id": 54049,
+        "name": "Range"
+    },
+    "54050": {
+        "id": 54050,
+        "name": "Larder"
+    },
+    "54051": {
+        "id": 54051,
+        "name": "Barrel"
+    },
+    "54053": {
+        "id": 54053,
+        "name": "Door"
+    },
+    "54054": {
+        "id": 54054,
+        "name": "Loose Railing"
+    },
+    "54055": {
+        "id": 54055,
+        "name": "Ladder"
+    },
+    "54059": {
+        "id": 54059,
+        "name": "Door"
+    },
+    "54062": {
+        "id": 54062,
+        "name": "Debug Man"
+    },
+    "54063": {
+        "id": 54063,
+        "name": "Debug Woman"
     }
 }

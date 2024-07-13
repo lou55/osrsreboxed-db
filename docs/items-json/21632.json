@@ -1,7 +1,7 @@
 {
     "id": 21632,
     "name": "Ancient diary",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-07-13",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": true,
     "examine": "It's unusually large.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4Xu3XQUsCURAH8H0sIYa4iIvLtpAlGJhQIYQEFXmICEKCgqTIpE7dvHUooojqY0/NW2Z9Oz613Ld6ceB/8PLej5nZVS1rUcZLwCBzLwGB68r4hcK8YSGm7HkxVBw2M5yA4vJyBNKhXMeRieNSAwrw8jkJqPj+SBTBCrlclJSAQgJUjC6E46hhYKIKu4OYZq02hODdGoeq+lkJ2llbS4IadAdBo1CTxkcjQ0wC0KA7dLEOxbujLjmm1dqBTd+SSTgyIQ9XLyfQpFB3CEKYBB0Ku8NHMwmnjqpaMobBEtqnigP4IkeY3wU2isHLdbuD4Z/VEWHWSxmzGHWR+cW8Oyomn83KIATHZQCDFX5n6caldoswHITdMYqh7owDYWhvCEWgctEYBktANQgmgvgiEygoZmDFGYD46f8sAd1DT4JUlA7GX4C0zMa706jYsF224Xp/POwvIH76FCWguWFL1OvrLbw838DVXinCjUKp7x7PWTILam/ZMt9fD/D1eQ8fHz14f+vCZdONcITie4QxOC6qcI/wYh0Oc77rwlmjKMNHZ7A7asV/4ak4DHbs6akD/f4FtOqOzEEtTEogy6K2h4fHgad1G45rNjw+tqF3dwKdTku+mbcDOz0QLx0Qd+ro9yFACKaxOkMQLxWGo8KxHW+Ff4fmAqLiIzX8hE1f8ZEuKt36AeR/baUhPKrgAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCklEQVR4Xu3W30vCUBQH8F1GD4Y4xOGYQkZgoEaJECKYJRQRRAQFSZBF0UNvvvkmhWR/9qlzx93Ozu76tZVRHfi+iOx+OOcep2H81+8vAeHMtQSUbVvGzedl5gj0MBXHiaBsy/LzTUABhcVFiVhxXS2KwvLZrJ8vAgpwclmJUSCKojgdKgpMVB4GD2vXaj5Gl7dQVTcjQc3l5SQoIQ/DziAoDsVHyFFqZIhJAAq6ow6OQ8WBMHXX8JNwZMFmcRCFUYz6XHWn212D7d66xDjWQpKRRbvDw3EY1R3EdDp11plEI4t2R4fQjUrdG4RslM0Q5NMYPJyuOB8Th9FLnMtkQp1JAMEK/+bwg3XhGOxKtZgKBssbFe0ODyLwOxSkMBjEZDPBqPgJHyj9L7IufKsUqFIIb1NiULVcfhPEXxUUVLJSHhWCKEoHi9sq7E5Ko8IScN51/LwGew2UUnewBLRXTWitmDCZXMBZpyijcHEoumEUxJ/+iRJwtG7KPM1uYPZ4DdPpFTzcD+G0bfs4heL3CJNid1QJGPa8kelwmONNGw5bBRk+uhS7Q8t759zuliI4DHZsPB7AaHQC/YYls1Xz8kUgw/AeGvztpLiDhgl7NRPu7o7g6nIfBoN+5DXBn5daBfchisN7tfOyBPiawLSWUlv395UOd9AshPKtIFo6nMLMBURLIX4E5k/UM7Tndt4QNM/0AAAAAElFTkSuQmCC",
     "wiki_name": "Ancient diary",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_diary",
     "equipment": null,

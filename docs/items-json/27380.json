@@ -1,7 +1,7 @@
 {
     "id": 27380,
     "name": "Remnant of zebak",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-07-13",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-09-08",
     "duplicate": false,
     "examine": "Contains the essence of Zebak.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADc0lEQVR4Xu2W6UtUARTFfd9DCcXBEbcERYNccCVXRh2XQWdyG8c9l9HJ1EbL3DNlLEXNxCxMSayQorSoDKVCWvxS/QP9Mae59/WamdcIFU8x8sCF4fGW35x773nPw+NI/5cEiHUoJGDc35frEEBJzogVHRzMJT/rgORwRnLngGCcXXAcmzWWYb7SiIVqE24HqZxaJj9XMYk3ngjwxWygih8qHbuWlYFXHW3YsY3iy9Ii7jfW41NzPXZbG/HwTCGelhmUhhLbYVUdx5q5gR/+ZrgfH6YmMJubhcnsTCwV5WN7oJeP3dMX4K4uD5dTkqALC0WXpRS2/rNKQolAZl8vzJnK2YFnba3Y7ruE9xPjmM7RMAS5sWrQMUx/ajLMcdEojghDzokQWOJjlJwrsTUNPl64qtdhuryEZ2W5vgYfb0zhRbuFnSKXqKiFQ2mn0RgT5TJHCm2dgCtqHwyqvaGLOoWObA368nMxZijiIX47MoQ7BVp2hop+ExS1kcoZRAEYkoCLft48PymhoTAlJqApLeUn2Ka1nR2i+Xliaca7mgouah+BKdgmSSIQzQ+1rM7HExF+KiTZ50J7MhLGhDhuHQFt9XThpakUX+0DTzNGsPsARHLOEwFGb0/EhwQhKzICpXGxOK/J4NlaP2fGc2MJHpfq8dkON9Rdjdb6wh/XKSzxX4owNEuZ4WGICvCHyvMYEtR+2HhwHeurNt42GuZkfzUq7A6SY7SJ+wIlOUQDTi2LDQxgpwaslagzajGXlw1rUgKve2diPOfQ6+4L2L054+Kw/K5/KQFj/j4uN5a2r9c+YzZNOsYyU7noN619T56Wg5TyipJbKkWhXD8tHEXheCs/B7ZiPWcUtW24sABLtVUMtFFezLVZWcbnKzDorjCu2SIwDIUjxQJtHyUz/bZkpuNRSxNHBCX4WnERdupMSrkkuvFryAk8PwRErwpyhzaPYKRrKCQJiDZwq6oc31aWlYFyByO9TCkIR9JTXFrp7GJZZDi/4yinyCWF50mSAHNtAUZ6ajidJSD3rwsRcnywgV2izxNKdccfUEQC2psM/JCV+R6ZK+4kOH2KiLW2OMClKNRobx1DSUDyMxxyAEmtXJjswOKM9Teu/SPJZ2YvCejrFNskAVGwEuT0aIuSLrkb+L0kB3e3BAcs+UMlEPnxI/2z+g5w+KBCMp6K5AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWUlEQVR4Xu2V20tUURTGPe+hhDKDincytEgNnZQUFcf74CVv40yOjrfRyQuN2pRXtEFTyRIxs9ISS6QoLSojoQtR1kP10lt/zFdrHcYzcwYy9KhBfrA4zmG79++s9a21vbwO9P9JgPzNPkrASKAK/wAUAUgRGxrKIV+1BxIBKCvOcALJVyoo9693jclgNSb15Zg26jFTZcDNELVLyZyhqKSvHwtSYahIh4mKUv49H+aPK9o0zBXm4Z1jEF/nbuN+vRmfGs3YaK7H0pkCPCkvVhpKBLKpD2PebOIDn7Y0Y737Aj6MjWA8Mx33ivL58EdlRfz3HV0uLiYnQhcZgQ5rGYZ7apWEEoEsKh8MlxRhylCBhdpqrJyz4OP1q5jIysBisY6zRE+C6UlJQn1cjFvZFDS5uGGdnw/6dHlwFBeyZyhbbwb78bzNiskcLWeGoKiEg6nJcKSnuIEoBtMX4Isuf19oo6NgTU+FLUuLgYJ8NvGarY2B1nsv4bG1EasVJQx1Iy+Ln04g+a47kMAwVK4ofzUMpzSoTTmN1ow0dOfl4GFTwyYQPT+3W/FtoAdrxnK3Usl33aEkHxAcgSWGhyH7WDT0mnguHQG9tncwyPehfjb9y/YWtDUo3mGiJA8I0Pt6c/koyuJPMhh5ikz+TF/KnbZcUohmcwEmLjftVpZIIowu5gTSj0YiJigQau9D0AT4Y/XBKFYWh9nY1F1JgQGo/A36wlDGo2EXsiRdmGTyhLAQHFGpGKrXZkSNPnuzs2guUacNZ6TiVed5/Lg2jo0Wy2bZ5TtvUwIcgX4um7oHzSIKmlO2RA3PIXtuNpYtdTxAaXI7Q1Eo14vT1VfU5lO5mRgtLcYtk5HLRqNhrvosdyKNAwoqofP/5btvQ+5Aru8JhoYjGZ1Mbk2I4xFBXUjGpxExm5/NHiPDK5olz6krAZVERXpcGRT03hIfy/fbF1srfi7MKwclh6H2pvuLLlcytrykzrLmRoTDFHOc77u3pkq8rzG4QCsmgYdff2cVQ1GHeZZUWktBN39aSDBfLTTZFTY6STxkYdrulh35KlHiWikzAu5OdWFptlt5qK1hSAJnU8qigEG7CTPj7X/I7Da1NQxJgL1NLzv8bz9m1+R5uPz3nmtfDz/QXugXzBh+LaGe1skAAAAASUVORK5CYII=",
     "wiki_name": "Remnant of zebak",
     "wiki_url": "https://oldschool.runescape.wiki/w/Remnant_of_zebak",
     "equipment": null,

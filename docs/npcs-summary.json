@@ -1521,7 +1521,7 @@
     },
     "392": {
         "id": 392,
-        "name": "Servant"
+        "name": "Trotters"
     },
     "393": {
         "id": 393,
@@ -1555,14 +1555,6 @@
         "id": 400,
         "name": "Guard"
     },
-    "401": {
-        "id": 401,
-        "name": "Turael"
-    },
-    "402": {
-        "id": 402,
-        "name": "Mazchna"
-    },
     "403": {
         "id": 403,
         "name": "Vannaka"
@@ -1570,10 +1562,6 @@
     "404": {
         "id": 404,
         "name": "Chaeldar"
-    },
-    "405": {
-        "id": 405,
-        "name": "Duradel"
     },
     "406": {
         "id": 406,
@@ -2985,11 +2973,11 @@
     },
     "777": {
         "id": 777,
-        "name": "Ethereal Man"
+        "name": "Ethereal Being"
     },
     "778": {
         "id": 778,
-        "name": "Ethereal Lady"
+        "name": "Ethereal Being"
     },
     "779": {
         "id": 779,
@@ -9099,14 +9087,6 @@
         "id": 2456,
         "name": "Animated Rune Armour"
     },
-    "2457": {
-        "id": 2457,
-        "name": "Ghommal"
-    },
-    "2458": {
-        "id": 2458,
-        "name": "Harrallak Menarous"
-    },
     "2459": {
         "id": 2459,
         "name": "Gamfred"
@@ -9162,10 +9142,6 @@
     "2472": {
         "id": 2472,
         "name": "Jade"
-    },
-    "2473": {
-        "id": 2473,
-        "name": "Sloane"
     },
     "2474": {
         "id": 2474,
@@ -11929,7 +11905,7 @@
     },
     "3205": {
         "id": 3205,
-        "name": "Zambo"
+        "name": "Surok Magis"
     },
     "3207": {
         "id": 3207,
@@ -12818,14 +12794,6 @@
     "3442": {
         "id": 3442,
         "name": "Ali the dyer"
-    },
-    "3443": {
-        "id": 3443,
-        "name": "Lucien"
-    },
-    "3444": {
-        "id": 3444,
-        "name": "Lucien"
     },
     "3445": {
         "id": 3445,
@@ -20137,11 +20105,11 @@
     },
     "5434": {
         "id": 5434,
-        "name": "Frog prince"
+        "name": "Light creature"
     },
     "5435": {
         "id": 5435,
-        "name": "Frog princess"
+        "name": "Light creature"
     },
     "5436": {
         "id": 5436,
@@ -21474,10 +21442,6 @@
     "5782": {
         "id": 5782,
         "name": "Baby Mole"
-    },
-    "5783": {
-        "id": 5783,
-        "name": "Light creature"
     },
     "5784": {
         "id": 5784,
@@ -44373,175 +44337,207 @@
     },
     "13429": {
         "id": 13429,
-        "name": "Animated egg"
+        "name": "Light creature"
     },
     "13430": {
         "id": 13430,
-        "name": "Animated egg"
+        "name": "Harrallak Menarous"
     },
     "13431": {
         "id": 13431,
-        "name": "Animated egg"
+        "name": "Harrallak Menarous"
     },
     "13432": {
         "id": 13432,
-        "name": "Animated egg"
+        "name": "Harrallak Menarous"
     },
     "13433": {
         "id": 13433,
-        "name": "Easter Bunny"
+        "name": "Turael"
     },
     "13434": {
         "id": 13434,
-        "name": "Easter Bunny"
+        "name": "Turael"
     },
     "13435": {
         "id": 13435,
-        "name": "Easter Bunny"
+        "name": "Cyrisus"
     },
     "13436": {
         "id": 13436,
-        "name": "Eg"
+        "name": "Cyrisus"
     },
     "13437": {
         "id": 13437,
-        "name": "Egg"
+        "name": "Ghommal"
     },
     "13438": {
         "id": 13438,
-        "name": "Eggy"
+        "name": "Mazchna"
     },
     "13439": {
         "id": 13439,
-        "name": "Easter egg bird"
+        "name": "Mazchna"
     },
     "13440": {
         "id": 13440,
-        "name": "Easter egg bird"
+        "name": "Mazchna"
     },
     "13441": {
         "id": 13441,
-        "name": "Eggus manus"
+        "name": "Duradel"
     },
     "13442": {
         "id": 13442,
-        "name": "Eggus manus"
+        "name": "Sir Kit Breaker"
     },
     "13443": {
         "id": 13443,
-        "name": "Egg priest"
+        "name": "Frog Prin"
     },
     "13444": {
         "id": 13444,
-        "name": "Egg priest"
+        "name": "Frog Prin"
     },
     "13445": {
         "id": 13445,
-        "name": "Egg priest"
+        "name": "Frog Prince"
     },
     "13446": {
         "id": 13446,
-        "name": "Egg priest"
+        "name": "Frog Princess"
     },
     "13447": {
         "id": 13447,
-        "name": "Egg priest"
+        "name": "Sloane"
     },
     "13448": {
         "id": 13448,
-        "name": "Egg priest"
+        "name": "Hazelmere"
     },
     "13449": {
         "id": 13449,
-        "name": "Egg priest"
+        "name": "Hazelmere"
     },
     "13450": {
         "id": 13450,
-        "name": "Egg priest"
+        "name": "Hazelmere"
     },
     "13451": {
         "id": 13451,
-        "name": "Egg priest"
-    },
-    "13452": {
-        "id": 13452,
-        "name": "Egg priest"
+        "name": "Hazelmere"
     },
     "13453": {
         "id": 13453,
-        "name": "Shifty looking priest"
+        "name": "Undead Hero"
     },
     "13454": {
         "id": 13454,
-        "name": "Protester"
+        "name": "Undead Hero"
     },
     "13455": {
         "id": 13455,
-        "name": "Upset easter egg hunter"
+        "name": "Undead Hero"
     },
     "13456": {
         "id": 13456,
-        "name": "Rascally child"
+        "name": "Undead Hero"
     },
     "13457": {
         "id": 13457,
-        "name": "Disappointed mother"
+        "name": "Undead Hero"
     },
     "13458": {
         "id": 13458,
-        "name": "Disappointed daughter"
+        "name": "Undead Hero"
     },
     "13459": {
         "id": 13459,
-        "name": "Disappointed father"
+        "name": "Undead Hero"
     },
     "13460": {
         "id": 13460,
-        "name": "Egg mine cart"
+        "name": "Undead Hero"
     },
     "13461": {
         "id": 13461,
-        "name": "Egg mine cart"
+        "name": "Undead Hero"
     },
     "13462": {
         "id": 13462,
-        "name": "Misbehaving mine cart"
+        "name": "Undead Hero"
     },
     "13463": {
         "id": 13463,
-        "name": "Misbehaving mine cart"
+        "name": "Elite Black Knight"
     },
     "13464": {
         "id": 13464,
-        "name": "Misbehaving mine cart"
+        "name": "Elite Black Knight"
     },
     "13465": {
         "id": 13465,
-        "name": "Misbehaving mine cart"
+        "name": "Elite Dark Warrior"
     },
     "13466": {
         "id": 13466,
-        "name": "Egg Priest"
+        "name": "Elite Dark Warrior"
     },
     "13467": {
         "id": 13467,
-        "name": "Egg Priest"
+        "name": "Elite Dark Ranger"
     },
     "13468": {
         "id": 13468,
-        "name": "Egg Priest"
+        "name": "Elite Dark Ranger"
     },
     "13469": {
         "id": 13469,
-        "name": "Rabbit"
+        "name": "Elite Dark Mage"
     },
     "13470": {
         "id": 13470,
-        "name": "Rabbit"
+        "name": "Elite Dark Mage"
     },
     "13471": {
         "id": 13471,
-        "name": "Chicken"
+        "name": "Undead Mage"
+    },
+    "13476": {
+        "id": 13476,
+        "name": "Skeleton"
+    },
+    "13477": {
+        "id": 13477,
+        "name": "Skeleton"
+    },
+    "13478": {
+        "id": 13478,
+        "name": "Skeleton"
+    },
+    "13479": {
+        "id": 13479,
+        "name": "Skeleton"
+    },
+    "13480": {
+        "id": 13480,
+        "name": "Elite Black Knight"
+    },
+    "13481": {
+        "id": 13481,
+        "name": "Elite Black Knight"
+    },
+    "13482": {
+        "id": 13482,
+        "name": "Surok Magis"
+    },
+    "13483": {
+        "id": 13483,
+        "name": "Agile Warrior"
+    },
+    "13484": {
+        "id": 13484,
+        "name": "Strong Warrior"
     },
     "13485": {
         "id": 13485,
@@ -44622,5 +44618,425 @@
     "13504": {
         "id": 13504,
         "name": "Hill Giant"
+    },
+    "13509": {
+        "id": 13509,
+        "name": "Guardian of Armadyl"
+    },
+    "13510": {
+        "id": 13510,
+        "name": "Ivy Sophista"
+    },
+    "13511": {
+        "id": 13511,
+        "name": "Thaerisk"
+    },
+    "13512": {
+        "id": 13512,
+        "name": "Thaerisk"
+    },
+    "13513": {
+        "id": 13513,
+        "name": "Thaerisk"
+    },
+    "13514": {
+        "id": 13514,
+        "name": "Assassin"
+    },
+    "13515": {
+        "id": 13515,
+        "name": "Assassin"
+    },
+    "13516": {
+        "id": 13516,
+        "name": "Khazard Launderer"
+    },
+    "13517": {
+        "id": 13517,
+        "name": "Wild broav"
+    },
+    "13518": {
+        "id": 13518,
+        "name": "Broav"
+    },
+    "13519": {
+        "id": 13519,
+        "name": "Silif"
+    },
+    "13520": {
+        "id": 13520,
+        "name": "Silif"
+    },
+    "13521": {
+        "id": 13521,
+        "name": "Silif"
+    },
+    "13524": {
+        "id": 13524,
+        "name": "Silif"
+    },
+    "13525": {
+        "id": 13525,
+        "name": "Lucien"
+    },
+    "13526": {
+        "id": 13526,
+        "name": "Lucien"
+    },
+    "13527": {
+        "id": 13527,
+        "name": "Lucien"
+    },
+    "13528": {
+        "id": 13528,
+        "name": "Balance Elemental"
+    },
+    "13529": {
+        "id": 13529,
+        "name": "Balance Elemental"
+    },
+    "13530": {
+        "id": 13530,
+        "name": "Balance Elemental"
+    },
+    "13531": {
+        "id": 13531,
+        "name": "Elite Khazard Guard"
+    },
+    "13532": {
+        "id": 13532,
+        "name": "Elite Khazard Guard"
+    },
+    "13533": {
+        "id": 13533,
+        "name": "Elite Khazard Guard"
+    },
+    "13534": {
+        "id": 13534,
+        "name": "Elite Khazard Guard"
+    },
+    "13535": {
+        "id": 13535,
+        "name": "Mercenary axeman"
+    },
+    "13536": {
+        "id": 13536,
+        "name": "Mercenary axeman"
+    },
+    "13537": {
+        "id": 13537,
+        "name": "Mercenary mage"
+    },
+    "13538": {
+        "id": 13538,
+        "name": "Guardian of Armadyl"
+    },
+    "13539": {
+        "id": 13539,
+        "name": "Guardian of Armadyl"
+    },
+    "13540": {
+        "id": 13540,
+        "name": "Idria"
+    },
+    "13541": {
+        "id": 13541,
+        "name": "Idria"
+    },
+    "13542": {
+        "id": 13542,
+        "name": "Idria"
+    },
+    "13543": {
+        "id": 13543,
+        "name": "Akrisae"
+    },
+    "13544": {
+        "id": 13544,
+        "name": "Akrisae"
+    },
+    "13545": {
+        "id": 13545,
+        "name": "Shady stranger"
+    },
+    "13546": {
+        "id": 13546,
+        "name": "Shady stranger"
+    },
+    "13547": {
+        "id": 13547,
+        "name": "Shady stranger"
+    },
+    "13548": {
+        "id": 13548,
+        "name": "Surok Magis"
+    },
+    "13549": {
+        "id": 13549,
+        "name": "Surok Magis"
+    },
+    "13551": {
+        "id": 13551,
+        "name": "Surok Magis"
+    },
+    "13552": {
+        "id": 13552,
+        "name": "Druid"
+    },
+    "13553": {
+        "id": 13553,
+        "name": "Druid"
+    },
+    "13554": {
+        "id": 13554,
+        "name": "Druid"
+    },
+    "13555": {
+        "id": 13555,
+        "name": "Suspicious outsider"
+    },
+    "13556": {
+        "id": 13556,
+        "name": "Ghommal"
+    },
+    "13557": {
+        "id": 13557,
+        "name": "Harrallak Menarous"
+    },
+    "13558": {
+        "id": 13558,
+        "name": "Sloane"
+    },
+    "13559": {
+        "id": 13559,
+        "name": "Cyrisus"
+    },
+    "13560": {
+        "id": 13560,
+        "name": "Turael"
+    },
+    "13561": {
+        "id": 13561,
+        "name": "Mazchna"
+    },
+    "13562": {
+        "id": 13562,
+        "name": "Duradel"
+    },
+    "13563": {
+        "id": 13563,
+        "name": "Hazelmere"
+    },
+    "13564": {
+        "id": 13564,
+        "name": "Hazelmere"
+    },
+    "13565": {
+        "id": 13565,
+        "name": "Dark Squall"
+    },
+    "13566": {
+        "id": 13566,
+        "name": "Elite Black Knight"
+    },
+    "13567": {
+        "id": 13567,
+        "name": "Movario"
+    },
+    "13568": {
+        "id": 13568,
+        "name": "Movario"
+    },
+    "13569": {
+        "id": 13569,
+        "name": "Movario"
+    },
+    "13570": {
+        "id": 13570,
+        "name": "Darve"
+    },
+    "13571": {
+        "id": 13571,
+        "name": "Darve"
+    },
+    "13572": {
+        "id": 13572,
+        "name": "Cave goblin"
+    },
+    "13574": {
+        "id": 13574,
+        "name": "Cave goblin"
+    },
+    "13575": {
+        "id": 13575,
+        "name": "Druid spirit"
+    },
+    "13576": {
+        "id": 13576,
+        "name": "Druid spirit"
+    },
+    "13577": {
+        "id": 13577,
+        "name": "Guardian of Armadyl"
+    },
+    "13578": {
+        "id": 13578,
+        "name": "Guardian of Armadyl"
+    },
+    "13579": {
+        "id": 13579,
+        "name": "Guardian of Armadyl"
+    },
+    "13580": {
+        "id": 13580,
+        "name": "Guardian of Armadyl"
+    },
+    "13581": {
+        "id": 13581,
+        "name": "Idria"
+    },
+    "13582": {
+        "id": 13582,
+        "name": "Idria"
+    },
+    "13583": {
+        "id": 13583,
+        "name": "Sithaph"
+    },
+    "13584": {
+        "id": 13584,
+        "name": "Sakirth"
+    },
+    "13585": {
+        "id": 13585,
+        "name": "Strisath"
+    },
+    "13593": {
+        "id": 13593,
+        "name": "V"
+    },
+    "13594": {
+        "id": 13594,
+        "name": "Robert the Strong"
+    },
+    "13595": {
+        "id": 13595,
+        "name": "Robert the Strong"
+    },
+    "13596": {
+        "id": 13596,
+        "name": "Aivas"
+    },
+    "13597": {
+        "id": 13597,
+        "name": "Tristan"
+    },
+    "13598": {
+        "id": 13598,
+        "name": "Camorra"
+    },
+    "13599": {
+        "id": 13599,
+        "name": "Tormented Demon"
+    },
+    "13600": {
+        "id": 13600,
+        "name": "Tormented Demon"
+    },
+    "13601": {
+        "id": 13601,
+        "name": "Tormented Demon"
+    },
+    "13602": {
+        "id": 13602,
+        "name": "Tormented Demon"
+    },
+    "13603": {
+        "id": 13603,
+        "name": "Tormented Demon"
+    },
+    "13604": {
+        "id": 13604,
+        "name": "Tormented Demon"
+    },
+    "13605": {
+        "id": 13605,
+        "name": "Tormented Demon"
+    },
+    "13606": {
+        "id": 13606,
+        "name": "Tormented Demon"
+    },
+    "13607": {
+        "id": 13607,
+        "name": "Lucien"
+    },
+    "13608": {
+        "id": 13608,
+        "name": "Lucien"
+    },
+    "13609": {
+        "id": 13609,
+        "name": "Lucien"
+    },
+    "13611": {
+        "id": 13611,
+        "name": "Debug Man"
+    },
+    "13612": {
+        "id": 13612,
+        "name": "Debug Woman"
+    },
+    "13613": {
+        "id": 13613,
+        "name": "Ghommal"
+    },
+    "13614": {
+        "id": 13614,
+        "name": "Laidee Gnonock"
+    },
+    "13615": {
+        "id": 13615,
+        "name": "Harrallak Menarous"
+    },
+    "13616": {
+        "id": 13616,
+        "name": "Sloane"
+    },
+    "13617": {
+        "id": 13617,
+        "name": "Yadech Strongarm"
+    },
+    "13618": {
+        "id": 13618,
+        "name": "Turael"
+    },
+    "13619": {
+        "id": 13619,
+        "name": "Aya"
+    },
+    "13620": {
+        "id": 13620,
+        "name": "Mazchna"
+    },
+    "13621": {
+        "id": 13621,
+        "name": "Achtryn"
+    },
+    "13622": {
+        "id": 13622,
+        "name": "Duradel"
+    },
+    "13623": {
+        "id": 13623,
+        "name": "Kuradal"
+    },
+    "13624": {
+        "id": 13624,
+        "name": "Rat"
+    },
+    "13655": {
+        "id": 13655,
+        "name": "Zembo"
     }
 }

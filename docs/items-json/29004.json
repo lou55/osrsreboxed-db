@@ -1,7 +1,7 @@
 {
     "id": 29004,
     "name": "Eclipse moon chestplate",
-    "last_updated": "2024-05-11",
+    "last_updated": "2024-07-13",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 116004,
     "highalch": 174006,
     "weight": 3.0,
-    "buy_limit": null,
+    "buy_limit": 15,
     "quest_item": false,
     "release_date": "2024-03-20",
     "duplicate": false,

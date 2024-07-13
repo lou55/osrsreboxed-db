@@ -1,7 +1,7 @@
 {
     "id": 10105,
     "name": "Kebbit spike",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-07-13",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "These bone spikes are both very tough and very sharp.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACC0lEQVR4Xu2U30taYRzGO3S1Ee0iGLiIXCEiRlk0S9KcWK0oEIqJIRRFrghireEm/WKOMCQRw35suFYRSNFoi6xoCRLYJKqbCvpznvV+RWlnu6vz7uY88Fwd3vN++D7P983JkSVLlqy7SsDf5iLxpWk77Bay02FFf18rRt918oASYKwrI5tN5WSLWUdmIO4RO7wTXQhMvyIYnVJJFv/lniRArcqHqrSQrFEXwdZmwPBQB8Y9Tvh9LszNDmE54uYDU6F9hLyHuWi2KuAZ1lIkvo+9CAUGEVkYQXR1NBufxDBMAp4oHqC9rYhgQr5qLIZfY3XpPTajHxD7HvwDRHIYrTofjo5iggn7q7Hx1YjETgP2Y3NIHC7zmgqTAH1VAcGMvdVifuYZvq2YcLTbiItf7bg+H+AP47Q/JZhPQT221uqR3G9Kw5y5+MKwmFhn3gxqqDMMhiaTbMX1aQ9PGCaBtmmgRwW/txKR2RqKKv6jAWeJFlylHFkg8UkJJMBkeIxeZwm8nnLqTfSLEXubFqR+vqC4uE8ns1EsqpUFA7aj5mxcl6mXfKdjaymk3mSiYit+sGXFSbwZF8c2/kCsN1NjFRTV2uc6xNafpzfrZjosLo5AAro7SzDpLkNgqgpL4VraLPYAsiL/FyDWG9+kjt6cTFSsyOzbbXMt9L+cAbht8UnJJL6YO4AsWbIk0m9yp5jSdmXlMwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAklEQVR4Xu2T7UtTYRjGPR9CiJhIoUhM50LEjJxjvuFWi7O5NoU1dbJx0NoQHYparEJaDCyZiCOM0YssQxiYgYhS4isMwbdI/bBQ8a+55HlkZy/2JWjPvpwf3F92eNiP677unBwJCYl/gcPFZJW4BIcnnSYM9tuyIZWQaLHUQ3Dw6Pc8QuCNm/6mUijopL/6zyQk6moqYDJq4Oh4gN7uZvh9nZie8rKVKSkuRLXqFgy8Gu02HbpdFrx66cSn0JAoykymvEwGo74INquW9sQ7ZMdksA/z396miDCRUZZeg15XCKGjFM8HbiM41oO5yGtsrIZZpkLgUCy/Cl1DARxtJRh+WonpUD22V5pweuhhL1NwIxe16uuXZE5+dbGXyc+7Isr4vAmZP3t2nB0NikLpLzMER2VIZ+Iym4sGHG1ZcPrbxT6dynIZWlvkeNZXgcmABrNftFhb4HEQNeN4X2CZzsVFPeSL4HGVYXykGuH3dViI3MPWshGxHSv7dMhFuQUlRobv4sNETUo6pD9M00m+KLKqmY8NWJq9T8tM0mEuZDXfpL2Jr+r7V61YZsZCnNibUV8VXVVkqhE/5/TYWzchtt2M2G4rW6HHTiX8L+4gOKqmZ06KHP1hoN3JihDpTcCvwud3tXRVpMgkHfIteZhe2N8mLpA86S8zRvofMxeQkJDIEOfr3JPRXZHJuAAAAABJRU5ErkJggg==",
     "wiki_name": "Kebbit spike",
     "wiki_url": "https://oldschool.runescape.wiki/w/Kebbit_spike",
     "equipment": null,

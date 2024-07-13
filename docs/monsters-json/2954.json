@@ -1,7 +1,7 @@
 {
     "id": 2954,
     "name": "Zamorak wizard",
-    "last_updated": "2022-06-28",
+    "last_updated": "2024-07-13",
     "incomplete": true,
     "members": true,
     "release_date": "2004-05-05",
@@ -16,7 +16,7 @@
     "aggressive": true,
     "poisonous": false,
     "venomous": false,
-    "immune_poison": true,
+    "immune_poison": false,
     "immune_venom": true,
     "attributes": [],
     "category": [],

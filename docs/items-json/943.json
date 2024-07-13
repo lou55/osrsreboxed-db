@@ -1,7 +1,7 @@
 {
     "id": 943,
     "name": "Worm",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-07-13",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -27,8 +27,8 @@
     "duplicate": false,
     "examine": "Ugh! It's wriggling!",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoUlEQVR4Xu2VS0tCURSFPTQqmkSRWGQ+UPGBLzQRHymlaQ4sQ0okLEkspEAqKgRBikJqUFgQOBGEIIiGQaMmDaNBf2jFOaFdo2nnEtwP9uwOPtZe+1yZTEJCQuJfQdA7okKQ9igRsykQMskx2N8nphTBYdqMyrIZKfcEEvYxRCwKBAyjYkgRnKzaUF40YidpYGJUiialHB5gQnaVipcUwWXBhWrGglJCj3xEg70lE5LO8W6PqAxXoVJUj6xPzSRod6iQUISjDIWgsmBGLqBhK/LqRsRIRQjBRdaJRtHFVhayynl35jcIHo4CqK87UJjTImDuXBb36+pA8N6YR6vsZeWmF0a75FQPCcS4P5YEz8czqKYsKMeNKIS17Pw34zqsBCcRcyqYYK/kn0PQKnpxs+ZGPeNAe9fHulXLWlnp89Ma9k5RwYhdwU+qM29XcTzVwkyOFv/+wI/b0hROc3aWHv2GS/m/T/5LrL3lQ3PDg9fzKFvrYyWIu32/YH0cEYp9XCfwcjbLhJrbnm5CXFL6iVCsM6LJCBH+TkSXkZCQ+C98Ap9481bGZagtAAAAAElFTkSuQmCC",
-    "wiki_name": "Worm",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Worm",
+    "wiki_name": "Worm (unobtainable item)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Worm_(unobtainable_item)",
     "equipment": null,
     "weapon": null
 }
