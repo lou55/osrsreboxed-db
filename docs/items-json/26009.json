@@ -1,7 +1,7 @@
 {
     "id": 26009,
     "name": "Sigil of barrows",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-08-05",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADU0lEQVR4Xu2X/y9VcRjHnSUlljXfdp1ydU0WRre1ZEk2U5IlM5MymVmTkpmZSZmZMalNk1SWmQkzY5LMsvFTfu/n/pcn7+fsOffcj8OuHLaWZ3sPd+75vDzv5/18rqCgw/r/SiOfDryshxuqri6nkpJblJt79aDBNJqaHKGJifc0NjZIP13h9CP2BHV2NlNT0yOqqamgsrI7lJV1SYHel9Jofn6CZmfHaHr6M8MI0Iv2RmpoqKGqqjIqLb1NBQW5lJ19mdLSzpPbre8XlEZL32ZMEIERPa57SPcrSti6G/nXGSgjI9UEupCQ4CSURgsLk34wKlBt7QO6V36XiotvUl7eNbYNHfJ44p0GMjrzKy58i9Y2QawCjHTnojedkpMT6YweRxERJ52yTaPl5TmeGRUG+q37oBoba6myspQtkw7BsqSksxQZecqpLmk0Pv6ORkbe0OSXD7ZAop6eNobCCpDBFttcrljngObmxllebyJrdPStH9Cnj/0M3NHRxNHHLCFtsE+SBtscA1r8OkXp6R5T6NTwcB+96ntJvb3t3Bmoq6uFWlrqOW0AKirKN4EcHmzNDwjzBBgAPG97xjvI43FtzorO38M2pA1AYhnmyCEgjVZW5ik11W0Kh7vjY3lWYI+uR/HPeF2EjY20WQfbMSAMNYQrA1v6dX8HXxXNzXX0pL6auwEL8brYhrQVFuaZQIi/A0AaA2CgMUfoFL7K4bBHZgb3F5KFyGOYkTBctJmZXhNoD1eIcSEGBx+hmZlRvr+WlmZpfe27H1Rr61NOFe4wQKlAOTlX/IBiYqL+pksGCBQScpSFSG9srJswSBnSBXtgjQjJEiDMD4DEMqTMt60D7tJWmLCw4yzArK4usoXozuBgD3V3t/JgI00QZkZktSwl5RwvxtDQY/xMPD8AsO1hoqMi+HAkBzD4LDQ01Mu7R9KEDsEyzBK6BCgA4T5DwuRZ8mw5awcoeyDAQJKa03o0Wzgw0MWQspHRKcAgcdZrQ94PbQe0w0wZUHYdEgEIwt6BZBGiU4ABOACt79kDEMoeyg4uUFlBrDABAqH8oVQw9UA7qTOjwshQAyYAIJRvF9lJPchO6nvUruwCxijjl63/OTijXYOoZf1rnJJ6xmH98/UHxCumkieX8C4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsUlEQVR4Xu2XbUtTYRjHPWTmchiDiaxTKQsLU4bGsAYrGUlmRjassZLIQgqRQnpAesA3fqxe9K4P0Ou+y5W/+3Dt3LvPmRzzHCHygj/Dbedcv/O/Hu7Z13cS/194EurYw04eaP52RarVKzJ59eJxg3mytfVINjcfypvXy/KzlJfvo2fl8eotWVqaM2A35ialXC450JmEJx/eP5Ht7VUDBYwCNZt1WbxblXp92jhVqZRlYsIX3y9KoZDPCsqTTx9bHRCFUS0sXJda7ZoBmpoaiwDNjI+nCRWFcYEajRkDNDt72QBRtoyAPNnZacuv8/mIfuyD2FIY3Bm7NCqlUsEA5XJn0iqbJ18+P5V3b5sRGPTbD6HooTiHisVzHaAUXPLMNL16ec80chyQqtWa72psG2p4OJceEFOFeHIEoA0E7MbGfVlZqRkgRh8ovptBYwejzhir2EHrLxaNI+wfFaPPLqK5MwQivC4gStduNwzEg+WbRpSG5OoSy9EGoo9SAgqamn5QkZwJwgXKQ0L+5n0Vn9m7KFUgSoRwhl7CHS0PyxA36KO1Z3c6rrklSwkobGiWIk7xSv8ARXlIDhRThbTxcYeD1h79IxwhwYHY33/K7B+amsW4u/u8CwoYXKJnFEqB6DUX6C9HPwBBAwOnjSjH3t56B4by6YSxCFW6f3o5FG7rxC5FYYaGBo2A+fZ1zZQPd3TsgbAn0JYNpMcH9+T+CcB6w4zsPx1uMFGA2HuI90ispzwNrj8/FIjzTO+l99ZcB0DFAwGDSEiSC/5I10Tp2aXlUjAF0utRL6ADeiqAinNIBRBi7yD7uMAdBbKvOQIQEQ8VB5dUNogNkxCI6IZywdyEcXJ7xoXRpgYmARAR7qI4uYni5F7junIImCCCL9v/OaSjQ4O4YT9NWnJznMQ/H38AhwA0q5KvCX4AAAAASUVORK5CYII=",
     "wiki_name": "Sigil of barrows (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_barrows#Un-attuned",
     "equipment": null,

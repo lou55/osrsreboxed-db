@@ -17237,7 +17237,7 @@
     },
     "6956": {
         "id": 6956,
-        "name": "Rose tinted lens"
+        "name": "Rose-tinted lens"
     },
     "6957": {
         "id": 6957,
@@ -57097,11 +57097,11 @@
     },
     "29574": {
         "id": 29574,
-        "name": "Bone claw"
+        "name": "Burning claw"
     },
     "29577": {
         "id": 29577,
-        "name": "Bone claws"
+        "name": "Burning claws"
     },
     "29580": {
         "id": 29580,
@@ -57134,5 +57134,177 @@
     "29596": {
         "id": 29596,
         "name": "Duradel's notes"
+    },
+    "29598": {
+        "id": 29598,
+        "name": "Deadman rug"
+    },
+    "29599": {
+        "id": 29599,
+        "name": "Corrupted dark bow"
+    },
+    "29602": {
+        "id": 29602,
+        "name": "Corrupted volatile nightmare staff"
+    },
+    "29605": {
+        "id": 29605,
+        "name": "Armadyl godsword (deadman)"
+    },
+    "29607": {
+        "id": 29607,
+        "name": "Voidwaker (deadman)"
+    },
+    "29609": {
+        "id": 29609,
+        "name": "Volatile nightmare staff (deadman)"
+    },
+    "29611": {
+        "id": 29611,
+        "name": "Dark bow (deadman)"
+    },
+    "29613": {
+        "id": 29613,
+        "name": "Imbued zamorak cape (deadman)"
+    },
+    "29615": {
+        "id": 29615,
+        "name": "Imbued guthix cape (deadman)"
+    },
+    "29617": {
+        "id": 29617,
+        "name": "Imbued saradomin cape (deadman)"
+    },
+    "29619": {
+        "id": 29619,
+        "name": "Armageddon rug"
+    },
+    "29622": {
+        "id": 29622,
+        "name": "Armageddon teleport scroll"
+    },
+    "29625": {
+        "id": 29625,
+        "name": "Armageddon weapon scroll"
+    },
+    "29628": {
+        "id": 29628,
+        "name": "Armageddon cape fabric"
+    },
+    "29631": {
+        "id": 29631,
+        "name": "Blighted overload (4)"
+    },
+    "29634": {
+        "id": 29634,
+        "name": "Blighted overload (3)"
+    },
+    "29637": {
+        "id": 29637,
+        "name": "Blighted overload (2)"
+    },
+    "29640": {
+        "id": 29640,
+        "name": "Blighted overload (1)"
+    },
+    "29643": {
+        "id": 29643,
+        "name": "Chitin"
+    },
+    "29646": {
+        "id": 29646,
+        "name": "Cabbage"
+    },
+    "29648": {
+        "id": 29648,
+        "name": "Sigil of meticulousness"
+    },
+    "29649": {
+        "id": 29649,
+        "name": "Sigil of meticulousness"
+    },
+    "29651": {
+        "id": 29651,
+        "name": "Sigil of revoked limitation"
+    },
+    "29652": {
+        "id": 29652,
+        "name": "Sigil of revoked limitation"
+    },
+    "29654": {
+        "id": 29654,
+        "name": "Sigil of rampart"
+    },
+    "29655": {
+        "id": 29655,
+        "name": "Sigil of rampart"
+    },
+    "29657": {
+        "id": 29657,
+        "name": "Sigil of deception"
+    },
+    "29658": {
+        "id": 29658,
+        "name": "Sigil of deception"
+    },
+    "29660": {
+        "id": 29660,
+        "name": "Sigil of lithe"
+    },
+    "29661": {
+        "id": 29661,
+        "name": "Sigil of lithe"
+    },
+    "29663": {
+        "id": 29663,
+        "name": "Sigil of adroit"
+    },
+    "29664": {
+        "id": 29664,
+        "name": "Sigil of adroit"
+    },
+    "29666": {
+        "id": 29666,
+        "name": "Sigil of onslaught"
+    },
+    "29667": {
+        "id": 29667,
+        "name": "Sigil of onslaught"
+    },
+    "29669": {
+        "id": 29669,
+        "name": "Sigil of restoration"
+    },
+    "29670": {
+        "id": 29670,
+        "name": "Sigil of restoration"
+    },
+    "29672": {
+        "id": 29672,
+        "name": "Sigil of swashbuckler"
+    },
+    "29673": {
+        "id": 29673,
+        "name": "Sigil of swashbuckler"
+    },
+    "29675": {
+        "id": 29675,
+        "name": "Sigil of gunslinger"
+    },
+    "29676": {
+        "id": 29676,
+        "name": "Sigil of gunslinger"
+    },
+    "29678": {
+        "id": 29678,
+        "name": "Sigil of arcane swiftness"
+    },
+    "29679": {
+        "id": 29679,
+        "name": "Sigil of arcane swiftness"
+    },
+    "29684": {
+        "id": 29684,
+        "name": "Guthixian temple teleport"
     }
 }

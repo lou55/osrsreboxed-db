@@ -8985,51 +8985,51 @@
     },
     "4094": {
         "id": 4094,
-        "name": "Funeral Pyre"
+        "name": "Basic Pyre"
     },
     "4095": {
         "id": 4095,
-        "name": "Funeral Pyre"
+        "name": "Oak Pyre"
     },
     "4096": {
         "id": 4096,
-        "name": "Funeral Pyre"
+        "name": "Willow Pyre"
     },
     "4097": {
         "id": 4097,
-        "name": "Funeral Pyre"
+        "name": "Maple Pyre"
     },
     "4098": {
         "id": 4098,
-        "name": "Funeral Pyre"
+        "name": "Yew Pyre"
     },
     "4099": {
         "id": 4099,
-        "name": "Funeral Pyre"
+        "name": "Magic Pyre"
     },
     "4100": {
         "id": 4100,
-        "name": "Funeral Pyre"
+        "name": "Basic Pyre"
     },
     "4101": {
         "id": 4101,
-        "name": "Funeral Pyre"
+        "name": "Oak Pyre"
     },
     "4102": {
         "id": 4102,
-        "name": "Funeral Pyre"
+        "name": "Willow Pyre"
     },
     "4103": {
         "id": 4103,
-        "name": "Funeral Pyre"
+        "name": "Maple Pyre"
     },
     "4104": {
         "id": 4104,
-        "name": "Funeral Pyre"
+        "name": "Yew Pyre"
     },
     "4105": {
         "id": 4105,
-        "name": "Funeral Pyre"
+        "name": "Magic Pyre"
     },
     "4106": {
         "id": 4106,
@@ -20985,19 +20985,19 @@
     },
     "9006": {
         "id": 9006,
-        "name": "Funeral Pyre"
+        "name": "Teak Pyre"
     },
     "9007": {
         "id": 9007,
-        "name": "Funeral Pyre"
+        "name": "Mahogany Pyre"
     },
     "9008": {
         "id": 9008,
-        "name": "Funeral Pyre"
+        "name": "Teak Pyre"
     },
     "9009": {
         "id": 9009,
-        "name": "Funeral Pyre"
+        "name": "Mahogany Pyre"
     },
     "9010": {
         "id": 9010,
@@ -46525,11 +46525,11 @@
     },
     "21271": {
         "id": 21271,
-        "name": "Funeral Pyre"
+        "name": "Arctic Pine Pyre"
     },
     "21272": {
         "id": 21272,
-        "name": "Funeral Pyre"
+        "name": "Arctic Pine Pyre"
     },
     "21273": {
         "id": 21273,
@@ -60677,11 +60677,11 @@
     },
     "28865": {
         "id": 28865,
-        "name": "Funeral Pyre"
+        "name": "Redwood Pyre"
     },
     "28866": {
         "id": 28866,
-        "name": "Funeral Pyre"
+        "name": "Redwood Pyre"
     },
     "28890": {
         "id": 28890,
@@ -103338,5 +103338,21 @@
     "54063": {
         "id": 54063,
         "name": "Debug Woman"
+    },
+    "54114": {
+        "id": 54114,
+        "name": "Rug"
+    },
+    "54115": {
+        "id": 54115,
+        "name": "Rug"
+    },
+    "54116": {
+        "id": 54116,
+        "name": "Rug"
+    },
+    "54117": {
+        "id": 54117,
+        "name": "Chest"
     }
 }

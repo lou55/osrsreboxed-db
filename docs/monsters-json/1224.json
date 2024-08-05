@@ -1,7 +1,7 @@
 {
     "id": 1224,
     "name": "Bouncer",
-    "last_updated": "2022-06-28",
+    "last_updated": "2024-08-05",
     "incomplete": true,
     "members": true,
     "release_date": "2002-07-23",
@@ -18,9 +18,7 @@
     "venomous": false,
     "immune_poison": false,
     "immune_venom": false,
-    "attributes": [
-        "demon"
-    ],
+    "attributes": [],
     "category": [
         "hellhounds"
     ],

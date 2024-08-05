@@ -39691,7 +39691,7 @@
     },
     "6956": {
         "id": 6956,
-        "name": "Rose tinted lens",
+        "name": "Rose-tinted lens",
         "type": "normal",
         "duplicate": false
     },
@@ -102259,7 +102259,7 @@
     },
     "18054": {
         "id": 18054,
-        "name": "Rose tinted lens",
+        "name": "Rose-tinted lens",
         "type": "placeholder",
         "duplicate": true
     },
@@ -168151,37 +168151,37 @@
     },
     "29574": {
         "id": 29574,
-        "name": "Bone claw",
+        "name": "Burning claw",
         "type": "normal",
         "duplicate": false
     },
     "29575": {
         "id": 29575,
-        "name": "Bone claw",
+        "name": "Burning claw",
         "type": "noted",
         "duplicate": true
     },
     "29576": {
         "id": 29576,
-        "name": "Bone claw",
+        "name": "Burning claw",
         "type": "placeholder",
         "duplicate": true
     },
     "29577": {
         "id": 29577,
-        "name": "Bone claws",
+        "name": "Burning claws",
         "type": "normal",
         "duplicate": false
     },
     "29578": {
         "id": 29578,
-        "name": "Bone claws",
+        "name": "Burning claws",
         "type": "noted",
         "duplicate": true
     },
     "29579": {
         "id": 29579,
-        "name": "Bone claws",
+        "name": "Burning claws",
         "type": "placeholder",
         "duplicate": true
     },
@@ -168280,5 +168280,515 @@
         "name": "Duradel's notes",
         "type": "normal",
         "duplicate": false
+    },
+    "29598": {
+        "id": 29598,
+        "name": "Deadman rug",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29599": {
+        "id": 29599,
+        "name": "Corrupted dark bow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29600": {
+        "id": 29600,
+        "name": "Corrupted dark bow",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29601": {
+        "id": 29601,
+        "name": "Corrupted dark bow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29602": {
+        "id": 29602,
+        "name": "Corrupted volatile nightmare staff",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29603": {
+        "id": 29603,
+        "name": "Corrupted volatile nightmare staff",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29604": {
+        "id": 29604,
+        "name": "Corrupted volatile nightmare staff",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29605": {
+        "id": 29605,
+        "name": "Armadyl godsword (deadman)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29606": {
+        "id": 29606,
+        "name": "Armadyl godsword (deadman)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29607": {
+        "id": 29607,
+        "name": "Voidwaker (deadman)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29608": {
+        "id": 29608,
+        "name": "Voidwaker (deadman)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29609": {
+        "id": 29609,
+        "name": "Volatile nightmare staff (deadman)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29610": {
+        "id": 29610,
+        "name": "Volatile nightmare staff (deadman)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29611": {
+        "id": 29611,
+        "name": "Dark bow (deadman)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29612": {
+        "id": 29612,
+        "name": "Dark bow (deadman)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29613": {
+        "id": 29613,
+        "name": "Imbued zamorak cape (deadman)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29614": {
+        "id": 29614,
+        "name": "Imbued zamorak cape (deadman)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29615": {
+        "id": 29615,
+        "name": "Imbued guthix cape (deadman)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29616": {
+        "id": 29616,
+        "name": "Imbued guthix cape (deadman)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29617": {
+        "id": 29617,
+        "name": "Imbued saradomin cape (deadman)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29618": {
+        "id": 29618,
+        "name": "Imbued saradomin cape (deadman)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29619": {
+        "id": 29619,
+        "name": "Armageddon rug",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29620": {
+        "id": 29620,
+        "name": "Armageddon rug",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29621": {
+        "id": 29621,
+        "name": "Armageddon rug",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29622": {
+        "id": 29622,
+        "name": "Armageddon teleport scroll",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29623": {
+        "id": 29623,
+        "name": "Armageddon teleport scroll",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29624": {
+        "id": 29624,
+        "name": "Armageddon teleport scroll",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29625": {
+        "id": 29625,
+        "name": "Armageddon weapon scroll",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29626": {
+        "id": 29626,
+        "name": "Armageddon weapon scroll",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29627": {
+        "id": 29627,
+        "name": "Armageddon weapon scroll",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29628": {
+        "id": 29628,
+        "name": "Armageddon cape fabric",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29629": {
+        "id": 29629,
+        "name": "Armageddon cape fabric",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29630": {
+        "id": 29630,
+        "name": "Armageddon cape fabric",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29631": {
+        "id": 29631,
+        "name": "Blighted overload (4)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29632": {
+        "id": 29632,
+        "name": "Blighted overload (4)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29633": {
+        "id": 29633,
+        "name": "Blighted overload (4)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29634": {
+        "id": 29634,
+        "name": "Blighted overload (3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29635": {
+        "id": 29635,
+        "name": "Blighted overload (3)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29636": {
+        "id": 29636,
+        "name": "Blighted overload (3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29637": {
+        "id": 29637,
+        "name": "Blighted overload (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29638": {
+        "id": 29638,
+        "name": "Blighted overload (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29639": {
+        "id": 29639,
+        "name": "Blighted overload (2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29640": {
+        "id": 29640,
+        "name": "Blighted overload (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29641": {
+        "id": 29641,
+        "name": "Blighted overload (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29642": {
+        "id": 29642,
+        "name": "Blighted overload (1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29643": {
+        "id": 29643,
+        "name": "Chitin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29644": {
+        "id": 29644,
+        "name": "Chitin",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29645": {
+        "id": 29645,
+        "name": "Chitin",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29646": {
+        "id": 29646,
+        "name": "Cabbage",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29647": {
+        "id": 29647,
+        "name": "Cabbage",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29648": {
+        "id": 29648,
+        "name": "Sigil of meticulousness",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29649": {
+        "id": 29649,
+        "name": "Sigil of meticulousness",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29650": {
+        "id": 29650,
+        "name": "Sigil of meticulousness",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29651": {
+        "id": 29651,
+        "name": "Sigil of revoked limitation",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29652": {
+        "id": 29652,
+        "name": "Sigil of revoked limitation",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29653": {
+        "id": 29653,
+        "name": "Sigil of revoked limitation",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29654": {
+        "id": 29654,
+        "name": "Sigil of rampart",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29655": {
+        "id": 29655,
+        "name": "Sigil of rampart",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29656": {
+        "id": 29656,
+        "name": "Sigil of rampart",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29657": {
+        "id": 29657,
+        "name": "Sigil of deception",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29658": {
+        "id": 29658,
+        "name": "Sigil of deception",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29659": {
+        "id": 29659,
+        "name": "Sigil of deception",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29660": {
+        "id": 29660,
+        "name": "Sigil of lithe",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29661": {
+        "id": 29661,
+        "name": "Sigil of lithe",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29662": {
+        "id": 29662,
+        "name": "Sigil of lithe",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29663": {
+        "id": 29663,
+        "name": "Sigil of adroit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29664": {
+        "id": 29664,
+        "name": "Sigil of adroit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29665": {
+        "id": 29665,
+        "name": "Sigil of adroit",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29666": {
+        "id": 29666,
+        "name": "Sigil of onslaught",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29667": {
+        "id": 29667,
+        "name": "Sigil of onslaught",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29668": {
+        "id": 29668,
+        "name": "Sigil of onslaught",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29669": {
+        "id": 29669,
+        "name": "Sigil of restoration",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29670": {
+        "id": 29670,
+        "name": "Sigil of restoration",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29671": {
+        "id": 29671,
+        "name": "Sigil of restoration",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29672": {
+        "id": 29672,
+        "name": "Sigil of swashbuckler",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29673": {
+        "id": 29673,
+        "name": "Sigil of swashbuckler",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29674": {
+        "id": 29674,
+        "name": "Sigil of swashbuckler",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29675": {
+        "id": 29675,
+        "name": "Sigil of gunslinger",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29676": {
+        "id": 29676,
+        "name": "Sigil of gunslinger",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29677": {
+        "id": 29677,
+        "name": "Sigil of gunslinger",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29678": {
+        "id": 29678,
+        "name": "Sigil of arcane swiftness",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29679": {
+        "id": 29679,
+        "name": "Sigil of arcane swiftness",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29680": {
+        "id": 29680,
+        "name": "Sigil of arcane swiftness",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29684": {
+        "id": 29684,
+        "name": "Guthixian temple teleport",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29685": {
+        "id": 29685,
+        "name": "Guthixian temple teleport",
+        "type": "placeholder",
+        "duplicate": true
     }
 }

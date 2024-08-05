@@ -1,7 +1,7 @@
 {
     "id": 5194,
     "name": "Baby green dragon",
-    "last_updated": "2021-07-12",
+    "last_updated": "2024-08-05",
     "incomplete": true,
     "members": true,
     "release_date": "2015-09-10",
@@ -21,15 +21,11 @@
     "attributes": [
         "dragon"
     ],
-    "category": [
-        "green dragons"
-    ],
-    "slayer_monster": true,
-    "slayer_level": 1,
-    "slayer_xp": 50.0,
-    "slayer_masters": [
-        "vannaka"
-    ],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
     "duplicate": false,
     "examine": "Young but still dangerous.",
     "wiki_name": "Baby green dragon (1)",
