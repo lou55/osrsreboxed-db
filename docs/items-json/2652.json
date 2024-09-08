@@ -1,7 +1,7 @@
 {
     "id": 2652,
     "name": "Pirate's hat",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "Shiver me timbers!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xs3WXWvUQBgF4F1EpFIKvSkoqMUbb/0nKoqKSkVFRRFBFKUUxY9S/KJQ6gcqLVRKLUUrgqgoiv6qvRw5E056cjrbTTZROvCy2cls3mffmUzSam3+1g7pSJ3/560dnkwcDo/GD8WYunUwTN44EIOIxZkzYWH6dJh/OpZA+Z+oDc9ARAHEcMzc41Ph5dSJQmJ8xzmPIqoSsh2mbx9Zh8InIAyCnk8eDzN3j8ax+EyBMF7RP1cmwvel6/2hCMIxq0PQ64cnI4hju4Hwux/L4+H36r3wZ/VBBCHH/tHRGJ7dWlZ2/muCkDQFmr1/LAfhOAVamj1bAOGYIM9urV2YBiTi4sZ3ByE5EJzebqCVF+ebA7FK6EuBWEmCUDUHfXh1IQchKoG4LhyE5ATpAkX0An18c7EIenezPgj9AGHMzpGBsHvH9jAyvC0MDmzJUd1An+YuNQtCYCqJ2btrMAZQDFbLQajol4UrOejX+zs5pjJIUY5xEM6xWggFfX17NQny7F1adkGU30H79gz1BDF4HYC+LV7rF5TtQaiQgtCPpIpRENYS1xX7vWIE6abo2a1lt7yDfKpYJSblOe3vdDqxH1Bd+LVBjmEwGZIDQgwgGopC4Hp9g4jRadApcoyPYQUxdnhoa7wedmliSoFwhynIMVwrOkU6VZwu/cR1EFxDJauDtgZSFEMxqUghEHhs6F1WC5SaOq2GfyeC+w92duzSCiLKsydaBtJp08VdJvRJDxBeOz7PX85B2IMq7ENFkN5t6GMCfKKfjxTsUwh/OUN1aoNwl/UCIZm+AymIzzFOV2Mgnzb0K0jfgYghiGMBWn52rgDCHlR5H0pNm4JwvBFI108joNS0KQjn9LVEQRin66cmCG39nZMKXz8MB+FdWkGMCqBWi9v6RuFADV0/jYDKNkeWwTLWxv6n5shU+G82dfsL1c0ece3LyTIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoklEQVR4Xu3W7UsVQRTHcS8hYYjgG6GgAt/051QUFRVFiUURgRSFSNGDSE8IohUWCoaYiBmBVBRF/VX35cR3l9929uxc7z7cohcNHHbv7Ljz8ZzZ2e3r+/dbK8Qjdv2Pt1Z4OnUsPJ48msTM7SNh+ubhJIRYnbsQVmbPh+Vn5yIo/080hqcgoQApPGbpydnwcuZ0bmJ+c81HHlUJ2Qqzd44XUByBKAR6Pn0qzN07kYzlGAMx3qK/bUyFL2s36qEE4lzZEejVozMJSGM7gfi7r+uT4cfW/fBz62ECqoThpvqvBWLSGGj+wckMxHkMtDZ/MQfivCSolSsDE2lx89uDmByEytsJtPFivHcgZYm+GEiZFIisedC7xUsZiKgE0rrwICYXyC5Qohvo/evLedDbW81B9ANizL6RgXBg754wMrw7DA7sylCdQB+WrvQWRFBKYUb3DyYBSqFseRAZ/bhyLQN937xbFkPLgyzKYzyIa8oWYUGf3lyvC6KlNyT9HnTo4FBXkEL3AfR5daIuKN2DyJAF0c+kFmNBrCWtK/X7jAlUYVNMH3kP8qVSljSprtn+drud9AO1C78xyGMUmozJgQgDxIZFEdyvNkgYWwZbIo/xY5RBxg4P9Sf3Y5cuiaGlT5gFeYzWii2RLZXKZY8p4PcaqgWyKIXFxCKGIHht2KesEShWOpsN/1sI7T/s7OzSFlQBlYJs2eziLhP2TQ+Iz47t5asZiD2owj6UB9mnjT5NwJF+vVLYpwj/cUZ2GoN4yrqBmMx+A1mQ3mMqV89Avmz0W5D9BhJGII0FtL4wlgOxB1Xeh2JlsyDOdwLZ9dMTUKxsFsQ1+1liQYyz66chiFZ8cmLh14/Cg/iWtiBFBVDZVkQq7Pr5i6CdWhFZjP+tWfsFi8nT1liHGPEAAAAASUVORK5CYII=",
     "wiki_name": "Pirate's hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pirate's_hat",
     "equipment": null,

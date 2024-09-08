@@ -1,7 +1,7 @@
 {
     "id": 14016,
     "name": "Jar of souls",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-08-27",
     "duplicate": true,
     "examine": "This may be of use for a certain person.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4Xt2Xa0tUURSGPX9ChEBNCAVFZtTG21wcp5QwSpOaNO+aad4bY0RT06yhK+qUZtY0kVmZOIX4oU8RVFZk97LI7j/kbdYatp3O5Lf2DLTgZTbnLM569lrv3jAREf9PKPi7whIK0vV6pCQn86/RYIDNZEKexRIOMAXb8/NRsWsnWmprUFNSgt2FhSguKEDpjqLVdQjBFFTZ7WjbW7emmqqrUF9ezrAhgFLQWFkZBKEWdU7kUL4uNlYWlIKoyMggAK0cDQ1wNjfjUHsb1kVFyeqSwh+Pi4kJAtDCdLe2ou9ABwNtiIvD+uhoGVAKfzwpIYELUuG1YA53OjDkdDJQYnw8tm5xyBidwh/XJSbC1dPDBamwgKH18JFBeN1unHO5cKq/Dxt1OuiTklC0rUsOEMGk0t2TksJFCYAK05pArk9OYtbrxdT4GDyjI8hITYVBr4O9uFcOEF2EBv9FmJWWBlNGBqYnzjPIjMcD37UpLMzM4K7PB5vFDKvJCGN6OkMZTQNygOrqFwMF/IUsWVlclIpvslqRl5vL2uxf2/w3ttV/c1uyszlXKlBf/wuYMzORYzQi12zm4gQhgEi2nBx+RzkELh1o4sIH7gB1h4qvwthsLOoYvbt46SNGRt/LA6qufcRAY+PL8F5Z4e6oxyWA5ua+4erUCoOfGX4nH8h9dhmey59w4+YXLCz8DNKt2a8MTHknT7+VD0RjoHFMT3/G7TvfMT//4w8RKAFT3vETb+QC9fQ+5zHQOGgsNB6CUotAxbiOuV7LBerqXuIxCB/ReEgEJkSg9D4kQAedSzwGtY9IAoxEz4V/ho6+kgdUUfUQjs5nvGu1j0gCjCSOO4EPDL5chfnnQGXlD9De8ZR3rfaRVmr/0CGQ0B0KBaVl99HS+oR3rfaRVvRcjIsOgTSgkj33sL/pMe9a7SOthH8InA6BJCAKBfsaF3nXah9ppfaPZCAKhYHUPtJK+IdyJBlaG4H/XMJHWtFz6pJE/wRHoIjCftFKAIeoO9r4XVwLEQaYQGgBwgIhK34BY3XxHrtMWJgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4XuWU60tUQRjGnX9CFgIlIRQU2XVtve3FdUsJozQp07xrpnlvjRVNTbOWrngpzaxtI9vKRAvxQ58iqKzI7mWR3f+Qp33fGDmdzY+zQr3wcIZzhvP8Zt5nJiLi3ymBv2tNSiDFZEJSYiI/rRYLXDYbsh2OtQAT2J6Tg7JdO9FUXYWqoiLszstDQW4uinfkr4zDCCZQUViIlr01q6qhsgK1paUMGwYogfry8hAIrWjn5BzFQAKGyMgQAL3cdXXwNDbiUGsL1hkMqqAE/zwmOjoEQA/T2dyMngNtDLQhJgbro6JUQAn+eUJcHBuS8Wowh9vdGPB4GCg+NhZbt7jVANHPjfHx8HZ1sSEZSxgaDx7ph39kBOe8Xpzq7cFGoxGmhATkb+tQA0QwZrp7kpLYlADImMYEcn1iAtN+PybHRuEbHkKq2QyLyYjCgm41QHQRWoIXYXpyMmypqQiMn2eQKZ8Ps9cmMT81hbuzs3A57HDarLCmpDCU1danBqimduG3QdDIkZ7OpmS+yelEdlYWa3Nw7Are2M7gze3IyOC5SoF6el/AnpaGTKsVWXY7mxOEBCK5MjP5G80hcOVA4xc+8A7Q7pD5CozLxaIdo28XL33E0PB7dUCV1Y8YaHRsCf4ry7w72nZJoJmZb7g6uczgZwbfqQcaObsE3+VPuHHzC+bnf4bo1vRXBqZ5J0+/VQ9EbaB2BAKfcfvOd8zN/fhDBErANO/4iTdqgbq6n3MbqB3UFmoPQWlFoLJdx7yv1QJ1dC5yG2SOqD0kApMiUPoeFqCDnkVugzZHJAlGovcyPwNHX6kDKqt4CHf7M161NkckCUaSx53A+/pfqoChEigpfYDWtqe8am2O9NLmhw6BMqDikvtoan7Cq9bmSC96L9tFh0AZUNGee9jf8JhXrc2RXjI/BE6HQBEQlcC++gVetTZHemnzoxiISjCQNkd6yfzQHMUwsshErORIL3pPu6QwP6uV4LzoJYHDDCNLa75mEP9R/QJczL7x/Vkh/wAAAABJRU5ErkJggg==",
     "wiki_name": "Jar of souls",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jar_of_souls",
     "equipment": null,

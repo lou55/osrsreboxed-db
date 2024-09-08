@@ -1,7 +1,7 @@
 {
     "id": 151,
     "name": "Fishing potion(3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "3 doses of Fishing potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdElEQVR4Xt2X309SYRzGfW/sxlwuERUkiCDBDE7yQ0HLQgwlaORaalEzimhMkCEhdNtFWzdtravWVct15Y/+wafeF8/hnFew2s552Xq2547D97Pn+b4vnL6+/0MEWvdUBC83nHiYtCE+P4Yb14Z6DUWw/2ke3z5GmSsvPHiccfQSiigwXz/MorR1FevpSwzIb7eLhmrtjAz05X0YxaduVl8P9okglV5DJvNISefzuyAKT1x4kJhAKBRFJHpbJBTB5uazU76XWkN8OYVbi8vw+4Miq/t9uvIF5nz+teLVZAaxpVUEgxG43B6xQDuVquJSaQfFYgmJlfuYiyzCO+WDxdLaJUFAVATf93/g+PgnDg+PcHBwxOqSpJCy1BRGKFAu9wr1+h6azbfMtK5AYK4XMFQE29tlNBqNEzexFE8iHF4QXZUsgvpeQ+O7ibSyQwKPPBXB81we1WoNu7s11GpvWHX0broTW9HUxj9pkAgKhSLK5Ypy0rLZLaxvZBnUws2YeKDZmRnFIUlCwOeDND0Nv9cLt9OJifFxUbURNvxvgQxOibCBaphuQHarFRaz2eiUTqfTCcjjcjEg6+iokSkRNpCH6QZ02WZjtY2NjBiREsF1r6djOmcBqWvTOaXu6aihZKCpyUlccTgUILPJpGdKZ6fDp6QGUtd2rr9fL6g/p9MJiJ40GYimZBoe1qs6wobxALzVe0QTpXukro0CXRzS7TVJezN3cjcgmhKt7MLgoJKQLinxALz5kyZfjhTm/MCAnjCyWv8C6WDZ3YBkGHlvDIBpqfWF8jtXG04NpP1hbYPoDqNWe0AbjrcQkE5SD+bNf/Zf9QsIB3ByH7mP7AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACR0lEQVR4Xt3X309SYRgHcN8bvTGnS0QFKSJIMIOT/FDQshBDCRq6lr+wGUk0JsiQELrtoq2bttZV66rluvJH/+C3va+ewwucY2s7P5rP9r0972fP85z37HR1XY0iaI2hRbC77sDzhA2x2RHcvztgNIrg6MssfnyOsJRfu7GZthuJIhLm+6dpFHfuYC11wyjQ+c6IoG8fQyhsu9j4DNgngmRqFen0C6k7Xz8EkN9yYiU+hmAwgnDkkZ4ogo2Nlx15mlxFbDGJh/OL8PkC+oJ2c3mWXO6tlOVEGtGFZQQCYThdbn1B++WKlGJxH4VCEfGlZ5gJz8Mz4YXFIu6SbkXw8+gXzs5+4+TkFMfHp2xcghA0YqlpEWSzb1CrHaLReM9Cx+X3zxiBoUWwt1dCvV6/SAMLsQRCoTnjQLXDekuexFPSDumMIniVzaFSqeLgoIpq9R0bHb2bHkeXjBgbQT5fQKlUlt60TGYHa+sZhpp7ENUfND01JSUoCPB7vRAmJ+HzeOByODA2OqoXirDD/xMQYQfyGCXQTasVFrNZa1Rnd+RAbqeTgazDw1qCCDuwHaMEumWzsbGNDA1pgSK453HLducykIZjU+4OjxJBE+PjuG23SyCzyaQm6vLutHeJB/Fj6+nuVgv19+7IgeibJoJol0yDg+qB6GHtgPbwe0Q7SveIHxsFXR9Q7Tep9WaWixKIdomOrL+vTy0MrX8D8ZcjxVzr7VUTIxZ94Pn4xCiBRExzb1TH8CUe0MTxoNbvmKYQuWriOnMF6w8p3ztnhMCAzQAAAABJRU5ErkJggg==",
     "wiki_name": "Fishing potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fishing_potion#3_dose",
     "equipment": null,

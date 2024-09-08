@@ -1,7 +1,7 @@
 {
     "id": 28832,
     "name": "Immature tecu salamander",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "A little too small to stuff full of tar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xs3VW2sTURAH8OQL+Co+WR98k3qBFgRBBB/0xcZrSy2tja3BaKSSoobQYrQEtVIIVYtKC5VSS9EWwRuVevkI+qAfZ8x/l/9mdjxJs81aemDYzWY255c5s2cTie0/kuIO1/f/fSRlsnhWHhZOe1G+nZKJ0S4viFioDMr81IDMPe53oOyfaBnug4gCiGExs4/6ZKbcG5oYn/GdjTAqEjIpU2Pn/kHhCAiDoKcTPVK5e8HLxdEFQr5Gry8XZW0xvzkUQThndQh68eCiB2JuPRDu+7JUkO8rJfmxct8DYY4DbW1e2NnN8MvOf00QJnWBpu91ByCcu0CL0+kQCOcE2dnNSIaWAROxufHZgjA5EFzeeqDlZ8PxgVglXHOBWEmCUDULevv8SgBCRAKxLywIk1uQbuhGoNWXmTDo9a3WQbgOEFGspH4i64HezV6NF4QAQINsQ9cDIffj/PUA9PXNeLQnTIM0Cj/uAhGDPA3CbxH06dUNJ8jOXmf4mxd+vBHINjTyeC/iRPqkd0Tu54WbmwX5exAqtBHINrQ3SWZI2gcHJHWtJ6gQ8jVIb4p2djP8R94FQrhAxOLe/UNp6RjJyd7UqWp1/Pce8mIFEYUACDsuJsA5vuPyHC7ekR17dktnb1eAYf/EBtJVwlGDkIf8I6VxOZTLyr7+Pi92dXYEGIKWnlwOQNiliWkKhCfEBeLrACBWBXG0PCYHs+FrxHCJ8drQFWqyOhg1kO0j/Sif/zAjhbW8HJscrYJGqo18ybuOfsI9ujoA4bURG4goXMcErNC39eOSL7VLbjUTYHQlNQi7tAYRZWd3DB/kWjaCkPPn97D8+nlGKsWd3mfuQS4Q/sD7uWwAwh4UYR8Kg/Sy2QoxiHGBUJ2WQXh6NgJhMvvKIIi9xuWKDWSXDdc1yL4yuFfhPuYChEdeg7AHRd6HXMumQThvBNL9EwvItWwahO/4yrAg5On+aRGEUWvYRmH7h2FB2BQ1iBEBlEhwW28UFqhD908soGaHRTaDZdRyt2hYpCvsPdt6/AVoqsRJnqgPwQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xu3VXUsUURgHcPcLdBtdRRfdhb2AghBE0EXd5PYuKpqbtrS1YaxUy6K0JYtpCIuVVCgYYiKlBL1h2MtHqIv6OE/7P8N/eubs2XFnZ4ouOvAwszNn5vz2Oc+c09b277eUuMN1/4+3lMyUzsj94ikTlVtpmRzrNkHEcnVIlmYHZfHBgANl/4nYcA9EFEAMG7Mw3S/zld7AwPiNe3YEUZGQKZkdP1uHwhEQBkGPJnukeue86YujC4T+Gr21VpLNlUJrKIJwzuwQ9HSqz4DYtxEIz31cLcqX9bJ8Xb9nQJEweCn/NUEY1AWau3vBB+HcBVqZywRAOG8SlApMAwZiceO3DcLgQHB6G4HWHo8kB2KWcM0FYiYJQtZs0Ksnl30QIhKIdWGDMLgN0gUdBtp4lg2CXtyMD8J1gIhiJvUX2Qj0euFKsiAEABpkF3QjEPq+W7rmgz69nGgWgxYEaRRe7gIRg34ahHcR9P759VZBaN7ihZeHgeyCRj8+izieOWGO6Pth+UarIG8NQoa2A9kFjWcPZIelfWhQ0ld7/AyhvwZFWBS9T94FQrhAxOLZ/cMZ6RjNy970yVp2vH0P/RIFEYUACCsuBsA57nF6ukq3Zcee3dLZ2+1jWD+JgXSWcNQg9EP/w+UJOZTPyb6BfhO7Ojt8DEGrDy/5IKzSTWLQvC/MBeJ2ABCzgjhSGZeDueA1YjjF2DZ0hloC2XWkP+Vzb+eluFmQozNjNdBorZAvmuuoJzyjswMQto3EQEThOgZghj5vHZNCuV3yG1kfozOpQVilNSgCygO5po0g9Pn5Y0S+fzst1dJO85trkAuEP/BmMeeDsAZFWIeCID1tdoYYxLhAyE5sEL6e7UAYzN4yCGKtcboSA9nThusaZG8ZXKvwHPsChE9eg7AGRV6HXNOmQTgPA+n6SQTkmjYNwj1uGTYI/XT9xASh/S7YsLDrh2GDsChqECMCqNlWj2To+vmLoLBWj6yP/y1e+wUepnm96ft2CAAAAABJRU5ErkJggg==",
     "wiki_name": "Immature tecu salamander",
     "wiki_url": "https://oldschool.runescape.wiki/w/Immature_tecu_salamander",
     "equipment": null,

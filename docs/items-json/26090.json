@@ -1,7 +1,7 @@
 {
     "id": 26090,
     "name": "Sigil of the barbarians",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6UlEQVR4Xu2V30tTYRjHPWTWcBiDSYxVysLCjKExrMFKRpaZkQ1rrGRkIYVIIf1A+oEX+R9E/0OXXQVB0FV0FQRddNX/8uTnPXvOznk9k9lehcIHvmzTnfN+9n2+z3O6uvbq/y9PWmtXyz90cfFqRBMX8lIonJCRkYHdBPMk8f6d0cMHM4ESb99IvX5Jbs6dl+npcRk+eVQGjh3eabAmDFpaum6U/PnZAN2/d0WS3z8alUqnZWzsuORyGUmlkjsB5cnzZ1VJ/v4acWh5+YaBQclvHwLROoBwKpNJGaDRwUFXUJ6srtYCoE368clXw51i8ZTk8zkZGsoa0bpE4oBLl3ygp09uNSF+fYkC8bkBpOHWHOFQOn3IlUuevHxx27gTAHF4C6BqdUKmLhciLgFEjhy51GwXQCsrc62BNjR/56JcmzkXWQG4hEMK1KFLnoEgvOyax48q5n0EqvGeKWP0K5WSTE6eMS7ppAHU15dwAUR5gTuMOQebcQ8BLdydMiC4Q8vK5dHI6NM2h0CUZzLBAYiRB6JWKwcgtIbDWYwAnR0fjgDpPnIA5MnrV/MGSKFoHVsZENqTzaYNkELxN4DIEJ/5v9NJo0W4wiswGlZGm9bggAIpFK0DiklzCOSHGpEjpg0wAk67NDMEGFgNNVOGmwCHHergMeI/FLu79xlHgGH819bqwV4i3Bw+O1s0YDiFI5qdOKC/DLYPgnp69hvhyvr6QgDD6OvOIcS4RG7CYaatNlBzObbt0maY3t6DRjgEEO3DHYBwCGdYgvpAVdkO6bbmnty/DbDWMP0bvw4AMsK445gCaV7IEVA4xGsYiNDrvfTeetYWUPFAwCBagxtHsv3GIdrF6NMmANQpBVMgvR61AtoiUz5UnEMqgJCOOA7hir4qUPiaDoCoeKg4uHYVBgnDtAlERaFsMPvAONmZsWE01MC0AUQ1d1Gc7IPiZF9ju7INGL/8L+t4utO2QewK/xpXss/Yq3++/gAoaHZatZQ04gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4Xu2VS2sTYRSGO1iroUMlkCIhaiFSpVZCK6EaiJZgtdaKNVRDtIRWKUopSvFC8UIX9h+I/8GlK0EQXIkrQXDhyv9y7PNNzmRmOpFp+6ULyYGXyYWZ78l73nPS09Ot/78caa99Le/Q5eXrIU1eKkixeEpGR4f2E8yR1If3Ro8ezvpKvXsrjcYVuT1/UWZmJmTk9HEZOnG002AtGLSyctPI/fXFAD24f03cH5+MyuWzMj5+UvL5rKTTbiegHHnxvCbun28hh1ZXbxkY5H7/6IvWAYRT2WzaNpAj6+t1H2ibfn721HSnVDojhUJehodzRrQulTpkE8oDevb0Tgvi99cwEO+bQBpuzREOZTJHbAE58urlXeOOD8ThbYBqtUmZvloMuQQQObLkUqtdAK2tzbcH2tLCvctyY/ZCaAXgEg5ZAwKC8LJrnjyumtchqOZrpozRr1bLMjV1zrikkwbQwEDKBhDl+O4w5hxsxj0AtLQ4bUBwh5ZVKmOh0adtFoEox2SCAxAjD0S9XvFBaA2HsxgBOj8xEgKyuI8cefN6wQApFK1jKwNCe3K5jAFSKD4DiAzxnu+tThotwhWuwGhYGW1agwMKpFC0DigmzSKQF2pEjpg2wAg47dLMEGBgNdRMGW4CHHRoD23z/hR7ew8YR4Bh/Dc2Gv5eItwcPjdXMmA4hSOanTigXQbbA0F9fQeNcGVzc8mHYfR15xBiXCI3wTDT1ihQaxclhtoO099/2AiHAKJ9uAMQDuEMS1D/UFVRh3Rb80yenwCsPczg1q8DgIww7jimQJoXcgQUDnENAhF6fZY+W8/6B1Q8EDCI1uDGsdygcYh2Mfq0CQB1SsEUSO9HOwSiPKg4h1QAIR1xHMIVvSpQ8J49AFHxUHFwSRUECcIkBKLCUFGw6IFximYmCpMg1NFq7aI4RQ+KU/SeHbrSrvSX2FS3utX5+gsIzzuTHFKzwAAAAABJRU5ErkJggg==",
     "wiki_name": "Sigil of the barbarians (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_barbarians#Un-attuned",
     "equipment": null,

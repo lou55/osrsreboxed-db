@@ -1,7 +1,7 @@
 {
     "id": 5740,
     "name": "Asgarnian ale(m)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "This looks a good deal stronger than normal Asgarnian Ale.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xs3XzWsTQRgG8OQgJUuICF7USy9ePHn0oEfBg1il0vpZrTVVSwhaS7UWtbUh1LYUao2lSoKV0Na2phRtLRY/D+LBkwfBm3go+CckHl55Znm3s28mIZus0oGH/ZplfpmZnd0EApu/BMkc0/V/XoI03NtI93uOqSRvHKVEV4MKI7JjrTQ1eo4yIy0GlPwRNcNtEKMA4khMeugMTSRPuRrGMa7JuFGekEEavX28CIUtIBwGpRInaKyvSdXF1gRCfR39dq6X3kxfrw7FIOxz7zDo8eBpBeK6pUC4b222hz7k+uljbkCB0Mbe+noV2boodrfzr2YQGjWBxu81OyDsm0DT4xdcIOwzSLYuStA1DGiIJzeOAdK7XqYUaO5R1D8Q9xLO4frT8yFKt4QodTJED5pDNNxYR4mGOuo7XOfAJOjFZLsDQjyBeF5IEK6977Ro7apFq3GLljosyl22aOZiSCGxxfFyzCpCLT655AbNdPsD+jEQpu/9Yfp2N0xfb4Xpy80wfeqyVHCM6wChx3TUUvqKvyCcz6d3U2HhCOUnd9LvkQitD0Xo12CEfiYj6jif2qr2uYcYhAdgZSrmgN4t3HEwnkESVVhsosLzg1TI7lPA/MR2ymf2UGF6v9oHMnpgC3Ue2qaCewB6/SxuBMnWS5SNJ0aCMJH/vDxrZ7nVzkpU9drn7rDCILn4Lie4bzV7rVqQvQahh0qB5tstV3COwyDUnY+ZQfqiKFsXxX7kTSDEKwjxHcQoxAso07bDCaNqBum9hG2lIAnRewirNGMqAuEJM4H4E6MSkA7BqwavDX3IKuwdlA2QnEc4zyCsyHrkcKEerz8A4bXhG4hRtYCwSusgRsnWDcUGmYatWhA+O15lOhwQ1iAP65AbpA8bzvFXXzkQYxD0Ts0gPGXlQGhAohjEP0gfLt9ActhwnkFo0J4D7vDk57oAzT5sc4GwBnleh0zDpoOwj8b5TwBWcV489R5CXV9ApmHTQbim/yvRQainz58aQSjFQ2GKjtEjQVgUdRDHAygQ4GW9XCRQjz5/fAFVWiSyEixno+5/KhJpirxnU5e/TVZ1q61LQk4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xu3XTWsTQRgH8OYgIcsSEbyoZy9+Ag96FDyIVSqtWq3WmqolBK2lWou1tSHUthRqjaVKgpWQ1ramFG0tFl8P4sGTB8GbeBD8CImHR/6zPNvZ2UnYza7iwYE/+zbJ/jIz+yRpaPj3W4T00V3/4y1CY/1NdKfvqEjm2hFK9zSKMKIw2U6zE2coP96mQakfIjDcAjEKII6KyY2eounMSceNcYxrapwoX8gITdw85kJhCwiHQdn0cZocbBZ9sdWB0F9Gv1rop5fFq/WhGIR9Hh0GPRhpFSDuWw2E123M99Hb0hC9Kw0LkC8M3pQ/NYNwUx1o6naLDcK+DlScOucAYd8jKOKYBtyIFzeOAZKHXk010ML9RHggHiWcw/VHZ2OUa4tR9kSM7rbEaKwpSunGKA0eitowFfR0ptMGIb5AvC5UEK696TZo47JB6ymDVroMKl00aO58TCCxxfFq0nChlh9ecILmesMBfR026cuQSZ9vmfTphkkfr5v0vscQwTGuA4QRk1EruUvhgnC+nNtNlaXDVJ7ZST/H4/RjNE7fR+L0LRMXx+XsVrHPI8QgPABrs0kb9HppwCsGzQlSUZXlZqo8OUCVwl4BLE9vp3J+D1WK+8Q+kIn9W6j74DYRvAagF49T9YLQNp8YFYSF/OvZaSur7VbWEmLUPvSaAoOUUrvs4HXrhSv1gqwahBGqBlrsNBzBOQ6D0HcxqQf5KIrWI68DIX5BSOggRiF+QPmOHXYYFRgkjxK2XkEqRB4hVGmPGDTrCdOB+CeGF5AMwVcNvjbkKasLpK4jnGcQKrIcdbrQj+sPQPjaCA3EqCAgVGkZ5ANlgXTTVi8IPzue57tsEGqQjzrkBMnThnP8q68WiDEIRicwCE9ZLRBuoKIYxB9Inq7QQOq04TyDcEPrDZ3hxc99AZq/1+EAoQb5rkO6aZNB2MfN+U8AqjgXT3mE0DcUkG7aZBCuyf9KZBD6yesnIAjNPRW6yBg5KghFUQZxfIC8NjeSI6+fvwiq1dxId/63YO03A1IrH1suhyQAAAAASUVORK5CYII=",
     "wiki_name": "Asgarnian ale(m)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Asgarnian_ale(m)",
     "equipment": null,

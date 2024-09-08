@@ -1,7 +1,7 @@
 {
     "id": 4135,
     "name": "Banshee",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB30lEQVR4Xu3WzUsCQRgGcOcQsiKJGIaKWyoFm2IqhQqSRJmHoogudRAhKkjEThbWLfq49w8/9cwym6vRpbUdqAcWYZR9f7zz7riBwI8iMLniYwTyq0vQBCWwXS9hJZOSoNLysp8ogcfbIe4HA1x3uzCMoN9dEngZjfD68IBhr+eAfOySQDYbhhEM4mR/Xw9QtWRhs7SuA8ge5sZmAeV8DqeH25gPG785RyzivnYbFYk6bjdwsFNDNBKeJcpdfKO4CiuXRtHKym1qVovyUl2qV9awEIs4II9RAledDg5aLbkdRBCzlFqcQhHE36QSC64OeThP9tlyc3mBgmXJYkRkzQQS8agLRRBPaK6xOwo0vm2egN6en7DXbEoUCyoMC/LzqN2WKIJ4QrM7RPD7yTnyBLSSySCZNGCaIac74/N0fnaGarks54YgIgmYEYixCxNFkLqxfXOBu34fW7Ua0smkA2aXxrfNY1AgoIq7MSr2Ogeas8Q5Y6dmClKZxnyusyCftq8Ge2ag72OD2CVumwYgRjhbpp5ELUAc7snD0ScQY7/CagXiHHGwCQoZcw7GJxAjYCaiiEVCskM+dkfl44Q341iMhSVKAxBjd4koTUDMx19OPKITiPF9oKejFeY/fzbvzN5rXHZH/wkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABv0lEQVR4Xu3WzUsCURQFcN8iZEQSURQVR1QUpsRUEhUkkTIXShFtciFBVJCIrSzMXfSx7x8+ed4w4ljQInXewgODMIr3x73X57hc/4rA8h0HI7CfTUARlECzVkAmGVMBJPD6NMbLaISH62tomttplMDHZILP6RTjwUANUCrlheZ247LTUQNUKRgoFw5UAJnLXC/nUNxP4+qsiV2vtkkUi9ivk3pJoi7adXSPq/D7vOtE2Ysf5rMw0nHkjZQcU6OSl5fVpVppD8GAbw5aMUrgvt9Ht9WS4yCCmEQs/ANFED8TiwRtHVohyDxbHu9ukTMMWYyIlB5BJOS3oQjiCc177I4FWvHYBL7e33DaaEgUC1oYFuTrebstUQTxhGZ3iOD7a9gjMSuSRDSqQdc98+4s7tNNr4dKsSj3hiAiCVgTiDELE0WQ/YsFnodDHFWriEejczC7tDi2FYOsWF1ZjnmfC81d4p6xUxsA/RXzpP5tsR0FsUscmwIgRsxHZv0SlQBxuZcPR4dAjPkIqxSIe8TFJsij7TiJsSKgR/wI+DyyQ0qAMnoI4YBXohQAMWaXiFIExMz+ckI+lUCMUphttlEn32ZuPXz5SklkAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

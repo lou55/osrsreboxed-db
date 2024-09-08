@@ -1,7 +1,7 @@
 {
     "id": 9413,
     "name": "Silver bolts (unf)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Unfeathered silver crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4UlEQVR4Xu1V7UpCQRB138RH6G38IaKJiJlpIiFmmogoZkam2YcQEVGPOTFus3dm79aP2FUJD1x0Rtk595yZ2UTi/0GBndkwOAEFtdML2CIpBfV6lxFQUCo11vFBMmly0f+DQ0G1ev5NSEG/fwu5w2NGSEGl0tyUYgoGgztWUEG7PRJkkGChUBM5+xRPULBafa4LkkWLxRs0Gj1D7vHpI0aw2RyEIqVguXyH7uU1FIv1dZHpdCXUms1eDEEiJGOv0AVbraHpGXz49+FwHiNIExiEENqRSuVMwdHoXsT271xBz4T04eXyGTucj7+C+fzVUkMrFl8JXqCg07mCdLog3j6TKZoY1crnTwQhnEi5ErxA94KUPpoeipEwxZQj+6KcFyjo9W5E8yJB2jX44PjbdsUJeoG7N7B5s9kjQ2g8fogtQ7LTIxmEe/Pa9nE18BN3VQB1EHqSePPyxUgEaNooli/gDXpKXKPO+4nbhQ8qGswunCQaZSJIN73LHvzkL+CRkN4rdnG8NuSik8sRCQezCyeJeoUI4kXJFZtMnoVdvJc8EtJ9Yd/auItsxcguIiz7zRt0cXu0UbHf7EI7A9mF0EWk9D/nUNFAdkVwHezKIQm0LpBdf4VLvS1jp8jssceu4Qv7Kk8Yx7VpXAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvUlEQVR4Xu1V70sCQRB1/ko/iGhyiJlpIiFm2iHiYWZkmv0QIiLqz5wYx25n9o4I2bUI3yd3vbt5+9682Uzm/wHQ3tkxJAHAxsk5/iIpwGazLwgAVioti9BOyQHW62cbAoCDwQ0WD44UwVqtvSvFAIfDW1EQsNuNFBkiGAQNtWfedwrA1epjXfDLosXiFVutMCb38PieINhuD32pBbhcvmH/4grL5ea6yHS6UmrNZs+CIL+j107BBTudkegZUL9Ho3mCoMcEcr9ks8W4YBTdqbX9v1bQKfjj1eqp+LiMP+B8/mKpwYolR4ITAPZ6l5jLBer0+Xw5XpNapdKxIkSJ1CPBCbgXtPR2epiwLgzCPqcADMNr1bxE0Mwajr9tV5KgE6T3BjVvoXAYExqP7xPD0NjpFOmT17ZPqwHrWeWBDIGTJJtXDkb5jFzrAzgDpyQt6rKftF2sqDe7KEkmykzQ3PT8jLYHrAM4A88VuzhdG3rQ6eFIhL3ZRUkyvcIE6aKUik0mT8ou3UvOwH1h39o0i2zFjF1M2JtdVNyONin2nV1kpye7CFzkp3ukqCe7tgFb58mubZGm3h577PF38Ql9mPBrNV1iwwAAAABJRU5ErkJggg==",
     "wiki_name": "Silver bolts (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silver_bolts_(unf)",
     "equipment": null,

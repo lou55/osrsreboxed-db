@@ -1,7 +1,7 @@
 {
     "id": 4750,
     "name": "Torag's platebody",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-09",
     "duplicate": true,
     "examine": "Torag the Corrupted's platebody armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xs3X/UtTURgH8O2HCEWU4eiio00nW4yFKYgSLCKCoH6pWJj0SsUkKwKxNxlFlklvCGIvFCgFYiIlBP0QRVF/2VPfM753zz07yuZWeOBhd3dnPp/7POeeXUOhrT/C4g7X5/98hOVZMS9PJo+bmLl9TKZvHDVBxNLcBXk/e14Wn59zoOyLqBteAhEFEMPGLDw9I69nTgUS4z0+syOIqgkZltm7JypQeAWEQdDL6RGZuz9s5uLVBcJ8jf6xWpRvyxObQxGEY1aHoLePTxsQ564Hwve+r0zKr7Up+b320ICQo6+ry4Sd3RqlsvOqCUJSF2j+wUkfhGMXaHn+YgCEY4Ls7NYIB9qARFzceG+DkBwIttcGsUWrrwqNA7FKOOcCsZIEoWrE5I+k5fCBpDkmCFETiOtCg3ilCA3SC1rPIebQ/m7ZNxirBH24tXkQzsViUYlEWqS1tclPiEpqQDabkFQqJom4Z+ZHo21mflPT9saDkMiVpL292bxvbt4mvb1JyezaGUDhImzQz4/3fEzNIF45EiWTHSZJR0fER+IckiPxwEC6AsULWA9kZ19nlNswfW2PFAtZGT+b8UFIwvYwcB6J+/t7Aijg6wSV9iBUCMfvHu31w/NapLOzzeAA0gEsks/fGZCZ633+RVwdScvl4ZQU8j3m7wGkN0U7uzVKC5Ug3MK6WgxUwQ5UBC0iymvxTOjvsUJ1gRBYSwjuLZmM97cdOyTZHZV4PGIClUMFsbg1AtsD9q6vS+P1g4gCBq8ukF7wuOMI4k4N0MqLSz4IuzQxVYFwh7lA/DkgiHeU3nvQLhuE6uBnQ1eoyupglEG6bQDpnwON0be4DWK7Pr0ZbRyIKJznMw0XMSB41QvaBfq8MBYAEWVnd4wSyNU2Dbo5NiRTEzlTJQaqhb3oYC4RAOGx48viFR+EPaiGfSgI0m3TILTMjqHBjKkUUAShOnWDcJdtBEICzMvldhsEA23EDs7fLbarYSC7bThPkH7wcgXnAoRbXoOwB9W8D7napkE41g9leCLg5sm7kXMbAnK1TYPwmf6vRIMwT6+fOkEYlS1whcbosEHYFDWIUQMoFOK2vlHYQB16/TQEVO2wkdVgGeW5/2nYSFfY39nS4w+daPt8YQVJrAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMElEQVR4Xu3X22sTQRQG8OZBJKW0hAZDGkxoSiIhUi2EFiEiIgj6olKpxSsqEasilHorQbEaizcKJV5QaFEotRQtCD6IouhfdvSb8K1nd8eSzUbxwYHDbjaTzm/PmZnddnT8+y0i9rB9/8dbRB5VR+XB9CETs9cPSu3KARNELM2fltdzp2Tx8UkLynsToeENEFEAMbyYhYfH5fnsUdfA+IzvvOFGBUJGZO7mYR8KR0AYBD2tjcv87THTF0cbCP01+stqVT4tT7WGIgjnzA5BL+8fMyD2/R0Iv/u8Mi3f1mbk+9pdAwqEwR/lXROEQW2g+p0jDgjnNtBy/YwLhPMmQRFXGTAQJzc+e0EYHAiW1wtiiVafVdoHYpZwzQZiJglC1ogZ3Z+Xfbuz5pwgRCAQ54UG8U4RGqQntO5DzN5d/bJzOOUHvbnWOgjXUqm4xGJd0t0ddQZEJjWgWMxILpeSTDph+sfjPaZ/NLqx/SAMZBukt7fTfO7s3CCDg1kpbNnsQuEmvKCvb281i0Fzg3jnGCibTZpBksmYg8Q1DI6BS6W8D8UbCAFC+1WG2qVtUq0UZfJEwQFhEJaHgesYeGhowIUCPiSosQchQzh/dW+HE4lEl/T19RgcQDqAxeD1GyWZvbzduYmL43k5P5aTyuiA+XsABdgUGxOVICxhnS0GsuANZAQlIirRlTChf8cMhQIhMJcQ3FsKhcTPcmySbH9c0umYCWQOGcTk1ghsD9i7Pi5NhgcRBQyONpCe8FhxBHGnBmjlyVkHhF26SQxaY4XZQHwcEMQVpfcelMsLQnbw2NAZagmkywaQfhxojF7iXhDL9e7FufaBiMJ1vtNwEgOCo57QNtD7hQkXKACqAbKVTYOuTozIzFTZZImBbGEv2lPOuEB47fiweMEBYQ8KsA+5QbpsGoSSeWNkuGAyBRRByE5oEFbZeiAMgH7l8laDYKCM2MH53GK52gbylg3XCdIvXrZgX4Cw5DUIe1DgfchWNg3CuX4pwxsBN0+uRvZtC8hWNg3Cd/q/Eg1CPz1/QoLQ/CWwhcbo8IKwKWoQIwCo2eZHMvT8+Yug9Zof6Y//LVz7AVNksPA9tpIeAAAAAElFTkSuQmCC",
     "wiki_name": "Torag's platebody (Undamaged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torag's_platebody#Undamaged",
     "equipment": null,

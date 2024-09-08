@@ -1,7 +1,7 @@
 {
     "id": 5534,
     "name": "Body tiara",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-13",
     "duplicate": true,
     "examine": "A tiara infused with the properties of the body.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xs3WbUsUURQH8N1X0rfwG6RgZpBR2IvohWU+hfksGZpZ5sNipplta7kirGaRsYIgJlJGEBFFUZ/sxP8u//HM8e66427hhcPM3rmz9zfnPszEYie/xMUfvuv/vMQlPdMsL6ebXKQS1yU5cc0FEduZPtla6ZHN5W4Pyj5EyfAciCiAGBaTXeqUN6mOUMf4jWs2wqhIyLiszLYcQuEICIOg9eRNycy3ubY4+kBor9E/92bk+8748VAE4ZzZIWjjxS0HYtt8INz3Y3dafu8/lT/7zxwIfVRVVrqwvZuSSzufmiB06gOtLbQHIJz7QDtr/SEQzgmyvZsSDw0DOuLkxm8LQudAcHjzgfZe3y4fiFlCnQ/ETBKErFnQx7eDAQgRCcR5YUHo3IL0hC4E+vTuThj0fqp0EOoBIoqZ1CsyH+hzdqi8IAQAGmQndD4Q2n7dGglAvz7MRVthGoRAHTrDn/tAxACWD4T/8IFs73lKbvPCn+N4rqbGHS3ITmiCkEkNwr0N9fXueAxQbg9Cho4CMYt8AIBQ5wOdra4OQHpTtL2bklvyUUCov3LpopyvrXXnFoR2aI9rHLKSQETpQAd88o10WpafzMncw7EApDPD9t+2x0oH6SwtTE1KZ0uznKk6HXT0+MF9WV9clFMVFQ7U2tgYgve2t0vHjSZ3ThB2aWKKAmGFWBDnSTKRkMTIiAz19Djc5mpG1lIpB5qfGJfJ4WEHvlBXJ1cvNzggUBqEDBWZHZQDkB42gFCP6wCtPk/KbjbrQMgQhgwZxLV7A/1yt6/XoQe7utw9eG2UDUQU6rmfdLe1yqPRUZcVZG1pdjbIEDEcNswf7NIaRJTt3VNyIN+wEYTPCHZWKLjC0P7L5nAAwh4UYR8Kg/SwaRCXvN4QEfbjDNkpGYRVdhQIndlXBkF8bXD/KRvIDhvqNci+Mvjew31sC9Duq4EQCHtQ5H3IN2wahPNCID1/ygLyDZsG4Zr+5NAgvjY4XCWCUA6vGF/Y+cOwIHxLaxAjAigW47ZeKCxQh54/ZQEVWyyyGCzjoO1/KhbpC3vPiS5/AVbjn2D6IEJ7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xu3Wa0sUURgHcPeV9GlKMDPIKOxF9MIyLxumrhcy3DbLvCymu5lta7kirJtFxi4IYouUEUREUdQne+J/hv9w5syZdWdni1504GFmz5yZ89vnXGZaWv79EhN72K7/8RKTwnKfPF/qVZFPX5Pc/FUVROwXx2VvKyGVzVELyvwTkeEOiCiAGCamvDEsr/JDno7xG9fM8KJCIWOylen3oXAEhEHQTu6GFFcHVVscbSC019HfD5fl68FcYyiCcM7sELT77KYCsW0QCPd9qy7Jz6PH8uvoiQKFwuCh/NcEoVMbqLQWd0E4t4EOShMeEM7rBMU8w4COOLnx2wShcyA4vEGgw5e3mgdillBnAzGTBCFrJuj96ykXhAgF4rwwQejcBOkTuhbow5vbXtDbxegg1ANEFDOpr8gg0MfydHNBCAB0kDmhg0Bo+3kv5YJ+vMvWi0HxghCoQ2d4uA1EDGBBIDyjQRCKs3nh4TiebW9XRxNkTmiCkEkdhHu7u7rUsQGQswchQ8eBmEX+AYBQZwOdaWtzQSE2RWfJhwGh/vLFC3Kuo0OdmyC0Q3tc45BFAhGlBzrgP98tFGTzUVayD2ZdkJ4Ztv+yPxsdpGdpbXFBhvv75PSpk25HK/fvyc76upxobVWggZ4eD3wsHpeh673qnCDs0nViUJwVZoI4T3LptKRTKZlOJBSusl2UUj6vQKvzc7KQTCrw+c5OuXKpWwGB0kHIUEMgfdgAQj2uA7T9NCfVclmBkCEMGTKIa3cnJ+TO+JhCT42MqHvw2mgaiCjUcz8ZHRyQhzMzKivI2kYm42aIGA4b5g92aR0UAuWAbMNGED4j2Fmt4ApD+0+VpAvCHhRiH/KC9GHTQVzy+oaIMD/OkJ3IIKyy40DozHxlEMTXBvefpoHMYUO9DjJfGXzv4T62Baj6YtIDwh4Ueh+yDZsOwnktkD5/mgKyDZsOwjX9k0MH8bXB4YoIQvGvGFuY84dhgvAtrYMYIUD1Fj+Soc+fvwiqVfxIf/wv0cpvDN9U1Jm+1XUAAAAASUVORK5CYII=",
     "wiki_name": "Body tiara",
     "wiki_url": "https://oldschool.runescape.wiki/w/Body_tiara",
     "equipment": null,

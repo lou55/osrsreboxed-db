@@ -1,7 +1,7 @@
 {
     "id": 19451,
     "name": "Magic essence(3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-11",
     "duplicate": true,
     "examine": "3 doses of magic essence potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xt2X32tSYRzG90aoyOkiiG6EIdUGmywVNpfb3ObUOd3ckhVbC1u5ZTrndHPOuX6sgu6CIOimu4h+XbRfEF3EoIu6iCAIglj/zNN53+N79BxXEByP0BeeO/X98H2e5z3Hpqb/YwiUaugQBL3t6HOdht1mwanmE42GIiikA1hJ+ZnOh+zw9rU2EorIMNmED2PBs+h3tzAgh9WqN5SUGQ6UmR9E2G9j9jUgTwSR8UlEo1PydhbiA3KeXK5e9PR69YQimJmZrdFYZBKB4QgGBofhcHTpaR3B9USSKZFIyQqPRuHzh9HV1YOW1jZ9gXLLeVlLSzmk00sYCU3A3TOIdpsdFkuznkB0CF68fI3d3T1sb+9ga2uH2eV0uuRQUxhdgebmbqBYXMfGxk0maldnp7sRMHQIMpksSqVSWRvwB0bR3e3R2yo+BMX1kkLBkXE5QzpWng5BfC6BfL6A1dUCCoU1Zh29m4Z8IYVt6m/WaQiSyTSy2WW5abHYNUxfijEoT79Pf6CDOx0VrVlwkDuGbwsCPicEPJs04faAUS/bRJiV40qgopUBfV+UgJ5fMGHTKwHVeUsEX1OCEoYDiZAc6NVFEx4EjFjzGOq9JXE7qydrgUpnGNCPjIAvSQFvpkx4OGLEvSEJqE5bIuzAX5vOGjEgEZQDbc+Y8XjUyGzLnavLlgg+zQssvGoYBnSrjQH9zEpAe5fNeBJR2qbxlv68HQZUbhoFohl7FzPj6YRkW6nfgJVeTbdEWFDZdu52VqQGEoPNgd5fMbPqV9smGJq0giLsIAWMWhSqXH16F324amZNq7Yt7tTMOsIOq4H4C9B+3Iy300rbUi4DpjuOarelGgiVePUp0EcRiDaN25YXMxRulWA0ei2pPCoUgT4EiF+O9C56FDJiUcxPX/MRLWH4SG+B7GBa82pAClSuPm0jzQ+1atbJLdIcRhrpB/l/LiKDVVefPsfu+/mDtQKiOUz1VA6owKmlC8hhU32wWurP/uv8BjQl/kGCB+zFAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xt3V32tSYRgHcN8IFTldBNGNMKKasMlygnPNH9ucuk2dW8NitrCVLtM5p9M5p/1YBd0FQdBNdxH9umi/ILqIoIu6iCAIglj/zLfzvnqOHl1dHc+BPfC9Pe+H93me92g0h6MIpFG1CCY8vXDZz8BiNuJ01wm1UQSljB+FtI/lQsACj8ukJoqImFzSi6mJcxge6lYLVJsZAZRdHEXQZ2btU2GeCMLTEczOzom3sxQfEefJbnfC4fQoiSKYn19oy1Q4Av94GCOj4+jvH1AWdCOZYkkm02KCoVl4fUEMDDjQbepRFpRfLYpZWckjk1nBZGAGQ45R9JotMBq7lATRInj56g12d/ewvb2Dra0d1i6r1a7GUNMiSCRuolzeQLV6i4W2y2YbUgNDiyCbzaFSqdRThc8fwuCgWz1QeaMiycTktDhDCqMI4okkisUS1tZKKJXWWevo2zTmDajRNoJUKoNcblXctFjsOqKXYwzlHvYqD9q/29fIuhH7+WP4scTha5LD84ged0Z0SqF4TOG4FFQ+xUA/l2ugFxf12PQoAiL4nuakGAHEIwXQ60t6PPTrsO7WdhrF387ayXZQ5SwD/cpy+Jbi8HZOj0eTOtwf6yiIsAP/bFrbwkA8VABtzxvwJKRjbcuf7wiK4Msix4a3FcNAt3sY6HeuBtq7YsDTcEfb9u/bYaD6plEQnbH3MQOezdTaVhnWouCUFUXYoLLbuWdrpBXED7YA+nDVwFa/uW2cViMXirCDJJjWUFR99elb9PGagW1ac9viVtluibDD2hD/AX2KG/AuKm1b2q5FtO+ofKg2REuE1aegzzyIbprQtiI/Q0GTbBhajV+FZKAPAAmPI32LHgd0WObnx9V1RE6MUPSDpHYwXfNmIAXVV59uI50f2qoFq3ArsmOaSziAiLDm1af/sQc+4T/WUchB1cC15xDWX1X9yTZcG3BnAAAAAElFTkSuQmCC",
     "wiki_name": "Magic essence (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_essence#3_dose",
     "equipment": null,

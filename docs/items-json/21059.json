@@ -1,7 +1,7 @@
 {
     "id": 21059,
     "name": "Killer's knife",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-26",
     "duplicate": false,
     "examine": "A blood-stained knife.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdElEQVR4Xu2Vz0sCYRCG/QiRQtajpGSaZNCpo6duHbyIBRuFlFlWaKhZmpo/ipCC6H9+25nPT23p6s4efOBll2UXHmbm2wkEVqzwNQrziKNwnMuhUizCzuelxRQiloXteBwfLx18DQaYdLt4bz9LSGmZzWiUhXZTKeyl07MKHSSTHPdXS2IusxWLYSeRYKFFEREZqgzJmMp4LEL4WGZxZkRkDrNZPtZmXvYzGSkZQuG10UDztsJXoZNkUGjd37EIpX5zLSvzUL7C+KmF4WNzlmqpNK2SpyheB/TXpZAURahdCpenNq8DE7MOjIinMmeFAreG9hKFhASqQujN3anVeFF+9vssJCZzFFrjo/09GrEQRUzG3giiHA5iEgnh523MUkIyhMK5I9SyQhhOhURl2o4IVafupOfcU5WMkPvtJaNQDetWGRl6JlQdhQunTZRFGYH/jEHPzX8y7jc9QJ8qapcvZE7W9dwIzoubvyLCMhrfiPiFX/FCQuM6tt+OAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABU0lEQVR4Xu3VT0sCYRAGcIeQpZD1KCkZJhn0CTx16+BFLNgopMyyQkNtSzPzTxFSEH3np53ZtmWDrs572AcG9/hjZl4nkYgTx+gQwlIP4aBSQateh1OtasMIadvGZi6Ht8chPiYTLEYjvA4eNFA+Zj2TEdB2oYCdYlGrQyFmI5vFVj4vIAUIJ9oZxoSdWXoMxkR3Zukh7JXL8qyDfdktlbQwHMJzr4f+VUt+lV5SEIJ7cy0Qru7lhS7mtnmO+b2L6V3/t9qNhgaK5Bzwvy4Xo7iUxkU4O3LkHASldA44hONaTUbDd4mLQWoYvtzDTkcO5ft4LCA1zL61Ik/7czYTEJcaxllLoplKYpG28PUyF5QShkM48UCubWH6A1LFDDwId6fr1ZP3zV1SAhHaKX9UAcaHKGFOvTFxRTFq8ffGGAy/Kh6XEZjDVX9vFPflb4yBxPk33/nc/JWb3+jZAAAAAElFTkSuQmCC",
     "wiki_name": "Killer's knife (Quest)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Killer's_knife#Quest",
     "equipment": {

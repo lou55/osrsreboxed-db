@@ -1,7 +1,7 @@
 {
     "id": 7702,
     "name": "Teapot",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "This teapot is empty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqElEQVR4Xu2W7UtTYRjGPV8jir40UjZ1Yxs6cZvkcqg18S2buOkyM2OZJGbDMLGQJEN6FXshoigoCIIIgoj+wTt+93jWaS3ZzhT6cC64OedsY8/vXNf1HE5DgytXrv4LWVL7HJgsuTEdl6VcTK5mOnXmxiJyYTgs2VRQxnr9MpholtRJn05/rEmSnY37AVV+h8W5nT/1x2wuJGX1UrdCTg/4JJ/uUCDAEpETCgNUNHS8HihLFtJ+uTXTpgvigNdzuASwtdhbmofL/fJibVDPN+YiUpgKyXh/QHKDIQXBJQCZoPeYUyhLYZ4VuuT93VFdkIWB2V7qk8eFM6Xhu7cbI/JpO62/IUri4yaAGOlpVbeAxC1uzDEU8/VJRl7fGS7BPF1Jye7qgIKUw+Dg2uWErMx0ybXJqHYKEI44xnlXm0d8nkPOoT4/GNeFWQwYzl+tDymIgQEQtwDW6OZ7FAyXAMGx2dF2vcaxaOCohL1HnEBZuiAQLMYRt4jxw70x+Xj/nGzNd8hmPqL9WZ9t16hvToe1S9ezQS05IBzZkYCl4h7J9DXJ3EhrrVDFyFgYGBwyIIDiHtdA4hLQRGscMrsPECKkX8zUaa/eyOJEQIFiLS21QX3byaorxGJAOPIZ8RnY8tiIGSg6BRhDhOlkozr5Zq3biUvIkp8vz8v33Ul1zADhDlA4BBguAUbBK7mFS0TGI2VnOS7v1hNycajZmUv1ApmdR5foGHFdOesvwdQIhKwS0JdHEwpElwBit1WKDiB7bADRJ/NIqQMGWfLjea4qIByiR3YgU247RB0wRsWCA0RsABGbAbJHZn8emVLjkIO+7KUikOlRJSB7XHYgtnudEf1LxWeTATKl3qs/5nVln92x6+/XkmrmANz5rfJiVjvl/+PKlStXZfoFmyj5dUSuex4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjklEQVR4Xu2W7UtTYRjGPV8jir40UjZxYw6dODdyOXQ1mc7WxE1tqS3MJDEbhskKSTKkV7EXIoqCgiCIIIjoH7zjd49nnMaItjkqOBfcnHO2wfN7rut6Dmtrc+TI0T8hS+qflsmS6/mwrM4OyJVsv04hHZQL4wHJJfySHvZKMtopiZMenfhAh8T62w8CqnqH5bm1eOqX2V6OycbFQYXMj3pkMdOnQIBFgycUBqhQ9/FmoCxZznjl5lyPLogDbtfhCsDOynBlHqzF5flmUu+3CkEpznTLZNwns8luBcElABm/+1ijUJbCPC1G5N2dCV2QhYHZXR2RR8UzleG7N1sp+bib0d8QJfGxCSBSQ13qFpC4xcYahmK+PM7Kq9vjFZgn6wnZ3xhVkGoYHNy8FJX1uYhcnQ5ppwDhimPcR3pc4nEdahzq0/1JXZjFgOH+ZWlMQQwMgLgFsEa3NKRguAQIji1M9OozjoV8RyXgPtIIlKULAsFiXHGLGN/fTcuHe+dkZ6lPtheD2p/SQq9GfSMf0C5dy/m15IBw5UQClgi7JDvSIYVUV71Q5chYGBgcMiCA4h7PQOIS0ERrHDKnDxAipF/MzGm3bmRlylcvELLk615OXSEWA8KVz4jPwFbHRsxA0SnAGCLMxNrVydebg424hCz58eK8fNufVscMEO4AhUOA4RJgFLyWW7hEZLxS9tbC8rYUlfmxzr8DZE4eXaJjxHX5rLcRGCOrAvT54ZQC0SWAOG21ogPIHhtA9Mm8UpqAQZZ8fzb7R0A4RI/sQKbcTUJUq1xwgIgNIGIzQPbI7O8jU2ocagmQ6VEtIHtcdiCO+wHDGJXfTQbIlPp3/TF/V1oEhOylrGccOXLk6P/TT51NznMrW3XPAAAAAElFTkSuQmCC",
     "wiki_name": "Teapot (Clay)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Teapot#Clay",
     "equipment": null,

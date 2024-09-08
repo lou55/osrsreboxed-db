@@ -1,7 +1,7 @@
 {
     "id": 806,
     "name": "Bronze dart",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": false,
     "examine": "A deadly throwing dart with a bronze tip.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXklEQVR4Xu2VvU/DMBDFfbKiKFHVqgoqooioBRUkGIIy0KVDFwYWBiQGBgYGBgYG/v/h8Pli6hiGDo19A096ipQP66d3z45S/0omwPBOQgHe1GMUBEUggLeLhXX4NLIAr045HREwzXIiK53zk5GcdFyRBaQD2F5MsZ6VctLxi5wYiIs8rwoJ6fCo/CInB6Iizya5jHRoVH6REwDxL4F8d1nZIk9HWap0AL/GOX4YgHfj9ZnGVaVSpQP42YG8GW9qjddHCttMp0gHbCoEQt4uNTbHDLTOzTXjlMKvBhL8pPJasts5A5EJqImXEvRAXkoeFYEQ1L2B2RjT2FZ68JSgB0J+7tJx9oEGLjbD+CBk2lW+HwqN2wAoXOmA2p03zjQu56ciiw2klBvBbhRgdxiZEosO9Lc4LQJ67IDctk8EROoDDVzofQW/gMI3IgtssQUBkcCeRYKASCL609ehYb4BgXsFuzRyOFkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABL0lEQVR4Xu3VsWvCQBQG8DyOEBKCIimRphiwRQU7BDLo4uDSoUuHgoODg4NDhw79/4fX+3I5m5Ss3r3BDz4CmX68e5cEwT3eQvz/jccQv5YjFoQCRBBm9SRmOsTVfCwFgxA/P6ZSQKIWmbh+mXCZJ3JA4ha5yGIJIHNU4hY5H0cSQOaoPC+y/SUQb5ZZs8iTNPQFIv4ZRfylARfd7UzxIgv8Yb5byFl3VypePwRch8oHiJqpAILu54qrqQFtI/0MnU6JrlM5JaZ1YUAoQJW7KVEPckzMUQEC1JvG7HRxbAt18ylRD4Ie2unYdkFOMF0IilvV7XuseO8GhPx9b2xxXLafcegaNBRqbhiKiQkAIWZaAH20IMfXfih9kGeMDckDYbEFgRBqvkWCQIgozG3yCzzyzFRu2dOWAAAAAElFTkSuQmCC",
     "wiki_name": "Bronze dart (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_dart#Unpoisoned",
     "equipment": {

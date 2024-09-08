@@ -1,7 +1,7 @@
 {
     "id": 15433,
     "name": "Small fishing net",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "Useful for catching small fish.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADd0lEQVR4Xu2WaVPiQBCGzef94uqqIFcIISdXuEHwRNZj3ard2uP//5LefnuYhGC5YpWCH+yqrvRMSPrJOz097Ox82IdtzQxSvnVTILNJRLNusIDaGpxBD9NAXEN8n4Y0m0Y075ibBlsos6TKr3lPrj/PWvG9UdNZUe1NAFWyPzeDR8n+8tyo49M4yMn4uhfSuOXQtGlTp3pEYSX/2lAGfZsEdN02ac7Jrqdt8ZMwR1edgH5/7dNFx44BMafjSaTUqr8elBEvAb4c9TIJ81IvF+Om+N2Jn1IMas37yqFa5KnaanuvCAUXmEZV4h+LmoEyiK8Y4p7BLk9adDttxHBauSEvX9MtpcBXs6xhycMDX3+d8vtxTZRAfDv2xHWcTmpQ6JSo55dozs9gXC1mqFZW9baa8T+mihV1gy2OIsVcn8GgRC+W35BlgRLwRiVDgXnI98tkHe/J/Zr5hcIYwKDzdkWuLdMUX838hBkCEyddAPVqFWo7x6LEoGHHrtUCXN0pUt/NUtcrytwgsMhmVfS7fFvNrwmjHrqaqBrRYACJ4Tjpzcij8yYnrrMqjkoQsjKI4eXsZxq21fKN/GMZ+6UsBcV9qhSO1gVSvaZh7sk2l5fxDlttdB03JzsIuwdLdBpZXBNHUrSIcW1Us3TVdeNnfAYBUMM6kHgNINVr9Atm7ZI4OjAgUTsYnw7q9HBSp3E96TuXXRUDDr1JYjsrSuT3P8VAvaAQP/NM/SS9Bg6Iy5baokPe5gDFFcuEOShzf6qWtB2UpZh1l8Y87lv5Q/JYEa+wLx7ZyTI9A6NNwQDsclGgcMBgVyFGHSEZAG5Hqic9nEXUYjX073Xf8Qp7DGtSwB06xyqVMrvxb1YzP2mKOpFUQ2CJEC83vLtRTeDGNZuu+3xu9XnsFKh0tCswLu+qcd0U71YzVGbFXCsv914EBUtLmgaE91tufCzApy2LBl6WIl8tM2DcvILSzzSreeo5arzmkj1tyy/QYLrvwHFG1fnrHW5+Ggp9KLQy5Fg5KucOaNIsvw7MYzNkmZZVg1q4mpx46B1LjGbYsHPiAHsjGG3LL09qaxgl59gZHw81bgOznif1A1f33sjSX7qok6XT3OPdBSjE6NQYJ6puwLRa+po+HrjOXNUUNwakLUmYXtawrGpr40DLpmHw/ycNuHV7VzDK3hXMS+0fQo18RQpYfVoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADV0lEQVR4Xu2WiW7aQBCG4xdomqMJYGMbjG/wBTY34U7StInUqsf7v8h0ZzY+oJVyh6jKSKO9bObzv7Oz7O2927vtzATYbHdmCCDAOmlS27Wr1Ob+qibA17ELNxMX5oFMvuw48H0aUPtl5Lwm2K0ysbuhyK+L7sZ4EBjkL6yaAMtRCNeTIgyf/3mewKzdoLnFMNhQqd9SYOzztc3fe5JxmHVbhRVTZzkOyQkgVGDetjOAq6ENfTZeJ3xuFHKl2pb0/FDXLHd+X/Zg3JQyFTD4D6ZQzAKi930DLsdeBjhoNjK4xFGfCpVvC/oqUmHi8y+eRzYFQ18ECnxmysSWSH1cD3UZ7LqYwfXYtvkmX3sklEAnB1u/dvhXkhZVuBxYEFoq5VHXa4BZPYaRp8GkY4GnlcA1FIhtBdYDXiYWHfMxUFyRxJaoTYGwnTMVep7Ov5y1A0fMtgX7Q79G3pBLNNdUj8GtidkHTCPtoUAcZurlBQ9BIqMCcVMjn/ly5tN+rhYqNWIwCBaw53FuEtYzOHRf5/PbUf9hea4UtwjHGDgdYzHsmCLlDwJ0rTLolX1w1RPqe4YMWvUUAosncat+CrXyAdhKGRz5iNbuASRQpcVg2P92FtCJwdOEbQqDnrQapAA65k3PqpDjGuYM9jEwQqTveI0yAZkqa9naHUDCVsnnQJgrCIPFDo80wp4FJpz3TBi08+fPuw6BUP64IqmGQdXSATk+Y2lViJ3inXenpQ+xU8CCpcUOQZes+EV2DS76Fs1hwKtJAEOm6CLWIXJ4zuCafwtWl06gxVSxqkfkOL4nSNH4dhSVmkUW3Ix96mMyIwyqsUx0CFhAnMd+26mzo85PnCUjyCG5KR+Do0mglD4+RJ2iFV8QqBCetbjUxdozZn89MH9wbpUYMGnxq8GsSxDoEsG0TRU6egm00ocMUDlNwR5txa/i/YTlURFu1W+ScqHNK7EpHfK2cNSbTNXYSMfPbpuQEUt4LAGq+AkMdl047PjPIgPceonGNTaPtemFYLYt30qDVeP0ekAPLIXUQrBXgkHj1wW2xcvTEPdpm/p2hfwZcuchxiGKQJaW/v+5HSv8RG6/+cKW55XdSIsgH0dmcbwTKwYXsos2n9uZCaBnx//N2JuC+Q/sD32HOGS/MlV2AAAAAElFTkSuQmCC",
     "wiki_name": "Small fishing net (Regular)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Small_fishing_net#Regular",
     "equipment": null,

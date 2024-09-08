@@ -1,7 +1,7 @@
 {
     "id": 732,
     "name": "Holy water",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-08-20",
     "duplicate": false,
     "examine": "A vial of holy water, good against certain demons.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xu2Xy2sTURTGO2GYGUIide0m+EQtWEpqamtF0oJYLaWkQkWxINWoKSGYthCNioUIYkHRTTcK0oW4EKEgLkRwoQv/qs/7mJk7c+dOMzOZZOUHB5LMffzud865SYaG/iuRNMifhIuOdaIv0nBk5GrEDTQUyw/diDYnlvhJp+c7EU/thdcwWiiwkEclFF+cBj2t8zoKlAOSIowjftK4p+72vEcJoCgwA1IUGG93dUtrCuoGs7J0GOt3T2H3zRTev5oYDJRa3JF7N4/h8dppBrTz4qybYnl0n6VhfHwSpYkLqN06jqf1EebOu+dFVKsPQlxSfZaaNIyNlXBu8iLKM5cxd2URq6tV1OsN1Gp1hUtxLtlE0nBmtMgcmpmdQ2XpOjY2NtFsrqPR4De1CqjvUDRKpWksLFxDq9VCu912YfYD6lONkU2OnsDU+TIqlWUC9IiFesOB3GkadP0SDKsBK7eD3PBfFmogPj78Wc/SkMmchG7egJndIiB/3AjfNPXC9i5EgPRZ5o6Z3SYgvwNQYiwf7weSn0eWM5n/3nHfZwrQjWUC84zEa2SHfwWAhEtJfz0EJBaSFxPubHGgAz99QEGXgg4lLG7hkFjsEHPHsDY5UO4tAfqhBFK1fg8wXGIyB2PumPdtoA6y+S8E6LtdR/4IpqVHGL/o4ge5OwyoRYBewsp/JkDf7DoKAsmby+9jyl8H1B3a6oa5BtN6YgN9IkB7dh1FcSmx5HuDXITGPAFa4QXNgLYJ0C5J21e7jtRAPbpCJVrd2xm6sUjcuW13GG95K/9x3zpKwSXR7vRvkLfdBVDTbXkr98GtI7o5TR11iwLSVKZUyKLVQx1iKetIUHssffQ1dY5+x6WUMirVvaHZRX2HQfFOs50ixe2FcCIFd7xSLSg2CwtnTnBuClItKG+oCnlOXP0DT1pna9gsVTYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4Xu2Xz2sTQRTHu2HZXUIi9exF2qqoBaWkprZWJC2I1VJKKlQUC1IbbUoIpi2kRsVCBLGg6KUXBelBPIhQEA8ieNCDf9XXmXn7I7vZ7W42s62IX3iQ/TXvM995b3bT0/NfsaTAeyZY/F4rEpGC/sFrERMoyBUe2BHtmY5EMx2fbkacdSt82L0diwbnwWdr/Q5PFHa9K9FME5x1HHVSQ/umKDCWg3+FkwoW5vqwunQKO6/G8PbFyEFCkSP3bh3Dw5XTAmj72bmDAlIwPDyK/MhFlG8fx+PKoHDnzdMcSqXlACi/c9KkYGgoj/Ojl1CYuIKpq7NYXCyhUqmiXK74ACXeIArOnM0JhyYmp1Ccu4G1tXXUaquoVv12amdva78mTVRD+fw4Zmauo16vo9FoBCTcJ6D+gRMYu1BAsTjPgDZE+CdMfMm4FKjqZWhGFUZmG5ne3yKCk5Kj3rOSpCCVOglVvwk9vclAftkRnFS6S60DMSB1Urijp7cYyM8QKHJHwrvRepi+d+zj1FGo2jyDecLiJdK9P/YAivv10CZnIO9gjjubBHTouwvID0q6Q85gR4Q7mrFOQJnXDOhbCBCNFdOZIBGYcEe/bwI1kc5+YkBfzTpyR3ty73FX4oMdJncEUJ0BPYeR/ciAvph1FAbUtdx1wN3hra7pK9CNRybQBwa0a9ZRFJdiy7vmbCPUphnQAhW0ANpiQDts2T6bdZQYENWL1VnWsarNMnfumB1GLW9k3+9ZRxKgnHbnf4Na290Bqtktb2Te2XXEk/Ol425xQL6UXcJYIkfcm5jHIbFkTQ/Urlg+/ps7x99xkoC4vDVE56io7woo6jTTKVbcbggrpMpvwNZkQfEP6g8Wow/4s5gztAAAAABJRU5ErkJggg==",
     "wiki_name": "Holy water",
     "wiki_url": "https://oldschool.runescape.wiki/w/Holy_water",
     "equipment": {

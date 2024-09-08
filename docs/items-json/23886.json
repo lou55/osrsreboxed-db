@@ -1,7 +1,7 @@
 {
     "id": 23886,
     "name": "Crystal helm (basic)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A shiny helmet that provides a little protection from crystalline creatures.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xu2W60vTURjHPa/C9+HrQlS8oClmhUqCZWaSjTG867K1vK8xxlheM1toatm81VKGjC2v8zZrzUTNCpEuRBhB/S3feJ71m2bSi9yUYF847OzV+fy+z/d5zgkJCSqooHZL4Pd1qBLQ6BtRelWNi7kytPc8OkwogWH7M+iMrVBer0FmVg7uDzxBveHWYbglYJ+exYhjHIamdpRfq0L62UyYh63Qt7Qhv0yJlNS0g4ISmH3hwficC9axSRhbTCgsrUDK6TRYbA40mTpRrq5CZnYOA504diyQUAJLa+uYf7mEyQUXbFNOLpk8vwQJiScxOjHNOaq8qYOsoAix8QmBdEngzeZ7LK+/xeKrFZgfW9F8twuVdTpclikQHRPHrlGOqGylKjXO5+QGyiWBT1+2sPHhI+wTsz6YWq0BisIyzk94RBQfPjRqR2tnD6p1enbpeHhEIFwSWPSsoKNv0AdTrdFzdi7k5HF+CMgxNY8H/cPoHrKwS5SljKxsf7sk4F5a5cD2jYzC1GtmmOJylQ8mNi4B8QlJmJ57zsCtph7uPnJJXlSCo2Fh/nTJ2+KOmXnuqt6nI1ySK/IChklMPoXklDO8n5xxYWDYxg5qDc1Q12jZJWkE+MElwR3l8ixzkKmzaBhScKm9JYcio2J+OeCFl0pGAzO/WMmhPxIaul+XBDyra/zVq+828Hpjk6HIqQGrDffM/TDeMcFwu50P1zW18tI2NENjbETFjTrOGDkZn5jkc+gfXRL4vPWVQQjI5V7G0so67y1WBzoeDvJAJCAJgK6MWr2BF2WHMiZTFLGL+4QhCXz7/oPbXAKiYFMXUUZMXWYONwERDAHQMFTXa6Gq1fCehiVduJHR3nLuA0bStksERMs25uQuojtrJxCBVFTXQVlZwyEmqEt5cmSc2255PwCRBLtEM8i54MaIbZw7bS8gmszFFSr+JTi6/f0MI8k7FKl0zkX3X4EUJWUMRU6lpmf4q1R7STAQOUQlowxRqOt13rcPPdJoWKqqNPxYo1YPkDs7JdBttvAU1je08YHbDux+xgYcRtKfB0qH7vx/QDBeHfiBQQX1v+snYorTjei2tvIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDUlEQVR4Xu2W60vTcRTG/b0K34fvQ0y84FDMCpUEy2xJNsbwrmut5X2NMcbytswWmlo2b7U2howtr/M2a22JmhUiXYgwgvpbnjhn/swierOLb/bAl33fnc+e85zz/SUkxBVXXH9LwJ/nSCVAa+hE3TUNLpXJ0Df8+CihBNjdz6E3maG80YLiEikejD9Fu/H2UbglwL2wBIdnBsauPjRcb0LhuWJY7U4YenpRUa9EXn5BrKAELL0MYGbZB+f0HEw9FlTVqZB3pgA2lwddlgE0aJpQXCqNBZCA4NY2Vl4FMbfqg2veyy2TV9RCkn0KU7MLnKPGW3rIKquRkSWJJpSAt7sfsL79DmuvN2B94kT3vUE0tulxRaZAWnomu0Y5orbVqTW4IC2LFpCAz1/3sPPxE9yzSwcwrTojFFX1nJ/klFQuPjnlhnlgGM16A7t0IjklGlAC1gIb6B+dOIBp1ho4Oxel5ZwfAvLMr+DhmB1DkzZ2ibJUVFIaaSAB/uAmB3bUMQXLiJVhahrUBzAZmRJkSXKwsPyCgc2WYZ4+ckleXYvjSUmRhAqNuGdxhadq5JmDW3JVXskw2bmnkZt3lu9ziz6M213soM7YDU2Ljl2K4AoQeKJ8gXUOMk0WLUMKLo236NDJ1PT9giF4sWW0MCtqlBz6Y4mJ4UIJCGxu8b/efL+DNzu7DEVOjTtduG8dg+muBcY7fVxc32Xmo+vohtbUCdXNNs4YOZmVnRM+zJe9bwxCQD7/OoIb23y3OT3ofzTBC5GARAB6MloNRj6UHcqYTFHNLoYJQxLw/cdPHnMRiIJNU0QZsQxaOdwERDAEQMtQ066DulXLd1qW9OCeTBPbGbZ+u0RAdFzTXp4ierMOAxGIqrkNysYWDjFBXS6Xo+h8FEaeXKId5F31w+Ga4Un7FxBt5hqVmn8Jjl7/CMOICi1Fap13zf9fIEVtPUORU/mFRdECIgkMRA5RyyhDFOp2fejbhz7SaFmqm7T8sUajHkUYUQKGrDbewoaO3v2CYlHxfvjERDEvGFdccUVcvwA4bKiL6zcCsgAAAABJRU5ErkJggg==",
     "wiki_name": "Crystal helm (basic)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_helm_(basic)",
     "equipment": {

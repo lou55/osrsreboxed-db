@@ -1,7 +1,7 @@
 {
     "id": 7626,
     "name": "Bucket of rubble",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-22",
     "duplicate": false,
     "examine": "A bucket totally filled with rubble.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xt2X7UsUURSHvUSIIYUkhUqbbqyiK+4WqyRqKGpqxuZLm9qmbpvvL+tLWVEhFBEEfQiiv/fUc4azjstqH5pR6sKPmbnOznnu75xzZ6yo+D+GkyOd+3DSmUxIb1eXDPb1nTeUk53lJXk0MqIgD4YGZXSg/7ygnKwvLvpS5WRybEymx8cV7IxT6CQ/N6fB25qbpaXhoqo9UilPpyZldmJCHg4PSzJaeVZQTjLptDx7PK2Bh5OXZCzliXlgAcOxuy1VYbvlZGV+XnIzM3rcfJ5TIL+Y42/UVl+8SsV8CGBOXdlbXdH6IchAR5W0tl6XWOyaKh6vV316faBAuAYQ93E+2V0dFJTTh/LA3NBlSSQaNLAfJtpUWxQOkU62gs5YpdYTv0c8K9nY+LdQTlea7qpWZ06DMRkQ59QSstQFAsRKsb00TQYQidQcE+3f39Mj3amUOgQQCwoMyFaIU3+CMeEQAo6FZHoDBLKOAewkmPr6K0WRMnZuitu2CbozUCBgSB06DQbZzs2eBMjeTGuwQFP3bkhmICKzQzcVjrpgh47WeYrUXlDV1Xhix154kpFCpkVezbUpkL1uAgMCJnu/SRZHo5Ifj8py+pbWRTkBAgQwSK9/72GBAZk7BrM2EZPNqWYNZMH9AJy/zcZVL9fWjrkTABDDaaHiCjDlIAzg/cLR8c3Wln6mbL/IB+WODacO4Q7FerCxURYEHebaVYBw38d8h84HDkTaSBkO4QxBWbkJABMgH3Z35PNSouhY6EAEYvUE/bKalK/rt+Xb5h35vp1ScQ009+Fk4EB0Gl1GHVFDrJqA5YA4Wqq4LxQgasfqiA4jiLkEkMEcTF9VSGCB4Rsp4A5juOKrgK9CS5vfJRz6sZuSQrpG56zDAtx/SofX+vZuWspmdY+hgAn+rlDQQj7c39Nr5s2p0ICshnCJze4k4RYKHchfPwSyLivtMM6pK34TQv34hxeAYvZ3FxDUz8/9Tj2WgoQE4w3v4Uf/JJbTmYCUDn/Qciq9/58fvwA6nC6wE3uQfgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6UlEQVR4Xu2W+0tTYRjHPUSIIYUkhUoLF1N04lZMSdRQ1NSM5aWlttS1vF/mpayoEIoIgn4Ior/3qc9zeLbTmPaD71GIXvhyLh73fN7vczmnqurfWJ6UdO7Lk65kQvq6u2Wov/+8oTzZXVmWR6OjCvJgeEjGBgfOC8qTjaWlQKo8mRofl5mJCQU74xR6kp+f1+DtLS3S2nRR1RGplqfTUzI3OSkPR0YkGa0+KyhPMum0PHs8o4FHkpdkPOWL+8AChmN3W2vCdsuT1YUFyc3O6nHreU6BguIef6O2+uM1Ku6HAOapK/trq1o/BBnsrJG2tusSi11TxeONqk+vDxUI1wDiOc6nempdQXn6o/xgbviyJBJNGjgIE22uLwqHSCejoCtWrfXE/yNnQOw03V2rzpwEYzIgzqklVErdqZenO8X28jQZQCRS94do/4HeXulJpdQhgNiQMyDbIU79DcaEQwg4NpLpcwhkHQPYcTCNjVeKImVMborbxgTd6RQIGFKHToJBNrmZSYDsz7a5BZq+d0MygxGZG76pcNQFEzra4CtSf0HVUOeLib34JCOFTKu8mm9XoNLr5tTLBwIme79Zlsaikp+Iykr6ltZFJQECBDBIr3/PMGdA5o7BrE/GZGu6RQNZ8CAA52+zcdXL9XWX7tjytFBxBZhKEAbwfrF0fLO9rZ8pOy/y7oFwCHco1sPNzYog6CjXoQKE5z7mO/W+cyDSRspwCGcIys5NAJgA+bC3K5+XE0XHQgciELsn6Je1pHzduC3ftu7I952UimugeQ4nnQPRaXQZdUQNsWsCVgLiaKniuVCAqB2rIzqMIOYSQAZzOHNVIYEFhm8kxzAsr/gq4KvQ0hZ0CYd+7KWkkK7Te9ZhDudP+fJb395Ny9mszhgKmODvCgUt5KODfb3mvjkVGpDVEC4x7I4TbqHQgYL1QyDrsvIO45y68kFCgbHlB6CYg90FBPXz86BLj2cAUr4s4HH6v8JfvwAIxPmWkgp4BwAAAABJRU5ErkJggg==",
     "wiki_name": "Bucket of rubble (Totally filled)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bucket_of_rubble#Totally_filled",
     "equipment": null,

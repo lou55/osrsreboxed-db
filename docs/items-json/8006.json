@@ -1,7 +1,7 @@
 {
     "id": 8006,
     "name": "Large map",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A large map of Gielinor.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACe0lEQVR4XtWX30tTYRjHPVeykCQMw5swwYtIsCASwa68iG6yXQwzSMYICctGjDFMG2OMDbPMHCI1NkZEypAJ/ZIoKkX8AwqSZWID8d/4xvd5e89Oh26Ces/6wsO52fZ++L7P+T7PGhr+D1lQVReykExGpTyGUq6kUjHcnbqDRCKCaHTUKyhLAGZmEpibSwkQHSLQ9dGgF1AW7k3HMTubFCA+6VQsdkOAhocDpqEscUcDzc9nkE6P4/b4TYyNhRAMDsLX2GgSSjmUzaalCETAePyWgOiqvX1G3kJLQB4/msbCwpSAOWF+V0agCoWHUrncfftgXmUkcg2BwAW0tR2xHTrZ3i7l/pW/LHWY04nFZzlxjE1+eciPlpZDNpD72/9E6iALu7vbNtTSUl6ulH3l959Hc/NBE1fmlnJq++sXfPzwGqVSQXqMGdXXdwZNTQe8gdrfr2JnpyJQ5fIT6S/GQmfnMfh8RprbLdVX1eo3rK29wcrKU2l8Jnp39wm0th42D6X7am/vO9bX3+LF80UUi1kJz97e0+joOGoeSkm5tbHxzoYaGbmC/v6z6Oo67h3U1tYnGyqff4BQaAgDA+fQ03PqJ5RxMAW1ufker16WJN05iC8NXvTSrRoUG53hyUTXw9jQeHFKhaeGWl4uypjRMOHwVcc+Zewaa1B8+9wD2F1GoSqVz/bBDM7JibC4xJ2KTxY/a2gG/jqQWZx7XIM1EAFZhlyi1PpCGM47Hk4gwrDZCZjJTJh1Se9R3MmZ4gTRu/nqatmGMQREWfKmsYcIQlf4ZHgy1Q2645T6f6eB6BR3KQ/ccUrlDv/vOfvGIxglvSHUBYxTdQXzp/oBEhEzqXa+nH8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWklEQVR4XuWX30vTURjGPVeykCQMw5sgwYtIkCASwa68iG6yXQwzSMYICctGjDHMGmOMDbPMHCI1NkZEypAJ/ZIoKkX8AwqSZWID8d944nlP57s1gu7OKXrg5VyeD8/3Pc/7fpua/g0p6PorpJBMRqUcQ2lXUqkY7k7dQSIRQTQ65gpKCcDMTAJzcykBokMEujYWdAGlcG86jtnZpADxpFOx2HUBGhkJ2IZS4o4Bmp/PIJ2ewK2JGxgfDyEYHIKvudkmlHYom01LEYiA8fhNATFVe31WXqESkMePprGwMCVg9TC/KytQhcJDqVzuvncxP2UkchWBwHl0dByx5ZCRvqzeicVnOXGMTX5p2I+2tkM2gYwUdne3Pailpbx8UvaV338Ora0H3UARZvvrF3z88BqlUkF6jBnV338aLS0H3EDt71exs1MRqHL5ifQXY6Gr6xh8PivN3SjdV9XqN6ytvcHKylNpfCZ6T88JtLcfdgFFKeztfcf6+lu8eL6IYjEr4dnXdwqdnUfdQbE2Nt55UKOjlzEwcAbd3cfdQW1tffKg8vkHCIWGMTh4Fr29J39CWQfTUJub7/HqZUnSnYP44tAFl27VoNjoDE8muhnGlsZLvXR4Gqjl5aKMGQMTDl+p26esfcYaFF9f4wBuLKtQlcpn72IG5+3JsLjEnYonyxIQ9etAZnHucQ02QARkWYVighOG846XE4gwbHYCZjKTdoHMHsWdnClOELObr66WbcIYKXlp7CGC0BWeDE+mugMgSv/fGSA6xV3KEYyRzh3+71numz/JWiD+J/oBT0wYbEGUnv8AAAAASUVORK5CYII=",
     "wiki_name": "Large map (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Large_map_(item)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6443,
     "name": "Arrow shaft",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "A wooden arrow shaft.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA9UlEQVR4Xu2TQQ7CIBBFaYwb165N1648gKfw/nfBUIIwf4ZqHcaSyE9MnBngP35b54aGutTksWOs0hDNJ3+/HDzvm6k0RPNc3+Z5+eFeWqsVDc8n94JJ/6M5BZL2NoSiANx8LR0JXi3+qN6nI69tAPRNOrnHZ2ptTSev4WvV2pZOqo3SoYcj3BqQvFatDtNBGAlAqs3SQTMExPk/pFM3R0Ccj3QkQKxN08HboznO+V6V6mYl0ON6rM5/lg72sqFZOkH09smwNElGmA7CNAIKkg6UerGf0uEXaSjpQN7j75YJzOfiL/COMEH4tXWh3R8TV1cwVnoC303oo6hsu38AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA40lEQVR4Xu2SSw7CMAxEUyE2rFlzAM7AKbj/XYJQVZI+2yDqOorUvFX9SWY6bUqDQZdMmZ1gakGKT/lxO2XZD6MWpDhrYvU3MwteL+ljZnmu57rwt9kmaIACrGt4dhfkp/qdjrXrhpdSnPW6J2du/k2n7MhdNzSgi7MOSmd9uTRXdrRa7rrhpbZ4XYemQzOaAa0OS4diNMj5EdKxxWmQ85GObrBpOqWniXMuz7qwxWpDz/vZnDdLhz2e0ffc8O3nni1S0gkws6BdqPXelHTkizRH/lvcaMzuP7CXLj4T6crMgXgBnnpr6k2SwNsAAAAASUVORK5CYII=",
     "wiki_name": "Arrow shaft",
     "wiki_url": "https://oldschool.runescape.wiki/w/Arrow_shaft",
     "equipment": null,

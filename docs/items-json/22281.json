@@ -1,7 +1,7 @@
 {
     "id": 22281,
     "name": "Red d'hide shield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-02-01",
     "duplicate": false,
     "examine": "A solid magic wood shield covered in red dragon leather.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChElEQVR4Xu2WbWsaQRSFHSSEQCGEiKKiJspafGGNkpgIm1rBNk0TSKH0//+UW88sZ707HdO66jYfcuGgq3Hvk3Pu7Eyh8F4HLyN+5Vbpxr2gIoNeTUaDukzChn3fbpbygjK26c24JXfXlxJNO1afZoEsoq4VPs8JytjGD4u+9I8KXn2uViQoFvKAMva/B8zkqCjhfCSNXlOeGjW5PS5afalV5b5SltYKiFCI8QBQRpbzXuIMmkcrvTTrVrgGJNwB0KxcOiSUsSDfl4MkFrqCV4ARaLSSGyGgMG97gjIWhCKMjglAENwBEKHgEgQgQu04U0aeH0IrwhBCi5FtAoI6446F4iMhaJezQK2BNsFQjAvNMUP4+2np3F7jPb7DLAEIz6yTk2MLdHVx8a9QRn48jhIg3JAxIR4dGWAguqKBfHMEIMJkAgIMm3NetDtY6oiLzd3B5hxxhqrls+3d+fk0TgFhTgijgfRS1xBa+I5xASiTOwTikLpAXGmcHS3OjY6LzyIN5HZ9pWIgukNHAMAVRbG5u8IYHdzR81M6P90WyMivl0niDm48jIbyrV5NAelB1gAaijAaKFNcAKI7Wnp+CKQdgVvubxgX5kcDuV1fqRiIkentgoJb7sriA5Ax0R3AwB0AnZ1+yAb0/PVutZFOkugAhb2M9hNGrywfEM5IgIHqtXi72DIuVnwK9IFhx8cRhHA+IFwDBu5AQTvT7KQr/mEM9ric/gEGxzQc5ql73bXnIxzgeIqEdobRtQlMPzhdQABRrcZ6m3DvvVP5wOazcCMUNPjY2q87vtJgEMAW91cS3Q5TUONwz1H9rdaN1nCzm36iXGHc8sH9Nxi3CPImYN4rz/oN+oDNJ0jNUC8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaUlEQVR4Xu2We2viQBTFHaSUwkIpFUVFZZW4+CBWaW2FdF3BttsHtFD6/T/KXc/ISW6mEZrYZP/xwsHEqPPznDuPUulQuZeRZBVW8YEHXk1Gg4ZMRk2Z+S173W1XioIydtCraUduLn9KMO9Z/V54sgr6Vni/IChjB35YDWV4VErUn3pNvHKpCChj/z1gZkdl8ZcTaQ3a8txqyPVx2equUZfbWlU6GyBCIcYcoIysl4PQGQwebPTablrhHpBwB0CLaiVPKGNBntajMBa6gleAEWiykRshoNBv3wRlLAhFGB0TgCC4AyBCwSUIQITas6eMvDz4VoQhhBYj2wUE9aY9C8UlwetWs0BFQLtgKMaFwdFD+Py8cm7vcY1n6CUAYc06OTlOC2Tk7XESAuEHGRPi0ZEBBqIrGiipjwCUEgYVAQGGg7NftDuY6oiLg7uNzT5iD9WrZ2mBjLw/T2NA6BPCaCA91TWEFp4xLgClhEFFQGxSF4gzjb2jxb7RcXEt2guI7tARAHBGURzcnWGMDu7o/qmcn6YFMvLxOgvdwQ+Pg7H8bdZjQLqRNYCGIowGSgmD2gLRHS3dPwTSjsAt9zuMC/2zFxAj09sFBbfcmcUFkDHRHcDAHQCdnf7IBvRyf7PZSGdhdIDCXkb7CaNnVhIQzkiAgZqNzNsFCl9MBsOOjyMI4ZKAcA8YuAN53UxRJdUW7HE9/wQGxzQc+ql/2bfnIxzgeIqEvglG12cwvXC6gACiOq1M28RXKw62XPg7oaDRr06eMLq2YBDAVrcXElyPY1BTP5eovlIR3OJqGOo/wbgVwblPDnWoousfsQOWrXExlw8AAAAASUVORK5CYII=",
     "wiki_name": "Red d'hide shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_d'hide_shield",
     "equipment": {

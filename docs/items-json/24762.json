@@ -1,7 +1,7 @@
 {
     "id": 24762,
     "name": "Strange hallowed tome",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-04",
     "duplicate": true,
     "examine": "A tome found in the lobby of the Hallowed Sepulchre.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNUlEQVR4Xu2W70tTYRTHvS9CJqKI4tiGmy6mpKJr5HTkmGNzaklq2pgMxalhBVqNzEQSxVIJkoqgoh9EIUVBL4IgCIIg6EX0IgiC/pkT33N5rs/uNpXbpr3wwJd7d8fu8+F7vud5VlBwUAe1b6VQqva1FNpcttLrFSs9nrfQ3ctmHdyeAir09ZGD3q7a6N26qnr/MNW2DdLhll6qcUfI3tCxV2AK/XxZQ18e2On9LRs1Bkc1yVBOTw/reqI8n66pMHDnw+2qFBg9lKyHV820dr6SZuM5h1Po2xMHfbyTGWYnvVi0ctaWJiooOVz2r1AqzKd79rSFZDUE4uxS3fEou+Py9mvamKnkFh5xVZGjSh0Cd3W1ESiFvj910Of76bnZCUbkCUF3NIXI5bRpLQOMYSB311QawG5hAIKpKzPbcwOTaaLkz4C5cdGfAiO7Yqv3k7XOR+GwhwYjtRRprzGaH3W/yTZRgJKVyRXAWFxeKq2w8rP+sIvKSouN5EfNzU4TJWDgEIR72RXAVDqa+R7PS4pNRlqm7jcIsR5AFloFAHmHFjAAMTs9DAN34NahwiJjML9fOblV+tzohe+RGzkzWBhuAKbC3kDltjp+BihDMH/eOHm/gTvZsiPcESGWcyPcgTMAAgjgDMCgFPq16eTsYLKQn2wuiSMimzuiVbg3FZUYC/HQKT9rcXGE2/bjuXpuwa3mzklNTaEEO7RddgQMWmbYnWh/gIGWl0Y1xU4HOeBw7WjPBRaghEtwSHZHjDiuaJkcZP2KuyiFkmfDtLIyliaAQZ6T07xrCyjkCC7BIQABBle0zOBUyaXQSLSTF/b2JVmtA7O0tjqhCQ72dfuoN9KmZezZgoUPTqfDwm1Dq3IAg1JoPN5NY7Euig+FNDBAQW2D18h3ZoFWb45TT9hLXcFjFA54KOh3s9AmKEcwotTDb3LkRAqYgIJaei/R3FyMZqYHGCTga6L21kZuVY5h1FJftPXPDnCilYCRgz2e6KZYLMgZMpkKcw8j19aLt+DgGqZxYz5Ey9PtlEx4aSrmZuUVRl+Z4BDw9SsdtHDOR7OTrRqQ/rd5r0xwe+rOdiUg/guYfNVfU/1zEL0ReWwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xu2V70tTYRzFvS9CJqKI4tiGGy6mpKJr5HTkmGNzaklqmkyG4tSwAq1GZiKJYqkESUVQ0Q+ikKKgF0EQBEEQ9CJ6EQRB/8yJ81ye+WxzGdepQR443Lu7F/fD+Z7vc/Py9rWvPZOGVO+pNKwvWvFyyYqHsxbcvmhOg9tVQA2fHzjwetmGN6u6a/yDqGruw8HGLlS6I7DXtu4WmIbvzyvx6Z4db2/YUBccTlqFcno6ha/GS3cyNR2G6by7WZECkw6l+v5lM1bOlmM6lnM4DV8eOfD+1uYwW/nZvFV0bWGsDInBku1C6TAf7tgzXqS6NhATKVUfHRDpuLw9Sa9NlYsRHnJVwFEhl8CQNHx97MDHu5m92QpG9olFd9SH4HLacjEyDe72iQyAv4UhCLeuxGzPDcxmG6X+Jsy18/4UGDUVW40f1mofwmEP+iJViLRUGoXSz5tsG0Uo1ZulQhiLy4viMqt41hN2oaS40AiQ3putNkrCMCGa92oqhCl3NIh7Pi8qNBmD4XnDEqcDqOaoCKCe0BKGIGanR8AwHaZ1IL/AGMzPF04xqvTepJv/szdqZ/hipkGYMnstSm3V4hmhDMH8euUU5w3TydYdmY4ssdobmQ6TIRBBCGcAhtLwY90pusPNYn+ypSQ/EdnSkaPivamgyAiQhv4TfuH5+SExtm9P9e8W02poG0+6PhQXCf2pOxKGIzMAQ2kY6AkIoMWF4aSjJ4Oi4EztcOc5YULJlJiQmo5ccV45MoNFltKQOB3G0tJIhglGe45PilNbQrFHTIkJEYgwvHJk24ShNAwNtIkXe7sTwk2901hZHkuaCXZ3+NAVaU527MmcRXw4nQ6LGBtHlQMYSsNorAMj0XbE+kNJMELRzX1X4Ds1h+Xro+gMe9EePIJwwIOg3y3MMdE5gpHSP37jQ8dSwCQU3dh1ATMzUUxN9gqQgK8eLU11YlQ5hlGlg0k4OUrCqMUejXcgGg2KDplM+TsFk64NOKbGbVybDWFxsgWJuBcTUbfwLsGkawOOBV+91Iq5Mz5MjzftFZCqDbh/AOY/0m+qDjP83QKDdgAAAABJRU5ErkJggg==",
     "wiki_name": "Strange hallowed tome",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strange_hallowed_tome",
     "equipment": null,

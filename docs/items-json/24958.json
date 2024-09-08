@@ -1,7 +1,7 @@
 {
     "id": 24958,
     "name": "Khazard teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-09-30",
     "duplicate": true,
     "examine": "A teleport to Port Khazard.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQ0lEQVR4Xu3XyU4CQRAGYOdEPHvy5pVgUAxuwTUuiBoUcUfcdxG3oIkaD76FT9vmL1KkKXqge2YuJnbyhyAd+puuomfs6vofoYanokkkw1Nzk5OUmUyGMjU2RpkYGaGMp9OU0VSKMjw4QBlKJikDiQQlApSnFqen1dLsTCPL83MUfo/PEROasUAC1h+Ph0F5anVhoQWCv3HWstlG8J6hDNRhIVGeKuRyDZDE6JDuWKwpJlhIlKd219dVcWWFFrSFyOgwRqF86C30kwPKDLKF6OFSmlAMGuzr64Sqg7by+UbZ/DDZn4JKfAy3RM7DRaF86CkunRMIGAmSED+MCcU7raOcQSgZl80VY4LJ0gUCYYeQdhgdi/iBEN4lZxB6SGIYZFrIL3Iulw4gPrmdQDaYnlxvS/xACEqHPnIGmXpHLiAREuSHcgbtbxSsdsgPJHdJ/x5caCAQmroTyBQ5R86PDKQvJhdp97mcG6iHDjaL9NOXfaQv2CmdQLjJOoH4fiZ7SS5sih+GT35n0OH2FpVNPyBtUe0wCM4hZ9Dxzg7tUjuUSxgTGHS6t0e7xKULitIhOggntRPovFSiXeLSSVSY4AYLEJ6JrEH3Z6e0S3rpgNLDjyj8VGCLZRCeiaxB3681dXdy3FQ6fmWgREqghOgg3PEZYwHC8NTX8xOhbo6OKJflMgXlRIDlXeQAbQN3xPCooz4fH9R7tareKhVVu72lvFxfq6erS/VwcU7lRYC3uYCAGB7yX+HwCYGpD/6CKCPX+BPjF+MiwynyytdjAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACM0lEQVR4Xu3WWy8DQRQHcPsknj35CE3FLXVLXSpFFUEVVZSqW9WdIEE8+BY+7cj/yFnjdLad2d3HTvJP03aY354znd2urs6INDwVT2IZnspOT1My6TRlZmKCMjU2RplMpSjjw8OU0aFBysjAAGUwmaTEgPLU4uysWprL+Fmez1L4Pb5HTGjGAglYfyIRBeWp1YWFJgg+46zncn7wnqEM1GERUZ4q5PM+SGJ0SE9397+YYBFRntrd2FDFlRVa0BYio8MYhfZhb2E/OaDMIFuIHm6lCeUM2l5b89sWhMl9F1TyfbQpch4uCu3DnuLWOYGAkSAJCcKYUFxpHeUMQsu4ba4YE0y2LhQIFUJaYXQsEgRCuErOIOwhiWGQaaGgyLncOoAcTu4/kA2mN9/XlCAQgtZhHzmDTHtHLiAREhSEcgbtbRasKhQEklXS/w8uNBQIm7odyBQ5R86PDaQvJhdp9b2cG2oPHWwV6acv95G+YLu0A+Em6wTi+5ncS3JhU4IwfPI7gw53tqlt+gFpi2qFQXAOOYOqpRJVqRXKJYwJDaqVy1Qlbl1YlA7RQTipnUCn+/tUJW6dREUJbrAA4ZnIGnRzUqMq6a0DSg8/ovBTgS2WQXgmsgZ9vTyrq+Pqv9bxKwMlUgIlRAfhjm+J4eGpz8cHQl0eHVHOKxUK2okAy1XkAG0Dd8Tw+EV93N+pt9tb9Xp9rZ4bDcpTva4eLs7V3dkptRcB3uYCQmJ44I/jTmfEM34AdvN/yHnKSBEAAAAASUVORK5CYII=",
     "wiki_name": "Khazard teleport (tablet)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Khazard_teleport_(tablet)",
     "equipment": null,

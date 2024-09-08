@@ -1,7 +1,7 @@
 {
     "id": 15805,
     "name": "Saradomin platebody",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "Rune platebody in the colours of Saradomin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xu2W30tUURDH3YeQFWmRFcUVfyUqutHqYpvRpkZFKtIvczHDMMHQwBBNlkrEWAykH0RJBGLhU1rWU2bWiy/1b0185zZ3Z89e17u1PgQOfFHOnpnzOTNzzrl5eQd2YPtuHkqV09hu4zk1K2iBv4wKSyrocFkN+asaeKy2NUo1LW1UFTpOFcEwlTeGeNzrK6ZD3gJbOQKzghRV1KUIMA/uX6fZhzfSgKDJyT4GB1R+oS9XYB4qqQtR8ZEgAwiI6NH8TaqLtDOQhoLm5oY4i8ioE1QSzLV5qLQhzNJQEP5PJIZpcXGUgUwo6OmT2zQ91c9Z0lAiAWqurnYD5aGypgjLhBIBpr7tDEugNBiEciJLAiVgOmMus+ShwNGTjlAQdr/0aoIao+dsKCc4QM/ci9lQOlsC5SJLFoyWCQWYpvYLLECJlpen0gDRZ/jrBOUqS+XNp0nLhGrp6qN3b2co2NnDEjAIQBoQIMhmPD7ABwJQuoSuoCrDnSQywdbX5myFzl9mHTvbywIcgHTWpIQoHU4dmvwvoKw74sf3N7T97TVtbS2xvm6+pM0vL+hUbIRaewco3NPPQsYAYkr3E+4lX2mAHi+M8N11d+IKjdzqolisg7q7I39ArF5y7Cdr0MMLY+cIWhSo5LGOoTt04uoQRS4NpkE4CacNN3eBz8/+2BB8sRFkE1dERpikpQLJLqIDoxy07dqwDaYzhfm6XAIk/hoI83CJCpBJYJgzEAK2D47ZUAiOeRoIO98LCP2H3+W3fwISuQFCSZyAMA+wgfqgeyA44gQJkPSWlEtKJkDYdSYg8UeJpX9KaxvdAFm9IhkSBwkICAGRE5cNEHyyBkJqZSepDlZASF+a+pnR795uQADPCghlkZOQ7pB8XkwY/ebpzxYNpHvINRD6AyVA6nWwvWAyAYkQO8umTm9oaGdnlX79XM8IYwIJVDBYRV5vPsdB9hE7KyCpM5wESBZaez9rv2kfP8yzNjYS9PnTAq2sTNufHXgexscv8huGJ0Myhf6Ue8glECyZYn3CTAEAwhfA6mqcnj8b48XxRWnOTS6cPuYCyHrTzMl6zCm400KmnOPk0Mzg+7bQgf0P9hsttRQG+uDjxQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xu2W30sUURTHnYeQFWkRRXFFFxOVdaLNxTajTY2KVKRf5mKGYYKhgSGaSCViiIH0gyiJQCx8Sst6yuzHiy/1b534nunMnp0d3Rlb3/bAl13u3HPmc885994pKMhb3g7cDEqX29hu4zk1K2hRaSUVl1fT4cpaKg038lhdS4Jqm1spHD1B1WaMqiJRHg8Ey+hQoMhWjsCsICXV9WkCzMMHN2j20c0MIGhiopfBAVVYHMwVmEHl9VEqO2IygICIHs/fovp4GwNpKGhubpCziIy6QaXAPJtBFY0xloaC8H9hYYiWlkYYyAkFPXt6h6Ym+zhLGkrkE8igyqY4ywklAkxD61mWQGkwCOVElgRKwHTGPEIZFDp6yhUKwuqXX49TJHHehnKDA/T0/aQNpbMlUB6ALBgtJxRgmtousgAlWlmZzABEn+HXDcpTlqqOnyEtJ1RzZy+9fzdNZkc3S8AgAGlAgCCbMzP9vCEApUvoCaom1kEiJ9jG+pyt6IUrrGPneliAA5DOmpQQpcOuQ5PvA8o6I379fEs/vr+h7e1l1retV7T19SWdTg5TS08/xbr7WMgYQJzS/YRzKVgRoieLw3x23Ru/SsO3OymZbKeurvg/EFcYbQa/GCtH0JJQDTu1D96lk9cGKX55IAPCTdhtOLmLgqXsjwXBFwtBNnFEeICBpQPJKhL9Ixy09fqQDaYzhfm6XAIk/hoI83CI/hcQArYNjNpQCI55GggrzwaE/sPz1LOstjuQyAsQSuIGhHmADTWY3oHgiB2UArLGpVxSMgHCqvcGsvxRYumfirqIFyCrVyRD6Q4WqIDIjvMDBB/fQEitrMQJJCD60NTXjL73dgMCuC8glEV2QqZD6npxwug7T3+2aCDdQ56B0B8oAVKvg2WD2RvIEmL7bGq3hjZoZ2eN/vze2BPGCSRQphmmQKCQ4yD7iO0LSOoMJwGSF61/mLXvtE8f51mbmwv05fMira5O2Z8duB7Gxi7xHYYrQzKF/pRzyCMQLJVi9zFLAIDwBbC2NkMvno/yy/FF6ZybiuU2ljNzBj+wF+Utb/uyv7DBw6/HKs9uAAAAAElFTkSuQmCC",
     "wiki_name": "Saradomin platebody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_platebody",
     "equipment": null,

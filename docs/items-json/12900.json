@@ -1,7 +1,7 @@
 {
     "id": 12900,
     "name": "Uncharged toxic trident",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-01-08",
     "duplicate": false,
     "examine": "It needs to be charged with death runes, chaos runes, fire runes and Zulrah's scales.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4XuWXz0sbQRTH8+hNilAahCTUmEMDjeKPIIIk1kJjg1pcRd2a1nrQiJIcTGMl1kOwEKMiLUFBbUVF/FnFQlu96B/3rfPGjenq1dmFfmDYWXaW9+G9fbuzDsf/CeHuuVKMwITXbW2Q54Rs9v31XCk3Er2dndCiUZ7P50eQyQzwvL6qSqUUYaC7mwMH/H4Mx2Is9eMoi1SqV7UQ4UUoxEG9Hg9nSoyNjTQO9meQTEpRRUKETFcUOV1DsLaWA4vM5OeG8fN0DlMf9aKMUqFoQ4DHYJ8sz/lZgTOkXCbxqhWVzkccuK66mp8fIbO3Ow1Na1Zbqp2dDAKuJjwuc7HE5cU6H0+OZxGJBFVmh7CynESNuxnbW1MoFBLY3Jzkjvr9awnhcI1KGQHh8+wQvn4Z55dePN4BXW/lrDQ2+tXLiM6Z+RTjdvZ6HSxQOhTKCAiT6X5UPHwCt1vKGAKlw3zXPUFYW30LV7kPTue/MuaVCiAcHY4g/SFiVWnMEM7+JG6VyLxKIcRtbgiZryrmRiYcenBdMsuQMkIkGJQyFpVLPriGTOCZpV0lPg1vWCafl3sZC2UEhMWFHoyPPbdDV9HVN6oP37+9szorgqs9jaelWCZbyORyGkbj4aKQeZVCiDdbExMv7ZEd8Qvz1Oezh8yQ3s//UTaQERB62tvtImNgKxmJlTJ/ATwFbczfo+K9AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4ElEQVR4XuXXyUsjQRQG8BTeRAQxCEnQkMMEjKIYRJDEBSYxuGAramtm1INGlOSgRkPUQ1CIURElzIArKuKuODAuF/3jPq3XaRTxalWBHxRdfWjej6p+vVgs3zMMn8+FxizM0BEMwjhnSKWGcnOheUP0tLdDC4VovpIZRTI5IAc00NVFhT1uN0bCYUJdXaYwNdUjGsTQ7PNRUafDQSvFx/5+HOdnC4jFDOjHq74oDMnOENK6Bm9VFRXmK5NZHsG/22UkZnWRGB4DFKrx0BjsNbbn8SFLKyQcE21pQpm1iApXV1TQ/cMxpydz0LR6kSCG4+MkPLY6FOfbCPH8tEPHm+tFBAJesZi/f2KotNfj6DCBbDaKg4MZ6qi7/+vw+ytFYngYlhaHsbkxQQ+9SKQNut5Eq1Jb6xaP4Z2zMB+mdnY6LTnA+yE0DDPxPpQUlMJuNzHSwrC99Qu2QhesVgUwlxejiE8HZG3NxzA83EdVgJhh1OaKgN4wfl+ebJSB4RCvVyrGuHFNjKdcalfxV0M/YTIZ81tGGoaHYW21GxPjjbIhPOz1HdWLvd3famCqHQ3vtklqDEw6rWEs4lcDxD+2Jid/qoHhvzA/XC41MMN6H/1HKYDhYehubVUFY0YpjPy8AOeiIGKVf0fmAAAAAElFTkSuQmCC",
     "wiki_name": "Trident of the swamp (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trident_of_the_swamp#Uncharged",
     "equipment": {

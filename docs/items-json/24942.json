@@ -1,7 +1,7 @@
 {
     "id": 24942,
     "name": "Reinforced goggles",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-09-10",
     "duplicate": false,
     "examine": "A very sturdy-feeling pair of slayer goggles.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACp0lEQVR4Xu2W/0tTYRTGfX8aitwxNja2oXMOJ3OyVJYZtizCfjHEsqWk5jRTUptprShbSASCYBJEBbH9VBD1h/RnPfGc2+u+NPrpvhNiBw7cvZdtn/uc5zxbW1urWvV/l0Jtn2kprC0s4GI6jd7ubrS7XGcJp/CjXMaX42McFYt4vr2N/lgMA/E4BhMJAWwilELp5ASvHu+gsLkpCl0YHpbeebAmZ1srOeTm5pqllsLXTx/x5lkBl8fGcGl0VGAeLi9jdmoKRW8cuxvrWF9awuLtWTkzDKXwvVTC4f4+royPi0L00vWJCWQ7g9hwR1DwxgSMTdUqUMbA7A8nED1Eha62ewXgfWAQ5eAQ9jy9OPDFcehPnEJVjG+klIzs4OkTUWjeCiHviQqAhqJSb339eOdPivG1UkM9PSaglIyLJr5766Z4KWd14YW3T6A+/IHi6yP/gPiqsn3G4sGGokocy707WdyYnJTREeJzICVQvyIZuc9ocFtWTRuH4nZx47j6j+6v4vXerqjIexqqLxqVDgYCVVCOgtlQI6kUziWTEo4MSd18zeY9+o1xsOWJ4GU+Lw9AVQ0YXolHIuEwukIheXo2r9k8JxDVO+9ySzxwCXQ8EPJaJuO0WvWGrW0CcQF0PBBKxwO3kSPmJlJtx8C40o1aA3Gsi1ZYQLiNND2V0tvIEfp9PnR2dJgYY3UpCVAqVJ1ZzCgdEbzmfQ2kVTKWW8wqKkQwAjE4OS4q8y00IuFJgxNIq2NQJSUrTxgamL993DRCEehnOC3nXAANpGEqY3e8lOQPVeL608BUhCA09PzMjAB5PZ6/gOo/ycGy44FKEYL/mwhEmOz09ClQtakNA7Fss/LLuXkMT46ToNVnVLNJQHY8aLB/tUH/NK76vGrU9e9pVaucrN/LehjzefnkFQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjUlEQVR4Xu2W4UtTYRTGfT8NRe4Yd2xsQ8ccTuZkpSwzbFmEfTHEsqmk5ipTUptprShbSASCYBJEBbF9Koj6Q/qznnjO9XV32ce9V6gdOHDve2H73ec859na2lrVqn+7FBr7VEtheX4eF3I59HR3o93nO004hR+1Gr4cHGC/UsHzjQ30JZPoT6UwkE4LoIdQCtXDQ7x6vIny2poodH5wUHrzwbKcrd8tojg765VaCl8/fcSbZ2VcGhnBxeFhgXm4tITpiQlU7BS2VlewsriIhVvTcmYYSuF7tYq9nR1cHh0Vheila2NjKHRGsOqPo2wnBYxN1epQxsCcDycQPUSFrrTbAvA+PIBa5Cy2Az3YDaawF0ofQ9WNb6SUjGz36RNRaM6KohRICICGolJvg314F8qI8Q2PT8m4aOLbN2+Il4pWF17YvQL14QiK9/uhfvFVffuMxYMDRZU4ljszBVwfH5fREeJzOCtQv+J5ec5o8FtWQxuH4nZx47j6j+7fw+vtLVGRzzRUbyIhHQmHXVBNBXOghrJZnMlkJBwZkrp5z+Yz+o1xsB6I42WpJC9AVQ0YXolH4rEYuqJReXs2r9k8JxDVO+fzSzxwCXQ8EPJqPt9stf40bGMTiAug44FQOh64jRwxN5FqNxnsb+UAcawLVkxAuI00PZXS28gRhoJBdHZ0mBiju5QEKBVyZxYzSkcEr/lcAxlWSUlWUSGCEYjByXFRmW/RIQlPGpxAWh2DKilZecLQwPzt46YRikA/Yzk55wJoIIMwupTkD1Xi+tPAVIQgNPTc1JQA2YGAV0AsJx6oFCH4v4lAhClMTh4DeWBqdzlm5Zdz8xieHCdB3WdU0yMgXSez6mS3qlX/Wf0GQMr1DamKU0MAAAAASUVORK5CYII=",
     "wiki_name": "Reinforced goggles",
     "wiki_url": "https://oldschool.runescape.wiki/w/Reinforced_goggles",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 17172,
     "name": "Iban's shadow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-03-03",
     "duplicate": true,
     "examine": "A strange dark liquid.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xt3XfW/SUBQG8FU358Y23im00JYWWt7lfbwONrapMdFoTPzD7/85Hu+5N7d0zJmAMKYnuWlCCv3lOae35eDg/ygFj9feSkE1M0QzO0fXXGBW/Ir7ys99wRSYsRIqmT7q+gQd8wZz7zsWpR/8OC182Q/KjtcxcT5j5HzCzP2GMTv2zFuOaVoWX6vf2nEp8FItXLF2EaimjfaJkSVm5s3r45eAoVJQSL3DydGZD1o945lLgM6OIy8BxG59bcBB4ZP4ywB5apuDoiHVb9vqWc9UCsrpng9KnukIvbnYZ0qiXRKUOs/i/G1sXyDRKtqpJSgdtvgcyZRWv7HjEu0KgrRwns/RHu42BUW1ydsVBOkRB/FQhqe0HO6dJiUuUEp3OKSmDx+AclGXzxGlRChKatm+rcIeQigZwtCRPqO0JEg9NziKkoqcJvmQbxG2hMh5IUTPuUbXnqNpTtAwhqgZl6jm+nBSVVgJF0aiyNqXRyZsIHmhcdgWEhN3URBzWVxg4N7yY8+Zo21N0bLGaJgD1BmqkK7DSVdhqxUflo0xWMSAGsn6MJnamigBIszAXWDo3WFUuse49J6D+gVKaYaOPUU7P0EzP4KnNeFmGihmanwVGC6fKnFYLuEgG7eRjhkctMGDeAkaMtCYYSYMQ0fCEfKyeIN+cc5RLXvMWsdaanRRzrJk9SY8vQFXq3MYobSYhVRY4+kcH55uBqKWEWjEEASaVj5gUiYYS8y7ZbgbhrtG353B1HXkNA0ZVeUwQhHGUcs8IWpbNJTk6QTfnVav/IcSqAFLghCEkWtSpvbdLUEF1j6Htc4e+ilRQoQxUx70qIXEeZrNkXgjkJg1QVRiE5Soq+rHR5huYcpXyx7xhCq5jp9OXhUzROkEd/ANMbLEC5hsXxBjGwZvlWyXSKflp/MUZvUKG5QCJ1n3t4FgOtSqNkunYQ14OoSRg0wbZPCO2hJG1nKjpCVBhJGzI1slMYevjnaFESV+VMDkI8NO1mDFGYL9caQHLD0+6GXtL4d3vQrCnlpbGN71K3jR363V8//p+gU/DTxpHG4acAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xu3XWW/aQBQF4LjN0oQQdq9gGxvb7GUPayCQpK0qtWpVqQ/9/7/jdO5YA0RRpIYGGVW90shSXvh0zvWSo6N/YyQ8PZGNhJo2Qiu/QM9aYe59w0P1V1QwCVa6jKo2QMOYomstsQh+YFX+ya+z0tdoUE6mgan7BWP3M+b+d0zYtW/dRYERIyGQ27hhdRGoro+jxIgJd+b07dkhYGgklOT3OD+5PCzQ5VnyEEDs1teHHJQ4zxwGKFA6HJSKKVHXJqGi9teg3KWB2OlVtCCqS4DkeB7xd+moQGFV9KQWIDVh8z2KKKWwrm2QnijyPYrgbpPgKS1e1zbISLrIxDSe0ma59woLf6CsdjmkbowegQopn+8RpUQoSmpT36vCHkMoGcLQlf5GaQmQEjc5ipJKXuT4kr8ibAMR+0KIvnuLnrNAy5qiaY5QN69RKwzgyjXYWR9m1mP1FaElTOSudA57hcTCu2gbc+2tMPTv+LXvLtCxZ2jbEzStIRoMVVIbcNUaHKW6huXTDJY0oSTza5hI7YWoEESYob/CKLjHuPyASfkDBw1KlNIcXWeGTnGKVnGMQG/B15rwtDo/JYYrymUOK2Rd5DMO1LTJQTs80TegEQNNGGbKMHQlHCGvvSUG3oKj2s6EVccqNXuo5FmyRguB0YSvNziMUHrahpzQeTpnxxe7gagyAo0ZgkCz6kdMKwRjiQV3DLdkuFsM/Dksw0BB16EpCocRijCuUuEJUW2pWI6ns+O3U4gasiQIQRhxphWq734DKrH6XFadM1qnRAkRxpIDGCkb2bjK9kh8EbwYIyZ8CArUTe3TE0yvNOOn7Yx5QtVCd51OUQl3iNLZYZGfm/ADTNS3jXFMk1cl6grTaa/T2QNGjAQ311g/BrbToao6LJ2mPeTpEEYsMj0gd7ij/nQ2D0o6AkQYsTuiKoE5fnOyL8z2hDDxynByddgZhmD/ONILll4f9LH2l8u7y4gffO78n/3Ob7JGAaJ7EPMUAAAAAElFTkSuQmCC",
     "wiki_name": "Iban's shadow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iban's_shadow",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 20697,
     "name": "Rejuvenation potion (unf)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-09-08",
     "duplicate": false,
     "examine": "An unfinished potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xt2X7U9SYRjGe/6EPrXmLHvRREshhxBYaglTCRy+TCOm05RkGMM5h5hztnSjNJdjbKZpOfOlpsB8N3W9/11X3s/pHI7HvrTBYeverrEdGOfHdV/3/RzOnPk/iuGkMloMXQ+uoMl2AZay87h5/WymoRiWI2VYfG3m6u3U4KHzUiahmAQzN26Ev/0aWhwXOZA2J0dtKCEzItBs2ABfax5vXwbyxGB3NMDpbJbciY7q0e3ORX11NkpLzTCZK9WEYnC52k7pvr0BFqsd5RVWaLV6NVt3PF2ebi6Pxyup1ubEvapa6PUm5OZp1AUK9PZJ8vsD8Pn8qK6pwy1TBQoKi5GVJWRJJSAqhqWlFSQSG4jHE4jFErxdOl2pFGqCURWovaMLweAABgefclG7SkqMmYChYujp8SMUCv3RoJQflVslFsPbw1/coeBAiItaZjDcRr7mhpojT8UwtPYZMwc/JRGcdTQKoy+EgjqXmi4d76DZGKJ7PzC9nwSiazUvZmEODKOoqQN5NfVqucQwEjvkMHK55+KwvXqPO/1j0Lm9arnE0DYfx9TON+6QKAKi6/bICiqHJlDS7kdhYxtyrXXpdolheP0Akd3vXHKojncJ1E+voWpkCobH/dC6PNDYm9PpEkPnwgZebn6RgOSi95pnYrCOTcP0ZEgNlxiCH/d4u+QSgbyLmzzYtePzKOsdSbdLDJ6FTYwljjC5/ZVLCeZb3OLBtk99QHkwzMdf1+pDgdONqxZ7ql1i6FvdwcSWAKMUAfmXtnmwHdFV3B2e5C7pu/pQ3PII+bbGVLokTBaFmYDkkkMFlnd4sBvfrPMFedolR6pcYvzXU5hFKcFI5KAY7OrwDB9/WpJpcIkh9Gkf4Y2jE1BKuP7VXSnYtCAtzyJ8SRq9QWlRXq60pc4lApJLCUbQUrCPF6TcJZq2bGO55FBKXKLj4nlcEE0bSQ5Hh60YbFqQlCPxXDtXlHy+TgGMWMJTIN2YAq4EpGtisAmGlqOYmzTACCV8ofifSzhGRDB6pWBTdmgpKkFSDiOv5A2ScEqpAvK3kt9YKeVn/7V+A1DvZprvtHuNAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4Xt2W/UtTURjHO39CP0WIRS+a01KXzK3NUssNdW0yX9DWUDS3HLPLRGTORIwUVpokY2CalpgvhW7Dd1Pp/e/65nNu93qd/bjdCz7wYXAu3H32nO95zs6dOxvFcBJNi8H76Bqa7JdgLbuI2zfPay3FsBQtw8JbC6enU4fHritaSjFZZnbMBKH9Blqcl7USEjMjCc1EjAi05vLt0yBPDA5nA1yuZrk7sREDujw5qK/ORmmpBWZLpZpSDG532ykeOhpgtTlQXmFDcbFBXSGvr4vj8/llau0uPKiqhcFgRk6uTl2hYE+vjCAEEQgIqK6pwx1zBfILipCVJWVJtWJYXFxGMrmORCKJeDzJt0uvL9Ui1FQM7R1ehEL9GBh4zqHtKikxaSFDxdDdLSAcDv9jQM6PZkLvD/7wDoX6wxzaMqPxLvJ0t9SWYhhc/Yrp/d8yJGcbicEUCCO/zq2m0NEMmokjtvsLU3vHQrRW82oGluAQCps6kFtTr5YUw3D8gMso8cwmYH/zEff6RqH3+NXqEkPbXAKT2z94hyRIiNYd0WVUDo6jpF1AQWMbcmx1mZZiGFrbR3TnJ0cp1fEhifqpVVQNT8L4tA/Fbh90juZMCjF0zq/j9cY3WUgJPWuejsM2OgXzs0E1usQQ+rzLt0uJJORf2ODBrh2bQ1nPcKa7xOCb38Bo8hATW985qWKBhU0ebMfkJ5SHIvz461sDyHd5cN3qSLcUQ+/KNsY3RZlUSEhY3OLBdsZWcH9ognfJ4O1FUcsT5Nkb0ykkniwKMwkpUUoFl7Z5sBvfrfEBebpLznRJMf7rKcwSqWIEdVAKdnVkmh9/GpIZ6BJD+MseIuuHJ6RS5fpWduRg04C0vojyIWnyh+RBebXSnj4pElKSKkbScrCPBqSyS3Task3l6ZKhEq+LlwkROm2EUo4uWynYNCApR9K9dqEwI/+v6YXiLU8BTxWkNSnYJEPD8Tg3aZdRlvQF4jUiidEnBZuyQ0NRBZH/1bHcac5g/QXJYDGPmWj/WgAAAABJRU5ErkJggg==",
     "wiki_name": "Rejuvenation potion (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rejuvenation_potion_(unf)",
     "equipment": null,

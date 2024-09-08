@@ -1,7 +1,7 @@
 {
     "id": 14915,
     "name": "Stuffed big bass",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "I should mount this on my wall!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADdElEQVR4Xu2ViU4UQRCG6RfwGVCjRjGKRBEDuBDk3uAi58oh9+oiAq4oAUUQRYxHPBAkSJBIOAIBQkTjFcUgKB6v9OtfS4/D7kYXdonGUMmfnpmuqfq6qqcnJOT/MgXPJ3/RFHrO1eIfgVK4dbrKAAoPDfUTat3gFW44K9HlqlkFkILDlr4eFVVoKS1aJZBCmTUFp45l+Onvtym47DkG0IP6ah8JPCugUJSSiIqMNFRn23z4B2RuoIslBbh+stwHkELv+TpTWxRyEywGkCV8TzCB3HugLi/LALpb6zQlcMP8AlLIPByD/MR4lKQlG/uHvkED4ioJ1FRsR4ejzAAyw2gga3QUsuNiUZCUsB775yfMwb1wRIXLSJVG7kFBRBjs4buQu3cHbGHbYN21Fak7tyBp+2YcjT20ol1B3D8Kzuh9qImJwFlLpKgu9oAhPue8hi3ev1tAKV7rhdAnCEBKkhKiMT4KzUcOoSUx2hDvKc5pNcQdFH+Cmt9lm/lBuFu8JlMSnMGYvC05Bh2pFtHVlFgvcd6XONeZHid7jsfFhcL8tUApoxo64E1rPO5kJMjIe09pWLPo/yAzUX4x/AB4drVXlgjYKqCUUQ0m0kF7s5NlvGc7Is/6Gs+KeK1BzaLv45xUPLVbMXjpgvjyZDeD+QGlBIQBmViD9OeliZigv8m1QvTRoFp850l+OkYLj2KmLHs5sbf+cCa5/+BcAUvM5AzKFQ4XZMjoCaPVnZVkiOD0nzyRidly9ybWiX3Jk8JkSkrK0iZZLBhua8LYtRZMdLZjvNgmq9VgBNUtowiv20NfVuVFRa4/VfidKQw0NwiMBpm63SGrZILpkiwvMA2n20Mf+r+qygscZuhyI0avXDRAZu7dxOzDuxJcEmwKcbfg56jBNBzbo6vyxuH+rAOAoSmMd7SuAHnR24WXfd2Ycx7Hu1N2AZFky2C6YuaqiF/gMDTlBfJ6oA9vB/vx8UyxiCCE46jhWBFdFZkLFszznvsC8rr/kYC8GxrA++FBfBgbxuJ5BxZdFQKxUF9qAM1XFxrV43WQYGhKQFgNgsyNPBWQ+YkRLE5N4HNzDT41OkUCtwxIEVCqFzwYmpLk1MLkmIggS8+m8WV2Bl9bXaKlljrR9+vN+NbeYDwjsAbyjByAeZ+iq1EQq/PLdNC1yjPehm3Y37IfGsfbeoE2+k8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVUlEQVR4Xu2VjTNUURjGnX+g/6GaaqKRmhKDlmF97rDyufkIyWYly6YMUlJoVEMqGRkZjRiGxiRTaqQRff9LTz0v57bW1li7TU3jmXnm3HvOe8/7O+85996goP9LCp49f1EKfRdq8I9AKdw6V7EFIF9ifZLCTccZ3HNV+wCkYLem+RC/aSm0lBb5CKRQZklG5Yn0TcZvWgouW44B1Ftb5SXBxvuiZDPK01NRlW31Eu+XVoGaSwrQcfa0FyCF/otOtz6F3HiTAWQKCw0k0OoZcOZlGUDdNY51yQnzE0gh83g08s1xKElN+hPnR8kqCdRYbEO7vcwN6CeMBrJERSA7NgYFifF/4vz8gDl2EPaIMGnp0vBQFBwOgS0sGLkH98EasgeW4N1I2b8LiXt3IiMmct12BfD8KDiiDqE6+jDqTOFiZ8xRw+znuIYtPnJAQGle64UwJgBASpISoiEuAk0JkWgxRxnmPc0x7frYYxJPUPdnuc18IfyAUjI5J2Py1qRotKeYxNeTYzaY497Msc60WDlz/FxcKszfCpQyqqEn7LLE4U56vLS897SGdTfjezPN8ovhC8BvV9uZEgHzAUoZ1WAiPWl/dpK0PdYE6RtoqBPzWoO6m7GPclIwYrNg+PIlieWX3R1sE1BKQDghE2uQwbxUMRMMNrrWmTEaVJvPPM5Pw1hhBmbKstcSe/NvtfoH5wpYYibnpFzhaEG6tJ4w2g+yEg0TnPFTpzIxe9rPQ8ySsrSJJhNGWxsxfqMFk51tmCi2ymo1GEH1ltGE19vDWFZlrjzXHxhKYaipXmA0yPTtdlklEzwrydoApuH09jCG8a8q8vyHeXKlAWPXmg2QmZ4uzN7vlsklwY6g1S340WowDcft0VV5bd/Sa+0phYn2q+tA5vrv4eXAAyw6TmKh0iYgkmwNTFfMvSoS5z8MpTaAzA8N4M3wIN6fLxYThHBsNRwroqsiY4GCedF3V0DmBx8KyMKTIbwdHca78VGsXLRjxVUuEMu1pQbQUlWhUT1eBwiGUgLCahBk8emIgCxNPsXK9CQ+NlXjQ4NDLHBrgDQBpXqBg6GUJKeXp8bFBPn0/Bk+z87gy1WX+FOLU/ytowlf2+qNPgIHGIjy/IL66m1ta1u/1HfcQYsyA+rQegAAAABJRU5ErkJggg==",
     "wiki_name": "Stuffed big bass",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stuffed_big_bass",
     "equipment": null,

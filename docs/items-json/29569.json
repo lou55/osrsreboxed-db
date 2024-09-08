@@ -1,7 +1,7 @@
 {
     "id": 29569,
     "name": "Dark squall robe top",
-    "last_updated": "2024-08-05",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-07-10",
     "duplicate": true,
     "examine": "A robe worn by the Dark Squall.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADK0lEQVR4Xu2V7UuTURjGfT6ILEQZjskc82Vjk2nMF6w1WJaoqRm+pbEyQ8TIMiToQxDRv37H7zxd29l0PltkH2I3XIjP2bnP71z3fc7p6+tFL/5ZBNad7izCBSbSo5ZKxi0+PBiqv7+u5MCAJUaG3fehwZjFYgN3ARYmLBWzNluYsGIuY/mptGXHU5ZOhBqLxZyyqXErZnLud4AL6i+CBVZZnLHyfNEWZnNNUAAlfkOgfHqqDrNUKrhxuXgd7I8isCflklUf3HdQLOJD4VJq8J6TYDJDg01AlE8lvF7GriKwteqirVTm61C4hFgMKFwSEAIGMcZvAE6nEq7fkN9b5J+fnOwUKrCN5SUH5EPhksonKNzYrozZZjnl/h4sZ9wYApg+QgITVJcuBbb19GEdCiCES5J6CqDa2oQrF2XbrabduIAoG7oJqkOXAnux+sjp8t2efXy7Yx/ebNt57bmdvdp0TsktoHCpXFywpcKclbIzDkxA/olsdZXvKl0rQUsE9u2i5vT902unH5+PnX5endiXs5d1MKBw6epo2i728vZ+J2fHz6aagPY3qnZysG61nRU73Hrs/mezVIDxDkvX6CE1NAvwneQAkZzfAAXM5UHB/UXqPb/ccr61FVS2iNIF9Z7RccdqAZ0ebjggkjKej8dtemSkLkHoMIQONPcluTuEIcIjr5Ko5nw/3lt1QFjfDkh9JncFJBjmkFNArau3iTCBJnNSBIRLUUA6jYwLSC2A25y6LoBCe0mIQ7pPfKDd9cqNQLPJRNOdpd5DmkPeLh0Ke4iE7EY3Lt+BAeomIGAQc3Wra2GEq7jubzQci4zGg6pyCYj+iQLiu+4dNiMgDgKwwPib7MClRlPjkPoHceS5U6KAdCC0qDapvpKDHQCFfcJu6CP6gZ1y5SuxD8QCPtDcaLJ+GNgMz4TmUTLm6SUgt56QVgovAvdctDrR2EkDiIUpge8OQFpMDa155KTkusfYsMZvcSl8Oq5O990bRhMz2U+Mg3oCgPJhFlOjTeX05309P3JSXnI0xm+N0GJfzbu4Pt5OUfMi3GmEfugrarydoub5473oxX8dvwBpOGNOtWp4QQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xu2VXUsbQRSG3QsJKUEJhsgaYjAhkWiJH9imgdRW1Kq1+FUtaVOLiKW2Fin0olBK//opz0zP7myMZLfU9iYHXsSdzJln3nNmZmRkGMP4Z+FJMt1Z2AVKhUnx81nJjmesRkcD5VMpyU2Mm+9jmbSk06m7ALMJG/WyzNdKUq8UpTpTkPK0L4Wc1VQ6bVT2p6VerJjfAa5QfxHMk9bynDQX67I0X4lAAZT7DYGqhZkAZqVRM+Pq4k2wPwpPnjQb0n5w30CxiAuFS37mnpHCFMcyESDKpyW8WcZE4clGe1nWWosBFC4hFgMKlxQIAYMY4zcAF/yc6Tfk9lZCIE+2VlcMkAuFS1o+hcKN3daUbDd98/dotWjGEMD0EVIwhUrokic7Tx8GUAAhXFJpTwHU2SiZclG2/XbBjCsQZUP9oGICefJi/ZHR1bsD+fh2Tz682ZWLznM5f7VtnFK3gMKlZn1JVmoL0ijPGTAFck9kr6t8j1k6T75ddoy+f3pt9ONz1+jn9al8OX8ZgAGFS9cns3J5UJX3exXpPpuJAB1uteX0aFM6e2tyvPPY/M9mqQDjMUsX9pA2NAvwneQAkZzfAAXM1VHN/EXae2651fneVogBQ3hBz+hxx2oFOjveMkAkZbyazcrsxEQghdDDYBeN9iW5Y8IQ9shrSbTmfO8erBsgrL8NSPtM3VUghWEOORMAETaBTuakKBAuDQLS08i4AmkL4DanLgGQtZeEOKT3iQu0v9nqCzSfz0XuLO09pHPIm9Ah20MkZDd64/IdGKD6AQGDmKu3eriwZ1zFdXejMaHCB1XLpUD0zyAgvuu9w2YUiIMALDDuJntX7xNhU+OQ9g/iyHOnDALSAxEuajepfaUOxgCyfcJu6CP6gZ1y5WtiF4gFXKCFyXxwGNgMz4TOo2TM05eA3DGeEM88F71OhJNCIBamBK47AOliYUPbeeSk5HqPseEBMIR9Oq7PDs0bRhMz2U2Mg/oEAOXCLPuTkXK6875enBhpXnLEACKsxVENGr9Ng+YNYxjD+H/xCw01IsugEkmwAAAAAElFTkSuQmCC",
     "wiki_name": "Dark squall robe top",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dark_squall_robe_top",
     "equipment": null,

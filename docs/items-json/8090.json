@@ -1,7 +1,7 @@
 {
     "id": 8090,
     "name": "Mounted sword",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu2VX2vTUBjGE0opJ5RJcTjIiNsqdbQb6xbWP6O1f7CrWgs610lXulnKEJ04YbqbXXonIooi4o14Iwp+AvEziJfip3nkPSXJSdKu6dz0Jg88BJL0PL++73tOJMmXLxmDfepyBsqoFeZQWYkjr19Aan4KydlJxKMTiGrjpwVmhdfLC7iST6CcucgB9ISGuZgKdZzh3JkQIuEgd5gFbD4hKAvCqAABnJ9QOIAYrLDgQBtAi9PTx4GyqkGVECGoAoPCnzwOYaMRhK7bn3e27uLqah3JBX3UKvUgmrVlFFIxPgvDIAz//hXG928K3r9jLqBbN5soF6smkIcqWYOZXZyxtWNMkVzhoquXa/z680cP6O0bhkwmwO8TBF2vX1sbBUjmLYmqYRvEMBDDjbUW0ssr0CancClXwutXDPlcALlswXxHHGqCOQJIxtaNDAehH3gBOTx4ir3dA3Tv3OcwNBsUTkCRyFkTyHif1vMM87Bdwnp1yYRxhhve3zvETucBmhvbvPzZdJ6bQMhLyRRUVcPnTwwvXzCUitafI3uAIcnoNnJ8F/WDubfzCO3NLm+HAeAEMRydieHrFwUfPzA8fxbCaiVgnkW0ITzMjSTtdypo1dOY1cY4EO0EChfdD0KEvr3eRiI+b7ZGBBDtoTqStNsq8nbR/NCC1JJ+lXBWTjS16igA0c58l6hdtM2Hzc8g/zWAW70DkD4H4g5zmp55qYJz9WOq92mgM4iCjRmgg3EYwAlCOGUP/g8AbjmD/zmAL1++fPnyNbr+AOr5D/08KasMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLklEQVR4Xu2VW0sbURSFM4QQzhCUUFEYmYopqSSK0cFcJDEXGtMaA95iSUOsIYioRQVbX3zsWxFRWkrpS+lLaaG/oPQ3lD4Wf82SfcJck5BJvTzILFgMzG19s/c+Z1wuR44EdPatyxoooJgeR342hJTyCNGJEUTGhhEKDCEgD9wWmB5eyk3iaSqMXPwxB1DCMsaDEqQBhsF+L/w+D7ePuU2+ISgdQq0AATwcEjmAMVhkno6+JpBeDaqEEYIq0Cn8zWsv1sseKIr5en1jG8/mS4hMKr1CNSEqxRmko0E+C90gVF/+8+H3LxGfP7EWoNXlCnKZQi9A+mAmpkZN7egTXS3hRheeFPnx758m0McPDPG4m58nCDouLqz0AiTwlgQknwmiG4jq8koVsZlZyMMjmEtm8f6CIZV0I5lIa/f0MNQCNpbiHIQesANycvwWB3vHaGzuchiaDQonIL//gQak3k/vsw2zX8tirTCtwVjDVR8dnGCr/gqV9Ze8/IlYiptAyNORKCRJxvdvDOdnDNmM/nFkGzAkAY1ykq+idjA7W4eovWjwdqgAVhDVgdEgfv4Q8fULw+k7L+bzbm0vogVhC+ionke1FMOY3MeBaCVQuNHtIIzQz9dqCIcmtNaYAYy2ob1qhreL5odeSC1pVwlr5YymVv03gFXULlrm3eank68N0KrmBki/A+MKs5qu3VgVuqv5a6A9iILVGaCN8Y4A2skafOcAjhw5cuTI0b3QFZWF07gKqCpeAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

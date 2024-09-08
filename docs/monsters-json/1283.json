@@ -1,7 +1,7 @@
 {
     "id": 1283,
     "name": "Asyn Shadow",
-    "last_updated": "2023-04-25",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": true,
     "release_date": "2004-10-18",
@@ -13,7 +13,7 @@
         "crush"
     ],
     "attack_speed": 4,
-    "aggressive": false,
+    "aggressive": true,
     "poisonous": false,
     "venomous": false,
     "immune_poison": true,

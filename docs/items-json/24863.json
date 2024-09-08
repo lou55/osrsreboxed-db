@@ -1,7 +1,7 @@
 {
     "id": 24863,
     "name": "Zombie monkey",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-07-09",
     "duplicate": false,
     "examine": "A monkey retrieved from the wreckage of Glough's airship laboratory.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4Xu2U72tSYRTHfV6Eb6LoTaPGcktmqMOZzOnQzWQuy0lZth+5H5m01goZjVVjFUGNIAZBRARBQRC97U/8tu9zO9fr3bVubgaBXzgI14dzPuec7/N4PF111VVX7UjB/sUQv1ujLblJ0FyoL3bW4bxCZiaGeD6EUHIAZ4I9Dmf+KIXS/QwuLiWQKg23SKBwcvAUeoK96B326V8CDSQDtvPKzBPNBnAu7tP/R/v7HXI6SmH5xTTmHk1heiWN7PwIxoqRfUV8cb8G4C+BTof7TKDBiZA5tSv3Jsw8nBKhhtL+Fk06SuHO6xIWti+hvD6JfDWpR96AMmBY2J8O6kLsnsWsQMFcBOFCDDMbOVyvX9BTYh6eTRTCGswFlMLDjxWs7pZRfVnEzSd5vbpcZdRMxoKB7JD+Rhj5TmAWsoOxMUJxSmxOcjFcrE5h8/Mi6u/ncPfNNSw+L5jJ2GEoH0WkOKKLEJb/cYqcAFdzuZbS5wgnK2RjMm02JytkuAJ6+r2GjU8LWHt7A7WdqzoZC7LYaGUcD97NYv3DPHa9J7DjPY5ne8GiW95j2PwVPDtePq/XItNmc9IIgx51BfTqxyq2v902VycGZ3eJpQxStUmkV6b2ARGkfuQo1vaC3hKzc9rMw4kz6E8JF0BU89siwekkq1kNIyuVdXB1BOYaOB16hf6hj5qfguYgjAsgj0cOGocVYjNjGobT4crYnfjL7h+aVgxPEIGyAjTn/2spvSoCCQzXyMlwlWJW6y2S20cf8QbKe2VM5sAygBj0AoHEpHLTnKYkUAyBOcBUrGoA0Tu8ffQPb6BM6ndgDPHQIcCIlF4ZrztvXyswrtBqcK6QcYjTESltaL5PEoSjp+RKW8Gs03L5ALYj4xWXePxl2RFM/GU1fIeAqMYbsvX1ln5ABYxQMinruQ6sq1nW96lV2N+ajsHYZS/6zwG66up/0k9H4s3oFrB9yQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xu2V72uSURTHd1+Eb6LoTaPGkiUz1OGWzOnQzWQuy0lZZlvuRyattUJGY9VYRVAjiEEQEUFQEERv+xO/7XvtPN49aj2p69XzhYPw7HLO55zzvXd9fa5cuXLViRTsX+ridzM6kpMEBwsNRs62OK+QKkUQzQYRjA/hTKC/xZm/SqHwIIWLyzEkCqNtEiicHD6F/sAABka9+pdAQ3G/7byy8oyl/TgX9bbJ11YKKy/nMP94FnOrSaQXxjGZDzcV8UZ9GoC/BDodGrSAhqeD1tSu3J+28nBKhBpJ+v4FSuHumwIWdy6huDGDbCWuR96AqsOwsC8Z0IXYPYuZQIFMGKFcBKXNDK7XLugpMQ/PxnIhDeYASuHRpzLW9oqovMrj1tOsXl2mPGElY0F/ekR/I4x8JzAL2cHYGKE4JTYnuRiOgLa+LKH2YR733l7D0ouclYwdBrNjCOfHdRHC8m+cIifA1VyuJvQ5wskK2ZhMm83JChmOgJ79qGLz8yLW391AdfeqTsaCLDZRnsLD9zex8XEBe54T2PUcx/P9YNFtzzFs/Q6enSqe12uRabM5aYRBjzoCev1zDTvf71irE4Ozu9hyConqDJKrs01ABKkdOYr1/aC3xOycNvNw4gz6U8IBENV4V8zgdOKVtIaRlco6uDoCcw2cDr1C/9BHB58Ce3QkhUhpUsNwOlwZuxN/2f1D04rhCSJQXQDYpfSqCCQwXCMnw1WKWc1bJLePPuINlPeqR1B1IAa9QCAxqdy0VlMSKEYPYagGEL3D20f/8AbKpP4Exmj+d9K1lF4ZrztvXzswrtA0OFfI6DEMpbSh+T5JEI6ekittgpnTcvgAdqL6Ky7x5OtKSzDxl2n4QwKiGm/I9rfb+gEVMELJpMxzhwhjl73ofwdw5cpVV/oF4uyXbpekRc4AAAAASUVORK5CYII=",
     "wiki_name": "Zombie monkey (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_monkey_(item)",
     "equipment": {

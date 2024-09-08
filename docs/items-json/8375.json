@@ -1,7 +1,7 @@
 {
     "id": 8375,
     "name": "Wooden workbench",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNUlEQVR4Xu2U7ytDURjHLUl7qckyGaZNY9msbaxMVmilkFpIIRESoSVSiqSUF0pKSXnrrzz6ntOz+9yzc2fza17cbz3d3bPnPs/nfJ9zb1OTK1euqskj7NEQWQCdvmYR9DeLUKBFDARb/hpKQQCAIAgkFmotxy+7ZbnBAXQI7hLuE2EC+xGZITgAGpogdPe+CWVB6C6gGYUJggD4sxR1jtByw+QCIh2thLjciDkC6Ae9xhFWQnAAE8RYzGsEwP8mgIu1IXG8FBWrM32iMNop+yV6e01QHkcINOVFORgHQHCHuHNXm8PisDgglqd62LgUjCMQ6KtB3O4kKgBoTHouAG624vK6vxiRzz6XMtIdDuIAAymg+/2krfDd3ogNAIFGfI1ysY581AAoasIVrOfiXpFPesXuQrjamHQpG1EQgeIojF3htw4AF7Fz5D4cpOT1bHVI1ijmg9IZgCB3csQvHdqcDdUDBHnE+/W4BEATDkAQBPB4lBJPJ2mZy8/F4kS3BOFrGCty6QzVDYSGsBdnQAd4OR2VobsFCFx5YI3H/HjX14DQGPbjXKH56/mYeLvIyhHOZgO23SOQr7uiB2p88qqbpIAAQfPGN4PWAURFERgPnKB7/vbooefonavIvjO8KZmorww0nVJA23P95a+tvbGzaskxSt8ZIAgoF+8Q6wXl3hd3/BNSI8OZysba63Lll6SASiuDcnwEpGf9oRQQPpLJSNt/AIKsg97AUdnV4HPjylXN+gAdl2put9MCUwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4Xu2U7ytDURjH3dbSXorIZDLZGstszY/VyAqpFVottEIiJEISKUVSygslpaS89Vcefc/pcZ97djZ32Hhxv/V0786e+zyf833OvU1Nnjx5qiZLOONPZAN0tvpEqMMnwkG/iIb8jYZSEAAgCAKJh5s/o85u2W5wAB2Cu4Tfw/0E9isyQ3AANDRB6O79EMqG0F1AMwoTBAHwZylqHKHthskFxEisHOJyPV4RQD/oLkdYDsEBTBDj8YARAP+bAC5WB8XRUkyUZnvF3FhnNSCrIgSa8qIcjAMguEPcuauNIXFQjIrl6R42roowkCXpq0Hcbg+XAdCY9FwA3Gwm5HWvEJHPPp+MSne+ACEpoPu9lKPw3W7SAYBAI75GuVhHPmoAFDXhCtYnEgGRSwXEzmK/WyBI2YiCCBRHYewK9zoAXMTOkfuwn5bXs9KgrFHMhaQzAEHuVLJDOrSRD9cCBFni/TorAdCEAxAEATwepsXT8YjM5eeiMNktQfgaxopc+wy5lgJCQ9iLM6ADvJyOydDdAgSuPLDGYyHb9T0gNIb9OFdo/no+Lt4uMnKE+UzQsXsE8nVX9ECNL151kxQQIGje+GbQOoDsomo8cMJuXE1ucoxy7gxvymis9RNoJq2Atub73Hxt6yFLQhDQRKJdrM3R29JwGJIaGc5UJt72lyAkBXSyMiDH92+A8JFMRVr+AxDED7snT55q0gfO8zEWxe+NiwAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

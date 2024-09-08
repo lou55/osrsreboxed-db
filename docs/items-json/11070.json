@@ -1,7 +1,7 @@
 {
     "id": 11070,
     "name": "Gold bracelet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-30",
     "duplicate": true,
     "examine": "I wonder if this is valuable.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUElEQVR4Xs3W30tUQRQH8F0ilnu57N/gn9Brf0DPFUVFhmFRVpSwJIlpvzf7JYr5i6wVLVGx2hLMrCVLA/FBEHwIgh6ihyAIeugPOPWd4dw99ziru+4tHDjs9c6s87lnzszdRGLrtyS5w9X/z1uS7rXuozste020N++hbNNuE4wY7a6nkc6jNNRR50Dph6gabkGMAohDY3J3j9BA++HIxPgbfTqiqIqQSeq8tH8NCp+AcDCoL3uIuq8eMGPx6QJhvES/m2ylt2PnN4diEK45OwwavF1rQDy2FAjfK0y00If8NZrP3zAgzLGjpsaEnl01m3Z+agZhUheo5/rBEIRrF2is51gEhGsG6dlVS0aWARNxceNvDcLkQPDylgJN9p+ID8RZwj0XiDPJIGRNg54/OBmCEBWBuC40CJNLkCzSjUAvHjZEQeMXqgfhPkAhoilFrwZ8E4wqBZrKnY4XhMBSor+r2aP7F70Q82k6oGxjyvS5QMjmzMjZEDT37HKIqRgkUehjyOygxRRyRRCjXKDXjxudID17iWaXBE+rQbmsR++HffryJjAYBiHaTqVo185tZpwGzY5mNguyZxAy5AKNd3i0NBEY0NdC2sRKPjBIZA0oDULdSZA8FPXsqtkt7wIh8M8xZvVlEfRtLk2fZwJafmqzhL6m+iIK2YkVxCgEJsCJi3GM+T5vswTQ7+U0LfYHtJILKFNnUbGCZJbwqUE/PtpAcfdlPMrf9Gmhx6fV4YCmen06V7vdjJ3oPR6CcEozpiwQdogLxK8DgPgsQoZ+LqbpViZFub9HwfgVjwpdvskQih9jMBavDZmhMrODVgTpOuKtLEGoo19LaRpu92i0zWZotsOn5UeBQTIIr43YQIzCfdQDg9DPWcLuWnjim92GAkddyfrBKS1BjNKzO5oFuZbNBcLOw3cAQbYAAQwZYxDGTw+dCUE4gyo4h6IguWwShE/c51eKfdpo8PlTNQi7bCMQJsM9BvE5JWuNlys2kF423Jcg+RuIMQzisQBhy0sQzqCKzyHXskkQrtcDcYYwNhaQa9kkCH3yZ4kEYZysnypBaGsL1BW6fjg0CIeiBHFUAEok+FhfLzRQhqyfWEDlNo0sB8tRHPufmka6Qn9nS7c/V1jBqDubQ98AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xu3WW2sTQRQH8AaRsMuS7+MH8FlFUbFSqeIVLQSDpbbeY7yVlppesLol1dKWqtFCrdFgtRVKHwqFPgiCD+KDIAg++AGO/mc4m7OTSZtNVvHBgcNudia7v5w5M5uWln+/Jcgetv4/3hJ0p3s33erapSLXuZOymR0qGDEx0E7jfYdorLfNgjJ/RNNwDWIUQBwmxr99kEZyB0IPxmf0mRFGRUImqO/CnioUjoBwMGgou58GLu9VY3G0gTBeot/MdNPrybONoRiEc84Og0ZvtioQj60FwvfK0130rniFFovXFCgSBjflX80gPNQGyl/dF4BwbgNN5g+HQDivE5QITQMexMWNzyYIDweCp7cWaGb4aHwgzhKu2UCcSQYhaybo6b1jAQgRCcR1YYLwcAmSRboZ6Nn942HQ1LnmQbgOUIDIJOnFiKuCUbVAs/7JeEEITCX6+zsdunveCTAf5jzKdiRVnw2EbM6Pnw5AC08u1otBC4MkCn0MKY1qTNmvgBhlA7182NEoCE1PCX6tCfKzDr0tuPTplacwDEL0nEjS9m1b1DgTVJpINwrSexAyZANN9Tq0Mu0p0OdySsVa0VNIZA0oE4S6k6AIm6Je8jYQAjfHmPXnFdCXhRR9nPdo9bHOEvoy7RUUshMriFEIPAA7LsYx5uuizhJAP1dTtDzs0ZrvUbpNo2IFySzhaIK+vdeB4h5KO1S87tJS3qX1gkezgy6dad2qxk4PHglA2KXrxKDpFWID8esAIN6LkKHvyym6kU6S/3srmLrkULnfVRlC8WMMxuK1ITPUEMisI17KEoQ6+rGSokLOoYkenaFSr0urDzyFZBBeG7GBGIXrqAcGoZ+zhNW19MhVqw0FjrqS9YNdWoIioDTINm02EFYevgMIsgUIYMgYgzB+buxUAMIeFGEfCoPktEkQjrjOrxR983Dw/tM0CKtsMxAehmsM4n1K1hpPV2wgc9pwXYLkfyDGMIjHAoQlL0HYgyLvQ7ZpkyCcbwTiDGFsLCDbtEkQ+uTfEgnCOFk/TYLQqgvUFmb9cJggbIoSxBEBVG+rRnLI+vmLoI1aNbI6/rfm2i8NVHcc8z39IAAAAABJRU5ErkJggg==",
     "wiki_name": "Gold bracelet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_bracelet",
     "equipment": null,

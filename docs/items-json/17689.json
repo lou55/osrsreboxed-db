@@ -1,7 +1,7 @@
 {
     "id": 17689,
     "name": "Animate rock scroll",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-28",
     "duplicate": true,
     "examine": "An animate rock spell is written on this parchment.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4XtWX60uTYRjG93wKYtQHw5FgU2GCLbSGecCwictsDZxoNkzNlGEWIkgnpBMdpBOCdIKgIIiIvkR/4R2/Z9zbuwdHO7z22g03Y4zx/HZd13Pf70Kh/7eMFHpflJHby+ckP3MmaChVxcjmyrjczZ+X2UxfUFBGRvuikuw9JkebDsqjmxflwWragmVGuoOAMpJNxuTCUIdsbWTl2fqEPFnLWDDsG+nvDAaKfn1nSl7emrRgCnU9NyynT0SLlrrf3MMysrM5I9v3pi2YV635iX6ZGjvlsbCabriMfH4+Z/vT0yvy/mHOAqIYYAR9bS5pFVuaHpLFyQEb/Fy6Vy6NJySb6rHA6eG4JI63+geFTaiDSm/vX5aPj2fly9aCfeW92km+gEI9wIBCRcBi0WYLdLKtrVGowrXX5mAUQikUQz3gvr64aoFRTdUCTNWKNIX9sq4cqBIclgJH3viMQQoYUFgW7zgirZGwHA4faBSqMtBucIChFHNLswXQYHeLhWKuNWhddUDexkpyhX1AYRlDFiiF+adANGHnJhL0UnZqhnFDVx+MNtnCSi9IFTAleiReXxgtvncPqKXrVMVYb3s6m23YdIEChe/uIdW2q0iVMJSxC5SweXcVYExghpp72N+6RkXcKmz1sYH24hL1bnaFYpG6B1dqBXJPqqEKPldaojdmz9o1oIvUBXDbByDK2PHPpNX9BJwqhoVcX7IFIFNYF6kuUYZfarDLr2clIz938vJje1m+v1mSb6+uWUDd8DSQ3k2vi9SFisdKw889pcYqXVO3gVRQbcDImAulS9QHoFDIvaql21IA+/1hVX69W7GNemTMax+bvfzH7GF5wWjsxUaCrFBkKNEVkfaWQ35s9erKq5o+A20spiwUCvFvhbnmw1avp4y1jpCTp3K7GhqQjZSx1jEavBABwWgFqsjuta9g/Ko/xGqLWOlOBmAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4XuWX7UtTYRjGfT4FMeqD4UiwoTDBFkrDfMGwictsDZxoNpaZKcMsRJDekN7oRXpDkN4gKAgioi/RX3jH7x7PdvbQyLOdeYpuuBmHcXh+u6773NdZS8u/W0ZK/VeUkZvLp6U4dzJsKKuKkc2VSbldPCOF7EBYUEbGB2KS6j8ih1v3y4Pr5+TeakbBsmO9YUAZyaXicnakS7Y2cvJkfUoerWUVDPvGBrvDgaJf3pqR5zemFcxCXc2PyoljsbKl7p1NLCM7m3OyfWdWwbxqXZoalJmJ4x4Ld9MNl5GPT+e1Pzy+KG/v5xUQxQBj0NfmU6rY0uyILE4P6eDnM/1yfjIpuXSfAmdGE5I82hEcFDahDiq9vntB3j8syKetBf3k2trJfAGFeoABhYqAxWNtwQHxdNnmYBRCKRRDPeA+P7uswKhm1QLMqhVtjQRlXTVQLTgsBY554zsWKWBAYVmi65B0RCNyMLKvUajaQL+DAwyl2Ft2tgAa7m1XKPbangB5GyuZK+wDCstYskA1CEP5B6IZdp5EBr0yO75h3Jvqg7HNbGGlT5AKPRKvL4yXr90D/HSdqhj1tq+7TYfNBihQ+O4estv2CeEtowHKsHmzCjA2MEvNPexP3QAMVUr1iaHOcoh6k91CEaTuwbW6QSCq5HOtEL1WOKUxYIPUBXA7ACDK6Ppn09p8As4qhoU8vswWgGxhG6Q2RFl+6eGeoN6VjHzfKcq37WX5+mpJvry4ooA24WkgvUlvg9SFSsQDWX6U9zGtbiAtqG3AmDEXqhKiTa0S2M93q/LjzYo26jFjXvtI9uof0/SqHIa92MggWyhmKNkTlc72A0Gkut8y5XegjcW0QqEQ/1bYawGkej1l1DqGnHmqtmvPYWwZtY7VECKEW6Eq8h/VL+DFUJHc37gyAAAAAElFTkSuQmCC",
     "wiki_name": "Animate rock scroll",
     "wiki_url": "https://oldschool.runescape.wiki/w/Animate_rock_scroll",
     "equipment": null,

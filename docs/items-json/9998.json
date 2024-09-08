@@ -1,7 +1,7 @@
 {
     "id": 9998,
     "name": "Hunter potion(4)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "4 doses of Hunter potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRUlEQVR4Xt2XS08TURiGOQ1/gIUYbURQQQteWrEX2xJqpICtrRmJUcFoMNJgSiYQF6V168LEjYlxZVwZdAeNf/D13Jk5M0JMZs4kfsm7aZv2yfO9Z6YzMvJ/DIE/iQ7B1vPLeNKcQL16DrevjyUNRfDzSxU/Pld49t5ksOFMJQlFNMz3TyW4m1fxrH2RA2UnJ21Dic4ooG8fi+i+nOHrS6BPBK32Ghznqbbz9UMe2y+m8Xj1AgqFCsqVezahCNbXXwXysLWG+nILi7VlZLN5m6ujp6uzzdPpvNVpNB3cX2ogny9jeiZjF2h3752O6+6i23Wx+uAR7pZrmJ27hXRadMkSEBuCg4NfGA5/4+hoiMPDIV9XLlfQpWYwVoE2X2+h19vHYPCeh61rfr6UBAwbgp0dF/1+X2ag+2N5VWoIRtsON9Tb7/OwlRWLC7iWuWHzyLOhMPUVjDZbvqRuZpFip+t82qYlglS5GoShr6VydwTQBAU5M27L0l/sKKDZOQFkx5K0s9IIByqUBNClKwIofkvhdnxAtEccKH5L1M7CYqgdDkTf41Cq2PFbokC1JQEUAqWBVLHjtSTtsHUpICMaSPZIn7Z4LBl2QuID8q7NcwmIyJI8WSfY4UAU2Ncj09L42agsecp8QnxA8noUk6XT1xUKJC35yj0W2WMSCQCY8QGxHnktMSAJE9HfEnlBPCWBHqkbbbQwasS/QBMiFMi468cAI0Z8oXrmCsJxIHXrMEAih/HO8Q8cw5mxAhI23h82Y372X+cP1uZl3PYiQMoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJUlEQVR4Xt3XS08aURgGYA7xD7CopiXaqpUK1hZULuUSaAS1IDRT07RVY0MjxAYz0XTBpdsumnTTpHFlXBl1B8Q/+HbOmTmnDDOFzVwSvuTdMAk8ec83M8HjmYwh0MfVIah9WsT70hwK6YdYe+5zG0Vw+yeN698plvPjIA6keTdRRGCufiUgV5/hY+WxWyB1Zzjo8mccjaMAOz4X9omgXNmDJH0Q7Vz8iOLkcAnvdmYRi6WQTL12EkWwv//ZkN3yHgpbZWRzWwiHo86CavUTlnr9q0ixJGEzX0Q0msRSIOgs6Oz8m4gsn6HRkLHz5i1eJXMIrbyE3893ybEhuLm5Q79/j16vj263z44rEom5sdR0CKpfamg2W+h0vrPQ41pfT7iBoUNweiqj3W5r6Yj9cQ00VZFYQ81Wm4UeWTyewXJw1WmUgilsY6pU1sX7Igwvvbse+Z0EEXiTaSNG+cwb2VBBc0/geTDtFOo/7XBQaEUFOdOS1s520RwUS6ighacqyP6WzNvRgZQ9YiD7W1LayWRN22Eg5RpD8cW2vyUFlMurIBOUAPHFtrclrR16XBw0FAHS9kjcbfa0NNSOSXSgwWOz/hGg3Vkj2mEgBazbo+GWpmesQg0s84joQNrzyKaWxh+XKUhrSbfcPsv+JhEDYDg6EN2jwZYoyDoMHe2BOCaGPeIvWmsxfOgXjoYJkOGtbzlmcPgPGHEMxF8d9kPM5h/OmAmcv09mMNFm5fffAAAAAElFTkSuQmCC",
     "wiki_name": "Hunter potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hunter_potion#4_dose",
     "equipment": null,

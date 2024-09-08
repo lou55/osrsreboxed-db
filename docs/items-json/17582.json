@@ -1,7 +1,7 @@
 {
     "id": 17582,
     "name": "Journal",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-31",
     "duplicate": true,
     "examine": "A book.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4XtXWwWsTQRQG8M5BQpaQElJSErE2SgwYaaugIlIoFApFQUUpFLUgaD315sGDiohYapRWYyy1pIQS8CAIHgTBg+BB/Av8d57zze7bncxuNtlsauuDj14a8ss3bycZGvq/R5CdAzGCng8n6GE64aD2FSaomkm4oJXUIbon48H+Oc4GPZWgBw6oMplzU66MGLg9BQp6m0nSqgaaODPaFhMXDDTT93igR86RnT6Xd9MNximVs1QsZWismFbpEyVoK5ukdQnC/qChsxcKKtvbr30Jw+mg7EhSgabGx6OgBDXlC+sOCA2dnz7sxsR0igkqHEmRZdkPRCwQlvrizJiKDgvD8ZHqqPSwfW0AEwEk6KPENLI2CDs0PXtUhVF6OuFMUC5vGUvf8whqOSDs0MxcUYVRejrBEB2E48JRAYNji3Bkgj7nLAXCkQE1O3/MRZkJw2H5geJ2lpdvq6WOsEOCvkrMJxkcGVBzl48rkJluMAahIW6njx0S9EVi0BBQ81dLCmTGxJlARunt8N9ImO+jlmqIUQCZMXEmkEFoSN8dtBPhqDA26JuDunT9hC8mLggI0EDa+Slf8ENigLqyUPbFxAUBGTSQdn7lUy7q2uLJtpi4ICCDuB0g+mwHIxTkxs1KYHoBAoR28GTFbAdjP1348nxVfUIv1x7TwtIpHywMiIVGOwzidvRLMBIIy4zvrJ2dN9RorKur/8NWlTY316heX6XFOxMqgJpYHBmOi58u3D0x2sHYR4ZbWV9QfGrgms0a7e6+o1brvfq7dH+Kbt2ddKMfGVpCM2iJf/dEbAcj6E8hRb/lYuMTm0uLN+M7Bo2hOTSINoFFY/g/voPQUIx2eLyfl9wAH42+yPrjjTff2HhGtdoLdazA8g7FaMcb78Xtv38ZiB3Sgbw7aI+/Lvj7K2Y7/mFcNyBaBE6/pQGK3U63CQOiMX3PsD8DbaeXCQLyXu15O72MDtt3jD4HCjOI+QtNje4MToGpWAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4Xu3WQWsTURQF4L6FhAwhJaSkJGIlSgwYaVVQESkUCoWioKIUiloQtK7cdeFCRUQsNUqrMZZaUkIJuBAEF4LgQnAh/gL/zvWdN3MnLzeTpJNpWgUvHLJpyJfz7rx0aOjfHkVu/opR9Gw4Rg+SMQ+1rzBF5VTMB91PHKC7Ok3YnuNc0BMNWvJApYmMn2JpROAGClT0JhWnZQs0fnq0JRIXDJTpe5qgh96RnTqb9dMLxikU05QvpGgsnzTpE6VoIx2nVQ3C/qChM+dzJpubr9rSDWeD0iPxfkCK6vqNVQ+Ehs5NHvQjMZ0iQblDCXIcfiBCTSsIS31haszEhnXD8ZHaqOQwXxuhRtEHjamlXRB2aHL6sAmj7HTCSVAm64il3/Eoangg7NDUTN6EUXY6wRAbhOPCUQGDYwsBUvQp4xgQjgyo6dkjPkqmGw7LDxS3s7h4yyx1iB1S9EVjPurgyICauXTUgGR6wRiEhridPnZI0WeNQUNAzV4pGJCMxEkgo+x2+DUU5tuoYxpiFEAyEieBDEJD9u6gnRBHhXFBXz3UxWvH2iJxQUCAdqWdH/oN3zUGqMtzxbZIXBCQQbvSzs9swkddnT/eEokLAjKI2wGiz3YwykCu3ygFZidAgNAOnqyI7WDcpws/ni/Lj+nFyiOaWzjRBusGxEKjHQZxOyEvQR5llhm/WVtbr6lWWzVX//uNMq2vr1C1ukzzt8dNAJVYHBmOi58u3D0R2sG4R4Zb2V5QfGvg6vUKbW+/pUbjnXlduHeSbt6Z8GMfGVpCM2gp0v89v3MJ+qUXG99YLi0+jO8YNIbm0CDaBBaN4e/4DkJDEdrhwRvdcAN8NPYi2483Pnxt7SlVKs/NsQLLOxShnaBp4mwgdsgG8u6gPf654N+viO30ms5AtAicfUsDNEBM0LQC0Zi9Z9ifPQbJcWG8V/uMsYdb+z+Dmz95kaqrtkPVlwAAAABJRU5ErkJggg==",
     "wiki_name": "Journal (Creature of Fenkenstrain)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Journal_(Creature_of_Fenkenstrain)",
     "equipment": null,

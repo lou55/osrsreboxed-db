@@ -1,7 +1,7 @@
 {
     "id": 6961,
     "name": "Baguette",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-10",
     "duplicate": false,
     "examine": "A freshly baked baguette.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVklEQVR4Xu2X/0tTYRTGfX+KJBKZbExxOWUNmswpNhk5dKSz5ZjGTEXJHBqNRJKhgmih+QVBVCqIgoIgCKHf+gefeN6Xd10vkb/Mc3/QA5ddGJf74bzP85xz6+quVin8+/KkFPKZDsw96USllMTe6zQ+bWexWU55AaWQjN3CbCGGlef3sbPcj/ebQ/h28Bhf3o1ooERbmxSUQqT1JtLdDVh+1oO3Sw9wsvEQX/dzODsdw+/PE5JACi3+G7gXrsdwXyPmRgM4XB3ExzfDuju/PoxXYQSAFIrZu7orM48CyKd9KBebqzA/jwuyMNn+MBafdmnREmRpsgWV2VYN8+MoLwuTjAe1gOmmg8qAFu7GfAhbC3fw/XD0HJD76RqXQrTdh8lcFK9murWAeUQUMGG2X4Tlj4pZUyrGsbbYh6P1TBWIXdkth2VhIqFGZHqNvRl8biCnq9xP17gMTFfUr+1NVxGIecM0pm4ELW50w5FAR01l/RrEdoYwgroxw5H25jggAN1EazvdJAZDAdNNhOHREMRam5cT5NJhxocieDmdqA5KZg0h6CTBI2IppOK3NQxz5n9OEoHpiQWQS/lQKgR1CtvueAKTSjTrnKGTCEM32aPiKiEKM5gM6QTmCsHuOGHENWOHJXOGEJzc/LX2FoWJRZr0XsPZRL3YrCEQ73lZIPfTNS4zDpg1nE3c9GxXmDXC3VEINtXrJYu6ca4RhPBkjeCgZHf4lWCHpN32hO3NMkK22mH42ePif8IwtsyL2SFmjlO8HsCYMi/9+8nrGYi7PO3KdV1QfwBPfDoMFlPnBwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMUlEQVR4Xu2X70vaYRTFe16NYizEUEwyLEzI0IoyJKWksixxhdWi6IdUJEUUsgXRD/pNEBVtEA0WBIMx2Lv+wRPn+fJIxaB39xvUhQd954d7zzn3Wlb2tkrh/8+WUsgk6zEz0oRiPoqjtQSu91LYKsTsgFKIhj5iKhvC+mw79lfjuNrqxe3JIH4e9EsDKQRqypFoqcTqdCt2VzpxsdmDX8dp/L38jPubUUkgBa/rAxr9FejrcGBmyI3Tr934sdOnu/Pv+7AsTC7VoLsyOeBGJuFEIVddgvlznpWFScX9WBiLaNESZGXci+JUjYb5fZaRhYmGPVrAdNNJsUsLd3POh+35WtydDkkCKQTrnBhPB7E82aIFzBFRwITZW/TLj4pZk8+F8W2hA2cbyRIQu3JY8MvCBHwOJNssezP4ngMJusqCiQRd2t50FYGYN0xj6kYUhrrhSqCjvqRcGsR0hjCCurGWI+3NdUAAuonWfuomIRgKmG4iDEdDEGNtPiEQlsJwbwBLE82lRcmsIQSdJDgilkIs/EnDMGdsdBJLoTXkRjrmRD7r0SlsumMLTKy5WucMnUQYusmMiqeEKEx31KcTmCcEu/MYRlwzZlkyZwjBzc1PY29RmFCgSt813E3Ui8kaAvE7nxCQtQ6YNdxNvPRMV5g1wt1R8FRV6COLunl8RhDCljOCi5Ld4b8EsyTNtSdsb5YlZKMdhp8ZlwUiCmPK+mF2iJkjKN6XynTkVcC81+uvB61p7gIfMwX5AAAAAElFTkSuQmCC",
     "wiki_name": "Baguette",
     "wiki_url": "https://oldschool.runescape.wiki/w/Baguette",
     "equipment": null,

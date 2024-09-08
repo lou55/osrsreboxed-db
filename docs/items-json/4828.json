@@ -1,7 +1,7 @@
 {
     "id": 4828,
     "name": "Comp ogre bow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": true,
     "examine": "A composite ogre bow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xs3W22sTQRQG8OTd9z5ItX2wDwrVBNSKUCpFQSj0GlPbeot4K2KRSiUExUsoWqVQ6gUtLUZKLUUrgmhJUBT9v0a+Wb7t2ZPZmE1X6cBh9jLJ/HLm7GwSie3fksYdrvv/vCXNk8KgeZzvtzF9u88Ub/XaIGJ57oIpzZ4zS0/POlD6R2wZ7oGIAoihMYszY+bl9EhgYpzjno4gKhIyaWbvDFWh0APCIOh5cdjM3Ttlx6J3gTBeor+tFUx5ZbIxFEE4ZnYIev1o1II4NgyEz1VW8+bH+n3zc/2hBWGOAy0tNvTsqnlp568mCJO6QPMPsj4Ixy7QynwuAMIxQXp21ZKBZcBELG6caxAmB4LLGwZae3EpPhCzhGsuEDNJELKmQR9eXfZBiEgg1oUEcRk1SBZ0LdDHhStB0LupxkG4drp7r+0BIoqZlE9kGOjT4rV4QVxKCdIFHQbC2C+l6z7o+/u7PiYyCOeF7D7b48tdIGIACwN9fXvDCdKzhzQvI/hy9FdP7nGCcE3WD0HIpAZtLN9sFOQVLzJE0HDn7ioQzs+PddhegvA5DcJ4CZKbop5dNa9ONKirvcn2MpihkewhH+UCYVzsoFTrDvP714yplKdMJpM2ExPd9jrvZwbStidIL1dsIInSARgzQwyfSA1afXbRB2GXJqYuEJ4QDZIvTLyTMK6np90c62rzUcSwrmT94LUhM1RndtA2QXLZAOKjTFClkje53FGTTjVXZYh1xeXCayM2EFG4zkLO9++ydVXemDSlN8H/OQzWFQK7tAQRpWd3NA/kWjaCmCFE8cx+PwaONNvoPbzTj8HONjN63NtUEQBhD4qwDwVBctkkCD2u66yExXhfypw42GqPI4PwlP0NhFrSrwyErDXWj8xoQxkiSC8brkuQfmXgnCCOBQiP/Oelcb+GsAdF3odcyyZBOK4FYoYwNhaQa9kkCPfkXw4J4muDy7VFEFp1UbpC1w9Dg7ApShAjAiiR4LZeKzRQhqyfWED1No2sB8vYHPufmka6Qn9mW7c/4R+CR9spIK4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xu3W22sTQRQG8Obddx+kSh/sg0IlAW8IpVIUhEJvxtS23iLeilikpRKC4iUUrVIo9YJKi5FSS9GKIFoSFEX/ryPfrN96dnY2Zrer+ODAYXYnk91fzpydTUvLv98y4g7X53+8ZeR+eVDulfpNTF/rk8pkrwkilubOSHX2lCw+OOlA2T9iw3APRBRADBuzMDMqT6aHAzfGOT6zI4iKhczI7PWjIRR6QBgEPaoMydzNY2YuehcI8zX602pZassTyVAE4ZjZIejZ3RED4twoEL5XXynJl7Vb8nXtjgHFwuCi/NUE4aYu0Pztgg/CsQu0PF8MgHDcJCgTWAbciMWNcxuEmwPB5Y0CrT4+lx6IWcKYC8RMEoSs2aA3T8/7IEQsEOtCg7iMNkgXdCPQ2+cXgqBXU8lBGDvevcP0ABHFTOonMgr0buFSuiAupQbZBR0FwtwP1cs+6PPrG81i0IIgnJcLO02Pi7tAxAAWBfr48kpSEJqXEVwc/cUj250gjOn6IQiZtEHrS1eTgrziRYYIGurcFgLh/PToPtNrEL5ngzBfg2Jsil6d2KCujs0/L/ArmKHhwh4f5QJhXuqgbNsm+f5tRuq1KcnnczI+3m3G+Xl+IGd6guzlSg2kUXYAxswQwyfSBq08POuDsEs3iUHznjAbpF+YeCdhXk9PhxzsavdRxLCudP3gtaEzlAiklw0gPsoE1eslKRYPSC7bGsoQ64rLhddGaiCiMM5CLvVvNXVVW5+Q6ovg/xwG6wqBXVqDYqA8kGvZCGKGEJUTu/wY2N9qonfvFj8GO9tl5JC3qSIAwh4UYx8KgvSyaRB6jNtZiYqxvqwc3t1mjmOD8JT9DoRasl8ZCF1rrB+d0UQZIsheNoxrkP3KwDlBnAsQHvn3i2N+DWEPir0PuZZNg3DcCMQMYW4qINeyaRA+0385NIivDS7XBkFo4aJ0hV0/DBuETVGDGDFAzbYwkqHr5y+CGrUwMhz/28baD5cbN7sFZNuAAAAAAElFTkSuQmCC",
     "wiki_name": "Comp ogre bow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Comp_ogre_bow",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6514,
     "name": "Agility jump",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIElEQVR4XtVVz0cEYRiez1prxlhSOu+fUKd06JSlJR2WlaUOK0tFsiSlZEUlyWa1aWXZw7KHiA4RHaJDOkR0iOiQDv0bb73fO99+M7MzZOfHTg+PMTO+73087y9F8QQG9i99BIOrdQ0iIorB64kOlYLKBY2kUv0WxeDjTIfSdCIKgjBFDG53NKgu9NUhEvJ8pMP9rgbXmxq0VlWoFUmUZChg8HKsczFPhzo87uvwsKdBc0WFxrLKn+hWeZZSaD8dABhcrmmwkRUByamDOXpHp/A/pjEzGgvaLQq4NBU31QuD91NZ1ELwzRZxO5cIShiDdkntOINihKDvRhLyE1aRSHQJRaFAqzDPYPxikRYphv59niehmDYLUhQh7K5MokRNWc/2DAb1RdnW1gutKesOJruu+6wnuF3I4K2q85Q4CyK3nM96RPeF5A6OAWx3pHQkdNDKwD2GbY/zSFDOoNCEUSFjqkRtCaJA7DrsyMIkFbr9tM9g8HWR7Mwic21RSukbzit75wUAxlOCgnLjMpi963C/+dzmbiBBuLucg9EawZ0WgjsIxheq6Ca7GBSK0zkkdxAU1Hnm0KrAIg/JHQQFdQ8Y2FR2A23y7JiboACnsjtCdeBviJSYCEAWqjf6AgbzWpwzb2LOYFaVnFFjnBkT0wlJH0T9dtSwxtkeUjlbBpsGG4PEusGaweoAsWIi3udD3dlt752+NYJ5rnil/e5/hx+4nQvAB4sNkgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB8UlEQVR4Xu1Vz0dEURSea4xxr2dI6f9olRatMjSkxTAy1GJkqEiGpJSMqCSZjCaNDLMYZhHRIqJFtEiLiBYRLdKif+PUuec9987zHunduTOLPj7jvTPe+XznVywWCQz8b3oIBpdrAvpEFIOXYwcqBd4/gt5PHShNJftBEApgcLMtoDrfU4dIyNOhA3c7Aq42BLRWONSKniiPVsDg+ciRYh4PHHjYc+B+V0BzmUNjictfdKs8Y62EDC5WBaxnvYTk1P4sPaNTGMcyZkbi3XaLEi5OJrQkDN5O9KYmwdebxK1cslvCGLRLXHNGvf9qpCA/3ikSiS6hKBTYKSwymPywVxZ/7OMsBcW0LkjFbsskynBPMagvhI21v2R+eKUKikVC2AcZvFYdWZLw/1gDuYNrAMcd2SU3fgM6GXjHcOxxH3lU/WJNGDUylkr1FhEF4tThRBYmghrdOBh8nqe0XeRPSO9wXwVPnlEwWRIUlBsLS8bkfTM85mEgQXi7gpPRGcGbZsEdBJMHVU1TZwyF4na25A6CkgbvHDoV2OSW3EFQ0vCEatr8kS6BLnl2NExQT2DVgX/8BXqjRqERMJgTCcm8xpzLLFec5nHJjMZ0UtGAqJ+JGhaS7SEu2XLZdNkYJNZd1lxWB4gVjQYEIfy2R+E/zOMb8A2hmx5C9vYAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

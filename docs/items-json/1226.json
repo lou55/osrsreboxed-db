@@ -1,7 +1,7 @@
 {
     "id": 1226,
     "name": "Mithril dagger(p)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "A poisoned Mithril dagger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xs3WW2sTQRQH8A2llIr4GBBBCuJDfan4nEfftShWVKxVqngFaVFKUbyUeK+t9YKWBltCLaVGxCtKiyL4OcQvMvLf4T85e3qyZptVOnDYze5s5pdzZmYTReu/FZwd1v1/3gru3ug+d2ekN47y5b1ubHhPHERUJwfc7Hi/q9w/aqD0j2gZ7kFEAcTQmJm7R9yz8qHEwPiMezqSqEzIghu/sn8VCkdAGAQ9GTvoJq8diPviaIHQX6KXF0fdl/mhtaEIwjmzQ9CL24djEPsSxIEJwnNfF0bct9p19712Mwbh/s6urjj06Kr5tPNXE4RBLdDUjb4Awjme7xtsj4Oo+anjCRDOCdKjq1ZIlAEDcXLjswYBDgTLKzEStPh0MD8Qs4RrFoiZxLOlUq8Jev38ZAAhMoE4LzQIg2uQnNB4trt7d4hisSeA3kyfSoJeXWodhOsAEcVMog+zY2EQb2dO5wtCACBBckLL7GgM+n6cPRdAK0tXAyYzSKK4fDVIZ0diCPo0d8EE6dEbNL+HYLA0ECd0WnYI+ly9uFaQ34OQob+B0EdmhxiUVoLQX4LkpqhHV81/mQVCSBCzKLODczwnQYDnCiIKgQGw46Lfwwed7mWlM4BwBBrP6XLlBpJZwlGCBo61B9SHdxtCtizQwuMTAYRdmpimQFg5FohvcIBYsvNnPao651E/f2yMr+v5g9eGzFCT2UGrg/Q8wnUN6tnS5oaHOtyjCY/SGWK58NrIDUQUrmMAlmx7MXKlbW2hVAiZSQnCLi1BROnRjeZBVtk0aNdWj+EujgltgdD/feVMAGEPyrAPJUGybAShz47N0SqMBUJ2WgZhlTUCsTS/f21qCOJcY7lyA+my4d6tcoerLfkljsF1uQjCdxCEJS9B2IMy70NW2XA9vj/tV1MaSM6fXEBW2fir0Qf35N8SCeJrg+VqEYRWX8ZpoecPQ4OwKUoQIwMoiritp4UGypDzJxdQs00jm8Ey6n3/U9NIK/Qz67r9AZZ0ivKdzj/dAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu3WS2sUQRAH8F1CCBHxuCCCF/EQLwHPe/SuQTGiokaJ4hMkQQlB8RHWdzTGBxqymLDEEOKK+EhQFEPAzyF+kZL/NP+2pqYz7uyM4sGGYmZnerZ/W9Xds6XSv9/KEo7Q/T/eynJndLfcGumLonZxl4wN74yCiMbEgMyMH5b63UMBlP0RueEORBRADIuZvn1Qntb2xwbGZ9yzEUdlQpZl/NKeBApHQBgEPR7bJxNX9kZ9cQyB0F+jPy+Myse5ofZQBOGc2SHo+c0DEYh9CeLABOG5T/Mj8rV5VVaa1yNQJgy+lL+aIAwaAk1e6/cgnOP5/sHOKIiamzwaA+G8RVA5VgYMxMmNzxYEOBAsr8Zo0MKTweJAzBKuhUDMJJ6tVvuCoFfPjnsQIhOI88KCMLgF6QmNZ3t6dvioVHo96PXUiTjo5YX8IFwHiChmEn2YnRAG8Wb6ZLEgBAAapCe0zo7FoO+HmTMe9GXxcqsYtDhIo7h8LchmR2MIWpo91y4Ize0hGCwNxAmdlh2Clhvn2wW5PQgZ+h0IfXR2iEFpNQj9NSjDpui+LARCaBCzqLODczynQYAXCiIKgQGw46Lf/Xvd8qLe7UE4Ao3nbLkKA+ks4ahBA0c6Per923U+WyHQ/KNjHoRdukUMmlthIRDf4ACxZGdPO1Rj1qG+ra6Prtv5g9eGzlBbIDuPcN2Cejd1yPBQlzx84FA2QywXXhuFgYjCdQzAkm2tlKS6pcOXCqEzqUHYpTUoA8qBQmWzoO2bHYa7OCZ0CIT+7+qnPAh7UIZ9KA7SZSMIfbZtLCUwIRCykxuEVbYWiKX58X3DmiDONZarMJAtG+7dqHVJc9EtcQxuy0UQvoMgLHkNwh6UeR8KlQ3Xo/tTbjWlgfT8KQQUKht/Nfrgnv5bokF8bbBcOUFov5ZxWtj5w7AgbIoaxMgAarUlkQw9f/4iKK0lkcn43/K1n0xwQGbG1PAgAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril dagger (Poison)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_dagger#Poison",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6569,
     "name": "Obsidian cape",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-04",
     "duplicate": true,
     "examine": "A cape of woven obsidian plates.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyklEQVR4Xs3Wi0sUURTH8V1Ell1E/wDBpL+gP6G/oDc97IVFRRFBFIWI0kOkF4LYgwoFQ0xEDSEqiqL+shvfmX7jmeOdZccdwwuHmd25s/cz59x7d2q1vd/qIR6x67ve6uH5+PHwdOxoEtP3j4Spu4eTEGJpdjQszlwMCy8uRFD+IbqGpyChACk8Zv7ZufBmeiQ3MJ+55iOPKoWsh5mJE9tQHIEoBHo1dTrMPjiZ9OUYA9Hfon+ujofvy3d2hhKIc2VHoHdPziYg9S0Ccd+PlbHwe+Nh+LPxOAExxoHh4ST86K6laddTC8SgMdDco1MZyGaBEGh57lIOxLlAfnTX6rkyMJAmN589CDggYQ41e8KZVm84/y+EWn19pTqQssR3MZAyyb3HmimCsKD1t1czEFEKpHnhQQzuQerHfQP9/UnESvbp/bU86OO97kF8D0goZZJ79g8NZSCir9XKgTbnr1cLIgBYkCa0siMUmGajkYHo+2XxZgb6tTaZYUqDLErL14KEAUCA2jc4uA309cOtKMiPXtDS+vP07UDC2CgCfVu6vVNQugeRoXagGMaHQPS3ILsp+tFdS5d8DETox22Z/GT2GLJTKUgoggHYceknjOaOILZUlYNsljgygC2VBXGubHnQysvLGYhdWpiOQKycGEivGMqCL5FwFqMS87dhM9RhdmhbID+PtMR9iXz47ADib6MykFBcG+3rDQcbPUnYCS0kfeyrh0Ds0hYklB890lJQrGxcE0YwP7FjIBbB54UbGYg9qMQ+lAfZsqlkCqEszoPITtcgVlkRSE+s1aasCaUHsuWqDOTLxvcWZN+BAHHU5FdfQCx5C2IPKr0PxcpmQZwLJJQ2T5sh+lYCipXNgrhmX0s4F4h+dv50CaLlX9KLwmJseBCbogUpSoBqNW3r7cIDbdj5Uwmo0+aRnWAVW33/U/PIWPh79nT7CzIVM8hATdejAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4Xu3W+2rUQBTH8S6lLLuU+gCFCj6JT+AdtV5pRUURQRSlFEVrKd4olGpLlRYqpZaiFUFUFEWfbOSb+IsnJ7PLZhPFPxw4JLuZ7HxyzsxsBgb+/dYI8Yhd/+OtER5PHw4Ppw4mMXfrQJi9sT8JITYWJsL6/Nmw9uRMBOUfojI8BQkFSOExq49OheW5E7mB+cw1H3lUKWQjzN8+UkBxBKIQ6Nns8bBw92jSl2MMRH+L/ro9HT5vXu8PJRDnyo5Azx+cTEDq2wnEfV+2psL3nXvhx879BFQKw4/qqQVi0BhoceZYBrJZIATaXJzMgTjvEdTIlYGBNLn57EHAAQmzrzUYxttD4fSvEGp76Xx9IGWJ72IgZZJ7D7VSBGFBb1YuZCCiFEjzwoMY3IPUj/t2jYwkESvZ2xcX86BXN6uD+B6QUMok9+wZG8tAxHC7nQO9W71UL4gAYEGa0MqOUGBazWYGou+H9SsZ6NvrO71iaHmQRWn5WpAwAAhQu0dHC6CPL6/2C6Kl9efpu4GEsdEJ9GnjWr+gdA8iQ91AMYwPgehvQSU2xXTJx0CEftyWyU9mjyE7tYKEIhiAHZd+wmjuCGJLVTvIZokjA9hSWRDnypYHbT09l4HYpXvE0NIVFgPpFUNZ8CUSzmJUYv42bIb6Avl5pCXuS+TDZwcQfxu1gYTi2sTwUNjbHEzCTmgh6WNfPQRil7agEqgUFCsb14QRzE/sGIhF8H7tcgZiDyqxD+VBtmwqmUIoi/MgslMZxCrrBNITa7Upa0LpgWy5agP5svG9Bdl3IEAcNfnVFxBL3oLYg0rvQ7GyWRDnAgmlzdNmiL61gGJlsyCu2dcSzgWin50/FUG03xO3W1iMDQ9iU7QgRQlQr62IVNj58xdB3VoRWYz/rVr7CegC6S3qhUSgAAAAAElFTkSuQmCC",
     "wiki_name": "Obsidian cape",
     "wiki_url": "https://oldschool.runescape.wiki/w/Obsidian_cape",
     "equipment": null,

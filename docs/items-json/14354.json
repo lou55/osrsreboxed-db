@@ -1,7 +1,7 @@
 {
     "id": 14354,
     "name": "Frying pan",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": true,
     "examine": "Looks like it's non-stick too!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xt2W20tVURCHXUREIkkYHlIIfQkqEOslhMokLx0V09RMzUumZmaamYmZZmaKmRFFCYUg1UMP0b849c1mZHnL4qzDBgeGs2/s+fbvN2vWycjYP+Fkc8YaTnrb26W/o2MjYwKLigJD3uvq0owJzGnBntZW6W5p0eP7t7s1dwdLW0SqGAy/gDy406NpYORIX69eSyOUUwCy80azJsUobDl6t1/GBwfl6fCwPHs4osdcR7XAFkY2GcitpkZViEJATAwNKcDs4zGZn5iQ19PT+jvzaFTv8QyqoW4gKKcAbdcbNAHi5RTxVTGgxakpefN8RhYmJ/Ua98YGBjaUKi4oSAUq6hsgGmtq5GZ9vR5jHQWwxIBQZO7JuAK9fTGryTHXuM+zAVSK1AHkWlWVQvlANC5fjzU+EAq9fzUv717O6Tn3AqkUAQFSXX5FGpJJhbMl7wPRRwBhlQGtLi2pUlgZSCWnvQJEZWmp1FZUSHNd3Y59ZI1tQKjzcXFRwYKrhEVYZirR3LbS/D4yIFYaQB8WFuTz8nJ4lXgJEFfLLisYitkswja/sW2lAWG2AQYkwLzLFEpJJYqjDrb5zf0vtqESQEDb9E4BhnDqP6qg0k62/W21kSgHeAB1LJzagzJbbbP9a+uQRBWbR6jHcwHUsXDyffWT/FxfV3X81WYzyd9KbAQAhWrcs2YOAOTky8qK9oT1hm0l2GYjwKyzBkcp4KyRA9nl9CuRnUJWmC/eLYEy+3ybgsC0XUjoi7GFFUZTc25f7Kf/nwgL/SGYIgjhpPNSQprOH5NkcY5cPJUtxxOJbdJv/vLtkMFg+srzVJ3aczlSdiZbTudnStbhA3sW2Qq523P/EU4GKvM21KkoOipFJzIlkX1wT5g0xJ9tojpf1WkpyVWrzhZmSWHuoXhgfn37quqYVSUnj6hVMcAQTn6srenew/ygb1AnJhgimsQMPWYI6sQIY5GWJZtaBF6y+yN+Awwupfvq8h6+AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzUlEQVR4Xu2W7UsVURCHPUREIkkYXlII/BJUINWXECqTfMkXTFMzNV8ytZuZZmYXM83MvJgZUZRQCFJ96EP0L048s4yeblqS57IQDQx3d8+y8+zvN2f25uT8O+Hk54w1nAx0dclQd/dGxgQWFQWGvN3bqxkTmNOC/R0d0tfersd3bvRpbg+WtYhUMRh+Abl7s1/TwMixwQG9lkUopwBkz9U2TYpR2HL81pBMDg/Lo9FReXxvTI+5jmqBLYxsMpDrrS2qEIWASI2MKMDcgwlZSKXkxcyM/s7eH9c17kE11A0E5RSg80qzJkA8nCK+KgaUnp6Wl09mZXFqSq+xNpFMekrtKqK+AaKlvl6uNTXpMdZRAEsMCEXmH04q0Kunc5occ4117g2gUqQOIJdrahTKB6JxeXus8YFQ6M3zBXn9bF7PWQukUgQESF3lRWmurVU42/I+EH0EEFYZ0OrSkiqFlYFUctorQFSXl0tDVZW0NTZu2UfW2AaEOu/SaQULrhIWYZmpRHPbTvP7yIDYaQC9XVyUD8vL4VXiIUBcqrigYChmswjb/Ma2nQaE2QYYkADzrF3AWESzCHWwzW/undiGSgABHWh6O/UfVVBpK9t+t9tIlAM8AIyFU3tQJtM2+35lDklUsXmEetwXFOjL6nv5tr6u6vi7zWaS/ymxEQAUqrG2y2b2w8nHlRXtCesN+5Rgm40As84aHKWA22zkQDC8JbJTyArzxtslUGZfcJs6zyb0wdjCDqOpOd984830/xNhYYAh6IeTnvMJaT1zSGpPFsi5Y/lyOJH4g/S/Qmbe8ZfhZLCySNVpOF0gFSfy5XhxruTt3xOyyE7DSbK6aEOdqtKDUnokVxL5e+OBGasrVnXaywrVqlMleVJSuC8emO+fP6k6ZlXZ0QNqVQwwhJOva2v67WF+0DeoExMMEU1ihh4zBHVihLHIypb9H8HjB1KgYpr4f5MbAAAAAElFTkSuQmCC",
     "wiki_name": "Frying pan",
     "wiki_url": "https://oldschool.runescape.wiki/w/Frying_pan",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1778,
     "name": "Bow string",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "I need a bow stave to attach this to.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmElEQVR4Xs3W/0oUURQH8N2/pLfYR4gewBfwD4tKRZeixLKQIIxCJLFalsoQxEoqFAwxEVOCSFEMfbIr3xm+u2e+njvu7E7hhcPOjzvcz9x77pmtVC5/qwY/vPv/vFXDwuzN8G7mRhLNF9dD49lgEkRsLN0L64t3w9qHOw5KX6JneAoiCiCGYlbf18NKczQzMM5xTyOLKoSshsWXt86h8AsIg6BPjZGwND+U9MWvB0J/iz7eng2Hm9PdoQjCMWeHoK9vxxIQ+8ZAeO5oayac7L4Kp7tvEhDGuFqrJaGjS0unnW9NEAb1QMuvh1sgHHugzeX7GRCOCdLRpVUzy4CBmNw4V5DNnzzQ9ueJ8kCcJVyzIEJuD1xLAscAYdYU9PPLgxYIUQjEvFAQ3hwghSCu9PXlgva+PcyCfjzvHaSQyXp/AiGGS+aBfq0+KheUByEmBsLy/lmfaoH+7sy1MIVBCGI8CADEAB8D7X9/4oJ09EhrD2YxCN7DILY0WBA2hYIONp52C0prEGbIA1mUrdAE4ZqCsBEsyBZFHV1auuUVxGWKwWLB2SkVRJQNhcWC/UsDEYVlwS/eGJ8ABWoomNcBQpUmpiMQdogH4ucAILwx4Jo/zCGibJkgDDPU4eygtUF22TAwtzJBOI+B0I+zQgxLRc8gonAdCUoQ7rNoEsSaFcPYSp32ubClIG/Z7EB5oUtFDJMaNahAHcqCiMJ13UGxYImwFf332uPuQUhWBRWZIQ0scSkgXTZcZw4haTWh+d3Dc+yLXNv6OJ4BoQYVrkPeslmQt+UtiBUafUsBectmQbjn7TAEv2OYnRJAaOfzwAutPwwF4b+0BTEKgCoVlvW8UKANmz+lgDptiuwEy2j3/U9NkV7oM5e6nQGA8UIfgVzzTgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdklEQVR4Xu3We0sWQRTHcZ+/pLfTC+gN9EdFV1KKiq6EIIoiYnQR0QpB7EKFgiImUoogFUlRr2ziu8vv6ezZmWV3ny36o4HD3uZxPjtz5qxDQ/9+64V4xJ7/8dYLz2bPhqWZM1ksTJ8O85OnshBia+Va2Fi+GtafX4mg/EsMDM9BQgFSeMza09HweuFyYWCueeajiGqE7IXluXMlFEcgCoFezl8KKw8vZH05xkD0t+hvu7Ph6/ZEO5RAnGt2BHq7OJKB1DcF4ndHOzPhx96j8HPvSQZqhOGP6q0FYtAYaPXxxT6I8xhoe/V6AcR5TVCvsAwMpOTm2oNs/lSBdl/d7A6kWeKeBQly/uTxLDgHxKx50Mc3t/ogohFIeeFBvDkgDyGODQ9Xgvbf3S6C3k8NDvKQO6MnMogwWrIY6GDtbregKogwKRDL+2njfh/0/cODuhhaEUQIE4MAEAZ8CvR5c6wtiPZ7MIsh9IxBbGmwIDaFB33ZGm8LymsQMxQDWZSt0AJxz4PYCBbUoCjmW96DtEwpWCo0O52ChLLhYalQ/85AQrEsHHljPgEe6MODdR8QVbomhpbvsBhInwNAvDFwnz/KIaFsmRCMGWoFssvGwNrKAnGdAtFPsyKMSsXAIKG4T4IKxHMVTYFUs1IYW6lronJQbNnsQFXhl0oYJTU1qEEdKoKE4r7fQalQibAV/XD9XnsQyepBTWbIB0vcCcgvG/eVQyStT2h99/id+pJrOy9uFEDUoMZ1KLZsFhTb8hakCk3fTkCxZbMgnsV2GKHvGLPTAYhWzoNY+Pqj8CD+l7YgRQNQ3VZGKmz+/EVQVSsjy/G/DdZ+ATbt94RCGpWdAAAAAElFTkSuQmCC",
     "wiki_name": "Bow string",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bow_string",
     "equipment": null,

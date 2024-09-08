@@ -1,7 +1,7 @@
 {
     "id": 3991,
     "name": "Platinum token",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-06-25",
     "duplicate": true,
     "examine": "Use it on a banker or bankbooth to exchange it for 1,000 coins per token.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzUlEQVR4Xt1V8UsUQRT2/ST9Yr9IklCZYZJJV1FimGlYZibZcRxmapqZZWbHcRxiltlFZ5RZJEEkSD+IUhER/YEvvtlmd3Zmb2/3Tu+qDz52b25n5nvfe/OmouL/BLHFvwLEW99/8caXH39ElVUY8cPUI868fWcTv8skjPjj+qZLTImEyUX1hYmzy6uGEF1UIv1Yma+vERrEm99+8vrGV+GGsyDxm9U1XnixbKfsyfNXLjFrn7fEc2nlgy0sObtQjCjixeyKveH8syWx2PG6OvGEmMxL05G5p1nX2IPkrJiLdynIWiMUyIgYEWJMWq+6oxPj6fmMS5T8tgBBZEQp6VhOhjtelGnC+/1Emienk2EFkSsyL6bmFsWiudzxoyoqQC2RHU0+orb0saCUosbuTPuJIn79/pMxORfDuDM0OsHXYteNcZm6HOkrLAX5GB+8yZf7onypt98eO9VyhiMnTuerJeKRW5PiNOiLelEeYz9G4ze4q7uX29o7xe/BkXE+2hzhw41NfLC+IZ8ggIS1QUShBsbvzoh60P8Dkab2ji7hBIRAxP4D9Vxbu88uaJ90qSAREaLTN1EJ27HhxZ4+8e3o7Sk7kImpBLe0nuVDDY3if4iort6jnKzAYiSsSR3nuw0hknAIth9pauZjkZNCYGvbOSESz5qavWKsqmq3ax76kmwb+q6+kNcDrEYdIGrUDY4qChW1IIXDAaQDjuC9snKXEYDOAPWTC9amnRd6RC1AHDZ32x7+hKJWQ7skITdFCmQtFCMGBV9AHXnBqyDJ2NCP92ZSoicVkTI3zKjCCYoNDHsEta2gQE0SRN9CLW6bO94g3wap8mo0vtPuAM4JRG/KVeC4ltCfdtgdCRJ9CY10YGjM0y21kEsgCLBOIIShW6N54irBlXKlP1ZKdxxYm1mdG8JwJ+J6UW/2kgpy4FyikmUUY0EKUKl/88/gN4zWvwreH1V7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqklEQVR4Xu2V8UtTURTHPT9Jv9gvkiRUZJhk0ihKDDMNy8wkG2OYmWlmlpmNMYaYZbZoRplFEkSC9IMoFRHRH3jie1737b17397e29yM6Atf9na3d+/nnHvuuVVV/6aILf8VIt76/os3vvz4A7WjYMQPU4848/adbXzfITDij+ubLpgKgalJ9YmJs8urBogOlUg/dryvzxFaxJvffvL6xlfJRm5C4jera7zwYtnesifPX7lg1j5vyefSygcbLDm7UAoU8WJ2xV5w/tmSCwgwmZdmRuaeZl1jD5Kz8i6eSwAiI2JEiDGVemd2dGM8PZ9xQan/FgFERpTKuQjJyI6X1Tbh+X4izZPTybBA5IrMy6m5RZk0X3b87IYqCEZ2NIWM2tLHglpBjd2Z9oMifv3+k/FyPofJzvDoBF+NXTPGfWCg4ragkONDN/lSf5Qv9g3YYydbT3Pk+KnCQCO3JuU06JN6WR1jP0fj17m7p4/bO7rk+9DIOB9tifDhpmY+2NBYCAgiSW0QKNTA+N0ZqQf9Nxjb1NHZLZkACCD2H2jg+vp9QQtaiSQiRKcv4jTSjgUv9PbLf0dvT9mBTEwluLXtDB9qbJLfAVFbu8cBEhhGyXqp81yPAaKMDCHtR5pb+FjkhAC2tZ8VSHzW1e2VsZqa3a730JdU29BXDSCSVKMOEDXqBkcVhYpaUODIALYDGcFzdfUuIwDdRQJB1qJd53ulFgCHxd0Thj+hqNUSoCCSLcjVQm48LAwKvkQYJa+CJGNBP9+bSUlPMufZNoUDig3eKCcMRIGaJIy+hVosO5Bfg3T6SjRebhgodwLRm/IVOK4l9KcKAEEkfQmNdHB4zDNbZS5kL1knEGDo1mieuEpwpVweiFUyO7qszg0w3Im4XgLe7OWU6ldO/9f26Tcd4n6Hit/jRwAAAABJRU5ErkJggg==",
     "wiki_name": "Platinum token",
     "wiki_url": "https://oldschool.runescape.wiki/w/Platinum_token",
     "equipment": null,

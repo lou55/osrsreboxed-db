@@ -1,7 +1,7 @@
 {
     "id": 7533,
     "name": "Rock",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": false,
     "examine": "A rock.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvElEQVR4Xu2VbUsCQRSFnT8ikmCY4UuYGWYaZmYGaVZmZpqZmhER0e+/cWa467C6RbUvfZgDl53VZX08586dUMjIyIglaFGBS1C5UKDdbJY24/GgoQS16nU6OaxQpVikVCIhgdKRSBBQgoadDt1dXVK70aDTapW2kknaiMWCcknQ02BAH/M5Tfp9um42aTudsmLz2SVBo26X3qYTCTTu9STQTiYjYwvAJUHP90N6n81kAQ5AaGzE5rNLQjoCdwCDK3oJQHu5nIwNLq1Ho365JOjlYWQBvT6OLaD9fF7Gxs2NtYLyDEw1MiAYCHAMhHnELiE2uAS4BZjrUr2jA+GegTCL7C6thcPyinuX3VLurALipj4qlaypzS4BBoU1eouHp/3tP5D6V5g13wEdH5SlS4gNLukQcAiQvPt+uQPVjtJh0DOrgG7OW/IIgUt6bIDAmvvIUxgMRR0IxwdcQmwMgfjg2B9hWF9DYY3vcJ4hMhy0DAQIFNxyCYa13EMMhc94h+GAPavVZGwA4nIZRkm9TIExFMPcXrSXgNDY6CVPYHTpYIjSCQixeQ6jSwdzKt9gdPGPOpX9eSMjo/+mTzGw7dNZbogYAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoklEQVR4Xu2VXUsCURRFvX+khwTDDM0wM8wyzMwM0qzM7MPMzIyIiH7/iXWHo0NqEo3Oy2w4eEdflnvvOTcUChQokMrIaHyXkXw2K9uplKxFo35DGamVy3J8UJBCLieJWMxPICPtRkPuLi+kXqnISbEoG/G4rEYifkEZebm/l6/BQHq3t3JVrcrmesKv2Ix0mk35eO5ZoG6rZYG2kkkbmw8uGXl9aMtnv28HOIAoNrEt2CVjHcEdYPikSwDtpNM2NlxaCYcXBWXk7bEzBHp/6g6BdjMZG5uWm7MDNTcwp8hAKBBwCsQ+UpeIDZeAG4F5Lqc7biCeFYhd9NOl5aUl+8mzx2457kwC0lIf7u0Nt7a6BAzDmW55sDydf8WumQV0tJ+3LhEbLrkhcAjIf8PwRrlh6MwkoOuzmr1CcMkdGxCcPejRbBiWohuI6wOXiE0hiA/H/gmj+h2KM79xnxEZF60CAcHglkcwqvEOKRTf6RvGBXtaKtnYANLxGMYtB0yhFObmvD4GRLHp0hxh3HLAiHIaELEtCMYtXXLTJlCgQIH+rG+zeMLR0BVkvgAAAABJRU5ErkJggg==",
     "wiki_name": "Rock (Mogre Camp)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_(Mogre_Camp)",
     "equipment": null,

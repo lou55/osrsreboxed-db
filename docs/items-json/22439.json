@@ -1,7 +1,7 @@
 {
     "id": 22439,
     "name": "Justiciar armour set",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-06-07",
     "duplicate": true,
     "examine": "A set containing a Justiciar faceguard, Justiciar chestguard and Justiciar legguards.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADU0lEQVR4Xs2X/UuTURTH5z9QRL+nU7bQxXzB5sQ1N7bmS4KTqS1d86WkGEVmkYgUZSJZIYm9EWQEokNiv9QPURT1a//Uie8dZ57n7i728hge+HKf3Xuf53zuufeee+dwHH2rI7NM7YdudfRsOUHrSyNKa4txWr07rMQQO5sz9HFjirafpw1Q+iBqBs8DMRSAWDrM+6cperM2YXGM32jTZYWqCLKONu6PFkGhBAiLgV6tJmnz4bjqi9IEhP4S+sf+Mn3bvVMdFAPhmaPDQO+eTCog7lsKCO99zy7Rr9wj+p17rIDgo62hQUn3rlk+7DxqObJaJIHwjLqyYOQ04PdY+BQlBzspeNZFg0EPDYW9FI+2UiLWTmP9HaptYshHl4e7aHrET7OjPTQ3HqDryaAq0e5xHlPfsh0o3OWmaHcz9QVajHAAAxRAMhO9Cgr1EgiqCIjXhQnI3+akQEdTAQ5ggAIQ+iBKDHMrHVGlEWjvXm1AGDlAFlK+inRoQBg5osKOdt9+KHIuxe0moJ+fHhRgqgJKRusVEKYotxakFyvrSnj2d08Xidu5D4Bam44bgXTvJSy/TbdWLhaAsFDxcQmEKEBcD+G3hLEBKJ+DECEdaGu+0zJ6CcVC3bVEWyFSeAeSQDIp6t41y295ExByCzsIel1KOhzL5Y5b+ugRsg0IWzx94Qz1hjKqhBZvLFhgEBnuA/GitgUIQt1kzKlyCxIhO7460qqkRwdAsv7zXk4BdbhPqG8hSzNMWUDYYeUAZcbalXQgREzW60CIUJnRgR0AMZQEQkZmR1i4KOWukota1h0aEM4sdjQz7KU/2fmiXQbJKeM1JIEYSvdusDyQnDbUTfU3qkMSQPGQixIRN42fP02X+lpocsCjFjEATWIgX/NJ9S3koArykBWIr6YMhAM04qunmN9JAz2NNHSuqSQgq2Yg7LJSQPgwTnucaXwF4ZNeXj2QItD/ZipkHxBDSSBA8H2I70ISBucdw+jXDwZCDqo4D5mmzQ7hUlYVkD5tWNyow8V+d2tWtcl/JXjGzQBCP77Uo2/25RX6sp2hrzu3qwGCFY/MJAkjpQPtv56zALEqAHI4OK3/SzqgFCIJIETHFqByTYcsB5Z10Pc/mQ5pkv7Okba/f37wOvPKpTYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xu2X/2vSQRjH5z9QRL83nGhshm6ynGPmFM19SVBxmqm5LzUKKVorGmMUtYa0itGwbwQtguFkhL/UD1EU9Wv/1DPe9+GR+3yx/KiLfuiBN3efu/Pudc/dPXf29Pz7ZiFjGdUfulnoyVqKNleTQuWVBG3cjgsxxO72PL3fmqWdp0UDKO0kOgZXgBgKQCwtzNvHBXpVzqkGxjfqtFJDmYK00NbdGR0UUoCwGOjFRpa272dEW6RGQGgvQ3/bX6Mv1VvtQTEQ8uwdBnrzKC+AuG0zIPzua22VftQf0M/6QwFkCgad8qzlmXUiGQh5pfyPZlEtA77ToROUnR6mwGk7TQecFAu5KBFxUyo6ROlJj6jLxbx0MT5Cc0kfLcyM0WLGT1ezAZGi3mk9IvrqOlBoxEGR0X6a8A8YwgEMUAAp5cYFFMplIMgUEO8LIyDfoJX8HlsDDmCAAhDawEsMc6MYFqkh0N6dzoAwc4AsF7ymdGhAmDm8wgNVX7/TDS6L642Avn+41yoMTA+UjfQKICxRvRygZ+ubQsj7Rud04npuAyC37Wi7QDDlmFbWzzeAsFHRuQwEL0BcDuFbhukCkBKD4CEtUGVpWDV7GYqFsiupwYan8BtIBjIRFJUjbwSE2MIDBFx2IS0cy+5IqNpoPdQ1IBzx4rlTNB4siRRaubasgoFnuA3Em7orQBDK8lGriC0IhDzw5aRbSOsdAMnlH/fqAsjjOCb6QpRuEQamnLBWgErpISEtEDwml2uB4KG2gBhKBkJE5oGwcZHKp0re1HLZoQHhzuKB5uMu+lVb0p0ySF4y3kMykAkoBUheNpTNTvaJSxJAiaCdUmEHZc6epAsTA5SfcopNDEAjMZC3/7joCzHIRBxSA/HTlIFwgYa9vRT1WWlqrI9iZ2xNAVkdA+GUNQNCx7jtcafxE4RvevnpgRCB9tcLwe4BMZQMBAh+D/FbSIbBfccw2ucHAyEGmY5DRsvWDeFR1haQdtmwuVGGh321siDq5H8lyONlAKEdP+rRtvb8En3aKdHn3ZvtAMH0MzOSDCNLC7T/clEFxDIB1KrpIVnwJIDgnb8I9DvTQ+r13zqzAzV6pa7FOqFNAAAAAElFTkSuQmCC",
     "wiki_name": "Justiciar armour set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Justiciar_armour_set",
     "equipment": null,

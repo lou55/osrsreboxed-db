@@ -1,7 +1,7 @@
 {
     "id": 9419,
     "name": "Mith grapple",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": false,
     "examine": "A mithril grapple tipped bolt with a rope.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xt2V/UsbQRCGPUQkEgxiyGHEjyiJ5IOYHJoqMWBRm6YVarHW1rZSpVAo9Jf+/zD1mWNyHyam2jOCA8OR272dZ995dzMx8bzDkcH5JOHIZuNEms1T8bwzqdePJZtdk6mpmaeAchSi1bqQFzvfpN2+lq3tTwpYLh8qUGN1dVxQPgwg8VYBVa29kVRqdpwq+YVNhXDybn19T0qlLcnliuOAclSBMEx4DB953qGsrGxLPl/tty+Y8ygxCMZ/jzKVSlehSdct9+GjcxOOuDIkBrdThzq0DKgxnzo805Ru93v/1HH0DZJ3KDYWlShSq+2pIpgc32Qy+Zi/op6Lr5BgRC9FUyQKE8xLACj+V2Dpj8Vhwkc/DPO6d63zOH3B9/cORwrutMynJ6W4NCebpZwsZqclnZrURY87632g24oEazBuOXzeyHBkf2tZi37pVaW3Pa/Pn6cNqRdmFI48PSjdUcS/OC2HzxsZflteNjLyuVuRq3d1+dDJyq+zpvw+9xSu115TtWzu4DY4kb+VB8OgTKexKLv1vBzvzMvl25r8+dqSq+6CXB65cnHgqlqM085WdUHVGgZ121P/FP4ugEEV1EEBlAEAmLAavN+tzEprIy3NYlrbaMXjKw96NyIcXZzs1DKqCG0BrrqWjYCEExhASGvfA4rHI9oinsiPAngHE1O4kJ/V9waLgihTWZ7RlnHyhrftXuGoQQ9aKwrz8Wijb1gMTJ7v5xQCmB/vN+WkndXfzLfv2BQbSkAlR072i3q8X+0UtCjKsHN2veSm1T8ohlqcNL6hTSiEevH8T5V8IIyMh9y5KS2snrrZMTtHBWApBqRXdvX+oW14zszN8y5z3yMcPcbsGB9wK9MS2gcoY9YuroEjb07HeBoQ0HxfXEwlAUT4XkIRTEqLALA22aXIFYCH7B4y9UiADCYRILxjEOyeArQIxYDsm7jmt8qSlgOUIAzh9FUIK6FFb0AoiPHxjrWR9tFagBKGsQguPfuboHXmJyBMRZIxoB8Jxo9g4QCMewgA85KlzXk0mHiEwQalgYwFJhzhwvGMz31W8Rfi863dnYVN8QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu2VbUsbQRSFHUQkEgxiyGJEJYZE8kJelrhVYsCiNk0bqMWqrW2lSqFQ6Jf+f7j1ucskutk1tW5XKL1wCe5OvM+cc2YyM/Nvl5HwfpIy0mwdS7t9Iq57Ko3GULLZTZmbW3gKKKMQnnchz3Y+S7d7LZ3t9wpYqRwmDeTDABK0Cqha/ZWkUotJQvmDwwcaKRb3pFzuSC5XilgTaxlVIHyQ0Ry57qFsbGxLPl9Lyr6oAUaVqVb7Ck07TiUJoGD5+SHg9tShDpYBlfCpIzNt6fe/jE4dR99C8gzFEgIyUq/vqSKEnNxkMvnA8PsyF2vdvRStIpOD/XWTzx9ctwcEh4XBhJWRl4NrXcfpi143tYwUnHlZTs9KaW1JmuWcrGbnJZ2a1X867BVHQNFDjL63Hb1uahnZ76zr0I+Dmgy2l/Xz20lLGoUFhaNPDsr3DPEvTtvR66aWb8vzVkY+9Kty9aYh73pZ+X7alh/nrsINupuqll0bPswEflb+qHxleq1V2W3kZbizLJev6/LzkydX/RW5PHLk4sBRtXiPnV5tRdUKHxr27LfK3wUwqII6KIAyAABzWw2e71YXxdtKS7uUVhsfMTxYRv853atnVBFsAa62mQ3YMm5gAKHH9j267lrEJ/KjANkhxAwu5Bf1uYVFQZSpri+oZZy8aNseVEYDeuBtKMzZ0dYosASYPt/PKQQwX9825bib1b9Zb7/HpthQLEDH+yU93i92CjoUZdg5u15z0pofFEMtThrfwSYUQr1gPxLKByLIZMhZmtPBmqmbHbNzVACWYUC6FUfvH2wjczbcfMYUbqPHmB2TA25lLME+QHln7eIaOHKX9B2fFghovl9aTcUBRPlZQhFCikUAWJvspcgVQIbsPWTVowGKCYYymh0Lwe4ZgEUoBuQoxHXfKttYDlCMMJQZqXBbCR16A8JAgk92rI3Yh7UAxQxja3zp2Z8JrLN5AsKqSPMO6L8EE6wxGPcQADZLtscbSLTGqk32/0q2fgHY/VIdeDVt4wAAAABJRU5ErkJggg==",
     "wiki_name": "Mith grapple",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mith_grapple",
     "equipment": {

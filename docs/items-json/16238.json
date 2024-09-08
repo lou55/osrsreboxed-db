@@ -1,7 +1,7 @@
 {
     "id": 16238,
     "name": "'perfect' gold ore",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-04-09",
     "duplicate": true,
     "examine": "This needs refining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZ0lEQVR4Xu2W3UsUURjGHZZhmUWSUAyT/EhU0jCTSiSTBTMxJCRJkEgQKhCKEIQihCL6uOgiCLroIugi6CII+gvf+p3Ts3NmdtWR3PWmFw67O3vmzO887/O+c9ra/seRR2TpOPaIbLDnhI0PdtmFoe4cVAjaEuDIejorNtrX6WCWZ4bcQycHBtznvcXYHizH9ng1ts2bsd2ei5sN5dURjIAYC5dKDmZ7rWwfHiX2803FQaXATYkoAyOgqZGSrV/3MO8elu37i8R+vKq436GCTUhlVKeM1Nlaie3lZtm+Pk8cEIPfmsNGqpN9duPyoC1Nnz1aKO1aO0edZ3fL9mk7sW+7fgBG6vi/qyP5o+IpB7I6N2Jr1VFXFIeAysublTqF8XPlGyC+PM0O/j/T3e6AVmaHbX1+zDaXJtx3bSx8coOIrKO97HZFRbEYRh7uPdlgVx7y9f2ye/jnHT/ym+BegATDuLswXgQoskoS13oMi1w512PXJnrdp/qOUjU9VrKd9dQnGlJQ87hvfqrfNhbP14CAI33ZDdaFVwcgwcyMn3Zm5JNrIRBmxrgoFFZUdteRW4eHC4hPgBrPr0WaKqkDBOpQGVIpBLp11QPhn49PEtvdkFrZdbkfz5AmAR0AQ/hqwDehOkhNmUulEIjqAgjf4CFM/X4rDxW5NUJDF/BPCoOJw1SpVFkElUIgOrGA1Azp0Flj+/XdBv4CFVInrKYwVdoZQACGQBgaRVDm19uKGwDRh4BSH+IJuqcADOFLk5cmhpY6pIomBhAD6UMgzIx3AAIEIFTiN00yVSlVqwAMEdXe4PhH6pAqQIBicC0F8vehAv5RukidGiJt4U41dgO/CapA+F6hypIJBQIYQ++gEIghDwmIa2P9bVa9WHI+4xSg6wXUIXyvkHeUKoEApxGmQKnlO74BSP/NTnh1OBsBTBoPBQRIWFUhSAjBIL2Cka805C8OZ5wAZHpVXmEgFpZv8iCpEVMYzQ/TGM4DhkYpGMwfVt0BEbmF9wIJYUitYMKzUXbnkTuohcrk10zn7hn1N+UfgumlCiBKbT2Qn99ovfp5+8T+N3nj54Ewf2Ogg9b75/BVJSC1BfpUeqRtafhKFJCaZviibJISe0VUO6QrXcCER4n8HS2IbD/KmzY/uyWRr5hjhWlV/Ab++22Er93IqAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xu2W30sUURTHvSzDMoskoSibpJiotMZWUolksmAmhoQkCSIJCxUIRQhCEUIR/XjoIQh66CHoIeghCPoLT33u7czc2ZndnSWnXjxw2d3ZO3c+93u+58zt6zuOIw8j8fjvYWSiekJmJ4bk/ORwC5QP+k+AjVQHKzIzNmhh1hcmvYcaubsayP31QB5tBtK8GcjtpaBoKKeOwsRARlYulSzM/lZZ3j8M5cfrioUqHMiHUaC56ZJsX3cwbx+U5dvzUL6/rNjfvoIFpNKklFF19jYCedEsy5dnoQVi8FvnsJHGhTG5cXlC1ubPHC1UcjFj1Xm6U5aP+6F8PXQDMFLH/0MD4W8VRyzI5tK0bDVmbFH0ANUqbyepTeQbID4/SQ7+Pz3cb4E2Fqdke7kmzbW6/Z69XiqMDPSX7a6oKBbDyFOjJzN25SBf3Svbh386cKN1E9wLkMIwdlZm8wAZqYRB1GNY5MrZqlyrj9rPZN8xMl8rycF27JN4JNfkvuW5cdldPRcBAUf60vMT4dQBSGEWZk9ZM/LJNR8IM2NcFEpWlB/GrsPDFYhPgLLnRxGnStUBAnWoDFXJB7p11QHhnw+PQznczYIy9n48Q5oUKD0vFa4a8I2vDlJT5qqSD0R1AYRv8BCmfrfXCmXsGr6hc/gnhsHEfqq0VFkElXwgOrECaTOkQyeN7ebaDfwB6gJDuNLUavJTpTsDCED/IRgaRVDm55uKHQDRh4DSPuQ/JwcM4UqTlyaGVnVIFU0MIAbS+0CYGe8ABAhAqMRvmmQMkBtEw0RvcPyj6pAqQIBicK11x6iAfzRdpE4bIm3hTiOwA7/1AOV6hVaWmlBBAGOk30Fu5+ohBeJabbxPGhdL1mecAvR6fG/HcL1CvaOpUhDgdPgp0NTyHd8ApP8t1p06nI0AJo09AQHiV5UP4kMwSK/CxL7yfWLs4YwTgJo+rrxc4XqF+iYNEs9TGJ2fTqObBwyNUmEwf7rq2oaxC7cHcXOAIbUKkzwbJedyUEsqk7Vmx+h2EyfDkUgVQDS12fd0W++vwxm/FQjzF/jQTuGqSoG0LdCnstNWeLhKVCBtmjlelEWFiQ7pmi5gch4ligrfqIWb9jjaxi/IFgCQImDGlQAAAABJRU5ErkJggg==",
     "wiki_name": "'perfect' gold ore",
     "wiki_url": "https://oldschool.runescape.wiki/w/'perfect'_gold_ore",
     "equipment": null,

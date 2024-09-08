@@ -1,7 +1,7 @@
 {
     "id": 17717,
     "name": "Dwarven battleaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "Three sapphires have been crafted onto the hilt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xs2XbWvaUBTHva+KIC2ywhDZLJM5NOITtipqozi1zmG1WueqrkVsu7rRDsYYlLG3+yb7jnt15v/Em4TseY2aA4ebnNyH3z0PN4nL9UcR9HtdqQiqVVUatMrUaxTpsJqjTY+bvFse2r63RX7f9nqgRqMu66R/wFDPK1nWdCy0DigjPIMXbfaWGaqwG6WA//6qoATtJuL0JBjUobrdJnXqBYYy66OHvmVAWZN17pV2mzLJJNsSOzvcTgfPdCi08loJBSzj7ySCkkqQ3R8OPjA80mzSQblEPq9Xt72fHlO/qeowZqhMIszz2AAlOCfq+2me1OyRk6MOZcKaDfpu0qXrsw5XHkDQymvMIcdq4/9bBO8QO39aSHEFGe6fw2azpAQC/Oxq1KIPF32uOgmDcWjLuYRpM3cSwTsctis6FCoI4VMzMc2WSnE4xkdV+vh6wFCwm9VWIOwQi0ExOcIHsFwqwt5DMheiUWqU9jiPAIXQoS+OA6jtQGe9OiugsACgkBeAgK1TLFDycZDhbmcvGQr9JRA2sBQg5IdcCFB4hutxrUqNzB6H9/P1WM8xPEO40XdpQPACWgmFBS9PmvTp7ZDKSXNoBL151ebn5iqzrvCPIvQwWaGgEgo29O2XVMopkYWHjPHINduAUM7wAGCwWwkFGxQ25JIM02E+R16PR78HOLxsExDEOHcAgB0DCgvhHsCAMr8ikE+bbrd+L2FsAnK5jMm0vAAQyhpQAIINYcHZJAGQTxLKVpgfRfDhh1cFQOAlWX0IjawoKM4n98bG4n6pYoTiZ2r2KN53K4GSi/5KjZ6C4oqigxr2tYmgUj5PqZjMr7WLoIvxmCrFIn9pOgbq6vSUofzxG+dA4UuzpqpOySdBN+dTOm61KD355hwvSajbL1+dAzUdDvnPZT+rfQVYe6xY5if9bMZQ/KOw+J2y9lqxaFA4Dka9LkVC8udhraJBwUuy6hxReX8D8x1L4oWb1IclsgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACu0lEQVR4Xs2XbWvaUBTHe18VQVpkhSGyCZM5NOITtlGMjeLUugyr1TpbdS3iutWNdjDGoIy93TfZd9yrM/9HbhJldINGkwOHm5x7k/u75+HeZGvrnyLoft2oCKrXdBq0KtRrlui4VqAdv48Cu37ae7RLoeCeO1CjUZd10j9iqNfVPGsuGXUDygrP4E2bvWWH0vYTFA493hSUoP10il5EIiZUt2tQp6ExlF2fPQ2uA2o1WedeabdJzWSWbNPBKxMKrbxWouGV5x8kgjJKhN0fizyxPGIYdFQpUzAQMG1fpqfUN3QTxg6lpmP8HgegBOdE4zDHL7V75PykQ2pM2gR9nnTp5rLDlQcQtPIa73AABiJ4hVj5Sy3LFWS5fw6bz5MSDnPf9ahFX6/6XHUSBs+hrRTSzgFhhcN21YRCBSF8uppc2LJZDsf4pEbfPgwYCna7OgqEFWIyKF6O8AGskI2z95DMWiJBzfIB5xGgEDqMxXYAdRzostdgBRQmABTyAhCwdUoaZZ5HGO5udsZQGC+BsIC1ACE/5ESAQh+ux/UaNdUDDu+Pm7GZY+hDuDF2bUDwAloJhQnfnxv0/dOQKhl7aAR9fNvmfkerTIZpFQoqoWDD2H5Zp4ISX4LC88g1x4BQzvAAYLBaCQUbFDbkkgzTcbFAAb/fvAc4vOwQEMTadwCAFQMKE+EewICyHxHIpx2fz7x3EGZVFnkBIJQ1oAAEG8KCvUkCIJ8sqLWK4M0PRwVA4CVZfQiNVVGC9yff9vZmoO5XaxzOuw1B/a8ISimKt4DKxSJlkzK/XBdBV+MxVUsl/tL0DNT1xQVDhVK33oHCl2Zd170DdPtuSqetFuUmv70Hdffzl3egpsMh/7kc5h37CniIzHf62Yyh+Edh6XfKNVlAYTsY9boUj8qfB1dlAQUveQBGyurZ93f5A/w/U24XnO4iAAAAAElFTkSuQmCC",
     "wiki_name": "Dwarven battleaxe (Sapphires)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarven_battleaxe#Sapphires",
     "equipment": null,

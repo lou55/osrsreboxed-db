@@ -1,7 +1,7 @@
 {
     "id": 22936,
     "name": "Celastrus bark",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": true,
     "examine": "A length of celastrus wood, ready for fletching.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRElEQVR4Xs3V+0sUURQH8N2fwghCEgTDR4WEGVpiqSRKYBm62Jq1LZn5zM0HZZiFSFEp0gtB7EGFgiEmUoYQFUVRf9mJ7x3O7JnTXd3ZpvDCYWd27sz9zLn3ngmFtn4Lkz1s1/95C9PjiTZ6ON5qYvpWlKZunDbBiKXZblqc6aSFJ5csKP0Sfw13QIwCiENj5h9dpBfTFzwD4xzXdHhRvpBhmrl99g8UfgHhYNCzqTjN3o2Zvvi1gdBfor+vTtDX5dHMUAzCMWeHQa8etBsQ900Fwn3fVsbp59o9+rU2aUAY41BRkQk9umpO2vmtGYRBbaC5++ddEI5toOW5Hg8IxwzSo6sW9kwDBuLFjXMNwuBA8PSmAq0+vxwcSM69DcSZZBCypkHvX/a7IIQvEK8LDITzyMlqaqivoPqaMhfGILmgNwJ9eJ3wgt7ezBw01BulkUQbjQ3HqCN+glojtZ6syR2ZCrQ+PxAcqKf9FI0OnqPJ8S4auxajkcE2GuqPUqK7mbKytnlwNhCy+Wlx2AX9eHfHxfgGMYpjoK/FRfV1NFFXvJGqKkqodH8hFebnmj420Oc3V60gPXqKlnxbXtiYDjzcg+tuoURns0HFovVUe3Qf7S3IMdc06MvS9UxBTg1Chmwg7DLeaRLX036MOmJVFG+tdFEMQ38JkkVRj66as+VtIIQGyQrNgHhLJUUayqi0JI9yc3aY/wIFMQoBECouBsCxrNAIWbMajx+ggrzsYEEyS/iVIPSTFZqziHvwnLqqYsrL3WmOV572uiBUacakBcIOsYH4cyBBsiDaQDxl+GzIDKWZHbQkSK8j3soMwvlmoF3Z280xPhuBgRiF/7GQGYTrev1wJvGc6sN7qOJgvjttEsQoPbqlOSDbtPkBcb06Ul5oUDVNpeYcINQgH3XIC5LTJkG85fV0SRCjzlypo9pIGRWX7zbnvkFYrJuBeMvbQLzW0BeZdKbGiYwyxCA9bfhfgvSC5lqF+7gvQNjyHxcG3TWEGuS7DtmmTYJsW16COEPoGwjINm0ShGu2BY1AP/7EBABCS875RqHXD4cGoShKEIcPUCjEZX2j0EAZcv0EAkq3aWQ6WI5k3//UNNIW+p4t3X4DplWGhuNbOp4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xu3V/UtTURgHcPdTGEFIwmCho0LCFpOGpZIogWXoWLPVGi3zNZcvlGEWQ4pKkd4QxF6oUDDERMoIoqIo6i974nsuz/W5Z8e5O2/RDx142L27597zuec857klJf9+85E5TNf/ePPRo4kEPch2qJi+Gaep66dUMGJptocWZ7po4fFFA0p/iS3DLRCjAOLQMfMPL9Dz6fOOgXGOa3o4Ua6QPpq5dSYHhV9AOBj0dCpFs3eSqi9+TSD0l+jvqxP0dXmsOBSDcMyzw6CX99MKxH03AuG+bytZ+rl2l36tTSqQKwweym/NIAxqAs3dO2eDcGwCLc/1OkA4LhDkcywDBuLkxrkOwuBA8PJuBFp9dsk7kFx7E4hnkkGYNR307sWADUK4AnFeYCCcR0/UU0tzhJobwjaMQTKh84Hev8o4QW9uFA8a7ovTaCZB4yNJ6kwdp45oo2PW5I7cCPRhftA7UG/6JI0NnaXJbDeNX03S6FCChgfilOlpp9LSbQ6cCYTZ/LQ4YoN+vL1dKAbNCWIUx2B/zEb1d7ZRd6qV6iLVFNofpGCFX/UxgT6/vlIsCG39bTmxsRx4uAPXE6NMV7tCJePN1HhkH+2tLFfXdNCXpWvFgqwahBkygbDLeKdJXG/6KHUm6yjVUWujGIb+EuSiKFpb3gRC6CBZoRmQitVStCVMoeoA+ct3qP88BTEKARAqLgbAsazQCFmzWo8doMpAmbcgOUv4lSD0kxWaZxH34DlNdVUU8O9UxytP+mwQqnSBGDRrh5hA/DmQIFkQTSBeMnw25AwVBdLziLcyg3C+GWhX2XZ1jM+GZyBG4X8kMoNwXc8fnkk8p/7QHoocrLCXTYJcoCyQadncgLheHa4JKlRDW0idA4Qa5KIOOUFy2SSIt7y+XBLEqNOXm6gxGqaqmt3q3DUIyboZiLe8CcS5hr6YSWtgK4qaIQbpy4b/JUhPaK5VuI/7AoQt/3FhyM4h1CDXdci0bBJk2vISxDOEvp6ATMsmQbhmSmgE+vEnxgMQ2vqa5ws9fzh0EIqiBHG4ABXacpEcMn/+Iihfy0Xmxv+2tfYbXFE7+hxLbYQAAAAASUVORK5CYII=",
     "wiki_name": "Celastrus bark",
     "wiki_url": "https://oldschool.runescape.wiki/w/Celastrus_bark",
     "equipment": null,

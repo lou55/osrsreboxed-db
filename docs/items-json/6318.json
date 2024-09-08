@@ -1,7 +1,7 @@
 {
     "id": 6318,
     "name": "Red topaz machete",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "A jungle specific slashing device.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xs3W/UtTURgH8I2QSxFCCIYKJvsh6YWQiKX4soluy4ypzLmVomVY9EIgSSVWWIm9GILYCxUKhphIGUFUFEX9ZU98z+W5nvvsbG7uFh542Lzn3J3Pnue5Z/p823/4yRym+X8+/DQzkaDH4z0qpm9209RYlwpGLM+do6XZIVp8OmhAyS9RNNwGMQogDolZeDJAL6fPuDbG35iT4UYVhPTT7J3eDBReAeFg0POpNM1N9qm1eDWBsF5H/1yboO8r17eGYhDec3YY9PpRvwLx2mwg3PdjdZx+r9+jP+sPFAh71NXUqJC7i2Gnnb81g7CpCTR/P+WA9CzosTI/7ALhPYPk7mL4XWXARtzc+FuCAAeINz7RGqZoKERtzc0Ubmyklvp6agoG1ZxnIM4SrplAuOdkexudikTUK2LSaqUxq8mBfnh1wQEhCgJxX0gQNtdBvFkyHleZeWhF6bYVplGrwZnjHvr45qIb9O5G8SBcBwiBdT0dHZTo7FSYKavdCOH4tHDJWxACpWQMsgIQyoPMcHnQT7hfxyCbX5auOqBf7+86mIJBOgofjvl0d7fKDHpmxorRLatFXce6bKCvb68ZQXL3LMNOOz5cB+HaQG9CZacrFlOlQs+MlBxzgZBJCfq2PLpVkH0GIUObgVAq7hvMYx3ukyCUWQfph6LcXQz7kTeBEDoIvYPsnC45khOE7HgKYhSCQWhmHH5cKm56BslyeQbSs8Sn8WBfUjU0nqr4jlpXdrKBVp+dd0A4pRmTFwhPiAnEJ/LZVIoihyuotqI0IzsmELKz9mLElaE8s4OxAZJ9hOuYTx6vpvDBvXSoanMQlws/G56BGIW5dMM+6qyrpGCgjMpLrQwQZ1KCcErrIEbJ3Q3DBpnKhrmuo1VOdqrLduUFwr8dnxcvOyCcQQWcQ24Qo3B9tOMADTUHVIYC5bszMCYQslM0CE+ZCXQlup+GQwGVpco9O7OC+GeDy+UZSJbNrvlGYHNZLgbhMxiER14H4Qwq+BwylY03wTfG+1wgvX88AZnKpoMwB4QJxD8bXK4iQRju0mQL2T8cEoRDUQdxFADy+fhYzxUSqIfeP56A8h0SmQ+WY2PtfxoSaQp5z7YefwGAlnP+t4spxgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xu3W/UtTURgHcEfIpQghBEMFg/2Q9EJEhCk6N9FtrcU2mXOrRMuw6IVgJJVYYTXsxRDEXqhQMMREygiipCjqL3viey7P7dxzz+budot+6MDDtnvuveez53nu2Wpq/v3hI33o5v/48NHMZJoeTvSLmL6eosJ4UgQjlufO0NLsCC0+Htag1C9RNdwEMQogDhWz8GiInk+ftC2Mz5hTw45yhfTR7K0BBwqvgHAw6GkhR3NTg+JcvOpAOF9Gf1ubpC8rVytDMQjvOTsMevnglADxucVAuO7r6gT9WL9DP9fvCZArDG7K35pBWFQHmr+btUByFuRYmR+1gfC+TJDPVgYsxM2NzyoIcIB44aM9IYoEg9QbCFCos5O629upq61NzHkG4izhmA6Ea4719dLxcFi8IqaMHho3uizouxfnLBDCFYj7QgVhcRnEi2USCZGZ+0aEbhohyhsd1hz30PtX5+2gN9eqB+E4QAic1x+LUToeF5iC0aeFcHxYuOAtCIFSMgZZAQjlQWa4POgnXC9jkM1PS5ct0Pe3t8vFYNhBMgo3x3wulRKZQc/MGFG6YXSL4zivGOjz6yuVgjDMtOPmMgjHhgbSIjvJaFSUCj0zVnvYBkImVdDGcr5SkLkHIUObgVAq7hvM4zxcp4JQZhnkYlM0H3kdCCGD0DvIzonaAyVByI6nIEYhGIRmxubHpeKmZ5BaLs9AcpZ4Nx4ezIiGxlOV2NJqy04x0OqTsxYIu3SZGAzzCdOBeEc+nc1SeH8jtTbWObKjAyE7a8/GbBmqCKT2EY5jPnOkhUJ7d9K+5s1BXC78bHgGYhTmch27KH6widr89dRQZzhAnEkVhF1aBrlAmSBd2TCXPNRsZaelfltZIPzt+Lh40QJhD3KxD9lBjMLxfGwPjQT8IkP+hu0OjA6E7FQNwlOmA12K7KbRoF9kqWnH1qIg/tngcnkGUstm3uB3YHG1XAzCPRiER14GYQ9yvQ/pysaL4BvjfSmQ3D+egHRlk0GYA0IH4p8NLleVIAx7aYqF2j8cKgibogzicAEqdziRHHL//EVQqeFEOuP/qG78AjaSKXKMZhAPAAAAAElFTkSuQmCC",
     "wiki_name": "Red topaz machete",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_topaz_machete",
     "equipment": null,

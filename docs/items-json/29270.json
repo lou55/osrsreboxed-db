@@ -1,7 +1,7 @@
 {
     "id": 29270,
     "name": "Guild hunter boots",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "The boots of the Hunters.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xu2W30tTYRjHfQmRjeGQjR08Y84d2WRbzBQzRTNGlvmDXKZmilnSwpB+EHUhFQRBEARdRBfddBdd9Ed+2/c5PHNnZ66cU2984GUD3/Oez/v9fp9ndnSc13mdehl415mWQaynCz3dnQgFLsg6QygDOxbwAFnBTgG61N9/mlCuNX29QQ9QLhJEpMtVqDHQiVhr8G0vjR8vB/Fpx8GrlQQezfZiOBZCOhxAqPMwIL+abYX6sJXCx+0UPj928GatD2NWMyC/mvFQV4N9xyojQITZv+8uvsQPZOAkQh6gE8qawden6SrU3lIcqe56ICPW0mIFojqEYdZ0b/3JLZbB92cZfHkyIPYxS4cBEZx5e7eZlH2Ep73NG+DIZfDzdVZuzxzxZY0z5CpZC3Q1HpaObLNtBuWtKTxcH8f6nVHcXRjG5eEkrGjIB0QlFfrFchyFaFBWG4NtsLM5iY2VMawujaA0N4T5mTymJ9Jw+qI+IFWSKjH8CkSL1Tbv+Ucqg621K1VVFmcLmC3mUJzKiELZtFUXVoPd7WmPkgTPZ23YvWEEA8ey7SDI7C7elhaU521sXLeqNz94gWurqkkYKjk+mmoHkMGv/ZzAEITh3F20ZUoTaMLuluFIG2qBCEJlaC3VnLmWxUghgaF8pdOcWKtABn/e57Gz4GC16A5BAnH+8JMg/Ong0s7hqu0uKkNraReBuKiSvyv/WQbPVwext5zBbiktQHwJLeP8IQRt4qd2DRfnDzuLe3RwUk1ay7bnJfhcC7PIC0SV1meSYh2t4jzRH1aF+f02L3+nMoRhzghEi4uJsAeohVlkBIIw5dsD8n37loPNmyk5kCD1QeZe7iE4lVQwhdG81ap6JKDSQBSLTkReQssWJmw5UG+qByoQFVU1CU6LS5NRD4hewvvsf1fl1kOVjrpYyUDWwkomirlURID8Bxqxl2qqSsvTB8GvHw0twGi5t7k3GBPFCOSHcfdRGQVamopX86J5a/xcC6WWNJfaCOyNZI8nM/zut7dN1Vxq195ywcaDnCUWE5BQJwLzf1X/z3wzRU+palVsruh5Hb/+AtEMspjf0+1oAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu2V32tSYRzG9xIyFJmI4mFHVDxDRQ3HxlobWwtpZftBM9vW2ljWyFhIP4i6GBUEQRAEXUQX3XQXXfRHPvl8D696dtzWnJsw9oUXBV/f83mf5/l+z8DARV3UmZeCc/W1FCLBQQSHPPB7L8nqI5SCGfE6gAyfpx9AtjXxYZ8DKBfyITR4mEKnYq3C93oKP19l8HnHwuvVGB6XhjEW8SMV8MLvOQjIrWbnfV2VwsftJD5Vk/jyxMLb9TgmjcOA3GpG/YMd9p2olAARZu+BvfgQN5CCFfM7gE4pawrfnqWaUPWVKJJD+4GUWEuLNRDVIQyz5oY/USn8eJ7G16cjYh+zdBAQwZm391sJ2Ud42nt4Axy7FH69ycrtmSM+rHOGbCXbga5FA9KRPbZNobY9i0cbU9i4O4F7S2O4MpaAEfa7gKikhn5ZiaIQ9snqYbAVdrZmsLk6ibWVcZQXRrE4n8fcdApWPOwC0kpSJYZfA9HiHtimsL1+tanKcqmAUjGH4mxaFMqmDFeOdqtzDiUJns+aMIcD8HlPZFsryOwu3pYW1BZNbN4wmjdvh6GtWk3CUMmpiWQvgBR+7+UEhiAM5+6yKVOaQNPmkAxH2tAORBAqQ2up5vz1LMYLMYzmG51mRboFUvj7IY+dJQtrRXsIEojzh58E4auDq9U5zu6iMrSWdhGIiyq5u/LIUnixlkG9ksZuOSVAfAgt4/whBG3iZ6tr7PnDzuIePTipJq1l2/MS/F8XoXYCUaWN+YRYR6s4T/SLVcP8eZeX36kMYZgzAtHiYizgAOpiFimBIEztzoh8r962sHUrKQcSZH+QuZd7CE4lNZiG0XlzqvrfpVAeCWPZCslDaNnStCkH6ps6D7QV1WoSnBaXZ8IOkNYljgWjq3Hr0UZHXW5kIGtgNR3GQjIkQO4DldhLNbVKlblW8N2joeuyb3M/ExHFCNT5UNtiDbQyG23mReet8/+6Li3zQYcqgb2ZCDoyw+9ue8+kbHtrBRMPc4ZYTEBC9QFGV7uKRyl6Ueew/gH/H2JQnfez1wAAAABJRU5ErkJggg==",
     "wiki_name": "Guild hunter boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guild_hunter_boots",
     "equipment": null,

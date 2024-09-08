@@ -1,7 +1,7 @@
 {
     "id": 290,
     "name": "Research package",
-    "last_updated": "2024-03-02",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "This contains some vital research.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4XuXW70tTYRQHcO8LXzhCEcPBwqmNBXPh3HC6aNnExXKN5m/X3NK03gQR9CYIIogIIggiIggKgoj+y9PzPevcnft4o7bdNagHvjiZbh/P+d7rhob+veOQNwM9DtUPPtBB46ObAaMcqt167wbfL8zMcOyf/EvHob29t5wBYey+OLS985oqN5+7IPs3+nRab56bzdHcXIlSCxu0mK3R2tpD2tx6RfHJ+Cmo/QoBHodKBlFMFGn1QoHyscsMy05nKXUuRcVrj2h+vsJJXiy76RPO4QlsbL7ktVxff0Ir8RUXlZlK86SQTGaXJ5cIJziY2vmzsxQdjwaFa/UDIEHdqDxjFKZytXCfEcu5JoPS6W1KRpK+oMhYhMJnwpwuUQ5tpKpUMWuQACSoUukxJ3fpiJaW6gwD5negidAEgzosv5lMeusUSEcmhSnlr9zjKWFCWBm6FCDIoV3z1wrIRlWrL7hL5fJTBmFKhdUHjMKkgJJy42pMmAtBQMD0BLKnJCsDSmC48qTkuOpQcndt5rm4eU5Pp2uQnpKAUHCdcnKdbwe4FQClbwVYFzCxWN6dzujIKKdjUG1x/9TakJ3dN54A6YcCCN0BZtoAZTqBgDRK/mdJNAirQwDCygACZiqaYZBgegJpFLJfe+eJrFNPCStDf1BkYCIGp6fTNcgPpT9mIDYIK0OpAUJvgAmbxwIKDYc4HYPq5vLVIAk+iOno0gOEKw0gFJqvLIOZNI81pieQPSn9qRDRIPQHICk0egPMuFmdxgQCkjSanzyRdQKE/uhCAwTMmJlUICAdAd0+/OyJgNAhu9DoDWPMVw0RTEeg5nKDY8MOj754AqSA7EJzbwxm5Gd/NKQDDE4bpAPQneOvngCEDvkVGiBghi2M/W5/eNofpjTq+OSbJwKSG6IuNKYSEKZ12i/Sxp3c/e4JQL8qtL0m+/V7On44BKX2K7Q83xeMfbzF9AJtSN8xfke/+UAh/9X5AVvGl3id0VXCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xu3W70tTYRQHcO8LXzhCEcPBwomNBXPh2nC6aNnExXKNNn9M19zStN4EEfQmCCKICCIIIiIICoKI/svT8z127s5zt6htNy9ID3xxMNGP53yf60ZGTt9xyE6gx6Hm3kfaa31yEzDKocbtD24CxuA4tLPzjhMQxtsXh7a231Dl1ouTBh3/8txcjubnS5S6VKPFbIPW1h7RxuZrik/Hu6Den+DjcahkEMVEkVYvFCgfu8Kw7GyWUudSVLz+mBYWKpzkxbKbf4RzeAK1jVe8lhvrT2klvuKiMjNpnhSSydR5colwgoOpnT87R9HJqF+4434AJKibleeMwlSuFR4wYjnXZlA6vUXJSLInKDIRofCZMGdAlEO1VJUqZg0SgARVKj3h5C4f0NJSk2HA/Ak0FZoaBGQmk97sAunIpDCl/NX7PCVMCCtDl3wEOVQ3f62AvKhq9SV3qVx+xiBMqbD6kFGYFFBSbtzGhLkIAgJmKJB3SrIyoASGmyclx61Dyd21mffi5j09nYFBekoCQsF1ysl1fhzgUQCUfhRgXcDEYnl3OuNj45y+QY3F3a61Idv1t1aA7IUCCN0BZtYAZTq+gDRK/mdJNAirQwDCygACZiaaYZBghgJpFLLbeG9F1qmnhJWhPygyMBGD09MZGNQLpT9mIF4QVoZSA4TeABM2rwUUGg1x+gY1zfXVIAk+iOno0gOEmwYQCs03y2CmzWuNGQrknZT+VIhoEPoDkBQavQFm0qxOY3wBSVrtz1ZknQChP7rQAAEzYSblC0hHQHf2v1gREDrkLTR6wxjz1Yb0hcFxqL3c4nhh+wdfrQApIG+huTcGM/arPwNA5HRAOgDdPfxmBSB0qFehAQJmdDiMHBmtjTs8+m5FQPJA1IXGVHzCeE8Hd3TvhxWAflfoIdf0t6eDQ1DqXoXufM+JHxsYIOT/Cfb8BBygVYaSvb71AAAAAElFTkSuQmCC",
     "wiki_name": "Research package",
     "wiki_url": "https://oldschool.runescape.wiki/w/Research_package",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 24725,
     "name": "Hallowed symbol",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-04",
     "duplicate": false,
     "examine": "Reduces the amount of vampyre dust to sacrifice within the Hallowed Sepulchre.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5UlEQVR4Xt3VzUsCQRgGcOcgy+4hkUKRKOzUoYgK7IOKihIpOgRBFFEkEdGhoCjoSxERzZA+TDEKw0O3IOgQBB36097m3Wl33dnt5o5LDzwoKs6PeWd3PZ7/HQLmNiUG4DabNrUJKCuCr0AUgWIuwy1srmAUgfvLrL5gfzhsqRXlKIxA+SpnwtR/Z7dTDu8WgUohr4PqP9d2rpBOQi55ro4Wa49vWOxAbNdwcXzV3iPQYQzGHoSL467wY3MYg2Gg+sVxTPxozIfc8RjnhT+4ggB8zPci/hbA/1pArJd0EzFaCChdc+7BtI2mQOmMijg31mcTX8TsLnpB7ph2GsQW0zuWMTUwnlNfX28U2F6goPYJp0EYAv7BQ/h8VNR+VFjfS6xvRQX2lrwQn6eg0IgIEIZAa+QYTtYkOFqVTBgsjms95gUpGBEFwlDU0ClcbEg67GCZtZaVoXgmQ0v3ikgQhqKGE5CKSyoMR4cgHNlLXoZygqJ6Nn8Pu7AQCMWe4bvGxqbtEqKw1YwMvr4dkSgKij7BV9XA8CgcoX9gXxSKQHD2Qb3i8BxpZwlHhfX1bunFC0EAioJmSjrG2An7CniMUNDUHcPQ+1P9on+V/4cGh0Bg8tqC4X8lMOwm6RKMFldhWFyFEZEfdWD4aPmMd7AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4XuXUTUsCURQGYO9ChplFIoUiUdCqRREU2AcVFSVStAiCKKJIIqJFQVGQlSIiTob0YYpRGC7aBUGLIGjRTzvdM5eZacZRiZzrUC+86GLgPNxzZ1yuvx0CxjYlOuA6nTS0CahKhLkcUQRycso02FjOKAK35+k6A82oas81JAQKF3KVIdYnVRv/6xAoZjMWA/STyybjIMdPldViK59taKxA7NRwOP6q/xFoMwZjDcLheCrmtenP2BYG+j4c18RhNbWi3xdOF7dejN+iJmMw3F7pn4SA1DXrHEzbSAKkzhAPkPm1rSxidhbcIHZM2Q1iw7SOpgz1jcnK7/OVBFvzFNQ+bjcIQ8A7cADv95LStyLra571JSfB7qIbInMUFBjmAcIQaA0ewfGqAIcrggGDxXWthd0g+IO8QBiKGozC2bqgwfaXWMtpEXInIrR0L/MEYShqKAaJiKDAcHUIwpU9ZUQoxCiqZ4M/KhB+hM8yW5t6SojCllIiePq2eaIoKPQAHyUdY0bhCr39e7xQBPwzd8obh/dIvUu4Kqynd1MrvggcUBQ0ndcw+klUq+2hoMkbhqHfJ05Da4WAb+LSKRgM+0g6BKPGUZh/mi/AcK9L/hjtzQAAAABJRU5ErkJggg==",
     "wiki_name": "Hallowed symbol",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hallowed_symbol",
     "equipment": {

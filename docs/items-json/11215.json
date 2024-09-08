@@ -1,7 +1,7 @@
 {
     "id": 11215,
     "name": "Dragon arrow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-11",
     "duplicate": true,
     "examine": "An arrow made using a dragon's talon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6klEQVR4Xu2Vz0sCURDHXWRZdlkMIQgSyoq9FFhEkYEdOpiEkVgEebCsqE6FdZE6SCHZv1D4x0477zW7b9cfdGjedugLD2f2ofPx+x0xlfqXVhkgT2JShxvQ67Xg/q7+DaUdzIgMf305g9ubatB3u02dUAa028dwUC2Koc9PDWidVwKY/tuleF3L58WJv5tBBnx+tGF+bkYMfu9fQTbrinoweIRabRtyuWldDhlQzjjikCOdzikUCouixucrS7O6HBqG2XVtWLAtUe/7z6kmoPgn/LIk0CiYwykXlt3wDn9xsmaThCEArD3HDgBU0MreRuAQk0tyIDpCQ3fGRIXLXq+XwPNynA7JeAhGjYrgVKfojsmhKADWGJUanQpDMbLCqA7EoyIAhKGlZoJBReOYFJV6xwbz06jojtGdYTeKCgz1BKbGyACDCgfioYE0dFJUDEBRNxKPSrU/Dkc9wWiJqmylg+GToorDMAD5f5B2GrYUIISjoReuGcCiO6pzLDAnjgmrZhrWTTkU4UqWPE3/jvpRMCxACEIwCIc1AqAr1GOtISqSjAnPtSvdQiDsHzKW6BFm0wl3ihFGKvzGIZzaa4hqvGggAR3ZcqnJNa0wURnQ8HcIF1uFSRQId4qWOmF3SNGd+gNA8Z3i0xdqpdEjVw5jewAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxklEQVR4Xu2T0UsCQRDGW+Q47jgMIQgSigpfCgyiyMAeejAJQ7EI8sGyonoqrBepBykk+xcK/9jJ2W1u944UH9xRqA8WZm6Pmx/fNzcz8y9WCVBnYjKHC+h0GvBwX/2BYgcTkeFvr+dwd1sK+3a7zgkloNk8gaNSTg59ea5B46IYwnTfrzhhUAK+PpuwtDgvB390ryGVCmTd6z1BpbIL6fQcF5SAQtKXhxxptc4gm12RNT5fX12YHMx+4MGy58r6sP+calag32DKswGsBfoO/zjLUAqGALDO+F4IYIIWD7Z4YNARGro3ICpc9mo1D5lM2iaUiodgzKgIznRK31lRFABrjMqMzoTRMVqRAjAdiEdFAAijl9qaonEMiyp6Z0WjR0V3bDB4cgYM9QRmxhj/0pikB+KhgTSUPSrTjYlHFbV/cFT091l3p+AmwuHDomKBKXsJ2DGAEI6GXgZOCIvuRJ0buwSc+g5sOAnYdNRQhMu76tT7d9QzwKCEBCEYhMMaAdAV6rFmiIqkYsJzEyi3EAj7x6Qre4TZ9vVOxb9gURrO7BmiGlUCjj211ORa/A1GCaj1dwgXewpgUGqnaKmnAAgV36k/pG90fI3CVLz3ZgAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon arrow (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_arrow#Unpoisoned",
     "equipment": null,

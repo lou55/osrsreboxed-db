@@ -1,7 +1,7 @@
 {
     "id": 21000,
     "name": "Twisted buckler",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": false,
     "examine": "A buckler carved from the twisted remains of the Great Olm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xu2WXWsTQRSGs4SwbAgJxWKxxdoaTGla8lFSokRpoE2DpdSktVq1LRUV8UKh0AtBEAXFCy8EwQt/7ZF34pk5O9k0bjabKw88hJLuzLPvnLObROJ/RSqHBjOxMpvWq1Var5QVa6WSpryyMilBh24tLmpuzs9rbszNaYqFgmIpn9fEIOWoJDzX1VwmxlIMrq8sLIxTql/IRsqx2OrysqL/CCMfZ08Im9oiURlByjQw7l4ulkmn6d0n18f77wZ78yBGOE4jhAmSi92p1ejim0sffnj09bdHn3959PGnR7utFu1sbdL2xga9vOiXGIsQj7RMiYWQBguxDAs1G41LpUYS4mfNICEAodNHh3T88ICOOh06eJ2j3bOsugaNjWk7fZsavxCmJ0iIZZ7ud5VM50WOdo6z1D7K6ufS41cxCOFuOSUInX9xFZABV6amfGwdZqjZzejHgpS5PjsrHpz/PG2O77UAIU4JQjxdSAZImVw2q2jcT9P2fkoJdU9MShDi9CAcSgoyUgiLSyH0DZAiAI8GJFy951GjlVQSkLk2M+MTwnohjs/RT12Z0PNzV22GKUIDP2i3+2Q4DX6NVOpJBQthrRGEUI5elO8SYHKQ3LM3KdUvACIM/x82rd1N0ura2IRQ5h3EG0EEsCz6pd7yywD0CESWyj2hq9PTSgpC+A6f+DtEH/WqdwdGCGCcATcn+qV026PiukuFinnxIh0Wkn1kC4VMCeUXApievScp3WMsw5IQggzA0eEaTkkKYShCpxQkBDDam3tJn4T6GfI3mXwx4RPilIISCplSsBBTbyZ9MjgifDJSCCkFCdk7DqlgISwosb8fBDd3BCGU/cvP/OZGowIWQwq2hATfQ2jE4zLFF5tFHNU/8nlliw2Sk0L2PhHKL8Rg8obJxSSE6kkxfIw8dRJISGISQpm+4s04IZmS3YOR+mdYyb4ahN2DscnYZW86cYG46g/ve1FrbU5qjwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqklEQVR4Xu2W3WvTYBTGG0oJKSVlOBxuOJnFjnWjH6OjSpUVtq44xmw3p9N9oKiIFwqDXQiCKCheeCEIXvjXHnne+iQn6Tpd0vRGD/woI+v7/vLknDdNpf5XrLJkOGMrf9NGrSYr1YphuVz2qCwujkvQkhtzcx7XZ2c9rs3MeJSKRcN8oeCRgJRlknBs2+M8MUqRsQiF0XIUW1pYMAw+wtiPsy+ETcMicYkg5Tcw7l4vlstm5c0HO8Dbrz7hzc8ilhAmSC92q16X0y+2vPvmyOefjnz84cj7745stduyub4mG6ur8vx0UGIkQhxpnRKFkAaFKEOhVrN5rlQkIZ41w4QAhI4f7Mnh/V3Z73Zl92Vetp645jtobEzb8evM6IUwPWcJUebxTs/IdJ/lZfPQlc6+651LD18kIIS7ZUoQOvlkGyADLk1MBFjfy0mrl/OOBS1zdXpaHZx/LWYFXgsQYkoQ4nQhGaBl8q5raN7NysZOxgj1jvyUIMT0IHwhKchoISyuhdA3QIsAHA1IuHbHkWY7bSQgc2VqKiCE9S4kxFNXJ/T0xDabYYrQwPc6nQEZpsHXSLWRNlAIa0UQQlneorxLgMlBcgevMqZfAEQI/w+b1m+nZWl5ZEIo/x3EjSACKIt+abSDMgA9ApH5Sl/o8uSkkYIQruETf0eQQvlCAOMM2Jzol/JNR0orthSr/osX6VBI99HIhQCmZ/tRxusxylASQpABeHT4DlPSQhiKCFKDQgCjvbadDkiYnyG/kymUUgEhppRIQppGKx2QwSPCJ9FCSCkxISyoCV8fBps7hhDKnzjCn7VoVEAxpBCW0OA6hGLIDCvL9I8+r8Jiw+TGIkQweX+SS0gI1ZcifIycOg0kNAkJofy+4mZMSKcU7sHwKglVeNOxC/xD9QvRuBgT3Dr9YwAAAABJRU5ErkJggg==",
     "wiki_name": "Twisted buckler",
     "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_buckler",
     "equipment": {

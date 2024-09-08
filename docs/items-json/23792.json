@@ -1,7 +1,7 @@
 {
     "id": 23792,
     "name": "Blue liquid",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A thin blue liquid that I obtained from Elena's chemical cabinet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xt2X4UtTURjGPTG2MWa4L0KMapGay6SZTpdbaKXTZlstlUwjUVIUZShCOiMCKSgSCkKIoiDEpA+5IYQfIuhDfQghEIK48495Ou+5u9e7u30JtjPohYfBGDu/Pe/zvme3ouL/KIZclbUYJm6dxGDfMXSHjuDcGVe5oRg+vAxh/UVQaP6uFyPxE+WEYjrM22cBJMZOYSh2XAD5PB7ZUGpmNKA3T9owc6dOtK8MeWKIxvoRj9/U3Vl75MfU7Vrc6D2K1tYg2oMXZUIxDA+P5ulqtB/d4Sg6OsPw+fwyW8ena3JKaHJyWlekL47LXRH4/e2orfPKBZqbX9CVSMxhZiaB3ivXcL69E6cbzsLtVrMkCYiKYWNjE+n0NlKpNLa20qJdTU2teqgJRirQ2PgEFheXsLx8X4ja1dwcKAcMFcPsbALJZDKrZT0/klulFUN8YF84tLiUFKKWtbVdQL23UebIUzHU1CuIXd/Pkb1yEzbHY1htEzJdYnBW/URfNJMD46z6AUflJw70nAPNwmIbkeUSQ6NPEUBGEaTj8DbszjVY7QscalyGS+TOLrrCGfREzEC7HOgLB3oNm/2BLJcYvA2KgDHL6foFR9U3nqP3vG0rMlzi7rj2EOrI6A7lAu1xl75zoI8c6CkHSnKgaVisQ6VyicFTowiYQnK6fmeDnRLBtjkecqg53rbRUrikutMSyKDjkqp8oD/ZYH/mOXpVapcYqt2KDlNIlS4lG+yvHOhdKV1SJ4tGnfJjlBHIVa0Ygr0uxl8sSfs9sSgt1sFiucTErzfDmEUOasGmBam6tJq3AorgknpNBIKZgtKA3B4CygabFmRBlwaK55IZxCyawINg74jxF0uSuyRyZOnRHSqKS5QhUlNLRhdNnSZyUQ+2yBFdtKuiXYcsoWLCaKX+C6SDaVsbAQmI3tOCTe2isdemqwQwaqlfqD1zqdeIBkWvFGwVZiUPpOgwxjo44ADOLCkghcp4sFnmz/5r/QUWvdw0oHdxPAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xt2V30tTcRjG/cbYxtjC3QgxKiM1l0lbOl1uMSudtjVrqWQaidJE2RgTId0iAikoEgpCiKIgxKSLdAjhRQRd1EUIgRDEmX/M0/f9np2zH+5yOwd84GHghfvseZ/3/dbVHQ4xlFpXMcTunMZo+AT6/cdw4ZxdbyiGT6/9WHvlE56/78RE9JSeUEyFef/Ci+TUGYwNndQLSO6MAvTuWTfi91rE+HToE0NkaBjR6G01ndUnHszebcatwePo6vKhx3dZSyiG8fHJA74eGUZ/MIJAbxAul0dboNjMrPDMzJzqUDiKq30heDw9aG5xaguUml9QnUymEI8nMXjtBi729OJs23k4HEqXNBPD+voGstltbG1lsbmZFeNyu7v0KDWJYWo6hsXFJWQyD4VpXB0dXj1gSAyJRBLpdDrvjNof3YCiI/siocWltDCNrLv7Elqd7VpDMTS1Shi6uV9is20DJstTGE0xLYEYrPW/EY7kSmCs9b9gsX3hQC85UAIG04RWUAztLkkAFZsgLUe3Ybauwmhe4FDTWgBROrvoC+YwECoH2uVA3zjQW5jMj7RKicHZJgmYclvtf2Cp/8F79JGPbVmLlHg69j34Azk1oVKgPZ7STw70mQM950BpDjQHg3GsVlAMjU2SgKlkq/1vvthbotgmy2MOleJjm6wFkJxOpzeHwBXZB4H+5Yv9lffoTa1TYmhwSCpMJdvsUr7Y3znQh1qmJG8WrTr1p9jFQPYGqajYa2L9xZE0PxCH0mAcrRYUE7++HKbclKBSbDqQckortTgB8jPh9eUqWgFyNBJQvth0ICumNFI9qHKQctMGFoq9I9ZfHEmekuiRYaBaMCT5uSC7O3OqaesUU4pqsUWP6KFdEeM6YvBXE0YR/UN5fHStiwEJiP6mFJvGRWtf2K6qwxRL+QL5GVGg6JOKLcMsawFSSQW4gz6E+g+PLqcpJ+LQdwAAAABJRU5ErkJggg==",
     "wiki_name": "Blue liquid",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blue_liquid",
     "equipment": null,

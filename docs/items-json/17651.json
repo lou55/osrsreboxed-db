@@ -1,7 +1,7 @@
 {
     "id": 17651,
     "name": "Cooking gauntlets",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-04-09",
     "duplicate": true,
     "examine": "These gauntlets empower with a greater ability to cook fish.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xu2V7y/VYRjGPf+JPyGbSZOmySRNJEkSSZJEkkwiqTmTpO0k1RkzCTNj0snOmGFhZ0ayxkyt1Qtab6W3V7vub0845/hxLN/zxr3de/Z8fY/nc67nuu7j57dXe8VSWG2fl8LnuTn8WFzEr+XlNWA+gVNwjgxjanwcczMzWPz+DT+XlmT9urDgCyiF9wMDAjU5NopPU1P4Mj8vvTA7K0D7/P3NhFIY6nsnUONDQwL1cWJCemZyUlaTVVLof9ODQbsdI/39AsaVihFwbHBQ2kQoBXtnJxzd3dJ9XV2wd3QI2LDDIeoRduBtr1lQCj2treh61YzOpia0NzSgzWaTPSGoHiG1l0zwk0Lri+doslrRUFsLW00N6quqUGex/FOrt73NLHMrtNQ/w8vqajy5X4HH98rxsLQUj+6WSROy+3WLWeooNNc9FTV4ePnNAumKW4V4UFQkTciOxsadquPtZFWoLC7G7dxcZCQnoyArC0U5ObK/cz1PmoC8Qi+BDBBO198rK3+htmrjc5kpKbI/ezIOV1JTkXcpA/mXMwVOA/IKvQAyIss5wYHG8f/B6ZSBxok7Oz0tzxhhJobmpF/WQrGp0PnTCQJIsKsX0qSvXUwXqG0CKUkCfcCIcoYwojyY80MPNEaZ72jjcuVeQxkHKcRHR+PcqXgBS09KkiYowbYNRONZKyslrowuDchUUDXCMbIEoB+4cq9VWZ8ahaOHwwQqISYGZ2Jj5RoJmJaYuH0g3jehGFeCMTGMMYcbwagE/04growxQT0fYEAdj4jAichIxEVFCSDhNNT6991KyTcozM5G2Y18SQRXmpCKEYygTBKfMz3ccwpvBHQoOBhhISEIDw0VuGNHwgXQXdENyzAkzaeNSFPycKpFz1hKSgSWz6gSn9Nznr+xaxo9Xe+mZZiRsvLu2dyzCacnL4cdr02rxKtb9dP60oe7tut7m5QSmdmUnH0wKEiaMeaVURleG69Xq0SfMZmeoP5DucvMPhAYKPHVHtOTWKvk5XV4V64SG4cYUJwtVIcwOplUSQO5/q9dLoX9AQEyV2h+/iQQbFfV2boMKJqeqeRvlo/UWVs7jvLulbvH9sqc+gOm/GjSmKMdpAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xu2V/y9WcRTHff4km0mTpskkTSRJEkmSRJJMIqkxSdoklTGTMDMmPZkxw4qZkawxU2v1A61fpV9Pe53HzZfd1aPVc3/I2c4++9zn3vt5Pee83+f6+OzEThBG1tPxMPJ+fl6+LC3Jt5WVDWCOwBmZGB2R6fFxmZ+dlaXPn+Tr8rKuHxcXnYAy8mpwUKGmxl7Lu+lp+bCwoLk4N+cM0HDfS4UaHx5WqLeTk5qzU1O6ehnKyMDzHhlyuWR0YEDBWKkYgGNDQ5pehDLi6uyU/u5uzb6uLnF1dCjYSH+/Vg/YwRe93oIy0tPaKl1Pm6WzqUnaGxqkrb5e90BQPSC9BEMYaX38SJpqaqShulrqq6qkrqJCasvLf1art73NW0BGWuoeypPKSrl/q1Tu3SyRO0VFcvdGsSaQ3c9avAfTXPtAq8HhJVdyNUuv5snt/HxNIDsaG/8UaLuT1UhZQYFcy8qS1IQEyU1Pl/zMTN1fv5StCSAt3N5710CYrt9XV9ce/l26n0tLTNT9iSPRcj4pSbLPpkrOuTSFswBp4TaA3JZlTjDQGP9vJiZ0oDFx52Zm9BoWxjGIE71shCKp0KljsQoI2IXTyZoXz6QolIdARp2ADrAoMwSLcjDzwxpoWJl7LOGyst98iJGYiAg5eTRGwVLi4zUBBcxjIIRXU1amdsW6CBBXUDXgsCwA6IGV/ea2rb/rwL5ghYqNjJTjUVHaRgCT4+Js7rcNo/0GCrsChmOwMcMNMCrB7wCxYmNA7Q9wQx0KDZXDYWESHR6ugMB5CGX0H+RlZEjx5Rx1BCsipGKAAYqTuI572DOF7V9uZG9AgAQHBkpIUJDCHdwfooD299uGW5CIzxIiouRwqoVmygsLFZZrVInraM7+EKudW9PjcIuRstJ7kj0JnDV5GXa0zaoSrVvX018Po2UmKTm5x99fExvTMipD22ivVSV0hjP/GZRd7vbzU/taGrMmsVWlfwTzq3BDMVuoDjCWM6mSA0CEkV2+vjpXED+fBMAcgrHCDYXocSXfLIeBiK0a24n/OH4AkoYpvjO5i44AAAAASUVORK5CYII=",
     "wiki_name": "Cooking gauntlets",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooking_gauntlets",
     "equipment": null,

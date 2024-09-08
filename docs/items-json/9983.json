@@ -1,7 +1,7 @@
 {
     "id": 9983,
     "name": "Burnt bird meat",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "Extremely well done bird.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xs2WXUsVURSGz7mSbgxJulAyTTLM8CPMDDOMbrqrKCoqioqKIoJQCpHCSuwTQeyDCgVDTKSMICqKon7ZjmeGd1yz3cfO8UzhgpeZ2XvPWc9Za+01O5db/ZZ3YYXm/7nl3eOhw+7h4KFIozcPupGBA5EEMTN+1k2PnXFTT04HoPw/UTZ4DCQogCQfZvLRKfdi9ETKMc/M+UpDlQSZd2O3jiyB4gqIJKBnI8fd+PDRaC3XEBDrLfSP+SH3bbZ/ZVAC4l7REdCrBycjIK0tBMR73+cG3a+FO+73wr0ICB/t9fWRfO+exWHXvxYQTkNAE3ePJUDch4BmJ86lgLgXkO/ds3wqDThScfPsA+EcCKW3END88wvZASlKjIWAFEkBETUf6P3LiwkQKglIdeED4dwHsgW9HNCH15fSQG9vlA/EOECCIpJ250ghoI+Tl7MFQgBYINauq6py66ur3YaaGrexttatqaiIxi0Maz9PX02Afr67ncCUDGSh+HFgFAkgNtXVuS2NjYl4XltZmYIC6Muba0Eg33sBix1SDz4Q40Ric0OD29rU5NpaWhJta26OxBxrBAXQ15nrKwWKexAR8oGYw/Guzk63s6Mj0Y72tkjbW1sjAWWBiKoFsk3R9+5ZvOVDQMzhfE93d6TdXV0pAWlBSR21xXuZAiHGcbqvtzelvp6elIiSUqcIMc41EyBBCYjI7N/bl5KNjtJFbRGh4YF+d38odi4gurRgigJih4WAcAaQHxnBINURUaKweQ/x2bARKjI62CKQX0eCssWMBENUmFfaeOYd6ofPRmZAgmKcebvNFQ0gBEQvUjGz3QGiS1sgQfneAxYDhdLGmLpzMVL/4djxaepKAkQPKqEPpYFs2gSEA66M65NCW0D+4YzolA3ELvsbEM7sGcgC6cOqdGUG5KeNcQtkjxyCEZDWAjT39HwKiB5Uch8Kpc0Ccb8ckK2fTIBCabNAzNljiQVina2fMoGwpTsmJL9+JB+IpmiBpBKAcjm19eXkA1rZ+skEqFjzIYuBlRbX/ifzIUPy31nV9gea11yUQjQlTgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu3W3UsUURjHcfdKujEk6ULJMMkwQzPMDDOMbrqrKCoqiooKI4JQCpHCSuwVQeyFCgVDTKSMICqKov6yE98ZfsMzZ4+2sztFFx142JkzZ/d89jnPnJmqqn+/FVw4Qtf/eCu4hyOH3P3hg1GMXz/gxob2RyHE3OQZNztx2s08OhVA+X+iYngMEgqQwsdMPzjpno0fT03MOdf8SKMyIQtu4sbhIhSfQBQCPRk75iZHj0Rj+QyBGG/R3xZH3Jf5wfJQAnGs7Aj04t6JCKSxy4H43teFYfdj6Zb7uXQnAmXC8KP61wIxaQg0dftoAuI4BJqfOpsCcVwiqJBaBiZScXPug5gchJZ3OdDi0/P5gZQl+kIgZVIgsuaD3j6/kICITCDVhQ9ich9kC3ol0LuXF9Og19cqB9EPSCgyae8cRQj0fnogXxABwIIYu6a21q2tq3Pr6uvd+oYGt6q6Ouq3GMZ+nL2cgL6/uVkqhpYGWRQ/DkaZALGhsdFtam5OgvPVNTUpFKBPr66UC6LFE1IPPoh+MrGxqcltbmlxHW1tSWxpbY2Ca4wRCtDnuavlguI9iAz5IK4x8c6uLrejszOJ7Vs7otjW3h4FKAsiqxaUYVOMb/kQiGtMvrunJ4pd3d2pAGmhLB21xfdyBRH0M+nevr5U9Pf2poIsaemUIfr5zAUklEBkZt+e/lTY7Gi5qC0yNDo06O6OxJMLxC5dIoYW32EhEJMB8jMjDKE6IksUdjxxIXps2AyVBfLrSChbzIQwZIXrWjbO+Q71w2MjN5BQ9HPd3ubKBgiB2ItUzNzugNilLSgDKgaFlo0+7c6lhPYfXjs+zFxKQOxBGfahNMgum0BMwCf9eqSwLRD+yxnZqRjEXfY7EJPZdyAL0oNVy5UbyF82+i3IvnIII5DGAlp4fC4FYg/KvA+Fls2COF4JZOsnF1Bo2SyIa/a1xIIYZ+unQhCt+I4JhV8/Ch/EpmhBigygUlsxUmHr5y+CVmrFyOL43yprvwBQ0xIIBBxssAAAAABJRU5ErkJggg==",
     "wiki_name": "Burnt bird meat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Burnt_bird_meat",
     "equipment": null,

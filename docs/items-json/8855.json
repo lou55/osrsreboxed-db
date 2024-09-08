@@ -1,7 +1,7 @@
 {
     "id": 8855,
     "name": "Warrior guild token",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-13",
     "duplicate": true,
     "examine": "Warrior Guild Token.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWElEQVR4Xu2W0UdkURzH7zGua64xpFEq27TRRj1M5qEVRQ+7Vi9Fq6dVLBuRIqKk6CGttREpa5eIll0i9RDRQ/TU27L/0G99z/Hbe+ace5o7udOI+fKl+Z17zu/T7/7u717Pa6ouEqTccCmQlr4Oyr1obQQUV0J5cyGg7cWAdpYD2nxfpImxTAxU3aonqK1UpNb+LlkRHYSN2NsRHUpQYbBbXp8ymKDPK4H011UbBHH+e/1TQOPDCkqPL33waeadnwZYdHDHcJ8TRPfKXECj5YwVh+dnfJoc5yrWDFb5XzLQ8U7WCaMbVTFjuqPbmwisEgbG76QwprOFvBXTXQXKhmF3jQ1YsTSMnEM9PS4oYW3Q7YJ9yAO9nhVj53NedSCzgXVf/wjpbD+04i6XBzMyqRmH0fwM8yDQr70sHW3F98v97xzdHId0fhDSyW7WWjcTFlq82HN4DFSBgYSsAhL+/OIGA9TlobrmYMMGQ8Jipyehccb+mjoH1cfAfF2KqmMSGBIVVUDC79v2gegLriaS4hqsYaLr69iPp5PXsZZ/2Za0OqzK91aczYntMveJ6RpglHiDbhxkJkxqzCIdpCaYeAl5a+L6KYn1JjZPfqSE7Cv0DF6yZkKX8W6bfuPLxz91oD/nqtkxh+KeLN3osY/T6mVaeqVmUcpAkKC/FxEUnpw4EHyGAAYfbYB5dCMnkxoLtycRFI8DwOAWMYwJUgcYlqC705CuvimozpF+ai/3SpjZKf//p8UTgOhSTY7hia8ADDzAmFUxd9VZ7oHXABglHaChIE019Rz0D9nmUOU2CysuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMklEQVR4Xu2W0UcEQRzHd5y1bp0jnVKnTlFRD8c9lCh6KOmlKD2liCJSRJQUPaSkiJQURxRFpB4ieoieeov+oV++M8bOzezebtnrXu7Ll9vf7M587re/+e1YVk0VESPhqkuA1HU0UaqlvhpQMhPC20sO7S47tLfq0PZUjsYGEz5QFcseo4Z8juq7sjwjKog0YiP9KhSjTE8rvz9mMEYHaw730boJgrj8vbng0FCvgFLjKzM2TY/acYB5Ezf1dgSCqF6bc2igkDDi8OK0TeNDMou/Biv9lxKouJcMhFGNrOgx1d7rjQRWCgPjOiqM7mQmbcRUh0CZMNLZwW4jFodDgfQHVAfBlnN3u2XEpNMpKxxIL2DVr1cuPZy4RjzIhZ4EX1SPwyj+EBiI0d1xks53/Ovl8z5Fb0WXHk9dut5PGuP6gpk6y3cerw2EivEsYMHbw2AwQD2fiXtOt0wwLJhrtjg05jjZEPMg+2iYfflI2YFYSRaw4OWuOSHqQmYTi+IejKGjq+N4HrtTjmMs3dYQFUZK9odg6x07yF6d6I5F5XdgOaMXxQgCMf5q/Oopin9RxFHFeF2hZvCR1RcMMr5tk8M23/6xA309imJHH/LbWapRY/OT4mOa7xS9KGYgiNH3kweFneMHgmMIYHBoA0zMhaxLtIX3aw9KtgPA4BVJmAqDqGL0cePSy4WAau7vosZCO4eZnbC1k+O/SRQ5midOAWh4gPnHrPhJb3ZVA6mpppr+pB9upheN7FKGFgAAAABJRU5ErkJggg==",
     "wiki_name": "Warrior guild token",
     "wiki_url": "https://oldschool.runescape.wiki/w/Warrior_guild_token",
     "equipment": null,

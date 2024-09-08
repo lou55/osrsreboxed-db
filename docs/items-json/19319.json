@@ -1,7 +1,7 @@
 {
     "id": 19319,
     "name": "Strength potion(1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-02-05",
     "duplicate": true,
     "examine": "1 dose of Strength potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC30lEQVR4Xt2XS09TQRiGmZVuNBqMRglYo1xKuZReKFCgQCm3citNKbT0hqUWS0qhtNBqWLkwcaMhrIwx0aAbA40bQ+LSkJgQ/EmvnTk9pzc3mNOp8UueTXNy5sn7fTNnWlPzfxRBMVUtgrXlh3BYG2DpvwtN281qSxF8OujHx9dGxlZQCbftQTWliCTz7lUPooFmLM3eZ0JqhYK3lDAzotDblwZEvE2sfVWYJ4KZWTtsNqeUzuELPcIrjViYqEd3txF9xmGeUgQul6+M6Rk7LGMzMA2NQa3W82xddneFwoxQaF1iymqDeXQKen0fGpuUfIViW3GJaDSGSCSKick59PYNoVXVibo6YZY4CdEiODr6jEzmK05OMjg+zrB2dXV1S0NNZbgKBVbXsLu7h3T6GYO2S6vtqYYMLYKNjShSqVSOtDQ/nFslFmHpMPZSDNoyg2EALcp2nlueFkE4HEEyuVuEONSqNjXPlAiWXV7s7CSQSCQZVGZp2QPr9AIGBs3o6NSipaWNV0oE6083ioQoVHJuzoGh4XFoNAa29TmkROB2+7G9HWdChdDfF+xOmM2TbLA5pZRNZz2CeDxRBBVa8fjhcLgwNp4d7J5Bdh5VOCUCjyeAzc2trMROjryU17sKp9ONyal5GPtHoNP1or1Dg+bm1kqlRNj3iraLkpcS8Pkes8Gmt4BBk0VKSdnaUYmUCEuAHoSiUCFUyB8IssGen1/E8MgEu35UMCWCYPBJ0QeV8uH9vSLoYNvtSxi1WNn2p4ckvYbInJKws+hWj8W2yyQug0wpkbIX/y0ypSSfEOWfSCm0dgMm01UpIVlS+nWuyqEuQCdxcf4IZz8acPqtHsdf6nB4cAf7+7fg912HXndFThmxhFsgXfjiXFkiSIWUTOj7aT2TeZ6uxaLjWq5FsssIJbxQ/M9F5UQxKqXCzzMFDt7cRjJRWyYiu0xh5RfIy5XCReRPVbhwKaXPXrZ+A11rDXJ/8OurAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACu0lEQVR4Xt2W3U9SYRzHfa7qplaz1cpptfIF8QURREVFRHzDF5AhCvJmQBgOUQSEmlddtHVTc1611lazbpoyb5pbl82tzdmf9M3fI+cI0U0NznF+t8/NuTjns9/zfZ7zVFVdjjAUI2sYQguP4LDUwdx3F+qWm3JLMXze7sOnN3rOWlABt+2hnFJMlHn/uhuxQCPmp+/LJXTWGUHo3Ssdot4Gvnwy9IlhatoOm80pTmfnpRaRxXrMjtWiq0uPXr1RSikGl8tXwuSUHeaRKRgGR6BSaaUVCoUjnHB4WWTCYoNpeAJabS/qGxTSCsXXEiKxWBzRaAxj4zPo6R1Es7IdNTVClyQLw+7uF+RyB9jfz2FvL8eXq6OjS45SUxgCSyGk05vIZp9zaLk6O7vlkKEwrKzEkMlk8mTF/sgmRNPhbGY4tGQ6XT+aFK1SSzFEIlGkUukihFIrW1RSCjEsuLzY2EgimUxxSGZ+wQPL5Cz6B0xoa+9EU1OLVFIMy89WioQIkpyZcWDQOAq1Wse3vgRCDG63H+vrCS5UCD2ftTthMo3zYks0pdPpLEeRSCSLIKFFjx8Ohwsjo6fF7h7g51GFp8Tg8QSwurp2KrGR51zK612C0+nG+IQV+r4haDQ9aG1To7GxuVJSjP+vaLmIc6kzfL4nvNh0CxgwmMUpKZrbKiHE+AToIBSECiEhfyDIi221zsE4NMavHxWcEkMw+LToh0p8/HCvCCq23T6PYbOFb386JOkaUuYpne0s2urx+HqJxL9QJilW8uL/5cIJERdCKhy6AYPharlkKAy/jpV5VAVoRE6OH+PoRx0Ov9Vi72sNdrbvYGvrFvy+69BqrpRTRgi9kPEPnxwr/hAkIQUX+n5Yy2VeZKsx57iWFym7TGGED5CcIEZSSvw8eoDtt7eRSlZLIfK3nMuVcgnzG9Xc2Fiy/NluAAAAAElFTkSuQmCC",
     "wiki_name": "Strength potion (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strength_potion#1_dose",
     "equipment": null,

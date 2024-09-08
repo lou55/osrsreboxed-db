@@ -1,7 +1,7 @@
 {
     "id": 19912,
     "name": "Zombie head",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "Get a head in life.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xt2X3UuTYRjGff6OIIQg6ETnQWa0OWVCzoVtzcnW2JjL/Gj5UUMUG8ulTgspyVELkyGUFYZZkUGGkYmG0UEh2UFFH9BR9C9cPdfzNhPPOuh5pRtu9u5hYz/u67rv+1lBwf8XAltPTAyBcL0PBtS2ABOIBgI4esQDj9O5HaAEmkIhVSWHzaaALIWFZkIJxBoi8Lvd2GspNhvI8A3lGjhpwJgIJBBqrEFjzI1Y3Idoay2C0Wr4gg4zfCTQ0unFqd4AevsjODfSpF75vqndg6KSXTqhBNq66jdALmTaMDYRR/ZGD4bHYuq8o9uvUzqBvvPHMXixBSNXO3BlsluBNNe60OiqQdRZjWCVA3XlRsdt/fY/CKFgWJXJu/3oSoYUzMLiFD5/W8fa+xUF6txXqqtKApeudSI5dAyZXBfSoydUNT59XcOPn9/x5t0iph+NIpGO6gPijxGIJqa5KdGTpVuIn/Yhxq6TSVANQEJJROPSRzQ1q+V3VKq8P5/F3LMcctN96NcNxArQS8yb99IYn+pFRnZa9nYC1yVQS9xYuFqA8v5hy6ciYbR7PWg9XIvczCCy8tzpLEVMSqkNiFKxk9juMY8b3QE/ZucuY0JWaEhW7Kz0mL24SAcQQ6AnFVZQhEmEgvj45S1WXs/h4fw4UhJoXM4mjUAMA4oyJcMhrH9YxfOXM5h5nEFayjggDa8diMuUxmZHddZ5FRw7zWOzqqFYWWLRC0QvxRNBlXzmfuNijTS71MZ3eax6gQKRgxtziF3HYclxQCk5LPMw2oAoGYcjgdhtlI9jgGCaq8MwriC8ZnAGDVdVKB/xmXvN66/UD0Tf8LpBiGT5AZyx7Vc7rb7CruTUDMQQqrUPlZVhYfkOnsrlyisJzzX7Z3MILL16gBers5iX96E8kEkwDIGU3Yq0w66ywVIE284dv6tkSsiJbS3buLoSyLtntxn+2Rz5//R/0kTJjMgDbM6tn/mb+AU24lIo8z+W9QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xt2W3UuTYRjGff6OoJMg6MSPg8xoc8qEnAvb25xsjY25zI/e/Kghio3lUqeFlOSohckQygrDrMggw8gkw+igkOygog/oKPoXrp7reZlF5z2veMHN3vc92Y/7vu6PoqLtJ4F/v9gogWhjABbUlgATiIdCOHrEgOHxbAUogZZIRGXJ7XRuDSCzKYagz4e9pSV2A1m+YbmGThZgbAMSiDTXodn0wUwEEG+vRzhei0DYbQeUQFu3H6f6Q+gfjOHcWIv65XtLp4Hisl06oQQ6eho3QS5kOzAxlUDuRh9GJ0z1vas3qBdo4PxxDF9sw9jVLlyZ7lUgrfVeNHvrEPfUIlzjRkOlto4TCoZZmb47iJ5URMEsLc/gy/cNrH9YVaCefeX6gC5d60Zq5Biy+R5kxk+obHz+to6fv37g7ftlzD4aRzIT1wfEPyMQTUxzs0RPVm4hcToAk10ng6AagIQqEY1LH9HUzFbQXa3i/mIOC8/yyM8OYFA3EDNALzFu3stgcqYfWdlpudtJXJdAbYnCwv2vsoAK/mHLp2NRdPoNtB+uR35uGDn53eMphylLqQ2IpWInsd1Nw4feUBDzC5cxJTM0IjN2VnrMVVKsA4gS6EtHFRRhkpEwPn19h9U3C3i4OIm0BJqUs0kjEGVBsUypaAQbH9fw/NUc5h5nkZFlHJKG1w7EZUpjs6O6G/wKjp1mOB1qKFaXleoFopcSybAKPnO/cbHGWr1q43sNh16gUOzg5hxi13FYchywlByWGmEoq2QcjgRit7F8HAME05wdyjpBeGZwBo3WVCkf8Zl7zR+s1g9E3/DcIESq8gDOOPerndZY5VLl1AxECdXahyoqsPTyDp7K5cqTxALRDlOQwMrrB3ixNo9FeQ/9AbJNAmmXAxm3S0VTaTGcO3fYCSUntqNi83QlkH/PbjuBqIJn/o5tpt9VQyRItubzyQAAAABJRU5ErkJggg==",
     "wiki_name": "Zombie head (Treasure Trails)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_head_(Treasure_Trails)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 1908,
     "name": "Wizard's mind bomb",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-04-06",
     "duplicate": true,
     "examine": "It's got strange bubbles in it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs3Xf0tTURgH8O2d+BJ6H4VlRUVFv8s00XTRsKUtWys1lr9WqWzosLnENizLTBIlUERK7I+EhASJosz0HTzxPeO5nvt4NnbdLTzw5f46l/PZOeeee+fx7P7iJXNM1/958VJr4BA115ephP0HKHRtvwojBtrPUn/kNMUfnDKg5I8oGp4FMQogjsTEWk7S4/BxW8M4xjUZO8oR0kuRhsPbUNgCwmFQNHSM2oNHVF1sTSDU19HvhgL0NunbGYpB2OfeYVDP/RMKxHVzgXDfRKqeptK3aTp9R4HQxp6SEhXZuijZbudfzSA0agJ1Nh21QNg3gZKd52wg7DNIti6K1zYMaIgnN44B0rteJhdo6NFF90DcSziH6yF/iIK+IN2sCZC/yk++yz6quVBDV85UWjAJet59yQIhjkA8LyRIYR/GqKe1m6L3otQR6qBIMEItDc0Urg+rbVtTm7omUZnecjto8Lo7oMxAhob7hikVS1HyyVNKdCUo3h6nvs4+dZxOpBWIe4tBI7EKd0E4/3H2A61+XaW56TmaGJmgsfQYvRoaVcHxzOQMvRx8YfUQg/AAvO6vskCTw40WxjFIon58+04ryyu09GmJFuYWaHZqlhbnF2n58xcFHc+MU2lpBZUdrFbBPQCNJaqNINl6jrL1xEhQXV0vrf1co/Vf6yobvzdo888mzb+fV8MGDNJ465kV3PdmoHanoOwahB7KBbobTtuCcxwGoe6NQNII0hdF2boo2UfeBEKcghDXQYxCnICu1nZbYVTRIL2XsC0UJCF6D2GVZkxBIDxhJhB/YqChfKC9+8ptELxq8NrQh6zA3kHZAsl5hPMM0p8ghHsEGAT1eP0BCK8N10CMKgaEVVoHMUq2bihZkGnYdgrCZ8dovNICYQ1ysA7ZQfqw4Rx/9eUDMQZB7xQNwlOWD4QGJIpB/IP04XINJIcN5xmEBrNzwB6e/FwXoFTXeRsIa5Djdcg0bDoI+2ic/wRgFefFU+8h1HUFZBo2HYRr+r8SHYR6+vwpEoSyfShM0TF6JAiLog7iOAB5PLys54sE6tHnjyugQotEFoLlbNX9T0UiTZH37OryF9nvyxorQQPVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4Xu3Xb0tTURwHcPf6CsuKior+l2mi6aKxlrZsrdRYzrlqysYcNtdYG5a1TBIlcAwpsQcJCQkSRZnpO/jF94zf7dyz49jdbtGDDny5/87d+dxz7j33rqHh3y8O0kd3/I8XBw149lOfu0nE79pLvst7RBgxHjxFY4ETFLt7XINSL6JueAnEKIA4Kibaf4we+I+YGsY2jqkxoywhHRToPlCGwhIQDoPCvsMU9B4UdbHUgVBfRr9Oe+hV0lkbikFY595h0MidowLEdXcC4byZlJvmsjdoPntTgCxh8KN81QxCozpQqPeQAcK6DpQMnTaBsF4lyGEaBjTENze2AZK7Xs1OoPT9c/aBuJewD8d9Lh95nV661uEhV5uLnBec1HG2gy6ebDVgKuhJ5LwBQiyB+L5QQQJ7L0ojAxEK3w7TkG+IAt4A9Xf3kd/tF8vB3kFxTEXlRpvNoIkr9oBy4znKxDOUiqYo+fARJYYTFAvGKB6Ki+1sIitA3FsMmoy22AvC/neFt7T+aZ2K80WamZyhfDZPz9NTIthemF2gZxNPjR5iEB6AF2NtBmg201MtBsUMUlFfP3+htdU1Wnm/QkvFJSrMFWh5cZlWP3wU0OncNDU2tlDTvnYRnANQPtFeKwjl9xOjgrq6Rmnj2wZtft8U2fqxRds/t2nxzaIYNmCQnuuPjeC8l+OdtYJKcxB6aCfQLX/WFOzjMAh1r3qSWpCFSbH0yOtAiFUQYjuIUYgV0KXOiBFG1Q2SewnLakEqRO4hzNJVYlBKT5gOxJ8YaKgSaNfuZhMErxq8NuQhqwmk3kfYzyD5CUK4R4BBUI/nH4Dw2rANxKh6QJilZZAFVAmkG7ZaQfjsmIq1GiDMQRbmITNIHjbs46++SiDGIOidukF4yiqB0ICKYhBfkDxctoHUYcN+BqHB0g+awzc/1wUoNXzGBMIcZHke0g2bDMI6Guc/AZjFefKUewh1bQHphk0G4Zj8r0QGoZ58/9QJQikfCl1kjBwVhElRBnEsgKot5UiOfP/8RVClUo4sz/9SX/kFj+uAjm3++bQAAAAASUVORK5CYII=",
     "wiki_name": "Wizard's mind bomb",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wizard's_mind_bomb",
     "equipment": null,

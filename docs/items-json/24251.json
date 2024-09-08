@@ -1,7 +1,7 @@
 {
     "id": 24251,
     "name": "Wilderness crabs teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-09-19",
     "duplicate": false,
     "examine": "A teleport to near the dark crab fishing spots, in level 33 Wilderness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xu3XWUsDMRQFYOcn+OibpahoxY2qFXdcq+K+190qiIi++eKj/ztyIme4vc1kJjN9EQwcTE06+XqTdtqurv9WqEWmM+lIi8zK/LxZmp21WajVzNzUlM1MtWozPT5uJsdGbSZGRmxGKxUzPDhoM9Tfb9MBVGTWFxfN5vJSnK3VFRv0MYYATDTARANLJGAD5XIRVBQvLCHIztqazd7GRhw85nyJAwwVLIiKzEG9Hi/gg/T0dceRMFYOMInC1vWVSiGoyJzv78cgCZEYCdEhjNsqUThbgSg3KAmCeTIaxmoRhTMFFEFjvb1pqFZQEkZDdORconCmcNCxdblAcptcEF0tPc45eD4PO7eOhzsT6GR3Nwa5MGkAOcY+rsWtQ5WCQKyQ3Cq9oEQMzZVtNEz25XlClXKDNIB9IpLiqhK3DiB+cmcCXR4eOKsh+xqgo+fzWtg6HO5gkK86WUH6ObxeMOjq+MgcbW97QT6Uaz6vhRcKEG4jQSC+0yRK9vXiMgO1khOEvwDhnRYMwsH2VSkJlIQpBLo5PbHnKK1KhGmUC8Q+DjVAuH1kBt2dnaVWSf8vaUzPywV6uLjwVsm1uGucc+TjXKBmo9FWJQ3QC+skzSUIN9jMoOfr67YquVB6MT2uxxDcPoJBL7e3bVUCygdLg0gQPofwvSgz6PX+rqVKQKFShAHlgunFXSEIX0Eyg74/P1uqJFEaphdMC26u2DJiMoDQIvP18R5XCSgJ0zi9pT4oDnUghi0y709N8/b4YLcQQdUQQBFUENFoHzwnhk3/FC6eApjfxgt0MnqNP9F+AAnt9P9HfTG/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUUlEQVR4Xu3Wy04CMRQGYPoILl0SgkY0osYLBhUM4g2jIuIdRUQTY4zu3Lj0vWv+JmdyOHQ605lZ0uSPxXamH6eFIZebtFRN6WySSVO6sb2t69WqyU6lorfW1002V1dNNpaX9dpS2WRlcdGkPD+vF+bmTEozMyYZoJTer9X04W49yPFewwR9jCEAExpgQgNLSMBmC4U0KBUszCHISbNpcnZwEASvaT7HAYYKpkQp3T46ChZwQaaLU0E4jCoHGEdh64r5vA9K6Zvz8wDEIRzDITIEo23lKJwtT5QdFAbBPB4Jo2oRCmcKqMSgMIyEyPC5hMKZwkHH1iUC8W2yQWS15DjNwfV02GnrPA630t3T0wBkw0QB+Bj1cS/aOlTJC0QV4lslF+SI0lbBRMJ4n58nVCkxSAKoT4iw2KpEWweQxze30ncXbWs1eF8CZOR8uhe2DofbG+SqTlyQvIbu5w16uOzoTqvlBLlQtvl0L7xRgPAY8QLRJ42jeF8uzjNbyVtB+AsQPmneIBxsV5XCQGGYVKDHq645R1FVIphE2UDUx6EGCI+P2KD+9XVkleT/wsbkvESgwe2ts0q2xW3jNIe/TgQa3t+PVUkC5MIyYXMJhAdsbNBbrzdWJRtKLibH5RiCx4c36P3paaxKQLlgURAOwvcQfhfFBn0890eqBBQqRTCgbDC5uC0Ewk+Q2KC/n5+RKnGUhMkFo4KHK7YsJoaa0r/fX0GVgOIwiZNb6oLiUHtiqCn99TrUny8Ds4UIqoYAiqCCiES74Akx1HBx1pm0bNo/na+xnrcUH+0AAAAASUVORK5CYII=",
     "wiki_name": "Wilderness crabs teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wilderness_crabs_teleport",
     "equipment": null,

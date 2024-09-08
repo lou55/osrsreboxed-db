@@ -1,7 +1,7 @@
 {
     "id": 9826,
     "name": "Oak armour case",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACm0lEQVR4Xt2WXUsUURjHnc/hRWZUUFIp5QuuL7DtrumCytq2rduirpuV2OJqJtq7ttELC7FqJGoUInohXolSKEhX3fmNnvg/wzOdhrkp9pyJHvhzhplhzm+e11NR8X+ZRb/kvm/UbIil8TANd12kp6NdCphF+Xi9B2TZTPWCrflMC82mmnhjwDzIhOhhNsLXhXwPvRiLKpBlNYu+b7+i4miQCtk2mk420urLFC0+SdD7mbgDcy/ZRncSrZRLB1ljqXa61d3AQJeqqsoJZdGP3QX6+mmCNosZejsVo/lcN3sAEpiB3kZKdF7+TdqAjg+/0HbpNnskP3DVkcAM9TXz5hDARNqAjrbmHCBAQAiJhCkbDzAUVgj3IK1AOwsjnLTx9rMUaz3D6gmcpmjTKda1hmpHwboT1HKh0gzQzeA5XhEyeAmeAET4ykkGSEbrOX9i4VpzQKismZEODh0qSoAQNskdo0DoM6g0ARMgySFAGQcqTvfR68leBhMgSXJfgEqPbnDVoS8JkDREo0D9ofPsGQAtz/VzxxYgySnfgDBC1gppBwj55DvQxrshBwjhRJ9CYvsC9OFZksMmQHgOmOsddQyEnqQVCCFJR2q43FUBRspebYzagcRDAEOnRpkDAjDwEnLHFyAZHV5AyJt/BkiOIcaA0GdUIDRBAcLEx5SHcI1qw7URIPXooc4xmfyqtAB9+zxFzwcDDojXOQgek9GBUGLFPS1AB+uztP5mkBsheg96EIYrZpoc8gUIK8KFJglvok3gG+6v/qVZ9HEiQqVciA/4gMKoAJQAPb7byUAqBJ4jwW0Q20Nl9JL9UWywt3KfQdTNvLS/Os7vaYARs9g72ASeEiDZzC1NnnGb99+73xLTDGObwb//M9MN8xPT65N5JrLHCQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACh0lEQVR4Xt2WWUtbQRTHvZ/Dh9JKLbRiqdQN4wJpEqsBldg0xhjUGFdsMFYr2l2b0iqBEhcqLihS9EF8kpaWFsQn3/xGR/4nnOto04dCZq544M8M94bM7551Cgqul1l0rsvPjVoWYnnMS33N9+nNSLMCZlEyWJEDMm+meiGruVgtzUSq+WDATMQ89CLu430q2UrvR/0KZF7NouP9j5QecVMqXk9T4Spa/xChpdch+jIdtGGGw/U0GKqjRNTNGo00UFdLpR6gk8NF+rk5TrvpGM1PBmgu0cIegASmu62KQk0PL0gb0OmfbdrP9LNHkt2PbAlMb3sNHw4BTKQN6Ghv1gYCBISQSJjiQRdDYYXwDNIKdLA4wEkbbLhDgbpiVqvrNvmri1iPK2/ZcpfdoNrSQjNAHe67vCJk8BI8AQhv+U0GCPsrOH8C3gfmgFBZ0wONHDpUlAAhbJI7RoHQZ1BpAiZAkkOAMg6UnmqnT8/bGEyAJMkdAcq8fMpVh74kQNIQjQJ1eu6xZwC0OtvJHVuAJKccA8II2UhFbSDkk+NA3xZ6bSCEE30Kie0I0MrbMIdNgPAeME8ayxgIPUkrEEIS9ZVwuasCjJS92hi1A4mHAIZOjTIHBGDgJeSOI0AyOnIBIW+uDJBcQ4wBoc+oQGiCAoSJjykPYY9qw94IkHr1UOeYTH5VWoB+bU3Sux6XDZLrHgSPyehAKLHimRag3zsztPO5hxsheg96EIYrZppc8gUIK8KFJglvok3kEcqir+M+yiQ8fMEHFEYFoATo1VATA6kQeI8Ez4LkDUYs+6c44PvaMwa5eNjf+rE+xr/TACNmsXdwCDx1DvQv0+KZy2bs6//XjHz91bIzQxRYslqc1PsAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

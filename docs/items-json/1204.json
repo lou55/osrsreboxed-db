@@ -1,7 +1,7 @@
 {
     "id": 1204,
     "name": "Iron dagger",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Short but pointy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xs3WW2sTQRQH8ASRUil+hhbx3Ye+FPqmT76oKCoq1ipVvIK0KKUoXkq0Xqq1WtHSYEuopdSIeEVRFMHPIX6RI/8d/pOzx5M126zSgcNudmczv5wzM5tSae23svjh3f/nrSy3x3bLxOiuJCoXd8r4yI4kiKhNDcr85IBU7xx2UPZHtA0PIKIAYljM3K1D8rhyIDUwPuOejTQqF7Isk5f2/IHCERAGQY/G98vUlb1JXxw9EPpr9OflMfm4OLw6FEE4Z3YIenrzYAJiX4I4MEF47tPSqHytX5Vv9esJCPe3dHcnYUc3LaSdv5ogDOqBpq/tiyCc4/nt27bK5p6eiFqcPpoC4ZwgO7pp5VQZMBAnNz5bEOBAsLzE9PX2pkDLM0PFgZglXPNAzKTGWNCLJ8cjCJELxHlhQRjcgvSExrPEWNDL2RNp0PML7YNwHSCimEn0ycoO4tXcyWJBCAA0SE9onR2LQd9382ci6MvK5YjJDdIoLl8LstnRGILeL5xzQXb0Ji3sIRgsC8QJnZUdgj7Uzq8WFPYgZOhvIPTR2SEGpdUg9NcgvSna0U0LX+aBEBrELOrs4BzPaRDghYKIQmAA7Ljod+9upzyrdkYQjkDjOVuuwkA6Szhq0OCR9RH19vWGmC0PtPTwWARhlyamJRBWjgfiGxwgluzs6YCqLQTUj+9dyXU7f/Da0BlqMTtoDZCdR7huQf2b1snIcIc8uB9QNkMsF14bhYGIwnUMwJIBg2CpEDqTGoRdWoOIsqM7LYC8snkgHLmLY0J7IPR/Uz0VQdiDcuxDaZAuG0HNMB4I2WkbhFXWDMTS/Pq5sSmIc43lKgxky4Z7NyodUl8JSxyD23IRhO8gCEteg7AH5d6HvLLhenJ/NqymLJCeP4WAvLLxV6MP7um/JRrE1wbL1SYIrbGMs8LOH4YFYVPUIEYOUKnEbT0rLFCHnj+FgFptFtkKltHo+5+aRXphn1nT7TeZY4sPMhz4dQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xu3W22sTQRTH8QaRUhH/hyL+B30RfKtPvqgoKipqFRWvIC1KKYqXEu+ttV7Q0mBLqKXUiHhFURTBv0P8R0a+O/zWs5PJmk1W8cGBw252ZzOfnDMzm56ef79VXDxi9/94q7ibY9vc9dGtSVTPbXHjI5uTEKI+NeTmJva72q19EVT4I7qGe5BQgBQhZvbGXvewujszMJ+5F0YWVQhZcRPntzehOAJRCHR/fJeburgj6csxBqK/RX9cGnPvF4Y7QwnEubIj0ONrexKQ+gqkgQXiuQ+Lo+5z45L70riSgAph+FL9aoEYNAaavrwzBXHO85s2Drp1/f0pamH6YAbEeZugSqYMDKTJzecQBByEyivM+oGBDGjpweHyQMoS12IgZdJiQtCzR0dSEFEIpHkRghg8BNkJzbPChKDnM0ezoKdnuwdxHZBQyiR98rJDvJg9Vi6IAGBBdkLb7IQY+r6ZO5mCPi1faBdDy4IsSss3BIXZsRiB3s6f7hRE83sIg+WBNKHzsiPQu/qZTkF+DyJDvwPRx2ZHGEprQfS3oAKbov+yGIiwIGXRZodznrMg4KWChCIYgB2XfpO3+9yTWl8K4gia58JylQayWeJoQUMHVqao1y9XpdmKgRbvHUpB7NJtYmh+hcVAeoMDUslOnfCo+rxHffu6Orkezh9eGzZDHYHCecT1ELRh7Qo3Mtzr7t7xqDBDKhevjdJAQnGdAVQyMIRKRdhMWhC7tAUVQHlQrGwxEEft4kzoGIj+r2rHUxB7UIF9KAuyZROoFSYGIjtdg1hlrUAqzY/va1qCNNdUrtJAYdm4d7Xa6xrLfokzeFgugfgOgVjyFsQeVHgfipWN68n9Gb+a8kB2/pQCipVNv5o+3LN/SyxIrw2Vq0sQ7dcyzotw/ihCEJuiBSkKgNptzUiFnT9/EZTXmpHN8b91134CT19Ag2cXoVUAAAAASUVORK5CYII=",
     "wiki_name": "Iron dagger (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_dagger#Unpoisoned",
     "equipment": null,

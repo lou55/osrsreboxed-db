@@ -1,7 +1,7 @@
 {
     "id": 21895,
     "name": "Dragon kiteshield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": false,
     "examine": "An ancient and powerful looking Dragon Kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu2XUWsTQRSFu5QQEsKGkpBiHkoRRCTQtKGmlbY2UiNqxQfFBx988P//iOt+Mznby7iK2+5WRS8cmkx2935z7tzZ6dbW3xuZRf0RkdlsmNvjPN9A/XawzBajnRLq4WDgwFK1HtGdR5OJPXmwa7Pp1Jbjkc13hgEO8TvfGb8HqCwk/dDr2Od+x74OOgFMAtQLuJahslCi973tEuqTE2P8JvH9pqSNR1w7e4XW3ZgwhRAgY1zzZjM+7fUq1leVakVcP6siEckEJSDBPD89tfPl0p4dH5fXAsa64n4c2+v3AySadLulakBFd3iYTyJnvhQg6OriwlZnZyXQydGRPT2c23lxPfdNh8NqbRw83N8PSrNXRHSHmfFgD8PC9kBySDCLgwObz2a26GzbSTfKT4pJyp1fhpE7zEZAlEowVeUCSDBAzAsgQQlIk7y1O5oVMOjdem1vX14FASQYJHcoFyAeiDGexRbiy5Vm/kHEVh8VQL6zkGBwCAmIZLhAYgCqgPidSdYsF5GFG3fzQYCRK69frIJULhYzJcPBFAgY9DOYWkDYqsTqKsA+Xl+X47jjYQQkZ7w76UKuAUNEIJWKpEDgjpx6dXkZgFIYrR91F9/ZWO8AQ8SSqc0BAoAWR3ymXFrMHiqFoUtv0VVpxBcqIJL2HZXQw6hsyJcJGEqV1++qNLKw7WvWJFJXqdtoccAEhNRdDZZKETdGrQkB+bc8Y+ownPLtzl+9Htg67ugOkYXDFrVXy2pz1JpiVxYsi1tAgtE+1oA7RBZPh8VuzUNVApILiM8aFwz7lhZxgzCKLJwAWdweym9+GgME+WNGwzCKCCX7fUt7mBSkJRhF8V4bj0NSpEO9/vsQTFqilmAUEYo21gFLZRJIy65URXoWvtE9ufJ9+MSp0mv/xz8T3wB9KL+36lj5NQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClklEQVR4Xu2XTUsbURSGvUgICWGCJESahYtCKRIwNdhoUWuKTbG1dNHSRRdd9P//iNN57vWdHMZBnDixFjzwYubOx3nu+Zpxa+v/tWBJT8KCTfqZvc6yG6h/DhZsNtgpoF72eg6srI1bis6r0cj2X+zaZDy2+XBg051+hEOc55j1R4AK0en3Tst+dVv2p9eKYBKgXsBtGCrEFH3rbBdQP51Y45zE8SqljVuqnb1cy3ZyWIYQIGtc8/lmfdzpVNRXlWpZqp9F7ghnghKQYN6fnNjZfG7vjo6KawGjrrifiO11uxESjdrtQjWgUnR4mHeiyPzOQdDl+bktTk8LoOPDQ3v7Zmpn+fXcN+73q1VE8N6WosPOeLCHobA9kCIkmNnBgU0nE5u1tu24neQ3xSbXjg67ERCpEkxVugASDBDTHEhQAtIma8Bgq+hoV8Cgr8ulffl4GQWQYJCiQ7oA8UCs8SxGyFrpIjqDHMh3FhIMEUICwhlRwDEAVUCcZ5M104WFeONu1oswisrVh0WU0kUxkzIiWAYCBjUAg4UYVjlWVwH24/q6WCc6HkZAioyPzhqF7C0BKVU4BYLoKFKfLi4iUBlG9aPu4pjB+gAYLKVMbQ4QALQ44jfpUjF7qDIMXbpGV5UtvVABkTR3lEIPo7QhnyZgSFVWv6vKFuLY165xpK5St9HigAkIqbsaTJUsDUbVhID8W541dRiR8u3OX70eGB2NAPGxRe7VshqOqimmsmApbgEJRnOsARgspK/DfFrzUKUA5wLit9YFw9xSETcIIwvxC5Di9lB++GkNEOQ/MxqGkSUohd+3tIe5DbIRGFn+XhsOo1Okj3r99yGYDaToLktQtLE+sJSmFcijwcjktErP9mxPx/4C6DCDgRZRPj4AAAAASUVORK5CYII=",
     "wiki_name": "Dragon kiteshield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_kiteshield",
     "equipment": {

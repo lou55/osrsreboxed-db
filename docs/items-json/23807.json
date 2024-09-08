@@ -1,7 +1,7 @@
 {
     "id": 23807,
     "name": "Inversion potion",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": true,
     "examine": "A magical elven potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xt2X+0tTYRzGfWUcx+iXfgypjNCwoma4mXOWNedtbbE0mtoUb2uy3IU555QuhEWSYBgDMRJEMiO80oXoQj/U3/V03vfsPTvnzILg7Az6wvPDxrb3w/M833dbWdn/MQRqlXQIxnpP4qbnGNzOI7hw9nCpoQg2Xjix/ryJKTFai37/iVJCERnm1bOLiA6dQsB3nAFZq6qMhpI6w4FePm1AZKCGxVeCPhF4fd3w+2/J7mTnbAjfrsaNjqOw25vgaLpiJBRBX99gga55u+Fu8+JySxusVpuR0YnbFQozhULjsro8frhau2CzOVBdU2ssUDyRlBWNxhGJRNHReR2NjhacPnMelZVSlwwCokPwemMTe3v72NnZxfb2Lourrs4ul5rCGAo0MnIH6fQ0ZmZmmWhc9fWNpYChQzAxEUMmk8lpBq1uDxoamo2Oig9BejqjUnuHT+6QgStPh2B4JIRkMoXJyRRSqSkWHb2brro6VbFp31mkIQiHI4jFEvKmBYNDCPQGGVTzJZfxQJbPP/La+wTL5g7Ma29gXllDxf1HEIbHjIpNhHm3XwgkPmdefysBPXwMYWzcCJcIzKvrahiq91/UQHPzEMJ3YeofLLZLojvbHw4Gos9vbElATxYgxJIQRsPFdImwA7Uwh77+hOXjtzyQ6CADSkyx2Ew9gWK4JEa1vCp1JQehFAPixaZA84sQUhlVbDq7JLmjBZGBeLE50MISKmYfQIjEIQwMwxTo19MlwnpBD9SCqIBoj/jqL2al1aexievPYhMEvaD+4s73X5IoFN80CrS0LK2+IjaTx6tXdKTQHQ7yJ6DsCit2RfpePjZ/D0zudv1cKoDQiBWb30XiAtBi89hoh8odTtkhfVzSrLrWKb76qstRvItof8rPWfWE4SP9CmTR0MOVcBSIPs7dRQxGjIr3pggw0kgfyP9zERlM3jSxa8rvMSWI7jDKyR+Qh9PKEJCDRnmwVtrX/uv8BkgPCExWXE0JAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvklEQVR4Xt3V70tTURgHcI+M65De9DKkIkLDiprhNDcta06na8bSaGoqbm5NlvvBnHNKPwiLJMEwBmIkiGRGtKlYEf2gF/V3fbvn3J273W316u5e8IHnxe6L3Q/n+T7nVlUdjiJQtq5F4B86jdvOE7C3H8Ol80f1RhFsv2rH1ksr69hkI0bcp/REERnz5sVlhCfOwNN/Ui+QlBkOev28FaGxBjY+HfJE4OofgNt9Rz6d9KIZwbv1uOU4jpYWKyzWa1qiCIaHx0v6hmsA9m4XrnZ2w2QyawvyB4KsA4Epufucbti6+mA2W1Df0KgtKBqLyx0ORxEKheHovYk2SyfOnruIujqeJc2K4O32Dvb29pHN7iKT2WXjampq0SPUtAh8vntIJucwP7/Amo6rublNDwwtgunpCFKpVK7n0WV3orW1Qz9Qci6l6B5Hv5whjVEEXl8A8XgCMzMJJBKzbHT0brpu69VjbATBYAiRSEzetNHRCXiGRhmq44pNe1Dt11/53vuC2p0sjJvvYFzfRM3DJxC8fq1QIubDfilIfGbcei+BHj+F4J/SAkRg3NhSYmgffFOCFpcgBO/DMDJeaZR4OplP5UH0+fZHCfRsGUIkDmEyWEkQYS8sxhz5/hu1n3/kQeIJMlBslo3NMOipBEoc1dqGlJUcorAZiAebgpZWICRSlRybdDrFEBnEg81By6uoWXgEIRSFMOaFwTOiJoqwXNAXFkMUIJojvvoraWn16djE9WdjEwS1UP85nZ9/pKYovmkUtLomrX7B2AxOl4qg4tPhkH+B0uss2DXJB/mxuQdhsPeohypBFDULNr+LxAWgweZjoxmqtrSrhaGl/FSUOym++orLUbyLaH6qL5jUxPCif0ik0dCXF+IoiP7O3UUMI44qnxvVMYXFX0BkmLxpYtaU37GKQspVHlfah7D+Amnn0zJCfk/IAAAAAElFTkSuQmCC",
     "wiki_name": "Inversion potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Inversion_potion",
     "equipment": null,

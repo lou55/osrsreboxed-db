@@ -1,7 +1,7 @@
 {
     "id": 21140,
     "name": "Efaritay's aid",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-02",
     "duplicate": false,
     "examine": "Aids the user against vampyres.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfUlEQVR4Xu2V/0tTURjGPT/EmOxvEPEvSBCsX8IoMTIMnSbLaGZW5pfZMi2/FlYbZmK5zGpsDFsrRmwYLIvJGFEOkdJMGoH/y1Pvu+7d4e5Xz13BHng43HMH97P3ec97yspKKumfk0DORZMGkPPAgUPsIoEJfCh36g5Ym9ktVbW6TYYqBJqw1LFloIOVlWZBCfy0uXRv2fp0IA3KJKB8z0xcG8Sezc2OlTvYtyxHdCsEykP4PB72otcL/9wcPKOjOFxTowPJUIqABJZmZgr8YnYWwYXHiDx/hoX79zDmcqHL4UDIatetAEjg0d1pjmbgYhc629sx1NPDVQn5fAzzJhBA/FWYqzXc24uwtVW3EiDv+DgGL3UzzPkzbQxEewTyNhTCSiSCRDSKj/E4HkxO6tFqMPsIJLC8+AR3bgxxFPbGRgZyX7nMEckg6dX3yKTTCMzP828VwJAEx3Czvx9tTU3cuAREz7Qvg2xtbCC7s4PYy2V+ryAqkkA0GOT+OXG0DrXV1QwkR2J0KpHAw9tTON3Q8HdvXyXweW2NY+i70MlAchRG0zsaBd0dHVxNBVUS2MtmsRqL8b8+29IsVcMowSOAqnmu1Y6qigoVQCSB75ubHB2dLDr6V53OgqjI2iw6VV8Pq8WiDujX7g+sp1J8qqiZp0eGMXXdzR+nlZ4JllaCleNSAEQS+JbJcD8l363w7KFeoYrQSqb5Q0ORYlUYl6Y/t/r2Nr6uf8GnZJKPO03m134/NzyB0ayiZj55/Jjq6mjK9RJFR1UioPDSU77PqDo0LLVZpbg6snLNS6eOYqO7jG59Ollyc5tQnby0eWN04UwyWUaAokCUVNL/oN+ObF+NzMrB9QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaUlEQVR4Xu2V7UuTURjGPR9iTPY3+MH/QBCsL6GUGBmGzheW0cyszJfZMivfw2rDTCyXWY2NYWvFiA2DZTEZI8oho3yLRuD/ctV9j+f4zJEfirP54bng4vA8O/D8dl/3uU9JiSFDh04CWRdNGkDW/UeOsosEJvCx1C7tMzeym8qrpAsMlQ80ZqpmFw3op8UhvWHplUAaVIGA9npm7PoAdi1OdqTUxr5jOi6tEGgPwuNysRfcbnhnZ+EaHsaxykoJpIdSBCSwOD2d55czM/DPP0HoxXPMP7iPEYcDnTYbAmartAIggcf3pjia/kud6Ghrw2B3N1cl4PEwzFufD9HXQa7WUE8PguZmaSVA7tFRDFzuYpgLrS0MRO8I5F0ggOVQCLFwGJ+iUTwcH5fRKoFZWniKuzcHOQprfT0DOa9e4Yj0IMmVD0glk/DNzfFeBTAkwTHc7utDS0MDNy4B0TO914NsrK8js72NyKsl/l0ZUNjv5/45VVONqooKBsqNJNeJWAyPJidwtq5OBZTAl9VVjqH3YgcDHfwRwaOgq72dq3nw3n+SwG4mg5VIhP/1uaZGXTX2S/AIoGqeb7aivKzsL/v+WwJb6TRHRyeLjv41uz0vKrI2i87U1sJsMqkD+vVjB2uJBJ8qauapW0OYuOHkj9NKzwRLK8Eqiksvge+pFPdT/P0yzx7qFaoIrWSaPzQUKVaFcWn6c6tvbuLb2ld8jsf5uNNkfuP1csMTGM0qaubTJ0+ohtGU7SWKjqpEQMHFZ3yfUXVoWGqzqkBApGzz0qmj2Oguo1ufTlZugxdc+Sds/w5DhgwdVv0GTnEpE7IVZaEAAAAASUVORK5CYII=",
     "wiki_name": "Efaritay's aid",
     "wiki_url": "https://oldschool.runescape.wiki/w/Efaritay's_aid",
     "equipment": {

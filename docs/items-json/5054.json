@@ -1,7 +1,7 @@
 {
     "id": 5054,
     "name": "Dwarf",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": false,
     "examine": "Petit.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4XsWW7UsVQRSHnf9E8EPfJEOMMFExMzNMU1Mz08zMzHzJ7KLmS2r3YkZGNwmCIPpHTzxnONsw3KBry+yBw91dd848/s7LbEPDf5uT+EmB5qSrvV08VKFgHuDt2qqsPp2XiaEhuX2jpygoJ5/eHciX98fy/fRUzisVqZbLcvB6Q14+mSsO6rhUUgiA5iYns7RdbmxUj1ckMCez4+Oq1IvHszIyMJABxW8mMicfdnelsrOjKaOOCgCybnLycX9PSsvL8rNaVZUe3BsOUpfEnG5KeqifhelpeT4zIz/OzuTbyYlcbWnRvydUyatiHbaxuChjg4OyubSkhX29rS11HTkpb22pOtQN6gACGLXEHKLIkwLR5nuv1tWvNDdrqhiMgFLUNoeSAW2vrGROQZMu6ubwzaY8HB3JYBIBYU4hcFLF0QHcnd5e/U2oTmh+Sn8+OtQOI2XzU1Op6yc0X0t0G8VMZ5GyxC0fmp/QFDSdtv5sQYs8ccub+Sl9qalJfp1/VRBmE12GaomBnKaGzXGugWAmcT3c358eiGJGESBQh2HIM9L26P5Yyo80rw6K0FXXWlt1CHLKoxbnWk9HR+aW2jhKDuYDM2dQhM3pJooZMIqb58wlAGl/lLrZ2RmolQucD0LnUBscore6uzRdQPCZQdujGBPbvh4BZQ3vh363r++icH4BKhCIjUMnMBsDgDOpGYi1HKU4TojFOYcb4D9COQ1iMChDQOqDdJjzPYRKpg73ofO+TW7WGxS/QNU5r5wGIyiKGCDB2Yzzy86y2Ok0gG2tKUU87i8IhPm0EYjCtf+aoPaMg5R0UdBcW1GbOtSSqckzO+fM6/4i8C/7xQQkNahjgDgQAPGcewBQiXt7txZE3TChhWA4dYMyBmgA3JtiXOcKUcv+BPQbMamt1fllPv1NjThW7harVgsiCUhsMUBeEL8BQRceYAi4vBYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xs2WaUscQRCG7d/iB78JBjEEFRU1ahTjfd8xxhiPeC7e9y5qiOIqgUAg+EdLnmpKm8WAx9qTgmJn2pnqx7eOnoKCF5uT3JUEzUl1ebl4qETBPMDW9wVZ+DwpfW1t8qGuNikoJz/39+Ty+Eh+n53JdSYj2XRa9laWZe7TRHJQR6mUQgA00d//f6RtrLdXlfo2Piadzc3JA51ub0tmc1NTRh0lAGRpcfJjd0dSs7PyN5tVlQY62oPURTGnm5Ie6mdqeFi+jo7Kn/Nz+XVyIm9LSvTvUYFQxTpseXpaultbZXVmRgu7oqwsdh05Sa+vqzrUDeoAAhi1xByiyKMC0eY7S4vqb4qLNVUMRkAp6shzyMnG/PydU9Cki7o5WFuVoa7OmDBmTiFwUsXRAVxLfb3+JgCE+Sl9cXigHUbKJgcHY9dPaL6W6DaKmc4iZZFbPjQ/oSloOm3xy5QWeeSWN/NTuqiwUG6urxSE2USXoVpkIKepYXOcayCYSVy3NzXFB6KYUQQI1GEYskbaRnq6Y36keXVQhK56V1qqQ5BTHrU412orK+/cUpsbJQ/mAzNnUITN6SaKGTCKm3XmEoC0P0q9r6oK1MoLnA9C51AbHKKNNdWaLiD4zKDtUYyJbV+PgPIOz4f+saHhuXD+BVQgEBuHTmA2BgBnUjMQH3KU4jghFuccboCPhHIaxGBQhoDUB+kw53sIlUwd7kPneZvcvG9Q/AL1xHnlNBhBUcQACc5mnF92luU6nQawvWtKEY/7ZwJhPm0EonDtvyaorXGQki4KmmsralOHWjI1Wbs/555cQ6H5lwlIalDHAHEgAGKdewBQiXt7Ng8QD9l9UOoGZQzQALg3xbh+BYh/md+ISW2tzi/z6ZXUeKyFmycGEcduAVmb3c4k8CA2AAAAAElFTkSuQmCC",
     "wiki_name": "Dwarf (The Giant Dwarf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf_(The_Giant_Dwarf)",
     "equipment": null,

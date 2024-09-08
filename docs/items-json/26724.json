@@ -1,7 +1,7 @@
 {
     "id": 26724,
     "name": "Wristbands of the arena (l)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": false,
     "examine": "A pair of wristbands to protect your hands in combat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4Xu3V7yurYRgHcPcLKWlaWxZrGxMaJ2Mx1Pw4ISNtfpwxDDO/IiTndJx2lORHkpQkryglnU7JS6/8bd/Tfd3nfngeHC/O9jwr+9b15ulu96fruvY8OTnZZJNNxoVBVEaE4WpnCmffR/+iDIUx3B0v4NfhLG72Zwh2uR0zEsVwf7KI30fzuD1IEOb02wiB6kpLjUAJEMfw7pz/iGJvOfwMpPsIGdYig5gL9eEiOY6TjS/YjPcokPFeP7qaPHqiGL6ORbA0FEK8rwcjne3oavQRgONWox0Y7qzXc4QMm7EodSnRH8RgW4Au52Pk40smgoiHmvUCibEkp8YUkHz2cL6G691pHKwMqLqk/YUUhqHNU4FGt4su4qCnLjA8Xv2k1wF/N/U2+9FULfYoTV0SXQhUlsNX5oCnxAanxay5kGF9dJj2KtzagoD3U7pADC0lVip/sUUB2UwFL0Bb8Qla9ueLnmIQg89mhtdaiBqLiarKLEpepr5QLPxksBvtdbV0RlRKwxSQxLgLtd1Rn/9cXUmddBdZkZ+Xmx4UL4lxmvL/CRpo8KpQb5/9j6g/C6+NS4ZhusaNcLkdHQ4bjVx2VHsyJZGQ1zE8AhSpchKq21VMfwa5d9rTOkSAoh6XAmq1F1Gn+B4ahpKgYJkAvT/qtEaAhiocLyAGYGQyBvKUjIFk8yHzB7JtVFLXSw5jAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6klEQVR4Xu2U3StDYRzHPRdS0tbastC2TGgmY9lbjU1oI23zMtu8zrxFSAiNkrwkSUlyRSlJSi5d+du+Os/jHPM2Zc45uzif+t2c89Tvc76/33kKChQUFPIOAlZ5AcH17hjO12NvUrKKETyezOD+aBK3BxNU7GpnRE4pgqfTWTwcT+PuMEVlztYG5RfiZLh0Ljbj2J8PZwhJPkKCpWgvpkLduEwP4XRlABvJgLBLQ11OdLgsUkoRrCaimOsLIdkdwGC7Dx0OOxXg5BbjfvS3N0krtDESpymleoLobfXS5twYufGlU0EkQ26phNhY0mMJQYh/9nyxhJu9cRwuRKRKiaDVUg2H2UQbcULvDQlerrfodcDdTV1uJ1x1ou4RS8FbUwV7pQGWcj2MWs2nhgTLsX66V+EWD7y2erGECDzlOlrOMq0gpFeVfBHaTg7TZc9c9Pf3/wKBXa+BTaeGVauiVath9X0ztvCjwU74Ghveznx3LieIIMTLmNWf08mEoK2uhiZpLtWhuKgwy9k/w76UlzGqirM0IYg02z5I/Xw2Z/gRZGtAMG41I1xVAb9BT0eePVHRYULRWiOV6jSV0Z/h570THSYUt5gEoZaKUpoUt4eySfFCwUom9PuoRYUJ9VUb5BbJJG9EFBTyg1cJqyfh0qc3jgAAAABJRU5ErkJggg==",
     "wiki_name": "Wristbands of the arena (Locked)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wristbands_of_the_arena#Locked",
     "equipment": {

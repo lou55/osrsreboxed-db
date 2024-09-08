@@ -1,7 +1,7 @@
 {
     "id": 21904,
     "name": "Dragon crossbow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "A dragon crossbow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xu2W72tSURjHPYgMZTiG4pjDbSpuOEFTrCWTVNLMklpJvwhbySqyxSAYsf6A/py97d1eBnvVn/R0v+fseM89Xq/XqdWLfeHhzt09dx+/z49zPZ5rXUsXIxH/hRjdzG9QIRu7KtSVkkaIUb2S5jC5zBpl0tFJoRjlfN5JkxzEqFbeGgClUyuUSkTcPp/R+fkv2l0QQDc2N90kOYhR52GeyreSA3ckUGI9PA6K0dnZT7q4+E0NAyjs8SgJjokjxOh5e5vazSzdLsYt7gQCPh4uvrSYBAAFB0BGCXfWJoRj9PJJkfZbOXpQz/BywZ1YdJGWgguD5wJmDBDEqKqUTCTIb2L0Q2lr8EB7OMZBmrUdulNK8emCO4AJh/yW57qAgcymVhPMnwVIu56lTiuvwcHNCIdB38AZlAkw8v4EIFKMNryiXKMSpVsyup1d6r3Yo3YjyUHQJ4DBNR4LWkBGPdNBjAo2DtlJLel+M8WBUCI4shoJDJVIz3cp0dQ7PtnUbiSaGBMFRwAzRYl0MXpmjOTR0TdKXZZO/wurRBNjG6Ncsl+mKJGdGD3ye8eUTjiAscY0yQZWndEzphCjV4ZLGP/y5QrQ76M8OBLQMyoI4svbqk3O1BIuoZ9afgklQo419os8Aqwlmknv6DLG2XAJUE/9Ph73KnGLK9HVJYd/PnOHIFE6RKuWoFIxSqn4MncltCwmaRTM1/f1+ZTt3aKP75dqaZ1vYUyRejAOw0jNqbl7r/f4joE728kQX3bqwtMzTDHqv6nM2iVjJz0u8IkqZFf40sOxgv00fkcxOvnYcAE+sczpwvZG4PCVYd6301zKZj2zEHijxH6SId8wh8EYHffu2vx+hlLB5I7CVcKpjiK+f74/H5d0qWAIuUSx3XHFZ5yJmFL17VN/zsyll9Muut0PvN9MsL8kCacGAPr9Ezo8PKaDg0/889zL5yxGp6c/Bm6ZoP9U+uE7Xn8Aq7n7s/79AfIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xu1W22oaURR1IxKUYAiKIQYTVCZBA4pim0qkKtVaW+lNeqPYtJK2NE0JFEJJP6Cfk9e+5bGQp37S7qxzOM44mZuXNHnIgs0wM+5zlmvvvc4EAje4gRXEMq4FiG+VNrhcSE1LaqokBxC36jlBpri9xtu55KSkiIuh4KRJLiBu1jZHhHLaCmuZhN/1ic/O/vDOwrwIEfcflbh2OztSRxHKrMe99iA+Pf3N5+d/ua0TigcCpgTXRAcQv+xtca9T4DuV9Jg6kUhIhI915SSAUHRESC9hfm1CcsSvn1X4abfID1vbolxQJ5Vc5KXowmhda5YDiBsXSmaQaVY3TQvaLUqCSKeZ57tVTUwX1AGZeCzskOMKr6aWRHqtAve7JQs5qJkQZNA3UAZlAhnnP+AJ4o2guX+cYJAY9Hd4+GqXe+2sIII+ARlc06moj7VcQVx2VcgOepk6miCEEkGR1URk2hJZIZs6H/KjkoJsYkwUFAGZGUpkBfELfSQPD3+w5rN0aGK4Mcpl9MtcQfw4HPQonVQAY41pUg08R2XMIH6jq4Txr12wAPke5cGRgJ4ZJ0L87X3DJmdmSJXQT92wIiVDjTX8xf4IsN7PBfo46yqB1PNwSMT9enpMleTqkg0ZBafnM0GWDtFtZrhaSbKWXhaqxJbVJNmB+PvHlsv7qUH8YTEk/KVRXRcujCnydzBeUnMP3+4Kj4E6W9mYMDt/hkd88K7u43cTQfekJ2UxUeXCijA9HCvwJ2+PIj7+3Pb4zVQwpgvujcDhq8K9NG7v5gK5Ab4o4U8qjC9M6+bER8N7Ns/nDrm58ihcFTmzooifXx/8D0IKxsbKROHuuOIeZyKm1Pz1aV3hEjGujDkGg0+i3wxiVwp9/A+OeX//iPf2vlwPQicnv66iZG6YnMg/QMSf85K3FFsAAAAASUVORK5CYII=",
     "wiki_name": "Dragon crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_crossbow",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17086,
     "name": "Unusual armour",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-05-07",
     "duplicate": true,
     "examine": "Looks kind of useless.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xu2W208TQRTGd7LZbNqYGmIjsY1cbIoBDAVSuQSQGqi1YioXK1ZUEFHCgw884ZPxPz/uN+PZzo5r6a7OPvElJ5ttOmd++52ZOeM4N7IiQfGRudTE90ZH6W6xSHdGRuh2oUC38nnK+X7WUIJmpqboYaUiw3QHQBahzDIIejxfo8W5ORl4n5+YCAPvcIrdMsdG3xNL0LjrUNFxqBAE3p+srND60pJ86jDmOL2M7NaM51DJ7eeKjrlWKkE1SAAoBH57trlJL7a36FWrFQKZI5UE3S+V5BpjIM4FqMFjYyVo0XOpFgTAkOhgZ4eeP23IANTfkwbOlssyAMSl03OlcEnQuu/Ssq+g8HXdTodeNpu0tbERgTLHVScn6cHYmAwAoWycDx8JKAaK/6BYCWrn3EiSt7u7slSAQenYLQXVD959AEPZsJbwbPr9fKmAOgEQkiABbL48/0p77bZ0iWEQcAwLHbuvNjtLj6anw2MBLuGJPA3N8RRAUPTLv30+lWUzoQCEXbdar4dHAkOxS2YuhkkI5DjmGXNxfEzv9vckGMqHdYTyNdbWpEuAWl5YCMEApU9uhjlfQikgPE8ODyUYdh67xWB8VgEODqUoTRIJOjs6otNejz6+6YZu6WXkEqJsqUszvBQQHBoEhLJxn7MIAw0HhN2GHZYBEKTW0PvXB/JsMmGwdrCYcVJnACSom/foQ8uLAGG38drB7qqWg55VTHXWJJUC6m171G2o+PnDp2bdlfHpxKNaxc0KSNB+zgsDJzni+5VPF+cefTnzFNDv3vcPV41h1QdiGPQ7tAXuU3oz1oEsuaSAGEYHQp+KA8LlzhKQarYmzDBAlsoWD8TligMyr79WXGJXdHeuA/LtAUHq6mCWywTiqyr/32o/U4n/vN/EBYNYg9GlTzYozHE3+l/6BYhoiH8dXzbJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjklEQVR4Xu2W30/TUBzFe9M0zYiZIS4St4jBBQxgmJAJGEBmYM6Jmfxw4kQFESU8+OCTPhn/82PPvX7X7lq2UWlf5CTfNF3W00/P9/5ynCulIoX4ylzmxbfGxnCzUMCN0VFcz+dxbWQEOd/PGkphZmoK98plXXY6BEoRym6DwsMHFSzMzen6+6VKJyVp2c/23l9YCndcBwXHQT4o3j9eXsbq4qK+nm+setooac14Dopu6GU/NUDGYDIwIBSLvz1dX8fzzQ28bDQGmCrcLhb1GBMg8SJU/2djpbDguagERTAa7W1t4dmTmi5CnW8aJFsq6SKQtC7qlSAlhVXfxZJvoPh17VYLL+p1bKyt9YEKkpiYwN3xcV0EYtvEjx9JqERAzZzbY/Jme1u3ijBsnaRljMOS2Ucwto1jide6H/olAmoFQDShAWP+dvoFO82mTklgWEyMA52zrzI7i/vT091lgSnxSp9aJPEEQFTvl3/9dKzbZkMRiLPuUbXaXRIESlKyvRLAxEnh7PAQb3d3NBjbx3HE9tVWVnRKhFqan++CEeqSXh4nA8Tr0f6+BuPMk7QETNYqwjGhFIEohZODAxx3Ovjwut1NK9pGaSHbljIMZYCYUD8gti3c51LVcECcbZxhGQBRZgy9e7Wn1yYbhmOHg5krdQZACu0RD+8bXg8QZ5uMHc6uyVKwZxUSrTUXlQHqbHpo10z9+umjXnV1fTzyUCm7WQEp7Oa8bnElZ/347uPs1MPnE88A/dn7/uGoMaxCIIHhfsdtQfap6GacGZDARIG4T8UB8XCXEpDZbG2YYYBSSikeSNoVB2Qff23HS5A5I0VrGCA/PSCKxiGYwNhAclSV/9suKUheNKiu9B/pNz4uQNE3ssPiAAAAAElFTkSuQmCC",
     "wiki_name": "Unusual armour",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unusual_armour",
     "equipment": null,

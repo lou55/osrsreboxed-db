@@ -1,7 +1,7 @@
 {
     "id": 25089,
     "name": "Trailblazer teleport scroll",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": true,
     "examine": "A scroll which unlocks the Leagues II - Trailblazer home teleport animation.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xu2W+0tUURDH78WfikCiCCpEIxRScHPZsnDRpI0tFVQsk0ylNS3tbZhkDzF7IIIU9qBiC0EsevdDEUU/9JdNfOcy6+nsfZyTG1Q4MOzu2TtzP/O813FWZEX+b3FpSQst1r5d2rTaodI1DlWudWwMDcSl9asc9m/h26XyYodi64oovqGIjbaXlZkYGogHJP4NfLuU3LmVmlJVdLKvnmanDtLHhSElxVapdvLtXM68RbAu1e8up7YDMQaavt5OT2a7afFxhhYeHqP5+330bK437yZBem2kicbP76exs2kaPbWPYlWbOeB0YyWfw593baC4dKg1TiNDKbp5uZUeTHcxjAr0fv4EvX0+SC+f9ufOFrPjrNm7R+nRzBGau3OY7t3qzAPaUVPK2R/oSXKg8BWSJa9cyAycoVySnTAggTEBaklXs/8bYy1s//XNxXAglGs40xAIhHJVJBKstkDx6pJcK+B/I6DGZAWdOb6HYXQgAdGB5HcUEMoFIARsDJRq2EbnBvf6AqFcKpBA9k5M5j6hKhDOVaCO5hoO2BgI3Y+GnpnsYA0CepUd4DOBkHM/ICj6Z1diiz0QJgAZwrgHAaGp/YDU70FAmGArIEyBAKk7SAXChAmQCiIwyJCAQFEyAGGCu9oTdkBoOhjcvtrmCyRTpgLpWnAgTAGWIqDgXAeSHSRnfmOvQwIIK2VZQNAwIH1L+wHJ2AMIK8UaSN2k+qPDBkjfQ78NJM+ZidFmhoKhDoTrgrTgQD2dtWwAR+gh3ED6RW4K4yDVAaOAvry+EA4EQ5QKWxpGKAtKpIPolqr4AcJvpruOly4g4ffzi9P0/cOVcCCMOkBQGiiiiHhFiBQBw+MDbYCFi5e+b+8u0Y9PU1G+vYjwRpfc6KmaHf1qO/F84/VV/Br51nsh0sBKloK19v1rLxRS/kSgy5S/CuaflZ9wS6Ikkd9iBgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtElEQVR4Xu2W+0tUURDH78GfiiCiCCpCIhRScHHZHtKiSRtbKqhYJplKW1r2zjDJHmL2QAQp7EHFFoJY9O6HIop+6C8b+c5ldk937+Mcu0HEDgzqkfnez5x53Os4ZSvb/22Kih63WWsr2rjSocpVDtWscWwCDUzRuhUO61toK6pa7VBibQUl11eYBhmaCyT6BtqK0ju2Ukumlk4NNNLs1EH6vDCsXbHVVTulcYpv3iJZRY0NVdRxIMFA0zc76dlsLy0+zdHC42M0/3CAXsz1lzwkyG+MtND4xf00dj5Lo2f2UaJ2Eyecba7hc+hFQCk61J6kkeEM3b7aTo+mexhGB/o4f5Levxyi18+PF84W8+Ps+ftH6cnMEZq7d5ge3OkuAdpeX8m3P9iX5kShFQLklgs3AzGUS24nDEhgTIDasnWsf2usjeO/v7scDoRync41BQKhXNWpFLstULJuc6EV8H8joOZ0NZ07sYdhvEAC4gWSv6OAUC4AIWFjoEzTNrowtNcXCOXSgQSyf2Ky8BOuA+FcB+pqreeEjYHQ/Wjomcku9iCgN/lBPhMIOfcDgqN/dqW22ANhAnBDGPcgIDS1H5D+exAQJtgKCFMgQPoO0oEwYQKkgwgMbkhA4CgZgDDBPZ0pOyA0HQLuXu/wBZIp04G8HjsQpgBLEVAQ9wLJDpIzv7H3QgIIK+WPgOBhQN4t7QckYw8grBRrIH2Tel8dNkDePbRsIHnPTIy2MhQCvUCugL/HDtTXvZMDIIQewgOkX4oPDrPfAaOAvr29FKapOBClwpZGEMqCEoUERZgLBt1c725euoCE7tdXZ+nnp2th2opHHSAoDRxZRHwiGJri1wfaAAsXH30/PlyhX1+morTdjPBFl97gekSAhbna+Hwt6hpr670QpxWTjV972fY3Ei3bP2BL0xxadqRRVPAAAAAASUVORK5CYII=",
     "wiki_name": "Trailblazer teleport scroll",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trailblazer_teleport_scroll",
     "equipment": null,

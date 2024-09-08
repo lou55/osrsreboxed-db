@@ -1,7 +1,7 @@
 {
     "id": 8114,
     "name": "Gilded bench",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnElEQVR4XuWWMWgUQRSGs5XcclyjKBqIicEEk+DFIMGASiCoBFIIgiCCIAhiYWclVoI2sdIqoBBQEBSFgIVgIVhZCIKFlYXYCda2T75Z/tvJXPZud2eLgA8eu7N7+943/7x5cyMj/5cllvmusMSW58asO7F/t0AltnryiPPFqYNNQMUGSOziqaN2aWmqBzQ/Pl43ZtKA1BmQr1BNoP5A4S8yU8EO9uvnjtuZmdF4oMunp22le7ggUGJLxw7Z1sPUJVPx4guTB9xEeH7+xITduNB1153jlLIMSOtPsnDW06N73XMcaJykOMrq+dripN1cnXexIoCwvCAJPDu2b9vsi0BwIHBN6vbagl05O9NTO8xU0nIg1RJLNAzCB9H3AmqsjrhKkRAkhBkExISiga4uzzoogYQwVYAa2frXVuZ6u60IqgwQV+qvUaCi+gmhdgLiXo22EaCiLV6msFkqudpGmK2EbQdS8/OhBOYnHOSv76e2cadl67f21IFK7OPjtC9oVf/ytG1fn2WuJdSyVVy6xDbvtuz787a9fZDai3std33/KLVPT1KXiHffNvOEjH+8bNvPVx3nv950espKcR8ozFjCErddf2917PNGlpAkjP+8y1z3fz90vProP1wbA6IPqeVTuGpuw5zaAoDv1RQZU/BRQBS1JFcBh8nlJOU3UkEOkN4zqSgg5AaI0x2lAOJKYB282vooEELi/nupXRsIiWloAqLbUqiC0hKEruOG9+rQAEnt2kAEQWqgCEZw4BijluB8pdQcecdYy0ys6BNfwbnX0oVqFLlU1FhdOxpIMjM7/qgp4DAXiO4Bij5gfckBqnpA+nAAVf0+sAxIM6WW4maYK1bve2e55ABF1oCnWIQJCJjIv6FNWyOSD7V/Bo9LeZF79fMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACl0lEQVR4XuWVT0hVQRSHnVW8y+VBKIUJhopKKlkSkmAiSIHgIgiCCIRW0aKF4NJVUBAtgqJAKAgKg8JAqJWLoEW4EIQWQdAi3Amt2574Zji9cbq+e3VGetCBg/PulXO++Z0/t63t/zIj4ZN/aEZGe45JC0EZmT3XK+MDnamgCBITyMjl8/1yYagrMo41I9Mj3ZGSO6BLZ3tkrO94RBxrVeVWFYv9y4vcQk2cOlESp9SM3Jw9IzOjJ5sEMrYcuKqJowYX4TnqXJsaSlE2IzcunpYrEwM2WXhzheEdDjjJcZTVZ3PjfTZOI0aUGbk6OWgDD3a1y3B3h3VurwlDEBwInFLht+fGSpSubEauTw/bJFoGeqEqCI7CACUoGebKpqNbVBofpBlQgqbG3NhSNpRSEB+mKlD5tJaaW/sKxKQUqVMVKMkeokwKpM3tQ+1VtiKguAVrzdjkCqTjr1BlavlAlAtfmj/yZ2WE2SrYbiD+6s4pGnlN2szf3slkebEmD24p2L7MyIf72V9B9+ubz3LZWM7l0+NM1u5lMeNv5MlCTT4+yuTz09ze7tVSTd7dzWT9YWaTfH2Z22/V1nPn/P7+Opcfb+rWt1fru7Y0SkcAYcaWg1sSHIhvK7nsrNXl53vnev61Xvf6o+GUWiFYHZH7yE0agegXbdwwaegowv/R0ArR33lU5mdG4oHoAwL5zRwCqJMMRQHR6UMhdhjfQuCIFw2kfcAZxVhyJOesk6bJQ8jwfTQQyQkEQPil170TQuA0MCC81y2dFIhA9AG/kZ/Nq4r5O8lfjpwbAA4oySeE4NqMwIRq7OUAoeqhAOkuaSSoYgrnzgAl+ab5sh88YBIgJ7t/yzjJfcUObH4AX62WMLf8WggIO3yY34QP49z2kaCpAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

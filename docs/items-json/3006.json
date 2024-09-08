@@ -1,7 +1,7 @@
 {
     "id": 3006,
     "name": "Firework",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-27",
     "duplicate": false,
     "examine": "A firework potion; this'll look pretty!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xt2X2U8TURTGuX+ADyYuQRYLCNIi2EoKFVBApbIVUgphExGQhqZNbSWktAZDCCS4JOJCRBQXkC0qrZr44osJCCrwN3323GEGOu2LyXSaeJIvaW6a3l+/+50zd5KS/o9iiFRCi6G/PQstdemoKkvGuTOHEw3FsPS0DAtTpVzem1p0WjMSCcUkmLkHJrh7TqOt4SQH0ms0akMJmRGBXk4Ww3k9hx9fAvLEYGmwwWptldyZHjdi4Fo2mqrTUFRUipLSSjWhGDo6uqNUb7GhymxBeYUZer1RzaMLd5d9gMtud0iqrbPi8pVaGI0lyM7Rqgvk8Q5Kcrs9cDrdqK5pxPmSCujyziIlRciSSkBUDIuLywiFviAYDGFtLcSPy2AokkJNMKoC9fT2w+cbRiBwh4uOq7DQlAgYKgaXyw2/37+ngJQflY9KLIbd4Ah3yDfs56IjKy6+gFxtvpotT8Xw63UrdtcCEZr3aTHWnYGeq8fVdIlh/ZEBOx+GImBobTmgw2RfJhyWE2irOKaWSwy/33Vh55MvQutTRgRH8zHlOAWPNVUtlxg2HpuwvXKLO3QQiNa/jhdgxpMDX2sa7HWquBR2522HACPTRvga8v2eHnODuRjp1HCXuqri6hLjm24vObCz6o0GelaOHw8NeD+sw0RvJoZaBJeaLx6Nl0sMW3PNAkwMbUxX8mCvjuhwvz+Lu+RqTImXS4w78Gehj+eHZ0gO9NzMg/15LB9PnNm8/cmlvprkeLjEsDnbIMHE0s+Zah7sbxMFmPXmcpcC7encpc5LQrgVcknoLGr17RWXTPtAmy/qpWC/GdJKLt22pXKXbGVHlHKJ8X8fDRMpclAMNg1Ian8akuQSDUoFXRIeE9RdMbUHtPXKKgX749087hINydEuDXeJBmWTki5FgchEHSgGmwYktb/oEuXIXCi8syl0LQkPxPkbkqjbuBbtkshFMdhijmge0Swy6Q4pCSOWcAukjWlaU8gluDAQrYnBFmHE3MQBRijhB8V3LuEhK0LRZwq2+OiQgygOc7D2N9iHk0sVkFh1cGO55N/91/oLJUtMMKGNkkoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xt2X2U8TURTGuX+ADyYuQRZZBGkRbCWFCiigUtkKKYWwiQjYhqZNbSWktAZDCCS4JOJCRBQXkC0qrZr44osJCCrwN3323GEGujxOZxJO8iXNfej8+p3vnNtJSjocxRApVYvB1pGN1vp0VJcn48K5o2pDMSw9L8fCVBmX97YGXZZMNaGYBDP3yAh371m0N55WC0jIjAj0erIEzpu5vH0q5InB3GiFxdImuTM9bsDAjRw016ShuLgMpWVVSkIxdHb2xKjBbEW1yYyKShN0OoOyQDb7AJfd7pBUV2/B1Wt1MBhKkZOrURbI4x2U5HZ74HS6UVPbhIulldDmn0dKipglxYphcXEZodA3BIMhrK2FeLv0+mI1Qk3F0Ntng883jEDgHhe1q6jIqAYMFYPL5Ybf799TQMqPakC7wRHukG/Yz0UtKym5hDxNgdJQDH/etmF3LRCheZ8GYz2Z6L1+UkkghvUneux8GoqAobPlgBaT/VlwmE+hvfKEUlAMfz90Y+eLL0LrUwYERwsw5TgDjyVVKZcYNp4asb1yhzt0EIjOv48XYsaTC19bGuz1irgUdud9pwATpY3w35CfD3SYG8zDSFcGd6m7OqEuMf7Q7SUHdla9sUAvKvDrsR4fh7WY6MvCUKvgUsvl44mCYtiaaxFg4mhjuooHe3VEi4e2bO6SqyklUS4x7sC/hX6eH56haKCXJh7sr2MFeObM4eNPLvXXJifCJYbN2UYJJp5+z9TwYP+YKMSsN4+7FOhI5y51XZE13MJk0ahvr7iitA+0+apBCva7IY3k0l1rKnfJWn5MLijGf30sTKTIQTHYtCBp/GlJkku0KGV0SbgmaLriag9o641FCvbn+/ncJVqSo90Z3CValM1yuhQDEiWaQDHYtCBp/EWXKEemIlnf2cILcf6WJJo2rkW7JHJRDLaYI9pHtIuM2iNywohFXyi0j7Y1hVyCCwPRmRhsEWY/N7LDHCzxAcIlK0LRZwq2eHUoABKv9uFidQjrP528FyX3Pwv7AAAAAElFTkSuQmCC",
     "wiki_name": "Firework",
     "wiki_url": "https://oldschool.runescape.wiki/w/Firework",
     "equipment": null,

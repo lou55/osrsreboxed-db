@@ -1,7 +1,7 @@
 {
     "id": 764,
     "name": "Coal bag",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-05-15",
     "duplicate": false,
     "examine": "You can carry coal in here.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4Xu2W3U8aQRTF3SdT02iMRlOIIhI0gJGPgMWIYCOKYmO1iJ+1MU3Thz72/09uc2ZzdodxwR0W9smb3Bc2WX57zrl3ZmbmvSKVI+P1VMqRZr0ujb092a9W5XO5LLVSUSq7u1IsFIb2WiIxXahvnY5028evoNj5rS0FspPLyXYmI6lkUj6trk4X6uvJiYI6bbXk+PDQU04HBNDm+rpSaGlxUT7OzcUHdXRwMGAlgLLptFJnZXlZFubnFUxpY0O1+bYJlQt19uXIU4lAVAdWQZ0YYFg+FFWCZVAHVkGdWGH+Pra8vu9WpdPIS72UluJ2UrKpFW/sY4BhOfLvpa2A+mcVKWQT0t7PSbOWVWC1nZT6bYphNstVALZBnUp+TWUIY4/x5/MYVHL/pH95qWAwad1mQRqVjFKE+whZ4ujrcBNWzJHH79ceDKesd1pWdsEm5IeLEUBcjlwBE9pJ7pf9uOkpmOvzc7WHCMRQwzZMGm3jPuLU6UARbHTk521fwdxfXUnv4sI7QritoRDCDMsIpKsEIO4lAH2YnR1XJUde7u5U0yqoYx4fyBAmi8cHgXSVCASVCGSpkiO/Hh5UQyFdHeaHRwc2NfbPMCCqpNs2hkqO/H56GlBnFJB+AwgC0lUikAWUI3+enwfUoV3MDwMdFigoRxZQvjoM8ygg8+I2DAiWmUDM0ht5cvMDdWAX8xMUaFsgPUMW4Q4PNOxqa05ZZCDYRSAGOgqQua0tgVDuZg4zYUFA5rbW95B/fITKD8s9t2yBCGNu6qCjwwKG5Z7qtEufMBPoLXV4t7ZUJaj8a4OZn1ETRnV0mDFVeV3+S8x7TfieCEhQ6V9p2+a73itq/QeZg1pjlbNAQQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXklEQVR4Xu2X30siURzFu09RLC2xUaxS4oqFGpmiZWRaZFm2tLXm9jsiooce+//hG+cOZ+bONJozzviyfeG+9KCfzjnfc68TE18z0igJd2IZJY1aTeobG7JVqchmqSTV9aKU19akWCj0PYuJRLxQf9pt6bT2P0Dx5JeXNchqLicrmYykkkn5ubAQL9TvgwMNddhsyv7Ojq2cCQigX0tLWqEfs7PybXp6fFC729suKwGUTae1OvNzc/J9ZiZOGI4FdbS3a6tEIKoDq6DOGGA4DhRVgmVQB1ZBnbHCvN407XPVqUi7npfaelqKK0nJpubjXnu/UfL22NJAvaOyFLIJaW3lpFHNarDqakr/bYxQlgKwDeqU84s6Q1h7rL+jUOxA1pf0Tk81DDat0yhIvZzRirCPkCWuvhsuUkAlN3/PbRhuWfewpO2CTcgPixFALEdWQESdZP1ndxddDXN+fKx7iEAMNWzDptE29hG3LiIgJQ//ehrm6uxMuicn9hXCtoZCCDMsI5CpEoDYSwCampwMC6Xk8fJSH1oFdbzXBzKEzeL1QSBTJQJBpZBASp6ur/WBQqY6zA+vDjQ1+qcfEFUybQsBpeT59talziAg8wXgB2SqRKAAUEpe7u9d6tAu5oeBHhbIL0cBoBx1GOZBQN6HWz8gWOYFGgIGY+UH6sAu5scv0EGBzAzFAtTvaevdspGBYBeBGOhRgLxtHRAIYzXzMBvmB+Rta7OHnLYeGgZj3VtBgQjjbeqIrg7rVqdd5oZ5gT5Tx3lbh4bh8EM+/uIYtGFUxw0T+Thwwc/X/AfzDkNSG0+j2e2VAAAAAElFTkSuQmCC",
     "wiki_name": "Coal bag (Closed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Coal_bag#Closed",
     "equipment": null,

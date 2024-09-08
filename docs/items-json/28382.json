@@ -1,7 +1,7 @@
 {
     "id": 28382,
     "name": "Potion note",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A note about a potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACC0lEQVR4Xu2Wa0sCURCGPf+kzxVlQTeyGxV2A4nuFmIXMRVRpCiKikIiCIJ+8cR7ltmdprWLTSTRwMO6uqzPvnPOnpNI/JdJOYr49XJ0eTBGp7kRauwNd4KUo6fGLD3WZ+i6ME7n+dFOSMvR0Wq/F3s+mfMgtdet/AxmFQiB3HKvB3KteKhO031lipqlCbotpnyy0QOYVCQE9jN9odh77C720E6624N7JLu6PPrubZSj6tagR4ppSUZLARbSd26znJ9h9exQKFZcS3rKGwNvwPda0lzoorhAV6UluqksU7OWeTU+eIxgBgJ+RcgHMBRydFZIeyHI3FVXQnCuYSGWQVrm40emEyeC35jTw3mq5WapnJ2iwmaK8qvBe8tIBhUIaRkpAXANgFB1b5qOtyfpYH3cOh2UC9PRIizBoLWN/JwXQjpSSN+1zYrSYRktwSJAtgsySMlciNPRMiwhZTgdiCChH2mXlImTkMjBjKNxOqggId0WDZIBEEI6kMFnQ6FohWaZVhJShtuFo2G73JvVGvi3b4yEBMlABr8ZpeP8RoyFWOojcB1EWAaJmglpEU5IS7QCSfLex0SI1yJeIHEuF1G5mEq0OB4qGIffKhduKwAWSBb6CJaUYmYpxaETkn8ct101bFsiwdNVogU1kJGzk2VMhFqVlowThgw2+mbpfKek2I+n85XqKJk/Vy8+iFRdYrEZBQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6ElEQVR4Xu3We0tCQRAFcPfrVPSCXmhpaFgZiPQ2EbPEVC6KJEVRUUgEQdAnnjgrc++4avrHSEIOHMwU/N1zH7uh0HRUxlCQPx9Dj8UNauXXqJlbnQSUoa9mnD4b2/RcCtN9YX0S2jJ0nVmwsO/bhA1a6z6Vo0RtOiAkn5qzAW5QPrwYvdei1K5s0ms5YpsNDkBlAhBymZ73Yb/lYm+WzpMzNooYjCHvdNlGwlwkx0Uh6iDcYY3sig8rHy7aVI+XeoL/u0h10EN5l54q+/RSS1G7nu66PvgawR2I8CNCHoAiyNBdKWlBwLx5B37w3g2DGIO2FDGY7nb6QfAZp3W1Q/V8nKrZKJVOIlTI8HNLbTogFyMRCL6DAOTlYnRztkXFo7A2BmP8dlwIIzg4tc1CwoLQzhhAQTuMcREMQeTpAgYtqYO4HRfDCInhdgBBQ8oYjOnC9EPIyIsZr2MBuRgXwc0gAKEdYPC3IihYoRkzCCExfLrwqopxV2vEPn37IGTQDDD4TAlk7EaMQYwaFnwPEMagUTWQC+GGXMSgoEnFvY/x1yJeIPFeLqJyMZVx4TgoBZTxtxUIFkgGDQsjJUwBhAnuMBm3IfnD/bariqdt0PQiZYCRd+eYMaNMBwYMNvoTAOLh1qbzT+YHxCIWuI1FGi8AAAAASUVORK5CYII=",
     "wiki_name": "Potion note",
     "wiki_url": "https://oldschool.runescape.wiki/w/Potion_note",
     "equipment": null,

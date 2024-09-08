@@ -1,7 +1,7 @@
 {
     "id": 1376,
     "name": "Bronze battleaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A vicious looking axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xs3V20tUURTHcQcZgggjCkMCsQIjhC5CiQ9Cj9ZDd7tTVFQYFURRiBVdRLohiF2oUDDERMoIoqIo6i/b8T3D77jOajvNOKdww2LOzKxhf85a+6ypq1v4qxDiEfv+n69CeNS/Lzzo25PE4PXdYeDqriSEmBg+GcaHToSxx8cjKH8TNcNLIKEAKTxm9OGx8HzwSGZj3vOdjyyqKmQhDN3c/weKVyAKgZ4OHArDtw8kubzGQORb9Pfp/vB18sr8UAJxreoI9PL+0QSk3LlA/O7bVF/4OXMn/Jq5l4DYY1NLSxJ+d7dKZdddC8SmHqQ7Fmjk7sEoaHLkVAbEtUB+d7cKmTawkQ437y2I3M71K8K2DSuT63Kg6Wdn8gOpSnwmEHlbW5eHrrbG0N3elAHRRg969+JsCiKqAulceBB3DoicjauXhva1yxIUVVLr9HsPev/qXBb05lrtID4XaN2qhtDW3JDCiIs7iuFGz6IMTqAPo735gghaaUFrmpakqJ7OYujtLibVIqgcSHJp8afxCynox9tbKaZqkEVxpx5E8H7nlvpwuKuYQISxoM+vL0VBfvc5VqncHNAYSCjF9s31aVAxYaicQF8mLs8XVJpBVKgciE3IsSAB1UaByLcgOxT97m6VHvkYiPAg8mmVMOTw2ty4OD30uYOEIgAxcdmAa4EIgVQ1BfDcQLZKvFoQuXs7ihmMQHb+AJp6cjoFMaWFqQjEExYD6e/Ag2y7YiBy+duwFaqwOqxZkD9Hmr6A1CpAXHPgYyC1i7+N3EBC8TkbCMQgFEYgW0kLYkpbkFB+98gqgWJtE4gc2qSz8zcQN/Bx7HwKYgZVMYeyINs2C2Iie0wMRHVqBvGUzQXi+47WeHUE0llTu3ID+bbxuSpEsLlvl0DKBcQjb0HMoKrnUKxt2oQ75rocyJ6fXECxtlkQ34GIgciz56dGEGt27JcLf34UHsRQtCBFFaC6Oo31cuGBNuz5yQVU6fLISrCK2dz/tDwyFv43C3r9BkKTaOUtKtUWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xu3V7UsUURTHcRdZgggjCkMCoQIjhCKhxBdCL60XPduDRVFRYWQQRSFW9CDSE4LYAxUKhqhIGUFUFEX9ZTe+M/yGM3ev687OFL3owmFmZ87u/cw5d+42NPz7o+TCEbr/x0fJPR466B4O7o9i5MY+N3xtbxRCTI+ddlOjp9zkk5MBlP8QueExSChACh8z8eiEezHSl5qYz9zzI43KhCy50VuHKlAcgSgEejZ81I3dORzlcgyByLfo7/ND7uvM1fpQAnGu6gj06sHxCKTcxUB879vcoPu5cNf9WrgfgTJh+FE9tUBM6oP0xAKN3zsSBM2Mn0mBOK8RVEq1gYm0uPlsQeR2bV7jdm5ZG51XA80/P1ccSFXimkDk7Whb7brbm11PR0sKRBt90LuX5xMQkQmkdeGDeHJA5Gxdv9J1bFwVoaiSWqfv+6D3ry+kQbPX84O4LtCmdU2uvbUpgREDu8vuZu+yFE6gDxP9xYIIWmlBG1pWJKjerrLr7ylH1SKoHEhyafGnqUsJ6Mfb27ViGGmQRfGkPojg857tje5YdzmCCGNBn99crhfEiMvNAg2BhFLs2taYBBUThsoJ9GX6Sr2geA+iQtVATEKOBQmoNgpEvgVl2BTjVz4EInwQ+bRKGHI4tjYvTxZ94SChCEDsuEzAuUCEQKqaAnhhIFsljhZE7oHOcgojkN1/AM09PZuA2KVrxDDiNywE0t+BD7LtCoHI5W/DVqgukL+OtPsCUqsAcc6CD4HULv42CgMJxXUmEIiNUBiBbCUtiF3agjKgYlCobQKRQ5u0dpYC8QAfJy8mIPagDPtQGmTbZkHsyD4mBKI6uUG8ZYuBuN/ZFq6OQFpraldhIL9tXFeFCCb32yWQcgHxylsQe1DmfSjUNk3CE3NeDWTXTyGgUNssiHsgQiDy7PrJCWLELVkq/PWj8EFsihakyACqdVQiFXb9/EVQtVGJrIz/I9/4DfiAHlniqwpDAAAAAElFTkSuQmCC",
     "wiki_name": "Bronze battleaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_battleaxe",
     "equipment": null,

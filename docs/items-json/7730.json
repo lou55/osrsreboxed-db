@@ -1,7 +1,7 @@
 {
     "id": 7730,
     "name": "Cup of tea",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A nice cup of nettle tea.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xu2W/UtTYRTHfX4KIpIIDIOmKW74glOZUzFpMl9b+JKZmbFMFDMx1liyEg3JLLFXpChKEIQIgoj+wRPfcz3b47O7uXsn+yE88GXqled89j3nnvOUlJzE/xuKcqtoYSVcmemgutqSQ5ofa6JbvT4KByuKAWYleDjenAGiK343SLOjfgbra79s49yxgCpam+u0dSWbliZaKBppoGDteWrxniN/dSn5Lp2lqotnyHPhdCFQijYWulhOgKDYnVYu49xQNT0YqaHFG156NO6jxxO1DNRUWekGStHrpRB9TPTQ5uLVvKDgZnK6nYFQvpVoPSWn6ikxWcdA+IRbLl1StB3rpt3n1+hzso/excMMhqQmCLQ+f4WlAwkIHNqcb2I4/OzSJcXu7K1HbAXQr8/6aWe5l2EBbwIhOUomDQ3HAIjecuGS4mT7L67bSoDgHsBNoPvDjcbbpWh9ppH7CL1VVnrKCZTVP99XB+nHyyFbwSU814HwAtgBjXd7aCZSlSobXOvylzkpndU/cOLnq+EMCZBeNgFC8wvQWNjLbqCX4M6HpQCtTTdw2e4NVDkDwrf+tTWSIYHSy2YCySwaCdUwyJvFFv7UQQQmbyCU4/f2aEomlF62XEBwBH1jB5InDEKxA3/ejrHswPIF0teICxAJxUn/vr+ZgjLBpGwmEJoae29qsJ6BQgGP0/KYobgp8S0BJDLB8gFCU0MOmtcM63qBQ59E23iDwylAmGD4ezYglAtbf7K/LiWrbI7DWqgYcLLlBU5GANwBmB0QVosAwCEIcJBLlxTPDAxFHG7CYQgCAM1swuC5DoA5BGGFQNj+LlxSPDMwg2Q/Ac4UngFOYFBa9F023e6pcDqZ9bB2jiSEBFAgdcGZXML86Q2Up64droA+xVvZqY1ZP4MJHMB0OClrNmF/DbSVH5SqwFd/b6WDviSCvH+2FpozXBMoO8E5/dpRwEDUwzpsf7WTvi230U4skHIN60AEUBF+l0vZMYKkwzoofZ/ZfdrO5YRrunCt0P+vwPIcHenDDye1Azh2V44KM2nRAU7iIP4Bk05brUDDUQMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xu2W/UtTYRTHd38KIpIIDIMmTXTMidMxN8WkyXxt4UtmZsayoSwbizVMVqIxMkvsFSmKEgQhgiCif/DI99zOePbsbmx3JhEe+LKXO+753O85O+dxOI7j/w2DyuvIwky4Gu+hVo+jQImpDrox6KZIsPEowMwE96c7i0BUZW4HaWHSx2BD3RctnDsUUIPWF3stXSml1IyfYtE2CnrOkr/lDPma6sh94TS5zp8i57mTtUAZtLHUx6oGCErf6uIyLo410b2JZkpea6EH0256OOOpDehlKkzvlwdoM3m5Iii4mZ3vZiCUbzXmpeycl5ZnWxkIr3DLJpRB2+l+2n16hT5mh+hNJsJgSKqDQLnEJZYKJCBwaDPRwXB4bxsI7uzlopYC6Ocnw7SzMsiwgNeBkBwlk4aGYwBEb9mAMjjZ/rOrlhIguAdwHejueLv27zIoF2/nPkJv1dedqAbK7J+va6P07fmYpeASrqtA+ANYAU33OykedeXLBtf6fPXVASEBnPj+YrxIAqSWTYDQ/AI0FWlhN9BLcOddKkDr821ctjsjruqA8NQ/tiaKJFBq2XQgmUUT4WYGeZX082shSMUwCIPL8XN7Mi8dSi1bOSA4gr6xCSJhsAO/Xk+xrMAqBSpcI7bD4KS/317PQ+lgUjYdCE2NvTc36mWgcMBZOwyaEk8JIJEOVgkQmhqqAcg8XuCmj2Ih3uBwChA6GL4vBYRyYevPDrfmZRPKXKgYcLLlBU5GANwBmBUQVosAwCEIcJBtIMwMDEXcXIfDEAQAmlmHwXUVAHMIwgqBsP1tQBk8MzCDZD8BTheuAU5gUFr0XSndHGisdjKrYe4cSQgJoECqgjPlhPkzGGio7djxIdPFTm0s+BhM4ACmwklZSwn7ayTU8AfEFoyEQXurPfRpOcj7Z2ups8g1gbISnFOPHfrdbYZ5s/21XvqyEqKddCDvGtaBCKAifJZD2SGC6CFPadDu424uJ1xThWOF+ru/CKOHnvTIAY7j340DDxoeCPPW9GsAAAAASUVORK5CYII=",
     "wiki_name": "Cup of tea (clay) (Regular)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cup_of_tea_(clay)#Regular",
     "equipment": null,

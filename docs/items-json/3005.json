@@ -1,7 +1,7 @@
 {
     "id": 3005,
     "name": "Snapdragon potion (unf)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-27",
     "duplicate": true,
     "examine": "I need another ingredient to finish this Snapdragon potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcUlEQVR4Xs3WC0sUURQH8N0PECSUgaX5yN6UUaGpqW2UqaRuar4qUdFF083Xus1qYWZiVqKZvUTDEhMpI4iKoqhPduJ/pzPevXvXdnUMLxxmdubO3N+cc+fOOhybvzlJH7rzG96c9KCvjO4bbhHD/lIa6ikRwYj5iXqaG6uj2YfXNCj1IdYNN0GMAohDxcyMXqFnwzVBA+M3zqkRjIoK6aSxW+UhKGwB4WDQ1FAVTQxcFn2x1YHQX0b/WOqjbwvda0MxCPucHQa9HKkVIO4bDoTrvi8a9Gv5Dv1evitAGCMtMVGEOrrSzLTzUzMIg6og+anRd3KwUgtamGwIAmGfQeroSnMGlQEIntz4LYPQ11u/j5qqU6jWnSR+hwMtPW2yD8RZwjEV9GY8S0RV8W4LhDKqoPcvmi0QIioQzwsVhCfXgaZH0qmiKMEqnQ70YdoTDHrbu34QjgOEQL+amjorCovc5DpbQJlZZ8Q5FfRxpsVeEAKllEE+Xy95vR3k8bRS/oViysp20aHDaSEgZPPzXJsF+vnutoWJGiSjcHMGccn8Nw3q7++no2knwpYMfb+89mpB6uhhmnljTNBwIJxvb79BhhGgQKCP0tNPW9cgkyro63znWkHmGoQM/QuE7CAMw6Cc3HNWuVQQ+ssgeVFUR1eaeTMdCKGCurq6qafHR729fiooLKWMU7khIGTHVhCjEBgAKy6DXnbuF/HIk0IDVxOpuSiOijO3iXMbApKzhC2DZIwMarkYR5eyQ0GLTxotEFZpxkQEwhuiA/HnQMUwaLAuidpKdlJVXiydPx5joZAdfDbkDEWYHbQVkDqP+FVeDdRVtotqXbHk/pslLhc+G7aBGIXjKmam24zxlj10ryGZfBXxVJ+/Q8yjvCNbRX+AsErLIEapo2uaCdKVTQYxRAX5K+PFxC7P2U6uYyYIc+7TbKsFwhoUxToUDJLLxiAVg3h8PZVGGpMpUJ0gJjbKVnAyhjIObhHXrAuEt2w10POOvUEle+U7QFPtqTTaFPqm2ZIhBqllw3H+fiGAYBy2mNjA8Hme0HjlZRDWoKjXIV3ZGIQnxj4PrAa/jdzXFpCubDII5+S/Jdjn1Zw/G8iODSC00KfWhYyRQwVhUZRBHFGAHA5e1lcLFSiHPH9sAUXaVGQkWI6Vvv+pqUhdqNds6vYHNwV+1AsKfTcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUUlEQVR4Xu3W+0sUURQHcPcPCBLKwNJSszdlVGhqahtlKqmbmq9KVHTRdPO1u81qYWZiVqKZPRQNS0ykjCAqiqL+shPfO53hzp1Z21nX6IcuHGZ27p2Zz5xz587Gxf37zUX2Yde/4c1F9/sr6J7mETESLKfhvjIRjFicbKSF8Qaaf3DVBqU+xLrhOohRAHGomLmxy/R0pM50Y/xGnxpmlCOki8ZvVlpQ2ALCwaDp4RqaHLwkxmJrB8J4Gf1tpZ++LPVGh2IQ9jk7DJoZrRcgHhsOhPO+Lmv0Y/U2/Vy9I0COMLgoPzWDcFMVJD81xk4NVduClqaaTCDsRwhymcoABE9u/JZBGOtr3EsttWlU70kRv8OBVp60xA7EWcIxFfRqIkdETelOA4QyqqC3z1sNEMIRiOeFCsKT24FmRzOpqiTZKJ0d6N2s1wx6HVg/CMcBQmBcXV2DEcUlHnKfKaLsnNOiTwW9n2uLLQiBUsogvz9APl8Xeb3tVHi+lHJy3XTwUIYFhGx+XOgwQN/f3IoUg2YGyShcnEFcsuANjQYGBuhIxvGwJcPYTy990YLQ9AtjgoYDob+z8zppWohCoX7KzDxlnINMqqDPi93RgvQ1CBn6EwjZQWiaRnn5Z41yqSCMl0EOFkX9YnYghArq6emlvj4/BQJBKioup6yT+RYQshNTEKMQuAFWXAbNdO8T8dCbRoNXdlFrSSKVZm8RfRsCkrOELYNkjAxqu5BIF3OtoOXHzQYIq3SEGDT9DbED8edAxTBoqCGFOsq2U01BAp07Fm+gkB18NuQMRQVS5xG/ymuBeip2UL07gTy/s8TlwmcjZiBG4biKmevVY6JtN91tSiV/VRI1Fm4T86jg8GYxHiCs0jLIAUoH2ZVNBjFEBQWrk8TErszbSu6jOghz7sN8uwHCGuRgHTKD5LIxSMUgHl1Lp9HmVArVJouJjbIVnYinrAObxDnrAuEtWwv0rGuPqWQv/PtpujOdxlqsb1pMMsQgtWw4zt8vBBCMwxYTGxju5wmNV14GYQ1yvA7ZlY1BeGLs843V4LeRx8YEZFc2GYQ++W8J9nk1588GshMDEJr1qe1CxsihgrAoyiAOB6BImxXJIc+fvwhaq1mR1vjf1td+AezyNEjR5IvnAAAAAElFTkSuQmCC",
     "wiki_name": "Snapdragon potion (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Snapdragon_potion_(unf)",
     "equipment": null,

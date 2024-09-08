@@ -1,7 +1,7 @@
 {
     "id": 13500,
     "name": "Ensouled tzhaar head",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "The creature's soul is still in here. I could reanimate it with Expert Reanimation.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xs3W7UsUURQH4N0PG+wSiihKG5UZFbaiKxT0oaKgog9BRVGSlVRYWBFIUsmSZMmSFYJsL1QoGGIiZQRRURT1l5343eGMZ86e2XbcMbxwmNm5dz3PnvsyJhKrvyXJDqt/xVuSnhRO0vjwCRfFO8dpbOiYC0bMTl6kmYk+mn56wUDpH1Ez3AMxCiAOjZl6fI5eFs8GEuMz+nQEUZGQSZq4d6oMhSsgHAx6PtZDk/dPu7G4WiCMl+ifCwX6PndreSgG4Z6rw6DXj3odiMeGgfC9H/PD9HtxlP4sPnQg5Mi3trrQ2VXzys6/mkFIaoFKD874INxboLnSpQAI9wzS2VVLBqYBiXhx47MGITkQPL1hoIUX/fGBuEp4ZoG4kgxC1TTow6srPggRCcTrQoOQXIN4HL5XCfTxzdUg6N3t2kF4DhCj5K65vnubf2+BPk0NxAtCYCoZhHHFw3kaOdBBQ3t30NbmZmpraqKNjQ2uT2KA/zJzwwf9ej/iYyKDJAp/nDHjR7pp9GAn3d2Xo64N6ymXzfphgb6+vWmCdPaQ5pUe6yEMNHaoiwr7cz6ifV2LC1SqLp0OoAD6Nju4XJB3BqFCFgj9Ax0pVx2GACGnTIPwIyRIHoo6u2relrdACAad354KYBiSra93IUGoTqwgRiEYVDq6MxTUUreWGjOZlQHJKuGKfkwV1k8lDCqUSaXceIDmn132QTilGVMVCDvMAvG/GIN72t0216CG9BoThOrgtSErVGV10JZAeh3xYYcx/bu2UG9+M/V1t5VVp6dzkxvD1QEIr43YQIzCcyTAW5sThoXc7gDhlJYgRunsRvNA1rRJEJKgX57iuOeplSCM/zx9zQfhDIpwDgVBctokCFc8lxgLBHjNIOyyf4GQDM8sEK81nq7YQHra8FyCkFxPF4N4LEDY8hKEMyjyOWRNmwThvhJIrp9YQNa0SRD6rAWNwDi5fmoEoZVvYyv0+uHQIByKEsQRAZRI8LFeKTRQhlw/sYCqbRpZDZZjaex/ahpphf7Oqm5/AdNsddFSQEMtAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xu3W70sUQRgHcO/FBXeEIorSRUVGhZ34Awp6UVFQ0YugoijJSios1AgkqeRIso4jKwS5flChYIiJlBFERVHUX/bId7ZneWb22ev2do1eNPCweztzN597npm5q6v791uK9ND6V72l6FHhJE2OnTBRunWciqPHTDBifvoizU310+zjCwrK/RKx4R6IUQBxuJiZh+foeemsNTFeo88NGxUJmaKpO6cCKFwB4WDQ02IvTd89bcbiqoEwXqK/LxXo68KN2lAMwj1nh0EvH/QZEI8NA+F93xbH6OfyBP1avm9AkTD4UP7WDMKkGqh874wPwr0GWihfskC4rxKUssqAiXhx47ULwuRAcHnDQEvPBpIDcZbwTANxJhmErLmgdy+u+CBEJBCvCxeEyV0Qj8P7KoHev7pqg97cjA/Cc4AYJXfN8O5t/r0G+jAzmCwIgVIyCONKh7tp/EAHje7dQVtbWqituZk2NjWaPokB/tPcNR/04+14tRg0GyRR+HDGTB7poYmDnXR7X566NqynfC7nhwb6/Pp6rSA0L/VYD2Gg4qEuKuzP+4j2da0mkKn6TMZCAfRlfqRWkHcGIUMaCP2DHWmTHYYAIUvmgvAlJCjCoehteQ2EYND57WkLw5BcQ4MJCUJ2EgUxCsGg8tGdoaDW+rXUlM2uDkhmCVf0o1RYP5UwyFA2nTbjAVp8ctkH4ZSuEoPm7TANxH8xRva0m23ughoza1QQsoOfDZmhmkDuOuLDDmMGdm2hvu7N1N/TFshOb+em3xN62QEIPxuJgRiF55gAv9o8YVjI7Q4QTmkJioDyQFrZJAiToF+e4rjn0koQxn+cHfJBOIMinEM2SJZNgnDFc4nRQIDHBmGX/QmEyfBMA/Fa43IlBnLLhucShMndcjGIxwKELS9BOIMin0Na2SQI95VAcv0kAtLKJkHo0xY0AuPk+okJQgtuYy3c9cPhgnAoShBHBFC1LYjkkOvnL4IqtSAyGP9bvLYCiWgrRamYCBQAAAAASUVORK5CYII=",
     "wiki_name": "Ensouled tzhaar head (Item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ensouled_tzhaar_head#Item",
     "equipment": null,

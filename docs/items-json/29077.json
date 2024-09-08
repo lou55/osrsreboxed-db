@@ -1,7 +1,7 @@
 {
     "id": 29077,
     "name": "Cooked moss lizard",
-    "last_updated": "2024-04-16",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "Mmm, this looks tasty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xu2W70tTYRTH9yBjbIwNmTh0ON1ERQnTyFLCSkpKiH5AYWREPwijN1FRIEUUhRFFRtmbfghF1Mv+gOjXK+lFf9Ppfs7leG9z6las9WIHDvduz3P3fJ7v+Z7nLhJpRCPqFk6CrGv4ENlEVJLRJhlrT9UTysm2bFLGc2mZ7GyWqUJGcsmYZh2gnBTjUbk2kpeBTEKBDhQzcri7RY72tijQUFdXLaFKPeJkk6fEi4szMtyalNtjBQUDZrqvtdZATr1BeUgDG0rFZCITVxigyEe7umWwJVFLICeFlO8LjGvmNaCp1oQ82FlUkGd7euTT/euqWo2AfCXwBYlHwtmTjsuxtqQc99Q7mUvJuXxaP0/WRiGnO58fL8rdHQUty83RTpnbnlcjk3TVEQ+ABMRURLXyQGEfVt2FTssQhgkDXdjcLn3e4nQXnsHMlBYlUQhvBYsGZxWZiTVpVgHmZLw5rjv9/PCG/PzwUt5O9atHUIwc9cYBOjWQ1dJxBcj8FijkZKLDP6fsrCK55/wKmmTdcLrDg1nfH6c7UrL8ekGBnu/tVQVG0jEFQq1LW3La8qjGFbgwEApaMm7JRiw3gPKBUMj8YeYFkjE6jHOIz5SSxYD98viWvL96Vu7NHFopybvLZ+T74rxaAF9ackywod83sGYE5gOMmvMD7Iy2X3lleCALu3t07MebRd0AwJSUZ7nyPBv69uSOzgX81b4+tQHPs7kKgCIRJpjseEM7qOC3PPdcGUM50loe/wFCcs93gDIHBUnmoi7jFQMF4eTK1g6tNYalk070Z+X8YLv+kJUTJViADCtsDWJQXIExLxpMVUB4BK9wBKAWbU7t27xS2gJBqwcLmMJW+jCMlbVqGBbiPMIntDyGRC3A8vHweVIKEoSBGYzBl5u7Qfg7o+WX9vfL1+lhWV56qufTx7lZ/QuyHsjqWA1fOmODcCu15zya7Uzre4vvAKX17cdLn1wrKocvG77MJOYFhuQeoLApS5+sUfgls7SXqZnTOuofAhFB3cvlX8j/5xGue7ksnd+IRvwv8Qsms2USPI8rewAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xu2WW2sTYRCGu5QQEkJCSUhoQlKSkoYWqVastkjUokUD4gGUihXxgFS8ERWFooiiVESxovXGQ0ERvfQHiKer4oW/adxnPr7sprTNoaS5ycDLbvJtdp9v5p3Z9PR0oxsdC0c8dTQMRCockEigVybT0U5CObI7FZFyJibTA31SycclEwmqOgDlSCEUkNvjORmJhxXoaCEuJwYTcmoosRVAqz3iyDY3E2+vzcpYMiIPJvMKBsxMKdluIEe9QXmQBdsRDcpUPKQwQKHn+wdlNBFuJ5Aj+ajxBca15rVAlWRYnu4rKMjrg0X5/uSOZq1NQCYT+ALhEb+KsZCc7o/IGTd75zJRuZyL6efp9mTI0Z0vlAvyaG9ey3JvYkDm9+TUyIiuOukCIEBsFsna2kB+H661vmE4WgY/jB/o6va0lNyH0114BjNTWjJJhvCW91ADYEseD/aqmgBzpNwX0p3+eHZX/n19J58qw+oRMoYm3HWAzo+ktHQcAbJ+88NMZc2csrMKcc788ppkw3B0h8dSxh8XslFZ+bCoQG8ODWkGxmNBBSJb13dmtOXJGkfg/EBk0Ip1KzZiVQfKAJEh6w9rXiBZo8OYQ3ymlDwM2J8v7suXW5fk8ezxakk+37gof5YW1AL40ooxwYZqN7BueOYDjJpzA3ZG21dfGS7I4oGirv39uKQbAJiS8luO/J4N/X75UK8F/P3hktqA37O5BoD8YWaRdlDetDznHFkjc8i2PP4DBHHOd4ByDRlEXEt2WW8J6OaurNYaw9JJZ4dTcmU0rTey5SQTPAD5M2wbxEJxBMZ6sUkYwhgTrzACyBZtTu373VLaB3itvvoBXun9MLastdfWDWNw5hE+oeUxJNkCLBfyz5N6N3eqMLVzqqkwO6Pll48My6+ZMVlZfqXz6dv8nP4Fae7GjcKvG0619syjuYGYvrf4DlBafxM3byVMmhHmBQZxDlCLptxMmJJZ2ZepNafXUVsa/rqvpW50oxsNx3+3nCGxrredAQAAAABJRU5ErkJggg==",
     "wiki_name": "Cooked moss lizard",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooked_moss_lizard",
     "equipment": null,

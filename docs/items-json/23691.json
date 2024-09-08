@@ -1,7 +1,7 @@
 {
     "id": 23691,
     "name": "Divine super combat potion(2)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "2 doses of divine super combat potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADdElEQVR4XuWV208TQRjFu71YJYV/wBdMRIOgoIFwK1DuN1uoUCgFFLAKSaFASymllIRE3zDxwYQX44tPJhJjooJ/3XFn2unMzm67LaVPnuQkZXfmm9+eb2awWP4fKZCfVFFkMdGyFPTMPC/w7loqVkhBeqsJkZcPsOS/h+mRuwYLc6DW+voitUqS2dcp+PXFg5+f+6nf7bdgL9wojVcQPIyZ1ClZZl+n5GG+n/fidO8JomsPpfHZGsXrmIrvCbEYNx/DgL59cuMk2kzbJ48TYa4BxCGISdwschFuIbiMUOhVPp2vH3voftpcbsDQ0ARGx7yaj2JA4jr8t6nMElIQDm9ofHr2AfPzIczMzGNyyo/eviEBQk7HbG8aiBWS42bPt7ai2N7eQTS6i52dPZydnyMQCGF6OoBBNaH29m4BiNVjKpSaqQpNVJBIHODgIElNfsfjCczOLdJWdXV70Pz4qeE8ZlJ34+x9/m8+pqD06cjvLy5+4OrqLy4vL/H7zxX8/oV8q/TztHuTAZVxJRRKh7+PRKLIZDKqT6hJu/o9owYwfI6YEIExhteJTxKLyGP29xN5GAY0MDhe5CPM9qaheLTsyDNroRQNDDFpGTnybW1dBh8gyix9nYwT4l+iYHc3huPjY+ps2zKYnQ1ieGQKHZ19JSxm2iat2MJipHyyguRhCkdHaaTTWa+uhek9NDbuQ4970ABI3/aSYUQxMP5EoXdPKpVSfURNwNbW3yC4uEIvRbKxydEX09WepmLtNJV8qyqIxeI0IeIsWArrr99iaWkVXt8s3Ufk+Iv7jx1x4/1YlrR7aXMzQk8XuRCTyUM4n9ngbLHB8cgCR4OF/usglyM5bax1rIZYp6z9kxWPWyzm8tlQM6F6RLXHhjvunDtsOjhisYYIUjYMgxCP/0DCh7qAA64XOYtwOUAZklgGklcrUdqEPHEfXF47aufsqFtxoG7RQeHygAZwzjYrnK3WStqkFTthBMg1aYfLnwWSTUDJ+5ox1cNW3Har7rTmgW41ZaEqguFSNOkYWQfUX2WgYjAUyG8AxFLKAd1qZK2rWApqg3oIHZC3AJCQ0s1CGYDIQDQlAyACY7+fvQIq3thcBaCCEpCakriHqgTDVACKpTQpwOTaRGDs9RxIrngD4veTDCTCiOOqlA4XL65d1AhAtFzHTP8A0xGTNvKuD6YAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADP0lEQVR4XuWVy09TQRjFuX1YJYV/wI0mokFQ1EB4FSjvly3UUigFFLAKSaFASymllIREd5i4MGFj3LgykRgTFfzrjnemnXZmOrcXaLvyJCdpe2e++d0z30xrav4faZB/qaLIYrxlaeiefm7w7FoqVUhDeqMJkZf3seC7i6nh24qFKwpkVkzDry9u/PzcR/1utwU74UZpvIbgfsykzqVlDsRgvp/24HjnMaIrD4qASI3SdUxV6AmxGN8n2c8M6NsnF46izXT75HFlwzAIYhI3i5yHmwsuIhR6lU/n68du2k/riw0YHBzHyKhHeKliIPl7SZklpCEcXhN8fPIBs7MhTE/PYmLSh57eQSElub4a0lRGEzVsbESxubmFaHQbW1s7ODk9RSAQwtRUAAN6Qm1tXYp5TEZ1TWU0UUMisYe9vSQ1+RyPJ+Cfmadb1dnlRvOjp8p5zKTu2sn7/HdxnFJGMEwazs5+4OLiL87Pz/H7zwV8vjluq+R5Ym8yoCtcCeZAkUgUmUxG9xE12a4+90jJOXxCBEYNX6TCJL6IPGZ3N5GHYUD9A2OKsbLMXlZQIVp25JnFApoAQ0y2jBz51tZOk8WuBERklpCG7e0YDg8PqbPbloHfH8TQ8CTaO3ovsZjZc6WMJmlI7qdwcJBGOp318kqY3kOjY150uwYUQPJLlSUxHXL3pFIp3QfUBGxl9Q2C80v0UiSNTY4+n654msoCk/dbQywWpwkRZ8FSWH39FgsLy/B4/bSPyPHn+48dcXU/XkliL62vR+jpIhdiMrkPxzMrHC1W2B/WwN5QQ/86yOVITlth6woHpYyECnHzxZxeK2rHdQ/rdltxy5Vzu7UIjpivcU0QIvFWZTH3J7yoD9jhfJEzD5cDlCGJKwBEJCbkjnvh9NhQN2ND/ZId9fN2CpcHVMA5Wi1wPLGUs00qZYGcEzY4fVkg2QSUPK8d1T1kwU2X7g5LHuhGE4OqiDQhHZWLgPqqDFQKhgL5FEAspRzQjcaKQWmoCxZDFAF5DIC4lCoLpQCRgWhKCiACY7vHroCKyQAqKAHpKfE9VCUYJgMoltIEB5PbJgJju1M1IKLC/SQD8TD8uCrCyJIXrSzAP6uhK/6145dEAAAAAElFTkSuQmCC",
     "wiki_name": "Divine super combat potion (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Divine_super_combat_potion#2_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 29383,
     "name": "Jug of sunfire wine",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "A jug of sunfire wine. Not for drinking.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu2WTU9TURCGOaumxA1xQSSRgIkkiOHDAEKQD1OxYg2CWBERQURERLAiNsiHiCiJMcawd+3atXv/1pjnNNMeT1vE9pZunGSS3nNv7nn6zjtzbkXF/wgsjBwtjyWMjMViEh8elnu3RuXBnbjMTkzI/NSUPHs4I4kn85JcWpILzc3HAWXkZjQqo0NDFuruyIjcvz0mM+PjFmZ1YcHCvFletrADPT2lVsvI9SuRNJSqBNDK4zkLsv0ykU5U49mO1pZSQKVKde3ygNwYHLQbqUpzk5NWnd3XaxZk88WKLZ2rUmtdnU3/rUWEkUhvr1zt77cqAYVKbPp0elp+xCrl50il/IqfsEqpOi1NTWkg/40BhLGe4V+rUvvdITnoC8u3SFi+R8NpMJ4DvkTquGFseShXX1eXJFpDstkRygLj/vnGRsfUJTb31/e71juU7VJnp1UMCK4pFeqdrqmRM7W1cq6hwY6B7vb2UkAZa1qAyLXFRQsGDDOJUuExIFBQPQco0CWYTyl1yIMPe+mkuzC3bq4zSofm80ezdg3/ARsQlJFPW1tZQKwBg1LMJJSi+3Ross59wICldJSySCgjO69Ws2BI1hUIRRQKIDY/VV1tN2eacx9/MSx13d/pCGGsV76828kJxHHhAwGDSu4sIikdsPiJ6wJHgpG9ZDInDNccG1oSHwjfMFDxDdcf19ft8/xWIH+3v4Sxk1dhfCA24JigHC6Q+gggOpA1NbaqVbA6rpF9KLrLBfKNDQCHMBkOhf4AKQCGyLS5n+qffECUDSCS7jpZVZWG8nf5h8gP9Pntdk4gyqZAqIQ6mJvJHQBUfiCMjr842/BHPiA8RKsztYEqwj8auaGYPy6Q2/oAkVouJjjddra+vtDu8iMb6jAgfOSWi7nDsaFfAIED0Xl8IXLQMjT9WZRLHb4KLra1BQVEZKD2NzYOBcI/rjopExc1f/JFCuowIC0XyvgQAcNopIYlXcZgdFsfZVAlF4j/loAj9aGm6qAKfikDiBsZX5QZJBO+N8oGchzxG/lX3/llAB2qAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xu2W20tUURTG3U/DSC/SgyQkGCSY4SXUFPMSZpNN2JhNZmaamZmZZmaDecnMEiIifO+55557799a8VvDGs+cuTA45+hDLdjg2Wdg//zWt759Kir+V2DlpLR1LOVkNB6X5PCwPLgzIo/uJWVmfFzmJiflxeNpWXk2J6nFRbnU1HQcUE5ux2IyMjSkUPcTCXl4d1Smx8YUZnV+XmHeLS0pbH93d9hqObl5bSADZSoBtPx0VkG2X69kFqrx2/aW5jCg0q26cbVfbg0O6kGm0uzEhKqz+3ZNQTZfLWvrslUKvJwM9PTI9b4+VQkoVOLQ51NT8iteKb8TlfIneUqVMnWaGxvDAqKceob/2pTa74rIQW9UfgxE5WcsmgHjd8CHCGPltD20q7ezU1ZaIrLZHskB4/3FhgaPqUM29/ePu+od2nalo0MVA4JnWoV6Z2tq5FxtrVyor9cY6GprCwPKqWkBYq0tLCgYMGQSrcJjQKCgeQ5QoEPIp7Q6rINPe5nFdGFuO9wyykLz5ZMZ3cN/wAYE5eTL1lYOEHvAoBSZhFJMn4Um+7wHDFhaRyvLhHKy82Y1B4bFvgGhiEEBxOFnqqv1cNKc9/iLsLR9/0kllFOvfPuwkxeI68IPBAwqZWeR09YBi5+OCEM52Uul8sLwzLVhLfED4RsCFd/w/Hl9XX/P30cEcpq8BuMH4gCuCdrhBTIfAcQEsmfGNrX8J5VY2Ub2QzFdXiC/sQHgEmZFI5FyQKwOx9y/zD+FgGgbQCym63RVVRBQhYG+vt/OC0TbDAiVUAdzk9wBQBUGwuj4i7sNfxQCwkOMOqkNVBkwVvmhyB8vkHf0AWJZu0hwpu18XV0QQFQuVDEgfORtF7nDtXH4BVB2ZQMxeXwhctESmv4syqcOXwWXW1uDAqIOofY3NooC4R+vOmmIsvKnUKWhigFZu1AmJAh/pcOSKSMYvaOPMqhyTCDeSn+omTqogl9OAMRbXl+cKMg/Wn8B1y+pf4GIzcYAAAAASUVORK5CYII=",
     "wiki_name": "Jug of sunfire wine",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jug_of_sunfire_wine",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17278,
     "name": "Bird feed",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-10-23",
     "duplicate": true,
     "examine": "Birds love this stuff!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlklEQVR4Xu3WUUsCQRAH8FuOvkIQQShhkIGZD0p0kZEKEUQUPdib0EMUEUgFIUVBRCAEEfR1J2aX0d3pbrv2vCvh/jAsd+Dsz3FP9bw8efJQBNgrs6gN+7063Jw25Hp+sga9owp098pw0CpBJyhmhRJy88HZOjxcbMDTZSBXvNZhpVlPgqqFQlooNRUEPF9twkt/C16vmzC83ZYrXuN9hNUWfCjPeSMU7zSBCLkJAd7uduB90IKP+zZ8Pnbkitd4HytY9EeoFKYkYHfFN2q/Mq7D6oxc8X57WVVzyYdG0UTxro4RsrkNo4MIha8h1Oq8P6kpCTl6juCYMFAUiu/wiwjZCBtzCMcQiKMIhG8KeyWYkjrA2IxvzOu4Fm9KdMgdp6RA2JADOIaDOEoHYTlOafxxRSF4xZ0SofiOPyQZiFBhIMezpJ4uDuIIrG59SkGEoYPtBMKmNsxUgjgmwbe2+v36RyCMsGKiQGEY9airQowjCCO+IeKCwhAJMRT9P7IJ1EGISRFhxmxsAjND2MI3/hNEnjyWfAHDLZwrxLzExAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdElEQVR4Xu3V8UeDQRgH8Pec/oVIxGTRYtV+2KQ3LW0jkZR+WL+NfkhJTEWmFEnESPTvPnnuPO3ep3fnde9u9XJfHueOPffZ7fa+URQSEkIRYK+pRW/Y79Xh9qyhxovTdegdV6G7X4HDVhk6cWlaKKE2H5xvwOPlJjxfxWrEuQkrz0a+QfpUEPByvQWv/W14u2nC+92OGnGO6wirLUiozEU+UUJtQoDh/S58DFrw+dCGr6eOGnGO61jxovxBeQAJ2FuRiTqojupobUaNuN5e1tVcktAoeUEJ1dyGMUGEws8QanVeTgok1NFzBMekgTyghGqEjTmEYwjEUQTCL4W9coD0BcZmfGNeJ7Vsp0SX3BGlQdiQAziGgzjKBGE5g+jnGofglfWUHFH5QIRKAzneJf3v4iCOwOrWCwoijOPFHj1/bJhCgjgmxwNSv7/+EQgjrJhxoDSMRlDliviFyAqaIILHbJwEmiDEeETYkgT+ESIkpFj5BiQmaf7jogT+AAAAAElFTkSuQmCC",
     "wiki_name": "Bird feed",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bird_feed",
     "equipment": null,

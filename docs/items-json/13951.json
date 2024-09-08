@@ -1,7 +1,7 @@
 {
     "id": 13951,
     "name": "Saradomin armour set (sk)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACq0lEQVR4Xs2Y7U4aQRSG8QbamP6rqYhEGsEAbhQxIoWA+EWChmKpWqqtxsbEmNh4B15XL6K9oGnekxxyOM6sMLsaN3niLjs759kzXzsmEq/3mDIvS+gxZXr1WXN5VDH9vRWzV82Z6uoC/W3X88RBs2C6rWWitxMQKHvcLhHfOmvE2WHZ/Pi8QaC+X/2quT7+ROe4j2dyqTdPSdmFmuuLZruSJbQcC0o5FkRgFoLMzWmNxCCLsixUnJtzSdmFQH0tQ2g5FmQ5luIscXYgcztokFhkoXIxZSpBmrDJyabk7HCTcVNB5u6s6SeESlApCwXZD2Z1KUlAjqU4S7LZXE0FmfufW9GE8ObIyt1pKRa8hfAQCyEbumJfIgkh7WgKm1Dn98OQSe55CfWbyREh9BVXQPDv7x/TOL8lcK7vhwkV0m/HF8JDWkgHkzIuISkVWQgjB0JX3eKjIJMI4XngLYRhykKYa3QARsowugxz3slHE8I8gocmFXJlCcQihMmv28hQII2WkVKao62P8Qkh3YADynMXg/2lkXPgJXTSSg2FsC5B6OKwMBJMX2tsL2DrQ0FmenwhucBihMiA+lrDo0r+hpfwFsLKDCFeYK97yyOV62sN7usyuI5FCOvZzZdgWDHOGS2iy+jfYhOS6efm0ENaYmsy28ToLSRHDPqCFrChO34sfYgXWMxDXPHJbu5RcBdSyHuUfd+Zp687fKSx0O7GvGlvpomD2gIJYqLTkx/gOceGFiotvptcCOtZbWWWaJSSplVOkSBLQlBKft3OEsikJjah9fx7s1mcCZWyCSEraCr0H1un9hbiXQd/3PNug7dA/IEv92MIKjeJmGxjEULQMBm5F3PJQAIDJZIQKsObh4mMkxkIuLZBYwjh0P8MeF4g84RQIsGFXgodH8d/OVzAC3lFAZIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACl0lEQVR4XtWX+0oqURSH6wWK6L+ixCQjDbWhzMhM0exyBAuzPNXpHkUQQdEb9Fw9ROeB9uG3YMlytWfSPUOcBj6ccfbs9c3at9lDQ//vMWy+l8Bj2LQr0+b2sGg6u0tmt5Q2peVZ+m1UMsReLWta9UWive0RKHvcyBN/mivExX7BXB2sEajvvlMyD8cbdI77eCYdH/lKyi5UW503W8UUoeVYUMqxIAKzEGQeT8skBlmUdRYClZUkoeVYkOVYirPE2YHM01mVxEILFXJxU/QShE1ONiVnh5uMmwoyzxc1NyFUgkpZyEtNmeWFGAE5luIsyWbzayrIvF5vhhPCmyMrz6f5SHAWwkMshGzoil0JJYS0oylsQs2Xty6D3HMS6tRiPULoK34Bwd+Pd1O9fCJwru8HCWUTo/0L4SEtpINJGT8hKRVaCCMHQnet3KcggwjheeAshGHKQphrdABGyjC6DHPZzIQTwjyChwYV8ssSiEQIk1+rmqRAGi0jpTSHm3PRCSHdgAPKcz/Ofi30nAMnoZN6vCuEdQlCN/vZnmD6WmN7AVsf8pJj/QvJBRYjRAbU1xoeVfI/vISzEFZmCPEC+9Be7KlcX2twX5fBdSRCWM8ej7xuxThntIguo/+LTEimn5tDD2mJrclsE6OzkBwx6AtawIbu+JH0IV5gMQ9xxSc76U/B/ZBCzqPsfHuGvu7wkcZCO2szprGeIPbKsySIiU5PfoDnHBtaKD8/PrgQ1rPy0jRRzcdMvRAnQZaEoJT8vZUikElNZEKrmQmznpsMlLIJIStoKvQfW6d2FuJdB3/c826Dt0D8gS/3YwgqN4mYbCMRQtAgGbkX85OBBAZKKCFUhjcPEuknMxDw2wb1IYQDBb6TH3L8A+kSblTXV4BdAAAAAElFTkSuQmCC",
     "wiki_name": "Saradomin armour set (sk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_armour_set_(sk)",
     "equipment": null,

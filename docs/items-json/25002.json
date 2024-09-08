@@ -1,7 +1,7 @@
 {
     "id": 25002,
     "name": "Trailblazer hood (t3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": true,
     "examine": "The headgear of a trailblazer relic hunter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4Xs3W30sUURQH8N2nEMIQhBApZcMiNjYLH3qQfFEkkzIykzKt7JcVQb8MEaNSJCsWRC0qFAwxETOCqEiK+gN66/858b3bdzxzvGu77hheOMzszB3vZ86994yx2MZvcfGH7/66t7g87T8uI33HXAzfa5GhO0ddEDEzek6m010y9azTg7IvUTA8AyIKIIbFTD7pkBfDp0ID4zfu2Qij8kLGJT3QugKFIyAMgiaG2mX0QZvri6MPhP4a/W2+X77O3l4biiCcMzsEvXp82oHYNxsIzy3N9cmPxYfyc3HQgTBGdWWlCzu6aZm0860JwqA+0NijkwEI5z7Q7Nj5EAjnBNnRTYuHpgEDcXHjtwVhcCA4vdlA888vRgdilnDNB2ImCULWLOjdy0sBCJEXiOvCgjC4BbEfnlsN9P715TDobW/hIFwHiChkkrtm267d7pgN9GGyJ1oQAgANQt+6E22ys6ZGyquqZOv2igCoMej7afp6APq+cD/A5A3SKPxxgtCvoeOMpA7WSSKVCkAlZWWyuaQkhALo85sbXpAdPUvLvCXS7wPx/oHDzbKntlYqkkkpSySktLxctpSWSlFx8QrQl5mbawVlahAy5APh/pErPdLYeTYAIUMEITubiopCILyEBumiaEc3LbPlfSAE7v/+tSBN3RfcdAGEKeMaYoY0CNmJFEQUghnCFAGQHmwNAtewhtYVpLOEI0FLi71um2OqGHevNUjLob1e0Nx4dwBClSYmJxB2mA/EzwH6TI93uYwggNlRvU8GbjVJU30yWNREITv4bOgM5ZgdtGWQXUcsduiDbBDD2F9fL82NKbftgXLwv9OFz0ZkIKJwHQPgq41+NgAClLVIg1ClNYgoO7qnZUC+adMgDIL7uorj2YmRdrfYdYbQ/+PU1QCEGpRHHQqD9LRpEI64TowuCwzWn4JB2GX/AmEwXLMgvdY4XZGB7LThugbp/4GIIYh9AcKW1yDUoLzrkG/aNAjnq4GYIfSNBOSbNg3CPb2gNQj99PopEIS2ckv7wq4fhgWhKGoQIw9QLMayvlpYoA69fiIB5dosMhcsY7nvf2oW6Qv7zIZufwC8dn6E8tjPcgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xu3W70tTURgHcPcqBmEMBjFGCQuLWKwf+KIXkm8m0pIyMpMyrazMiqBfhohRKZIVA1GLCoWFmIgtgqhIivoDetf/88T33r6X556d2e52jV504OHenXO287nP+XFXV/fvl4jYw9a+7iUij0eOyeTwUScm7nTI+K0jThCxMHVWCvk+mX/Sa0GZD1Ez3AURBRDDxMw96pFnEyd9A+Mz2szwowIhI5If7SxB4QoIg6DZ8W6Zutfl9MXVBkJ/jf6yPCKfF29WhyII98wOQS8ennJA7FsOhO+tLg3Lt+J9+V4cc0CBMPhRPjVBGNQGmn5wwgPh3gZanD7nA+G+QlDENw0YiIsbn00QBgeC01sOtPz0QnggZgl1NhAzSRCyZoLePL/ogRCBQFwXJgiDmyD2w/fWAr19OeAHvR6qHYR6gIhCJrlrtuzY6VzLgd7NDYYLQgCgQejbcrxLtjc1SbKxUTZvbfCAGoO+HwpXPdDXlbuVYlD8II3CjxOEfq09pyVzoEVSmYwHiiUSsjEW86EA+vjqWrUgFPcpkX4biO37D7XLruZmaUinJZFKSTyZlE3xuETr60tAnxauVwtyzyBkyAZC++FLg9LWe8YDIUMEITsbolEfCA+hQQEORXfL20AItP/8sSK5/vPOdAGEKeMaYoY0CNkJFUQUghnCFAGQH+v0AnVYQ+sK0lnClaDV4pCzzTFVjNtXWqXj4G4raGmm3wPhlK4Qg+LuMBuIrwP0Kcz0ORlBALNtz14ZvZGTXDbtLWqikB28NnSGqgKZ64iHHfogG8Qw9mWz0t6WcbY9UA7893ThtREaiCjUYwC8td0f9AdAgPIs0iCc0hoUAOWCbNOmQRgE7foUx3dnJ7udxa4zhP7v5y97IJxBAc4hP0hPmwbhinpi9LHA4PlTMwi77E8gDIY6E6TXGqcrNJA5bajXIP0fiBiC2BcgbHkNwhkU+ByyTZsG4X4tEDOEvqGAbNOmQWjTC1qD0E+vnxpBKKVb2hbm+mGYIByKGsQIAKq0lCIZev38RdBapRRZGv9LbeUXcnIz+LhI3OcAAAAASUVORK5CYII=",
     "wiki_name": "Trailblazer hood (t3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trailblazer_hood_(t3)",
     "equipment": null,

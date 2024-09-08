@@ -1,7 +1,7 @@
 {
     "id": 23407,
     "name": "Wolf mask",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": false,
     "examine": "Howwwallll!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQklEQVR4Xu2WzUtUYRSHu4uQNrk38iPJwEVpGI5UJohFJpmImGUmYmKWiYiIWSIiillmmliJIlIuRBQXBlFEmigiapooVga6EP8GNyeeM7zDOBqNcUciPPDjzp25977P/M7Hffft24u9MGGJUz4J83BvF7DkcUOlFBfn7eAer8OSkZH30t39XCori71YwJKurhapq6uQwsIcvT4iOPgP9+woLBkd/SAlJflypyBb2trq3dzaqmsZKZKZmSrV1aVyO/+mb4DGxj7K/fJ7mgIWycpKk7S0y+oY35eV3ZXS0gJJTb2kupp+RX/LycmwG8iS/v5uGR//JA8qinThoqJcXZx04AKqqiqR7Ox0BUlKSlAorgHcdqCBgdcyMTGs/xg9qn+oEMYxzkklbpAuYJKTLyg457YDDQ72yOTkZ4Vpbq6RxsYqLVigjGu4lZt7XWsHINKZl3fDBWMrEB32/duCNDVVS0tLrR5xpaamTFO1HVBiYrymzmZ3CEvdAQJ3Wlvr9MiMAQqZunIHios7LUFBh3wDhBMGiJbHpdnZSZeoJYBIEanknJQBZTOQpQ83QIAAtLg4J3NzUwozMzOhdcSMYhwYIFw6GXncfiAWq60tV3f6+rpUnG+8PSMbQw6Znhp3zSbanoLnnlsJ+7WGDJTnk/8yLHVmfn5alpeXZGXlh6ytrehcAqy3t1NevWzYNDDNLCJliJpKSbloF5QTiEWZ1EtLXxVsfX1NVld/6mfjCEAMQVyJiYlSCNJ2PuGcna3vBKJuOjqe6gsTMLqOMYA6O5+5hiStDxRDESD3trcBhrDUHdTe/kQWFr6oKGbAmN7sAFBMVJScijgh4WFhmjK6DudsL2ozewCis6gnjgf8/GR4+J30vHkhsQ7HJqAjgYHqVnz8WfuBGHwmbQAwtXEHIIRjx0JD5WhIiIIcDgjQ9xo1FR4eZj8QLU7h4pKBMjBoaKhPX750HG4xhxiQDEV//4N2AxHOrShDkeHHNsQdaDtxbWysw+6Cdg9LUwAQ7y12j54Q7qLV3YE8n2ZDON9nANE5ngCeio6O9KU7JixtZWrEE8Bd7BJ3AcbE1g29p4D2Yaq2hvnnv9MuuuN9/FMw/2X8ArI+ZxXAyf0iAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xu2WwUtUURSHfYuQNrk3UkwycFEZhiOVCWKRSSYiZpmJTGKWiYiIWSIyKGaZaWIliki5EFFcGEQRaaKIqGmiWBnoQvwb3Jz4znBlnCRGeE9aeODw5s28mfvN75zzuzcoaD/2w4Ql3nQkzI8HuoAlTxurpbS0YBffCTgsGR39KD09L6W6ujSABSzp7m6V+voqKS7OD+D5XYclY2OfpKysUO4V5Ul7e4OPWn/njex0ycnJkNracrlbeNsZoPHxz/Kw8oGWgEVyczMlM/OqKsb7FRX3pby8SDIyrmhez7qmn+XnZ9sNZMnAQI9MTHyRR1UlunBJiVsXpxyoQNbUlEleXpaCpKYmKxTPAG470ODgW5mcHNF/TD5peKwQRjHuKSVqUC5g0tIuKTj3tgMNDfXK1NRXhWlp8UhTU402LFBGNdRyu29q7wBEOQsKbtkNQ3gn7OePRWlurpXW1jq9oorHU6Gl2gkoJSVJS+cIEOoAgTptbfV6xWOAIk1f+QIlJp6V8PDDzgChhAFi5FFpbm5qK+klgCgRpeSekgFlM5ClP26AAAFoaWle5uenFWZ2dlL7CI/CDgwQKp2OOWE/EIvV1VWqOv393Zrcb74/J5vDLpmZntjyJsaehuc7d5IPaA/ZDGWpMgsLM7Kysiyrq79kfX1VfQmwvr4uefO6cZthGi+iZCQ9lZ5+2S4oLxCL4tTLy98VbGNjXdbWfutrowhAmCCqxMfHKgRlu5h8wS4YwgtE33R2PtcNEzCmDhsgu7pebJkkow8UpgiQA2NvqTpkR8czWVz8pkkzA4Z7cwIg42Nj5cypkxIdFaUlY+pQznYg4z0AMVn0E9eDwcEyMvJBet+9kgSXaxvQ0bAwVSsp6bz9QBifKRsAuDbqAESi2PHISDkWEaEgR0JDdV+jp6Kjo+wHYsRpXFQyUAaGHB7u182XiUMtfAiDxBRDQg7ZDUR4j6KYIubHMcQXaKfk2YQElxMwJiwtAUDsW5we/SF8k1F3HIjtAyAmxx/AP+PiYpyEMWHpKNMj/gC+ySlxD2BMsNC/E+g9BAok/iuY/dib+AOH/DCbsOOUXgAAAABJRU5ErkJggg==",
     "wiki_name": "Wolf mask",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wolf_mask",
     "equipment": {

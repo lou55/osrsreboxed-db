@@ -1,7 +1,7 @@
 {
     "id": 13697,
     "name": "Air orb",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-18",
     "duplicate": true,
     "examine": "A magic glowing orb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2ElEQVR4Xu2US0sCYRiF/X5FtEskQgpSKDPKLliZGV0wMShSQoKgDAkJW1S4UISgQqKFFBKBLSQXYiGJZFYQYtCFQDRSCI3+xIn5hsyiZaMu5oHZDXwP5xxegYCHh4eHhysI2K8qINCNjGBcra4WKYLJsbFfUhUR+3qYYHpC+0NqVKUql9S3xHB/P5Uw6vVFIUZmqE8JpUJB/5HU1XElxUosL29gYWEFs7OL0Olm0CmT0ccZCSaVwd4e9HR0oL2lhSshVsThcGNtfRM2mwNm8ypMpiXo9Uao1eNoEovRKmlGl1xesh9W5p+FCK5vkjg/v0QgEIbH44PTuQur1Y65OQumpkzQaLRQKJRobGz+IcGBDAPB83MaicQ9otEbBIMReL1+uFx7tDqDYZ4KyWSdqKmp5aqiUggKhQ+k06+4u3tCPJ7A6dkFfMdB7Owc0Oq6uwcgFjdxVdFvCPL5d+RyeaRSL0WpcDhGK2Q2JZW2QSisL0c6XxBks2/IZHLF+mKxW5rS1tY+RKKGcqVTCqEJMUKPjyk68sPDE7oli2WtnOmUQmhlyeQDIpEr+P0huiPmDFRIiIG9L6FQFEdHAbjdXtjt25UUEgjYh7+PXwX28zccH0AeHh7O+AQ4W1hU6XoSigAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwElEQVR4Xu3US0tCQRjG8eZTREuJCDGooKwwu2BmZlRiYmBUiARBFyQibGHhwhCCCokWUYgItpBciIUkkl2EEIMuBGJRQmj0JZ6YEc3an3MKzh9mPT/mfZmqKjExMTExriIonj8RgXF4GHqt9q+gCMZHR3+hBIGVLiaYGDP8QI1oNHyhvhFDajVDTJtMZRDFDPapoFIquQYVEUtL65ibW4HFMg+jcRKdcjm7nCLoqwz09qBHoUBHSwtXoCLE5fLAsbYJu92FhYVVWK2LMJmmodXq0SCVorWpEV3t7RX7wxHmOpnG2dkFQqEo9vcD2NjYxfKyEzMzNpjNVuh0BiiVKshkjVwhKiN4esoilbpDPJ5EOByD1xuE273HRjc1NctAcnknqqtr+AEVCp/IZl9xe/uIy8sUTk7PETgKY2fnkI2uu7sfUmkDHxgaQT7/gVwuj0zmpYyKRhNshHSnmpvbIJHU8QWiEby9veP5OVceXyJxw15pa+sAtbX1fGJKEfZCFPTwkGFL7vMds12y2RxCgGiEjSydvkcsdoVgMML2iH4DAoFoxf8lEonD7w/B4/HC6dwWElSq8vMTHCMmJva/+wK8TzXs7dr2lwAAAABJRU5ErkJggg==",
     "wiki_name": "Air orb",
     "wiki_url": "https://oldschool.runescape.wiki/w/Air_orb",
     "equipment": null,

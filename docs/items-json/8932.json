@@ -1,7 +1,7 @@
 {
     "id": 8932,
     "name": "Lumber patch",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": false,
     "examine": "Repairs made with this will be patchy at best.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhUlEQVR4Xu2TXUsCQRSGnT9QRFGYZH6QYgslQolQIYRUeCEVQtBFEARBEARd9O8n3jO86zg5BjmjBPPCg+7u7JzHOcdCISUlJcWN0tOsLEagWVoTsrJhBYKmEAXIcXV9ik59Q4gsNRHxCbicNjZjSam5Aig8i15rS4jQQqXPs23Z3CfB4gTrXQKKKT082dXXnaIetIu6f7TzqwDW+AgkpvRdb0+PuqVcDvgEIO6D7wYQMxuMz8qCLegrOgust1lIrF2p5Bs89qv64WJfoOC8wgA/wMefpRBb7OmyJtiCvuKQdnke1HIhs+9CMbP1clUXsDmgoFuc7QZYh3dwn8MeQAgxUpid15uDHFuSEjg93MPzt2FDrnnSkAkmhBOBFGflfdSUgsCWpAie4wRtkUAyjJHi7LBFH7ctAQIA3z/vD3/IuLsFyuSk7HlBW77GmYjgk20MODO+KGkHpDiwbA9Au3Cf/8YlCCFGCgI4EbQI1xxcm8jtsuMv7uK+GS1u4aUWT0n5L/kGBtznm3YN7S0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABa0lEQVR4Xu2TUUsCQRRG3T9QRFGYZKikmFAhVAgVQkiFD1IhBD0EQRAEQdBD/37i3OG64+AY1Oz2Mh8cdHdn5x7nXiuVlJSUFD+ZmeffYgU6tRWhV7f8g6AtpALKYWN1jn5rTShYKhcJCfictNeLksqWClB4EYPuhlBACzNz3tuUzUMSWlxhvU9EscyMj7fNdb9qRkdVMzzY+lGANSEiiWXmbrBjJqe1mRyEBBAPoe9GELMbTM/qgisYKroI1rtEE3scNszDxa6ggssKAz8gxB+liBV7umwKrmCoONI+z6NmLCFiZ+vlqiWwOaigX1zbDazjHe7nwx4lVorZeb3Zm+FKqgSnxz2ev43bch1hhvzYtiGls/I+6UhBcCVVhOecYGQRN1ZKZ0db9HHbFRAAvn/e7xcto8lPyp0X2vI17YkIn9rGUoRoB1I6sNoeoF3c139jCULESiHAidAirvPBdSktfuFSi6ekpPw633jOwlVymxknAAAAAElFTkSuQmCC",
     "wiki_name": "Lumber patch",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lumber_patch",
     "equipment": null,

@@ -18169,23 +18169,19 @@
     },
     "8139": {
         "id": 8139,
-        "name": "Herbs"
+        "name": "Bank booth"
     },
     "8140": {
         "id": 8140,
-        "name": "Herbs"
+        "name": "Bank booth"
     },
     "8141": {
         "id": 8141,
-        "name": "Herbs"
+        "name": "Closed bank booth"
     },
     "8142": {
         "id": 8142,
-        "name": "Herbs"
-    },
-    "8143": {
-        "id": 8143,
-        "name": "Herbs"
+        "name": "Closed bank booth"
     },
     "8144": {
         "id": 8144,
@@ -103354,5 +103350,141 @@
     "54117": {
         "id": 54117,
         "name": "Chest"
+    },
+    "54148": {
+        "id": 54148,
+        "name": "Acid pool"
+    },
+    "54149": {
+        "id": 54149,
+        "name": "Scoreboard"
+    },
+    "54150": {
+        "id": 54150,
+        "name": "Scroll"
+    },
+    "54151": {
+        "id": 54151,
+        "name": "Skeleton"
+    },
+    "54152": {
+        "id": 54152,
+        "name": "Web tunnel"
+    },
+    "54153": {
+        "id": 54153,
+        "name": "Web tunnel"
+    },
+    "54154": {
+        "id": 54154,
+        "name": "Web tunnel"
+    },
+    "54155": {
+        "id": 54155,
+        "name": "Web tunnel"
+    },
+    "54156": {
+        "id": 54156,
+        "name": "Web tunnel"
+    },
+    "54157": {
+        "id": 54157,
+        "name": "Web tunnel"
+    },
+    "54158": {
+        "id": 54158,
+        "name": "Web tunnel"
+    },
+    "54159": {
+        "id": 54159,
+        "name": "Web tunnel"
+    },
+    "54160": {
+        "id": 54160,
+        "name": "Web tunnel"
+    },
+    "54162": {
+        "id": 54162,
+        "name": "Web tunnel"
+    },
+    "54163": {
+        "id": 54163,
+        "name": "Web tunnel"
+    },
+    "54221": {
+        "id": 54221,
+        "name": "Web sack"
+    },
+    "54222": {
+        "id": 54222,
+        "name": "Web sack"
+    },
+    "54223": {
+        "id": 54223,
+        "name": "Web sack"
+    },
+    "54224": {
+        "id": 54224,
+        "name": "Web sack"
+    },
+    "54225": {
+        "id": 54225,
+        "name": "Web sack"
+    },
+    "54226": {
+        "id": 54226,
+        "name": "Web sack"
+    },
+    "54227": {
+        "id": 54227,
+        "name": "Web sack"
+    },
+    "54228": {
+        "id": 54228,
+        "name": "Spider eggs"
+    },
+    "54229": {
+        "id": 54229,
+        "name": "Spider eggs"
+    },
+    "54230": {
+        "id": 54230,
+        "name": "Spider eggs"
+    },
+    "54231": {
+        "id": 54231,
+        "name": "Spider eggs"
+    },
+    "54232": {
+        "id": 54232,
+        "name": "Spider eggs"
+    },
+    "54233": {
+        "id": 54233,
+        "name": "Spider eggs"
+    },
+    "54236": {
+        "id": 54236,
+        "name": "Spider eggs"
+    },
+    "54237": {
+        "id": 54237,
+        "name": "Spider eggs"
+    },
+    "54238": {
+        "id": 54238,
+        "name": "Spider eggs"
+    },
+    "54239": {
+        "id": 54239,
+        "name": "Spider eggs"
+    },
+    "54240": {
+        "id": 54240,
+        "name": "Spider eggs"
+    },
+    "54269": {
+        "id": 54269,
+        "name": "Araxxor display"
     }
 }

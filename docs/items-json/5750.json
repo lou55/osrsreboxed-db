@@ -1,7 +1,7 @@
 {
     "id": 5750,
     "name": "Moonlight mead(m)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "This looks a good deal stronger than normal Moonlight Mead.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xs3Xi04TQRQG4PZNeATfRA3eRdQaqyJgGsQGK02tDcjFCikXgbSBphZCsAQB8YJEIsEYggRe6Jh/Nmc5e5g2XboaJvnT7exs5uvc2oZCZ7+EyR7b/X9ewjSUaKaBnosmffELlHl63oQRpdG7NJe9TYXhVgtKf4iG4Q6IUQBxNCY/2EKTfTc8HeM97ul4Ub6QYcr2XjqBwisgHAaNZ67RaOqKaYtXGwjtJfr7YoK+lrtOh2IQrnl0GDT9+qYBcdtqIDz3baGHflRe0nbllQGhj3NNTSa6d1WcYedPzSB0agPl0lddEK5toHIu4gHhmkG6d1XCnmlAR7y48R4gOfQ61UCLE/eDA/EooQ73Y7EodXRE6HHbHYpGb1Ekcp1aWy9TS0uzC9OgD1NRF4T4AvG60CDc6+9PUCYTp3S6m5LJGD3v6aR4vJ26uh5Sd3cbvUg8oVTKWawStDzzwAuafxYMaGbmDU1ODlAu10cjI2nKZlM0ONBrgvfTU0MGixGTqJX8o2BBqF9fW6Td3S1aWSlT+f07KhbHqFAYpXz+LZVKE7S8XDLXAMmpwwb4NNfugraWki7GN0ij9vZ+0s7OJm1urtL6+pJBbGxUaHv7i4ECifXFwTMAbRQ7rSDde5VyvGM0aHY2R3/2f9HBwW+Tw8M9OjraN5jhoaQLwQhy8NznUuy0IOcMwghVA61+nPcEdRw5MphGG0geirp3VZwtbwMhfkFI4CBGIX5A2IkcRjUMkqOE13pBGiJHCKc0Y+oCYYfZQPwTA9u6Fgint4TgqwZfG3LK6hwdlGOQXkeoZ1ClUvQEdQgwCNrx+QMQvjYCAzGqERBOaQlilO7dUhyQbdpOC8LPjrVCmwvCGeTjHPKC5LShjn/11QIxBsHoNAzCLqsFQgcaxSD+QHK6AgPpaUM9g9Chswa84cXPbQFaGLvnAeEM8n0O2aZNgnCNzvlPAE5xPjzlCKFtICDbtEkQ7sl/JRKEdnL9NAhCOTkVtkiMjAbhUJQgjg9QKMTHeq1ooIxcP4GA6i0aWQ+Wc9z2PxWNtEU/c6bLXxJ72//vthPqAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu3Xe2/SUBgG8PEJ1cy7iIoRFbcZgkgQRxAJkzFxhG24EchGkC1kQnBDvOAicZkxZC7bF3rN0+atp4czQmk1/uFJntCeHuiPc6NMTPz7xUXqqK7/8eKiTHSS0pFzWlLhs5R8dEYLI6q5W7SRvUHlBY8CJX8J23AdxCiAODKmNO+mQuqq6cY4xzU5ZpQlpIuys+cHUHgFhMOg5eRlysUvam3xqgKhvYj+Uo/Sp1pwPBSDcMy9w6C1F9c0ELc9DYT3fd6K0NfGM+o1nmsgSxh8KH9rBuGmKlA+cckA4VgFquW9JhCORwS5TMOAG/HkxjlAYtfLOQ1UX7njHIh7CXW4Hgj4aHraSw/8N8nnu05e7xXyeC6Q2z1pwGTQ21WfAUIsgXheyCBcm5uLUjIZpkQiRLFYgJ5EZigcnqJg8B6FQn56Gn1I8bg+WUVQs3jXDNp87AyoWHxJhUKa8vkULS4mKJuN03x6VgvO11YzGhY9JqJapfvOglDf3q3TwcEetVo1qr15TZXKEpXLOSqVXlG1ukLNZlU7BkgcOiyA9xtTBmhvOzYqBsUMklH9/jfa3+9St7tD7fa2huh0GtTrfdSgQGJ+cfAegDqVmXFBKL9XjAxaX8/Tz8PvdHT0Q8vxcZ9OTg41zEImZkDQgxy870M1MC5I34PQQ6eBdt5tmoI6jtgzGEYVyMKmqC95FQixCkIcBzEKsQLCSuQwyjZI7CW8jgqSIWIPYZceEYOirzAViB8xsKyHgbB7ixD81OBnQxyysUDyPEI9gxqNiimoQ4BB0I73H4Dws+EYiFF2QNilRZAFlA5SDdu4IDx27Jb9Bgh7kIV9yAwShw11/NQ3DMQYBL1jG4RVNgyEG8goBvEXEofLMZA8bKhnEG6of6A5PPm5LUBbS7dNIOxBlvch1bCJIBzj5vwnALs4b55iD6GtIyDVsIkgXBP/lYggtBPnj00QyuBQqCJixMggbIoiiGMBNGoZRHLE+fMXQcPKIHIw/4u98gvIaJFzwDS2PwAAAABJRU5ErkJggg==",
     "wiki_name": "Moonlight mead(m)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Moonlight_mead(m)",
     "equipment": null,

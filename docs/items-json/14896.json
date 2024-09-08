@@ -1,7 +1,7 @@
 {
     "id": 14896,
     "name": "Enchant diamond",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A tablet containing a magic spell.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfklEQVR4Xu3X2U4UQRgFYPrShBvfAELAAIbFIGJYDbKMGFaRfV9ExBkGNJMQYrzwhrfgwkufxhf6ySlyOtU/1T1dU3NDQiUnNDNN9zenqqebhoanETQiqU/qMiIZHx6WscFBk5GBARnq7zd529dn8qa3V173dJu86uoy6e7slJft7SYdbW0mdUBFMjk6KtPvxuJ8eD9ugm28hwBMNMBEA0skYC9aWkJQUXxiG4J8nJgwmZuaioPfub+NAwwNBqIiWSgU4hNkQRqf/49jw9gcYDYKU9fa3OyDimR1fj4G2RAbY0N0COO02iisLU+UG5QGwX52NIxtEYU1BRRBPU1N1VBJUBpGQ3TsfYnCmsJCx9TVBLKnyQXRben3uQ/+noudU8fFnQu0PDsbg1wYG/D35lkiGsdtHItTh5a8QGzIniqNIeDf7W0cDdMtcerQUs0gVzsujIa5WuLUAcRv7lyg9cWFxIF8MBqlm8XUYXF7g7La0SdPSxrKG7T5aUmWZmaCQGkYfFCAcBvxAvFKs1HcroZKW9j4CRCuNG8QFnZWS1koFyYItP152ayjai1pFF9zgbiNRQ0Qbh+5QbsrK1Vb0jAb4voAQaD9tbXMllww1/u6nZpBhxsbD1rSAH1inbR98W0NEG6wuUHHW1sPWgKKMPuELoh+TYNw2XuBvu7sJFoCCk0hwLmAeUMQnotyg8pfjhMtIYARFwLEvQwgPILkBv2pVKR0dGhaAgpBW0gokI+1xOQAYUTy+8elQX0/2Jdve7smmEoE7SEAE+0D9sRw3KN+XZTl+rwkV8WiVM7OTH6ensrlyYmZWqB94DViOPS/wuEJwNwPHqCe0ed4FOMOTIubpyt/1IYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4Xu3Wx07DQBQFUGaJxIZPQAgQRUAQVaEKQhe9hV5CCyVURUIIsWDDX7BgydfwQw/dQc+aPMaOx/aSka4wsROf3BnHrqj4H7GGomSSyFA0OjBAw+m0zmBvL/V3d+v0dXbq9KRS1NXeptPR2qrT1txMLY2NOk319ToJoBSNDw3R5Miwl+mxUR1sYx8CMKMBZjSwjASsobY2Dkp5JzYhyGwmozM/MeEF//PxJg4wNBgTpWhxaso7QRCkqvrbiwnj5gAzUZi6upoaF5SijYUFD2RCTIwJkWEYT6uJwtpyRNlBfhAcZ0bCuC1GYU0BFRnkh5EQGfNYRmFNYaFj6iKBzGmyQWRbcj8fg/fzYuepc1jcilbn5jyQDWMCPt8rSyJxvI3P4qlDS04gbsicKolhwNfHhxcJky3x1KGlyCBbOzaMhNla4qkDyOGXW9Hm0mLJB7lgJEo2i6nD4nYGBbUjT+4XP5QzaHtlmZZnZmKB/DD4ogDhNuIE4ivNRPF2OZTfwsZfgHClOYOwsINaCkLZMLFAu2ureh2Va0mi+DUbiLexqAHC7SM0aH99vWxLEmZCbF8gFugwmw1syQaz7ZftRAbltrb+tCQB8sQyfsfi1xog3GBDg052dv60BBTDzBPaIPI1CcJl7wQ639sraQkoNIUAZwOGDYPwXBQadHt6UtISAhjj4gBxLwMIjyChQW/FIhWOc7oloBC0hcQF8mNtSAwPRa8P9xp1dXRIFwf7OphKBO0hADPaBeyI4fGLerm7peebAj1dX1Px8lLnMZ+n+7MzPbVAu8AjYnjgzUnnfyQzfgDgTVhGMCcgZQAAAABJRU5ErkJggg==",
     "wiki_name": "Enchant diamond",
     "wiki_url": "https://oldschool.runescape.wiki/w/Enchant_diamond",
     "equipment": null,

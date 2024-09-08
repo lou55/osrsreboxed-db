@@ -1,7 +1,7 @@
 {
     "id": 9477,
     "name": "Aluft aloft box",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-08-07",
     "duplicate": false,
     "examine": "You can check on your delivery details here.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xu2W/0uTURTGvT8mooiy4UapRUQZKdEXI1PDzDTJVpaOitYsHamLNBsqpqzlsIWkKEWBiCQERUH/4InnjPPuvu/ezXfrXf7igYe9nHvvOZ/7nCtYVnYQJQtFZu1rKBp/EqLl2Vn6ub1NiVhsP+EUzUWj9GllhX7vfqOPb+OUnJ9nARD6j1CK4q9naGt9jUGWXk3Ty7FRCgeDNB2JsFOAxb6WhoZSQyn6sPiGQfTxdJf7+BcwgJ0cCZcaKN0YDQEDqEBFPd2qOEK95YfpXkUjC/nYxASFhoZKAZRxAI2HK4/S+rsEfUml+K0AAFDIj1WdpKnq0zRSdYLz4li2ig7FjdAgWt1E49WnuCnezWYyyU5h/WHlMV5bqGmh2Zpmmqk5w2A4o59DHahIKGXbAMV3NjfYJTzkUOVxXkvUnqOl2rOmM3IOv8hjPek5X+wYFRdAIwiF3nsusJCX0WANOazLXsmtei4akrPYh3EW6JKyBUHhNW+rSRveS6zP3jbjW6TvEyjUw2UKdEnlBJHmur7WXTFkXRNQK1Tmwe8Zak8QHWCrrt1WOqAdEN6eQ5dUXhBpuOPrMLTr62TpOUjA7IAwttZDHicuKeocmKRrd6byggjEd9/VLAmcANm5hPcpDjlyqSvwgqF67sfoxvCcCUQa//B3sX75u41vyA4ItVATl+3of06++ianI0MoPoQi3YMzDNQXXKCbDxap/1HcgID++K8bEjDAYi/O4EKooQO190UKcUciPToUE5cEaOBxgm6HlikQXqG7T1M0OLrK38hhDXtyAeGi/sbmQtyRUHwTFBEgcckKBDkB+gd3JDKjs46tUCBxp633WTHuSCguIKPTgcQlJ0AuuSNhHh2a2L2jfEAuuSOh6HJP2DQ6u7HZAWGvjMsldySyRycu5QKyjssld/RI/7cno7P+telAVndcHJc50sXSYGhoB6S7I3tFLo0rO3SwfBIAXdZaroa1mZ2sZw7CzfgLI58fVTHPgzEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4Xu2U/0uTURTGvT8mYzImG26UWESUkRF9MTI1bJkm2crSUdGapSN1kbbGFFPWcqyFpChFgYgkBEVB/+CJ547z7r7v7uY2N/0hDzzs5dx7z/nc51ytqzuImoUgs/Y1BE08DdJSPE6/NjcpGYvtJ5yg2UiEPqfT9Gf7O316l6DU3JwUAKE9hBKUeBOljdUVCbL4eoZejY9RKBCgmXBYOgXYPQIS9HHhrQRRx+Or98hfwAB2ajRUa6BsYzQEDKD8tma6bTtCffWH6b6tRQr52OQkBYeHawGUcwCNR+xHafV9kr5mMvKtAABQyI83nKRpx2kabTgh8+xYvioOIRuhQcTRShOOU7Ip3s16KiWdwvoj+zG5Nu88S3FnG0WdZyQYzqjnUAeqEEpoG6D41vqadAkPOWg/LteSjedpsfGc6Qyfwy/yWE+5LlQOhAJoBKHQB9dFKeR5NFhDDuu8l3PLrkuG+Cz2YZxlQgktCAqvuNtNWnNflvri7jC+Weo+hkI9XKZsoEIg3FzVt6arhqxrDGqFyj34HUPsCKICbDR1aqUC6oDw9koGKgbCDbc8XYa2Pd1Sag5iMB0QxtZ+yFUKlKDuwSm6fne6KAhD/PBcyxPDMZDOJbzPEmA4BPX4X0qo3gcxujkyawLhxj+9PVK/vT7jG9IBoRZq4rJdAy/I09xaHhAOoYhvKCqB+gPzdOvhAg08ThgQ0F/vDUMMBljsxRlcCDVUoM7+cDkwHNnRoRi7xECDT5J0J7hE/lCa7j3L0NDYsvxGDmvYUwgIF/W2tFUGhJugCAOxS1YgqBSgXbjDkRuddWzlArE7HX3PdweEAjw6FYhdKgWoSu5wmEeHJrp3VAyoSu5wCLrSGzKNTjc2HRD28riq5A5H/ujYpUJA1nFVyR01UCz7DxONrH9tKpDVnSqOSxdZMDTUAanu8N6cahrWZjodxH8W/wB/XOXuektwKAAAAABJRU5ErkJggg==",
     "wiki_name": "Aluft aloft box",
     "wiki_url": "https://oldschool.runescape.wiki/w/Aluft_aloft_box",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 15071,
     "name": "White dark bow paint",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-09-18",
     "duplicate": true,
     "examine": "Paints things white!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xu2X30sUcRTFnSfpv/BP6FEQ0h7MxDAtzAzMsB8YmFFWi4lmYbsYmeRmFqKIWYosStkS4iJqpsiyZia7LLuZimiaaWi2jzfPXe44O/oSzEwPeeA+yP76cM653+8YF7evfVkmhf5uTJVCnre9PO+6u2Om1elU53ZJiTqWQWlhhvr6dsGIQwcTEnj032KwYqEEqMHhUGEExAIYkUL9b16rQHvB6D9hsqKRjHg8NOB206vnz2Ji0r/bZEVB4IyUvOdlO4/Tbrdqw0QKra+u0s+1NVqcn6NwIEBTPh8N9/dTb2cHtTc+paobpXQ6K8sKqB0YzPflZZqfmaHg9GfyjrznTrlaW6mxpoZKi4rMjk+hjfV1ns2NDRXo2+IifQ2F6JPXyy65u7rYpQcVFXS5oMAslxSGwPza3NwFhOgCU1M0PjwU41Ll9Wt09lSO0VAKQ/ze2uKJRCL8N5xCfEsLCzQXDjPQx/FxLjq6hK17eKeSrl68QCczMoyEiroDCAETGDi0MDvLxZ6emKDRgQHq6+mh7hdtHJujvJyunC+k42lpRvZpJy4BQ1w/VlZoZWmJgVDqibEx7hAOSkTW1vCE7GVl3KNjqanGAklEUmhxR/oDIN/oB47L7XJRV0sLXyXVNhtdys+no4dTjAeSIgNK3EF/4FDI72eHGGh7yzqbm6ml/jHdu3WTCvPy6EhysrFA2qj024VzCB2SQgOoo6mJmuvq+IA8l5tLKUlJxgLBCWyXxKV1Bxv2JRhkID6HtiODQ021teraH0pMNBYIDsARQOhBEJd/cpLPILnTUOhHd6t45bPT01UYg4AghYsLCAxOZoDg7ME9tpc70p8D8fFGuqOVwk4ADINzByDYLr079fer+S7Lycw0wx2tFN4m3FuAwYWKw1Dvjqy7yTAihcYGB1UYeSYSd/DkaCsupjMnss2Kai9FH8AAgMGKo8QAkdcscmdH0R/S/v8VC2EpjFZ6gH8C8V/qD+lt7d50BkAvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xu2W30uTcRTGfa+k/0gQ0i7MxDAtzAzMsB8YmFFWYqJZmMPIJJdZyGSYpYyxUTZiKEPNlDFmtmRjbJrK2NLMxZbt8uRzxne9m94E7/vaxR44F2MX+/A8zznf5eRklZVmkujfRlVJNPlunOe9xZI2Rr0+NXcaG1OjGZQcZtpu3wOjkUNC6VACqF+n08qV/STRxNs3KaADhoGSkcxOTpLDZqPXL55rHZNcSRA4I0pufTXCo+/q0hpMoujWFv3c3qbw+hoFfT7yuN00MzFB42OjNDLwjDpuNtGZ8nItoP7CYL5vbND6ygr5l76Qa/YDd8psNNJAdzc11derDSRRLBrlicdiKaBv4TB9DQTos8vFLtlMJnbpYVsbXamtVQtKYgjMr3h8DxCi83k85JyZTnOp/cZ1One6UmkoiSF+7+zwJBIJ/gynEF8kFKK1YJCBPjmdXHR0CVv36G47Xbt0kU6VlioJlXQHEAJMwMCh0OoqF3tpYYHmHA6yW61keTnMselaW+nqhTo6UVysPJA8MsT1Y3OTNiMRBkKpF+bnuUM4lIhsuP8pdbW0cI+OFxUpCyQiEoUW7oj+AMg995HjspnNZBoa4qeks7mZLtfU0LEjhcoDiSIDSriD/sChgNfLDjHQ7paNGQw01PeE7t++RXXV1XS0oEBZIHlUmduFO4QOiUIDaHRwkAy9vXwgz1dVUWF+vrJAcALbJeKSu4MNW/b7GYjv0G5kcGiwpye19ofz8pQFggNwBBCZIIjLu7jIN0i8aSj043sdvPIVJSVKwghJXFxAYHCZAYLbg3dsP3dEfw7l5qoBBEnsBMAwuDsAwXZlutP3oJPfssqyMrVghCTeJrxbgMGDimOY6Y5Yd5VhhCSan5pKwYj/RMId/HNsbmigsycrtAKC8EMSA2Cw4igxQMR3GsLIJf/xA4PI6v/QH+uNu7FV/xGrAAAAAElFTkSuQmCC",
     "wiki_name": "White dark bow paint",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_dark_bow_paint",
     "equipment": null,

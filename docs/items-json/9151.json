@@ -1,7 +1,7 @@
 {
     "id": 9151,
     "name": "Iron bolts",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Iron crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xu2V30oCURDGnSvpJUSTCDH8E2aGmYqZIkHd1bt0nw/gA098O83unLN2OWeF/GBYZ1iY334z51irneUu4rhSoYgfRiMOoSoFJL5qtTKgQbOZPSsEJL4fDvmiXv8FIF5MpyXAu0E/AnQR8e55ZZoRv202GaCFeZnP+abTMTU3EW+XC77t9XIg5AqoQI/jceSYqyj/egTGZQFf1+vAMWegcByIp8kkyMuOucqeJtmneH+sY85A8vXWjdVsFjWXWrKFxnhsc5trzcK4A/W73dwduBWPqwzoJtmNeDTX7XZQSzQqiEq7grvG5hbYGUjcsM3tcmtNx+kOg4hv4mPjS+AO8X7/lcVloxEAxONLcO8UMHDn8+M9a6h1BUTg5nZ2p4DB78PhO88RONoWMNHfhDTDScKyWiAA2Dwcp6sECPthHbNAcErrCYAgcUpDl1iBrHvyTgLpsoZLe9y9RC79peLUnQiQuGfHWTmQ6qRgzvq3+gEqn58G/XH9UAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABW0lEQVR4Xu2VzWoCUQyFzUr6EoKVUsTiT7HWYq0WqxYRdNe+S/f1AXzglBhnbpKZbTJdzIEBE5R8c07utdGo5S5A26lQgC/jMWqoSgEB79ptAVQpIODzaIQ3zeYVAHA5mxUAn4YDA+giwN3HSgwDPGy3F0AJs1ks8KHbjQH6fF/iY7+fA1Gt3QB8nUyMY64C8fYclwTcr9fGMVfZOADfplNVFx1zlTxNvE92f7RjruK3l26s5nMznHthC03xyOG65l4QDAlw0Ovl7pBbNq4ioJt4N2w0952O6oW6Y3eF7hpZa2BXsRtyuF5u7qU4XcX7Ym/isvhCYE6nn8tz22opABtfwL2TYMid76/jdSD3EyDf3GEw9Pl8/s1reuhoS8CgvwkeRieJllUCEYCsdZyuYiDaD+mYBCKnsr79tZPYqfRwLwOS7gVClancPfutYKVT90+AMsk4a9WqlesPwZhQLYIANVkAAAAASUVORK5CYII=",
     "wiki_name": "Iron bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_bolts#Unpoisoned",
     "equipment": null,

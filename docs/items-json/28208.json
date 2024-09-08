@@ -1,7 +1,7 @@
 {
     "id": 28208,
     "name": "Mithril felling axe",
-    "last_updated": "2023-11-01",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-10-25",
     "duplicate": false,
     "examine": "A powerful felling axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIUlEQVR4Xs2W4UsbQRDFnQ/9EBGlGCK9Q2MSLuVyxZhg2oReo2Ik1Uprm1o0SClBRYRSEEqhIIXS//s1M8deNueVCrrZPJgvx93tjzfzdndm5kFFSD6xKILrVjFFUATHCTQovaxoBMS1vFJHodDE98+7tqAICwtODFUqhQie7aNW6wnQ+uqqHSgGYnd8v4NKpStQllpHyGaLAsTuMJCCUjXhuSJ0Xvjo7dRQfro9VgpOVRi+Nw0VwRxuVbEfBrKYal0+3xDHPK8tMK3Wu3imDM0VYTbzSGAGhy/jljAQw3DSGIad4rbpQMk/PZAIS4tz6O891xYaPlvyxSF2R7WNYQwDEebnMgJzfdqJ3eH453KexJ8dYiBO20SA2J2vx1tj7uhAzebBrTIENHRncRa5lcc4vYn2GgWUBqCXgYEeDvJ8Bk+KWZz8iPaX8UXSAfQa/9+9FC3CMEfX0dykLWIQQBdJi1wvh0LgYG8QxdzggmkaWX/+IcSrXg2dfhTxf7ljUITtRlmOA06SSlNyLpJfGRLJMXD1aVO701gBYRHadQ9f3jZxczaKtAUQ1nAfWSvgaLeOb/0dG3Oii1D3l3HQXpNW/bp4EwMl35yACEHJQbdVkVapubHqDieKD0pu1e9LY2fOXUSolt04VT8Hr+27w4OsgP5cGb0i/E+EopuVmPMGyEDW3WkEeRnm4+4GLj+2bbqjlH5dSL41USmIqYCZJv0FoG6cvUF50TcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB8UlEQVR4Xu2WUUsCQRSFm4ceFEkiUdpFRWWNdUNRspQ2S1Qsk7KsMJEIqRAhAiGCQILof5+8s4yuFdRDu9NDB+7L7sN8nHvPnVlY+FUxfPwiUQyqmsEfgmJQFMMGZS8pmgFRhSM5xGIFPF7VZEEx+P3KFCqRMGGsN5DNtmUBkSyXyB1dryKVqnMoSa1jCATiHIjcISABJcrluWKobuloV7JIrpXnSsCJMs0Tp6EsmNZeBg3T4IeJ1kWjee6YppU4TLF47DyM17PIYfqt7WlLCIhgKGkEQ05R21wBCq340D3YtB00+RbSuUPkjmgbwTgMxLDk83CYUa86dYfiHwxqPP7kEAFR2lwBInfuO3tz7tiBCoXmp3IIaOLOihfByDJ6Y7FrrO9fAzga+ckgL3mwGg/g8knsl/n/DgPYZR1CMOcjMTfSxHiLVC2ImKHgoC9i7qpm1t+emthpZ1HtiohLgCnnk/w6oCTN0uQ6CInxa2B4sWt700gBITGUchqujwoY39gjLUWTPZKO4byWw0O3Ih8mp4fRLKV5q17uDmUCMRgJBfViirdK4ltYyEoUXZTUqteBY3fOT8SQSarTVD3392XCkKxBFkBvQ0efCN+JIa4GeMxpARKQRBgSQ96I8mHu1DcwOCvJBiKJLSx1G//rR3oHby5N5FqAsZQAAAAASUVORK5CYII=",
     "wiki_name": "Mithril felling axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_felling_axe",
     "equipment": {

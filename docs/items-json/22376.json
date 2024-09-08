@@ -1,7 +1,7 @@
 {
     "id": 22376,
     "name": "Puppadile",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-05-17",
     "duplicate": false,
     "examine": "A puppy of a mutated guardian of Xeric.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADbklEQVR4Xu2UW09TURCF7d/wwWiIGNQIDyZqMCKhptxSKGCpgFJaSwWhEJSLVUBRi0q8gXgNGhQVNWo0CCje8EbEkGD8FcQfsZw19dBaLw9tFR86yWSfnp6z93fWrJlFixKRiAUJE4K5IGEcHsqiXZuwIXfVQkCZsPNUCVw9xXAet6EyUIjtrRZU+rPh7sxD6sakMNC/HiZ4zto1DShbkxnbjxSgvCsfuwXQI2t58xZV7EcV4x4hGEJQmS1yaKYrHZbaDAVibhOVSkQxPmOt34xNjrVYZ1n5U4kjd48igkBeUYMw3r5SFEmZRuv6FMwonwFU0JCFHLlvdq6HVRTj/1SS/6eZU2KFMinAgas7UCOH+gYq0CjXI7W9GPP1w2dzz6vHJBiTELkCtiYjVd9nmdsul+se3DNt6dJooYJAfgHhZnWyqUO+ttvtx9zXOTTba3Bk2I2eRzXovl+t1weHqvSdmn4Hdl8o0+R7Xbdc+mFsgBhUCgK1cmP5am68TcACrlb0FDeiIatMAQwQHshnuWqZ5V0DrmOwEg2iFI0fg0ohhbgZy+HKdqArfxc686rRnrsT/mwXCsU7LBFNTl/liKnzxdwslVFOgla156JEnlmyanG0KgWBuPEeWUcnD2N8MoCHEy1wZBaqh87a96pagcI6zeM2HxqLPchMS9dDVyYnq7lZcsJYXcH7VCgKlUJANCqBXk314unbbjx+sR+3R2pxRbxxdcchzX5Hm8JRuT1bvbCszQhr91BGCcMIAnEQsnU/TJ/HzOebmJm9jumZAUx9uoS7o3W4dtej64qkJAxVHdXsK21Bk7lC74VDxADDCM4gA+jN1GkFMWD4+6WodUu6jOnNq0B5VpFCDLuPqWKtFuc8VOTuUYRJSxUORJUI9P7jOYV59rIDYxP78ER8dV466Zx0mD3DitUpKQpyocwPp8WuXoob1OyXO/MQr9+d0OvJ9ycxLj56ID66IW0/KF6in1i+izICCLR82TKcKmlSs/O3bWNO/KCoDiEIRGVo6AEBOcOhJwq2fB94Qw+9GJQhybw35tNGYAPQYzEaOjJMegghqARVIExAPBbePVyfCwRhOB4I0ytzLM4wRvzcwuEHhQ4zaelGxF+EqY9tOv85Itv3919tUoOHw/z6uX8aMQ/C+Md/BZOIRCQiIr4B38IJh8LmcUQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTklEQVR4Xu2Ua0tUcRDGPV+jF4FIhhrpC6FCcRNX1hvq6rau93VXXa+raLq2pZbZmkmW9y5oWGZmlBSmlmVZmWQIRp9C+hBPM7MdXS0h3BP2YgeGc///f+eZZyYoKBCBOJBQ4M0DCXXz7cyqiMOplIiDgFJQ2muCrScb1m4jij2ZKHQZUOxOgr09FZGxIT6g/zwUlPWZJVUoY4MehZ0ZyO9IQzUBltExvylRFNupouaxDcMQrEwibRpvi4GhSidAnLmkkokU43fSa08jzhKNE4bw30q8e/V9hBfIQWowjGMgB1lUprmaAQFTy6cCZdQlIJnu660nkU6K8XNWkp9H6cP8hVIE4MJYESppU+doAerpfLaqH/POITiN9i31OBmMkyFSCOy4LlK+5zK33MmXNTQBchMIL1ZDi1rob7vsbmz+2ESTuRKdU3b0PK9E19NyOb84USLfVA5ZUD2SJ8nfdUza5Me4AfyA8gK5eGH6a144l8A8Nhd6sutRl5AnACoIb8jv8lHKTN+qcG3jxagjpdj4fgOxQrwYl8OWZEFHWgXaU8vRmlIKd5INmeQdLhGbnH2VTKZOI3NzqdRyMmhJawpM9M7hiEP7hfIC8cKNdJxbvoyFZQ9mFpthic8UD/WZz4panswayW6jE/XZZYiPipFNw0NDxdxccoZJt3nv797pL2MbiI3KQO9W+/HqYxdevD2PR7NVuEveGCu6JDlkaRE4Vq7xjAOGaJ1Pu2vS+l4gHoTcup/XhrH+7SHWN+5jbX0Uq19vY3quBvemy+R4NCQEEyVXJAdymtGgL5B7fkL4hncGqUAfVm8IiArD10uk1iR1GacjtQD5CVkCMWW/Koq5DFYtoRQplS8Qq8RAK18GBeb1UhvmF8/hJflqmDppkDrMrEvHsbAwARnJc8NqMIuXNIPa+P54C+L9p2tyvrxyHQvko2fkowfU9uPkJfYTl+8WjQAGOhIcjF5Tg5idr42xydpBsToMwUCsDBt6lEBu8tAjBZt/DbyJGQfGaUhyPpl3SiNwA7DHNIJRQ5FNGIKVYBUYxkMe29k9Ct4QBMPweGCYfppjGsOosbt992pjRUo3S/5imFr/prNWoYjB/xMYNfZSMBCBCEQg/hg/AWe+3QfcV1utAAAAAElFTkSuQmCC",
     "wiki_name": "Olmlet (Puppadile)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Olmlet#Puppadile",
     "equipment": null,

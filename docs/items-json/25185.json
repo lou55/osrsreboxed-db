@@ -1,7 +1,7 @@
 {
     "id": 25185,
     "name": "Purple slayer helmet (i)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": false,
     "examine": "You really don't want to wear it inside-out.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4XuWXXUsbURCGsywiCSESlEoVv9GgkRiD0YimUTRqtFijtZoqRdpCLwpeSG9K6UV/SKF/ob9wyjPb2WzCelNP9KIDw36dnHnOO3Nms4nE/2GedN95QvNkKZ+XJ4SKC+xJubjUSygmjpvck4FMJuaZJ2vLy7K+shLz7MHmSSl9LOV0M2byAOg+qM3VVXlRqcQ8e5AFQGvpc7k8Ofk7eeDc6wSywJ58Wf8lWxsbCsV1cXLSFVQAxOQ3FxdasOuZSw1SzVyHQIPZbHi/lf8mP2q/HwcInx4fV5ha5iYEsutm7lbuKj91fM+AKFBq4X2rFUIBgKMMINsDH9QPsrdazIwHiOPC3JzLOmoD7dVqCvXuzbkG3x34JHvZzx3nJ4NfZXZqSiEMyhRyoJIns8mK9hSk36lW5ePVlVy/PpOzoyM5zN5pYQOCMlwDwThTiXOHKfMkl6xKqVDQAKz2YHtLUwbU6eB3BSqmGgr1bGhIAQ53d3Q8R9v2zoAWktuSmyiHaSOgpQ4w0sXuovANCpDnw8MK77ioPSmk6h1AVhcGRj3RnyhwmqcBUexAOaqfoMlN+CWZ9tdk1t+MBeqGajYaCmNAwDlQJ9hVTI4zcdQNKKoSzjnPSFE6lQq7txN1cjMzuovenjZ19ewsAAjM6l/t70uyv/9eZxxHB+pgARCBSQO7iQLmlYEKFOrLel2ViDoLAJTfAWRNMUj/g8zTxkZgAgDEbqIe2P6mUhSKwABxj2f81tLoTCVTgjoibQAZFM8sdQaEIow1EIdFjXlhYIKyeiYv+sehF/yGOuelvlPd4jjjAYzCOAFiu9sqCUTQOC/3nYcwbAIWYWo6UgcLehD9BxUscLdX+lohDHVmSuIsxinQmL+kKs37W2FqzKMKjY2MqKMO6eK/Eu4YCGv/VQUq79fDuol6FAilJkZHVSH76nAIlEi0C9LT9AFmDiAORBSIc4AW5+fdA3VaoJa928wJDkS7CXqaLnpZj4ECxaKptOAA0d2j9wymp0BmFsgAeZG2P5/bH4+PAhNvAUgU8tHUuc+6Af4V5g9tRuFl8QXXgQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4XuWXXUsbURCGPSwiCSESlEoVFRUVTYkajEY0jaJRo8UaP6qpUqQt9KLghfSmlF70hxT6F/oLp31mO5tVNjf1RKEdeNmvkzPPmZkzm+3q+j/Myd07j2hO5vJ5eUSoJMdOSvNznYRi4qTJnfRmswnPnCwvLMjK4mLCs3ubk2LmQEqZRsLkIVA7qLWlJXleLic8u5eFQMuZUzk/PPwzeSju3QYyx04+rfyQ9dVVheoIEJNfnZ1pwa5kz9VJJXsZAfXlctH9Zv6LfKv+fBggND4yojDV7FUEZNeN6Wu5KX/X8R0DokCphbfNZgQFACIygGz0vlPt5q61mBkPEMfZqSmfUC2g7WpVod68OlXnW70fZDv38db5Yd9nmRwbUwiD8gozmSprTyH0m5WKvL+4kMuTYzne35e93I0WNiBEhmsgGGdR4twr0HSqIsVCQR2w2t2NdU0ZUEd9XxVoPl1XqCf9/Qqwt7Wp4zl63vZOZlMbMj1aitKGQ0sdYKSL3UXhGxQgTwcGFN5zUTsppGu3gKwuDIx6oj9R4DRPA6LYgfIEEza50aAo48GyTAZriUB3oRr1usIYEHAegMJdxeSIieMyoHiUEOc8I0WZdLrN6+Sv7HchT0zoLnp91NDVs7MAwDGrf7mzI6menrZiHEevQDgmDewmCphXBlGgUF/UahqJuFgAoPwOIGuKHqCcNjYc4wAgdhP1wPa3KMWhcAwQ93jGby2NHoAwF0WCOiJtABkUzyx1BkREGGsgHosac5FjnLJ6Jp8PDiIVgrqK82L3kW5xxHgAPcJgTre7rRJHOE1Sqfs0gmETsAiLplcgehD9hyiY47sqdzcjGOrMIolYjFeg4WBOozQTrEepMcUjNDw4qCI6pIv/SsgzEBZ2awRUPqhFdRNXHIhIjQ4NaYQ6/tVB+gAzAYiAiANxDtCzmZlOAmFhtOzdZsI5EK0m6DRd9LIOA5m1UmnOAaK7x+89EEyShd9mrc/ndh+PD2oWsfj1P2K/AHIPqA10dwJLAAAAAElFTkSuQmCC",
     "wiki_name": "Purple slayer helmet (i) (Soul Wars)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Purple_slayer_helmet_(i)#Soul_Wars",
     "equipment": {

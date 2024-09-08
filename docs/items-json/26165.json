@@ -1,7 +1,7 @@
 {
     "id": 26165,
     "name": "Group ironman platebody",
-    "last_updated": "2024-06-01",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-10-06",
     "duplicate": true,
     "examine": "A platebody representing your group of five.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOElEQVR4Xu2X60sUYRSHnQ+xKLKyuLS44h0VL3jDTDFTMW8pppmZldfMzEwzMzHTzEwxM8uIoEj8HP2PJ54zvMPsVl9kxg/VgcPOLMvMw/n9zjnvJiT8j78vLDl5eh6WZJY3SVphjaRmFEpyOEMCSSlOJgbDzvWZQNIv6TGUJW2NjRItrnOgwlklChaK5mu6r4ORHCcBTU6ygSqys72CsuTypRZJL21QmEh+lUwMDcnDOxOSGAhojlwfcK5v9PZKS0ODAiWF0iQlGPQe6Ep7u3Q0NzlQ90dHZf7upCzcm1KIyVu3HKDb1/q1ogBlRKOSGgp5D9Tf1SXdra0qGdIBsjg9LUszMwrxYHxMP7kfGxzUiiJfVnq6nA2HvQdChr7OTsmqbFGo5dlZzWdzcwpiKkXVkJOK4qvczExJi0S8B0KGgZ4efRFQzx/Na757uaEgwHEPIHJS0dKiIsnPsWXzHAgZbl7t0xflVLfJxpNFOXy9pUBv1tYcKCRDSipaXlIihXl5MbLFP/mEYamh6ZyLtbVyoaZGPu3sxABtr6woCNIhGx1IdYBBMo87zW57Oqepvl6hvu7vy+fdXfm4vS3vX23K2xfrsvl0SStHlTC5r0B0mKkSUEeHH+TbwYF82dvTagG2s7oq648XtFL4yA1kYDwCIuwqGaiqsjL1CMYtLihQrwBA0lmkufbB1IRdJaCAQS6kwj9IRYdRGaSi7WkAQHwEIiw5X1kpW8vLKhOGxsz4hg7DzFPDwzoiGA911dXaXT7MIROWegWg0rYRKW4ekoKGfsmr7Zbcmk5nirPrWL5UEjl98I8JSyUCoqxjPAYqv75X55Mbik3vY3UISwHIP5kaz9BZ+IYzkzkL+QaEh85VlOvkxitMZKY3nmFOMaP4DbBseeaPOQ/FP82DsBSGneYGYuma4wkzCjNTNeRyH858qJK99d1AXANEMhKYUQCZxcqO80kyS34cHysAEplla+7NeQkgdp3xlw9nIcKG+X505ABQEQNkvgMIHxmfAUWV+N4HD9l/Z+KBjITmrISPkMwN5ZuH7AfG/t8CyCSQAMX/xhcYd5gX/A7QDRD7u1OM+JefOsA/Gz8BTZfouHSWRXIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xu2WbUtUYRCGPR9icZGVxaXFFRWVVXxBU2xTzFTMtxTTzMzM18zMTDMzMdPMTDEzy4igSPwc/ceJaw7P4bjRlzgnIhwY9jnLsudi7ntmnpSU0/j/wpI/T8/DkpyKRsksSkhGdpGkRbIlEEx3MjUUcc5nAsFf0mMoS1obGiRWUutARXJLFSwci2u6z6FonpOApgV9ALpyuVmyyuoVJhqvkonBQXl4Z0JSAwHNkRv9zvlmT48019crUDCcKemhkPdAV9vapL2p0YG6Pzoq83cnZeHelEJMDg05QLev92lFAcqOxSQjHPYeqK+zU7paWlQypANkcXpalmZmFOLB+Jh+8jw2MKAVRb7crCw5G4l4D4QMvR0dklvZrFDLs7Oaz+bmFMRUiqohJxXFV/k5OZIZjXoPhAz93d36IqCeP5rXfPdyQ0GA4xlA5KSiZcXFEs+zZfMcCBluXevVF+VVt8rGk0U5fL2lQG/W1hwoJENKKlpRWipFBQV+yGapoemcSzU1cjGRkE87OyeAtldWFATpkI0OpDrAIJnHnWa3PZ3TWFenUF/39+Xz7q583N6W96825e2Lddl8uqSVo0qY3FcgOsxUCaijww/y7eBAvuztabUA21ldlfXHC1opfOQG8hDGhF0lA1VVXq4ewbglhYXqFQBIOos0Zx9MTdhVAgoY5EIq/INUdBiVQSrangYAxEcgwpILlZWytbysMmFozIxv6DDMPDU8rCOC8VBbXa3d5ZNkhKVeAaisdURKmgalsL5PCmq6JD/R4Uxxdh3Ll0oip08whKUSAVHePn4CKl7Xo/PJDcWm97E6hKUA5O9MjWfoLHzDncmHu5A7bA+dP1ehkxuvMJGZ3niGOcWM4jfAsuWZPz7ch0xYCsNOcwOxdM31hBmFmakacvkIQ9hb3w3EGSCSkcCMAsgsVnacT0CW/Dg+VgAkMsvWPJv7EkDsOuMvj5eqCRvm+9GRA0BFDJD5DiB8ZHwGFFXie1+gyGQgI6G5K+EjJHND+QDjDhvMJEAmgQQo+TfJ/+BzJL/8rwOcxr8TPwHI07DPfX6JiwAAAABJRU5ErkJggg==",
     "wiki_name": "Group ironman platebody (V)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Group_ironman_platebody#V",
     "equipment": null,

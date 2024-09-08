@@ -1,7 +1,7 @@
 {
     "id": 3188,
     "name": "Cleaning cloth",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-14",
     "duplicate": false,
     "examine": "A spirit soaked piece of silk which can be used to remove poison.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcElEQVR4Xu2Wa0sCURCGnX/iT+gnRWFEEUUhRXQja6UQEZQuiN0QMYr6iRPvHGbbZi+6cY59aF94vp55nJkdrNWqVPnfIc7mT0LcXu9mkhYMLkl8vtouRVrQmyTxReNK0GKnK1GK4+XWTDxIfY8pWusIKpclaAWszFK9LtgqJULc2ewL1xs9IU+wSM6TjIZ4sDvMpb9zL/S2b4Xu1kDQH+JZRkM83H8uTSAZDfHD4YRHB2Mpdtd85Ju9UdylZHf0qwoog7jRJYvrbmGndMfAAmQQiovrMutiW34ey6BxB1K/LC2uHULH0D10Ed3ESANKuZukY0FxjM0KWHR89jUPofjTLhLIIkCX3D7YG1SE7ZDHLs0vohI4CSB5i+yrv8xsmSwJgHsFPAoVy1gJFMfhBE9HU8HzuNJCKpEU0OIvJ6/C+OxN8CyDUK6ALQ4mrXfH5UcYGSuQVxxMo8+YADIa+/dzPgLJuOjjZbHvVKmyyHwBiqFBVnrbNQwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUklEQVR4Xu2UW0vDQBCFO/9UFEUUURRRxBtWU5RSCi1eKPVGKRVFf+LImTAx3eymBHb0wT3wPZ8vs5NptVJS/neI/fxJiDvrPS9VQXNJ4ouVTiOqgtEkiS9XrwUtO1vOKpwstRcSQernmbK1rqByPkFXILIMQtzdHAg3G30hJFgnF0lGQzzcHQUZ7DwI/e07obc1FPRDIstoiEcHL40xktEQPx5NeXw4kbL7/Se+3RsXUypPJ/JfFUr+dOVy3S3slO4Y+AUZhIpyXWZdbJf5Y2ma/EDqn6XlOiFMDNPDFDFNPKmhVH6T9FlQjmdzBVxMhfTXrhPwYSCV74N7g+owlXHLQqgETgIwuEWLZXwSAPcKRBSql3ElUI7DCZ6PZ0JEGaQqpBJlAS1/PX0TJufvQmQZhIICbjmYtj9yrj5tZFyBUDmYZV8FBjIaPf1NSUlJmcs3hrsGj22/l28AAAAASUVORK5CYII=",
     "wiki_name": "Cleaning cloth",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cleaning_cloth",
     "equipment": null,

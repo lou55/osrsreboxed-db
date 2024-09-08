@@ -1,7 +1,7 @@
 {
     "id": 27741,
     "name": "Crystal helm",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-02-08",
     "duplicate": false,
     "examine": "This helmet shines bright, like a diamond.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeUlEQVR4Xu2X30sUURTHvQ89tIQRRsKGpUWFCmpiZrhooWJsEhtmLJIYovSDflAUElFBUSBE4EP01N964nMv39k7k49zZ146cJjZnV3uZ7/ne86929f3P5KGs+I7NYazGxdbloeqDdDZxkzXpoamPdDU8LC/bs/vFAArC2fd2U27MjiaA3p684UHrRgqKAHQ0KlzEVDvWXtirUooZzutPdu8vmUDjYGcQo8Xn9nW3COv0uLlW1VAhbJ0rq57IHlIiWo8WxlbtdalBZs5fy0llLO3q/teHRZeGl32SlAe7tenN/w9MKgzOzJXMH2p4ezT2hd7vfLOni+98mVhcVRg8dvjbZ+8Bo5rciDUAYaSoRAALMricVImQLhOnJ1MAeTsffujfe18z4DwD0AqDwNSICTjQJkE6MeDQ/t278BeLr/xUACh0t3Jzj9QqALIyOkLGUyJQM6DHHZ/2cH9n5lKeIh5g5GPgmqebB4xo0qJUK4Pdz77lEqYe3fhiVdKUJRQUGdODFrjWCMNkBRhvmBswVAy2l6p9geIgdl/vD8NEIurxXmNQsyi3kYaEmB1GTD5KV5aOK8Ov1wdE2fPsM6XjZIBRMnIJEAqhxbrLZKH47lUxNAYOwkQG6ZMi1LaNOUnPMZnxprjGRAtn6zLaPd4jyrCAIuRmdp0HM/jgVg60O+HfzIfsSjvAYOxKSegTGfUQSmVMAEMEYDYLlCHssRAsTo6lAkkAYwiAAAkXzAkGYqxOglVKUYAwNQadpQGv+iYIW9VAKMIgw8gzkV4CkDGACpVqI7CZWdo/bMABKgaYIhwsGf6qruKJi5+o4LIT+aaYULELV07TFXxF9RDWtk+hSGfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4Xu2X7SvkURTH3RdemESyrRohtt0N5WGylkysEM1qG3loEtm0srSISBKKKLVtebHtq/1bjz73dn4Pg3dz77xx6jQPv6nz8T3fc+5VU/MaXsNI+TdVDCOj7/KShqoaoJHloZIMtOUSQEY2xjbLAIOFkdLwqnxs6U4B7XzZs6CBoZwSALU1tT9pGc8KffMhoYxs5rdk9fO6NGeaUwptT+zK+sh3q9LEh8kQUK4txcFFCxR7yCWq8WymZ1by78dlqOOTTygjx7OnVh0KT3VPWyVoD+8Xc8v2PTCoM9w5Umb6ioaRy/lrOZw5kV9TB7YtFEcFis/1FmzyGThevQOhDjC0DIUAoCjFk0mbAOG1r7XfB5CRs8KF3BTvIiD8A5C2hwWpICTrQNML0O+VB7lduJf96SMLBRAqfesvPoFCFUA633T5gQHkofRX7pf+RCrhIfYNRn4OKtuYfWZHVSRcu86/XtlUlTD3j/GfVimFooUK9ba+RTK1GT9Aqgj7BWMrDC1j7DV1/AFiYTbUNfgBoriOOJ9RiF0UH6QuAdYpAya9xSsWxqrDXx5PTDLj39E2WgYQLSO9AGk7tFhcJA3Hc1URQ2NsL0AcmGpalNJDU/2Ex/hNT7Y3AmLkvU0Z4548o8phgMXIbG0mjueeFiJh5N/a/8hHFOU7YDA27QSU7Yw6KBW30Us4II4L1KEtSaCkOgEvZQ4AIPUFS5KlmFQnEAzhADC1Ljtag1/0mhHodpgMt/gA4l6EpwBkDaBSYBjCRHdo/c8CEKCqAEO4iz3bV6croIlfingrx/ka4eMRD5odNHsFx40AAAAASUVORK5CYII=",
     "wiki_name": "Crystal helm (Trahaearn) (Active)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Trahaearn)#Active",
     "equipment": {

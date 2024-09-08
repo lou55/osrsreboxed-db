@@ -1,7 +1,7 @@
 {
     "id": 13265,
     "name": "Abyssal dagger",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-10-01",
     "duplicate": false,
     "examine": "Something sharp from the body of a defeated Abyssal Sire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMElEQVR4Xu2WPQvCQAyGrxQpllIRnRxUBBGc3FwcXF3c/D/+87Nvay5nOD8Gmzj4QKBDr314k5Q698eczD8vVbqX1s49LSWp1yLDoggJ7ZbLtuQTvkRaZHqXSIn0KiNFSEJZBLyXURIBn8vIk1+GV5fmJDUvajJxIpCY5c5XZdmKjOpaUwZkIRGZymQ81pYB3CYqgzaBx88+pNAqlEmbKAWamUVUsZA82SNdMpDaNAI0M2sbIU7oUOT+Ug78qqpC+5SFWAaF9SYRnhm1+UnL0MtjgR5l6B+FZ8ZorUEnIEVkMvJUjzyKGCZDZO0akwiuseIkJO9WoBNCnYa5PzYrvm9qHjZLHRZCQudG6joqgpBBSpnfDliINs10hmh25DAbyBC8aUZtSmHapjQ/JfMn4gZq3DRSVBn6NwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABB0lEQVR4Xu2TwQqCQBCGV0QWRRSpU4eCIIJeoEuHrl269T69+ba/2zhpbnRpxsAPBjwI+/HPP8bMqJO4+IgSHq2MiY6Q1GeR3FqphMZFlk8JQRHwLkISwiLgGxkxJiPDp0s9Ge+LCP1UILFKjSuLohWpq0pSBiRdIsNUFk0jLQN4TTQKawLcG5LCqjAqa6IUqDObl1EQAiEZSO29AHVmpyPECZ1s6m5F5rZl2a1PWIhlMDhv7hL/w98/JSYjCj3InVE6axAEhiJKyYC+iGIyRNKeMYngGyeuLoS55Kk7+xM/+llrroyEkNDVS91rqyt0yFiILk1JBoRS94XU4UubiBBQXdPMf/EALg3ptyb046cAAAAASUVORK5CYII=",
     "wiki_name": "Abyssal dagger (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_dagger#Unpoisoned",
     "equipment": {

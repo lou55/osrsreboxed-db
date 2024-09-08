@@ -1,7 +1,7 @@
 {
     "id": 26060,
     "name": "Sigil of specialised strikes",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xu2Xb0uTURjGfcis5VgNtsl6KmVhYcbQGNZgJSPLzMiGNVayspBCpJD+IP1BCr9K73rVV+hFr/oCQS/6Jid/5+E+z9nZo8z2WETecDGd2zm/57qv+xzs6dmr/6c81a6/UsHmtVpFzcxMqMlLRVUqnVKjo4N/Eix04Uv+kNHHTEKrXD6jxsdPqpHTx9XgiYHdBvPUi+d31OrqvHr2tKY+5wKYT7lWFYsFA5TPp1U6ndwNKE+9elnXAuqnnzISlxbuXdbtm75a0kCFQl75fsYAjQ0NxQXlqbW1RosA+eEntb4dTWqgpaXrGgqgSuWszhNAmcxhlUol4nTJU29e39UgvKLvmyCir/lQjUa1JeDSOgGKwSVPvXu7YEBcGFrI3wWoXp9smziAcCmROBCHS54OsEickiwh3vvw/r5x6MbsBVWtjqnzEyORQF265JmpQisrtwwM7yMAeX3yeFZnaG6ubICYOMJt56hLICocdwQUAbadwxnadXv+ogk1Z5IAMf4xAlGeXpxDDwnU4oNpDUKb2Hh42DcZ4nM2UIzjHwSbxQUKpwChPTjCeJMVNkdTU+d0y+zziLbFBrS8fFNnhFdaJGFlQ9qDA/xuC1CgcC1GoCDUiBwRaMBol0wUG5MXYJvNK/q0pmVyhdgOdXGNBJdib+8+7YjArK839Zjz86OH1/TmtA0wnMIRJPlxgX4z2AEI6uvbr4UrGxuLBoZQM+KAEGJcIjcy7gDRVhcoPBw7dqkdpr//oJZcHbQPd+QylXsLyRRGOUS7AGJN1u8AbGuY7ObTAUBGGHU5BO282C0DzgYi9LKWrC17bQMVDQQMojVsytMSatrFQUibAAAMGAJuA+WyR8waWwFtk6kAKsoh0TE/qyXjLSAu0EAuBOkCiIqGioLrVDaIDdMhENUK5YK5G0bJzYwLI6EGpgMgKjyLouRuFCX3O64rO4AJKvhw+J9GXNoxiFv208Qld4+9+ufrF2HOT/QBema/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xu2VXWsTQRSGu1irsSEaSFLiqoVIlbYSrIRqIFqC1Vor1lANqSVapSilKMUPih8UpX/FO6/8C1545R8QvPCfjH1mObOTyVZSu6kX5sDLtmk68+x53zPT19er/6c81a5/UsHmtVpFzc5OqqkrRVUqnVHj48P7CRZ24Wv+iNGnTEKrXB5TExOn1ejZk2r41FC3wTz18sU9tb6+oJ4/q6kvuQDmc65VxWLBAOXzaZVOJ7sB5anXr+paQP3yU0bSpaX7V7V9M9dLGqhQyCvfz3QDyFMbG40WAfLTT2p9P57UQCsrNzUUQJXKOZ0ngDKZoyqVSsQJ5am3bxY1CE/0YxtE9C0fqtGotgRcrIsRyFPv3y0ZEBcGC/m7ANXrU20TBxBdSiQOxQHl6QCLpFOSJcRnHz88MB26NXdJVavn1cXJ0e4AyVShtbU7BobPEYA8nz6Z0xmany8bICaOcMeco3DcEVAE2O4cncGuuwuXTag5kwSI8Y8RiPL04hx6SKCWH85oEGxi45ER32SI79lAMY5/EGwWFyg6BQj20BHGm6ywOZqevqAts88jbIsNaHX1ts4ITyySsLIh9tABfrcFKFB0LUagINSIHBFowLBLJoqNyQuwzeY1fVpjmVwhdof2YFtwKfb3H9AdEZjNzaYec35+/OiG3hzbAKNTdARJflygvwx2AIIGBg5q0ZWtrWUDQ6gZcUAIMV0iNzLuAGGrCxSeRR1DtcMMDh7WkqsD++iOXKZybyGZwqgOYRdArMn6HYDtDJPdfjsAyAijLoegnRfbMuBsIEIva8nastcfoKKBgEFYw6a8LaHGLg5CbAIAMGAIuA2Uyx4za+wSiAqgojokOuFntWS8BcQFGsqFIHsAoqKhouA6lQ1iw3QIRLVCuWDuhlFyM+PCdBBqt8KzKEruRlFy/2eXXdmp5E3iVK961f36DUI1FS1WnNWYAAAAAElFTkSuQmCC",
     "wiki_name": "Sigil of specialised strikes (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_specialised_strikes#Un-attuned",
     "equipment": null,

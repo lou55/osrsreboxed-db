@@ -1,7 +1,7 @@
 {
     "id": 6418,
     "name": "Maple blackjack(o)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-15",
     "duplicate": false,
     "examine": "An offensive blackjack.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xu3VTUdEURgH8DnbdrljMnc0jT5AWowxmaaJzHCbIWMkSZJIkpEoitIihhZDtIhoERHRIlq1atVH6OM8eZ7juffMo5dN59zk/jmM4778/M85d1KpJEmSJPkpCuSMw+DLTYCCuWpVzDmJhrydjBmACDNZKNCQd1mKgvfeOLwe5eGxm4P7bR/utnzCTJdKIc5hSwpeDvLwvDcKT7s5eNjRqNtNnxCdZhNa9To0ajVXKEUYBpktIYoxM+VyuHzyCb8cRQgcCDJbwnZuNrIDGAcgjCIAQhhntnS9noWrtRFXS4ZR0A4CAsxWKgQz9xK2FAsKMXiyporFsDHZ0uWqM5SivcL7BRE4GMQtIehihVHWYBrDL9EbV/9GCOPMlhB1vpSxi+JTxCeJYQhBmGypv6xB1k7e1w/WbSFGtsQoeYf1mMsoW7K8dN+HYQhB0J9A6ei2eouZgcHzseDMZTxe8OC0nYazTlrgYomC/XmPxmHLIxzOOfzv+ywKuo1hGsHEUAiSVzlOtH9ibieK/Lgm+Xf5ACN7XxswRLCCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4Xu3TUUeDURgH8D233eWdZe+06APsamZZa5GNt43MJEmSSJJJFEXpIkYXEV1EdDEioovoqquu+gh9nCf/5zjr7FxUN+85o/fPwzw35+f/PkulkiRJkuS3ENsbh8HjJoB4oVq1dk6iIB9nUwbAI+azN83vJ3l+7ub4cTfkh51QMLOl0gDnEEb8dpTn14NJftnP8dOeQvW3Q0F0mk1u1evcqNVcoUgwGmS2BJTGzJXL7kBAYAAyW0I791tZlxgdEgAgGme2dLeZ5duNCZco4nYUCWC+UhGYeUtoyQsKGPyzZorFQWN2SzfrzlAkt6LvBQiMBumWALpe06jYYAoz/Ij6DYjGmS0BdbmSiRdlb1RIIIDZLV2txgr6KaotYOyWPKKQb5gJivnT/SUkEIBGCoXpLWeGRu894tTjp0sBn7fTfNFJWzgvIT5cDGSOW4HgPGJ0iLuNcZmoMDYKIMT7/ST5h/kCmmQ+Is6VtXsAAAAASUVORK5CYII=",
     "wiki_name": "Maple blackjack(o)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maple_blackjack(o)",
     "equipment": {

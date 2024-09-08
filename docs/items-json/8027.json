@@ -1,7 +1,7 @@
 {
     "id": 8027,
     "name": "Balance beam",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABS0lEQVR4Xu2Ty2rDMBBF7ZWxKQ2lhmJKgyHQQrsJWXTZ/8gnlXy0iiwmGt8Z+YGlOFAfmEUiW3N0R86yjY2NKeSmX6vhBE6Hl16tIKaLYCWW8iPBxljNU9WVffbYtimkcvPx+iwaY5FIYqF5qZAIyUQUWi4SVQYbY73VD7cRsXX5Lcz551NI8FR2VZFepCyKrqwQSaEYpUJCEUX8Z2ybkwwJ8XUSsyL1YymSwZ1noqfBBXgz19D/zz/n6TJ8b4AESEgT0Jvl5mtfd5fZlrq5ipsA9VTeG0poiNx8vzdXGV0acX30EBh8DCP2QD9NXHX48eiHHnifxKR9WCy4GRxQ2zN8HQTh0+CTEj0NLZEJIhw5wvExyucjiHi0EYbTCl/YxSKS4RFo65gK7hgBfYT4G0USyThohFMSSSqCkBi/U6uISJLfk/nclcy/4A/PufWPIBD8bgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABHklEQVR4Xu2TsQ7CIBCGy9S0MRpjE2OMLiaa6Obg6Hv4SMaHRim9AAeU0kJx4EtusC3cx39YFJlMZgiEqpUMLnA/bZVKIGYWwRVZSowEN8a1W9dtRRQi9LLfaI1xgUhkIb9UhEhwmb8RYbhFDs1iHhFWn3dJX8+rJiGnsqrL+CJVWbbFhEAKi0EqQigYcDqeCMiAkPwexJhIs6xCJ2NOQxbQm4nn4/7Otn1/gAAIWT/UIPR2bNrLzGrYGgafAPQ0rOtLqA9CH+edt4zcQw1Bg4s57BFD0hTjMR/atb6T8h8hRj3gxD1Hn6awpeG3hxH1hI55d+jfBxDBqCO0N/C6sFNxjUB/b5YOinmE+PcMIphkibgQdyaxiEzyVDLp+QKGgpWCamXrlAAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

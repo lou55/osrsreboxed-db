@@ -1,7 +1,7 @@
 {
     "id": 1211,
     "name": "Adamant dagger",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "Short and deadly.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUUlEQVR4Xu3VQSsFURQH8DlN0zSTbN/2lZW3sp2ypFj5ChQrSVasJIkkEVmJJKLIThFloXwHZSFf5K97T/fd+2Zm65y78K/b1LzF/DrnvHOT5M9DqL9RioEQelXPPuu/CoYh1UxlMQ401u1qoBgSYhRB7ZjOaEcXFGIUQe2Y6EAhRhAUFcakHRQVRmluTJqg/1b5NEHCmPCCbGKE54ZwsF/YD7pTB4lXZ201t6izU4YpYkwIc7MZNtZzHB0y6u621MKYECYnUizMZ9jaZNTFeYGH+xJPj2XQStEQpqdSLC1m2NnOcXLsUS/PJT7eh6RRhPGR1J6V5byPurpk1Ncng4Ra5zHmuCHf22WUa5ngLHmQr4JfAQ4ijhkEJYkwxKVZHWFAmKgwJoSb6wI/38MDrVIK2b/02ysvPuXqkL0mzBXhNrEixoX6O0a5OmGiwnCkMb+4LHay2OJi3wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPklEQVR4XmNgoDlg/I8uMkAA5BDG/1qWWmAaXZaOAOIQS39LsGMG2EEQhyA7ZgAdhN0x4priA+sgZMcMoIOwO2bQOWjUMRCA3UGDyjGDKnQGlWMGMKpAANNBdHYMsmWYjqFzVDH+7+/lhFqIWXkOSOhUlLODHTV3NsRhA+gYEGD8n5jA+r+hjv3/pAkQR61ewTVQjgEBxv+uLsz/U1NY/7c0QRy1YB7n/3VruP7v2MqFFJV0BYz/PT2Y/+dms/5vb2P/P3UywlG7d3L9P3aYh96OYvxvo8wMxoX57HBHLVkEcdSdm3R1EMIxIAxL5N2dEEcNQJQhHISwGFEEoKqlOcAMHXQVdAbYQmfAwKByDAgw/l++lPP/owd8g8FBjOAsvX8PrOAbUMAIriZAVQSiJB5wwIhUxgwaMKgcMzAAAOo4MHPbFJ36AAAAAElFTkSuQmCC",
     "wiki_name": "Adamant dagger (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_dagger#Unpoisoned",
     "equipment": {

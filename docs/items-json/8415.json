@@ -1,7 +1,7 @@
 {
     "id": 8415,
     "name": "Garden",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABr0lEQVR4Xu2V7UsCQRDG3a99CSk88oP4willnC+QFRyFIIYpYRxGGgRBEdSf2B+3+cw267lnnpdXEOwDg3eyN89vZvb2MhkrKyurfy8hzX/+SDBmc74WslzY19fLa1LXskkwaMlCPquvry6P5Nuspe/dUo5+VwNuDSnIAMlhDKNRz5OPt8fyblCTz5OGDPpVbfZ636R7/Pb9Eq1HvEx9ynFYcX4KtRjDuN+gpJNhm4xq5T258/6xcSAPwB9u6rqzCaEEVZJ3dnWl6Ei77kTMkgQ6itGOupXQOGMlyBxjQkVm0jTiKfAIquMdbAIlCGTcc6VbyEaSpRXYBrwV1kAJor/u1mmhmSTtgMdZq0RAzWLxeyh6c+aL/RM1azNRGsH5sTVigCDVKbzmaCuqMBNuEwyDbcEwMUCQ6hQ2OB9yZuIkwduge16lYhEJYFiLw246VN1CQtNsVfCxgUMUILgHBArkvAlhlNQDKgGgeNMDDibcPZgDhF+G2bhDay5OXVXM13jCIIlhwjLBYICR6k/E/HPRqOUiXQhHKiCmwmDrImz+KyCmTKNVYT5jZWVlFaNPfQSY79cmFZAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlklEQVR4Xu1V70vCQBj2vvYlpFDyw2DKlFq4JmQFUgiyMCUMMdIgCIqg/sT+uMvnPd5Tz6FbW4FwD7zsbhzP87w/disULCwsLHYeQppv/gkQZnFeC1l1DvV69UzuWBUZ90PpVIp6fXtzIj9nod57bome8QYzmxQkAHIIQ2jYa8qXh1P52G/It0kgx1Fdi308ndEez6jj0nnE+7RDHMe18m9NLdowigIinQxaJNSoHsi9r+/EAR4Yf773dWVTmhKUSaW8rzNFRVp+eU0sTaCiaO2wW1tq51YIEkebkJFJmke8jptkqt08SmJKkJFRz5OeU1wjyyswBjwKG0wJcn/X9emgSZJ3QOMydDcZAtQA4nDnXPXaJMojmB+jscUQoCqFzxxlRRYmYZZgMxiLBGYYqlIYcL7kTOI0wWPQvapTsogUZhiLy246UNUCoSkWF3xt4BKFEexhAgkyr6mWAooApnjoYQ4iXD2Iwwh/DLNRm85cX3gqGd2eTEZMLIxBAC3Vv4j57yJolGKqsBx/BlMoLiwsLCx2Hz/td2sPZebxlAAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

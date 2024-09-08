@@ -1,7 +1,7 @@
 {
     "id": 10595,
     "name": "Clockwork suit",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-01-29",
     "duplicate": false,
     "examine": "A clockwork penguin suit.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xt2XwWsTQRTGdw4l7BKyhIQNiZgWJQfpQS3UKtR6CApWEELJoRarhBBqbQ0hlFCrIUhIUEutjfXWEkKOpUE8lQZRKC39qz59M2azu61ezGyCHzzYhcnub9/73ryJovw/YhAxEGIIaBp8qjooUAwRXTeBro2M9BOKYSx6EaORCDTP0GAAXQmHEDMMXAoGBwNI8Sn26K+PzgfqU5YYNC2KV2tZLC+nMD+fhDbUVx8xlMsFrKwsIp2ew/R0nAN1oJyrJYtBVSO27OTzCxzMo3rczhLjbU5RKCxxoFRqFi9XX3Aw1aeaUM5fSpCAoVavVtd4hnK5DDKZxyiV8ng0m+Al8/q9bkExvt8Uizlsbr7hHqIsPV98ikplFcnkQ9NHYX8U6pAmE4rBH/abX356+gOHh1+wt1fHzs4HrL8vYmrq5i9veThI1IjBq/pk+olBD+qYmXnwR6BE4j6Ghy9woMuRUQS8IblA5A1RAjvQ7u5HbGyUOND4+FWzVIYekQtEHeQE2t9vcCDyFGWPgAIBP19DZZMK1PEExdFRG+32V7RaTdTrNWxtlTnQxMR16Hp3HZ2VxHVPJb6WytJ50fHxNxwctDhQo/GJA1GXWTNkBepxlhhv4+6DGU5OvpseajY/o1arcCDKkGGIowhFyCd813Mgu0GFh6hk5CEq2fZ21SxZOCy6SyrQu7evbUDU6lQm2hBpbGSzaTxbeIJ7d+/Y1tHxVgIQSTz0b0A0XOPx224BKUr3oXYgmmkEREOWdmsrUPS3waUAdXUWiIYsZWhy8oYNiCBdAaKpT0DWqU9AZGo7gLXUUsVMIJr+nQPaWSBrqaWK8b2HgCg7dE9dRhujE8glCSAyM11TrM+N4Vasr//PBIh1O3DRM+fL+XLn/b/oJ/xvQ61PRn/lAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeUlEQVR4Xt3XwWvTcBQH8P4OpSSUhtCSkgwzUHqQHcTBnMKch6LgBKGMHuZwSillTrdSyihzsxQpLeqYc3XeNkrpcayIp7EiCmNjf9VX3y80TTp385eGPQg0EJJP3nu/30sDgasTDNbhi2CIyjIikuQXFIOhKH4BMYyb1zBmGJBDQX+AbupxJDQN12Mxf4ACkYD7GC7KVyAGWTaxsZ7H8nIGCwtpyMGh9hFDtVrC6uoSstl5zMwkOWhIKAZJMlzZKRYXOSwkhbwGMb7M6SiV3nBQJjOHt2srHCZFJC9RFoaWer2+zjNUKOSQyz1HpVLEs7kUL1lYDXuFYny/KZcL2N5+z3uIsvR66SVqtTWk00/tPtJVE1JQFoliUHXVfvPz8984Pv6Og4Mm9vY+Y/NTGdPTd//2VohDTC2BsBQRC1JiCmZnn1wKSqUeY3R0hINuGGOIhuNiQdQb1gPcoP39L9jaqnDQxMQtu1SaYogF0QoaBB0etjiIeoqyR6BoVOXXUNmEgvo9wXBy0kW3+wOdThvNZgM7O1UOmpy8DUXpX0ffSgJQ1ttSWXoPOj39iaOjDge1Wl85iFaZM0NCQbSM+zdmODv7ZfdQu/0NjUaNgyhDmtb7FGGIR3p9919jsEGtHqKSUQ9RyXZ363bJdL23ugSCPn545wLRUqcy0YZIYyOfz+LV4gs8evjAdR193goAUThv+m8QDddk8r5XIGe4QTTTCERDlnZrJ8i0G1xoXATRkKUMTU3dcYEI6QmIpj6BnFOfQNTUg+Xt/xYazAbR9O99oF0EeRaM7z0EouzQOa0y2hiHCqJmtgAMm/PjuJcY6v8zC3L5+RWLP526B3eAjha0AAAAAElFTkSuQmCC",
     "wiki_name": "Clockwork suit (Unwound)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clockwork_suit#Unwound",
     "equipment": null,

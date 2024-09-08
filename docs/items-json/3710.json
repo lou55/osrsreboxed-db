@@ -1,7 +1,7 @@
 {
     "id": 3710,
     "name": "Warriors' contract",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": false,
     "examine": "This employment contract is for a warrior to act as a bodyguard.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4XtWWW08TURSFe159MUbTB4kIGktqjYhBxIigEYJak1rLpVIRqRYBtQqKiGi1gjRIQjQgRg0aEgLe74KXSCD6on9q69r1TKdDm7bMkMGd7Ie2ac/XtdbZeyyW/7cERXtJlKChSC1d73CaDSVVEfRw0Ef3+r10rmmvWVCCLno2UtCVR/m5y+nx0DEavXOU7g/Ukd+30wwoQf2NBRT2baanj07QxAM/jQ03MBjs8zgLzIFCvxk7Rc9HAww2PtLIYL1dLiovsyuWar+5iCXo40QrvRtvoVdPmhgMagGsM1hJzQ2ldNxbrAJL1bpL0Pe33fTtddffvkSfX7QxIOAAhkz1h9ys2LX2AwzZ3lJOZ0/uplZ/GQXqSxi4vmY77SmxGQeF7AAAIAACGEC/vrxAU5NnFDuRryvn91HH6Qq+kQCDirgI+Y4sBtqSk6MXSrASspEhWAcbp58FWTnAzX4Ic94wHtRqAQxqZWetMMq6eKBEcFBNggEUn2GQSrXqqorIuW01FdlWUrZ1mV6o5ECJ4AAGazFMb3YeZLWQoeb9GxgKc02ndekBqRsZQ65gHwKPLLW57eSvWKfAGA4UsVvnvaduhF0GPZadjGG0oUsOkwoIjTzBSjVIGjAxevybgbBHea09IBOoBaoieIEe3rGGw4Yg4scw7HBVtYegb9hWzXtP21pF0oRBCQod2USByvVxCxRggMJQ0x6WCihDRbQV3erdtQ6+quoFiseNvquHePxjkcoDe/PSA9KelEFFfcZw0252qIVri2kLtVLlxiAgVGyJYobgygJOgsFCBF4CobEa5FqAihh+XnehUc9Kgn5+uU0/piM0N9VHc596aOZ9SNnw2FmAxDWGgoC8e6smIVRxYa5xKiVrBfQfLBrqIWNyiUoouUQNALJYtFc1dluiYL9nR7h/zQyzvQg/lqj6OSj+zyxiqcHQsBhWIsgSqtq1lbyla2mXw2rEVk+v1KrBOoR/sKeKoaDQ5WoHL1EDtvpCSrB1GKrIU7xdugaknhJsHQapGsIkGFmmKpK4lhSMUfUHqL71eYcxgj8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4XuWW7UuTURjGPV/7ElHsQ5Jh0WQtEsPMyLRIsVqw1nxZLjNXM7VaaZmZtVqasgQpNKPCQhB7fy/thUSpL/VPXXWddbZnj5Mx98yn6Ib7wza289t1Xee+n6ysf7cEIv1XlMBQfy2udDjMhlKqCNwb9OJ22IPTTbvMghI4516PgDMP+blL8WDoMEZvHsKdgTr4vNvMgBIINxYg5N2Ix/ePYuKuD2PDDRKM9rkdBeZAsV+NHcfTUb8EGx9plGC9XU6Ul9miluq/mcESeD/RijfjLXjxsEmCUS2CdQYq0dxQiiOeYg1Ysk67BL6+7saXl12/+zw+PmuTgIQjGDMVDrqkYpfb90rI9pZynDq2A62+MvjrSyRwfc0W7CyxGgfF7BCAIAQiGEE/Pz+LyUcno3YyXxfP7EbHiQp5IwlGFXkR8u3ZxgFRCdXMEK2jjVNPAlI5ws28C8m8cTxo1SIY1crJXmaUdfFAieComgIjKD/jIFVq1VUVwbF5JYqsy5FjWZIu1PxAieAIRms5TK917pNqMUPNe9ZJKM61RQHSNjPGXNE+Bp5ZanPZ4KtYky4MKzFQv80y5z1tM+wq6LHspAyj/9L8MMmA2MwTrUwRJEbPfzMQckdf6w9IBWqBqgi5QA9sXSXDxiDyxzjseFX1h7CvWlfMeU/fKUJoSyB4cAP8lWvjFijBCMWhpj8sGVAaMKzIVu+utcurql2gfNzou7Rfjn8uUnVgb15GgVgRnznc9JudavHactpSrWS5MQiIFVuinCG8soRTYLSQgVdAbK4GtRaoIoefx1Vo1LOSwPdPN/Btqh+zk32Y/dCD6bfB6IbnziIkrzEVJOSt6zUJoYoLc40AYmmvaXxHQf/AsqkeM6aWqIKKLdGMVgTs58yI7B/Tw9Jehp9LVPscFP9nMl6xw2gxrWSQFVS1cxM8paux3W4xYqunWkJax/AP9lRJKCp0odoul6gBW30hJaR1HKrMU7xdiw6jSkjrOEhNhNCXqYr8R/ULxRm6suRFVw0AAAAASUVORK5CYII=",
     "wiki_name": "Warriors' contract",
     "wiki_url": "https://oldschool.runescape.wiki/w/Warriors'_contract",
     "equipment": null,

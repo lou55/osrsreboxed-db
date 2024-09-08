@@ -1,7 +1,7 @@
 {
     "id": 10335,
     "name": "3rd age range coif",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": true,
     "examine": "Fabulously ancient range protection crafted from white dragonhide.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xs3Wi0uTURgG8O1PCAQxkcnCYiarxVCj2QiTZUU2FJPsql0oIoiiECm6iHRDELtQoWCIiZQRREVR1F/2xnPG8/l+b2drcys88LDPszPf33fO+c4Wiaz/FhV/fO//8xaVR+P98mAs7zJ547BMXOtzIWJh+rTMT52UuccnPCh7E1XDCyCiAGIsZvbhMXk+eTRUGH/jPZswqiJkVKZuDvyBwisgDEFPJ4Zk+vagG4tXHwjjNfr78rh8Xby6NhRBuObsEPTy/rADcWwxED73bWlMfq7ckV8r9xwINbY3N7vY6qYVpp13TRCK+kAzd48EIFz7QIszIyEQrgmy1U2LhpYBhbi58bcFoTgQXN5ioOVnZ2sH4iyhzwfiTBKEWbOgdy/OBSCkIhD3hQWhuAVxHD5XCvT+1fkw6M316kHoB4gozCSfmnhyS3CNWNCH2Qu1BSEAEMTCsa0tDqOzoaEuhAP+0/ylAPTj7a0AUzFIo3CnxDQl4gFmU6rVxcIyqTZJbo678Z9fX/aCbPUirXBn2A8+EFG5XWk5uLtTerva3Wu+OyNDvXtk+EC3HD/U44JrBOPXCCqcQZihYiCMaYg3ORAQLErEqb6cjOT3uQCYTSdDIH0o2uqmFR55C+KMMY0tMbdkmJmBnq4AoyFn+ve7vwdzWdnbuUM62hLus1WD0IdNWtdYL/WxjW5mgEl0bJPWnSlpy6QlmW13SIb7C9E3UvUMIegjhMV0CLP9OvgfXxauOBBOaWLKAuEJsyAfxAbjfH0IvjYIwgyVOTtoqyC7bCyil0UXxcbnNYPzBw8BvjZqBtIovU9YlIcmQPanB0E4pTWIKFvd0wogu2z8ftJ3j/f1KV4MhJ8dH+cuBiCcQRWcQ2GQXjb0sQBe0a8xPhBmp2oQnrK/gVBM/wbSIH7Tc7lqBrLLhn4N0r+BiCGIYwFaejIaAuEMqvgc8i2bBuG6FEjvn5qAfMumQXjPt6ERjNP7p0oQWvgsKRa7fxgLwqGoQUwFoEiEx3qpWKCO3j81AZXbLLIcLLM69j81i/TFfmZdt9/osVEhzZq8EQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xu3W/UsUQRwGcO9PCAQxkYMLi7Pj4uJQo7MjTC4rskMxyV4tiyKCKAqRoheR3hDEXqhQMMREygiioijqL/vGM8uzfHdu9rq9vaIfGni4vdm5m8/OzM5uU9O/XxLijuv8Hy8JeTg1JPcnyyYz1w/J9NVBEyKW507J0uwJWXx03IGyLyI23AMRBRBjYxYeHJVnM0cCHeM7ztkJoiIhEzJ7Y7gChU9AGIKeTI/K3K0R0xafLhDaa/S3tSn5snKlPhRBOOboEPTi3pgBsW0YCL/7ujopP9Zvy8/1uwYUCYM/5VUThE5doPk7h30Qjl2glfnxAAjHNYISgWlAR1zc+G6D0DkQnN4w0NrTicaBOEqoc4E4kgRh1GzQ2+dnfRASCcR1YYPQuQ1iO/yuGujdy3NB0Otr8UGoB4gojCTvmlR2i3+M2KD3C+cbC0IAIIgdJ7d2GIzOhtbmAA74j0sXfdD3NzdrxaAEQRqFKyWmPZ3yMZtynSY2rJDLSHZzyrT/9OpSvSAU78qwHlwgoko783JgV48M9HaZz3JfQUYHdsvY/j45drDfBMcI2tcJ8vYgjFAYCG1aU+0GBAQ7JeLkYEnGy3tNACzmswFQhE3Ru+VtEEeMaetIminDyAz39/oYDTkztM98HykVZU/PdunOpM1vY4NQh0Xa3NYiLcmNZmSASXdvk84dOckU8pItdhkkw/WF6AuJPUII6ghhZzqE2fU6+I/Py5cNCLt0jRgU7w6zQS6IHbRz1SF4bBCEEaoLZE8bO9HTojvFwucxg/0HNwEeGw0DaZReJ+yUmyZA9qsHQdilNSgCygPZ08bnk756nNe7eBgIrx0fFi/4IOxBEfahIEhPG+rYAT5RrzEuEEYnNgh32e9A6Ey/A2kQn/ScroaB7GlDvQbpdyBiCGJbgFYfnw6AsAdF3odc06ZBOK4G0uunISDXtGkQzrkWNIJ2ev3EBKEE95Kw2OuHsUHYFDWIiQCqtVQiGb1+/iKoWqlEVuZ/iVd+AZ6tBpVchb/1AAAAAElFTkSuQmCC",
     "wiki_name": "3rd age range coif",
     "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_range_coif",
     "equipment": null,

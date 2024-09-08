@@ -1,7 +1,7 @@
 {
     "id": 20282,
     "name": "Puzzle box (master)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "I need to solve this!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACk0lEQVR4XtXWwWoTURgF4M4ihJRiKQ0JaWjaMSQSA0kIRC1Uq1SiiLh0ofgALvQRRHyAgi5c+LJXzg3/nZMzd2QmJhZ/OIuE4nz898w1e3v/1yQun1ubxD1bDN2T+cDnctb3uUXgCrS8unLvf/wKeTRJfRbjM588cGfIFYgx2BAwjJyPTkOmw67PDoArTBGIv8OW+DNA4/6Jzyht++SBlZEZSDukIMUg2OCbT7WQQa/lc7fbDKmIyvrz9uZ7CKOsRwpSDDakPWweNtx+o1YWlbiL8YkHKQb/MKLFZhBjDMQYbAcgPGd2fu6jApnEPX84yoFwbAb68u21j4G41IyxHino8KAeQPr0yPwZZBgDMcA6ZKXeAihxjyddDzIUF5sxCsKGbIO6IcSK3Tner35cSPPrdC36plmHFMQYhDeIcH/06ZFJ3IuL+zlQ7Li41NYhfnAMgw1VACXu6awXQHpkelx2Yxtab+utgNAfA00+H4XELkfEMNjSu5fttQDEYOS0dVCtP8AgjLEN/fy4DNEeKcguSMag2FxofbpM4q7nZ4UgxhgID7S/0bsIYcxGIOtPrEMxEGMYh+h9ZK8+H5kKZBL36nLsMfo26V1kPWIQY/g+4u/tf/0S/UnccpEGEGOwJQVqsYtAiqm0HfQHIH21AeLPtiFGxu4jxmwEQn8Asi1xjxSkGwPo+kMtRO8iy6B7VB6EI8OWAOO7KAbizwhjFMSokv2xyX5aMgyx30ZFN7aCGvW6D3+Xdu6U3U42mT6OA+zBqOPmw/ZasWMg/lzxuOITwyEGY9y031ortgL9kaWr39Abg3gMp0DdGmB48L3eca7YhtkKSCeGQ4pwf31cVaZoewr7ZyCdGG6nx1VleHtVML8BqeKJklOJamkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACd0lEQVR4XtXW0UobQRQGYOcihIhUxJAQg5E1JCUNJBJIW8FWRYki0stetPQBetE+gkgfoKAXXvRlp/yznNl/z87ijiQED/wXiWI+zvw7ZmPjdY2xxaxtjD2fD+3n2cDl5KjvskZgClqcntrvj/98Pk4Sl/n4wKUIXBkyBTEGGwKGkbPRvs902HVZATDFlIH4PWyJXwM07u+5jJK2SxEYjcxAukMapDEINvjlV81n0Gu5HHabPpGorD9f/z74MEp6pEEagw3pHja3G3azUauKMvZ4vOdAGoM/jOhiM4gxAmIMtgNQRQzG2MsPowIIxyaguz+3LgLiUjNGeqRB21v15YEEIyAGSIek1EsAGftp0nUgQXGxGaNB2JBsUG8IkWJ3djerYjDpdpDm/TQX/aRJhzSIMQhvEInuz9XxuwIodFxcaukQf3AIgw1FgIw9O+p5kD4yfVxyYwta39ZLAaE/Apr83vEJXY6IYLClb9ftXABiMLLf2qqKwaTHhTBGNvT0c+Gje6RBckEyBsWOKLSxF7ODUhBjBIQPlN/RdxHCmBeBpD+hDoVAjGEcou8jefQjjszYm5Oxw+inSd9F0iMGMYbvI34/+6//7Bi7mCcexBhsSQN1sctAGhO1HfQHIP1oA8SvZUOMDN1HjHkRCP0BSLbEPdIgvTGALn7UfPRdJBl0d6qDcGTYEmB8F4VA/BphjAYxqiJGBr+chmGIfDcqu7E1qFGvu/B7SedNLIgnjAPs/ahjZ8N2rtghEL+OPK7nJsMhAmPctN/KFVsD3ZEl0d+hq04RxzB88NvebqHYK8LoyW+vDLfE44qdDKdhawLx5Lenf/qq5j/xc0TC0kJXEwAAAABJRU5ErkJggg==",
     "wiki_name": "Puzzle box (Gnome child)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Puzzle_box#Gnome_child",
     "equipment": null,

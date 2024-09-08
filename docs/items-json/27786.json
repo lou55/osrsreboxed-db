@@ -1,7 +1,7 @@
 {
     "id": 27786,
     "name": "Thammaron's sceptre (au)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-02-08",
     "duplicate": true,
     "examine": "A mighty sceptre used in long forgotten battles.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xs2Va0tVQRSGz/kJkhQpmRc8koI3zAxCE0LqU0VRUVFUFBT0oQuFSNFFpBuC2IUChUBMpISgD1EU9csmntm829nLOXaOZxcOvMyc2Wv2es5aa68pFDb/KLq4Ys//+Si65xPH3NPxo15Td4+4yduHvQSxMHPBvZ8+7+ZfnItA2T9RM3gCJCiAJAsz9+ysezN1OuOY3zyzykJVBVl00/eOr4FiBkQS0KvJU27mwQlvyxwDwj6E/rE84b4t3toYlIBYKzoCevfkjAeSbTkgzn1fGne/Vh663yuPPRA+epubvax3M5Kw618LCKcxoNlHJ1Mg1pzPpqnoFmcvZoBYC8h6N6OYSQOOVNz8tkCAAwGMnI+NjKTrPX19rr+7269zA1KU2IsBYce53b09brjU7g61tbqx1hY/C+zT2yspEKoKSHVhgXBugbDjTEdbm4cRgBSmLgP04U7tQOwDJChFkjOtTU1utKO0BkQwilZuQAiAEEgFzZktdXVu+7ZtbkdDg7s+2L8mOqorYH5+vJ/CVA0UQunztUBhQZM6Cvnm0GAKxXxwdH8UyHovM5KX42w9oLA1YN/T1eXaW1rczsZGHym9Bw0PDW0UKOlBROhvQIoiZzpLJV9HpI30ba2vdwc6d/m6UrGrqMOmaL2bkXzyMSAUA2KfcwCQLkUEKACJGHNuQIJCANFxAWKtgg5riHOqm1BfF27UDhRGiTkEwg576oZZURSQRCSXXl5KgejSgqkIiC8nBqQLU0DY6kogQuWAsF1+fTkToQqjw1gFsnXEvoCw45oQTDkgogMQ10ZuQIJiHwfY0GeUphAojGQI9HnuagZIUNZ7ZCRAsbQlLyi6vQMDfuZ5JUBE9Mv8tRSIHlRFH8oCCYp9Gtu+waT76pO36bJARKdmIL6eEIg96oXuyxoHONOVYYFUa0pXbkCI3zS48CoQkK6MMF0C4h0C4pMPgehBVfehMG3sSaoJbNYDCusnFyCbNupF/xonPIsVNMIurJ8agRjZll9Otn4kC0RTDIGkKoAKBbX19WQBQ4X1kwtQpcNCVgIrrdr+p2EhY7JnNvX4A424WlJh2QL/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu3V7UsUURTHcedPkCRJydhdXElBU2zbIDQhpF5VFBUVRUVBQS+sKESKHkR6QhB7oEAhEBMpIehFFEX9ZSe+M/y2O3dnt53dKXrRhcPMztw797PnnrnT1vbvt8CSI+n+H2+BPZk5Yo+mD4cxd+uQzd44GIYQKwvn7M38WVt+eiYB5f+JluERSChACh+z9Pi0vZw7GZuY39zzI45KhQxs/vbRKhRHIAqBns+esIW7x8K+HJNA9HfRX9dn7PPq9eZQAnGu7Aj0+uGpEKS+tUCM+7I2bd837tmPjQchKBWGh+pfC8SkSaDF+8crIM4ZH1+mwFYXz8dAnDcICmLLwEQqbn77IOAgwGjyyfHxyvmu4WEbGRwMzzMDKUtcSwLRj3E7dwzZWLHXDhTyNpnPhUfB3r+6VAERqUCqCx/E5D6IfozpKxRCjAAKd+lioLc3WwdxHZBQyiRj8j09NtFXrIIIo2xlBiIAuCAVNGM2tbfbls5O29rVZVdLI1XZUV2B+fbuTqMYWhzkovT6+iC3oFk6CvlauVRBcdw/sbdZEC16OJPVA7lbA/2HBgasN5ezbd3dYab0HGKsXG4WFO1BZOh3IGWRMf3FYlhHLBvLt7mjw/b1bw/rSsWuok6xKUavfBKISAJxnXEAWC5lBBRAMsYxM5BQBCB2XECcq6DdGmKc6saNTytTrYPcLHF0QfSjP3XDUVkUSEEm155dqIDYpRvE0KI3LAmkD6ZA9NUngQzVAtF3/cXFWIaaAvl1xHWB6MdnQphaILIDiM9GZiChuM4E9GGf0TK5IDeTLujD0uUYKAUqAiUtW/SAwHaPjoZH7jcCIqMfl69UQOxBKfahOEgorrOx7SlFu69eeX+5fBDZaRnE2+OCuEa9sPtyzgRMpk+GD1KtabkyAxH8ZoNzPwUC6ZPhLpdAPEMgXnkXxB6Ueh9yly0aGIVqgj71QG79ZALyl4160b9mEu4lFTRBP7d+WgTRfmWkXvj1o/BBbIouSJEC1GirRirc+vmLoHqtGlkd/1tr7SdDtA/GJt2y2QAAAABJRU5ErkJggg==",
     "wiki_name": "Thammaron's sceptre (a) (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Thammaron's_sceptre_(a)#Uncharged",
     "equipment": null,

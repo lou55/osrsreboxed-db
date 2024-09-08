@@ -1,7 +1,7 @@
 {
     "id": 29138,
     "name": "Cooked pyre fox",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Mmm, this looks tasty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xs3W+0sUURTA8d2/oN/8wagEUdCFtCXbomUpKpYe1JZWYm/DXkQQRSFS9BDphSD2oELBEBMpI4iKoqi/7MZ3ljOeOXtn23Wn8MJhZ2fucD97zpk7m0qt/JF2/vBd/+cj7R6P9LqHwweDGLtZcqPXDwQhiNmJM25m/JSbfnLSg7I/omF4GSQoQBIWM/XouHsxNhBZmO9csxFF1YVMu/FbfRUoPoFICOjZaL+buHMkmMunD8R8jf6xMOK+zV1bHkpAHEt2BPTqwbEAJHPjQNz3fX7Y/Vq8634v3g9ArNHd0hKEXd2MctrlVwuIRX2gyXtHQxDHPtDc5GAExLGA7OpmpCNlYCFpbr5bkC5DNdDC86HkQJIlzmkQc3fmOly+u9X1ZNaFMLJmQe9fngtBRF0g6QsL4pcLiHn7CuvdnnzGbe9pd707NrhCts1lWptDmAZ9eH0+Cnp7o3EQ5wExB0BpW1cQxVxnRXS1r46gPk5dTBZEUEquD+zeFIIshOA62SNjzCejn2cuh6Cf726HmLpBGiVNLCALIU7v3xxco4xta5tC0Jc3V7wgu3rMKPcAT4wPdGJvLhZ0eFfWFbd0hr3EPYC+zl5dLqi8B5GhOBBZCBb2lIomz3asCTEEfadBelO0q5tRfuR9IEKD+osbK0pFT7EFaAzZSRQkKEJAg6WtQTYADB3KByF9ozGJg3SW+BQQAECCIVtskFzjHguaf3o2BLFLC6YmEE+YDySvAwHR2IKhbzhPWS2I7PDa0BmqMTuMJZDtI3kdMOdCXyEokWCkbyxIysVrIzGQoDjPAry1mQdGNkAB6UxqELu0BgnKru4ZZZCvbBbEUwVG3mFxIOZ/mr4UgtiD6tiHoiBdNguif9iLyFRz0yoviOw0DOIp+xtIekkH/aN7TcqVGMiWjfMaxOLy0hWMgGQuIB55DWIPqnsf8pVNgziuBtL9kwjIVzYN4pr+W6JBzNP90yCIEe2NuNAYHRbEpqhBEnWAUinZ1quFBerQ/ZMIqNZhkbVgJZbm/qdhkb6w96zo8QcWO3SuOSK9GQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu3W+0sUURTAcfcv6Dd/MKofREEXspZsi5alqFh6UFtaib0NyyKCKAqRoodILwSxBxUKhphIGUFUFEX9ZTe+M5zLmTt3t52dKfqhC4ednbnjfPacM/fa0vLvj5zxh+/6Hx8583Csz9wfPRDExPWqGb+6PwhBzE+dNnOTJ83soxMelPsjUsNDkKAASbiYmQfHzLOJwciD+c41N6KoRMicmbzRH0PxCURCQE/GB8zUrcPBXD59IOZr9LelMfNl4UpzKAFxLNkR0It7RwOQzK0F4r6vi6Pmx/Jt83P5bgBKhOGPyq8WEA/1gabvHLEgjn2ghemhCIjjBkG5SBl4kDQ3312QLkM90NLT4exAkiXOaRBzdxS7TGldu+nNr7EwsuaC3j4/a0FEIpD0hQvilwuIeXvLa83uUt5s6+00fdvXm3Khw+Tb2yxMg969PBcFvb6WHsR5QMwBUN3aE0Sl2B2Lns6VEdT7mfPZgghKyfXBXRstyIUQXCd7ZIz5ZPTj3EUL+v7mZqMYRhSkUdLEAnIhxKl9m4JrlLFjdasFfXp1qVkQI+wB3hgf6PieYk3QoZ0FU9ncbXuJewB9nr/cLChcg8hQLRBZCB7sKRVNXuhaZTEEfadBCRbF8JX3gQgNGqhsiJWKnmIJ0BiykylIUISAhqpbgmwAGD5YCkL6RmMyB+ks8SkgAIAEQ7ZYILnGPS5o8fEZC2KVbhDDCN8wH0i2AwHR2IKhbzhPWV0Q2WHb0BlqCuT2kWwHzBnpLwclEoz0jQuScrFtZAYSFOd5ALs288DIAiggnUkNYpXWoASoEOQrmwvirQIje1gtEPM/zF6wINagBOtQFKTL5oLoH9YiMtXWusILIjupQbxlvwNJL+mgf3SvSbkyA7ll47wG8XDZdAUjIJkLiFdeg1iDEq9DvrJpEMf1QLp/MgH5yqZBXNP/lmgQ83T/pAQxor1RKzRGhwtiUdQgiQSgRkccKaH75y+C6o04Mh7/R7rxC8woKiJXWDAEAAAAAElFTkSuQmCC",
     "wiki_name": "Cooked pyre fox",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooked_pyre_fox",
     "equipment": null,

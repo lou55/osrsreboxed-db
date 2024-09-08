@@ -1,7 +1,7 @@
 {
     "id": 1266,
     "name": "Bronze pickaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Used for mining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xs3V30sVQRTA8b2vIUYoxlVQKShKCAkqegh86akHC6OioqioKCKIohBJrET6IYLYDyoUDDGRMoKoKIr6yya+s5y9Z0+z6653CwcOO7s7y3z2zK8oWv+l5sIRev/PS809GRlyj4aP+Ji4c9iN3xr0IYiF6XNufuqsm5s8E0DZn2gaHoMEBUjCYmYfn3YvJk6mOuaedzbSqFLImpu6e/QvFFcgEgJ6Nn7CTY8d8225hkC01+gfyyPu2+LNtaEERF2yI6BXD095kLTNAvHd96Vh92vlnvu98sCD6KO/t9eH7d2UOO3y1wKi0xBo5v7x5M+ph0CLM+dTIOoCsr2bUksNAwiZ3NxbkMyfnrbI7axHvh4CLT+/WB1IsqTngI6+7la3d1ubO9DX4e/JmgW9f3kpARGlQDIvNIjn3R0bgkF2dm/d5A7t6cwEfXh9OQ16e7s5UFaG2lsi17kxBpGp/Tvak3ca9HH2SrUggqFkDsk8oi0YDdre1eqvB/vrCYy2n+evJaCf70YTTGmQRvGnAtLZIXTWttRbfAAb3Nfln315cz0Isr1nlMYSzgNpDO9pp7cAgowN7Nrs62sExcuWDGWBQtkREN8xtDJ3BPZ14UYC0pui7d2UeMmHQIQGWUwWiPnDN5WBBEXQATvuaiC9uioF6SxxlSHIwmSBlp5eSEDs0oIpBGKFhUByHJQFkR2ODZ2hgtmhNEB2HvHcYnieB5Lh4tioDCSoEEhvmtR1JjWIXVqDBGV7D5QYFBo2DeLK+yIgFsGnuasJiD2oxD6UBulhEwwHKXWe2+GyILLTNIhVlgfiSmc8C4HkpJfhqgxkh43nvKcDOrQTWvYqvqOtgFjyGsQeVHofCg2bdAKIeh5Iz59KQKFh0yDehSY0IceGDFeTIErjpM4LO38kLIhNUYMkSoCiSLb1vLBAHXr+VAIqWiyyCFai0fY/FYsMhf1mXZc/Cvtd6Xa+vZAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuUlEQVR4Xu3V30sVQRTA8b2vIYYoxlUwSChKiAgyfAh66akHi6KioqioKEKIQhEp+iFSGYLYDyoUDDGRMoKoKJT6yya+s5zl7NzZdefuGj40cNi5s7N3Pnvmx0bR5i814w/f/Q0vNTM5dsI8HT1uY2LkmBm/O2hDEAvTl8z81EUz9/yCB+W+RGl4DBIUIAkXM/vsvHk9cTY1ML+550YaFYSsmal7JxtQXIFICOjl+Bkz/eCU7cvVB6K/Rq8uj5mfi3eaQwmIumRHQG+fnLMg6ZsF4rlfS6Pm98pD82flsQUFYfhTeWsBMagPNPPodPLm1H2gxZnLKRD1gqBaahpAyOLmtwuS9bO9PTJ76pGt+0DLr65WB5Is6TWgo6+n1fTvbDeH+jrtb7Lmgj69uZaAiCCQrAsNor2nc4s3yM7+3jZz9EBXJujzu+tp0IfhcqCsDHW0RKZrawwiUwO7O5J7GvRl9ka1IIKpZA3JOqIvGA3a1d1qr0f21RMYfb/N30pAax/vF8VQ0iCN4k0FpLND6KztqLfYADZ4sNu2fX8/1CyIEv8xWzgPpDHcp58+AggydnjvNltvEhRvWzKUBfJlR0A8x9TK2hHYj4XbCSjgUIy3vA9EaJCLyQKxfnimMpCgCAbgxF0PpHdXpSCdJa4yBVmYLNDSiysJiFO6IIYS7zAfSD4HoSCyw2dDZ6gpkLuOaHcxtOeBZLr4bFQGEpQPpA9N6jqTGsQprUEBqBjkmzYN4sr9IiA2wde5mwmIMyjgHEqD9LQJhg8pddrd6XJBZKc0iF2WB+LKYLT5QPKll+mqDOROG+3cZwAGdBe0nFU8R18BseU1iDMo+BzyTZsMAoh6Hkivn0pAvmnTIO75FjQhnw2ZrpIgCh3XD3f9SLggDkUNkggAFS2NSAm9fv4hKK80IhvjfylX/gLA6BNdzzs+OwAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_pickaxe",
     "equipment": null,

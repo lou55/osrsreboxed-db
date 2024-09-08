@@ -1,7 +1,7 @@
 {
     "id": 26551,
     "name": "Arcane grimoire",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-19",
     "duplicate": false,
     "examine": "A powerful tome filled with the knowledge of the magical arts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwUlEQVR4Xu2WsWsUQRTGdziWYZZlQzAYSKFpVLAxihoCKpGgEIsoikqUoBYpLCwCKVKkSCFYWAQCKSwCVwgWgXQBIZ2VhSBYWPsH+D8855vhZWff7d7tXs47EB983O3e3rzffvPmzUTR/xhoKMo18lC0cVXT5jVNZ1tRADYSOEVb17XTvG7RRBTRVCvXkOEUvZvTTq/S+BgGLpVpCHCKtm8ap1nrDsOcq9DFOFcRbiCginbnDX24bWg5iQswYWKpS3GrQzu3DL2xDj+245wATFH7jqHNMU3L5+MCjEwodSUQrvcWzPG0Lxp/ryGUoo93jdND42EghgkT9lLo0lqmnUuLZzzQzPR0HShFB/cSJwzAMHCnCmZ73HTcC2FYcGnVurR3yjQDOlzyQLBXTpVMykBlUBIIgkOzk7UdUnT0IKHP9xP3Jk1gJJAEwRiZbRsrF3xhA6YW0JdHiRt8bUaXwkiA8DqEkjDoYfhsUD+Kvj5JHdCKtVXCyMRlqoLhPgWHarqj6MezlL49TentWNGZkwAxDEBYtd35+Tyl/dMJrV/WHTCs9ktTUBVoCLNk8vqp7c6vF5kD2siKMBKoDIrBQncYBotCOtMDBuGB2hO+m4YwVZKQVTBY4thyGk3V79WMdqzNsFYmlpIA3WAAgmvd1J1d2zW3bCFjAE6MjbAbBHZ+Ft+TMH0UMsIDAYD3GggDQvj+2v4mIaRCIPwPPQcv07B2EB4IibEjh6dBhgv3M3Rv9KgbFoIVAuG4gpfD1tAHDIc/n2AgALEYLITDMwzHQu+CsCjej2tat89lYpnLjD3D/0me7FQBCgIAHAEYhOn8PpXS0WRCnywQFgfOT3CuT3eKwQPkAxUBpTsQg+HwhenEdzjUtzu9ohsgFDqEekRzHYg7dUMCYopQN3AKRQ+n/po79aLTtaG5UxWy9kYK80/HHyIfI9BMnbX4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4Xu2WPWsUURSG57IMlzsME4LBQApTqWDjB9EgqEREIRZRFJUowViksLAIpEiRIkXAwiIQsLAIbCFYBOwCgXRWFoJgYe0P8D8c73uHkz1zZibOZOMuSA487M7s7L3PvHM/JopO6ljLUI+hl6HVKUtrVy1NdiIhNhQ5Q+vXbGDGdmgsimii02PAcobeXreBV2l8IIOUqhiAnKHNmy4w7dNhmbM1XIh7FOWORdTQ+xlHH247mk/igozsWHMx7pTYuuXojU/4iW+nDzFD3buO1kYszZ+LCzK6Q80VAY6377iDxz7r8nMtpQx9vOcCj1wuA1hGdvg3ZErLmQ0pzZ5pJWTo8/0kgAZYBunUyWyOutI5KcMgpSWf0vYp105ody4XQrz6UelOWahKSgsBJDQ93jghQ/sPE9p7kIQ7aSOjhbQI2sj8srFwngd2ozL05XESGl++ZCtltIA8llJaBmsYPluMH0Nfn6ZBaMHHqmV0x1XUyfA6hYQay/x4ntK3ZyltjBST6UeIZSDCNBb6+SKlndMJrVy2JRmmu+gK1IlKmTnXGz+NZX69zILQalaU0UJVUiwm02EZTIqWyaByoe5YvppKmTq0ZJ0Mpji2nBZChn4vZbTlY0a0umONFjhMBiI4ts1lUH4D9avmuh/IaIA7xkZ4mAR2fobPaZkjDGRULgQB3msAGgT4/tr/piU0Ugj/w5qDm2kpg8qF0DF2ZPk2yHJyP8PqjTXqhpdgpBBeV3Bz2BqOIMOFP5nQEIQYFpNyuIblGKxdAJPi3ailFX9d1m6a11UuJpFSAAJIBGIAj/P7REr74wl98kKYHHh/QnJ9ytRVUVCnA1gML194nPiOhP6RkK5yijIhjEcsrgOSqSoTHhHGDZLCoEdSQxRClVPTV5zUf1t/AA/c4c98xpuCAAAAAElFTkSuQmCC",
     "wiki_name": "Arcane grimoire (Shattered Relics League)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Arcane_grimoire_(Shattered_Relics_League)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 3896,
     "name": "Treaty",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-29",
     "duplicate": false,
     "examine": "Just needs the King's signature.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4UlEQVR4XtWX70tTYRTH97zsTRBJLzYo3dCoyaZj/Rhdm7Kpi4WZMDOGacMyWUU/JAqpKMQoJAQrChkIRRBEEEQQBBH0Juh/Ovk942zPHrztznvl2oHDuMp4Pn6/3+ecayDw/5aiau+IUrQ020Pz5w/7DSWqKFouJ+jpXC9dGe30C0pRaTJHxfEMdUZCtHojSSvXkgw2kT3gB5Si21cLVL48Smt3jtHr+aP08tYRBoN9+VTQHyj0+kKKKveOM5hA3S1GqS++r2ap+c1tLEXvH1r09v4JBtPVKo910VQurFnopF2Xoi/P+rk/P0nTx8U+BoRiAEPQH0x3s2I3zx2i64WDHPxLIxEq5cNUHOpg4MLAfkp1t3kHBZugDlT68NiiT0sn6evyAH/iWexEvgAF9QAGKKgIsGjHbgbqaW93C1W99tI4GApBKSgG9QD37XmGgaGaqAUwUSvYtssr6xqB7OBgKeCQN/wOgxRggIJlaStGsWiYQkHX1tkDbQYHMCiFuSXZAtD4WJqhMNdcWucMSG9YiVzBPkDBsuniMJ09bdVgPAd6t5EJ82d6I+y4iQh6PTstw5ihs4dpBoRGtmClDuIApk4PiR+VYrVn84BWoLaoiqLJiUHK9ic4bLJAAQXfzUPQb/baQ+gwuiIOYVCK5mZG+AbouwpgmMAYauZhlSZALSpiVnWrz17M15aovtkFCotUDlz/h006kHlSC1X12W6JLlyI8hoAWLPceASEUjz+MWllPwFOFIOFuL4ChJZFKksUw++MFfLqXUnRr1dD9PPFIP1YzdL3lSwDyoZHA1Lf9LJITahE1x7vVLJrQAqoNMCQMRNKlqgHQIGAeVXrt6UK9qdyin6v5bihHjKGJaq/BzX+MdtYOhga9sJGBFmgkKHhTJJ64xEvtrqz0lWTd6DFmThD8bvPxn8rWKIebPWtlGLrEHLkqdEuVwPSTSm2DqNBh/AJRspXRTavHQXjVf0FAqiPzlGjWiEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4XuWX7UuTYRTGvT/2JYikDxsUbmjUZMuxXkazKZu6WJgJM2NYOiyVVfQiUUhFIUYhIVhRyEAogiCCIIIgiKAvQf/Tyd897u3Zg2tue+ZTdOAgm4z7t+s697metbX9u6Wk2H9FKVmaOSTz5w66DWVUUbKcD8vjuR6ZHel0C0pJbiIl2bGEdPq9snotIitXIhpsPLnPDSglNy9nJH9pRNZuHZWX80fk+Y3DGgz70lGPO1D0+kJUCneOaTADdTsbkN7QnpKl9k+2sJS8vR+T13ePazCrWvnRLrmQ8lks3Eo3XUo+PenT/fFRXN4v9mpAFAOMQb832a0Vu372gFzN7NeDf3HYL7m0T7KDHRo4079Xot3tzkFhE+qg0ruHMfmwdEI+L/frv7w2djJfQKEeYEChImCBjp3OAXG7THMwCqEUiqEecF+eJjQwqhm1ADNqedp3OGVdJVA1OCwFjnnjfyxSwIDCsngsKMGAT7yepq2rDrQZHGAoxd4yswXQ2GhcQ7HXtgXI2ljJXGEfUFg2mR2SM6dizcJQmwO92ZgJ+3vWZti5iQx6eXbqhrF/qDpMLSCa2cLKOkHK9Ej8IBcsvbYfUA9Ug6oomRgfkGRfWA+bCVCg8N1+CP1qd3WISpiGSsnc9LC+AdasAowNzFKzH1aoAdQEDFVM9ZmpdClErcluoAhSc+D6H2xyAIgq+lwtRBfOB3QMAFZrbhwCopRe/2xak0/AGcWwkOtrgGgTpCZEWX6nY16nnpWU/HgxKN+fDci31aR8XUlqQJPwNJDWpDdBaocKd+1yAoiyXtPKBtKAmgaMGbNDlUO0pVUE+1U4KT/XUrpRjxkjRK3PQZVfpuVVPgx7sZFBNlDM0FAiIj0hvxOpXm+p0jPQ4nRIQ+lnn41fK4SoA6neSCltHUPOPFXate0wppS2jtXgIoS9XFXkP6rfHwNVB8lZV6sAAAAASUVORK5CYII=",
     "wiki_name": "Treaty",
     "wiki_url": "https://oldschool.runescape.wiki/w/Treaty",
     "equipment": null,

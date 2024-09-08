@@ -1,7 +1,7 @@
 {
     "id": 23899,
     "name": "Crystal staff (attuned)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A sturdy staff of crystal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUklEQVR4XuXXQUvDQBAF4A7YloSYGNu6JDWmKQQPKhWxUiqISFHUiwdRUQ8iFPTgpQiC4NW7v/jpbGnTtPfsgA/msLCQj51JlpRK/yuEfBnLGBC5DgLHhno4hdvfMYUijbDLZQ1o3A6wet7TxevdVqtIFOUgGnPZR+K5ugoGkX4og6L3e92uumXpdWW9McUYAXExhueGMd0kLvp0OGOQ+jsZBqmTfVTCGpZWltGJmiZAHMJeoPRQp74/He7JXBkB9dpJDjGpgueHQzgIA3jV6gLCAIZDeLk7WoDM7yoohNHTwFRr5kP4er2Qg/keXcG2jL1FsyH8fN7kMMZBojDtqC6nVd3tGK5jSTid7AIVgOGQ/hIbvJtmQ+hsNuW0iudG1RwZmOfrQ2wEvgzM2+Mx0nhNBuZjeIatNJSA4RBCz5OC4WS/NAIwHHEgjph2ZRGFMZFfwa/tBmwy6HcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABP0lEQVR4Xu3XwUuDYBjH8T3QNhTTbFsvukwcSIeKQbQYCyJiFNWlQ1RUhwiCdugygiDo2r2/+FfPE2ubf4DvA/WF9yAKftBHxUrlb0WYX9b6ASS+h8hzYW6P4A+2bKFIEG61KoDW1RDLJ31ZFkA0BxHM2QBZ4MsqGURyUgYlLzdyu5qOI9u11VbZGG4K4sUYnhvG9LLUHsh8XxkGmcMd1OIGFpYW0U3aNkAcYTsyMtR5GP4O92SuikeXEKHfyQoIa+8gwm4cIajXbSJmIzxd72uAcITx/VAP5n10qgfzMT6H61h7imYjfL5dasFwpAvTSZpaQITeZgrfc3RgJh9QBRiO5E2sBETorrf13CqeG9PwdGAeLvawFoU6MM93B8jTFR2Y18djbOSxBgxHiINAC4ab/tIU91hKHYhThflP+gLqdag21k43MgAAAABJRU5ErkJggg==",
     "wiki_name": "Crystal staff (attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_staff_(attuned)",
     "equipment": {

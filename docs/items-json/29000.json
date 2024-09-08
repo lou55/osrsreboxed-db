@@ -1,7 +1,7 @@
 {
     "id": 29000,
     "name": "Eclipse atlatl",
-    "last_updated": "2024-07-13",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "A powerful thrown weapon forged from an eclipse.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTklEQVR4Xs2Wz0sbQRTHfQdZDCGyGLK4SzYmotIG1AoGRAr1oGARUXuoSNtL8QcICmILPQgiKoXioaUH6cGDUCh4KxQKhYIgePIs+M98zZtxM/sjWyjZH/nCXGaGnc9+35v3pqMjVhH8MymKUMjn0SZQhKJpomLbAmi0ry9NKELJsjBQLguotgDSxwYEVK9hpA1E6Kk9QuZx8SF3JExKQIT8RBXZigpTijAsCsA4LqmRmAinmwbeznS7cobwa7+I8x0TO4s6Xk3lkoIinG33Yn1WwThAf45sbC9Z2JrXk8onwvddM+RAwuVHGxtzMozBEbkIvw+KePeipwmMXGeHVp9LIK7a7hEDFGFvuRmMcoFz6M20IQrkUH+/KJbOWvAHWhLh8LX8Sz/MzZeyCGPGNtCpZxsAfpBIYT6vqQrsD9P1SUm40mV63YsBhEW4+GCFwMh1TmSuR1rBXQJiEeHrRpgzcp2H40z4vshE0MphzZLQ/bSK2pDMmZjC4xY1GmbwoDrM1AhePiuErEcmdTOytUFolrpV7j369JMkcqb+jNB1UcC4R+2vuGG815hh/DfK/7UWVQ9BLtcA+vG+fqCmNQDuvlXw91i2BL7eXG8SgRmpVkXp55cfAzlQDMTznDMLk3nMjit3/F9rUV4YdoHd4Ye626HbUwk0X1NVODZ3HBgubj/3LGQzmSaHyqbqnosNZmx4WBQ/doDdcpzxHuoF8n4nUsm3DbvjAAVh1N7m85FKtgbOnWCYggqbj1CEq0+luHPjf/VvV1JRW8G0g+4BX07CS7LuQdEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJ0lEQVR4Xu2Wz0sbQRTHfQdZGkJkMWRxl2xIxIoNKAoGRAp6SCGlhFoPFml7Kf6AggFRwYMgYotQPCgegoceCoVCbwVBKAhCoSfPhf4z3+6bcd0x7vTi7mYP/cJeJhveZ7/vzXempydWETpXuihCIZ9HSqAIRdtGxXXTAEQoOQ6GymUBlQogc2JIQA1YVreBCP21EWQeFa9BugyTn6oiW0lFm1gUAuO7lLhbhPY7C2+f9CmFCWe7RXxet7E+Z+LVbC4pKMKn1gBWGiqMXP/x3kXrhYO1ppkczJcNW1OQcHngYvWZ38bOJ3IRzveK2Jzv1xSQDi09lUCc2uoT/p97ibDzMgwmcIFn6E3dEgE5PDgowjImhwj7r8O+knB1XBZtzLgWes2sAhALCItwtKxLYMKvw5Jw5YEd5l7kInzbdv5RSA4y55FR6Nx1kYtwsqpzhiVbEjijey8yEYyyDojQ97iK2rA/M7GLlAOzUx7M7BgWZgqa3yNTsDOytYcwnPBdZdbHk5gZ7xphmiLA+IzaXVRhAlAB68HEvKO8FuRyN0Bft7yChnED8Oe0gosP8kjg7c15kwjMWLUqop9vfgzkQzEQr/PMPJ/OozEZmzu3YdgFdocv6qpDv9sSqFlTUzgWyblhGA637zsOsplMSFF5qMYIwpIwE6OjIvzYAXYrcOb2uwkAseTdht3xgfRFdeuRSh4NPDt329QVEX5+LKUBRFWqYP4rVH8BiLpOLLMBXZ0AAAAASUVORK5CYII=",
     "wiki_name": "Eclipse atlatl",
     "wiki_url": "https://oldschool.runescape.wiki/w/Eclipse_atlatl",
     "equipment": {

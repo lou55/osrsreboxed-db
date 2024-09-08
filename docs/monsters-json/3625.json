@@ -1,9 +1,9 @@
 {
     "id": 3625,
     "name": "Ghost",
-    "last_updated": "2024-06-01",
+    "last_updated": "2024-09-08",
     "incomplete": true,
-    "members": false,
+    "members": true,
     "release_date": "2004-12-21",
     "combat_level": 29,
     "size": 1,
@@ -22,17 +22,15 @@
         "spectral",
         "undead"
     ],
-    "category": [
-        "ghosts"
-    ],
+    "category": [],
     "slayer_monster": false,
     "slayer_level": null,
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
     "examine": "Eeek! A ghost!",
-    "wiki_name": "Ghost (Level 29)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Ghost#Level_29",
+    "wiki_name": "Haze",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Haze",
     "attack_level": 23,
     "strength_level": 23,
     "defence_level": 28,

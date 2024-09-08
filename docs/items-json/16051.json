@@ -1,7 +1,7 @@
 {
     "id": 16051,
     "name": "Enchanted hat",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "A three pointed hat of magic.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfElEQVR4Xu2Vz0tUURzF3+VxeTwIXShERowWElqoSaGQ/YCYyogWQYsWLVy0aNEiaNGihYExyICCYqYyICUZIkE/ZjUR5EZmMwnJQMxCF/0fp3vu675585xgpnlv3MyBL4POffd97jnf7x3LaqmlQ5VA+D+HJIIInJb39Gf42ybKAzkrJ3yYoe5uXeGVMcsDGZKP0C8f/AdMZC56IBecpz5Mr7xbN0yfvB9FtAIXncmGYRhv8LnwiholcMVJY8R51jAMq8cejwZo1HmugdgzCTtZx6YCA/IhzsnHOq4T9tU6nq2qMpDZlA6dsu/U0AtlGB6Gzx2zR6IBYg9xY9rO2AhWvnuCYOZvgbXFVzjvPNFxm7g67cFGgSivqbm5OS1PvpBKYe7lFGZeTFZALE5P63Vcz+JaunPcHkO71RsN0JgzpWPjaTltH96+wftMBu+WXmN1fh6Z2Vksp9P65QQmUDCqMEzDQIztspPSYFu5HL5ls8h9+ojsxoaGW19Z0TAGyBRjZSNHCEMJJN0FXcWdHfzI55Hf+q7Bvn75jOzmph9NEIp9xonssPqjhKEEbroZXHeXUCoWsVsoVEDRLXNpsnkJFCMMJTDurmqovVLJhypsb2so9lYQiFMYIwwlcMtdq4D6tftTQ7Gn2OiMzACZ8ZZWWxQTVU0Ct911H+r3/r6GMvcT3eFEmfHm5ddudcXlDiVwQznASqoXs665c3rqGJdxx/tpGMRRNVFHrM643KEOAl1S0YwqgGHlyICK6IzqmZPKGQJ1WAm48cVl5N3E/wLqU3cNgbr+NnKMcZXlbe69rBpQwh6uAIkVJqggWLiaChJW0Immu9JSSzXoD57kLeufUniqAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaUlEQVR4Xu2Vz0tUURTH3+VxeTwIXShERgwaIlpoSaGgaRCTKdEiaNGiRYsWLVoELVq0UDAGGVBQ/JUMiEmGSFA5q4kgNzKbSUgGYha56P843e+53DdvxlF8zbyZzfvCYdC5597PPd9z7lhWpEgNlaDy/zRIABHUJR/xZ/m3dZQGuSqfNhpGg1yTz6lHPvkPmCBrT5UGuem88mA65cPAMN3yccCcihI05ExWDQN7g+cdk6BRJ0kDzuuqYRDt9njA3GPSQIPOGwZCz8TseIBNBfXKZ3RdvmC7Ltm3A+RWVBHIbIoKXbYfnGHjIgwug7wL9sAZ8k6VBkIPYWOUHbYBrDhh/gPM34I2l5fohvOS7TZ2tdp91QJBuqmxubktbr6YSND822manZosgViemeF1WI/AWlTnoj1MzVZnbYCGnWm2DbfFtH16v0EfUyn6sLpC6wsLlJqbo3fJJB8OYAD5raohDKRtG3ESDLaXydD3dJoyXz5Tenub4bbW1hjGAJmArWjkGsJAguLuIkf+4IB+ZrOU3fvBYN92v1J6Z8ezxg+FPsNEtlg9tYSBBN1zU3TXXaVCPk+HuVwJFKplHk00L4BChIEEjbvrDPWnUPCgcvv7DIXe8gNhCkOEgQRNuJslUL8PfzEUegqNDssMkBlvaTWFB3Tf3fKg/h4dMZR5n1AdTJQZbzx+zVZbWDCQoDFVAURcHYy4487z1MEuUx3909BH59VEnbNa6wt0S1kzqAD6VUV6lUVXVM90qMoAqMWKkRueXUb6JT4JqFu9NQBq8xo5VBi/9GGVgGJ2fz1BymWqUB6RIkU6Uf8AZV3qe6H1w5gAAAAASUVORK5CYII=",
     "wiki_name": "Enchanted hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Enchanted_hat",
     "equipment": null,

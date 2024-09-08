@@ -1,7 +1,7 @@
 {
     "id": 8127,
     "name": "Hanging skeleton",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdklEQVR4Xs2W30sUURTHPU9h+BKGYVK5iMa2sutK265ky0IsJIloayFlZKT2w2qRZVnKLLPSsh9YYr8E2QdR6HdID0FvPfTQH/WVcy4zOzOOPcTMHb9wmZm9w53Pnu+559yqqv8WQY3ApUBGL51HdfWOoKEI6VQKibYYiuPXcGB/gwC1NTYGAUVIxuNoDYflyqM7m9UNZOQJIRaJoD0alehYf6+p2anLNsLt4k2cyGZMGL4aEVFRIZk3rHOu4LEI4zdGUVe32wSxw6h35h5NIpmI67COcHXkAurr99hArDA/vn1AqXDdBdQXkSTtYH8OzaGQiyWE9wtPdcGwVA65W6Xm75TyOqxiEb5/XsXDe6UtYX79XMf6lzX09XS5RM9zEVaWX2N+btoRARWtpcXn+PvnN5bfvZSErq3d5TcUYXF+Fh3Jw6ZlPMpLC5h9MIH82LAMBj4Ubtkiip6KxK59DXtl67MtrZGwCcM97PSpHrx59URn+6hEZqC/V66F/BWMXR4ym2os6iyUPqvyIQW2Wn6LF4+npD5l0kfx9eOKrui4iTBz/5bA8HZnu3K9J4MFmpooyLGDbevsOKLXLrvUgay7Kyt5w0BsnYbt/i8Rhi+eQ7ozZeYUJ7lx73xbkxSUsbt4cEk42NIULBRbZwANDuQsUbIObVL5lGiPYXqyKA2YbeTIcdLzLuR7n8Gc/1ydFJubQpLgHLFnM3ellXBp4Hmu6FzNfYAi6Wn8MY6AAXb2TJ98dLNV6hTJoMczx+TZ47JQaRHG4tbqbTxbhxXOhzpFYo3b4s5nq+yAnsreRJ2zAYjwaa28vYD4hLiNgFib8ydw6YLZAGpk1v7uWeRRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACV0lEQVR4Xs2W30tUURDHnacwfAnFMKlYRGVb2W2lbVe0ZSEWlES0tZAyTDL7YbXIsizlbyst+4El9kuQfRCFfllID4JvPfjgH/WNmcOut9u9Pci95+4XDvdy5rLz2Zk5M6es7MAiqOW5FMjwjWsoLz/kNRQhHoshcjqE7OhdnDxR6yUQIRoOo8nvlyevzmRSN1ChTgihQADNwaBEx7hfUXFYFxThUfYB2pOJIgw//3ZOYteUOsLo/WFUV1cZQMxOCQtPJxCNhC1sjotw5+YAamqO2jgj/PrxGbnMPRu74yIp2v7eFOp9PgunhE9LLyz2XZOqIetUKft4Lm1jc1yEn9/W8WQqZ+OQsLO9ha3vG+jp6rD5xlER1lbfYXFh1uRMRWtl+RX2dn9j9eMbKejKyiNuQxGWF+fREj1jSBkhv7KE+cdjSI8MyWLgU/4Gt2FYJOk6XntMjj6npSngL8LwDLt0sQvv3z7X1YNY+5Hp6+2WZyZ9GyO3rheHaihobpTapMDW8x/w+tm09KdEvBWbX9a8AmIR5mYeCgwfd05XqvuCt0DTYxm5dnDa2lrOegvDF7LOjqTUDQNx6jQc9/+JMDR4FfG2WLHYucgL7+avNUlB7Z8ukpbQ2FDnLRSnrgDU35cyRMm4tEnVU6Q5hNmJrAxgTiNHjoueTyG/uwxm/ufqplhf55MC54i9nJuUUcKtge3c0bmbuwBFMtPYGUegAHblco84/TdV6hbJoOcT59wBMhaxcd/emTmijookNS79+EHk6RC1EuHrRr60gPiGWEJArJKC0as/5leJlHu3CCMAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

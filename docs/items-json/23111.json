@@ -1,7 +1,7 @@
 {
     "id": 23111,
     "name": "Mystic set (light)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-03-14",
     "duplicate": true,
     "examine": "A set containing light mystic hat, robe top and bottom, gloves and boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xs3XW2sTQRgG4OSqeFMR723T0EiNNGnQNNIYGxLTg4EkpIkxqamtFiUg4gGlFMVDKZ4olHoAwYJQainS3vTCA4r+Br3xP/Q/fPLO8qWT6STNJhvpwEuS2enOs7M7s1Obbf8XO+mjO97yYqcXs2l6NpMSmb+XpLk7CRFGrCxO0oeFCVp+WdSg1ItoGm6AGAUQR8W8fz5Ob+fzFR3jN46pqUSZQtpp4f7YLhQ+AeEw6PVcjhYfZkVbfOpAaC+jv6/P0tfV242hGITvPDoMeve0IEDcthoIf/dtbYZ+bjyiXxtPBAh9eDs7RdTelWIMO1+1fGXNRAbhO+rqwsi3Ab8z4SOUGz1BoZPdNBpyUzzcS8moh9KxPsoM+8SxfNxPFxP9dCkVoKmxAZrOBulaLiQ+cdztaBfnshwU7ndR9FQPDQWPaXGAAQVIKX9GoFAvgxBTIH4udKCA10FBn7OMAwwogNAGo8SYG8WI+NSCPt5tDoQrB+TWuN9UWgbClWNU1A73ig7049ODMqYhUC7aIUC4RWqHe4VBHudBLUjtvUoxpunS4/NlEB5UGbS91V4zFoKMNQgjpIIwu66mvSIqQA63QXQgeVFUe1eKMeV1IKwtmFGFEXc5f//8FmEI/5bbtBxUPHe8nGoguY2lIAR1hZhDrC1YCK+kPOV82dysAHGd3IZBPtchcS6s0oypC4QZVgtUyvSJoGMVxPXcRkQBYYTqHB2UHRCjZBBWZH5YD7S1icgPsK6+pSC8s/Cg4tmYTPRW3Jpq0YEYpfauKQZIvm2omxjuEi9JgJKD3ZSOuCh79ihdGDJmHQN1YZC/57A4F9YgE+tQJYi3pgzCCzTi76BYwEEjA10UP+2sClRnWcMgzLJqIJwYb3u803gLwm96HOOtB5YItL8+PmgdiFEyCAjeD/FeSMbgfccYQOTtB4OwBpleh3S3zYpgU9YQSL1teLhRh4396tKUOCb/V4Lv2BkgaMeberRde3WZtpZL9HnlZiMglN1XpouMkaOC1t9MV4A4JkA2Gy/rtaIC5WAkAcLoWAKqt6jIerCcnbb/qahIXdS/2dflH9Cz1yd3kAiWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu3XW2sTQRgG4OaqeFMR7y1paKRGmjZoGmmMDYnpwUAS0sTYxNRWixIQ8YBSiuKhFE8USj2AYEEotRRpb3rhAUV/g974H/ofPnln+cLsZHLYTSJeOPCym9np7rO7M7PTjo5/vzhIH93xthcHPVtI05P5lMjSnSQt3kqIMGJ9ZYbeLU/T2vOiBqXeRNNwA8QogDgq5u3TAr1emjJdGL9xTI0ZZQnpoOW7kxUobAHhMOjlYo5W7mdFW2x1ILSX0V+3Fujzxk17KAZhn58Og948zgsQt60Gwt992Zyn79sP6Mf2IwGyhMFJ+a7lO2smMgj7Rn3d4jC9BvzOhA9RbuIYhY730kTIQ/FwPyWjXkrHBikz5hPHpuJ+Op8YogupAM1ODtNcNkhXciGxxXGPs0ucq+Wg8JCboif6aDR4RIsDDChASlOnBAr1MgixBOJ+oQMFBpwU9LnKOMCAAght8JQYc60YEVst6P3t5kC4c0BuFPyW0jYQ7hxPRb1gvehA3z7caxSDUgnKRbsFCK9IvWC9MMjr2m8XhGIM09WHZ8sgdFQZtLfbVTMtBBlzEJ6QCsLoupweEFEBcrgNogNZmBSNIa8DYW7BiMqPe8r5/eunCEP4t9ym7aDimaPlVAPJbVoKQlCXjznF3IKJ8FLKW86nnR0TiOvkNgzyuQ+Ic2GWbhCDYoywWqBSZlAEF1ZBXM9tRBQQnpAtEKNkEGZk7qz7OjtF5A6sq28rCN8sdFT0jZlEv+nVVIsOZAFlgOTXhrrpsR7xkQQoOdJL6YibsqcP07lRY9QxUBcG+fsOinNhDrIwD5lBvDRlED6gEX83xQJOGh/uofhJV1WgOspsgzDKqoFwYnzt8U3jJQh/6XGMlx6YItD+amGkdSBGySAgeD3EayEZg+8dYwCRlx8MwhxkeR7SvbZWBIsyWyD1taFzow4L+43VWXFM/q8E+1gZIGjHi3q03XxxkXbXSvRx/bodEErlnekiY+SooK1XcyYQxwKo0VKJ5OBJAoSn8xdBtUolsjL/S3PlD4avjJujuSs1AAAAAElFTkSuQmCC",
     "wiki_name": "Mystic set (light)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_set_(light)",
     "equipment": null,

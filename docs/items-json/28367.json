@@ -1,7 +1,7 @@
 {
     "id": 28367,
     "name": "Shadow blocker",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "Keeps the shadows at bay.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xu2VzWsTURTFOytX6krUarS2mJqYTr7GfE4ymWSa70lq2qpFK5XGVkUoUhWqLlyIGAXBhZC1KNSdUAKVgiAKKoj/0nHuGyfNdOpCyEwEPXB4BG7e++Xc+16Ghv7LNnEw23H1Hsph/749JlsBbYXUAbYP4eD3uZndYy4LnBmy79pOw/jlcjqJqVoRalmBGA9ZQHrrAyMj/YQyt4Y+Z1IiquUSZhsqGlNlTOaSEGNhuI4csAD1OSXrnMhSGPWaynzhfAPT9ZIGl8NkNoFQwGOqPTq8t98p6UC0MTmZOI0r81UsLtTRXCjg1k0V83NFzM0qGpiWWjFigrEdKC3yWLys4sYSuYCNVzPMb16qeLSSwpPbGUyrfLfediBJ9DOYFw8VtB/n0XqQQbulr+/Xz+HZmox6JegcUCalAz1fy+H71io+v7vE3Hk9g0+dVXzbuodayUEgSui6BvTjw33mL51l5s23812gaskPz/iwU0A8rl3dHejjxgq+bt5BtTCBw4ccSoiGerlZtgKtX2RArbsZVPI+51qWk3yoVbJshnqB2k/zaC4p2nsUQjJ+onv1DdsCZGw+EfUilYsgLAUhyGHE8lF4Qifh8oxCEL0Q82E7gUjm19ornGKO5M4gUYwzIFpDShIBOYZYlt8VxjYgSoOAjHQIjFZeijBHtbbaCGNI/4enQ+SG3AUiGMM+UWA2am2E0aVvrB8UKUkYC3rhjQcxyo8zEGpXL4StMGZxbIDdgo/NTawqMzDxbL7fw/sn4hCvK8xCIQVP1M9So1VP0XFxWjoKaxWB0Eqts31ufi8OfFpic0P2RKImoJ3VNovDwWPH4Y3FGQxddbdgTmjnNxzQr2udkdlwExB5oEDUJjJd/y7gYObHkPUBHCCMrr8G5J/TT7mzXShTsqEeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4Xu3Vz2vTYBgH8OXkST2JOq3ihp2tXforpr/SJmmz/k67dZs6tDJZ3VSEIVNh6sGDiFUQPAg9i8K8CaMwGQiioIL4L33N85Z0zeJxSXfYA19eCi99P32eN+nIyEE5Vhyscb0GD+Vw9MghS+xAR5E9wM4hHIIBL4t33GPDWZF7XjvdMH+5mklhulaEXtYgJSI2iIMg62jos5KWUC2XMN/Q0ZguYyqXghSPwnPqmA20xyj7PVHlKOo1neXqlQZm6yUDl8NUNolIyGfZe3r0sDMg+mJKKnkRN5tVLC3W0Vos4P49Hc2FIhbmNQNmdK0oWjCOgzISj6UbOu4uUwrYfD/H8vGdjuerabx8oGBW5/v7HQfJUpBh3j7T0HmRR/upgk67t37ZuIzX6yrqlbB7ICXdA71Zz+HP9hp+fL7O0v0wh+/dNfzefoxayUUQdeiOAfr79QnLz+4Ky9anZh9ULQXhmxh1C8Tj9q3/g75truLX1kNUC5M4ecKlDtGlXmmV7aCNawzUfqSgkg+4N7KcHECtkmV3aBDUeZVHa1kz3kcRpBLn+o++GUdA5pdPxvxI50RE5TAENYp4PgZf5Dw8vjEIkh9SPuokiMr6tvYLF1jE3CUkiwkGojWipRBS44hneScxVFYQdYNAZncIRisviywxY6wOYszq/cPTIWpD7YMIYyYgCSzmXgcxg9U7SCzJGA/74U+EMcZPMAiNyyXE7uLYBfYKAXZv4lWVwaSZ/LBAVBwSdY1FKKThiwVZ12gdEoozuqOxURGEVhrdkDBUHPiMzO4NxSfGhgnicPzMWfjjCYahR90r7IMOUUKKyi43gShDBdGYKPT4m8Ddu1wuV1+AB7W/6x8gVSmMhROIRgAAAABJRU5ErkJggg==",
     "wiki_name": "Shadow blocker",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shadow_blocker",
     "equipment": null,

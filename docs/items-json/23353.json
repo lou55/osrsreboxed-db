@@ -1,7 +1,7 @@
 {
     "id": 23353,
     "name": "Cape of skulls",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "Lets the person behind you know that you mean business.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkklEQVR4XtWXbUvbYBSGfT7JPspkMmVOLTpcR1+kVot2dHRFV8dcKcXVqSvdEF+Qfhj+/rNeJz1JjHWDLUndgZuQtCRX73M/50mnpv7/chK9MsFycnnxTR4JFBBO2p1PeiwsLU0SysnK4qK8mJ+XlwsL8nRmZlIu2UOdvFlfl3w2K6vLy75DKbvk5Mn09MgJJ/vvalKvVtWhlFrmPdj0em1NW7NVLEq/35Wj45Zs5HLybHY2DSAvrLV6VQobOfl61pFXmYxUSiXZLZdls5DXdpGh53Nz2r4UMuT0oTgDhAmHgCM7iM/5HmCpQIV1uLcn7YMDebu9rW7hFHMI4aK1L1GwYPV4OfrYaCgYUOfnpwqCQ5YtoFIclgEU6p601SkAgLq+6umRwAOaGhQZar6vq4AYDH74rTvutvxMBU4lDuZB4RaZwg0TbQSE9gHFREcJQzltFVDmjAnXGJq4ZE6xGgOoqGIrp2MAl2jbzU1fw062gGJoIptXDylGKKcry6DIEefjoJC1znTY+qDiPjFOea91jACgaCFQzCegwkC93pEPY/sf6oxeX6J3/oe6DwWQyYDIEVBnw+ADZO1iRLRGTkXv/JcVtK62s/MglG01QCGcqQ/3SoDMpdhbZ0D2cDQOqvPls69KpaSzK2YgyimQbbyMAMuMgUWX/+DnhVwPF0M+n00OyABw6mS4tZAXFF5h4VB/Hw5Sg4kdyF5nOeIU05rA2rt3GMhCbXtezDCUk9vbK/+XA8Q2srlV1PNxLhlUAu5QTodj8GudTvDMqudaFCoKFL1bDOX9aazslkcA3jVcajbrPhSKZikhIMpzpbFfuwMFqA0/cy8lIMpz4W4uxl+zEZAwUPi19/fX7kM+gvoTzC8t9WDxsCwbWAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZ0lEQVR4XtWWUUsbURCFvU/SR6lUqtRigxabkhiJ0aApKdugjaU2hGBjrQ1pEatIHoq/f7rfbGd3s0bah91NOnAIicL9cubsuZmb+//HSfKTKY6Tn1ffZEaggHDS7X2cBSAnL1ZX5dnysjxfWZHHCwvTgrJDnbze3JRysSjra2vTg3k0P//ncCdHb5viNRrqUE5AwcGmVxsbuprdSkWGw76cnnVku1SSJ4uLeQAFYW16DdnaLsmXi568LBSkXq3KQa0mO1tlXRcZerq0pOvLBYpDcQYIEw4BR3YQf+f/AMsFKq6Tw0PpHh/Lm709dQun6CGEi9H6Mgdjghx9aLUUDKjLy68KgkOWLaByLMsICvXPu+oUAEDdXA/0lcADmhsUGWq/81RAjEY/wtWd9TthpiKnMgcLoHCLTOGGiTUCwvqAotFRxlBOVwWUOWPCNUoTl8wpnsYIKqnUxmkN4BJru70datjJFlCUJrK+ekgpQjl9sgyKHPF+EhSy1ZlOOu9VKQIxweqoAKBYIVD0E1BxoMHgNISJ7j8nvfR/vtyHAshkQOQIqAs/+ADZuqiITrpORatr7u8/CGVXDVAIZzz/rgQoM5cMyA5Hk6B6nz+Fqter2l0pAzFOgezipQIsMwaWfPxHv67kxn8YyuVidkAGgFPn/tVCXlD8CYuH+rtfpBnAMC78OcsrTtHWBNZ+e8eBLNQZ3nlO7u6uw28OENfIzm5F309yKeViTI7TcowOcNrghfXAtSRULkAEuX5QG4PCpXbbC6HQ/SxlNoErraPmGBSg4+UXQOUAxJgTf/8sqoCZmZmC+bf5DVG2MaKN8I19AAAAAElFTkSuQmCC",
     "wiki_name": "Cape of skulls",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cape_of_skulls",
     "equipment": null,

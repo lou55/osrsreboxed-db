@@ -1,7 +1,7 @@
 {
     "id": 8562,
     "name": "Wooden bench",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACP0lEQVR4Xu3W70taYRQHcP0T9nIv2hpR4IJNh6vGpB/MsDRIydzNcpUsW0W5EpGkuVVuIbIoKmKFBb2IiLHYoL/vG0d45Prcc3sylkHcA1+4UN774ZxzH7XZrLLKqrqVHfXNtWVHZsGH9Fwvlma8SCbeYf5jN2bjXfg03ompmAfx0bflTGgdiEXaEQ23QQu5MTz4CkMBF4L9LzHge1GO39sKX89zeLsc6PG0oPNNMzxtTehwP8Nr19NyFCg7sp/7DCgzmB5lBtOjBEyPomc6GxvNUHZ8TQfwZcnPwgTqOphAcTCuU0rQWmbAgDKD3WSMXKf0KCXox0oQ+eVBFiZQeli701GJHqUan0ApQYVcyIB68vgRC3M0NVQwdE3d4roko2oCba6HUVwdqoIRiOsWBzIbHd2DIndJCdr+HmFR3AhlELfoBBIYDqUE/bs8x8XfU/z+c4Kz8yOcnpXKNzk+2UXpaBu/Dn9i/6CInb0NA2gtn0HuWwrZlSQy2QWk0rNILiYwNx/H9Mw4phIxTMZHMPZhGFo0hIgWvD8Q3eNWoJ2N95Wx0U1obKLVYmxiZPo3jKI/CuQ9os/Ly01jU4L2CpoBReH2iLpCy01/p2sCiWt5uTkQpWYQt9xmIDqXzEDcEUBRgvaL0SoUBxJdogfT6DiQ/LZxKErNIK5L8utPCHF6CxB3BMgoihJ0sDlaheJA8i7d5LuOQ1FqBpl16X+gKEpQaWusbiiKAkQl/8S82xBGAbLZxD/VK/LzrbLqQdYVxrGQjdjUeksAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLUlEQVR4Xu3V/UtaYRQH8PwT9mM/tBFR4AbrBbNiUosc9gYpld35MjdZrhfUVYgkZW9WhBRFi5hDg36IkLGxwf6+7zjCI9fnntuTEfbLPfCFC+Xjh3POfWxqssoqqxpWNjQ2d5YN6YQHqeV3WF10IxkbQfzzWyxFh7AQGcR82IVo8E0lH7V+hP19CMw4ofkcmJ3qwfREN7xjnZj0vK5k3P0KnuGXcA/ZMezqwOBAO1zONvQ7WtHb/aISBcqGzNdRA8oMpkeZwfQoAdOjlKCt1AQ2V8dZmEDdBRMoDsZ1SgnaTU8aUGaw+4yR65QepQQdbHiRW59iYQKlh/V12avRo1TjEygl6CjrM6CeNz9jYfa2liqGnqlbXJdkVF2gk70Z5Hema2AE4rrFgcxGR2dQ5C4pQWf7fhbFjVAGcYtOIIHhUErQ339l/P5zg5+/rnFbLuHmtlg55Or6G4qlM3z/cYzLQh7nF4cG0G4ujez2GjIbSaQzCayllpBciWE5HsWXxQjmY2F8ir5H6MMstIAPfs37dCA640Gg88O56tjoEBqbaLUYmxiZ/g2j6K8CeY/o8/Jy09iUoIsjzYCicHtEXaHlpr/TM4HEs7zcHIhSN4hbbjMQ3UtmIO4KoChBl/lADYoDiS7RF9PoOJD8tnEoSt0grkvy608IcXsLEHcFyCiKElQ4CdagOJC8S/f5reNQlLpBZl16DBRFCSqehhqGoihAVPQPjYxVVln1NPUfc5tNLAuu6Q0AAAAASUVORK5CYII=",
     "wiki_name": "Wooden bench (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wooden_bench_(flatpack)",
     "equipment": null,

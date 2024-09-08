@@ -1,7 +1,7 @@
 {
     "id": 20440,
     "name": "Evil chicken head",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": true,
     "examine": "Cock-a-doodle-do!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xs3WW0tUURQH8JknScJBCqQgkxGJesqnngYKk7IedDCcsMgudJNKNC+YjZkNQ6OiiF2oGMEQk6GMoBtFUV9H6BMYrPjvwzqus2aPc0bPhBsW5zJr3D/X3medCYW2/wiTPWyfl32EaXKknTLDcRPpoTZK9beaYMTi7CVamO6i+akLFpT+J7YMd0CMAohDY7IT5+l5utMzMa7xmQ4vqiRkmKaTZ/JQOALCwaCnqbM0O9ZhcnG0gZAv0T9yI/Rt6e7mUAzCOVeHQS8fnzMgzi0Ewve+Lw/Tr5WH9HvlkQFhjsN1dSb07Go4Zef/mkGY1AaaG08UXbKlucseEM4ZpGdXI+xZBiB4c+Nag3j/DERrKVYdoWO7IuZag3LPrgYH4irhXiHQ1KF66ovuo869NVbQuxfXXBCiJBDvCw3C5BqEPHznfsN+UyVeNg16/+q6F/RmcOsg3AeIUagk8ndUVOSFRn3I3gwWhABAggph4i0tdKSx0UUh9/PCLRf08+2oiykZJFH444VAFxMJc/yUy9FEMklNsZgH9OX1HStIz15gOPsAj7NfEGIunaY/q6v0d22NsjMzHtDXxd7Ngpw+ggr5Ae2srDQBxNE9NdTVEKXh+lrPPkK+BMmmqGdXw3nkbSDERqD0gag5AoJ+xCDkBQpiFAIgdFxMgHMJyhyMukvXvLu6PCBZJRwliB95WSGgeu+ddGEMWn5yxQWhSzPGFwhPmA3E7ycNilRVOaDZDhrLxGkk1Uq3B5pdEHLx2pAV8lkdjHWQ3ke4L0G4lqDxyXaD6U+eMqAbPU0uCK+NwECMwn2Un0H8DmPQaLqNBh+cpp6hEwYjK4QuLUGM0rNbhgOyLVsxEGO6+4579hDyP853uyD0oBL6kBckl02CcMR9CQKG906gIGzWYiDsJf5RxiAJKQtILxvuSxA2Orq3sxfsgaXFIy9B6EEl9yHbskkQzhmEQBfn5slPI+cGArItmwThM/mzRIKQx6+YAEAY+aW3hcTI0CA0RQniKAEUCnFb3yg0UAa/v1CdQEB+h0b6wXKs5/6noZG20N/Z1uMft0Ndf2xNgRQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xu3W20sUURwHcPdJknCRAinIYEWi3nzqaaEwKetBF8MNi+xCN6lE88K2rZktQ6uiLNuFihUMMVnKCLpRFPXvCP0FCr/4nuE3/ObMWXdmnY0eOvDjzJw9O/PZc/mdrav790uEzGH6vOYlQrPpXsqlEiqsiR7KjnarYMRy/iItzQ/Q4tx5A0r/EduG2yBGAcShY4oz5+iZ1e96Me7xmR5uVCBkhOYzpz0o1IBwMOhJ9gzlp/pUX9QmEPpL9PdSmr6u3KkOxSBc8+gw6MWjswrEfcuB8L1vqyn6ufaAfq09VKBAGDyUfzWD8FITqDCdrDhlK4VLLhCufYIirmkAghc37nUQr5+xWAvFm6J0dFdU3eug0tMr4YF4lNBWDjR3qJVGYvuof2+zEfT2+VUHhAgE4nWhg/ByHYR++M69tv1qlHjadNC7l9fcoNfj2wehHSBGYSTRf0d9vSd01PvijXBBCAAkqBwm0dVFh9vbHRT6flq66YB+vJn0i0FxgyQKDy8HupBMqvpjqUQzmQx1xOMu0OdXt6sFodjrANvZLwhRsCz6vb5OmxsbVFxYcIG+LA9XC7LzCEbID2hnQ4MKII7saaaBthilWltc6wj9JShAUrS3vAmE2ApkHYipGhDkIwahX6ggRiEAQsbFC3AtQbmDMWfqOnc31QYkRwm1BPGWlyME1PDdEw6MQauPLzsgZGmfGBR7h5lAfD7poGhjow3K99FULkHpbDfdGut0QOiLY0OOUFUgfR2hXYJwL0HTs70KM5o5qUDXhzocEI6N0ECMQjuGn0F8hjFo0uqh8funaGjiuMLIEUKWlqAAKBtkmrZKIMYMjhxzrSH0/7A46ICQgwLkITdITpsEoUa7BAHDaydUEBZrJRDWEv8pY5CE1ASkTxvaJQgLHdnbfrA5MLXY8hKEHBQ4D5mmTYJwzSAEsjgnT96N3DcUkGnaJAifyb8lEoR+fMSEAELxDr0pJEaGDkJSlCCOACC/xYvk4PMLo/MXQVsVL9Ib/8v2yh9tPxLzPMUUWQAAAABJRU5ErkJggg==",
     "wiki_name": "Evil chicken head",
     "wiki_url": "https://oldschool.runescape.wiki/w/Evil_chicken_head",
     "equipment": null,

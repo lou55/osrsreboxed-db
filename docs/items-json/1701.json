@@ -1,7 +1,7 @@
 {
     "id": 1701,
     "name": "Diamond amulet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "I wonder if I can get this enchanted.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4Xs3V3WoTQRQH8ASRovQh+gg+hl5pVVQaUautRRFFWgylpKRtbLVKsKapaGhpY2lCrBHxo2L8rgiiV73Jje8y8p/lvzl7OkmzzSodOOzuzGTnl/k4G4vt/RI37nC1//MSN/fGTpi7o702ppPHTGbkqA0iVuf6zUr2vFm6f86B0n+iY7gHIgoghsYszp41j6b7AgPjGW06gqhQyLjJpk5uQ+EKCIOgfOaMmUufsn1xdYHQX6I/VsbM+7Xh3aEIwj1nh6AndxIWxL7NQPhdrTxqvlQnzNfqlAVhjEM9PTb06Kp4085/TRAGlSD5jwnKTZ52gtZyFwMg3BOkR1clHlgGDMTNjWeAiHh4O2M2qlXzp163z61AlYXB6ECcJdSh/cHUpPn1fTMwQwOJhL0ChGXUoOePL/sgRCgQ94UGoe1NpWKqT4v2HgMRWd/aagl6URgKgkq3OgOhPj8zY2cH99hDnEn0Qd2NwQF7dYFeLl6JHlQqFEwxP++D0A8zIvu4Zgh9365c80Gf1sd9TGiQRr0ql7aBmK/Qrxloo3jdCdKjNyneRsXLNehbreaDZGqQICylBr1bvblbkJeDMEMahJejnSdKZmiCUK9BSBUSJJOiHl0V72UuEIIv5wzJDM0ZnE2l7FXOTqQgohAYABkXA+AebVxeRCaZDGAiB8lZwlWC0A/9sxNp03e814wMd5n+C/t9nASV5y/5IGRpYtoC4YS4QPwcSBDqCVhfXvbjyOF9Pgp98dmQM9Tm7KA0QHof8SgThGduaA1Kj3fZOi4XPhuRgYhCPQYgCO0yHRCTzx3wZ4cgZGkJIkqP7igeyLVs7YKelQ8GQOj/eumqD0IOCpGHgiC5bBLEIy+P+++f3ebHZrf5/KEBArxjEDbrTiAeeZ0QGXK5IgPpZUO9BOkMzVyF37EvQDjyEoQcFDoPuZZNgnjkm4Hk/okE5Fo2CUKb/GRIEL9jXK4OQSiNvdAqJEaGBiEpShAjBCgWY1pvFRooQ+6fSEDtFo1sB8to9P1PRSNdoX+zp8tf1v2yzTG0jEoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xu3VXWsTQRQG4AaRovSH6ZVWRaURtdoqFlGkxVBKStrGVqsEaxqlhpY2libEGhE/KsbviiB61Zvc+F+OvLO827OTSdxNVvHCgcPuzkx2nszH2Z6ef78kxB2u9j9eEnJ74qjcGu83MZs6LNmxQyaIWF8YlLXcGVm5c9qBsv9E13APRBRADBuzPH9KHswOBAbGM9rsCKIiIROSSx9rQuEKCIOgQvakLGSOm764ukDor9HvqhPyZmO0MxRBuOfsEPTwZtKA2LcVCL+rV8blY21KPtVmDCgSBi/lvyYIg2qQ/scE5adPOEEb+XMBEO5DghKBZcBA3Nx4BoiIezeyslWryc9Gwzy3A1XvD8cH4iyhDu13Z6bl+5ftwAwNJZPmChCW0QY9WbrggxCRQNwXNghtL6tVqT0qmXsMRGRjZ6ct6GnxYhBUvt4dCPWFuTkzO7jHHuJMog/qrg4PmasL9Gz5UvygcrEopcKiD0I/zIju45oh9H21dtkHvd+cDItBCYJs1PNKuQnEfIV+rUBbpSudglC8jYqX26DP9boP0qlBg7CUNuj1+rVOQV4OwgzZILwc7TxROkMThHobhFShQRGSovcyFwjBl3OGdIbmDM6n0+aqZydWEFEIDICMiwFwjzYuLyKbSgUwsYP0LOGqQeiH/rmpjAwc6Zex0V4ZPLvXx2lQZfG8D0KWDolB8U6YC8TPgQahnoDN1VU/Dh7Y46PQF58NPUMdgex9xKNMEJ65oW1QZrLX1HG58NmIDUQU6jEAQWjX6YCYQn6fPzsEIUtrUASUB3ItW1jQ48r+AAj9X6yM+CDkoAh5KAjSy6ZBPPL6uP/41idft/vkw9tdEOBdg7BZfwfikbcTIkMvV2wge9lQr0F2hmauwu/YFyAceQ1CDoqch1zLpkE88q1Aev/EAnItmwahTX8yNIjfMS5XlyCU3b3QLjRGhw1CUtQgRgRQ2NKMZOj98xdB7Uozsjn+l+7KL4z5aEGlYNujAAAAAElFTkSuQmCC",
     "wiki_name": "Diamond amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_amulet",
     "equipment": null,

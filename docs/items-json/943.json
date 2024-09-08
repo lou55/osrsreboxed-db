@@ -1,7 +1,7 @@
 {
     "id": 943,
     "name": "Worm",
-    "last_updated": "2024-07-13",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "Ugh! It's wriggling!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoUlEQVR4Xu2VS0tCURSFPTQqmkSRWGQ+UPGBLzQRHymlaQ4sQ0okLEkspEAqKgRBikJqUFgQOBGEIIiGQaMmDaNBf2jFOaFdo2nnEtwP9uwOPtZe+1yZTEJCQuJfQdA7okKQ9igRsykQMskx2N8nphTBYdqMyrIZKfcEEvYxRCwKBAyjYkgRnKzaUF40YidpYGJUiialHB5gQnaVipcUwWXBhWrGglJCj3xEg70lE5LO8W6PqAxXoVJUj6xPzSRod6iQUISjDIWgsmBGLqBhK/LqRsRIRQjBRdaJRtHFVhayynl35jcIHo4CqK87UJjTImDuXBb36+pA8N6YR6vsZeWmF0a75FQPCcS4P5YEz8czqKYsKMeNKIS17Pw34zqsBCcRcyqYYK/kn0PQKnpxs+ZGPeNAe9fHulXLWlnp89Ma9k5RwYhdwU+qM29XcTzVwkyOFv/+wI/b0hROc3aWHv2GS/m/T/5LrL3lQ3PDg9fzKFvrYyWIu32/YH0cEYp9XCfwcjbLhJrbnm5CXFL6iVCsM6LJCBH+TkSXkZCQ+C98Ap9481bGZagtAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABg0lEQVR4Xu3Uz0sCQRjGcYdORZcoEosMFRVd8ceiieiaUprmwTKkRMKSxEIKpKJCEKQopA5FBYEXQQiC6Bh06tIxOvQPPTEjwnqvHYL9wtw/zPvOaDRqampq/yqC/sM1gqxfj4RLh4hdi+HBAZ4oguOsgNqqgIxvCin3BGIOHSTrOA8Uwdm6C9VlG/bSVgajKHpT+tEhpUEE1yUv6jkHKikLijEjDlbsSIuTvPaIoBK3IB80MATdHQriAOlFUFsSUJCMbEQB8xhPDI3gKi/ituxlI4s4tbxBNILnEwnNTQ9KCyZIQu9lcYMRfN0uol0NsOWmL4zukmgYkcEU/ywJ3k7nUM84UE3aUIqa2PPfTpqxFp5GQtQxYD/yzyNolwO43/ChmfOgsx9ku9XIO9nSF2eN7J+iwJhbpxyqdz5vknhtRBmOLv7TUQgPlRmcF9zs9hQCyevCOjtBtLb8+LiMs7G+1MJ4PAzJxqd4Xdj3XQrvF/MM1Nr188LI4/La1NTU1H69H/gY08x5xWBrAAAAAElFTkSuQmCC",
     "wiki_name": "Worm (unobtainable item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Worm_(unobtainable_item)",
     "equipment": null,

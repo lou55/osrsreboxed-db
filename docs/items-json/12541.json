@@ -1,7 +1,7 @@
 {
     "id": 12541,
     "name": "Deerstalker",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Elementary!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xs3W7UsUURTH8V0ipEUUUQwXMtle9KLA6EXQfxD0oqKoqCgqKooIoihEih5EekIQe6BCwRATKSOIiqKov+zGd5bfeOZ4x/ZhCi8cZvbOnb2fPefOnS2V1n4rh3jErv/zVg6PRw+GhyMHkhi/uT+MXd+XhBBzk6fD7MSpMPPkZATlf0Tb8DpIKEAKj5l+dCK8GD+WmZjPXPORRTWFLIeJW4dWoDgCUQj0bOxomLxzOBnLMQZivEX/WBwN3+avtYYSiHNlR6BXD44nII3NA3Hf94WR8Gvpbvi9dD8BMceOoaEk/Oyu1dOuXy0Qk8ZAU/eOpCDOY6D5qTMZEOcC+dldK2fKwERa3Hz2ICYHofLmgRafnysOpCzRFwMxjvsEImse9P7l+RRENAXSuvAgJvcgLdIN3dXkmAf68PpCFvT2Rvsg+gEJxdhK32Do7K+FdR2dKS4G+jh9sVgQQSkFYlzflt2hZ/POUOkdDOsrPQlKMIsB/3n2cgr6+e52imkaZFF8uTC9tV0JpnvTcOiqbkuyRNk6uvqjoC9vrkRBfvacVk8960Eg9SkzFkSGwORlCdDXuautgup7EBkSiD4mI6rDe7PZGdiariEPEoqsWpDdFP3srtUfeQsShlJ0bqyFge17MhkSiLAg3SNYYSCh+HKeKEBgFFo/gigYr6wSfEfbIF82BZlR2JJZTB6IXVqYhkA8YTGQXge8kywuFh5Eny2ZQH72SFsG+YWtzQ4Qi5TPevkSPIkE93ggr43CQELRz+MrENftpsm5zaQed8ayS1uQUH72SKuDYmVrFcT4TzOXUhB7UBP7UBZky2ZBHOn35fIg4G2DeMr+BmIy+x/IgrTWVK7CQL5s9FuQX9B673GfxgJaeHo2A2IPanofipXNgjhfDWTXTyGgWNksiGuxBU0wzq6fNkG0lRtdLPz6UXgQ/6UtSNEEqFTStr5aeKANu34KATXaPLIRrGJ57H9qHhkLf8+abn8AkmxSzFRvr3oAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xu3WXWvUQBTG8S4ixbK0lJZKF6ywXnihUPBC8BsIXqgoKiqKiooigihKKUrVUnyjUOoLKi1USi1FK4KoKIp+spF/whPOzE7qZhPFCwcOSSaT5LdzTibb1fXvt5qLR+z8H28193D8gLs/tj+JqRv73OS1vUkIsThzyi1Mn3Tzj05EUOGPKA1PQUIBUoSYuQfH3bOpo96DOeZcGD6qELLmpm8ebEGxBaIQ6MnkETczcSgZyzYGYrxFf1sZd1+WrnaGEoh9zY5AL+4dS0Aamwfiuq/LY+7H6m33c/VuAiqE4ab61QLx0Bho9s7hDMR+DLQ0e9oDsd8mqOalgQepuDkOQTwchNKbB1p5erY6kGaJvhiIcVwnELMWgt4+P5eBiEIg1UUI4uEhSEW6oa+RbPNA716e90Gvr5cH0Q9IKMb2DI64+lDTreuuZ7gY6P3chWpBBKkUiHGDW3a5/s07XM/AiFvf05+gBLMY8B8XLmWg729utYuh+SCL4ubCDDR3Jpi+TaOut7EtmSXS1t07FAV9enW5UxAtnXrqQSD1aWYsiBkCkzdLgD4vXukUlK5BzJBA9PEwojG6x5+d4a1ZDYUgoZhVCyqwKKavvAUJQyrqG5tuePtub4YEIixI1whWGUgobs4bBQiMQvUjiILxmlWCe5QGhWlTMDMKmzKLyQOxSreJoaVvWAykzwHfJIuLRQiiz6asI1BY2FrsAFGkHOvjS/AmElwTAvlsVAYSin5eX4E4bxdN9u1M6nVnLKu0BRVApaBY2joFMf7D/MUMxBpUYB3yQTZtFsSW/jBdIQh4aRBv2e9APMz+B7Ig1ZrSVRkoTBv9FhQWtL57XKexgJYfn/FArEGF16FY2iyI/bVAtn4qAcXSZkGcixU0wThbPyVBNH8NyYuwfhQhiP/SFqQoAGq3tSIVtn7+Imit1opsjf+tXPsFSGgIQKizegUAAAAASUVORK5CYII=",
     "wiki_name": "Deerstalker",
     "wiki_url": "https://oldschool.runescape.wiki/w/Deerstalker",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 23364,
     "name": "Staff of bob the cat",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "A staff styled after the elusive cat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xs3WXWvUQBQG4M2FlPZCERaXZumHK72QvagIXgjiX1BRVKqoVVRUEERRSlG0LcUvCqV+oNKCUmopWhEERVH0l428E97ZM6dnt5tulA4ckk0mOU/mTCZbKm3+ljg7rPP/vCXuyfhR92jsiI/pO4fd1K1DPohYnB11b2fOuoWnZwyUfoiO4RmIKIAYGjP/+LR7OT0SJcZvnNMRo3IhEzdz99gaFLaAMAh6PnXSzd4/7vtia4HQX6J/roy770s3N4YiCPscHYJePzzlQezbDITrfiyPud+rD9yf1UkPQo49g4M+dHbVsmHnUxOEpBZobuJEAGHfAi3NnY9A2CdIZ1cticqARJzc+K1BSA4Ey4t9WRqCVl5cLA7EUcIxC8SRROD6Sv+A21Yu+yDq46tLAYTIBeK80CAk1yA5oQna3tsbQER9enM5Br2/3TkIxwEiiiMp30iWDJBytepx10bP+WOFghAASJCe0ByhkbQSla2ruzsC/fpwL2BygySKr68GScze/j5XT1O/L+Pru+smSGdv0rKbIFkrkDWhAcJWvvLo+23xxkZB2RqEEVoPJCe0HA2UVoLQX4Lkoqizq5bdzAIhLBCO+5Gp9bmeri1rQOhXKIgoBBJgxUUC7PONGt5ZDaOD63S5CgPJUcJWgtBPYjiKFmj52YUAwipNTFsgvDkWiN8ngtD3wO5doUzNQOiLz4YcoTZHB60B0vMIxzVo39CA32JSWyCWC5+NwkBE4TgSAIR+B+tDAUOQHEkJ+jx/JQIRpbMbLQNZZSMou1HitvZkq+96IDzAl4WrAYQ1KMc6FINk2XAM5zFvapXsgykxFgij0zEIb48Fwrn9tdQNV3f4ffnJkCDONZarMJAsGzH1tPH/Rn4yiCEI9yAIr7wEYQ3KvQ5ZZcM5BJ4YfVqB5PwpBGSVjU+NJDgHhAXiZ4Pl6hCEFv9taBZ6/jA0CIuiBDFygEolLuutQgNlyPlTCKjdppHtYBmNvv+paaQV+ppN3f4CQEqOZ+E9OIAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC10lEQVR4Xu3W30sVQRQHcPchRB+K4NLFvah0w4e4D0LQQxD9CxVKikZlUZFBEEUhUvRDREsE0ZIKhUJMpIwgKIrC/rKJ70zf9czs8d67d7fooYHDrrtzdz57zsysbW3/fouMHtr9P94i83RywMxOnLYxffeUmbp90gYRawtj5vX8ebM6d05BhS+RG+5ARAHECDErT86a5ekRb2D8jXth+KhMyMjM3xtMoXAEhEHQs6lhs/DgjO2LowZCf4n+vjlpvq7fag1FEM6ZHYJezoxaEPvuBsLvvm1MmO2th+bn1mMLyoTBQ/nWBGFQDbT4aCgB4VwDrS9e9EA4bxIUeWXAQJzc+DsEYXAgWF6cy9IQtPn8cnEgZgnXNBAzicDvyz29Zl+pZIOo9y+uJCBEJhDnRQjC4CFITmiC9nd1JSCiPry66oPe3skPwnWAiGIm5YpkyQApVSoWd33sgr1WKAgBgASFE5oZGonLXtnaOzo80I9395vFoPkgieLyDUESc6Sn29Ti+PeAO/H5zY1WQWjuIRisHkib0ADhKJc8+n5Zu9kqyO1ByFAjkJzQMhsorQShvwRl2BTdwzQQQgPhus1Mtdt0tu9JgdCvUBBRCAyAHRcD4Jwrqv9gJckOfheWqzCQzBKOEoR+EsMsaqCNpUsJCLt0kxg0t8I0EL9PBKHv8cOHkjLtBkJffDZkhloChfMI10PQ0b5ee8Sk1kAsFz4bhYGIwnUMABD6naj1JRiCZCYl6OPKNQ+UAeVAWtkIcg+KzN5Ot/s2AuEFPq2OJyDsQRn2IR8ky4ZruI95Uy27D6bEaCBkJzcIq0cD4d6xamz6KwfsufxkSBDnGstVGEiWjZhavPP/jfxkEEMQnkEQlrwEYQ/KvA9pZXMPiOwbo089kJw/hYC0svGtMQjuAaGB+NlguXKC0FwmGkU4fxghCJuiBDEygJptaSRDzp+/CKrX0sh0/G/52i/2N0PbWS6FiwAAAABJRU5ErkJggg==",
     "wiki_name": "Staff of bob the cat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Staff_of_bob_the_cat",
     "equipment": null,

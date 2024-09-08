@@ -1,7 +1,7 @@
 {
     "id": 22451,
     "name": "Battlemage potion(4)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-06-07",
     "duplicate": true,
     "examine": "4 doses of battlemage potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xt2X30tTYRzGfSG2cVgX3XTjzYJ+IGklpJCmrpZKmmyrbdqUxFiY7JdDNxGZYiUhCZYYmtUivAhBiyKbIEEXdRFBEAQx/5mn833P3u3s1Ztg5wx64GFjv86H5/u8321VVf+HGEpdUTFMRU4jfOsk+r3H4G6vrjQUw8eME+9ftHE/GD+LRKimklCsALO50oLZxBnEhk5xoHMOh9lQWmcE0MbyRUzHavn4KtAnht6+AQSDg4V01h838z7dHTgBl+sqOjp7zIRiCIWG9zkQCMLjCaCr24uWVpeZo2OIRGKIRuOIxUYRjye4/f4g3G4/LqsJNTQ0mQuUTKaQSk1w0/2xsSRu+G7yUV1ocqK2rt5MIBLD5tZbZLM7qrPY/rQDr7cXrW3thVITjKlA4XAU6XRa9TQ3jct5qbMSMCTGxyRgBBD1x+RRCTHsvTpfAkQjc13pQmNjs5lHnsSQWz6MvUx90Src+qgNC4NWjPVYzEyJ4ct9BbmXdSVAn2cVbIzbsHTbisnrFkS6NCj53QZITefpEQ4kTEAE+W5CweqwDTMB01Ji+DpnR27teAkQmR7fnlKwNmLDvT7TUtK6k3teo1kH9O2hHdlpBa9jNswPWJH2GZ4S4xfNPXMUgXSm53ZnFLxJ2LA4ZOUppTwWjHQalhLD7yf5cZEloO/zdl7sraTCiy1SGr1mSEr5dFaOFoEksB+P7CXFpuNvYEoMvxbz45KB8v65YC8UOxPWjv9cvyEp5U8WlZmA9D4AiIpNC1KkRCuAUop3ly0lxseRW63eD6QDowT1xdanRCugjCkx/FnKAwnLQKqp8Ppi0/HXp0Qr4E5HGVMqAToAjKBFsT9MainRkqQVQD0adB4qJFSWlPjXBZlOmrAeTu2Y3COCoXH5msoKI6T9CuTlluEkIAEjemMAjCbtA8V/Lik19ZaKTTC0FGWQssPoVbxAEU62KSAHSX9h2fJr/1V/AeBYKg8PwaFfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xt2V30tTcRjG/UJs47AuuunGm4J+IGkhpNBMXS0dzWRbbdPmaBgLk/1mbiKyiZWEJFhiaFaL8CIELYpsggRd1EUEQRDE/GeezvvdOdvZ2S63c8AHHjY22PnwvM/7rqXlcIih2rqKYTZyDuE7ZzDmPgnnQKveUAyf81Z8fNXP/WjqApKhNj2hWBlme60X88nziI2f1Quo1BkZaGv1MnKxdj4+HfrEMDIagN8fLKez+bSH9+l+4DRstusYtA9rCcUQCk3U2Ofzw+XywTHkRm+fTVugSCSGaDSOWCyBeDzJ7fX64XR6cVVMqKvLoi1QOp1BJjPNTe9TqTRueW7zUV2yWNHe0aklEIlhe+c9CoU90QXsftmD2z2Cvv4BPUpNYgiHo8hms6Jz3DQu6xW7HjAkxsckw8hA1B/dgA7eXKwCopHZrjnQ3d2jNRRDcfUoDvKdFYtwmwkTloJGpIYNWgIxfHsooPi6owro67yArSkTVu4aMXPTgIhDMygxnefHOJBsAiLID9MC1idMmPNplhLD9wUzihunqoDI9PnurICNSRMejGqWUqk7xZdtJSuAfjw2o5AT8DZmwmLAiKyn6Skx/tDiixMVIIXpu/05Ae+SJiyPG3lKGZcBk/amQTH8fSaNi6wC+rlo5sXeSQu82HJKiRtNAZLSWTteAVKB/Xpirio2rX8TU2L4syyNSw0k+feSuVzsfLi0/gtjTUlJ2iwqMwEpXQeIik0HUk6JTgClFB9qGBTj4yiut9YCKcAoQWWxlSnRCWhgSgz/ViQg2Wog0VR4ZbFp/ZUp0Qm4N9hAqCqgOmAELRf700wpJTqSdAKoR0HrkUbBkKS/CzJtmmwlnNgxdY8IhsblsTQURhb9oHSp1XAqIBmm0puGwyglP0CVmvhKxSYYOooagNRTBa7Wh1D/AVjY9PV21oCIAAAAAElFTkSuQmCC",
     "wiki_name": "Battlemage potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Battlemage_potion#4_dose",
     "equipment": null,

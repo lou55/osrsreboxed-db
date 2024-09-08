@@ -1,7 +1,7 @@
 {
     "id": 2642,
     "name": "Dark cavalier",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "All for one and one for all!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xs3WTWgTQRQH8Al7FTwoCAVtRYrgRfHixYMXD178QFFRUVRUFBFEUUpR/CjFGCnE+oGVBColhhIrBaOitVjtJUgRPPciFLwUAp7q6dn/LG/z9nWSdj+UDvzJZnea+e2b2ekas/xbhtxxXf/nLUO57v2U7dpn03t9L/Vc3WPDiKH8SRrsO0HFB8cdKH0TieE+iFEAcTSmcP8YPe09EhoY33FNJ4yKhMxQ340DC1D4BITDoMc9hyl/66Dti08XCP0l+tNwN30oXYmHYhCOuToMGrh31IK4bzMQ/u5juYs+j9ymiZG7FoQxtnR02OjRVfPLznfNIAzqAvXfORSAcOwClfpPhUA4ZpAeXbVMaBowEM4Bhe8ahMGB4OltBhp+ciYdkK1WNms/cc4F4koyCFXToFfPzgYgJBKI1wWDal8mfNj84BokF3Qr0Ovn58Kgl9fig0y7oYFczj82jceeKymfyGag0cL5dEHfJr9StVKh4sN8AHPFBQL+7eDFADReuRlgIoMY9Wtmhn5MTVG5UKDOVSaU9pV+2laYAKZB715ccoL06E1a427lk/ZzeprGq1WL2rzGs9m02thonEQB9H7oclyQv3hRIQ2qz87aKk2OjdG2tR5tbfMD2M4NHu1Y79H2dV5wjW8Ma06C5KaoR1fNf+QliH8U+V2vWxQqhcGB0MF5gGTkbyQC4TumgadltFSiP3NzZDo9+l6r0a75TxlGoUpcPR38ZmyQRvG62b0xHI1iEPeX4UpFesIkiKeNq+QCyUQB6dEdrQHSC1uj4oTXUCIQo3A+LoqrIndq/9yizQe5pg3n5EuWC8XXdN4ULwSPPfagCPtQGCSnjUF4r5EwGf1yhv0H/ROB8JQtBsJg8h0IGycCEP8fQ99UQXracF6C5CsHYxjEfQEqPzodAmEPirwPuaZNgnDcCsQVQt9UQK5pkyBck+9AEoR+cv0kBKEtXKyu6PXD0SC8S0sQJwLIGN7WW0UDZeT6SQW01KaRS8FyGn3/U9NIV/TfLOv2Fxa0JP2W+cnMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC50lEQVR4Xu3WS2gTURQG4AmzFVwoCAUtIkVwI7hx48KNCzc+UFSqKCoqigiiKKUoPkoxRgqxPrCSQKXEUGKlYFS0FqvdBCmC626EgptCwFVdHfvf8UzOPblJMzOpuPDCz0xmbme+ua9ez/v3S4rccd1f9pKiTO8+SvfsNem/uof6Lu82YcRI9jgNDxyj/L2jDpT+iMTwAMQogDgak7t7hB73d1svxm/c07FRkZApGri2vw6FIyAcBj3sO0TZGwdMXRxdINSX6A+jvfSucCkeikE459Zh0NCdwwbEdRuB8Hfviz30cewmTY3dNqBIGDyUv5pBeKkLNHjrYAjCuQtUGDxhgXDeIihldQNehGtA4bcG4eVAcPc2Ao0+OtUekGmtdNoccc0F4pZkEFpNg148OR2CkEggHhcMqnyaCmCLL9cgOaCbgV4+PWODnl+JD/I6PRrKZP48oDbtuSXljGwEGs+dbS/oy/RnKpdKlL+fDWGuuEDAvx4+H4ImS9dbxaDYIEb9mJujbzMzVMzlqGuVZ6VzZZCOFV4I06A3zy7EBaHUvlbOtO+zszRZLhvU5jW+yabVnonGSRRAb0cuxgUFgxctpEHV+XnTStMTE7R1rU9bOoIAtmODT9vX+7RtnR/e4w/DmJOgCItiMOUliB+K/KxWDQothZcDoYPrAMnIZyQC4Te6gbtlvFCgXwsL5HX59LVSoZ2LRxlGoZW49XTwzNggjeJxs2ujHY1iENeXqbVWSyWYYRLE3cat5ALJLBtID2yNihMeQ4lAjML1uChuFblSt4gKQK5uwzW5yXKhat1h51X+XDjtsQZFWIdskOw2BmFfI2EyenOG9Qf1E4Ewy5YC4WVyD4SFEwGI/4+hbltButtwXYLkloMxDOK6ABUfnLRAWIMir0OubpMgnDcDcQuhbltArm6TINyTeyAJQj05fhKCUOoHqyt6/HA0CHtpCeJEALVa6pEcOX7+IqhZqUfW539JVn4DzKHaYl2ERFsAAAAASUVORK5CYII=",
     "wiki_name": "Dark cavalier",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dark_cavalier",
     "equipment": null,

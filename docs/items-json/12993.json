@@ -1,7 +1,7 @@
 {
     "id": 12993,
     "name": "Black trimmed set (lg)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, legs and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLUlEQVR4Xs2X3WvSURjH9Wp0U0QXo5s2JzM2YzopZ8xsormXBBWnmZprq1EIEb1QjFH0MkZvDNZ6gaBBMNYYtasuoijqqj/rie/58bjj8Wj+9GfsgS+/8zvn+Hs+5+05jzbb3jc76aVr77jZ6flimp4upISW7yZp6XZCiCE2Vmfpw8oMrb8oaaDUQbQNbgAxFIBYKsz7Z0V6u5yvcox3tKmqhjIFaaeVe9M1UHgChMVAr5dytPogK/riqQNCfxn6x/Yifdu81RoUA6HMs8NA754UBBD3rQeE333fWqBfOw/p985jAQQf3t5eIdW7Ysa086jlkbUjGQhl1DUFIy8D3jPhI5SbOk6hE/00FXJTPDxEyaiH0rFhykz4RFs+7qcLiRG6mArQ3PQozWeDdDUXEk+0ux37xbcsBwqPuCh6coDGg4NaOIABCiDl/GkBhXoZCDIFxPtCBxTwOijoc1bgAAYoAKEPZolhrpci4qkF+ninPSCMHCA3i35T6hgQRo5ZUR3+Szqgn5/uV2BaAspFewQQlkh2tq+rS+hwd7cQv+uAPM4DWiDVex0zjunao3MVIGxUBmLHMowMJINZAGTEIMyQCoTTpTptBHQl7dUCyUFR9a6YceR1QIgtOFGqUxlIB9VxoNLZYxXncllXh7KlQBDqCjGHiC0IhJdTnopDuayrQ5mBfK6D4luI0gzTFBBOWCOgcma44lAu6+pQVoEwQ03ODmwXiKFkIERkbFQ4wxNS9wy3c5+OAuHOKky6hbPZxFANjLrRdUvGkRpl1bvGDCB52VA3M9EnLkkAJcf6KR1xUfbMUXr5+Y9WgGUxkH/gkPgWYpCJOFQNxKkpA+ECjfh7KBZw0ORoH8VPOasAz48PihnE6WK1DYRTVg8IH8ZtjzuNUxC+6dHGqQdCBPpfK45ZB8RQMhAgOB/iXEiGwX3HMACR0w8GQgwyHYd0y2aFkJS1BKQuGzY36pDYb67NiTb5XwnKyAwg9OOkHn23Xl2iL+tl+rpxoxUgWO3IdJJhZKlA22/mq4BYJoBsNg7rjaQCysJMAgizYwlQs6ZCNgPL2u37n0yF1En9zZ62vyQsgUC7btYUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4Xu3Xy2sTQRwH8OZUvCjioXixpKGRNtK0QdNIY2xITB8GkpAmxiSmtlqUgIgPlFIUH6X4olDrAwQLQqmlaE8eRFH05J/1K99ZfmF2dppmN4l4cODHTmamO5+d3Xm0o+PfTy7Sh66+7clFzxey9HQ+I2LpbpoWb6dEMGJ9ZYY+LE/T2ouKBqU+RNNwA8QogDhUzPtnZXq7VDR1jN+oU8OMsoV00fK9KQsKV0A4GPR6sUArD/KiLa46ENrL6B9bC/Rt45YzFIOQ59Fh0LsnJQHitruB8HffN+fp1/ZD+r39WIBsYXBTfmr5yZoJGYS8Ub5ncpleA37nokeoMHmcIid6aTLio2R0gNJxP2UTQ5QbD4i6YjJIF1LDdDETotmpEZrLh+lqISKuqPe594t7tRwUHfZS/GQfjYX7tTjAgAKkWjwtUCiXQQhbIP4udKDQoJvCAU8NBxhQAKENRokx1ysxcdWCPt5pDoQnB+RmOWgr2gbCk2NU1A73Ch3o56f7jWKQrKBCvFuA8IrkzvZ1doo43NUlgn/rQH7PAacgJGOarj46VwPhQ2UQdyxjZJAMawHIWIMwQioIs0vttB7oSnZQC7KxKBpTXgfC2oIZpXYqg3SotoMqZ4/VOpfzujLkWwpCoKyUcIu1BQvh5Yy/1qGc15Uhz6CA96C4F1bpBjFIxgyrB6rmhmodynldGfIqCCPkCMQoGYQVGR8qOsMVoX4zXM9t2grCnlWa8InOZlIDFoz6oeteGa/UDaIMkPzaUDY93iM2SYDSo72UjXkpf+Yovfz8RxvAcjAo2HdI3AtrkI11yAzioymDsIHGgt2UCLlpYqSHkqc8JuD5sX4xgphdHE2DMMt2A+HG2O2xp/ERhHd61PHRA0sE2l8rj7YOxCgZBASfh/gsJGOw3zEGEPn4wSCsQbbXId1ra0XgUOYIpL42fNwow8F+Y3VW1Mn/lSCPkwEC7fhQj7abry7Rl7UqfV2/4QSEZH0yXcgYOVTQ1ps5E4jDBqjRZEVyYCQBwuj8RVC9ZEVa439qLu0A2hk2tFFpO5MAAAAASUVORK5CYII=",
     "wiki_name": "Black trimmed set (lg)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_trimmed_set_(lg)",
     "equipment": null,

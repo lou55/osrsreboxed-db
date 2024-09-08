@@ -1,7 +1,7 @@
 {
     "id": 25106,
     "name": "Extradimensional bag",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-10-28",
     "duplicate": false,
     "examine": "It seems larger on the inside than it is on the outside.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADO0lEQVR4Xu2W70tTYRTHN+4LSSQRQ9GhmbHCijVFzGjqRKczhz/QMqwkp0tT+42JvomyH4RQL4QgzMwoMy2VqAgloigMwij6g05+zzz3PltCu5uBL3bgw+59tj33c59zzn2uxRKPeMQDYaXo2bAwJt3pzA9hn8ulU2JP/gtftYO2J1mYGKUMCZm8fFcQT14K1exNpcKqah2cY1zFUVpGPf4y2pKQQEkJGs/lzMkxKxWUwITTYx309H47PRptowbnNqY536ClMI1cDY0MzvG9z5HKiOjd4Wa6PuCjjNzcaISsdDB3K/+xoLKSlpfu8d29e96nXxgSrUXpTFtxOrUfymBUIayMSn+vh852us0KGTJ8XFdPFa3HWejT22E+Lm85pqOK4Tt8YgxiuBngdJez5JupHhq64DUjZMgE/2ClsiNHqaGnl7ztfk4ZKK716WB1BM+Jk7ocKPLWcLpk1bDC72cvxiZ0vsJGdTs0ZuqBn1Y+j1HAlclpK2lq5jSJDKhuOxUiBUQIMjcG680JyY9FqLs0Uxf69e0Z/Vx+wmMAYlI7EBFkxUYWXtOtuXlyZWgMZFDYEQqFr05wDBcVoVcTp5mabI2Z+PCRxhaXyJOlcUqFwx2dPDY0NUEDkw857agjpAxELLQnRR5aawW9Koi7V4V+f3/BNVXXfYbuLMzSzblpXQI1JWnDGI5R+KqQzW43JwQJFYxh0l63jWVUIUiIDM4hhK5Ct0FKOlKE5ie7KGt3njmh9RAhSRkuAIHaQJcuhCJHV+HC2B5kdaT1UVNX+2vJYUuMTkjShpRh4sa+c7wyWKFBbzZ3GIQgA3DB8O6Sgpcih5DsZREIIYz6kS7DRGh9rBBEZsYD/An6q7LpUmUWgyIGbpvB0tzgKldo8eVlvcPsyaaELBZpeRHCnaLF0VUobAhhb/vx9TGtfBnn55LIMGvPo9HbLbx/jVxrogPpGhWkabQ/VdNXP2Kh0LDyNoDWhxA+VSQlAGmTQkZdyX6mSqirH7VQZmLwHUZNhSB7Fh56qCnZKvCGgNcTvKqES8QgI2Hc2b+QjVQd2yCJ0Ai/u/XAxfGKES6xoSLmI6b6+D+xqWTiEY/NEn8A06M8UUL2C4kAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xu2W/UtTYRTHvdwfJJFEFooOjYwVViwVMaOpG246c0xFa2El+Zam9o7J/CXKXgihfhCCMFtGmaWpREUoEUVhEEbRH3Tye+a5e7Ze8E7BftiBD/feZ/rcz33OOfe5SUmJSEQiEBrFz7pFZNLtBYVR7HE4DMpsab/hq7bT1tQkZo1SEQmZ3LUjjCc/nWp2W6i4qtoA1xhXsZdXUE9bBW1KTqbUZD1eobAEJpwcbafHd1vpwUgL1RdsYZoKIwSKM8hR38DgGr/77BZGRG8PNdHVAR9l5eXFI6TR/rzN/I9FbjctLtzhp3vztM+4MSSaSzKZltJMaj2QxahCWBmV/l4Pne5wmhWKyPC5v44qm4+y0IfXQ3zuChwxUMXwG44YgxgeBhQ4XSz5aqKHBs95zQipMuHrikOHqb6nl7ytbZwyUFrrM8DqCJ5jxw05UOKt4XTJqmGF306dX5vQ2Uor+bfpzMS9Nlr6OEqdjmxOW1ljE6dJZEB1y4koKSBCkLkWrDMnFP3HGnWXZxtCP748oe+Lj3gMQExqByKCrNjw3Eu6MTNLjiydgQwKe5VCsasTHsNNRehF6CRTk6szoXfvaXR+gTw5OqdUONjewWODEyEaGL/PaUcdIWVg1UK70uWltVLQy4J4elXo59dnXFP+7lN0a26Krs9MGhKoKUkbxnCOwleFrDabOSFIqGAMk/Y6rSyjCkFCZHANIXQVug1S0pEiNDveRTk7880J/QkRkpThBhCo7ewyhFDk6CrcGNuDrI60Pmrqcn8t2a0p8QlJ2pAyTNzQd4ZXBisU9OZyh0EIMgA3jO0uKXgpcgiZ3Msi9SPXmAitjxWCyPOxTj6C/qpcuuDOYVDEwGmNsDATXOYSzU9fNDrMlmZKKDY0flK0OLoKhQ0h7G3fPj+kpU9j/F4SGWblfTRyM8D71/CVRtqXqVNRhk57Lbqy+nGFxtsAWh9COKpISgDSJoWMupL9LFpCXf24QqPslPA3jJoKQfYsvPRQU7JV4AsBnyf4VFkHidhQn+zfyEYaPb5hofEnxgZLxMZ/JZOIRCTir/ELs5n3colLTyMAAAAASUVORK5CYII=",
     "wiki_name": "Extradimensional bag (Closed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Extradimensional_bag#Closed",
     "equipment": {

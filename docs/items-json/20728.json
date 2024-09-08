@@ -1,7 +1,7 @@
 {
     "id": 20728,
     "name": "Leaf-bladed battleaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-09-15",
     "duplicate": true,
     "examine": "A razor-sharp battleaxe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xs3WbUsUURQH8N1P0JswSCorFDYhTZIIRIptWRBRw7a00iWjTX1TYrSIFT0s0hOC2AMVCoGYSBlBL6Io6pPd+N/hfz1zurPtuFN44bDjzB3vb849c3ZTqe0/0sYfvuv/fKTNk9lB82jmtI258oCp3Oi3QcTKwiXzdr5olp+OelD6IeqGByCiAGJozNLji+bl3PnQwvgb13SEUbGQaTN/+8wfKHwCwiDoeWXILNw9a+fi0wfCfIn+vj5rvq5Obw1FEI6ZHYJeP7xgQZwbBcJ939ZmzM+Ne+bXxgMLwhrtTU029OpqBGnnUxOERX2gxfvnHAjHPtDq4lgIhGOC9OpqpEPbgIVY3Phbg7A4ENzeKND6iyvJgZglnPOBmEncCxCypkEfXpUcCBELxLrQICyuQZyH+7I9WVe0GvTxzdUw6N3N+kE4DxBRzCTmEFScKJpcby4Ew+enpYlkQQgAJEgWNEHDY8Omr9BnujuaTW/3YXueQIJ+vL/jMLFBEoWn9YFYP4i2lkZzsrPFwfL9ebeVPpBePWIE/xyLVQOxoDH3QONOm5Wh/FFz6ljGYgqjBbuF125dN6Wpkp23BVDQg5Chv4EwB/Mz+3dZRCHXYQPnAEGUK2WHYYZkU9SrqxG88j4QQoLkFvV0tZrB7BF3DpCR0oiFjE+P23NfVqaSARGFAAgdF/N2N+wwna37zMCJNocBmlmTgQdIBCSzhE++wqiXrvaDoawwi7hH9h9s7dqzyw6ELk1MTSC8OT4Qf2KgXvAWITP4my0hCoTs4GtDZqjG7GBsgnQd4RrqJX/8kMsKvzKiQMgOQPjaSAzEmmje22CLF8dYBNdl08QxM6lB6NISRJRe3TMCkNw2nAOEmUFRxwFh/uflSQdCD4rRh8Ig1k1HZo/tMwSxB+nt0iDA6wbhLdPbxprhE2Mx+RtIgvjTg9uVGEi/bTgvQbqg2atwH+cChFdegtCDYvchvW0ahONqIFk/iYB82yZBuOYraATmyfqpE4QRbvtRoeuHoUFoihLEiAFKpdjWq4UGypD1kwio1qGRtWAZm3P/09BIX+h7tvX4DfH/isnm3hofAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xu3W70sUQRzHce8v6EkYJBUVCpeQdSQRiBQmByJq2JVWKhld2pMSIxEr+iHSLwSxH1QoBGIiZQQ9iKKov2ziPctnmZ3b09u7LXrQwJfdm529ee13vjt3dXX/fsuY+Ii7/sdbxjyZ6TePpk/ZmJvqM7M3em0IsbJw0bydHzHLT4djUP5D1AwPQEIBUviYpccXzMu5c5GJ+cw1P6KoRMiMmb99ugTFEYhCoOezA2bh7hk7lmMciPEu+vv6jPm6OlkdSiDOlR2BXj88b0EaWw7Efd/Wps3PjXvm18YDC0qE4Uv11AIxaRxo8f7ZEMR5HGh1cTQC4rxCUCayDEyk4uazD2JyEFrecqD1F5fTAylL9MWBlEnuBUTWfNCHV8UQRCQCqS58EJP7II3jvo6ujrBofdDHN1eioHc3awfRD0goZZIxAo2Mj5jO7s4IjOOnpfF0QQQAF+QWtECDo4Omp9Bj2nONprv9oO0XUKAf7+9UiqFFQS6Kp40DqX6IlqYGc6K1KYTle/PhUlYJogVfzmSbgVTQjN3XsN1mZSB/xJw8mrWYwnDBLuG1W9dNcaJox1UBCvYgMrQViDGMz+7dYRGFzpwN+oAQU7NTIUYZSrApBq98HIhwQe4SdbU1m/6Ow2EfkKHikIWMTY7Zvi8rE+mAhCIAseMybmf9NtPavMf0HW8JMaCVNTd4gFRAbpY46hWmXtoO7Y9kRVnkHnf/YWnXnl0KQezSFWJowRsWB9JfDOqFt4jM8FlbQjkQ2eFnw81QVSC/jrhGveSPHQizop+MciCyA4ifjdRAqonG3fW2eDlnEq67mybnyqQPYpd2QQlQAchdNvqAKDMUdRIQ4z8vXw1B7EEJ9qEoSHWTy+6y+4xA2oP85fJBwGsG8Zb5y6aa0RMzmfsfyAXpr4eWKzWQ/7bR74L8gtZexX0aC4hX3gWxByXeh/xl80GcbwZy6ycVUNyyuSCuxRU0wTi3fmoE0YJ62Sr8+lH4IDZFF6RIAKq0lSIVbv38RdBmrRRZGv9bbe03p/tAPYHnizkAAAAASUVORK5CYII=",
     "wiki_name": "Leaf-bladed battleaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leaf-bladed_battleaxe",
     "equipment": null,

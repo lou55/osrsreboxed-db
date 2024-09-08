@@ -1,7 +1,7 @@
 {
     "id": 17682,
     "name": "Cup of hot water",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-28",
     "duplicate": true,
     "examine": "It's hot!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADR0lEQVR4Xu2WwU4UQRCG6RchYCIHT74AJ09cCKiIiAgiIiKCiLgBBBFxCSKiIKKSJYgIhBgIojEELhA18eAzlfl6rd3ZppedWdCDsZI/u5vp7frmr6qeKSj4H0cSRnLrr0QyWbynR0b6+uRxf788uT8gTx8M2s9nD4dkKh6X6ZGRPw2XBkG9sbdeATb5aNhCzYyOyuz4uCQmJjzuHQo07YgLEFYXz56Rhupqaaqtlev19XLzSqN0XmvOB8qkSuMmiSJKSRlxbH5qSpZev5KVREJOlJREhTK2N9wEUUTyxZmXsrmyLGvvFiwIv/neXFdngU4WFYWFMrYvkJsojBRmYfpFCmRu8rnsbm3JxtKSdet4cXEUl4xtUm1UbEduYp8URiHQm7GxVEN/Xl211y6dq4rikskAYXLYVKcHkYg7xQUSABJ0BvkmbefTpnWNPY8VFoZxyaQgsoHkguEa4n8KMniny97k150dWX+/aK8xhSFcMhbCB6KJfEAuDP/hhig7n6tzc7L9cUN+fv8mX9bW7Hp6NBSQD0TLoAl97igsYg+cJunW+rr82NuVve1t20OsU+eAyQnkK4vrgM8d/R83gsO4w/HBdOEOE6Z9pSA5YAizD8RtVh+MukNCdYeDkcOVs+jD/Hxq2kKCaJgMkOXZ2YxR9gG5MCSmgSkXjx/W6IM3IgxhUiCMpwIF3fC5E4ShidWd4VhMBm535gtDGAvCVCiQ61LQLXUnCKPu8DysKi+XyrKyMNPkCyNdLS3S3drqBVKobKUChtJoM/Ok56w5X1GRD5CR3vZ2r1ygg0qFO5SLVw1eOXj1ULDkqIeO5Gl671aHxNraDpQ7VQqDOwCxBqc7rjbJjcsN9uneWFMT1SVjm5CpGLrbbRsRdyifKgjluqjiGmsVCKeAwi197XAzZwljraYZFQzHSMBbHiKJ9pgPkt+sUxDEdwQQDR7ZJX3+0JRMieuWC+cCupAIh2jsU6Wl0YF8DZqtlIDhok+sRbh04XTl71LldRaZfZOjoxwsJ5+5RKlckIgwGslNgHLBdJKQvlXiIqLMnMxMKqU8ApB0JDdIv+kplAumz6vgWtcVd+9DRXrT/Ql9yV25+x1puMlcuev/qfgFKIZPGcGftq0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xu2W0U5TQRCG2RchwUQufAeuvOKGgIqIiCAiIiKIiA0giIg0iIiCiEpKEBFIYyCIxhC4gaiJFz7TmG/rtIdlod2CXDHJn7Y52zPf+WdmzxYUnMSRhJHsOpZIJRvu7pZ4b6886+uT54/65cXjAfv58smgTA4Py1Q8/r/hMiCoJ/bBK8Amng5ZqOmREZkZG5PE+LjHvUOBZhxxAXLVlQvnpb6qShprauRWXZ3cud4gHTeb8oEy6dK4SUJEKSkjjs1NTsriu7eynEjImeLiUChje8NNECKSL0y/kfXlJVn5OG9B+M33ptracCD6ArmJcpHCzE+9ToPMTryS7Y0NWVtctG6dLioKgTK2SbVRsR25iX1SGIVA70dH0w39LZm0165erAwDioIwOdxUpweRiCfFBRIAEnUG+SZt6+u6dY17nioszAXKpCH2A8kGwzXE/xRk4H6nfcgfW1uy+mnBXmMKcwICwgeiiXxALgz/4YEoO5/J2VnZ/LImf379lO8rK3Y9PZoTkA9Ey6AJfe4oLOIeOE3SjdVV+b2zLTubm7aHWJcpY9Yw3rK4Dvjc0f/xIDiMO2wfTBfuMGGZvso5zB4Qt1l9MOoOCdUdNkY2V/aiz3NzkWkLCrMLZGlmZtco+4BcGBLTwJSL1w9rMi/e4DBpEMZTgaJu+NyJwtDE6s5QLCb99zryhSGMBWEqFMh1KeqWuhOFUXd4H1aWlUlFaWm+QEY6m5ulq6XFC6RQ+5UKGEqjzcybnr3mUnl5PkBGetravHKBDioV7lAujhocOTh6KFggVGo3fXi3XWKtrQfKnSqFwR2AWIPT7Tca5fa1evt2b6iuDgeiCZmKwQddthFxh/KpolCuiyqusVaBcAoo3Ao8dhhrNc2oYDhGAk55iCTaYz5IfrNOQRDfEUA0eAAQYdLvH5qSKXHdcuFcQBcS4RCNfbakJBzI16D7lRIwXPSJtQiXLp+r+AcSBKNh9kyOjnK0nHxmE6U6BEg0UjcBygXTSUJ6qsRFRJnZmZlUSnkEIG7o06XOSHpoi4Lp+yq69ohcyRZuMlcncbzxF/nYC7gdwCRiAAAAAElFTkSuQmCC",
     "wiki_name": "Cup of hot water",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cup_of_hot_water",
     "equipment": null,

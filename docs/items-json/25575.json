@@ -1,7 +1,7 @@
 {
     "id": 25575,
     "name": "Tome of water",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-03-24",
     "duplicate": true,
     "examine": "An ancient tome containing the secrets of water magic.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDUlEQVR4Xu2WjUtTYRTGvYwxFmMylI1tbPMDFXW0KUuLJhnkBwr5UZOVZWIqpqUu7YOKShDDkDJMTEzqPz3tea/vu3vP1tadQyF84OHC2L3nt+ec8+5WVV2o4tIo53OXRu7qdnK7W8jlajCAnQvcCcwJkL9jkIJdI+Lqi/aeNZxG1Z6YsAQKX09RY/8cNdx8RJGeNIWujlMgMUz+WN9ZwOWAYBRvuDVDHVPbFH+wRbH7m3Q5vUHtd99S+/hrahtdV+mZ4SoCqJGnplMZQEgFMNISKjrxXkG13s5Qy/AyNQ8t6UlmfwDuqwCcGaj+xqQJxgiFlCQUUjJCNQ0uqHmz2bqzjpUDpVFNTZfJHMRo2TpjUkYwOWPeth4BE6+rE+ZV/yKNamuvCQhcYQ5gtMOZUUkVAgOUnCubzaWAeNUi0oGkvd6ePAgjjASS5mByE53OAHn8fmELLdPIcemjgJDmEByGA3EwzF6wqYlqg0EFY6FlmgkGW8IL/SuQNNrlcHjzgHjlAtJhfL5eYWwIfzgHKQWEdjXGOwQMbCEdTYFIY115AQ5SDAhnD7YLg2wRBtLI7+9TxqryAlaAcBjiLyaaTOalwysXkEZO16GCwflRKB0rRquw5qGW1jLTCQwK4+xAOsWGuXN6p6ixVXLNy0znd3ZmWoX5/xGSkoUSM7sljR+CVuFUlsNsOR2AeL36ObGw84WWvu3Ryv5BHlxidq+kkQ4G2W73lAMDmYEWv+4Kz2xu0fznHQX3/PBIwV2Z36euhR95NqYjh9lCq4zSXwkAhuLws73vwkhs6sOGMADxmYTrXjxSRoJYc7vjXvZZbjHMZaSTk36TPtzB0AiFwuOi8OrBoTAg5z5t0+Sbd5R++coEuPbzOLv662R3PskCPaRE/8Bp0uHKvUThCAgEhwVcOJIShQGJNqKlABt7uqwA76ys0sDUNDUnEqdLhyv3IPMrqEwPcC+Ofwk42dJUZo2GHs9ScnSMfOFIpdLJl4TjgMb0IvVp0U4kBKiKplNKheC4zwyGy5geN//uhf5L/QGxONS+ddmP6QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xu3W/0sTcRgHcI8xxmJMhmPjdmxDRWU6mpNrFikZ5BcU8kspK2vJUllafkn7QkUliGGMMpaYmNR/+nTvz/m53X0U7a61/bIH3gwE93nt+TzPbQ0N9ap4SVROzUsif2MX+f0d5PO1mGA1wZ1gTkByeoSUzDh7DScHqo2TqDGQYuGg2PVpah1aoJabjyjen6Xo1SmKqGMkpwargSuDEBzecitP6dwudT/YodT9bbqc3aKuu2+pa+o1dU5sGt2z4ioClCjQ1GMEIHQFGB6OSs68N1CJ2+vUMbZC7aPLeie1D4D/qwDOCmq+MWvBmFHoEkehS2ZU20jBmDeXq1dLyglKoqamjCUixBx+deZOmWF8xkKd/c4wweA1hsArIgLM8XjXjU6dBQOKz5XL5XMO4gmF+k8hzBgO4hFhfBO93ggFZJnFBkoiz6WPDMEjIkSMCBJhmD2lrY2CimIXg5IsGGyJeNDfgnhwXR5PyAlIx4TDAyzYEPHNRchFIFxXa3eaYRBbGA7hwbqKB4iQ80B49mC7MMg2MSiJZHnQCFZVPMAOCA9DfMUk+/qcdcfrOzQweH6c1R07wVVhzaMdCbsYlNadyAgLnh3oznnD3DNXPDfYKr7mDrvzW5uZBIv4fYRO8YPU/N6FwQfBVeGpzIfZBgaFYU5o26U/JwrFL7T8rUSr+wencOp86cKgOxhktzvgBIOygpa+7rHkt3do8XPRwD0/PDJwVxb3KVP4cSrm7vBhdgBC6T8JAMPhyLPSdxZ0LPdhiwVA/I3jepeOjKCDWHO35572Xn42zA4x5tKHW4mOUzQ2xQ5eOzhkAXLh0y7NvnlH2ZevLMCNn8fa6m+S2/tEAz0kdWj4X7ojlt4thtMeARFljOFi8Wl2MJC4RlwpYJNPVwzgndU1Gs7NUbuqVgojVhln7h5wL45/MRy/0un1DRp9PE99E5MUjsX/F0iss7sXb86y60SHgKoSRixr96ypV71qU38Ac4qVqhC46e4AAAAASUVORK5CYII=",
     "wiki_name": "Tome of water (Charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Tome_of_water#Charged",
     "equipment": null,

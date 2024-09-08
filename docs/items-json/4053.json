@@ -1,7 +1,7 @@
 {
     "id": 4053,
     "name": "Barricade",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-13",
     "duplicate": false,
     "examine": "Use these to block enemy team movement.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xu2WTytEURjG53wBG1JMGCMzjVGkkGJSktEsJjShSUqpiVLKgpRSNhZiTbOxs5GSzUwKJSlKNpOysPE5Xj33eOfce+dfxtxzLbx1mtu5c8793ed5zjnX4/l1CbL3uFiClsb99IegBKUmOw2gXp/PbShBQ6EGWp8K0fZs+Fslc9NaUploX5MBs5mQQItjfqMv6K3TDSWBEsOteaDpoRZajQUoOdpOI+FG3TZKIASagaAOftEPOFeA1uJBizp7Cz20MdNFyxMd7gBBHWSG1UHAeRsAjCYgQdn9LXo+S9Pb9RV9vj7Rx+Mdvd9mKJe9pJujXTpeSeoPNWzZme82FIF1UAm28bLXqBBKAsEywGBlPaQPKRWNuANzf3JAL+enlMtcGA3XyA+a5jBzqVCzTVAKjVeYfYSDJWggUJ8H4rOMtwHNZ5uEifU3FwCxSqyYBiAFgyODgZRFwoBBw4pz2DYFMxdpKwmELcAM5KBKwoDB8kbjzADIvDOzSta+mpeg+KDXeIiyojQQFEODig7YpmDQcG7Zgaz2yG8i3IO1NVZJweCNYZn5wcWB5DjcY2trBKRgkAlc8+R2oMIHy3ADlMdZ5/5xKRjsK+aPLbsKpYBgF8bX6ENNviHOJXMOrJMqoOJZkTkrPraqqjRhJSCPh8fZ+6uu8hMqIF7exf+nrf6BKpUCKp0z7VUu9C6VEzBf9noVfOmhFkoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6UlEQVR4Xu2WwUsCQRTGnX+gSxGUVGSkmEEQVAglQUSGB6mQCokgCKQgCDoUQRB08RB1Lrx06xJBdFGCCiKCgugiQYcu/R0vvp3G5+qqmO6ORB88XGcd57ffe/NmXa6aJahwRKMErUx6qIGgBCWmexsFSFDQ30KbM37anQ/8QOWHo5LOhAfbDJjtmARanvAYYz53k9NQEig22pkDmg120HrES/HxbhoLtOoBQkErILiDT4wDTgvQRtRncudgaYC25vpodapHDxDcQc0od1DgGtqAoExyh17OU/R+c01fb8/0+XRPH3dpymau6PZ4n07W4s5DIS17i/2GI0gdXELatG17ACFlgMHOekwdUSIc0gPzcHpIrxdnlE1fGoFr1A9CAxDERa3SBKcQWnbYsLc5B6TOMtUGHD7bJExkqL0ISLnEhW27GAZHhgLiFAkDBoEdZzMUwyyEukoCoQU4BgQYbG+EqhkAmTuzdMnmbi0oOuI2FuEnLw0ExxBw0QYohkHg3CoEMqdHvhPhHlJbZyCGwRMjZfkLWwPxPZVaHq9JDIOawLXVogAqXlgWN0CL5/1KDIO+Yv2yVR4I6cJ867lVSz4hzqXSdcBA1r/BdxV1UaU/rATkuBjIpu1drf6BKomBGgBGqVzR/yF9AxK4yuFBVKL9AAAAAElFTkSuQmCC",
     "wiki_name": "Barricade",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barricade",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 3667,
     "name": "Boss helper tool",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-04-12",
     "duplicate": false,
     "examine": "A tool to teleport you to various bosses and setup slayer tasks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4XmNgGAWjYBSMAmIB438EHnDA+F9un8l/ud0m/8X61AbaYYz/lR/b/Vd+YAvGkrO1/ou0KP8XzJYdCEcx/ld96fBf9Zk92FGgEJJaqvNfrEvtv2CRHNhBBgoK9HQU43+1Nw5gDHKY/BGz/9Kr9f+LT9H8L1yr9J8vQYqeocT4X+uNKxyDHKV41uK/9CYD1GjjY6aXoxj/67/xQMFK160R0QZM3MKl8v/5YiTpEXWM/43eeoMxzDGgKAOFENhBK/T+i09U/y9cqQiONk4LflqHEuN/87f+KI4C5TCwg4DZH5aORBqU/vOnS//nchWmddRBHITsKFAuU7xoCXHQOoP/4jMQ6YgnVBzuIBpFHaaDQFlf6QrQQQdNB8ZBIEdgOAiYqMFZHzmn5cnRx0GgrA5KOxgOOm72X3ar4X/Jedr/xdpVwQ7iixCHO4ZmDgI5AJSzYA5DcdAOI3AIIReONHQMDDBC6i9gYoZVHeA0tA9aDgFDB5zDPIVpGVXogBHsCKVbNmDHgUIHnKBBVQewUOTxE6FX6CADRnDOkj9tDgmdRTrgqAInZPo7BgaQG2cIPECOgQCY5egYXd0oGAWjYLABAKChgGtojmHQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqUlEQVR4Xu2Vv0sCYRjHfWkqRJETDxVPPNHIpExMjX65CEVQU9DQ0NYQNAQNDUFDEDQEQUMQNARBEDQEQRAIQdAQDUEQNAVBEOjf8O2e57r0sKEG31vuA898H57n+33P43FxcXH5KwLNcRwBrVaAdlNAaC/ttJhA8n0CybdxnvBRBsHtJAIrMSekBFKfFaQ+JlmKNhQ5zSK0m0ZgTXNGKF2v8JBY/K6I6Pkg1IM+KJs6fEsRmVICmXr1Z0gq8VhG9DJnP5uvS5aUwGB9yjb6y2jzbEa4lfU4fIthGUIC+cYMjyVDJ6MNsdDZANT9XigbCT5bd9nfaSmBUmPOJkUNYyGj/laOgls6/MtR9FSVTp/OFGqVopYlnkZMoYsc1MNmjrzzqnwhqr7+bAjdDjsjRBJtQkaoufqtTVvV5AhR1Sk7bUL3RcSuhhA+7kdoJ8VCvgW1kzKEYAFqliVmE7rO84YkP47C/H8ZYbZ+HZyh2vc7ZGyHGzatyBIiBEvor2MsR9vhQNOvw3gUvbNBmTIWgpsVfyiZ2znJ8qk4yPJlLOjDv42Li4vLv/kCwv9g4W9wrRsAAAAASUVORK5CYII=",
     "wiki_name": "Boss helper tool",
     "wiki_url": "https://oldschool.runescape.wiki/w/Boss_helper_tool",
     "equipment": null,

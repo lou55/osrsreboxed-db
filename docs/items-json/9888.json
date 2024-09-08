@@ -1,7 +1,7 @@
 {
     "id": 9888,
     "name": "Teak treasure chest",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADO0lEQVR4Xs3XbUtUQRQH8N2P0MvelBEFFpiGqZG4SYalgoqmi2aWpaTRk2VipuVDlhkLYiYFCYGYSPmqF1EU9clO/mf5r+ceZ2WvewsHDnvv3Nmd35552NlYbO+XuPjD9/yfl7jMjbbI7Eizi5nhJpl+2OiCiJX5a/Ix1S3Lr694UPZL5A1Pg4gCiGExH15dlqWZjkDHuMczG0FUKGRcUmOt21B4BYRB0OJ0Uuaftbm2ePWB0F6jf66PyvfVB7tDEYRrZoeg9y87HYhts4Hwvh9rI/J7Y0L+bEw5EPooLihwYXs3JZ12fmuC0KkPtDDZngHh2gdaXegJgHBNkO3dlHhgGNARJzfuLQidA8HhzQZaf9sbHYhZQp0PxEwShKxZ0Jd3fRkQIhSI84IgPRnziQDo0yNXFxqE+6Fb52Wwv0Zu3zgrAz0JudldJT2dZ+RqskI6Wssk2VwqlxpPStPFE9JQWyS11cekJlEo1ZVHpbLssFSUHpJTJQfdZ0UCenzvggzfqXWou33nHAyo3q5Kh+pqK3cwoFrqSxyqrua4g2kUQb8+j2cwuwI9HaqXscE6h9LZSpQXOZTOFuo0CpmqOn3EoXwg23uWkh5zTFC8To80yuRwg0PpbB3Yv88ByosLM4F7O3zIElC7BKX3IGSIoNnxzX3oSZNDAQEYOmZoEFHIElDMElAE6U3R9m5KeslbUGpqc+lPtDgUsoUhBMyXIYL4HMFJHhlo4UW7QyFT6ICZygZCvV55nOB5gxAEzT9vC3xrZEkPmw1McLTTExyfhV2amJxAWGEWtDibdCBmicPGlcftAHsUV51vK2CGcswOyhaIKNQtzXVkho1zSa86bAXZ9ic9dJGCmCWAfFnKBUUQUbZ3T0mD9LC5ulSnA9kshUXhs7AHhdiHgiCNiiLw4xoahFVmQTxS4MiBgxaOE/oMhBMBAj81PHqgLY4qaP91eUC+rdzPD2RXG+o1SJ+BiCGIbQFae3M9AMIeFHof8g2bBuF6JxAzhLaRgHzDpkF4pv+VaBDaAcThyhOEsn0y+sLOH4YF4SytQYwQoFiM2/pOYYE69PyJBJRrschcsIyttv+pWKQv7Hv2dPkL9QsdmcTek/kAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xu3X70tTURgHcPcn9LI3RUSBBZZhzmi4pMVKhU1mc2yZtVLK6JdlY5mWuqxlDMYyKUgIxETKV72Ioqi/7MnvWd9x7tmZ7e6u6EUHHu695x7v/dzn/NixpeXfLz6xh+3+Hy8+WZyKST47oGIhE5Xc3YgKIlaLF+VtYURWnp+3oMyP8Awvg4gCiGFi3jw7J8sLSceLcY17ZjhRrpA+KUwPVqFwBIRB0FIuIcVHcdUWRxsI7XX0140p+bx2pzEUQThndgh6/TSlQGxbC4S/+7Kele+bs/Jjc16BXGHwUH41QXipDVSaG6qAcG4DrZXSDhDO6wT5HN2AF3Fw49oE4eVAsHtrgTZejjYPxCyhzgZiJglC1kzQh1djFRDCFYjjgiB9MHoJB+jdvV/1vy1OEK4nr52SiashuX75hIyng3JlpFvSqeNyIdElycFOSQx0yNnIEYmeOST94TYJ9xyQULBVegL7JdC5V7o69sjR9t3qWU0B3b91WjI3wgp1c+ykggE1OhxQqOG4X8GAivW1K1Rv6KCC6SiCvr2fqReDUg16ONkn0xO9CqVnK+hvUyg9W6jTUchU97F9CtUgCKXc5xigOOayEZnL9CuUnq1dO3cogP9wayVwbXYfsgRUg6DyGoQMEZSf2VqHHkQVCgjA8GKGDiIKWQKKWQKKIBeLYnnKm6DC/NbUn40pFLKFLgTMliGCeB/BQd40UOnJkEIhU3gBM1ULhHp95nGAewYhCCo+jju+GlnSu80MDHC00wc4noVVuk4MSnmGmaClfEKBmCV2G2celwOsUZx1tqWAGWoIRBTqlheTlW7jWNJnHZaCWuuT3nVNBTFLANmyVA+KIBeoMkjvNlVXSCmQmSW3KDwLa5CLdcgJ0lHNCPy4ugZhlpkgbimw5cBGC9sJfQ+EHQECPzXceqAttipo/3FlXD6t3vYGMmcb6nWQvgcihiC2BWj9xSUHCGuQ63XI1m06COfbgZghtG0KyNZtOgj39P9KdBDaAcTu8ghCqR6MtjDHD8MEYS+tgxguQPWWaiRDHz9/EbRdqUZWx//irfwEqwfS/tvhprwAAAAASUVORK5CYII=",
     "wiki_name": "Teak treasure chest (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Teak_treasure_chest_(flatpack)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17573,
     "name": "Torso",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-31",
     "duplicate": true,
     "examine": "A decomposing torso, from which issues the acrid stench of the grave.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xr2W60sbQRTFnQ+l1A+WUqlo8U0sGvER1KQkasREYww1aVobrVq19VmkRSiFQhFKKfSvvvXc5ayzm4ea3fTCwd3ZJfPz3DMz29Z2rzJyN7W8nIk62h9Vqf3hgyq1GMpIX9cTGe3vksnh566igz0qjEd6n+k7PZ2P5WlHuwJNDQy0AsropLOj/bIwFZHV+JhkZkf1OjUxrOOxkV4XbKinU8FaBGQkER2UpdiI5BNRKSQnVLiuBUbX4BbAQm6bURAAFOcnpbw47ZENhvcABngbLESXjE6Iid8uxVSVzIxHGAMoweAWwOAWwNBGgIXgkvEAbK/MyW4u7hHGIDwHNMDqtTGgS8YDsJ9PqA4LSVccgwiHf6BeGwHWpEvXziRjHoCjVynVaXFBxXuKgHTLbiOA0Dq2rQmXHCAb4Pz1oly8SbvCPWVDAgxu0SU4xJAHCLcDdJhN6uRfNpdVl5WMiveQHxIwzBMDTiDsTYGBAPBtO6v6vrPqXkMEhOAQ3GGO2C5mCPkJAIQycrSSUogfezn5uZ9X4ZrCM7gEZ9AuBtyGgksECrjSHKDLYkauDtbl18eC/qXoFltKKL9Ldtu4UTa50lBGgX4fbbiiU4CCS4DyAyFHtYC4SbJ1/tnuUA7QVWVdYf6cFOXvWUmvbwOqF2wevjjjmoZijgBxXyAE2w8EBc4TV1kzQFxpFAChAEAoo8sb4WaWAMh9qREQvxIo+0uhybaxnE9XQN0GxEO3noqJiKzNDAV1CWW0XY2Aah3E1NbCmJRfXn9bzQ3LyvRgOEDITS0gnmf2+UftLY+rbJj0eJ/MjwXal1jGBWKo7TPNPutO1qbk0+qkHGQnZDP1wtMqCg6F4hKPD55nPOMuCjE5z0+rAAQRxg8RAgzrxiWAfd2YdQUgClDd3dyZvSD+XwxYTrgvS3Me2WDbWyUpl9elVFpThRDgRuU4BBfQEmTkfTqqqwjPjo935ez0g2pnpxxWVhqV0VahJQitP6T2fT6/LPF44E3wLlW9Um5ccFz6fL4vlXdFKRSyksulWw/VOKQ3wH5w/5v/rfzO3RfmH2//Fpu9SPngAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4XtWW7UtTYRjGfT5E5AcjkkRDRUVDJ74MdYtNnbjpnCO3ZjZNTS1fQwohgiCEiKC/+s7rPlzH5xw3356doBt+eN7g/Lzu+zzPmpruVEZuR+Tlvail+dEVmh8+uELEUka62p7IYHebjPY994n1dCi43t/5TJ/paH0sT1uaoxQy+tLJwW6ZGeuXxcSQZCcH9Tg90qfX4wOdvlhvR6uKRSRkJBnrkbn4gBSSMSmmRhQc1xJjakgLYg2WMioCgdL0qFRmxwPYYngOYpC3xRooZPSFePGbubhSzU4EwDWIUgxpQQxpQQxthFgDpExAYGNhSrbyiQC4BnAf0hCr10ZHIRMQ2Ckklb1iyofXAOXwD9RrI8TuKXWRTCoeENh/lVaOSjMKzwkFmZbdRgihdQ5t84RsgZPXs3K6mvHBObElIYa0mBIS4pA7DLcntJdL6cs/r80rZ9WswnMQloQM54kDTiGsTc5CEPi6kVO+bS76x4CCAAkhHc4R28UZwvw4CKGM7C+kVeL7dl5+7BQUHBPcQ0pIBu3igNtSSIlCjl+aJ3RWysr57rL8/FDUv4RpsaWUCqdkt40LpZMUhH7tr/gwKUghJUiFhTBHtYS4SDq0zhM6ry6rzO/Dkvw5LuvxTUL1BpubL/a4e0txjiBxVyEMdlgIOM8Tv7L7CPFLIxAEDkIoo583hpuzBEGuS9cJ8VcCsX8pOEsBSN0kxE23HqVkvyxN9LoKoYy26zqhWhsxWZ8ZksrLi99WU32yMN7TGCHMTS0h7mf2/ke254cVWyYz3CXTQ07rEsv4Qhxqe0+z97rDpTH5uDgqu7kRWUu/CLWKOJeXErcP7mfc406LcTkpjCsQApRpoES4LlOC2JeVSR8IEUi1t3NljkSE5Q33WXkqgC22sV6WSmVZyuUlJXIhJIQU0BLMyLtMTL8i3Ds42JLjo/fK5mYlahmU0VahJRjaq0N6eV4ozEsi4bwI3qbCEsF7SOnTyY5U35akWMxJPp+p8+w/K1u4nvh/Vn8BV53dNI9HpfYAAAAASUVORK5CYII=",
     "wiki_name": "Torso",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torso",
     "equipment": null,

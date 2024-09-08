@@ -1,7 +1,7 @@
 {
     "id": 16404,
     "name": "Ground sulphur",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "A pile of ground sulphur.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaElEQVR4Xu2U7yoEURjG56RtOqeTa9hL8J3iA/fAN65AbkA+kSQiSSKJKCJpiyiiWEVE0dZ+cCePnnM6O2Nmbf6Mmej86m2nmdrzm+d93wkCj8fj8fxbBNJVGAJLixJ7uwob69Jcd3W2FSkmcFRRuDhXqBwq7GxHYnOzsggpgccHber2RuPkWOFgXzVpYa7tTB4o0FEum1+mtLIsMTYaYmiwhL5e185MSB/crCjjhNhKpsZWUsy10T7/EQIT4yGmJkPMTNs/Xpi3s8L7I8MhBvpL6OlOJtBK+NvYTeIbrq1KM7Rbm7IxwLzHZxR0cpFAEDiBeCVP+CLCrDWHlZvErWLxmvcpRsG4GFNkmu/Tygw7C6yrS92os9NIjLKUc2IZtucj7Ho/P9m6v9OoXmsjSTEOLuXcymfYnlbYt36tt6P2En17KOZS++VU0rh1ZtVrNi2KMbHcZeLExXKYl88Tn5XCZTwez1/nDeIaSeMTpt8+AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSklEQVR4Xu2UbysEQRzHb9K1zTR5Q654wHtwz3gF8gZ0j0gSuaRLJBFFd0lXRBHlTxFRdHUPvJOvvjPNzbbOs7ldaT71q212299nf3+2VIpEIpHIv0XgZxSGQGNDonmssLcrzXVlZKhIMYGztsLNtUL7VOHo0IutrcoipATeXrWJp0eNi3OFk5bq08Jc25lN6JIKU6WtTYnaXILpqTImxl07g5BN+lv459lKVo2tpFjANgoszCdYWkywsmxfvF63s8Lz2ZkE1ckyxkazFcjKBpJhYn7hzrY0Q3uwL3sDzDPeo6CTC5i8H8KsNYeVm8StYvCa5xSjYFqMVWQ1ByRlZ4Fxd6t7cXXpxShLOSc24AoRu94f7zZenjUe7rWRpBgHl3J+5XPBfvVXdxidT//voZirWo4yaaxYt2OrRTFWrCCZNMHXORKJRP4U3xmdIb9dzs/ZAAAAAElFTkSuQmCC",
     "wiki_name": "Ground sulphur",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ground_sulphur",
     "equipment": null,

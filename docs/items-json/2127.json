@@ -1,7 +1,7 @@
 {
     "id": 2127,
     "name": "Dwellberries",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-08-27",
     "duplicate": true,
     "examine": "Some rather pretty blue berries.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xs3WXUsUYRQH8FmGLpJlP4MQ0WXRTZ+hq8rCInvBosLeSIpCpOhFpDcEMY0KBUNUpAwhKpLe7voKQRddBX2Kk/9n/I9nzpxZd9wpfOCws8+c2ee353nZjaLN32rih3f/n7eaPBo8KA8GDoQYvrFfhq7tC0HEzGivTI+clKnHJxyU/RJtwxMQUQAxLGby4TF5Onw0MzDe456NLKoUsiYjNw/lUHgFhEHQ+NARGb3dHXLx6oGQr9GfFgbl4+zVjaEIwjWrQ9Dz+z0BxNwiEJ5bnh+Qr4t35NvivQDCGLs6O0PY0U1Lys5vTRAG9UBjdw+nIFx7oNmxUxkQrgmyo5tWy0wDBuLixnsLwuBAcHqLQAsTZ6oDsUro80CsJEGomgW9fnY2BSFKgbguLAiDW5Be0AThMyzozYtzWdDc9fZB6AeIKFZS70g8H++Oc6ilyb5qQQgANMguaGLiPVkQct9NX0xBn1/dSjGlQRqFD/dAGYxTHeS+f3nZBdnRC1pyeGGwZiAuaORu7ZqTeGcx6MNM/0ZByRmECq0HYhXxTEf3Uoh4294cCPkapA9FO7ppyZb3QAgPhP4AOv5FGpd+SUfPcgaEvEpBRCEwAE5cDIBrbnFMF2LLji6JtucXdGUgXSW8EoQ8BipTv/Azqc7KlHmg+SenUxBOaWJaAmHneCD9FyPsJizglaj3fpfGld/S6P8j9b4fYcrQTxSqg58NXaEWq4O2BrLrKEBWEdzeufeqD/mcLvxsVAYiCv16qooiRa6iAMIprUFE2dGdloC8aUMfvjEXNe7rUxzXrCSD+W+nzqcgnEElzqEsSE+bBnHLawxBeEafP22DsMvWA3HLeyDk6e1eGchOG/o1CIPb6SKIuQBhy2sQzqDS55A3bRqE62YgVgi5lYC8adMg3PMWNAJ5ev20CULLb2Uv7PphWBAORQ1ilABFEY/1ZmGBOvT6qQTUarPIVrCMtdz/1CzSC/vMpm5/AS8jmjVvD57aAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyElEQVR4Xu3WyWoUURTG8W4KF4amX0LEpeDGZ3ClRoliHIiiEicMihKC4hCCE4EQB1QSiIQkBI0ERMXgtPMVBBeuBJ/imn9VvuLUrdudrq5SsvDCoatvnar763OHpFbb+K3uwhG6/9db3d0f2efuDu+NY+zqHjd6eXccQsxODLiZ8WNu+sHRAMr/EaXhCUgoQAofM3XvsHsydigzMN+550cWVQhZd+PX9udQfAJRCPRo9KCbuNEX5/IZApFv0R8XR9yHuUvdoQTiWtUR6Nmd/hik3FYgnltZGHZflm66r0u3Y1AhDC/VrxaIQUOgyVsHUhDXIdDc5PEMiOsOQfXMNDCQFjfffRCDg9D0tgItPj5ZHUhVoi8EUiUFomo+6NXTUymIKATSuvBBDO6D7IIWiHf4oNfPT2dB81fKg+gHJJQqaXckz0c7ohxqeWqwWhABwIL8BS1MtDMLIvftzLkU9Onl9U4xtCzIonh5CJTBBKpD7rsXF7oF0ZLDi8HagbSgyd3cO++i7a1B72eHugUlZxAVWg+kKvJMT99yHNGWXTkQ+RZU4FBMtnwIRIRA9MegI59d8/xP19O/kgGRVylIKIIBOHEZgGttcaaL2LSt19W25hd0ZSBbJT4FSl6WBJVpnP2RVGd1ykKghYcnUhCndIcYWrLDQiD7L0a8m1jAq9EY+OaaF3+55tBv1xj8Hk8Z/UJRHf5s2Ap1BfLXUQxZQ2h7576bPvI1XfzZqAwkFP12qlpFilxDAeKUtqACqAQUmjb6+MVa1Ny3pzjXqqRC+W+mz6QgzqAC51AWZKfNgrTlLUYgnrHnT2kQu2w9kLZ8CESe3e6Vgfxpo9+CGNyfLoGUC4gtb0GcQYXPodC0WRDX7UCqELmVgELTZkHcCy1ogjy7fkqCaPmtHAp//Sh8EIeiBSkKgDpteaTCrp9/CGrX8sh8/G/l2h/lEE+py4dKfgAAAABJRU5ErkJggg==",
     "wiki_name": "Dwellberries",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwellberries",
     "equipment": null,

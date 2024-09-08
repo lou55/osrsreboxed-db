@@ -1,7 +1,7 @@
 {
     "id": 6897,
     "name": "Rune longsword",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-04",
     "duplicate": false,
     "examine": "A razor sharp longsword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoElEQVR4XuWWzUsCURTFfQwiM7hOKEJDNExwUkyFRIqKQqSiLyQSLGgVrQ3qH4iIom0UES2ComgfFAXtougfOnnv9PIjajlX6MBlZvEWP84578Pj+Z9ScEZcDkg4nUdirCQNpRC0hzBQmERmZplhBkMhnvaVLsiBsSdmkS+vI1Vc/AZqX+mCFHrjKcRHihheWuMRdEehOxpHLD+O7FyFYegr5I5CVzCCaG4U6VL5B4wIEO2m5NR8Z8DoEucWqvIwPTGbS0zbWxxGl5h6Iw5DJY5kCtwbioqghHYUqXElUFTCp7FTYuoNuSIOQyWm3lBU4jCBcIwPP9ri4jBUYuqNjkoQhqTQl8zxc4Ki6ogbXEcl4I5+cjpDJRaMSqGy4sXerg8nxyaXuDkql2FICnbCaIG6ubY4Ku2YizAkhWzWwHTJwGq1Ferh3sLbq/8LzFXVXQrUofoN7Gz7cLDfABKJjCCuLi18vPtxdGjy/92txV+RyLZqPpydmnh6dACax3V3Nje87MrLs59jaoZwGUZL4eLc5IgEHPlNIvH8rY6CkdQnp09lbM8+UDkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhUlEQVR4Xu2WTUsCURSGvQwiM7hOKEJCNCbBQTFHaJCiopChoi8kEixoFa0L7A9ERNE2iogWQVG0D4qCdlH0h946Z7iorVp5BuqFw8xuHu773HsnEvmbUQhGPAFIqughN+5LQykknWEMVaZQml0JB4wzOQevtoFCdUkSSKE/W0B2tIqR5XUeUZjeTBa2NwF3vs4w9BQCUuhJppEpj6Ho16RhKMFuyk8vhANGS1xebMjD9NkOS0zbWxxGS0zeiMOQxOlShb2hqghKFEhfCVSV8GkcSEze0KqIw5DE5A1VJQ6TSNl8+NEWF4chickbXZUgDEVhIF/m3wmqKhQ3uK5KYHXoY60hiQWrUqivRrG/F8PpickSt1fVZRiKgpMzOqBubyyuqrVqXY2C6xqY8Q2sNTqhHh8svL/FZaCcxDfUoIHdZgyHBy0gERiCuL6y8PkRx/GRye/3dxY/RYB2tmM4PzPx/KQB2qerUdjajPKqvL7EuSYBiJ9RuLwwuaIQwOiI1POfX+UL4qMdvs9apkoAAAAASUVORK5CYII=",
     "wiki_name": "Rune longsword (Mage Training Arena)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_longsword_(Mage_Training_Arena)",
     "equipment": null,

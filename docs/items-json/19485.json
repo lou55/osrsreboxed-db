@@ -1,7 +1,7 @@
 {
     "id": 19485,
     "name": "Dragon javelin",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-05-06",
     "duplicate": true,
     "examine": "A dragon tipped javelin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAw0lEQVR4XmNgoAtg/A/BgwIw/o+Ocv7v4mI0GBzF+L+4KBSOQXwDBYWBchTj/9KSMDiGOWZAHVRVGQnG6WneAx86NdXR/+vqYv9nZvoNdOgw/m9siPvf3JzwPy83cKAdAwKM/y24OFES8YA6xpSL/b8BJ/uoY9AAxDEgPOoYTIAZVegq6AgwHTOADhpUUYVwzGhUYYLRqMIFsDtmUDhoUDgGVIOD8KBxjC3PqGOwAcZRx+AAo44hBAaVYyBgUDlmFCABAIS/21kKkIfRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAsUlEQVR4Xu3VPwuCYBSFce8kSh8mgqClKbcgaCgoKZoKhxrKhv4ghR/8xE0wyKKte4b7wNl/vFcwCP6SoBpFgnQ+QJJ0GFCCw35SzxgkOObTesYYTXA+zZ7brIfWIMH1kqIoFsiykT3mfluiLFfYbcfWGE3QiyOGj1gTdOMQ7Sh0zFsVRueYZoSnosKQnOqFoXodKoyfqhkVRiM7lf7BdTSYfssxnxLHfMkxv6LCeNw9AEyWk6tgfLLNAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon javelin (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_javelin#Unpoisoned",
     "equipment": null,

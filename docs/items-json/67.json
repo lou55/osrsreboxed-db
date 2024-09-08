@@ -1,7 +1,7 @@
 {
     "id": 67,
     "name": "Yew longbow (u)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "An unstrung yew longbow; I need a bowstring for this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4UlEQVR4Xs3W3UsUURjH8V1ClvorvOqmC6Ob/oHuuqgsyl4w7N0KQZLMrLBaJDMUsxcqFAwxsTKCqCiK+stOfGf4zT7zdNbdcafwwMPMzpw55+NzzjxjpbL1WzXEI3b/n7dqmB4/HKbGDiUxOXow1EcOJCHE8txAWJo5HRYf9UdQ/o/oGJ6ChAKk8JiFh6fC88kTuYn5zT0feVQhZDXM3D7yF4ojEIVAT+t9YW7iaNKXYwxEf4v+sTYevq1c2xxKIM6VHYFePjiZgNS3GYjnvq+OhV/rd8Pv9fsJiDl2d3cn4Wd3LU27/mqB7HJZ0Py9YxmI8xhoZf5MDsS5QH5216q5ZWAiQFx/fHN7lnKBmByElrcZaO3Z+fJAypIws6MNGKFMCkTWPOj9iwsZiCgE0r7wIP5ylow+g31dYXqkFt7O7kh+twJ9eHUxD3pzvXMQ1wEJRUxcqbUF+rgwWC6IYCkF0mvcu6+rJYi+n5euZqCf7+5kmMIgi2JwC6KfMsV9+jUDfXk9FAX52Zu0dBIG3wikCr23Z1tyFIhMetDX5eHNgtIaRIZagZRFntmzK0VxzYPob0G2KPrZXUtf+RiIiIGE5dmenSmKsNkpFSQUwQRUXCbg3FZooZIx6mmdKh1ks8TRguhnK7SyyBi3LqWlQKDVJ2czEFVamLZAvCExkD4HFmQrtAUd35+WAi0xnw2boTazQ2uA/D7SqywQv2MgnmEcqjhH+vLZKA0kFNdJv0Dct/uHc2WScepDDRBV2oKE8rNHWgqKLVtR0EBvV/ZZ+bR4OQNRgwrUoTzILpsF6ZX3y2X3GmPdOFcCiM3aCqRXPgbSXmOs4f5ahuoY5JeN6xbkN7RqFc+pb7pP8hmiBhWuQ7Fls6DYK29Bqj/0pQZ1DIotmwVxL7ahCX3H2PglgGiNf003Cr9/FB5EUbQgRQFQpaKyvlF4oA19v8hOKaB2m0e2g1U0+v6n5pGx8M9s6fYHc/upFJ5OSPAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xu3VXWvUQBTG8S6yLPpBvPGi4I1fwDsv1CpaX6jU96oUisVaq1J1KWpLS60vqLRQKbVUrQiioij6yUb+GZ70ZHa2SXajeOHAIdlkMvntmZmTnp5/v9VcPGL3/3iruemJQ+7B+MEkpsYOuObo/iSEWJkfdMuzp9zSzEAEFf6JruEeJBQgRYhZfHjSPZs6nnkxv7kXRhZVCllzs7cOt6A4AlEI9KTZ7+YnjyR9OcZA9Lfo7+sT7uvq1c5QAnGu7Aj04v6JBKS+7UA8921t3P3cuON+bdxLQKUwDKp/LZCdLgtauHs0BXEeA60unM6AOC8IqmWmgRcB4vqjG9vTlAvEy0FoetuB1p+eqw6kLAkzN7YJI5RJgchaCHr3/HwKIkqBtC5CEP+cKaPPUH/dTY823Ju5HcnvPND7lxeyoNfXugdxHZBQxOTlRiHQh8WhakEEUymQtnHf3nouiL6flq+koB9vbxfF0LIgi2JwC6KfMsV9+rUDfX413CmI5l/C4FuBVKH39G5LjgKRyRD0ZWWkU5CvQWQoD6Qs8szuXR7FtRBEfwsqURT9lo+BiBhIWJ7t3elRhM1OpSChCF5AxeUFnNsKLVQyRtPXqcpBNkscLYh+tkIri4xx86IvBQKtPT6TgqjSBTE0v8NiIH0OLMhWaAs6ts+XAk0xnw2boY5A4TrSVhaI3zEQzzAOVZwjfflsVAYSiuukXyDu2/XDuTLJOM3hTRBV2oJKoDwoNm1lQYN99fSz8nHpUgqiBpWoQ1mQnTYL0pYPp8uuNca6frYCEIs1D6QtHwNprTHWyEAjRXUNCqeN6xYULmjVKp5TX//SbIaoQaXrUGzaLCi25S1I9Ye+1KCuQbFpsyDuxRY0oe8YC78CEM2nOS/C9aMIQRRFC1KUABVtrUiFvl9k5y+CtmqtyNb437prvwEp916Iojn+egAAAABJRU5ErkJggg==",
     "wiki_name": "Yew longbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yew_longbow_(u)",
     "equipment": null,

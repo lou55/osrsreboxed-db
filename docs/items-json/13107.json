@@ -1,7 +1,7 @@
 {
     "id": 13107,
     "name": "Varrock armour 4",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-05",
     "duplicate": false,
     "examine": "Varrock smithing armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwUlEQVR4Xu2WTUscQRCG7asEgyiRKPEjEkUNbhQ1BmNcWNSowWiWQMzmtHgSPUnINf+8wlPDO93MGncz7gYP09DMTn9UPfV2dc0ODVWtalV7NC1Y7He1dP5va/rWgi0sLNvIyFPb2npfcJz1qakZ29mp2+TkC5uYeD4oqMzZ/v4nW11dt6Wl17ax8c6Gh5/Y9PRLW1mp+fve3oFtb3+w3d1GPj4AtYKdnn61ev2jHR2du8O1tbdWq226UnNzr9wxigHCO+CHh58dkjn2oFqfoLLocAgQjlCId46EI0I1nM/PLzoMv5kHmrVAys6b2dmHQGXHRHSogkOA6EAwjjPyinfBoAhPYAUE/OjoWFmVoioYJFKkB4g8ESRjzDMOFOvoALGXxAYUMGA4Ysb+ESq4M/KBKFEGozgkUoA4Op441RxP1koh3nEOIMAoxDudIHqECg4i4zyVBxilk9wANxrH/pQagqFr//j4M98PMEApFLZ6gMqAcIZRdYDUmWMNINfXv/JjStcLLgXi2OiqTxw363qCUldyyiGGUCitOa3WpZ2dfbNm84eP4QRgFACItQTBPsbj9Y+3ruvNyxaE/FjIHQpdml84b7dv8sRGBbrySpdA76xRgClIV5jYgkdNUeSaE6FUA+jq6qcrxzgqaZ1uG0+pcHHRtvMv332eQARU9NilBY9St0sK0W9vf7thXX2t0+cCVVIgKYRiKpKlgE5Omq6AZKeOCJQxnkpiAHGmyq21qEKZwA7qol5pICW08kQRMwaQHLAOmDSXYgEMeQnRfGkgjkQJGo1kpUEg+nDq6ADTZ6YIlNopBYRjfT5SIIyrkiuX+E30rGWOvyYpEAGo7pSAUburXgTPB6CA4DdQKpD8pl6p3mhPp52STQaikZhbQOm7xREVa1KqRqedvrYY8X19gACdLY34vl7cV7Wq/a/2B63KwAp6tuekAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpElEQVR4Xu2WXUsbURCGPbciilQqVbRo0GIVg6JR8SOBYK1V/ApCrV4FryReifS2/3zkmeXdPQlRsiGBXuzAYbPnnJ155j2zsxkZKaywwv4bC5aNbhavv7dnYBZsefm7jY9PWKVy0BE4GbOzX21/v2YzM3M2Pf1lWFBJsOPjc1tf37SVlTXb2tqz0dExm59ftNXVst9Xqz9sd/fIDg/r6fwQ1Ap2cXFrtdpPOz299oAbGztWLm+7UgsLSx4YxQDhHvCTk0uHZI1nUG1AUEl2BASIQCjEPUfCEaEawUulbw7Db9aBZi+QA1IpOSayQxUCAsQAgnmCUVfcCwZFuAIrIOAnJz/1C5WpgkMyRXqAqBNBMsc680CxjwEQz1LYgAIGDEfMXE6o4MGoB7JEGZwSkEwB4ui4ElRrXNkrhbgnOIAAoxD3DJLoESo4iJxzVR3glEFxA1yv//Kr1BAMQ89PTX325wEGKIbCVw9QCRDBcKoBkAZr7AGk1fqbHlO8X3AxEMfGUH/iuNnXE5SGilMBcYRCcc+5v3+0q6vf1mg8+BxBAEYBgNhLEjzHfPb6537rQnos1A6NLq4vgjebz2lhowJDdaWXQPfsUYI5QWTBs6Yp8pqToVQD6Onp1ZVjHpW0T28bV6lwd9e065s/vk4ifQORpd4uKcR4efnnjvXqa58+F6gSA0khFMuaZG4LdnbWcAUkO31EoMxxVREDSDB1bu1FFdoEflAX9foGUkGrTpQxcwApAPuAiWspa4AhbSFa7xuII1GBZk6S1iAQfTh1dIDpM9MJ1O4ntyWB9fmIgXCuTq5a4jfZs5c1/prEQCTQY9/5yBKH7U6C1wNQQPAbKDVIftOv2v9udPMzMMtqCyh9tziizp40JIBuFmf80SissMJSewOv7Yaysbo+SgAAAABJRU5ErkJggg==",
     "wiki_name": "Varrock armour 4",
     "wiki_url": "https://oldschool.runescape.wiki/w/Varrock_armour_4",
     "equipment": {

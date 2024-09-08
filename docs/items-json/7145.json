@@ -1,7 +1,7 @@
 {
     "id": 7145,
     "name": "Cannon barrel",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-07",
     "duplicate": false,
     "examine": "A working cannon barrel.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcUlEQVR4Xu2WUWvCQBCEvSdRikWUSpVardRiLSqF/v+ftmWybG47Xgm2d8lLBgYS0cvn7N5eBoNevXqxgqTdiYK87/fyttvJ63YrL+u1PK9W8rRcdgGlSXwcDhUUAz0uFm1ChQoAD/cAMKDs/mE+b6OEWiafhgeYTaf1td3DhaCCnI/HGsanYw+/n0ySxm8vm01OKO0XNLAHSsHcjccyGg4r47ooEGB8uXxZGKYgkPYN76QmGNiaGjCZgBTGA1nfNMEYUCYY/WfoGT/4boHxQLz6jdLd5KewAcG+iX+DyVgqXchgGMh2VhOMgfwbhpOxVPhYQEIMwjC8+h+kQHY++YR4InNCGUvkFeTzdKqhDMzg7DhgoIwlYinQ1+V8VQobijaNrakLpOIVE2IgGJ+jj5AMA/FKmaRAMEqUAkI/AabQkZBSnMwwAwE0vhEWLZdXnNKA8g2OPrI51EI6Ufog/9J+7ZbS+Sm/nVPm7/fq1bW+AW4Gta3JvTR0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABTUlEQVR4Xu2WUWvCQBCEvSdRiiKVShUVK7VYi5aC//+nrUyWyS3rSSjcxZcbGEh8MJ+zkz0Hg6qqKq8gaT9FQb4PB/na7+Vzt5OPzUa2q5Wsl8tnQGkSP8djA+WB3heLPqFCA4CHWwAYULx/m8/7GKGOyaZhAV5ns/aa93AhqCCX06mFsenw4dPJJOkCQNoXFNgCpWBexmMZDYeNcV0UCDB2XHYsHqYgkPbGv0ldMHCBUiuMBWJvumAiUBbpL0Nn7OL7D0xGIH2b7BYmEGxL/Agm46j0iwjjgfhmdcNk0X0yTMUfC0jIg2SGgRSI55NNyG9kn1DGEVkF+TufWyiCEY7HgQcqAEIp0PX3cjcKLkVuY5a6IAwUE/JAMD5Hj5BMr0AwRpQCQp8AU+hISCluZtgDATT+IywOQ8UtDShbcPSIe6hHIIopPHJVVVWnbmMgfzNEKChlAAAAAElFTkSuQmCC",
     "wiki_name": "Cannon barrel (Cabin Fever)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cannon_barrel_(Cabin_Fever)",
     "equipment": null,

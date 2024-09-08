@@ -1,7 +1,7 @@
 {
     "id": 18812,
     "name": "Camulet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-23",
     "duplicate": true,
     "examine": "An amulet of Camel-speak. It makes vague braying noises.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xu2W7U9ScRTHuS/bnIzhcPNFGS9qyoYPL7ItU5s0AVmICJJoKoKASjYMDSdp6XyORVjNVltZzp4fVi/7377d87tdHq5MebjQm77bd9yN8zu/zz3n/H6gUPxX2cUhP5ddwkZ+lxLhcRViQTU2whpszWuxeuc8ooGzCAzVYbBXA1OnutxQHIOIeNWI+tUMJn5Pg8PdOnxK6nCU0OEw3sh8sNvATHBlqhZflVElbt9SMaiVmZoc7TnuH/t6Vr0ha62cYBymPSoGRBYTN9fXn2qK+/22mVWPKnvjWpUcUGkgKYg0MreEF6DKZq6XRuWp3DDSqNPFsXaLOaTfFiABaMxVXWIyPo+7ZCC5qkOSEchmFgaxhEQKWk93Vwl5+J77VBh2pFtVZCIFrZcFaMKtxNXLZ0pJoqC1sbCavRzlKzJXdqvSLlT8UQ+mQQqsdPYNS0noZNFAExwllsacZlorrhNB8obxjbczx5bMePjAguX7vfB4rsBgaGAlX5mvwcaSBvFVDfY2a5FYr2XP28uC6bu1aA0zxZKlMNJdTxCH+MYAZqe7EZjoYDAE5fO2w25tgcWkR4+h8VgF8nFRMOTk7iBiC2ZWpanJTgYXCnSxZ4LsszTl3CgfS3c8QRzmwg5cvFCd8mLEiHDIwLdjAIltJ/POuh02WztMpkt8C1uh0537C1YWcWhtUaFJr8T7owlsbdqws21H/NFAFijZ6zVDr9cW24pCJLRha9WG5cVejBl74DZ0s3atrVmh1VYxYGm7pFlklABDcxRxOTHndMBjMrJ5yhzmIueiUAkD/erlMF7su/H82RCe7rnYKaPBHrnZVqmqkDi8Oxhns0Ofb16PMjARiO6kgL8Djv7Wcg5xpvj/vN+D+PJ5MgWVfDKYBbQYNSI00wWLRV8JKA6/fk7h21c/Pn7wMSiCEYHogiSgyN3rmJ3tTrVOmkVmpaESj50pIDpdmUAVnCOSAEXHW7QItLDQU2kYURxGhttg729h7rM2ser8IxhRsvw4yqvMy6+SMH8AwC+qbyTBL7kAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xu2W3U9ScRjHPZdtTsZguHlRi4uasmF6kW2Z2qQJyEJEkERTEQTfomFoOElL53ss0mq22spy9v6yuux/+3ae5+woaC3hcE4X9d2+42yc33M+5/s8v99OWdl/qS4Bx7Pqkh4UDeiQGNQjPWLAcsKE1SkzFm6eRip2ErGeKnS3m+BoNqgNJTBEMmxAKmpgmMxtE3Y3qvB+04K9rAW7mRr2zkY1m+BUSktMpV+HG9f1DDU/bvxFe47667aV0+txV5YSTMBYSM9A5MIKC/jx6hynR8levVxewNrf6gCouGLSC1Cyxa3Pk1IYWQK3W1kNlgQ0EKhQWEysE1QMVKp0SCUE8jhLMYjS2aWgjtjziB69PqWtIklDrRhoKKjDpQsnlBQpo7XphIFfjuoVWetwq2QXKnGrj+SCFFQj98FSOrSzaKAJjgofvudPprUH6wqSgMhgIzs968S9uy7M3WlHKHQRNls1Rz4/ZcTyrAmZBRO2ViqRXark67U5yfTfYsrIpnvJRcKQBGSWuxAfa0VsqIlhCCoSboTXXQeXw4o2W82RBI7ngiUt3NzoRnraySmNDjcz3ESsha8JssNVq/RBx5GAyYQPZ89U7HsmaUdiwia2owvZNT97fckLj6cRDsd5sYX1sFhOqQtVX6dHrVWHN3tDWF3xYH3Ni8z9rjxQcjjshNVqVhNGltSG1QUP5mbaMWBvQ9DWyu1aXHTDbC5nYJXblSsJhuYoGfBj0u9DyGHnecofZk0kDfTzZ714uh3Ek8c9eLQV4F1Gg913rUFbmNc7gzw79PvyRT+DyUB0JsWiTfB11msFJX7zfhnBxw/D+1CbD7vzgGZSdkyMt8DlsmoBJeD7t1F8/hTFu7cRhiIYGYgOSAJK3rqCeLxVCyDSAVT2gX8fiHZXLpBGMLIkKNresmWg6ek2rWFkCejrbYC3s47d4a7ldP4SjCz5vMn1P6qfDYJDN9YF7oYAAAAASUVORK5CYII=",
     "wiki_name": "Camulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Camulet",
     "equipment": null,

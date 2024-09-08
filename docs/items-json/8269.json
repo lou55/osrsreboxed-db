@@ -1,7 +1,7 @@
 {
     "id": 8269,
     "name": "Mounted shark",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xt2X30sVQRTH9Ul6jKIwwTRRSSUtQhIqBCsxggJLEfNnpmammZmYaWammJmRmZUoYqYSopiZiCJWUg+9+9Ifc+IzcG57d71guncfGvhyZ/fuzvez55yZnQ0J+f9bqARW0JvdMFRiw3cbxUfskeTofXIsZr+kxoVL2uEDbkM5zTFEiZF7/Yyz0+KM8k4nSGFGklRkpciF1BhzT0pU1HagnOaYWYXxqYQIyTkZb6TmZZnJculErEM7AAqV9KRInzBF9DFF+emJRiVnjziMA2lHQOeORhtDnlj1L+abacdA5N0+6IPbtXK/pkYaq6ulvrJS6irK5da1UrlZUizlBQVSlp8vpXl5MtrfLx9HRmR+alJWPs/Lj9VVyTp+yD0gIFrv1PmA+G27W+93zgr58kmHDPf1ycTbNzL7YdyM4RpQR2OjtN9r8APguKu5WXaFhUlnU5PjGvT8UZsMdnfL2MArd4EwUmGIgHj2sNVE4sXjdmP+tKXFQCocqeS4v7PTXSB7lOgDoyAYap/zQABce71Mrl7ONtcHBUhFJNSYPjBAES2F4jy1VJhzRc6fyTBjMKZrQIinBsKaFo0WQL83NvxEgRfn5vrudx1II6WFy8yiDyCRscJw3FBVZZaAoAJZRQSAIlKkyApEGvmPdckzIKtIp0bpXU+PqScgWSz1mozkg94AsS5p2ga6umSot9fUFLV1o6jIeyDqSGcbCyFQ9HUmegpEHVlnGtJFksJncXQdaHp01AGionCpHyJC3QDGsU75i5mZ7gMh3toL09OyODMjS7Oz5g2+urAgX5eWfOnil3qiblih7fDsp1wDQsuf5gzI2uIXA7K+suKbXaSNqASCCQoQ+ra8bEB+rq2ZgiVFFDWLIDC8Kuz3BBUI/Vr/7rflAIYNmv06u4ICRN2QNupIN2WBYNjysv+mz3iuA1HYcxMTMvN+zMy8qeFhmRwa8v3P1wb7cD5/dP9sFzCuAGE8Pvjat/tTADb/GoVA5nbZ3bbQnEAKQBo0ClsBsI+8zfYXCACiwIeghwCbtcD59wjA2ezmXgH8AXJK+rAg5TXNAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xt2X30sUURTH9Ul6jKIwwTBRSSUrQhIqhK3ECAosZTF/ZmpmmpmJmWZmK2ZmZGYlK4uZSohiZiIuspXUQ+++9Mec+Fy44+yM+1A7s0QXvuyd2dn5fvacc++ciYv7/0e8RJbrw2oYL2mJO5UyknZJTsoeOZq6V3LTEyXv4D6noezmGKKs5N1hxkV56UreU5lS7smWusLDcj43NRoguzlmZmF8MjNJik9kKGnzmoIcuXg8zaYogOIlPzvZEKaIOaaoND9LqerMIZtxJEUFdPZIijLkH2v9ifl2ihqIvFtvev9Ws9xrapL2xkZpra+XlrpauXm1Wm5UVUptWZnUlJZKtdcrgZER+TAxIUuzMxL8tCTf19el8NgB54CA6L7dYgDx2XOnNeycGfLF4z7xDw/L9JvXsvB+St3DMaC+9nbpvdsWBsBxf2en7EhIEF9Hh+0a9Oxhj4wNDMjk6EtngTDSwhAB8fRBt4rE80e9yvxJV5eC1HCkkuMRn89ZIGuUmAOjQTDUc84DAXDztRq5cqlIXe8KkBaR0MbMgQGKaGkozlNL5cWX5dxpj7oH93QMCPGvgTCnRUcLoF+bm2GiwCtLSozfOw6kI6ULl5XFHEAiY4bhuK2hQW0BrgKZRQSAIlKkyAxEGvmOfSlmQGaRTh2lt4ODqp6AZLPU13hy9scGiH1Jp220v1/Gh4ZUTVFb1ysqYg9EHenVxkYIFHO9EmMKRB2ZVxrSmySFz+boONBcIGAD0aJwqR8iQt0AxrFe8hcKCpwHQjy1l+fmZGV+XlYXFtQTfH15Wb6srhrp4pN6om7Yoa3w9FOOAaG1j4sKJLTyWYFsBIPG6iJtRCUSjCtA6OvamgL5EQqpgiVFFDWbIDA8Kqy/cRUI/dz4FtZyAEODZr3OKleAqBvSRh3ppiwSDC0v/Tdz7uc4EIW9OD0t8+8m1cqb9ftlZnzc+J63DfpwXn+2+mer/mrYgTCeGntldH8agOZfR8Eh8+2GHUgDkAYdBRcBrGMLCACiwItgDAG2G1bzmAP8O+M3qoGxk9VqU/QAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

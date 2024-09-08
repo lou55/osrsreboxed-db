@@ -1,7 +1,7 @@
 {
     "id": 15095,
     "name": "Dragon pickaxe upgrade kit",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-09",
     "duplicate": true,
     "examine": "Makes a dragon pickaxe more beautiful.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xu2X/0sacRjHO4ZEEoooiYl3naJxnlwmlh6zcpi1SqrlakXbaiGtbTTGxmCwP/4Z70c+5/XJ1LtzPwz2wAsFv70+z/P5PJ/HmZn/ESgUmpy/Hgp9rJfpvlF5xOfnq/zah3WL3ldLdFkxhwiOwlf0hd7oC9SOPqO92GO+b607fNtYc0R7tRVH9KJcpK5VoGMzT51ijvaMrF+pvtBrLcFCAlnqcAi/XtQZISqyCtH1VJyFyktLXqUGQs3IQGhSqZN46BGniRCtJKL+hbCiY7UvJHhKTBYaJvWzWSMzHgkm1MnEqeESCiKF8mWj89MREvgRE0LYAmokHEzILSMLTSolhNAmFuZmpyMki4wTkqUA2kBsNhRMSBZ4SmYSIfQkITMVIVlAZpwQGqTP7CD6QvKPysgSo4TQrQMJoeajgDA68DgRgbg2fAgpzr0E8ByIyxX9BOBqwOtYuRuUBsI4Vfgc3oumuFPQ/Qgp/AW8fzJJamspeqmn6CC7SEe5NHOSzzzgdFl9wNvzLtO7vqRzQ2O463svmcKrxsrsxQSzkV4YKiZEdu0i1S2dDD1JnXab+fH1jr7cXtPpySFdFnXOErJWLXja1AqnFWNDJRljVuPzzIaVdmiWVdpZ06lj56i7WaD9hkkVI0PhuRB1Dw7o/u6Gbm/ekV2r0k5ri67MLB93ZMfUNG9CqLutLfIFWIyGyYqF+YfdHDfyLHLWXKaLVpE6mxapqRgd7e7S/naLM4NylUyD1ir9uQgyyI6WTHoTcm9k1FxMhACrbGZVauU1RgihZMjOp94VVcoW75tXh3ukqWke7sRGR3YSUU+jh+IMUu7JTxYTU+DZyjKDvYFHHGlMhEA+dTXDoGwqRXOznu6x/ulyT3hyttwztFsMUu4xVYyqOOZgNZ97UK6JhdzzsTzQDyujkHpKDFIA+yefTnvJDkLhORgnTRYbVUY5W0JMlAtitunrUlXo97btSAmxaZSxUSp5zY4I+f/TgCBl9JGdQYgPysiCbsaV0Wd2xocsOYlsoOwECVlSRn7/PxN/AG6sEnCJ7305AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xu2W/UtaYRTHuwwJJRRREhPv5Soq1ys3ldIus3KYtUqq5WqF22oRrW00xsZgsD/+jO+Rx90eX++99lsHPij4cj/POc9znrOw8By+QqHZefJQ6PNGmR4a1SG+vqzwZ59qFn1cK1Gvao4QnISn6Au905epHXlB+9Fhfm7XBvzYXB+I3tZXB6KX5SJ1rTydmDnqFLO0b2S8SvWF3mpxFhLIUkcj+PNqgxGiIqsQrSVj/oWa4f9Cs0qdxgJDnMUDtBqPeBfCik7UvpBgnJgsNErqd7NOZizsT6iTjlHDIeRHCuXLRJbmIyTwIiaEsAXUcMifkFNGFppVSgihTSwHF+cjJItME5KlANpAdDHgT0gWGCczixB6kkcZxLCQLCAzTQgN0reQ/FAZWWKSELq1LyHUfBIQRgeeJiLwdW2IewngPRCXK/oJwNWAz7FyJygNhHGq8Dt8F01xN697EVL4D3j/pBPU1pL0Wk/SYWaFjrMp5jSXfsRZQX3E+4suc3vdowtDY7jruy+ZwqvGyuyVOLOZWh4pJkT27CJtWDoZeoI67Tbz6/s9fbu7prPTI+oVdc4SsraWd7WpFU4rxoZqIspUYkvMppUa0CyrtLuuU8fOUncrTwcNk6pGmkLBAHUPD+nh/obubj6QXV+j3dY2XZkZPu7Ijqlp7oRQd1tb4QuwGAmRFQ3xg52cNHIsct4s0GWrSJ0ti9RklI739uhgp8WZQblKpkHr1f5cBBlkR0sk3Ak5NzJqLiZCgFU2Myq1chojhFAyZOfL7RVVyxbvmzdH+6SpKR7uxEZHduIRV6OHMhiknJOfLCamwPPVAoO9gVccaUyEQD51dcOgTDJJwUVX91j/dDknPDlbzhnaKQYp55gqRlUcc1DJZd2WC9E/Yc6xc5yYnK1xYpAC2D+5VMq9EOZgnDRZbFIZ5WwJMVEuiNmmp0tVob879kBKiM2jjI1SyYsQAj8ajZ8yepSZFsOSgmllfCKhSTEs+ZjnmF/8A63qyrNTFthnAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon pickaxe upgrade kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_pickaxe_upgrade_kit",
     "equipment": null,

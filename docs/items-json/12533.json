@@ -1,7 +1,7 @@
 {
     "id": 12533,
     "name": "Dragon sq shield ornament kit",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Use on a dragon square shield to make it look fancier!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs3Wi0tTURwH8DuGjIkIgRQ4yEdoUKEmpJNMlFKQwlzm+5XlK82sLEssyRLJCkPsQYWCISZiRhAVRVF/2a99f+N3Pfd4Nje3wgNftnvuvTufe167lrX7i4vMMZ3/58VFT8braGYswJm+XUtTN89yBLE810VLs520+LTDgNIfIm54CCQogCQ6ZuFxG72abnE0jGOc0+NExYR00ey981tQ+AREoiLm7jfwtfg0gfTrf66N0/eVkZ2hBITv6o8OtBy1g+NIIPTqj9Ux+r0xSX82HjII9xRkZnL01rUS6nZ5agHpCBNo/kGjEbQyf9EBwncB6a1rxcXz4sVUE4PQSwCpveL1eByJBrT2sidxINSdLMkwprxov6OXAHrzqHUL6MPrXhuExATCD+qg6rJsY6pKs6ICfXzb5wS9H40PVHsqx5gzFQccwxYO9GnhcmJBDdUHORl7LUrfY1FaqkV1Vbmc7UBY8l+WrtigX+sTNiZmEIK61prDnGqvm855k6jc46bm04c4AhKUKV/fXTWC9NbDlNCP4GkF1FWXx6kJggrz8qjM76eOwBGOvtoCJSm0Ly2JsnweSkl2U1tFKtfvEBTag9BDKqivqYBTn5xEzcFUBnuouz6fo4OQnsZ0Tn9LOh9/W75ug9RNUW9dK6ElbwINtRdy2oMYBEMnw2QCDV/wMWiw3ZdYEIL6G11FnOJcN1Xmu+la5zEOkKZN8tndHM7MaDYHdXGDBIX6O71+R251F3OANE1mAU2PZHMEhF1aMFGBsMJMoInB43bG+0vsAIfz2B4Q3IOlruJUEHooyt5B2QSpw4b6qeETdiaHSjkCxNIXlIBk/8G/PM6pcygukIqKFGD0Vw8BYZdWQYLSWzeUEMg0bKhDA3iNQCM4r77EhQPh+s+LAzYIe1AM+5ATpA6bCsIn6lWMCQR43CCssu1AaAx1JpD8j8lwJQykDxvqVZC8TarDJSC5FqDV55ccIOxBMe9DpmFTQfgeCaTOn4SATMOmgnDONKERXKfOnzhBKFuXtCn6/JHoILxLqyBJDCDLkm09UnSgGnX+JAQUbdGR0WAlm9f+p6IjTdHv2dXlL1JwL3AveV55AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xu3W/0sTYRwH8I0hYyJCIAUKiQsNKrSEdCMTpRSkMJf53Wkrv6WZlWXJSrJEssIQ+0KFgiEmUkYQFUVRf9mnvT/jczx3e5y73Yp+6IE3d/fc7e51z7edy/XvFzfpozv/x4ubHkabaW4yxJm90UQz105xBLG6EKGV+V5aftSjQVlfwjE8DhIUQBIrZulBNz2f7TQ9GMc4Z40ZZQvppvnbZxJQ2AIiURELd1r5Wmx1IOv13zei9HVtPD2UgLCv3nS485ARHCcDoVW/rU/Sz81p+rV5j0G2MLipvLWArAgdaPFumxa0tnjOBMJ+iiA3j4unM+0MQisBpLaKz+s1JRXQxrP+zIFQdyxYqE1NxW5TKwH08n5XAujdiwEDhNgC4YZWUEO1X5v6qqKUQO9fDZpBbyacgZqOF2tzsnaPqdu2An1YupBZUGvDXk7hThfl73BRXq6LmutLONuBMOU/rVw0QD/eTqWKQTGDENR1Ne7nNPg8dNqXRTVeD3Wc2McRkKB0+fz6UroglPhN8LYCijSXchpjoPLSUqoOBKgndIBjnW2hYA7tysuiogIv5WR7qLs2l+vTBMXXILSQChpsP8hpyc6ijljqYi3U11LGsYKQ/rZ8zlBnPh9/Wb1igGwsivEprwONhss54RgGQddJN+lAY2cLGDQSLsgsCEH91UgFp7LEQ3VlHrrce5gDpG6RfHyrmDM34eegzjFIUKi/ORAw5XpfJQdI3WAW0Oy4nyMgrNIpYlDiM0wHmho5YiQ6FDQCHM5jeUDwG0x1FaeC0EJpgdRuQ/3M2FEj06NVHAFi6gtKQLL+4F8e59Qx5AikopIFGOunh4CwSqsgG6g4SNdtqMMD8BmBh+C8+hG3FQjXf1weNkBYg2ysQ2aQ2m0qCFvUqxgdCHDHIMyy7UB4GOp0IPkfk+7KGMjabahXQfI1qXaXgORagNafnDeBsAbZXod03aaCsJ8MpI6fjIB03aaCcE43oBFcp44fhyCUxCmti3X8SKwgfEurIIkNUKolESlRx89fBCUricjE/C/Oym8IbOTVgtFqcgAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon sq shield ornament kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_sq_shield_ornament_kit",
     "equipment": null,

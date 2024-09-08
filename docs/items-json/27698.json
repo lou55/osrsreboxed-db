@@ -1,7 +1,7 @@
 {
     "id": 27698,
     "name": "Crystal body",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-02-08",
     "duplicate": true,
     "examine": "Sturdier than it looks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xu2W72sTQRCGe22TNCFtGhLuSGrSJLX+KlgtKBQUClJBEQRBRAVBEBRF1IpSwQ9+9a8e79nrm2yuZ5JD6wfJwNDm9mb22XdmJ1lYmNv/Z4ElPqvlfT+XBfaq27LHrfBkk+l+q16z/fXVs4IK7HW3bS87kT0Mm3bQWLfd1Yo1CkvOo1LB+UapZHebdbsTr/NOVCw6oGu93t+EGp36fW/DXmxE9iBsOAV8GPx+WHcOVKdUtMriYkq5P7bABtWqtctlC+PTS6Wn7dBBoYSvDs/wG7VVB7S+vGjdSsXFVpeW8kKd7oOLa2suoYCAeR7DAMTfR1HTqQGQYCjpXq1q25UVaxaXbaeW5BiHSnuG0bRshOSUg9NLBZqTngGIkuHAsDmNLhDeJRagSzEQKqnveL5TrbhnvZWSW+cz72ZCHW91hhvhbIT7QLejcMzZCBgOoUamxFKkXijY27jMHBQlKSV5BMJnYGj6jMYP7Kh/zp1IrgbOAtoPE4UEBAwl9ssM0Od+Z6gSULxHPhSbACOLr3enNewTlZAEnMqHudls2G6clI20mYD8i0DfkA9wjQR/Rk2AkQX28UQpEqk3kFgw+F6j7oBZo3GlloBUNvL5eaTQDOr4Ftj1tapdiVXZrpStXy65a301/swzXKrwnHWecTH0DGdOkSudJycMFrjN00mAFBR/UYgLwDv0G5CKYRToWvu5BJkDBguGPaImVfLDdssOWpErH39RBRjgKGVWDO+pzJpFuYEIpjfoh1GCJLl66eug6/z4fNddb80ogGjqNJCGZE6gbHUEJJhP/WRu4ZREJaOExKmhFUfOMwNitgDA7QFO4wAYbhHODMoCGld8JpsMRHk0NDWPcP7XRGaI6ps+C0iw6Z1/Y4F9ifviTdwTz9rJpPYT08QAaR4JSO5/2/tx37aSnE9i6MMYOodKgX3f3rR3m8lvHwUqMT9BgEoDcQlwfZGmFVJODnlv7JBTLbAfF/r2oZ8EjwcmQP7ETgNRaiZy+iA/Lw/saJD03rjqM9not8oo6em1ST4t7vT6FFNAVpC/NsmnxaXX5za3uf1L+wWypunYkzKXZwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xu2W7WsTQRCHe22Ta46kSUi4I4lJm9T6VrBYUCgoFKSCIgiCiAqCICiKqBWlgh/86l897rPbSfbOM8kp+aIZGNLsy+yzv5mddGVlaf+eBeJ8Xiu6vpAF8nLQkUed+OyQ2X6zWZfDRm1RUIG8GnTlRT+RB3FbjloN2a9F0iqtWU/CkvVeGMqddlNum3nWJOXyIoAmt3633ZPnvUTuxy2rgA+D34ub1oHqh2WJVlczyv21BTKqVqVbqUhsbq8qPenGFgolfHUYw6/Xaxaosb4qgyiye6tra0Whfq2Di5ubNqACAfPMwADE58OkbdUASGFI6UG9KrvRhrTL67JXdzHSUFnPMYqWg5CcdHB7VYHipGYAImU4MBxOoSsIa9kL0CUDhEpad4zvVSM7tr0R2nm+szYX6nSnPz4I5yDcB7qVxCnnIGC4hBYyKVZFmqWSvDFp5qIoSSqJoyB8z4VxFsjJ8Jy9kboWcB7QYewUUiBgSLGfZoA+DftjlYBiHfFQbAqMmnne/c64TjSFBOBWPsyNdkv2TVAO0sMUyH8I1A3xANeWULBHBfLhTCkCaW0gscLgB62mBWaOwlW1FEjTRjw/jio0J4xaINc2q3LFqLIbVWRYCe2zvmq+M4arKowzzxgPQ8dw+hSxsnEKwmCBPTwbBEiF4hOFeACsod6A1D20An3WfiyFzJ44w4JxjWiRavDjbkeOOolNH5+oAgxwpDJvD+s0zX/QILHAbqY2qIdJABdca+nLaGD99PzAPm/tUQBR1FkgbZIFgX6njptTmI9D17dwUqIpI4Xs04L2Yy4MiN4CAK8HOG0HwPCKcHpQHlBa8blsOhDp0aap/Qjnb+3INNHJL/0kpgKlYWdaIJ9NXbw2NfG06zq1H5giBkj7kQKp+7/2/r6vOy7mYwN9bKALAX3b3ZK3W+5/n/RG948aUFkgHgGuP6RZhTQml7ybuuRMC+T7haG8H7rNeUB+x84CkWo6cnbfj8sjORm52kurPpexWD1r/tw0z9qs+aUtbWn/uf0EJ7+ZkKOLh1IAAAAASUVORK5CYII=",
     "wiki_name": "Crystal body (Hefin) (Active)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_body_(Hefin)#Active",
     "equipment": null,

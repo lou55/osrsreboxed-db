@@ -1,7 +1,7 @@
 {
     "id": 14884,
     "name": "Varrock teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A teleport to Varrock.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeklEQVR4Xu3X2U4UQRQGYPqeG94AQsCwhC2IEGQxbCIEWWQTkUVEdmQxkxhDvPA9jK/kCx3yF/k7Z87U0FXdc0NCJX/onq7u+jhVPd1TV/fcCrVEapOatEQmRkZkfHjYZXRwUF4PDLgM9fe7vOrtlZc93S59XV0u3R0d0tnW5tLe2upSA1Qi02Nj8vbNeJp3kxMu2MYxBGCiASYaWCIBe9HcXASVpANrCDI/NeXyfmYmDfbZX+MAQwULohJZmp1NB3gMUt/wP42GsXKAaRSmrqWpKQaVyMbiYgrSEI3REBvCOK0ahbUVifKDqkHQT8fCWC2isKaAIqinsTELVQ6qhrEQG92XKKwpLHRMXS6QniYfxFbLHmcfnM/Fzqnj4g4CrS4spCAfJgugj3Eb1+LUoUpRIFZIT5Ud0EJs7Dl6PaFKuUEWoLdLf/9VQPiZr0qcOoD4zR0E+ri8VHFRi/GB7L49F8HUYXFHg7Kq4wPYfXsOrxcN+vRhRVbm5jJBGhGKwT8KEB4jUSDeaRplgbEg/AUId1o0CAs7pkoWZM8pBPq8turWUWiVfLEgbmNRA4THRzBod309s0r2s2rHbL9coP3NzUer5Bvcd5x99H4u0MHWVkWVLMAObFOtL76tAcIDNhh0uL1dUSWgCNMD+iD2MwvCbR8FOt7ZKasSUKgUApwPGBqC8F4UDLr6dlhWJQQw4ooA8SwDCK8gwaA/pZJcfj1wVQIKQbWQokC+1hITAEJL5PftjUOdf9mX071dF0wlguohABMdA47EsD2g7q6v5Nf3S/l5cSGlszOXHycncnN05KYW6Bh4Tgyb/SlcPAUwD40XqGXsGE+i3QNE82S9HP2ExgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACX0lEQVR4Xu3W10oDQRQGYOfeGx8hiIoFNWLFjr2gRo29G1vsjYCIeOF7iK/kCx35R85ycjIxO7t76cCPW2Z2P8/MZreq6r/FaoaSSSLN0NjgII3099sM9fbSQHe3TV9np01POk1d7W02Ha2tNm3NzdTS2GjTVF9vkwDK0OTwME2PjgSZHR+zwTbOIQAzGmBGA8tIwBpqa+OgTHBjCUHmJyZsFqemgmCf+0scYKhgTJShzMxMcIO/INU130EkjCsHmERh6upSKR+UoY2lpQAkIRIjIToM42mVKKwtT5QbVA6CfjIaxtViFNYUUJFB5TAaoiP7MgprCgsdUxcJJKfJBdHV0ue5D8bzYuep81jchrILCwHIhakEkOd4G9fiqUOVvEBcITlV+oYaoqPHyPWEKkUGaYDcLnx+lUD4mKtKPHUAefxyG9pazpRcVGNcIL2vxyKYOixub1Cl6rgAel+P4et5g3ZWV2hlbq4iSCLCYvCPAoTXiBeInzSJ0kBfEP4ChCfNG4SF7VMlDdJjYoH21rJ2HYWtkisaxNtY1ADh9REadLC+XrFK+li5c7pfJNDR5uafVXLd3HWe+8j9SKDc9nZJlTRA31inXF/8WgOEF2xo0OnubkmVgGKYvKELoo9pEB57L9DF/n5RlYBCpRDgXMCwYRC+i0KD7s9Oi6qEAMa4OEC8ywDCJ0ho0EehQLcnOVsloBBUC4kL5M/akBhuht6fHi3q+viILg8PbDCVCKqHAMxoH7Anhtsv6u3hnl7vbunl5oYKV1c2z/k8PZ6f26kF2gceEcMNg5POf0um/QDYtSFckvsBSgAAAABJRU5ErkJggg==",
     "wiki_name": "Varrock teleport (tablet)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Varrock_teleport_(tablet)",
     "equipment": null,

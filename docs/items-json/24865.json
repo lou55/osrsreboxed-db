@@ -1,7 +1,7 @@
 {
     "id": 24865,
     "name": "Skeleton monkey",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-07-09",
     "duplicate": false,
     "examine": "A monkey retrieved from the wreckage of Glough's airship laboratory.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMUlEQVR4Xu2X4UtTURjGPX9HHzTCJJOWkZlgFgxLTbIxhllmY4xhlo4hY6TlBxGk/uk3fufyuHOv10+dM/uwBx5272Xs/Hje97z3bGJirOhyVu6Rarjw1tYbW1t7Za9XX1q1+sJWVp7b4uL8KOGcNZvb9nGnZvX6W9vcXLWNjap3CLa09NSezD+y2dn7KaGctdufbG+vYR+233ugWm3dGo13trtbvwIsS+vx1FQKKGet1o5fHCDAMInxjNSAAxIwEgNsbu5BipScfTto+sUxYJjE+BRcGRTlS5BSBsTinc5n76/7X7yBEmgZFCWsVB7GTMlZt9v2QAI5PGx565kSU1pFqOXlZzFTGgIJhvvj431/DZASIq2igaJ0CwuVWCkNgQTDdi56ZubeNYc7UglFSCkDUolIqQjDwtPTd3PWbgSGARq1ZL1eJ9c3amgBUa7JyTveGgnqI4AYnBGBkLsCKkKph3hGA2tQKh3MTosOpLIVobTLKBNANHGYDvcMyORA4Q4TgEw6IVDEhg6VL1sIpYmt2XMTUPEX/1HXgZhFYXL0DmUrlmxkQCc/jmww+O7BNLVDkMRAKDuUsa1Z7Py876EYCwDpvcZ3cOSBWKbsTERp9ErgIMbLE3PNM+ZOOAwTwUjZoASK+cLWV2I6OYaDMDGM5Ozy8tTOznrW7x/4cglK56CEfXOTnP35/csuLga5lEhuxOmEcvbztOtLqHl0izBS/j/ZLcNkEsR/ATPWWIH+Aqf7wMoaEYV4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEUlEQVR4Xu2WW0tbQRSFnd/RBxGx4oUGi1ewKgRbb6ghBLVaDSEEtWoIEkK19UEEsX96l2/C0snxaF/mJC9ZsEhyCMzH2jPrzMBAX9HlLN1d1cvCOzvfbG1txb6uLls+/8WWluZtbm6qm3DOyuU9+35QsGJx07a2Vm1jI+8dgi0sTNvnqU82Pv4xSyhn1eqhHR+XbH9v1wMVCutWKm3b0VHxGTA9rUzkrFI58IsDBBgmMZ6RGnBAAkZigE1OjmUB5eznedkvjgHDJMan4NKgGF9mQCxeq/3wPjs98QZKoGlQjDCXm4gJ5axer3oggVxeVrz1TIkprSTU4uJsNkCC4ff19an/DpASIq2kgWJ0MzO5WFAvQILhOCc9Ojr8yuGJjASD2kAaESklYVh4ZGSowzqNwFCgUYEajVrHvtGGFhDjGhz84K1K0D4CiOKMCITcM1ASSnuIZ2xgFaXSwZy06EAaWxJKp4wxAcQmDtPhNwWZOVB4wgQgk04IFBlG6hxbCKXGVvf0DIguCpNj7zC25Mi6BnTz68parQsPptYOQTIGQu1LGceaxe7vmx6KWgBI7zX+gyMXYpradyJGo1cCFzFenpjvPKN3Ipfhe2oXJVD0C0dfienmmEER/k/OHh9v7e6uYc3muR+XoHQP6jIQcvb36Y89PLQ6UiK5HsBIzn7f1v0I1Uc9hJEACN1XX329qX9ZGJRZLqAyNgAAAABJRU5ErkJggg==",
     "wiki_name": "Skeleton monkey (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton_monkey_(item)",
     "equipment": {

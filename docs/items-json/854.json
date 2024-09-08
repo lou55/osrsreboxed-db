@@ -1,7 +1,7 @@
 {
     "id": 854,
     "name": "Maple shortbow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "A shortbow made out of Maple, still effective.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xs3W+0sUURQH8N3/xD8h+kGCioKS8kG6rG2mrs8ULYnESkySTLEnC2IPChQMMZESgqgoivrLTnzv8B3PnD0uO+4UXjjs7J27ez577mMnlzv6LS9+ePf/ecvLs/miPJkrhFiZ7ZLl250hiNhaHZbNyqBsPB9wUPZHNAyPQEQBxLCY9af98nqlN5EY73HPRhKVCpmXyv3uKhReAWEQ9HK5R1YflMJYvHogjNfon7vz8n175nAognDN6hD09nFfAHHsQSB87sfOnPzeW5Q/e0sBhBzHmppC2OymRWXnryYIST3Q2sMrMQjXHmh7bSQBwjVBNrtp+cQ0IBEXN95bEJIDwenVID1FiMxArBL6PBArSRCqhu+5UeqSW71FuVMuyb3hq6EPIEQqENeFBSG5BekFTRC+Y6TzopxvPu5WKIDe320chH6AiGIlOYaJi+3tMtRxIVxzDX1an8wWhABAg/SCJgSB677WczEIY79sTsWgXx8WYkxqkEZx+1qQxWDNlFrOJEBf3910QTb7AS0qPZLVAukpIgaBhVw4eyoB+rY1fVhQdAahQrVAHoRTh93VcfpEDMJ4DdKHos1uWrTlPRCCX24xXGOsTrmtRVpPNof3qE6mIKIQrITG6B2GynAMq5MpSFfJQhA8oTUGn+FWJ2jnxWgMwilNTF0g7BwL8jA6iEG1LAjV2X01lqhQndVB2wcR5WEWxsoyO9gT1stk9yW5VmhzQZyuj2/GswVVpifk0dSoLI4PhP+kmf7LVVUCBlOr/+kJwimtQUTZ7E6LQHra0Lc0MVQFwH19ih8EwmPH543rMQhnUIpzKAnSKPQxAV7RrzEeCNVpGIRdZkF8pCAIyfQzkAZhnJ6uzEB2t6Ffg/QjBzEEcSxA2PIahDMo9TnkTZsG4boWSK+fTEDetGkQ7nkLGoFxev00CEKrPvi8sOuHYUE4FDWIkQKUy/FYrxUWqEOvn0xA9TaLrAfL2B/7n5pFemE/c6TbX2MNfPHHyAqIAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4Xu3WbUtUQRQHcPcr9UKCkoKS8oF0WdtMXR9TtCQSKzFJMsXKYkHsgQIFQ0ykhCAqiqI+2Yn/XP6XM3PPLnv33qIXDhz2Psze+e2ZM7O3peX/bwWxw7r/11tBni6V5Mli0cX6Qq+s3e5xQcTe5pjsVkdk59mwgQp/RGZ4BCIKIEaI2d4YklfrA97AOMe9MHxUKmRBqvf7Eih8AsIg6MVav2w+KLu++LRA6K/RPw6X5Nv+fHMognDM7BD05vGgA7FvLRC+9/1gUX4drcjvo1UHSoXBQ/mrCcKgFmjr4ZUYhGMLtL817oFw3CCo4E0DBmJx4zwEYXAgOL0apKcIkRuIWcI1C8RMEoSs4Tk3yr1ya6AkdypluTd21V0DCJEKxLoIQRg8BOmCJgjPGO+5KOdbT5gZcqB3d7ODcB0gophJ9uHApa4uGe2+4I5ZQx+3Z/IFIQDQIF3QhCBwPNhxLgah7+fd2Rj08/1yoxg0H6RRXL4hKMSgZsrtZzzQl7c3mwWhRanHYPVAeoqIQaCQi2dPe6Cve3PNgqI9CBmqB7IgnDqsru62kzEI/TUoxaYYLXkLhODDQwxrjNmpdLZLx6lWd47s5AoiCsFMaIxeYcgM+zA7uYJ0lkIIgju0xuA7XOoEHTyfiEHYpRvEoEUrLARZGB3EIFshCNk5fDnpZagpEFEWZnmyIgsj/a5eZvouybVipwnidH14PZUvqDo3LY9mJ2Rlatj9J80PXU5kCRhMrf6nJwi7tAalQEUgPW24tjo9mgDgvt7Fa4Hw2vFp53oMwh6UYh/yQRqFaxwAn7iuMRYI2ckMwioLQXylIAiD6XcgDUI/PV25gcLVhusapF85iCGIfQHCktcg7EGp9yFr2jQIx/VAun5yAVnTpkG4ZxU0Av10/WQEofmrqVaE9cMIQdgUNYiRAtRoSyIZun7+IaheSyKTcdyytT8ZCTJlp0DXcQAAAABJRU5ErkJggg==",
     "wiki_name": "Maple shortbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maple_shortbow",
     "equipment": null,

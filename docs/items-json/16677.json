@@ -1,7 +1,7 @@
 {
     "id": 16677,
     "name": "Message",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-04",
     "duplicate": true,
     "examine": "A message found behind a loose tile.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXUlEQVR4Xu2W0UtUQRTGve9ihJGsoumKLrqi64KFYCGEVPiwpCwlEqIiCIIQ9CAEQRBB4P888TvDp2eHidq77q6QB76HuXfuzG++c+bsjow8xEPciyhC1FBDEEX4drASjl5XBw11C4B+HjUM5OzNfGi9mAq7G5PhbbPSMSevniMudH3aNIjvh6vhy/5yuNhdDNurE2GnUTGYvc1pc4l3n98vhctWzeag83cLN+oBKoIAcNWu2ya48fHVM3MCCJxpb80YCBsz78enNXvmxTfocHvO1mzMznYLVdhJOSWnEoQAtLhAvn6IIBLvJOZ4lQbi4+eL4x3CIQCATSG8mPcnlQaiJnLp8MKxnHgHcE4lgYgim44UhkJnTK1x6xDPU5A7AfIbp0AeQptpLrWXgtwZEMIFL58e6klXHeEqtUKq5ZhcQz0BIQ8BHIurDeBE2m9OdqpWe9SgBxdwCaAIwkYv60+t+ZEa7JYT2pyN/A1irI5Nw0Q93rLCTs/CtakxW5zTAoA7QLAoLqjP0JOYR1vQM75hDd1U37e6AIq9h1NVK6O2GAC+dnjv04CY35x/nE0TY0EJrCsg/SbhAClKi1knV0pIKTApiGCUfi9g/hGIiLVDzQDw63jdpE0AoaY2l55YioAR2Nrco1CfGctunird9S8Rb5aHYazCZkxh4yIuAAcMNZeDSFcvGfHvhv/LoVvmf3BVP9RciXR0G9GpFIZbxo3BKdxRmvoMoyg6YNT0VFOpO+nXfYpYoP7Kq7AH7I6P2BIEoiIegjs+CnNEENIQ3PGR7y/prIHGvYD4r+M3Cz8IIsJxm+0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSklEQVR4Xu2WUWsTQRSFs++lIi2VtBhJShtqStIGqhRUCqW00oegUqqEElSEgiAU+iAIgiAFwf888t3hNDfD9iG7Mc1DLpyH2Z2d+ebcOzepVOYxj5mILETdawgiCz8/bIfBYWPaUEMAdDPYMZAvx+uh93wtnO6thpNudWROvkpHXOjv565B/Oq3w/W7p+Hr6WY4aD8KRztVg3m7/9hc4t3Vm63wrde0Oejy9catSkBFEAC+n7VsE9x4/+qJOQEEzpy9qBkIGzPv90XHnnnxDeof1IsCZXZSTsmpBCEALS6QH+cRROKdxByvwkB8/GxzaUQ4BACwKYQX8+5SYSBqIi8dXjiWJ94BnKeCQESWm44UhkJnTK1x6xDPU5CJAPmNUyAPoc00l9pLQSYGhHDBy6eHetJVR7hKrZBqOSbXUCkg5CGAY3G1AZxI+82no4bVHjXowQVcACiCsNHL1oo1P1KD3XJCm7ORv0GM1bFpmKjkLcvs9CzcXFu0xTktALgDBIvigvoMPYl5tAU94xvW0E31fWsMoNh7OFWjumCLAeBrh/c+DYj53fWHuWliLCiBjQWk3yQcIEVpMevkSgkpBSYFEYzSP6qxItYONQPAn4+7Jm0CCDW1v7VsKQJGYJ36g9CqLZbZ/K6IN8vDMFZhM6awcREXgAOGmpsgRBrx74b/y6Fb5n9wVT/U3H+EUUSnUhhuGTcGp3BnmKapRDYCo6anmpqiOz5igforr8Kesjs+YksQiIr4HtzxkZkjQ4iJXu2iMRMQ85it+AfBCdAqe5TWIAAAAABJRU5ErkJggg==",
     "wiki_name": "Message (fireplace)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Message_(fireplace)",
     "equipment": null,

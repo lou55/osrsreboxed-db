@@ -1,7 +1,7 @@
 {
     "id": 8762,
     "name": "Steel kiteshield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A shield with a picture of a Jogre.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLUlEQVR4Xt2X20sUcRTHdxiWxWVZkYQoicSwMMM0Fm1hvZEpS6KZKYmYWt7zkrfMFAsJF1FRss1SFKnIKOitqKegIHrwpcegfyAIeuipp1PfM53Z2UvmZValA192mYfZD59zfjNnLZb/oxQKvbKDpVB+fjrtEiiFcnPSqKjQRR7Psd0ApTBM8ZmTuqX0xMSdglKooOAEwzyeu7cbLCnk9WbSkwf3GWhxeprbl5WZshNQGkxpqZthkOXZWW6b232U0tKS/kBFSlRKYRix89B/lz/9Ph+3DZZcrsOUkXGI4VJTD3JSjhyIALhlUA1G7AAG+f7RSV/eOGj1uYOhYCoUTOAAhiQnJ1BS0j7OFqAUKivzBNn5seqkbx+c9PmVg949stPotX4a6emmG52d1N/WRr0tLdTV2EBX6uuotbZWhxIg3BOncxMnVIN5uriow8DMz0+x9PW9k+28nrczyEB7exgIIpZMgEGF2wEQsjA1RW+X7fTijl0H6bh8iWGMQH+zE/pL6yiFzpdnsx0AAQYnC2YAMzc+Ti/n7LQyGaPDCJDRTiSYTQMZ7chRF5jjVpWybCrD/MsOYBwxqnl2JBev26i6T8vZRislq5bttbOysMA/LKns0ILveeesDLGWHdNgYOfZ0hK3qbg+GKaq20Yuj8rX4vdbyO1V17Szx7GlVqECdjAzSP2wjcqbYzlZeSrllDgou0TlAGhb7AAIL1Cem544quqMY6CCCgcDAcTv9+lAoXZMGGRU8INQ2oVPb42VCqt+f69zUtEFJ4PNzIxS5mmtZVGxU1mZq9sBRHlrMNCpCm2YBQgtk6GOmh0BAowRSGBkbiTGgTbRDiowzGiZESgSDFp13BMAMp4sE+ygtIHGiiqvCWTy5kgYjAA1VFfr7TLZjpTCQNgO8YqYn5gg39AQrxZYK4wwSFNNTZgdE547xgoAYaGfHRujscFButXXS8NXu/Q1Q3YemAGQ8Y1uoh2Uth0KEHZmGLo9MKBDyd7T3dyk25F27Y2zmmlHSlvoBQj/LLCiRlpTkSjakQoGMkKFAhl35oR4WzTsSIX+Q1hfomAnUHLzjSb0PhutX+2Q3nInAqzcAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4Xt3X3UtTcRgH8B0OYzjGRBKiJALDwgzNGNpgvpEpI9HMlERMLd/zJd8yUywkHKKiZMtSFKmoKOiuqKugILrwpsugfyAIuuiqq6e+z+k5O2cbBu1Mhw887LCL7cP3+Z2dZzbb7iiFwt/ZwVKopOQ4JQhKoaLCbCov85DPdywRUApjKs6cTISUFCotPcGYx8v3EiElhfz+PHry4D6D1hYWeHz5eZk7gdIwVVVexqA3lpZ4bF7vUcrOTv+LitZxKYUxks7D4F1+DQYCPDak5PEcptzcQ4zLyjrInXnkQBRgzFANI+kAg/7xyU1f37po84WLUUgqHCY4wNAZGWmUnr6POwaUQtXVPlM6Pzfd9P2jm768dtH7R06aujZCk4MDdKOvj0a6u2mos5P621rpSkszdTU16SgBxYx5tramY5DMr8/J9O2Dm9N5s+JkyGhPTwQELSlZgEFFpgMQenV+nt5tOOnlHacO6b18iTFGkKXpnK8p4HQAAgZ3FpIBZnlmhl4tO+npXJKOEZAxHYswKHM6cqsLJseuUr5DZcy/0gHGlaTGAjKnI33xuoMahrU+22anDNW2vek8XV3lL5au69Ua18Xn7IzYKh3LMEjn+fo6j6mixYypH3CQx6fye6n7beT1q1ums8cV06hQoXRwZtAtEw6q6Ujmzi9WqbDSRQWVKjdA25IOQHiA8rkZTKH6vhQGlda6GARIMBjQQeHpWHCQUeYfQhkXXv2Ndiqr/3Pd7KbyC26GLS5OUd5pbWRxSaeurkhPB4iaLjPoVK12mAWEkcmhjls6AgLGCBKMnBtp44G2MB1U6DBjZEZQNAxGleMLgYx3lgXpoLQDjRVVHhPouZuTERgBtTY06OOyOB0phUHYDvGIWJmdpcD4OK8WWCuMGHR7Y2NEOhb87hgrBMJCvzQ9TdNjY3RreIgmrvbra4bsPEgGIOMT3UIMStsOBYSdGQndHh3VUbL3DHS06+nIuPam2K0GobSFXkD4Z4EVNdqaio5jOlJmkBEVDjLuzGmpjniBUPjg/+ldWL8BA2qZou+xm2EAAAAASUVORK5CYII=",
     "wiki_name": "Steel kiteshield (Jogre)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Jogre)",
     "equipment": {

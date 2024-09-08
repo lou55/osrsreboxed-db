@@ -1,7 +1,7 @@
 {
     "id": 18784,
     "name": "Oil lantern",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-14",
     "duplicate": true,
     "examine": "An unlit oil lantern.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xu2We08aURDFvSSWSBspSqRASnmoVEAeW16KLE8pUWrafv/vcsq5N8PehRD/2cU07SQTICzML2fOvTNHR//j3wiF3XyTMMW/ZLM6P2cyuEgmET89fQsohcVohPFgAKdeR+3mBleFgoYql0oaqJnPHwpKYTYc4qHbRa/VQqfZ2ABRobt2G5Xr60OqpDQMIfhegIq5HM4TCa0aQRvV6iGgjG8IRN9sm1mpyOZ7USnE1indDhajCgLhfOuh0WzjLJnWQARh+5gebOCh4Pb7GmRf0txsE5MtpLnZRr+SgYTaKU44O+kjAm1DiVp+sEDC8wlbZqectH1QYn7xU2CeMn9kjrwNSA/Vbh2cnX/amFqeo+dskMBgvDDtkyJ8bTldVGuvA23/U0BhWuYH6qyBWkic+YF4k/ufDSWU9owN9OBO0e4OcZHKIRLxgJaTsTZ8iEBGHZpWirqjOe4HE3R6LvKlGtKZAo6Po4cDYhsEZvXyG8unn3hc/MBk9ryGmqFye4fCGkyekfvJfA48PEPbMNP5Cu54iVZ7gnKli+JlHbH38R2gEFQyLROYxfIF88UK07U6A/c7Gs4IX6s9lK6aeoy8i57ok8b7KTQgGvp59WsHqH//uFZorFt2WXaQzhYR/5jULfYfgkBDafmf5jNtWBajArIbUQnezjLDPsRi4QPJGLCh6BMZIQQijKyxfCbEy9FMfELJDp1OpfSWSCgCURVzovyzz5tngYfZiWRDlAWfQJzshOPWSIXYSvvOCmGWmZaxMH3ClNXChrOVIxwzpJYxlG/XETjZELfhpIUhqGOHOW32vmODEYTqnETNCAkZRsJv3H15IBgTUuy13P7dXx1/AP09PKeML+vIAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaElEQVR4Xu2WbU8aQRSFHRJLpI0UJFIgpQVUKiAvW94UWV5FotS0/f//5ZQzm8vOLuHb7vKhnuQmJAzMk3PPzNyTk3f9H1LYr6PI2fxboaDraz6Py0wGyfPzY0AprCYTTEcjWM0mGre3uC6VNFS1UokaSGExHuOx38eg00Gv3doB0aH7bhe1m5sooZSGIQQ/C1C5WMRFKqVdI2irXo8CyskNgZgbf5iViu2+j8AlpdvBzeiCQFg/B2i1u0hnchqIIGwfy4UNXAr2cKhBDhXDzTax2EKGm230OhmI1N7mhDOLOSKQH0rc8oIFIjcnbJlZctIOQUn4A4Qx5Rx5E5AZatxZSF982YVa1jFzIYGInPa5myh0rD7qjSMCsU1eoN4WqINU2gvEm9y7NhQpnRkT6NGeo9sf4zJbRCzmAq1nUx34EIEcdxha2dSeLPEwmqE3sPG90kAuX8LpaTw6ILZBYDZvf7F++Y2n1S/MFq9bqAVqd/cobcFkjdxPIUG5gTZh5ssN7Okane4M1Vof5asmEh+T0QCxZQKzWr9hudpgvnVnZD+jZU3woz5A5bqtn5EP8TN90ng/hQbEQL9u/uwBDR+etg5NdcuuqhZyhTKSnzO6xd5DEKiUtv9ludCB5WZ0QGYjOsHbWd6wT4lE+EDyDJhQzIk8IQQijIyxXBPi5ei8+ISSGTqXzeopkVAEoivO5m6Zw5z/HwOQMxPJhCgDPoH4shOOUyMdYivNO8v/TwHIaRk3Zk5YMlqYcKZzhGOFBEQpz6wjcDIh+uHcFoYq57SZ844JRhC6cxZ3nhD/r0OSN7iH613h6h9TnQS+mpiClQAAAABJRU5ErkJggg==",
     "wiki_name": "Oil lantern (Unlit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oil_lantern#Unlit",
     "equipment": null,

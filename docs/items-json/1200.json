@@ -1,7 +1,7 @@
 {
     "id": 1200,
     "name": "Adamant kiteshield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A large metal shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xs3W30sVQRQH8L3cp14EIYKKvLLShVugVzF8CSIIeqwoKiqKigx9i6IQKUpF+oUg9oMKhUBMpIyghygK/csmvrN8Z8+cnZVd7xYOHO7e3Vnms+fMzG4U7fxWM+EIXf/nrWZeTJ41zybO2Jh9cNrM3Dtlg4jl+evm49w1s/TyagClH6JjeAIiCiCGxiw+v2Lezl7yBsZ/XNPho0oha2bu4bkMCr+AMAh6PXPRzD8+b/viNwRCf4n+vTZpfq7c3R6KIBwzOwS9f3rZgtg3D4T7fq1OmI31J2ZzfdqCMEa7t9eGHl21JO18aoIwKEF8UoAWpi44EI5DoJWFGx4IxwTp0VWreWXAQJzc+A8Q+hzaH9nAMRAsbx5o7c2t6kDMEs4RdHBvZIMoCULWNOjLu1EHQpQCcV5oEFdTY09k4v7Y9A322SCK2QqBvn647YM+3e8chPPMDkHN4aZpjbRsHG3VHQwhQd8Wx6oFIXBtX7efHYKQpYFG3cZIs57BIQj68/mRw5QGSVQoOxo0dGIojTjFEahBevScls4HgvKyI0Ht420PNHzyiAvAtglK9iBkSINkdiSI2ckDMTssmdwU9eiqJUteg5gdrC4udw3qPzbggTTmx/KdakAInAemcbiRmT/MTgiEMrFUlYAQOLe7KzIHWj0ZkJvIcbK65KSWK2311U0Hwi5NTCEQVlhREBEuO3GC4+rCvdjZ8dqQGSqYHbQURBRBdg4JkCyVLBdLxewAhNdGpaCuXVkQS6VBMjv4KgAIu7QEEaVHD7QElFc2vsNC2ZEg9MfrAiB8dnxfGncg7EEl9iEfJFcbriFLWPISsxUI2ekYhFUWAuEcriNLcvLqkNmpFKTLhvP6uzgUuI99AcKSlyDsQaX3oVDZOAieGMf8vEXg1cIXMe6T86cSUKhsEoRr8rNEgtBPzp8OQWjZMoRCYmRoEDZFCWKUAEURt/WtQgNlyPlTCaho08giWEba9z81jQyFvmdHt7/TyujZCvQ+HwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0ElEQVR4Xu3Wy2vUUBTH8QyzclMQRFDRgRQHRqGtpdKNIILgUkVRUVFUVHQnilKK4qMUXxRKfaDSglBqKVoRXIii6F925Zvwy5zc3CmTmSguvHBoJrlpPjnnPhJF/36ruXCErv/xVnNPJo+4RxOHk5i+dchN3TiYhBCLs+fc25mzbuHpmQDKf4m+4SlIKEAKHzP/+LR7OX0y92B+c82PPKoUsuZmbh8toPgLRCHQ86kTbvbusaQvf0Mg+lv095VJ93Xpem8ogThWdgR6/fBUAlLfTiDu+7Y84X6u3nO/Vh8koFIY/qneWiAeKpDeFNDc/eMZiOMQaGnufA7EcZegWq4MPEiDm9+A6LNjS5QExyBU3k6glRcXqwMpS5wTaPumKAmhLIis+aAPry5lIKIUSOPCB2k2NTZGLh6K3eCuwSSEUrZCoI9vLudB7272D+K8siNQc6zpWuOtJPa06hmMsKBP81eqBRFc27w+nx2ByNJwo57EeLNewBEC/Xh/p1sMLQ+yqFB2fNDo/tF2xG2cgD2AaO3xIFCn7FjQyL6RHGjswO4sgPUIStcgMuSDbHYsSNnpBFJ2VLISi2I65X2QssPs0nT3QUN7h3MgH/Nl8Vo1IILzYBo7G4Xxo+yEQJRJpaoERHBuw0Dktra2FUDZQI7T2WUHtZ1py88uZCBW6S4xtHSGdQsSIstOnOI0u7iXlZ1tw2aoJ5BQAiVjyIBsqWy5VCplBxDbRqWggXVFkErlg2x2+CoAxCptQSVQKahT2bSHhbJjQfRnuwDEZ8fnhasZiDWoxDqUB9nZxjWyxJS3mLVAZKdvELMsBOIc18mSHbx+2OxUCvLLxnn/uzgU3Ke+gJjyFsQaVHodCpVND+GNOdbnLcHWoo2Y++z4qQQUKpsFcc1+llgQ/ez46RNEK5YhFBZjwwexKFqQogSo21ZEKuz4+YugtVoRWYz/rb/2G4nGnk3mNxZ9AAAAAElFTkSuQmCC",
     "wiki_name": "Adamant kiteshield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_kiteshield",
     "equipment": null,

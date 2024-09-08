@@ -1,7 +1,7 @@
 {
     "id": 25647,
     "name": "Simple lockbox",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-04-14",
     "duplicate": false,
     "examine": "A small, light box, don't think it contains anything valuable.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABO0lEQVR4Xu3UTYvCMBAG4Pa+4EHRg1gsIiKKVliRBdf1pAdFPHryJAje/f2RicROJsEkrbYL5oUXSunH02naIPDx8fGhCVna0hOy2ejv0ZJxMoa2YNRzzDKJeAualhmzmsZsOpyTaemaO3YY2AYQRumaE2ePgZ42Y3beJXzbBIM6ouwxAIF2ozrrRVUrTLVS43VAhWzxvX7UhOnHDTaIaxxz2U8UgA7jiJJBuPt5l/d31JSaBeOACtlxPeSFm+Bufzq8FJoVI0BJu/0MlYKgrfqXAhM4AboeZgrChIHrQjOBxOdKUbi6NUcRGOIAgsg/NTjhflK6j4IwSlQHEQ/pCAoCgUgx8n4bGH01uqnT6+eKaWrqFNSpvwyDg6dG1x99LW+FqDGDCs6/A0HkLxSvF3pkYcHrpHSMz0fnBiP8OkVfZx11AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABGklEQVR4Xu3UzQuCMBgG8LwHHZQ6RIJERCRmkEjQ16kORXjs1CkIuvf3L97Bcr6bbbOyDnvgAfEwf76bNho2NjY2OA7J+/M4JI3Wz/4YV8Tg1ox6jdnEPm1N01JjtklAknCBpiXr29HDwDWAeJSsb+L0MdDLfkKux5heq2BQQ5Q+BiDQgd8mQ9/Vwrgtj9YA5ZDVbPesCjMKOmQceBRzy6YCQIYxRBVBfLPFgHYZdQutgjFAOeS8C2nhIXwP8z4thlbFGIOgvXZTgDEcA91PqYBQYWBdaCUQ+1wxiq/szGEEDzEAQcp+avk9DOJRrDIIe0lDkE7UMLw1sqnjVT+Q8qmJU5BN/asRz9+Ht8U0FqQT/pzUel5sbP4/Dz54CYctWJyAAAAAAElFTkSuQmCC",
     "wiki_name": "Simple lockbox (Outside vault)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Simple_lockbox#Outside_vault",
     "equipment": null,

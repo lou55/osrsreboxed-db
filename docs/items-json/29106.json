@@ -1,7 +1,7 @@
 {
     "id": 29106,
     "name": "Raw wild kebbit",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Better cook this carefully.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xu2V/0tTYRTGfX+IQAQJpYGSqbFiDVyKpqGpoaao1GRZY2baapnDEvv+hQoqggiCiAiCgiAigoggov/uxOdczt11QtjutF/ugcPd3iu+H57nOWc1NVFFFdVmykmpt7WCF9vlTia7kzKQ2CeptubtgvIAZvu7ZDSVkL4DbZJsafLPaKB64nsl3rR7q9VycnNmTPJj/doAmRpAGVDmSKc274Cq3bljK6CcPJ07KfdmJxRqfrhXpns65FjHflUDIMCA5AyVxjsP6pkBHWptrRaUkxeLGXm+MCPP5tOyemJEske7Jd2b0osNCjW62veojZwBhEpVBnLyunBGXl08LW+Xcwp0OzMuiyN9ag8qcTEA7bFGaWncpRCDybieoVhDXW01gLwwvivOyZulrD5pAypODqlKZAWVALC8AIF6vAe2qaE+LJCTT2vn5ePqgny4ek7er5z1n9hmQOQIlcwacpQbOqyWXp4YVBV5h3IhgJx8vVWQLzcuyOfreQWjgUGpIJDlyKYtVl8nj7JT+t6gTGlgKgBy8v3ukny7c8mHolGH/JAjs6xwfMDPEEBYZpcH20AqgKGc/HxQlB/3l30wVAIIdZi0x7lpHX2sYZqYrr9BVAhCeTC/Hq74UKiEXQb0Mn9KdxHqoEiiOeZDkBXCjWIluFDlFOL3kzWFQiHssvxgmQExWQAFR9uAaNQjX1UAcwqEQmYXk2aBBuhaetSfniAIytDYyPQBRMYIfQgop+qYXZYf20WEmim6MjXs7x8guNSejDhAfOZvgpkqv20T5dlmUxYcd9RhYzP2hJofV7sUGHLFmHNmWzzk/qFKOwgYlAGC6TKV+E6O+IE1S1CKJ7sJ0GB+QqhjtXGXBNvUwjqDAQQbgSHQQZCQMF6V75H1/9yDwjqssq2MZWSnSqr8a21Uzvo/wHhVrtx6FaOKKiqtPy66uSXl1YDNAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xu2V/0tTYRTGfX+IQAQRpcEkQ2PFGjgUv4WmhpqiUpNljZlps2UOS+z7FyqoCCIIIiIICoKICCKCiP67E59zOXe3+kW4d8Mf7oHD3d47eD88z3POGhriiiuunZSTate1ghfb5U5m+zIykj4o2c72ekF5AIvDvTKZTcvQ4U7JdCT9Mxqo/tQBSSX31VotJzcXpqQ0NawNkKkBlAHlj/Zo8w6oxr17agHl5OnSKbm3OKNQy+ODMt/fLce7D6kaAAEGJGeoNN1zRM9qAOTkxWpenq8syLPlnGydnJDCsT7JDWb1YoNCjd6u/WojZwChUsRATl6Xz8qri2fk7UZRgW7np2V1YkjtQSUuBqAr0SYdbS0KMZpJ6RmKtTY1RgHkhfFdZUnerBf0SRtQZXZMVSIrqASA5QUI1OM9sMnW5rBATj5tX5CPWyvy4ep5eb95zn9imwGRI1Qya8hRcWxALb08M6oq8g7lQgA5+XqrLF9urMnn6yUFo4FBqSCQ5cimLdHcJI8Kc/reoEKOvZPvd9fl251LPhSNOuSHHJll5RMjfoYAwrLq5cEOVU5+PqjIj/sbPhgqAYQ6TNrj4ryOPtYwTUxXxBBWHsyvh5s+FCphlwG9LJ3WXYQ6KJJuT/gQZIVwo1hEYE4hfj/ZVigUwi7LD5YZEJMFUHC0DYhGPfIVAZhTIBQyu5g0CzRA13KT/vQEQVCGxkamDyAyRuhDQDlVx+yy/NguItRM0ZW5cX//AMGl9mTEAeIzvwkBQ3m22ZQFxx112NiMPaHmz9UuBYZcMeac2RYPuX+o6g4CBmWAYLpMJb6TI/5gzRKU4sluAjSi/Fj9O8J/t6mFdQYDCDYCQ6AjAtlpeVBYh1W2lbGM7NQZxup/5aodV1xx7d76A2jrf833OuNnAAAAAElFTkSuQmCC",
     "wiki_name": "Raw wild kebbit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_wild_kebbit",
     "equipment": null,

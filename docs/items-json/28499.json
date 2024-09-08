@@ -1,7 +1,7 @@
 {
     "id": 28499,
     "name": "Sigil of the well-fed",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-08-23",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xu2X7UtUQRjFvWSWuiThG9uWa4pJrmgbmUliQlhmkomIWWYiImaZhIiYtYSIYpaYZpbSsiy+YaKYhS360Y/9Cf0vT57nMtfreFfWmhYKBw4L4r3z85zzzKwREQfr/18aBVfYl0bfJ2N2qLGxliorb1Bx8eVwg+2GMau8vIRVUHAhHK7tDQPBpaKiS5Sf76bcXBdlZqZTWlrK34DSaHHRRz8DNpYMYlZV1U0qLLxI2dlnKSPjNJ1ynGCgc6mpqqA0Wv0yx0Dz858MKKEfn7fV3Hyf7tTcprKyqwwFILs9WT3QysosA83NTgWFedb9hB61NlBdXRX3CNEhNqfTQTZbjKrYNFpbW6Ll5WlaWPAy0PT0+11Avb2drPb2JqqvrzYm7rw7hzsUF3dMlUsaQ/h8Y0GBXg2+oOHhl9Tf300dHS18BKBH10quUF5eLscWH39cHRDcgdzudJbf/4683rcMNDraR+PjAzQ19Yae97RTW1sjO4QelZYW87Qp7pFe6JycNEOzMx9o8uMQvR7y0MBADzsDITI4JIotgDD6iidN2wGESRMRocgez9Otnti3nHCwS+hRdfUtAygr6wwXWxGQRoHAMrlcTkPYGNE0Nd1jORwJ5ExJZigh9AgdAhDOI3E4KgFCiRETCg13AIVNMUUYb4z5xMQgR4jYOjtb+Wc4i3CFYPTRIwVA+um8tORniXKjxOgO4urqekwPWx7Q3dpKjgnjXlFxneMCsPkKEbHJu4Sw9AsxMvIQjzogvn1doI2NVf4E5NhYP8PADUgUGeMugOQ7LSkp4Xdc0kGgqKjDLIz05uaGcUBi7OEQ4kE0EBxCn4RL6A+ARGTmw3EfLu2GiY09ygLM+voKO4a+wKG+vi4uLxwRXzvQG8gcGaYM51B09BF+J94fAlhwmMSEON68oaGGYVBy9Ahjj6iwOVxCXMIhQImrA4UW7xLvFnvtAWUNBBgIcSCGk45EjnBkpNeABAg+ASN6BEjEJZ6HggHt0SkdysohIQBBOHcggKA/iA4wcAoRmp/5AyAsaygruFBlBjHDhAiEtRNKBpM3tJLcGRlGlBowIQBhbZ9FVpI3spL8jOzKPmD0pf+y+T8HNdo3iLzMf40qyXscrH9+/QLQG824zpCjawAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xu2W7UtTYRjGPWSWLyThG2vlaGKSE2WRmSQ2CMtMUhliltkYImaZhIiYNWLIxCwxzSwlGWNNMZmYhQ330Y/9Cf0vd173eI5nZ2cy8+iH2A0XA2Hn+Xld1/2cpaQk5/8fieLryEeiX/MZUXI626ml5TbZbNeOGiwWRqnGxjpWdfXlo3BtbxgILtXWXqWqKitVVFiopKSIzObCw4CSaHXVS39CWSw1iFJ2+x2qqblCZWUXqbj4PJ0zntEbSKKN70sMtLz8RYYS+v1tV93dD+leWzM1NNxgKAAZDAX6A62vBxhoKbAQF+bF8DN60uugjg479wjRITaTyUhZWRl6QUm0uRmktTU/rawsMpDf/zEGyO0eZPX3d1FnZ6u8cZes5dyh7OxT+gEBwuudiQv0ZvwVTU6+Jo9nmAYGevgKQI9u1l2nysoKji0n57R+QHAHslqLWD7fB1pcfM9A09OjNDs7RgsL7+jlSD/19TnZIfSovt7G26ZzjyKFLi83ywp8/UTznyfo7YSLxsZG2BkIkcEhUWwBhNXXedOkKCBsmogIRXa5nu/0xLDjhJFdQo9aW+/KQKWlF7jYOgFJFAqtkcVikoWDEU1X1wOW0ZhLpsIChhJCj9AhAOE+0vFylLjEiAmFhjuAwqHYIqw31nxubpwjRGyDg738N9xFeIVg9dEjHYAit3Mw6GOJcqPE6A7iGhp6So97HtH99haOCeve1HSL4wKw8hVygNgiL8TU1GO86oD4+WOFwuEN/gTkzIyHYeAGJIqMdRdA6ndafn7uvwBFQKC0tOMsrPT2dli+ILH2cAjxIBoIDqFPwiX0B0AisujLMWGoWJjMzJMswGxtrbNj6AscGh0d4vLCEfGzA72BlJFhy3APpaef4Gfi+QmAxYfJy83mwx2ONoZBydEjrD2iwuFwCXEJhwAlXh0otHiWeLY4aw8obSDAQIgDMZw15nGEU1NuGRIg+ASM6BEgEZf4PrRPIEwESsshIQBBuHcggKA/iA4wcAoRKr9zACCMNpQWXKJSgihhEgTCREOpwdQHakndGTVMAqVWz+5dpCX1QVpSf2efrsQb8Z/oqeQk5/DnL6ILkYL7MBJnAAAAAElFTkSuQmCC",
     "wiki_name": "Sigil of the well-fed (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_well-fed#Un-attuned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 27073,
     "name": "Elite calamity chest (broken)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-07-06",
     "duplicate": true,
     "examine": "An elite chest piece used by the Calamity Coven, but it's broken.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcUlEQVR4Xu2WYUvbUBSGDSIlJaSUlJa2WG2lllrRTqxT0DFBYSI43BBkm7iNDQaCsOE+jLF9Egb7sM/7A/udZz4nnDSNOjV1g4EHXqJJmvvc95x77h0ZuYu7iIcjl+ufRjho1h2L5HuuVIo52exmZWfJuw2o5AwvV5DLqjpTlUjAxN/pTk6qkqNcI/qzrflZaeQ8cTMZFbNmYK48//g0kGatGKldL0mjWpBaOS+lIHTFQG4I058JH2KwTuDLfCEnC6W8rFQKep9ZI/42sJcbfgTzYTcve6ueLLfcAaDkaFeEIw/HS/KoXtaPMjsGMqDNibLO2sRz01q1qMC4t9Ael097gd7nf4BTADmy3ajIYachr2cb8qQ5Htn/401RawHIeFq0UM8gkaVyd8VT4Q5X7vEeEwudv3Y48nZuSo4XWvKu21So04OC7LcnZH66qjIoxCC4iQDCVQbfWsyqMzi4/8DXe6ys1C6d9GYUCqd+nYQAgBgQejxVVQhgSJVB4QggvHO8k9eaQlZr1OONXfq6MiuflzsKFF+6JlJJahEQFDn6dlhUCFJlhc37AALUbQxRS6er8wpEcZr48F6rpkAIl0iTFbPV2dF2Xl6s+5omRAqRrdwUy55wNEW9zoTOlnoCkHpCgCGAcIcV+POopL+hH1mqzJ1+qm7sjoUTwVDgFHscChgconZwh7bQyvvy/VVRoWw1UtwFL+xD1kANLDniFeHoBwExIIMyGHMHEEQXN5esdvhO+axu+FYcKlVx8xFW29G9aRVg6PlMPVplpKqSdXVbQf3Z9/VsaylKnXX1lLXkKMj7xba2Aq7Wo0gdTuGKNzaqUEU3MzBQOJgjG/fbCmHNlDTae8kRr4gQyDrwRSJlgKB8JkxDfyBH1nvTA00Vl4BKDRQfnLMMvSQJhaihwVSFv68X/KjAudrzFOmyCD9Ab2EbAGqt42pfoQEmwQBuVUOngAHENmE7Ew0BY+Hozh1veAYUdwXQXjMjs7WM1Aqj4rsjA+chO6L0HUwdjm4LX/aDaH+y3RxXeI5z5h5QuNQshccSgxlidSXDiXb55L7GM+DMtfU5Vw9k3G9VgugQF3dnSBjCuRAGUVc4ZWef+J4FEL+zhnhL7licb3imeFEPDhpOhLRZZ74lmDBsoKTicOcd+NOzvxiDgNd/dhf/ffwGzijzjd0Sx/UAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xu2W30vbUBTHDUNKSkgpCS1tsdJKLbWiTqxT0DFBYSI43BBkP3AbGwwEYcM9jLE9CYM97Hn/wP7OMz8nnCTNdMy07KkHvkSTNPdzv+fcc+/U1CQmkQ5HbtZ/jWjQojsdy/dcqVdKsrdSlMN1bxxQ2RnerKBUVPXn6rGAGX4vdySzbfpFaZc8cQsFFbNmYK48//gkkE6zEqvXqkq7EUqzVpZqMJIryUz4EIP1A1+Ww5KsVsuyWQ/1PrNG/G1gL3f9GObDUVmOtzzZ6LqjADnyYKYqD1s1/SizYyAD2put6axNPDdtNyoKjHurvRn5dBzoff4HOAeQIwftupz22/J6sS2POzOx/T/eVLQWgEynRQv1ChJZKo82PRXucOUe7zGxW0I58nZpTs5Xu/JupaNQly9COenNyvJ8Q2VQiEFwEwGEqwy+v1ZUZ3Dw5L6v91hZuV26GCwoFE79uogAADEg9GiuoRDAkCqDwhFAeOf8sKw1hazWqMdbQjnydXNRPm/0FSi9dE2kktQiIChy9O20ohCkygqb9wEEaKU9Qi1dbi0rEMVp4sPH3aYCIVwiTVbMVmdnB2V5vuNrmhApRMnqzRWOpmjQn9XZUk8AUk8IMAQQ7rACf55V9Tf0I0uVuZOkagQgg6HAKfY0FDA4RO3gDm2hW/bl+6uKQtlqpLhDL+pD1kBzgjn6QUAMyKAMxtwBBNHFzSWrHb5Tu6obvpWGylXcfITVdnZ3XgUYerbQilcZqaoXXd1WUDL7RE/31+PUWVe/JYyFoyDv13raCrhajyJ1OIUr3vQdhaq4hWsGcmT3Xk8hrJmSxj/f+6eIgKwDXydSBggqF7JpcGRnMD/UVHEJqNxA6cE5y9BLslCIGhpOVfT7VujHBc51+HmuiD5Ab2EbAGq772pfoQFmwQDuNiKngAHENuHkTDRyOLpzpxueAaVdAXTQKchisyDN8I747tTQeciOKGOAcnRb+HISxPuT7ea4wnOcM/eAwqVONTqWGMwIqysbTrzLZ/c1ngFnru0suXog4363HsSHuDG6QzjXwiDqCqfs7JPeswDid9YQxwRjkV5Bw0oX9fCg0URIW47OPEqkAbPxt2eTmMT44ze0p6691hS7pQAAAABJRU5ErkJggg==",
     "wiki_name": "Elite calamity chest (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elite_calamity_chest#Broken",
     "equipment": null,

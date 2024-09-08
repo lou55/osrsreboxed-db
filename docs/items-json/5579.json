@@ -1,7 +1,7 @@
 {
     "id": 5579,
     "name": "Gypsum",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-27",
     "duplicate": false,
     "examine": "A vial of something labelled 'Gypsum'.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xt2X61MSYRTGff+EPjZOZeNoaTVhDmKAoqWEKBpe8oKlmBKGbpAlgnnJNNM0rzleSQclmiZl+gefOO+667r1pQaWmc7MM8wssPvjOc85u2Rl/R/FcF4ZLYa+9ly01F5Gtfki7ty8kGkohtiaGdFlE1egtwAu59VMQjEZZu9jKQT3NbTVX+FAupwcraHEzEhAOx8M8D3J5+3LQJ4YHPVNcDpbZXc+T+vh7cxDo+0SSkpMMJoqtYRi6Ojo+k11jiZUWx2wVFih0+m1bF1yujxeLo+nX5a91on7VXbo9Ubk5RdoC+QPDMkSBD98PgG2mgbcNVag8MZtZGeLWdIIiIrh6OgrEomfODlJ4Pg4wdtVVFQih5pgNAVy9/QhGBxBODzKRe0qLi7NBAwVw8CAgFAodKqwnB+NWyUVw3E8zh0KjoS4qGUGQxmuF9zScuSpGLZXVvAjFpNFcIFnHriakqNfXq6lSwyzo6P4Fo3i++GhDETHXvf3o+tRC+xVVbCUillSfzsNxRBZX+cwSs2NjSH8QkCvy4X6B1atXGKYnxhHfP8Ld0gSAdHx8ZcBPO/uRnNdHWyVlVq4xLC7tor4wQGXEmphchJTw8MQnvagtaGBu3TPbE6nSwyLU28R3dmWgZSi994nx3/I68Xj5mY01tq5S2UGQ7pcYthaXuLtOqdToKXpdzzYwz4f3G2t3CWHNW0uie7sb24iFolwqcFWZmZ4sN/4/fB0dvLxJ5esFks6XGLYWFjA4d6uDKQUAa3OzvJgT7wawkCPm7vU4nBwlypMKd3e4mTRqBOQUkqo9fl5HuzpYBD+vl7ZpYc1Nu6SUS8+H6nP/g/F+K+nMEtSg5HIQSnYtCBp/GlJkku0KFPokhjmg62tc1BquM1Pi3KwRwYHuUu0JNudTu4SLcqUukRASqnBCFoKNi1IGn/JJcqRrrBQdiglLlGGIhsbXDRtJCUc3WzX5uZ43mhB0o2WYGgX5efmphJGKvEpkC5M21oNSMcIiIJN7aLlKOUmDTBiiSeU/nOJtxEZLPlKk0YwtBTVICmHUdbZBc7g1NIE5E+lvLBa6s/+bf0CGP1KvzJEVVQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xt2W7U9SYRjGff6EPjZXrTktrZbmEAMULSVE0fAlX7AUE8LQE2SJYL5kmmmarzlfSYcSraWsf/DK+zme4xH7eDhn896usR02+HE91309ZGVdjmE4L12Hwdueg5ba66i2XMWDu1f0hmJIrFoQXzJzhXrz4Xbd1BOKyTC7X0sheG6hrf6GXkBiZiSg7S9GBF7k8ePTIU8MzvomuFytsjvfpwzwd+ai0X4NJSVmmMyVWkIxdHR0XVCdswnVNiesFTYUFhq0BfL6/Fw+X58sR60Lj6scMBhMyM3L1xYoGBqUJQhBBAIC7DUNeGiqQMGd+8jOlrKk2TAcHv5EKvUXx8cpHB2l+HEVFZXoEWoaBk+PF+HwMKLRES46ruLiUj1gaBj6+wVEIpFTReX86AZ0lExyh8LDES46MqOxDLfz72kNxbC1vIw/iYQsggu98sHddLL65eVaAjHMjIzgVzyO3wcHMhA9e9/Xh65nLXBUVcFaqlmWGGJraxxGqdnRUUTfCOh1u1H/xKaVSwxz42NI7v3gDkkiIHo+9jaE193daK6rg72yUguXGHZWV5Dc3+dSQs1PTGByaAjCyx60NjRwlx5ZLJkEYliY/Ij49pYMpBS99/lk/Qf9fjxvbkZjrYO7VGY0ZgqKYXNpkR/XOZ0CLU594sEeCgTgaWvlLjltGXNJdGdvYwOJWIwrHWx5epoH+0MwCF9nJ19/cslmtWbCJYb1+Xkc7O7IQEoR0MrMDA/2+LtB9Pd4uEstTid3qcKsanuLm0WrTkBKKaHW5uZ4sKfCYQS9vbJLT2vs3CWTQbX/R4z/egqzpHQwEjkoBZsKktafSpJcoqJU0SUxzPubm+eg0uE2vi3IwR4eGOAuUUm2u1zcJSpKVV0iIKXSwQhaCjYVJK2/5BLlqLCgQC0YGvG6iK2vc9G2kZRwdNmuzs7yvFFB0kVLMNRFeTk5asJIQx8o3vLU1umA9IyAKNh0XFSOZ7lRHUY50heI14gMdvJKm0YwVIoagPxvzuAu6hLOP5FuFbRzrRn8AAAAAElFTkSuQmCC",
     "wiki_name": "Gypsum",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gypsum",
     "equipment": null,

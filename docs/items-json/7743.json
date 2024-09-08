@@ -1,7 +1,7 @@
 {
     "id": 7743,
     "name": "Beer glass",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "I need to fill this with beer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xs3WW2sTQRgG4OSf9LYF0fvihXqZgkda0SalRiNtpBjcbBOaBg+leKJQ6gGVFiqllqIVQVQURX/Z2HeWd/PNl8mabbbSgZdsdmczT2ZmvySXO/otb/zxXT/0ljdPFi6aR83zNsvz58xScNaGiK3VabO5MmU2npY8KP0lBoZHIKIAYjRm/fGkebl8xRkY73FNx0WlQubNyuKlLhReAWEIer502azeHbd98eoDob9E/9xdMN+37xwMRRCOOTsEvX541YLYtxcI9/3YaZrfe/fMn70HFoQxTgwN2ejRVYumnd+aIAzqA63dn4hBOPaBtteuOSAcE6RHVy3vLAMG4ubGew3C4EBweXuBdl/cyA7EWcI5gORe0AEIs6ZBH15VYhCSCsR9oUF8ms6cPuWkUCjEIUyDPr656YLehYODcO34yEgiiOc07NP6TLYgpF9QbXbGHBsetsE92G9fNm/FoF/v2zEmNUiicK1cKiaCihPjphUGznXc9/XtnBekR+/ROhvUB2o25p2E9SAOQAg/g6BvW7WDgqIahBk6LJAsinp01aJH3gdCfKB2u+0FnRwdjUNUJiCiEFy/PlUSoEYXqFG7bSMhmc2QnCW8RjOUDJrcnx0JwRO286wcg1CliekLhCfMB2JRBKgR1vcT2iy2WqYeBDbTxaIFoR/rDyo7fjbkDPU5O2gdkN5HOE9QtVIxc9WqTTcomklgMDsA4WcjMxBREkQMUymXbS6MjXlBqNISRJQe3dMikG/ZcI5/spJAiAThb8fnjdkYhBqUog65ILlsBGEAjSIo+tbu/hkYhKfsXyAMxsFluNfkcmUG0suG8xKEwfmji6LJWoX72BcgPPIShBqUug75lk2CcJwEkvsnE5Bv2SQI1+TfEglCP7l/BgShde8NXyRGRoNQFCWISQHK5VjWk6KBMnL/ZALqt2lkP1im0/c/NY30Rd9zpNtfnPF7038jwXYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xu3Wf0sUQRwGcO/lKEgvQPqj/POEfqJS3omeXeiFdLS33uF59EMkSwSxH1QoGGIiZQRRUiT2yiafWZ7tO7Pjtnu7in808HB7O7s3n5uZ/d719Jz/VlDuuPpPvRXU8/kbarl1TWdp7qpa9K7oELG9NqG2VsfV5krZgbK/RGZ4ACIKIMbGbDwbU6+XbhkD4z367JioVMiCWl24GUHhFRCGoJeLo2rt4bC+Fq8uEK6X6F978+rHzoPuUAThmLND0NuntzWI154Ewn0/d1vqaP+R+r3/RINSYfCh/NYEYVAXaP3xSAjCsQu0sz5pgHCcEFQwlgEDcXPjvQ3C4EBweU8C7b26kx+Is4RzAMm9YAcgzJoN+vSmGoKQVCDuCxvEp2nw8iUjxWIxDGE26PO7uybog58dhL4LfX2xIJ6zYV82pvMFIUlB9Zlp1d/bq4N7sN++bd0LQYcfO0kxaCZIotBXKZdiQaWRYdX2PaMf931/P9stCO3vBnWBWs05I37DCwMQws8g6GC73i0oqEGYodMCpSiKwSPvAiEuUKfTcYIuDgyEISoXEFEI+qfGywLUjICa9fs6EpLbDMlZwmswQ/GgsePZkRA8YbsvKiEIVTohBi14wlwgFkWAmn7jOL7OQrutGp6nM1EqaRCuY/1BZcfPhpyhrkD2PsJ5gmrVqpqt1XSioGAmgcHsAISfjdxAREkQMUy1UtG5PjTkBKFKS1AKVAByLRvO8U9WHAiRIPzt+Lo5E4JQg1LUIRMkl40gDGCjCAoGMfdPZhCesn+BMBgHl+Fek8uVG8heNpyXIAzOH10UTdYq3MdrAcIjL0GoQanrkGvZJAjHcSC5f3IBuZZNgtAn/5ZIEK6T+ycjCC26N1yRGBkbhKIoQUwKUNIWRTJy/5whKK5FkdH8b9naH1LtMUfP8W3gAAAAAElFTkSuQmCC",
     "wiki_name": "Beer glass (Player-owned house)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beer_glass_(Player-owned_house)",
     "equipment": null,

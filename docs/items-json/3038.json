@@ -1,7 +1,7 @@
 {
     "id": 3038,
     "name": "Agility potion(1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-27",
     "duplicate": false,
     "examine": "1 dose of Agility potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xt2XyU9aURSHvcbSdZfGDjatA+KAKILiyKAiKiJSlBmLFgtBlEGxabrpokk3TZqumq4a252S/oO/cu7jPaZubB6Xpif5EkLIu19+59z7Ll1d/0cxNNLRYjg6eAaf6zEc870wjD7otBTDj8/z+P7JwjlLaBH0PO2kFFNkvn00IxMfwv72Ey6k7+8XLSXNjCz09YMJqcggb18H5olha9sLj8evpPPlvRHJ0AB21x9hZsaCOcuKSCmGQCDawuaWF47VLSwtr0KvN4psXWV3HSc5x8cnChsuD2z2DRiNcxgY1IoVyp7lFDKZLFKpDNadbszOLWNEN4G+PmmWBAlRMVxf/0S5/Au3t2Xc3JR5uyYnZ5ShJhmhQvHDI1xcXOLq6g2H2jU1Ze6EDBVDOp1BqVSqcqXMj+BWycV4OpzLEodaZjItYFg7JnLLUzEkkykUixcNyEOtG9WLTInhIBBBPl9AoVDkkMz+QRiuzV0sLNowPjGF4eFRUSkxnLxONwgRJOl2+7C8sgaDwcS3voCUGILBGM7Pc1yoHvp+1+uHzebkgy0opUo6JynkcoUGSCgUjsHnC2B1rTLY5kV+HrU5JYZwOI7T07OKRL5KTSoSOYTfH4RzYweWeSump2cxNm7A0NBIu1Ji/H1F7SJqUhLR6Es+2HQLWFxyKClpR8bbkRLjCdBBKAvVQ0KxeIIP9s7OC6xY1/n1o40pMSQSrxpeqIQzfK8BGmyvdx92h4tvfzok6RqickrSzqKtns2et0jcBZVSYi0P/ltUSkk9IeKfSEln7sbD511KQqqkdPj2vkLiXSvRkgaBnAZ7aQ3cRxpY93pgXuvhMr39qsrIJd0CaWGiWY4+y0KyzIC+u9oi1WWkkh4o/+eqpSYLhYqSjNHeKqK6TH3VFqjJNSNE5E9Vv3Azzb+9a/0G3nbA7JrRZdMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClUlEQVR4Xt2WS08aURiGPcbSdZfGXtOq4BVBBEFRQVRERUDK/WaBQiGIclFsmm66aNJNk6arpqvGdqekf/Ct34EZQLppAzPGL3kSwmLmyXvec+YMDNyNYehE1mFIBZ7D63gM29IwNFMP5JZi+PllCT8+mzjHSRVCrmdySjFR5vsnAwqJcfj3nsgl1OiMIPTtox656BhfPhn6xLC754HL5RPT+fpBh0x4FO6tR1hYMMFoWpNSiiEYjHWxs+uBbWMXK6sbUKt10gql0hlOOp0V2Xa4YF3fhk5nxOiYSlqh4nFJpFAoIpcrYMvuxKJxFROTsxgZEbok2TBcXPxCvf4bV1d1XF7W+XLNzS3IUWoahsRhCqenZzg/f8uh5dJqDXLI0DDk8wXUarUm52J/ZBOidDhnNQ4tmV6/DKVqWmophkwmh2r1tAOh1JNTaimFGALBKMrlCiqVKodk/IEIHDtuLJutmJnVQqmckkqKIfsm3yFEkKTT6cXq2iY0Gj3f+hIIMYRCcZyclLhQO/S/2+OD1WrnxZYopet0sjmUSpUOSCgcicPrDWJj87rYBjM/j/qcEkMkksDR0fG1RLlJSyoaPYTPF4J9ex+mJQvm5xcxPaPB+PhEv6QY/17RchEtqQax2CtebLoFmFdsYkqqiZl+CDGeAB2EglA7JBRPJHmx9/dfYs2yxa8ffUyJIZl83fFBJeyRex1QsT0eP9ZtDr796ZCka0iPU2rsLNrqxeJJl8S/0CMp1vXg/+XWCRG3QmrSMIiHLwZ6JUPDcPjuvkjyfTexmgLBkgIHeQWcKQUsB0MwbA5xmeGnPZURhh7I+IuJm3L0WxASZEbVg02Rnsu0j/CCVmqCULjakNGtSyLyt2nJdXMH5w9W9ovhIZDy0QAAAABJRU5ErkJggg==",
     "wiki_name": "Agility potion (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Agility_potion#1_dose",
     "equipment": null,

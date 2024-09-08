@@ -1,7 +1,7 @@
 {
     "id": 15322,
     "name": "Magic fang",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-01-08",
     "duplicate": true,
     "examine": "This can be attached to a Staff of the Dead or a Trident of the Seas.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xu2W20uTcRzG/eFFJOEQRVnhYRMVDywTkQaOHDZyJrqlLlPM8lQ6lys104ZZw8nQVJxpZlPsoJYmaJaFZeRNgVedrus/eer7Hb5pdBPk+3bRAw+8/K4+PN/TGxT0X39FAr+3IhIICd4nWRUcLlkBKIH9ITGI3qORrNmbwKZvozFdTiiBlLAMJKkOIj40FWn7Du1wcogOQ0ONDJQeFycHlIBebUJWVA4yIw1Ij9AjS2VgZ4Tq2b5hu1xAAnkxpTBFn0DugSJkq/MYLifczDaEmdh6lRFlZUY5yiZQrK2GRVuF/NgyhhvxOXDBYUV+RAmORVjYR8MLYLdb5EhJwKnphj2mA6XxdQxWqKnAxMQlhqooz4UlqhyFkScZUBagDq0Xl7WeHWCU2vR0O1xXK2A2Z8GmPovu1hY0NBTudtkEBm6ex7WEQbji+yUwR6wLz58NY/y2E7W1+dDrU+ByNqOtcdenTWBstBnepLvoSbyFGwk+CaxF48byUh9PGJWuvakJF8/Vw1FTvZspCfj9Lej11GAw+R6D9SaNMxilNjfrwuKTHnR2nILNdgQNVVUoKtLvfkpUtjtpixhJnWWw/uRJKTXqpUdzXWhrtcFqzZYDiCTQ1VWJKd0K/LoljKXOS3AzDzsZyO0+g8pKk1xAJMHj7vN4AhP1ozxWs5lh5h938/mgKZMRiCSw8nSA+2Zhwb3D9EZlkxmIJLC6OsITtt3US9e7TysBRBJYW5tgsC0/uH8FXm+ddNNkBiIJvH7ll0zN3d9XD6ezWO7/o+0S2NiYYVNz03qgaSw4fliplEgC798t8qTREqWU6MZlZiYqlRIpMH2UEq0GgqLtrVaHKQv18sUor4CtpAhKp9MqC/VmfYrToianw0s9pWCTkwS+fH7Lq4D6in5R6KyUFBuUhSJ/+/oBm5vLDDc12caLUzGowMgHwMifPq7zMqWNrhgUicB+hfv5prC2QP4JmD/Vd9/UTccjqC6eAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xu2W3UuTcRTH/eFFJOIQRVmhsomKLywTkQaOHDZyJrqlLlPM8q10Lldqpg1bDSdDU3GmmanYi1qaoFkWlpE3BV71dl3/ybfOEZ80vIr2PDd+4QsPz3Pz4ZzvOecJCtrXf5HA3lZEAiHBoZJVwRGSFYASOBQSi5gDGsmagwlsejYa0+WEEkgJz0CS6gjiw1KRFnp0l5NDdBgcbJQXSK82ISs6B5lRBqRH6pGlMrAzwvRs/5BdLiCBvNhSmGJOI/dwEbLVeQyXE2FmG8JNbL3KiLIyoxxQAsXaali0VciPK2O4Yb8Dlx1W5EeW4GSkhX0iogB2u0UeIKfGDXtsB0rj6xisUFOB8fGrDFVRngtLdDkKo84woCxAHVofrmm9u8CoatPT7XDdqIDZnAWb+gLcrS1oaCgMNJRA/51LuJkwAFd8nwTmiHPh1cshjN1zorY2H3p9ClzOZrQ1BnzaBEZHmuFLeoDuxLu4neCXwFo0Hiwv9fKEUevam5pw5WI9HDXVgYQSmJhoQY+3BgPJDxmsJ2mMwahqc7MuLD7vRmfHWdhsx9FQVYWiIn0ggUhbbbuftojh1FkG60uelKpGWXo614W2Vhus1mw5gEgCXV2VmNKtYEK3hNHUeQlu5kknA3k851FZaZILiCR43P1e79ZE/W6P1WxmmPlnbj4fNGUyApEEVl70c24WFjy7TO+obTIDkQRWV4d5wnaasnTLfU4JIJLA2to4g2378aPr8Pnq5Lppe0ng3dsJyRTuvt56OJ3Fcv8f7ZTAxsYMm8JN64GmseDUMaWASAKfPi7ypNESpSrRjcvMTFQWiqaPqkSrgaBoe6vV4cpCvXk9witgu1IEpdNplYV6vz7F1aKQ0+GlTCkYcpLA928feBVQrugXhc5KSbFBWSjyzx+fsbm5zHBTk228OBWEIm2Bkb9+WedlShtdYaht/YH7+8u+/kW/AEPXL6waisz7AAAAAElFTkSuQmCC",
     "wiki_name": "Magic fang",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_fang",
     "equipment": null,

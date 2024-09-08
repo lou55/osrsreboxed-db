@@ -1,7 +1,7 @@
 {
     "id": 1364,
     "name": "Iron battleaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A vicious looking axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4Xs3V60tUQRjH8V1i6b8QSTDM8BJeIfOFEemLysruFBUVRgVRFGJFF5FuCGIXKhQMMZEygqgoivrLJr6z/I5znsZt1z2FAw/n9izzOc8zZzaXW/sj7+IRe/7PR949Gt3nHowM+hi/vseNXd3tQ4i5yZNuduKEm3l8PIKyL1E1vAgSCpDCYqYfHnPPx4+kJuaaZzbSqIqQeTdxc/8fKI5AFAI9HTvkJm8f8LkcYyDyQ/T3xVH3df7K6lACca7qCPTy/lEPUu5KIH73bWHE/Vy6434t3fMg5miprfVhZzejWHa9tUBMakF6Y4Gm7h6MguanTqVAnAtkZzcjn2oDE2lxcx2CyN3W1eUGtvf581KgxWdnsgOpStwTiLytHR1uR2+vG+zvT4FoowW9e3E2AREVgbQuLIg3B0ROe0uz625r8xXq6+lJWqffW9D7V+fSoDfXqgdxX6DNDQ2uubHRwzpbWz3u4kDB3Rhan8IJ9GF6OFsQQStD0Kb6en/c0tTkhroLbnhnwVeMoJ0gyaXFn2YvJKAfb28lmIpBIYo3taCNdXX+elf7One4p+AhwlA5gT6/vhQF2dlXGMVys0BjIKEU/a3rkqBaYCzoy9zl1YKKexAVKgViEnJCkICsLTCsL67JD0HhpmhnN6P4ycdAhAWRT6uEIYfjhpoa306qlTlIKAIQOy4TcC4QIZCqpgCeGSisEscQRO7ezkIKI1C4/wBaeHI6AbFLC1MWiC8sBtLfgQWF7YqByOVvI6xQmdVhLIPsOtLuC0itAsQ5Cz4GUrv428gMJBT3mUAgNkJhBAorGYLYpUOQUHb2yCiCYm0TiBzapLXzNxAv8HHmfAJiD6pgH0qDwraFIHZki4mBqE7VIL6ylUA876yPV0cgrTW1KzOQbRv3VSGCyW27BFIuID75EMQeVPE+FGubJuGNOS8FCtdPJqBY20IQz0DEQOSF66dKEGN52y8Vdv0oLIhNMQQpKgDlctrWS4UFhhGun0xA5Q6LLAerWM79T8MiY2F/s6bHb5R/cSiVaYSSAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xu3V60tUQRjHcRdZ+i98kbBhhrahrkKbL4xIX1RWdqeoqDAqiKIQK7qIdEMQu1ChYIiJlBFERVHUXzbxncPvMGd2XPfsnqIXDTyc26PzOc8zZ7ap6d8fOROO0PM/PnLm0fg+82Bs2Mbk9T1m4upuG0IsTJ8081MnzNzj4wGU/xINwyOQUIAUPmb24THzfPJIYmKueeZHEpUKmTNTN/dXoDgCUQj0dOKQmb59wOZyDIHId9Hfl8fN18Ur9aEE4lzVEejl/aMWpNzVQPzdt6Ux83Pljvm1cs+CUmH4p3prgZjUB+mNBZq5ezAIWpw5lQBxXiMol2gDE2lxc+2CyN3W22uGtg/Y82qg5WdnsgOpStwTiLytPT1mR3+/GR4cTIBoow969+JsDCJSgbQufBBvDoic7s2dpq+ry1ZooFyOW6e/90HvX51Lgt5caxzEfYE2tbWZzvZ2CysVixZ3cShvboysS+AE+jA7mi2IoJUuaGOhYI9bOjrMSF/ejO7M24oRtBMkubT40/yFGPTj7a1aMYwkyEXxpj5oQ2urvd7V3WwOl/MWIgyVE+jz60v1ghhRuVmgIZBQisFicxxUC4wP+rJwuV5QtAdRoWogJiHHBQnI2gLD+uKafBeUYlOMPvkQiPBB5NMqYcjhuL6lxbaTamUOEooAxI7LBJwLRAikqimAZwZyq8TRBZG7t5RPYARy9x9AS09OxyB26RoxjOgLC4H0c+CD3HaFQOTys+FWqC6Qv460+wJSqwBxzoIPgdQufjYyAwnFfSYQiI1QGIHcSrogdmkXlAIVgUJtE4gc2qS1sxaIF/g4dz4GsQel2IeSILdtLogd2ceEQFSnYRBf2WognpcK4eoIpLWmdmUG8tvGfVWIYHK/XQIpFxCfvAtiD0q9D4Xapkl4Y86rgdz1kwko1DYXxDMQIRB57vppEMSIWrJW+OtH4YPYFF2QIgWo1lGJVLjr5y+Cqo1KZGX8H42N30p7JpyQVzuvAAAAAElFTkSuQmCC",
     "wiki_name": "Iron battleaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_battleaxe",
     "equipment": null,

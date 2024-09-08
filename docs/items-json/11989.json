@@ -1,7 +1,7 @@
 {
     "id": 11989,
     "name": "Ring of wealth (1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-03-27",
     "duplicate": true,
     "examine": "An enchanted ring with one teleport charge.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXUlEQVR4Xs3Wz0sUYRgH8F1iWWZZ5tQfYP9BBymEDh06RB3S7demYVhttVHB0lKYGlbLlimKmonGisaiorUVlFlLlgThIQq8BR2iQxAE3YJOT3zf4RmfeX3Xdt0pfOFhxpl3fD7zzDPvbCCw8UeQzGE6/89HkLrb9lNXa4OK7OV6yqT3qWBEvr+FJnqP0VhPswGl30TVcAfEKIA4dEzu9lEazjZ6EuNvnNPDi6oIGaTejgOrUNgCwsGgoUyc+jsPqbnYmkCYL9GvZtro5eTF9aEYhH2uDoNGbzUpEM8tBcJ1xelWelO4RouFGwqEHFtralTo2bXhlJ3vmkFIagINXj/sgrBvAk0OHveAsM8gPbs2gp7HgETc3PhbByE5EPx4S4Fm7ib8A3GVcMwEwjzZHxwS9HDklAtCVATivtBBSK6DMA/XxMPtKnaHErR9yw4VEvXo3mkvaOpS9SAcB4hRXEkJqgvFjKAnuaS/IAQAEsQNjWtOWn0qAGIUgzB3buKcC1p4cNXFVAySKPxzBnGfcDTGGqiutpbqwykXJUHP718wgvTsJYaTBHdvAuHcVI/lxmxfhOZHIzRwxaLzTSHaE0qqkKD5fGq9IGcNQoVMIJwfz1rUfiZMyXiIutNhej0eoaXpKC0/jioU3xD3D25CguSiqGfXhvPKm0AIBo10WpQ4GFKgoQ5LQb4Ubfq5ZNOz4QilW8Ke6vgKYhSCQahIbJcD4mpwfJqLUi5j0ZG9zjlfQbJK2DLo+1ubCgMRVSUdhH5KNXsrNH3nhAvCKs2YskB4w0wg/hxgzu/lzfR1waZizmnkm6mwJ7g63D/4bMgKlVkdjBWQ3kc4jgT4SGLej3c2fX4RpfezUQXD24Z+0qsDED4bvoEYheNIwKBfH2z6tmjTx0JUvfL5LqdSsjoMwiotQYzSsxuGAzI9NgnitQggVAhvFhoZ1dm5bZMHhPlPx866IKxBFaxDXpB8bBKELX/DTCHXn6pBeMv+BkIy+RuI1ynZa/y4fAPpjw3HJQjJJYjXKlzHcwHCKy9BWIMqXodMj02CsL8WSPaPLyDTY5MgnJM/SyQI82T/VAnCWN2kptD7h0MHYVGUII4KQIEAL+trhQ6UIfvHF1C5Q0eWg+VYmfufho40hX7Nhh5/ALsLkRtMo7S5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADO0lEQVR4Xu3Wz0sUYRgHcJcYllmGOfUP9D9IIXTo0CHqkG6/TMOw2mqjgqWlMDXMli1TFDUTjRWNRRetraDMWrIkCA9R4C3oEB2CIOgWdHri+w7P8Mzsq+3sTtGhFx52duadfT/zvM/7ztbV/fstQvrQXf/jLUL9nfuor6NJRfZSI2XSe1UwIj/cTjODR2lqoE2D8j9EzXAHxCiAOPyY3M0jNJ5t8QyM77jmDy8qEDJCg937y1D4BISDQWOZZhruOaj64lMHQn+JfjHfSc9nL1SHYhCOOTsMmrzRqkDcdz0Q7isVOuhV8SqtFK8pUCAMfpSfmkEYVAca7T3kgnCsA82OHvOAcFwhKOKZBgzExY3vfhAGB4Kndz3Q/O1EeCDOEs7pQOgn64NDgu5PnHRBiEAgrgs/CIP7QeiHe5qjXSp2GQnatmW7Col6cOeUFzR3sXYQzgPEKM6kBDUYcS3oUS4ZLggBgARxQeOeE+aQCoAYxSD0XZw564KW712pFIPmBUkUfpxBXCccLfEmaqivp8ZoykVJ0NO756sFoTmD4Ol1IFybGzDdWBiK0dJkjEYum3Su1aDdRlKFBC3lU9WCnD0IGdKBcH06a1LX6Sglmw3qT0fp5XSMVgsWrT20FIofiOsHDyFBATZFZ8nrQAgGTfSYlDhgKNBYt6kgn0o2fV+16cl4jNLtUU92QgUxCsEgZCS+0wFxNjg+LFqUy5h0eI9zLVSQzBI+GfT1tU3FkZjKkh+Eekq1eTNUuHXcBWGXrhCD5qwwHYhfB+jzc20zfV62qZRzCvl6KuoJzg7XD14bMkNVgfx1hPMYAC9J9Pv2xqaPzyx6u2ApGFYb6smfHYDw2ggNxCicxwAM+vHOpi8rNr0vWmrJ5/ucTMnsMAi7tAQFQDkg3bRJEO9FACFDWFkoZGRnx9ZNHhD6P54644KwBwXYh7wgOW0ShE9+h+lC7j81g7DKfgfCYPI/EO9TstZ4ukID+acN5yUIg0sQ71W4j/sChCUvQdiDAu9DummTIBxvBJL1EwpIN20ShGvyb4kEoZ+snxpBaOVFqgt//XD4QdgUJYgjAKjSVo7kkPXzF0EbtXJkefxvtbVfcQdGj4fZLOEAAAAASUVORK5CYII=",
     "wiki_name": "Ring of wealth (1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ring_of_wealth#(1)",
     "equipment": null,

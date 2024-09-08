@@ -1,7 +1,7 @@
 {
     "id": 14852,
     "name": "Rune kiteshield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A shield with the symbol of Arrav.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4Xt2Xv0scURCA71iW5awlEiVEEQ1YeCKEFFpcc0UgWAgWFhYpUqRIEUiRwiJFIEgKSUhIglwQA6dFOBFj5PAQlSQS5A4SAjb5XyZvZt6vfbucJ/uOkwxMcVvc+/hmduZtLvd/RB7cJz2MPITRIlwRKIYJo/siF64CFAIhzAMCC8K5XkIZmKiwrC0F4d1eQSGQMFN4SEBR4Ym2FIRlCZWWXQkF8wiivmcGSPwOw3myxFkWWZI5C0FwJwXQC2ieD0c7BPTUAIlnDIWmMBWYgpvVcEEwLbJImQFKwUg7fc/jQNTg2E+YS1RGzgVOAcvACophpoaHKd3TOoi8OPyxsaOB8JkNlA7D1kra0M2hIQ3kntRBKBhlR6awEwe6AIbscLn820kAoR0LRpdI9ZQp1Y3Bwax2uE+MnRca6Gj/K+xUq/Dx9auYlTiMKVUumPBtB/MltE5P4eTgAOrb2/B5fd0AxUDmrEbmUnmzYwP9bjbh58kxHO7twe7WJmxVKhoo/trbdoowMT7u2Q4NwmWy863RgMaXXah92oCNt28cOwxj28FSXR8YyGon+Wb9abXIjuqdzbU1qKyuJmBcO7dGR7PbcWEwf52dkZ39Wg2qH95Tqd6trFgw6Xau9fdnt8Ovt8m/5+dUruN6nezw3FGlcmGMnbGRkex2XBgF1PzxnZrZDELVyC6Qdzs4a+KJQNRXek0sJnrHtoMwfuzgBNZ9Y1kSu4u2up7K7eZOEW5PxcvlntRhIBAfzMuTX3WEMzCyd6yprJLt8BD0YEeFvGrQNRX3ldxZbRaoBpIrAu1MT05mtaNCziAFkLhepEPZCxSBPNlRIa+r+vD2FzB7gSJMaWbGlx0VWDangRNNbF9TzfXUhvEIhIGWbCMulH2hZyCEuVfmrw/PMBg2kAXVBsiG6QIQhvvZcnF2EYZDHXCZdP/jsvEP51lGnbxsFfcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xt3Xv2sUURAH8FuWZbnUwWCCSAiJkCInAbFIimuuECSFkCKFhYWFhYVgYZHCQpBgERRFJZyECJcUckGSGI4cYoIaJNyBIqTxfxnfzLzfu5zI2+NCBqbIFrcfvm/2vZdS6XxUBP6TAVYESboEZwTFmCS9I3rxLKAQhJi7BIuThUGiDCYtL+uU4uTGoFAIEsmU7xEoLT/UKcVJTaLyui+lMPchHXpsQOLvJLlFKXHXRFdlz0McX88BFgKN+OWYDoEeGZB4xihMClvBFG5e4+J4VnSFOgClMDKdoScuiAYc5wn7Ni0j9yK3wDJYoYIwWJF4+QOTjgbhMxuUj+HUqjqhy2NjISCFUenIFum4oH9gKB1ergAMVk46GRCmY2H0EqmZMkt1aXQ0BIQYnhOTzlMN+rL/CT42GvDuxXMnFRdjlqoUT4dgsPx0sJ9B9/gYjg4OoLW9DR/W1w3IgSxYg8xLVVg6NuhXpwM/jg7h894e7Gxtwla9rkHuZ2+nU4HpqakQDJaXDm2Ey5TO13Yb2rs70Hy/ARuvXnrpMMZOB5fq4shICCj/y/rd7VI6anY219agvrqawfjpXJmYCMFg8UbofOaif56cUDr7zSY03r6hpXq9smJh8tO5MDwcAuJ0+PM2/ef0lJbrsNWidHjfUUvlY0w6k+PjIRisKINRoM73bzTMZiNUg+yDCk8H9xq3EURzpY+Jpczs2Okgpph0cAfWc2OlJM4uOtX1rtxr36nAtatFLZd8MR+e/KkjzmDk7Fi7smpOhzfBAjCq5FWDrql4Xskzq8cBqkHyiMB0ZmdmigM5gMz1Ih9lH6AIKgijSl5X9ct7X8DsAxQx1bm5PoD8Ac4MsX1NNdfTPmBUYUp2Ij7KvtAzCDE3a+q/j8LLBlmoHqA+YlThj/9vn8P6Cw11Azwh25SxAAAAAElFTkSuQmCC",
     "wiki_name": "Rune kiteshield (Arrav)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Arrav)",
     "equipment": null,

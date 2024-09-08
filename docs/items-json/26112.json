@@ -1,7 +1,7 @@
 {
     "id": 26112,
     "name": "Sigil of the fortune farmer",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": true,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaklEQVR4Xs3W/UtTURgH8I3MMsUQlJBVimEhhmiIFYxEssyMdFhraWqaKWaJpSUmhZZIbwhiL2QoGaJiZQRRUvT2e//TU98znrtzH8/G7ryGB77sbvdcz2fnPOc4j2fjNy+ZY7q/7s1Lj4fq6eFgQGVsoI5G+2tVGDE30Uqz4y0086TZgJJfYs3wMIhRAHEkZvrRBXox1mAbGO9xT8aOcoT00vidM6tQeAWEw6BnoyGaGA6qvng1gdBfR39fGqKv832JoRiEa54dBk09aFQg7hsNhOe+LQ7Sr+UR+r18X4EwRnFuroocXbTwtPO3ZhAGNYEm752zQLg2geYn22wgXDNIji6a17YMGIiLG+91kL4EnGigpeeX3QPxLOEzBqHfytQ2KwfLCqhg3y4bTge9f9lhgRBHIK4LCcI3B0hifr4Oh9/n7N5BGRlpNtSHV5120MKttYPwOe7/eZsWNZglgDIzt9tAH6e73AUhWMpYIL9/P+Xn+8jny1QzlJKyRfXHEn+evWqBfry7a2Ecg3QU7g0MhGy5PXjeAp2qOaRqyQT68qbHCJKjR2mRHSNBPdcC1N1dp16R3t5667q6uowqKoqppGSPWjIdtDJ3PVFQ+AzCDJlAfTfOqmDQrq7T1NR0jILBchXMUGXlASoszLGBsBF0kH4oytFFC295EwhBcaJPUVGeSmdHjUIEAn5VO7W1h6nqeKkq7OzsDEpPT3EfxCgE9zEryM3+ILW3n7Tqpq31BF1sqVJLBty6gPRZwj3UDmoGGAQAgDArpaV71TJiufLyshWIzyKEQTilGRMXCDtMgvB5UtImSk7erGZlZLhZwRobjlIoVGFhsIwMwk7DDOEZPIu/wTMU5+ygRUCM0jGpqVsp61+x8k4qP1KkZggIoBCgeMlQ1HhGR60JxBgJQnb6stQOQ0HjQEQdIQDhpOZ+eE6CGCVHN7QwSF82rgH+w0DpsFjhZ3QQziAH55AdJJeNZ0oPA/WYIAhqyDEIu0yCuLATzaeZK9YuSxgkdxs+x78A/PLDAcm/JhEcmnxW4Tnui/Nn8eklGwhnkONzyLRsOgjXsUAAc19XQKZl00G4p/8s0UHoBxBmxwUQ2uoaMEXH6JEg/JbWQRwHII+Hj/VYkUA9ev24Aoq3SWQ8WE6k739qEmmKfGZDt7+4zP50hElz4QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADS0lEQVR4Xu3W/UtTURgHcEdmLcUYTEJWCYaFGJIhVjASyTIz0mGtpalpppglltZYUmiJ9IYg9kKGkiEqVkYQJUVvv/c/PfU9l+d2ztlx7N7N6IcOfNnd7rm7n53znLObkfHvNw+ZYzq/5s1DD4Ya6V4sJDIWbaDRwXoRRsxNtNPseBvNPGw1oPQfkTLcAjEKII6Omb5/lp6ONSk3xnuc06OiHCE9NH7zZBwKr4BwGPR4NEITw2HRF68mEPrL6C9LQ/RpfsAdikE45tFh0NTdZgHivquBcN3nxRh9Xx6hH8t3BMgRBl/Kv5pBuKkJNHn7tA3CsQk0P9mhgHCcJMijTANuxMWN9zJIngLOaqClJxfSB+JRwmcMQr+VqU129lUUU/GubQpOBr151mWDEEcgrgsdhF8OkI759sIKvy/YvoV8vhwF9fZ5twpauJ46CJ/j/M9XOasGowSQ379ZAb2b7kkvCMFUJgIFg7upqChAgYBfjJDXu0H0xxR/mL1kg76+vpUsBk0FySici0YjSm7Eztig43X7RS2ZQB9f9rkFof1ZMTqo73KIensbxCvS399oH9fWVlBV1R4qK9shpkwGrcxdcQuy9iCMkAk0cPWUCG7a03OCWloOUzhcKYIRqq7eSyUlBQoIC0EGOdgUrSVvAiEoTvQpLS0U6e6qE4hQKChqp77+ANUcKReFnZ/vo9xcb/pBjEJwHqOCXBsMU2fnMbtuOtqP0rm2GjFlwK0JSB4lnEPtoGaAQQAACKNSXr5TTCOmq7AwX4B4L0IYhF06SQyatcJ0ED7PzFxHWVnrxaiMDLcKWHPTIYpEqmwMppFBWGkYIVyDa/EdPEKuQIySMdnZGynvd7HySqo8WCpGCAigEKB4ylDUuEZGpQRijA5CtgbyxApDQWNDRB0hAGGn5n64Tgc5QFkgedq4BviLgZJhicLXyCDsQQ72IRWkTxuPlBwGyjFBENSQYxBWmQ7iwnab9zMX7VXmGqSvNnyOvwA8+WGD5KdJBJsm71W4jvti/1l8dF4BYQ9yvA+Zpk0G4TgRCGDumxaQadpkEM7JjyUyCP0AwuikAYQWXwOmyBg5OgjP0jKI4wCUbItHcuT6+YugRC0eGZ//LbX2C27Is+gS2WH/AAAAAElFTkSuQmCC",
     "wiki_name": "Sigil of the fortune farmer (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_fortune_farmer#Un-attuned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 20591,
     "name": "Stale baguette",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-08-04",
     "duplicate": true,
     "examine": "Baguette ready for pain.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xs3VbUsUURQH8N1PEOH70KBeVJRFJZFaQglSlLI9mJZiWpJlD1aGSJK1LJUhiD1QoWCIiZQRREVR1Cc78b/DfzxzumMz7hheOMzunTtzf3vvuWdzubXf8uIP3/1Vb3kZGy7Io6EWF6U7zVK8ddwFEbMTXTIz3inTTzo8KPsjyoYHIKIAYljM1OOz8qLUFpkY33HPRhSVCpmX8bsn/kLhCgiDoGfFVpm4d8qNxdUHwniN/rEwLN/mbq4MRRA+c3UIevWw3YE4Ng6E577PD8mvxVH5vfjAgTBHdWWlCzu7acGy81cThEl9oMn7p0MQPvtAc5PnIyB8JsjOblo+sg2YiMmNexaEyYHg9saBFp5fyA6EidA/NtjgrhbElSQIq2ZB719eDEGIVCDmhQWN9tfKyOX9IQoT6YReDvThdW8U9HawfNDtnhrpP7dLrnfucd+5kvpExoE+Tl3KHtRV2C7tx7ZK074KOVpX4fp0QseBsJqfZ66EoJ/vRkJMapBFFRo3O1DxWp2UBg64PgTuY1wc6Mubq16QnT2mBZPg5RqEl6O/o2Wb2z5sHbawt7Xa9ROErbSgr7M3VgoKahBWyAfCsccYILiFWDWC8JwF4RkN0kXRzm5akKg+EIIvJ+rMkS3SVL9RGnavk762na7PgrA6mYKIQmACVFxMwO1jIKeIQqwKSK8SrhqEcazQeA4Y5BNCwwCaf9odglCliUkEwgnxgfh3oEG6IBKA7UMcrlkfwvC3oVco4eqgLYFsHvEoE4TvGoQcw/NIdCQ8TiAqO1GZgYhCP5afINzXBRGfAcQ7ek7ucDAkPUuCBhFlZ/e0AOTbtqQg9OM9KAWNtVVycO8GaT60yfUBhBqUog5FQXrbNAhX9GuMBtkTqFcoNQjJ+i8QJuQJsyDmGo87xn+a7isfZLcN/RpkE5q1Cs9xLEA48hqEGpS6Dvm2TYPskbcgrhDGZgLybZsG4Z4voRH82+B2lQlCiyZjXNj8YVgQiqIGMVKAcjmW9eXCAnXo/MkElLRZZBIsY2nsf2oW6Qv7zJpufwBDp57il2eRvwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xu3VbUtUQRTAcfcTRPg+KKgXFT1RSaSVUIIUpWwPpqVYlmTac4ZIkrUslSGIPVChYIiJlBFERVHUJzvxn9tZzp2da3t31+hFA4e7O3fund/OnDlbU/Pvt4yEI3R/2VtGxoaz8mCo1UX+VovkbhxxoYjZiW6ZGe+S6UedAZT/IyqGRyBFAdLwMVMPT8mzfHtsYr5zz484KhUyI+O3jxahuALRUNCTXJtM3DnuxnINgRhv0d8WhuXL3PXyUAris66Ogl7c73AgHZsE4rmv80PyY3FUfi7ec6BUGF6qv1pBTBoCTd49UQDxOQSamzwTA/G5RFAmtg1MpMnNPR/E5CB0e5NAC0/PVQ/ERPSPDTa6qw/SlVQQq+aD3j4/XwARqUCaFz5odKBeRi7uLqCYyCb0UqB3L3vjoNeDlYNu9tTJwOltcqVrh/uuK2lPZBLo/dSF6oO6s5uk4/AGad5VK4caal2fTegkEKv5caa/APr+ZqRUDC0O8lHZpnUOlLvcIPlre3+/OCqkjEsCfXp1qVwQLZqEl1sQL6e/s3Wj2z62ji3sbdvi+hXEVvqgz7NXywVFNYgVCoE49owBoVvIqimI53wQz1hQiqIYJWoIROjLFXXy4Hpp3rNGGrevkL72ra7PB7E6VQUpimACKi4T6PZpkFOKIpYFZFeJqwUxTis0z4EhnwgLAzT/+GwBRJUuEUOLTlgIpH8HFmQLogLYPuJA3coCjL8Nu0Jlgfw80qOsIL5bEDnG8yQ6Cc8JpLIrqmogRdHP8iuI+7Yg8hkg7+g5ttnBSHotCRaUAhWBQttWKoh+3kMpaKpfLft2rpKW/WtdHyBqUIo6FAfZbbMgrvRbjAX5J9CuUGoQyfonEBPqCfNBmmt63Bn/YbqvcpC/bfRbkJ/QWqt4TscC4shbEDUodR0KbZsF+UfeB+kKMbYqoNC2WRD3QglN6N+GbleFIFo8GZPCzx8NH0RRtCCNFKBSWzFSw+bPXwQt1YqRxfG/VdZ+AfmUVFbz5HkVAAAAAElFTkSuQmCC",
     "wiki_name": "Stale baguette",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stale_baguette",
     "equipment": null,

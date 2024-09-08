@@ -1,7 +1,7 @@
 {
     "id": 25539,
     "name": "Celestial ring (uncharged)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-03-17",
     "duplicate": false,
     "examine": "A ring forged in the heart of a shooting star. It provides some useful mining boosts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADgUlEQVR4XtWX2U8aURTGvS/usdGqKAguCArKKuACAuPC5rhhtUbFJTFtuvJgmqYP7UP/8a/n3HEURtAJSrAn+TLMnRnOb75z7hHb2v7/EDCutDAEIgE/XgkUQwhk1xV5DE5MtBJKYDkagc8zi5np6VYCaa5UasJubxWQQG9PD7q6OtHd1YWe7m6pBb9PHo2gxqdfOAQsw0NSZ8oaThIJLMciGLVYYBsdwZjVCseYDeP2MVhHLOhob28moKDEw0gsxXC+sY58LIpcNIrNUBBqLIakcxpZjxf7/iC2/X5szszCMjQEm3VUwulOvhCYwEB/P3K0kzJKCleFHC4I6n08LnWUiOM4mUQuFIYaCeNseQWnpLOVFRRpbTcYwl4ghMOFqCxzZ0fHc6E0ILvNCmU1jvLuHr5ubeFDLo9v2yq+qypudnZoTcWPfAEX6TROSJcEfb6m4IJUovNSipTZwCmpAacqHxB4O9Av+yO7lsaXnW38Khbxc7+IMsEwXLlAcAU6qlu4JpCSksbV+gY+ZjLy8yk5yColU9LVWdc0hocGzYMF5uYQC4eqoBhowmGXb3mZzeA6m5P6RDCfs1mU83ncSIc0V9ipUjqpKZXCJZ173C4JM+Ny0uxywjvrRmDeawZKI+e5cj9bqnfMYiiENPXJ4sICliIRbFBShfopFV9BmlxwT02ht+YoeKjqPHWi1k33azSlCYKh5j0esKPRYAA5Ks8uuZUhOL7O667Jyaqk9VSZp4EQSNB256R8TC4tSQh1cxNh2vYH1FcF6qX11VUJPOVw3LrRtBDwut3SFRYnnnE6ZXJ9jd3RXdTPmwilAfGbc0nGbbYHfaHfw/3EUOycXjrjt71ACPnGDGKnPxm1eoTX2DF2SXetqUDcM5xweFCbJ7UTabuRxWD17+N4VjmF3FGHNKE52Zu+vgflYnGZGISbnuHrA9ELrim3zzUUQu6i4709Kf6s9wqXkpMzDJ9zw/OR++kxoG0asHpZjVdNhsDZu4M7sVs8gxiOHWHpI4HheBc+BvT3z++767XvMRUC50eHUgx1UtyX4v5ix/Q5pZfw8WRPXTcdWrJKKAZiZyob2Uyyp64bon5ttS/SSshA3DfmXGk4BHxebZcYr1TH/Q4z60oDoSVI0E9WPZHxjspoIgiH9r+Xf84rfx+FfT4TLjU9qoddE9/efFSWoeUwryH+AT5pcYmU1SFlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xu2X2U8aURTGvS/usdEKKAgu7CggCIiA7LuDC1ZrVFwS06YrD6Zp+tA+9B//es6dTGstAhGpNumXfBnmzsD5zXfPvcDAwL8vgdsjjyiBkN+HJwLFEAKlXOYpAAlshEPwul1w2myPCaSmctMLZvNjAQmMj41hZGQYoyMjGBsdlV7zeeXxNujtdz+wBAx6nfRpJovjRAIbkRBmDQaYZmcwZzTCMmfCvHkOxhkDhgYH+wkoqLAeiWgEZ/kcKpEwyuEwCoFVKJEIklYbSm4P9nyrqPl8KDhdMOh0MBlnJZyW5AOBCUxNTqJMK6mYSeGyWsY5Qb2Mx6UPE3EcJZMoB4JQQkGcbsRwQj6NxVCnsZ3VAHb9ARysheU0Dw8N9QqlAplNRmQ242ju7OL91hZelSv4UFPwUVFwvb1NYwo+Vao4T6dxTL4g6LNsBufkBp03UuRiHifkeyR18w0Cz6cmZX+Usmm8267hS72Oz3t1NAmG4ZpVgqvSUdnCFYE0Mmlc5vJ4XSzK1yeUILuRTMlUXXYb9Lrp7sH8y8uIBAO/QTHQgsUsn/KiVMRVqSz9hmDelkpoViq4lgmpqXBSjXRSdSqFCzp3O+wSxmm30t5lhcflgH/F0w1UK/Kbq0VgPRBAmvpkfW0N0VAIeSqaoX5KxWNIUwqOpSWMt9wKWrln0S5NEAy14naDEw2v+lGm6dmhtIoEx9d53L64+FBF20kgQcudi/IxGY1KCKVQQJCW/T71VZV6Kbe5KYGXLJZ+Qwl4HA6ZCpsLO61WWVwb43S0FLXzPkKpQPzkPCXzJlOLvlDv4X5iKE6ur0D8xAxipq+M1oWETIxT0lJrfd+DSMie4YL6aW0/aSV1NbIZ7O77WO2udZSQK+qAdmgu9mxi4o/pYvM0MQg3PcPfXZQeMJtpc72jhFxFR7u70vxa6xWeSi7OMHzODc9H7qe7CwrUaIPtcVoFTl/s/zSnxXsQw3EibG1LYDhehXcXE/j+7Wub611L4OzwQJqhjut70txfnJi2T/2axnbqdL1rqcVuQjEQJ9O5kXtSpw9Wp5CBuG+6S+XeEvB62q0STRpEp/t6klogQT9Z+1yoG6n/vXzLHvn7KOj1Pg2ovzQV/3Vv/QA+ZCFB3jEqBwAAAABJRU5ErkJggg==",
     "wiki_name": "Celestial ring (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Celestial_ring#Uncharged",
     "equipment": {

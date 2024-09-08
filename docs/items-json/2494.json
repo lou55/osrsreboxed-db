@@ -1,7 +1,7 @@
 {
     "id": 2494,
     "name": "Blue d'hide chaps",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "Made from 100% real dragonhide.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xs3W7UsUURQG8NkPMuyyrCwtBiv5kvhB+lBEioL0KYggMCkqKoqKiiKCKAqRoheR3hDEXqhQMMREygiioijqLzv53OkZz5y9q7vuFF44zDh7d+9vzpl7xiDY+CMj/vB9/s9HRh6PHpSHI8Muxm8ekLHrQy6ImJs8LbMTp2TmyUkPyt5Ew/AIRBRADIuZfnRCXowfSyyMv/GZjSSqLmRGJm4dqkDhCAiDoGdjR2XyzmE3F0cfCPM1+sfiqHybv7Y+FEE4Z3YIevXguANxbjUQvvd9YUR+Ld2V30v3HQhr7OjocGFXNyNKO++aICyqQfqOGVP3jnhB81NnEiCcE2RXNyOTKAMQfLjxN0EOUA4kKC1HQcXfm7Ggxefn0gMxS7imQe3tvVIub5N8frPkcpukqSnnrqOMFvT+5fkYhKgLxOfCgnDnAGFOd/du6eoalC1tO2NQNluoCvrw+kIS9PZG4yBc16BdvXuls7Nf+vv3SyEMogiislnQx+mL6YIQKCVBQACEYwIUVoJQ4s+zl2PQz3e3Y0zdII3Cj2tQX9+++BlaC/TlzRUvyK5eZaxs4Wqg1tbtDtPS0i2lYlZy2aY4fKCvc1fXC4q2LTK0Ggg7DFkqFtukubkszYUwxqC0GoTvaJBuinZ1M6If84EQGoQdBpDDLAfLZkHITqogohBYAB2XKGQHEByzYejCV67UQDpLOBKEedj2yBBBujFa0MLTszEIXZqYmkDYYT4QXwcE6ZIxU2GYrQAhO3ht6AzVmB2MFZB9jth9CUJDHBgYchiC0Kl1llguvDZSAxGF61hAgwYHhxMglE1niCB0aQ0iyq7uGRHIVzYfiNueWz+fL1aAMP/TzKUYhB5URx9KgnTZLKinZ4/LEKJU2upAfLnq56dhEHbZWiAshrno1sD4QCxXaiBbNly3IOw0H4hzAcKW1yD0oLr7kK9sGoRz7DzMt8HdyLmpgHxl0yB8pv8twTm7OV8bLFeDIIzKu/aFxuiwIDRFDWLUAQoCtvXVwgJ16OcnFVCtwyJrwTJW5v6nYZG+sN/Z0OMPy2E9MC0lSwAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu3W32vTUBQH8PShhJbSUiwTOtyYow/DB0Hc6KD4JIggzKGoqCgqKooIoihjKP4Yw18MxvyBygaTMcfQiSAqiqJ/2XHfG7/x5OZ2a9ooPnjhkDS9TT45J/eknvfvj4y4w/X9Hx8ZeTC+T+6NjZqYvLZXJq6MmCBiYfqEzE8dl7mHxxwo+yY6hgcgogBi2JjZ+0fl6eThyIXxGd/ZEUUlQmZk6vr+GApbQBgEPZ44JNM3D5i52LpAmK/RX5fH5fPi5fZQBGGf2SHo+d0jBsS5zUD43ZelMfm+ckt+rNwxoEQYnJR3TRAuqkH6jhkztw86QYszJyMg7LcIykTKAAQfbnwmyJys6olXWY2iil83Y4OWn5xOD8Qs4ZgG9fYOSrW6RQqFjZLPb5BsNm+Oo4w26M2zMyEIkQjE58IG4c4BwpxabYf09zdkU8+2EJTLFZuC3r44GwW9uto5CMc1aPvgLunrq0u9vkeKvheEF5TNBr2bPZcuCIFSEgQEQNhGQH4chBJ/mL8Qgr69vtEqBiMK0iicXIOGhnaHz9B6oI8vL7YLwvi9hJuBuru3GkxXV00q5Zzkc9kwXKBPC5faBQXLFhlaC4QVhiyVyz1SKlWlVPRDDEqrQfiNBiVoisHJXCCEBmGFAWQwq8Gy2SBkJ1UQUQhcAB2XKGQHEGxzvm/CVa7UQDpL2BKEeVj2yBBBujHaoKVHp0IQunSLGIxghblAfB0QpEvGTPl+LgZCdvDa0BlqC2Q/R+y+BKEhDg+PGAxB6NQ6SywXXhupgYjCcVxAgxqN0QgIZdMZIghdWoMSoAKQq2wuEJc9l36hUI6BMP/93PkQhB6UoA9FQbpsNmhgYKfJEKJS2WxAfLnq56djEFbZeiBcDHPRrYFxgViu1EB22XDcBmGluUCcCxCWvAahByXuQ66yaRD2sfKCk0aDq5FzUwG5yqZB+E7/LcE+uzlfGyxXhyCM+F27QmN02CA0RQ1iJAC1OuJIhn5+/iJorRFHxuP/6Gz8BIFd8pUkFa1sAAAAAElFTkSuQmCC",
     "wiki_name": "Blue d'hide chaps",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blue_d'hide_chaps",
     "equipment": null,

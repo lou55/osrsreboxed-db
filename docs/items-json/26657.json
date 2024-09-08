@@ -1,7 +1,7 @@
 {
     "id": 26657,
     "name": "Shoe",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-09",
     "duplicate": false,
     "examine": "A shoe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhElEQVR4Xu2WO0/EMBCEbaVPddU1dxKigALQNVccEhTw/3+S0doavDtxgkOwXJCRpsnLX2YnD+d27dql5cPUXZQWv79z4XIZwvNTdgcoHx4fXIQRv96GMDoXLdtl/8v5TFBNE/QxleMxQYglGYGxQBlCtssxcl4DqASkRwUYSUyPEwnySKcJbpIP1+sQzTC6U7INCWKc8yPdJB/vWoAY5nSyQCU3B9IwDIR92k2A3t9ShxhGit4dSMOUgLAfbgKEJ4dhDgdnyl4CAhRfdaXs50EDaZg5IBwD/yIlC8CL8EKAGcf03pGxbQSyANIRPEn8GJcWqQXCcT8A5Rcdm9/GpRJjkc+PwdzIBiBR/hywl2CwCGA40RKQpFgBJPLfaWgvwXAqgNE9wzl6rIBigoISFPrCMBqIYUql53Q4oYqURPZrjQtzv7hntTArRpbF/zOwLjmPtSkQhFhzvLZnPNo5GL6xFeOqUblnDFMCsDf3p0q/pQyzBMFXaKBpxzpAWDFAF4h/py/cNWTT71aqdwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4Xu2WsY7CMBBEbaVPRUVDgSi44pBoKA4JiuP/P8mntTVkd24DgZzPTUaaxnHi592xIYRFixZpxfTbTVQW321DOh67dPgc3AAqpo99yDDi81eX+hCyZdwHqlrBmKuyXhcIsVRGYCzQACHjMkfeqwBVgHSrACMV0+1EBSu3NKbTqctmGJ0pGUMF0c7xls5SzLsWIIbZbCyQ5+pAGoaB8Ey7CtD1UjLEMBL05kAaxgPCc7gKEE4Ow6xWwYTdA/ojKH2xWSANMwaEOfAbQBaAF+GFANP35d6Rts0EsgCSEZwkPsbeIlOBMO8J0HDRsfk29kKMRW7fndnIDCDR8HPAfgSDRQDDFfWApIoTgETxXg3tRzBcFcDonOEd3daXoZAXhtFADOOFnqvzYoWgEmz+MOeLczYV5g0gyJ485IxbqitaGciTzRm3dgyGN8ZfnSk/ZwxTEcBT+VvKMP8MweI2NIFY1F4/ockonfixZXMAAAAASUVORK5CYII=",
     "wiki_name": "Shoe (interface item) (Elven, khaki, male)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoe_(interface_item)#Elven,_khaki,_male",
     "equipment": null,

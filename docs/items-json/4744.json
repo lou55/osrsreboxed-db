@@ -1,7 +1,7 @@
 {
     "id": 4744,
     "name": "Bolt rack",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-09",
     "duplicate": true,
     "examine": "Must need a special type of crossbow to use this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWUlEQVR4Xu3VQUsbURAH8A0eikUQIUSywcRuWUtUjBGtCn4Gbz158CJKL0KpFwWhJw+KiKK2WhJExUopvfQDTvvfdLLzJvs22axBDxkYckh257eTmbeO049+vLjIUHz2PMyC2eww5fMjVChkyfPy5PsFKr8bo6mpEs3MeL1AmQAuXiqOGgAUr1bf/oO4RuKa2fHxNKh4gHx6ACqVgjVTgEJA1NMzYH5+ollsrjrWNrsEZSKL4+kB0EWQCwultrm09CaAJwRlgm4AAwgQi+/LLTdvl8XiayM9byjI1CB0RBeLK+y6g0FGYVKBeEskyFac88PqavBZPzulh6tv9Ovmhv48/qDKxEA6EG+OBElALvcqyI21Nfq0tUm1kxO6/3pJP+v15iK4OYdKrkPXR0cGCPPm+7n/v+soTBDPD0BAfNn5TN+Pj+n24rxZnBPF0R3gHms1+n1329IhgMrl0SRdaoB4oJeXJ5ugTorz99mRsEOTntMtqHHmyA2TIFtxTszQwe5uywxJEO6VCGTbMN0hFLfN0Mf1ddrb3qbD/f2WDuFeCQ7HEKQ3DMOM4lEzJItH/Y0A8Rx1BdIDzSAGxBX3i04AQOpjgs+kRCDeMDk/DNLFMbQAMEIX58T1/Irh914ikB5oBgHACADkoagBjJBveQwzEudQB2dRY8MYhPlZWZk2QEkBEsGbJRMdiulSuPJ6fpA2gERICGOiADK1QoS5YRqkETaMrQsdAHSEG6bnxwaSA2oDJETIsA+0xjxhF+IiBOmBRsYBnhChw3zyOIS+smehCz8Loh9t4i+uqpDF5m77tgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQUlEQVR4Xu3Vz0sbURAH8A0eSkUoQkjIhiR0y0aiYkhJrEL+Bm895ZBLaelFKPZiQfDkwRBE0f6SBLGlDaX00j9w2u+Gyb432bfxZWOtkIEvHsSdzz5n3jrOvOb131WK4nPrpTdMpx9RLrdM+XyaPC9Hvp+nykqB1tZKtLHh3QZKB3DzUjGrAdC8VnvyF+JqmQEoHqC+PQDVat6YBKAQEPX2DKjXy6NmT2uFiZkSlIpsjrcHQDZBGo3SxGxtPQ7glqBUcBrAAALEs83K2MMnpVhc1OJ5S0ESg3AisllcY9d9GCQKkwjEW6KCTM05z3d2gp/9s1P69ukj/by6ot+D71QtLyQD8eaoIBWQyTwI8qLVojevXlLv5IS+fnhPP/r90SK4GYdKrkOfOx0NhHnz/YwNSgfx/AAExOHbPbrsdun64nzUnIPmOB3gBr0e/fpyPXZCAFUqWXsQD/T29uoIdJPm/Pv0cnhCq54zLWh456gbpoJMzTmYoaP9/bEZUkF4lhXItGHyhNDcNEOv2216t7tLxwcHYyeEZ1lcjiFIbhiGGc2jZkhtHvVvBIjnaCqQHGgGMSCuuV90AgAirwm+k6xAvGHq/DBINsfQAsAI2ZyDv+dPDH/3rEByoBkEACMAUC9FCWCE+pXHMCO4h25wFw03jEGYn2ZzXQPZAlREuFlqYitceTk/iAmgIlQIYywAsvQNkyCJMGEsTyGuwg2T82MC6QOaGCDLPNASM8NTiKsQJAca+QeAqJJvfieIed2/+gPYw0kXVlintwAAAABJRU5ErkJggg==",
     "wiki_name": "Bolt rack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bolt_rack",
     "equipment": null,

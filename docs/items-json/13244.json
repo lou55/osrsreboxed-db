@@ -1,7 +1,7 @@
 {
     "id": 13244,
     "name": "Infernal pickaxe (uncharged)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-08-27",
     "duplicate": false,
     "examine": "A very powerful, fiery pickaxe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYUlEQVR4Xu2XQUvDQBCFO4QQEkpKMDS0pbW1iJQKlV568eDFg5ceBI89evDof/JH+O/GebtsE1fx1p1F+mDIHjbw8d7uZNLrnfV/Rfx7qYj4MUv4KU94L4U1ni9FqguFesgsUBdQza27+fxbXA4uCjAHdy9Af4MFByTeCQzAUA7sObfn62o203CNeJsmpgAHx64XC75drQxM62hQEW8ECDVqGr6cTI5ACg45EU/HYxPTzXJpztNrP+W3vkp7IB7WtQFCXKiD9Cn0qvcyO0bnv3UiEQ/K0kQFdwCDdRtX8HNk3cG5AYwPERymG5cP4u8+scjcJFcK0XTVwvgR+TsDyMJs1mvtiJzoB4y/I6AsTBfI3xFQZDpwVO4AKBoY14WVo7JX2n2jlN2RMbVM+KKq4oDZFvJnUad8GMoIMbIjhBIMJL8+A5mRKwul7A5EZo75qPMYYCDiz6aIBcYpKhir0DBf4nAFwKDEWgkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOklEQVR4Xu3XMWvCUBAHcI8QQoJEQoNBRcVKKWJBcOnSwaVDFwfB0dHB0e/UD9Fvd73/exwNIh1zR+kfjmTLj3cvl5de7z9/N8T3yyTE71nCH3nCeync43osUlsUapdFUBtovlq3OCcwhPhNQL/DOgcSvwoGMJTCDnncX4+zmcWqEW/TJBRwWLGnxYJfVisLjIZ4IyDUqGl4Ppm0QIao6Xgc2vS8XIb9dO6nfOmbjAfiYV0HENqFOsmcwqy6llnXIOJBWYZWYXWAwf1PuzrFIHF1sG+AMUJo4sO1XYYQhMKbpOUGY9wiJGI267U1REP+ME5AFCawEwwSQW4wOoWNQfGV1m+UOWZXJvxQVT4w20L+LOqUT0M5QoxMjhDtyK/PQM7IVUQZYxAK55jPOveAQYi/msILRuMKY5Nvsw/GnXVNhosAAAAASUVORK5CYII=",
     "wiki_name": "Infernal pickaxe (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Infernal_pickaxe#Uncharged",
     "equipment": {

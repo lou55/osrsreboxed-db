@@ -1,7 +1,7 @@
 {
     "id": 26671,
     "name": "Shoe",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-09",
     "duplicate": false,
     "examine": "A shoe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkElEQVR4Xu2VbWsCMRCEk09SKVekUqlSq5VarMWXQvH//7LIJIxZ9+JB70xP6A3MB81xeW52szGmU6dONynroluXda+TiftYLNz7fN42VICBAfM2nXqg3WzWBpR1n8ulN9MpA8lSZi+pdV+rlTdhkFQEsv6/59HIP0P4jFDWbdfrEhAACIvkCmNOxu+MJbXue7PxX02Yl/G4BARY6UxA1v3stj4hDfQ0HJ6AmJx0NqDDfu+BkIJMJwXEk3jeY1dVSIibynQeBwP3UBSlNToDUDi+EkimcwkI63R4R2MFEDQye+dSOvf9fgkI63SDlOJA4xHXgzCVDoDwfCo9uCZQHHzSEohz5zdAWK8NxOlKCGl9svj1OH26vzRsbSD0i4TgcNOl4oYAYY8RWqcDoLter25jh96RIBIGBgBSIQjLqqFTQDVSgkJTy2nMjWRZdYpV/dUQyBje3inzzqoqqYZpDEThBdIsqYZJNTxPFx3fcVXFGz/VY3IQSohMMFTYTKeTSiMjxLlSPfZHaVTrJiD+nY4mngA+U7OFmwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4Xu2VW2sCMRSEN09SKSuiVFS0qNRiFS+F0v//y1ImYczxJFq6brqF7sA8aBby7ZzLFkWrVq3+pIwNblzGPk+n9nW1si+LRdNQHgYGzHI+bxLI2Lf12pnpxECylNlLauxus3EmDJIKlxr333g0cs8QPiOUsYftNgICAGGRXFkUZ+N3VqD3/d69NWFmk0kEBFjpTEDGfhwPLiEN9DQcnoGYnHQ2oM/TyQEhBZlOCoiTeNljtconxEtlOoN+3/bKMjqjMwD58ZVAMp1rQDina4LyIGhk9s61dB673QgI5/QdQGGhccT1IkylAyA8n0oPrggUFp+0BOLe+QkQzisDcbsSQlpPFt8e06f7S8NWBkK/SAguN10qXggQ9hihdToAeuh0qkMxernk5NQAAKkQhGXV0DUBQb6p5TbmRbKsOsVb/XUnEBUmTprfrFsl1TA1AaXkS6phUg0fpovOovDFT/XY5SLMBqHlL9Pp/EIa30n3V6t/qi/yFMm1yb393QAAAABJRU5ErkJggg==",
     "wiki_name": "Shoe (interface item) (Elven, dark, female)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoe_(interface_item)#Elven,_dark,_female",
     "equipment": null,

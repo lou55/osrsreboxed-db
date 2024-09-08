@@ -1,7 +1,7 @@
 {
     "id": 21194,
     "name": "Rock golem",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-09",
     "duplicate": false,
     "examine": "Found somewhere between a rock and a hard place.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtElEQVR4Xu2XXW9SQRCGuxe94a6xCSmJpYVUQyGUEouHlEJPgGCRVBSp2BYljU39iB/RGBNjTIw/fPTZdYDWeqV76IWbTHq+wj77zjuz27m5/8P7MOLiSgwjpdKhrK+3rgKUkUbzvRSLfdkodC1QYWVlVlBGbgdDWVxMyfb2iVVpc7M3S5WMlMv3pN1+ZmFubQ2sUjNUyQF1u69kf/+F3Nk7kWZz+EuhSE2uE00U2qk+tDBhOPhp7rIEQUeWllJRQBnJb9QuqGAkmdxyqSqEUqsdSL1xZMNz+oz0eu/kbufM+gUI1CFVBKCYvLb7Uio7p9bo2Vzbl0pGDh59lHy+YyEAWl0NLOD9B2/s5EF5JPF4UnbD11KtPrdBK+A7D1DG/jgrVqB0umJ7kAK0WiPrKSA1SNv15aKP1LluDBRpYSL8Mhh8kseHn8dVBlAuVxlXHulNJLJ+gOgxwJCaUmlPnjz9JsPhVxmNvsvR8RebUoVCNXzE996AWDETEKQLZQACjGvKnvKn5AHiOxbhDQj/MAmp4550oQxQvMtkGrK2VrXvAGEbYcMF3gsQE9y4GU7t6sYCUP7xeEZisWvj56QVo/NXYf45EJUFlKrANc9QjA5NQyRSqfylQBd/8S+HWzVlTi/invLHN9qVKXsgSRF9yTsQFVSvvx0fMQBS4zIxqcT49B0qzDsQJgaINHFPj1EQ0oap6T9UVb//wW4hKOUNKJtOWCBUUfOiBD1J7zE9BqdL845rr0D0G1WI4BplNIV6agQIdRYWlv0BkQYanp4K1UMKxCZLP9JNl3fz8zF/QPgFX6ip8ZDbPF1aAKL8VT0NDz1Ihzl3pABo2j+ogoemITzC6JisHKDJWccB6YHMM8T54SZzQPq/mALpVuKeRTpchQGgW8l0RJCqy8bvABH55s/DF8APQ9pki9Jkt8sAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClklEQVR4Xu2X228SURCHex76wltjE1ISSwqphkIoJRaXlEI3QLBIKopUbEVJo/EWL9EYE2NMjH/46DfrsG1ffDpsH5xkwt6y59uZ38wclpb+m3dzEvmVMCe12olsbfWuApSTTveTVKtj2a4MkwZycjuYyupqTvb2zjRKOzujJKGc1Ov3pN9/rjC3dicaqcSBhsO3cnT0Wu4cnkm3O/0LtFCR20JxhPabDxUmDCd/xF2XIBjI2lpuEVBOytutS1Fwks3u6m+lEkqrdSztzqm6ZyAno9FHuTt4qXoBguiQKhxQRN46eCON/Rcq9GKp7wvKyfGjL1IuDxQCoI2NQAHvP3iviwf1maTTWTkI30mz+UqdVsBzHqCcvpwvNqB8vqE9yAB6vZlqCkhz0nZ9veoHiNIGirSwEHqZTL7K45Nv8yoDqFRqzCuP9GYyRT9A9BhgSE2tdihPn/2U6fSHzGa/5PTJd02pQRE1dMTz3oD4YhbASReRAQgwjil7yp+SB4jn+AhvQOiHRUgd56SLyADFvUKhI5ubTb0HCGOEgQu8FyAWuHEzPDfVnQJQ/ul0QVKpa/PrpBWh8+sBBnNaWUBZFDjmGhGjQ9MQ8VyuvBggXk6Z04s4p/zRjXVlyh5IUkRf8g5EBbXbH+ZbDIBMuCxMKhE+fYcK8w6EiAEiTZzTYwyEtCFq+g9VNR5/1hFCpLwBFfMZBSIqJl4iQU+yc0SPwOnS3OPYKxD9xiKEc0xkLIW2awSI6KysrPsDIg00PNsVmoYMiCFLP7Khy73l5ZQ/IPSCLkzUaCganlFaAKL8LXqxezN3YUsB0Hn9EBU05BnissVfDlC814mAPG7I/mURUPxfLAKyUZIAVFRhANgoueiJWOIAi7PfcsUyXtv+hT8AAAAASUVORK5CYII=",
     "wiki_name": "Rock golem (Mithril)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_golem#Mithril",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8660,
     "name": "Banner",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A banner with the symbol of Guthix.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABW0lEQVR4Xu3Xz2rCQBAGcHPchyhVpAUr1D8gKg2lpQWhXgo9+xqCIAiFvkChBw+CB99zmi9hy+7shqRxN1uLAx/oOnF/mawHG43Tr4jKpZaKKO63tUxuW2lG3UstnlD8rqvGSUUkPg5Z3vckNjsS622W1ReJ5acerCGyB8E1SRyhGEhFyc1/Aeo3m8eiFJA6pTxUEJDt0fEwjD9QWVQwUB7KK0gCEBVkQ0lYbSAeZUMNxUAS4x/EURzmdjqoCiAVFQSUh1Lyn0GoAlTyy4sPwkB4AhVgkky2wljjqQ+U3H06Hb6ufF77hLDh3d6CCvXIgDFAoc6QxGig0IdaiwUTDmSB/FmQRPFvr1BuQQ6mVBJkAfCcQUXxBsoOp55h58JY8wZ6HnfocXRN98Orn//xeP8Sd+ntaUCL+Zhm0xt6feila+hHL/rQj9foR0+GPbrMifAAwddswYTKTOkbPep+BNjvfIYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQ0lEQVR4Xu3XwWrCQBAGYHPch5BSioIKtQqiYhBLC4JeCj37GgWhUBB8AcGDB8GD7znNn7Bld7Jhg+xmVTrwg04m7pdNcrBWu/2KqFwqqYjilycto+fHNIPOgxZPKH7Vl8ZJRSS25yybE4mfI4nvQ5b1nsTXTg96iJxBcE4SRygGUlFy8WAgdZeKUEFAplvHwzD+QGVRwUBFKK8gCUBUkAklYZWBeJQFNRQDOcKgLCCO4rCrAKmoIKAilJJ7BqEsqOTNi88ih/AEsmCSjA4i1+OpDpRcfbo7vK8cr3yHsODkZECFumXA5EChniGJ0UChH2otBkw4kAFytSCHqFsFGQA8/yBbvIGyH9bTb9VzPW+g92GLXgdNmvYbf//j8X0Rd+jzrUer5ZDm4zZ9zLppD/OYxRzm8RnzmHGGsgUI3jOnXP0CdMlXT9B3AMMAAAAASUVORK5CYII=",
     "wiki_name": "Banner (Guthix)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Guthix)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 22754,
     "name": "Wyrm bonemeal",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": false,
     "examine": "A pot of crushed wyrm bones.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xu2X70tTYRTHfeiFJOIIRdGLP2NKBupAxLDCKMvGiFXi1KjUiKIfRMGIwCASjEEQsSyCIILobX/iN77P5bizZ88d7d5N33jgvNjd3T2f+/2e53nO2tqO4zgOPQyis+XhFjTYWujHxlwfVjI9yE11Y+nMKVxIp3BurKvVYKamMD8/PD+A7Mu3yBXf49qz15gvbOJdbhQvLgf2+0vjqVaoZvB0McD1syEIixCM6qx92Edhr4zV3c8WavHBc2SytxFMTqN4dQg72WELzZfIDHY2C8rg1ZVB5Gd6MBV02Iffm+/D9tc/2PryG/fLv7BR+oabOyUsPSliYX0b08t5zObXrFKPLw7Y384Nh0AzIyNJoQzeLA/Zh/NtaQULUC32yqOffy0UlSIQbSMUQXSPSV8lBDIWhH3B3L1RnbxGW2gPVeS9tJfghKGShdle+wJs9nTvyaS2GVuMxffyYzXJ6wSigrxPgEQdAmlFJ/s7kqpkbOHSLX/6VBIgqqSBuCjYgwmAwmb+uHLamwRyVRLbBEh6SIDY2EGqPa5tBp9W094UKAGiSlG2aSA29mh3CBRDJYNyIV2TGkpUirLNBZLG7mw/0ahKBvvr4zXpgmmVfLb5gNjYAtSASgbf70wcpA9MqxRlmw+IjR0L6MfdCZsaTMMJVD3bfEBs7ERAOl2werZFAfFMaxqQTlEpyjYXSEaTIwHSCsnRcSRA2jJZZRqI+1BMIEZ9KA3k6yENJENdYiAWZGE2sQ/I19Syyggkpz2BONgJkMA0DEQrWJCFXTgXyF32AsRZiCvMB+RW/I+onPYumLsHyeqSnVoPc00EYoQDugsWNX7oXdptaHlWDLuqI/yxOZgaXRh9hsnBqvcfFyQRTHWEDyaEzyaZgwSmhSCVELUk3TmaMIcC4kalkP4j2FyQfyomGsKooD2LAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xu2W7UsUURTGvfRBEmkJRdFBRWOVFLQFEcMKoyxdlthKXF+w0oiiF6JgicAgEoyFIGJTEYIIoq/9iU88dznu8c6dhWZm9YsHzoednZnzm+c8997T0nIap3HsYRCdTQ+3oMHGTA9Wp7qxmOtEYbwDcxfP42o2g8tD55oNZkKF+fvJlV7k33xAofwJt1++w3TpET4WBvH6RmD/vz6caYZqBi9mAyyM1UBYhGBUZ/nzLko7VSxtf7NQs49fIZe/j2B0AuVb/djKD1hofkSurz0tKIO3N/tQvNSJ8aDNvvzBdDc29/5g4/tvPKz+wmplH3e3Kph7XsbMyiYm5ouYLC5bpZ5d67XPTg2kCPR+vt++nF/LVrAA1aJXnv78a6GoFIHYNkIRRHus7qtEYSwIfcHcvnM0eY1tYXuoIu9lewlOGCpZmuyyH0CzZ7vOJoUythiL7xSHQsnrBKKCvE+ARB0CaUVHe9qSA7Fw5Z4/fSoJEFXSQFwU9GACoJqZvyxe8CaBXJWkbQIkHhIgGjvItMaFMvi6lPWmQAkQVYpqmwaisQc7EgBVS9lQaihRKaptLpAYu731zP9CGeyuDIfSBdMq+drmA6KxYwEdrI0cpg9MqxTVNh8QjR0L6Mf6iE0NpuEEqlHbfEA0diIgnS5Yo7ZFAfFMSw1Ip6gU1TYXSEaTEwHSCsnRcSJAumWyyjQQ96GYQIzGUBrI5yENJENdYiAWZGGa2AfkM7WsMgLJaU8gDnYCFAOGYWwrWJCFXTgXyF32AsRZiCssBSBG/bR3wdw9SFaX7NR6mEsRiMGHw2BR44fepV1Dy7vcCjHDHE6NLow+w+Rg1ftPyiA6ai8mhK9NMgcJTBNB3JBCtZlbz9GEOUYQX9Th0gb5B0ck6IZpXumwAAAAAElFTkSuQmCC",
     "wiki_name": "Wyrm bonemeal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wyrm_bonemeal",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 9659,
     "name": "Bucket of water",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-04",
     "duplicate": false,
     "examine": "It's a bucket of water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xt2X708TQRCG2Q/GQAiksZFQAlJISyiGogG0oSiEYuVHEERERKQiIiKCaNDEGD/oHz76TDPl2FK+eNdGN3mTdnu389zOO7PXpqb/Yzg5U8OHk7GRrOTHx2VmcrLRUE6O3+zKo2JRQeYLM/JweqpRUE7ebW8HUuVkZW5OVhcWFKzOKXSys7GhAJl0Wtrbrlb0/PGKPFtelsXZWYnHmusF5WRtaUmDsxvJrraKmAeW3wDujLdEvVtOdjc35eXTNQ3M59s3u8/p/auS7G1tqbe6O1tVwEYA5vTJMTIBs5kuSSWvV2mwv0N+fjlVIEAMKNUTU4UE5XTRgb5rkh0oB+1JxKQj3iql0q8qAYyPaAV9PXEFtbSy1khv799COX1Sfco/iyc62qsgfAWB8BIKFcgW9APXEoafmpiQ3OioVhz3W8pCA2KX/MCXiR1CwHEvKQ8NyCrGD1pLpIzOjblpBy+erEppfT18IPODD+DLOjeVCUh+rF/bRWhAQ+mEljoyMLxhXbql+co50bEBuHsrqTD0KKovEiAWH8veUOGLiwSIietpFSdv96IDCkLZLqB7d1Iqm+c60maHMTAhADGcGtUHC0IFwZjjd0Do7h9e74S1OzacQhAIs1I5l+0Y3znvTg8OpJAflOlcOhogAhGQtBCEHeCQJTgmtlcQ5r9/PJbi/YxeFwkQ6TIg0kIQnp6gaH56SLVYGFbx2WB4gMiASIsP5MMgS5UZPXQgvGM+sooioAEZSG4kUUkV1/COFHKFMVzlKMAvQR8Fdwmg8eFOnf96eKgVFmL/8Ue59O1swsyf9/e1kgj+7ehIjfzj04l+Zx5QgCMDspSxS1RSLZmnIgcKlj2B/HQFxRz3ROCf4CgHMDP7MMsPsiofJCKY8igvfvYn8SLVBcQfwaAXyb/+nx+/AdI+F2OSHJ95AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnElEQVR4Xu2W70uTURTHfV5EKKKMRmMTF1M2cYazcKvhLMXZ8gc2MzMzc5mZmWkWFkT0ov7wU58zzny8a756ng2iC1/Y7p7nns+953vOXVfXvzE8OVfHhyf5iZyUCgWZm57uNJQnJ2/25FGloiCL5Tl5ODvTKShP3u3s+FLlyerCgqwtLSlYm1Poye7mpgJkMxnp77va0PPHq/KsWpXl+XmJRrrbBeXJ+sqKBuc0UgN9DTEPLL8BHI/2hH1anuxtbcnLp+samM+3bw5e0PtXNdnf3lZvDcZ7VcCGAObpzjEyAXPZAUmnrjdpdDgmP7+cKRAgBpRORlQBQXm66MjQNcmN1IMmExGJRXulVvvVJIDxEa1gKBlVUEtrYEDsVHf5Z/FErL8JwpUfCC+hQIFsQTdwK2H4makpKU5OasXxfqApY0FOyQ18mTghBBzvkvLAgKxi3KCtRMro3JibdvDiyZrUNjaCBzI/uACurHNTmYCU8sPaLgIDGssktNSRgeEN69I93VcuiI4NwN1bKYWhR1F9oQCxeD53Q4Uv/iZATDxPqzh9ux8ekB/KTgHdu5NW2TzPkbbzyziw4alRXTA/lB+MOX4HhO7+4fVu8EBAEAizUjmXnRjfue/ODg+lXBqV2WImHCACEZC0EIQT4JIlOCa2vyDMf/94IpX7WX0uFCDSZUCkhSDsnqBocXZMtVweV/HZYNhAaECkxQVyYZClyoweOBDeMR9ZRRHQgAykOJFopIpn+I8UMAzDa1wF+MXvI/8pAVQYj+v816MjrbAA+4876qVvdxNm/nxwoJVE8G/Hx2rkH59O9TvzgAIcGpCljFOiklrJPBU6kL/sCeSmyy/m6iChwNioBzAzuzDVBzlVG0DcYQFb6f8If/wGoGbiSfLt4acAAAAASUVORK5CYII=",
     "wiki_name": "Bucket of water (Meiyerditch)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bucket_of_water_(Meiyerditch)",
     "equipment": null,

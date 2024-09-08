@@ -1,7 +1,7 @@
 {
     "id": 13908,
     "name": "Torag's armour set",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-12-10",
     "duplicate": true,
     "examine": "A set containing a Torag's helm, platelegs, platebody and hammers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwUlEQVR4Xs3YzWsTQRgG8PQUdgmKeLZpGhppUpp0adNI05iQNP0w0JaYGtvaDz9QWopY9KR4UnoSQUEQFC+KB6F4KQgeBE8ePHnzL8nxlWfgDePr7ibd3dYuPDRMd2d/mdmZ2UkodHKPHjreuB491Cj10q2lPDXnRmmukKLC2ID6WysNqyxU0lSvjqg0ZiwVnLtcy6pcmx9X2VjM0fXLEyqo706zQFvLF9Vn/B/XpGKnOqHsQZULgzSdT6pIHAN1HANxYwYBs7NaVDBgcS6DMn19Tih7EFIaT6hIHAMZxyhuJW4dYO6ulRXMNyiXiVHeiqvY4fSu5NbhLuOuAmZ3o+INhEpQKYOs5DkaG4qqAMcobiW925y6CpgHN6b8gfDN0Sq7q9lA4hmEixiE1uAKW62WpwQCQrOjK/47qFmJ/gXCsyKbXkbe2CkSlI6f7h6Ei04cCCMHoNv1jGsYJMtlPIMwTBmEuWbt0pDK5vywbRgky2V8gTCP4CKArk4n/8nKbKodBulldgkEhMmvXk44ZmnqfBuEz24JDCSbHuFuRBikl9nFE2ilGmuDsC4BdHMx7Rqvz5CVONM9SF9g5WiR6TTKGO4ZhJUZIF5gtxojrmGQLJcJBIT1bOeK5RoGyXKZwECyC2Q6dRknMJA+KcoHWn+oZbmMbxAvsDzf6BOijjzSUbY+06/e7vCSxqDZiX6qTcZVFooDbSAjvc5D2cGzhwdhPSuO9qqUs1Gq5mIKyEgAGcRAubQ4LR2eQdvhR3Qv/ITuh/foofGcHhsv6KnxmvaMt/TMeE8vzU/0ytynN+YBvTO/0AfzG300v9N+5Ad9jvykg8gv+hr5HRyIdx38cs+7Dd4C8Qu+vh/DTfVNIibbQEC4qRtG34s5YYDAQPEFQmX45m6QbloGAKdtUBcgHPLHgKMNMB1AoRCfdFyR98fxB88y7FUORdVlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACr0lEQVR4XtXXzWsTQRgG8PYUdgmKeLYhDY00KU27tGlKY0xImn4YaEtMjW2trR8olSIWPSmelJ5EUBAExYviQSheCoIHwZMHT978S3J85Rl4w/i6u0ln11oXHhImu7O/zOzM7PT0HN2jlw43vkcvNUp9dH05T835MZovpKkwPqA+a6VhlcVKhurVUZXGrKOCc1dqWZVLCxMqG0s5unJ+SgX13WwWaGvlrPqO33FNOn6sE8odVJkcpJl8SkXiGKjjGIgbMwiY7bWiggGLc41BSGkiqSJxDGQco7iVuHWAub1eVrDAoNxInPJOQsUNp3cltw53GXcVMDsbFTMQKkGlDHJSp2h8KKYCHKO4lfRu8+oqYO5dnQ4Gwj9Hq+ysZUOJMQgXMQitwRW2Wi2jhAJCs6Mr/jmoWYn9BsKzIpteRt7YKxKUSRzvHoSLjhwIIwegG/UR3zBIlssYgzBMGYS5Zv3ckMrmwrBrGCTLZQKBMI/gIoAuzqT+yOpcuh0G6WVuCQWEya9eTnpmefp0G4TvfgkNJJse4W5EGKSXucUItFqNt0FYlwC6tpTxjekz5CRPdA/SF1g5WmQ6jTKGG4OwMgPEC+xWY9Q3DJLlMqGAsJ5tX3B8wyBZLhMaSHaBTKcu44QG0idF+UDrD7UslwkM4gWW5xt9QtSRf3WUXZ7tV293eElj0NxUP9XOJFQWiwNtICNN56Hs4MmDg7CeFcf6VMrZGFVzcQVkJIAMYqBcWryWDmPQrcgDuhN5RHcju3TfekoPrWf02HpJu9ZremK9pef2B3ph79Ere5/e2J/onf2F3ttfaS/6jT5Gv9N+9Ad9jv4MD8S7Dn65590Gb4H4BV/fj+Gm+iYRk20oINzUD6PvxbwwQGCgBAKhMvxzP0g3LQOA1zaoCxAOnHCY+U+OX373mp4stQDnAAAAAElFTkSuQmCC",
     "wiki_name": "Torag's armour set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torag's_armour_set",
     "equipment": null,

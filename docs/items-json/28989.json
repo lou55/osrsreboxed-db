@@ -1,7 +1,7 @@
 {
     "id": 28989,
     "name": "Blue moon spear",
-    "last_updated": "2024-05-11",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "A magical staff of ancient origin...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4Xs2VbUtUURDHd79AEPWmIFIkxQqUJdaiIsKHQqQ00zStKNvAyhdlZSZFD2KZYdiqYaK0sKhISZJUtBoGve0zTf3PZY5zp7PbrnsLB4Yz99xz7vzuzJw5odDGlzC51fX+n0uYhvoaabC3wehATz313zpplCGSIxcpMXyBpl+cd0Dpn8gb3ANiKACxapip5+30euCszzGe8U6rHyonyDAN3z/9BxRGgLAy0Fh/C408bDZrMbqAsF5Cr8z30deZ7vVBMRBsjg4DvXnWZoB4bTog7EvN9dLqwiP6vvDEAMFHeUGBUe1diRd2/msGglMXUPzxGQsEm1Oo0yWBYDOQ9q4k7EsDHHFx41kDwTkgOL2w8Y3q2nO+FL0cmzJjIEAcJcy5gDiSUOxH1DBGolXU1NlNPfEEvZr/ZIGgOQFxXWggONdAsqCxN3Z90EalqPgQxSfe0sfPy+aZU2aAZu/kD4R5ADEUR1KeSOzvuj1KpZEK6rj2lCYXU3T8xL3ggaAAkEC6oBkIijQt/fhp7MTsKk0mUjZl3949sDA5A0koPr4aSMLsibbR3orf/Sm5QoPJDxZQRkgCae9pxPsAnGUCchX07n2tdPTUkIXgpvgleWO9QF4PQoT+BqQLuri8kaqaRiyIbIoSSDZF7V2Jd+RdQFAXEOaxb1dZPR1rnTA2vsEwWBcoEENB4WAmfsk44O4LLSqtszb2yegECiSjhFECYe32wgMUrbxpbI6iC2hutMMCoUszTFZAODkuIL4wAYR1mzYX0rYdUapujlNtu3ctuIAAPz8e80Uoy+hA1oB0HWGe07RlawntLKo0toTRQJyu9xNXggNiKL6fcJL219y1EBhxymDLSEqgxalOHxBDae8O8YBk2ryNnpYdvEyH6/qNjfeyQ6cDQoqXpq9aIPSgHPqQHwjPDbEFKok0U+RIl214fOQljAsI0ckbCKdMpg1zNS3jNkpwAGfyypBAXGucrsCAdNowzymAQ3llMAwD8VoA4chLIPSgnPuQBGIoCQQ7E5Csn0CAdNo0EN65ChrK1wanK08gyNqpyqS6flg1EJqiBGLNASgU4raeSTWgVFk/gQBlKxoyG1jWtbX/STSkS/WeDS2/ALMAlFcSvgT4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADK0lEQVR4Xu3V70tTURgHcPcPBFFvCiJkpFiBMWIWFRH+KERKM5emFWULrHxRVmZS9GNYyzDW1FgyaTBURo0kqcgMg972Nz31PZfn9Nyz49rdbtGLDjzcc+/uveez5znn3Kqqf78FyB623/94C9D4aCfFRzpUjA23U+z6MRWMyCbOUWbiLM0+PWNBmX+iYrgDYhRAHCYm/aSPXoydcg2Mc/xmhhvlCRmgiTsnClA4AsLBoKlYNyXuRdS9ONpAuF+iV3Kj9GluqDwUg9Dn7DDo5eNeBeJ71wLhueWFEVrN36ev+YcK5AmDl/K/ZhAGtYGSD05qEPpcQrNcEoR+iaCAqwwYiCc3zk0QBgeCy4s+3tHcetpVomdTaXX0BcRZwjUbiDOJwPPIGo6hcBN1DQzRcDJDz3PvNQjhCcTzwgRhcBMkJzSejV6J66wEa/ZTMvWK3n34rM65ZAo0f7NyEK4DxCjOpFyReH7wxiTVhRqo//IjmllcpiNHb/sPQgAgQeaEZhACZVr69l31M/OrNJNZ1iX78vpuqRg0N0iiePmaIInZEe6lnQ0/96fsCsWzbzVQZsgjCM15AQYrBrJN6O27e+jQ8XGN4E3xY/ZquSBnD0KGfgcyJ3TNrk5q6kpoiNwUJcjDpugseRsIYQPhOp7bVt9Oh3tSqo93MAb3+QpiFAIDzCXPqwF490UE69p0H8/J7PgKklnCUYJw7+bqvRRuvKb6nEUbaGGyX4OwS5eIQXNWmA3EH0yAcN+69dW0aUuYmiNJau1zPgs2EPC56agrQ2WBzHmE61ymDRtraWuwUfUlxgRxud6kLvoHYhR/n7CS9rTc0ggcscrQl5mUoMX0gAvkAeWAZNmcB52o33eBDrTFVB+/yx16LRBKvDR7SYOwB3nYh9wgnHdE81QbilDo4KDe8HjJS4wNhOxUDMIqk2XDtZbuaZ0lDIDB5CdDgniucbl8A5llw3UuAQaUnwzGMIjvBQhLXoKwB3nehySIURKEfjGQnD++gMyymSD8ZpvQCP5scLkqBKH9WlXFwpw/HCYIm6IEcXgAldoKkRxy/vxFULFWiCyM/62y9gNo/EnLI/gthwAAAABJRU5ErkJggg==",
     "wiki_name": "Blue moon spear",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blue_moon_spear",
     "equipment": null,

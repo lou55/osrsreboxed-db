@@ -1,7 +1,7 @@
 {
     "id": 7496,
     "name": "Empty spice shaker",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": false,
     "examine": "Allows for equal distribution of spice.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4UlEQVR4Xu3XW0tUYRQGYPet9AuUyF8gGWKGmYaZmWGamZmZZmZmppmZ2OShSWcyTzVqgqLEXEhIGJJGkRdRgYSUBVFEJ4ooKDrgeMgDvPGu4duNg3m1Z2fQgoWbzcA8s9Y7fnv8/P6XT0rD4m1q/X7jLRujsTkqCtEREdgQHo51oaFYGxJiJkrD7qQkpCQkYHtcHLbFxgpqVWCgNFHrw8IEZsK0NORmZGDPjmQdoFBbN8Xo0+J9NTG2j1DuT1t8MBf7dqUKSk0qOT5ex/HvyoAAaQVc4e9vNEpDyaE8wRzZn43stDRB7d2ZosPYqYmJAlRIAtkqU6uDgoxCaThVVCSow1lZyMvMlNWptSkgW93zRHJ9hoNsFRWoOl4isPLCQhw9kCPNiSmkguakpy9AMl9rgoONXJsGR10tms/UoLG6CnaLRYDElebny+TUStVaiSSOa+UKmSkDp6Thwlkr2u12tNpsck0cYdaTZTh9rFifHIFEcXqcGEHMkcIYBGJp6GxokO6orxccYQpVc6JUVuqJ4oSYI/5bMHA6nqWhu6VFb4U6X1mpw1TOOCHmiKFmhnwGck1M4HJrq3RXU5OgmC9mi7nipMoKCiRDDHRts8MX61KlYdzlws+ZGczNz6PHcVFWyFwxUwQxTwz41cEhtPU4UXWu0VfTYblB09PTApqdmxMcm/c+fPyEx0+fYfjuffT2D6ClsxuWOrt5IAXhGnn/zbv3GB17ghvDd+Ds60fTpS5UWG2+BX37/mP5gSanppYviNfE8P7L12/x4OEYrt8cRk9vH+odHSivrv27oJHRR+aCPn/5uvxA4+MuzM66v/JLgezN7SizWM0DTU5OybU36NrgLXQ7r5gD4sHqDSKG0OcvXuHeyKiZIJb7gF0KNDB020wQS4Ozve2PIHW48tEjJjLSDBDLPSme+OoZiSc+T3s+D/HRg69RGBNALO+fzwtbQUzCuMvzTRdr79f/0/ULD60dI2kiWXQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xu3WW0tUYRQGYPet9AuU6B8IhphhpmFmZphmZmammZmZaWYmNnlo0pkmHa1RExQl5kJCwpA0iryICiSkLIgiOlFEQdGBGXXyAG+8a/h2JunV7J0XLljM5ruZx7Ve59tBQStlSGn4d5taf75466Y4bImNRVx0NDZGRWF9RATWhYebidKwJzUV6cnJ2JGYiO0JCYJaExoqTdSGyEiBmTAtDQXZ2di7M00HKNS2zfH6tHiuJsY2COX/a8sOFWD/7gxBqUmlJSXpOH6uDgmRVsBVwcGBRmkoP1womKMH8pCXmSmofbvSdRg7IyVFgApJINuATGk4XVoqqCO5uSjMyZHVqbUpIFudzUdyfQEH2aqrUXuiXGBVJSU4djBfmhNTSAXNz8r6C8l8rQ0LCyRKg6uxAS1n69FcVwu7xSJA4iqKimRyaqVqrUQSx7VyhcxUQEEXz1nRYbejzWaTZ+IIs56qxJnjZfrkCCSK0+PECGKOAohRpaGrqUm60+EQHGEKVX+yQlY6H8UJMUf8WTAAxNLQ09qqt0JdqKnRYSpnnBBzxFAzQ4aBvBMTuNLWJt3tdAqK+WK2mCtOqrK4WDLEQDe0uIzCsDR4vF78mp7G7Nwcel2XZIXMFTNFEPPEgF8bGkZ7rxu155uNB/l8PgHNzM4Kjs2zj58+48mz5xi59wB9A4No7eqBpdFuHkhBuEaev33/AWPjT3Fz5C7c/QNwXu5GtdVmLOj7j5/LDzQ5NbV8QXwmhuev3rzDw0fjuHFrBL19/XC4OlFV1/B/QaNjj80Fffn6bfmBPB4vZmb8//JLgewtHai0WM0DTU5OyfNC0PWh2+hxXzUHxIt1IYgYQl+8fI37o2Nmglj+C3Yp0ODwHTNBLA3ujvZFQepy5atHfEyMGSCWf1K88dU7Em983vZ8H+Krhx9iCkaV+sLFeqWMrd8FY+rnvwZA8QAAAABJRU5ErkJggg==",
     "wiki_name": "Empty spice shaker",
     "wiki_url": "https://oldschool.runescape.wiki/w/Empty_spice_shaker",
     "equipment": null,

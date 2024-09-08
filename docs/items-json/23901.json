@@ -1,7 +1,7 @@
 {
     "id": 23901,
     "name": "Crystal bow (basic)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A basic bow formed from crystal and wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxElEQVR4Xu2X20sCQRjFm3dBBEFESjEVw0u6XjIVzTRNCyMF00RcRPCu2e2hf/7kzLa7ul2oB3d68MDHsLss/vjON7PHvb2ddtqaCLR3OImCEGQSCbZqn+osgttyGafRCIRAgAGFHA5eUAS9VgulXA4Br1eB4Qp0d1NFIiIwu8J+/4dl3GwjGHS7KJ5lcZ5Oo1oqol2vMfs4QRG8PCzQqFZx7POtdYebdQTL8Rhis4lkLLYBwgFGFsGk32e2cd5hsiTbapUKvC4X76GWRfC8mDOoXCoFs9H4f6DC7kNcZiX7PndLd0gJoNe+R9Tjgdtmg9VkUsDote5Q0lATBJ1OHB3sw2m1wmY2s5UWfcZp8NWuXOXzsFssrDgCURH47HYMOx0U0inWKe5Asm3jXg+ZeBwmg0H/OdqUutvelksFiGOX1EGnn5nXFRR3IFUrqMlEgfq+dJUKRRMmjSrZZJJ9C2l0iQSD/KAep1M8zWYsdV4XCoiFQhvJU/vWlkUwHwywGA3ZbFFAsdFgYCeC8IWNulgq/cBodSTQY4GuQ1FkKZQW7Vy7XmcBkP6RqKwO2ItsZrtQ8g78S+kSANeT5m9K+/5OP+kdgC83qg1ZxgQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABo0lEQVR4Xu2X20sCQRSHnXdBBCFESjAVw0u6XjIVzTRNCyMF00RcRPCu2e2hf/7XnrFNWYqe3NnADw7D7j7sx/ktM2dNpj17dgaD9o4gSIQhm0zyVftUZxjuKxWcx6KQgkHRQgz9dhvlfB5Bn0+0DMHwcFdDMirxuCKBwJeUMDGGYa+H0kUOl5kMauUSOo06j0+QFMPb0xLNWg2nfv9Wd4TIEAyryQRyq4VUPC5SZBuG6WDAYzOMEMVWr1bhc7tFR6bC8LpccKl8Og2bxWIcqYjnGNc5NT5tt3SXXAv0O4+Ieb3wOBywW63fYnQtQIpgCLlcODk6hMtuh8Nm4yuVICFi05WbQgHOgwNeAoUIBr/TiVG3i2ImzTslXEiNbdLvI5tIwGo2i5dS62O1MoKQyvqYeVekDCJEKFLT6ZbUb6UrGymaMGlUyaVS/Cyk0SUaComTep7N8DKf86nztlhEPBwWOXkyLIZDLMcj/m2RoNxscrEzSfohRl0iXb9grGwJtC3QOpJlPoVSUec6jQYfAOlHoqpssFe57K6lCG0H/qo9/5xPjQAJyoMBpnYAAAAASUVORK5CYII=",
     "wiki_name": "Crystal bow (basic)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_bow_(basic)",
     "equipment": {

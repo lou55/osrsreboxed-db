@@ -1,7 +1,7 @@
 {
     "id": 27397,
     "name": "Adventurer's top (t2)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-10-12",
     "duplicate": true,
     "examine": "The clothing of an adventurer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADxElEQVR4Xu2U60tbWRTFez6VKaUgFYMJak0J4gNjJRMNmkkko4mxGEMmGhsfmTTV2tQ6IhL6cvrUvl/2MR1RpJTOMPR/XO3acq7J1Wgy0/FDccPiPvc+v7v2PvfIkcM4jAMPhb11oKHgPPMjWp3t8PX0IRo/B//PIblnq6nD0aM//J9g5i9XsrjWYDSO0fE0BiIxeH0BgTztaIDFUo1jx47vyP2PkAqZmTmkLmQx/uuULDySTCE5mZHryfMz8txeXSkuUcFwRMBcbg8am1oErt7uEOes1hoB/ZdQCvO5JVxZuIbL8zlcnF2Qxamp7LwhwhGIoBqKrtExOtjl9cPd2S2A2j3Wbjt1qlwohau/LyN38x4Wrt4SuLnFGwbgpblFOcZHJwSoscYi5wTkMTYyJnBDsYS4RrjOrp9wxtWB2jp7uS4p3Hv0CncevMDS/Se4efeRwC1ev1MAxra5/EF4QhE4bFVGS3mfYLwmnHatN3RWNgEdK9Mlhcev/sTDF++w/GRV4G4tPysAo2tcvLPvLLrDUYTOpQtA0tOzMmN69jQYWxnoC8t8leiSwtrmX3i99gEv323g6eqawK08e1MAxgXZFsL4IsMYmJhGYjYnG4AgnDnOmAbLd4xtpFMluqQEYv3D3/hj45OArb7fxPM36wYY28VF+LWECcSSGEpnsTARFwgOPkH0rJnB6CzBmlucpbik8HD+griz+emzAfZ2/aOAsWVciMVpfTTQjWAihcHUDK4ko/htLGbsSraV82YG063zOJtKd2np4rhIg218/Edaxl3H4pyNZmslGiwnxaHwWAYzI4PIjg7h+u0VGX6C6F1KMOaMD/YiORAQaZgSgBjmv+uWbl+aQC6dEDfcddVor7XA+XWHpaMhZGJhTMcHBIxHXvO+uYZWGTBboRO2E4sDDQd98tV0IBUJiniev/BuMq9ZZijczaYEiLOSD8X2/dLrFbBEf4+I5xrIXOkbxTYQdxShPHar4VK/142I3yODTvH8QICuZUaxmBoWIEq7xAEPdrkEjEfqGwGZB3D7PoFuTCUNIDpF6bbVnzyBHncbfK5WUSFQsbp7hoK3wQb36Wo02yrhsFTkJSssz6bld6Dbli/tUk3FcXS0NIq2gZTUbK//2t7aKqldIpRCX2s9/E21BlR+0ZW587LT2DazvA6bzJKjqqLAHZ3Lmh6H1QArdK9oKAy5HOhvs4tTOxO32kao3cQhZ+t2zs9WXX4s6xKsRCDGfj8w8yzsrv3ydj7fI/TLxZLMz4tpvzzz88M4jO82vgBVVpy88Z04fgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADkklEQVR4Xu2U+0tTcRjGOz9JIYEoDjdUXAzxglNZ06Frk6WbM5xjTWdTW2tptsxEZHQzLdPuF82sRBGRiuh/fOp55Zzm0eVK20974eFcxvf9fs7zvN+dOJGvfOW8FPxZOS0F1qazaLA2w9XRhWD4EtznffLOVF6JgoKT/xNM/+WKbK6qNxjG4HAcPYEQnC6PQJ6xVMNgKMOpU4X71h4RUkFifBKxa0kMXxmVjQeiMUQvJ+T58tVx+d1cViIuUV5/QMBsdgdqausFrspsEeeMxnIB/UcoBVOpWdyavoubUylcn5iWzanR5JQmwhGIoCoUXaNjdLDN6Ya9tV0AVff+GejOw0WkHixg+s6cwE3O3NcAb0zOyDU8OCJANeUGuScgr6GBIYHrC0XENcK1tp1Dk60FFZXmv4VSsPB8GY+evsXsk5d48Pi5wM3ce7QHjLHZ3F44fAFYTKVapHxPMD4TTnWt03dBDgEd+2ugF8uf8eztGhZfrgjc3OLrPWB0jZu3dl1Auz8I36X4HpD42ITMmDp7Khij9HT5Zb6yhFKwvvUV79e38W5tE69W1gVu6fXqHjBuyFgI4wr0o2dkDJGJlBwAgnDmOGMqWLpjjJFOZQ1EiI3tb/i4+UXAVj5t4c3qhgbGuLgJv5YwnlAUffEkpkfCAsHBJ4g6a3owOkuwunprNlAKnk1dE3e2vvzQwD5s7AgYI+NGbE7rg552eCMx9MbGcSsaxO2hkHYqGSvnTQ+mRuew1mYDxFIwe31YpIJt7nyXyHjq2JyzUWcsQbWhWBzyDyUwPtCL5GAf7s0vyfATRD2lBOOa4d5ORHs8oixh1NL/u+5q/sYIUvGIuGGvLENzhQHWXycsHvQhEfJjLNwjYLzyme/1PX7ryJUZqN/rkq+mA7GAV8T7Y9o4Uyl4nIwJEGclHYrxXex0Cliku0PE+5wB8UQRymE2ai51O+0IuB0y6BTvcwJ0NzGImVi/AFGqSxxwb5tNwHiljgko0/DtAt0fjWpAdIpSY6sqPo0OeyNctgaRfv3Bff9YCpzVJtjPlKHOVAKLoShtsYLFibj8HaixpUt1qbyoEC31NaL0tezZXPUr3opS6Z0llIKuhiq4ays0qPSmS5NX5aQxNr2cFpPMkqW06EB32NNhMWpgWQP12SzobjSLU/sX7sZGqIPEIWd0++dnty8/ln0JliUQ67Cs9b9nkr4O+z1f+cpX7uonSUxN46MCMLUAAAAASUVORK5CYII=",
     "wiki_name": "Adventurer's top (t2)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adventurer's_top_(t2)",
     "equipment": null,

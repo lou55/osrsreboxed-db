@@ -1,7 +1,7 @@
 {
     "id": 7369,
     "name": "Studded chaps (t)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "Those studs should provide a bit more protection. Nice trim too!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xs3Wj2vTQBQH8JRRQkroKA0dnaxbB2Wg4nSg/4aKoqKiqKgoIojiGEOZOoa/GIz5A5UNJmOOoRNBVBRF/7Lnvhde+vJ6tcmayQ4eTdPL7pN7d+/mONu/5cgett+3vOXoyeQRejRx2MTM+CGavnXQBCOW587R0uxZWnx6xoLSL9E1PAQxCiAOjVl4fJpezpyMDYzv+E1HHJUKmaPZO0dbUPgEhINBz6dP0NzUMdMXnzYQ+kv0z7VJ+r5yc3MoBuGaZ4dBrx+eMiDu2w6E536sTtDv9Xv0Z/2BAWGMvUNDJvToqoXTzm/NIAwqQfKNOebvH7eCVubPx0C4ZpAeXbVcLA1A8OLGdwah32CPQ4HjUFEEv4wGrb24mB2IZwn3JKi+o0jVoEC9RZcKXt4E7iONGvTh1aUIhEgF4nWhQXhzCWrUSjRQ9SkoeR1BH99cjoPe3e4ehPsAIdBv/+ggje0eoEa9QkU3njYN+rRwJVsQAqnUIP9APw3XAuoLfCr64UxpEGb0y9K1CPTr/d0IkxokUfjjLaB91USgr2+vW0F69DatuYU7gQp7Kk2Q55iwgb4t39gsKNy2mKEkIK9Rplp/KcLYQOgvQbIo6tFVC7e8DYTQICxot95rQJwyLG4JwuxkCmIUAgOg4jII297dqEU9Zc+APNc1sWUgOUv4bAvy8y3FUYJWn12IQKjSjEkEwg6zgfg4aAFtpIxBjJIg9MWxIWco4eygNUF6HXH1laCR4bJZ1AChWmsQpwvHRmYgRuE+BtCgws4gBtLpQl9UaQlilB7d0kKQLW020K5GYOoQFjUOWaA0CP0/L16NQKhBKepQHCTTJkF8uAKESp3vK1hBgHcNwi7rBMJg6Ds6UjFnGXYaTn2ZMk5XZiCdNtyXICx09JcVmqs09wUIW16CUINS1yFb2iQI1wDhOMEzMng3ct9MQLa0SRB+k/+W4JqrOfrJ9dMlCC3+xu1CYmRoEIqiBHGkADkOl/V/hQbKkOsnE1DSppFJsBzNvv+paaQt9DPbuv0FZYw/5G1KqJ4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xu3W/WvTQBgH8JRRQkLIKA0dnayjgzJQcSjov6GiqKgoKiqKCKIoYyi+jOEbgzFfUNlgMuYYOhFERVH0L3vc98LTPne52qTJxB88eGibPms+uefuuTnOvz9KZA/b95s+SvRo6gA9mNyvYubGPpq+tlcFI5bnTtHS7ElafHzCgjIfIjc8BjEKIA4Ts/DwOD2fOardGJ/xnRk6KhOyRLM3DyZQeAWEg0FPp4/Q3O1DKhevNhDyJfr72hR9XbnaH4pBeM+zw6CX948pEOd2A+Hvvq1O0s/1O/Rr/Z4CZcLgR/mpGYSbSpB8Yo75u4etoJX50xoI71OCSloZgODFjc8MQt7ogEOR41Aogh/GBK09O1sciGcJ1ySouSWkeuTTYOiS75VV4DrKaILevTjXBiEygXhdmCA8uQS1GhUaqQcUVbyeoPevzuugN9fzg3AdIATydk+M0q7tI9Rq1ih09bKZoA8LF4oFIVBKExTsGaaxRkRDUUBhEM+UCcKMflq61Ab9eHsrLQZDB0kUfjwB2llPBfr8+nK/IIzOFu4F8nfUOiDPUWEDfVm+0i8o3raYoTQgr1WlxnCljbGBkC9BGZpivOVtIIQJwoJ2m4MKxCXD4pYgzE6hIEYhcAN0XAZh27sbvWig6imQ57oqNg0kZwmvXUFBOdEcJWj1yZk2CF06JQYj3mE2EB8HCdBGyRjEKAlCLo4NOUN9gcx1xN1XgsbHqmpRA4RubYK4XDg2CgMxCtdxAxPkb400kFku5KJLS1AGVAyylc0G2taKVB/CosYhC5QJQv7HxYttEHpQhj6kg2TZJIgPV4DQqctDvhUEeG4QdlkvEG6G3InxmjrLsNNw6suScbkKA5llw3UJwkJHvuzQ3KU5FyBseQlCD8rch2xlkyC8BwjHSfzDneDdyLmFgGxlkyB8J/8twXvu5siT6ycnCEN/4m4hMTJMEJqiBHFkAKUdSSSHXD9/EfSnkUQm4//IN34DG4j1SSmPk4cAAAAASUVORK5CYII=",
     "wiki_name": "Studded chaps (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Studded_chaps_(t)",
     "equipment": null,

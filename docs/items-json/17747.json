@@ -1,7 +1,7 @@
 {
     "id": 17747,
     "name": "Sea slug",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-09-09",
     "duplicate": true,
     "examine": "A rather nasty looking crustacean.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xu2V/UtaYRTHu4wQRYwwJiWtLFR8wTfsekVNpa6aXVZmDWcvWFtUQrRartqobU0CiWCwtcFiMPZL+31/4Hd7njtf7sUVuTIZfeFwr/o85/l4zvfc29Z2pzu1pBhI49YkAizwOgicFn6rBm6j+ragGBwvRbE7w+Fp3IlJzgi/pQcOg4oCufr7mwklwhxkAng2MYRF3oG034QRZx+MemWzgRgcPhGwMxfH+nQES0IAmVEvhIADUY8JBp2imUAMSmspvF4cRyHLIz8VRi7JYSbqQZKzYdhlhK6zvVlADH68mMDXjSQ+rPB/BdKq7zUKdNVRZfBtcxyf1mLUP8W5EDX0uuBBOuxG3GdF0DGIDlVDLWNwdnKC87Mz/PxxDrNCLLN8VVUMnL16SbuIobdSLFbGXJiN2OiUxdwG9HaJY39FIKJqdTJaTQ2UvGoMDvgA8gE3VO3tFIxc5YYW2EE6ZWa9tlGgtjaySdzIYKZTDbtSgYS+uxJlsELEhwWvHcVEiILt55LYyoxi+WEQ2RhLgca8A4jYH8Bm6GkcSKpqZYqpCbxMJrDBj9DP+0ISWR9Lr4+cZsmUzSd8FIi0K2TVV2CuAUhasdooTaco0Gp4mF5zAQ7zfh+9z7Biy0i7yJP6mqojlxTodDZTAZh0ObE8HETcZqX3o1YLuAED9dY/VqfWuNLvyIHrIxEUEjxt01F6Eo9dVryNBylA1GyiMEuhAHbG4rS9ZJ3/fpcsZ70z6orB+3eH4FTie6ccm3YLSqybHkBgaoGIobfCLNjebgolOB0UKu1x04ci2X805EKkW1fJl+vS4M3288ugGHwulfD99CN4jQohtZIGgdl2WLFqMUogy6FUKGjETAYKlHTYKBQBIr+XvVf0OpHqUNMgk/vl+BiFfP5yqIui7INak+9GOTr6pHVDhr666y/Kfam35IfKQ76+Njlp6UUmlueqt+ZaVE0sTp6zs+MPZEuIwSuXaOYb+fdX1+8XdMgn88qtS4Qi452dSrUOFImjvb3WaV/Z6Dc2TY2qpWD+G/0CQ3Qu9IwH2WAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xu2V/0saYRzHO0aIIkYYk5IWFiqe4qnYeaKmUqdmx8qs4ewL1haVEK2WqzZqW4tAIhhsbbAYjP1Sv+8PfK/nOUw9WpEz9Yfe8OE57x6f58Xz/rzv2toe9KCWFIPqappkgHnRAEnQw8/q4DZrmwXF4Hgxip1pAS/jHCYEM/y2HjhNmmYAyTD7mQBejQ9iQXQi7bdgmOuD2ahuNBCDgxcStmfjWJuKYFEKIDPihRRwIuqxwGRQNRKIQXE1hfcLYyhkReQnw8glBUxHPUgKdgy5zDB0tjcKiMHFm3H8XE/iy7L4TyC99lGtQHeNKoNfG2P4thqj/XM4G6INvSZ5kA67EfexCDoH0KGpyTIGZycnOD87w5+Lc1hVtx0zA67XWGUXaejNFI/lURdmInaaspjbhN6ummNfPp2MXlcBpTw1BvtiAPmAG5r2dgpGRmVDS/wATZnVqK8VqFIMpju1cKhVSBi7r6oEVoj4MO914DARomB7uSQ2MyNYehpENsZToFFvPyKOJ7CbeuoBRFQ+mcPUON4mE1gXh+nvPSmJrI+n4zPOWpWyuYSPAhG7QqyxXjBKVVtXnEpRoJXwEB1zAQFzfh+9zvCyZcQu8qZuCNDpTOYKYMLFYWkoiLidpdcjrA1Cv4n21n/CVDZu9T2y4dpwBIWESG06Sk/guYvFx3iQAkStFgqzGApgezRO7SXz/I+7FGtet8e1YvD50wEETem7I9eGw4Yi76YbEJhKINLQm2EefG83hZI4J4VKe9z0pUj+fzToQqTbcLVerkuHD1uvb4Ni8L1YxO/TrxB1GoS0aloEZsvJYsVmroIslVqlohWzmChQ0mmnUASovOFlILwcUh1aWiS5P46PUcjnb4e6uZRisBMVaPSJdYOmvhvmK9e6bk5dVF6cWFqHJq6n5ORxnR2tBfXOJTez8kmTdPmBDvnuu0/uKhmKxDs7mWodKFJHu7utAlRSS8E86P70F1HX5cgNqcvDAAAAAElFTkSuQmCC",
     "wiki_name": "Sea slug (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sea_slug_(item)",
     "equipment": null,

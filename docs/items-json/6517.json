@@ -1,7 +1,7 @@
 {
     "id": 6517,
     "name": "Agility climb",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbklEQVR4Xt2XQWsTQRiGM0hZdllSil68FcGz4l+QHhTx5kEQoYhQhSCBIopFilSLFCkECxYp7aHQg1DwIAgeBA/iQfAmeBNv/orPeWb8MplNaXYhk4gvDIFlJ/Pkfd+Z3bRa/5+M+DF26Rc3WcDIr9dt2V7KG8ypJSP7p3LZOZnLlh29uboLGPnxspSDbi7dK1nNObVk5MAC7Q1Ace38/PyIBYx8e1HKzt1w/+g5tRWgtmu7ZOTzs1IWzp1oGHVthehiqOMWM/L+ceFi27pd50c0VtynTQv181XbRTO8mJFPTws5vF+42Pbv1Y26sUzUp425TL73ShdPgPIwuAMIQG8fFrLXSeIS8lAa3bqF+rpRyofVwi3IJ84Aw7b/+KSI3EoANdwnIFj03aNC3ix7N+gNzqzfyFysgAGVLLpqn3CEmHChd8vGeTNzgABp14AKO2/sCtFpn/xCYQC4uehjUig9vRO4hIb7xDWKjhtsedxSQKAAWrw4k8olZPp9Irq12ay/wxSETtEtIgRo7XomZ0+30kNpn1ZnQ3zAERXFxzkF6lz2LiWKDpmoTysW6vduO3KK80qBFCYpULVPX56XbutrkY8Cqn7LmDXcJy03u02BJuDOoEKfiI4+6fmEY4OvJNWZCRX6RHT0iVNaT/MpACEPRZ+I7kE7c5HhVsIH7Sh5KO3TsoVi+9OpKbmETNSnroVi54UTfOIK0Wmf9MReuTbWPwBNFEdHn+gR51Hi59pxClBER594Rblwxr+OTL1PREefruZTBUKm3yei65QzcukvVPXOCcpEfbpjoRayfwCqOib4fDtaCjA4qveo/gCQM0N3mE4p5AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSElEQVR4Xt2WQUtUURiG5yByuZfLiOimbdA66C+Ei0LcuQhCEAlSGGRAwkhCwhIREQYFJUQXgotAaCEELQIX0SJoF7QLd/2Kr/Ocy+eZ6wU9Fzwz6gsXQZw5j9/7fGem0bh7MVI81x594zoHGDn72JTdl2mN1wTFyOFoKnsjqWzbpzMceoCRP1u5HLVTaY8nga8JipEjC3TQBRX25kZ+beSyNxf697XioXaDp2Tk+4dcxh4O1Kw6OL66MtRlhxn58jZztW2/CPknaqfs06aF+rvTdNVUDzNy+j6T41eZq+1wPgoQMSWf1ocT+d3JXT3+wAKG6QAC0OfXmRy0IkNpdasW6ud6Ll+XM3cgP5kMMKz9t3dZaVoRoKo+AcGhJ28y+bRQTANvmMzq88TVChhQEYBI1ScmQk1MoTNj65xKHCBA6hpQfvOuPb469ak4yD8Abk4XNSlUhNu7O1Wf+B2iMw1WnmkpIFAATT8ejAulPlHdylByvmEKglO4RYUArTxL5MG9Rnwo9Wl5yNcHHFUhPpNToNbTqFMipuTTkoX6t98sTYr7SoEiw5CqTz/Wcrf6KnKPgUjVJ5WbbVOgHsFovE9Uh096PzGxSLf1VfE+UR0+cUvrbd4HIFJA4RPVLTYTVxnTivhBe1UKKPVpwUKx/jjVJyBiSj61LRSb52/wnsdXpz7pjb002bP1v5hydfiER9xHkT/XLouHojp84ivKo/vRvo6ExPtEdfg0kfYViJhzn6iulQ/Kk5sA1e3TrIUaS24AVPW5RfkPKDEhD4L4LdcAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

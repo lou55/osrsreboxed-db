@@ -1,7 +1,7 @@
 {
     "id": 1063,
     "name": "Leather vambraces",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "Better than no armour!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABz0lEQVR4Xu2U4UvCUBTF9z70QQlDlCQls4XGWqRFSYEUghD0//8/L857nbe7y8g1zRXswGFvE/d+u/eeF0WNGh1UxmauXcYOz05sr9u27dZR3WDGpsnQJtOB83jUtYP+sQA7uIx9uDu383QUwHCNx31XtRqqZezT/YWzBMMVZtV+AUwOrXyxB3p+vHSWYDDWMCCn8WnB/yvJuK/kfHQ6LQVnApAGg1lBmFXbAcy4F+DrMBecDSQKYBxegqyWV8ESTlYRZhUrgOVTBDDCAQwVk20jzOvLNFjCFUED7gdgJsyDBCMcW8nWcEMJtF7NAlgRMH5/uO3aecJUfisPxHkgGC3bWQSFzejNW5ID4e8AwRrX67izDcqfM3I4dYpk9WT7ioDg9/VNeJbOCJB5MZk4a5Iv+QrpwdQpkpDy5YQiDIFoCSCtKYQyIDmYEkzfw9yIYLpCaE889oHYAqDlU4YK6ITI9OjnsIeJIgmmXaIiRcqqpBPC9Ohny0XPmVCQbktFGMoPa1F6GGuuEWECYS2h9ix/IhcNKp2dJSYAlTxfqsq4KhFIJgb3+bnYeVbKKksNQD42aa49cuM9zEpZmQB0wEpsUx6iZhivPwHRqNF/1Sd76jJMoNXH4wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABt0lEQVR4Xu2U4UvCUBTFfR/6oIQxlCSlRQuNtUiTkgIpBCHo//9/Xpz3OG93l+lMc/ZhBw5729jeb/fes1arUaNaZWzuk8vY4dWF7UUd22mfnRrM2Cwd2nQ8cI5HkR30zwVY7TJ2/nRtp9kogOGYxH1XtRNUy9jX5xtnCYYjzKodAUwOrXyxB3p7uXWWYDDWMCDHyWXJ83vJuK/kfHS7bQVnApAGg1lBmFU7AMy4F+DrMBecDSQKYBxegiwXd8ESTlYRZhX3ACumCGCEAxgqJttGmI/3cbCEK4MG3C/ATJgHCUY4tpKt4YYSaLWcBLAyYNyfP0Z2mjKVW+WBOA8Eo2U7y6CwGb3+TAsgvA8QrHG8T7pVUP4/I4dTp0hWT7avDAj+Wj2Ea9mEANJb5SukB1OnSELKlxOKMASidwDQyoHkYEowfQ7nG3kwXSG0J4l9IIr7VcqnDBXQCZHp0dfh4ma6LTu1Z5PyKumEMD362mLWcz5g0yr5YS1LD2PNNSJMIKyPCiXTIweVzv8lJgDt+H/ZV8ZViUAyMTjfPDdHVZ4agHyvszraUyUTgGqsRJX+BUSjRo3+TD+e1AGOabGbqgAAAABJRU5ErkJggg==",
     "wiki_name": "Leather vambraces",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leather_vambraces",
     "equipment": {

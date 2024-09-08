@@ -1,7 +1,7 @@
 {
     "id": 339,
     "name": "Cod",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "Some nicely cooked cod.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUElEQVR4Xu3VbUsbQRAHcPdTFCw1mpAEk5KHwzxhEhMuDxqPGEmTRmMtEaGlIC2CtLS0pUWkpSCIlEKhn3X0P9c991bjm2a1LzIwEJIl+7uZud2ZmWlMY1wI0r+5xxC0lB/Qf4ISlM50KVvYZlBqfv4+UYISaYesbM/DGAbd1gJBsUSTklbHa5dxTCRWHTMX7m/xZOuu2uVuGI6Wb9hIUChSpMV4zWtXrvjsL1zmxEMwBhv7Qe6Gs3MFCoRsCi06FE30qWy/pOWVPYYZeNuuMAuhvO/JH8xajJkLVjxMKveCamuHVGkceOsmPNxuS4AJBDP0KGD5IAvhBmMi8S5jnO5XanU++iBGMDoiGF2jcKzDVYkltxiTr7yj7tYPE1VBXM3Hw0DJB5HtiaeG9NjapXT+FWNWmifmMCoEAytbAwgQiaURJTP7lCm+oWX7E1VWv5nDqBD17QEECLQHVcmWDqlY/0LVlpE2uS0aVxFAgLAKB1yVXPmISo1jcxgJUYcVM6JCUBFACtUPPC/2+qkZzE0QzAggqIYKkfNiDCPPELy6amtkW/D2SAjmBZiac2YGg0twtf2eD7L1zc98qG30jqnTP2GInoDVN85NYBCC7xyAeu02H2ibg++MQaJNmBsdbAiDEHznYMMnw1PGqAkQsum85XX11hF/liD93/4xXAyeGhhUR02A0B4k1gBiN197F6YREMoPjJr9nTN6unvO5wsS6/Q01i4VMHj+k7ZHv2i495t29v9cO+z01P9tQnH96e+gEreH/uR66uunMY3LuABOszxVNK9zvQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNUlEQVR4Xu3V/UtTYRQHcJ+/IjByuLENt9jcxb3hNjfuXnRe5mRtTWeGIhiBFIIURUUhUgSCSARBf+s3vud29bkXV7/4LIMdOCDzwvncc859npmZaUxjXCgEf/mHobBUGOKOoBQy2R5yxe27AFJIZRxYuf6kMH8qopBItZC2upMal0IsURtTyP1fMt2e1LjcgtF45YZCCpFYCQvJ+tW48qUnv5/z8tZDCYaF/QXcgrNzRYQiNiILDuKpASr2Myyv7AvMwPiuMfORgu/N781agpkLV68wi/lD1NeOUW0emeqQOxJiQuEsHoQsH2Q+2hRMLNkTjNP7hHb3nQkI4xoTRITja4gmutKVRHpLMIXqa/S2vprDePtxP1T2QbzxJBdHeGjtIlN4LpiV1pk5jA7hwnqjIYSI1NIe0tkDZEsvsWy/R3X1szmMDtG/HkKI4HjYlVz5GKXGR9TaRsbkjmhcRwghwioeSVfylROUm6fmMB5EX1buiA5hRwgp1t7Kvtjr52YwN0G4I4SwGzrE2xdjGO8M4aerj8YbC78eD8J9IabuXJjB8BJc7byRg2x984Mcahv9U3QHZwIJJmGNjUsTGIaSO4egfqcjB9rm8ItgmBwT9yYINoRhKLlzWPDR6FwwehLEbDmv5LlG+0T+NgRyMXxrYtgdPQnieJh8hhC79UK7MG89lLSfGD0HOxd4vHsp5wvTLR5MI6F8gOHTb9je+47R/g/sHPw0ddj9LYJvHsxpTOP/iF+3RvG6zVi8BQAAAABJRU5ErkJggg==",
     "wiki_name": "Cod",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cod",
     "equipment": null,

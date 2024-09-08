@@ -1,7 +1,7 @@
 {
     "id": 7439,
     "name": "Spatula",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": false,
     "examine": "A large spatula... of doom!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABNklEQVR4Xu3WQWvCQBAFYPdaRClKpRREEQQtiC20IqjowUNARFEJaimt+P//wpSXYeK49ehm95AH7xKC+5GY2S0U8gQVQ/YVjzE0ey1TIChD406ZFu+VBNRvNHyiDA3bpSuMR5Chz1aRVh/VMDBvzYAwvfoDbQeBYLovOeZWAsTI4AsCg8E37z2mIPuujMIYDD6N8QS6YKK+9ymcYyQ4KlzXKwaL2/WGwV6EzRG7NRBSwVzqPLxLowBgvmDg4bMGBucaFNfwxByj+PwiT0NjgMBRwq68OvuX7hA+ZuoCI08Fi2Of0l1HkSsQH8B19SsSTDx8SrtbLl3/sU2yKBBSG3MY1ZJ+bTeuMRL+cn7imM7H4z/M96RGp/0+KwyHF2EYUED8Tp/TZorR0TBdLxgdAeja9+TJMn/fgEPO+/F9zAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABFUlEQVR4Xu3WUQsBQRQFYPMqkYiklJRCbSikEA8etiRC2yIh//8vXB3TZSyvY67aU+dlX+ZrtrkziUQcUVEU/eIwimatDAlBKRo3MrTo5iSAFA3raTmYfi1Fq15eBqZTFYTxKknaDoRgmuUY8y0CMUIGn8Zg8M29rGuQxmDwicL4bedTOMZwsNh7nWKweLTOMLiLcDnitgaC+8JwrUff0igAmC8YeDjWwOBdg+IbdswySr9feDdMDBB4SkRrEaSfmWaB4V3B4rinzK593xZIP8DNmr+IMcGw8OxuubSF4ajHokBwo5j9qPjocbuxjeHok3MOArodDh+Y06RI1zD8FcaMhgEFxGVaetYBxow5b342d+L8V+7LTf2AKz9ySQAAAABJRU5ErkJggg==",
     "wiki_name": "Spatula",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spatula",
     "equipment": {

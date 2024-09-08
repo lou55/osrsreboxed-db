@@ -1,7 +1,7 @@
 {
     "id": 2248,
     "name": "Burnt batta",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-12-12",
     "duplicate": true,
     "examine": "This batta has been burnt to a cinder.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xs3W7UsUURQG8N1P0ndJUjJNMszwJcwI+2CUmBm425orrrqmZRgVRFGIFL2I9IYg9kKFgiEmUkYQFUVRf9mN5w7PeObs3W3XncILhzs7c4f7m3PP3J1IZOu3qHGH6/o/b1HzeCphHk7GbczcjJnp6z02iFieO2uWZtNm8cmwA6Ufomi4ByIKIIbGLDwaNC9mBgIT4zeu6QiiCkJGzeyt3gwUekAYBD2b7jdzd/rsWPQuEMZL9I+1KfNt5drmUAThmNkh6NWDlAVxbDYQ7vu+Oml+rd81v9fvWxDmaKqqsqFnV81LO5+aIEzqAs3fS/ogHLtAK/OjARCOCdKzqxYNLAMmYnHjtwZhciC4vNlAa8/PhwdilnDOBWImCULWNOj9y3EfhCgIxLrQIEyuQRwnCxahQR9eXwiC3t4oHoTzABGFTBJw4mi7OXn8mI1THR0ZsI8LE+GCEABIEMb2x2Jm4HTc7KutNfvr6kxjfb3ZVVFhYYnubjsGYz8vXfJBP9/d9jEFgyQKT0oQxk2k02ZvTY2FHGhoMIeam82R1lbb4/eOsjIf9OXNFSdIz56leelGgbpAuDbcd8ZidldWZkVJ0Nflq5sFeXsQMpQLRAyWx4U63NLig3CPBMlNUc+umvfKu0AIgDDm8tioRewsL7egPdXVfg0RxD50EFF8tUeSSYvB0+vsoKAPNjVaSHtbm79coYFkltDjOjLB7KDX2QEIb9i2khIftPp0zAdhlyYmLxDeMBeInxjZQMgOQPGuLttjLGsOfxsyQ3lmB20DpOsI5wnCEgEi6wcgnEcxE8Plwt9GaCCiCEINYXkI43IBhrpBr0HYpSWIKD27o3kg17LhHHfn8aEhM9ibCAT+OgAjhiB8dnxavOiDsAcVsA8FQXLZCMIEGHculbIBXE9np90Mt5eWBkDITtEgvGV/A3E/cgXGyeUKDaSXDeclSH4DYdPkXoX7OBYgvPIShD2o4H3ItWwShONcIFk/oYBcyyZBuCY/SyQI42T9FAlCy6wLV0iMDA3CpihBjAJAkQi39VyhgTJk/YQCyrdpZD5YxsbY/9Q00hX6ni3d/gDY5FryRakhFQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xu3W7UsUURQGcPeT9F2SlAyTDDM0w4ywD0aJmYG7ram46paWYVQQRSFS9CLSG4LYCxUKhphIGUFUFEX9ZSeeOzzDmTt3t53dKfrQhcOdnbmz85tzz9yZsrJ/vyXEHa7jf7wl5OF0Wu5PpUzMXk/KzNVeE0SszJ+W5bmsLD0adaDsmygZ7oGIAohhYxYfDMuz2aHAhfEbx+wIoiIhEzJ3oy+EQg8Ig6AnM4Myf6vfjEXvAmG8Rn9bn5Yvq1eKQxGEbWaHoBf3MgbEsblAOO/r2pT82LgtPzfuGlAkDP6Ud00QLuoCLdwZ8EHYdoFWF8YCIGwXCEoEpgEXYnHjtw3CxYHg9OYCrT89Gx+IWcI+F4iZJAhZs0Fvn0/4IEQkEOvCBuHiNojjdMEibNC7l+eCoNfXSgdhP0BEIZMEHD3UIceOHDZxvLMzBHu/OBkvCAGABmHsYDIpQydSsqu+XnY3NEhzY6Nsq642sHRPjxmDsR+XL/ig729uFopBC4I0CndKEMZNZrOys67OQPY2Ncn+lhY52NZmevzeUlnpgz69ulQsCM1LNwrUBcKx0f6TBrO9piYnSoM+r1wuFuStQchQPhAxmB4X6kBrqw/CORoUYVH0HnkXCAEQxlwcHzOIrVVVBrSjttavIYLYxw4iio/2qYEBg8Hd29lBQe/b02wgHe3t/nTFBtJZQo/jyASzg97ODkB4wjaVl/ugtcfjPgirdIEYNO8Jc4H4iZELhOwAlOruNj3Gsubw2tAZKgpk1xH2E4QpAkTXD0DYj2ImhtOF10ZsIKIIQg1hegjjdAGGukFvg7BKa1AElAdyTRv2cXWeGBmR4b50IPDqAIwYgvDZ8WHpvA/CGhRhHQqC9LQRhAtg3JlMxgRwvV1dZjHcXFERACE7JYPwlP0OxPXIFRinpys2kD1t2K9B+hsIiybXKpzHsQDhkdcgrEGR1yHXtGkQtvOBdP3EAnJNmwbhmP4s0SCM0/VTIggtXBeu0BgdNgiLogYxIoAKbWEkQ9fPXwTla2FkOP630tovjuAQZpgNUMkAAAAASUVORK5CYII=",
     "wiki_name": "Burnt batta",
     "wiki_url": "https://oldschool.runescape.wiki/w/Burnt_batta",
     "equipment": null,

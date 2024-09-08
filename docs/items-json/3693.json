@@ -1,7 +1,7 @@
 {
     "id": 3693,
     "name": "Golden fleece",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": false,
     "examine": "I can spin this into golden wool...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xu2WWUtVYRSG3f/EH9BFBXVT0U0DDTRQNhFGIQiCYEkhBIJhggiSSIZhIkhmGGKDTTZJ5lBqDqkNNkg/ZOXzbd/dd7ZHyO05eeOCj3PYZ9gP7/uutXZOzlplvAJbfFatApsZqrePb8ptoLvQnt85bl3NR1YTLLAvI0022Vdtwz2l1td12kE9aDlq7TcOplEu6yoGNjvWYtODdZFK7+7n24u7J6y7Nc86bh6y1vr97hVIrj+5fczarh/IFlRg3yfabOZDg028rbKRnos2+LgoBQoLgejtPOWuoSDq1V/dmQ21Avs51eFs+9RfY6OvLjvrfCgO7wF6fe9kBNRQtcsqL22z4nMbMwkV2NxMV2TbWG+FU+n9s5IIauBRgXslXwABiIWN1bsdUEnBJge0Pjc3E1CB/f7anWrbyzKn0tDTYgcFUP/Dsw5IKnU2Hc4eEJahEEBTA7Uu3FJpKSgBVZVtzzyQYMjQeG+lO6i0FBSWZRVIMOSHUOtVUL59ZIlQk6Gmmj2ZBgrs83BjBKObA5IOCiAsYxTQZVlQKHCZEYxUwCZgdBzU/GFokh8GJINRbX+hcHMSoPjYD4+6ys8I7wH0FQKSz8kPg7Ll2j43GCtKt1p+3rrlAoVKxI8/c7QyUIAbcy1uF7Dkh0Dfqt1rdVd2REMRmH8ECtzAA4CssEQ5UUYWrPKBuDHX/EADqcWrQJef37JcGCp8vIhD0dpaEz4QN/VtEwyfMRDZaQp00ZkNy7eKHUVbx6HIjgaggADhxgKKK6fHEgKNXYnU+Tba7Fo7DiXbyIn2lkItywSJatr85IfHkUTqsJ+YwqjkQ0kl37Y4lL8qZBXdhV0AJVLnx2S7zY63OpUiqAWVUmyLdVN8u8sq1MGuBOpQ4dKUSoLyVZJtQGnmaATIJmD0kIY6CTuLCh8rpFKKdZ5K2AaUwIAiP+oqwdDqekJMAKMKp/Gv6c7IOmXJDzfWacsDhXXkh87ys7NCmLDCH4dg7rlnHkzWxWeTwMiTbMMycsMSTZCbpcsH80+67iNPsg2F9N0Vq5Ou9Kd//3wxZPykfv8/VBwy3Yn/Zq0yWX8A9lGYXhR9tgEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xu2W6UtUYRTGvf9PXwrqS0VfWmihhbKNMApBEARLCiEQDBsQQRLJMEwEyQxDbLHNNskcLTWX1Bbb6A85+Xuvz/WdO+OHmWbyQx54meHOwP3xPM855y0qWqu8V2DpZ9UqsPnRZvvwusaS/WX27PYx62s/vJpggX0eb7OZoXobG6iyob5TDup+xxHrvn4gg3IFVzGwhckOmxtpilR6e6/Ent85bv2dxdZz46B1Nu9zn0Dy/PGto9Z1bX+hoAL7Nt1l8+9bbPpNwsYHLtjIo/IUKCwEYrD3pHuGgqjXfGVHIdQK7Mdsj7Pt43CDTby85KzzoTh8B+jV3RMRUEtip9Vd3GoVZzfkEyqwX/N9kW2Tg7VOpXdPKyOo5MNS90m+AAIQC1vrdzmgytKN+QX6/aU/1bYX1U6l0ScVDgqg4QdnHJBU6m07VDggLEMhgGaTjS7cUmklKAElqrflH0gwZGhqsM4dVFoJCssKCiQY8kOo9Sko3z6yRKjJUFvD7nwDBfZprDWC0csByQQFEJYxCuiyAigUuMwIRipgEzA6DmrxMDTJDwOSwai2P1+2KReg+NgPj7rKzwjfAfQVApLfyQ+DsuPqXjcYa6u2WEnxumyBQiXix585WhkowIt5FrcLWPJDoG827rGmy9tzGYqBG3gAkBWWKCfKyJJVPhAv5pkfaCC1eBXomnObs4WhwutFHIrW1prwgXipb5tg+I2ByE5ToMtPr88WKLxa0NZxKLKjASggQHixgOLK6VpCoLErSxgqsK8T7a6141CyjZxobynUskyQqKbNT364juSkDvuJKYxKPpRU8m2LQ/mrQlbRXdgFUJYwVGDfZ7ptYarTqRRBLamUYlusm+LbXVahDnbloA4VLk2pJChfJdkGlGaORoBsAkaXNNTJsbOo8FohlVKs81TCNqAEBhT5UVcJhlZfviHmXOE0/jnXG1mnLPnhxjpteaCwjvzQWX52/hLGrxDM3XsWwWRdfDYJjDzJNiwjNyzRPAKplneYTqbuI0+yDYWW//9PKh0y/azVf1Z/ABIqVmzKB7wIAAAAAElFTkSuQmCC",
     "wiki_name": "Golden fleece",
     "wiki_url": "https://oldschool.runescape.wiki/w/Golden_fleece",
     "equipment": null,

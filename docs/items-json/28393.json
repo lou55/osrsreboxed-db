@@ -1,7 +1,7 @@
 {
     "id": 28393,
     "name": "Detonator",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "Magically detonates the nearest satchel of explosives. Cool!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABw0lEQVR4Xt3XwUsCQRQGcPdYiCIuRnYRAsMMNclMUjPEbDMsiaBDh6BDh6CD0KFD0KH/+8U341tnp7GCnNnowQNB3fnt956KicT/Lo/mHXt51Emu0PGsY8ZJzCC1SoGhY8B5IpVxOkmTb9oBSmKQxHUmSTfZ1MLG83h9rVCwhZKjAgZ3j0PvfHPfzlDWQdgbjIoxD7n0p7730yHKImi+NxgFY57WMpF+zGUiKKsgHhXuHAcC8LyeDXtqQFkCebRV3KSdconqtYo4CIcC8JrPin7RUAAxZsmgKKbZ2KV2a5963UOBeN/w6S3vhyiAgLWG2S4VBaZaKVOjXqVWc4+67QPq9zp0OujReTAQKICQENKJFYNGQpyONQxDMKavMGfDfpiOM4y6Nyf9I4G4GA0FCDikYwmD8iIQJLMIg8cAOcdgVCpGTccqRocwRt2byTgI03GKAQRj0jFIxzrGlApj1FGZ0tGv9suKYnQIklExTtL5CebqchQuskUMSoJ4cVUIDudkTOnoV1pSyZHp3zMqxmE6KPnpMv0sMIbTcYDhMqe0aHf0d1sq+R/KlJLjdOYlD5MwNaVYMGqpsNgxajHkT2Bc1gdnq26LLMegigAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABq0lEQVR4XuXVsUvDQBQG8GZUQkNIqFhHoVIrrRZrLbY1EmKNlWoRwcFBcHAQHAQHB8HB//vJd9dLL+dVXe4i+uBBIcP75Xuvban0t8uheRdeDg3cJTqadcE4jknKy5RqugCcw1KZeC5Nv2kLKI5BEle+S9dBeWHjuWEQXxUweHsMvQ31fTNDGQfhbrAqgbmveJ/6LvQylEHQ/G6wCoF5XPFz/VDxcyijILEqvDkGAvC8GmT9pEEZAjm0UVunrUad2ttNNghDAXitBqxfFBRAVjDdzg71e3sUDQ8Y4n0tpLdqmKEAAtYYZrNeY5hWs0Gddot63V0a9vcpjgZ0kkR0liYMBRASQjqFYtBISKRjDCMgWNNXmNNRnKVjDSPfzXF8yBDn4xEDAYd0DGFQTg6CZBZh8Bkg6xisSsbI6RjFqBCBke9mOkmzdKxiAMGaVAzSMY7RpSIw8qospJPHqBAkI2OspPMTzOXFODtkgxgUB4nDlSEYLpKxlA6Kr0z9nZExFtNB8W+X7m9BYEQ6FjCi9ClZvh21MMzRpmQ5HbU4TE6pQIxcHPZLMP+8PgAabCsqaxUmCAAAAABJRU5ErkJggg==",
     "wiki_name": "Detonator",
     "wiki_url": "https://oldschool.runescape.wiki/w/Detonator",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 25986,
     "name": "Elidinis' ward",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-08-24",
     "duplicate": true,
     "examine": "A ward once used by Elidinis herself.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xu2WO09UYRCG+QpCIIQfYGEoNIqGcJOLchfkLsj9IrgEwros7AJBBGULtbHQysKaRCuNsbXTwvgDLKyNhf+Baswzx4/99ixiCB9r4ySTvZ1z3ufMOzN78vK8hZHwN/8wjFysq5cAKmdgR4kZqevtk+qOTjlfXXPaYMHFz5aVybnKKkfMFTRy9eag1Hb3SFV7h5Q3NTkV8xpGLtTWZiWCVCMtaKR5ZFSuDQ5Jw8CAgtV0dunvlaWlvqCMlDe3aFa2tcuVrm4Vwpr6vn4VTgsa6Zydk65IRK5Pz0jr+IQCegQyKm6Fm4ZHVKBlbFwFSStmgfjuxtwd6Y7MS+/CogwsRf0CcZfcNSLcOSJuZoqlgXrmF6TfgfEGxEVtDsfjMnQ3pncPKJUL+idIC9+3uKTHc6zH6hBGIcjba+uaU8mk2oAw1WibnFQLsRQ7O2ZmtTrATKwm/AMBsLC5JbGdB7J0f1siG5syGl+R4VhcLWufmtYEhgoBxPdudTwCEe6+CRJILKFXqBQJiNvMpwQThL2wnSQsQxRrAOCVz0DSP3zn2aqjIgCy4hYEi3gFjkp5Bsq2yU3EycFoTOF4T08BxGrAPo9ARieGlV/R2qp/DTZpXASpjEIwgbFgCu17KkSTewWiSZkY/ijZziSfqQCjPLu+ITPJNZlMJGVsZVWnTifv957CMs4JKnriCHYP4vZ/icQeRj66vSOJ3ZRsPXosyVRK1wFwgFooey77yRsUItYOhOY378nq7m5WP5HsJ36nclSN47kJqsQTQfrYE4XRipAI2ou6K8BdBVSKY7HQ9hI9x9MB/WgfQ7LzWJE+MRPgsAiqinXWNvoO2wBjUIC71NAgidF8Wb6VL0+jBceH+juIDaOWscWxjOZ2lyeTByBgz5YL5O2ToowbDV/NUxiFYQAsBBayq1gVdmm+ThXKt1fFB0Dhq3iM9IQibFcHVlI57Py6VywfXxTJ/qczuQAijMLYJ4DwM9P+5wrNHNhlw6g1drnSM5cbG51qZA5J+OxTCCNfXhZrfnhepM2797Aww54cwhBGvr8pkR/vSuTn++CVzFG//CnCyy+nFh0eFsDN8DH/4yTxC5n8Bjk/Tw72AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu2WPU9TYRTHeQZCIIQP4OCkUTSEN3lR3gUpFCzyDrVYUkIthRYIIigd1MVBJwdnEp00xtVNB+MHcHA2Dn4HpmN+5/qkNy0S0KeXxZOctL29vf/fPf9zTm9ZmbMwUnjkFMPIxdY28aACAztKzEjrcFia+gfkfFNzqcG8i5+trZVzDY0+Mb+gkas3I9ISGpLGvn6p6+z0VcxpGLnQ0lKUCFKNvKCRrolJuRYZk/bRUQVrHhh0DWSkrqtbs6G3T64MhlQIa9rCIyrsBxqILchgPC7X56PSMz2jgA6BjIpb4c7xCRXonppWQbLQMo7dWLgjofiiDCeWZHQ56RaIu+SuEeHOEfHnn4CGFhMy4haGMHpRm+PptIzdTendA0rlPEEvLXx4aVnP51znQECQt9c3NOeyWbUBYarROzurFmIpdvZHY1odYGbWMu6BAEhsbUtq94Es39+R+OaWTKZXZTyVVsv65uY1gaFCAHG8BNWxkbfEJpBYQq9QKRIQfzOXCOawMGoZolgDAK98BpL+4VjgQFbcgmARr8BRKcdAxTb5E3EykkwpHO/pKYBYDdjnEMjoxLDy63t69K/BJo2LIJVRCCYw5U2hfU+FaHKnQDQpE8MfJduZ5DMVYJRjG5sSza7LbCYrU6trOnU6eb/3FJbxG0dQ3u5B3P4vkdjDyCd3diWzl5PtR48lm8vpOgAOUAtlf8t+cgaFiLUDocWte7K2t1fUTyT7ie+pHFXjfG6CKvFEkD/3n8JoRUgEj76o0UpxLhbaXqLneDqgH/OPIYV5ojjJD72qYp21jb7DNsAYFOAutbdLZrJcVm6Vy9NkxTGv/Vdh1DK2OJbR3P7lyeQBCNizlQp5+6SqlDA2jMIwABYCC9lVrAq7NF/nKuXbq+pggKxdCNvVgZVUDju/7lfLxxdVcvDpTBBAhFEY+wRQ+Mx08LleMyAYwqg1drnSM5c7OnwAxx0SZ2Hky8tqzQ/Pq7R59x9WBg3hDyPf39TIj3c18vO990qeIhDh31+BW/Q/Tid+AQS8ui9BXwD9AAAAAElFTkSuQmCC",
     "wiki_name": "Elidinis' ward",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elidinis'_ward",
     "equipment": null,

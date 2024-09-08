@@ -1,7 +1,7 @@
 {
     "id": 26147,
     "name": "Sigil of the guardian angel",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfElEQVR4Xu2Xz04aURTGmdRawYnU8C90WrBD1BQMiClVo7UkxIYSNzyWq276Bm3cuHLTxLhz4coXMOmib3La79ycO5fLDEKYadOUk3yZmcxwz4/vnHMHUqlF/D/h0Lj+Sqjke+0m7ey8oc3N11StelQul/4kWODC7deM1rfzNMv3Kxoql1tPGsyhbvdI6+qLgrn8PKpX3gsqFvMMlM2uketmkoByqNd7r/XzZk1LXOp0WtRqNahe39IOmUC7GxtxQTn08fQDg+AIAeTHtcu6v3QZ6PDwLUMBSPoJUABKp5/F6ZICMvXw3dW6uwiEBjeBxCkBisElh/r9biQMrnH/MaAYXXK4DCITTPoJ54NBTwPZW4ANNKdLDu3vt0egBESmTc6Pj9/x/YSBEArKBIMTgDg5OWChTND2do33Iox+gkAIh5pNn9rtGkugZMzhiO+Xfx897Q72ooSAVGMDSKDELUDBEc/LU7VSYiilioZJBAj9AaE8KFWjUWUAJFXJ1/naFMqH0sUMFLwupJlRJrNUOAIKz2BzFNdQMvsVMsfoq5fi0tITLo00NcZb9iUkBximSqDQOxCcgXtRQDO6pECg5eWnLCQeDj8xDFxC6WTEZbogaejHgGZwaRxmdXWFBXfOzk51aeCYXR5TUUBYE+tPARYNU8hn2Qk4ArfgkADBFSQXV6IckrVkbck1ASocCDCQbHgYcUABRIBMCBuoWHiu14gCmtBTCirMIdFLr8CS8UZy85eiAJWKAcgcQIhwqDC4aWWCmDBTAiFGoWwwO2GY7J6xYaSpATMFECLYi8JkJwqT/RnblRlgVKiHg38acWlmEDvMbxOX7ByL+OfjF9AVDySQ99gCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVklEQVR4Xu2Wy0rDQBSGG7xWg1VsU2q0wRQVrbRUvOKtUJRa3PhYrtz4BoobV24EcefClS8guPBNRv8znMl0TDRiogt74CcJaed8/c85M81kevF/whIf9Schk680amJ5eVHMzc0Kz3NFqVT8TbDAhYeLEaXL0yzJ98sKanJyIm0wSzSb20o35xLm+qxbM+6UcJw8AeVyY8K2R9KAskSrtav0ej+mxC6trdVFvV4VS0vzyqGUgCxxeLBPILhCAHm5s0lP1zYBbW2tEhSAuJ8ABaBsdihJKAmk6/nWVnq8CoQG14HYqQSBLNFuNyNh8Iz3XwEl6JJFZWDpYNxPuO90WgrI3AISB9rYaHRBMQhPG9/v7KzT+5SBEBJKB4MTgNjb2yShTNDCQoX2Iox+ikAIS9Rqvmg0KiSG4jGHI75fer+6yh3sRSkBycYGEEOxW4CCI66bF165SFBSZQWTChD6A0J5UKpq1SMAJJXJJ+hZF8qH0iUMFBwX3Mwok14qXAGFz2BzZNdQMvMI+QGUPBT7+/uoNNzUGG/el5AcYJgqhkLvQHAG7iUEJEGgwcEBEhKfnBwRDFxC6XjEebogbuivgWJDfYQZHR0mwZ3j4wNVGjhmlkdXFBDWxPoxwKJhCvkcOQFH4BYcYiC4guTsSpRDvBavzbk+gQoHAgzEGx5GHFAAYSAdwgRyCuNqjW8CISRUmEOsabdA4vFGcv2fIgMVnQDkB0CIcKgwuLjSQXSYmECIbigTzEwYJrNnTJgYTW1GsBeFyUwUJvM733QlKviXJKle9CL9eAOwfNROvyUpkAAAAABJRU5ErkJggg==",
     "wiki_name": "Sigil of the guardian angel (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_guardian_angel#Un-attuned",
     "equipment": null,

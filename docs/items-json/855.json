@@ -1,7 +1,7 @@
 {
     "id": 855,
     "name": "Yew longbow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "A nice sturdy bow made out of yew.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVElEQVR4XtWXsUoDQRCGbziOQ58ij2CVTkh7BC5EEQJBIWChiEIghQSFFEELrQJBFAQ7OzvBtxv5b1j3dnL1zvrBQm4vkI9/Z3cnWRZAHD6bQvy+3mORSkKMeFxVfDkp+HWVhBjxSV03Uvi8uip5e28uFkpVhznfXZiLhVIYs6OCb89L3izbYlHldqUwTkde7PPZyUUjlDro9f7EUPguLZmPBvHxcKh+mLge5E1SBkLAS7XnsHwfD9GXzaGliAf9vDkaTFPSUkjp523fLiUUuZZCLX2/JCY1Pyv5a2MsFdYO8fW0sDibHF6qPYfjwHTndUlh+DYmOt1Si5nZcQC0lCydoRDYlfKdgQnSbXopuYDNU9KdwdNCakl/MyLtO4/4cW5a3A4vhbtufWOeEvBShh2BRnYe/iRgJJASECnD7rILObmdlH5rhOw6JJRISlmWlMy/5hf9Bh/20vz8ZwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABN0lEQVR4Xu3XsUvDQBQG8D5CCPoHuQldQyGiIgiiUHBQRKHQQUShQ9FBp4KIguDm5ib4333y5QiXu94o+W7wgwdpl/x4uby7jEZBDOFvaQzvyw04VBYww25d4/ywxOsiC5jhoGlaFK8XFxWe7+SwEFVvF7g9k8NCFGu6V+L6tMLqpg8bFLeOYh3veNjnU4cbLDHK/cfiwvfdGjSG/ckkurGhGRdtpwQgJo3i4/u4l3SJiVGG8VbRjgYpKEaxSz9vmzoUF3mM4lr6fskMNTup8LUSo8KbGy6PSsVs6pJGcRxI37wUiuWPMYMnjZpPZeOAiVHu0QlBzDpKtNd1cadNj3IbsBDEOFS/S49z6Vpi+nue4WEmBzEexb1ueZUZSngiiOPePH4ksLJCCU+XqbjJnR0qI8x//ja/N8IHl0+incIAAAAASUVORK5CYII=",
     "wiki_name": "Yew longbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yew_longbow",
     "equipment": {

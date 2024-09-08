@@ -1,7 +1,7 @@
 {
     "id": 14681,
     "name": "Magic staff",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A Magical staff.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXElEQVR4Xu2WMUsDQRBGMxzLckFiEwwGEhKDJ+dJogERQVGQA5UgIgQJqCBiYUA0oGCRwkKwsBP8vZ/sLpfcXu/OFj6Y6qZ4zMzOXKn0DwuEebBDaNTrWGk2sdbpcEsRFisVLNdqWmg9itDvdjmlCAvlsiXUSxIdTFKEUEosVatYbbe10EYc62CSMkKDNMXreGwJqVDfN1st91LvlxLT5yctpEJVK5NxLEQY7gotZD99FhkF4eVczoQyCccy8yqcbAX4urFlitl/DGG0L/Axkni7kHg8Fbwye3GgRb7vQh0/9+FMqJjtAMLtkcDnlT3ATNVREKZD1uHNQ3g4FtYAFzMcY5Yfc4vykB5ib6rDvGvykN453sgUX1UxwyHmRnkjoxagJ0NMONsOfKkOYScKuA9mhjmcahur48ncKiOj5mYyYG8V4TAJcH0g/KlO2jNCHlQnw4t/G5tMhEPmFxfvBqVTN3WmAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABN0lEQVR4Xu3VUUdEURAH8DuO47gr28tqtbRsq5vbza5iJUqRS2UlsbJUJD20pKLoYR96iB56iz7vP3OOa+/tC8w87J95/5kzZyaK5hEJYVbiIay0Wlhtt7He7UqjCIv1OpabTQ/aSBJs93qSKMJCrVYB9bPMlxCKEDuHpUYDa52OB22mqS8hVAAN8xxvk0kFxCUA4hA+Lh2mz08exMXdEsOMdq0HVb++CIZDeD13JZBIZl042TL4vhHGjPctPscO7xcOj6dWFrOXGg/5uYt9/d7HsqDbI4uvq/8DLBbCdCQ6L+UQHo6t9ACXE5afEgyH/BArAZGup+Kdowaj6lfxjVKD4QWoZIgJZwOjpTuEncRIH8wi4XDyNubjKQwKGJ6bl6ECzGFmcH1g9XQn7weQgu4UYURR80R/677BxjQGUBEAAAAASUVORK5CYII=",
     "wiki_name": "Magic staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_staff",
     "equipment": null,

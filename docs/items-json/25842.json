@@ -1,7 +1,7 @@
 {
     "id": 25842,
     "name": "Sraracha",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-06-30",
     "duplicate": false,
     "examine": "Good thing there's no such thing as Sarachnophobia.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu3W3UtacRgHcH8cDoeJJKIoKmkvOEEjTcqS2TBWOVu02duK1las4SqKFgV7p0HQ2GAw2MVgsLvBrna92/0V+3Oe9X0OP8/p2GDpUS/WAw+VVH58Xn6/43Bcxv8Xgs5mW0PQwYBGm30qrcZVmu1R2wkTdJTV6OmgRjspHbQ76aHtcQ9VxtztqJqgl0MGaD2h0uGUl/ZveqowVGymW2kVSjAGqCdpjUGvbnvp2bSXYajYo6RKCzGVJjpbgtJBSIBOFvx0POdjBGbq/vU+WhyJ053BGJUiCg0HmooSNKwpPNAA4euHZT/DgFnJJ2l6oJdK6R66kYxSIRGhXCxEKa9E2Q4TlD8FASBRmCNUZzmXYAgQo/EwZXuDlOkOUDLso3jIS7GAh1+3EaVX5+1ygRFASQxaNNnfzdXwORycHZb0ua4wDP8n3dVlB0qvzuvZawxBizDQc9mr3B6JMSNCio7r9LrI7dQ4GwQZZwowb+bz1eEFBoMrMWZITDEw+BkQp6YyrAGQfhpXxtNV0P6tLIOw2hheK2ZmbZMWtw8pagKhVcAE3c5GWmas9k4xwygceBtjqXMxY+Ulmrq3QXOVvTMYDLLE4HsMed0gXA9IVOWo7GMQtsSMGSwUaXR6nopLa+dWx4yRrQfmgiAdczyi58eVAJ/EABXCSk2brNVBykEGxgq5IAYhGHKS0+h93gDh4gQIn5bX2JSojqwMMhXx8+80CJFhgLBVn1ZrQZgFVAktRMVwBkmM3Kw622MNQb9PehiDgQbo84MAz5AEJTz6bMjq4EQGDie0BNmEQQj69TzCM7RXGuJD8Mt6kC9PzFA546oBWdNGDELQj90wnzVYd4C+PgzyjY4K4eaOuU9boupvfF7aiEEI+nnQyVcDQC/KOQahZWujHZTxKxR1GSDzwNowvH8L/YTemhhgEFqGh6+l4Q5+jLCCrH/dhBD07XGIQcjvWyHeMsxPm0AIwRg8cGGD3t3183Mytsx8H7UQhDAGFWcRbnesdpswehhv3LQtqj+auEWX8U/xB7wTbro8fVhGAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xu3W3UtTcRgH8P04HA7J2BhnbGzDicppsEnTodPRjEm+NBvWfGti1iTDVBQThd4xEBYFQdBFEHQXdNV1t/0V/TlPfp/Db+c4valz3CHygQe3Ieyz5+X3Oz7fRfx/IehkehqC9gc02uhTaSWl0myP6iVM0GFeoyeDGm1nTdDOZIi2xkO0Phb0omqCXgxZoNW0SgfTOu3dCDVhqNhMt9IulGAMUI/7NQa9vKXT04rOMFTsYUalBUOlic62oEwQEqDGQoSO5sKMwEzdu9ZHiyMpuj1oUDmp0HD0XFGChjWFBxog/H2/FGEYMMvFDFUGeqnc30PXM11USiepYMQpq0uU6zBBxWMQABKFOUJ1lgpphgAxmkpQvjdGue4oZRJhSsV1MqIh/txFlFmdN0slRgAlMWjR5JVurkbY5+MMtGTYf4lhroJQnVezVxmCFmGg5/KXuT0SY0fEFRPXqfsp2KFxOgRZZwowr+eLzeEFBoMrMXaIoVgYvAekQ1MZ5gBknsbr4/1N0N7NPIOw2hjeVsxMfYMWtw6oywZCq4CJBTuctMxa7e2pHKNw4K2NZc/EjFVrNH13jebWd09gMMgSg9cY8r8G4XpAoiqH1TCDsCV2zGBpikYr8zRVq59ZHTvGav8fh4k5GjHzw3KUT2KASgnlVJtaq4OUgwyMA4gMwZBGQaN3RQuEixMg/FpeY1uiOrIyyGwywv/jECLDAmGrPq6cBmEWUCW0EBXDGSQxcrNcw/xq9DAGAw3Qp/tRniEJSofM2ZDVwYkMHE5oCXIJgxD081mSZ2i3PMSH4OfVGF+emKFqzn8K1JouYhCCvu8k+KzBugP05UGMb3RUCDe3ETxuiSq/+Kx0NQT92O/kqwGg59UCg9Cy+miAchGFuvx2UFvCPKE3JwYYhJbh4as2HODHCE9AXx/FGYT8thnnLcP8eARCCMbggQsb9PZOhJ+TsWUO7iOnYQ0qziLc7lhtjzCtcW5bdBH/bvwGakM1YsfzS98AAAAASUVORK5CYII=",
     "wiki_name": "Sraracha (Orange)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sraracha#Orange",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 344,
     "name": "Burnt fish",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "Oops!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xs3W+0tUQRTA8d2fpN+lH5RMkwwzfISZYaZhZkb4oJdUFBUV9VsUhUjRQ6QXgtiDCoVATKSMoB+iKOovm/jOcsZzj7PLbnsLBw579965O597zszczWTWf8u6eMSu//OWdU8njrrH46M+pm6PuMmbwz4EsTBz3r2bPufmn52NoOxDlA3PgQQFSMJi5p6cca+mTiUG5jvXbCRRJSGzbvrOsTUoPoFICOjF5JibuXfC9+UzBqK/Rv9YnnDfFm/8HUpAHEt2BPTm0WkPkr75QNz3fWnc/Vq5736vPPQgxmitrfVhRzctl3Z5agExaAw0++BkAHEcAy3OXkiAOBaQHd20bKIMDCSTm+8WxOAgpLz5QMsvL6UHkixxLgaSTAqIrAmE3+Pz4+vLAUSUBJJ5YUEMbkF6QlsQv7Wzudl/fnp7JQl6f6t8EOcBCUoyyT0WxLkdjY0hQ5/nrqYLIgBokAy8ta4uoABxvL2hIWRHQkA/P9wNmJJBGsWTxkBbamoSA2+qqvLnttXXu12tLR4mOAuyo+dpuR/maQuBBLO5utptqKhwGysrE5jeri4fhTJkR4603B5EhooBgQFhMWTmSH+/70P/rwvXA0hvinZ003JLPgYiNEiXBxTzCAgTeXdbW8gM8FRBgiIAseMKhGxoCPNkb0dHwNI/VZDOkqweQsrCShKIzoreoQEtPb8YQOzSgikKxMqJgTREEMyTPe3tbl9np+vr7vZ9uEeDyA6vDZ2hIrNDWwXpsnH+0P5ed/hAn5+owwMDHiIhZWKeaZCUi9dGaiDOtTQ1edDxoSGPISgRGTrY0+Ov0Y9M6hergNilNUhQdvRIy4F02ThHBhh0dHAwBJkhY5RK5k4MxCL4Mn8tgNiDStiHkiBCyiUQsjQ2MhLmjATlsiCyUzaIVRYrWyzkHSf7FCB500u5UgPZ1cZ5KQED6r8cghGQ9AXEktcg9qCS9yFbNgviuBBIz59UQLGyaRDX9N8SDaKfnj9lgmhr50os7PyRsCA2RQ2SKAGUyci2XigsUIeeP6mAim0WWQxWYrXvf2oWGQt7z7pufwBZZF88cN3qdQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu3W20tUURTHcedJepcelAyTDDM0w8ww0zAzI7zQTSqKiop6i6IQKbqIdEMQu1ChEIiJlBH0EEVRf9mO7x5+h3X2bGWOM0UPbVjMmTN7zv7MWuvsMxUV//7IuXjEPv/jI+eejB9xj8ZGfEzeGnYTN4Z8CDE/fc69nTrr5p6eiaDCH1EyPA8SCpAixMw+Pu1eTp5MLcx7PgsjjcqEzLmp20cLULwCUQj0fGLUTd897ufyGgMx36K/L427rwvX14YSiGNlR6DXD095kOauBOJ73xbH3M/le+7X8gMPyoThovrVArFoDDRz/0QC4jgGWpg5nwJxXCQolyoDC6m5eR+CWByEyrsSaOnFxfKBlCXOxUDKpEBkTRCux+uHV5cSEJEJpL4IQSwegmxDhyCutaO52b9+fHM5DXp3s3QQ5wEJpUzynRDEuW2NjUmGPs1eKS+IAGBBWnhzXV2CAsTx1oaGJDsKgX68v1MshpEGWRS/NAbaVFubWnhDdbU/t6W+3u3c3uJhwq0BxMhfmF+7GkiYjTU1bl1lpVtfVZXC9HR2+ig5QzQvGSoGBAZEiCEzh/v6/Bzmf5m/loAybIr5Wz4GIizIlgcUfQSERt7V2ppkBnhZQUIRgNhxBSEbFkKf7GlvT7DMLyvIZkl3D6GycCcJYrNid2hAi88uJCB26SIxjPwdFgNZiBD0ye62Nre3o8P1dnX5OXzHgsgOjw2boTWBbNk4f3Bfjzu0v9c36lB/v4coVCb6zIJULh4bZQNxrqWpyYOODQ56DEGJyNCB7m7/GfPIpH2wCsQubUEZUHmQLRvnyACLjgwMJEFmyBilUu/EQNwEn+euJiD2oAz7UBpEqFyCkKXR4eGkZxSUKwSRnZJB3GWxssVCzzjtU4D0pFe5ygYK7zbOqwQsaP9yCCOQ5gLilrcg9qDM+1BYthDE8Wog2z9lAcXKZkF8Zv+WWBDzbP+UCGIU9koswv5RhCA2RQtSZAAVOwqRCts/fxG02ihEFsb/Udr4DQ9gFLBWbb7ZAAAAAElFTkSuQmCC",
     "wiki_name": "Burnt fish (trout)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Burnt_fish_(trout)",
     "equipment": null,

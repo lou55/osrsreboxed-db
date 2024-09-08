@@ -1,7 +1,7 @@
 {
     "id": 9318,
     "name": "Steel bolts (p)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Steel crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdElEQVR4Xu1VXU9TQRDtPhF+gjESEuKDT2piCAnUYrAiH+HTWhAjFUFry4d8lCZoiDFEfgA/eMi5N7M9O8UH9l5aHjzJpnfm3u6cmTmzWyj8x53DifX0GEzAyYvKkFhf5/nOYQk4mRgdTexnw8PJb48JdghgfXy3KoMDA95ufq51EXy6+NAQzA1OPr2vyOT4eBLgbH9f1paWPJk/py35sLIckCnVH8uT8gPy5QYn50eHsrW+Lm9fTSYBWo2GrM7NeULt3V2pLCwEhGrVqqlYbnDy68dBQmj29ZQnwc97X7ZkeWbG2/ieK6Yk7c6RcHKwsy2L09NBQLbt+5sqVtwZyYOUk98nx4l+ePPvm5s++EW7LdsbG8F7rpj6nq88IjsaafbcHgiY28MC1+D2P90TGIWbq4Ps/2Wrj9uHBHhCMxFCpm9KpYCAakODQez8/vDb18C2ExpJKK0ODj/e/LheD2yI1xK22gEhaExbGE0I1ZkqFoPN7eEHbbCN84ltO42dtt4KaXWsUCFetvGNBlOfHXWdRiUSRQYLmb8cG/OZYdn22WqgfWxDXyHBW8PJ5eXPZPG1oD57cdr2WRvTl0E3ncDYaK2atkt9GFv1qZ9vfmhFAyshPi4yEdJM1cbz1dVfb2NB8EzQthPTqFXORAa6aLVSbSgZ6AkCZ0LInm3bTox55nPHB6d24RctRNW4YqiI2vhe/ViYRq5YJKFCQbPjTNln3ykhTBKT7b5YM4Kz4l9e6Zfd7YQP10R4evcU4dGAswgDkMPNHg9uYbNRS6ZLq9UXQlwhXBXz5XK/CQFp66Af1lMfCYVTei8IKZRYOJH3ADFkrgFCTQIoj+PaZwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4Xu1VyU4bQRClTyifEKFwiXLIKUJCCMk4BoFZQoTZHLMJHMJizBYWY4lEURRF8AF8cEVvSj1dVTaHmfHCIU8auau63fW66lX3wMB/dB2OrKfHkAQcjZaHyfrCuOuwBBxNjI0pu8cEJQFHO+tr9GpwMLZPv1ZbCH4oDRmCHYOj3S9lmszlogD3Fxe0sbwck/lz16Ct1RVFplB7R++Lr7tByNGv6yva39yk+anJKECjXqe1xcWYUPPsjMpLS4pQtVIxGesYHP38fhkR+jQzHZOQ4/Nv+7SysBDbWK8zxvuEcSY4ujw8oNLcnAoobTvfLmP5w7eGYCo4+n17E+lHbn6ytxcH/9ts0sH2tprXGWPfyOqbzhDC6WV5IGBZHi3w9v9p7cBUaJ8dnP55m32yfDiA7NCwLjH4pLOFgiIQtMHBIHY5f3V8pGzboexPDM4OLj+5+U2tpmyI1xK22gEhaCyUMBU4O9P5vNrcXn7QhrRxP0nbdiP7E4OzY4UK8Uoba0Iw9tlWD92YGnwSnPzj+Lg4Gb9dMpjNBsonbehLE0wMR4+PP6JPPgveZx9OWz5ro/sy6CYExkYbFS6X96Ftvc/75csPrejA/BinJAOE4P6k3sb46ekhtvFB8JKgLSe6MWQ5MUJw6KLRYG14MtATBC4J4fTStuVEm2e+d+Lgolz4RQmRNZkxZMTbWO/9+NCNOmOZwJuGsfTpOU8InSTJtj6sPUNrOeHDM6Fv756Cs+YJ4S5CA3TgZc8KJnVar0bdFTTVF4QM4an4XCz2mxDApYN+pJ7sqj4gaOqFEPJ4UWTS4x9tQYmt73+HJwAAAABJRU5ErkJggg==",
     "wiki_name": "Steel bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_bolts#Unpoisoned",
     "equipment": null,

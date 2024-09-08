@@ -1,7 +1,7 @@
 {
     "id": 1866,
     "name": "Pitta bread",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": true,
     "examine": "Nicely baked pitta bread. Needs more ingredients to make a kebab.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3WW08TQRQH8PbJ8C149omYmOgDMSZeEmNUIkGiFhXFK2IUFBGpYLFaa6rYCsGm1UKtpdYFSQEBuZSoGGNf8MGPc8x/m7PMTqdNt1sNk5x0Ozvb8+uZ2dl1OLZ+c5I6VOf/eXOSv/c4+Xoa9PB2H6PBrqN6MCI+dI5igTMUfdaiQMl/wjY8D2IUQBwyJvL0NI14T5oS4zvOyWFGWUI6KdDXWIDCJyAcDHo12ExD/U36WHyqQBgvopdSvbSQ6KwMxSAcc3UY9PrJKR3EY4uBcN1isodWtQHKah4dhBx1tbV6yNmlli87/2sGIakKFHx4wgDhWAVKBFtNIBwzSM4uNadpGpCIFze+yyAkB4KntxgoNdxWPRBXCX0qEFeSQaiaDPo4etEAISyBeF3IICRnkLhAxSgGmgxfMoPe37EPQj8nvt3eRB1tDXTBdYhcTfup8Ug9HT6wqwDIoE+RK9UFIXAu5LtOAc9l8va2krvLVRS2t76Odu/crl+Dis7G2g3QctptYCyDGIX++Mhdigx1WkIxaG6sQwmSsxdpm+sBIBxPvfPRRMRdMepz/GaloPwehAqJoJnUC9LGHtlCMUjcFOXsUsvf8iIIfdn5cZrXhimTDNDkuJc+RPspMXrPEmrfnh36b1UF9H1pgpYyEZrTQhWjamq22Qch0PdzbUqv0uJ0uCKUOGXYpRlTFgh3mAz6s/FVr9LqXMyEwkJPv/WURJ1tPqj/hrioy6wO2iZInjZUCShUCtOHNYWFLqNG/DdMKNVdZgvEVfqdW6bc+iz9yGq0tpAoiQo+vkYD3S1GdbBLiyBGydkVLQ+Sp42rhKnb+PWFct8ytL6SNtbVbPolTSf8lAzfp/DzW3p1xLWTiV41QNiDLOxDZpA4beJzjGNl5o2xHWCPwv7ke9BmGoP3IFsg3GXFQHgEIAEellw1VeA8xuLNoGogedrQL4LEdyA86/i5h+t4LEDJ0HkTCHuQ5X1INW0iCMelQFwhjK0KSDVtIgjnxNcSEYRxAPF02QShFa4JVYgYMWQQ3qVFEIcFkMPB23qpkIFiiOunKqBym4wsB8uxOfY/NRmpCvmaLd3+Au+4tNDl+gaYAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xu3WW28SQRQH8PJk+lV8MiYm+tAYEy+JMWpjg41K1Spea422WiuKrVQUMSiCJZWA0iJSxG1tKNjWXmiqNUZe6oMf55j/krPOXiDsLhofnOSEZXaW+XHm7Oy2tPz7zUHGYXT+jzcHBT1HKDDYLod/4DCN9B+SgxHp8GlKhU5S8kmXAUr7J2zDqyBGAcShxSQen6CY/5hqYnzHOW2oUaaQDgrd7dCh8AkIB4NejHRSeMgpj8WnEQjjRfRizkPzmT5rKAbhmLPDoJePjssgHlsLhOsWsoO0Ig1TWfLJIFMY/Cj/awZhUiNQ5P5RBYRjI1Am0q0C4bhBkEO1DJiIixvftSBMDgQvby1QbtTdPBBnCX1GIM4kg5A1Lej92DkFhDAF4rrQgjA5g8QCFaMWaCp+Xg16e9M+CP088Y0eJ/W62+msaz+5nHuo42AbHdi7XQdk0IfExeaCEDgXDVyhkO8C+T3d5O131YTtattCO7Ztlq9BRoupHgW0lPc2ikFTgxiF/nTsFiXCfaZQDCqN91oFof2uB4BwPP0mQJMJr2XUx/Q1q6DqHoQMiaDZ3DOSxh/YQjHIxKZYveVFEPrKcxM0J41SIRuiqQk/vUsOUWbstinU7p1b5d9qCujL4iQtFhJUkqKWUa2tm+yDEOj7tjotZ2lhJm4JJS4ZdukGMWjVO0wL+rmxJmdppZRSoVDo+de+uqhTnfvk3xCL2hJIu2zIElDIFJYPNYVC16JiwasqlNFdZgvEWfpRWaLKepG+liVanc/URUUeXqbhgS4lO9ilRZAJVBWkXTbOEpZu4/snqnwu0PpyXqmrYv45zWSClI3fofjT63J2xNopJC8pIOxBJvYhNUhcNvE5xrE8+0rZDrBHYX8K3HOrxuA9yBYId1ktEB4BmAAPS86aUeA8xuLNoGkg7bKhXwSJ70B41vFzD9fxWICy0TMqEPYg0/uQ0bKJIBzXA3GGMLYpIKNlE0E4J76WiCCMA4iXyyYITV8TRiFixNCC8C4tgjhMgBpteiSHWD9/EVSv6ZH6+N/stV+ltGpENZGnsgAAAABJRU5ErkJggg==",
     "wiki_name": "Pitta bread",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pitta_bread",
     "equipment": null,

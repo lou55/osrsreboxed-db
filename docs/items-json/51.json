@@ -1,7 +1,7 @@
 {
     "id": 51,
     "name": "Shortbow (u)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "I need to find a string for this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0ElEQVR4Xs3V22sTQRTH8YSy/0dFEESQ4oMKKvjigy9ea70rVSooIoiilKJUW0q9UCj1gkILlVJL0YIgKoqif9nId5ff5sxxErPNKh047GZ2NvPJmTOTRmPjt2ZIR+r5P2/N8GTseHg0ejSPqbtHwuTtw3kIsTQ7HBZnLoaFpxcSKP8jeoYXIKEAKTxm/vG58HLqTDQxn3nmI0ZVQjbDzL3BP1BcgSgEej55KsyOD+VjuaZAjLfo76tj4evyrfWhBOJe2RHo9fTZHKSx7UC8921lNPxcexB+rU3kIOYY6O/Pw8/uWpF2/WqBmDQFmnt4sgRxnwItz12KQNwL5Gd3rRktAxOpuPnsQUwOQstrQXaJiNpAyhJ9KZAyKRBZ43uODWRlnNiR5X2AiEog1YUHMbkH2YIWiO84uK0v7NrUl8xQDnp7p3cQ/YCEUibtjrQgrqqhD/NX6wURACzIF7QFHdjaAjH20+L1EvTj3f0SUxlkUdq+HiQM43j/9M4s7N8Sgz6/uZEE+dnbtGLNmawTyBe0QBTw3s0x6MvSzfWCijOIDP0N5AtaIHaVClrvWJA9FP3srhVbPgUiUiBbP8oO9SMQ42oFCUXoxGUC7m1BKzNabrtctYFslrhaEONU0BbDO9rqAq08u1yCOKWF6QrEzkmB9HcAyGbBYsiWB4FffTESZajL7NBaILtsHnB+d5ZvbeoFzKHtRb14kJbr/asr9YHoG9mXheE9WQTxSDA2kxbEKW1BQvnZE60A2WWjD4wH8NzusHYglvjjwrUSxBlU4RyKQRZFnybQlreYFIjs9Axi93gQdWRBTOb/MgRinF2u2kB+t9FvQf6E1lnFexoLiC1vQZxBlc+h1LJZEPedQLZ+agGlls2CeJYqaIJxtn56BNHi3dQufP0oPIhD0YIUFUCNho71TuGBNmz91ALqtnlkN1hFa+x/ah6ZCv/Ohm6/AUj9kEZlug8DAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu3V22vUQBTH8S4lf4gIgggiPqiggi8++OL9fqVKBUUEUZRSlLaW4o1CqRcUWqiUWooWBFFRFP3LRr4Jv3jm7Oy62aTigwOHZCeTnc+eOTM7MPDvt1ZIR+r5mrdWeDx6JDwcOZTH1J2DYfLWgTyEWJwZCgvTF8L8k/MJlP8RteEFSChACo+Ze3Q2vJg6HU3MZ575iFGVkK0wffdoG4orEIVAzyZPhpmx4/lYrikQ4y3628po+LJ0sz+UQNwrOwK9enAmB2lsJxDvfV0eCT9Wx8PP1fs5qBKGL9WvFohJU6DZiRMliPsUaGn2YgTivkdQK1oGJlJx89mDmByElteC7BIRjYGUJfpSIGVSILLG9xzekpVxbGuW9wEiKoFUFx7E5B5kC1ogvmPfpsGwfd1gMkM56M3t+iD6AQmlTNodaUFcVUPv5640CyIAWJAvaAvau/E3iLEfF66VoO9v7/WKocUgi9L29SBhGMf7p7ZlYc+GGPTp9fV+QbRizZmsG8gXtEAU8K71Mejz4o1+QcUZRIb+BPIFLRC7SgWtdyyowqFYbPkUiEiBbP0oO9SPQIxrFCQUoROXCbi3Ba3MaLntcjUGslniakGMU0FbDO9oqwu0/PRSCeKU7hFDK3ZYCqS/A0A2CxZDtjwI/Mrz4ShDfYHssnnAuR1ZvrWpFzD7Nxf14kFarncvLzcHom94dxaGdmYRxCPB2ExaEKe0BVVAFSC7bPSB8QCe2x3WCcQSf5i/WoI4gyqcQzHIoujTBNryFpMCkZ3aIHaPB1FHFsRk/i9DIMbZ5WoM5Hcb/RbkT2idVbynsYDY8hbEGVT5HEotmwVx3w1k66cRUGrZLIhnqYImGGfrpyaIFu+mTuHrR+FBHIoWpKgA6rW1IxW2fv4iqFtrR7bH/1av/QL+6kW6rCRmxAAAAABJRU5ErkJggg==",
     "wiki_name": "Shortbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shortbow_(u)",
     "equipment": null,

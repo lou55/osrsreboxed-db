@@ -1,7 +1,7 @@
 {
     "id": 9769,
     "name": "Hitpoints cape(t)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by the healthiest adventurers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACu0lEQVR4XsWX70tTURzGd5EYd4zJcG96U9Ig3wQZaBokFRJkgWhlGZmtsUZmY4w1TNJaMhQatnQpps3MzFnZL6wghOg/e7rPuTtrXqZO6J498GVwuWfnw/f3dThskwbrk/8o/vleLtDQ3HR0j2cqloaGw354HI4KL9Bw/lw7Gvx+8X5jfX0FZ/YsDb4i0HbeMp8H+q8W3yGMTUCUhoM1DhGKluPHLHAaei53IhG/uwXERhgpDY8extB+pg2XLl7AQPgmwqEbCAauIRYNYzw1bGeYyklDdmoc0UgI3V0d6O/rEVAMEz2kIExWaVhbzWEmOyHCQ6B47I74PdHapN47uTodAZ8Hq2/n8HxyTHhFAjGEyoFeGkB9dR78+L6OpVwWI8NRYaHgdZx11qgHmikA/fn9E18+rWDx1RSeToxWD2jaq6PXANr89Q0bX/P4sLaI1JOh6gFlCkAH9nvLmnKgtNdZBHrgcSLv07F5yiWMHmrUnQLKetIGaYgZAN21blFpVhjaaQPoSAFIgZc03N8F6KRqIEIQiKUvQybBaC3VBGJ1WROaQA3OfeqARmpNIPYijo/cfAbTmRSSo3EMDgTUAyVLgPLvFrAwNynGB4Eig0EBdEglUMoA6vGaQJxlBHqWTop1hB7iXGNiN7tsL32z5Ds8LtGpP39cxsqbWczPpgUQZxlXkN4rXQJI9iIbvWSWvARaf78kBitXEAKNPU6I5YwTXylQp5E/BGJCc6hyUSMQt8ShxD2xOSrqRWbJSyCZP6VAzCMmtuzWDLGNeWQCcbAyf5ZfvygLxA2SQCz9iNvWajN7EIHYELcDYtgk0G1VQMyf3YDYi24ZQPSqTWEzN0WZ0DsB8WuELaBT/7es2eYlAnEfYoOkx1h5TN42t45Wly4aIku+tOxtgpHa+qW6kymAMSUvqsSsZyvVX01+m6KNjVf2AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmElEQVR4Xt3X7UtTURwH8HuQGHeMK8O96U1Bg/YmqEDTIKmQIAuGVisjszXWyGyMsYZJWkuGQsOWLsW0mZk5K3uiBwgh+s++3e+5XhnDhxneM+jAYTC23Q/n/J6maY4tgcp3dnHxx3fyAIGmxsM7/E7VSyBw0A9D06p8gMC5s20I+P1Vfv6floBvHbTZaVnvh3uubPGZXV0C++s0eRXNx45W4ARCl4JIp+6ogJQvgYcPkmg73YqLF86jN3YDseh1RMJXkUzEMJIdUA8qjI8gEY+is6MdPd0hieI18YQUY7gElpeKmCyMyushKJW8LV+PtzSqBgkUG3SEfQaW3kzj2diwPBUbxCtUDnphgrobDPz4voL5YgGDAwm5o5FrOOOqUw+aXAP9+f0Tnz8uYu7lOJ6MDtUONOHV0WWCVn99xbcvJbxfnkP2cX/tQPk10L693g23clDO61oH3TdcKPl0rJ50y80TOqK7VKEEkiags94jM60Sw33KBB1SCbq3DeiEahARBDH17SuzYdzNtQQxuyoDmqCAa4860GC9BWItYvsozuQxkc8iM5RCX29YPShTBiq9ncXs9JhsHwTF+yISdEAlKGuCQl4LxF5G0NNcRo4jPCH2NQZ2k9vxOLJSvt1wy0r96cMCFl9PYWYqJ0HsZRxBui53SJCCWmSlvA1aeTcvGytHEIKGH6XlcMaOrxQUNOOHIAY0myoHNYI4Jfan78rJUVEtslLeBtnxUw5iHDGw7WrNK3YQZYHYWBk/C6+ebwjiBEkQUz/ucTTbrBpEEAviZiBemw26pQrE+NkOxFp00wTxVB1CWZOiHdBbgfhvhCUgqDs+rFnTIuchFkieGDOPwdvq0dHi1mVBZMorSHt78SHV7v9o/QULNF39J14ZPAAAAABJRU5ErkJggg==",
     "wiki_name": "Hitpoints cape (Trimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hitpoints_cape#Trimmed",
     "equipment": {

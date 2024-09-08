@@ -1,7 +1,7 @@
 {
     "id": 7205,
     "name": "Part wild pie",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "Still needs one more ingredient.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3W70tTURgH8O1FLyaiDHsrSH+BL4KKKAyTrEHmz5Yba9PVMJeSZWOJZSXSLwSzH1QoGmIiNjHCVVoY+H898T2X53rus7O1627hgS+e3Z3r+ey55557fb6D3/xkjun7f9789Hysk55m21WmMpdo8k6bCiOWZhK0OH2V5l/EDCj5IyqGWyBGAcSRmLlnUXo71euYGJ/xnYwT5Qrpp+nxrgIU/gLCYdDryTDNTPSosfhrAmG8jv65OkY/lm/vD8Ug9Lk6DHr/JKJAPLYYCOdtrWRpJ/eQfuceKxDmaGxoUJGzi2aVnX81gzCpCTT76LINQt8EWp7tc4DQZ5CcXTS/4zJgIl7c+CxBmBwIvrzFQKtvrnkH4irhmAnElWQQqiZBn99dt0GIKxCvCwnC5BKkL+hSoPUPKSfo093KQTgOkH63lIoO2pgb8BaE8EQ3u5pUhnuajWlvqaZkLGKjUM3NxbQN+rV238a4BjGKIZhwJHxWZbS3xU42VUejSSuZ4TQNJuPUeTGkzgMo/3HICJKzF2lWJbAeAEKfIZg83lFD0bYaCodqqLu12hFUpy96hVqbm2wszv+2dGu/IGsPQoUAYgz+8fhAnZ2RRJAGI0Hq765VQPSHYkHVB+rU0QAdbwwYQfqmKGcXzbrlJQiVyUTP0UT6sB1GpcK1qs8YrhRAR+oPOarkGQiY8fgF2vqyQS+DARWsGSAk5vzpKoVpOVlFZ44FVN+zCiE4hl/YcaKedvKbCgMYR6+UjsK4tYWFgkuGXZoxZYFwh5lAyO72tgPzfX3dTj6Xc+RerFVVVoJQoTKrg7YHYpQO4mAiGQBwWR8kQqqvrx08NjwDFUOZYIAwhvcqnItdWgcxSs5uaBZIXjZe3BwJk8E2wWPx2vF1/oYNwh7kYh9ygvS7Dcew42ICHVcseGTguVcxCHfZ30CYTH8HwqMFwa7OT3qM9RQkLxuO6yD9lYMxDOKxAK286neAsAe53odMl00HoV8KxBXCWE9Apsumg/Cd/lqigzBOXz8VgtAKF6gpcv1wJAjv0jqI4wLk8/G2XioSqEdfP56Aym0SWQ6Wszf2PzWJNEWec6DbH5gqdQ9A0I0CAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xu3W70tTURgHcPeiFxOZDHvrm/6CXgQVURg2Wg0yf7bcWJuuhrmULBtLVlYi/UIw+0GFoiEmYhtGuEoLg/6vJ77n8lzOOfds7W636EUHvuzs7mzns+eee+5tavr3m4/MMX3+x5uPnkz10qN8t8hs7jzN3OwSYcTqfIpW5i7R0tOEAaX/iYbhFohRAHF0zOLjOL2aHVQmxnt8pkdFuUL6aK7Q50DhFRAOg17MRGl+ekCMxasJhPEy+tvGFH1du1EfikHoc3UY9OZhTIB4bCUQvreznqe94j36UXwgQK4w+FH+1wzCpCbQwv0LNgh9E2htYUgBoV8jyKecBkzEixvvdRAmB4JPbyXQxsvL3oG4SjhmAnElGYSq6aAPr6/YIMQViNeFDsLkOkhe0NVApbcZFfT+VuMgHAdIvlqqRQZtLY54C0J4omt9HSLjA53GdIdaKJ2I2ShUc3sla4O+b96pFYOmghjFEEw4ET0lMjkYspPPtNFk2kpuPEuj6ST1nouI7wFUfjdWLwjNqgTWA0DoMwSTJ3sCFO8KUDQSoP5wixJUZyh+kcKdHTYW3/+8er1ekLUHoUIAMQY/XBhpszORCtJoLEjD/a0CiP5YIij6QB0/5KcjB/1GkItN0brkdRAqk4ufpunsfjuMykRbRZ8xXCmADrTvU6rkGQiYQvIs7XzcomdBvwjWDBA65syJZoEJHWumk4f9ou9ZhRAcwz/sOdpOe+VtgQGMI1dKRmHc5vKy45Rhl64Rg2ZdYSYQ8nN3V8F8KZXslItFJbcTYVFZHYQK1QVilAziYCI9AOC03k1FRF9eO7hteAaqhDLBAGEM71X4LnZpGeQCZYH008aLm6PD9GCb4LF47Pi0dNUGYQ9ysQ+pIPlqwzHsuJhAxlUKbhm47zUMwlX2OxAmk5+BcGtBsKvznR5jPQXppw3HZZD8yMEYBvFYgNafDysg7EGu9yHTaZNB6FcDcYUw1hOQ6bTJIHwmP5bIIIyT10+DIDTnAjVFXz8cHYRnaRnEcQGqtTmRHHn9/EVQteZEOvO/NdZ+AU4mKoN+UrmsAAAAAElFTkSuQmCC",
     "wiki_name": "Part wild pie (raw chompy)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Part_wild_pie_(raw_chompy)",
     "equipment": null,

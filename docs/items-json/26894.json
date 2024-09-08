@@ -1,7 +1,7 @@
 {
     "id": 26894,
     "name": "Portal talisman (blood)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A talisman bound to the Blood Altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPElEQVR4XtXXy04CMRQGYGbhjodgT6LExJULXJm4MWJi4iUE7wIiiDeCGINocOUlcWl81pq/eKZnTmdgCg7RJv8COm0/O6fDmEr9z+Yp9yTWPLWczzsnQZSnXh+66rJcjh0C5TKZJFCeen/sWYsOy1RA2CWezbU1P7IvYRBasGAB5CBTMybAJAhKpcwCNmhpcTGA+CXMsGMb7ANiY3VVVdIzumbmZ2d14o63+61mH20zyNOLI4Bsrxf84iUQMpfNatRCbk6Hj5dzx3gsBI82r4n7i6YOh4SBCEXBWH6L+UmNUfQD0HW1qiNBd+cNCxMG4jCzSwbUODoM7NBI0G29rsNBUZgoUPPk2L99EnS6t+sOAgADCisrOvhMOycXB4ijgMEunB3s+yicwLFBrVpNda8u/UEAAYnvJYowBOIYLEwgmgsg9DmDnlot1bu51jCqH0IRjGMoHFMplXSOi0V1uLOj9re2dMYCAQKQRHGYxFAIIyEIPjsXNRbDwnTPEblTEhGIwOC5xecaC0Sn7KPf15G3zULI/KDoZ6Xfbk8GQmgA4oRJm9tGIMxBIBS+Eyjswfj58jK0mMPCMROB6EhLUNRxDwtuC2HkT4czKPwFa4AKeyDKUD/+gDAQzR0DhBZ8PcDFZsDgu6+3twBMhiBR46Pnj2h0kX2xmQgoynOno0O1Jxc04+25Zb9Ds99nsP2EQWS/qcFE2vigCXZhWPuD/wbxR0KcTAXkkoRBaPaxHZUJT9LoJo9snMg54rRvwcMG3Bxk1DUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xt3Wy0oDMRQG4Hbhrm9SUBFcuagrwY20gqAWUWvVtt6vxQtSq9SVVnApPmvkTz2TMyfpkIxOUQP/og1JviYn08nl/mbLq/Bk1vJqrlQKToaovHq576izRsM7mYNeH7rWokkZCQi7xLNcLkeRfRmD0OIFCyAHGcBIilo2GzQ7M5MFIukXxvuAWFpYUM3CmK6ZqfFxHd/xdr/V7KttBuX14gggq4uVqHgJhEwUixo1PTmhw8fLuT1qLH61eU3cnZ7ocIgLRCgKB+GI+U31Bl20WjoSdHt8ZGFcIA4zu2RAR9v1sB26PjzU4aBhmGGgk92d6PgkaG9zIxwEAAZU5ud18Jl2Ti4OEEcBg1042KpFKNzA1KD2/r7qnJ9FgwACEt9LFGEIxDFYmEA0F0DoCwY9ttuqe3mhYVQ/hCIYx1A4prm+rrOztqbq1aqqrazopAIBApBEcZjEUAgjIQg+Bxc1FsPCdOaI3CmJiEVg8Nzic6UC0S176/V05LFZCJkvFP2t9K6uvgdCzIDBtffGFMyxEQhzEAiFHwRyPRjfn58Ti9kVjvkWiK60BA277q7gWAxmMHdqkPsFa4ByPRBlqB8/wAWiuT1AaIMdMbH7Pvr9GEzGQNzjh88f3MxEQFGebm50qPZ+cMGkZr/PYPsJg8h+zyNJ234hCABZL0nJHMQfCT4ZCSgkGYPQ5JX1yT9pn3AZrHxuy9v2AAAAAElFTkSuQmCC",
     "wiki_name": "Portal talisman (blood)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portal_talisman_(blood)",
     "equipment": null,

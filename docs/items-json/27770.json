@@ -1,7 +1,7 @@
 {
     "id": 27770,
     "name": "Crystal body",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-02-08",
     "duplicate": true,
     "examine": "Sturdier than it looks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXUlEQVR4Xu2W/UuTURTHfSq1xtRkMtnEpdNpU+cbWgmaYkjWEl8KIaKioiCIIogoDMKCoD+gv/d0P+fxPLt7Nt3W2w/hgcOjz733nM/9nnPvs7a2U/v/LJDQm7VW57dkgYxtvJGhpQdHSRp7emxV0oXlvwUVyGT5gxTWX0ru6n3pn9yQ3ty8dCbSciGZVU905yTZm5dMaVPH08V1SaRyCjQ7NPQnoSq7Lm1/lsLaC8kt3NWEBgQMPjC7pZ6dLivMufM9MeV+2wLpTo1rMhJP3H4vl2++lfzyE4VCDR9ocH5HnVIl03npSKZUNcDPtidbhartg+6+SQ1oQMAUbrxSlUavP9PyoYjBAKnqOaCuTFE6u9LS0z9TByrudYxEw8uPwh26ciC7qUACegYgmpu5qEST4wqyuK9wzO8bvSY9A1NaNu07N0bMi7kZfYd6APN/anixPlRp9zDsD7drHDjcB8rkN6pcYVwygAzGL3F7Z68Ub73TOIxbHAMBHBiavk7jBzKx9Ul3pGXhye4ogTvCcaD+S2sREKoqjCuxlRkgyjS1dRCdTlTXE8iV4PwEGLNAiuWPIYxTSxVzCe2Y+zDp3Iqksld0HDCSGZCpZH1jQL6SlNCA4hQxC2R690vUwL7cPkzf4FI0RuNa/xmQqUQ8gIBm3FRqQh3fgkgBklkCIHjXm5mPAHjPOCBswN7h9BCxmO/HaREGCyowRz1hkAaFU1LASMTfqOCXzI61H4syNlkq38Lk7MwHwrOFsmRGNsN+ck9OkV4FDohykjy+hnmmuN1FLQPZrnyJLbj1UmnnMHLtOQeVdxcmQNY/PhAbrI7XlFX6h8AmfQR0BMPHFmVw5vKkfJw6SlZdmjBm7QabssZAfGS1TO70AGfl43PCKeJIW0PbOnrPGvuXgWp35K6Eva9R31iT8wQMQE4Zt/CZjsSxQAYbz3yMcQ8dSpGv+spTGVzYqwrMFx8g/z4y538uQG7h6t9CYczxjdcy7E5iZmqzFZXcxHvfZMIlHVl9Hi20wPROPSC7CugjLr64QsTUTS4/luxMuTWguf3vmhiFqheGQP6NHb+bOEnc3vGNLD78IZN3DjTmwNx2K0BY5bdKJWjt2EneaF3teAOzBfUW+WMneaN18fFTO7VT+5f2E3uHIY/vp9M2AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPElEQVR4Xu2W/UtTYRTHvZVaY2pjMtnEldNpc843tBJmijGylvhSCBEVFQVBFEFEYRAWBP0B/b2n53Ou5+7uutxL9EvtwOHqfe495/N8z3nOXU9P1/4988T3Vq3d59syT6Yqb+Xy6sPjJM09NbUuqXz5b0F5Uqx+lPzmK8leeyAjxYokskvSH0vJhXhGPTaYlXgiJ+nSlq6nCpsSS2b/BlBt16WdL5LfeCnZ5Xua0ICAwUcXttUzc1WFOXd+KKLcH5sng8lpTUbimTsf5Mqtd5IrP1Uo1AgDjS3tqlOqeConffGkqgb42d54u1An+2BwuKgBDQiY/M3XqtLkjedaPhQxGCBVPQc0kC5I/0BKhkbmG0BFvYGRaLz82N+hKweymwokoGcAorl5FpVoclxBVg4UjueHJ6/L0Oislk37zq0R82J2Xu+hHsD8nxxfaQxV2jvy+8PtGgcODwOlc5U6VxiXDCCDCZe4tz8hhdvvNQ7rFsdAAG8I45snM9ufdUdaFq7sjhK4IxwFGrm0EQChqsK4EluZAaJMs9uHwelEdT2BjATnp8CYeVKofvJhnFqqmEtoxzwMk8quSTJzVdcBI5kBmUrWNwYUVpIStgCEeTK39zVo4LDcYZjhsdVgjca1/jMgU4l4AAHNuqnUIoyZFyhAMksABPcS6aUAgPusA8IG7B5ODxGL58Nx2oTBvBrMcU8YpEHhlBQwEvE3KoRLZsc6HIsydgREcnYWBsIz+aqkJ7b8fnJXTpGOAgdEOUkefYfnTPEOBiRW21W9xH5w66XS7lHg2nMOKucGJkDWP2EgNthByWr9Q+Ca9P6awfCxRRmcZ7lSPk4dJasvjR/z5AZbsuZAfGS1TO70AGfl43PCKeJIW0Pbe/SeNXbHQCd35EbC/regb6zJuQIGIKeMKXymL/ZboHrYpsYcOpICX/W1ZzK2vF8XmC8+QOF5ZM7/DECmcP1vIT/mdOWNjLuTmJ7dag9o4f53mXFJJ9ZfRF70f6g1ArJRQB8x+KIKEVM3WX4imflqe0CLBz80MQo1AgpP7Ohs4iQxvaPvrTz6KcW7hxpzdHGnHSCMh82jFl47zaPWbL1rXevaf26/APCR0TgVgevUAAAAAElFTkSuQmCC",
     "wiki_name": "Crystal body (Amlodd) (Active)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_body_(Amlodd)#Active",
     "equipment": null,

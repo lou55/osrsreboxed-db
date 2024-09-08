@@ -1,7 +1,7 @@
 {
     "id": 19897,
     "name": "Puzzle box (hard)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-26",
     "duplicate": true,
     "examine": "I need to solve this!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4XtXWQWsTURQF4M5CQkqxSEtKOjTpGBKJA00MnWqhsYqhogtx4X/xJ7h260Lwl75yXrgvp2fetDMxsXjhrFpmvtx3+pqdnf9rElfOo03i3hcj93Y29LmaDnweEbgE3Vxfu8l5EfLmLPMp8r5PGbg15BLEGGwIGCC///jjMxufhExGqc8WgEtMFcgwCLb07cs8BKB8cOwzzo58ysDGyBVIO6QgxSC8QWTY6/g8Tw9DGqLi/WGU9UhBisGG9DmH+223235SF5W4y/w4elx4MKLFZhBjDMTPwXYAwnump6c+KpBJ3OL1uATCsRno56/fPgbiUjPGeqSg/b1WAOnbI3M/yDAG0iPjUm8AlLj5WepBhuJiM0ZB2JBukP/SrNjdg93mx4Xwp7IN3VdqAzEG0edwf/TtkUncx8uXJZAdFx8Pl9o6xNuLYbChBqDEvZv2AkiPjDEGYqTe1hsBoT9VG4odmWG03AhAABev+iEnnb1m/QEGYYxtaD5NQ7RHCrILkjEoNhda3y6TuA+zfiWIMQbi49K7CGHMWiDrT6xDMRBjtPB6H9mfPh+ZCmQS9/kq9xg8/OtiEqJ3kfWoqj98H/Gm7b9+jf4k7qbIAogx2BIe/GlxEaLFrgIpptF20B+AGGMgxtiG+IWx+4gxa4HQH4BsS9wjBemnB4h/R+8iyzB9Vh+EI8OWAOO7KAbST88/VxCjavbHZvXVkmGIfTeyYj8EardaPsMsC8m6T+tuZzUrfRwH2MW462ajozvFjoEY0/C44hPDIQZj3GTQuVNsxhgoz5bfodcG8RhOgbo1wPDiF72DUrENsxGQTgyHVOH++riaTNX2FPbPQDox3FaPq8nw9ppgbgFZ9Fml4CrjrgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbElEQVR4XtXWX2saQRQF8MxDEENoKAkGXaJsRYtdiEay+QOxaYgkpA+lD/0u/Qh9zmseCv2kE84sdzzena07QZFcOE+R9eed48Sdnfc1xpaztTH2Lh/ar9OBy82k77JFYAF6uL214/Pc5+o0dcmznksZuDFkAWIMNgQMkL///HOZjk58xsPEZQPAAlMFEgyCLf36MfMBKOt3XEbpsUsZGI1cgHSHNEhjEN4gMui2XD4lRz6RqHB/GCU90iCNwYb0c44OmnavuVsXZex11gkeFx6M6GIziDEC4udgOwDVxGCMnV+OSiAcm4CeX/66CIhLzRjpkQYd7DfWBxKMgPSRcanXADJ2dpo4kKC42IzRIGxIb5C/aVLs9uFeXQym2A7Cn0o29L9SC4gxiH5OdH8er7+UQHJcfDxcaukQby+EwYYiQMZ+m3Q9SB8ZYwTESH1brwWE/lRtKHRkgtHlRgACOD/r+Zy09utiMMVxIYyRDc0miY/ukQbJBckYFDui0MbeT3uVIMYIiI9L30UIY94Ekv6EOhQCMUYXXt9H8tWPODJjv99kDoOH/5yPffRdJD2q6g/fR7zpxX/9lWPsQ556EGOwJTz4aX7ho4tdBdKYqO2gPwAxRkCMkQ3xG4buI8a8CYT+ACRb4h5pkP70APFr9F0kGSQf64NwZNgSYHwXhUD60/PfNYhRNTEyeHERhiHy20iKvQrUbDRcBmnqk7Y/xIJ4wjjALkZtOx0eLxU7BGJM5HGtmgUOERjjxv3WUrEZI6Asjf4NXXfKOIbhjT93D0vF3hBGz/L2qnBrPK7YWeA0bEsgnuXt6b++q3kFoYUU1WJMLEAAAAAASUVORK5CYII=",
     "wiki_name": "Puzzle box (Troll)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Puzzle_box#Troll",
     "equipment": null,

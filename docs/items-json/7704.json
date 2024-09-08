@@ -1,7 +1,7 @@
 {
     "id": 7704,
     "name": "Pot of tea (4)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "I'd really like a nice cup of tea.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2ElEQVR4Xu2WX0sUYRSHnS8iGnQhdJEgRBdiYWZmmGZmZqSZlZlpZraYaWbmYmaWZlayy2KmIqKYbSIr0h/ppg914jnb0WGKcEeFLubAYdbdYd7nfc5vXkxLCyqooP6LciT13rNy5MHtFgk1NUlbQ4O0Xr8mNy/XSn11tVw6VyHnS0ulrKhITh7Ll1MFBXLi6BHJz83dDSjvDpMd7uyUZw+7tZ8/6tHuvdeukDdqaqTlar2ClBcXK8jxvDyFO5SdvRMoRw087eqSkSd9amBferrCvHjcK6P9/TIWDmuPDwzI5NgrvY/fgMMStswSxk4XFsqBrCy/UEkT02/fyNL0tF7fDQ7qggBMDA1JZHhYoiMvFWY+FpP43Jzew0bqqqrUFiAVJSUKeOFMmRpjY76h6PV4XOaiUTWAEYMAknbDYLQvFJKeu22ar9rKSrl4tlxt8Rmowzk5sj8z0z9U4uOSLsxiWJkafy2zkYiCLLyfVJjY6Kj+hj3AyReGb12pU1sEHmNmDSif43NkZWFBgVgMGGwBsjw7s2kGc4AQcEDMEkEn5IBx5Y0Ejlxhju9ThEqOjIWBYVxkir8BxR5gQGIJaHJmhgh4951WHV97Y6Pm635zs1pjE3xmjYMZGalBfUskZPHDlC5oIFz5bmZiQmEBIuzcw1uILcbc39GxaQs4YMgSwGzOhyXKkZ8b32VjbU2NrS4uSnx+Xh/I+DDEWAk7Ft1jNFuMEUvkCGNsANMcKb4suYEwBBDjwhJAmDIgTHlzxfgYGVkCjnGRKYNJEYhy5Mf6unxZ+bw5MgPijfvb6MyQjQ1DBmHtE4baAlr7tKxAKGdsAHEUuIEwRMDtbLJwuyF2AGPlyNfVVQXSHP0GIkcGZBmyYNu4CLUbyPtkn5UE8gbbRkaGvAekjcv9iu8iEJU8m8yQhZq37F/jItC7bMddf/5bsp3eAztb5Q3mdtv7nKCCCiooT/0CyH+WzIuc4IwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvUlEQVR4Xu2Ub0tTYRiHPV9EMOiF0BtBiF6IhZmZYZqZmZFmVmammdow08xsw8wsl1mNjWE2ZYwNsyVjY/RHetOHuuO61zPHiGhnDQrODQ9nbgef67l+v3PKypxxxpl/YiwpfJVsLLl3a1hcg4My2t8vI9euyo1LPdLX1SUXz7bLuZYWaW1slBNH6+Rkfb0cP3JY6mpq/gZU/gkzyzM5KU/uT+t6+mBG1+ydcYW83t0tw1f6FKStqUlBjtXWKtzBqqpioCw18HhqSpYfzamBfeXlCvPs4ax43W5Z8Xh0rc7Py9rKC72P34DDEraMJYydamiQA5WVdqEyJkKvX8lWKKTXNwsLuiEAvsVF8S8tSWD5ucJEgkGJh8N6Dwfp7exUW4C0Nzcr4PnTrWqMg9mGYqXjcQkHAmoAIwYCSFYuDEbnXC6ZGRvVfvV0dMiFM21qi89AHaqulv0VFfahku+3dGM2w8r66kvZ9PsVJPp2TWGCXq/+hj3A6ReGb17uVVsUHmPGGlA247NkJxpVIDYDBluAbG9uZM1gDhAKDoixRNEpOWBceSKBo1eY4/sCoTKRsTEwxEWn+BtQ7AEGJJaApmfGEAWfvj2i8Y0PDGi/7g4NqTUOwecCgRhLviSTEnu3rhsaEK58t+HzKSxAlJ17eAqxRczuiYmsLeCAoUsAczgblhhLvu9+ld1USo0lYjGJRyL6D4kPQ8RK2bGYG6OxRYxYokcY4wCY5pVSNBCGACIuLAGEKQOEqfxeER+R0SXgiItO2YAxY8m3dFo+7XzMRmaAeOJ+FZ0xZGLD0B6EWbZnDyj1YVuBUE5sAPEqyAXCEAU37yZT7iIh8seSz4mEAmmPfgLRIwNkOmSKbeKi1CUDyi+2iYwO5b8gTVw2H/E/mcy7yRgypeYp+11cFLpEQExuKQtZzjjjjDP/3/wAyqRryrVm6gEAAAAASUVORK5CYII=",
     "wiki_name": "Pot of tea (porcelain) (4 cups)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pot_of_tea_(porcelain)#4_cups",
     "equipment": null,

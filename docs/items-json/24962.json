@@ -1,7 +1,7 @@
 {
     "id": 24962,
     "name": "Catherby teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-09-30",
     "duplicate": true,
     "examine": "A teleport to Catherby.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQUlEQVR4Xu3X2U4CMRQGYOeK+BbeGgwuQcQgLnHBLYgLIiruC264BU2M8QJfwDeu+Q85pBw60M7MjYlN/hikmX7Tc+yMfX3/I9TwVDSJZHhqPpulzGYylOl0mjKVSlEmk0nKxOgoZXxkmDKWSFCG43FKBChPLc3MqOW52VZWF+Yp/BnfIyY0Y4EEbGhwMAzKU+uLix0Q/I6zkcu1gs8MZaAOC4ny1ObKSgskMTqkPxZriwkWEuWpvUJBba+t0YK2EBkdxiiUD72FfnJAmUG2ED1cShOKQSMDA71QTVAxn2+VzQ/z891Qjbd6R+Q83BTKh57i0jmBgJEgCfHDmFC80zrKGYSScdlcMSaYLF0gEHYI6YbRsYgfCOFdcgahhySGQaaF/CLncukA4pPbCWSD2d/a7IgfCEHp0EfOIFPvyAUkQoL8UM4gXNRmh/xAcpf06+BGA4HQ1L1Apsg5cn5kIH0xuUi37+XcQD10uLNNf/qyj/QFe6UXCA9ZJxA/z2QvyYVN8cPwye8MOtotUtn0A9IW1Q2D4BxyBp2USrRL3VAuYUxg0Fm5TLvEpQuK0iE6CCe1E+ji4IB2iUsnUWGCByxAeCeyBj2cn9Eu6aUDSg+/ovBbgS2WQXgnsgahIe9OT9pKxz8ZKJESKCE6CE98xliAMDz19fJMqJvjY8pVpUJBORFgeRc5QNvAHTE8mqjPp0f1Uaup9/t7Vb+9pbxWq+r5+ko9Xl5QeRHgbW4gIIaH/Fc4fEJgmoMvEGXkGn9i/ALzUwF0xhOitQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLUlEQVR4Xu3W204CMRAGYPbK+ChEA2I8YFDReBaDIKLi+SwqgmjQxBgv8AV845p/zGAdutDu7qVN/hCg0m87Y3djsf8RangqmkQyPLUwM0OZy2Qos+k0ZXpigjI1NkaZTKUo4yNJymgiQUkODVEiQHlqOZtVq/NznawvLlD4Pb5HTGjGAgnYcDweBuWpjaWlLgg+42yurHSC9wxloA4LifJUcW2tA5IYHTI4MPAnJlhIlKf2CgVVyuVoQVuIjA5jFMqH3kI/OaDMIFuIHi6lCeUMKufznbL5Yb4+26r90uqKnIeLQvnQU1w6JxAwEiQhfhgTindaRzmDUDIumyvGBJOlCwTCDiG9MDoW8QMhvEvOIPSQxDDItJBf5FwuHUAOJ/cvyAazv1Xsih8IQenQR84gU+/IBSRCgvxQziD8qM0O+YHkLum/gwsNBEJT9wOZIufI+ZGB9MXkIr2+l3MD9dDhdon+9WUf6Qv2Sz8QbrJOIL6fyV6SC5vih+GT3xl0vFOmsukHpC2qFwbBOeQMOt3dpV3qhXIJYwKDzisV2iUuXVCUDtFBOKmdQJcHB7RLXDqJChPcYAHCM5E16OHinHZJLx1QevgRhZ8KbLEMwjORNQgNeX92+qd0/MpAiZRACdFBuONbYnh46uOpSajbkxPK9dERBeVEgOVd5ABtA3fE8PhBvT821Fu9rl5rNdW6u6M8V6uqeXOtGleXVF4EeJsLCIjhgT+OOv8jmvENhyS+BH/Vz54AAAAASUVORK5CYII=",
     "wiki_name": "Catherby teleport (tablet)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Catherby_teleport_(tablet)",
     "equipment": null,

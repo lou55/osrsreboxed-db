@@ -1,7 +1,7 @@
 {
     "id": 15056,
     "name": "Construction guide",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "How to build a house.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLUlEQVR4Xu3WW0sCURAH8F1kEXqwh4Ig6EZEEGEhUUZSvVgIYRewMrG0tJtZRETRQ/TNJ+csszuOp8VwRIIG/uCuC+fHzCjrOH+zXAgz8HJhL5uFna0t2EynGWwgOBcK+XwASo3HTJbG/AwAZwdJWCfOFpXyQfu7uwa0NhEziYJRMhutZ9da36da10kC91whKDPpY3iiYByUSDgGtDw93QvKhfPjQhuIgpipcScStjDqBCgaqTroMJcLwkE2GKEQRBgV0OnBQRuEgzAcymEEwih0BysEZWdjsD3jJwpE4fukBHLhulxuA1FsXcLw+7xLibgy6OzoEHJznRgJkigE8e6ogConJwbDwztFEBonhn6FEiRP+GWFoPx8Owhj6xIHYRRBLjzVawZ0WSwaEAUxckT0mS8+gnB/poYVQXcXF1ArleBowQtAdDh+tnWJUARS2x8CIYbCMRIoQbhDSuPC8kGNagUKi54JHUg4DpI4BOH+zI2ogFx4vb+H55traF5dBiAK7xjvmgyOSw309vBgQMWkZyJRHMYRtPS0P6NDiqCX29sA1A2Mxog7JPenZ9DH46MZW3nZM5EwG45AyvuD5XeomvIxPBIlYX0D4R+iXN5uYLQ/+T1VEFb4Yl5fsY9HwvBes+FBtdK6PvW0XlnDCpcxxD2vx+FutbMziPn6jMP7W9yg6jVPa6Ht9ROumfZMB3HfqEs4Ntwj1e5ElQ1nS9+6E1V06E+Rz/+XVn0D4TEMotzSI1IAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFklEQVR4Xu3W20sCURAG8F1kEXqwh4QgqIiIQKJCIo2kerEQwi5gZWJe0tLKIiKKHqL/fHLOYXZnjwcRHJOoDz7wEvljZowc53fGhaBjjwuH2Szs7+7CTjrNYGPBuVDI531QciaiujatOwacHWTCenG2ikSDjg4OFCg1G1HtB6Nmtrs/m+q+n+w+XyXw0AlAmTmN4e0H46BYzJEAuXB1VgiBqIiZn3H6whJxx0cFKx0qvaCTXM4vB9lghEKQAAajQRfHxyEIB2E5lMMIhBUHZRcjsLeg2w9E5fckBHLhplwOgai2KWH563xKsagw6PL0BHJLvRgTZKIQJDQdjAZVz88VhpdPiiC0Tix9C0cGyi+HQVjblDgIKwhy4anZUKB6sahAVMSYK6LH/PARhPczPykIalcq0CiV4DTh+SD6cHxsmxKhCCSAwQQgxFA5xgSaILwhoXVhNOi+VoXCiqdKH0g4DjJxCML7WZoSAbnwencHz7c30Lmu+yAqnxifmllclxjo7eFBgYqrnqqJ4jCOoKOn+4lPCIJeWi0fNAiM1og3JH4/H4+Pam3ldU/VhNlwBBK+H4yeUC2pMbwmyoSNDIR/EM3jHQRG95M/FAVh8BfpNjfs6zFh+Frn3oNatfv8wpP6l9WWAPe8FYX2Zu9kEPP1GYX3t6hCNRveqDBmwrhO2lMTxHujKeHa8I5+CMQT4Oz9zx/KN+m2zu7MgqlrAAAAAElFTkSuQmCC",
     "wiki_name": "Construction guide",
     "wiki_url": "https://oldschool.runescape.wiki/w/Construction_guide",
     "equipment": null,

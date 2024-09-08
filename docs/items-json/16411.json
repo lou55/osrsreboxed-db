@@ -1,7 +1,7 @@
 {
     "id": 16411,
     "name": "Naphtha mix",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "A barrel full of naphtha and quicklime.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjUlEQVR4Xu3X8UtTURQHcO8PEoUoojRqZE7QYMZygmtSC0VGTodNnc4stcI1oR+CoB8sKyMIigoj6d898b2Pc9/ZfW8v7N23fvHAwccYvs++59w31tNzXk5LUXR3pfwb1u4M0/ZCig6qV3W/eJDW/XItTbnMpW6gFNVLw9SYu6whu+UUNZeCGDSuKzNDSaalNACpAITrp/evaJCEvKpf041rQPGe/HhfEihFhRt9Zkx2Oox5vTliGq/NZvsNaGp01BVKmZFgDAB9Pdynb2+a9OOoSSfvmvTz/XP69aGl+/S4Rb8/tjRwfmpAfxDnILkbAI2nL9L3t0EQY0o3BzQGHyAxEO+GxPEJw/jQGCXAWH6MFyCMLTvi7NT5GOyFXFpGMQwgLDFQWHygqsUhKk8PmseAg5SUwRw+9BdWwsJQSAkopARUYiBuGyVHGDY6pJRJXYg7tnbM0aPrpqPS6jQ6Byn5ICCOdzK6JSosrU6jw6lLDfbGSUm1pQPMpz0PxTCJYljU6GKmpAKYz8/G9F+GhaUl98keHVKKBdpYWaGtWs1gvuyPBVB2WlGjAyoWCDcCaHttlR7X1+lJo2FQDLN3yx7dQqlE94pFup3P03QuFw+ET4ybMWh3c0M3rtF4HQ0092qlQtVymRbn5zTmbqGgMbcmJyk7MREHhPJSQhIMCsNgtOvLy7ptDH+FyP2JBeKUeI/kqOQziY8+P4t4mcNA9l3OWH5KUSA+YXy6+Ljz95mDdLi85xEAnUDyyP8NZP/3f6z2lMKeQxIkH4gAOUyHqz0l+7iHgeT+OE6Hy1twfijaY+sESiAdWcqcuLOC7P/ksLzfWlEgfk/C6fjl3cD+6RxEdAUjy77xf0F0s/4AGKWfQEYp7rwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4Xu3V70tTYRQHcJ8XIYYksuHIobHBJsxYTXAudKGMYdOhU6dLS01xTfBFEPjCsjKCQKlQjP7dI99nnHvPnt3dN/cHvfDAYZcxeD73/HjW13cfvoYi9wwl7ANrs1HaKcXouDqq82Q1rvPDepyyiYdhoBTVi1FqzI9oyF45Rs2lbgwSz5XpSJDVUhqAqgCE54PFxxokIR/rYzrxDCh+k0sNBoFSlJ8YtNpkVocxp1vjVuK7F5lHQYCU1RK0AaCrsyP69alJf86bdP2lSTdf39Ptt5bOvxct+ve9pYELz4f0i/gOkrMBUCo+QL8/d4MYU3w6pDF4gcBAPBsSxxuG9iHRSoAx/GgvQGhbZty3rbMxmAs5tIxiGEAYYqAw+EBVCxEqTw37eQ0oC3O2bQ+shDmhUCWgUCWgAgNxmijZQqfWoUqJWL9XVCfm/M0TK92q1at1PlTJBgFxsZvQKVFO1erVOmxdbPiBF5TqqA4wP/bbKIZJFMPcWuexSqoL8/MwqT8Z5lQtOU9m61AlT6DNlRV6XatZmMujZBfKrJZb64DyBMJBAO2sr9Hb+ga9azQsFMPM2TJbVyoW6WWhQDO5HE1ls95AeGMcxqC9rU2deEbieyTQnGuVClXLZXq1MK8xc/m8xjybnKRMOu0FhGhXCZVgkBMGrd1YXtZpYvgvxOP8cNhV4jmSrZJ3Eq8+30U8zD6DEHaV3EC8YbxdvO78f+YTBtG+jwDoBZIrHwII0Vklp3tIguSFCJDPGERnlcx1dwLJ+QkAhGgPOF+KZtt6gQLCcChr4/4TEAIHKFcQ/yYEjAx5qJn3EU7cAeD3ajW0yWVPAAAAAElFTkSuQmCC",
     "wiki_name": "Naphtha mix (Quicklime)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Naphtha_mix#Quicklime",
     "equipment": null,

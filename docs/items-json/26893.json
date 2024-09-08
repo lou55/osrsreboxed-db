@@ -1,7 +1,7 @@
 {
     "id": 26893,
     "name": "Portal talisman (death)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A talisman bound to the Death Altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUElEQVR4XtWXyUoDQRCGMyfxLbwLGgRPHvQk5CJGEFwQ931fgwviRjxpBI/i4+jNZ2r5O/zpmuqZZDpxRAt+wqS7qr/UMjMpFP6nRSZcuVlkRoeHg5UjVGSeb2/M8cZGZhGo2NOTB1RkXu7vvEOb6VeAkCWpqfHxhvRazkCweMMCUAK5nnECTI5AhYI7wAcaGRqKQfwQTLOxja8BYnJszHx9ftieGejrs8rq76975o+2c4rs4RBAZibKFgIwFK77e3st1GCx30r669gZbgvx0ZY9cX10aEUQwnR3dcU+CUXBV5ZYTmqGpq8DnW5tWWmgq4P9GEwSEKEI5rLkgPZXV2IZagl0sbdnJYEkjC6VFtYP19ca5dNA24sL4UAAgEO5VLLCNTPXCggwyMLu8lIDChPYNlBlZ8fcnBw3nAAESHxPKA0hRRgcTCDGAhDWgoEeKhVzd3Zqwdg/hCKYLB/LJGE25+et1ubmzMrsrFmanrZqCwggAJJQzIDMFqE0DPdKEAjXwU2Nw5AR1hzSUGlAXJdZwX1LxmoLiFP2Wq1aybLJfkmaOpYLUHysVM/POwOC6ADJHkqbNJkpQhEIMQiEPUFASTfGt6enpjAaCr0kYToCYhk0UBJMUskgZIkw+tERDJT8glWHkocTRkPxGj8gCYixMwDB4q8H2Owc6t+912oejBRB0vzT46cYN/mbXSBAUY+Xl1bsPX2g8/dj6/UA899nkH7CQHrd9WAu1j5QB1loZn/wb5C8JWTRrwCFKGcgmD+2rdThJLU2PbJZpGNksW/q3IKmp7t19wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACK0lEQVR4Xt3Wy0oDMRQGYLsSn6VQRXDVha4EN2IFwSpS75d6rbeiFfFGXWkFl+Lj6M5nivwpf3PmzDhOpk5RAz8ypkm+niRt+/r+ZssZ/2TWcmZ8dNQ7GaJy5vH6yhxtbiZO5qCn25vQonHpCQhVkpmdmupE92UMQgseWAAlyAF6cqh1C4PGisUsEHHvMNgHxMzkpPl4f7NnZrhQsEk6PtwfauGr7Qbl7OIIIHPTJYsAhsHzYD5vUSNDgzZyvJ47wRkLXm15Ji4PazaEEDPQ3x/4SxQjQdhieVMTg06qVRsNujjYD2CiQEQR5qrkQPtrq34VOt/bs5EgidFbpYP+2sZ6Z/s0aHtp0R8EAAaUJiZs8MzKfQcCBlXYXVnuoHADU4PqOzvm6vioMwggIPF/ojRChhgsTBDnAgh93qC7et3cnJ5YGM8PUYTJ7eM2ScxWpWKzvrBgVufnzXK5bJMKBAhAEsUKyGoRpTF8rYQgePY+1FgMFeGeIxr1FYj9sir43JJzpQLxlj03mzZy2+R5ibp13C6g+LXSPDvrDoS4Ae1rr7dKIohjpYgiCHMQhNd4gaI+GF8eHmIxGoWzJDFdgbgNGhSFidoyBFVymPbcqUHRP7DaKLk4MRrFZ7yBKBDnTgBCa1fEJdz32mqFMDIOEj3+6/m9m5sIKOa+0bDh2fvBBeNa+PcMyk8MovsTbkna9gtBAOjzEpfMQfIjIUl6AvJJxiA0fWWT5J+0T5kyKFWezPA0AAAAAElFTkSuQmCC",
     "wiki_name": "Portal talisman (death)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portal_talisman_(death)",
     "equipment": null,

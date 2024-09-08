@@ -1,7 +1,7 @@
 {
     "id": 28811,
     "name": "Zombie axe",
-    "last_updated": "2024-03-02",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-02-21",
     "duplicate": true,
     "examine": "A rusty yet powerful axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xs3V/UtTURgH8O0n6UdJii1atlFjLlr1gwtaazAFEcGkKMlMKiyKCKIoRIpeRHpDEHuhQsEQEykjiIqiqL/sxPeM791zn53prruFBx7u3b3P9nz2nHPPjUQ2/ogad7ju//MRNU/Gj5lHYwM2Jm8dNRM3+m0QsTB91sxPjZi5p2ccKP0nmoZXQEQBxNCY2cenzcvJU77C+Ix7OvyoQMiombp9vAaFIyAMgp5PDJrpuydsLo4uEPIl+ufyuPm+eH19KIJwzu4Q9PrhkAUxtx4I3/uxNGZ+r9wzf1YeWBBq7Gtvt6Grq1FpO/81QSjqAs3cP+mBcO4CLc6c84FwTpCurkbUNw0oxMWNzxqE4kBwKuqBll+Mhgdil3BNgwjp6NhtCoVOe46uadCHVxc8ECIQiOtCg/DPJQi5PT0l09fXbYM4hAZ9fHPRD3p3s3kQrgOEQF6xeNCC0Bmcl8uHTal0yAwMFGpQn2YvhQtCYCqJyXdmLIAdyeWyJp1OmXx+fw0I3fwyf8UD/Xp/x8MEBkkUfpygI8W9pre3bM+3tLXZYyy21cLQJQ36+vaqE6Sr1xnVJ8YFImp4uLpucB9HjSHo28K19YIqexA6tBqIi3p7PO6h0LWurgM1IORLkNwUdXU1Ko+8C4RwgZKJhK9D/A3ZnVBBRCFQADsuCuAc+elUygMBje/p6QoNJLuEowQhtz+xzYzsStpzdtEFWnp23gNhlyamIRCeMBeIrwMJGkrt9HXHBUIuXhuyQw12B6MK0uuIrwMJYnfqgThdeG2EBiIK11EAIOR1x2M1HZKdlCDs0hJElK7uGBWQa9o0COunERDyP89d9kDYgwLsQ36QnDaCkIO9ZzC5o2a6NAjdaRqEp2wt0J5MxuSyWSeIa43TFRpITxuu4/6mlhazubXVw8jpIgi5BOGRlyDsQYH3Ide0sQhyECheDyTXTygg17QRhCK4B4QLxNcGp6tJEEalA2uFxMjQIGyKEsQIAIpEuK2vFhooQ66fUECNDo1sBMuo5v6noZGu0N/Z0OMvuA6HOA+LxGQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu3V72vTQBgH8OXV8OVwKK1YsUVLV7Hoi1Ww1kI3GGMwi6LDOYeKiiKCKMoYij/G8BeDMX+gssFkzDF0IoiKouhf9sj3wje7XK5b0kTxhQcPuSbX3CfPc7m0tf37zRF72K7/8ebIo/HD8mCsoWLyxiGZuDaogoiF6VMyPzUqc49PWlDmQ8SGuyCiAGKYmNmHJ+T55HHfxPiNa2b4UZGQjkzdPBJA4QgIg6CnE0MyffuoGoujDYTxOvr78rh8XbzaGoog9Jkdgl7eH1Ygjm0Gwv++LY3Jz5U78mvlngJFwuCmfGqCMKkNNHP3mAdC3wZanDntA6EfEuT4yoCJuLjx2wRhciBYimag5WdnkwMxSzhnggjp6toplUq36iNrJujdi3MeCBEJxHVhgvDkOghj+/pqMjDQq4I4hAl6/+q8H/TmenwQzgOEwLhqdZ8CITPo1+sHpFbbL41GJYD6MHshWRACpSSm3F1QAGakVCpKPp+TcnlPAIRsfpq/5IF+vL0VFoPmB+ko3Jygg9Xd0t9fV/1NnZ3qmEptVjBkyQR9fn25VRDa6htjAxE1MrK6bnAdRxND0JeFK62C3D0IGVoLxEW9NZ32UMhaT8/eAAjjdVCETdF95W0ghA2UzWR8GeI99OwkCiIKgQmw42IC9DE+n8t5IKDxP7NciYH0LOGogzB2MLNFRndkVZ9ZtIGWnpzxQNilQ2LQ3DfMBuLnQAcN57b7smMDYSw+G3qGWgKZ64ifAx3E7DQDsVz4bCQGIgrnMQFAGNebTgUypGdSB2GX1kERUC7IVjYThPUTBoTxH+cueiDsQRH2IT9ILxtBGIO9Zyi7LVAuE4TsxAbhLVsPtKtQkFKxaAVxrbFciYHMsuE8rm9ob5eNHR0eRi8XQRhLEF55HYQ9KPI+ZCsbJ3Fv5KjJm4H09ZMIyFY2gjAJrgFhA/GzwXLFBKG5GVgvdIweJgibog5iRACFbUEkQ18/fxG0Vgsig/G/xWu/AW4KPKyrBMRZAAAAAElFTkSuQmCC",
     "wiki_name": "Zombie axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_axe",
     "equipment": null,

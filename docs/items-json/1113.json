@@ -1,7 +1,7 @@
 {
     "id": 1113,
     "name": "Rune chainbody",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-07-26",
     "duplicate": false,
     "examine": "A series of connected metal rings.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGUlEQVR4Xu2XfUsqQRTG2+8QBYX0IgYmaIrZgrIYvSJSUd0QIYgLF/r+X2Dyd/RZpy25EXv+iQYeZuaInt+e88wsrq39jp89kjDXqvG/z0sb80Tb9VbYOmgskn7UZrVucgZLwkF6GnZaxznQKgGzsVML65V9kxNUEqrdgQHVs3ObpUqjYyK+Cuhod7dsqCTsddJQ62XhcHhlyau9gUHW0szA4jhQjbNRaF3feQAloT44t+S0zdSfte/o2ACJ77VTgyJeaXbyKjUvxz5Ah9mVJQesMRzZHjCr2GwNUByndc2zcWhdOFVIyQBi1hoJlJhML3Cq5ALE0yKSxHBqYdw2DK6TqONfOhClR0Bh4iIUVSIOlIBkbheg9vWDnSCgSIx52RtQfwmkOFDsgXIB6oz+GJQqRVKOdbFKiqtKALoAdceTHAqxRgAxAxTH8ZLgl6+Z0sZ7oNhPn3kpNjhVUoVKrNIcqD2aV4DblzUCiBmoOA4Ql6Lbxdi7neZAJFFiu/xmIIDFcarEngdxAzq5f162bpFY7VPrFFfr+J4LEDDp44uJtaT9qjhyA+JpVSFJp65o8tjgbkDdu0nuJfPTzQKKPWBRnFOHt9xMTQt699N3QADq9MVAxAXkZmqAsulr3jqqIMD4jlJcd5ObqftPf8Ng8s/mr0rGdgOKT07xVEkyuCpJlRyAGB//7nxVJb82lkM//B0Vf+t3/LjxBiwKtExCFVf3AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBElEQVR4Xu2V/0pCQRCFu+8QBYVEiYEJmmJ2QbkUWYlIRb8QIYgg6P1fYPMbPdfNkiKc/ggHDrs7UfPdmbPb2toq/nckYaJF8d3PlxaTQtvlWtjar0yLftZmsWxyBkvCfnoadmpHOdAiAbOxUwrrhT2TE1QSis2OAZWzrq1SodIwkf9ToN1GGkqtLBycXFrxYqtjkKU0M7A4D1TlrB9qvRsPoCSUO10rzthM7fH4Do8MkPxuPTUo8oVqI+9S9WLgA3SQXVpxwConfTsDZh0b7wGK84yuejYItXOnDqkYQKzaI4GSk+kFTpdcgPhaRJEYTiOMx4bBdRNn13+pkVjrEVCYeB6KLpEHSkAytwtQvXdnNwgoCmNezgbUngEpDxRnoFyAGv0Hg1KnKMq1nu+S8uoSgC5AzcEwh0LsEUCsAMV5vCT42b+ZpcVHoNhPX3kpNjhdWjIMMQGq9ycd4PVljwBiBSrOA8Sj6PYwtq5HORBFVNgevzEIYHGeLnHmQ9yAjm+fZqObFtb4NDrlNTp+zwUImPT+2cRe0nlRHrkB8bXqkKRbN2/y2OBuQM2bYe4l89PVFIozYFGeW4e33EzNCFq3ow9AAOr2xUDkBeRmaoCy0Vs+OrogwPiNUl5vk5up248voTN8tfWnkrHdgOKbM3+rJBlcnaRLDkAEf/S3WsUq/j7eAbHufdI+gj5iAAAAAElFTkSuQmCC",
     "wiki_name": "Rune chainbody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_chainbody",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 2226,
     "name": "Premade fr't batta",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-12-12",
     "duplicate": true,
     "examine": "A premade Fruit Batta.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xs2W20tVQRTG9+GwOfhyIOilekiCguzBCkICoyCEjCi73xMNC6MeJClEii5iNxHELlQoCAcTKSOIiKKoP6e/YtU307fP2qs5drZnFw587Nkza1i/vWbN2hNFy78VJKzQ/D9vBXk0fFgeDB10Gr3eJSODB5wIUZnokZnxbpkeOxeAsh/RMLgHIhSAKAsz9fCMPBs9lXKMd8xZpaEyQRZk/MaRP6DwBAhFoCcjJ2Ti1jFni2cICPYa+sv8sHyavbo0KAKhz+gQ6MX90w6ItrWAsO7z3JB8W7gt3xfuOiD42Nzc7GS9m+bDzq8mEJyGgCbvHE+A0A8BzU72poDQJ5D1blohtQ1wxOTGuwWCc0Bwe2sBzT/tyw+IUcJYCAhrNBCiZoHePL+QAEGZgJgXFgjOLRDs928rJlC1gN6+vJgGenWtcSCMA4hQsD3UFsv6VdHv01KVBXo31Z8vEIStJBDsjm6PpXVtUVrWRFLpbXJi3wJ+mLmcAH19fTOByQykofClhDm7M5a2DUXp3OS1dZ1X972SA+L7rl9zq1f4CIaArPcazX8V8sECYbxnd+wctW/0AgTFMaijtegiiDUfKwNLBfI1CBGyQJjr64ilc4t31tLun4wKRDDY/Bgry8qyj44G0kXRejfNH/kQEOau7I1dEuNULSbaIJ+wDtucGxCE8YF9JTm5I3aJTDEyeoxCfpWbcgYiFPMGiWwFIP2ObUJ0WApQHuYen0+AUKUJUxcQTlgICBFC/oQEKPYZHazhqcRvQ0eozuigVYFsHjGHIDju3+P7WogQkpwwiA6A8NvIDYhQGMf8YFfJwWgoRg/RwXG3QKjSGohQ1nugeaDQtmGMvwsAWCgkvI4OgXDteD99KQFCDcpQh9JAetsIBAc2pwCF6GBcXz0QnYaBcMr+BsSKDREKfeQa7PR25QZktw3jGoi3SYLxv4d1tAUQjrwGQg3KXIdC26aB0CcQhEqugXT+5AIU2jYNhDl9LdFAsNP50yAQWvoeU0saRssCoShqICoDUBSxrC8mC6il8ycXoHqbhawHlqra/qdmIUOya5Z1+wkOIE9181nNlQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xu3W3UsUURjH8V2WQbwRgm6qiyAoyC6kICQwCkLIiLL390TDwqgLSQqRohexNxHEXqhQEMREyggioijqz+mvOPWd02975uyoO7tTdNGBh505c2bPZ57zzNktFP79VnTpkXb9j7eiezh0yN0fPBDHyLVONzywPw4hZsa73fRYl5saPZuCCh+ibrgHCQVIEWImH5x2T0dOJibmnGthJFGZkEU3dv1wBYpPIAqBHg8fd+M3j8Zj+UwDMd6iP88PuY+zV2pDCcSxsiPQ83unYpDGLgbivk9zg+7rwi33beFODMqE4Uv11AIxaRpo4vaxMojjNNDsRE8CxHGVoGJiGZhIxc15CGJyEFrexUDzT3rzAylL9KWBuMeCyFoIev3sfBlEZAKpLkIQk4cgxu/bWiqjFgO9eXEhCXp5tX4Q/YCEYuzB1sitX1X49eW/IwS9nezLF0SwlAIx7si2yLWsLbnmNQU309MYh45D4PvpS2XQl1c3qsXQkiCL4kmFObMjcq0bSq5jk48t63x03W2IQTrf+fPa6hU+gzWCaP6pqIcQRH/3riieqG2jDxAK9RHtLaU4g9zzYaa/VpDfg8hQCOJab3vkOjb7yZrb/KeyQgjGmO+jTW5lk8+OBWXYFP0rnwbi2uU9UVzEvFVLhcZQT9zHMucGIujv39vgTmyP4kJWKDO2T0F9NTXmDBJKdUMhhwHInrNMZEdbAdvD3KNzZRC7dJUYmn/D0kBkiPpJC1A6Vna4R28lPxs2QzWBwjpSDRFM3LfbH9sgQxS5MGQHED8buYGEop/rA50NMcailD2yw+segtilLSgDyoPSlo0+/VwACFEUvM2OQPzteDd1sQxiD8qwDyVBdtkEYoKwpkCRHfrtXw+yUzeIt2w5kHZsQiiOqTXG2eXKDRQuG/0WpH+Tgul3j/s0FhCvvAWxB2Xeh9KWzYI4FohgJ7cgWz+5gNKWzYK4Zv+WWBDjbP3UCaL5JVguLMZGCGJTtCBFBlC1rRKpsPXzF0FLtUpkZfxv9bUfxA0E6eDPVMEAAAAASUVORK5CYII=",
     "wiki_name": "Premade fr't batta",
     "wiki_url": "https://oldschool.runescape.wiki/w/Premade_fr't_batta",
     "equipment": null,

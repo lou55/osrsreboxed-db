@@ -1,7 +1,7 @@
 {
     "id": 23117,
     "name": "Mystic set (dark)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-03-14",
     "duplicate": true,
     "examine": "A set containing dark mystic hat, robe top and bottom, gloves and boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs3X7WtSURwHcH0RI4giet/mZIYZ00mpMbOJ5h4SVJxmaq6tRiVE9EAxRtHDGD0xGOsBggbBWGPEXvUiiqL+st/4nsvPHc/OdV4fYge+qOee3fO5595z7pnNtv+LnfTRHe96sdOb+Sy9msuILD5K08KDlAgj1pan6cvSFK2+rWhQ6kW0DTdAjAKIo2I+vy7Tx8ViXcf4jWNq6lGWkHZaejy5C4VPQDgMer9QoOWnedEWnzoQ2svo35vz9HP9fmsoBuE7jw6DPr0sCRC3NQPh735tzNHfrWf0b+uFAKEPX1+fiNq7Uoxh56uWr6ydyCB8R11TGPk24HcuepwKE6cpcmaAJiIeSkYHKR33UjYxRLkxvzhWTAboSipIVzMhmpkcptl8mG4WIuITxz2Ow+JcHQdFgy6Kn3XTaPikFgcYUIBUi+cFCvUyCLEE4udCBwr5HBT2O2s4wIACCG0wSoy5U4mJTy3o68P2QLhyQO6VA5bSNRCuHKOidrhXdKA/357UMC2BCvFeAcItUjvcKwzyOo9oQWrvJsWYpivPL9VAeFBl0K1DBxqmgyBjDcIIqSDMrhtZn4gKkMNtEB1IXhTV3pViTHkdCGsLZlRp3FPLwZ4eEYbwb7lN10GVi6dqMQPJbToKQlBXSjjE2oKF8HrGW0vQ7a4DcZ3chkF+11FxLqzSjGkKhBnWCFTNDYmgYxXE9dxGRAFhhJocHZQdEKNkEFZkflj59sgPsK6+qyC8s/Cg4tmYTg3W3Rqz6ECMUnvXFAMk3zbUTY31i5ckQOmRAcrGXJS/cIIujxqzjoG6MCjgPibOhTXIwjpUD+KtKYPwAo0FeikRctD4cD8lzzlNgeosaxmEWWYGwonxtsc7jbcg/KbHMd56YIlA+9vlkc6BGCWDgOD9EO+FZAzed4wBRN5+MAhrkOV1SHfbOhFsyloCqbcNDzfqsLFfX5kRx+T/SvAdOwME7XhTj7Yb767R99Uq/Vi72woIZfeV6SJj5KigzQ+zdSCOBZDNxst6o6hAORhJgDA6HQE1W1RkM1jOTtv/VFSkLurf7OuyDSMum5v7WVKKAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xu3XW2sTQRgG4OZCiiCKeG9JQyMx0rRBk0hjbEhMDwaSkCbGJE1ttagBEQ8opSgeSvFEodQDCBaEUkuRXnkhiqK/7JN3li/MTiaH3STihQMvu5md7j67OzM77ev794uD9NEd73lx0MvlLD1fyois3k/Tyt2UCCO21ufp49ocbb6qaFDqTXQMN0CMAoijYj68KNO71aLpwviNY2rMKEtIB609mKlDYQsIh0FvVgq0/igv2mKrA6G9jP6xu0zftu/YQzEI+/x0GPT+WUmAuG0jEP7u+84S/dp7TL/3ngqQJQxOynct31knkUHYN+pbFofpNeB3LnqUCtMnKXJqiKYjXkpGhykd91E2MUq5Sb84VkwGaDYVpEuZEC3MjNFiPkzXChGxxXGv86A4V9dB0aCb4qc9NBE+rsUBBhQg1eJZgUK9DEIsgbhf6EChESeF/a4aDjCgAEIbPCXG3KzExFYL+nSvMxDuHJDb5YCl9AyEO8dTUS/YKjrQz88P28Wg1IMK8QEBwitSL9gqDPK5DtkFoRjDdOPJhRoIHVUGXT+wr2m6CDLmIDwhFYTRdTU7IqIC5HAbRAeyMCkaQ14HwtyCEVWa8tayv79fhCH8W27Tc1Dl/IlaGoHkNl0FIagrJZxibsFEeCXjqyXo8ZhAXCe3YZDffVicC7N0mxgUY4Q1A1VzoyK4sAriem4jooDwhGyBGCWDMCNzZ+XXI3dgXX1PQfhmoaOib8ynhk2vplF0IAsoAyS/NtTNTQ6KjyRA6fEhysbclD93jC5OGKOOgbowKOA5Is6FOcjCPGQG8dKUQfiAxgIDlAg5aWpskJJnXA2B6iizDcIoawTCifG1xzeNlyD8pccxXnpgikD7G+Xx7oEYJYOA4PUQr4VkDL53jAFEXn4wCHOQ5XlI99q6ESzKbIHU14bOjTos7Lc3FsQx+b8S7GNlgKAdL+rRduf1ZfqyWaWvW7fsgFDq70wXGSNHBe2+XTSBOBZA7ZZ6JAdPEiA8nb8IalbqkfX5XzorfwDZG1EPj8fRJwAAAABJRU5ErkJggg==",
     "wiki_name": "Mystic set (dark)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_set_(dark)",
     "equipment": null,

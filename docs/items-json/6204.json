@@ -1,7 +1,7 @@
 {
     "id": 6204,
     "name": "Raw fishlike thing",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": false,
     "examine": "A raw... fish? Is this a fish??",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xu2TXUhUURDHPQ+y7LJsLz1J4GIa+b1aGKGIgaKGSGhKIpofaImYmWUalksaJomrpkWIkPRJimJkKULlEplabFhJllGWJkXQQxDoy3Rmzr1Xd9VYbRcM9g9/zrln58z8Zu5eNzeXXHLJJWeJgfCGEANVpBFUu0ocBSV39zevJPGbak8tqKJqaG/Q68m2kXZKShhRudzh5dSxe2gBuAdnrwDFQB1jIquiLxCUDGQdZ5eWdIbJuOXkK5lipAnIVse3gjq2WViKWQeQlAyTYMK9V4QT2kGdeBXU+66DZ5KJuxE8k5vE2UrGePnuErA1AjGrwuqkW2RNcidoUrppxXP9/mayV2qLArAlsR48EuqsgWQofMZcuPLn5a92VTFROLUXNAf6QJPWD5r0QbHimQTkldIEW1ObwSetVWkAp6YA8hhqAu/g3YxHIh/PLYPZCcVAm/UUNJlmWmnPk+nTO8D74A2RlBfxzuwAn6xroPUb57bQ+bac2+Cbd0dA8Cbofu5z0OaPi1XKRYASmB1QDDZXzoP28IRIlGehZN55d8G/sF+B1PpPgl/MEwiMG6Y9NrD9UC+PeSCK8/u6ok+gO/rV6k9uazs/fyZAEAjBuH2LzWAoGwVtwaRy5l/8GIKODSnQGB9UNgYhla9AV/INdKU/rIquZtvqNmIiORoLYXEOEVA6CiEVL0XXkgNPjEEwB8DfdUc+CwjuncZJ7vdrmcBq4jDZz6DdZIKi3BzIz8iAwuwsKhZw0sI7fwOhpyfoNcjGaRhOvaZpkI//BF3ZL0fAoBh1+31uDh729cFAT48ojJ3zQiHGKeqcikoAoVVvud8pILry346CQTF6FdNTU2AZGYER85AozAttqpiHHWenIaxGmIpLDqv+CIaqDxTjQBgUExORIPBrw45x9TgjHFn3BcLPz9AZAqB3187Ss4NhUMwKxtM4D37nFld0bMMMxDXMQnT9LJ0jpJNgUIwmcqlzAG7eN0PMxQXF8S0LENGwuE+8LFZ8jmpcUIBsM/6jGFS3dUFb9yDcM7+gIvbaCdORxaBrcNiqiL22zeRAObXj9WlDwbj0P+gPjAIVn7g2pMwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu2TXUiTURjHfS9kbIx105UEimnk90dhhCIGihoioSmJaH4wS8TMLNOwHGmYJE5NixAh6ZMUxchShMoRmVosrCTLKEuTIugiCPTm33nOeffqcMkmG3ixP/w573v2nOf/e842Dw+33HLLLVdJgvCmkARVrAGqPeXOgrJMt55tSXym2tcAVVz9OnV2S24YU7PW0VV8Ys/IYniG5dsIk6BOMHKr4i9xqLU1dmvVZNSM2dLclnmNcgPC6uQOqBPbhOWaDQDJzagJNdx/TTilC+rU61AfuAnvNCNzC7zTW8WeLVO95ewqMAeBJKtgddodbk16DzQZfXylfZ+Dbdy+me0KwLbUJnilNFoDWaDonXrRyt4dgJJEcOYANIcGockagiZ7RKy0JwP5ZrRie2Yb/LM6lAHo1hRAVsOHoDN0NueJ6Md6W8DshJKgzXsOTa6Jr/yZNfPJ7obf4VuiKQvxy+2Gf94NaAOnmM18f0fBXQTo7wkINgQ/X/gS2qIpscq9OKAMZgeUhK01S9AenRaN9GbezE9/H0ElQwqkNmgGgQnPEJI0xp9pgJ1HBljNIxHOzutKv0B3/LvVj3yt7ZIkQAiIwJgDykwIr5yAtnhG2Qsqe4rQE6MKNNWHVk4iouYNdOU/oKv45Ujo/ySJ5mQKonAGEVwxgYjq12Jq2SGnJhHGAOhz3bGvAoJ5t2GG+aOTYPJfoMtoRGlhAYpyclCSn8fDgk+b2eTvEHl2mn8NFtNthJ95y2+D++Rv6Cr/OAOGJPFpfy4u4vHgIIb7+0UwTc6CIgyzfHIeKgNE1r5n/qCA6Kr+OguGJPGvYm52FubxcYybRkUwC9pSvYRd5+cQVS/Mw2VH1X1GeO0nXuNEGJIkbkSGoH8bTUyr1znh2MZviL44z/cIgLy3YYG/OxmGJFnBeBuWEHhhZSUnNs8jqXkB8U0LfJ8gXQRDkviNXOkZxu2HJiRcXlac3L6MmOaV59SrYqX3uJZl1wHVdfais28ED0yv5BB77TJJ6B0Zc3WIo9pUMG65tSH9A4BV1Q2SxvR6AAAAAElFTkSuQmCC",
     "wiki_name": "Raw fishlike thing (Incorrect)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_fishlike_thing#Incorrect",
     "equipment": null,

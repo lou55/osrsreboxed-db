@@ -1,7 +1,7 @@
 {
     "id": 4094,
     "name": "Mystic robe bottom",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": true,
     "examine": "The lower half of a magical robe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQklEQVR4Xs3Wz08TQRQH8PZuevIuJ89ejBo1akSJaAIoihZCQ9UaxRgN/oAQCGBTEbBJU0FBSwBJJU2FkFh/NRL17F/hwas3E07PfGfztm8fU2zpapjkpduZ2cxnZ+bNbiCw/UuQ7GFr/+clSOP95+hxX4uJxINmit9tMsGIxVQXzScjNDvRaUHph6gZ7oAYBRCHxmTGOuhZIuwZGP/RpsOLqgoZpORA6wYUfgHhYNBk/CKlhi6Yvvi1gdBfoj/n+ulTtmdrKAbhmmeHQTOj7QbEfcuBcF9xqY++LA/T1+WHBoQx9tTVmdCjq+JMOz81gzCoDZQeaXNBchYkKJuOekC4ZpAeXZWgZxkwEG9u/NcgwAFiTPr5HD16MkkDI2MeWG7qqn8gniXU2UDoh/sauqbpVPQlnYxM0XhqhgbjE9TTO2Ta3kzHXBCiKhDvCw3C4BqEfrgHCBknOtN0PJyko22jpn3lxTUv6PX92kGoB4hRmMlymGOXxulwa5wONg+aPquZ6/6CEABIkA2DwMwcOZ8wmH2N90y/d/M3XdBa3kFWnGESJFGcvohymPqOlFmmQ2eHaf+ZXtMP+PcLt6wgPXqZ4mQHsscGQhs2sMbopeLZAejD4p2tgpwzCDNkAzGGQy8VZkfuHX4ICZKHoh5dFSflbSAE2pHWEsQhswoguVy+ghiFtsYrGRMao0HY0Dw7voIYhfrTsTk35Cztru/eADrQ5AzIoKWnl10QTmnGVARChkkQ6kLR37Qztk67uksBFDA20N6G2579g9eGnKEKZwelBGIU6gq5HH1cWaG1QoG+FYumjjEaJDczLxdeG76BGLWazRoUrjn1OTB7nPKc6hKEU1qCGKVHtxQHpJeN9xECnxEYBO2ceaHILxMAMYZB6P929oYLwhlUxTnkBclsQx0PgF/U8ydHIZ+nUPtPCoV/eECA1wxClv0NhMHkN9DyqwUTO1q+b1gu30B62VAvQfw1qb8ScR/3BQgpL0E4g6o+h2zLJkG4liDsJX4R4z65f3wB2ZZNgtAmP0skCP3k/qkRhFKa/s1CYmRoEA5FCeKoAhQI8LG+WWigDLl/fAFVWjSyEixHqe9/KhppC33Pti5/AOmzl/aTvSS5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xu3Wz08TQRQHcHo3PXn35n9g1ChRI0pEE0BRtBAaqtYoxmjwB4RAAJuKFJs0FRS0BJBU0tQ2JNZfjUQ5+1d48OrNxNMz39m85e3sFLvd1XhwkpduZ2Y7n87Mm92mpn+/hMgcpvY/XkKUGjlDD4c7VSTvdVDidrsKRqxm+mk5HaXFmT4DSv8TvuEWiFEAceiY3HQvPUlGHAPjO9r0cKI8IUOUHu1yofAJCAeDZhPnKTN+TvXFpwmE/hL9sTBCH/KDjaEYhGueHQYtTPUoEPetBcJ91bVh+lSaoM+l+wrkCYMf5X/NIAxqAmUnu22QnAUJymdjDhCu6wSFHMuAgXhz47sOAhwgxmSfLtGDR7M0OjntgBXmLgcH4llCnQmEfrivtX+eTsSe0/HoHKUyCzSWmKHBoXHV9mo+boMQnkC8L3QQBtdB6Id7gJBxrC9LRyNpOtw9pdrLz644QS/v+gehHiBGYSZrYY5cSFFzV4IOdIypPuu5q8GCEABIkAmDwMwcOptUmL1td1S/N8vXbdBG0ULqI9coTpBEcfoiamFaejNqmQ6enqB9p4ZUP+DfrtxoFIRiZQeyxwRCGzawjtGXimcHoHertxoFWWcQZsgEYgyHvlSYHbl3+E9IkIdD0Up5EwiBdqS1BHHIrAJILlegIEahre1SToWO0UHY0Dw7gYIYhfqT8SU75Cztbhlwgfa3WwMyaO3xRRuEU7pODIqVYRKEunDsB+2M/6RdA1sBFDAm0J7Wm479g8eGnKGGQIxCXaVQoPflMm1UKrRZrao6xugguZl5ufDYCAzEqPV8XqFwzanPgdnjlOdUlyCc0hLkAWWB9GXjfYTAawQGQTtnXjj6XQVAjGEQ+r9evGaDcAZ5OIecIJltqOMB8Il6fuWoFIsU7vlG4chXBwhw3yBk2e9AGEy+A5VerKjY0fnFtVyBgfRlQ70E8duk/paI+7gvQEh5CcIZ5PkcMi2bBOFagrCX+EGM++T+CQRkWjYJQpt8LZEg9JP7xycIZWv6twuJkaGDcChKEIcHUL3FjeSQ++cvgrYrbqQ7/hd/5Refr01q2AeV9AAAAABJRU5ErkJggg==",
     "wiki_name": "Mystic robe bottom",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_robe_bottom",
     "equipment": null,

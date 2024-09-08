@@ -1,7 +1,7 @@
 {
     "id": 861,
     "name": "Magic shortbow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "Short and magical, but still effective.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABM0lEQVR4Xu2WvQrCMBCAm6lUis/QzUHBIoiCKHQoKBVRiuDg+79GzI/XJpdUsDWJQz+4oSTpfeTuSqNoZARDqD2CQGhS7OikPMg4FSLSSxlCisnsNzRezCy3Q2ieZSLwKQfIhHVV0WS70pLjwCcdIEUg4vWyEcI7PaDL8J4JJNSWCEL0D2vmOJ/7FtJFQCaQULcMH2sxYX6E7CVqExPxrVFH3qGQ/Vb0UX4LsZF3LPRZBvYIGd4/bMIcCZkl6pRho85LBWfMPYOxi+iJ5DOXwWteZPREbYnMtZ/xZYmQjP6uwZgiapnUCCKjCvCPHfzPgIwqhN82EFMmvZ9pejsKkUZGaVwIZ7czfdZ0+rhqIlyiS8BRAwOkEQkkgCGNDE7uSQAjmxaE8GognDVof/5KZmSkJy/SfY98hAbkFwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABEUlEQVR4Xu3WwQrCMAwGYHsak7HX8KCgCKIgCjsMlIkoQ/Dg+79GbFq6Lu16GK7tkP2Qg6zQjyUZzmZTpphh0F1RwiAtjjAvz7KuhajsXsZAccxpD8lq0fF2gmLkhXVVQXrYhr7cjISoSnbrmCCKwZmJBNItUiXmhw9zslmGBlGIwkQCuTG41mLDwoC6W6QvZuJbQ1feW1xvhZ4RIL7ynkE9MDg/fMM8gewWOTF81bFVuoXmmZ/jgrQvkr8RYz8bNC4MPaNaZD8bLD1b5BtjQmibdEXBtAH4sVP/ZxTGI8jGZK8bZM+LgDQYMriqvIRB/qkhfz8IBBGBAGZYA4kEMMNamFFEDu2IQJhRYaZM+Z98AedeMN6hFg0bAAAAAElFTkSuQmCC",
     "wiki_name": "Magic shortbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_shortbow",
     "equipment": {

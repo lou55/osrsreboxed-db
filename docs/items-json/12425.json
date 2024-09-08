@@ -1,7 +1,7 @@
 {
     "id": 12425,
     "name": "3rd age bow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "A beautifully crafted bow carved by ancient archers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xs3WW2sTQRTA8eQ7CAX7kCJUKRbtg/bJkgex4JMGRUVFreKlUQTxRikWL6V4o1DqBZUWKqWWohVBVBRFP9nIf5czOXt6ErLNKh04ZLMzm/ntmbOzKZU2fisHP7z+f97K4cn4ofBorJbE1O2DYfLGgSQEsTgzEhamT4f5p6cclL2JjuEpSFCAJCxm7vHJ8HLqeGZivtNnI4vKhSyH6TuH16D4BCIhoOeTx8LM3SPJWD49EOM1+ufKePi+dH19KAFxLNkR0OuHJxKQjG0G4rofy2Ph9+q98Gf1QQJijoGeniTs7KalaZe7FhCTeqDZ+0cjiGMPtDR7NgPiWEB2dtPKmWVgIiluvlsQk4OQ5W0GWnlxvjiQZIlzHkgyKSBdKwL68OpCBBG5QFIXFsTkFqQLmuD6yvbeUKvtT0JQH99czILe3eocxHlAgpJM6ieS67fs2LYmQ5/mRosFEQA0iHEysV0yXT+M/bJwJYJ+vZ+ImNwgjeLHNYixewYHw816PTlmHCCut6Cvb6+6IDt7k5beNT/ugaR/eF81ojSITFrQt8Vr6wWlexAZ8kD0Xx45kwTH9PNJP+O4zoK4CQ3Sm6Kd3bT0kfdABP17h4bCcLWahGRF6scDkZ1CQYKSTGzd1R+XrL+vL2ZHg+xyFQbSWdIbntTR7oGdmeVqBlp+di6C2KUF0xaIJ8QD0bepuyuCgNvseCDG8trQGWozO7QGyNYRfd29lQhinN6hPZAsF6+NwkCCoq+rsjmC6LcFDVC/WAXELq1BgrKzOy0FectG3+ildDPMA+Jvx+f5egSxB+XYh7IgvWzymmACJuK8XS4LAt4xiGJtBpI7ZjLOeSB5bchyFQayy8Z5DbIFLXsV18lYQDzyGsQelHsf8pZNgzhuBdL1UwjIWzYNos8raEJeG7JcHYJojb+frcLWj4QFsSlqkEQOUKkk23qrsEAdun4KAbXbLLIdrERj7H9qFumFvWZDt78oAqw8MyCvjQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xu3W22sTQRTH8eZ/EAr2ISBUKRbrg/bJkgex4JMGpYqKWsVLowjijVKUqqV4o1DqBZUWKqWWohVBVBRF/7KR7y6/4ezspGaTVXxw4JDNzmzms3POzqar699vFRePWP8fbxX3cOKAuz9eT2L6xn43dXVfEkIszY66xZkTbuHR8QgqvImO4SlIKECKEDP/4Jh7Nn0kMzHf6QsjiyqErLiZmwdzKD6BKAR6MnXYzU6OJGP5jIEYb9HfVifcl+Ur7aEE4lirI9CLe0cTkMY2A3Hd15Vx92Pttvu5djcBFcLwo7prgZg0Bpq7c8iDOI6BludOZUActwiqZNLARCpuvocgJgeh9DYDrT49Ux5Iq8S5GEgrKZCtFYHePj/rQUQhkOoiBDF5CLIFTXB9dWuvq9f3JiHUu5fnsqDX1zsHcR6QUFpJ+0Ry/aZtW3Ir9H5+rFwQAcCCGKeJw5TZ+mHsx8WLHvT9za1WMbQsyKL4cQti7K7BQXet0UiOGQeI60PQp1eX2gXR0rvmx2Mg9Q/vqXmUBbGSIejz0uV2QekexArFQPRfGD2ZBMf080k/47guBHETFlRgU0wf+RiIoH/30JAbrtWS0KqofmIgVqdUkFBaic07+n3K+vv6/OpYUJiu0kB2leyGpzrauX0gk65moJXHpz2IXbpFDC19wmIg+jb0dHsQ8HB1YiDG8tqwK9QWKKwj+np6qx7EOLtDx0BKF6+N0kBC0ddd3ehB9IcFDdC+WAVil7agAqgUFEsbfWPn082wCIi/HR8WGh7EHlRgH8qCbNr0mmACJuJ8mK4QBLxjEMXaDKQ7ZjLOxUB6bShdpYHCtHHegsKC1l7FdRoLiEfegtiDCu9DsbRZEMfrgWz9lAKKpc2C6IsVNKHXhtLVIYiW7sa/i7B+FCGITdGCFAVArbY8UmHr5y+C1mt5ZD7+t87aL93vYbB1S9NVAAAAAElFTkSuQmCC",
     "wiki_name": "3rd age bow",
     "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_bow",
     "equipment": null,

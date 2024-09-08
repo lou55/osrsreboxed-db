@@ -1,7 +1,7 @@
 {
     "id": 16869,
     "name": "Ogre gate key",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": true,
     "examine": "A key to some sort of special tomb area.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWUlEQVR4Xu3X30oCQRQGcOcRuvGiwD+FCSbohRRCRaEIYogRCBJ05Sv4/BvfnM46czgqFGdmwT74ENbd9cfZ1R1rtfOIK6iViCsm42Yxe2znRtFUAJk/X/sClgm1h7y93pTFtgwoF0FW005ZbE+MchHiY3bru553/SveY9TLfcMa5VTIZtHzlShMyRBFGA3yubzzZRT2C+8nI5TzH6ZBvt77EUhOCccOWy1fedZfhjAahDGHQAYYxKkQiQlBuGxmGIng7rYPB2uEQQgUlm7Q402K4Q87VXm2P+Y4Ru5tGBp5ZTAS8o+h6JgQJI8win6/yNJ+piEI/7JKgFZTFEP4Zx6VAK2GKFc+b3ipUIFJ0cqPF+eohgrvsQTfOFobY82CAhg+1fcTMX0+yRDqaXTlUbiEGioRhkOo8fAymkjiycgQatCtR4hMGA79+es0Ln6mU4lkvUx6UmO+AY1JIDDIaKIQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMklEQVR4Xu3XUQsBQRAHcPsRvHigCKFQPIgUIlIikVJSnnwFn/80O83Zm+byNLtb/Oufuru6X3Pb3SoUfiMmwUYRk6yntWQ7q4dG4VQAsls0bAEWCPWBHFbNtHAsAMpkIKdNKy0c94wyGcRl27a97jr2F84RajmuaqOMCLntu7YcBVNSRCFGgtyPPVtCwXXuelJCGXszCfI49zMgPiU1jAQhTB5IAQMxIoRjXBA8NjUMR1Bfz0lulTAQBLnFm32rSvIwQRINBkceDYZD/hiMjAkAktcLrwcUQujNygFSVVEEodc8lAOkKqJM+r2hrUIEk8KdH23OoRLKXWOKGArujWHPAgWg+1X/IKhegqj5qGJR8AhllNcgajoss4l4nQwPogadUkgED/75a1WLcaEiwoTJGxA7356KFCzzAAAAAElFTkSuQmCC",
     "wiki_name": "Ogre gate key",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ogre_gate_key",
     "equipment": null,

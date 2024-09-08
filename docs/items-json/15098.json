@@ -1,7 +1,7 @@
 {
     "id": 15098,
     "name": "Granite clamp",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-11-06",
     "duplicate": true,
     "examine": "A strong clamp, used for hardening granite maul blocks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADW0lEQVR4Xu2W30tUQRTHPf+D9CAE+tCDGJQv9hL4loFgmpmamebv1Na1VSxNyaxdzExrFTNZETOVEMPMRBRRkyQWhUwMyR4MSQihP+HEmWnm3jt71fXuaj70hWH2zszOfObMmXMmJOS/AhIgL/7I33GWBbiytITfVlf9gAKcGX/vxzjLAvy6vIzf19bYIqfDw1lRRxkFODc5eRBQgGsrX3BjfX0HmN2OEfDj9PQu/fsW4OTbEWb+kuvZ+OzhA2VyQLerBJ01OT7t+t+f5mb/9gcExnf388cGm4gslJaYKK1EdUdTGbpqc2WbaB9+2esD6J3/wIpFKMA3r/pwa3PTAFB3qxyzU1PZ785mOz6uL9DtXCwEOOjx4EBXl6Ht9/Y2Li0s4NjQkBUowF9bWxJG8xnAapsNPU8d+KShSIKU5edhSkKC/O5xu7G/8zmr6dtRpI397PXi/NSUNShfB+bt5DdVtjS5GPnX2ZgYuQGqPS0t2Nvehi+ampSN8fBBYALSOP8uMoNpa7yJ1fZ0LC8swJz0dGadgsxMeZR6axJMV3MztjbcVxbWwsjsxMT+oDRxv6mryJQ7I6gbWVmYHB/vY4UrF5NY3e5yodvpRFdNjWIRzffMT2JPATbcycbCLL44HVVeRgaei43FY6GhcmKqL8TFGb4pXDyqrcV7FQ6sLC6WUALEAgwJmHVKcvnVpxBwJjoaj4eFGRYnwLv2Ml0b/28QLKKKW8hemGyYXA9Djl1VWmqyqBmMJb9RBSz2kFOrk5+KipLXW4Wh1EPRnkKBANPCRsBS0wXgiYgIdtvMYJYXF9lN0gIlhxFhIwhHR+KWanUKB1WPg4+hyEwZnyK3CpOTcT6YQCRgeYyspc9noo8S6tS7UXzd3S1zoBlMEIFIgPVV15i1CIxbgbePDw/jUE8Pa6NYtTdMUPyJBMzJyaf0R6g68F4wJyMjdRsKWICVpZeltehZQgm4r+O2AYbSi0gxemtSXhsdHJCwxrktC9CWnyStRX6lWobK1UvJLAdS1KZvcvzpsbEdLBewgKUWR3EKK+bHpN3KjsZG+Wg7ABghbUFRfBcDXJiZYW+ukf5+OUbrD7IEgL5ovcAeaPQm2hn40AQsaovHmTnwoYo78T+2iqojBcN1pGD2qz8Pvhr4AF0VGwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xu1WXUtUURR1/wfpQejBhx7EIHyxl8C3DATTzHQy0/xObRwbxdKUzJrBzLRGMZMRMVMJMcxMRBE1SUIUMjEkezAkIYR+wqp9bvdzZnTmXjOJFhxm7j77nr3uOvvsfcLC/sMSCNIIBsH6mQZhdXkZn9fWgiBFmBl/E4SfaRA+razgy/p6CEEIc5OTIfgHDcL66kdsbmwEWHy3bSS8m57eZT5kECZfjQj5S65k4/G9u4bFCR53CVw1OT527f/3c7O/5y0Rk77u29dNsRArlJ6UpFmU0NFUBndtrg+Z4We9PrbF+bdimCRFePm8D9tbWzoCddfLkZ2WJmydzQ48qC/QfLnqN+j1YqCrS2f7sbOD5YUFjA0NmSFF+L697edFQrXdDu8jJx42FClEyvLzkJqYqDz3eDzo73wifvnZWaT6flhcxPzUlJ+190SgF6S8qbKnK8E4v07FxmqCELwtLehtb8PTpiZDcKl8MDGZpDoXMghtjddQ7bChvLAAOTabUKcgM1PZSq0vk+lqbkZrwx2fObmMzE5MmCUl5U1dRabyZUzqalYWUhISfAJePJcsbO1uNzwuF9w1NQZF5P+myDAIDTezUZglBeetysvIwOm4OBwJD9cFOhsfr3vmcnG/tha3K5yoLC62QkILEuqU5EpHn0vAyZgYHI2I0AVngrccZYagWjX2hQxDUshRmGJYXCXDiV1VWuonqNFXtlkGidrDSW1c/ER0tOZ4ayG1Hq72XApkYmrZsAxjuyAci4wUp803AGFlaUmcJLVQSmTksqH3Nw1JqVaXnKDG7ZB8uDJzx+fKbSSTk3HGzzuWQKKPsVr++hk31KnXo3jR3a30wD9IRgahvuqyUIuJqUEI48PDGOrpETauVXuT8WczBRJJzjml3UJjAu9F5nhUVIA5UyBUll5Q1OJrCTfgvo4bOjLcXtQWo6rJfW10cGA/CTEI9vxkRS3OK19lCJfOp4geyFWbnznxp8fG9puMDBKtxVmcKob/bZLV+XXBa2y0cmkLFmpAdRhBWJiZEXeukf7+AD4HBhIXNL4TBSZ8YCBRtdXL2V+HlMSHhIyMQ0XmH8BPeuishooQWdwAAAAASUVORK5CYII=",
     "wiki_name": "Granite clamp",
     "wiki_url": "https://oldschool.runescape.wiki/w/Granite_clamp",
     "equipment": null,

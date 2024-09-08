@@ -1,7 +1,7 @@
 {
     "id": 9783,
     "name": "Fletching cape",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by the best of fletchers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByUlEQVR4Xs2XzUvDQBDFE4qUiETEoqRCLA1toIpVwS+oKIiiKHjz1qs3///jum82s43bRlNwNhkYAmE3++PNm+00CMQiVO6bfwx8fJ0D9No4XnNP7TAfj6Og5gFmfZ5ltP50MKixZ+0I1ShhoCq1ive9nl0DGCEgRKiuxh1TCluOUgKkgGEQQRgOfXB6qKJ+30AVEFvDoQoS/S4bSZZpVYR0aDw5UptpaqEIyFHH3SkUoeocT9XuxSVBAYSfXEavMAdv7yrIJya1UlAJQK5/3J1CUQBpEKgEqO2TKXkK/qES+gbqv7waoLNzgtqb3RojNw6kYTgbVSh5erYKWS+1AqjwUNTtqo2viJKA7C0tHqHqXd+QGjA2A33O5wSDp70s/ai0DAR1kAzVKBAAGIq7zDsQtbgGQqeRIhrmY5a3A4iUKW5r7rJGgco/HwRUngB8Ae3f3ROABQJMSSG0vKfWXxga9xC3/BIQX47yKrUc6Id/Sh7yCsSGtkAMUwGEAU7QRwZoZbn+ABJSaQG0VK4KoB1MA20CwiRJvpMpmxnM6gBxxuPcKiSmEoCSh0e6IKEYFCAVeMAvpywMh/NP9Zf0AGOCD6qT7t668Q3RrfMFjoFQzQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpUlEQVR4Xt2WzUvDQBDFE4qUiETEoiRChIY2UMWi4BdUFERRFLx569Wb//9x3DebWVdrJJXubvDBEAjb7I+3b7YTRc4U0/c3KxQ+vswGam2aLvmb1tIfT5Oo5QZ6fVWWLdf/STGNMgFqcqt+Pxj8smaliul83NNHYY7DKoAYGG9SmxX7lOS5hqohNoZDijL1rhwFAFKbppMDWi8KA8VA/t2BYuodTmn79IyhACJPh13VpJj2nl8oqia6lFNwCUDB8sNACgQuAWrzaMqZQn74CH0D5Y9PGuj4hKF2Zlc6yMGBFIxUUIey+wfjkMlSJ4DqDCX9Pq29J1wM5C/YMQ0uLtkNBFuA3uZzhsHTXJahgOAOSqCCAgFAoKTLvANxiysgdBo7omBeZ1U3gNiZ+raWLgsKZP99MJA9AfgC2r2+YQADBBjLIbS8p9b/DDTuIWn5BSC5HN271HGgL/mxMuQVSAJtgASmAQgDnEMoDfTjcYUGWjiuBqAtTANdAsIkyblzA6UHszZAUum4cgUj0rNQdnvHFyQcgwPsggz4drmFEWGTtvWP9AGPY7VgOuqvfgAAAABJRU5ErkJggg==",
     "wiki_name": "Fletching cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fletching_cape#Untrimmed",
     "equipment": {

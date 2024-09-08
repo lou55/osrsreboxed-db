@@ -1,7 +1,7 @@
 {
     "id": 16325,
     "name": "Ruby ring",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "A valuable ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUklEQVR4Xu2WQYSUYRzG95X1ecfnW2kV26GR9ryduuxlokMrSsOmjJZll00alqWsjT2skmIZJcUwh1Qsqw6lLLsSaw9rV0MRe0iHiOgQMaen7/n/e/f7Ztq61PvNoXn4G9/My/fz/J/3MV1dHXWUuQx02i4FOXkoj2L/wZ9QbQMzqOy2MtU9FjM9wfa0ASqBebEvJ0AO6kqkQIfz+SyhFIgwaSDO4t6cTMYumW0YN5t9oQxhar02a5cSoHcxxNZ+ncLgII4fLeD00FAq4Jk4ZVCPQQjjgEbODGOsVEJl2qJ2zeLOVYvZiwFGi91ZwSUvmS6XsTAfO3Y/h9WHIepPQvlcqsZ5quQEcmo0wLkTDs6TNCMGD25YPLplBWB9IcSnVxE+Lkf4sBRh62WI989DOXOppEAes6UwXBHdWXscCkTjTQ++b0T4th7h82uF4u9c4eSIt55SmHuzFnPlQFZEJwjReDuARv1APL3yTLcIy1zxrCeXjGRjZiLAhbPdkpvm8CbDFW4uhrJWQl2f9OKSQXVOb1I6G63D77lGZosZI8z4sJcsGckFXWIuzp/60w0yWKkpDB0qHNnlB4i5INTNqaRvfn1JsjqGn2fTbjaf/SsZuT1cBbuGqyseay1BIxmbv6w3kRli3nYG/yfSwDLQdMplihlhEXJFvIWuNHkrPbmTlsHXtUjAnGNPb2tDMzd85hCITnl0Jy2jvRMXoivDdFMza8/u6l8Sz+6kpZlp1PsEjK59WY2kLFmadC0jdxK53vndZOhOs9yLd5rWsx119F/qB8qQAYd3Bfo2AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACM0lEQVR4Xu2WQWQcURzG81SMt8ZENVrSQ6rSc2+95LIhh0ZpdEm0VpfQ0qouIbQiIYdoVENYiWhZ9hBpWVZ7aDWWRJXIYXV1aQk5RA+llB5K2dOX+f6vL7MbsYfUzPQwH5815jE////3PtvVlShR5FIwjl0G5PrABWQuXfwLFRuYQuG0FhfPaMz0OIeOASqAeX8uJUAW6rEXIxBhWoHoytmUOGIodQhjXe9zxYQp9er4gL76EHvnjdODg7g6lMaNkZGWgEcCptDwQQhjgXLjY7iTzaIwrVF6orEyqzH3wMFEpjsquOAj0/k8ykv+xF6ksL3uovHald9q0c9TISWQUxMObl2zcKFKYe2pxstFLQC1sovvHzx82/SwX/Wwt+Fi950rZx5mQwcyMFwRp7PzyhWI5uce/Pnk4XfNw4+PBorvucLJXGi1YGCez2nM5x1ZESdBiOaXy2g2+n33yjOnRVjmimdDA2I2Zu45uH+zW3LTHt7AXGG94spaCbUwGQqUQnHe3KTO2VCyRmaLGSPM3bFO508sJbnglJiL26OdPqKwVTIwnFD6yqkOZ08sJbkg1LOp1r45qmB1DD/PHn/un6Xk9nAV7BquLjN8tASVZGzpkbmJzBDzFhIQZQLLQHNSNlPMCIuQK+IttKXJWxkijJXCrx1PwOzE3iybhmZu+EwTiJOKAIhSpnf8QrRl2NrUzNrb1Rj+khiwPgHj1H5ue1KWLE1OLWIgq/ZQtztRokT/pw4ALp/TmNkfJe0AAAAASUVORK5CYII=",
     "wiki_name": "Ruby ring",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ruby_ring",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 25670,
     "name": "Raw catfish",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-04-14",
     "duplicate": false,
     "examine": "This needs to be prepared on the preparation table.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xt2WzWsTURTF81YlEhJCQyUGmxpJi03Ih6TWYNI2BG1UsA2V4AdoDbVaQrWILuyqLhSKH4tWdNG1LnSt/96Vc8c7efMytqSZCeqBy6TTN3m/nHPfexMI/P9SZJXvkokOm0zR9PQkTU2dPWLcwFKUSo1TMpngcsI5K5s9x9Ud57kUpdNn6HTiFMXjJ7nwGRPivhRcyeczXOeLOf4bY32A6gKNjcVodDTKV4GCc1Kvdu7R509PaXa2yC7hHsZ7DGX1BQDw5aHQCRsKDgCq/aBBW1srNtDXL9u2SxiXy6W8h5IIgsERhopEwjzZzZUqra1doxfPW/TmdZs+7m/S92877BIcgrt4JjnueXyKXQIICi4tLZV7mlrgJWJULBahaDRE4XDQSygLSCZB4V5hYsIGQUMDBs7g/wCHOwDBFdV9ZmBZQLLadJhyueSAEScFwoTxDEhWkw4zN3eRGxiNLzBwx4Tx2B2RFY0ekyxxuIMVp0flBuMxUCCgxzQzk3e4gyjdYHxyR6RoYeESV71e5d6RjVP2KRPGRyBFVy7P2zCVygV7R5ao3IAk3m55JssdgUFksueYMNh3EgnnESNnXh9Qhw1UDIJVJf2ju2PCpNMJKpUm7SNGwPpobkWt1vwf6N1hZGWZjRyPRymTSdpnnkD1ASNSfEj2Zm5FJTGZK8vsGZxb+hEDIDgkQOasR0jRu7frdHDwjA/Jnz/2KDgywjDYcwAju7LsOyYQChHqh/Ax3NHldAdwEhVg9LjQK3pUAqO74zxqjqnur1G0v9exowKQvDdXKllHTIAzf4zUAO6YUtSsVqhWLPA7z5PNJj1av84vZYgSMG4Tu5X5zQNI0WpjkW7Va9S+2qBOc5mvgMFqMkHMp32Soo2NG+zM3Tt1flME0Or9RarVCr8dGrp6e0NAxSXzCd9l9oUFoajTWe4BNZ8dshR9eP+Yt4jd3Ye0/fL23wGl15Cb3F29cf7j+gXkfYVa4R6b5QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xt2Wy2sTURTGe1chEhJCQyUGG4ykxSYkjaTW4KRtCNqoYBsqwQdoDbVaQrWILuyqLhSKj0UruuhaF7rWf+/Id4Yzc2cyGTHOtKUHDpPHzdxfvu/cc2Zk5OSHIjNDD9nIbzNFU1MTNDl5/i/r/jsU5XLjlM1mOJ1wziwWL3Da6wIPRfn8OTqbOUPp9GlOvMaG+FwSqpTLBc6LlRK/x9oQoGygsbEUjY4m+SpQUE7yzc4D+vrlOc3OVlglfIb1AUOZdQEA3DwWO2VBQQFAdR+1aGtrxQL6/m3bUgnrSqVc8FBiQTQaYahEIs6b3V6p09raDXr1skPv3nbp8/4m/fyxwypBIaiL32THA7dPsUoAQUKlpaVaX1ELvFiMTKUSlEzGKB6PBgllAskmSPvmJggKGjBQBt8DHOoABFdk4EBy2nSYWq3qgBElBSIEGITZi5A6zNzcZS5gFL7AQB03TAhACKkT+7UccaiDE6dbFTKMHqZNMzNlhzqw0gsmZCBFCwtXOJvNOteONE7pU26YEIEUXbs6b8EYxiWrI4tVXkC21brlgYSpjsDAMuk5bhj0nUzGOWJk5v0DlN9CxSA4VVI/ujpumHw+Q9XqhDViBMx/D0co6nTmB/zAG0ZOlruQ0+kkFQpZa+YJlPe9fUPxkOz33LRKbHKfLHfNYG7pIwZAUGgIIISiD+/X6eDgBQ/J37/2KBqJMAx6DmCkK0vfcQMhYaE+hIeEkXCqAzixCjC6XagV3SqB0dUZ0q5BoWh/r2dZBSB5bjaMosMmwLn/jJ2BhaJ23aBGZZqfeZ5ttunJ+k1+KIOVgAlpY79QtNpapDvNBnWvt6jXXuYrYHCaDhFED0UbG7dYmfv3mvykCKDVh4vUaEwfHZRXAvSIgAaFol5vuQ/UveqQQ9Gnj0+5RezuPqbt13ePB9QxUuiExh+ppkH5P7FJMwAAAABJRU5ErkJggg==",
     "wiki_name": "Raw catfish",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_catfish",
     "equipment": null,

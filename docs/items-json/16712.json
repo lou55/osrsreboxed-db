@@ -1,7 +1,7 @@
 {
     "id": 16712,
     "name": "Empty vial",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-24",
     "duplicate": true,
     "examine": "A vessel for holding liquid.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiElEQVR4Xu2X+2vaUBTHzXyhdVqrVazU59RpxEes1sw6Lc6JU7qu3RztiuzRUegYjMKgUBgMxv7t73JPmmiCsP1yUxj9wsFncj9+v/ckR5vtXtwlwPyOhWKLG8sdidw+t1wCApUqgnUJoWYL/WQCzzNpxHxedGtxEyh3CQi3ZVy+qes1SCdRjUaopFhUh/3wssIbSsCglaRFvp02DeXLZDDuZHA8yFOx7zDYhWNcJGA2LOhxfJ/vUjE3mCsMlkGxz2qpFD1qQOprLlJPri1481GGvyQSSH8nAZvdbjWQzbY4udJZm5vw5wtw+HywezwQnE6qRUzLP4CrVBjXxgbtHwLyevHA5dKBNAjLYNzhMAE5A+twPPTDsbZGLjEoLTrzkRy0DBNaDeR2qy5ZA2V0x7UeNAKx2ExAnCMzOWQGWuHQ3QJZ7xCTsHoPaZ12J0DU8gsgpz9gAKJOs/QapDhk2NhLQHrrW+MOk3DrTgjjcQPP9ivYe/IYO40satUkcrmYDmRB2zOpN9ajgyYmLxoYDmvY74mQd/OQaimUinE8ykaR2w4iFvLyhhLw43MH1+/buDpr0ehxMG1gPFLmol4ZnXaObrJSMYpCMqQDcYpOwO8vPfy82KO7PHNJg/r6VsJ8UsZhXwVqiTHk4kFsR3z8ga5mCsRrBeJIwvmkindDEbN+AVM5i4GURLcSRzWrTJD5CMRMmC/QzZlMDrHImDMXxzUaVU9GJZoU2VzEBjU2B8mVLXKKK9CvT11cn7bJIRYZi+r8VZXiYtPktJslKFncgpgO846MSXWJAV0e1imy+aiMk4Hi0NM8RdYqxlBIqBva6zHORpxk/D/2t7Lkaq0t8q9lPv5e/6X+AF7T11gW3UXOAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaElEQVR4Xu2W7WvaUBjFzXxD67Q2VkmlZurUacSXWK2ZdVqsE6d0Xbs52hXZS0ehYzAKg0JhMBj7t8+8T6Ymzg/7cuMXDzwgoubHOffxHpttLe4SsPiOhWIPN487HP772nIJCBSKCJZViNUa2nIMzxNxSD4vmqXoAih3CQjVNdy8Kc+mE5dRjIRpVCkyg/3wssAbSkCnJtNDvl1UTeNLJNBvJHDWSdOwzzDYuWNcJGDUzczi+D7ep2FuMFcYLIOaAwi8gZiMPy7g/qMGf04hkPZeDDa73Wogoyabtb0NfzoDh88Hu8cDwemkMUKZv8NNOoxra4vODwF5vXjgci0AWSIdxh0KEZAzsAnHQz8cGxvkEoMyR8dVRhhxOZDbrbtkDZTZHddm0AzEYlsdkPgv0GodWgJkvUNMwvIzNN20lQDRys+BnP6ACYg2zRoYJt0h08E2AM1W30og3R0R/X4FR4cFHDx9gr1KEqWijFRKMgBZAqVfrKfHVQxeVNDtlnDYUqDtp6GWHiGXjeJxMoLUbhCS6OUNJeDH5wbu3tdxe1mj6nE8rKDfm/SiVh6NeoouWTUbQUYWeQMJ+P2lhZ/XB3TLM5emUF/fqhgP8jhp60A1RUIqGsRu2Mcf6HY0gXg9gThVcTUo4l1XwaidwVBLoqPKaBaiKCYnDTIdhpII8QW6v9TIIRYZc+b6rERV9byXo6bIehEraqwHaYUdcoor0K9PTdxd1MkhFhmL6upVkeJibXLYTBKUpuxAiYd4R8aku8SAbk7KFNm4l8d5Z+LQszRFVstKyMT0A+31WNKNpv8v/ztrrbUa/QEUF6DeQww2HAAAAABJRU5ErkJggg==",
     "wiki_name": "Empty vial",
     "wiki_url": "https://oldschool.runescape.wiki/w/Empty_vial",
     "equipment": null,

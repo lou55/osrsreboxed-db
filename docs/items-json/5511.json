@@ -1,7 +1,7 @@
 {
     "id": 5511,
     "name": "Medium pouch",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-13",
     "duplicate": false,
     "examine": "A damaged medium-sized pouch used for storing essence.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdElEQVR4Xu3X0YrCMBAF0OZJupSW0qJ0g1a7dMuKD/v/PzcyE2ZNL6mCNPHBvXBBqCaHSRTMsv+8TwyFmyS4qaGyzIJNAFveHHuyJXXtB7V1HgtlaN8VUtw8VAXx536PRymuuEKMbPQINR5qeV9kjMb8bRgqP5uGJhVGY8i27d0qCD8ZMe4bhJCmqaUvAQ3Dgabpiy6XH+p7S9utAyU+Lj+GzudvGseTlHGM1OnhuyPHHdfQddTvdvK6q2uqi4LyzUZwN1h0nBEEF0GKKvNcjq+qSioK93uEq6yUOUaLqLaqBLW3n3K3Il3yMEZBIRRPiy98BNAyJoTiKojvk04JV30yjzE+SkH+0eklX2lKDoSbj9bOilPyj00xq4HuQXyQP6UQCFd+Mm5CCMAmBHHclBARAnHxDkUB6T1CCIJwQpFAnNtdWsIgKMKFxoRRPsYHRcZo5t+6pen4IFwhQsIoxvAzbYLp+Jn/P0NEYowLbv4SxNvmCiRA19Uyh87AAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVElEQVR4Xu3VYYuDMAwGYPtpeIhSLBte2WQentzY//97OZKSWUPdvph6cHvhhcGEPKR1K4p3/k8MpJslcqiBui6SzQBbHy579TV07gOcLbVQBs5dRZXDU2WQEoZjaNAr1Hix9JwyhmMeA1PF76ahzYXhGPDOPW1mECa8QRLStpa6C2gYLjBNX3C//0DfezgeA2gHDMfA7fYN43ilIg6RvD35tHLCcQ1dB/3pRJ87a8FWFZSHA+FmmDrOEAIrQYyqy5KOr2lqqCrV36MlhitRrmkIdfafdLeUQGkMg1Io3BZeeAXQOiaFwjII79PGW3qNiVEMio9uvuSbJIDk8NH7ReWW4mPbEIMxTyExKN6SKgiHSIBsRhAmbEkiUiCsvEMqIL5HEiJBckNKIMx8l9YwEqR0XHHSqBgTg5QxnOVbt7adjCBMGoWYgMjyLy8TD94N8c7fyS/YxqQ52HmzAgAAAABJRU5ErkJggg==",
     "wiki_name": "Medium pouch (Degraded)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Medium_pouch#Degraded",
     "equipment": null,

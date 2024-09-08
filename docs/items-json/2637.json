@@ -1,7 +1,7 @@
 {
     "id": 2637,
     "name": "White beret",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": false,
     "examine": "Parlez-vous francais?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xu2Vj0sTYRzGvf/EP6E/oSgxMkwwMzHTzMzMNDMbZpqZOczMcpmVKGKmMmRitkSUoWYOEc1UJjIzFZnRP/HU8z3edV7Tzdr6AfvCcbf33rvv532e573FxEQrWtH6J0uDeeQvFUE0WMvL5Rz8iGhpaGtsRG9bG+5XVCAlMRFnTibjdFKSXCcnJOBEfDyOx8Xh2JHDOHroYKSgfqw4NyMDLXV1eHinCpaCApTk5aH4Yi6KLuTg8rksuZ+dluYHJWSYoTRpXHmtGNU3SsWqB7cr0XSvRs78XWOxoOp6CW5dLUJpfr4AXjmfjUuZmchJT0dWamq4oDRpRnuoiK22VtShbe1Nj9Ha0CC/Ccf7nFdbVuaHUwoq9X4TSpNGzVarNCZAV8tT9LS2wt7eLgevOdZhswkk4Qj96G61qEc4qkp1bxYWinq/CKWHl426nz+TEDtedmKguxvOvj4M9/fLebC3B/2vutDX0SFzOLez+Yk8+6K+XhYTyNp9QmmycjZhM6fdjiGHAyOvBzA29BYTIyOYHB3F+PAwXE6njPM+5xGY4Eo9whmtJRTVOnsqJVQoTVatVGBDNp5yuTA9MY7Zqff4ODODD9PTcs0x3iMkYUffDAZUj1BUSgEx6Ox1IDZ2LyhNXsgXUwH32Jg0ZfOF2VksLyzA6/Hgs9eL1eVlrCwtwjM/L/d2AyQUlaJ9zBUzxbCrgAcF2kuVpbk5gdoLxmwl7aNtZiB+FkICUlnhC7lKBTXndvuhzDAzk+9ETcKYbWPQuTGYHwLpudEPwgQBYu38H1Jgyj4FxTMhCWO0yBxwhps7j/mhMkaQEGD02vmA5reCDWmHUo6QBFI5U/O4CFHoOxQt43eKQPtQJVhpYhPzwzMz9GllRQLOMWUfFSMkgWkbLeMOY4b4sQwhM/spDV+3t7G9tYWt9XVsrK7+tNtoI9WielTTCMQPZJiBWHquvvh88G1uYHNtzQ9FtZgtWkeVaBstY4ZUqCMApOfLGHqlFi2kUgSiQgQyzgtjfgKXMfS7HcbNEVEYc5mb/nGAaEXrf6hvCvgwkgyczcIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu2V8UtTURzFvf9ZUWJkmGBmYqaZmZlpZjbMNDPbMDNLMytRxGyKjA2zJcMh00yRoZnJRLZMRWb0T5w6X7lzvNQ226of9oVx3+69e9/PPee8t6SkRCUqUf9lKRhn/lERRMFSUyPj7z9xLYXu1lYMdnfjQW0tMtPScPZUBs6kp8t1RmoqTqak4ERyMo4fPYJjhw/FC2rnxEW5uehsasKju/UwlZaisrgYFZeKUH6xEFfO58t6QXZ2CJSQMYZS0rjuegUablaJVQ/v1KHtfqOM/N5oMqH+RiVuXytHVUmJAF69UIDLeXkozMlBflZWrKCUNKM9VKTdbBZ1aFtP2xN0tbTId8JxnfvM1dUhOK2gVu8PoZQ06rBYpDEB+jufYaCrC0M9PfLhNed629sFknCEfnyvQdQjHFWlurfKykS9A0Jth5eNrC+eS4jtr/owbLXCabPB5XDIODI4AMfrfth6e2UP9/Z1PJXfvmxulsPsZm2UUEpOziZs5hwawqjdjrE3w/CMvsPk2Bim3G5MuFwYdzplnuvcR2CCa/UIF24toajWudOZkUIpObVWgQ3ZeHp8HLOTE5ib/oBPXi8+zs7KNee4RkjCut+O7KoeoaiUBmLQIwBSckPemArMeDzSlM0X5+awvLgIv8+Hr34/AsvLWFn6DN/CgqztBUgoKkX7mCtmimGPMOBqX1WW5ucFaj8Yo5W0j7YZgfhaiAhIZ4U35Ck11PzMTAjKCOOdei9qEsZoG4POB4P5IdA2RFR/KeE/UCEwbZ+G4khIwoRbZAw4w80nj/mhMlGA7FUqZAUb0g6tHCEJpHOm9/EQotBPKFrG9xSBYgCjS4lNzA9HZujLyooEnHPaPipGSALTNlrGJ4wZ4ssyhkAshe9bW9ja3MTm2hrWA4FfnjbaSLWoHtUMB+ILMsZArO1cfQsGEdxYx8bqagiKajFbtI4q0TZaxgzpUMcBSNdO6LVatJBKEYgKESh8XxxhjGVs+tcBEpWoRB2ofgCDfAFDy87oeAAAAABJRU5ErkJggg==",
     "wiki_name": "White beret",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_beret",
     "equipment": {

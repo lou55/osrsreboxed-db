@@ -1,7 +1,7 @@
 {
     "id": 11286,
     "name": "Draconic visage",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-18",
     "duplicate": false,
     "examine": "It looks like this could be attached to a shield somehow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4Xs2Xa0tUURSG3USIIoYoScqYF1R0wstgo+IdNTPDNDNvFWJaIoSZmYgZYWbYp8gP0bf+6WqedVwzp5MEOWdmXLA4ur3sh/d9195n8vIuVE6CKzksJ3cGBuQSQTl58mhGgdqqqy8DlJOtly/k7tDg5VLp2eNZud3WmmsoNnfyYGxM5qempLujI5fWOWmsq9O+PzqqQP1dXXKtuPhMJeuslJNbTU3SGo1qx1paZGZiQqets71drpeVSaSiwgeX0XKaFRooA1t8OK0q3RsZlt54XKH+Vuu8TrucqkD7wYD5WVqQVKm0pESBUOpmZaXUVlXpE4ubGxqkvqZGv08TymlwrYNgqAMQgGwMDE9T0f4mNY3eAKQxBE7tsGYDIOjBnh4NNU82NQWAMRXJGmumTJowlNMDEBWG+/o0yEzY989H8mV/Xz6+3dafAYBFWNabf0XWiq6qUthobUDBHf6zvHsLGHp2clK+fTqUD2+2FObrwYGumxIF+fkKdaO8XIoKC/Vr69CA2BBbeAIzPT6uMMd7e8knCqGIQdjE0azRoQH5YWhO6cN3O7pGcLEQK7lw/ZNmVoWsEOVNB5uiDgD+88hCbeOOfeQJlQwopEBbOT0ELdCE3IA4X5g+IOwUZ/IAOw8o+J8vUN6tziGIVQSctoOO3PiBWKNRyGwLXR2yYeqw+dPuTlnu8VTwH5JMFg2knUlAharO8tycqkN2OAyxw2BGmr0MoRbN75uVQFn2QldnZ2ND7SI7TNZUQo2xaLMMNSbyk9gYOLPGrPODhAaDOoR5e309Geb5eOLqaIkqTFetZws2pWwJXRWrVJh5f8auxc64zMTaFSZWFUlmJHgtZACG8s4drobNtVXvQk0o099QL60R77IExq9OBiD85VSd0+NjvR6wD4uiZxAGE1Qng+UF+tfpqV4XR7u7GmyyRAOzsrCgtmYJiPJePV49X5EfJyfy/vWmKoVd2Li6tKShzyqQfbIAhEwZIGplcKL+VZ5KnMS8LQIXBMkijNWfnxpyCJIqP0SmQX4DRjyqCwH/AEEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4Xs2XXUtUURSG3UQMihiiJClOqKjoxJhio+I3amaG+ZH5VSGmJUKYmYmYEWYTdhV5Ed31T1fzrO0aTyZdNGdmXLA4uh3dD+/77rWPBQX/VU7Or+SxnNzt75dLBOXkyaOZywW09fKF3BscuFxQzx7Pyp3bLfmGYnMnD0dHZX5yUrra2/MJ5KSxrk77wciIAvV1dsq1kpJTKOuclJNbTU3SEotpt8XjMjM+rqeto7VVrpeXS3VlZQAuq+U0KzRQBrY4PaUq3R8ekp5EQqH+VuuizricqkAHwYD5WVaYVqmstFSBUOpmVZXURqP6xOLmhgapr6nR7zOEchpc6/NgqAMQgGwMDE9T0X7n7DRmBEM5tcOaDYCgB7q7NdQ82dQUAMZUJGushaCMldMBiApDvb0aZE7Y989H8mV/Xz6+3dafAYBFWNYTuSJrxVdVKWy0Dg3IYOjZiQn59ulQPrzZUpivBwe6bkoURiIKdaOiQoqLivRr69CA2BBbeAIzNTamMMm9vfQThVDEIOzE0azRoQEFYWim9OG7HV0juFiIlVy4wZNmVoWsEOVPB5uiDgDBeWShtuOOfeQJlQwoRBjK6RC0QBNyA2K+cPqAsCnOyQMsS0D+VmcIYhUBp23QkZsgEGs0CpltIcJQ/mXM1GHzp10dstztVQgOSU4WDaTNJKBCBHKyPDen6pAdhiF2GMxws88QatF83qwEyrJ3/q9mUF6dnY0NtYvscLImU2qMxpplsDGVn9TGwJk1Zl3IIJRXhzBvr6+nwzyfSF0d8ZjCdNZ6W7DpDCB0VazOwsz7M3YtdiRkpq1VYdqi1emMZCG4F5WfO1wNm2ur/kJNKdPXUC8t1f6yBOZPdbJaTtU5SSb1esA+LIqdQhhMjtShfKB/nZzodXG0u6vBJks0MCsLC2prjoAo/+rx6vmK/Dg+lvevN1Up7MLG1aUlDX1Ogew/C0DIlAGiVhZP1L/Kq8Qk5m0RuDyBBMsA8g6Sn/oNMSVq9wNYE1wAAAAASUVORK5CYII=",
     "wiki_name": "Draconic visage",
     "wiki_url": "https://oldschool.runescape.wiki/w/Draconic_visage",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 26133,
     "name": "Sigil of aggression",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": true,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xs3W+0uTURwG8I3M8kIjvAxdqSkmmWwtMpGMBKl+tCgqKoqKiiKCKAqRootINwSxCxUKhphIGUGUFN1+73869Zz1vPu+352NvdsMDzzsvZzj+ezcXCi0/EvYuON6v+QlbB4NHzAPhvbbjN7YZ0auDdoQMTN+ykyPnTRTj084UPpLFA1PgYgCiNGYyYfHzfPRo76OcY93On5UIGTYjN08mIHCJyAMQU9Hjpjx24dsXXy6QKgv0d/mh82X2auFoQjCNUeHoJf3j1kQ62YDod3XuSHzc+GO+bVwz4LQx5aWFhvduyqpYee3JgidukATdw97IFy7QLMTp30gXBOke1cl7JsGdMTFjXsJklPAZAPNPztbOhBHCc8IQr3FaKWX1tYm09AQ9eEk6N2Lcx4ICQTiutAgfHOANObHv/C+pmatqa6u9KHevzrvB725XjwIz/H+d2N11tTX1zpBHyYvlBaEYCpzgTBtwEQiayyoomKVrY8p/jR9yQN9f3vLwwQGSRTe7dm9KyMEdXVtMs3NMSfo8+vLTpDuPUtJ7xgN6u5O2PT378gIRgig9bHGDNDizJVCQakzCCPkAvX0JG2SyTazNRm3o9LZudF0dLR5IOw2CcJGkCB5KOreVUlteRcIweJEnXi81YYgYNrbY3+zwaKwsJcMRBSC9319220GBnaaRGKzRWBU+Bz33GUlB8lR4vrBdPX2brMgXHOEsG4Que0JQgjCKU1MXiDsMA3C87KyFaa8fKUdlcHBvXYRc4EDISNBaIO2+BscoTxHByUNIkpiqqpWm7raiJ0idIwRwRRhESO4x6cEoY1EFQUiRoOQdbE6u7sAIoQ7rLkp6tVDOw0iSvfuKCmQnDauAf5hoCQsV9hGgnAGBTiH/CA9bRwpGQJlXBAEaygwCLtMg7iwC83HqYveLisYpHcbnuNfAH754YDkr0kEhybPKrRjXZw/c0/O+EA4gwKfQ65pkyBc5wIBzLolAbmmTYLwTv4skSDUAwijUwIQSuYacEViZDQIv6UliAkACoV4rOeKBsrI9VMSUL5FI/PBMum6/6lopCu6zbIufwCGINDgO8E4zgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu3W60sUURgGcJfMUpeW8LLolksrJpnsspGJZCRI9XGLoqKiqKgoIoiiECm6iHRDELtQoWCIiZQRREnR7Xv/06nnTM/0zpmzy87sGH3owMPO5Zyd357bTlXVv19iyh7b/SUvMXV/eK+6O7RHZ/TqbjVyuaBDxMz4cTU9dkxNPThqQZk/omK4AyIKIMbETN47op6MHvI8GOe4Z8aLCoSMqbFr+3wofALCEPRo5KAav7Ff18WnDYT6Ev15flh9nL0UDkUQjtk7BD27c1iDWLcYCO0+zQ2pbws31feF2xoUCIMv5a8mCA+1gSZuHXBBOLaBZidOeEA4LhMU8wwDHsTJjXMJkkPAFAPNPz4VHYi9hGsEod5iss5NJtOmWlqSHpwEvX562gUhgUCcFyYIvxwgE/P1d3je0LBaxeN1HtSb52e8oJdXKgfhOu7/aI0XTXNzoxX0dvJstCAEQ1kKhGEDJpFYpUG1tSt0fQzx++nzLujLq+vlYlC8IInCvZ07tvtCUHf3BpVOp6ygDy8uhAWh/FkxJqinJ6czMLDVF/QQQGtTrT7Q4szFsCBnD0IP2UC9vXmdfL5dbcpnda90da1XnZ3tLgirTYKwECQowKboLHkbCMHkRJ1sNqNDEDAdHalfWadRmNhLBiIKwf3+/i06g4PbVC63USPQK7yOc66yyEGylzh/MFx9fZs1CMfsIcwbRC57ghCCsEuXiUFxVpgJwvXq6mWqpma57pVCYZeexJzgQMhIENqgLb6DPRQKRJTE1NevVE2NCT1EeDB6BEOESYzgHJ8ShDYSVRGIGBOErEk16dUFECFcYem2pFsP7UxQAJQDksPGOcAvBkrCSoVtJAh7UIB9yAsyh409JUOgjA2CYA4FBmGVmSBO7LB5N3XOXWWhQeZqw3X8BeDNDxsk3yYRbJrcq9COdbH/zD086QFhDwq8D9mGTYJwXAoEMOtGArINmwThnnwtkSDUAwi9EwEIxT8HbJEYGROEd2kJYgKAyi1+JCPnz18ElSp+pD//S2XlJzwchlQeJwCeAAAAAElFTkSuQmCC",
     "wiki_name": "Sigil of aggression (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_aggression#Un-attuned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 14213,
     "name": "Defence cape",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "The cape worn by masters of the art of Defence.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACt0lEQVR4XsWX/UtTYRTHfX4a+zGIokS0wqQmbZPaDC2T5Wo5crVcW8rSsqzsVRhGRRBFBEEQQRAUBEEEQUQQQQQRVP5ZRz5nHWNrxQY9dwce9F53vR++3/O2jg5v4aT+zn8M/nkrL3CyrjPa4jNNh5M1a3slHA41+QIn3X0pScbj+vlYT08Tz7QcTro6N/4C+pta1fvbd5ZWPwOMJyDCSTQaUSvWdw3UwTnpjeYkvvdCDYhHGAsnybGKWrI5kpH+ZHn1ADOUue3TpkbhZPToQxkYuaSK9A0UFCaSmNLrAGyqDyfj5ZcyVngiidSigqAYebOhOxG8OvO3lmXy/EfJTD2XkYn7qtBg+rqCYWHgQLNLPyV/9r3kTr+VA6VnsvvgTT2x4XnZGssHDzS9+F2OnHknxctf9Oeh6ReaU7tGr7YHqHTlq0yceiOFhU+SPflKUvlHWlltAzp+8bMcnnmteQQQ6rQVyECOnfvwBxAJ/rtLew8n6eJTLXcqjcReWijWHBQCKiCVnFYVQHM3ljWh71Zmao41ysCA6D2oROlT9uFQqOZs6c8GC0SJA1Su/NBKq1eIxhhgYldHBrbRi6i0eiAU4gQGRFVh24lr3/T3RpZt2pYODgibsI3maAN2X+6BzjJWD0qexI4OzfkufSf7Jx9rz7GR0QjIVhDWEc8qOX05YwIglMI6rpn41hh3DM4qkDVHr0BUlwGRP1yjGEDD43d0J2LiB9SLqk0R2wAij8zCPdl7CsQKwhZJ2QOFoh7zqNoUbbAanAFhGUBskABRbfzNo0rVpggQyYxdAJHQBkRiYxtANEis9AoECEA2PsgngLDLgEwhehH3UNKTbU5zx3ZpqzhLaOwyIPKIFkCCm0LeVGJLZO2g7G2MYB0lDwQN0b4SeYaxqP2m+q8TAEw17EXNnPpnm40ViZStAIYhjW0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xt2X7UuTYRSHvT+NfQyiKBGpMKlJc6M2Q8tkuVqOXC3XlrK0LCt7FYZREUQRQRBEEAQFQRBBEBFEEEEElX/Wies8nWrLYobPPejAjT6P0/vi/H7nxba20MJJ45tlDP74Ui5wsqo9vsTfaTqcrFjZJdFopMkLnHR2ZySdSDT5+X8KJx3ta79f8KdsBe83b6385TPLGk7i8ZhKsboj2QDnpCtekMTOMz5Afg0n6eGaSrI+lpOedPXHAaY/d90/0NDBu5IcPKcZ6U6WFCaWGtdnzzCEk5HqUxkuPZBUZk5ByBi+WdOZ8g3kZObagoydfiu58ccyOHpbM9SXvaxgSOgdaGr+qxRPvpbC8Zeyp/JItu+9qqd3YEY29hb9A03MfZYDJ15J+fwH/bpv4ol6atvQxdYAVS58lNFjL6Q0+07yR59JpnhPK6tlQIfPvpf9k8/VRwCRnZYCGcihU29+A8LgP7t06OEkW36o5U6lYez52XLdIUNAeQOiqgCavrKghr5Zm6w71ii9AdF7yBKlT9lHI5G6s6En7xeIEgeoWvuildaYIRqjR2MHIwPZ6EVUWiMQGeJ4A6KqkO3IpU/6/WKSrduU9QeETMhGc7QBu6twR2cZqwclj7Hj/dNhQznZPXZfe46NjMWAbAVhHQkdiMsZEwCRKaTjmYlvjXFL35QCeWiOQVM0IPzDMxkDaGDkhu5ETHxPvShoisgGED4yCXfkbykQKwhbJGUPFBkNESpoijZYDc6AkAwgNkiAqDZ+FioQWQEIMyMXQBjagDA2sgFEg0TKUIEAAcjGB34CCLkMyDJEL+IdmQwJyql3bJe2ijNDI5cB4SNaAAYPCcbC6ZbI2kHZ2xhBOkoeCBqi/UsUMowFlzR7/qP4BkdKb1sCG0cPAAAAAElFTkSuQmCC",
     "wiki_name": "Defence cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Defence_cape#Untrimmed",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 18585,
     "name": "Shayzien supply set (5)",
-    "last_updated": "2024-02-09",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "Supplies for the Shayzien soldiers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADiklEQVR4Xu3W3U4aQRTAcU1DCIZACAYiBBEMEMUIEkWNSDVarR+JWqu11pq2adPGxLTpg/UVetuLvk0f4DT/wQPDsKYLatqLTnKy7LK789szM3t2aOh/u/c2LK34J9qwnD4pydZS7gb112Ctzo83irKzkpe1+XGpl8eknB+1YHY8WGt1QFYO1wptzPJsSgrpkGzUs7JaTUttKmlwhUxM5gphD6AbfbfWha92yvJye7oHxJABIUuVYsJA+A8gWICcxznscx7HODc1GuoH1YJc7s20MQwTmP3Vya4McfNSNt6D5T8Xw7nJWEAatUmZyidNH9WJiT+hWkOjGH7bGLZkRufPbdkjS3qOQpoLBTncrBhQIZvwDzrbnTcXr1YS8vpg0ey/PZg1HSuIfS+wV/aWqjlZmMnKbrMs5/t1sz8QqFaMyebylLkRT8ZxxSnGhrC1MbXpjIlKKS3ri0U53pqTd89XDC6faa1MXyCeAlA5FzHp5WbbjWnZX581NwX16axpzgMKDphO5lwyKOVCyswTMkFGuHYkFJBnzUz/IIYJSD4VNk/IDQHa2Tp5WjOgN0dLBvfhtGGgQMbHYu3geiAagDjGf75BpJWsAPp6UW+HFwbI1fljg+I4GUnGwxKPjnRB7gTi5gyRgr7/+NYOxdmYz5cbZqugSDjUA4mGgzIaDRkQcyqViPYHIhuAbAwRCgbbKBtog1wMkLH4iGSSYTlopAcDMTSAfv2MdGE07OOEF4isKCSXipg3OSDmGcPqG6Q3B8QSB8CL0gXZKBekEBC8i9iCGhjEigH0/qhiAApzUbeBbAgwgAydDhmTvi8QS7+UicjVyZzp/ONxtQdkhwsiGzaE4eP43nKqf9D1xVob9OV8wXR4/aLWg7Cz5oJcCFuAgFj2rMS+QCxrQOzToQ5dV1ZusucFsiHgGDq+lQDxph4YRI2iQ3f5E2RPM+eCNEsMHRC+gygrFGhA/D8QiH1Q7jInyJpmzgXpClMMdY56xutEy4lvEG9eygeFlKciuKEudTt0HimIgqqTmlUGhjKkQT2kD8X4BjGpuZiiqtWeTBF8/5B63k0aLggMnyAMj4YL8YHR1vkQB0IZ0XTr54d+JfLpQbggthp3gHRa58IOjg7BaKVnWCkzYBTEWzgQeNSuVXeGeDUvHJVeMXa1B2RP2HuFeDUvHHEbyL3+QVt3BrqBD54ZP80G3hXzG1ihPmE1iThBAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADdklEQVR4Xu3Wf0taYRTA8WSIGKKIoaSYaKiUI0vKiswVtVo/oFqrtdZiGxsbQWzshe0t7N/9sXezF3DG97kde3y8Ma811mAPHK7398fz/Dh3aOh/u/MWEi/uRQvJ8eOqbCwUr1B/Dea9/HCtIltLJVmZHZNmbVRqpRELZscfa94LyMr+SrmDWZzKSjkXlbVmQZanc9KYyBhcOZ+UmXLMB+hG4Obd+HKrJi82J3tAdBkQslSvpA2EcwDBAuQ6rmGf6zjGtdmRaBCUBznfedjB0E1gdpfHuzLEw6uFVA+Wcy6GazPJsLQa4zJRyvQL8rpGMfy2MWzJjI6fm7JHlvQahbTnyrK/XjegciHdP+hke9bcvFxPy6u9ebP/Zm/KvFhB7PuB/bK3MF2UuYcF2W7X5HS3afYHAjUqSVlfnDAP4p9xXHGKsSFsbUxjMm+iXs3J6nxFDjdm5O2zJYMr5XVm/raFzL8AVCvGTXp52GZrUnZXp8xDQX08aZvrgIIDpoO5mIlIrZw144RMkBHuHY6G5Wk7HxxENwEpZWPmH/JAgHa2jp40DOj1wYLBvT9uGSiQsdFkJ7gfiAYgjnGubxBpJSuAvpw1O+GHAXJx+sigOE5GMqmYpBLDXZBbgXg4XaSgb9+/dkJxNubT+ZrZKigei/ZAErGIjCSiBsSYyqYTwUBkA5CNIaKRSAdlA22QiwEymhqWfCYme63cYCC6BtDPH/EujIZ9nPADkRWFFLNxs5IDYpzRrX2D9OGAmOIAWChdkI1yQQoBwVrEFtTAIGYMoHcHdQNQmIu6CWRDgAGk67TLGPSBQEz9aj4uF0cz5uUfDqd7QHa4ILJhQ+g+ju8sZoODLs9WOqDPp3PmhZfPGz0IO2suyIWwBQiIac9MDARiWgNinxdq13Vl5Sp7fiAbAo6u41sJECv1wCBqFC90pz9B9jRzLkizRNcB4TuIskKBBsT5gUDsg3KnOUHWNHMuSGeYYqhz1DOWEy0nfYNYeSkfFFL+FcEDdarboeNIQRRUHdTMMjCUIQ3qoQfpC0PzQAxqbqaoarUnUwTfP6SetUnDBYHhE4Tu0QgIsZveGDIQyoimWz8/9CuRTw/CBbHVuAXEr13jeCEYrfR0K2UGjIJYhcPhB1atujOIX7vGUekVY1d7QAEG7F22axxxD0Bu6wa6Z//59gsTBvrxLP2krgAAAABJRU5ErkJggg==",
     "wiki_name": "Shayzien supply set (5)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shayzien_supply_set_(5)",
     "equipment": null,

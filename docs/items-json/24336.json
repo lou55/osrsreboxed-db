@@ -1,7 +1,7 @@
 {
     "id": 24336,
     "name": "Target teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-11-07",
     "duplicate": false,
     "examine": "A teleport to your target.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnklEQVR4Xu3XbUtUQRQHcO+LPoAkSUqmSYoZPoSZYaZhZuvKppn5lGlmZuZDttliRESEENEHEAyCPug/zsS5nM6d2Z25d98EDvxfCLP3/Dgzd+ZaU3M6Mo0I1UlVRoRb/f242deHG729uN7TjWtdXeju7MTVjg5caWtDe2uryeWWFlxqasLFxkZcaGjA+fp6nKurw9naWpMqoCKMDg1hZHAQtwcG/oGVwzHMhsuAijBxdxT374zg3vCwgblwDCuHYxglBSrCdC6HB+PjJpNjYwkcw4rtx3FcXbPhAlARFh9OY35qCrOFAmby+RjHMIqE6PgsKcUTlQRJlC5eLhJkQ1GtnubmSqgITx7NJFAE0gVtS0h7S89zdSkTiB8ul65wZicRveElSKOCQBLFGF42jXCFUOW65A16+njWCqJOcTHbmyeXzgWSqCAQo/iBvHRUiJdN7hMZBrlQwaDVuTkDkkUIxEV4g3+b+Ikfk7/j8Fzqkg2kUZlAtHQaRPme/xVHznd1iRIMWltYMCgXSL51FOoU5Sh3Yv6mvcRz9TEgr5hgkETRBreB5FJxXCB9enuD1peWEl3iN46K6LNJh946mqfvOwYxKhVIo2SXaC/pe46PAQbxb21fB96gjeVlZ5ckqlJo6VwgSiqQDcVXigZQ9GFJv3F9Q3mDXq2sJLqkjwGK6/NEz7OBKKlBEsVXii4qo7tEIBvKG/T62WoCJUG2rwHdJRtKgijeoIOtLew8X4thLpy+hG04/fYxLqhDX0sllLa3sfdiPYbproXiZPcIxhgPEI0IX94f4OObPXzY3TU46lpxcxP7LzdMJNbVRb3vKAQNxPCIcHR4aLpFuM/vivj0dt9EQyW2UldTYnjof4WzJwPm7+AHVDO6xn8x/gDwtmRbBhzIRwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACi0lEQVR4Xu3WbUtUQRQHcO+LPoAoSUqGSYoZmmE+YKZhauvKppmZT/mQmZnPmy2KREQIEX2AoCDog/7jDJzL6dyZdebufenA/8XC3J0f58yduVVVl6OiESGbZDIiPOjpQX93N3q7unD/bifudXSgs70dd9racLulBa3NzSa3mppws7ERNxoacL2+Htfq6nC1thY11dUmGaAijAwOYnhgAA/7+v6DlcMxzIarABVh4vEInjwaxtjQkIG5cAwrh2MYJQUqwnQuh6fj4yaTo6MJHMOKrT/juKpmwwWgIiw8m8bLqSnMFgqYyedjHMMoEqLj01KKJyoJkii9eLlIkA3lDVp6PpNAEUgvaGsh7S09z1WlikD857J1hSu7iegNL0EaFQSSKMZw2zTCFUKVq5I36NWLWSuIKsWL2d482ToXSKKCQIziP+TW0ULcNrlPZBjkQgWDVufmDEguQiBehDf4t4nf+DH5Nw7PpSrZQBpVEYhap0GU7/k/ceR8V5UowaD1+XmDcoHkW0ehSlHOc7/Mb9pLPFcfA/KKCQZJFG1wG0i2iuMC6dPbG7SxuJioEr9xtIg+m3ToraN5+r5jEKNSgTRKVon2kr7n+BhgED9r+zrwBm0uLzurJFEXhVrnAlFSgWwovlI0gKIPS3rG9Q3lDXq3spKokj4GKK7PEz3PBqKkBkkUXyl6URldJQLZUN6g92urCZQE2b4GdJVsKAmieIOOt7ex+3o9hrlw+hK24fTbx7igCn0tlVDa2cH+m40YpqsWipPVI5gnhkeELx+PcXawj9O9PYOjqhW3tnD4dtNEYl1V1PuOQtBADI8I5ycnplqE+/yhiE9HhyYaKrEXVTUlhgc9nHUuRzbjH4SHIPr9rgmNAAAAAElFTkSuQmCC",
     "wiki_name": "Target teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Target_teleport",
     "equipment": null,

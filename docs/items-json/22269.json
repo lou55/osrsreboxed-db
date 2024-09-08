@@ -1,7 +1,7 @@
 {
     "id": 22269,
     "name": "Hard leather shield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-02-01",
     "duplicate": false,
     "examine": "A solid oaken shield covered in hard leather.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClUlEQVR4Xu3W0WsaQRAG8NxDkIZgEEVR0eQUFT3xLofaCiYIkgZpaEMLgVAIBAKBQKD//8vUb65zzq2nVKPXPmRgSPIQ9se3c7t7cPBeey+L4juxii48bBe5R06JJl6Vfzp2LimUxYtO/VPuzwObZh9rdDtu0I/LJt1PO/x3QigrXLxWPY50q5Ymt31Cfq/CvyeAssIUhl6WGsUPVM6myGnl5ogCXQzLNDg/ZZBGXfTK+0BZDLmbtMhppmnULy31eFhniOuUGYkGClu6Y5TFEMwGFhh6xbA1COkAIyC3k98HyqKfVw43QH43EwEJKi4dgDQKH8AbZ8qih+suN0DYKsyKCUKb6WgQ/sfOpyIot57fBmXR46zHIMFIa4yk47RL1Kpnl0DSGHAcFzivjlKHDPLOzv4WZdHTF5dB6OBzXoA0StIxQRql58hvFkLMxiA0MDp+swESjAmS1tvVKGY2T+f5q8eNdLBdZvwao9OJQ8l5JFfKVum83J4zSNIxZwKYT307nJ2GnYmANEq2S+Znw3RQAUjSiZsJnU67UWBQHIpbzY9dSG8Ksuj1u8/pMGbe+GTjMDod3SZG5gegrbYLIPmypONAZjpLqD8YzI8JMlddU4uE9BmkB3tdOhHUHHMzqofzU8kdbwf69W1AT9duBCYndXBABlfEqnQEg5cB0gHIqQbXxYbbJRW8AlfBcNHi/VMtHy1B7EqwTXgZIB1+E7W3+tSjFfzjapjcb7hweTvnc4a3UeHkkMFIBw3UmzG6NOz1xg9hck7J9aKBACEhtGsHl+hOMLrMxJ5nHj1Mu2tRk251t+nElYahkdjjVY/uLzsR1Kxf2z9G12KhBe5uPN+qUZM7UYxZcbh/hjFLIP8F5r2SrN8nU/7FiYNQPgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgUlEQVR4Xu3W0WvaUBQG8N6HIivFIoqiYkoUFY0YGzStYIsgXZGVrWxQKINCoVAYFPb/v5z5nezEm2ssS1qzFw982CKSH+eee28ODva181IUn8wq+mC/V+VMnRrNRxZ/OnYpK5Tihy68U87niU3L8ybdzdr046pDD4s+/58RSoUPb1rHkXSbeXJ7J+QNG/x3BigVdsEfFald/UT1Yo6cbmmFqNClX6fJ2SmDdNTlsL4LlGLI/bxLTidP03FtIzO/xRDXqTMSAQpL+sEoxRDMBh7gj6phdBC6A4yA3H55FyhFP68dDkDeoBABCSquOwDpKGyAd86UosebAQcgLBVmxQQhZnd0EH5jl3MRlNsqp0EpeloOGSQYiY6R7ji9GnVbxQ2QBAOO4wLn1VHuMClI0fMXl0FIsJ3XIB0l3TFBOkqfI69TSYpBBSAEGL39ZgASjAmS6MvVrhaSghS9fB1x0B0sl9l+HaN3Jw4l55FcKQkxKEW/7s4YJN0xZwKYi7Edzk7bLkRAOkqWS+YnNUi6EzcTend67QqD4lAcbX7sSj4pSNHrd4+7w5hVsGXjMHp39JgYmR+AEmJQAUh2liQOZHZnA/UXg/l5N0gGWs4gfbDf6k4EtcLcTlvh/DRKx+lAv79N6PnGjcDkpA4OyOCK2NYdweDNAN0ByLFSXxco/HA7DBct3n+s+tEGxG4Ey4Q3A3SH34l6qbZ6XG2Hyf2GC5eXczVneDeqnBwyGN1BgPogjF4B7PXWC2FyTsn1ogMBQocQ1051if5rrTv2shzR42LwJmo+sHaJ0SuAIejY0/WQHq76EdRy3MwKY9Yadz9bLdW0w/lPGLPWOPObfe0r6/oD3cfISwmZ18sAAAAASUVORK5CYII=",
     "wiki_name": "Hard leather shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hard_leather_shield",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 8096,
     "name": "Low-level plants",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQklEQVR4Xu2U4UvCQBTAvU9RhCIOwROXhyzRhRMxUZrSoDLMDxUEfumL9P//C6/uHec7bRHYnBDvB4/tttu9397brVBgGIZhmEMi4Huk8dv9P2MWHy17GFezAHrJJQTXFylJBV73/DKoTuMQYgLmqwRmqyHGYN7FBFpIH/vNJoY7X9/rxi2ca88zkhLw9H4Prx8LeFjf4KLJS4wVUlE95e0FtMcKw61q/66zkae5e0Pfw/P6EeK3ASbxQ4nXzitnjpRAURlUHQHzbDQxld1ee0+oLSQ3XIQoo8VISkA1KMNp6cQRMs/bcUZVIuziMvSgfetjO3VLbAsbEVVnN/nuOEO+dtK0Dq2JRKHpcrypkKeKW9XJCYEyalTD5BVZwqMeF2umfTkLaag9+p9jK/RTu3KCdpKVOKKMwSY/qgTDMMx/5hM6Fr3nTccitQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABJUlEQVR4Xu2UTWvCQBCG3VOxFEUMgitGFklFU0yRKEqjNNDWYj2oIHjxIv7/vzC6E+KuuiCliTl0HhiS/WDeNzO7yeUIgiAIIk0YXIeJW+t/Jko+mHcxXiYOdMNncPoNgyjDecsugWjX0zDGYLoJYbLxMXrTDgpIQ2ahaK0TNHFv/G7e+2sY/Gw/YbWfwdfuDZOGywArJLya4esZtIYCQ6/q60c7KUMSdR4Wu28I1j0UsV2Oc0/lR02MoVHuVM7mZHijqLIqbyIoc/7MRTPSmDLFoOKUIF98MIhfjhOFAXctaL3b2E7ZkriFdU+vzt043qRxDZojjobG8+GpQpYoZGNImhGDKoqXeRGfclyo6mfqrqj2yH9OXKGMzMToN4kgCIL4HxwAqaqaEPveyU8AAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

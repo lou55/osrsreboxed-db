@@ -1,7 +1,7 @@
 {
     "id": 26233,
     "name": "Ancient godsword",
-    "last_updated": "2024-07-13",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-05",
     "duplicate": false,
     "examine": "A mysterious, heavy sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTklEQVR4Xu2V0WsaQRDGb+hDKBRfKpVcEZMKkUbQJoTUkNoIElNrSEmLL4U0EIIklmpFbJqksSKhhVJK/+NpZtZZ7068yNX1+tAPhj1375zffTO7Z1kzE+AwQhfg2dk1NhoXWKu1woYCPD//hq1WF+v1Dp6ctBnoycKCSahx5QC8vPyO7XaP3SGYvb2qaSDQb+4uB+DV1Q/sdPoaRqAJxiAQSSUiMLnufv050jcCYhhGBNj8+IUT93q/xsJ4nzIo4PL0+7//DRgJaeBQYWgnUZAz5BJF/X0HG82LAehMpQ496h9ypVh8qd0y4JDz7ZxnjXueYKhU+6/fuiCmDjM3d1cDHB6e4sFBjZNub+/qeXGG1o+PmxrI+T/uFwgswK2tkk68svKUx83Ngp6jUpEz1eo7Ped25eaez9fYanenB1UovOA/W1vbcCWl8ejoA4cAjZbo5ij41B+zFljAjZrPFzWQwMh3yT+h31pgqaQ7O6+wXN5nGAGUsvol9FsLKMBl6zEmrAQDSRmldLcBTVlDGNuyMWpFGSiXe65hMpnVwbVxAWbvZBiGQCJWhBOTS1SqSuUN77p0Ojsrl2AExlkmKZ3MGwRSSej75IWRpN7+MQAz3NL0taYdFYvN35IUMJlMDe6ZqgBLiyXcTVYwHU1j+VGZgZaWltG24xrI+5TSONi/lnJifX6dx+wD1aiTJPRbCygFQO5Q0O/FSGIiGEMCzD98xgAbdo5HAQsBhgTcP/F7cXYmdT+FqzF12IUERBruskl7x7gEwBnee/4rbP0BV0TjyZyYjVMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJUlEQVR4Xu2V0UsbQRDGb+iDCCUvDQ1eCcEGDBpIUMRGbGogGI0Ri5W8FFQQCTalSUNIU7WmIUgLpYj/8aczx+7FMznh9O4s9INhk51l53czs7uGEZgItoUuQrd7gUbjFLVaK2wowsnJL7RaPdTrHRwft4MAGlcOwtnZb7TbfckOw2xvV0ese1SR/vLb5SCcn/9BpzPQMKOhfZEViMHU797Pv2H3DaH59YcE7vcvw4ZhkZRnMLh6GjDKVAOHCsMniY0zw1liq3/uoNE8DQPKuvS4fzgrxeKmzpYPMMMbDge5Pc8wXKqdDx/9gFAiTExMaoCDg0/Y26tJ0LW1LT2vMsP+o6PmCCDnB3gWYXW1pAPPz7+RcWWloOe4VJyZanVfzzn36H6/QKvdG+HzJEKhsCGbLS4uO4ISDg+/iNlATt1cBd8GY3yeRdKo+XxxCMiCsd8lt4BuPs+ygq6vv0e5vCMwCtAua6AizBmzSBgJAVJlVL6AgWwY0zARNaIClMu90+XKZBaCgiJkn2UEhkEiRkQCc5a4VJXKrpy6dDobHJATRs2z2aXzHcYKwu/TXZi765yzjyS1OclrzScqFpu6JwOEZDLl4vcsQmm6hK1kBeloGuXXZQGamZmDacbvCejme5CsTCxNLcmYfaka1beAbrIAODts/H86kggLhkXIv3orAMtmTkYF5lwZkEj6J/48LplJvUhhIRbYZTdO9ikLsXf+69/TNTVAiXjv0KdEAAAAAElFTkSuQmCC",
     "wiki_name": "Ancient godsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_godsword",
     "equipment": {

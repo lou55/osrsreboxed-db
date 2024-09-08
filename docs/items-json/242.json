@@ -1,7 +1,7 @@
 {
     "id": 242,
     "name": "Dragon scale dust",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "Finely ground scale of Dragon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xs3V30sUURQH8N333oIeiso2MrIIgygijHzoqQf7nWQkGfYbQZRElkJLpF8IYj+oUDDERMoIoqIo6i879b3Dd/bM2TPrjjuGFw47O3N3z2fPPfduobD2R1H88J6v+ijKk/JpeTR8MsT40AkZG+wIQcTc5GWZneiWmaeXHJT9EQ3DIxBRADEsZvrxRXk5fiGRGO/xzEYSlQlZlIm7Z6pQeAWEQdDzsU6ZHDkX5uLVA2G+Rv9cLMv3+YGVoQjCNatD0OuHXQHEuWkgfO7HwrD8XhqVP0sPAgg5WpuaQtjsZkRl568mCEk90NT98zEI1x5ofqonAcI1QTa7GcXEMiARmxvvLQjJgeDypoEWX/TmB2KVcM8DsZIEoWoW9OHV1RiEyARiX1gQkluQbuhaoI9vriVB7+40DsJ9gIhiJfWOTAN9mr6RLwgBgAbZhk4DYe6X2dsx6Nf7e9l2mAZpFL7cA0VnSSU80Ne3fS7IZk8Z0RcjWS0QT+jth3pl2/4u2dJ6VjbvPRXuWdC3uf6VgqIzCBVaDoQ5mL/raH9AlQ72VFULgfkapA9Fm92MaMt7IARBNqENVGnrvs5ExXIDEYUACHM2thyXTXs64sQbSm2ybn2pCsbIrUK6Smxe9ErpQHdYnrBM/65xDzAAAcU83T8Lz67EIJzSxNQFwg7xQGzg5rZbsvNIX+gbvO44fD3uH+A0hkuMvw1doTqrg1EB2T7iVuYy7D5Wlpb2wRiGwH18RlcHIPxt5AYiCveRAP/aaY3NSloQTmkNIspmd0YE8pbNgvBcn9C49kCY/3nmZgzCGZThHEqC9LJpEM8gjfFAgDcMwi5bDoRkuOeB2GtcrtxAdtlwX4OQ3C4XQZwLELa8BuEMynwOecumQbiuBdL9kwvIWzYNwjOvoRGYp/unQRBG9Xb2wvYPw4JwKGoQIwOoUOCxXissUIfun1xA9Q6LrAfLqMz9T8MivbCfWdPjL4gcoKxPT7y8AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xu3V30sVQRTAce97b0EPRUU3SrKIgigijHrwqQfLfklGkmG/ESQx5FL0QyQrBLEfVCgYYiJlBFFRFPWXTX1nOdvZ2bPXu3e36KGBw907O3fnc8+cmW1p+fdbxdlh3f/jreIe1I668ZEjPsauH3ajQ50+BDE3edbNTvS6mYdnDFT4JwrDI5CgAEmEmOn7p93TsVOJifnOvTCSqFzIipu4cSyF4hOIhIAej3a7yVsn/Fg+LRDjNfrrYs19nr/WHEpAXEt2BPT8Xo8HydgsEL/7sjDivi/ddj+W7npQLgwPlX8tICa1QFN3TsYgri3Q/FRfAsR1g6BKYhmYSIqb7yGIyUHI8maBFp/0lweSLNFngSSTAiJrIejNs/MxiMgFkroIQUwegnRB1wO9fXEhCXo1XBxEPyBBSSb1jswCvZu+VC6IAKBBYUFngRj7YfZqDPr2+majGFoSpFE83AJFD/8dFujjy4FmQbTowUxWDyQn9Ma9/W7Drh63bsdxt3Z7l+8LQZ/mBpsFRWcQGVoOxBjGbzkw6FHVPX2pbBGM16Ach2K05S0QIaBwwjDI0vqd3YmMlQYSFAGIMavbDrk12zrjiVdV292KldUUTKK0DOksSfFSK9XdvX55/DL9uqYPGECgjNP1s/DoXAzilG4QQ4t2iAWSAt7cfsW17h/wdcPnpn0X4/oBpzGyxLw2dIaaAoV1JFtZlmFrR821HRyKYQT9/EZnBxCvjdJAgqKfCXhrZxW2ZDIEcUprUA5UBLKWLQRxX5/QXFsgxr+fuRyDOINynENJkF42DZIzSGMsEPDCIHbZciAmo88CSa3JcpUGCpeNfg1i8nC5BCRjAbHlNYgzKPc5ZC2bBnFdD6TrpxSQtWwaxD2roAnG6fopCKKlt7MVYf1IhCAORQ2SyAFqtKWRErp+/iKoXksj0/G/FWs/AT4YViDjAHzdAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon scale dust",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_scale_dust",
     "equipment": null,

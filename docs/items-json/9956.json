@@ -1,7 +1,7 @@
 {
     "id": 9956,
     "name": "Kebbit",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "Almost invisible in the sand.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu2X70tTURjHPS9iTMKQRmHSUmMJKf6iZtKsibYYihlSlFEhSEYhlVQUklhUGFLRD4KoF0EkRW/7B/rLnvg8h8d7d3VRerdB9MDBuXvuzmff7/c8566u7t8oJ37UtAzCyb0rR+TaVG+toDzEmwcn5MX9YVm8flRmz/XI2NB+6W7fVS2oQI2fX6Zk5e6Qgty8fFhhpie7pK9jt7S37ZRMurHSUE6Wb+fl1cKIvH90Uh7O5dQeQAA6W2yXwUPN0pFJSWtzgzSl6hWop6WlElBOAeanszJzplsXx5rzowdVFcAmRjJrMKnGpNQnt+mogEpOVQFo7mKfwhSPtUk+m5bJwgG5MN6hkAM9exSEsaMhsQZkSkU/dZPl5OOTolp1Z6ZfFwcGa8gKKgF46XSnBjkMg1IMshRTnpx8fz0h75YKqg4qYAswLM4iwwP71qAABGhv03YFYQ6q2fwY8uTk68tTuq1Rh0WxiQ9vS6clmUhIIdeqOTIgdle2q0lfA4KlQPNeDHlysvp8XPPDLkIdUwYlbPszvq3kZHG2U8EXrg7ozsNGLAYWKCC3qJKTzytj2vQIM0AogB32bf2H+w79Yalf/9KXgLHexGtURCXytQWVnHxaHtXmZ0CoE+4vBkS+frzNy7NbvZo3lOEegLjG/9hbet9flwdih5llqBOFQRGCjY2ryzl5fGNQFeGadW+A7L1Nwlg5eTp/XL8tAQ0DhedYcLHUW+IH6phlMe00KligvOROLaFTs+1tLnZbsA12/b2bKIPYGIYKgNnu4V1IpsqrG3v5RelVZIkzDTWC48JpKwAIS2M+RqLlLQGEjJEVgh/uNxZ8a6qx2ra+vDIoQGg54zgqSmGCucCGrwfXYisPZAcultghuvGCTucF+apIle7AjdUpnUeLsICXzompojswahWDJ0zyhkK0hvLgFS1vKY2VM84y9HtbK1r+Gdyet6Mnfk2ArFNz1tkPgBqpY/Wnoa9iRQNfU5j/Vc36BXj4cZKX40jJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xu2X7UuTURjGPR9iTMKQRrGkhYs1aOIbNRvNmmiLoZghRRkVgmQUUklFIYlFxWJU9EIQ9SGIpOhr/0B/2R2/+3B2zG1+aM+zQXXDwbnn2c5v13Xd99k6Ov6OMmJXW8tBGLl35YhcmxtqF5SFePPghLy4Py6r14/K4rlBmRrbLwPpXa2C8mr8/DInlbtjCnLz8mGFmZ/tl+HMbkknd0oq0R02lJHy7YK8WpmQ949OysOlvNoDCEBnS2kZPdQjmVRMenu6JB7rDBPIKMDyfFYWzgzo5lhzfvKgqgLYzESqChPrjkpndJuuEKCMqgLQ0sVhhSkdS0ohm5DZ4gG5MJ1RyNzgHgVh7eiKVIECVsrIxyclterOwohuDgzWkBVUAvDS6T4N8kYYlGKRpYDyZOT76xl5t1ZUdVABW4BhczYZz+2rQgEI0N74dgXhHlRz9wcC9PXlKW1r1GFTbOLNk4mERCMRKeZ7NUcOiO7K9sf1MSBYCjTPBZAnI+vPpzU/dBHqOGVQwrU/61slL6uLfQq+cjWnnYeNWAwsUEA2DfS5MqVDjzADhALY8funtRP6w9qI/mUuAeNmE49REZXIVxNQRj6VJ3X4OSDUqe0ao/n68bYgz24Nad5QhtcAxDX+x94mYCgLRIc5y1BnMwyKEGxsXC/n5fGNUVWEa256A+Se86/9ozLydPm4floCWgtk73HBxVJ73S7UcZYF1GmU36DxGxq1hElN27t7sdsF28O2pDww7b6xC8lUY3UDL7sps4oscaahhg++0VEAEJbWNkSgZS0BhIyRFYJfO29MdaiGbJtVBgUILWccR0X9DY3CNr4eSFkgd+BiydaHqNH7fL5CKR9mv+qVv86IaFHA65WF4BsmeUMhRkPbYLCUwcoZ5zK0ta2hlv0O7r5vB3TiN1N+UnPWuR8AbQSiNge+rTD/6x+vX12iLMLLmhDGAAAAAElFTkSuQmCC",
     "wiki_name": "Kebbit (unobtainable item) (Desert devil)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)#Desert_devil",
     "equipment": null,

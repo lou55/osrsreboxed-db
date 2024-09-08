@@ -1,7 +1,7 @@
 {
     "id": 20179,
     "name": "Steel full helm (g)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "A steel full helmet with gold trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADfElEQVR4Xs3W+0tUQRQH8F1ElvUHQxKhfjANDMTwET4xSzAxUzRfmab5ymdabJYitmYlUiaGmIWFkiEqUkYQFUlRf9mJ7yxnnXvutOy6t3DgsLP3zt357Jwzs+tyHf7mJnOY7v/z5qZnkw30dKJOxez4ZZq5W6uCERuLXbS+0EFr89cNKPklooYHQIwCiENiVufa6NVsq2VivMc9GVZUREg3LfgbbSi8AsLBoOWZq7Q4fUWNxasJhPE6+sfOJH3fHD0YikHo8+ow6PWTawrEYwHCsxKE5/a2J+jX7kP6vftYgTAuOyVFhZxdtMCy87dmECY1gZYeNat7/O2bimJtqM2lbgsIfQbJ2UVzW9KAibi48V6CAAcIz+2OxdH9Jg/VF9hBOy97nQPxKuGaCcRpejviJV+1h2ryYijtmMuC+rDSFwQhIgJxXUgQJpcgHofnlnu9CoM4kWQFfXzTbwVtjUUPwnWAGMUryfXzvMtL7edjqTLHDvq0OugsCAGADpIFXXAqRqVMgjD2y/pwEPTz/VQQEzFIR+HDTSDc4xpaGfDadhnGfn13ywiSs/+lBbYvJgsF0gsa9bM3HUeDF2OpNCPGBvq24TsoKHAGYYVCgRiNqKuspLKSEirIyaHjCdba4Wd0kH4oytlFC2x5EwjBH45x94aGaKSnm7pbWqippoYuXSijvOwsOpmcbFsdR0GMQmACjJl/MEVzfr+KwY4OamtsoOrycjqTmUlJiYnk9XiCKEdB+irxaXy794aacHx4mEYHBuhmV6dapXOFhZSWmkpHExJsK7T9oicIwinNmLBA2DkmEP/F8PX3KRCir71dYdBHuk6np9OR+HgLCKuDnw19hcJcHbR9kKwjXOfaYRDSBRT6pcXFKmU6iNOFnw3HQIxiEFLFIBQ1UOgjZdhlWRkZNhBOaR3EKDm7oQVAprThGibQUagnoNA/m5+v0iZXCH87Pq8NBUE4gyI4h6wgPW0MwgSMaq2vo9qKCnUGFeXmqqLWQVidqEHYZeGApu74qLO5WW131A+nSqbLMZBMG64ziM8jFHRDVZWqH7zn4uexAGHL6yCcQRGfQ6a06SD0+TeMgw9PPKfXjyMgU9p0EO7pf0vQZxDG6fUTJQht/1uHCh2jhwThUNRBHBGAXC4+1kOFBOqh148joHCbRIaD5dgf+5+aRJpCPnOo2x9eQmkGDeslNgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXUlEQVR4Xu3W70tTURgHcIeMMV8Ykgj1wjAwkIVm+BOzBBNbymxOM82lzja3pcWyFLGZlUiZGGIWFkqGmEgZQVQkRf1lT3zPeNa5517G7naLXnTgwbN7z/V87nmec7acnH+/2cg4jO7/8Wajx9M+ejTlFTE/eYHmbnWIYMTW8hBtLg3QxuIVA5T6ElnDEyBGAcShYtYX+un5fJ9mYnzGPTW0KFNIGy3Fu3Qo/AWEg0Grc5doefaiGIu/RiCMl9Hfdqfp6/Z4ZigGoc+rw6AXDy8LEI8FCM+qIDy3vzNFP/bu0c+9BwJkCoO35LdmECY1Aq3c7xH3+O276+061PZKQANCP02QTZMGTMTFjc8qCHCA8NzeRB7d6XZQZ60etPssaB2IVwnXjECcpldjToq1O8hTnUulh3I0qHdroSQIYQrEdaGCMLkK4nF4bjXoFBjEkSIt6P3LES3ozUT2IFwHiFG8klw/T4ac5D9jJ3elHvRhPWItCAGADFILuvZYrkiZCsLYT5ujSdD3tzPpYtC0IBmFf24Ewj2uobWwU7fLMPbz6+uZgtAS2xeTpQLJBY362Z/No8g5OzW5cnWgL1uxTEGJMwgrlArEaITX7abmxkaqraykwwXa2uFnZJCJQzGx5Y1ACP7nGHc7GqWx4QAFenup2+Oh82ebqfpEBR0tLtatjqUgRiEwAcYs3p2hhXhcRGRggPq7fNTe0kIny8upqLCQnA5HEmUpSF4lPo1vBK+KCSdHR2k8HKZrQ4NilU7X1VFpSQkdLCjQrdDO0+EkCKd0mhi0xA4zAvFPjNhISIAQIb9fYNBHuo6XldGB/HwNCKuDrw15hTICqXWE61w7DEK6gEK/qaFBpEwGcbrwtWEZiFEMQqoYhKIGCn2kDLuswuXSgXBKyyATqATIKG24hglkFOoJKPRP1dSItKkrhJ8dHzeiSRDOIBPnkBYkp41BmIBRfZ1e6mhtFWdQfVWVKGoZhNXJGoRdlg5o5maMBnt6xHZH/XCq1HRZBlLThusM4vMIBe1raxP1g89c/DwWIGx5GYQzyPQ5ZJQ2GYQ+f4dx8OGJ5+T6sQRklDYZhHvyzxL0GYRxcv1kCUL7/dapQsbIoYJwKMogDhOgdJseySHXz18EpWp6pD7+t+zaLxQ+HnqlA6X7AAAAAElFTkSuQmCC",
     "wiki_name": "Steel full helm (g)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_full_helm_(g)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 7851,
     "name": "Mogre bone",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-04-10",
     "duplicate": false,
     "examine": "This needs a good polish.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2ElEQVR4Xu2U4UoCURCFvW/iE0T1KwhMCINMIhExy0xExCwTERGzREQUs8QUkRJ81Ykz2+jFDMJyrz/2wLDrsuv97jlzx+Vy5MiRUSmyaiOkaHdni/z+wy8oo3CKvN59Oo+cUSh0QhfRIKXTV1QopE1BKQZIJqMUj4cpFgvRTeZ6BrTtdtsNpRgEUAKWyyXNAoXDp5RIRNgZwOTzKS0yW2OzYBATnIFD4g4KYKnUpV1gFgwWxMLFYoYeKvdUqxWoVMryMxQAb7MJbvo1gs1hAFKvF6nVqtBz54nvAYbnAoNCnIg1EPD9ALbs2a9lnaxGo8QQg0GThsMW3zebZXapXL7j2AAjDQ8oXDEePJ49DUxRMHjMI+MPYIodAMB0+sYO6Qs8VvOz6ACCHkPBVRQWP/Id8ECVU4p38Q02szKUXjjiUvpzgGNBRIbFcUUBEA4iXmwAm3vp1vg3XFwJSodYnDnL4AAEd3Ay4RTcgzNwRVoAG9A3qP/nv2kZHGCk1wCB3pPo1wqzKAFDXDIq5AqXBGjxuzVLcVSAQN+021WOy3Z35lLcxL1encfGaNTmMuQOpKjfb/D8Go87NJm88vgwCATNoT7euybj0vV9ji2+YbsEZCNgHDkyqU8D48sphIuDdQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuElEQVR4Xu2Ua0tCQRCGPX8oqE9BYEIYZBKJSFlmIiJmmYiIdBMRUcwSM0Iq6K9OPHPajllBdHH7cF4Y9rhHnWffmZ1AwJcvX1bliBv/Qo4szM9JJLLyAmUVzpFQaEm2tzYlHl+XnWRM8vk9qVTytqAcBchmk5JOJySVistBYd8uECBAGbBSKWsXKJHYkExmS50BplzOTQDNFMqFoUw4g0PGHQKwXG53VmAuDAlJXK0W5PTkWBqNitRqRd0jADwsZrTp/xDMgwGk2axKp3Mil70LfQaMfQNDUE7KGo2GPwH7aO/Lcm9Wq1VTiNGoLbe3HX1ut+vqUr1+pGUDxjQ8UKyMh2BwcQLMkVhsTUfGD8AcdQCAp6cbdWgywflZ+bV0gNBjBK4SJF8NL+tANbeU7/IbDvNtqLfx8TvASUjJSM5KAIiDlJcDcLirfkM/4+L7//w1eXAA4Q43E6dwD2dwxbQAB/hDmGl5cMCYXgOC3vNKP3M5Wi4zKsyKS9aAKBUQ9E23e6blsgSDHG3iwaCpY+PurqthFWg4bOn8Go978vh4rePDIhDyoB7u+7ZhjLxbN/3Gly9ftvUMMA+gJ/XIK1QAAAAASUVORK5CYII=",
     "wiki_name": "Mogre bone (Unpolished)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mogre_bone#Unpolished",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 5112,
     "name": "Acorn",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-06",
     "duplicate": true,
     "examine": "Plant this in a plantpot of soil to grow a sapling.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB50lEQVR4Xu2T3UsCURDFvQ8RiijioqyLm4tYiKEmJAgJRl8UEkJRFFEUBIIPRdBDb/3nE+duc/fumrqa4ssemCevs785MycWixQpUqRIkVYtQV6tXYLMbILSyU1KxDfWDSVox85SxcpIKCMdDwmlO7o0ZwU1yjlV7W6aqvUEFZ1ZTgna3UvK4iHg7uT3oSSoUytQt27R4D5PF9cG9c6z1OqkJNTfTrlO4F33JEOdw7R01jFTEgy/NUulRaEE9TtlehgW6ObZVFAofAzT89TuRwS9vFn0NLLo8jYn350NDDruZ6nmGArsHy4JOt13aPhpq3r9KEowTI7mcEkHGn3Z9P7tjA3R2s4rqAVc8h/i4KCiYOAApoZDenMGgjt4g2Koq8c8taumvEGEYw4gFwBr4NLB8BE0x8RYgx/G68FAGACAR60teYfsUkggIY+10U5SMeeV/xD9zo3DeL1QuD+4i7X3mrYMCKBCAAl1fJwOXgmg9AYMMRnGFQ8Ad9ghrG36IEpC7lpPBcCwb07FjAZTFNZVJaF2jUToccURLpgKn8K6+is3qkgRJ0IHm+MIlyU3qijEFHX36sYVR6hHNfjPFcqLKsOhOKohd79suUeHiCIViGkQKPiPlYujGqw1uONXMBVrhYmk6QdJZJU+O455/AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzUlEQVR4Xu2T3UsCQRTFnYcIRVxkF2Vd3FjEQgwtIWEhweiLQkIoiiKKAkHwoQh66K3//MaZYcbZVmv9anvYA/dpZ2Z/99x7UqlEiRIlSpRo1WI0rtjFyDYzZGTXKZNeixuK0ZZrUtXJcyjLSEeE0h1dmrOMmpWCqnbHoFojQ2XvN6cYbe9meckm4O7085HEyK+XqNNwqH9XpPMri7pnJrX8HIea7JRwAuc6x3nyDwzurGfnONjCQD2/QvfDEl0/2QoKhZ+h+2DXjJ5fHHocOXRxU+DnTvsWHfVMqnuWAlsAitHJnkfDd1fV4K3MwdA5HodLOtDow6XXTy/URGuzqKDmAAouYn+/qmDgALqGQ+HHGXcHZ1AS6vKhSO2azXcQ4ZgBSABgDLJ0MPwEj6NjjGHyw+IcCg0A8LC1wfdQujT5XkiML2uznaVyYVzBRQw6F7yvS3zH/sFdjL274/KAAOrnu1xMLZ9MhxwJoCI8MEWMuyMdwtgivsX4rPVUAAzzXjAVqeiuKjE1ayRCjyuWMLy4K5eIKlIkE6GDzbCEy5KIKgoxRd0ORFyxhHNEdRkaR1XCoWRU/xhGSiwdIopUIKYxA0l9T0WsMIn+t74AlpRZCAlDNesAAAAASUVORK5CYII=",
     "wiki_name": "Acorn",
     "wiki_url": "https://oldschool.runescape.wiki/w/Acorn",
     "equipment": null,

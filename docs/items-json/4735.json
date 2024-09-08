@@ -1,7 +1,7 @@
 {
     "id": 4735,
     "name": "Karil's crossbow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-09",
     "duplicate": true,
     "examine": "Karil the Tainted's repeating crossbow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xs2WfUtUQRTGd4n+aBFFXFp0abWFJUSQvoZ/lRQVFUVFRRFBFIVIkSXSG4LYCxUKhphIGUFUFEV9sqnfXJ517nF22XVv4YGHnTszd8/vnnPm3JvLbX/Lu7hi6//c8u7x5CH3cGLca+bWQTd944CXIJbnzril2dNu8cmpCJR9iI7BEyBBASRZmIVHJ92LmeMpx1yzZpWGagsy72ZvH94ExS8gkoCeTR9zc3eP+L38xoDYH0L/WJt031aubw1KQIwVHQG9enDCA2lvIyDu+7464X6tT7nf6/c9ED72Dw15We/GkrDrqQWE0xjQ/L2jdSDGMaCV+bMpIMYCst6N5VNpwJGKm2sLhHMglN5GQGvPz2cHpCgxFwKpHtgX1gdRs0DvX16oA6G2gFQXFognB0iOK5VeNzDQ48cjI4Neo6NVf22BPry+mAZ6e7NzoBCkVOpyfX0F1929yw3v27Oh4VIU6OPCpeyABEI0gCgUdqZUq5W9urp2RIFI7+elK3Wgn+/u1GHaBuJakbAgqFrt9wIWIKQHCPXlzdUokPXewJI/4cSEBTs+NpZyMlgp1SWYWm23TyeApLa6t+jn2L9FoKQHESEBKW0CUmGXy0UvHAsGKXpEFTigQqCwKVrvxpIjHwOyUID09/d6hdEBjnVBZQ4kKESBCgqQYrHHO7Mw2oeoP813DBRGiV8c8QpgHzBA4SyEsSJtIRBdWjAtAXHCYkB6HcSAiFgzkbYwQi1GB9sAsnWk14GA6Df+2P9NmXpPM31dvpYNkKCYDx2QJmD06qDow0iqIXIi6dIhkKCs94glQLG0sQaAJCDmebU0AiKinxYv14HoQW30oTRQmDbWwmanyAgmBkR0OgbilDUD4hirSPUNFAKp1pSuzIBs2phP8p4I5yGQehX3sVdAq0/PpYDoQW33oVja5IQnZtwMKKyfTIBiaQuBWNN3kgViX1g/HQJhm3tITLZ+JAvEt3QIJLUBlMuprTeTBQwV1k8mQK2ahWwFVtrY+5/MQsZk79nW9gd5sAVpAur8ZQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4Xu3Wa2sTQRTG8QbxhaG0lAZDGkwxEKQU+j36SouioqKoqCgiiKKUongpxRuFUi+otFAptRStCKKiKPrJRv+zPOnZySRkkyi+cOCQvUwyvz1nZjZ9ff9+y7l4xO7/8ZZzD2f2u/vTUz7mru9zs1f3+hBideGkW5k/4ZYfHY+gwofoGp6AhAKkCDFLD465Z3NHUgNzzr0w0qhMyJybv3GgAcUnEIVAT2YPu4VbB31fPmMg+lv0t40Z92XtSmcogThWdgR6ce+oB6lvMxDf+7o+7X5s3nY/N+96UCYMP6qnFohBY6DFO4fqII5joLXFUykQx22CcqkyMJAmN+chiMFBqLzNQBtPz/QOpCxxzYI0H+hn5wdZC0Fvn5+tg4hMIM2LEMSTA9LAlcqQGxkZ9Mfj46M+Jiaq/jwEvXt5Lg16fa17kIUUi/1ueDjvBgZ2uLE9u7ZirBgFvV863zuQIGQDRD6/PRW1WtlHf/+2KIjyfly5WAd9f3OzXQwtDeJcmQghRLVa8gEWEKEHsPHp1aVOQbTkR1gxdsJOTU6mBhmtFOshTK2205cTIKWt7i74a/TvEJTsQWRIIJVNIE3scrngg4GFIZQ9sgoOlAVl2BSTJR8DhSggpdKQD5sdcNwXqucgoQgmqFBACoVBP1iIUT+C+afrXYNslvhkIF4B9AMDisEsJgzKZkHs0m1iaMkKi4H0OoiByFiroGw2Qx2Bwnmk14FA7Dd+2f8umfaeVvF59XJvQEJx3Q5AmcDo1cGkt5nUhsiKZJe2oAyoBBQrG/cAKATiOq+WZiAy+mH5Qh3EHpRhH0qDbNm4Zzc7ZUaYGIjsdA1ilbUCsYw1SfUfyII011SunoHCsnE9+ZEkGNyCtFfxPfoKtP74dArEHpR5H4qVTYPwxBy3Atn50xNQrGwWxD39TwpB9LPzp0sQbassrSKcP4oQxH9pC1JkALXbGpEKO3/+IqhVa0Q2xv/WXfsFL6y6zkKj+fIAAAAASUVORK5CYII=",
     "wiki_name": "Karil's crossbow (Undamaged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Karil's_crossbow#Undamaged",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 625,
     "name": "Wampum belt",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A decorated belt used to trade information between distant villages.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByUlEQVR4Xu2WS0sDQRCEnWPAoxc9SFAUfKBRMDEYXwSRoEhQMb5Qg4qoCCIIgiAI4kXwN+SQo/+xpWaocTKCt+nNwYKiZyeE/rZ6d5Kenn9lLiPOXSEj9cqIFMf6uwHKSLM2JbXSkIUBWEZQHJGRo7UJWw+q47JZHpbyxIA2lJGrrUKHkRLAAITPd5ZGtaAczFmjYetkri0XG9O2nqxPWjAYo1spDKaGcjBfrVYHDAAIg32sMT5UfKeQz6eAMnJTn5F2X85WJkQgwt1tz/pnizAJgBwMHSfEir0QIhkM7hrJoAIGUEyHSaFiP+GIIAcTm28W4VgTjghyMPe7c9a5dq9PKoTgdXIYgoRm8zgxFZiHvaI3rtkcSRFODQZNY8dpqcHgzmFAMJ04LTg5DBs+7pe8YzgCqcCwOd4eGGtAcWQEUoEhBA2Qp8N5nxSBEsNAxp6woQECE4zJqcCwOX6LQodJwQowkJHn47KHwBpmUnyGFGB+/hq8nC54h3BMSAXm/XLZjum1WbENw4RQmZACDGTk7XzRw6ByVKGVYCg3LiRFMCTGA08ZBjLyeVu1QHyO4jNGEYZySXxcr9p0Mkjlt1zzTEb0t7KC+QYcHmJ/p2lxLgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuElEQVR4Xu3WO0sDQRQF4EwZsLTRwkJR0ASNgomL8UUQCYoEFeMLNaiIiiCCIAiCIDaCvyHFlv7HK2eWM06msJu7KbxwmM1azJczm8RC4X9yHyNZ+mKMtOrjUp0c6geUkU5zWpq1UYsBLCcUj8jI8XrJroeNKdlKxiQpDWujjFxvV3qClgADCH/fXZ7QQmWY83bbruViKpebM3Y93ShbGIKjW62MxEZlmO9utwcDADG4j2scH9aIICO3rVlJB4t2ZUMEEXe/M+eeregYJmyIK+5FRHCMfddoBiswQLEdNoUV9yODMkwYfrKI46qCedibtymmA64pH8HX0TGE+OHmYWMqmMf9qgtec3M0RZwaBpuGCdtSw+CdI0CwnbAtJDqGGz4d1FxCHEEqGG6OTw+Ca6B4ZASpYIhgAHk+WnBNERQZgzH2G9YPIAhhbE4Fw83xW+THbwpRwGCMvJwkDoFrhE3xGVLA8N8CI69niy4+jg2pYD6uVuwxvXXqdkO/IaxsSAGDMfJ+seQwWHlUfpQwnOy40BRhaOz3C08VgzHyddewID5HSt8xf03WxOfNmm0nZ4w/uRxRf84PSgka0R0wmLsAAAAASUVORK5CYII=",
     "wiki_name": "Wampum belt",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wampum_belt",
     "equipment": null,

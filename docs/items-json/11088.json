@@ -1,7 +1,7 @@
 {
     "id": 11088,
     "name": "Inoculation bracelet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-30",
     "duplicate": false,
     "examine": "It eases diseases!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDElEQVR4Xu2VX0cEURjGO5Ix45i+Qh+h2z5AuusuIiLqoovKspSUkq2slmX7Z1NEqVhWS6UspWLtxRJdRHSRLiKiiz7A2zzn7ezOzu5lZ7aLeXjNOGdm/OZ5/5y2tkiRIv0rCWqMlknQzKhFqzGLJmRHNVoEJSgxadFavB4m0WkpoO6urjChBKWnbdqct2kvYVdhYq6lgPrt9jBdEgpkf8Wm45RNubTTFChEKKFg8hmHzrcdKu4xkIbxA4UAJSgzyzCXOw6VjiRVclLB+IEQSOn4YAf19hiFEqpmNMxDXtLzhaTXoktv1y49nkq1DtfwDAIdONBnrPOEqpkgjAZ6ueL18gmDwT3co+bGBgxCaRgAaJj3W75iHU4BBHt4BoEfiY/wSAh+8Q8kGmA0EALuYP+74tJlyqG7dYce9yUVNhyKDRuBYiA/zMc9X5GmzJQ3Frzizy15nZhkoMqupKczSYdJb24NGUkfQwFEB4AwCjZj3sCcrgHdeF1ZzkrlElKHdzHJDUxzodL2WeJA7aALs3F26HjBrgOCo9lFuwoU/NofiaG+yq5qd7Q53DmcY4cKKz6HPGDsGwaChEoZ6kcdK7/u5Jc5ZcU0A90dGE1XUOwUzje/O+gyOFTa4i4LwR0tdgnTGU7oWYVCxz3WcQaGCATx0ET3aRBu71qElC6/mgP4I/iGcbUcIFKk/64fQYgNY+Rna84AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB8ElEQVR4Xu2VT0dEURjGOzKuex23z9MHSLt2ERFRixaVy1BSSqZJimFqyqRhaFQMo6hMhtLEmMUQs4hokRYR0aIP8Haf83amW9OmxbnT4j687nHOWfzu8/45XV2RIkX6VxLUHh2ToNkxi1Y9iyZlrBUdghKUmLJoPf4dJtFjdQJIUGrGpsyCTbmE3YLxXEsBDdjdYUIJBZJP2nS4YVMx5fwKFCKUUDCltENnOw5VcgykYYJAIUAJSs8xTHnXodqBpEZRKpggEAIpnRiKUV+vUSihakbD3JYk3Z9Leqy49HTpUvNYqn24hjsIdOBgv7HOE6pmfsJooIcL3q8fMRjcwxo1Nz5oEErDAEDDPF/zF/twCiA4wx0EfiQ+amwkiDYYDYSAOzh/b7hU3nCouulQMy/pZMshb8QIFAMFYV5u+Is0paf9seAXf3HZ78Q1BmrsSbo7lVRY8+fWsJH0MRRAdAAIoyDj+QNz5gvoyu/KelYql5A6AzBaQqXttcaB2kEXZuPs0OGi/Q0IjmaXbJNAEEO91V3V7mhzuFOYZ4dOkgGHfGCcGwaChEoZ6kc9K5/ulFY4ZZUUA1X3jabrp9gpvG9Bd9BlcKi2zV0WKhBcwnSGE3pWodCxxj7ewBCBIB6a6D4NwgDBCF0dB4gUKdKf9QGrqPCoxAqghAAAAABJRU5ErkJggg==",
     "wiki_name": "Inoculation bracelet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Inoculation_bracelet",
     "equipment": {

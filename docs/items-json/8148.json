@@ -1,7 +1,7 @@
 {
     "id": 8148,
     "name": "Wooden crate",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACj0lEQVR4Xu2V7WsaQRCHva+l5IvS0pTGnCFKtKiRaAy+VNH4FiEGY2pNmqYvIW1KaAmUQqH0T5/yjOy5HoVCc6ZfHPjB3d7czrOzM7uh0NKWtjS/OTLTf7MZxF56VdzVFUlEw/cBZa9+ptrOmhRSTyQTf6TPqJJ9KqlYZJHZcqRf2dBgua3H0ihE9ZmMEHhQ25RW0VWwtPtg7n0B2XLk2/t96RfDcrKfkG4pphkgI/7AQJvsFBIPZdiI63fA5zN7J3Pkx1VHLo6KclyJSDcfngtEcN4BJWvnB8/lVTupYwDidz15Ie+OSzLpFyTlrtwVypFfnw/k47gqrw93ZdjalkEpIqfd1FzGbBAyhz+LGPd2vMwwNurk9Dm7vv6vUFOgN52YTg5Qv56Wdjmp22hW3qumdHzQzKgPgfHn2+VJWW7OapqpQIFuzwqqYtaVXPKZBhnV1zRwNb8pzb0tBQUOMMYBBoQ6DBzo7WHag0J+oHJuQ+q7cc2U7Yf4P1Cg05ardUOtGLAv5w0FYlsA8kMsHIgipnARYAaIYgcIUMYR8PjxD1oI0IejjAZFBLm9aMq4GdVuYqtsAONnFDgQgW9e5uRqmPXADBCFS0EzxjcjfNH1aFsXFDgQ2/B1ktcABKJzDBDdxTgCHOGLqKHAgQhktoTDj4AAEYhzhla3AexMkbnAgQhquoyTmBP6+2XbA6LV7Roz8oo8OCBseuzTTdxPAJElG4iD0BS06URbZDRAIMzRbmJC7i4uUi5dugdYrgsuUiP8OJ+oL75zRAQMhE0vSbaHq8MPRKdRSzxzerMAc49Rb+Z/YAICCoWmE00n/vmp5wH5YYyPLQMSGIxtNtifZAdfKIjf/AHvNfjSlvYX+w0g89iDXM/ZegAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeElEQVR4Xu2VXWsaQRSGs7el5EZpaUoja4gSLWqWaAx+VNH4FSEGY2pNmqZJQ9qU0BIohULpTz/lOTLrurcZUwoeeGF3dnbfZ8+cM7OysoxlLCMcjsz0z2IGsZdZE3dtVZKxyGNABf9+ptrOuhTSLySbeKbXqJJ7Kel4dJHZcqRf2VAzb+u5NAoxvSYjGA9qm9IqugqWcZ/M3S8gW478uNqXfjEiJ/tJ6ZbimgEyEjYG2mSnkHwqw0ZCnwM+n9kHhSO/bjpycVSU40pUuvnInBHm3ANK1s4PXsu7dkrHAGTe7eSNXB6XZNIvSNpdfSiUI3++HsjncVXeH+7KsLUtg1JUTrvpuYwFQcgc8/mJcW/Hzwxjo45nB+hDJ64fB6hfz0i7nNJlNH/eq6Z1fNDM6hyMmc+z65Oy3J3VNFNWge7PCqpizhUv9UpNRvV1Na7mN6W5t6WgwAHGOMCAUIfWgT4eZnwoFAYqextS301opoLzEO9bBTptuVo31IoB+3beUCCWBaAwxMKBKGIKFwFmgCh2gABlHAHPPN5BCwH6dJRVU4TJ/UVTxs2YdhNLFQQw84ysA2F899aTm2HOBzNAFC4FzRjPjJiLbkfb+kPWgViG75O8GmBE5xgguotxBDhiLqKGrANhZJaEzQ9DgDBin6HVgwDBTJE560CYmi5jJ2aH/nnd9oFo9WCNGflFbg+ImG77dBPnE0BkKQjERmgK2nRiUGTUIhDhaDfxQc4uDlIOXboHWI4LDlIj5rE/UV88Z4uwDERMD0mWh6MjDESnUUtcs3vzA+Yco97M++GvWojph39/6flAYZiZeVALj7Dho5ovYxn/X/wFrVupNKteGPEAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

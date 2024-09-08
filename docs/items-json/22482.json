@@ -1,7 +1,7 @@
 {
     "id": 22482,
     "name": "Sanguinesti staff (uncharged)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-06-07",
     "duplicate": true,
     "examine": "A sacred staff imbued with the power of blood. It is currently uncharged.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs2V20tUURTGZ54k6UV6kBQnmUgYZ5guhBlIbxFCUFJk2s0shXwwohsi3UW6iCB2oUChEBMpIQiKoqi/bOW3D99xneWe6RznFC742Hv22XvW76y19jqZzOa3rPjle/7PLSvPxk/Ik7Eep8nbx2XixjEnQizMXJS30xdkfuq8B8q+RM3gARChAERZmLmnZ+XVZH/EMX7jmVUUKhFkVqbvnFwHhREgFIFeTJyWmfun3F6MPiDs19A/lsfl2+L1jUERCHNGh0BvHp9xQNxbCQjnvi+Nya+VB/J75ZEDgo89ra1O1ruxIOx8awLBqQ9o9mFvCIS5D2hxdjAChDmBrHdj2Uga4IjFjd8WCM4BwfQSSKcHWn45lB4Qo4Q1HxAjCRHg6JHDcnN0RLbU1UlLU5NbIxCUCIh1YYHg3ALpgsbZQq5F9u7aKfvb2qScz8uhzk7p6uhYD/T+Vu1AWAcQoRhJ7CEMQSDMDxbbpae7O30gCAAayBY007W1vl4G+nvlQKEgXaWSDPb1RYB+frgbwiQG0lC8vhaIwIxUaRUEkYEI8+XdqBfIeq9gwZvCWTUgXdA8s72xMZxT2Pt14dpGgYIehAj9DYhRxJl8LhcCILW2KWog3RStd2PBn/mAIB8Q0zQ8cE6m7gVvroGwL1UgQkHsuHCAOfbbgsY5HZ1UgXSUMGog7N1XLruRBQ35gJaeXwqB0KUJEwsIN8cHxO8TgLBvd7EYwlQDAjw+GzpCMaMDWwOydYR1pgnXGiNvWCUgpuvj6+H0gAiFdTxvX+2+GPFcN03MdSQ10Ke5KxEgQlnvHguAfGnDsx3NzW6Ek7hASPHn+ZEQCD0oQR+KAhEK69saGtwIB7zyNl0WCOA1A+GWaSCsXR267Ea+MZzZTwaBWGtMV2pAOm1c10C2oNmrcI57AYQrr4HQgxL3IV/aNBDm1YB0/aQCZNNmgfDMV9AQPxtMV41AsOiXupJs/VAWCE1RA1EJgDIZtvVqsoBaun5SAYprFjIOLLW29z+ZhfTJntnU9geld5QMy6VtcwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6UlEQVR4Xu3V30sUURQHcPdJkl6kB0lxg42EdZeNIsxAeosQgpIi036ZpZAPRvQLkX6L9EMEsR8UKBRiIiUEQVEU9Zed/N7hO5w5e11ndqbooQuHe/fOnb2fuefOnYaGf7/kxB++63+85OTp5HF5PNHnYvrWMZm6ftQFEUtzF+TN7HlZnDnnQdmHSA0PQEQBxLCYhSdn5OX0YGRi/MY1G1FUImROZm+fqEKhBoRB0POpUzJ376Qbi9oHwniN/r46KV+Xr9WHIghtrg5Brx+ddiCO3QiE+76tTMjPtfvya+2hAyXC4E/51ARhUh9o/kF/CELbB1qeH46A0I4JykXSgIm4ufHbgjA5EEwvQTo9iNUXI9mBuEro84G4kggCjhw+JDfGx2RLY6O0t7a6PoIQiUDcFxaEyS1Ib2jcW8y3y55dO2VfR4dUCgU52N0tPV1d1aB3N9OD0A8QUVxJjCGGEATaB0qd0tfbmz0IAYAG2Q3NdG1tapKhwX7ZXyxKT7kswwMDEdCP93fiYlCiII3i62tBBHOlyusQrAyCmM9vx+sFoQRPislqgfSG5j3bW1rCNgNjvyxdrRcUnEFYoc1AXEXcU8jnQwBSaw9FDUpwKAZ/5gMhfCCmaXTorMzcDZ5cgzAuUxBRCJ64mABtjLcbGvfp1ckUpFcJtQZh7N5KxdXc0AgfaOXZxRCEUzomBiV4w3wgfp8AwrjdpVKIqQUCHp8NvUJ1gew+Qj/ThNcaNd+wjUBM14dXo9mBiEI/rneun76ocV0fmmjrldSgjwuXI6AEqADkSxuu7WhrczUmiQtCij8tjoUgnEEJzqEoiCj0b2tudjUm4Ctv02VBgKcG4S3TIPRdGbnkaj4xJrOfDIK415iuzEA6bezXILuheVbhPo4FCK+8BuEMSnwO+dKmQWjXAun9kwnIps2CcM23oRH8bDBdKUEowSdgs7D7h2FBOBQ1iJEAFLdUIxl6//xFUK1SjayO/yVd+Q1bc0mAjhTndwAAAABJRU5ErkJggg==",
     "wiki_name": "Sanguinesti staff (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sanguinesti_staff#Uncharged",
     "equipment": null,

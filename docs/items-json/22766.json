@@ -1,7 +1,7 @@
 {
     "id": 22766,
     "name": "Energy disk (level 3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": false,
     "examine": "A level 3 energy disk.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACz0lEQVR4Xu2X/0tTURjGPb/2bSXWbGxurs3l1mgiJmYllhmKlZommmgWRRRJRBFF0Z/+1uc9vPPsmyL3bkHshcOdunPv5zzPc95zHRjoV7/+aTk5fvSs/AN3HuZkc35EnsymZWk6JcszKZmfSNZHj6Cc7C/lZXcxJ1v3s7J6J60ggPF5YWpYZqtDOvhuLZfrFpRXBZhncxnZXsjqdeV2SsEA5GdTaWp8UEeXVHLyYX2sDoMSZhVgr1euycFyXj/zO1NponhJR8xQjTCLt66qKmv3MpqhN48LcrhZkrdPC7L3aFTVAorvTZYGpZpPSGU0EReUk0/Pr+vqDebBZFKvWINSZuXnrXF5v1ZUtQAl5FgGTDmbkFLmQhxQTt6tFnXVPGCm4sM6V7uiYBZaH1wnX3fK8nGjpHkCeLo8pEDAFNPno4bcPwCrsODuzctqAavmQY0wR3NQ1OYADxAw+dS56ECslqCiBjC1wkUdFtTWm/tFYDF2sggyFAOQkx97FQ0sN8YqQMiCBbRVHT/v90FVs0TmsNaAcsNnowERUnYNATaYMAedb+zky3bjXOaNJM9EA+KmZIEwYxHBPHmVjQqFGYoFiCzQc8gPCh0P5OTn/o36RrCFMC/MT/u5J1YjkG3fzkBOvu9W1GaaKF2cQGOX9Z8IMNQRkB2YBLv9TnHy7UVZuzU9izn0INqDBbp1zqnLA9lxQB6wgFVjAX+3gSr0nvDoYHeZzTGoQzn59bKqUFjAqu2MOtwY08ERQXhRhquBY7G1idCu5iecsv7ullc1zQUPpB9xHNAkCSxqAMGV5mnAwPDqQeawKyZ1rPyusUMTEFMF1cgLPwPLYRq+nGFX2ECb7xyhfGBRwdRgAAMIkGHGyI6dczGrE5Y/MBmWF+CwyV5jscrUCUG6AGPlobAKGKxCGaziRc3U6aIq7ar5X5zW0UMYX6EVnUbznH799/UHH1iNY6Fwc0AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xu2Wa09TQRCG2a/eqgQtNC0ttaXS2lhCkCAqQREDQQUFCZeAaDRGIzFGYzQaf/roM5spPZFzqLItXzrJ5LSE7T4z77uzp6+vF7041XCSnF0Lv+HWg4Kszw3L45msLE5lZGk6I3Pj6WZ2CcrJ3mJRdhYKsnEvLyu3swoCGJ/nJwdlpj6g2WEg3xVgns3mZHM+r8/lWxkFA5Dv1qXJsX7NDkE5ef90tAlDJ0wqwF4tX5X9paJ+5m/WpfHyJc3AUFGYhZtD2pXVuzn10OtHJTlYr8ibJyXZfTii3QKK/5uo9Eu9mJLaSCoUlJOPz69p9QZzfyKtT6ShUyblp40xebda1m4BismRDJhqPiWV3IUQUE7erpS1ajaYrnmzzjauKFh0AydftqryYa2ifgJ4qjqgQMCUs+dPCuQ3QCokuHPjskpA1Wx09I/7jtoa4AECppg5F7Om7XBaLUalG8A0Shc1443qi0Bi5KQIPBQAyMn33Zoalh9GKkDwQrJBnfzar6uX8BzSGlBh8GzCumPDm5RTg4ENpj0fOPm8GV3LuuH0mTbWxob/UbyAmZEIYx5fZbRDrR4KAoQXmDn4hw4lAzn5sXe9eRCsENad0D9EFMiObzyQk287NZWZIcoUx9DIFWz+GJBdmBj76EqdfN2u6rRmZrGGGcR4MEP/veafwwPZdYAfkICqkcBv4JOuMHtarw5Ol8kcAIZw8vNFXaGQgKrtjjpYG9XkisC8dIangSOxjYlAchF/TsvLhvqCDZlHXAcMSQxLN4DgyfA0YGB49cBzyBUIxsKfGrs0AbGu0DX8wndguUxbX86QK3mA/nd4w9IF6wYJDCBAtnoM7xzec8FhLPyFSZpfgEMme41FKutOB0Faw0MhFTBIRWeQihc1606XYCwOj3p89qIXpx+/ASk9RyQVtG0OAAAAAElFTkSuQmCC",
     "wiki_name": "Energy disk (Level 3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Energy_disk#Level_3",
     "equipment": null,

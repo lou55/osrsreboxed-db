@@ -1,7 +1,7 @@
 {
     "id": 16829,
     "name": "Key",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-09-23",
     "duplicate": true,
     "examine": "A blue key from Melzar's Maze.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABq0lEQVR4Xu2WMUvEMBTHU0opDSXl6E23eIuLiw7CLQ5+CQcHBwcHdz+Ag+DgILi7OQsOzoKDOAiCgyA4iINw4CzcFN9LbU1fevWQNLnh/vCGpOW9H//3moaxhRYqFUgzvCmQSXpuhCeoOkzae5GDpYkvKA2GnwLMkxT9T7m8MpHrIy9Qv0B0fhBKf7Y2HLqAmg5EnzkAqhdtCwdAs4HE/FhG8VaXQO2u8OxGptm9Gu4kvZBxciDDaLMroBYQcQ0QzxCPCohnt7B/Vs0SwlgEanEFPnUurqrCNEoQSzDTQaJkH+bjBGAujcI0aNZ/qhkE5yGK99SwUhdoBosK4LT9aoDZAJhdgDkyXKEZLKrZGdWmeMetK00w6FSav8owXJ0PVzAcuoIyYWJ+WJwp2V0NygtMGXiFwFbhQUedolksqg6EziiQ3kMFIPIPdeHS3+sQKmgsJvJ35Y6+xsB1GI66bl9QFdehcE/kY/jUt4s1tA7XjPW7BkKhC28mFPyxGRv8tMj8P9EsllW0hkLpAI7OIF3FEFMohwBNQqixulY4mpdZ5Hxe/paHeZkffQMqxu/LiH3DdgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xu2WIUsEQRTHZ1iWYYdllmMvXTFZrliEKwa/hMFgMBjsfgCDcMEg2K+ZBYNZMIhBEAyCYBCDcGAWLj3fm/XO2Z1xuHAza9gfvDC7B+/Hf97ODWMdHXM42NUaHLJ8YlVLUnWZvPcCg7VZW1KGjDxDmSdQ/U9YH85gc9SK1K9Qc35I6l8J2e+CU2/qqwhCy4kIOYZU7IQU8qciixvIi3s93Fl+ASI7giTdDiXkEVHXKPGM9aiFZHGLz8+NeVopnlTwU5fqymjcrJXyt0iaHeJ8nKLMZYjGLtwiNA+pONDDGigFFxxP2y+HzBbK7KPMSSwRwp2M3iaxFzcVlwwllZevkCQbsUQIW8SsiKkQtoyQx9WZUtw1pIJjy8yLrhC0VXTQRUyqLkTJaJHew0JAlR/6wmX+LqAUdzZT5btOx1xT0TpJRiGFCL5obkrRM1VO8VPfrda4dbRmrB9aiKAU3mwp/MdmbPAjYFYUqq1pSkUUcFENsS3VKiQ11deKSPOyDNHnpcPLNx2irdmb1BcjAAAAAElFTkSuQmCC",
     "wiki_name": "Key (blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Key_(blue)",
     "equipment": null,

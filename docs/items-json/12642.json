@@ -1,7 +1,7 @@
 {
     "id": 12642,
     "name": "Lumberyard teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-07-17",
     "duplicate": false,
     "examine": "Teleports you to the Lumberyard.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7UlEQVR4Xu2V7UsCQRDGb79K2L8gBQUFZUFvmBSYiBFESEUvREUhFUJIRRQUQUSfguhTH/pbJ56V0blxT29LOggfePDcY2d/NzO7GwR99fX/ZajlxGXoZGOSbg/nqb4/K8AShTR0f7xAz2d5qm1PW7Drg7mmEwA09FpbpverFTrfnLJQl7szTTBkT7od0OVfydBbvUDVStYJxMZ/Nt6zeayHWTX0cVN0AiEjLiBpCRJlTzBDn3elHwNpKF1iGP25Vx6PC2Xo63G1DWgglQpZQ2hHQXE8GGtlM5lOUMZOeDjNdQXS1kASCiDYuTImw3QFQqCn6mJo8mA6HbKGcVkCAQbGGYe4MWEgY7/m5WKpI1CUXUCIh4wD6Gh9wgcGMnYyziHd0LIndGk0GCxLhYzjWQLplR0yNggm4xyK2z8aTvYPZweuFEb8s8NAXC7AYExDxDH3DuLhVwLplSPUApIwCKbLoRd3mcuFMwfPW8VRH6DGdgeAhOG0a6A4xjx8HPoRcbyBuO7yPpK9wFuXd4wrc9KcHQbaKY35AfFJKi9KucMklDTG8V5/AMAZqJwb8gWC9I0cNveTzpQEkmXuAVAQ8JZ0WQPKrDIIw/QMqJviQDLonwC5pCFdoGv5YQuEu6wxloCiAFtjCSsM2Nc/0jctyWiLgWI4QAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB10lEQVR4Xu2VW0sDMRCFm9ci9T8oKCh4A2/UolBLqQgiRcULoqIUlYIUFVGoCCI+CeKTD/7WkROZdnY2aze2uiB74NBtlsx+mZkkmUyqVP9fhtpOXIaO18fp5mCOGnszAixRSEN3R/P0eFqg+taUBbvan205AUBDz/Uler1cprONSQt1sTPdAkP2pMOALnclQy+NItWqE04gNv6z8Z7NYz3MqqG365ITCBlxAUlLkCh7ghl6vy3/GEhD6RLD6M/dymhcKEMf9yshoL5sNmANoR0FxfHgGEDGTmie5DsCaWsgCQUQ7FwZMwYMZGygh9pCYHJ/LhewhnFZAgEGxhmHuDFhIGNX83S++C1QlF1AiIeMA+hwbcwHBjJ2Ms4h3dCyJ3RpNBgsS4WM49kTyNggmIxzKG7/aDjZP5wduFoc8oGB2kBcLsBgTEPEMfcO4uG3KyAJg2C6HPrjLnO5cObgebM07AP0td0BIGE47RoojjEPi0M/Io43ENdd3keyF3jr8o5xZU6as8NA2+URPyA+SeVFKXeYhJLGON7rBQCcgSr5AV8giC88t7mfdKYkkCxzD4A6KQzJWWUQhvkjIJfCkAyaEFCUgoCrhUELhLssQSgpCZgq1e/qE0L5LFUk1iQFAAAAAElFTkSuQmCC",
     "wiki_name": "Lumberyard teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lumberyard_teleport",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6307,
     "name": "Trading sticks",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "Karamja currency.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4UlEQVR4Xu2T7ytDURjHd5K0dUuarNE2l65l04wYYlFrlnihRG2iUZIfSTQhPyOlxAuvlLxQ8md+ee5x7q/tvtG999X91Kn1nNN9Pvue5wQCPj4+jWCwVlzCrhHV9XX60f/321UYjt+SDRoxrBzFUK7FsXoWNwllu7vdlOJCtXejFJchkbWLBLYeetR9Err8SjWQdwwuYxTi/56ZZPZfFE3InJL5Sq1f/wdmIT0lhuqNrMmIfSF0/sml6IxYm3eys1JC6Po7jdW5NPLZLsQikikBoxAJiEXiIjWH5ktver+Tx+KMgmQijFCw2dKIn9l+7FElaO089TotwxEN1+cHkEtH0Sq12DRiqgRJHbwqbr48hsPKKGZG4mhvDdrKkDAlSOei4ZDNOUdgKA63ISw12TT5vaqlLMqlFJRYm3Z99eccgaFSiGBIkSAFdSHj/kYpilScJ2IUcUWmtj6GlWIScsQ6N7w5JZeRzdfjggjB8LA3rc7O7LiszY5Yu8tDqmguyZ+/iyIEw+tJEVdbk+qgDvdHNJHb7SlVhualkEtgsK9DE7J+xUEYno8KOK2Oq6/GKEOJkeRCvhcTmU4v0iH0hOgJCyGqiXToGj2SEejzYh3k+rpHNHo1xpqnMj4+Pj4e8gNi0Iby7Nj+/AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xu2T30vCUBTHvUSEMogwEgsnM9ZIw1LKipIEMYl6CKKgJLEgoh9EFEZFPymCIOqhpyB6CKI/81tn87o5tpfY9tI+cGCce9j5cO65gYCPj48VDOaMS9g1orwepx+DjW9XYTh+UywaMawcxbBaF1E5E70Xqr8bpTQZElm/iGPrIaGek9DlV9JNKU3GSsgos/8iN4Vap9R6pfp//0yrkC7FULuRmjL8nAudf2pSVMNj805yVooLXX+nUJlLIT/Sh1hEaJmAUYgEeJC4QzIcven9Th6LBRlKPIxQsN3USKvZfkyoEhQ7T/1OyxhhqM4PIZeKolPosGnEVAmSOniV3Xx5DIdrYyiMiujuDNo00YRpglQXDYds6hyBoZTtQlhos2nye1VLI1gtJyHHuho1VnWOwLBWjCAjCxCCVkIMG+UokiKfiPncURjq1XGslBRIEfPeaM1pcmnJ1evhMDzszai7MzshGXZHi93ljCqaU/jzdxWG15MSrram1EXNDkaaIrfb06oM7UsxF8fwQI83Qs9HRZzWJtRXY5ShiZHkQr4fk+leL2QIfUL0hLkQ5fh06Bo9kuHo+2Kd81TGx8fH53/zAzbTQiLwKya7AAAAAElFTkSuQmCC",
     "wiki_name": "Trading sticks",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trading_sticks",
     "equipment": null,

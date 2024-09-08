@@ -1,7 +1,7 @@
 {
     "id": 11220,
     "name": "Dragon fire arrow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-11",
     "duplicate": true,
     "examine": "Arrows with dragon heads wrapped in oily cloth.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqElEQVR4Xu2VUUvDMBSFF0Yp3a/Y62DgEBw+bCDMPSgy5qDihImKysCB6ISyl+mD+OR/vprcXZLcpkxoWkR7ICw5bZOPew9ZrVbpb0oAjm1eKRJwPh5Du9UyAFxeaRLwcH0FN9Mp9LrdDYCA+9kMBv2+mneazTKhBKyfn2A5n8Pj3S2cDIcKIlks4GJyCseHg6KqRJngm6P3niTwsVopKPLk/PIshng0cnyXS0K1JJ0LnhUB+41IDRNqrxGqucfWCdWSrKxwj0PJOUHxnXNIwNvLUmWDZ4Xnp1Soz9e1yoqcYwvS+SHfhsB1JyoAijbXG7uqgn4pUGYFaGPTc0FpCL72Kl4p7f1KKDvE6LUNKPlcr70qG0r+6vuHQ/C1V+HmWVD8vWwoGl70c6i4EcBOUIfd72FCyTV5+v1cEo6wclABkyhQQx4uwVyQXv9q0rkwQfHwg7AOvZCq4YbU3+eWCaUrk84KVoLuMQl6FOkKeaySlLBaQJ480MyKfSiH9Cpsg90CuzVpILz1uedJ2ALKidkWyk8BWdkmVwuyMlSSXAeS53pWqdK/0hed8K5/fI1regAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfElEQVR4Xu2SQUvDQBCFO5QQkn9SKCiCxUMLQu1BkVILEStUVFQKFkQrhF6qB/Hkfx7dXZfdnUyokk2KkgcDmZfszkfmNRq1/qcAVa3zKhHg2WiE7VbLAuC8ygR4f3WJ15MJdjudbwDAu+kU+73eZoBWT4+4mM3w4fYGjwcDCZHO53g+PsGjg35ZUDoT9HLlvaUpvi+XEkp74vniNMFkOGTOFRLIlWRzQbMCuBdHsmyo3Tj0DyRWkpcV6lEo8VwK1OvzQmaDZoXmp1Koj5eVzIq5mMuP8l0I1W9HJUDpy+3h2b+i/IqghCiU8TgoA0F7r/pjUG6Ilde2oMR703tVPhT1XAjae5W6nAL8HkqXF/0cKokD3AqauPNVNpTotWe+LyRgwkpBAcdRIEsMF2AcpDlfWMDkwgZVw/fDJnZDPZyHNOcLy4YyfyablewqDyPvMFrArADkwPysUEivUmtwV+CupsThnNQKTE6Mp/NTQlbWiVtBXoZq1aq1eX0CBUyE7HjgccsAAAAASUVORK5CYII=",
     "wiki_name": "Dragon fire arrow (Unlit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_fire_arrow#Unlit",
     "equipment": null,

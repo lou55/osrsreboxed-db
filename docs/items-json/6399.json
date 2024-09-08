@@ -1,7 +1,7 @@
 {
     "id": 6399,
     "name": "Menaphite purple kilt",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-15",
     "duplicate": true,
     "examine": "Look at those nobbily knees.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xs3W20sUURwH8FmGQRTZF0PIoCywQCJFiiWQ8CEJIbpYWlYWFmsYESxJYlJ0EemGYGZhtaIlKlKKIBVFt/eeegiCnoOg/+EX33P4jWd+nrWZ3Sk88GXncobz2d+ZOTOOs/pbguyxnf/nLUF3+w7R7d6DKgM9B6i/e78KIyaHOmhi8BSN3TtpQck/UTBcgxgFEEdisndO0KOBY4GBsY9zMkFUJGSCBq8cXobCLyAcBo30H6Wha62qL35tIPQ30e9n++jt1MX8UAzCNleHQY9vHVcg7psLhOvezfTSp7nr9HnupgJhjNrKShU5umi67PyvGYRBbaDhG0d8ELZtoKnh0wEQthkkRxctEZgGDMQ3N/YlCIMDwdObCzT7MB0fiKuEYwwy7wdbJOjlaKcPQiKB+L6QIPxzgNCnJOmsGImaf3I2CJq+VDgIxxlUvsFRKavQSa7RyQVayHbFC0IwlTi/w+ugWq+NarwWqnb30Ra3iTa5DbTRrad1bh2tdWsCIEzxq4nzPujDi6s+JjLIROFcyktTndeuMFu9ZoWpchsVZr2bUiCkzKnyUQC9fnbBCpKj52j6xsQTwyDs7/S6claHK8QwJOlUqOsAejOZyRek1yBUSIJkdRjEVUJMHCpV5CTVtSbIXBTl6KLpR16CcPz7VGmgOoxiGOMkrNypjheE4PjXcQ1ChRDAGGeDmbjYQIxi0JenpQoRBoWovpvdAAirNGNCgfCE/Q2EfLxf4m/LjF8u9qH124IgVChkddCWQIzCsV8LSfr2PDwo26NBqFhTyvVRsYF+zkcDjXZrEKateZdHjduDIEbJ0S1Ng8xp4wrhKQOI750wINzY7Xs8hWIQ1qAI61AQhOQDGskUq/sHT1h6r0dtuwsA4SmToN+LSfoxHQ2E+wfrUKa1SL1GWho0Km+QnLY4ggphDYq8DslpAwrH8U7Cpyi2+fMWwauFX8S4jl+o6Dvz4Awtjp3zH/u8QHLaJAjnzM8SE4R+AOG7KQYQ2vJS22JizEgQvqVNECcCyHF4WV8pEmgGlQQI1YkFFLZJZBgsZ6nvf2oSaYu8ZlW3P6m/7ketQ87fAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu3W3UsUURgG8FmGgygyN4aQgVFggUSGFEsg4UUSQvRhaVlZWGxhhLAkiUnRh0hfCGYWVitasoqUIkhF0dd9V10EQddB0P/wxnMO73DO2VmbmZ2iiw487OzMmZ3fvufMmXGcf7+lKDhBx/94S9HtwQN0c2C/zHD/Phrq2yvDiJnRbpoeOUGTd44HoOw/UTJcgRgFEMfG5G4dowfDR4wL4zuO2TFRkZApGrl0sACFT0A4DBofOkyjVzpkX3wGgdBfR7+dH6TX+fPxUAzCNleHQQ9vHJUg7lsMhPPezA3Qh4Wr9HHhugRFwuBH+V8zCBcNAo1dO+SDsB0Eyo+dNEDYDglKGcOAC/HkxncbhIsDwcNbDDR/P5MciKuEfQzS50NQbNDzidM+CIkE4nlhg/DPAUKfCs9ZMTZq8dEZEzR7oXQQ9jOoeq0jU1Wj4q1SKQZayvUkC0IwlDi+TXTTFtFJDaKd6t09tNFtpfVuM61zm2iN20ir3QYDhCF+MX3OB717djksBs0E6SgcS4sMNYouidkk2iSmzm2RmFo3LUFIlVPnowB6+aQ3LghNTUzcMQzC9+2ip2h1uEIMQzynRp4H0KuZbFyQWoNQIRtkV4dBXCVEx6FSZY4nz9VBERZFdcvbIOz/mq80qsMohjHOhlU79cmCEOz/PKVAqBACGOOCYDouMRCjGPTpcaVEhEEhsu8G1wBhlQ6JQVN32O9AyPu7Ff62namL5T60abMJQoVigRiFfT+WPPryNDwo169AqFhr2vVRiYG+L0YDTfQpEIatbYeglq0mKAJKgfRh4wrhLgOI504YECZ21y4hUQzCGhRhHTJBSBzQeLZczh/cYZndgjp3lgDCXWaDfi579G02GgjzB+tQtqNMPkbamxUqNsgetiSCCmENirwO2cMGFPbjmYRXUWzz6y2CRws/iHEeP1DRd+7eKVqePOvf9rFA9rDZIBzTX0t0EPoBhPemBEBohaUOio7RY4PwLq2DOBFAYVshkoNKAoTq/EXQSq0QWZj/rbT2C1+7o7sPRmdTAAAAAElFTkSuQmCC",
     "wiki_name": "Menaphite purple kilt",
     "wiki_url": "https://oldschool.runescape.wiki/w/Menaphite_purple_kilt",
     "equipment": null,

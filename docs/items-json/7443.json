@@ -1,7 +1,7 @@
 {
     "id": 7443,
     "name": "Skewer",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": false,
     "examine": "Generally used for impaling fresh meat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABW0lEQVR4Xu3XXUsCQRQGYIeIRVlaYqNFpXARN3Rj/cD8wEzFzEwxw6/EjIjo0rqO/oEX3gf91jfOLEbQDzhz4Qtz/3BmOOdMILCNUhHwjxIReJyMcV4oqIASeF0scNtuo5jNSlAmFuNCCbzM5+i1WjjLpBG2LE6QwPNshpvL5j8MA0jgaTrFdaOOnOfxY+gBX9VqamAeRkM0q1U1MPeDAeqVCtKuy48Z9/u4KJXUwAy7XXUwd52OxJwmk/wY6r40DpTAUPclTMpxcBSJ8GKo+yqFKefzamBoFBDmJB7fYv7Ex9Auw4zxV04akoRJ2DYvppo05ICkXYYd03ANFOI6EuEggprGi+lkTJSdPXjHIURNDXpwhw/Ty5myOllbh32owdQZMaPiAVre/u9VWcYuH+ZrtcLn+5u8qlQ0JKvDhKEIfK/X+Fgu5fSm6jBiNtl8c/3DjPGzQSiBUSU/5UcxZ47uzQwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABTUlEQVR4Xu3WX0vCUBgGcA8RQxmNWCQqBWNoTGM6sanYUrFlppihZmJGRHRpXUffwAvvgz7rE++R/nyD91z4wLnej/eM9zmRyCZKRWB9lIjAw+0Yp76vAkrgZT7HdbuNsudxgwSeZzP0whAnhTwS8TgnSOBpOsXVeUsNzONkgstmA0XX5cfQD3xRr6uBuR8N0QoCNTB3gwEatRryuRw/Ztzv46xSUQMz7HbVwdx0OhJz7Dj8GNq+VAdKYGj7EiabyeAgmeTF0PZVClMtldTAUBUQ5si2N5h/WWPoLcOMoY8KWZKESVsWLyZwDFmQ9JZhxzRzBnxbRzoRRVTTeDGdgolqZgfuYQwpU4Me3eLD9IqmnI5n6bD2NZg6I2ZU3kPo7v5eVdzY5sN8Lpf4eHuVV5VNxeR0mDAUga/VCu+LhWxvmg4j5ifrnfN3NlEz35Eg4+7uw8avAAAAAElFTkSuQmCC",
     "wiki_name": "Skewer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skewer",
     "equipment": {

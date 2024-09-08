@@ -1,7 +1,7 @@
 {
     "id": 22125,
     "name": "Superior dragon bones",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "There's something unnatural about these bones.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVElEQVR4Xs2Wa0uUQRTHd79Jr6sXFURERL3oQhdS8a5hWJklCN2sTLSbLJohLJuW1kqSbIumZRiKYiVU0ouwd/VtJv7z8B/Pc5rddt2n8MBh5pmZ5fzm3GZjsc0vceNX3/4/l7gZ6Ko0/Z0VVhM3y03v9TKrhJhINpvxwTNm7FGTB0pfomTwAIhQAKJqmPTD0+ZJoiFkGN/Y0xqGKgoybga7q/6AwggQKoGGeutM8m6NPYvRB4TzEnp5ssssZq5tDIpAmNM7BBrta7RAPJsLCL9bynaaTzP3zMrMAwsEGzu2bLGqrSsJ3M5bEwhGfUCp+7UOCHMfUCZ1NgSEOYG0dSXxUBhgiMmNbw0E44BgeHMBTQ63RAdEL2ENQDIXqBIIXtNA0yMXHBC0KCDmhQZiNR1KJszBvjvm5MunpnZx2jR9mXdQuYDePGsNA726UToQ1rG/tb7SbG+qs0DV77Nm5NcPL5D04Gz6UrRAUIRShuxUZtS0f1t2MBgJhPmx50lT/3HW3Pq+Yr8J9OF1j4MpGkhC4dYAItTxdMqcX110gMM/1+woPVT1LmOhcgFp6zkkMIDb5gM6Mjzg8gfh61n7bOfwJMbdly/adcwXJq5sFCjoQfDQ34CQ3Lw9vNW6umTnVABjxHkJJJuitq4kuJ0PCKqBUGmosgOJbguHnMI3wLCHcEUORCgogNBx6YH9vbedUa1l2bQd0UAjA5JewshEhTdQQXu7rpryqTG7Bg8SBnsNK3MOKPv4nANClyZMQUCoEA0kb37ixZANDUD2dLTbOffgMcDWzE+5Uod38GxIDxXoHcg6EKGwhkohROXbCdsMsb6rvcWbzIdT/aZiZtxVIJ6NSIFQvjCMhGVV8RlBJQGw+etCaJ0KD6FLSyBCaeseCYB02LB+dGTQNUFWGZ4PVNO2xmr7rf8LIX9QBHNjbQ4IPaiIPhQGkl7a19PhKgqGuL6zLag6JLUGAnjJQKgyDSQTGwZgjP+BCEMgPhss98iAdNiwzhDAIIzz0SUMgXgWQCh5CYQeVHQf8oVNAmGeD0jmTyRAvrBJIOzJvyUSCOdk/pQIBFkv2XwqYaRqIDRFCUQtAigWY1vPpxpQqsyfSIAKFQ1ZCCx1/ex/Eg3pU/2bTS2/AQb1h8O75KF0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xu3W7UsUQRzAce/fqd4UREREveiBHkjFZ40LK7MEoScrO9Qe5NAM4bi0tE6S5Do0LcNQFKuDSnoR9q7+m4nvbL9pdm69br0tetHAj92dXZ3P/mZ+s1dR8e+3mAqOoPt/vMXUUKJGDXZX60her1L9Vyt1CGIq1aomh0+pifvxAJT7EmXDPZCgAEm4mMy9k+phstk3MNfcc8OPCoWMqeGe2gIURyASAhrpb1SpW/X6WY5BIJ630avTCbWcvbI5lIA4l+wIaHygRYPk2Y1A/N1Krlu9n7ut8nN3NSgUhn8qby0gBg0Cpe80GBDnQaBs+rQPxHmJoJhvGhhIFjfXLojBQcj0bgSaHm2LDiRZog+QvRYkbBBZc0GzY+cMiAgFknXhgqSaDqSSav9Anzr+7JFqWJ5V8Y+LBrUR6OXjdj/o+bXyQfRzf0tTjdoWb9Sgujc5Nfb9ayDIzuB85kK0IIKptKfsRHZcdX5eNRiOAuL8yJOUano3r258yetrAb190VsqhuYH2SjeGpCgjmbS6uzasgGOflvXRztDta+zGlUGiOYNwNsWAx0aHTLrh+nrXf+gz8kkx50Xz+t+zpemLm0W5O1BZOh3IBa3vD3Zal9b+TmQF4A58rwNCrEpem8XBCJcEJVGle1L9mgca4prYNxjuiIHCYoAxI4rGdjbf9MM6kZlLqOPbKCRgewscZSFSjaooN2Jy6pqZkL3kUHBcK85v2BAuQdnDIhdukQMzasQF2S/+bGnI3pqgOzq6tTnco+Mga1fnDGlTnb4bNgZ2hRIUPRRKYKoeTWlN0P6d3S2BS7mg+lBVT03aSqQz0akIMqXgVmwUlXyGaGSALZ+WvL1S5AhdmkbFALlgdxpo//w2LDZBKXK+HxQTVtb6vS1+1uI9UMRLEx0GBB7UIh9yA+ys7Snt8tUFANJ//YOr+pY1C4IeNkgqswF2QubARhMfgMJRkDy2ZByjwzkThv9MgUMyODy0RWMgORZQJS8DWIPCr0PBU2bDeK8GMheP5GAgqbNBnHP/llig3jOXj9lgmi/SrZY2Bg7XBCbog2SCAEqtRUiJez18xdBxVohsjD+t/LaD7ziPTeEcxrWAAAAAElFTkSuQmCC",
     "wiki_name": "Superior dragon bones",
     "wiki_url": "https://oldschool.runescape.wiki/w/Superior_dragon_bones",
     "equipment": null,

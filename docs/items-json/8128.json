@@ -1,7 +1,7 @@
 {
     "id": 8128,
     "name": "Candles",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtUlEQVR4Xs2Wv0sCYRzGfXMI/4kwhyKzriLzF5ohlkTgUCFi2CUuURDR4GCJRCRWhGnQEDU4pEQQVA4ukpNDU0tD/TFPve+pmTQF3X0f+PIed8uH53nuvqfT/VkM3Xc0FMPoSA8IQTFIowrQmNFIAeoLRCIDxOBy6jFjIQRkm9LDPainAzQx3gOriaHfyEutebGVyJzm78hIuFQoHCIYnKPhUL1eRT5/gPl5H4UeMdRqFeRy+5j1T9MAqlbvcXqahtfrogFUqdwJII/HTgTo6RYnxyk4HJN0gI6ye7BaJa2AWh9AZR4fSshkkpCkYS2AGBb8fvjcbnjsdlHoYvFcAFksQwgEvE1Q1cSwsrTYnlg4LKCur8+QTu8IKJVdYpBDIcQjETH8+uIii93kFqLRZZjNA+oDcZD11VVsrMkCqHRziVRqG7IcakemIhDXz1Lz4ZHF4xHEYmGYTH1q90ina211xQmGcvlKnJ0OqexSp5RXn58adOg3KQuWnwZDLw2gRuO53SeN4+JieH19oQLDxfDx/gabbbzpEgmRiYuLIZHYpFDmlpj4H2rtse6nGolUZIr+A+YTvrEvs7ZB2rEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABk0lEQVR4Xs3WP0tCURgGcE8O4ZeIcigy82Zk/kMzxBIJHCpEDL2JSxRENDhYIhGJFWIaOEQODikRBJWDi+Tk0OTSUB/miXMvhUk0BHneB17O5Uw/7vvec65G8+cw9O8IDINpegiEUAySiRhoRiIDYnA6tFg0EgJZ57VwTWjpgGbNQ7DoGcZGOUg4Sm2Zw0CmZTwMpdIJgsFlCiiGdruJYvEYgYCXBqjVaqBQOMKSb4EGqNm8Rz6fgcfjpAFqNO4UkNttIwJ6usX5WRp2+xwd0GnuEBaLJAr0eQCq9fhQQzabgiRNiQAxrPh88LpccNtsykBXq5cKyGichN/vGTSKYWNt9avi4bCCqlQukMnsK6iBg+RQCIlIRCn+XC7ncJDaRTS6DoNhfPAgDtmKxbC9KSug2s0V0uk9yHJIRMt4vg81L96yRCKCeDwMvX5EBKo3DPX6tYIQ9Ib6o376fBUwQz9FvWD5qtMN0wB1Os89MyU8DN3uCxUMD8P72yusVjMtFClMMrlDC8T/hwTcY7+FVMv+Lx8i2/7mc0fU+gAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

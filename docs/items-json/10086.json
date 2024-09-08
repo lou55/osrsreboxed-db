@@ -1,7 +1,7 @@
 {
     "id": 10086,
     "name": "Black spiky vambraces",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "Vambraces made from 100% real dragonhide. Now with added spikiness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs2W70tTYRTHt1fS3yCYBr3vP6koKiuKjBQjAimKIYtSG81Sm7+WjQ2VNcewDcm5VmtMMn0hC+qFINHfcuL7jHM99/hc2S/DA19273PP3fncc85z7vX5Tr75yS7b9WM3P70evkThwEWj0NMLNPb4vBFDJCN3aGnyNiXe3LJA6YdoGbwGxFAAYmmY+PhNioauuwLjHNe03FANQfppMnj5EBR+AcJioLmxaxR5fsX44tcGBH8J/S0zTF9Sj5qDYiAcc3YY6P2rGwaIfb2AcN/XdIAq2Re0mR01QIhxrrvbSEdXVks7PzUDIagNaGbkqgOEYxtQaqbPBYRjBtLRlfldZUAgbm6cayAEBwSX1wsoM3+vfUCcJazZgDiTDISsaaCPC/0OENQQEPeFBkJwDcR+smFtQLnYgBto5UnrQFgHEENJiL7eXgoFApRaeGfONdBafLC9QBBKyUDwO9XRYYTjrVLJM0OA31h64ACVV585MA0DSSj8uYaBkJW3oyOujEkBqLD80Aqko3tY7Y/QoBqIrzFMbGKCch+SFA2HaWign9ZSKXO+urhImUSC0vG48f+cHGoWqDaDkCEGkk8LgMR0hJbnZmklFjPZKWSzZi2fydBmsUi/q1X6tbvr3IOsSiA5FHV0ZbUtL4FkNqZfjtFOpUK7W9+ptP7JWQdEpbBB2+UyVbd/0N/9fUpG553+Ohag8WCQ4lNT9Gdvj8r5vMkQZwnlkT2lpUvWNBAkM4TgP3d2TJ8gA8gGSqMBNEx69q4DhCnNMHUBYYd5AbFQrmIuZ0qD7MDH5ne6s9Os47UhM1RndmAHQAxlCwQhU+gnNDTvJJvQP3httA3oKCgt+MkXK+YPgDClJRBD6egWqwHpsundZtPZnh4609Vl/CQQPjvWE/cdIMygBuaQG0juNqzZoLhPWDJDyE7LQNhlXkD6hcrCJIcwRPk9xuVqG5AuG9a5BAgov4EYhoHYF0DY8hIIM6jhOWQrmwTC8VFAsn/aAmQrmwTCNflZIoHgJ/unRSDY4R6xScJIaSAMRQnEagDI5+OxfpQ0oJTsn7YA1Wsash5Y1oHvfzINaZO+50TbP18YaxU8rrYxAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xu3W3WoTQRQH8Oaq+AyFSgWfR0VRq6JYsUURoShKKBFtYzDVtqZfsQ0JbYlpCDWh2DRGY0ixNhchgl4UivgsR/6znOXs7GzIJql40YFD9mOS+eXMmdnt6/v/W4DMYbp/7C1ArycuUjR4QUXk6XkKPz6nghHp2G1an71FqTc3DSj9T3QNt0CMAohDxySnb1A8cs0xMM5xTw8nyhcyQLOhSy4UPgHhYNBS+CrFnl9WffFpAqG/RH/NTdDnzKPOUAzCMWeHQauvrisQ9/UC4XtfskGq5V/QXn5KgXxh8KP8rxmEQU2ghckrNgjHJlBmYcQBwnGboIBjGjAQFzfOdRAGB4Kn1wuUW77bOxBnCddMIM4kg5A1HfRhZdQGIXyBuC50EAbXQdxPFqwJVEiMOUGbT7oH4TpAjJKIkeFhigSDlFl5p8510HbyXm9BCEwlg9DvVH+/ChzvVyqeGQJ+d/2BDapuPWsXg+YESRR+XMcgkJW3U5OOjMkAqLTxsFMQmvVDKFAdxPcYk5iZocL7NMWjURofG6XtTEadb62tUS6Vomwyqfp/So93CrL2IGSIQfLfApCaj9HG0iJtJhIqO6V8Xl0r5nK0Vy7Tr2aTfjYa9neQVQnysSlaS16CZDbmX4apXqtRY/8bVXY+2teBqJV26aBapebBd/pzdETp+LJdX8cCmg6FKDk3R78PD6laLKoMcZYwPbKm9NCnrGMQQmYIg/+o11WdIAPIBqZGB+iY7OIdG4Rduk0MmrXCvEAcmK5yoaCmBtmxBnD3Oz0woK7jsSEz1BGIUaaBEMgU6gkFzSvJFKgfPDZ6BmqF0gP95IMV+w9A2KUlyAfKAunTpq82U5wdGqIzg4OqnwThtWMndd8GYQ/ysQ85QXK14ZoJxXXCITOE7HQNwirzAukPVA7s5Ahsovwc4+nqGUifNlznKcCA8h2IMQzivgBhyUsQ9iDf+5Bp2iQIx61Asn56AjJNmwThnnwtkSD0k/XTJQjNXSOmkBgZOgibogRx+AC129xIDlk//xDUqrmR7jhp3bW/FRQgibivdgMAAAAASUVORK5CYII=",
     "wiki_name": "Black spiky vambraces",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_spiky_vambraces",
     "equipment": null,

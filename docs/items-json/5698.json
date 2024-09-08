@@ -1,7 +1,7 @@
 {
     "id": 5698,
     "name": "Dragon dagger(p++)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": false,
     "examine": "A powerful dagger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWklEQVR4Xu3WvUvDQBgG8BzhOO4ouhTH0lYs1Eo/Qm0rbW2kKuogRQjYwcHBoYOD4Ojo5uDk6FZwc3Pyj3u8uzYxRFz73tAH3iVLfrz35MPz1ll5GLJXCMMgXxUcQmnQW86CmsUiNYpBPEnId5dAzwpy7gSIgc8kxIsGfWy4ARIP0hZafZKD9HYiAfEobaHVlwugqUgKrb43KUEMu9zDQPg4lz6miuMux2lBXY050RMtMTM6EEPAfYQacyX/YkhA5qgu9VHd0mHMN2ox5qhizD0VJqjXcdBu25ubEt8oMowJw06pZFHdVguHvV6yLbISb+XzFtWo1RLU6WiEi+PxErby6CJv+ygXCglq0Okg7PcptrTAxBMFHHvVqgWRdSiNyfaHDGMmjSDAmPyCiDaSDrPlPTsKcT2ZUJQ3G4b9ZgPj4dCF7ZjoX4xKJXlDE2PikD1N/8cpzDou5QdFlPBSoqC0MgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSklEQVR4Xu3WsUsDMRQG8AtHCAnFLsWxUMVCW2ntUdtKr/ZKtaiDFOHADg4ODh0cBEdHN4dOjm6Cm5uTf9xnktq0dHPxZbgP3nIZ8uO9d8cFQZZ/D8PmE8IwyLmCRygNes35AmIQTxLyzSfQs4J89wLEwGcS4kWDPrb8AIkHaRdafZKDdHdSAfEo7UKrLx9AU+EWWn3nKUEMVR4gFiHOZYip4rjLcVpQR2NOdaW/mBkdiCHiIRKNuZLkGBNmR3WpR3VLhzEXLsqMaom5p8JE9TqOWi17uVniG0WGMWHYK5UsqtNs4rjbdd0iA20XChbVqNUcajwY4OJkRIeKd0PsFIsOFbfbSHo9CtACs6w04tivVCyIAGOyAhkM+f6sd4cIsZ4VyAuMWd6zYYLrycQP0OFBA6N+3weMif7FKJfdF3rzlChkb1OWLH/OD9Kxu0ec9lRAAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon dagger (Poison++)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_dagger#Poison++",
     "equipment": {

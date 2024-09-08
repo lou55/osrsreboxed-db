@@ -1,7 +1,7 @@
 {
     "id": 21181,
     "name": "Flamtaer bracelet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-02",
     "duplicate": true,
     "examine": "Helps when building the Shades of Mort'ton temple.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWklEQVR4Xs3WW08TURAH8Pab8OqbjxgTn/RZjUZFjIR7MAZEiARRw6WCVcPFAhUbGi4VSINtUAtisSmIEEMw0S805j+bWWYPp9DS1XCSyS67U86vc2bPNhA4/SNI9rDd/+cjSK96rlG4+yrHYNcVCnVe5hBEYqyWZodrKP76rgVlfomy4Q5IUABJmJjpl3coOnjbMzH+xj0zvKiSkEEafnr9EApHQCQENBG6RWO9NzgXRxsI+Rr9LdlDXxc6ToYSEM6lOgJ696KaQZJbCITPZZe6KZ/qo83UAIMwx9mKCg5zdmM4ZZdvLSBMagNF+m+6IJzbQAuROg8I5wIyZzdG0LMMmEiaG3+bIEwOhCxvIVBystE/kFQJ12wgqaSAUDUT9GGqyQUhSgJJX5ggTK5BukmPA6VjzV7Q4qPyQbgOkCCePGij2plzHIIqBFqZbvEXhMBS4n5vZweFurpczMONi3Sp/Qzfs4FQzdXZ+y4ot/zMxZQM0ijcA2RuYpwWpt4ypn7+vAsSlA20NtdqBZmzFxjOkuDbmqDhvl5KxuO0lc0yRkCI9uYmulBZyXkm6Eui/aQgZw9ChWygiaEh+rS0yKDtjQ3ayeVoLZViZCI6SW2NDYdA6DsN0puiObsxnEfeBkLgnyMn+3GFQcD83Nqk/NoqZZaX+TqipcZ5AqU6voIEhcAE2HGRh+rs5vO0t/2dj5lkkv7s73O1NtfXqaG6mvN8Bekq4WiCgNnf+cFLNTrQT4uxGFcK92YiEaqrquLcpfF6F4RdWjBFgfCE2EDyOgBI9iIs2a/dXd6PouEwI9BfqBCaHznIxWtDV6jI6mAcgMw+kkdZg9BHv/f26M3zEE2PjPBWkJqfo1wmQ49bW10QXhu+gQSF6+gHAeE+8tE/AkH/oMHR6Lp/sEtrkKDM2S3DAdmWzQbCk4fPrKfTvEzoqfT7BFdMQMj/HL/ngrAHlbAPeUF62TQIR1yXV4rzbb0h+0/ZIDxlx4EwGa4JSPYp3WuyXL6BzGXDdQ3Sv4EEIyDJBQiPvAZhDyp5H7Itmwbh/CiQVAi5voBsy6ZBuKd/lmgQ8nT/lAnCONygtjD7R8IEYVPUIIkSQIGAbOtHhQnUofvHF1Cxw0QWg5U4yP1Pw0TawvzMqR5/AbSR50bE+oQ/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOElEQVR4Xu3W709SYRQHcPlz+g9sbb2q19VqldFy/p6taaSLmdVQSaOaZqhkDKZIwhjBrNAMY2ima862+odO+567c/fch0flwq31omc7u3CfA/fD85x7Li0t//7wkTlM8398+Oj56GWKjFzimAxepPDwBQ5BpGc7aHm6nZIvbhlQ+o9oGm6BBAWQhI5JPLtJsckbjgvjPeb0cKJcIX00/ehKDQpHQCQENB++TrOhq5yLowmEfBX9JTdKn1eHGkMJCK9ldQT05qmfQZJ7FAifK2dHqFoYo+3CBINcYfCl8qsFhIuaQNHxazYIr02g1WinA4TXdYJ8jm3AhaS48V4H4eJAyPYeBcot9HgHklXCORNIVlJAWDUd9G6x1wYhXIGkLnQQLq6C1CI9CVSM9zlBmfvNg3AeIEE8vDtIHUunOQR1FGgt0e8tCIGtxHxoeIjCwaCNubd1js4HTvGcCYTVXF++Y4Mq+cf1YjCcIBWFOUBS83O0uviaMV0rZ2yQoEygjdRAoyAMa0vwa3XQ9FiIcskk7ZTLjBEQItDXS2dbWzlPB31KBxoFWT0IK2QCzU9N0YdshkG7W1u0V6nQRqHAyHRsgQZ7umtAqDsV5KIpWre8CYTAlyOn/H6NQcB839mm6sY6lfJ5Po/ob7fuQFkdT0GCQuAC6LjIw+rsV6t0sPuVj6Vcjn4dHvJqbW9uUrffz3megtRVwlEHAXO494236uXEOGXicV4pzC1Fo9TZ1sa52bkuG4QuXScGw7pDTCB5HAAkvQhb9mN/n/tRLBJhBOoLK4TiRw5y8dhQV6ghkF5HciurINTRz4MDevUkTImZGW4FhZUUVUolejAwYIPw2PAMJCicRz0ICPPIR/0IBPWDAkehq/WDLq2CXKAskGnbTCDcefjMZrHI24SaKr5N84oJCPkfk7dtEHqQiz7kBKnbpoJwxHl5pFhf7gzpP02DcJedBMLFcE5A0qfUWpPt8gykbxvOqyD1P5BgBCS5AOGWV0HoQa77kGnbVBBeHweSFUKuJyDTtqkgzKl/S1QQ8tT6aRKEUVugptDrR0IHoSmqIAkXoHpHLVJCrZ+/CDpu1CJr4/9obvwGao2cur6HJr4AAAAASUVORK5CYII=",
     "wiki_name": "Flamtaer bracelet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Flamtaer_bracelet",
     "equipment": null,

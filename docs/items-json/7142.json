@@ -1,7 +1,7 @@
 {
     "id": 7142,
     "name": "Rapier",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-07",
     "duplicate": false,
     "examine": "The very butcher of a silk button.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABTElEQVR4XmNgGAWjYBSMAloDxv/oIgMEQA5h/D9v0kQwjS5LRwBxSF9jw/8Vc+eC2QYKCmCMrpIOgPF/Znz8/+WzZ0NDZcAcA7Ec5JD1S5egOITOjoE4pKGk+P+aBQv+71y/fmBDJdTP7/+S6dP+b1y2bCCjCGLxhOam/6vmzcNwCN0dkxYb+3/B5MnwUBkwh4Dw5LY2rKGCrprGgPF/eU4OuIAbFDkIlFZgBdyAhkpTWen/2b299A4ViK/RMajYXzZzBr1DhfG/qYH+/6BA1v8+rq7/48JC/9cVFf6f1d39f93iRfQMFRhg/K+urPzfzsLif3cn+/+qvDxwIUfnUEEGjP/15fj/mykJ/7dVFwOHzgCECgww/nfQEv+f4aL6P9RcDswGRRnMQeiq6QAY/8fbKoEdg5yYByBkkAFmHTSAjoGAQeGIUTAKKAQA1E364FHBDhMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABK0lEQVR4XmNgGAWjYBSMAloDxv/oIgMEQA5h/D9v0kQwjS5LRwBxSF9jw/8Vc+cOvGMy4+P/L589G+qQAXMMxHKQQ9YvXTLwDmkoKf6/ZsGC/zvXrx9Yx4T6+f1fMn3a/43Llg1kFEEsntDc9H/VvHkD6RAQYPyfFhv7f8HkyUihMiAAEgqT29oGR6iU5+SAC7hBkYNAaQVRwA2gY5rKSv/P7u2ld6jAfI2KQcX+spkz6B0qjP9NDfT/BwWy/vdxdf0fFxb6v66o8P+s7u7/6xYvoqdDYIDxv7qy8n87C4v/3Z3s/6vy8sCFHJ1DBRkw/teX4/9vpiT831ZdDBw6A+QQEGD876Al/j/DRfV/qLkcmA2KsgF1ULytEtgxqAl6QMGgcMQoGAXDDwAA/V+47ljSQfEAAAAASUVORK5CYII=",
     "wiki_name": "Rapier",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rapier",
     "equipment": {

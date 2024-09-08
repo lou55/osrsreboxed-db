@@ -1,7 +1,7 @@
 {
     "id": 19401,
     "name": "Prayer mix(1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": true,
     "examine": "One dose of fishy Prayer potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xt2X7UuTYRTGvf+K0jmn8/3duek2dfNlmy/bpPxggXOb80NfikSQINPAkLIsSikwxZd8yVJLCaIgkQTtQ5JFWUp9MOir5Z9w9ZzzsBQJKtj2VAcON4OH5/lxnevc5ywq6v8Jgb1UPASOOFQ46UvB5bO6vwFKYLjXhIkbxehuy2WgvPh4paDkMhHQ2DUzulpzlCydgEajhVodz0CU509nIUalRnJyuhJQAtnZOuj1RoYZ6jHi3KlMZOfokJUleynCpRMoKbGixGKFxVIKi7UMVinN5hIYDCZlgCoq7Kiw2WGzOTjpN8GRaooAVVfXoKbGifb2DnR0dKKlpVVSqRy6/AIlgCgEl8jlcsPtruXyBbuMYBQBKi+3MYzL5eJyKQhDIWC3OyQgN5eOjB0dHatEy1MIGI1F7COn08UndVlhoVk5/xAA+YfUqayqZkMTZEyMOtIqCeh0BjgclQxE/iGFSkvLYTIVIyk5LdIqCfYLKRPsMCqb8es0AxkKTDxCIqSSQEZmLpvZ6dwDojy6u8DXgE5XgPiEpEipJLi9KyurWJUgUG0ttb4bGTvjyM8vRG6eHipVXLhVEjzJaUSQiYNAnvnraHzUD+/MVdi/zUG70cfjIyEhOdwqCb6NaX4F273xyS14FwfgezYA/+JteHYfI/HLEPLyDEhNzUSsWhMuleT9hzqpbqQLxycvoXFpEN6VYfhWR+B/MYqmlVEEVseQuzMJ1WwbT32tNmwqCRQXW1E314tjT2+icWUEvrUJ+Nen0PT6LgLS2Sydza+mkLJzB5qViyjrPwN95wle4sKgkrz/1D8fRMPLcfjf30fT1iwCmzNols79ScaOW+6GbbaHF7bExFQcOhwTSijB9wt1V/3yIDxvJFU+PURgex7Nnxc4A9t76VmfQNzSBegNRu64tPSsH2ULUenkNYMuQzK09900Ax1M/+YsK9cgeUqzdoXHCEHl5OSH2kd7ChGQ78MM/B8fyLk1B9/GPXjfTsMrKeeRylnX187wRUUWhgrTSiubmvYfuhR/lfSs0WhmhUJcrmDIZSMgGhs/S96rJQXp4qRn9+/WIYYJxv7/8L+XYYSRI/iBP8mD7/hn4ztSi4ggvLphxQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xu2W20uTcRjHff+KcnNOp/M4N99t+m7uoHMHdZuUFxa4k9tFN0UiSJBpYEhZFqUUmOIhD1lqKUEUJJIwu0iyKEupC4NuLf+Eb+/zG8OIIAK3N6IHvvwYvIwPz/N9DhkZ/05w2JfkweGIW46T4QJcPsv/DVAcRvtNmLphQW+HTmqgRJkIaOKaGT3tWilLx0GpVEGhyGFApPOnNZDJFVCri6WA4lBWxsNgEBjMSJ+Ac6dKUablodFI4iUOVqsdVpsdNls1bPYa2EWZzVYYjSZpgGprXah1uuB0upnoN8FR1iQBqq9vQEODF52dXejq6kZbW7uYJQd4fYUUQBQcK5HP54ff38jKJ2GXUXBwOJwMxufzsXJJCEPBweVyi0B+VjoydmZmllRQHAShivnI6/Wxl7qsstIsHRABkH8oO566emZogpTJFOmG4sDzRrjdHgZE/qEMVVc7YDJZkK8uSj8Q+YUyk+wwKpvwdZYBGStMbIWkCYpDSamOmdnr3QciHd1bYmOA5yuQk5ufPiBqb4+njmUlCdTYSK3vR8nuJPT6SujKDZDLs1MNxbFNTiuCTJwECixeR/DRIEJzV+H6tgDV5gBbH7m56tQD0TSm/ZVs9+CTWwgtDyH8bAiR5dsI7D1G3pcRlJcbUVhYiiyFMlVQifuHOqlprAfHpy8huDKMUHwU4bUxRF6MozU+jujaBHS705DPd7Ctr1KlLEscLBY7mhb6cezpTQTjYwivTyGyMYPW13cRFd+Y+MZezaBg9w6U8YuoGTwDQ/cJdsSlACpx/zQ/H0bLy0lE3t9H6/Y8oltziInvjyJjZ6/2wjnfxw62vLxCHDosO0gojs0X6q7m1WEE3ohZ+fQQ0Z1FxD4vMUV39hXYmEL2ygUYjALruKJizUHCUCTODBqGZOjQu1kG9LMiW/Mscy2ip5TrV9gaISitVn/wQMkMEVD4wxwiHx8ktL2A8OY9hN7OIiRmLiCWs2mgk8FXVdkYVIpO2oSp6f6hofg70beCYGYZSgEMRaJsBERr41did7WYQRqc9G0abmv68z/V/0hdfAfDSFMVIXEsIQAAAABJRU5ErkJggg==",
     "wiki_name": "Prayer mix (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prayer_mix#1_dose",
     "equipment": null,

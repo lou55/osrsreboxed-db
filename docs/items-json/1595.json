@@ -1,7 +1,7 @@
 {
     "id": 1595,
     "name": "Amulet mould",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": false,
     "examine": "Used to make amulets.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABC0lEQVR4Xu3Wyw2CQBSF4aETSnDFSlaWRQFUYKINWAVLO9CEmNgL5k4yAmfeL8YYTvKvHOXLsJGxfVGrJrliq6bb9SJVEKgGYRsB3TCqMgHDQZgMDEKmA6nyROXFnNqWgw517YraQaa5Y/qu492HgYefqyJMcpCAiM59z8NzqpaYJKBj00gQ0XscpfNY8tshEEJcUclvh0IAhud1IHyyZnaQDYVnI0BumGWuECrL64rJ83ZoPwh6PR/f8AdjCnhdtDUIw4f4FHA7NDMoBhcIos1/oBBhCgE6TACIsfmL6394iNBlAuGzvCdwCESEqaQgnApnA0a9Lp+53l6227FNhdvsdmxb3l5xzF/uA7Bs+1cfJAo6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA6UlEQVR4Xu3Q3Q2CMBiFYViKK7lyLAboBCa6gFNw6QaaEBN3wXw11XJaS7/+0IT0JO8VBZ60aeqi1s5mxdbO18vZqCDQDsI2AvphbGUChoMwExiETAeyxUTlxRz7voKcMUH+GDEMsts4yvC5LcIkBymI6iSEDM/ZYmJobtCh6wyI6jVNxnmMCXJjFAghvigmhrYOQgCG57OD1lB4NgLkh9HzhVBMDI0P4rQP0PNx/4YfjCkAQ1uCMPwJpyygGFwgiEYvfUKEKwQkwuB+OA4wIwjHx1EZQfr8b28DjG3/cYVA+pa3h0/rdrk3+Tu8Q7Xca50AAAAASUVORK5CYII=",
     "wiki_name": "Amulet mould",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_mould",
     "equipment": null,

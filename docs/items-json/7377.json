@@ -1,7 +1,7 @@
 {
     "id": 7377,
     "name": "Blue d'hide body (t)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "Made from 100% real dragonhide. With colourful trim!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4Xs3W/UtTURgH8O1HRfolcaDUfGGLqegYahuMQggiE02KioqiNIejJFGqIUUvYm8iiVZYTFgMEykjiIpCsb/sie+5PHfPPTvLXXcLDzzsvpxxPvd5zjn3+nx7v/nJHKb7/7z56cX0aXqWGVIxe+cUzUwNqmBEfuEq5eav0MrcZQNKf4iK4RaIUQBx6Jjs80v0ZvaCY2Cc454eTpQrpJ/m750pQuEXEA4GvZo5TwsPzqq++DWB0F+iN9en6efq5O5QDMIxZ4dBb59eVCDuWwqE//1ay9D2xkP6vfFYgTBGtLFRhT661qy081MzCIOaQIuPztkgHJtAq4vXHCAcM0gfXWt+RxkwEE9unOsgDA4El7cUaP31de9AnCVc00FyXiAAQtZ00KflURuEcAXieaGD8OQASUAkcpjC4S5qbu6gYLDNcU+CPr9LOUEfblcOwnXcr69vo7q6kILguLU1oWC1tc3qWnX1fqqq2udAfcmOeQtCoJS4f+BgjNrbk9TReVRFNNpbdC5BKO+33A0btPXxvo1xDZIonjMA8cCIhoZOxzkypYO+vx83gvTRS7TCBDWBgsFuhYrFjlFX93EFQun43AT6kZ/YLcjag5ChUqCmprhCYXDA4vF+FTgPBCIKhHnEICwECZKboj661qwlbwIhGNTSklSgZHLIxsiQIGTHUxCjEBKUSAyqkJCenhMqS4iamoD3IJkl/DIoFDpigxiF0jEGW4LM0NrSsA3CLs2YskBYYSYQvw7QJ3yoV80jYFA6OYcwsSUI2cFrQ2aozOygFUD6POLXAfoMDIzZZZMlAwYrjjdNBuG14RmIUbjO3zQn+1MKhACEs4SyMUhmCLu0BDFKH93QLJCpbDoI84hBKB+DEBKEz46vK2kbhD3IxT7kBMmySVA2u2lPbKB4X2KULFnFIKyynUC53DbdzeRpcipLtyaW6eb4EqXTL2k0NUfDI0+or29Evf09Bellw3WAMIBV/50D8wdLXoKwB7neh0xlkyAcY+XxVwB2cd48eTVyX09AprJJEO7JzxIJQj9+f3kAQitOvSkkRoYOwqYoQRwuQD4fb+t/Cx0og99fyI4noHKbjiwHy1Ho+5+ajjSF/p893f4A1GI0uuWY5noAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKUlEQVR4Xu3W/UtTYRQHcPejIv2SOFBqONliKipDbYNRCEFkoklRUVGU5nCUKEo1pOhF7E0k0QqLCYthImUEUVEY9ped+D6Xczv3uc90d7tFP/TAYffl2e5n5zwvt6rq328BMofp/h9vAXo6c5IeZ4dUzN08QbPTgyoYUVi8TPmFS7Q6f9GA0v9ExXALxCiAOHRM7skFejl3zvFgnOOeHk6UJ2SAFm6fcqHwCQgHg57PnqXFu6dVX3yaQOgv0VsbM/Rtbao8FINwzNlh0KtH5xWI+xYD4Xvf17O0vXmPfm4+UCBPGPwo/2sG4aEm0NL9MzYIxybQ2tIVBwjHJYICjjLgQTy4ca6D8HAguLzFQBsvrvoH4izhmg6S4wIBELKmg96vjNoghCcQjwsdhH8OkATEYgcpGu2icLidQqFWxz0J+vA67QS9vVE5CNdxv6GhlerrIwqC45aWpILV1YXVtZqavVRdvceB+pgb8xeEQClxf9/+OLW1pai947CKzs5e17kEobyf89ds0I93d0rFoDlBEsVjBiB+MKKxscNxjkzpoC9vxssFof0eoCZQKNStUPH4EerqPqpAKB2fm0BfC5Plgqw1CBkqBmpqSigUHg5YItGvAufBYEyBMI4YhIkgQR4WRWvKm0AIBjU3pxQolRqyMTIkCNnxFcQohAQlk4MqJKSn55jKEqK2Nug/SGYJnwyKRA7ZIEahdIzBkiAztL48bIOwSpeIQbNmmAnE2wH6RA/0qnEEDEonxxAGtgQhO9g2ZIbKAunjiLcD9BkYGLPLJksGDGYcL5oMwrbhG4hRuM7vNMf70wqEAISzhLIxSGYIq7QEeUBZIFPZdBDGEYNQPgYhJAivHZ9WMzYIa5CHdcgJkmWToFxuyx7YQPG6xChZsopBmGW7gfL5bbqVLdDUdI4mJlfo+vgyZTLPaDQ9T8MjD6mvb0Tt/r6C9LLhOkB4gPVjuwfGD6a8BGEN8rwOmcomQTjGzOO3AKzivHjybOS+voBMZZMg3JOvJRKEfrx/+QBCc6feFBIjQwdhUZQgDg+gUpsbycH7F7LzF0E7NTfSHf9bZe0Xil7qH3kMNOMAAAAASUVORK5CYII=",
     "wiki_name": "Blue d'hide body (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blue_d'hide_body_(t)",
     "equipment": null,

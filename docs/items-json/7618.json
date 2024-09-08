@@ -1,7 +1,7 @@
 {
     "id": 7618,
     "name": "Item",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": true,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABCElEQVR4Xu2S62rCQBBGzXMI1gtG1BKj2GiJqKXeU6wxWkopff+3GP1GNmy2tqZW9M8cOCABd8/ObiYjCIIgCIKwx6L/eVEsioKAtsslhfM5+zqdsi/jMS1Gz+zsaUiTwYC9r1ap02zSY7tNPc87N8o81cHPTURfb1v6WIf0vlqxiEMkRBiCEDL0fQ4o5nJUs23+jTBzzRTTs/hUacXGCH1wG2zLcWIb9Xqs/h8EKiulUuyRqJ9j9EV0+90uT8wM+ktMuVBgsb+bz+tR1rcNTfUTQQTh6tJMx1xDheBalYkpndpcVy2Gt4F3dCzGDPkt5i6bZY0pmY/s+iImcW3qwy2NYwRBEIQkO+uYcty7YxzHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA9UlEQVR4Xu2SVwrCQBBAzTkERYMRC7FgRbFgjRFNbIiI97/F6IwkrEPUWECEefAgP9l9O7uRiCAIgiAIwgUNPvOraLC2bdguFuBaFrmcTMj5aASz4YCc9nsw7nbJfCYD9VIJmpUKtGu1d6P4qa4eN2s47bZwWLmwdxwS4zASxTAMwpBeq0UByVgMsoZB3xjG1wwxPY1OFVbcGEOrxQJZNk3fQi7nq/6DgZ5pXfcNiLofoy6i2mk0aGI86JWYVCJBBgbxDbnqiVAMwqsLMx2+hheC1+p5E/Vsc1VvMXwb+I6CYnjIo5h4NEqyKfFH9gsFQRCE/+EMLjQ90WjoUb8AAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

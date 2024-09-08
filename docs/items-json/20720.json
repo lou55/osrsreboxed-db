@@ -1,7 +1,7 @@
 {
     "id": 20720,
     "name": "Bruma torch",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-09-08",
     "duplicate": false,
     "examine": "A torch made from the wood of the magical Bruma tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUElEQVR4Xu2VsUoDQRCGs5Xsslw4OAIxaGIkBCGFgoWV2KSyF1MIqWxCniJYCKKFWChYaecLCHYWYmctWPsaf9hdJne3JqWzW9wPA1fMcR/fzs3WalWqrIqAq+BxII8/Gk+/SWgogYs3hasPjdsvjYdvbYF2Ox1uKGdlfC8xupGYvSpcvitcfwYBEtjq9bDd7+P8WS6gzu7cMzOQgE5TrLc20Gq3LdjJ9AiTF2XhCIYJSKCeZZBJYstAbXa71pQBY4fZGQysHQIiKFPsMMfjg4WdNSlLUAYyyNwQAAGlzaYFYbdTtGFgCMgYG57uc9opmykCKa2xdxhgkIsgdDzFYoUhO/7H/fLf/IfkZnwQv5Mh5SFmHNhVWW7H72KMQNZolLav38EYZ8fsl2jsRHVUBibAvbQsbs9EYif/qyKwk1uhCmzH5O+V4HewJwqIKjFnDn1cACRXACpzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABGklEQVR4Xu3VsUrDUBQG4N6pnBBaAiGSFlushLyAr+A7WKQgHYpQOvQhuioIRRy6CQ6Cm5Mv4Ozg1Hf59dxwzQ2l4HTPGfLDT5Lt47+B2+m0adPmPzGoKx6D7VeMx+8Yu30sjTK4fiBM7wmbjwh3n6Igg/OyxO0LYfFMmO8Isy1JgQxGk4ntWVFg/R5h+Rrh5kkEZBAnCQbDU1tG8VKrt0gG009TUK9ne5LnGI7Hf0sFBlUYXseBfJQopktk35NfDD8DYzjVf+Mvw98ix+SXEbwOlxe7vLoICTKNRRzEtYYGSRPjowJDXA5BQhDOMYxYmiBhDKcGqcCkWWbL95QaEF8HKjCKjopTgVRh1IFUYZSA/GXEMS5qIDryA7DJvQOTJqorAAAAAElFTkSuQmCC",
     "wiki_name": "Bruma torch",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bruma_torch",
     "equipment": {

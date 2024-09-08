@@ -1,7 +1,7 @@
 {
     "id": 25470,
     "name": "Open steel coffin",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": false,
     "examine": "Can store up to 8 shade remains.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkElEQVR4Xu2W3U8aURDFvQ8NofGlaWNjTVVo0BAIHwaxRFshfkFNEGkRU6qobW0bU1tf2/7vo2c2g3fvsoDLXfviJCcksDA/zpz7MTHxUA8lpcire6/b5q3KrEu1wuP7hlKUTaU8IKKtnAOUm58PG8pxBA1NiP8A5IAcNhqUiMXo3eaGC6L59mVPeC49GwlzbI4zXzodWisWGWB7fb0Hc7g5xxJ3lhae9Byy7JI7tOXVVdrb2XFBCAi0nMtSOf+clhOOO9ZhzGx8+vDe5Yyu3dIL2lubodeLUVqceWQbSPHSNZv6CSAQ8hONRHr5sQQ0fBWJ9CBjTICBcnFrQKPDiJAhAbEMNBqMHmYTRGQh1KPBdLZjrG417oEQVTJRepOdGgdoOAw+B8QgEAgLoboyTcXk06BA/jAYCT47242zvtZfeQB0EDzLKky7Nkaz44DqDwMQ7DXiyCBX8H2BwSix9PVx3RnIhBEBAg2QBxNCdwXCc3AQMNgcS+lnwdwxIXSYenHSF0ZcEZCL5gItZTJ82GJcAdxRdNVO+mq/NOmB0F0BCPIE+POjI/rY3OeNsVWvB4GRcg7Nf79/8dljNu4nuPa9kWDov8cpPtdw+uM6gt85PmgFGZVeyrXdD5K+/3Bebk78dPLGzVqNqpUyv47hjpTif41M+LmEEek7M4DgDMaEKyx+46TdtgGDUhxICKNAcwQZcLKMzcBfnJ5wbjAqAP/odm3BSDlQAIIQVghOyMVLP9Gvvp3zHoVVBSC8jpkbsxSDCJQJBAi560B/Li+pVCgwzEo+b9sdKcUQuksIrowMILIqIYEKwR29bqFMILcLin5+PuOLfkju6OU4IFAYW/+mznPe90MocWFYU7/371rXFMMmzlqKYFUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdklEQVR4Xu2W3U8aQRTF3YeG0PhibNpYUxto0BAIHwZRIq2QWoWaIKIUIlX8qF8h2vra9n+/9dzNldlZFskyS1+8yQkPuzA/zj1zZ6amnuu5pCxya+LVX7xZXnComns5aSiL0omEC0T0JTMxINsRLKhD/AcgG6Rdr1MsEqGvm58dEI1P7x6F95ILoSChbGd+dDpUzOcZYGtj4xGmvfmeJe4sL84EBeMMbWl9nXa3tx0QAgKtZNJUyr6hlVgg7rh3z/eDfYczqnYKb2m3OE9rS2Famn9hGsjirasv6iWAQMhPOBQynZ+nd5FIDTLaBBgoEzUGNDqMCBkSEMNAo8GoYdZBRAZCPRpMZyvC6laiLghRORWmj+nX4wA9DYPngBgGAmEjVFbnKB+f9QvkDYOW4NnZTpR1UfvgAlBB8C4rN+d3MA6GAQhmjTgyzBV8X2DQSmz9MdrlHnwiQGAB5EGHUF2B8B4cBAyGYyH5yg/QcJhaftoTRlwRkF5jkZZTKT5s0S5fMPetuKf2CtMuCNUVgCBPgL88OqLDxh4Pxmat5gdGyj40//76yWePvvAgwbXreoyh/xwn+FzD6Y/rCH7n+FtzHCCU5Rj3w6TOH87Lw4mfjD+4Wa1SpVzizzFhUBb/a2TCyyW0SJ3MAIIzaBOusPiNk1bLBAzK4kBCaAUWR5ABJ9tYD3zv9IRzg1YB+KbbNQUjZUMBCEJYITghFy/1RL+/uuQZhV0FIHwaBwKIQOlAgJC7DvT77o4KuRzDrGazpmGkLIZQXUJwpWUAkV0JCVQA7qjVh9KBnItadHt+xhf9AGGkbAcECm0bvKi4NbHqt0d/Yrr+AUi956sRuCVyAAAAAElFTkSuQmCC",
     "wiki_name": "Steel coffin (Open)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_coffin#Open",
     "equipment": {

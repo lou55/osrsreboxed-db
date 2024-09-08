@@ -1,7 +1,7 @@
 {
     "id": 12002,
     "name": "Occult necklace",
-    "last_updated": "2024-06-01",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-04-10",
     "duplicate": false,
     "examine": "A smokey evil embodies this amulet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsklEQVR4Xu2Xa0/CMBSGz9kCCHiJF+QqEhPUEKLGL5r4/3/XcW9L2dpOWQ3tvvgmJ7C1HU/fc9oVoiCx1EcrYlnnpGLT0fHayeWGqA0wlvsdjOvOewGFtsRgLLMdzNtqZQXuffRy5Rj6JAKzgdzWqltwMQHYISAi4xYCbvlgR5Mu5mq63B5VVcFQW03HBch+sNtaL+2Scaf5uEY6nC5fYa4GigNnytb+1GxMY+mHh800sjuohbCZ/iXFjWXP1m31pfufx0kXdGi27v4Sbakb/VbQLD06UW3m2rw+6vsfRfyD/YVzPN8D6bbo6YLqHGKZ8FQWvPSAIqcLcndpljktlDtjmkqf+uqecSdyuqBy2SMAAHc22dYCMjCR0wXpIwXSVoVxgeBiFSYiEMSyynwYxICG1mkxAQzE8pQNZV4DtKSld5J0Rx9Zum62+UQ+s699PGSPKp55nRIG0kAv+a0Hc00juSscilzErjTQJV15QCMep3YH0kDndGHBAHBW7EeJ3YFKoD4N5JTO1Heka1issFaA8HroUk861FWfuMZybwkIKv+lupG4fkqZH64Lt++/YusbO5eA1TCzvx8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhUlEQVR4Xu2Wa0/CQBBFZ9oAlirGB/IoojFBDSGa+EUT///vGnt3AMu2Qrey2y+cZMKj7XL2zm4pkRMs1dUKLIuYTC07Wu+dWG6J2hBjeVjL2Ol85FI4FliMZbqVsWH57MUmMZwTSGyfEPhNCykGEDsktEEFkFZZ7GjoYnYbVMWwttyuq0WTgTUlD+mAuu0q0iTV2rDjTNm6Px0VHdxtYM/pYC24Dd6kxbVxna2eP/DTLnBotvb3TXakE/sWNEuPzgrHtL37J/Bv+I/48+Q4Kwl5bheoSohlzBOZ8bwk5LldwP4RloxmJp0RTSShZH1M0/HcLlDc9mwEkM4yWu0IbWQ8twvoIwXaVpSxhZBiAJkNLI9RWQbVp9R6WgwCy0uUSlYhNKd5iHVTRNfNKh7LV/S9rafo2dQrL0LKABV6i+9KMjc0lPs8oVaErui6JDTkUWgZoEIDutyRgeA0vx+1KpRQX87pwrxHu9J8h7UihL+HLvWkQ13zis/Y7i0JAb1LV9eJE/QD0nsjpjaXsgQAAAAASUVORK5CYII=",
     "wiki_name": "Occult necklace",
     "wiki_url": "https://oldschool.runescape.wiki/w/Occult_necklace",
     "equipment": {

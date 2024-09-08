@@ -1,7 +1,7 @@
 {
     "id": 16833,
     "name": "Dragonfire shield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-18",
     "duplicate": true,
     "examine": "A heavy shield with a snarling, draconic visage.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu2X/0tTYRTGdxEZE5mIMlFx6kSHTjYVNUNNQ235BdPM1NQUNTMxzcyCjIgo+r1/+NTn3M7tOiQI3k2JDjzc3Q3u++F5znveu0jkfxWtPCn85hrLk1u9vXJDoDxZmp2VmcmJEFRYJS1PlufnVU8fL8vqwoLcGRqS7s5O6eroUJUYzJONR0vy5OGi7KytqUujdTF1qi+blVwmI+2trdLU0FAKMB/GnNjf3JR7Y2Nyu79fhhKxQPzW3Ngo9XV1kqitLWacnkYT1oN8XsaHh2WgJ6cAVfG4pCrLVcmKMqmPlen3NdXVEotGXUJ5GomJaEwjg4MKhBssnG5r09iQgRMhsDynp6XFBZSni5pwBU2Mjmr/sCgx4YIplUxqfOl4eRAdMM6AWBg3ECCf357L6fN9vcc1AAyGmADEFVxDTt2x7c3iXIE5ebYn74+P5d3RkcqArF8qKypU4aicAe2trwcw6NObMzk7ONDYuMcxGpxoDMbc4rNzd5g5BgMEQN8uLhSSPmHrExvNSz/ZjjMwp0AcE9srK7LdHld9fH0q9++Oqyu2o4ACCIfsakAO4/LdWZye1sm8mooHsqiAoXe42pS2gUgvOY+LM4vpHIbBGbb+cn9fsJtwhaiACAM5nz12bhnMRpsPxAiYy2Vl5Gdk5kxPTVRlQHaeOYuL09yAAEGcX8RFE092dSpQX7JJuqujgRiEuBYehoVP/8vyGzkMYw3N9rf+ASjX1KiLFwLhklN3rgLaTVcF238mm5F8pkvaE4lLQMAg55PZXsAAMpgPr070qKB5B1qbJfWrcTnZw0DcO3SH8rc7sweXAAPo+9cvemScHx5qY9sBOzc1pSAGRIM7dMfq9wwCzKJ6sbWlE/rl7o7GSk/hiAExIJlLRQCi/Lc8i89e6omMucNn3DAYvmNy01NFAopE/If6YEBxdrHlGYw2ne3YKAmQVRjM/gLZPAIEQK72r8NhQ/+5wmCmsGslhQmXLVoIeC0wV9VlwH+sfgCGkqBR/9PsMgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xu2X70tTcRTGvYiMiUxEmag42UTHnGwqaoYuDTXzB6bZUlNT1MzENDMLMiKi6H3/8KnPuZ27m/jyu+kLDzzc3St4PzzP+Z6zVVXdVdnKk6tPbrA8udffL7cEypOV+XmZm5oMQYVV0fKkuLioevm8KGtLS/JgZER6Mxnp6e5WVRjMk81nK/Li6bLsrq+rS4XmqDo1kMtJPpuVrmRS2ltbKwHmw5gTB1tb8mh8XO4PDspIPBqIv3W0tUlLc7PEm5rKGaen0YT1ZGZGJkZHZagvrwD1sZik6mpUidpqaYlW6/PGhgaJRiIuoTyNxEQ0prHhYQXCDV6c7uzU2JCBEyGwToF4qQlX0GShoP3DS4kJF0ypRELjS8dqQtE5K3/u4AYC5PvHCzl7faD3uAaAwRATgLiCa8ghkBccb17OFZjTV/vy+eREPh0fqwzI+qWutlblOCrKk/2NjQAGfftwLueHhxob9zhGgxONwZhbfHYI5LvDzDEYIAD6dXmpkPQJR5/YaF76yU6cgTkFYk3srK7KTldM9fX9mTx+OKGu2IkCCiAcsqsBOYXBneXZWZ3Ma6lYIIsKGHqHq01pG4j0knMgdhbTOQyDMxz94uBAcJpwhaiACAM5bujS3jKYzU4fiBGwkM/J2N/IzJm+xojKgEr7zEl5us0NCBDE/iIumniqJ6NAA4l26W2IBGIQ4prDYeg3chjGGprjb/0DUL69TV9+FQiXHMFQ1wPtpeuD4z+Xy8pMtke64vH/gIBBziezfQEDyGC+vDvVVUHzDiU7JPWvcdnsYSDuHcJQ/nFn9uASYAD9/vlDV8bF0ZE2ti3YhelpBTEgGtwxEFWaQYBZVG+2t3VCv93b1VjpKRwxIAYkc6kMQBT/tBSffaknMuYOn3HDYHjG5KanygRk5YMBxe7iyDMYbTrb2qggkJUPZj+BbB4BAiDX0q+OipYPZgq7dgMw11UY8K7KX38ACZFoaCqqlUwAAAAASUVORK5CYII=",
     "wiki_name": "Dragonfire shield (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragonfire_shield#Uncharged",
     "equipment": null,

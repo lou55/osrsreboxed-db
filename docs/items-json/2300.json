@@ -1,7 +1,7 @@
 {
     "id": 2300,
     "name": "1/2 anchovy pizza",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "Half of this anchovy pizza has been eaten.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRElEQVR4Xs3W20tUURQG8Jmn6KXXHoISesqHNOgGDZlkSSnlYHm/TMZoSlqaNkymeWvohiB2oUJBERMpI4iKosi/bMW3D99xne2emnGO4YbFnMse1m/2WmfPiUR2/oiKO1z3t31E5elwrTxOx01kUjUyNXjZBBFLM9dkYbpd5p+1OVD2jygY7oGIAohhY+aetMirTFMgMc5xz44gKi9kVKZHrmxC4RMQBkEvphpkZqzOzMWnC4T5Gv1zdVi+L9/ZGoogHHN1CHrzqNmAODcbCN/7sZKW32vjsr42aUDIUVpUZMLObg1v2fmrCUJSF2h2ot4H4dgFWp7tCIBwTJCd3RrRQBmQiM2NcxuE5ECwvNlAqy+T4YG4SrjmAunecAXmfXjd6YMQeYHYFzYIyTWICUuK98lsJuNHzfkSabh0VBJXT0r/nl1mzse3XUHQu7uFg3AdIEJixw5KReyQVFccltoLR6Sp5rh01J+SZGNMbrScNpgD+/eauZ/musMFIVBK3K8sK/ZXobX2hEnMAKSnrcwcx+MxMx+r+WXhpg/69X7Ux+QN0ijcAwIrAQhKghIh+dLibhOEdXVWmfnoH4C+LvY5QXb2LMMrCZ4YgnDO1SBCQxDsoaGuc1JeXhoAfVvq3yrI24OwQjYIvUGQvTI6+nrjPoabogbpTdHObg3vkc8GutVx1vQHojdxxpzbGITGYHVCBRGFe6nuShlIVhgIPu2yDQ3WSaK9cvtAepVw78HtKhnpu2hg+slC4NUklWoIYAhaeX7dB2GXJiYnEJ6wbCCUDoknBqp9CHvpXrrRzMF3NAirg78NvUI5rg7GBsjuIybDOTZJwNjco6Otcn+4eROI5cLfRmggInBdo7g3TU4mZHzMe/kCXP+xEoRdWoOIsrM7hgdylQ3X+P+lGx4gltMFwmvH5/keH4Q9KI99KAjSZSMICTQq89A7d4GwOgWD8JT9C4RkRBFDEObpcoUGssuG6xrERkcfEUMQ5wKER16DsAflvQ+5yqZBOEZyvgXYIN0/oYBcZdMg3NOvJRqEebp/CgRhbH4FdYXG6LBB2BQ1iJEHKBLhtv63sIE6dP+EAsp12MhcsIyNuf9p2EhX2N/Z0eMPs8GMT8g8oFYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xu3Wz2sTQRQH8OYkXrx6EPTgyR6sgr/AYC1Gg7ZoQrRNf8dIGlvaaGtriLGxbWrwF4USf6DSQkuopWhFEBVF0b/syXeWt7ydTGw2uxUPDjyyuzPJfDLv7ew2Nf37LUDmMPVvewvQ43yMHuaiKkrZCM1PXlLBiMriVVpZGKTlJwMGlP4nPMMtEKMA4tAxS4/66EWpxzExztGnhxPlChmghenLVSh8AsLBoGfzcVqc6VRj8WkCYbxEf9/I09e1W42hGIRjXh0GvXrQq0A8thYI3/u2nqOfm7P0a7OoQK4w+FH+1wzCpCZQea7LBuHYBForJx0gHNcJCjjSgIm4uHGugzA5EJzeWqCN5yn/QLxKuGYCydowBca9ezlkgxCuQFwXOgiTSxBP2NK8h8qlkh2Rcy0Uv3iEEldO0PiuHWrM+9dpJ+jNbe8gXAeIIcGj+ykUPEAdoYMUO3+YeiLHKNl1klLdQbred0ph9u3drcZ+WBr2F4RAKtEfbm22V6E/dlxNzAHIyECrOo5Gg2o8VvPTyqgN+vG2UC8GzQmSKPQBgZUABClBijB5ZXWnCoalh9rVeNQPQJ9XM42C0KyU4I5hEM55NRghIQiuoan0WWprO+QAfamMNwqy9iCskA5CbTBIXxkZmbGojeFNUYJcbIrWLV8LdCN5RtUHYixxWp3rGITEYHV8BTEKfdnhME2kQgqCTz1tU5OdlBgMbx9IrhL67t1sp+nMBQWTdxYCrybZbNyBYdD602s2CLt0nRg06w6rBULqMPHcRIcN4Vq6k+tWY/AdCcLq4LEhV6ghkF5HPBnOsUkCxsVdKPTT3XxvFYjThceGbyBG4LpE8d5ULCZodsZ6+QJcPlgZhF1aglygLJApbbjGzy9Z8ABxOk0gvHZ8XB6xQdiDXOxDTpBMG4MwgUSV7lvnJhBWxzMId9lWIEzGKMYwCONkunwD6WnDdQniQkcdMYZBPBYg3PIShD3I9T5kSpsE4RiT81uADpL14wvIlDYJQp98LZEgjJP14xGEhoFbh8TI0EHYFCWIwwWo3laN5JD18xdBf2rVyOr437y132m9QcP7MfpPAAAAAElFTkSuQmCC",
     "wiki_name": "Anchovy pizza (Half)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Anchovy_pizza#Half",
     "equipment": null,

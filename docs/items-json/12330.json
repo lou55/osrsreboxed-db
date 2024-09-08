@@ -1,7 +1,7 @@
 {
     "id": 12330,
     "name": "Red d'hide chaps (g)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Made from 100% real dragonhide. With colourful trim!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4Xs3W30sUURTA8VmGZVkQIRBilVKCXnoxfPGlB1+EoAfLoqKiqKhIKoiiEin6IdIvBLMfVCgZYiJlBFFRFPVP9O/c/N7xrGfO3nV33TG8cJjZ2bPez9wf5xpFG7/lXDhC3697y7lHI/vdg+F9Psau73WjVwd8CGJ24qSbGT/hph8fD6DsSzQNT0CCAiRhMVMPj7kXY0dSHfOZ72ykUQ0hc2785oEKFFcgEgJ6NnrYTdw+6HO5hkDka/TPhRH3fe7K2lAC4l5GR0Cv7h/1IMmtBuJ3P+aH3e/FO+7P4j0Poo+dXV0+bO+mJcMuby0gOtUg/cYSk3cPBUFzk6dSIO4FZHs3LZeaBhCyuPksIJ83VHQ3BgtusDfverbFrrUY+ech0MLzM9mBZJR4pkHd+dh1xpFriyLXuhw8Zxot6MPLs2UQ0RBI1oUF8eYa1FuI3Y585Nrj2qCPr8+lQe+uNQ/iOSCCvL7SZtezNErbFUhQFvRp6ny2IIKp1KD+9pKfNkADWzuqghjRLzMXyqBf72+VMQ2DNIo/bkG7O0oexFXWUgj09e2lIMj2XqWtbOFaIAKQxxSTCIG+zV5eKyjZtoxQLZBMF1e2Ppi21koQ+Rqki6Lt3bRky4dAhAUxTWx7dhs7LTRljE6mIEERdEDF1SMECATXYqHgY91AepS41gMKjdD809NlEFVaMHWB2GEhkBwHq4Fa4rgCRC7Hhh6hOkeHtgKy60iqrwZRFPdsafdrJwSS6eLYyAwkKJ7TgQaxmAGxoAVkp4tcqrQGCcr2HmgJKDRtIdCu5bMMDPVoUz5fASL/8/RQGUQNaqAOpUF62jRIDte+JZCcZZQACwLeNIhdVgtEZ+T2L4HkxCdYS3b9ZAay08ZzDWKhk//3SYt7c7Hoo7szWUOSC4gtr0HUoIbrUGjaNIh7QBwn/EaH7EbJzQQUmjYN4jv9bwn3Us3J0+unSRAt/cbVQmN0WBBFUYMkGgBFkZT11cICdej1kwmo3maR9WAlVnL/U7PIUNjfbOj2D2QIQwJ5IHhGAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xu3W30sUURTA8VmGZVmQhUCIXUkh6KUXwRdfevBFCHqwLCoqioqKpIIoKpHCSqRfCGY/qFAyxETKCKKiKOqf6N+57feOZz1z5667szuGD104zOzMdeYz99x7rkGw+VvO+MN3f8Nbzjwc22/uj+6zMXl9r5m4OmRDEAvTJ8381Akz9+i4B+V+RNvwCCQoQBIuZvbBMfN88kjsxfzmnhtxVCpkzkzdPJBAcQQiIaCnE4fN9PhB25ejD0R/jf6xPGa+LV5pDSUgzmV0BPTy3lELkr71QPzd96VR82vltvm9cteCUmF4qHy1gHipBukvlpi5c8gLWpw5FQNx3iQoF0sDCJnc/BaQ7TdSNDeGC2a4P2/6toemVAzsdR9o+dmZ7EAySlzToN58aHrCwHQGgSmtBtdJowt6/+JsDUSkAsm8cEF8uQb1F0KzMx+YStgY9OHVuTjo7bX2QVwHRNBvoLzV9FVHaYcCCcoFfZw9ny2IIJUaNFgp27QBGuruqgtiRD/PX6iBfr671SyGFgdpFA93Qbu7yhbEUeaSD/TlzaVWQbS1JdwIRACymGIUPtDXhcutgqJlywg1Akm6OLL0wXSWkiD6a1CKohgteR+IcEGkiWXPamOl+VLG6GQKEhTBC6i4eoQAgeBYLBRsbBhIjxLHZkC+EVp6croGoko3iaFFK8wHku1gPVBHGCZA9GXb0CPUEsidR1J9NYiiuGdbxc4dH0jSxbaRGUhQXOcFGsRkBsSEFpCbLvpSpTUoBSoC+dLmA+1a3cvAUI+25PMJEP0/zY3UQNSgFHUoDtJp0yDZXAeqINnLKAEuCHjbIFZZIxAvo+9gFSQ7PsFccudPZiA3bVzXICY6/f887jCvLxZt9PZEc0j6AmLJaxA1KHUd8qVNgzgHxHYSPXgtZDVK30xAvrRpEPf0vyWcSzWnn54/bYJo8S+uFxqjwwVRFDVIIgWo2ZZESuj58w9B67UkMhn/W3vtLxoE+GfYrLZ5AAAAAElFTkSuQmCC",
     "wiki_name": "Red d'hide chaps (g)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_d'hide_chaps_(g)",
     "equipment": null,

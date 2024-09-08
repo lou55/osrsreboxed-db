@@ -1,7 +1,7 @@
 {
     "id": 26265,
     "name": "Studded body",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-10-20",
     "duplicate": true,
     "examine": "Those studs should provide a bit more protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfklEQVR4XtWX0WoaQRSGXUoQRVZkF0VFEw0mGEu0ki4VTNuQQKHvkNte5gH6LrnvW572H/n17NnRWHducuC/GOe48/HPzDm7lcr7ikiKOhQ295j/HB2RjIcNGfbr0uvUpNU8cyoutlOj/sGrAFCRzKdNmV3Fcj2Oc2DtpHpQFoZAi4uLMlBRDmQybu/VeJj+y2lJr9uUTtqQpFWXOK6FBwLMdNLJycJYKB8YFARoPuvLbNrLAf18eizAaFDMayiClQSKZPmxJcvbgRfKwmCeOT63oJIHO5J1dimfP517oSwQ5n05ACNcSZci+bqayJe7kYP69fxcWBC/0R3MYWzzMCY4tq4U0MP6yrlEKOuU3i7MIYd5Opf52iW72hERyY+Hmzeh6I6FYZ4WgOjQCS5Fcp+15enb1EFB2ELAEZCQb4EQnhX+BBjEBohQFowVfH7Tdppdp66IUnq7IFT3AMVxB7VappItElcKALO87WxhtkCXiROKqRXbSRAgDZMtug4G+v3ykgPDGJqMWjIaxK7dUEGBfDBa+nc6RahBr+G2K9iWwZ37rC+ru15uYR7qfQIUgbrtgA49rs/l+2oof15ft1B2cWyTHuPWwSkAsVimSc0pGBBd0lfeJ5YB3DJsGx3SMKWBCKWLpE+EIRBqjw/IrvIfsQOCDgFpGBZHthcANeNqGCB97S0Qzw5BNmVgV60BxNfdAAcasbllug75HNrXPgID5WH2AVlndC/THwT6vdqudGQU3UHLgKwz2p18d/cDnejSBki7w4ZK+VzR/csHVMKlKAcD8fvMJ9tM9wFVzyrlXLLu2EUPyQdEmBOBEMVP5TIqCbMJPiSU7PPfRfwFSnKXhS0y5GMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACY0lEQVR4Xu3X0WriQBQGYMNSRJFISIgY0aLFFutSW+mGFezulhYW9h16u5d9gH2X3u9bnt1/wq8nk4ktZnqxsAP/Rcy0+TiTOaOt1r81Aqnm0LDnvuVv3jwCmU16Mhl1JRt0JOqfmFQftk+v+8EZD6hAVou+LM9DuZiFJVgatw/GxngDach8ltZmNkn+zokkG/ZlkPQkjroShh3/IGAW80EpNsZGuWCIF9BqOZLlIiuBfjw+VDAaivsaRVhDUCDrj5Gsr8ZOlI3Bfc5xVQtpuGyBbPMz+XRz6kTZINx3zQGMuIZVCuTLZi6fb6cG9fPpqfJAfMbq4B6u7Xm4JhxL1wh0vz03VSLKrpReLtzDHM7Tczm/YZUC+X5/+SqK1bExnKcD0JEYjEDu8lQevy4MCsESAkcgka9BiN93+KNGASLKhrGDry5Tk+VFYpooo5cLQXdvuMsw9qjNOpH8OjatAJj11WCH2YHOYhM0Uzs8TryANCa/HhoM8uv5uQTDNTKfRjIdh+a4YbyCXBgd/TkrRdQ465nl8rZkqM5dPpLNbVZ6MF/qugBF0DD1WKGH7al820zk98vLDmU/HMukr7HrUCmA2CyTuGPiDcQq6S3vCtsAdhmWjRXygMEoQETpJukKMQSh97wbCDkE0hg2Rx4vAPXDth+Q3vY2iO8OIUUb2HdrgPh118MLjVHsMt2HXBWqOz48g8qYOpBdGX2W6R8EHr5XV6uDIwOxK6OrUz7d3wGkq8MDlXFVRZ9fLlADVFDCIPx95op9mNaB2ietY0EYBUpXx37oobhADTAc+Ac+83/4GX8AoqFUJEtQxa0AAAAASUVORK5CYII=",
     "wiki_name": "Studded body (2021 Halloween event)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Studded_body_(2021_Halloween_event)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 4129,
     "name": "Adamant boots",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": false,
     "examine": "These will protect my feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZElEQVR4Xu2UcUvjQBDFXY5DWoIhtFRsMdoGe8RK2yvqtSAngiAHB/f9P81c3saXTDYJJKlnQW9gyD87u795byZHR//j44aRNA8eKcgiPLF5YLAcBHm3uJBNfC7jQU+BvRugkdXUz3K7nGZAq/lEFtFY4umpjPxj8XpfKgDfFNLIJgpsAuZhHZWAZmeehKO+BN7XDEir+W2i7d0Lzsj9fGCTUC4QHgMQrCMQwF1rtZJ7wKVAWiGd7L4KqM5aKKnPtoQysouHGZQG0XbgEcwPHmliLc8SaH152RQqBULyIQ3C5COumnXW7gGEyFXig9oq/YgLhHNV1hKIMC2BEEZ+bq6sDbbj1wc1VHAWVAK51hKoozoMI88/4gIUh3Q2Gcp45MvA75fmzbW3aqA7ABnZ/t7K7cudLB9Xcr27luh7JBcJVJioQpgTryf9XjLUzxtZP63tlypSSc6aP/TFC7wuQMn8/NmVYGbLmVXGBUpXOE133fH/uQpHhbqWQDkMOgbM/HbeCEg3oWHc81A0rWkUyU/x172FuXm4sUBxMkeA0nadDrwCEGC0xahBA+dxaGt4njANtyyHwaUukFbHBQIMajFDqLPnXxXlea1OYxgOpwaibQSqg6HNBKpagNbq4NIqKHTrqqOt0kDZEjgNtFAHUQ+E5CwQiIOsYVDH+SFQR7sQRSBezhnSl9fB0C6cd+1iTUO7GKYwB3rly/+QekXdedMgLWAY+U+Om8Juix3mS0A19bxR0Q6qlEM/qrN4cQ7kbiR/huWaNwgtdfliU5g1KEq7/glMsyiqWK3mO4er4kFhPkX8BQEKCRXaK5VQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu2U4WrbQBCEI0opNiJC2DjEJgq2iIviYLsmSW0ILYVAKRT6/k+z1Zwy0molUUtqawhZWPTn7va7mTmdnb3V6y1Psj55ZSCr6Nz1icEKEPTD6lp2yZVMRwMF9t8APdnMg7z363kOtFnOZBVPJZlfyCT4IP7gXQ3gX4X0ZBeHrgHztI0rQItLX6LJUEL/fQ6k1fw40/b2gvPkcTlyTSgLhGEAgnUEAri1VivZAy4D0grp5u3rgJqshZJ6bUsoTw7JOIfSINoODEF+MOQYa7m2MxCagzQIm0Osmk3W9gBCFSpxoLZKD7FAWFdnLYE6wLA8+bK7cTa4G78M1FDhZVgLZK0lUEd1WJ48f05KUAzpYjaW6SSQUTCs5M3a2zPQLE/2P/dy//1B1l83cnu4lfhTLNcpVJSqQphzfyDDQRrq551sv23dlypSSWYtGAfih34XoDQ/vw4VmMV64ZSxQNmArO1zx//nJpqU9rUEKmBwY8As75dHAelLaBi7Hoq2gEp/ij8eHczd050DStIcAUrbdTHyS0CA0RZjDy5wlURuD9d3hsGhFkirY4EAg73IEPa59S+Kcn1LdTIYhlMD0TYCNcHQZgLVPYAjYVAZEA6tg8JtrTraKg2UPwJzgRbqoJqB0MwCgRhkDYN9zA+BOtqFKgPxcGZIH94EQ7uw3trFPXbqH8or5UA/+eo/pFlRm7cOILqKnxxfCm9bPrh4BFRT542K9oSxVcBVDy6A7Ivkz7C655+XV8oaFKVdJ4BhWRXr1HyrV16/AT2pyIO7zfDfAAAAAElFTkSuQmCC",
     "wiki_name": "Adamant boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_boots",
     "equipment": {

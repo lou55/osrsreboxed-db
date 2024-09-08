@@ -1,7 +1,7 @@
 {
     "id": 1521,
     "name": "Oak logs",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "Logs cut from an oak tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkklEQVR4Xu2W/0sTcRjH/dCvQoTi2MQyR4YNQgSN0bSJrgwD+4IYFYnGyBgVRT8EQhBEBEEQ/cFPvD7ns/vcs7vr1kYT8oE3bHe7e157P1/uxsbO4ixOXTjp1UgiSr5UvSCrtSlpLZZle7kiD+szo4ByUl+YlOb1kmwtlWV/Y06eNi97KdDi7OygUNb2bO02LsrR3SvSvlP1OmzNeQE2JCAnOzemveVYzz/HgZX5Cf+Z40CQEABgOtvzXnxWuCEBOdmrT8mTRkkOmmX58OiavHuwIG92rnYTqhMKwrlQCqdAE+PnTtz8q3DS2ZqWn683vdKALAjnrUIgXB7AJdeFQR93awmoUBzjXJoUiNIrzFCA2puVBFQIwfEsAcSU0W8DuEMkgY5uV+R4rzdhmoDEOUrKlD1eu+TXQDyRfUU8xiFQCBWCheXRntHJAoTe0Sldr52Xlep4P1DO30RlYfqBQKwEvlMyzqlb8dbOBXNyf3nS94peTBImDYWjj/jXNGpWYrsOtOcsfA5UtHd+dDbka/uWfNq/2b0pMNxQnQOgKIQdAO2tECij0Z28vzfjywPQ54NGNwHL0bt3sgjDR0MehF0HlNs2ey4Qpfn1tiXfXjYTQFoywOwOylqKFkSlPVcIiP7Boe+v1uXLi1UPBETWPgp7Kg0khNHp1D4CiHLnAj1fK/keAoiyaVOnAVmoLJAQBumiLLC5o6ZmvCkZQMfP6h7Sjr/uIQthYcLfUVZ9L2In8daQ445G/IQHBIdo5iwgCxUe017REY/GO6kcd8LovTAEQmnbGoBwguw9NLmVzZ4ayQuSryE4RB8pUJYLNnHh5MUihtJHCK78CcLeZcgRQQFCWUYEYSPdDfurfxqnBuS/j998CNS6VJUj2wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdElEQVR4Xu2W/0sTcRjHPfpViFAcm1jkyLBBhKAxmjbRlWFgXxCjIrEYGaNE8YdAEAQRQQjEP/iJ1+d6dp97dnfd2Gr+sAfesN3t7nnted7PczcyMoxhXLsIpFMDiTD5XPmWLFYmpPGoKOvzJXlTnRoEVCDV2XGpPyzI2lxRtlem5UP9rlMfgWzZ07VZuy27L+5J83nZ6XNj2gmwPgEFsvF40pWc0vPPqcDCzJj7zHEgSAgAMK31GSc+K1yfgALZqk7I+1pBdupFOXz7QPZfz8qPjfvthFoJBeGcL4VToLHRG71ABdJam5TL76tOSUAWhPNWPhBV7glIYdDPzUoMyhfHOJckBaL1PcAQcaDmaikG5UNwPE0AMWX4ra9Au89KcrTVmTBJQFI5WsqUvVu649ZANJFdRTTGPpAP5YP57VHP6GQBgnd0SpcrN2WhPNoNVOBuorIw3UAgVgLfaRnntFrRCsgEC+TV/Ljzil5MEiYN+aOP+NcYNS2xXQfqOQufARXunV+tFTlrPpXj7SftmwLDDbVyAOSFsAOg3soFdPByyrUHoJOdWjsBy9FV788i9B8NWRB2HdBua/ZMIFpztdeQ86/1GJC2DDC7g9KWogVRqedyAeEfKnTxbVlOvyw6ICDS9pHvqSQQH0anU30EEO3OBPq0VHAeAoi2qamTgCxUGogPg3RR5tjcoakZb1oG0NHHqoO04697yEJYGP93tFXfi9hJvDX8BYiInvCAUCHMnAZkofxj6hUd8TC5Va6wF3Vu7KRtDYA/QfYeNksPEX8NoUL4SIHSq/BPI4LSRwhV+c8QNkIoQGjLgCBsDKwaw7j+8Rup9ZWmLL+m0wAAAABJRU5ErkJggg==",
     "wiki_name": "Oak logs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_logs",
     "equipment": null,

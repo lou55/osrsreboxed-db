@@ -1,7 +1,7 @@
 {
     "id": 13698,
     "name": "Earth orb",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-18",
     "duplicate": true,
     "examine": "A magic glowing orb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABk0lEQVR4Xu2U3UvCUBiHd64iibxIigxMCxM18gNdDjUn09ZK/EjTxAqriyAIIgiCIAgigiCIIOiv/cV7xvzCSze92APnbuw8PO/LEQQbGxsbG7Ng0M9MwHBSLqOmabMixXBarY5ITUXMuJjhrFEfkqqoqlVSfYlSscgluq1WT4hkDgsKlGyWfxP1es2S0iWqCT+06AaU8DokvxsZUeSXkwRVOcjLkNNpSImEWUK6SCcTRjMVQF3cGhKKeJaxHQwiGY1gL5Ua2B9dZsJCDG/NLJ5rEh5Lu7gpRLkYVSKhbGANcd8KAu4lrDodQxImyBAMX+cK3ls5vBynudRtMcalSrFNyCEPL+RzLcLpmDNrRIMw/F2r+L4o4KMt47WRwVMlhXsticvcDh/duDqjf5kgDL9X+/jpFnkpQ8oYIe0U1XEtzFtRx4BxIar02cnz8ZGUUcnCOoPou0RCdKjQnRrv7ZKFdQZhfGRUiIQejkReiJ6BKQkR+vtCi02FSKgthaYpJAj6xf3Hbwr7Mx6TH0AbGxvT+Ac/BQ5J/raADwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4Xu3U3UvCUBzG8XYVSeRFUmRgWJiokS/o2tDlZK61El/SNLHC6iIIggiCIAiCiCAIIgj6a5/4nTGb3W8zOF/Y9T4853Cmpng8Ho/nVgKsbyIScFivo2Wak4IScNRs/kH5ArN/LOC40x5DNQzDK9QvoqbrDDHs9UYgwuxVNWiK4jbIQjTzMZiZVWipFcixMEqiyH5OCFplt6JCLRYh5/NugSzIoJRCV4qjLa6PgdKRBWwkEihk0tiWJMf9cQnz3FXw0JJxV9vCZTXDYLQSgZT4MnLRRcTD81gKBtxCOBPwfqLhpVfG40GRoa70LEPVsmtQkxG2UDQ0h2Bg2hvQ94WBj9MqXvsqnjol3Dck3JgFnJU32dF5uA4l4Ot8B59DnS1lo+wjpDtF64RmZ7wCUQID0Upvgwo7PkLZK3m4jjPrLhGIPlro2siN7pIPIEpgR0YLEeh2X2QL0TPgE4iy3he62LQQgfpy0k+QnfPx8x3D4/H+dz/C+evSEiRvxQAAAABJRU5ErkJggg==",
     "wiki_name": "Earth orb",
     "wiki_url": "https://oldschool.runescape.wiki/w/Earth_orb",
     "equipment": null,

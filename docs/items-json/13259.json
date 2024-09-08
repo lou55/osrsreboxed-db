@@ -1,7 +1,7 @@
 {
     "id": 13259,
     "name": "Angler top",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-09-17",
     "duplicate": false,
     "examine": "This will help with fishing.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xu2W32oaURCHsxclKCElRCoq0SSyBt2gUcw/FGMgkNoE0jaElpDSElraSnvZV8gL9IGnfrPM5qxVcJPQ3nhg2F33zMx3Zn7nrAsL8zEf8/HfhycPtycfnqTTz9SWl1OysrIku7slCYK8bG5kJJ9/rtdqNRubw5XnJwbzpNVci4JnMqPkmzkFajQK4vsvpFhc0asBMrdQyEg2uySrq+loMU8A5cnJSVVeXzQ0uCXy/YIcHGxEQGY8AwUg0FQOPyANaGd9/aFQnpyf1+XqqqVGElZLourWmnQ7ZU3uGkAGxRxrJ8+APaJKnly+bWpl3r9rq1EBgpOoXt+UXs/XVpoBAoBBAcwzRnuttcR4AJSnEFQGsA83+xqQ4MCcntamApnYAcKHRTHXWozwE7bOUwCDwbgnEIna7Yq2kiQkd6EACoKGlMtbCgAQ/q8GgRz3KxFUwtZ5cn29FwGRnIBUjGDA9vsvpdPpK5ALBdBw+EuFT3IWYTHYHFaphAIP9UNbCMLKCMQzSW9vO9JsljXxJCA0BhC/A8RiLA5tBAgtpVKLs1Yp1I8LZMFIQsCfP/oKZvNsLsY8KslcdpZV3G0d79mxM1YpBHKrA0S4mlBfw+9H8unjQdTO33d3ejJbW6xirg/its1A5TjTEgPhbCt2g3/72tMrQBhAGAndNpoP8C4QYk+gI07nlu4mtMI2RxMu0JfP3UisJMK4J6HtJFtEmNCTbndb9veqGjOXu9fQTEDHxzsxIDcwq0U/Z2eXI4CLv3Zju3048mlJpVKL+bFIAyoVs8mBcAZqEhAtGwzeyOFhTYFoF5qgzRwHQJE0ntCLgPgWJgI66tU12TQgRE0LMAOylpE0CEr6zZsGxPtEGrItbp8EF4h2YWjJ/bwAY2cO/iZqF4jfOO0Rtb2bCcg9d+LfnhDIPckRtJ0xtjPxI/E4kMXjAJ2xOjbcv5/jK/FGZV+S+nZaatXQfD+ltlFaVCsU7vURTzot5gzDHCY7xoEn2WS/eNzxd48a48CTbNxnPubjX44/vfgOVw28DbwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xu2VYWsaQRCGcx9KUEKKRCpRoqicQS9oFZMoilEIpDaBtA2hJaS0hJa2of3Yv5A/0B889RmZcy9VyCVCvzgwnOftvPPszuzu2trKVray/26ePN6Xbp4kk8/UNzcTkkptyP5+QYIgK6ViWrLZ5/qsVjORMTx5XzKYJ63mTiieTk+Sl7YVqNHIie+/kHw+pU8DZGwul5ZMZkO2tpLhZJYA5cnxcVXenDdU3BL5fk46nWIIZM47UAACzcoRB+QSgDw5O6vL5WVLnSTMlkTV3R3p98qa3HWADIoxVk7eAXsClCcX75q6Mh/et9VZAcRJVK+XZDDwtZTmgABgUADzjlNeKy0aj4DyFIKVAezj9aEKIg7MyUltIZA1O0DEMCnGWolp/JhAngIYDM5vhEjUble0lCQhuQsFUBA0pFzeVQCAiH89DmQ0rIRQMUvnydXVQQhEcgRZMcSAHQ5fSa83VCAXCqDb29/a+CRnEqbB5rCVig2ECGVBhJkhxDtJb2560myWNfE8IHoMIP4HiMmYDmUEiF5KJNYfCjXtHxfIxEiC4K+fQwWzcTYWZxwryVh2lq24Wzq+s2NjAbmrA8Q0eNpftz+O5POnTljOP3d3ejJbWWzF3Bia2zYDK8eZFhuIYJuxK/7920CfAOEA4SR0y2gxwLtANHuMPuJ0buluolfY5vSEC/T1Sz9sVhLh/Cah7aTZJKaa/f6eHB5UVXN7O2YPjUYvI0CuMLOlf05PLyYA5//sxna7O4lpSaVSi8QxSQMq5DPxgQgGah4QJRuP30q3W1MgykVPUGaOA6BIGk3ohUDchbGAjgZ1TbYIiKamBLgBWclIGgQFvfMWAfE9Vg/ZFrcrwQWiXDi95F4vwNiZQ/ysqWe6/MdpT1M/EAbzIudO9O6ZArknOQ1tZ4ztTOJIfB/I9DhAYwBhDHY9+q3Z3JD6XlJq1an7fkK9WFhXz+UW9ccizSfbfeB5vrKVrSxifwEywMl4gmpNGAAAAABJRU5ErkJggg==",
     "wiki_name": "Angler top",
     "wiki_url": "https://oldschool.runescape.wiki/w/Angler_top",
     "equipment": {

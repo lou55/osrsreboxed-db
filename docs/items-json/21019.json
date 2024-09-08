@@ -1,7 +1,7 @@
 {
     "id": 21019,
     "name": "Ancestral hat",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": true,
     "examine": "The hat of a powerful sorceress from a bygone era.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADfUlEQVR4Xs3WjUvTQRgH8O0vCEkUGZkSGplkii3FiUqKmVCZZqbObOFLmomaDdPEt9aLYolLqaFhiIqZEkRmUhT0fz3xvfGct/OWeys8ePjd7ne/3Wf38vxmsRz+YiVzmO7/82KlycFqej5QJcLjvkoTD66IYMTyzG1amr5Fi1NNBpT+I6KG+0GMAohDxyy8aKR5T33AwPiMe3oEosJCWmn6cc0+FK6AcDDo9UQdzYzUir64mkDor6K/rw/St5W+yFAMQp1nh0FvnzUIEPcNBsJzu2sD9HNzlH5tjgsQxjibkiJCH10r/mnnX80gDKqD0Hd27IYEoW4Crcy6AkCoM0gfXSvWgGXAQLy58VkFiVkcaRdXXt5goPW5ltiBeJbQpoN8k737QFhGHfTxTasEIcIC8b7QQfjlOmhtfigk0JavLRC0+jB6ENoBYlQ4oE8Ld2MLQmApddDulo+8ni6JMoHQ98vSPQn6sTEsMWGDVBS+XAf93lmV+wj9goG23983gvTRgxR/8sKXHwTaXvfSB98IpaXa5DOYSR30dbknUpA/B2GGDgKhD/rvbMxRUd4ZUUebDkJ/FaQmRX10rfiPvAmECAbCxq69XGQEoV9MQYxCYABkXAyAulzaiU5y1V2kpIQ48VlfrpiB1FnCVQWhL07Xu5f99GqsQ4BOnThmBK1570gQsjRjQgLhhJhA/DoACP3yczLIcS5ThLc9UWDijx6Rs6buH7w21BkKcXZQ9kD6PuKjzAOqoN0nyQJkS4oXKF46BEB4bcQMxCi04/54f7PYM1iu+afd4uXqcbuoubacaioLqaLETg57pkgDx22J4hlkaRXEKH10Q/GDTMuGe8M9ThrtaxIoIFB/1HWT+tquU1tjJTVcu0BVFQ4qLcyh/NwMuac+L3ZIEHJQGHkoEMQotA91NwgQIFPDreKKz+7OOgly1pTJWUJeys1KlwkzYhBOmQpC2/k8JzkKW6i4pIvKy91UWtYr6kXFHaK9oMBFdns9ZWdX0+nMS5R+soRSU/PIZsuihIQ0iotLFt8TFUhdNv96Rxc8Q8hBYech07KhHTkFxx51nDz+F4AszsmTTyP3RQ5S91BEIH3ZdBDuqX9LVBC/NnDcYwBC2T/dplAxauggJEUVxBEGyGLhtP630IFq8PsLsxMTUKhFR4aC5djr+5+KjjSF/syhLn8AT796lV7H4tYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXUlEQVR4Xu3W+0sUURQHcPcvCEkUWTIkNDJJFNsUV1RSzITKNDNf2YaPNBM1W0wTX20PxRI3l1o0DFFRU4LITIqC/q8T3zucy527s7mzu0U/dOEwd+7cmfnsfZzZhIR/vzjIOqyu//HioJmRWno2XCPC571C0/cvi2DE6vwtWpm7ScuzrRYo/UfEDDdAjAKIQ8csPW+mgK/R9GKc45oeZpQtpIPmHtWFoHAEhINBr6YbaH68XvTF0QqE/ir66+YIfVkbjA7FINR5dBj05mmTAHHfcCDcd7AxTN93JujHzpQA2cLgofyrGYSX6iD0XZi8LkGoW4HWFjwmEOoRghymacCLeHHjXAWJURzvEkee3nCgzcX2+IF4lNCmg4IzAyEgTKMOev+6Q4IQtkC8LnQQfrkO2giMRgTaDXaaQesPYgehHSBG2QF9WLoTXxACU6mDDnaD5Pf1SpQVCH0/rdyVoG/bY5FiUMwgFYWH66Cf++tyHaFfONDeu3vRglCM5IWHHwba2/TTVnCcMtKd8h6MpA76vNofLcjIQRihw0Dog/7724tUUnBG1NGmg9BfBdlIisaWtwIhwoGwsOsvlViC0C+uIEYh8AJkXLwAdTm10z3kabhAqcmJ4lyfrriB1FHCUQWhL3bX2xdD9HKyW4BOnThmCdrw35YgZOkIMSjGDrMC8ecAIPQrzMsi99lsEf6uFIFJOnpEjpq6fvDZUEcoKpC+jngr8wtV0MHjNAFypiYJFE8dAiB8NuIGYhTacX1qqE2sGUxX4Emf+Lj6vB5qq6+kuupiqipzkduVLdLAcWeKuAdZWgXZQBkgq2nDtbH+FpoYbBUoIFB/2HuDBjuvUWdzNTVdPU81VW4qL86jwvwsuaY+LndLEHKQjTxkBjEK7aN9TQIEyOxYhzji3NvTIEEtdRVylJCX8nMyZcKMGoRdpoLQdq6ghdzF7VRa1kuVlV4qrxgQ9ZLSbtFeVOQhl6uRcnNr6XT2Rco8WUbp6QXkdOZQcnIGJSamiefEBFKnzbg5tuARQg6ynYespg3tyCnY9qhj5/G/AGRxTp68G7kvcpC6hqIC6dOmg3BN/Vuigvizge0eBxBK6HBbhYpRQwchKaogDhugSEsokoO/Xxidvwj6XQlFhsb/Elv5BQW7MAlMM5e7AAAAAElFTkSuQmCC",
     "wiki_name": "Ancestral hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancestral_hat",
     "equipment": null,

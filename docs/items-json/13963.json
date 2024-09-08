@@ -1,7 +1,7 @@
 {
     "id": 13963,
     "name": "Super potion set",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing 4-dose vials of Super Attack, Super Strength and Super Defence potions.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4Xs2Y2U8TURSHyxPxRWN8VkAihiUslaVEUlraskckCCKbKBoMCRoxvhmXxIREJQYTXkBBUAEVEcQlvolAUTCA/EPH/g454+10ujAdiZN86czcued+c9e5tdn+3yOB9paIRwI1uo/Q5aYSaq7Op2pnJjkLjvFvrTubOe3NoYbyPKax0s7g2ZbaQqa9rojprHfQxTMnGcS70uyknpZSPkc68mSm7I8mZSzkLU6nipIMRi8ngqqcCKJgEYJMb5uLxSCLZ0UoNzk5nJSxEHAXpTF6OREUOZGSWpLagcy1Dg+LxS3kyE2hEnsqYySnNqXUjjSZNBVk+jq95oQQBEFFyJ5xmAqykhjIiZTUktps4ZoKMje7fPEJ4c1RK31thRHZl5jI6O/rMS2ETCKE2tAH1rMnQqh2NEU0oZFHfcyDW12MPj1uoWZvUpAQ+oo+sFVCOakHYhdCpliEgNkm27UQRg6EuhtywwKR7eliBuf6dBXTQhimIoS5pqMmi7lQlx0EBLamHPRpsIB/ca1/RiUuIcwjyAShcxUZIbRWZdLmpIMWHudr4BpSSDPCEiFMfg2etBA2XhXR3ICd5gdOBIH7Tb7jhlgmpDYRmB120r3rf6+3AjUDwqVLk5sSai1P0YSwLkHoUn0Og+CD93tp6Em/hhQqqGm3b7QH9Su9kD3tYOxC6gKrjijw8E43I9fR0uWFTAthZYaQLLA9jXkaKGDgbjeDczUNDPVfDZtuiRDWs96zdg0U8nX2ObO9vhyUBnxlq3Sq4gWDZ9U0y4TUJvnybkzjd0BInfi8AZna8gkNtTmNJkbTQhghCL65tkSfZ8Y0ttaWtf4BPO5VqvFNaODa0j4kCyzmHQSen35GH17vsPBmlD6+HWVJjKAyt5+qvOMhIF9co+x85VH+usNHmggh6Lp/kWZeDtPs5Ai9nxqhuamnzMaPJZ6F3S4/VXrGQygL3Ed+o3moMP3Q7oWwniHgz5VvtLayyEBO+LX6nXGVrjDuUv8OrmAQw1KheDHq1KaFZNchH/ey25AtkHzgq/sxFKpuEjHZWiKEQiPJqHuxcDKQwECJSwjB8OaRRGKpGQiE2wbFIIRD/2fAvwUyUYRsNnlor9CXj+MPFQ+UK0ucqyYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOklEQVR4XtWX208TQRSH4Yn4ojE+K0Eihku4VC4lktKlLfeIBMHKTRQNhgSNGN+Ml8SERCUGE15AQVABFRHES3wTgaJgAPmHjv0dctbpdlvKdkN0ky/d7dk58+3MzsxOQsK/eyTS3hL1SKRG7Qhdbiohf3U+VbsyyVVwjH9rtWzmtDeHGsrzmMZKB4N7m2sLmba6Iqaj3kkXz5xkkO+K30XdzaV8jjjKZKbs30nKXMhbnE4VJRmMUU4EVTkRRMUiBJmeVjeLQRb3WhYCWlEaY5QTQZETKWklaR3IXGv3sFjcQs7cFCpxpDJmcmpXSutIl0lXQaa3w2tNCEmQVIQcGYepICuZgZxISSup3RapqyBzs9MXnxCeHK3S21oYlX1JSYzxfyOWhVBIhNAaxsRG9kQIzY6u2Elo+FEv8+BWJ2OMxy3k9yaHCOFdMSa2Sygn9UDsQigUixCw2mW7FsLIgVBXQ25EILI1Vczg3BhXsSyEYSpCmGvaa7KYC3XZIUBgc9JJnwYK+BfXxntU4hLCPIJCEDpXkRFGS1UmbUw4af5xvg6uIYWYGbYIYfJr8KSFsf6qiGb7HTTXfyIE/N/kO26KbUJqF4GZIRfdu/73ejPYMiBSXLrcklBLeYouhHUJQpfqcxgkH7jfQ4NP+nSkUkGN3b7RFvJeGYUcaQdjF1IXWHVEgYd3uhi53ikuD2RZCCszhGSB7W7M00EF/Xe7GJyrMTDYdzVi3BYhrGc9Zx06qOTrzHNma20pJAZ8ZSt0quIFg3vVmG1Capd8eTeq8zsopE583qBMbfm4jtqdZhOjZSGMECTfWF2kz9OjOpurS/r7ATzaCtX4xnVwbes7JAss5h0knpt6Rh9ebzP/ZoQ+vh1hSYygMi1AVd6xMFAurlF2vvIof93hI02EkHQtsEDTL4doZmKY3k8O0+zkU2b9xyLPwpo7QJWesTDKgv+jvNk8VJh+aPdCWM+Q8OfyN1pdXmAgJ/xa+c64S5cZrTSwjTsU5LBVKF7MXmrLQrLrkI972W3IFkg+8NX9GCpVN4mYbG0RQqXRZNS9WCQZSGCgxCWEZHjyaCKxtAwEIm2DYhDCgRv2kv/k+APExUJ0hJk9FwAAAABJRU5ErkJggg==",
     "wiki_name": "Super potion set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_potion_set",
     "equipment": null,

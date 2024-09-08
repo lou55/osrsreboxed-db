@@ -1,7 +1,7 @@
 {
     "id": 27441,
     "name": "Infinite money bag",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-09-21",
     "duplicate": true,
     "examine": "A magical money bag with infinite coins inside.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xu3Wz2vTYBgH8IYQQkJIKS0rWVi7dmSlP2hXWbuVtXZj1NlN9oMxnIeBw5vgwYsgXjwJHkTw7nk3xYP/gnjzvxE8fc33zd6YxeFlSb3sgYekP+j74Xmf90kzmdu4jZmGgn/nzCJYsFLxUCpVr6TrlkVubt6fFSyALC3V8OGJgfOGBi+bwbc3Fn599vDzwhag5eUGut01jEbbaaKUsApnYw2TjopHyxq+vDQFjtePTw28PzcwP7+AdvtOCFpZXEwaFWAKhTnYdhaek8F+T8XXVyaGjoqzmoaL5wa+v7UEuNPpod8f4nHBTgOkCAgXqtdbAkYUK/HphYnXD3X8eGfh2a4mPuN3CFpdHeA0nxKIAG4DUewh9kiz2RGLy+RrbhMx7J/19bs4yVkiE+4jBbpuwDQt5HJ5FItOiJPJykgoQVPbRNsycZS1sJXPplQlNSNArBaT20hYy9DRM3WsmwZGloGGD2ESxOpMp0fpgUqaCucyCSnqmriuXOaWD5r41ZEV6mdTAQUYZl5VRRJEgKsHkGiFPDOoUte2MMjZAnR4eJpkHymwfARTwlipyiUkmnyPIFaHM4gTe2fnAPv7J0lWKWhqpgRV/a3i4tETJpMnjDNoY2MT4/E9cdp4n9DU/hvDStV8ELeLJ0smTxiPfRREBFHb27vhtt2wSgFIYiSIjUwQjzxPGo+9BHEgRkHctr2943RBrBARnElyikcrRBS3iiBWh41NVGog9hARxHA2MfkPQPYQh6PETSYPcDQa4mBjkA6IyVNWLhbh5HJwC4VwYrMyEsR79s9ObxXTtX6IuTHI8HslDuIsqjpOgPGT96yQfI7xyi3b6q4IUEIYxvUgDkYiWCUJqpcW0CyX0fWWsFavY9BsYNxpJ4mR8WdShxi/hzzXDVG8J6ZdrQoQMw6K/+oN4iqI28UeioOIYXaKc+jPOxi2WmlUh6EIhMSEIL+hK1lbZC2fFxCJGZXctDAMRWyTfKgyxbPMhyz4D1DCJIjflZkSRkawCCHsH16ji8cRKWNkBCBO6esWnxEiHop4jklQ/NP/EIr4QzYr0G+FGXMLBVYgGwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu3WzWsTQRgG8CzLsuyybAgJDZulCUnZhHyQNJKkDU1MSok1raQtUqyHgsWb4MGLIF48CR5E8O65N8WD/4J4878RPD3OM9uJaf047UYPHXjY9APmxzvvvJtE4npdr6UuDX/P0la4YbEYIJ8vXYrvF2TG49vLgoWQtbUK3j60cFYzECQT+PzSwfcPAb6duxJULtfQbm9gONyJE6XNq3A6MjBp6bhfNvDxmS1xfL57ZOHNmYVcbhXN5o04QSEmk1mB6yYReAnMujo+Pbcx8HScVgycP7Hw5ZUjwa1WF73eAA8ybhwgTUK4UbXakDCiWIn3T228uGfi62sHj/cM+Tf+D0GdTh8n6ZhABPAYiGIPsUfq9ZbcXIU/85iIYf9sbt7EccqRiRilwTQt2LaDVCqNbNab41RYGQUlaOraaDo2jpIOttPJqEFcokp6QoJYLYbHSFjDMtG1TWzaFoaOhZqAMASxOtPpUXygvKHDuwghWdOQz/WLbAvQRFRHVaiXjAUUYpi0rssQRIBvhpDFCgV2WKW266CfciXo8PAkSpQGRyAYBWOliheQxfB3BLE6nEGc2Lu7B5jNjqMFsakZBSqJo+LmizdMhTeMM2hra4zR6Ja8bfwc0ZD8FcNKVQSIx8WbpcIbxmu/CCKCqJ2dvaiOLQQpjAKxkQniledN47VXIA7ERRCPbX//brwgVogIziQ1xRcrRBSPiiBWh41NVGwg9hARxHA2MfwGoHqIw1HhJpM7OBoOcLDVjwfE8JYVsll4qRT8TGY+sVkZBeJn9s9ut4PpRi8KDJcGS/TKVRBnUcnzQowIP7NC6j3GJ49su70uQRFhuH4P4mAkglVSoGp+FfVCAe1gDRvVKvr1GkatZpQYtX5O6jlG9FDg+3MUPxPTLJUkiFkaiMfFHroKIoZpZVfQy3kYNBpxYLg0iVCYOUg0dDHpylTSaQlRmGHejwvDpcljUi9VRr7LBGRVvEAJU6AQoRLrCjchhP3D5+XNl4K4ukIQp/Q/2PxPS5Pvsf8KxC9kywL9AOQAP29SckqNAAAAAElFTkSuQmCC",
     "wiki_name": "Infinite money bag",
     "wiki_url": "https://oldschool.runescape.wiki/w/Infinite_money_bag",
     "equipment": null,

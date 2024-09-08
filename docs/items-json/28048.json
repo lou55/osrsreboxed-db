@@ -1,7 +1,7 @@
 {
     "id": 28048,
     "name": "Dragon spear (p++)(cr)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": true,
     "examine": "A poisoned dragon-tipped spear.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiklEQVR4Xu2XwWrCQBCGXYqEhBCRSkINJsZQxaaoFAt6SD1YKqmgtkUQeu4D9A167xP03hfoE047O12VhF4ne+gPQ3aXhfmYyWb/VCrsEpBfYdRxchwLMN4t+Tyss0lAJwh+kwuwvhwwP2yovhhyPmq3OaEEnEcRnHmeTH7Z74P5aYPxau4BGYEIJvR9mfii25VhvFlwklXluttocLaNKlBzHGg1mxKgF8cysIUKBivEUCWxT46BMKf1ugQ7biEbzK4TwnNM7cJqIAyGqhojDErAY9iC1HMhqTmyZdsokPPez5gZRolaZlsWrAMfpq56edlhKCmeJtOg70wehBVmt9nA03JZOEHMICiCWS8WhYrkdzKIYO5v54Wq5HcySMB2tYK72azsqqAIZp6m+sDcTCZ6wOBJmo7H+sBcj4b6wFwNBnrAPGQZDJNEHxh0e9rA4EWpBQxeBWioSoahuwhh1N9CqTD44iKMMuclwqDIy6DL0wAGRU4PTfjBYJWuosvL72CXAtEC5l9/6BsVvh8KNHP5lQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeUlEQVR4Xu2X0WrCMBSGDUNKS6nIpDKLLbVMcR06hgO96LxwTDpB3YYw2PUeYG+w+z3B7n2BPeE/T7KsUnZrksE+CLbBcj5yTprTSkU5DOUZhewHp2sG693hv8W8Mhg6YfgdnMH59GB/uKi+WDqEGE7jGCfNJg9+3u/D3rqwXu0fwfITB0TIREHAA591u3xYbw6O8iqf9xsNlVJiBWqeh3arxQV6ScIHpVC5jAxOg2SO63Uutp/C8lMHguGpE+E5Eemi1SAZGkXdKJMhGB6iNrKmj7Tm8ZRt4pDf93bXimUkImWu42AVBpj4sl6Uy4igtJtsS75ntIgQu9pZr/G4WKjeQb8hZFbzuc4VkQiZu5uZbhGCYbNc4nY6NUdmlmXmyFyPx2bI0E6ajEbmyFxdDM2RuRwMzJC5z3MM09QcGer2jJGhg9IIGToKqKHSLCPOIpIpvha0wXjhkoxszsv/UIzoZajLM0CGEJ0eNeFFg6UdUUOGyPzzd/gCK8jQIr7B6RcAAAAASUVORK5CYII=",
     "wiki_name": "Dragon spear (cr) (Poison++)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_spear_(cr)#Poison++",
     "equipment": null,

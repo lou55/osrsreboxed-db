@@ -1,7 +1,7 @@
 {
     "id": 1323,
     "name": "Iron scimitar",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A vicious, curved sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvklEQVR4XuXWMUvDUBAH8B6hhBRnF5eKWKiVppXaVtraSkXE0clVcFCcnBRRcBBFEISiCILQQXAQBAfBzS/gdzq9F17ycokokrxX8A+PkKQJP+5yaTKZ/xlAfsRQCAK4UKuJLT+rMR6kUa0KzGKzKfYr+bxulAeZK5dDmF6rZQIE6JZKIUy7XheYlW5XNyjAzFfcEKbf6eDqUk8n6GfM2nJfFwhwtlj0MdQqwsjnhkDULk0V8jBUHYmh6sgVB0tx9AFnCoVIq+IWh6WA8jC8VRxCx+m8fBXIRW1LsHUBho+4XLSvQiRAXfyuf0wUw1ulViUFgJp4jKwObWmfV4XfJcEEE8VHXMWkXBWZKEZOTxyGX51wvsfQVmOLKGGM+u8tMZpaRAEcnjm/wvArUwrgzkYWr/YdfLhw/LetIQzl62vPtXBzPYsnuzbeHDv4eOmYwlAAp8cz6E5Y2Ji08GDLxudBzgfxX2sICEx7ygNR+15vjYFAtOjjaUxg5Ggbahfg+Z6NL9c5fB8GFdE43mpAPCtUHRp5w88MBfBo2xajfn/qiCqNDIjePW93IwIaHHrvG0MPMU/0K4//QntMQz4BiIfKlOIFvd0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkElEQVR4XuXWMUsDMRQH8IajHCnOLk4iFmqlZ6W2lba2UhFxdHIVHBQnJ0UUHEQRBKEogiB0EBwEwUFw8wv4nZ7+c6QxuQMXLwn4hxDubvnxXl7aXO5/hpH5xlEAYbRYq4nd/GoxMaRRrQrMUrPpChRD5isVDdNrtVyAGEXlsoZp1+sCs9rt2gYpzMJcpGH6nQ6tLfdsgn7HrK/0bYEYzZZKIwxaBYw8NwChXZYqFGNQHYlBdeRKg2WIYjRTLCZalbZMWAaoGGO2yoTgPb7Lq0CtP43CmCMuF551SGZJYsxW6VXJNOkYWR3seLZQFRk1UeaI6xgrSWLk9HiFwW6xRYiO+fnrrTDWwmh4zn3BIIx2N/N0fcDp8ZKPbltHGOT7314U0NZGnk73Qro94fR0xV1hEEbT4zmKJgJqTAZ0uB3Sy6DgFgRMeyoGoX1vd85ATLTo83lMYNRoO8Jc7If0elOgj6GzisgwcVZQHYy84zODMDreCcWoP5xxUSVvQLh73u89AQ2O5H3jFCPjDcSffAH7O4AINFxauAAAAABJRU5ErkJggg==",
     "wiki_name": "Iron scimitar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_scimitar",
     "equipment": {

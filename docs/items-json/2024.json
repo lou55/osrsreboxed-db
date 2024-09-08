@@ -1,7 +1,7 @@
 {
     "id": 2024,
     "name": "Cocktail guide",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-12-12",
     "duplicate": true,
     "examine": "A book on tree gnome cocktails.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xs3W30sUURQH8N2HiCSMUAyNzH0QH4R+QUWEIAT11hZmRUk/6Zc9yUYhi0uZaGqJP6pFF4VATKSMoIcoivrLbnzP8h3PHO/YjjuFFw5z586dvZ89986dSaW2fkk7f/iu//OSduP5Ljfaf15i+Mk5N/QoK0HE4tRN927iult4ec2Dsn+iangZRBRADIuZH+txxeEroYFxjms2wqhYyLSbGLiwDoUjIAyC3gxddlNPL0pfHH0g9NfoHyt5920ptzkUQagzOwTNvbgqIPaNAuG+78v97tfqM/d79bmAMMahlhYJO7op5bTzXxOEQX2gmcFLAQh1H2hp5lYIhDpBdnRT0qFpwEBc3Di3IPQHgtMbBVp5eyc5ELOENg1C39pd24N1QRCyZkEfZ+8GIEQsENeFBeGfE4R+be31rrWtzmVad0sQxtCgT6V7YdD7x9WD0A4Q+rQfbBCQRjVnaiWa9u10DY0164CJghCYSlw/cGSPgIgqlV4FoUGIuvodMq2cWmB+figEmNggjcK1w8caJYiyIAZRADF8IDt6RCmnGAvUgo6eaApAGoVpsyCN0lMWE1Teg5AhDUL78Y69AchmKWotAZPNnpFzZkhvinZ0U8qPvAWh/WRns4A0ypcljUJ2urvPSr2mZlsyILR1nNovQRRAGhWVpZ6eLjnaKds0CIG2ztOZEKiSLGG6OG34ja+LfQLCLk1MRSA8YRaEwYH5W5aIIoabJV4bBCFDFWYHZQ1EFNow6NzsuAwMxEZZAuJh7w2B4V5spHhtJA7iwIAVi6NSR5tGAZHL3Zcjd2qAPs8/CIGIsqN7ShnkmzYLm54ecpOTgzI4MoP2QqFPzvmI452Hz44vC70BCHtQjH0oDNJPG9oIw3QRNjY64EZG8hJc1OiDFyqyUzUIT1kUiP/YZoyLGUdi0DdRkJ02tBOEAblhIgBBtphh9gVo+fXtEAh7UOx9yDdtGoQ6P2/5jkOgDfcxQ+ibCMg3bRqEa/qzBHV+GaCfXj9VglDCH1VRoTE6LAibogYxYoBSKW7rG4UF6tDrJxFQpcUiK8Ey1vr+p2KRvrD3bOnyB2Q9ABzBSIwjAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu3W70sUQRzHce9BRBJGKIZGhg/EB0JRUBEhCEE96wqzoo5+0i97JBeFiFJ2aKcl/qgOFYVATKSMoAdRFPWXTbxn+Syzc3t6e3dFDxr4srOzczev/c7s7NbV/fslZeIj7vofLykzOdRr8oPnbIw9PmtyD9M2hFiZuWHeTl0zyy+uxqD8m6gaHoCEAqTwMUsTGVMYuxwZmHOu+RFFJUKmzNTw+SIURyAKgV7nLpmZJxdsX45xIPq76O/rQ+brarYylEDUlR2BFp5fsSD1LQXid9/WBs3Pjafm18YzC0qE4U911wIxaBxobvRiCKIeB1qduxkBUS8TlIpMAwNpcXPug+gPQtNbCrT+5nbtQMoSbS6Ivg27tofrQiCy5oM+zN8JQUQikNaFD+LOBaJfZ1eT6ehsNO0du20IpnBBHxfvRkHvHlUPoh0QfboONluQi2prb7DRum+naW6pLwLWFEQwlVw/cHiPBQm1uPgyDBdENDbtsNOqqQXz4/1IuRhKFOSiuHboaIsNoXyQQihAigpBlCDFLFAfdOR4awhyUUybD3JR7pQlBAV7EBlyQbQf694bgvwslVpLYNLp0/ZcGUqwKQaPvA+i/URPmwW5qLgsuSiy09d3xtbr67fVBkRb98n9NoQC5KJKZSmT6bVHf8oqBhG09Zxqj4DKyRLTpWnjP76sDFgQu3SZGErwhPkgBgezVZaEEkabJa8NgchQRSChaGPQhflJOzCIzbIE4kH/dQvjt2ykvDZqDtLAwAqFvK3T5qJAZLP37FE7NaBPS/cjoASoABQ3bT5sdjZnpqdH7eBkhvaRkQF7rkecdx6fHZ+X+0MQe1CCfSgKcp822gRjugSbyA+b8fEhG1rU9OGFSnaqBvGUlQLpjv2MaTFzFIa+NQX500a7QAyoDZMAQraUYfUFtPbqVgTEHpR4H4qbNhdEXZ+3escRtPE7ZYi+NQHFTZsL4pr7WUJdXwb0c9dPlSBKcLdbhYtxwwexKbogRQJQuaUYqXDXz18EbVaKkcXxv1RXfgMaObWBxmL5xwAAAABJRU5ErkJggg==",
     "wiki_name": "Cocktail guide",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cocktail_guide",
     "equipment": null,

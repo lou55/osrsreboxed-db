@@ -1,7 +1,7 @@
 {
     "id": 26515,
     "name": "Shattered relics dragon trophy",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": false,
     "examine": "A Dragon trophy for competing in Leagues III - Shattered Relics",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xu2XzWsTQRjGd4hpPk0IWROa0qRJCaJCKvXQHPwqKH5SqqKloKAeKn704M1L/wE1IHqSWPHQU/HqUfSaP0D8cx73mc3szk6SQ9PdxEMfeNhkNtn3t+/7zsyuZR0pMgmYI1OUQHxzFUGoqQIKHLt3QQKdXViQx7c7OwbgROVk6OGVAaBUIjEpKDOIA/TsVj+4wEoihuV4zAN0ISOTgG1ZA/2S/PACM0+v4bwDw/O5/m9UxgZvIhQJbGfjqMSCwa5/7yD98x1mtm5iyckMYZR5/vHGhhwPGUrguQNzIxXD6bjKkMCD39+w+uszTvz5isTHl3LMzBKtgEIqnwvDzJRsG1cTPtSd3h5Wers4/ncXye5rWHbeA9CB9P+YVx9DQl6cMMoMwPE1B+hc7wsyvU9Ivt+ClUnibioug6vSPnFuhqVmdpv9MTPCAeU2sg5E11Qv9bpI7b1B5tU6GtUqmvW6DMzzj9LxwH85A0MonfDKpXxycRHFQgHpYhHZUlk6X6mgMF9FqdmEXW9Im5ldCydLQl6Id+dlp3YG89VT0rOzDZTLNdj2HFK5nOfa3NwAEB2cpWNJyPrfd9JPMPZPu31bwrSWLknzO513QLLptFyl2Uc8mkBqHTsEEKUWN9eE2F6/LE0wHjnGvmFJGJSZYIbY5LyZzb6Di+Yh5G8DQmZDASlzjBCEojn1OcP8ld13iFuKu8aoEpkl492r7BBKL49p88pjSmC51fKypAMxuF4qmhkKpTyj5e5NKvWNRkuafUMrGL08F9vt/ufIpPdAsDf0hlXnf+zvy3UrUii9BCowt4fBGSTQ7XQMyInIBRoeeNhY5BJyrQlmx9ewsYjlbi+jgKYgIVfh/wDIn2Esmf+mEeGMGi3hbZjyGcgx3zbUs9AUoHwgms9H+m4/wfcyXcGF0fQUprv/FDDK5u8Pon8cmwAWkjKNygAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkElEQVR4Xu2XS2sTURiG5xCnk0xiQsiY0IQmJCWICqnURbPwVlC8UqqipaDQuqh46cKdm/4BNSC6klhx0VVx61J0Oz9A/Dmv857JydyCizCZKeILL5OcuXzPfN+5jab918wkEG5JUQL65iqCUKkCChy7d8EHJPB6by8EmKicDD28EgHKGUZSUOEgDtCTW6PgAitGBst6JjkYS9Mi/SX77hnmHl/DeQeG54uBa1xQ7/rYJLBb0FHPBINd/zqA+f0N5nZuYsnJDGGUeX5rY0O2xwwl8NSBuZHL4LSugAQe/PyC1R8fceLXZxjvn8u2aJZE3EAuDDNTtSxcNTyoO/YBVux9HP+9j+zwJTSrNAbwA/nvCT99Cgn5cMIoMwDb1xygc/Yn5O0PyL7dgZbP4m5Ol8FVabedl2Gpmd1uoNxTy+3IfiC6NXr4WXuI3MEr5F+so9Nsottuy8A8/8jUA/dyBMYCpMqlfHJxEZVyGWalgkK1Jl2q11FeaKLa7cJqd6TDmV2LJ0tCPohvN85O6wwWmqek5+c7qNVasKwGcsXi2K1GIwJEB0fpVBKy/ved9BOM/affvy1hekuXpPmfLjkgBdOUszT7EY9hoOg8NpXU5OaaELvrl6UJxiPb2G9YEgZlJpghdnK+zObIwUkzFgmZDQWkzDZCEIrm0OcI8zLid2xy5xhVonDJ+PYqO4SKqTx/k8ByryeDhIEY3F8qmhmaORDXJpX6TqcnzX5DKxh/eS72+7OHCv72HO2wAt8OD+W8NWOosNydwCSg4WCQNAzlAk0OPKlt5hJyrkkp+CS5y8uRAuIsfASAvBHGknlfGqmAifGCKfdAjvm1ofZCKUB5QDT3R/7VPsHvMr+8kk32P6Y/fGC7N8HNzVQAAAAASUVORK5CYII=",
     "wiki_name": "Shattered relics dragon trophy",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shattered_relics_dragon_trophy",
     "equipment": {

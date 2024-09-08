@@ -1,7 +1,7 @@
 {
     "id": 27514,
     "name": "Word translations",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-11-30",
     "duplicate": true,
     "examine": "A list of translations.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMklEQVR4Xu2Wa0sCQRSGm3/iD4hu0I0sC+0uiHQlRMwSuyCJdBHDogsVBEEEQdC3vvQvJ96znHF2HDN2J+1DL7yMu7J7nn1ndvb09PyrIxKy4a5LyNLGkDzPj8uH0nS3oYQ8yY7K2/1JgoEfyzOdhtKnRxAMvJvuV+cGIhGyeWUA+YvZfFWMKgj83k71yeLKAE2bcxjEzdHfHcbIXPiiMKFAAMFmmEpmRAGZdw4o7+lttoGYQNXcmGsgSKhCWBNmcZsBhIUNIIYy7xpCDaCfurw1rIDw6jtOScjsci8VQkI2IxH2wdogrR0diKHMOweU8BVFQawPjGz9PNIB0FlhXtaKC7K+vyQvD5ddpiRUYRRk60AwgeQS5JOd2SYgjE5TQkF+eow65FE27oP5DshRSpD3SYABREllpgmGgXQYGxCOHaYECSoIgIOtWFuYVkBuUzKAfgJzXUrSiHP432FKggAwVXubUz4gG4wJhOMGkO7A8gNhbAejAz1V4laHhsJ0FdajPqBWMC+ns6rw83FCGcf8wQ65rhpAGJGYDea9vmgF4W4BnYK+i4cCwnTlVycUEBJimI+bpA9Eb110EP7wYhsJCQQJAuKF/XmfIgOCeybd3DsxCO9nvMk6AcqlxwjgrTavkuAU9O6RQTDiuPkNc9ZRCoJAEXSVvD64gQMA3Kq4afPuAeR1k4B5rc4pIBPCLOyouE1eFwAYnrZWEOaVvyivm9TflC5AmHK6MN3oT8F0Ql+v7GkgOCxNdgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/0lEQVR4Xu3WW0tCQRAHcPf7RDeoDC0NNSsFka6IiFliKpJIlhgWXaggCCIIgt566Vtu/Udm3aMbSq6eFweG9ejD/Jzdc854PJMYSwjZSddDyMr+vLzMLcunStBtlJD1zJK8L64QBvlcXRs3St8eQRjkcXJmFNvmLGbKm4JfIfD5MDEtC9uztG3WMWg3t/6hHKDkwld5n4IAwcmYWnrRPgiFTWmCdIMaWa9tEEKoQjgT3cVNCRAONkAjQHVAg2Y1taBAuPWtgzKxKSqEDpkSHeEs7c7R2dFBllHCURQFcT6wcurfozsAXeSjslnYkK3ilrwux+yCuDAKcuogJEGyYcr6UaQHhNUqCgX532PVkaeZkAMzBhCi/UpAAkSdSgcJwyAdYwLh2j7qtyAApVSgL8YV0CCY20qcVnyH3y2iBAGwVScHqw6QCdMNwnUHpOe/wwnC2g+jg15qIWMOjcJ25ff8DtBfmLfziCr8ehZWiWt+YVsDYUXHTJjP1qYRwtMCJgVLT3FB25Xb8SkQOsSYr7u4A6KPLjqEX7x4jAwJQggC8cH+fkxQAsEzk548OzGEn2f8kLUCyia9BPhoRlUnuAv69MgQrLjuvcOGxnAIQqAIpko+HzzAAYAcUXFTtKdJYN4b6wrUixhbtKcAYHjbXEB0R3uatHSn2ArXuzIJzw9IazKmvBomUgAAAABJRU5ErkJggg==",
     "wiki_name": "Word translations",
     "wiki_url": "https://oldschool.runescape.wiki/w/Word_translations",
     "equipment": null,

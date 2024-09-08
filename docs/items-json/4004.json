@@ -1,7 +1,7 @@
 {
     "id": 4004,
     "name": "Gnome royal seal",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-06",
     "duplicate": false,
     "examine": "It's the official Gnome Royal Seal, signed by King Narnode Shareen.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4XtWX70tTcRTG90Uu0cuoN9ULJehVkOmLIlASRDCI6AdilpKJiVomY4iYJSJjYpaZRmYyGbJURBxmS0QxZ6aImmhQWP4vTzzf9d3urltu3iuzAwd0U+7H5znnPNNm+39LINgHogTe9bbD6axPNpRSRaC//xX6+l6grq46WVAC93I1FGVrOH3cBq/3DTyebrjdL1FRUZIMKAH7lUOoytcwOurB8LAbg+/fYmDgNXp62nCr8FpyoNjj44MYGxvAyEg/hgb7pFrP2p4iPz8nZKnxN/exBPz+UUx8GILP541Q60ljLWpqynQWxtOmS2BhYQbz89MIBKYwMzMhAQlHMM5UZ2eLVIxb2NRkR339QzgclaitLceD6lKUl99BaWkhcnOzrYPi7BCA9k1OjmF21o/FxVnMff6EqSmftJTv8zw0NzvwuOGR3Ei7vUKqWFV5F5kZZyXQubQ0s1BCrrxqzhAB/B9HpGJUj3DLywFpLX+mpaVuh1qpqSetsi4SKBocVaOltJegvFu0kGpx1mhZzpkUpKem4MQRm1mo2EDR4AhGa3m3XK4GqRaBCi5qEop3zaR18QHpm1ZyI/l1a2ujtKzkkoYbF7QQjOVA3mOHd7ymbw47B52HNDw7CcMYhy42zG5AbJ4I3iw9SBwwYXqubVeXM/S98QGJQO1RFSG9zUsPDpsKUB47+m58CLv3aGwIPYxekThhWEIGKDdAZRWPINe2o6NZHjXjw9y7ACWoiLGCqX4/T5Orakz25+1N8vwzSNUDPf+wSQ9kfFICFfTZGKL6ZGcMUK3d5sYiIFY4RJlTvLyEU2C0kOurgNiMBoJy1phVZWVFKC6+iYKCq3+H2VQJbG6uYX19Gd/WlrCy8gVLS3OhhJ+eHpd3hbGggpSA0aCyss5bp1KsVqBrq18lLJtgHHwVogpKhagFQDabcVXD2xIE297+id+/fmBr67tUj8Ov/xzEjxuRf8w+lh6MvbGxIm3k3VJQt4uu43JGCjJPWZLq8ZVeNVrHc9Hd7ZJQVIj/rTBELUj1vZSQm8kh582KtMvUgTRTQm4hY0cPkSQYVUlVJHodKBir6g+w6ErFeyZkRgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4XuWX30uTcRTG90Veosuom+pCCLoKEr0oAiVBBIOIfiBmKdkwUctkiAyzhoyhmGXmIjOZjLGmyJiYLRmKOTOHmIkGheX/8sTzHV+3vW7Z3KsreuCAv8b78TznnGczmf5dCUTrr5DA68EeOBzWbEOprggMDz/H0NBTtLY2ZgtK4HaJhsoiDSePmuD1voTb7YTL9Qx1ddXZgBKwXDyAhjINfr8bo6Mu+N68gsfzAgMD3bhecTk7UKyJCR8CAQ/GxoYx4huS3Xrc/QhlZcVblupfuYcSCAb9mHw7gvFxb0K3HrY3o6nJHGfhn1TGElhYmMH8/DTC4RBmZiYlIOEIxpnq67PLjnELbTYLrNZ7aGmpR3NzLe421qC29iZqaipQUlJkHBRnhwC0b2oqgNnZIBYXZzH34T1CoXFpKX/P89DR0YIHbfflRlosdbKLDfW3UJB/2jggrrwqzhABgu/GZMfYPcItLYWltfwbu711W7dyc48bZV0iUDI4do2W0l6C8m7RQnaLs0bLik/lIC83B8cOmTKFSg2UDI5gtJZ3q7OzTXaLQOXnNAnFu7YvQPFFK7mR/Lqrq11aVn1ew9WzWqYwVHIg75GD234WXxx2DjoPaWx20obRvyg1zE5ALJ4I3qw0QWL0XNv+fsfW9/oHpAO1y64I6W1pXnTYVIDy2NF3/UNYg4dTQyTC7EpCBig3QGUVjyDXtre3Qx41/cNcOwBlAENFU/1OqSZXVZ/sT3ps8vwzSNUD3b+xyQAgKuqzPkTjk50xwG7tNDcGAVGxEGVO8fISToHRQq6vAmIxGgjKWWNWmc2VqKq6hvLyS0ZACayvr2B1dQlfViJYXv6ISGRuK+GnpyfkXWEsqCAlYDKowsIzRgBR8WuaWAp05fMnCcsiGAdfhaiCioXonioKtrn5HT9/fMPGxlfZPQ5//Psgvt1I/Gf2XLGHra0tSxt5txTUjcoruJCfg4IThqR6uhLSOp4Lp7NTQrFD/LTCEDUg1XcjITeTQ86blWjXvsMoCbmFjJ0sQuiV1Y78R/oFzUMP/jhKGvwAAAAASUVORK5CYII=",
     "wiki_name": "Gnome royal seal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gnome_royal_seal",
     "equipment": null,

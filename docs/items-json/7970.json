@@ -1,7 +1,7 @@
 {
     "id": 7970,
     "name": "Long pulley beam",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-22",
     "duplicate": false,
     "examine": "A long beam with a pulley attached.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvElEQVR4Xt2XUUsCQRSFnV8QYSgVpCkqqegiKkZrKauZtJCiWCkKWhH0EL0ZBFEv9bNPzS6jO9PaUzMjHVhYWGbn45w79+4GAv9TBKsv5SJoFjZh13NoHB7ALMRRykaQSewgEQnpgCK4rIVwNzAxtMvoNPJomWkclxKoGPsOkBGNqoQimJxnMWpnMGim0Kkl0D6KwSpHUCvuqQZy46JA1630DyAGoxRoaIUXQD0ruQDS4A4VwW03zwHZ1ThOK8vaUQhE0C4FfYG8cYmrJOq7mJthTC9yDpC3fjS4Q0Vw3zMcIO8J88YlrpAoArsSXAB549LmzrS1zdWPGJe4QqII6saGb1zagER3aFxrU8wMRttRZ+4wGLHvKARa1g7rOwymauyuhzvizFIItOw7XndoE9Q2REV3tA5R0R2/bx5xlUTx7mgG4meWCKQlLurOb0D8JVUE/eoWB+Od6hRo1LdQNJLIpWPIpNz4xLf8odzfGz8Yerrmj1cOUOOk4AApiI+shKHPXp/H+Hy7wcfLDE8PPXRtU75DfjCsEVKY9/nEAZqNz9Q4tArG3ZQvaMkwTOIp4jdm94pgXImbyt74C522745XXZeUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABl0lEQVR4Xt3XUUvCUBQHcO8niDCUCpKUKanoEBWjWco0kwYpipWioBZBD9GbQRD1Uh/7H2fjyt2avW0n+sOe9rAf55x7rkYi/zMCm5/QI9AubcNqFtA6PoJRSqGSTyCn7UFLxDhQAteNGO5HBsZWFb1WER0ji9OKhpp+yAOaXeYx6eYwamfQa2joniRhVhNolA/CBjntItBtJ/sDFDKGIjA242vQwEyvQQzVoQjc9YsukFVP4bzGNDvdStQXxNauWTuO+VXBBqnzw4ChCDwMdBuknjC2dlm16BqktosBQxGYd3Zd88PYLoGmvuXbLjaQtzrULiYMxT3MEsN21GV1JIZ178jZkXtHYur6Pg/IWx3WO0vuHbU6tATZQN7qsF6i3uqw/+ZRq8MMct9ZXlDIGIpTnd9B6hNoBIb1HRdGvdUJNBmaKOtpFLJJ5DKBt8/5e+OHodO1erqxQa2zkg0KGEMRGzH07u1liq/3JT5fF3h+HKBvGUGjhC9GLkLCfKxmNmgxvQgaQxEbMfJ9iAMt4/1oaB/+O/kGBmqqvul4liEAAAAASUVORK5CYII=",
     "wiki_name": "Long pulley beam",
     "wiki_url": "https://oldschool.runescape.wiki/w/Long_pulley_beam",
     "equipment": null,

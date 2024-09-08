@@ -1,7 +1,7 @@
 {
     "id": 7139,
     "name": "Pirate leggings",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-07",
     "duplicate": true,
     "examine": "A sea worthy pair of trousers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOElEQVR4Xs3W7UsUURQH4NlP0RcjFEMlMyXFNmSTXhAqhJAKP2xmprXRomH2hiBJJUuSJUtWCLK9UKFgiImUEURFUdhfduJ3pzN75nR3nXHH8MJhZ2fvep+559yzOs7mHzGyh+3zDR8xepLppqmxLhPZO6dpcjRpghELM/00P52muaeXLCj9ECXDXRCjAOLQmNnHF+ll9oJvYbzHZzr8qFDIGE3fO/sPCq+AcDDo+WQfzdw/Z+bi1QbCfIn+uZyh74u31odiEK55dxj0+lHKgHhuIRC+92NpjFZXJuj3ykMDwhqJujoTenU13G3np2YQFtUg+dSI3INeK2gxN+AD4ZpBenU1Yr40AMHFjfcShLkVjmOi7G/ww2jQ8ovB6EC8S7inQVdP7aG+Y7voZGsVHWosN/eQRg368OqKB0KEAnFdaBCenEGYd7cnTsPJJkofr6fk4ZqioI9vhvygd7dLB+E+QAjMG+3eSyNdzTR4ooHOtO2ktuaKgqBPs9eiBSGQSg3CDt3obKSeI7V0NF5JTTVl5jOJwY5+mb/pgX69H/cwoUEShT/OGKQLENTQQEc9pdp3U0eiiuK1dtDXt8NWkF69wMgf4UIg7A5SxRjUUefBampt2G4FfVsYWS/IPbbYoSAgnDCkS9eRBOE7EiSbol5dDffI20AICUIxY3eAwM4gdYC1t+zwgbA7kYIYhcAC6LgShOOO2kE9IXXoRxsGkruEVwmS/QenC0CuI5k2gJaeXfZA6NKMCQTCCbOB+OeAQaghThnSxDXF7xmE3cHPhtyhgLuDkQfpOuJmx6BMb9yrG6QMbUD+jGAOpws/G5GBGIX7WECCUDcAVG7b4gNVl2/1gdClJYhRenXLcEG2tGnQ+Pl9XiHjvQRxunj+57nrHgg9KEQf8oNk2jQoN3TAFHYxEHanZBBO2VogLIa5fLJwPZFqMSC5O5GCdNpwX4Oy6YQ5abie6t/vgXguQDjyEoQeFLoP2dImQbjGycN8BLo4X/Np5LmRgGxpkyB8Jv8twTV3c8yT9VMiCMN90rVCYmRoEJqiBHGEADkOt/VioYEyZP1EAgo6NDIIliM/9z8NjbSF/s6mHn8A9KVkbkrcRFwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xu3W30sUURTA8d2n6MUIxVDJSEmxDTHpB0KFEFLhg5mZlpFkmP1CkKQSSbJEskIQ+0GFgiEmUkYQFUVRf9mJ70xnOnN31J3dNXrowmHvzNzd+cw9597ZROLfb0mJjqjr696S8nC4TSaGWr0Yv3lcxgZbvFDE/NR5mZvsltlH5yJQ7kPkDPdBigKk4WJmHpyVZ+NnQjfmmGtuhFGxkEmZvH0yDcUnEA0FPRnrlKk7p7yxfEaBGG/R35aG5cvC9exQCqKvs6OgF/e7PJCOXQnE974uDsmP5VH5uXzPA8XC8KP61Aripi7IPjUxfbcjErQw3RMC0c8QlAylAYQWN8cWxNiiRMKLgt+hD+OClp725g+ks8Q5F3Tp2A7pPLRNjtaXyL6qQu8caXRBb59fDEBELJDWhQviyRXEuFvtKelvqZbuwxXSsr9sVdC7l31h0OsbuYM4D4hg3GDbThlorZHeI5VyomGrNNQUrQh6P3M5vyCCVLogZuhqc5W0HyiXg6liqS4r8K5ZDDP6ce5aAPr+ZiRTDC0Msih+XDGkCwg11NNUIV2N26WprkRS5dGgT6/6swXR/izhlUDMDqlSDHXUvLdU6is3R4I+zw9kC/KXLTOUCYgVRrrcOrIgvmNBMTZFf8lHgQgLopiZHRDMDKkD1li7JQRidvIKUhTBDdhxLYjlTu1QT6SO/WjdQHaW+LQgu/+wugBqHdm0AVp8fCEAsUtniKH5KywKpK8DBVFDmjLSpDWlxwpidnht2BnKCuTWkW52ChruSAV1Q8rYBuxrhDGaLl4beQMpivPcwIKoGwDFmzaEQKWFG0MgdmkLioHyQVFpc0Ejp3cFhcyxBWm6dPyH2SsBiD0oxj4UBtm0uaDpvj1eYa8GYnZyBrHK1gJxM8bqyqI/2lXrgezs5BXkpo3zLmi8u85bafQnzu8OQDoWEEvegtiDYu9DUWmzIPqsPP9H/f/e2tfVqGPzAopKmwVxzf4toa+7OeNs/eQIovlPulZYjA0XxKZoQRoxQJm2dKSGrZ+/CFqtpSPT43/Lrf0CqqEZ4lv/gJYAAAAASUVORK5CYII=",
     "wiki_name": "Pirate leggings (brown)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pirate_leggings_(brown)",
     "equipment": null,

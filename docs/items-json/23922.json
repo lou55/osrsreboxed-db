@@ -1,7 +1,7 @@
 {
     "id": 23922,
     "name": "Crystal crown",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": true,
     "examine": "A crown fit for the most wealthy of elves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQ0lEQVR4Xu2W2U9TQRTGuS9GEmI0hKQhGnEJEGIiVglLGmSxsgkFbFgEyxIQaFlaGgpYCFtZFagUHpQ39Ul91md852/6vN/cTNt7K2hLwcT0JBPI3JkzvznfOWealpaylP3/psA4o80Zx4WYgvLndsOBCppGnGgeHYN90osX0zOwOnouCkqB+YkV13Nzw5EYWljE8OISxlYCcC4tCzjOF+bkiBEbuaSCKrC0tOL+4wrhmAAreyEEQvvwv91GQUlpDEzDqyHU9Q+gpqcX1V3dqGhrTz4UnVpsLVjbPxCA0bePwGhrHbN+dPqmhZytE24BmGQoBdNbb+Bd30BJfQOuZGbqQCIw2loC8C9zixElnB4qKTIqImfo1KTLE/0aDuPBA/MLsLs9QkZ+K66rxz2L5QQfcZmC2r5+UXWPrE/D+SMHJarq7EK5vU0Mzsm8ooyUT0IV1dRq3ysrzw5FKXjj+sFBVHZ0ovRZo4geD+V3eWgESNsnoNV98lKs3qtZWYZ1CZnm3LUcgGdtXST6YjCIKhWOLYBRanaNokQFjY6gbA8El70rGsp4SpymHdLrn8PI9g7GQgcYV4dn7wDu4DvMvv+AvsAqbE4X8oqKRGK3jE+INiD3zqn7mE93H5hxzWRKFEpzZnOOCv2ZS3Ra1mQLSxL68hXfjn7i8/cf2Pj4Cb2qnDWqTGU2G1y7QQHaMTMr2ojv8FD0q8sZGYlIp2BqY1M4uJGXr5Mj4kyLGjs55Tw6PoZHlbTD4xVzbB+v1QhSbq5jT8svLkZmdna8QIrIEybrpfT08GbjkGvZd1hVDr9flXQXXZ5JAUDZOM9IModYENEXiguIN5Q58OfNkRxjVTF5jRE1gpzuT2cK5nd2xc1YKSzriMPTTKssdvc7hYUxhycAIk174Rl+3+aW+L99yhd+Ik4a7E3sN2ygCeTIaaZFaEGtEALxfYp+QJkXjAQB+RupzTslvlPeXPNDmG7d1kXH6D1BizywjFC3WraEIUDj0LCQkUlKKAJSJsLcLCg4DxhpCtyr6+KxlEDsR0xa60uHeEbYEsxV1TrpzglGmvZ6SyBKRSA+F9G/k86YtPFabAL/DsS461zNGIF/BpKylP2F/QJg08N6gzuXOwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xu2WyU9TURTGeRsjCTEaQtIQjTgECDERq4QhDTJYmYQCNgyCZQgItAwtDQUshKmMClQKC2WnrtS1rnHP3/T5vvN8lLYWSikYDV9y0+a+vnN/93znntukpAtd6P+XgvAZbS58nIsUFD+3hi2ooG7AjvrBIVhH3XgxPgGzreO8oBQYn5hxPTPzIBN9M7Pon53D0IIP9rl5gQsHjhwJkwJTQyPuPy6RwARY2ArAF9iG9+06cgoKI2BqXvWhqrsHFR2dKG9rR0lTc+KhGNRkacDS9o4ARt+9AtukF62ecbGzccQpgAmGUjC+9gbu5RUUVNfgSmrqEcG1DPGTtcWMEi4U6k8bObEUqRkGNWRkRAmqzYUv3DM9A6vTJTbyWX5VNe6ZTFFinEgKKru65dQ9Mj89VD/aoEVlrW0otjbJCC6m2Uj7dKi8ikp5nltaenooWsEdV/f2orSlFYXPaiV7XJTP9UVDF/oNrb6nb4qn92pa2mmBKC24Y94H19KyFPqs348yFY4tgFmqdwyiQAU9nEG9PRBc710Jh+r0TmFgfQNDgR0Mq8O1tQOn/x0m339Al28RFrsDWXl5UtgNwyPSBvR3p9T3WE93HxhxzWCIF0oLZrEPiv+sJQYtqrMcWBL48hXf9n7i8/cfWPn4CZ2qnRWqTUUWCxybfgFtmZiUNuLZ3ZV+dTklJR4gBWMrqxLgRlZ2iB3BYFrW2Mlp597+PlyqpS0ut8yxfbxWM0i7+Tv2tOz8fKSmp58USJE6YbFeSk4+5mWtF/FU2bxe1dJNtLlGBYC2cZ6ZZA3xQIRuKGYpssNgDRynYI3xVLF4IzMaFwilYHpjU3bGk8JjHVsw7WSxu9/JzY3h9zFLu+GZfs/qmnxvHvMcXBHRBnsT+w0baBw1cpS0DM2oJ4RAvJ8OX6CsC2aCgPyP1OQek+e0N9P4EIZbtxMJoyt4wTJD7eqxJQwBavv6xUYWKaEISJsIczMn5yxgdClwLi7LZakDsR+xaM0vbXKNsCUYy8rD7DtTabe3DkSrCMTrIvR/0rkqsoD/EsiFLvRv6hc3c3YQAjxz/QAAAABJRU5ErkJggg==",
     "wiki_name": "Crystal crown (Meilyr)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_crown_(Meilyr)",
     "equipment": null,

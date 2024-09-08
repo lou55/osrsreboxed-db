@@ -1,7 +1,7 @@
 {
     "id": 10077,
     "name": "Spiky vambraces",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "Attack at your own risk.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xu2U70tTYRTHvS+LmAwlSclssWIZaVJSINVAKPofhHrTm14U9EOENDNLzMzSzGpsDDOVMRSzJWNjTDNlDJeZTMbKJPo/TnzP5bm79ymdM51B+8KX3W333ufznHO+T15eTjnl9M9LIaOzKnlhha5cuki9bW00+maAAm/HsgmlUPGefCow7ySTaYcG5h8dpelgkD5FIvy9sqyMLT+9yVLIatnNtpQWUmmJmYoKd1F/7zNKLH6hnysr2YSBFCq3FZPNWqTZ1f2UhhwO+p5McstuX7uazVlSqKK8hA0wZ1cXDb58QV63m5LxOH9vuXWTLtfV8ed5+1kJblMgjS+rOrqX/aqjg1vlcblofHiI4vPz/P1hYyONvO6n2XCYpgIBCvl8NDEywvfg92Gnc6NQKgAWxs7RGiw40PecW3Ti2D7+RKqw4MLcHC+Gawz4pN9PX5eWaGlhgf/TbyrDGVMfQpIe3WniBRDj4LtxCk+85/acPL7fYPwXm51lCBiVQeIA5PN6ydHZye/SA8mrrqJUippvXKcn91q4AtglUoSy4x5UByA11QcMjk5/oLmZjwyH+GPQUS1sAhXG+/BsqlpppWjpedDQwKlBGzCwqJK7p4ce323WoATI6VNWg8UGfiwvU2Rqkp+V4eF1QKmxFsb8YE4WYzHyeTwM1NfeTt33W7kFrfX1vwHZaw5qlkGFq46Y+fOQxZQOKhVrYZQbLRgbHOThxm4xVwDEb0gO7pFhas/Y2PrfKmz5DJNqWdoBV4FEtIURYcwSFsYAoyWo2udo1PByGQY+Zz+sXcsQaWCgFBBmRG+cJ6jOTChE3xIJvsYZZNyluqAeRu91VESWEUiONwYU6cG5gkohdfJBpweTnSGMkHoarxZtpAdQqJSAwuDroSC5LRuEEVo71nqLe1BZGWqTpRhg9Gn5k6srC3SH3pZJMcDI6ZFn5C/mJBOpcZaTI84TeUa2GEZIjbKAuVBbzoecAJLvzpK2pT1rS27NtsL89/oFcJBC8Of2YvAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1ElEQVR4Xu2U7UtTcRTHvS+LmAwlSclosWItsqSkQKqBUPQ/CPWmN70o6EGELDNLzMzSzGpsDLMpY2yYLRkbY5o5xti0JRtjZRL9Hye+53Lv7r0+NLVtvtiBL/f5ns/vnPP9VVSUoxzl2PEhkFpFDW1iga5fvULDPT3k/TBGgY+TxYQSqHZfJVXpd5NOt0sG83u9NBcM0kI0WlwYo2Evy1BfTfV1eqqp3kOjw68os/Sd/qysFBMGIZDZVEsmY40s++BLGrda6Vc2yy27d/NGMWdJoAZzHQtgtoEBcr59Q26Hg7KpFF933b1D11pb+XjJckED918g1T9rPL6f9a6vj1vlsttpamKcUouLfP20o4M870cpEg7TbCBAIZ+Ppj0efgf3J2y2rUKJAEiMlaM1SDg28ppbdPrkAT7CVUiYjMc5Gc4x4DN+P/1IpymdTPKzbVRI/AhOevbgPieAjYOfpig8/Znbc+bUQZXwLBGJMASEysBxAPK53WTt7+d/bQEo56LO27foxaMurgBWCReh7HgH1QFIc9MhlWJzXyg+/5XhYH8MOqqFRaDC+B++3QSYILvnSXs7uwZtwMCiSo6hIXr+sFOGkkDOnTWqJC3g9/IyRWdn+FstPJQHlGhrSZgfzMlSIkE+l4uBRnp7afBxN7egu61tFZCl+bAsLaikxmN6Ph4x6P4FlbO1JJQbLZh0Onm4sVrMFQBxD87BO1qYlvMmlvJeg6mSYXIt2xAGIQJJ1pYEC2OWkBgDjJagat9iMdXPtTDQRctR+TxPCGXkgDAjSmE/QXXmQyH6mcnwOfYgdQIxoRJGqU3CINRAWntjQOEe7CuoFFy39kanbEne7VkvxN14PWvDPYBCpSQoDP42EuYTG9taKekdVLbgUEoYpVvWUtOJKsWmV7AQVDBa96yekYLCSCHaWeuc3H5SkhCtLMFcbjHzJldCIIS2NSWFKcfOi78v0wgp89soRgAAAABJRU5ErkJggg==",
     "wiki_name": "Spiky vambraces",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spiky_vambraces",
     "equipment": {

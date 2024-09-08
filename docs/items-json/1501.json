@@ -1,7 +1,7 @@
 {
     "id": 1501,
     "name": "Dwarf brew",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-03-03",
     "duplicate": false,
     "examine": "Smells stronger than most spirits.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4Xt2X/UtTURjHPYQMRQKpXywyW6ikois2SXShqKktli8ttaWuNd91vpQlFUIRQdAPQfT3PvV5xtHrcUrguZM68GX33t17ns99nu9zzlZV9X8MI0e68GEkEeuSvu5uGUwmLxrKyNZiQZ6MjCjIo6FBGR3ovygoI6sLC4FSGZkYG5OpVErBKlxCI/nZWQVoa2mR1uvVqo7GiDyfnJCZ8XF5PDwssWikUlBGMum0Bicbw7Fa1Vi8Vq8Dy3cA32+tCTtbRgrZrMw/y2hgjgc6a45p/WVOlubm1FucJ9trFDgEMKNvjpEJSCDK4irRHJHPb/cUiKwBZTOY7q7zBWV04omeOskNXdag+Kbx6iXZL0ROCGB8xFKAtwC1GWSuWFPTeaGM+oG3ZPJoQ/UJCFdBIJ5FtnRegMgKE7qBTxOG7+/tlZ54XF8CIFsyL0BMSMrdwGeJDCHgeDbT5xEIEwPlBj1NlIyVG3OzHLx4OiW56Wn/QJQOuQCu7MpNZwJSzLTqcuENaPLBDckMNMrM0E1NP1AYlm7D5HQcaqgviRUbgPXJFtXCaFS7zysQMNmHt3TyfCoqi+nb6otyWhlvPhT3p3quyc7ykl8gmyEXiqBkgbLsTN+RN7Ntx2Aom92MgfEAxDBq1L8F45zvAGF133yV95UdO4xCEByz0jlngen5n/1ub21NPuU75cN8u38gAAhEQEpzkOvQDLDJEhwT258gXP+4vSVfCl0Ks5+tABCBeHuCfl2OybfVu/J9/Z782IyrOAea+/CVdyD8Q3koCz7hrQlYDohPWyruCwUI71gfYV6C2CwBZGH2pq4oJLDA8BvJc4cxzOFWgF9s2YJZIkM/t+NSTNfrtXcbG9phHtcfd5Ra3+5NmPn1yop2EsHfF4tq5IPdHT3nus1UaEDWQ2SJTjpNZAuFDhT0D4Fsl7kdxjG+4pkQ/BMcpQCYOdhdQOCfX7sJ/XRBQoIpjdLkR38Sy6kiIO4IBi0n9/5/fvwGbulCOVnjCw0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xu2W/0tTYRTGfQkZigRSv1i0aKEjFV0xJVHDoaa2WJu2pi11rfldp7NWUiEUEQT9EER/76nPGa/Oq5PA924QvfCw3bvtPp97znPeu6amf2MZOVbDl5GBSL+MDA7K+Ohoo6GM7K4U5MnUlII8mhiX6dhYo6CMbCwvV7XKSGpmRubicQWrcwuN5BcWFKC7q0vC15tVvcGAPJ9NyXwyKY8nJyUSCtQLykg6kVBzqjEZaVXNRFv1PLB8BvD9cIvf1TJSyGZl6VlajXkf62s5oa2XOVldXNRscTza06LAPoAZvXOCjCFGtMWrgc6AfH5bViCqBpStYGKwzRWU0QunhtokN3FZTclN8OolOSgETglgcsRWQLYAtRV0BkQeuEsuHupoPgXhVTUQv0XHrbvwMloVLug1riUCPzY8LEPRqN4EQE5bxgUpudf4PFEhBBy/TY84BCLEQHlNa4mWsXMTbraDF0/nJJfJuAeidcgL4JXduZlMQIrpsG4XzoBmH9yQdCwo8xM3tfxAEVimjZAzcaijvSJ2bAC2ZrtUy9MhnT6nQMBkH97Si+fjIVlJ3NZcnKX1ZOeR+H586JqU1lbdAtkKeaEwpQq0pZS5I28Wuk/A0Lbjh7GzZTSofwvGMZ8Bwu6+8yrvHggIzAkrk3MemB7/ed6VNzflU75PPiz1uAcCACMMac1hrlcrwEMWc0Js/4Jw/uPernwp9CvMQbYOQBhx95h+XYvIt4278n3rnvzYiao4BprvkSvnQOSH9tAWcsJdY3gWEK+2VXzPFyCyY3NEeDGxVQLIwpTnrigksMDwH8kxDMscPQrIi21bdZWo0M+9qBQT7Xru3fa2TpjD/ce7KqNvn02E+fX6uk4S5u+LRQ3y4X5JjzlvK+UbkM0QVWKSaolqId+BqvODkZ0y74TxnlxVQHyBsatiQJirpwsI8vNrf0Bf6wDiXdawlv4v/9dvPRENLnkTP7kAAAAASUVORK5CYII=",
     "wiki_name": "Dwarf brew",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf_brew",
     "equipment": null,

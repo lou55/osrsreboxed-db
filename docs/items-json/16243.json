@@ -1,7 +1,7 @@
 {
     "id": 16243,
     "name": "Lovakite ore",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "This needs refining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2ElEQVR4Xu2WUWsTQRSFdwilLyIUS6Utto2lLTbSxIAthSqBUqUoUhQEEQRBEAT//+O034wnc2d2k6yYpC9euCTLzs5+c+65M1tV/2Pu4XzKew/nh4eP/auTbT8a7BRQFnQpwM73uuv+vLcVYL5e9cJLB3t74fd4pcryoFMtGiqqIxgBkbudCNFf6fiz1Y6/ukuuE/BCwmUwAtrqRDUsDMm1VXABpXQ1Zaw6wzuAkQHiWmPw3Pvzff/p9aH/PDqaL5RWrZVLnYvVCKRErXB/ey0oC8i3t8/99+uTAPgXUKW8udQJJo5VqSyMkvs0gkr9413f//44LBpiajjf3XwYVnW088j39zeCkU+fbTasKkJSGtRRlovgWYAEQ/78MGgD5PyTjQehrbXPXA53/fXZ0/CrfUelwszWJ0opqHHMhXcEIyBKly+wFlEd7TNAvHnZDWbkl2sLhJkpFWk7Kl+1C8/x8l83LwIMv6jVPH4c0Xyk1AECdVgdv1xbIMwMjEqV1MrnlZlRRUAzYAgXPENadW4uDvyXy+OgElAWiFYvzazOsvOyIEwsoBb+STB0hC2VXR3Xk4C095C5seP8pEzdSh1A1FG2VFoZiVoWiBKVQFIq77i4VQhsBgwRzyjaE0NLHUrFqpQAWiD5ZxJQUimp1QKGcFmrSx06QzD815afJoxQTUDc0xlH6qDN3zsx4qFpjYxvBKJEsRKItCoJZr2qxmccyb382anhxr4h8Y0gALNpS6DShgX9AdI9+wVgVWsNxMRq8RLEQpDyGePlK6X8VR648lRrICYmm0CSEXMYPGV9ZcfZA7d+zs0MF5SZBKKX0IUWxn4b5StPZi+7Lc03M+oPlS/B+PrAks+0gPpLmuerj5sS0x+Kh2QJpBO76Znp8/1zxK6yQNqj5vxJ2jbceMOU34CxB+WClJgUcWsQEKUCxn5KlE8sIfL9qDRtOXopUXbMvcIsK24BCNwyB9xlFewAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsUlEQVR4Xu2W4UsbQRDFbznEL6VQKhaVKlFUaorRgIpgS0BskRYJCoIIhUKhUOj//3Gat9N3O7t7l1ww135xYLgct9n77Zs3u1cUz7HwcBLyv4eT4d4b+XC4IaOjzQTKgv4TYCf93oqc99c9zONV37zUycFSEeVuWXQNpeoQJgA52SoVYrBUytlyKVeTxH3nQBaGQOulqmFhkLi3CnZQSpcpY9UZTgBGBgj3HAPPfT3fkbuPe3I/2l8sVDyZq9S5WFYgJtTyzzdeeWUB8u3ze/l+fegB54BK5Z0mtatKZWGYeI5GYKl/fBnI79th0hBTw0lv7aVf1f7maxnsrHojn75bq1mVQqI0UIeZLgL/BRBhkD9vjtoAOXm7+sK3NfeZy+GWXJ9t+2u876iZrU9CxnNiLniHMARC6fLxUag63GcA8emk582IK+4tEMyMUiHjjrLh/P/w8l/jYw+DK9SqH1+Fmg9JdQABdbA6XHFvgWBmwLBUQa14XpoZqhAoH5eF855BWnXGF7vycHngVQKUBUKrp2ZmZ9l5sSCYmEAt/BNg0BG2VHZ1uG8C4t6DjI2tY5E09QwYhLYmO8qWiitDQi37EpQoBaJScceF97SAQegZhfaEoakOSoVVMQFogeifJqAA0BqE4aJWpzroDMLgd77lK1QdEJ7xjEPOedDqoWmNDN8QhAnFUiCkVYkwK0VRnXFIPJsLiL5BwjeEAJhNWwKW1i/oLxCf2S8Aq1r65oZwfmK2eApiIZD0GcYHX1mf5AdubvCpoXsFsh4kjLMw8FTuKx1nD9z8nJsZzivTDKJj0IUWJv42isdamDBfOm5qzPqTGp8fWPRZWEAas+Z7cughmQK1OLG7Cu0qC8Q9qt5HnYerNkz6DTAtDsquQrcGAqFUgGn5KdFVWKN2btrnaIw/0ejFBBmJ6EcAAAAASUVORK5CYII=",
     "wiki_name": "Lovakite ore",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lovakite_ore",
     "equipment": null,

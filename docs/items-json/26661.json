@@ -1,7 +1,7 @@
 {
     "id": 26661,
     "name": "Shoe.",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-09",
     "duplicate": false,
     "examine": "A shoe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRklEQVR4Xu2WW0sCURSFPU/RSxFFYVGWYdKFrOgmWQli2YVKRLog4v//EyfWtuXs2Y6XzMGH3LAeanTmO2utc8ZEYjrTmY4e57s1kWk//Ows5+/Kt75UuvbF4pVoAlDOFwrn/uT40F9cHPtq9cHPJRIi/B/XjzY3DVSsDjpfqRR9NrvdAbm5uRQYAAZAAUQ+fyru4XsxQDn//Fz2j48liUrDIEJC4G86iFipaAf/NM6/vt6LsGoNk8vtiwvsFB2EdMfGDlSrPcnK4Q7iIMzBwa64gAfTOatYgD7e38QhuoOCAwa9IhCuARZifOGOjW2c//qsSocsTCaz1QGicxQ+B8UGhK4wqr29HYFJpdYE1EapFQsQIoMT2p10esOvr63KDtRAuA5grTFs/fDroV5/kZ1k3UkmV6TsjMzGSY3gUhgAD+GZY3cVgOjO8vKS7EC4Z/sFYGoIoDAAIsGNsZP0ARgFw9XjQQCCe+iXdkg7CA0ACg46CG5AUTBcNaMiDBxqtd6l7FgIesT3nY10cXFhEBCm/X6i9FGvT2PCWHeazbq4ioVgEbpDGggOzs/PDQOEceIGxaO+HwxdQUxwFIuBm7o/BGLHADQ7O/NTj4HjxBXclGJvbFSNRq3jCiLC9+x7jZ/VpdcODeESJvjJoGF69YwvUwujtzviigKyT+459vcMpTtmY9Wl11HRHRZ6JCAObQ3sbUeqYfrtQMDw3NH6RVzDjAvB0B0bVRRAeHFjHdcFwzd5Lwh7hximu2MTgAiPBZgIxL+bb2j11vwtyip9AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACK0lEQVR4Xu2WW0sCURSF5zxFL0oURklJhUUXkqKyqEwQyy5UImJFSP//T+xYW5az5zippZMvs2E9lJf5zlrrnGMQpJNOOnacDGom03v46WlJbus3UqtdS7V6qZoBlJOrqzM5PjqUcvlIms17yQSBCv+PB0rUQSeNRlV2drb6IJXKucIAMHxoCHFxcaLu4XMJQDl5eqrLw0NNo7IwiJAQ+JsOIlYqEaCXlzsVVm1hSqV9dYGdooNQgh1z0mo96srhDuIgzMHBrrqAB9M5X4kAvXVe1SG6g4IDBr0iEF4DLMT4oh2b2jj5eG9qh3yYYnGjD0TnKLwPSgwIXWFUe3vbClMo5BXUj9IqESBEBiesO5ub67KWX9UdaIHwOoCtpgBlDzYn7faz7iTfnZWVZS07I/PjpP4AFAXAQ3jm+LsKQHQnl1vSHQj3/H4BmBoDKAqASPDF2En2AIyD4erxIADBPfTLOmQdhEYAhQcdBDegOBiumlERBg59fXW07FgIesT7zo90cXFhFBCmdz9R9qi3pzFhfHe63ba6ioVgEbZDFggOZrOZcYAwTt2geNQPg6EriAmOYjFw0/aHQOwYgObn58aHgiv4Uoq98aP6/Gz1XUFE+Jx/r/G9tvS/cIjTKzaPfcL81DNepj6M3e6IawIgTnTn2Z75vxJ5b8VFRXdY6AmA4qYXqYUZtgMBE547VlMdF4GhO35UCQLEjRuACW/yf4Pwx49hJhDpzH6+AS6JmsYRP4abAAAAAElFTkSuQmCC",
     "wiki_name": "Shoe (interface item) (Elven, grey, male)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoe_(interface_item)#Elven,_grey,_male",
     "equipment": null,

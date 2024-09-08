@@ -1,7 +1,7 @@
 {
     "id": 421,
     "name": "Lathas' amulet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-10-23",
     "duplicate": false,
     "examine": "Yup. It's an amulet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xu2WTWsTURSGcwlDmGGYEAKGKNbGYIqm2FQaGgkxDa2ldlFQKCi0ILgoUlT8WukfEP+DuBRciIgLUXAh+AEuREEQ3AmC4H84zntvTnLnJm1nJh8i+MIhX3fOPOe9555JIvHvSVD0GJkEnS47e0ajZFO1kKLKRIqmD6RGBahgWkdteUO84vOZ4w6tVVw6e8Kl9apLG3VPvsf3vLZWHAmg6NxkN5hLzTRdbHjyPb7D73ohJlwXMJJEp2okNWHOz3sSAjDbSxnaaqU7YAiAYR3W4zoGBNzhfZYEqkxORoFSQEiE6pC01/Zu3FjJ0NXlTA8cwBkOueDORDYZFUjIRKgO7rDFSLBTMNjt1WxfOADBHcBk3RhAqIrdmcqHs1gH0+HQW+xOPp0kz06EyteWkFbr7ugOmav7yXRNd0eHCZlPyIoAZDZgyASG1OhAUfpWRcilgNDEOKawOIo7Qamt7+eOuXIXqYZGVeidmEnaUnMMhcXYKla3qsG2S+VBH+rHPHoe/0L0D6qKMS80KXdwSgdzGRfu93vHb8D4/aPcwWQ2Z5i5MoQEVQ/67qRjDbC2lMvYrvhFdSSoUfD7J2tJl6InU7MHLk8N1IMdCTnqkQwuhQcKgkSZ8HtIyOcQEusumau6CoLgGoYZwnaxVB/pLu0UDMKu4HSyMwwzFKDaITvgUj6Xo/v3UnTrZoo2Nyw6VirRdC7oig7DIEOAgdQD9uTcHM3PzlK1MkMPH9i0Zicl0PVr/o2LxYAr/WDMrANI/eECxONHDj1/5tC6Y9E525JQgDlSKAT+lo4QBhL0+pVDT5849PKFQ5s+zAU/GOryliW3bUwwkKCfPzx6+8aljx9c+vrFpe/fXHr/zpVuwbkr29a4YFjqlKy0Fmi52aSFep1+//Lo8ydXunb3zlhhWIJWlxYl1GKjQadqNdnkM+WyPHVjhmH1zh6OvwCjxDfuF+ba/xqH/gB52JAY/cR6rQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACr0lEQVR4Xu2WTWsTQRzGM4Ql7LJsCAFDFCsxmKIpNpWGRkJMQ2upPRQUCgotCB5KKVrqy0m/gPgdxKPgQUQ8iIIHwRfwIAqC4E0QBL/D4z4zmX1pomZ3k4DQB4Ykm8mzv/8z/5lsKvX/SSD6GJkEzlatf45WxUS9lEFtIoOpQ5lRASqYznFT3pCv/HzupIXVmo3zp2ys1W2sNx35ntf13EZ5JIDCu8nfYK60s7jccuR7XuP3wUL2wvmAkSS8qmm6F+binCMhCLO9mMNmJ+uBcRCM8zifv9OAhDt6wIgPRCNWR9Pe2P1xfTmHa0u5HjiCazh6MZ2JfDoqkJBGrI7pDBaxAru1ku8LRyCmQ5i8HQOIVel0JotRIvZT03DsLZ1OMZuGY6Yi+LkTGXUwncES6icFFkwnIgwlZEUEStCAAamjg0XFWCpKAbGJuU0ZcQyTrtTSJ0iHUg3Nqtg7MU26UucYC0vg41eVbLmUD/swxjYPSsj+YVXJjFQ63KUJ0qEEagfd3nEbMH7/qHR4MsffoZ4E6ofddLKxDrCuVMpcrvhFeRJoldz+yRsypehmnK9SnkzUg56EPOppxpQGNwyDRD/h/ygh/4doPFhKYRD+RsMMYbm0VB+FU+o/NIhOhbvTT2YoMJRA44gZSqlYKODe3Qxu3shgY93AiUoFU4VwKmGYoUr9wZ6encXczAzqtWk8uG9i1UxLoN0d98blciiVEcJQ6oGLEI8eWnj21MKaZeCCaUgowhwrlUKPpSOEoQRevbTw5LGFF88tbLgwl9yhobY2DblsY4KhBH58d/DmtY0P7218+Wzj21cb797aMi0md3XbGBeMltoly515LLXbmG828eung08fbZnandtjhdESWFlckFALrRbONBqyyaerVbnrxgyj1Xv2+GNf+5L6DWZsK75XmKpXAAAAAElFTkSuQmCC",
     "wiki_name": "Lathas' amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lathas'_amulet",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 6586,
     "name": "Amulet of fury",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-04",
     "duplicate": true,
     "examine": "A very powerful onyx amulet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xs3W7UsUURQG8FlEpI+CIMtSKysKu4ltSxhBJUFf+lSRVFQUGRVFBGEUIkWZSG8IYi9UKBhiImUIklEU9ZedeO7wzJ45e9d23Cm8cJjZu3e9v7n33DMGwdZvGfGH7/t/3jLybOyEPBk97mLy7jGZuH3UBREL0xdlfuqCzD0/70HZh2gaHoKIAohhMbNPz8nryTOxifEZ39mIoxIhMzJ1b6gGhSsgDIJeTpyW6Qcn3VhcfSCM1+gfy2PybXFkcyiCcM/VIejt47MOxLH1QPjd96VR+bXyUH6vPHIgzFHu6nJhZzctXHY+NUGYVIP0EzNmxk95QYszwzEQ7gmys5uWiW0DEExufCYI44rFvVIq7ZO+vv3Sv2tQcrke1+8DLb+6nB6Iq4Q+gDBm+46iFAr90tu7RyqVw3Lg4JCUy4ckn98ZrZYGfXpzJQIhEoGYFxaEJyeIq2EDuO7u3dLRkYuhPr+7Ggd9uNM8CP0EZbMFd9UJjUDfwMCRmhVanb2WLgiBrSSoszPvrkhiC0JeaRBy7sv8jQj08+P9CJMYpFH44z4QMRiHPuSWBa2/v+kF2dnrtOoRtiD041ThqkuDBiHhLejrwq3NgsKJsEL1QDhZuOoKrUHML4Kwqhqki6Kd3bTwyPtACIJ4wnwJjdpkVydVEFEIgtrbs+7qS2hf/qQG0quEq84h1hkbLIwatPTiUgRClSamIRBOmA/E1wHeSRiHrcFJ62kJpNLa4u5t7jB/8NrQK9Tg6qBVQTaP0E8Qjz6SG/lUag2ibcRv7HbhtZEaiCj0YwIL2tbW5gKf9UpqEKq0BhFlZ/e0EOTbNh8I20YMktsHwvi1uesRCDUoQR2Kg/S2aZD+92MjEOBNg3DK/gbiadPbRRBzjduVGshuG/o1CJOHeVDFEMSxAOHIaxBqUOI65Ns2DcK9fWVokM6fVEC+bdMgfKcrtAZhnM6fJkFotdXXFxqjw4JQFDWIkQAUBCzrG4UF6tD5kwqo0WaRjWAZ1bH/qVmkL+xvtnT7A7kHYCdt/IyHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xu3W+0tUQRTA8V1EpB8FQZalFlYUdhOzJYygB0G/9FNFUlFRVFQUEURSiBQ9RHohiD2oUDDERMoIoqIo6i878Z3LuZ07O+re3Vv0QwOHuTs77v3cmTPnmsv9+y0v4Qh9/8dbXh6OHZT7owdcTFzfL+Mj+1woYn7qlMxNnpTZRycCKP8hWoZHIEUB0vAxMw+Oy7OJo4kb85nv/EiiUiHzMnljuA5FD0RDQU/Gj8jUrUNuLn0IxHyL/rY0Jl8WrjaHUhDXujoKenHvmAPp3JVA/N3XxVH5sXxbfi7fdaBUGH5Un1pB3NSC7BNrTN85HAQtTJ9OgLhuEJRPbAMITW4+K4h5lcpWqVa3SX//dhnYtEuKxV43HgItPT2bHUhXiTFAzFm/oSLl8oD09W2RWm2P7Ng5LIODu6VU2hivlgW9fX4uBhGpQJoXPognV5Cuhh/geno2S1dXMYF69/J8EvT6WusgxhVUKJRdbxOaYGxoaG/dCr2fuZAtiGArFdTdXXI9SeyDyCsLIuc+zl2KQd/f3GwUQ0uCLIofD4EUwzzGyC0f9OnV5WZBtCgfuJkPYpxTRW9LgwWR8D7o8/yVZkHRjVihlUCcLHpboS1I80tBrKoFpSiK0ZEPgQgF6QkLJTS1yV+dTEGKIhTU2VlwfSihQ/mTGciuEr3NIa0zfmhhtKDFx2diEFW6QQwtOmEhkL4OeCcxj63hpPW25aTW3uau/dzR/OG1YVeoKZCfR4wrSI8+yU0+Vdtz8TbyN/528drIDKQoxrmBD1rX0eGCz3YlLYgqbUEpUBEotG0hENumGJI7BGL+h9mLMYgalKIOJUF22yzI/vuxGgh4yyBO2VogPW12uxSkuabblRnI3zbGLYibRz/6G6MgnQuII29B1KDUdSi0bRbEtf/KsCCbP5mAQttmQXxnK7QFMc/mT4sgWrQNa4XF2PBBFEUL0kgBarTVIzVs/vxF0GqtHlkf/1tr7RdvAxWb4BqaAAAAAABJRU5ErkJggg==",
     "wiki_name": "Amulet of fury",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_fury",
     "equipment": null,

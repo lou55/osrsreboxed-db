@@ -1,7 +1,7 @@
 {
     "id": 19697,
     "name": "Clue hunter cloak",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-06-16",
     "duplicate": false,
     "examine": "Winter is coming.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4Xu2VzU8TYRCH2SshECKRFAICjZgCKS0phYbyFSR8BkE+UkUUsQZBJRhiMIYQExKNB2/+CXr2oDc8+Y+NPLOZZbetpLVCPHSSX95u9t2Z5/3N7LaqqhKVqMR/H44EdWVRqKAjqb6ugPIBLwXWkXR/T17BRLQzoFvhcB5gPmzZ4cjoQNQDMgEQjXR4AgYNxCKeujo7vf1ckyvW1lYOlCN90aj0dndLT8QtQNGO9pAsTaXldrovAMo9v1vsNyiDLMMlty0GcqO5WROuzAwr5EA8LpsrU3JnMiXzE4PqYirZJc2hBqmvq/kjELB/AeUoQKixUVqamlSAzIwlZX1xQvpjvZJKJGRkcFC278/Jxt1JmRpJ5DnW0RryoKylphKgnLNErZ7GUzHZfuwWBQo3DCidTEo2MyuZhXFtoUEhHIt3h6Wutlau1dfrARE5bZaKmCfHnZGzh3iYxLSEgjgDFL+Bom1AHb/ZkMNXGb3PXlb2AKRtPHMKoJrqanWavEUOt+PZC5C1ieQUst9rc6N6DThO7TxY0Lbh1NbatM4Ve3ALcBwGCDECJbljQNjPLETCLXpKaxczZKdmXZpPa9s+f3oph88ysre5JEev1+XgxarsZBf0GeCvNzQoEGuR7li4UOYGJ2d9u3tPndjfXdZ5mp92T76yOKxv28eTpwr1/OGiukTbyEHL7aXAnRKB3PkByOYDCAoc723oyjXFaAXFgKNtPMO3yr5XJvLZMCPASgKylpk4MdrfWvZmxVyjfTfb2xXeXmuu/c9z7X9j/W9YbvUC4ehp7cSImQDmILuqK4NrOjna9L4pBsRq7uCW3QfMryK/QY5nOXNBctz4dXqqQD9/fJdvX7/oEL8/3gqAW2E/DPftK297/C0rwiUXiBbY/xfCpbGhIW0dYLSL+UJWkP0GZDDcd50IqkgYwtHT83cAgInZoUWAZR/N6h4/EMUNCJhCxXOVW/mCcBP5gSjMd+jDuycymo4GgGitARlMGcULh5vk/JTWwlzrC+mfQRSK8+QX25+r3DyXEldarBKVKDN+A4lD9ggnA8OsAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu2V3UsUYRSHnVsRRZJkFY11yViV1ZV13cX1C5P1i03zgy2zzDZMKzEkjBAJhKKL7voT6rqLurOr/rGTzxnOONsq7GguEXvgx7vDvHPO8/7OmdmammpUoxr/fDhSrIrFWQUdSfd3FakU8EpgHckM9JQUTMQ6i3QrEikBLIW9dDgyOhjzgEwAxKIdnoBBg31RT12dnd5+rv8CkCP9sZj0dndLT9QtQNGOcEgWshm5nekvAuWe3y32G5RBXgLKbYuB3Ght1YRL08MKORiPy/pSVu5MpmVuIqUuppNd0hpqksaGunOBgL0AlKMAoeZmaWtpUQEyPZaU1fkJGejrlXQiISOplGzen5W1u5OSHUmUONbRHvKgrKWmAFDOSaJ2T+PpPtl87BYFCjcMKJNMSiE/I/ncuLbQoBCOxbsj0lBfL9caG/WAiJyBYHRGTh7iYRLTEgriDFD8Boq2AXX4Zk32X+X1PntZ2QOQtvHEKYDqamvVafKWCeR49gJkbSI5hez3yuyoXgOOU1sPcto2nNpYmdK5Yg9uAY7DACFGoEwY4hQI+5mFaKRNT2ntYobs1KwLcxlt2+dPL2X/WV521hfk4PWq7L1Ylq1CTp8B/npTkwKxBgAiXChzg5Ozvt2+p07sbi/qPM1NuSdfmh/Wt+3j0VOFev5wXl2ibeSg5fZS4E5AIHd+ALL5AIIChztrunJNMVpBMeBoG8/wrbLvlYl8NswIsEBA1jITJ0a7G4verJhrtO9mOKzw9lpz7X+ea/8bG/gN47R2YsRMALNXWNaVwTUdHax73xQDYjV3cMvuA+ZXmVCOZzlzQXLc+HV8rEA/f3yXb1+/6BC/P9woArfCfhju21fe9gRuGYlogf1/IVwaGxrS1gFGu5gvZAXZb0AGw323+J8qOxw9PX8HAJiYHVoEWOHRjO7xA1HcgIC5YPHzwk3kB6Iw36EP757IaCZWBERrDegU5kri9JTWwlLrz1JFoqLFqlGN/y9+A0b/u0Fnp1azAAAAAElFTkSuQmCC",
     "wiki_name": "Clue hunter cloak",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clue_hunter_cloak",
     "equipment": {

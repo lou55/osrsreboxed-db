@@ -1,7 +1,7 @@
 {
     "id": 8331,
     "name": "Teleport focus",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4Xu2W60/aUBjGJYtIsuzDYDG6zIRZutKIXORSLlZaaqkC4m0OHWOAE822LMv+/w/PfE9z6gFZltTblvAkTwjN6fv8zvu2HObmZpppppn+ewUw7ifRDUC9WsWOaXh+ZCgX4vlcGOvRFJKraebGtjXmR4ByQRRJgiZVYcRaqMXayERM5Ba3kVnagvRyDRtSHvuOw/wAUDdjadk2sybpMOQWsos1FJd3sacM0HwzghPrwFFOkI5UUZArONzdZb4nKBcin055uyWvL2nMtnIIe6ULZ6UPe3kA68UI9ddDOHIHlnqAeDiLSryGk3ab+Q5QLshGMuntkExgVLgs11iHSss7MMI9pOYb+Nrv48eXc1ihbygtnMGU92DGm1BeZXB6cODZB5QLctxsetYyblGCoe8ElI+VkYiUsD5fx6DTwfnZGS66XQZ22eshHzyCLtdhqg0kVBWf3h979g1FAHxnpVxurGgz0UFywca7cBrZWAE5WYOmbKKimtBVC4lnDuLzOtvAx6NDBvX5w4lnX1A0IirGvVkoeAWpK9XQObIRG8bb6/Gstq/ftn32xlnyPlILDXYPwfP11EXRvqBoXOLOtopFVpxM4ykGT2GGrpi3gkOUg91bwXQPdZg2SJ2n0XL7gqJiHIIHiM8MtxhEa4xKxYOh54pbBEytrfmDonGJgRQmAvEgum7pOvuke0Rgfo26zt9kcjoaZZ5M/YsCLJCCeQAFixB0lpG/Dwdj5uuoK5MQPmG4AixcDBMPVPod4uaAtH5aN+4AMakAC/s5uphqDkhrpkHcI4go96/Gr6tLzwRxc7rfBpms8AAKeBB02E6DeCQQUU/WjT/rnwGZaaYp+g1aiUOSYZdLxQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbklEQVR4Xu2W6W8SURTFIQZoYvwgmKYYm2iHEQh7WYalLMN0mLKUpRUpIrJY2qgxxv//w7H3Td4woPHDtIU04SQnhMmbe37v3hkeNttOO+2005OXHaveipYAtXIZZ3LF8IahdIjnNjcib2OIHsWZG6fKijcApYP4BQGSUEbF10LV10bCIyO1f4rEQQnCyxCOhTQ6msb8CFDLsbRUlVkSiqiILST3q8h66zj3T9F8s4DmG0Dz9xH3lJERC+jV68wPBKVDpOMxY7fkyIHErPp7UA9H0A4nUL1TKC8WqL2eQRMHUIJdBNxJFAJV9Ntt5ntA6SDH0aixQzKBUeG8WGUdynnPUHGPEXM08G0ywc+vcyh735FzDSGL55ADTfhfJXDV7Rq2AKWDXDabhqWEXpRg6DsBpX15hD05RBw1TAcDzIdDXI9GDOxmPEbaeYGiWIMcbCAcDOLzh0vDlqEIgO8sl0qtFG2GB4i6VLx3x5H0ZZASJUj+ExSCMopBBeFnGgKOItvAp4seg/rysW/YEhSNiIpxn2QyRkHqSnlvjqRHReXd3XiO2ndvW4e9cYrYQczVYPcQPF9PXTTbEhSNy7yzUjbLipNpPFnnFeS9W+aSc4a8c/RXMN1DHaYNUudptNyWoKgYh+AB5meG2xxEayqFggFDzxW3GTAWClmDonGZAynMDMSD6LpSLLJPuscMzK9R1/mbbAGGy84CKZgHULAZgs4y8o/ZdMV8HXXlnhDrsrNwc5j5QKXfIW4OSOsfoBv/k52F/Vpc/9MckNY8IsS69L8av29vDBPE8nTfGIhZdgOCDtstQaxra93YaaenqT/VWR5MM2p6hgAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

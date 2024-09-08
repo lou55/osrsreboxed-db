@@ -1,7 +1,7 @@
 {
     "id": 25522,
     "name": "Jar of spirits",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-03-17",
     "duplicate": true,
     "examine": "How does someone jar this?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADgklEQVR4Xs3W/UtTURgH8O1fkH6RQBQCBUVWWJjmpq4Sf8lEsSxJ0rS0F9/S5UvLdG2tmaVTh8q0lZiZaUVUFEX9ZU/7nsszzz07S6e38MCX3d2dcT97nnPPnc128Ied9NF9/s+HnULDdRQcrBXxe86T726NCCNWpq5SbLKZliauaFDqj9g33AAxCiCOiok+aaKI/5LpwniPz9SYUWkh7TR5vz4JhVdAOAya9V2kqdEGMRevOhDmy+gf68P0bbVvbygG4Zirw6CFx5cFiC+UCoTvfV8bpF+bD+n35rgAYb4jO1tEvboyjLLzr2YQgDoQ5h8rLBRJ1bLVcIsJhGMGqVdXht3UBiB4ceO9CsL8rrZr1FRfR7XV1VRTVZWolgxan2uzDsRVwjkZxBg1Hc3N1NLYaEK9m29PgJC0QLwuVBBawSDMO5SRkYSRI1dqa/G6GfR6YP8gnAcIwbzDmZlJCKS/s5NGurvoSE4O5WRlibkfoh3WghC0UgYV5OXR2EC/CeLt7SGfx0MTD7yUn5tLDedcYu7n2K0E6OeGN4FJGySj+PZlkKMgn04cddBCKCQAs4EAvQiHaSUyR0vTU+KuY9CXl3e0IPXqKYbR+/DYhb+CjjscVFJURM6SEnKXl9Ppigo6W1lJFWVl5CotpZPxzxj0daVnryBjH0GFdgI9H+uksuJiqnQ6BeYMQG43uV2uOOoUueJQHUjeFNWrK8O45XUgRAdai4zEAU4DE69OVRy0GX0kzsemPdaDGIXwjiuDVsL36O3iKH18FUpkIzpOq7NDtPys31qQXCW8qqDJ0RuiCm/mvbS17Kf3saAIgIBGn/YlgbBLM2ZXINxhOhA/n1QQqoD2oE1AIQACuhjqTQKhQrusDsY2SF1HOK+CJrztogpoD9oEFK8fQOeD3daDGIXzeGTIoOBIm6gCryMOtysS6BLzsEvLIEapV9cMA6Rrmw4UGGoVVeB1xOF2zfhvi3mfljoTIOxBaexDZpDcNhnED1e/p0VUgdcRh9sV9t3cPwh32U4grCWcw3xUgdcRh9tlKUhtG87LICx07N74DtaMHGN9GFmbaTWBsAelvQ/p2iaDcMwgRskBmOdaAtK1TQbhM/lvCY55N8c8fsRYAMIw/9pUkTFyVBD+S8sgThogm4239b9FBcpBJQFCdSwB7XaoyN1gOdtz/9NQkbqo3znQ4w8Eq50M8kX0rwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYUlEQVR4Xu3W/UtTURgHcPcvSL9IIAiBgiIrLExzU1eJv2SiWJYkaVquF9/S5UvLdG2trZVOHSrTVsPMTC2ioijqL3va91yece6Lurvdoh868GXXe8/cZ89z7rnLy/v3h42MY3T9jw8bhSZaKDjWLOL3nCff3SYRRiRnr1Ii0kmr4SsGKO2XyBmugBgFEEeLiT/poJj/kuqD8TeuaaNGmULaKHK/VYfCKyAcBi34LtLsVJuYi1cjEObL6O+bE/R1fTg7FINwzNVh0PLjywLEH7QXCO/7tjFGP7cf0q/tGQEyhcE/5W/NIACNQJh/rLxcZK+WrUe7VCAcZwiyqdoABC9u/K0FYX5/zzXqaG2h5sZGampoSFdLBm0u9lgH4irhnAxijDZ9nZ3U1d6uQr1b6k2DEFMgXhdaEFrBIMw7lJ+vw8iRK7Wzcl0Nej2aOwjnAUIw73BBgQ6BjLjdNDnQT0eKiqiosFDMfR/vsxaEoJUyqKykhKZHR1QQ79Ag+TweCj/wUmlxMbWdc4q5nxK30qAfW95MMRhqkIzi25dB9rJSOnHUTsuhkAAsBAL0IhqlZGyRVudmxV3HoM8v72QLwlB6H52+sC/ouN1OVRUV5KiqIldtLZ2uq6Oz9fVUV1NDzupqOpm6xqAvycFsQco+ggodBHo+7aaaykqqdzgE5gxALhe5nM4U6hQ5U1AjkIlNUbnljUCIEWgjNpkCOBRMqjoNKdB2/JE4n5jzWA9iFMI7rgxKRu/R25Up+vAqlM5WfIbWF8Zp7dmItSC5SnjVgiJTN0QV3ix5aWfNT7uJoAiAgMafDutA2KUzxGAod5gRiJ9PWhCqgPagTUAhAAK6EhrSgVChrEDadYTzWlDY2yuqgPagTUDx+gF0KThgPYhROI9HhgwKTvaIKvA64nC7YoF+MQ+7tAwygVJARm0zAgXGu0UVeB1xuF3z/tti3sdVdxqEPcjEPqQGyW2TQfxw9Xu6RBV4HXG4XVHfzdxBuMsOAmEt4Rzmowq8jjjcLktB2rbhvAzCQsfujfdgzchRPkzJxny3CoQ9yPQ+ZNQ2GYRjBjFKDsA81xKQUdtkEK7JP0twzLs55vEjxgIQhvrb7hUZI0cLwm9pGcQxAcp06JEcVBIgVOcvgvYbeqQ+/0du4ze6mFKAh84FhAAAAABJRU5ErkJggg==",
     "wiki_name": "Jar of spirits",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jar_of_spirits",
     "equipment": null,

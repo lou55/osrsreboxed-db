@@ -1,7 +1,7 @@
 {
     "id": 8674,
     "name": "Banner",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A banner with the symbol of Saradomin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABJUlEQVR4Xu3XvQ6CMBAH8HZ18RVwcHAhhkUnJ91cfVQ0xMQPXqx6NqXlrqUNtqAJl/wXkLufRxcY+9/iIjzJi4ttvghOIhT+130TpbiYze/v1E3oIHvkczqRUNAYIKqxhrXTHm4L9Fpn2bcoDHLB8H2ayCDX0K57o4BMGL6WHOQe+ricyTWcSCAo/5Z8IIVJAKKoW1kGg3DnnvXzIBN1/WCeVUUQI4Hk+ZEbotsbEFQ3EDMuVGQQFCfDcdRZsiUyyL8hwCiQ7TwNAlJRGAiGjAJSG8KICTSBdHWDIAOC/JgQkELh7j0qDCRDERgUYUsTyFdukDwTNBiSFGQOhuZmfLBIIKguhP7N6VCI4y4X+81K7Ipl822fAMSYHYGLvj5zc/7n2/UCjwMHVDRxrGQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABDUlEQVR4Xu3Xvw6CMBAGcLu6+AwODi4MLDox6ebqo6IhJv7hxapnU0rvStuQK2jSL/kWCNyPSxcWi/+NkPFNHiH3xTq6iVD4q8eWJUIuV49P2650kLvqOVMmFLwYIPrFBmbXHu5qItAQDN+nZQYNDfXdmwXUh+FryUHDQ5/XC7mGywSChLcUAjFiIP4t3es6gxCoj7p9Ma+mIYiZQOr8qA3R7U0IajtIv0MoZhBEkOG4+iy5ygwKbwgwGuQ6T5OAdDUGiiGzgPSGMCKDMsjED4JOCApjYkCMqDiQKkVk0E+B1ABaDEkKsofj+GHuZ0bFh9AR8nws5akq5GG3lVW56f7tE4BiY2/IAEIf484bIovN7bSf890AAAAASUVORK5CYII=",
     "wiki_name": "Banner (Saradomin)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Saradomin)",
     "equipment": {

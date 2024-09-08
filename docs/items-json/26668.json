@@ -1,7 +1,7 @@
 {
     "id": 26668,
     "name": "Shoe",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-09",
     "duplicate": false,
     "examine": "A shoe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6ElEQVR4Xu2VUUsCQRSFdx4iFFFCMUwyTVTKUBEqhApBKqQegiCIIAj6/3/hxpnl7NyGJWJ1WiEv3Jcd2PvtOWfuRtG2trWtjSwjrnMvI7Phgdydd2QxPcobKoa5OGlYoPmkZYEm7XYeUEYeZ115uurJ8vLYqnM9anpA2srglhp5vunbpjpQywEZ+2zcrVtowKMDQhl5mQ/sMKoD6wCAMypXjqKkAR7QUiNvt0P71VRn2t+XYaeWADHoOGcHAjLyfn8mr4tTq4JWRwMRBufsYEAfy5G1DCpQHQANWlU7FNnSVrKDAUEhBlqr02vuyWG9ZM+oDs+ZrzUDxdcX+aEtWp1OoyyNajEB0tlix+9YuRwIhiHMgNEDqU6tUkgsgzr6HL2CSm6hIcAE4d6BHVTHB0K+CKTVw3lGILf4dGsgnR0MTAPS6tDOzEDcrrjaaICwtVWEwcDPh7ENPPIF6DQ7MwPBJg2BL+ZV9q0CDFYBMsZ1kHb7AFQs7GQNttsnetvqQQCgKjpnGtq3k0AZVELFoeam5a3hTvEtpYp+vhjoNQBFEf/eac2f6G8sRaABVCntrgbEwgt001INQ0v9wPO6s9071lpx8Lkk/V8FgXyIQDCseBit4jpIUyMgxPdKy9gfqfFzbQTEv6svNPwqxPIbzRcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0UlEQVR4Xu2VUUsCURCF9z5EKKKEYphkmKiUoSJUCBWCVEg9BEEQQRD0///CxLnL2TtcFordvRm0A/PigPN5zrljFJVVVll/soy43noZWU4O5O68L+vF0bahYpiLk44FWs172wQy8rgcyNPVUDaXx1ad62nXA9JWBrfUyPPNyDbVgVpuqbGfzQZtCw14dEAoIy+rsV1GdWAdADCjcvUoShrgQYHebif2V1OdxWhfJv1WAsSgY84OBGTk/f5MXtenVgWtjgYiDObsYEAfm6m1DCpQHQCNe027FNnSVrKDAUEhBlqrM+zuyWG7ZmdUh3Pmy/+2nBU/X+SHtmh1+p26dJrVBEhni10QlAPBMoQZMHoh1Wk1KollUEfP0TmA3EFDgAnCuwM7qI4PhHwRSKuHeUYgd/h0ayCdHSxMA9Lq0M7MQLyueNpogLC1VYTBws+HmQ088gXoNDszA8EmDYFfzKfsWwUYnAJkjOcg7fUBqFrZyQ7FcOprqxcBgKronGlo384cQKg41Ly0fDW8Kb6lVNHPFwNdABDLvTjd/BP9iaUINIAatd0igNIqtlTD0FI/8O65s4NUHHweSf+vgkCBIfyKl9EqnoNfUOO78vNV1j+tLwCB9DuultoEAAAAAElFTkSuQmCC",
     "wiki_name": "Shoe (interface item) (Elven, brown, female)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoe_(interface_item)#Elven,_brown,_female",
     "equipment": null,

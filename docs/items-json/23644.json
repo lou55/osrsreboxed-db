@@ -1,7 +1,7 @@
 {
     "id": 23644,
     "name": "Eternal boots",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-11",
     "duplicate": false,
     "examine": "A pair of upgraded infinity boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xu2WT08TURTFeamlThlbK6UNLZS2pK0tTac0baRJg5JASMBEDIIYIGGnxqgr40bd4MaVG124c2Fcmpi4c2Hc+BFcu/JrHOe88Q5DQSLp8GfBTV6azDRzfz3n3Dvt6zurIy+F7isnWAqJ8BBOCZRCtD+KWCimgerZ7ElDKSQHkjCD5j+ARLVjUU9pZQjkNOwGUi4oVTxiKIWRCyP6ECqTySOVGvU0dWCNc4b7uRfYl3KUyEazKBYrGB8v6ZNOjyGZHEY4POiqpdUzhhA/f8mF8RlIoVa77kLkcgX3UJ14PIFIxLEmH80jbaa0nf2B/gPU6clGBau+hHJ5VltEVXgIQ3VisUGYZhLjFwsOkOceYfc2Vy7s7uuHKoWJ6gIKhWmMjbXsppbddMJuWkZ8YBghOyuiXjdsNJpy7eTxTub+6v1XKUxOLqNSmbcbdzCaaSCRKGhlyuWqmysvENUhkORL9tbBVh6qHOsIlctNaaBGY2VfGK+VwWBYB5xb3Tt1vgD9/h7Bj48mPrwy8PJRSAPSSuaLdhKU6tFOAhPmVmkFKTvospN8g7k28xC/vkbw7X0Yb58buLMYhBkI6AkslmZ0tggSj+ddZawhCxuVda2QzztJoVrt6OZUhDlisNmUh9cIRXW8QKuXlxEx+/xXZ33jGWrWVQ1CawhjGBHdlKH9+cXE5zdhvH5q4P5aEHPtABZK01pBH9VxxnRraxurt59g8fpd5PM1d8IEaHr6Hj41q3hXK2G7mMPjXBrzo1Maht+R5/SojrOdJazMx9zcJtrtGxqGqrBZozFrT11bf4/TR9hYLKPvi3qdzs1e1XF2juRC9o4ElouOjahcvT5jw1zR0yUTJvcJRPhma74XIKV/qewbGWVmhluZTUIhw25oYnPzBZaWHth7qLlrc3uB+AOYvZ6ALKulLSAI1ZFxJgSXnUATVnJFEKpBuwgk+eK1HoFYSm9deZFy88rbXAP/fdGKlcyV10qB4fEp0Kydl6H3NFtr7iIUK6mCVxWxlccnGKfkQTsPdKySXeTdzF4IWuujMgeV/RdkwtIwtIqH2aGdXggvyBHCSO21cT+IYwDZqe7GJwJxVqel/gC2HFmIGClRzAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xu2WsU8TYRjG+VJLvXK2VkobWii0pK0tTQ+aNkLSVEkgJEAiBkEMkLCpMepkXNQFFycXHdwcjKOJiZuDcfFPcHby33i85zvfy1EoQnoNDLzJlyZ3zb2/Ps/zvte+vvPqeSm0XznFUkiEh3BGoBSi/VHEQrGzA5QcSMIMmh2A5Nph93wvpZUhkNOwvalyQaniwfu+lsLIpRF9CJXJ5JBKjXqaOrDGBcP97BGQo8R4dByFQhkTE0V90ukxJJPDCIcHXbW0esYQ4hev9A6mWl1xIbLZvHuoTjyeQCTiWJOL5pA2U9rO/kD/EUCdrh+rFKypVZRK89oiqsJDGKoTiw3CNJOYuJx3gDz3CHuwufoP7LFKYbKyhHy+hbGxht3UsptO2k1LiA8MI2RnRdRrh41GU66dPJ0n80SlMD29hnJ50W7cxGimhkQir5UplSpurrxAVIdAki/ZWz6oI+VYR6hsdkYD1Wrrh8J4rQwGwzrg3Oo+T53Cnx8R/Pxk4uNrA68ehzQgrWS+aCdBqR7tJDBhbhfXkbKD7vNOUrgx9wi/v0Xw/UMY714YuLschBkI6AksFOd0tggSj+dcZawhC9vlLa2Q7+pUKk3dnIowRww2m/LwGqGojhdo4+oaImaf/+psbT9H1bquQWgNYQwjopsytL++mvjyNow3zww82AxiYTaApWJLK+ijOs6Y7u7uYePOUyyv3EMuV3UnTIBarfv4XK/gfbWIvUIWT7JpLI7OaBh+R57T/vQTlrOdJazMx8LCDmZnb2oYqsJmtdq8PXWz+nucPsLGYhl9X9RrNm91C+TsHMmF7B0JLBcdG1G5qak5G+aani6ZMLlPIMLXG4vdACn9S2XfyCgzM9zKbBIKGXZDEzs7L7G6+tDeQ/V9m9sLxB/A7HUFZFkNbQFBqI6MMyG47ASasJIrglAN2kUgyRevdQnEUnrryouUm1fe5hr434tWrGSuvFYKDI9PgWbJg/afemPTXYRiJVXwqiK28vgE06kcq2QXeTezF4LW+qjMUWX/BZm0NAyt4mF2aOd+iJ6DeOugjacAcV7n1bH+ApCxFLgLeU0LAAAAAElFTkSuQmCC",
     "wiki_name": "Eternal boots (Last Man Standing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Eternal_boots_(Last_Man_Standing)",
     "equipment": {

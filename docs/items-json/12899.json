@@ -1,7 +1,7 @@
 {
     "id": 12899,
     "name": "Trident of the swamp",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-01-08",
     "duplicate": false,
     "examine": "A toxic weapon from the deep.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAElEQVR4XuWX20sbQRSHc5DFtz76IoIoESISVEJEiERIQhAlIWYTjRptY21RcwEvKEGiLwoiSLy8iT54j4qXNsXS9zYvFf0r+m/86s5m1xh9dWbBDw47OzvL+TgzO8yaTO8TwuttrmiJCf2VC1DvCR7pU7HNFcKXaJQlTo19xvjIiC7kktT+5tpanlKEWCTCEmsyA5VL7OqU1H6OQgS/18uStlqtJckJudMMHFKIpxCh8O8D9r4OYy4eZ4kTozF2vbpcQTjs1GW4Ca1GAlgbDGJ9SEY6mWQCf37nsLMzxV9mMdgNc3UVS6xE/vs6fuSzODyYh9/fzneqbm+30Wnzoq7ajELhAnd/80zm/GwJbncrz+oQjo/ScNm78O1m7UU4HE08ZRQI2ewEtrcS2NqcZO3pqRDkYAdstgb+MivLMWQyUSQTATRaTPr60YKjjAKxaphrLDDXqzKaQGmUv/VGEDayYTTVt4iqRimPG2BhEy2WthdVKR/JCcLD/b7oqpRC6O6QdaHyp5x5kvH1VBTXjzBUmZAsweNWZQRNmfoVKTK9AQmdTsEyv35OM5mz3FhxioTJKBBmZzxotz4/ywiTOT0Zxc31uOiqKBD2dofZbmwIGZ8zjFTKZQQZhecbn3AZ5SzssNt1ofIRHCEMyUF87OszTnW0fyoDyGgYSkZFpMx/JUFvE8xDEn4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB40lEQVR4XuWXX0tiQRjGfYlDd112E90UBkYIhbgEhoGKRItiHm1tM8v+0R8VcqOIsG4KliBc7S7qYrfabJfKMoruy5uiPkVf49k9czTDum1moB8M8545DM+P4ZxhxmD4mBDerrlSDiZ8qV2G/kxwKSOlmiuEiXCYBSfGxzAViTwLORR9vHrGO0OIhkIsuCwzULvKeruij1fPeEcIXrebhXaYzS/CCbnDFGxKgKcQofhUh93JISzMzrLg2GiU9SfH6wgG7TxlNAjfQz5sfPVjc1DFUjzOBG5vctjenuMvs+LvhbGhvhRMKJxv4qKQxt6vRXi9nTyFCJeXW+i2uNHUYESx+Bf3dwUm8+doFU5nB1+Zg/0lOKw9OMtvvGo2WxtPGQ1COj2NrWwM2cwMq5NzAaj+LlgsLfxl1teiSKXCiMd8aDUZnr+fSuMKsdUwNppgbC7LCIPwIx1EW3O7qNV4yf8NsJhBu+mTaJEyhMeHn7LIaBB6u1RZhCoyns81oqV0mYCqwOUUKqP/RZpMn09Bt12wzPVVkskc5cZLIsJkNAjz31zoNHM/y7wF4fD3KPKnU3LI7O4Msd1YChmPPYhEwiGDjIZkG592FrZZrTIIEQZVP4b7+2WQ0ajcqarfCEQqGfH8A/ZIIDrreW7cAAAAAElFTkSuQmCC",
     "wiki_name": "Trident of the swamp (Charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trident_of_the_swamp#Charged",
     "equipment": {

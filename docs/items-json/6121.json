@@ -1,7 +1,7 @@
 {
     "id": 6121,
     "name": "Letter",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-26",
     "duplicate": false,
     "examine": "A letter addressed to Elstan of Falador.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4XuWXTU9TURCGe+OCuHHlyhU/wZXRRKOGEEQMgiJBEdIgIoJiAyKEkAZFSxoUURpEkTQNiqAE/AK/YvyI0Z81+hyd29MjRWrPxjjJZHq76Hl45505l0jk/4hAfqaX0B/7+2yo3i+V+3b8ei4qAplJ9sj1gTYZuXRKEhdbZLg7KpdjzRLvapLBc40y0HFc+tobpLetXnpaj0ms5ah0RWvl7MlqOXOiSlrqD0hd5R4Ds7201KR7ygYjkMWpYQM0Ntguyf7TIdDmkhIDRLWBeAaGqkBNR8rlcPmuEMg9pYDIAo3HO3KgFMhWiO9Qh9rZXGOAWhsO5rTLG9DEUKeB0tahkgLZ6mgqEO2qr9rro11EFih15XxeKBRy/QOQtqu2YrcPdYgs0J2rFzYEZQPRrsaaMjlUttM/0N1ETLZEIiGU7ScmTluHSgoUravw266V2XEDlB7tNVAArQXFdwrFZ6CotMsed/eEAiMLlLnRF0JNj3Sbw2ghFSiqKsVnlFIgT+NOZIEe3Ow3UKoQUNpC/ERVP/EZP1FpmadxJwJZfXjbAM3dGgihbKWAon35TI6pvSqkQPMTg+tCqVIuFHvIq4cUaCEVz4HS1imU+kkTP1GZNHvK3BMKjEBezaVk6d41A/VkcmhdpYBy1wE7iT3kASiQ90szBmj5fsJAbf3xFwOlavFsQ/HsQrEoMbZXoKczyRwoEigqalFtKExOxU+MP3eZF6APy2kD9Dw9mgOl7eNQu4UKi8mpmJxFyX3mFehlZiwvlGt2hVKldNK8ArEcC4GifWpyxp97zQvQx2cZeTM/aaAY/3xQ2zZFwnSh2Enca0UDfX29YIDePZ7KgUItDraheM6nlE6aP6DF6TWhbLVcpRSKlcD4c4V4Afr0YtaM/kagVC1XKXYSxi4a6NvbRQOEsQuFsrc6k8YriTcgktb9CUxbhzr4R98wUYgrxAsQSeu+rD6SzytzYQuBAQRlFIL2YGKFwDtMGOrouzZQ7jkFxO//ChebKFSUSvoDPtM945+N7/20MSAp+UKxAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC20lEQVR4Xu3W7UtTcRTA8Y1eSG961av+kCgoKkTMDNOysTJlLDPTsqGZMsawrMmwzHKYZSJimdbQnrQnogei/qxj31+du7uLM22nV/WDH+fegbsfz8PvLhT6N1ZYfm6TpV/25ztad0Bq9u/8dV/WCstUtkduJNtk6PJpyVyKy2B3TK4kWiTd1Syp802S7Dghfe1R6W2LSE/rcUnEj0lXrEHOnaqTsydrJR45KI01e20w+YlBBxpJtUu2/4wH2lpR4UBEP4h7MEQFNR+tkiNVu21Bo+mOIpSC/BniM7JD7Gypd6DW6CHbcilobKDTobR0ZElB/uzoVhDlitTus8CwCqDc1QslUWQo2D+AtFwN1XvsQXevXdwQyg+iXE31lXK4cpc96F4mIdtCIQ/l7ycmTktHlhQUa6y2Ldfy7KgDTQ/3OhSgtVB8piiuQREpl9G4swqgmZt9HmpyqNs9jBISQRE1U1yTKQUZjTurAHp4q9+hNEOgtIT0E1H7iWv6iUjJjMadFZaVR3ccaO520kP5MwWK8pVqcpraNEMKmh9LrYvSTAVRnEOmPaSghVy6CKWlU5T2k276icikmU7Z67mcLN6/7lBPxwfWzRSo4HHAmcQ5ZAAKy4fFKQdaepBxqO0//mNQmi3u/SjugygOShrbFPRsKluEYoMiki2iH0WTE+knxp93mQno49K0A72YHi5Cafl4qL+EiqXJiTQ5ByXvM1PQq5mRkqhgsytKM6WTZgricNwMivJpkzP+vNdMQJ+ez8jb+XGHYvxLoXZsCXk7iOJM4r1WNujbmwUHev9koghFtniwH8V9qUzppNmB8pNrovzZCmZKURwJjD+vEBPQ55ezbvQ3gtJsBTPFmURjlw36/i7vQDT2ZlH+U51J4yeJGYhN6X4H09KRHfpHf2GSIV4hJiA2pfu68li+LM95JQQDhMwogvLQxIqgd5gwsqO/tctE8cfW+//6e2sVFXXn9II9Rx0AAAAASUVORK5CYII=",
     "wiki_name": "Letter (Forgettable Tale...)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Letter_(Forgettable_Tale...)",
     "equipment": null,

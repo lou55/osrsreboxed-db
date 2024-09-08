@@ -1,7 +1,7 @@
 {
     "id": 7053,
     "name": "Lit bug lantern",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-30",
     "duplicate": false,
     "examine": "A lantern to aid attacking Harpie bugs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xu2WUWsTQRDHu4TjuHyKfgKxoIhYsaBFK6UUJZagFYJGrFgkELBIwCJKkQqBQh98KPgg+CD4Jgg+iojEtDaWlOqHGe+3y+TWM1Uwd6mCA8NtN7s3v/vP7E5HRv5brmbkRz8wcwCV84EsXgxk6XIoD6+HBwVlpDodSL2cQMwcLcj8qcCOD4+ODhPKSPlMII2rqoYCGFm64OaGDoQ6Pog+F+P0qUrpXTmakdqlRB1/XDkdSOn40NNmbAHjpI0aYkw9AVc+ORSg5FijQn02lJUboawuhPK0HtkxYAvnAlvc/voc0mdk8khBpo4VZOZEwcLgy3MOhvF6LbIFzbg0Edh1rJ8YK8j4IQXMxNyJmj8byNSYgyEwSjRvR7Jx1wGtxqlbuxNZxaqTgU0bSnFHsT+jFLqC1ToBAFVq06E8uxdZdZgDsFFKgHAds4/91FcGKhkbkHQAQBCCc7QJRt2gEHPPG04t1iuUD6YKDaiSkbVrkU3HypX4a8tOCdLFlysocwrEHAAoqc6+jFKGudtXC1ZriC8nZYAQ9MV9B6dpJK26Hs8QCDM2QLMSyfZ2S7a2Plr3FUAlhVYY/uaKyChdvhkbgPQBpFDr1ViRm84ZA7zZ/iDtT++l1Xr3E1D6rQOYSxtAnU67B6VAG7cSIECBwlEtp+5v3LGOgXZ2NntQ/YD0N8CGBqRQ+wGp/xVA/NbtfrZP9uTUaBMggmlALWgFUuDd3Y71nIBct04D4f2AmAdmb++LPQgA0ZjdewY2Y29kLkEuvVePir2vVyBgcMYKBMy3r117SS5X4pt9NjOVXC+jJXAjcxu/fJBA9QNiHnDWsT4NlY7wB2YsEAr5UAR9/bgob54U5W3TjX0Q1rKHvUCpQhmohBn70l+B8dR+lgbJGEbNvZi+hWsaFcpvrnR8v8PnAOPMvTT9v/L+nhtI2vyv/p2n9/6z9h0JyHfCb5VsmAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoUlEQVR4Xu2VUWsTQRDHuxzLcfkwQkERUbGgRSulFCVK0ApBI1YsEghYJGARpUgLgUIffCj4IPgg+CYIPoqIxLQ2lpTqhxnvt8vkTo3Fh72eDx0YbrPZvfndf2Z3xsYOrVAz8quXZh6gftHKwmUri9dieXIrLgvKSGPaSquWQcwci2TujC0DyEjtnJX2DVVDAYwsXipFIa9OHkSfC2n6SlDJSPNKpk5+XD9rpXqiBCAKGCdt1BBj6gm42ukDAcqONSq0ZmNZvh3Lynwsz1uJGwM2f8G64s6vLwDOyOTRSKaORzJzMnIw+NJVD8N4vZm4gmZcnbBuHesnxiM5dUQBg5g/UXPnrUyNexgCo0TnXiIbDzzQSpq6tfuJU6wxaV3aUIo7iv2BgHzBap0AgCrN6VhePEycOswB2K5mQLiO2cd+6isAlHEBSQcABCE4R5tg1A0KMfey7dVivULlwQLAYEbWbiYuHcvX06+teSVIF1+uoMwpEHMAoKQ6+wIBYf721YLVGuLLSRkgBH31yMNpGkmrrscDAmHGBejUE9ne7srW1mfneQVQSaEVht9cEYFhMOMCkD6AFGq9kSpyxztjgDd7n6T35aN0ux+KBXJpSoH6/d4QSoE27mZAgAKFo1pBfc34Y50C7exsDqFGAel/gB0YkEL9DUj9vwDiv8Hgq3uyp6BGmwERTANqQSuQAu/u9p0XBOS79e9A+Cgg5oHZ2/vmDgJANOZAUMbdyFyCXHpvnlaGX69AwOCMFQiYH98H7pJcqqc3+2wwlXwvoyVwI3Mbv36cQY0CYh5w1rG+ECiAUCgPRdC3zyrybrUi7zt+nAdhLXvYC1QgGDXjXrofGE/tZ3+CBIVR8y+mb+GaRoXKN1c6fuAOv5/pF/+LH1px9hMgxDuMe1Sf/wAAAABJRU5ErkJggg==",
     "wiki_name": "Bug lantern (Lit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bug_lantern#Lit",
     "equipment": {

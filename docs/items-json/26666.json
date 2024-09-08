@@ -1,7 +1,7 @@
 {
     "id": 26666,
     "name": "Shoe",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-09",
     "duplicate": false,
     "examine": "A shoe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEElEQVR4Xu2W30sCQRSFdwiRQhQpDIvMH1SUUBFUBBVCSEUPUhEEPQRBEARB0EP//Y1vh7vODkqFs20PXpgXZ9n77Tln7hhF05rWtCgjw5V7GeltL8pTvy393XreUEaONhekHEXJ4rfdZjMPKCN3xw25P12Vh15LrvaXYrhcgbDp+bwTQ13s1eVgfX4E0J/ly8jr1XoMhFLkaK9TdYAsBLlS4IyhjLxfb8YqDQ6X5aRbk51WJQEBwM8Xz2QIZeRtsJHKT7dRToBujlZi5Vjso+BoS4OVtQw7sIVmG8tDICBQDjDUQp20pcHLyMvlWio/7XopAVJlgAIYBdXSTIFQgK9HoUZtLgF6PLODUtVhXy3NAMg25YS5QDQszc4ke646KKiWBgYy8nG7FeeHE6ZANAQI2z7vuik7gcUutTQgkD3qNON0+YEFCNsA9oF0LyCQPVWowsly7aAhQKiALYwDd2Aq0NL8bCggG2CCqqfHh6EhMNgCuD7rK1Qs2AvY7/CLsgFVi76DUXV4HhVdIParpcIkKtkL1IWhgcJgkTudXRjNlw9UqxQnAaKGQ05hdOK6C5t8Wwm7Pu8C6WjwO/2i0s31C/VW11t/HIyGnQy5Ck2gUhTpC9zFi1HlJzCowykLYNm4sjBkDBgdBTq13bC7V0oQdcaXiQM8DmYURIYwWva/j8LkBOHXv4BI17+A+Iv6AvCYIZi0otP7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB90lEQVR4Xu2W70dDURjHd2Rmmc2UZZuWlpoalVGJSiSVvZhKRC8iIiKiF/33Tz73eO459+in3duN9uW+OlfPZ9/v9zy3QmGiiSZCRtyTu4wcrs/J3XFXjjebeUMZ2V2dlWqhED85Ahm52uvI9cGC3BwuynCrFcHlCkRM9ydLEdTpoCnbKzPvAP1av4w8DlciIJyiR4OlujfYQtArBc4Yysjz+Wrk0minLfv9hmws1mI3AAj7xTsZQhl5GvUS/el3qjHQxe585BwP5zj4fqSpyUZGHMTCsF7bAQGBc4DhFu4kI01dRh7OlhP96TYrMZA6AxTAOOgizUQWCAf49TjUaUzHQLdHdlGqO5y7SFOXHcoN84EYWClPxWe+OzjoIk1VRl4u16L+cMMUiIEAEdvrVT8RJ7DE5SJNTfaqM4zbFRYWIGIDOATSsxSB7K3CFW6WHwcDAcIFYmEd+AtTgVoz5bSAbIEpqt6eEIaBwBAL4Ppu6FCpOPYH2BZUI/oKRt3hfVz0gTivV4rjANkPqA/DAIUhIn87+zDarxCoUSuNA4TcklMYt3HdQ0xhrJRd3/eBdDWEk36g5PDkH3Nf/Y9gtOx0KAWHPpMt+3dgcIdbliGQhaFjwOgq0K3tl93/pGQEozJRgT+C+SWIUPZ/H4XJCSLUn4D4p3oDXNbmwtM1n1sAAAAASUVORK5CYII=",
     "wiki_name": "Shoe (interface item) (Basic, terracotta, female)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoe_(interface_item)#Basic,_terracotta,_female",
     "equipment": null,

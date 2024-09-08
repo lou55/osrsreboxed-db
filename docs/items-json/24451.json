@@ -1,7 +1,7 @@
 {
     "id": 24451,
     "name": "Twisted hat (t2)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-01-16",
     "duplicate": true,
     "examine": "The headgear of a twisted relic hunter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xs3W7UtUQRQG8N1PkvRFkiQl0yTDDF/CiP6KiqKiouidIpIwCpGiF5HeEEQrKhRcxETKCKKiKOovO/HM8tw9czy77fXewoGH3Z2d3fntmbmzt1BY/60ofrz3/3krytOxw/J49FDIxO2DMn7zQAgRC1NnZX7yjMw9O+2g7I/IDC+DiAKIsZjZJ6fk5cSJaGK8xns2MSoVsiiTd46sQuEREIag5+PHZere0TAWjx4I4zX6x/KYfFscWRuKIDxndQh6/ehkAHFsNRA+931pVH6t3JffKw8DCHMMdHSE2NlNK5edv5ogTOqBph8cS0B47oEWp89FIDwnyM5uWjFaBkzEzY3XFoTJgeDyVgMtv7iYH4hVQp8HYiUJQtUs6P2rSwkISQXivrAgTG5BekPXAn14czkGvb2VHYR+gIhiJfXVUw30cfZKviAEAA0iYnt7u2xra5Otra1Jn8Zg7Of5awno57u7CSY1SKPw5cBw0v7eXtnV3S07OjsDCqBNTU2ysbExQgH0pXTdBdnZq7RK+QliH4Jq7B8akr0D/REK/VtaWgLKgr4u3FgrqHwGoUIEoQ8TYnJmd09P6MOjrpJdOkaD9KFoZzetfMlrEDGohg5RO7u6ouXa0NAQsrm5OQR9rFhuIEy6b3AwCZarVJpJMjx8IewbYrBsXvBdmUC8pC2IKGZPX18Yo5dNh5XCd+GUJqYuEK4wD4R94qGAwXsMxjKoil02VKjO6qBVQN6yMQRxL3E/MYQg+CzDPZQJpFE6WBobbGzuFQbnFk5pfZURZWd3Whlkl41/BzhPcBuhD0cv+vzB+E9zVxMQzqAU51AM0sumQXhEP/9ScHAi9uYM8MwgXGV/A2EyfQ+kQfxjxdhcQXbZ0K9B+paDGII4FqClmfMRCGdQ6nPIWzYNwvNaIL1/cgF5y6ZBeE/flmgQxun9kxGEtvqq8WL3D2NBuJfWICYFqFDgsV4rFqij908uoHqbRdaDZSpj/1OzSC/2M+u6/QEr2DXPNd70cAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu3W/UsUQRzHce8nSfpFkiQlwyTDDM0wor+ioqioKHqmiCSSQqToQaQnBNGKCgVFTKSMICqKov6yifcsn+27c+N1e3tFPzTwYfdm53ZeNzM7tw0N/34puXhi1/94KblHowfcg5H9PuM39rmx4b0+QixMnnJzEyfd7OMTEVT4IwrDE5BQgJQQM/PwuHs2fjTTMZ+5FiaLyoUsuYmbB8tQHIEoAj0ZO+Imbx/ybTnGQLS36K/Lo+7z4rXaUAJxrtER6MX9Yx6ktquB+N6XpRH3feWO+7Fyz4NyYbipfrVAdBoDTd09nII4j4EWp05nQJxXCSplpoGOtLj5HILoHISmdzXQ8tNz9QNplKiLgTSSAjFqIejN8/MpiOQCaV2EIDoPQXZBVwK9fXkhC3p1vTiIekBCaSTt07Ma6N3MxfqCCAALEmJzR4fb1N7uNra1pXUWQ9sPc5dT0LfXt6rFULIgi+LmYNRpf2+v29bd7bZ0dnoUoHXNzW5tU1MGBejj/JVaQZRfwy+Q6gijsWdw0O3a0Z9BUb+htdWjQtCnhau1gpI9iBESiDo6pHNle0+Pr+NoRymcOsWCcmyKySNvQcIwGjZCbe3qykzXmsZGn/UtLT7UacTqBqLT3QMDaZiu+fnpNENDZ/26EYZpi4V7FQLpkQ5BQik7+/p8GzttNhop7sUuXSWGkjxhMRDrJIYCwzWFtgqjEk4bI1QTKDZtikBaS1pPiiAk6TyJ1lAhkEXZMDVhWNhaKwr7Fru0fcpyoBJQOG36O2A/4TXCbo6x2P2H9u9nL6Ug9qAc+1AWZKfNgjhSr78UNk4SvpwBLwziKfsdiM7sO5AF6Y+VtnUFhdNGvQXZVw5hBFJbQEvTZzIg9qDc+1Bs2iyI80ogu37qAopNmwVxzb6WWBDt7PopCKKUPzWxhOtHCUG8S1uQkgNUbSlHKnb9/EVQpVKOLM//Uqz8BOHF6zQwVyCgAAAAAElFTkSuQmCC",
     "wiki_name": "Twisted hat (t2)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_hat_(t2)",
     "equipment": null,

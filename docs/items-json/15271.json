@@ -1,7 +1,7 @@
 {
     "id": 15271,
     "name": "Poison chalice",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-07-23",
     "duplicate": true,
     "examine": "A cup of a strange brew...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzElEQVR4Xu2WX0hTYRjG/YghG2MSiZGSWqFSVwURQREhFChooKiYSAUV7UJERFNsY5mxNHU6aSZzbWIxxalR/k/MPxBCN9KFV110FQTddbXjxdP3vuPzz7Bu8mwSPvDAdnHO+9vzfjvnSUg40P8vgT87Jto5tLq6iV1TY0NtrR11dY/R0PAUTU3PYgEnUFXVyFYg6rMCItc/fILGRidstlY4HB1obu7SC0rwYGUavhvQ9pTs9ucM1N7epweUgM3exgPJlAQBJT9KxGGrAZZyA4NtB6KU3G4/w5zNzGRH3/UfJfgXt7R048SqGekfTDg+ZkKqz4ijLiOSHRKuSsJVGmAuPITubv8OoOi77YEEwzidL5Dz04KsbxacWjczXMZHCTdpQlrQGAF0G5HiTNQzHSWB1taXuBI+gwvhDJwOJyH7hwT7asbJLxLuUyS51IARXV2v9ExHSaCz04tC7TLytYubJricXxZkf7cwEK0wBukoCZRq11CkXWUTHCVGadEK6Vy5XL5YpKMk4Ol9jXItj01w18PncS6cyis71hfTdJQEbmtF7EqtkFO6FM5C+owJRxq2DnP0VTpKwO8P4cHGTYailOhQ02GOQzpK8n22cYehKKWMZRNSWuKSjpLAwMAwQ93VSpE2YkLSPUN8gcbGpuH1BtHTE0BHhzee6yIJ+HxDCA69RyAQkk9xdzzTURKYml5EKDQpX6jO/QG0svIZs7NL8V6XkuB0CGpfpKO8traOkpLKze9b1l1bw/p9QQwPv8PExLxMaBUVFfeRm5uPvLwbKCgoRXFxhd5QAsHgW4yOTkiIOczMLmJhYYVN/ZlaIjVGqrVlZbcYUOc1CoyPT3Iic3NLm56fX0anyyt7kocbJVVXqrgEZrXW65/S1NTCDg8OjsiH4xt4PAOytvajra2Xm6VabQz+edEHd3crEJ1hIto+7G+Ovu5Ae6nftSll+xUvz5cAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpUlEQVR4Xu3WX0hTYRgGcD9iyMaYRGKkpFSo1F0QERQRQsEEFygqJqOCinYhIqI5bMNssWburzSTuTaxmOLUKOefOUwdhNCNdOFVF10FQXdd7Xjx9L3fOFOjujtnUj7wwHb1/faej7O3oOAg/34Y/lxVsvfQ9vZe0Y4OGzo77ejqeoSenifo7X2qBo6hrc0qKkPkzzKI2v3gMaxWJ2w2F/r63Ojv9ymFYuJguXT470C7p2S3PxOgwcERJVAMNvuAOJBKkyBQ8cNCHLZoYGjRCNhuEE0pEIgogZHDxC92OPw4saFH+bIOx2d0KA1rcdSrRXEfx7VxnFkDvekQ/P6I8iDCOJ3PUf3dgMovBpza0gtcxXuOS+hQFtNmgQEtSpyFSmLkMLhcL3A5cwbnMxU4nSlC1TcO+6zHyU8c9yE7udKoFj7fS3VAHk8IJukSaqULuRKu+ocBVV8NAkSPUAWMHIYm6SrqpSuihKOJ0bToEdK98nrD6oKCw6/QIhlFCXctcw5nM6XikR0bUXU6chhuSfWiZskkpnQxU4nyRR2O9KhymX8NQyQSx/3tGwJFU6JLTZc5Dxg5/P9s+7ZA0ZQq1nUoceRlOnIYxsYmBeqO1ISyKR2K7mryC5qZWUAoFMPQUBRudyifGApDODyB2MQ7RKNx/hYP5BtEYZhfWEU8nuB/qM79AUqnP2JpaW0/YChMTIdQ+wBEgGw3N7fQ2GjOfd+p4tk5bDQcw+TkW8zNpfiENtDaeg81NbUwGq+jrq4JDQ2tSqMYYrE3mJ6e44gkFpdWsbKSFqX9mbZE2hhprW1uvimAioNmZxNiIsnkWq6p1Do83hDfk4Jio6TVlVZcglks3cqj5udX9nR8fIq/HF8jGBzja+soBgaGxWaZl3v09x7kP8tPTnkuEt1kxZkAAAAASUVORK5CYII=",
     "wiki_name": "Poison chalice",
     "wiki_url": "https://oldschool.runescape.wiki/w/Poison_chalice",
     "equipment": null,

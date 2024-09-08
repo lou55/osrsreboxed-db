@@ -1,7 +1,7 @@
 {
     "id": 28880,
     "name": "Moonlight antler bolts",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Bolts made from the antlers of a moonlight antelope.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0ElEQVR4Xt2WzUvDQBTEs/Qg5pAiFoMWTT9IwVZMK1URW7GoBb1YqUgvgiiIKPhxEC8igqgXLx79a0df1pessd7srjhQaDeU92NmXhLL+l8SSJ4YlEC+3sYfghJw/bkQqJrL9YHSDiowZKd/ABLIzjR1uifgL3eQ8Sp9gATGCgGGnUyfawOTQDFoIOsHiaGyVwSqHejytIvN9oIyVKDU7MKrrZkB8msrsJ3Rz558wNRb8MrzoWsj7hSGbUcXkMDb6yWe7g7RWqlGQOcnO+jttsKzWlCMYLQAvTwe4/piD7OVwpfInu+P4HrTOmFIcvDZcQfZCdkTFZJd0wRDEmFc+72NL0APtwchpGNb+oFurnrY3lqCN+lG7tAZdaiQH9cJJNCYTaHsWZjISCfYHboNrK/GjxJtQIvlFPyshUxaAtHvoCghjcQ1V0rBc78D0Zlmd0giGs5uEKAaoUYYkgTi4dQnBmLHNAJJABVI7Y+RuAhAdYOBqOSa3SF93zCKK1no5L8GqHjD1P6oERoBUvvDhTbSH3YkCWSsP7xhaqHVCI0AcTz0nYGM9Yc3TAUixwz0hySB1A3je5IBd1jyVYOB6GOo0LHiaGI4A3H1F4P8Nsw7hHl9xaPNTPYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByElEQVR4Xt2WwUsCQRTGd/AQ7mElWlpSalFZIQ03xYpIJamEumQY4SWIAomCskN0iQiiunTp2F/71XMad9zU286EHwj6huH9+N73djWM6RJDuKJRDOlKE/8IisHxyhOAxtUjE8OMmRgDxJBaqY05i0QM3lYLtlsY0ZRhPuMjbtkjziITQ9avIuX5oaY8VwSqHKh31cZ+c11qypCrteGWdvQAeaU6TGvut+kPTKUBN7/Wd23WWULctFQBMXx99vD2dI5GfXUAdHN5hM5xo18r+VlVMCSGj9cu7m9PUCxkhkb2/nwBx11WCUPija+7LaSSIicBZOCaMrH+uE47e0NAL49nfUjLNNQDPdx1cHiwCXfRGbhDNcpQJr2gEoihWowh7xpI2sIJ7g49Bna3J71KIhHDRj4GL2XATnAg+u1nOaSWcZVzMbjOXyCqKYYhsUFz4QYBDo9QqTiQaE55EkDCsfCNCMUBZCA5P4phSBxAdkMAUci1AckbRuPSGmixYXJ+5BGGb0QsDiTnRwRaC4xwJAykLT9iw+RAyyMM34hYwTtMfBdA2vIjNkwGIsc0wJA4kLxh4pmkCYjE/2oIIPpoCvQoBXDhk6nTN3phPUJ2/HvlAAAAAElFTkSuQmCC",
     "wiki_name": "Moonlight antler bolts",
     "wiki_url": "https://oldschool.runescape.wiki/w/Moonlight_antler_bolts",
     "equipment": null,

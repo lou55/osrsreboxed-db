@@ -1,7 +1,7 @@
 {
     "id": 4155,
     "name": "Enchanted gem",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": false,
     "examine": "I can contact the Slayer Masters with this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4Xu3WPUvDUBQG4N6hQ/EDq5O6FNTBrTi4irPgx6STbv4LXSsSuzhkE2KjkzWkQvHfHT033OTkbRqr3msc8sJLSyG5D+cEmkajTp06ZVGEv1QYRf3+Lf0xig8r7p13oz+7nY4uXukgijyvp3t88qh7dX1Po9Eb+f6zLiLxDg6iKAzfaTAYUxzHugzibm5dTtQxSqWTiaJY16B4UlyJWVs/SFeId7KUBBQE409MlFaCTBnjGITTiWg4fNXl7xLT3em5BhVjJMKgGGPKoGZzycVzJEHJmnBFXN9/yYG4BmRxSnkMIuSaptUiKMMgYFbM3PyGzbUpOr940kXErBhTS1PKQKdnoe5PME5Bpggow0gUnvDNFIP29h8mEIhZWNwGiJU/XUWHR0EOxBjTrzAI+SWGUw6SqCKMRYhMsrYijKnE4FTwbhaSgCRgeWU3V8a0Wqsup4JR1G53pxYxeLWjZG+B/wCTJDs0/5paCQYjn5XKMXWqzgesFIS9xjAsYgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUElEQVR4Xu3RPUsDQRDG8WyRIviC0Uot1cIuWNiKteBLpZV2fgttI3KmsbhOOHNaGY+LEPx2o7PHJLNzmzPo7sViH/hDSJH8mG00wsLCqqZAfjPHKej17qFmFP6ZvYforn5MFHV1p2fPupvbRxgOPyCOX3USKX/BwxSk6Sf0+yPI81yHIGx757qUZ5QaXybLch2h8FIYx2xsHtUDSpLRNyYbx0EUYjyD5HUyGAzedfiZYzp7Xd8gO4YjCIUYCkHN5ooPFAcVzySfCIvjNwOEeQCZGIngzzQth6AJRgJmxSwsbrm8koLLqxedRMyKoZyDzi9S3W8wXkGUBFRhHKLsoIPDpxJCYpaWdwXkzxicguOTxAAhhvoJ4xBCqwZxlB3jZcWz2TAUx3i4ilwB4oDVtX0jxLRa674hfAra7c7UasbQ6ClM3JwwchPcP8CEhZX2BRZqU//hdRYMAAAAAElFTkSuQmCC",
     "wiki_name": "Enchanted gem",
     "wiki_url": "https://oldschool.runescape.wiki/w/Enchanted_gem",
     "equipment": null,

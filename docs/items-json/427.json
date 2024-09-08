@@ -1,7 +1,7 @@
 {
     "id": 427,
     "name": "Priest gown",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-10-23",
     "duplicate": true,
     "examine": "Top half of a priest suit.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRUlEQVR4Xs3WeysEURgG8N2/5Fv4CL4JIoQIIZISkURuya2tzS1ki4TkkhIi4pMdPTM9653XO7szO7PaU087O3PG+e25OZlM7Zess2M9r3rJuu35Vrc51+JlfbbZrU03eSHiIt/vznJ9rrDTa6D0j0gM90FEAcRozOlWjztc7wo0jO94phNExUJmXW6h7Q8Kn4AwBO2vdbr8UrtXF58WCPUl+uNm3r1dTlWGIgjX7B2Cjje6PRDrhoHw3vv1nPu6X3bf96seCG00NjR40a2r4nc7fzVBaNQC7a50FEG4tkCXuwMBEK4J0q2rkg0MAxri5MZ3DULjQHB4w0A3B0PpgdhLuEeQnA9WNOjuaLgIQmKBOC80SK6m+rq6ktGwh5ORIOhqJjkoCkSHqMfT0XRBlWAIwhA/n40XQZ+3i0VMbBBRSUEv5xMmSLceUvzxx4pJC/R6MVkpyN+D0ENpgIiSILkp6tZV8Ze8BiXBpA5CkoKISgxCLIx1r1wIwi5NTCQQVlg1QeihiL2D8gsiymrculcuVQeVi/WO3Kn9emWLD5LDFvbH8Vwe4nDNs1DYOwBhD4qxDwVBEiWDjQ73JUaC8L9Lv8NlHxuEVaZBWPq4BwgOWmhQnoEkCPXwHHVxVEH9p8JYcpBebbgvQTxNyuEiiHUBut4bDICwB8Xeh6xhkyBclwKxh1A3FZA1bBKEZ9aERlAPIA5XQhDK3yVsRc8fRoNwlpYgJgYok+G2XioaKCPnTyqgqEUjo2CZ37r/VDTSin6npssPVBW1lXRa+jAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJ0lEQVR4Xu3W/SsEQRwG8Luf5K9DhBAhRFIiksjLdXnr6jovIep0nevipISI+MtGz27P9Z252bvdnT35wdSTvdnZm8/tvJhU6u+XtLLHdr/tJa0O13vV/lqPl+xqt8osd3khopQfV8XcmLo+GrWgzB/hDPdBRAHEmJirgxF1lh3SOsZn3DOjoyIh0yq30deAwl9AGIJOMoMqv9XvtcVfGwjtJfqjuq7eykvxUAThmm+HoIu9YQ/EtkEgPPdeWVNftW31Xdv1QJEw+FL+aoLQqQ1U2Bmog3BtA5ULExoI1yFBaW0Y0BEnNz6bIHQOBIc3CFQ9nUoOxLeEOoLkfLDFBN2fT9dBSCQQ54UJkqups6OjaUzYw+WMDrpdcQeFgZgh6vFqNllQHAxBGOLn4nwd9Hm3GRaDooOIcgW93CzEBaH4448VkxTotbQYF+TvQXhDSYCIkqAIm6K/5E2QCyZxEOIKIsoZhNgwtrpWIQi7dEgMir/C2gnCG4oFIsrWua2uVdoOahXbM3KnDonyQXLYgr4c9+UhDtc8CwU9AxD2oAj7kA6SKBlsdKiXGAnC/y7zGS77yCCsMhOEpY86QHDQQofyDCRBaIf7aIujCto/Xc+5g8zVhnoJ4mlSDhdBbAtQ5XhSA2EPirwP2YZNgnDdDMQ3hLaJgGzDJkG4Z5vQCNoBxOFyBKHokzEo5vxhTBDO0hLERACFLY1IRs6fXwQ1K43IxvwXt/IDChFrCSxcJxoAAAAASUVORK5CYII=",
     "wiki_name": "Priest gown (top)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Priest_gown_(top)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 14639,
     "name": "Rune dagger",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-08-13",
     "duplicate": true,
     "examine": "A powerful dagger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABU0lEQVR4Xu3VQSsFURQH8DlN0zSTLK1fWdqws6AsKKx9gKdYSS8rVpJEkoisRBJRZKeIslC+g7KQL/LXvaf77n0zs3XOXfjXbWreYn6dc965SfLnIVTfKMVACEMTs/ZZ/VUwDBmda1uMAw23WhoohoQYRVAzZmBkXBcUYhRBzZjoQCFGEBQVxqQZFBVGaW5M6qD/VvnUQcKY8IKsY4TnhnCwX9gPulMFiVdnbTW3qLNThiliTAjz7Qwb6zmODhl1d1tqYUwIU5MpFhcybG0y6uK8wMN9iafHMmilaAgz0ymWlzLsbOc4Ofaol+cSH+990ijC2GBqz0on76KuLhn19ckgodZ5jDluyPd2GeVaJjhLHuSr4FeAg4hjekFJIgxxqVdHGBAmKowJ4ea6wM93f0+rlEL2L/32yotPuTpkrwlzRbhNrIhxoe6OUa5OmKgwHGnML7Glgzr3J2Z4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPklEQVR4XmNgoDlg/I8uMkAA5BDG/9oOXmAaXZaOAOIQi5AEsGMG2EEQhyA7ZgAdhN0xYoa2A+sgZMcMoIOwO2bQOWjUMRCA3UGDyjGDKnQGlWMGMKpAANNBdHYMsmWYjqFzVDH+7+/lhFqIWXkOSOhUlLODHTV3NsRhA+gYEGD8n5jA+r+hjv3/pAkQR61ewTVQjgEBxv+uLsz/U1NY/7c0QRy1YB7n/3VruP7v2MqFFJV0BYz/PT2Y/+dms/5vb2P/P3UywlG7d3L9P3aYh96OYvxvo8wMxoX57HBHLVkEcdSdm3R1EMIxIAxL5N2dEEcNQJQhHISwGFEEoKqlOcAMHXQVdAbYQmfAwKByDAgw/l++lPP/owd8g8FBjOAsvX8PrOAbUMAIriZAVQSiJB5wwIhUxgwaMKgcMzAAAOOxPPvjMzWFAAAAAElFTkSuQmCC",
     "wiki_name": "Rune dagger (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_dagger#Unpoisoned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6207,
     "name": "Barbed arrow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-25",
     "duplicate": true,
     "examine": "Arrows with barbed heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPUlEQVR4Xu2SwWrCQBCGs4QgFjEUxZ5EPfTixd4UBPVic1AQ2ifoA/QNfAMfpAdB8NDnmzo7+dlkU2gvzuaQH4bALmE/vn+iqEmwGPJPAoVBDK0WC/v1b5WChw2973Z2NpPYAr2Mx9pQhvbbbcGGKcEoA4mR2VNMhyzLoQxN+1EoOxyBwMCOG9UYa8fZcHa4xs1yqQ0lFgADO6jxdb0u3N89VTvPPbFTHMXF/t0OT3Gp1WD+sqMIw/mfHf+vO6VqZ5TW1A5qU4WBHUwt7PBcBw90vk0gO/Io7HznMG/tJIQdZ4PrYYgLw0wT+uwIEGpThZkPYzqmLepGbmdOjy19O7aam42vfps+ciPucVU7iBhgIB8GS61kxwUAPgzX6BY7QADDS40qsVOqhsoRIFQYpLJqyiCBYSS1AWnSxMsP0bIkd/ZYjQ0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABGklEQVR4Xu2SMQrCQBBFM4QgihhE0UrEwiaNpYKgNmqhIOgJPIA38AYexEIQLDzf6OxmmCVa2LizRT4MgWwxj/cnisqoBbD4RykEAjibTMy3+OopvBjwsNmYWQxiLSDA7XLpLAddGLIx6sa4W69zCMCsHWkBUSwEj9jh8Rowdty62A7VuJhOfUO5FsQO17iaz30CfdoZtvh2VCr7bodG4ah/seM1gdvpp4Hakdq8xbVjJxA7gI9ODW/vUbJjl7KdZw6zryYadsQG1UMQd4LJEjzVLZDU9vcIzLgX4zmtYCOSm7k0K/7tmGreNq7tKh5zI+67Rzsca4CAijBy1Cr5hKEa5bDVAuaouUq5KbVYIKlQFYYTDEiZMuHnBWer3Lq8gAXoAAAAAElFTkSuQmCC",
     "wiki_name": "Barbed arrow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barbed_arrow",
     "equipment": null,

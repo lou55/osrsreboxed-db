@@ -1,7 +1,7 @@
 {
     "id": 7149,
     "name": "Canister",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-07",
     "duplicate": false,
     "examine": "A canister holding shrapnel.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABh0lEQVR4Xu3Xz0sCURAH8F06SMtiSJKktOlKhhn+CDPDiKAudrJbf0/9A4FQJ6GDgSejDnkIpFPeFg+RFy92WLP+iG/Mi10XsY7vPcqBOS77YWbem11FmcX/CRXjFBZjxG4+j0wqhbVYzAPjilNxWqngpFzG8dEh9otFbGcz2EwmGWolHMaC388TpWKvUMBOLscgG4kETMPAciiExUCAYXRNY6BsNMoD9Q2iVm2l01iPx1lVloJBFzPv8/EFUZuoQs7sUHW8GO4g09RhGBpLahe1Stfn3OQOogpRy2iGqF3e2RFSIS/ImSFWJVlAzgkTBjooleQCfQyHeO128dR6kAP0btt4sSwXNHkHCQU1ajVcnJ+JBX2ORixbzSbqV5dygGhtPN7fyQGitUEo2vCrkYj4i9FpmVQg+20Aq9PB7U1dfMsINOj38dxuu6fMixEC6vd67NhfV6tygOimpmMvBYi+gWiYp215ISDaXbQufsJwBlF4f3emJ2E4ghTFeeFvOfnMLP50fAFMRL/6j1pWUgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcUlEQVR4Xu3WP0tCURgGcC8NklwMSZKUbnglwwzNMDOMCGqxybY+T32BQKhJaDBoMmrIIZCm3MQhcnGxQbM+xBPPgXu9RNF2zoF84Z3vj/fPea/PN43/EwYmqSwmiJ18Htl0GivxuAcmFWfgpFLBcbmMo8MD7BWL2NrIYj2VEqilaBRzwaBMlIHdQgHbuZyArCWTsC0Li5EI5kMhgTEDAfkgtmozk8FqIiGqshAOu5hZv18uiG1ihZzZYXW8GOkg2zZhWQGRbBdbZZozbkoHsUJsGWeI7fLOjpIKeUHODIkq6QJyNkwZaL9U0gv0MRrhtdvFU/NBD9D7cIiXTscFfX+DlIJuajWcn52qBX2OxyKbjQbqlxd6gHg2Hu/v9ADxbBDFC78ci6l/GJ2WaQUavg3Qabdxe11X3zKCBv0+nlstd8u8GCWgfq8n1v6qWtUDxJeaa68FiP9AHOafrrwSEG8Xz8VvGMkgBj/2V05jGmrjC6tikhpkkT+/AAAAAElFTkSuQmCC",
     "wiki_name": "Canister",
     "wiki_url": "https://oldschool.runescape.wiki/w/Canister",
     "equipment": null,

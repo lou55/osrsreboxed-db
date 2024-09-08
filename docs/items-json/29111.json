@@ -1,7 +1,7 @@
 {
     "id": 29111,
     "name": "Raw pyre fox",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "I should probably cook this first.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQklEQVR4Xs3W70tTURgH8O1/6F1vfC9kLyJ8ERJogRWzoTZR06bpUNfCMoeNaurQzJiZ6chwaAwb4g+EqCiK+sue+p7Lc33uszPb3C088LC7e8/lfHae55yzQOD0tyDZw/b8n7cgLabaaWEqbGIueZMyE20mGFFYjtJWtp/yL/ssKP0jaoY7IEYBxKExGy96KTfX7RkY3/FMhxdVFTJI2ScdJSh8AsLBoNVMFy2nb5m++LSB0F+iv++k6Ov2w5OhGIRrnh0GrT/vMSDuWw6E974Vp+jn/jT92p81IIxxvq7OhB5dNWfa+VczCIPaQCszEReEaxtoe2XAA8I1g/ToqgU9acBAXNz4rkEyDceBdtaG/APxLOGeBKHvg6stNNR0ibouXnBhmDUN2ns77IIQVYG4LjQIv5xB6JcJt9Gz0HW6f6WZFjvb6V7zZbrRcM6FSdDBu5gX9GGydhDuA4Q+2UgHzbX/WXkdYcqcPVMS4dZWD+pwY8RfEAKpNCnt7zUzUg6zsbREmWSSxqJ3TH/M6KetuAv6sfvUxVQNkiguYgZpCKKQW6PsdJrGY8PU1Njogj6/T1hBevQyzakBrBgbKB/tMynTGMTq/Dw9TiToWkuzmzKAvhTGTwpy9iDMUDlQ4W6UVrojJRikambyEXWGQi4GgbqTILkp6tFVc5a8DYRg0PbQAOVud5ekaj6VopF+ZwUyBrPjK4hRCAYVY4O03tdjinp3c9PEq9kZUzcS4ztIzhI+GbQ3OmwKmzG5hQVKxuPmGd7RoOKbQReEXZoxFYGwwmwgPg7Q52AsZgqbMekJ59RGWjUIs4NjQ85QhbODdgTSdcTHAfocxkfMsmcM140GcbpwbPgGYhTuYwCc2uiHos6/XvYUspxJCcIuLUGM0qNbmgOypU2DsPRxdKCYeUe2gdD/Y37UBWEPqmIf8oJk2jQIdYS9CGlrqK+3gjA7NYOwyv4G4lqSgfqRtcbp8g2k04b7EoTB+dBlDIO4L0BY8hKEPajqfciWNgnC9XEgWT++gGxpkyA8k39LJAj9ZP3UCELz1ka5kBgZGoRNUYI4qgAFArytHxcaKEPWjy+gSptGVoLlOOr7n5pG2kK/c6rbb+Ntoj0rdCtrAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xu3W70tTURgHcPc/9K4/Qcg3Eb4ICbTACm2oKWpb09xQl2GZw0Y2dWwtY7ZMR8aGxlgi/kCIiqKov+yp77k8l+eee7Z2t1v0ogMPu7t75v3sPM85x7a2f38EyBymz//4CNB6coByS0EVmcQNSi/0q2BEpRChvXyYys9DBpT+I1qGWyBGAcShY0rPxqmYGXU8GO/xmR5OlCdkgPKPB10ovALCwaCt9AgVUjdVLl5NIORL9NeDJH2uPmgOxSBc8+wwaOfpmAJxbi0Qvvdlf4m+H6/Qj+M1BfKEwR/lX80gPNQE2lwdtkG4NoGqmxMOEK4bBAUcZcCDuLnxXgfJMtQDHWxP+QfiWcI9CULu/Ss9NNV1kUYunLdhmDUddPQ6aoMQnkDcFzoIv5xByEsH++lJ3zW6d7mb1ocG6G73Jbrecc6GSdDJm5gT9G6xdRDuA4Sc/PAgZQZ+rbzBIKXPnnFFsLfXgTotTfsLQqCUqqThcTUjtTCljQ1KJxI0G7mt8jGjH/biNujb4XKjGAwnSKK4iRmkQxCV4jblV1I0H4tSV2enDfr4dq5ZEIbVA1gxJlA5ElIl0zGIrWyWHs3N0dWebrtkAH2qzDcLsvYgzFAtUOVOhDZHh10YlGp18SEN9fXZGAT6ToI8bIrWkjeBEAyqTk1Q8daoq1TZZJKmw9YKZAxmx1cQoxAM2o9N0k5oTDX14e6uihdrq6pvJMZ3kJwlvDLoaCaqGpsxxVyOEvG4+gzf0UH7ryZtEHbpBjEY1gozgfg4QM7JbEw1NmNSC9apjbLqIMwOjg05Q02B9D7i4wA5p/FptewZw32jg7hcODZ8AzEK9/EAnNrIQ1OXXxYcjSxnUoKwS0uQB5QFMpVNB2Hp4+hAM/OObAIh/315xgZhD/KwDzlBsmw6CH2EvQhl62hvN4IwOy2DsMp+B+JekoH+kb3G5fINpJcN9yUID+dDlzEM4lyAsOQlCHuQ533IVDYJwnU9kOwfX0CmskkQPpP/lkgQ8mT/tAjCcPZGrZAYGToIm6IEcXgANTrcSA7ZP38RVG+4ke74P1obPwGZaVex/jOJSgAAAABJRU5ErkJggg==",
     "wiki_name": "Raw pyre fox",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_pyre_fox",
     "equipment": null,

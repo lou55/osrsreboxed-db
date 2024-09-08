@@ -1,7 +1,7 @@
 {
     "id": 21190,
     "name": "Rock golem",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-09",
     "duplicate": false,
     "examine": "Found somewhere between a rock and a hard place.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADgklEQVR4Xu2W7U+NYRzHu194453ZvGCzaCdrNk5NYjG1HlBWNlbEaUXTQg/EmMJq5CFMZQwlLaNkySLpQbSexCknKQ9nHpOx2ZF/4Ot8f6f7OI55xVVe+G3Xzn3d9znn+tzf7+/3uy4Pj/+hPDQ4xj8RGrL29mDV6pp/AUpDQ+MH5B74jPWmNgEyenqOF5SGnNzHmDQ5DQWFA9i5y4zEjR3jqZImqpw+cwe795iRsa0bySmd46mSA6j80n2UlragsKgOeYeujyo0pkmuL6QhPqFdFEpNeyAw2dkVCAk9gTVxTZjlEzMWUBoiIkvcVNAwbXqVfK6IKhfrDhy02AH7VNunob6+F1cq2mTRJUF5TrvOn2+EybRPQMovWe2qDUqix8TeVqWShtbWAWxJHRaIzB2PxJqmpj6BPHHyqShiNAaj6tprgbpYZhVLg0PyVUBp9rL+iLj171FWdk9KPHzZadyuH0JF5SsUlzwXRZjkLfeG0dQ8LP2JbWFhYJYK6zRkZH7DsgibLEJroqIvo/uhFT09rwSKNrEPLV1+FrduvXcq5eu3WQ3QhqSvAnLk6BPErm2A2WxFV9cLWCxv0NY+KNax9NPTzwjM2XPPxEa/ealqgCqvdsgChAoNK8Ddlifo7HwmCjG/8o/3S7Kz5AnE7zLX/P0z1AAxf2jXvv29sgATmspQKVPCEIJC38B/gUWexSd+RWycDQafYUyfcVcN0KoYG2Ya+hEZ/Xa0ajQsjyjGHONNzPTKw5Qpc533qRarjPbqMH8dKDV9RN56hsGhQtKmTrGIRw/uZaw8jvkB26UNuAO5/+MfhuOtWc7MEc4vlL6Ue8wpDpY9gcPCi1B0alCA+FwZUElJs/Qd/YjBKmI+rTPZRAmDzydUV3dh0eIcaQEseaVALHH2F9rEORfUQWiZ1ywramq6paqY8HxO65QBzfaaitrad84q46AS7Dv6PCDwOby8j9m7tEUUNPomqwViz2Hi6gApW0ekY/OaWwq7OZOdQFTH4L1SHRBt4BbBsw/n3L/Yl3Sgujoz/OZ/sfedRunaTPQJEyaqA2K+MC+oAOe8pn26LYRgLunq6UNBD9LDoQp39KDgw1LW3NP0hWmTfnjTIRTC6PHjzQnEM5ErkH4gUwzxczgWcwDxAOYKxKPHHOON0XtjGo6thADcz1yVc7XM/VeK41eAMcqb34cqgO8hBlURWXCb3wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXklEQVR4Xu2W20tUURjFPQ++9BaBDwVCyRgS2CiphUVKal6iAkPLHNGSoouXsijSCsXsLqmhmJqJUZphhmmWpiaWZo02aV5qsJsZBaH2D6xmfdNR6aWn7fjQhs3MnjOwf2et9X17Ozn9H8qHBvucF0ND+sleRG6rmw9QGh43f0VW9g/EmjodDaQhM+s1Fi5KRl7+II4eMyNh93NHQmmiSmHRIxw/YUbqoR7s3dfleKDKm09RXt6G/IJG5Jy99wdoTkOub6QhLv6ZKJSU/EJgMjKqsCEoF9tjWrDcI2ouoDSER5T9pYKGJa418rlpc6VYl33GYgN8oxpIQ1NTH25Xdcqm6wNypu0qKWmGyXRKQCpvWm2qDUnQo6IfqoLS0NExiANJ4wKRduSVWNPS8kYgc6+8FUWMxkDU3P0gUDcqrGJp4IaLKqA0W1l/Q0zsF1RUtEuJh4QW4mHTGKqqR1FaNiKKMORt7eNoeTIu/YltYY1/uhqg1LRfCA2fkE1ozeYtt9Dz0ore3lGBok3sQxvDitHQ8GVaKS/v/WqAdiVOCsj5C/2I3vEYZrMV3d3vYLF8ROezIbGOpZ+SUiQwxdeGxUbvVUlqgKrvPJcNCBUUnIfWtn50dQ2LQszXxcsDEnaWPIH4X2bNxydVDRDzQ7tOne6TDRhoKkOlTPFjCAj6CJ/VFnkWlzCJ6JgJGDzG4bq0VQ1QZNQElhkGELHl058NNISFl8LT+ADL3HLg4rJy+neqxSqjvQpgODQkpUzJWy812FVI3NMlFvHqwbOMlcfp63dY2oByIL41y5kZ4fp6+Xv5jZniZNkTODikAAVXhwSIz5UBlZU9kb6jXzFYRczTTtOEKGHw+I7a2m6sXZcpLYAlrxSIJc7+Qpu45oY6CC1zW25FXV2PVBUDz+e0ThnQCrfFqK//PF1lnFSCfUdf+/mPwM39kq1LW0RBo9detUDsOQyuDrDv4JR0bH7nkcJuzrATiOoY3LeqA6INPCJ49+Ga5xf7kg7U2GiGt+9PW99plq7NoDs7L1AHxLwwF1SAa36nfbothGCWdPVmprJhV4UnekDgOSlrnmn6xrRp5vI2Z2PmzQnEO9FsIIUXsn8NOxAvYLOBePXwNN53BJT9KCEAz7PZyjkARh8OB5i78RtP8SLkL/svrwAAAABJRU5ErkJggg==",
     "wiki_name": "Rock golem (Blurite)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_golem#Blurite",
     "equipment": null,

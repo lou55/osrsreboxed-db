@@ -1,7 +1,7 @@
 {
     "id": 13887,
     "name": "Iron bar",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "It's a bar of iron.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAz0lEQVR4Xu3VMRKCMBCFYXIHxoZCjiCVrY4WDve/T5zAYPSFNZslSyjyz7yGIvkmDU1Tq9UOm7HhimXsdRiCFcKtY3A7oXiY1/02TfnF0jDfc98z4+QYhHmcuLyY8fmYQJe+l6BmzLnrAoAUswHkMbgtGCGIxuAQEMMIQHzMP1AMwwSlYShQVgwOATgljMvYU9t+hjAKp4Rx/YK4OCWMiwbFcAoYFw9E4TJjlvwPEC+PTQEz5w9Kw6lgsBScOgaL4XbFYGu4YhhsgRwCUyvRGyYzekgGnbdXAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAwElEQVR4Xu3VMQ7CMAyF4eYOFUsHztCJFQQD4v73CTIIAi81SZ24ZvAvvaUZ8ilLh8HzvL8txHxmhXiY52xGuGUMbiNUHeZ6Oj6m/GLrMJ+j751xcgzCEk5cX8ztcm4BPTH7acoAUkwDKGFwLRghiMfgEFDCCED1mF8gEwwH6orBIQCnhKFC3I3jewjjcEoY6htUi1PCUDyohFPAUHUgDtcZ8yr9APHy0hQw2DqcMgYr4zbEYMs4IwyWcHjieVbdAXqLQl8yTO2rAAAAAElFTkSuQmCC",
     "wiki_name": "Iron bar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_bar",
     "equipment": null,

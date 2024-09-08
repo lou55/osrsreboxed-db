@@ -1,7 +1,7 @@
 {
     "id": 6713,
     "name": "Wrench",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-31",
     "duplicate": false,
     "examine": "A heavy metal wrench.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYElEQVR4Xu2X3UpCURCF3S8i0oVghj9hZphpmJkZppmZmRERvf8bTHxz2h7PqasuzmyiBQv/9sXHzJzZy1zuX7+Sk6RN5eRxOpXb4VDOWi05KJUsoaKKzMdjuTrvyWmzKYeVin5XKxSyhnIKwOv7eq1QvXZbThoNO6CbwUAr8rpcassuu13pdzpWQMgpwPP9XGajkUIBaQq0mEwU6OlupsPN57183nawmaG31Upb9/Kw2M6WUZVQcg/RPg+VPpmZqIa3h/JPXPqskQKF4skLDoqlGRwU6yA4KBwcFMvTXy/pX40UQV1f9L+gggCLoY7r9RCgnHxsNluoeK5+cmb6DrVfLKpJnbhaLttBkaWOalU1bcS850zGl7TTlECOIpOTOjEwRqkhqhLbnNZhD2WYPp0GPKD83Ueu8qvBBIi2AcUs+X8uHsYACEVVokK0i+hiVJ1dJXeQYXVi7SZPc5g/oU/eQSAOVdfplgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSUlEQVR4Xu2XQU4CQRBF6YuwcEGCGBCDiEEEg4iAQRARETHGGO9/gzKvmmEEWbHo6gU/+ZmZZBYvVTXVfzKZg/aSk02bysnraCSP3a5c12pyks9bQvmKTAYDub9pyVW1KmfFohWQUwCu34uFQrXqdbmsVOyAHjodrcjnbKYtu2s2pd1oWAEhpwDvzxMZ93oKBaQp0HQ4VKC3p7EON89H2awtFDP0NZ9r6z5epuvZ2n4zoDb3EO2LAOqvPJThF7dLkULx5UUHxdKMDop1EB0Ujg6K5Wl8vGzLQ/Vv2yuoKMBSqItyOQYoJz/L5RoqnatdDqb/UMe5nJrUiUuFgh0UWer8tKSmjZj7wEDIaUogR5HJSZ0YGKMD2leJbU7rcAJluB6cBjygkrOPXJWuhuDybQOKWUr/XExgEvkqUSHaRXQxBkJmO+igcPoFSscB89TBfnIAAAAASUVORK5CYII=",
     "wiki_name": "Wrench",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wrench",
     "equipment": null,

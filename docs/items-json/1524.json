@@ -1,7 +1,7 @@
 {
     "id": 1524,
     "name": "Lockpick",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-05-08",
     "duplicate": true,
     "examine": "For picking tough locks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xs3W7UsUURTH8d1/RDTJMMOHMDOMtDfRu4qioqKoKCgiiKIQKXoQ6QlB7IECBUNMpIQgKoqi/rIb31l+45mzd9wddwovHGb2zp09nzn3zt2tVDZ/q4Z4xK7/81YNzyaOhifjR5KYunM4TN46lIQQizPnw8L0uTD//GwE5R+iZXgNJBQghcfMPT0TXk+dyiTmM9d8ZFGFkNUwffdYHYojEIVALydPhpn7x5OxHGMgxlv0z5WJ8H3p5sZQAnGu6gj09vHpBKSxeSDu+7E8Hn6vPgh/Vh8lIHL0t7cn4bO7Viu7nlogksZAsw9PpCDOY6Cl2QsZEOcC+eyuVTPTQCItbj57EMlBaHrzQCuvLpUHUpXoi4EYZ9dHXghEFAJpXXgQyT2Icdyzq78v9PX0hB3d3WF7V1fY1tmZxNaOjrClrS0JxqWg97dbB9EPSCgqyfjdAwNhZ29vXUUACllXoVZBBAALYpyqw1FriH6qZ3FfFq6loF8f7qWYwiCL0usrkK8O4yxIwdiv765HQT57Tqs9FV+eB+L63qGhTHUEopIe9G3xxkZBtT2ICjUCUR1hBOI+D2K8BdlN0Wd3rfbKx0CEvpxxewYHM9XJA1GdUkFCESRgx7XVsYteID9dpYFslTiSQNXhaHdoVTEGWn5xMQWxSwvTFIg3JAbSX4yxkZG0OvQ3AlEdfjZshZqsDm0N5NeR9hxVh8+NQJquj28ulwcSimv7hoeTI0m47tePKulBn+auZEBC+eyRVgP5aaP/4P6xtDpFQLwEn+evpiD2oAL7UBYkFP1sghxJQCL6/XR5EPCWQbxlFkTfgdHR5KgnJlnsDdNas9NVGshOm/otyC9o7VXcp7GAeOUtiD2o8D4UmzYL4nw9kF0/pYD8tHkQ12ILmtDPhqarRRAt+ycrL/z6UXgQm6IFKQqAKhVt6+uFB9qw66cUULPNI5vBKtbG/qfmkbHw92zq9hdWbpO8JVnwLAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xu3W7UsUURTHcfcfEUwyzNAMM8NIexO9qygqKoqKgiKCKAqRwkqkJwSxBwoUDDGREoKoKIr6y258Z/gNZ87cdXd2p+hFFw539s6dvZ8592G3o+PfL7UQj9j9P15q4cnkkfBo4nASM7cPhembB5MQYnnuXFiaPRsWn56JoPxLtA1PQUIBUnjMwuPT4eXMydzAfOaejzyqFLIWZu8cLaCogSgEej59IsxNHUv6UsdA9Lfo72uT4evKjdZQAnGt7Aj0+uGpBKS+9UA89211Ivxcvxd+rT9IQKUwfKneWiAGjYHm7x/PQFzHQCvz53MgrpsE1XLTwEBa3Hz2IAYHoemtB1p7cbE6kLJEWwxEP7s+6oVARCmQ1oUHMbgH0Y9ndm4fCAN9fWFbb2/Y2tMTtnR3J7G5qyts6uxMgn4Z6O2t9kG0AxKKTNJ/1+Bg2NHfX8gIQCELGWoXRACwIPopO9RaQ7STPYv7tHQ1A/14d7dZDCUPsihtX4F8duhnQQr6fn5zrVUQJX0rvrweiPt7hodz2RGITHrQl+XrrYLSM4gMNQKRHWEE4jkPor8FlTgU0y0fAxH6cvrtHhrKZaceiOxUChKKYABOXJsdu+gF8tNVGchmiZoBlB1qe0IrizHQ6rMLGYhTukkMJd1hMZD+YoyPjmbZob0RiOzws2Ez1BLIryOdOcoOnxuBNF3vX12qDiQU9/aOjCQ1g3Dfrx9l0oM+LFzOgUqgUpCfNtoP7BvPslMGxCb4uHglA3EGlTiH8iChaOcQpGYABqLdT5cHAW8bxC6zINr2j40ltd6YwWI7TGvNTldlIDttarcgv6B1VvGc+gJiy1sQZ1Dpcyg2bRbE9UYgu34qAflp8yDuxRY0oZ8NTVebIAodG4dfPwoP4lC0IEUJULOliFTY9fMXQRuVIrIY/0t75TcMakkwdKwx4QAAAABJRU5ErkJggg==",
     "wiki_name": "Lockpick",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lockpick",
     "equipment": null,

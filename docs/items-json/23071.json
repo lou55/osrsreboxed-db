@@ -1,7 +1,7 @@
 {
     "id": 23071,
     "name": "Ancient casket",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-02-07",
     "duplicate": false,
     "examine": "An ancient casket. This must be what Veos is looking for.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVUlEQVR4Xu2X7U/aUBTG7Sezj0uMZhLshKApNYUSXiOIRCaiRGAqYzLj2xwhZm7LsixZlv3rZzynu9fLpZpC4vjiSZ5cKG3P7z7n3N4yN/ccz4EwaFwzC4MiC6sUW4yRtWRRIpSg4kZxFlCeEysvVxgil7KkCvEC/5Z8/fqpoe5LUsjEWQKispmUAmDZ2Xoql8YhBIgKoStjZqiaqk4DpTfjqFSIICCqS/nVPNWz9UmgDLLC62SbNrlRl3JWlhtSh4CqpZSUnvwhqUAB+slbHVgZYsSs0JB+EEGBZGMPrwdQI38QHAhLFRe5dlQKLqEhdYjHpLtZzG2w0EfNQjM4EGDSa2lyrIgUnELZauX0iB6CEMmFygVnRO1iO2gfGZQKuywdCscqycoYlA6gJ4dwLSa6FRu6bFWpFq+xUwFcMrhnhFQolLIY3eSZ6Q74SYXYt+sMAZjK2jYfgwIAITwoe9mWciIO2WsmzwpAen8ICQg/ADHeXrboqrsnYQIBRcxXsnToHwiPAYACSN0ScI4fAD6L7z9vu/T7S4/Hu+s29T8EXmUID8iKhcmJR3jGcEaAIYEfAEbRHxjr21k+73v/hEH+fDujlOtMB2SGlyRQc6/ACdE/gFN7QIWA1JL1dk55NQHgx6DDQJlMYhoghDEChNIcH5akIwICiVEKJPx6c8TfB4cDejE//yAQzpsKCC7pQGjcTqvMNxVlyOVc/iyA+gef6KJ2LoFEyQCOcy+6Neod70wOBIcgPyCsFDFr0awCCCAA6la6DNQ/P6DB5SHdXrfo49k+66zzZhKg4fYRipHrRGlxcYFqlfQYkFoGAQQnAASQTrlDx6WjMaCr3p7UREDYt5AcQJVSkuEAhBLqQL8+v5c9hONIBggAqDAQbz/pXd7LsEiQS8/uE96DETs8tgo8+gFSr2bJNENjQEiIxCgFlrUKhN8gvJTBvVaiSSepEzrNnkqHArvE78T/dnl73eTShZYXqLGb5x4AgJi5SI5VpLqiQnhu3GsCGBEGbxviH0O1nOIHpg4kkt/dtNmJhtOgI/ftGIQAUKVnDBDezQCGEmLV6UB42RIQ3fS7RyH0u08V3o0Mbz8bgsEFrKD/CuEfXkJsDaIpZwAxGsKtmUL4xVND/AWfBQj2ELr0uwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xu2X7U/aUBTG7Sezj0uMZhJshKApNcU2vEYQG5mAEoGpjMmMb3OEmLkty7JkWfavn/Gc5tbLpS6FTNwHT/LkltJyfve89JS5uWd7NphG43oy0yi2sEqJxQQZSwalIikqbhSfAsqLxMrLFYbIOYavQrIwK6D7lBQySZaAcLc2fQGwbG0/FtQ4hACRIVRl9AxVnMo0UGoxjkqGCAMiRym/mqd6tj4JlEZGdJ1M3SQ7blPOyHJBqhBQpeT4Up0/pAmBvO5AZ4gVu0JBBkGEBfILe3g/gBr5g/BAaFXcZJtxX4gSClKF+JvUaBZzGyzUUbPQDA8EmPRamiwj5guRQtqq5fSIHoIQzoXKBWtE7WI7bNo0cqI2S4XCOXfTHYNSAVTnEO7FRrcTwygbFaomqxypUECoGSEZCqksxrd4Z2oEgiRD7Jt1hgCMu7bD56AQQDAPylw2fVkxi8w1nXcFILU+hAREEIBYby9bdNWthYWBDTtNf+WnDvUD4TEAUADJIwHXBAHgWHz+cdulX597vN5dt6n/PnSXwTwgIxElKxnjHSMyAgwOggCwivrAWt/J8nXf+icM8vvrGTm2NR2QHl3ygZq1AjtE/QBOrgEZApJT1ts95W4CwPdBh4EymdQ0QDBtBAipOT4s+REREHCMVMDhl5sj/jw4HNCL+fkHgXDdVECIkgqEwu20yvyjIg25nM3HAqh/8JEuquc+kEgZwHHtRbdKvePdyYEQISgICJ0idi2KVQABBEBdt8tA/fMDGlwe0u11iz6c7bPOOq8nARqOj0iCbCtOi4sLVHXTY0ByGgQQIgEggHTKHTouHY0BXfVqviYCwtyCcwC5pU2GAxBSqAL9/PTOryGchzNAAECGgXj8pPd4lqFJQkJ5D0ZMeIwKPPoBUq9kSdcjY0BwCMdIBdpaBsJ3EF7KEL1WqkknzgmdZk/DwgjzoMSUN9d1Tl1keYEae3muAQCInQvn6CI5KjKEByBrYtN4bIh/DJWyww9MFUg4v7tpcyQaVoOO7DcBEP/EvB8DGFKIrlOB8LIlILrpt48BEWSaN8+GYIgCOugJIFTzHGI03BflzCGC7L+AmK39AS0vydMrqVl2AAAAAElFTkSuQmCC",
     "wiki_name": "Ancient casket",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_casket",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1462,
     "name": "Nature talisman",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xs2Xa08TQRiF22w2G/wJECJ8KAliKBgEDCI1yE0McrFiReQiIHInaEq4aE2QJobwAeLvPe77Tqc7M13SoLNbTnLSbNPdPnvmzMxuImFFSQjfCSXh7ddhcXa2BFVzsABIusZgAkg6HCxWuABIhTEdE1SQgLvqVUCUYVKOcHRQAiI7MYFXQ0MY7O9Hpq+PP+n449ssA8jkJExHUxPbvNo/SL2zJA7W1/HhzQxmxsfhTrsM8rS7G4870njY2opUc7PRH8swakH3P69hOZfD++kpBqJEhgcG8Ky3l+HI9xsaNAjrMBLoLJ/Hl4UFBqKEaMhej4xg9HmGh0wCUUoSyLzif8ifPYfBzKHj4vExTvZ2sTY/z99RShJC9aP2dtR5XilVa6oEuvp1hsufBeyurmBlbo7L+25yElNjY3j5YrDcpZ7OzjKQxZR8oMI9DehPsYiLH9+R39rC9qdlTiNs6NSEIgW6Pj/H79NTFL4e4NvGBkOF9Snd1hYfEPWIgI52dhhqc2mx3CeadZSQWmqLQCQf6qSy2BKI1iNKSZacevSkqwsPWlpKhY5kH9PLTSYg6hGtSQRD5aYho1JTfxrr67XfRwPlJ6WmVc1O2mFHNHSkYJGsZifjxgsjd293yRPOBWaYki3OMn1jDAUK+Y1pS+lUHxr1z6rZvPotJcpr7k03AZlnRyD/yS/rCd8Ao0KZZ0cgBShb+UhKM6cmKfHQmW8QKbGu1CAlkv5qI2FUIKcnWGfMsyNSkJQE4mN/wyUY6RhTSiTE3etriwSSx5am9+2krys6SOwwYbozIHHoL9mTqpZjxk6+AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKUlEQVR4XuXX2UrDQBQGYEsIQR9BEfGiglasilqlLhX3Bfeqdatb3VdUKq4V1IKIF4rP+9sz02mmSaQ3mVTwwKEkhPbjzJ9JWlLiSvnA+0+UD8Z5KdYXFrKoosNMkOgiwzhItDPMU5wJkjHW9ghlTkBPGDZEDuPXeKtDcUR0YgLjAwPo6+pCJBxmn3S8Nh9lADE5BRj5y3y42NvDytwsZsfGoM/oDNLZ1obWxiDqa2vhr6625MdljBzQ890dbMZiWJqZZiCayGBPD7rb2xmOuqqiwm2EKI4RoOdkEvvxOAPRhGjJJoeGMNwbYUsmQDQlBaDM3XNt3jl0nL69xd3ZKXZWV9k5mpJAyN3c0IBSw3AbZQd9vjzj4ymF08Q2tpeXWXgXp6YwPTKC0f6+XJZCTU2KQKmyPNB3Oo33xwckj45wvLXJpuG0dOomZAF9vb7i7f4eqcsLXB0cMJRTnoKBgHcgyhGBbk5OGOpwYz2XJ7rraEKKQk2VQd3Zgy1AtB/RlETIKUcdLS2oq6nJglzfg6jyw01NIMoR7UmEoXDTklGoKT+V5eV516tBZSYlT6tQa0GNtQKMKHOTLNRaRPcWI57e+obBO2Y2w2TbRZAcSN42kMM19nalCi+Niz9WqHh4rc+mooL0qMH7F4zHKAkUtb+S0p3jMYiKB9L60k5BlkGeo+S/NgIjg7SQ0n3GqcxJCRA7zjxwCSPaYxRV/t4iQOa5otefgfzT+gGXKWoTC9eDrQAAAABJRU5ErkJggg==",
     "wiki_name": "Nature talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Nature_talisman",
     "equipment": null,

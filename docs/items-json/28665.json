@@ -1,7 +1,7 @@
 {
     "id": 28665,
     "name": "Trap disarmer",
-    "last_updated": "2024-03-02",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-10-25",
     "duplicate": false,
     "examine": "Used to safely disarm fox poacher traps.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnUlEQVR4XtWW20oCURSG3c9QBBWJGSameMIjNo3iKTPKBOmMIiVmokiJVHfhRde98B9rbydnbrtw7X5YDMzN/vjW2geX639GQJUWEajkTSRjkQUUK5jAVbOBbCKBdCyGi3pNFhOUQOfmEr3OPd4nI0xHA3TvrnFaLdtsrSwC4/4DZuMhPt+mcvGXYV8CthpnEor+RT2e1UJZRXYmg56sp25bmmIAcrnUggLzjxm+v+bS1nEh/wuzciBamObHbqtimjx2lrHbEDgpFZHP5RaATHHaEL9AjJbsEXKODlMpXkvOCBxlMvpZotNbK0vUtkgwqAuUalsyqq4RbVpHF28oEFhY0uA1QHMUD4fhdbuR9a0j5V3jhzqPb8PwbziAmFoo0Da8srqm+lpwjJYEXusHGFX9eK7s4za3i3p0S9piglJAk1pALyiqomHI72NhD620G+XQJu88WZcumaKZaiZ35EyxWVo+S5Qlah0VkyV1cluXLhXBEBgVgyWnIYLpl3yyLEMslqyXJe062nGMMCoWEB0F7DDOaAWjohXMX/MDUfAlIS8hPzcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhElEQVR4Xt3WW0sCQRQHcOczFEFFQoaJKd7wim2reMuMMkG6o4iJmShSItVb+NBzX/gf56yL20uPnqk/HPZxfpw5M7Mu19+MglVaRKGcM5GIhhcoUZjCVaOOTDyOVDSKi1qVSwil0L65RK99j7fJCNPRAJ27a5xWSo5urSwK434Xs/EQH69TXvx52Gdgs37GqBWDKPa8KO7OZNDjeuy0uFMCIDsK8/cZvj7n3K3jfE4WQ/Pj7FbZNCVBFOfiCifFAnLZrDTKGaUfiOboMJnUC3WUTusFoi7R7a0VirYtHAjogrK2LRFZ+TPyWxQ/vEG/f4GySyyK5ygWCsHjdiPjXUfSsyaPOo9tw/Bt6ABSaBkero5pfW2cKOqldoBRxYen8j5us7uoRba4W0IoCzSp+vVCURUMg78P+T00U26UgptSIMry0aVO0Uw1Ejs8U0Io51+A1SXaOioxEN3cy0dXMYZgVAKonx0iTL/o5RLA2LEXVnzq6MQJYpyxrgJNMHa0wvyjfAMXgf/MPkEz/QAAAABJRU5ErkJggg==",
     "wiki_name": "Trap disarmer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trap_disarmer",
     "equipment": null,

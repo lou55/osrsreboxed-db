@@ -1,7 +1,7 @@
 {
     "id": 14731,
     "name": "Iron sword",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A razor sharp sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbklEQVR4Xs2W30oCQRSHHQZZNroPFDdNVEzxT5gaagZBEIRQ0HNE1DMUEVF0ExFFRJdRdBH0CkEX0Qv96sywtjtUd86ZHxyW3T0LH9+ZWSaRmHgEzCdMIRCBpVZLXc23liOwUKuh326rovtGNssFJVCvVBTI2nA4hmECEijl81hs1LHS66lyxs7qYOCWHWYYirZDu2q52+UfVWgnCsMKFNpxAuY3O2aXxQhUy2V0mk137NBf2QmY2XRa2aFxOTEqskOL2Sk70bVjdlmMtkNAztiZLxZdgKEIFHK5GJDZYTHaDo2L2Y4+jlLNBQE/zOmJj8eHKWRSKTUu5lEJ7O54uLzQUMx2KAJbm0kcHsShzC7LEehkpIK6vvLx/MQK9X3WmZFYL0hsV5M4PvJwe+Pj9YUFSsP0A4lRSY53WliW15LA/p6H+zsf72/TMYBomV9NMBro/MzH58cPkNllMQKjDam2PMN4/grLWvk/tmG+AGgDEYOVZ6yCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSUlEQVR4Xs3W0UoCQRQGYIdBlgnvA8UVFRVTNMXUUDMQBCGEgp4jop6hiIiim4goQrqMpIugVwi6iF7orzPDurH3ec4Ph4Xdi/34Z2bZWOzfoxC9wxSCKGy2WvYafbrkKDRrNfTbbTvMIIV6pWIh4+GQH1PK57GxXsd2r2eHHRS0MxoM+DF/22HGUFw7dKq2ul1uUNiOAAwlbEcERlw71XIZnUZDBobaoa+yCEwmlbLt0HKJAFE7tJlFYIJ2RO0dAonAUDtrxaIEDEWhkM1KAbl2aLmYMfRyNznf58dcXhi8PK8gnUza5WIHHR54uL1xKGYMRWFvN47TE2GoTlpb1P2dweucFfX7r7OqMSlo7FfjOD/z8Phg8P7GgnKYvq8xLenFSQtnqVE4PvLwNDP4/EhwAKJxoOsrg+8vIaDpjrZHXgAmCMtekZUfg0HMpJ/xcRgAAAAASUVORK5CYII=",
     "wiki_name": "Iron sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_sword",
     "equipment": null,

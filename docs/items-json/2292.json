@@ -1,7 +1,7 @@
 {
     "id": 2292,
     "name": "1/2 plain pizza",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "Half of this plain pizza has been eaten.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADP0lEQVR4Xs3W30tUQRQH8N2n6KXHeirtwV6SDKksWjTJClRqF3Ndf2Tb5mpKbmk/FjNLXVv6hSD2gwoFRUykjCAqiqL+shPfuZzruWdnbde9hQOHvXdm5Hw8M3fuDQS2fguSPWzj/7wF6cloCz0aiZjIpsM0dfOcCUYszVyihemLNP+024LS/0TJcAfEKIA4NGbucRe9zHZ4EuMeYzq8qKKQQZoeO5+Dwi8gHAx6PhWjmfGomYtfGwjzJfrH6ih9W76xORSDcM3VYdDrh50GxHPzgfB331dG6NfaBP1eyxgQchwsLzehs6vmlJ3/awYhqQ00O9nmgnBtAy3PJjwgXDNIZ1ct6FkGJOLNjXsNQnIggJFLIgPzVl8k/QNxldBnA3Hiir076XBVGdUf20fh01XUET5CV7pqzdj7V70uCFEUiPeFBiG5BDGkunI31dZUUHPDAYqdPUSJtuOUbA8ZzNCObWbOhzd9XtDb26WD0A8QQ4BorN9vEPHWox7IQHedwZTt2WXmfpzr9xeEwFJiHIjWpmqzJBdaakxiDkAG4yfMdShUaeajmp8Xrrqgn+/uuZiiQRKFMVSDIVwVJF9a3G6CYdFonZnPZ9CXxZQVpLPnac6S4OlhEO51NSRERmow4mIY9HVpaLMg5wxChTQI+4MrshEoEgl5QNh3EiQPRZ1dNeeRzwe6ljhp9gjvk+FkgxWmq+MriFEYS/efMQjAbvWd8mDwm07HPBjfQbJKGLt/vYnGUo0GpvfSnZF26ulptIJWnl12QTilGVMQCE9YPhDu8U00OdycA7o72unOkSBUB68NWaECq4O2DtL7CP2cEIckYPxJMjHufOtgr0kQLxdeG76BGIV+fl2gj8+mTCbu7h3A5ZueQTilJYhROrulOSDbsjEInxGMQn/2gXMPoA2E+Z/mB1wQzqAiziEvSC6bBMlKMcYGQnVKBuEp+xsIydCH+Vg2CcI8uVy+gfSyoV+CkJxfuoxhEM8FCI+8BOEMKvocsi2bBOF6I5DcP76AbMsmQRiTnyUShHly/5QIQsv9JraFxMjQIByKEsRRBCgQ4GN9o9BAGXL/+AIqtGlkIViO9bn/qWmkLfTfbOn2B08pgAdxxVPLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xu3W30tUQRQHcPcpeumxnkp6sJckQSqLFk2yglVqF3Ndf2SbufmD3NJ+LNtmqWtLvxDEflChoCwmUkYQFUVRf9mJ71zO5czs7Lp39xY9NHDYe2dOzcczc+fempp/vwXIHrbxP94C9DjTSQ/TERW5VJjmbpxVwYj8wkVamb9Ay08GLCjzj6ga7oAYBRCHiVl61E8vcr3axLjHmBk6yhMyQPNT5wpQ+AWEg0HP5mK0MB1Vufi1gZAv0d83MvR17XplKAbhmqvDoFcP+hSIc4uB8O++rafp5+YM/drMKpAnDP5T/qsZhEltoMXZbheEaxtobXFQA+G6TFBAWwZMxJsb9yYIkwMBjFwSGcjbeJ7wD8RVQp8NxBPX7d1JhxpqqfXoPgqfaqDe8GEa6W9WY+9eXnZBCE8g3hcmCJNLEEMa63dTc1MddbQdoNiZgzTYfYwSPUGFmdixTeW8fz2sg97cqh6EfoAYAkSodb9CxLuOaJCxgRaFqd2zS+V+WBr1F4TAUmIciK72RrUk5zub1MQcgIzHj6vrYLBe5aOan1auuKAfb++Wi0HTQRKFMVSDIVwVTJ5f3a6CYdFoi8rnM+jzarJSEJqzJHh6GIR7sxoSIiM5HnExDPqSn6gU5JxBqJAJwv7gipQCRSJBDYR9J0EeDkXnkS8Gujp4Qu0R3ieTiTYrzKyOryBGYSw1elohALs5fFLD4DeVimkY30GyShi7d62dppIhBTP30u10Dw0Nhayg9aeXXBBO6TIxaM4TVgyEe3wTzU52FIDuZPrcHAlCdfDakBWqCGTuI/TzhDgkAeNPkplp51sHe02CeLnw2vANxCj08+sCfXw2ZbNxd+8ALt/0DMIpLUEeUA7ItmwMwmcEo9Cfu+/cA2gDIf/j8pgLwhnk4RzSQXLZJEhWijE2EKpTNQhP2VYgTIY+5GPZJAh5crl8A5nLhn4JwuT80mUMgzgXIDzyEoQzyPM5ZFs2CcJ1KZDcP76AbMsmQRiTnyUShDy5f6oEoSFx65AYGSYIh6IEcXgAldsKkRxy//xFUKlWiCyM/6269hsFJTV7JAmwmwAAAABJRU5ErkJggg==",
     "wiki_name": "Plain pizza (Half)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Plain_pizza#Half",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11921,
     "name": "Dragon pickaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-03-13",
     "duplicate": true,
     "examine": "If rocks could feel fear, they'd fear this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs2WDUsUURSGd5Fl2Ygk+gP+AtMwM9Q0bLONyNa+7QurNYwgIinECiuxTwQxiwoFQUykjCAiiqJ+2W3fO72zZ453lhl3Cg+8zN25d+Y8c865524qtfEtbdxyzf9zS5tnY0fNk9Gi1eTtI2ZipM+KEIvTg2Zh6oKZf37eAaU/omZwD4hQAKI0zNzTs+bV5EDAMX5jTisIFQsybabuHlsDhStAKALNTpwy0+Mn7FpcXUBYL6F/rIyZb0s31wdFIIwZHQK9eXzGAnFtGBCe+748an6t3je/Vx9aIPhoamiw0t6VeWHnVxMITl1AMw9O+l+OsQtoaeZiAAhjAmnvytKBNACCxS1DrjXQXzTXS5ft2AW08rJUO5B2ejhX51R/LmNKmzPm0dasXYeoaaAPr4d8ICgWEF6Ia0e2zgpOC3+Vz65VsVAwg2Wgc5syZmSLBwVJoI9vrwSB3t2KB+SKkEt72tpMX2+vBTpdBjpe1rCIFsE+zQ3XDsQa4vZHKlHULGysPbivxxzK530gpA8RRbTu1GfN7LacXfdl4ZoP9PP9PR8mNpCEwpcSCOt2t7RYGEDJqDG1gAPUeL0XLReQ9h5i3ouxhasB7e/q8mEwj3WyBUCIFK5fF2+sF8jbtohQGBDW7GzabmEAJYHwHFLLYsYcnpFAsilq78q8Le8CgiRQd3u7ObC324cJA0KtJQpEKAgO0HGxDpHp6ex0AsntniiQjBKuTEFHa2sgVYQJA1p+cckHQpcmTCQg7DAXEI8DpguKAoTo4NiQEYoYHVgFSNcRu/eu5mY/VTx8w4CYLhwbiQERyj9OyulCd8ZYNk2M9V8PAqFLSyBCae8O84BcacPcjsZGP1WYjwKETfB5/qoPhB4Uow8FgWTamC5ECGPc1+nSQIhOzUDYZWFATBWc4Z4LiH89mK7EgHTaMIezi0C6oNmr8BzeQSBseQmEHhS7D7nShvuYxxdjXA1I1k8iQK608avhBHOugoZ4bDBdNQLBKid1Nen6oTQQmqIEomIApVJs69WkAaVk/SQCFNU0ZBRYqrL2P5mGdEk/s6HtD8glUtortx+xAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xu3W/UsUQRjAcQ85jotIov/DMswMNQ277CKys3d7w+oSI4hICrHCSuwVQcyiQkEQEykjiIiiqL9suu9szzI7O3vt3l7RDw087Hozu/vZ55mZtaHh328Z5Q5X/x9vGfV4/JB6OFbSMXXjoJoc7dchiKWZIbU4fVYtPDnjQNkvkRrugQQFSMLGzD86pZ5PDQYezN/02RFEJUJm1PStwyEURyASApqbPK5mJo7qsRxdIMab6K+r4+rz8rXaUALiXLIjoJcPTmqQjI0Ccd2XlTH1fe2O+rF2T4MSYbipvLWAeKgLNHv3mP/mnLtAy7PnAiDOY4IygTKAkMltptyOwYGSulK+oM9doNVn5fQg+6EH8o3OGMhnVXl9Vt3fmNPjyJoNevviog8iEoG4IcfOXKMOHlr8FYVcOErFohqqgE6vy6rRDR6KMEHvXg0HQa+vJwO5MuSKne3tqr+vT4NOVEBHKjFiZEtg7+dH0oNkDsnyp5RMapnYjN23u1ftLxR8EOUjo2TrZlNOzW3K63EfFy/7oG9vbsfF0IIgE8WbCohxO1pbNQaUmTUpLThQE01etmoE0bwbs4SrgfZ0d/sY+hlnbgEEmeL4aelqrSBv2ZKhKBBjtm3ZrDGgTBDXUVqZzPRxjQlKsCl6S94FIkxQT0eH2rurx8dEgZhrdQUJiuAB7LiMIzO9XV1OkLnc6woys8RRStDZ1hYolWCiQCtPz/sgdumYGJq3wlwg+RxIuYg4ILLDZ8PMUE0gex7J7r29pcUvlXx8o0BSLj4bdQMJyv+cVMrF7sy5uWlybv/rISB2aROUAOWBXGWjb2tzs18q+uOAWAQfFi75IPagBPtQEGSWTcpFhjjnd7tcNojspAaxyqJAUioexm8ukPzrIeWqG8guG318uwRkT2jZq7iOewiIJW+C2IMS70OusvE7/bwx59VA5vypC8hVNnlrHkKfa0IT8tmQcqUE0Rj4+7Dnj4QNYlM0QRIJQHFbGClhzp+/CKrWwshw/G/p2k9+IQhOyCbZHgAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_pickaxe",
     "equipment": null,

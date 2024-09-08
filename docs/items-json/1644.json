@@ -1,7 +1,7 @@
 {
     "id": 1644,
     "name": "Diamond ring",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "A valuable ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xs3W30uTURgH8I2QsTHspj/A/6Cuuu6iG/Gi1H5YhmFhZVQwkoZZYTUs8weYlplMZowptixBLZMsCbzqJqGgGy+8C7qXXT3xPS/fd+c9ns3NvYUHHvb+ONv57Hme92yBwN4fQbGH7f4/H0Hp62qU3s56FT3x45LoOKaCiPRQq0wOnpeJ/hYLyvwSFcMdEFEAMUxM8sk5Ge0561kY57hnhhdVFjIog3dPbEPhFRAGQc8STTLUfUrNxasNhPk6+tNMl3zM3NwdiiAcMzsEvXzcrECcWwiE9y1Pd8qX2fuyOvtQgbDGoZoaFebqxnDSzm9NEBa1gYYfnHZBOLaBMsMXPCAcE2SuboygpwxYiM2NcxOExYFgeQuBZp63+QdilnBNB7EfmEmCkDUT9GbskgtClAViX5ggfHOCMG98YEAa6+rU8U6gt+OXvaCpW5WDcB0gYlaXliQRj6sgqhBoLtnuLwiBUhIEDCIz9kIWslkVuG4DIaOLk9dc0Er2nospG6Sj8OEmaHNjQ+prayWbShUFvX91wwoyVy8wnGbFhxcCbW1tqUj1hFWke8PS2lCl7iFM0Id0bLcgZw9ChgqBiAJiqj8sn1MRWX8XlZ/zUfm1GJUzdQ6MIMzXQfqmaK5uDOeRt4EQeoaAGevOY3I/Dkpu/YD8WauWvo6QxFpCah6y4yuIKARA2HEx71EsJO1NVQrDMjGWkxFVRsxReL9AepbwqoOw4PVmpzQoJ7OI84XRiMIcObxPnU+PXHRB2KWJKQmEJ8QG4s8BQWuZqCpZw9F8I+uRTITd7OBnQ89QidnByIPMPuKjDBD7COXCwm0nq+TOlZA8ve00OUqGc4Lws+EbiChcR4MShPuY//trtWrsuZGIyhqQKBnusaGxS+sgoszVLcMB2cpmA7Fnct/3y+ZKtcJ9ex1VOIIwf37iqgvCHlTGPuQF6WXTQXjFdf6kON/WG9wiKgbhKdsJhMVwjSA+YXqvsVy+gcyy4boO0v8DEUMQ5wKER14HYQ8qex+ylU0H4bgYiBnCXF9AtrLpINzT/5boIMzT+6dCEMb2BrWF2T8ME4RNUQcxygAFAtzWi4UJ1EPvH19ApQ4TWQqWkZ/7n4aJtIX5nj09/gJsebVWqgA49wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xu3WzU8TQRgGcBrTNG2aevH/8ObZgxfSgwJ+oBgMGlSMmjQSG0QNaoMiHwmCYiUlxTSFYEVJAEUiSkw4eZFEEy8cuJl4b3p6zTPrU2a309JtV+PBSd7s7uyw8+u8787S0PDvN5+Yw3T/jzefDPa2yEBPk4r++BFJdB9WQURmtEOmR87I1FC7AeX8EXXDLRBRADGcmNTD0zLRf8o2Ma5xzxl2lCukT0ZuHS1B4QgIg6DHiVYZ7TuuxuJoAmG8jn4/1yvvstdqQxGEc64OQc8etCkQx5YD4e9WZ3vk4/wdWZ+/p0CuMHgofzVBmNQEGrt7ogjCuQmUHTtrA+G8SpDPlgZMxOLGtROEyYFgesuB5p50egfiKqFPB7EeuJIEYdWcoJfJ80UQwhWIdeEE4ZcThHGTw8PSEo2q891AryYv2EEz1+sHoR8gYtZXViQRj6sgqhxoIdXlLQiBVBIEDCKbfCpLuZwK9JtAWNHl6ctF0FrudrUYNDtIR+HhTtD21pY0NTZKLp2uCHrz/GqtIDSrWPHwcqB8Pq8i3R9UkRkISkez//dEvhLQ20ysVpC1B2GFyoGIAmJmKCgf0iHZfB2Wb4th+b4clpNRC0YQxusgF5ui9cqbQAh9hYBJ9u1gCl/3S2Fzn/zciMhgd0Bi7QE1DqvjKYgoBEDYcTHufiwgXa1+hWGaGKupkEojxii8VyB9lXDUQZjwSpuVGqSTq4jrpYmQwhw8sEddz46fK4KwS1eJQbPeMBOInwOCNrJhlbLmQzuFrEcqESyuDj4b+grVBHLWEV9lgFhHSBcm7jzml5sXA/LohlXkSBmuCcJnwzMQUehHgRKE+xj/41NEFfbCeEitGpBIGe6xoLFL6yAXKAtkSpsJxJopfNkr22sRhfv8IqxwBGH84tSlIgh7kIt9yA7S06aDcEQ/PynWw+3BLaJuEN6y3UCYDH0E8Q3Ta43p8gzkTBv6dZD+PxAxBHEsQHjldRD2INf7kCltOgjnlUBcIYz1BGRKmw7CPf3fEh2EcXr91AlCKy1QUzjrh+EEYVPUQQwXoGpbKZKh189fBFVqpcjS+N/qa78AInVqym5N37sAAAAASUVORK5CYII=",
     "wiki_name": "Diamond ring",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_ring",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 28378,
     "name": "Basic shadow torch schematic",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A design for a basic shadow torch.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVklEQVR4Xu3Wf0siYRAHcJ+3UXSVolJaRFCXqJnkeblKZ3oXJ4cd1y+Cg4Pe/x/TfmedvdlJ2d2OtQsa+FKatB/nmefZzeXe670yLUfP82rlKN+5ps3WD1o/OKXVvSbnFXGOCt07KtcvqXQ05gD0Yf+Egflab9koR9vNCYPub6Z0O/UYVTwc0urhF1o7GtF68/uyuuWoePYQgnSXgEMAQ4DKGOZo6/yRqu0rqjR6tFX/TONvfUYIChANAwizhmQAc1TyftNOa8AQBCjdHUEJEBEQkm//NMNvk7iC7uyenDOo2vTCDjGs9in8XSCypDqCKjQGPPzI5scubwYkBcpRuf8nBI0uWhygdGQJLWReNA4pHg8ZtLexEYdyVPWueJgBQtAhzNE8lL1w0gCVCrR7+isCwk7TAdC+lzTSpReDKn677T9dFBl4Hf13dEfmaaVai5ujABMB+T956/soHX1Bea3ft1DB8E70BxuRDi3o0hyMAeGUtt9+EciiBINjQnZazJIZkMo8iO2agCwKrzWmcDBgDO6FMSBUcGBZFC6eJBqIjSAREDD5/V4EEwPK5YIPBDCcRTitcQTYi8em4QWZHRnSoVQYXRqGAKXzDKCyczyIgGSG+H7nL5dseXvNRPX3mwQwdEy6ZgMM5g0gQY2GrciyJdhdyct2TXAaKB2KoGa3HmDlge6fMbps1wQnqHL7gsZf+2FkjoBJcUK/rCxuuzthFB570S19BOjuZAbSpWGVM//86VyGMBwFmXdnUdnl5CVtj9M8cmRTsjQauLTlSlL/FebN1xN0xVIYh48DcAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMUlEQVR4Xu3WfUsCQRAGcPdrFBUpJqZGBL2ImopleUqZViRR0StBEPT9/5jumXPOuU3zLjqDcODBVPB+zc7uXSIxr3nFWoa+5s/KUPLggVar17Sy3aDFzQrnD3GGUs1nypQuaW2vzwFoeavGwGSxNWuUofXKgEEvjzf0dOMwKr3TpcWdU1ra69FK5WpW3TKUPn71QbpLwCGAIUDFDDOUPfmgfP2WcuUWZUtH1L9oM0JQgGgYQJg1JAaYoTXnjQrVDkMQoHR3BCVAREBIsn5nDb+d0OV1Z6N2wqB8xfE7xLDiof+3QGRJdQSVKnd4+JHV3SZvBiQCylCm/e6DemdVDlA6soQ2ZFw0Dknvd8OCDOWdWx5mgBB0CHM0DmVfOGyAigTaaNwHQNhpOgDan4WNdOnHoJzbbvtHJ0UGXkd/j+7IPC3ki9NQHiYAcl9567soHX1Bea8/t6GC4Z3oDjYSHWOBcErb//0kkI0SDI4J2WnRQCrjIHbXBGSj8F5jUtsdxuBeOAWE8g4sG4WLh4kGYiNIBARMcqsVFqPLg+EswmmNI8C++NSUHS/DI0M69AOMrtExD5TOF4BKYb8TAMkM8f3OXa4IW/678mDomHTNDjCYN4AE1etWA8sWYndFrVHXBKeB0qEAanjrATbmB7ogTlCZ+hn1z9t+ZI6A+aXlClMebL05YBQee9EtfQTE3J1J5cFyx+75c3Dpw3AUzLA742q0nLyk9X6UR45ZlODm9U/rE2f6HQ08S4iTAAAAAElFTkSuQmCC",
     "wiki_name": "Basic shadow torch schematic",
     "wiki_url": "https://oldschool.runescape.wiki/w/Basic_shadow_torch_schematic",
     "equipment": null,

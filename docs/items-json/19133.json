@@ -1,7 +1,7 @@
 {
     "id": 19133,
     "name": "Uncooked pizza",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "This needs cooking.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xu2W70tTYRTHfV5Fb/oHemMv6kVESQxRUoZkmBmmZbIyxTQzG6Y2xkJELEsRy0QtkzHEtKUlakMTWT80oqL+qG9+7+XMu+dueadbBHngvNm9u8+H7/me55ysrL3Yi/8vFJxnxkNhrK8VQz230N/ZiPu+OnS2XoGv+TK81yvQcWAfaqvOoLrcjQsl+ZkGU5h86sfEQLsBNfzgNga6mtDrrzdAJJuvlaG+ugSeiiJUlhagtCg3E2AKcxPdmBm9h9ATH8b72zD60BtTygrEbKkrR4PnLGounkZVWSHOF+ehuPBkusAUlqYG8DbYg/CzTkyNBBAcvBtT6XH3TRvQncbKGJT19xK3C+6847sFU4hMD2I+1GuopB/OnHm5Py7150xRSqDyXUd3AqWwNv8cy6+GbAekCiSekvKJUjnZ2U6hFNaXpxBdeGH7eCKIPyXfl+4ToxedykFB7jGnKil8/zCPjZVpRBeDNpidAInJ5Upg6QjlUCWFH58W8GU1jI/vQjYYp1D6+5K6nxyopPBzfQlf117jc2TSKNvqmzHDS+y4VKCSgVn95EAlhV8bEXyLzpk+2iwbzf1+diTO4PrB20HoydLRT1t3VNIwSyY+MlTahKJKK+Fh4xrQP64D6s/0FINTJVFoW5UIxbJRJXopWcfpMALU3VFrzDr9XY4WucUPHzropGQM00csG81NKP3D2yXnXFdbDQJejzGAeYNz1rHjeA24Thxxqo6E2f5UiaXTD2QuTvbZfmNypPQFGmIbgb+lGu1Nl4yRcuPquTgzO4RhbAGJSlI68RO7biH0yAZk3QZ0lWQ1SRFGQsUBicGtXUcozjqBkeGr701UiSNkFzAS5nQmSCwtKrHrWDrZCGRv4ooipaNKNHMaYMwwP2CCESBREog7ExUiDEtGdagMvZM2GGtYwWbHu+KSynB5Y6moCn3D1ZbKsMUFSP9mWsIKxvIwaWR6huVhR8lzybSrkyisYHoKgDX1/2cs9IP/OsBe/CvxG+pCGcG8RQAOAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xu2W70tTcRTGva+iN/0DvepFvYioiCFKypAMM8O0TFammGZmYmpjLMYYljUZlolaJjLG0pbWUBNNxH6oREX9UU8+93K2u+/d2vXHfNMOnDf3Xu73w3Oe8z2noCAf+fj/QoP9zHloGAt2YajvLgZ8rXjkboKv6zrc7dfQeasGvYcOoLHuPOqrnbhcUZxrMA2RFx5MhHp0qOHH9xDyt6Hf06yDSLbfrEJzfQVcNWWorSxBZVlhLsA0zE4EMD36EOHnbowPdGP0SWdCKTMQs6OpGi2uC2i4cg51VaW4VF6E8tIzewWmYSEawofJPsRe+hAd8WJy8EFCpWeBOxag+621CSjz8wqnA86ik7sF07A4NYh4uF9XST2cOf3mYEqq75milEAVO47vBErDavwVlt4OWQ7YLpB4SsqXVMp2aFhfimJt7rXl5+kg/pX8XrpPjF529jRKCk/YhdLw83McG8tTWJuftMDsBEhMLlcCS0co20C/vs5hcyWGLx/DFhi7UOr3kqqfbEBp+L2+gO+r7/BtMaKXbeX9mO4ldtx2oDKBmf1kC+jPxiJ+rM0aPtoqG839aWYkxeDqwdkg1GTp6CcbUEbJxEe6SltQVGk5NqxfA+rPVUD1nZpicKqUBUbCgGLZqBK9lKnjVBgBCvQ26rNO/ZajRW7xo0cO2weij1g2mptQ6o+zJeecv7sB3k6XPoB5g3PWseN4DThOHbMLI2G0P1Vi6dQDmfORoOUZkyMl6G1JbASejnr0tF3VR8rtGxft+CZdJIFEJSmd+IldNxd+agEybwOqSsnVZEehpQCJwc1dRyjOOoGR4avuTVSJI2QXMBLGdCZIIk0qsetYOtkIZG/iiiKlo0o08x7AmMMAI0C6JBB3JipEGJaM6lAZemePYcxhgM2M+1OSynB5Y6moCn3D1ZbKsMVzCCRhgLE8TBqZnmF52FHyPpn7FurB+w6Qj3xkjL8YQOYWVPaligAAAABJRU5ErkJggg==",
     "wiki_name": "Uncooked pizza",
     "wiki_url": "https://oldschool.runescape.wiki/w/Uncooked_pizza",
     "equipment": null,

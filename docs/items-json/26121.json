@@ -1,7 +1,7 @@
 {
     "id": 26121,
     "name": "Sigil of supreme stamina",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": true,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADkUlEQVR4Xs3W+0tUQRQH8F0yS10sYTVEfGBYmCEZYgmSP2SZGdlibaapaaYYJZaWmCVaIr0wxB5UKJhiYmUEYQ8pqh/6H4J+6D859Z3lXOceR9u73sKBw97HjPPZM2fG9XhWf/OSOUzv/3nz0p2eSrrVHVAx2HWEBjorVDBicriBxofqaexunQElv8SK4SEQowDikJjR2yfp0WC1bWLc450MO8oR0ktD144uQuETEA4GPRioouG+oOqLTxMI/XX0p5ke+jjVERmKQbjm7DDoyc0aBeK+S4Ewbn66m77M9tPX2RsKhDl2ZGSokLOLFko7f2sGYVITaOT6cQuEaxNoaqTRBsI1g+Tsonlty4CJuLhxL0GyfpYCzTw84x6Is4RnDNIRZWUFVFi4jXJy0tU9siZBrx43WyCEIxDXhQThmwOEPu3tlfRtItaKF/diKTc3k7K3plpQHfT6aYsd9PzyykF4jvddXVV0qTNIbecD9Gs+XoGCwWIq3Z9PWVkplJ62iRISfDbUm9FWd0EILCXeX+k+QVd7aujnB58KgGqq96ql21WQrZbO799ggbDEc+PnLNDnl70WxjFIR+mYH3M+lSncf5/yUW3tPqqoKFS1hCwlJydQTMw6NQagd8/ajCA5+xJtYcdIEJYJkI6Lx1Rg6fr76qix4QAFAkVUvCfXypAOej95IVJQ6AxChkwgIFDQLc3lCodrvj9UvpuKirYvAmEj6CD9UJSzixba8iYQAvWAPnl5m1W0th5WQECwTPgsKdmpdhqWLD4+xn0QoxB4DwSy0dR0UGUCk6Nu8Bx1hCXjGnIdpGeJ64frBgEUb3fsLt5hmZnJCsRbH8EgnNKMCQuEHSZBeB4VtYaio9eq4u3trVV1g4xw3QCDZWRQSopfZQhjMBZ/gzMUZnbQFkCM0jFxcesp8U+xAnKqvlQFdhZOaIDy87eoa33bY4yOWhGIMRKEjCADgPFW5yUDKC01iZISN6q+GCdBjJKzG1oIpC8b1wD/YaAY9rfgMToIZ5CDc8gOksvGmdKDgXqYIAjUkGMQdpkEcWFHGm/Hzlq7LGKQ3G14jn8B+OWHA5J/TSJwaPJZhXHcF+fP9P3TNhDOIMfnkGnZdBCulwPxf3j0dQVkWjYdhHf6zxIdhH4AITsugNAW14ApdIweEoTf0jqIwwHI4+FjfbmQQD30+nEFFG6TyHCwHAt9/1OTSFPIMau6/QbHlwI/unDfqgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcklEQVR4Xu3W/UtTURgHcEdmqcMaTEOGCoaFGYIh1kDyhywzozWsZdo0zRSjxNIaZg0tkd4wxF6oULBExcoIwl6kqH7ofwj6of/kqe8zntu5Z1fb3Vb0Qwcedl/O2f3sOc85uykp/35zkHVY3f/jzUE3B+rper+fYyR0kIb7fByCmB5rpanRFpq81WyB0n9EwvAISFAASeiYiRvH6P5Io+nBOMc9PcwoW0gHjV4+FIXCJyASAro73EBjgwHui08rEPqr6PfzA/Rupjc+lIBwLNkR0MNrTQySvsuBMG5prp8+LgzRp4WrDLKFwZfKrxYQHmoFGr9yxADh2Ao0M95mAuE4RpDDNA14kBQ3znWQXj/LgebvnUweSLKEawJSEbW1FeT1bqGSkgI+R9Z00PMHHQYIYQskdaGD8MsBQp+ennr6/CTDiKe3M6i0tJCKN+cZUBX04lGnGTR7IXEQruN+KNRA5/sC1H3GT9+XshgUCFRRzZ5yKiryUEH+BnK5nCbUy4mu5IIQmErcv9h/lC4NNNG3t04OgJoad/HUba8o5qlzu9cZIEzx4tRpA/ThWThWDJoZpKJUzNdFJ2cK519mnBQM7iafz8u1hCzl5rooPX0NjwHo9ePueEFov1aMDsI0AdJ77jAHpm5osJnaWveS319JVTtLjQypoDfTZ+MFRfYgZMgKBAQKurOjjnE4lvP9dTuosnJrFAgLQQXZ2BQjS94KhEA9oE9Z2UaOrq4DDAQE04TP6uptvNIwZVlZ6ckHCQqB+0AgG+3t+zgTeDjqBtdRR5gyqaGkg9QsSf1I3SCAkuWO1SUrrLAwl0Gy9BECwi4dIwYtssJ0EK6npq6itLTVXLzhcJDrBhmRugEG0yggj8fNGcIYjMV3SIbiAglKxWRmrqXsn8UKyPGWGg6sLOzQAJWXb+JjddljjIpKCCQYHYSMIAOAyVKXKQMoPy+HcrLXc1+M00E2UBGQOm1SA/LFQAnsdyFjVBD2IBv7kBmkT5tkSg0BqmEFQaCGbIOwynSQFHa88WrylLHK4gbpqw3X8ReANz9skPI2icCmKXsVxklf7D9zd06YQNiDbO9DVtOmgnC8Ekj+4dE3KSCraVNBuKe+lqgg9AMI2UkCCC26BqxCxaihg/AurYIkbIBibdFICbV+/iJopRaNjI7/LbH2A32Tt6QWa0l/AAAAAElFTkSuQmCC",
     "wiki_name": "Sigil of supreme stamina (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_supreme_stamina#Un-attuned",
     "equipment": null,

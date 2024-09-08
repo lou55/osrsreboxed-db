@@ -1,7 +1,7 @@
 {
     "id": 25819,
     "name": "Book of the dead",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-06-16",
     "duplicate": true,
     "examine": "A book that grants its holder the powers of resurrection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xu2VeU9aURDFfV+k0TbauASXtIrBBSKIKFEUN8R9r8Zda5W6UYq7FqkxsdG0Tb/nac6QC68P7AK09A8nOcEYeO93z5mZm5f3WI+V89KQUM5Lw/TQEAa7vehwOnMJlXBlfmwUk35/HOwfQ8Ug7FULcNVsiJzVq3C8XJb/Ud62tr8NlXCjoXxSAIzSA/F7Ffn5IuOT0ih9g8ZU/swNc6kf1oqZJBA9kIKyVc5lyyENTfX1sFosaDCb8fyJFZWFHljKhuVFRgjqw7ugyAilXDK+4Q9Lk0lptTehxWYVuJoSXxLEYSAQlx5ID5Ull2IT0+lyidwOB0oLmlFnGkuCorYXF+NAhNND0SX+LkMoDSc7Oxju7UG/x4Oe9nZxjLHxxKmAKOWW0SX2XBai0+Tho319Asa90tzYmDK6nymrLp3t7Up04z6fiFCmp64Ho1MqKy5OgqJLnNCMoa7eh7AwMS5gr0ZGZNlVFXl/iE4PUFhQkARIKZf42wygNFwc7Et0KzPTWJqalGuB06ePjkAK5CEgBcUDsSczgro+PJSmXZudxcbcnPQUG/xX0VGMi9dKV31IDkTxcFSaULHYbo6Psbu6IuLDeEq6lGrq9Ju61fwG3sYw/I5ofAp5AQ90dWYyeRpuT08R3trC/voagq83pJ+4n+iS8bpgA/Nvd20AzZZxdDQtwde2h7fLS+I0gRRM2kDRcBifzs9lP4U2N8UprgS6RACKF64CbHjRD2fdFO5OBhEN9uE04EVw1Y3t+RZxkUOSZmSqNNxdXgoU1wGbnf3Exck7jiJQtckNW80Q7s+GcR3qx8VON0LrHfDZI/GDZCEyVqy5768i8qmuCa4EbnFTkQ034QF8uRjB7ZEfkf1e9FiPYDePxiMjDCOLOZNRZKo0fI5GBYpNzmbnGuAG/xYZk3g8dQfSPyoy9XK9FEiGMCxNQL5efxQwRsZp4yQxrqoSJ8zlHoks1cuzCKIvTYDYQ7SfDjEywtRWqi2cVRd+p5JjyBFIoowR5Azksf6n+g6AAT9GvLlJDgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xu2VaU8aYRSFnT/SxDbauAQraQWDC0QQUaIoboh73YpRXGuV4kIp7lqkxMRG0zb9n6c5lwyMoG3ijPqFm5xASIZ53nPuvW9JSbGK9eylIKdnLwUzIyMY7vWjy+1+TqicK/MT45gKBrNgTwyVgXCaF+CxrIvcdStwvVuS3yh/R8djQ+XcaKqZEoB8aYEMhtE2aEY1r7ywVgVhfzNbAKIFUqEctSGjoBS0NDbCbrOhyWrF6xd21Jb5YKselRflQ1DfvsRE+VCGAXFS2p0taHPYBc5SGSiA2I9EstICaaEMcikzMd0ej8jrcqGqtBUNpokCKGprcTELRDgtFF3iczqhFBxFoxjt78Ogz4e+zk5xjLHxxHcBUapb+S6x53QCsRT58/GBAQHjXmltbr4zun/JUJdOdrYluslAQEQo00vPvdGpqq6oKICiS5xQ3VAXX+NYeD8pYB/GxmTZmcv9t6LTApSVlhYAUqpLfFYHlIKzvV2Jbnl2BuHpKbkWOH3a6AikgtwHpELxQOxJXVDp/X1p2tW5OayHQtJTbPD/RUcxLl4rPY1xORDFw1EPhMrEdnl4iO2VZRH/jKekS3dNnXZTt1s/wd+cQNCVyk4hL+Chnu6HArEUXB0fI7G5id21VcQ+rks/cT/Rpfzrgg3M7976CFptk+hqCSPQsYPPS2FxmkA6YFgKUokEfpyeyn6Kb2yIU1wJdIkAFC9cFbDp7SDcDdO4PhpGKjaA44gfsRUvtubbxEUOiW6o6/NzgeI6YLOzn7g4ecdRBKozeeGwjODmZBTp+CDOor2Ir3Uh4ExmD2JAZKxMc99cJOVTvSa4ErjFTeUOXCaG8OtsDFcHQSR3+9FnP4DTOp6NjDCMLAOiC0YtBT9TKYFik7PZuQa4wf8kJyQeX8Oe9I8aWe7lWhlWioD8Tn8XMEbGaeMkMS5zpRvWGp9E9ggvv68UAWIP0X46xMgIU1+rbuEnAdFWfgSPEkexiqW7/gJyshFmuOqvQAAAAABJRU5ErkJggg==",
     "wiki_name": "Book of the dead",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_of_the_dead",
     "equipment": null,

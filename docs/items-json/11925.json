@@ -1,7 +1,7 @@
 {
     "id": 11925,
     "name": "Malediction ward",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-03-13",
     "duplicate": true,
     "examine": "An ancient, evil shield forged by Volcanic heat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs2X20uUQRjGd5FFkDCkf0CRDDM8hJmhxHYh1E3nExWFRV10F0YhUnQQ6YQgdqAgIRATKa+6iKKov2zyN9Pz7czs7LLrbuHAw3eYmX1/88w7883mclu/5E1aqfp/XvLm+cwp83T6hNXc3eNm9vYxK0EsL0yaD/NXzNKLywmoeBANgzsgQQEkxTDvn10yb+YuBIF5pi5WCFUXZN7M3ztdBsUVEElAtF94cNa25ZoCor0P/WNtxnxbmdoclIC4xx3q/Ona3t5ur9WA6Pd9ddr8Wn9ofq8/tkD0GezstIqjR8XZrlELCEDqtrW1BaMVUCUBtLJ4NQDiXkBx9Kjk7TS8mj1vgYBQcvNM/c6uLgvVUihuaMLs6u42+4eG/j6PW1Ev0Wft9fXmAeGSP+ISEMGLFqgaDA59fnsjA0J1Ab17cjEAEgRTgwb6+qwE1FI4mgH5MPTxBxIAfbzTOJCgBFRy6UiZO2qjQSjPmga0b3DA7O3vz4KEQBNVYeSUHPr56X4GUzeQEhkXKkOVpisFQ45VAoqjVyhuzhcfnbNXB+RWlA/FVS757gBCHW2lBoDcHoRD3Ps5ICjfLUEh7mlHncsr2tKnGAD5m2IcPSpuyevbhNXS+MiIlQviJCjBOAhfrl2c1JsCkkNSofWMKRROWrlljlzg0MUQyvZrnWzcIYBS0+YL57gSNK7LgDYGwG98Xb5lgdilBVMTECusUg4JQiCCIeie3t4A0kG5fPOBcKhGdyglIOWRfvzg6GgQLIPZENMnoBR004DiPErBuJxyubK7pyeA4oObAhJUHD1RHJA/bUj70Y6OjkwlGJfcPOMSUGoDEPKB2IPq2IdCIEH5QIcPFctWnBwD6MDwcAYkZ78s3dw8EKssBcQ7f/okcov9Sc8A4YqAOJg1BSieNt5zbCUA5xt944pjYxaKe72TOLauvrwWALEH1b0PpabNB+Jex1tBCYh+OtTTtilAqWnzgajz/5UIBtFOh/omAFHK8yQlwQDmKwbiLO0DSXUA5XLa1qspBvSFk8qfpgDVWmLIWmClUtv/VGLIlOI+W7r8AUQpYbzJtta3AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xu3X3UtUQRjHcRdZBAlD+gtEMszQDDNDie1CqJve36goLOqiu0gKkaIXkd4QxF4oSAjERMqrLqIo6i+b9jvj7+zMObPLnt0tumjg4ZyzM2fnc56ZMzvb1vbvl4KJR6z+j5eCeTZ70jyZOW5j/s4xMzd91IYQK4tT5v3CZbP8/FIElX6IpuEOJBQgRRrz7ulF83r+fNAx19SlI0TlQhbMwt1TGRRHIAqBaL94/4xtyzEGor2P/r4+a76u3moMJRDnZIc6f7i2dnXZYy0Q931bmzE/Nx6YXxuPLCgXhi/VUwsEkLotnZ3B0wpULQCtLl0JQJzXCSrYYXg5d86CQGhyc0399p4ei2ovlsoxaXb09pp9w8Ob1xM2qFdwz/qra60DkSX/iSsgOi9ZUC0MGfr05noCInKB3j6+EICEYGiIoYEBGwK1F48kIB/DPf6DBKAPt5sHCSVQJUuHM9lRGz2E5lnLQHt3D5k9g4NJJyFosiZGmVKGfny8Vy+GEoI0kclCdVRluGIY5lgTIIob86WHZzdvBOTeKB/FUVnyswOEOtoqmgC5NYgMce7PAaH8bAlFcE476ty8oi33lAJQjkXRvfL6bSLVionRURuuExdCCeMQfrh26UndEEgZUhQ7Tpti8YQN95oTruMwiyHK3tcx1XyGAMWGzQ8yx5FO03UJqPwAfMeXlZsWxCpdJ4bi3rBqc0gIQYSh0139/QHSodx880FkqCGQ5pG+/MDYWNBZgikHwydQDN0yUHoexTBuTrm5srOvL0DxgxsD5UA5kD9shNajbd3dSVQwbnJzTZZAqQ0gwgexBuVYh0KQUD7o0MFS5o1TxgDtHxlJQMrs5+UbjYN4y2IgPvOHT8HcYn3SNSCyIhAbs5aA0sPG52xb6YD9jX7jSuPjFsW5PlOwbV17cTUAsQblXodiw+aDONf2ViiBuE+betq2BBQbNh9Enf+vRBiCdtrUtwBEyc6TWAgDzI80iL20D1LkANVbskgFmdT8+YugWiWLzMb/0lz5DfoWFzDN6+w4AAAAAElFTkSuQmCC",
     "wiki_name": "Malediction ward",
     "wiki_url": "https://oldschool.runescape.wiki/w/Malediction_ward",
     "equipment": null,

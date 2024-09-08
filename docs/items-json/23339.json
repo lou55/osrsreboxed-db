@@ -1,7 +1,7 @@
 {
     "id": 23339,
     "name": "3rd age druidic robe bottoms",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": false,
     "examine": "A fabulously ancient woven robe as worn by the druids of old.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xu2W7UtTcRTHu68kCUOQBEOnkylaUA5jRsom89lQ15pmc23ZNB+aYnMMZ7P5tPkwpznnyDEbY2jGUEQsKoj+s287v3VXWeIb/e1NBw73xb3c34fv+Z5zfpcu/Y8LCQH/zrSEALk8l6VaLYGsOBtFkizk519JB5QA64QLQ6M29D63oNvQC43uMWqUapSUljOg24WFPKEEOGeXYJucwYsxO8yDo9AbzWhsacfNqiJkZFzmqZKAxbUgPL4Apua9sDvnMGJ1oH94DGqdHPLaEmRmJsvGSSWBwcwsrGFy2pNSqdVUBZW2AvdqVMjKusoXaMUfgtvrTynU0VeNZoMCHdpHDCgn51r6gAiGUjS3uqEFFZUKFEikvHwkYDUQZmXrtKgYDJXM1DeMLr0JbRpdUqU8bmUT8Ca4Db2tPgVE7W98Nghd9xO0tmuZSrkF2fyACKT7ZR0eDimZh0ghAtJ29TAgVV0TimWl/IHIQxOv3aztqWSkUPN9TXqARFOLQGRqEUhZ24AiqYwv0PL6FoNyuX1sjQxYrGxaU+uThzgBCczM/rcRNq1pOJJCo7ZXfwBRybgBGR1N2AhFGRCpQ0Bj9inWaYan/aztuQLF9g4YEJVMBKKSibOIO1BkJ47NcIx1GQHRPiMgMjZtfbqGcAU6/vINB8ef2UD0hyJY9m9hzrsO53ziOuKcgdE8iOY2DUrKuNyLkkDUZZHdODbCUawEEnvNlxgBbi8mZz3oHbCg7YEOlYq7fIA+fv3OgKJ7+9jcjmE1mNhrawGmkmvBh4ERKzSdibLVN/EBoraPHx4j9uEAoeguKxuptLgeZEqNjDvQ1WNC+R0JP6D9o0/YiR8iHHvPVCIoUor8ZHW4oDeZ2VWWGxCZenf/iPloeakWC57EKplXYm62BhPTbpj6h5lCslvXGdTJv5xTCDDYGxF515oqmW1c8fPAX0lA1GkqZQGkN/IuUqUkED1FdcTDxPwdiNSRlOVeJBBFUgVSZ9pVfcphAgOiZ76My91a+Eudk+9FoDxpDg8gitNgxBAhzvruHOOsQ8T3Z313WvwABOKx5B1UJ1YAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xu2W7UuTURjGfT5JEoYgCYYbTqZoQTiMGSmbzHdDXWuazbVl03xpis0xnM3m2+bLnOacI8d0jKEZQxGxqCD6z652H3smkeYXPSPohsPz4TlwflzX/ZaR8T+uJAScfdISAhSKPHY0GinkRTkolGajoOB6OqAE2MbdGByxo+elFV3GHmj1T1Gt0qC4pCw9QK6ZRdgnpvFq1AHLwAgMJgsamttwp7IQmZnXeEIJWFgNwesPYnLOB4drFsM2J/qGRqHRK6CoKUZWFlfbBAYzPb+KiSlvSqUWcyXUunI8qFYjO/sGX6DlQBgeXyClUHtvFZqMSrTrnjCg3Nyb6QMiGDpicmvqm1FeoYREKuMFJWAlGGG2dVjVDIYsM/cOodNgRqtWf6JSPjfbBLwLbcFgr0sBUfmbXgxA3/UMLW06plKeJIcfEIF0va7F40EVyyFSiIB0nd0MSF3biCJ5CX8gyqHxtx5W9mQZKdT0UJseIDGpRSBKahFIVVOPQpmcL9DS2iaDcnv8bIz0W22sW1PpUw5xAhJYMgfeR1m3puZICo3Y3/wGRJZxAzI5G7EejjEgUoeARh2TrNKMz/tY2XMFiu8dMCCyTAQiy8RexB0oupPARiTOqoyAaJ4RECU2TX1aQ7gCHX/9joPjL6whBsJRLAU2Metbg2suuY64pmGyDKCpVYviUi570QkQVVl0N4H1SAzLweRc8ydbgMeHiRkvevqtaH2kR4XyPh+gT99+MKDY3j42tuJYCSXn2mqQqeSe96N/2AZtR9K2ukY+QFT2icNjxD8eIBzbZbaRSgtrIabU8JgTnd1mlN2T8gPaP/qMncQhIvEPTCWCIqUon2xONwxmC1tluQFRUu/uH7E8Wlqswbw3OUrmVJidqcb4lAfmviGmkPzurauEEmB0NCC63ZKyzD6m/PXg6SEgqjS1SgLZ7fyrB6KvqM6fj50CkTrS0rwz7lxqnKhA6ky5q855TGBA9C2Qc9mthXPUEeMUKF+W+5d7lxoXPSL+v+jePxQ/AU1ZfNlK/5JKAAAAAElFTkSuQmCC",
     "wiki_name": "3rd age druidic robe bottoms",
     "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_druidic_robe_bottoms",
     "equipment": {

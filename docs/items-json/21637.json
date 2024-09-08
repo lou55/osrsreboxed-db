@@ -1,7 +1,7 @@
 {
     "id": 21637,
     "name": "Wyvern visage",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": false,
     "examine": "It looks like this could be attached to a shield somehow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4XtWWz08TYRCG2RORGAyR2AgRKY0QxPArFSEFgdSCFYIgIiIiCFgrKgYMHjxw8MLBxIvxZjjozYNHvfqfjXnmy7TLRkLTblucZLKbbft9z/e+M7Otqfn/w5PgkyqGJ2OJhJwCKAA8SY6M6LW3tVUz+K0KhSe3x8c0p1OpHFDwWxUKTx7OzsqdW0mZS6errY4nNwcHJbOyojCAVV2dx/fn5eXTNVmYmam+OtTM2uKi7DzPyId3e9VXp7+7W21Coffb2yEBFT0uPLnU1KQzB5XeZrMhAHkyPDCg6wQ/KSA8OVNbK9c6O7WgKez93R3fYm4u5bOQcB1b5MEc0OXmZj3V/NSUbC4vy97Wli7YEYvlcmJ0tAAo17HrS0ulAZ2tq9NNse7u5KQ8ebAgb55tytX2dlWPvNHXp5sdD+Vpl1rHFg0EzIXGRrkYiSgUmzKpH92bUwtRjmcUP1BD8XjARpdYzm9Q2GCKAjpXXy9tLS0S6ejXqyll9iE/BW9XNkUJ6oR7FEFRPudaEgyJOtRQYmNfovEJ6enq0nphcZTidWLvOO5JnmMtqgBugCXBoMz5hoacXUAxAtiQxTk5m7EpisWGp6VtKK15vbdHrcNK+2dQAoyFU8cPxck5LepQP0Cld7/KeOajJLOfJPXqc64jAbF6MpASYIijKmEBNUEt8Ap5vbGu9tFhdJu1/5VoVGGs40IAsXAtDxRA1IhBUcx0lR/In8Dw3ICCKxcZDsgmNXUBgNmFCtQO9mANyT0JVMjqEA4Iy7ACRTi5FTWdZkDMH4D9cyhkGCJvmXUZYKjE5mYZalgHcgUqZKssHBBKAMRQZHNA/PVjMHwnpPY+LvKWvVhdlS8HB/Lj8FD+/P6l1gEIjEH4QcoCwzvMgHgloMjP799yMP+CKAOIRb7D/C9VhqLBVAAiGE4BAGw4MovKWCMnh9v06N+IqsH4o0J1crrjL/arYvRbJOuKAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtElEQVR4Xu2WwU8TURCHeSciMRgisREipjRCEANCKkIKAqkFKwRBREREELBWVAwYPHjg4IWDiRfjzXDQmwePevU/G/PNy9vdEkuaZcti4iST3SzbN9/+fjPvUVPz74eRg09iDCMjmYycACgAjGSHhk4GzK3REc3JXC5uICMPpqfl9s2szOTz8cPc6O+XwtKSwgAWO9Cje7Py4smKzE1NxQ9Dz6zMz8vWs4K8f7sTP1BvV5fahELvNjcjAgq9hpELTU2656DSm2IxAiAjg319Ydcxcqq2Vq50dGhD09i721uBxey+5GclYSe28vdLwgJdbG7Wr5qdmJD1xUXZ2djQBdtTKS/HhocrKGIndnVhoYJ3/xoW6HRdnRbFujvj4/L4/py8froul9vaVD3yek+PFitfyOiUuokt/96hYRTmXGOjnE8kFIqi7NQP786ohSjHM5ofqIF0+oCNNrGc36BwSBjCyJn6emltaZFEe69enVLOPuSn4d2VoihBn3CPIijK37keCYZEHXoos7YryfSYdHd2ar+wOEpxnLgzjnuS51iLKoA7wCPBoMzZhgbPLqDYAijI4nw5xSiKYqnBSWkdyGteu9qt1mGl/59BaBgXVp0gFF/O16IO/QNUfvuLjBY+SLb4UXIvP3kTCYjfT5FEqUpYQE/QCxwhr9ZW1T4mjGlz438pmVSYwycuVNiRBwogesRB0cxMVRAomMDwvCpAbqemLwBwdqECvYM9WENyTwIVMQxhgbAMK1CEL3dNzaQ5IPYfgEv3ocjDt8xNGWCoRHFnGWq4CeQKVFWBUAIgNkWKAxLsHwfDOxGNd7nwLXu+vCyf9/bk+/6+/P71U60DEBgfomoghD3DHBBHAor8+PbVgzkGiGD4ExY8VNkUfZhjD6sAAG5zZC+KCSYYwR6JHeZ/ePEHjsEVijGW8bwAAAAASUVORK5CYII=",
     "wiki_name": "Wyvern visage",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wyvern_visage",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 2967,
     "name": "Journal",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-13",
     "duplicate": false,
     "examine": "This must be Filliman Tarlocks personal journal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZ0lEQVR4Xu3Wv0scURAH8D2WZXmLWKWy0SaNVUgj6WxS2EhQRBY1JEEDV1gErrCwsBAs7IQUVwhXCCkCQopAwD/uOd/3ZtbZd+uP233ktnBg2DvQ3c/NzHtvk+Q1osfA+uxFDGx2kNtsJ+8LikBfCVT2BkWgo7xPKAINjUehdTOjos7fwOYjwhybJ1BPJ/4+WU1joQh0Ymz+w6PKm4d0qK3MX4FESwEG/Nj/jyTu825lxWX4hBmDQKemQmlQDReCpJp0TTezChTevUUQ6KzwqNE0pClrraUKJstJLJCfAQc64TnSM0Q5hZEqyb615DERQAS5IMi5x7gZwi/HgxRIhrs2R7w9ALN2lLmWuUq1H2qF4VY5jDwsRAGEFBBd07XUYT4MPUhWWYsqKQxaJUteNsYmUFgl+uwqs+EzefuAmREUVEZaBYzkYygBlYzZZIwa6HYYWVF6bmTVNIGCSlWV+ZhVA90OIy0SjN6dNagJpaoESEcMQu01jJGdeRaUw6wT5k0nDIKPB4a4q27fc9VCdbYYs9gZgxhUFXGwy8Ka6wVrflJeLbjvFTBsJ6oDDAY4DgbBrxc4KPGLBUZz9f2OcWMFlGoCRlVK36ddVlNT8BvhULUMrUJyVQ7/EeyGQBOuGOXeL2N3J8Zuj42vEIPCu7cIPtHxcLQLlZAHoxqCI+z+78J++VPYb3/9Fd/dGcbvRpFAiOkXK6RrEeZHYHyMoDKAAPT5tvADHReUJNJ/nQKrHbRy8lObP135lkWcn+ejBlNzVR0rZfR2vSxqMAy/auFcQBIahgoBNVeQhIb9t/l5SfQKEyvuARpypBQrdB0sAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPUlEQVR4Xu3WPUvEQBAG4IQQwgaxsrKxsrG0OexsLGxEFJHDD1RUuMJCsLCwsBAs7AQLC8FCsBAEC0Hwx63z7s7ESYwfMaumcGDYO1Dy3MzsbqLoP4JHbH12ImKbrmU2Xcq6giLQJoH6nUERaCfrEopAA+NRaF1jVND5i212QJg98wHq48TfRxNJKBSBDo3N9j2qf/OaDrWQ+hVItBRgwPf8/0gGwiAIdGQKlAaVcFWQVJPWZC4NDDrOPergLaQuS62lCkZjUSiQnwEHOuQ50jNE+QYjVZJza1QwrUEEOSXIice4GcIvx4MUSIa7NEd8PADT20ldy1ylvo9SGG6Vw8jDqiiAkAKiNeklDjM18KAWu0xh0CrZ8nIw1oGqVaLPrjKzPqPxEBi1sxxG8j2UgPqMmWPM9weaMbKj9NzIrqkDVSpVVGYmVQPdOOLXFglGn84aVIdSVQKkJQahzhrGyMncBOUw04QZaYVB8PXAELfq9n1WLVRngTHDrTGIuKiIg53l1lwNWXNBeT7kvhfAajtRHWAwwGEwCH69wEWJXywwmqvdZ8ZdKqBUEzCqUjKZtNlNdcFvhAPVMrQKyVXZfiLYDYGuuWKUK7fGLl8bu3hpfIVCgoqHo12ohDwY1RAcYVfvcrvxkNutR7/iu7vDGr2wfSnkAiynaxHmR2B8jaAygAC0fp/7gQ4Lei88rHTRys1PbZ4/9y37JYwOhqm5Kq6VfvB2NQmGYfhVC/8QJOFhqBBQHQBJyAb4j5+NF8LyZm8/ixy3AAAAAElFTkSuQmCC",
     "wiki_name": "Journal (Filliman Tarlock)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Journal_(Filliman_Tarlock)",
     "equipment": null,

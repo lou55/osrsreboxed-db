@@ -1,7 +1,7 @@
 {
     "id": 21647,
     "name": "Granite longsword",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": true,
     "examine": "A razor sharp longsword made of stone.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xs3W20tUURQG8JnHXnzswajsIaEMMh8kacoBMcWkUaZJsxsVBvUWRSFSdBHphiB2oUAhEBMpIeghiqL+sh3fOn0z66zWTOc4x3DD4pw5ex/Xb9a+jLnc1m/54IfXv+ktH55Nl8OTqVGJ2TsjYeZWSYKI5flL4d3cxbD0/IKDsl+iaXgEIgoghsUsPj0XXs9OxBLjM/psxFGpkPkwd/fUXyhcAWEQ9HJmPMzfPy1jcfVAGK/R39emw9eVmxtDEYR7Voegt4/PCohj64Hw3rfVqfBz/UH4tf5IQMjR2dYmYbObFpWd35ogJPVACw/HqiDce6CVhcsxEO4JstlNy8emAYm4uPHZgpAcCE6vBXGK1l5NZgdilfDMA7GSBKFqxIyPjYSJM6NyTxAiFYjrwoKQ3IL0gtYgYkqlAR/0/nbzIDwHiChWUu9IgDRm00AIADTILmiExXigHx/uVTGpQRrF7WtBFjM83J8YZLPXadHOQLJGIL2g62EqlZPS92X5xkZB0RmECv0LxCpqjI5y+YT0YbwG6UPRZjct2vIeCOGB8A6qMDTUFwtUB30YlymIKARPXCTgOeNhUB30YUymIF0lXDUIYzElRAwOFiVwTwxBqy+uVEE4pYlJBMLO8UD8OQBIYwhBHO/vjWE4xfjZ0BVKWB20GsiuI56+BGkIolg8Is/xjq4OQB/fXM0ORBT6jvXslevB9u2hr2d3FVModMtzXUkN+rR4LQYiymZ3WgTypo0V6mhvDUc7d4Ri9y6JrgM75Tl2oQdCRT8vXa+CcAalOIfiID1tBA307g+VUtefbxgFjwULQnWaBmGXWRATd+xrDS0t2+R+8nxBrjgwNQjv6unKDEQUnh0+tEeCMCQkhiCeVXgPf4MgbHkNwhmU+hyy00YI1wTG8DfMA+n1kwnImzZ+ayRBn/6XQ4MwTq+fJkFotcXaKDRGhwXhUNQgRgpQLsdjvVFYoA69fjIBJW0WmQTLqI39T80ivbDvbOn2G3RXgCxDMPS3AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu3W3UtUQRjHcfeyGy+7MCq6SCiDygtJslwQU0xaxUyzNyoM6i6MQqToRaQ3BLEXChQCMZESgi6iKOovm/jO6bc9Z3a0PbvH6KKBh3M8M2fns8/MPGtDw7/fCi4esf5NbwX3ZGrIPZoc9DFza8BN3yj5EGJp7qJ7M3vBLT49H0GFX6JueAISCpAixCw8PutezoylJuZv+sJIozIhC2729skKFFcgCoGeT4+6ubun/FiuMRDjLfrr6pT7vDxRG0og7pUdgV4/PONBGrseiPe+rEy672v33I+1Bx6UCcOH6lsLxKQx0Pz9kTKI+xhoef5SCsR9laBCahmYSJubv0MQk4PQ8oYgLdHqi/H8QMoSz2IgZVIgsibM6MiAGzs96O8FIjKBtC9CEJOHILuhLUiYUqknDnp7s34QzwEJpUzaEwnIYjYNRACwoHBDEyEmBvr27k61GFoaZFE6viEoxPT3d+cJoiUng8k2AtkNvR5mePiE7/u0dL1WUFKDyNCfQMqixdgYGjru+xhvQRmKYnLkYyAiBuIdstDX15UKskMf43IFCUWo4jKB6kwMQ3boY0yuIJslrhbEWJZEiN7eog/uhRFo5dnlMogqXSWGlpywGEg/B4AsRhDiWHdnCqMl5mfDZqgmULiPVH0FshCiWDzsn/OOzQ6g96+u5AcSir6j7bv9dX/zVtfVvrOM6eho889tJi3ow8LVFCgDKgHFlk0ZamluckcObHPFth0+Wvdt9885hTEQGf24eK0MogZlqENpkF02gXo697rhUuuvD0xCZSEEkZ26QZyyEKSJW/Y0ucbGLf5+/FyHv1IwLYh37XLlBhKKZ4cO7vIhGBMKI5BqFe/xGQJx5C2IGpS5DoXLJoj2BGP0GxYD2f2TCyi2bPrWTEKf/ZfDghhn90+dINrvzbpRWIyNEERRtCBFBlC1rRKpsPvnL4I2apXIyvjf6ms/ASpTNaCNuc6rAAAAAElFTkSuQmCC",
     "wiki_name": "Granite longsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Granite_longsword",
     "equipment": null,

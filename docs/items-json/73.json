@@ -1,7 +1,7 @@
 {
     "id": 73,
     "name": "Magic shortbow (u)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "An unstrung magic shortbow; I need a bowstring for this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xs3V7UtUQRQG8N1PS+If4bc+JCRBKISBH4SCqKTMKCkqCooQoihEil5ETEMQe6FAwRATSSGIisKov2zymdtzfeZ0dtvrXsWBw717d67n55kzs5XK3h/V4If3/Y6PapgeOxOejw7EmHhwOozfOxWDiKXZK2Fx5nJYeHHJQdl/omV4BiIKIIbFzE8NhzcTF5LE+IzvbKSoQshqmHl49h8UroAwCHo1fj7MPj4X5+LqgTBf0RurY+H78t3toQjCPatD0LvJixHEufVAeO/Hymj4tf4k/F5/FkHI0dXREcNmNyMrO/9rgpDUA809HcpBuPdAy3NXExDuCbLZzagmy4BEbG58tiAkB4LLqyBdIkRpIFYJzzwQK0kQqoa/s6/vSB5t/UfjM4AQhUDsCwtCcgvShiYoYnq7Q61zv1uhCPpwv3UQngNEFCupO1JBuLKHPs3fLBeEAEBBtqETUM+hHIS5XxZv56CfHx/lmMIgRXH7WhAxmIf32473hdrhgwno6/sRF2Sz1xnZmiNZI5Bt6By02cC1rgMJ6NvSne2CsjMIFfofyDY0QdhVbGi+oyA9FG12M7It74EQHkj7h9VB/xCEeaWCiELwxEUC3GtDE8Pl1uUqDaRVwlVBmMeGVgze4VYnaOXltRyEU5qYpkDYOR6IPwcAaRUUg2pZEPCrr68nFWqyOhhbIF02C2g/2R+3duyXvz8NHojLtfb2RnmgCBg8EdoHjiUQiwRGK6kgnNIKIspmd0YG0mWLoE2MBeB73WH1QFjizwu3chDOoALnUApSFJ4xAbe8YjwQqtMyCLvHgtBHCkIy+5NBEObpcpUGsrsNzxVkT2ieVXiPcwHCllcQzqDC55C3bArCfSOQ9k8pIG/ZFITvvIZGYJ72T4sgjHQ31QvbPwwLwqGoIEYBUKXCY71RWKCG9k8poGaHRTaDZWzN3aVhkV7Yd/b0+AMLpZCAP+NiDgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xu3VXWvUQBTG8e7VYun38EJBEURBFHpRUBC1+IqKoqKgiCCKUoriSylWpVDqCwotVEotRQuCqCiKfrKx/4lPOHN2dt3sRvHCgUOyySTz2zNnJgMD/35rhHzk7v/x1giPxg+GqbHRGJM3D4SJ6/tjCLE4cyYsTJ8O849PZVD+T/QNL0BCAVJ4zNzDk+H55PFkYH5zz0eKqoRshOlbh1pQHIEoBHo6cSzM3DkS+3LMgehv0V9XxsPnpWu9oQTiXNkR6OWDExGkvu1APPdleSx8X70bfqzej6BKGF6qfy0Qg+ZAs/eOliDOc6Cl2bMJiPMuQY1kGhhIxc1vD2JwEJpeC7JTRNQGUpa4lgMpkwKRNd6zbnhHGYMju+I1QEQlkOrCgxjcg2xBCxQxO7eF5sb12QxF0Osb/YO4DkgoZdKuSAviqBp6N3exXhABwIJ8QSeg7VtKEH0/LFwuQd/e3O4WQ0tBFqXl60HC0I/nB/cMh+bWTQno46srvYJoxZwzWCeQL+gStFbAzc0bEtCnxau9goo9iAz9DuQLWiBWlQpaz1hQhU2xWPI5EJED2fpRdqgfgehXK0goQjsuA3BuC1oYTbedrtpANkscLYh+KmiL4RktdYGWn5wrQezSXWJoxQrLgfQ5AGSzYDFky4PArzw7n2SoJ5CdNg8Y2jcSl3asl1+fhhxI0/X2xYX6QBFweG8YGt2dQDwSjM2kBbFLW1AFVAGy0xZBaxgP4L5dYe1ATPH7+UsliD2owj6UgiyKaxpAS95iciCy0zeI1eNB1JEFMZj/ZAhEPztdtYH8auO6BfkdWnsVz6kvIJa8BbEHVd6HctNmQZx3Atn6qQWUmzYL4l6uoAn62frpE0RLV1O78PWj8CA2RQtSVAB121qRCls/fxHUqbUiW+N/66/9BMGSRfR06E9lAAAAAElFTkSuQmCC",
     "wiki_name": "Magic shortbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_shortbow_(u)",
     "equipment": null,

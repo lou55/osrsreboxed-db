@@ -1,7 +1,7 @@
 {
     "id": 13154,
     "name": "Book of balance page set",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-19",
     "duplicate": true,
     "examine": "A set containing the four pages of Guthix's Book of Balance.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xs3X7WtSURwHcH0VvSmi921OZixjOilnzGyiuYcGKk4zNddWoxAieqAYq6htjJ4YjfUAQYNgbWPEXvUiiqL+st/4nsvPHY9Hveo1duDLvbv3eO/nnnvOuWc228EvdtJHd77jxU6v51P0ci4psvwoQUsP4iKM2Fidpi8rU7T+pqhBqQ/RNtwAMQogjor5/KpAH5dzFTfG3zinphLVFNJOK08mq1DYAsJh0PulLK0+y4i62OpAqC+jf+/M08/N+62hGIR9bh0GfXqRFyCuWwuE3/3anqO/u8/p3+6iAOEe3u5uEfXuSjGanZ9afrJ2IoOwj2OmMPJrwN/p8AnKjp+h0NleGg+5aSLcT4moh1KxAUqP+sS53ISfrsYH6VoyQDOTQzSbCdKtbEhscd7tOCKuZTkoPOii6Lk+Ggme0uIAAwqQUu6CQOG4DEKaAnG/0IECXgcFfc4yDjCgAEIdtBJj7hQjYqsFbT1sD4QnB+Rewd9UOgbCk6NV+EZbXw/TocfVwXGkHujPt6dlTEugbLRLgPCKGoEYpYI8zqNakHr3GsUYpmsLl8sgdFSzIMRCkDEHoYVUEEbXzZRXhEFvFxfKkUFcTweSJ0X17koxhrwOhLkFIyo/5hZp1EJcr+Og4qXTIo1AXM9SEIJj+ZhDzC2YCG8kPSKNQFyPQT7XMXEtzNKMMQXCCKsHKqUHRBqBuJ4KQguZbB2UfRCjZBBmZLVT14raqTsCwjcLHdVMH6r1ynimxr56d00xQPJrw7Gp0R7xkQQoMdxLqYirLgjnpuP9Igzy9x0X18Ic1MQ8VAnipSmD8AGN+LsoFnDQ2FAPTZx3loGZiyfpyogxLfAIk0dZyyCMslogXBhfe3zTeAnCX3qc46UHpgjUv10Ytg7EKBkEBK+HeC0kY/C9Ywwg8vKDQZiDmp6HdK/NimBR1hJIfW3o3DiGhf3m2ow4J/9Xgn2sDBDU40U96m6/u07f10v0Y+NuKyCU6ifTRcbIUUE7H2YrQJwmQDYbT+v1ogLloCUBQutYAjJbVKQZLGe/7n8qKlIX9TcHuuwBlX2hUILBj38AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xu3X7WtSURwH8PkqelPE3jeczFjG3KScMbOJ5h4SVJxmau6hxkKI6IFirKK2MXpiNNYDBA2CtY0Re9WLKIr6y37xPZefHO89eh/U6EUHvly99+z6ueeep3V1/fvFReqorne8uOjFUpaeLWZE1u6nafVuSoQR2xuz9HF9mrZeVhQo/UO0DNdAjAKIo8d8eF6md2vFuh/Gd1zTpx5lC+mi9YdTBhSOgHAY9Ga1QBuP86IujioQ6svoH/tL9G3njjMUg/CZW4dB75+WBIjrNgLh777vLdKvgyf0+2BFgGxhcFN+avnJWokMwmftvGlx1b0GfM9Fj1Nh8jRFzvTRZMRHyegApeN+yiaGKDceENeKySBdSQ3TTCZEc1MjNJ8P0/VCRBxx3ec+Iu7VdlB02Evxs/00Fj6pxAEGFCDV4nmBwnkZhNgCcb9QgUKDbgoHPDUcYEABhDpoJcbcrMTEUQnavdcaCE8OyO1y0FY6BsKTo1X4h3Y/HaZDD4zBeaQZ6OfnR1YxKEZQId4jQHhFZiBG6UF+z1GnIBRtmG4uX6qB0FGtgpA2grQ5CC2kB2F0LWQHRRj0amW5FhnE9VQgG5OiNuRVIMwtGFGlCZ+IWQtxvY6DKhdPiZiBuF5bQQjOlRJuMbdgIryW8YuYgbgegwLeY+JemKUtYlC0EdYMVM0NiZiBuJ4ehBZyBGKUDMKMrO/UjaLv1B0BYc1CR7XShxq9Mp6pLaI0kPzacG56vFcskgClR/soG/M2BeHabGpAhEHB/m5xL8xBNuahehBvTRmEBTQW7KFEyE0TI72UPOepAfMXTtDlMW1a4BEmjzLHIIyyRiDcGKs91jTegvBKj2u89cAUgfo3yqPtAzFKBgHB+yHeC8kYrHeMAUTefjAIc5DteUj12toRbMocgfSvDZ0b57Cx39mcE9fk/0rwGTsDBPV4U4+6e6+v0petKn3dvuUEhGJ8MlVkjBw9aP/tfB2IYwNktRiRHLQkQGidvwhqVoxIY/6X1sofS3lWxAKyJWUAAAAASUVORK5CYII=",
     "wiki_name": "Book of balance page set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_of_balance_page_set",
     "equipment": null,

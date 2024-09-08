@@ -1,7 +1,7 @@
 {
     "id": 4605,
     "name": "Snake charm",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-04",
     "duplicate": false,
     "examine": "Makes a hissing sound.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABo0lEQVR4Xu2WW0sCURSFnYcYFFFiRKnBvDGCGt5ITTJNUsSSEEzKqBBBukAEQfTzd6xjZy72GmdLuGCBjx977/k8Pt822/x5NFp1I6JRNxumohn4gWIH0+i6EhFQlXiQrKjfBeausmg0LBg2VD0RpPxegFKGTqW8aVc5FIDQfm6XmukQXXQLolglpmaGdfVQ4/IKanFzIqZ1aq0m1m5YlMvEBFA5mVQPhWKNmNb0skqjXpEK2X0OIMRZ3+tjR0zrblznBZJTel+ciz7ft2nQyXMcN+IAvc3PRD+WPXqYNHihRkVDwGBt6OdTnx9qvYCaT4/XoBTKEwfsrhsKjgJU9TBuVxmYNw4UdIDiL0fanUGgiEbLWUt4SsoTRu82s7wChTxh9NurIyFQGN1KRfmAUHyB8BTkiTtKH0T4gKAGiPPrZcD9fHGAMCFAyZeCfL7EQjv2V1grJdRASSCsDL/dzxfcE458MqxQq5ZRtUbvWiQUVIAj9+u6KMAUAXnlKcFgcgmD9lo5dUC/4wWSL09WIABIGDk1Z4osce7Ku1LGbAzIv8g3OcVpCQWbCGoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlklEQVR4Xu2W70vCUBSG3YcYiigxUWqYqExQQ1NSk5Y2UsSSEEwqqRBB+gERBNGff+K96266z3FPH/bCC/v4cM69z24kEibMn0cjt/8iGjmlJNXM2C8UO5hGN42UgGpk42Sloxtgm1UWjcZVw4Nq5+JU2YtR3tCpXjG9KocCEDos71K3kKBLpyqKVWJqZlJXDzU9cqFWt6diWmeWO7Fex6JyMaMaCHGhUKwR05pfNWkyqFG1tM8BhPjre3vqi2ktpm1eIDmlj9WF6MtDj0b9CsfhRnyg9+W56Od6QI+zDi/UpGYIGKwN/Xoe8kMFC6jl/CQAxSJPGR8KjgJU8zDrlQnMh4IOUPxypN0ZBIpotL63haekPGF0p1viFSjkCaPfXR8LgcLoVj7NB4TiBsJTkCfOUeEgxQcENUCc368j7ueLD4QJAUq+FOTzJZPY8W5hq55TAyWBsDJ8bz5fcJ5wyGfjBtmtogogZHstEgoqwCGP6roowBQBBeOCweQSBh3YZS4gZBtIvjxZgQAgYfyVskbZdQ/Dkx+KP0Uy1i94ngAAAABJRU5ErkJggg==",
     "wiki_name": "Snake charm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Snake_charm",
     "equipment": null,

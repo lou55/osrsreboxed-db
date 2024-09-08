@@ -1,7 +1,7 @@
 {
     "id": 904,
     "name": "Iron arrow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "Arrows with iron heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA/UlEQVR4Xu3TTwuCMBgG8A3pYOdAupgkGCT4J8guXr2Fh6Dv/1He2NbL3IZ2cu8gHxgSJP54fGTsf8JBnSDC4VZVcE7TEFAcHm0L16KAY5JIUJNllCgOz2GAuizlCQLUpxFc8lweYpDCHPbsux11yEEIuTc15bDNdvquox62buc9jtTDNtsRIOJhm9uxhy0wHkEuAHEI8YgRmW/HM0Tkdzv2HStna2cpWztLMQHub6/h8Ip3zusiakdjxFUcG2TfsWJczClitO2MsXo4YgjbwegR2xgiEGNzIPt/HqNe2fRLIwSZGPzKyEGIwWETgkTUfqbtEIP0sIPATLMG5gOQ3RbFRStKMgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA5UlEQVR4Xu2TPQvCMBCGE4pDnYXiEsFCBQutFaxL127SQfD//5Qr6RnyJW7mDuwDRwkE+vDmPSH+Bwk4LJBwbRo4KsVBSsK96+BcVbAvCh5Cj3GEtq6XYSE0qAxOZbkMsRDK7LbiLUJebBQyIrdLS1lsP52h76mLbdN5TRN1sf10tBBxsf3uxMVOSixg5Uj4lk5yQoE1HZdQYE3HJRRglc6nc1IkPPNN9FzkMvqrh1AoljlkgkpGI2HK8edGhjAdgy0xAxkXVkL4ZP6mkeHLmC0LbyXE3zRT7PBWYrA/DNIJYSXzO2ZqT9kREebpCwAAAABJRU5ErkJggg==",
     "wiki_name": "Iron arrow (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_arrow#Unpoisoned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17098,
     "name": "Undead chicken",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-12",
     "duplicate": true,
     "examine": "It looks at you with beady eyes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABi0lEQVR4Xu2XsUpDQRBFM4WF/oCFiJGgkESMCkGFoAQCQuIfWIgiCIIIgmghlmIjCgoqqYRgbWGl2IiV2PhFI3eWSTaPvE5nAnrhErLsYw93ZyYvmczfEnFwX4j4+nyXm1f7/QBFvLVe5+ODNYGZyWbFyV2GCulcnu20gZI7jEW8vdHwSkcLV+uE+OZij09PNj3SIV5ZLvDS/ASXS2MC8PJ0y1+fz/z2+uAHVCnneG5qlO/vDiUdFPPH+6MPUL1a5OripBzeah61k3KrHwDVKnmBKhVGJCmFModZrU0LDIw60qtzSIfkcKSDGhoaHOCF2XFJyAEGClcFGKSjNeMKo1YgBTGHwdWgdtQo5k5nmSsUcmwkBEiXrsIV9QKKuyv51C8pTOQ0oDghg5RIDk0DwvyJ2z359A+L5MBeQNpl8VR2A1IYrBmmA6UD4Tuczw37Aqkxf2IYA6DwexUDaVdhzRgG6gbSVwysOcBAHSB8wugoJxiIBADGFIYdYVTxPwq314tuKUDs5J5/Weob+Y+G5KdlHCMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4Xu2WwSuEURTF5y4s+AcsNEkTNWMyURNqoqkpNfwHFiKllJQSC1nKRhSFZqVkbTErspGVbPxFR+e+rm9G37d99ytz6jR9b3N/nXfuawqF/yVBcC4kuLnYQ+f6IA9Qgu2NNk4O1/MAQ4V0rs538wO0s7nqBWPFteGC28t9nJ1ueQAJVpYrWJqfRL02rgCv3Tt8f73g/e3JD6hRL2GuWsTD/ZGmwzJ/fjz7ALWb02guTunwx87xb1IOMFQAajXKClWrjGlSCVRUCdZaMwpDs0d2dS4wHM502KGR4SEszE5oQg4wVLgqwjCdpDOOMOYEyEWiV8PumFlmpxJToci9ZkKEdAAKV5UG5LBd4UXOAoqckOjQLCC+PxHXXXRgGpBtWeRCpwMZDM8ipkNlA/GbLpdGfYHMfH+iw3Cde4Fsq3gWGYbqB7K/GDxzgKESIP7S3CgnGEoUgOYrTDvCmDj8rwcaqE8/8FFGYSLMyXcAAAAASUVORK5CYII=",
     "wiki_name": "Undead chicken (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Undead_chicken_(item)",
     "equipment": null,

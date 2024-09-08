@@ -1,7 +1,7 @@
 {
     "id": 13513,
     "name": "Book of arcane knowledge",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": false,
     "examine": "Secrets you may benefit from learning.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQ0lEQVR4Xu2W30tTYRjHfTkcxkQc4lDccDpFpU2cDnFIKQN/NZMSw0gkoQsvuugiLOiiCy8Kb7qKlhAYUiYilggWlYUEQQTRhUX/zlPfR57Te87O5jn+gC584MM23Xmfz3me533PyspO4zT+i1BUnBMNZ7J9qqpiTCgUKeCYpAqTgpqaFhvhcFMBIqdzRCnFd4aFkCBrdNFF4yxNmYN0zRzhVzdKSWLNzsbGw0gpqgsnrTvDYueMDsoZGZo0sywkQOLhXJruTFdbUviOG8Fgy2GqpKgh0kuRmpQlAzJGgoaMbpow+21CAELzs/GCaukyuE4q5LNKitriw1Rfm2YpyEgLpG26hEjJe6eUiOlCzowHhKL2lnFqivaxlAgBfY50oXBvmKluq2aKCeHaQ7Us1XqZq4TWiVBt7RkWkjm6bo6yEF6dQlJBoyHDOIV8VklRfmGBpVAlSEEGQA5CWPxefcDCKQT0udKFcL3PKimavz3HQommHEtBJhJJcqVksO9WBpipsGkJOasEoWAuz993CvmuUmfbFaa1YYCaY1kWghiEsHApoWBH3gbahmtECGv4rtLK4hMWSjaPsRSEANqGhdEGkdKFgJsQEBkR8lElRY8e3LeqhNZBJhpNcdtECG1xEypWJRHC5gC+q5ROTDGoEp9NsTS3TT+xb5jjzKw5xmDX6ae4PtCxup6CB66vKq0tLdmkICRtkxMbErqUCIkMNoXzmabjo0qKnucfU3dymoWw6yAlbYMQkroJoZqYOzkuDsKXFIQESEnbRAgCN819WRF2Ul7R8Y/yhA1pm8fWKdp8uWIJoVJ4rGDhQDBO6ZhB2VaDckmDKip73Knoou/bOfq6OUKf14fo4+pgwXnkUQahaGN5mXraZxhIIQl+RiDBt63z9OPtKO19uER7OxP069NV+rkzyZ/xd/z/y6th2l0bpPcvBmj7WZZeP+2njcW+oz1sRSgU6rOEROD37gy/4vPeuwtcDYhgsPUdp+88HR/zI6Hozfo6y4gQeo+5EW4FrnArBZkngDPMyww5s5YIRVurq3ahvwunogZl4t5maL8K7vicIQn8vrZXSO7OC5K0GM5sHsN/omNIWjqcSU4s0Wl4iD+NwZZM+tkwZQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xu3W30tTYRgHcF8OhzERhzgcbjiZotImWw5xSCkDfzWTEkNpiEIXXnTRRVjQRRdeFN50FS0hMKRMRCwRLCoLCYIIoguL/p2nvo88x/ecbeZ2FAr2wpf5Y+d9P3ue97xnVVWVURn/xFBUPKc6nIsdpK4uzPH5gnk5IVT+okhDQ5stfn9LXgSnxyVK8SfDRFggbXTRJeMcZc1BmjFH+LVQjkK6AClq9MesT4bJzhtxyhgpmjTTDJIA8WA+Sben6y0U3lMoXm9bOShFzcFeCjYkLAySMqI0ZHTThNlvAyEALcxF8qqlY3BdGRgMRR2RYWoKJBkFjLRA2qYjBCU/O1ECcwXqbBunllAfowSE6PtIB/l7/Zz6jnpOMRCuLQOlKNF+hauE1gkoEDjDINlH18xRBuHVCZIKGs0pjmtQbnGRUagSUMAgwAGEye82eaw4QYi+r3QQri8RpWjh1jyDoi0ZRgETDMa4UrKx79R6OFm/aYGcVQLIm8nx+12AMBSd7ZjitDcPUGs4zSDAAMLER4G88ZwtaBuuERDmKBGlaHXpMYNirWOMAghB2zAx2iAoHYQUAiGCKQv08P49q0poHTChUILbJiC0pRCoWJUEhJsDKRmVjGY5qBKfTeEkt00/sa+b45w5c4yDu04/xfUNHW7scfPAVbS+vGxDASRtkxMbCB0lIMHgpnA+0/SUgFL0LPeIumPTDMJdB5S0DSAsWgiEamLfyXHxt5SEAkgClLRNQADcMA+wAnamuiZ+mOqoLSVgMBRtvVi1QKgUHiuY2OONUDJsULrdoEzMoJransKp6aJvOxn6sjVCnzaG6MPaoLvzaHNlhXo6ZzlAYRF8jcACX7cv0Pc3o7T//jLt707Qz49X6cfuJP+Ov+P/n18O0976IL17PkA7T9P06kk/bS71uXvYCsjn67NAAvi1N8uv+H3/7UWuBiDY2Podp995espAKXq9scEYAaH32DeSm54pbqVE9hOCM+wE9xCGou21NTvoz8SJkEGpyPH20MGixVLWwPdre4UOP91xcirDucipLVQZ/+f4DR65XPTCPxKlAAAAAElFTkSuQmCC",
     "wiki_name": "Book of arcane knowledge",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_of_arcane_knowledge",
     "equipment": null,

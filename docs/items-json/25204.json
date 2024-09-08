@@ -1,7 +1,7 @@
 {
     "id": 25204,
     "name": "Potion of power(3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": false,
     "examine": "Gives a helpful boost.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC10lEQVR4Xt2X309SYRjHfd3ZgXnXZXOVrWkz29ImgoBmiYoQOtQKJWKCEo5ADEGhWa1y5azVam6tVltzWV3kr6110dr6z76d9305h3MO3rQdDlvP9r2AAc+H7/d5Xl4aGv6PItCqrkUwP30G1/wnMeQ+jovnj9UbimDnjRvbr1xMS3PtCAdP1xOKKDAfNh3IzJ5FaOwUA+psaTEbis+MDPT+mR2pW20svjrME0FgbBLB4A3Fna0nNiRvtmLCewI9PS44XZfNhCKYmYlW6WpgEkPDAVwaGEZnp83M6KTtSiSZEokFRT5/EIMeH2w2J1rb2s0Fyi7lFGUyWaRSGXhHx9HrHMC5jgtobuazZBIQLYLPO19xcHCIvb197O7us7i6unqUoaYwpgLF47exsrKKUukeE42ru7u3HjC0CNLpRRSLxbJK8Az5Ybf3mR2VXAQrq0WNRrxjygyZuPK0CGLxBHK5PJaX88jnCyw6ejZdGRzVxKZ/Z42KIJlMYXFxSdm0SGQWoekIg+rrHzQfqOnXRkWHj9H0/T6s26uwflyG5UEEYsxrVmyENdcA/VjnQF9KHOhRFOK83wyXCKyfCloYGWjvYQVoPQZxIQAh7Km1S4Q1rgL6+ZQDfVurAN0ZhzDvq6VLhDlQBfN7kwNJc6QAbcxBzE2x2ITQQC1ckmDe3eXDK0OoRZ+TgaRILc8TEAvXNbEZ7FLZHT2IGkiaIwXo5QLEYojHFh2WXDL0bkRYDMwdPYha8qaVgSxrYW1somAUFGHfvAqA6s8LLj3Q6xRffVVsQsBhVHSENzsKRC062PLhuJXmm6aOLeiGMNJtnEtVAHqpgd5m2abJsVGHGh2VG6QxLqnX/Cin5LOIAkkbyRzKTkCY6kdjBwUwDEYufgtkjfVwFIg+Lp/WbH5oVL4a3x75B8r/uXSulc8i9sNa/h1TgxgOo65KgwqcXqaAHFXqxnrpX/uv9RfPb+T+vu2GnwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xt3W709SURgHcI+7uzDf9bK5fq1pM9vSBoKAhimIEDjUCjVyghCO+BUiP5rVKlfOWq3m1mq1NZfli0TdWi9aW//ZN8653MvlYu/g3s2zfV/AC86H53nOubet7Xgsgvpouggis+dxw3MaDttJXLl0QmsUwc47G7bfWFkySz2Y95/TEkUkzKdNM5KLFxDwndEKJMyMCPr4woT4nW7WPg3micDrm4bff0uqztYzI2K3uzDlOoWBASss1hE1UQRzcwsNue6dhsPpxVW7E319RnVBkWiMJRpdluL2+DE65obRaEFXd4+6oHQmKyWZTCMeT8I1MYlBix0Xey+js1OcJdUWwded7zg4OES5vI+9vX3Wrv7+AS2Gmi6CcPgu8vkCSqUHLLRdBsOgFhi6CBKJFIrFYjUljDk8MJmGtAPlC8W6jLt80gypjCIIhaPIZnNYWckhl1tlraN307XRCS3aRhCLxZFKZaSTFgwuIjAbZKih4VH1QR2/N2o5fIqOHw+h3y5A/3kFukdB8CGXWijCNq8D/VwXQN9KAujJAviIRw0Qgf7Laj1GBJUf10DrIfDLXnDzY61GEbZxA+jXcwG0u1YD3ZsEF3G3EkRYBRowfzYFUGWOJNDGEvjsDGsbF7C3AlXBfLgvDK+IkId+J4IqLdW9jIJfvdnKtlWro4TIQZU5kkCvl8EXA0LbFpyVKo00E0VYG1h1lBB5xJNWBenW5uvbxnPNQhH2zxsANH9fCVGC3saFoy9rG+c1Nw/ENjsKIg8dbPFy3EoIJ03eNr8N3LihiSglQBk56H2anTSxbbRC7eamvkHKHhX/q5R4F1FQ5USyCqWnwM0Mo733bDMx4qI/SISNlTgKop+rtzWbH9oqtypvj+IGiqpV7yL2YJWeYy2FHLVquMYcw/UP8Uev89h2tskAAAAASUVORK5CYII=",
     "wiki_name": "Potion of power (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Potion_of_power#3_dose",
     "equipment": null,

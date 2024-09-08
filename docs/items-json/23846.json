@@ -1,7 +1,7 @@
 {
     "id": 23846,
     "name": "Corrupted legs (basic)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A resilient set of leg armour with a little protection from corrupted creatures.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRklEQVR4Xt2Y70taYRTHe15EJKGIkqioaTipFf2gVkI/BEnXamspUk0LimpvohcOMmEQUhEEvakogpjsRYw2xhgUMbb/7TvPkcfq0st1z+gLB78X7uV++J7z3OfBurqnIYWHS0QKQZsVPmsT3E0WOBsbYWtogKW+XgJK4fvFBQ5KJZQ2Nrg+n51h60MeqYkJBupuaTELSuHH5SXeZDIYm5xEfPwVF10f7e3hYz6P97mc2SkpBtAwusanpxFLvqwlZGpKRqDRsQTX4MiI2S0jKbydmWWQ4XicfymZvmgUPQMDskAEQUW+q68fbR0d8kDP2tt5wCkdfygkA0QzpNvUGokgOTXF/r8ACobDvMLIewMBGaB0NsdANDOUCrXwxdAQPF6fDNDc0hJ2ikWGoVQy8wsM5HK7ZYCyy8v4+e0rRqODnMr86ipfJ2Mxs4EUjvf38aVcRpfPi5DTid7OTpwfHiLc3Ix3qRReJxIMZXzyEVU9ZoTtdt7hyUccDt75adfXCZmaUq/bxRB09CCoh4CMTz2iFH5fX+PT8REKa2vcMmpjcX0duXRaBujX1RXKJyd8Flqcm2W47UIBK9msDNCfmxuUT08ZwlVpFcHtbm6yFwAiVebI74PfYYe1MjfkPTYbezEgWvYEpOEISGCFaSk893hqQP3BwD0g490m6D4QlThQW+VbpIeYWiY40CTF24bDYqm1THtRIL2qKC3BFUaqAukZIk8zpFMy3m2CqkNNO/xdrwHFUrp9+e2fDULfoaruvlz7fwHzFwqQrXpPLSMVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACH0lEQVR4Xt2W30taARTHuw8RSSiiJCoqOpzUiij6JbQSJF2rraXIKi0o+vESPRhkwmDINoJgLxVFMCZ7iFExxqCIUf/bd36P3La1vXZP9IWD3ws+fDjne+65DQ0PQwb+XyoyEHbYEbC3wNtig7u5GY6mJtgaGzWgDHw7PsbHSgWVzU2pL0dHeLtRRGZ83GogA99PTvAyl8PoxASSY8+l+Ly3vY03xSJWCwXroQhgwpg1NjWFRPqZ1TDUv0AjoympweFhHaBXr6cF5GkyKb/sTG88ju6BAV0gQrDou3r70NbRoQ/0uL1dAs7uBCMRHSBmyBzTo1gM6clJ8fcCKByNyobR+0MhHaBsviBAzAy7whH2Dw3B5w/oAM0sLuJ9uSww7Epubl6APF6vDlB+aQk/zk4xEh+UrsytrMhzOpGwGsjA/s4Ovlar6Ar4EXG70dPZiU+7u4i2tmI2k8GLVMp6KFbU6ZQLTx9zueTy8+pbDEMZ6PF6BIKfHoRSB7q6uMDn/T2U1tZkZBxjeX0dhWxWB+jn+TmqBwfyLbQwMy1w70olLOfzOkDXl5eoHh4KhKc2KsJ92NoSrwBE1XIUDCDocsJeyw29z+EQrwbEtSeQCUcgJRjKwBOf7waoLxy6X0AsdaC22rvIDDFHphhoypCz4bLZbkZm+tv/tEh1IHOr2C3FDaPqQGaG6JkhxS7VQ80L/6f/HXIV1bfrb68Gc7f6Bbrre01BDa5UAAAAAElFTkSuQmCC",
     "wiki_name": "Corrupted legs (basic)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_legs_(basic)",
     "equipment": {

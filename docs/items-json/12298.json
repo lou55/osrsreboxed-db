@@ -1,7 +1,7 @@
 {
     "id": 12298,
     "name": "Black pickaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Used for mining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xs3V20sVURTH8TlPkogiHhJ7yeee+k8qioqKpKKiiCCKQqToItINQexChYIhJlJGEBVFUX/Zju8MvzlrVnumGc8UbljMbQ/7M2vtvSdJtn/rhHjEnv/z1gmPZg6GB9MH0pi7sT/MXtuXhhCrC6fCyvxUWH58MoLyH9E3PAMJBUjhMUsPT4Tnc8cKA3PNMx9FVCNkJ8zfPPQHiiMQhUBPZ4+GhduH074cYyD6W/T3jZnwde3q1lACca7sCPTy/vEUpL5lIN77tj4dfm7eCb8276Ugxtg7OZmGH921LO36aoEYNAZavHsk/3LOY6C1xdMFEOcC+dFd6xTKAEKTm2sP0vzZPZaEPRNJeh4DbTw72x5IWbJzwMbI8HAYGx0NO7vd9JqsedC7F+dyENEIpHlhQdzfMTAQDbIDamJ8vBT0/tX5IujN9f5AZRnqDiVh10gGGhocTDOlZxb0YelCuyCCUjKHNI/oC8aCFCofQd9PK5dy0I+3t3JMY5BF8aUC2ewQNmu2nCrj59eXoyA/eknrLeEqkMXwnH52CyBsGbcIypYtGSoDxbIjEO9RWs0dwb6sXslBdlP0o7uWLfkYiLAgjykDMX94pzWQUAQDsOP+DWRXV6sgmyWOKkEZpgy0/uRMDmKXFqYWiBUWA+l30BREdvht2AzVzA6tB/LziPsew/0qkMrFb6M1kFAxkN00ObeZtCB2aQsSyo8eaRkoVjYL4sjzOiAWwcflizmIPajBPlQE2bIJw4+Uc+77cnkQ2ekbxCqrAnFkMO7FQPrTq1ytgXzZuM9zBmBAP6G1V/EefQViyVsQe1DjfShWNg0CiPMqkJ0/rYBiZbMgnsUmNKHfhsrVJ4jW+1NXhZ8/Cg9iU7QgRQNQkmhbrwoPtGHnTyugus0j62AVvb7/qXlkLPw727r9BqKdWHV4RlbvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmklEQVR4Xu3V7UsVQRTH8b2vRBFFvCT2xvf9MxlFRUVRUZFIEEUhUvQg0hOC2AMWCoaYSBlBVBRF/WUT311+y9m5s+vO3S160cBh5+7O3v3sOTOzSfLvt44LR+j6H28d93j+sHs4dyiNxZvTbuH6wTSE2Fw+6zaWzrj1J6cDKP8lGsMzkFCAFD5m7dEp92LxROHB/OaaH0VUFLLjlm4d6UFxBKIQ6NnCcbd852g6lmMIxHiL/r4z775uXesPJRB9ZUeglw9OpiCNLQNx37ftOfdz9677tXs/BUVh+FO9tUA8NARauXcsf3P6IdDWyrkCiH5NUKdQBhCa3Pz2QZo/U+OJOzCZpP0QaOf5hfZAypKdAzZGR0bc+NiY29ftpr/Jmg96t3oxBxFRIM0LC+L84MBAMMgOqMmJiVLQ+1eXiqA3N5qByjLUHU7c/tEMNDw0lGZK1yzow9rldkEEpWQOaR4xFowFKVQ+grGfNmZz0I+3t+tiaEWQRfGmAtnsEDZrtpwq4+fXV/oF0bI/ZglXgSyG64yzWwBhy9gnKFu2ZKgMFMqOQNxHaTV3BPuyeTUHRWyK2ZIPgQgL8jFlIOYP97QGEorgAey4e4Hs6moVZLPEUSUow5SBtp+ez0Hs0jUxtGyFhUD6HMSCyA6fDZuhvkD+POK8j+F8FUjl4rPRGkioEMhumvRtJi2IXdqCIlAZKFQ2C+LI9TogFsHH9ZkcxB4UsQ8VQbZswvAhpc95v1w+iOw0BrHKqkAceRjnQiB96VWu1kB+2TjPdR7AA/0Jrb2K+xgrEEvegtiDovehUNn0EED0q0B2/rQCCpXNgrgWmtCEPhsqV0MQjYF7hz9/FD6ITdGCFBGguq0XqbDz5y+Cqlovsjf+t2btN1iZDelOeimMAAAAAElFTkSuQmCC",
     "wiki_name": "Black pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_pickaxe",
     "equipment": null,

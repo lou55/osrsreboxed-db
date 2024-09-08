@@ -1,7 +1,7 @@
 {
     "id": 19454,
     "name": "Unfinished potion",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-18",
     "duplicate": true,
     "examine": "I need another ingredient to finish this potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xt2X/09SURjGPX9Cv7Q1+2JfNNFKyBASTS0lhNBAy0Snk5Rp2B1mhlhzbmnTtKZzNqez2syyVCC/pzD7z558z+1e4covbXDZerdnY2eM8+E5z/ueezMy/o9iiFdai6Gj8SIe2M6iquQUrl85kW4ohq/TJVicNHH1tGvQ5DifTigmwyyMGyG0XcajmnMcSJuVpTaUmBkJaH7UAG9LDj++NOSJwV5TB4ejQXZnZliPzuZsOC1nUFRkQrGpQk0oBper9Zju2etQZbajrNwMrVav5tEddpenk8vj6ZJltTlwp9IKvb4Y2TkadYF8Pb2yBMEHr1eApboWN4vLkZdfgMxMMUsqAVExLC19Qzi8jlAojGAwzI9LpyuSQ00wqgK1uTvg9/djYOAlFx1XYaExHTBUDN3dAgKBwF8NyPlR+aikYvh9MMEd8vcHuOjIDIZS5GquqtnyVAxbmwIOom/j9P7dbfQ+06O+PldNlxhWvt9HNDISB0Nr01NV8L8workpD3b7JbVcYtje7kU0Ohqn1R9OzM1aMDhogrvtmlouMayt1COyP8QdigWi9Y8LVowM30JXpw6uRlVcOnRnyyfCKBRcbcCXRTvGxsohPC3kLjmdOal0ifFN93ZfIRJ5fRxozYXl5RpMTVai77kBng4td8lmvZAqlxg2N7wcJpFCwWYe7JlpMwL9Ru5Sa0t+qlxi3IHdHT/PD5cSKNTKgz0/V42hoRLe/uRSw0NNKlxi2PjpOYJJoHDIzYP9+ZMNo2/KuEveJzruUm1tdjJdEjuLWn1/bzBOsUDr4XY52BPjFbJLj90F3KVqS9KetRn/90oYpchBKdg0IKn9aUiSSzQok+iSeE1QdyWSDLTeJQd79oOZu0RD0ue7wV2iQWm5m0SXlCBKUQdKwaYBSe0vuUQ5Ki09LTuUFJd2tvtkUbeRfu0EZJGLUrClHNE8olmk051MJoxU4lMgbUzTmkIuwREQrUnBlmCk3KQARizxB6V3LvGSlaDoMwVbujqUIEmHia2jDY7glFIFJFHFbqyU8rv/Wn8A5BBfvRAkHAMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4Xt2V7U9SYRjGff6EvrQ1e5mVJlopGUKiqaWEEBpomeh0kjANY5gZYs25pU3Tms7ZnM5qM8tSgXxPYfafXXU/9BwF+Xg4Z/Pero2dD/Dj91zPfTIyTsYwJEbVYXA3XcJD63lUl57Bjaun1IZi+DZdisVJI09PhwbN9iw1oZgEszBugK/9Ch7XXlALKN4ZATQ/qoe3NYcfnwp9YrDV1sNub5TszAzr0NmSDYf5HIqLjSgxVioJxeB0th3LfVs9qk02lFeYUFioUxbI7enk8Xi6pFisdtytskCnK0F2jkZZIH9PrxSfzw+v1wdzTR1ulVQgL78AmZmiS4oNw9LSd0Qi6wiHIwiFIvy4tNpiNUpNw9DuciMQ6MfAwCseOq6iIoMaMDQM3d0+BIPB/xmQ+qMa0J+DCW4o0B/koSPT68uQq7mmNBTD1qYPB7F3Cfnw/g56n+vQ0JCrJBDDyo8HiEVHEmDo2fRUNQIvDWhpzoPNdlkpKIbt7V7EYqMJWf3pwNysGYODRrjarytliWFtpQHR/SFu6CgQPf+0YMHI8G10dWrhbFLE0j87W/44TFJCq434umjD2FgFfM+KuCWHIyedQIz/6N7ua0Sjb44DrTmxvFyLqckq9L3Qw+Mu5JaslovpgmLY3PBymFQJh1p4sWemTQj2G7ilttb8dFli3MDuToD3hycZKNzGiz0/V4OhoVJ+/clS4yNNOiwxbPzyHMKkSCTs4sX+8tmK0bfl3JL3qZZbqqvLlhMofrPoqu/vDSbkKNB6pEMq9sR4pWTpiauAW6oxZ8kFxfi/T4ZJDhkUxaYFSdefliRZokUpo6X4a4JuV6pIQOtdUrFnP5q4JVqSfv9NbokWpfmejJaSQZJDN1AUmxYkXX9hiXpUVnZWLhgahp3tPil02yi/d4JSyKIotugR7SPaRVrtaTlhxNAXxo+PtjWVXMARED0TxRYwh72RHeboiB+Iv2QFFH2mYotXhwIgqeYQ7nhO4PwFXJAqso7bZDUAAAAASUVORK5CYII=",
     "wiki_name": "Unfinished potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unfinished_potion",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8310,
     "name": "Wooden chair",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAUlEQVR4Xu2W70dDYRTH79WLbP9AlNpqVvZDW7OtTVuMShnJmMqoTKlMqUzKVMpE9CISkYiI6H88+T5P5+7ebdKL3ed50+Hr/po9n3u+55znGsZ/uB4mtd9RFFi4U2tzvp9zpWFSJuqh+nqYbnfj9FxP01sjS1/NPG0ujgmguN+vEsqkVKifPq5ytJTxOrSzHNADFA92B6qVxvUARce6Ax2vhnQAIcyuQKgrrUAoZLvOKhF9QNxZ0OdNTuhyK6oP6PU8I2Dm015L19VJfUCYP+8XM1RIeCxhLmkDejpJ0cvpNOVjHktaLXs4SNLjUVJMbRa6rFqU01pKWZh0X0vQ3f6UqJtYoE8o7DMoOGSQb0BKIZgpQGCRHYaB7FAtMFdDtj1nCcXc3I5ZkFBjIyLmkqLZJLuMjyhw1BOE2mKrAFtZGFUDhMVx3FsJiqldzA4KmMPyhAUEWEUbrnx7HAEAoNLssMgU72dsK6xzGcgUA5GnMgBwXS6MiIxwzfDvGNxVIGwb/OY4IhOoFdzn4Qghc7CWbWv/px6FnNL87YNMAQSfrwDDNX/KQsiay7bJoYhixjkswRbCn68subgpninY41oLo7Pau4mFa2RNQR0ZBi8I+wDE7e5cVBY2oNm21jNXQlpib/fOLDht7Hze05CWoJN+K1ynja6H0gz8LRRnQF98A/tR8U3bftcFAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB60lEQVR4Xu2W70dDURjH79WLbP9AlJo2K/uhrdnWpi1GpYxkTGVUplSmVCZlKmUiehGJSERE9D8++Z6nc+/ubdGL7jlv9uVx7i/3fu55vs9zjmH05LlMcl9RJHz4Z6zOBr6PlcqkXNxHzbUo3ewk6amZpddWnj7bRdpYCOoBykT66f2yQIs5vyO2l0J6gJLh7kCNypgeoHiwO9DRSkQHEGR2BYKvtALByJ1xWovpA5KVhfi4Loi42IzrA3o5ywmYuazfiqv6hD4g9J+382kqpXxWoC9pA3o8ztDzyRQVEz4rtKbsfj9ND4dp0bVloMrqZdmtlYKZdNdI0e3epPBNItQnIhowKDxkUGCAQyGYKUCQok4YCdQJZYN5Ki57OUswc3srYUEiWusx0ZcU9SauMjnC4PATAt6SqQJsbX5UDRA+jnF3OSy6djk/KGAOquMWEGAVLbj89xgBAKDKzLCYKXs947QidR4DmaIhyq4MAJxXSyNiRmzP8HMS3P2WfxQvG/LPMWIm4BVct5sjL8BIrcdp4y4t9z6YKYBg+wownNtbWfaRx2njpggz4xgpwRJib19l8LO4p2CNsz+Myvq9mtjYCnwkxekDkF3uzvswNqA9TpsUp8RZ7m650+ipOCWoJEUz8BcpnYGeHPoC7Ly9sdCO9A4AAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

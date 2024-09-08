@@ -1,7 +1,7 @@
 {
     "id": 11955,
     "name": "Extended antifire(2)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-03-27",
     "duplicate": false,
     "examine": "2 doses of extended anti-firebreath potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xt2X60vTURzGPRCYssyhbri5zTWmOW9zts02TcULXtpszulcmpY1Zst5d84oCASjKIrqlRSUaEKgZhBEEQVShBD0qjf9L087Z+63SxoEP3+DvvCwN+N3Pnue53y3paX9H0OQqJQOwZV+DVydSrTU5sNQJk41FMHao1qsPLAyTV4uwXmHOpVQhIN5ercGgYvFcNtVDEhfWCg0VKQzUaDl22b4LxSx+FLQJwKb3QmHo49z58miEb4BLbrbFDCZrLBYG4WEIvB4hv7QWZsTLa021De0Qq83Chld+HZ5fUxe7yinjk4Hmpo7YDRaoC0qERZoYnKaUyAwAb8/gLb2Lpy2NEBXWgm5PNIlgYDoEKyuvsTW1jY2N7ewsbHF4qqqMnGlpjCCAl0a8SIYnMfCwnUmGld1dU0qYOgQjI2NIxQK7WmB64/AUUWHIDgfShCNzGyuQ3GxTsgrT4fA5/Njbi6YIFpqun/KyquEdilyy2ZmZjm5+wfZsqQ7KFpsgYAI2znT0zNxmmWLsdvZx3pEN3V5hUGo2AhGr17jdtDUVEQDg8Po7fVwsRkMZiFcIhgaGmG3a3x8ErrjI9CIXFBktkCSbkSfe4CLjZa7orL6sF0iaJdvoEW2isb8ZdRJH6JGsgRDTghlYj9KsoahzXJDJbJDntEIaUZsJyU/iYchaJWto0f1FQ7lZ3Qp36NDvo02+SsG2JT/DGekj1EruQ9z7iJO5dyAXjzFQA/BJYLm/OfoLHiDbuUOBjW/4DnxE271D7hUu3Cqdhggda9Z9oJzTy+exsmwa4fgEmFOdCk+wqn8sq/sig9hx16HXVxDg3QZNXlLDEiXNYLirEE+XSLhSFZgU7xDT+G3A0VhqYPxQFU5cyjNHkVRGOhImogvKMI+OXUhHsBVuJugGNB6HNA8yrPHWGwaUQ9f0RF2WDJAshzKT7AVvOWALHl3YMy9GYkt2wvtMQ+UmR38udSr/v5X0bLHA1kl92DKvcViow7JjtZzDvHi0n5xHQTUGF4B1CEKQ/uTmx77suUBJjqRX4H04OjNiodjQOHi09sYhVGLzu1FxDtMZCIPjP7nIglg9JUCURha5GQQ3mHiJ3ZADC5ZgoDsN/EHJyv5vf86vwEfJtALa1doQgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4Xt3V60uTcRQHcH8QmLKW4tzQuU0TXc7bNtulTVPRiZc2m/Myl0trOWbLeZm3GQWBYBRFUb2SghJNCHQZBFFEgRQhBL3qTf/Lt/1+usfNS6+2Z+CBL3u357NzznOWlnY8iiA+KS2C4f5i9HTIYanNg7YiO9UogtWntVh+bGaZuF6Gy/aiVKIIh3nxwIjAVSWcNkWqQDs7EwUt3TPAf6WUjS8F+0RgtTlgt/dx3Xm+oINvoARdrTLo9WaYzI18oghcrsEDuWh1wNJiRX1DC9RqHb+gYa+Pxesd4dLeYUdTczt0OhNKSsv4BY1PBLkEAuPw+wNobevEeVMDVOXVkEqju8RbEaysvEE4vImNjTDW18NsXBqNPhVLTYvgmseL2dk5zM/fYqHjqqkxpgJDi2B0dAyhUGg389z+pAw0OxeKCx2ZwVAHpVLFN4rA5/NjZmY2LnSp6f2pqNTwD6Jv19TUNBdnv5sdS3qD9hablyLs5gSDUzGZZoexy9HH9ohe6soqLV8ogpEbN7kbNDm5kwH3EHp7XdzYtFoDHyCCwUEPe7vGxiagOu1BsaAHskwLxOk69DkHuLHR5a6qrkk2iqBNug5L/goa85ZQJ3kCo3gR2pwQKrL9KBMOoUTohEJggzSjEZKMpN4kgpb8NXQrfsAu/4ZO+Se0SzfRKn3LgE15L3FB8gy14kcwiBZwLuc21NmTDJoEFEFz3it0FLxHl3wL7uK/cJ35A2fRb/QotuFQbDEg7V5z/muue+rsIM5GupYUEO1Ep+wLHPLvh8Ym+xzp2LtIF1fRIFmCMXeRgVRCD5RCdyJRJDKSZVhlH9Fd+PPIUCztYCxIkzOD8qwRlEZAJ9IEiUIR9stpF2IBPYXbcdkDrcWA5lCZNcrGVizoThyIPmw/YH/s8q+wFnzgQKbc+9CJ7uyMLcuLklMuyDPbE4fqLfr139BljwWZxQ+hF91lY6Mdyj9ZnygMLXLouI4CNUZOAO0QxdD9EaUn5c+WfiFhD46+WbE4BoosPn0bo5giwaVdSMIxsRV9AImD0U8Kohi6yDxADqs93MEcw/oHQP6bAIIu/jsAAAAASUVORK5CYII=",
     "wiki_name": "Extended antifire (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Extended_antifire#2_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 7791,
     "name": "Mining tome",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": false,
     "examine": "A tome of learning which focuses on the Mining skill.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4XtWX30+SURzGPZfetDG9YW3NdLMZDbKZ2QTEMUKlIYgQEZIj5syZZmaWmmPM5bKt1dZt9/2X3/YcOofve/jhywFbfbfnQoacz/s8z3nf8w4M/L8jqK5/YgSFgzMUjYT+QJn6qyNovfhEwvj991qqGfBKIQVlUglaiEUoELjvWs2AfYEVtLe9QUvxKE1OPuhZ+dWUdLsHKEEb5TVaTsRpauphTwIQLizg90mguyMj3UIJOni9RYVcWkY2PR3UUovwzy4TYpyYuKNhrIGyK0mamQk7xBdKpfJa6jPz+xCAhoev27qDEfRqs0zFfIZmZyNaagEOYi5uCpDYjYOD12yBBB293ZEFLBWyFApFtQDFYThsOyFexOW8TXQ1daBy6SnNzT3SAhCHgThsOwEIcSmYLjskqHq0T/s7m1RZf0aRyIKWCWNCcXglOIT+IK6xsVs2kdWBXlaeUzS6pMUBAIfF1N8mBBc6pOKyKLWgT9UPdPp+TxY6FnuspRZXgKZr3EkuFBogllte0NnpoezP7laF4vFlLSyq4Lhz3D3zczjUc1wAQn8WF9MOcTjunAnFwQHk8wUklMfj7RZI0MXZR6qdHMgbYiKR0XILx6Eg9AdxAcoqrvPasSz04ZttSiazWu3gOJgZL1zD8wtxjY/f7t6db59rEgiF5lfJwTrBmeo5rq/nVbnD4FB6paDlFs4ERVxe76j9zVABodCZTFHLBg59UnHx7W6u2mHqT3Z0B1s+GExLhcKrVnA9xoURsjs493w5ztCvHy+0ANUKsB0cHEJcKLJlXBhBJ+925ekQd2i4xaG45ufxqMg5ADkc4sIZamjI49ju5ooupn4AVx1SV676ge3886LYpFhsTUMCUJ2h0CHLuBpT/0chf1wpmy05ANUughN4Vn2v5pqkjqyWcbWaxisLhzMB4Z66Qapnlzr/8P6Yv241jStzvlO1AuTuAQylHr15o79AfBScG0A4Bpf6GNfl0wkQx168Ol2ZO26mFaCtO78BOwCHcKj/oXMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4XtWX70tTURjHPS99Ewx9M4IgBcMWG4bZwm1Oxpq6mJvXrbXmkjXExJ+ZWWoyhiQZREFve99/+cT3rHN67tmm27lq9cDnhZfN87nP8z33nvX1/b8lqMk/UYJikTAl4tHfUibXWoKWy0+lTDB4vy2tglcqKcjJpmkmGadQ6EHXtApeiqygnfUVmkslaGzsoWeKi1nZbQ9SglaqSzSfTtH4+CNPQAg3FgoGbIUE7W2vUamQkyObmIho1CL82kVgjKOj92xlUE2h/EKGwuGYC75QNlvUqGvm5wGEBgdvehPaWK1SuejQ5GRcoxbgIubiJpDEbuzvv2ErJOjgzaYMYKWUp2g0oYEUl+GyncB4MS73Y6KnagpVK89oauqxBkJcBnDZTkAI47KWqR/s0u7mKtWWn1M8PqMxZUwpLq9Ah5AfjGt4+I690KvaC0ok5jRcAHJYTP1tSnCQITUui1AL+lh/T8fvdmSgk8knGrW4EjS7xjvJQaAhYrnlBZ0c78v8bK3VKJWa12BRJcc7x7tnXkeHPI8LQsjP7GzOBZfjnTOluDiEAoGQlPL5/L0KCTo7+UCNoz35QEynHU23clwKID8YF6R6lEEJOm0cykDvv16nTCav6STHxczxomt4f2FcIyN3exUS9PVTQwoh0Pwuudh5ciaex/XltC53GDqUWyhpupUzRTEuv3/I/mGohBBoxylrbOSQJzUu6+2OICM72PKRSE4SjS1ayXkcF0rI7ODc8/nQoZ/fX2og1U6wkxw6hHEhyJbjQgk6erslT4d4QqNbXIozPY1XRcElyOUwLpyhBgZ8tttdFb4odIbUnat8YDv/OCu3kEwuaUkIqjMUMmQ5LrOE/OeKfL7iElS7CJ3Au+pbvdCCOrJegoyqZrdMOVMQ3VMPSPXuUucfD/m5qP7IdRLk3YMYQj10+9ZVCZl1viA6hi5dk0y7cgvi2IufTn9RyCwlZ1e/AP1+RX4NT4aEAAAAAElFTkSuQmCC",
     "wiki_name": "Mining tome (Blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_tome#Blue",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 311,
     "name": "Harpoon",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": false,
     "examine": "Useful for catching really big fish.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABj0lEQVR4Xs2WXUsCQRiFd1j2LwTRhRIUVBdmkBpqGma2EYaWiVn5UZSaCRER9OdPnBlGd+26eT3w3i3sw/lY9bx/k0L8nCsOcNds4PG2hVa9jqtazTWU0i8fdjp47nYx7vXw/jTUUJfVqj4+s59MuoXi3d9c423Q1zAXpxWcn5Tn59glSmkYQtGVSrGIQiaDs1JJn2OXlI6p326jEYYa5jiXi/WKMI6AFD5eX/A5GukSM55yPo9sOh0DcQbzNZngezrFz2yGasrX8Vh3HIJEZSKpH/rYWve0M+yO485EpdA6CpDd9qU6E5XCoBKgvGdgon0RgKGU7s3uhicZkZVCmPZR2Im7s/yUI5neMCoWWdgdhYdSoKNKJVbEHUbFVa2EO/zesDeJtQWMEJBCM2t6c7Ap7s6iN8tRiQHZiRNG+LtjesOouCphd0xvGBV7I1xkhU4xmE+cMYkX2U58ZaKyE2dUgkU2v1PRiYu7YydOV4TdoQyQjUrYHcqU2cYl7A5lOmQjE3bHSvzP+l9ZEJcwv7xJUqJc7zvnAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcUlEQVR4XuWV20oCURiFZzPMKwTRhRAUVBcyQWqozYSZTcSElolZeSjKzISICHr5FWtvtocHaP4NLfiv52Md9njen0lh9TLXKsBtq4mHmzbaaYrLRiNrKKU/Pup28dTr4bXfx/vjSENd1Ov6MgaijDN311d4Gw40zPlJDWfH8fxEoAhDKLpSq1ZRKRRwGkX6MgZSOqZBp4NmkmiYo1JJqtgKHy/P+ByPdYkZT1wuoxiGWYNQCl+TCb6nU/zMZqjnfR3Pwh0RmUjSAx9b6552ht0RBWofBihu+1KdWZbCsBYg3rMw4lK6N7sbngtACknoo7LjhDumN4yKRRYGUriPAh1VPueIO4yKq3LCHb437E1uzQGYVtH0Zn9T3J1Fb5yJyk6cMMLvjukNo+KqhN0xvWFU7I1wkRW61WA+ccYk7o6duDNR2YkzKsEim//U8sTF3bETpyvC7lAGyEYl7A5lymzjEnaHMh2ykQnDWBHC3j/WL880CvQimwhBAAAAAElFTkSuQmCC",
     "wiki_name": "Harpoon",
     "wiki_url": "https://oldschool.runescape.wiki/w/Harpoon",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 542,
     "name": "Monk's robe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-07-12",
     "duplicate": false,
     "examine": "Keeps a monk's knees nice and warm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWElEQVR4XuXXwWrCQBAG4CwioSEYJGKwIo2ChVoQhSIt6sGDh4IHD4LgQfDQ93+Ev0xkJW43skl2k1gH9jp87MxkJ5b1P4JBfkoJhnHXwajjoO/b6Ho2fKcG166VhWLYTlr4fvexHHqYvbgRcNh+ikCTMCwaxbD/aF9Qq1cPX4MGpj23DBDDYRZEoN20hc3Yx/qtebkpKmGBZWM4fgZXIPGWCFVQLzGc5h0lEDV4AaVTB9HUVQJEfUQo3keVAdH3qXQQTVoc9Wgghp/FcyKIvkUiKmjUTY5+epDhxk4G3UIZBRGmciDCVA5EGFUQf0LEbDlD3j8qID5pmm9J3j8qIENvWnaQodHPDjK00sonLI5KAhl4ZP/eThoQLf68j8TMGUMOEsuWBKKlX3Mf5QPR9qi5j65BsrLdAhla1s6/yFlBHKMRZFnnZOI/vNrRjokHT572iHnuLn4Bv96M7Uklb64AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABO0lEQVR4Xu3XQWvCMBQH8IYixVJaRsTiiowJClOQCSKO6WGHHQY77DAY7CDs4Pf/CP/xFKTWVNKa14TNB7mWH8n/Ja+e9zdKQL2slMA0CzHuhbiXAbIkgAx9RIFvCyXw8djB20RiPUywuIt2wGG3bQ/0Ne8eUC+jBE+DGLN+ZAMk8L1Id6DPWQfvU4nXh5vDTtERNogS2CzTI1BxlwjVUJYEfp57WiAKuFMg6jonQJQjQjWUI30Q3U/WQdRpedR/AwlsV7elILqLiqg0bnGiqoOYg10OOodiBRHGORBhnAMRRhfE9ISo86MDYuo0dX50QExvWn0QU+vXBzGNtOoOy6PKQAyP7OnuVAHR4G84R2pQ8djKQDT0G87RZSCaHg3n6BikOrZzIKZhjT62/9uoAzKMydceVn1dy3z9AuOxVQRSwRb+AAAAAElFTkSuQmCC",
     "wiki_name": "Monk's robe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Monk's_robe",
     "equipment": {

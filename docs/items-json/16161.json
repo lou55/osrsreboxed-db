@@ -1,7 +1,7 @@
 {
     "id": 16161,
     "name": "Rellekka teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-09-26",
     "duplicate": true,
     "examine": "This tablet has been redirected to the Rellekka portal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xu2X30sUURzFnaeeJUlSMk0yzPBHmBlmGmZmhmlmamaamZqZZmaLESERvfpWDxL4EPTS//iNc+UMZ++O253ZfQm6cFh2vDP34/me+527FRX/R0kjsvKoLCOy611ddq2z0+lqR4ddaW9zutza6tTW0mKXmpudLjY1OV1obLTzDQ1O5+rqnMoAFdlAb2+s/p4epxvd3Q4yDeipqioH1F5fnxUqsru3Bpzu3OzP0+2+vlghoGdqakoFimx8eNjp/tBQrHuDg3kC7ImVvViEVUdRKgXKkKnIpsfGnCZHR2NNjIzEAqiC+CIwsoQMna2ttdPV1XaystLBUYFQhUAK4y/uu6d/Q3YQbrjELCFb+ARkYAmPgJLcSQIJKSVKx/whXwg7d11qIB9Gc+W7BXEj0BFcQ57wDFxH8OFSKqDHD8aPhfHzU8wZAvFezCEQspUKCC4pkA8Dh34fHhaI7mAOFoc7CoTyoVchW6mB4JL+hywTcwMAOgMRSp0hEO/Dd/SmTEDFYAhEGDbQn9+/5eXHzxuB0BKCgZ48nHBQSUCaGb9cvw4O7Mf+voNh99Z7+Dx0cMwpKxBLRGdYKkphNOyYmxlIy6a2a2awAB5+HBDnEkZ7UTDQ00eTBUDqkgIRgCVkxjgPAHwGX8jc+qmA6JLuNHUJi+I7QPl+08CrIwqDUJcE5JfNb4yEUQcpdcc/V6EXZQZSl5KuqbQvqTt6boKw9YOBFqam4hxBgIN0YX210B2WTHeVusNDHJQJiJ8ESnJHy+WHWQ9seqqEsPWDgRZnZmIYLZ8C0aEkdwj0t2NuMNDmiyVbnpuzpdlZpxDAYuVLAkxVsr1327aztmavni04vZyfDwLUk2YxQEARJgAI4wjq45tN+7CxYbn1dQe4vbpqWyvLTnDx9fPFGFihCawZpKOATQnDEdnX3V37ksvZ5/c7DvDT2y0nH1RhFTTJ3YwwHP7PltJVAszR4APKKX+Nf2L8ARY2WVg/x4ukAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xu2W0UsUURjFnaeeJUlSMkwyzNAMM8NMw8zMMM3M1EwzUzPTzGwxIiSiV9/qQQIfgl76H784N85w9u643ZmdRy8clp29M/e35zv3m1tVdTwqGpHlo1xGZDe6uux6Z6fTtY4Ou3q53elKW5tTe2urXWppcbrY3Ox0oanJzjc2Op1raHDKASqygd7eWP09PU43u7sdZBrQUzU1lQJFdu/2gNPdW/1FutPXFysE9ExdXaVAkY0PDzs9GBqKdX9wsEiAPbGyF4uw6ihKVQyUOlORPRkbc5ocHY01MTISC6AK4ovAyBIydLa+3k7X1trJ6moHRwVClQIpjL+4757+huwg3HCJWUK28AnIVEBJ7iSBhJQSpWP+kC+EPcWuKwbyYTRXvlsQNwIdwTXkCc/AdQQfLqUCmnk4fiSMn59yzhCI92IOgZCtVEBwSYF8GDj05/CwRHQHc7A43FEglA+9CtlKDQSX9B+yTMwNAOgMRCh1hkC8D9/RmzIBlYMhEGHYQH/9+F6UHz9vBEJLCAZ6+mjCQSUBaWb8cv0+OLCf+/sOht1b7+Hz0MExJ1cglojOsFSUwmjYMTczkJZNbdfMYAE8/CggziWM9qJgoGePJ0uA1CUFIgBLyIxxHgD4DL6QufVTAdEl3WnqEhbFd4Dy/aaBV0cUBqGuCMgvm98YCaMOUuqOf65CL8oMpC4lXVNpX1J39NwEYesHAy1MTcU5ggAH6cL6aqE7LJnuKnWHhzgoExA/CZTkjpbLD7Me2PRUCWHrBwMtTk/HMFo+BaJDSe4Q6H/H3GCgzZdLtjw3Z0uzs04hgOXKlwSYqmR777dtZ23NXj9fcHo1Px8EqCfNcoCACoTh+Af16e2mfdzYsML6ugPcXl21rZVlJ7j45sViDKzQBNYM0lHApoThiOzb7q59LRTsy4cdB/j53ZaTD6qwCprkbkYYDtyct45HPuMvMlITGUpi87gAAAAASUVORK5CYII=",
     "wiki_name": "Rellekka teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rellekka_teleport",
     "equipment": null,

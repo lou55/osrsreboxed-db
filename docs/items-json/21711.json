@@ -1,7 +1,7 @@
 {
     "id": 21711,
     "name": "Murky potion",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-10-19",
     "duplicate": false,
     "examine": "I don't think I'd want to drink this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeklEQVR4Xt2X30+SURjHPTfmXDZdpEPMcIYJ5YCMHwENsiAVoaG1TPsxKpkOxnBdIHTbRVs3ba2r1lWz7pT1D37zOS/n8HIAt7aXw9azfW/eMc5nn+d79sLQ0P8xDO0Z6DDsPZ/H0/QskjE7bt+aGDQUw6+vMfz8EuU5fOfGbm5ukFBMwvz4HEY5fwPb2WscyOd06oYyOiOAvn8Kofhqga9vAH1iyGS3kMs9k3a+fQxg/4ULm6tXEQxGEYne1wnFsLPzuiMbmS0kUxnEEyn4fAGdqzu7XYV9nkLhQGY9ncODh+sIBCJwLbj1AlUO38uUyxUUi2Wsrj3G3UgCnpteOBxGlzQB0TAcH/9Go/EHp6cNnJw0+Lr8/qAsNcFoBcq/2UO1eoR6/QMPrWt5OTwIGBqGUqmMWq3WTF32R/OqxDDMVLLcUPWoxkMrC4XuYdG9pPPK0zBM5ZNwlDIyBDe+4sVYwIWRRYdOSwy2zUgbDIWeTaT8GAu7MeqZxch1uy5LDPa3j7oDrd3BpZgHo945XZYYrjyJYfog3QFEzy9vBDEeX8JF/7wuS0Z3CEiFIiBbNix7pMESw+R2HNOFNQlkjgASPdJg6czOy5UOEBGCFT0ioD5bMuxQmVWQbkBUbALqo6WmnR7r4kC7ibZiy7VZb8m4WbzMBNQjAkgUW1giIG7JZZklxg9TAdSYgajYbZYIyDpLzaveBcIcWqm5R6olArrgnLTOkgqgxgxEPTJbIqDhGZs0ZIklumHnhSyqPRLvteEp4w+kRTBijF+BdLBILyABI3rTBxhjjC8U/7lacGYg8epQQSyHMU/rgBacGi0g3cZ8sBr1s/86fwH+HIqPkxviBQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACV0lEQVR4Xt3X309SYRwGcN8bcy6bLtIhZjnDhHJIdoCABlmQiNDQnL9tVDAd7AzXBUK3XbR109a6al01605Z/+BT3/fwHg4H8Orwns13e264gM+e9zk7Y2DgahyG9th6GAo7s9hMTyMRdeLRwzG7UQy/v0Xx62uE5+S9B3u5GTtRTMf8/BKCmr+P7ewdu0DaZgTox+cgSodz/Pps2BNDJruBXG5Lb+f7JwVH+26sr9xGIBBBOPJMJophd/dNR9YyG0gkM4jFk1hcVOSCCsUjnmLxWM9qOofnL1ahKGG45zxyQZWTD3pUtYJSScVK6hWehOPwPvDB5RJbknYYzs7+oNH4i4uLBs7PG/y6/P6AHaOmw5B/W0C1eop6/SMPXdfSUsgODB2GcllFrVZrpq7vxzbQVCXLG6qe1njoyoLBp5j3LMhGMUzkE3CVM3oIN7rsw4jixtC8SyaIwbEebsNQ6LOxpB8jIQ+GvdMYuueUhWJwvnvZHZR6jBtRL4Z9M7JaYrj1OorJ43QHiD6/uRbAaGwB1/2zslrStkMgM4pAjmxI35GElhjGt2OYLKZ0kDECJHYkoaX/7Rwsd0BECCt2RKA+t6S1Q2M2Q7qBaNgE6mNLzXZ6XBcH7cXbhq1fm/UtaU8WHzOBekSAxLBFSwTiLbkta4nxHzMDzDGCaNhtLRHIupaaj3oXhDF0pcYdmVsi0LW749ahzABzjCDakbElAg1OOazC0NFeF5eFWjTvSLzXBif68geSvlC7PpFeIIFp7cZyjPGIH2jhjCDx6pAA6XZauM5cwfMPdpxVhATOe/sAAAAASUVORK5CYII=",
     "wiki_name": "Murky potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Murky_potion",
     "equipment": null,

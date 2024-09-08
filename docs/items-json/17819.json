@@ -1,7 +1,7 @@
 {
     "id": 17819,
     "name": "Dwarven helmet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-04",
     "duplicate": true,
     "examine": "A sturdy helmet that belonged to Rupert the Beard.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4XsWX70sVQRiF3a/SF0mUlEyTDDP8EaaGmYaZmWGamZqZZmZmpplZEBHRP/7GM8PZ5q43bO/O7Q683LvrOvPsOeed0bq6wiOxP1XT4SFePF20h/cmbXhgoFZgftEPr7fs3caGLc3N2eTYmF1ua7NLra2u/hOYX+Twzba9f7VpO+vrtrW6ao+np+1aV1cKc7GlJa0qQiV2vLubqrK9tmaby8vOrhu9vXaloyOFuNDcnBa/19/eXg2opESVl8+W7PmTBWcXQIBc7ex0YFRTY2M1gbxV3z8e2sr8fEkR5r6eHrvZ3+c+r3d3O/vIUwiVnbHASOzHpyP7+fnYfVJf9/edfQK6Pz5uE6OjdntoyHUaYKilcKNQJJUS+/XlxEGgzreDA/d5srfnskSGsIxQP7g7kUKhFkopV5EUSpwqAkEViu+oQ7AJNDlamJkpUerW4KDLlayLZJsPMRAoouKatleXEe7F2Vl7NDV1yjp1X6Rw+42PrkIRFVCAopA6jiwBhG1skGGWogIdvd1xUCGAwh1aiXXYFgIpR6FlhYGkisCAQhFZBQhFqLEKi/4GdL6hoWiO/L6jFtdxEWZHocYugAhxmJ8w1AIqoJLff7CF3GRV0k6t/KCMQLQ5kp+oQGp7dVp4qOocC4Fod22KKoGxSZ6rr6/UtsQtxAJkQUBSKTzPeE4bI3ahEKWjhHtZoApUSlzX8Oa8oTa90DayJNvUYXdGRpxtFCAoxL0oQEBgA5OqnZlcqlEszDWLE2qe4VngUQkIAZGlQkBqXybL7sBhZYEAoAg2VvKdlyoMxCIsxkRYJ3WockD8nIOWZ7nGaoU9CpBs8V3xb6VDFkiAuIeFUYCwiS7RBGcVz+k8QzkgdE9ABfaixGUihMk+cXp4NXiREIjSXsRfkBUeIT5D+d7GNwKF1QAISNfs2EDlmzcdedRhJC7Y5YDU+vqPRFDZGc4ceWCwi0CjbDZ7Agsr38vmGr67KO1d5RbUdVjhLBGHz47OM+ypMCMxh+9KLCunTo1GvGz8Bibbj/IgaYhoAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xs2XYUsVQRiFna/SF0mUlAyVDDM0w8ww0zAzM0wzMzPTzMzMNDMLIiL64288M5x17tXoXne228DLdde9M8+ec94ZravLPZwdVU1HgHjxZN4e3B23G/39tQILi354vW7vVldtYWbGxkdGrKOtzS60tvr6R2Bhkb03G/b+1ZptrqzY+tKSPZqctMtdXRnM+ZaWrAqEcnawtZWpsrG8bGuLi96ua729drG9PYM419ycVaFAsSovny7Y88dz3i6AALnU2enBqKbGxiKBglXfP+7Zs9nZkiLMfT09dv1qn/+80t3t7SNPBUE5+/Fp335+PvCf1NedHW+fgO6NjtrY8LDdGhz0nQYYah2FO9lw9uvLoYdAnW+7u/7zcHvbZ4kMYRmhvn9nLINCLZRSrhJBOa+KQFCF4mfUIdgEmhzNTU2VKHVzYMDnStYlsi2EGAgUUXFN26vLCPf89LQ9nJg4Zp26LxkQttBVKKICClAUUseRJYCwjQ0yzlJSoP23mx4qBlC4YyuxDttiIOUoqWVSRWBAoYisAoQi1FiFRX8COtvQkBcq7DtqcR0XcXYUauwCiBDH+YlDnQQIa7CF3JSrpJ1a+UEZgWhzJD9JgdT26rT4UNU5FgPR7toUVQJjkzxTX39aKOcXYgGyICCpFJ9nPKeNEbtQiNJRwr0kQHQNb84batOLbSNLsk0ddntoyNtGAYJC3EsCBAQ2MKnamcmlGsXCXLM4oeYZngUelYAQEFnKBaT2ZbLyHTiuciAAKIKNlfzMS+UGYhEWYyKskzrUSUD8noOWZ7nGaoU9CZBsCRNUVjpkgQSIe1iYBAib6JLKJ3DZeYZyQOiegHLsRc5norovBzV4kRiI0l7EX5CnhAoZqu6LoREorAZAQLpmxwaqunmzUe2XnA/2SUBqff1HkgOq0hHsItAoezx7Aay0ChuhuyjtXQUv+LcRsqPzDHtqDMQIXYll/wGMRrps/AbK5Esi5E1C5wAAAABJRU5ErkJggg==",
     "wiki_name": "Dwarven helmet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarven_helmet",
     "equipment": null,

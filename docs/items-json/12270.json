@@ -1,7 +1,7 @@
 {
     "id": 12270,
     "name": "Bandos stole",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "A Bandos stole.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADK0lEQVR4Xs3W20tUURQG8BlEJIh6MIqUxISIaCCJinoI6iWCHlIMLQ27YfcLXShECiuRbghiFypmULNJZJphorIai4r+rxXfOXzHddZsdcY5hRsW5zJrz/7N3uvsM7HY0m9xcYfr83/e4vK4r00e9rZ6MXirRQZuHPSCiInhEzI2dExST7odKPsjKob7IKIAYlhM8tFReTHYGRoY1/jMRhhVFjIuQ7cPFaFwBIRB0LOBwzLc3+7l4ugCIV+jv0/1ybf09cWhCMI5Z4egVw+6PBBy0WcuEPoVJnvlZ/au/Mre90DIb25s9MKObpo/7fzVBGFQF2jkXof35Xu3rQzNAoKg9MjJEAjnBNnRTYuHlgEIFjeuLQhwgpo31HjHtbVVUruiSnZsXh6gpp73RAfiLOGeC4Q89Es01cjGhmppqqsumqH3L08HIERZINaFBWFwC2Ie+nXsWy0te1aFIIzc6zNh0LublYNwHyCiOJMs6EsdW70j8iwonzwXLQgBgAaxoAnqPpCQXYniGULu57GLAehH5k6AKRukUfhyFwh9+nvWy/ZNflHbGULu9PhlJ8iOPkfzCxKDzQfSBd17vCEAYSYt6MvE1cWC/D0IM7QQSBf0ta51sjOxzAlCvgbpTdGObpr/ZS4QwgVi/Vxor3eCkBcpiCgEBsCOiwFwrgv6bFud7N7ig+xyRQbSs4SjBiGPBX3lSL3k02nvHH0saPLpqQCEXZqYkkB4QlwgvjA1iPWD5cq9nXCCkIvXhp6hEmcHbRZk64iPMkG4JqjwIS/ZN+NFIC4XXhuRgYjCfQxAED5n/XzN5SQzOuqdcyY1CLu0BhFlR3c0H+RaNhcI+X9mZmQ6m5WpVMoJQv7H1PkAhD2ojH0oDNLLpkF85JH/u1CQzv1rpKe1rggEeMUgFOtCIAzGJwygT5mMTCaT3jVrjcsVGcguG+5rkC5ogFhD6MdcgPDIaxD2oLL3IdeyaRAfebxO0Iehn0bmRgJyLZsG4TP9twTn3M352uByVQhCC/9Jnys0RocFYVPUIEYZoFiM2/p8YYE6dP1EAiq1WWQpWMZs7n9qFukK22dJt7/Qgatel5qA8AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDUlEQVR4Xu3W2WsTURQG8IZSiiD6UFFMsWBBRAwooqIPgr6I4IMtlUZbqRtxqwsuKKEoVUtxo1DqgkpCW2MMISZE1KqpouL/deSb4Ytn7lzTTDKKD144zHZm7i/3nrmTlpZ/v0XEHrbrf7xF5P5In9xN9joxfq1Hxq7sc4KIzORRmZk4LOkHQxaU+SOahrsgogBimJjUvUPyZHzA0zGOcc0MLyoQMiIT1/f7UNgCwiDo0dgBmRztd3KxtYGQr9Gf8yPyKXu5MRRB2OfoEPTszqADQi7u+R0I91VySflavCnfircdUCAMHspfTRA6tYGmbsWdh+/avNQzCgiCslPHPCDs1wmKeKYBCBY3jk0Q4ARtXNPubFd2tErHklbZun5xFZV/nAgPxFHCORsIebgv1t0ua7vapDva5huh109PVEGIQCDWhQlC5yaIebgvvnu59Oxc5oEwSs9PekGvrjYPwnmAiOJIsqDPxTc5W+SZoHLqdLggBAAaxIImaGhvTLbH/COE3PczZ6ugL4Ub9WLQvCCNwsNtINwzmlgtW9a5RW2OEHLnZs83CkJzCxKd1QLpgk4e6aqCMJIm6EPmYqMgdw3CCC0E0gV9aXCVbIstsoKQr0EBFkX3YTYQwgZi/Qz3d1pByAsVRBQCHWDFRQfY1wV9qi8qOza4IHO6QgPpUcJWg5DHgr5wsFPK2ayzj3tMUO7h8SoIq3SdGDT3DbGB+MHUINYPpqv0MmMFIRefDT1CDYHMOuKrTBCOCaq8KUvxxawPxOnCZyM0EFE4jw4IwnXWz8dSSQrT084+R1KDsEprUACUC7JNmw2E/B/z8zJXLEo+nbaCkP82faYKwhoUYB3ygvS0aRBfeeR/r1RkYM8KSfRGfSDAmwahWBcCoTO+YQC9KxQkl0o5x6w1TldoIHPacF6DdEEDxBrCfcwFCK+8BmENCrwO2aZNg/jK43PiPtgN/TYyNxSQbdo0CNf03xLsczXnZ4PT1SQI7dcvrhUao8MEYVHUIEYAUL3Nj2To+vmLoFrNj/TH/9Zc+wmGfWDSuwt4+gAAAABJRU5ErkJggg==",
     "wiki_name": "Bandos stole",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_stole",
     "equipment": null,

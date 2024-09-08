@@ -1,7 +1,7 @@
 {
     "id": 13152,
     "name": "Unholy book page set",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-19",
     "duplicate": true,
     "examine": "A set containing the four pages of Zamorak's Unholy Book.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xs3XW2sTQRgG4OTSG0XstW0aGqmRJg2aRhpjQ2J6MJCENDEmMbXVogREPKCUomhbiieKpR5AsCDUphTplReiKPrLPvvO+qWT6STZnKQDL7vdnew+OzszO7VYDn6xkj668x0vVno5n6TncwmR5YdxWrofE2HExuo0fVqZovVXBQ1KfYiW4QaIUQBxVMzHF3l6v5ytuDH+xjk1laiGkFZaeTS5D4UtIBwGvV3K0OqTtKiLrQ6E+jL65/Y8fd+81xyKQdjn1mHQh2c5AeK61UD43Y+tOfq985T+7CwKEO7h7ukRUe+uFKPZ+anlJ2slMgj7OGYKI78G/J0KHqfMxGkKnOmjiYCTosEBioddlIwMUmrMI85lo166EhuiqwkfzUwO02zaTzczAbHFeaftsLhW20HBIQeFz/bTqP+kFgcYUIAUs+cFCsdlENIQiPuFDuRz28jvsZdxgAEFEOqglRhzuxASWy2o9KA1EJ4ckLt5b0PpGAhPjlbhG5U+H6JSlyY4vptaoF9fHpcxTYEy4W4BwiuqC/qHUkEu+xEtSL17lWIM07WFS2UQOqppUFdbQcYchBZSQRhdN5JuEQa9XlwoRwZxPR1InhTVuyvFGPI6EOYWjKjcuFOkXgtxvY6DChdPidQDcb22ghAcy0VsYm7BRHg94RKpB+J6DPI4joprYZZmjCkQRlgtUDE1KFIPxPVUEFrIZOug7IEYJYMwI6udulrUTt0REL5Z6Khm+lC1V8YzNfbVu2uKAZJfG45NjfWKjyRA8ZE+SoYctUG756ZjAyIM8vYfE9fCHNTAPFQJ4qUpg/ABDXm7KeKz0fhwL0XP2cvA9IUTdHnUmBZ4hMmjrGkQRlk1EC6Mrz2+abwE4S89zvHSA1ME6t/Kj7QPxCgZBASvh3gtJGPwvWMMIPLyg0GYgxqeh3SvrR3BoqwpkPra0LlxDAv7zbUZcU7+rwT7WBkgqMeLetTdenONvq4X6dvGnWZAKPufTBcZI0cFbb+brQBxGgBZLDyt14oKlIOWBAit0xaQ2aIizWA5e3X/U1GRuqi/OdDlL8agsKByef/XAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu3X22sTQRQH4ObRF0XssyUNjdRI0wZNI42xITG9GEhCmhiTmNpqUQIiXlBKUbQtxRvFUi8gWBBqW4r0yQdRFP3Ljv3NesJkd5K9JBEfHDhssjPdfDM7c2ba1fXvFxepQ1Xf8eKi5wtZejqfEbFyP03Ld1MiGLG5NkMfVqdp40VFgdJ3omW4BmIUQBx6zPtnZXq7Uqz7YXxHnT7qUbaQLlp9MGVA4QoIB4NeLxdo7VFetMVVBUJ7Gf19d4G+bt1xhmIQPvPoMOjdk5IAcdtGIPzdt515+rn3mH7tLQmQLQweyr2We9ZKyCB81u6bFlfda8D3XPQoFSZPUuRUH01GfJSMDlA67qdsYohy4wFRV0wG6VJqmC5nQjQ7NUJz+TBdL0TEFfU+90HxrLaDosNeip/up7HwcSUOMKAAqRbPChTuyyCELRDPCxUoNOimcMBTwwEGFEBog1FizM1KTFyVoO17rYHQc0Bul4O2omMg9Byjwj+0/fEAbXcrAvf3oxnox6eHVjEoRlAh3iNAeEWmoD8oPcjvOeQUhKIt0/XFCzUQJqplUHdbQVoOwgjpQVhd17KDIhj0cmmxFjKI26lANpKituRVIOQWrKjShE+E2Qhxu46DKudPiDADcbu2ghC4V0q4RW5BIrya8YswA3E7BgW8h8WzkKUtYlC0FdYMVM0NiTADcTs9CCPkCMQoGYSMrJ/UjUI/qTsCwp6FiWplDjV6ZZypLaI0kPzacG96vFdskgClR/soG/M2B+3XzaQGRDAo2H9EPAs5yEYeqgfx0ZRB2EBjwR5KhNw0MdJLyTOeGjB/7hhdHNPSAq8weZU5BmGVNQLhwdjtsafxEYR3etTx0QMpAu1vlEfbB2KUDAKCz0N8FpIx2O8YA4h8/GAQcpDtPKR6be0IHMocgfSvDZMb93Cw31qfFXXyfyX4jJMBAu34UI+2O6+u0OeNKn3ZvOUEhGLsmSpkjBx60O6buToQhw2Q1WJEcmAkAcLo/EVQs2JEGuN/aa38BnycZhQZflgdAAAAAElFTkSuQmCC",
     "wiki_name": "Unholy book page set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unholy_book_page_set",
     "equipment": null,

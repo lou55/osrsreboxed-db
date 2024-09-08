@@ -1,7 +1,7 @@
 {
     "id": 1545,
     "name": "Key",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-09-23",
     "duplicate": false,
     "examine": "A yellow key from Melzar's Maze.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABw0lEQVR4Xu2WvUvDQBjGe5QQEo5MnTJ1cVUHoYOC/hEKCgoKijjrLCKiiIjiKi7iKIqIm6Ao+AGKoqAUOhSFQsFNqHR69c2R5nK51CK5i0MfeIfLtXc/nnvuI5Npqy1fBKKVmgjsbFuRSgkqDFN8pVCvuWlBBTAb6xY8PVL4qDo/QB1Q/+pJAyoAEvODUHxfdz6vAyoeSOzTABSetFlpAGoNZGXZhKFBQyVQc1fOTm24uaZeuPd2LZibNWGgP6sKKB7k5NiGl2cKD/fUA7o4t2FrM8gVwiQIFO8KbvWjQ7sxsVg+SEIw8SAz0wasrZpwsM9g+InFEkf9o+QgmIepScMLq+iCOEKCIlD7dCIwfb1ZmBg3YGmRwShwQSa5M1hjo2z7anNFBoNOlYoUujqDrasFRgThS6MrqCjMwrzpnSlXlzQElQqMX/iEwKXCg050ShwlQYWB0BkEubtlENhfeXe8Bxf/O4VQRDrZW5m5w7exsF0oKLuXfJHG5DwUfqtWHBgZZlsdlw7buVxGNRCKQLkUPgjxG97YrssA+NK22/xlCWdFfk+J/1YkFmIRSiOATMTLCj4rNOWlFWnPy+9KIS//R9/9wWE3wNhwWQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnElEQVR4Xu2Wv0vEMBTHG45SWkKnm7q76iLcoKB/hIKCgoIizjqLiCgioriKiziKIuImKAr+AEVRUA5uOBQODtyEk5uevpR4aZOWGy6pQz/whrSFfHj5Jo1l5eRwCMiVGQR2d1ypMpKKypTfKDQbQVZSLZnNDReenyh81v1foS5ofvdmIdUSiucHpf6VkPxOO9FJ08qAUHsiqysODA/ZOoXSu3J+5sHtDWXh3t9zYX7OgcGBgi6hZJHTEw9eXyg8PlAmdHnhwfaWmKuOktwV3OrHR54wcbw6SrLI7IwN62sOHB5wGe2oRTAP01M2C6umLqgg0PjyJZn+vgJMTtiwvMRljKDuDNb4GN++RmTUecFOVcoUerq1bV0VsohYBruCyDKLCw47U66vaExKO7IML7xC4FLhQWewU1Eh7AyK3N+FEvi+9uGzC5f4nUYpopzsvRp2Rxxj4bhU0h5u8je5KIXP6jUfRkfCrY5Lh+Ni0dIthBCoVqIHIT7DP3YQcAGxjBAuTVzKoICKMMSyVKYQlhW8VhjKSzsYz0tOKj/wnR9FnZTRpQAAAABJRU5ErkJggg==",
     "wiki_name": "Key (yellow)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Key_(yellow)",
     "equipment": null,

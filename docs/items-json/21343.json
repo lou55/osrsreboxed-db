@@ -1,7 +1,7 @@
 {
     "id": 21343,
     "name": "Mining gloves",
-    "last_updated": "2024-05-11",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-06-22",
     "duplicate": false,
     "examine": "These will help me mine Iron, Silver, Coal and Gold.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKUlEQVR4Xu2V3UsbQRTFHUQkEiJLloQQrLJFg0aCltQPSD8C+lZEQVGwUFFQpLSUotBSRCnSllJKS0Va+see9ky42dl1N+wqTnzIgSEPu+T+9px77/T19dSTNSnEH+tSqNU8TFZG4HkljN4rolRy4DhZ5HIZ21AK83OTmJ29j2p1FOPjZQ1VLrtw3WENxXdmxsZsQSksLk6hXp+IdIlQFoEUnjyutYHEJYGiS4TqCpDEJi4xOrpEKOtAjca0BjJjEyCBsQbUbM60gUyHJDKr7kQBhSfNAlAL5PUrBwf7w9hYz0YCWeofhZMPeRwf5dtAa6tZLCxkrsAIeHz/hLd56q2u8PVLAecfXbx/l8fbNw72dn0gzxuI+PP4I/0WXhMpoBS+fyvg86cCzk7dK0B87ruh9LOtzRxWnmXRfJrR7zBWWRHm3hJX5bpJCKXw80dRu9QJiL+M0wRaXh7S73BFhPdWHFB0zAEp/L4sapcIxKI7L3IBIB72GGHZX8+3W88FaGnpQUcguf8SA/39U9IOsWgUEOOMA3rUSAaU4qppORQGYiQCJHFyCl8e+sAEelgfDOyscA+ZF3JCIMqfEhakAwJ08cvvLwKZDrGpp6uD/4v1B5papswEMl0KV4+UOUnmESCJzGxqAlcq6dZC/P7qIBOOE8ge4o6SKeMWl7jMIklPuF5KqfbSNPuHcV37i28uFegfxtVFGJG/pe8AjOgGjXlbulMwPXVT/wD9IFq02i88KgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCklEQVR4Xu2V3UsCQRTFHSLEEGVxUURK2DAxRTKsFOxD0LeIgqKgoCgoIoqIgiKiiKiIiKKIoj/21p3lurPjB7tkYw8e2Kdddn6ce+4Zj6errpSJQfNHuRhkswakkv1gGFGID0QgGtVA0/wQCPhUQzGYGE9BLjcI6XQcEokYh4rFdND1IIdSDlQsDkM+P9TQJYRSCMRgeipbAyKXCApdQqiOANHYyCUcHbqEUMqBSqUMBxLHRkAKYVAMyuWRGpDoEI1MIZDZMTKQvGkKgEyQg30NdraDsLTobwikKD8MLs5DcHIcqgEtzPuhUPDVwRC4/AdLYpOLj2MxeLgPw821DmenITg61GBr0wIyjN4GP2/+UN7kmnABxeDpMQx3t2G4utTrgOw/YvzdynIA5mb9UJ7x8W9wrFQRYm+Rq3TdOIRi8PIc4S61BjLzJQJVq338G6wIubd+BfTxHuEuIRAeurEekIDMjCEs5mtt1XxPQJXKaEsguv8cA319RrlDeGgjIBxnM6DJkjMgF1eN6ZAMhCMhIBonbuHergWMQGN5r62z5AyJF7JDIJS1JXggOkBAb69WvhBIdAhDnUl7fw7rsYWatkwEcumSKPsaExCNTAw1AieT7mpBPs2lzA3EDGFH0ZZhi9O42nCIW7FaaYr5wXF1AIbEbPnBcXUQhmS19D+AIbUlmF119Sf6BuLPGMKEbJ7TAAAAAElFTkSuQmCC",
     "wiki_name": "Mining gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_gloves",
     "equipment": {

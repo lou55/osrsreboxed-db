@@ -1,7 +1,7 @@
 {
     "id": 13476,
     "name": "Ensouled giant head",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "The creature's soul is still in here. I could reanimate it with Adept Reanimation.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADe0lEQVR4Xs3W/UtTURgH8O2HEIdMRFGmaDrZRCc1pVajREUMwUhFS0tRVqZoUlj2IqPoRaQyBLEXKhQMMZEygqgoivrLnvjey3P33NO5tblbeODhXs/OPJ895znnXo9n9zcv6UP3+T9vXlpI9tKD2R4j5q9309xMlxGMWF9K0NriCK0+Gtag1B+RNdwEMQogDhWz8nCIns2fsU2Mv/GZGnZURkgvLd7s+w2FKyAcDHoyN0BLt08ZY3HVgTBeor9tJenLxpWdoRiEe84Og17cHzRAPNYJhO993ZylH9t36Of2PQOEOaKVlUaosyvNTDv/agZhUh1o+W6/BcK9DrSxfNYGwj2D1NmV5rUtAybi4sbfKgiTA8HL6wTaenrePRBnCX06EGeSQciaCnr7fMwCITICcV2oIEyugmShIpxA716O20Gvr2UPQj9AjMLYSG0RVVX4qagwl3y+PUafDvR+ZcJdEAJLySCMa2veS/FYKe2vL6ZQsIACJT4LJTHAf1ybskDf39yyMBmDJAr/nDGn++qouzNEx9qqqCleRo3REqoJF1J5WR7l5+fYUAB9enVRC1Jnd2ipelBB6L966RBNjjZQYmifATveUU0tRyso1hgwssVLyCiAPq9P7xRknkHIkBNoZqyOkjNxujwVo/FElAb7I9TbFbZlS2YIWZUgeSiqsyvN3PI6EEIu2cJcKw11+elkRx71tOdR+xEfNR3IpYP1OUaWUOwYh+y4CmIUAiCcuBh3YyJiZGqkL0gXhsMUixZSZ1spRcJ+qgn6bcvlGkhmCVcJQnamR2sNDK4t8RJqihUbmGB5aqcBtPn4nAXCKc2YtEDYYToQPw4kaKDTb4CSUxHqaA5YmPpQDh2OmkWN7OCxITOUZnbQUiC1jviwU0GooYZQNQUKCixMtNbc9rxceGy4BmIU+jEBQFzYAKGgUcw1VSkMZ4dBOKUliFHq7JpmgnTL5gQ60WqCsLskhusH4z+sTlognEEZnEN2kFw2CeLnGIN4y0sMHxFZg7DL/gbCZOjDeNQQo/gHye3uGkhdNvRLEL8DmbVgBhc/jwUIW16CcAZlfA7plk2CcC9fynCK8+EpM4SxroB0yyZB+Ey+lkgQxsn6yRKEZn8DdAqJkaGCcChKEEcGII+Hj/U/hQqUIevHFVC6TUWmg+VIjf1PTUXqQv3Orm6/AIllb7LEJIucAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADW0lEQVR4Xu3W/UtTURgHcPdDiEMmoihTNJxsopOaUqtRoiKGYKSipaUolimaFJa9yCh6EakMQeyFCgVDTKSMICqKov6yJ77n8tw99+7Mdrdb9EMHHu7d2dnOZ895zrnLyfn3m4f0oXv/jzcPLcZ76cFcj4qF6900P9ulghEby6O0vjRCa4+GNSj7j8gaboAYBRCHHbP6cIieLZyxTIzXeM8eVpQjpIeWbvYloXAFhINBT+YHaPn2KTUWVx0I4yX623acvmxeyQzFINxzdhj04v6gAvHYVCB87uvWHP3YuUM/d+4pkCMMvpR/NYMwqQ60crffBOFeB9pcOWsB4T5NkMeyDJiIixuv7SBMDgQvbyrQ9tPz7oE4S+jTgTiTDELW7KC3z8dNEMIRiOvCDsLkdpAsVEQq0LuXE1bQ62vZg9APEKMwNlxbTFWVPiouyiOvd4/q04Her066C0JgKRmEcW3NeykWLaP99SUUDBSSv9RroiQG+I/r0ybo+5tb6WLQrCCJwpcz5nRfHXV3BulYWxU1xcqpMVJKNaEiqijPp4KCXAsKoE+vLmYKQkvUgx2E/quXDtHUWAONDu1TsOMd1dRytJKijX6VLV5CRgH0eWMmU5BxBiFDqUCz43UUn43R5ekoTYxGaLA/TL1dIUu2ZIaQVQlycCgaW14HQsglW5xvpaEuH53syKee9nxqP+KlpgN5dLA+V2UJxY5xyI6rIEYhAMKJi3E3JsMqUyN9AbowHKJopIg628ooHPJRTcBnWS7XQDJLuEoQsjMzVqswuLbESqkpWqIwgYrETgNo6/E5E4RTOk0MmrHDdCB+HEjQQKdPgeLTYepo9puY+mAuHY4YRY3s4LEhM5QRyF5HfNjZQaihhmA1+QsLTUyk1tj2vFx4bLgGYhT6MQFAXNgAoaBRzDVVCQxnh0E4pSXIAcoA6ZYtFehEqwHC7pIYrh+M/7A2ZYJwBjk4h6wguWwSxM8xBvGWlxg+IrIGYZf9DoTJ0IfxqCFG8Q+S2901kH3Z0C9B/B/I+GIjuPh5LEDY8hKEM8jxOaRbNgnCvfxThlOcD0+ZIYx1BaRbNgnCe/JviQRhnKyfLEFoiSXYLSRGhh2EQ1GCOByA0m3JSA5ZP38RtFtLRibH/5Zd+wU/YSUmkJ5tpgAAAABJRU5ErkJggg==",
     "wiki_name": "Ensouled giant head (Item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ensouled_giant_head#Item",
     "equipment": null,

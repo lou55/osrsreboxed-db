@@ -1,7 +1,7 @@
 {
     "id": 12377,
     "name": "Adamant cane",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "A diamond topped cane.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4Xu3WP0tCYRQGcN9JmuRSIAmWIgmpqFeCFBSTq2gi9g8tupUhOgjiYhFkQy1d2nN1sKFoaGl3y63P9NTxcrv5Cd5D9MDZf5zzcs7rcPCPgF3SI3BWr0HLZLDm98tGCQwNA1fdLo7397CpqjNQ3OeThRJ4exrDGAzQaTRQzmvwejwyxycwnUwwHj7iutebdYlAi4qCaCUqAyXwOf3A+8vzT8XC4TmQhPHNo15HI9kgio0iEFVsNy4TRBFQD9QZhLqTO8ohuBGU+cAp9oLUb05QOC0glApBWVbkoWhE5pi+F+ZdA8XzIqLZmOzxWRFo3jdRbpWRyCfkdWk+Au2HNkrNbTgXnHxQVAE1ANeSiwfKelf0ntyrbh4oMwKpnRS86yu8UJqe/7WnWESg2qkiko7wQtUvDzmtBIpArV9DspLkhaLxZetZXig6M3T/WKGoS3RqTBQLmAURaOk6D5S11W8v+ijltnigzJidsr80DMIK858/my/piO12qw4QBQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYElEQVR4Xu3VP0tCURjHcc8kTXIpkAQLkYRUvF0JUlBuchVNxP5xb9GtDNFBEBeLIBtq6dKeq4MNRUNLu1tuvaZfPYbdegOdZ/ALz/7hnMNzPB7+CbgjPYFTy4SRzWIlFJKNEug7Di7bbRzt7WJD0+SDXh+HcHo9tGo1lPMGgoGAzOsTGI9GGPYfcNXpTE6JQPOKgkQlIQMl8DF+x9vz08+osZhMEPUX9TIYyAZRLopANOrOmkwQJaDtaxMInU7uMIfIekTmA6fcBWlfH6NwUkA0HYWyqMhETftamLc1FM+KSOgqBxAlUL+ro9woI5lP8kE175so1bfgnfPyQdGEtTB8Cz4uKEpM3pN/2c8Lld5OI7i6xAtl2Plfe4pFAtVWFfFMnBfKujjgtBIoAbNrIlVJ8ULR9emWzgtF3wz9f6xQdEr01XyjWMCmEIGGbXNBUQI3512Ucpu8UIwws2b9X58RZNrT1zLvRwAAAABJRU5ErkJggg==",
     "wiki_name": "Adamant cane",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_cane",
     "equipment": {

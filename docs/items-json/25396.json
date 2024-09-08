@@ -1,7 +1,7 @@
 {
     "id": 25396,
     "name": "Swampbark boots",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": true,
     "examine": "Great foot protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xs3W+0tUQRQH8F0iYmVZWBJFRdcuyP5QREW/RL/4W/WT9l4qkoyKIgIpCpGih0gvBLEHFQqGmEgZQVQURf1lE9+ZvuO5587aXvcWDhx298zszsczD28ut/5b3oQj1P/PW948GjtsHowetDFxY9CMXxuwQcT81BkzNzlkZh+fDqD0H9E03IGIAoihMTMPT5nnEydiE+Mz+nTEUamQeTN580gChVdAGAQ9Ha+ZqdvH7Fi8hkAYL9Hfl8bM14Wra0MRhPesDkEv75+0II6tB8L3vi2Omp/Ld8yv5XsWhDl29Pba0LOr5srOv5ogTBoCTd897kF4HwItTA/HQHhPkJ5dtXxsGTARNzc+axAmB4LLWw+09OxcdiBWCbkQiJUkCFXToHcvznsQIhWI+0KDMLkEyU36N9D7VxfioDfXmwchDxAC4/p6yqano8VE3UWPqgf6MHMxWxACS0lMZ1vBRlt5kw2CZNUQwKCan+Yue9CPt7c8JjVIovDj6EdVEICUSxttELClq2Qrh6rhFTmAPr++EgTp2es09+MofwiEyQAipljYYPNb+1pNNdpsIcgxD9CX+ZG1gtwdhAqtBsJyEcOJuZ+YYx7LLEHyUtSzq+aOfAiEkCAsl56YS6nzmYKIQsg9FAKxcsxVInf6MgPJKqEPoZdKg0IVWnxy1oNwSxPTEAgnTIMI4THXIPRXKyUPklViv6xQg9VBWwHJZUP+wKHuICaqlmLVkehtO4s+MCYTEAL5wVrF7O1vT4BYHY1hf0sxWSGi9OyB5kB62ZCvDUemf3+H2b6rbNo7C39+0MW+ga4Ehhsa8XH2kgfhDkpxD8VBetlkIM9/Faje7j2tHkMwTheeg5oC4ZSFQMjhxsUEOP58BsJ3jg656qEq2FPcV5mC9LIhL0HyGUhXD4GxAOHISxDuoNT3UGjZJAjvJQi3OC9PPnpwbCag0LJJEPrkY4kEYRxAXK4mQWjJ8odCYmRoEJ6lJYiRApTL8VpfLTRQhtw/mYAabRrZCJaxMvY/NY0Mhf7Oum6/AU6K/pe9FpBAAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xu3W3UsUURjHcZeIUJaFJVFUVFoQL4qg6Ca68a660t6lIsmoKCKIohApehHpDUHshQoFQ0ykjCAqiqL+shPfmX7DM2eOtrO7RRcdeNjZZ87O+ficF6ep6d9vBReO0P0/3gruwfgBd29sXxST14bcxJXBKIRYmD7p5qdG3NzDEwGU/0fUDY9BQgFS+JjZ+8fd08mjqYH5zj0/0qhcyIKbun4wg+ITiEKgxxPDbvrm4agvnyEQ/S366/K4+7x4uTaUQFyrOgI9v3ssAqnvaiB+92VpzH1fueV+rNyJQLkwPFR/tUAMGgLN3D6SgLgOgRZnRlMgrqsEFVLTwEBa3Hz3QQwOQtO7Gmj5yenGgVQlciGQKikQVfNBb56dSUBELpDWhQ9icAuyi/R3oLcvzqZBr67WDyIPiKBfX0/Z9XS0uEp3MUGtBno3e66xIIKpFKazrTmKtvKGKASyVSPAUM0P8xcS0LfXN6rF0NIgi+Lh3KcqBJByaX0UAmzqKkWVo2p8kgP08eXFWkG0+OGUPwRiMEDCFJvXRfnNfa2uv7IxgpBTHtCnhUu1guIziAqtBWK6hNHAWk/KKc80W1COQzHe8iEQYUFMlz+wptLPNxQkFGHXUAikyinXW4l3X8NAtkrxA+LdZafKB4UqtPToVALilK4SQ4t3mA8SRNvcB3G/v7eUgGyVdN9WqCaQnTbye/d3BzGV/lKqOha9ZVsxCfo0BESQHxrudbsG2jMgVcfH6H5LMVuhHKgY5E8b+eHRihvY0+G2bi+79s7mXw+MY/dgVwajBU28nzufgDiDcpxDaZA/bTbI618F1duxszXBCMzu4j2oLhC7LAQix4nLAGx/vQPxm0MjcfWoCmtK66qhIH/ayFuQfQfyq0fQFxBb3oI4g3KfQ6FpsyCuLYhTXIenXj3UtyGg0LRZEPfsa4kF0Q+QpqtOEC1b/lBYjA0fxLu0BSlygKptWaTCrp+/CFqrZZHZ+N/qaz8BBIa0C6CnRWcAAAAASUVORK5CYII=",
     "wiki_name": "Swampbark boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Swampbark_boots",
     "equipment": null,

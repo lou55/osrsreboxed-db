@@ -1,7 +1,7 @@
 {
     "id": 20247,
     "name": "Black leprechaun hat",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "Try as they will, and try as they might, who steals me gold won't live through the night.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLUlEQVR4Xs3WbUsUURQH8N1XksiGJElKpkmGGT6EmWGmYWT0xrWixKKoqCgiiKIQKXoQyQxB7IEKBUNMpIwgKoqiXtXHiL7Iif8d/tc7Z++uu+sUXjjM7MxZz2/PvXPHWGzlj7j4w3f/n4+4jA4ekpGBXhPDN5IydK3HBBEz46dkeuykTD084UHpH7FseAAiCiCGxkw+OC5Ph/tDhfEZ93SEUTkh4zJ283AKCkdAGAQ9HuqT8dtHTC6OPhDyXfTX+UH5PHs1PxRBOGd3CHp+/5gBMTcdCN/7Mjcg3xfuyI+FewaEGo2VlSZ0dTWCtvNXE4SiPtDE3aMWhHMfaHbidAiEc4J0dTXioWlAIS5ufNYgFAeC05sONP/kbHQgdgnXfCB2kiB0TYPePDtnQYicQFwXGoTiGoQ8LtRMoLcvzodBr64vH4TrABGFTiK/q71dOtvaLMwHejd5IVoQAgAXhDzk7+vosKjdra0WRgxyP0xfsqBvr29ZTM4gF4U/7oKQe2Bvl+zf02lRAO1qaZGNFRUWhdyPLy97Qbp6mhH8QqyHpUA93d0hFLsE1M7mZpOD3E8zV/IFBXsQOpQJhLxVBQUp0wXEjqYm2d7YINvq6+30uSB3U9TV1QgeeR8IARALEIRgN4hoqKuTrbW1sqWmxuStTiTMMRIQUQjcR6H+g73Sl0xa0K+fReaoMWtLSqLtkNslHNkhFEdBN/78TsjoSAB0u4P1M/fojAVhlyYmKxCeMB+IrwO8k/iriwoLZXN1tYlNVVUm2DUEcrDe8NpwO5RldzAWQXodcbMDCEW4ByHWFBebx5yxobzc3kMuXhuRgYjCdbSfINzn08figCDWl5XZwHXs0i6IKF3dMwKQb9oygRA4x/eBWFdaagKd4xNGEPagHPahMMidNheEI667GASfRB3vpy7mD8JTthQIawnXfCCuNeSik8iPBKSnDdddkPs/EDEEMRcgPPIuCHtQzvuQb9pcEM4zgdgh5EYC8k2bC8I9vaAJQh7feRGAMFIXpS/0+mFoEDZFF8TIARSLcVvPFBrohrt+IgFlOzQyGyxjMfc/DY30hf7Oih5/ATLfaPWnDXsGAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu3W70sUQRjAce+VJHIhSZKSYZJhhmaYGWYaRkZv1IoSjaKiooggikKk6IdIZghiP6hQMMREygiioijqVf0Z0T8y8Z3lGWZnx/P2boteNPCwe7vP3Xz2mR97BQX/fkspf/ju//GWUmNDB9XoYK+OkWs9avhKtw5BzE6cUDPjx9X0/WMelPsQecMDkKAASbiYqXtH1eOR/lDHfOaeG2FULGRKjV8/FEFxBCIhoIfDfWri5mGdy9EHIt9Gf14YUh/nLueGEhDnUh0BPb07oEGSuxSI732aH1RfF2+pb4t3NCgWhh+VpxYQnfpAk7ePGBDnPtDc5MkQiPMsQanQMNCRTG4+uyA6ByHDuxRo4dHp5EBSJa75QFJJAVE1F/TqyRkDImKBZF64IDp3QeTJRM0Eev3sbBj04mr+IK4DEhSVJL+zrU11tLYamA/0ZupcsiACgA0ij/y97e0GtaulxcAEQ+67mQsG9OXljWwxtDDIRvHjNojc/Xs61b7dHQYFaGdzs1pfWWlQ5L5/fjFXEC14QubDcqDurq4QSqoEakdTk84h98PspVxBwR5EhTKByFtRWBgZLhDbGxvVti0Namt9vRk+GxRjUwyWvA9EAJIOBERINQTRUFenNtfWqk01NTpvZTqtj4mABEVwn476D/Sqvp4eA/rxvVgfXczq0tJkK2RXiaNUiM7p0I5fP9NqbDQA2tVh/sw/OGVA7NJZYmjBCvOB5HXAO0meurioSG2srtaxoapKh1SNIIf5xmvDrlBOIHceyWYHiE5kDyJWlZToZS6xrqLC3COX10ZiIEFxnfILiPuy+qRzIMTa8nITXGeXtkExUAHIN2yZQATnfB/EmrIyHVROVpiA2INi7ENhkD1sNogj120MISvRjbfT53MHscqWAzGXuOYDyVwjl0qSnwjIHTau2yD7P5BgBCS5gFjyNog9KPY+5Bs2G8R5JpBUiNxEQL5hs0Hccye0gMiTd14CIFp0UvrCnT8SLohN0QZJxABl26JICXv+/EVQphZFRuN/y6/9BujMHmkOuPrUAAAAAElFTkSuQmCC",
     "wiki_name": "Black leprechaun hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_leprechaun_hat",
     "equipment": null,

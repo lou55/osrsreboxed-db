@@ -1,7 +1,7 @@
 {
     "id": 1265,
     "name": "Bronze pickaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "Used for mining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPklEQVR4Xu2WUWvCMBSF08cNqchKRxW0U0ScoOLL2NtefPb//5qM03DNbYytmpRexA8OqKTN58lFq9Rzkeh6eiXR46HSsw+ll7nS34XqWsr99pfZTFN9WIz07zrTf9vP6rN9WcaWMptN8/fWrCbpWeq4L2ILGZF5Majibu5LNjBHBqHd15C1F4wVuVUofVPVDCEkhLYiil3OSFPQjk+IH2OwGM6/LdiAt+MTouA9DXuQWDP1dhDeHMnQ0ZPY6WfShZRfxm2QQvMGMUjRWveuAdSFuAxf5ZODlB34KFxvx13JceXssAdj/ipcmTYhDonde52Hejt4fUs713j0OkZ4OxF5bHY6RHA7PcsA207oIEdAcDsiBvnVTjNWSEQ7dFx4XhbRDgkJaAeYR1QBvzuEEUKECAHzMCXguCyiZPrkH07casv//h0oAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABHklEQVR4Xu2W0QqCMBSG52UhSiSGCUZFRAUV3UR33XTd+z/N4jhO29ScuA0P4Qc/KKj7/HcoGfsvAq5nUAK+jBlfzRnfpYwfM+Zbqvr29ZyKiN+2M/44JPx5XvgSEosV6dSYfR59pV7XzLWQENlkYZnq4k1JQrFlIHRZx0p71kiRrkLRhJUzBEEhaMuhWH1G2gLtNAmp2+hIzESgtdMkhIFzOezexPR2IGpzKINbj2Lve+5D6peMfg0G5w3EQKp+rTW6kHkBKQdScuCd0KWdNoSYHHZrxF9FPxmVvvdp6O3AsaMH98VVO06wnR3nEG5nYBlAtkNikMm2Q0BobMeEFCIhg9sF38ukhAjIAOITlcDvDiKEIESEABAhIzOi8QFrZB1hc/fbyQAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_pickaxe",
     "equipment": {

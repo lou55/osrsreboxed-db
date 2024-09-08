@@ -1,7 +1,7 @@
 {
     "id": 10882,
     "name": "Rune satchel",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-19",
     "duplicate": false,
     "examine": "I can keep my grub in here!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiElEQVR4Xu2WXWsaURiEPZQgLqKIkqUralRWySpRF42GWI3EamOkpIhNQlsRaUjakjYEQqFQelfor54yZzl+hPSqrt44MCCsuA/zfunxbLTRRv+SwKLXKoGfX3v4NjnG1WUdZnJ7nVACzclvVAZ3qJ4/YHhqo1ZMIhWPrANKoDT6g/3hPYr9a+Ta75DvjDA4KSFnGogboVVBOX1yf9XG7fgI9ptbCZJtvkVq/wTJcscBeh6CHvG7DTUDuXnfwOT8EB8GVVitS6RrfSRKx9BNGyHDhLEdnAIVd3bcgBLot/bQa+TQrVsS5OJ1WZbIPDyTMNH8CwlTsKJuAwn8ujvFw/VLmU6jYkqQfnsP3aaF1kEGhnUgS+bTAthN69DDfreAhISgOdosWSWfQLu+i0bVRK2UhJ2PyVTYRwmrgi2vthog7hv2DV0pJCRELmNI8zPHn/3EsoWDmhtAzkR9HjUl0I8vryQM9w3LxNIQhAkxqULvI6xaF14t6AaQkM1LE4jpfP/UnQKxd/jSKUzzDAE9iYCRRSxry2fhWHaZQNQsIabD/qEVEMsW8PtkL5U7F9hOFaBF4jB0JyEFs0QgygHihLGpaY47gdg7BCJMrT9GvHAEX8hAOKQtAD3+xf+UmKajmptAvVZO9hCnTaY0uEGm3II/pEPzbUkY7iIn5aVKTNPhdqYVEC97vZKWQDRH/plXnQsBM+Fc/iWn5JwLlo1/L5QJxKvOpmYi3DsKxAEQsK2YG0DU7KCqPcQtPbvoQh7TQja6AFS3024BeTzqJfR4WJNA6mVPJ+KsDdeAlObBFkdayJOiIFYGpLQIoyTQqmamC1XZAVybnHTm/TT8CqUA5v34Oxtt5Ib+Aqrr2yOIXyWFAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaklEQVR4Xu2W0WvaYBTFG0YRgyhBaVhERSVKozQ1mJpSpw11uloZHeLask1EVtptdCuFMhiMvQ32V59xvvDp3Ohbow/zwIWiyPfj3HPv7cbGWmut9ZAULNZKpeD75z6+TI9wedGEmd9aJZSC9vQn3OEtGmf3GJ048HbzKGRTq4BSUBv/wt7oDruDK1Q6b1DtjjE8rqFiGsga2rKggpzcXXZwMzmE8+pGgJTbr1HYO0a+3g2AnmrQU7GwoeYg129bmJ4d4N2wAcu/QNEbIFc7gm460AwTxlYibCAFA38H/VYFvaYlQM5f1kWLzINTAZOuPhMwtpUOG0jBj9sT3F89F+60XFOADDo76LUt+PslGNa+aFlUjWO7qENPxsICUgQEi6PNlrnVHDrNbbQaJrxaHk41I1xhjnKWi82Iuhwg7hvmhuXaOQFRKRmi+DfHn3li25IJNQygYKI+jtsC6NunFwKG+4ZtYmsIQofolN1/D8vrIaImwgBSRHhZBKI7Xz/0ZkDMDh+dwbRPEdfziBtlZMqO+C6ZKT8mEDV3iO4wPywJxLbFY1GRpXr3HFsFG2oqC0MPHHpkGKkAiBPGULM47gRidghEGG8wQdY+RFQzkNTUcIGkOzLcBOr7FZEhTptwaXiNUt1HTNOhRjcFDHdRCFDKzB1uZ5YE4mVvukUBxOLIP4nIICswc6Fc/uBcsG3890IWgXjVGWo6wr0jQeTvHCsTBhAVPEQwuYe4pecXXRHH1C6nF4CaTjEsIKng8cnIE0CLj/3tSLA2QgaS+rM18894UuYQSwV6SAr8Rmm2UGWtHOrfWmut/1S/AYQ4q9RNPBukAAAAAElFTkSuQmCC",
     "wiki_name": "Rune satchel",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_satchel",
     "equipment": {

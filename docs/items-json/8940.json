@@ -1,7 +1,7 @@
 {
     "id": 8940,
     "name": "Rum",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": false,
     "examine": "Alcohol in the loosest sense of the word.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3ElEQVR4Xs3YS0tCQRQH8GYbEbgpNEhTVFLxET0IXAStghZBEEQQBEHQLnqIiD0sehERFD0QIyrsQfQJRCyi6COIZtROM9prcOLMZewatCpn5sB/o4v748xx7sGqqj8VASVSFAGrsRZaHBoZUAQudrwQ3fbCmt9DQW6DQSSKUEx4tQMWJpzQ2aAT3SUCg3YbDLsc0Gc1g6u+TnSXCIy4nTS9FhOYNcocCQWNt3lg1OOCHpMRtDXV4kGIGWt106NjGEEgQmeHgYacdpFDrQwzzg5iMIjrbtKLQBHob7bQjrDuYBCHc8QZReivacBmpR1hGAziEMkZpYB+Hpf62LB7iOrSN/JAfYMQ8FksluU9l4OnZBLuYjG4OjqCrcVQpa+B30HFQgHeslkKuo/HKWhzYV4e0PXJsXygjblZMSDEMNBzKlUCrQeDcoAeEgn5QDjUK4GAPKDLw0NY9vv5gxiGgV7SaXi8vZEDhBcjA51HIrDk88kBwiM7C4chNDPNF6TGMNBrJiMfCO+h6ME+zE9NigV95PMUhC/X071dPiBcLRCkXs5YcCXBFQTR7TptCVNBEBahC9rPfQiB+BnuQ2wP4oBhpSz4agwGO4ffccawYv94lIdBOGOUUj/8vyFflEIX2mmb8RwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABw0lEQVR4Xt3WS0tCQRQHcGcbEbgpNEhSVFLxET0IXAStghZBEEQQBEHQLnqIiKUWvYgIih6IIhX2IPoEIhZR9BFEM2qnGe01OHHmMmV3G80MHfhv7ub+OHPu3KPR/KoIKJGiCFiNDdDu0MqAInC+64XkjhfW/R45QIiJrnVDeNoJPc160SgCI3YbjLkcMGg1g6upUTxo3O2kGbCYwKwVPkcEpjo9MOFxQb/JCLr6OvEgxEx2uOnRCcfg7DDQqNMucqiVYcbZQQwGcX2tBhEoAkNtFtoR1h0M4nCOOKMI/ZqGbVbaEYbBIA6RnFEKSH1ctceG3UNUr6GFB+obhICPavVH3koleMxm4TaVgstEAraXIuJA1UoFXotFCrpLpyloKxySB3R1fCQfaHNxQQwIMQz0lMt9gTaCQTlA95mMfCAc6tVAQB7QRTwOK34/fxDDMNBzPg8PN9dygPBiZKCzWAyWfT45QHhkp9EoRObn+IJqMQz0UijIB8J7KHl4AKHZGbGg93KZgvDnerK/xweEqwWCapczFlxJcAVBdJde99cYVoQuaOp9CIH4DPchDnuQupQFvxaDwc4pEK4YVuzF6vzT+gQUA+We4z1LjQAAAABJRU5ErkJggg==",
     "wiki_name": "Rum (red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rum_(red)",
     "equipment": null,

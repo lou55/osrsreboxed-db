@@ -1,7 +1,7 @@
 {
     "id": 1863,
     "name": "Pitta dough",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": false,
     "examine": "I need to cook this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xu3WwUsUYRgGcL9T+BeENyFI8FIdzENGglhmkskiZpmJiJhlIiJilojIillmmlmJImIqIorZJqKYmiliKpoklkKCGOEh8B946nll1nHZ6VtXzQ77wB535sc77/fM+Pn54osv/00U9L8Dzc6b5effQU5OOrKyUpGefgOpqYlISrLhasIVxMVdRExMpBvgvkEVXr2sQG1tGaqqSvCoogh2ewFKSvJwvzDbI9z5yHMIDz+DsLDTe0UpNDc/Q2PjUy0qNzdDULcybgoqOTleUDbbJUFFRYULitc8GRjoLUqhrbXeElVWViiooqIcj1EREWe9nZJCT08rOjoad6Dq6x8Lqrq61BKVnZ0mqLS064K6lhgnqNjYC3tBKTgcnejubnGiWlqea1H3Cu4eBEphZKQf/f3d6H3TJqjOziZLVGVlsaBKS/MtUSkpCYKKj78sqOjoiN2gFMbGBjE05EBfX5dbVFNTjaDq6sq1qNuZKZYonkANSmF2dhKTkyMypYGBHkE53nY4Ue3tDVpUcXGuoPLyMi1RrIXg4OO6k6cwPz+N6U8fMT4+hOH373aNelj+QItiV3FK/v5H9KDFxXnMzU3JlEZHBwQ1ONjrRPH0uaIaGp4IqqbGboligRLFAiUqNPSUE/NX0NradywszGBmegITE8OyTwaKi26gurqaBdX6+oUWxQI1o/jYAgKO6qbDKGxu/sLKypI8uqmpD16jWKBEsdVdUcYJ00zHiMLGxk8sLX2WBec+GSguuhP1p6dcUSxQotjqVii2eFDQMU+mY47C+vqqPDodirVAFAvUE5TxNeDhdMxRWF1dxrevX5w7xUU3UOwpT1FsdGL4rgsJObHb6Zij8GN9zS2MJ5Ao1oI7FBud+8QJsSy5zHzZejkdc7Y+rpaXF6USuOzmaZm7ij3FfeKE2E88bdwbvkJYhvvwCbKVrQtsf/nx9LE4jX0yXjHsJ2M6xLCD2Dvm/+5xOjuzfbHtGxg1YEyHu8OdcYfYV4xr3OH+OcIqrjc/FIQvh53fiPfzg0NyD48AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xu3WUUtTcRgGcP9X4ScIr4MEb6IL8yKjwbDMJBtDzDKTIWKWyRgyTBsyZMMsM5dZjckQU5GhmC0ZylIzZSwVlyQrhQQxwovAL/DW88aZx7XD2ZxWF3vgXO6cH+95/89ZWloqqaTy30SQ+nWo2fsws/k2GY1VVFtroKqq62QwlFJZmZ6ulFwmne4CFRbmxQAeGFTQi+dt1NVlp44OKz1os5DN1kBWaz01NdbFhTuXd5Y0mtOUm3sqWZSg3t4n1NPzWBVlMlUz6mb1DUaVlxczSq+/yKj8fA2jkgYN9DsVUXZ7I6MsFmPcKK32zH5RgkZH+2loqGcPyul8yKjOzhZFVF1dJaMqK68x6mqpjlFFReeTQQnyej00MtIXQfX1PVVF3W24cxgoQdPTPvL5Rmjs1QCjPB63Iqq9vZlRLS1mRVRFRQmjiosvMaqgQJsIStDs7CT5/V4aHx+OiXK7HYzq7m5VRd2qqVBE4QSqoAQtLQUoEJjmKU1MjDLK+3ooghocdKmimptNjKqvr1FEoRayso6rg0KhBVr48J7m5vw09fZNwqj7rfdUUegqTCk9/Yg6aHU1RMvLQZ7SzMwEoyYnxyIonL5olMv1iFEOh00RhQIFCgUKVE7OSTUMImhz8yutrCzS4sI8zc9P8T5JKCy6hBoe7mVU/8tnqigUqByF15aRcTQ+0M7OD1pfD/OrCwbf7RuFAgUKrR6NSuCEIYK2t79TOPyRFxz7JKGw6BHUr56KRqFAgUKrK6HQ4pmZxxIBIYK2tjb41amhUAtAoUDjQe3+G0g4gjY21ujL50+RncKiSyj0VLwoNDow+NZlZ5/YLwgR9G1rMyYMJxAo1EIsFBod+4QJoSyxzPjYJoGRghsIWltb5UrAssunJe8q9BT2CRNCP+G0YW/wCUEZHsBfEHl+w3Dh9KE4pX2SPjHoJ2k6wKCD0Dvy30bf9YCy+wCpBqTpYHewM38BoRT5g/8ZIpVU/shPZhS/53kCjdkAAAAASUVORK5CYII=",
     "wiki_name": "Pitta dough",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pitta_dough",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 9386,
     "name": "Bronze bolts (unf)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Unfeathered bronze crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xt2UwWrDMBBEo0MJ/oFCCQS3hZZADr0Ucskh//9RKrLYajS7VqkkxyYDIZZka592VrvbPZ6c55k7CwGcPx/2fkUoBnD+8+VpGn+N4+9cen9xIZDz3697AmLgRZUDTBDHGFxgLEDepZOcv34ME4AEvLwPWbZkHWFkzLt1UARAIM4WArJ9qb66SQOFHz7/DRj3yfetVgz49pwHxDGvW/XUqeBjfbAdqT7s9RJQo4X69AGAs8XB2UINWCX79HybQjAZyxwfAOuvCYhPGjbnMQMjYPjnC1EJNB+MbxPbJdnpDqR958LU2eAx38Zk678Va6VcmPEdHJfWm2B0Y9OAaJcAYzZuJ7azWnZwBmR7SusNQHbwAGjNITDb1bURpjavbwkDIJzAYHtoAErBcXMEZDvkm7n1ZrvmgvMc2qV7TDe7gqx+MT9nZVTXU6OsNFtzIWApe/Y3i4uz19WuOiGM7uaranW7WBuwS2sz2UnaFEyrfgDj7yvlVE66vQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABT0lEQVR4Xt2UwQrCMAyG7UGGLyCIIKigCB68CF48+P4PValhNPmTbZJ1q/iDYBPWfM2fdrH4P4WIkZnFAUK8bptYEQoBQjxvlgA0KxwHCvG+bwAIgScVAoR428luWYD5+6IK8XlafQDago/jSnSrzXMYuS4qAuBA2C0JSN9MaJ8GSj/+fxiQ9sn/R4kKHtayIF9j3ponDegSzQfakefDzk8KhKdPANgtLI4WakCX7NPjbUrFZKGgDiDnzy08GW2OawSWgNaFcKm7GN4mtCt3h9bFgLTvOJi6G7jG20hxl2hW+gdTz1N/3i3rYdOA0i59G18XtNMtuzgCoj39ebfs4gnQinFgtKvoQ5g3s24JAuCs4PPgVi7ON5eAOcbhuvOj1F0cY9wu/cYUsyuJinwbszqq52k2DXWvirB7Re0aK+s1r6rqdqF+yq5WPwXzh3oDKW6wjNoZWZkAAAAASUVORK5CYII=",
     "wiki_name": "Bronze bolts (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_bolts_(unf)",
     "equipment": null,

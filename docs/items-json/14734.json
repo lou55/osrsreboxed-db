@@ -1,7 +1,7 @@
 {
     "id": 14734,
     "name": "Mithril sword",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A razor sharp sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbElEQVR4Xs2Wy0oDQRBFUzRhGHEZEkjIyzCGPMgkgugiCIIgSgg+8DtE9BsUEVHciIgi4lIUF4K/ILgQf+hKdZOYNOouXX2hCDNTA4dT1UMSiYmHYN8RCoMQarUV/Ws/dRxCpdJFvb6qi6/bpZIUFKFcXtQgnc72EEYIiJDLxYiiJbRaPV3e2InbG37ZEYbhGDt8qhrNdflRDeyMwogCDex4AfObHbvLYQjF4jxmq8v+2OGvshcw6XSk7fC4vBgV2+Fl9srO6O7YXQ5j7DCQN3byhTkfYDiEbLYxBmR3OIyxw+MStmP+jnJlMjV5mLPTEE+PU0ilZvS4hEdF2NsNcHVpoITtcAhbm0kcHY5D2V2OQ1jIKw11cx3i5VkUihBnFNYihZ1mEifHAe5uQ7y9ikAZmG5BoV9Vw5M2KMe7RDjYD/BwH+LjfXoMYLTstyYYA3RxHuLr8wfI7nIYQr+n9JEXGM9fEdmV/+Ma5htMDg9zqt2w4AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSElEQVR4Xs3U0UoCQRQGYIdBlokuxQVFxWSTVXEziLqQIAhEEanE54ioZygiougmIoqILqPoIugVgi7CF/rlzLBu7H2e88NhYfZiP/6Z2Uzm36OQXmEKQRTCcNc+028XHIVarYtGo2eHGaRQrW5ZSKcz5scUixGCYBvt9tAOOyhuJ1rb48f8bYcZQ3Ht0K1qtgbcoKQdARhK0o4IjLh2KpUNrNZ3ZGCoHfori8Dk84Fth7ZLBIjaocMsAhO3I+rsEEgEhtopldclYCgKhUJTCsi1Q9vFjKGPu/H9kB9zdWnw9rqEXG7Fbhc76OjQw92tQzFjKAoH+1mcnQpDbZa0RT3cG3y8s6IUIl+jH2hMWllcnHt4ejT4+mRBOUy3rDGq6/lNS2ahUTg59vDybPDzvcwBSMeBbq4Npr9CQKOhtldeACYOy1mRlRlnTMqUzX+j8gAAAABJRU5ErkJggg==",
     "wiki_name": "Mithril sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_sword",
     "equipment": null,

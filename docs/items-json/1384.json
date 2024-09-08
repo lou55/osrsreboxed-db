@@ -1,7 +1,7 @@
 {
     "id": 1384,
     "name": "Staff of water",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A Magical staff.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs3VXUsUYRQH8F0WkRUxoj6AN11EF/UBiu2mLiLIKDJ7pWyLohckKUQSq0V6wzCzqFAyxETKCKKiKKrrvkjXQben/jP9nz1zPLvuuFP4wGHGmWc8vznP2WdyuZU/8uKHd/+fj7zcHtwjNwd2RzFyuUsq/buiIGJm7JhMjx6VqTtHHJR9iabhMYgogBgWM3nrkDwcOZBIjL9xz0YSlQqZl9ErexehcASEQdBEZb+MDe+L5uLogTBfoz/ND8qH2YvLQxGEc1aHoMc3DkYgzq0FwnMf5wbky8JV+bpwPQIhx6bOzihsdjPisvOtCUJSDzR+rTuAcI7nLWh2/HgChHOCbHYz8ollQCI2N/62IMCB4PLi+WL707A0BM0/KGcHYpVwzQOxkgHUdlfaV3+XjrU/A+rlo5MBhEgFYl9YEJJbkG7oqCqFddLaVpG2Vd/+gH4F0Ksnp5Kg55eaB+E6QESxkpxD0PZSSS6UT0jHmh+hSq8nT2cLQgCgQbahiRrubo1xfwNz306fDaDPL4YCJjVIo/jztSCN2baxEEBsaMx99+y8C7LZa4z4zZCsHkg3NOaf29EilZ4khqD3M33LBcV7ECq0FIhVxDP3eotRTJSLi0CYr0F6U7TZzYh/8h4I4YHwTN/OZM/gf+jqZAoiCoEE2HGRAOfclVEZHIHGc3a5MgPpKuGoQZhHEDG1QHP3ewMIuzQxDYHwy/FA/GBqkK2OB8JcfDZ0hRqsDkYVZPsI1zVIY9DwHojLhc9GZiCicB0JAMK8/q64kbkHAaMrqUHYpTWIKJvdGTHIWzaCMKdnS0tYpqVAeIE3U2cCCHtQin0oCdLLhmu4v3l9ITriusZ4IFSnaRCa1QMRg90Y5/qToUHsNS5XZiC9bLi+dUNBDpdiDBLyk6GXiyD8D4Lwk9cg7EGp9yFv2XAPgTfGnHog3T+ZgLxl41sjCe55DY3gZ4PL1SQIo/pNqhe2fxgWhE1RgxgpQLkct/V6YYE6dP9kAmp0WGQjWEZ17n8aFumFfWZFj997r6Eip9naUgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xu3Vy2oUQRTG8QxDCBlCRPQVXIgLX0AZN7oQwYhijFc0RlG8EAxKCErUIXgjEmMUlQQjIYagEUFUFEVd+yKuBbel/26/5nRNZWZ6phUXFhy6p6a669enTle3tf37reDCEfr/j7eCuzmy010f3hHF2IUeVxnaHoUQcxOH3ez4ITdz62AA5T9Ey/AYJBQghY+ZvrHf3R/bm5qY3/znRxqVCVlw4xd3VaE4AlEINFXZ4yZGd0djOYZAjLfoD4sj7t38ueZQAnGu7Aj08Nq+CKSxy4G47v3CsPu0dNl9XroagTJhuKmeWiAmDYEmr/QmIM653gfNTx5JgThvEFRILQMTqbj57YOAg9Dycn1n1+NkaQRavDeQH0hZoi8EUiYTUOm261r51XWv/p6gnj84loCITCDVhQ9ich9kCzqaoLjGdZQqrrTiyy/QjwT04tHxNOjp+dZB9AMSSpnUGIG2lMvu7MBR173qW5Kll9Mn8gURACzIL2ihRns7fk8WB2Nfz55KQB+fXWoUQ0uDLEqvrw+ymM3riwlIBc3YN0/ONAuixU/GZLVAtqAZf3pru6v0pTECvZ0bbBYU70FkqB5IWeSaO/2dUUwNdFaBGG9BGTbF+JUPgYgQiGsGt6VrhnvY7OQKEopgAnZcJuBcuzKZ4Qia6/zlyg1ks8TRghgnkDDLgRbu9icgdukGMbT4DQuB9MG0ID87IRBj+WzYDDUF8uuIfguyGAo+BNJy8dnIDSQU/UwAiHFDPXEhaw8CYzNpQezSFpQBFYNCyyYQY/o2tifLVA/EA7yaOZmA2IMy7ENpkF02+vh/w9pidKTfYkIgstMyiGINgYRhN+bcfjIsSLWm5coNZJeN/k3riu5AOcYwoT4ZdrkE4h4C8cpbEHtQ5n0otGzxDQrREzOmFsjWTy6g0LLpqZmE/0IFTeizoeVqEUSLM1Ev/PpR+CA2RQtSZAA12qqRCls/fxFUq1Ujq+N/a639BDGrVpbloWtvAAAAAElFTkSuQmCC",
     "wiki_name": "Staff of water",
     "wiki_url": "https://oldschool.runescape.wiki/w/Staff_of_water",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 21031,
     "name": "Infernal harpoon",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": false,
     "examine": "A very powerful, fiery harpoon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVklEQVR4XtWXzWqDQBSF5zLIoBSLVLowVPNDU0ggJiFNKGSRTRbddFHom/QR+t6nc9VR66Y77+TABf9gPs65o1elbkeE4RVBEeYmgEdQhJPRyAPdQImDES4W6GyLwbiEwQhXC8FQfbB969joIryHuoViIIZxTm2n07GhCB8WaAjFJQTE+gvlShToMwwqKK6vqD4W7CMWVSBc7phjK7SShepcIXzHBmVzLhQdq168BiAUk4k0kFLd4oS3wwGPaSoZ21CE122JuyjyC6pcr+Wj60Q4H49YLZd+ucT99JAkfkGddjuExvgFxU3uVT9xdPvNxi+XODq384Z3hVRH593Oe57NfGpyqhya53kPShyM8LJY4CnLKihPwGoA/givQoXCKGSB6BzFsj8LiZ3JY40y0kibwU7wXWWnzDRooWJ5IJbrHcLPvWl/FIZPjar+tOkcEnap038wv8e60ZtvVc8VAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOElEQVR4XtXXwUrDQBAG4AxLWBIkEgweWkxoixVaaGypLUIPXjx48SD4Jj6C7/27f2rSmJuXzvSHgZBLPmZnyW4UXU4EwzeKEUx9DEMowd47lLH7RanDBC8BdAhFGEsZJngNCKL6sE3XsbNH8Ja4DkUQMadOnT2C9wAaolhKIOYvqi1V0EcSNyjWZ3p8VpwjRhoIq33mslUu0kWduiL4yjxq3S4x/Y8LqvFYG9SP4Hm7xW1R2EI9Pda4SlNbqHq5tAU67HZYzOe2UJynmzy3hdqv10i8t4XikJsCcek2q5UtFJfO3M7j0pnbefeTiaUhl6ZD07LsodRhgofZDHejUYMyAjsC+BNeJBEqH2EUq56jmHBZyMOZPHOoU4dC92DHhFNmEXeoTB/EtLMj+L722heFYdQH+//5AUynt82ZrQaJAAAAAElFTkSuQmCC",
     "wiki_name": "Infernal harpoon (Charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Infernal_harpoon#Charged",
     "equipment": {

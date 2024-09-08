@@ -1,7 +1,7 @@
 {
     "id": 9327,
     "name": "Runite bolts (p)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Runite crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQUlEQVR4Xu3UwWrCQBAG4MzBg32EipJSKmhAjQTNIQiioohgqYqhUOilT9F7fQAfeMpknc1uLNRLdjzkh6AbBD9mZ8bzqpQewOIbwQBGhxbaKFEgYKPTz0AD388+r4HOAtidLLFWf7gAAIfrQwHoLIDx/hM7yVxjkvQrAzLGOWj89oHteKpBdGagYwwH8CmMNShc7TRQAAQ42r5fgfgsAurNNhpD/STaPwR4jhINijYpvowmctXpL16NP7fPIiCuxl/XVfx1yVHLz6wOXVczGMqB7NHOm1vgulQ1TAwtQ6FRV/1ib2L7+hyCAE+n7+x5bAcWSGAz5xiqTnpU483vbWDpyTH0/Xz+0Wd6aPcw0BGIoqpBk0S7xwRRxRjrEERRm5j6xayYIIiiKsUPN7UgyPN4tO0Rdz7y/+euMFWqVLkhv+92HfzNZXfkAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABLElEQVR4Xu2UwUrDQBCGMwcP+ghKBREDacHSEGoOISC2KFKwqMEgCF58Cu/2AfLAI5M1u7OrHjOTQj5Y6CyEfvw7M1E00juA4Y0igFl1ir6UqiDgSTJnQn8JigE4LW/x4PDoRwAwva8CQTEA8+d3TIqVlSnqj1ZQQYYAvHp8wzi/tkJUO0EVAM8WuRVa3D0xQXEAlw+vv4RcLQ7g5c3GylA/qfYPCZxnhRXKNjVeLEs9ofl6y/48rMUBlsYAnouWH0+HnmsyS/WE/NHmzS2OSYPL0DJUGnXTL/4mDp9PDMDd7rM9x/HME1LYzE6G0qlfuvE2975g7zgZ+t00X7amQ7vHCYph0qBJot3DhSixTjb8qmfMJqZ+4YkpChEmKXfMnaLQfwxKZmRkZD/5Bqof5gRMxD06AAAAAElFTkSuQmCC",
     "wiki_name": "Runite bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Runite_bolts#Unpoisoned",
     "equipment": null,

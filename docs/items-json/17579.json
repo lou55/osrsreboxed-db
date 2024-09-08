@@ -1,7 +1,7 @@
 {
     "id": 17579,
     "name": "Conductor mould",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-31",
     "duplicate": true,
     "examine": "A mould for making silver lightning conductors.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4Xu2WzUsbURTFfStxX1zrQhcKjRYsQq0VghZFqqEEtbUaQgjWVkMIIVjbEEJIsLZWjR+0IUFCsJKFImg3Ltr/7JZz5c48xlgVX0zBXDg8Zgjzfjnnzn3T0FCvetXLWYps1bwUxWLv6eNyiOLxsAZWEzjFIAKTTEYplYpRJrNMkcjcXcMphkgkIhdgsOL+h6VFikbn6e3cbLXhFAMIhA4zNPiMrwGJKOHUwoKfofz+KZqZ8ZqGUrw5lE4vsXQYXMMdxAh3wuEgvZv3WUD4DZ7R1dJiAkrxhtgc+rzyideDgzxvBAEO7iAuSBwKBt/Q2Nhz6uhoNwWkGAD6shpnCZC4AwEOksjEoVdTHurpcVFTU6M5oLW1hCUdCP9awCD0kEQWCgU4qoGBJ9Tc/MCCuSWQovX1pKV/AUkPSVxwZ3R0kNraWs3BbG6mKJtN86oDOWEg6SGJa3JinB51PzQHs72dYelAl7njjMvnm6D+/l5zMLu7KywdyOnOZXHhNR8ZcZuD+fF9lSVAV7mDexIXovJ6X5DL1WnijVKUz3+jXO6rBXQddyQu9A6mcV/fYxPuKCoUNiygm7gjcWEA6tP4FjAoG+i67siwRFyYyB7PsCkYlKKf+zkqFrcsKHEIQPpk1t3BirdqevqlSRiUotOTMh0eFnn8l0o7DCZO6bHpxwgaORB4TW73UxNNrJeiP79/0dnZMYMdHZWoXC4wGKKEY3p8EHoH0xgHp2F3pOwPKcAgQgDt7WUrxojjAQdnlWDOy36wDSdxoV/kixATGdO4qjDOqgSHwSdfgXcK46xKcDWDcZaA/Bcw967+AtKJa9hvX6E0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACU0lEQVR4Xu2WzUsbURTFfStxL+5d2IVCQwuK4CcElYpUg4RoqzaEEKxfIYQQ1BpCCAma1lpTFRsSJASVLBSh7cZF/c+unCt35jFqa+FpFubC4TGTkPfLOXfum4aGetWrXs5SZKvmpSgeX6JP62FKJCIaWE3gFIMITCoVo3Q6TtnsOkWj808NpxgimYzegsGK+2urKxSLLdDH+Q+PDacYQCB0mOGhAb4GJKKEU8vLAYYKBKZpbs5rGkrx5lAms8rSYXANdxAj3IlEQrS44LeA8B2DQIo3xObQ1uYGr6enRd4IAhzcQVyQOBQKzdL4+Ai1t78wBaQYAPqcS7AESNyBAAdJZOLQu2kPdXa6qKmp0RzQ9nbSkg6Efy1gEHpIIguHgxzV4GAPtbQ0m4PZ2UlZ+huQ9JDEBXfGxoaora3VHMzubpry+QyvOpATBpIekrimfBP0+tVLczB7e1mWDnSfO864/H4f9fd3m4M5ONhk6UBOd+6LC4/56KjbHMyPwxxLgP7lDu5JXIjK631LLleHCSBFxeJXKhS+WEAPcUfiQu9gGvf2dpmBKZW+WUD/447EhQFocBrbQA91R4Yl4sJE9njemIJBKTo5LlC5/N2CEocApE9m3R2seKpmZiZNwqAU/fpZpbOzMo//SmWfwcQpPTb9GEEjB4Pvye3uMw909ec3XV5eMNj5eYWq1RKDIUo4pscHoXcwjXFwGoaRwo/eCDCIEEBHR/k7Y8TxgIPzkWCcZcNJXOgXeSPERMY0fiIYZ9lwGHzyFlgjGGfZcM5P6vUs6xo//y+iopfzaQAAAABJRU5ErkJggg==",
     "wiki_name": "Conductor mould",
     "wiki_url": "https://oldschool.runescape.wiki/w/Conductor_mould",
     "equipment": null,

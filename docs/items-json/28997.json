@@ -1,7 +1,7 @@
 {
     "id": 28997,
     "name": "Dual macuahuitl",
-    "last_updated": "2024-07-13",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "A brutal pair.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xu2W7WtSYRjG93wIUcSDTBQntaWoqMM3pk6atGFu1MbYom1W0gsWUjJ6QyoGwSAiKIIIgqAg6GP/Qf/cnddzuh/POVpsetQvXXDj2+O5f+e6X3Rm5r9sk6D+mJoELcVi9La1Si0tQXc8Uap7wtOCEpSLRujLsw1qe5MyXt2+QC9uLNNWOfIXKKuTg84MJd2ZUiKhgN7cvyiBOvUShXw+mSy7sGBIKCgdDqtobWfpejVpF5igc34XhYNuE1BTi1PDE6H5QMACpLvJ8elRTZ4F1M5KlMqpOXugEACqe2YlEHro3mamCxrsA4KjCMC8e7Am+w7fQc9V8/MDHD2V9ATlVFLCcOy6NVUGXNwIZHWTYeBQ0OsdBUi3H/3z42hLuYPAxdk5qztw5uPhJXUWpb1ZS8l+QzCUOdeJ1Gvob8+vqAR7bq+6ODc1wzMMO4nSon/Qaxz9rp5YQsKgXC3N3724T5VrEAzOMgzDb3fPPtzJyV4z9tsQMCxBlVCRynNLdHx3hY4aZbl/AMN3y05aYcx7qlfekWCMQLx79lfj5HWfIb/mMCX70K7KqUJJ4eKtjUWTkyPD8HQBBoG7zviTfXc9aMTzgbQdPcPqwWB8GaYYzMrdgynhScG5z0/WFTQCMNw3NsBAgn4e79Cv9wcyGUrBd40yMAya+PvLTVVShjE6aAMMS78g+gaNjMD4cl/w5yjR62ZFnTPuGwayXnkICWpmNGrnvdQpzdLjawU6vJqXMGjoXiIhYZ7uFyUMymRj37AENVIeGa2cphwAkLEMePzauSxLCSB8bv1tswGGZR7lgsOlgHqJhJwslArOGL9jM4wuTopFB6D+RELum4rTLZ3cjbmpctZpcHAsElRzef4Jg+cA2ovrz8fijq5uY2s+WvuT1AiDLWx+v+tksgduvo5t0svFLnBi/FjivUWHtTxjdQfSy7Ls1PuHA3umkg4NLM8YYSAhx3m9cF4mx8bGiGOibPgbelrpCw+jzosQrwGEJZmJ+CcPhP8ycAMl4nIBhneOtVwT0KBFZ309YXFia+NOBWaa+g0KdswxC4BHLwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xu2W/WtSYRTH9/wQosi9XCYOJzVSVKZDN5k6adLGcqM2xhbtpZJeWCElozekYhAMIoIiiCAICoJ+7D/onzv5fZ7Ovd6XoPTZ9su+cECvx/t87jnfc3Rk5FTaJMgfJyZBs9ksvW0vUNucpDtGhnaN1ElBCZrJpOnLsxXqWHkZr25foBc35mitnv4LlLeSQTkDSVWmNjlpA725f1ECdXdrlIzFAg4TVEyl7GivT9P1pbwuMEHn4hFKJaIuoD0zRy0jTRNjY55DVDU5Pj1qylxAbcxnqF4Y1wOFANCuMSqB4KF7q6UeaMIHhIoiAPPuwaL0Hb4Dzy2VJ4YFUgfUC3kJw7EZNfva4M73VpNhUKGEZQV855+lyg///DhYs6uDwM39nlDwqMzH/Ut2Llp7s1mQfkMMAeUY+tvzK/YBW1HLvrljagXPMFxJtBb+gdc4BoSBhIRBu9pmvHfzmN2uIBjkMgzDr/dyH27MSK/5/TaQBDWSVaqPz9Lh3Xk6aNXl/gGM87Sqkl4Y957ytncgqZswEO+e7YUcWdEzFDdDrsM+dJbkVKGlqOKtlSlPJYeSM12AQeCpS/G876mDRrw8VtThGZYDg/FlmGpiWu4eTAlPCvI+P1m2oRGAYd9ogIEE/TzcoF/vd+RhaAU/NdrAMDDx95erdksZxl1BbVI3hG9gZATGl33Bn6NFr/cadl7/vtEIJGivZFKnbFG3NkqPr1Vo/2pZwsDQzkFCwjzdrkoYtEmjb1iCWgVDRnvGtCsAIHcbBH3tXpatBBA+D/5t0yJnguCfSijSB+TkYLLQKlSm/ztOjnYJuegA5D9IyH3TCEdlJTezUWqcDQfkaZWgZsQIOMSBwWsAbeXUa3eeVvWMbcZo8c+h/dexhd3Xe5XMB4FrlWoXV4Gv4ccS16ZC3vYcKQyk2jIXZv+owJ5pFJNHXY0gCTnOy5Xz8nBsbIw4JkrD39D/lVp4GHVehHgPICzJUjp+/ED4L4NqoEXcLsA4O+fY5fjGf+1UJ6vfJElwcQkkpkwAAAAASUVORK5CYII=",
     "wiki_name": "Dual macuahuitl",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dual_macuahuitl",
     "equipment": {

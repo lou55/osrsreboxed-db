@@ -1,7 +1,7 @@
 {
     "id": 6000,
     "name": "Krandorian hops",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": false,
     "examine": "A handful of Krandorian Hops.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzElEQVR4Xu2W7WtSYRjGdz5FI4rYcDhJpzLHNMQO6pLppviSU0mbc+j8YGsIKzEzGgXFYBB+KaIIIoggCPo3r3Y/h/u8+LbSVIouuDiPO+c592/3y6Nzc3+/JPR6ZpJQqjuFiw8cKNQUzwhKgSEQ8t2q3eApZ0sSmeCsEECmbOvrKUBJIhBBMEy6ZB3oCUEZm5YDMUxy98ZAM9gfglIAQkkztrPLIgD/LZ63qMFoTffJtNZbDzcmlAR/xIRgdEkAhdMK1EHDZYCiQAzEz/Gz/SBHhOoPQ8G1ntCg6B49Q8/SHt43CHAEqMFA1Dc07q2MBY20BfWEEoSBaJ8vtCiu/A6y/p/wrawId0cdoouBXhVtOMlbcZxaxt7GIuymS4ag/cwgvwnDkgxA3C8M1Kk4BBRl6iC8hJjnGtyWeTUwXR/n11C/40R5y4aol7M0soYD0X2CoixR2XLyAnL3r6rZeHsk40XJg0bWhVrcgWxgGbLz+vhQPPI85nQYlo9X1cCUJS4bfU6Urojrt3YIX1u38azoFlkqha2IeEy6DI4sqQeIX8ql4bLRenNnXvjHSRhfmhs4q3oFVDV6fojKZiR95nGzRFLGm0e+tzG1puW1P3ZZXXe7d/9IGv4yfcbY7oA2efoJ67d/JF38MkmUh5qYysNN7PIx2FSlTNZp5abaM9qoG8upeaKS8L7uR6fmQ/veujrqQdeCCvBkL4BK3I1cyIm4PJGfJXpJ+NwIiiwxkDZREt414nh9FEFzV0Zxy4VUwK7L3EQkiXOHgejcCa0rZxP5UzuFNw9jAqqa9IgsTRiIpPQRAdHXhRbwHPZ5Bh9bSZwdhnG440UhvArZNfbXya9Ia1r9UfD9ZU4AndY28ahwC/vRNUR9yi/JCWdJOx60QEagp/tBNUtTAeqVAvShmUCnvi2gqLmpl2YEROo+g7rLOgPpS9lb1v/6R/QTFcGbGCwq2OAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpUlEQVR4Xu2W7WtSYRjG93yKRhSx4VBJUdkZ0xA7qEumm+JLTiVtzqHzg60hrMTMaBQUg0H4pYgiiCCCIOjfvNr9HJ7zMo9lvhLsgotz9Dzn3D/vl+e4sPD/i6HfcxNDpenhLj9yo9RQPCcoBYZAyPfrLoNnnC3GMyGyQgC5qtPUM4BiPBBBCJhsxTHQU4IyNq0IJGDSu7cGWoBNCEoBiKSt2M7beADxXbJoV4PROV0n07neergxoRiCMQvC8RUOFM0qUActyQBFgQSQWCfWmkGOCGUOQ8G1ntCg6BqtobV0j7hvEOAIUIOBqG9o3Ds5O1pZO5opJYgAovsCkWV+FM8g63/ExWhD6O9Ab8pOnBQdOM7YsLexDJflyoWgZh5LzAAk+kUA9WpuDkWZOoiuIOG7Aa99UReY4WlxDc17HlS3nIj7RZZG1p+B6DpBUZaobAV5CYWH19VsvD+S8ariQysvoZF0Ix+yQfbcHB9KjLwYc9oMq8eramDKkigbfU5VrvHjj24E3zt38aLs5VmqRB2I+SzjApFYH5DxoUwtG51v7ixy/zqJ4lt7A2d1P4eqx883UdmKdMA6GSgCGvwa0Detch5MXFWz2O+JaNiHaYG9If3kzUWMl4eamMojmlgKCLCZSpms09pttWe0UTeWc0ZZY/jYDKLXCKD7YF0d9bC0pAI82wuhlvSiEPEgKQ/qx4mJ4WsrzLMkgLSJYvjQSuLtUQztXRnlLQmZkGv6QLTvCCDadyLryt5E/tLN4N3jBIeqp308S1MGIil9RED0utACnsO+zOFzJ42zwygOd/woRVchS2O/ToaRWdMy/Hxd4ECnjU08Kd3BfnwN8cDE/kn+q4xAz/fDapbmCvSpnUKvuc2hqLmpl+YERNKX0qysl7rUdPQbL1pcBMVAt8EAAAAASUVORK5CYII=",
     "wiki_name": "Krandorian hops",
     "wiki_url": "https://oldschool.runescape.wiki/w/Krandorian_hops",
     "equipment": null,

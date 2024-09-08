@@ -1,7 +1,7 @@
 {
     "id": 3097,
     "name": "Steel claws",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": false,
     "examine": "A set of fighting claws.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNklEQVR4Xu2W204CMRCG7ZtwSzQqJh4SRDSK56ioiGfxHCPG4I1X+AC+9Ji/zWyn3S3KskuM8U8mbDbQ+frPdMrIyL/+lhSlj0xlFj3e26NWs0mv93dU39hw4nS/TueHBzoujxo6Hi4uosgIzCyyWq3Sdq1GB1tbOlHn8YE+3jr02e0GgfB5d3amIyMwRdOTEzQ/M0PLlQptrizrxAwEOD8kjATyw4L1JUUTo6M0WyrRwtxc5BISSSBZNoZCwDGOeD8pmiwUdPhZe0jRWLEYcwnJGjs7OqQ7PhDHzclJFAPAQAZoanzccQk7Zkd219aiZyT3XUD45ZJgfsYfSEVA7BICpUMAiKHYHVki40IYLiVYfNconYSSLsn+kWA+nATsG4oXDC2cFE9XV/o0+SVKWidlT0HxxHLBpGQMFypRChi7MCY1SoJpjZ3DgefrViwJKwku5QxiKVosl3WfoGlx1NEbgMGuAfNye+Mk9FdgSbgUrkip6GqAMwABBIIbGM7xXOoFxRoABlIaBIk5KV+emNg+EJ6/cysDGZdwzHnmyHhvtx0gfKLMOUKZGx+BRHBlfWlRzyPfFXaMJ/eA5QlJ6fLwlEYygEgg2z+mxDjm9jrJRfIkKV0iwOE5XialT2DuUP7gQ2NLV9wyDQnKyiSUAAxmk1so+71cFQfA/203uQtlf5uLVDSpfQA3uXFvaFD2Rrfv/ORcVv99TjIOuD0SurNC7zNV8s5DSUPvM9ZQdt6ffhVMXvoCutzUtZ1XH1gAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCUlEQVR4Xu2We0sCQRTFm48jhWVQCVYaPa0wzextTzOiIuqf/rIP0Je+cWa4O3d2XFvXdYnqwMFliLm/OXceTUz863dJUXKnKjPpcb1OV0dH9HLXoUa16vh0v0HnB03ti8OWdrfdDpwSmJlko1ym3fV1au7s6EKv9136eHulz14vEgi/nbMz7ZTAFM3NTNPi/DytLi3R9tqqLsxAgAtbwkigsC3YUFI0PTlJC4UCLReLQUooJIFk2xgKRmJsfz8NDQMpmsrlvJRQrFWract0wkDsm5OTwCPAQAZoNp93UsKKOZG9zc3gG8X9FJTXrhHBVADEKcFoHQwghuJ03BaZOaLgEoL5q0brJJRMSe4fv6A7jws2knzIsB8uL/VpGtyiqPHY8gtHT+jCjdCisOzEuKnREtzWWDkSeLy+ilHEzpHwDmIpqpRKep9g0+KoY28ABqsGzPPtjVh5nEJx/magVPA0IBmAAALmDYzk+F5KoeB3UhoEhbkoP564scNA+I6fVmKZlHDM+c6Rfn96coDwizaPEcq8+DAKIZWtlYq+j8KpcGL25h6LlG4P39IoBhAJZPePaTGO+dihpNEiwOHbb5PSJzADKCmlN7ZMxS2eOZQpKAEYrB9UBkCQD4D/t93imUIpcVPbMf85MellBmVfdDvWv3jUeOoyCfhj/RQ1nqoyW/kw+lEwf0hf/yWNB1HiP58AAAAASUVORK5CYII=",
     "wiki_name": "Steel claws",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_claws",
     "equipment": {

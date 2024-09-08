@@ -1,7 +1,7 @@
 {
     "id": 26945,
     "name": "Pharaoh's sceptre (uncharged)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-04-27",
     "duplicate": false,
     "examine": "This sceptre has no remaining charges.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xu2W30tTYRzGz8vhMDYOZ8hkso2OW7FCL+ogio7UJTVQF5o/FgsbJCY2ZAxGgVIqwtioQBC8EIKIsLsgCLqqxAsvVRCvtIgg8Grmn/B43vdFWXPedc7rhQ9873b2fni+PyXpQraL4N8QKgLdJ+NaSIHR4EBHs1MkHEGTLmMs4cbkSA2mJzxYmPLi6T0HUlEFM2mPnVAEYa+EQUPBVLcD22shbH4P4etHHZleBe0NMvLZWgZkBIN2QBEk4xoWn9dh47VakSYe1C1bgWi9PHvM08IfJWj0SYiZ7qTauHO2AtEiftivnTjS16WimOOunA5LxdOV6FYxEFMZSE+nC7GbLqTNYi4H6dcDKLQYVkMR3O3wIHJdw/DtWmQfBFB84cXYiJulqjUk49Ggxrou4VKQUTmkhakj6Gp2YyLpZo9O3g/g1ZwXuXRNlVTxoDCWAt1yyPiw7Mf6l3o8GfIzh8ofrhaV//KfRJgrn1cCdrtQTYQNu9VP+pluVH5hofigo9NYkBvlIlier8PvrSuiYXhtvH/pR2nvhniYy5cUvC34cPgrLh6mzXAymL8/o+Jh6Cp4k/fh4EeTeBg68ilMafeqeBi6uWk37e+Ezw/Mn22hrc3bmp4SS7PC5wxBq7kg+5wyRs3zQDAMFd/Y4ybMu2hENAwVdyhlHlDfeu6cAFX+ymYJPR2q6xjkXMBc6AwdAbS2a7gw9LCIAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6UlEQVR4Xu2W3StDYRzH93Q6ra3T1pqmbTkajbhgiZCXEStM3idiRYglKVHkLSVCKeVCKUncKaVcecmFS5RceUlKuRr+hK/znCca7XbnmfKt5/r59P3+3nS6f2kugp+Pqwhku4B0lwhPhh4luQaecAQ5soCegBmDHRZM9FuxOm7DaIMeQa+I6ZBVSygCt02HJo+I8So9bs5duDp14XhfxlCNiOIMAfPDCdoCtflNWJtMxOWK9Csm9qhbmgLRehnrjYyFINOug09xJ1jAnNMUiBZxZ73p25G6cgmLI1+u/H4xFYsrUCWh0SepINWlRviKjAgpxRwJUi87sZDniTUUQW2JFYVZJrRUJGC43YnFKRt6OsxqVPkuAV1NJrXrAkYRQ9IXZMxEUJ5rRn+bWf10sNWJ5VkbRkKWKFFpFFmZXsDehgMXR8kYaHaoDmnwcTQR1ZXDXafWLkQTUYfd2YHMCyBSbNDRaRwXMBtziXi+TuUNw2pjZ8mB8H02f5iUJBFbC3Z8PPn5wxR4DCrM+6OXPwxdBZvzdrw95PCHoSOfwoTv0vjD0M1Nu+n11h0/MC83XFubtTU9JdZnuM8ZgnxlQdYZBHQr5wFnGCq2sfsUmG1vIW8YKuZQUDmgTqor4wGIitVQnMD86+/oExuOIpttb0kzAAAAAElFTkSuQmCC",
     "wiki_name": "Pharaoh's sceptre (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pharaoh's_sceptre#Uncharged",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 11890,
     "name": "Zamorakian hasta",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-01-09",
     "duplicate": true,
     "examine": "An evil one-handed spear.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xs3V70sUQRgH8Ls/oTe+MBIpehXceWB2QdgfkFCRVGgUVpZFFGUUIkmlSL8QRCsyFAwxkTKCqCiK+ssmvrN812e/zZ67d1s48DBzu7M7n5t5ZrZU2v6l7MIRuv/PS9k9HT/hHo8d9zF995ibun3UBxErs0NueeacW3p2NoDSP9EyPAIRBRBDMYtPzriX0wOJgfEb9zSSqFzIspu51/8XCjUgDIKeT512s/dP+r6oQyD0t+gf6+Pu2+pocyiC0ObsELTwaNCD2DcNhOe+r425XxsP3O+NSQ/CGF2dnT50dCnRtPNfE4RBQ6C5h6diENoh0Orc+QQIbYJ0dCnlxDJgICY3fisIgwPB5U0Drb8YLg7EWcK1EIgzSRBmTUHvX12KQYhcIOYFBsJvgjC4gmxCNwJ9eH05CXp7Jz8I7YPd3b4GCNcBIoozaXdkGujj4pXWQZyhA7WarxEWpAmdBkLfz8vXYtDPdxMxJjeIKMSN4YsxyoKIASwN9OXN9SBIR08pEQAvt4lNDO9rQhOEpVTQ15WbzYKigTBDCsLLcb+3Xnf7u6q+rSA8pyD8CQuyh6KOLiXa8iEQgi9Hv77aHlftaPPtRiDMTqEgohAYACeuXTa7nATpchUGsrOE2oLQjwmN53a1t8dIBa3NX4hBOKWJyQTCDgmB+DmwIJs/eHZ0ZMR1tO1IoNAXnw07QxlnB2UTpHnErUwQfmtC4/lbR3pcdfdO3+Zy4bNRGIgoXMcABOG+PRDR5pk1dLjieit7fRt9cUpbEFE6eqBEoNCyZQXhOnOpr17x9aelqzEIZ1COcygJsstmQahx3WIsiPmD9w0e2ufrpkFI1q1AGIw7TEHMNeZPyzNEkC4brluQJjTPKjzHvgBhy1sQzqDc51Bo2SxIt7yCOEPoWwgotGwWhHuhhEbws4HZKQCEEu2QrULzh6EgHIoWxMgBKpV4rDcKBdqw+VMIKGtRZBYsY7PvfyqKDIU+s63LH3mluFGx+jgQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0ElEQVR4Xu3VW2vUQBjG8e5H8KYXFXuheCXsulB1BakfwIKKomJFqVptRRStKKUoHkrxRKHUAyotVEotRSuCVFEU/WQj/4lPeDM7u93sRvHCgZdMkknml5l3Jl1d/34puXjE7v/xUnKPJg65B+MHfUzdOOAmr+33IcTizJBbmD7l5h+fjKDCj+gYnoCEAqQIMXMPT7jnU8czHXPOvTCyqFzIkpu+ebgOxRGIQqCnk8fczO0jvi3HGIj2Fv1tZcJ9WRprDyUQdY2OQC/vD3qQ2jYC8dzX5XH3Y/WO+7l6z4NyYXipvlogOo2BZu8eTUHUY6Cl2dMZEPUWQaXMNNCRkpvzEETnIDS9jUArz4aLA2mUuBYDaSQFYtRC0LsX51IQkQukvKAjzgWi8xBkE7oZ6P2r81nQm+v5QdR39/X5IyCuAxJKI2lXZCPQh7nRzkEaoV3V6u+Hkz1IoDChG4Fou7ZwMQV9f3urVQwlCxKKuDx8NkVZkDDAGoE+vb7ULoiSAHi5TWxhdD9MaIGYyhD0efFKu6CkI0YoBPFy7vfXam7H9oqvhyCeC0F8hAXl2BSTJR8DEXo57QaqW1ylt9vXm4EYnUJBQhF0wI5rp81Op0DhdBUGsqPE0YJop4TmuU09PSkyBC0/OZOC2KVbxFCSFRYD6XdgQTZ/eHZsZMT1dm/IoGjLb8OOUFugMI+0lAXiPExonr+6b6erbN7o65oufhuFgYTiOh0IxH27IVLXnjW0t+z6y1t9nbbs0haUA5WAYtPWKojryqWBWtkfP85fSEHsQTn2oSzITpsFceS6xViQ8of3De7Z5o9tg0jW9UB0phUWgpRryp+OR0igcNq4bkFhQmuv4jm1BcSStyD2oNz7UGzaLChc8iFII0TbQkCxabMg7sUSmtBvg9EpAERJVsh6EeaPIgSxKVqQIgeo1VKPVNj8+YugZqUeWR//S2flFy+hbcX4RmneAAAAAElFTkSuQmCC",
     "wiki_name": "Zamorakian hasta",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zamorakian_hasta",
     "equipment": null,

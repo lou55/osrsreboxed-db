@@ -1,7 +1,7 @@
 {
     "id": 1276,
     "name": "Loar Shadow",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": true,
     "release_date": "2004-10-18",
@@ -19,7 +19,6 @@
     "immune_poison": true,
     "immune_venom": true,
     "attributes": [
-        "shade",
         "spectral",
         "undead"
     ],

@@ -1,7 +1,7 @@
 {
     "id": 23417,
     "name": "Puzzle box (master)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": false,
     "examine": "I need to solve this!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4XtXW4WoaQRQF4OyPIoZQEYNilmi2omVrSUQwNZAmDS0p9AX6/k8y5Yy94/HsbLqTaEIHzq8E5/PO2XGPjv6vlblq3mxl7mE1c3fLqc/tYuLzhsAN6PH+3t2t1yHry8JnNR/7VIEHQ/6dEGEwIWCAHOe5z7I8D7ma5T4HAG4wdSDDIJjS734RAtB8cuZTFgOfKjAZSSDpkIIUg/AEkemo7/MhPw1JRG37wxsyynqkIMVgQtrD007bHbffNUVl7mZ+5kGKwQcjWmwGMcZAjMF0AMI+i4sLHxXIytyPL2UFhGMz0EOv42MgLjVjrEcK6py0Akh3j6ynQYYx0HB8HWIdslLvAZS5r5e5BxmKi80YBWFCOkF+0qzYw95x+nEhw8FgJ/qkWYcUxBiEp4xwf3T3yMrcz5tPFZAd17TbDeFSW4d4ejEMJpQAyty3xSiA9MgYYyAg262Wj97WewGhPwaaFkVI7HJEDIMpKRgggHnS5/2TtP4AgzAmNiHtkYLsgmQMis2F1t1lZe77clwL0m9vlyRPSI9MH4pkkPUn1qEYiDFaeL2P7NHnI1OBrMz9up17DD78c1mG6F1kParrD99HPGn71W/Qn8w9rooAYgymhA/mnwMtdh1IMUnTQX8AYoyBGGMT4g1j9xFjngVCfwCyKXGPFKTfXt+P9C6yTPNucxCODFMCjO+iGEi/Pf9dQYxq2B9b21dLhiH2bhTuo3+ArOz8P8XwfdPpbNdWH8cBdl0O3XI22Cl2DMSYxOOKrxgOMRjjrib93RubMAaaF5t36GeDeBlOgTo1wLDxx1GvUmzD7AWkK4ZD6nAvPq6UVTc9hb0aSFcMd9DjSlk8vRTMHxEr8R6jD+eHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZ0lEQVR4XtXW72riQBQF8M6HIpZSEYuShipZiUs2pS2CrYX+ZZcu9AX6/k8yy5nsHU9uJpgpivTC+aTozzvH0aOj7zXGNnOwMfZttbDPy9zl8XbuckBgBXp/ebHP67XP+jpzWZUzlyZwb8j/GyIMNgQMkLM0dVkWlz43i9RlD8AK0wYSDIItfY4zH4DK+YVLkU1cmsBoJIFUhzRIYxDeIJJPxy4/0nOfSNSmP/yGjJIeaZDGYEO6h+eDvj3pH3dFGftQXjiQxuCFEV1sBjFGQIzBdgDqiMEY++e+aIBwbAJ6Gw1cBMSlZoz0SIMGp73dgQQjoGR25yMdklLvAGTs03XqQILiYjNGg7AhvUH+pkmxk9FJVwym2g6STCa16G+adEiDGIPwlpHo/vx9+NUAyXHlw6EPl1o6xNsLYbChCJCxr7dTD9JHxhgBAdnv9Vz0bb0TEPojoDzLfEKXIyIYbEmDAQKYN305Pu2KwVTHhTAmtCHdIw2SC5IxKHZEoY39vZy1gvSnl0uSN6SPTH8pokHSn1CHQiDG6MLr+0i++hFHZuzHY+kwePGrovDRd5H0qK0/fB/xpje/+lvH2PdV5kGMwZbwwvxzoIvdBtKYqO2gPwAxRkCMkQ3xG4buI8Z8CYT+ACRb4h5pkP70+v+RvoskeTrsDsKRYUuA8V0UAulPz49rEKM6YmTw5CoMQ+S/kb+PtoCk7PycLDmLBfGEcYDdFYldLia1YodAjIk8rm2zwSECY9zNfFy/sQkjoDKL/g/ddZo4huGNf05HjWLvCaOnvr023A6PK3Y2OA07EIinvj396Leaf1i8rE6DZbdXAAAAAElFTkSuQmCC",
     "wiki_name": "Puzzle box (Theatre of Blood)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Puzzle_box#Theatre_of_Blood",
     "equipment": null,

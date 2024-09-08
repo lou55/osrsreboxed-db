@@ -1,7 +1,7 @@
 {
     "id": 16950,
     "name": "Spiked boots",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": true,
     "examine": "Climbing boots with spikes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLklEQVR4Xu2V3UsCQRTF3adIwpAkKelTMqywjD7pg6B/pcAno3rroX9948x09OzdmdRdCKEuXNTrzJzfnnt3t1L5j//4u5Gk8fyVyIoedDrRtGt/zkKRpPvtthM76nbT48PD9LTXS89PjtPLft99R01hsJ5r8YnE/6gj93Z2XBaESjIgCoNPiqrY7uamq+F/AjO5BueebG+7tIoTIsm5cn12NhLj1UOELjIVRF0CMIGs2hSRZEBuLy5yrYLIVqs1+h0Co4t0sBSQwsTcIbhCKZi6A/hSQAC5v7pyMDF3CE5Q3ghMdackEMJDhQYZAhvr605A26mDbt3h+lJAdEjbQndWGw0n8BOUulMSyAs93Nw4IAhxbiiwUq+PgAhu26owa81mUaAkfby7cyK46pAADqdDXsBD0SXCK0xBoLEr+oBjG1QADi1VqyMn2TZegMJj7XKtNivQ2HoOskJZ+wkEGOwDEGdNB1/XLi4sfLd5Yvir5MEWCg4pDNoFEbuHa2271M0pXx3eHT2cUEgrACALo/OjbhJegax6IDyQhWELLAwELAzbGxr+QkAKY18TFig0b5w1Php0PQZ6RiCEfw3YpzIE9Dny8vyUAbJ3o20v77BCQJ9vr993QTYJwWeOBSKMnZ/Q/pmAPobDzEYCZIEqFVtXYa3ZdTPAIJL0fTAIbIwdGLryybXx/qkiZGvswFA9VPP1/LlTRnhT7EBbjwHFzi0RsQPzdQs5BzFXMGXjC4TvGyx9tTmpAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDUlEQVR4Xu2VUUsCURCF26dIopAkKakwybBCM8yMMoL+SoFPRvXWQ3/9xtn1rGfHe0N3oaIcGNTr3Hu+PTO7u7KyjGX834hcOL8lsqInzWYwbe3XmSsid9xoxGJnrZbrnJ66i3bbXZ533FW3G3/HmsKgnrX4ROJ/rCOP6vU4c0JFGRCFwSdFVexwfz9ew/8EZrImJwwimnHlutdLxXj1EKGLTAVRlwBcCEhBbvv9mVZB5KBWS3/7wOgiHSwEpDAhdwiuUAqm7gC+EBBA7gaDGCbkDsEJyhuBqe4UBEIkUL5BhsDe7m4soO3UQbfusN6qLBBR6pC2he5sVyoTgTCUulMQKBG6v7mJgSDEuaHAVrmcAhHctlVhdqrVvECRexgOYxFctU8Ah08dSvawXuEVJifQ1BV9wLENKgCH1kul1Em2jReg8Kjd3NhYFGhqPQdZoaz9BAIM9gGIs6aDr7Vrq6vzQiVXyYMtFBxSGLQLInYPa2271E2rHIjEHT2cUEgrACALo/OjbhI+F5CFYQssDAQsDNvrG/5cQApjXxMWyDdvnDU+GrQeA70gECJ5DdinMgT0OfL89JgBsnejbS/vsFxAH68vk03ZJATrLBBh7Pz4988dkXsfjz0bQwfq+lQ4u2brForIvY1Gno2hA33r867NHb5NoQN96761ZD37u3CEDrTrIaAfjV8F8wfjE8QDzbM6E3VPAAAAAElFTkSuQmCC",
     "wiki_name": "Spiked boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spiked_boots",
     "equipment": null,

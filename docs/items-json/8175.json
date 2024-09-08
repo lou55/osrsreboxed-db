@@ -1,7 +1,7 @@
 {
     "id": 8175,
     "name": "Oak tree",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACH0lEQVR4XsWVUUsCQRSFXZZFlMVehCiRfEmowFQIAxOU8sEXoUgoqMiHHiIiiv7/NHdm7u7d3dndmc3VA4ddBJ2Pc88dK5VCcljUO5MEcBde6Lm3bbAwCXfpCXt38imMYFMEK00SAg4PvKqGVp9FwMpLi4O8VfV+VM4Cu9ooWArMe00a3tfczwQMgVRKwnyE7tD9L5gjD9OBUCATKJ6Se86BjrkPK0WhYkBxmLSUdFAABAkRoH6nYwOVA/OpbJoSjux000AIQoFoSmlQMLaRAjqyBlIwJkA2KWGPCgPhIRqg6re0VUo4NuiROZBZOhGgrJQoFI7NftPUrZwDk5kSAMVTwkvSvtjkMswBSk1Ik1IwNvseaYA0/ckE0qXDxyXGZtcj80JnjiwGhenE194cKKPURYCCUkM6ANQsUGrqBNCvsgkQTQlKDeNSQAYJSYVxJrfNCAggyGaJIvPNCkptt2VUsYJrgCJQtNR0s3BU/PfoewEgUHKE6ERK8S2jFyIUGr9rvmV64Qip4Qc/pi12O/TF837QTAJBSrGxIZThltnKYU/jhnCvVU8kCE77HysBBiSBVhd+AKRLUoCRsZUEA3LYz02bLfs+G7T91MMoWInpgBz2dd0SCc26e6lAqJJhQBIISj07qeUClSyHvU4aAublcp9NujsFkn0AoPX4QKw8AoXemhxx9zyMGgJoflYXMIteXRgKDs+tQ+V5EwX+A/6NQ4FHJAAkAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4XsWV3UsCQRTFHZZFlMVehCiRnhIqsBTCwASlfPBFKBIKKvKhh4iIov9/mjsfu3dnZ3dnVne9cFgRdH6ec+5YqxUaQuPa2QgAb+FHmvtVg0VOeEufy78XTy4FNlVgpY2AgMNDreqR5HsxsPLcYiDvdbOepLLArrcKlgLz0RCC12umFwSmgKRLXCxCb+htCkbEYSYQDGQDxVzyzhnQMdNhrSiUBqTDpLlkggIgcKg4UA7Ml5StSyqy020DKRAMhF1Kg4LYRhLoyBlIwtgAubikelQYSB1iAKr/CDm5pGKDHtkD2bkTA8pyCUOp2NyLLW/lHJhMlwBId0ldku7FRpdhDlCqQwaXwtjce2QAMvQnE8jkDouLx+bWI/tCZ0amQSl3Cqx9fqmLAIWlBncAqO0IpSsB9CdlA4RdglJDXG5AeJLbZgUEEGizeJHZZoWldtsyPFrBDUAxKFxqvFkqKvZ9+LV+muUkI1RKuKRvGb4QodDqs/Zb5jKEfk479G4Y8OfDoJ0EApe02KIfVMoQ+jxucfU7zYSDoA3+x4qMAFpdBghIHwkWi620IfT3tkuXFwEddIOcw0qNSg2h3zcd7tCst1fFgXkjgKDUs5PGroEIfZu0OMzr1T6d9HYKJPoAQOvxAV/5CKiSruAh/O55HLU40PysyWEW/SYXFByelUPla/P5B/tqCLr5xS3qAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

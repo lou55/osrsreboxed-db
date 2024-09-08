@@ -1,7 +1,7 @@
 {
     "id": 9840,
     "name": "Teak treasure chest",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4Xu2UbUtCQRBG9TcUhUVl9SkINChDtDCoVC74mqmZaaZmZppZhBHRp/72xLOXseu6XghNCPaBAyLL3bMzO+tw6Ojo6FjjpOkxcZzUva0LUocrgszRqiB3vCYonK6Tb2uO/NvzdOBZoNDOouBk10WRfRcZ/qXBNyaUMmVqsc0hKsbGCCxrBw7xS6nh8qo2L0XUyJvbgSrKe8kmDvz58dSll2ZTyWurpeSt3aaHmwrFw2FKRqOUNgzKxGKUSyToIpWkq/MMlbNZquTzVC0UqF4s0l2pRPfXZerUqmJdKBBQSTnpq98XUio+n3uD3++PnSGwqVUGIpdnaVsZHALtw9qgzyeEvG63VcqskGpDVMGKXCUgV7TXaIzAF9sKDrHn9aiF8CGY85TMClRXKYSToq8YVyvyB6YJKscyI0JoB8qIt4OR5aYtiPukqI4phPsCYzxkwCpmJziJJO7QGCHEbFs8uDyQkpEFx0nKG49jTLs4Ztv4DeHxZTDGDMaZwVgzGG8GY85g3Bm0iUffpjoc+QX9W2yq8xNeNCvk/XV0dHR0/kO+AXUn6mijRXnZAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xu2UXUsCQRSG3d9QFBYV1VUQWFCGaGFQqSz4mamZaeZXZppZhBHRVX/7xDtyZB1nN8Ktq3nhAZFlzjNn5ozHo6Ojo2ONQe4xcwzqNxuC9NGKIHu8KsifrAmKZ+vk35qjwPY8HfoWKLy7KDjd81L0wEtmYGm8xoxSI5l6fHOCqrkxBcs6gU38Umqyvari5agaubgT6KJcSzbx4M+Ppz69tNtKXjsdJW/dLj3cVikRiVAqFqOMaVI2Hqd8MkmX6RRdX2SpkstRtVCgWrFIjVKJ7splur+pUK9eE9+Fg0GVlEFfw6GQUvH5PBj/fn/sTYCiVhmIXJ1nHGWwCRwfvg35/Wohu4LoghW5S0Du6KDVmoIvthVsYn/HpxbCQjDnKfkv0F2lEHaKc8W4WpEXcBN0TiGDGOI40Ea8HYws57Yg7pOtEO4LjPGQAauYk+AskrhDNkLI6NgSoeWxlIwsaCcpF7bDQQYZHRu/ITy+DMaYwTgzGGsG481gzBmMO4Nj4tH/QQiRX9C/RkdHR0dHx5V8AxwAsRA5egaWAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

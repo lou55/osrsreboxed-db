@@ -1,7 +1,7 @@
 {
     "id": 22844,
     "name": "Pearl fly fishing rod",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": false,
     "examine": "Useful for catching salmon or trout while looking a little bit fancy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABb0lEQVR4Xu2Wy0rDQBSGe1YlUCyBQAlFLAktREpMJdqFllIqiCAi6K47H8GlN6SUFq+IfQdf85fM5DrGC2gys/CDYTKTCefjnBOSSuUfpSCIO5IIRAhX5xM2SxTjwRuNtVhkfDjBxfKtbCke/P56hufbBfytfbb2Wi02+8P0unC4yOPNPFUeHjwRIFQ1rYwscZlgpCWyMsnZ/P0/g8ssLqc5Gcnnu/u/gDIl+olMgdCHrEiVqdV0FbISQFjOn6BpK7GQeKJECK+zB3V6RhEZLvAyvYtltGo1vC4d/lrnyUjIELHvUSTDg2eFxCcKhJco6plsNsR14XwlwxHXBULodneh6ybqdUNGadJwmWi4G0OYphU2c+kQ3HULbasJw2jC80ZM6LOSFQzhYG8bPddGp+PDcfphVqTIBBBOjwbobzpw2quw7Z5MmYjkl1MJmbPjnYyIVJnRwMPJOCmTeKJEiDVxMBQoU4QSPZNFKRmVeAe+mxPHC5BTjQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRUlEQVR4Xu3VX0vCUBjHcZ+rMZBkMJAhEWwoLGTNWHlRImIQQURQd971ErrsHyGi9BfJ9+Db/MnxNJ0jUqj5PBd+4SA7uzgfzjnDXG6TqAjpGaYUhPBw25n+MsL04sXizgzSPu/gbjReN0ov/vrYw+fzANHBaQJAiJrJ58zTkPenfuJ40osTDNP8Yf7f0xg1li+27P2f05jBfXcFTOZR6ohYIym7oiLk85YczKj/AdPckgAifPXe5NwZIRgNGHZfZhjTMLhQ+rMWg1H/R3OMnmMC6SOa35nFd4vPmfcbZu0RqtVjWJaDQsHmBmlMPIK9JhzH5UIRgl0XZbcE2y4hDFtTEBvm7OQQtcBDpRLB9+vfEBaMinB90UB934df3obn1TgxcfGOsO5MHOHm8kgCREVoNUJctYUck7rEagjAxIm4M5tWagI9CsTfzpCr2gAAAABJRU5ErkJggg==",
     "wiki_name": "Pearl fly fishing rod",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pearl_fly_fishing_rod",
     "equipment": {
@@ -48,7 +48,7 @@
         "requirements": null
     },
     "weapon": {
-        "attack_speed": 5,
+        "attack_speed": 4,
         "weapon_type": "unarmed",
         "stances": [
             {

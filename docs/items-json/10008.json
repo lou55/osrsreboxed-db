@@ -1,7 +1,7 @@
 {
     "id": 10008,
     "name": "Box trap",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "If a creature goes inside, the box should then slam shut.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByUlEQVR4Xu3T60oCURQFYOcliuqP+AJdkCy0FMocVLyU2jCUmiGlIoJkhXQjIoggiIged8c6hz2eptA/HWeINiwYRh0/1j4TCPzdMch9x8MxKLM+Tz5CjUBLwaDXKIM6R3W/gCTG3i36AWTQoN0WIKtQoJ143HtQq1ajaqVM5VzODw1hDMqnUpSIRv0CwuBV99VbhvkHTRpfgOTZQWpmiPKxBS9BBr1clqiRCdHG4gzddjJkRua8AMlGPu5servaF6insyI99PKUWJ6lZFiiRtE28g/ebywBeR1WHMxjv0D33axoCWu7aKaoX9+mXnVLF8r4gng+3/sGuW6lBWRwnBQQfA/3NaxQnhUVgfUAAsTwxHQg3Aq+h/uIFhADJoHQIj7DNUcLiNfCqwGC7zEIULUljhYQQ9RGuBXEvbK2HXeiBcTnQV0PAxC+7h4kBOLU2qRmJSaiBcSNqE2oq3FjGqUo1YtrIlpA7kYYAgTCa0IjjLGzqyJaQO6DyhA+J7hWmwHESoepbK7oATHADQEC4XZUDH7HmF8GYeTDVYR6cLmdw3zEwTBEA0aOfLCEMQQIhNvR3MrPo8L4TQJqKq2MGxU29VbGjY5WPgEtwThYFGrlOQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtklEQVR4Xu3T70oCQRQFcOcliuqbLxCFZKGlUOai4mqpLUupGVIqIkhWSP+ICCIIIqLHvXFmuDJtkF+adoguHFjWxf1x7mwk8ndHUPBOiCMovzZPFqGsAgnqHTZtASmMv1O2ASRo1O1KkFcq0XYqFT6o02hQvValarFoQ0MYQW42S+lEwhYQBgirvjLMP2jaWAFSZwdpOFFykwthggQ9X1SolY/S+uIM3fTy5MTnwgCpRt5vfXq93JOox9My3Q9cSi/NUibGKI6xUS94u/Yk5GVcm2AehiW66xdkS1jbeTtLw+YWDeqbplDiE+LpbPcL5KqTk5DRUUZC8BzuGwCps6IjsB5AgBgfOxMIt4LncB8xAmLANBBaxG+45hgB8Vp4NUDwPQYBqrfEMQJiiN4It4IEV9b1U5MYAfF50NfDAISv+/tpiTjxNqhdS8oYAXEjehP6aoKYViVBzfKqjBFQsBGGAIHwmtAIY/zCiowRUPCgMoTPCa71ZgDxcjGqOstmQAwIQoBAuB0doyA/juFRf64j9IPL7Ry4cQ3zK6NgDAEC4XYMt/LdqBfzlwRUSJDgcCNWYMzNB0fGAG9IuvaaAAAAAElFTkSuQmCC",
     "wiki_name": "Box trap",
     "wiki_url": "https://oldschool.runescape.wiki/w/Box_trap",
     "equipment": null,

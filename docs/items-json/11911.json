@@ -1,7 +1,7 @@
 {
     "id": 11911,
     "name": "Chocolate strawberry",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-02-13",
     "duplicate": true,
     "examine": "A chocolate covered strawberry",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTklEQVR4Xs3W/UtTURgH8O2HkGQYY3KHG74zpX4IgxYE/dIP/jCIXshSTAwTk1oIvSNSWIrVioVor6KgmImVUfQiRVHQ//W077k9d889O3dt7hYeeLhvZ57Pfc5zzjUQ2PotSOYwPf/nLUj3x47TvdFjKqauH6XJK0dUMGJ5eoAWs6dp4UG/AaW/RMVwG8QogDh0zHymj55M9boGxjWe6eFGlYUMUvZGVwEKR0A4GPRosoemx0+qvjiaQOgv0d/WxujLyuXNoRiEc84Og57fPaVA3NcLhN99XR2lH+u36Of6hAJhjI6mJhX66Fqz085vzSAMagLN3O52QDg3gVZmzrhAOGeQPrrWgq5pwEBc3LjWQRgcCJ5eL9Da4yH/QJwl3DOBOJMMQtZ00JtnZx0QoiwQ14UOwuASxAWKfrJgTaC3c8Nu0MtrlYNwHyAE+l19mKCedFydD2ctOpwOUzJVra510Lv5c/6CEJhKCUIMZSzq7KqlwdodnhlCNj8tXnBA31/fdDBlgyQKf5wxC811KtITzXQgFaHRuohCtVRtK8gQQJ+XRowgfXSPZr8pClQH4f6r1rgTQE03RGk8VktpK0wnwiE6GNruQgG0sXxxsyB7D0KGvEAbbfUq3ifi9KIlRk8bo3QnbtGlaJh6IjUFIGRVguSmqI+uNXvJm0AICfq1s1EdZZZMIGTHVxCjEF6guRwoU2/RiAC1/6klX0EySzgChE8A+gH0MQfClM022FMGEGooWV3lytDq7KADwi7NmJJAWGEmEH8OAOKVhhpayoGyuexglfV51A8+GzJDJWYHLQ/S64j3Fgka2FtH3bstOtQeof0NNbTLqqZoKL/sebrw2fANxCjcxwASNJSMUW9HlFJtNigRKVzu6ItdWoIYpY9uaDbING06CM/Rv39PlDpbw7QvHlLX8kvP/T8snHdA2IPK2IfcIDltEoQj7mNvst/UDllrXD8Vg7DK/gbCYPJ/IN6nZK3xdPkG0qcN9yUIg0sQ71X4HfcFCEtegrAHlb0PmaZNgnBeDCTrxxeQadokCM/kvyUShH6yfioEoeWLtFjo9cOhg7ApShBHGaBAgLf1YqEDZcj68QVUatORpWA58n3/U9ORptB/s6Xbb8LPiQKBQ8hnAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMElEQVR4Xu3W70tTURgHcPcipDGMsXGHDicqU+pFFLQg6E0vfCFEP8hymBgmJrUQ+s2QwlKsLBZD+ykOFDOxMop+SFEk9H897Xtvz/W5556t3e0WvejAw/11tvPZc55z7urq/v0WIH3onv/xFqB7Y8fobvaoGVPXjtDk5cNmMGIpP0gLuVNUuD+gQak/oma4BWIUQBwqZn66nx5P9TkGxjWeqeFEeUIGKHe9x4XCERAOBj2cTFN+/ITZF0cdCP0l+uvqGH1evlQdikE45+ww6NmdkyaI+5YC4XNfVrL0fe0mbaxNmCBPGHwp/2oGYVAdaOZWrw3CuQ60PHPaAcJ5haCAYxowEBc3rlUQBgeCp7cUaPXRsH8gzhLu6UCcSQYhayro9dMzNgjhCcR1oYIwuARxgaKfLFgd6M3ciBP04mrtINwHCIF+Vx4kKZ2Jm+cjOYMOZcKU6g6a1yro7fxZf0EITKUEIYanDerqidJQdFvJDCGbHxfO26Bvr25UikFzgiQKX86YQmujGZmJVtrfHaFsY8REtdVvcWUIoE+Lo9WC0KxfigJVQbj/sj1uB1D5RIzGm6KUMcJ0PByiA6GtDhRA60sXqgVZexAyVAq03tFsxrtknJ63NdGTlhjdjht0MRamdKTBBUJWJcjDpmgteR0IIUE/treYR5klHQjZ8RXEKEQp0FwRNN1s0KgAdf6qJV9BMks4AoRXAPoB9KEIwpTNJqwpAwg1lArWOzK0Mjtkg7BLV4hBs1aYDsSvA4B4paGGFougXDE7WGX9JeoHrw2ZoapAah3x3iJBg3saqXenQQc7I7Qv0UA7jCDFQpvLnqcLrw3fQIzCfQwgQcOpJurbFaPuDguUjLiXO/pil5YgDygLpJs2FYTn6D+wO0Zd7WHaGw+Z1/JNz/3fF87ZIOxBHvYhJ0hOmwThiPvYm6wvtkLWGtdPzSCsst+BMJj8D8T7lKw1ni7fQOq04b4EYXAJ4r0Kn+O+AGHJSxD2IM/7kG7aJAjn5UCyfnwB6aZNgvBM/i2RIPST9VMjCG2zSMuFWj8cKgibogRxeABV2txIDlk/fxFUrrmR7vjfams/AXjLPnYbjZN5AAAAAElFTkSuQmCC",
     "wiki_name": "Chocolate strawberry",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chocolate_strawberry",
     "equipment": null,

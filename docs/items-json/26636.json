@@ -1,7 +1,7 @@
 {
     "id": 26636,
     "name": "Plain pizza (cookout)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-02-16",
     "duplicate": true,
     "examine": "A plain pizza, made for the cookout.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4Xu2W7UsUYRTFfT5FX4I+BUZliIIvtCmZhosmbVoqtbGZZma2IKXRmxSSIoWI9IYgEkFQUEj/5onzDHf37p1Zd3adjaC9cL7szM7z49xz505TU6Ma9f+VQ3zVvRxWFjN4unAZj+eGkJ8exP1cP2ZuXEDueg9eHjuCseFOjFxqR7qvtd5gDmtPruH1o6t4nr9SAkUQ0WTmHMZHupBJd2Covw0DPWfrAebw9sUENp6NY3VpzLtEqOX5YQ+lgajsaCoE1dt9Kikwhw9vbmFzZdJDWZcIZYGmJnoLUPr3vtQZpDpPHhYsANp6ddND2cOp/V9HS2SvU3SKuRKorvbmWqAc9jan8Wk9FzqgWiDdPu3U+ZaWuFAO397f80D24VEQB4n3y/TpTBXbV7Ecfu48wPePc/iyNROCqQWIedKvBB30GC457O8+9EBft2dDMHGh7P0igWLritN3YAVAPz7PeyC6tPvuDnY2bvuAVwNVDkyHPIZLDr/38r5tzBGhmCVC6YDbgytBWEnrBMpSqAockhwRii4Rii6Vm7pqgGTqZMXQoYouSdskS+UCbmEEaGFqwO86e6+8xZml083H47SMVWwboeiSfXAlyfKdzV4sLGB5g3PiOlpPxHVHqrR19kBqezUb+o3iSlm8my64RCCuFEJxAeswx4RhFYFs6/TURUHZTxTtErNTA4xU8JIUoKipk10nMLJ8o1xidg4BIxVsZ4KI7NTRJS5f/YliXWJ2EoAJKnhAAEaAKNElAolDhKE7dIZhTgxGlwaTbySROMNW0RXmhpmhMxxxAbLPTKQ0GB2h2CJmhu3hRMl1UeLuRJUGsxIALfv/upU9+K8DNOpfqT/76baQrl1s0wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4Xu2W3UtUURTFPU/SS9CTYJiEKPiBg5KpOGjSlKVSE6Np5lcDUhpaSSElUohIXwgiEQQFivRvrljnsmfO3feOc2ac8aVZsF/uvdzzY+217751dTXV9P/JwL+qLoPNlRTWl2/hxfwwsjNDWMj0Y/bBDWTu9+DN5XqMjXRgdLANyb6WaoMZfHh5D++e38Gr7O0QFEGkJlPdGB/tRCrZjuH+Vgz0XK8GmMHH1xPY2RjH1uqYdYlQa4sjFsoFYqXvJiJQvV1NlQIz+PL+EXY3Jy2UdolQGmh6ojcH5V7vSzQj0XH1vGAB0N7bhxZKH846PbkUKn2fRaeYK4HqbGssB8rgaHcG37YzkQNKBXLbF3bKWwa/Pj+1QPrlcRBnFZ+X6XMzVQKUwfHBEn5/ncePvdkITDlAzJP7SQgHvagMTg+fWaCf+3MRGF8o/byUQLF1nlAB0J/vixaILh1+eoyDnSkb8FKgCoG5IfcC+nuUtW1jjgjFLBHKDbg+uBiELmmdB1TgkOSIUHSJUHSp0NSVAiRTl18xRZVvm2SpUMA1jAAtTw/YXaefla84s3St8Yo/kLSNUHRJv7hYyfKdS9/MLWD5gnPi2lsafGFE4dbpA1n7W+nINRZXysqTZM4lAnGlEIoL2CM3ccoD6da5UxcHpX9RXJeYnTJgRMFHUoDipk52ncDI8o1zidk5B4wo2M4EkdJTR5e4fN1fFO0Ss1MBGFcBGAHiii4RSBwiDN2hMwxzhWFcBWDyjyQlzrBVdIW5YWboDEe8ikCiAIyOsNgiZobt4UTJ/XxdmPTBFw5QU00F9Q8p54L0m3kEwQAAAABJRU5ErkJggg==",
     "wiki_name": "Plain pizza (cookout)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Plain_pizza_(cookout)",
     "equipment": null,

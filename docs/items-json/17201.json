@@ -1,7 +1,7 @@
 {
     "id": 17201,
     "name": "Magic essence (unf)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-11",
     "duplicate": true,
     "examine": "I need another ingredient to finish this magic essence potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xt2X/09SURjGO/9Dv7k5l9MlrsQxQBEFElERNMLN/NJSUhJRRB0imGamOZ1mfplTM7KV1U/K+geffM/1HOHKL22Xy9a7PRu7g3s+POd533PvvXv/RzHkq6TF0O4ywG6pRF1tGR6U3y81FEMi2obZiJvraWcdXPbqUkIxCTMdboWv/TFaGqs4kLGiQm8oJTMCaGrUCa+7lm9fCfLE4O8OIhDok+5MhBwyTxZLE2xNLj2hGAYGXt6Rzx9Em8cPh9MDo9Gs59YxjIXHucLhiJS3K4BWtxdmsw1V1TX6AsVn5qRisTii0Rg6OnvQaHPCUFuHsrJyPYGoGC4ufiGb/YOrqywuL7N8u+rrLTLUBKMr0EhoDMnkAtLpRS7aLpOpoRQwVAyTkzGkUqkbpWV+dN4qUQy/z79yh5ILKS7aMqu1GQ9rHunZ8lQMh1tb+JnJ5GkyNIK+nh44m3R1iWF1fh7fP5/mwdC1mddhDAaD8DgcsJmVOaT+dRGK4fjjDn58OcvTWjKJRCSCked910eIWy+XGD5cB/j8+Jg7lAtE19PTMYwODl6f+h1oa2nRwyWGo+1tDqPWxuIilmdnMDE8jF6fj7vkaLgdAeo7aVCML5o5PMS3k5M7QJtLS1hJJBB7FUJ/IIDudk+xXWI42NzkMIW09XaZB3tufBwvenu5Sx0uV7FcYtyB0709nh+SGmh7ZYUHez4aRWign7e/cKnBZNLaJYa99XUJU0g7q+94sN/E4wgPDXGXnnV5i+GS0lnU6pmjozzlAu2uvZfBpgFJ7S9cemK3a+kS4/9eDaMWOSiCHR8b5S7RkBQuNVutWrmkHBPUXQV1A7S/sSGDTQOS2l+45PcUwaU7ICpRB4pgL0xNcZdoSJJLNJOMBoN0SBOXTj7tSlG3kc4O9qXIRRFskSNxrlVXKm8iGsGIUp4CaWGa1hRyAUdAdE0Em2BoOIruKgKMUsoNxTuXcsgKKPpMwRZHhxpEc5jcul3gFk4tXUAKVe7Caqm/+6/1F0q6N+crECokAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xt2XW08aURSFPf+hbyQ+1GgqpkVDAEXkUhEVQUsxoV6aChUqoogaRLBaa7UGorWoMWottWlt+6TEP7jqPnhGuTzCTOJOVjI5D8zHOmvvnamrexjFUCxFi6HXpoZJ3wBNiwqP6x8pDcUQj/RgIWznetGvgc3UpCQUk2DmQt1w9T6DuaNRKaBCZgTQ7KQVTnsLvz4F8sTgHvTC4/FJ7kwHLFKe9PpOGDttckIxjI6+KZPL7UWPww2L1YHWVp28QMHQFFcoFJbkHPCg2+6ETmdEY1OzvECx+UVJ0WgMkUgUff1D6DBaoW7RQKWqlxOIiuHi4i/y+WtcXeVxeZnn19XWplci1FQM/kAQicQyUqkVLrourbZdCRgqhpmZKJLJ5K1SUn4UA/p3/oM7lFhOctGVGQxdeNL8VG4ohsNMBn9yuSLNBPzwDQ3B2imrSwwbS0v49e20CIbO5t+FMOb1wmGxwKiTbQ4xHH/Zxe/vZ0XaTCQQD4fhf+W7WSF2uVxi+HwT4PPjY+7QfSA6T81FMTk2drP1+9BjNsvhEsPRzg6HKdX2ygrWFuYxPTGBYZeLu2Rpr+kIYPylucND/Dw5KQNKr65iPR5H9G0AIx4PBnsdtXaJ4SCd5jCVlPmwxoO9ODWF18PD3KU+m61WLjHuwGk2y/NDKgXaWV/nwV6KRBAYHeHtL1xq12qrDcWQ3dqSYCppd+MjD/b7WAyh8XHu0ssBZy1cKnQWtXru6KhI94H2Nj9JwaYBSe0vXHpuMlXTJcb/fSlMqchBEexYcJK7RENSuNRlMFQPiNYEdVdF3QLtb29LwaYBSe0vXHI7auBSGUiJqANFsJdnZ7lLNCTJJZpJrWp1tWCoGE6+7kmibiOdHexLIhdFsEWOxF5rahBfIlUt+sHC9dG0ppALOAKiMxFsgqHheNddVYe5X+IFhSUroOiZgi1WhwwgleoOrlwPsP4DwysC3Mvy3D8AAAAASUVORK5CYII=",
     "wiki_name": "Magic essence (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_essence_(unf)",
     "equipment": null,

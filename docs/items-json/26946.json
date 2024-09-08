@@ -1,7 +1,7 @@
 {
     "id": 26946,
     "name": "Pharaoh's sceptre (uncharged)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-04-27",
     "duplicate": true,
     "examine": "This sceptre has no remaining charges.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xs2W22sTURDGEyQEglSC0FJFLX0UERF8EB98MYL6oKLVaGqllliioLTWS6gtVkN6UQKh8VpaUEotRSuCD+IN/cvGfnv4NmfHk5g0q3TgYzdn52R+mZkzm0hk41tU3HI9/+cWlcejZ2Q6f9pT8e4pKYyc9ESIxXK/vC5dloUnfQ4o/SNaBjdAhAIQpWHmZ3rlefFiIDA+45lWEKopyKiUxs7+AYUrQCgCPS2kpfzgnOeLqwsI/jb095VR+bJ0a31QBMI9s0OgV1MZD4i+tYCw7+tyXn6uTsiv1UceEGLs6+rypKMrM2nnryYQgrqAZh+e94Fw7wJamr0SAMI9gXR0ZdFAGRCIzY3PGgjBAcHy2mWh4LfyLBseELOENRcQM4m9qUMJudGXlNK9drl0OCZjua3e+vuXV30gqCkg9oUGQnANRD/s290ZkfvH44HszNxu964f5gaDQG/vtA6EdQARipmED/alT7RJebTDh+nZH5ORowbw43wuXCAIADaQ3dDY170jJgf2xL2y5dbKRbCdiYR3JdCPd+M+TNNANhSPrwZi/xzc2yY3L2yXgcwWyaZiMtkbl8pUh/QkDJwLSEevYeaXIVg9IDY0fNPdu+R6Juk18XAu6WeH+rw4tF4gM4OQob8B2Q2dHzSnidJD0Qayh6KOrswceRcQ5ALCnslhc5LggzV8B2HgFyoQoSBOXATAPfwr4+ZUIYMEsrMTKpCdJVxtIPi+md4WgKkFtFwZ8IEwpQnTEBBOjguI7ycAeT1S7PRh6gEBHq8NO0MNZgdWBdJ9hHWWaa5gYLBeD4jlwmsjNCBCYR3PX0yYnsFze2ji3s6kDYQpbQMRSkd3mAHSZTObqw2MII0CocSfFq75QJhBTcyhIBCEtVR8k/RvNtMWAXjkdbk0EMBbBsIp00DZNZhvx474QAhm/weygdhrLFdoQHbZWDKWAAF1Q3NWYR++g0A48jYQZlDTc0iXDVAMAiDc1wOy+ycUIF02DYRnroaG+NpguVoEggXf0rWk+4fSQBiKNhDVBFAkwrFeTxrQlt0/oQA1ahqyEViq6vufTEO6pPdsaPsNPqmPprUlFFwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDUlEQVR4Xu3W22sTQRQG8AQJgSCVILRUUaGPIj4IPogPvhhBfVDRajS1UkssUVBs6yXEFqshvSiB0HgtLSillqIVwQfxhv5lx34zfOvsZJpms6v44MBht7szmV/mnJk0Fvv3W1zc4Xr/x1tcHpVOy3TxlIrKnZNSHj2hgojF2oC8ql6Shcf9DpT9JULDNYgogBg2Zn6mT55VLvgmxt94Z4cfFQgZl+rYmQYUroAwCHpSzkrt/lnVF1cXCP1N9LeVknxeGmkPRRDuuToEvZzKKRD7rgfCuC/LRfmxOiE/Vx8qUCAMPpTfmiBM6gLNPjjngXDvAi3NXvaBcN8iKO5LAyZiceNvG4TJgWB6zbQw0G/laT46EFcJz1wgriTGZg6m5Hp/Wqp3O+XioYSMFbaq5+9eXPFAiEAg1oUNwuQ2iP0wbnd3TO4dS/pWZ+ZWp7q+nxvyg97cDg/Cc4CI4kqiD8Zlj3dIrdTlYXr3JWT0iAZ+mC9EC0IAYILMgsa4nh0J2b8nqdJWWEsXYTtTKXUl6Pvb8VYxaH6QieL2tUGsnwN7O+TG+e0ymNsi+UxCJvuSUp/qkt6UxrUJQtPfDJM1A7Gg0Tfbs0uu5dKqiIcLaW91GJ8Wb7YL0mcQVmgjkFnQxSG9mxj2oWiCAhyKesu7QAgXCGMmh/VOQh88w2cQg36RgohC8MTFBLhH//q43lVYQYLM1YkUZK4SriYIfV9Pb/Nh1gMt1wc9EE7pFjFoeoe5QPx9AkjVSKXbwzQDAY+fDXOF2gLZdYTnTNNcWWPwvBmI6cLPRmQgovAc759P6JrBe/PQxL25kiYIp7QJCoDSIDttevDvAsYkrYKQ4o8LVz0QzqAA55AfhMCzTHKTDGzWpy0m4Ja302WDAA8Nwi6zQfk1zNejhz0QJjP/BzJBrDWmKzKQmTamjCnAhHZB86zCOHwGQdjyJghnUOBzyE4bUJwEINw3A5n1EwnITpsNwjtXQSP4s8F0hQSh6fRsFHb9MGwQDkUTxAgAarU1Ihlm/fxFULPWiGyM/y1c+wX0lkUaUzOJ4gAAAABJRU5ErkJggg==",
     "wiki_name": "Pharaoh's sceptre (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pharaoh's_sceptre#Uncharged",
     "equipment": null,

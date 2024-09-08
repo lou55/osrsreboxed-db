@@ -1,7 +1,7 @@
 {
     "id": 13305,
     "name": "Bank key",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-10-29",
     "duplicate": false,
     "examine": "This can be used to raid items that were in your victim's bank.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4XtWV0UsUURTGd4hYtociXHxQMiswzDCNyiSzBbESxdbMMjOTZZOULbOyLZNlWUQJKytFxNoSkSVCjPChIiM2IvChgogI+mO+OOdyd2dntl7y3rEPPmZmZ4b72++ce8bl+r9kwG5HJBbfXrQNm/LzkJOzER6Pm+0AmIHDNYdQXbUfFXvLsau0hME2F+QjN9eLrVsK+KgJzEBn+ym0nvCjqbEOR2t98FUfQGXFHuwuK8WO4iIG2llSzLB0TzGUgb5QF7oCZxms7WQTmv31aKirRY3vIKoq96UA6ZqA6Z2ywkJVUAZig/3ov9yD3p4guoPnEOg4jfbWZrQcb2TAjrYWBjxWf4SPyoEejg5hKBJG5EYfwldCnNjFCwE+EujAtUsMSnBUVuVAM9PjDHVnOILh6E2GI4/EbuHeSJTvRQeucmrUa8qBFp7N4snUA8Qnx/Bo4i6mx0fZdO1xuzNMUMqBll4v4uV8Ai+ezzHcfGKGbYWhpicrB1r+lMSH92+RfPcmA2Dwem/qPNh5hvtKbHmlQCSxyMfkki0V2urUzNTg1Nz0HI0C8Y5CiX9sIPF0CrOPJ7inqJ8kGDW1BKeJriElKQOvFhe4l+7fjvEOo+aWMDQ06TNDg1J5SmmJxb9/+4JfP3+kYMg0JOU5JaQppXQJv35exlx8kucRDcl42IM8r0tnyawSaRCI2Q4CpdMyA3k3iJSszwr96fcVlT0lO5RI83zD2r/ArqjsUGMhUT7rPY0lzVx4/ToX2wwi7QiQNRXpbr8sm7RS2aFkUta06NpXvkY/lBlGgkjLtDSUMDuUOSVzWtqBsln2kMbPTHYoK4gmGKk0lMMgZq0akLRWDci/6jfrv0/KIPHWpgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4Xt3V8UtTURQH8D0ixvqhEIc/KCklGGZYSqWS2UCsRLGpWaZmMpakrEzNViZjDFHCykoR0VYiMiJECX/QyIhFBP5QQUQE/THfOOdx3Xt7y5+891VfODzv3uR9OPe8O4fj34oGa9kS/eEH8nKxNysT6elpcLmcXDbANJyuPIWK8lKUHCvC4cIChuVkZyEjw439+7L5qgimoaPtIprPe1FfV42zVR54Kk6grOQoio8U4mB+HoMOFeQzlu5JRmnoDXSi03eZYS0X6tHorUFtdRUqPSdRXnZ8E0hrAksHRYYGMHCzGz3dfnT5r8DXfgltzY1oaqhjYHtLEwPP1Zzhq3TQ07FhDIeCCN3pRbAvwB27fs3HV4IO3rrBUMLRtkoHzc1MMOrBSAgj4buMoxqN3MOj0TDfCw/2c9do1qSDll7O4/n0E0SnxjE7+RAzE2NctHY5naYilHTQ+toKXi/GsPxqgXGLsTmuZAwNPZV00ManOD68f4v4uzcmwNDtns2//R2tPFc6RiqIoj/kY3zd0hV61WmYacBpuOl7dBQoQFE0xF5MY/7ZJM8UzZOA0VALOJ3oikAUDasrSzxLj+9H+A2j4RYYOjTpZ4YOSqUoqu/fvuDXzx+GudH4kEyslUfD188bWIhO8XlEh2Q06EKm22EXiKJ3gyDGshEkYka592zVpT99vq2xdsmK0rt5tXbnFthtjRU1HhDbZ76nCEQxP3j3LgeXGaL0LbR2KRWmyyu2TQnOihKdSu4WrT1FO9SjjBgBEZXolvSkRhm7ZOxW8n9LiHXrkkvRDBmTGmUDxJgEymaIMX8N5D/Mb1PLIeoVE/WrAAAAAElFTkSuQmCC",
     "wiki_name": "Bank key (4th)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bank_key#4th",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 23890,
     "name": "Crystal body (attuned)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A sturdier piece of armour with some protection from crystalline creatures.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADR0lEQVR4Xu2W/UtTYRTHvVhYY6UxmaRszNHE+TKnXOdkTlu2Xpw1XS512nJp+ZIwlmb2riRWUkiChEFRRBCCQVF/3+l+z7zXe2dgm1x/qB14uFzvnnM+z/d7nuexoCAf+fh/Q6Dshq4hkO9xgpqm+8g5ECTbOQ8VVVroqKOSDDUOMricZGyso6pIgCp8LiqxV+gFtbPiti+r5F+aoObZGNWNhHbBuMd7qSZ2nqydIh06UqSHYgIZPW4uiuLeDy+o6fV9qns4Rd75OLluXFJgGsbCyjB3eMjosDEEvkHJQqNhP1DpFRX7W7igDNT6cYU8G0skrj2h2vkJan0wwqrARjE1SJXxXrINhak8dJpKvW6GOt4q8txCU3GuaknWLIyRmOyn2mtd3BP2UBvbUD4R1wxAVSWvk2MyRqdGo1SdSvAioAogDpeVUvvzSaqOdpK5qYptxBPvWUAJ1LA8Q52rKQaDLY7Lfm5iBrk5pIyyeJRq5m4xkGN6mE4E26k44EvbLCkLIOTB4pADT+vVLippcDKQ2wZb9wxBsQX94pwdZRvMZ7wamJOJASqLRai0L8T9BBAZSFYJQMjD0BKwPXGFgdBnWQGN/1wn3+dX1Px2keoXk6yApSeohZHUMfeHuYcAASgNkKSSDFT/dFoBapyMKDB/CYQQKPDrPRc0dQcVG/AOReQBYBwDUAD9g6L4nTyQJzNHDjAIgRVAUdPFAO8UbF0okwmFd9ezFKuTaZmSp+cCf5P/liUMQkg3rdQj6kQVyTGy3Bnn5gZcZOslRb+tUOjTAp1dm1GKsxqqOfg94KHQzvbPKtJAWL0aSCkgfQtvLrNlKIRN0Lhyjw9MtkdSCP2jnqOGzVklFAPQTgIp+e0EqyKuL/CQbQMUrGuZG2Yg9Rzr3SlWSQbMoYfkyEyQBsIVAnXE1UdsHe8+qSBUwo7EeaNVQZsnR5h0aBMI1PHjnXKFwAb0GZ4AwxbHuYWrI9OWfYP8OaRr5esbPqPUhyMsk8Fw5lgHu+mY075tka4hAW2u8b8h6gNShsLAtYN7zWi37FJJhxDIv7XOfSTfa2qV5LMJF26R2XQwQB3fN7at2Hvo1DeZod0te43M2brEgRXKRz7+lfgNmLa7n/HDACQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLUlEQVR4Xu2W/UtTYRTHvVhYstKYTFI2dDRxvswXrnMypy1bL85aLpc6bbm0fEkYSzN7VxIrKSRBwqAoIgjBoKi/73S/Zz53dzcCr7L90g4cLte755zP8z3nOY8FBXnL2/9rEhnzrJpE3idxap0dIOdQgKrOuamo2kpHHdVUXOegYpeTTC0NVBP2U6XXRaX2ymxBpXfc+XWdfCtT1DYfpYax4F8wzZP9VBc9T7YemQ4dKcqGYhKZ3M2cFMk9H19S65sH1PBohjyLMXLdvKTCNE2EVLd0u8nkqGIIfIOShabig0CldlTia+eEAqjj0xq5t1ZI3nhK9YtT1PFwjFVBGeXkMFXH+qlqJEQVwdNU5mlmqOMdMq8tNJfsVy2lNEsTJCcGqf56L/eEPdjJZaiYimU4oGoSN8gxHaVT4xGqTcZ5E1AFEIfLy6jrxTTVRnrI0lrDZcQT7wagJGpanaOe9SSDoSyOyz5uYga5NaJ6eSxCdQu3GcgxO0onAl1U4vemyqwoCyDEweYQA0/btV4qbXIaAxJlQb8458e5DJYzngyYk/EhKo+GqWwgyP0EEAEkVAIQ4jC0AmyPX2Ug9JkhoMlfm+T98pra3i1T43KCFbBeCWTCKOpYBkPcQ4AAVAaQopIAanw2qwK1TIeNwAiTyP/7Ayc09wXUMuAdiggHMMYAFED/ICl+Jxxx9DH2AQOTWAEkNV/080nB0YUyeii8u54nWR19ydQ4Vy7wN/E3fbY9mJRqWqVHtIEqExNkvTvJzQ248M4rinxfo+DnJTq7MacmZzU0a/B7wEOh9PE3ZCkg7D5zZ7sJlG+h7VUuGRLhELSs3eeByeVRFEL/aNdoYfcBBJM4GYDSAZTgd+Ksiry5xC7KBiiUrn1hlIG0a2z3ZlglAZjOYdj0AVJAuEKgjrz+mEvHp09JCJVwIjFv9OsOCPIvk6j753v1CkEZ0Gd4AgxHHHMLV0eWAPSmXCvf3vKM0g5HlEyAYebYhvvomNOeCygFaHuD/w3RDkgBBce1g3vNZLfmBsi3s8l9JO41rUpiNuHCLbKYcwPU/WNrN9FePCeWs0R5y1vesmZ/AOKrg7Yfdk9bAAAAAElFTkSuQmCC",
     "wiki_name": "Crystal body (attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_body_(attuned)",
     "equipment": {

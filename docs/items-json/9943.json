@@ -1,7 +1,7 @@
 {
     "id": 9943,
     "name": "Sandbag",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-06",
     "duplicate": false,
     "examine": "A bag full of sand.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpUlEQVR4Xu3W70tTYRQHcJ+3vQkxfJH4YxOVVOZ1qE3mamNuNpRc2lpmLB3KsmEssZAkQRBJjCCEIOh/PfE989w9e3avaHvuux043O2yu/O55z4/bldXJzphhiLzTACBIrfLSOje9efAQlEx2Uvv8yOeWV0b5fxYGKPd58OUcu4zyBkaCgKl6GXigS9CxxxujFMm2u1iAgDVMbhrFL2qzXjmxd40nZYjtBLroXxyxFZ3WsdCPl7H/KhGuSjyvOI0JSDoCuCvMmOUjYVsgBStLvRRITVArxcH6d2zMEPKy2E625mik63JpjwuTXDmZnsYcvB2jvaLUdrMTVByZsAOaO1JP2M2syEGAYPiGBefio+aUjoCyOfSYxdUWXcoFw/bAeHPdl5M0fZqhErLk3y3OPehMM3Fam9mXYDk0VaMU0C4fj09ageEwgAAhOIoiCImRhDH5XlOAeF6gHAjFkAIxQVOduN0tpeg8+pTOq0suAUFI7+RxDmABYTuWgMB8n0/Sb8OF+n3UZaP+I7z0hEgAEXiM6CBgVD850GaMcirLxlOwC5rKbdrAArSC7SxNH69dLQVijEAmBicRwIFNBIwP9BKYthGl5SLERAwAgJGB6FDMob0WQZQem7QBgihWrpzVxBm6XzkoT2QYEyQ+chkPOGx6QsjUAmnzx4IRWUseYG8xpGAZC3DfiaPzazwH6H47mXG3RaEgS0oDGprWwgKyBTXYTeBZD+T2YZdH1uIvIqYVe4QigeqPDIcZbzg6AfCwJbpL7t+HdL2i5riIoBgtv39lqM/X5eacHrKaq13CSAd0gYGUd8+0BFABKSvS/psk6kvIEtd0aMxoIExQToGv9NBFrtiRuMV9qbuyDoUQFdao/Hnre/ZZgbUFf/QC/qleU0nbMc/6aqldtw07QYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgUlEQVR4Xu3W8UtTURQHcO+v/RJh9EOSsolKKnMOtclcbczNhpJLW8uUZUOZOowlFpIkCCJFEYQQBP2vJ753fefd820YnfdTO3B422Pb+bzzzn13PT3d6IY3jHjPBBAocr2MhG78eR1YGCml7shOYcg3ayvDNt8UR2T7yaCkozeDBBl5lrzdFuFiDtdGJRu7FTwGV42iF/Up3/y8OymnlYgsxXulkBrSAl2dhUKigflai9miyPNqtCUBQVcAf54dkVw8pAEysjzXJ8V0v7yYH5BXj8MWUlkMy9nWhJxsjrfkcXnMZn6610IONmZkvxST9fyYpKb6dUArD+9ZzHouZEHAoDjm4m3pfkuyI4C8Kz9ogqqrUcknwjog/NjW0wl5vRyR8uK4vVqc2ytO2mL1l9NNAPNoM26TIHx/NTOsA0JhAABCcRREES+GiOPKrE2C8H2AcCEKIISxBU62E3K2m5Tz2iM5rc41CxLDzzBxDmCC0F01ECCf9lPy/XBefhzl7BHvcZ4dAQJQJF4DGhgIxb8dZCwGefE+axOwL/V0s2sAEukHWlsY1UAZiwHAi8F5JFBAIwFrB1pKDuqAiCEIGIKAcUHoEGfIXWUAZWYGNEAIc6U7fwvCKp2N3NUDEeMFeW8Z5wm3zX0wApWM9umBUJSz5AfymyOC+CzDfqZ623D1XHHXBWGwicJQq20hKMAl7sI6gbifcbVh18cWovBXxNhB5S3DkfOCYzsQBpvLn7t+A/JPGISxRQDBavv1MS8/Pyy04Nzk09rtEkAKEEZj+0BHACHIfS65q41LnyClrrhxOdDAeEEuBp9zQcoQN3iVpmN3+BwKoCud4hLXPrvxH8Zv4kZpQEz8tq0AAAAASUVORK5CYII=",
     "wiki_name": "Sandbag",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sandbag",
     "equipment": null,

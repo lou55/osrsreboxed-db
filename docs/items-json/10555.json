@@ -1,7 +1,7 @@
 {
     "id": 10555,
     "name": "Penance skirt",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-01-04",
     "duplicate": false,
     "examine": "A skirt made from the skin of a Penance Ranger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4ElEQVR4Xu2XfUsCQRDGnW9S9AGKEBOSCnolo4wyzSxEkN7oBSmkQAoRqf4IIiII+qwbz8jcjXvXX7l7UA083N3esvvzmbndNZX6j98fZOKVSJDJZcZY2fTogBKCInNWm2OdHMwOCO8mRkZ8QpG5PlxkNRsLrIv6fKBEgG5PVwK1jpdZArm/NeU7bWTuLvMDap+vsgCINHp2iUz3aiOiTnMtgCssjftyiUytmOXJbQkMXCrmJ325RKZemo6kTKcOQFJH3oCkZmxJkTd2cz6A+unCZPorswUgT4UdBZJPXiRtWI/K62nXhd1P11F1JrL2iKQNQJVCxqVLxIUKIGwPGkJWa0jaAAQ35WuzRxtChOkCkIbQ24ZuA7ykzYFLYbpQsBoCko1Wt6EvXJXU2SP+MIjd+Q4oTnASrjpak4hhMIk9sU6fThnA4SqgnADZaYkrZilyeQ9XHS2S0TOQhrHXJPTH1eGhjYLtQd9D2MOw2+s9TfqIW06A5JiB+16rwHq82WQ9t7f5Ku3ogxMAnIODToAwYTgwmZf7HfPaKbHeexW+og1weC9Q4urQgWSicGAyb90yw3w87AVQGlr/iCEDIeIGJob5fKryNdrHfh5yxA8c/kmMm9x+9hICksjkfza+AMaomSGY5uAPAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xu2WbUsCQRDH3Y8SfYAgxISkgh7JqIsyzSxEkJ7oASmkQAoRqV4EEREEfdaN/xxzN7d7vardi3Dgz+q43PycmdvZXG5k/9+UTlcmpnSpME4q5scSyghK6bPmHOnkYDahDICUvj5cJHXaC6SL1nykTIBuT1cidY+XSQy5vzXlG0rpu8tyQr3zVRIAUUbvQIOrDUv9zloEFyxN+IJSulkpUnBTDIMsVcqT/oBa1WmrZLJ0APLYRyEQ94wpbvL2bskHUFguBJNvmSkAeWpsG4hfeRb7cB7V1vOuocJyHTVmrLOHxT4A1YOCSyBFjQogjAcJwac1xD4AIZsO37a4XACSEHJsSB/gHZYtLhcaVkJAPGilD3uRVUelU5Sd74DShEwiq47OJEUwCGIGluWTJQM4sgooJ0BmWdKamZucf0dWHR2S9h1IwphnEvZjdXhpU9F4kJ8hzDBMeznTeA9nywkQXzPwedgNSI83m6Tn3jat7Mce3ACQOWTQCRACxg9W+uV+R7/2q6T3YZ1W+AAX7guhOKvJ5/3YlAgU+94GNYL5eNiLoCR08k/8uqU9WBHM51ODVnuP+d2LheXJKPjI/o59AUilaGPG9C2vAAAAAElFTkSuQmCC",
     "wiki_name": "Penance skirt (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Penance_skirt#Normal",
     "equipment": {

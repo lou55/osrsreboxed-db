@@ -1,7 +1,7 @@
 {
     "id": 29355,
     "name": "Blessed babywyrm bones",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Bones blessed at an exposed altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4Xu1WUUsVURB2niTpUZKIyAoTEtQkk8hKEM1MMpGLmZkml4uZaWZmaZqZaZmZaSUVSlhRiBQRPfQT6qWfNPGd0+zuPbtnvfeWJtEHw2XvnjPznZlv5mxa2r8LYvOfvwjiG4PjvIFIER+vrlOECrOzNwIp4vaOXgshZE1s3UA8fm+Od+fkGoGJ3y1/5onJp9x95eZakLI5JB4cmuCCwmIjS1pbkYZzXF5RbclgyiA+WRsJOSXxodKygKDEHZ19nJGxOeBdQrAHrI+cDXFKfKyq1pch2PDtKd5ffDBkrxXE377/+JWFIGLETc1R6zuUxg1KfH9qnkfvzvCT+SVnLCRBiHjkzrQSX9flAS4rr7IGDhaozkSsvUe9g5Chq86ufvX8YPpFyEGtID5Vd9rZiNP4T0T87PkbHro16Qmg/0MWGhpbVVZA7ERNvXqGLSy+V6RkPMT7tMJNuxAyV2iQCoCSgFjP1WG1/vHcoqMjZDkzc4vj6+Onr9w/MOaU3O47Dq5G4CD8JMRLbz/w4SPlah06Cb8HSkp5bHyW09M3ce+1EYdQ3/VRbotecjo1YULYhF/UHqm2k9JBEByixWDE3j25exUZIQJd4rexqY2zsrY6ZBImJDXGiaEBcWyu1CBVLpQO+3B6IeMGJX4489LjJ4nsLK98UR3k1RHM7Sq/oZOgI3RYNNatMuEPqomjYaS07jsrSNW8te2iEiwCuY5JBUX3oJ1RBghUSB0tq1Qlbjl/IeCK0PccyMooSbBkpDQDQt4B53UMAymUBxlBq8PwjMzU1Z/h/PyiwAzB976ikoB3odDfNdI55kbJltdMffgPIgh7Z4WeQzt35fiC2Axt7g0UlFXxniQZgdYSRAgxQyvQDDoJLY5SQRN4fvV6hfPyCpzrQfaLYV1zSyyOVIrwZwKG6YsrATpDIBAW8YuBPA4DEcs6/J9CZgA3xWYJgvQDg8gxEPFpgg5DJ2EeQeSY+iAkQjejrQI9FJGF4M1+Mli/bfuOuMlssxT0o+eJ6UgMmoHhxkZnPZpd8JzcL+ogMyOuAn03eQWNqQrNoCTQAwylkC9Hk4jp8Q/AnxkxjP2KyhrfXbVGRFyYaXaD/pYe1gbrlpX/CMFPRGMV+ywFnNgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xu1W70tUQRT1fpKkj5JERFSYkKAlmURWC4tmJtmyLGZm2rIsZqaZmaVpZraWmZlWUqGEFYVIEdGH/oT60p9048z0fs7Me7lpSnjgsryduXfOu/fcOy8n5/8Fsf+fNQTxzYEMryNSxCdqY+uLUFt7j4EQ/rPsn4E4c3+GdxcW+Q4mfr/4hcfGn3HX1VurQcoUkHhgcIxL95UrhKCtRMN5jlbVrjQh4lP1iYCgxIcrI5p14vaOXs7L26xZ+yOYnIjjiXMBQYmP19QrGYIN3ZngA+WHAnyNIP7+4+dvR50zcVNzyriG0jhrxA8mZnnk3hQ/nV3IZiwQD9+dFOLrvNLPkWiNIQAZBCozkW7rFmsQMnTV0dknnh9Ovgx4USOIT8fOhDgSP3/xlgdvj7v2yf+QhYbGVpEVEDtZFxfPsLn5D4KUeTxo4U57kBOJA1ASEOu+NiT2P5mZt3WELOfnb7Fjffr8jfv6RwNKroWjEQQIdiReePeRjxyNin3oJPwerKjk0cw05+Zu4p7rwzah3hsjnExdDulUBSSc8IvaI9VmZ3kIDodoMRjhu6doryBjEYEu8dvYlOSCgq0B8bRwrgC8MTRgBfbvlCBRLpQOfnh7h4yz59HUK1ccUywFxItLX0UHeXXk7irV0EnQETosle4SmVAPlcTRMFZpvetakKh5a/KSECwOchxJHIruQTujDBCoRepYpFqUuOXCRc0VIe85kDWPEi1IaAaEvAPOWYeBFMqDjKDVYXhGZmLxs1xSUqb1Rez9ZRWatUDI7xqrc/yrEt6SqfoI81sW5BzauatQc4je0Obmg7Ii4YfUEkQIMUMr0Aw6CS2OUkETeH79ZomLi0vt68Hytwz7mlvSK0NKZ5i+uBKgMxwEwo74pYE8XgYitvb9BaGwFKskIXIMRHyaoMPQSZhHEDmmPgjphR4KORSRBb2zSgb7t23f4ZnMZls25DxRA0mDZmC4sdFZj6fnXG+e1YFhkHeTW9CYqtAMSgI9wFAK58txVYi4oWbGMoz9quo6zV21ZnAT3MAGbPwClMmo+IQKYz0AAAAASUVORK5CYII=",
     "wiki_name": "Blessed babywyrm bones",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blessed_babywyrm_bones",
     "equipment": null,

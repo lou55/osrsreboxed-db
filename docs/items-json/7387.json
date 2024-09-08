@@ -1,7 +1,7 @@
 {
     "id": 7387,
     "name": "Blue skirt (g)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "Leg covering favoured by women and wizards. With a colourful trim!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xs3W30sUURQH8FmGJVyWhUAIhFACCSSwhJBAopceeumH/f7NFhZGBVJUIomVSWVYpv1mhQ1RkTKCKEmK6rmnHoLeeuqp/+E03zue2TNnr8vM7hReOMzszB3vZ+6594yOs/xbiuxhu//PW4qG+3bT7d5dJoYu76TBiztMMGJyNE/FkeM0cfeYBaVfoma4D2IUQBwaU7hzhB4PHQoNjN+4pyOMioVM0cjVPWUoHAHhYNDDwQM0OrDP9MXRBkJ/if4420cfpi5Uh2IQznl2GPTs1mED4r5LgfDcwkwvfZ67Rl/mbhgQxljf1GRCj66aP+381gzCoBok3xoxdn2/FTQ1diIEwjmD9OiqpUJpAIIXN35LEPo2ug41eFHvOJTzgl9Gg2YfdSUH4lnCNQ1Kb9hLbss2ctd0kNvQaq4hjRr06umpAISIBeJ1oUF4cwYZTHue0huPkrtuO7nNWyqCXj8/HQZNX6odhOsAIQzIw6TbDvqztHYruavbyFnZaO5p0JtCd7IgBFIZYDZ1hUFIW2M7OfXNZSDM6Lvi2QD06WV/gIkNkij88RAIKZMgbx05q1qsoPcvzltBevQlWmkLxwKJdaRB85M91YL8bYsZigRC2ngNYadhHSkQnpEgWRT16Kr5W94GQlQDwuwkCmIUAgOg4paBvLSFQGIdJQqSs4RjtaCZ8ZMBCFWaMZFA2GE2EH8O4oIwO/hsyBmKODtoJZBeR1x9DWbzOUp3dAe1aL4/U6rWXi3incbpwmcjMRCjcD34ZEiQN0tfb2bC37TFhc0gVGkJYpQe3dJ8kC1tZSCB+jac9VPX2umnDhV7EYQUv504E4BQg2LUoTBIpk2C/hRz9LuQo19PcvRzPEs/HmTp+/0sLQxkaLqnju7l6+hK5wrTt2YQdlklEC/qKIF0JQbSacN1BmFxY6HzRxdFk2sVnuO+AGHLSxBqUOw6ZEubBOG8EojrD/omArKlTYJwT/5bIkHox/UnARBa+VqwhcTI0CAURQniiAFyHC7rlUIDZcj1kwgoatPIKFiOUt//1DTSFvqZZd3+Aq3wUPEsd5T/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4Xu3W30sUURQH8FmGJVyWhUAIBFkIRJBAEkICiV566KUf9vs3W1gYFUhRiSRWKpVhmfabFTZERcoIoiQpsueeegh666mn/ofTfO94xnPv3JaZ2Sl66MJhd2fu7H7mnnPPrOP8+yND9rCd/+MjQyN9u+hm704Vw5d20OCF7SoYMTVWosroMZq8fdSCMm+iZrgPYhRAHCamfOswPRw+qP0wPuOcGToqFjJDo1d2h1B4BYSDQfcH99PYwF41F682EOZL9Pu5Pno3fT4ZikF4z6vDoCc3DikQz/0dCNctzvbSx/mrtDR/XYFiYfClfNcMwo+aIHnXiPFr+6yg6fHjGgjvI4IyWhqA4OLGZwnC3KLrUIMX9Y5DBS/4ZkzQ3IOu9EC8SjhmgrLr95DbspXctR3kNrSqY0ijCXrx+GQAQsQCcV2YINw5gxSmvUTZDUfIXbeN3KbNVUEvn57SQTMXawfhOEAIBfIw2bYD/io1byG3sY2c1UV1zgS9KnenC0IglQFmY5cOQtqK7eTUN4VAWNE3lTMB6MPz/qgYDB0kUfhyDYSUSZBXR86aFivo7bNzSUEYK1s4FkjUkQlamOpJCvK3LVYoEghp4xrCTkMdGSBcI0ExmqK/5W0gRBIQVidVEKMQ+AF03BDIS5sGEnWUKkiuEl6TgmYnTgQgdOmIGAx/h9lA/DiIC8Lq4LEhVygRyKwj7r4Ks+ksZTu6g1600J9b6dZeL+KdxunCYyM1EKNwPHhkSJC3Sp+GcvozbbmwGYQuLUExUD7IlrYQSKA+j+T91LV2+qlDx14GIcWvJ08HIPSgGH1IB8m0SdDPSoF+lAv0/VGBvk3k6eu9PH25m6fFgRzN9NTRnVIdXe5cpebWDMIuqwbioo4SSFdqIDNtOM4gFDcKnR+6aJrcq3AdzwUIW16C0INi9yFb2iQI76uBuP9gbiogW9okCOfk3xIJwjzuPymAMMK1YAuJkWGC0BQliCMGKOoIIzlk/fxFULURRobj/6ht/AJj7AZlpzcY0QAAAABJRU5ErkJggg==",
     "wiki_name": "Blue skirt (g)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blue_skirt_(g)",
     "equipment": null,

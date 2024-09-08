@@ -1,7 +1,7 @@
 {
     "id": 21806,
     "name": "Ancient crystal",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-11-23",
     "duplicate": true,
     "examine": "An ancient crystal containing magical energy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xu2We08aURDFd3ZoTEyMadPGGK2i9VERLeITRXwh4lt5+Eattt//I0znzHpxS2ubyuo/ZZLJzZLA/XHmzMx6Xita0YpwkPw5Xy2CC+f8WZnxpyXtpy1Tfkom/UlJ+AkZ8z+/BlhwwQLPWwLIZRgo6ScNaIiGZJAGXwLsEWSRM3WgYz6UIz6Qfd6THd6RIhfrQFBplEYMqI8+Sg/1RAX1CLKrl+KsxEqWJT4yoAMFKnHJgPKclxV/xaDCQN3UbUCpeLwZKDKAcN7EalKNlaXMxwZ0yPtyzmeq1rEBbfKmrPGaLPlLkqWlKIF+hTmNVeX2zbV8j32rw0CdMwU61PIVuCAbvCHbvC15f12mKf1yQICBMsjb2LXc8a1cKMg11+SSL6XKVSvbvkJCpawqNEPTEqd+80+kQPCQg4EyyHv++gB1YVnliqp1YGVb5qws0LxMUUoSNGYwH7z3zQAFM8bBwMBhmCsFuHlQBuWqKAxKtq0wG+qfRcqYOkkaN3W6qEs6vU5p89qe22kBkGtvAKHFL/lcS3RlytT0dDBHCrlnra+mprwCLao6U9plw6bOO++ttHvtdYWeoRLZBHZDD110zqd23vOdwtSsTCd8Yr6BiYu8pd21Yp01R7PyhSZlRNs+7vWbOk3AIAIgJIYeOgnnLu8ayKnCOROXuayfb+vsWVaQubpvBmjASgV1OryOZvyDoPp+wr8HCCYxSlNRAPgFcwcdVdCOKtCm5CgnaS3TOCWehGkaCLsJLYzuARCmMBKDD8/OwLNaIvgGJh7W/dVLvdZVEcEgyEY/9lLR35J1XpdVXq1njnPqmYJkaMFgUKYJSppvHAx8EzZy4w3/GGTbGgsSK8DWgJ+tZ8afN/OmDGRCxmhUN/snnch9v4WJBAgjH68PWJCN6V4rMIXdJnfDL4IWfyqCVw5c3JiNIM7AThk3ACOECSL4wQDMATgIB+JKBAM/TuLI1fk5wmB/SwfyYjDhCF/2p2z8Xita8V/HD82ZTT/h5zXoAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2UlEQVR4Xu2WWU8bUQyFx9epKiEh1KoVQlC2spQQaAhrIIQthISdLOwBCu3//wmuj4cbRlRdRBLUhxzJGsHLfDk+ticI2mqrrahI/lyvpvCFC25e5tyspFzKKumSMu2mJe7iMuG+vAZY+IIlXrQCkK8oUMIlDGiERmSYhlsB9gSyzOk60AkfyTEfygHvyy7vSoELdSC4NE5jBtRPn6SXepsF9QSypy/FsxIrWZX42IAOFajEJQPKcU7W3JpBRYF6qKcZQGQA0bqN1aQaK0uZTwzoiA/kgs/VrRMD2uZt2eANWXErkqGVZgL9CnMWq8rdmxv5Efteh4E75wp0pO3Lc162eEuKXJSc25RZSrUOCDBwBnUXu5F7vpNLBbnhmlzxlVS5am07UEi4lFGH5mhWBmnA8tNUIGTIw8AZ1AN/e4S6tKpyRd06tLatckaWaFFmKClxmjCYj8GHRoDCHeNhEOAozLUC3D46g3ZVFAYtKyrMluZnmdLmToImzZ1u6pauoEveBm9fChUC+fEGEEb8ii+0RdfmTE2fHuZYIfdt9DXUlFOgZXVnRqds1Nx5H7yTjqDjpTAQ2Qb2Sw9TdMFn9nzge4WpWZtO+dRygxAXeEena80ma4Hm5StNy5iO/WAwYO40AAOFQCgsPUwSnnu8ZyBnCudDXOay/r+ou2dVQRbquRmiIWsV3OkMOhsH8vcJvx4g2MRoTUUBkBfsHUxUXicqT9uSpayktE2TFG82DBQC4TZhhDE9AMIWRmHx4W8f4HltEXKDEI/q/eqjPpuqJsFAZKsfd6ngdmSTN2Wd1+uV5axmJi9pWjIYtGmKEpYbD4PcNBjkqMiuNQ4kToCdAZepV9otWniTBjIlEzSul/2zbuT+VsBAZCsfnw84kM/Lf1ZgC/tL7pdfE0b8dwo/OfDi5/UcxAfYO9PAAvwXhWAewEN4EN8iBPgJpGUwUfkX/a3aaqut/1s/AX/aGDQfr0XTAAAAAElFTkSuQmCC",
     "wiki_name": "Ancient crystal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_crystal",
     "equipment": null,

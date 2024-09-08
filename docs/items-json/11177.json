@@ -1,7 +1,7 @@
 {
     "id": 11177,
     "name": "Jewellery",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-05-29",
     "duplicate": false,
     "examine": "Jewellery that looks dusty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xu1V30tUURD2EMvlXhZDlETDdA1XbCN/IFsSCwu22WJQGRuJJAgG/aBACIoo8EGKIBCkkoIFISlBEHooih6CHsKHoOeg/6E/Yeo70zl77tndu8v+uL34wbCXnTlzvzPzzdyWlj00DIL89l8h6GzqMF2cjNPs1BH5XD0x+yLVnAmEoNMnYr6EN3Kjklh6/FDACzgW5Ad62qinM0pd7R517HcDzlSEoOzJfplgpK9Pm3qZ6TPPmD7bEv0dJc5UBb5dMtFVJoGgS5lBy8fVTA616//ti6iqFuerCEETx7p9iW3//PRRI7mQGhuLtwWeOXO83AUrQsjelz/MWjIJJWKtAWT4zGSyV+e1vRUgaLC3UHrby+AX4NdsRVD82FBnFXElIWg4fiCAkKDFC8P/bioCtKbApCvHlYX/NrYX/0MzilDw9HCMqmYN1QFY1NgfnJD/M/2YqDsLDl05F6HMxL4yhHgFIFbts+KYqsGkYt0s1uWbjq5IerST8isuPV5yNCnlMw1kzM1eY3VMCEqNHKS1+y4tzTvyBZlx1sHOmkdb+Tyt3Hakb2EmIjUCrSAOLVVtVUTqJAMIev7QpdW7Ll3NRfQegX3Z8CSpzfUXsnrXL0dkNc6nB+TSnMsm6q1KcclhL5dd+cLcFLeFkwv6sRPVpED6wTVHkjbP1kVme9Wjt09d2nzCtvHIlTqBQSfZFAuXjc+UMrM9NZJR4IS7W1H69obt62tPEkKVYKiEKe5SBOokYcN/W7REVUoRgkHk0BWsULGGQ+jxVTr5nPcTsgmbFbKzNQBC60QR+vjK03rCFKGNZkwTyQB/PxcJP6H360wIzzOnChPUZCIKXBGT0LtnPHl4np0utDMEMoCg79tRXREYdgxaVUymaUK2wVVS04OxByl8HhRJGD4VoZKCdn5+4F2kdIRv1a25CN1bdDTB0Fr3e7eVfn2KyhZi9LHFMfZq/4SsJaB435gWMhmGuWdKmR2/hzDwB3mcfIf4aOExAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtklEQVR4Xu1V30sUURT2EMMww2CI0qJhsoYrNpEpsiWxsGCbLQaVsZGIgmDQDwqEoIgCH6QIAkEqKVgQkhIEoYei6CHoIXwIeg76H/oTTp17ujN31pk7k+1OL/vBYWe559z73XO+c25LSxN1A2DQ/isAzxQO4oWxHE6NHxLfyYnVXiRJjBaAp45nAxteqwwJYsWRA5oD2JfI93W3YXfGwc52Gzv2WpqYWACWT/SGbMCHJVsLmtvbERKTCHy7vNsZsQHgxVJ/zRpnMz/QHhmjz6oWgKNHujTBgLMTh5V1EBobzrVpY04fi7pgLEDUPjqYtaQScrOtGn8C4Fi+J2bfSAD290SlXoIPoN9kpQAcHsgk8AsF4GBunyYYcP784J910GhNgknH+0Ui7jasGUlI3z3sI7NZu5oQLGqaH/4m6mbcUbfmTJw5a2BpdE/EYTwCyNefZ7sGk8p2sVgXr5teRopDGawuWfhwwfRIyTXViMzfTfZYABaO7seVuxYuzJrigNII62BrxcaNahWXbppibW7SEBohrZAfldQva90A+PS+hcu3LbxcMZQ5AvhpzRak1lefiexdvWSIbJwr9omhOV12/5XMzpSTPV+0xIGVcVkW9v225XikiPS9K6YgHYzfNQA3l218/djC9Udsaw8soRMy0km5IIXrkwq3uoE33N5w8Msrts8vbUGIskRGmVDFXWcCYQjelkoiMyUJkZHISVdkDSQFSvvy/4/VIKFawg0kQwBFJ/z//Qvb0xN1EZUx6NNQ/H4u3CCht6tMiL4nT6odlAo4IyqhN0+48+h7akItZyoA/LrpeBkhoxlDpdpJJjVinCXZPdT2RIqeB79cIJ6KVEmRdr6/41kkdURv1Y1pA+/MmwrBVAD4c7sVf3xwRAmp9WmKU9vL+ZMiGQm/POHWRBMCvwClbQWKZYKcfwAAAABJRU5ErkJggg==",
     "wiki_name": "Jewellery (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jewellery_(item)",
     "equipment": null,

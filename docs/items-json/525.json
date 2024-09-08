@@ -1,7 +1,7 @@
 {
     "id": 525,
     "name": "Enchanted chicken",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "I don't fancy eating this now.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xu2Va0tUURSG3f/En9CnCMxU1EQNL3jJu2ZDlhmGIUqRZJhdDMMMQdAQBJMksyiCCCKorMjuZZHdfsmKZx3WtOcwA+M0SpALFsw5+5y9nvWu9+zJyNiKrfgnwkmQ8SLR/Q0LJ021VdJ9MBIHykmkpTHO/Q0NJ4cjbdLeVC/5OdlecScH2pr1Pr+3ZWZuBpSTQ+2tmjUVZdHCQXGnqm0SUOCZhqol6Tv6QuorF6Uge8grHKz3dXdtBpCT8qJJaa9/KD2dz6Sx+rbszj0XA1NaOC55OwfVWwAV5496o0xbBF3Xls9Ld8eydEWWpaX2XrSYwQDYVvdAIk2PZX/DI33e1tOokpOivBEFQJXOfU+1KErEFnOqXEfLE30uDBTeNYUIVKksmdYiqELnwDA2W7esKp1R2N4jz+X4sZfpBnKSmzWghjVVKNC6974C4hsSr+za0a9F6yoW1OSn+leiQGkal1NvIL+vSnPNXaneM6vqlBSMKRBj4wvL2t6jIz194pVcHH4XA/QnUwqnBcKqYFYUAMrPmrI5BSR59tL595ooxXVhznAUOEWoQHofiKJAoRRe8hNV8AnK8fVNjq/GAHFW4S0UZbwpQDktjDHpGg+xMcUoQjIOS6CBpTDXczNrcnnkg/qId2ydJiuKp1I5k4KzhhGZh4A4M/Bazg6+kQtDbzXxCYlnWKcJlJmZ+iJTE6v6zMneFV2zI4A912nyAIYxMA5UMpMyiomxT5pXRj9GkzVgUYfr6cnPcm12TX8DxZp9dahlQOHKcSIWxlShayAoROckcJYGhXqMivXZq1/1ed7jnq2zX5JAgZGZNV3QTRgGb1CIkZDcM0hfKdSwMTFuPOh/+kmOy+k5wwbMnW6AoZB1fH3um46CBM4ASZ4BnHcYE2M2/3A0+CBJwFg47Y4u6TYMc3Phh+aN+e9ROF81G6U/QsDWoUo4nHZj6vijMqBbiz8TQtn4zPTsAViSnkkUTiXHiHRL52GgRFDmK95LwTOJwsWMKwx0Z+lXQqh4EH8JY+H/GSafaYaIjfDmyWZ4n634L+I3ahxfF0hRBLQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xu2U+0tUURDHPf9UBGYqaqKGrvjIt2ZLlhkbhihFkmL2MAwzBEFDWNgkySyKIIIIKiuyd1lkr79k4jOXWe5eXMibu/jDDgzs3nPumc9853tPXl4ucrEjwomXm0W65xkLJ22NdRI7Et0Eykm0o3WT5xkNJ8eiXdLd1iwlhQW+4k4Od7Xr8ywCOTna3anZEKkOFHaqWpaAPM+01K3I4IlX0ly7LKUFYynqkIOxvmwAOakpn5Xu5sfS3/tCWuvvyr6iCykwVWXTUrxnRL0FUEXJZCagvK4baxYl1rMqfdFV6Wh8ECjmFLCr6ZFE257KoZYnuj8jMOXFEwqAKr0Hn2tRlEgt5lS5no5nui8DQJ4qtZXzWgRV6BwYxmbrlnVVCwo7cPylnDr5eruBnBTlD6thTRUKdB54qID4hsQre3cPadGmyJKa/OzQWhJo22DwBvL7VWlvuC/1++OqTmXplAIxNr6w/F39OtLR02/k8viHAJBlqHBaIKgKZkUBoPzZUJ1QQJK9Vy5+1EQp/pcVjieBQ0J50vuBKAoUSuElf6IKPkE5vr7Z6fUUIO4qvIWijDcElNPCGJOu8RAHU4wiJOOwBBpYCvM/sbAhVyc+qY94x9ZpMlIxF+ZO8u4aRmQeAuLc8Fs5P/JOLo2918QnJJ5hnSZQZmHum8zNrOueMwNrumZXAGeGgmEMjAOVzKSMYmbqi+a1yc/JZA1Y1OH//OxXuRHf0N9AsWZfHWptASgVxlShayAoROckcJYGhXqMivX49e+6n/d4Zuuc949AnpGZNV3QTRAGb1CIkZA8M0i/UqhhY2LceDDEp+/0nuEA5k43wFDIOr6Z+KGjIIEzQJI9gPMOY2LM5h+uhi2A+MNpd3RJt0GY20u/NG8t/kzC+VWzUfpHCFhIGMJpN6aOf1QGdGf5d1ooG5+ZnjMA+w8gwqnkGJFu6TwIlA7KfMV7ITyTLlzKuIJA91b+pIXaRohg+A/eSuYiFzsj/gLwShSL2vdBfwAAAABJRU5ErkJggg==",
     "wiki_name": "Enchanted chicken",
     "wiki_url": "https://oldschool.runescape.wiki/w/Enchanted_chicken",
     "equipment": null,

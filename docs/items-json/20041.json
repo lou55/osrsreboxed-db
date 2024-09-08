@@ -1,7 +1,7 @@
 {
     "id": 20041,
     "name": "Samurai gloves",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "Armoured gloves of the Samurai.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACi0lEQVR4Xu2WT2sTURTFM4RhyBCmDDNMmAlN/4Q2xJQmLa3aRUFBQXAhZCsIrlzopqKoOwWxtIrdCIqCC8WVILgQXPsF/EhHz3vcycs0CsWXSRdeOORNMpn5zbnn3aRS+V9WyoHWTEsAHKx5IYKKOwsoccIxABy0qv7YcfFbU6pxJ7a9GFHVU2u+L+sSndIQdKO4XnbrSjwWsMHiYjlQdKPjBgqIa2plaUmJUGm1Vq5Lu7UGztcSBdRpt0cwrRbmswxRGKLua+dKc2l70Mdat4szq6s51EyBdra2sLm+rqC+v/Xx8mGSAyVxjLkgKAvI0fn57dC5jQ30ez38+Ojj85GP/bsJHt2KygTSO2vgRbhYS5VDBPv5pY5vr30c3k9w+3qItNFQbSsFiCAMNIMtQHTq+T0Pezc83By6GF5ylUsl7TQ9iU0gvlIM9kKzqXKkXPrjPBpNeyvA+gb6YgRhjigG3NxtdOn4TXUGZVbJYLUOdq3ZxZV0BRcayzgbNdGfS9EJYvSCREnOk2HKAWqurYLxIlezDi6nbQW0E7ewGWYKhGD8nC02ZxYlE59APIcttpS7caDdZCF3iWCEmQTE1jJzhDLF6x3P3YnKUe0ygcQlfsZsyVT/9CLDh4MM75+lePc0VVAmjDj0j0Cs4s7RkrBTb540cqCvr/zcJUp+pC3/0dPhNiU7kI4IEIeoCSMyH4QOWXGJWTJFGI6Gowc17O95apo/vhPnEMyQhFogLMGwtENFKGmZiMEWGM4ji44Ua9QygWHYpW0ihpu/hzKDLGamWJOB6IrAsH3y506gZChOwSHWeNsIRJmBnaQptUxq3Cnzhn9T8SqWy8FwvlfG05+kThWMrlMFM636BTyVJIQ8nOvxAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACd0lEQVR4Xu2Wz2vTYBzGG0oICSUjJCQkZR1b2UrtWLcxf+wwUFAQPAi9CoInD3qZKOpNQRz+wF0ERcGD4kkQPAie/Qf8kx73vC/f9E2sIJKkA/3CQ980SfPp833eb9tq/a9KyoLWXEsALKw7AfyWPQ8occIyACz02l7huHxXTVV04qQTIWw7as33Zd2gUxqCbpTXK3ZHiccCVr67ptJuDGxfAXFNrS4vKxEqbbvNurTnJjjjxgpo0O9PYXo9LGYZwiBAx9POle+uqY7atTnG+nCIE2trOdRcgXZ3drC9saGgvr3x8OJenAPFUYQF328KyNL5OXLo9NYWxqMRvn/w8OnQw8GtGPevh00C6Z216YQ456bKIYL9+NzB11cent6JceNKgDRJVNsaASIIA81gCxCdenbbwf5VB9cmNibnbeVSQztNT2ITiK8Ug73U7aocKZd+O4+m0372+b8q/WEEYY4oBtzcbXTp14fqDMqsksFaOdjl7hAX01WcTVZwKuxivJBi4EcY+bGSXCfDlAPUXFcMZuFSNsCFtK+AdqMetoNMgRCM59lic2ZRMvEJxGvY4opyVwTai5dylwhGmFlAbC0zRyhTlQCxXSaQuMRzzJZM9Y/PM7x/kuHd4xRvH6UKyoSpyCFWeedoSdip1w+THOjLSy93iZIf6Yr/6Olwm5IdSEcEiEPUhBEVv0wlpbNkijAcDYd3XRzsO2qaP7gZ5RDMkIS6/GkVlHaoDCUtEzHYAsN5VBMMa9oygWHYpW0ihpu/hzKDKsxMuWYD0RWBYfvkz51ATYdiLVVsG4GoYmBnqdYqOtXAA/+kLEwWR8cFRupYwfxD9ROwovDZcBxxhgAAAABJRU5ErkJggg==",
     "wiki_name": "Samurai gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Samurai_gloves",
     "equipment": {

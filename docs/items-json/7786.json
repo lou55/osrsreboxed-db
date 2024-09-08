@@ -1,7 +1,7 @@
 {
     "id": 7786,
     "name": "Thieving tome",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": false,
     "examine": "A tome of learning which focuses on Thieving.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4Xt2X/UtTURjHvT/2SxD1q6TIlFxMJ1MnLl9wNnyhNF+QjbWaK1PTStMEMTRiKMJQeiMxKIIIgv7FJ75HnrNnZ3dXd64V9cCHwe7lnM/O873n3NXU/LvlUJG/Xg4tZMI0OthAE8ONQsyN314OvXzWTfdnQkqmP+ZNueC5yzq08ThKqTtBRbz3mpoYn24k+psrcg5iDu1v9dPKXIeS4YFPm3g4HiwD39+duq7G8iHl0O5mHy1l2yiXbCkZvNLEYDQRKgP393QFlBTGba2rs5Fy6PX6DZpLtyp48NMmB2NDLSWwUDRSbyvk0OGruAo0VogHPliPlGBOLJkYCSuk0JXLF/wJrc130tNcux7cFDLh+8DU7TYFtyzW0aCkLIQc+riXUIGG0Mx4RA+OSfF5FkEphAchUH+JmgIX7YXyG720udxFyckOBcTMSRlcc7vOQtgq2kK1WqZqoff5m7SzGlNC6elOBaTMCb3A/SyEMGOFrFbn88GIEsITdm8mqmExlvMS5HvQVuRHhrlqoU+FYRVotCyb6tZIORaUAkBeZyGEWbbLnNGjHPr27pYSQqAfZXroQTqmkXJuggxfhxD2KrSqvtYyzBA63h+iwvYALWR7lZTES9CURcgRZqyQdbsghCcMLVvK9SkpSSU5EwhhQ0SY28NX7Vbn5/E4fX0zqoSePBxQQEpSSc4EeeIwW7frx9GYFlqZj2tYzhQ0V0+K4nFHq3y1i4UO8hFaWxzUVJIzBRlkiMPs6zBFkAHywyc8Xl2Bm1wlQQ4zjgvLdqFOdme89+Awhdj3t7ManPgQk6Juggg0h1kepNZCOCrwUiZ/NXLxpZApAwcv3gDxA1gYmym+w4uYzI852xnq5MhAu4D5yxnIISMf8knN0W5Ks7cTpudLzbSYa/TTLq7iPwQZajekHHbkwtak4nB7WoH8+GhXsYoDFOXQEsmL5UQJphweecsXMe9yk3MTlGAPwlMWbPLdLu9iOVMQYZZsrgZpea7pfNpVTbnJSf6ojFly9UpX8j+oX2HpliImw90+AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu2W70tTURjHvS97E0S9lRgyRy5mG3NOXM7hbDhHaf5gbKyVrpbaVmmaMAyNGIowJv0iMSiCCIL+xSe+Zzx3Z2f3bnWuFkEPfBjs3p3z2X2+55zb0/PvlkFN/noZtJr3U2qyj+aS/ZKYFWdeBr14Okr30j4hE4t0pl3w1GUN2n4UpuxtryAevSImxqcVidiALacgZtDhTozWiyEhwwN3mzgZ97aB7+8sXBVjOZAyaL8yTqWlABUygy2D200MUglfG7h/bMQtpBwJvdq6TsXcNQEP3m1yMDM12AILhYMuXSGDjl7GRaDxhHjg+lawBXVimblpv0AWunTxnDOhzZVhelIYMgdXhVT4PrBwKyDglkVCfUJKQ8igDwcJEWgIpWeD5uCYFJ+/IigLYSG4XRfI4z6vL1TdjlKlPEKZ+ZAAYuqkDK5ZXWchbBUBX6+ODMqgd9UbtLcREUK5xWEBpNQJO4H7WQhhxhPSEDLoU31aCGGF3U2HTViM5ToJ8j1oK/LjKMwfa0kRaLRsKTtqIsuxoCwA5OsshDBrtsugr29vCiEE+mF+jO7nIiaynJUgw9chhL0KrXL1aoYZQieHU1TbnaDVpaiQkukkqMoi5AgznpCGDKohhBWGlpUK40JKxk5OBULYEBHmIf9lHSGDfpzM0pfXKSH0+MGEAFIydnIqyBOHWbtd349nTKH1lbgJy6mC6tOTRbHc0SpH7WKhejVIm2uTJnZyqiCDDHGYHR2mCDJAfviEx6srsJKzE+Qw47jQbBeqsTvjvQeHKcS+vVk2wYkPMVnUShCB5jBrHqRcDSEcFXgpk/81cvG5lm8DBy/eAPEHWBibKb7Di5iD/KAaRwbaBdR/zkAOGXlfzZgc72dNDvb89Kw0QGuFfift4sKPG8ihtkKWw45c25kXHO0uCpAfhzJqNeXQEpnn5UQLqhyWvMP8dKumnJWgDPYgrDKvx3G7fqeacgizTGXDS+Wi50/KqNX69Jr8r7Opn4/aUsGmwwG8AAAAAElFTkSuQmCC",
     "wiki_name": "Thieving tome (Yellow)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Thieving_tome#Yellow",
     "equipment": null,

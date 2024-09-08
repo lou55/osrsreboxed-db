@@ -1,7 +1,7 @@
 {
     "id": 16818,
     "name": "Machete",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-08-20",
     "duplicate": true,
     "examine": "A jungle-specific slashing device.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/0lEQVR4Xu2X6y8DQRTFTUSECGkIqUZRofFIiEQR6hGqquJdWlWtehVVEUTin7+c29y1tvtBxM584CST3U12d3495+xMWlf3L61S9L3hqT4nWl9eosLRkTVebm/p8fqK7s+LdJPP00U2S8VMxiuoKsTG6gpPZp8QEFe5HJ8D7PQw9cWhib4+Hs43/lDVl6a2tqxfLpM/lUp8DYCTg31XiF+H2Y7Ha2KAC3dnBT5qgBAp2k0kXGFwfry3qwNCpGg/mXSFgTMSj8cQIkXpnR3ux8PlBQNIZwAnhdUGgyjcYHAtndEGgyjcYBCdrCdaYexA9t7giE4JkPNpD6R4YqdDAIE7mqOCFEcCICz/4pAUGSXX6A5UC4T+yJqDPcsYECKDK4jLviVojAtSFgAcEiDAbMZiut2BlBXRa7lsrTlYkxZmZswAYRNFbG+ViuXOfCRiIi6Ror2pHoqN+SkSaqfRQKtZmPRsLyUnumlppIsm+30U6myhlsZ6hnLe7bE+vrDFEKWmg7Q+7qfZwQ52p9vXZMohRdm5ftqeDLA7iCvsbyVfc4OZMl8uD7A7iCsa7qTxYBvHZXfI+ZSHUlRaHaR8tBoZoAzGpegxMVwDBHcMwECKnpMjdLc2xKXGV4YeBdubTUQlUlSJh7lHKDbWIUPdscv5t9dIXF8lAPbhvOfP6B0c0gbdG2lLyQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3UlEQVR4Xu2V20sCQRjFHSIiiUKMQiMjw6QLGEKWdKfMbKO7WVnZxcpuRlQE/fOnziyzbrUPvexMDx0YdvfF7+c5Z78NBP6lVQK/O76qMWhlYR6npZJzXm9v8XR9hYeLc9xUKqiWyzg/OPALyoZYXVqUw9wDCXF1fCzvCXayV/TTIftHi+vrzj9Xw59rNflMgKPdHT8hlAQ28vkfMdCFu7NTedUAoSSwVSh4wvD+cHtLB4SSwI5lecLQmUY8WiSwv7kp+/F4WZUAqjOEaxRWi4SMwguGz43OaJGQUXjBMDof94mXbBg3kLs3vLJTWoE4+LtDBKE7mqOihIyEQFz/yiFVZJbcOBD7o3YOv1nGgBgZXWFcXz8JWiUcADqkgAizlsuZAVIRvd3fOzuHO2l2ctIMED+ijO29Xnfcmc5kTMAoCWyP9yI3GkEmHsZIT7tZmP1sH6yxKOaHu5HuDyHe1Ya2liYTUJ9v2FwcxYkYVlIRZBOd0p1oqNUEDCVQnurHRrpHusO4kpF2hILNJoAELhcGpDuMaybZhVSsQ8ZlyCGB2lIClRk7MkIZjEvgqTD0A4juGIChBF6sYdwtD8pS8y1jj2LhoCkgSqCeT8oesdjcQ4bicovDv59//R19AOXpvEJhGAT1AAAAAElFTkSuQmCC",
     "wiki_name": "Machete",
     "wiki_url": "https://oldschool.runescape.wiki/w/Machete",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 9828,
     "name": "Mahogany armour case",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+ElEQVR4Xu2X0UoCQRSG3WcoihJMk5RUUiMkoUKQCqOLIAgiCIIg6P3vJ75Zfnec3S1Zx7ULD/zMzuzunM8zZ447lUohi8zLVds8XZ6Y53HL0Nf44nNrNxxGFuJx1DTj00NzN2zYVpB6xn8zsMVOZhfHFoZ22j8y152qBaIPlMYF6M8SwJKIIJxNejWrbm13Pg6IL2ADRysBkciZUevAwuCQSNB3QRnXPdSu7oSCiszbpJuCwvl5c3/uHKeCcAUIzzHPoF638j0UsDhRSWAmJxo4QkSJ+4wpGq4UmYAwWGRebzp2qQAjOloukpmIacnoSz6QP+sKlg2k7Y7+HRDXGwGi3QKlLQYieSkBWUAk+BYIoPdpb2kg1auNAFGxGadwlgbElv+4PcsFQlxzb+1A5E4eEK37719KhAT0ed9PASHG/h0QcsdKAfqaDVJAKopSKUDsLhI7C8iNkttfE1BkE1lA3w/DXCCJ7ybqUqlA/caeBcKxtruWDwjJ/Vr0Zy5oi0Du54cvFwQRIYAE5c+8gi0eCJcBoh9DxCJCAaOExRNrtwHGErFkRIAl9AFVm1DgCGHJhz4wtKo7WhqgXLlHIeADQ0V2yfSrOQS6RyCgcMo4sHpWu402eHLrqKx6IzhBuTmTpcB5lADlOZfD3+TPuqL97dx/o6j9APBgJv1M5cDzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu2XYUsCQRCGvd9QFCUYJimpZEZIQoYgFUYfgiCIIAiCoP//fePZ4/XGOw8k9lY/OPCy7tx58zg7O97Wav+yxL3ddtzLzZl7Hbcdc/mX76vcCJh4iOdRy43Pj93DsOlHQeqe/DcDWxpkfn3qYRhngxM36dY9EHOg5Bdg/ikBLMsIIti03/DqNfYXfkDyAjZwtjIQiZoZtY88DAHJBHMLil/XUKe+FwoqcR/TXgGK4Fetw0VwggrCChDuCwQjSwuVAubhZINAiCxxHZ+yYRUwM9YS937X9UsFGNnRclHMZExLxlyKDqTtjrYOiM8bAWLcARUtBaJ4aQGrgCjwHRBAn7P+2kDqVxsBomPjp3FGA2LLf91flAIhPnOtciBqpwyI0f77R8mQgL4fBwUghG/rgJD1RQH6mV8WgNQUpShA7C4KexWQzZKdVwSU+EIW0O/TsBRI4r2JvhQVaNA88EAE1nbX8gEhVfK2aIHs60deFgSRIYAqgbIHwnWAmKcQUnBLH6zdBhhLxJKRAZYwD6jehCqAyl70gWFU39HSAGVlj0LAB4ZK/JLpV3MItEcgoAiKH1jdq93GGBxIR2X1G8EJarlmVimoZUDlwaNbvOB/TKHsJ75BS8EAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 23857,
     "name": "Corrupted bow (perfected)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A powerful bow formed from corrupted crystal and wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvUlEQVR4Xu2W3UsCQRTFm4fyc911XVk3KyVICgkkiggiKoI+hIiIiAiKoAcjiCgi+udPc2ZcPybBXtzpwQOXgXXQn+fevffOzEw11UQkYD6xJIII7ObT6jQ/TVgCO7k0trIpBdOq11WYtxKSwLmXw3YudkYDmbcSksBD4KLtaiA6tJHRLllKm8BnxcejhDouZHHoZJVbt35BpdAa1HdUwrXvoDXkjrVaEvjourSenhsCsQATS+A19NAcADJvJCydttXU7FDKzFsJS+Ar8tUbt+9kELju/4E6CzxExeIIt6wACjyVPdyXCmjWaliOoh7cSrVqyzXtytrSogpCVYNAnXxupej1j2qoi7CEk3IRtTC0B6SlgToLFbQl0IGvC906EGvnRfapzUYDe55jq45i9d80AnXmy72Obt5MTP0xohvopZdHo9dErUrPPfaqGzmM41HzOxKVwHvoq7WFYNyfuPZyfeHawi5vBepNQtEtgnEw30mYUzl2uORZqjGdHoLRMQY7PPcqujW4Eo+OCSgu9GcJwrbAk9HpBncsjiDW25VsF9xG6eKRBJ4YlJb578fHxBfAwS3zr2F+x1Tj9AMIlBY/hFpwhgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABjElEQVR4Xu2WzUvDQBTEuwftZ5o0SUlj1IJgUYogooggoiL4URARERFBEXqICCKKiP/8uLNpqi29eGhfkA48FtLLj9ntvMnlpppqLFIY/iIkgijsVgrmHP51wlLYKRewVcpnA+bcKWO7nDojCqTw4Nvo2AkQHdoopi6JgCl8NFw8aqjjagmHVsm4detWzRWKQX2FHq5dC+sD7ojAUArvPZfWCrOSIL+l8BI4aGcJiNe2kp/JwpWlUvgMXfOP27eK8G07O1BnvoOwVhvhlgigQrfu4N6rot1sYikM+3DLUSTlWuLK6uKCGUJFvm9OIaBUCdRF4OGkXkMzCLIBFM830NFAB674Q0+A+HaedU5ttlrYcyx5qHQIFM/Vs5XoDNBLp4JWP0RFlew9ZtWNXsY/q2Z4JiqFt8A1tYVg7E+svawvrC1MeRGoVw1FtwjGxXynYU712mHJE3pjyfUQjI5xmPDsVXRrsBKPmrFJ4UmDMBZ4cuLesGNxBfG9Xem4YBuli0caeOxQf5+p/oG+AQBh6b/QMYcaAAAAAElFTkSuQmCC",
     "wiki_name": "Corrupted bow (perfected)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_bow_(perfected)",
     "equipment": {

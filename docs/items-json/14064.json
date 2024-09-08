@@ -1,7 +1,7 @@
 {
     "id": 14064,
     "name": "Green hat",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-12-12",
     "duplicate": true,
     "examine": "A silly green pointed hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xu2W3UsUURjG91x4E4KXwUrpjYUafixphrUpalvbkpofmR9pa2pumWSYZB+SyfYhCZERBAVBRAQRQVQkRVJd9Fe98TvDGXdnx3ahZvaiDrwsw87M+c3zPs85JxD4PzwdStIrr0PJofnDEj4TllBPSMpby/MJpST+YlROPY/LyafDMvhkSPYMNWigmtLSfEApufBxRibfJmT05WkN1DZ7UHY078yHSkquf1mQS2tzknh3VsZejWug7pUeqe2qzYdKSm58XZTLa/Ny/sO0jL+e0G0DaN/Y/nyopOTm+pJc+XxVt23izaQNdGQhJtUdNVJcXewXlOWd5HpSt+3ip1nto+FnI9J7v1cDNYzslbJwmRQFi7yGUnpiCt/QNnzkBGqZbkkD8thPzoVQ2UC0LHotqhUqqSvxCygQYAJrEqt9mJqUdd45JpG5iPaQr0DWUDplxJ4Fsv/RgLQvtUvTVLMNVLi10C8gK/ZGHRJm/EPsq2JVXgM5N89MdWgX/vEYyIJgS+DrmdRNneMP+qQj2an94xGQBYIfiDDVOtOm69a327Y6Zg+jXfgH8L8MZIE4ISgmo1DHLIa0a+DxoI57bPGovq8x3pgBlFk5jUwQA0ErqHs/Vn4LxLOsQQBtC23XQBxPuJcFlNV99edqrlDKFYLiEEbd/b6stwuzfzEZhu5a7tYeo8WciSqju2wgQPsenkgDy7GNlnmdECSHYkL8w4ZqdnhWZyYzCTuQaJL6/nqpiFTYQAVbCrS/+B9wA5aDStZx1AnBF/JCUoTkGPrc+ym9l5EwA2SOsrv76vRRlt0eIP6npdzDu8wHA5YFSmUAmOKacgNyRp6zNeehYGVQA5FC2koSUYj3MI9pW5bWqTQA4CheQBnlUMMt8iSMEyPXqII6QNNazA+8SVoOMGY4I2oVEEZuY3xCkJpM7gGcjwIIZYAB3gmSI4w1Uh/aeHgDzkCQKozMrwFCUYBQDlX+CCTbcIOjAEIx2gkQBjbt8QTEbWymXmr5ArLZSAX0TZV/dvwC++R2AFTQzzkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xu2W30sUURTHvQ++hOBjsFI+WaihuaQZ1qaobW1Lav5o80famppbJhkm2Q/JZPshCZERBAVBRAQRQVQkRVI99Fed+NzhjruzQ7tFM/PigcMyzOzcz5zz/d57ioo2w9NQkp2BhpLD80ckcjYi4d6wVLZVBgmlJPlyVE6/SMqpZ8My+HRI9g41Bgt08dOMTL5LyeirMxqoffaQ7GjZGQSUkhtfF+Ty2pyk3p+TsdfjGqhnpVfquuuCAbr5bVGurM3LhY/TMv5mQrcNoP1jB4KokpJb60ty9cs13baJt5M20NGFuNR27pay2jK/oCztpNfTum2XPs9qHQ0/H5G+B30aqHFkn1REKqQ0VOo1lNILk+iGtqEjJ1DrdKtfQIRzI1Q2EC2LXY/pCpXXl/sFlBlW+xA1Luu6e1yic1GtoQCAlHYZtmeD7H88IB1LHdI81WIDlWwt8QvIsr2pDg4z+sH2NfEar4EyNWNdO6tDu9CPx0AWBEcCX8+ibtU58TAhnekurR+PgCwQ9ICFybaZdp23v9+xq2POMNqFfgD/z0AWiBOCZDGS6pjNkHYNPBnUdo8vHtPPNSWbXICcWVDkghgIWkHe/7nyRyD+yx4E0Lbwdg3EeMKzbKDs7qu/VguFUq4QJEMYee/Hsj4uzPnFYgi6e7lHa4wWMxNVx3bZQIAmHp3MAisYKBPEQOAckgXRDweqOeHZnVnMOOxgqlka+hukKlplAxVvKdb64j7gBqwAKGscdULwhbwQF1FyBH3+w5Q+y3CYATKj7J5EvR5lOe0B4j4t5RneZT4YsDxQKgfAJNekG5DT8szWzEOh6pAGwoW0FSdSId7DOnlgTKgsAOBIXkCaylENN8vjMCZGrqkK1QGa1iJ+4P/SaYTTolYCYcpthI8JMp3JM4DzUQBRGWCA/weQfLEBZyBwFULm1wBRUYCoHFXxAMQtsqsHEBWjnQAh4I32BBK5LQ4QZjP8j9/EWDbsuJZyMAAAAABJRU5ErkJggg==",
     "wiki_name": "Green hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Green_hat",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 28588,
     "name": "Magic lamp (slayer)",
-    "last_updated": "2024-03-02",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-09-13",
     "duplicate": false,
     "examine": "Give it a rub.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBUlEQVR4Xu2T7UsiURSHux8iimC/LASBGC0bSH2osDfa1cIiMcnMl6xJszFz1a1220IqeyWKCKKICIKCYFkiiAj60H/3i3Prjjqyka2xBPeBw7wwM/eZ3zm3pEQikUjePQz6O/8Rhi/uLryx1Es/zmBXB2BT7E9CoooKQ+to9wsWYJg9SSGyk4SSVuH7pWAg7kFjt/mZdwqGQf2TwvjFvFamniad3GMlDuagbscR2ogikArBPTOM/tgQOlyWLCl9FQTDxO8FDB/FEThOInQ+x+Uil4uYuk4jdrPKj9GrZX6PZJXTGf6sZ28Szs0g+lJ+2Gbd6FT7YA5YUe9owWdLAwzNn16bnP6PGBdJ3G3yI4mQNMmMnf3QhOgnSMq1NQ7Hygh6F7zomnahPdyLZt9XniC1tc5sKlyqsaYG2UUf+Hm/g/jtOk+IZCg9khk9meYy3v0pDG6H0b+m5KRE5zRXNF/R3e8IrkZgMBkLl8onkxa1kdIhGUrHfxjLS8fyzcE3htXfg7LyspzEaeZo1ooiJeaIEhKtonTcuyqfIftSANaEE21BG5o8nfhYW6WJUEIjS2EMJn38OtOBf4Lx1lFKlJBIR7RLtIpkjC11qKz6oC2enVKRZARMS4mEKB1ql2iV2F3V9UaUVjy2SyyeO5tFJX83/q3eSCAf/W58rvTvSiQSieS98wAjkJXIX4yDTgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4klEQVR4Xu2T7StDYRjGPR8kUr4opbQiavEBzVvYaLQ1MjObcWzmzMw2r0PL+0siKZGkFKUkKUn54L+7dD88aztK6Cyp51d3Z522nd+5rvvJyZFIJJJ/D4P2zh/C0ObqQJalvvvnDHa1D1bF/iEkRlcYGkc6v/EAhrmLJEIHcSjrKjyLCvqibtR2mr74zY9hUO+SGLtZSo2xq04j9z6xkwTU/SgCO2H4kgG4ZofQExlAi9OcJqWdH8EwfruMobMofOdxBK4TXC50v4LJx3VEnjb5Nfywxu+RrHI5y7/rPppA764ftqQX1jkXWlUbTD4Lqh0NqDTXoKy+4rfJad+IcZHYyy6/kghJk8zo1XxKiF6CpJx7Y3BsDKN7eRAdM040B7tR72nnCVKtVSbjb6S0MCy8HiD6vM0TIhlKj2RGLma4zODxJPr3g+jZUjJSos+0V7Rf4cNp+DdDKDMa9JESaVGNlA7JUDre08indMxTDn4wLN4u5OXnZSROO0e7pouU2CNKSFRF6bgOVb5D9lUfLLFeNPmtqHO3ori8JCVCCQ2vBtEf9+ghI2C8OkqJEhLpiLpEVSRjaKhCYUlR2sPTd1NXWColEqJ0qC5RlThdpdUG5BaIurJO5kn8eiQSiUQiyTpvTW9wghjexw4AAAAASUVORK5CYII=",
     "wiki_name": "Magic lamp (The Path of Glouphrie) (Slayer)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_lamp_(The_Path_of_Glouphrie)#Slayer",
     "equipment": null,

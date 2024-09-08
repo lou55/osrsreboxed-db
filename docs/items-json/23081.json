@@ -1,7 +1,7 @@
 {
     "id": 23081,
     "name": "Alchemical hydra head",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xt2W3UsUURjGPbcSG6IkKZkmGbsbu7qs2y5+7C6zH66JH0SkLMJSYh9LJF0khRkYrRCySAYRQVQXYhd9XER/UP/Im887vTPHSW9kzgg+8HJmjsOc3z7vc+bY0nL6pcg7E6C8iytauj9N/88HIkX1lRv/Fj9YC4tFz1xgUvRkrUqPV+fpXEcHXezu5vFCVxeP7W1tVCgng4KSRRRtbN6h5y9r9HR9kT58XqVLPT0Mh6rWygw02NvrF5Ruu9sG+eVw4259ll40blPz7UP6uPuMvnxdp70fDfr2q8lwPgIpulW1KF9I8EvRAmkNrjEnTpwNhZx2NbaWaef9Cm2/e0SbzXsM62PbFLcDOYET5zs7+VdjlMzg/kp/P13u6+M53UkUWumjS5BigNfbD7i2dur0aW+NIgMD7AhAcI1RFtZLn/O++RhS/OvRIgQUTu1+f0WhPxv08/cbBrk5n3eeOcqJw+aOITu0UnAJLaotTfLOyo7HOCPIjNcd75t8kg0kwRUgyUYiFuO54UyESpXUke74IDeQAJLQAioeH6ZYLEHRaJznrobDPJ5pbTUFpCiVGnUKEFgQUHAnl5ugbLZEY2MWz8ejUc6RISBF6fQ4jYzkqFKZc9olGQJUpFTmglMChJJW+g4EmHJ5hl0AAMKKtkhlpme4dCCMyJIxIMuapLBVYCfYlf2WoORrjMVR4prujo9AinOBVsGd5D6MtAyLysI6kEAZgIFsd4rFKRrM5SlRKDgOyOmN4HqBDLUKsoGwiwRI3JFgC5BehnYX5DqEwAJIPoQ4EuSkl2u5N9QuyAZCCRBCLJWaqFD6+hTvsNHZOedZQ+5ALhBCPTR0jaEQboHxAhl0B3KBdCgdSL5B8mkw6I7IhsLXGgsi4Mlk5tB2GXZHl3184BwDFApQAoS/oQJwR5d7wAIIO0/uA3ZHl+IMYccBSs63E4IRHfxn/YRhbAmAXt5nTrX+AnOTb0Ij04qKAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xu2VW2sTURSFe16LRIrFYouVWqwkkcSGNCb0koTcmlp6QcSWUAhavAWx+GBRaoWKKUgJxQoigqgPpT54eRB/kH9k2bXHPRnH+iIzUxAXbM7Maej5Zu11zuno+Pdl4J4JUO7FDZZvzeD3+UBk0Fi59HPxX2txqeSaC0wG99dquLe6gOPd3TjV1yfjyd5eGY91daFYSQYFpYsYbGxew6MndTxYX8Lrd6s43d8vcKxaveI1kNP2dhv0y+nGjcYcHjevovXiDt7sPsT7D+vY+9zEx68tgfMQyOBKrYB8MSH/lC3Q1vCZc+rE0VDIbldz6zp2Xq1g++VdbLZuCqynUGwHc0InTvT0yFdz1Mzw/ezgIM4MDMic00kWW+khEGUE4Nn2bamtnQbe7q0hMjQkjhCEzxwPXvigub+Wka9nixhQOrX76SlC3zfw5dtzAbm8kLd/4/Hiblmh1aJLbFF9eUp2VnYiJhlhZv7sjqeygDS4CqTZSMRiMjeSiaBcTfkJ1A4kgTS0hIrHRxCLJRCNxmXuXDgs45HOTr+ADFKpMbsIwQUJRXdyuUlks2WMjxdkPh6NSo58AjJIpycwOppDtTpvt0szRKhIuSJFpxSI1W6lpzICU6nMigsEYFjZFq3MzKyUE4gjs+QbUKEwhXChKE6IK/stYelpzMVZ6ppv7jAXbBXdSe7DaMu4qC7sBFIoH2Aoy51SaRrnc3kkikXbAb29GVw3kE+toiwg7iIFUnc02ArkLJ92F9V2iIElkB6EvBL0ptdnffcJhrKAWArEEGulJqtIX5yWHTY2N2//NhAghnp4+IJAMdwK4wbyEYZqAzmhnEB6BunR4DMQZUHxtOaCDHgymTmwXQHAqKzrg/cYoViEUiD+jRUgENW+YAnEnafvAbvjlJEMcccRSu+3Q4JRcXF3/dfh6gdC5jAuzVH5SwAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

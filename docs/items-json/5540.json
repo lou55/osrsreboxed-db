@@ -1,7 +1,7 @@
 {
     "id": 5540,
     "name": "Cosmic tiara",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-13",
     "duplicate": true,
     "examine": "A tiara infused with the properties of the cosmos.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xs3WbUsUURQH8N334mfwIxREJpkIvoh8Y2L0pCSZmUogy2Yi4mLbsj4mipmVuCiYyVJGYBFFUd8gCvoUgS/6ACf+d/ivZ4531x13Cy8cZnbmzp7fnHvnzsRix7/FxR++8/+8xWV2rEOmR9tdZEcuSuZemwsiNhdvysZ8t+TmbnhQ9iYqhgcgogBiWMzaTJesZK+HEuM3ztkIoyIh4zI/fukACltAGAQtZ67K4sRl1xdbHwj9Nfpzfkw+biWPhiII+6wOQc+nOh2IfYuBcN2n7VH5uvNAvu08dCDkOFFX58JmNy0oO++aICT1gZbSVwog7PtAW0s9IRD2CbLZTYuHhgGJOLnx24KQHAgObzFQ/snt6oFYJRzzgVhJglA1C3r9rK8AQkQCcV5YEJJbkJ7QpUBvVu+EQS/vVw7CcYCIYiX1E1kM9HZtoLogBAAaZCd0MRD6vt+4WwB9eZWK9oRpEALHkAx/7gMRA1gxEP7DB7LZi7Rg8cKfY9vUdMZtLchOaIJQSQ3Cta2tLW57BFCwBqFCh4FYRd4AQDjmAzU2ni6A9KJos5sWPPJRQDje1nZempvPun0LQj/0xzkOWUUgonQgAe9868VTWVmZlsnJIAmu05Vh/w+bicpBukpzsynp7e2UhoZThUTZ7Kisry/Jr5818mevVrq6OkLwgf5u6em55vYJwipNTFkgPCEWxHmysJCWdHpYksl+h8vnc5LLLcqP7zWy97tWUqmE1NeflJaWc9LefsEBgdIgVKjM6qDtg/SwAYTjOD8xkZTV1UfybjfvQKjQ8vKkqyDODQ8POnAi0SdDQ73uGrw2qgYiCse5nqA6mcyIzEyPu6oBhH2AiOGwYf5gldYgomx2TwtAvmEjCJ8RTFYq+ISh/25usADCGhRhHQqD9LBpEB95vSAi7McZqlMxCE/ZYSAks68Mgvja4PpTNZAdNhzXIPvK4HsP17EvQNuPb4VAWIMir0O+YdMg7JcC6flTFZBv2DQI5/QnhwbxtcHhqhCEdvCJ8YWdPwwLwre0BjEigGIxLuulwgJ16PlTFVC5zSLLwTL2+/6nZpG+sNcc6/YXOzaqqOGKMCIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xu3W3WoTQRgG4Oa89F4EsRZrKeRA7EkMFf8aLMZY2yKUEGMJpSHGkJq2loYYo4aGFmosQStCFVEUvQNR8CqEHngBn7yzvGF2Mkmz2SgeOPCxm9nZnSff/OwODPz7JSD2sF3/4yUga0uTUkiFVeQXz0nudkgFEbvFa7KzMS219asWlPknfMMdEFEAMUzM1mpEKvkrro7xG9fMcKM8IQOysXy+BYUjIAyCyrlLUsxcUG1xtIHQXkd/bCzJ+3qiNxRBOGd2CHp6f0qB2LYdCPd92EvJ5/278mX/ngJ5wuCh/NcEoVMbqJS92ATh3Aaql6IuEM67BAVcw4COOLnx2wShcyA4vO1AjUc3+gdillBnAzGTBCFrJujlk5kmCOEJxHlhgtC5CdIndCfQq+pNN+j5Hf8g1ANEFDOpr8h2oNdbc/0FIQDQQeaEbgdC27c7t5qgTy/S3WJQ3CAE6tAZHm4DEQNYOxCe0SMIxdm88HAcx8ZOqqMJMic0QcikDsK9ExNBdewB5OxByNBRIGaRfwAg1NlAo6MnmiAPm6Kz5L2AUB8KnZHx8VPq3AShHdrjGofMF4goPdAB/3n92WOpVAqysuJ0gvv0zLD9u924f5CepfW1tMRiUzIycrzZUT6fku3tkvz4Pii/DockEpl0wedmpyUavazOCcIu3SUGxVlhJojzZHMzK9lsUhKJWYVrNGpSqxXl29dBOfw5JOl0XIaHj0kweFrC4bMKCJQOQoZ6AunDBhDqcT2TSUi1+kDeHDQUCBkql1dUBnEtmZxX4Hh8RhYWYuoevDb6BiIK9dxPkJ1cblFWC8sqawDhHCBiOGyYP9ildZAHlAOyDRtB+IxgZ52CKwztD2rzTRD2IA/7kBukD5sO4pLXN0SE+XGG7PgGYZUdBUJn5iuDIL42uP/0DWQOG+p1kPnK4HsP97EtQHsPr7tA2IM870O2YdNBOO8E0udPX0C2YdNBuKZ/cuggvjY4XD5BKK0rxhbm/GGYIHxL6yCGB1C3pRXJ0OfPXwR1Kq3I1vhf/JXf8SNgHExHbAMAAAAASUVORK5CYII=",
     "wiki_name": "Cosmic tiara",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cosmic_tiara",
     "equipment": null,

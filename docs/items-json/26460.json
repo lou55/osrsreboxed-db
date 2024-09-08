@@ -1,7 +1,7 @@
 {
     "id": 26460,
     "name": "Shattered boots (t3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": false,
     "examine": "The boots of a Shattered Relic Hunter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACS0lEQVR4Xu2WXWsTQRSGO4SwbAi7hF0atkuSspKWxBKjxLaBxLZQP4qltviBl4J/QS+8887/4ZX/8siZ8WxmzuyuTlxTkL5wLkpnZ5553qTdra27/L8RYM+tRUCz2bLmlqAE+H5gwXieL4Gmu7ubhBLQakUWEP6MQI1Gs8ASr7W2egX0+iNI0yF0u4Mcqt3u5EBkaGVJ2eQXqKneFVCSZBDHKYRhLIcD0XqC0YH4BcwznCKkGQTpdJIcphjIhCEgXItAxTadYxoiuDIgvpYuYa9dKwIGg/vWIVVA9HvdKq3750C8hqJ6CcaGXysmED+MPqhllengtQFxOxxGr6JofblN55TbIRgOxOuttumc6tv+Dqis3pVNpxTD4Oa6IYKhQ8qeKQJysCRgcX0Dxy8v4fDFBTw6P6/cHKcfNKy6qp5xBppfvcphpqdncLBYwOjwCPZmM6uuyG/8kZ2/Alq+fiOBCAZBsskEun31z5VXhVMEQ/Vyo85AaGj27LmcyZMTaQdhwji2QPSK0ahuhleFk4XqVcUZiAyNj+fSUJym4PnmhvTHUK+YLoBGq2CcgL5f7hh2cHO08zjxLJiTt+8MQ/gMXoLXuyYMRsCnp2P4droNn48i+PgghJu9Nlxk6uXK3FDkIPRZ6+2PIMkyZfQXzH60NgyFv3aqsTc0vwD3pg8hHQ4lDBr1g6AOGBXagI+5SsCP6x1Z8ddlDB8mAVwN27Ds+TDd9uAg5hVvJMrel3kE78eBrPasv/oWbhhGRR1YXO/GYfRU13uXevMTvLegJsN7YKcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLElEQVR4Xu2W3WriQBiGO4iEiCRIQiUNKmSxRVusW+yPoK2C227Z0h92W3pY6C3sHuzZnu199Gjv8l2+sRMzM0naxOwKpS98B+Ik88zzRsza2nvebhj0WVkYyuWKNiuCYjBNS4MxDHMVQAyViqMB0WcCKpXKMVBqrYXVy9BoduD7bdTrrRCqWq2FQPpGc5vqAQqqdwHkeQFc14dtu3zigRYwUaD0A2QK42YIpFbzQph4IBlGANFaAioAhiIbEnBJQOpacQh9ba4wtFrb2iZpQOL7qFWx7p8D6TXo9QoYHT5XZCB1M/GgJlUWBS8MSLWjwshV6OuTbWZOsh0BowKp9abbzJz0074ElFRvTkvxMHTzqCEBIzZJumZJIIbR9Q2Ovlzg4PM59maz1JvTNK2SVlfaNZmBhpdXIUx/MsXOaITOwSE2BwOtLscsvcrOUkDjr984kIAhkKDXQ705/3NVq6KJgxH1qkYzA5GhwekZn97xCbdDMLbraiDRislo1IxaFU1gx72qpGZRGRnqHg25Idf3YZhxN5QrFgcgowXAUBieLjYkO3RzsrPvGRrMye2dZIiuoUOo9eaEoTB8/9TF78k6fhw6eNy1cbNZxXkQ93LFQhDxrDW2OvCCYG70GWbLyQ0jsng+5FEj/wA+9D/Cb7c5DBk1LasImCxh+HO9wSv+NXbx0LNw2a5i3DDRXzew46oV/5fM7f0cOrjvWrzaaTP6K1xZXqr3PW88fwE3Dk/e6VMMLgAAAABJRU5ErkJggg==",
     "wiki_name": "Shattered boots (t3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shattered_boots_(t3)",
     "equipment": {

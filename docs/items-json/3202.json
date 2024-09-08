@@ -1,7 +1,7 @@
 {
     "id": 3202,
     "name": "Rune halberd",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": false,
     "examine": "A rune halberd.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4XtWWQUvDQBCFM0gogihFaLFFUg2JbCPGlNhUqLVSxVoCSkRQoYcePQoe/PdPN8u2JliP2fFByLITyMebl8la1loR1MVChGMhcOS6HKCUM+dxjN16PV+fdjqmoAhieA0nPMtBbsINk0CEaPq4BGq6Am9TG4mvoMpPVyBCb/aE7ugWB9EALT/ATrOF+aWN0DECRYjTZwTjGbz+CPtBDw3Hw+bWNrLEhtOwqoYi9O9fcTJJ4Q+uCi7J2l1UeZ4ISTbPcyTb5sbDpUv6yxuKylun2qZdkuGWLmkgGXIDeVIvL2dJ779cGMiTyokCkK1rizBf630DeVL6CaahVMVInlbSYPK+cuV7bh0ahJIqtojw8VCDt1dxnv4WYTGxzeRpvSif5IxckjIc8t9F6LZZ5UlKjQhWefrMavxcek8ZQskfMTsoPaPKFYNSpwN2UCwHpz6ylCsGRRgHDKGKRxgGYgXzL/UF74/T5MAvQJUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSklEQVR4Xu2WQUvDQBBGM0gogihFaLFFgoZEthFDS2wqxFqpYi0BJSKo0INHj4IH//2nmyUlLvbaGcEHuUwO+5j5MlnHWQnBPCIgHCuFI9+XIGU6c5Yk2G02uYUIKruCF5+WItfxBqcQoT97WAq1fYW3mYs0ZJMiDOaP6I1vcNAfoRNG2Gl3sLhwEXssUoQkf0I0mSMYjrEfDdDyAmxubaNIXXgtZ91ShOHdC06mOcLR5Y8u6Xe3/bV3iZAWizJHemx+ki27VH15mWKQ0mOruqTDrbtUCemQM+TJHG5nqao/n7PkSWME9Oi6Kq4JsOSpjhGzpRjyZGMf/r23Dtml6hA+7hsI9ljytArC69SVJKShcpOLkxIQchtCrysqTxqzIuwqI4TPoiFP6j0XKKV/xOKkRO4ofTsQJyVycTJfWX6DMIkEStmVf/48X6c+vPRx7sy/AAAAAElFTkSuQmCC",
     "wiki_name": "Rune halberd",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_halberd",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 467,
     "name": "Pickaxe handle",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "Useless without the head.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClElEQVR4Xs3XXWvUQBTG8ewn8ELwwht7473fREVRUVFUVJQiiGIpRfGlFN8olPqCSguVUkvRlkJRURT9ZCP/hCd7cjxJk26UDhySnUz2/PbMZMJm2e5vgxRHdP2ft0F6NnUsPZk8msfMxJE0fftwHkIsz11IS7Pn0+LzcwHK/4iR4QVIKEAKj1l4eja9njldScxnrvmoojohB2n27vG/UByBKAR6OX0qzd0/kY/lGIEYb9E/1qbSt5VbO0MJxLmqI9Dbx2dykMbWgbjv++pk+rX+IP1ef5SDyHFobCwPn921ouz61QKRNALNPzxZgjiPQCvzFysgzgXy2V0bVKaBRFrcfPYgkoPQ9NaB1l5d7g+kKtEXgbjHgqiaB316c6UEEZ1AWhceRHIPYvzBfVmJqgNtvLtaBX24MzqIfkBCMXb/nqwVaHPhWr8ggqn0oAN7twcx9vPSeAn6+fFeiekMsii+XCBVx4IYVwf68v5GCPLZa1qxefHlTSAwhKojEJX0oK/LN3cKKvYgKlQHstXxIO7zIO6xILsp+uyuFY98BCIikDB1IKrTK0goggTsuNuB/HT1BrJV4kgCYQiPqQOtvrhUgtilhWkF4gmJQHodNFUnAlEdXhu2Qi2rQxuC/Dqi31eH/iaQpovXRm8goSxI1dHTJ5CtpAWxS1uQUD570ApQNG0WxJHrbUA8BFuL10sQe1CHfagKstPmq0O/ny4Pojojg3jKmkAcSUZfBNJrQ9PVG8hPG/1cJwEJ/YLWXsV9jBWIR96C2IM670PRtCkJIM6bQHb99AKKps2CuBYtaEKvDU3XiCDa8K9KU/j1o/AgNkULUnQAZZm29abwQBt2/fQCats8sg1WMRz7n5pHRuHv2dXtD17Jof9IjSyJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACc0lEQVR4Xu3V0UsVQRTH8Xv/gh6CHnrpyb8nw6ioSEwqigjESESKSpHKEMQ0KhQUMZFUAlEpivrLJr67/Jaz587u3b27SQ8NHHbv7OzO554zO9vp/PutG+IRu/7XWzcszIyE19OXkpifGg5zjy8mIcTW0ljYWBwN629vRVD+TzSGpyChACk8Zu3NzfB+/npuYn5zzUceVQvZDYtPL/egOAJRCLQydy0sPb+SjOUYAzHeon/szoRv25ODoQTiXNkR6OOrGwlIY4tA3Pd9Zzr82n8Rfu/PJqBaGB6qfy0Qk8ZAyy+vZiDOY6Dt5ds5EOcVQd1cGZhIi5vfHsTkIFTeItDu6p32QMoSfTEQ91gQWfOgvQ93MxBRC6R14UFM7kGMHzrXyVBFoINP9/Kgz0+ag+gHJBRjz5/pVAJ9XbvfLoiglB504Wx/EGOPNh5moJ9fnlXF0PIgi+LhAik7FsS4ItDx5qNBQbR08+LhZSAwhLIjEJn0oJOtiUFB6R5EhopANjsexH0exD0WVGNTTF/5GIiIgYQpApGdVkFCEUzAjtsP5MvVGshmiSMTCEN4TBFo5914BmKXroihpW9YDKTPQVl2YiCyw2fDZmggkF9H9Pvs0F8GUrn4bLQGEsqClB29fQLZTFoQu7QF1UCloFjZLIgj16uAeAkO1x9kIPagGvtQHmTL5rNDvy+XB5GdxiDesjIQRyajLwbSZ0Plag3ky0Y/15mACf2C1l7FfYwViFfegtiDau9DsbJpEkCcl4Hs+mkFFCubBXEttqAJfTZUroYgGgP7h18/Cg9iU7QgRQ1Q1daLVNj1c4qgstaL7I3/rVn7AxTFV3OnKA2wAAAAAElFTkSuQmCC",
     "wiki_name": "Pickaxe handle",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pickaxe_handle",
     "equipment": null,

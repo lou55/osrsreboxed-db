@@ -1,7 +1,7 @@
 {
     "id": 9460,
     "name": "Steel crossbow (u)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "An unstrung steel crossbow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTElEQVR4Xs3W/UsUQRgH8LufJOjHKCgiEbIfDD2DDDHBMCNRfOFSswvr7C7RSNPsxSypFHvlQCyjQqESEykjCIqiqL/sie8c3/HZcaw73cKBh92dnd353DMve5HI5i9R8Yfv/j8vUXk0GpcHI60mJq+1yMRwswki5qeS8ipzRuYed3lQ7o/YMDwLIgoghouZfXhank2eCnSMa9xzI4jKCxmVzK0Tq1A4AsIg6OnESZm63W7a4ugDob1Gf18ala8Ll9eHIgjnzA5BL+4nDIht1wLhuW+LI/Jz+Y78Wh43IPQRKyw04fbulGza+asJQqc+0PTdDgvCuQ+0MN0dAOGcILd3p0QDw4COOLlx7YLQORAcXg3CuwhamkmHB2KWUOcDMZMEIWt4z8WOAxb1/vl5C0LkBeK8cEHo3AXpCU0Q3jFz/Zj0xGOSqC8x1x9e9gRBb69uHIR6gIhiJvWKJGgsXSVdDfslXlss9VVFpi40EOrQGQAa5E5oBLOTai2T2oo9UlK0TXbv2BoA/Xg3ZjF5g3C9paDAHLl8XZDGTA0fNRhkprJ0p6lDfH7d7wW5va9Rsi9h+tuamrwgPaFxf/Fes7TU7JWy4u12mPAM2n6ZH1wvKLsHIUMAMUsHY2XmqEE6i5mhWhntrpTq2C6bFS55tNcgvSm6vTslu+RdEOfRofJyiyKI9yZ6q80w8R3EoF2oIKKYicMVFTYDDEIQeI6Y0EE6S5xPV/r6pLuzUwbSKbl5aUCSzaVmNeEesuUDLT45Z0HYpYnJCYSV4wPpz8GN/n4zgdvr9tklDYwPhOzgs6EzlGN2UFZA7jxCPTrARxLt3ow3ml2Y88oH4nDhsxEaiCjUowOA0AnnTGNdnQXpTGrQx9neAIgot3dPyYJ8w+aCcJ8r7PiRGgvUwfaf5vosCHtQHvtQEKSHTYO45PUO3dXeZjZQZCyVSMjY0KCp3zAIq+xvIAyH/mQwU4gLybNm9cUbGuwnJxSQO2yo1yD9l4Pzh3uVDix5DcIelPc+5Bs2DcL5WiCuRrYNBeQbNg3CPf2XQ4P42cDEDwGEsnq1+EJjdLggbIoaxMgDFIlwW/9TuEAd3H+QnVBAuRYXmQuWsdL2PxUX6Qv3mU1dfgMe4IBKlggBbwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLUlEQVR4Xu3W60sUURgGcPeTBH2MgiICIftgeAkyxATDNhLFC5uabViam2ikaXYxSyrFrghiGRUKlZhIGUFQFEn9ZW88Z3sO75w91s7uFH3owMvMnDkz57fvucwWFPz7JSb+8N3/4yUmD8YTcm+s1cT0lRaZGm02QcTSbLe8mDkliw+7PCj3R+QNT4OIAojhYhbun5Qn0ycCHeMa99wIokIhYzJz41gGCkdAGAQ9njouszfbTVscfSC01+ivq+PyeflibiiCcM7sEPTsbtKA2HYjEJ77sjIm39Zuyfe1SQMKhcFL+asJQqc+0NztDgvCuQ+0PNcTAOE8S1AsMAzoiJMb1y4InQPB4dUgvIug1flUdCBmCXU+EDNJELKG95zv2GdRb5+etSBEKBDnhQtC5y5IT2iC8I75q0ekL1EuyfoSc/3ueV8Q9Ppy/iDUA0QUM6lXJEETqWrpatgribpiqa8uMnWRgVCHzgDQIHdCI5id3tYyqavcJSVFW2Tnts0B0PqbiWwxKEEQrjcVFpojl68L0pjZ0cMGg8xUlW7/2XFMPr4czBWEkn4J09/W1OQF6QmN+yt3mqWldreUFW+1w4Rn0PbT0nCuoPQehAwBxCztLy8zRw3SWZwZqZPxniqpKd9hs8Ilj/YaFGJTTC95F8R5dKCiwqII4r2p/hozTHwHMWgXKYgoZuJgZaXNAIMQBJ4jJnKQzhLn06WBAenp7JShVK9cvzAk3c2lZjXhHrLlA608OmNB2KWzxKCkV5gPpD8H1wYHzQRuj++xSxoYHwjZwWdDZygnkDuPUI8O8JFEu1eTjWYX5rzygThc+GxEBiIK9egAIHTCOdMYj1uQzqQGvV/oD4BCoNIg37C5INznCjt6qNYCdbD9h8UBC8IeFGIfCoL0sGkQl7zeobva28wGioz1JpMyMTJs6vMGYZX9DoTh0J8MZgpxrvu0WX2Jhgb7yYkE5A4b6jVI/+Xg/OFepQNLXoOwB4Xeh3zDpkE43wjE1ci2kYB8w6ZBuKf/cmgQPxuY+BGAUDJXiy80RocLwqaoQYwQoGxLJpLB/QfZ+YugX5VMZGb8L/mVH9TNNb7/jI2ZAAAAAElFTkSuQmCC",
     "wiki_name": "Steel crossbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_crossbow_(u)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 12588,
     "name": "Puzzle box (hard)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "I need to solve this!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4XtXWQWsTQRwF8M6hhIRgkZaUJDTtGhKJC20IRC1UqygVPHnrSfDT+CW8efDi0Q/g1W818mb57768nZWdmlgceIdNw+6P/7ydZm/v/1rO13Nvy/nX67l/uZqFXC2nIfcILEA319d+9PlrmefnWcg6Pw2pA3eGLECMwYSAYeRqcVLmYj4O2QGwwDSB+DNMia8ByqejkEV2HFIHJiMrkHZIQYpBdJtnk0HIo/FRmURU1Z/el59lGGU9UpBiMCH97Oig63vd/bYo5y/zUQApBjdGtNgM4gcbiK8xHYDwnOXZWYgKZDn/9tmiBsK2GejT7W2IgbjU/HDrkYIO+p0SpE+PrD+DDGMg/o51yEq9BZDzL87HAWQoLjZjFIQJ6QT5TbNiDw976duF9H/82oi+adYhBTEG4Qki3B99emQ5/+7ySQ0U2y4utXWI/x7DYEIJIOdfLSclSLdMt8tObLvW03orIPTHQB++fS8TOxwRw2BKCgYIYJ70yaCf1h9gEMbYhPY/dspojxRkByRjUGwutD5dlvNvVqeNIMYYCA+0az2LEH0pkkHWn1iHYiDGMA7R88hefd4yFchy/v1VHjB6cz2LrEcM4u/zecSTtv/6Lfrj/M06K0F8c0xJgVrsJpBikqaD/gDENzYQX9uEGBk7jxhzJxD6A5BNiXukIJ0YQHytZ5FlNn7YHoQtw5QA47MoBuLrWBjEqJb9sVX9tGQYYr+NYudRLN1OkVmWlcmGD9pOp1qVPo4D7Oli6Ffz441ix0CMSdyu+IrhEIMx7mI62Cg2YwyUZ8Vv6DuDeBlOgTo1wPDgx5PDWrENsxWQrhgOacL99XalrKbpKeyfgXTFcDvdrpTF00vB/Ab9yX88rTQ/kwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcElEQVR4XtXWQWsTQRwF8M6hhIRgkZaUJDRlDYnEhbYEUluoVlEqePLWk+Cn8Ut48+DFox/Aq99q5M3y3337dkJ3SkLowDtsGnZ//OftNHt7T2s538zOlvPvV3P/djkLubmYhuwQWIDubm/96PvPMldnWcgqPw1pAreGLECMwYSAYeRycVLmfD4O2QKwwKwD8WeYEl8DlE9HIYvsOKQJTEZWIO2QghSD6DbPJoOQF+OjMomoqj+9H3/LMMp6pCDFYEL62dFB1/e6+21Rzl/nowBSDG6MaLEZxA82EF9jOgC1xGA5//H1ogHCthno2/19iIG41Pxw65GCDvqdzYEMYyD+jnXISr0BkPNvzsYBZCguNmMUhAnpBPlNs2IPD3ttMVjFdJD+n3+16JtmHVIQYxCeIJLcn0/Xrxqg2HZxqa1D/PcYBhNKADn/7mJSgnTLdLvsxLZrPa03AkJ/DPTl1+8yscMRMQympGCAAOZJnwz6bTFYxXYhjLEJ7X/tlNEeKcgOSMag2AmFdv7D8nQtiDEGwgPtWs8iRF+KZJD1J9ahGIgxjEP0PLJXP2HLnP98kweM3lzPIusRg/j7fB7xpKv/+g8u5+9WWQnim2NKCtRirwMpJmk66A9AfGMD8bVNiJGx84gxjwKhPwDZlLhHCtKJAcTXehZZZuPn7UHYMkwJMD6LYiC+joVBjGqJsYUvF2EYYr+NYudRLN1OkVmWlcmGz1JBvOI4wC4XQ7+cH9eKHQMxJnG7HloVDjEY486ng1qxGWOgPEv+Dd12NXEMw4NfTg4bxd4SRld9eutwG9yu1FXhFLYjEK/69PSvT2r9B0VpOmw56v8zAAAAAElFTkSuQmCC",
     "wiki_name": "Puzzle box (Castle)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Puzzle_box#Castle",
     "equipment": null,

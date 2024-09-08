@@ -1,7 +1,7 @@
 {
     "id": 27598,
     "name": "Strange cipher",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-01-11",
     "duplicate": false,
     "examine": "An odd cipher from long ago.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVklEQVR4Xu2Vf0sUURSGvd9E6M+gVPyJmoaKZUJIhKIi9kO2dRlaFrVSTIyIoghDhCKEoA964jmXM3Pnrouzttv0hy+84A5z7zy+555ze3qu1VE5yVy6nHyoTcnbrXE5rkyUDebkc/2uvK9OKtRJMiin9UE5awyVBeXkYzKtyQAGDOZ5X2+vOl7RZfly4a+NmVw6JcAgp+UipdO9OYV5vTlaLhDlIp0f+/MKdPB0TF3C4fYwpPNtZ1Z+HYzJ951h7bbD6oLsV+6pW4OFo6LVO4XlYTg7HObfh+Pyc29Enx3VHuSAmsG8eZ8z96nar2W2UsdfKqgMiHKdvxmVyqM+/f0uWWwJhXkODOX9UhtIS4xJ+wpQGQwbAEOp2NBgQqBXW/M5IEB4n5lFefHuxog2B6U/P1poByqDwWzMf9tYH86BhDYoDIwZAPaiVEBR+rBDC3Spr30MZK0eAsSOYWw9qbKWv23/wjAhCLYhSDohiKURO4YhFYDs/jOQQjA2/Mx2RVg6Iczus7kmx+nY2cFtpIKcLE7e0Pqa2dSASCdMhY83Nmeb3CqdNmGQk7X7N+X50m1ta86MwSTLA5pOmAoff7kxk3MHYUxOth/3p66vDqWOUzGIZH06dVyq8Gq5AozJdwAlCh0nYxDbq1PqLqSTyS/Oj/84HYN5sXJHfVE6HYEJlW9PDxaWyoC4FjhzdKXNnA6U6nKFYAZEA3A1hEBtTuG/VwgGkNmAuK+6ns5FMjADevLwlpomKAUok4cyIMZEyUDIpUD4PwBC2Zj4Zwf6MuVHxbW6oz8v5EOx5WWprQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMklEQVR4Xu2Vf0tUQRSGvZ+lPwNL8SdmGiqWCSIRholoKeu6XFoWtXJRKSKSIhQJChEEP+iJ5wzn3rmzLnh1a4J84YXd5e7ss+87c6ar61YdVSK5oyuRz7Ux2V8fkQ+VB7HBEvlafySfqqMKdZT2yUm9T340+mNBJfIlHddkAAMGR4JBri78vTEROx2UaF2kdLIzpTDvVobiAlEX6fzanVag5qthdYTN7WBI53hrUs6bw/Jza0BP2151RnYrj9XtwfxR0e6ZK8vBsHfYzBd7I3K6M6ifHdSeFoBawZx5nj13WO3Rmm9YdQ5EXWfvh6Ty7L6+/5jOtoXCfA4M9X6r9WYVY9K+BlQOwwLAUBULGowP9HZ9ugAECM8zs6gXby8P6uGg+rODmTJQOQxmYf5tY2mgAOLboDAwZgBYi6qAovqStbnuQyA76j5A6BDGvk+qfJfXJTd2EQTbECQdH8TSCB3CkApA+f13ZeXDz2xXhKXjw2y/nmpxmI7tHVwaZnb0jvZrZlEDIh0/FX68sTLZ4nbplIRBibx8clfW5u/psWbPGEy60Kvp+Knw42+WJwruIIwpkc3nPZnri/2Zw1QMIl0azxxWVbxari13AqjId5iMQWwujqn/QDqh8tGPw3QMZuPFQ/Vl6XQQ5jI5ML8qA+JaYM9xKm3m/AUgkwMzIA4AV4MPVHIKd0oODCCzAXFfRQAy5VCrc91qDkFEIOSgDIgxERkIJRkQ/geAkD8qbvUf6TdO8QjqSUMrMAAAAABJRU5ErkJggg==",
     "wiki_name": "Strange cipher",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strange_cipher",
     "equipment": null,

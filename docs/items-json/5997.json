@@ -1,7 +1,7 @@
 {
     "id": 5997,
     "name": "Asgarnian hops",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "A handful of Asgarnian Hops.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZ0lEQVR4Xs3V7UtUQRQH4F2WRYpIothIKS3JwA/lB0sjxQ3Z0gLfTVtDU9nMssISQ8ywEu0NQeyFCgVDTKSMICqKov6yk78Zz91zx1ndXW/hwOHunXt259mZM3N9vs3f/GQP2/N/3vz0ZKiBHg3WqRi7XUuj/TUqGDE32UGzE+0087TNgjL/xIbhGsQogDhMzPTjC/RyLOoaGPd4ZoYblRLSTxPDjatQuALCwaDnoy00OXJO5eJqAyFfon8uDtH3+VvpoRiEzzw7DHr9sFWBODcRCN/7sTBIv5fu0Z+lBwqEMQpzc1WYoxtNTzv/awZhUBMk/zVyp+43W0HzU50uED4zyBzdaH7XMgDBxY17CUJuQ+cBqm3XwTAbaPFFzDsQzxL6GIQ8IM605KwKPDNBH15dckCIlEBcFyZILk91636qbNpHkfq9TuAeYQN9fNPtBr0b2BgI/aWVe9TA+MyAippsVzDORH2a7vEOhL5j4d0KVH42i6JX8x0UENzPwThGYYm/zPY6oF/v7zqYlEG4LyoL0fGIHhSIplgeNceCVH0+qPrwDDlA47ME4vsAfX173QoyR0/QdJ1gCycCtfZoUFFpgEJZPpVnC56hb3N96YL0tsUMrQVquxakxo4gnaoPUnZOHIS+iuoA5RXoPoCwMyVIHorm6EbTW16CeNmwDKgLFHLL5YOqT85SuG4b9Y9nUEdfBlU1BamwOKByMDuegiRKBv65vC+ObKWik1tW5XgKkrOEKwbAKwADIA99fCSciMSXKb8wwwVaeNblgHBKMyYpEHaYDcSvAwnidx2+h9oprwrQoSMBOlzinim8NuQMJTk7aHGQWUfolyDcm6DisK4bRNfNHRTtzqSjZRrnGYhR6Mf0MwjP5SkOEGaHQQPjIeod3kmly7VVsLKE8qTWees2DbIt21ogRiHQj+udiRA1d2XS6eXdV7JS7ADhDErhHHKD5LJJEK7oZwxgCK41/M6NkV1q2RovbleotEEo1vVAqCXeYSaIa41njINrKG2QuWzolyAuaAbhnkGci6XFlv88c8UB4QxK+RyyLZsEyS1vA/H5g1xPQLZlkyA8kwUtQcjj95cHIDT32icKs344TBAORQniSAHk8/GxvlaYQBmyfjwBJdtMZDJYjnjuf2om0hbmdzZ1+wujaTU/nevskgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSUlEQVR4Xu3V7UsUURQHYJdlkCKSKDZSSkoy8EP5wdJI0ZAtLfB90zQ0FTPLCksMMcNKtDcWxF6oUDDEREoJoqIo6i87+ZvrGc/cubvtrFP0oQuHmblzd+eZe869k5Hx77cQmcN0/4+3ED0aaaQHw/V2TNyso/HBWjsYMT/VSXPxDpp93G5A6S+xYbgCMQogDh0z8/AcPZ9odT0Y17inhxvlCxmi+GiTB4UjIBwMejreQlNjZ+yxOJpAGC/R35ZG6MvCjfRQDMI5zw6DXt5vs0E8NhEIv/u6OEw/lu/Qz+V7NsgXBn/Kb80gPFQHybfG2Om7zUbQwnSXC4TzFEEhVxqA4OLGtQRhbGPXPqrrUMEwE2jpWU9wIJ4l9DEI44A41ZLrCdzTQe9eXHBACF8grgsdJNNT07aXqmJ7KNqw2wlcI0yglVe9btCboY2B0F9atct+MM4ZUFmb4wrG6aj3M33BgdB3pGKnDSo/nU2tl/MdFBDcz8E4RiHFH+f6HdD3t7dTxaC5QbguKovQ0ah6KBCxnjxq7rGo5qxl9+EexgCNcwnE7wH69PpquiA0VSdYwolAbX0KVFQapkh2xtoDvMEz9Hl+IF2QWraYoWSg9isWNXVadKLBopzcdRD6KmvClFeg+gDCypQgH5uiWvISxGlDGlAXKOSWi/vtPjlLFfVbaHAykzoHMqk6ZlFhcdgeg9kJFCRRMvDm8ro4upmKjm/yjAkUJGcJRzwAnwA8AOPQx1vCseh6mvILM12gxSfdDgi7dIoYNLXCTCD+HEgQf+vwO9ROeXWYDhwK08ES90zhsyFnKC2QXkfolyBc66DiClU3iO7r26i1N4sOlylcYCBGoR/TzyDcl7s4QJgdBg1NRqh/dDuVrtZWwVoK5U6dIkqBTGlLBmIUAv043opHqLk7i06urr6StWIHCHuQj33IDZJpkyAc0c8YwBBca/ifa2M77LQ1nd9qo9IGoVh/B0It8QrTQVxrPGMcXENpg/S0oV+CuKAZhGsG8VikFkv+w+wlB4Q9yPc+ZEqbBMklbwLx/oOxgYBMaZMg3JMFLUEYx9+vAEBo7twnCr1+OHQQNkUJ4vABSrV5kRyyfv4iKFnzIr3xv22s/QJZZeqk6MhLQAAAAABJRU5ErkJggg==",
     "wiki_name": "Asgarnian hops",
     "wiki_url": "https://oldschool.runescape.wiki/w/Asgarnian_hops",
     "equipment": null,

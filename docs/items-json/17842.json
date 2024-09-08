@@ -1,7 +1,7 @@
 {
     "id": 17842,
     "name": "Shield fragment",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-24",
     "duplicate": true,
     "examine": "A piece of an ancient goblin shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHklEQVR4Xu2W2UoDMRSGmzfxtiDYiyoVt0rVqpW6W+vWuiCKeOX7E/kS/ppJp3fJFMXAIbPmfPOfJVOr/e5hbHxljsPY817Peqi5g3mY8WBgP5+f7OFOZ55Qxp4eHExgOhsb9rLfd0CNhYWqoYw97nbtw9Wl/Xgc27uLcweDWoKK38g4jD3a3XUQwDwNhwUgVKsQyrjQXJ+c2PfRyFkZEFZR6Izd325P1Hm9v58CQj0ldyVAOCSRUQcgjgFCNcEAXQGQV4dwAPJye+sMoJuzU3cdIJ7Z29pyoc2cR14dQkOYZFSagKg8FAKmvbaWWyXfBAkPqmDAcK5kBkgqAbS+spJTJQ+EGiFMCBSqRNgW6/WcKv0AAQGQoAgjSc0sKMK23Fhy8JlUMgXHgMVAglXFMQOHWhmgfoC0RQggBgrV0wdQAImhjFtcQNoiBMIsGFUf59xT0+RaQigPpMVVcThXP8I4VveOgbjPGsmhZDgDgG3k6+3N/YYAo+4toFBVVWUiKFNwRAgAAsQ78Kb7ZUBKdp5L1A7MJGkVLi0u41whDDdfNU51/GQqqWpimPAZ1FCuAUL3pjeFllQl5cE0jL8fOtY2gq02m3az1XK9CaUSqcSYDYNDQJgBoGMzA4ZSgKjrJ1SpVpteyLgvZy8jTAqXzsMOT8j5jaFCE6oUD587cqy+pJmfurgiZyudbBSdlVlYkZlh/IidlVn8zv/4c+MblpWrUWBcyuoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4Xu2Wa0sCQRSGnZ8TBPXBxLDSMDMzKrMyM9Mswog+9f+ZeGZ4t3FdPyR7IfDAYfaiM8++5zJTKv1vMzb+pEAztt/tWg9VOJiHmQ4G9ut1Zs9PmkVCGdvrdCKY5uGhvbu8LArI2Kt22z7f39nPl6l9uu07GNQqAMrYi1bLQQAzGw4XgFAtRyjjQvNwfW0/JhPnSUB4bkBnx41InffxeAkI9XJMbh8uEhl1AOIaIFQTDNA5AHl1CAcgb6ORc4Aeb3ruOUD85rRed6HNGMqrQ2gIk5xKExCVh0LANGq17IHIEcKDKjgw3CuZAZJKAB1UKllCeSDUCGFCoFAlwra9tZUPEBAACYowktSMgiJse7s7Dj4jKLOwMGBxIMGq4hiBQ60MoH6BtEUIIA4UqqcPoABShjJucgFpixAIo2BUfdzzTk2TZylCeSBNropjcfUjnGt17zgQ75kjdSg5iwHANvI9n7tjCDDq3gIKVVVVpgRlFhYiBAAB4hfwrvdJQEr2lIAwEyWtwrU8uYlCGG6+apzq+Mv/W8t8ta2G8b9BDeUaIHRvelPoyf9dy8KDfZL5c5Nc2wi+Xy7bo2rV9SaUWj3Hn23VRMYtCAgjAHRsRsBQChB1/dXzpGLGfTl7GWFSuHQfdnhCzjGGCs0QyueOFlZf0sihLl6RGcLI4osl+cY2lr/9APHxeST1lpVnAAAAAElFTkSuQmCC",
     "wiki_name": "Shield fragment",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shield_fragment",
     "equipment": null,

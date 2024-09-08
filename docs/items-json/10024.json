@@ -1,7 +1,7 @@
 {
     "id": 10024,
     "name": "Falconer's glove",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "A very large, single leather glove.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABn0lEQVR4Xu2V0UvCUBTGvQ891EMQSaEDdYoTHagJKgOTxSwpehCkoP+hHurFP//kd9eZt7sV4Z1tD/vgw7l7du5v955zVyoVKlSoUKFDSFDoXEjQwLGoaZXzACXocd6nm7FDY7f+BfSbjaQnS0ooaOn1Ig9aF+TaZelO7Zza1pm0XTmVTs7xJwnyhzXp674VOQ4oaDHtShjPrdKkW5EeOZcSjgEBd3J8JOOHjcY+UIKCUT0RChOrBszDzP0Wp8PBDLM30N3Y/hGKtwggK38gjVg1np8BHFbJYHUgQffTZgwKAChimEHWwRU93Y6ieDYDwoarA227x2vFkvN/TM5G3GrWlr9sHkMs154BDCTkJOpbqwAMsZ47MeM+P4tVRR2lAoTk/LYqhGqsGu4/+x16CXrSuMaY2omG2wUJmVjdBt3qhElmiBRgWGEdqfXATpowyXpGQ4WdFri7bkmpY0y0PbF7uzMoYxiWoM1mmRcYSNDH+yIC0kczkKC3Vz9PQJAgr11V2jpzhUCT1vbrbYdfbj0iA8UPPT3i33XAQy+/+gTNJI5GMhrWIAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgklEQVR4Xu2V0UvCQBzHvYce6iGIpNCBMsWJDrQElYHJYpYUPQhS0P9QD/Xin/9r35s/d3OrjNtoD/eFD87tt7vPbne3SsXExMTEpIgIiihFBA0di1pWtQxSgp7mA7odOzR2m1uhn9DKfmNZDQpaev0dw/YFuXZV0m2cU8c6k9i1U0l2GwdFkH/VkNwMrB1pQUGLaU/KeG6dJr2aZORcSjkWhNzJ8ZGeUDBqZkqhYxXIPM7cRN2+HNCQQQTdj+1vpfgVQWTlDyWoVev5HshhlLSFHqatlBQEMIkBi6yDa3q+G+3qGRYEmjJIuHq8dqpx/o/OGdStZh35y/A11MZzTytCdqI+tSrAEuu5kwLn+V6MKuZRLkJonJ9WlVDBqOH8i9+l16AvwTGuJVejdoRsWH0N+yQ7zCL3RPNInQ9MQR3+lmilBW68WnJaMToJd+x+vAf9swxH0GazLIsMIujzY1Euofc3v0xCiCCvUy9ySf81kdCkHX69be0vd14pdNMzOThfEPVaqtFbvR8AAAAASUVORK5CYII=",
     "wiki_name": "Falconer's glove (With Falcon)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Falconer's_glove#With_Falcon",
     "equipment": {

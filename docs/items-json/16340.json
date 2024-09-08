@@ -1,7 +1,7 @@
 {
     "id": 16340,
     "name": "Gold amulet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "A plain gold amulet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACa0lEQVR4Xu2XbUtTYRjHvYhxmOxD+BH6FhaCWma6dGFhZWaKmS0L17I1sLUe7MFsbIjYlBGOtUzGBumUYMQoemGM6IW96EsY/Nt9n87ZPMfqvstzBtEfLjbYue7zO9fDua7V1f3XvyvCr81WEeanH+P57CyWEwlkX6SQz2bxdmMdd677cdLtthOMMPfoIZ6GQrh3YwLxmSfIJJP4tLmJb9vb+FwqIb24gODYGHo6OuwAIyxEIohN3eef5lSp9qFY5LABrxfHj7ZbCUY8VSw17Pv+hoZdTQNYy2R4eicujaL7SNteQxGvF5YS34VhHch4laZqsEg4DKei/NZHUoTVlVem6Biv2inCu0JB0kdYhFQ8jpbGRoknJWzkcrzIxX2ERX/wpISVpSX4L45YA9Tb1SV5MCH5bB5XBgcl/YRE+rtF/GBCIhbDSF+fpJ+QSG9d8YOJv4+GTvVK+gmJcOzwIYmDCbmXady+5tN9xPyERWhvbpYCYtHxDgxI+EiJ0NbUJHi4Gp2pmwGrosNEeBAMCgMtRqNWtbsmQiG/pneM8deK1HHBNgILo8NEfMVgk/60x/MDymwsiuwFemt83MroaCK+jLGbdra2wt3pwIkeB86ecWC0v58PXbZyWNhZRhG+ftnC8JCCy17Vzp9ToVi9sJklP17+SoS7YSdCkwr8PgVXA6p5uh08RWyLtBUmGnHqENXGUqfVkE0wTOXlfm53IGYHD+yzo4irRVhO15tAqs12oDfrLhNETYFKH13Ir/48SjYDMZX/4rxXoVLJel5TM9OVrqsBEFN5cS+68DpXgapBhxm1c1xoIHsN8x3hczgHIVwy7AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVUlEQVR4Xu2X/UuTURTHPch4mOz/shDMMtOpEw3Ll0wxs2XhXLoGtdaLvZiNDRGbMsKx5gtjg3RKMGIo/aAM8Qf9oX/C4OvuvdXWZuve2Z6B9IHDfniec+5399xzz3kqKv5zdiEUNl0hzE29wYeZGSwHAoh+DCEejeLL5gaePrDjqtmspzDC7OtXeOdy4fnEOPzTbxEJBrG3s4PvR0fYT6UQXpiHc2QE7Y2NeggjzHs88E2+4L/5qRL2NZnkYh1WK9quNJRSGPFUsdQUXkAIWI9EeHrH7wyj9XL9X3yUIX5eWEpstwYlgwthHrcbRk2T9JGGsLa6IrE72RC2EglFH2kIIb8fF6qrFYITNmMxfsjlfaShIv4pYXVxEfbbQ4p+UhA6W1oUAxOC7+dwr79f0U8KyrpbZCEEfD4MdXcr+klBRZQu8fto4Fqnop8UhOZLFxUCE2JLYTwZsyn4KEFoqK1VCC52x9rXp+CjBKG+pkYyuNidyYcOyfeLgvDS6ZRcgLDg9Zaq3H9CSMTXJSqGPSM+ERR+79QQHzFYp79usfxYLN/YLrIL9PHoaKkFMYgPY2zRpro6mJsM6Gg3oKfLgOHeXt502chRwsrKhfDt8ACDAxruWoXdvCFEsfPCepZ6ezkVhGduI1yPNNhtGu47hFlaDTxFbIrUVYzXY/wlIttY6jLnSDfSw/3syYKYnT9Xqb+g5XBVnpBs013Q5w1TnoiyCkrtmhBf+/Mu6SyIkf7E2RaiQsEqfqampzJVVwZBjPTgnjThUywjqgwVlsvv7SL36b/iGHeJ6R+JWuZSAAAAAElFTkSuQmCC",
     "wiki_name": "Gold amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_amulet",
     "equipment": null,

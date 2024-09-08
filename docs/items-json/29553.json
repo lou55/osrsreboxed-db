@@ -1,7 +1,7 @@
 {
     "id": 29553,
     "name": "Earth block",
-    "last_updated": "2024-08-05",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-07-10",
     "duplicate": false,
     "examine": "An elemental block of earth.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4XuXWWU9TQRTAcSZ+ERKfSHzwkQci+sCWGAQVEZEdERFBRGwAWURowyaLMSY2+urHPOZ/bk47HW5LertcEk8y6e1yZ35zzszctrQkDifFlno4eT4wINMjI3KnrS1tVIR5OzUpHbdv6eu99va0UEXM2sKCgmir8/PyqKen2agI825mWjHbH1YKIBrvgTUJ5eTF48ESTG5zs4DhmpZdX5fP75cbvdidvHz6JBYSgux6P5PRbDYA5WT82VBZiI8Jvz/a2lJYHVFOJoeHdSA6DweshPG/4946lNDpGfPty66c7GzHgiphQpC1hCgns6Ojcv51r2aQQXY/rkpmcVFWXs8lQTnZWFpSyOXBvqIqgeIgfmPnsQbfTEzoEqD/u62t1aCiDLEgf+Ry2oCRMWD+wNdhmBT9LL+aVRC7NTGI9HKm/Lm8kF/Hx/Lz8FBhDBKXHTJh7Xs2qxMg0xyWgOjTjoKqQXNjYwUQA//N57V0hooroWEAk1XKZCAOVMo11N9fHxCI/OmpZsvWVgiyEvM7rn2QlWuwr682kB2IpJ8ykKEQZgcgn5FFfu+D6Idy8eh52NWVHMTM6HTv01qhFOVglNR2pIFsq/vl6n1wPxmIFLMQeX4xy+tgvPLejggDcT998fihXN2dnclAnNI+irUEiNkzqGF+n51piwNxj18u+jVMlSDCaWeknOwwAAMZhmPAMOVAZJZyMTkfkgBjEc3IMJTJdpGPiQP55aohK1cj6sTpgvVLFDYfRFnJqj236oYpjShbISQEkUUrVwMxUVi2QgyNNQWIHcjibzimNK6iDES5moyxKEUBolwpYSyKKNZQyhgL+698IzBRGORGYP6L+AeXYCHC1WxeJAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4Xu3VW08TQRTAcSZ+FJ9I/AA8ENEHRBLCTRERuYiIiMhFxAa539ogIoIxJjb66sc85H82px2GbdHpZX3wJJNu292Z35wzM9vSEh1Oyi3zcPK4v1+mRkbkVmtr1qgE8/rZpLTfvKGft9vaskKVMatzcwqirczOSl9XV7NRCebN8ynFbL1dLoFofAfWJJSTJ4MDlzCF9fUShmtafm1NNpYWG73YnTx9+CAVEoLs+iCX02w2AOVk/NFQRYiPCf//uLmpsDqinEwOD+tAdB4OWA3j/8ezdSih0zPm8+6OfNreSgVVw4Qga5EoJ9Ojo/Jlf69mkEF23q1Ibn5ell/OxKCcfFhYUMj54YGiqoHSIH5j57EGX01M6BKIApEhFuS3QkEbMDIGzB/4OgyTop/FF9MKYrdGg0gvZ8qv8zP5cXws34+OFMYgadkhE9a+5vM6ATLNYQmIPiOPAiczY2MlEAP/Lha1dIZKK6FhAJNVymQgDlTKNdTbWx8QiOLJiWbL1lYIshJzH9c+yMo10N1dG8gORNJPGchQCLMDkN/IIvf7IPqhXLx6ejo740HMjE733q+WSlEJRkltRxrItrpfrvt378SBSDELkfcXs7wOxiff7YgwEM/TF68fynWvoyMOxCnto1hLgJg9gxrm5+mptjQQz/jlSiB/jbFw2hkpJzsMwECG4RgwTCUQmaVcTK4GiB/JjAxDmWwX+Zg0kF+uOmH8cLpg/RKFzQdRVrIa+d7600iyFUJCEFm0cjUQ40c6ijUFiB3I4m8SxuIqykCUq8kYi8soQJQrI4xFGcUayhhjYYfdP4H5H9nEBXoW8PXxXazRAAAAAElFTkSuQmCC",
     "wiki_name": "Earth block",
     "wiki_url": "https://oldschool.runescape.wiki/w/Earth_block",
     "equipment": null,

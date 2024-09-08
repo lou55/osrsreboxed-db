@@ -1,7 +1,7 @@
 {
     "id": 17241,
     "name": "Shaikahan bones",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-14",
     "duplicate": true,
     "examine": "Large glistening bones which glow with a pale yellow aura.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xu1WW0tUYRT1e5IepUfBNMkww0uYGWYaZmYGaVZEZnYxMzPNzMRIMzPFzCwnsxpGxExFRDGbRByGLhJIDz370G9ZtfbpOMczjozOMOPDLNgwhznz7bXXXnt/ExYWQggBgYIWWwIK3+bnMdz/equQUpibmsLk0NB/QkFVS8HW24uOpiaJ/s5OjAy8gX1yMhjkFF48bsXta1dxMjcXF88Uy+eWu3V4/qgF1p4eUY3tXE1urfALFE7l5WF/chIOpqbicHq6ELtwuggVpaWor6xEe2Mj+p62i7/Y1l+LP/BneRnfFxYwZrXK9yzEj8TMlbqCxG6WlaGhqgpt9xtEzffd3Xj5pE3aSyWLCwqkvYN9r4ScX0glR0eDYSSz6HBg+uMILB0dopSRWOu9etReL0d5SQlyMjMxMzoqRB/U1MhvtbN8hjb6C59mYJ+YkKppbioxMTi4iiyVIRm2l8868bobFQa/+QQlSUmAE8dJG+jqkqrZJlfVLkIHUlLEd3yeHR+TNlJF/V0vVHL3iPE7mvjWlcsyZayUbWESEtTfX1Hwn3pURS+CBBn8jYv8utAO+zr3BU67HY7Ps3KwO0EtmJC+0BPSsFSM0/asuVl89PBOrXiLBRiD3nIv2A1aS9YKjrNxcpiIClExjjPXwomjOTiWlYXsjAwcSkuTNZGUkIA9cXHYFROD3bGx2Bsfj32JidLKS+fOrqhlZmKAkqSUlq3hSDMJD+Hh5mACc7AAGt6sqKfwwktKqmcFnBBWxopYsTmMB3Nrs2Wj796Kd+anp1clXC/MDExQMq5F+fnYERkpVbMF5srMyfjMsabBx202mSr6UHvXJyicLyzE9ogI6f1ayT1Xp8Rr9NzUh2G5Rta/47yGJxW8gcKQxSJ3mK7ST6cTv5eW5G7T/8LwnQ2R2jgRI5R4iYnZPn4mAbaUU8rrQx/9zZ2/KSjZTSTQWF0tG5orgt7k3cZBCTghXincVfQk/7ZwVeyMipLJ5eeAE+ICPX4kW8hsCw83GdqrHeRPKNna3NQ6GfOEBpCMjqCp4RlBVCOEwOIv30ASWRS4pG4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xu1W30uTYRTeeyVdSpeCYZJhhmaYGWYaZmYGaVZEZvbDzMw0MxtGmplNzMxymZVsiNkUGRtmS8Zk9EMC6aJrL/pbnnrO/NrcZk4dmxd74MA39u09z3nOc847nS6GGCICBU9sCih8dToxNvRqs5BSmLXZYB0dXSIUVbUUTAMDMLS1SQz19GB8+DUcVms0yCk8f9SJW1ev4ERRES6crpDnjjvNePawAyP9/aIa27mcXLAICxROFhdj354MHMjKwqGcHCF2/lQ5aquq0FJXh269HoNPusVfbOvP+e/4vbiIby4XJkZG5HsWEkZi/pV6g8RuVFejtb4eXfdaRc13fX148bhL2kslK0pLpb3mwZdCLkykNHjJzM/Nwf5hHEaDQZTyJdZ5twVN12pQU1mJwrw8TFssQvR+Y2M4CXlG3/VxGo6pKama5qYSU2bzMuWoDMmwvfysEW++Xuvjtw1BSVIS4MRx0oZ7e6VqtsmbwEtof2am+I6fZyYnpI1UcQ1kAj3i+x1NfPPyJZkyVsq2MAkJau//U/CvelRFK4IEGfxNiIQ8h32Z/Qy3w4G5TzNycCBBTzAhfaElpGGpGKftaXu7+OjB7SbxFgvwDXorsOAAeFoSLDjOvpPDRFSIinGcuRaOHynE0fx8FOTm4mB2tqyJjLQ07EpJwY6kJOxMTsbu1FTsTU+XVl48eyYUtZQkpbRsDUeaSXgID/cPJvAPFkDD+yu6cqwKJdWzAk4IK2NFrNg/fA/m1mbLLG/fiHecdnuoCVeDknEtLynBtoQEqZotCKzMP5mSsabBJ00mmSr6MPC9NUPhXFkZtsbHS++DJ18JSrxGz9nej8k18v87LmSs60dLUBg1GuUO01T64Xbj18KC3G3aXxi+s77z1wUlXmJito/PJMCWckp5fXhHP2JQsptIQN/QIBuaK4Le5N3GQYk4IV4p3FX0JP+2cFVsT0yUyeVzxAlxgR47XCBktsTFbcTU4YCSrc1N7SUTdURNjRhi0P0BNN3Nei8KJxkAAAAASUVORK5CYII=",
     "wiki_name": "Shaikahan bones",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shaikahan_bones",
     "equipment": null,

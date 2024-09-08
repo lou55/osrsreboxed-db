@@ -1,7 +1,7 @@
 {
     "id": 1112,
     "name": "Adamant chainbody",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A series of connected metal rings.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADK0lEQVR4Xs3WDUuTURQH8O07CCKjpo4Zm2NuQ23BMgaCFEKJVlJRVFQUEURRiBS9iPSGIPZChYIhJlJGEBVFUZ/s1P8+/p+d5+5ubO4pvHB4Xuf9ec65d4tEtv+Iijtcz//5iMrj6XF5ODVmYvbmIZm5ftAEESvzp2V57pQsPTnpQNn/RMtwD0QUQAwbs/johLyYPRaYGNd4ZkcQ1RQyKnO3JqpQOALCIOjZzKTM3zli3sXRBcL7Gv1jfVq+rV7bGoognDM7BL16cNyA+G4tED73fW1Kfm3cld8b9w0Ic+Q6O03Ys1vDSzv/a4IwqQu0cO+oD8K5C7S6cCYAwjlB9uzWiAbKgInY3Li2QZgcCJa3Fmj9+bnwQMwS7gGke6FeaND7l+d9EKIpEPvCBnE1JfIJ2ZHaKR3dHVXRHm+XtlibCY368PpCEPT2Rusg3CcIkRxKSnwgLl3FLgPkdXY0WwX6uHgxXBACpcTznv4eE4lSQmJ9MenOdku8N+5fM0sEod8+L1/2QT/f3fYxTYM0Cn8cz1O7U5IpZSS7r8957B8ZqAJ9eXPFCbJnrzG8psSKcYEwaXpP2sBMpv6Wj1mKJWOml2zQ15WrWwV5exAyVAvETKBEDIB4jp5C2QjCytQgvSnas1vDW/IuEIKgXDlnUGjinvIuP0u8RpYIQnZCBRGFsEG6dCwbVhvLFjpIZwlHggrDBYPqPZDxA1nieXokHeiftadnfRB2aWIaAmGFuUD8OtCgvRNDJpApZInXaG7dP/ja0BlqMDsYFZDdR7hPEJY1USgdy8dVh9LpcuFrIzQQUbjP3zSD+wcNCDtyfjxvjga2eZ0aTgVA2KU1iCh7dsfwQK6y2SBkCYDC4UIlW5vXaHCC8LPj09IlH4Q9qIl9KAjSZdOg4mhRypPlmlEaK5n3kJ2WQVhl9UCYwEt3/WC5QgPZZcN9gtDcaHR+6WLT5F6Fz/FdgLDkNQh7UNP7kKtsGoTzeiDuP3g3FJCrbBqEZ/pniQbhPe4/IYAwqvvBFRqjwwZhU9QgRhOgSITber2wgTp0/4QCanTYyEawjMq7/2nYSFfYn9nW4w+EgDfl0pKtkAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDUlEQVR4Xu3W/UtTYRQHcPc/CCKjhhtbbI7phtqCpQwEKYQSraSiqKgoQoiiECl6EekNQeyFCgVDTKSMICqKov6yU9/n+r2de++zsbtdox964HBft/vZOed57tra/v0RE3vYrm/7iMnDmXG5Pz1mYu76QZm9esAEEasLp2Rl/qQsPzphQfl/RMtwB0QUQAw/ZunBcXk2d9TzYBzjmj+8qFDImMzfmAigsAWEQdCT2UlZuHXY3IutDYT7Nfrbxox8WbvSHIog7DM7BL24d8yAeG8tED73dX1afmzelp+bdw0oFAZfyl9NEB5qAy3eOeKCsG8DrS2e9oCw3yAo5ikDHsTmxrEfhIcDwfLWAm08PRsdiFnCOYB0L9QLDXr7/JwLQoQCsS/8IM6mVDElO7I7pTPZGYiORIe0x9tNaNS7l+e9oNfXWgfhPEGI9GBaEv0J6Sp3GSCPC6OFAOj90oVoQQiUEtczfRkTqUpK4j1xSRaSkuhOuMfMEkHot48rl1zQ9zc3G8VgeEEahS/H9ezurOQreSkM9Vi3fSP9AdCnV1PNgjCcpsSMsYHw0NyenIGZTP0uH7MUT8dNL/lBn1cvNwty1iBkqBaImUCJGABxHz2FshGEmalBIRZFZ8rbQAiCequ9BoUmzlR3uVniMbJEELITKYgohB+kS8eyYbaxbJGDdJawJag0XDKo7v15N5Al7udGcp7+WX98xgVhlW4Qg+HMMBuIrwMN2jsxaAKZQpZ4jObW/YPXhs5QUyB/H+E8QZjWRKF0LB9nHUqny4XXRmQgonCe/2kG9g0YEFbk4njRbA1s6zg7nPWAsEprUAiUA7KVzQ9ClgAoHSr9ydbWMRqcIPzt+LB80QVhDQqxDnlBumwaVB4tS3WyWjMqYxVzH7LTMgizrB4ID3C+rH6wXJGB/GXDeYLQ3Gh0vnSxaHKtwud4L0CY8hqENSj0OmQrmwZhvx6I6w/ujQRkK5sG4Zr+W6JBuI/rTwQgjGA/2EJjdPhBWBQ1iBEC1OgIIhm6f/4iqN4IIoPxf7Q2fgE6fO1KiI8MDQAAAABJRU5ErkJggg==",
     "wiki_name": "Adamant chainbody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_chainbody",
     "equipment": null,

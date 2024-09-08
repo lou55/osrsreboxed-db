@@ -1,7 +1,7 @@
 {
     "id": 8370,
     "name": "Floor decoration",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPElEQVR4Xu2V/0sTYRzHt3+iqDD8PYgIIoSCfisQioqCECsKzRQzGseCbM2pK9Gu4Sxdx9WUtW+u26aeS25N0zWyJaH/0Ds+z7Fzz84rF9oI7g0vxuDZ5/O6z3PPM4fDjh07dv7bOMHTsOgCF9vu45FfwntlGV1PxEaI6Q2vdwh4LEbQ2dlucKWlCYEZFTf7Bv6FlC7S3uvB4GQKLlcXhyB0G1w7c5St2adp6UU73CMQwwvwel0GPp9gydCQG5dOH4F7bHqvxPQiPc+CaD11GGOjHoYoei0JBHwmSKp/PI7egYm/ldJFXC9kXDh5CG9Do5ZI0ktLZPkVB9UisTqn5WQ/Onf8ICKRNzsS/TBlSSwqWRKPywyqXYeYEw+HQ7jj8iMcDiKZfIdUKmxCUWY40ukIRzYb5Zifi5k4e+xAldhv42QnhO4WEqMGlSLqQpJHTZnI5RSOpaW0AX2nu4rq02frjXtM6ERz85+liOGQgr7BSTYpTcty5PPzHIWCyrGyvGhA62nyI3KGvZvb26XL7ELI4dAXOTGV0JgYHXsqvLqqmSgW8xylUoFBYnTsxyOL8AQTJoldy/DRi0izGvxSGm09/Vhf/8Iol9c4Nn58ZdAa7+tZ9jB0d+0kUtulrlSmVRGjp7186wE2N8sGW1sbuCs8Z9synVmB/PHz3ovUpiKWyX9nDel9OH/1NrqfBjARzSGmFpHIlfZfxBy94VyhzP7lFe0bPq39bITIdqq3saEitamWaKiIHTt26swv/tECkPtExnsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKklEQVR4Xu2V/0sTYRzHvX+iqKh/IOiHICIo6LcCoagoCLGk0Ewxo+NYkK05dSXaNZyl67iacu2b67ap55Jb03SNbEroP/SOz3N47tm6UFGHcG94cRw893lez+fuea6hwY0bN24ObQTw1C2WwLWmx3gWUPBZX0D7C7keYtaEd1olPJc1tLU129y8cBLBSQP3unsPQsoSae7yom8sBVFs55CkDpvbF0+xMfvULatoq2cQcmQWPp9o4/dLjvT3e3D9/Al4hif2Sswq0vkqhMZzxzE85GXIss+RYNBfA0n1jMTR1Tu6WylLRHyj4urZY/gYHnJEUd46oqrvOKgWie2wWwJ76PKZo9C0D/8k+mXckVhUcSQeVxlUewdiAp4OhPFADCASCSGZ/IRUKlKDrk9ypNMaRzYb5ZiZjtVw6fSRCrH/RmA7hM4WEqMJNosYs0keI1VDLqdzzM+nbeieziqqT9fGu4+2I0Sx2jkQ1tHdN8Y6ZZpZjnx+hqNQMDgWF+ZsaDx1flDNsG9z63VtS6YyAsYTJhOjbU+Fl5bMGorFPEepVGCQGG37EW0O3lBitxLVsYooUyYCShpNnT1YWfnBKJeXOdZWfzJojO/9FFsMnV17JFKdLTFa7Y37T7C+XrbZ2FjDQ+k1ey0TmUWoX7/vl0h1BGTyv9mE9D1cudWCjpdBjEZziBlFJHKlgxKpjDXhdKHM/vK6+Qvflv/UQ6Q6lbulriJu3Lg5/PkL1d3Xf4Zch8EAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

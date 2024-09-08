@@ -1,7 +1,7 @@
 {
     "id": 10898,
     "name": "Keg",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-06",
     "duplicate": false,
     "examine": "A small keg of gunpowder.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZ0lEQVR4Xu2XXUsbURCGPRciuWmRSsUGE5NlN2xXsnFpdKUxNRhJvyjSL0RsEaEgQikUSqF/ftrnLLM5SUOucuKNAy9JNkvmOe/MmbNZWbkPL2FkUncaRuLGplVYeyzN6sZdghkZHsTy6TSTL28O5OZjX76971mlUXXZYIUzo8OnkgXrsh89ksN4w+rqXS7XZ88t2Ngxr2GktrUu/SyUpPZA0sbDEsoVriXBEwvU2dnxBWUsCP0CjAKpAFNRyrzd8F26om9YeataALkuuXDoKKrYBbRqq76gjLzuJdJN6tLrBBMwLpCC4hALUKAFl85IN16Ti1f7tj9oXhJq/0wD4Qzft7ZWZbe55gco362UMLqT3vbbkgcVOTtOJwQQLuJmJ/QEdJROAinULKBBN7JAuATUgoGMTZDHjRLIhaJ5ZwHhEmVO6gvf/sYOwV4SlHLBZgHRzJQYGC9A9Aog/XZoNehE9jNAg/h/IMqbNquShdt+SgYQrigMGu7F9pVrwFHSblS34j3XKJ0XIFYN0PfzY/lxcSI/L4fy6+up/L4ayZ/rl7a56Scc4z4WQJltH/kA4sfnAXHau0AsgCHqCYgwNtk8IHVJgTw6RBg5Hz2T288vLNQ8IHXJO9CHkz2bkOTqlEK57nC80ENsfZ3WXoB0UisUbmn51BVgePQo3fk3GOPtTT9AbGWgEAC4om4BQ0mB0UntcTBqmHJSAzfIKqVbwFBSYCgX0AxFXFIYL0DqiE5s9zhxBTA95BFGYwxF/+jUnhYzaAkwGsVzsjuT9OTXxl4iTBFFoul/rWMtFcYNTTxL0/fex6LjL9HqmqURTsATAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUklEQVR4Xu2WXUsbQRSGnQuR3LRIpWKDCUnYDduVbFwajTSmBiPpF0X6hUhbRCgUQQqFUuifP+0z4ayzNuTKEy/qgZd8knnmPe+cydLSXZmUk7JutZwkjXWvqPZQmtW12wRzMt5N5MNRLp9f7cq390P5+nbglcXVRYNNnZnsPZa8tSo78QPZS9a8zt705fz4qQe7csy0nNQ2VmWYR5LW7knWuF9AhcK1tPXIGsh5EPICjAKpAFPRyn6nYd26aW7Yebs6BQpdCuHQflzxG2jXlq2gnLwcpNJL6zLotkowIZCC4hAbMAJy0ktW5PTFjs8H4WVBzc91IJzh8/bGsmw1V2yA+luVAkZP0uthR/qtihwfZCUBhIu42Y2MgPazMpBCzQIa9WIPhEtA3TCQ8wv0k0YBFEIR3llAuESb0/qNH3/nh+AgbRUKwWYBEWZaDIwJEFkBZNiJvEbd2L8GaJT8C0R7s2ZV8mjTpmUA4YrCoPF24h95Dzha2ovrXjznPVpnAsSuAbo8OZDvp4fy49NYfn45kl9nE/l9/tyHmzzhGN9jA7TZ58gCiB+fB8RtHwKxAYaoERDl/GLzgNQlBTJ0iHJyMnkiFx+feah5QOqSOdC7w22/IIurUwoVusP1QoY4+jqtTYB0UisUbmn71BVg+OtRuPN3MCab6zZAHGWgEAC4om4BQ0uB0UltOBi1XDGpgRvllcItYGgpMLQLaIYiLhnBUK5wRCd2eJ2EApgMGcJoXUGRH53a18UMWgCMFgu50kzSm1+DvUCYsKZgs3VX/2H9AYNNaed+pbm2AAAAAElFTkSuQmCC",
     "wiki_name": "Keg",
     "wiki_url": "https://oldschool.runescape.wiki/w/Keg",
     "equipment": null,

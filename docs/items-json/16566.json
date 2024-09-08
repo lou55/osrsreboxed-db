@@ -1,7 +1,7 @@
 {
     "id": 16566,
     "name": "Stone head",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-23",
     "duplicate": true,
     "examine": "A granite head shaped like the god Zamorak.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xu2X/0tTURjGPb9HEEkRoblCR244DdRGVos1ZSatteac2kxZWIl9w2JkjEYmUiFFEAT1awRBRBBBBBFU/llvPO/hvZ57WoF5rgb1wsO93N17zuc+73PvuWto+F//Timqr00pRU2NWyi0cyu17tpG4d3bKdLcSLHQjs2AUpSINlMpGaXZoQN0PdtDN3K9NF+IU3XkEC2MH95IKEXJ2B4aS0Q8mEr+IMPURvsYCMJ5nS0tQUNpmOKRdh+MQADKhAvYJUX9XSEa7gvTZKrDB/P1/jh9WRqlT/dGuHVyPGAoRbl4G+fmaqabJ0VWVh6V6ePdAgN9X55kmVABtU7RUM8+zo3ALJaOMgTceVc9w8I+4D7UhtlBCXkALml30CoAYRJMvHA2RrWxDqoWo/Ry7iQ9Pn+c9WxmgJ7PpjlnplP2qOsoxdmZTnd67QDQ58UifXtYovd38vRkOsUuvbgySG9v53j79GI/PZg6RpcGu/g6h1DKe8wBg8ERYNGbW1laLie5VWijgAESN4H2SZYc5Un52oUJJDfQ5UyY24d9uAUwtAxAuEbccQSDUlQeiHntwiSvK6dY17L7aS7XzsL+q5sZPo4cIU8433TIHvkPS3EOpF3Yh2MCYQvHkR+0Edeg1Q6BtDuAQLsAhAnEFRtKjqFdCDTcwbVOgQAggca7BVCYvJKP+MBMSbvQXgTbEZDyXoSAgPB2BtSvgHAMgkPipsMnTHkLpazkAILwZM0X9OT1hFCjXbghR+6gFC2dS3AWsIWwZGA7c6KNgUwJDPZPx5t8CzDGskdfYyl2AtaLZGmALqRbecmwoVbhVj9DcBMOXFL82JoQpiaSezkzNojIvBHROl3S7fqd0DY7O5B9HuQo2P5/ExJu0VRKu2RKvh5NOYLRJQPpwey/O+qnt7T9u1OYemUDItx4BUDm5LbscQIsxVmCBMg+Y4NLuxR4a9ZWfxWMLpcwPwByszgDjfvpAgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xu2W/0tTURjGPb9HEEkRobFCR264DLJGVos1ZSatteac2kpZWIl9w2JkSCMTqZAiCIL6NYIgIoggggj68mc98ryX9+7uMvvFc+egXni4h7Pdnc99n+ees7a2//XvlEFjbUoZdLRvQWjnVnTt2obw7u2IdLYjFtqxGVAGiWgnSsko5kYO4na2H3dyh7FQiGNx7CiWJo81E8ogGduDiUTEhankjwhMdXxAgKgmATkwxeM9dTAKQSgvXMBQBoN9IYwOhDGV6q2D+fl4Ej9WxvHt0ZhYp/MBQxnk4t2Sm5uZQ7Ios/LnWRlfHxYE6PfqlMgLFRCQwUj/PsmNwiyXTggEu/Np8byIY8J9qY5KBzXkAUA53aFVBOIiXHjpQgzViV4sFqN4O38Gzy+fEr2aHcLrubTkLKBOGcnOTPqAaweBvi8X8etpCZ8f5PFiJiVdenNjGB/v5+T68uognkyfxLXhPrnPIpRxX3PC8McZYNWHe1mslpNiFW1UMELyIWifRRiWqbOLC2huqOuZsNjHMbtFMFpGIN5juTssg/JQzLWLi7yvnBXdyu7HfK5HxPG7uxmZZ46YJ34/kA4xB2oXx+yYQvjFeeaHNvIeWm0RyOkOIWgXgbiAdsUPpXO0i4Fmd3ivVSACaKC5txCKi1fykTowr9Qu2stgWwIy7kZICIq7M6HWA+IcxQ5pNy3BsIx7UOpJTiCKb9ZCwVm8kRhq2sUHsgq0cikhWeCV4pHB6+zpbgHySmE4PhfvqDuALUAZ6QRbr9KjgbqS7pIjww9Vg6v9DeFDWAHia+uF8Opicq9kxg+i8j6IaoNQjl1/E23zZ4fyf4/aIIwWf6QmDbdqOuV0ySv99+iVJZhGVQ9I+Xdp/+cBwjQqI+HmFkA1efH1ykiWqJYBYpdaBEarpWDs1xqPCAL4byw9AwAAAABJRU5ErkJggg==",
     "wiki_name": "Stone head (Zamorak)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_head#Zamorak",
     "equipment": null,

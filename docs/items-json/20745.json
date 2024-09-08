@@ -1,7 +1,7 @@
 {
     "id": 20745,
     "name": "Combat dummy",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB8ElEQVR4Xu2W20sCURDGO39BRFEUdHuoICJNUAwzjCzMhbLWa5o3pEgqooceApHoAlFIJL0EBUH0FhFE/XkTM9vZXbd8s/EhP/iQPQ87P76ZPWNbW0v/QwIMN10CUmEVAnM+mPd6TWC/mUUC0tEIFNenarwVt9fYNtrOBSUgn0jA7objh/czTvJBzkUw9qEhsvUNDZaggspsH6RXJyCnTuotmnFpIIwwKEEpBDy9BIPtkRDZWIwbBiWoPQhUiNh0APw9ygdMz2zSgBbcvTTMMp2H4zS5chD+PmOTIBAEck10UvFSIQhPZzl4PMk0IyUNyOfs0YEk1GtlqzkzhINsBsqHPPBytUlAl/sqf8usQOc7IXi73tZ9sbfKCSXo68IZmrZ1UeH7cgreb4q6JRBT234CfVR3aswOhBeiBMLin7d7NcavjbFtAlRFgaB/HnweD9091oTw7LS4wpWSsctwqK3zg74rJaG8qXAACYgujdHaWPP3g9fRDdXDGH1Zz+d5sjWdPwQS4HMN0KXoGO/Q9xmeSyBMJrvspnuJJZ2QfwTiS4NUDAcbU8LBNi5DwyzpIIRMBeHkTjMDmG19SwOlASSVYVMrBP1Bw8SMncYiLR0sji0yA6mLo7RGZGp/nIpZ9Waj3jmD6s1GvfOWWmqWvgArfs+Hhjx5pgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu2Wz0sCURDHfX9BRFEUVHTIICJLUAozNrTQFkpbf5ZpihSJiXjoEIhEJUQRkXQJCoLoFhFE/XkTM/LWXc2j4yG/8L08WObD982bWYulp/8hAQ13XQISIQ18qwp43G4D2F9mkYBkJAy5nQWTD2PzJtusfVxQAjLxOBzv2VtcTDnIpbSTCwYlqKC6MgrJ4CyktTn9ipadEoQNBiUoBZ9rhGDweiTEfjTKDYMSdD0IlA3bDAACTjO+7gGtLY5QM8t0ns+S5NtSiBtKEAgCOWcHqHg5uwGvl2l4OU91I6U6kOIY1oEk1MftITcMSlAjG4EyARe83xwQ0HVR44ZqBarmA/B5d6T7qhDkhBL0urCHlmyDVPipkoCv+5zurgN91/ImswPhQJRAWPznoWAyvjZGKAGaqsKG1wOKy0WzpzkhPLvIbfEByV2GTd3cP+jH8i5UDlQOIAER/zStjW3vGLjtQ1A7idLLeqtmyIzpCFCc4zQU7TP9+j7DcwmEyexvLtJcYgEKeKcg5p+gYtjYmBI2dmMYGt1R1dNBCJkKwsmdxgDQrDrArjppKC7oBw0Ta+w0FtXTweJ4RUYgbd1Ka0SmZv6uo2rXG+3Oe+qpJ12/AtqZDYIf4t0AAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

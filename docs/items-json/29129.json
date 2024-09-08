@@ -1,7 +1,7 @@
 {
     "id": 29129,
     "name": "Cooked wild kebbit",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Mmm, this looks tasty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADU0lEQVR4Xs3W+UtVQRTA8fd+CDGkEEVJyQ1U0siFTEUNo2iFLAxbDMM2SSqKVpEkS6QNQWyhQsEQEykjiIqiqL/sxHce5zp3HO09vYUDh7vMPObzzpw798Ziq7/FxR++/n/e4vK4v10e9h02MXzrkAxdbzOhiKnRbpkcOSUTT7o8KPdPrBieACkKkIaLGX90Ul4MnwhNzDV9boRRKSHjMnLnyAIURyAaCno2dExG73aYsRx9IMbb6B+z/fJt+tryUAriXLOjoFcPOg1Ixy4G4nffZ/rk19yg/J67b0DMUV1UZMKd3WmJtOu/VhCT+kBj944GIM59oOmx0yEQ5wpyZ3daPLQMTKTFzbULYnIQuryLgWafn4sOpFning+kmVQQWXNB71+eD0BESiCtCxfE5C5Ix/E7BWnh2qAPr3vCoLc3Vw7iPiBFkUmdvCo/J3RenLUuBPs4fiFaEAHABjG2vaZMGkvypDIvWzZmZkhLab65JkpzMmVt2hoz7vPkxQD0891AgEkZZKP4pwpiXFfDZjleV2EQtQW5BkCA45qjgr68uewFubMv0hKpph58IPp6tlfL2eYq6W7aIq1lBbKtcINZKgBAOCfWp6eZ8V+nri4XlNiDyJAPRP+lHbXS21ojV3bVSWd9pezcVGiWiKxkZ6QbyL7NJSZzXLsge1N0Z3da4pH3gQj6b+9tMAGGLLFkZIjJyYxmxA6yGhlIUfQNHmyWgQNNcmNPvQGxXB1byw2I2nEhZJTijwxkZ4m+obYW6d/fGIDIEEumNcOSUUt2pgDNPD0TgNilFZMUiCcsWRB1RJZAKIZgD9LHn9/x2rAzlGR2aPMgt450yVwQWaKogVBP5blZwT6kBc1rIzKQorhPPxgg7EFsipxz1Izsrig254wlqB92aRukKHd2T0uAfMvGPfcjS0NRPOoUOPe0oPns+DTRG4DYg1LYh8Ige9kUxAQcua+vFBeoL1Sys2IQT9nfQExmfwPpPkWtMc5+3CMDucvGfRtkfwMpRkE6FhCPvA1iD0p5H/Itmw3ifCmQXT+RgHzLZoPosz9LbBDj7PpZIYi28CnyhVs/Gi6ITdEGaaQAisV0W18qXKAddv1EAkq2uchksBrzY/9Tc5G+cH+zqtsfvb1PGSrxc9wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNUlEQVR4Xu3W+0sVQRTAce8PIYYUoigpKQoqqWRKpqKGUfSELAx7GIa9JKkoeookWSK9EMQeVCgYYiJlBFFRFPWXnfjOcpbZuavdvXeLfmjgsI+Ze+dzz5ydu1lZ/35LSHiE9f/xlpCHw91yf+igifEbB2TsapcJRcxN9svsxAmZedQXgnJ/RMZwD6QoQBouZvrBcXk2fiwwMdf0uRFERUImZOLWoSQURyAaCnoydkQmb/eYsRzDQIy30d8Wh+XL/JX0UAriXLOjoBf3eg1Ixy4H4nNfF4bkx9Ko/Fy6a0CRMHyp/moFMWkYaOrOYR/EeRhofupkAMR5iqBEYBmYSIubaxfE5CB0eZcDLT49Ex9Is8S9MJBmUkFkzQW9fX7WBxGRQFoXLojJXZCO43MK0sK1Qe9eDgRBr69nDuI+IEWRSZ28vqQwcF6evyYAez99Ll4QAcAGMba7oUpaK4qltrhA1uflSkdlibkmKgvzZHX2KjPu4+x5H/T9zUiqGFoQZKP4pQpiXF9LnRxtqjGIxtIiAyDAcc1RQZ9eXUwXRPNSTT2Egegb2LpJTrfXS3/bRumsKpUtZevMUgEAwjmxNifbjP88dzldkLcHkaEwEP0XtjXKYGeDXNrRJL3NtbJ9Q5lZIrJSkJtjIHvqKkzmuHZBETZF75EPAxH039zdYgIMWWLJyBCTkxnNiB1kNTaQougb3d8uI/va5NquZgNiuXo2VxsQteNCyCjFHxvIzhJ9Y10dMry31QeRIZZMa4Ylo5bsTAFaeHzKB7FLp4iheU9YqiDqiCyBUAzBHqSPP5/jb8POUFogt450yVwQWaKogVBP1UX5/j6kBc3fRmwgRXGffjBA2IPYFDnnqBnZWVNuzr1JvYJml7ZBEVAeKGzZuOe+ZGkoikedAueeFjSvHR9mBn0Qe1CEfSgIspdNQUzAkfv6l+IC9Q+V7GQM4in7HYjJ7Hcg3aeoNcbZj3tsIHfZuG+D7HcgxShIxwLikbdB7EGR96GwZbNBnK8EsusnFlDYstkg+uzXEhvEOLt+MgTRkp+isHDrR8MFsSnaII0IoFRbMlLDrp+/CFqpJSOT43/LrP0Cc7kEjRRrx+sAAAAASUVORK5CYII=",
     "wiki_name": "Cooked wild kebbit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooked_wild_kebbit",
     "equipment": null,

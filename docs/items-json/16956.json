@@ -1,7 +1,7 @@
 {
     "id": 16956,
     "name": "Certificate",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": true,
     "examine": "Entrance certificate to the Imperial Guard.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4XtWW/UtTcRTG9/0pAikCUcbYUseMWugaOZNcLZbKUnKy1DQZFYVkCCIVo3fJ3pCKkgpBKQgkCCKCCCKIoKD/6tRzbufuu9ud27xXrh047IVt97PnPN/zXJ/v/y1FRm+KUvR4Nk3XznZ5DSWqKFq80sNQ06Nxr6AU9XY0Uzq+k4INdbR0tY+hnl46Svn+vV5AKcodaqVsd4Rez/XTyq1jDPWi0EsLM0com4p4A4VevXuc3twZYLDlGxkGu3n+IKX2h8yRWr+5gaXo3cMsvb0/yGCiFsBmxjvozGAbncpENbBK7bgUfXk+Sp8XR+jTs2H68CjHgFAMYPDU/IUkK1Y4fYBmJxJs/MlcjM4NtbPfADzSs4uSsYB7UDA0VAEIgD4+OcGgeHy/MGSOE/4CFNSbGt7HYFARYNGWegaKNTU5hTL2kDSMDQCMEYpBPcB9WxrjseIzl/OdploAg1rBxjq3RlcKZAcH1TBSgAEUo5QRQi2MrD3cQM3+bVS/fatTqPJAdnBQDEphzNjuUGusbw+lYiGGwl5zOLrqgPSGtwCH5zA8vIRFm2wzjA0Y14HmQ1v+eU9v+AsnEUYveqdmGKvpysNUAkLDW1ikOkgVMEV6/Mi9i4dLXpfrSlDrVEVxgMZbG9lsEqBYdjiq1ougC4HyEDqMrkiVMChFA11hPgESCTgtAJub7OalZr3Y9eDaQDUqYi0j1QGlZ5Uku0AhSOWCt9cYkw5kvVINZcxZQtQu2bFtAVbJNy4BoYohKvkkigEMI8TxFSA0trDEArIKyy+X/qN2MvzXzI5K0c9XefqxMkHfl8c5l76+PGkmPBqQetI/mE7ZQiWifvdUKtcAFVhpqAePSYgKlISoC0A+n/WoFk+LAfZrdcpsjBces94Hlf6ZDSwdDI0RY5R6ssNDid1+igR2uJHq1ZWumtwDwU+AgkKZzhYOURdSfT2leHQwOfxUOi5HC9JJKR4dVoMO4RGMlKeK2NemgnGrfgOaKqpw+Z81iQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4XuWW/UuTURiGPT9FIEUgyhgudMyoha6RM8nVYqksJSdLTZNRUUiGIFIx+pbsC6koqRCUgkCCICKIIIIIEvqvnrrOONu7tTm2vfMteuDBD9zey/u+z7lXV/fvjpL0/hWj5PFcVK6d7XYayqiiZOlKr4aaGQs6BaWkr7NFosGd0txYL8tX+zXU00tHJTmw1wkoJYlDbRLv8cnr+QFZvXVMQ71I9cni7BGJR3zOQLFrd4/LmzuDGmzlRkyD3Tx/UCL7PRlL819Zw1Hy7mFc3t4f0mBGLcBmJzrlzFC7nIr5LWCltupR8uX5mHxeGpVPz0bkw6OEBkQxwMjUwoWwVix1+oDMTYZ08KcSATk33KHzBvBo7y4JB9z2QRFoVAEEoI9PTmhQvr5fHM7YSb6AQr3pkX0aDBUB87c22AfEkTdLsAHARhRDPeC+LY9rW/mby8mujFqAoVZzU71d1uUCFYJDNSwFDFCsNBaiFpZ1eBulxbVNGrZvrRaqOFAhOBRDKWzmdket8f49Egl4NBT32qYAWZdsAcf3BJ4scdGG220JdmGgBc+WP35nXfLFSSTo2eyUDZP/ouIwpYBYssVFWiZIlp43uXfxcM7PxbYUVIWqKF2gwbYmHTZToFx2HNX8h7Apd3GIXJiKRslgt1efAFMJnBbA5qd69KWW/7DrzRsDVQHDpFsdKGtXmWY3UBSpeeDtDWyyAYhJ+2xKtFCzc9sCVio3NgEx2RI1/WQUAwwLOb4GiOUWNrVAV3H5JaK/1Q577YBSsv4qKT9WJ+X7yoTupa8vT2YangXS2vQPZiIFoUJ+lx1AjPWY5i6gBtYs6pExU6IGKluiNZ002M+16cxiLxnL/xyU+8/UfLIPw2KstDY7GQrtdonPvcOOVi93VOYzEHkCCoViXa26RG1o9UpGaesIOXnKtWvTYcwobR1Xg4MQ+eOoIv/R/AK2hW+pwFdIdwAAAABJRU5ErkJggg==",
     "wiki_name": "Certificate (Death Plateau)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Certificate_(Death_Plateau)",
     "equipment": null,

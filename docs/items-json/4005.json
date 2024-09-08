@@ -1,7 +1,7 @@
 {
     "id": 4005,
     "name": "Narnode's orders",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-06",
     "duplicate": false,
     "examine": "Unreadable orders handwritten by King Narnode Shareen.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4XtWX3UtUURTF5yCXnnuSelEKnxJMH5Kg0FBDMywzRZER08wvTNPEEhFLtMQyUStLzMSyRFMzP5EoLSqK6Kn+nRVrT3fmzmkGZ7zXxjZs1Ac5P9deey/H5fp/S8HTu6IURpub0FNZEWkoUxWFZ63XMNbSjNbiokhBKVxIM1B03EDcPhemOtox2daK8estqD6TEwkohSun96A608B8bw9mu7swfbMDL9vbZHyFaSciA8VeGujHwt1ezN3uxkxXp6jVV1OFrOQj3pHqv7mDpbA2/ADLgwNYvNfnp1Z7iRuX83JRmZNtAduqbZfCx6kX2Hg+gfcT43j7ZBQr94dEMYLRU4N1tbhTdQnd5WW4UVoixm8uLEDD+TzU5p4V4LKsTKQnJTkHRe8QgCpRsXdPxwSUX9cfD4tyHCf91VlWKuq1FBWiqSBfVOQiJMYdFKDDsbF2oZQoYTbHRYWoFBXbnJwUuM+vZsRvPA+mWm3uYgGjWjHR0U6Nzh8oEBxV41gJRr/xbt2qKPeqxZGlHopCQkwU9u912YUKDhQIjmAcLe8WrzvVIlD+UUOgeNdsji40IGvTW/QVv+eJoJfcKQbOJRtemH8KxF4fHZFFoNF93gkbRjfd9mDMprc4SitICDA+em7Iw4Z678/6A+H0NlVRMtuMBI/ZzAAdqq+TueuPhNq6IiHCsJQEKDfAmlUE4wXm/dAf26rDVEQvT6pXZBh/ZRWvc39tjVxaBqn+cLA2gfSXwijPnHl5gyU784lqMQJ0AL0dAGL5QpQ3hNtBODOjOEKuL71FQF5hM0jpNYboxexTcJ/MQEFqyh8z2yqFH2ur+L60iG9vFvBlbhafpqcEkHnFm8IQtSb9yNXGgFDH4uOdUylYm6BfX88LLJvq0WM6lBmiDgC5XPqq+rbFA/brwyZ+bmxIUz2aXx+f/x+zg2UFE9VWlmWMNLIJVZyehqzEKCQdcCTVQyurahwdz8WjxgaB4n+K/LTCEHUg1bdTSkZHk9NP/uOydSDtlJIt5GmwQkQIxqyIKhK4dhWMU/UbbP8XfCAF6ywAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4XuWX30tTcRjG90UOXXcldSMUXiWIXiRBoTEXLsMyc2zIxGbmL0zTZCUyLNESy0StLFkmliWamvkjEalZVBTRVf07TzzvONvZSbG5oyt64WXbxeH72fM+3/fZbLZ/txTC/VeUQrC1BT3VVcmG0lVReNp2FaP+VrSVeZIFpXDersFzTEP6PhsmOwKYaG/D2DU/ak8XJQNK4fKpPagt0DDX24OZ7i5M3ejAi0C7jM9tP54cKPbiQD/m7/Ri9lY3prs6Ra2+uho4cw5HRmp+cgdLYWX4PpYGB7Bwty9GrUC5F5dKilFdVGgA26oTLoUPk88RejaOd+NjWHscxPK9IVGMYPTUYEM9btdcRHelD9crysX4rW4Xms6VoL74jAD7nAXIz862DoreIQBVomJvn4wKKF9XHw2Lchwn/dXpqxD1/B43WlyloiIvQlb6QeuAqITeHBcVolJUbH1iQuA+vZwWv3E96Gq1e8sEjGqlpaZaNbpYoI3gqBrHSjD6jXvrZlVlRC2OLO9QCjLTUrB/ry1RqM2BNoIjGEfLvcXtTrUIVHpEEyjutV0BMja9RV/xPVcEveTN1XA2R0sUhhU/EHs1OCIXgUaPeiduGPND24PRm97iKOMEidLzhjxoaox8Nh8QT29TFSWzdWSGzaYH6FBjg8zdfMifdpwQxlISoLwBxqwiGDcw94f5sK06ARhWONWrHNpvWcXt3F9fJ5uWQWo+eLNOEIgVnjM372bJznyiWowAM4C5LQBiRUOUO4S3g3B6RnGEvL70FgG5hfUgpdcYohcKT8J7wgFXXq4VUArfV97g2+ICvr6ex+fZGXycmhRA5hV3CkPUmPQjV5o3hDqakWEFEMt4TWNbB/3yak5g2VSPHjNDRUN0RysM9vP9On6EQtJUj+Y3jy/2y+x4GVRbXpIx0sg6VFm+Hc6sFGQfsCTV4y0lo+O6eNjcJFD8pch/KwxRC1J9O6VkdDQ5/RQ7rl2H0UvJLeRqSCKEuZKqyH9UvwCJWtymkRVSHgAAAABJRU5ErkJggg==",
     "wiki_name": "Narnode's orders",
     "wiki_url": "https://oldschool.runescape.wiki/w/Narnode's_orders",
     "equipment": null,

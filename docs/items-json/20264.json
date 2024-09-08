@@ -1,7 +1,7 @@
 {
     "id": 20264,
     "name": "Shayzien banner",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "A war torn banner bearing the Shayzien sigil.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACu0lEQVR4Xs3X30sUURQH8FlClh4lURISyYegF6WXXnroP6goKjIMC4siglAKkaJ0XfqFpJuKioIhKmJGECWGon/Zze+dvuO5pzvujHsVLxzm7tzZzmfP/eEURce/FYw/fOOH3grm48B1877/mo3yy6um1HfFBhELo91mfuSemfvU5UHpH1EzPAYRBRBDY2Y/3DWT5TtOYnzGmA4XlQtZMCOvbvyHwhUQBkHjpdtm9M1N+yyuPhCel+jNlQGzsdh7MBRB6LM6BE2/67QgPpsGwvf+LPeb7bW3ZmdtyIKQo6O11YbOrlpcdv5qgpDUB6oM3kpA6PtAi5X7Dgh9gnR21QrONCARFzfGJIhwIIDBZw3CPVxXJnrCgZjsVH29vRJzrq3t3xqI40xzs/MZcbF4wl6/TT1MQIhcIK6LaiAkAwqQsy0tprGhwcbppiYbGCfo+8wjF7T0IhwI00YQ4tJuXN6NC3VuSNCP2cdHAwKGcbJYTBAy8Oyv+acJaGv1dYLJDSKqVtDvr8+8IJ09pcULEjsmFGh94flBQfFWRoWqgYAYGy6ZSrmcgCQwDSQPRZ1dtXjLZwUBoIMYIA8FRBTGsKV1hZicIPRZMfaDgWSV0kCyMrJCn4cGk74E4ZQmJhMIOywviIn1GuLZpCuUsTpoeyC9jnwg7jIkJkjuLtwLDiJqP5CsEO7xlE4DEaWze1oM8k1bGkhWgyCM6T8dBOEMynEOuSA5bRIk/7gyIUGsSHsoEHaZD4R7GMeLFt5viJQguYjP10X2ivg596R2kJ423EdlCOLbJJMSxH8DV0zt8pcHDghnUO5zyDdtEoQ+QQie5Ah8jy/1eDYIyDdtEoQx+b8S9PlmgOf4Uh8AhBb/0mohMTI0CO/SEsTIAYoiHuv7hQbKQCW5foKAsjaNzIJl7D17RE0jfaG/c6zbXxJqvQAav8PqAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoElEQVR4Xu3XXUtUQRgH8D2ELF2K0pKgF3oRdCN4000XfYOKRMXEKFEpJIiiEElM16VUJN1eqFBQllVEVwSpKIr6ZJP/Of4Pz8zOcc/sHsWLBh7O7JmzO7995mVnM5nzXwLlDlf7qZdALU7dUW8mb+sovLil8s9u6iCitHJfbSzfU+tLww6U/SUahocgogBi2Ji1hSH1sTBodIzXaLPDRHkhA7X8srcKhSsgDILe5wfUykyffhZXFwjPS/SvnSn1o/y0PhRBqDM7BH1+fVeD+GwcCO/7uT2p/lReqb+VOQ3ywuBD+a0JQqcuUHG2PwKh7gKViw8MEOoJQYExDOiIkxttEkQ4EMDgtQ3CPVx3PoymB2JnLc3N+krMla6u4w8No72tzXiNuJa9oK97n8YiEMILxHlRC4TOgAKks6NDXWpt1XE5l9OBdoL2v4yboK3n6YEwbAQhrh/FjaPoaTJDgg7WHp4NCBjGxWw2QsjAs183JiLQ793ppBgUE0RUo6Bvm4/rBaGEExIrJi3Q99KTekHhUkaGaoGAWJ3Pq2KhEIEkMA7ksSmGSz4pCAA7iAHyVEBEoQ1L2s4QOycIdWaM9dRAMktxIJkZmaG3c7NRXYKwSyfEoIQrzBfEju05xL3JzlBdIHseuUBcZeiYILm6cC91EFEngWSGcI+7dBzIAxWCXMMWB5LZIAht9k8HQdiDPPYhEySHTYLkjys7JIgZ6U4LhFXmAuEe2nHQwvmGSAmSk/hqU+a400Adrj9qHGQPG+4jMwTxNMlOCeJn4Iqh3X43YoCwB3nvQ65hkyDUCUJwJ0fgfTzU49lUQK5hkyC0yX8lqPNkgOd4qE8BhBJ+01ohMTJsEM7SEsTwACUt1UgGMsn5c4agk0o1sjr+l8bKP8hXcnSpzEPZAAAAAElFTkSuQmCC",
     "wiki_name": "Shayzien banner",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shayzien_banner",
     "equipment": null,

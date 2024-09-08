@@ -1,7 +1,7 @@
 {
     "id": 1391,
     "name": "Battlestaff",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-18",
     "duplicate": false,
     "examine": "It's a slightly magical stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABFElEQVR4Xu2WMQvCQAyFG47Sn6G4iUNVEBdFQQoqIlIQKajg4ODgIDg4ODgIDv7oSC6Ua4urTYQ+yHYHH+/lLvG8SpUq/Z0AuVQIMAoN7ka+BijAsGZw1jF4jBioXa9LQgF2GwYPEx/Pc1GgtGcAxy2TgxEAAlz2DF5XgQWhqG5xIOUO4KDJ/fLeB/jauhIDSobOkWwJxMVRXRZ5R7JVvPFjgY3qvs7DFE+VJHaHohLsl6zAvqrHRok79PFRVArccVE9E3F33AeoICrAuO9bGAWvCuz0Pk1VPHEeDdTE5I44DO02NBqEp3cqbmKKKutO8VRJ4r2GRgPNKmF3OCraidW4Q0s6NbICd1KJ7jXflYKogJHWB8+a4TfKxpIMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA8klEQVR4Xu2WsQoCMRBEXcJxnyHYicWhIDaKghyoiMiByIEKFhYWFoKFhYWFYOFHr0xCuPsCM0IGtn/MbDLbaERFRf2dRN1QSDTPjO7HCQOUaNY0Ou8aPeUkQL2W0eM00csiKJDfGdFJx4SHWfWN3tapBUFU9yINBSQ6bLt9+RxSfe+qCQZUjuqO1OfnclFdl0EdqUtsVI8NCQzcQVQ07uBVPbckMPj4EBWBO1VUr5IEhiQq0WKQWBiCVyW2vc8ziifuqgFLDHeCw+C2QTUEbm8vt8SIisId3DWoBnRVcBhEhZuYxh0c6VhkAne8AOEnik9fFKimcLfyscQAAAAASUVORK5CYII=",
     "wiki_name": "Battlestaff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Battlestaff",
     "equipment": {

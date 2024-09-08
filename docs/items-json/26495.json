@@ -1,7 +1,7 @@
 {
     "id": 26495,
     "name": "Book of war (or)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": true,
     "examine": "The short book of the wisdom of Bandos, plucked from the shattered abyss.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xu2W7WuSURjGPcQIRRRRlClzU3GijtWipNGaCK0X6sPAKBZbkdGwtRgsJAaDoqiIoohRMOgFgtG3/sW7Xbe76zzH53HHZbYP3XAx5/ac83uu6z4vPl9PpaitQ1GKrt1IUDwxdBigFC3cTNCJSpDSmaMMdHxs7F9BKbp1N0mX52MMk8v79xzSNdBSdKeZpGNTQYZJDocpm445NEBARffWUnTxSpQKpQAlYkEGKBd3AcspT3UC9gVU0er6CKs8GWClUxEq5nd7aXKEZio5mp3OWwux/yGgovWNNM1dinJcgMln4+zA6ZMZBnKTCSLCi9Wvx3k8LI7fvWhVilqbo7R8P8UPS68gqlNTox0QtkIvzl+N0WwtzONiHsvVqmjjSYZqcxGqTIfYGT0qXegx8zsvwdlq9Tz3pMBYACl6/CLLmZ85G/4F4xUVNkv5vNZKd/zdBIIA9PxNziYyxf/49FWWbQUIZBsVgLygAIIx0ItwHqvWIjJFL9/lafH2MD8ky9uM6v12gaX/3g0GAgz6EGPhZS0iU/T2wzhtPsu0V9benoIB9Kj0SQVMYLyAACPj4bNlQyseHD0hIJAelduEulN4Vu8pHQabKsZDT1q58/FLkVcWziwBcesbrCp9Yh3IlMAAQmDkqOkK83mnxEDYuDCIrAa3VWVKogKoLh0G7khDW7kDIOzKthD7CZNjQQAmGgn0AuPz7fyY4EbGqtIHNbd+XSaAFwxuBvX6IseEz/tE1S5sgnAH2zoGkv6RyWsz454yQU2YUMjPjiMyK3dQAELm2Hv4dF99xBIwifFctegpwMEdPIONFPEgqoWFBv+0dgcFIFxPpTFXVlqukhjx80Kt5BCgBAgLA0cDNj98ByBrd1BybuF055vh3h4Ed0woqNl82BEddnccN+hFjAGopaVljqwnmHY5L036cSGR4U3dwBqNBzzx9rcivd7KMxBih+MB/5DDHXPWriVv0H7QCajv1tLkiAhAIokbTgMGDuGGeQB33KsboAmGHhIwcQyXsGDwyMHcsalugF+/l2nrU4H7CJHBLbjUN3dsSodDVLjqIi5sHTjjENlfc2f/cjomGpg7bqVH6oz3f/W/fgIFKf5XrnBy+AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xu2X/UuTURTH9xASjqGIw6HDySZTtoVhlCSZMsheqB8EozC0aJGYGYIhIQhFURFFEVIg9AKB9Fv/4snPmbfd3T1P3pGpUAe+7HH6nOfznO+5515jsaYikKoORQRy7UZKulIthwEqkJmbKTkxkpBM9uhBAwVy626PXJ5KKkx/vnUHyNa+RiB3Fnrk+HBCYXq62yWXSdZpHwEDubeclotXOmWwGJdUMqEApcI2YCkdqUbAPQENZGmlV1Uaiqsy6Q4p5Ld7aahXxkb6ZXw07y1s/0PAQFbWMjJ5qVPtAiaf69IKnD6ZVaAwuSBGvNj09S7Nx+Ko9aJXBLK63ifz99N6s+kVrDo13NcA4St6cepqUsbL7Zq3KaC1J1kpT3bIyGibVsa2yhY95n4XJSo7MXFee7IpmMcvcur5mbPtv2CirGJYmuvl1UzD710gBNDzN/0+UIH+4dNXOS0rIMjXKoCioAAhB71I5Vm1XkAv3+Vl9na33mSWt2vV+81Blf3z72AQMPQhuXhZL5i3HwZk/Vm2urJ2ZgoJbKvshxowAxMFBIzJx7VnQweanJ4wIMi2KuyBdqW41+4pG4ahSj560gvm45eCriz2LAMS1jesKvvBNpArAwOEgaltNZERyOetogIxuEhiVkPYqnJlrALUlg1DdUxD7wJDVIGYyr4Qu4mHsyCA6eyINwMTi239OKaNzKqyk7qj35YLEAXDyWB6elZt4toLiCFIdRjrJDL9Yx5eHhuIlAvqwrS1tWrFscwLhgAIz5k9ursvPVIZMGPjuYlCpICjOtzDIMUerJqZqeind3UIgDiemsZcXFwNlbGRzwvlYp2AMkAsDLYGhh/fAeQNQ5h9i91dT4Y7M4jquFBoYeFhg3VMd7YbepEcQM3NzatlTcFUgxtqsrcLYxlvGgZWqTzQB29+K8jrjbwCYTsVj7e2NF+d8KgHtKe1aXIsAsjI2E2lgaFCnDD3ACYs6gFdMHrIgJmKcQhLJI78LSA36gG/fi/JxqdB7SMso1pUaZ9g3Kj+V8JRF7sYHexxWHZAQER9xWr6H/9I/ASz3rgY2FIu7wAAAABJRU5ErkJggg==",
     "wiki_name": "Book of war (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_of_war_(or)",
     "equipment": null,

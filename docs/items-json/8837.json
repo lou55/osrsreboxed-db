@@ -1,7 +1,7 @@
 {
     "id": 8837,
     "name": "Timber beam",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A hefty beam of timber, perfect for building temples.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xu3TXUsCQRSHcecqEklCSUowLUxSEZMSRbY2NjPJCyHpxUKiiCKIIIigLz9xZjjj2XFdwX2xC//w4JXsz7MYiSy3HIzxcQsf483KFq+XNkULhkkMhqjaforAQsMxblTTjiBEYSGgJAabhqrkoryYiQpQNZsNCsW4eZgROYEwwIQAGmMoSO8gH1OYfHo1KBDjVn1bRFE6EDAhgBg/b+QUyKl6ISbSMbnUip8g+bcFjFvN4lrQIAnpGbu829pxDTABgxjvm3kRgNwyynEbSMfgDwPMHCD55StrT4UwGkBOq3GBQZDTdShkLsx1u2CLwigOME4gxPhylbtO0ZYTahqGgjxf5b5bUs0CtWvrjiDAeLwKjPHRZVk0CwQQitFBHq+CY/xzZPGPB9MV1D1KTIAQA3m8Cp0EIep9eDIBohj9Qj68In0S9PV4ZkO93R7zp0FLYGgU5tMr0scEAkDfz+0JVK+RUFGYz1ehkyCAAAjCawGq30qqEBYgBsbEg/G1/bx0bKiBkRQhKmAMTILoa/t9vVCoG3NDoULA4OQ/BUFwJUDB59BKCVSIGDn5IAlDEASg0DF0FIYtDEOHiH+BWdT+AKFppQ1md0bwAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvElEQVR4Xu3U70vCQBzHce9RJJKEkpRgWJikIiYliqwWy0zygZD0w0KiiCKIIIigf/4b3zu+5+2cM9huPvEDb3w09vLGFosttxyOwaSFj0GrugWN8iZvwTCBoQhV388osMhwDKxa1hNEKCoClMBQs1DVfBxKubhpEAP7MMfzAlGIiQA0waggvYNCQmIK2VVTIAZOY5unonQgYiIAMThv5iXIq0YxwdMx+cxKmCDx2iLGr1ZpzTRIQPrWLvTaO74hxjCIwcAu8BDkl1VJukA6hv6Yfod/Tlx85ezJCKaGkNNakmMI5HU6ASA4BtedoisVpuIQ4wUiTCinctctufJCzcKooAAQHIP7Xlk2D9Spr3uCEBPwVHAMxpcV3jwQQlSMDgoIoTH4HDvw8WD7gnpHqSkQYbCQMDgBItT76GQKpGL0EwrhEekToK/HMxfq7fYYnoZtjlFTYSFDaIwjEPT93JlC9ZspmQozhMEJEEIQhNFpIWrQTssIZhCDY/zG9Nh+Xrou1NBK8whlGIMTIPWx/b5eSNSNvSFREWBo4k0hEJ4SovB35GQ4KkKMOgEjEIagBWHU0bcl9G/McoH2BzaZXs6K5bNzAAAAAElFTkSuQmCC",
     "wiki_name": "Timber beam",
     "wiki_url": "https://oldschool.runescape.wiki/w/Timber_beam",
     "equipment": null,

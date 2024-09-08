@@ -1,7 +1,7 @@
 {
     "id": 7930,
     "name": "Easter egg",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-04-10",
     "duplicate": false,
     "examine": "Best before 1st May 2014.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xu2VTUgUYRjHHWIYdllmGGaYZWbZXT9YZXdlle4dPHgQQgqKMjKSEAspURQUDBaSpA+KvqCoJCQpCAJvQbcOnYKgQ9AtPARB0CEQ9vT0PO87H+/Ouivj7urFF36g4/vxm+f5v2NHx+Fo25Ag4MCHBM7lFKTnMpCayRy0VCCTXe5i0M8HIMXb40wGMl03eqD7JiezkN1PKQnMU1aNTM/dXp/c/V72fB+kuIw94bC8iDK5R33Q+yTv0/csD13l7nZKocyJ+jJ9LwqM/FoxYL3I5rRBisskL9iQmk7vKEOHFzb6GcU3pYB3Jei+lWullATGiAHWmSS7URRYagUdQlmh1lA16skQ1ELaZ7Czs1kpCbQhvSY3dJOoOiwrQnXCIh70txZVCatz3ITkOTuojtgqtzokVE+mhVWSQB92W+VecbFVfnXcdoky/e8HGKIQSQdV2lOleJCV2Dwo8TsQS7yCuPYB+QQJ/QvyHVTjJ/IbVPMfONmKTzYXkCtwCqUKztvG+Vu49ltUKR5kJbaIIg+R10wmoX3Gzb4iP3DjX3jAHyajmfVFREynwl6A9onYvtoPIJXb+wp7H76q/GBbSpuDfrvqQWu9r3g0IeG7k1niN8vLjxfoqhsmZCeMmCVaS/u1TEj8N7GbUPimNSUkK2OYoVkM9Cpm6CXE1U3M0cdQjrbcHG3vGGox0MTAUQr2Xz/UkYTiIwlQz2qgXdJBnzPBLFtgriTBum2Ddc+G5GMHkk8dsNdS4KynwXmLbOwOrTUWzOhCsaE4JEZR6rwG+rTBNtlVKgQ9F6H5xnXLl4kgRAOrNIxSp1VQL6LUNZRaaixlP28MraNqR6yON7BKx9wqUeumdFYlekOSslZrpWqg5y40l16IXmyPQjTc1p0UqtRI6oFdF1ojVmePQjSEgE/xgItSYvuqoGcuNI/WUBabqI44JDgyKoM8roB8JQbKLDKPLCLLSDkOykoDcJ58FZlQWiVEw/svzWGCYwo7RJ7koj70+zg/PEyT7aoe3mZ8w9rDwojzq9e2aYQP2onwmsPRyvEfr12Y8D1Mry4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu2VTWjTYBjHFySElpIQElKS0pZ2tKXt6IZ3DzvsMJChoOjEiUPGlKGyscEGEwoOhx8ofoGiDhkOBUHYTfDmwZMgeBC8yQ6CIHgQBj09Ps+bpHmbftEuXQ/uhR9s2fvxy/P832xg4GD0bAjg0fchgHUxBvGFBMSuJvot5ckkV1MM+rkPUnZ7rBlPJnV9ENI3bBJLyf2UEkA/YdTJDN7JVsncy7Ln+yBly5jTFssLL5N5mIPs43yV3NM8pMrpXkqhzLHmMrnnBUZ+o+ixWWRzeiBly0TPmRCbizeUocMLW0OM4uuSx9sSpG9mgpQSQBvXwDgVZTeKAkutoEMoK9QaqkYzGYJaGJCQAMqoWpcbuklUHZYVrjp+ERf6W0BVwuoc1SF6xvSqw7fKqQ4JNZMJsEoCqGNOq5wrzreqWh2nXbzM0LthBi9E0l6VuhKzgyyFFkEK34ZQ5CWElffIR4ion5FvIGs/kF8g63/BSlaqJDMemYJNoVTBebs4fwfXfu1Uyg6yFFpGkQfIKyYTUT7hZl+Q77jxTzzgN5NR9OYiPLpVYS9A+3QsVBdkLLf7FXY/fDX5wbaUtkeq7WoGre3iK1773Ums2DfLzY8b6JobxmXHD58lWkv7BSbE/5toJ+S/aXsSEqVJzNA8BnodM/QCwvI25uiDL0c7To52G4aaDzQxfJiC/ae7UIfHIyCfVkC5oIK6oINeNkBfi4JxywTjrgnRRxZEn1hgbsTA2oyD9QbZag+t1Zb0zoVCo2GITKDUWQXUOY1t0lbKBz3nofnaNaNTGXdglcZQ6qQM8nmUuoJSK62lzGetoXVU7a6FQkecKlHrZlVWJXpDkjLW66XqoOcONJdeiF6sSyEaTuuOc1VqJXXfbAqt2UN1+MEFfNYOOC/Ft68GeuZA82gNZTEAIRoCHJoQQZySQLwUAmkeWUSWkVWkHAZprQU4T7yMTEtBCdGgjTyY4KTEDhFnbNEq9PuUe7ifng3/QY04GP/Z+AcZ92VUG5N18gAAAABJRU5ErkJggg==",
     "wiki_name": "Easter egg (2014 Easter event) (Green)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Easter_egg_(2014_Easter_event)#Green",
     "equipment": null,

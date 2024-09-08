@@ -1,7 +1,7 @@
 {
     "id": 6284,
     "name": "Thatch spar med",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "A wooden pole for use in primitive construction.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xs3X3UsUURjH8d2rbqSIoqgru/IiiIQovBCKKAqjjCTDwrAoKCKIohApehHpDUHshQIFQ0ykhCAqiqL+shPfM/xmn3k6u+26U3jgYc7OnJnz8XnOnMFKZfW3akhH6vo/b9XwZOxEeDR6PMbErf4wfuNYDCHmp0bC3OTZMPt0OIHyf0Tb8AwkFCCFx8w8PhNeTgwVJuY313wUUS0hq2Hy9sAfKI5AFAI9Hz8Vpu6ejGM5pkCMt+jvS2Ph68L1laEEoq/sCPT64ekI0th6IO77tjgafi7fC7+WH0QQc+zs7IzhZ3ctS7v+aoGYNAWavj+Yg+inQAvT5wog+gL52V2rFsrARFrc/PYgJgeh8noQz+O49OJCeSBliXMpkDIpEFkTprurIx7fv7qYg4iWQFoXHsTkHmQXtAUJ07Njbdi2dU38XQC9vdk+iPOAhFIm7RsJiGfs3t4RervXxT7xYeZSuSACgAX5BU1wP1nZtyvDkEXGfpq7koN+vLuTY1oGWZReXw+yGLJyYM/6HCPQ5zdXkyA/e52WpZnJGoHsgmY8WTncs6GAEejL/LWVgrI9iAz9DaQscg9ZOdKbYSitBTHeguym6Gd3LXtYCkSkQJznvv69G+ORcxbEuFJBQhFMwI7LBPRVWmHAcZ8vV2kgmyWOFsRYSmQx9UCLz87nIHZpYZoC8eakQPocAFJWBvZnGNZXPRB4Phs2Q01mh1YD+XVkPwdALKYeSOXis1EaSCh9DgYPboqhMlmQzaQFsUtbkFB+9kTLQKmycW3o0OYY9LneDIgSf5y9nIPYg1rYh4ogoTg/3FfD6JX35fIgstM2iLfMgjg3cnRLBNFnAiaznwwL0lpTuUoD2bJl9c4yI5A+GbZcAvEMgXjlLYg9qOV9KFU2TQKIfiOQXT+lgHzZPIhrqQVN6LOhcrUJotX+VWkUfv0oPIhN0YIULYAqFW3rjcIDbdj1Uwqo2eaRzWAVtbH/qXlkKvw9q7r9BpuSpj7b46GTAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4Xu3V3UsVQRjHcc9VN1JEUdRdV10IgRCFF0IRRVGYkWRYGBYFRQRRFCJJLyK9IYi9UKBgiImUEERFUdRfNvGd6bc9O2fOcfecLbpo4GH37M7ufM7zzM50dPz7rebSkbr/x1vNPRo77h6MHvMxebPfTVw/6kOIhekRNz91xs09Hk6g4j/RNjyAhAKkiDGzD0+755NDuYH5zb048qhSyJqbujVQh+IIRCHQ04mTbvr2Cd+XYwpEf4v+ujzmPi9eaw0lEOfKjkAv75/yIPVtBOK5L0uj7vvKHfdj5Z4HlcLwUv1rgRg0BZq5O5iBOE+BFmfO5kCcFwTVcmVgIE1ufscgBgeh8sYg3sdx+dn56kDKEtdSIGVSILImTPf2Tn98++JCBiJKgTQvYhCDxyA7oS1ImJ4da922rWv87xzo9Y32QVwHJJQyab9IQLxjV1en6+1e92vQmns3e7FaEAHAguIJTfA8Wdm7M2DIIn0/zF/OQN/ejBfF0PIgi9LnG4Mshqzs370+wwj08dWVVkG0kGYGawayE5r+ZOVQz4YcRqBPC1dbBYU1iAytBlIWeYasHOkNGEprQfS3oBKLYnhZCkSkQFznuf49G/2RaxZEv0pBQhEMwIrLAJyrtMKA47m4XJWBbJY4WhB9KZHFNAItPTmXgVilC2Jo4QtLgbQdAFJWBvYFDPOrEQg824bNUEugeB7Z7QCIxTQCqVxsG5WBhNJ2MHhgkw+VyYJsJi2IVdqCSqACKFU27g0d3OyDc+4XAVHi93OXMhBrUIl1KA8SiuvDh39j9MnH5YpBZKdtEF+ZBXFtpG+LB3HOAAxmtwwL0lxTuSoD2bKFh0NmBNKWYcslEO8QiE/egliDSq9DqbJpEECcNwPZ+VMJKC5bDOJeakIT2jZUrjZBtFCe1SKeP4oYxKJoQYoSoKKtHqmw8+cvgpq1emR9/G/ttZ9RjluySPBkiwAAAABJRU5ErkJggg==",
     "wiki_name": "Thatch spar med",
     "wiki_url": "https://oldschool.runescape.wiki/w/Thatch_spar_med",
     "equipment": null,

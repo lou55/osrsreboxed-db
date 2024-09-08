@@ -1,7 +1,7 @@
 {
     "id": 21549,
     "name": "Medium enriched bone",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": false,
     "examine": "This once fossilised bone is now bone again.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2UlEQVR4Xu2UbUsCQRSFnT8R9KFQRCUVVxdRwbckU5EFDV/Iwt4oCiH8ENHv6BffOjPdbVwXg3BWP+yBi7s7I/fZc+5sJBIqVKhQgrxPdihB+ecL2hMoQalpm7I3fbJfpz9QXIFL0PGpTbFOmZKjFqVnHcrdO9KtHcKphgwWd2rSscx1T8JZjwMfOMOQ+WjUbXJYSrtwiWHDhYNrAARcYTEOZuZ0sAMr4cJxlIgVv5g33qf+Y1g6GAogcAmOxSpZSjQKlO5WKOfUg4mQBTAdLtkqUuEb7mw5o+G4Tpl+laxhUz6bfr4FD8dQAIE7paseNV5G8jnAipcdqtw5VHvi+TIKJyRI9WFA3Y9b2Qj3cAfXHKMOBli4aQhKAaARruM1y3WLofR7uAd43m9g+FeBjuzUGhScOWmXZJz2pC0LUM3FxIRLQkbCQCj9xCEqALAzWNedMuYSFw85XIIrenRc7BqgDACpk4S3PX+faxHop0nFCqfYSQAx6NaBEA3elk/ObwMFgsKeVQBB5bn6sm8ZCBLy7fnbowNhkFGIb90RdW0ECE39j7Jaw6lDtN51AzAsNRfehrgHCDu1vm5MqrF/Q7WGWfJfN6ZNM6GGP2Cgv2ZiE/COtFcw/9EXB++i2pLlyVgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4Xu2UbUsCQRSFnT8R9KFAxCQVNxdRwbckW0UWNHwhC3ujKIToQ0S/o19868x11ll38ZOzSuyBwd2ZwfvMOXc2kYgVK1YsQeszO5Sgs9cr2hMoQZlph/J3fbLfp0soNSKXoONzm5JOhU5GbcrOHCo8utKtHcJxQQWWcuvSsdxtT8JZz4MQuEgguchhOevBpYdNDw6uARBwxcU4yp5jsAMr7cGpKBErftFvEbmkaxUNQOASHEtW85RuFinbrVLBbUQZoa4lWLtExT+4i48ZDccNyvVrZA1bcm7687kLOIYCCNwp3/So+TaSAAArXTtUfXCp/qL6yyickCC1pwF1v+9lIbzDHTyrGHUwwMJNQ1AMgEJ4TtUtzy0Fpb/DPcCr/ev/tgX5gY7sTAAKzpx2yjJOe9KRA1CtxcQElJCRrE4sfDcOUQFAOYN13SkDQNB6o3J0cEWPTg3lGqAMAPFNwmkvv+Y+KH0ADE4pJwG0At2qODKcNnhzGAQDe/wAgipz9WXfuoQ8vfr26PNoZAzEF3TECAzEhcOvMq/h1iHa4LoxcV8EC3KPKaeC68bEhcML8hp6KXzdmDYV4+bfvCdy7RXMP9Evm1Rzi2LxlU8AAAAASUVORK5CYII=",
     "wiki_name": "Medium enriched bone",
     "wiki_url": "https://oldschool.runescape.wiki/w/Medium_enriched_bone",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 19320,
     "name": "Attack potion(3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "3 doses of Attack potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xt2X/0tTURjGPT8FopZpik2XUhpm0Cyn+a0sN5varGWZLi1tthbLTZtzboFUFAkhFGIIoiDSEISpSUXRN0JKCfJPerrnXO/x3qsIwd0d9MLz2/R8eJ7nfdmSkv6PIVAqoUNwp+MwrjUbYa3Jwcnj6YmGIoiO12DuZTXTQG8xbjgKEglFOMz0i9Pw9RxFe8shBmTKz9cbSuyMBDQ1WgHvzSIWXwL6RGBvaYXDcZ27M/HUDE9nIa7Y8lBeXo2q6nN6QhE4nbe26aK9FdYGO87WNcBkMusZnbBdbg+T232Pq6nZgXpLE8zmKhQWFesL1D8Q4PL5+uH1+mBrvITKqjocKzkBg0Hskk5AdAjeROexvPwWi4tLiMWWWFylpeW81BRGVyCX6y5CoWFEIg+ZaFxlZZWJgKFD0NfnRzgc3lQEFmszKipq9Y5KGoLQcFihC7YW3iEdV54OwW2XG4FAEIODQQSDQyw6epvO1zcqYlP/ZZyGwOPxwu8f4JvW1dWD9o4uBlV7pl5/INP6BlfBrz8wfvuJvHefkRtbQdbYONLv9+sVG0H+j3UF0BEJ6MNXBpT9agLp/oAeLhHkrXxUwEhAFJIDjU8iIziMfcL1jrNLgjurv7cBFa+JQMZP35G7+B7Zr6eQGRnB/kAoni4R9qAahgMJoBJQzuQMMkces9jSul3xcInAsLDMyquGoSpZ21ACTc3iwJPnitg0dkl0p0x4fCdRILZpX1ZZxw7OzCFrdIzFRrdtb69HS5cIKyp9UA0iibqkAJqNstVXxJacohXU7u7sCDQ3z1ZfHltqm1Or6Miu7kjit0g4joboAts0eWxpnd1IsV/WziU1gFoKoPkYKzaL7dEz5lBynYU7pIlLtLhU8u2SA0m3iB9HeouEDtH+7Dm19f1aAxhpxG+B1An6uBxQDUQvNY0q9WrbZkSaw4gj/kPpNxfhYPJbRMuc8WBoG4jmMPLZemALTi1dQHYa+cNqqT/7r/MXKfszUH7xqOwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xt3W/UtTYRQHcJ+fAlHLNMWmlpSGGTRrm7lprXxparOWZbq0tOlaLPfSnHMLpKJICKEYhiAJIo2BMF1SUfRGSClB/knf7vPovd27iT/d3Qse+P66++Gc8xyWlbU7ikAaVYtguPcIrneUo6WhBKdO5KuNIohFG7Dw0sTiH6rGTVuFmigiYN68OAPP4DH0dB5SC7S5MzxodrIO7ltVbHwq7BOBtbMLNtsNoTvTT/Vw9VXiqqUMBoMJRtN5JVEEdvvttFyydqGl1Ypz5lZotXplQcNOF4vTeU9Ie4cNTc3t0OuNqKyqVhbk8weEeDw+uN0eWNouo95oxvGak9Bo+F1SrAjexuJIJt9haWkZicQyG1dtrUGNpaZF4HDcRSg0jkjkIQsdl05XrwaGFsHIiBfhcHgrETS3dKCurlE9UGg8LMlFS6ewQwqjCO44nAgEghgdDSIYHGOjo7fpQlObGmMjcLnc8Hr9wkvr7x9ET28/QzWebVIepF3fEFLx+y/Kv/9C2fsvKE2soGgqivz7PqVQBId/rktAR3nQx28MVPxqGvnegBIggrKVTxIMD6JIARSdQUFwHPu4651hFNed1T9poOq1TVD55x8oXfqA4tezKIxMYH8glEkQYR9MxQggDsqDSmbmUDjxmI0tb8CRCRSBZjHJljcVQ1OztiEFzc7jwJPnmRzbZnd03Me3CwWxl/Z1le3YwbkFFE1OsbHR17Z3yCUnirBFpR9MhfChXZKA5mPs6UvGlp0jF2rn7mwLWoizpy8eW263XT7QTt3hI9wi7jhqYovspYnHltc3gBzrFflQqYDUSEDxBFtsNrZHz1iHss3NcmFoEba4NOLXJQbxt0g4jvQWcTtE92fP6Yz8v6Y/SFgn6MfFwFQQvdR0VLnXurcgsmPExX+ACDDxLaLLXPBgTAnIdvUfl55dWP8AS9P+NsEUGUYAAAAASUVORK5CYII=",
     "wiki_name": "Attack potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Attack_potion#3_dose",
     "equipment": null,

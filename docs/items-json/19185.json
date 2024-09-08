@@ -1,7 +1,7 @@
 {
     "id": 19185,
     "name": "Admiral pie",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "Much tastier than a normal fish pie.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu2WXUiTURzGPUSEMiYxSVKcTjFRoano3PAz1PkxmcrmmpvNpY38IBaCfUAfhiJFUXRRIHUhVBIEEYFXXUQQdSVUF0IX3dRtd125myf/5+W8bsdXe9/ZRdAeeOB9L3bO7zz/57wsKyujjP5fMeztvy6tDbbf/R15mh5sz0N/i0Xjt/sSw+txP+56OzDb5kDAXpECcdJ9ZIdDPfnc9JwMlgqXthjWly7h3XQIq2EvHvrcuOlpV2Fo44gnH2PeUu7xoW3HfGWqBeDO1Lb30QnK8O3lKj7duYGPF87iS60JLypzVJiwx6ZaQMlgwgQupyZAVoIeflhDUJveKnx3mHGm0Y7lsuwUmN3AZDiCooMQFAHVVpjwfHSAp0771JSUcMsEkhh+vFlDYqwdv1wK0NNj2bhtO4RgbzG3ESiyGN+rqA/XupqMwJAYP1UiHsCmu5gDrVXn4MFWSvNWfVAyEK33ZKQf51saeEoCSN5ZQwyTvgK1lImgEz+dZnywm7CylZKAMQq17O/mB6OUXMfNsJgP6OkPw5WJYsRHCnHae1Qt5GZbHjbqlHIPu62GoNYX5vB2aoSnQ5+T9zOjaKnNRZUtR09KDLfOleJy1MpTokISEEHI1gP19dljbDy6j8/3FvmnhNbqdVl4QgSUbzmoL6WlaQVqNlyEmUDhrmAylAyWPDqRdlfjYTiqTSgvyjZSbCWphUkbH+FcxMrHSKnJYDKQsLjuAkRc+xP1uSml1gEjlApFaREUJUZgsaEC3jMt7wZD6dC4DN4yIYbF+AAf33zMxkdISWmBJVsLiG4WwVCZlc4YTkeI4fqMR4WipES3kqGEBZAMQ0WWQdKAITFcjHXj6lQft4CSkxJgWum0NpTDWWPbTyqyGOYmujgYmZ5no52IRzowHWrDZLAV4/4mRIecCPU7MNxTh8FOO/paq9HpquRAzXVl6XRmLylxE4gMEws0c5hTA40I9tXvAJJHJa+ctpTFxH8Y/d5nZ/6s5A30Wl4jo4wy+lf0GxNwS0uK1faHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xu3UXUhTYRgHcA8R4RiTmCQpTuYwUaGl6D7wa6HOj8lUNtc2ba7ZaG7EYrA+oA9DkaIouiiQuhAqCYKIwCsvIoi6EqoLoYtu6ra7rvTmn8873rPt7CzO0d21PzywXeyc3/m/z1lFRTnl/L8R8O8peeRukP3uHaiWnUlHNcZ79TK/PVAEvIt48cA9gFS/BT5zcx7ijPNYwQRHatjQ51xYPm7fEbC1chUf4kGsz7jxxOPEHZdDxNCNQ64azLkb2USmshP1mMThwMLWsvdRCBXw4806vty/jc+XL+BbuxavWzQiZsZlFIejpDA+BJe2xiFrfhd7WFWoHXcrflp0OG81Y9VUmYcpBpPiCEUPQigCtTdr8Wp2grWuEEMR8GtzA7tzDvyxZ0AvTlTinvEI/KMNbNSgaPjxvQ17cHOoWw2GIrCn2k36sONsYKCNNg0e77W0aFCGkoLoes8D47jU28VaUgESEPPUiku567fht02HT2Yt1vZa4hi1qFXvMHswasl+Uge97pASlIDr8w1IBupwzn1cXMid/mpsd2SWe9ppUIXaWkrj/UKAtUN/Jx8Ts+htr0KrUaMMdPdiI66FDawlWkgCEUI6SlDfXz7D9tNH+Ppwmf2V0LVG7XrWEIFq9IeVoVbiGVRqph4JX11RmBQlheUeHW97yHoUljYtmuorlWB4Mk0txYzsCNMhAztGak0Kk4L48NedQ/hrf7qzSu1S8+SjqC1CUWMEi07Vsj2Tm2IYaoeOa9+g5eQEO77FqJEdITUlB8sdORC9WYShZc5AVGN4BNxKuEQUNcV3KxfFh4OkGFrkA0J4BFyJDuPGwhgbjpI2xWFy7fR1NcF2ylgKDI+A9PwQg9HQ51R4EMnQAOLBfsT8fYh4uxGesiE4bsH0SAcmB80Y62vDoL2FgXo6TKUEUTJ1E0SKifp6GObshBX+sc4CUImOqlj4xdVMOeWUU47i/AVDoRTR5HY3dgAAAABJRU5ErkJggg==",
     "wiki_name": "Admiral pie (Full)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Admiral_pie#Full",
     "equipment": null,

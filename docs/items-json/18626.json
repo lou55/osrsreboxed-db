@@ -1,7 +1,7 @@
 {
     "id": 18626,
     "name": "Defensive shield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-13",
     "duplicate": true,
     "examine": "Large, round, heavy shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu2W50sDQRDFvU/iF0UURcWOEQtqxEqs2Av2GHuviIj4/zPydn13e+tGL6enX/JgMOBm5pc3s6WkpKii/kWefB9/Il1sc2lJ1hcWZHl2RuYmJ2VqbEzGh4ZkeKBf+nt6pLerK2koDbK7tibbKysKCHFzfCxn+1kFNDEyIqPptA/VnUolAaVBshsbIZinywu5Oz2Vi1xOTvZ25WhnWw62tvx1n6F+BcwLFQHM8/WVgkHQHRcQ1ppQHa2tP4UKw7zc3igYAn3ljtnSwb4+NU8EGmhpiQOlYZD89f5OwdhAcOc7IAw9Xepsb5e2pqY4LnmqCGFcQI/n55GBVufnlEtsW2N9fSFQniqC5G8PD7GAbBgG2gaXmhsapK62NiqUdgeJXUCEcgHlcweBs8oEqqmujjJPnlwdHvrJTSB8ZriAzHa5YBanp/05KggIWzjfr7UD8F+tN2FsoKrKyuhA3F1IgithJpNRf5EchegCzyCut2FMIHwfASAMdUQgSG93JEcCXAMV5eUqAQYR25YAKIiWwSEbyOWQq10RgCB9cQKorLT0YzcEwaHHGhSygeyWcaC55ZkzIgwVAPCX6ASe7xKK8oggkKttru1egDuBwiBUcGiiGGfINdQI84QGTEx38kk7xhlDK+wtb7aNlypggtM5pjufpZ1hezg/9inN/7muCrfjsRRctGyHuZ1xLJivRfN2x9z8oium9EvRBWQ/XekMb/YEYKjwOxpAcIfPVjrDWUkYhgqfSa4wZyVhGC27oCvs7xRV1F/rHVdcWPyky+oNAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACM0lEQVR4Xu2W20tCQRDGO0/SSxFJkZFhktGFbtiNMg27F3axMrtnZUZERP8/E99u49mzrnXOUevlDAxJrTO/vpnZ2ba2wAL7F7Pod/8Tk8kOtrZof2ODttcylE2laHVxkZaSSZqbnqKp8XGaGB1tNZQEye/t0dHOjgCCP15e0s3ZqQBamZ+nhZmZKtRYItEKKAlymss5YF7v76h8fU13hQJdneTp4viIzg8Pq+dqoZoCZjmSAObtoSRg4KyOCQhnVajhWKxRKCfM+9OjgGGgn9RRSzo7OSn6qUEgCYPgH89lAaMDQZ3fgND0rNJIPE5D0agfKEskYRgT0MvtrWug3fWsUInLNhCJeIGyRBIE/6xUfAHpMOwoG1Qa7O+nvt5et1BSHQQ2ATGUCaieOnDcVSpQTzjsBsiiUrFYDa4C4TO7CUgtlwlmM52u9pEnIIxwvf9Wd8D/dF6F0YG6u7rcA/F0IQhWQmZ5WfxEcCRiFfgO4vM6jAqE78MBhKZ2CQST447gCIA10NnRIQKgETG2DICEKBkU0oFMCnksl2pycQKoPRT6/rLt3PQ4g0Q6kF4ybmgeeTumJ1MhnL9nlZCUrwgGMpXN57i7NfvSRDLuIVNTw9UbGjA+1alnUjHuMZRCH3m1bLxUAWPfzk2E4eQ8Zegf/ZbmvzWwKtyYvWi5HOo441pQX4vqdkffNBmGTb4UTUD605WV8bnZvZjzHQ0gqMPPVlbG7pWWwrCpyep5YIEFVmNf6qgeNRyPXh4AAAAASUVORK5CYII=",
     "wiki_name": "Defensive shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Defensive_shield",
     "equipment": null,

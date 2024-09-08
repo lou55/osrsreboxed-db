@@ -1,7 +1,7 @@
 {
     "id": 307,
     "name": "Fishing rod",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": false,
     "examine": "Useful for catching sardine or herring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0UlEQVR4XuWVXUsCQRSGPcgi3ghBJCr5iYZuuCnoGmpu2GZllBRBXXTRRf//J5z2zHSaWYmunBmhFwb0QubhOXNeM5n/GUB59iKAD6Ms9ioZl1B8MeD7wsNZN4uFvAQ6q9dtQ4FmI22HYCwDAUa+ssF2nMG8zb0/7Wz/wnD20E5QkwCO7OjdIu0cFpzZAbwdKANkZ9h0Zgfw5TwNQHbKB07syAsJgGGc26EL9ccbB1msHTmyQ6MKO2k7+neLdgA/lp6wwZvEdtolK3Z4pdUJG8nl36NhOwxg2A7gxWSCs/EYR2cB9jodjJKxBBXVwnT0tTdoB/DuaonXi4WACgcDPO12sVmt/mqH34/+0HcIQwF8XK0E1HI+x3wuJ4DajQaWisXUeBjAoB0K4PN6jfdxLCzR2ALfx5NWS8CxHeohhiA4NrVjGArg62YjLN1cRmJsw34fj8vllB0uQsN2OBKKLEXTqXjYDEMAtOrc1ATHnw3BcJKOoUe7tepPoSpCS3Y4IFZ9WFU9Q8VIq06G2A5/NgxDSXrGl93DQPS3wUYs2+GolmY7dNgOHUt2VORlatUZzoEdPYCfsfdjhB42jc+6nXTU+PQ1dwgkx8cjdA6zHZMwX0NFweM5/0ZqAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvElEQVR4Xu2VXUsCQRSGHWQRb4QgEpUUFQ3dcFPQNdTcsM3KKCmCuuiii/7/T3jbM9NpZqUuAndHqBcGdi+WeXjOx2YyfzMC6uxEBO6GWXQrGZtQfLHA69zBtJNFIW8NSBg2rNsRCFxtg+1Yg3mZOf92foiy49UYwIodc7coO/sFa3YErvvaANkZNKzZEXg6jQOQnfKeFTvqQgJgGOt26EKzeUMvi9qBJTtUKr8dt2O+p2hH4G3hSBs8SWynVUrFjrrQPH49uvyzNGxHAyRqR+BsPMZ0NMLwxEO33UYQlcWrmH/s+NgnaEfg5mKBy/lcQvn9Po47HTSq1W/tcP/EG32rEbhfLiXUYjZDPpeTQK16HaViMVYeBkjQDkXgcbXCbRhKS1Q2z3Vx1GxKOLZDe4ghCE5P2tYj8LxeS0tX54Es26DXw2G5HLPDizBhOxwFRZaCyUQ2NsMQAI06b2qC01s70UQ7hpp2Y9QffL0IU7LDEXLUB1W9Z2gx0qiTIbbDz5tfJ5Boz7hq9zAQ/TbYSMp2OArEtEOH7dBJGYijR53hLNgxI/AeOl9GqLGpfBaBKLp8KY35b7JTMMnnA6FYfoLYMInLAAAAAElFTkSuQmCC",
     "wiki_name": "Fishing rod",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fishing_rod",
     "equipment": null,

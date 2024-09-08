@@ -1,7 +1,7 @@
 {
     "id": 14520,
     "name": "Steel dart",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": true,
     "examine": "A deadly throwing dart with a steel tip.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABb0lEQVR4Xu2VTUvDQBCGd1hCaREvCkFBqZQieGgll/ZQbERjjZXYDyNGrKCg4KEH//9hzGSTNlk9eGiyc/CFl0KTlodnZhMh/mMsgPo3BgMYBgEygiIQwNNmM6l+teIA3o1GKyD9asUBfJpNedm5Pnf52JmPx1zsAL48hHjW7/Oxc+t5fOw8TibodDoc7AC+RRFeDYd87Ex9H49bLR52nu/nhUU2AKReCdSPxQJvLi9wz7ZN2QH82q7h55aF73F7BxLbO8KUHcBlCvIad3Ao8WRXoGNJE3YgsUIgVPdIYtdWQL1a/GkpS/qvSgqsrCwaqs6+AqISULc6S1AAiRpqVARCUF4MM4hLY2vL0i1BAYQapnay5oFKXmwFkweh0qnK169LdDUg/Z82mPXzJiuNK+usblUNJEQ2gvUoIDlhVDJWOdDvUbYIKEiBsmNvCIhSBCp5of8a+AGk31FxIFlsRkAUSJ5FjIAoLPanmE3DfAOOBQ+BqsGpHAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABR0lEQVR4Xu3VS0vDQBQF4FyGUFrEjUJQUJBSBBctZNMuio1orLES+zBixAgKCi5c+P8Xx7l5aCLdduYuPHAoZPVxJpM6zn+shfD3icUQkjiGIBRDBGFup1MpIMLjciEFwyFcnQVSQITVbCYH83yf4HQ0kgO6CUM5mIf5HH6/LwFEeE1TXE4mEjAcwiKKcNztSgARnu5Wtl/k6i+B8J5luL44x57n2QIRvrZb+Nhy8aY7PFDo7Tj2MJ8l5EV3fKhwsuvAd5UNEOWrMIQbHCkMvAI0bOlf1+hK9LNK1inq7xcgLoMG5laiBiTtFEfFEEaFGjPW5WPrqY2vRA0INynXqVoHGcHUIVy+VfVGbYXADIjz+72pysdVddl2TYPWhfIbxuXFBIA4xVoMikuQ4Wu/Lk2QZUwVkgfiF1sQiEP5t0gQiCMKs5l8A0l81hp7DeDDAAAAAElFTkSuQmCC",
     "wiki_name": "Steel dart (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_dart#Unpoisoned",
     "equipment": null,

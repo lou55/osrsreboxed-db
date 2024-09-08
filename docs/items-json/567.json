@@ -1,7 +1,7 @@
 {
     "id": 567,
     "name": "Unpowered orb",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-18",
     "duplicate": false,
     "examine": "I'd prefer it if it was powered.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcklEQVR4Xu2UUUsCURCF975KGNKDhA8pEiKGSpgYZhpmZoZpZmZmmqmZGRER/fyJM8vVVXz07vpwP1hkYXE+zhnGMDQajUajCkHmsxEIalQqVCuVNkVK0EO1uiTliJgcLOjprr4gdVMs2iU1l7guFFii12zOhCBzdZ6nfCbD38T9flVSpsRpKkXHiQQdxWN0EA7TSTLJwyGBVC7PcpRLp/kbRUKmCAZhsBwmhfYDAf7FO2StCUJmzUKCRp3OrBLUATEMhkAsEqFQMEh7Ph/teDwLEgpkgKCv4YDeu13qt1osVS+XWQpVHUajnNCu10tbLpeqiqwI+ptO6fttRB8vPRq02/R83+DlxUKjulXpLP/LGhH0O5nQz3jMSUkpWSF2Culsu912pCMRLISUPl/7XB+kZEo2pmPF3CUI4UFCOIByl2xMx4rgypAQhB5va5wQzoBDQsC8L1hsJAShi2zWSSHDMAfPj58D+7MaxQdQo9Eo4x/7gRCzTSU8WgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXUlEQVR4Xu2UUUsCQRSFnVcJQ3qQ6CFEIsTQCBPDTMPMzDDNzMxMMzMzIyKin3/i3GVs87ndNZgPhmVh2ftxzmV8PoPBYDA4hYJ1FgKFZrWKerm8KFIK17XanJQnYnqwwu1l45fUeankltSPxFmxKBL9VmsmRJnTowIK2azTQpbEQTqNvWQSu9sJbEWj2E+lZDglmMrJYR75TEa+cUjIEuEgDtbDtNBGOCxPvlPWnuD8n/4AhVG3O6uEdVCMgymQiMWwGYlgfW0NK8GgUxJ2FN4eh3ju9TBot0WqUamIFKvaicclodVQCEt+vztCX9Mp3p9GeLnvY9jp4O6qKcvLhWZ1LqZDFD4nE3yMx5KUltIVcqeYznIg4JYQUSLElF4fBlIfpXRKLqZjx9olCvEwIV6Aepc8ECJKKmNCFLq5qEtCvAY8EiLW/cLFZkIUOs7lvBTS2C8/z2UMBsP/5ht/hO48sinkZAAAAABJRU5ErkJggg==",
     "wiki_name": "Unpowered orb",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unpowered_orb",
     "equipment": null,

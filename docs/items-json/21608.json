@@ -1,7 +1,7 @@
 {
     "id": 21608,
     "name": "Large fossilised skull",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": false,
     "examine": "This fossilised skull belongs in a museum!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVklEQVR4Xu2W7UsUURSHvX9G36wg6EtpSC9giWRpGqaVpizKYpaZWItmlpm9WIolIrmYIfaGLFZmYmmEf9yJ5wxnvU4tzW5r9sEDhx3uzNzz3N95mS0o2LEd+2/MSXhlmwwQJweL9+rvNoIFwds7ayUWr5SGpnKpOXdMSo7s/9dgQbBEX2Pau3sbpPNGvbR11Cjc+cYyKS07sNVgwebNLaekp7/pF7810KxwgKFaa1uVXIqdVLgNsLzABRvde9Qqd4da5PZgTIP7zprvBoZiHKDu4nEprzjkpTNnc7oxKTEVLGgmKKBNra7EhXQagbI0FhUW5gLldENACIRCptLvlPKB4u3V+h4H6eiqUyhSePrM4b8D4pQEeDDSlvb7w3F1AzRgH4h1XyVqCsja+tJcgZyejk1HJ66pj4xflSdjV9Qfj15WJzhABAYCYAPyVbJCp8hPlBflUkdOASZf3pSJZLf6+FSXPJu8nga04ARFBeBRjveANRXtPqkjbVVnj2arkpPkbI/MvOmT6blevZ56lUjDAUMw6yaUYI37PMsvsCiCMlzzrNUTY2D3nl1RVXLy/sOQvE4NyNz8HZl9178JDIUIgBqppaeyuPJcVr4n5e3CoDrv8DzPEBxlAEExg0Kl4pJ9UVVysvBlRFKLwxrAwAAChvohDVbY+Pynh/JxeUwBueZAqEZnAQWMNQQHYY2ZFAHIacCl1Uk9OWBsjkqkDCArZDa1zwbwgJhCPMfcAQo1/PFgU52ZFAmIwKTg649pWV57oWAEoS6skNmMbrGgqAg0KvI+gblvHtTKhnMoQCMBcUpAAMJX12c0FQSje0hRRWWJdgrFycZWyHQh0KTKByCo7+H1MIVnTj5/m9CUmUoAkTpUIiBAwDBxAUIhYKy+UNA/faagmdZD5hQGhQwIJ23UCN1D2/OxRCX++3BNHaEeMHQVqYyQjijmNsGgDtdAohypo16YLcBQS/wpQxGb3NyzuskLkA9jhQ0MbW3jALUAsX8AdJENSoYh9/IGZDC+OjYCDAaVSB/FbJOb+gGOgo7Y0lHMydr6rHpYHRt6/jS2TwpQFLUp5P/vCUfI0oKUZVKHIWnTO/xJAcza2TxiJ/3JNm+ajfttnieYwMKbZuPhvXZsK+wnM/qM8cEpfFYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xu2W/UtTYRTHff6Mfqwg6JfKGL2AJSNLyzCtNGUoY1lmwxq+ZJnZizWxZIwcZgx7Q8TKTCyN8I878TnjbHezwXWuDNqBw73cl+d8nu95ubeqqmIV+2fMSeGVHTJAnBys3qvHHQTLBO/ubZJQuF5a24PSeOG4BI7u/9tgmWCxobas9w20Su+tFon0NCrcxbZaqak98KfBMot3dJ6W/uH2TT440qFwgKFaV6RBroROKVwOrCxwmYXuP+6Se2Odcmc0pMG9zjWvGxiKsYHmyyckWHfYk86SzenCpMRUsKDFoIA2taKxS9k0ApVLY0nmdEFACIRCptLvlPIChbvP6XtspCfarFCk8MzZI9sDYpcEeBiPZP3BeFjdAA3YC8R1r0rUFJBNLTWlAjndHYtOJG6ox6euy9PJa+pPJq6qExwgAgMBsAF5VbJCp8hPBg+VAuUUIPnqtiRSfepT01F5nryZBbTgBEUF4FGO94A1Fe0+qSNtDeePbRXISSrdL7Nvh2RmbkDPp1/HsnDAEMy6CSW4xn2e5QgsiqAM5zxr9cQY2L1nl18oJx8+jsmbhRGZm78r6ffDeWAoRADUWFh+JkurL2T1R0reLY6q8w7P8wzBUQYQFDMoVKoO7PMPtPg1LgtL4xrAwAAChvohDVbY+PznR/JpZVIBOWdDqEZnAQWMNQQb4RozyQeQ04DLa0ndOWAsjkqkDCArZBa1zwbwgJhCPMfcAQo1vOPBpjozyRcQgUnBt58zsrL+UsEIQl1YIbMY3WJBURFoVOR9AnPfPBM452wKUF9A7BIQgPC1jVlNBcHoHlJUVx/QTqE4WdgKmS4EmlTlQxRaseubzMmX7wlNmakEEKlDJQICBAwTFyAUAsbqCwV97t6POYVBIQPCSRs1QvfQ9nwsUYl/H86pI9QDhq4ilWUD8sKgDudAohypo16YLcBQS/yUoYhNbu7l6mbb5vJgrLCBoa1tHKAWIPYHQBfZoGQYcq9sQAbjVcdGgMGgEumjmG1yUz/AUdA+W9qPOVnfSKsXqmNDzzuN7ZMCFEVtCpXhv8csk7Ji6jAkbXoXflIAy7Wz77b2Y4WLbsUr9p/aL1CQTG5/gawUAAAAAElFTkSuQmCC",
     "wiki_name": "Large fossilised skull",
     "wiki_url": "https://oldschool.runescape.wiki/w/Large_fossilised_skull",
     "equipment": null,

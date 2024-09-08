@@ -1,7 +1,7 @@
 {
     "id": 28296,
     "name": "Berserker icon",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": true,
     "examine": "The icon of a berserker.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADhklEQVR4Xs3W3UuTURwH8O2iC0USQRIN04QuLMEKQ4NKI4kuwmZFLo2y9aZRC1Ncc2gvjqn5hi5XKpOUsaR0laRJ0ttd0FWX/TW/+p6H3+PZ8Sw3N8MDP56Xc56dz/M7L88slq1frKQPXf2mFyv1e85Rn7tWhM9lI2/bGRGMCI1cpemhKzQ1cFmDUl8iabgBYhRAHCom+PQSPffVR3WMa9SpEY1KCGmloc7za1A4AsLBoDGvnUYeXRBtcdSB0F5Gf37toU/h1o2hGIRzzg6DJnobBIjbxgLhuZVZN32LPKbvkW4BQh/7CwtFqL0rxUg7vzWD0KkO5H9SZ4JwrgOF/Y4oEM4ZpPauFGvUMKAjnty4VkHoHAge3lig14EbqQNxlnBPBqmZZBCypoLmx2+aIERCIJ4XKgidMwjtbDa7OMYDejt5Kxr0qj15EO4DhDaDg5PkcnmpquqUuF4P9D7YnFoQAkOJ+kAgRD09Y9TS0kUNDdeprOywidKBkNGl6Tsm6Mtcl4lJGCSjUDczEyG//yV5vaPkdHZQXV0jVVaeFHVoFwv0ccapBam9xyjG5oUfZxCu5+YWKRicFcPV9XCAmppaqfZsPeXkFESBkEkVtBxq2SjIWDnIkApqbOymF+NhMVxut48cjruUm1tEmZnZJgjPqSDMOxkkb4pq70oxlnwskMPho4v1HX+z4qSKitNUULCPsrJy6c1wOg270kQb/g05OykFMYpBdruLamqaqbi4nLz3jtKP+TJaCpZSJFBCyxPpNNa5CkOkFCRnCUe5Iw7f/Ur6vVIuYF/DBwSuyXaMPJ4eysvLF21mn10zQdilGRMXCCtEB+LPAb5JeGPAOXP97cept61KwH4tHqK+vncik9sz0ig9bZtoI2cozuygrILUecRLmUG45h0az414qmnIfULEA3eIDpbkbw6IUbiP+cAg1MubJg/hwsJPqj5STHt276Cc7AwtiFFq75pigHTDth6IV+Kof4lK9+6kol3GVoD4MHXbBGEPSmAfigbJwyaDcMR9GYPgOcUBONonBcJkXQ+EuYR7OhDPNV7uKQOpw4b7Mkj+y8EYBnFbgLDkZRD2oIT3Id2wySBe8rFAnCG0TQlIN2wyCHXqhGYQfzZ4uJIEoazdjXWhzh8OFYT/0jKIIwGQxcLb+r9CBcohz5+UgOItKjIeLMdq2/9UVKQu1Ge2dPkDQIGjf4VS1b4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaElEQVR4Xu3W30uTURgHcHfRhSKJIImGSUIXliCFoUGlkUQXYbMil0at9UujFqa45tB+OKbmL3S5UpmkjCWmqyRNkn7dBV112V/z1Pe8PfO8Z+907zajiw48vHvfc7bz2XOec7aMjH+/Wcg4jPq3vFlowHOW+t31InwuK3nbT4tgRGj0Cs0MX6bpwUsGKPVLpAzXQIwCiEPFBJ9cpGe+Rt3EuEefGnqUKaSFhrvOxaBwBYSDQeNeG40+PC/G4moEwngZ/XHeQx/CbcmhGITXnB0GTfY1CRCPjQfC+9bm3PQl8oi+RnoEyBQGH8rfmkGY1Ajkf9wQBeG1ESjsd+hAeJ0gyKJbBkzExY17FYTJgeDljQeaD1xPH4izhGcySM0kg5A1FbQ4cSMKQpgCcV2oIEzOIIyzWm3imgjo9dRNPehlR+ogPAcIY4aGpsjl8lJNzUlxvxnobbAlvSAElhL9gUCIenvHqbW1m5qarlFFxaEoygiEjK7M3I6CPi10J4pB04NkFPpmZyPk978gr3eMnM5OamiwU3X1CdGHcfFA72edyYLQtMMLH84g3C8sLFMwOCeWq/vBIDU3t1H9mUbKzy/WgZBJFbQaak0WpO0cZEgF2e099HwiLJbL7faRw3GHCgpKKCcnLwrC+1QQ6k4GmTgUtS0fD+Rw+OhCY+fvrDipquoUFRfvo9zcAno1kkUjrsw/k2ifIWcnrSBGMchmc1FdXQuVllaS9+4R+rZYQSvBcooEymh1MovGu9ZhiLSC5CzhKk/E4btXTT/XKgXsc3i/wDVbj5LH00uFhUVizNzTq1EQTukEMWjaDjMC8c8BfpPwjQHnzA10HKO+9hoB+7F8kPr734hMbs/OpKzMbWKMnKGkQGod8VZmEO75hMb7Rj21NOw+LuK+O0QHyoq2BsQoPEc9MAj98qHJS7i09J1qD5fSnt07KD8v2xBkAqWBjJZtMxDvxDH/CpXv3Uklu7SjAPFu+lYUhDPIxDmkB8nLJoNwxXMZg+Ca4gAc41MCoVg3A6GW8MwIxLXG2z1tIHXZ8FwGyX85GMMgHgsQtrwMwhlk+hwyWjYZxFs+HogzhLFpARktmwxCn1rQDOKfDV6uFEFo60W5Uaj1w6GC8F9aBnGYACXaYpEccv38RdBGLRYZG/9bau0X9m5Y80Zx6rUAAAAASUVORK5CYII=",
     "wiki_name": "Berserker icon",
     "wiki_url": "https://oldschool.runescape.wiki/w/Berserker_icon",
     "equipment": null,

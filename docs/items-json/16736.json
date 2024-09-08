@@ -1,7 +1,7 @@
 {
     "id": 16736,
     "name": "Weather forecast",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": true,
     "examine": "An estimate of expected local weather patterns.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPklEQVR4Xs3XC0rDQBAG4OYmPYKHUBQVVBQVFUWliggiRSkqRSml+KJQ6gMFBUFEBM+48idMO/mZrUmali4MSTZr98vOPrBQGP0SODus9wMvgascTIZxuj8RRrk0HoYgmtUld3ex6G7OFgwUf0Tf8MCdH06ZKLwTCKJRmXe18mysYzzLex1xVCpkBLJQ3ImAqkfTYTtcLRA+QqO/H3bdR3MrOwoYXPXoIOonc+7yeKbTzgdCioH4eSq535c999XeCTFjxWIY3DuVaNjx4xqE+6yg1tVyiLBA3DuVIJYGDcIzQBql0yUgIBnUrq30B8JXMwh1WUGP9dXsIEkDg9C5gASFOj35faDnxloHhPhsbfcHQqBeg2Qkk4Ber9fzBwGgQTyhEXi2QG+3GzFQqhXGIOnQAun54wOh7fv9pgni3j0l2rz+A/GEFhDaMQiboICwH6UARXuQjJBOmwXS6eoF0iOUAtTdgxiE0CB0xPNnqCBc8eP6lGcQ7lHHmNxAGiUdCQjteP74QDg2BIRNMfUKs0ByPgGESAPCsaFHKOHooHRBnDZZygLCM88fHwjHRm4gQTGIV5hMfBlJDcKxYe1D3LtRIpCVNg2SJc+jwyC0Q3scG5kntQbptDEI9VlAwKQCYbIyCKFBuPpA+tgQkE5ZZhCnTYN8K0xAsjEOBCQoBlkTWo+QYLAHMQjXVCArbRqEex+IR4dBEglBKPzPnR1WugYEKhRkW+8VDNSROyhpYWQSrES37ZAKI63gvxnp8gffSWwYAJtisQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHklEQVR4Xu3VfStEQRQGcPe7EaEQIURoSUraaEMbbdvmra1tvURRSpLyGUfPvT3r3HNndu/M3cUfpk73Zaed351zZmZo6O+3yNjD9vvAW2QqO6NxHG6PxFEuDcdBRLM6Z65OZs3F0YwFpT+iMDwyx7tjVhR+IwTRqEybWnkyNTCe+buMNMoLmYBsKD0IQdW98bgfrjYQPkKi3282zUtzLRwFDK5ydhD1gylzuj/R6ecCIcVAfNyVzOfDlnlrb/hh+NUShPtQUOtsPkYEgKJUGiQIzwBJlEwXQUBqULu2UAyEr9YgvAsF3dYXw0FMgwZhcIKIwjtZ/C7QfWOpA0K8ttaLgRB4L0GcyTygx/Pl/oMAkCBd0Ag820BPlyspUE4MWhbEAW0gWT8uEPo+X6+GgtCSzasXSBc0QeinQdgECcJ+5AFK9iDOkEybDSTT1Q0kZ8gD9L0HaRBCgjCQrp8fBeGKP5envAbhHu80pm8gieJABKGfrh8XCMcGQdgUc2LQkhVmA/F8AgjhA8KxIWcoCKTTxqVMEJ51/bhAODb6BiJKg/QKY+FzJiUIx0bgPpSAbGmTIC55PTsahH7oj2MjuKglSKZNg/A+BASMFwjFqkEICcLVBZLHBkEyZcEgnTYJcq0wgrgxDgRElAbZClrOEDHYgzQIVy+QLW0ShHsXSM+OBjFygtCSk75X2NI1IFDelkUyfgnUrWWR2fhvxdoXlUUhjPVhfNwAAAAASUVORK5CYII=",
     "wiki_name": "Weather forecast",
     "wiki_url": "https://oldschool.runescape.wiki/w/Weather_forecast",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 24265,
     "name": "V's shield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-09-26",
     "duplicate": false,
     "examine": "V's mighty shield. This should earn the trust of the council.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADgUlEQVR4Xt2Xa08TURCG2f9gIEC4Bwi3VpD7tUkDiCgXKyIUgkHE+E39/8lxn7O87TAsbcXKB0/yhu3u2Z1n3zNnZuno+D9GEh7q2Uc9+MT0RCguFENhrhDGJsfC0OjQc8JlQaaKUxFicX0xrJXWQul1KR4DBaDA+of7/yVcEpY3l0P5TTnsHu6G/cp+OD5/H04/n4ar71dha2crVC4q4ejTUTg4OYjXmbf9djve0zvQ206oJDpAkJWV+bCeHqPNFBCVUpeA02/N0bVyeSOC9fT1tAMqg+GBCri0NBuDegkUaY7AcBHH/hIqCfPpQ1kO64igHgOTFtI80xzuuby9DHvHe0+FqsPkLZOFsmD2HJqbLUQwrrF81ZtqXPo/hMpgNtK1t9Z7IA9lBYQX9wN1dn0Wk79FqGw3Idyxb58HpXxpBuOhANLOezk42AgqS2IcmqbopTXHQs0VumpQNomVLx4gT8wHSEW0KRAws+nDJ9MC56EAEpSXDap5SLBWAFFAmwAlMW+AGU6r7Pj4SAQSFEBfqgvh17fVewEFxPkfX5ejOH99/iqKYw+EqPj1ap47ktgKaAsD6foCZF1CH4+KEermIhMQFggBcXI4cwdV33l+JxJnJI3RwKUsoQU0mq6xgARlnRGQXOKvYOWS3BGMF72vIRAOkdRAYSmArUL9vF2NQOj0uJ5HHog2ww7m2TRkueRpOjjJRPIICCsB1aDSgsfDBWRhWFau2d1nodih9Led7a344nIox6UkfkoAZRPawwgo6m6ZBASMDZ4HxTlqEauBQw2XjE8FoNhlec7cg7nTh4OZGszJYeGBIwDY3SUglqxJDjEyqL7enlpSCyQPRi4BZWG8IxZKy0autlSL+NSgFmmn2bzxEmjl3XQtgb08FL8pjMRokD8aSfxuYXJ3d1etHgH1GIx2no4Jqor9GBQd3ya0pzAjid8sqqJAqWpblyxMXp7ZNuKhWC5euklC25G1EG7wUDaoh/HyUEpyUoJ+yUu3CMTIahK2WihfvVGjmoWbFooNo/9QWsgfPzIo8klQ5JTc8iBeHopyol75BBiNDAqLgersfBFLgnYgYIjr/LbnLJxaRYs7q9moQ6nPUT8A0zKqTMhBhBvkIvfqo68NMBpZfZLIBSs1SgQwgEgvwfU2wmjYf4vrbQbhhALLGT+/zTDZ0EOzB98P6GXnPgXmNxW5xjT00PYVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcElEQVR4Xt2X6U7bUBCF8TtUIECAAAFiSwRlXyNFQCktS1NK2URFKVX/tX1/6dbfNScZBmcBAj860hGOfe35PDN3xnR0/B+WhId6das5H58aD8X5YijMFsLoxGgYHBl8TbjMyWRxMkIsrC2E1dJqKL0rxWOgABRY/1D/S8IlYWljKZTfl8POwU7Yq+yFo7NP4eTbSbj6dRU2tzdD5aISDr8ehv3j/XiddVsftuI9vQO97YRKYgRwsrw8F9bSY7SRAqJSGiXg9FtrdK1cXo9gPX097YDKYHigHC4uzkSnXgJFWiMwokjEngmVhLn0oaTDRkRQ9cCk+bTOtIZ7Lm8vw+7R7lOhajB5abJQFsyeQ7MzhQjGNdJ3fnMeU/9IqAxmPc29Db0H8lBWQHhxP1Cn16ex+FuEynYTIjr27fOgVC/NYDwUQC3uvKyIidAUTS/tORZqttBVhbJFrHrxAHliPUC1JtrQsnTNpA+fSBuchwJIUF7WqdYhwVoBRANtApTEugFmKO2yY2PDEUhQAH0/nw9/f67ccyggzv/+sRTF+euzt1EceyBEx69181xL4ihgLAyk+QXIRgl9OSxGqJuLTEBYIATE8cH0HVRt5/mdiJ/h1EdDIIpZQCNpjgUkKBsZASlK/BWsoqToCMaL2dcQiAhR1EARUgBbhfpzuxKB0MlRrY48EGOGHcyzGcgNopTEhdQREFYCqkKlDY+HC8jCkFau2d1nodihzLftrc344nVgsCR+SgBlC9rDCCjqLk0CAsY6z4PiHL2IbBChhkB8KgDFLsuLzD2YO33en67CHB8UHkQEALu7BETKmtQQlkH19fZUi1ogeTCKElAWxkfEQilt1GpLvYhPDXqRdpqtGy+BVj5OVQvYy0Pxm8aIjyYwWBK/W1jc3d1V7UdA1YPRztMxTtWx60Ex8ZsUtCyJ3yzqokCpa9soWZi8OrNjxEORLl66SUFby0YIN3go69TDeHkoFTklwbzkpVsEwrKeRFgtlO/eqFHPIpoWig2j/1AeASPLoKgnQVFTipYH8fJQtBPNyifAyDIoQgxUZ+eb2BK0AwFDXOe3PWfhNCpa3FnNrAalOUf/AExpVJtQBBHRoBa5Vx99bYCRZf1JohasNCgRwAAivQTX2wgj44E1acwgIiHHioxf75/2AuYdej3P/gGiRJQHoJiTFAAAAABJRU5ErkJggg==",
     "wiki_name": "V's shield (The Fremennik Exiles)",
     "wiki_url": "https://oldschool.runescape.wiki/w/V's_shield#The_Fremennik_Exiles",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1247,
     "name": "Rune spear",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": false,
     "examine": "A rune tipped spear.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABD0lEQVR4XuWXsQrCQBAFc8hxnZW90VKLmFTaqCDBGCyCktLCwsLCQrCw8N9X3h1rQj4gu+CDIKjFMHOJGEX/NUPdd4QGEEOz9d6/dj/teYbS4kxJXtF8W3qgRRxLQhnKytpDsSFxoFflPNQkXUoDGfrUjh6lpevO0mgYyQPBzi23lIwHPxghIEPvk6N7YemQKoBBqufR+VTCMFhIBTvtVN1v9bTmIKtIhXPDB1kYBgtAsKMiFWBwkFWkQia+zYVhMGWpYAeXilQ4M2xHGAYLdgClIhXbqVfidoxPxHaEYbBgB0AqUrGdy0ZBKjz4YEdNKrajIhXbUfPzwHYUwGDhzsqm4qnaC3+JFdhppgpGYl8lIP4E2KKmSQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA+0lEQVR4Xu2VsQrCQBAFc8hxnZW9aKlFiJU2KkgwBougpLSwsLCwECws/PeVd8eC5APcB/pABG2GmY1m2W/NSfcTowHEyWS5je/db788J0V1lLxsZLquOYBmdRuhaAw9mhChRsXcGsjJqw1yq72cN14G/cweCHYupZd82LOHeR6CXCsvu4IABqnu+xBTGcNgKRXsUKTSQ6ZIhbvRQzaGwRIQ7FCkAgwOmSIVMuljbgyDkaWCHbwoUuFm1I4xDJbsAIoildppF+Z2XEykdoxhsGQHQBSp1M5pRZAKP3ywQ5NK7VCkUjs0fw9qhwAGS0/WbGye6nMAoYH5L+4NlO+9gXo5aoEAAAAASUVORK5CYII=",
     "wiki_name": "Rune spear (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_spear#Unpoisoned",
     "equipment": {

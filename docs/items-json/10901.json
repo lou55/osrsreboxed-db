@@ -1,7 +1,7 @@
 {
     "id": 10901,
     "name": "Crate part",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-06",
     "duplicate": true,
     "examine": "Part of a crate.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACV0lEQVR4Xu2T32sTQRSFO0+iSEpJSdkE0qahCXUhWRaSGkzLisb+sLShooiIlKIIQl8EEQTf/L9HzixncmfGQpJuo2AOfKSbmcz99t7pysoyyyxzU5TOWWhYlIUnzzu1NcMCpZRu18sWPFdW7+lGVLIycs3/dcFROm6sG6rl+w5ShHuwP9naugupfBzoAoFEvfLAgTLdZsVAKf+0OSLvyESEI2E3KLIdPTRQJm1tGPB3AV1SwZv7d4OdoAhp10pWpr8bOVJ+lRmigkKmmLgbciyQkEAEDOKqlZpc8LnElO7Fm0EhKSHHEtdLAZDZ79QMFDPy84mpoAChBEdCsNZtrFookyV1R4ojnOGyK3Ng2lzTw6RpC7AgvpcjIVIGewBknqWbjhQ/edGnuOxKnx509H5ccYrIQpRgF9gJrhPIvOg1HKl+qywu+VQdQpQ99Gmv5RTBgYPddStBUBRrPsd726GU6O4UUio4VAIZQAmCokDuARD6kxSmcDh4ZEfnW3hR+mr8xB56MoydIhhn1tmwEoCF5R5yOmgGUhzZlPcIyX8AMR4sZcAoiawIihIpg33j4Y6Vujx7rF+P0lll8uSbc7Fx1g1kjtLISqAo4R4JJeboTBiK+TLgZa9qJF4dtBw+nyX6+iI1HX533HckbiUziTJv6cuc79UMX98/198vD/XPjyf615dzsw8U0pGboxyZ67eZEflxdWSeuUb8rvinFZT8jdENjufTxdCMBp2CGLjDroThnfr2YaTfZG0DukWxhcq4UWZkoLD/oNvHlfjLMnn+CYn/Mr8B9XmRzSxMXp0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACN0lEQVR4Xu2T32sTQRSFO0+iSEpJSdkEUtLQhLqQhIWkBtOyorE/LG2oKCIipSiC0BdBBME3/++Rc5czuZNpIVu3sQ858JFuZjL323unKyvLLLPMTTE2Y6FhURaePm/X1oQFShnbrpcdeK6sPrCNqORk9NrsrwuOsXFjXaiWH3poEe65Q6FsHOgCgUS98siDMt1mRShQSt+RqQhHwm5QZCt6LFAmaW0I+LsAIRO8+ezdYCcoQtq1kpMZ7ERFSZmgkBRTd0OPBRIaiIBhXHVS0wt+KzFj+/FmUEhL6LHE9VIAZPY6NYFiIn87MRMUIJTgSAjWuo1VB2XSXt2T4ghzXHYjBybNNTvqNV0BFsT3eiREy2APgMyLZNOT4uecMoixJ/sduxdXvCK6ECXYBXaC6wQyr/oNT2rQKqtLnkOKhz7vt7wiOHC4s+4kCIpibZaj3a1QSnV3DikTHKqBDKAEQVGg9wAIXSeFKRwMn8wjhBh7OXnmDj0exV4RjDPtbDgJwMJ6DzkZNgOpnCNDsh9AjAdrGTDuRU4ERYmWwb7JaNtJXZw+tW/HSV4ZnUxsknYDmcMkchIoSrhHM5XI3ZmbYgIZ8LpfFYk3+y2Pr6c9e3WeSIc/HA2KktAx8pazMme7NeH7x5f258WB/f352P75dib7QIEduS7Gk7l6n4rIr8tDeeYauUMRneyN0Q2O58v5SEaDTkEMLEhGx9gfn8b2XdoW0C2K/QcZxsjIQMH/Qf+SeyGxzP3IX/Y/X6AP05X2AAAAAElFTkSuQmCC",
     "wiki_name": "Crate part",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crate_part",
     "equipment": null,

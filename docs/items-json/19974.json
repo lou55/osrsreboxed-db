@@ -1,7 +1,7 @@
 {
     "id": 19974,
     "name": "Light tuxedo jacket",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "A light tuxedo jacket with a matching shirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xs3Wz08TQRQH8PZEvGCIxCMh/gUeuBguJnrBi1YQDQIVFQy1qUFQgqQVgYAiEElFo02bYiptmtrGQMX6g1hv/lXPfKd5y+zrFLrtapjkpdvZKfPZeTNv8XiOf/OSOUz3/3nz0svZXnox41OxNH2FFqcuq2BEamOEttb9lFgdNqDkQzQNr4AYBRCHxMRXBunt0oBtYnzHPRl2lCOkl9bDfVUofALCwaDNxRu0MdevxuLTBMJ4Hf0zO0vfticbQzEI17w6DHr//KYC8dhaIPzue2aGfuWfUTm/oECY42xnpwo5u2iVZeenZhAmNYGi89ctEK5NoO3obRsI1wySs4vmtaUBE/HmxncJ0vfPYaDsm1H3QLxK6GOQvh/SsRglo1FbnwR9ejdmgRCOQLwvJAhPDhDGDPb1UjaRoNPt7bS5vEyn2tpo3O+n893ddKajowpViN2zg9KPmwehH/dLhQI9GL1LxVxOgbA6AM1NTdJw/zVaCYerQJ/j4+6CEEgl7u9k0vQkFKJyqUQ/dncU6GRrK71amKdLFy/Q2NCQDYQUf9kKWqD9XMTCOAbpKPxx3MeewWr8+V1WKKTuREuL6jvX1aXSJkF7H0JGkJy9RqtsTJwYEyi2tmatwn6xSIWPKQV6FAiovlwySdPBoIUC6GtqolFQpQZhhWqBsE8YvZfPqxUDCGlE3+rTCPl6eiwQDoIO0ouinF20ypE3gRAMuj9yywJl4nGFQUQeTqg+nLqBqz51jdVxFcQoBECouPzk+GQMB0N5jKsgfZXwySCuRRLDIN7MDMq8vmOBUKUZUxcIJ8wE4teBUxDG4rWhr1Cdq4N2AJL7CP1OQZwuvDZcAzEK/ZigERCqtA5ilJzd0CogU9oaBWH8biJggVCDHNQhO0hPmw7it73ESBDgTYNwyo4CYbKjQJwu10AybeivF8RjAcKR10GoQY7rkCltOgjXOHkYL4NPI491BWRKmw7CPf3fElxzNcc4ff80CUKrfmpT6Bg9JAhFUQdxOAB5PFzWDwsJ1EPfP66A6m0SWQ+W42Dsf2oSaQr5m2Pd/gKjbWLdMt3IfQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu3WTU8TQRgHcHoiXjBE4pGDn4GL4WKiF7xoBdEgUFHBUJsaBCVIWnkLKAKRVDTatCmm0qapbQxUrC/EevNTPeY/m2czMztA90XjwUme7HRm2P3tPDOztLT8+yVE5jD1//ESouezvfRsJixiefoyLU1dEsGI/OYIbW9EKLs2bEDpL+EbboEYBRCHjsmsDtLr5QHlwfiNPj1UlCtkiDYSfQ4UroBwMGhr6TptzvWLsbiaQBgvo7+XZunLzqQ3FINQ59lh0NunNwSIxx4Gwt99Lc7Qj8o8NSqLAuQKg5vyWzMIDzWBUgvXbBDqJtBO6pYCQr1JUEhJAx7Eixu/dZC8fo4ClV6NBgfiWUIbg+T1UEinKZdKKW066MObMRuEcAXidaGD8OYAYcxgXy+Vslk63dFBWysrdKq9ncYjETrX3U1nOjsdqGr6rgoqPPIPQjv669Uq3R+9Q7VyWYAwOwDNTU3ScP9VWk0kHKCPmfFgQQikEv27xQI9jsepUa/Tt71dATrZ1kYvFhfo4oXzNDY0pICQ4k/bMRt0UE42i0FRQTIKN0c/1gxm49fPhkAhdSdaW0Xb2a4ukTYdtP8u7hWEYi1M7BgTKL2+bs/CQa1G1fd5AXoYjYq2ci5H07GYjQLoc37CK8g6gzBDh4GwThi9X6mIGQMIaUTb2pMkhXt6bBA2ggxycShaW94EQjDo3shNG1TMZAQGkXwwIdqw6wauhEUdsxMoiFEIgHDi8pvjyhgOhvKYQEHyLOHKID6LdAyDeDEzqPjytg3CKd0kBsXaYSYQfw7cgjAWnw15hjyB9HWEdrcgThc+G4GBGIV2PMALCKe0DHKBskCmtHkFYfxeNmqDcAa5OIdUkJw2GcRfex2jgwD3DcIuOw6Ehx0H4nQFBtLThvZmQTwWIGx5GYQzyPU5ZEqbDEIdO8+6qRq8G3lsICBT2mQQ+uR/S1Dn0xzj5PXjE4TifGtTyBg5dBAORRnE4QLUbHEiOeT18xdBRxUn0hn/i7/yG1lpGFHn0bVNAAAAAElFTkSuQmCC",
     "wiki_name": "Light tuxedo jacket",
     "wiki_url": "https://oldschool.runescape.wiki/w/Light_tuxedo_jacket",
     "equipment": null,

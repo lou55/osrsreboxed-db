@@ -1,7 +1,7 @@
 {
     "id": 18703,
     "name": "Gnome scarf",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-08-07",
     "duplicate": true,
     "examine": "A scarf. You feel your upper lip stiffening.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADl0lEQVR4Xu2W20tVURDGXU/RoyRFQpBEhhGUYFQIaZSR1YNmZWVlmZnZ/WJipVmZYmZWZjdRpExDRDEzEUU0uhDSQxRC9FIR/RtTv9ktPedo55xyqy8NDPuy1l7zrW++mb1CQv6bK2bkzz6p5gTdsSlZUjZskI0JCbI2Lk5WLl8ui6KiZPasWZMFzAmSd/iwHNufKaeys+XQ3j2SmZYmu7dukW1JSbJuVbwsi46W+RERMiM0dCJBGakuLZXrF4ukJD9fCk+eUC/Oy5Pzx49Jbk6OgtyTmirJiYkSHxsrCyMjFdCSuXPdBmWkvqpKHpSXq9+6UixXCwqk9Nw5BVhVUiLXLhQqUNg7mJ6u6SSFM8PCJoIlIw137yhDeE1FhdwtK1NgXGsrK+Vh9W19D8Ci06fkxIEsZQpNucySkc6WFnlSW6vsWEYskBHxOg4wQF86kysZ27dr6uaEh7vJkpGep+3SUl8vdbduKiDSc+PypeGdezrvAA97iJ4KdJklI32dndLe2Ki7hx2E7AnG9wvGSB96Im1oacG8eW6x5ABi1wSBnbNHjwbYsVE2qT6qDpZWxMQE+CZoM/Kmv1/aHjeobtAGgvW/uKMlxH1kX4bs3Jwi69eslqVLFrvBkpH3g4PS3damQShtyjoQoMb795RNWKJ50gb8pzloM/J5aEhe9PSosNFQ4JRhRquSfsX8wJsI2ox8//JF3r1+JV2trcoSQaZPm/ab/rGdpomos3bt0v+d77hvlL80I58+fpCXvb2qJXaOPtg5vww0hVZIDUwAgmfKnjnojt8KWuJfh7sCyjrgaJZNNTXKGBVFMySdtnvzjjHrvGcTAKbyADhuUJ7N78e3r5rGty8GZKC7W0VPSnufdWibwPu7nqtzD7OAtJpC5GzApRRivpoww6Bgr7O5Wd2OAZwxWLVdHMY6njRp43QFlGWrua5Og7M4HR1vffRQxzxZtQ4wGENnPHOS4L83TlDO4nRv2gEBAME9Xd0bjGMWGIXAlROEXYe+RY/7R1BGaQcMi7IYIEiHDeILxvNbCsACoWLtvf/vxjTnI8RJcNggXRaIPY74X9Roau08z/n+vxtlRkUIABZU4f5y7nkHIFgbCeTPvEEHnj/KjJ6DCE5Z82zLGAEDjPT5BvJnwcwJYN4lzqGNK2BgJ7j/m8tmc/66r2+4xwAoOO1MmDnnI8sUKSRtk86Ot41ueFPEzoh5Bp9yMFNhPwGs854mTZq0wAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADe0lEQVR4Xu2W20tVURDGW0/SoyRJQg8iGUZQQpERlNGFyh40KyszzczMTDMzMdPMTDEzKzMrUaRMQ0QxMxFFVLoQ0kMUQvRSEf0bU7/ZbY9I55wt7aMvDQz7utZ865tvZq1Fi/6bK2bEu8+rWUGP7EuQxLg42btjh+zcskU2x8TI6qgoWRYaOl/ArCBFOTmSdzJDCrKy5MzxNMlITpZjBw/Iofh42bU1VjZER8uK8HBZEhwcSFBGGqur5dbVcqkqLpay8/nqlUVFcvlcnhRmZyvItKQkSdi9W2I3bZJVkZGBAmSkraFBHtXWqt+9Xik3SkuluqREATZUVcnNK2UKFPZOp6ZqOknh0pCQQIAy0t50XxnCm+vqpKmmRoFxbamvl8eN9/Q9AMsvFEj+qUxlCk25DMjIQHe3PGtpUXZsRmwgHvFaDjBAV1wslPTDhzV1y8PC3ARlZPh5n3S3tUnr3TsKiPTcvlbhJYhR8LCH6KlAl1kyMjowIH0dHbp62EHIvgMYTR96Im1oaWVEhJ8xjs0CxKoJAjuXcnP9TG6UTaqPqoOljevW+Rnj2Iy8HRuT3qftqhu0gWB9T25pCXGfPZEuR/cnyp7t22T92jV+xjkyIx8mJ2Wot1eDUNqUte+JjXQ8fKBswhLNkzbge4xjM/JlakomhodV2GjIf8owo1VJv+J//4twbEZ+fP0q79+8lsGeHmWJIIuDgv4E+LvTNBF1ZkqK7nezv8+OMkcz8vnTR3k1MqJaYuXog5WzZaAptEJqYAIQPFP2/IPu2FbQEnsd7goo2wFHs+xsblbGqCiaIem0uzfv+GY771kEgKk8ALoAyjYjP79/0zS+mxiX8aEhFT0pHXnRr20CHxt8qc49zALS1hQiZwEupRCbrQkzDQr2Brq61O1vAOcbrNpdHMb6n3Vq43QJFGakq7VVgzM5HR3vefJ4VhAPcIDBGDrjmZME+94/grImp3vTDggACO7p6t4nN1oIXDlB2PPQt+hx3sf5NKO0A4ZJmQwQpMMTxJtZBz0bCBVr3/se91ezBiFOgsMG6bKBeI4jvsxoaj3/+fvfqxkVIQCYUIX727nnHYBgzVkAJ//4NKPnIIJT1jzbZYyAAUb6XAg0F5uZZ+vQxhUwsONsfwuIGXkzOjrdYwDkTDsBM+t8ZDNFCknbAgLCZga30/jfFtZ+AUYFT03XJvLmAAAAAElFTkSuQmCC",
     "wiki_name": "Gnome scarf",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gnome_scarf",
     "equipment": null,

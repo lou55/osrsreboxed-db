@@ -1,7 +1,7 @@
 {
     "id": 20997,
     "name": "Twisted bow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": false,
     "examine": "A mystical bow carved from the twisted remains of the Great Olm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIklEQVR4XuWXzUsCQRjGG0SkCEOKIiWzIiMLP0LN8CNjMzJCKhLqkNClQ4dAyGt0qkMFQUf/gC5Rh5AI+t/eemaaXXfdoIM7Bj3wsqO76/x45p13Xvv6/rcYieipJASjCb+fZqemegUlIPo9Hg6RS6f552Gfj1/joZBKqK8Jl12UzLloMhCg5URCh0MoBpLLIQCmg8E2AOEaxoqAGO0fu/WJ4czWumZyRCnM7pGb7h/7OUCtVqWVZJIOdnZULxHEqHJowCAajVMqZDLcoWql8v29EjEqV80whUKGbm8uqF4/4VCba0VVLjHa2DNgZOI+PFxRq/XEx8gjRUCMtIrLBGNMKJxCzVmcn7e533UxWi3bwRhbHjE3M8OXzGF3GGVL9jDN5h2/jo+N8cq8XSo57c5XThTNMNINJDCK4OjIiH5MOA6Do8AKM+T18lxJxWO0FI3yiITDvYHB0TA4MKBDSVeUw0ggwMg8ab/XAxhxD85YQczvd1U/wRhbW8GWluqEkcvy8fHKr2i6kENnl6K/sf5CF2UPo2l5en9/4WPsKAS2OGqOgy7Zw+RyaXp7e+Zj9MW75bLumHzOMSBjCYwADHYUQraj7YnsGAx6GgkRiYQpFlugVCrGlwXOKDqbpBidX4tChyKHiouOT8vn9SosjwQHXZEy/hHAhfZiZw0FMBCjYjZrO7FdWN92QKxjORRN/JNEM4X8EQ79CSnNkd/pL8B8Akn20emqEycfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+0lEQVR4XuWXS0sCURTHvYiIEoYkSUqGSYYWPsJX+MiYjCZi0EioRUKbFi0CIbfRqhYVBC79AG2iFiEi+N1OnHubGZ1GaNG9I/SHw+C5DPPjvO7RZvvfIsDMUqkQBJYDAVgLh62CYhAup5NClHI5+nvB67UCiEAqb4dMyQ4rwSDk02kNDk0wkPoxBrAaCo0BCK8hAicXDq1mMDKHe5JoCFUEGucOeHl1UYBWqwnbmQyc1utWABFQznQYtE7nCiqFAo1QU1FEQhGQm5MwlUoBnh5vod2+pFAHu1VRQAT2j8dhmK/bvYd+/02rI0FABCTFboDRz9Bw5mzGYibnfy4CO7IZzGR7r0ciNGWcgQgUa+Ywvd4z9S35/XQyH9Vq/GHyVSMMiwYWMA7BRZ9Puya4w+BVYISZ93horWRTSdhKJKjFo1FrYPBqmHO7NSg9KsJhmB9h9DrhCqFqGgw7w8j89HPTNBg9ZQJaWpUZDEvLaPRJn7h0YQ1d33Hfb8xhJKkMw+EH9WFHoWGL48zhCGQOUyrlYDB4pz7cixuy/H3OvZjJWAp0QxjsKDR1HTW+yUFsp1Eh4vEoJJMbkM0maVowMoLuJlUEbh7YoMMhhxMXNz6pXNamsH4lcJf+jwCjMDnsjCZEBKrFohUfniYiMh2/EVumsH5mCmqGYGZHX3XyZmS7XvkaAAAAAElFTkSuQmCC",
     "wiki_name": "Twisted bow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_bow",
     "equipment": {

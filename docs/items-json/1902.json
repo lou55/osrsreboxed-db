@@ -1,7 +1,7 @@
 {
     "id": 1902,
     "name": "Chocolate slice",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "I'd rather have a whole cake.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xs3X/UsUQRgH8D2O/QOCKDLqrLDoCs6EOAIlIYTqByvL3i0sLIwMoihEil5EekMQe6FCwRATKSOIiqKov+zJ7w7P7jPPzW67d1s48OXuZmeZz80zN3fnecu/Fcgd1/V/3gr0eOQwPRw+FGTs5kEavX4gCCNmJ/ppZvwsTT8540DpN9Ew3IAYBRBHY6YenaYXYyetifEa13RsVCZkgcZvHalB4REQDoOejR6niTtHg7F4dIEwXqJ/LIzQt7lr9aEYhOe8Ogx69eBUAOKxcSDc931+mH4t3qXfi/cDEOZobW4OomdXzSw7v2sGYVIXaPLesRCE5y7Q3OQ5C4TnDNKzq1awyoCJeHPjtQZhciC4vHGghecD+YF4ldDnAvFKMgirpkHvX14IQUgmEO8LCZIbMilxoA+vL9qgtzfqB6GvaYVHpVUetawxKa/1qFIqBmnbGIXv16CPU4P5gjSgutmd9q0GJTEo7+eZyyHo57vbISYzCEGfnJDTuS0+EgXQlzdXnCA9e0yL9oMEdVX+nn07ojAKoK+zV+sFmTMIKyRBldVF6qn61L3TnhRBnw7GIrgXn0wJkoeinl0185F3gbBvurcUqW+3Tyc6fOrdZSbUQb8O7s8NhAQrVDLvvHPDUmk2La1MiwEivdt9GujyaXCvydB+n/r3GAyXLhcQo9BfXumF5eGVAKan7Aegvtba4Hr7ehuEU5oxqUD4hMWBqutsEEqHEmI1EF1O3k96hVKuDloEcu0jvFuUDEkLcpWsIZBcJcbwHkLqATFKz+5oBuQqG/pwXW9o3kN4xGtcwxjAsaIoswThDMpwDtkgWTb06V99SSDGtDU1CMKnLAmEH1o4fbmMafJp+lLjIF029EuQ/A2EL2D+3sN9PBYn9PzT8xYIZ1Dmc8hVNgnC8yQQf39hbC4gV9kkCNfkvxIJwjiAsDo5gNBq94ArEiOjQfgtLUGcDCDP42M9KRooI/dPLqC0TSPTYDnR2P/UNNIVfc+ybn8AUsQG7PQBbSUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu3X/UsUQRgH8D2O/QOCMDLqsLDoEq6EOAIjIYTyBytN7c3CxESxIIpCpKgU6Q1BtKJCQRETKSOIiqLQv+zJ7w7P3TOzs9u+Gf3QwJfbm911PzvP7NzqOP9+y5E9tv2b3nL0bLSDnoyc8TJx9zSN3z7lhRGLU700P3mF5p5ftqDMm0gNVyBGAcQxMbNPL9GriQvahfEd+8zoqFjIHE3eO+tD4RMQDoNejJ+jqQdd3rH4tIFwvET/XBml70u3kqEYhG0eHQa9eXzRA/GxQSCc92N5hNZWH9L66pgHioXBH+W7ZhAuagNNP+qugLBtAy1NX9VA2I4IymllwIV4cuO7CcLFgeDyBoFWXvZnB+JRQp8NxCPJIIyaCfrw+loFhMQC8byQIDkhwxIE+vh2QAe9u5MchL7aLQ4Vahyq365S3OFQqZD30ri7Gj7fBH2aHcwWZALKe+1p2q9QEoPyfpkfroB+vb8fFYOmgxD0yQtymg8ER6IA+rpwIykIrTofJKil9OecPFQNowD6tngzKUitQRghCSpty1N72aW2w/pFEfSZwbEIzsWTKUExFkX1yNtAmDdt+/LUc8yl80dd6jyiLmgG/WZwfmYgxBuhgrrz5rqN0uzZGJl6BUQ6G1zqb3Fp8ITK9VaXeo8rDJcuExCj0F/c6lTKwyMBTHvR9UA9B/3B/qZdOgirdEQMmnrCgkDlnToIpUMJMRqIWU6eT+YIJQLZ5hHuFiVDooJsJUsFkqPEGJ5DSBJQDJQC2cqGPuw3JzTPIXziO/bhGMAxoiizBGENirEO6SBZNvSZb31hIMY01qYE4SkLA+FFC6svlzFKPs8NpQeZZUO/BMl3IPwA8+8ezuNjsUIvz/RpIKxBsdchW9kkCNthIP79wrGZgGxlkyDsk/+VSBCOAwijkwEIzT8HbJEYGROEd2kJ4sQARW1+JEfOn78ICmt+pD//W7r2GwjAvFGxHWSQAAAAAElFTkSuQmCC",
     "wiki_name": "Chocolate cake (Slice)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chocolate_cake#Slice",
     "equipment": null,

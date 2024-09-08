@@ -1,7 +1,7 @@
 {
     "id": 9763,
     "name": "Magic cape(t)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by the most powerful mages.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4XsWX/0tTYRTGfZEQZShyhzGHm9ehMjfmNmwpJTJS1BSzMll+w7SlNqaZmWkimrEQJPyhP6Af+jnoL3zyObd3zGExofvuwOHC5d7dD8855znvampcC4XyO/8x+OM3+YBCp+2/4TsVh4Lf50VtrafCDyjcTYSxkG6U5+Pt7RW8c+NQqL1l/QH6m1rO/dGhvuIzhHEJiKFQV+eXUoRDbWVwCul7ccxMDF4BcRFGh8Ly7KiU5H4qisnhfoynU3KdnRrC2sKEm2W6LhTeZJ8iM53GUH8Mw4PJIhQVMlCm8lA43V3GXi6DxZkRAeGVfRPpCppXp+/OBezQKU52lrC5+lgUYgmpEktoHCjZdw674xjfCnkcbs1jJTMmyRJ6vQPmgRLJMwTtQ1x8eo3zo1dFpeafPKgOUG/8MwL2Pr4er+PLwar0E4HYR1UBivWeIBDcxdlhVmCOthcFiH1UFaBo7EiAqA5hDvLPBejl3EO0tAyiqckxxvI3XYjLZdm1Dn9bTiaN6hDm5/sG/NiqF0OkQhrIgEoKXd05AeKksZl/7Tdc7rdxfM/XY2NpCpaVMgvUHd4sAnHkS4GoUrOVrA4QR5/lItBY0id52zcn2dhkrLEVwj3b8Ae2BIjK6NQwTE9jyhxQT+SdAMUThStApenxJMwBRaIf0BZ4K0Bs6t2NWeysPZOG1guWjW1Z426PvkKoM4tWf1acmi6tNz49iLuMZyFufgI1WyNuq+R4kAaiS9MUqU7uxbR4EHfZo9EBZ/Sb06aA1gWosLciU8aDmgbi6uDx1ZA5OqaogXT/lAKVHkE4+iyxi33kAHGxcofRFK8D0hufo98RWnFTJccUCaR3mAbihHGxlgPZ9rwZIL3hCcQJ00DsIX1IoxcF7Yyo6lLZlHhPKRAn7Dogjj+b29c6VlTINZUIFIl9FMemYpw8Nq+3ZRqWd1IMkR5UOvYuwei4+k/1X2kAxgn9oUqy/N1K4zf4RHstK/uvDwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwUlEQVR4Xt2W7UtTYRjGfZAQZWzIGcYcbhyHypxMN2wpJTJStqWYlcnyDdOW2lAzM9PG0AxDkPBDf0Af+hz0F1553esZSyxmeJ5BN9wcOJzt+XG/XNdTV+dYKFx8c43BP7/KAQodtv+Kv6k6FPw+L+rrXVUeoHA7FsZc0l3l9/8UCvU3rF8H/Klapfep4f6/fHOtodDQ4JdWhENtF+AUknf6MDU2ZAKkMhQWp1PSkruJHoyPDCCTTMhzemIYK3Nj5oFe5R4jO5nE8EAUI0PxMhQrZBiGoXC0s4jdfBbzU6MCwifnJtIZNA2k0H/rDHboCIfbC9hYfigVYgtZJbbQOFC8/xR2+wG+HK+jsDmLpWxaki30egfNA8XiJwjaBZx9eInT4otypWYf3asNUG/fRwTsPXw+WMWn/WWZJwJxjmoCFO09RCC4g5NCTmCKW/MCxDmqCVBPtChArA5h9tefCtDzmftoaRmCx2NMGM/NsnMV/ra8bBqrQ5jvb5vwbbNRBJEVMgrU2ZUXIG4ah/nHXtO5v2Xwdb0RawsTsKyEWaCu8EYZiCtfCcQqNVvx2gBx9dkuAqXjPsmbvhlJt8fYYCuEu7fgD2wKECujU8MwXe6EOaDuyBsB6osd/wZUmS5XzBxQpOcd2gKvBYhDvbM2je2VJzLQ2mA52JaVcRpKIdSRQ6s/J0pNldaOTw2il/EuROcnULM16jwQNUgDUaUpiqxO/tmkaBC97EFqsLT6zUlTQKsCdLy7JFvGi5oGonXw+mpIHEuiqIH0/FQCVV5BuPpssYNQJSAaKz2MongZkHZ8rn57aMlZIIoigbSHaSBuGI31IpBtz5oB0g5PIG6YBuIM6UsatShoZ6WqDkEp0Z5KIG7YZUBcfw63rzXtFIyO0uUsEn0vis2KcfM4vN6WSVjecRFEapCBtdfBQ6rN/yh+ArX6PYiIXQtWAAAAAElFTkSuQmCC",
     "wiki_name": "Magic cape (Trimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_cape#Trimmed",
     "equipment": {

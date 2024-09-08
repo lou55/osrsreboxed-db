@@ -1,7 +1,7 @@
 {
     "id": 1785,
     "name": "Glassblowing pipe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-18",
     "duplicate": false,
     "examine": "Used to form molten glass into useful items.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYklEQVR4XuWXUUsCURCFnb8hBIJg0INpmBlmGmZkhmhmRmZamZmZFhFB9N9PnF3c3ezds9CBfduHjzvfnZkbifyfGPxPHsPz7QDNahXbqU01lGH+MMT1eQvHByUPKBWLqaAML/d3uGw0sJ/LYT0e1wMtSsVvLRpVAplTKp4MQUr5vAcjADIMu12cHJaxkUh4N0wGQ5FbtRp2M5lfIAIYxnBz0Ua5UAiHxKNeD6eVCraSSWWZGMPb48i74mIYxjDodJwGGDyd5b9WFH887KTT6tMxvI/HuDprOiKLYRi351DkvWxWXyrOqna9HgaRDZ/TqSeyGIYxPPX7jshHxaK+VOw5HJ4hENnwNZt5IsthOBrYjVkm8QZo+JhMPCCKLB6ehu/XuXPN6Q53HeEG6C5YwdcDe4/In78vh+DJrBiGca84ly6WKeiNAIbxO7LYm0VcIPoj9GY5/ts8BDBuFiChgFHlB3PMM7VatyB7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRElEQVR4Xu2X20pCQRiF/V9D6Eow6MIyzAwzDTMyQzQzIzOtzMw8FBFB9O4r1h72lnyBNVAL5np/zHz/YcdifyeG5ZHH8HI3QLNaxc7WphrKsHgc4uaihZPDkh9As4d7XDUaOMjlsJ5I6IHCp+JZi8eVQBY8FW+GIKV8Xgsz7HZxelTGRjKprjAncqtWw14mowQJY7i9bKNcKPgh8ajXw1mlgu1USg/z9jSKSlwMwxgGnU7QAL24nXA87KbTepj38RjX581AZDEM43oORd7PZtVAbla163UfRDZ8TqeRyGIYxvDc7wciHxeLaiDXczg8PRDZ8DWfRyLLYTga2I35TOIN0PAxmURAFFk8PA3fr4ugzOkOdx3hBsiP/v57YO+Rwaz+OQhvhnElzqWLzyT2hll2ZLE3YRwQ/RF6sxontScw/4nyA/wI8EUaOMZxAAAAAElFTkSuQmCC",
     "wiki_name": "Glassblowing pipe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Glassblowing_pipe",
     "equipment": null,

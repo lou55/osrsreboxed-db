@@ -1,7 +1,7 @@
 {
     "id": 19407,
     "name": "Super str. mix(1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": true,
     "examine": "One dose of fishy super Strength potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xt2XbUuTYRTHvT5FOV0+p6ZOb51uUzfzYT5sk75BX6AwhAgyC4qgQkrf9EBiSWaWik9zmm2mbvNpU3MKViC98EX4IvAj/LvPubnTIqhg210d+HPdg5vtx/+cc52zhIT/JwQOpXkInLEn4dzZk7hzWfoboAR6Oszo66rAzYuFDFSUmqoVlJImAuq9a8H1VoOWqRNISUmHXp/KQKRrLfnQJemRlZWrBZRAQYGEkhITw3TfNuHK+TwUGCTk5yu1FOfUCVRW2lBptcFqrYLVdho2WRZLJYxGszZANTV1qKmtQ22tnUWfCY5c0wSosbEJTU0OtLW1o739Ki5caJVdqoZUXKoFEIXgFDmdLrhczZw+tcsIRhOg6upahnE6nZwuDWEoBOrq7DKQi1NHhZ2YmKxFy1MImEzlXEcOh5NP6rKyMot29UMAVD/kTn1DIxc0Qep0+ni7JCBJRtjt9QxE9UMOVVVVw2yuQGZWTrxdElwv5IzaYZS297u7DGQsNfMIiZNLAqfyCrmYHY5DINLn/X2+BiSpFKlpmfFySXB719c3sCsqUHMztb4Lmzs7KC4uQ2FRCZKSTsTaJcGTnEYEFbEK9GTgJZ4NDqG77zk+7e3B6/fz+EhLy4q1S4JvY5pfarv3j4zilduNwclJDMrnl4MDLK6to6jIiOzsPCTrU2LlkrL/UCd1PniE+z1PMeSZwtjMDCa8Prh9s7LkU36mtHX29PDUT0+PmUsCFRU2PO7rR//omAzixfTcPLwLfvj8AcwGgvAFg/AGAgw07PHgRkcnWi618RIXA5eU/WfY7cHU7Bzml1fgX11FIBRCMBz+TtsfPmJgwo2Hvf28sGVkZOPYcV00oQTfL9RdI9OvMRtcxOrGO4QjEaxtbbHCEUXrW9vwyW69GBtHidHEHZeTm/8tbVFKnbJm0GVIBb2wtMJApNBmhEXPy3IxB0NhTMr1NP7Gy2OEoAyG4mjX0aFDBBQMrWFlfYOlQKxxCt8uLsktH8Cte10MX15uZagYrbRKUdP+Q5fir0TvmkwWdijK6VJDSRsB0dj4mXivlh2ki5PePbpbRxlGjaP/4X9PMYRRQv2BP9GP3/HPxlc6H65xsDfCZgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xu2Wa0tTARjHPZ+ivCyvS805PTrd5i4256Zuk75BX6BQhAgyC4qgQkrfdCFZSbYsFW9zmm1L3eZtm+YFrEB64YvwReBH+HeeZwwJggg8OxE98OecwWH8eJ7/c8nK+ndCwLEUDwEXHLm4dPEs7l8T/wYoAd5eA4b6TbhzpUppoFSZCGjwgRG3urRKlk5Afn4RVKoCBiLd7NAgJ1cFtbpcCSgBlZUiamv1DDNwT4/rlytQqRWh0SjiJQFmsxVmixUWSyMs1vOwSjIazdDpDMoANTU1o8neDLvdwaLfBEdZUwSotbUNbW0udHf3oKfnBjo7u6Qs2SDW1CkBRCFwidxuDzyedi6fgl1GIcBmszOM2+3mcikIQyGgudkhAXm4dGTs7Ow8paAE6PUN7COXy81P6rL6eqNyQARA/qHsOFta2dAEmZOjyjSUAFHUweFwMhD5hzLU2GiDwWBCibos80DkF8pMusOobJ/29xlIV2fgFZIhKAHnKqrYzC7XMRDp2+EhjwFRrENBYUnmgKi9nc4WzkoaqL2dWt+Drb091NTUo6q6Frm5Z+SGEniT04ogE6eBng+/wcuRUQwMvcLXgwMEIxFeH4WFavmBaBrT/kq3u298Am/9fozMzGBEen4/OsJycgPV1TqUllYgT5UvF1Tq/qFO6nv8FI+8LzAamMXk/DymgyH4Q2FJ0lN6p7L1eb289YuKZMuSAJPJimdDPvgmJiWQIOYWFhFciiAUiSIcjSEUiyEYjTLQWCCA27196LjazUecDFCp+2fMH8BseAGLq2uIrK8jGo8jlkj8pN3PXzA87ceTQR8fbMXFpTh1OuckoQSeL9Rd43PvEI4tY33zIxLb20ju7LAS2ylt7OwiJGXr9eQUanV67riycs1JwlCkzgwahmTopZU1BiLFt7ZZ9L4qmTkWT2BG8tPU+yCvEYLSamtOHiidIQKKxZNY29hkpSCSXMIPyytSy0dx92E/wzc0WBhKppM2ZWq6f2go/k70rV5v5AzJAEORKhsB0dr4lfiuljJIg5O+zcBtTX/+p/of8sUPqtx5Znm4jnQAAAAASUVORK5CYII=",
     "wiki_name": "Super str. mix (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_str._mix#1_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1799,
     "name": "Silver cup",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-06-09",
     "duplicate": false,
     "examine": "Bob's shiny silver coated tea cup coated with a thin layer of flour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xu2WXU8TURCGOb+CSCIh3nKhP0GjBLEG2tRaainfIiKCiNgggogIQUQUJH40EIIJEEMkaLgwJv61kXfqbM9Ot93dgl4YJ3nTbvfsztN3zjlzqqr+x4mEIX/9lcgna7+eoM5kktWdSlFvOu189mUydLuj40/DFUAEBgACAdlwAnWnq5Pu9nR7uHcsULcjdmIRrksBQVcuXaSWxkaKNTVRormZWqNRarsWrwTKUKylyeWInRQSd2znbChotL+fsoODNHV/hGYejtHc+Di9mJykM7W1YaEMxWORIkckme2OBpJx3R0p1urcHL1+NsMgAHr1dJrikQgDnaurCwplKBFvZigNI+4AADAogZ5fAtOZSTogcGhj5Q3D4fvpmpowLuWBoNZElHUjGfN0R4AcqN8wAjT9YJQe3xt2JjQcA+DVhoYwLhkXCNSWirPa0wkWkkE2gIbBOPfqMpRbWqL5iQl6NDREp6qrg7hkHIhyIOWA5J4NhFJjgm+tveWywbXLF84Hcck4EOVA/GAgPI8/heQvn0yxO7vr6/RuYYFms1kaudUXHEiD6IQaRMPgWbwHZf+4uEg7uRxtrq7yHMKkFucA4wtkw5RKqn+378nzcAdAWF2AWnk+y3uSDeIDgzBFSXu70kXJtTSMlAsrFSAomay2gCASxgUi0gDlYGx3AIT5ggldAQzCOBB9PZlAUBrIdgebK9pQhTAIwyAiPyAvGJnMvLkeNVU01wCrySsMN8SxgYFjAUm5sHNjJ0eXrwDI8O7ppVJQXjAChPOQtBoByy/1wGGcvoMJWE5+QBgDp4dv9vK5iLv/Uf8L6ZJxdWbsF3AH5RPZUNpFEe5hrADBKUDJSSGES4a2P7zn84qAwTEkwBYPIYnMMS9IXGOcgED4Lk6F7PAIw31GNjJ0Ze2WhtOAGlL+EFba2fr68EBfPm2xU+vLy0WnPS84uOgljIUAJKtMYEIAIQz9+HpA33Z36PPGBh8XpA/Z5cSnn6Rv2SAhYSTyL/l5eEiHe3su19bm51koLQRYHCtEcBXlRrs4AZBC5F9QOOl939+ng+1tPs/AOWhvc5Ov4aI9Vrui332sKLy0OKFXci39vhMNnUxLj/+n4hd7HnbiNmp67wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4Xu2W304TQRTGmacgksiFt1z4CholWGtKm1pLLaWl1IqIICISRBAR2yAiChL/kDYNJoWYRoKGC2Piqx35Tj3b6XTb7ZbKFSf50m53tue335mZMx0dZ9GWUOSsU4lysqFbIUqEw6xkJEKpaNT6TMdidC8e/99wFRCBAYBAQDqcQN0fTtCDkaSNeycCrXZETyzCdT0g6PrVK9Tf10cBj4dCPh8N+P00eDPYCpSiQL+nyhE9KSTu6M7pUND06CjNjo/T4qMpWn4yQ5m5OXq9sEAXurvdQikKBrw1jkgy3R0TSMYl4xHWViZD714uMwiA3r5YoqDX6x4oFPQxlAkj7gAAMCiBOb8EJhELWyBwKL/5nuHw/XxXlxuoMhA0EPKzbocDtu4IkAX1D0aAlh5P07OHk9aEhmMAvNHb6w5IB4EGI0HWUDTEQjJIBzBhMK56dSnaWV+n7Pw8PZ2YoHOdnc1AKQuiEUgjILmnA6HUmOC72x+4bHDt2uVLzQEJRCMQJxgIz+OlkPzN80V2Zz+Xo4+rq7QyO0tTd9PNA5kgZkITxITBs/gflP3L2hrt7exQYWuL5xAmdaWMjqGqYOolNX/X78nzcAdAWF2A2ny1wntSkyASqiZpajhak9yUCSPlwkoFCEpWWW2uQlWBiEyARjC6OwDCfMGEbgEGoSyI9EisKSgTSHcHmyvaUIswCMUgIicgOxiZzLy5HjdVNNcWgRQ3xJmxsRMBSbmwc2MnR5dvAUjx7mmnelB2MAKE85C0GgFzCaWsvoMJ2EhOQBgDpyfvpPhcxN3/uP+5BtI7M/YLuIPyiXQo00UR7mGsAMEpQMlJwQWUouLnT3xeETA4hgTY4iEkkTlmB4lrjBMQCN/FKZcdHqG4z8hGhq5sumXCmYAmpLwQVtrFnh73QN+/7rJTuY2NmtOeHRxctBPGQgCqrDJXMBKKfv84pJ/7e/Qtn+fjgvQhvZz4dFKlb7UEokf5T/4cHdFRqVTl2nY2y0JpIcDiWCGCqyg32kUbQMyQt1P06+CADotFPs/AOahUKPA1XNTHtskVpzCTmTqL042/TH8zgcwlTjIAAAAASUVORK5CYII=",
     "wiki_name": "Silver cup (Dusted)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silver_cup#Dusted",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 3056,
     "name": "Mystic lava staff",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-07",
     "duplicate": true,
     "examine": "It's a slightly magical stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xs3Vz2sTQRQH8IQoWvDkRW/2KhYVj6JURD2IYoti/UVF2yiKPwgtailK1FDUSKGtVaq0UCm1lFoRRKOi6MF/xb9Az0++s3wnb18nMdus0oHHbnZn8j77ZnY2k1n5LSvhCN3/5y0r5cGj8nCg08XQzQ4p9R9xQcTMyDmZHj4rU4+7Ayj7EE3DIxBRADEsZvLRGXk2dCqWGL9xz0YclQiZleHbx5agcASEQdB46YSMFI+7vjiGQOiv0V/mB+XTbN/yUAThnNUh6PmD0w7EvrVAGPd5bkC+Ld6V74v3HQg5tre2urDZTYvKzqcmCElDoLF7XR6Ec4y3oNmx8zEQzgmy2U3LxqYBibi48duCAAeC04vxo4UdfmoImn+aTw/EKuFaCMRKElTsbZMfE/vk18Jej3o9ccGDEIlAXBcWhOQWpBc0xm5ct0r6OjdJ5VabfCzv9KA3Ly7GQa9uNA/CdYCIYiXZB2M3rF8rB9rb5Xq+V36WtsrvymF3/e3kpXRBCAA0yC5ooq4eXO2ODPR9P33Fg74u3PGYxCCN4utrQRqza3NO+jvW+KlCoO+Hl9eCIJu9RoueDMnqgfSCZmWKXXEMQZWZwnJB0R6ECv0NxCpizGhPi4vxfMsSEPprkN4UbXbTolc+BEKEQBhTOBRVhYH/0NVJFUQUAgmw4yIBzrkrozI4Ao1xdrpSA+kq4ahB6EcQMbVAc096PAi7NDENgfDmhED8YGqQrU4IhL74bOgKNVgdtCrIriNc1yD0LXdHawcLPgTidOGzkRqIKFxHAoDQjwuZexAwupIahF1ag4iy2QMtAoWmjSD0Obk72on1Dl0LhAd4N3XZg7AHJdiH4iA9bbiG+/u35dwR1zUmBEJ1mgZhsYZAuLdnS85Plf5kaBDXGqcrNZCdNr5VCCTkJ0NPF0HoSxBeeQ3CHpR4HwpNG5PgiXFeD6TXTyqg0LRpEO6FFjSCnw1OV5MgtOo3qV7Y9cOwIGyKGsRIAMpkuK3XCwvUoddPKqBGm0U2gmVU+/6nZpGhsGNWdPsDjOGq+XeA2TwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xu3V3UsUURjHcReLErrqpu66jqSgyyiMqC6iSCmyN4xSi6IXRClFCqtFKkNQs7BQMMREzAiitqKoi/6V/oK6PvGd6Tc8c/aoO7tTdNGBh5mdOWfPZ87zzJm6un+/FVw4Qvf/eCu4of4j7n5fSxSDN5pdsedwFELMjJx108Nn3NTDtgDKf4ia4TFIKEAKHzP54LR7MngyNTG/uedHGpUJWXDDN4+WoTgCUQg0XjzuRgaORX05hkD0t+hP8/3uw2x3dSiBONfqCPT03qkIpL5LgRj3ca7PfVm87b4u3o1AmTD8qZ5aICYNgcbutCYgzhnvg2bHzqVAnFcIKqTSwEQqbn77IOAglF7Gj3ZtT1Ij0PzjzvxAWiWuhUBaSYEGOhrdt4m97sfCngT1cuJ8AiIygVQXPojJfZAtaMZuXLfKdbdscqXeRvd+aEcCevXsQhr04nrtIK4DEkorqT6M3bB+rdvf1OSudXa478Wt7mfpUHT99eTFfEEEAAvyC1qoKwdW/54sDvq+nb6cgD4v3KoUQ0uDLEqvrw+ymJ2b611P85okVQR93z2/Wi2IFj8Zky0HsgWtlRloTWMEKs10VQuK9yBWaCWQVpExo+0NUYx3NpSB6G9BGTbF+JUPgYgQiDFdB+NVUfAfdnVyBQlFMAE7LhNwrl2ZleEImnF+unID2VXiaEH0E0iYpUBzj9oTELt0hRha/IaFQPpgWpC/OiEQffls2BWqCuTXEdctiL5DbXHtUPAhkNLFZyM3kFBcZwJA9FMhaw8CY1fSgtilLSgDKgaF0iYQfU7sindiu0MvBeIB3kxdSkDsQRn2oTTIpo1r3N+3rT46ct1iQiBWp2YQxRoCcW/3lvokVfaTYUGqNaUrN5CfNr1VBBPqk2HTJRB9BeKVtyD2oMz7UChtmoQn5nw5kK2fXEChtFkQ90IFTeizoXTVCKLFaVkp/PpR+CA2RQtSZABV2sqRCls/fxG0XCtHlsf/Vlv7BULdYG26YfWDAAAAAElFTkSuQmCC",
     "wiki_name": "Mystic lava staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_lava_staff",
     "equipment": null,

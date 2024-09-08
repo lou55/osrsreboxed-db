@@ -1,7 +1,7 @@
 {
     "id": 26099,
     "name": "Sigil of devotion",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xu2Xb0tTYRjGPWTmdBiDSYxVysLClKExrMFKRpaZkQ1rrGRUIoVIIf1B+oMvgnrZiz6BL/oKQq/6BL3u6zz1uw/3Oc+ejjLzWRF5w8WzjZ3z/HZd9/0c7eo6qP+vAhPrr1UMMX2paEql02b0zIk/DRZDLD+8ZlJbH0Vzc1MCdX5q1ExOnjKFQs4C6xhcYPq+fG5R+vtXk/r0zvRtb5nZqyVTqYwLEE4BlctlTCaT7gRUYNbXF83zZ3dEL1/URelv2xGQqlw+a4rFggDl89kIaGJ42BdUIJvbIBsbDXmPQ4j4bi9eNDMz5wRIXRo6ecxks0f9AwFgw7DiGDCsKyvXBciNTYFSqSO+YgvM61d3BUKlME+f1ASIFaB6fTpqbp04F8iDS4FsqNLoeL22divS40fzptGomoWFsqlWJ2TaxsaGIqCBgZQ/INxAxIBwA4jV1ZstIjJ1yG5s70A4ws1VwNDES/cuiytEpeuN+QvikA1kj74HICpoASIuBSAixMYjI3l5TWMTWYeAwqamH1RsTG8QDW5w1vCezVVMGt/Vs8jj6AdRj2hTN5tXpF+IR93QCPVzHX3gPQLFpzPj/vbNkqxsTmS1WkUi4jBkzJE2Pu7o40OB9vEICR+I3d2HpIEVanOzKfHh0oP7s+IEU4VLCqVA9I8L9JuTFoKgnp7DIhz58H45giE+GhoxTSpiUqgkh+LTum2XfoXp7+8VERfCLdxBxAaEPYG2bCDiAoh7cv82wHaGGfz563CDiVIQJozIWHEDh3CHBme1gRh7vZfeW/faBSoZCBikU3M8P9gyUfq5xqVgCqTXo52AdumpECrJIRVAiHMH6UGofy0qkH3NPoCoZKgkuHZlg9gwbQJRrVAumLthktyecWG0qYFpA4iKz6IkuRslyb3GdWUPMGGFX7b/c/CjPYO4Zf8aX3L3OKh/vn4Ab0VHvyTy4UMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACq0lEQVR4Xu2W3WoTURSFO1iraUMlkCIhaiFSpVaClVANREuwWmvFGqohWoJailKKUvyh+EMvBL30wifoha9Q8Mon8NrX2frtsGdOxqlM7YxeNBsWJwmdc76stfdJ+/p6tf/Kk0D/rQKI6ctlqVROyfjp4/8aLIBYfnRdMlufVHNzUwp1YWpcJidPSqlUcMBSg/Nk8OuXLmV/fJPM5/cyuL0ls9cqUqudVSCcAqpQyEkul00DypP19UV58fyu6tXLpir7fdsHMlWrZ6RcLilQsZhPA8jTw12QjY2WvschRHx3Fi/JzMx5BTKXRk8clXz+SPJAALgwrDgGDOvKyg0FCsdmQJnMoaSgPHnz+p5CmAzm2dOGArEC1GxO+81tE5cKEAeaLDper63d9vXk8by0WnVZWKhKvX5Op21iYtQHGh7OJAeEG4gYEG4Asbp6q0tEZg65jZ04EI6wuQkYmnjp/hV1hahsvTl/UR1ygVIYfa8LiLgMgIgQB4+NFfU1jU1kKQF1mpp+MHEwvUE0uMFdw3sONzFp/K3dRQmOvuf3iDV1u31V+4V4zA2L0D630Qc+QaDgdmbc371d0pXDiazRqGlEXIaMObLGxx37+TCgPcTW+UHs7z+gDWxQm5ttjQ+XHj6YVSeYKlwyKAOif8JAfzlpHRA0MHBQhSMfPyz7MMRHQyOmyURMBhXlUHA5xob6HWZo6LCKuBBu4Q4iNiDcCXTlAhEXQOzJ/jHAdoYZ+fXtcIOJMhAmjMhYcQOHcIcGZ3WBGHvby/a2s/4AFQ0EDLKpOVYc6Zoo+9ziMjADsufRLoGoDlSUQyaAEPcOsovQ/ls0IPeZPQBR0VBRcHHlgrgwMYGobqgwWPjAKIV7JgwTo6nDFdxFUQofFKXwM7t0Zaeyb5KketWr9OsnQTULiXzxkb0AAAAASUVORK5CYII=",
     "wiki_name": "Sigil of devotion (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_devotion#Un-attuned",
     "equipment": null,

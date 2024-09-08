@@ -1,7 +1,7 @@
 {
     "id": 19980,
     "name": "Light trousers",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "Light tuxedo trousers with matching stockings.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZklEQVR4Xs3W/UtTURgH8O1/kH7ol5SoIMJeIEuon8wkCtN8SU2nzvJlvemcTjPFlyWVMZorRWuisXSIbViRmSYZEfRXPfE9l+d67vFMN3cLDzycs3uf7XzuebtzOPZ/cZI+dPf/eXHSWF8ZPestFTHqL6GA77oIRkRDjTQXrKeZFy4NSn2IjOEGiFEAcaiYyPNamhytsXSMz7inhhWVFtJJwf7ybSjUgHAw6HWgikKDlSIXtQ6EfBn9fbGPvs137g3FILR5dBg0/fSWAHFuMhC+txbrpR/xIdqMjwgQ+jiVnS1C7V0pxrDzUzMInaog+akR4eGbWtB82G0Boc0gtXelOC3TAAQvbnyWQchNvI/S9NgYDXg7yF1dLa7pQIsTd+wD8Sjhmgpamp0VEfD7qaK4WFzDNKqgD1PNJgiRFojXhQrCkzMIeb83NgTmU2yBxp8EyFVZkRSUeNNiBS10Zw7CdYAQyNtcXRWgtY/LNDMeoua6uqSg5UibvSAEplIGrSYSFItEKDo5Ier7TW4tCCP6Ze6eCdpYGjAxaYNkFH5cBq3E4wISHBoUdUdLc1LQyrsHWpDae5KytYV3AmHtYHQ6W1vN+kBWlringr5GO/YKMrYtRihVENYOakzZkZycbSDkyyD5UFR7V4qx5XUghArClM2Gw1Rzo1TUOIfO5OZaQBgdW0GMQqADnLjyLhv0dQoQdtnj9ofbRsdWkDxKqFXQr/V16vJ4TFBbvXE+qaDYqyYThFOaMSmBsEN0IH4dyKA/PzfpbmMD1ZaX0cuRYaoqMf6eqOsHrw15hFIcHZQtkLqOeCvLoKC3gKqLjlN+7kHqc+eT6+oJ7frBa8M2EKNwHR3IoJDvEt0uPUkFeYeop+E8VRYe04JwSssgRqm9a4oB0k2bDhTuLqT2mrN07eJhs1ZByP884zFBOIPSOIesIHnaZBC/XCd6LpO3Nk+0u1znqKzgqAUEeMYg7LLdQOgMuVOPigQEbawhrCcG8XTZBlKnDddV0Nv+K+SpOC3aQy0XzEXNuQBhy8sgnEFpn0O6aZNBaGPnIR+BU5zbvBs51xaQbtpkEO7Jf0vQ5tMcefL6yRCEYjzpbiFj5FBBOBRlEEcaIIeDj/WdQgXKIa8fW0CpFhWZCpZjK/c/FRWpC/U7+7r8BVCNsoqDN5nWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xu3WW08TQRQHcPodiA++GGLUxBiMJqIk+oRIjAapXASEAkW51Bv3iwjhUomKaSxVCGgJmAoNwTaoERFsxBgTP9Ux/9mcdXY6hW67Gh+c5GSmu9Pd387l7Obk/PvFRfrQnf/jxUVTQ+X0eNAtYrK/jPw9V0QwIhJsoqVAAy089WhQ6kNkDTdAjAKIQ8WEn9TR7GSt5cb4jXNqWFG2kC4KDFckoVADwsGgF/5qCo5Wib6odSD0l9FfVofo83J3ZigGoc2jw6D5R9cFiPumAuF/W9FB+hobo53YhADZwuCi/NQMwk1VkPzUiND4NS1oOeS1gNBOE+SyTAMQvLjxWwahb/xNhOanpmikq5O8NTXimA60OnPTORCPEo6poLXFRRH+/n6qLC0VxzCNKujtXIsJQtgC8bpQQXhyBqHfj0RCYN5HV2j6oZ88VZUpQfGXrVbQSl/2IBwHCIF+O5ubArT1bp0WpoPUUl+fErQebncWhMBUyqDNeJyi4TBFZmdEfafZqwVhRD8u3TZBibWRdDEoVpCMwsVl0EYsJiCBsVFRd7a2pARtvL6bKQjl9xbeDYS1g9Hpbmsz6325ueKcCvoU6cwUZGxbjFC6IKwd1JiyQ3l5SSD0l0E2kqKx5XUghArClC2GQlR71S1q5KGT+fkWEEbHURCjELgBMq68y0Z7ugUIu+xBx72k0XEUJI8SahX0fXuben0+E9TeYOQnFRR93myCkKXTxKAYO0QH4teBDPr5bYduNTVSXUU5PZsYp+oy4/NEXT94bcgjlBFIXUe8lWVQoKuIakqOUmH+fhryFpLn0jHt+sFrwzEQo3AcN5BBwZ7zdMN9nIoKDtBA4xmqKj6iBSFLyyAbKAOkmzYdKNRXTB21p+jyuYNmrYLQ/8OCzwQhB9nIQ1aQPG0yiF+uMwMXqKuuQLR7PaepvOiwBQR41iDssr1AuBn6zt0vERC0sYawnhjE0+UYSJ02HFdBr4Yvkq/yhGiPtZ41FzX3BQhbXgYhB9nOQ7ppk0FoY+cZFzW+vbnNu5H7OgLSTZsMwjn5swRtzuboJ6+fLEEoxpPuFTJGDhWEpCiDOGyA0i3JSA55/fxF0G4lGZkc/0t25RcGiWf+Uxlk7gAAAABJRU5ErkJggg==",
     "wiki_name": "Light trousers",
     "wiki_url": "https://oldschool.runescape.wiki/w/Light_trousers",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8871,
     "name": "Crate with zanik",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-21",
     "duplicate": false,
     "examine": "It's got Zanik in it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADX0lEQVR4Xr3XgUtaURTH8WLEKCQJQ0kxU3nG64GWlCtmragmtWCNVmz7//+PO7+3nefxdu9VW9uDH7Rm934897zzdGlpoWvZkNHFnrn6lNqfn/NfL9l02Vx9SG0ujjo2Z/3ERr9mOm92TRaVjYf7bXPcbZqjrGHTT+u2Unejrnn4cmB+fR+YH98O7c/3Nz37+7/ExREAep2aydpVkzYr5vNx0+Zy0LA5P9y2Od2v5QEI7vYqW6R6foQLSLbL+YYn3aoZZFvj/y+brLVpdhslk9Q3zOhk70XkmEFJ710MO2GUroILaNU2TbVczAH9tGIRAmhW1/N+kkiPSX+xvuyhj3xtdcWPQqsB21sbFpG0yjlAVwFEvVLINwpFV1sg7MHve1ktB+3v7EyjKCVlPDtJzPHh+A8PGl7AVmnNbBZX83c4b8Cw+Xph1YJA9rv1MIi+oClpUDlfcMNBOwcSjnORsKFOqbhmTwAQ6wVBNKlG3XxsmbvTtg0wwQmQdxmLC5HqVEoFC6JirBUE0awx1P15Yh4uO+bpeteCpGr0mo4PoWP7cgwGxJsMgmhcUNxJLkpgGvVztGeTpdWZCAnHBZqbh76iLYIgGvg1qHlAQIgcFyOF+UavBkHcTS6KI5yFkls3BBIMkeOiMjK5gyBpXMLM8aF0XwlKbt15QIwP1mZd1qQPgyDb9X8GWT5txyUl0uw+1CwQM4swv5hlnAJvlvXSpBIGcaYuivHPc+h2mJm7s67N/XlvCiWzRKdYeJ9DXBCtQVvwJqMghtg8KEAPlwc2j9d9W/aVlXcWoRMDybFFQXT+a1Ay3BYFcWxREN3/GpQMNxcVAzGDWDcKkjvq+S6bjQJEZLi5IBcFSIYia7NuFCSf7uQTH7clH6TY0EXpKslw86GA+OYQJ0GVoiCZznpC64EogwyAPjrQPpCG6EmtqxQFycPVh9EPWPL4tW9xoGTaStzHhh6QgHSVoiBmg1QphGEyS3hsEL5VxCA+kFRJnoNekNyKUqUYRoM4Sl2hUEBpEA9ZIIJ5AZIHq66SixGEDt+/3M19kSoJQkNeYJ6vyQt1lfST3Rf6yd3cFx8iAJlckxdNcFTJ/VBG5N98CXQ3nwVx953r8uGIRsVAbwbxXdOLTsNc0D+FhC4NE9BbQ34DYNEOSIFrT8MAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xr3XD0taURjH8WLEKCQJQ0kxUbnG7YKWlCtmragmtWCNVmx7/+/jzO9xz/Xx7JyjttaFH/T3nI/Pee5zdWVlqWvVkNHlvrn+lNqvJ3nTSzZdNdcfUpvL447NeT+x0X8zm1e7povKxsODtjnpNs1x1rDpp3VbqftR1zx+OTS/vg/Mj29H9uuH2579+T/i4ggAvU7NZO2qSZsV8/mkaXM1aNhcHO3anB3U8gAEd3edLVM9P8IFJLvlfMPTbtUMsp3x78sma22bvUbJJPUtMzrd/ytyzKCk9y6HnTBKV8EFtGrbplou5oB+WrEIATSrm3k/SaTHpL9YX/bQR76xvuZHodWA3Z0ti0ha5RygqwCiXinkG4Wiqy0Q9uDnvawWBlFKynh+mpiTo/E/Hja8gJ3ShtkuruevcNGAYfPNwroFgex362EQfUFT0qByvuCGg3YOJBznMmFDnVJxw54AINYLgmhSjbr92DL3Z20bYIITIK8yFhci1amUChZExVgrCKJZY6iHi8Q8XnXM882eBUnV6DUdH0LH9uUYDIgXGQTRuKC4k1yUwDTq52jfJkurcxESjgs0Nw99RVsEQTTwS1CLgIAQOS5GCvONXg2CuJtcFEc4DyW3bggkGCLHRWVkcgdB0riEmeND6b4SlNy6i4AYH6zNuqxJHwZBtuv/DLJ82o5LSqTZfah5IGYWYX4xyzgFXizrpUklDOJMXRTjn+fQ3TAz9+ddm4eL3gxKZolOsfA+h7ggWoO24EVGQQyxRVCAHq8ObZ5u+rbsa2vvLEInBpJji4Lo/JegZLgtC+LYoiC6/yUoGW4uKgZiBrFuFCR31OQum48CRGS4uSAXBUiGImuzbhQk7+7kHR+3JW+k2NBF6SrJcPOhgPjmECdBlaIgmc56QuuBKIMMgD460D6QhuhJrasUBcnD1YfRD1jy9LVvcaBk2krcx4YekIB0laIgZoNUKYRhMkt4bBA+VcQgPpBUSZ6DXpDcilKlGEaDOEpdoVBAaRAP2QnEg+GSB6uukosRhA6fv9zNfZEqTREByPSa/qGukn6y+0I/uZv7siAidE1xVMl9U0bkez4Eupu/IsR36RKvzqBioP8ACV2zMBf0hhD3mmwsoNeG/AbFUslpWWNjsQAAAABJRU5ErkJggg==",
     "wiki_name": "Crate with zanik",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crate_with_zanik",
     "equipment": null,

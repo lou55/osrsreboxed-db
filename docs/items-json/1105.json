@@ -1,7 +1,7 @@
 {
     "id": 1105,
     "name": "Steel chainbody",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A series of connected metal rings.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/ElEQVR4Xu2X/0pCQRCF8ykkJdMkwwx/hFlRplFmZlRmRkT0/m+x8e3t2HbVirrTXw4c9u6IO59nZ+/iysoylvGvkXKRFsV3nycWUaHNQsFt5HLvRWe1ns16GYOl3G616rZLpSnQIgGzlsm41XTaywgq5XbKZQ900en4EW0Vi1ORXwRUz+eThkq5/UbD1SoVd3na9cWPWy0P2T068nDKnxwceKjrXs+Nh0MLoGi7KM6Iztptt1eveUA5h0vKy6Xbft8GSMUZD5tN7xZg5HgGKsyzdTiIWyZAFEIAaZQESh6XaHqB45IJEItLIZy2ML51Ook6/okDYb9EE8ehAFJzC0jNbQLE4jpZFKZ5mQPEM1BhHijmZj3E4ioAFEf86vxsxiXl5RKAJkD65YhnSfN5ef2Aj2smsYiA4i6FTR66FG9uOZSgSxHQ5ObGA40GAy/ewgAxAhXmgeKlaPZiZAvoDzlEUQDllFxSPrz3zIBoVpwCTM0LECNQYV4NjsyAEBcmBXEJMdcYnjrNcckESDd52Nzzmnxeg5sBPd+Pps2Nnu7uPBDPQIV5oGhwnDIDenkYe5fUuMwBZA5YmBeQ2YuRfqCAegkXXh8nn7YRl5TX1pmdMoB4p7AFPxXfMTtlLK4CXym863AHlwyAiNm/Oz9VwtfGR2jh3yi+1jL+Gm9adKaoJZVDTAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6UlEQVR4Xu2V7UqCQRCF9SoiJcMkwwzNMDPMNMzMDNPMiIju/y42nn07uvlREY5/cuCw706083h2djcW28Qm1hpxF2lZ/PT3lUVUaD+ddnup1GfRee0mk17GYHF3Uii4w2x2ArRMwOwkEm57a8vLCCrujnI5D3TTaPgRHWQyE5FfK9BZqeSK+by7vWr64heViods1moeTvnLatVD3bfbbtTrWQBF20VxRtSq193pcdEDyjlcUl4uPXQ6NkAqznheLnu3ACPHN1Bhnq3DQdwyAaIQAkijJFDyuETTCxyXTIBYXArhtIWzW6eTOD3+K424t1+iiWehAFJzC0jNbQLE4jpZFKZ5mQPEN1BhHijmZj3E4ioAFEf87ro155LycglAEyD9csS3pPmivH7A9JlZWURAsy6FTR66NNvcK4YhIqBxv++Bht2uF7cwQIxAhXmguBTNLka2gP6QQxQFUE7JJeXDd88MiGbFKcDUvAAxAhXm1eDIDAjxYFIQlxBzjeGp0xyXTID0kofNvajJFzW4GdDr43DS3OhlMPBAfAMV5oGiwXHKDOjtaeRdUuMyB5A5YGFeQGYXI/1AAfUSLrw/j79sIy4pr60zO2UAcaewBb8V/2N2ylhcBb5T+NbhDi4ZABEs+ldt4h/EB71DcC5UGhJuAAAAAElFTkSuQmCC",
     "wiki_name": "Steel chainbody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_chainbody",
     "equipment": {

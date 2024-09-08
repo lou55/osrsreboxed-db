@@ -1,7 +1,7 @@
 {
     "id": 28571,
     "name": "Trinket of undead",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-08-23",
     "duplicate": true,
     "examine": "A magic rock! This one gives you random thralls.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4Xs3W3UsUURgG8N0rUcIQJQkvVCTDDL8wM4zoP7AoKiqKioK6C0MRMfoQqRRBzKJgxUBMxISgiyiK+stOPGd4ju95fafdacfwwMPOzpzZ89vzNVMo7P9SdHas63teim5u6oJ7OXneZ3binJt5NOpDxNriLfdh4aZbmb9hoPSfqBqegIgCiNGY0qvr7u3s1ahhfMc1nRiVCVl0C9MXd6HwCQhD0PLMFbf45JKvi08LhPoS/WNzyn1bH/s3FEE4Zu8Q9P7FNQ9i3TQQ7vu+Mel+bT91v7efexDa6Gtr89Gtq5J0O/81QWjUAi09uxxAOLZA60u3IxCOCdKtq1KMhgENcXLjuwahcSA4vGmgzTd38wOxl3BOguScKJdP7+4FEJIJxHmhQfjnBKHe0Y6OKEfa283U1tT4+hHo43j1IJwHCHWOdXZG0TgJ3BMQgqHE9d7ubne8qyuk1FgbooEAHairi0A/tx4HTGaQROHaQE9PCBFbq6s+Fgqgg/X1qSDdekpJJiJWDEH4fqKvNwQgQnSIygmU7EHoIYJw7tTgoM/J/v6AYuPlQI0NDRFIboq6dVWSJS9BOHd6aMiHIKLkMGmUBB1qasoHhO+YwGeGh02UBMihxESXoNaWlrDSqgahAYA0iiGIvWaB5BzCLk1MRSCsMIJ0L0mUhkkQtwWgDjc3+9/4uvYwDFmFvYOyA9K9dHZkJKAsmJzsRGGocD8eG7mBZC/JzVBGzy2i2DufS/cjEFG6daMkID1sXG1pAVb3FnsHrx1fVh4EEPagDPtQDJLLH+fwUEUD+MR5PlJwHyc/UJjMOIfnXtUgrLJyILzfyHcg7uQYPvQWjlE3V5AeNpyXIL5NEsQdnb9B0MbrOxEIe1DmfcgaNgnCsQVCcB/ArJsLyBo2CcI1+VoiQajHl/ocQCi7V5EViZHRILxLSxCTAVQocFv/WzRQRs6fXECVFo2sBMvs1P1PRSOt6Hv2dfkDJ5gWNRlKT9YAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xu3W3UsUURzGcfdKlDBEScKLEMkwQzPMDCP6DyqKioqioqDuoihEil5EekMQe6FgxUBMxISgiyiK+stOfGd4ht85ezZ3nDG66MDDzp45s/PZ8zbT1PTvl4qLJ3Z+00vFPZ884Z5OHE8yffeYm7p9NIkQi7OX3PuZi27+xYUIKvwTheEpSChASoipPjvv3kyf9W7Md86F8VG5kBU3c+9kDYpPIIpAr6bOuNkHp5K2fMZAtLfo7yuT7uvSrY2hBOJYvSPQuyfnEpDa1gNx3bflCfdz7aH7tfY4AeXC8KP61wJx0xho7tHpDMRxDLQ0d9kDcdwgqOINAzfS5OZ7COLmIDS89UArr6+WB1IvUWdBdk6sl49vr2UgkgukeRGC+OcC0W5Xb6+XnT090bQ0NyftPdCHO8VB1AOize6+Pi8hzgI3BUQYSs4PDQy4Pf39WaodLVlCIKAtra0e6Mfq/UYxFB9kUZzbNziYRYjVhYUkMRSgrW1tRUCUdCKyYgTi+/69Q1kACRJGqJJA6R5EDwlE3cGRkSQHhoczlG6+Hqijvd0D5dgU0yVvQdQdGh1NIpBQdphClAVt6+wsB8R3JvDhsbEoygLsUDLRLWhHd3e20gqDuAGgEKUIpF6LgewcYpduEENJV5hAYS9ZVAizIG0LoLZ3dSW/8WXxZjZkGwKFvXRkfDxDxWB2sgvFUHE9j43SQLaX7GZoE84todQ7n6rXPVAOVAoKh02rrV7Ahr2l3uG14/P8jQzEHpRjH/JBdvlTx0OVG/BJvR4pXKfJD4rJTB3PvcIgVtl6IN5v7DuQdnKGj97imLalgsJho96C9DYpkHZ0/YZAyy+veCD2oNz7UGzYLIjjGIhwHWC1LQUUGzYL4px9LbEg2umlvgQQpXYVxWIxNiGId2kLUnKAGi21SMXOn78I+lOpRdbmfylWfgPdhcuaXsmrYwAAAABJRU5ErkJggg==",
     "wiki_name": "Trinket of undead",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trinket_of_undead",
     "equipment": null,

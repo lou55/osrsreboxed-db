@@ -1,7 +1,7 @@
 {
     "id": 2364,
     "name": "Runite bar",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-08-13",
     "duplicate": true,
     "examine": "It's a bar of runite.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xs3WT0sbQRgG8OQT9Cj0JPSkp956EHr1WK3FFrUVFRWLF7G0iFhaFdG2CKK2qCgIoiH4B0FKaanYTzbyzPJs3nl9J+4ma3HgIZvd2cwvM5M3Wyrd/1Z2dqzrd97K7utsj1uZ6fZZ+tDlFt898yHiYG3I7a8Our1vbwyU/hJNwxMQUQAxGrP7ZcD9WOoLBsZ7XNMJUbmQZbc69+IGCq+AMARtLr5ya596fV+8WiD0l+i/1Vn3+3C6MRRBOObsELS93O9B7BsD4b4/lRl3dfrZ/Ttd8CCM8bi11UePrloy7fzWBGFQC7Q+/zIF4dgCHa4PByAcE6RHV60cLAMG4ubGew3C4EBweWOg6vfR4kCcJZyzQJxJgjBrGnSyNZaCkFwg7gsNwuAaJDcqEgOd7YyHoKP3zYNwHiCi0Lf9aWcQwjTofHeiWBCCpSTIwsRgwP/cn0xBl8cfU0xukEThw7Ngnjx/7SNhiAXSo0dabT9oUFaMDK/h3gZASQ3CDGlQo5iO3mEfgmRR1KOrlvzkLZDEtDxqS5MVUxgIiWFksmC4hxoGEUWQRsRAFubXwZQHoUoTkwmEX5gFetDyMI01W/Uw+NsgCDOUcXbQaiC5bBpk4RiNQZnA30ZhIKQeSEZjUBABQpWWIKL06EZLQLFlYzREg9CHFRqPHRd7b1MQalCOOhSC5LLhHAeI4SSGVb1pEH5lt4EwGJ+BJI5fiLNTKEgvG85LkHwGQuHk/x7uY1+AKhsjAQg1KHcdspZNgnBcDyT3TyEga9kkCNfkY4kEoZ/cP02C0MI9EYvEyGgQiqIEMTlApRLLer1ooIzcP4WAsjaNzIJlan3/U9NIK/qee92uAfS5Pg0cWg1DAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZklEQVR4Xu3WTUsbQRgHcPMJPApePekX8FDotUerFlusVppiRfFSKi0hVPoi0jcCIa1iRUEQlWAjQimlpaX9ZFP+u/zXZ56dWWdfFA8O/Mlmd5L5ZWb2yfb1Xf1WM+64rl94q5kPzUnzrjEeZf35bbO2MhaFiP32Q7PXmjO7Hx84UPpHlIbHIKIAYjRm5/2M2VyftgbGe1zTsVG5kDXTenEnhcIrIAxBn9fumfbLqagvXl0g9Jfo392m+XnwtBiKIBxzdgj68vZ+BGJfHwif+3XUMH97r8y/3psIlAuDL+WvJgiDukCd13cTEI5doINO3QLhOBBUs5YBA3Fz470GYXAguLw+UHdjvjoQZwnnXCDOJEGYNQ36uvU4ASG5QNwXGoTBNUhuVMQHOtlesEGHz8qDcB4gotB35OYtK4Rp0OnOYrUgBEtJkAvjgwH/fW85Af05Xg3FoNkgicKXh2BGJ2ajSBhSEIR2th80KBQjw2v4bAFQXIMwQxpUFHNjqh6FoBxFMb7lXSCJGRgaThKKqQyE+DAyIRjuocIgogjSCB/Ihfmx/yQCoUoHYtDiO8wF6h8YTOKarSwM/jYIwgwVAsll0yAXjtEYlAn8bVQGQrJAMhqDgggQqrQE5UDFIN+yMRqiQejDCo3Hjm+7SwkINShHHbJBctlwjgP4cBLDql4ahLvsPBAG4zOQxPEHcXYqBellw3kJks9AKJz838Pn2Bego0+PLBBqUO465Fo2CcJxFkjun0pArmWTIFyTjyUShH5y/5QEodl7wheJkdEgFEUJYnKAQlsaycj9c4mgrJZGpnPdyrX/qrXzclCvHLoAAAAASUVORK5CYII=",
     "wiki_name": "Runite bar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Runite_bar",
     "equipment": null,

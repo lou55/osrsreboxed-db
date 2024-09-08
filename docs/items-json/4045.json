@@ -1,7 +1,7 @@
 {
     "id": 4045,
     "name": "Explosive potion",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-13",
     "duplicate": false,
     "examine": "I could use this to destroy things...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xt2X3UuTURzHPTG2hwdvugyplNBaLzSTOZsL7cWXprOmVstJojRTJmNiNaeU9CIlCpYhRFEQYdJFOoToIoIu6iKCIAj6c775O6fz7OzRm+DZGfSFL4O9nQ/f3/ecs5WV/R9iKHRJxZC4vA8XOvagJbQLxw7vLDUUw5snIbx+1Mg9ftWLeLSqlFDMgnkx34DU4H7EuvZyIF9lpW4o0RkJ9PxhAMkrNXx8JegTQ6SrB9HoJSud5ft+jPRXo7t9N+rrGxFsPKkTiqGvb2CLOyM9aGmNoKm5FT6fX+foNnfX8Aj38PCo5XBHFKfPhOH3B1Fd49ULlB6fsJxKpZFMptB+9hyOB5tx8NBRVFSILmkCIjGsrKwil9vA+noOa2s5Pq7a2nqr1ASjFWhwKIFMZhJTU9PcNK66uoZSwJAYxsZSyGazfz1l9UfzqKQYfi+V84Qyk1luGlkgcAIHvEd0bnkSw6c7Jn49LrdMcLNxD8bCbkT8Lp0pbZ7OaQM/F/Mw5FcpAwsDHqQ73egNutDmE1D2TxdBDJ/vmRxImoAIcmnIg5vn3Yg3uXSlxLA6buD7fB5Gmp5fThi41evB0CltKYnu/Fgo51aB3l438GzUwN2YB4lWLSkxvui3OQFjN732Mmlgrl8Ue6DZVeyUGD7cNvm4yHagdzdMq9gTEXexUxLpfJkVMKol0HrGtIqd7XYXOyWG99MmH5cdSHoja/JiP71mYOZiPqVYyPGUxM6iMhOQ6u2AZLHVlKIBF9qdS4nxcXx9UAhjB6ME1WLT9ldTCtc6lhLDxxkBJG0HIlPhZbEXBz08JTok1ZQc7BIrANoOjKBlsemAVFOi3Rby7rASciQlui6kabeRVTjqmNojumjpXqNx+aochZESvwIpCVpchbMDSRi5u4oAIyS+UP7nEteIhKJHKjbBjLa5t4A4DqMqv0Aezm4tINtJXdhu+3v/VX8Ax7ryB6wFEBEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xt2V32tSYRjH94bo4bCbLmNUjNjKfpA21OWMrR9z5ubKbS2bI1HSJoo4VjkdNfoxamywWgyiKIhYo4umDKKLCLqoiwiCIOjP+dbznt7j0Xl5PAf2wAdBwfPh+3zf87a07IxhqMXUYUheOYBLg/vQ79uDE0d3my3F8PapD28e93Cmr9kRDbebKcVUmZdL3cjFDyIyvN8sIaUzQujFIw8yVzv5+kzoE0NoeBTh8GU1nbUHLkxNdmAksBdudw+8PaeNlGKYmIhtYyg0in5/CL19fjgcLmOFkqkpTiqVVgkOhnH2XBAulxcdnXZjhfLTMyq5XB6ZTA6B8xdw0tuHw0eOo61NdMmwYVhf30ClsoVyuYLNzQpfl9PpNqPUNAzxRBKFwixKpTkOraurq9sMGRqGbDaHYrH4n5LaH9OE/qy28oQKs0UOrczjOYVD9mNGSzF8vivj95NWFZJbiNqQDVoRclmMFPr3ds5L+LVSlSFe5yQsx2zID1kx5rVgwGGYFMOX+zIXEpAQSa4mbLh10Ypor8WolBg2piX8WKrKCOj7taSE22M2JM4YlpLSnZ/LrRyt0LsbEp6nJdyL2JD0G5IS4w/9vqjI1EO/vcpIWJxUih3rszQ7JYaPd2S+LqJe6P1NWS32TMja7JSUdL4uKDJahFC5IKvFLo5Ym50Sw4c5ma+rXkiwVZR5sZ9dlzA/Xk0p4tM9JeVkUZlJSEsjIVFsbUphjwUB/VJifB3fHtbK1ItRgtpi0/HXphR06ij0aV4REtQLEVR4UeyVuI2nRC9JbUo6donVCDUSI2lRbHpBalOi0+az79JLhka5LgR02gitHHVM2yO6aOleo3U52nWVEUN/qKyPHq6VqxcSMtXTpbuMdsQDlGtESNEnFZtk0gNWI0QaTVVuOztw/gJAOrz8BQl+eAAAAABJRU5ErkJggg==",
     "wiki_name": "Explosive potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Explosive_potion",
     "equipment": null,

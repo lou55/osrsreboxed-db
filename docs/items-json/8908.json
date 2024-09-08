@@ -1,7 +1,7 @@
 {
     "id": 8908,
     "name": "Black mask (7)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": true,
     "examine": "A magic cave horror mask.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xs2XfUsUURTGd/8sRAlFsSXXNjZJ/KNvUlFUVBQVFUUEURQiRS8ivSGIvVChYIiJlBFERVHUJ7v1u8MznjnO1r5M4YGHuffOHc5vzzn3zGyptPGtHPKVd/+fWzk8nNgf7o/vi5q6vjdMXt0TJYjFmZNhYfpEmH90PAfK/4iOwRMgQQEkeZi5B8fCs6kjGcfMueeVhWoJshymbxxYB8UVEElATyYPh5lbB+NernlA7LfQ31YmwpelK+1BCYixoiOgF/eORiDtbQTEc1+Xx8OP1dvh5+rdCISP3cPDUd67syTs+tUCwmke0OydQykQ4zygpdlTGSDGAvLenZUzacCRipu5B1IKlN5GQCtPzxQHpCixJiCBdHVtjrL1QdQ80NvnZ1Mg1BKQ6sID2dPU39+Xqrd3S0baY4HevTyXBXp9rXMggQwODoRabShUq5WwrbI1zpEF7OnpzkC9nztfLBDrcgwEMH19PVGCAkZjrgIixR8XLqZA39/cTGFaBhIU6wJBREhANlKsj43tCpUKkUzSB9CnV5dygbz3BpbUACcGIMFIHkpAaGRkR6jXK/EZq8+Ll9sFSnoQEQKIuQC8fJSURgtCLameBGSbovfuLDnyHgjHf5MAVNi2yFFhQIIiFaOjO2N9VIcG4tyCCEyFz30bKZuytoFslIBB1omPkq0z7uuELT8+nQLRpQXTFBAnzAOpsK18LWndtgDmdHZeGzZCTUYHWwOyaRMQDQ9HANTr29fVkNqDwATFa6MwIJs26kKijrQmIH16KIJEijFd2gIJynvPsQQoL23RyW8IirpWG8xEpBEQYvxh/kIKRA9qoQ9lgWzaWEt+VSLW9UqxURIQ8+7uTZ0DccoaAXFi+NDi9LCmbyAPhagxruwvBMinjXULpK9JZIuZ59jLmBPGkbdA9KCW+1Be2iwQYw+kFzHPqf+wtxCgvLRZIO7ZfyUWiH0AEZ0CgLBsA2wkC2PlgWiKFkhqAahUUlv/kzygFZFU/RQC1Kx5yGZgpbW9/8k8ZJ78MxvafgHRm96rXOdhigAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xu2Xa2sTQRSGm49KSZCGlhhsMBKLpf9FRVFRUVRUFBFEUUpRvJTijUKpF1RaqJRailYEUVEU/WWjz6zv9uxkU7ObtfjBgZedmZ1knpzzztlNX9+/30ouXWn3/3oruQcT+9y98b1eU9f2uMkru70EsThzwi1MH3fzD4+lQIU/omfwCEhQAEkhzNz9o+7p1OHExoy5FyoJlQmy5Kav72+D4gqIJKDHk4fczM0Dfi3XNCDWW+ivKxPu89LlfFACoq/oCOj53SMeSGs7AfG5L8vj7vvqLfdj9Y4HygTDl+pXC4hN04Bmbx+MgeinAS3NnkwA0e8SqJRIAxvJ3IxDIKVA6e0EtPLkdHFAihJzAhJIf/9mL+sPohYCvXl2JgZCmYDkixDInqbBwWqsgYEtCWmNBXr74mwS6NXV3oEEUqsNuWZz2DUadbetvtWPkQWsVMoJqHdz54oFYl4bAwFMtVrxEhQw6nMVECn+sHAhBvr2+ka3MLQkkKCYFwgiQgKykWJ+bGyXq9eJZJQ+gD6+vJgXiBZ5gBMDkGCkEEpAaGRkh2u16r83XNOnxUt5gaIaRIQAYiyAUGGUlEYLgpfkJwFlKIrRkQ+B2PhPEoCMbU2OCgMSFKkYHd3p/dEYHvJjCyIwGZ/7NlI2ZbmBbJSAQXaTMErWZ9zXCVt+dCoGokp3CUOLTlgIJGNbhV7SvC0BjKnsPDZshHIB2bQJiILHRgC0WtvbPKTyIDBB8dgoDMimDV9I+EhzAtKrhyJIpOhTpS1QBqgIKC1tfpNfEJi62awlItIJCNF/P38+BqIGZahDSSCbNuaiL4nEvB4pNkoCYlwub+odiFPWCYgTw4sWp4c5vQOFUAiPcWV9IUBh2pi3QHqbRNbMfI619DlhHHkLRA3KXIfS0maB6IdAehDzOdUf1hYClJY2C8Q9+6/EArEOIKJTABBtzbjrycJYhUAURQskZQDqtrVDSkRS/tlAoPVaO2S7/rfe2k+Hl5QfqEb1BAAAAABJRU5ErkJggg==",
     "wiki_name": "Black mask (7)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_mask#(7)",
     "equipment": null,

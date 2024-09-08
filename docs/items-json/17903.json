@@ -1,7 +1,7 @@
 {
     "id": 17903,
     "name": "Mind shield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-02",
     "duplicate": true,
     "examine": "A magic shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRklEQVR4Xu2W8UtTURTHd34KRTbGRsM39nKKiRk1R8ugVgoqJiMdNiiNbIgpWRlDI8VkiCj9FNEvRdEPgRQE/RAkUVEUBEF/1Dfevdy9tzty57k37Id94Px27n2fe857512fr0GDBv8dBDsOFCmxORFGMRvGw7HQQUlJkRf5VkdlZCTa2kToK2w8Fya8mrFFlIAz9BU2hPTRJi+rSHi/dLxCRM/aG8KZDk+kCLurJ5ltqQYhFT/kaLVrCJ/XvJJREE53tOynhYSv6wkXMtxTSyHVvur7Cghf7pv4udHLXETYutqO3ngLWyrdHXDzTlGZDEfozWKPODnvABaEoRNBTj7h2wMTvzaTnGQH3HlkIWUGups4VSL8WDXxZ/uUSyGfjydjQbiYCAkhxiFkhX5vuRfiI4XUl1blGVLIClUlPaM2COOpMDJJtpBFPatEuNwXxlBPM6ddinpViTB5LlIhpGf9AzmLPi3FSl+cnsFHDU0pdClhjwcXQhaEj4WYiO9FOZf0jL2REvPDBvL9rbh+PiKEskk386oCwod7URHqv8aNxdEoFkaimB00cCPtx7Wzflzp8yOXqknIQj7g3e0o3t4yxFVk584xvJzrwtN8Jx5NtaOYi2Nt4ghWsiaWx0wUMjEhNDcQwMyFQElI7bWPdpUjFxN25g0Rr28a4sL2fLYLj6c7xb/MKXV3OIiFwWBJSBepSaYcubElY11ln01H8GQqgu3cYXG/XsmEsDwaQmEkWJKqk4iNqhY36iai4zx1tdDXNvCCv6q2ud4iASqRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xu2W70tTURjH97wKQzbGRsM7dmOKij+wOZwGtVJQMRnp0EGmqEN04ipjaKRYDBGlVxG+KQpfCKIQ+CJIokJRCAT/qG+cc9h2VcRz7u5FwX3gefec53zOc+459zgcJUqUuHYQCnGlCImVAS+ycS/e9XmuSkqIfE1WGDoj2yGZHCUIGxNGERUI0ZoyE+MuhLA711hkQcL9KkukCHuL96wo5GA1IsFbJrvMIfxeskomB6G1qtzMFhL+vg8pDJJdtRBS3D7Cnzc6jpabJQcRVocq0Rwsl86P1rlUpEhBhkHYnm3gK1cZ09Xklskn7L/V8W8lLJNsQHbLGEKmo65MpkuEw0UdJ2stlyUWAeFJyMOFJOYQHTpetV9I8qQJIRb2dInQH/EiFpYWYtjZJcJgmxddDbdVatvVJcLzhz4zQgxxF/2aC5g4cWfJnUAh9DSkcj2cgvAzE+BxkFW5l3IIieluDcn2Cow+8nGheNi0EIPw47WfR+G/JhezvX6ke/yY7NQwHnVi5IETz9qcSESKEmKICb6/8GNnRuNPka2X9fiWqsV6shofhiuRTQSxNHAXC3Ed8306MrEAF0p1uDDx2JUXKghbAmFrWuOxOaXxB9uXyVp8HKvm/zKj1KtuN9Kd7ryQxSJGRGEmw56yn8d8+DTsw1riDn9fL8Q8mO/1INPjzkvZJHKW89/MxVHihvAfcC1eHj4opjoAAAAASUVORK5CYII=",
     "wiki_name": "Mind shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mind_shield",
     "equipment": null,

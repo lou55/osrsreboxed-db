@@ -1,7 +1,7 @@
 {
     "id": 24497,
     "name": "Jar of dreams",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-02-06",
     "duplicate": true,
     "examine": "With this jar, your dreams can come true!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xt2X3UtUURTFvf+ECIGZEAqKjB+NX+OMOqUPPmRFmYFp9oGRaWZpZFlo4EsPlfSFID5YgQQ+WQgiWqZIaGKiiGYqommmoZlmD6tZW45Nd/Kt40AbFnPgHu76nbX3PTA+Pv9PGfi7vFIGosPDEREWJr82qxXOhASkOBzeADOwPzUVx48cxvmTucjNzMTR9HQcSkvDsYMHNtfbCGYgJyMDhadPbalzJ3JwJitLYLcBysDZ7GwPCHcxObWH+y0BAbqgDPj5+noAmFWcl4fS/Hxcu1CIHX5+ulIy5OWBO3d6AJhhrhYUoPxikQDtDgzELn9/HVCGvDw0OFgMabwVzM1LxbhVWipAIUFBuOJKS0PrDHm5JSQEVWVlYkhjBcP1ncoK1FVX435VFW7fKMceiwXhoaG4XlSkB4gwkbx7IiLElAA05pogz2pq8LyuDvUPH6D23l3EREbCGm5BZUmJHiBehFbXRRgXFYWEmBg8ffxIQBpqa9H4pB5NDQ1obmyE02FHUoINtuhogaoouawH6G3HazGgkSMuTkxpvjcpCSnJyaJ9rrXTdWMnuW5uR3y87NUG1P2qHR9HRmCPjUWizYZku13MCaGAKGdiojzjHoJrBfowPIzlpSVJgOnQfBPG6RQxMT77urCAz7Oz+oFo9G15WdJxb5cCWl1dFWjum5uZ0QfU1dYmQIvz82JI45/r6x76vrIiz7nv0/S0XqDRoSF8mZvbTIkAP9bW/hCBlhYXZd/M1JReoJHBQWmDSklBMC0lgqr5mRof1wfU2dqK4YH30gaenim4gzAZ8/xMjo3pBRrs65M20IymhDCLoEyQ+yZGR/UBdbS0YKC3V9rAlGjK9pil5md6ckLuLQXzz4Ham5vR39MjbeDpaUoAtkjJPD/8CDSkwzLQ9vIF3nV3Sxt4epoSgolQCkp97gTnR6ANqLWpCb1dXXIX8fScIwXjLjU/bBc/Ak1ALAM9nW+kDTw9U2B73OU+PwQf6u/XCcQypA1smxpsJQXF5JigxoE218Z/LjXYlDsYQflM4/x41oaJsQnkDqaAtykdc5n/2/+G8ALMRpkBvAKhq34B0jd5vXWic8cAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4XuWU3UtUURTFvf+ECIGSEAqKzKj5OR+OU/rgQ1aUGZhmHxiZZpZGloUGvvRQSV8I4oMVSOCThSCiZYqEJiaKaKYimmYammn2sJq14Qy3mXw8CrVhcQ/cw12/s/a+JyDg3ykDf9eOlIF4qxXRUVHytMXFwW23I83p3AkwAwfS03Hi6BFcOJWP/OxsHMvMxOGMDBw/dNC73kYwA3lZWSg+c3pLnT+Zh7M5OQK7DVAGzuXm+kGYxeTUHs1ABoICA/0AfFVaUIDywkJcv1iMXUFBuqAM+XhoSIgfgC/MtaIiVF4qEaA9oaHYHRysA8qQj0eGh4shjbeCuXW5FLfLywUoIiwMVz1paQHixy0REaipqBBDGisYru9WV6GhthYPampw52Yl9lossEZG4kZJiR4gwsTw7omOFlMC0Jhrgjyvq8OLhgY0PnqI+vv3kBATgzirBdVlZXqAeBHGeS7CpNhY2BMS8OzJYwFpqq9H89NGtDQ1obW5GW6nAy67Dbb4eIGqKruiB+hd1xsxoJEzKUlMab7P5UJaaqpov2ft9tzYLs/N7UxOlr3agHpfd+LT2BgciYlIsdmQ6nCIOSEUEOVOSZF33ENwrUAfR0exurIiCTAdmnth3G4RE+O7b0tL+DI/rx+IRt9XVyUdc7sU0Pr6ukBz38LcnD6gno4OAVpeXBRDGv/a3PTTj7U1ec99n2dn9QKNj4zg68KCNyUC/NzY+EMEWlleln1zMzN6gcaGh6UNKiUFwbSUCKrmZ2ZyUh9Qd3s7Roc+SBt4eqZgBmEyvvMzPTGhF2h4YEDaQDOaEsJXBGWC3Dc1Pq4PqKutDUP9/dIGpkRTtsdXan5mp6fk3tIAwzLQ2dqKwb4+aQNPT1MCsEVKvvPDn0AbUMerl3jf2ytt4OlpSggmQiko9bsTnD+BNqD2lhb09/TIXcTTc44UjFlqftgu/gSagFgG+rrfSht4eqbA9phlnh+CjwwO6gRiGdIGtk0NtpKCYnJMUONA+xZNDO9gU2YwgvKdxvnZqgwvkBlMAW8zjCqz+Y5B/Ef1G8uOR5ARH0KwAAAAAElFTkSuQmCC",
     "wiki_name": "Jar of dreams",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jar_of_dreams",
     "equipment": null,

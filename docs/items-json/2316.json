@@ -1,7 +1,7 @@
 {
     "id": 2316,
     "name": "Pie shell",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-03-17",
     "duplicate": true,
     "examine": "I need to find a filling for this pie.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xs2WfUsUURTGd7+JH8H/MpQK6q+QtBKTil4MzSQTsxdEil5EekMQrShZyZJNpIwgKoqiPtmNZ4bneu6zd3Zn3DE88DB3772z5zfnnHtmKpW9b1UXV2x9163qns6edI9njieav93v5m70JSLE+uJFt7Zw3q0+OxeB0odoGzwFIhSAKIWpPTnrXs6fDhzjN9ZUIVQhyKpbuDPQAIUrQCgCPZ8bcov3BpO9uMaAsN9C/9qcdT/q0zuDIhDGjA6BXj86kwBxbxYQ7vu5MeP+bN13f7ceJkDw0dnRkUi9i6Vh51MTCE5jQEsPTnkgjGNA9aXhAAhjAql3sWqQBjhiceO3AsE5IJjeLKDNFyPlATFKmAOQrYUsKdDHV6MeCCoExLpQIDq7cLSrqYZ7uxugPq1cDoHe32oPiCBwBo0c62kpG63PtSvlAWGOEGP9BwKNnzjopWsU7v+6dtUD/f5w18MUBmJkrPOJgUOBJgcPJ1cLZwHxH9/eXosCqfcMS0ONE8PoWOdQ/WaP17vp7kAKRKgdAqU9CBEiEP78+tCRACIL6M3U/kQaoe/rUx7INkX1LpYeeQXSiKgUpjbZ5bUrQHxSPLWmpxnQysS+coEgAtkUaPGy0BFJpJYFTpiN5UseCF2aMLmAcMIskEapFRSEdduL8NqwEcoZHdg2kE0bj79CZYmdGsKrBq+N0oAIhXk6ySN0Z7yAAYQubYEIpd4jlgLF0oY5OMBnBJxg3X7EYazfQtz/ZXXcA6EHFehDIZBNmwXCFfMWJgYE8LaBcMpaAcGZ/QayQNhn01UakKYN8xaIX5M2XQTiXgDhyFsg9KDCfSiWNguEcTMgWz+lAMXSZoGwFitoCPts/bQJBGs8wjFp/VAKhKZogagCQJUK23ozKaCVrZ9SgPKaQuaBpbb3/idTyJj0nj1t/wB+rXUlwpPqZAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmklEQVR4Xu3W/0sUQRgGcO+vSlFKsJ9C0krOoyJNsS+Sip0WhxRpIpUiiN8wOcmSU8SMQCwKo/6yiWeXZ3jn3dm73ds1/KGBh93bndv57Mzs7La0XPxSMP74zp97KZjFmVvmbeVGkIXnvWZ+qicIEXsr983u8oDZWbrnQembyAwPQUQBxGhM9d1ds7lw22kYv3FOx0WlQhbM8ou+CApbQBiC1udLZuVVMaiLrQ+E+hJ9djhjftTKzaEIwj57h6D3b+4EINaNA+F/Pw8q5vfxrPlz/DoApcLgorxrgtCoD7Q6129B2PeBaqtDDgj7CUEFZxjQECc3fmsQGgeCwxsHOtwYyQ/EXsIxgORciIsGfd56YEFIKhDnhQaxscFrrXUz1N0eQX3ZfuiC9p9lAxGCxpCR6x0NI3vra/VxfiAcI+JR72Unozev2OhzDP5/uvvEgn4dvUyKQXFB7BnZ+Fhfp5OJYlewlTgJxDW+fRxvFoQSdjWeGPaObBypTXfYfCq3O9EgopoEhWsQeoggXPxp6aqDiAN9mGwLonvo+96kBaVYFMNHXoN0j+hoTHWi1eZcQLxT3LUennqg7bFL+YIQguQQ6MnLiY6exNByghNzsDZsQVilE2JQwidMgnQvNUIhOC/XIrw2ZA81BZLDxsdfo+LClRrBqwavjdxAROE4G0kSrM54AQOEVVqCUqBCkG/YcAwN4DMCjeC8/IjDvv4WYv2TnVELwhqUYh1yQXLYJAhbHJcYHwjwzCA8ZY1AaEx+A0kQ6snhyg2khw3HJYhfk3K4CGJdgPDISxDWoNTrkG/YJAj79UBy/uQC8g2bBOGcb0IjqCfnT0YQSvQR9kXPH0aDsChKEJMClLREkYycP/8QVK9EkdH8L9nKXzSpKpkSamZrAAAAAElFTkSuQmCC",
     "wiki_name": "Pie shell",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pie_shell",
     "equipment": null,

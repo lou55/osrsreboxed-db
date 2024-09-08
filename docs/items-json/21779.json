@@ -1,7 +1,7 @@
 {
     "id": 21779,
     "name": "Imbued saradomin max hood",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-11-23",
     "duplicate": true,
     "examine": "The hood worn by only the most experienced players.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWElEQVR4Xt2WT0gUcRTHdxiGYUXskBTtRS962IuyEF461EFsLxtZImaLCRV6iAorAqM2CUPMLkFaIkRZisl6sM2DUmaCSLiBRPcKOnQQ0UDD4PV77/1+M+OouH9mV+gHXxZm5/ebD+993/s9n+//WRrY2vOlgW5Uk3x6cK+hECYsdJSlh/YyUggTkUBHLGGUguXl+YbSwDBqJZBIl14F9/aZ9KvrFQKqjIAqS0vzAcUpQSDUzOQkxA8UwGCxH64WmfCos1N6qSQfUZIgZgP83diAxUAhvD9YAK8F0DMBdFMAPbhzGzpuXJdQgVxCsWd+r64SjOFvFboEM4cYaGC/n0ytdOvKZWhtahIwxbmAYpjVlRULprnQgGiBAb/GOuBH3xn4GkP/2EBKHKUir6EYaG1tjWAQpMGhL8kkTL0Zh5ChQ4UQGlvpfGOjFSUPTa5RqhAGAeqkPs1+hHeJBCTn5iAxOgqJkRELKmj4LKicAP1ZX4daP4PMTk3BUH8/PO3uJhNzD6omqPiL59Df00NgCupcfb2XQBp5B6MT9usw2PsYYtfaqIrYJ1USCLt1hKpw7OUgAVeZDKWuFM+AlJHZnCUSBtMRkiBhqy8ZZh21BSX8n6G4WbpPz2BpBIPpIiBxsA2jIiOBCCK6WeI5ekr1JA+ixEDVJh6qgJxpwrssIiPTvK3QT2xsT8qfgdAPDITpSg+IRhOCYaAsoySAzAtW+XK60gUKew/Epgw4KgthcDDbHQh9xCkzPQQiU5a4zJwikDA778/aRwiDByIQl/zmlDmAqMpcFWapWQLZ91oGUbJh7AgFtjE1QrmBVB/insSTZJlMu1dAdFixLPudfOQEqbMapQVEQ1sR+E32kvuLu6zNQPYl6U6bu9IYhMdbfIZVpoACcLgSz+EIpRklB5DoQ/hhJ9D99nbo7eqCV0/6YHx4CKYn3sLn+XmYn/lAYy2OIxPxuATbHsj9xV0WAmH4GQgvVnv6S11OoBM1NdkBccgZaHFhAYYHBqzDUhG+Ozc9TeOsAspyNuKbfnlpCX5+/0ZpOH4MU5eqITXag+m9GI3C2dOn4GQYu3bGQLg0mghR6BFnhNxvbl0a+evh3Ri0tbRYaUx9/47L9kT6h23dm97+HVY2h2W69x+z6ChDgKIMAAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xt3WT0iTcRgH8L28vLxMZB0aRbvspAcvxiC8dKjDsF2MLBGzYUKFHqLCisAokzDE7BKkJYOolWIyD7Y8OMqWMEa4QKJ7BR06SLhghsHT73me3/vHsWhr77boBw+C8v788Hu+vz8u1/8zFLCq5kMBVQtSudSmWqMQExJ1gEsN1HKlENMmQfvNwlVqamysNkoBTWuXINEutQVu7tDpp6o2C1RDNUHcEgRhJZeWILarDqJeN1zw6HB3ZERmyV8NlIToXfBzawvWfPXwancdPBOghwJ0RYBuX78Gw5cvSZSvkijOzPdsljCau1/UWUjuYVBkp5tCbdTV8+egv6dHYLyVQDEmu7FhYnrrNQjXafB1fhg+Tx6HD0OYHwtkFK+Sx2kUg3K5HGEQ0mWr95kMJJ4vQEBToVkUBtuoU93dlVglhVqFGAR0yHq78gZexuOQSaUgPjcH8dlZE9WkuUxURUA/Njeh3c2QlUQCpqem4MHYGIWYz6AgoWKPH8HU+DjBDNTJzk4nQQplB1cn5FYhOnEPhi4O0C7inLRIEJ7WbbQL559ECdyiM8rhK0Uxg8zh9EsMtiMgISHzXNL0DjoWjMK/M8qxw1IhDLaLQGJiC2OsjAQRIry9xO8xUw6eSQwK6jipAbK3Ce+yNrkyvQUL88TBdmT7MwjzwCBsV2kgepoQximQftrcvtyuUkEh50EcSp9tZyEGH2Z/BmGOuGW6gyAKpT8vzEWCRNj5+7JzhBicEEG85be3zAaiXZa3w8zqlaCy7jULY62Qr0CoEZUPMs4hPpP4Jdkg2+4UiCbzym3/uxzZIR3mQWmC6NHmAbf+V1naDrIuyfy25e80hvDzFn+Hu8wA+WDfXpynZAwOG0icQ/iP7aBbg4MwMToKT+9PwsLMNCwvvoB36TSkk6/pWYvPkcVYTMIcA+HyMwgvVusZUXzZQYdbW8sD8ZIzaG11FWYikRInUyC1vEzPWQNU5tuIb/pv6+vw5dNHasOhg9i6YidU6Bts75lwGE4cOwpHQnhqF/t9waHQixALM1LaZArl686NIRjo67O1suxhz0Wpo5xv/7HxC6Ot6/7McYhIAAAAAElFTkSuQmCC",
     "wiki_name": "Imbued saradomin max hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Imbued_saradomin_max_hood",
     "equipment": null,

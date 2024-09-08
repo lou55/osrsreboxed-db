@@ -1,7 +1,7 @@
 {
     "id": 4152,
     "name": "Abyssal whip",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": true,
     "examine": "A weapon from the Abyss.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC20lEQVR4Xs2X30tUQRTHdx9EVmRlUXzoIaSXHnooegj6KyqKioqioqKIIJJCpEgTyQpB7AcVCoaYSBlBVBRF/WVjn3v53j337Kzu1Wt44MvMzp3L+cyZM2fuVio736ohrtjzbbdqeDp6PEyNHEs0ee9omBg+kkgQizMXw8L0hTD/7HwEyi9iy+ApkKAAkjzM3JNz4dXkmZxjfvPMKw9VCLIapu+faIGiBUQS0IuJ02Hm4clkLm0MiPkW+tfKaPixdGdzUAKir+gI6M3jswmQ5rYD4r2fyyPhz+pY+Lv6KAHCx4GhoUTeu7M07Fq1gHAqILtaq9nxU1GgpdlLOSD6AvLenVVz2wCEkpvfclzr7s60r68e9vT2hl21Wg7OAq28vFIekKLkQaSD/Y1waKA/aYHb3dMTBv+NW6iPr69mQKgQkPLCAjGOs731egsQ4/sbfRkYYtwCfXp7LQ/0/m45QKzebks7CVZQn+eulwfEGBEgT+iT2NapdU5SeyAOwdeFmxnQ7w8PMpjCQEpkomOT1sMgAfs59L+9uxUF8t7bWPMI024UHc1XYmuMfGOLtZBNAqU1iAjFwm+BBIKUZ5orGD3/vng7A7JF0Xt3lh75ToC0ah8l/RYM+cM72wZExaU9PDiQjcfEHE5XqUAeSsUulkdeFmj5+eUMiCotmI6AOGEeSCeNqDS6upI+4LTtZC9Vrg0bIQF57xFrAtltA4hxD6XLF1GvEO8IRtvFtVEakKAY1y1vobzsTS8gqrQFEpT3HrEUKLZtAlovqf2Fqvlf5m9kQNSgAnUoD2S3zQIpUh4IUUQVLaKzZSCSdSMgVq/TZ6XPD/ttVBqQ3zbGLZBPaN4lOgDZCHHkLRA1qHAdim2bBaLvgezXpM2fUoBi22aBeGb/lQgIMU/1pwQgrPUox+Trj+SBKIoWSCoAVKmorK8nD2il+kN0SgHq1DxkJ7BSc+5/Mg8Zk39nR9sabv3HHkT1UB4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvklEQVR4Xu2XTWsUQRCGs4cQNoQNS0IOHjx48eBB8CD4K1QUFRVFRUURQRQlBMWPEPwiEOIHKglEQgxBI4KYoCj6y1qfGd6hpqY3mdmdiAcLXqa3pmf66erq6tm+vn/fGiGu2P0tt0Z4MnEoPBo/mGjq1oEweWN/IkEszpwJC9Onw/zTUxEoP4mewVMgQQEkeZi5xyfDy6njuYH5zT2vPFQlyEaYvn24AMUVEElAzyePhZm7R5K+XGNA9LfQ31cmwtel691BCYi2oiOg1w9PJEDq2wmI574tj4efq/fCr9UHCVAlGF6qWQuIQQVkZ2s1e/9oFGhp9mwOiHZJoEZuGYBQcvNbAzcHBjLtGm6FHUNDYVuzmYOzQCsvztcHpCh5EGnPSDvsHR1JrsBtHxwMY3/8FurDqwsZEKoEpLywQPgZbGerVQDCv7s9nIEh/Bbo45uLeaB3N+sBYvZ2WTpJsIL6NHepPiB8RIA8oU1i20Ht4CS1B2ITfFm4kgH9eH+nLAyWB1IiEx2btB4GCdj3ob329mq3QFj6Qs12s+iovxJbPvKNJdZEugRKaxARioXfAgkEKc/UVzC6v754LQOqUBTTLV8GSLP2UdJvwZA/PLNlQFRcrvvGRjN/TPRhd9UK5KFU7GJ55GWBlp+dy4Co0iVhsHSHeSDtNKLS7u9P2oCnL47LHqocGzZCXQHZZQMIv4fS4YuoV4hnBKPl4tioDUhQ+HXKWygve9ILiCptgSpApUCxZRPQRkntD1T1/zx/OQOiBlWoQ3kgu2wWSJHyQIgiqmgRnZ6BSNbNgJi9dp+VPj/st1FtQH7Z8Fsgn9A8S3QAshFiy1sgalDlOhRbNgtE2wPZr0mbP7UAxZbNAnHP/isREKKf6k8NQFg+LzrJ1x/JA1EULZBUAaisFSEl1R+i8xeBNrIiZFH/rTf7DST5fJJCLHQlAAAAAElFTkSuQmCC",
     "wiki_name": "Abyssal whip",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_whip",
     "equipment": null,

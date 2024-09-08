@@ -1,7 +1,7 @@
 {
     "id": 622,
     "name": "Ship ticket",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-01-27",
     "duplicate": true,
     "examine": "Allows you passage on the 'Lady of the waves' ship.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xs3W20rDQBAG4PZN+gi+hNdVFBUVj6jonShKFcVDEU8UpB6oYkEotRStCF6IouiTrfwJfzoZN23SROnC0DTZZb/MZidJpbq/pY09bNf/vKXNyeaAOcr1O3Gw3mfyq1kniKicTZu7wqQpn05YUPomYsNdEFEAMTTm9njcXB2M+ibGf1zT4UdFQqZNYWvwFwq/gDAIusiPmLOdIacvfm0g9Jfoj/qmeauudIYiCMfMDkHXh2MOiH2DQBj3XsuZr8au+W7sOyDM0ZPJOKFnV81NO++aIExqAxX3hj0Qjm2ganHGB8IxQXp21dK+ZcBEfLjxX4LkEnB5g0D1y7nkQMwSzhGEfgv5rBcSh6xp0GNp3gMhIoH4XGgQ7hwgjamWNrzQOIKebhb8oPu1+CCc1yCJ0TCNSxSEwFK2yo4t9LIC8/mw7WEigyQKqQ+TnSAMMyRBevaA5qYYO0aCOs0Oxr1WljsFuTUIGWoHagXT2ZEgWRT17Kq5W94GkpjiVK8XQTCJwUZIDESUDaQzZYtEQUTFwaCI1s5nPRCqNDGhQNhhSYKQHbw2ZIZCZgetCSIqDgbZAQivjT8BRQkJer5d9IGI0rNbmgvSy+YODg9DXxRRgPDZ8VJe8kCoQRHqkB8kdxvOEdYORxCyExuEXRYE4h3zFWLDyewkCtLLhvMSxK9JVnAGxrEvQNjyEoQaFLkO2ZZNgnAsQajkfBFjnHx+EgHZlk2CcE1+lkgQ+snnJyYIrZn+ViExMjQIRVGCGBFAqRTLeqvQQBny+UkEFLZpZBgso9n3n5pG2kKP6er2Aw+rmb3KK8GxAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQElEQVR4Xu3WWUvDQBAHcPPhfK6iqKh4okXfRFFqUTxK8aJQ6kGVFoRSS9GK4IMoin6ylX/CxNnJJs02qfjgwtAcm+aX2d1JBgb+fnOUOUzn+94cdZofUce5YTeKW0OqsJFxgxCN8ry6Lc2q+tmMASUfIjHcAxEKIAqJqZ1Mq6vipHZj7OOcDB1lhXRUaWc0gMIvIBQEuihMqPLemNsXvyYQ+nP0ezuvXpvrvaEIhG3KDoGuj6ZcEPUNA+G6t1ZOfXb21Vfn0AVZYfCn9NQEwk1NoMrBuA/CtgnUrCxoIGzHBDnaMOBGNLmxz0F8CGh4w0Dty6X0QJQlHCMQ+mULGT84DlmToIfqsg9CWIFoXkgQnhwgiWlWt/2QOAI93mR10N1mchCOSxDHSJjEpQpCYCijsmMKOazAfNzvxsWg6SCOQurjZCcMQxmyBKF5KcaK4aBes4PrXhprvYK8GoQMdQNFwWR2OMiiKHpL3gTimMrcoB9hMI7BQkgNRCgTSGbKFKmCCJUEgyLaOl/0QajSMTFo3gpLE4Ts4LXBM9QTiFBJMMgOQHht9AVkExz0VFvRQBYoDySHzbs4Pgx9UUQBwmfHc33VB6EGWdQhHcRXG44RrBuOQMhOYhBWWRiInpheISYcz06qIDlsOM5B9DVJFZwC11FfgLDkOQg1yLoOmYaNg7DNQajk9CLGdXz+pAIyDRsH4Rz/LOEg9OPzJyEI7Sf9UcExPCQIRZGDKCxAcVsQScHnzy+ColoQGYz/lqx9A8WYTzEARnHbAAAAAElFTkSuQmCC",
     "wiki_name": "Ship ticket",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ship_ticket",
     "equipment": null,

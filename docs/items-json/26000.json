@@ -1,7 +1,7 @@
 {
     "id": 26000,
     "name": "Sigil of the rigorous ranger",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADhUlEQVR4Xu2V4UtTYRTGvWSWKZo4J9dbzhSTVLRFZpKZIJapZCJilpkMEYtMRETKEhFBzDKzSEomQ4aKyWSZiSiVffBT/0DQh/6T055zee+261UmXovIAw/Tsd33t+c857xhYfv1/5REm/VXSj28t7eDOjpayOGop5qaCiopufgnwfwufJOPaHJbIlk36q5TVdUVhjpjz9lrMIkWFtw0P++i2Vknea0qzHtrsMrLS6io6Dzl5eVSZuZJstmUvYCSaOnjHMvrnaZfSowm4dKz4V5uX3t7MzuUn2+n7OxTlJqazECnU1LMgvLBLM2zlpc9/AqQn0o063tSNANNTDxnKOSpqamO85Sbm0Xp6SdIlhPNdEliEGhlZYFWV730wwcitCH79XToCXV2tgYFHK07riSZ5ZLEAJARDFq4trYYBNTVdY+am29Rbe01LdxoW2xsjBkuSRxiIUChZYsfZjhLEN5bX19hILSsu/s+tbTcZqDLpZfYIQDFx8eZ4ZI6WR7PFGtubpJhxHuAhEv42+V6RSMjffS4p53utt7hFVBWVsxAyJHVajEDCCVpEBCgcDheMf4QnBkc7KGBgW4t1DfrqxkI05aRkaYF2wQglEQ5Oalkt6exAAGo8fEhBnn08IGvLbLPCUVrWXX1Vd5JAArcRyYASRxcAAkoOAUQsXcUxUK25ESGgtraHNyyPdpHEk1NvabJyZfkdr9hd7KybAxQXHyB2yPLcfx/oACKYBcUnNX2kQlA/imDK8gSWuV0vuDcoFXITENDDUOPjQ1QX18n7yHkB8BwSACJfaQ/JYRSL8Xw8AMMg/HGuH/98onHHGDv3g5zywCF3QOn0CZxwQIId5po2S4mTQWBIiIOsuDKxsZnDWZmeoJGR/s5wHAImcGoi4WoB4JDCLV/OYbs0maYqKjDLDiETQ3HcG8BCO0R9xamCiCVlaWswJZhyjD2kZGH+Jl4fghgW8MkWGJ56SEjGHU4JoDgCg5vbKxld9AyMfIAwtWBdolniWeLs7aBMgYCDIRLE4dixDFxyE5/fxe3CgAAAwwWIhwDUGHhObImHNWesRXQNplSoYwcEjqmJLDEeGOi4AyWIWAwcQBMtPpBdgGEMoYyggtVgSCBMCECoYKh9GD6A42kz4weRoQaMCEAofy7yEj6g4yk/47elR3AqKV+WIynedoxiL4Cf41Z0p+xX/98/QZkkdgT385stwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZElEQVR4Xu2V4UtTYRTGvWSWKZo4J9dbjiYmqSiLzCQzQSwzyUTELDMZQywyERmjrCEiiFlmFkmJMmSomDiWmYhS2Qc/9Q8Efeg/Oe05473brteYeFcf8sDDdOD7/nzOc84bF7df/09JtF3/pIKXu9091NPTQXZ7CzU2XqWqqgt/Eyzkwjf5iCqvKZF1o/k61ddfZqjTtqJYg0nk83lpcdFD8/NT5DcHYd6bI1VbW0UVFeeopKSY8vNPksWixAJKopWPCyy/f5Z+KSmqhEvPRtzcvu5uBztUWmqjwsJTZLVmGw0UgFlZZK2uLvEnQH4qyazvWckMNDn5nKGQp/b2Zs5TcXEB5eaeIFnONBJKYhBobc1H6+t++hEAEdqSQ3o6/IR6ezsjAo7WHVeyjAKSGADSg0ELNzaWI4CcznvkcNyipqZrarjRttTUFCOgJA6xEKDQsuUPc5wlCN9tbq4xEFrmct2njo7bDHSp+iI7BKD09DRjgDBZS0szrIWFaYYR3wESLuFnj+cVjY720+O+brrbeYdXQE1NJQMhR2azyQgglKRCQIDC5fjE+ENwZmiojwYHXWqob7Y0MBCmLS8vx/hgFxVZyWbLYQECUBMTwwzy6OGDQFvkgBOK2rKGhiu8kwBk8D6SOLgAElBwCiBi7yiKiSzZmQwFdXXZuWUx2kcSzcy8punpl+T1vmF3CgosDFBZeZ7bI8tp/Hu4AIpgl5WdUfeRAUChKYMryBJaNTX1gnODViEzra2NDD0+Pkj9/b28h5AfAMMhAbSHfRR8FOPjDzAMxhvj/vXLJx5zgL17O8ItAxR2D5xCm8QDCyC8aaJle5i0IAiUkHCQBVe2tj6rMHOzkzQ2NsABhkPIDEZdLEQtEBxCqEPLMWqo7TBJSYdZcAibGo7h3QIQ2iPeLUwVQOrqqlnhLcOUYewTEw/xmTg/CrCdYTJMqbz0kBGMOhwTQHAFl7e1NbE7aJkYeQDh6UC7xFnibHHXH6D0gQAD4dHEpRhxTByyMzDg5FYBAGCAwUKEYwAqLz9L5oyj6hm7BEIFofQcEjqmZLDEeGOi4AyWIWAwcQDMNIdA9gCE0ofSg4tW4SDhMFECoSKhtGDaC/WkzYwWJopQayu0i/SkvUhP2r/ZpSs7lfhPjNR+7Vfs6zdE+J1MdkzuCwAAAABJRU5ErkJggg==",
     "wiki_name": "Sigil of the rigorous ranger (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_rigorous_ranger#Un-attuned",
     "equipment": null,

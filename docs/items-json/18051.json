@@ -1,7 +1,7 @@
 {
     "id": 18051,
     "name": "Bottled water",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-10",
     "duplicate": true,
     "examine": "A bottle of water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC10lEQVR4Xt2T608TQRTF2X+B+IXEBxgNCY+2QEt5tDwaoA8UW2xr6ZvSQlsehQKtIEEJCPaDxgSNMcSoiSEajfofHrl3Hexu4icz3cSbnMzs7OzeX86caWr6f0qBVoaWgrX5duTjt5EJ30Qs0GY0lILzUwerttODyMwNBrK0thoFpQJ9eD6Ioy0zQtPXjQRSM0NAZ8/sONgwYdZzzSggBYNWKxz9/ezO6yMb9te6GKirvd2IHClwORwaOe129JlNuNWmBrvBLinwuVwakVsEdLWlxRiggNeLTCTC4z2PB8M2Gx/XleZmI4CoFPSaujHjnsKsz4epsVHOFa01GEi9XXN+P8OQQwTkGR/D2NAQBvr6+OgaEGwVhJpScwEjgChHtE7hJqesFvNvKClgCuy9vRgZGMDk6AjuTv2BEUDTk5Pwusb5xtE+AdXTrR6h/o//WAqHdsLpxPTEhAZGAJFj9I6gxoeH+db1Wywwd3bKyJQKRO7QjdID0Ro5JI6t4UD1Imfq3dEDmTo65AIJABJlSSh2P4pYMIpEOI5wYA6BO0HOkDSgaDCFZGQeC4kcUpEk0tF5ZOJZ5FJ5LKWLyCWXsHgxz6UKF+9yiIXSCPqjmPGF5AAlUwdYWaxgY2UX64UKSvlt1nq+gnJxByVaY1VRWCgjm1xF+ME2fL6sPKDVtVfYfXTOerjziVWtfmRtV95jc+sdq1h8iUzmGJFIVR5QIrGP5ZVT7O19ZtVD6cFo30L2hIE83ow8IHJo//EXDRSpHpCgaF8uV+Mjkw705OCrBorm4llAlUpv2CECcrvTcoAoQ9SIgASUmB8efuNRQK1vvGWgUGhTHlA6fciNRHMaSU+Pv7NoLpyifRRqiUBUCsrls0sA0vHJD1at9pOfhXN0yyjQzpHgJYwEICrlEkIvcojcyRdewO9fhtXmlg0jStG4JETrejUARtTfm+ul/1Ja6Rs3tLkR9QsEZOhIhE3oAwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACu0lEQVR4Xu3T+0tTYRgHcM+/IP0idMEoBC+bl82p27wMdbeyzbZ13NzFuaPbvEynbmmyEk3bD0VgESFRQUhRVP/hN59nvbaz39+diB74cq7wfnje521p+XdKgT6GloL1hQ5k528jHbmJWLDdaJSC81MHp7rbB3Xmxt8B+vB8GEfbZoT9140E1WaGQGfPbDjYNGHWc80okIJhiwWOwUHuzusjKyrr3Qzq7ugwAqXA5XDo4rTZMGA24Va7IYOtwOdy6ULdItDVtjZjQEGvF2lV5es9jwd2q5W360prqxEgKgX9ph7MuKcx6/NhenyM54reNRlUO11zgQBjqEME8kyMY3xkBEMDA7x1TUDVILQoLS4wAkRzRO9puKlTll7zb5QUmAJbfz9Gh4YwNTaKu9N/MALkn5qC1zXBJ47+E6i+HilbqPDQTjqd8E9O6jACRB2jb4SasNv51A329sLc1SUPRN2hE9UIonfUIbFtTQfVhzpT351GkKmzUy5IACg0SyKx+1HEQlHEI/OIBOcQvBPiGZIGioaSSKgLWIxrSKoJpKILSM9noCWzWE7loSWWsXRxryVzF980xMIphAJRzPjCckCJ5AFWl0rYXN3DRq6EQnaHs5EtoZjfRYHeccrILRaRSawh8mAHPl9GHmht/RX2Hp1zHu5+4pTLHzk7pffY2n7HyedfIp0+hqqW5YHi8QpWVk+xv/+ZU49qhNF/i5kTBnm8aXkg6lDl8RcdilIPJBT9p2lV3jLpoCcHX3UouhfPAlUovOEOEcjtTskB0QzRQgQSKHF/ePiNrwK1sfmWQeHwljxQKnXIC4nF6Up5evydQ/eiU/QfDbVEEJWCYvHsEkA5PvnBqVZ/8rPoHJ0yGmjnaEgWRpRyiWgMdYi6k829QCCwAovVLRsjStF1SaS2eGOaVo0LN3Xx/8X1C8qbtKzbQ7tGAAAAAElFTkSuQmCC",
     "wiki_name": "Bottled water",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bottled_water",
     "equipment": null,

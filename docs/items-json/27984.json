@@ -1,7 +1,7 @@
 {
     "id": 27984,
     "name": "Corrupted morrigan's leather body (bh)(inactive)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": true,
     "examine": "A powerful leather body, now inactive.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADR0lEQVR4Xu2W0UtacRTHvYwIQ4zLRFFRU7nGzdCSLAXLpJZtxVaswiFrbay1tS2CHoLYS+xhDNbTtoexp73tvzzze+7OvT9N2by1XuYPvoj38vudz+97zvndn8czGIPxfw+N/qwbGVYw3T9EQX2YAoFR0nVfm/x+L3m9wzcBpVE2myDDiDIMBABAiQTI573F+kduOWkoTScvAUHhsM4SKAGCU45b1wKnMUAiHuJAlWKaivkE3V2ZZd3WRyj+GyQaDZCZDPGzaCRAfp+VuhHvEMOKe1eA0sgcj7FSqTAvVitnaLlislPZTISMZJDiEZ0ioVEKBXz8K/8hwEDYEKAEaGpszA2UAwSXsHPAAGphzmCo/ESUzHSInjVXbSAR/gsQNgQH4dIVCl7jgHACQRHgXi1rAyF90Mmbbdpr1mlmOkOVucmuQJifigfs5y5d0rheCpMxBsNiABIYOATHpK4ALkEhOAoYbECclPeugRBUBMvxTAVCoIMna/RgtdwGBBcEqFyeoFwuZUOhxlwDbSzmqd5acKFgULF1Bv34espuvHp+n472NznI6VGDmjtLVJ6doNr8FMPgNxzSGQjd1rmOCyAnXdJN2P2Xi7fszNnJIzo53Ob3Ry836XHjDi0vFtidem2G6kszZGZi3P4oYsyRteCcK6D1hRzvSHJvdYaVMgQAMKTWB7S+WuIzCo7BIcyROiuYMT634FofneYExa5KuSQfeAIER/D8+PAhHTxdY3f2GnVaXynRcrVgdxrccZzQOGVIlxEP2qB/6ZKzIylUaVXo4/t9fnd+tsupAyAKu1rJsSto/7mCSUY62gaEOXBSDsy+gMSdy13ROpsyo5RN+1njCT+lYj7W1sY8p0rApvPptnlyursCktbuBvTz+zv6dnFMnz+8pk/nLximubXEH1u0P4q6Ws7ZJ7IKhHrDelJDfQHJjqSgZWFAnJ/ucruj9eESUhYJemlno2oDoYbUKwhShm6VE7xvIKkhFUZNlUhSFg+PWFeS1uVNrh8qEE5sgXJxWjv3F0xyJlpQKgScUdULCJ8Z2ShKoU8gj0dALk+yAgiMXNa6Ce9Vh3tv9IqjW4BeUgOrm7w2GHV0BuilznmDMRg3MX4BXynFKaCJPuYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xu2WwUsbURDGXYrISogsDQnJkoQkbGSNJHUxJoFoDKbGVmmVqqSEWltqbW0rggdBepEeSqGe2h5KT731v5zmm+3sboyhuKZemgcfIbu8N7/3zczbNzIyHMPxfw+F/q4bGXYwLThKYW2MQqEJ0rRAl4JBlVR17CagFMrlkmQYOsNAAACUSIAC6i3WP3LLTUN5JtUDBEWjGkugBAhOuW4NBE5hgGQiwoGqxQwVC0m6tzzHuq2NU+IPiK6HyExF+JkeC1EwYKduXB1lWHHvGlAKmZNxVjod5cXqlSw1qiY7lcvGyEiFKRHTKBaZoEgowL/yHwIMhA0BamBAcAk7BwygFkoGQxWmdDIzEXreXnGARPgvQNgQHIRL1yh4hQPCCQRFgPv1nAOE9EHHb7dot92k2ZksVUvTlwJhfjoRcp77BkK9WNNxBsNiABIYOATHpK4ALkEhOAoYbECclPe+gRBUBMvxzAuEQPtPV+nhSqULCC4IUKUyRfl82oFCjfkGWl8sULOz4IJlULFzBv38dsJuvH7xgA73NjjIyWGL2ttLVJmbovr8HYbBbzSiMRC67eI6PoDcdEk3Yfdfz9+xM6fHj+n4YIvfH77aoCetu9RYtNidZn2WmkuzZGbj3P4oYsyRteCcL6C1hTzvSHJvL2KnDAEADHnrA1pbKfMZBcfgEOZInVlmnM8tuHYFKDcodlXOp/jAEyA4gudHB49o/9kqu7PbatLacpkaNcvpNLjjBlU4ZUiXkQg7oN1x+w53R1Kobqsq9OnDHr87O93h1AEQhV2r5tkVtH/JMsnI6F1AmAMn5cC8EpC409sVnbMpO0G5TJA1mQxSOh5gba7Pc6oEbKaQ6Zonp7svIGnty4B+/XhP38+P6MvHN/T57CXDtDeX+GOL9kdR1yr5CyeyDYR6w3q+a0hS5l0YEGcnO9zuaH24hJTFwiptr9ccINSQ9wqClKFb5QS/MpDUkBfGmyqRpCwRHbevJJ3Lm1w/vEA4sQXKx2ltL9I7yYbyQsAZr/oB4TMjG0Up9K7te9gBBEYua5cJ770O99/oQMbFAP00HMMxHDx+AxwQgzdACeTYAAAAAElFTkSuQmCC",
     "wiki_name": "Corrupted morrigan's leather body (bh) (Inactive)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_morrigan's_leather_body_(bh)#Inactive",
     "equipment": null,

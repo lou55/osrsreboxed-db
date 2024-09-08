@@ -1,7 +1,7 @@
 {
     "id": 25502,
     "name": "Banana cape",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-02-17",
     "duplicate": false,
     "examine": "The cape worn by master banana peelers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyElEQVR4Xs1X/0tTURTfpR+iMZRQNlps2qSGX9jmWLOhs0kTKiNkNDJGKQtLEAQpoigEQaQoQhBBCikqBEGEIIIgiP6y0/2c63V7z23tS7uvDxzue2PnvM/7nC/3XZerJgQpaxat+lsgKJHqprNB92HQRgKr/2en/ByjMd+KELS1O0Yvt5Ns13IBcntO1BlY0KPVCPuvbSZodSPB/vX5VoXgILFkF/WEPExm4fEAB4319tYILOj1+xGaW7xAN/JBGs34WKFI/HQdvlUh+K3Wty7ymy49H6QHy/2cur+rpJT98n2C3u5cYnIw+EOt2r41oWumZO/20+Q5pQlVt/1fWdreGzv2OwwKNamSy6WdS0FUUG/nSQr63BQOdLBF+zp5Dfk9NJXyH3u43ezPaRGC0lEvW2bYd3SdGupmS/Z3ta5E4xCUGw9QfiJIV0fOsIGcY2RuL4Upt3CeCrLrbqGbiiGanOmhuOwoTcju1UYIuj4boqIkMz3fx+Rwj+sBOSKC4Y7DGjIGQXdkC98snGNVQAgKYY1gqsuZZVglQfNyNkERELn3dJBTh3VOziutkFFCuoYwOIsrQyqFcgWhWNprntDezyx9+HqZJ+/DtSitvInzJJ6RijnSZbs/rtDOwThvLyBTiZDdq40QvE9hG/lvCH36luG9ShN68WrYWUKoH+zolQj9g++eRqAKGvWz+XnUQmhZdllBjoJpOZsMqlQitPExZakhfDfdlaMgJwemUUK6w8oJYX0i2x+E8rNG66gyIcyjZ+sxui8HJtJmlJBueTshXdjlKtm92wClUDkh/e0NYjgE4ONeK2RAJWtRQxnUDo5JIIbDANJmNGUHvyeP2h6EFuUuj9MFVELrI2UGCQFqUoMQChkpQgpx1AEhB6a1OuZgUmP26DQihUiZwfophzqjQRHVTdZ7w2Q07Ac/+70DsD/cft8s/gBq0n1x5zvbmwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmUlEQVR4Xt2X/UuTURTHvfSDNIYSykaLPdKkhi9sc6zZ0NmkCZURMhoZw5SFJQiCGFEUgiBSFCGIIIUUFYIgQhBBEER/2el8z+2asz1zK7tPdOBwn2fs3n12Xr733qammqZI++/an86vMEWpTDudcnw/Fm1kYf39/GhI1mhsblVTtL41SE820uKXC2Hy+Y/VubCihaWYzF9eS9HSakrm1zfX1ZQskki3UUfELzAz97rrWFTRs1f9NDV7lq4WHRrIBSVCseSJOua6mpJ/tbJ+Tv7p3KMeujPfJak7PEo6su8/DdOLzfMCB8d8RKv23Jpmauanv9zJkv+4AXL3na952tge/OVz7UdqetFAazM5QR9Fwy3i8c5WGSMhP41mQn/rx91MUTYeEM/1BfeeM73t4umuNpswxhQVhsJUHHboUv9JccB5BnNjLkqFmTNU4q67jm4qR2hkvIOS3FGeAF2ZjFCZYcamOwUO73juZolwoi22oRTd5Ba+VjotUQEQIoQxBlVnzbIONM3ahIgA5NaDHkkdxinWK08iZGoIwlle7NUp5BFAiWzAPtD2lzy9/nBBlPfucpwWnydFicc5YpZhYIq2Pl+kzd0h2V4A4zkQ9ilsI/8M0NuPOdmrDNDjp33eAqF+sKNXAzqCc08jpgsa9bP2bqACaJ67rMRSMMba5AnQ6ptMRQ3h3DTBUlBgwbQKZDpsPxDG+9z+ACpOWq2j6kDQo4crCbrNgom0WQUyLX8QyBS25SjpCO0HMmdvgOESgMO9JRhYZVEjMqgdXJMAhssA0mYVaPfbyF7bA2iWd3ncLhAltD5SZhEIppUaQChkpAgpxFUHQB6otb7mQKmhPSaNSCFSZhnGmL6jISIa4OC7J6ZB3N//I/sOB8U6ELjCxSoAAAAASUVORK5CYII=",
     "wiki_name": "Banana cape",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banana_cape",
     "equipment": {

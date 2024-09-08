@@ -1,7 +1,7 @@
 {
     "id": 9177,
     "name": "Iron crossbow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": false,
     "examine": "An iron crossbow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu2W3WsaQRTFMw9FIpIghgR3UWNEg27RbDAbRe0qaswXVPChfWkpgVJoKYVCX/rP3+6Zybizo2t3o/YDcuCy6nJnf557587u7DzrWboYifgnxKhhmWRVjadCPSkpRIxetctzoGr5KC4Uo1qlEjdphRh1ndIcpnxySCf5gzjrM7q0bZ5wdnwcNSlEjG5HFl3YhQWgvJmOCuVZ3GpRJq0mRErUxOh+XKLJoEbn9VwAJpl8wSPinxZAu4nEI5DXkDUzJhyj2Z3N3Rm5Vd4/AMoeJml/z18XMJGAuo6jJch/wmjQlv0Vto1FmQbdCu8duINyqTBy3QgwEKOX1aoCIeR/FiD3ozrNbkSvqXFaylCtlKRWs8idQZkAI+/HAJFiVDBFicISpVsy3s0u6eFNh4bdAgdBn5jZBL/mjFQAJGzNFcIQs1YCSaklvXKLHAglgiMHmd2FEun5EcWo3+l41pceHYgiRraV4qWCI4BZo0S6GL2eTKjdbHqW5yNAMb61MY2LZmLeL2uUaJkYXQ/6vymdcAC7SW1g1Rk9Yw1hjtzx7S+ntn4frmBb6yCIrx/6S3LWlnAJQ3LY6wUeKF3BfJFHQLBEG+kdXcIlQN2Oht4xMKaeY/JewU6CK0Z2f8XDN+4QJBocYP123gM5omJuj8+XTDrYvHre94+j7ZTt7XTK50u7afApjF2kHoyLMFJbam6nnuIzBu6Ui+mFgadn+GL0+b27aZcYTW8afOBZp+IYwLEiY/XDGP34NI4AHlv+7sL0xtskAgew/2YZBraVsgXPLMTFWYMHZhSu5/V6CBijbw/DJb9vUCoYzjwEZhWOGn+I+vHzy/V2XNKlgiGuXJfDYboj8B0jA7tUffvU19m49HIui5xh8LKmkvJF7Q9Jwumhwvm//WUFAf9D/QILy+7/YROiHgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xu1W32vaUBTueRjSIC1iaTFBJQ1aYkZcirUGdVGMtb9ggg/by8YojMHGGAz2sn/+LOfepYlpEnNjWvbgB4eQxHPu53fO/W729nbYIQpAHv8FALuGgoYu5yWVKykBgG/t1iMhvXUiSgqw026LJqUAcNTXHsm0To/xtHEkUh/w0rJEElIAeOsaeGE1nxBqKJWsa3gSDwZYrYQTMiVGAHg/13Ax7eC5WV8jI0mvWGSsywntl0r/EryB7CiC5ABXdxZTx3V0Nj9EqHYs4eFBUDealQDqeT+SEJCZ2v58JRXlbZqO2mx2SB1q1zoZIQC+1vWURE7k3jVxdePPWhBnWhU7moSDnsqUoTYRmeQ/sBGATSXcoiQEJD6uLvHh/RBnoyYjQnOi1ErsWpfLGWqlgkzMECwCeOWojBC1iBQ5qu7nbVEUgJPh0JNeEygGaBll1ipShMhs0aIoAN8tFmj3ep7kjQxFgW1tcmNVKYXmpVAAXk8nG1rHFaDdFB7gApUJg3zkjm3/eNfmqtC2fkoE8MfnSUzO1uAqkUnOxuO1BX1VyF/ij4DofSHgKhGpW3fmHQNzHPcVNiu0k0gVuXYYQ8ZH0vOtwAeciE3shkfkBNX6AfOXaiVteAF/fXFT3ucG4IflkvmL3ZOZC9MuynYwPtNw980y8xhSp6VWBAwP8NsnJ8PvhAC4vOkywzPO+DFAx4of6YsB/v463/CbXAh2F7k3fU1S0AEcfFkmLZr2rhDwBS7edFmQR9H13DQTiAH+fJjFPC8cfHE68yjIq+ioCUw0iD/fr1+CkI9g4SvHYeTI3SnoniyDdmn46zNa4Rmxrkw46rLM2lqW0rzrRREmuEMx+At0hJM/aLdM2wAAAABJRU5ErkJggg==",
     "wiki_name": "Iron crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_crossbow",
     "equipment": {

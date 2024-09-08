@@ -1,7 +1,7 @@
 {
     "id": 21009,
     "name": "Dragon sword",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": false,
     "examine": "A razor sharp sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnUlEQVR4Xu2WzUrDUBCFcykhpIgilhZT7I+llbZCWqltpa1EqlRdKAguXLhw4cK3cCG48Bl8Ah9yzLk3aZOoiIvcycIDQ0KSMh8nZyY1jH9lSoKSVxgl6MzKUQagAKBgLmwF1KvVuKAE3dimhJkG7gCGCUjBwBXARIGST2rQCsbzQQ5MVncE3eZNugpgRn65EaDk0ynre5h1w+AAWsEgxIDpmEYMRiOQoLsswdxHYDBNrDBvm1Zs17DCvAYw4a5hhXnZsGSIMwHz7MMgxJmAQT2sscFE/yoIet+y6aOYlxPFArPXaMhmqCffFTiD3GALYwM7OY0w0+GQ3G5XNnz0QbBrAIPxxseyqg8GUkCjfp+OBoMlDF4VtnBTL0woQcfjMV2ezuURYIc990tukr9KWYLms5l0Cq+v02pRs16X59VyOciXVgnpzHapJJvvViq0327LaygNLqmJCgtTViwUIo3j91POkKDrxWJZSZiwcXieMgwk6PzEI28yiWVEQ+OfpPICGLiz4zg6MvKbVDYwSWGQmYFURjSF9m/igvkEReNPNJXzJQgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4Xu3VQUsCQRQH8B1kWVaiiERpJcVEQw02w9RQY8PC6lAQdOjQoUOHvkWHoEOfoU/Qh3zNf2ZXd7eOMW+C/jC47Crz4+17o+P8x6oIyt9hjKBzr0AWoADQmEufHSTo1ncVZspfHY1BVYBhBq0wkYQcusyYu6JL1zFmJFfIB/oZs+44HKAVBk0MTNd1+DD3NmEeUhhMEyvmfdPLnDWsmLcYk5w1rJjXDU81sRWYF4lBE1uBwXpcY8OkNxH0seXTZ7moJooFs9dsxpsJepZVQWXQNziFcQIHBYOY6XBIYa+nNnySEJw1wGC88WdZN4dBNGjU79PxYLDE4FXhFG6ZxSQRdDIe09XZXH0CdnQQmu6bfATNZzNVKby+brtNrUZDXderVQ6UUJXZrlTU5ru1Gu13OuoelgGQnqhkYcrKpVJq4+zz7G9/PYJuFovl+o4xHkEXpxFFkwlnj6Sj+wUYVGcnCLhBiO4NTFLSyPlvMMVI0/6NfAHmsASobHRdtQAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_sword",
     "equipment": {

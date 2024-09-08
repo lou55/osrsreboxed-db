@@ -1,7 +1,7 @@
 {
     "id": 26867,
     "name": "Robe top of the eye (green)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": true,
     "examine": "The perfect robe top for runecrafting.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAD5UlEQVR4XuWW72taZxTHlYtIRJSgGFTUariRqMQfJEapsQZrU9Ngk2ZpkzXNbBbSNl1Xui6UvRjsxWCwd/uLv/N7zOP9UauJN91gO3BAHu859/N8z3nOc12u/465YfV/1dzwrqXgyS5AiwbgCnj/aSirGlqxBa3QgLa8Dk2vQMsUxe3P2bM4NCPx3l4XOzsdPHzYQqt1F5X0QJlKxwJWKa8gl1tCJpNENLqAYDBwm3Bu7JQXsZGNIx8P49ujPRwc9PD48Ra2t9uo6zFxrdoVsOpiFI1GFWtrRRQKy9D1NLqlDIrJCII+L3xejxOoIQy9lUtK0rOz5zg5OcDhs92RWvxPeTufGqlXr6+KWoynktGgbwRUunNnFig3ntay2F3V8WAlLUBc6/ef4fh4X5QiFCGUUzkzEEvGeKqYDgecAx3Vc9ivLons3CXXlEqqfIRVrkrZbm9I6SKRsMSz5NlYCGH/nDOg5428qETZ2R9ce/P6O5yeHlmgCLy//2gsEOOpHhVOhPzOgE6ahZFKlJ0J3170cX7+wgJFYDPQg849NJs1AeKmCMwN6Qvz0twzNrYBpBqTa+/fn42FsgOxjwjEHIznhlg2BTSDSgaQOrpc+/jx9Vgo1eRqTrFsBHp5b0UU5ink6LgVINUDXPv06Qd8+HCOd+9OpZ/Y5Dx59hlFlRLxGM42i5Y+cgTE+isg7o5rl5cXYxXibLKXLZWK49X9kkVlx0A8zqy/AlJ9RGU4jxQIm5izh87fvD747EWnLEBsasc9pGaQujqMRMPjT2UIQ0WKxbxcGevrZXHzs6qHHCg0HIo8HSyXOiHmlzTyi1hbSqGiJ7BZWoKeiCAWCopnolZ4Tmvm4UnlxJ4JSKnDnTERZ4j5Jc0VHbXltAARjt7frkGPR8TtChFIle2Gl+zwDqM67B+t1pNPC1cyZ9uZ8UnRLOkCY17jcwrI+/RneLZewtN4IkC8aG+g0lWC3ht4Oi8mALlc6oWnO3dxeH/VAmIGNwNJrpgOl099J000N+Z/6mD+bQvB7xsI9Ovw94qYq2XkM9UOZI6zqmL9L/RLV/L598qY28zCW0pAS85f55N3APRje+QCdbwuiXzdwgSgoVrj/xsAXW4ZG33VROCwKvnmNvSJOV0CNAhSQOHfeoj88UR2yPUpwV8wI2fo10dY+OsQ4d93BZAbnpLzcyAm4W+Wb0rwF8wtqgjQQKnIn98YOQfqT8l5BXQFRSC1E/+B0bT2qMl2BcScg1xUh2Bcu0ZOK5AK5LoKnBA8waxlU4qzN6cA0UxlM/XN7DDKhgdmxk2OG3C3YZ/nvXbuGwdc075W3v+f/Q3/rIALSvhrVAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADvklEQVR4Xu2W/WtSYRTHlYvIRJShOFRUdNzJVOYLm1Ny5jBbrmFba2urtWyNVeuNXkb0Q9APQdBv/cXf/B73zHtN03bXC9GBA/J4z9fP8z3nea42278Tdpjzj4YdzoUYHMkpaEEPbB7n74Yyu6Fla9AyFWizi9D0ArREVrL/uX4Vi9ET3thoYm2tgWvXaqjVLqEQ7zhTaJjACvk5pFIzSCSiCAan4PV6LhLOjrX8NJaSYaTDftzZ3cDWVgs3bqxgdbWOsh6S1IpNAStOB1GpFLGwkEUmMwtdj6OZSyAbDcDrcsLldFiB6sIwa6moiB4e3sX+/hZ2bq+fucXvVNbTsTP3yuV5cYv1dDLodVkH2i4lsT6v4+pcXIC41m7fxt7epjhFKEKopHNGILaM9XQx7vdYB9otp7BZnBHbuUuuKZdU+wirUrWyXl+S1gUCfqlny5MhH/zuCWtAdytpcYm2cz649uTxfRwc7JqgCLy5eX0gEOvpHh2O+NzWgParmTOXaDsFnx63cXR0zwRFYCPQ1cZlVKslAeKmCMwN6VOTMtznhOoBqcHk2suXhwOh+oE4RwSiBuu5IbbtQoDU0eXamzePB0KpIVf3FNtGoAeX58RhnkJeHRcCpGaAa+/ePcOrV0d4/vxA5olDzpPXf0fRpUg4hMPlrGmOLAGx/wqIu+PaycnxQId4N/W3LRYL49GVnMlly0A8zuy/AlJzRGd4HykQDjHvHiY/8/XBZ48beQHiUFueIXUHqVdHT6h7/OkMYehINpuWV8biYl7S+KyaIQsOdS9Fng62S50Q449U0tNYmImhoEewnJuBHgkg5PNKJoJmeN7W1OFJ5Y19LiDlDndGId4hxh+pzukozcYFiHDM9moJejgg2e8QgVTbfvIV0n2H0R3Oj1ZqyV8LWzTVJ9KdJ4HL6QJjXDM+59x+C8fKAzgqNwWIL9qfAhKB1hM4Gvd+ANR7/mDtEnauzA/93ggkWiEdNtdYrbNj8nUDk09r8D6swNMuw93KYqKUkL+pwwX6XTGGHb73TdFzb+QxsZyEMxeBFp0c5y9vB+hF/SwFam9RhFzNzKjiIdEBOlnpbfRRFZ6douhNLOmjNO1SpID8H1sIfL4pO+T6iOIh0dP0fbiOqa878H9aF0BueITm90AU4We2b0TxkLCLKwLUcSrw5VZPs+P+CM1ToFMoAqmduLeGDe2oOAWiZkeL7hCMa2NomoFUYbfoh4Ujwtw25ThncwxdQ9vOPTeDontgzrlJ9fDYBWPGr9L9H39BfANaYyzli/XnkAAAAABJRU5ErkJggg==",
     "wiki_name": "Robe top of the eye (Green)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Robe_top_of_the_eye#Green",
     "equipment": null,

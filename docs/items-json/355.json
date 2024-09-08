@@ -1,7 +1,7 @@
 {
     "id": 355,
     "name": "Mackerel",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "Some nicely cooked mackerel.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB20lEQVR4Xu2U30dDYRzGe6/STJNNqWk/rdmW1S5KUWYXSykqxhilYoxRKcUYlTLGlEwxJol0ERFd9c9987zHe3Z2do7asWNdnIfHtnf2fj7ne96zgQErVqx0G0bqlT6GUWbVRf9EitFW2iULzfp8/ZRitJFyWkI6YbSWdHIhyGTXR/spxCi9NMKFxHRMFsLTot/UgkOejslCEtDvHqSQd4iiQRvFwzZKxOw0H7fTYmKYy4jpmCgkiajhy3MOXj0JIYLmNscUUzQcaQMB14IqgejuttT9zDgVd9xUKnjo5GCSv89nJ/i6QTHpYKrhAobN0UJOKoCiEHi4mqK7coiq5wG6PvbT5aFfljvac/PfdCHF5KuGgAALGHqW92gWcMi0pqBfnKc/nCkmSwgBgMpFL79KAJXFmihEGjfhNthvVdM1wmSRlWSSgyqnAaqVgprFLUG1ZNQ7Gwzj9xoyQqR+EeJAvUKkWQnTUzUiC6l3NRjWNhEhApgo4FjHVMRBVcv0VEgpAjhAL7UIvd5GefFZKYXvUBNkENYh8nYfo/d6Z7GubI9vlQhrmwjAH4/T9NWMy/1sSMV3Bh5hI2lBAIXE9/MMf4WcloSJMlJaAP0/M9Ml9KIW6IuEFSsG8gMCYjSwh7vDwAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvklEQVR4Xu2T/0cDYRzHe35KM002pabNNmu2ZdkPpSizH5ZSVIwxSsUYo1KKMSpljCmZYkwS6YeI6Kf+uU/ez3luty+X7fS0yb15u+0597xe97m7gQEzZsx0G0bNKz0Mo+SKg/pEitFmwtEvQozW43ZTSCeMVmN2LgSZ1NpoL4UYJRZHuJCYjmQhbKzf+LxNnY5kIQXocQ6S3z1EIZ+FIgELRcNWmotYaSE6zGXEdCQKKSLN8KVZG6+ehBBB0xtjmikajrKBgLeDaoHozpbSveQ45badlM+66Hh/kv/OpCb4ukEx5cVshgsYNkezaaUAikLg/nKKbgt+Kp156erIQxcHHlXucNfJr+lCiql3DQEBFjD0NONqW8AhU5/CT+0oTJUQAgAVcm5+lwBqizVRiFSvA93AOglTRZZjMQ4qnnipnPe1LR4JKkkGYfxZQ0aIVM79HKhXiNSKAXosBX9biDVMRIgAJgo41jEV8aJKkkFYgwjgAD2Xg/RyE+LFf60UzqESZBDWIvJ6F6a3Smuxrq00Ie1EAH5/mKbPWkTtR1Upzhn4hI2kDgEUEl9PM/wIuT+S0IsW3jMJM2b+R74Bbab1jQ8PCx4AAAAASUVORK5CYII=",
     "wiki_name": "Mackerel",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mackerel",
     "equipment": null,

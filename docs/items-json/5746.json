@@ -1,7 +1,7 @@
 {
     "id": 5746,
     "name": "Dragon bitter(m)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "This looks a good deal stronger than normal Dragon Bitter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xs3XW2sTQRQH8ORBSn0pISWlCU3bhCiVYuuL4pMIvvjiBcU7ioqKFwpeUEKpRA2ttlKIbb2VFlpqDVUjijcsFgt+AUEQxGdBqH6F4/43nO3Z00nNNqt04M/uzs4yv8zMTpJAYPmXIJljuv/PS5D6OnfRrfROO91XdlD20nY7jJjIHaWx/iM0evuwAaU/RMXwIohRAHE0ZqT3EN3rPuDqGNe4p+NGeUIGqb9r9wIUjoBwGDSU3Ue5zB67LY4mENpL9IepTno/eXFpKAbhnEeHQQ9vHrRB3LYUCM9N59P0sXCNZgs3bBD6aG9qsqN7V6U47PypGYROTaCB63sdEM5NoMmBYy4Qzhmke1cl6JoGdMSLG9cAyaHXKQWaunvCPxCPEupwP1sbo0xtlLrCUUqH6+lCqI46rJwNRRyYBj17cNIBIZ5AvC40yO6ovpmGrdyva6TBujjlrPRGGqgnErOPuMY9jXo+fMoNenzZH9DrhlX0MpaigpUnsSTlo0kajybokRVc4z5AGDGJejFy2l8Q6r8l1tJc20b6kmilT40tNBtvoZn4apq2guvPza32OY8Qg/ACvBk754Bmnl51MJ5BGvVrw2aaW7OefqTa6Xuyzcbh+DO1zj4Hcv/KFU7wDEBvxzuMIN17iTL/xmhQT6iKfm/a6s6WbfTVGj1MG0P6rHYcPPdu4vxSQcU9CCNUCjQUrnYFdRw5MqVAclPUvatSfOVNIMQriFG+ghiFeAFlaqqcMKpikBwlHMsFaYgcIezSjCkLhDfMBOKfGNmav4MkBF81+NqQU1bm6KDMg/Q6Qj2D7oSqXUEdItcP7z8A4WvDNxCjKgFhl5YgRuneDaUIMk3bUkH42fFq9IwDwh7kYR9yg+S0oY5/9S0GYgyC0akYhLdsMRA60CgG8QeS0+UbSE8b6hmEDotrwB1e/NwWoPzgcRcIe5Dnfcg0bRKEc3TOfwKwi/PmKUcIbX0BmaZNgnBP/iuRILST66dCEMrCqTBFYmQ0CJuiBHE8gAIB3tYXiwbKyPXjC6jcopHlYDnzbf9T0UhT9DPLuvwBqZs0eniHsOYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu3XW2sTQRgG4OZCSr0pISWhCU1pQpRKsXqjeCWCN954QPGMoqLigYIHlFAqUUOrrRRiW0+lhZZaQ9WI4gmLxYJ/QBAE8VoQqn/hc99dvvWbyaRms6t44cDL7s5OMk9mZidJXd2/X0Jkjun+Hy8hGujeTtez2+z0XtxK+fNb7DBiqnCIJgYP0viNAwaU/iF8wx0QowDi6Jix/v10u3ev0jGucU+PivKEDNFgz44yFI6AcBg0kt9NhdxOuy2OJhDaS/TbmW56M32uNhSDcM6jw6B71/bZIG5bCYTXzRaz9K50meZLV22QJwzelD81g9CpCTR0ZZcLwrkJND10WAHhvEpQSJkGdMSLG9cAyaHXUwk0c+tocCAeJdThfr4pQbmmOPVE4pSNNNPZcIy6rJwKR12YDnp895gLQjyBeF3oILuj5jYatXIn1krDsSQVrPRHW6gvmrCPuMY9HfVk9LgKenAhGNCLlmX0LJGhkpWHiTQV42majKfovhVc4z5AGDGJejp2IlgQ6j+nVtJC5zr6mOqg963tNJ9sp7nkcpq1gusPbR32OY8Qg/AAvJw47YLmHl2qFoOignTU97UbaGHFGvqaWUVf0p02DsdvmdX2OZB7li5xg9cA9Gqyq1YQyq8nRgf1hevpx/pNajZupk/W6GHaGDJgtePgda+nztQKcvYgjFAl0EikQQnqOHJkKoE8bIrOI28CIV5BjAoUxCjECyjXWO+GUb5BcpRwrBakQ+QIYZeuEoPiPGEmEP/EyDf+HiQh+KrB14acsppA+jpCPYNuhhuUoA6R64f3H4DwtREYiFF+QNilJcgDygGZpq1WEH52PB8/6YKwB3nYh1SQnDbU8a++xUCMQTA6vkF4yhYDoQMdxSD+QHK6AgPp04Z6BqFD5w3V8OLntgAVh48oIOxBnvch07RJEM7ROf8JwC7Om6ccIbQNBGSaNgnCPfmvRILQTq4fnyCU8qkwRWJkdBA2RQnieABVW8qRHLl+/iJosVKOLM//4q/8BF+X6d/d6p/6AAAAAElFTkSuQmCC",
     "wiki_name": "Dragon bitter(m)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_bitter(m)",
     "equipment": null,

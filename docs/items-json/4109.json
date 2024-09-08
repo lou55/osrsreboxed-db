@@ -1,7 +1,7 @@
 {
     "id": 4109,
     "name": "Mystic hat (light)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": false,
     "examine": "A bright magical hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xu2XX0hTcRTHdxky7hB78SnBP4WCM5xGqaDmQs3MsMxUzPxTiKmZtjSG4p8wnVjKasNEbDHKVEgmosskKTPNwCyyQEIx6rknzcSnb53fZdtVezCYm1FfOA97uffDOed77ncSyX/9O+JgL5eLw3O9HF3VPJoKZDsBjMOAVo42NQ+jhkdBdjZSEhNdCcax7nRU8AysqrQU+VlZOB4fj4MhSmdD2btjbvw1tvY7aKmrhaakBHkZGQgPDWVAIb6+zoISuvOoXs5ePNLfD5PBgBs1NWx0UWFhzgfqqePZS6cnXmJ0aBB9JhOMOh3rkCoy0tlAJGF5J0ZHYenrQ09nJ9qampCTnoYjMTGuACJx+LKwgIHubjayW9frcT4zE8fiYrEvMNDZi03i8OnjB0yNjaGztdW2QycSErA/ONgVXeLwfnoaY8OPYX5wn+3QxXN5SE1Kco3TCIaWmlxGO2TQalF7Re0Kp3H4PD+Pt1NTeGaxMIfRyLSVlVBfKMCZUymIjY6GIiDAGXvE4eviImZnZvBiZIQt9D39bXYYrxYXM9vTUluvNXVoG7vEYXlpiXVn5tUkhs1mdqX1jQ1sVEW5uUhLTsahiAj4+/ltx8jE8YLD9+XlTUBkdxpVeWEhu0FHD6ugDAoCLxMSgAOA7AAUL6z1Y2VlExAdRHJWg0Zj+9rTMu/x9oaHXOIIIA5PWuR4qpNj3CDH6w53vLnrjtXV1U1A5K7B3h62zNcqytlBpAtNB9Fzl8RRQKT1Y6L6HRAdw/6HXWhvbkb15TLbN8zHywu7PSXroDa+4Y9ldwaHtckDQk0osTauYLUwN8e+YWR3uj2Uhc6eToUqVArlXikUPhL4e9k75IAuicUJMCKgb0MezPK9RiNzWHWODNkJbkgMlyIqWIpwhdTWXQfDWCU8XAz0zuhuC2lWoDSVAJUZ54aik26oyBRnbQeMTizrCKkIaNa0HuhSqgChTpex3w35MtwsktkyNwU6h0ORxGCWZgGIXk7/PAhAV8JDXyZkbQIxVfEszFG6tCbMjc90iMRgWy3K31TbBkWyumgrZQWz/94B2lEwf61+Alvywme9Z0SVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xu2XX0iTYRTG9zFkfEPsxqsExULBGS6jVFBzoWZmWGYqy/xTiKmZtjSG4p8wnVjKasNEbDHKVEgmosskKTPNwCyyQEIx6rorzcSrp8778c3ZIoj2J8oHzsVu3u/He85z3mcSyZb+H3HYKI+LwxODHN01PJoLZX8DGIdBnRztGh4mLY/CnBykJSd7Eoxjt9NZyTOw6rIyFGRn40hiIvbtVrobauN2LE3f29ZxE631ddCWliI/KwuR4eHuB6Lbud8gZx8eHRiA2WjE1dpa1rqYiAj3A/XW8+yjM5PPMDY8hH6zGSa9nt2QKjra3UAkYXgnx8Zg7e9Hb1cX2pubkZuZgYNxcZ4AInH4uLiIwZ4e1rLrVxpwRq3G4YR47AoJ8QQUh/fv3mJ6fBxdbW22GTqalIQ9YWGeAXozM4PxkQew3L3DZujc6Xykp6R4xmkEQ0NNLqMZMup0qLuo8YTTOHxYWMCr6Wk8tlqZw6hluqoqaM4W4uTxNMTHxkIRHOwOKA6flpYwNzuLp6OjbKBvG26wxXippITZnobaTduaw8ryMrud2edTGLFY2JY2NDWyVhXn5SEjNRX7o6IQFBjoCiDxoRTqy8qKAxDZnVpVUVTEdtChAyooQ0PBy8QE8MfaAKB4IdbX1VUHIFqI5KxGrdb22tMw7/D3h49c4gwgDg9b5Xikl2PCKMeLTm+8vOWNtbU1ByBy11BfLxvmy5UVbCHShqaF6LtN4iwg0uY2Uf0MiJbhwL1udLS0oOZCue0NC/Dzw3ZfibOhRHFYn9or1KQS6xMKVovz8+wNI7vT7qEsdOpEOlThUih3SqEIkCDIz+kwojgBxg7o87APs3yfycQcVpMrQ06SF5IjpYgJkyJSIbW7YZdIONwe6LXJ2xbSRKAMlQClTvBC8TEvVKrts7ZL4ISDCWjOvBnofLoAocmUsd+NBTJcK5bZMjcFOhdBkQQwa4sARB+nfx4EoC/lYSgXsjaBmKt5FuYoXYoJ88fTnChHR/6qKH9TuRjqdyTCbekf0zeagY7LhMx1lgAAAABJRU5ErkJggg==",
     "wiki_name": "Mystic hat (light)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_hat_(light)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 2528,
     "name": "Ghost",
-    "last_updated": "2024-06-01",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -48,7 +48,7 @@
     "magic_bonus": 0,
     "attack_ranged": 0,
     "ranged_bonus": 0,
-    "defence_stab": 55,
+    "defence_stab": 45,
     "defence_slash": 55,
     "defence_crush": 5,
     "defence_magic": 55,

@@ -1,7 +1,7 @@
 {
     "id": 21999,
     "name": "Super antifire mix(1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "One dose of fishy super anti-firebreath potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xt2X+0+ScRTG/f7gmH9BCZJ4IW+IvIACcgu5vy832/ylZs3N1kynkjQV8ZKRqXnXZuba2vpDnziHEebaqg14q7M9AwaDz57nnO/30NT0/5RAVaqXQDqsw+yT+9hblf4GKIHP7534euJGMTfEQBaDQS2ockwE9OXQhddZs5rRCbS3d0KvNzAQaWPeBK1OD6OxTw0ogcFBCTabg2Gudx1YmxvAoFmCyVTupQZHJ+Dx+ODx+uD1+uH1PYCvJJfLA7vdqQ7Q2FgIY8EQgsEwi14THLmmClAsFkc8LiOfL6BQWMfCQrbkUgCSdVgNICrBESlKAolEkuOrTBnBqAIUCAQZRlEUjktFGCqBUChcAkpwdNTYra1taow8lYDDMcp9JMsKP9KUjYy41OsfAqD+IXci0Rg3NEFqtfpGuyQgSXaEwxEGov4hh/z+AJxON7qNvY12SXC/kDOVCaPYnmreMZB92MlXSINcEugfGOJmluUqEOl5yxkfA5I0DENHd6NcEjzekUiUXakAJZM0+glMaoqwWkcwZLFBp7tXb5cE3+R0RVATV4AWU9tYyrxFNrOJ6ZZjTGhW+Pro6DDW2yXBpzHdX5Vxz6V2sJzexUpmD6vj+5hrucIjzRYsFjt6egbQpm+vl0vl/YcmaTqSw6ycx3JyH/nUIdbSRyhkjrE+foKNh6fc3MHmSb71Ozvr5pKA2+3DTLCAbLSIlcQBCskzrKfOsJE+x2bmAlvjH1hKKTJ/8zNM2F4g2v+Yl7g6uFTef16GdpGPnWIzeYnt1BXepD+hmLn+QQTkbZ7ClG2VF7aurh7cuautJZTg84Wmaya8jWz8oOTQRSmuy1JcH1n5VFX0PgHZ7A6euN4+0/fYahRdec2gw5Aaekk+ZqDbepU4Zc3HdzgyukYIymy21rqPqg4RUE45wbJyzqLnpCXliLUo72MyNsfwo6NehqrTSltuatp/6FD8leizDoeLHapxXJUqx0ZAdG38TLxXlxykg5M+e3O3rjFMpW7+h/891RGmXJUf+BPd/o5/tr4B5rleLZ9r8IEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xu2W+0tTcRjG/f4gw7+g3Fxel7c5Pdv0bO7W3P2c3Qz8pbAQjDBFXS7UOS/ZMjXvGmYSBP2hj+d9x5AiiMCzE9ELD9vY4fDhfZ/30tDw74TArQwPgVzMgtlnD7G3Kv0NUAJfP3rw/cSHSnHQaKBqmQjo26EXbwsOI0sn0NraAau1jYFIG/N2mC1W2Gy9RkAJDAxIcLlkhrnelbE2148BhwS73RAvCfj9QfgDQQQCIQSCjxDU5PX64XZ7jAEaG4tiLBJFJBJj0W+Co6wZApRMppBKKSiVyiiX17GwUNCyFIbkHDYCiEJwiVQ1jXQ6w+UzsMsoBMLhCMOoqsrlMhCGQiAajWlAaS4dGbu5ucUoKAFZHmUfKYrKn9RlIyNe44AIgPxD2YknkmxogjSbrfWGEpAkN2KxOAORfyhDoVAYHo8PXbae+gORXygztQ6jsj03fWAg97CHV0idoAT6+gfZzIpyC0R62XTGY0CShtHW3lU/IGrveDzBWakBZTLU+mlMmipwOkcwOOSCxfJAbyjBm5xWBJm4BrSY3cZS/j0K+U1MNx1jwrTC66O93aY/EE1j2l+1di9md7Cc28VKfg+r4/uYa7rCE9MWhobc6O7uR4u1VS+o6v1DnTQdL2JWKWE5s49S9hBruSOU88dYHz/BxuNTNnekcZK3fkeHblkS8PmCmImUUUhUsJI+QDlzhvXsGTZy59jMX2Br/BNL1UoWanyBCdcrJPqe8hGnA1T1/nkd3UUpeYrNzCW2s1d4l/uCSv76BxFQoHEKU65VPtg6O7tx7775LqEEzxfqrpnYNgqpAy1DF1q5LrVyfWaVsrei/wnI5Za543p67XcJQ1E9M2gYkqGXlGMG+llv0qes+dQOl4zWCEE5HM67B6pliICK6gmW1XMWfSctqUesRWUfk8k5hh8dDTCUTidt1dR0/9BQ/J3oWVn2coZ0gKGolo2AaG38SnxXaxmkwUnP1uG2ppf/qf6HfnEDV4UpIpqzX7sAAAAASUVORK5CYII=",
     "wiki_name": "Super antifire mix (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_antifire_mix#1_dose",
     "equipment": null,

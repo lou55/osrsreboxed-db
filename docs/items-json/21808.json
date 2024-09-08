@@ -1,7 +1,7 @@
 {
     "id": 21808,
     "name": "Ancient emblem",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-11-23",
     "duplicate": true,
     "examine": "A mysterious artifact of ancient times, of some value to emblem traders.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xs3WW0tUURQH8Jkv4GfwI/TWh+gho6joSkVJEUEUlUg3k+mKoXbBRGFCzaRGhBgtMbKCoJdgXoaIgqmQLpA91POK/z78t+us9nHmOKdww2If9+wz+zdr77OOudzqb3kJR+jzf97ycrVzo1zu2OCicLJNuo+vd0HESO8eKfbsluFruwIo+yOahkcgogBiWMzQlR1yu7AttjD+xmc24qhUyLz0nN70Fwo9IAyCbnZvld5zm91c9CEQ5mv03ESnPBk7tjIUQbhmdgi6c2m7A3FuEgj3zY53yLPSeZkvXXAgrLGmtdWFXd20KO381QRh0RCov2uLB+E6BBrr3xsD4Zogu7pp+dg2YCEebvxtQTw/3N4k0MSt/dmBmCWMWZCbP/fYowBC1izo4cABD0KkAvFcWBB+eQjUV56qC5ocbI+D7p1oHoRxgIhCJjG/MHnfg3i/BU0NHcwWhABAgzD35+9fLnCNeFmtuF5jMLdcPOxBTx+c8ZjUII3ClwPDxYlpBDR990gQZFdPaNGX4zxYEMarn2qpQTMjR1cKimoQMpQEOvu14mJ08YNcfDHq+lNf3vhxC0JWNUgXRbu6adEjHwIhCALARte3irQvvJa22vMYCNnJFEQUAgug4nJ7Bn+8c5iWhVlZV5v343a7MgPpLKHXoOvfqw5UXHwvLR9nZOfnV24c91jQ+I19HoQqTUxDIDxhIRBfBxqEqAdCdvDa0BlqMDtoSyB7jljsANKPPkG4xjnTIG4XXhuZgYjCOBYgiC9VRF+55HqdSQ1CldYgouzqgRaBQttmQZjLJwsHeu3baTdmQZj/aPiQB6EGpahDcZDeNg1Cj3FmiGEzBHjTIDxl9UBYDGN8x7FO6bPG7coMZLcN4xqExTWItQr3cS5AeOQ1CDUodR0KbZsG4Xo5kD4/mYBC26ZB+Ez/W6JBmKfPT5MgtPhBTQp7fhgWhKKoQYwUoFyOZX25sEAd+vxkAmq0WWQjWMbS3P/ULDIU9p5V3f4AyZbjI4zXyYEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu3WW2vUQBQH8OYL9Ov4IXywoqh4RUWLIoJYrKV4q2W9UmnrBS0trLS1Ft1SkG21VKwKgi/CviwiCqtSvID1QZ+P/Cf8w8nZ2W6yieJDBw6TnUwyv8ycTLat7f8vgfjDd/6vl0Cu9G6SSz0bXRS6O6S/a4MLIsYH90pxYI+MXd3tQdmHyAwPQUQBxLCY0cs75VZhe2xg/MY5G3FUKmQgA6c216FQA8Ig6Eb/Nhk8u8X1Re0Dob9GL073ypPJ462hCMIxZ4egOxd3OBD7NgLhuoWpHnlWOidLpfMOlAqDm/KpCcKgPtBw39YIhGMfaHJ4XwyE44SgILYMGIjJjd8WxPzh8jYCTd88kB+Is4Q2C3L9Fx9HKIAwaxb08PbBCIRIBWJeWBCe3AcaKs82Bc2MdMZB905kB6EdIKIwk+hfmLkfgXi9Bc2OHsoXhABAg9D35+9fLsKbB/KyWnG1xqBvuXgkAj19cDopBiUO0ijcHBgOTkwS0Nzdo62CUMKbIx8sCO3VT7XUoPnxY62Cwj0IM9QIdOZrxcXEyge58GLC1Se/vInaLQizqkEpNsXwlfeBEAQBYKPvW0U6l19LR+15DITZyRVEFAIDYMfl8oz8eOcw7csLsr62FLXb5coNpGcJtQZd+151oOLKe2n/OC+7Pr9y7bjGgqau749A2KUTYlDCN8wH4udAgxDNQJgdfDb0DLUEsnnEzQ4g/eoThGPkmQZxufDZyA1EFNoxAEH8qCKGyiVX65nUIOzSGpQCFYJ8y2ZB6Ms3Cwm97u2ca7Mg9H80djgCYQ9KsQ/FQXrZNAg12jlDDDtDgGcG4S1rBsJgaOM3jvuUzjUuV24gu2xo1yAMrkHcq3Ad+wKEV16DsAel3od8y6ZBOF4NpPMnF5Bv2TQI5/TfEg1CP50/GUEo8URtFDZ/GBaETVGDGClASUs9kqHz5x+CViv1yPpYK9nKH3+SmJf+QNF6AAAAAElFTkSuQmCC",
     "wiki_name": "Ancient emblem",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_emblem",
     "equipment": null,

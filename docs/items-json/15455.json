@@ -1,7 +1,7 @@
 {
     "id": 15455,
     "name": "Herring",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "Some nicely cooked herring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHElEQVR4Xu2U2UsbURjFvX+CtAgqUlFUFLFRrAtqU3G34lKXuhO1Vqu1KnEjWItIreKC1oL44IMgglAo9MF/78j5wk1mxgyawSF5mAMHhssw5/ctd1JSPHnyFK8UrCcJlELfuzokCZRCz9taDDT4BciXnZ1IKIWuuurkA+K4kgBIoaOmKlmAFFoqy01Ag031bgLxtti78U1ZBIj74yJQODD9RSoy014iJyMdeVmZKHyVhZLcHJTm56KyqFCA2qoqIkAc1zMDhUGs4XR5Qb5AVBcXofZ1MerLfJEO0QTTcNEuOlb4Azo4VqgxkPuirznHNNLcgE+d7QgO9eNbfw9mut9jsqPVKZiScL+vxLQTxlujR8Fgoxm6NTGGk8U5HH79jN2ZSWxPjWMzMILV4QEsfezFlw+d8UApqdr4U2PwWGsTAu0tEsjKY5lhhIl2wd7cpyfslJJQtpdt1uGsaL6vW87sTBB2whj2mK3pMaTk42xts9+PnekA9uempf3ro4O2JgjfjaPyp0rJrAmjQf4EF6R6O2sY7ooGsn7VoZSpIwS5WFvCZSgoYTSfz1cWZVn5bmh8SM5/zU650x0ryNX3ddxshwSAvv6xYYIiCAtwAYZSD0Buf27h794OzpbnBVb7eGHW5GcelZZ6APLvaBf/Tw+kI0YTysEVdqJoCIEIc3f+WzrHUcaCcBEmrGiA/c/MdQg7WQESAuHJkwPdA1nNSBwlnMPUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4Xu2Ua0sbQRiFnZ9QLAUrUlCqKGKt2KpUTYPX2hAvVatVQ7yn8ZJIvJRQFREvpa1oW5B+8IMgQkEQ+qF/78h5wya70RWzZM1S9sCBMCxznjnvTPLyXLlylakU0ldyKIX+101wCJRCb3MjBls8TgBS6G5qcB4Qx+UAIAXfq3qnACl01NUagIbavHYCcWNzt76oSQLx/tgIlAgsyH+AwkcPUfy4AE+LClH+pAhVJcV4XlqCuopyAXpT/zIJxHFlGSgBkh5O15aVCkRDZQUan1XCW1OdbIgmmAaXatGyEhtowTeF6gN5X7RnzjGNtLdgyt+F2PAAFgd6MdvzFhO+TqtgSsI91VWGO6F/NdooGKw3QzfGx3AYCePb/Ax2ZyewNRnA5+AIVj4MIvr+HT72+TOBUnJq/Z8ag8c62xDs6pBAnvwmM4wwqRZu852kJJT1smYtnCea6++RNTMThE1kEHYXKdmc1bZ7PNieDuJLeFrqXxsdMjVB+G2WYSglsyaMBvIrtiCnN7MGw7uSZSBlaIQgv1ejOInHJIzm7+PliFxWfhsPDMv6Xmgy2zCUugZyur6G8624ANBnm58MUAThAWyAodQ1kD87G7jY38bPpTmB1XywEDLYNqB0kMvvu/h79FUa0ZtQFp6wFaVCCESYf8c/pDmO8p4gzKQPzxmEK1f/h64AxREJCFhLlsMAAAAASUVORK5CYII=",
     "wiki_name": "Herring",
     "wiki_url": "https://oldschool.runescape.wiki/w/Herring",
     "equipment": null,

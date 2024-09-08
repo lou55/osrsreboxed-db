@@ -1,7 +1,7 @@
 {
     "id": 18950,
     "name": "Chocolatey milk",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-08-27",
     "duplicate": true,
     "examine": "Milk with chocolate in it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xt2X/UtTURjHPYSIIoHULyYtW6ikoiumJLpQ1NQW862ltnRr+TLf5ktZUSEUEQT9EER/71OfZxy9HqcEnTupA19279295/nc5/k+52xVVf/HMHKsCx9GemLdMtDbK8OJxEVDGdlZWZbJsTEFeTgyLONDgxcFZWQ9mw2Uysj0xITMJpMKVuESGskvLChAe2urtDVVqzojNfJ0Zlrmp6bk0eioxKI1lYIykk6lNDjZGI3VqSbidXodWL4D+F5bbdjZMrKcycjSk7QG5nioq/aENp/nZHVxUb3FeaKjVoFDADP65hiZgASiLK56Wmrk0+sDBSJrQNkMpnrrfUEZnXi6r15yI5c1KL6JXL0kk11NpwQwPmIpwFuA2gwyV6y5+W+hjPqBt2TyaGP1KQhXQSCeRbZ0XoDIChO6gc8Shh/s75e+eFxfAiBbMi9ATEjK3cDniQwh4Hg2PeARCBMD5QY9S5SMlRtzsxw8ezwrubk5/0CUDrkAruzKTWcCUky36XLhDWjm/nVJD0VkfuSGph8oDEu3YXI6DjU2lMSKDcDmTKsqOx7V7vMKBEzmwU2dPJ+MykrqlvqinApTLUfi/mTfNdlbW/ULZDPkQhGULFCWvbnb8mqh/QQMZbObMTAegBhGjfqnYJzzHSCs7tsv8r6yY4dRCIJjVjrnPDA9/73fHWxsyMd8l7xf6vAPBACBCEhpDnOdmgE2WYJjYvsThOsfdnfk83K3wrzNVACIQLw9Qb+sxeTr+h35tnlXvm/HVZwDzX34yjsQ/qE8lAWf8NYELAfEpy0V94UChHesjzAvQWyWALIwB7NXFBJYYPiN5LnDGOZoK8AvtmzBLJGhH7txKaYa9NqbrS3tMI/rjztKrW/3Jsz8slDQTiL4u2JRjXy4v6fnXLeZCg3Ieogs0UlniWyh0IGC/iGQ7TK3wzjGVzwTgn+CoxQAMwe7Cwj883O/Rz9dkJBgSqM0+fGfxHKqCIg7gkHLyb3/nx+/AL6oMv1qf3ozAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu2W/0tTYRTGfQkRRQKpX0wyWjhJRVdso6GGQ5faYurWUlu6tfz+ZTprFRVCEUHQD0H09576nPHqvDoJeu+E6IWH7d5t9/ncc57z3jU1/RvLyLEufBmJhIZkJBqV8dHRi4Yysre6IjOTkwrycGJcpuJjFwVlZDOfr2mVkbnpackkkwrW4BYaKS4uKkBfMCi9Xc2qge4WeZqek4XZWXmUSEgo0NIoKCPZVErNqUYi1KaaDrfpeWD5DOB7va1+V8vISi4ny0+yasz7+GDrCW0/L8ja0pJmi+PR/lYF9gHM6J0TZAwxoi1eRXpa5NPrigJRNaBsBVPRdldQRi88F2uXwsRlNSU33Vcvycxg1ykBTI7YCsgWoLaCzoDIA3fJxQOdzacgvKoF4rfouHV/vYxWhQt6jeuJwI8ND0ssHNabAMhpy7ggJfcanycqhIDjt9kRh0CEGCivaT3RMnZuws128OxxRgrz8+6BaB3yAnhld24mE5BStle3C2dA6fvXJRvvloWJG1p+oAgs00bImTjU2VEVOzYA2+mgKj8V0OlzCgRM7sFNvXgxGZDV1C3NxVnamO05Et9Pxq5JeX3NLZCtkBcKU6pAW8rzt+XVYt8JGNp2/DB2towG9U/BOOYzQNjdd18U3QMBgTlhZXLOA9Pj38+7ytaWfCwOyvvlfvdAAGCEIa05LAxoBXjIYk6I7V8Qzn/Y35PPK0MK8zbXACCMuHtMv6yH5OvmHfm2fVe+74ZVHAPN98iVcyDyQ3toCznhrjE8C4hX2yq+5wsQ2bE5IryY2CoBZGEqmSsKCSww/EdyDMMyR48C8mLbVlslKvRjPyylVIeee7OzoxPmcP/xruro22cTYX65saGThPm7UkmDfHhQ1mPO20r5BmQzRJWYpHqiWsh3oNr8YGSnzDthvCdXVRBfYOyqGhDm2ukCgvz8PIjoawNAvMsa1tP/5f/6BYzQ/eNxq+F+AAAAAElFTkSuQmCC",
     "wiki_name": "Chocolatey milk",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chocolatey_milk",
     "equipment": null,

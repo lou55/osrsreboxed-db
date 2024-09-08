@@ -1,7 +1,7 @@
 {
     "id": 757,
     "name": "Book",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "The Shield of Arrav by A R Wright.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu2Wu0oDQRSGXZYlbBArKwUVQUQtIoImhWgakaAELyRgIWqhIiHirbCwFCRYWNr6AL6Edtba2AS08DXGOZfZmV03MZuLCZgffjbJLpmP85+Zsz09XXXVVlmC3BGyhBPbls4xVFvBAGZfek96SzjOhrCdjAFmuuWSMG4RIZRtJyu9JD0vbDspPSOdQLcYTMcEIOMTxz5DlTwwBYfXmVaAAQzFEwQJWoOltbFyTasYV6YGGD8YRJnhWFWkslr2ZCNQlWEeHx5+fDdt9hlBQaUgvgEEmh4ZiQpVHSbMwed004PnGaavHiDKOgymElTwPljFBpF5MPZYVCBLxNyL0CYOQlSDISBucIzKD1MjEMO4R172jQOlOabhBmDgFA4BUlC//UZRpUVhb1f0xuMcV2SYKwSKuacMlUMHF69kBaW2+OoSRJWUi/dHhQFJoPit9LUEuuRKFUP7KMy+w1D2y+w0jI4kVycyDMgS96USVsQPdkpQFcaF3tb6NB4dGsIKDQ8O1gujRNscFj852RRu/M4DoxmmwbwrAlHjqubN5xdFYmqqURiQhRAIxosD2PlZTnyWy+Ll+Yn7q8g9pl5BcggFIyGTmRMLqVQzYJToQITYCIxO6uPiOoLpXahg6D70z+pKqp5z5nfRHymwG9x9UIXDgxUEo0PTDwQx0TSvayzUJhPs6/NDvL+9EgBGlOXP22J3Z5m2N0/xplYnTL6KYYPr19ZCYc1o6D+AMaXAVB/pwZn9exi/+E2AI2szDMmMse0wpjoK5l/oGw+7xKniE3EPAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xu2WPUvDUBSGDSGUBHFyUqggiKiDImg7iHYpUlqKH1RwKNZBRUqkfgwOjoIUB0fX/gD/hG7OurgIOvg3rvecc29uEhM1iTWCfeGlbVLIw3nPPSd9fT31lKo0Rv4T0piRqXPXBFSqYACzw73NvckMY43pRskF5nbXxWFMGyGkdaPKXeReYLqe457lnkZ3GUzFBCDjEwceQ5UcMAmHn7PdAAMYiscP4rcCKyhj5X6sYqIy34DxgkGUJRGrjJRXS59MAhUOc9PpfPjttrvPCAoqBfENxQX6HCbI/v+ppgcvCJiBOECUdRBMGJT/PljGBpE5MPpYVCCNZcyTwCb2Q3wGQ0CiwTGqJDDmvpN9cqCCiGkkAQxM4QAgCfXVNYqqwJrbDdZvWSKuyDBnCJQxDwVUDe1/eJgllDzilSJEleMQg1FhQBzIuuQ+50CnolJ2YB8F2TMMeb/MzcDqyInqRIYBaey63caKeMEOCSpkXahjrabxaDaLFRoZHo4LI0XHHB7eaq0z07pywGiHKTDnE4GocWXzbmwssempqaQwIA0hEEw8HMCOj2rs9fmZ3d/div6yRY/JV5AaQsFKKJXm2WI+/xMwUjQQITYCo0l9YK8imDqFEobuQ/9Uyvk4c+a7kmAXePqgCnu7ZQSjoekFgphom8daC1FEYG+vL+zp8YEAMKKq+F5nja1lOt7JtnhUiYphg6vX1mZzxdXQvwbjlprmanFW04KRomrJyFKGcYvA/Fd7+ld6B0QujMDpVGF0AAAAAElFTkSuQmCC",
     "wiki_name": "Book (Shield of Arrav)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_(Shield_of_Arrav)",
     "equipment": null,

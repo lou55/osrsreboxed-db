@@ -1,7 +1,7 @@
 {
     "id": 4817,
     "name": "Book of portraiture",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": false,
     "examine": "A book explaining the art of portraiture.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4XtWW/0sTYRzHd4zjWD/4Y6BSmjJlU5wOa4XKjBTWF/oykJS0sFIKKZCEBGuYiGJLXK4lJYqI0S/Rv/jpeT/X5/bcs83tTk37wJuT6eDl6/N+7i4Q+L/HIDtnYgxqGu2kC+nIX6hTBTOo5UnMAWq4Hab64RYF7J/DGXTpURddHIlS4712qk+10nAs6GSwI6jBnSigsPO0xwV0syfoRAdD+iPlAPX4nlKgu5eDTqqBIYk28Tcp8bsh8XlSfNbHwJ7HoNapuNMfAKUTpsz29npJDgNTgcKtAQnU3dzsBcqgtpkrLqCRa6YTHaZSAMaWABSPB6mu7hiAsLKxAdOVanBsjC0BqqGhCOMByKD21wkKv+iV/UEmkqYr5cB0OHRMBQrXB5xeeexQEQiGJm+YJSkHp4KhZ1x6QMVbxKpCAQkX67KBajRkUHSuTwJhZYCaGjZdqQSngzEQ25menqBEwlOHDOqY76fI7FUH6GXKdOUwOBWMLal2fHTIBoIhQL26ZZakEqAOxobYDlaFqyeYzkzSAUJm71iu6HAqoArGQLodXGtcFUbYWRiwI6Dm7luu6HA6oAqGlbGdpvM+7XR9GJSGkPm0VZJqgAwFQ+W649lObPm6hELejViu6HA6IEMBCHb4ZPm0g7ENLT60yqYaIEOxHUAcwQ7GPl14eH7KZujj2ntaHrNkdLhKgGxn6rm4jpoUjfi2g7ELjWfW7u5n2tnZkLf+79+ytLW1RoXCKmUfW7Q6bkeHLeRDtLoi4BZEl2bEKRs35c3Ppx2MfeRxI1RPDk4M4Pb28rS//4UODr7K6+azEG1M2gHozrb4eT1EixmxvjcWpR/Ya4s2+rKDMag3l6LulSH5H2MFXFTuB58gGIM5GIRNwP7+dU5aAhAsodRHsMNTfL2EAV4RA3IYDvZwA8zlliifX5FrBaxaap92ilP8svv9l1fEgFxk2OPV8jOMXzk8PEBrG4arBohyAw5gWCkeGSj1ke1Um8MAf/4I0WaueNLwqnqsdmqZcoDLS8LWW+vk7dQyKtipw6hzpmCOY/4AC/AAmbUi7n4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xu3W/0sTcRgH8B3jONYP/hhsUpIyZVNcDmuFikYO1hf6MpCUNLGaFFIgCQnWMBkbtsTlWlJDETH6JfoXnz7vz/Wcd59tjrulFvTAm5Op8PL9ee5On+/fHo3M/BWjUcdkH51LR36jThWmUedszAKFboUpmOy0wU4cp9GFh/10fiJK7Xd7KJjqomTMb2Ws16/gjhUo2nk84ADdGPBbUWHIcKQeUI3nqQXdueS30gyGJLrFz6TE98bF56PisyEGux6NujJxa38ASid0mWp1oyZHweygcJfPC0ij7oXLDtDEVd2KimkUwLglgOJxP7W1/QEQjmxqRHekGY4b45aACoU8YnpeJij8bFDuDzIzqjtSD6bisGN2UDjos/bKJeoQhIbmrus1qYezw7BnvPRAxTvFUQV8EhfrdwXSKLo0JEE4MqAySd2RRjgVxiBuZ35+hhIJVzukUe/yMEUWr1ig5yndkaNwdhi3ZG/Hww6ZIDQE1Iubek0aAVUYN8Tt4KhwdYXpy45aIGTxtuGIirMD7TAGqe3g6grUuzJiRqCW7hmOqDgVaIfhyLidjrMe2+l/NyYbQpbTRk2aARmFhurtjut2YrlrEoW8mTAcUXEqkFEAoR2+szy2gzEbWn1g1E0zIKO4HSBaaAdj3l14eX4oZun9+lvKTRkyKq4RkNvJPBXXSZ2iEc/tYMyFxjtrd/cj7exsykf/1y9F2t5ep0qlQMVHBhWmzajYSjlAhbzArYhdWhB32bQuH34e28GYtzwehPY7B3cMcHt7Zdrf/0QHB5/ldetJgDbnzAC6UxVfbwRoNSuO75VB6fvmsUXbPWEwGg2WUnQxPy7/YhwBLyrvB99BaAzNoUG0CezPH2dkSwChJSx1C+3w4BfNoAE+IgZyGIf28AAsldaoXM7LYwXWvtQtYNQ5xDEQx8NAXmS0x0fL7zD+l8PFC9TLNAZiuYEDDEeKVwaW+hgx9cYJ/P4tQFulwzsN/6qeMEgdE5ZbE229Nk4bYx9u7f8c3/wCN/S9Kb7ZRKQAAAAASUVORK5CYII=",
     "wiki_name": "Book of portraiture",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_of_portraiture",
     "equipment": null,

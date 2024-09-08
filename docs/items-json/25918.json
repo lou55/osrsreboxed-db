@@ -1,7 +1,7 @@
 {
     "id": 25918,
     "name": "Dragon hunter crossbow (b)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-07-21",
     "duplicate": false,
     "examine": "A crossbow used for dragon hunting.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2ElEQVR4XuWX30tUQRTHPQ8hLWFIkqRkmmSY4aqoGWYa27b5A01lK0zKh30oH7IIK8iWWKSliOyl3oKeeup/PPGd2XNn7nXv7xss9IXB5c6P+7nne+bM2Nb2/4lYt5YQ8cToKOdHRloBinhhdlYBXR0e5itDQ0mgYk8IEPHNmRkVHQBdHhzkSwMDUaG0z2c6O6NOCBHxSrHI1ycnFRCiA6CLfX18obc37B3EP38c8Z/fvxTQyfb2xoTASSEiXrpd4Gvj4w4QonOuu5tP5XJq7bH+/qD1NcDZri4FtLJY5L3digUWB454rVTiu7cWeGosr+xCZLA2YCICQQbIBtm6v84Hr/cigmmrCnNzyi4kNCxC5E93dDhrACY2kJlk4J5VnlhQXjhSUUEiIzLImfM9PWpNL0gEGOg4kPTYcPJ3/8WuCw75AmuQL4gKYBKCiPyBbJnnBg4JDHuQtGanJgYRUZxd0BDxjelpZRGiIvakBBGRCrMkX/hiJmckX2wY7+gEImdHSJTkuXucfiY7CXXGVOAoHxJL2jY7D3a2H1hwegzOKFiFvEF0ZOxh9Y1nbGrpKNlQj7fK1pfr88muwNIn/RlaJjJQSFJTe8jXIjdAphGCSOWQ1JJXz5+q36gxsCe44hJ/Pnzf6M9UGgrHQPXtS+dwXFsu8ea9Za4d7HN5Y9Xnxf8ouWVLI1/w1V8+Vvlr/QN/+1Tjys4jnprI+7yYFHBz2MTS2/rO/LxzwZKriX34HrdMzwV0c9hE0skLGGxtKXoAketDeDXPzDZzl5FTGwldzp1QEEhoae7i6RVxvfYuoD+SSEUFB6XAwCr5WjSAwDpp9o7ztu9H9bRR0qc27IJN3nuRXli/DPUJTaAEEM9Qv2AxIpvBdZhUZKRKN0taG0yKpw1kt/XVRc9GiC39j50fjC0bzK+hVi2VCpHWC1C8ybalXnu3H26mhdFKNdmlDGCyVkvBJNFfjepP7SyWg7kAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtElEQVR4XuWX30tUQRTHPQ8hLWFIkqRkmGSY4aaoGWYa27b5A81kLUzUh30oH7IIK8iWWKSliOyl3oKeeup/PPE949yZe7s/5u7dh6W+MLDcuTPzued75sxsW9v/J2LVWkLEYyMjnB8ebgUo4rnpaQG6OjTEVwYHG4FKPSBGxLempiQ6ALo8MMCX+vtdoZTPZzo7XQckiHipWOQb4+MChOgA6GJfH1/o7U1ag/jH9yP+/eunAJ1sbz8eEDsoQcQLdwp8fXTUA0J0znV386lczmVuBXC2q0uAluaLvLdbscASJ7BEvFIq8b3bczxxLS92ITKYGzCOQJABskE21lf54NWeI5iyqjAzI3YhoWERIn+6o8NxDk9BIPNct6eVbasvODFJVJDIiAxy5nxPj8yZEkQrCsiWgdl/vuuDQ77AGuQLogKYBkG0XIBsGRgkMOxB0pqd6jJHrCjNLjgW8c3JSbEIUTH2NEUkYTbJlySTMzpf3MY5i7wd4Y9S2CLk7STUGVOBw97NJGWbnQc7mw8DC6kzClYhbxAd/e5h9XWzoVSUbKitjbIvWrDIrsBBWPO7aTJQSFJTe8jRorBnmUSSQ7qWvHz2RH6jxsCe+IpL/OnwXURfJikoHAPVNy+8w3FlscRr9xe5drDP5QfLEQtHwWaS2dLIF3z15w9V/lJ/z18/1riy85gnxvIRC5MAh/c1LLWt787OehcsfTVJvp6QQEf3p5ZKXsBga+uiBxB9fUiu5nHAqWTuMvrURkKXcycEAgmtWzwUcb32NqbfSSRRwUGpYWCV+VoSEFinm3/H+du3o3p2IMDALtgUfuqrxVCf0DSUBsQz1C9YjMgm51uiSCKTfNlXi+jiaQPZbXV5PrARUkv9sXMf/LdVdkOtWigVUswXqkyDLRFvPlrLCtNstRTMP6I/yZvopp8rWsEAAAAASUVORK5CYII=",
     "wiki_name": "Dragon hunter crossbow (b)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_hunter_crossbow_(b)",
     "equipment": {

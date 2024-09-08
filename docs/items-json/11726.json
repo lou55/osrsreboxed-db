@@ -1,7 +1,7 @@
 {
     "id": 11726,
     "name": "Super magic potion (4)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-09-05",
     "duplicate": false,
     "examine": "4 doses of super magic potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xt2X/0tTYRTGff+BIKLCTJvZzLnUrbkvbdNNcmrTKcvEb5kpOrTJZWIyt0jsi5gpUkgRhUSUGQQ6JLD+uqed9/q+u7v6S7DdQQceBpex97PnPOfce8vK/o9iyFdJi2F6uAYD3VUI+ctx88bZUkMxfN/24+sbH9f8lAWj0epSQjEJs7PhgTJxHUO9VziQzWQyGkrNjAD69MqN+INa3r4S5Ikh0tuPaHRQuvPupRMz982421UJl8sHr6/NSCiGkZHxE+qJ9CPUEUEg2AGbzWlk67LTFZvhisVmpcLdUdxuD8Pp9MJcazEWKDG/IKUoCcTjCrru9OGWN4h6axMqKtQsGQRExbC7u4dM5hAHBxns72d4u+x2lww1wRgKNDE5jWRyCen0Ey5ql8PhKQUMFcPcnIJUKnWstMyPwa0SlR39rT/coeRSiota5na3oM7SYOTIUzH4l38gvPlbiuDqh5O42vUQ5c5OI11iaFa20blxlAfUPPcWDWPLuNYzjQpPBBfshi1GhpaVnxxIiANlIRsnnsPcF0dla79RLjE4E+/Rtp6DEaLrtqk11N1LoKptyCiXVHdCr4+4tECu+Q+wz26ifnAR1R1jRrjE+KHBtV8SSCv3449wPNqCdTSNmvCkdOl8Y6BYLjH4nu7xdpFOA+LBHl+BOTIrXbroCBXDJcYPDLw4kEB6MM/iDg920+QqaqOKdOmSO1wMlxi8S194u/RAQp7kZx5se2wdloEF7pKpfRSX/X2FdkmdLAozAWmlBSJgGezsgiSXaElWBgaOXQoWyiXG/31g9fAEkBbMl/7GgSjYtCBp/GlJFsEl9TZBQEJ6IBIFXgSbFiSNPy3JPJes/sK5pAU6DYyARLBpQdL4C5do2s7V5R5pC+JS67N9KZo2Lg0cuSiDfZwjgqF2nTFZCwkjSn0KpIMp4HlwWSC6JoItYMSmLgKMWuoPincu9TYioOiTgi0eQfQgBYfRVu6AHJxehoCcVtqD9dJ/91/rL2SuB6t99bstAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xt2W7UtTYRjGff6BIKLCTNNsy7l8WXMvbdNNcmrTKcvEt8wUN1wbhw2TvURiL2KmSCFFFBJRZhDokMD66668n+15PFM/bueAN1wcOB/O8zvXfd33ORUVZ6MYiqVrMYTH6jHcVwO/pxK3b53XG4rh56YH39+5uZKzJkyE6vSEYhJma80JZfomRgeu6QWUz4wA+vLGgdgjI2+fDnliCA4MIRQake58eG3D3EMD7vdWw253w+Xu1BKKYXx86oT6g0Pwdwfh9XWjtdWmLVA4MscViUSlAn0h3O0KwGZzwWA0aQuUSM5LKUoCsZiC3nuDuOPyodHcgqoqkSXNimF7ewe53D729nLY3c3xdlksdj1CTcUwPRNGKpVGNvuMi9pltTr1gKFiiMcVZDKZgrIyP7oBBTf+cYdS6QwXtczhaEeDqUlrKAbP4i8E1v9KEVzjWArXex+j0tajJRBDm7KJnrWDIqC2+Hs0TS7iRn8YVc4gLlk0W4wM7Uu/OZAQBzqEbJ5+CcNgDNUdQ1q5xGBLfETn6hGMEN1vnV1Bw4MEajpHtXIp747/7QGXGsie/ARLdB2NIwuo657UwiXGD/Wt/JFAajmefob1yQbME1nUB2akSxebveWCYnA/3+HtIp0GxIM9tQRDMCpdumz1lwOI8QO9r/Yk0HEw58IWD3bLzDKMIUW6dMURKIdLDK70N96u40BCztRXHmxLZBWm4XnuUm3XBK56BkvtUn6yKMwEpJYaiIBlsA8XJLlES7LaO1xwyVcqKMbf3ru8fwJIDebO/uBAFGxakDT+tCTL4FL+M0FAQseBSBR4EWxakDT+tCSLXDJ7SgelBjoNjIBEsGlB0vgLl2jaLjSU9JeWoePFrhRNG5cKjlyUwS7kiGCoXedqzaWEEUUPzLePAl4EdwhE90SwBczRpi45jLrEAfnPiICiKwVb/IJoAHJaHcGd1Bms/90f0pEhuleJAAAAAElFTkSuQmCC",
     "wiki_name": "Super magic potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_magic_potion#4_dose",
     "equipment": null,

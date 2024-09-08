@@ -1,7 +1,7 @@
 {
     "id": 2451,
     "name": "Zamorak brew(4)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "4 doses of Zamorak brew.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADiElEQVR4Xs3W/UtTURgH8A3EjbG/oYx+qKhoP4RCMyKFNA1zvdhSaWgsUcZQ8qXrzPIl0xRLzSJFwRQ1SaWojMIwqB8iCIKgP+eJ77k9d2dnZ7bpNTzwZXf3nu187nPOzp3Dsfubk/TRXd/x5qTB2EUaMAIifW3l1Nt8XoQRcyM1NDMcoumhaxqUehPbhpsgRgHEUTFTD6rpaV9lwsB4j2tqElEZIZ00fPtSEgqvgHAYNN4bpJG7FaIvXnUg9JfR60sx+jB/c2soBuGYq8Ogif4qAeK+qUD43MdFgzZWuujzSo8AYQxfTo6IOrrSzLLzXTMIg6og+a7Rd6z7ihY0P1abAMIxg9TRleZMmAYgeHHjvQxC32jNAQpf3U9VgX3ifSrQ0pOwfSCuEs6poNlHfpFg2V4LhGlUQcvPblggJCMQrwsVhDvXgSb78+hy6R5r6nSg1cm6RNBC6/ZBOA8Qgn6VlSErJaUBKig8Syf8p8U1FfRqqt5eEIKplEEtLa0UjTZSXV0DFRWXkT+/gA4f8SWBUM13MxEL9Ollp4XJGCSj8OUM4ilru2VQR0cHHfMdTzll6Lv2PKoFqaOnaOYXY4GmAuF6JBIlw2in9vYY5eb6rc+gkiro/VzTVkHmHoQK/Qv0e9QrKmQYBuWfLKSDh46K8yoI/WWQvCmqoyvN/DIdCOEvR7+3MQ/9GvFaMS5kUyAvKwmE6tgKYhSCAbDjot/Ph14RYGYb3dQddFHVqSwq8pmoHQHJVcIrBkCf5RYP/RgyQchCk5uGQi4Kn4lXSQYtPr5ugbBLMyYtEH4hOhA/DtAHGDkvmt00HnZT47nspCqhOnhsyBVKszpocZC6jnAe12eibvo+6BVhECo2Ue+m1vLshCrxdOGxYRuIUQz6NuAVYRSy2uYR0DsVLoqUmFUq/lslgLBLyyBGqaNrmgnSTRuDvt43QTLsteERC3ug2iWqVFsQrxJ+BG+mGywQ9qAM9qFEkDxtMojDKGwBWNijtS6rSsH8+FraFgi/ss1AGz0ekS/34qi1To9Y2FhHAGEdmVNiQ4UYpE4bzvPzC1nvisNwjHWEvYiv84LGT14GYQ/KeB/STRuDcMc45oHV4HO8/6CvLSDdtMkgXJP/luCYd3N+bKA6NoDQku9aFxkjRwVhU5RBnAxADgdv65tFBcqR148toHSbikwHy4n3/U9NReqifmZXtz/Ch4PNhZDlRQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaUlEQVR4Xu3WXUsUURgHcBfEXZb9DEV0UVGRF6HQGpFCmoa5vdimkmhsoiyLki+Na5YvmaZYahYpCqaoSSpFZRSGQV1EEARBH+eJ/5me2TNnZm1nd4wuOvBnZ2fOzvzmOWfObFbWv988ZB+74zvePDQcP09DWkhkoKOC+lvPijBiYayO5kZraXbkig1KvYmM4TqIUQBxVMzMvRp6PFBlujC+45gaM8oR0kOjNy9YUPgEhMOgyf4wjd2uFH3xaQdCfxm9uRKnd4vX00MxCNtcHQZNDVYLEPdNBsLv3i9rtLXWQx/X+gTIEQYn5btmEC6qguS7Rt+J3ku2oMWJehMI2ymCPKZhAIInN77LIPSN1e2jyOW9VB3aI74nA608irgH4iphnwqafxAUCZfvNkAYRhW0+uSaAUIcgXheqCDcuR1oejCfLpbtMobODrQ+3WAGLbVnDsJ+gBD0q6qqNVJaFqLCotN0LHhSHFNBL2Ya3QUhGEoZ1NbWTrFYMzU0NFFxSTkFCwrp4KFcCwjVfDMXNUAfnnenikEzg2QUTs4gHrKOGxp1dXXRkdyjSYcMfTeextIFoeknxgRNBsLxaDRGmtZJnZ1xyssLGr9BJVXQ24WWdEH6GoQK/Qn0czwgKqRpGhUcL6L9Bw6L/SoI/WWQg0VRP5kdCOGTo9/ruJ9+jAWMaOdyKJSfbQGhOq6CGIXgAlhx0e/7/YAIMPPNPuoNe6n6RDYV5+qoHQHJVcInLoA+q21++jaig5ClFh+N1HopcipRJRm0/PCqAcIqnSIGTX9C7ED8OkAfYOQ8a/XRZMRHzWdyLFVCdfDakCuUFkidR9iP43MxH30dDogwCBWbavRRe0WOqUo8XHhtuAZiFIO+DAVEGIWsd/gF9Fall6KlepVKflcJIKzSMsgBSgfZDRuDPt/VQTLspeYXE3uoxiuqVF+YqBIeglezTQYIa5CDdcgMkodNBnEYhSUAE3u83mtUKVyQmEsZgfCUbQfa6vOLfLqTQG10+8XExjwCCPNIv6ALFWKQOmzYz+8vZLMnAcM25hHWIj7OExqPvAzCGuR4HbIbNgbhjrHNF1aD3/H6g76ugOyGTQbhmPy3BNu8mvNrA9VxAYRmvWu7yBg5KgiLogziOACl2qxIjjx//iJou2ZFWvO/ZdZ+AXiDOUHMvoe4AAAAAElFTkSuQmCC",
     "wiki_name": "Zamorak brew (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_brew#4_dose",
     "equipment": null,

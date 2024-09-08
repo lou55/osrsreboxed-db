@@ -1,7 +1,7 @@
 {
     "id": 6415,
     "name": "Willow blackjack(d)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-15",
     "duplicate": true,
     "examine": "A defensive blackjack.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4Xs3V+0sUURQH8F2WpZ+lHyQhkQTD6IeCoB8Wcn/owWZsa5tmz0XFwkhBikKk6CHSC0HsQYWCISZSRhAVRVF/2YnvHb7jmePddUen8MJhZu7c2fvZc8/cSaW2fkuLP3z3/3lLy5Pxsjwa63IxeaskEzdOuiBiYbpP5qcqMvf0kgdl/8Sm4QGIKIAYFjP7+IK8nDwXmRjXuGcjioqFTMvU7dNrUDgCwiDo+USvTN/tcWNx9IEwXqN/Lo/L98XrG0MRhHNmh6DXD887EMdWA+G5H0tj8nvlnvxZeeBAmGNfS4sLO7tpQdr5rwnCpD7QzP0zIQjnPtDiTH8EhHOC7OympSPLgIlY3Li2IEwOBJe3Gmj5xWByIGYJfT4QM0kQsmZBH15dDkGIWCDWhQVhcoJYnLqga4E+vrkSBb27uXkQ+gHCmKFKRYYH+t25fiOrgT7NDiULQjArRzs6ZHdrq+xpa5O97e2urxYIGf0yfy0E/Xp/J8TEBhGF/tGebdJbKsmu5mbpKhRke0NDBINx1UBf3454QXb2Ki3IBH4cIJwPl7MyeCIr+VxOdjQ2Snc+6/p1/RCEl8KCvi2MbhQU7EHIEEHMUHex6JZqZ1OTnD2cDVEahOcsCHWnQXpTtLObFrzyFoT+cmenyw6Wq+94Vi4ey65B+UDITqIgjWIAhABIoxB4zi5XYiCdJRwxAT4BnJxZIoowC1p6NhCCsEsTUxcIb4gPxM8BQPjHgFsUQ6MwFp8NnaE6s4O2CrJ1xFeZIFzrpQRMB/q4XPhsJAYiCv2YgCDct5smIKytU4cCFMZil9YgouzsnhaAfMu2HohbAwK1VMxlpHAw464/z10NQdiDYuxDUZBeNg3CEf0ag2Ct4XeOHMhIfn8CIBTreiDUEvp8INYas4XxiYDssqFfg+wng989PMexWFq88hqEPSj2PuRbNg3CeS0Q9x+MTQTkWzYNwj1b0ATxs4HsJABCW/1E1ApbPwwLwqaoQYwYoFSK23qtsEAdun4SAdXbLLIeLGN17H9qFukL+8yWbn8BICaR558AenwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xu3V20sUURwHcJdl6Fl6kIR8SDCMXoKgh4Xchy5sxra2aXZdVCyMDKQoRIouIt0QxC5UKBhiImUEUVEU9Zf94nuG7/CbM2cvs3uKHjrwY2bOnNnz2d/5zZm2tn+/ZcQdrvt/vGXk0UxZHkwPmJi7UZLZa8dMELG6MCIr8xVZfnzegbL/RMvwEEQUQAwbs/TwrDyfOx2bGNe4Z0cclQqZkfmbJxIoHAFhEPR0dlgWbg+ZsTi6QBiv0d83ZuTr2tXmUAThnNkh6OX9MwbEsdVAeO7b+rT83LwjvzbvGVAqDH6U/5ogTOoCLd49GYFw7gKtLY7GQDhvEJSJLQMmYnHj2gZhciC4vNVAG8/G/YGYJfS5QMwkQciaDXr34kIEQqQCsS5sECYniMWpC7oW6P2ri3HQm+utg9APEMZMVCoyOTZqzvUbWQ30YWnCLwjBrBzq65Od3d2yq6dHdvf2mr5aIGT008rlCPTj7a1GMWhxEFHonxraIsOlkuzo6pKBQkG2trfHMBhXDfT59ZVmQWhhJvDjAOF8shzI+NFA8rmcbOvokMF8YPp1/RCEl8IGfVmdahYU7kHIEEHM0GCxaJZqe2ennDoQRCgNwnM2CHWnQSk2xfCVt0HoL/f3m+xguUaOBHLucJBAuUDIjleQRjEAQgCkUQg8Zy+XN5DOEo6YAJ8ATs4sEUWYDVp/MhaBsEs3iEEL3zAXiJ8DgPCPAbdRDI3CWHw2dIaaAtl1xFeZIFzrpQRMB/q4XPhseAMRhX5MQBDu25smIKyt4/tDFMZil9agFKgQ5Fq2eiBuDQjUUjGXlcK+rLn+uHwpAmEPSrEPxUF62TQIR/RrDIK1ht85uDcr+T0eQCjWeiDUEvpcINYas4XxXkD2sqFfg+xPBr97eI5jsbR45TUIe1Dqfci1bBqE81og7j8Y6wXkWjYNwj27oAniZwPZ8QBCC9e+Xtj1w7BB2BQ1iJEC1GhLIhm6fv4iqFZLIpPxv7XWfgPWE0dbK0bFNgAAAABJRU5ErkJggg==",
     "wiki_name": "Willow blackjack(d)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Willow_blackjack(d)",
     "equipment": null,

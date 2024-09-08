@@ -1,7 +1,7 @@
 {
     "id": 21990,
     "name": "Rift guardian",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": false,
     "examine": "An abyssal rift guardian.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADoklEQVR4XsWX/UuUWRTH5/o2bznOG9rqar6sShpZ4bbtupU02OQWpjuIvWkmIr3aSoi4LS2IqwSFUUQ/RH/rt+dzpmsT7E/B1QuHmTvPA89nvud7zj1PLPZdy6kah76qIKOjv6qj49hhQzldX5zRxMQ1xeNJHT9+woBOdXcfBpTTpemS5uYWNTAwpFyuoFTqyGECsZyuXq3o7NnfdfLkGRWLrV9SVhsHtpzm51c0OTljQMTw8Ihe/PtKhda8SqU/1JxtPkgop9u3l3X//jNLGz7q6xs0IMDyxZypxu8HAOW0u/teW1tv9PjxhgGhUHt7p57+9Y/Ony9Z+np6+g364sXLoaGcNja29fLlBy0tPTEVUCWTaTG4cvm6GX1t7YVmZxd07tyF0GZ3lirUuHlzSWNj46YGpc9+5s9bptjq6t+anr6h06d/sX1Ao1erC0O/LyRNGUoelUhRpXLH0vTw4brdw+/AdnX1mnIBoJxVEUpQaXRoHsjDSRmqoMjKypqlE3PTp/gM2DydKTE+fkUjIz+bIkAAg4d4OCmdmprdP1YI1AoGxL/P54oWLfGEkrGYSvF6U44WQMpQjKpjj4qABgPq/2lQmeaM2jJZFRNJFVxME4kGzSUbTCVStnjvkaXXp8138yBAfb0DyrZk1dV6VN3ptDrrncoRUCXVoIV0o7UEqg5v0bVJGQUQFCify1uq0nV1Gmyq12SqSZV0kxab41ptSehtMWUq0RpIW3t3h6UuQKWxnOojkGQ8rqEIZjzZqJVMXOUIaj4CepZN6O7dB2ZsTN/Tf8zaQ9C0eaBrEcSjSJH/cklNRQqNJRptjzpUHsamwvAR/SgQEOsrlI/ZI03azCW0V0iZj6g6FMLYbW0/hOxFrOoYUgtUG1Qa5xn9CiCMTV8KBOT0+vVHqyR60o8dnfsgKLO8/NSOEoI2AAhnnocJArS392kfiI7tDYtnOLd82XPi4yFU4r5gVba5ufMNEKYlRUAAxTUao58oAfIHbBCFmIsY0mqBOONIESBUGNfoQ1wnbUGB1te39ivJA/HdVxazEPcB6KsrqIcqC9MaHh3Sb+Ux+/eMsQDSDPENe+5DpVplgsAQzNUAkCZ8srPzzvZ46Nu32cDKYNbnz3fNP4yzGBmfMGfXesoDeZAgMDwcIJoeanBe+beL7e23BoRC+Idjwr/RViPIqk6LVBCzta8ogHgvY7ivBcLozjmLoFD/F6hVC0Rnxth10Xn3vR76DO+f0mZ93lPYAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADk0lEQVR4XsWX6UtUURjG57jNluNsaGmaZippJIWttkiDTVaYNohtmolIqyUhYkWBmBIURhF9iP7Wp/t7p6sT9Ck6euCgZ+6F+7vP+7zLjUT+aTmV966vMsjAwBm1tBzYbSinGzPjGh6+rmg0rsOHj+wmkNOlsYImJ2fU3d2rTCanRGLPbgKxnK5dK+nkyXM6evS48vnG30CVe8eW09TUvEZGxg2I3dfXr7fvPirXmFWhcFX16fqdhHK6e3dODx++tLDho87OHgMCLJvPmGr8vgNQThsb37S6+llPny4bEAo1N7fq+Ys3On++YOHr6Ogy6IsXL/uGclpeXtOHD981O/vMVECVVKrB4IrFG2b0xcW3mpiY1unTF/wDESrUuH17VoODQ6YGqc95/OYdU2xh4ZXGxm7p2LFTdvZo9HJ2YehvubgpQ8qjEiEqle5ZmB4/XrJ7+B3YtraDppwHKGdZhBJkGhWaB/JwQoYqKDI/v2jhxNzUKf56LJ7OlBgauqL+/hOmCBDA4CEeTkhHRye22gobtbwB8fbZTN52QzSmeCSiQrTalKMEEDIUI+s4oyKg3oC6DvUoVZ9SUyqtfCyunItoOFajyXiNqUTIZh48sfCGYduu5v99OXUe7Fa6Ia22xr1qTybVWu1UDIBKiRpNJ2utJJB1eIuqTchIAK9A2UzWQpWsqlJPXbVGEnUqJes0Ux/VQkNMX/IJU4nSQNia21ssdN6gqgOQeDSq3gBmKF6r+VRUxQBqKgB6mY7p/v1HZmxM39F1wMqD17CFQNcDiCeBIu8zcY0GCg3Gau2MOmQexibD8BH1yBMQaxsq3BN76rSSiWkzlzAfkXUohLGbmvb5rEWs8hhSCVS5yTT6GfUKIIxNXfIE5PTp0w/LJGrS/pbWLRCUmZt7bq2ETRkAhJ7nCYbltLn5cwuIih0aFs/Qt8K0p+PjIVTiPk9QTisr638AYVpCBARQXKMwhhMlQJ4aLKs8FzGkVQLR4wgRIGQY16hDXCdsXoGWlla3MikE4v8ws5iFuA/A7ezyAsMKOv70mPoGenW2OGhvzxgLIMUQ33DmPlTyqAyr/KbM1QAQJnyyvv7Vznjoz69Zz8pg1tevN8w/jLMYGZ8wZ1d6agc+r509HCCKHmrQr8Kvi7W1LwaEQviHNrH9ResNrDwtkkHM1mFGAcR3GcN9JRBGd87Z9gr1t41alUBUZoxdFfS7f4X5BTSRq7Fc5uNdAAAAAElFTkSuQmCC",
     "wiki_name": "Rift guardian (Wrath)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rift_guardian#Wrath",
     "equipment": null,

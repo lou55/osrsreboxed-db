@@ -1,7 +1,7 @@
 {
     "id": 3228,
     "name": "Cooked rabbit",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": false,
     "examine": "Mmm this looks tasty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACi0lEQVR4Xu2V7UtTYRiH9yDjgIgixUIltYkNm+gcc220rY20DKM3kyQrURCMKAj8IBRREEHQhyCCIIIgCIIIggiCvvdn3XE9h/vs2cuXPNsM2g0/xvYcdl/P7345kUg3utGNfyqMVNXxcJP7upo8KpemRmR7fqJTYNXkz8+m5PWFjDxbnJW9UlLu5o7Lxlzcwqh2spPthDLycfWUfLiWl/crOXl35aS8PJ+Wpwszsls8IWszYxZidXrUOrWcGG5wsP4fQ4aRz2sF+XTdF3AvlubkcWVaHhSmZD11zELhFM4Ax/elySFJDw/K7NBAq+GM/NioyNf1kny5UbRwlO1hOSn38wlbLgQEJVRxBqCe0WNAtgDMyO+dc/Jra0G+3y7Lt5ung/4h6VYmHgi3KB3ucY6DQHGmUIsTQ1Ici4V1zcjPzTOBtH8ok9vMJMYRgF0onuMMWHpMobIjhyQ+2LcfKBOUjD7SZEC9Ws7UiAmk6Skr4JSW53AKB2l8SleOH6kBSo2P/z0Uk/bm4nyQgFu/vZxtEM8AR/O75dWG19KFBCLqx9kX60DFWkCA4ZZOpNvklE6BEof7xeuJ7KdsfnAT/zbGOoFIriCuAMQpXNKew1XKpkDJWL/0RXvCuEQYe3N6BWnvIIVE+lv9mnCBRgd6WwPErUmEgKsH5FN/d4Fch1iasV4vgAkBRDT2UjPdSkVlMx2VO9moXQHuJtceCulONfRW9SIBANsZBybvWSB3SboT1hKg5mFkt+DJvZwPojB7Jc+WjUljytTBNsMQRp5UvABKYR6VPdvQ9I4L0mYYwt9LuoNwhXFnS/Pa0Ld/B0DcMDVAWiZeFx0qU7NonLgDhPGjfvoOFKYb/338AYafbSB9KFhZAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcElEQVR4Xu2V7UtTYRjG9yDjgIgixWJKShMbNtE55txoWxtpGUbvkqglCoIhBYEfhCIKIgj6EEQQRBAEQRBBEEHQ9/6sO37P4T573CKiM6cfzgUXYzuHPb9z3S8nFosUKdKhkpGGOy73cN/XMsfl8tigbE6PdAqscfizc1l5dTEvT+cmZbeake3iSVmbSlkY9VZhdD+hjHxYPC3vb5Tk3fWivL06Iy8u5OTJ7ITsVE7J0sSwhVgcH7JJLaQHWhJs/seQMvJpqSwfb/oG7vn8lDyqj8v98pisZE9YKJIiGeD4Pj+alNxAv0wm+9oNZ+T7Wl2+rFTl83LFwlG2B7WM3CulbbkwEJRQzTUA9Ro9BmQbwIz82jovPzdm5dvtmnxdPRP0D4du5FOBSYvSkR7XSRAorinU3EhSKsOJsKkZ+bF+NrD2D2Vym5mDSQRgF4r7uAYsPaZQhcEjkurv+R8oE5SMPtLDgHq5kN9jJpCmp6yAU1ruIykSpPEpXS11LAwQMnbSXl+aDg7gqd9cKbSYe4Cj+d3yasNr6UICoeZx9s06ULMWMGCkpRPpNjmlU6D00V7xumJhoFTGJoE5XEFcA0hSpKQ9R6qUTYEyiV7piXeFBTL2yekVrL2DFRLrb81rwgUa6utuDxBPzUEYuGZAPvV3F8hNiKWZ6PbCwqhae+lPvpWNy3ouLncKcbsC3E2uPdQmoL/JWIDNvANT8iyQuyRDTti/yshO2ZO7RR9EYXarni0bk8aUNVLcdxl5XPcCKIV5WPNsQ9M7HQJR+XtJdxCpMO5saV4bjbd/R2X2AGmZeF0cAIyqdeIOECZSpMOn3+2fPdG444e4AAAAAElFTkSuQmCC",
     "wiki_name": "Cooked rabbit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooked_rabbit",
     "equipment": null,

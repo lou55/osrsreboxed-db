@@ -1,7 +1,7 @@
 {
     "id": 13059,
     "name": "Bandos rune armour set (sk)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xs2X/WuSURTH9R8oot/bVGZsxnRSzpjZRHMvCSpOs2lurkYhjFGLYoyiFxmtYjDWCwQNgrHGiP3UD1EU9Zed+F45z67Xq/noY+zAl+c+916f87lv5x5ttuNvdtJL195zs9OrtQxtrKaF1h+mqHo/KcQQu1tl+rQ5RzuvSxoodRBdg9eAGApALBXm48sivV+frXOMd7SpqocyBWmnzUczDVB4AoTFQG+redp6khN98dQBob8M/fNgjb7vrXQGxUAo8+ww0IcXBQHEfZsB4Xc/9lfp9+FT+nP4XADBh6+/X0j1rlht2nnU8si6kQyEMuragpGXAe/ZyBnKT5+n8IUBmg57KBEZplTMS5n4CGUn/aJtNhGgG8lRmk8HaWFmjBZzIbqTD4sn2j2OE+JblgNFRt0UuzhIE6EhLRzAAAWQyuxlAYV6GQgyBcT7QgcU9Dko5HcZcAADFIDQB7PEMMulqHhqgT4/6A4IIwfIvWLAlHoGhJFjVlSH/5IO6NeXxwZMR0D5WJ8AwhLJzpIrVaFoeVmI33VAXtdJLZDqvYnVjun2s2sGEDYqA7FjGUYGksEsAKrFIMyQCoTTpTptBXQ749MCyUFR9a5Y7cjrgBBbcKJUpzKQDqrnQKWr5wzncllXh7KlQBDqCnGHiC0IhLfSXsOhXNbVocxAfvcp8S1EaYZpCwgnrBVQJTtiOJTLujqUVSDMUJuzAzsCYigZCBEZGxXO8ITUPcPt3KenQLizClMe4aycHG6AUTe6bsk4UqOsetdYDUheNtTNTTrFJQmg1PgAZaJuyl05SxtLTq0Ay2KgwOBp8S3EIBNxqB6IU1MGwgUaDfRRPOigqTEnJS656gCvTwyJGcTpYnUNhFPWDAgfxm2PO41TEL7p0capB0IE+i8Vx60DYigZCBCcD3EuJMPgvmMYgMjpBwMhBpmOQ7pls0JIyjoCUpcNmxt1SOz3thdEm/yvBGVkBhD6cVKPvvtvbtLXnQp9273bCRCscWQ6yTCyVKCDd4t1QCwTQDYbh/VWUgFlYSYBhNmxBKhdUyHbgWUd9f1PpkLqpP7mWNtfYt7I75HN+n8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu3X7WtSURwH8PkPFNH7hsqMzZiblDNmNtHcQ4KK00zN5WoUwhi1KMYoepDRKgZjPUDQIBhrjNirXkRR1F/2i++5/OTcc8+c16vRiw78uMdzzu753HPveVhf37+fXKQPXX3Pk4teruZofSUrYu1Bhhr30iIYsbNZo48bc7T9qqpBqQ/hGG6AGAUQh4r58KJC79ZKpo7xG3VqmFG2kC7aeDhrQeEKCAeD3jSKtPm4INriqgOhvYz+sb9K33aXO0MxCHkeHQa9f14WIG57GAh/931vhX4dPKHfB88EyBYGN+Wnlp/MScgg5I3yI5PL9BrwOx87RcWZsxQ9N0AzUT+lYsOUSQQolxyl/FRQ1JVSIbqWHqPr2TDNz47TQiFCt4tRcUW9331M3KvroNiYjxLnB2kyMqTFAQYUIPXSRYFCuQxC2ALxd6EDhUfcFAl6mzjAgAIIbTBKjFmqxsVVC/p03xkITw7I3UrIVvQMhCfHqKgdHhU60M/Pj9rFIFlBxUS/AOEVyZ2llxsi4rUlEfxbBwp4j3cKQjKm6dbTK00QPlQGcccyRgbJsC6AjDUII6SCMLvUTluBbuVGtCAbi6Ix5XUgrC2YUWqnMkiH6jmoevlMs3M5rytDvqsgBMrKSbdYW7AQ3swGmh3KeV0Z8gwK+k6Ie2GVbhODZMywVqB6frTZoZzXlSGvgjBCHYEYJYOwIuNDRWe4ItRvhuu5TU9B2LPK037RWS09bMGoH7rulfFK3SbKAMmvDWVzUx6xSQKUmRigXNxHhUunaX3Row1gORgUGjwp7oU1yMY6ZAbx0ZRB2EDjoX5Kht00Pe6h1AWvCXh1ckiMIGYXh2MQZtlhINwYuz32ND6C8E6POj56YIlA+8XKRPdAjJJBQPB5iM9CMgb7HWMAkY8fDMIaZHsd0r22bgQOZR2B1NeGjxtlONjvbs2LOvm/EuRxMkCgHR/q0Xbv9Q36sl2nrzt3OgEhWZ9MFzJGDhW0/3bBBOKwAWo3WZEcGEmAMDp/EdQqWZHW+J+cpT8Y2n5jBWjyIAAAAABJRU5ErkJggg==",
     "wiki_name": "Bandos rune armour set (sk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_rune_armour_set_(sk)",
     "equipment": null,

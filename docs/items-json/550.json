@@ -1,7 +1,7 @@
 {
     "id": 550,
     "name": "Newcomer map",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "Issued to all new citizens of Gielinor.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkklEQVR4Xt3XW0uUURTG8XkJL+q2PoDX3XQgqouowMTK6OCpYTIzS7PBzKwsDBOzpiNSiUhFUiEWgkQQFUWR9MFW/NdmzezZOXXR7HfADS8zgzL8eNbaa2kms7pPIn8+NTuJ5Dv2yHDnPhnt2S+3+g/JxVxDrVCJ9LftVsDVrkYZO3tQHg61ysz1rNwfPFYLVHk6IMC8njwliw969TVFVHk6t/NHZHrkuMxNdCnm0/SAfHsxoqDN9fVpoErpjPc1y5MrHfJyvFPe3TsjH5/mFfN97ob+TgopuXQuZPfKte4mmRpuk+djJ2Sh0CMfHp8vYn68uik/30ykkVIpHfpmdjQn83dOy/upc/L12eUyzPL8pCwvFGKmVEqHK25NvPSoryLm19u7+kRCuXS44tbEYL7MXvonhrJVuXQuHW4VfUMTc6MqYQwUCcNJtFSFgaPaxGA+zwzWDkM6G9dmZNO6NXq9V8R4pYqKMRDXnCHI4KuEsVsVDXOyeYf2DQPQ1kP7hroiJixVJIxLBQh7ilSYxjYAmTmgwnSiYdhRQEjFNjjzht4Bw0RuWV+nqIgYlwp9AoTbZDvKMMwcMOwrmtpQUTBAGHiUx1KhRGAoE9ecdMDQ1Mwff6NXFUOJwPS27NKhxxRmRzGJ2VN+OmBIB1AUjCVjO4qlCSYslZ8OoGgYmhdQtmmbdB/eWfwclsp6JwSF3/ofx4FYlu2NWxVEyUiKTU4v0diWjg+KkA7HTd/Whi1FEEMQIO8ZgqD+Bgq/sQonURCA3IHt2kO88pleAkcJfVCkdPyTKMCSscTAMal5VgKF31LlkygCDA+lBMc44D0/B5RCOv5xf++QFGXzMQ6QKsZO+D96OSJljDsG8J/wd1b9+Q1H6WqTX5O8TgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACa0lEQVR4Xu3W3UtUYRDH8T2IF3Vrf4U3UYR2ERmYWCpavrVsZmZquvhSVmsoKmauaSGViFQoJqISRASiUhSJf9jIdw6znrO5l885ID1w2F12Lz78Zp6ZTSRO9/Hk3ye240m6tUKG267LaOcNedlbJ0OpyrhQnvQ2X1XA8/YqGe+qkTePm2TpRVLmBm/HgQqnAwLMl+n78nW+W18jRIXTeZVukMXMHVmdalfM7mK//PqciRZk6Uz21Mr7Z62yMtkm268fys6HtGJ+r47pbyJA+ekMJK/JSEe1LAw3y6fxu7KZ7ZQf7/pymD9rE/J3fSoakKVD3yyPpmRj5oF8X3gkPz8+DWEONqblYDPrEnWcDlfcmvjb256CmMOtWX0cofx0uOLWxGD2l5/EgyEdbhV9QxNzowphDOQIw/G0VNn+W9rEYPaWBuPDkE7pmYScP1uk1/tETKBUTjEG4pozBBl8hTDOb9W92nLtGwagrYeWc8U5TH6pHGH8VICwp0iFaWwDkJkDKj8dZxh2FBBSsQ3OvKF3wDCRG0uKFeUQ46dCnwDhNtmOMgwzBwz7iqY2lBMMEAYe5bFUKBEYysQ1Jx0wNDXzx9FG90sEprvxig49pjA7iknMngqmA4Z0ADnBWDK2o1iaYPJLFUwHkDMMzQsoWX1JOuov5z7nl8p6xzmIZdlSdVFBlIyk2OT0Eo1t6QRBDjAcf/o2VV7IgRiCAHnPEAQVIYjjKQhA6maZ9hCvfKaXwFHCIMghxo6nAEvGEgPHpOaJGMTxFAGGh1KCYxzwnu8BRYSx4//fISnKFsTY9+HfR3L89RF+/p/4zxHB+CihzTAkcAAAAABJRU5ErkJggg==",
     "wiki_name": "Newcomer map",
     "wiki_url": "https://oldschool.runescape.wiki/w/Newcomer_map",
     "equipment": null,

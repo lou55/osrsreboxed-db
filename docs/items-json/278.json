@@ -1,7 +1,7 @@
 {
     "id": 278,
     "name": "Cattleprod",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-08-15",
     "duplicate": false,
     "examine": "A sharp cattleprod.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuElEQVR4Xu2WXUsCQRSGPSz+D6+CCOwDQ8Qgo8TMMD8yKjPLzIwMMwNvIrrof594Zzk7+9F2NzsSvXBwZjzLefY9s7ObSv3LuIh/nycq4q1sljUE8eFeyTd31/TYqIiPy2VVfCOTUb8nlQqXisXAWhTQiIiPDvY9IIFrVqtcyOUCQMjTc2Mivmw1FYAAwZ12reYVFyCAnjcapl0ivj7rcKde91wAnMy1G6TWAW/YJeLBxYXnElwAlHZCB1y7Om3zqNcz6RLxsNtVhQAlYLKvxC2sI+/5bqAcNegS8WO/r+4aBRFwDIAojDH+e7q94fl4zLOHkeeeMSDcdWnNicT0fqggFpMJv79M+eN1puDlATAEBBHvrDpeVDcdbuXT/Pk256/FwgtAyX7ST58REedXHC6vO1zfdrhTSHNvNx3Z1H4QgzAQqRb5gcLFEwKB3HYBRoASaEmcgjAIizAQLS+MHyicmYD0Jl4aoDgYC0CkDr44oHC2YbkwEgKD8VIBWWpXEOYnoPAVBhWFESD/yRy+yqDigay2C58UcAQhUBbcgdxzR6DwNkdgbAkIin7bWGqXlhQPRzjvz+ob9q62RA93LMUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhklEQVR4Xu3WXUsCQRQGYIfFvxJEYBSGiEFGiZlhfrSR2WaZmZFhZuBNRBf97zfeWWZn1T6uZmcufOHA7Lpwnj07q6ZSqxiPwN/HiUZgO5OBRggc7Rdjx+E5vTYagZNSaQ5zWi6jWCj8AzQSgePDgxgoxDUqFeSz2TkQr0sEdNlsSIACcTqtanWheQi9qNdNowSuz334tZpsxCkQp47j1/E88cZBvXY7mhKnQJSehC5O7eqshUEQmEQJ9Dsd2YgoBVP7Sk2L53nd811PTtQo6LHblXfNhixOjEA25pqfPd3eYDocYvIwML2PhLzr4oa3VOP7vkTMRiO8v4zx8TqReP0CGIvA7roXVWXLQzOXxufbFF+zWVRE6T1lNAK5NQ+lTQ+1HQ9+Po1gL720qROAqAj5iOKgBJsvJnxcxCiQMxiWRQwj3MVYBulN7AzIKQy/+BwBhRhVCsO1UyAnMJZByxgFsvTN/DvIAoYJQfxLwYmwFMoaSL1NRPHXnMW1JRDDxj/VKvbyDe7ObpY1wwqbAAAAAElFTkSuQmCC",
     "wiki_name": "Cattleprod",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cattleprod",
     "equipment": {

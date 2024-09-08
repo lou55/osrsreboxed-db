@@ -1,7 +1,7 @@
 {
     "id": 3380,
     "name": "Raw slimy eel",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-14",
     "duplicate": true,
     "examine": "A slime covered eel - yuck!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xs3WbUtUQRQH8LtEhLCsLC0GCmmFCAYVvgh65zeoKCoqioqSIoIoikWMMpOeEMQeSFEwxETKCKKkSPJF4Js+0+R/Lv/x3OO5tnf3Fg4c9t65c53fzpw5axRt/lZwdljP/3kruGf9x9yT6lEfw3ePuKHbh30QMTN6wU2PnHdTz88ZKP0lGobHIKIAYmjM5NOz7vXw6cTEuMczHUlUJmTBjQwcX4fCJyAMgl4OnXKj90/4sfi0QBgv0T/m+9232Vv1oQjCNVeHoPHHZzyIY9NAeO/7XNX9XHjglhceehDmONDR4UPPrlq87PzWBGFSCzQ2eDKAcG2BZscuJkC4JkjPrlohsQ2YiMmNew3C5EBwe9NA868u5wfiKqHPAnElCcKqadCHN1cCCJEJxLzQIEyuQTKhNwJ9nOhLgt7daRyEfnlS0sICfZq8mi8IgWdt7VGIXXtLiejc3+yaK1GAEYPV/DJ9PYCW3t8LmMwgotDf1VN2+w5V3J7uyAeuuw9uD9HeGUNbWiPXVNwSUAB9fXvDBOnZU1r8DZEPABHDkNsjg1CM2dlVcsXyVt8P0OLMzXpBcQ3CCgGEe2yFnJiJrROaz3+tLPkVwzaWW7b5PgmSRVHPrlp85CWIK4Rtw/IDI0Eyx3CNPoxf+b3stxSoSmtTwDYMIgoBECouQLiWFVqC8Ax/q6d3hw/kVXk12YulOOHrBslVwqcEYZys0MBIEFFMcoBwjypNTE0gnDALxJ8DCZL5I0HcnsoqBCFB2LIaVwdtDaTziMWOINxrkITglFUfVf0nQOhnUjcEIgr9SGSC8Jz5QwgSGABG2+5iCAkiSs9utBhkbVsaCO+gLDBk5SYUwWOPGpShDiVBctskiEde1x8dgGP856lr9YOQrH8D8cjrhJa5hrG5gvS2oV+CdEKzVuE9jgVo7sWlBAg1KHMdsrZNgqwjL0FcIYzNBWRtmwThma7QBGEcf2JyAKGtT04rdP4wNAj/S0sQIwMoiljWNwoNlCHzJxdQrU0ja8Ey1sb+p6aRVuh3NnX7A9PNVW3nSjMhAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xu3W3UsUURjH8VkiQliUpcVAIakQwaDAi6C7/oOKoqKiqKgoIoiiWKToxaQ3BLEXKhQMMZEygqgokrwIvOlvOvmd4Tc8c/as7cxu0UUHHmbmnLPOZ895zrNG0b/fSi4cofE/3kru4fA+d7+2N47Ra3vcyJXdcQgxM37CTY8dd1OPjgVQ/pdoGZ6AhAKk8DGTD466Z6OHMy/mmTE/sqhcyJIbu76/DsUViEKgJyOH3PjNA/FcriEQ8y362/yw+zJ7uRhKIO61OgK9uHckBmluIxCf+zpXc98XbrmlhTsxKBeGP6pvLRAvDYEmbh9MQdyHQLMTJzMg7psElTLbwIuU3Dz7IF4OQtvbCDT/9HT7QFol+kIgraRArJoPevv8TAoicoGUFz6Il/sgm9Crgd69PJsFvb7aOoh+e1IaRQj0fvJce0EEY719URqbtnZmon97l+uqRilMGFbz4/SFFLT45kazGFoWJBT9A0MVt21n1W0ZjOLgfnDH+jT6+hNod0/kOsprUhSgT68uFgXRkm9IPgASRmG3x4agzNk40OnKlbVxP6DPM5eKgpIaxAoB4pmtsC9WYvsJrfEfy4vxirGNle51cZ8F5SiKyZG3IK0Q28byg7Egm2Pc08f85Z9L8ZaCqvZ0pNiWQUIRgKi4gLi3FdqCGONvDe3aEAd5VVlJ9nJnkvCFQXaVuFoQ82yFBmNBQinJAfFMlW4SQ0tOWAiknwMLsvljQdqe6gqEsCC2rBDIzyMVO4F49kEWwimr3a3FV0D0K6lbAglFP4ksEOPKH0FIYACK3s3lNCwoByoBhbatEYjPUBYUtnILSujYU4Ny1KEsyG6bBenI+/XHD+DM/zB1vjiIZP0dSEfeT2iba8xtK8jfNvotyE9o1So+p7mA5h6fyoCoQbnrUGjbLCh05C1IK8TctoBC22ZBjPkVWiDm6SemDSBafXKGws8fhQ/if2kLUuQANdvqkQqbP38RtFqrR9bH/9Za+wWJyQrhUF9h4wAAAABJRU5ErkJggg==",
     "wiki_name": "Raw slimy eel",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_slimy_eel",
     "equipment": null,

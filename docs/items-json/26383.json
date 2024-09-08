@@ -1,7 +1,7 @@
 {
     "id": 26383,
     "name": "Torva full helm",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-05",
     "duplicate": true,
     "examine": "An ancient warrior's full helm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu2W70sUURSG936SvhiSJCmZJhlm+CPMDDMNMzPDNDMyM8vMzEwzMzHSLEIwMimLCtlYwtIPolRERH/ciecO9+7s5G5tzZofPHCYYVzvfeZ9zzlzA4GNSGgo8T75j6HkekeHrCMoJTevdGqgoqys9QClZOBq11oC/c4KJUM9PbInNzeGbdGexx1K9hUUxNyoqrxchnt7LdCvKinZkZERY424QsmB4uKoG5HHKivlXn+/SyHvxkp2ZmZGWSPuUHKotNSzmLNpS0ODNNXVyYmj1XL/1oAGKszPXwVMya7sbP+AsCS8mJKutjbd5lw7W1vlVG2tTNwZ0iAogcXktrQ0C8bfYlv/x6HkZE2Nlfz86Sa5cfmSTdq9ub5eHo+MaDCUQCWS/wFke3q6fe6DSg7E7pwcvcHhsjK9MYldwHB9dHdY15L5HUUMCPcoxXVvXp4/QOcaG/VivCEFbmDcaYBQxA3FPWDcR+/CuMIpXlQCBvsA+PH5k3xfWZFvy8sa0AABTn2RWIpVwAAInC9A2ALQwZISDfP0wbg8GRuTydFRWzsMRqPQ8SNVGpzuq66osNb5ZBmh5MKZZulub9cw5KakpIikuOki73MgeRGU2pqa6hcQ4XQbymDT16UlWfkwbzem2N0gTG4sMwptTk62ML4BYQH2AEN+WVyQpVBIFubmLAjziCEJEHWEsl4g78p/GWEgJrdJgN6/emmBKG6gTJdhVUKBsM0NtBgMyrsXzyOAaIA1BXKr9PHtG5mbnrZAdB1zy0xprgBtSUnxH4h29toWmp2V11NTqwKZAZlwILdKwZkZmZ2cjABikDJz3EC+t/xIX58+84zfHowAGrzWLc8eTligi2db9CA1QMyg/UWFnmPJP4fzgQWKlqaLUIJJDRCzyQtkpjTQAAFnTo2+qURy/jFQqAUQYAaIucPnBXs5R4XPQE76OBgDAWeh8OJ8v/hk0OoGCCWxk0+GF8JXGHeEFw7DrZYJhYgW3rf3pvf3G+Fn/ATLH9ArHrVmdwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2ElEQVR4Xu2W0UtUQRSHnSfpxZAkSckwyTBDM8wMMw0zM8M0MzIzy8zMTDOzxUiziAUjk9qiYjGWqPRhcamIiP64E98sc7172d3amjUhDxzmMnd35rvnd86ZychYt7SaEu/MPzQl13p7ZQ1BKblxuW9tAY1e6V9NoF9tpGR8cFB2FRcngUo0n7Ip2VtWlnSj+poamRgaSgKkZFt+foJ3KZuS/RUVCRZjTsnRujq5OzLiAvL+Vsn2goI4839kSg5WVXkWi27a2doq7c3NcvxIg9y7OaqByktL44Ap2VFYaA8ISdyL93d36zJn7OvqkpNNTTJze1yDEAkkxrfk5jpgvEsu/W+bkhONjU7Iz51ql+uXLjpOuXe0tMgjn0+DEQmihPMfQLbm5TnzVoCA2FlUpDc4VF2tN8aRCxjGh3cmdC6Z35HEgPBMpBh3l5TYATrb1qYX4wtJcAPjdgNERNxQPAPGc+IqTMmiyUuUgEE+AH58/iTfIxH5trysAQ0Q4OQXjqRIBQyAwFkBQhaADlRWapgn96fl8dSU+CcnndyhMZoIHTtcr8GpvobaWkc6S5JhSs6f7pCBnh4Ng2/IzIxxkpsq8s4DyYcQqc05ObaAsGi1ERlk+hoOS+TDe2djkt0NQudGMhOhjVlZNmEwpSVAHmDwL0uLEg6FZDEYdEDoRzRJgMgjIpt2IDq3cYDevXzhAJHcQJkqQ6q0AiGbG2hpYUHePn8WA0QBrCqQO0of37yW4NycA0TV0bdMl2YEaFN2tn0gytkrWygQkFezs3GBTINMO5A7Sgvz8xLw+2OAaKT0HDeQ9ZL3DQ/rO8/0rbEYoLGrA/L0wYwDdOFMp26kBogetG9Pueda8tcWPWCBoqSpIiJBpwaI3uQFMl0aaICAs3hrxFhI6fuPgSJaAAFmgOg7HC/Iyz1q5Q5k3LqtLM75xZFBqRsgIomcHBlphEhk7i+P5+v2n9lPDZWShhVr29MAAAAASUVORK5CYII=",
     "wiki_name": "Torva full helm (Restored)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torva_full_helm#Restored",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11879,
     "name": "Water-filled vial pack",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-01-06",
     "duplicate": false,
     "examine": "A pack containing 100 vials of water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4XtWX/UtTURjHt/+gQBK1zAoVg6LfRAgRshILIiqkRS9WUiIZBv0Q9EMhitZMaW1OEY31gqT5st1l6wX/tCe/Z3zvzs69WzvzCvXAh+t19+587vc851wNhf7/CsvfCazML/by4toRxfMrhxUPz9XLUE+DOhLzHi8VVVh9cSU87s3z5OIhxdNLjYpnl/NH/A6fU3Sgu176u+rkVmetokKpsDtQKczBAZNiaqaQKYVxTjU1KUwDo8LuYH5QgFM22pdn/PpRBc/9pPyEzNF9Kuw+rR+UwOCTN/JEbx5T8BzgOoiXSslKiE9pwhQw4PTtZon1F8A5gRyug1SplKyFOLgugYEoMjfQWkT8XouCgrhWnzozJQshVNidBl0CYFAILA62ydnWOuk5XqeOhIK4Bw9BKTMlayF9Oiix8CAvArpaal0hHYrhHkrp/cSUrIX4pLqETmrIH1yP+9hXENL7iSlZC5kCJhRYm++UVLRNXo6c9Ahx5XHa9FVnKYQqL1VKCJ+ZCUGI04aUqkgIVVpouLdRfiUGXZzpu4qV8Ygsj0Vk6PzBoh7ilLG5q2hqVPVCj3oKQtyTkBISwnQFLgQwPSMX8mIUwjn7iHsS+0hvasuNkVVeCINvO1n5+CZRYC7naWykhIS4QaJ/LN9lrPJCkElFE0VACKL4nLu3vmOzfwIXUj2Uzsr71wkXV2w2p65BSkiIq0zvH/4tZC1kbnrsm21nS5Ym4y66EFPSXx9m/1Qh5C9DoZ8bjixOvFNQSJdaiufKCkVOByTEdChDIVMKKWEv2lMhyDCdhfGYolxKC2+35P6Zhr0VQjrzYzGFKeSRSn73CHHJ93UcsBHylwE/1jOSHC0ImVK60OKruCRnsnJnRyBwoe4TNYrM8prC+bKh+LayIVtfNxWQxXQCbAm/Mzs/px2ZmchIe/O+YIUotfZhRbH+aVWx+XnVlZydyhYRjzoyNZaWjpb9RZsilvzV9prdC9nCZc/Xxi6EUOa/vMEDGQuhUIg37CXmmP90/QEzmQmNVvRURAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xu2W7UtTURzH3X9QIMm0jAonBvVWhBAhq2FBRIW06MFKSkaFQS+CXhQy0Zoprc0pY8Z6QJrNh9211gP+ab/8nvG9Ozt3W7t7eBH0gw93152787nf87vn2tHx75dH/k7LyvxhJy+uHlE8v3xY8eBstwT9PepIzGuc1FUe9cP18HisyJMLhxRPL/Yqnl0qHvE3fE/RydFumRjxys3hLkWdUh57omqYkwMmxdRMIVOqThmUx56sEhTgks2MF5m9dlTB80pSDQvxbitBCUw+f71I+MYxBc8BxkG8WkquhHiXJkwBEy7e6pPIRAmcE8hhHKSqpeRaiJPrEpiIIiuT/WVE7/oUFMRYfenMlFwIoTz2MugSAJNCIDk1IGf6veI/7lVHQkFcg5uglJmSayF9OSiRuF8UASO+LltIh2K4hlJ6PzEl10K8U11CJxWsDMbjOvYVhPR+YkquhUwBEwpkVoclFR6Ql9MnHUJ88rhs+lPnUghVW6qaEL4zE4IQlw0pNZAQqrrQo7Fe+RWbsrEW7yjSswFZDwUkeO5gWQ9xydjcDTQ1qnGhh/6SEPckpISEsFwtFwJYnunzRTEK4Zx9xD2JfaQ3tcuNkVVbCJPvWjn5+CZWYqXgaGykhIS4QaJ/XL7LWLWFIJMKx8qAEETxPXdvfcdm/7RcSPXQTk7ev47Z2GLLBTUGKSEhPmV6/7j4X0gvj2PTY9/sWnlZm4/a6EJMSX99mP3TgFBlGQr93LIkOfdOQSFdai1aqCkUONUiIaZDGQqZUkgJe1FbhSDDdBKzEUWtlBJv83LvdE97hZDOaiiiMIUcUvHvDiE+8uNDB9wIVZYBPzazEp8pCZlSulDyVVTiSzm5vSfQcqHRE52K7HpGYX3ZUnxLb0n+67YCslhOgC3hd3bv844lS3NZGezb11ohSmU+pBWbnzYU2583bMnlhVwZ0bAlC6EdGfLtL9sU8chfGexsXsgtfOz52mhCCIXB7eZ/NVd/AEDmvYMie7rTAAAAAElFTkSuQmCC",
     "wiki_name": "Water-filled vial pack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Water-filled_vial_pack",
     "equipment": null,

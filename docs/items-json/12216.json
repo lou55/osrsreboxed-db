@@ -1,7 +1,7 @@
 {
     "id": 12216,
     "name": "Bronze platebody (t)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Bronze platebody with trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xs3X22sTQRQG8A0ikhISQkIkLdYmUosEjPQhkIdAHxWEeqNeKhYrKoovoiilKF5K8Uah1AsqLRRKLUUrgogoiv5lY75Zvs3Z00nIrdKBj+xuZnt+mdkZtp63/VvEuOP6fstbxDyfPmmeTh23mb17zMzcHrUhYmX+olmemzBLLy44UPpHdAz3QUQBxGjM4rPz5s3suVBhnOM7nTCqJWTEzN07tQmFT0AYgl7NnDHzD8ZsX3y6QOgv0b/Wp82P1VvtoQjCMUeHoHdPxi2IfeuBcN/PtSnzZ+Oh+bvx2IJQ49DAgI2urpo/7PzVBKGoC7Tw6HQAwrELtLowGQLhmCBdXbVIaBpQiA83zjUIxYHg9NYDrb++3D0QRwnXAJLPQr1o0Ke3VwIQ0hKIz4UEyWLpuGfTm/RMPhszmcQuE4vuMMVCwsSjno3GfX5/NQz6cKd9EK6hOCIxxVzCFPrjpj/TY1Gl4VQAksH9XxavdQeE870Zz4YohqChPh9VKWcs1gX6tnwjAP3+eD/AdASSsOF9yQBEFKYPo8RR1CgXSFev02rzP5j1gkgUQETJkcIoAaZBRLUB8vcgjJAGMeUDaVPan7KRMKI4ShpElNwUdXXV/CVPEPYUXBsfy9lMnM3b80ohY1GEaRBWHPqNHNxtCkPVa4PV6czFghHqGAQAimIqWAghDCgJSsZ2Bv3wHe/jM9Q2iNNGEIrh/PBwtiEIWwBBuA8rkCDs0sQ0BcIKqwdCwWZGqDcVtf0QXOc5R6jJ0UGrgeSDTRCL4BzRK5D7E0dky0AYBfxhFkFcW4HczdkPP0SDiNLVHc0HyWkjiNOFlTY5nt+0WWpQrMdfaRhJCcIe1MI+FAZJFMK3vtEjfaGcOLrHjFSqD3Axafegcilt+8k3g+8rN9sDYZVpEJY/rgGEFy0WaRT0BQj9vy5d7xykVxuuE4TXCb5NIngjwDmC+9gXoLWXl0Ig7EEt70OuaZMgHDcCAcy+XQG5pk2C8J38r0SC0A8gTleHILTNz4MrEiOjQXiXliCmBZDncVtvFA2Ukc9PV0DNNo1sBsvU+v6nppGu6Hu2dfsHRuSYgWtDA24AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xu3X22sTQRgF8A0ikhISQkIkLVYSqUUCBvIQyEOgjwpCvVEvEUsrKoovRVFKUbyU4o1CqRdUWiiUWopWBBGxKPqXjTmznvXb2UnIblLxwYFDdzazmV/mxtZx/v0SU/bYPt/2ElNPZk6oR9PHdOZuHVWzN0Z1iFhdmFAr8+Nq+el5C8r8EV3DXRBRADEmZunxOfVy7qyvY9TxmRk/KhQypuZvnwyg8BcQhqDns6fVwt0x3RZ/bSC0l+hvGzPq69r1aCiCcM3RIej1w4YGsW0rEJ7bWp9WPzbvqZ+bDzQoFAZfyl9NEDq1gRbvn/JAuLaB1hYnfSBcdwiK+aYBHXFxo26C0DkQnN5WoI0XF3sH4ijhHkByLbSKCXr/6pIHQkKBuC4kSHaWTTo6/WlHFfMJlUvtUon4DlUupVQy7uiYuA9vLvtBb29GB+EeOkckplxIqdJgUg3m+jSqWsl4IBk8/3HpSm9AqO/NOTpEMQQND7ioei2nsTbQ55VrHuj7uzudYlBagySssi/tgYjC9GGUOIomKiII5c/8D+UdLxIFEFFypDBKgJkgoiKA3DMII2SCmNqBrKruz+hIGFEcJRNEVIhD0d3yBOFMwb3GWEFn/ExR1+ulnEYRZoKw49Bu5OBuVRpu3htqTmch4Y1Q1yAA0Cmmgh0hhAElQenETq8dPuNzXEORQZw2gtAZ6ocq+bYgHAEE4TnsQIJwSneIQXF3WCsQOuxkhPoz8d+dxvR91jlCkUByYRPETlBHzB3I84kjsm0gjAK+mJ0gtqNAnuZshx9igkKgXJCcNoI4Xdhpk41i4LA0QYk+d6dhJCUIZ1CIc8gPkiiEb32jhwd8OX5kjxqpNxdwOa3PoFo1q9vJN4Mvq1PRQNhlJgjbH/cAwosWO2kXtAUI7T8tX+0eZO423CcIrxN8m0TwRoA6gufYFqD1Zxd8IJxBoc8h27RJEK7bgQBm256AbNMmQfhM/lciQWgHEKerSxBKcD3YIjEyJgjv0hLEhAB1WoJIRq6fvwhqV4LIYP6X7sov/NFN9dPTMaMAAAAASUVORK5CYII=",
     "wiki_name": "Bronze platebody (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_platebody_(t)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 7805,
     "name": "Ancient mjolnir",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-04-03",
     "duplicate": true,
     "examine": "An Ancient Mjolnir.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClUlEQVR4Xs3Wb0sUURTH8d134kvonWgoKa5Wmhr6LIpCpOiPSKkIohUaCoGYSBmBD6Qo9JXd+M7wG88cz7o7u1N44TCzM3fmfPbec+9uo3HzWzPFEd3/562Z1paG07vF21msPBtKy08GsxDiYHMqfd64l/bX7wYo/yX6hucgoQApPGZvdSJ9XBkvJeYz93yUUZWQzbTxfOQKiiMQhUDvl8fS5ss7WV+OEYj+Fv37eCn9PHzcG0ogzjU6Au2+bWUg9W0H4rlfR4vp/ORVujh5k4HIcWtgIAuf3bV82PWtBSJpBNp6PVqAOI9Ah1vTJRDnAvnsrjVL00AiFTefPYjkIDS9AvEeYTg//jBbH0ijxLUIpJEUiHfMTU4W9TLTamVHgYhKINWFB5Hcg2xBC8TzHvP908My6MvT/kFcBySURtKuSDtCBCCNVq0gAoAF+YK2oImR4RLo/mh+Hcyfry8KTGWQRWn5epAw9PNTZkMjZEE+e5uWv4CXXwfyBS0QI2mXPH3PDh71Csr3IEaoE8gXNP245kH0tyC7KfrsruVLPgIREcjWTwSiX60goQgSsOOSgHNf0AL56aoNZEeJowXRzxd0O9DR9oMCxC4tTFcgVkgE0u+TBfn6iUD05WfDjlCXo0O7BPk64roF8bkTSNP1bWeuPpBQXCeBQNz39WNH0oJ+7M2XQEL57EHLQdG09Qqi/+n+QgFiD6qwD5VBdtosSEveT5cHAe8bRLF2ApEsWmG21jRdtYH8tHHdgnxBa6/iOfUFxJK3IPagyvtQNG0WFC15C7L1UwsomjYL4l5U0IR+NjRdfYJoV/82ROHrR+FBbIoWpKgAajS0rV8XHmjD1k8toG6bR3aDVVz2/U/NI6Pwz9zo9heBidWx3Q3DlgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcUlEQVR4Xu3V7UtUQRTHcfcvTFEyWu1B06h3URQiRQ8iliGIPVChEIiJmCL0Ioqi/rKJ7738ljNnj+7O3pv0ooHDvTv37J3PzpyZHRv791snxRE9/+utk9aXJ9PzpYkqVh+Mp5V7F6oQYnfzevq4cTXtvLwSoPyPaAyvQUIBUnjM9ouZ9Hb1cjYwn3nmI0cVITtp4+FUH4orEIVAr1cupc3HF6tcrhGIfIv+cbCcvu3dHQ0lEPeaHYHer3UrkHJPA/G97/tL6dfRk/T76FkFKsLwUv1qgRg0Am09ne6BuI9Ae1tzGYj7IUGdbBkYSMXNZw9icBBaXoF4jzDcH7xZaA+kWaIvAmkmBeIdi7OzvXq50e1WV4GIIpDqwoMY3INsQQvE9z3m+MPNHPTpfnMQ/YCE0kzaHWlniACk2WoVRACwIF/QFjQzNZmBrk3X/WB+Hj4aFkPLQRal7etBwpDnl8yGZqgQRKtfwMvPAvmCFoiZtFue3K+7d0YF1WcQMzQI5AuaPPo8iHwLKjgU6y0fgYgIZOsnApHXKkgoggE4cRmAe1/QAvnlag1kZ4mrBZHnC/o00P6r+R6IU3pIDK3eYRFI/08W5OsnApHL34adoZFAvo7otyA+DwJpuT6/W2wPJBT9DCAQz3392Jm0oJPtWxmoAFWDomUbFUT+l53bPRBnUME5lIPsslmQtrxfLg8C3hhEsQ4CMVi0w2ytablaA/llo9+CfEHrrOJ7ygXElrcgzqDicyhaNguKtrwF2fppBRQtmwXxLCpoQn8bWq6GIBqJg8PXj8KDOBQtSFEAGrb1IxW2fs4RdFbrR/bH/9as/QE3hYsl52+jWwAAAABJRU5ErkJggg==",
     "wiki_name": "Ancient mjolnir",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_mjolnir",
     "equipment": null,

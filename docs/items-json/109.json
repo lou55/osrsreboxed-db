@@ -1,7 +1,7 @@
 {
     "id": 109,
     "name": "Dwarf weed potion (unf)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "I need another ingredient to finish this Dwarf Weed potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xt2X+09ScRjG/br+gX5srtI1bVotbCJ4S0wxBNHwkqKSCnZCUcALIthMl85My5TpvOQtptlaXuoPfOr94jlyTv7SdjhsvdvzA4fL98P7PO97ICPj/ygGudJaDC+dd9BquwVz+Q08un893VAMR7FyxD+VcQ335aPTkZNOKCbB7Cwa4e+9i/aG2xxIl52tNVQiMyLQ9jsDfC/yuH1pyBODvaEZDkeb1J21WT28XblostxEcXEZSsuqtIRi6Ojo/kv19maYa+2oNNVCp9Nrad2f6RK8XILQL8lqc6C6xgq9vhS5efnaAgWHRyX5/UH4fH5Y6hpRUmpCwb2HyMpKZEkjICqGw6NjnJ//xOnpGU5OzrhdhYXFUqgJRlMgj+cVwuEJRKOTXGRXUVFJOmCoGIaGAohEIheKosZsg8FQobVVYjGEJyIyPbU0SBnScOSpGNweAaOjIYyNhRAKjXPraDc9qa6T2aZ8Z4qKwev1IRAYlibN5epFu9PFoSoeV2sPtL53Imlp4xhzK3FMvd9FaHYTLt80LE1urWxjmF+Ny4A+bh7za2+W9jhQ99AMbK2CFl1iiMxvy2BIK1vfsBA7lIB6A7OwOwdQY+9MdZcYFte/ymA2Dk6x+vk7B5r5sI/w3BY8I/NwdPlhTW2XGD+QAJQiIAJ9u3zAgfrGFtDSMwJrSx9M1rZUdIlhZHqdh1cJQ4rt/uDPERBZKoQW8dw9LrNN5S5d3Z2tL2dcYrBp0gioP7wMpxDlttU+60GVrV3NLjEeVOqACKAUwYlArxd2MBBZQVf/lMy2zMxrakExboUSQglEk0ajT0CDkzE+ady2Ni+3zWiyq2Ud499eCbEdP5dEj0UgWo7BqTU+aWRbY+cgt63c7ECh0axel5IBrpI4+gREA0DBFm2rqu9Agc4odUiVLok7JznMIszO4S8JSFyO7uAcD3WlpRU5uQ/UhBEr8SuQDqYxVwLSNdpFNI2UH7LKUGm7sEh1mEQlPlD8z8VkYOJNNvk+lgyiOkxyXR5wCaeUJiBXVfLBSilf+6/1G6maRd99tpayAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xt3VWU8TYRQGYD7iH/DSEDXEgAE1gqG0bFKkxdJSsCxCgQq0MBZKF5ZSWgxChCCCIjQQFtlsQIyRRX/ga84HMzIDl9OZhJO8F50mnadzzvkmI+NmFIM8uhZDn/sBWhz3YC2/g2ePb+uNYjhMliP1tYxnqDcPHa5sPVFMwmwvmBDqeYi2+vt6gc5nRgRtfTQi8CaXt0+HeWJw1jfB5WqVns7qjAH+zhw02u6iuLgMpWVVWqIY2tu7rqTO2QRrjROV5hoUFBi0BfUJfh5B6Jdid7hQbbHDYChFTm6etqDI0IiUUCiCQCAEW20DSkrNyH/0FFlZ4ixpVgwHh0c4O/uDk5NTHB+f8nYVFhbrMdRUDD7fW8Ri40gkJnioXUVFJXpgqBiCwTDi8fhFErBYHTAaK/QDxcbjsry01UszpDGKwesTMDISxehoFNHoGG8dnU0vqmv1aBuD3x9AODwkbZrH04M2t4ejKp5Xaw9a2z2Wsrh+hNnlFCY/7SA6swFPYAq2Rq9WKIa5lZQM9GXjiF97v7jLQV3BaThaBC1ADPG5LRmGsrz5E/PJAwnUE56B0z0Ai7Mj3SiGhbUfMsz6/glWvv3ioOnPe4jNbsI3PAdXZwj29D4lxm9IAGUIRNAPS/sc1Ds6j+buYdibe2G2t6YDxTA8tcaHV4mhJHd+8+8IRC0Vogt47R1LZ9uufzqb3095xMGmTSNQf2wJbiHB21bzqhtVjjY1UYwPKj0BEaAM4UTQu/ltDMSX0dk/KWtbZuYttVCMt0KJUIJo02j1CTQ4keSbxtvW6udtM5md6oHo3ysRW6kzKfRZBNHhGJlc5ZtGbWvoGORtK7e6UGiyqoe6DLgu4uoTiBaABltsW1VdO/ILTGphqM5fFcphFjHbB38lkHg4eiOzfKgrbS3IznmiJkYs+kHGb0xrrgTSNTqLaBtpfqhVxkrHBUR1zOUSb8BkMPElK3+PpRVyXf3HXc0NrH/LchDUViUbYAAAAABJRU5ErkJggg==",
     "wiki_name": "Dwarf weed potion (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf_weed_potion_(unf)",
     "equipment": null,

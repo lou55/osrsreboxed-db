@@ -1,7 +1,7 @@
 {
     "id": 26003,
     "name": "Sigil of the meticulous mage",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADU0lEQVR4Xu2X/y9VcRjHnSUlljXfdp1ydU0WRre1ZEk2U5IlM5MymVmTkpmZSZmZMalNk1SWmQkzY5LMsvFTfu/n/pcn7+fsOffcj8OuHLaWZ3sPd+75vDzv5/18rqCgw/r/SiOfDryshxuqri6nkpJblJt79aDBNJqaHKGJifc0NjZIP13h9CP2BHV2NlNT0yOqqamgsrI7lJV1SYHel9Jofn6CZmfHaHr6M8MI0Iv2RmpoqKGqqjIqLb1NBQW5lJ19mdLSzpPbre8XlEZL32ZMEIERPa57SPcrSti6G/nXGSgjI9UEupCQ4CSURgsLk34wKlBt7QO6V36XiotvUl7eNbYNHfJ44p0GMjrzKy58i9Y2QawCjHTnojedkpMT6YweRxERJ52yTaPl5TmeGRUG+q37oBoba6myspQtkw7BsqSksxQZecqpLmk0Pv6ORkbe0OSXD7ZAop6eNobCCpDBFttcrljngObmxllebyJrdPStH9Cnj/0M3NHRxNHHLCFtsE+SBtscA1r8OkXp6R5T6NTwcB+96ntJvb3t3Bmoq6uFWlrqOW0AKirKN4EcHmzNDwjzBBgAPG97xjvI43FtzorO38M2pA1AYhnmyCEgjVZW5ik11W0Kh7vjY3lWYI+uR/HPeF2EjY20WQfbMSAMNYQrA1v6dX8HXxXNzXX0pL6auwEL8brYhrQVFuaZQIi/A0AaA2CgMUfoFL7K4bBHZgb3F5KFyGOYkTBctJmZXhNoD1eIcSEGBx+hmZlRvr+WlmZpfe27H1Rr61NOFe4wQKlAOTlX/IBiYqL+pksGCBQScpSFSG9srJswSBnSBXtgjQjJEiDMD4DEMqTMt60D7tJWmLCw4yzArK4usoXozuBgD3V3t/JgI00QZkZktSwl5RwvxtDQY/xMPD8AsO1hoqMi+HAkBzD4LDQ01Mu7R9KEDsEyzBK6BCgA4T5DwuRZ8mw5awcoeyDAQJKa03o0Wzgw0MWQspHRKcAgcdZrQ94PbQe0w0wZUHYdEgEIwt6BZBGiU4ABOACt79kDEMoeyg4uUFlBrDABAqH8oVQw9UA7qTOjwshQAyYAIJRvF9lJPchO6nvUruwCxijjl63/OTijXYOoZf1rnJJ6xmH98/UHxCumkieX8C4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOklEQVR4Xu2W70tTcRTGvWSWKY3wF/OWo4lJTpRFZJKZIJaZpEPELDERCbNMxhjDLBERxSwwzKwkETEVEcXMRBL0Vb7vdf/LyeeMc3d3vcbMO9/kgQd1cO/34znPc76LiTmq/68UCunQS394UE1NdeTx3KaSkmuHDabQ7Mw4TU+/p8nJEfppT6Qfaaeop8dHXu8jam6up9rau1RYeNkAHZVSaGlpmhYWJmlu7jPDCNCLrg5qb2+mxsZaqqm5Q+XlJVRUdIVycy+Sw6FGC0qh1W/zGojAiB63PqT79R4e3c2yGwyUn++KFpBCy8szYTBGoJaWB3Svrpqqqm5Rael1Hhs65HRmWA0U7Myv9MRd2twB0Qsw0p1L7jzKzs6kc2o62WynrYJSaG1tkT1jhIF+qyGojo4Wamio4ZFJhzCyrKzzlJR0xjqgqal3ND7+hma+fDAFEvX3dzIUVoAYW8Zmt6dZB7S4OMVyuzNZExNvw4A+fRxi4O5uL0cfXkLaMD5JGsZmGdDK11nKy3NqQqfGxgbp1eBLGhjo4s5Avb1+8vvbOG0Aqqws04AsNrYSBgQ/AQYAzzuf8Q5yOu07XlH5d4wNaQOQjAw+sghIofX1JXK5HJpwuCMjjb2C8ahqMv+Nz0XY2Eib3tiWAcHUEK4MbOnXQ918Vfh8rfSkrYm7gRHicxkb0lZRUaoBIf4WACkMAEPDR+gUfsrhGI94BvcXkoXIw8xIGC7aggK3BnSAjR28EGNjj9H8/ATfX6urC7S1+T0MKhB4yqnCHQYoI1Bx8dUwoNTU5H8BCoJAcXHHWYj09vaWBoOUIV0YD0YjQrIECP4BkIwMKQtt64ihdsMkJJxkAWZjY4VHiO6MjPRTX1+AjY00QfCMSD+ynJwLvBjj40/wO/H+CMD2hklJtvHhSA5g8F1odHSAd4+kCR3CyOAldAlQAMJ9hoTJu+TdctZfoMyBAANJas6qKTzC4eFehpSNjE4BBonTXxvyPLRPIFQQyqxDIgBB2DuQLEJ0CjAAB6D+mQMAocyhzOAilR5EDxMhECocyghmPNBMRs8YYSIwtbFCu8hMxoPMZHxmn13Zq+Q/sVJHdVTRrz+WG2pcekByWQAAAABJRU5ErkJggg==",
     "wiki_name": "Sigil of the meticulous mage (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_meticulous_mage#Un-attuned",
     "equipment": null,

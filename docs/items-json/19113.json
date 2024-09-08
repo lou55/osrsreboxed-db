@@ -1,7 +1,7 @@
 {
     "id": 19113,
     "name": "Jug of water",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "It's full of water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xu2W20tUURSHPU/So/QgCYkGCWZ4CTPDTEPN1PCa2njPzMzMS2pi5iUzg4ionus96Lnn6CmIoD9p1beGNbPbzpjNnNGXFiyYs8/h7G9+67fWPllZ/yO0CORgeSgRSE9bm/S2t8tAd5eM9PXKeCQik8PDcv/WmCzcnZSVmRk5V1p6GFCBdDQ3S1dLi0Ld7OyUoRs9MtbfrzCLU1MK83h2VmHra2oyrVYgrY0NMShTCaC5OxMKsvFwIZaoxrPny8syARUt1bUr9XK9qUk3MpUmBgdVne1HywryZH5OS+eqVF5QoOm/NY0IpKG2Vq7W1alKQKESm94bHZWJyW8yv/BdNjZ/qlKmTllJSQzIf2MIEahn+NemVEvre+no+ii9fZ8lMvhFwRaXfuhzwGdIHTcCLQ/lulxdLXX1u9LY9FZa2z5IZ/cnBRsY+qr3zxYXO6bOsLnfPNtW71C2S1VVqhgQXFMq1DuZlyen8vPlTFGRjoGLlZWZgArUtACRy9PTCgYMM4lS4TEgUNA8ByjQGZhPUXXId893Ykl3YW7b3GaUDc0Ht8d1Df8BGxJUIC/X1/cAsaad9lspZhJK0X02NFnnPmDAUjpKmSZUIFtLi3tgSNYNCEUMCiA2P5Gbq5szzbmPvxiWtu7vdIAI1Cuvn24lBOK48IGAQSV3FpGUDlj8xHWKIyGQnZWVhDBcc2xYSXwgfMNAxTdc766u6vP8NiB/t79EoJPXYHwgNuCYoBwukPkIIDqQNTO2qZWyOq6RfSi6ywXyjQ0AhzB5LDv7D5AUYIh4m/tp/kkGRNkAIumu4zk5MSh/l3+I5ECvNjcSAlE2A0Il1MHcTO4QoJIDYXT8xdmGP5IB4SFanakNVBr+sUgMxfxxgdzWB4i0cjHB6bbThYWpdpcfe6H2A8JHbrmYOxwb9gUQOhCdxxciBy1D059FidThq+BCRUVYQEQc6sXa2r5A+MdVJ2ritOZPsohC7Qdk5UIZHyJkGIvosKTLGIxu66MMqiQC8d8SckQ/1EwdVMEvRwDiRtwXRwwSD98bRwZyGPEL6+PnR8ITtbIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xu2WzUtUYRTGfVfSUlpIQoJBghmaYWaYaehkaviZ2jiaZmZmpk5qg5kfmRlERLWufdC6dbQKIuhPOvU7w3HuXGcGce7VRR14wfvegffnc57zvLeg4H8FVk72tw6lnPR3dspAV5cM9/XK7cEBmYhGZWp0VB7eGZf4/SlJzM7K+aqqw4By0t3WJr3t7Qp1q6dHRm72y/jQkMIsTk8rzNO5OYVtbmgIWy0nHa0tu1CmEkDz9yYVZP1xfHehGr+9cK46DKhkq65fbZYbkYgeZCpNxmKqztaTZQV5tjCvrUtXKfBy0tLYKNeamlQloFCJQx+Mjcnk1A9ZiP+U9Y3fqpSpU11ZGRYQ5dQz/NemVHvHR+nu/SwDg18lGvumYItLv/R3wIcIY+W0PbTrSn29NDXvSGvkvXR0fpKevi8KNjzyXd+frajwmDpkc797saXeoW2X6+pUMSB4plWod7KkRE6VlsqZ8nKNgUu1tWFAOTUtQKzlmRkFA4ZMolV4DAgUNM8BCnQI+ZRUh/Xh5fbuYrowtx1uGWWh+ejuhO7hP2ADgnLyem1tDxB7Oml/lSKTUIrps9Bkn/eAAUvraGWeUE42lxb3wLDYNyAUMSiAOPxEcbEeTprzHn8RlrbvP2kf5dQrb59vZgTiuvADAYNK6VnktHXA4qcDwlBOthOJjDA8c21YS/xA+IZAxTc876ys6O/5+4BATpPXYPxAHMA1QTu8QOYjgJhA9szYppb/pH1WupH9UEyXF8hvbAC4hFnHCgvzAbFKjbl/mX+yAdE2gFhM1/GioiCgsgO92VjPCETbDAiVUAdzk9wBQGUHwuj4i7sNf2QDwkOMOqkNVB4wVpmhyB8vkHf0AWJZu0hwpu10WVkQQNReqFxA+MjbLnKHayP1BZB3pQMxeXwhctESmv4syqQOXwUXa2qCAqJSUK9WV3MC4R+vOkmIvPInWyWhcgFZu1AmJAh/JcOSKSMYvaOPMqhySCDeSn6omTqogl+OAMRbXl8cKcg/Wn8AybuwzVbKpqIAAAAASUVORK5CYII=",
     "wiki_name": "Jug of water",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jug_of_water",
     "equipment": null,

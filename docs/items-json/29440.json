@@ -1,7 +1,7 @@
 {
     "id": 29440,
     "name": "Egg priest robe top",
-    "last_updated": "2024-04-16",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-27",
     "duplicate": true,
     "examine": "I feel closer to the eggs when I am wearing this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xu2WT4RVcRTH33Vd13uu165FixpRi1q8zKJEMYuSRDEMJcVQlBTDUFLMYpRMDKOkGIZSMYyiElEUaTGkoWjbrnWrVqc+v5/vvN+77/+b1yzyfhzP/d17z/mc7zm/c1+h8H+syBrbuq5q4OGdse0bju3g3tiOjsQ2diixU8eS9YLzAa6cSe388cRGdsdWzgq2aWPBdmwtODj2Lp5MbPRAYnsqsbv3D8C8w/npot2fKtr0pdRuTqQuMGoAgaHQxOnUAXOPPaAq22PbtrlvYJE9ulW0hRvegOIau3u96MAEMDme2rVzqQOemUxtfDRxkJSTsqIgSq4BKrKluZI9ue0BBMX14qzf53ruqgebvewh+eUaQKBOHPElBAzF8LtraKgXqMhe3ivZ8zslByBlAAGUPe1LPQGhkKBQDzBBrQno3ULJXj+oQkmdEIg9qUWPhVAYZWwElY/WZkX2/mHJAb2ZLzmlVD5+GwGhlBqfMgKFTV1IXbOfHUvcWOhRpXogqdQKKCwdUBhNTun6BkTJBCSYECgEC6FUPp1EZhcNfnh/tbnzUZssf7rCIGrmZqb7jYD45Vr7KmMXKvkhKNNxxwQXWv6+AgtKPgStsqN4VyopG5zKcR4yHzhUIrwWDGXjpNHkUqhjlegdnCC7GpN9+klNG84cnqEUHHOMfmEy8zwHAzCeA4oJ3kXJWD4wmRGUADhi/8fb8upsyk9y9Q2wnCq+Y0qO+0D3AOQHIsEIoInr6x3Zzw/lmoGpA5CHIrBO06enmXuOfU6c/qJ0DEQwApCpyiCgX8tl+/g4qxuaIRS9w3TWzOFZjPuUmHtdAREAp2F/COj3lw32eSlzWTOr8lCUECgaV6XRLMNQsItjX9vMYeOuAq1ssW8vshqoRt88SkNjK8FwmOKz2gYtV+ScSvawSasZ/YX6WrHvrzJbeZbZ8mLmSpj/5oVJqPHDuSXV26gUNf0M1L6sf3+tTQmE80pJYh0BkSkZhx9X4PIva6i1M94jOD4xyoyhbFXFlqs+U8G0yabFqvfXld98lh291GblffXL72AN1mD1uv4AGrpMDNxEpqQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xu2WT4RVcRTH33Vd13uu165FiyJqUYvHLEoUsyjJUAxDSTEUJcUwlBSzGCXFMEqKYSgVwygqEUWRFkMairbtWrdqderz+/nO/b3be693571mMd7heH6/373nfM6f37mvUlkfEllrXVPJHQ/tjG3vUGwH9sR2eDi2sYOJnTiSrBWcd3DpVGpnjyY2vCu2elaxTRsrtmNrxcGxd/54YqP7E9vdiN3ZfwDzBuemq3ZvqmrTF1K7PpE6x2QDCJQMTZxMHTBn7AHV2B7bts19A4vs4Y2qzV/zChRr9M7VqgMTwOR4alfOpA745mRq46OJg6SclJUMkskeoCJbnK3Z41seQFCsF2b8PuvZyx5s5qKH5Jc1gEAdG/ElBIyM9QT04m7Nnt2uOQBlBhBA2dO+sicgMiQosgeYoHoCejtfs1f3cyhlJwRiT9mix0IolDL2ASqydw9qDuj1XM1lSuXjtxUQmVLjU0ag0KlzqWv202OJGwt9A1KWOgGFpQMKpckpXd+AKJmABBMChWAhlMqnm8jsosEP7Svd3P52hU7UzO1U562A+GWtfZWxFBAvSnXdUcGFWjyXY0HJhqBVdjJeGopoMCrDRcii4zAT4VowlI2bRpOXgEEi1zsYIe1qTPbpJzVtOHN4hlJwzVH6hcnM81wMwHgOKCZ4aSAMERlOcYAh9r+/qa/MpuIkV98Ay63iO6bgOAd6FUB+IOIMB5q43kBkP97XmwamLkARCse6TR+fZO459rlx+V+UrsRHhAMiVRkE9HOpbh8eZX8NzRCK3mE6a+bwLMo5JeasFBAOMBr2h4B+fd5gnxYzFzWzqghFCYGicVUazTKUDJa49s3NHDbuCtDyFvv6PGuCavXNozQ0tgIMhyk28zboKJEzqrSHTZq//AfqS8O+vcxs+WlmSwuZK2HxmxcGocYP51ae9Y4Stf0MNL/sHf1b/bPhvFKQaFdARErE4ccVuC5ebiORc45NlDKjZDbPYkcpRhlGu1op2uqX3YEMZCDrSH4DkT0Lic3LI80AAAAASUVORK5CYII=",
     "wiki_name": "Egg priest robe top",
     "wiki_url": "https://oldschool.runescape.wiki/w/Egg_priest_robe_top",
     "equipment": null,

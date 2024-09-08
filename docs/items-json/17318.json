@@ -1,7 +1,7 @@
 {
     "id": 17318,
     "name": "Troll potion",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-05",
     "duplicate": true,
     "examine": "It's part of Eadgar's plan.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiElEQVR4Xt2XTW8SURSGe3+AJkZtU5EKQWoHbAtSPgS0WC0iLVX6oViIBLWkhoa0cUHBrQsTNybGlXFlqruW+AdfPXc8w3BpFybDJfEkb0ImhPvkOe8AMzb2f4xAf0Y6AjvPfdhamcJyehK3bl4YNZTAj89pfP+Ukjl4baBc9I4SSlgw3z4m0KzdQGntmgQKeTy6oczOMNDXD3E0XkzL9Y2gTwKFtQ0Ui88sO1/eR7Fb8WM950YslkIydU8nlMD2dnUgq4UNLGcLWMxkEQpFda7uz91V35Wp199Yya8Ucf9BHtFoEv5pQy/Q/sFbK83mPhqNJnKPHuN2MoNAcB4ul9klTUA0AkdHP9Ht/sLJSRfHx125rnA4ZpWaYLQC1V7uoNU6RKfzTobWFYkkRgFDI7C310S73f6bjtUfzaviEajW09JQ67AtQyuLx+9gxpjVecvTCKyXFlB5lbJCcOmMH6GFKfj84zotCTwszPbBUOja4tIMwjEP/MYE3J6LuiwJbJZjpwJlsgaiCS+M4CS8vks6LAnk1+ZRriUHgOj6Ui6AeMqHwJxLrk2DJdMOAalQBJTNB5G8ex1z4as6LJl2StWEBWTPajEkgbjYGiyZd5YKYgeyF5ssUbmHZEnIA59W4gMgnMJmuK/YZInWNiRLAk+2Imeui4HsxR6iJbM7VGYCOisMxMUesOR1zJKQh6kAasigvdhsicrtsCWzzCqAGgbiYrMl/gogSy63Y49JYgBADUHbi82WaG1kaOLKecuQI5aoQxy629QwkL1HDHN5/JyTMDzmv0A6mKLC0WsGYhjuzRBgzDE/kJ+5etYYiHrEPx0qiOMw9ukd0INTowXktLEfrEZ977/Obwr8pZNAbLuHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaklEQVR4Xt2XTW8SURSGe3+AJkZtU5FagtQO2BakfAhosVpEWqj0Q7EQCSqkhoa0cUHBrQsTNybGlXFlqruW+Adfc+54hmGm3U3vJD3Jm0xmwX3ynHeGzNjYxRiB0bg6As1XfmyvTmElM4l7d6+4DSXw+1sGv76mZQ7eaaiWfW5CCQPm55ckOo07qJRuuQWkd4aBfnxOoP16Rq7PhT4JFEubKJdfGna+f4phtxbARt6LeDyNVPqRSiiBnZ26LWvFTazkiljK5hAOx9QCNVu7Mq3WeyOF1TIePykgFkshMKOpBdo/+GCk09lHu91B/tk67qeyCIYW4PFwl5SNwNHRHwwGf3FyMsDx8UCuKxKJu1FqGoHGmya63UP0+x9laF3RaNINGBqBvb0Oer3e//SN/rgGVG9lpKHuYU+GVpZIPMCsNqcaSmCjsoja27QRgstkAwgvTsEfGFcJJPC0ODcCQ6F7S8uziMSnEdAm4J2+qgpKYKsaPxUom9MQS/qghSbh819TASRQKC2g2kjZgOj+cj6IRNqP4LxHrk2BJd0OAVmhCChXCCH18DbmIzdVWNLtVOpJA8ictXJYAnGxFVjSnywriBnIXGyyROU+J0tCHviilrCBcIpbkZFikyVa2zlZEni+HT1zXQxkLvY5WtK7Q2UmoLPCQFxsmyWfY5aEPMwKYA0ZNBebLVG5Hbakl9kKYA0DcbHZEr8CyJLH69hnkrABWEPQ5mKzJVobGZq4cdkpGBr9hcihp80aBjL3iGGuj19yEoaHflBfH8UKR9cMxDDD3jgOYx4+YGiNgahH/NehAOS0GcLZcwHnH4NtcIglj1xTAAAAAElFTkSuQmCC",
     "wiki_name": "Troll potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Troll_potion",
     "equipment": null,

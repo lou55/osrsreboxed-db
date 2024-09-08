@@ -1,7 +1,7 @@
 {
     "id": 4121,
     "name": "Iron boots",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": false,
     "examine": "These will protect my feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdklEQVR4Xu2UbWvbQBCEc5RQbESMkJGxTd04Ig6qi+2YxHHIa0nSlFLo//81W+bUkVcnKUhyGkPbhUVfbm+fnVnd3t7/+HvDSJI7jwRkOjqwuWOwDQjyfPpRlvEHGQQtBfZmgEbm406a69k4BZpPhjKNBhKPexJ23ovXelcA+KqQRpaRbxMw14soB3TU92QUtsX39lMgrebJUNu7FZyR1SSwSSgXCM0ABOsIBHDXWq3kFnAJkFZIJ6cvAiqzFkrqszWhjFzG3RRKg2g70AT7gyZVrOVZAi0OD6tCJUBINtIgTDZx1SyzdgsgxEYlNtRW6SYuEM4VWUsgwtQEQhi5XR5bG+zEvxtqqH6vVwjkWkughuowjDxexBkoLunRsCuDsCNBp53bN9feooVuAGTkx9OTfL27k9v1Wi5OT2U+ncqnyURGfT+FOfBa0m7ty8PNjdxfXdkvVaSS3LWw25XA95sAJTDfvtzbJpdnZ7KczeRzHFtlXKDkF07S/d3x/hyPwkxdTSAjP5+fMzDni7kFgkIvAek6DeOeh6JJTaUw6aXXq5W1ikDarl7gZYAA85LFPE+Yin+Zke+PD3YPcCmAoBChtDouEGB0LYG4/Div1akMgwm5oLiYQFCIQGUwUBa1GAQDYOdcu2qpgwtdIKqkLyeQtoq1+idwB6ihDiJRqAzqJIoyQFxkqsMa2kWghnYh8kC0jPtTBqPVIZD7XrGmol0Mk15MqwCD5cy/IcUDcH+0XRqkBgxj88jx7eG02QmLdw5D6L+rgSr50E11Zi9OgNwnAsnHMF/zCqGlzl9sMovMBxTq/BGYapFVsVjNNw5XxZ3C/BPxC7UBFVwbviatAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXUlEQVR4Xu2UbWvbQBCEc5RQbESMkJGxTVwcEQdVxU5M4jjktSRpSin0//+aLXPqyKuTlEZSWkPIwqIvt7fPzqxuZ+c93m4YSXPrkYIkkz2bWwbbgCDPkk+yjPdlFHQU2H8DNLKY9rJcz6cZ0GI2liQaSTwdSNj7KF7nQwngq0IaWUa+TcBcHUcFoIOhJ5OwK763mwFpNY/G2t5WcEZWs8AmoVwgNAMQrCMQwF1rtZIt4FIgrZBOTl8GVGUtlNRna0IZuYj7GZQG0XagCfYHTV5iLc82BkKykQZhsomrZpW1LYAQG5XYUFulm7hAOFdmLYEawDCM3CwPrQ124j8NNdRwMCgFcq0lUEN1GEYezuMcFJf0YNyXUdiToNct7Jtrb8uFZhj5+fgo325v5Wa9lvOTE1kkiXyezWQy9DOYPa8j3c6u3F9fy93lpf1SRSrJXQv7fQl8vwlQCvP9651tcnF6Ksv5XL7EsVXGBUobpOn+7nh/Didhrq4mkJFfT085mLPjhQWCQs8B6ToN456HojWgTHbp1WplrSKQtmsQeDkgwDxnMc/XhvnxcG/3AJcCCAoRSqvjAgFG1xKIy4/zNdVJYTAhFxQXEwgKEagKBsqiFoNgAOyca9cLYRCpVS4QVdKXE0hbxVr9E7gD1FAHkSpUBXUURTkgLjLVYQ3tIlBDuxBFIFrG/amC0eoQyH2vWON2/UuY7GJaBRgsZ/ENKR+A+6PtagCiY/PI8e3htPmLy3cOQ+i/qyWMGxu44sUpkPtEIPkYFmv+eZjcIvMBhTpbgGG4Kpap+R5vPH4D8aDUyuO2n0AAAAAASUVORK5CYII=",
     "wiki_name": "Iron boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_boots",
     "equipment": {

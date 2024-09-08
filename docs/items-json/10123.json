@@ -1,7 +1,7 @@
 {
     "id": 10123,
     "name": "Desert devil fur",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "Sandy coloured kebbit fur.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4XsWWDUtUQRSGd35HUFZUkFEWZUlqiraxKWZI0QcVgqQUYkiJIUVFiSAVFQRBQRBE0I+ceOby3nvu7F12dy7YgcP9mN05z33PmTPTaNQy5wv/7+b88q0hv7hw0t+dG9wrMKtA2e9fPxGAlm6cCvc3W8f8/PSRtt+1e7K58PUEQwH89szxEBjn/aM7p3MgxhaaR/3s5GHfHD3ox87uC1cgGWMufp8I5fyTB+dyBQQmOBvApk0qATI1ciB4a/xQAGWcuZh7aGCgHyjndzcm/cvHFwOUgjKZheO6eu9MKW2AAgQEUHJUk6pJQF9fNf3O0wm/tTISoAgsMKua3uvZpi12m7o+0+b8z52ZEtT64nAOZuGsgnHaqlypS1Lpx/bVEtSzpfM5mOB0jdOmwgcgdt4nAX15cdl/e3MlXLfXLwWozYcXApjgcAsklYDq5n2mDXP+09Z0UMlCxWBWpao2YRWTalKoT5WwbMUBhgPF6ovB4lqKAXDVUQ0YLOuu1NGH51M51OvV0QCGV0Fp+cu10mrDKDjOvdSy76WUCh4o0qZ+pJ5UGwZV3q6N5Spw5Zn3OFA8V0EpberYtWFQQgFtWgisdDHWCUppI00Tw/tTlrksW1kCUiDVCMHsCmMMIIELilVHG2ClUdCkLWGZY1n/AcgGsUWrxqh7pVPKCVjpQy0dT2pDEURpUK+x+xkOGOOAW5UslP6rzTWO2MWc//6uFaAoXkHZ5mc7sg5qjCuNnaCATzwTZVDUk6CY3NYGrq6ss5FSaLcWCwN44opz/vf7ubCXCYp0WCjcbhc8M9YJpAaMzPlfu7M5lLYNW+AKqI2VoHF6VG+1Yf5+ng8uKLaOuBUIzu74VhEpWRuGsxAp+/PxWrjqwFbVo+Jtw4LEQHGkHqw4BwEBDApxjwNKsTOuY0lVv7LtwdZOHK2LZZspqSEYgYGxQDjPUg8HTvueVEMxmzpBxRG7mAsTMjmpIRCKSBnB4NnkhTPOhyiddkXa3pOkkpx0oBLBBKQxFWhRqMV/bO+ivlRbiQ2x0YiDWC9DtP/Pgmk/VApRK1GlwmIlepms08fYD4r/sycWf0ivMP8A7Jkf66xFLt0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xs2Wj2uOURTH9/wdihAK+RVj2djavHptzbTIj9BqIVrTQrQIsVYLoZSilJLyR159ztP3ec5z97x5d69fp07Pj/u+93ye7zn33DswkGVFqP2fWxFuXjwQ5mb3hSvTe/4WmFeg6dfO7TWg+fP77f5Cd1eYmdix7nfrPdkK+3qCoQB+aXK3BcZ5f/vywQqIsdnOzjA1tj10hreGkcOb7AokY8zF7xOhinD3+pFKAYEJzgfwaZNKgIwPbTHvnthmoIwzVwJQEdYejIUnd44blIIymYfjunD1UCNtgAIEBFByVJOqSUAfnnbC6r3RsHxryKAILDCvmt7r2actdp+6DUIV4cvqZANqaW6wAvNwXsE4bW2u1G0QCCvC55UzDaj780crMMHpGqdNhQ9A7LxPAnr/+FT4+Py0XVeWThrUwxvHDExwuAeSSkD9ypOg3i5PmEoeKgbzKrW1Ca+YVEuAkZUrDjAcKFZfDBbXUgyAq44yYLCyu1JHrx+NV1DPFoYNDG+D0vKXa6Vlwyg4zr3U8u+llAoeKNKmfqSelA2DKi8WRyoVuPLMexwontuglDZ17GwYlFBAnxYCK12M9YJS2kjT6ODmHKByZQlIgVQjBPMrjDGABC4oVh1tgJVGQZO2RKiy/wDkg/iiVWPUvdIp5QSs9KGWjifZUARRGtRr/H6GA8Y44F4lD6X/Jm+un152DYriFZRvfr4j66DGuNLYCwr4xDNRCUU9CYrJfW3g6so6GymFfmvxMIAnwGBF+PZq2vYyQZEOD4X77YJnxnqBZMDIivB1baqC0rbhC1wBtbESNE6P6i0b5se7GXNBsXXErUBwfsf3ikjJbBjOQqTs+5uzdtWBra1HxduGB/kNQPU5CAhgUIh7HFCKnXEdS9r6lW8PGbVTbqakhmAEBsYD4TxLPRw47XtSDcV86hKhCpuQyUkNgVBEyggGLyevnXE+ROn0KzKj92B1ENKBSgQTUD0eW/0f37uoL9VWBpSsqUJ/k9Vg2g+VQtTqb44/YvGH9PtB/6H9BIE/1r8zGcxwAAAAAElFTkSuQmCC",
     "wiki_name": "Desert devil fur",
     "wiki_url": "https://oldschool.runescape.wiki/w/Desert_devil_fur",
     "equipment": null,

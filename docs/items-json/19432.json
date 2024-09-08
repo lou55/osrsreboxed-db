@@ -1,7 +1,7 @@
 {
     "id": 19432,
     "name": "Super magic potion (3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-09-05",
     "duplicate": true,
     "examine": "3 doses of super magic potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xt2X+0tTcRjG/fZL0A9BBIHZamZbqZVb7eYuanmb0ynLhk5b5m1tLadjrrlFYhepKKKQIgqJqEwI5uUffNr7PTtnZ2ciBGdn0AsP7Idt38+e533Ozqmr+z+GoVw1HYb5UBOCg2fR667Htcsnag3FsLXhxo/3Lq7kXDMmA421hGISzOYbBxLTFzE+fI4DmfR6raGEnRGBvr6yI37XyOOrwT4x+IdHEQiMSe58fGFF9I4Bt7w62GwuOF03tIRimJiYqtCQfxS9fX50dvXBZLJqGV2hXZEoVyQSk+QbDKC7xwer1QmDsVlboKVkSlIisYR4PAHvwAjanV1oaW1DQ4OwSxoB0TD82trG3t4+dnZ2kc/v8rjMZpu01ASjKdDs7H1kMivI5R5zUVwWS3stYGgYFhYWkc1mi8qhp3cQdrtH66jEYcisZMvU7x2WdkjDytMwzMxGkEqlsbycRjr9iEdH16ab3QNlsSk/WaVhiEbjWFxMSk0Lh6cxHgpzKE9Ht/ZAHU/zklxPfsOR+QZb8jMsDz+gZSwNfc+kVrExfvihQKEMGvvCWrjEYElslMGQ3KvbcK58h335CwdqncyhyTcDXWew2i4xuHI/DwcqAF8Jr+LC0DzOe+9V0yXGD1TCdD7fgWftDwd1pDcFoKk1GEbiPDZdx2g1XGK4/uCd5A5ByKUEujr9DMZAoiw2lV0S3FGCiJIWuwBkXfqEtpl1NAdTPDZqm85zW02XGF9UOlAJUgFUaBoBmeZe8urLYzty9JhaUIz/ciUE1/q+oMJrWmwRyBx5zZsmj+203adWdKzSHRHkACC6Fpljb3nT5LE1OPw4ZVbttpZVQigkVp+AqAC02GJs5NDJS6VbWlVcUlZd6RQ1TQSinSOHDP4YzrhHcFzfqiaMOMJdIDlBh5fBFYGo+tRG2h+Kqt7aX4xIdRhhhC8Un7mYBCY1rQBE/2PiFVoOojqMfEoHlOCU0gTkoJEfrJTyvf86fwGunfkJhcqhCgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xt3W60tTcRgHcH+9CXoRRBDYWmk2a1rpajd3U/M2p1OWDZ22TOfW1nJuzLVLJHaRiiIKKaIQicqEYF7+wW97fts57iK+OjsHfOALe7XfZ7/nec5ZQ8PxKIbKKFoMQV8LvCMXMWBrxK3rZ5RGMWyt2/Drk5UnsaDFjKdZSRQTMRvvzYjNXcXU2CWlQMWZEUA/3poQfdDK26fAPDG4xybg8UyKt/PltQHh+xrcdaphNFphsfbKiWKYnp6tyah7AgODbnT3DKKz0yAvKBgK84RCETGuEQ/6+l0wGCzQtGrlBcUTSTGxWBzRaAzO4XF0WXrQ1t4BlUqYJdmK4c/WNvb29rGzs4t8fpe3S6czKjHUVAyBwCOk0xnkcs94qF16fZcSGCqGxcUlZLPZUnLoHxiByWRXDpTOZCsy5BwTZ0hmFMN8IIRkMoXl5RRSqae8dfRsutM3rETbGMLhKJaWEuKm+f1zmPL5Ocru6JMf5HiRF2N9/hfm9CaMiW/QP/mMtskUmvpn5EIxfviRIF8azYN+OUAM+th6BYZiW9mGJfMTpuXvHNQ+k0OLax7qbm+9UQzW3O+jQQXwDf8KrowGcdn5sJ4gxg+sxnS/2oF99R+HmlMbRdDsKjTjUd42tWOiHiiG248/irdDiPJUg27OvUSrJ1bPthVvpxoiRBzsAsgQ/4qO+TVovUneNto2tf2elCjGB5UOrIbUgAqbRqDOhTd89cvbduLkKalQjP/yagTP2n4xhc802AJIF3rHN628bedNLulANbcjQA4B0bNIF/nAN628bSqzG+d0vdKhahBVEVafQLQANNhC2+iGzl6T9C9t5avisJuiTRNANHN0Qxp3BBds4zjd1C4lRij6QsZvgg6vwJVAtPq0jTQ/1KpGw1AJIjmmvIQDmAgTN60AovfYwRO6rpDD6gBXm2NY/wHQdcP+fhcNKQAAAABJRU5ErkJggg==",
     "wiki_name": "Super magic potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_magic_potion#3_dose",
     "equipment": null,

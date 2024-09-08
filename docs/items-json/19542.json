@@ -1,7 +1,7 @@
 {
     "id": 19542,
     "name": "Zenyte amulet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-05-06",
     "duplicate": true,
     "examine": "A fiery glow emanates from this amulet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwUlEQVR4Xs3Wz2vUQBQH8F0PXQ+KJ09iKQg9FA8VRBDvCl5ULLaoKCpVFBFEUUtRqpaiVhZK/YFKC5WllqIVQVQURf+ykW/iN/vNy8s26abSgUd2M5O8z85MXrZW2/itHvzw+te91cP0+PHweOxYFFO3j4bJm0eiIKI1cy4sNM+G+adnHJT9EV3DYxBRADEsZu7J6fBy6mQqMb6jz0YaVQpZD827QxkUjoAwCHo+ORJmJk5EY3H0QBiv6J/L4+H74o21oQjCZ86O3lzH5oFw3Y+lsfB75X74s/IwAuG6wb6+KGx20+Jp568mCElxY/T39+9NBc5h7OyDYRe0OHs+BcJngmx20+qpZQCCmxvfPUwR0PKL0epAnCXFDAzszywbQa8fncqAPry6mIAQpUC4oQUphgAkwjj24ZgH+vjmUhr07lY1IBy5sTmTRUCf5i6vPwjjAMAY7bcgjP2ycDUB/Xp/L8GUBuWhFGT7PNDXt9dckM2e0+I9gmSdQFoatA9LaUHfWtfXCoprEGbIgnBzTawVuhMIS6wgLYo2u2nxzTwQgjfX5Dp7el5np1IQUQgkQMW1KMT2RhZTOUhnCUcFYRxRiDt7esKhnVtc0NKzCwkIVZqYQiA8IR6IrwMF8VWCmNjXEw73ZkEYi9eGzlDB2UFrg+w+4qNMEL7rhm4eaGRAXC68NioDEYXzSEAQ+nVDtw5uDiO7trogVGkFEWWzOy0Gecu2Gmh0cEcY6m1EQRTHf56/koBQg0rUoTRIl01BOOI8MATt3rbp369uzxDgXYOwWVcDIRlfGQi+y3SvcbkqA9llw3kFcUMTxFqF6zgWIDzyCkINKl2HvGVTEB/5PJDun0pA3rIpCH3c0BbE9xiXq0sQWvpvaV4oRsOCUBQVxCgBqtVY1juFBWro/qkEVLRZZBEsoz32PzWL9MJes6HbX49xdUSxTx4qAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoElEQVR4Xu3Vz2sTQRjG8cZD40Hx5EnsReiheFAQQbwreFGx1KJFUaliEUEUtRSlain1B4FSq6i0UAm1FK0IRUVR9C8b+e76xHdnJslushUPDrxMsjOZ+WRm9p2enn+/VFw8Yu0bXiru8cQJ93D8eBLTt465qRtHkxCiPnvOLdXOusUnZyIo/090DU9BQgFS+JiFRyPu+fSpzMR8p82PLKoQsuJqdwYDFDUQhUDzU8NudnIo6UsdA9Hfor+tTrgvy9c7QwnEZ62OHdz2bQbid19Xxt2PtXvu59qDBFQIw6D61wIxKQPT3t+/LxM8o+/c/ZNR0PLc+QyIzzlBlcw2gNDh5nsMkwe0+my0PJBWyWIGBg4E2ybQy5nTAejdi4sNEFEIxIA+yGIEYCL6qY26Gej9q0tZ0Jub5YCodbC1knlAHxYubzyIfgDoY9t9EH0/Ll1pgL6/vZsXQ8mCmqEsyG+LgT69vtopiJKeESZrBbKpwbaxlT7oc/1ap6A0B7FCPojB7cQ2Q7cCscUWVCAppoPFQIQGt5Pb1bPP7eqUChKKYAIyro8itldDTOkgu0rUFkQ/oYjbe3vd4Z1boqCVpxcaILJ0TgwlfUNiIF0HFqSrhJjc3+uO9IUg+nJt2BXqCOSfI73KAvHdHujawWoA0nZxbZQGEornTCAQ7fZA1w9tdsO7tkZBZGkLKoBKQbFtawca3bPDDfZVkxBK/dcXxxogclCBPJQF2W2zIGqegxFo97ZNvyf5s0LAuwZxWNuBmExXBqG7zJ41bVdpIH/beG5BOtACKVfxO/UFxCtvQeSgwnkotm0WpFe+Gcien1JAsW2zINp0oH2Q7jFtV5cgSnow24XF2PBBJEULUhQA5S0hUmHPz18EtSohMoz/pbvyC0VtKrhkILJVAAAAAElFTkSuQmCC",
     "wiki_name": "Zenyte amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zenyte_amulet",
     "equipment": null,

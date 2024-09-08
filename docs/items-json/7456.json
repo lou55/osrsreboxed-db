@@ -1,7 +1,7 @@
 {
     "id": 7456,
     "name": "Steel gloves",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": false,
     "examine": "A pair of gloves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4XtWWW0/VUBBG2U+EFwzxgQgRQSIGMVwMIgYQDCIiBkFEQEQQuYkYYwz67h8fs6Z+7W69xHOgFSeZtLs9dNb+5rJpaPj/LFjxyT+0YNe6uuwcQAkg2EBfnwMNdnZWDZVBXGpt/aFKsPGRkQgoeZb/u1Is2KP7U2lAqaLnTY2Nfr88P293hoaqgAr2dHY2DfxwcjIHIcVev1ixm729kWKlWrDLbW12e3DAA9/o6fHA+5ub9vjBtK+BvtrRUR3Qu60tT9H26qrdGx21qbExh+PK+u7wcKpWJUAnR0f26vmyAy3NzXm61hYX/cr6Vn+/XWhurg7o25cT+7i360AoA9zLZ0sORboo6IstLVUBYcG+Hh/b7saG7ayvp2AAPZmZ8RFQacqUNmqJYhaYgKijK+3tVQAFTwcBPx8e2vs32zkogOg03uso+T2Qhmc2aLP7v7ZgKwsLrsKng32vow9vdxwMKNKmlNH+mlHFr/CMjmSwMkJYT09MpNO++Os/WEiVIUXcAwYUSqESnaZgv05bogRKS0U6Exi6U3OtBrBY6qSWBIZKpI0JrgD5jwdXFXigWaMqaS5+tya12LFcH2ByowpHBjtHHTqNlCgtUpYRgZKMCGBIF++1ZkOssxg1WSI/agCD5Ne7u/3oAEppkzICIk0ERynqDkBBapN1wGB5dQSESjrPqDHVWREIB0ggQNGl2b82NVtwdYpAOO/UjerEYspw4LhKJdVenSnD8gUZe6yOBiiFDBQjRBBynp0SJrG4yNmhHGU0QAESjM6+GEabODVM3jIg0giInDNP6SJNsccgZwiDJUUuIJza0RGDQgCpvTWPMj9zy4AEJSBqSVA6gugohqC8VKgYTArQdXH66C7ASqqf2DKofKCfOzF+XxKMLJniCqincfCKQGIrNQ312bmCKcu+A7wMzHu5qflAAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnElEQVR4XuWV0UsVQRTGnSfpxRAfJCVDJcMMzTAzzDTMzAzTzMzMNDMzMyLCeu8fP/E703d3di26XdvV6MCwO7P37vz2+84509T070Ww4soJRrCL3d12CqAEEGxoYOCkgDKIc+3tPyCC3RodTYDiWvaf0iLY/TtTNYhMlbh+prnZ75fn5+3G8HAVUMEezc7WNr43OZmDkGIvn67Ylf7+KoCIYOc7Ouz61SHf+HJfn2+8u7FhD+5O+xzonq6u6oDebW66RVurq3Z7bMymxscdjivzmyMjSX6VHsEO9/ftxZNlB1qam3O7ni0u+pX5tcFBO9vSUh3Qty+H9vHNjgOhDHDPHy85FHaR0G2trVUBEcG+HhzYzvq6ba+t1cAAejgz4y2gUstkG7lEMgtMQOTRhc7OKoCC28GGn/f27P2rrRwUQFQaz39/lKh56jfpfd0RbGVhwVX49HbX8+jD620HAwrbZBnlrx5VfAtrVCSNlRbCfHpiotDt64pQUwaLuAcMKJRCJSpNm/3ctqgESktFKhMYqlN97ej/fhmp1DGXBIZK2EYH1wb5lwdXFXigmaMqNhff24BaivgCOjeqcGTw5ahDpWGJbJGytAiUpEUAg10815wPahCGiPKjBjBIfqm3148OoGSblBEQNrE5SpF3AAoyr+ofR14dAaGSzjNyTHlWBGIAJBCgqNJj9LHg6hSBGDxTNaoSi5YxgOMqlbLcazjyCZmOVB01UBIZKFqIIDRYOyZMMaJiGiijBgqQYHT2pTDZh/zVyICwERANzjzZhU3pKAFEEZNcQAxyR0cMCgGk8lY/KkkdIgMSlIDIJUHpCKKiaIIapUKlYFKAqkvto7oAK1EhRQaV3+hoJZYMkkbs4hVuWE+cKpj/KL4DUF6L+D6BaNUAAAAASUVORK5CYII=",
     "wiki_name": "Steel gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_gloves",
     "equipment": {

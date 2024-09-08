@@ -1,7 +1,7 @@
 {
     "id": 15295,
     "name": "Baby mole",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-07-17",
     "duplicate": true,
     "examine": "Keep Molin', molin' molin' molin'!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu2WzWsTURTF8xYSUoKhNDSkoUnb0ECMxDQ0psFoKyqhtRikBQVBcCUo9QM/oApZZiO4UChWLFSsbRBX1e5dGVwJ/kNXzw138uZN0nw0CV144TDNm0nvb85597Uu1//qeSlqrIFWvfFJr4eGPCccGiBcDSIw4qUR35BNWNdlh+tLKW48NuqzCXCmBNLjcbP6AKW4UTg4fKgEUIDgENwa9nl7GaPiRlMhv6Xp8KglfG4GBAEmODpMtxYS9KiYoXJ5/ShQygEAxScDLAESqEZAUDI+RfeWZujljRzDpCYmWGa3FmWHEYhEdIzVCVAkFKDtx1dpv7RqAZndWlQdxgQ5EwuxGkE1AwKs7J8u3LHDmCC6TCA0bgSEtS5hUMoGY0LoMl2S2EwgTFqXUaGUDSYdH3eA6OuNgEyXjgyEqZhNxrhpJhFxQOGzrIlLEpuA6QoF/Tz6so/Mji1KUSIWoWwqTrn0KZpLTrIEwpQOZbqln09T4SBPG+C6gipeydHFXIp1OZ9uCSVgvP+i4zQ9GWIICM/gJSGs+0d8nUAp+vn6Dv3+WGIowED5VNQBJXHKFUCIG40BBUcQFb4Lt/OZ03wf6wBtE0rRr401qr65S3/2ylruyhEfQHQh5plElK9oDDcQkfwtK1yYpflsksq356l081y7G11RpbJF1eoP2nq4ZH2p9kXlcAgSULiAhnACPwMKTugb+tOTZf69H9YW6cX6g/ZdEjkPM8UTiKZoLjAChHix73APkojqbig6+P6Fvu3v0fvNV+265HIJiPNhO5AITiES2XMCJUeI/pI7Oxusxi/ccSkLRqZQb6hD4Rlccd/jdrMOd7+rUgyxuHCWpxBXTJQeCbS6eJ7vL1+a401uQvQIBqX4zQECN+CWjLA0ELDrhTy74hyOnpbizQsggCGOlVwtMmeznsfTrGqRVJ4XafN+gZ6tZK1zxXyyx/EcVor/A8S5svv02iBcaKf+nSkHX2l7+22TyAZeinY/vzsu7kgdK5ha9QvmLwvZA+xeYT4aAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xu2W32uSYRTH91yEOCQRRXEyRWWCGeZk5iRriwpxjSQ2KAiCroJi/aAfsAIvvQm6KBgtGhitTaKr1e67anQV9A+d+p5x9PF5dU19XV504Ms7n1c9n/f7fc7jxsb+l+2lqLOOtFqNj7ucNO48ZtERwu1DBLwu8rrH24R1Xe1wQynFjSf87jYBzpRAOp0O1hCgFDcKBz0HSgAFCA7BLY/bZWeMihvFQr6mpsL+pvC6GxAEmKDfQzfmU/SgkqNabXUQKGUBgJLRAEuABKoTEJROxujOwjQ9v1awD0YgUvEJVi9AkVCA6g8v0051uV+gFowJcioRYnWC6gYE2AH2TzuMCaLLBELjTkBY6xMGpdpgTAhdpksSmwmESRsISIfJJictIPp6JyDTpYGBMBUz6QQ3zaUiFii8ljVxSWITMF2hoI9Hv899pCiViFA+k6RC9gTNpqMsgTClQ5lu6edTLBzkaQNcX1CVSwU6X8iwLhazf4USMN5/8UmaioYYAsJ78JAQ1n1edy9Qir6/vEU/31cZCjBQMRO3QEmccgUQ4kZjQMERRIXPwu1i7iTfxzpADwml6MfaCu29uk2/tmta7soSH0B0IebpVJyvaAw3EJH8lpXOzdBcPk21m3NUvX7m8ECNxgbt7X2jjfsLxoeUxSFIQOECGsIJ/A0oOKFv6A+PFvl7362U6dnqvcNDtWSW4glEUzQXGAFCvNh3uAdJRK3vUrT79RN92dmmt+svuvToqdqBRHAKkcieEyg5QvSH3NxcY9kAg1JNGJlCvaEOhffgivtOh4N1sPt9lWKI8vxpnkJcMVF6JNBy+SzfX7wwy5vcZgi9FD85QOAG3Oo8woqulorsinU4bC3FmxdAAEMcSwWJzCzb4+lW+5E0nlZo/W6JnizlezlXhlWK/wPEubL1+Mq/hpH6c6bsfqZ6/fXoAG19fDMqMFIjBTPc+g1oSsHrx51PZgAAAABJRU5ErkJggg==",
     "wiki_name": "Baby mole (Mole)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Baby_mole#Mole",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 12870,
     "name": "Red dragonhide set",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-12-10",
     "duplicate": true,
     "examine": "A set containing a red dragonhide body, chaps and vambraces.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4Xs3XW2sTQRgG4ASvvFHEe9s0JBIjTRo0rTTGhsT0YDAJaWJM0tRWiyUg4gGlFMVDKZ4olHoAwYJQainSKy9EUfSXffLO8qWTySTsJhvpwMtudye7z87OzE4djoNfnKSP7nzPi5NeL+fo5VJWZPVhhlbup0UYsbU+R5/XZmnzTVWDUh+ia7gBYhRAHBXz6VWFPqyWGm6Mv3FOTSPKEtJJa4+mm1DYAsJh0LuVIq0/KYi62OpAqC+jf+0u04/te52hGIR9bh0GfXxRFiCu2wqE3/3cWaI/e0/p795zAcI9gv39IurdlWI0Oz+1/GTdRAZhH8dMYeTXgL/zsRNUnDpD0bMemor6KRUbpEwiQLnkEOUnQuJcKRWmmfQwXcuO0Pz0KC0UIrRYjIotzvtdR8S1bAfFhr2UOOej8cgpLQ4woACplS4IFI7LIMQSiPuFDjQSdFEk5K7jAAMKINRBKzHmdjUutlrQlwfdgfDkgNythC2lZyA8OVqFb3T58CGRRZ9Hu98O9Pvr4zqmI1Ax0SdAeEU6kJxWoID7qBak3r1FMYbpxrMrdRA6aiuQ2jo2g4w5CC2kgjC6buaCIroWkkFcTweSJ0X17koxhrwOhLkFI6o86RfRgWQU1+s5qHrptIgOI6O4nq0gBMfKSZeYWzAR3sgGRGSQ3Fq8z/UYFPIeE9fCLM0YUyCMsHagWn5IRO4vKgzheioILWSydVD2QYySQZiRdZ1at6926p6A8M1CR+U+pCLMvDKeqbGv3l1TDJD82nBsdmJAfCQByox5KBf3UuHiySYEZy49WA+Dwr7j4lqYgyzMQ40gXpoyCB/QeLiPkiMumhwdoNR5dwPw6rgxLfAIk0dZxyCMslYgXBhfe3zTeAnCX3qc46UHpgjUv1UZsw/EKBkEBK+HeC0kY/C9Ywwg8vKDQZiDLM9DutdmR7Ao6wikvjZ0bhzDwn57Y16ck/8rwT5WBgjq8aIedXfeXqdvmzX6vnWnExBK85PpImPkqKDd9wsNII4FkMPB03q7qEA5aEmA0Dq2gMwWFWkGy9mv+5+KitRF/c2BLv8AGpGNTtZFnz8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xu3X7WtSURwH8EmvelPE3jecaJgxNylnzGyiuYckFaeZmmtroyFE9EAxRtHDGD0xGOsBggbBWGPEXvUiiqL+sl98z+Un5557NO9Voxcd+OL13rPr5557ntbX9+8XF+mju97z4qIXK3l6tpwTWbuXpdU7GRFGbG/M0Yf1Wdp6WdOg1IfoGG6AGAUQR8W8f16lt2tl0w/jO66pMaNsIV20fn/GgsInIBwGvV4t0cbDoqiLTx0I9WX0970V+rpz2xmKQTjm1mHQu6cVAeK6zUD4u2+7y/Rz/xH92n8iQLYwuCk/tfxknUQG4dg4/8fiMr0GfC/Ej1Jp+iTFTnlpOhagdHyIsskg5VMjVJgMiWvldJguZ0bpSi5C8zNjtFiM0lIpJj5xPeA+JO7VdVB81EfJ036aiB7X4gADCpB6+axA4bwMQmyBuF/oQJFhN0VDngYOMKAAQh20EmNu1BLiUwv6eLczEJ4ckFvVsK30DIQnR6vwD104eEBkye/VHrcC/fj0oF0MihVUSg4IEF6RDiSnGSjoOewUhGIM083HFxsgdNRmILV1ugwy5iC0kArC6LqWHxbRtZAM4no6kI1J0RjyOhDmFoyoylRARAeSUVyv56Da+RMiOoyM4npdBSE4V0m5xdyCiXAhFxSRQXJr8THXY1DId0TcC7N0mxgUY4S1AtULIyJyf1FhCNdTQWghRyBGySDMyLpOrTtWO3VPQFiz0FG5D6mIdl4Zz9RtogyQ/NpwbnZyUCySAGXHvZRP+Kh47pgFwZnLDDXCoLC/X9wLc5CNecgM4q0pg7CAJsIDlIq4aWpskNJnPCbgpQljWuARJo8yxyCMsmYg3BirPdY03oLwSo9rvPXAFIH616vj3QMxSgYBwfsh3gvJGKx3jAFE3n4wCHOQ7XlI99q6EWzKHIHU14bOjXPY2O9szotr8n8lOMbOAEE93tSj7u6rq/R5q05ftm86AaFYn0wXGSNHBe29WTSBODZA7RYrkoOWBAit8xdBrYoVac3/0ln5DdB+QsL0ejc8AAAAAElFTkSuQmCC",
     "wiki_name": "Red dragonhide set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_dragonhide_set",
     "equipment": null,

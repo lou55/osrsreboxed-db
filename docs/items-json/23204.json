@@ -1,7 +1,7 @@
 {
     "id": 23204,
     "name": "Bandos d'hide shield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "Bandos blessed wooden shield covered in dragon leather.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADm0lEQVR4Xs3W20tUURQH4BmiB6UXSZKUTJMMM6x8KkhKVCwNHXOYJsf7fRILuyheMiuxTDHMLpQoCKIiZgQ9RFLUS//Wyt86rHGf5dFmmlO4YXFm9tnD/mbttfc5Hs/eb15yDqf7/7x5aWKwmsb7qzjG+nw0eq+SQxCL0020MNVA85P1Dij9J+KGWyBBASShMXPPa+ntWI1tYnzHPR12VExIL0098G9D4QqIhIBejwZpeiTAY3F1AmG8if62Okhfl+7+HUpA+CzZEdD7ZyEGydidQPjdxko//Vh/RD/XnzAIc5zJyODQs6tmpV3+tYAwqRPI/OcSGrQ002wD4bOA9OyqeW3LAIQUN75rEMYfSU2lwykpdCg5mQ4mJXFo1OqbNvdAkiX0mSCMPZ6ZScM9ddtCoz68a4+AEDGBpC40CMsoIMEsvOyjS2f3UXPwMkdrQxnVBUvoWHq6DfVxtsMOWu6NH4R+gAQzM9pFjYFSaq0p46jzl1BjqJRCgSLq6wrS0bS0COrTXNhdEAJLifsnsrI2i7yZOprKqavdxyhE6FoRBSouclSWnqf74QDXl6AE9H1tOIKJGWSiBPN0oMVans2s4IrMhOsrODNBXyEHPhcX5FN39X4ueEFpkJ59h2Zt3ZnH1yMgfD+Znc2g8aE2CrdW2EAbI4lUdeUC1xCuAKGW/OUFDNopQ3pmh2adQciQEwgYyU5HbXmkmNd7E+nX2AGuoavF53jJ/L4CriMcBybIPBT17KpZW343EDKDugFGAhl60ZRgLZe/kDEIZMh1EAL9p3NzaXK4nZYfJjDqVmcVF7JsdakfEzN0O8RFjd9/WeyJHyQo9J/KyeFtPjXSyTAsmews1AkCuwv1AxAwOCClfgSEU1owUYGww5xAyBBQWDbsMtn2yIQUsewuwWC5NAgZijI7aFsgXUe4l5+XxzDZbTgcB7pvcEZQOwAhSxqDx4ZrIEGZT3XAJFsCm524wzjBSO3gZMcpbYIEpWd3aBbIadnQh2cYXiMEZi6jwPAMAwj3Zfzn+ZsREM6gGM4hO8hcNhOEK/oFpkHok5eyuEHYZX8CYTL0yTNOYBK4j7GugvSyod8EydskAgenPPfwOxkL0MqrFhsIZ1DM55DTspkgfN4NJBnCWFdATstmgnDPfC0xQRhn1k+cILTtL+xOYWLM0CC8S5sgiRhAHo8c67uFBpph1o8roGibRkaDldga+5+aRjqF/s2ebr8BZIU+3nw9gH8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADdUlEQVR4Xu3W30sUURQHcJfoQelFkiQlwyTDDCOfCpISFUtD11y2zfX3700s7Ifij8xKLFMMsx+UKAiiImkEPURS1Ev/1snvWb7LndnRdtwteujCYWbv3Nn97Lnn3pmkpH+/ecQ5nK7/8eaRqeFamRys0ZgY8Mr43WoNIpZnW2RppkkWpxsdUPY/ETc8DCIKIIYds/CsXt5M1Fl+GJ9xzR5WlCukR2bu+6JQOALCIOjVeEBmx/w6FkcnEMab6K/rw/Jl5c7eUAThnNkh6N3ToII4dicQ7ttaG5Tvmw/lx+ZjBbnC4Ev5rwnCjzqBzH/OsINW5lotIJzHCPJYpgEIFjc+20EYfyQjQw6np8uhtDQ5mJqqYUetv+5IHIhZQp8Jwtjj2dky2tcQFXbUxtvOCAjhCsS6sIMwjQQRs/RiQC6e2SetgUsa7U0V0hAok2NZWRbUh/kuK2i1P34Q+gEiZm68R5r95dJeV6HR4CuT5mC5BP0lMtATkKOZmRHUx4VQYkEITCWun8jJ2S7yVulqqZSeTq+iEMGrJeKvuqBRXX5O7oX8Wl9EEfTt/WisGDQryEQR82SoLTw921nBEZkJNVZpZgLeYg2clxYVSm/tfi14ovYAQgsv3blH1yIgfD6Zm6ugyZEOCbVXWUBbYylSc/m81hCOAKGWfJVFCoorQyheZMgJBAyz01VfGSnmzf4U+TlxQGvoSulZnTKft0jrCNuBCXKxKYaX/G4gZAZ1AwwDGXrekhyeLl+xYhDIUMJBCPSfzs+X6dFOWX2QrKib3TVayFzqrB8TM3IrqEWN+z8v98UPIgr9p/LydJnPjHUrDFPGlYU6QWB1oX4AAgYbJOuHIOzSMWLQwivMCYQMAYVpwyrjskcmWMRcXcRguuwgZGhPIHsd4VphQYHCuNqwOQ71XteMoHYAQpbsGDw2EgYiynyqA8ZsETY/dVtxxLB2sLNjlzZBLlBhkNO0oQ/PMLxGEGZOI2F4hgGE6xz/afFGBIQ9yMU+ZAWZ02aCcEQ/YXYQ+vhSFjcIq+x3IPwY+viMI4yB6xibUJB92tBvgvg2icDGyece7uNYgNZetllA2INc70NO02aCcL4biBnC2ISAnKbNBOGa+VpigjDOrJ84QWjWetgpTIwZdhDepU0QwwUo1haNZJj18xdBu7VoZHT8b/G1XxqB9EPSbuaJAAAAAElFTkSuQmCC",
     "wiki_name": "Bandos d'hide shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_d'hide_shield",
     "equipment": null,

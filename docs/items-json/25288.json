@@ -1,7 +1,7 @@
 {
     "id": 25288,
     "name": "Stale bread",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-12-09",
     "duplicate": false,
     "examine": "Why would anyone keep this? <!-- Post-\"removal\" examine: Probably would have tasted good five months ago. -->",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xu2X20tUURTGPQ89KFJEgVAEhhRokSmVRpJJlqVShpl2MzNMtLKyi5jYxcTKyjDNMFFQREXMbmqiJXa1LCMiiv6alb817PE0+eQcxwddsJE5c2b273zft9Ye/fzmavaWJZOvGSlLnjTkSmPlIblVvEcu5G6TrLRoSY5fMxNQlgy2X5S2mmwFqilLl7LCZDmVtUUOpGyQ+JhQX0KNw3QUqzp2IFS6dGKH5OyPkdSdERKzPsQXFlryurNE+lvPyrPGPOmoPSZNdzLlQXmG3C5JVZUKc+LVusS4VRK5epksCVowXVAuZbCKNdB2Th7XH/8PqCgvQfIzYyVj1zqJ27hSghYHKtDa4GCnoFyyv2wpUABAzEKpvuaTah1QFUUpatvp7K2Snb5JUraHy6KFAU4BuUCwqKcpXzdCATIDGBkC0ixeo1ZV6V65ciZJA344NUrmB/o7AeQCMau56ogqQHBLCxI1J1wDDBiAzSJXDysO6L0JsWES4D/PWyDLbQNfzqZYgwKt1Ufl0c2DqgJqMXvIiwHDRj5L4LkeHrZUg+0FkEsZQLCIp6Slgeisy9GNjQqm3U1usIjcADbUdVnzExoS5IaZApClXwSQPajl53erRcBVX92nMLyPYgAaO+ky2p3cABodsdw7GBbtzGZsxF9e28NKfrACVQC2W8R7Bohp7RXM6GCdu5PIBarw1GzKddNRJrAAcR8WkSuUpdUBYv5sjlox1dxY8vNTl4z031c12BBbGG5syFOjDLaghJk7KIKFANhXWlKkDkOv1AHo80CtvHt+w30s2MHID0+PKoQbtbjPEwgYc6hOEYay5Ndot3x5VS8feu+q9OTCfk7ZwegkMmS6j7ywgGHmeAlDWfL761MZG26Ukb578qb7ugKRG9p8snMKtYAiP8BwsjsEQ40Djb2Q729b3LZxgBoge0sDBAgQBJc54zAMZcmfb73y42O72va+p1Jto6MMEF1FsOlA87OCrADkMIwpS4HGhhr+sY3wGiAyg1VkhYE38TPVcRjKUmVMsIe7r7mDzRyis8zQQxkDY0AchjHlOjYAI0PAMPDoJIYk2cGiaVRlsrJ0BpEdzxPd8yjwAYwpz/+vJpaPQSbKroLn8rx3rmZt/QUfNdI/pEdm9AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xu2W20sVURTGnYceFCmiQCh6CCnQIlEqjSSTLEulDDPN0sww0crKLmJiFxMrK8M0w0RBERUxu6mJltjVsoyIKPprVv7WYZ8mO0/OqEEu2MiZM579m+/71trj5zdX/29Z4nvNSlnysDFPmqoOyPWS3XI2b6tkp0ZJUtya2YCyZKjjnLTX5ihQbXmalBclyfHszZKRvF7iokNmEmoCprNE1bEDodL5o9sld1+0pOwIl+h1wTNhoSUvukploO2UPG7Kl866w9J8M0vuVqTLjdIUVakoN06tS4hdJRGrl8mSoAXTBeVRBqtYg+2n5UHDkb+AivPjpSArRtJ3rpXYDSslaHGg20Ae2Z+1FioAIGahVH/LMbUOqMriZLXtRM4WyUnbKMnbwmTRwgC3gDwgWNTbXKAboQCZAYwMAWkWn1GrumyPXDyZqAHPTImU+YH+bgB5QMxqqT6oChDcssIEzQnXAAMGYLPI1b3KDL03PiZUAvznOQWyvDbw42yKNSjQVnNI7l/bryqgFrOHvBgwbOR/CTzXw0KXarAdAHmUAQSLeEpaGoiu+lzd2Khg2t3kBovIDWDD3Rc0PyHBQc5g+CGA7EGtOLNLLQKu5tJeheF7FAPQ2EmX0e7kBtCo8OXOYFi0M5uxEX/5bA8r+cEKVAHYbhHfGSCmtSOYsaF6byeRC1ThqdmU66ajTGAB4j4sIlcoS6sDxPzZFLliqkCWfHvfLaMDd1QNNsQWhhsb8tQogy0oYeYOimAhAPaVmhihw3CKMJQH6MNgnbx+ctV7LNjByA9PjyqEG7W4bzIQMC4cqpZ8H+uRj88b5G3fLZWeXNjPKTsYnUSGTPeRFxYwzByHMJQlPz49kvGRJhntvy0ve64oELmhzX2dU6gFFPkBhpPdJRhqAmj8qXx51eq1jQPUANlbGiBAgCC4zBmXYShLfn7uk6/vOtS2N71VahsdZYDoKoJNB5rXCrICkMswpiwFGh9u/MM2wmuAyAxWkRUG3u/XVNdhKEuVMcEe6bnsDTZziM4yQw9lZuid2XNsAEaGgGHg0UkMSbKDRdOoiq+ydAaRncknusOjwEkZBXytuZqrf7d+Ac04lJrd4knqAAAAAElFTkSuQmCC",
     "wiki_name": "Stale bread",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stale_bread",
     "equipment": null,

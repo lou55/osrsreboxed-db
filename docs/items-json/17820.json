@@ -1,7 +1,7 @@
 {
     "id": 17820,
     "name": "Shrinking recipe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-04",
     "duplicate": true,
     "examine": "A recipe for a shrinking potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA3klEQVR4Xu3SMQ7DIBAEQKey8gs/Ia/JM9PmeYm2ICZ7B8biFjestAVGwqPTLcuMPLeP7fDsP3+/nqaDUHUEVzStcwivQag64r6uv/IdF+88tq0H5UNyxKUgBuQI/u4BpSA+ewBuAAjxUfyzlkpAPQ0CIf6UamWMFFSC8T1XBjqDEIEQf0po66SkIEaUQPk5GITsqBKAEXmlIG4Jx8Ub/GpnyqiWyqfk7Q+fEyRhgkGInZKH4KmIMIhdbkZ4GH4lOHZK3IEYpA4ajEH+QWlpxct7FAsQL+9xLgfMzFTyBQMXX0pLFEFZAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAyElEQVR4Xu3SsQ7CMAwE0Haq+MF+JiufB/JQEs6XkAqfK6ScdEOSIU+Wl2VGnvXpm57y+eO+uyah+gisaFrnEKxBqD7itm3v4hs2AMQhNeJSEAJqBN4zoBSEZwbABoAsHIWfjVQC+qVBIAufUq+IkYJaMHzHykBnECKQhU/JOjopKQgRLVB9DgZZCqoFQERdKQjbwmFTUSOVg9j+4LlAwjFH/JQYQjgVjF9uRCRijvgpYRMxlj4oGWP5BJWllS7vt1wOmJn5r7wA5GgujImHzRIAAAAASUVORK5CYII=",
     "wiki_name": "Shrinking recipe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shrinking_recipe",
     "equipment": null,

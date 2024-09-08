@@ -1,7 +1,7 @@
 {
     "id": 24590,
     "name": "Blighted manta ray",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-04-23",
     "duplicate": true,
     "examine": "A rare catch, now blighted so it can be eaten only in the Wilderness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xs3W22sTURDH8YRSQoOkFIMlitIiKuKD4oPgX6GiqKhYVPTBB0EUpRTFSyneKJR6QcGCUmoptk+Coij6lx357vLbzk5PSna7Sg8Mu9lL5pOZsydbq23+UQ/xiJ3/56Menk+cDE/HTyQxdfd4mLx9LAkh5mcuhQ/TY2HuxcUIyv+IDcNTkFCAFB7z/tmF8GbqXC4xnznnI48qhKyH6Xun1qDYAlEI9GrybJh5cDq5lm0MxPUW/XNpInxfuFUOJRD7qo5A756cT0C6thuI+34sjoffKw/Dn5XHCYgch0ZGkvDZ3UjLrl8tEEljoNlHZzIQ+6qCBS3MXs6B2BfIZ3ejnmsDiTS5+exBwEGAEWSw1QrNRn8OtfT6anUgVYljFmTnBCGErxD7y2+vZSCiEEjzQiCfWDHYbIR2ayB0hprJ1oIsRsdzoE93yoH4vG/H1rCnMxRGh1thZ3tLBmBfx/gMkOS2XWwHGo3qQKrQkb2dcHj3cAYjgFqkBdlqedCvz/czTGGQb9uBXe0Eoi1AWzULsrCvH29EQT57l5Em5+mxE5tjVIk4OLotQ9m2eYxA3+ZvlgWlaxAVioGO7t+etQ+UQLGWdQPZRdFndyN95GMgQpNUKEC0TO2yID/BKwMJRWjFVeuojp8/QBQC9ff1JfdsGGSrxNaCmD9qlarjw1ZKIFZpYXoC8YTFQPrDtCBhBPL7dl7ZCvVYHcYqyM8jjmsO0S6SqQJKTvu0WGqyVw4SiuP6/yKpnbDdAlQMJJTPHhkpKNY2jnGeX20xeonjKbStVTVVSYFYgwqsQ3mQbZtA3TAxEG8Guqc0iKcsBrJfTOgdyIM012gvID0EWodKg3zbOM55EpCQ5L5dAnGtQIsvr4Qvc9czEGtQ4XUo1jYlAcT+eiBViGsrAcXaZkGc0/+bB3Gd5k8FIMbaxzcWfv4oPIh3aQtSFADValrW1wsPtGHnTyWgXodH9oJVrF77n4ZHxsLfs6nHXy21yM+F2LVrAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xu3WXWsTURDG8YZSQoOkFIMlikIRFfFC8ELwU6goKiqKil54IYiilKKoLcU3CqW+oGBBKbUU7ZWgKIp+spH/Ls8ye/akZDereOGBYV+T88vM7MkODf37o2HxiF3/46NhT6aP2aOpo0nM3T5iszcPJyHE8sIFezt/3paenougwh8xMDwFCQVIEWLePD5rL+dO5ybmmGth5FGlkA2bv3O8gGILRCHQ89lTtnDvRHIv2xiI+z36+9q0fV25UQ0lEPvKjkCvH55JQLq3F4jPfVudsp/r9+3X+kwCKoXhS/WrBWLSGGjxwckMxL6y4EErixdzIPb7BDVyZWAiNTfHIQg4CDCCjLXb1mqO5FBrLy7XB1KWOOdBvicIIcIMsf/x1ZUMRJQCqS8ECidWjLWa1mmPWne8lWw9yGN0Pgd6f6saiOM92zbbru64TU60bXtnUwZgX+c4BsjkvlxsR5vN+kDK0MHdXTuwcyKDEUA90oN8tkLQjw93+8Uw8qCwbPt2dBKItgB91jzIwz6/u1YVxEgn5+nxjc05skTsn9ySoXzZQoxAX5avVwWlaxAZioEO7d2alQ+UQLGS9QKVWBTTRz4GItSkQgGiZCqXB4UNXhtIKEIrrkpHdsL+AaIQaGR4OPnMwCCfJbYeRP+oVMpOGD5TArFK94lhpE9YDKQ/TA8SRqBw3/eVz1AlUNhHnFcPUS4mUwY0OeXTYqlmrx0kFOf1/8WkvmF7BagYqAQqBcXKxjmu86s9Ri9xPIW+tMqmMikQa1CJdSgP8mUTqBcmBuLNQJ+pDOIpi4H8FxN6BwpB6jXKC0gPgdahyqCwbJznOhMwIZOH5RKIewVafXbJPi1dzUCsQaXXoVjZNAkg9jcCKUPcWwsoVjYP4pr+30IQ96l/agAxio9vLML+UYQg3qU9SFEC1O8oIhW+f/4iaKNRRBbj/xhs/Abjon5DD5+HsQAAAABJRU5ErkJggg==",
     "wiki_name": "Blighted manta ray",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blighted_manta_ray",
     "equipment": null,

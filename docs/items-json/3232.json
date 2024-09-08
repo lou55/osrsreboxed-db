@@ -1,7 +1,7 @@
 {
     "id": 3232,
     "name": "Symbol",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "An alchemy symbol{{^|No period}}",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACk0lEQVR4Xs3Wi2rUQBTG8d036SP4JiqKKypeUVFEEEUpRfFSijcKpV5QaaFS2lK0IoiKouiTjfwTvuyX4+w22Y3SgUOyk0nPLzOTk/Z6e7/1Uz5y1/9566cnc4fSo9mDRSzcOpDmb+wvQoj1pTNpbfFUWn16MoOKDzE1vAQJBUgRMSuPT6SXC8dqifnNtRh1VCtkPy3ePvwXiiMQhUDP54+mpbtHirEccyDGO/rH9lz6tnF9MpRAnGt2BHr98HgB0thRIO77vjWbfu3cS793HhQgcuybmSkiZg+tnHY9tUAkzYEcv3x/kAVtLJ+tgTgXKGYPrV9bBhJpc/M7ghh/ejAojuNA2y/OdwfSLNHnIGEU/AbErEXQ+1cXKhDRCqR9EUE8uUCOiec50Ic3F+ugzZvTg+gHFAGMiX0R9HHlUrcggqV0kJZIY7zfMczo57UrFejnuzsVpjXIUfzxOBOABPaZchSgL2+vZkEx+4hWFi+SOShivDREkKMAfV2/NimoTMQMOSgmIolXaIHoi2NZZgd5UYzZQytf+QjKJRBIWAfxN+I9nYEcRVBxAbEUXFNijgJp7+iezmbIZ4kjSQRi3G4g7Z+tZ+cqEFVamEYg3rAcSJ8DgfT0DlI4iLF8NnyGGs4ObQiK+0jVF5AQo0IoZgcQn43OQELRT4JJQFRpBwkVs2daCcotm4OaLpnGf1q9XIGoQS3qUB3ky+YgvfLxc+F7TftnahBvz24gkumTEUHaa1quzkBx2eh3kFdoYQTSWEC88g6iBrWuQ7llcxDn8ZPhIN8/nYByy+Ygrvm/JQ5inO+fKUG04dsyLhzjEUEURQcpWoB6PZX1cRGBHr5/OgE1bRHZBKsYjv1PLSJzEe/Z0+0PFkCKaH+4NuUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcUlEQVR4Xu3We2vUQBTG4e4nVFHcouIVK4oIoiilKF5K8Uah1AsqLVRKLUUrgrSiKPrJRn4J7/rm7HSbm+IfDhySnUwyT+ZyslNT/34ZpHzkrv/xMkiP5w6nh7OHili4eTDNXz9QhBDrS2fS2uKptPrkZAYVX6IzvAQJBUgRMSuPTqQXC8cqHfObazGqqEbIQVq8dWQMxRGIQqBn89Np6c7Roi3HHIj2jv62NZe+bFxrhxKIc42OQK8eHC9AarsXiPu+bs6mH9t308/t+wWoEYaH6q0FotMcyPHL94ZZ0Mby2QqI85qgQWUa6EiLm98RRPvTw2FxnATaen6+P5BGiToHCaPgNyBGLYLev5wZgYhGIK2LCOLNBXJMPM+BPry+UAW9vdEdRD2gCKBNrIugjysX+wURTKWDNEVq4/WOYUR31i6PQN/f3a6LoVRBjuLhcSQACewj5ShAu2+utAVRyuRFZw6KGE8NEeQoQJ/Xr7YFlR0xQg6KHdGJZ2iBqIttmWYHNUiK5ZaPoFwHAgnrIJ4R7+kN5CiCjAuIqeCaOuYokNaO7ulthHyUONKJQLTbD6T1s/n03AhElq6JoZQ7LAfS50Agvb2DFA6iLZ8NH6FWoLiOlH0BCbFXCMXoAOKz0RtIKOrpoA2ILO2gBqgSlJs2B9WdMrX/tHppBCIHNchDVZBPm4O05ePnwtea1k9nELtnPxCd6ZMRQVprmq7eQHHaqHeQZ2hhBFJbQGx5B5GDGueh3LQ5iPP4yXCQr59eQLlpcxDX/G+Jg2jn66cjiPJ7t0wKx3hEEEnRQYoGoLplHKnw9fMXQZPKOHI8/pdu5RfMLT/cvDp1hQAAAABJRU5ErkJggg==",
     "wiki_name": "Symbol (big book of bangs) (Quicklime)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Symbol_(big_book_of_bangs)#Quicklime",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11687,
     "name": "Water rune",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-03-13",
     "duplicate": false,
     "examine": "One of the 4 basic elemental Runes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xu3V8S9WcRTHcffHtv4Iv1pNaSZNokmSJpIkiSRJIkkmkSQmSZFUxkxSM6v1g7/vtPf37jw7vnue6+Kpra2znR+fe1/7nHPPk5Hxv9Jegezcf6XCly1OT8vy7DtZnX8vawsf5NvionxfWpKN5WX58WVVfq2v/2lY+PC58XFZmJyUz1NTsjQzIytzcwnU+qePDmZRWxsb6YaFD5sYHJQ3z0dk9uWYzE9MOBQpgSIpYLSm5aO2NjfTgQrk6YNuGX3clwC9fTHqUlIUSdGKi0LxvKOZmXtFBdLX0bEN9PrZcCIlGpjFKZDEolD+m2JUIN23W7eBxgcG5NXQkEMpjLRoCwRHkxa75aP2kFIgLfX1cv9WyzbQWH+/Q9GkBU6BBw7OJoAWR1qMkGX3Uf5bIyoE3bvZLL3t7TL8sMf1yKNe14pTIDhAqdJjjKTFCDdXVhxqFykFUltZKc11dQlQf2enPOnqck1aFgiOBpQqPXCkxdIzQm6Vovy3J6lAaioq5MaVWrnb1CQ9d9ocimZ84BQIjgZDp0pPgYxRR8he/fy6FgcVSHV5uVy/XCNtjY1uj2gWHJwCwSlQQXSy9OzugSIpHV+M0QVysaxMrl2qltaGBociKcZHJ8NZUKqxKorxsVOkxOhigc6fKZGrVVVusRVlYTY1i9G2I7UoQOwU+8SS8+XFAp0tKkosNigLA2VhPiYKpQnx5bFLLHgs0Kn8/MQesdxRMB8ShVKQ/hdyzWOBTuTmyoXSUrdHirIwUArzEbZ16RXFHunhBMRyxwIdy86Wc6eL3R6BsjCblg/w254KBdm/F8YWA0QFUlxQ4PaIVpiflg9I1ooiJUAstaakmFggTYkj6aMU5r/cbz0PmhIgPZLsUsx0tMJd4iZZlIX5ANv2ZunfD1+a3qNdpKMVyJFDh9zo+OIU5aflQ2h7s2xK+rVxk3aZjlYgx3Ny3OhAWZiifAxtTwMp2bGxS3tIRyuQw1lZ7i5xBhhfMlSyrxCUPaA2qT2moxWiSIrx8bcSNUJFWZimxbP2kY6t8EHslA/zOxXQQvaJCSt8SAjjJJzMy3MwuqSw0P3/gWS0NsE0ppK8LCxOpzWVqLIv2qn93/6z9RvL7I297zN06AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xu3V/y/VcRTHcZ8f2/pHTNM0kybRJEkTSZJEkiRfkmQSSWKSFEllzCQ1s1o/+PtOe74/O7fjvXtvn+te/eRs59fP57HXOZ/zyco6rIxXIP/u/1Lhy1bm5mRt4b1sLH2QzeWP8n1lRX6srsr22pr8/Lohv7e2DhoWPnxxakqWZ2bky+ysrM7Py/riYgy19fmTg1nU7vZ2pmHhw6ZHRuTti3FZeDUpS9PTDkVKoEgKGK1p+ajdnZ1MoAJ59rBPJp4MxkDvXk64lBRFUrTikqHSBAUy2NW1B/Tm+VgsJRqYxSmQxDKMCqTvbvse0NTwsLweHXUohZEWbYHgaNJit3zUPkCBtDU2Ss+dtj2gyaEhh6JJC5wCjxxdiAEtjrQYIcueBioEPbjdKgOdnTL2qN/1+OMB14pTIDhAidJjjKTFCHfW1x0qBVAg9dXV0trQEAMNdXfL095e16RlgeBoQInSA0daLD0j5FalgAqkrqpKbl2rl/stLdJ/r8OhaMYHToHgaDB0ovQUyBh1hOzVr2+bUVCB1FZWys2rddLR3Oz2iGbBwSkQnAIVRMdLz+4eKJLS8UUCXa6okBtXaqW9qcmhSIrx0fFwFpRorIpifOwUKTG6SKCL58rkek2NW2xFWZhNzWK07UgtChA7xT6x5Hx5kUDnS0piiw3KwkBZmI9JhtKE+PLYJRY8EuhMYWFsj1juZDAfkgylIP0Xcs0jgU7l58ul8nK3R4qyMFAK8xG2dekVxR7p4QTEckcCncjNlQtnS90egbIwm5YP8NueCgXZ3wtjiwCiAiktKnJ7RCvMT8sHxGtFkRIgllpTioih/qbEkfRRCvNf7reeB00JkB5JdikFEBXuEjfJoizMB9i2N0t/P3xpeo9SxFCBHM/JcaPji1OUn5YPoe3Nsinp18ZN2geICuRkXp4bHSgLU5SPoe1pICU7NnZpnxgqkGPZ2e4ucQYYXzxUvK8QlD2gNqk0QFSIIinGx28l2QgVZWGaVghJC6MVPoid8mF+JwJmCOJXCOMknC4ocDC6rLjY/f9AMlqbYAZTSVb6kih9WAdXfwAgsFGHgCOuCgAAAABJRU5ErkJggg==",
     "wiki_name": "Water rune (Barbarian Assault)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Water_rune_(Barbarian_Assault)",
     "equipment": null,

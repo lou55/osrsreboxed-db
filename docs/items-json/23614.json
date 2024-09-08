@@ -1,7 +1,7 @@
 {
     "id": 23614,
     "name": "Staff of the dead",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-11",
     "duplicate": true,
     "examine": "A ghastly weapon with evil origins.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xs3XXUsUYRQH8N2PEF1151UXXUREdNNFdBEVXWQYJVlmipb2YpYZKr2YsqbJkmwlFWsYsomUEURFYtQnO/Gf4f/smdMzszO7U/jAYWZnznR+87yNFQrbvxXFH777/7wV5elkh8yNnw6idK9dZkZPBUHE6uJlWSlfkuWFbg/KvkTL8BBEFEAMi6nOX5Cl0vlIYfzGPRtRVCZkUcr3z/yFwhEQBkEvZjpl8dHZIBdHHwj5Gr21Pik/aneaQxGEc/YOQa+fdAUg5saB8Nzm2rj82piS3xvTAQg19rW1BWGrmxZ2O9+aIBT1gSqPzzkQzn2gWqU3AsI5Qba6acXIMKAQJzd+WxCHgMMbB1p/2Z8fiL2EaxqE3Pbe41KqTTgUQOg1C/r4asCBEJlAnBcWhDe3oP2H98rgdI/rqTjQpzdXoqD3Y62DcB0gopC7c9cOOdZ5RKbe3pWH1XDV+ECfq4P5ghAYSg1CHvInloYTewi5X1euO9DPDw8cJjNIo/CPWxAAeAb3kRcH+vbuphdkq8e0+tsmgbg1WBB60oK+r440Cwr3IPRQIxBykD881x8ckYdrFoR8DdKboq1uWrjkfSBEMyDk5QoiCoEC2HFRAOecPzdm+yIgO1y5gXQv4ahByEsLWnve50DYpYlJBcIK8YH4OdAgTugkEHLx2dA9lLJ30OogO4+4lAnC70YgDhc+G7mBiMJ1FCAI9wHAM5zUuic1CLu0BhFlq3taCPINmw+E/D0HdsvIwkAsCPlfloccCHtQhn0oCtLDpkF6yR86cVBul696QYC3DMJkbQRCMa6wkxePyuizIQfiXONw5Qayw4brGsQJ3XWrQ8Yq1yIg5gKEJa9B2IMy70O+YdMgLnl8TvAMMbaHkJsLyDdsGoR7+s8SnBPEzwaHq0UQWv2/KkmhMTosCJuiBjEygAoFbutJYYE69PzJBZS2WWQaLKOe+5+aRfrCPrOt2x8llr7qS7cX+QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xu3WS2vUUBTA8c5HEFd+ARcuXIi4cSEuRMWFlYoW67Ol1dZHba2Vtvjog9FqGSyjFpWpVMpYilYEsaIo+smO/BNOPLlzM5NkorjwwiGZ5MzcX+6592Y6Ov79VhJ/+O7/8VaSR1NdMj9xLIjyrU6ZGzsahCJWFy/ISuWcLC+c9aDch2gbHoIUBUjDxdQenpal8qlYx3zmnhtxVCZkSSq3jzegOALRUNDTuW5ZvHciyOXoA5Fv0d/Wp+RL/UY+lII419FR0IsHPQFIc5NAfO/r2oT82JiWnxuzASgThh/Vp1YQnfpA1ZmTEYhzH6he7Y2BOE8JKsXKQEc6ufnsgrQEWt4k0Pqz/uJAOkpcsyByO3sPSbk+GaEAMWou6N3zgQhEZALpvHBBPLkL2rVvpwzOno9GKgn0/uXFOOjNePsgrgNSFLlbt22Rg937ZfrVTblbC1eND/ShNlgsiKCUFkQe+ZNLw01HiNxPK1ci0Pe3d9JiaHGQRfHjLggA3+E+eUmgzdfX8oJov5+2GUi3BhfESLqgz6sjeUHhHsQItQKRQ/7wfH9wJI9rLoh8C8qwKYZL3gci8oDIKxSkKIIO2HHpgHOdP1fv98VAbrkKA9lR4mhB5KUFrT3pi0Ds0ikxtHCF+UD6OrAgndDNQOTy2rAjlAvkziNdygricyuQlovXRmEgRXGdDhTEfQB8Rye1HUkLYpe2oAyoEOQrmw9E/o7d22VkYSARRP7H5aEIxB6UYR+Kg2zZLMgu+b2H98ho5ZIXBLxtEJO1FYjOdIUdOXNAxh4PRSCda1quwkBu2bhuQTqhe653yXj1cgykuYBY8hbEHpR5H/KVzYJ0yfM6CX84xLgjRG4hIF/ZLIh79m8J5wrS14aWq00QLXziVmExNlwQm6IFaWQApW2NSA07f/4iqFlrRDbG/9Ze+wXbg3Re+sa3fwAAAABJRU5ErkJggg==",
     "wiki_name": "Staff of the dead (Last Man Standing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Staff_of_the_dead_(Last_Man_Standing)",
     "equipment": null,

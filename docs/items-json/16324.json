@@ -1,7 +1,7 @@
 {
     "id": 16324,
     "name": "Emerald ring",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "A valuable ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACR0lEQVR4Xu2UQYSUYRzG95XxeT+fr0unLk3UuU5dVpno0OqQlklrtCxFKw3DEGtjD6OkWFYrG8MeUrGsOpSylMTawyoNHaJDOkREh4g5Pc3z/8+33zvT1qXedw7Nw9/nm3n5fp7/8z4jI0MNFVwGOgOXguw7XMT+I3u7UAMDMyhMW5mo1nlORFszACgHphEL0BZUWYEOFoshoRRIYBwgmVmdwC6ZHKY7djGREaC6AgV0KQeySx2Qpk5pdBTHj5ZwamzMCXgQp4w6Qpgu0OTpMs5VKliYsVi+arF4xWLuYoSp8UIouPwjM9UqVuZjPL0TY/1egtbDRJ5rzRirC7FA1qciTJzI4DxJM2Jw97rF/ZtWADZXEnx+meLT8xQf11J8eJbg/ZNEzlyqKJDHbCkMV0R3Nh4kAtF+uxM/Xqf4vpniyyuF4v9cYW3SW08pzNKcRaMayYroBCHa7w6g3drTmV3yTrcIy1zxrCeXjGRj9kKE6TMFyU1vePPhCt+sJrJWQl2reXHJoNnQm+Rmo3/4O9fIbDFjhDlf9pIlI7mgS8zF2ZN/ukEGL5YVhg6VDu3wA8RcEOpGPe+bXz+Sr47h51nXzd6zfyUjt4erYNdwdePH+kvQSMbmL+tNZIaYt+3B/4k0sAw0ncoyxYywCLki3sKsNHkrPbnjyuDbRipgmWOPbmlDMzd85xCITnl0x5XR3ukUYlaGblMza49vxyHccaWZabd2Cxhd+7qeSlmyNOlaIHdyZb3zuwnoTq+yD283/WeHGuq/1E/GN/f1y0JN0QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLElEQVR4Xu2UMUgbYRzF/Sjh+I7jXJxc2kI7u7lIJQUHpUOpEKkEA4JCRRoIBARRcAgtpYIgFVEIOJS2IIQ6KIqglII4iNKAg+AgHQpCwUEQMj3z/l/OXEQyWO6uwz14HMd9cD/+//e9lpZYsUKXgnHkMiBPnj3C0+7HNajIwBQSY1ps5arPQevGEUD5YAq2AN1ApSIEEhgfkHjKOGQoVYepWS84YgHKRwikl6ogReNkVxd6nyfxqq/PF/BQwJSZCGFqQJmBFEbSacxPaqy801iY1pgZtzDcnwgLrv6TyWwWq3M2Npdt7H1xUP7uyHO7aKM0bwtkftjC4AsPLlApfP6g8XVWC8DBqoM/P1z83nFxtu3idMvByYYjZ96mAwcyMFwRp7P/zRGIyq9WXB26uDxwcf7TQPE7V5jLBFYLBmZpRqOQtWRFnAQhKscdqJQfVt0m75wWYZkrng0MiNmYemNh7HVCctMY3rq5wqOSI2sl1PtcIFAKxYK5Sc2zoWSNzBYzRpjRVLPz95aSXHBKzMXQy2Y/UdhdMTCcULLzQZOz95aSXBDqY97fN7dVXx3Dz7N3n/tnKbk9XAW7hqvr77ldgkoyNjdhbiIzxLwFBESZwDLQnJSXKWaERcgV8RZ6pclbGSCMJ4WLfVfAvImtfTINzdzwnSYQJxUCEKVM71QL0StDf1Mza+uLdlgwnkxmKuV2AePU/u65UpYsTU4tZCBPjaFudKxYsf5PXQMqRsoVXhe2tgAAAABJRU5ErkJggg==",
     "wiki_name": "Emerald ring",
     "wiki_url": "https://oldschool.runescape.wiki/w/Emerald_ring",
     "equipment": null,

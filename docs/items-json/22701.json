@@ -1,7 +1,7 @@
 {
     "id": 22701,
     "name": "Clown shoes",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-10-25",
     "duplicate": false,
     "examine": "Great for floating.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADW0lEQVR4Xu2W22tTQRDGu/ShtISGkJCQhJ40CU1IE3KS0KYttl4ehIriXfDyIAjeKAhCRaUqCBoRfBBKURHBp6KIFYsX8IJ/2si329lsNxea5KRPHZiHJLMzv/12drIDA3u2ayao7rti7QoKCgYC5BsZoeGhoRYxnlq7goImMxmKRiI6Bt+Vxsf7BaUKhkMh8o+ONikoqJDL0VgspqEQ1yeVFIybz8uCDFUHEvK3SrFIiXhcQ8H7pJKQxaZLriwMuIlk0lBAyN/YzRgo5bFKCubP75J0LvZgJUEXLygF4P/+lqUjBvGIqT1NyZhiQR2vnblLE/Trp6udge7fdejsmZAutvklrmMAhH5iID42j45O0KePcfrx3ZUOoDevsnRn2aHjx3xaoZVSnjY+q7hvm3WgUydVjEcwbAoKhQC0tpqhpZsBOrI4Qr7BQVmwNl2ix5WijPu6oeIergRlTF+AnlfL9GE9Jv1ZLUzXr/nJDfgpvDWPXs5O0YuZiowD2NJkhs4lHVqIhL0GErIACj0qF+h2IUdXs2k6n0pQNRQkZ2se4UYBCkoh9p6bpyuZFB0di2kV7cxdmOoN9lv5rCwCmMOxKOX99WufcpxtQIBHPGIPRj2bR4KWi5MaBspcSifpdGKM5sIhyhpzCAOxGRA2cMKJU2x4uFeVlDpIimO6kZugyxMp2Rc4hkow0AC0OtccCBuAoj2qpNQxewdQrJANhL8LBsJGoNaTKVf2Eq+DUl2qJCTE2r5pDQQ43BzuIRsI/1sA4ltmr+0RStD7A3MyqXmVzaMDUMpnDj2hIaDS24UZ3VM2FBTuAErNnPVD8xLq3f5Zej1flWDcF2juVkC8AazFOhMKG4JCHfaTGnLmoOO+MK89blkzIF7LkxvrWB2+FIvxaCezScidwVGA+8KWHbPFBsJw5DXYDCuDxjbHBt/SHaqk+oePi4+BbwwaGztFUn7GMhCuPm8EKmEjWGdfChxb44uzpamd4onRqg94tjQmFbrnTCgcHasEhZs/gVua+hsAFDybTmuVkJiPDX3ECU0gxPNa5IGbz1r7+bsDIFh9+nJSFMBnTspP0+0J1WZMEBvGXLdDGGXcFwxmwzQHgqk17bxjGNNMMNtbJebv27m9pmOzE3qWeM+6tP9g2mGmp/vj4AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADO0lEQVR4Xu2W22tTQRCHu/ShtISGkJCShJyQhCTkQk4SmrTF1suDUFG8C1ofBMEbBUGoqEQFQSuCD0IpKiL4VBSxYvECXvBPG/ntdjbbk5OSNCd9kA7MQ8jszDezM3N2aGhPdk0EtXRXZLuAgoKBAPnGxmh0ZKSDjaeyXUBBhWyWIhMT2mbAQCpgOBQi//i4S0BBpXye4tGohoLdgKAUjF0syoAM1Qom5H+1cpkSsZiGgg4MCMHqFVsGBlwmmTSghPyP1bRBpTyGUjC/f1WkcrD7zQQtXOAKCPr7pyoVNrCHzfKTlLQpl5zX25cI+vnD1spA9+5YdPZMSAfb+BzTNgBCPzGQhzAQQR8/xOj7N1sqgF6/zNHtJYuOH/PpCjUrRVr/pOy+brSATp1kG09FQSEQgFZXsrR4I0BH5sfINzwsAy7XK/SoVpZ2X9aV3YNmUNoMBOhZo0rv16JSny6H6dpVP9kBP4U399GL6Ul6PlWTdgBbLGTpXNKiuYmw10BCBkCgh9US3Srl6UouTedTCWqEgmRt7iNMFKBQKdjetYt0OZuio/GorqLT8w5E9QbrzWJOBgHM4WiEiv7W2KcsawsQ4GEP24MRzxpb0FK5oGFQmYvpJJ1OxGkmHKKcsYewEN2AkMAJK0bR0dF+oVR14BTXdD2foUuZlOwLXEMtGGgDWplxB0ICqGjfQKiO2TuA4go5gfC5YCAkgmo9nrRlL/E5VGqHUEJCrO6rayDAYXK4h5xA+G4BiKfMebZPKEHvDsxIp+Yom1cHoJTPXHpCQ6BKb+amdE85oVDhHqDUzlk7NCuh3u6fplezDQnGfYHm7gTECeAszplQSAgV6rGf1JIzFx33hTn2mDI3ID7LmxvnuDo8FPOxSC+7ScjMoAjAfeEsO3aLEwjLkc8gGa4MGttcGzylXQOh3HxdfA08MWhsZAqnW5+xavQ5EVQJieCccyhwbe0vzo6iMsUTo1Mf8G5pdyp0z5lQuDquEirs/gTuKOozAChoLp3WVYJjvjb0UbtDIe35LPxAzWdt+/O3K1G7BY7YKQLgNzt1f5qqZEwQJ4z7ua6lBeaE6exYndle+xanQ88c78n/I/8AYLQZ+PJbvKYAAAAASUVORK5CYII=",
     "wiki_name": "Clown shoes (Reward)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clown_shoes#Reward",
     "equipment": {

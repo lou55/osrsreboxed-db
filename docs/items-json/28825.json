@@ -1,7 +1,7 @@
 {
     "id": 28825,
     "name": "Civitas illa fortis teleport",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "A teleport to Civitas illa Fortis.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACi0lEQVR4Xu3X2U4UQRQGYPqeG98AQoAgBAaDLEEWgwiIYZFNZEdEBGQRzSTGGC94D+Ir+ULH/DX5O2fOVM9Udc+NiZX8oZfq6W/OqZkeWlr+j0IjkeakKSORmYkJmR4fd5kcHZVnw8MuY0NDLiODg/K0NODypL/fZaC3V/p6elwed3W5NAGVyMupKZl/Pp3m1YsZF2zjHAIw0QATDSyRgHV3dBRBJemNNQR5PTvrsjw3lwb7nK9xgKGCBVGJrC4spDeoB2l99CeNhrFygGkUWtfZ3h6DSuTtykoK0hCN0RAbwthWjcLaikT5QVkQzNOxMFaLKKwpoAgqtbU1QlWDsjAWYqPnEoU1hYWO1uUC6Tb5ILZa9jzn4HoudraOizsItLG0lIJ8GAsoP/zOPMdtvBZbhypFgVgh3Sp7Q10FDdLz9LZeT6hSbpAF6KowGsZ9X5XYOoD4zR0EevdmteZF7bsOib0WQeuwuKNBWdWxldH7vmP2eiQatLu+JmuLi16QrYIG2OP2WgRvFCA8RqJA/KRplN7OQuhjFoS/AOGTFg3Cwq5XJdsq2zZ7TSHQ/uaGW0eNqsT4KmVB3MaiBgiPj2DQ4dZWwyrpY7ZN9d5ALtDx9nbdKvlu7jvPOXo/F+hkZ6emShZgb2yTNRff1gDhARsMOt3bq6kSUITpG/og9pgF4WMfBfp0cFBVJaBQKQQ4HzA0BOF3UTDo9uNpVZUQwIgrAsSzDCD8BAkG3ZfLcv3hxFUJKATVQooC+bOWmAAQRiK/vt451Of3x3JxdOiCViKoHgIw0THgSAxHBfXzy638uLmW71dXUr68dPl2fi53Z2eutUDHwHNiOOy/wsVTAFMZfIFmxt7jnxh/Ae6pdHmFza5EAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACd0lEQVR4Xu3W3U4UQRCGYebcEy+BEDGIATGIGEQwCIgYBBEREUFERORHRLOJMcYD78N4S95QmbdNTYranmV6Zg7p5MvOT8/Os1W9O9vVdTFqjUyaSSMjk6nxcZkcGwu5Nzoqd0dGQu4MD4fcHhqSWzcGQ24ODIQM9vfL9b6+kGu9vSENoDKZmZiQh/cn8zx6MBXCNucIYEUDVjRYRQK72tNTB5XlN7YQ8nh6OuTJ7Gwe9nW+xQGjgjVRmSzNzeU36AS5dPlvHgvTygGzKFp3pbs7BZXJi8XFHGQhFmMhPgrTtloUaysRFQcVQZhn42FaLUWxpkBVBhVhPMTHzlUUa4qFTusqgWybYhBfLX9e53C9LnZtXcLizmRlYSEHxTAe0Pr9p/CcbvNe2jqqlATSCtlW+RvaKliQnWe37XqiSpVBHmCrorEw3Y9VSVsHKOGXO5OXT5fa3tR/6jLx1xJax+JOBhVVx1fG7seO+etJMujVs2VZnp+PgnwVLMAf99cSPiggHiNJIP2mWZTdLkLYYx7EKyC+ackgFnanKvlW+bb5a2qBXj9fCevovCppYpXyIN1mUQPi8VEatLW6em6V7DHfpk4foBJoe22tY5ViN4+d1zl2vxJoZ329rUoe4G/sUzSXX2tAPGBLg3Y3NtqqBEph9oYxiD/mQXztk0AfNjfPVAkUlSLgYsCyURD/i0qDTt7vnqkSAaa4OkCeZYD4C1Ia9KvVkuN3O6FKoAjVInWB+re2JEZHJj+/nAbU4dtt+fhmK4RWEqpHACs6BZyI0fEf9ePziXz/dCzfjo6kdXAQ8nV/X0739kJrQafAK2J0cHHTuRjNjH+CejEYtjmJEQAAAABJRU5ErkJggg==",
     "wiki_name": "Civitas illa fortis teleport (tablet)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Civitas_illa_fortis_teleport_(tablet)",
     "equipment": null,

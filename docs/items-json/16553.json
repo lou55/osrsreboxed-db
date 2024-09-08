@@ -1,7 +1,7 @@
 {
     "id": 16553,
     "name": "Oil can",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-21",
     "duplicate": true,
     "examine": "It's pretty full.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACN0lEQVR4Xu2WW08TQRSAO3+gPhJeGuIrD/BQCYSr4VIqBrmKgNyhQkEQEBvkjsUGMcSYGBP/7DHfGabZLBBemJ0HPcmkSXez8+13LrOpVJAwEv8nUABi5PTjrv7GryYcRkYHBqRcKsnPi7ICNdbVhYCyVg4/bMm3o6MbMxYmAJCRN0NDcv5pT81EQRKGsRY+b26qmeBWXuVyClLa2AhvZXl6Wo53tm/BxO/2HEY6mptl+11BW5pUBYUZzufVCsUbEMamaPb1uHw/OdYucgXsEcZuetdam5uTvWJRrXzd31dDHmHsptQF6WCWdLW2KgR1Mj8xIe+XFjU9ALmjwBtMQ329wrzo6dZx/3ZsVHZXV3VzrLDcjPFu5lljg9p42dsrUyPDsjg5KesL82pka2VZQVy9YCZqJ/60RwgjbU1N0v+8S80ARHoKMzOaLoAAoWaAwphHO4RRO6SK2uHtSReWgKJ+AKocHCgUy6MdwkhLNqs22JTPBMDGBwfVFKmjfgDF0J+rK/9AfCKw+jo79Uyiw+IwXP99eanLI5DRlFAXrsOcGTdzHMyvSsU3kP1uIQ1PM5lqHcVTBSxT2TOQ7Sx3BtXW1FTbHkgKmpbn9I4CUT/egLDgOuZJOi3d7e3VAzMKhMHrs1MFAQgwD0CE0bens1z6qBXmEN830YGYEBBhoUgJtjAUGIiwhyotDxBDMToQAf3x5bxaPwkApVL24RbsISAH4xXIRRTsvpUYTDTcpvet+P3/45+LvwfYgb7eZyyPAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCUlEQVR4Xu2WR0tDURCFfX9Al+LGhdssdKGi2LEX7LH3XmIvQaOxGyyICCL4Z0e+ud74iIirm+vCgSGQt3jfO+fM3JuT46UCyfzHUwESyPn+nv5mPs1yBTLQ2SnX8bi83Fz7BDKqnGxvyf3p6SeIR5iR3l65PDxQZbyC0Mebm6qMd1V6WlsVJB6L+QWhF8bHJbm74x+mtqJCdpaXdKSxyitMX3u7qkJ4PcIYi6aGovJ4ltQp+gqws7LT8b1Xp6flYG1NVbk9OlKFHMKYl5IL7GCX1FdVKQQ5mRkelo35ObUHIMdHQSDFkYjCdDQ16rqfGByQvZUVfTmq0HbHOFemrKRY1ehqbpax/j6ZGx2V9dkZVWRrcUFBbF5Qxrk61eXl0tZQr8oAhD1Lk5NqF0CAkBmgUMwhDBWoOlhFdvh67EIloMgPQKlEQqFo50CVpaWqBi/lmgBYtLtblcI68gMoCr0/PLgH4opAt9TV6ZnEhGXC8Pzt7k7bIVCglpALO2FWGbtzLMxrKuUayNxbsKGosDCdo0yrgGUrOwYyk2XPoIL8/PTYA0mgGXlO7zAQ+XEGhAp2YvJyc6WxpiZ9YIaBUPDp4lxBAALMARAV6NczWdY+ssIe4n4TXohZAqIMFJagFgp5BqLMocrIA8RSDC9EQJ+vLtP5yQKQLQP2G1CWYMJlwH7u//qvv1cf+RM3MqB5qFQAAAAASUVORK5CYII=",
     "wiki_name": "Oil can",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oil_can",
     "equipment": null,

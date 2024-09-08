@@ -1,7 +1,7 @@
 {
     "id": 23718,
     "name": "Divine super strength potion(1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "1 dose of divine super strength potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADvElEQVR4XuVXW08TQRh1f4cv+qDGiLfEG5Q7AgpUwMpFqLVcBAK0CAUKLaBEUSDV+GDEeOEF4yVRiVGEhAce1AdjTIgiAv6Y436DszOz3XYplCdPcpLt7sw3Z8433zfpjh3/DzSY32wjaDGZZmhwlJXE+LYpxAukIdx+AG2evagt343S/J0WCwtBR3btihNrQ7DbnYYPk9l49ySL8Wb3YXQ27jeN11Dd12UTZ8Ow251miHk9kYHhzkPw1+0zjV+PET+OLcSZkIMJijFc0Kv76Rjyp7D0mcfJYjYhSIggkt3ccllcVbUbNTWXDXem7jnYeWpx70Fe3lkUFDqVTXFB8jri2RZ2DmlobGxWOBy5g8rKGpSVVaKouBwZmXmSCLM7dmfTAjyQ2W7+vr3dD5+vA37/VXR0dCIyMYGKihqUllYgV3fo+PE0SRCPxxHLNVvEmqihp6cXvb1BRnoOBHrgunCRpSo1LRspB49azuOkuM2REeO3GBMT0e6Yv79+8xazs3M6ZzHzcQ7l5VXIzMo3FrFKk0wSlEBLiOWO+N7W5sPg4KDOIUZKV3ZOoYUYMUd2iMRYi4+CmCQHMY+hNHExXBCdn9ibsDublhDW8pLnVEVpihgipSzvdBFOnHBYbECGnftRsHZI7ETD1c7Av3QJulzVyC9w4lRq1gYWs02TCr6wbCl/19DQjIGBAYMkxlvXyMq+8Mw5ONJzLVyKTvuGxcjgIsQbOjvdCIfDiqi6+iuoqqrF2aIy1hS5S5xqNcVLpy3U1F1pamFizKxvaEL1xUsoLjnPKi3NkYP6rm7j/PEStz6PCUEV1NUVQCgUVkiCKI10tznPudhdRi6dPJVpzOOFwn8ndH7WIew2GllzK/r7QwZlUXSfuS95Wemfzi82XOJXSAJlbgW1q3KbA6MjCEZGdY4pwoiUSo+nnpU+HWzqR+kZwqUEy9wKqkP+G8P6wv0WDOkd288Eeb0NrPTptieXsrIL2L0mX7RbEKR2VbrRg339CknQ+5cvFFLplzhdqksnM7bqjgxNd+c6gsE+RrOAeKSuzV06diz1n+Nbhha10GaZJJc0/Flbiwq+WSbNpZWVFayuriYsbvzaEEIdfrR6vck52AIafi0t4ffysiKO+GNxEV+/fMbC/DxmpqfxfHISD+/ewZh+x/X5fGjxeJIthkPD0s+fUcLo+fu3b/i0sIBnT5/gQSSC23r3JjFNbjcqnOv/QJIshkP0J1kYuTT1+BHuj4/jlt4O5HHb5I6ACK4uaiVApjmOHf4CNASDjoITAzEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADhklEQVR4XuWXyU9TURjFeX+HKxdqjKgxYS7zKEOBWplLLTMB+hgKtLSAEkSBFOOCiFFkg3FIUGIUIWHBQl0YYkIEEfCPOb7v4m17X1/7KC0rT3KS1/be7/7euVMaF/f/SIL6mzMUDRZotSQYKstC/HYqhSskwdNzBd3Wi2gwnUdFwTmNgWMKpFdMwqelbHxYzGK+P3gd/a2XVe0l1LoGdOqcWPpAHGZlIQMT/dcgN10KAqIa4evoyr8mxGKB6+T4mQO9nU/HuBzPpk/dLmoYDkGmuHnkgXA1tRbU19/xpbP82MDWU6flAvLyilFYZBReKhhI/Tms9BKS0NraIXjCO4fq6npUVlajpNSEjMw8ISV1fW1IXYXqKKGnR4bd3gtZ7kNvbz+8CwuoqqpHRUUVcpWEEhPTNPpxhaqrq1AdJQwNDWN42MlMzw7HEMy369hUpaZlI/7qDc1+3FS3wzvl+yy201QoGC4JK+/eY319Q/E61j5vwGSqQWZWQYhBxLXJgSI4EvSBurvtGBsbUzzOTNOVnVMUtk9gQgSjDR8kf6fAIuo2NE0chgPR+gluq5beywryR8u3PLdYQBJgyDRlefklSEoy6AwWERBJLyEJff2Of9Plt9lci4JCI1JSs04wmN7vmtLqJKGlpQOjo6M+E4ytqZVt+6Kb5TCk52qkpH6pqCQWdjgG4fF4BKim5jbU1DSguKSSHYr+lI4t7qaowMSpa2vvZDBqN7e0o7auEaVlt9hOSzPkoHlg0Lf++BbXXo8RSQQaGHDA7fYIJiCaRrrbjOVmdpdRSskpmb5+fKNEkZA/bt9B1tGFkRG3z4FQdJ9ZGm1s6+cXlPpS4ldIhLtKLfFU5TE7pqfg9E4rnhHAyDSVVmsz2/q0sOk8Ss/wpxQlEElMSJ6cUAYe0bBbObFlBmSztbCtT7c9pZSVXcjutfAXbcQ6BqIb3ekaEUxAH9+8Fkxbv8xoFlNKzogtkDx5D06ni1kNEM50avOUEhJSYwUlBQ10WscM6M/RUVDx0zpmUAcHBzg8PIwYbvbuONy9MrpstljBcEn4tbeH3/v7Ahz5584Ovn/7iq3NTaytruLV0hKePprDjHLHuex2dFqtsYbhkrC3uxsERs8/trfxZWsLL18s4onXi4fK6U0w7RYLqoz8H8iZyH8+BYJRSsvPn2F+dhYPlOMgsN0ZwqilHjS2AH8BaWYdxR1felQAAAAASUVORK5CYII=",
     "wiki_name": "Divine super strength potion (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Divine_super_strength_potion#1_dose",
     "equipment": null,

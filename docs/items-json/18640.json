@@ -1,7 +1,7 @@
 {
     "id": 18640,
     "name": "Karamja gloves 3",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-05-08",
     "duplicate": true,
     "examine": "A pair of gloves from Karamja.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRElEQVR4Xu2W70tUQRSGnU/hv5CUYpAkUhmZSWYLYplJJiJmmYmImGUiImKWiIhilplmVqKImImIYmEgfqj/7MRzrue6v1JX2+uXXhju4jozz7znnXM3JeW/Di0n8T8fi5zU11eLB+IkJ+fczudjkQdRWhrygTIzT+vzYkZG0GBOsrLO6Kb2ZJxKO+l/DoWuBQnlpKDgsm64vb0hRUVXI+CetDz2nfLcSrqcFBdf991oanqoz0u55/WZnX3WB4qemSQ56e/v9MeLnufS2dmizgAamaWky3Nla2tdpqaGZWCgS/r6OqS7+5l0dbVKZeVtSU9PCwrIydPWBr9Ur0deydBQjw8FUF1dVZAlc7q53aA3o30yPNyrTo2N9ftA+fm5QQEhp25MTg7J/PykzM29l+npkQggC3xgQL9//VR3lr5+koWFD/Ll86gCkSM6d8BAyMnm5qq6ww3r6GjWG9bQUCP3a+5JRcUtSU09sZO1/WT/4+VydyQkp+Xhyg8OdvtAuFNdfVfKy0vkZsmNfbq1tzH/y5PDVFXd0XnWdKNn7CGnEC972zXklKq9vSkGyMoWWToPxOY1Nz+StrZGnUvL2IVJ2CkPijYADIviEl27sbFWNyDgkYs6dXRm5q1eBOYBhDusBSDf8zdeR9Y+dufvKa9sgAABAAvzfFBbqVmyU9rbn8wZDLeU7s58AACyEe5QrMN/lYsbaGwnCwSb0pWVFevC6+uLeisBom+Njw/ofA6FUzjNABCHbd4BYZDTDNkpcYkSAcNigBkUY2NjSYFwCRgaKjAMKz3rMABN0B3kNUgLNLbn5V2QwsIrGmzAgAoHW16e1b5FyXjlsHG4M4cslcl745tLwAFCGCkdn+OB4dLs7DttpMwFhsxFgyQIY/IW4eQTE4N6Q8gTThlQvLG4+FFLxiE4DLA4CLC35pHkZG1tQU/O64RNKCGbkKXwgVv8Brf3n2UJpzkI3ycY5Hhy8uP7N1lZmdOrTDbIFRtQCnoJEABGdu/44wjlCpd3rSkdp6YLUwpuHiUyEAJvnTg8K9EjevVDyisdpeCHmwWWgFsp/rELB5GT1dV5dYksAYRLdouS4MJBFJuLgF2JVXQmjhUmKP0B7upb/WTvmasAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xu2WYUuTURTHva/Cr5CUYJAkUhiZSWaCWGaSiYhZZjJEzDIZImKWyBDFLDPNrEQZskxkOFYYiC/qm534ndt9ttkyt9bjGw9cnodt997f/Z//OXd5eUeRdRhJ/34oYaSzs1UsiJHS0jO/3g8lLER9fY0HVFR0MgnIVzAjxcWndHP3ZJwoOO6919Rc9lMtI5WVF3TD3d24VFdfSoF72PvATxjCSG3tFU+N7u57+jxfdlafJSWn/QcaHx/0xtORJzI42KvKAJrqpf8eVpWdnZgsLk5JKDQkY2NBGR5+LENDfdLcfEMKCwv8AjLyqK/LS9WL6ecyOTniQQHU0dHiZ8qMbu4q6OXMmExNjapSs7PjHlBFRZlfQIRRNRYWJiUcXpDV1TeytDSdApQwvC9h5Mf3b6rO+qf3srb2Vj5+mFEgfETn9hmIMLK9HVV1qLBgsEcrrKurTe603ZampuuSn3/sgFDuN9aXiZFRGE0PJT8xMewBoU5r6y1pbKyTa3VX/9Kt7cb8lieHaWm5qfNc0907Y58wCvFsdEBNTqoGBrp/A0q/qAVx83p67kt/f0Dn0jISMBkrZaFoA8CwKCrRtQOBdt0Ag6cualTR5eVXWgjMAwh1WAtAvuczrqMM24dNGyBAAMDCPO+2N6uXUk9p1HMOhiqluzMfAIDcyFqhdIZGdryAsUldQ0OtLhyLRbQqAaJvzc2FdD6HQimUZgCIwm7e3l33CaMecqdEJVIEDIsB5qAY8fi6AqESMDRUYBgu9azDADRDGMI2SGdoZC8vPydVVRfV2IABlQy2sbGifYuUceWwcbIyWabKhb3xnUrAAYIZSR3v6cBQaWXltTZS5gKD5/4BJDnsIpx8fn5CKwQ/oZQDSjcikXeaMg7BYYBFQYBzArW1taYn5zphE1LIJngpeaAW/8Hd/ee8hNIchO9zAvT1y2fZ3FzVUsYb+IoNSAW9BAgAU7v3n0ZOwpY1qePUdGFSQeWRIgeC4bO4FrINmzpSwR83Z1gMnkhFTlU4SBiJRsOqEl4CCJUSVXQosdcTvqtyFBo/AUIkGgt95Fg1AAAAAElFTkSuQmCC",
     "wiki_name": "Karamja gloves 3",
     "wiki_url": "https://oldschool.runescape.wiki/w/Karamja_gloves_3",
     "equipment": null,

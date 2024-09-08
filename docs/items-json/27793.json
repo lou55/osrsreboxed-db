@@ -1,7 +1,7 @@
 {
     "id": 27793,
     "name": "Nightshade",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-02-15",
     "duplicate": true,
     "examine": "Deadly but compact.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xt2X22sTQRTGO4gIUpQSSUlKr6EJNqFJQ2+hiWlo2jQm9N7aGgyxVmpbqiFaFEXFW6siUlDwwXcf/ReP+511djfTWKPZJOKBw5Ld7Mxvv/Od2dmWlv87BJnZ9BBUuLpF+dlN2prb+RegBBXXDgygncW7zVZL0GZmm1UC0N5ykUrrD2l/9X4zoATlUgXamL5BC7EVBgPIk/wLhgn19HCqd9UpBK0m1mkpvsY5O56lK6EEAzYFJrU7RJnIvJGJcJLBoJYEUu+qYwhKbgVpLrpIyeEU58xomst2bSqnADXE4IL6wu2UKY4wRHQwzlAARBlNIB185dlEY6Bc/W00stDPZkbrw8xjy96fkwuK5fwMjeNQus9OKHUgwRMjnT4Heae6KVEaNUCkMgABsDfiNlSzwVv6k5pQgieJbgzw0Qohy6TC2QiDEBRZ85VNOJz1UOLmIB+tk1mNbL3HVhjU3qqEf7KLz0lPVJ5M0PR2yGJmteR/HGZ5MLFUAukZdRlQpmon74vnA7T4aJyVrNHQgia0pzOfrNwf3UEnBWd6jXPyPFKaFwnDw9hWoJNKVhWC2novkMt/iSXPvZ2k64fxioASJqB1GdYl9byEqhkIXQUPpPfDlNU6Zv5gjLq0UgWUrkJejnWwauUw+jgAkR1a2WtVhd7WeDp0CgaEH+S60q2VJay1PHwFmE5NyYuu879QQO3Qvwr9qbHherDx2EisxFIVdf05XYHTrlUdgt/c2P093zykz6WvdHzvCzk6Wzmdmseqg9HjtGtVhuAXpVTp/e4xfdj7xEdcg9nxjoLHkDpYXUPwhgtAUqWjOx858cqQpoev4K9vb74rJbQ9BG8nJBBUen37HSfWGqxDAEHndWrt7ta6DMsESousG5QV6OWtI06cx7YDLY1OBBwUBCyuPy28Mnyljlhj6EBQKugZMlIC4fWB1pefPtjct7rO8G+5a1RHtCG01XYgovhDB0LpAATzoyMB4fCdNf7zu86rIczBzUn0SdvbXOTp6GflIoEoG77OMHpUGtwKJtP6CaT+v2Ehwdwj5xqjTvVRG8wPAdiO98Tt4WsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xt2X/UtTYRTHfYgIQophTDaZQ8c20uHccNPh1hzOlzVRlzpdo7GWYSrWsKQoKnrTigihoB/6vR/7F0/3e27P7nb3wsi7XenA4bL7dj73+3zP8zzr6fm/Q5CWpoeg4s1tKiyWaHt59zxACSpnjypAu5mHZqslqJTeYZUAtL9WpsOtp3Sw8dgMKEH5hSLl5u7QamydwQDyovDGHJiNxBbdimc5F6eW6MZ4ggFNgVnYC1A6slLJRDDJYFDLFKDktp+WoxlKTixwzodTPGybs3kdUFcMLmg42E/pcoghomNxhgIghlEDUMHXX013B8rmtlBo1c1mRuvDzJNrnr/FBcXyowyNYyA1bCSU/kWCCyOt3j7yzDopcRiugEhlAAJgT8RuLAxeXD0MKBLNjfCxGkJe18MZCIMQFMl6awpOLLkocXeMj42L6Z8xLASPfbUSozODfK61JwTN7YxXmbnZfW2HpgYKa0oIcoVtFaj6Qtpz8YKPMs+mWMnG97YdgqaVr9O+rPoLBTn9VvLPD+kKqPdo5lVND2MbAmQZukK20Wssef7jDN0+jjcBVO/3KV2GeUl/XkKdGQhdBQ+kDoK0pHTMytEkDSpD5avrKkHXYwOsWn1BdbhrO/SfQm1rfB06BS+EH+S84lSGJai0PHwFGIei5FXb5SZFDek29aux4XqSe15JzMRSlfr5p1XBVtfaDsErN3Z/r0vH9P3wJ50++kF9jl5Oq+Kx9mAMC8ELpVTp894pfdn/xkdcg9mxRsFjyC5ACd5wAUiqdPLgKyeWDGl6+Ar++vXhd6cVE7ydkEBQ6f39T5yYazAPAQSd51Da3a50GaYJDC2yY1DVQG/vnXDiPLYdaGl0IuCgIGBx/WXxXWeBoJTfFaikBMLygdaXf32wue+1XeDf9btGw0KZbUciOn+oQBg6AMH86EhA9HkvdtJHMhq9XC3ab7GRa8DNykV8UTZ84/u7FrXKmfQXqFEIsocunRcYGWeD+QNEBjeEv2fOGgAAAABJRU5ErkJggg==",
     "wiki_name": "Nightshade",
     "wiki_url": "https://oldschool.runescape.wiki/w/Nightshade",
     "equipment": null,

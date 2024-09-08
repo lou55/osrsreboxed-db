@@ -1,7 +1,7 @@
 {
     "id": 7231,
     "name": "Burnt rabbit",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "This could be mistaken for charcoal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xs3W+0sVQRTA8Xt/kiQKSZKUTJMMM3yEmWGmYUT0S0VRUVFUVBQRRFGIFD1EeiGIPahQMMREygiioijqL5v4znLWs8fRe693CwcOu3d21vnsObOzZjJLv2VdOELX/3nLuif9h9yjvoM+Bm8dcAM39vsQxMTwGTc+dNqNPT0VQNmHKBoegQQFSMJiRh+fdC8Hjycm5jfXbCRRBSGzbuj24TkojkAkBPR84JgbvnvEj+UYAjFeo39O97vvk9cXhxIQ55IdAb1+eMKDZOx8IO77MdXnfs/cc39mHngQc7TU1Piws5sWpV2eWkBMGgKN3D8agzgPgSZHziZAnAvIzm5aNlEGJpLFzW8LYnIQUt75QNMvzqcHkizRFwJJJgVE1izow6sLMYgoCCTrwoKYXINkgeYD+vjmYhL07mbxIPoFQayrqnKb6uv9eS7Qp9FL6YIEsaO93W1pavKQDbW1bk1FRU4Q2fwyfiUG/Xp/J8YUDCLo6+ns9LG9rc01NzZ6zOaGBrexrs6traxMZI6woK9vrwZBdvZ5WvRHeVoB7d3V4/Z0d7ttra0xBBTZAigZo4wWCOjbxLXFgqI9iAxp0L7dvT62tjR7EABBrK+ujmFAQVHKVWVlbnlpqb9fg/SmaGc3LXrlQ6Deri5fMiYGxFrSQSn12iJLq8vL0wdplAQAWVM6KKdkiayRpZUrVrhlJSX+vqJBOkscWaCMoWxMDmxnR4cPnSUyKCAwGsQuLZi8QLxhIZB8Dvgm6WzZAENI2cgQ/bpkeWaHNguy60j2FkDs1vyWHZr7ZJHbN45rfDZSAwmKfl5fAXFdb5pkBQzl5EjJ6Gcsu7QGCcrOHmgRKFS2XCDZn/TuLeM/j12OQexBBexDSZAumwZxpF8+F8CiJ54Nygu8aBBvWS4Qk9GnQYRea4xNFWTLRr8G6X85BCMgGQto6tm5BIg9qOB9KFQ2DeJ8IZBkiLGpgEJl0yCuyYK2IMbp9VMkiDZ3swuFXT8SFsT/0hokUQAok5FtfaGwQB16/aQCyrdZZD5Yidmx/6lZZCjsPUu6/QUoIE2L8XOrkwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu3W/UsUQRjAce8nScKQJEnJMMkwQ1PMDDMNI6JfKoqKCqMio4ggikKk6EWkNwSxFyoUDDGRMoKoKIr6yya+szzbs3Nz3u7tFv3QwMPuzc7efO55ZmevrOzfbznjD9/1P95y5uHIQXN/+ICNsev7zejVfTYEMTtxysyMnzTTjwY9KPdHpIYHIEEBknAxUw9OmGdjxyIT85lrbkRRiZA5M37jUB6KIxAJAT0ZPWombh22Yzn6QIzX6G8LI+bL3JXSUALiXLIjoBf3jluQjC0E4r6v88Pmx+Jt83PxrgUlwvCl8qsFxKQ+0OSdIyGIcx9obvJ0BMR5TFAuUgYmksXNZxfE5CCkvIVAC0/PZgeSLNHnA0kmBUTWXNDb50MhiEgEknXhgphcg2SBxgG9e3kuCnp9LT2IfkEQa+vqzMamJnteDPR+6ny2IEFs7+oyHa2tFrK+ocGsrqkpCiKbH2cuhqDvb27GxdCiIIK+/p4eG9s6O01bS4vFbGpuNhsaG82a2tpI5ggX9OnVpVJBtOBL+bUC2rOz3+zu6zNb29tDCCiyBVAyRhldIKDPs5dLBQV7EBnSoL27Bmxs2dxmQQAEsa6+PoQBBUUpV1ZVmeUVFfZ+DUqwKQaPvA800NtrS8bEgFhLOiilXltkaVV1dfYgjZIAIGtKB+WULJE1srSistIsKy+396UG6SxxZIEyhrIxObAd3d02dJbIoIDAaBC7dEwMLXjCfCB5HfBO0tlyAwwhZSND9OuSlQRy15HsLYDYrfksOzT3ySJ3nziu8drIDCQo+nl8BcR1vWmSFTCUkyMlo5+x7NIalAAVgHxlKwaS/Unv3jL+w/SFEMQelGAfioJ02TSII/3yugAWTPA7KC/w1CCesmIgJqNPgwi91hibKcgtG/0apP9yCEZAMhbQ/OMzERB7UOJ9yFc2DeJ8KZBkiLGZgHxl0yCuyYJ2QYzT6ycliBZdnIXCXT8SLoj/0hokkQAUt+UjJfT6+YugpVo+Mj/+t3TtF94NAv8ZpfelAAAAAElFTkSuQmCC",
     "wiki_name": "Burnt rabbit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Burnt_rabbit",
     "equipment": null,

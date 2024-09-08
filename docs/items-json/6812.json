@@ -1,7 +1,7 @@
 {
     "id": 6812,
     "name": "Wyvern bones",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-12-12",
     "duplicate": false,
     "examine": "Bones of a large flying creature!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADb0lEQVR4Xu1WW08TURDm/AriG2qIr5iQ+KAYiQ9emjSFUgSBWstNKPeGNMhFrm0qIGARxAZCCAEExAtBY+KD/2z0m+Xsnt3tlm2L8sIkE7a7c2a+mflmDkVFl3KuIsiuFyaC1jf3aCG1TtOJtxQbnqau3thFgRK0e3BMw68S5KuuM1WorKSE1XriH4oWeOfjVxoajduA/HcwqEigLkgNwRYKNUeoraP/olol6OjLD3q/vsOc6Y2OUFOozVYh6ylnKTgBQfufTpg3Xl+AkvOrrCog6wlnEVzlAkBpJAZvME0SBBSVun3nnumdWTOJYD8Vd+9nsckqgrZ3P9PWzhFV1TzVK6JVRQuMdgLw5vYh86q+MUwer98hoKCxqTmu9tVrpQ42WUVwoI2tfXb07HmHyYkKbGl5g1sJnvX0v2RgmQMKthmfeaMnaLU4QwQDml9K0+jEa2Wy1GBaEHyfjC9SYvYdP6Nihq2m+AZbCSYPQBDNmbqhB4cmTYHwu7N7kAGlN3Y5AVQB71E5JHV88ouf48lUvtUxRG0POCPBISgI7q9tpJb2Xhv5pR4enTAfZxc+UHHxlXwBmZ0+9rVQRWWN/hvrAIQHOFRHqnpGTcT6PkdAgjdyuLVb58Js6huNzOxRa1eSvH5JcEGplU2uFLJHS8ATtEVyJRobp0eeqsLAgAtoBdpgTNff/RNbpb6hNf03gqqLUiqmDi2VixCjjtVxvfTGqU1OIviqQNYvIlF9hMeTB9QcSehZ4i+qI3eUk6Ji5zBdWlZom3SM6tQFjbEHuTE9aA/agoCwt25wgEEV5TLMCwymQk6MrEa4I06e6nbTO9hhzBF0Jb3NIL///M1kx+gjKXzDc0HVwYZG1mqmgYZoBqf2FkExgageWgpA4JSRSM6icQNXAJ6DrRNcnQeeENU2yrE2RAJU1QrQnohr0a4KZKXuFExW58BiTo6dAeYkWnXUu0h1mDnA2Yq99dAbprLyytN3rkXQ8toWkxDTg3/KpAMVDJZjqH2KGsIj3EoEA+F9gQj56/u4tZhIfEfL8Vz1pMcyFK7EAIS7B2N8s/xWhqy0zJuaxxgE2umkkWiKBobT1NYzx8BwBdn9ZRWj1JJHdt5oZJfZq2esKq8c7DH5zu7vDFHb43zYCCptMqmTndWba8l22G0At3aX4lb+AMyHmYvnBWfGAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQ0lEQVR4Xu1WW08TURDm/ArioxriqyYkPihG4oOXJk2hFEGg1gKtUCiXhjTlZrm1qYCARRCbkqYhBQHxQtCY+OA/G/3mZLu3dqlbksaELznJdvecmW9mvpnTurpLXCgEmVfNICibO6C1dJYWk28pOrVIQyPRWpEStH90SlOvkuRq7ah1hqTjwsevFJtJ1JIIIDgjng4vdXn7yNcbosDAWK1KJejkyw96ny2wZkYi09TjC1SRITtndBB0+OmMdeN0eSi1us3LHiHBWf73c0VIEUM36CaVhOBM3bl7X/dOv0pBsJ2mew8s9lhC0N7+Z8oXTqil7ZnBiHSMcoJwbu+YddXZ7SeH013GoaDZhRXO9tVrDWX2WEKwo938IRt6/mKghBFJbGNzl0sJnYXHJpmYea/cjz3xpTdlvp8LwYRWNzI0M/da01n6bMEJvs8n1im5/I6fkTF1r1z4hr02ySiQxrQTeiI2r3OE34PDE0wos7vPASALeI/MIajTs1/8nEilqyWkQDqHZhRycAqBu9u7qS84YhK/so5PzliPy2sfqL7+il1CeqNPXH3U1NxW/I1xAMGDHLKjLP05sx3bZDCR/f3DRS0sp7/R9NIB9Q+lyOlWBC4ovZXjTCF6lAQ6QVkUrUSicXrsaKmODLSAUqAManf9nT/RbRqN7RR/w6l+UMqFrkNJlUGIVsfouN5www4pwVcFon4ZihRbOJ46ot5QUmNQZkedUaUXMnYB3SWjQtkUw8hOh1dte4gb3YPyoCxwiP3GCQ4yyKLNYQjIrlA7Rr7zDyTI0RrUvcM+tDmcbmX2mOT3n79Z7Gh9BIVveLZJBpATGlFrI/V0RUoYNZcICx2I7KGkIARNmc9WDKkNXAF49vbPcXYeOnzU3q209XkwkzTuqBDyqkBU2pmCzhocX6/CsG1iMjv6u0i+1xszRm+9MLceOf10s7HZYOdcCNrcybMI0T34U2Y2IHg4+oIL1OWf5lLCGQTv8oTI3TnKpUVH4jtKjueWp2FDU1QElRDuHrTxrcbbJYzIyHt6Z5kEylluhSJpGp/KUCC8wsRwBZntWUJNtaojI6TYlei1Z4xLuXIwx9T3tmF1WOvYCpXuu8R/jD+SQyyXfoMduAAAAABJRU5ErkJggg==",
     "wiki_name": "Wyvern bones",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wyvern_bones",
     "equipment": null,

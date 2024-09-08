@@ -1,7 +1,7 @@
 {
     "id": 2194,
     "name": "Unfinished bowl",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "This dish is just missing those little finishing touches.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xs3W/0tTURgG8A0Zw/9CCPolCOmHCCoqiKiIzMzKvmJhoVQgSaVWmA3LVupcuXRsaKwpUkYQFUVRf9mJ5xyeu/e+O7PN3cIDD/fu3nM5n73n7NzFYpu/xY0/vvv/vMVNerTLTA532kzcPWFSQx02RJQyvWZp6rIpPr/kQekv0TTcgYgCiNGYwrMLJjdxLjQwPuOeThjVEDJuph6cqkLhCAhD0KvUWZMZO2374ugDob9E/1gdNd/KtzeGIgjnrA5BC0/PWxD71gLhue8rw+bX2iPze+2xBWGM9rY2Gz26aq7s/NYEYVAfKDt+JgDh3AcqZ6+EQDgnSI+uWjw0DRiIixufNQiDA8HprQVaneuLDsQq4ZoPxEoShKpp0Pv5awEIaQjEdaFBGJwguUB90aAP+eth0PKd5kG4DhD6nGxPuLS6zMyMm9nZlM3+rS1VqI+F/mhBCKYS97t3JEzPzoRZmE+bfP6FKRSm7XFkoMficrlJc2RbBYWKfl66EYB+vnsYYBoGSRTuXdyVsMHgyOJi1qZYzATXAEQAxzMAfXlzywvSo9dobh1ggRKEz/37EqZvr0upNGeDiuBIDKcQaFSRlfpaGtwoyO1BqJAG3TyQMIMHkzbL5Xwo5bevQwEaqOPbW8yeLQ5FkNwU9eiquZ+8BknM0KGkuXc4aavlC/vhvHe3W/i6Qk2BEFwH5P7RpBk7Vju4Dyz6AoYqcR1FAtJVetKZ9CbV4SJRrBKeW3l5NQBhlyamLhB+YT4Q/2JMd7eGku5KBgGOKFQJKDyD14asUJ3VQauA9Dri68CHkjhUCiBisJHitREZiChcx36Ct3YtFCtEDPoDhF1agojSo3uaA/mmTYL4+tDThuoQwx0a/T8VBwIQ9qAG9qEwSE6bBOGI6+5bVofvL8CbBuFX9jcQBpP/gbBxInKtcboiA+lpw3UJkv+BiCGIfQHCT16CsAc1vA/5pk2CcL4eSK6fSEC+aZMg3JN/SyQI/eT6aRKEVr1IfdHrh9EgbIoSxDQAisW4ra8XDZSR6ycSUL1NI+vBMpW+/6lppC/6mU3d/gBTMHibP7u0gAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAklEQVR4Xu3W70sUQRzHcQ85Fv+OoCdBRA8iqKggoiIyMyv7iYWFUoEklVlhdlh2pZ5Xmh53aFynSBlBVBRF/WUT7xm+6+zsnN3eXdGDBj7s3u7s7eu+Mzt7LS3/fkspf3zn/3hLqexwpxof6tAZu3VUZQbbdQRRzvWoxYkLqvT0vAfl/oiG4QYkKEASF1N8clbNjp2O3JjPnHMTRSVCptTEveMxFFsgEgG9yJxSuZETui9bH4j+NvrbyrD6UrlRH0pA7Et1BDT/+IwGSd9qIK77ujykfqw+UD9XH2pQIgxfKr9aQNzUB8qPngxB7PtAlfzFCIj9GkGpyDBwI5ncfHZB3ByEDG810MpMb/NAUiWO+UBSSQFRNRf0du5yCCKJQDIvXBA3F5A9QX1xQe8KV6KgpZuNgzgOiD7HtqRN2kympkbV9HRGZ8/G1hjqfbGvuSDCUHK+a2tadW9Lq/m5rCoUnqlicVJv7/R3a9zs7Lg6uGkNRUU/Ll4NQd/f3K8VQ4uCbBTnzm1P63BzsrCQ1ymVcuExgAQ41wD69Op6vSCamQdMUAHxuW93WvXuMimXZ3SoCFvByBCCpopSqc/lgXpBZg2iQi7o2t60GtgX6CxVCpFUXr+MBDSoI5tb1c4NBiWgBIuieeRdkI0Z3B+o2wcCXS1fpB/7PTvMxHcr1BCIcBzI3UOBGjlcPZwHS19gVEnmUVNAbpUedQTeZNpNbJRUieuWn18KQazSNWJo5gnzgeQvxmRXWyTZziAMOEFRJVBcw2vDrlBdIHceyevAh7JxVAqQYFhIeW00DSQojrOe8NauhpIKCYb+gFilbVAClAH5hs0GyevDHTaqIxhZoen/odQfgliDEqxDUZA9bDaILcfNl8Yj7y/gDYN4yn4H4mb2fyAWTmLPNRmupoHcYeO4DbL/AwlGQNIXEI+8DWINSrwO+YbNBrG/HsieP00B+YbNBnHO/ltig+hnz58GQbT4JPXFnT8SF8SiaIMkCUC1tjhSYs+fvwhar8WR8fxvjbVfCSwuD8zPe4QAAAAASUVORK5CYII=",
     "wiki_name": "Unfinished bowl (veg ball, historical)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unfinished_bowl_(veg_ball,_historical)",
     "equipment": null,

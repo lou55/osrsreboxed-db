@@ -1,7 +1,7 @@
 {
     "id": 4114,
     "name": "Mystic robe bottom (light)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": true,
     "examine": "The lower half of a bright magical robe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYklEQVR4Xs3W605TQRAH8PaDafoWPILPIR8UQZS75WbAWqwUmlrAArUVykVaCmIDEdIUQhRjYtRoNPpkY/5zMoc5y4ItPRg2mbTd3ZP9dfZyNhC4/iVI9rC1X3kJUiHdTkupNo5c8g5lE7c5BFHdiND+2gDtrfRbUOafaBrugAQFkISJ2V3upe1ct2dg/EabGV5UQ8ggrc12nEHhExAJAZWzD2gj08l98WkDob9G/zxO0/fa5OVQAsJ3yY6A3r7qYZD0PQ+E534cpej3yTz9OVlkEMa42dLCYY5uFCft8q8FhEFtoNLCfReks6BBtdKgB4TvAjJHN0rQMw0YSBY3fpsgwAESTDkepuxwiOKdIQ/seGvEP5BkCXU2EPpxVpeWqLK6SsWXWcqPhijRFaLIrRvc9mFn1AUhGgLJujBBGNwEoR+eKeVyHOV8nmNtPkPZZJJmnk5w+8fKIy/ocLp5EOoBEhQyeR4mk5ikqfFxehx5yH0+7Y75C0IAoEHoC4DGYLpyqRQlo1EaGxig3g5nbX3Zj7qgX+/nXEzDII2S7YsQjBnLs7M8TU+GBmm4p4f7Af/1IGYFmaOfU5zdgd1jA6ENC9jE6KkCqL/zngv6Vo1fFuScQciQDcQZLBQYpFEyVXPP4jxdEyPD3Ff+hAbpQ9Ec3SjOlreBENy+vs5bGygNe724QPl0mjME0GBXl5sdX0GCQttBeZPelUoM0igEMoT1szA9Rc9jMTc7voIEhfrDSoVqO2+our3FWZJMIcwMjfb1eUBHm0MuCKe0YOoCYYdpEOowCNYHMrDyYo5DowDCgpY11N7a6lk/eG3oDNWZHZRTkKBQtx4N8ztqNxmm6kzYGay44aJkhyFDchDq6cJrwzeQoPBuKk44GNn6EnhFyC7rvtt2BoRTWoMEZY5uKQ7InDZZRwhcIzAI2mXn4SDEzgJMMAJC/8974y4IZ1AD55AXpHcb6mQAfKJerhyYUpw7OAw1CPCmQdhl/wJhMH0Hwv0nEwlZp8s3kDltqNcguU2at0Q8J30BwpbXIJxBDZ9DtmnTIHzXIKwleRHjOb1+fAHZpk2D0KavJRqEfnr9NAlCOU3/RaExOkwQDkUNkmgAFAjIsX5RmEAdev34Aqq3mMh6sBKnff9TMZG2MJ+51uUvA8qyN9nPEKsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xu3WW08TQRQHcPpgmn41eVAE0VIulpsBa2ul0NTSWqC2QrkIpSA2ECENEKIYE6NGo9FPdsz/bM56drpgt12MD05y0jIzy/x65rLT1fXvlwC5h1v7lZcAVbK9tJzp4Silb1IxdYNDEI3NKB2uj9DB6rALyvwRHcMtkKAAkjAx+yuDtFsacAyMv9FmhhPlCRmg9VxfEwqfgEgIqFa8S5uFfu6LTzcQ+mv0t7MsfTmeaQ8lIHyX7Ajo1fMIg6TvRSA89/U0Qz/OF+jn+RKDPGHwT+VXCwiDuoGqi3dskM6CBh1XRx0gfG8RFHBMAwaSxY2/TRDgAAmmlgxRcTxIyf6gA3a2M+EfSLKEOjcQ+nFWl5epvrZGW8+KVJ4MUiocpOj1a9z2dm/SBiE8gWRdmCAMboLQD89USyWOWrnMsb5QoGI6TfOPEtz+rn7fCTqZ6xyEeoAEhUxehCmkZmh2epoeRO9xn/f7U/6CEABoEPoCoDGYrlImQ+lYjKZGRmiwz1pbHw9jNuj7m3yrGBQnSKNk+yIEY8ZKLsfT9HBslMYjEe4H/KejeLsgFGt3YPe4gdCGBWxi9FQBNNx/2wZ9biTbBVlnEDLkBuIMVioM0iiZqvzjJE9XYmKc+8qP0CAPh6K15d1ACG7f2OCtDZSGvVhapHI2yxkCaDQctrPjK0hQaDuqbdPrapVBGoVAhrB+Fudm6Uk8bmfHV5CgUH9Sr9Px3ktq7O5wliRTCDNDk0NDDtDp9pgNwindIgbF2mEahDoMgvWBDKw+zXNoFEBY0LKGeru7HesHrw2dobZAgkLdRizE76j9dIga8yFrsK1NGyU7DBmSg1BPF14bvoEEhXfTVsLCyNaXwCtCdtnArZ4mEE5pDfKAskDmtMk6QuAagUHQLjsPByF2FmCCERD6fziYtkE4gzycQ06Q3m2okwHwiXq5cmBKce7gMNQgwDsGYZf9CYTB9B0I959CNOg6Xb6BzGlDvQbJbdK8JeI56QsQtrwG4QzyfA65TZsG4bsGYS3JixjP6fXjC8ht2jQIbfpaokHop9dPhyCU3+m/LDRGhwnCoahBEh5ArZZmpIReP38RdFlpRjbH/9JZ+QW5t2erZHy26wAAAABJRU5ErkJggg==",
     "wiki_name": "Mystic robe bottom (light)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_robe_bottom_(light)",
     "equipment": null,

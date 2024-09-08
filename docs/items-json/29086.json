@@ -1,7 +1,7 @@
 {
     "id": 29086,
     "name": "Sulphur blades",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Are these explosive?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACT0lEQVR4Xu2W7WsTQRDGs3+CIJYQYmpDUy4pIQ2JMZASArVvSk1VQqRE+yIUrUI/KFLFghRa+q3Q/r8jz2wnt7eNedm7kEB9YD8k3M3+7pmZnY3F/ityKQquiUkDzD2O0/yTBHnpJOUyqUlBKUolZhgEEHlvjhf+L8zO8rLfGKM0jDgyFTCmM0u59ORgEvGH0wID+akSGBPIfnrM0u6go+CODeMO5NyRikqFDNWredpYecowpXwmpDvK9ZhQFH/0gN1ZqRfp1XqVtjdrVCl4kQGNGCNYzHCn1axT+3XDJditVDeeQwwNJMWMVFWL2ZD1ExII3YWXkSo402k9dwl0Kz1u5AMd4ugAa41SF2i3veYSKCYfB3fk6JBatJ/sI0WVokeN5QK9XH3GKauVFx2A9DA2YcxOHSGWIm8+yS2PDoNDZg3ZT9+VfyuQ+RcCRqS6KTPrZ3AgP0XmMLaB7LeGkGJnTr916Or885CB9GFaqyzy+fUvmMFxekpxUABdXxz1AQreHqW14W6EMJBO2eGHF32ANAAcQb2Zd6WIYSDFXYb6ubn82gNIO4IDVIpfBrCsCGDMs0G3/tutZTo6aBpAGmQpn6bcQooLGOCmM3L4hYaRWWUupG1/Z51+Hr/j3zggP3Y26dPeFjtTLWf5GaTLn+Q+iCMMpDeHI9gUENgYG2KwHh++oYvfBwwCx/AbRY+uQntHCCJSvDnuPjK7BAobA+TPj/d0drJL57/26fuXVsDJCEFMBdNlLkAhbZI6GyJiEF/2Jv5mY3djdE0NyL3XXz3mJByjq7DoAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACH0lEQVR4Xu2WbUsCQRSFnZ8QRCFSUqKxGmJimWCIYGUvmL0gRdiLBlEW+KGIioIIir4F9X9vnBmvO0WIzq5sgQfmw8Luncdz7p3R5xvIdQn6vjyTApgc91N4IkBWaIxikaBXUIKCgVEJAoi4NSmXpzDsyJ+A0Z2ZiYW8gwn4h/8KDGRHxTAeAil3MFFwxz0Y4+8FpRIRymXitFKYkzCpeMQhkDA9JgT5R4akO4VckjaKGdpczVI6YZkU0+QASG9muFMp52h3K29SrCXRrmdQQwFxMyOqTDJqUkiTQyBMFz5GVHCmWlk0KdSSum74BxrUUQWW86k20NHuskkhH/84uMNHh0EvCkonLcovJGh9aV5Glp2d7rWIT72vomIYw0kVZIXH5MhjwuBQbz2kQDgmHgxDGJZoR9Zb/9gR6ZexK0Bw5vGqSu8v510WUodpNj0tzy8XYSAhiwLo47XRoZiKhxePNtx1EQZSkZ0ernUAUgBwBP2m/1dyGQYScsrQP59vl78UVY7gAOXm5wuYlwsw+sdq9HdKC9Sol7XCCmQmHqLYVFA2MMB1Z+zDzyGMfVfZC7HV9ot019yTzzggT6qrdHZcks5kZqPyHcRlXwuOQFhqcziCTQGBjbEhLtbm6Ta9PtQlCBzDM5oeU4XxdhGEJeTm+O/DdxdDYWOAPN0c0PPtEb3c1+j6ovLDzb7oe1z6AhRi4+j6CNGt+u7GQP9XX94RvkRKYY1WAAAAAElFTkSuQmCC",
     "wiki_name": "Sulphur blades",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sulphur_blades",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 10345,
     "name": "3rd age amulet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": true,
     "examine": "Fabulously ancient mage protection enchanted in the 3rd Age.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xs3V30sUURQH8F18kAVRokjooXwLfAhfjB4y/4GwJFHRyFJMiwjKSESULJHSEMRUNBQMURF/IIiKUdRfduV7h+945nh2mdmdwguHOztzZ89n7rlzJ5O5+C3r7LCu//OWdVPDj9yXoWYfE4MP3fi7Bz6IWJt55lanu9zK1ycGSj9EyfAARBRADI1ZnnzsFiY6IonxG9d0RFGJkFk3PdJyDoUeEAZBc+PtbuZDqx+L3gJhvET/2hp2J+sDxaEIwjFnh6Clz50exLH5QLjv5+aQ+7M75v7ufvIg5KirqfGhs6sWTDufmiAktUCzH9tCEI4t0PpsdwSEY4J0dtWykTIgERc3fmsQkgPB8uYDbc33pgfiLOGcBeJMEoRZ06CdxechCJEIxHWhQUiuQXKhWkHQ3ve+KGjjfekgnAeIKIzNlZcXDKL2l1+kC0KglARJjJ4VXiMG+MPVVyHo9/ZoiEkMkij8uQahJxjjsIYs0NGP1yZIZ8/TgqfEn1sgmVAu6EKg47U3xYKCPQgzVAwI96G0xPAeCZKbos6uWvDKWyCEBZJrjCCJweykCiIKgQTYcQuBrHKlBpKzhN4CWRgN2vzWE4KwSxMTC4Q3zALxc6BBMjSGJcZnQ85QzNlBOwPpdcTPgQQhGm5eDY81huXCZyM1EFE4jwQAcWEj7t+6HJkl+WElCLu0BBGlsxstAFlls0Adt6t9zzUkS0sQxh+svAxB2IMS7ENRkCybBGFc/71rvr97vcz3FgjwkkF4y+KA7tzIuYqmKy7XUOWaaiv8ObnWWK7UQLpsOC9BT+sr3dvGS74nhiCOBQivvARhD0q8D1llkyB+Ghgsl54hjE0FZJVNgnBN79AEYZxcPyWC0KKbXb6QGBkahE1RghgJQJkMt/VCoYEy5PpJBRS3aWQcLONs7H9qGmmFvudCt1O2Q2cfDcZl6wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoElEQVR4Xu3VW0sVURQHcA89yAFJIinoIR8FH3pTetD8AmGJUqHhpSgzQuhCIVJoHaQbgqhJiYIhJlKKIClGYp9sx38P/2nNOsthbkYPbVjsOTN7zv7NXmv21NT8+63k7LCuH3sruXfj3e7NWJePqWdXXeXJFR9ErM4MuZXpAbf8vt9A6YfIDQ9ARAHE0JiltzfdwlRvZGL8xjUdUVQqZMlNP++pQqEHhEHQfOWGm5m45seit0AYL9E/N8bd/trjbCiCcMzVIejT6z4P4tijQLjvx/qYO9ycdL82X3lQKgz+lE9NECa1QLMvr4cgHFugtdlbERCOE4JKkTRgIhY3fmsQJgeC6T0KtPHhTnEgrhLOWSCuJEFYNQ369vFuCEKkArEuNAiTa5AsVCsI2locjoK+PM0PwnmAiMLYcm1tbBC1vTRSLAiBVBIkMXpVeI0Y4L+vPAhBB19fJMWgRUEShT/XIPQEYxxqyALtfh7NCkILnhJ/boHkhLKg40B7qw+zgoI9CCuUBYT7kFpieI8EpdgUg1feAiEskKwxgiQGq1MoiCgEJsCOGwey0lUYSK4SegtkYTRofe52CMIunRCDFrxhFoifAw2SoTFMMT4bcoUygXQd8XMgQYj2pjPhscYwXfhsFAYiCucxAUAsbMTlC6cjqyQ/rARhl5agFKgAZKXNAvW2nvU9a0imliCM31m+H4KwB6XYh6IgmTYJwrh7l875vu38Cd9bIMBzg/CWJQFdbCy7us4GV26vd53Ndf6crDWmqzCQThvOS9Bgy0n3qOOU74khiGMBwisvQdiDUu9DVtokiJ8GBtOlVwhjCwFZaZMgXNM7NEEYJ+snJwjtz5PHhcTI0CBsihLESAFK2qqRDFk/fxEU16qR1fG/5Wu/AWw/HJOYWTpwAAAAAElFTkSuQmCC",
     "wiki_name": "3rd age amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_amulet",
     "equipment": null,

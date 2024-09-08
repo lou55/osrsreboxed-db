@@ -1,7 +1,7 @@
 {
     "id": 9697,
     "name": "Mind rune",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-20",
     "duplicate": false,
     "examine": "A mind rune.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xu2XXUtUURSG3VfipSRJSowiGWb4EWaGmYaZmWGampmZZmZmppnZYKZZREFEv6L/ueLZh3dmd5iJmHPGG12wYLxwzsO7nrUOU1FxUse7nBXvI63oodd7euxqV5dd7mi39tZWu9DcbOcaGy1TX39UYNFDbt8YsFv9/TbQ22vXurvtSmenXWprs4stLR4KoFPV1VZVWVkuqAhkYmTE7g4N+QZqsK/PpwQUSQEGFCmdqa3NAXU0NKQFFYE8uj9hk6OjHoi+Nzzsoe7cHMylBRxgjO98U1M5gJwtzc7akwfT9nB83KbHxnwDVgiIpDS6MgA5W5mft8WZGXs8NekTElShhHBJIwMIj1IEcvbq6aItz815IBIKgX5PVfkWkEalbQOIjTtbV5eDSQDkbOvFyl9AAgCIcfFZCYWbFgIhNgklTMdZdn3dNp8v28uFBe9PCERLbICKbRlQGllioJ21NQ+EPxJaDknoTKYil04ZgZx9fLNp26ur9vrZkh9XCAQELSBtVpheODa27HRNTalAzr6837EPGxseCH/CBwlGG0Y6/K2EcIiUlBQOcRgTAR2+2/b+IHToDwnxcAnNZ616IagUgJz92N/3CUlo+aMbFKaj7So0Nt0iNkwv1xJWPgL6ms36kcX90boDEAciqXC0wCE1QpcIQzn7+enAvu3ueql1fwDiISQUjitsvWQBo0kIoRlXCaNS5YEO3m55f4pdaKDiL1g1YPjDhU6QDhUBfd/b82LH/QFIUCQWvjpCOHzCn4QwlLNfnw89EGKHQLpBtCBCOAECxqaxXQlGpYqkJh2utPwRlMDUAgyvt/xJIR3K+Q0DBn9ISA1c2CEocMDgDt+REgyVv9Jq4LjY3CTOAJsnWAkPTBwkBRjKeX9IiS0DiAMJEFc7DgVMmUDCiv+e+neXESRf4UP+p+P/f1LHqv4AHo+BbQEwuT0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xu3VYUtUURDG8T2vxJeSJCmxiGSYoRlmhpmGmZlhmpqpmWZmZqaZ2WKmWURBRJ+i7znxP5dHT5ddKO+9ErQDA/rq/pjzzGwuV67/u5yV7mOt6KPXOjvtSnu7XbrQaq3NzXausdHO1Ndbvq7uuGDRR25d77WbPT3W29VlVzs67HJbm11sabHzTU0eBehEVZVVVlRkhYogo4ODdqe/3zeovu5uPyVQTAoYKKZ0qqYmC1AEmb43amNDQx5E3x0Y8KjbN/oOpgUOGM93tqEhC5Czhakpe3R/wh6MjNjE8LBvYMVATEpPlwHI2dLsrM1PTtrD8TE/IaGKTYgs6ckAkaMUQc5ePJ63xZkZD2JCIejneKVvgfRU2jZAbNzp2tp0MBvPln4DCQCI5+JvTSjctBBEsJlQQpCzwuqqrT9dtOdzcz4/IYhWsAGV2jJQerLEoK2VFQ8iPwq0MqRA5/O5g+lkCHL2/tW6bS4v28snC/65QhAIWiBtVji98NnYspPV1UcFOfv0dsvera15EPkJPySMNozp8L8mRIaYkiZFhjiMiUD7bzZ9fgh0mB8mxMcVaP7WqhdDpQBy9m13109IgVZ+dIPC6Wi7ij2bbhEbdvjj+tcVgT4XCv7J4vnRugOIg5hU+LTgCDWBPiKGcvb9w5592d72odb9AcRHmFD4XGHrRxYYzYQINM+VCmjv9YbPT6kLDSr+A6sGRn640AkwVAT6urPjgx3PDyChmFj40xHiyBP5SYihnP34uO9BBDsE6QbRQoQ4AYGxaWxXKiBCzXS40sqPUIKpBQyvt/KTAoZyfsPAkB8mpAYXdggFB4bsRJBUMNThlVaD42JzkzgDbJ6wCjyYlCEq5/PDlNgyQBxIQFztOApMRpCw9IE/7XKV69+qXwzjPgyHXQqCAAAAAElFTkSuQmCC",
     "wiki_name": "Mind rune (The Slug Menace)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mind_rune_(The_Slug_Menace)",
     "equipment": null,

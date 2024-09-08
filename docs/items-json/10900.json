@@ -1,7 +1,7 @@
 {
     "id": 10900,
     "name": "Crate part",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-06",
     "duplicate": true,
     "examine": "Part of a crate.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwklEQVR4Xu2U30vCUBiGPVfRTRKKopIpkmIDZyOtkdrAzEoJQRLpB0R0FXTT/w9fnW98Z2dnx9Ry6sVeeC7Gtu88O+/RWCxKlChbGQYuWxEGlXwC8cQ2JsjAKCYDpOI7yBql3B0wS6mZcLFsYncdUj8V5fZ8WOW0FhILscKgDMfIuzSrmQAhiQUrkkVUuIhtZH2sSMx9kS9CImotsohZjAdo13KCf4oxHGiV9rUyajWqCL1LOPU8oop5fxdzw2DYqYmBuIBGRq0GF5NEZJrlhE8Mz1j1AIXqhcI8KYYDZMRgjYxcDSGL6KDKuMxCQg89C+xq0oc8UCdDOyCjiow7Zd/HLFgZD4O30QVM+6fQNlI+VFGdTNc6DDBxKuL+XcuAvn28aGUUd1tJzKmlBaokRydy3SgifAa/Hjkmns8lK/PiPuyJPd42oVfPILKgjCxCMvwIjLsnAZGlZPxh8D4wcSf4Ai+DM7ixMggJ6qCPWKGIHAZPPQOGdgkhsUEjK+Rk+L2QROQw+Jhcwqh1JOBir/fnKEbw65BF5DD4nDr4Eya4JBcj/nRg/xcGX89XAqpGrUh9K+QEBdZU0exsXCBKlF/yDXuWLs2HllqEAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABq0lEQVR4Xu2U3UvCUBiHPVfRTRKKopIhkmIDZyNXI7WBmZUSgiTSB0R0FXTT/w9vvWecs3dnp4+hU4P94LkYY+95dn5nS6WSJEmykWHgsRFhUC9nOL7Y2gQZGJVsiFx6i7NCKW8HzGruW1CsmNlehdRXRaWdAFYtr0WIxVhhWAYxyh52oxAiJrFwRVREBUUcoxhgSWLeg7iIEFFroSJmJR2i2yxJFhRjfKBV3dXKqNWoIuJZgdsqc1Qx/3fxaxiMe005kC+gkVGr4YsREYpdywTE+Blr7P1dCAdQ5GCNDK1GQEV0RK7sbmCB08gGoAN1MmIHKKrItFcLvEwkqZfJGcyHx9A1cgFUUZ1M39oPMXPr8v5Nx4ChcxhFCONtqxBzm3mJKonoRC7bFQ7OwOuJa/LzGbEyNb7Y/bUNg1aBQwUpVETI4BGY9o8WFaFh8Doy+U7gAk+jE7iyChwhqEO8xBJFaBg8DAwYO1WOEBu1i1KOgvdiEqFh8DY7h0nnQIJiz7enXEyA1zGL0DB4n7v8ExagJIoJVigjwuDj8ULiVxN7RT9l7QJJkvyvfAI+hQJc1uh6kgAAAABJRU5ErkJggg==",
     "wiki_name": "Crate part",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crate_part",
     "equipment": null,

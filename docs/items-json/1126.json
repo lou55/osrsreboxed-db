@@ -1,7 +1,7 @@
 {
     "id": 1126,
     "name": "Black platebody",
-    "last_updated": "2024-02-09",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Provides excellent protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xs3XYUsUQRgH8LtXkoQiStI7P4LfREPRsCgsVBTfRGKIJJUiWiGIZagoCKIiagQRohT5ySb+s/z3nv07e7d7u4YDD7d7O3PP756ZndurVO5+q7pwhK7fequ6T/MDbnXukY/lN/1uaabPBxEH66Nuf+252/v8LIDSL1EYHoGIAoihmN2PT9235ZFEYpzjmkYSlQtZdWtvB2+g8AoIg6CvS4/d+rsh3xevIRD6W/Tvk3l3efi6ORRBOGZ1CNpeeeJB7JsGwrir4zn39/y9uz5f9CDk6O3p8aHZpUVl57cmCElDoI0PwzEIxyHQ4caLBAjHBGl2adXENCARFzfOFYTkQHB600Anm2PlgVglvAeQXQs20I/HCjrbGo9BiFwgrgsFMdm9lpY47re2xsf2moUC9H1nIgk6mi0GUggxFpQWGPtjd7I8UAhjQY1QGP9rfzoG/TldiDG5QVkwWVEhkGZPabX51w+uB6oHKwCK9iBUKA3U3tYWh2IQaePwPkB2U9Ts0qJbniDsKawUk+ODOzs6fKTBmPxBV5fvRyQrVAhEFJJqIhsWxS/BfjplTYNslSzoYXe3T2ZhaSA7DiDs0sRkAuEOawQiphGI600rlLE6aDWQriO7NhBZpgyVLB3Eu80mUogubju1IRBRmj3QIpBOG97nh+IxAq8KsRWyeAVhD8qxDyVBCGIYONenv1DgB9WObRqEu0ynzSZChZDMPgPh9w6BnxqMxXWg7aPKxcGrYiCdNryPJATxaZIgnBPEvgAdf3npfu5NxSDsQbn3IZ02BeG4HogVQt9SQKFpsyBcs/9KLAj9AEJ1SgCh3VygodD1w1AQnqUtiJEDVKlwW68XCrRh108poKxNkVmwjFrf/9QUGQodc6fbP+k+h4c4VshzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACe0lEQVR4Xu3X60sVQRjHcc8rScKQJOmvqjAqKoqKiqI3UhgiSReRbghiFywUBDGRUoSQKIr6y0a+u/y2Z5+dPWdvRS8aeDh7mdnnszOzs3uGhv790gvxiJ3/46UXXsxOhmczp5JYuH8yzN87kYQQG0tXwvri5bD28lIE5W+iNTwFCQVI4TGrzy+Gtwvnc4nZ55yPPKoWshcWH5wuoPgFohDo9fy5sPTwTFKX3xiI+hb9fXs2fN282wwlENvqHYHePb2QgFS3DES7b1sz4efOo/Br50kCqoXhorprgUgaAy0/PpuB2I6BNpev5kBsVwT1csNAIk1u9j2I5CA0vGWg7TfXuwOplzgGyM4FG9TTtgd9WrmRgYhaIM0LD1KyQ8PDWRweGcm27TkLBbT7/mYe9GG6HchDhLGgsqDt3uqt7kAxjAUNQtF+f/1OBvrxca4qhpIHVcFURTUEUX6Pv79wP1A/WAtQugbRQ2WgI6OjWXgMUdaO44BqLIrpIy8Qa4p6Ssm58NGxsSTKYEp+bHw8qSekeqgVSCiS+kQ2LEo3oXp+yBqDbC9Z0PGJiSSZhZWBbDtArNIVMZT0CRsEEmYQSPPN91AjkJ9Hdm4QVYaMnuwcpKfNJvIQP7nt0MZANVApyA8bx3VRPiP49RDbQxbvQaxBNdahPIgQRsG+//qLBS9U27YxiKfMD5tNRA+RzH4D8b4jeNXQlvOg7afKl42pdiA/bBwniUD6mhSIfYFUF9DWq2vh89rtDMQaVHsd8sPmQWz3A6mHqNsJKDZsFsQ5+6/EgqgHiN7pAEQpTtBY+Pmj8CC+pS1IUQNUtRSRCjt//iKoXykii/G/tCsHnzo8+0QFVS4AAAAASUVORK5CYII=",
     "wiki_name": "Black platebody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_platebody",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11519,
     "name": "Hunting mix(1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": false,
     "examine": "One dose of fishy Hunter potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xt2XW2sTURSFewj9DdqkseklprVpmsmlkzSXmmuTmUlSCy340GJBtNY092tbBcEHRQTfRRD8ocvZe5imFUGFJKNuWCSBIflYe+1zdmZm/p8SGMnyEqjkHHh5fB/vh9LfACXw5UME3z7F8LazyUB+l8sqKKNNBPT1YxRvmj4rWyewsLAEp9PFQKTXNS/sDifc7jUroAQ2NiQEgzLDfH4n47K6jg2fBK/XyNKUWycQjycRTySRSOwgkXyIpK5oNI5QKGINUDqdRTqTRSaTY9FngiPXLAEqFIooFhVcXFzh6uoV6vWm7lIKUiBsBRCV4BapqgZNK3H7zCkjGEuAUqkMw6iqyu2yEIZKIJvN6UAat46CPTc3b8XIUwnI8jbnSFFUfqUp29qKWpcfAqD8kDv53QIHmiDtdue0XRKQpBByuTwDUX7IoZ2dFCKRGFbcq9N2SXBeyBlzwqhts5V9BgqFI3yFTMklgQfrmxxmRRkBkWb3D/gYkKQwXIsr03JJ8Hjn87vsiglUKtHoa7ApZQQCW9j0B+Fw3Ju0S4JvcroiKMQmUPnsHJVaHXvVGrtkyxf5+lhcdE/aJcGnMd1f5riXdIhyo4lKs4W9Vhuzh4/ZJb8/BI9nHfPOhUm5ZOw/NEnZ4xMoz15AqzVQqjdQbnVRafew1+njUXfA4baFZb71l5Ym5pJALKa7c/IU+dMzqOd1aI0OSt0eyr0+Kv0B9gZDFrXMpk9hsHIAT7rAS9wEXDL2n8zzKnbrLai9IbT+EKXBBcrDy1uiltn0aQscHvHCtrzswZ279nFCCT5faLoyp1UUGjpQu3sNRNL6IxWqDQYKhmSeuNU173XbxtQ6Y82gw5ACXWy22aFb0gFNMZD+LF0jBOXzBcado5FDBKS0OlD08LLovalaC8XzJvJHTxh+ezvBUBNaaY1Q0/5Dh+KvRM/KcpQdGnO7zDLaRkB0bfxMvFfrDtLBSc/e3K3HDGPWzf/wv6cJwhhl/sCf6Mfv+GfrO0/RUhVRU8EtAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xu2WWWsTYRSG+xH6G9SksWtMa9O0k6WTNEvNNk1mycRCC160WBCtNc2+tlUQvFBE8F4EwR/6OueEsRQEEToZEQ+8JIGP8PCedWbm3wmBa7keAmbJh1fHD/BhLP0NUAJfPybw/XMK73qbbgNN0kRA3z4l8bYddjN1AvPzS/D7FxiI9KYRgtfnRyCw5gaUwMaGhGhUZpgv72Vc1texEZYQCrlSSwLpdBbpTBaZzC4y2UfIWkom04jFEu4A5fNF5AtFFAolFv0mOHLNFaByuYJKRcXFxRWurl6j2WxbLuUgReJuAFEITpGm6dB1g9PnYpdRCORyBYbRNI3T5SIMhUCxWLKAdE4dFfa9e3NuQQnI8g7Xkapq/Eldtr2ddA+IAKh+yB1lr8wFTZBer3/aUAKSFEOppDAQ1Q85tLubQyKRwkpgdfpAVC/kjN1hlLZZc5+BYvEEr5ApQQk8XN/kYlbVayDS7P4BjwFJimNhcWV6QNTeirLHrthAhkGtr8OjVhGJbGNzKwqf777TUII3Oa0IKmIbqHp2DrPRRK3eYJc8SoXXx+JiwHkgmsa0v+x2NyyIaqsNs91BrdPF7OETdmlrK4ZgcB1z/nmnoCb3D3VS8fgE6vOX0BstGM0Wqp0+zO4Atd4Qj/sjLm5PXOatv7TkmEsCqZTlzskzKKdn0M6b0Fs9GP0BqoMhzOEItdGYRSnzWF0YNQ8QzJf5iHMAanL/FF7UsdfsQBuMoQ/HMEYXqI4vb4hS5rG6LXJ4xAfb8nIQd+56bxNK8Hyh7iqc1lFuWUDd/k8gkj68VrneYqBoTOaOW10L3SYMxeTMoGFIBV1pd9mhG7IAbTGQ9ZbWCEGFw5HbB7IdIiC104NqFS+LvttqdFA5b0M5esrwOzsZhnLopJ0UNd0/NBR/J3ory0l2yAEYiknaCIjWxq/Ed7XlIA1OejuF25r+/E/1P5yLH8COHQpnlgzZAAAAAElFTkSuQmCC",
     "wiki_name": "Hunting mix (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hunting_mix#1_dose",
     "equipment": null,

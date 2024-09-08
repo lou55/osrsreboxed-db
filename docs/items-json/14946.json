@@ -1,7 +1,7 @@
 {
     "id": 14946,
     "name": "Clockwork",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A clockwork mechanism.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABLElEQVR4Xu3Vuw6CMBQGYIhh0Nk4M7toHHDQwZ3EQePg7OxL+AK+hpOzm49WLeRwDodyaaWFGP7kH+hgP3pBzxvyX/FFsXzcWXzxekzE+5n2fAiSyvH7bZzVEcrPIFU97VPgMgxtoxC0Xo2SSTmmNyB4hjF8thoEwFmpAzldJVp6oIsg67dQjaKlGDhTFm9hNWi3yW8fgDj4RxQu9zaKknIIn4yP014vQQY1gCHCpBxDK1EIaxxfHOO4UD6xqhygqvx9ed40bqQapCoHlRUwcN40MDLNQWWdTadZ+QoZfETdgDRWyR5oMUdML0CGf8TtgjgKP6SN0z5INkWk7XTLKAggGhgIvo0JkGMoiM/UOPm30QNyiME21UcHqIK0ilGlCugUUhYK6BQyZMg3Hx6TVDomF0jkAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABF0lEQVR4Xu3UMQ6CMBgFYBrDoDPxEC4mDjjo4E7ioHFwdvYSXsBrODm7ebSSQkrL6w+xtQWivOQNNDH9hL+NojG/FcbN4npnYfz1mPH3s+z5EBcV6/fbtGpHKFZB2nral0D8dYAo0Ho1KTZFzGBA8lmuqeegUQA5Kz2DROjPpA+0CQp+CmmUXh0hZyrgKWwH7Tb1zydBJvgrlHrd2zQtihDcDNf1Xi+xdhqtYQrhUsToFSiHa4LxY5YZxY2pIoCqJUaEBlFFUFMlRs2bVT4HNXWeJFXxDTncWX8EWi6sMSLhQA4nTMQvCFEOg+0fJFoiHC9G3MC2iFEg5+j/xh6IGA8gjB3QhHjFUGkHdghpSh3YI2TMmGEmBwgUGuK4I7oPAAAAAElFTkSuQmCC",
     "wiki_name": "Clockwork",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clockwork",
     "equipment": null,

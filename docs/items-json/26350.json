@@ -1,7 +1,7 @@
 {
     "id": 26350,
     "name": "Ancient mix(2)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-05",
     "duplicate": false,
     "examine": "Two doses of fishy ancient brew.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADa0lEQVR4Xt2X6U8TURTFfX+FskllEZUCVpYWS8vWIkuJUT+g0RgVBRQEiZgIlE1K2DchSAAbFMSIBIiCLGWPBjUxaIyoIAJBy/JPHOe9SYvFL5rQjnqTk0mTpvObc++dd7pjx/9TBJsSvAiOqh2QfHYvSjMlfwMUwd1yGdpq5NBl+DCggyKRUFB8myhQa2UgCtK9hWwdgbOzC5ycRAyIKjdVDHsHJ7i77xcCisDLSwJfXymDaS6RIjvFE17eEojF/CzZuHUEQUFKBCmUUCiCoVCGQMkpMDAIfn4yYYDCwlQIC1chPFzNRD9TOOqaIECRkVGIiopGVpYWWm0O0tLSOZdCITnkLwQQLcJaFBOjgf7GGGuhacsojCBAoaHh0Ghi0Zn5hs2TgDC0CFQqNQekQb9ujs2PnZ2jECtPi0AqPczm6EnuHJ7kf0LSCa1QG0aLsDWn89OTPYvenI8oie9gkPb2TrZ2iUAi8YNaHYH+wnkMFM+jv2gOD6/PIO9MC1zdPGztEmEvwu6sDzBUfsVo7SIM1QtoiluBPuU5EmJz2RFiI5cIDnj6oOHSKwxXfMFk4zIm7vBqPf8N9THLqE8wQCRytZVLhG1T0+UZDNeswVC7jpHbGxit2+Cu68yl6pAlxAVnwMFht7VdIuwkzz/9CPrkWTPQcM26GczkUrH0M0R73KztEmEvv/qLL9F+dQGDVasYql4zgxk4sI5kI3OpQrEITUAiHB2dreUSn3+Cg0PRlDiDjtRlDFQYMVhpxBAHNsyBUaC+W2uouziN4pMjyDnWDRcXd2u5RCCXK1F9bgotSe/RdXMFz0qNGCjjoMo5pyo4pyo5IN2qBVBMQAILcVZwic8/dRemce/KPHryVtBX/B39JUYObNWspzojOq4tmYFoWHNx3Yudu+y3E4pAJpOz7arK6IY+bwKdpW/xuOwtusrfcVdL6fMnUHpqnAH5+cvgsU9sbts2tY6PGfRlSAPZXQ7oQdFrC7XrXqGtcBr3C1+gPvMpYqOPI+9ELztKaNTd5jnadIgHGkdrwRSTPn8SLbljaM4ZQaN2CA1ZA0iP17EEGRISxh7ESgmSH2qafyIijlhIrf5V9HtyucLi9N92IPq09EY0A22VOVdzDpqytX9AoLVgTPXzf/jfkxVh+DLd4E+09Tf+2foBvaXKSgwoIdYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4Xu2W+0tTYRzGPX9Fecs1b5U3lpfN5uZ15mUS5Q8WRVSaWpomGaTOW07mfZrDxMuwNCMTFS+pm3cKMwiNyEozFWte/omn874HF9ZPgccT0QMPh8HYPud7ed/HxubfEYOfFlwMzqjskXbZDeU5kr8BikFrpQzttXJos32EBuLaRIDaqgNRnOUtZOsYODmJ4egookDEBRmesLN3hKvrcSGgGHh5SeDrK6UwzWVS5KV7wMtbAk9PQWaJQVCQEkEKJRSKYCiUIVCyDgwMgp+fTBigsLAIhIVHIDxcRU0+EzhSNUGAoqKiER0dg9xcDTSafGRmZrFVCoXkpL8QQEQMbVFsrBrGuxO0hQJuGRGD0NBwqNVx6Mp5S+dJQBgiBhERKhZIjSHtEp0fW1sHoaAYSKWn6Bz1Fyyhv+gTUuM1Qm0YEUPXnMxPb94i+vI/oiyxk0La2TkeNBQDicQPKlUkhkqWMaxbxlDpEp7emUfhpRY4u7gfPBA5CHtyP8Bc/RXjdasw61fQlLABY/pLJMcV0CvkgKAYnPDwQcP1OZiqvmC6cR1TDzm3Xf0GQ+w6DMlmiETOBwdEtqnpxjxMtVsw121j7MEOxut32Oc2rZI+ZA0Jwdmwtz/CNxRDb/Kii89gTFu0Aplqt61gu1XSST9DdNSFfyBy+BmSXqPj1gpGajYxqt+ygplZsM40C61SlWIV6oAUODg48QXF5Z/g4FA0pcyjM2Mdw1UWjFRbMMqCmVgwAjR4fwv1SbPQnR9D/tkeiMWu/AHJ5Uror8ygJfU9uu9t4EW5BcMVLFQlW6kqtlLVLJB2cw9QbEAyDXE8QHH5p/7aLB7dXEZv4QYGdd8xVGZhwTatHtBa0Hl7zQpEwprY2Q2HDtvtJxQDmUxOt6smuwfGwil0lS/gecUCuivfsc+9NhZNofzCJAXy85fB/ZjnfsIQcTGDHIYkkLWyQE9K3+xxh3YO7SWzeFzyCoacAcTFnENhfB+9SkjU3Xeg3QpxQJNoK56hNhZNo6VgAs35Y2jUjKIhdxhZiVqaIENCwuiL8JQguaEm+Scy8vQeq1S/m3xPLlfweftzbSN/RDLQr7bmaraCu9naPyCQL5hdkR//U/8Xf/oBLnGVP/jMj08AAAAASUVORK5CYII=",
     "wiki_name": "Ancient mix (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_mix#2_dose",
     "equipment": null,

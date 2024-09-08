@@ -1,7 +1,7 @@
 {
     "id": 20280,
     "name": "Puzzle box (master)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "I need to solve this!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4XtXWQWsTURQF4M6ihCnFUlpS0tC0Y0hkGkhDILalsVGMFd11r39E165d+wP0bz45L9yX0zNv7ExMLF4425mP+05eZmvr/5rEFfNkk7g3k767Hfd8pqOuzxMCF6C72czNbochV8PMZzI49SkCN4ZcgBiDDQED5LvLfZ9xfhJy0W/7bAC4wJSBDINgS/N5HgLQoHvsk2dHPkVgbeQSpB1SkGIQbPDbjzSk12n6PG8fhtRELfvz+dN2CKOsRwpSDDakPTzcS91Oul0VlbjrwbEHKQYPRrTYDGKMgRiD7QCE94zOznxUIJO4+WVeAOHYDPT1e+pjIC41Y6xHCtrbbQSQvj0yfwYZxkC/fn4JsQ5ZqdcAStyrYduDDMXFZoyCsCHboG4IsWK3DnbqHxfC27ENxUqtIMYg2inuj749Mol7f31eAMWOi0ttHdL+KAYbqgFK3OtRJ4D0yPS47MbmDfFtvRYQ+lO2odiRGUbLjQCkd9JJc7def4BBGGMb4gdrjxRUdkFyofXtMol7Oz4tBenq7ZKc3nR99C7S+2glkPUn1iF9uD86wnCXbEOxP1k+MhXIJO7jdOAxePj5VRqid5H1iEGM4fvo/sN9iP3rV+hP4u4mWQAxBlvCg/kItdhlIMXU2g76AxBjDKS/Nu1P7D5izEog9Acg2xL3SEGMMZBuSDuE9Nr71UE4MmwJML6LYiDGIIxREKMq9sdm+WnJMMS+jazYj4HSRsOHjyxrPau6neUs9XEcYC/zlhv3jx4UOwZiTM3jik8MhxiMcRfd5oNia6H9kWWLb+iVQTyGU6BuDTC8+EXnoFBsw6wFpBPDIWW4vz6uOlO2PYX9M5BODLfR46ozvL06mN/KyoPF9A1eRwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcElEQVR4XtXWQUsbURQFYGchYUQqokRiMJKGpMRAlECqYjQtTS3tzn37R9p11133B7R/88l5w31zcmaGzJOE4IWzapl+3Hv6dGfndU3iitnaJO7jdOAeJn2f2VXPZ4vADPQ4n7v5wzjkZtz1mY7OfYrAjSEzEGOwIWCA/Hx96DMZnoVcDto+GwBmmCqQYRBsabEYhgA06p36DLsnPkVgNDIHaYcUpBgEG/z9Nw3pd5o+b9vHIZGovD8/vu+GMMp6pCDFYEPaw+OD1O2lu3VRibsdnXqQYvBhRIvNIMYYiDHYDkA1MZjELa6HBRDOZqBff1IfA3GpGWM9UtDBfmN9IMMY6P+/nyHWISv1GkCJux+3PchQXGzGKAgbsg3qhhArdutory4Gk20H4e3YhspKrSDGINqp6P58ub0ogMrOxaW2Dml/FIMNRYAS9+GqE0B6Mj2Xvdi8IX6t1wJCf6o2VHYyw2i5EYD0TTpr7tfFYLJzIYyxDfGHtUcKqnogIwqduE+T80qQrt4eydldz0ffIn2PXgSy/pR1SD/uT0cY7pJtqOyHbMTJEvdtNvIYfPziJg3Rt8h6xCDG8Hv09PUpJP+pv3IS9zjtBhBjsCV8mE+oxa4CKSZqO+gPQIwxkP5v0/6UvUeMeREI/QHItsQ9UhBjDKQb0g4h/fZhfRBOhi0Bxm9RGYgxCGMUxKiaGBv85SwMQ+x3Iyv2KlDaaPjwybqtN7EgnnIcYO+HLTcZnCwVuwzEmMhzrZochxiMcZe95lKxtdD+ZN3o36HrThHHMPzD7zpHhWJvCKOzvL0q3BrPFTs5TmFbAvEsb0//9FXNMxJqPvWktr66AAAAAElFTkSuQmCC",
     "wiki_name": "Puzzle box (Zulrah)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Puzzle_box#Zulrah",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 3112,
     "name": "Stone ball",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": false,
     "examine": "Place on the stone mechanism in the right order to open the door.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABw0lEQVR4Xu3WwUsCQRQGcOcqkYSSpGR66eAh6lDUQSgooogoEAShKCKKIoqiQOgQ9IdPfG956+cwi+Hs7sV98GGR7vz2vdnJUqmooua7jJ2e3MrYbnnd7i1u26OlfXtRO5WcVY/tQaVndxa27Ea5mxfKyIJYGIjB8qXt187jKApYoDNGGdur7Mqiw3p/IoApDn9H5zJGGXtSPZRF7xtX9nZlKLmuD+IoLgeUkQWAAeKxcSMBjHEMxHszQo0xWAiQ5+ZdHMW5QEVhn6WMMjICLKCI1+aD5H31Kf7ZB2QUxp0Sysi+wAIMQT5bLxL9nXHaMd5TDNpst2dBRRhc2AcZtd7iMI5RGB+PLhiECyZBvtc+JD+dL3lVGKNwMxiddglnWBAId6kYF+KCfCjtEjqNLuHQDALhLhnkw2gUxCjuko4uCIQ7/A/G1yWEu4SxKWZmkG5oXNwF+OJ2CcE19KAM6I7WeB+5XWLIb2c0AeKRYVz6lKUAQkV7Kekp41G5GB0VDkb8Y04JhIo6peNjmAvhc4hHFbh/fBXtKX7yOL7zh5+qlDFaRhZyT28+d/gwzKArvnK/OycnB0xUPIJpcT9bVFFzW3905sEGuXPYZQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABs0lEQVR4Xu3VwUsCQRQGcOcqkYSSpGR46eAh6FDUQSgopAgxEAShKCKKIoqiQOgQ9Ie/+N7yxrfDSAszuwTtgw8VZee3782OlUpZZf3vMvR7CitDveom7S/v0PHKAY0ap5yz+oAOa33aXdqmrWqvKJThBbEwEJPVcxo3hjaCAhbonFGG+rU9XnTaHKcCmODwPTqXM8rQSf2IF71tXdD12pRz2ZzYCK4AlOEFgAHivnXFAUzjNBC/zQk1x2AhQB7bNzaCc4GCwj6LjDI8AiwgiOf2Hed1/cG+9wE1CuOOhDK8L7CAhiDvnSeOfNY46ZjeUxFACQYX9kFmnRcbjdMojE+PLhiECy6CfG68cb66H/wqMI3CzWB00iWcYUEg3KVgXIgL8qGkS+g0uoRDMwiEu9QgH0YiII3SXZLRBYFwh1kwvi4huksYWwAGZeyGxsVdgC9ulxBcQw7KQBBqvo/cLmnId3eWAumRYVzylEUAoZK9tOgp06NyMTIqHIz4Y44EQiWdkvFpmAvR51B6VNEwUsme0k+eju/8CXyqspThhdzTW587+jDMGSMl7c+Sssoq6+/WD338lgT/vzUZAAAAAElFTkSuQmCC",
     "wiki_name": "Stone ball (Purple)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_ball#Purple",
     "equipment": null,

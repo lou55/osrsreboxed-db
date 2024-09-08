@@ -1,7 +1,7 @@
 {
     "id": 27612,
     "name": "Venator bow (uncharged)",
-    "last_updated": "2024-05-11",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-01-11",
     "duplicate": false,
     "examine": "A bow used by hunters from a forgotten empire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrklEQVR4Xu2WXUvCUBzGPYSMhigycbjh1MEQXTiRfAnfCiLphRAjiiCoQIjCb9FdH6PLoO/X1dPOGRttJl3kPOeiB56bw3bOb/+3s0TiX0KJILrCUQQX0gsEgSIYJ+dYyB8MqFku84QiUDIarqRXvFmfYgDtNc4w218EMNyBzkePosBQERx2bkRIlS8vZZPenQgdRgEIHGuEo+4t7ygR6HkLFc2GVWyh70yD1EWf3JAIDLUGU3dQLbVZ2o77Dzyj5KWKRqde6bEICdBpXg0NijPeNeSB+G7XJzyjQ5CRFSgpFYWsgZQs85xDbiG7nbUtSQykqGkoqCpMw+AB5KWHHt5uOqGUcUiXO3NyJvK5XCgaUUffikkENbe1KUxJ13lEIyr3fyeb5QXz09j36sax7U0XLgmm7fc1H6jVaMQJFO6Q4GA93D1VpYOd/HCpmKO7/VEEhZQJPV1lNtI2s5nxLkl6P/nu2ids6E3HTwHMmoEI+13wTSPim16S9AqgaRu3LnE6mIeiFQuMtTXAwe518MW/OcY5QzBM3uNZfl952CpHd1qjlkGiT2xcwoCIpC/khS9kIcvb/AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABi0lEQVR4Xu2WS0vDQBSFO0gJhtBSUhqaoSkNhNJGGin2IX0piMUHUiqiCIIKBVH6L9z5M1wK/j9Xx9zEYFuKujCdWfTA2WRzv9x77swkEmtJJYbFLwLFcK48QxIohkFygqn6LgMQg542cam84NX5kANot3aK8d5UBhgSw1n/QRYYEsNB81ouIBrZsH0rAxQBMHhOH4etG9FADDznoGS6cAp1dLyR6NExWEYFNvdQLjaCsR117sUC0aioO9VSO+iQQJhIYYa6hbHoDIUgkRvVoViYtKpD1wzkMxY0VRUZZj/I/mZtKkoAUjBN5A0DtmWJAArHQ8Ub297cyITA8KyNXDYrqhuzYqj4q00wRc5Fw5D8904mIwpmWcEwN57rrhqILTltv4Ncr9XiBFrckK/CfH57ynoTW7le3GFmyGs2eKoc2Eq5ge10eEnS/RS55R4Hh95o8BgfDD0XIlNHItMlSVcAjW1Qv8BJd7LQwX8Xg7PRxf7O1cwf/+bYxNBL3uFJfVtFsb9KGpC1ftQnbxDjWviJ1zUAAAAASUVORK5CYII=",
     "wiki_name": "Venator bow (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Venator_bow#Uncharged",
     "equipment": {

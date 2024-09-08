@@ -1,7 +1,7 @@
 {
     "id": 729,
     "name": "Shaman's tome",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-08-20",
     "duplicate": false,
     "examine": "It looks like the Shaman's personal notes...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB70lEQVR4Xu3WTUvDQBAG4CwhFDzopRcFsR6KoIdKD4qgUBCFgogoCkU8ePDgwYPg/195M7xmOkmabBOaHBwYQj+yeTI7u0kU/Ufr4bxkL8L58ST2h8dRX1AC6hHK+aOpgHqAEowFdYhy/uRcQD1BCagaVScbh/OTS8EQ9PKV/KVGIQklXN/E/riVagpIozRIZxGIKJyPsU5HozTtVQLC+elMBiSKU2ZBOvXU6uo0xmiQxuhpQtpp1P8DZmu7ESiDFGFsQ5f1EP8DDMbJmj8oMsgqTBnK/kYMqrR7EFSlfFWqMEUo/d3OMMNczOP0c01QHqIxukHL0oJQDWKGe8s9VAHKY+wmGILCEQhOUSAGkd9nyjB1UAStiUEsP6cAO7spnrIqFCoESAMMQp7kGODqPvZ377KXoAkBsyutCMT+YWXQvGtiEALCQLeLxD98COj1Z+Bnj0mKLINxenAzLWEQAsKAuAAuaFcbYagaf8ORNwIEUQ0xCHk1Ze/gogCwj5jXz0n6PRNVfPqUiuIcVqohhmHfWSR1RThdgCy+B+mU4sinPHdlguwVgoN3pZMwXS32EKpDHFdXS9VZHYTpzZOo+VuSrkpMecBjoa2QatlKcelvpDo2WC0uAqJ0M9tzNhRSLW4TnVTHhm76zjE62sT8AkPvr45nevqiAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1UlEQVR4Xu3WTUvEMBAG4IZSFjzoZS8KIh4WQQ8Le1AEhQVRWBARRWERDx48ePAg+P8jb4fXjmlimza6RRwYyn6lTyeTZLPsP5KHsZKDCGMn09zu7mdDQQloQChj92YCGgBKMC5ohShjD44ENBCUgJpRbbJ3GDs9EQxB96/FZ2oUklDC9UNsT5JUU0AapUE6fSCi8PsEGISxs7kMSBSnzAXp1FObtDoapDF6mpDuNOrvAbO23gtUQXwYt6FDPcTvAINxquaPigryHSaEcj8jBlXa3IkC1avShPGh9Hsb4wpzvMjL1y1BdYjG6AYNpQtCNYgZb0X1UB3jboIxKFyB4BRFYhD1fSaEaYMiqCMG8fWcAuzw3D9lTShUCJAeGISc5Bjg9Cq3l0+yl6AJAXNXmg/E/mFl0LwdMQgBYaCLZWGvnwX08D6y85uiRIZgnB48TCIMQkAYEDfADd3VRhiqxs9w5YMAQVRPDEL+mrJ3cFMA2EfMs7uifJ+JKt6+SEXxG1aqJ4Yhm6KbuiKcLkCWb6NySnHlKc9dOREoFALT1WIPoTrEcXX9MEaH/6BdPBblqsSURxwLqUKq5VaKS/+XMTqqRUBUwmbuGlItbhMrxujgivyj8QGTaXHpW4QXzAAAAABJRU5ErkJggg==",
     "wiki_name": "Shaman's tome",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shaman's_tome",
     "equipment": null,

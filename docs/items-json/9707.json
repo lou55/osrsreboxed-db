@@ -1,7 +1,7 @@
 {
     "id": 9707,
     "name": "Training arrows",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-27",
     "duplicate": true,
     "examine": "Standard training arrows.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xu2TMUsDMRTHm1FnwUGK/QaKawfrIHQqgjqUClXp4lmqSxFEdNFOdtFFcfdzdPMbdPFj1P2VXEzy8pLclOcN3h8eTUh675ff5Wq1/xMBqkoLbi7g+eEezrvdsqAEXPT7v80FfEynMM4yaO+18vl2o+HA2jFLBNwMh3Dc6Rig7/kcXieTvFwgAZdnp5zWVPNBrwetZtMArdd34O76Ki8LJOB2NIKTo8OAtWQR8DWbOTYkzMrqmoELWdN76dMSxNrAdvT45enRXGwM5JpLFt8Gnn++vzkXm8JKGBYge1I7/1ksvIuN97LBxOxIIHyx8VpiEJ24HQpH9zIAhRvSeWiNAUamslOUyk5RKjtFiduhc7rGAOTb2D8YBwHoXhYY2lDDyF9ZdJ3RjmqObVCYjc0tD4bJjgujx7vtzIBJGA1BwVntYBv25NYIBWewIyNyG7IoTAhIH4DJjo5qqgvD0FdEgeiTkkVDxGBcCFY7sbhfmnuv1AHoP/4g/isqCcSmxFdUHA6YJU0kT+/rz/yhAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkklEQVR4XuWTsUoDQRCGs6XWgoWIjyDYpjAWQqogqEWIEBUbLyHaBEFEG01lGm0Ue58jnW+QxseI/cjm3Nvdf8erZnKCPyy5ySz3f/PvXq32f2QoX5UpNDf0eHdLp+12VVCGzrvdH3NDb+MxDbOMmjsNBghrcRm66vfpsNUqgD6nU3oejeYLk+udHDOQYsrNzzodatTrBdDq+hbdXF7Mlzc3dD0Y0NHBvi7Qx2QSpWFhlpZXCjgutTQ5Mfk0wnTc89PDfXGxQ6A4OTGlaYT1++sLXOwYFt8moNAgrr9ms+Rix3vFVZ6OBQovdrxXRThxfBwcrDoMGmLN91SEE5cB4F5x8YZY8z0V4cRlALhXXLwh1nxPRThxGQDuFRdviDXfUxFOXFZjT1w4saHdveEvALhXXKmhg7G/dmFfMZ3cPEwDYdY2NhMYpXRiGPe83cwKMAvjIBAc3yYgDxSm4c18IgiuBmTTsCuFyfshkBtACcYpN/XL/58e0UKAOKV3y0MsHMYq/tLSo6xElR5Rmf4UjJ6+AZl+9v5gdiiAAAAAAElFTkSuQmCC",
     "wiki_name": "Training arrows",
     "wiki_url": "https://oldschool.runescape.wiki/w/Training_arrows",
     "equipment": null,

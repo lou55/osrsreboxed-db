@@ -1,7 +1,7 @@
 {
     "id": 1547,
     "name": "Key",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-09-23",
     "duplicate": false,
     "examine": "A magenta key from Melzar's Maze.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvUlEQVR4Xu2Wv0vDQBTHc4QQEo5MnTJ1cVUHoYOC/hEKCgoKijjrLCKiiIjiKi7iKIqIm6AoVAVFUVAKHYpCoeAmVDI9eSdJk7ukFsldOvQLb7j8uPfhe9/kTtM66sgXAbEyE4E9a1eojKCiMCX6Bp5bzwqqAbNlbcIzfYJPpwZeVx28vu8soBpAfH4QKnyvN59XAZUMxN9TABRt2qwUALUGsmauwogxLBOouSsX9jnc0hsW7gNrHxbMeRjSB2UBJYOc2afwSl/gkT4woCv7Enas7SBLCJMiULIr+Kmf2MdBY758kJRgkkHmjFnYMNfhyD4UGvPFz/pPxYNgHmaMaRZW3gV+hhRFoO58CTADej9MGZOwYi4LrvAzpKh4Z7AmjHG1rsTBoFNlWoIevbs9XMFS6ApKhFkyF9k/pUivI1CZwPiFRwhcKvzR8U7xs6SoKBA6gyD39C4AqDof7MAVfk4iFIlt9u5UmDvhMRaOC3pB9vKRoHkYCq/VnCqMGaNsjEuH45yWkw2EIlBxygIU7tiu5oayo/hr85clmpX4fYp/W5J+Q8xDKQSIE2FZwWOFory0IuV5+VsZ5KV99AOJ2WE3skPSKQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnklEQVR4Xu2Wv0vDQBiGc4QjJByZOmV31UXooKB/hIKCgoIizjqLiCgioriKiziKIuImKAr+AEVRUAodikKh4CZEMn3yXWl7yV1Ch97FoQ98w6WFe3jvbXqW1aVLAwLy5AaBfXdPmpyk4jIl9gFREOYl1ZLZdrfglb3At1+DqCeEqP83D6mWULI/KPWvhOTPtBPfNGsMCLUnsu6swSgd0SmUncqldwH37I6X+9A9gEVnAYbtIV1C6SLn3hm8szd4Zk9c6Nq7gl13R+hTR0lPBX/qp96JsHFyOkq6yDydg01nA469Ix0bq1CLYB9m6Qwvq6YUVBAI/R9JZtAegGk6BavOiikRRJ0MziSdMJuKSgaTKrMS9Nm9pkQQWUQcg6kgssyys8TfKbfsJiGlHVmmMXiFwKPCF53BpOJCmAyKPLKHpkDV/+IXLvF7GqWIcrNPv8LTEdc4uC7aRZ1CCGluLkrhs5pfhXE6xtd4dLguWAXdQgiBil+WpPAfO7ACoTvaOyRSP5qklEEBFfUSy1K5QnhX8FphqC/tYLwvXTL5A3y1H0W4rM3rAAAAAElFTkSuQmCC",
     "wiki_name": "Key (magenta)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Key_(magenta)",
     "equipment": null,

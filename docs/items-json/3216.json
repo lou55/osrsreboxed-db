@@ -1,7 +1,7 @@
 {
     "id": 3216,
     "name": "Barrel",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": false,
     "examine": "An empty barrel.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcElEQVR4Xu2X3UsbQRTFMw9FKqEiSkMbmiaCFqKkRjCN2EhEQk0T0qj5aK0fVVoQfBAEHwp9EIRC/+orZ5a7e3cyWbE7m770wiHDsmR+e869s2wq9b+clqJoTaSCDbub83S4k6GL9kuty09Zrav9LJUK05OAUtSrzdOw/lyDnDQy9OPjKAyEdXN9Lkm3lAaAKwDC+uzDCw0kQa57r7SwBijuKS+mk4BSVHmT9mMy3WGYm0HOF65tFJ/5QKv5vCso5UeCGABkuiNhfn7J0a+vr/W17dUZ/SDOgWRvAGgx+9TqDsPUVmY0DB4gMSDuDQnHEwa3IEQJYDQ/4gUQYivmnE1dAAMHZNMyFIMBCFECCo0PqHZ1jhprs/4x4MAlFYqD+0SC2aDgEqDgEqASA2KZUDJCW3RwqZCZihtbGAbNyopya1x0DlwKgABxe1zQklA2t8ZFh6nLzD6J45IKuQOYu1MPisEkFINFRRfTJTUC8/t8Qf8ymM0t2U9mdHApFlC/06HP3a4P8+f7wgiU6VZUdICKBYSNAHS4v0dHvQP6Nhz6UAxm9pYZ3U6tRlvVKr0rl2mtVIoHhCfGZgx0MuhrYQ3hOgRo1l6zSe1Gg3a36xrmfaWiYd4uL1NxaSkOEMpzCU4wkA0G0R60WlomDL9CZP/EAmKXuI9kVPJM4tHns4ib2QZk7vLIClyKAuIJ4+nicef3mQN3uLzzCADjgOTIPwRk/vtfVtgl2zkkgeSBCCCH7nCFXTLH3QYk+8exO1xeg/OhaMY2DigBd2Qpf+IeC2T+k8PyvrWigPiehN0JytvA/HQehZgIjCxz438CMcm6B2Rilf8Ud9mCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACR0lEQVR4Xu3V20sCURAG8M5DRBFFKElJhkEGGpZBZpRRhJQpZWXZ/UZB0EMQ9BD0EARBf/XEd2R2Z4/rvuyFHhwYWkTYn9/MOfX19SrQUuTdkZT9wsZanC62E/Rcn9T9cpDU/XqUpHx6KAqUomY5Tq3NcQ25qSToaa8Tg8ZzdTkWZlpKA5AKQHi+35nQIAl5a07pxjOg+E5hdjgMlKLi3LA1JjMdxryfpqzGZ6vZkTBAyhoJxgCQmY7EfJyn6PNyWn+2tTiqf0jgILkbAM0mB13TYUx5flRj8ANCA/FuSByfMKSFxigBxvJjvABhbNlUYKfOxiABubSMYhhAGCVQWHyg6qUYVZbGgrwGlGMcvCcS5oZCSkAhJaBCA3GbKDlCt9EhpXRiwC/KicGycnul1W10AaRkg4D4uk7rlii3tLqNDqcuMdbvB6Uc6QDzfdtGMUyiGOY1Op8pqQ7Mz8OM/sswt7TkPpmjQ0q+QCf7+3TWaFiY38eZDpSZltfogPIFwosAujg6pKvmMd21WhaKYeZumaPbLpdpo1SilUKBlvJ5fyD8YryMQTenJ7rxjMbnaKC5D6tVqlcqtLu1qTHrxaLGLORylM1k/IBQ7ZSQBIPcMBjtca2m28TwvxCf+8Nlp8R7JEcl7yQ++nwX8TIHDELZKXmB+ITx6eLjzv/PAsKg2vcRAN1A8shHAEI5U3K7hyRIXogABYxBOVMyj7sbSO5PCCBUe8H5UjTH1g0UEoZLWSfun4BQeIHyBPF3IsDIki81u1fR1B8sw2D0y/OKQQAAAABJRU5ErkJggg==",
     "wiki_name": "Barrel",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barrel",
     "equipment": null,

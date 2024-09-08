@@ -1,7 +1,7 @@
 {
     "id": 18432,
     "name": "Flash powder",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-22",
     "duplicate": true,
     "examine": "A small satchel of bright powder!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACk0lEQVR4Xu2Wz0tUcRTFfYsWiiRhKBmmGVOokTpkGg1T0pQyM6BhE6KlUkk5IROChFEJQ+gmMJDcJS3CRbsW1i7alKv6l26c+zhvvvPmhzPN923EC4eZxTDfD+ec+32vru5oDu84Up0CG/eA5MilqhQQVA4kHu2tWKORHv20DJWDmYj1qXjYQYpd7bYN5cIQZPL2gKTGwh4UDiylkaHzqkKo/wYrDgPhuwnFw01FB0MqP1SNvXI8CGoqfllFqJ2dL7K5+VHerL2TzPNXChEJn1MN95/VTxMM/9nf2anyn1bhOPJgfKhAe3s/ZHf3q2xvf5aNjQ+yurou6fSKzMw8VhBo8GJHHpQFGI4jC/cinn79/iP7+39V377/VLCtrU+Szb6XublFSaVmJdzTriKURRhO9XcQBKgAYDiOdqec0CuAoMSJxGSwMOvLE7L2LOEVm+JVQBAUuLmpQY431ktD/bFatqrU5GBeLIxKZvamdmk6eUVdAQRKi3i6u1rlzKkT0trcGBRUPszyfEyW7t+Qh3evKRCcARA2iUBd7SelraUpCCgXJruUlNeLcQ8oPX1dgRAXYsL9AiBsVG+oTUIdLepSAFCFQIjr6VRU5u8Ma3fYG0SG9e67cNpzyYQCDIFqKLgjbzPjGtfLJ2Oy8uiWB4TLEQ7xEYIiMza6xOjojhUgf1ymQyw1Y4NLiA0uMTYzLitAfnfQH2wYHOK6c9URmVlsRAUYq0CmO9guvzt84vtLjajojkUgjJPXHWxXKXdYaP89BLnbZe3WdtQdRAV3+PpRzB0WGTCUCWIBhuM+8RFVuXWnO5RFV4qN+25UziFuFxQwDMfxgMyHKTcMUJb7UsnwZb24AujLwWMeWkz+3x+N7fkHxeEkCIdJwA4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeElEQVR4Xu2WwUtUURjFfYsWiiRhKBkmGVOokTZkGg1T0pQyM6BhE6KlUkk5IROChFEJQ+gmMJDcJS3CRbsW1i7alKv6l7443+O8ufPGmZzm3k35wWFmd3+cc757X13dwfy740l1cjb+Aemhc1XJEVQBJBnv2beGY936axmqADOW6FXxsD8pcanLNpQPQ5DxG+clMxINoHBgOQ0NnFaVQv012N4wEP6bUDzcVLw/ogpD1dgrL4CgJpIXVITa2voo6+vv5OXKa8k9ea4Qsegp1WDfSf01wWqA4Xhyd3SgRDs7X2V7+5Nsbn6QtbW3sry8KtnskkxNPVAQqP9sRxGUBRiOJ3O3Y4G+//gpu7u/VJ+/fFOwjY33ks+/kZmZeclkpiXa3a4ilEUYTvV3EAQoBzAcT7tTSegVQFDiVGrcLczq4pisPE4FxaZ4FRAEBW5uapDDjfXSUH/IBVQB5uncsOSmr2mXJtMX1RVAoLSIp6uzVU4cOyKtzY2uoIphFmcTsnDnqty7dVmB4AyAsEkE6mw/Km0tTS6gfJj8QlpezCcDoOzkFQVCXIgJ9wuAsFE9kTaJdLSoSw6gSoEQ16OJuMzeHNTusDeIDOvde+Z44JIJBRgrQK9yoxrXs4cjsnT/egCEyxEO8QlBkRkbXWJ0dMcKUDgu0yGWmrHBJcQGlxibGZcVoLA76A82DA5x3bnqiMwsNqICjFUg0x1sV9gdvvjhUiMqumMRCOMVdQfbVc4dFjp8D0E+SM0wHE/dQVRwh58fe7nDIgOGsghijv/iI6pK6053KEcwHP/bqJJD3C7IMQzHC4DMx5QbBijLfdnP8MByOpj/cH4DV23u7uPujgkAAAAASUVORK5CYII=",
     "wiki_name": "Flash powder",
     "wiki_url": "https://oldschool.runescape.wiki/w/Flash_powder",
     "equipment": null,

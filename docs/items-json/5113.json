@@ -1,7 +1,7 @@
 {
     "id": 5113,
     "name": "Acorn",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-06",
     "duplicate": true,
     "examine": "Plant this in a plantpot of soil to grow a sapling.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACY0lEQVR4Xu2W3UsbURDFvUgJhmCQXRLWJdE1aImKpgFTAgYsfqGIBCxKiygWBMGHlkIf+tb/fMyZ69x7d2N1NdnEhwycpyR3f3Nmzt1MTU1qUu+uFGmNvTRIfuYDy4KNBU7RcjhntZqnSpQjv9yDK0yPGkpRa8WjzkbI2mlU6fSiRIddn3aOPNpsFRiosbg4KigNBBBR93uZjr/6DAU127OjcklRszbHQLvNBaOzqzJDQXArCHOjckkDtes+HWxFRt9u5+n8JmAgcQcwGQG56bFAR5+XjAAEGOxQ5jCBl6diIReLNoD2GwHDYGRY7s1aiROX4agUfax6/BBA+cWZPiiMC0sNmKSTcQ1cih8ianWKVN/Qd03/JailXVG0/qnAkibg7oBQve7X5nkMEmfsBpYVUK5Tdlc0FL7X2e/t2JciOxsFswxmgd9Uik7aNbq8s8kBFISHoXvpWmB+/Azp+j7kyMt9tHfi0VrkG7ABXFK8G3d/qka3vysMhs5xOFxyge7/VunXv6ivieZK2UC9waX4TnS3lw0MHEDXcMg9XIDgDr4DCRQuy1Y94B1EOF4BpAEwBpELhofgcHSMMcRh7BkChAYAKNeBuJQSSPGy4oVYKVnFF7E/TU8frD/H/sFduRIQEEClAFJm+SQdMhJAuQcIxP9hdEkD8o6DQxjb842YUjxrNxUAw7wlFS8c8EylddWUMrOWN7SADesVkNbVx9JRRYokES7YK5ZwWKWjCiGmkPyFwBK6UU3+MsOyURU4SKKacvbDLr10iChSgZgmgZK/yLwkqkmNwZ14JVMxVphJOfUAO1chH/af+kIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xu2W3UsCQRTFHSIkkSR2UdZFY5MKK8yEDCGh6IsiQiiKIoqCIOihCHrorf/85rnDnd1tLayt3R68cJ7cmfndjzNjJjOKUfy7UKSVemiQ3MQ4ywdLBU7RrDvlayFHFS9LdqkPlx9LGkpRe86ibsNlbTSrdHRWpL2eTRv7Fi238+kAAUTUuyjRwYnNUFCrM5kUlKJWbYqBtlrTRsdXJYaCUC3HzSYL1KnbtLvqGZ3flen0xmGgBKoTdI8PtL82YwQgwGCG/hzGsXJUyGdD1gbQTtNhGLQMw71cK7Lj/hBI0XzV4kMAZRcmIlBoF4YaMB8rGVbsUHyIqN0tUL2h75roJRg8VNHSSp4lSaC6MaH62S+WuQ1iZ8wGhhVQ4Ur5ayB8193pz9hmgSvrOZMMFhvosFOjy3vfOYCCcBiyD2et6PbRpesHly0v99H2oUWLnm3AYkApno37l6rR3XOFwZA5NkeVgkAPr1V6evMiSbTmSgbqB0DhmeitzxoYVABZo0LRzRVXB99AAoXLsl13eAZhjm8AaQC0QRQEwyHYHBmjDYM31t9BSACAch1IlQavi4TiYcWDWCn6Cg9iuHLh9cHQv2P+UF25EmAQQH29lkOZ4RN3SEsANcQGn4QybxwqhLYNuZfiXgddATD0O6YrMsNX1YQyvZYXWsASeAIGhbYqXCSOCIJ9Ywh/K7RVIdgUkr8QGMIfWPU3wreqwEFi1YRhJPTQwaJwBWyaMpDER1ekCjOK/x3v2wPWhNq0ZnAAAAAASUVORK5CYII=",
     "wiki_name": "Acorn",
     "wiki_url": "https://oldschool.runescape.wiki/w/Acorn",
     "equipment": null,

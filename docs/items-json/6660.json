@@ -1,7 +1,7 @@
 {
     "id": 6660,
     "name": "Fishing explosive",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-24",
     "duplicate": false,
     "examine": "The jar keeps shaking...I'm scared.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACG0lEQVR4Xu2U/0tTURjGPf+JIBSxcC7mNDbTMPNbmGZmZn7JlpnO6fzSWMultlYLUWlBQfRTIPhXPvE867h5mdrW2vzhPvByL5dzzvt5n/e9p6HBlStXrqolg3xcChnMTUxgbGjoD1Td4PKJuzs6MDs+jqVns0hGPIiFr2Fp+kqtoQxaW7y42tSEvttdcii1FkM8EkE24UN6w4tU9HqlUMU2XxSFPQN3uhEKBOD1eDD9aEwwhPrxqQ3fMwHkdvza09LYWA6UwY3mZlXLaPP5cNPvVzDZrfZ2RVcwqChAFeaGYHyuLywgHY/j12HwJI5yIUch58qcJLvb2amD7/f2YnRwEI+Hh/H04ahmIzw5iVczM5qRQsVGAPzGNfd6evT+MZnE8deQYKyrXP8XLhlZTQgeNtLfryqfPBiR/ax+fmpKSVZehJWcLSkG2n29iTfRKJafz2kP13/e2pJLmUSiHBjKqCWEKOUGk8Rezgvi7eoKtjfWlchWbc/gNwvqjDJgKCNnSkFsLi6qcg4oXWC1rHx/Zxs/Dw6w9y51Cqo4uTNO5zxXRr8rnSnVmmJXOBdfPqTxLZsVmLP6CpKfJaOZucgdwuQyGYE5Yaoso/k5yx26wfYcvt+tZEgrlZFDTncIQEcIZIe5BjBUvm3WHdsqOzt8ryGMlREM3bHtIgifdYCxMrrcCESXGHWEsfqni+3/yEJcChhXrlxVQb8BTqwEWI7okXIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/UlEQVR4Xu2U+0/acBTF/f4tJjMGA7IgasBX1PmMovicb4dvhuKLMBRREcUYNcNkS4w/LVmyv/KYc1ktaqdSHfhDT3LTpml7P/fc05aUWLJkydJbSSFb70IKs6OjGOzp+QtVNLhs4+a6OkwPD2NlZhqxoA3hQDlWJj8UGkqhqtKBstJStDc1ikPx9TAiwSDSUSeSmw7EQxVmoXJtfq70ZzpbmuF1u+Gw2TA5NCgwhLo+qcbPlBuZfZcZIIWPdrtMy6p2OlHrckmxWX1NjVSjxyOlN9BzQzAeNxYXkYxE8OvSc1e/M958oNRds08NDfLi3rY2+Lu6MOLzYXzAL9kIjI1haWpKMpILRABe4z3dra1yfhyL4c+VV2Aeu/qklFhNCL6sr6NDpvzc3yf2c/r5iQlpsjoXkOZcSS7QwfYWvoVC+PplVp7h/ae7u+JSKhrNB4ZSshJCGLnBJuGFeYHYWVtFYnNDGt2fWsk1HfRh5SUlzhhBbC0vy+QMKF3gtJz8fD+Bm4sLnO3F70GZaG4kJZ8rnTFaTa4rzMX3oyR+pNMC9kYARlKSmefcIUwmlRKw/whDKcnPv9yhG1zP5eGBmZCalRKHHrpDADpCID3MBVF2bZo72qq07PC8gDCalMDQHW1dBOGxCDCalPzcCESXWEWE0fSqH5slS5YsvUS3Y6HPPlJkliMAAAAASUVORK5CYII=",
     "wiki_name": "Fishing explosive",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fishing_explosive",
     "equipment": null,

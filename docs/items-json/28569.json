@@ -1,7 +1,7 @@
 {
     "id": 28569,
     "name": "Trinket of advanced weaponry",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-08-23",
     "duplicate": true,
     "examine": "A magic rock! This one gives you a random corrupted weapon instead.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB10lEQVR4Xu3W3UoCURAHcM9FiIsYoiQqmSYZZviFmWFEj+Blt9V1j9TL9GIn/rvMOjt7zn6LEQ78Ib3Y/TFn5lipdKr/X0rvc/RS+mYw8BPEJUmhpfTtcGgNh5pSKZeLRCl9NxoZI2E2IIHm/X5elNL347ExaWBVxykCpPRsMgnFBJKRoPNarRjQcjoNRKJsHSMUgRr1el6Q0g/zmR8JioIhP20nkHarlQek9ONi4ScOxXHfjUoo6NB1r5d105R+Wq3c2EAywHDAe/XMDf6mYwMow2Ar/bxeuzGhvj4/3HCMCcLDQSkHW+mXzcYKIgwlCkIDzjcNoBSD7a03QDaUCcQR/Pj4xnHQVbebD4QQ4G2380PfmebLBqLVTzjY3n3zut2GUPRy6hbCO0WoKBCCteczFNMlD4SH2VD8CDnKBuKoy05HXzSbSTFU4S7J45Momi9+bPJeQgBKuWEoc5fiYBwkO4VgkDN0BxUEUaJg8mqQMGwWupMBQ+Wh5O+SKRIlYbTquX/D5BxQ6CgQvBDf8Y5JGED83skIQsn/g+2hbkoY1hzdKQDjFT0kLnghdZBmDGsuuyOff+BSLoDfPfhcWHeylXI7QjfzkTFU+9n6AxivgvN1qsPUL3FOOkq4G/PbAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxElEQVR4Xu3W0UoCQRQGYOciRBFDlEQlwyTDDM0wM4zoEbzstrrukXqZXmzi3+WsZ8/OrDu7AwvlgR90L/TjzDmjlcqx/n4pvU/ppfTVaBQljssSr6X09XhsDYeaUqtWfaKUvplMjJEwG9AjSOnb6dQYF1ijXvcBUnoxmyViAslI0Gmz6Qd0P5/HIlG2jhGKQO1WqyhI6Ye7RRQJSoMhP716LL1utwhI6cflMsohFMd9t2uJoEOXw2HewVb6abUKYgPJAMMB742TIHhNxwZQjsFW+nm9DmJCfX1+BOEYE4SHgxwHW+mXzcYKIgwlDUIDzjcNIIfBDtcbIBvKBOIIfnx84zjoYjAoBkII8LbbRaFnpvmygWj1Mw52eN+8brcJFH05dQvhnSJUGgjB2jvMUAjCh9lQ/Ag5ygbiqPN+X591OlkxVMkuyeOTKJovfmzyXkIAcugOlblLh2AcJDuFYJBzdAcVB1HSYPJqkDBsFrqTA0MVouTvkikSJWG06oV/w+QcUOgoEHwhnvGOSRhADvdOWuEDsoW6KWFYc3THA8a19n/gaMaw5h67k6dUAOB3D96XhKFSQUfoZi4ZQ8Xn61j/qH4B81L8lkxXijEAAAAASUVORK5CYII=",
     "wiki_name": "Trinket of advanced weaponry",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trinket_of_advanced_weaponry",
     "equipment": null,

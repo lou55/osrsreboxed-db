@@ -1,7 +1,7 @@
 {
     "id": 9878,
     "name": "Carved oak magic wardrobe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "Carved oak magic wardrobe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQUlEQVR4Xs3X70tTURgH8O1P6GVvypACE8yFqZG4JMNSYYqmY8ssSymjX5aNZVr+yDJjIMukICEQEylf9SKKov6yJ79nfOe5j2e2627hgYfde3fc+ew55zw7hkJ7v4XFHa73/3kLy/xYl8ylO03Mpjpk5kHMBBErC1fkQ6Zfll9dcqD0lygZngMRBRBDY96/vChLswnPwLjHezq8KF/IsGTGu7eh8AoIg6DFmbgsPO0xffHqAqG/jf6xPibfVu/vDkUQrpkdgt69SBoQ+xYC4e++r6Xl18ak/N6YNiCMUV1WZkKPrlou7fzWBGFQFyg71ZsH4doFWs0OeEC4JkiPrlrYMw0YiIsb9xqEwYHg9BYCrb8ZDA7ELOGZC8RMEoSsadDnt0N5EMIXiOuCIHsxlhIe0MeH5plvEO5Hb56VkRvNcuvaaRkeiMr1/kYZSJ6Sy/F6SXTXSryzRi7EjkvH+WPS3lIlLU1HpTlaIU0NR6Shtlzqaw7JichB81mBgB7dPSep2y0GdWfojIEBNdjXYFB9PXUGBlRXW8SgWpsrDcxGEfTz00QesyvQk9E2GR9pNSidLaDsbNVVV3hQyFTjycMG5QLp0Qu03JxjgeJ1Jh2TqVS7QTFbkcpyidZV5QP3DD19yBJQuwTlahAyRNDcxGYdetxhUAf27zMwG6RxWFPIElDMElAE2UVRj65abstrUGZ6c+tPdhkUsoUpJAJTZF/jFVMHOIOLPDBQ9nmvQSFTGACZ2ilDWOT2zuMCLxmEIGjhWY/nW9trRgcyxSzZCxyfhSpNTFEg7DANWpyLGxCzhGnjwAyUA+463LtKATNUZHbQtkBE4dnSfCI/bVxL9q5DKShUn+ypCxTELAHELOn69DcUQUTp0R0tB7KnzTzLJA1IZ8kvCp+FGuSjDnlBNiqIwI+rbxB2mQbxSIEjBw5aOE7YZyCcCBD4qeHRA31xVEH/L8vD8nXlXmkgvdvw3AbZZyBiCGJfgNZeX/WAUIN81yHXtNkgXO8EYobQNxCQa9psEN6z/yuxQegHEKerRBDa9sXoCr1+GBqEs7QNYvgAhUIs6zuFBtphr59AQMU2jSwGy9jq+5+aRrpC/82ebn8ACQobPKM7PzIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xu3X70tTURgHcPcn9LI3RUiBCdbCnNFwSYuVCpvM5tgya6WU0S/LxjItdVnLGIxlUpAQiImUr3oRRVF/2ZPfM7/j3LO7ubvdohcdeLg/drz3s+c85+zY0vLvN4/Yh93nf7x5ZGk6KrnMoIrFdESy98MqiFgrXJb3+VFZfXnRBmV+iabhJRBRADFMzLsXF2RlMWF5Ma7xmRlWlCOkR/IzQxUoHAFhELScjUvhSUz1xdEOhP46+vvmtHxdv9cYiiCcMzsEvX2eVCD2rQbC333byMjPrTn5tbWgQI4weCi/NUF4qR2oOD9cBuHcDrReTFlAOK8T5LEMA17E4sa1CcLLgeDwVgNtvh5zD8Qs4Z4diJkkCFkzQZ/ejJdBCEcg1gVBejE2ExbQhwc793dtVhCup26ckcnrQbl59ZRMpAJybbRHUsmTcineLYmhLokPdsr58DGJnDsiA6EOCfUelmCgTXr9h8Tf1SrdnQfkuHe/epYroId3zkr6Vkihbo+fVjCgxkb8CjUS8ykYUNF+r0L1BdsVTEcR9OPjbL0YtErQ46l+mZnsUygzW0Dp2fIdbbOgkKmeEwcVqkEQWmnMUaA4ZjNhmU8PKBSz5W1vlYCvoxy4ZpjDhywB1SCotAYhQwTlZrfXoUcRhdq3d4+C6SATh5pCloBiloAiyMGiWJryJii/sD3156IKhWxhCInAEOnnOGLoAGewyF0DFZ8NKxQyhRcgU7UyhCLXZx4LvGkQgqDC05jlW+s1YwYyxSzpBY5nYZWuE4NWmmEmaDkXVyBmCcPGFzOwHHDW4dpuKWCGGgIRhXsrS4nysLGW9FmHpaDa+qQPnasgZgkgZslcn3ZDEeQAVQLpw6bu5ZMKZGbJKQrPwhrkYB2ygnSUG4EfV8cgzDITxC0FthzYaGE7oe+BsCNA4KeGWw/0xVYF/T+vTsiXtbvNgczZhvs6SN8DEUMQ+wK08eqKBYQ1yPE6ZDdsOgjntUDMEPq6ArIbNh2Ez/T/SnQQ+gHE4WoShFZZjHZh1g/DBGEvrYMYDkD1tkokQ6+fvwiq1SqRlfG/Ndd+A7730KE9wyuEAAAAAElFTkSuQmCC",
     "wiki_name": "Carved oak magic wardrobe (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Carved_oak_magic_wardrobe_(flatpack)",
     "equipment": null,

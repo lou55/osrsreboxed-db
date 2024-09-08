@@ -1,7 +1,7 @@
 {
     "id": 23919,
     "name": "Crystal crown",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A crown fit for the most wealthy of elves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xu1WW08TURBm9QFCvASFQFCBCtRCrZRCLSQECaCIBolISBoCIQQkioUQwBsgXriFa00sNPFB44NvGl988sU3E//UuN+cnO7uqa1uKZiYfslkk7N7Zr4z882czcrKIIP/HxqpK2JNtUOBRr3dJUpAjcZHnBS666TpB1U0N+2mof7zh0VKo6stReQsPx7LxOozL9v6i1o2kMO6t6yMLT5zaSWqUU/XOWppKmTHa4teiu60UzTcQZHNJmr058eRuTdcSaODFZy1gT4HBXtK008KTkEsGu40lVCYQUZ8uzB7kR5NVnM5p+67aGyogvpuq2XfFzR6sxGg12v1dPNaMRXkZ1uIGGTEtyCA55MpN2cU5Kyk0lJGjTZf+dipoyQ3gVOxpgZ+OVfDmRoeKOd3ne3F1NRQkMCHLWjsFCXraC2K6Ufa7EQ19feWcVBJSuoKZQQpaAvlx36stzWLpxrJBkQpzM67rp/h7CEo3st1g5DYB4Ou5KHQvebyW+PYgnCOlg+v1rHQ97ZbKXinlEcAsjQx6qRbncWWDMrxAOI41GDQQW1XDFJqFJsQQZ4/9lB4pU4ndJn2tvxskY16erfbSMsLNTQ+Wkn+2lNMYHLsAo8BuTey2cx68tXkUVFhTqqkjNOi/tACOq/7xtlYSb587KAf34L09VM/ff7QTCv6EB3Ry4RvkNHl+Uv0VCeIMfI+0sDz6lju0VRKp7f/up8duJwnLOUwnImsod0R/Of3GYrqWZsJVfF0x/h4Gw7w+8WHHtZSoO50LEM2CGlCJ7pYc7KPxDarJr/FtIbwEXRnxUezIQ8TRdmwjkziYGgI84FsEcKppAb+vFkEASF0FTpKzahKJLk/C4QAcTJoB21tOEwGkSlozOvJiwueAhEJjZbmRc2hAWgB1wGCqac1G8bCPjSSDCJDu1stLGqUznyBQhfIHO4r/CNhYuM9youWlldNitlIBOOCRbYQEIFBwPy7AVIgiDKBjNt18iDISGi0veSLIwQymLqY0CBl3E9W0are0gShJ5UQymP+T9qnaO0iXsC/I6LuOlCoGfhnRDLI4C/wC4eNm3x/VwmAAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4Xu1WTU8TURTl6QJC/AgKoakKVqAWaqW01EJCagMookEiEpKmgRACEsVCCNQvQPyAQvisiYUmLjQu3GncuHLjzsQ/dZ1zX8p0plCmpWI0PclLkzede8+759z7pqAgjzz+fwjS78g9/ToUCOrtrtAlFDQ2bKXQPStNPaylmSk7DQYvHBYpQdf8JrJWHd+pxNJzJ6+Vlw28QE5POHXlDIJ6us6Rv6WcAy/POym+2U7xaAfF1lqo2VOaQub+UA2NDFRz1fr7LBToqcw9KQQFsXi0M0nC3U4vaC58iR5P1LGckw9sNDpYTX139LIfCILernrpzXIj3bpuprLSwjTBBRPA79NJO1cU5LSkdjtIxhC09trFQS0VxXsElXv6xK9m6rlSQ/1V/Kyz3UwtTWV7xMgIgoNCso5WU5J/5AqP11Gw9zwn1UokZQQpeAvy433st/nkrzZPRpBSJAfvunGGq4ekeJ7Y1yaSpOGrxKHQvenlNwwZHC0fXXKz0bc3Wilwt5JHAKo0PmKl251mTQUT4wHEcaiBgIXaruaY1IsnDopG3AqhK7S97uEVW22k91vNtDhXT2MjNeRpOMUEJkYv8hhIvBtb87GfXPUlZCovypaUelroDy+g87pvnt2R5OunDvr5PUDfPgfpy0cfRZQhOqzIhP+goouzl+mZQhBj5EOsiefVseKj2RBS2n/FwwFs1hMaOdRgsmpodyT/9WOa4krVpkO1PN0xPt5Fvfx8/pGDveR1n86mQkL6RDFrUeGRfV6W0xrGR9LNiIvCIQcThWzYRyVxMDSE9kCGIa8N1QP7QSYBIXQVOiq1olkRAaQBcTJ4B21tLJisFDzmdJQY+L9hCFqYlZrDA/ACrgMkSz2tujAWDuCRdJAV2lr3s6khXfIFCl+gcriv8I2EiY3nkBctrV41OYV6waJaSIjEIJD8uQFSIAiZQMZuO/knyCQgaGPBlUIIZDB1MaFBSr2fjPjswJB+0hOCPNrvpENFqoH/EpE88vg38RteLU4SdAa7OAAAAABJRU5ErkJggg==",
     "wiki_name": "Crystal crown (Crwys)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_crown_(Crwys)",
     "equipment": {

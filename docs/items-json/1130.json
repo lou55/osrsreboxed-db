@@ -1,7 +1,7 @@
 {
     "id": 1130,
     "name": "Leather body",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Better than no armour!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xs3X70sUQRwG8LuXRRiSJCnpZVwgB/2ixECCoFe9ySgqKoqKiiKEKBQRQ02OfiGIVmgoXBwmUkYQFUVRf9nEM8tzfue7c9fs3SoOPLjOzjCfndkdx0xm85es8cd3f91L1rwYOWueDZ+xKQ71m8lHp22IKE9fN6Wpa2bx5VUPSj9Ew/AIRBRAjMYsPL9i3hQvOQPjd9zTcVGJkFkzNXouhsJPQBiCXk1eNNNj521b/PSB0F6if62MmB9LD+tDEYRrzg5B808vWxDbVgOh38/lYfNnddz8XX1iQRjjYC5no0dXJZp2PjVB8gmTBKClmRsOCNcE6dFVyTrLgCcHCPU7mrc6yXftDAr6rry+lR4IsyRBesD/BX0/zt2ugJBEIL4XPpAeLCTo++ntHRf0frBxUKG7ra6g7+eFu+mDjh7qjA2GdHW0xOo06GvpfgX0+8PjCiYxiCiCfKgQ0Ld3A16QHr1KiT7XmYkLXpBGhYC+lx/UC4r2IMxQLZBEJQXJTVGPrkr0yYeCmLZd203vkT0xyLqAENSfOlmIDRQafvoNg+Qs1Yvqzrc6M4RdmpggEL4wH0geMbA8IWF7/NmQSxY4OyhrIP0e4V5T0xab48fyscFl+nr2msP7dzuw1EBEcclO9O2zAUrDAGFaW7bZoB92aQkiSo/uKRHIt2yokyj9rhwotDsBpqO92fb5snivAsIelGAfckFy2VAnT31YklphO5yDGgLhK6sFwgA8H2sEgn0J99AWp8TUQHrZUC9BfNF9GLYFaHn2pgPCHpR4H/ItmwThmsdbLg2DfjzUo20qIN+ySRDuyf9KcM2TAdrxUJ8CCMV94mqRGBkNwqYoQUwCUCbDbb1WNFBGvj+pgEKLRoZgmbW2G1Q00hfdZ1OXfxyxu6eIMhmaAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4Xu3X7UsUQRwHcO9lIoZ4eKSoZFwgB0VRYiCC4KveqCQZFUaFSRFCKIqI4hPiE4KcFiYKhphIXghSkRj5l018Z/kdv3nwnNldxRcNfLm92Zmbz+7sjmNR0eUvCWGP7fy5l4RYGHkk5oY7ZGaG2sX0QJsMIbaXX4qtpRdic7HbgtIvIjI8ABEKIIqO2Zh/Lj7NPFUGxnec06OivJAJsTTaaaDwCQiFQKvTT8Ty+GPZFp82ENpz9PHeiPi90x8ORSAc090h0OfZZxJEbU8Dod/R7rD4m5sQJ7kpCfLC4EfpqgnEr9AnAO1kXykgHDuCEso04MoBQn15WbGSdF2FU9B372NPfCDcJQ7SBzwr6Lu/9iYPQrxA9FzYQPpgLkHf7+u9KujrYHRQpr4yVND3YONt/KD7d2qNwZC6mqRRp4N+bL3Pg/58G3PFoKggQhHIhnIB/fzSFxaEEryu2ckuK0hHuYB+bX8ICwrWINyhQiCO8gV5LIrBK+8KolReuyoa7103IOcCQlD/sDVjDOQaevUjg/hdCouqT6eUO4RV2hGDErxhNhDfYmB6XELt8WeDT1kokP4c4Vxp6RWZ5gdpY3CepoYb4u6tagUWG4hQNGUtTTdlgNJhgFBSyRIZ9MMqzUEeqABkmzbUcZT+rNzOVCkBpqaqTPY53HyXB2EN8liHVBCfNtTxXR+mpFCoHfZBkUB4ywqBMADtj3UEgnUJ59AWu8TYQPq0oZ6D6EG3YagtQLsrrxUQ1iDvdcg2bRyEY9re0tRQ0I829WgbC8g2bRyEc/y/EhzTzgDtaFMfAwhFveLTwjE8OgiLIgdRPECuxURS+PNzgaBCxUSa+V+ilX/SnnEbjmUTzQAAAABJRU5ErkJggg==",
     "wiki_name": "Leather body",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leather_body",
     "equipment": null,

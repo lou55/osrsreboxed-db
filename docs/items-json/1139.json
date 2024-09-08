@@ -1,7 +1,7 @@
 {
     "id": 1139,
     "name": "Bronze med helm",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A medium sized helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xu2Xz0sCURDH9yHLoogiiqGBWUFRQolQERR4EYqgW4eOHTp06NahQ4cO/d/T+75l2tnx+SN9GkgDX5RlffPZ78x7s0bRf2x2GJqttYWhy6MGnR/UabBfczrdrVKvU6HD7QrttcpOa4IydN1rOkkoAEmoTrPktGK3DA1PtnJAGgpAcAcw7XrRqVlNVgGVwkj5XOKSMRBgoFo5Dtlfhkb9Vk4+INlDEggwULlYcKpE0TJQhm4GrR9JKAmkm1oDSRh8Yt1+t/tbKEN3Z+0ckASDSwDy7TIfEMMsCJTCaGkouDQvkNRCQB92MejT6svKBwagSSU7jiPaKUTUsM5IdxYG4sRvlYTeJ+jVPv2T1UMpplubaJgU6MJqEBccUFCHZK9ASK71YvVs9WiB7m2ikYW5spJlCwbEMChDMUmcfFtejhBdtoAOIYz7McNIITF/l1B6fAQHkolZcMh3XZ/YKwFCWbCoTIxrDIR7tHieBd72iBRIu8HXeNF04XTWcR9pIKmlgZAEi0soH4ycadOA8r/9VWRASMANrmGw8+RM4/7R035JGEQGhETSagnDR4Bu6GlAOtOckQGhDOO1z17YfDtMAy3pDmI+IP1O5HtjDOAOYjaQ751IA+G+AO5wmLmA5CktgSRIABiO7NDLL5wC6f5hoPH7A4b/KfP/z3iGAWilMNNjfHT8IUwa0j2/kxsS36t90yDiy3tWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+ElEQVR4Xu3Xz0sCQRQH8B0WWRRZEcXQwKigKKFCqAgKvAhF0K1Dxw4dOnTr0KFDh/7v13xnePn2OZbsD4PwwZdiyZmPb2Z3tiha1/8uQ79nZWXo4qBLZ3sdGu+2XY63WzQaprS/mdJOv+myIpShq1HPRaIAkqhhr+FScbcMTY42MiCNAgjdAWbQqbv0WkkVKI+RCXWJl4xBwCDtZq3M/WVoetLPJASSe0iCgEGa9dgljaIiKEPX4/53JEqC9KbWIInBz5wgQ7engwxIwtAlgEJ3WQjEmJwgj9HRKHRpWZBMLtC7HQz5sPm0CcEAWrRkh7WItuKIurYzsju5QTzxa5rQ24K82G//aHPfqNGNnWiSxHRuM67FDlRqh+ReQTC5zrPNk82DBd3ZiaYWc2kjl600EGOwDPUkcQnd8vII0ctWYodQxn2YMTKYmH+XKH18lA6SE3PQodB1/cSuBIRlwaByYlxjkB84Gz7PSr7tUR6ku8HXsoP6s473kQbJFAZhEgwuUSGMPNN+AuXEoGYgTMAbXGNw58kzjfePPu0LYlAzECaab7XH8CNAb+hKQViGEIifSaE7TIMKYlDLgfQ7UeiNcWWg0DuRBvnPFMZwmaVA8iktQSVCZPE31IN7kN4/DJr/+8or+/8Zn2EA/QGGS3ZvUSfXVU19AU24hyVLdv8pAAAAAElFTkSuQmCC",
     "wiki_name": "Bronze med helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_med_helm",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 3683,
     "name": "Shoe",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": false,
     "examine": "A shoe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABy0lEQVR4Xu2W3U7CQBCFu1dEYmqIRCJEBIkYxPBjMMb3f7A1ZzennY67VEvXXsBJ9oJ26XxzZnbaLLvoos5kbLk6lYd4ns/tdr22T9Npl1DGPk4mDibPsmJ1BGXs/WhUAXlZLAqY3Wzmlv5XQhn7ulwWCzBwCo4RiPvCq3UZ+77ZuAUgwMCdh/G4EhjXAYv+4j5C6yeeKGM/93v7sdsWpQIMyoh7+I3AsqRYuEboBCX1LjFrwNwNhy4YIHWjY09CIGO/DofiqCMIYG4HgwJI9haBpIutA6FkCEp3AHOT55XekTDJgVAuBGUQwFz3+y7YMXcSAPkTpIFQsqtez917W62i7rDPWgDyIDhZCChPF/sHLgGKzR5ypwWg0hGducyaQCgb3Qu5w8ZvAORBONTYE3IIyqw1EOBD7jQE8o4ABg8ONakOooHwHwmOfa0DhWCkO5zedFUDcR/Hg45ao7Jv5MszlDFBmIR8b4WA4CJHhI5aIz9TYn0jQQj/GxiOh4afKeXLkjAahKWNOdkiDFX9npHlAYicS3UwEkhH+ZPKjDxQrOFjQDKhE90J6ed8irmjIRLAUD5QqFQhNxJBVMUS6vUPbhyXBugE4iz1DfPyRDBCsAhDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuElEQVR4Xu2VUUvDMBSFm6fhkMpwONxwMoeTOdmcTMT//8Mip+G0N3eJLTMlPvRAHtZ2vV/OPbktikGDssnYZmWVg3herexht7NPy2VOKGMfF4sKpiyKemWCMvZ+NvNAXtbrXDCQsa+bTb0AA6fgmA8ks9Vrzoz92O+rBSDAwJ2H+dwrjOuARb743Dl0Ehn7dTzaz/dD3SrAoI24h98oLFuKhWsNdHI5l7hrwNxNp1UxQOqg45kegYz9Pp3qo44igLmdTGogmS0CSRf1G/8o1zIUpTuAuSlLLzsSpncgtAtFWQQw1+NxVew3d3oAcidIA6FlV6NRde9tu426w5zpt14gB4KThYLydDE/cAlQDHvInQRAjSN653LXBELb6F7IHQZfV+kgB8KhxkzIISh3rYEAH3LnQiDnCGDw4lBIdRENhP9IcDyXHCgEI93h9KarGojPcTzoqi1qciM/nqEdE4SbkN+tEBBc5IjQVVvkZkosNxKE8F1gOB50tY5qPpaE0SBsbczJhDCUO3Fcsj0AkXOpDSYRkJQDigU+BuRvKrnO51PMnR4htFyhUKt6dqNNfr4yQQz6H/oBpnkMR7D+MdYAAAAASUVORK5CYII=",
     "wiki_name": "Shoe (interface item) (Basic, dark, male)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoe_(interface_item)#Basic,_dark,_male",
     "equipment": null,

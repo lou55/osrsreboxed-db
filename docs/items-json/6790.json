@@ -1,7 +1,7 @@
 {
     "id": 6790,
     "name": "Shoes",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-12-05",
     "duplicate": false,
     "examine": "Awusah's Shoes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4Xu2W/UuTURTHff6CCEJIqKwwKKFsjFRa2mi1taQUS4blWMpKHTJTxmIse0WRXslCIiKCiP7LE5/zcNbdo6LusdkPO/Dledm9z/ncc773altbK1rxX4QnwTf7EED4evdsuna/UU0JTyZu9crk7YsynRmQuXuXJT8W03eZdFSGE+ckPdAtI9djzYDyJDMcl/GhCwo0Oz4oC7nEBqjSzJgkLkUUqKezMyxUsOx/VS3elaVHE/J8MatJgeuPntErzy9LOVkuT6p4HxLIT7pazUtupK9OycGo/rZSmdLf3yw9UO98eDEra68KNX1anlOtrxRrMA0A+SCskFbQBrzhilaMXjuv3mAsY76+XpBvbxfl+/uS/PhYVv1ce6xjQ8HkxpKaiIQA4Yli9kqdZrI3pVzIyHx+VO+B5H1p6qqU80m9uj4K0SpPkyCAMGrlYUoTFO4Pq19oC23CHzwDRGIAGGfjDShEdQhPJjMpTWaGJDkQeOHL6ry2hiseYUvrHGeHPZlJ14CsOr4aDt8/fAwIAMwXeOLX54r8Xq/qdk7G/J2D0QECxIB4BpS2d7QfCAvm6erNG6zc/IF4b9XZDIgxzGMcvwHV13Ncjh4+GAbMkzupiCZxRTISxCIna/7gakB4yMRY8xJz8CXzuo61NwLm6QeojolV2zFgFTIgM7VbSVduxWh3vPeUdHd17AbKB+JDJHPPI1aMP+wcsvHB1lIlWujK3YHAnThyaKdQngzFz9a2tAEZjJ3arNSFQgbytHBjSwHPt2z+Do4FTxL9p3W3ARSEMjCqiGENylqIghCubCeyqB0CEX7bgGCyQZnsJAY8+FEXbDvt8uD0/98xIPvzwT2gVKne4PVhybZTcN424a8ECDOu7Tjb0vUGb0JYC2wXbQa1VZX+cfi7yD38qBpg+wREbDRmA+bc2wiacl9hWtGKLeIPwXQmEMjzu3wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACq0lEQVR4Xu2WDUuTURTHfT5BBCEkVFQYlNDLGKm0NGm1ZVITawzLsZSVc4imjIUse0WRXslCIiKCiL7lid+5nO1uWqlPbEE7cHje7r3nd8/5n7t1dLStbf+EBdL4pgUGhPPXj6er95u9KRbIxPVembxxTqYzAzJ7+4Lk0zF9lxmOSip+SoYHemT0SqwZUIFkUkMyPnJWgWbGB2UhF98EVSqkJX4+8reAGtNe88rcLVm+PyFPFrMaFLj+6Am98vyslJOV8qQ670MCuaBrlbzkRvvqPDEY1W+rS1P6/eXyXdXO26czsv68WPX3K7PqG6tzYWAcCDukFJQBbfhOKcYun1FtMJYxn14syOdXi/LlTUm+viurf1t/oGNDweTSCQ1EQIDQxFz2Yp0XstekXMzIfH5M74HkfWnqkpTzCb36OgoFRBAcIIS6dC+pAYp3UqoXykKZ0AfPABEYAMbZeAMKAYMFMplJajATJMGBQAsf1+a1NFzRCC2tc7wOe1gYrgLVshMSCv2wGBAAmC7QxPcPS/Jjo6LtnIi5zkHoAAFiQDwDStm7OveEBQt096YNdm76wHlv2dkKiDHMYxzfgOo7fVgO7t8bBiyQm8mIBvGdYASIRY56C7tOMw2ZM9a0xBx0ybzuQ527AQt0AbJjzq7tGKhlyI01UfuZ9N3PGOUe6j0mPd1dO4FyQCxEMP88Ysfow84hG99YWrJECX33OxC4Iwf2bRcqkJGhk9WWNiCDsVObnfpQuIE8Kl79pQPPWvXzf2uBxPuPa7cB1AhlYGQRwdYv6sAaIXy3TmRT2wTCXNmAYLJBmdtJDPjWi5pw/+Q7Mvd/x4Ds54N7QMlSvcCbYm4nQJhwreOspesF3jQLql20FVQLgDDXRf7hR9YAaxEQ1ijKXYmzbW37/+wn0K/sqbC4UNcAAAAASUVORK5CYII=",
     "wiki_name": "Shoes",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoes",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 9288,
     "name": "Steel bolts (p)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": false,
     "examine": "Some poisoned steel bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA5ElEQVR4Xu2WvQrCMBSFe19EfAQH6SS4Wbpoq9Z/RKsu/g5aC7qICH3sI9eCYicnc4Z8EALJ8nGSmxvHsVgExRWDCKpRCSRSgs18hprrvoQq5bJJKcH9nGDUDt8yxoXS7RZRs8mQjiLYLWKEvs8jdFgt0fI8BiHBI02xHI957s9lv8cgCBjSUfL7Q5OOlns8HPKko+XeqNd5hPR1pjmu2+nIUuqKIFmvWdJR5Kt3FXf/jCDLrjydXWW0VQz6xh/DXEbHtBe9ZsNCiv4GBZNuh0XIcXKBPC0KoQ80Jf+BSsZisfzAE/zfo09aOYS/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAyklEQVR4Xu3VQQqCUBSF4e5GWkU4CpwlTkwrSzOizCZmNigTahIRuOwTN2nSBjzB+0GEN/oQ77u9nskk+D3pMMEg7IMEJThsNxhaFgNI8LxWWE4CBowmqIsCoefxgI67FIHr8oBO+wxjx2EACV51jSxJGDCa4FaWiHyfB6T/Dw1Gxz2NYx6QjvvItnlAejvTYB6XM8uoa4Iqz1kwmnDtrqa582x2xeiqiBadX4YtRp/1PPy8OwZpChCsZlMW0Lf2axGBNCqMyWT6z94wXXsr3EoU7wAAAABJRU5ErkJggg==",
     "wiki_name": "Steel bolts (Poison)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_bolts#Poison",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 27610,
     "name": "Venator bow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-01-11",
     "duplicate": false,
     "examine": "A bow used by hunters from a forgotten empire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVElEQVR4Xu2WUWvTUBiGdwajNsbFmtCShGZrRtdumU0X13al60p1urmNUR1jKBY2YSLifoG7EPFO0CtvvfLaG/0f/h6vXntOlsacJSCYJje+8HGafKf5Ht7v5JxMTf0XAX8nJVEQgs6tHTby2YRF0Jg5wpPsJ/TlRwyoPj+fJhTBIPMW58I3VK+vpg1E0Fs8xOvqezhSF+K0lD7QXu30ct24QWFSAiK4qP3AwebLAEiqMHTcaj5Nv00eDI12bR/b6yeX14krCEPDLm/iQWuYhktBGD1fRkmzUC466NiDcev4f01IPozrAkFlrgFTt9lI2/aw8zwpl4IwfkHXqY3iY+bQ1fxEFAXj5xNcQ1Ew/oKm0VjeDpkTuwjuyLshhQgkQYYsFqDmDIiCkMQ+RPDm9ncOxnXDGL1Z2UyGgRQ1DWqhANMwJgkUDkNdyUsaK96o24GWXXUxNoXD0Nboiom8ogTc4IN/2j8qDMa9vzTa+CoLC2ivrYXkJ6IoGDcn53KY0/WIfOzyYVqKu7nxedom27LGQMF8rPJhaHi7LR/82uGfEoPcQn/CMCdG55KztIVV9T7KudG6kZtYyXfZq+3BxAjkF1ZFE3f1E+izFRizFgtTsrFcWmfHgBcta5dteoPeq7jdIdhXn2GY/YwVrc1O5/pinxWkbaInNf1NR3rdc46wt3EWcC9GdwgOSkN0Z05xnPnAPsjP730MFIsKDyJGGCqCM+MCL7Jf8U78iS/Kr9BiUcE/LQYRNG/2URUdaNdKEKZvjIH4mQkqvBX8rESVQCv+Sr8BYgHAeh/xFb8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJUlEQVR4Xu2WX2vTUBjGdwajNsbFmtCShGY0o2u3zGaLa7vSdaXun/vDqMoYEwubMBFxn8BdiHgn6JW3XnntzfY9/DxePfacWJJmCXiR5Cj4wMNpzlt4f7zvm3MyMfFfBMEdTqIgBO17j9gajKYsgvrUEU6yn9GTH/8dQP3MO1wI31G9vcwbiKA79xRvqh/gSB2IkxJ/oP3a2W+IkbmJ4LJ2jcP1V7xBqFwYum42nvEG8mCoW7UD7Kye8oIah6G2y+vYbg54AI3D6PkySpqFctFB2+6n3To/jPtcmanD1G220rbttl+kBRSE8fap14pPWIVuxhNRFMxIqc5QFIw30NT1hZ2Q/8QuggfyXkgiAkmQIYsFqDkDoiCkMcwEb+9fBZK41TCGb1Y2k2EgRU2DWijANIwkgcJhaFXyksaS15fssZalDkNboysm8oqSdDX8CoNx9+eHB19ldhatlZWQeCKKgnFjci6HGV2PiMcuD6aphB1uhLXJtqyQWOzyV4b4TttxpzA7biI/DKvE8F5y5jexrG6hnBvOjdzAYr7DXu0EYLzEqmjioX4KfboCY9piNiUbC6VVdg2M3LT22KHX776OG4jgQH2OQfYLFrUWu52X5nosIW0Tvanpb7rS565zhP2180DrYhPBYWmAztQZjjMf2Qf5xcanQLIoJyKCc+MSL7Pf8F78ga/KzyST/YkIGnd7qIoOtFslCJN3eANRpdKKf1O/AH3xU4Yiz1QUAAAAAElFTkSuQmCC",
     "wiki_name": "Venator bow (Charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Venator_bow#Charged",
     "equipment": {

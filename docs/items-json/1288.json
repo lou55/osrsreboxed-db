@@ -1,7 +1,7 @@
 {
     "id": 1288,
     "name": "Adamant sword",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A razor sharp sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6UlEQVR4Xs3X30sUURQH8Fl6kI0eAxGJlSTB8qEk8KXH3iuMioqioqKIQopCJNESsR8IsplYKCiLidhGEBVFUX9A9Ced+M70nT33eHbdcafwwmHH2TN7PnPunTsYRdt/FMQP7/t/PgrybGRQngyfiGPywXGZuHcsDiIqM5dkafqiLD6/4KDsTbQMT0BEAcSwmIWn52Vu8mxQGH/jOxshKhOyINMPT25A4RMQBkGzE2dkZuxUnItPD4R8jf62NiJfVu5uDUUQjtkdgl5NnYtBzK0HwnVfV4flR3VcflYfxyDUONjVFYetbkbSdt41QSjqgcqPTqcgHHMKNWilfDkA4ZggW92MQjANKMTFjb8tCMWB4PTiGL/Rd6QvQK29vJofiF3COQ/ETiJwffehbuk/2h+A3s5fS0GITCCuCwtCcQvSCxrXdu7r3NAdxLvX10PQm/utg3AeIKLYSeawOxaDeL9wI18QAgAN0gu6UXeQ+3HpVgr6vj6aYjKDNAo/7oFsd3Degj4t33ZBtnqdkWxeKNYIxAXN7vQO9MbH6KQFfa4MbRWU7EHo0GYgdlF3B+csCPkapDdFW92M5O48EMIDsTs9h3tcEPJyBRGFQAHsuCiAY26CpQOl+BNoXGenKzeQ7hI+NQh5tjv1QKsvrqQg7NLENAXCE+KB+ML0QMR4IOTitaE71GR3MGogu474KBOE3PZSe9AdC+J04bWRG4gonEcBgJBXWS5Kx96O+BhPIDC6kxqEXVqDiLLVnZGAvGmzoLHRNpmfK0p1fWfaIQ+E/A+LN1MQ9qAM+1AI0tNGEHL2745kYM+Ov3dZmy4LQndaBmGxbgaaLRfl969dwXQRxLXG6coNZKcN5wkautOWYvT6IYi5AOGR1yDsQZn3IW/aWIRrCMXrgfT6yQXkTZsG4TsgPBBfG5yuFkEYtX9VGoXG6LAgbIoaxMgAiiJu643CAnXo9ZMLqNlhkc1gGbXc/zQs0gt7zbYefwCBrqgS9h0gMwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xu3V3UsUURjHcZcuZKPLQERiIUmwvEkCb7rsvqKoqCgqKooopChEEkuR3hBkM7FQUBYTsY0gKoqi/oDoTzrxnek3PXP27MvsTtFFBx7m7Owzcz7znDNnurr+/VZw4Qj9/8dbwT0eP+Iejh2OYubOITd962AUQlTmzrmV2bNu+cmZAMp/iI7hMUgoQAofs/TotFuYOZkamN/850calQlZcLN3j9agOAJRCDQ/fcLNTR6LcjmGQORb9OeNcfdx7WZ7KIHoqzoCPX9wKgIptx6I6z6tj7mv1XvuW3UqAmXCcFM9tUAMGgKV7x9PQPQ1hRa0Vj6fAtFvEVRITQMDaXHz2wcxOAhNL33uMbR/KIXaeHYxP5CqxLkQSJUkuL5/b78bPjCcAr1avJSAiEwgrQsfxOA+yC5oru3b1VdTHeL1i8tp0MvbnYM4D0goVVI5qo6PId4sXckXRACwILugG1WH3Hcr1xLQl82JVjG0NMiiuHkI5FeH8z7o/er1dkG0ePNisEYgLWhVZ3BkMOpTSR/0oTLaLijeg6hQM5CqaKvDOR9EvgVl2BTjpwuBiBBI1RnYNxAEkZcrSCiCAdhxGYC+NsHSnlJ0BM11/nTlBrJV4mhB5PnVqQdaf3ohAbFLt4ihxW9ICKQPZggkTAhELp8NW6G2QP460qssELk9pZ5UdXyQpovPRm4goTjPAIDIq6wWXe/O3qjPGwjGVtKC2KUtKAMqBoWmzQdNTnS7xYWiq25uTSoUApH/dvlqAmIPyrAPpUF22gQiZ/f2LjeyY8uvm/6eLh9EdToGsVibgebLRffj+7bUdAmktabpyg3kTxvnBRq90Z1g7PoRSLmAeOUtiD0o8z4UmjYNojXE4PVAdv3kAgpNmwXxH4gQSJ8NTVeHIFq8UJuFxdjwQWyKFqTIAGq11SIVdv38RVCjVousjf+ts/YTN6pdht2khWUAAAAASUVORK5CYII=",
     "wiki_name": "Adamant sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_sword",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 23076,
     "name": "Hydra slayer helmet (i)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-02-07",
     "duplicate": true,
     "examine": "You really don't want to wear it inside-out.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADf0lEQVR4Xu2X/UtTcRTGd3+QkYgyHIoOTScqpsyUsILZEqfzDXX53pjMtXxpacs0Tc1eUQoRQaFCKooI+itP3+ds5+561aJ2L/3SgYfdfTfu/ew5z/dlDsf/sq00Mo/8w9Ioluij01Dm95YVbnyWsp9HYiHTuEaJhcEzIHOu9K+Pz/XzA+aSw+SqqGSZocYinVTkdutgWSAboODAdLyH4dzVXl1GRwRIoPAj8Bq44bMHakI9cCraRSW1tfR4K8KvkLgwoT4TIGh4PMBjfn8TDQ1dtwcKKq1voKevYvRy9w5fQxj3+JoZxFVWRoOj7ewYxgE00H+Nry9XVVkPJRC7+/P0ZDuqvxcggIxMdtBUJui2A5U3NrL2jxbp8EOKFh+N6VBen49B0KpoZino7m1j2QYEJyBAvf+8yk4hwACqUIqpa8CkVsfZweW1SXYocjvdQvMdcyiN84GHCtDKxhR9/bFNz3biHHiM4/O4mvILS2Fyezz0+s1dBhpXIbfQpUygKy+SR80sEaDeHtxjpzZfTFOZ18vjgEqoNQtuwUEAjY60060MlPnuf1gaWx9R65AZSPTp+wZ9/LbODzdCzadGOGtwClMfC2uOLmlsPfLwKyBAHLx7wG7t7M3qUPj+0fEyL6poL+6TM1Befj4LUzq/uJh1FhAEh0TIFQKNDOFVVm7A5ARUUV5O9TU1dKmujgWgcNjPITUDwREILRLBGdnXcoRBnQRqamigVrXWFJSUsgMihNb5fJOcW2vkXF8h50qKnA/vU95MlHODPTB7IsipTgM1q5kFIAi5gdAWZAetQo6wrWDWoVVJFWw4JGemHB1CaecCoX1Li2HaO0zqMBCCjJkpQQaUBTNMSqPa6mqGMgIVKeckN5IXwAAOUx0SkO5AgIZC6ZZZAnShsJChxCUASZCNYYbwPj7TQwnVIrgGqIGuLqtCjdJ4ygMKLTLDmAWQudl+Ov6yxseUvmCnfh6yAAalUYHLxVBoixlAhOm/gD1MCSs3wt7TcZPCvb0U6r5iDxA2V0AZW2SUAMEdtMvf1sbrlUx5i4BQclhP7/jGhc8oIxDWq6stLSc2VQuBHI5sINOZAphZCDOAsNFiNgIK+bHxgCaVdcwotAdAwVA6MxBWcX8g/c/DRqCsY0bhoUm17gyqvU6AgsFWHcZWoPMr/ZdJgHDIt92d35fRkb935yfgtC1d+eQhTwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZElEQVR4Xu2X/UtTYRTHfX6QkYgyHIoODScqpkyUsILZEqfzDXX53pjMtXxpacs0Tc1eUQoRQaFCKooI+itPz/fMs92uM8rdi7904Mu2Z2P3s+/5nue5y8v7X7aVIvPKBZaiaLyPTkOZX1tW+OJsyrwfjgZN64riC4NZIHOu1K+PzfXzBeYSw+SsrGKZocbCnVTscqXBMkA2QMGB6VgPw7mqPWkZHREggcKPwKP/ptceqAl9walIF5XW1tKTrTA/QuLChH5PgKDhcT+v+XxNNDR0wx4oqKy+gZ69jtKr3bv8HMK629vMIM7ychocbWfHsA6ggf7rdgChUkDQ7v48Pd2OpF8LEEBGJjto6iTotgNVNDay9o8W6fBjkhYfj6WhPF4vg6BVkZOtoLu3jWUbEJyAAPXhyyo7hQADqFIrqp8DJrk6zg4ur02yQ+E7qRaavzGHUpwPXFSAVjam6NvPbXq+E+PAYx3vx/TILyyFyOV205u39xhoXIfcQqCTQFddJreeLBGg3h3cZ6c2X05TucfD64CK6z0LbsFBAI2OtNNta6AUWx/W+5AZSPT5xwZ9+r7OFzdCzSdHOGtwCqOPjTVHIMXWIw9/AgLEwfuH7NbO3mwaCp8/Ol7mTRXtxffkDJRfUMDCSBeUlLCyAUFwSIRcIdDIEB5l5zZf4R9LUWVFBdXX1NCVujoWgEIhH4fUDARHILRIBGcsPGh/B2pqaKBWvdcUlpaxAyKE1vFikxxba+RYXyHHSpIcjx5Q/kyEc4MzMHNHkFOdBmrWkwUgCLmB0BZkB61CjnCsYOrQqoQONhzKfs90rlJnAqF9S4sh2jtMpGEgBBmTKUEGlAUTJqWotrqaoYxAxdo5yY3kBTCAw6hDAtLt99NQ0JKWoRRdKipiKHEJQBJkY5ghvI7N9FBctwiuAWqgq8sqGJTikQcUWmSGMQsgc7P9dPx1jW9T+gKdVt8PKSp0OhkKbTEDiDD+CzjDtLBzI+w9Hbco1NtLwe6r9gDhcAWUsUVGCRDcQbt8bW28X1k08sZKHa6QQGWTEQj71bWWFisP1bMqlSmAmYUwAwgHLaYRUMiPjTdoUhnHjEJ7ABQISmYU7+I+vy3/PP6mFCX0vjOozzoBCgRaLwpGKvWXSYBwk3/BQCgjwPlhfgEWCvshquVIYgAAAABJRU5ErkJggg==",
     "wiki_name": "Hydra slayer helmet (i) (Nightmare Zone)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hydra_slayer_helmet_(i)#Nightmare_Zone",
     "equipment": null,

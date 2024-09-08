@@ -1,7 +1,7 @@
 {
     "id": 6744,
     "name": "Dragon axe head",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-11-07",
     "duplicate": true,
     "examine": "It's missing a handle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xs3VbUtUQRQH8N1v4jfIN732lb0xqNDcsDAtUnqgktQQK8q2pScUWysqVtDERHJFiIqiqE924j+X/91zT+fuetcpHDjcp7l3fnvmzGypdPhbWfzwnv/zVpZn84PyZO5UiNrtk1KdPhGCiI3lcVlbPC+rz0cdlP0RB4YnIKIAYlhM4+k5eV0byQyMazyzkUUVQpZl8e7QXygcAWEQ9LJ6RpbvD4e+OHog9NfoH9vz8m3zVncognDO7BD09vHZAGLfPBDe+741J7+aD+R382EAYYzenp4QdnTTkrTzVxOEQT1QfaGSgnDugTbrFzIgnBNkRzetnJkGDMTixrUFYXAgOL15oO1Xl+KBmCXc80DMJEHImgXtvJlIQYhCINaFBWFwC9IF3Q60+24yC/owe3AQ7gNEFDOpV2QeaK9xOS4IAYAG2YLOA6Hv57VrKejnx3vFVpgGaRQ+7oGIQb880Jf16y7Ijp7Tks0LH28HsgVNEDJpQV83proFJXsQMtQJZAsa/XDPgtBfg/SmaEc3LVnyHgjhgXT9eCD0iwoiCoEBsONiAJzbgibITlc0kM4SjhqEfrag80BbKxdTEHbpwivMA/HvQINs/Xgg9MXfhs7QPrOD1gLZOuJSJgjXnUCcLvxtRAMRhfsYgCA8t/WjM8mtA4FdWoOIsqM7LQF501YEhO/cuXlDGktL0ny/Hq4Jwh5UYB/KgvS0aRCXvJ0uDbo6PhZAOP+0eqV7EIq1E4hL3gPhG3rK0D8KyE4b7muQLWhijvYeCUcWNJa8BmEPKrwPedOmQd6Sx7vH+/tlrFKRF4+qaXaigLxp0yA8swWNdwcHBmRhdiacIzsRQGit5douLOZYX59MTU5IvVbLgLApahCjAKhU4rbeLixwdPh0mh1dP1FA+20e0MN60XrvPzWbUS/sO4e6/QF+R9q4f8jjgQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnklEQVR4Xu3VW2sTQRQH8OYT6YvPfaovFVSqjajUVrHFC2pRK6UqWmPwRkuNF1RSaC21FI0IoqIo+smO/Gf5r2eOZ5PMZhUfHDjsbbLzy5kzs0ND/36riR/e8z/eanJ/YUzuzu8P0byyTxqX9oYgYmNlStaWjsnqgwkHZf/EwPAMRBRADItp3zsqT5uHo4FxjWc2YlQSsiZL1w78hsIREAZBjxuHZOXGeOiLowdCf43+ur0gnzcvlkMRhHNmh6Dnd44EEPsWgfC7L1vz8r1zU350bgVQEgYv5b8mCIN6oNZiPQfh3ANtto5HIJz3CapF04CBWNy4tiAMDgSntwi0/eRkdSBmCfc8EDNJELJmQW+eTecgRBKIdWFBGNyCdEF3A719MRODXs0NDsJ9gIhiJvWKLAK9a5+qFoQAQINsQReB0PfD2tkc9O319X4xaDFIo/ByD0QM+hWBPq6fKwtCyzYvvLwbyBY0QcikBX3amC0LyvYgZKgXyBY0+uGeBaG/BiVsitmS90AID6TrxwOhX6UgohAYADsuBsC5LWiC7HRVBtJZwlGD0M8WdBFo69GJHIRduk8MWrbCPBA/Bxpk68cDoS8+GzpDpUC2jriUCcJ1LxCnC5+NykBE4T4GIAjPbf3oTHLrQGCX1qAEVAbypi0FhPdcvXBe2svL0nm5Hq4Jwh6UsA/FID1tGsQlb6dLg85MTQYQzt+vni4PQrH2AnHJeyC8Q08Z+lcCstOG+xpkC5qYXTt3hCMLGkteg7AHJe9D3rRpkLfk8ds9IyMyWa/Lw9uNPDuVgLxp0yA8swWN346Njsri3OVwjuxUAEL7tVy7hcXsHh6W2ZlpaTWbEQibogYxEkD9thg4MX4wz46un78Iso04fd4t/rfB2k9M5ZMK/Qsf4wAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon axe head",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_axe_head",
     "equipment": null,

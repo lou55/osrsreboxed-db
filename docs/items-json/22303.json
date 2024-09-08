@@ -1,7 +1,7 @@
 {
     "id": 22303,
     "name": "Ancient effigy",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-02-08",
     "duplicate": true,
     "examine": "A mysterious artifact of ancient times, very precious to emblem traders.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXklEQVR4Xs3XWU8TURQH8PYL8Bl490FNJMQ3X3zyQQxGDG5xJS4hMa4EVyS4BiWIxqUkGJYGtWqiQiCgLBGCWrQQFsPWVisiEeMXOOZ/m3N753AhLR0NN/ln2ult59dzZ860Hs/yH16yx/b6Px9eul6cS1eLNqmUncqh0uMbVRhRW7Gbasp3UfWNnRaU/BJpw+MgRgHEkRjfte10tyzfcWA8x2syTlRKSC+Vn908D4UtIBwGVZVupYoLW9RcbG0gzDfRbY3F1FJ/bGkoBuEx9pug+1e2KRDPXahCqGqrv4jeBi5SR+CSAmHuqsxMFXl0MeIfyt+aQdgfCo/rb8kgxmPbORTSr5mpr9zjAOExg+TRxfA6lgEH4pMbzxllwhq62xwYW4Ua7+x3D8RVwj4TxGkfCCoMg1A1CXp674AGISmB+LyQIHxznAtcGWT2z28Vfl5ZkmcFPXtQ4AQ1nEwPZCIkhkFyngl64TvoHgj7BiOTjthASM/IoA6jcEW+rjmiQe1PzmlMyiAb6vyPkErd3ARd7qpT29PT/RSc+KJiYhjU9KjQCpJHX2Akzge5bDggMDVz4wrCwb5933o1VoKaa48uFRS/bFEhE8RIxIQUtz1UOTP9iXLCnZT1MeCYCxAuBBNkNkV5dDHil7wEYX/JTMgRCbr5c5gKYn1UGPvgCN7rKshEyTAqI9aqtvJ1BMvlGsisErYoP24BZi/CuZQRadbP5a0DIP/tvRqELs2YpEC4wmwgvh0AhHnD0bAG9Y0NWzF8/uC2YVYoyepgJEDyPOLuyyA+P5AdX3v0Y7zHrA5AuG24BmIU9vNvmub+Pp0N4Q4F4h7EMBOELm2CGCWPbhlxkG3Z+GdG1ewolc0M0InvQdV3ciNdtG6qnbKHXtGaXj+tbPHRise31FyAUNGX1Yc0CD0ohT7kBJnLxqDqX2MKhcscDRBLhwqhUmsnWynr83Na3Vmr5qI6aYNwlSULQqWAQrXQg/Ki3bR+6g1ljza5D5LLhv02EDo0QIdj79US5kffqWVkEC55E4QelHIfsi3bYiDbsmEuquMKyLZs2Cf/OSwWXq40QRjzP9wW/ouEG68ZwLkhAoSmaII4KYA8Hm7ri0UCzXD/QXVcASU7JDIZLCcx9z8NibRFvmdZj7/knuDrCqgQNAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPklEQVR4Xu3XW2sTQRQH8OYL9Iv4IIKl+OaLTz5YqVipN7wWLxTEa4nXWuKVaqlVvCQQSdtQNSqoDQ2JNi22RE01LY2V3pJorLVY8Qsc+U846+xkDNlkFR8cOGx2dpL89szM2aSi4t9vDtKH7vofbw665KylC01rRbiO1lDLoTUiGOFr20be1q3kubxFg1Jvomx4DsQogDhUjPviJrrhqjd9Mc5xTQ0zyhLSQa0n1uWhcASEg0EdLRuo7fR6MRZHHQjjZXS4x0l9XQdLQzEIr9Evg26d3yhAPPZ3GUJWQ/4mehE4Q/2BswJkCYMP5btmEPoTqSnjLhnEeByj4wnjmhxd7dtNILwuEuQwTQO+iBc3zhklw7oHwyaMLkM913fZB+IsoU8GcURG4wLDIGRNBT24udsAISyBeF2oINw51gJnBrHw47sIPm9vrtOCHt5uMIO6j5QHkhEqhkHqOBn02L3HPhD6xtIzptCBEEPvx4xgFHbkM+9+AxS5f7JYDJoZpEOd+pIQ0bk4TecGOsXx2NwIxac/iJAxDOq921gqCO3XelCnDV8IjHdxSkA40Lfz07CBVUFB34FSQbltiwzJIEYiZIgzfEfE8bm3VJOKUtWbgGksQNgIMshCUcxteRWE/ub5hClU0JWvSWrIxqgx+9oUeK+tIBmlBqMqsyFxVK8jMF22geQs4Yj04xEg1yKspcp00DhXHx0A+a/tMECo0kVi0HI7TAfixwFAGJfMpAxQbDKpxfD6wWNDzlBJIHUdcfVlEK8PxOaPQ8ZrvEfODkB4bNgGYhT6+TdNcCRmxOpUvwBxDWKYDEKVlkEWUDmQbtr4Z0bHwgS55kfp8Oe4qDu16QFaORuh6vGntHzYT0v73LTk3lUxFiBk9IlnrwFCDbJQh8wgedoY5Pk2KVDY5iiAmDpkCJlaMROiqnePaFnUJ8YiO2WDsMuKBSFTQCFbqEF1mUFaNfucqid67Qep04Z+HQgVGqB92VdiCuszL8U0MghbXgahBlmuQ7ppKwTSTRvGIju2gHTThj71n0Oh4OkqE4SW/+G64L9IePDKATgXRIBQFGUQhwVQsS0fycH1B9n5i6BCLR+ZH/9bee0nmpqWX2fbfDQAAAAASUVORK5CYII=",
     "wiki_name": "Ancient effigy",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_effigy",
     "equipment": null,

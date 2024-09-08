@@ -1,7 +1,7 @@
 {
     "id": 15266,
     "name": "Superantipoison(4)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "4 doses of super antipoison potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xt2W30tTYRjHfWXsHA6nCy8KalRWas1abummTU0lNZtuMn/U/EGi5dC0pQjpjAiioCgoCiGKghATL9IhRBcRdFEXEQRBEOuf+bbnPTtnZ9OC4Owd9MCXwZCdj5/3+z5bUdH/MQzZKegwjA8cQn/nPrQ17MaJYyWFhmJ4/aQBy4/qeWYvOTEUPlBIKGbAvLhfh9joYURC+zmQu7RUNJTWGR3o+d1aTF2o4MdXgD4xBEO9CIfPG3aWbnsxMVyOno698Pnq4a9vEQnFMDg4siVdwV60tQfR1NwOt9sr8uhStys6wRONThoJdIZxujUAr9eP8gqnWKCZ2TkjsdgMpqZi6DjbjZP+ZlQerYLDoXVJEBANw8rKKhKJTWxsJLC+nuDH5fH4jFITjFCg0bFxzM8vYHHxOg8dV3V1XSFgaBimp2OIx+PpLBr9EXxU+jD88lzlhuYX4jx0ZLW1jTjidIm88jQMP9QhJF1XjBDcU7kZcXsNhmwVIi0xvFNCSDovZwG9VYJ4KbfipuTDmL0SYdtBUZYYfpIdAtKTAiLIZbkdd6Q6TNpdiNjKRVhieK90I1kazQZKhd5fkzvwQGrAjL0KIzanCEvp7pRNaDEBfVDC2FA68Vg6hWt2D8ZTx5ZnS4w/NLlrLANkykelB5tKF57JLbgheTFtP55vSwzf1Ih2XJRtgKjYr+Q23Er1KM+W0nZKRjJAOfmk9vJir8pncE/yZ1kK2iz/FcnwVT2HpOPiFhA9n9U+Xuw3SgAPpUZuaS5tqc9WZqUl7Wbxq05Af8gXtd8o9pLcxC3RkiRLtChD1lli/L/nZd4GRA8ZJCC92GSJliRZokVpoSWG7+qABvSXUOHNxSZLtCTJEi1KsmRhl9gWgNwQkLnYZImWJFmiHjUV7zEMWWIpuWM4O3TjTCGLerGpR/RFq3+v1RTvtBJGH+1XIG1qKjgvuQmO3teLTcdF117vTR5gtNE+UHsAxQxGr1RsgqGlmAtiOYx5Mg/IwOVGCMh2Y35wbnL/9l/nN4G/63r+NhZkAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xt2V30tTYRjHfWXsHA6nCy8KavTDUmvW0qWbNjWV1Gxzkzktf5Fobcy0pQjpjAiioCgoCiGKghATL9IhRBcRdFEXEQRBEOuf+bbnPTtnZ866OjsHfODL4Fxsn33fz/uckpKdMQz5sXQYokNHMBA4gM7mvTh1osxqKIa3z5qx/KSJZ/aKEyPhciuhmAbz6mEjEuNHMRg6aBWQ4owK9PJ+A6YuVfHjs8AnhmAognD4otbO0l0P4qOV6OveD6+3Cb6mdjOhGIaHxwrSE4ygsyuI1rYu1NZ6zAWKxuI8sdikFn8gjLMdfng8PlRWOc0Fmpmd05JIzGBqKoHu87047WtD9fEaOByqS6YNw8rKKlKpTWxspLC+nuLH5XZ7rZCahmF8Ior5+QUsLt7koeOqq2u0AoaGYXo6gWQymc2i5o9lQH/c13lD8wtJHjqyhoYWHHO6zIZi+CWPIO26poXgnottSNrrMWKrMhOI4YMUQtp5NQ/ovRTEa7EDtwUvJuzVCNsOmwXF8JvaISA1GSCCXBa7cE9oxKTdhUFbpRlADB+lXqQPxfKBMqHna2I3HgnNmLHXYMzmNKOlrDsVcSU6oE9SGBtSAE+FM7hhdyOaObYit8T4j6b3TOSAdPks9WFT6sELsR23BA+m7SeL3RLDD3lQOS7KNkAk9huxE3cyHhW5pWw7ZWM5oC35Ike42KviOTwQfHktBW3lRkMxfJcvIO24XACi5qvcz8V+J/nxWGjhLc1lW+q3VRgJpNwsftUJ6B/5Jg9oYi+JrbwlWpLUEi3KkHEtMf7vuczbgKihBglIFZtaoiVJLdGiNLAlhp/ykAL0n5DwerGpJVqS1BItSmrJQJdYAcDWEJBebGqJliS1RB61lu4zCoYmA7RrND9043ShFlWxySN60arvtfrS3UbCqENfqGxqEpxLroOj56rYdFx07XPeGA6jH/UHlJesCkafJDbB0FI0AWS7ycEVZgfOX/owtm/1zwo7AAAAAElFTkSuQmCC",
     "wiki_name": "Superantipoison (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Superantipoison#4_dose",
     "equipment": null,

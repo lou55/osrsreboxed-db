@@ -1,7 +1,7 @@
 {
     "id": 15790,
     "name": "Rune platebody (t)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "Rune platebody with trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xu2W70tTYRTHvS9CJqKIsuFkzh9MmYumw9bCNRcqyhooLXVZZhqmCSEkIvQb34VERNSrCoLeRgS9CvrbTn3P7dydPV63u5ovgh34wnj2POf53O8593luU1MjGnHqYVG53MZOGq9r2ElbOrup1R+itu5+6gwP81j/WIp6onHyhyPUHgiSr7WNx33tXXTG1+KoTmB2ko5QpEyAmb7xgDWUukzh+HkKDsWoKzTAUJnCNoMDqrm1vV5gFvkjceoaiDGAgIhm1w4YJpLMsEKxBEPBqZnVfXYRjrpBlcA8h0WB4QRLQ0H4Pbf+kK5sPnOABsfTLDiF8uW3DmlycYdd0lAiARrt6/MCZVH3SJJlQokAE01PlzkkYOgpuIVywiWBEjDtmEeXLAqevegKBeHpC7tHDCRQIg0F6OzyfQdKuyVQHlyyYbRMKMDEsjkaycyyBEw7JlDoM7jlBuXJpZ7RS6RlQo3NFah48JbOTeUZSoMJnEABCG5OXd/lFwJQuoSeoHoTWRKZYLeefnQEsPjMAoNpONMlNDlKh7cOTf4XUPYZsfPqO+vey2+sraOvdPfFF0pdu03j+SIrkVtkMIETt8yy4SjAYZm784QbHWdUcm6F4pMLFE1O/wGxe8m1n+xBizfFJkjeEezlsczKNl24ukrJ+RWWgIlbUjYNFBiMOg5MLG3wOjwE5uL/ijClKAeSp0BCCE4JmDglpZOyaSC9XoAwDyUVIJPACHcggMAlgRKXKpUNJTOBMBf/4xD9ZyDtUjUg6SETCPM0rCcgLEQZBEh6S8olJfMKJOtRYukfKWcVIIvSxU3HIVkgCXVD67ftJKDystjO1wwEa+VJyhfYCSF9aOprRt97JwEBvCYglEXehOMLSteLCaPvPP3ZooF0D3kGQn+gBLBeJ6sGUwlIhNw1NvXxhob23v2gR+9/VoQxgQQqEP59ODbbhyPcR+6agKTOWCRAstHNxx9Ycq+tPf/EWj/8TEt7r53PDlwPE/MbfIfJBYs86E85hzwCIUoW6zfMFACW99+w8BUgtzs+O8y5pY2Pj3kAsu80c7Iec0vutpEp9zx1DDP5qW3UiP8hfgEPn+yrb5KlpgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xu2W70tTYRTHvS9CFHGIw+FkDpUpc9Fy2Fq4puFEMUHJ1LUy0zBNCCERod/4LiQiol5VEPQ2IuhV0N926ntu5+7cx7vtTue7HfjCeHaf537u93vu89ympkY16szLIre8xsqN17XsRVs7u6mtK0Lt3X3UGR3isb6RDPXEk9QVjVEgFKaWtnYebwkE6VxLq6M6gdmLdERiLgEmf/sxazBzjaLJSxQeTFAw0s9QucVtBgdUc1ugXmAWdcWSFOxPMICAiKbXDhgmls6xIokUQ8GpqdV9dhGOekGVwHyXRaGhFEtDQfg9s/6Erm++dIAGRrMsOIX45rYOaXxph13SUKIagSzqHk6zTCgRYOLZvMshAUNPwS3ECZcESsC0Yz6hLAqfv+IJBeHpF3ePGEigRBoK0BMrjxwo7ZZA+QCyYbRMKMAkJmZpODfNEjDtmEChz+CWF5Qvl3ouXiUtE2pkZpEKBx/owuQcQ2kwgRMoAMHNyVu7/EIASkfoC6o3NUEiE+zuiy+OAJacWmAwDWe6hCZHdHjr0OQngLL3iJ23v1gP3/xkbR39oAevv1Pm5j0anSuwUrNLDCZw4pYZG7YCbJaz959zo2OPSs8UKTm+QPF0/j+IJ4wui2+Km2DxjnAvT8oVt+nyjVVKzxdZAiZuSWwaKDQQdxwYW97geXgIXIv/fcCg3EDyFFgQglMCJk5JdBKbBtLzBQjXIdJTAQEELgmUuFQpNkRmAuFa/I9N9NRA2qVqQNJDJhCuc8NWLYsnIoYSkD0ucUlk/oHs+YhY+qcUZ8WyKFvYdBxyT7BBBUS/beWA3LHYztcMBGvlSUwgAdGbpj5m9LlXDgjgNQEhFnkTjk8oHS8mjD7z9GeLBtI95BsI/YEIYL1erBpMZSBbWLvGpvZqaIv2Pv6mp5/+VIQxgQQqFP23OTbbmyPcx9o1AUnOmCRAcqM7zz6z5Fxbe/WVtX74jZb33jmfHTgexuY3+AyTAxbroD9lH/IJhCpZ7D1mCwAr++9Z+AqQ0x2fHea1pbW8xupW5uJndqNGNepE9ReSq5xjrOzZoQAAAABJRU5ErkJggg==",
     "wiki_name": "Rune platebody (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_platebody_(t)",
     "equipment": null,

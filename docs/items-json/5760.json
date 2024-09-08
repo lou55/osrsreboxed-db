@@ -1,7 +1,7 @@
 {
     "id": 5760,
     "name": "Slayer's respite",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "Ale with bite.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs3Xf0tTURgH8O2d+BL6r/6o11Cm/SC13/bDJIlFYyxj2VipsdRppbGhw3SMtWFZZpIogSJSYn8kJCRIFGWm7+CJ7xnP9dzHM9vdbuGBL/fec8/lfHbOuWebx7P7i5fMMd3/58VL7cEqag1UqkT8hyh8/aAKIwY7z9BA9BQl7p80oOSHKBueBzEKII7ExNtq6VHkhK1jXOOejB3lCOmlaHP1NhSOgHAY1BM+Tp2ho6otjiYQ2uvot+kgvRnylYZiEM55dBjUd69GgbhtIRCem0gFaCp7m6azdxQIfeypqFCRvYuSH3b+1AxCpyZQrOWYBcK5CTQUO2sD4ZxBsndRvLZpQEe8uHENkD70MoVA6Yf17oF4lFCH+2F/mEK+EN1sCpK/0U++Sz5qOt9EV043WDAJetZ7wQIhjkC8LiRIYR/Eqa+9l3ru9lBXuIuioSi1NbdSJBBRx46WDnVPonJPLtpBwzfcAeUGc5Tpz1AqnqKhx08p2Z2kRGeC+mP96jqbzCoQjxaDRuKX3QWh/sPse1r9skpz03M0MTJBY9kxepkeVcH1zOQMvRh+bo0Qg/ACvBpotECTmVsWxjFIor5//UYryyu09HGJFuYWaHZqlhbnF2n502cFHc+N0966fbS//oAKngFoLHnVCJK9Fyhbb4wEVbVX09qPNVr/ua6y8WuDNn9v0vy7eTVtwCC18ToreO714LVSQfk9CCNUCKR3hqCOwyC0remrNYL0TVH2Lkr+lTeBEKcgxHUQoxAnoOroESuMKhukjxKOxYIkRB8h7NKMKQqEN8wE4p8Yla2H/wrSIfiqwdeGPmVFjg7KFkiuI9QzCItVD+oQff3w/gMQvjZcAzGqHBB2aR3EKNm7oeRBpmkrFYSfHaOJBguEPcjBPmQH6dOGOv7VtxOIMQhGp2wQ3rKdQOhAohjEH0ifLtdActpQzyB0mF8D9vDi57YApbrP2UDYgxzvQ6Zp00E4R+f8JwC7OG+e+gihrSsg07TpINzT/5XoILTT10+ZIJTtU2GKjtEjQdgUdRDHAcjj4W19p0igHn39uAIqtkhkMVjOVtv/VCTSFPnMri5/APkYqn40kC9IAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xu3X7UtTURwHcPdX1Yv6G8q0B3L2bA8mjVg0hhnLxmoaS52rXGzMsXTI2rAss5EogUNGib1ISEiQKMpM/4NffM/ldzv37Mx2t1v0ogNf7r3nnu18ds65Z1tT079fXKSP7v4fLy7q726hsL9ZJOTbT8Er+0QYkRk8SaOR45S8c0yDUj9Ew3ADxCiAOCom0eem+6Gjlo5xjXtqrChbSBdFelorUDgCwmFQLHiEBgOHRFscdSC0l9GvJrrp5Zi3PhSDcM6jw6D47TYB4rbVQHhdMeunufwNms/fFCBbGLwpf2oGoVMdKNp72AThXAcai56ygHBeI8hlmQZ0xIsb1wDJQ6+mGmjiXodzIB4l1OF+0BekgDdA1zzd5Ovykfe8lzxnPHTxRKcJU0GPR86aIMQWiNeFChLYuwmK949Q7FaMhoJDFAlEqK8nTCF/SBwHegfEPRVVeHjOChq/6gyokClQLpWjbCJLYw8eUXo4TcnBJKWiKXGdT+cFiEeLQZOJC86CUP+29IbWP67T4vwiFSeLNJ2fpmcTUyK4XphdoKfjT8wRYhAegOejXSZoNne9VgyKFaSivnz6TGura7TyboWWFpeoNFei5fIyrb7/IKAzhRna1b6b9nTsFcFrAJpOX6oXhPLriVFBLf2ttPF1gza/bYpsfd+i7R/bVH5dFtMGDOJOtJvB615kLtcLMvYgjFA1kNwZgjoOg9C2Le7WgmxsisYjrwMhdkGI4yBGIXZArZGDZhjVMEgeJRxrBakQeYSwS9eIQTGeMB2If2I0hw/8FiRD8FWDrw15yuoCqesI9QzCYpWDOkReP7z/AISvDcdAjGoEhF1aBtlAGSDdtNULws+OqWSnCcIeZGMfsoLkaUMd/+rbCcQYBKPTMAhP2U4gdKCiGMQfSJ4ux0DqtKGeQejQeENrePFzW4Cyw6ctIOxBtvch3bTJIJyjc/4TgF2cN095hNDWEZBu2mQQ7sn/SmQQ2snrp0EQSuVU6CJj5KggbIoyiGMDVGupRHLk9fMXQTuVSmRl/pfGyk+vFF/y8e/RVAAAAABJRU5ErkJggg==",
     "wiki_name": "Slayer's respite",
     "wiki_url": "https://oldschool.runescape.wiki/w/Slayer's_respite",
     "equipment": null,

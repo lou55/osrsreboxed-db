@@ -1,7 +1,7 @@
 {
     "id": 6631,
     "name": "White sq shield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": false,
     "examine": "A medium square shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xu2XD0uTURTGvd9EkQgx/BNmhpmGmZlhmpmZmWZmZqaZ2TDTzGzDzCyXWY2NYTZljCLCz/fE845T5333DordVlAHLmxj4/72nN+5dyso+F//ThlkX3kvg3g4jM3lZbx4vIDb1wYx0N2NztZWnDrekG8wg8S7t4iurSEcDOL5o3kEZ2awcG8KD8bHMTUygonrQzhWU5MPMIPdaBRbG6/xfmUFL58s+gIxsZv9/ehoacHhysrfCZYGknYR6NncHJYCAczfnURgbMwFNNTb67TyZH09yktLbYMZJGMxV7v8gCZvDOPW1QEM9/VhsKcHVy504dK5Dlxsb8eRqirsLy62BZUG2t58g8jqqgNEoUOzs1i8P42HdyYcIPrjB9RQW+uktK+oyAGqKCzMBcogFY+72rX+dCkDaHp01NUuATp9otFJR8PkAGQcgQm0E4kgtv7qO5AWmkB+/lw+34nGujocLCuzAcMy+PRhy9WujVAoA4gTRn+8QJLOgZISO61iOgLEcRcgLTSBsvnDdI5WV9tL5/PHbVe7COgF4oTRHy/QmaYmB+ZQRbmddL4kEq52CZCeMAJl84fp8AyykE76rtJAbBfPHwrtHXk/f5gOYeiPlXS+7u642kVAARKhCST+6AORQIQ529xsLx0NxNOZr1Fo78j7+cN0CCMXbA4wLIO9ZDLDHwESoQkk/migrrY2B4b+WEtHA/F01kLrCRN/tNCE4b1lBYau7KVSGf5QaD1hBBJ/tNBMhzA8DK20SjYWV5iGAFFoPfLijz4QCcNxt5IOW0N5uTlbxMXnXIQiDL0hhPijhRYYPVneXX6hjOME28Bvzs3oB1vCTbkoL6H4Pj6WG178IQwdspCOlPefQ+ZiGlwCJf4IDH/kW0jnR8k3y7YEjC0iFIEEhmAW0/n5EjBC8BCUlPSoez+Tp0qnxYQsTVbupdv4x2F0/VUwtusbH/AP9YqALB0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuUlEQVR4Xu3WcUtTYRQGcN+PIhIhhmaYGWYaZmaGaWZmZpqZmZlmZsNMM7MNM7NcZjU2htmUMYoIP98Tz70cfe/dXQSe9k8eeEFFvD/Pec57V1BwUP9PGeQ+eS+DZDSK9cVFvH0xhwe3+9HX2Yn25macP1OXb5hB6vMnxFdWEA2H8eb5LMJTU5h7PIGno6OYGBrC2J0BnK6qygfMYDsex8baB3xZWsK7l/OBIHbsXm8v2pqacKK8/F/CXJCMi6DXMzNYCIUw+2gcoZERD2igu9sZ5bnaWpSVlGjDDNKJhGdcQaDxu4O4f6sPgz096O/qws2rHbh+uQ3XWltxsqICh4uKtFAuaHP9I2LLyw6IgY5MT2P+ySSePRxzQMxPEKiuutrp0qHCQg2QQSaZ9Ixr9dVCFmhyeNgzLgFdOFvvdEcNwwATtBWLIbH6fhdkB5qgoPzcuNKO+poaHCst1cCwDL5/3fCMay0SyQJxw5gfP0i6c6S4WAPkdkdAXHcB2YEmKFd+2J1TlZUaGJbBj2+bnnER6Adxw5gfP+hiQ4ODOX60TANk8DOV8oxLQPaGEZQrP+wO7yAVDLfJBnFcvH8YaP/KB+WH3SGG+VEB/dre8oyLQAFJoAmS/NgXIkHEXGps1MHw4TaItzN/xkD7Vz4oP+wOMXsv2H2VwU46nZUfAUmgCZL82KCOlhYHw/yoYPhgG8Tb2Q60vWGSHzvQxPC9pYJhVnYymaz8MND2hhEk+bEDze4Qw8tQBSQPlqywGwJioO2Vl/zYFyIxXHcVDEfD8PLhHBEPv+chihjmhgjJjx1owahtFjPBMfA/58OYD46ED+VheIni7/FrecNLfohhhhQwUvxDfz7sBo+gJD+C4Yd8RdDflAvjiIgiSDCE5Rljl3EQvASlS0qrvp9yu8UOKW2WVknGDio/9RseEs9jI6q3BwAAAABJRU5ErkJggg==",
     "wiki_name": "White sq shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_sq_shield",
     "equipment": {

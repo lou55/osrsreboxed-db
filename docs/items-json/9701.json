@@ -1,7 +1,7 @@
 {
     "id": 9701,
     "name": "Torch",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-20",
     "duplicate": true,
     "examine": "A home-made torch.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xs3VXWvUQBTG8SxSloL0RhC8snjjrfWmfgsVRUVLRcUWRQRRlFIUX0rxjUKpL6i00FJqKVoRREVR9JON/BOe7Mlxkm52o3TgsJlkdue358xMkmT7t1aIR+z5P2+t8GT6WHg0dTSN2VtHwsyNw2kIsTp/LizPnQ1LT8cjKP8n+oZnIKEAKTxm8fFYeDl7ujAxfZ75KKJqIVth7vbxv1B8AlEI9HzmVJi/eyIdy2cMxHiL/rExHb6tXe8NJRDXyo5Arx+eSUEaWwbie9/Xp8KvzXvh9+aDFMQcB4aH0/Czu5alXf9aICaNgRbun8xBXMdAawvnCyCuBfKzu9YqlIGJtLjpexCTg1B5y0AbLy42B1KWuBcDKZMCkTUPev9qIgcRtUBaFx7E5B5kF3QV6MObySLo7c3+QdwHJJQyaXdkGejj4qVmQQQAC/ILugzE2M/LV3LQz3d36u0wC7IofjwGEoZxZaAvK1ejID97ScsOL34ckPoe5Be0QGTSg76uXusVlJ1BZIgfp79v10AYbLfTawvyCxoQ9zyI8RZkD0U/u2vZlheI/tjBoTA6MhKG2kmeKQuy6ycGYlxjIGVIWdq/eyDs2bkjL59f0AL5cjUGEsquo0N7B9NQ32LKQOvPLuQgTmlhugKxQ2IgvQ4EIVTGKhDZ4bVhM9RldmgdkC0bIG1lXpJMQn+rDKlcvDYaAwnFfSYQiOd+/dhMWhCntAUJ5WePtAwUK1uvIMZ/WrqcgziDapxDRZAtmwVpy/tyeRDwvkHssq1ATOZfGQJpralcjYF82bhvQf6E1nuP72ksILa8BXEG1T6HYmWzIK6rQHb9NAKKlc2CeBZb0IReGypXnyBa5+CrCr9+FB7EoWhBihqgJNGxXhUeaMOun0ZA3TaP7Aar6Iz9T80jY+G/s63bH6CSzplyl94xAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXUlEQVR4Xu3VfUsUURTHcfcVWhQVFYpFRSFBFIlI0YOIPSCIWaQoGKIipgRRURT1yq58Z/gNZ86e2d15UPrDC4d5Ojv3s/eee2ds7P9vvRRH9PzEWy+9mbuQXs2ez2Jh5lyafzSehRDby1Npa2kybb6dCFD+T7SG5yChACk8ZuP19fRh4WqpY6555qOMqoXspaUnF/tQHIEoBFqdv5KWn13KcjlGIPIt+vf+XPq587AZSiDONToCrS1ey0DKrQLxu197s+nv4fP07/BlBqqF4aX61wLRaQRaeXG5AHEegXZWbpRAnI8I6pWmgY5U3Fx7EJ2D0PRWgfbf3+oOpFHiXgTSSArEqHnQ54+3CxBRC6S68CA69yBb0INAR+t3yqDdx+1B3AcklEbSrsgq0JeNu92CCAAW5Au6CkTut63pAvTn4OmoGFoZZFG8PAIJQ14V6Pun+01BtHzz4uWDQL6gBWIkPejH9oOmoHwPYoSGgXxBk8c9DyLfgmpsivmSj0BEBLL1E4HI6xQkFEEH7Lh0wLkvaIH8dHUGsqPE0YLI8wVdBdp7d7MAsUuPiKHlKywC6XNgQb5+IhC5fDbsCDUC+TrSUhaI62EgTRefjc5AQnGfDgTiua8fO5IWxC5tQTVQOSiatqYg8r9u3itA7EE19qEyyE6bBWnJ++nyIOCtQRTrMBCdRSvM1pqmqzOQnzbuW5AvaO1V/E65gFjyFsQeVHsfiqbNgqIlb0G2fjoBRdNmQTyLCprQZ0PT1RJEI3F4+PpReBCbogUpaoBGbf1Iha2fUwQNav3I/jhr7doxL4Ks1q6M5tMAAAAASUVORK5CYII=",
     "wiki_name": "Torch (animation item, Sea Slug)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torch_(animation_item,_Sea_Slug)",
     "equipment": null,

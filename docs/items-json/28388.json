@@ -1,7 +1,7 @@
 {
     "id": 28388,
     "name": "Strangler serum",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "It smells horrible.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xt2X7U9SYRjGfbY++LWPrVW2ps1elua7aOJrKKJDpBTfhihiJEKIiC6blZWly6TMLCs1HWkpvqRZf9wV94PnyDn5pe1w2Lq3a+ww4PlxX9d9c0hK+j+KQaqEFkN38wWY9WdRWXQK16+cTDQUw2qwCMvTGi5PVzpajOcTCcVEmIUX+XBZL6Kp7hwHykhJURsqmhkB6P2zPDjb07h9CcgTg6HOBKPxttidN49z4GhNRYPuDHJzNSjUlKoJxWCxdPylWoMJlVUGlGirkJGRo6Z1kemyO7js9l5RNXojyitqkJNTiNS0dHWB3B6vKJfLDafTBV11PQoKtbh0+RpOn45mSSUgKoaV1RC2traxuRnGxkaY25WZmSuGmmBUBbLZeuD3D2F4eISL7MrOLkgEDBVDX18/AoHAoYZRUalHXl6x2lYJxeAfCkh0U1cnZkjFkadi6LTZ4fX6MDDgg883yK2j3VRWXi2xTf7OOBWDw+FEf79HnLS2Niuamts4VPGNcvWB9vdnRO1sP41M2QOsfR3E6ooLk5Mm9N3VqmUbi4z5mBRoZ4I/t742xIFeTjXC4y5To0sModA9CQxpd3cS4c1HIlBw5lYkV1WwdxfFu0sMW+FxCczP/SD2fkxxoG/rIwituvE62ITAkC7SpbhmifEDCUAuAiLQje/3OdDb2WaMjurR7yqF1VoYjy5F7nuWe3l45TAcaG86GmwCilg6P9+Ch2MGiW0Kd+n47hwczHIJwRaAFj604sl4PbftTm8JbJ0aJbvEeFCpAwKAXATHgSKjT0CfPrbj+USDxLbk5BNKQTH+zeUQciCatCiQD4ufO/Fq2sxt83oruW1mc5ZS1jH+7eUQv3/NiaJrAqJdREBLi1180sg2v7+K29ZiyYWh9qpyXYoFOE40aQRE23p5qQfv5iyibZQhbUmq2CFFuhS7d2IDHQtEu4iAVr44+XKkUHe05yM76+juUQEYoaJ3gWQNHU6jLgASGF0L25ryQ1Y1mjIPLVIcJlrRDxT+czEJFD3Scoz9HYsFURwmto4OOIKTSxWQ4yr2YLnkr/3X+gOJkF0I/tR8yAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xt3W7U9SURwHcM/WC9/2srlqrWmzh6UpqKCJDxCK6BApxachihjJQ4iALpuVlaXLpMwsKzUZaSk+pFl/3Dd+R7kK+hLu3fxt37HLC+7nnt/vHG5GxukohsRIWgw9LZdh0l2AuvQcbl0/KzWKIRwqxdKUksfTnYtWwyUpUUzAzL8uhtNyBc31F6UC7c9MHPTpZREcHTm8fRLME4O+3giD4Z6wOu+fyWBvy0aj9jzkciUUygoxUQxmc+ex1OmNUGv0KFdpkJcnExfUY7Pz2Gx9Qmp1BlRV10ImUyA7J1dckNvjFeJ0uuFwOKGtaUCJQoWr124iKys+S6IVw3I4go2NTayvR7G2FuXtys+XSzHUVAxWay/8/gCGhoZ5qF2FhSVSYKgY+vtdCAaDBxlCtVqHoqIy6UD+QDAhd7T1wgyJjGLostrg9fowMOCDzzfIW0dnU2VVjRRtY7DbHXC5PMJOa2+3oLmlnaPKbleJD9rdnRaytfkitsseY+XHIMLLTkxMGNH/QCUWisW2+WgiaGucf7e6EuCgN5NN8LgrxQAxRCIPEzCU7e0JRNefCqDQ9N3YXGlg6ylNN4phIzqWgPmzG8LO70kO+rk6jEjYjXehZgQD2tgqpXWWGL8hAZJDIIKu/XrEQR9mWjAyooPLWQGLRZEOVOy9Z6mPD28yhoN2pvYHm0Cxls7NteLJqD6dbTt5dfb2Znjigx0HzX9uw/OxBt62+33lsHYpU4lifFBpBeKA5BCOg2Jbn0Bfv3Tg1XhjQtsyM8+kCsX4kycjkkG00/ZBPix868LbKRNvm9er5m0zmQpSB6KnT0b8+zsrhK4JRGcRgRYXuvlOo7b5/RretlazHPq6G6lDHQWcFNppBKLTemmxFx9nzULbaIZU5dmpwlAd/lUkD/RREJ1FBFr+7uCHIw11Z0cxCgvS8vZIP8h4a+jmtNXjQILRdfy0pvmhVjUZ8w8gKcccrfgNWAKKPulwTPwfSyvkpDrEHc8prP+raCf9+3Il9AAAAABJRU5ErkJggg==",
     "wiki_name": "Strangler serum",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strangler_serum",
     "equipment": null,

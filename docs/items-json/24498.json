@@ -1,7 +1,7 @@
 {
     "id": 24498,
     "name": "Inquisitor's mace",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-02-06",
     "duplicate": true,
     "examine": "A powerful mace once wielded by the turncloak justiciar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4Xs3V/UsUQRjA8bt/owOTBMMUT0NNycvCLAjBJDHJMCoqin4JoxApehHpDUHshQoFQUykjCAiiqL+sqnvLM/67OPcddtt4cDDzO7O3PO5mdnZXG77l7wLR+j5Py9593j6hHs4Nexj9uZxN3N9yIcgVubPuuW5M27pyUQAZf9EzfAIJChAEhaz+Oi0ezF7KpGYa57ZSKJSIfNu7tbIFhQ1EAkBPZsZc/N3Rn1f6hCI/hr9bX3afVmd/DuUgGjL7Ajo1YNxD5K+5UCM+7o25X5s3HU/N+57EDna6ut92OymRNMu/1pAJA2BFu6djEHllmx14VwCRFtANrsp+cQykEg2N9cWRHJAgtlVV+drC1p/fiE7kMwS90Ig+jGut6vL9XR0+LCody8vxiAiFUj2hQWR3IL0hmZssbnZ13tbWxOo968vJUFvbtQO4j4gQclM0odxowf7/JKNHCi5PY2NrlRXiFEfFi9nCyIAaJDe0IwDMtZ/yO1uaIgx+9rbff1p+WoM+v72doxJDdIo/mkIJMs1tL/HDZd6fYCj5j57izoEstnLlOjwIlklkD4aBCQBhpliL40f7q8FFJ0jzNCfQDKLjOkp7PCQo50dPga7u/01Nc8/r1yLQfpQtNlNiV75EIgIgWT/TBRbfB0K+mcGEhQBiBOXBLR5xphjv5fkSF+fbzNOnz/AMwPpWaLWIPoJpr9U8m1mKwRae3o+BnFKC6YqEG9OCCTfJwHRd3BgIIEJgejLZ0PPUJWzQ9kE2X3EfQ3iWvYIGz4EkuXis5EZSFDcJ4GAeK4PTdp6JjWIU1qDBGWzB0oECi2bnpE0IP7Ax6UrMYgzKMU5lATpZePZzkLBdbYVfZv7GhMCAa8ZxNtjQdznbWppavJtksknw4Jkr8lyZQayyybLRQISyidDL5eA+A0B8cprEGdQ6nMotGySBBDtSiC9fzIBhZZNg3gW2tAE/fT+qRFE2fotCoXdPxIWxKGoQRIpQLmcHOuVwgJ16P2TCajaYpHVYCU2+/6nYpGhsGO2dfkFOkqTIGyB728AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xu3V/UsUQRjAce/f6OCCBMMUL+M0j7yuuCwIwSQxyTAqKop+iaQQKXoR6Q1B7IUKBUFMpIwgIoqi/rKp72zP8uzseN7ebtEPDTzM7O7Mzedmnp1tafn3S874w/f8j5eceTR93DyYGrYxe+OYmZkcsiGIlfkzZnnutFl6POFBuX8iNTwACQqQhItZfHjKPJ89GZmYa565EUUlQubM3M2RGIoaiISAns6Mmfnbo7YvtQ9Ef43+uj5tPq9eaw4lINqyOgJ6eX/cgqTvZiDGfVmbMt837pgfG/csKBGGH5V/LSAm9YEW7p4IQZtt2erC2QiIdoOgXGQbmEiSm2sXxOSABLOjULC1C1p/dj47kKwS93wg+jGuv7fXlEslGy7q7YsLIYhIBJK8cEFM7oJ0QjO22NFh6z1dXRHUu1cXo6DX19ODuA9IULKS9GHc6IGq3bKR/RWzq63NVAr5EPV+8VK2IAKABumEZhyQsdpBs7O1NcTs7e629cflKyHo25tbjWIoUZBG8U99INmuoX1lM1zptwGOmvvkFnWTIEpweDFZPZA+GgQkAYaVIpfGD9XSgIJzhBXaCiSryJhyfpuFHOkp2Rjs67PX1Dz/tHI1BCU4FINX3gcifCDJn4li5+9J4kH/zECCIgBx4jIBbZ4x5uivLTlcrdo24/T5AzwzkF4lag2in2BqlYpts1o+0NqTcyGIU7pBDCV4w3wg+T4JiL6DAwMRjA9EXz4beoWaArl5xH0N4lpyhIT3gWS7+GxkBhIU95lAQDzXhyZtvZIaxCmtQQlQAci3bXpFkoD4Ax+WLocgzqAE51AUpLeNZ9vzedOzu2jb3NcYHwh4ahBvjwviPm9TZ3u7bTOZfDJckOSabFdmIHfbZLuYgAnlk6G3S0D8hoB45TWIMyjxOeTbNpkEEO16IJ0/mYB826ZBPPMlNEE/nT8pQZRga7YKN38kXBCHogZJJAA1WuJICZ0/fxFUr8SR8fhf0pWf8DdIlKJvA10AAAAASUVORK5CYII=",
     "wiki_name": "Inquisitor's mace",
     "wiki_url": "https://oldschool.runescape.wiki/w/Inquisitor's_mace",
     "equipment": null,

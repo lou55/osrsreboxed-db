@@ -1,7 +1,7 @@
 {
     "id": 10373,
     "name": "Zamorak chaps",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": true,
     "examine": "Zamorak blessed dragonhide chaps.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xs3Wz2sTQRTA8Q1hCQklobQo1Es95NKL4s2DBw8ePKn4+weKioqigljUUhR/lOIvCqX+QKWFSqmlakUQFUXRv2zsd5a3efucNEmzSgceu5l9yXx25u1somjtt4ILR+j6P28F92h0r3swssfH+PXdbmx4lw9BzE2edLMTJ9zM4+MBlL2JruEJSFCAJCxm+uEx93z8SGZgPnPNRhbVEbLgJm7u+wvFEYiEgJ6OHXKTtw/4XI4hEPka/WNx1H2bv7o6lIA4l9kR0Mv7Rz1IcpuB+N73hRH3a+mO+710z4MYY/PgoA87umnJtMtdC4hBLUjfNTF192AQND91KgPiXEB2dNMKmWUAIcXNZw0id30pdn1x0fUUk5CbsaDFZ2fyA8ks0WdBlwZid7g/djtqRVcvRb6PZbSg9y/OpiCiI5DUhQVx5xZUL0ZuYDmqUZTOUAj04dW5LOjNte5B9AMiyNuyvFRbe6sexbE/aj5DH6fP5wsiWEoNqlfKbiiOMhECMZufZy+moJ/vbqWYjkEaxY9r0MZyySPkSHGzdFyzoC+vLwdBdvQmrfEItwJt76v5GK6W3P5K7PuZSQv6OndltaDksWWGWoF2lotuU5zEhlLJz1AIRL4G6U3Rjm5a8mMhEGFB1NC23prHMEshELOTK0hQBAOw4wpoqKeSFrPMFP12uXID6VniGAJRR+zWesksaOHJ6RTELi2YtkA8YSGQvA4EBJz8ViByeW3oGWpzdmgNkK0j2VsExGfypXZ0Ddnl4rWRG0hQ9DOAgLhOvtQO0QzELq1BgrKjB1oCCi3bSiA5hkDkf5q5kILYgzrYh7IgvWwaxJF+8qkdjtSSBQHvGkSxtgIxGH3kU9AhkCxXbiC7bPRrEIVO/o1qMkNv11X860N+Q0A88hrEHtTxPhRaNg3iHBCvE77DLs6RkKdRcnMBhZZNg7im/5ZwLru5vDZkuboE0Rp/2FcKjdFhQWyKGiTRASiKZFtfKSxQh66fXEDtNotsByvRyP1PzSJDYb+zptsf+tpaUi0JFqcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xu3Wz2vUQBTA8SxLCLuUXUqLQj152EsvgjcPHjx48KTi7x8oKiqKCmJRS1H8UYq/KJT6A5UWKqWWqhVBVBRF/7Kx3wkvfZmdbTabKB4ceEx2Mk0+mfcyaRD8+61i/OE7/8dbxTwc22Puj+62MXFtlxkf2WlDEPNTJ8zc5HEz++iYB+U+RGF4DBIUIAkXM/PgqHk2cTh1Y35zzo00KheyYiZv7G1D0QORENCT8YNm6tZ+O5feB2K+Rn9fGjNfF670hhIQx7I6Anpx74gFydxOIP7u2+Ko+bl82/xavmtBuTBcVJ5aQNzUBemnJqbvHPCCFqZPpkAcdwmqpNIAQoqb3xrE3PVRaAbCqumrxiEP44KWnp4uDySrxJgLujgUmkODodnerJpWFNgx0uiC3j0/k4CIXCCpCxfEk7ugVjUwQyvRCIJkhXyg9y/PpkGvrxYHMQ6IYN7mlVRt6W9YFP1g0HmFPsycKxdEkEoNatVrZjgMUuEDsZqf5i4koB9vb3aLoaVBGsXFNWhjLbII6SluUsc5F/T51aVeQbTVVzgLtG2gaWOkEZl99dCOs5Iu6Mv85V5B8WvLCmWBdtSqZlMYx4YosivkAzFfg3JsivHFfCDCBVFDW/ubFsMq+UCsTqkgQRHcgB1XQMN99aSYZaUYd9NVGkivEr0PRB2xW+uUuaDFx6cSELt0lxha/Ib5QPI5EBBw5meBmMtnQ69QTyC3jmRvERC/mS+1o2vITRefjdJAgmKcGwiI88yX2iE6gdilNSgHKgb50rYWSHofiPkfZ88nIPagHPtQGqTTpkH0jDOf2qGnllwQ8MIgijULxM0YYz4F7QNJukoDuWljXIModOZfb8Qr9GZd3X4+5BoC4pXXIPag3PuQL20axDEgPif8Dbt4fIPVL73MLQXkS5sGcU7/W8Kx7Oby2ZB0FQTR4ifNCo3R4YLYFDVIIgeo29aOlND18xdBa7V2ZHv8b8Xab7DWD8aKsQ+OAAAAAElFTkSuQmCC",
     "wiki_name": "Zamorak chaps",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_chaps",
     "equipment": null,

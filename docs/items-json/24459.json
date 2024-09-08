@@ -1,7 +1,7 @@
 {
     "id": 24459,
     "name": "Twisted banner",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-01-16",
     "duplicate": true,
     "examine": "A banner showcasing the colours of Leagues I - Twisted.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADN0lEQVR4Xs2WTWtTQRSGk4WUgptisdhiPyxWcGMXFerGv6BFqVq/qmJEwYX40ZZg0RhataW2tH5USdAQYwgxIeBCLIp24z/wv7gaeefyTmZOpzW3vUoHXmbuzCTnueecOXNjse3f4sov3/o/b3E1kzyhnkwMaU2NHVfpO8e0CJFfuKTezV1U2dkLHij5ElsGD4AIBSBKwmSenlMvp0Ycw3jGmpQLFQoyrubun1wDhR4gFIGep0+rhQfDei96HxD229BfS0n1pXB7c1AEwpjeIdDrx2c1EPeuB4TfrRQn1PfKQ/Wj8kgDwUZ/d7eWtC5a4Ha+NYFg1Ae0mDplgDD2ARUWLztAGBNIWhct7oQBhpjceLaB6H5AMLyck0ClF1ejA6KXMEcg7GtualJHBwed3MAcJME+LicMEBQKiHkhgRAKCXRkYMBAHO4/ZMZdHR1qX2engaq+ueYCfbi3dSDMA8j2xP6enjXyeQjjSIEghNKGKZWyqlrNm3Hh/SuVyy05YSPMnrY23QPmW3nSwIQGgjAHIP45jM3PpzTMwb4+Vfy1U/cQ5tLpMQeIIaaHbCBpfZ1WPz3o8fb229pAGBMGqlRyek0Cfc7f2ixQUIPgIQLBcCJxXo8JNDszqeelyuW3es0GQt7ZQHZRlNZFC468BKrVCmrkzJADND2d1P3wzR0GBmN7DXvhnciBVldXzNsSaHdrq0leKawlnzVHDwRhDrkxOhrA0SgTF16h8Ix8S6XuOh4qLl0xQKjShGkICCdMAu1tb9e9DwhiclM2ELyDa8P2UIPeQasDybBhXgIhgYvFjK49dlJLIFwbkQERygeEQmhXaIQLgBKolrnuABFKWve0AEiGzQe0q6XFgDCcGB/o7XUKIz47uA4g1KAQdcgFssNmA6EyEwhzuF4gQvEEEuTn7y41vhycutBAOGV/A6IhCFcKgXjNADYyDxFIhg3zvJNQj/g1SSDeexIcR/5T9obJIdSg0HXIFzYC4Y0x3giIBRR7IwHyhc0Gwpr9WWIDYR/vrwiA0Or5sZFsGFsSCEXRBqJCAMViLOsbSQLa4v0F70QC1GiTkI3AUvW9/6lJSJ/kb7Z1+wNgzhhm3LjE8wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xu3WTWsTQRgH8OYgpeClWCy22FKLFbzooUK9+BVqUarWt6oYUfAgvtQSLDaGVm2pLa0vVRI0xBhCTAh4EIuivfgN/C6eRv6z/U9nZseYSbbiwYGHncxsdn87M/vMtrT8+yUm3OHq3/ISE3OJY+LR5IiMmYmjInVrWAYRuaUL4s3CeZGZP+dA2Q/RNDwAEQUQw8akH58Rz2fGjBvjN/rsMFFeyJhYuHc8hMIREAZBT1MnxdL9UXkuji4QztfRn4sJ8Sl/szEUQahzdAh6+fC0BPHc34Hwv7XCpPhanhbfyg8kyAuDi/KpCcJNXaDl5AkFQt0Fyi9fNECo1wmKGdOAG3Fx47cO4vADwellmw0qPrscHYijhDaCcF5ba6s4MjRkrA20IWzY+9W4AiG8QFwXNghTYYMODw4qxKGDB1S9t7tb7OnpUajKqysm6N2d5kFoB0gfib19faFwjRDqkYIQmEodUyxmRKWSU/X82xcim10xpo2YXZ2d8gjMl9JUvRgUE4RAG0C8OG62uJiUmP0DA6LwY7s8ItCWSk0YIE4xR8gThLL59uCIp9efVgehTgyiXM7KPhv0MXejUVCQgzBCBOHG8fjZjYsEoPm5KdluR6n0WvbpIKw7HeSRFINX3gZVq3kxdmrEAM3OJuRx9Po2hUFd78O5GJ3IQevra+ppCdrZ0aEWrx3oSzxpix6EQBvWxvh4gONNuXAxKgz8xnpLJm8bI1RYuaRAyNJ1YlCCN8wG7e7q2rhIGITg4mboIIwOtg19hBoC2dOGdhuEBVwopGXu0Re1DcK2ERmIKBcIiVDP0JguAG1QNX3VAHmgApA9bS7QjvZ2BeF0or6vv99IjPjsYD9AyEEeecgE6dOmg5CZCUIbthcEUXwDCfn+s1fcXQ3eOm8Q3rI/gXgjBLYUgrjNABvZCBFkTxvauSchH/FrkiDuezYcr/yHzDW1hpCDvPOQa9oIwhOjXgvEBIpzIwG5pk0HoU//LNFBOI/7VwQglM31USt0jB42CElRBzE8QPWWMJLB/Quj8xdBtUoYGY7/pbnyCxbKzctNKbYzAAAAAElFTkSuQmCC",
     "wiki_name": "Twisted banner",
     "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_banner",
     "equipment": null,

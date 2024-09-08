@@ -1,7 +1,7 @@
 {
     "id": 4826,
     "name": "Unstrung comp bow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": true,
     "examine": "An unstrung composite ogre bow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xs3W20tUURQG8Jn33nsISx/yocAaISIKMYQgEBwz0+400U0iCUMZhqLLIGUhiF2oUJoQEykjiJIZiqL+rxXfPnzHdZb7THPGU7hhcS6zZ/bPtdbZx0xm84+s+MP3+T8fWXlcGpBHxX4XkxN5Kd/qc0HEwswFqUyfl/kn5zwo+0dsGB6AiAKIYTFzU2fkxeSpyMK4xmc2oqhEyKxM3z6+DoUjIAyCnpWHZebuCTcXRx8I8zX623JJqotjzaEIwjmzQ9Crh6cdiHPjQPhebakoP1buyc+VBw6ENfa2trqwq5sRpJ1/NUFY1AeavT8UgnDuAy3OFiIgnBNkVzcjGykDFmJz49qCsDgQLG8caPn5pfRAzBLu+UDMJEHImgV9eHk5BCESgdgXGsQyWpBu6Hqgj6+vREHvxpsH4V7+0E53BIgoZlI/kXGgT3PX0gWxlBpkGzoOhLlfKtdD0Pf3d0JMYhCuS0O73RE/7gMRA1gc6OvbG16QXT1mBBnBj+N49WhQLguyDU0QMmlBqws3mwUFzYsMETTctcMLsg0NEO5ZEOZrkN4U7epmBH1iQd0dW91RB0G6f3wgzEsdlGvbIr9/TUmtOi6Dg50yOtrj7tuGJsiWKzWQRtkADEeNiQMtPb0YgrBLE9MQCE+IBekXJt5JmNfb2yGHu9tDVBwI2cFrQ2eowexgrIF02QDio0xQrVaUQuGgdOZa3LUPxHLhtZEaiCjcxwKYU+zf7vqqujomlTfR/3N8gV1ag4iyq3tGAPKVjSBmCFE+uyeMYwdaXPTt3xbGQFe7nOzZFc4HCHtQgn0oCtJl0yA+8jYTcTGSz8mRfW3uPDEIT9nfQOgP+8pA6F5j/+iMNpUhgmzZcF+D7A6Na4I4FyA88p/nR8Iewh6UeB/ylU2DcF4PxAxhbiogX9k0CJ/ZHZogvjZYrg2CMNY3pS9s/zAsCJuiBjESgDIZbuv1wgJ16P5JBdTosMhGsIy1uf9pWKQv7Hc29fgDDz2Wc/MHxC0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu3W20sUcRQHcPe99x7Cwod8KDBWiIhCDCEIBDUz7U4b3SSSMIxlKbosUhaC2IUKpQ0xkTKCKNmlKOr/OvH9Td/pzNnfbDuzU/TQDw5z+znz2XPO/Ma2tn9/5MQfvut/fOTkfmlY7hWHXExfG5Ty1QEXRCzNnZbK7ClZfHDSg7I/omV4ACIKIIbFLMwclyfTRyMPxjGu2YiiEiFzMnv9UB0KW0AYBD0qj8nczcNuLrY+EOZr9KfVklSXJ9OhCMI+s0PQs7vHHIhz40D4u9pKUb6s3ZKva3ccKBEGN+WvJggP9YHmb4+GIOz7QMvzhQgI+02CcpEy4EFsbhxbEB4OBMsbB1p9fDY7ELOEcz4QM0kQsmZBb56eC0GIRCD2hQaxjBakG7oR6O3z81HQq6n0IJwb3LvVbQEiipnUb2Qc6N3CxWxBLKUG2YaOA2Huh8qlEPT59Y1mMRhREI5Lo9vdFjf3gYgBLA708eXltCCMICO4ObYXDgTlsiDb0AQhkxa0vnQlLShoXmSIoLGeLV6QbWiAcM6CMF+DEiyKQZ9YUG/Xxp83+BUE6f7xgTAvc1C+Y4N8/zYjteqUjIx0y8REnztvG5ogW67MQBplAzBsNSYOtPLwTAjCKt0kBiN4wyxIfzDxTcK8/v4u2dfbGaLiQMgOPhs6Q6lAumwA8VUmqFYrSqGwR7rz7e7YB2K58NnIDEQUzuMBmFMc2uz6qro+KZUX0f9zfIFVWoMSoAKQr2wEMUOI8okdYRzc3e5iYNemMIZ7OuVI37ZwPkBYgxKsQ1GQLpsG8ZW3mYiL8cG87N/Z4fYTg/CW/Q6E/rCfDITuNfaPzmiqDBFky4bzGmRXaBwTxLkA4ZV/vzge9hDWoMTrkK9sGoT9RiBmCHMzAfnKpkG4ZldogvjZYLlaBGHUN6UvbP8wLAiLogYxEoCaHfVIhu6fvwhqNOqR9fF/tDZ+AMUqS+eX/Y5KAAAAAElFTkSuQmCC",
     "wiki_name": "Unstrung comp bow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unstrung_comp_bow",
     "equipment": null,

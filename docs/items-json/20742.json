@@ -1,7 +1,7 @@
 {
     "id": 20742,
     "name": "Empty jug pack",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-09-22",
     "duplicate": false,
     "examine": "A pack containing 100 empty jugs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xu2Xa0tUURSG53yS/oU/oW8VFRXd6EIXuplIZWqad5mmUacZHW+JyWBKhZQhFVYIEUEEEURQWZHVP1rNs2DVds+Ml+34zQUvZzxnz97PvGvttY+x2GZsWERSWmUNf/LiejV4WjXVcbBA/tilWlNEcr/r0LKajh+WR4kjMpM8Kk9Tx2UufUJe9J2U+ewpvXKPZ4xj/N22A3Ln+j4ZadgjQ3W71woVyWzPMRWT+uK+C/B6+Iy8GTkrb0fP6ZV7PGcc0ADhWK5lv4w27lWYrZWVKn/lEhHpYq5YwIUwgPfjF+RDrko+TlzUK38D6LsEkLlkQP6qy0SkkxYTIO/GzivAp8lq+XLvknx9UKvXz1M1eo/n1JXvEkC4FATEpL749QayMF0v32aa5fvjNr0uPGzUe8AxBvdw0ncpGIhfxsJMbhA4wIIs/vNJXBbnumXxWUI//5jt/AeHW6QPN4u5FABERLq4yXUEgD/zWZ3casPSwTOA3dT5LgUDAeBC4Mav5yn5/TKjQMXEc8b7qXNdCgYyCFIDBNpSUbEq4SgpttSx68ylYCAmMBBXLDg5PKQa78vI7VRKhpJJ6b8R12fUkw9kBY5LgUBEVADjQ00MDshYOi0DNxPSVndV3VSgfB0ZkLvj1pEyojQQ9QLUrc4OBcKdjob6/ynLA9luc+toHUVNlAYyGBwa6elRoHhTkyrZ2qpijBW21dA6tj2xMlAu26/1Q8paaq8sKWwXjH5E/QQ2RoviQAaDKGocMiCDSjQ3q/jMkWP1E3iWWawMRP0AhEsUNQKK1DHOmqPVj3va+6utIqKCxufC2A6zbW9ABkO39uuH96FAoEIYH4j6sT6ES+wygLoary0BYocZkL2clQXIhTGHALK0AQSMASEXiILO1u7aWCBcsrQBVQrIdljm8s4QoPyx0VezLFBve7vKTZvB+FDUEGcYOyxVsyMMyIcxIGQw1mcAsqbow+AQPQggdlh39fbyAblQqxFdmoPVehA7rOxAK8Fxn1cWTnuArCnSg9hhiaptIUCE/49d+QRMAFAsZl/cCPlrbcZa4y+1Tq4r2vT4ugAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xu2We0uUQRTGff+SPlFFRUU3utCFbiZSmZq2ul7YtnXbVl1vicliSoWUIRVWCBFBBBFEUFmR1Tc6+Ttwcpzddd1R/wkPPLzrvOPMb59z5sxWVW3GhkUkpbWu4S9eXK8GTqkmOw4UyJ+7XBVFJPe7Dq6oqcQheZQ8LNOpI/I0c0xms8flRe8Jmcud1CdjvGMe8+/G98uda3tluGm3DDbsqhQqkpn0URWL+mLcBXg9dFreDJ+RtyNn9ckY75kHNEA4lm/dJyPNeyqFISLdzBUbuBAG8H7svHzI18jH8Qv65G8AfZcAMpeCgFi0mAB5N3pOAT5N1MqXexfl64N6fX6erNMx3lNXvksA4VIQEIv64tsbyPxUo3ybjsn3x3F9zj9s1jHgmIN7OOm7FAzEN2NjFjcIHGBDNv/5JCELs92y8Cypn3/MdP6Dwy3Sh5vFXAoAIiLd3OQ6AsCfuZwubrVh6eAdwG7qfJeCgQBwIXDj1/OM/H7Zo0DFxHvm+6lzXQoGMghSAwTaUl29KuEoKbbUcerMpWAgFjAQV2w4MTSoGuvtkduZjAymUtJ3PaHvqCcfyAoclwKBiKgAxocaH+iX0WxW+m8kJd5wRd1UoMU6MiD3xK0hZURpIOoFqFudHQqEOx1NjUspWwSy0+bW0RqKmigNZDA4NJxOK1CipUWVamtTMccK22poDceeKA+Uz/Vp/ZCy1vrLywrbBaMfUT+BjdGiOJDBIIoahwzIoJKxmIrPXDlWP4F3mUV5IOoHIFyiqBFQpI551hytfgJve4uooPG5MHbC7NgbkMHQrf364fdQIFAhjA9E/VgfwiVOGUBdzVeXAXHCDCjgx5lFIZALYw4BZGkDCBgDQi4QBZ2r37mxQLhkaQOqFJCdsJ5LO0KAFq+N3roVgW62t6vctBmMD0UNcYdxwjJ128OAfBgDQgZjfQYga4o+DA7RgwDihHXXbls/IBdqNaJLc7FaD+KErTtQOTjG+cnCbQ+QNUV6ECcsWbM1BIjgnzZKm/Efxl/VGGfsLlVVbAAAAABJRU5ErkJggg==",
     "wiki_name": "Empty jug pack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Empty_jug_pack",
     "equipment": null,

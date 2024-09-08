@@ -1,7 +1,7 @@
 {
     "id": 8168,
     "name": "Exit portal",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABjElEQVR4Xu2WW0sDMRCFNw8+tBSLVFqsUKrig/ji//9zkZMhzmWzbjLNti/9YLCSSXLm5LIZhjuLESLHzQnxuN/G08tT+ntjYdKZkEStVw8priyKBLy/Pv+58nM+K3Fou5JbIX6e9mlCOJLFkKBh4N/s2oLCSIzcK1KMpSysG7R5rZApMRoqJPezrQ54T7QJkbAo29JIiN8fx9nlmYcEXXgCx87YjDZ0cba1gosHMJBLu+3a4xKfjD7uABpTjmsz/kEvl231Y6+OarRDttUHXR3OQ8L3TkOnGUqfm2qWcUgfksYl63u7UoHytnftI0enCfiQlD5BNrsAVeQ8EQVYiNxDlWIAX/VyI9qsOkL8ejsUBdnMGbiz711D+RCDyGN0EQSXctSJ4occAqfLHnm3oMfNKlU3FjUd8kWJgKAOnyKyG5XqJdOT5rBP2xz4X+4hp5gMVXfYbZJTukKaEBNhQumczMlCkYdxKMcNuYQqMZh9OkhhUoh2QTs7bm9mfsCyEEa2T+U00X3AOx34BSJJiLxo7Jk4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABTUlEQVR4Xu1W0QqDMAxcH/agyMZwOOZA2MYexv7/+zrSWJJ2CpqmCsODMJz2cjmb2N1uQzYYS7E6jG2bo+2uJ/e7sjDujHGiymLvYmFRKOBxOzNX6H9/byG3jH11jUsIjownJNcyCkMx8/ZKLEwNuHmnC+HAQuavGwXfE1KoiTL282wViFBQYgdqOMORXFwyQQR0qT6WEs4cnYGcQl7t1+URj47JyOMQCBFuAz53tDD0uZmMPA6F7sziVhtkPbBAPu0FTokWjYCaRPgJwoqEHTEAEiLko1GfsBF7GPu+X1IFAWix7FyDz4MYCM+hIghc8jGNjA5yENBd6U73gg5V4ar7FTUe4YkS211hjKDdUGn4ysKkPn6PthhwzfdQnGUmsLpLXTmnQkJMCIkgYegcPeOFwnPAkygKXYIqgWz46MCdG0LobHxXAHXCDf+JL+NHKK+3IiNRAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

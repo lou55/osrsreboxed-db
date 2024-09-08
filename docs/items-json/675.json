@@ -1,7 +1,7 @@
 {
     "id": 675,
     "name": "Rock pick",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": false,
     "examine": "A small pick for digging.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNUlEQVR4Xs2We0/CMBTFbcjit1Ax0cSQCBgRiSIYRHwFEUVERcEHvgBFNBoxxv/82Fdvm7JuK4OJHZ7khGWP9tdzbzeGhhyLgNWuS5/8/vLCYiugEkh98Iujo46+WdOgtqFBY2sYnjLD8Jpl/mMoAofZnZ4sAzorFODm9PSv0iKwnUrBVjIJa8tx2FhJ0GM8J7MZCH2yn6Pp1c7PoHl93Q8YoQCrsRgkolFYmp+HyOwshINB+rs4N0fPxRcW6PVyQjMAcShcQCmfh0qxSHvs+fYWPh4bTsEInQQnw4kRIBTww8z0NPh9PmEw3SKQCIXPHu/t0tLdlUvQuKrAW70On09N+Gq1nEF1cmBszGARSEwJz094vTRpc+neH+7bu5KN0YPMExshuAgUohoFukxagcZHRmiZsemxdNjgCPJSrRoWp4/Xt+RAaJ4oQuGmMJfOUTq9Sw5kXD2hPXiQydDSYYNj6RQAEciGNVsg8V7csbx0CGe9p285A8JdmkunaemU9Y8MCI+tQOx+fJ0oSycd8rSBijEGhLZfPYHdzU01QOtBIxBPqftkdsC/lhyoc7mM6nbdoQgk/Z42UC6iAylafTcRiPvsgcxPKJYcCD1wINxpHGhg5Vqc8tgCmZ9QKALhSQ8FQmNjcyDcaS4DMRgRSOwjtItAP9+hcQYjA8KUXO4fAv5RORAvm4vpcOlQIhBPaQBAKPYPkEP9AyD+DWKfDrFsAwPSxdLCdP4JkJ6Wyzusu1TBfAMWyIyLHvbXWwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xt2Ve0sCQRTFG2TpWxgFBSFkRqmRpmH2xsyysrKnlfa2B0VG9F8f+9aZYdpxd83n7loHDi4z696f99xxe3qaFiOzHZde/Pa0YLIZ0BZI/eGF3d2aLi1odL2kUXmllx7TvfSSEe4wFKOdzFpDtgI6zuWodHDQqW4xWp2fp5VkkhZm4rQ0m+DXWLOyEQje38zy7l2fHNNDsdgOGOMAc7EYJaJRmg6HaXJ8nEKBAP+MBIN8LT41xfePEloVkITCDzjc2qKzfJ7P2NPFBb3fl5sFY7wIiqEwACZG/TQ2MkJ+n095mG4VSIXCd/c21nl0l0eHVD4/o9ebG/p4fKDPSqU5qNo2SgdSu4T1wf5+3mljdG93t8qp7KgY5aIaBzpNmoEGvF4eM4Ye0WHAAfJ8dWUHDGQNBMuOAgqHwhido0DVxRifwe10mkeHAUd0NgAxyoS0BoDEvTixMjrAme9pW80B4ZRmUykenXm/I7IGwrV1QfF3Ylt3UhOeH6B8TADBvxdjtL68XOeelsRoMVANJLtUv1i9/ZZkDVQ7LlvFKOn3/ABlJ3UgF2AgRnHfHwCCXQfCSZNArsFEhj3dAsQoNOThQDAGWwLhpDkMJGBUIHWOYAeBvt9DAwLGCghdchAGYuTvswaSsTkMBOlQKpDskgtAEIrqg90FQFLi1aHG5jIQJLqF7nQJkJQAM67+S30BC/s9spub9D4AAAAASUVORK5CYII=",
     "wiki_name": "Rock pick",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_pick",
     "equipment": null,

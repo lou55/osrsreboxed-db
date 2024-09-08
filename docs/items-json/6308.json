@@ -1,7 +1,7 @@
 {
     "id": 6308,
     "name": "Trading sticks",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "Karamja currency.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACj0lEQVR4Xu2U70tTURzGPUREIopsNLbh8k42cZM1R5pjjRZrxShQ1BYpDhPEzMyyFvZbKaQgipBeBNGLIHrRH/nkcy7n3LvrIuve6V7sge+Le+7hfD/3eb7ndnS01daRScC5coQS2Pw2hEOGYrNGDc11BZTu72+wx3MJ1L4O4ul3pwsCE7dDmFkP42Ytglc/k3+A9lwmEMtqKjC1GkZlo0/CzD8/jRc/EvpdfXkugYdfTCDLJSFh5p5EsLBlYOX9gARiEZDrhFx8bTQDygJiKSfsMApWwXBdwXCurNnyxD0TSEFxgAk1WYhJmAef43KNRVfskNu/rIhZ9pgJ7hpKuUQ3yrkoklG/bvZyKaedIRD3KyAOvhp+FSf3Kged3Q4os/GzxSzmyklkUyHbgQL3Z0ela3c/xrD8LqqBCKHmTYEQemkn6h7o06NLWLuRke4YoW7tztu1AqpXhzUkgRglgRqB8D1ddA20PhVGedSHzFBAw7BuXQni8rg9AiEB6VhxzLxtdhC6eG835gZIYGvewGTOj5FYF3xdx+RhtUoE1VIAF9M9MAInLMCJFKaLcRTORnAmfgqdJ4/XfYCq+hv4T9qLYTqNbKJbw7xZyePO9RHkh3sQ9lswM3m/jJTx2WNVzZ3l7HQA7TlRPYdr+QEEfZ0ahkPMtVhfr246WwyglOlFyjD3OUGcJ/+HBHZWL8gIxpJB2YADTEBGwjhUY84RYRIRE8ZjEEpg93EJmwvjcjj5/GGjuO/as3jzCOiEcZ7oUiYQ4+Fwquft5fP6RtE9zhGB1c1rEoxS/Y2wPxOUzlRKg8inw3q+mghjyjkLCozx8V9Dt/ivOQR3/iYh54aRtQCMkusfnPdqKZi22mp1/QYh8STAaHUdhgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaklEQVR4Xu2U70sTcRzH/RIRiSiy0dgOFzfZxE3WHGmOdbRYK0aBorZIcZggZmaWtbDfSiEFUYT0IIgeBNGD/sh3vr/H93u3sUfdduvBveHz4L53u89r7/fnc319gQL1TAKtJz2UwN6PcfgMxWbtGtrnPgMJNL6P4fnP1qYCs3djWNwxcLsRx5vfGb+gbCCW01RgfstAbXdEwqy8PItXv9L6XnN1XAKPv9lAjktCwiw/i2N138Tmx1EJxCIgzwm59tbsBpQDxFJOuGEUrILheXuYjrhnAykoDjCh5kpJCfPoa0qeseiKG/LgjxMxyx0zwT1DKZfoRrWYQCYR1s1erxe1MwTi8wqIg6+GX8XJZz0AUXbjF2sFLFczKGRjrhcKPFyakq7d/5zExoeEBiKEmjcFQuj1w4R3oC9PrmD7Vl66Y8YGtTvvt0uoX5/QkARilARqB8L7dNEz0M68gepUCPnxiIZh3bkWxdUZdwRCAtKx8rS9bW4QuvjgKOkFSGB/xcRcMYzJ5ABCAyfkyxq1OOqVCC7nhmBGTjmAs1kslFMonY/jXOoM+k+fbPoDTv2zjmNYyKGQHtQw7zYt3Ls5CWtiCEbYgVm0wjJSxueOtfWNHnTsRP0CblijiIb6NQyHmGfJkWHddKkcQSU/jKxpP9dhEErgcOuSjGA6E5UNOMAEZCSMQzXmHBEmHVcwHZfA0dMK9lZn5HDy+tNuuc3aC7l5BOwiDGUDMR4Op7o+2LioN4rucY4I7GxeV9W6Ec41QelMrTIGK2fo+Wr+vW+y4+O3hm7xW9NDGCUh54aR/QcwSl1Z7UCBAvmmv9O36epoQKc6AAAAAElFTkSuQmCC",
     "wiki_name": "Trading sticks",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trading_sticks",
     "equipment": null,

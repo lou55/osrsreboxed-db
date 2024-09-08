@@ -1,7 +1,7 @@
 {
     "id": 21100,
     "name": "Opal amulet (u)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-02",
     "duplicate": true,
     "examine": "It needs a string so I can wear it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xs3VXWsTQRQG4OSq+C/6D+yNV6UgeFV6oaWiVkWxotYgotRWQlE0LalflMY0apWGNMZaQk2oFr8aJRVB/FVH3g3v5uzJbEyaVTpw2M3MbObJzNmTWGz/t7i4wzX+z1tcHs+OycPkqBfp28dk/tZRL4goZS7I2uJ5yT8550DZH9EzvAEiCiCGxaw+OivP06cDC+MzxmwEUV0h47J453gLCldAGATl5k9J5t4Jby6uLhDma/S38qx8XZ/aG4og3HN3CHr54IwH4twwEJ7b2UhKvXJfditzHghrDPT3e2FXN62x7fzVBGFRFyibOumDcO8CrWcnAiDcE2RXNy0eOAYsxOTGZwvC4kDweMNA5WeXogNxl9DnAnEnCcKuWdC7lcs+CNEViHlhQVjcgnRCtwNVX10Jgt7O9A5CP0BEcScxh29PGGhr9Wq0IAQAGkQE4sjQkBwaOOjdWxDmfly75oO+b971MV2DNApfThDmpZNJmU4kZOXFDS+ACgN9Kl53guzqIa25/S4Qxoq5Zcmm0z4GMTYyIocHB71xC/pcurlXUKMGYYdcIIzXtj9I9U1JCtlsAIQYHR5uQeFHaJAuinZ10xqvvAuEIOj3j13Zeb8lldfFFtDE+Lgc6OvzQdidSEFEIbAAKi7m/arX5Uu1KpuFguSfZmRpLiWpmWmZmpwM7E6kIL1LuBLEPEL8rNWknM9LbmHB77P5s7F80QehShPTEQhviAvEvwOCAEc/EQgcK57RIMzF34beoQ53B60JsnnEV5kgfNYVmnmmQTwu/G1EBiIK/ViAIIzrool7vZMahCqtQUTZ1R2tAXId215BmL+dT/gg1KAu6lAQpI9Ng3BFvz0uCwK8ZxCS9W8gLIY+F4i5xuOKDGSPDf0aZBOatQrPcS5AeOU1CDWo6zrkOjYN4isfBtL5EwnIdWwahDFXQiMwT+dPjyC0ZqFrFzZ/GBaEoqhBjC5AsRjLeruwQB06fyIBddosshMsozn3PzWLdIV9Zl+3P71u2n3w0s2zAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xu3VXWsTQRQG4Oaq+Gv0xqtSELwqvdBSUauiWFFrEFFqK6EompatXxRjGtsqXdIYawk1oVr8apRUBPFXHXk3vNuzs7Mxu1nFCwcOu5mZZJ7MnD3b1/fvt4zYwzb+x1tGHs2MyoPciBfOraMyd/OIF0RUC+dlbeGcuI/PWlDmn+gZ3gYRBRDDxKw+PCNLzqnAwviMMTOCqFjIjCzcPhZC4QoIg6DS3Ekp3D3uzcXVBsJ8jf5Sm5HP65PJUAThnrtD0PP7pz0Q50aB8L2djZy06vdktz7rgWJh8KP81wRhURuomD/hg3BvA60XxwMg3HcJygSOAQsxufHZBGFxIHi8UaDas4vpgbhL6LOBuJMEYddM0JuVSz4IEQvEvDBBWNwE6YTuBGq8uBwEvZ7uHYR+gIjiTmIOn54o0NbqlXRBCAA0iAjE4cFBOXhgv3dvgjD3/dpVH/R18063GLQgSKPw4wRhnpPLyVQ2KyvL170AKgr0oXItKQhtb/ttIIxVSotSdBwfgxgdHpZDAwPeuAn6WL2RFNSuQdghGwjjze130nhVlXKxGAAhRoaGQij8CQ2KURTbj7wNhCDo57dd2Xm7JfWXlRBofGxM9vX3+yDsTqogohBYABUX8360WvKp0ZDNclncpwV5MpuX/PSUTE5MBHYnVZDeJVwJYh4hvjebUnNdKc3P+31m/mwsXvBBqNJdYtDaT4gNxNcBQYCjnwgEjhXf0SDMxWtD71AikJlHfJQJwmddoZlnGsTjwmsjNRBR6McCBGFcF03c653UIFRpDYqBaoNsx5YUhPnbbtYHoQbFqENBkD42DcIV/eZxmSDAewYhWX8HwmLos4GYazyu1EDmsaFfg8yEZq3C9zgXIDzyGoQaFLsO2Y5Ng/jIR4F0/qQCsh2bBmHMltAIzNP50yMIba/QdQozfxgmCEVRgxgxQN22MJKh8+cvgjq1MDIc/1tv7Rdzao/xCRZVIgAAAABJRU5ErkJggg==",
     "wiki_name": "Opal amulet (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Opal_amulet_(u)",
     "equipment": null,

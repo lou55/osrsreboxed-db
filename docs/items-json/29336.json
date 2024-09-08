@@ -1,7 +1,7 @@
 {
     "id": 29336,
     "name": "Valuables",
-    "last_updated": "2024-04-16",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Some valuable bits and bobs from wealthy houses.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcUlEQVR4Xu2UXUhTYRjH914ah7MbQbCLpNiiFW7GnLtMSuyLNZIaJbMv0gvJushiwjLHGlGzwik5dKlgMxINKZKCPhwUfShiwWDQRUUIgdCFEJx58e88zzw1u+nmTLs4f/hzDs85nPf3/p/nPSaTIUOGDBkyZGhZAjmvmfIXFzh7cD2qHeZlqFUHE/gwKP1e/EW0ApFjDtw67URvswvRxk2FhtJ2nXPbkd14E5fY0VPbEfbb+X66X0Iqto5rsWZLoaAEL5RJSoic9EJ5XgzlZSmUqQ04utOFbw/9nNZsIgdIHmkvQkd9OeLnNusNJVAcrmFrMAtuGcPWIgaiWkmvF5+TOzBzuxJPr9pxN2Dj60SoXH2+kYEcZWV6QAmUdB9gK6+cCDXs52QIaNohMRDXVMj5ySY2vftlzIt0ogo9Z6ycqk5AgndOzs4cRvbdHgTr9+Jrn4x0l8QQ1xvruEawBKc8M2PxiYyFRzK+T8jcrmqLF48jdr3alhvgpbkT+DEs46KvFrVOGzLdEoNROtm3NVhMyjmolI3BqGWebQ1sDYYS0iElkoAyqs7NkLrrARnzCRl9nZ08OwSyNOuHct+M7Gs3dlnr2BoMeTS4FXfOb9ErIU2CEyKoGx2Xccjj4fufIypQuhXKWCne9zixz9y0AobSobR0T4iSIIcutOK4z8cpESAlp7X105AbmYEqHuaP/S6kblZwOjrDaFLb9sCCrithRAIBbh2l8+f0CMzFK9l09Ml05AsEo0lgMBbj+bkWDHJabS0tebOx8k9eYBhNApPj47iXSDBYtP1SXkomkwaQ77+/UACtegr/1hqkYOj/1i8fred8qat33gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVElEQVR4Xu2TXUhTcRjG/V8ah7MbQbCLoNiiFW7GnLtMSuyLNZIaJbMv0gvJushiwjLHGlGzwik59KSCzUg0pEgK+hoYaYpYMBh0URFCIHQhBGdePJ33naeSIAjO1s154OH8ec+B9/d/3vcUFZkyZcqUKVOmViWQ83/T780Fzh5cj2qnZRWq4GAC7waln81fxCoQPebErdMu9Da7EWvclG8o/dY5tx3ZjTcJiR07tR2RgIPPs/0SUvF1XIs3W/MFJbhRJikhetIH9XkJ1JdlUF9twNGdbnx5GOC05pUcIHmkvRgd9eVInNtsNJRASaSGrcMseWQM24oZiGqlvT58TO7A3O1KPL3qwN2gnZ8T4XLt/UYjgQRKuw+w1SkXwg37ORkCmnVKDMQ1DXJxsolN334a8yGtVKHnjI1TNQhI8M3J2bnDyM7sQah+Lz73yUh3SQxxvbGOawRLcOozC5afyFh6JOPrhMzjqrb68DjqMA6KvLJwAt+GZVz016LWZUemW2IwSic7XYPlpJyDStkZjEbm3dbANhBGl4A6qu3NkHbrARmLioy+zk7eHQJZmQ9AvW9B9rUHu2x1bB2GPBraijvntxgPRQkR1I2Oyzjk9fL5+4gGlG6FOlaGtz0u7LM0rYGhdCgtw2EoCXL4QiuO+/2cEgFScvpYPwx5kBmo4mV+3+9G6mYFp2MwjC5tbA+s6LoSQTQY5NFROr+aCSwkKtn065Ppl88TjC6BwXic9+daKMRptbW0rIH603mXwOT4OO4pCoPF2i8VqvHfVPAUTJn6Z/0A3pTDpZTPc2AAAAAASUVORK5CYII=",
     "wiki_name": "Valuables",
     "wiki_url": "https://oldschool.runescape.wiki/w/Valuables",
     "equipment": null,

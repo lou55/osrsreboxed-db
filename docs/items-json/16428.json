@@ -1,7 +1,7 @@
 {
     "id": 16428,
     "name": "Goblin mail",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "Some brown armour designed to fit goblins.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4Xu2V/0tTYRTG93IZY+OyMTYcOnTexnVsxtSh06HGwsRKyfJLYGaWmREZGn1DSDArxcCIIvqhP/aJcy6v973vvjRT90t74GHccc/Z533Oubs+X0st/T8SqO560u9tpKYhCZhBw+N4JIj2WKjODwhEzABbr61d05AErEQAiagfMdM4sd0Z5cb93d1svcpR5UHOAOXEm4wHGEhCqZZAeqUjwSmqhyBXQjUEJlDuMVDoMjxAZLqW7r0Ur9FQ8DhVEHkIFSwc9CFu+mr08EhgMmtg2HKAJJSdDHrgyKV8R5WGAp0J0wNEPdR0OyI+9t/HzhK4lTcwlvYCSShpus6kYmw3fhdGJkKferp2mw+pmAukE1SRkxKNTYLkrRByXY7VtAiIlpxMMOq4JIxe05c0kGs/JdBiwY8bvcYJzIBtopgx+VNNiU+sAKk7Q6b7qIZMfeQ6NDguVQJLRT+DqSOZGU9zYx1K3xMyfdfX0+apn+v380NzinRUOU3ckwjcLtuclISSY1B3RAW0OsIVPf4hHVeVhQKlXJhHoO+GDiQfcT2Nyp5nkgNUC0qCUToqzDkC6HITkk+e3CcJov4B6ulcgERFMuXRUVzOZmFbVtX31oUD7b99g3ebm3jxeA1rS0uYnZrCWLGI4YEBFPJ5hkslk4hF3Zew3uUcJfDt4z4OdnbwfnsLL59u4MHdRcxMTuL61TImxsdxZWQEpcFBDPX3NQOIJPDj4ABfdnex9/oVJ3V/YR735u5gfnqaE7t5baIZC00S2J4d4pH9OjrC1w97nNTzRw/xbHUV68vLnE4mnW5eOgREqWw9WWcQGhklQ6aR0R7RDoUC8l/+wiXw+/iYE/p5eMjj+/75EwMSHI1vY2WlWSOTct9PtdxEGEfyB+tZr2mppWbqD7k4KxAL1kJjAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4Xu2W/0sTYRzH7+EYY+PYGBsON3Rc4xybsbmh06GLhQ0rJUszWGaWmREZGn1DSDCriYERRfRDf+w7Ps/xbM/dvnTTcb+0N7w5btzz2et5fz7Pbooy0ED/jxjau5vszzpZ40gMmk+1OBL0YTjs7/IFDEHNy21f23mNIzHoUS+iIQ/CmtqwMRJyULh1IxeAMuONR7wcSEDJ7l6U8RTlTZBbobrVaIihMqaiMKpagMh0Lzx+KdKhIOPtlEHEJmSwgE9BRFM61LCIoZpWMa2bQALKiPsscORSNtamIMNIVLMAUQ053VhQ4W5d21YMt7Iq5pJWIAElTPepRJi7GX8TRiRCV3u6xpCCRNgxEMlMidomQLK6H5lR03JaBERDTiYYuV0Cxr4mF1eRGe4RaK3gwY1xtQGTNzQUUxq/yinxHUtA8syQ6TlaQ6Y6Yhx6gBFiqBU9HExuyVI5yQvboexzQqbPcmNDlvUrEx5+aM4BRLIfTYbbFYMnJaBEG+QZkQH1WKClxjlhOomhlAnwFthnww4kjnifAewygTpBCTBKxwUYUjMhcfLEPAkQ+QfQFSB7MpXZWVxOp2Hoej/eW72K4fjdW7zf3cXLJ1vYqtWwvLCAuWIR0/k8Ctksh0vE4wiHnLyELyyG75+OUT84wIf9Pbx6toOH99awVK3i+tUK5stlXJmZQWlyElMTOTeASAw/63V8PTzE0ZvXPKkHd1dxf+UOVhcXeWI3r827B7O/PMVb9vv0FN8+HvGkXjx+hOebm9heX+fppJJJd4Eolb2n2xyEWkbJkKllNEc0Q37vv/439U0Mf87OeEK/Tk54+358+cwBCY7at7Ox4RaMkHgFdPNAAw1k0V9Nle1c6XjerAAAAABJRU5ErkJggg==",
     "wiki_name": "Goblin mail",
     "wiki_url": "https://oldschool.runescape.wiki/w/Goblin_mail",
     "equipment": null,

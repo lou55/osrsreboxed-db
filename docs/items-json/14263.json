@@ -1,7 +1,7 @@
 {
     "id": 14263,
     "name": "Fishing hood",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "Fishing skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xt2XYUsUURSGvd/70qcgCKyoIANTpBYUTbKUTVDZTNPMVDbTMrEwycrKxBCpEIsishAiIogIooIo6pedeI6cmdnZXVtndhW6cHB3nLn3ue95z7mzZWX/13Dix5YNH6Kp95rUpy5JovXCVkE56b+3Kt1TzyQ1viin0nc9qCMtPZsN5WTk0WcZnHsn526vyJnrS9J+eV5aBqbl+NlxqW0blJqT3ZsF5WT0yRe5svRV0g8/ZKnU3D+lUJa6w+XlpYZycuPFD5l4+l2GFz+pSudnXkvPzeeqVMfYgrQOz0pD56hU1CZLrZJTkAerfzRlKBQE6ppcVqVI34m+Salu6iy1Sk5mVn55MAOzbzPUAaZtZE4VAoq07auqL5VKTm69+qneubjwUWEwdDBVwOAjAqjk0B0vbSVQycn9N7893wCDmcMwVBogBkYr2HWgutgqraWK6rLKQpnTE4+zYKgy/gbB6E3btu8oJpSTq8vfMtTBwMAc6xpTCKDMzHw3MKCIo8m+YqVuLVUYeWj+vZoYEBofDZCew4LAYGpSCGwusKrGVDFUcp6RAdlbWadGpaTDQKQQILxFSlGSa0GwIqjkdOcosnNPxbpApg5AvdMvFQi/kWau83+DCq9S4HCaJnZX15EuGAh1ACK9tAeA+M517o2hktPdYlg8UQgQi1q6DMi8xzWqLhYQkrNroAzoYKI5LxBKBNNlQNbVmYc2EDFtTicCiJ3lAqLxhYFYmDD/AGRnHkAcvBFV8oEwYxgIX+UC4hlTB5DgIQwQvSsyEBOxEMYGaPehhAJRdesB8ZylKwjEfTwTGYhJKXsmMSBM/S8g+hYwBJ8NiLkokMhASE9DxLxBIN6buWaBgpzwLEhlmodQx4AApVHGaJDOk9mA9tc0qjoYEy8EI6wWi9MCAAKMz0AbTCQgyhcjAsTLFucRZZsv7LBlYXsFQTU7A/lfRHUYPhC7r2xo11In8E++AIz7LZ1AWuuIUWEMpyY1IP9H4MaCOUijHUGxgMi7HR0oY5MVGtyPl0wd+xEZEYjhvBcvgDb+TpP7+RhAjMwU+LsvdMR9PsfITsXGRpTn/wJMwGnUrF/izgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xt2X0UsUURSHve+99BQEPVRUkIEoUguKJlnKJqhspmlmKqtpmViYZGVlYohUiEURWQgREUQEkUIU9ped+I6c2XHcNXdmdo0uHHZ3dufe7/7O75w7W1Lyfw0nmdixkYGo77ohNakrkmi6vFNQTnoeLEvHxAtJjc7L2fR9D+p4Y2exoZwMPfkqfTMf5OLdJTl/c0Fars5KY++knLowKlXNfVJ5pqNYUE6Gn32TawvfJf340yaVGnomFKqIqXNy69UPGXu+KoPzX1SlS1NvpfP2S1WqdWROmganpbZtWEqrkoWGcgryaPm3pgyF/EDt44uqFOk73T0uFfVthQeaWvrlwfROv9+gDjDNQzOqEFCk7VB5TaGgnNx581O9MzD3WWEwtD9VwOAjAqhk/71Cps3Jw3drnm+AwcxBGCoNEAOjFew7UhE31HqqqC6rLJQ5N/Z0EwxVxqsfjN60a/eeOKGcXF9c2aAOBgbmZPuIQgBlZuazgQFFnEh2xwW0niqM3D/7UU0MCI2PBkjPYUFgMDUpBDYbWHldKg4o5xkZkINl1WpUSjoIRAoBwlukFCW55geLBYido8jeA6VbApk6AHVNvlYg/Eaauc73EaGcpondVbemtw2EOgCRXtoDQHzmOr+NBMRuMSye2A4Qi1q6DMi8xzWqLhIQkrNroAzoaKIhJxBK+NNlQNbVmYc2EBLK6UQAsbNsQDS+IBALE+YfgOzMA4iDNzIQZgwC4atsQNxj6gDiP4QBoneFBmIiFsLYAO0/llAgqm4rIO6zdPmB+B33hAZiUsqeSQwIU/8NiL4FDMF7A2IuCiQ0ENLTEDGvH4jnZq5ZoCAnPAtSmeYh1DEgQGmUEXqR82Q2oMOVdaoOxsQL/giqxeK0AIAA4z3QIWEYTssXIwLEwxbnEWWbK+ywZWF7BEE1OwP5LhYgdl9W26KlTuCfXAEYv7d0AmmtI0KFMZya1IAy/yTyC+YgjXYERQIi73Z0oEz+kzn1kqkTw59I5z14AZT/M03U+7OOYBryHVHv/0fGH/gkLZ6B+VUGAAAAAElFTkSuQmCC",
     "wiki_name": "Fishing hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fishing_hood",
     "equipment": null,

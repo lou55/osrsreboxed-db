@@ -1,7 +1,7 @@
 {
     "id": 676,
     "name": "Trowel",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": false,
     "examine": "Used for digging!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1klEQVR4Xu3WW0sCQRgG4B0Wf0EQRFBGFFRQ4kUJZhpmZoZ5yMrMtFJTM80igoj++hfvLJOzo3nVznjRC3OVIw/fYcyyPA2j4TEaB7E1b9POkk2xVdsUyoGsz1kUXLBpd9mm1IZN+YCPSts+3ShGK7OWqyoyph11QAG/XwdqMuY2PMRoADFanHFjEms2ZTZtKgZ9VAn5qBExVB3MzDiMEdC4IUarjIDEVonZ+a06GkCj8yPaJTDyQKu3Pcjo/KBVMsYICO1Cq0SbBMQICK1Cm1QEcPi71vmJRyJUu7igr5fBRIgWzF4oRNdnBXrvdumj1zMFEWF0mc3S4KHJMW+djikIwqiQTtPjbY0+n/sjGPXTfxj5n6vhOU0mqV4ucwjapQ0TC4f50B5Go3S0H6Pjgzg/N+dF6jfqOjGIs0ECI0CYm3a1yudGIwZhHCNXJ5dK0V2pRK+tlqs66k2P4oAE5iSR4Cv+dH/HN0ueH/WmR2EuTDGToWalwkGYH1RJ3i71tgdhPxgcvMaYHay6qJLcOvW2BxmCrvI5vuaoEFCiSgIlKqV+wx+HcQweQKw5hllGoVIOQtuPp/MAojoYZrQMqHEIDRiE8UHGu2MQoWYqEO5MBeI/Sr4BsqPoU+5zH/0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABq0lEQVR4Xu3UX0sCURAFcC/LfoIgiKCIKKigwocSzDTMzAzzT2ZmppaammkWEUT01SfOXSZ3F+nNuT504L7/mDlzA4GpRtH4GY2D2Fm0aH/Foti6ZQrlQDYXAhRcsuhg1aLUlkX5XZvKe7Y0StHafMAzFTemGxUF/Y1phIUxy3NeTGLDosy2RcWgTdWQTa2IMIing85MwhgBTSoxVmUExFfF3TE6HX9/eF2MES+0vz9YlRtjBIR1YVW8JoYYAWFVWJMfAZwDEcTEIxGql0r0/ToyCUEUHYZCdHtZoI9+nz4HA1MQjqLrbJZGj22Nee/1TEEQRYV0mp4adfp6GUpiePzed5FMUrNS0RCsSwwTC4d1aU+iUTo9itHZcVy/u6siDVtNSQziXBBjGITedGs13RtBDKI0xj2dXCpF9+UyvXU60tNBHBBjzhMJfeLPD/f6soT7gygPppjJULta1SD0B1MSvC5E/WLw8BujOzh1npLw6sagm3xOnzkmBBRPiVFCk1Iagw8QZ44yu1GYlIPgN/U4HyCmgzJjZUAJI9xRusj4dwwi/JkJxH9mPz/q0aODwioEAwAAAABJRU5ErkJggg==",
     "wiki_name": "Trowel",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trowel",
     "equipment": null,

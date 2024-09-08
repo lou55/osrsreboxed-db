@@ -1,7 +1,7 @@
 {
     "id": 15753,
     "name": "Sextant",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "Used by navigators to find their position in Gielinor.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACN0lEQVR4Xt1V/UsCQRRsiYhCjDASFSsNixJEoyzpA6GkoqDog6KgKBCCoB+iH/rvX81uz93b29PLOi8aGNTd29vZN7PPoaH/C0FexgpBh+UUNYpJWs6MU25iNE5Rgu420nS1Ou0RhfHq3NygRQl6buaovZXtiGotTVJ9NkGl6bE4qiTodS/fEXVTT9NxJUXbpYlOhWKpEkQ97agqnVanZJVisMy0Q1n3sJmRtsVQHdHZmH+bjE2M2lRf+QGLUafXlVFEZiAIQR7gzVJCTDHt/XlJDjEEof8kRocNwZHAWxW2iQVd1HSFannVf9LJkSiEeS3ibOh8qDn0HogyrXML+xG8FrmDqp5BQ2SiD7kqpisbGmZp/Xlxv0zNof8w0RxBVM3MViHFf7Y2nRB0vTNLK/Oqu9pikBP/Yv9tYwaNQxj+4yq5cRn+LjdS0Ptlmc4a+QCbXKKCsuUe5zkQdoLePXwQ9Ha+TEdr2YAHTVH+Tc3nzDk9rmAK86/1QdDLySK1qpmvRTa0hUG29BLECCGG8RnSowXaLvOGNvSG3IdshhH0TajN6gvKZ3uuW3XCVqgPCHpsFa1KuXuTyQgFAYLud4t0sMKZ6hZmvSZCQYCgp8OSbAmNpamedpmCvPxVqE1g4cl6TlYMNxGfaBMYg2B857lmJS3txiHcWewb3hOjgSLwsPK2WZAdHp/4bY6Bl1szUiiItb9koZ0J24pwDM5cX9Bi+JbZ4Q5D+60/gn5hZKfuH5Gd+q/iA6bRSz6UwRznAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDklEQVR4Xu2V7UsCQRDGXSKkECMMRcVExcIEsShLUhFKSgqKXigKioIgCPoQfei/n3p2WO9u3VVTz4PogUFvd+/2dzPPzoVCf1eCvBGoBHXLMarno7SRXKT0UjhIKEEPewm62Y57oAICEvTWTtNLI9WD6pSWqZaNUDG+EASUoI/DTA/qrpag00qMmsWlIGCUGOq1xVk6r67ILAUA5N6QS/e0n5RlCwTGu3GgR74fRp2uGcPw2zswHPAMgGDkGZ4sBnHDvBwVZCgTAwj9JxKe87t0elZ4TAFdbToZ2sxw/0lE5/0A00uki+fQewDlLp0ZbCLpJTKJ16AhqkAfMmXM/gyrvOXQ/eJdq8Rz6D8q0BwRyJrbW7mY+tjqYZSg21aWtgrcXXUY+KT/Zt1XTtjGAYZvXCW9KM0/IHOCvq7LdFHPWMpkgrJ5yzbOcwiUE2Fe05Ogz8sNOtlJWRa6oQZvap9TUlkbKkHvZ+vUqSYtN/CDAGYry2hAv9KPSU/WqFm2PdTZUPUhPaYMBPFmtTVTne2m9SlDSoKeO3ktU/oJNMk3IEjQ40GejreUp0bZbJQ1E0nQa7coW0K9tDK0XF4gd0xVvAlKeLablhnDScQv2gTGAIz/aq5dSchy4yXMXhxb3jdGA4XhUcr7dk52ePzi2j2GuG6sSlCET0B8PV5MVQ6MOmU+G/c38u2t/zWyvgFVneEZ6nJPVQAAAABJRU5ErkJggg==",
     "wiki_name": "Sextant",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sextant",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 27528,
     "name": "Wood carving",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-11-30",
     "duplicate": false,
     "examine": "A wood carving found in a ruin beneath Kebos Swamp.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgklEQVR4Xu2W0WsTQRCHuw8+tBSlGBpMMW0SEklSmrTY2mKrlaqlKKgUBREEQRD8/99Xvj1+17ntbcVNUl868KPX3b2Zb2Zn97K0dGd39l/M+euqm1+4FYF+XU79jw87/vu77fD86mhQgXvxrO8PdzuLhCoC/fw0CRDfLsb+y5sn/vJsEJ4ZB+D18dAf7/f8/mTTT0YbfjxozRuqAKEaBP56PgoQH0/7/v1Jz18871aggNnbfhxgEO9Ot7aCYs8Z5kIgKkI1LIT09rATxBywgKtCSECx5wxzIXOCACMAspcEIzHPWhL4/Xk3gM0JyAXnZK3tEUxcmbODzYoY4x0qRWNfNXu2OX/6tF1mDIyeUzDt1loFiDVUlgoBdP5yNAuU85PBuj8YPyqd1wHFlbFAiEToP6A4eZlb58L+6yTRwIJJNXMKiPX44Cpg67KB6mAEZGXhUtLJAyqzl1x5vHFIxgJgTNIps2NWAlaVOP6ZJ85VYJQlwrEVQPGYlSrMu1yQQGnr4qh/MRcccdJiEKoXi62w/wvGbiufDxLQt+2fq6RjTwB6AOmzkZKA1NRWAAkqC6jfWQ+OyDYOnIITDMlI+Bn2mqXsty2OeoO5cNGdTDdCuePAKbH2aKdVqttuBAElAZUF1GyshstRW0cv2e2TbPMCsTdshmQkQVllAd1fXQ5Q424j3NhUy4LxV9sjENa2mg8qsnD4QxlAWAH1cG2lrBZg6g1BEFSBUmINfqRMIKwKpYyVvQLaYHXCByrun5l/rBVQFsxCaC6lleV7JYxAZoCRudJxHQhzKc2pKnVWOBZYHLhOc67KdSucXoHF0twCq1JvFqwOYKFVucni4LcOcJv2B4ujLbwWgoQ2AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYklEQVR4Xu2V0WsTQRCHuw8+tBSlNDSYYkoSEklSmrbY2mJbK1VLUVApCiIUBEHw/39f+fb4XebWWx+2F/tgB37ksrs3883s7N7S0r3d252Y83+qbn7hVgT6eb3rv3/Y8TfvtsPzq+NRBe7s+dAf7fUWCVUE+vFpFiC+XU39lzdP/fXFKDwzDsDrk7E/ORj4g9mWn002/XTUaRqqAKEaBP56OQkQH8+H/v3pwF+96FeggNnffhJgUOMwBKIiVMNCSG+PekHMAQu4KoQaBHIhc4IAIwCylwQjMc9aEvj1eS+ANQTkgnOy1vYIJq7MxeFWRYzxDpWisefNnm3Onz/rlhkDo+cUTLezVgFiDZWlQgBdvpzcBsr52WjDH04fl87rgOLKWCBEIvQfUJy8TCAX9l8niQYWTKqZU0CsxwdXAVuXDVQHIyArC5eSTh5Qmb3kyuONQzIWAGOSTpkdsxKwqsTxzzxxrgKjLBGOrQCKx6xUYd7lggQqc+tccMRJi0GoXiy2wv4XjN1WPh8kkPltmx97AtADSJ+NlASkprYCSFBZQMPeRnBEtnHgFJxgSEbCz3jQLpX5bXPhojvd3QzljgOnxNrjnU6pfrcVBJQEVBZQu7UaLkdtHb1kt0+yzQvE/rgdkpEEZZUF9HB1OUBN+61wY1MtC8avtkcgrO20H1Vk4fCHMoCwAmp9baWsFmDqDUEQVIFSYg1+pEwgrAqljJW9AtpgdcIHKkCyYWQFlAWzEJpLaWX5gYFpzFzpuA6EuZQaqkqdFY4FFgeu04JAYpuDxZpXY2FV+ZvFwf85wH9uvwF7cfcziQCnDwAAAABJRU5ErkJggg==",
     "wiki_name": "Wood carving (Kebos Swamp 1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wood_carving#Kebos_Swamp_1",
     "equipment": null,

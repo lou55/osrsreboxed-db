@@ -1,7 +1,7 @@
 {
     "id": 6811,
     "name": "Skeletal wyvern",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWElEQVR4Xu2WfUtTcRTH/b0TX0Bgf0QoDCuyNAszRFGWMmZmth6GY6xsDGs4GZWJWSIlEUgUSfVHD/jqTnzO5bS7e9Nut+kV2oEDu9vuuZ/zPd+d3zo62tGOAwsnzZloOBkezcnAUFbOnB+Xnt7LSUI5uX7nidwurkuhvCUL1XdSrLyRqZmHSajlJJ0tNwEBU1p8q2BLTz/J5HTlsMCc9F/MSGa2qkC5wnOFyt/flPkHrzSBu/doW8pL72Vw+FrAY8H85/B8A9B0bllmbtXlRn5Fbs6vKlh36pI+CDAUAwxAru+WNjSBtwbCgLFgnSpDQR5YqX2Q2rPPsrrxTU5092ux7FxNvwNU+EGNtIZMZeAZOzX/Gmois6BKUZRCAJFrm99l/fUPebm1Kyd7LoQg9krg8d/Ki696L+8d7+yMAuVUelShO9SgKwpicPMSrxfrH38lXVviL0s+A6S+9kVhaAggPBpBJaeqUHRkIi+n+sZCnfrT/EKaf/zGt/EEoWzUKPQHlZyqMpou6NwNzACsQKNQGHK/pB61gbV6QYJAeF2fG5yUY10p3Tdc0yGFGsUbEYTcK7kPX+JJg4kARHg3MoKzA2kFw0cGxlHyO7Bo0ax08NN9wrtx7GpRR2dg7CY8Un28I6nTV2JBxYDxwmQmx6dKuhz9u4TjJaIPWht+MBslP3mMOTQyF0ulloQfjB1ix4cdJ4mD8VcEfzFCVgNjTQzKC08VMzq+4mA+EmphcEyPWiw/IBMFs4dz7GB6DM9q4CxLDMpven/G3jutCgPwZ/A77WjHfxc/ATX2gZTl7Z9yAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACL0lEQVR4Xu2W7UuTYRSHvf+foC8RCqMSy7fEFFGUqYyplc1sOMZKx1CHi6GZmC9ISQQRRWF9sMK/7sR1nk6be/Jlk7r98PzgwMb2nPs65/x27jU1RYr0z+TkeHiVk77BlHT2JqW1fVhabtzzCeXk/uyaPM5uSSa/L/PFD5ItvJXxqSUf3XIST+aPAQGTW3ynYCsvDmRsovC/wJx03E1I4kFRgVKZVwqVfrYncwuvNYB7uvxe8isfpbtvssZjtXFhBb4BaCL1XKZmyvIwvS6P5jYUrDnWowcBRscAA5D3T3K7GsBbAWHAhmCddoaEHFgofZLSy6+ysftdrjV3aLLkdEm/A1T4oEpYQdZl4Bk7OeuGGknMa6dISiKAiM29H7L15qfs7B/J9ZauEMRJATz+W98+1GfrAHLaerpCdXSDqkiIwc1LvF4sf/4TVG2Bvyz4DJDy5jeFoSCA8Og5oJx2haQDI2m5eXsoVGl1mF8I80+18W08tVCVUZ8pp10ZjGd07gZWgahVGPK0IB+5gf17vpCCqu90j8mVqzHdN7ynQhKdDHYeBb7Ek3XmCB5kBG2dcQXDRwbGVdI4WKPP/X5waDSrozMwdhMeKa5+kdit/kaTX0QB2PB4Tpdj9S7hevEAZArAbJT85DFm78C0TygUgLFD7Pqw68Q7GH9F8BcjZDUwVu9QhBkdX3ExX4puYXBMT7dYfkB6BgsO59rB9Bie1cBd5hEKWVeqI1KkSJdPvwBAcUsaOQDp1AAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

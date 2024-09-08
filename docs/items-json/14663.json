@@ -1,7 +1,7 @@
 {
     "id": 14663,
     "name": "Mithril dagger(p++)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "A poisoned Mithril dagger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABd0lEQVR4Xu3VQSsFURQH8DlN0/Qm2agpKZ5EPcqTjc0sLJ7yNsrKlvJWkqxYSRJJIrISSRaK7BRRFsp3UBbyRf6693Tf3Jmxde4s/Ov0mnmL++ucO/d63p+HkH/jKApCmGsF+jf/r2BSiCn1PFatukBlIY5BhCSZ1VUqUK3W0OUYlMXYFcf18oBsjCCoVBiV30GlwjjaNypF0P+o0hRBwhj7gixihPcN4fCgohc0lQeJd2d9LdSo8zOGOcSoEBbmA2xuhDg+YtTtTeQKo0KYavhoLQbY3mLU5UUF93cRHh8ia5SiITSnfSwvBdjdCXF6kqKenyK8v3VIowjD3R4m+n2sroRt1PUVoz4/GCQ0OkJfl4fxXh+TQ75eWG3y/T1GmZEJ7iXuTjLAGF40PQIMRAwzGHN3ZkZtkOcJQ0wI9R4fzZEUIwyww90x+8YxRoX0V/T91ZkZlaMw5vWFDz7H3SF9TagrwpzEDjEm1D5jHHfHTqkwHGnMDzTGewkZrmoFAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXElEQVR4Xu3VwSsFQRwH8P01bdvb5KK2pOgl6lFeubjsweEp76KcXCnvJMmJkySRJCInkV4OystNEeWg/A/KQf6Rr2Z+1s7b52p+c/CtX1szh/n0m9mZIPjzEIojQtEQwlwjNN/irMPkkKwEQe0QYRAhTWdNeQWqVGqmhEHtGLuSpOoP6B/D+R3kFcar7niFEdwqnU6QY4y9WCfG8VYRDg9K3wtyFUEOMTqE9bXIoM7PGCaI0SEszIfY3IhwfMSom+tYCqNDmKopNBZDbG8x6vKihNtWjPu72NpKpyHUpxWWl0Ls7kQ4PclRjw8xXl+6XKMII70BJsoKqyvRD+qqyaj3N6cgwkBPgPF+hclhZRbWh3x/j1ECW8bdSQcZk40JQHQIQwl3Z2bMBomFUO1TqI96gtHdyc5NcVYgZP6iz49uH0CMeX7KLj7RkHkm9BOR38TiIeuO8SZeYWTyBWbSNMpKsLSYAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril dagger (Poison++)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_dagger#Poison++",
     "equipment": null,

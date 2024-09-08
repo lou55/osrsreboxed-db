@@ -1,7 +1,7 @@
 {
     "id": 16406,
     "name": "Barrel bomb",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "A barrel full of fire oil.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClUlEQVR4Xt2X3UsbQRTFXUoRpSAhi4tZjK6ixQ9iFLUpaWpE0jQ1aNRoW9taWloo9KFQ6EOhD4VCoX/1KWeWGyc3mxjZ3Tx44UAm2WR+nDNzLxkbuzvloFcjKb1pqGnXNcpmMh2NAMrB+soKVpeX8XBxEUtBgIV8HnO+bzSbyxnNeF5HKbrlYKe4ga1CARtra11gAieAUUoBysGT3V083t7Go83NSDiRQIoYJb9fnJ9PEsrBQaWCarmMp6WSgSOYhovSxPh4OkBnh4c4rtfxbG/PwAmYuCZwlKwpL3M/aSAHv98F+PM+wKtWC+dHR0bNWq3HNRHXhGGES/5EekB/Py7gbfsMl6cnBuqk0TBgz/erBk7ca1dcNEtZ7BenUAgmkX1wL8mD3Q3071MovuZ7v97M4efrPH5c5PH12MfnFzlcHngGqrGTRWV9CoGX2DlyzIZRQBTf42cC9L09iy/NHD7UZ/CyOo1W2UVtK4PV/ORogLjmZ3xGgL6d+gbqquYZKEZHl3w3dEnvcMu6GUjHRqCo6BJwyTGbCJCGsYF0bASS6AjF6OiStAC905A1GIhrG0hcsmOjS3Z0vHExXBoeaFBs4hKjYxuIBcTuzI36nR8bSB9uOzZxiVCxgNj82J3ZCIcF0rHJmOGI4ViJBcQNBIgd+urivCOupWtTfI7S3duG4bCNAcS67tI2kA0j843xUoNgONtiA9l9SF91+yAzJjk79u3ilWcfsg90DCBW9yzrByS3y+4/PMQClBAMK3RpEJB93TUQ+w/nWcyodHW7ZAPp/hMFlKA7UmGT1EA6Nj1YdVz6V2NW6NJtgVJwxy6n0wj1OboJSP9SgnUN1Q+Iz4hSdMeu3r/TURAjgglLb6qln78T9R+gEqHFZiGJBQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcklEQVR4Xu2V/0tTYRTGvUSIIsjYxYu7eOUqGn5hfkFtsZYTWWs5dOq0MjOKgqAfgqAfgn4IgqC/+onnvZx59nq3ivsliA48sHcbvB/Oc97njIz8O+XgpnIp+9JIU65rVCwUesoBysHq0hKWFxdxZ34eC2GIuSDArO8bzZRKRtOe11OG3XKwvb6GzXIZaysrfWACJ4BxygDKwf2dHdzb2sLdjY1YOJFAimhlJkD7tRrq1SoeVCoGjmA2XJzGRkezATo9OMBRs4mHu7sGTsCkawJHyZnyCrfTBnLw9UWIby9DPO10cHZ4aNRuNG50TcQzYWjhgj+WHdD313O47J7i4uTYQB23Wgbs0V7dwEn3ujUX7UoRe+uTKIfjKE7cShOqH+jHm0j8zO++PJ/F52cBPp0HeH/k4+3jEi72PQPV2i6itjqJ0EttjhxzYRwQxe/4mwB97M7gXbuEV81pPKlPoVN10dgsYDkYzweIZ/7G/wjQhxPfQF01PANF69gl302lS78Gsm0jUJx1KXTJMZcIkA2jgWzbCCTWEYrWsUsJI2A4EM8aSLqkbWOXtHV8cbkADbNNukTrGAOJgJjOvGjQ/Ggge7i1bdIlQiUCYvgxnRmEvwtk2yZrhiuGayUREC8QICb01flZTzxLalP8H2Wnt4bhsk0AxLpOaQ2kYWS/0V5qGAx3W2IgnUP2U9eDTJtkdvTr4pNnDiUcaF39u2wQkLwunT8cYgFKCYYVdWkYkH7uNhDzh/ssRSBWf5c0kJ0/cUApw7CikLSBbNvsxZqBXbqiLv0pUEYwUk4vCO05+ktArGuoQUARhCiX0hfG6X/lUz8BrqhrS3VfYB0AAAAASUVORK5CYII=",
     "wiki_name": "Barrel bomb (Unfused)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barrel_bomb#Unfused",
     "equipment": null,

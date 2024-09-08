@@ -1,7 +1,7 @@
 {
     "id": 1357,
     "name": "Adamant axe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A powerful axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiklEQVR4Xu2WP0vDUBTF+wgh+BkcWlIIJC1tGpRQqFTRghUpUiji4ODg4OAgODg4+M2vnne9Nol/WlqueUMP3KHh0f4495y+NBo7qchQeWqVoXnu0+3Yp6fLgN6ugwrcT6MqQ4uhT3enS6D0JKXuqEtxHlN0EJUGz5ShDN0c+XQ/8en5KqDsLKPeuF8awCXDxMLM9jwLlLZaGlCGZoeeXdfDOQMV3cEARGDgkDoQ3MG6Hi8YSGDagzaFvdBC/CsQ3MG6kJ/v4TUWrJglRSBD04Fn3ZF1yQ/J4HOz0/yCmX7AYASq+o1biutedGcJUj4HlzAC9PvZrcTrqrpTPcViKFWYSd+z7iDML/NVQBBnSgEG4rrDnb/XVdY6ZzYU/ztL1Ve7oypDo5jbBXdeFw4Aoe7VMNcKhLrDnfXCrCpDWejZ68IZd447XHcH3IG47miXE2FO9hu27s6sC3XHdeGAOxBfF6i7vDfXDiR1d2JdecR1d6Zdkh9n1oX84P5yYF0i1feZzeQUzE6fegcu412RYKL14wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcUlEQVR4Xu2WT0vDQBDFsyxL8DN4KKQQSFr6JyihUKmiBVtKkUIRDx48ePDgQfDgwYPffPTtsCaxrRZkkzn0wVxCoD/evNdJEBzkRYqq06gUrXJD9xNDL4uQPm7DH3DbxqsUrUeGHi4LoMHFgLrjLiV5QvFJXBk88wyl6O7M0OPU0OtNSNlVRr1JvzKAS0ephVkeaZ9Aipan2q7r6ZqByu5gAOJg4JB3ILiDdT3PGcjBtIdtinqRhagVCO5gXcjPZniVBStnySOQotlQW3fcujZ/SFGr0/qGmX3BYDxBcd2r7mwTu4RxQLvf/Zd4XbvdKYuhvMJM+9q6gzC/rf4CglyuvIjrDnd+X1dt4n9nV/WGgRSNE24X3HlfCwBC3fcLcy3iusOd/cLsVYqySNtzIcad8w7XXYA7ENcd7RIR5vQ4sHUXsy7UHedCgDsQnwvUvfhublRF3UXA5DHXXUy7XH7ErAv5wf0SAOMEEDEwB8nVJ7MUHn0puj3MAAAAAElFTkSuQmCC",
     "wiki_name": "Adamant axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_axe",
     "equipment": {

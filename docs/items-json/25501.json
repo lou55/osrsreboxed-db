@@ -1,7 +1,7 @@
 {
     "id": 25501,
     "name": "Cursed banana",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-02-17",
     "duplicate": true,
     "examine": "A cursed banana which forces the individual to take on monkey-like mannerisms.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xu3W/UtTURgHcO8PIRtjY2xsbGObXtlkTjYNS6XVGBkrFdPSsTLFNDMbpjXGQkR6Q5FeySAiIoL+z6d9z+Xc3Xt3NufabRE98KDczXM+Ps9zDrer63/8OyFRc2l6KBvNXUvR3vYiLc1fofRYghIDMsX6giSHfOTzOMnpsJHF0m0mSoEs3rhMxY0F2t26Rc+LywxV2szRo7U5Ws1fpemJMcqmRyhzYYgh7TaLGSiJ7t2epJ31myrkaG+d3uzfp8PdNXpZWtHBNu5MMdz17DgND/aR2+VoJ0pim5QLeQYB4MOLh/TlaIc+H27T8asCvXv2gAG1MKBWclmGGklGKeBztxeFxGYAAfHtbZF+Hj+l7+9L9PX1E4YDFLCD8qraQswY5m10OEbhgLd9qKGeHvXkoFUAoErAIH98LDMkngOFOeNVwtzNT12k1PlBivQG1HUaZ5OhhaEiqNangy0ViMRzzFrh7iybPVQpP5uh3Eyanch4NMzmyuuykRx0UyTsYT9DPif5PQ5yOaynQyG0MC0OiQpi3tC2zeUZtXUAoX3+CsZuVU5f3GfXJXCAAXtqFAIwIw4ztP94ibUNVULrMqNR6nXbKVjZKFS5p7yVe4qjjBmTvaxi+F1Zu8XQ4tAyXBOTl+IME/E6GQgZCXhYlYDim2qTw1CtlqqkD2Wx6UxCxfT7XQykRcmVawAol108LxyGaok+bzIkyqYGaGI8xiBI2W2jeMBdg4oFvSqqcWuqFTR+ckJIKoJnyGlVQRzFYSKUcUUeLWAQEquMNnn7+j12IQogzBOG/CRUC6G0i7es2gYFlAx5dCgjyGFV3gxarIYoqiCkfnHlvuEoDoqH/QyEtlm7z7QbhJDYyULWLi41BPHvmwISLy4G8bbV/gNtCeX+ES9eH4QU/01bQlQd5bkRlJQDKspEUL17Q3/agDobCaooU0HikHS3NjAchOwACCEJQXgD6CjoXOUFjYP4K8lfAQIGz+ofBNNDYu0CCKdMC+kABiEJMcZv/cFQKvQ7mF+qJqxBxU3mdAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xu3W/UtaYRQH8O4PIxRRRFFUVLqhYUau0VYxN5E13CpabU3cWtFqrTVptYk4ImJvFLFX1mCMMcZg/+eZ3/P0XDWvNvWKMXbgIHi9z/PxnHMfblfX//h3QqG/y7aH2Gj2epx2NudpYe4qJUYHabBfpUivn9SAhzwuO9ltFjKZutuJEpD5m1cot3abtjfu0MvcIqPy62l6sjJLy5lrNDU+SqnEMCUvnmWk1WJqB0qhB3cnaGv1lgY52Fmld7sPaX97hV7nlypga/cmGXcjNUZDA73kdNiMRCm8SSGbYQgAn149pm8HW/R1f5MO32Tpw4tHDCyHAbWUTjFqOBYmn8dpLAqJzQAC4sf7HP0+fE4/P+bp+9tnjAMUsL3CstZCzBjmbWQoQkGf20gUQsDQKgBQJWCQvz4XGInvgcKcySph7uYmL1H8wgCFenxHqJOyoRA3oSKo1pe9DQ2IxPeYtez9GZ49VCkzk6T0dIKfyGg4yHPldlhI9TspFHTxZ8BjJ6/LRg6buRkUovSPJA6JCmLe0Lb1xWmtdQChfd4ixmoWT1/UY61I4AADtkmUjBIOM7T7dIHbhiqhdcmRMPU4reQvbhQonlPu4jklUcczorq5Yi2CykPhluGYmLgcZUzIbWcQMuRzcZWA0t9UwFAt/esNhVhsKjmoYfq8DgaVo9TiMQCUw1pvXkS1al8/MRRKxftpfCzCEKTqtFDU56xCRfxuDVV/w3rX6oaiIWQG7GYNJFES1hiqqVC4MuUp29fnsuqiAMI8YcjbgBLtki0rLS5AsYCrAnUcZDMb/mZQAiErFxfnjURJUDToZRDaZu4+YzQIofCThaxeXKkLqv69ISFA+ovrg2Tb9O9pOcT5o794bRBS/x5DotbC1aCY6tNQte9rW1Q+bUCdC/k1VEdA5ac2MBKE7AAIoeiC8AbQUdD54guaBMlXklMBAkZAOoJBKNwugPCUdRAiQzlNGISoUCuYP3kHak/MJSPfAAAAAElFTkSuQmCC",
     "wiki_name": "Cursed banana",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cursed_banana",
     "equipment": null,

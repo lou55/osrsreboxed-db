@@ -1,7 +1,7 @@
 {
     "id": 28201,
     "name": "Iron felling axe",
-    "last_updated": "2023-11-01",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-10-25",
     "duplicate": true,
     "examine": "A woodcutter's felling axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACD0lEQVR4Xs2W3UsCURDFm4cejAgiMXJJU9GwDU3RMjItsiyLir4okQipiCCCIIIgguj/PjWz3HVd9q2u1wPzsuzu/DgzZ++OjPyrCP4rBkWYT6UwRFCEdCLhgfKWEfWAuBYyGeRtG6/X26agCJFw2IUq5nKoVSrYqdcFaGluzgwUA7E7q6USqsvLAmVodITZaFSA2B0GUlCqBrxXhMZKFqdbBawU+kvBqWo1tnRDOTDHG3m0qrY0U6NbzGbFsfJSXmB2NzfcndK0V4Sx0KjAdI/X3JEwEMNw0hiGneKxeYH8b/onEaanxtHec3bEaURIxmLiELujxsYwmoEIE+MhgXnpNFx3OP5xy5L4s0MMxGkbCBC783TpbdIPxN8hf2kC+nVnagyR2CQ6H60+oCAAb2lY6N9FnghhJhnG1VszoEkwgLf63/cnOU0Y5vzF2ZugJhoBvCIZkZWOIGFHsdd1Yq6xYZB61t+dVLF+WkCj3TsGNDvgF2GznJHjgJOk0uTfC/9TmkRyDDxe1D3/NEZAWIRaMY2bwwo+bnuRNgDCIlRyCZxvF/Hcdk5lQyAsQjE7i4NaTkb1eb/vAvnvHIAIdiqK5uqCjErtjVF3OFF8UPKovh4OzLqTz1huqt67u+bd4UVWQN+PR2bdSVphiTl/ABnIuDtlOy7LfNks4eGsZtIdpeDfBf9dA5WCGAqYYdIPUL2fnwEhpAUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7ElEQVR4Xu2W3UsCQRTFnYceFAmixcglRUVDNzTFr8j8wDXNpCQzSiRCKkSIQIggkCD6v0/eWUZXEeqh3emhA/dlXubHuffMHYfjV8WwfCJRDLuhEP4QFEM4EDBBmUuK5kBUsUgECU3Dy21NFhSDR1FmUKl4HMV8HselkiwgkuESuXOQTqOQzXIoSa1j2PF6ORC5Q0ACSpTNc8Wg56LoVJPIJRdLwIlq6lWroQyYdjmBZkHjl4nW7UWj3LHMfoLDNCpl62FczjUOM2gfzlpCQARDSSMYcoraZgvQ1qYbvRMxI8ZZ0OfjDpE7om0EYzEQw7rbyWHGfX3mDsXfr6o8/uQQAVHabAEid56uzZcsAtE7tFwWAU3d2XTB49tAf9JcAFoNYGnkp4O87sR2UMHNa33FJZYDmGVcQjDdsZgbaWK8RWrYg4DmxclAxNxWza1/uCjgqJOE3jOvAVvFUMlE+DqgJM3TZDsIifE1MLoqmf40UkBIDMVUGHdneUzuzZGWIoZ8PIBuLYXnnuVb+TsxpKI7aBXjvFXvj6cygRi0kBf1gxhvlcS/sJCRKFqU1KqPYUsmEEMios5S9TZoyIQhGYMsgD5H5zKBpp8pVeExpweQgCTCkBgymp8P83U9jeFlUTYQSbzCUl/jf/1IXx99UMZU2vKNAAAAAElFTkSuQmCC",
     "wiki_name": "Iron felling axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_felling_axe",
     "equipment": null,

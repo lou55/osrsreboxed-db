@@ -1,7 +1,7 @@
 {
     "id": 28390,
     "name": "Barricade",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "Seems pretty sturdy!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFUlEQVR4Xs2WzUsCQRjGd/6Hbh2ybiXYB6VGYoKKaBHSFyIl0gdIEkJgXQqEog5Sh4LqEEiHTgVBh/69N56ZxtldVwXdnfWFYXdnZ3Z++7zPfBjG0MHIXuNjMNpfi9AIQTE6yK9woLlAwG8oRtHQJJ0WElQvpf9VMhetIZRJRaY5zNleikMUs2FeNzU+phtKAOUTs20g3B9vxqiQWeTKaU6jAIKhAYMCdWrFJK9fj4f8Aapsxy3qXB3luKfKG1F/gJAueEaqc7K72l4GAKMJiNHd+SG1mnX6er2m349H+mk16fvtlj8/XFaoWsr7Y+qLcoarg9TBzLjKaa9RIYRKmYR5ualRNhH2B+apUaX3+wv6fG7wgnuYGR7SbGYZSiHMLjxDKQDJGWbv4WEwWgpOtIHkXoYrgDTvbQImszzTAYQCIKmYBiAFg4VQAqkUMQ6D1GHmeZw2AZOLBWknvUBbyXlHICyKgJJAHqrEOAymN4CkZwBkXpmlStY610PA4K9VKroDQTEUqOhB2gQMBkXBvmUHsqaHcRXxTirpokqMHyMAggFgZvPAzkCiH94BzEUgBQNPmM83dqDOgcXJEQXqCkWHCgEDH2BdwRS3wog2vYDgH/yMSwc1YUzsTWYfWD+qgJy9og77nX0Hin4f7AdkGLKfvX7g6P1BBSSnt3M7bTHCQGbT21tpDAXU3Wfao5fpfQovYP4AFDQdS3cMa1UAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7klEQVR4Xt2WzUsCQRjGnf+hW4eoWwlGUWokJqiIFiF9IVIifYAkIQTmpUAo6iB1KKgOgXToVBB06N9745lpHNddldSdWXrhZXdndeY3zzzvzPp8QwejzhaDwWhvNUQegmK0n132ChCjcGCSTnIxqhaSv1DtqTWEMonQNIc53U1wiHw6yNumxsd0QwmgbGy2BYT7o40I5VILXDkjQDA0YJBQp5KP8/a1aMAMUGkralHn4jDDPVVcD5sBwnLBM1Kd450VE9sAo5uzA2o2qvTxfEnfb/f01WzQ58s1f747L1G5kNUPBYVqxRRXB0sHM+NqtOyxZBLm6apC6VjQDMxDvUyvtzV6f6zzxD3MDA8ZAEIohVBdeIZSADJSYYv+iRaQPMtwBZDms03ApJZmbEBIAEnFOv/pQigYbIQSSC0R4zBYOlSey1ACJhPx03Zynjbjc45A2BQBpQUIMChvAEnPAMi6MwuVXN6tBQxmrWbeHQiKIaGiC1ACBoMicW51AlmXh3EV8U4qae1vqGD8MwIgGABmbh/YGUi9A9gIgRQMPGH/vlFA9oHFlyMS6o4ASsDAB9hXUOL2TnsDwT+YjH0iA4UwJs6m7j5QQM6/ET6ztw8c/TrsB6Q9FJBL5f3X8DCQs+m1hwLyAIyMXqb/R/EDMGPSsImsIAYAAAAASUVORK5CYII=",
     "wiki_name": "Barricade (Desert Treasure II)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barricade_(Desert_Treasure_II)",
     "equipment": null,

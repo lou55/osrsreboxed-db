@@ -1,7 +1,7 @@
 {
     "id": 21650,
     "name": "Merfolk trident",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": true,
     "examine": "An iron tipped trident.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4Xs3W7UsVQRTH8Xv/E6FXQkhFmGJmYWZmYGJZVFgqFRW9iKIQKXoQ6QlB7IEKhUBMpIygF1EU9ZdNfOfyW88e59q93i0cOMze3Z09H8/Mzloqbf1WDulIXf/nrRyeTg6FxxODMaZvHwtTNwdiCLE4OxrezZwLC89GEij/RzQMr4CEAqTwmPknZ8Or6dO5xPzmmo88qi5kOczcOb4ORQ9EIdCLqVNh9t5wvJc+BeJ+i/6xMhm+Ld3YHEogjlUdgd48OhNBurcaiHHflyfCr9X74ffqwwgix46mphg+u2uVsuuvFoikKdDcg5MZiOMUaGluLAfiWCCf3bVybhpIpMXNbw8iOQhNb7U1tPLyQnEgVYlzKZAqydjBvr7Yc03rheOPry9mIKIukNaFB5Hcg3Qf4/a1tcWe8cJdGx+Lx5/eXsqD3t9qHMR5QEKpkozZ3tycVUSxv6Mjq9Dn+cvFgggAFqQFzZiB3t5wtKcndHd2Rsje1tYMo1deoJ8f7maYukEWxcNTIK0fxcjwiXB19HzuHFB6D/LZq7TKQ0i2EcguaKEGDrfH/sjB7jDU3x8OdXXFyhGbBFVeWyr0N5DdoRnXe2B37JlaWx2Fpsxuij67a5WHpUBECsR5xnW1t8SeczxD+w/3cf/XxevFgIQiSMCOSwKOtaD37Kq8YeAYJ0zhIFslegvStOxs2ZZhqoGWn49nIHZpYWoC8eakQPocCGQxrKFqIO7ls2ErVGN1aGsgv444L5DHVANpuvhsFAYSivPa4Ow0WZCtpAWxS1uQUD57olVAqWnT90kYrtcCoqJfFq5kIPagOvahPMhOm8XolffT5UFUp2EQb48HcV47LQlIZv8HsiCtNU1XYSA/baqMQPaTIYxAPEMgXnkLYg+qex9KTZuSAOJ4I5BdP4WAUtNmQVxLLWhCnw1NV4Mg2vqPYir8+lF4EJuiBSnqAJVK2tY3Cg+0YddPIaBam0fWglWs3fufmkemwo/Z0u0Pm0GQ+MigdhMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0ElEQVR4Xu3W70sUQRzHce9v6ZEQQhGmmF1hdpnBJZZFhaVSUdGDKAqRoh8i/UIQ+0GFQiAmUkbQAzGK+ssm3rN8lu/OzZ23d1v0oIEvszc7s/Ny5ruzdnT8+6Xk4hG7/8dLyT2bGXVPpkd8zN057mZvVX0IsbIw4d7Pn3fLz8cjqPCPaBuegIQCpAgxS0/PuddzZzIT85t7YWRRuZAlN3/3RA2KGohCoJezp93C/THflzoGor9Ff1+fcVurN1tDCcS1Vkegt4/PepD61gMx7tvatPu58cD92njkQbkwPFR/tUBMGgMtPjyVgriOgVYXJzMgrpsElTLbwERKbn6HICYHoe2tl0Prry4WB9Iq0RYDaSUZOzI05GvuKV+4/vTmUgoicoGUFyGIyUOQ+jFuf0+Prxkv3PWpSX/9+d3lLOjD7fZBtAMSSivJmJ2dnemKKA709aUr9GXpSrEgAoAFKaEZU61U3LHBQTfQ3+8h+7q7U4xeeYF+fLzXLIaSBVkUD4+BlD+K8bGT7trEhUwbUOoWQJTkIUzWCGQTWqjqkV5fHz004EaHh93hctmvHNEiKHltWaHtQPaEZlzl4B5fs7V2dRTashyHYvKwGIiIgWhnXLm3y9e08QydP/Sj/+bKjWJAQhFMwInLBFwroffuTt4wcIwTpnCQXSVqC9K27OrakWLqgdZeTKUgTukmMZTkDYuB9DkQyGLIoXog+vLZsCvUEijMI9oFCjH1QNouPhuFgYSiXQec3SYLsitpQZzSFpQDlYBi26bvkzDcbwbEin5dvpqCOINynENZkN02i9ErH25XCGJ12gbx9oQg2nXSMgGT2f+BLEi5pu0qDBRum1ZGIPvJEEYgniEQr7wFcQblPodi26ZJAHHdCGTzpxBQbNssiHuxhCb02dB2tQmi0HH7CPNHEYI4FC1IkQPUbKlFKmz+/EVQo1KLrI3/pb3yG1E9RmwQxMylAAAAAElFTkSuQmCC",
     "wiki_name": "Merfolk trident",
     "wiki_url": "https://oldschool.runescape.wiki/w/Merfolk_trident",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17303,
     "name": "Statuette",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-12-05",
     "duplicate": true,
     "examine": "A statue of the goddess Elidinis.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xs2X70tTYRTHfV71JojeBL0oLYgoI01KDZMmNocZqVn+QoZKMSwGwzJGI2O0LBkZNjIGWgNjjYwllhhWiJSp1cp+GmQ/6B858T235+7u9kKi+2wdeBC26f3s+/2e8xyzsv66BGnnvyhBk9caqMtZ9Bsq42CChs8fYKAmx9ZMg2kPDnrKaG2RndbsKKXohYPUf2of+dp3pxtK0MKYn8/bBwEa6a1hpcauHGaowbOVDJSfk5MuKEFvRrsZCBmKXaxmZbytxbplgEk70Ot7Pno21ELjV49QX2c5BTpKMwMzFW7i7MCu55E2mgjVszqX3LZ0WyVLUOJuF+el58ReiviryLZzPauUMaDcVi+Ht7wwm9aVHaLVWwqo3r45U0AoLbwfJ/to8UmILauxbaK26u16sJc/lpagnwv3GWj0ch3PnsqSjfwgwHmad/FPv2sPZwtdGD7joAFvBYVO2/lYDCXoRyLOwZ6/7abuYyVUUbxB//bIE/IFEFiLOYV5hRExdG4/f8bibhT0bT5GibiXOw2tj2DLBxmtAQSG5uPrjQylYHBqc+jrXJSBMIviwVq2w/igpAKCOxLWKlMHQV6aHU4BQi6Mtpl/Rx7LYXC+vxxJAYIVAOpsKeRuczcU/AEmQSyFQYBhFSx7N97DXTYXPc7TGgMSYQYU1hFXXb7hfrO8BKvxIuZhZT48DPJdhtdwZm469YzgWoFaxvBaqIqsJNDsLRdnCCrhtVd3TvJVgjsOSqGjkCmoJIHMf82CEqwIgPI6ApTb7uM2Rrvj4VAG7yFPAINdyJIiIK2rAAQ1oBAskkAINIAwBLMdjbzKAkhObiVAMjPSMgkEe+T0BRB2IgmEi3fVyhUqQq0phA1RAsGa5YCMk9tilQR9ng7T+4le3TIAYX1FZ8k9Gi2PyxRtf7Q2jxVSZtnSTIQ+Pepn25YDwk2PNURObSVAGIaLUwN8u8M2mSEjEOYPbn0AOau2qQw1StCXpzc43Jg9UAntbe4yqRCAFLa9rNRwY+2AbZhD2HcwnbEDGf+DVRBocyVHAO6w6cFmvdOwEZpBFMPISq4S5pNmkGQZH2w+5s/+S/0CBMlwCE8YRiIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4Xt2X70tTYRTHfV71JojeBL0oKYgoI0tKDZMmNocZqVn+QoaKMSwGwzJGI2O0LBkZNjIGWgNjjYwllhhWiJSp1cp+GmQ/6B858T235967MRjRvbvRgYfBHdvz2Tnf8z1nOTl/HIKU80+EoKlrDdTtLPoNZTmYoJHzBxmoybHVajDl4qCnjNYW2WnNzlKKXjhEA6f2k699T7ahBC2O+/m8fRCg0b4aztT4lSMMNXS2MvtAb8Z6GAgail2s5sx4W4utKpkC9Pqej54Nt9DE1aPU31VOgc5Sa2Cmw02sHZTreaSNJkP1nJ1LbpsVQAhBibvdrJfeE/so4q8i2671nCXLgPJavSze8sJcWld2mFZvKaB6+2argBCKeD9O9dPSkxCXrMa2idqqt+uEnekYGoJ+Lt5noLHLdew9lSUb+SLAeZp386vftZe1hS4Mn3HQoLeCQqftfAyGEvQjEWdhL9x2U8+xEqoo3qD+eugJ+gIISgufgl/BIobPHTAaBiHo20KMEnEvdxpaH8LWLtJKAwiY5uPrjQxlgnEqPvR1PspA8KJ4sJbLkf4iwR2J0pqWHQh5eW4kCQi60Jct9TPpn/91KF/6/eVoEhBKAaCulkLuNndDgVkA+hAsYJQKJXs30ctdNh89zm4Ng4SYAYV1xFW3QzffDA/B2XgR83BmPjwM8izDM5zZm05VIxgryJYJ4tWHBjR3y8UaQpbw7NWdkzxKMOOQKXQUNIUsmQqEjAAovzNAee0+bmO0Oy5HZvAe9AQwlAtaMglI6SoAIRvIEEokgSBoAMEEcx2NvMoCSDp36rcZEELVjCyZBEJ5pPsCCDuRBMLgXbVyhRlQSoawIUoglCYTULJzGxqCPs+E6f1kn1oyAGF9RWfJPRotj2GKtu+ozecMmQa0PBuhT48GuGyZgDDpsYZorm14CDbDpelBnu4om9SQHgj+g6kPIGfVNjNFjRD05ekNFje8B1lCe6d2mcwQgExsexnJ4sbagbLBh7DvwJ2xA2X5H6xmAZhhM0PNaqdhI8wiiD7kpenOfx6/AK1QKzgWNxMNAAAAAElFTkSuQmCC",
     "wiki_name": "Statuette (Spirits of the Elid)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Statuette_(Spirits_of_the_Elid)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11439,
     "name": "Relicym's mix(1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": false,
     "examine": "One dose of fishy Relicym's balm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xt2X6U8TYRDGef8KpVApl4BcLS20hbZYoAXaoh/8oBhj4hFjQIUiZyk3KpeAgIhAgYQE/ECEYEBEjgDGGBP/psed2VTQmKhJ21UnebLdZNP95ZmZd2ajov6fEDiW4iFw0RGD6utn0d+i+xugBAKDJiyOFqC3PpuBtBqNUlBymgho4akZXd4sJVMnEBeXALVaw0Ck9gcZUMWokZycpgSUQGamDnq9kWFm+oxovZeOzCwdMjLkWopw6gQsFhssVhus1kJYbedhk2Q2W2AwmJQBKioqQVFxCYqLHSy6JzhyTRGgsrJylJe74PP54fe3oabGK7lkhy4nVwkgCsEpcrs98HgqOH3BLiMYRYDs9mKGcbvdnC4FYSgESkocEpCHU0eFHR0dq0TLUwgYjflcRy6Xm6/UZXl5ZuXqhwCofsgdZ2kZFzRBqlTqSLskoNMZ4HA4GYjqhxwqLLTDZCpAUnJqpF0SXC/kTLDDKG0fh28wkCHXxCMkQi4JnEvP5mJ2uY6BSJ+navkY0OlyoYlPipRLgtvb6SxlV4JAFRXU+h4c9F1FTk4esrV6xMScCbdLgic5jQgq4iDQTG8d5p88xFRXLT6NV2HNf4nHR3x8crhdEnwa0/wKtvtiXwOWBhqwPNiIV0NN+BJoxnbPZWi1BqSkpCNWHRcul+T9hzppqPEOxlqrsSRBrIw0Y/WZD2tjrViVtDbux4eBaxi8aeepn5AQNpcECgpsmPRXYeFRLVaGm7E+3oqN535sTrbh7Yt2bE11YFO67j+uxILXjfa7lai+4uElLgwuyfvPcl8d1kZbsC29fGe6E7szXdib7f5O5FCgxoWJxlu8sCUmpuDUaVUooQSfL9Rdy/112JjwYX+2C4dz3Tia72Edzsk6WujFm3EfZu+XQ28wcselpmV8S1uIUievGXQYUkFvSSkiINJBoJtFv3dnOvH+ZSdejzRhqf4CjxGCysrKCXUdHTtEQJSuPenlpJ3pDr5/J9UO1dP6mA+93tsMn59vZagwrbRyUdP+Q4fir0TPGo1mdijE6QqGnDYCorHxM/FeLTlIByc9e3K3DjFMME5+w/+ewggjR/AFf6If/+Ofja9fg4R6je/EHAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xu2W60tTcRjHPX9Fubm85FJzTs823eYuNnfRXawXvSgjgi5EaKUzr9u8TFfNS2rOzJxTQdBeSA5DM/OCGhFBf9O38/zGkCCIwLMT0QNfzjlwOOfD83yf3/NkZf07weFEkgeHK045mm9dwHAP/zdAcUiMGrA8aUKkvVxqoFSZCGjphRFhv1rK0nHIzS2AQpHHgEh9j1WQyRVQKkukgOJQVsZDq9UzmHhUj+DDUpSpeahUkniJg9lshdlihcVSA4v1EqyCjEYzdDqDNEC1tQ7U2h2w251M9ExwlDVJgOrr3XC7PQgEQgiFetHS4heyZAOvqZQCiIJjJfJ6ffD5Glj5JOwyCg42m53BeL1eVi4JYSg4OBxOAcjHSkfGzs7OkQqKg15fzXzk8XjZlbqsqsooHRABkH8oO666emZogpTJFJmG4sDzOjidLgZE/qEM1dTYYDCYUKgszjwQ+YUyk+4wKtuX8dsMSFdpYCMkQ1AcLpaWMzN7PCdApG+zrewY4PlK5OUXZg6I2tvlqmNZSQM1NFDr+3AYvQGNpgrlFVrI5efEhuLYJKcRQSZOA8UjbVh8/gSz4VZ8jTUhGbrKxkd+vlJ8IDqNaX6l23052oGVkQ6sjnbi7VgXvie6sTN0DRUVOhQVlSJHkSsWVGr/oU4a67yPqWAzVgSItYlurL8MIDkVxLqgZCyEzyM3MXrHxqZ+QYFoWeJgMlkxE2rC0tNWrI13YyMWxOarELZmevHhdR+2Z/uxJVwPnjViye9F34NGNF/3sSVOBKjU/rMabUNysgc7ws935wawFw9jf37wJ1GGEi0eTHfeZQvb+fNFOHNWdppQHDtfqLtWh9uwOR3AwXwYRwuDOF4cYjpaSOl4KYL3sQDmH7mh1elZxxWXqE4ThiK1ZtBhSIbeFkpEQKTDxCAT3e/FB/DpzQDeTXRhpf0yGyMEpVZrTh8onSEConLtCz8n7c71s+ePgnfITxtTAUT89xh8dbWFQYm00qZMTfsPHYq/E72r1xtZhkSAoUiVjYBobPxKbK8WMkgHJ72bgd2aPv6n+h/ixQ/QQE9vtT5KwAAAAABJRU5ErkJggg==",
     "wiki_name": "Relicym's mix (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Relicym's_mix#1_dose",
     "equipment": null,

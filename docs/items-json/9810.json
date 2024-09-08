@@ -1,7 +1,7 @@
 {
     "id": 9810,
     "name": "Farming cape",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by master farmers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDElEQVR4Xs2Xz0rDQBDGs4RSEkJKSGhIS//TBu2h0oPSQ6EgCoKgIIhH757FB/DqY3jwLcd+k0xoQtUU3KQfDAkhm/zyzczuxjC0SVHxyj8KDz/kBdt7XePAMaWVPNyyGyVfsL0nMCieTPj+s+GwxJiDpSjsOSnQT26l1zviTAKjCQhSNJkH1PAaHHk4RVbHImOQwAiIRhiRInfeIjuyOS3sxjb82Cc3dqm18HSmaZ8UeUufgq1T7qiVQXlTL3FIf5qKUtRet6m77lF70WYQOUoaK4WJH0/IvDApWAXsFFwCkN23cw4VR2qSotlDTObSpHATkn/uMwxqyhk77FLlQNP7GQNFVxGnrr/pcyHXBjS5nWZAcAlQtQKNb8ZZygCDWqo1ZX8CZbO0diludXNhcmELzNvLE1nNJgfPSylQBS7lgQTCevmku48vjsqB0FEC9P76zEBwCOc4Olh86wBC6wNAIgeEpaQqoMHlIANC/ew6hPOjAqrFodH1iFtegLB08HqWtj3WMi7sdE9UfMI/Kukw49TkmVpavgiEBbaiTssD7cIIEDZnRwOEtQxAcKkyIGn5H4HStAkQf4C+OkqAdmH2AcEl2dZ2Vl2dLh0OFJ1HxwUULkOdaUt2imWAUEcI/BaJQ9pcAhD2Q5ggMWvDNXYBEyEi/Ufb7TJNMKL8n+pvUQFMInlRmSiOLatvR03/zOyMC+wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6UlEQVR4Xt2Xy2qDQBSGHSQERQyiKCYkIZFE2iwCWaRkEQiUFgqFFgqly+6zLn2AbvsYXfQtT/2PjrmQUFPiKD1wUGTifPnPbdS00kzQ/pMzGl5+ygbJWls78TeFLX25YTYKbpCs8TSKo6jg+j+ZoKBrZRscUyt73pbKHFpzVhMUTTxqOA32XThBRtsgrV9amI6ZIHvSIjM0OSysRuJu7JId29SaOuqBnJlLXqKUPWjlUM7ISRVSCwMT5C996iy75E99BpHXTRiVmaD4+YL0K528hcdKQSUAmT2zCoUEjZ9i0mc6BauA3LnLMMgpa2ixSsqBRo9jBgpvQg5db9XjRK4MKLof5UBQCVCVAg3vhnnIAINcqjRkvwLlXbp0E1zq+lTnxJYw7+sXMppNdu5LVQFJCGP9RQ+f3+zKgVBREujj7ZWBoBDucbUwfKsAQukDQPoOEEaJKqD+dT8HQv5sK4T7WgFVotDgdsAlL4EwOnieZWWPWcaJXf6ZKK0w7VLnTi1Lfh8IA1ZRpe0CbcNIIBzOagOEWQYgqKQMSJb8UaAsbBKI/0B5UCnQNswhIKgkj7XtRadeQOE8rBdQMAvKDFt6UiwChDyC47OoJBhp6WkR5yE0SHRtqMYqoBHCs280BVUmDZsU9X9kPwUDwied+yZaAAAAAElFTkSuQmCC",
     "wiki_name": "Farming cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Farming_cape#Untrimmed",
     "equipment": {

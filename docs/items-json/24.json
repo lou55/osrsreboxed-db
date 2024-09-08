@@ -1,7 +1,7 @@
 {
     "id": 24,
     "name": "Rat poison",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-06-17",
     "duplicate": false,
     "examine": "Doesn't look very tasty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhklEQVR4Xu2XsUoEMRCGLywh7OFD3CP4EhY2FoKFhYWFhYWFcIWFxRWChYVwcMUVgm+5Zcw/mYRkTq8ymQUNTLvz8f//TLKLxf/5W8f4ulSP8ePuxLvXpXfPo3ePozYUA71FIHsfgU5XKy2oALQvgG7dPIDG9wC0DkDXcwD6iArZhwB0aWcA9MkK6WfIEAgUItu2QalNVEph0gw1JxDULgKRUi/L3uNvqCFyk9UBEGAwbdhJgFp3gTI02sgLQQCoVAdAgNnwonxqDmUoI1CBwiztSuokIFapYci/B5qmqaoMxFlqCpTzI4BG52qgYFeaOBUgWbS52+8lQ41o/4gMZRBkiO2yd82vEkNWUIiPAbFdHS7bn4HylIX8JDh70wMIO+gIUJmjDrc/XxkFUGoOoAzCdtkrBaCDDPF0wa4OzxFDoZVAGSbYWVo2XCgAZRgxXbBrOFcAyo98bGdh13CmAbStf4OwDDFdsEsHKD3K8lOjLsA0BMI5bCqby5Jf+PUjG3ZtrnG+AAaCMychYrHNAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbElEQVR4Xu2XMUsEMRCFb1hCyOHfsrCxECwsLCwsLCyEKywsrhAsLISDKywE/+WWMW82GbKjd10yC95A6vl4780kWa1O9b+K4vyYFsWwP4v+bR39S4j+KVhDZaD3Ccg9LAHoswK688sACh8JaJOAbpYA9DUp5B4T0JVbANB3Vsg+Q8QgUIht2yWltpNSBlDEzRkEZz8BsVKv697jT9wQuRF1AAQYTBt2EqA2XaCIRxt5YQgA1eoACDDbvCifm0MRZwQqcJi1XUWdAtRepb+BxnGcHQFqn6UqPwooeD8HSnZ1mLjDQPrw5m6/l4gb8f5RGRIQZCjb5e6bXyXEVnCIjwFluzpctoeBZMpSfgqcu+0BhB10BKjOUYfbP18ZFVBpDiAByXa5awOgXxnK0wW7OjxHiEOrgQQm2VlbNlwaAAmMmi7YNVwYAMkjH9tZ2TWcWwDt5t8gLENMF+yyASqPMnlq6NO8dMOuzU/F9QPSLQJpIvOuswAAAABJRU5ErkJggg==",
     "wiki_name": "Rat poison",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rat_poison",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 7171,
     "name": "Mud pie",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "All the good of the earth.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xs3X/UsUQRgH8LsfRPyliKCoqNRQSQRFNIVOMzrTMlIr7fBML8U0SaOyxKQoE+kNQeyFCgVDTKSUICqKov6yp76zPOuzz43nnbeFA1/c253d+ezM7OwaCGz+EiR7bMf/eQnSk9Gz9Gik2WRiuInGhxpNGDE/dZHmJjtp9mmHBaVvIm24A2IUQByNmXncTi8n2jwN4zeO6XhRKSGDNHnnXBwKfwHhMOj5eISm7rWauvhrA6G+RP9YGqVvCzc2hmIQtrl3GPT6YdSAuO5aIJz3fXGEfi3fp9/LDwwIbZRkZ5vo1lVxup3vmkFo1AaaHjvvgrBtAy1Md3lA2GaQbl2VoGcY0BBPbvzWIDQOBA/vWqClFz3+gbiXsE+C5JyQQa9p0IdXl1wQkhKI54UG4c4B4oZrK3dZg2MatPKm1wt6dyt9kITUH3bSUL2bGmv2uDkT3mv2c10GfZy57C8I+9EQY9B4eVGmm8qSLJOqsixqOb7PHGcYhvfz3BUX9PP9XReTMghhDKfkYGZcNCpyYr/pLQZ9eTtoBenW1yhOd+OJ0T2jIRKkUQh6Ctf4On9toyBnDUIPMQjzBKCivMy4rIdCL+F8XIdBclHUraviPPIa1NeaZy5akJPhJhkUQDivpnwnbduSYa7lC2goVkidp3PN3dpQ8inTAeZQ0XZ/ekij0FPRhhwD62rOdbdl0CMcxhTnb3VBWKUZkxQIT5gG8ZM2NnDKZDBaYHDoNTxNiHzUkarSHVRc4ExoRE7qJHsHZRUkhw0g7Mfx2731JsM9dXS14xj1tx2hWHMlRU6WUVO4mOpChXS0Iv/vHMox9bGy47XhG4hR2M/vr5vdtXQ9FqaB9hrqi1RbQaHSAy4Iq7QEMUq3bikOyDZsDMJnBOoBg97paQ3RhcYKaqkvNSAeIoTrf5rtd0FYg1JYh7wgOWwSlOhNLz890Dtpg/CUrQdCY/IbCO87hOcajqOuryA9bNgvQfw1ySB+7+E8rgvQ4rNuDwhrUMrrkG3YJAjbiUDcQ6jrC8g2bBKEY/K/EglCPTl/0gShxE9UW/T84WgQvqUliJMCKBDgZT1RNFBGzh9fQMkWjUwGy1mt+5+KRtqiz9nU5Q95wybDpWTIYAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xu3X7UsUURQGcPeDLH4pIigqKtbQJVlQRHOh1Yw0t4zWrbTFNTVl0ySNyhKTokykNwSxFyoUDDGRUoKoKIr6y049dzjDmTtX3dmdog9deHB25s7Mb+7bjAUF/34JkDmm43+8BOjR2Gl6MJpUmRxpoYnhhAojFqbP0/xUF8097jSg9IfIG26BGAUQR8fMPuyg55PtjhvjN47pcaI8IQM0deuMC4W/gHAY9HQiRdN32lRd/DWBUF+ivy2P0ZfFa7mhGIRtbh0GvbyfViCuuxYI531dGqUfK3fp58o9BfKEwUX5qRmEm5pAM+NnbRC2TaDFmR4HCNtZggKObsCNeHDjtw7CzYHg7l0LtPws4x+IWwn7JEiOCRm0mg569+KCDUI8gXhc6CA8OUB848boDmNwTAetvupzgt7cyB8kIfGDVprrdlKifpedUw271X6uy6D3sxf9BWE/bsQY3Lw6ErQTrShSqa0qotaje9RxhqF7P85fskHf397OFoPiBCGM4VTsD7qio1LH9qrWYtCn10O5glCs5saM0VtGh0iQjkLQUrjG54UruYKsNQgtxCCME4AiJUFXNkKhlXA+rsMgD4uiNeV1UH9bibpoOFRoJxsUQDivvno7bdlUqK7lC2i4u4y6TharpzWh5CzTA8yByFZ/WkhHoaXSzSEF60kW29syaBEOY8pLN9sgrNJZYlCsGaaDeKaND55QGUqHFQ6thtmEyKmO1FZuo/KwNaAROahzAsluAwj7cfxmX1xlJNNElzuP0ED7IepORil1vIpaGsqpKVZGh2tKf4+hkKqPlR2vDd9AjMJ+fn9d722kq90NNNhRT/2pOiMoVrnPBmGVliAPKAtk6jYG4TMC9YBB62TaYnQuUUOt8UoF4i5CuP6HuQEbhDXIwzrkBMluk6D13vTy0wOtkzcIs2wjEG4mv4HwvkN4rOE46voK0rsN+yWIvyYZxO89nMd1AVp60usAYQ3yvA6Zuk2CsL0eiFsIdX0BmbpNgnBM/lciQagnx0+eIBT3QDVFHz8cHYRvaQnieABlW9xIjhw/fxG0XnEj3flf8iu/AC+/3CjCUdXMAAAAAElFTkSuQmCC",
     "wiki_name": "Mud pie",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mud_pie",
     "equipment": null,

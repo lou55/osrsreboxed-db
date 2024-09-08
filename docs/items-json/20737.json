@@ -1,7 +1,7 @@
 {
     "id": 20737,
     "name": "Dust battlestaff",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-09-15",
     "duplicate": true,
     "examine": "It's a slightly magical stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xs3V30sUURQH8N2nCAJfhB58SHwIQgjrqaieSkI2cLdVW9MyNRMlNkJNRDKrTSpFMPuloFCIiZQQBEVR1F924nuH73jmeHfddafwwmFmZ87M/ey5PyaR2P8tKf7w3f/nLSmzk1l5NpFxMTOelsJoqwsi1hZ65d18j6zOXfeg7J+oGh6AiAKIYTErz7vlzczVSMf4jXs2oqiKkEmZv9+2A4UjIAyCXhVysjDd4XJx9IGQr9E/Nyfl+/rI3lAE4ZzVIWj5aZcDMbcYCM/92JiQ31sP5c/WYwdCH0319S5s76YFZee/Jgid+kCLj66EIJz7QOuLfREQzgmyvZuWjAwDOuLkxm8LQudAcHg1SA/R5uuB+ECsEq75QKwkQaga3jPcfkK6WhrlXFOd+00QoiIQ54UFoXML0hOaILyjt/W4NDbUSsuZBgeqOXTAXQ9BH+5VD8J1gIhiJfWKxPPrS2+lr7NTsuePysljh6W25uDOClULQgCgQXZCE3Rn4Kbk0mnpbsvK3IMpGcw2RUC/Pk6FmIpBGsXla0HEIA/PZ1MpGerpkRdPCjI9Guw1X9/nvSDbe5EWrAx0VgpkJzSeGRlsl0sXTsny7KwbtiN1wYT+tnZ3r6BgD0KFdgPpCY3n8v0ZybScdec6kK9BelO0vZsWLHkfCOEDcZiuXW6W1ubT7hzv4IaIvFhBRCG446IDnHOJs0IIPKd36FhBuko4ahDykD/YnXJHVtEH2njZH4KwSxNTFggrxwfi54Ag5I4Mt8uN3MWSIOTis6ErVGZ10LZBdh7hOkHIG7vdEQ4Tl7wFcbg+Ld2KD0QUrqMD5Iznc2FV9B6kK6lBn1eGIiCibO+eFoB8w0YQK4T75YCQ/2V1OARhD6pgH4qC9LBpEJe8xvhAqE7VIKye3UDozH4yCOJc43DFBrLDhusapD8ZxBDEXICw5DUIe1DF+5Bv2DQI56VAev7EAvINmwbhnm9CI/jZ4HBVCUKLfhiLhZ0/DAvCpqhBjApAiQS39VJhgTr0/IkFVG6zyHKwjO3c/9Qs0hf2mX3d/gKZda+Jb3atMAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu3Vz2sTQRQH8OYkgtBLwUMPQg+CFKR6UtSTFgkR0pimpjYa21pDg0Qk1VKKtWosakqh1l8ttKCUWIoWBEFRFP3Lnnx3/a5vJ2OSza7iwYHHbnZndz55b2a2o+PfbzGxh+3+H28xqc6m5eFMyomF6QGpTCWdIGJzeVReLuVlY/GiBWX+idBwF0QUQAwTs/4oJ88XzvsGxm/cM8OPCoSMydKtwToUjoAwCHpaycry/JDTF0cbCP01+sv2rHyqldtDEYRzZoegtQcjDoh9fwfCc5+3ZuTbzh35vnPPAQXC4KX81wRhUBto5e45D4RzG6i2MuYD4bxFUMxXBgzEyY3fJgiDA8HyapAu0faziehAzBKu2UDMJEHIGt5TzBySkXivnOjrdn4ThAgE4rwwQRjcBOkJTRDeMZo8KL09XRI/1uOAOvfscq57oNc3w4NwHSCimEm9IvF8bfWFjA0PS/rkfjl8YK90de6uz1BYEAIADTInNEHXJi5LdmBAcoNpWbw9J4V0nw/09c1cqxg0P0ijuHxNEDHoh+fTiYRM5vPy+H5F5qfcvebDq1K7IDR3ZWCwRiBzQuOZciEjZ04dkbVq1Snbvm53Qn/cvN4uyN2DkKFmID2h8VxpPCWp+PGfg/0K9NegAJuiu+RtIIQNxDJdONsvyf6jzjnewQ0R/SIFEYXgjosBcM4lzgwh8JzeoSMF6SzhqEHoh/6FXMI5Mos20NaTcQ+EXbpFDJq7wmwgfg4IQt9yMSOXsqcbgtAXnw2dobZA5jzCdYLQ78bVIa9MXPImiOV6u3olOhBRuI4B0Ge6lPWyovcgnUkNerc+6QMFQLkgW9kIYoZwvxUQ+r/fKHog7EEB9iE/SJdNg7jkNcYGQnZCg7B6moEwmPnJIIhzjeWKDGSWDdc1SH8yiCGIfQHCktcg7EGB9yFb2TQI541Aev5EArKVTYNwzzahEfxssFwhQWju3tIszPnDMEHYFDWIEQDUaqtHMvT8+YugRq0eWR//W7j2A09xZP29nvLsAAAAAElFTkSuQmCC",
     "wiki_name": "Dust battlestaff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dust_battlestaff",
     "equipment": null,

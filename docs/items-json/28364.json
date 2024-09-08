@@ -1,7 +1,7 @@
 {
     "id": 28364,
     "name": "Basic shadow torch",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A torch that can pierce the Shadow Realm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3ElEQVR4Xu3UWUsCURgG4A7UjF61iWFiljaGGVnRSiEGtlEQSUFJFBFFWUnSgtFGC2GrRYU/IajQ/uGb50wzTYuXnvHCFz6cixEe3vOdKSoqRNcQyKNrFASBuLcI8TSsJ4pAiM7KkPM1GOIRiMcrDNRSW8sb9dUIhdxEYbjdguFyE8L2nH4gBnnekyexA/FiAyVLQT1AhDVSkTxAaWZU0MGSiuEIIpB8rWwsyUOGMib35eOKzKgLzmmxCXzNEtyBTjSmH+BO3cPxdsMaosdl/Lhjx0ifhd15HigZ1O2uQ+NQN+rTCUjvdzC/xGF4isH4dg3xaBnCZojX0cmgPo+ToVz97TCnbmF6vUJpBiTGFiCEp/hhvOfRHyA6dJcqH2MoOwujZHECxZMBHreMwDEfRMvFtgrSopx9XtjaGtRlznE7BNbxAOzTY5BWQmg+iaigDpcdbZKN/VKYx17Npx3LsA81UyOspaajdXj2VxmEArwOq+aa57wdJQTVo34VRduyBQdZc1oEN4zbVoUqfxdD0bEM9PJuRImMUcbUk7lRnd4/rfz+V47yjZGsZj32RJu/GM57ok12zO83OSTPMPS7QjEOi6mA0aSAyZZvTI25vID5JySfMEryCiNHb8wnijWHy2wj69UAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xu3U+ytDYRzHcU9xzvaT29qaNcvm0EyGXCZa1NyiZFFIlkQMy3JpmksuadhcQvsTFMJ/+LHnOc4xNT96nv1w3vXtnB9ffZ/nnJISI6ERqCM0DUEg7y9BPo2KRBFI8XkVcr4OUyoG+XhVFOh7IxSSjsOU2YbpcgvSzoI4EIM87atzuwv5YhNly2ERIMI2UpU9QHludNDBshiMEmxjY88eMpQ5m1SPKzarX3BOMIJgiwJvqAtNH/fwvt/B/ZpmG6LHZf68YcdI36W9CA+UCgp469A0HED9xy2UtxtYn1MwPSZgfr2GfLQCaWuOB4amgvp8HoZqGOiA9T0Dy8sVynMgObEIKTrND+M/j/8C0aF3qfohgYqzKMqWJlE6FeIBInBHwmi92NFB+ShPnx/O9kZel5nAMRGCa2YcyuocWk5iOqizwYV2xcmeFOZz1fAB2UeCqJ0eZVtqPtqAL7nGIBTgdzvyNvPvGC2CmrF+HUW35QwPsc1xRGgReJ022Pq7GYqOfbCX90a0VIw2lp7cF9XlFwGh/WAUh1XEPcmvEEZYBuavCPuvUIzbbjEweRmYv/rB1ForDUyBSDFhtIoKUxx9ASi7Pq5h9dIGAAAAAElFTkSuQmCC",
     "wiki_name": "Basic shadow torch",
     "wiki_url": "https://oldschool.runescape.wiki/w/Basic_shadow_torch",
     "equipment": null,

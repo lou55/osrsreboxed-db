@@ -1,7 +1,7 @@
 {
     "id": 19373,
     "name": "Stamina potion(1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-07-03",
     "duplicate": true,
     "examine": "1 dose of stamina potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xt2Xy08aURSHvft20TSmMfahNSgPRUB5KAgiIiqiIkEQBMSixWIQeajQpIumTdt006Tpqumqsd0p6T/4K/eOMzDQjc1waXqSbwNk5svvnDNz6ev7P4pATk+L4GBnBGH/Y3gdAzCN3+u1FMGPzw58/2RnnGY0iAeHeylFJJlvH23Ip8cQXX/ChAxDQ7ylhJkRhb6+tyKXHGXt68E8EQTWQwgGI1I6X96Ykd1VYWv5ESwWO2btbp5SBLFYqoO1QAjepQBc80swGMw8W9fYrsMs4/DwSGLVH4RncRVm8yxUoxq+QoXTkkQ+X0Aul8fyygZmZueh1U1icFCYJU5CtAguL3+iXv+F6+s6rq7qrF1Go0UaairDVSi9f4Dz8wvUai8ZtF1TU7ZeyNAiOD7Oo1qt3lCT5odzq8QiLB3GRZVBW2a1zkGtmeC58rQIstkczs7OZYhDrRs38EyJYCeWRLlcQaVyxqAy0Z0E/GtbmHN6oJ+cglo9zislgqMXxzIhCpXc2Ahj3u2DyWRlq88hJYJ4fA/FYokJtUI/3wpF4PGssMHmlFIjnaMcSqWKDCq0m9hDOBzDkq8x2DYnex51OSWCRCKNk5PThkT5hqZUMrmPSCSOldVN2B0LmJ6ewYTehLExbbdSIux9RdtFaUoJpFLP2GDTU4DT5ZVS0mj13UiJsATog1AUaoUK7aUzbLA3N7fhXlhmx48upkSQyTyXvVApB74RGXSwQ6EoFr1+tv70IUmPIQqnJGwWXfVCodghcRsUSol0XPhvUSgl5YQo/0RKLl0/NA/vSgkpktLbxCTjXcog8SFtlKDfvYpOoBLSIh8YRcI9jIBlEA5tP54+uKOkjFjCKfB1XN8h1y4Udw0xGbPq/k2LFJcRSrig+J9LnpooRGV8xoEOEcVlWqt5g6ZcO1xE/lStN26n/be3rd9MedCboGFSNwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoElEQVR4Xt2WS08aURiGPft20TSmMfZmDSqICCgXBUVEREWUSyiXcUAsWCwGUUTFJl00bdqmmyZNV01Xje1OSf/gW76jMzqlmzYwY/ySZ8Mkw5P3vOfM6eq6GcOgRNNhKKT6EQ8+hN/dA6vxjtZSDD8+u/H9k4uzm9dDiPRpKcVkmW8fnSjnBpFceaSV0HlnJKGv7x0oZQb48mnQJ4bQSgyRSEJO58sbG4prOkQXHsBud2HS5VVTiiGdzrawHIrBPx+CZ2YeZrNNXaHCZpGzubklsxSMwDe3BJttEroBvbpCld2qTLlcQalUxsLiKiYmZ2AYHkVvr9Ql1Ybh5OQnGo1fODtr4PS0wZfLYrFrUWoahtxGAYeHRzg+fsmh5Robc2ohQ8OwvV1GvV6/4Fjuj2ZClA7nqM6hJXM4pjCkH1FbiqFYLOHg4FCBVOpho1lNIYZUOoP9/RpqtQMOySRTIoLLUUxN+2AaHcPQkFEtKYatF9sKIYIkV1fjmPEGYLU6+NZXQYhBENaxt1flQleh36OxBHy+RV5slVJqprNVQrVaU0BCa+I64vE05gPNYjun+XnU4ZQYRDGHnZ3dpsT+BZdSmcwGEgkBi0thuNyzGB+fwIjJisFBQ6ekGP9e0XIRl1LnZLPPeLHpFjDt8csp6Q2mTggxngAdhJLQVUhoPZfnxQ6Hn8I7u8CvHx1MiSGff674oBKFQL8CKnYslsScP8i3Px2SdA1pc0rnO4u2eqWy1yLxL7RJirW8+H+5dkLEtZDyDHdDf/92u2RoGN6Ko5x3WbPMh5xFhp69So6gFjOgHBqA6O1DyN4Lt6EbT+7daqeMNPRChteCqUXuTyHB85jL2HR3L0TaLnN1pD9QpiYJkUzA0qOGyN/mUq6VGzi/AcTqm5Avb/KSAAAAAElFTkSuQmCC",
     "wiki_name": "Stamina potion (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stamina_potion#1_dose",
     "equipment": null,

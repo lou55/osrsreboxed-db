@@ -1,7 +1,7 @@
 {
     "id": 22607,
     "name": "Fire of dehumidification",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIklEQVR4Xu3Wz0sUYRgH8HnGmX1tG3ELjeog2+pmENLSuoV0qCAtNERSDynSUv6oED0sW4pIZLgLHbbAS4dunbt06FQUQZBKeDHRk4h/yLf3h++ujlBE7ux78Asvy7sM+3x43mdm1rIOc5iKhuD/poIh9N51YRCKMDIekqBENGoCijD9nJkFmnpmGCgzwxCNiRkyaI50h4zpklGY23ccs45r4J56DhnQIcLgfRfDj415DhHGMyFMPq04SM8LYeYFk6ujS89R4LNEuNZeJQuLzgjMwttq3LilQGMTqlv62oCAqlB2VnXn3fsjuN5R6pA6OsLQsIv0aGAvXvUOE6APn8MS1JLYDVLX6H0A80WYnVegT4uenKHWy+oodxcPCCNSAi1veEikbFy5uh8UYBRodasBi2sebnbZ8tjOnQ94kPXSt/vqVj2WOGgg7cg77UJSdWn/OtAQvBoLkeOE+hOEU6cJ8wWG3CuGte1j+MFBE1kX/YMu2jtdxJsZX9U7nyE0nbUPGkU46ilQHQed5KA8xwiUBs29ZEgkLXT3OUi12RziyNUYV5gyDDcVQaK4AP3imOV1D19+esi/ZujssdHd6+DiJeIYW2LONJZA/l/8zxBqI1YRJI5riWO+rXj4+DWMwhuGB48c9PRzUIoQa7KL/yLL0B0d/6D+fZURo6ILqCL+onv3ZcfsDeH7Zhue5GJFyNxCHA+zDTv7iuTPHfJf/S/5DdTCZaoup7pOAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+ElEQVR4Xu3WzWsTQRgG8H3X3UxtV4zFiPZQNGlUEDEYowQPWrCxpBKCNYe2iEGrtqXUQ4gfhCBGkoKHVMilh9567qUHTxZFEGyLeIlBTxL8Q57O7LpR5uQh2Z1DH3hZdll4f7wz+6Fp+9mPryHIV3wMYXLKhEIowsPFgFqgF6+YWqDnLxUDFUoMJ8MCpBBKIYyIYphbtw2VJkSYvqfMe4gwc9/E7IIy7yHCYiGAJ898B7nNCaXXzK7UhLuPPIcRro8dsBuLyQhMY60PN8Yd0OOlf6flGdBpVCw701nfOIjRlDwhwt1ZE/lHnm145xsmQJtb/TbofEyeiHze0xDKVQf0ftuy99ClK85Synd6lL+g3Z8WYgkdV68pAGq2h7HdsnBzQreX7ew5z5bJbeSU+7g32yHscNB03rCftAtxd0pydTUE65CG4CAhdIxwYohQrTPUVhhav4/gCwctFU3kZkyMpU1EzzBefX+OAYyc1ruNIgxYDugoBx3noGWOESgXVHnDEItryNwxkEjqHGLYFYl2HeOGOiDRXIC+c8zuDwsfvlpYfsuQzurITBq4eJk4RrcxpyI9BB0Oah2QWK4djvn0zcK7j/2orzI8mDeQzXFQghAe0b34i5Q36v+Up5GbyueehvD5VxJPa+HONCqNKOaKw/6iejWhPcZFLzCla+0AAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

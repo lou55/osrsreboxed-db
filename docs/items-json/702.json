@@ -1,7 +1,7 @@
 {
     "id": 702,
     "name": "Unidentified liquid",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": false,
     "examine": "A strong chemical.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xt2X30uTURjHPSHby1gX3gQhmRFaaqFmc+YU7Ydm01nzB/5E05ppjjWzmls/DFFKCopCiKIgxKSLdATRRQRd1EUEQRCEf823PefsvDu+ehNsZ9ADXwYv285n3+f7PO+7nJz/oxg2K6vFEOjbj+7WAjTV7caRQ3nZhmJ487QOy489XFMXSzDg35dNKGbCvHxQg9DIAfS27+VAFYWFuqFEZiTQi/tuTA4V8/ZlIU8MvvZO+P09pjtL8y6MDxaho2UPqqs9qPUc1wnF0N8/vEVtvk40NfvQ0NiMigqXztYlpmtsnGtsbMKUt9WPk6e8cLlqUVRcohcoPDVtKhQKY3IyhJYzZ3GsthGlZeXIzxdZ0gRExbCysop4/D3W1+NYW4vzdlVWVpuhJhitQCOjAUQiM4jFbnJRu6qqarIBQ8UQDIYQjUaTipn50dwqWQwbi4XcochMlIta5nbX42DJYZ0jT8XwfcaJjXv5KSXgHnXbMd1kQ1dVrk6XGNYnHNhY2LUJ6N0lB5b6DERbbBhw58JXLqCsn85AMfyIOQWQVAKIIJ8PGphts2PUo80lhveXE+7M7dwMlBBdf33ewMI5OyYatLmUdGc+T0gB+hB0YPWCgYdddoRP2HS4xPihf+4qQIo+XnHgbcDAkx47bjTbTJe8ZRlzieFbxCnaRdoGiIL9bMDAbW/KJX9lRlxi/MBfdxQgC9insIMH+9WQgTlfyqVeV0ZcYvhyLdkuK1BSn686eLCXRw0sdti5S8FGG4ZrctPtkpgsCjMBqVKBCFgGmxYkuURLMlAvXGpNn0uM//rfs1uBVLCv150ciIJNC5LGn5ZkBlwStwkCkrICkSjwMti0IGn8aUmqLp0uTaNLKtB2YAQkg00LksZfukTT1lC0w3QoLS79vOU0RdNGUuHIRRlsmSOCoXYdLUgrjCzxFEgHU8BVOAKiazLYEkZu6gzAiBJfKP9ziduIhKJXCrZ8BLGCpB1GrdQBKTirtIBsV+rBVlnf+6/1F3m991XN+lm7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2ElEQVR4Xt2W3UtTcRjH/YVsh8O68CYIyYrQmha61txyivaytTZnzRd8RXM10xxrZrWXXgxRSgqKQoiiIMSki9wQoosIuqiLCIIgCP+ab3t+Z7+z48vldg74wJcD5+L8Puf7fJ/nnLKynVEMG2VoMUT6D6EnUAVP814cP1phNBTD+xfNWHrm5pq6YsVg6KCRUEyFefPYhdjoYfR17DcKSMmMAHr9yInJ4RrePgPyxBDs6EIo1Ku6szjnwPhQNTp9+9DY6EaT+5SeUAwDAyNb1B7sgscbRGubFw0NDn2BImPjXGNjE6r8gRDOnPXD4WhCdY1VX6D41LSqWCyOyckYfOcv4GRTG2rr6lFZKbKkWzEsL68gm11DJpPF6mqWt8tmazQi1FQMo+EIEokk0uk7XNQuu91lBAwVQzQaQyqVyiut5scwoPWFA9yhRDLFRS1zOltwxHpMbyiGn0kL1h9WFpSDe9pjxrTHhG57uZ5ADJkJGevzezYAfbwqY7FfQspnwqCzHMF63aAYfqUtCpBQDoggXw1JmGk3I+zWzSWGtWs5d2Z3bwTKie6/uyRh/qIZE626uZR3Z65CkQboU1TGymUJT7rNiJ826eES44f+e6AB0ujzdRkfIhKe95px22tSXfLXlQyK4UfCorSLtA0QBfvloIR7/oJLIVtJgBg/8M99DdAmsC9xmQf77bCE2WDBpT5HSVxi+HYz367NQHl9vSHzYC+FJSx0mrlL0TYTRlzlxXZJmSwKMwFppQUiYBFsWpDkEi3JSIviUqB4LjH+9n9ntgJpwb7fsnAgCjYtSBp/WpIlcEn5TBCQ0GYgEgVeBJsWJI0/LUmtS+dqiwilBdoOjIBEsGlB0vgLl2jaWqt3FQuGiuH3XYsqmjaSFo5cFMEWOSIYateJqqLCiKIHKu2jgGvhCIjuiWALmMKmLjqMtsQBymdEQNGVgi1+QXQA2a4KcFu1A+s/8i7CSo6sJU4AAAAASUVORK5CYII=",
     "wiki_name": "Nitroglycerin (Unidentified liquid)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Nitroglycerin#Unidentified_liquid",
     "equipment": null,

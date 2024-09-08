@@ -1,7 +1,7 @@
 {
     "id": 21851,
     "name": "Snow imp costume legs",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-12-11",
     "duplicate": false,
     "examine": "Poorly made fake snow imp legs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xs2WUUtUURSFPb+jh6SoIEQqxIwKEY3MJBXTNJkyzczEtEQsM0vEKUtE1DIRM0ss0UzEMrFIKzIEkYIwwrd+yI5v386MjhYG945tuC8zh9nf7LX2Ojci4q9lJPSTDSwjn7/8kP8EysiTsRnpHXkn3UNTv6E2DMzIg8Ep6RiYkLsPxxRo9M2cLC793AgoIy2PxqWpZ1Rq256Jv/uF9Dx/q9ManPgkH+cXwwllpKFzWEEqGrvkSku/grU+fin3n04GwMan58MhoVEAQIqqm6SsvkOqm/sUDsi1wOa+LnkJZRQkt6RGCqtuSemNdoX7ExS+6hudVqBdkZFeQBlJ95VKTnG15F9qkHNXm+XC9dY1ofAYhgeKLfR0StlFVeIrq5OCSr9OLBTq5r0hNTpQbf2vdBuR0CMoI1mFlTqlvNJaOVVevwqKB6/VtA7oAyTR4BGUkUMZPsk4fVHB8JOFwlOX/d0KhKRMEK+VN3QqGFIGA9TVMpKQmqN+yjxToVDWU2yehUo5cVah+Y4JVt3plcauEZXQE6iDycflaG6xNkU+JnL+WssKKHsGiZkWn2N8ttATqNj4IzopjI50NAXKRoKufFyCysw0geZzjM8WOlCughmJijkQkA4omvIARWPObNq8Tc8dyyvRDbXfEQmzC9/dh9qyI1qlY1LIAxyewsxBeZwnOatAJWZSbN/w5KwX95/TDM8wBWTEzHiGSdBU5dPENuoroJEXr7GBwVhwCcw227pzt3qGiSEda8+6z8x9W9bM8R/xgYSAVd7uUXgC1TUop5x/aRviK8IRqJV+cc4RD0gNPBuKzEjpKpSd1vaoGJWH4AQKWV5/WAhIY8/ZsGVaZJaV0VUop5zGNEOWuvZBNflqIxuJT8kOeIuFIEi5E12HslMAikZMileUgfH3y6ZEGdmzP0m3EAmZKr4i3V2H4gf3JaUFoKwkq19NnInapSBoT5Z1hoC7VkbiElI1Euw1wr/nPXw5lJ1oYlqeJGaUS3q+3ysgKghFThGO3G1rX7jOtCyMR0CU0wQTEwnkFPmzllcsiIcwTllZomPj9R4kf9hANisUKszlZNXhzHwNRjbQeib0ZBjLgcJbexN94fDMeipsBl5//YuBfwF0hYM4tfzRNQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xs2WUUtUURSFPb+jh6CoIEQqxIwKEY3MJBXTNJkyzczEtEQsM0vEKUtE1DIRM0ss0UzEMrFIKzIEkYIwwrd+yI5v3+5MzkxRcI/ThvNy74X9zV5rrzMxMX8sI6FPolhGPn76Jv8JlJFHk/MyMP5G+kZnf0JFDczIvZFZ6R6eltv3JxVo4tWirKx+jwaUkfYHU9LaPyENnU/E3/dM+p++1mmNTH+Q90sr6wllpLlnTEGqW3rlUvuQgnU8fC53H88EwKbmltZDQqMAgJTWtUplU7fUtQ0qHJCRwBY/r9qEMgpSUF4vJbU3pOJal8L9DgpfDU7M2QXK8lVIflmdFF1oljOX2+Tc1Y6IUHgMwwPFFlqFyiutFV9loxTX+HVioVDX74yq0YHqHHqh24iElqCM5JbU6JQKKxrkRFVTGBQHr9V3DOsBkmiwBGXkQLZPsk+eVzD85ELhqYv+PgVCUiaI16qaexQMKYMB6mkZSc7IVz/lnKpWKNdTbJ4LlX7stELzjgnW3hqQlt5xldAK1P60o3K4oEybIh8TOXulfQ2U+w0SMy2eY3y20ApUQtIhnRRGRzqaAuVGAt/sSExWmZkm0DzH+GyhA+UpmJHY+H0B6YCiKQcoGvPNho1b9LsjheW6oe47ImFh+av3UJu2xal0TAp5gMNTmDkoj3PScotVYibF9o3NLNi4/5xmeIYpICNmxjNMgqbBhkZ9BTTy4jU2MBgLHoNt3r5TPcPEkI61Z93nF7+sgcJ/xAcSAlZzs1/hCVTPoX5tiK8IR6DW+sX5jnhAauDZUGRGSo+hKCNbY+NVHoITKGR5+W45RJpg2DItMsuV0QoUh2bI0tg1oiYPN7KRpPS8gLdYCIKUO9ECFOVA0YhJ8RdleOptSDMju/am6hYiIVPFV6S7BSgje1IzA1CuJOF/TZyJuktB0B6v7LEBRBlJTM7QSHCvEX49/8PDGxpJySyUlOwqySryR3jvWQWhyCnCkbst8oXrGj/0ueflNMHERAI5Rf5Y8sq/lJG4hCS9B8kfNpDNijoUWXUwp0iDkQ207Jm/KQcKb+1O8UUbxq11M7Cd+gFItWI/AJ02nQAAAABJRU5ErkJggg==",
     "wiki_name": "Snow imp costume legs (Reward)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Snow_imp_costume_legs#Reward",
     "equipment": {

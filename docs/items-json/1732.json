@@ -1,7 +1,7 @@
 {
     "id": 1732,
     "name": "Amulet of power",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-24",
     "duplicate": true,
     "examine": "An enchanted diamond amulet of power.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3VbUtUQRQH8F1CRPFD+FboRd+hXlS+SNNU1OzJB4zITCnEEjVZK0OyTU1jF5Vlk8U2pNQsC0UJor7Tif9c/tdzZ2dt172FA4fZe+/o/O6ZuWcikZPfouIO1/N/3qIyNdwgz4bqTcQe1snE4CUTRKRmbsjy9DVJvuhwoOyXKBnugYgCiGFjEs/bZT7WGpgY13hmRxBVFDIq048bc1DoAWEQNDvRIjOjTWYsehcI4zX6W2ZYvqQHjociCL+ZHYIWn7YZEMfmA+Hvvq4OyW52TPayTwwIc5yprjZhz241L+18a4IwqQsUH2/2QfjtAqXjNwMg/CbInt1q0cAyYCJublwTpNPPOAqUmesKD8Qs4R5AGLOaSMhGJiO7W5vy62BfYkPeBAhkzQa9X+j2QYiiQNwXNohfU2p+Tl4+Gc/JUHrhjfT3dPvXGvThbU8Q9O5B6SDcx/NMMml6ZpJjcG9ve1visZi0N3rXBK0nesMFIQDA8/V02vT2hibKzhD23ObyHR/0fW3ExxQN0ij8czyfHhsNgIjBOAN5NZMD2lq56wTZs+dp3htiMheos81bOl0aNGhy2KsxGvQ51X9ckDcRMpQP1NF0xfS6QmtQX1dnAIQvU4N0UbRnt5q3UV0gBEEtdd6Zpjc0989WNitVlZU+CNkJFUQUgqCG2lrTuzb04tRUIDuhgnSW0BM0cr/fB9nLdbqmJge0+vqWD0KVJqYgEL4cF4jHAcagMKLPF8Rw/+DY0BkqMDtohyB7H/E4wJiDnR1pvVwvV9vLpLenTB7d6zNf1sVzZ3OyAxCOjdBAROE+JsCpjXGTsXIZHCiXtaUlg7ne3Gzu64OVIFRpDSLKnt3RPJBr2QjCmNl4hYEwuFR6aQnCC3xK3vZBqEFF1KEgSC+bBqVWgqAL5085QchOySB8ZX8DbXysDICYJb3XuFyhgexlw32Cfv+sOhLEsQDhk9cg1KCi65Br2TgJN/WP/SrJrlXKUrLCx9gZwthQQK5l0yA8w1gGiiJBGKf3T4kgtNxC5wpdoXXYIBRFDWIUAYpEWNaPChuoQ++fUECFNhtZCJZxOPY/NRvpCvtvTnT7AyykjvNL8JatAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xu3VW08TQRQHcBpDCA1fhMRvoQ8qD4IgJYB44xKMEStE06CEWwpaQ6wVEEwbIE1tmlpDFCqKBgIxMfqdjvnP5KxndofabVfjg5OcbHd3uvPbM2dnGhr+/RYie9ju//EWosRkJz2OdaiIP2in+YmLKhiRTV6nzaWrlHk6YEG5X6JuuAYxCiAONyb9pJ9W473GwDjHPXeYKF/IEC096vKgcASEg0HL8z2UnO5WfXG0gdBfoj8XJuljbrw2FIPwm7PDoPXFPgXivieB8L9P+RgdlGbosDSnQL4weCi/NYMwqA2Umo04IPy2gXKpGwYIv6sEhYxpwEBc3DhnkEw/RyVQYWUoOBBnCdcAQp98Ok07hQIdlHfp+/ERxWM8QEhlzQ16szbsgBC+QFwXbhB/TdnVFXo2N+vJUG7tJUVHhp1zCXr7asQEvb5fPwjXcb+QyagjZ5L74Nrh3h6l4nHq79LnDNpOjwYLQgCA+9u5nDq6C5pR7gyh5nY3bzugL8WpajFoJkii8HDcX5qZNkCMQT8FeZ70gMpbd2oFoek3xGA20GCfnjq5NEjQwqReYyToQzZaK0gPhAydBBrovqyOcoWWoLGhQQOEL1OCfCyKulBtIASDetr1niYLmuunXCpRSzjsgJCdQEGMQjCos61NHW0FvZ5IGNkJFCSzhCODpu5FHZB7uk63tnpA+Rc3HRBW6SoxaPrLsYF4O0AfLIz6ofZgDNcPtg2ZoZpA7jri7QB9jvf3qfdSB13pb6TRkUZ6eHdMfVkXzp7xZAcgbBuBgRiF6xgAuzb6LcSbaGK8iYobGwpzLRJR1+XGyiCs0hLkA6VBtmljEPosp5oVhIOnSk4tg/AC7zO3HBDWIB/rkAmS0yZB2S0TdP7cKSsI2akbhK/sd6Cdd2EDxFmStcbTFRjIPW24zqAf31oqgrgvQPjkJQhrkO91yDZtPAgX9dejFioVw7SRaXYw7gyhbyAg27RJEO7pB+rAosgg9JP1UycI7ddAlUKu0DLcICyKEsThA1Rt8yI5ZP38RVCl5kV643+rr/0E4pFEZ8uAPKQAAAAASUVORK5CYII=",
     "wiki_name": "Amulet of power",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_power",
     "equipment": null,

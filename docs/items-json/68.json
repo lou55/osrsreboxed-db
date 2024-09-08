@@ -1,7 +1,7 @@
 {
     "id": 68,
     "name": "Yew shortbow (u)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "An unstrung yew shortbow; I need a bowstring for this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABCElEQVR4Xu2VwQrCMAxAF2T0N/YJfoIHwYOgMBgoojBQUERhsIMHDx4ED350pAvZWDYvw5oe+iCntvSRpGkUBQISwP5QAfCyiXtDQQrwkMW4mIx6sgM4TpIq5CmHAOYpZYIvlyFPOAZwu2yE5OqfASx2Btdzj4Rs43oldFrFmM28EAK8H00llE49ErJP3huh256EeAYpCpGMLZdtaGUheuo8DDkUhiBd3PxP3cksTziESsQyShIMlUjKyF0Oaf/WCjJtATtbbHnK3NQy9jWxkDz9A9oCz6vBx9l0ROQ+R9kBfJcGX4XpiHwTcNzAUMsoCUigyoqigITmCQvJVSWcNehwvJIJBAbyAbi8AtUMKpaMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA5ElEQVR4Xu3VPQvCQAyA4QY58rccBAdBoVBQRKGgoIhCoYODg4Pg4I+OpIetTc9NmyD3wm0iD/eRJkksJgMKL5WAjksXXAoooG3maDocBHandwwHlKcqO/EpoNXMDAioWCMtJoZAfHFNgfZzR9nYBAjossMKlI4MgfjJmwGdNx7UzCC1PIaPiy+0Msg/9WYYKk5kXs33SQXxyh+R0sdS5o9IEfN+L1QwbQDPFj6eMscaw6/ph6A24HZCuh6wA5G/k//ypYAeJdK9wA6kJ4AMaowSQAbVrigCZH6eGAJxpjCx2P/0BBV1ualLVZflAAAAAElFTkSuQmCC",
     "wiki_name": "Yew shortbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yew_shortbow_(u)",
     "equipment": null,

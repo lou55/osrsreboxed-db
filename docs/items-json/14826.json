@@ -1,7 +1,7 @@
 {
     "id": 14826,
     "name": "Banner",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A banner with the symbol of the HAM cult.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrklEQVR4XtXXy0rDQBQG4OY5RKyIhVLQWiztogqiILhw48aN4Bso3mot9VojiIjoooiIj3rkn3Da5GTShGQm0QM/uTSd82UyLW2p9L/LoWTJpRxqL80H0qkvqG2zNkeN6iwtV2ZULKLknaeNkXLo5eY6Ns+DQWwMoRw1mATIyOa6YKx6uZwV5YHiULK5LsZA3FAiCgdNQ8nmuhgDvd7dBgaWmJxBqOAs6VCyuQxj/hxIjpyywo9NouRrMlZAusaFgd4e7seNsf08vlD5Ormk79MrOmithRDWQfzYGMJbBCCOxFgAoSaPjRGM4hniyAWPGAZ5M8T5Oe8rBDI6OgvMUNR6sgp6fxzSh+uqGXvq92nY7Y4bFwZCeE0xaNonLhcQ9tHM7fXyBHmLWQdCAADIv4AlxgooCsXrqHAQRwfSoXIDIWjI31ESBCwHY8nRU9QEFIUCICko4yx5Pzv8IB3Mf01hID/MfyxBfpQxEEdidKhcQYzyFmd8rIC2WlXaaFZU1huLKji306nR3uYK7W+v0uFuW21xjPN4Hdfx/37s4/0472EzVfjOswQzlGSWfgGu3RFBABebvwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlklEQVR4XtXXW0sCQRQHcPdzREREgghdJNEHC6Ig6KGXXnoJ+gZFNzOxq20QEVEPERF91BP/WY7OnmZdiTOzdeDP7M09P2dH0VLpf1dE4yVIRdScm06ltTBjxnp1imqVSZovT5h4RMl3/tuoVESPlxe5eej1cqOEiszNJEBGNndFFZSHks1dUQNxQ4koHDQKJZu7ogZ6ur5K3VhiAoNQ6VlyoWRzGUUM6g+C5GOTKHlOxgvI1bgw0PPtzaAxxveDU5OPwzP6PDqn3cbyD4R3ED82hvCIAMSRGA8g1PCxMYJRPEMcueARZVAyQ5yvk65BIG/7x6kZylpPXkEvd316jWMzY/fdLvXb7UHjwkAIrykGjfrEBQFhG83iTickKFnMLhACAED2ApYYL6AsFK+jwkEcF8iFCgZC0JC/oyQIWI4SagjKQgEQCJT87LBBLph9TWEgG2bvS5CNUgNxJMaFCgpiVHLj/HgBrTcqtFovm6zUZk1wbLNVpe21RdrZWKK9raYZsY/jOI/r+H8/tvF6HFdB6Wa8+gYQIep99B4z1wAAAABJRU5ErkJggg==",
     "wiki_name": "Banner (HAM)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(HAM)",
     "equipment": null,

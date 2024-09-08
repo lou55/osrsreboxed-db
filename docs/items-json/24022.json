@@ -1,7 +1,7 @@
 {
     "id": 24022,
     "name": "Elven top",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": true,
     "examine": "Clothing from the elven city of Prifddinas.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADlUlEQVR4Xs3W/UtTYRQH8I3LGEbUL1FgkBLoDytSxvAFFRWVZYpvqalTS8vETGMomZqhNezFEMwsLBQMMZEygqgoivrLTn6fy9nOfbyzzd3CBw6b997t+XjOuefO5Tr4y032YXf+ny83zU1epMfjjSpmxxooMlqvghHrCz20Nn+ZVp9226D0fyJluAliFEAcOmblSSe9nO2wbIy/cU4PKyoppJvmp5p3ofAKCAeDliJttDDdqq7Fqx0I10v0j61J+rYxsj8Ug/Ces8OgV49C0U32AuFz3zfH6df2DP3efqBA+ExuZqYKfXdtmWnn/5pBAEoQQ/xnDMo65bJkQAdtLPZaQHjPIH13bbktZQCCmxt/A8SbFvsNqi4xqLwoV0VOtkHpx1105LCJk6CtF33OgThLOIbz+T6D/Dubl+WZoNKCc1QY8KlM+U67KCN9B3XIinq/fD0KQiQFQl/YgfhuqgqYkKpC87U47ywFcrJVhgBCHDtqBX143W8Fvb2dOogbuK7IoJagh+rKDBUoFzKUn2OoLCEyTlhBH1cGnAUhUEqcb6/0UF+Lh7rqPQoWLA0oFEqIvkJknYyBcAN8XrsZBf18dy+KSRokUfhynO+p8NBQKIZqrilRKJQQAZgvwwr68mbYFqTvHmeZd9Hi/Uu2oHCtlyLDXgp3e2mgzUNXWoNUW1mgyse9BZQEfV0P7xdkziBkKB7oTpOX5ka9ND1oopCh+mBhtKcAQj8xCKNCguRQ1HfXlnnL24EQ/OXqukgaPZtIo4dhLw32NFBv23kKNVVQ005/ITtobFyH7DgKYhQCIExcCbp7K6RAXc1VKlNqDPit5XIMJLOEVwlanjZBE0PtCoTsoGwoF2eHQZvPr0ZBmNKMSQiEO8wOxA9MBi1N7QZVl+ep7GAwyv7BY0NmKMHsYMVAeh/heDzQSH8L9XfWqLIBhEeH7B88NhwDMQrHsQFA3NgAzYx0K9S1jguqZJjYeMBKEKa0BDFK391mmSC7skkQY2bHelVTI0MoWWN1sRqQMkO4/tPqjSgIMyiJOWQFybJJkPwtFC+4f1IG4S77Gwib4Rg/43hOyV7jcjkG0suG4xKEzSWIZxU+x9cChFtegjCDkp5DdmWTILzfC8QZwrWOgOzKJkE4J3+WSBCuk/2TIghrd4Pahd4/HDoIQ1GCOJIAuVw81vcKHShD9o8joESXjkwEyxG79j8tHWkX+mcO9PoD/xZNpskG4rYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADdElEQVR4Xu3W/0sTcRgH8I1jDCPqlygwSAj0hxUZY2iioqKyTPFbaurU0jIx0xhKpmZoDftiCGYWFgqGmEgZQVQURf1lT74/xzOfz+203XZFP/SBh9vubrvXnue55+bx/PvLS/Zhd/yPLy/NTpynh2MNKmZG6yk2UqeCEWvz3bQ6d5FWHnfZoKw/Im24CWIUQBxWzPKjDno+065dGO9xzBo6yhHSS3OTTQkobAHhYNBirJXmp1rUudjagXC+RH/bnKAv68OpoRiE15wdBr14EIlfZC8QPvd1Y4x+bE3Tz617CuQIgy/lX80gACWIIcETBmUf82gZsILWF3o0EF4nCfJqZQCCmxvvAeKLFgUNqio2qKzwtIrcHIMyD3vowH4TJ0Gbz3rdA3GWsA/H8wMGBbcvXppngkrOnKKCUEBlKnDcQ1mZ26h9Ourt0tU4COEIhL6wA/HdVBkyIZUF5rYo7ySFcnNUhgBCHDqog9697NNBr2+mD+IGri00qDnso9pSQwXKhQzl5xoqS4isIzro/XK/uyAESonjbRU+6m32UWedT8HCJSGFQgnRV4jsozsg3AAfV6/HQd/f3EkWg6WDJApfjuPd5T4ajOygmqqLFQolRAAWyNJBn14NpQrCMu+ihbsXbEHRGj/FhvwU7fJTf6uPLrWEqabijCof9xZQEvR5LZoqyJxByNBuoFuNfpod8dPUgIlChurCBfGeAgj9xCCMCglyMBTNW94OhOAvV+fFMujJeAbdj/ppoLueelrPUqSxnBq3+wvZQWPjPGTHVRCjEABh4krQ7RsRBepsqlSZUmMgqJfLNZDMErYStDRlgsYH2xQI2UHZUC7ODoM2nl6OgzClk8RgmXeYHYgfmAxanEwEVZXlqexgMMr+wWNDZiglkLWPsH830HBfM/V1VKuyAYRHh+wfPDZcAzEK+3EBgLixAZoe7lKoK+3nVMkwsfGAlSBMaQlygDJBdmWTIMbMjPaopkaGULKGqiI1IGWGcP6HlWtxEGaQgzmkg2TZJEj+F9otuH/SBuEu+x0IF8M+fsbxnJK9xuVyDWQtG/ZLEC4uQTyr8Dk+FyDc8hKEGeR4DtmVTYLwei8QZwjnugKyK5sE4Zj8WyJBOE/2T5ogrMQGtQtr/3BYQRiKEsThAJTsSkRyyP75i6C9ViIyMf6v9NYvtRIDGqLYFXwAAAAASUVORK5CYII=",
     "wiki_name": "Elven top (yellow vest)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elven_top_(yellow_vest)",
     "equipment": null,

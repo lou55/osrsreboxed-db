@@ -1,7 +1,7 @@
 {
     "id": 6745,
     "name": "Silverlight",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-11-14",
     "duplicate": false,
     "examine": "The magical sword 'Silverlight', stained black.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPklEQVR4Xu2U2QrCMBBFnSfxURRFxR0VFNwQrbiC4P//0chMCbaTVF+aSUEPXAQJzWGWlEq/BWCcQgBYKZc5BZBKy6wHA448pcRfJou3TFJInlLCLRNIKF5tl5A8qUBaJHB1bJmA1XHLKAm5nv9gQq7n/7uMJyH7YlMt+b8Ukl/KkezLpUg63vhckax4kgKcT6e4XS7xuNvh/XTC5+1mXS7jcY4A+50OZ9TrcYzgYbPBaxTh43LJFJJfywHAVrOJ3Xabk7zUiNqz4606BGCjXmcpKUPVWi0WKYFk5JdyxB5o077zfu+zPRL3dhmZyXDIA64kZItQ5Kx4nhcD4Gw85tBGJWXknCjIEMAtMYNLrSE5pda4AF7xWrXKG2ZWW6kaLuJVpzbRL1UpYHWIuEIUen+oZYGFCPVN+o7yJhWbF2fNVUfWRexdAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABDElEQVR4Xu3U2wqCQBAGYPdKupQkSckwySDBMKIDZgZB7/9GEzOylO4adLEHyB8GwZv92JlZx/mvMGjLijCYuC6VBagRMxRLMRaALMNYBOpCrMMYBMkxmkCy598YSPauWIDpHij+1wTCDB8uQj5LWb7fyFApQjHYZhnsiwIuhwPcqwqeTSMc3i9FGAyDZRRRreKYigNPZQm38xkeda0XNA8CWIQh1eehHCrOjjIMhsHM9wnVx+Bt7fJcNUAWcaB5+67Ho06QfLs4Zp0kNOCaQCIES5wVTZhNmlLhRnUxRsKoJXxwsTWIMwrCFZ96Hm3Ye7WNpV11bBN+8ZaMg/hDiO8PtswwCKN9k8b8lBfSkA8IYAnuRQAAAABJRU5ErkJggg==",
     "wiki_name": "Silverlight (Dyed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silverlight#Dyed",
     "equipment": {

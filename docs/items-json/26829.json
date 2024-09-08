@@ -1,7 +1,7 @@
 {
     "id": 26829,
     "name": "Abyssal lantern (red logs)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": true,
     "examine": "A lantern containing power from the Abyss. It's been lit with some red logs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAEEUlEQVR4Xt2Wy3PaVhTGubyRFSEZiafBPAwEsAFTDMbAUBJSx6ljp07qhafTdRedTtftdN1dd/17v55zhWSF1J2mqHGnZ+YbSXCl+9N3zrm6gcD/LwTu9ahhQ+QzSdQraWRM9TGhBC6KiscZ4QL1y+XHg3qxb/xXgAQmeQ3VkollMelCMcyjAZXytjtKIoLbYdOTvk8eBBGLYDY+lDB8Pa8X5FFTE58aSuCyW5OTeoHua+ehtG3tnndteV/sDh+5fgaljNTmmE1121U53r7+6BCoVwvyIeNBC61SEYlYTKaDO+mnr1/KFI32c+jkTfQKaXn9pl/Hj3dv5biCaWLSaaNVL6JAYxyYP3fvb4VdrA4EFzAvfm8nx7g86eL8uI3TZgXVjIlOKS+v+Xf+/24xwlefz6SuFxOpLWGcoHqZn+JiOpI6Px1K8TlP/mrYwaBalLB8/Wbcc8ewVqOBdNknGA6BTnNfps+r5UlfTsiw7AKngyEZgP9bDLqY9Q/lvT7COEEPLKbRzu2ikdZlPbByacOVmUp+IMeZeCDwTwv5oRBIigA0UttQUVPj7qReKBbX23kshJuUiufVLPIhgdgayCeHhARR16pqCupKDOVYFGcRgWe6gmtDkTDjaAipaBQD+n2uJTCrZGEFBaJ+AykEklgrr8RR2YmjnEigm1RxSTC/aDEXKEe/N8mVFkGPK3lyViBMQCwf0mbnny1nsVPpWBgFSlmbUjMydNwoYfy6BmrpGko7CZSC9rh+OSdfJhSw5YNL92/nSAlTWp4oGJA785SO214Lv+lxCdQlwJqqyrTxuErOdO8LrrWlS8J9EOuQ2j1HqWiHBYYE9Mw0cEeL4c+VogT6LGXgQKOiDwWQI4ca1InskDdlW7a/cO1mHe5n0NRVjCNBnOlJCcBAvxt21/F1U9PQo6KuUp01LAO6sLvMp057P2WdvIVVNIjnpBkBnZi7+KGcxveWKoEuEmEJdBYVOKIuY3juMqchfAHilmWNjw7QoxRMabIlAfHEr9sH+HZ3xwW6pfNpOYurZBxzWkCfJhVkqeOcJcMHIA7b8mGrgiYBrZQIrtQohjkL17QGeYG+ofMXBPFl0cKrUhqdJ3Hshex1jOUbELd+v76HGr31dM/CVcHEd2VLbs4uViO8u5pLoPPlEMe0cePv10sriaGlYUC7BN0D4wuQUwP8luOsgWUhJfc4PPGw38Bi0pVAfGQg/o/va4SDqFFH7gZ9c8cJe7Xm79lB2N79XX5x6n6/+EPr7JkmJ20pdo/HscygffQViIuSrb+ZdmVqlvO+nJgd4q86O8M7S5YXipX5N4Bez7q4nh5JmNViIIF4Mp6YIRiMxeeOM175VD/e+HCSh+RMvqnNJ24dmxP8lTbv/dj4AwFrpQ8HkVVbAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAD7klEQVR4Xt2Wy2/iVhTGubxxPMYONs9AeAQokAChBEIAZZhhmsk0k0wzbRZR1XUXVdV1q667665/79dzjmPCULVShduM5kif7Gtf+/x8Htc3EPj0TOFRT2ouRD6TRL2SRsbWnxJK4bKorUVGPTUQm8KrfetjAVKY5A1USzYWxeTHUEMKpbwbHS0Rwd2w+ZRQBBGLYDY+FBgez+sFORp64v+GUrjq1sTpOtAjxN/BbB29x+7ZFEeHj1w/g1JGtDlnU912Vea7439tCvVqQV4yHrTQKhWRiMUkHdxJP3/zWlI02s+hk7fRK6Rl/K5fx0/372VewbYx6bTRqhdRoDlbwHjmFqsHwQXMi9/7yTGuTrq4OG7jtFlBNWOjU8rLmK/z/fvzEb56PhPdnE9EW8J4RvUyP8XldCS6OB2K+Jydvxl2MKgWBZbH78a91RzWcjSQKPsEw6bQae5L+ta1OOmLQ4blKHA6GJIB+N75oItZ/1Ce9RHGM4V+MY12bheNtCn1wMqlrZXsVPIv8iITDwT8hlJIqgAMUtvSUdPjK6frUCyut4tYCLcpHS+rWeRDCjF/gZSA6A+qGhrqWgzlWBRnEYUXpoYbSxOYcTSEVDSKAV2fGwnMKlk4QYWo30AagSQelNfiqOzEUU4k0E3quCKYX43YCihH15sUlRZBjyt5iqxCmIBYPkC5+eeQszhS6VgYBUpZm1IzskzcamH89gDUMg2UdhIoBd15/XJOPiYUcOULkPd1nrQwpeWZhgFFZ54ycddr4XczLkBdAqzpuqSN51Vy9uq54IO2hFKrF7EOqd1zlIp2WGFIQC9sC/e0GP5SKQrQ5ykLBwYVfSiAHEWoQZ3IEfI1ZV64WYf7GTRNHeNIEGdmUgAY6A/L7ToeNw0DPSrqKtVZw7FgKrfLfOq0D1PWyTtYRoN4SZoR0Im9ix/Lafzg6AJ0mQgL0FlU4Yi6jOG5y7yG8AWIW5Y1PjpAj1IwJWcLAmLHb9sH+G53ZwV0R+fTchbXyTjmtIB+ltSQpY7zlgwfgNjckA9bFTQJaKlFcK1HMcw5uKE1aB3oWzp/RRBfFh28KaXReRbHXshdx1i+AXHr9+t7qNFXT/ccXBdsfF92ZHN2uRzh6+u5AF0shjimjRv/v147SQwdAwPaJZj+wbA91gB/5ThrYVFIyR6HHQ/7DZxPugLERwbie/xcIxxEjTpyN+grEJu7WvP/7CDML6YtyRenq/8X/2i9PdPkpC3i6LkQCnbQPW6+dQtzC5NDfzvtSmoW87445gjxX50jwztL1joUK/NfAL2ddXEzPRKY5flAgNgZO2YIBmPxuReZD+W7bTr4J32C9ietY2A/fRtrogAAAABJRU5ErkJggg==",
     "wiki_name": "Abyssal lantern (Red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_lantern#Red",
     "equipment": null,

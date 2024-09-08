@@ -1,7 +1,7 @@
 {
     "id": 1295,
     "name": "Steel longsword",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A razor sharp longsword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByklEQVR4XuWW3yuDYRTHPa219rZ7t+5cqG3ETBNz4cfaYjPMzNhmmB+bRkzIhTtJ5FYkuVBE7hVR7kT+oa+d5/WyTVw+R/nW6X0vnotP5/s953mqqv6nBPRilw4S6OxEKhrlhhLoam/H6EAYS5mMhHHW1MiqPKlAAj0dXkzF49haWUZ2IvUJVHlSgQS8Hg8SkQg2F/OyGLsj0NLYiJH+EArz8xKGvkzdEWiw2xH2+5GfnvoGwwJE0zSXTPwNGJqodCyGtVyOH6bN7cbY0KAcbwJihWmur8dwMIiFyTQ/jKOuDiGfDzPj4xKmdAFWnlYgPcSUm+XZWe5trIeYckNWscNQiCk3NOLUHVYYCjEtP8MqVhgKMeWG7inaxowwJP0Gp3uKrKLssE4U3eBkFT0pSmEUARlPTr1aXS70dXdzWSUQHzVjZ9uCo0MrmpyOMqsUw5CK4bWbyqCuLjVpldExhTCk4mg3m9AbMCGZKIe6u9Xw8mz7AFOqYpeqi1C1JmysW7C3+wXEYhlBXJxreHu14WDfKv9vrjX5ZbFstWDBybEVD/c6QGkp7052ziy78vRokzaVQiiGMSRwdmqVFjF05Cex2PO7/hQMp94By8qAe1HjlfsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4Xu2WzUtCURDFfTxEfLjvT2ghaIapYaQtzEQpzcpMzY/MzK+wMKOiRbuIKNpGEdEiKIr2QVHQLor+oZNzH2K2auUIdWC4d/d+3HNm5mk0f1MS1GKXChLweJCJRrmhJIy6XIhPhbGWz/PDjI24kUsksLteQ3khwwkkwe10IhWJYGe1KooVZtBqxdxkCPVSScDQyQQkod9kQtjvR3Upxw1DUrupmE51Bwx1VDYWw2alwg8z7HBgfmZatDcBscLYLRbMBoNYWczyw5iNRoR8PiwnkwKGeQCqIabc1AoFfhgKMeWGrGKHoRBTbqjF6XVYYSjENPyaVrHCUIgpN7SnaBozwpDUDU57iqyi7DACqRucrKJfCgYY+lirhmw2THi9XFZJSMS12N/T4fREj4E+c5tVHYYhNcJrktugbm8UYVXr1TqqRmvbZYwHZKRT7VCPDwre3ww8UOaeBlSvjO0tHQ4PWkAsMARxfaXg88OA4yO9uN/fKeJkAdqo63B+psfzUxPge3VUEspFrXiV1xeDsIkB4qckXF7ohUVdANMUiz3/+pW+AActOM3DKt9xAAAAAElFTkSuQmCC",
     "wiki_name": "Steel longsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_longsword",
     "equipment": {

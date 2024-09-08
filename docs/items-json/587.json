@@ -1,7 +1,7 @@
 {
     "id": 587,
     "name": "Orb of protection",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-07-23",
     "duplicate": false,
     "examine": "A strange glowing green orb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2ElEQVR4Xu2VTUQEcRjGdyRjxpounbq0yhZJW9m0afWhtlqyfelrUyytFImIpaRIxVIqHTpEh24RHSI6RId0iw4RHdIhIjpEzMzhyfsfs7O70qWZ7fJ/eG7D+/O8z/sfl4uLi4uL668S8LtzJmPgpFqc4Z4HN8K3boQuZbSeybkCEzCvBTI8p/ox+qmg/1lB5N6Nrhs3A2o8klAUznMSSsCa1o9VLcK8rIVTnlK9GH5X0PtopNR2LiN4LKFuV2JA1R6P3VACZtQKbOpRrGtDzARHTmgtiKlFLKWBFyOljisZzacy6vcllIznO5GSgC09xpzUx5kJjkxro4TG1AKWUt+TlVLDoYTqNRH5istuKAF7+jTzjh5nJjgzoVnVl0pp8NVIicpNa6tNiiifNVKycXUWULopKerTghZkK51QCzHyobCLIyAqds2GiLJpB4DMZNJNXVrUQuzS6PSjXwqG3hR031kr862I8MYdADK7k+6f0qFiU4fo9KnUVUsiSmO2A5GsN4ggqDvZMFTozmsZTScy/NsSKhOZMDYDkQQ2nApMK6LrMmHoDTKLnCMYU9b/ihKhy6ISt1/ICBwYIOnfOAxjyBqS/UPNhMgJTLayh/8LBBcXF5cD+gaft8bxSk1v4gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxklEQVR4Xu2VTUQEYRzGdyRjxpounbpEqUj6smnT6kOfS7ba9LXZWFrZWBGxlBSrIkqlQ4fo0C2iQ0SH6JBu0SGiQzpERIeImTk8+b9jdmZXurSzHXofntu83p/n//zfcbm4uLi4uH4rAT87ZzIunFKL09x/74b/xo2uCxntp3KuwATMad40z6oejH8oCD4pCNy50XvtZkDNhxKK/HlOQglIakGsaAHmJc2f8rRahtE3BQMPRkodZzJ8RxIadiSngATMqJVY10NY1UaYCY6c0NoQUYtYSkPPRkrdlzJaT2Q07kkoCec7ASVgU48wb+hhZoIj09gooQm1gKU0+Gil1HQgoTYpIl9xZRtKwK4eY97Wo8wEZyYUV2tSKQ2/GClRuWls9RsiKuJZT8kCspuSoj7Naz420km1EGPvCts4AqJi162JKI85AGQmYzd1aUHrYptGqx/6VDDyqqDv1hpZzbKIsqgDQGZ37P4uHSo2dYhWn0pdvSiiNJJ1IJL1BhEEdScThgrdcyWj5ViGZ0tCVcIxGFMCu5wKTCOi7TJh6A0yi5wjGFPW/4oSoc2iEneey/DuGyD2bzJPOyz7xX8GwcXFxfU/9AXgJqX4IlmX5AAAAABJRU5ErkJggg==",
     "wiki_name": "Orb of protection",
     "wiki_url": "https://oldschool.runescape.wiki/w/Orb_of_protection",
     "equipment": null,

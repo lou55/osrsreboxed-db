@@ -1,7 +1,7 @@
 {
     "id": 19708,
     "name": "Amulet of eternal glory",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-06-30",
     "duplicate": true,
     "examine": "A dragonstone amulet with an unlimited supply of magic charges.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs3VbUtUQRQH8N0XIUkY0hfwrdCLvkO9SihNc0XFnnygqGwrisUSn9geDGnb0jR2wVi2ZakNoTTLQsl3faiJ/1z+13PPzspe9xYOHGbvvaPzu2fmnonFDn+LG3e4nv/zFjfzE93mWarLRvphp5m7f94GEYXMFbO6cMnkXww5UPolGoZ7IKIAYmhM7vmgWUr3BybGNZ7pCKJCIeNm4XFPFQo9IAyC3sz1mcxUrx2L3gXCeIn+WZ4w34v3DoYiCL+ZHYJWng5YEMfWAuHvfpRSZrsybXYqsxaEOU61tdnQs6vmpZ1vTRAmdYGyMwkfhN8uUDF7NQDCb4L07KrFA8uAibi5cU2QTD9jP1B5cSQ6ELOEewBhTCmXM1/LZbO9sW7+7P426ZQ3AQJZ06BPy6M+CBEKxH2hQfyaCkuL5uXsTFWGistvTXJs1L+WoM/vxoKgDw8aB+E+npfzedszkxyDezubmyabTpvBHu+aoLXc9WhBCADwfK1YtL3e0ETpDGHPra/e9EG/Pk76mNAgicI/x/OF6akAiBiMs5BXmSrQxvvbTpCevUbz3hCTuUDDA97SydIgQU8mvBojQd8KyYOCvImQoVqgod6LtpcVWoLGR4YDIHyZEiSLop5dNW+jukAIgvo6vTNNbmjun41KxRxrbvZByE6kIKIQBHV3dNjetaFX5ucD2YkUJLOEnqDJu0kfpJfrZHt7Faj0+poPQpUmpi4QvhwXiMcBxqAwoq8VxHD/4NiQGaozO2h7IL2PeBxgzO7Wlum/0GWONjXZeHRn3H5ZZ8+crsoOQDg2IgMRhfuYAKc2xmHjAnPuyC2LuZxI2PvyYCUIVVqCiNKzO5oHci0bQcQAwuBSyaUlCC/wJX/DB6EGhahDQZBcNgk63tISACFTLhCy0zAIX1lYELMk9xqXKzKQXjbcJ+hEa+u+II4FCJ+8BKEGha5DrmXjJNzUQCFTCGJ0hjA2EpBr2SQIzzCWgaJIEMbJ/dMgCK260LlCVmgZGoSiKEGMEKBYjGV9v9BAGXL/RAKqt2lkPVjG3tj/1DTSFfpvDnX7C3SccRUlikmOAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu3VW2sTQRQH8OZBikUqxU9R8FvokwVtbW1KW+qtFxS1RkUJ0dIb8RIJxmhrKwlUQgxBIwVtrFZpsW9+qJH/DP/17Ow0ZJNVfHDgsNndyc5vz5yd6ej491tMucN1/4+3mMqkBtXj5ICO9L1+tXznjA4iSrmLaiN7XhWfTjhQ9ku0DTcgogBi2JjCk3G1mh71DYxz3LPDjwqFjKnsg6EACkdAGAS9XB5Ruflh3RdHFwj9JfpbNaW+lG+3hiIIv5kdgtYfjWkQ+x4Ewv++VpJqt7ag9mpLGhQKg4fyrQnCoC5QfjHugfDbBSrnL/lA+N0kKOabBgzE4sY5QTL9jEag6spUdCBmCdcAQp9KoaA+Vatqt76lfu7/UOkkB4jprNmg92vTHggRCsS6sEH8mkqrK+rZ0mIgQ+W1VyoxM+2dS9CH1zN+0Nu77YNwHferxaI+MpPsg2t729sqn06r8SFzTtBm4Uq0IAQAuL9ZLuujXdBE2RlCzW1tXPNA39/NNYtB84MkCg/H/ezCvA9EDPppyPNcAFR/c6NVEJp5QwzmAk2OmamTS4MEPUyZNUaCPpcSrYLMQMjQQaCJ4XP6KFdoCZqdmvSB8GVKUIhF0RSqC4QgaKTf7GmyoFk/9VpNHenq8kDITqQgohAEDfb16aOroNczGV92IgXJLOFI0NythAeyp+t4b28AVHlx2QNhlW4Sg2a+HBeI2wH6YGE0D3UHMawfbBsyQy2B7DridoA++zs7avTsgDrc2anj/s1Z/WWdOnkikB2AsG1EBiIK1zEAdm30Q+ECc/rQdY25EI/r63JjJQirtASFQBmQa9oIIgYQBqdKTi1BeIGPxaseCGtQiHXID5LTJkFHu7t9IGTKBUJ22gbhKwsLYpZkrXG6IgPZ04brBB3r6WkIYl+A8MlLENag0OuQa9o4CIsaKGQKQYydIfSNBOSaNgnCPfNAE1gUCUI/WT9tgtB+D9Qo5AotwwZhUZQgRghQsy2IZMj6+YugRi2IDMb/1l77BSqYJokxxldlAAAAAElFTkSuQmCC",
     "wiki_name": "Amulet of eternal glory",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_eternal_glory",
     "equipment": null,

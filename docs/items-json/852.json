@@ -1,7 +1,7 @@
 {
     "id": 852,
     "name": "Maple longbow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "A nice sturdy bow made out of Maple.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xs3VbUtUQRQH8N1vIgRF9aYg6E0v6tUGC26yWZZa6eLag1hhVmpJtqJZIsj2gIWCsZhIGUFUFEV9son/DP/x3NPc9t7dWzhwmPswd+e3Z86dm8vt/pY34Qjd/+ctb55Mlc3CRJeNuTunzOytkg0iGssDZn3pollbvBBA6T/RNtyBiAKIoTGrj/vMi7nzkYlxjns6oqhUyLxZun/6DxR6QBgEPZvtMcsPztix6EMgjJfo71tT5uvGWGsognDM7BD08lGvBXFsHAjPfducMD+3Z8yv7ZoFYY5DHR029OyqubTzX+NcL5cE1R+e9SAch0Ab9cEICMcE6dlVy0eWAeelQsH29fFrPuUEYXIguLxxoK3nQ9mBujs7PQSxeL0aOWcmCULWNOjdStWDEKlArAtMhKWQKCwZ+uFy0cyPVEyjdteeNwO9fzUcBb253TqIdaRRiHuV3kSgD6tXsgVpFF/jruPHmoIw9tP6iAf9eDvtMalBEoUfx/1ysWh7jGOmcB/j4kCfX48GQXr2mOYmwY9rEJeLKMTRg/ttTxBeCg360rjZKsjtQchQHCiEOnJgr+3xnAZhvATJTVHPrpp75UMghASxhiTq8L49/lhmJ1MQUQhMgB0XE+h6YtEjViZveFSmIJkl9BKEcbgmUdyzJgfORUCbTysehF2amEQgvCEhED8HEiS/dXLpegonPAhj8dmQGUqYHbQdkK4jvsoE4Vx+MjRqYXTI9hiLz0ZmIKJwHeknCPflpqk/MbXLlzwIu7QEEaVnDzQHCi1bEhAyRtRg6aSZqbrC/7h21YOwB6XYh6IguWwShB7XJYYgPEMUi7stEIq1GQi1hGshEGsNvzXW123G+13W2gbpZcN1CZIFTQxBHOvqJJoh7EGp96HQskmQfOVDIO4/GIs9qG1QaNkkCPdCBY3gdwyFnwEIzaW5Wej6YWgQNkUJYqQA5XLc1v8WGiiD3y9kJxNQ0qaRSbCMnbH/qWlkKPQzu7r9Bgpnf92exE+CAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACz0lEQVR4Xu3VXUtUQRgHcPezBEV1FQjddFFXGyy4yWZZaqaLa5ZYYVZqRbpiviHI9oKFgrGYiBpBVBRFfbKJ/wz/4ZnZ2fa8GV008DDnZfac3z7znJm2tn+/5VQ4QvcPveXU8nRJLU526ph/cEHN3SvqIKK+NqC2VvvV5sq1AMr/E6nhBkQUQAwfs7HUq17NX3VejHPc88NFxULm1Orjiw0o9IAwCHox163Wnl7SY9GHQBgv0d93p9XX7fFkKIJwzOwQ9HqhR4M4thkIv/u2M6l+HsyoXwdVDYqFwUP5r3HuT5cE1WYvWxCOQ6Dt2qADwnFEUM6ZBpwX83nd1yZu2ZQThJcDweltBtp9OZQdqKujw0IQK7crzjkzSRCy5oP21ysWhIgFYl3gRZgKicKUoR8uFdSz0bKqVx/q81ag92+GXdC7+8lBrCMfhXhU7okE+rAxki3IR/Ez7jx7piUIYz9tjVrQj70nUTFoLkii8HDcLxUKusc4Zgr3Ma4Z6PPbsaQgNPMSPNwHcbqIQpw+eVz3BOGj8EFf6neTgswahAw1A4VQ7SeO6h6/80EYL0ExFkXzyYdACAliDUnUqWNH7LHMTqYgohB4AVZcvMCvJxY9Yn3qjkVlCpJZQi9BGIdrEsU1a2rgigPaeV62IKzSETFo5ssJgbgdSJDc6+TUdefPWRDGYtuQGUoE8uuInzJBOJdbho9aHBvSPcZi28gMRBSuI/0E4b5cNP0tpnrjugVhlZagGCgDCk1bFBAyRtRg8byaqZjC/7h504KwBsVYh1yQnDYJQo/rEkMQfkMUizsVCMXaCoRawrUQiLWGZ433dqmJPpO11CB/2nBdgmRBE0MQx5qXuhnCGhR7HQpNmwTJTz4E4vqDsViDUoNC0yZBuBcqaAT3MRR+BiA0k+ZW4dcPwwdhUZQgRgxQ1NaIZHD/Qnb+IuhPrRHZGP9buvYbwFQ1UQ0TilUAAAAASUVORK5CYII=",
     "wiki_name": "Maple longbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maple_longbow",
     "equipment": null,

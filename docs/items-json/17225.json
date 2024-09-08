@@ -1,7 +1,7 @@
 {
     "id": 17225,
     "name": "Mining prop",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-22",
     "duplicate": true,
     "examine": "A prop for holding up a tunnel roof.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnUlEQVR4XuWXb0sCQRDGXSLCOIJIkjoyTzmFM06LOJISBKmQgoogiCAI+v5fYeK5dW731hJftLtHDQy+8c+P53lmbqzV/l4Jkl2JEvQ2H1DWD6oAJWFebxN6ue5TGm37hhIFzPOsR4/TmJKWVyhRgrmfdOk0DigO676gRAlmftnJbWvubuZAo3bbDxSAGAqW7QUbfoE4R9zjZIei5tbCNucrQdD73cm3DbhZdkzD3r4rOAkDhUyV0LARubq5iPLXq7MudY4aNqHkHuIfNxuZgkLT8xaN00PKBgcU1K3lS6mDSeMp44YqgJmMwhwGmdJhrAMBAo+PsGGGudzWYD4e0sIuqANFeEvzj/7U5rf9Qil1OLhQx+NClGHm7CArpjrmJyyWVIcnC1ZBHU/bWWZHtwojzQ9Tx+oI+nwaLlmFsba4W1bVslWA0YPsEEhZxTunclbxueocRreKFyCs8jBVahvzVAEGVvHjwaE66t8En6icGw8LUF6AOggr42nE5eHOeeFdg4myfD6sKlGo4uiWWaec3TLrFwPobb7nX9QXp9+uC0Dk/OMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgUlEQVR4Xu2XYUvCcBDGPSLCGEEkSQ2NKVOYMStiKCUIUiEFFUEQQRD0/b/CxbPr9nezoDfbjejg8OV+PM9z9z8bjb9XxNK1KOLX5YiToVcHKIF5uYn4+WrIcbBtDUUZzNNiwA/zkKOuKRTlYO5mfT4NPQ79phUU5WCWF73UtvbuphUQilIghYJle96GLZDmSHsa7XDQ3vqCqnwlEL/dHn/bgFskRzwe7FcFJzBQqKgSGjYiV9eTIP29POtzr9MqE0r2kH682MgUFJqfd3kaH3IyOmCvWVq+nDqYNJ0ybagCmNmJn8IgUyXCoPJAgMDz4beKYS52KUX8fh9ndkEdKGK4pZ06GlyoY7gQJcyaHWTFXB2dLFgFdYy2s2Rn1SqMtNFjSvzxOF6zCmNd8jj/VOtWAcYoyM4q3Tm1s8roXJXtqlbpAoRVBlPltrFOFWBglXseKiv3b0JPVM2NwQKUC3AVRJUxGnE53DUvumswUQYwWpSpUtEt85uSCcv3f9WjPgGNGm2IypBRFAAAAABJRU5ErkJggg==",
     "wiki_name": "Mining prop",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_prop",
     "equipment": null,

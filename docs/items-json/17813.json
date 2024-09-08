@@ -1,7 +1,7 @@
 {
     "id": 17813,
     "name": "Dagannoth-king bonemeal",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-11-07",
     "duplicate": true,
     "examine": "A pot of crushed Dagannoth-king bones.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xu2X70tTYRTHfeiFJNIIRdHhjxlXqUAUZDRctShlhsRW1tJ0raBhmoXBEKMXYRAEQS+iF0H/6ze+z+W4s2fPHW130zceOC92d3fP537P93mes76+i7iIMw+D6Ox5uAUNXi2PYSs9io3FYazPD2Hl+lXcDhLIzFzpNZhpKszPb7Lj2N5+gnL5KbY2i8jnc/iynsKH+0n7/b3ZRC9UM9jPJbF2MwRhEYJRnYOD19jfq+Dt7ktUKiUUi2vIZtMIghRqq5P4/HDKQvMlFicGuwVl8PHBBAoLw5hPDtiHl2+N4tPxexwdvUOttofDwyqq1R08LxWsSpnMEnK5ZavU7p1x+9v0VAi0MD0dF8rgOD9pH863ZStYgGrRKycnNQtGtQi0unLXQhFEe0x8FRPIWBD6gvn1UWPyGtvC9lBF3sv2EpwwVLK0NGJfgGYPRi7HbZuxxVj8W2GmKXmdQFSQ9wmQqEMgreiNsYG4Khlb+Ptjf/pUEiCqpIG4KOjBGEChmX9sXPMmgVyVpG0CJB4SIBo7mejvtG0GP58F3hQoAaJKUW3TQDR2aigE6kAlg1+loCk1lKgU1TYXSIw92H+pXZUMfm/ONqULplXytc0HRGMLUBsqGfx5MXeaPjCtUlTbfEA0dkdAf3fmbGowDSdQrdrmA6KxYwHpdMFatS0KiGda14B0ikpRbXOBZDQ5FyCtkBwd5wKkWyarTANxH+oQiNEaSgP5PKSBZKiLDcSCLEwT+4B8ppZVRiA57QnEwU6ABKZtILaCBVnYhXOB3GUvQJyFuMJ8QG7F/4j6ae+CuXuQrC7ZqfUw10UgRjigu2BR44fepV1Dy7M6aFdjhD82p1OjC6PPMDlY9f7jgsSCaYzwwYTwtUnmIIHpIUg9RC1Jd44mzJmAuFEvpP8IdhfkH7qNFjcGivwVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmUlEQVR4Xu2W0UsUURTGvfQgibiEouiissYoFUiCLC5utVHKGhK7ZW2ablvQYpqFwSJGD2EQBEEP0UPQ//rFd5fjnu7cWWhmVl88cB52dmbOb77z3XtPX99FXMSZh0F09jzcggYvl8exlR/DxsII1ueHsXLtCm4FGRRmhnoNZkKF+ft1cQLb249Rrz/B1mYV5XIJn9dzeH8va/+/O5vphWoG+6Us1m60QViEYFTn4OAV9vcaeLP7Ao1GDdXqGorFPIIgh9bqFD49mLbQ/IiFycG0oAw+3J9E5eYI5rMD9uX1pTF8PH6Ho6O3aLX2cHjYRLO5g2e1ilWpUFhEqbRsldq9PWGfzU+nCHRcnrIv59eyFSxAteiVk5OWBaNaBFpduWOhCKI91vFVojAWhL5gfnn4b/Ia28L2UEXey/YSnDBUsrY4aj+AZg9GLyeFMrYYi3+tzISS1wlEBXmfAIk6BNKKXh8fSA7Ewt8e+dOnkgBRJQ3ERUEPJgBqm/n7xlVvEshVSdomQOIhAaKxs5n+uFAGP54G3hQoAaJKUW3TQDR2bjgB0M9aEEoNJSpFtc0FEmMP9l/6XyiDX5uzoXTBtEq+tvmAaOxYQL+fz52mD0yrFNU2HxCNHQvoz86cTQ2m4QSqW9t8QDR2IiCdLli3tkUB8UxLDUinqBTVNhdIRpNzAdIKydFxLkC6ZbLKNBD3oZhAjO5QGsjnIQ0kQ11iIBZkYZrYB+QztawyAslpTyAOdgIUA4ZhbCtYkIVdOBfIXfYCxFmIKywFIEbntHfB3D1IVpfs1HqYSxGIwYfDYFHjh96lXUPLu9wKMcOcTo0ujD7D5GDV+0/KIDraLyaEr00yBwlMD0HckELtmVvP0YQ5QxBfdODSBvkL14vj+3SRSLgAAAAASUVORK5CYII=",
     "wiki_name": "Dagannoth-king bonemeal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dagannoth-king_bonemeal",
     "equipment": null,

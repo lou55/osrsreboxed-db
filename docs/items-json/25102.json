@@ -1,7 +1,7 @@
 {
     "id": 25102,
     "name": "Fairy mushroom",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-11-15",
     "duplicate": false,
     "examine": "A squishy mushroom from a fairy ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu3V309SYRgHcN85x3It/wXvu+m+5pWbpc1qlkuZmj/Qg4ECRzpEiCEKQ5xpWMwVORrDbI4oQ1dbzVb/17fzPMdDyOyitvMeLvhu7xhscD487/O8b0tLM82YEaj/xMYIeCcn0CAoAVVRoHk8DLrS2WknSsA/M41owI+nC6qdINoaAdfFNixcciCkr0iHA1NOp6xtMwDmunGhFUPtbXDrIL+OMVHj+nsJVRKYWElg/kUWrmQK1xyt6NdBI6cgbw2KQIS1uEoCI4tRBoXeFvh1MpHEUCh8LsiskIVVEvxwb2abQasHJWi7eTzcymB0KYZ77X9Q0rasX3FDWd+ogp5XjhDd24cvu8PVouamnpIEoggMqkGuzLfyE/w8TiJd/sQo9XUOs882GSMRRBH4XJxl0MlhjFFULbOvqOElggTy22P4WHDj64HKqB+VOH59WTtTpQexuAyQwNbqIN5kRhl0tOepoqixg7ldXtT0VCWaSAvHXiDsu46N+F0Gvc+5GHW8P3f60POXRWOvH4jOqwxKxwYYVHg5zqjah/5t1f/af+Tsv+ztvgxlrKsKyqaHGWVhBWpjjDXtP10TBFgK9iHg7oY218PvqY8kYSjGfUXTkiqVkf9+glT0DhYDvQxaeXxLJoZi3Fc0KZHiO2weVhAuFJGI3GaQZAxFYGDex1UK7LzisyVR+sB3FVXJBNV/y+II3H+kYXptnVF0AtP9tazdtAtEMbaODjg69AhG22YjiGJUiraLYDRhNoMoUk7ef4uJaAhMM42U3/eV+grsaCwGAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLklEQVR4Xu3Vb0+SURgGcM+cY7lWH6SPUOuVW2XNapbLmJoa9mCg/JEeIsQIhSHONCzmihyNYTZHlKGrrWar73X1XPcjpK3exXl8wbWdMXhzftznPvfp6GinnUYU/vzFwSj4x8dwTFAKYcOA6fMdB5BC8N4EEqEgHs+EnQRxYwXPyS7MnHIhaq34aRfuut26UDagsS6d6MRgdxe8FihoYRqoUeu7BpDC2Hwa088L8GSyOOfqRJ8FGjoA+Q+hCCK2xSiFodmEgKJvyvI5ns5gMBr7K6jFGEbJ5v78moAWtqswN0q4v5rH8FwSN7t/o7SB+gwvjKXlJuhZfReJzS0ECutSLTY3e0oTiFEYCEekMl9rj/BjL4Nc7aOgwq+KmHy6IhiNIEbhU2VSQPs7SUGxWo2+YsNrBCmU1kbwoezFl+2woL7XU/j5efFIle4kUzpACqsLA3idHxbQ7qaviWJjR4obstj0rBJvZAtRCrHARSynbgjoXdEjqL2tqYNN/7VaEmsgus8KKJfsF1D5xaigWrjp4Rz9l709Z2CMnG+CCrnbgtKG4bXm+fOZIGAuchkhbw/MqQvynX2kCcPY7xVvS7ZaQ+nbPrKJ65gN9Qpo/uFVnRjGfq94U+KVt1jZqSNWriAdvyYgzRhGoX86IFUKrb+U2ZKuvpe3ilVyAMQo3HpgYmJxSVCcwHy/nphXnAIx9tFxwHHoEcZjcxDE2JXicRHGG+YwiNEyedtp57/kFwxsw5A4j/cRAAAAAElFTkSuQmCC",
     "wiki_name": "Fairy mushroom",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fairy_mushroom",
     "equipment": {

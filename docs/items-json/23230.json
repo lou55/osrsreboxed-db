@@ -1,7 +1,7 @@
 {
     "id": 23230,
     "name": "Rune defender (t)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": false,
     "examine": "A defensive weapon trimmed with gold.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3ElEQVR4XtWXvUvDQBjGPSSEhPwR3V2qgygiCi4qDlIoUrBCkYIVRApFFIsU8QNxUAQFB8FBcBAEB0FwEBzE2dn/5ZXnXs+cqZWrTXrxgRsK17y/e96PS3p6/qcE8UqFBF2ueHS+5LUBldgBBF0sexLoatWjk0UTKEGVMYfq067B3j+JTwsgwB0u/BaIYdTC72wm02JvB+KHMhjcOi0rp3QwhimPOlQacag45FBhkKHCPTFLB4NbYV21hsF/EnFJlw4GtwAShckPJJiynyXo7Tiguw1fBlYgCiaXtQD0shdIh1ShX1f12upSukJx0HrelUDFz67CQuHrYM0rdgl6PwvkKChNOFSdcakxxy5FC/+m5n+NDLh5VDKZZW1J0OtBIAOFD29OkQ6GVOrTPsZUct3cb/rytOu50JVWQRQYXIod5nnXp8eGL0+LFCFd4329himIFQZiINiPIq5MOjTVzzCmgUz2GErQ07YvZw4u2NqsS/nhLk7iZgl62PJlp6DNVYtbg0HdoCj35zlVVmHgzO0apwrzxiIMJGSLY34gVamAQap2CtZhIPFtGluHQYtHp3F0VxfFN7Z+YVoE4stQveNYh0HdqM8dyzAQv8OkBiaBV4ROlSoYVqpg0qAP5O2VYQtzMN0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwklEQVR4Xu2Xv0vDUBCAe0gIeeQ/cVEHUUQUXFQcpBCkYIUgBSuIFIooFiniD8RBERQcBAfBQRAcBMFBcBBnZ/+Xk7sjTVpsedEkL4IfZCmP3vfu7t1LCoW/CaA8uQDwes3ByxUnhlRqGwC8WnVY6GbdwbNlHSnA6oSFjVlbY+2PkN2SEMkdL/UKJDLB031dIogYZeu8EmQqGlBkKuMW+mMWlkcsLA2nLkWICGUr7CtjMlFEhLJFIp0y3pABoY9TFx+2FAcORAKZ4oABobcDlzMUNPptLdpbmcoQErTh2SxUbp0qafx2sc4ncQA/L1weBf6UhbU5G5sL0XEgganx7+qqNTIomye+ziyLBeD7kcuBwj/vtnP5nUoZf9prIX3zuK14t5vFXkMyigxWvbXaAL7uK3xuKt4tlYjKNdnfpxlIZ00sRIjST01cnbZwZlBXJnEAX3YVzxy6YOvzNnqjmc+ZKIBPO4pPCh3z8IgbAbhvqCkPF6VURmUoM/cbUiqaNwZlCOAjTvODSpULGSrVXsm4DAEd09gowEc83jROFbmx2y9MY8hl2PtlPjOkb/Q+dzJB3mFyI5PCK8JvyZXMP9/yBUgTRohaCfELAAAAAElFTkSuQmCC",
     "wiki_name": "Rune defender (t) (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_defender_(t)#Normal",
     "equipment": {

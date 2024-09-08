@@ -1,7 +1,7 @@
 {
     "id": 23772,
     "name": "Prifddinas teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": true,
     "examine": "This tablet has been redirected to the Prifddinas portal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xu2X60tUURTFvZ/6LEmSkvkgwwwfYWaYaZiZGaaZmZn5yNTMfGQ2GBES0b8Q/bU71h7WZc/2jp37+BJ0YDF3Zs6c+2PtdfY9U1Pzf+QakRSjQkYkd/r75XZfn+pWb6/c7OlW3ejqUnV3dsr1jg7VtfZ21dW2NrnS0qJqbWpSFQAVyejQUKyRwUHV3YEBhUwDeqGuToF6mpuzQkXy6P6o6uG9kQo9GB6OFQJ6qaEhL1AkMxMTqifj47Eej41VCLDnNk9iEdY6ilJZoAyZiuTF9LRqbmoq1uzkZCyAWhAvAiNLyNDlxka5WF8v52trFY4KhCoDVYPxN/fu2e+QHYQbLjFLyBZeARlYwkqgajDVSsnc2bkoHfOHfCHs3HWpgJJgLIh3C+ImoCP4DHnCGvgOwYdLqYBePp2pAPIwFsC64p0hEITcYS6BkK1UQHDJBpg7zoLs//p9SnQHc3BzuGOBUD70KmQrNRBcSnKHeQGA7VOEss4QiGvgPXpTJiBrt4cBiAdCDyIQoXyZCYSWEAz06tmsQoUAJQkw7N72N1wPHRxzCgNigJkZukNnCGTncy3MzQxky2Zt90AWxAPZ3ed7UTDQ6+dzp4CsS8yNzQucYF5YHs7jGnwgc+unAqJLfqfxmgAAZXsgDIHoiIVBqHMB+bL5BythfJ8iEK/9uQq9KDOQdSnpMysbeuuOPTdB2PrBQCvz83GOIMBB9sb20WLPTX5XWXd4iIMyAfGVQEnu2HL5MLMd+FMlhK0fDLS2sBDD2PJZIDqU5A6B/nbMDQbae7suG0tLsr64qAoBPKt8SYCpSnby6VCOtrfl/eqK6t3ychCgPfqeBQgowgQAYZShvu7vyZfdXSnt7Cjg4daWHGxuqODihzdrMbCFJrDNIB0FbEoYjkh+Hh/Lj1JJvn8+UsBvHw9UHtTCWtAkdzPCcPi/LfmVA6Y8uECR8vf4J8Yfv3lPsmZKdFIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xu2WW08UQRCFmSefiUQiRAwSMYgBMYgYRDCIiBguIiIigoiAiFxE3GCMIcb4F4y/tsgpctraYhZ7ZueRTk52d6a358up0zVdU3M2qhqJFKNCRiL3enrkbne36k5Xl9y+2am61dGh6mxvlxttbarrra2qay0tcrW5WXWlqUlVAFQiQ/39QYN9far7vb0KmQX0Ql1dtUCJPHk4pHr8YLBMjwYGgmJALzU0VAuUyNToqGpiZCTo6fBwmQB7bu0wiLDWUZSqHChzphJ5OTmpmhkfD5oeGwsCqAXxIjCyhAxdbmyUi/X1cr62VuGoSKhjoEow/uHePXsP2UG44RKzhGzhE5C5gCrBVColc2fnonTMH/KFsGfYdf+A0mAsiHcL4iagI7iGPGEN3EPw4VImoFfPpsqAPIwFsK54ZwgEIXeYSyBkKxMQXLIB5o6zIDt//p4Q3cEcPBzuWCCUD70K2coMBJfS3GFeAGD7FKGsMwTiGviN3pQLyNrtYQDigdCDCEQoX2YCoSVEA71+Pq1QMUBpAgy7t/0P10MHx5zCgBhgZobu0BkC2flcC3NzA9myWds9kAXxQHb3+V4UDfTmxcwJIOsSc2PzAieYF5aH87gGX8jc+pmA6JLfafxOAICyPRCGQHTEwiDUVQH5svkXK2F8nyIQv/tzFXpRbiDrUto1Kxt66449N0HY+tFAS7OzIUcQ4CD7YPtqsecmv6usOzzEQbmA+EmgNHdsuXyY2Q78qRLC1o8GWp6bCzC2fBaIDqW5Q6D/HXOjgbbfr8jqwoKszM+rYgBPK18aYKaSHX7Zk/2NDfn4dkn1YXExCtAefU8DBFQkDMcx1Pedbfm2tSWlzU0F3Ftfl921VRVc/PRuOQBbaALbDNJRwGaE4Ujk98GB/CqV5OfXfQX88XlX5UEtrAVNczcnDAf+XLTORjHjCNuVCXMEm5tZAAAAAElFTkSuQmCC",
     "wiki_name": "Prifddinas teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prifddinas_teleport",
     "equipment": null,

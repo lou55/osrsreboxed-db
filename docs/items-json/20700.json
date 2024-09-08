@@ -1,7 +1,7 @@
 {
     "id": 20700,
     "name": "Rejuvenation potion (3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-09-08",
     "duplicate": false,
     "examine": "A rejuvenation potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xt2X+09SYRjHe13/QL/UmlaWgyaacRIEuQheQC6CopaKoolKGOM2RMS21lZttlprc24tV2tdzK0CL2V/3rfeF8/xnEP+0HY4bD3bd4zL4f3w/T7PA5w5838UgVR1LYKlqRbc9l+Gy3YRt9rP1RuKYGfTho+vrEzZxVZMh67WE4oIMG+fm5Gav47J4BUGpG9uVhuq0jM80PaGCYlZLYuvDv1EEAiOIRSaENzZemJEfEaDUc8ldHVZYbH2qglFEA7PVWkoMAaXOwCH0w293qhmdH+mKxZnisWWBfn8IfQP+GA0WqDRtqoLlMnmBKVSGSQSKXi8w+i2OKFru4nGxkovqQREi+Dzzi729w9QLu+hVNpjcXFcl9DUFEZVoIWFeygU1rC+/oCJxmUwdNcDhhZBMplGsVg81joGXH6YTHa1o+KLoLBWlGjQExR6SMWRp0UQXYghl8tjZSWPfH6VRUd3U1+/VxKb/MoaFUE8nkA6nRUmLRKZx+RUhEHZe/rVB8ocZQXFDuOYKUcw+m0cgS/DcGw4wS1zasVGMFe+WwVEHxv/focBOZ/1gkt0quESQXB3RAJDtXx4XwLU+6IPhowRHdGOWrtEsHiwVAWU+JFEdC+KidIUA+57OQBT3ozOpKGWLhF2YO5opUo8ULg0zYBcm26YixYWm26mrRYuEQx9CDB35DBUqZ9p9hwP5N4ahPWhTRKbwi6d7g4PRBubAo18DcH92gP7YweLTR/j0D57Q0mXCGtUemD+16ogMZB49CmQ540XPU8dktgazjYoBUXYJxfDyEWh6KTxQN5tHxt9cWzaUa1S0RF2mBziNCC6HH3v/GzSbI/sQmytEzpc87co55IcQi5+F1Eg//shNml8bNShJnuT4JAiLon3Dt87YiA6+jxQ4FOQOWQumKEL63Ceu6AkDF+VX4HUCXo4nSwejgLR+3QX0W1NNzWNSjOsOY5IcZhKVd6Q/89FJFD0lu4i8feYGERxGHGdHHACJ5cqIH8r8cFyyV/7r/UbFPIPZpcZvIcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xt3V/U9SURgH8I7rH+iXWtNq5aCJZpIgyIvgC8iLoKilomiiEsZ4GyJiW2urNluttTm3lqu1XsytAl/K/rxve47eGxfyt8u9m8/2HQM2zofznOfcc+fORjFIo2oxLE01467/Kly2y7jTdkFtFMPOpg2f31h5sostmA5dVxPFRMz7l2ak5m9iMnhNLdDxmRFA2xsmJGa1vH0qnCeGQHAModCEuDtbz4yIz2gw6rmCri4rLNZeJVEM4fBcTYYCY3C5A3A43ejoMCoLWorFeWKxZTE+fwj9Az4YjRZotC3KgjLZnJhUKoNEIgWPdxjdFid0rbfR2CicJcWK4evOLvb3D1Au76FU2uPt0uu71DjUVAwLCw9QKKxhff0RD7XLYOhWA0PFkEymUSwWT7KOAZcfJpNdPVBhrSjJoCconiGFUQzRhRhyuTxWVvLI51d56+hu6uv3qtE2hng8gXQ6K05aJDKPyakIR9l7+pUHZY6yYmKHccyUIxj9MY7At2E4NpzQL+uVQjHMle/XgOiz8Z/3OMj5ohf6RKcSIIbg7ogEQ1k+fCgB9b7qgyFjRHu0vd4ohsWDpRpQ4lcS0b0oJkpTHNz3egCmvBmdSUM9QYwvmDtaqYkACpemOci16Ya5aOFt08201gPFMPQpwHenGkNJ/U7z7wSQe2sQ1se2erbt9N0RQHSwCTTyPQT3Ww/sTx28bR0xPdpmb8mJYvyg0oL5P6tiKkGVo08gzzsvep47JG1rON8gF4rxf16JqQ6haNIEkHfbx0e/sm3aUa18IFqsGnEaiC5H3wc/nzTbE7vYtpYJHW74m+VDVSOqI9xFBPJ/HOKTJrSNdqjJ3iQXhkr6qBDOTiWIRl8ABb4E+Q6ZC2bowjpc1F+SEyMU/eBx+2hxmiwBRyB6T3cR3dZ0U1OrNMOaE4jsmMoSFmASFL3SXSR9jtUV8r/6h6vNGay/NsraTO/rRZUAAAAASUVORK5CYII=",
     "wiki_name": "Rejuvenation potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rejuvenation_potion#3_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 115,
     "name": "Strength potion(3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-02-05",
     "duplicate": false,
     "examine": "3 doses of Strength potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xt2X/UtTURzGPT8FYfaiKTpdSmnYgmZsM9/KfMuXnC2xnLVMV3My3BxzzhlIUVIgQSFSYQliLaPwrSgEkQIRRKk/6alzTud677WQ4O4O+sLz27b74Xme73dbUtL/MQRKJXQIbjuPoq3JiNryTJw+eTDRUASx8XLMPCljCt4qxDVHXiKhiATzauwM/F3H0W4/woDMubl6Q/HOCKDJR8Xw3Shg8SWgTwTN9lY4HFcldyYeWOG9no/L9Tmw2cpQWnZeTyiCjo7OHbrY3Iraumacq6yD2WzVM7pf2+XxMnk8vZIamxyormmE1VqK/IJCfYH6gyFJfn8/fD4/6htaUFJaiROmUzAYeJd0AqJD8CY2i8XFJczPL2BuboHFVVRkk0pNYXQFcrt7EIkMYXj4DhONy2IpSQQMHYK+vgCi0ehvDaOmtgnFxRV6RyWGIDIUVehCvV3qkI4rT4eg2+1BKBTGwEAY4fAgi47epqrqBkVs6nfGaQi8Xh8CgaC0aS5XF9qdLgZVcbZaf6AfW2ZJ3zfzsL5mxMpyDj4uZWP8aTr6A7p98xNsrOcqgbaOMaDVFQ40MZ6BUJADxdklguUvOQoYAUQhBdDzZxkYiqSit/dAvF0i2NxQusOBChnQ11UjPn/KxuSLDIyMpCEyeCieLhH2QDWMAKKgAmjqZSbu3U1jsbm7U+LhEsHivIGVVw3DZVIATU9l4uHoYUVsGrsk3LH8RSYGu/bNyDo2M52Fx2PpLDa6bd6e/Vq6RFhRuTtqECG++gIo9jqLrb48tuTkJK2gdnNnJ9Ds2yy2+vLYOpz7tIqO7OIOl7hF9Di+f2dgmyaP7WZnCi61JGvnkhpALTnQ3AcDKzaNbfR+GnOopmqv5JAmLtHicsm3Sw7Eb5E4jtQh2iHaH6tlj5YwYvivQOoEfbgSUAlELzWN6kob700cYPjwDxT/uSicANu+RbTMg+HUHSCaw8hn+wHbcGrpAvKnkT9YLfVr/3V+AhPGNeccc6ZxAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xt3V60tTYRwH8D2vglh20RSdW0lprAXN2DRvZd5Sl9oSy1lmupyT4S7MuUsgRUmBBIVIhSWIZUbhrSgEkQIRRKk/6RvPc3yO58wub87OAX/wfbvz4Xd5ptPtjSKQR9Mi6HWdQJvDhNrybJw7c1hrFMHMWDmmn5WxhO6acdOZpyWKiJg3o+fh7z6F9uZjWoGEneGgiSfF8N0uYOPTYJ8Imppb4XTeELsz/sgO7618XKs3oqioDKVll9REEXR0dO3KlaZW1NY14WJlHaxWu7qgXo+XxePpF9PocKK6phF2eynyC8zqgoKhsBi/Pwifz4/6hhaUlFbitOUsDAa+S6oVwbuZWSwuLmF+fgFzcwtsXIWFRVosNS0Ct7sP0WgMicQ9Fjoum61ECwwtgoGBAOLx+HYSqKl1oLi4QjtQNBaX5XJ9s7hDKqMIetwehMMRDA5GEIkMsdHRt6mqukGLsRF4vT4EAiHx0jo7u9Hu6mSoigvV6oN+bVnF/NzMw/qaCSvLRnxeysXY80wEA6r98xNsrB+Xg7ZOMtDqigAaH8tCOKQKiGD5m1GG4SCK5KCXL7IQi6ajv/9QqlEEmxvy7gggMwN9XzXh65dcTLzKwvBwBqJDR1IJIuyDyRgOolAOmnydjQf3M9jY3D1pqUARLM4b2PImY4RYZKCpyWw8HjmayrHx7tj+EgvDrv0wsR2bnsrB09FMNjZ6bd6+g0qiCFtUoTvJEB7h9Dlo5m0OO33p2PR6nVKo/3VnN2j2fQ47fenYOlwHlAP9uztC+FtEH8ePHwzs0qRju9OVhqsteuVQyYDkSEFznwxssenYRh5msA7VVO1XCkOLgizbkV6XFCS8RfxxpB2iO0T3x27bpySGF/1BwjpBPy4HykH0paajut7G90ZxjLT4ByiOw3beIrrMQ5F0NSB/qh3c7uzB+g01ngDcSt17jgAAAABJRU5ErkJggg==",
     "wiki_name": "Strength potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strength_potion#3_dose",
     "equipment": null,

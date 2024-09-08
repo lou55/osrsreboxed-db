@@ -1,7 +1,7 @@
 {
     "id": 16271,
     "name": "Thread",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-23",
     "duplicate": true,
     "examine": "Used with a needle to make clothes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4XuWX4UtTYRTG78u+Bn0oggrKiAa2cCqkgpoLW7YM08zMzDQzMzPNzIaZZmYbZma5zGosIqL6L08953Lu3ns314e9d4M68DC33d3z2znPeXe0rH8rFOWqbKHo2D4rR2UEVHR8v0Xhg4GCKiGg4oS1hwJUf8QtvLaTfIT6U6FgkE5UVlI4FKLaqio6WR2m+poaajoayCt8prqiguW9W5Gh6FRDA0UaG6m1uZnOnY7Q+TOtdCEapbMtLZw8EnQrWpkF8t6tyFCcvCsWo56ODrp2qYtuXOmhod5eGu7ro+72dqciJQBSnFAgRvr76e7gIE3dHqGZsTGKT0wwGCpWAiBF1y93cxUAcf/WsAOx+HCalh/P0tKjGZq+M8qVk6nyCUixV0YHBhhkdnycnj6YYojE3By9frbIwt+AundziNsqUCKDhlbcJrQGMKjISjzOEJsvV2h7dZVSiQS9eb5Eyfl5BkU7dQijMDAwWiXtkaoA4vPaGqXX1/lRh8J1BlskoXiMr3Z2chvQDsAgqcBkNjYcAWwrmaS3L5bp1cICfwG7XUZCUVNdHV1sa+OJws3xzQGDpALzZfOdS14og1WyjYyJgZnhGSTRYb5tvXf0NZVyhPfgK/gLrTVUJcUnL0Ydk6XDoBKA+L79IUcCiGtwrcHpsg9BTAvaBf8ACklQhZ/pNP349LGgDMJIKDYz2oWRFyj4BFUAVD4wVMcgjPsww8mLE1lfNeTkFSAdDN4xCnNgt0V7d9kSqCeTk84yBij8TgEIADoQqmcQBpFdSw/vcQuvCZRUSbwE4UgwDINQORveTgIQxvtXJsM/FT7AILJrqfjFu5Lq+zIqJhIg7x2LDHtx1/0iULLf6CupvOcrkNcvOpi+CcLUsZD9XP678AEI4R77v4FJS30Esiwxp53ADaj7C1A6jG9A3igEWHKYfKEDlh3mv4vfPfI9+h2HZh8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xu2X70tTcRTG92Vvg14UQQVFRIO1cCmkgpoLW7YM08zM/JmZmZlmZsNMM7MNM7NcZjUmEVH9l089Z5y7e7dpb+7dIDrwsF+Xnc/Oec73nvl8/1YYFKpsYXDigK9AZQQ0OHnQh/Bh/64qIaCRhFVH/Kg55hTf20keQv2pUCCAU8EgwqEQqioqcOZ0GDWVlag/7i8qT2HO1tYiUleHpoYGXDwXwaXzTbgcjeJCY6MkjwScigY9AzKSvD0WQ2drK25ebUf/9U4MdnVhqLsbHS0tVkVKAGQkoUIM9/Tg3sAAJu8MY3p0FPHxcQFjxUoAZNB7rUOqQIgHt4csiIVHU1h6MoPFx9OYujsildOp8gjIiFdG+voEZGZsDM8eTgpEYnYWb54viPicUPdvDUpbFSon18JIm9gawrAiy/G4QGy8WsbWygpSiQTevlhEcm5OQNlOlyE0jBiYrdL2aFUI8WV1Fem1NXm0Q/E6D4CMjPGNtjZpA9tBGCZVmMz6uiWCbSaTePdyCa/n5+UHuAhlUF9djSvNzTJR/HL+csIwqcJsb7x3KB/KVSAamRNDM9MzTGKH+bb5wdLXVMoSP6Ov6C+21iUoIycvR52TZYdhJQjxfetjgRSQ1/Bal2AY2UOQ08J20T+EYhJW4Wc6jR+fP+0qF2E0jJiZ7eLIKxR9wioQqhgYq+MijPMw48nLE9m+aujJq0B2MHrHVZhDe33YvycrhXo6MWEtY4TifYpABLADsXouwjBya+nRfU7xPYXSKqmXKB4JLsMwTMGGt5MIxPH+lcnIrcIDGEZuLVW/5K+k9n2ZFVN5BqQJ8vdl3W/sK6l+5ilQvl/sYPZNkKaOhbKvc/8uPAnn2P8NTFvqIVB+OAHt/iJUiWGKhROwzDD/o/zxG3dp+orPouAeAAAAAElFTkSuQmCC",
     "wiki_name": "Thread",
     "wiki_url": "https://oldschool.runescape.wiki/w/Thread",
     "equipment": null,

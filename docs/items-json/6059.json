@@ -1,7 +1,7 @@
 {
     "id": 6059,
     "name": "Scarecrow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": false,
     "examine": "This should scare the birds.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACt0lEQVR4Xs2X/2tSYRjF93IRaVw2RHGoTKeiokaalJuozDC3ltHWxNW+sLW14SoWQ1ZIo5UxxiAIIgiCBv2np57n9upV2n7yve7AAbk/eD/3POfxvo6MWCKB/itDlEAu7sI1gRIoJt2I+cYYKD01ZTUUpSCTEKikPciEHXDotmEACYS2QvDXA3zzk608VssJTLr1DoyFQAKR/SjCexH4FicxnnKguZJFMmh0xwKY7lgkDLl2ZGcgV86FXNILb2TEilEJLOWNJ7/4PIO1T3ZOJrQTRnA9iMCzILKPNXgeeDmpUf+oqVdKZACVkhoDyVFRfwioULfBU/FgojQBPaTD7rarTkngeCeHQtwAkukQUGW7C+MuujkdTddUAgn8aM3h29F9TEc1hiIQaTMM9YjSUQgk8OvDAvvi40OcvZ5FJqTxmKgv/TBkm6P7+6MEiNL5+X6eTUCpgMYl7odxZp1wB7obpgCGJPD9XYVNYASUjekM9T8gp1fpygvujdnnByUcrt1FLjHGo6NO0ea9qcf+rbmydASP6He7iq/NcscERNvW3MjiVf02Q9HWmW2ADVyCS0xl/nJ4r8enL4s9ULtPUpzS/lJEfULUG0qFTP0hmJO9PN5uTuPgaQaNWhrrC0kslSKclsL+kIwOmUEomdbzmU4624u3UCtHMTcTZCsHkiOSMJQMlVqms1m9yemU7vhVjsssgXaj0ANDyRAMpUPjelT8+wrxds8//d8wYAmc7c12xiSTkTCr8wmkwuPQbyjvD0lgt5riEyB9Nm8VgVAyBGOsuUXjoiOpPI5Kr1RiKGcDyMQnekCUw5y+KCLmd/Y9veASF9M+q1IhCZw3SjhYzlxyU8tGRBJ8UD/eyF1508uuD1hGidvbBQQ9Q/uTZ5ax4pTQVelYKIHWmvG2vgYwUtcKxtAwYP4AcC4uHenac/oAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClklEQVR4Xs2X8WsSYRzGfTlEGseGKCcqU05RUSNN6qbosQtzaxnNEldzY8s1cRXGkBXSaGWMMQiCCIKgQf/pU9/3OqfSfgne0wcekPvl/fh8n6/36nDYIobJJ1MUQyHpxYxAMehpBYng/LSA6FDrYIZK1o9c1A237JwGEENkN4JQI8wPP9ktYrOcwqIiTwcmdhBHtB1DcH0RCxk3ehsa0qpt3bkciwVDrh+5OJC34EUhHUAg5rADiKFWNL/5xac8mh9dPJnIXhTqlorwUxXaQwn+ewGe1FxoTjSUCWSkJQ5kjYr6Q0ClhhP+ih8+wwc5IsOluMQDHe8VUEqaQFY6BFRpXcIousLTkWRJJBDD9/4Kvh7dxVJc4lAEYnkUhnpE6QgEYvj5fo374sN9nL1aRi4i8TFRXyZhyE630N8fM50f71a5CSgTlniJJ2E8mgdKWPiGMXx7W+EmMALSEjKH+heQJyAUiPHejPq8a+CweRuF1DwfHXWKNu91I/EXRCAMjejXoIovvfLQBETb1tvW8LJxk0PR1o1aEBTjJaYyfz68M+bTF/oY1P6jDE/poBYTBUMyE6LeUCpk6g/BnLSLeLOzhO6THDr1LLbW0qgZMZ6WQCCS2aFREEqm/yw/TKe1fgP1chwreZVbOJA1IguGkqFSW+nsVK/zdIxbIdEwlhgGndIYDCVDMJQOjeuB/ucVErDt/sNw1l4ejslKxoLZXE0hE12AfE14f0gM+9UMvwHS59GtIhBKhmBMEOEwJPNKenkdNb1RSaCshZFL+uwCITGcPteRCHkmDmW8xHo2aC/MecdA93HuikNtGxGJ8Yv68XbBzkOvklniQasE1T+1P3mjMlecEpoBGBJDvynsbf2/mimY6ek38rvmYKOcL+EAAAAASUVORK5CYII=",
     "wiki_name": "Scarecrow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Scarecrow",
     "equipment": null,

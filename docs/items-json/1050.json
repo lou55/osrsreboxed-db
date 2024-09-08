@@ -1,7 +1,7 @@
 {
     "id": 1050,
     "name": "Santa hat",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-12-25",
     "duplicate": false,
     "examine": "It's a Santa hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xu2W/0tTURjGdxnjciMUUQiVmhkilbQUxKCygVhqoJiMEEyW1A99MREKM0VEQglLLQsLUUJMwR8SkxJRLMiEsBALElMzRcQS/4an85559O5257zbrF/2wgPbzt3ez32f554zkylYwfpvJcGz/mm5mhbvtuCKSheZHLssyFTMOoA7BinhZoiMUiYtkNBlpnwGls3A7LIZSRYz4symQEO57rIyVMZtBuMNSogmRlCHLC6gozEx/kK5QO4ykGomb0D0Xq0L6xbSlAIAJKExTEF9mIw6pq2g9ERrZN85xYIU2W8gCY8YjK9A9Dmtq22z+p4jCc/CFTxh8gVKwNC62jY/ciShjcHoQXkDUsPQNfSatgN64vzIkWegraakhRHrwrYTzLYIk2HbJHRGKHjOtB0oYYsIrxpGQAvb0lU5MjAldyBPUGoYsoQ2QmpItkSxprRO0CSanLDNhxxJ6GYwelMiCRiyRsCQHdSMHm3akUNMLtEkSQROE6TrCFg2ZtvWQNRAAFE21OcXNSNLKCcCijQ01IeuF0/R0FCNgoI8xMbuMzIlfSABRUDi6SEgygZlh+yyrZ9ZZJmAGRsbQW9vJ9rbH6KpqQbXrjqRkpIYOCCyjIDELiyAxCFKGRFTmpj4iOHhfg7U0fEYzc21uFN+AxkZdoSGhmzXtr+B1LZpgdSnOmWIppSaegwJCQfx+dMHvHv7Bv2vurllLS33UFdXAZvt8MaEtj2l1dVfWFlZxvLyAhYXf2B+fgZzc9MbodYCkWWUj5ycMxyImlqt0RgYeImenna0tTWipuYWsrLSjFu2tvbbDWZhYZbDzM5OYWrqC0ZHh9HX18Wb1NaWo6zsOs9GYaGDA9ntx5GUeIQDRUbu4fYoirxukUuGpiOAlpZ+usHMfP/GNTk5jpGR1/zO79dX8VwUFxdxoNzcTKSlneRA9DQRUHh4mBuEARhR2r+em5qe/so1Pv6eZ4OCWllRwoGczvPIyzvLgZKTbYiL24+90VFGJ6Jf2rvZ/MFNuMHBXrS2PkBVVSlKSi6hqCgfDkc2Tqef4jmJjz8QGBhvpQfnSTsOoy3tBPWk/U6wgrXT9QfhM3RPQS6CKwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4Xu2V/0tTURjGdxljLEIRhUgpyRCppKEgBpUNxFIDxWSEYGJSP/TFRCjMFBEJJSy1LCxECTEFf0hMSkSxIBPCQixITM0UEUv8G57Oc+bJuznd3LR+2QsP7O5ceD/3fZ5zjsEQqED9t9Kwsf5pOZoW7jbhik4Xhey7TEizGN0A7hikhptBZhQLuQIpXRbKEWAZAsxmNiLeZES00bDdUI6vLA8247aA8QSlxIkR6rBp24AcIHcFSKWQJyA+63Vh1UJOaRuANNSHWFAbYkaN0GZQ7sQ12nfOYkKi2W8gDY8EjK9A/J/retsifc+RhmehFjwR8gVKwXBdb5sfOdLQImDcQXkC0sPwHf7mccAd50eONgbabEquMGpd2XZC2BZm2PKUNLSHWfBcyBsoZYsKrx5GQSvbUnzLkTPQRlB6GFrCg5ANaUu4aMp1QlOcnLLNhxxp6BQw7qZEKRhao2BoB5txa/NEDjI4xElSBOcE+R6BzVuzbXMgNlBAzIb+/mIzWsKcKChqYKAHHS+eoq6uErm52YiK2u8/kIIikNo9BGI2mB3aZV29s2iZghkZGUJ3dztaWx+ioaEK167mIzExbvuAaBmB1CmsgNQlyoyoKY2NfcTgYK8Eamt7jMbGatwpvYHUVBuCg4O8hVoPpLfNFUh/qzNDnFJS0jHExh7C508f8O7tG/S+6pSWNTXdQ01NGazWI97CqNKwvPwLS0uLWFycw/z8D8zOTmFmZvJvqF2BaBnzkZl5RgKxaWRkBPr6XqKrqxUtLfWoqrqF9PTkrVu2svLbCWZublrCTE9PYGLiC4aHB9HT0yGbVFeXoqTkusxGXp5dAtlsxxEfd1QC7d27R9pjsZhXIZS8rjWghYWfTjBT379JjY+PYmjotfzy+7UVMheFhQUSKCsrDcnJJyUQdxOBQkNDtgrhWvovcdbk5Fep0dH3MhsManlZkQTKzz+P7OyzEighwYro6APYFxHuL4ynWoPr7+9Gc/MDVFQUo6joEgoKcmC3Z+B0yimZk5iYgzsN41rrJ7hegQpUoAx/ALKDOYgItP7QAAAAAElFTkSuQmCC",
     "wiki_name": "Santa hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Santa_hat",
     "equipment": {

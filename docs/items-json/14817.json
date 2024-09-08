@@ -1,7 +1,7 @@
 {
     "id": 14817,
     "name": "Steel kiteshield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A shield with a picture of a skull.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpUlEQVR4Xt3XTUsbURQGYC8SxFL6E0QrtdhIouIHpVLcdOFGqFBKwUK/BF1I8aNVF1q1totaa9FN2xDIKooEpNgsAiEoikEK7U86nfeMZ3K9jiHJzBjpgcMkWcw8vPfOzElNzf9RisxfqliKnl4L0RVBKXpiYUauh+jR1UApem5hxq2WlNobG6uFsjFjVt/t6uLPVU5JMQbpANTdHuXlG6yvrQZK8b4Bprejg0E4YtmG6kP0oE5Qbh1IKcaYoM5IhJcNKQ1YDVi/1X2n3RsM1MZM3KhjhAmKhsOMQlImTHCAoTtDtRQ9bQ8oxRhJRwdhH7W1ttKdlhanbzc3c99qanJaUALCOXF3VnCH2hi0IASETmxuOiCBmBg9JY8YlHs6uXSa0qkUxdfX6ev7ZVeIiTHTMa9UQimaNtLJ7O4yBsefySTF1tboy9IiLU5PncPoIBPjGQTMVixG2V979PvokA4yGUolEvRjdfVCUKDpJL9/o+14nP6enNBxLsewve0tBn1+t0ALkxPcgMjSAeSGqRgkGPRRNkt9PT3Od+ybj3NzvJk3Pqzw55WZmTMYPR3PGHPvYLny+/u8XHjuyIVxBA4YJCW/+7hUqEI68qyRu+tPPk/pnR1O5GZDg4NafvvGNR1flgrp6BgdhGX7ND/PywQEksF3fTMHno6A0HhV4KIATY2O0uuRVzT+8sW5O8vEVAhSNOuCERAwbg+/S00HCAEVez3o6fi0d1AXg3As9vIUkJNOJOw1HZS9oTEVmiC8QM2XqInx8bmjlz2mYjoUELoUkGD679/zIx2pAgjjqQxgxUABpoOyp0MBYYgvB/RwcMDPdKTsgV5AGE/1EVUfU9EBpiNVAOkogNzmZgE9G34cRDpS5j+E0jqAdAolJy+3zfOUW/8A5CxGXcoxjv4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgUlEQVR4Xt3WTUsbURQGYAcJYin+BEGlFpuSVPEDqRQ3XbgRLIgUFLQq6EKK1fqx0PrVLqpW0Y1tCGQVRQJSbBaBEBSlQQr1J53Oe8YzuV7HYJs7TfDAYZIskof3nsycsrL7URbpnxSxLBp4EKASQVn02saMPgxQb2mgLBqyMRN2l0BKDmbc7vbmZn5d5JQsxiAdgFqehfn4uivLi4GyeG6AaWtsZBCuOLZXlQF6WSEor/alLMbooKZQiI8NKXXZDVin3R1X3eYP1MFMVlUwQgeFg0FGISkdJjjA0E2BcgpfdQEoizGSjgrCHD1taKAn9fVuP66r435UU+O2oARUMAYtCAGhY7u7LkggOkZNqUAMyjudTDJJyUSColtbtL264gnRMUbSmdbSSR0dMQbX7/E4RTY36cvyEi1NT93AqCADGFQOBMx+JELpH8f06/yMTlMpSsRi9G19/VaQr+nEv+7RQTRKlxcX9DOTYdjxwT6DNj4s0uK7SW5A5OgAMoRBObMjw3ueTlNHa6v7HnPzaX6eh3nn4xq/XpudvYZR0ykYo88Ojit7csLHhfuO/DCuwAGDpORzg0eFyqUj9xr5d/3OZil5eMiJ1FZXu6iVmfee6RjBIB0Vo4JwbJ8XFviYgEAyeK8Os+/pCAiNRwV+FKCpsTF6OzpCE8NvbvyzjGHmPDACAsbr5vdf0wFCQPkeD2o6hmYHdTsI13wPTwG56YSCZkAYaGyFOggPUP0hqmMM3nfUctZUbIcCQt8FJJjOF8/9AWE9lQUsH8jHdFDOdiggLPF/A+rp7jINQjkLvYCwnqorqrqmon1MRyoHUlEAee3NAhrs7/MLhMIX/0vfw/oD+fcBje1PgAIAAAAASUVORK5CYII=",
     "wiki_name": "Steel kiteshield (Skull)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Skull)",
     "equipment": null,

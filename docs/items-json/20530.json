@@ -1,7 +1,7 @@
 {
     "id": 20530,
     "name": "Survival token",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-08-04",
     "duplicate": true,
     "examine": "This can be used to claim items from vending shrines.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACW0lEQVR4XuVVYUsbQRB1PiqSIIqSCyYmosEkmBhqVESIoKD4QVtQWgotFAqF0kJLC4WCUJBiPxb/gN8F/+LI23POc3YvtwkxCj54EHKzs2/ezs6OjDwPEId8EiC+fnnCV0fHT0EU8elKnb/WKvyvvWL4iKKIfzdrkRDh39XmoEVJP3TrC+JfDVuM8E9ructab4QCkAxH8H9njy8PjhyJiX8sVy0RmjhKe60XQiEu+0F8a87N3SYm/lZfsmKSCBd7EBUKSatWC9LfwbMXDbO5NDf6SL4hv4counczuvFzdTGWkMzmOI64AE3t4nlnJ00UmY10oiSKmxe7+9a3JMab/nt7XTltgfj9QtlKksRPSwsmYZIjLmKN/D4s5NMEAf4uybH5xgshqpOb4d0g5yfouFSwkiTxY2W+L0Fy3BCTIgjwrxrJeylAiEI83BEQH8wGVpIkNiay1n9p/NJq88+1zVunvBA269nWtiGcQFVo+rfzJePKXj7HWzPTUWPr2A+L5Sj+dbnIr4qzplD0jqzzPDKAzMI31Rq/qzeiRBvTU9yanIh6QIhvJ5VqFAuxsjHi4aJe04MYAXEpk+V2LuBKJsOFsTFHsnAo4hjiseXxcRN/96DerYlT7+gBd1UiBtNZ94emvF19CrDhrir9vYsTz0ZY1IOATPPqTdM4UJfuozdBuG2ez0S/IHOt9cYuYjzgtnk+E/2CTMVp0xxXH2NCXwidbUAgs6EWAWIQQojMHvtCPBjIvNralVo2MyxXXCDjRqdQ5I0gz8Ho6LBdccE9PHXUUBF35NHFPAvcACdMeFmNNK+jAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xu1WXUtbQRB1HhVJEEXJDSYkYkI+MCbUqIgQQSHig7agVIQWBKFQFJQWCoIgiLSP4h/oe8G/OHL2stfr7P3Ye1ETsAcOhOzszJnZ2dk7MvI+QOxyKED88PGA/+3tD4Mo4qt2k88aVf7TbSsOUBTx5WLDE6J5u7T40qJ0P0T1BfGvlilG87qzELHXGq4AOMMR3G32+e/OXoBj4h8LdUOEJI7S3GsFV0hQ+cHnTonPmzXDJoyoYgJRrpC4bKUguQ7efGip4Lq50Ud6Df4tRNGzmxHF7/WKzyGp4DgOvwBJWcXfvc04UaQCSUdh1NW839o21sLob/qL7kq8oK/zZcNJGL/V5pXDsIoEEXv0791CPk4QYF8lfWy29poQ1cvN8JaTsxO0XyoYTsJ4Up1LJUgft4weAvus4TxJAppIJJGgnVnHcBLG1kTW+C+Op50u/1xeSyYKzXqzvqGISiArNP3RXElVpZ/P8frMtNfY0va4UvbsP5eL/Kk4qxJF7+h9MmoESG08rDf4S7PlOVqdnuLO5ISvB1xi7aBa92whVgeGPaoo98iIFiAuZbLczTlczWS4MDYW4MwdijgGv215fFzZPz2oqQQEISor97tH9odkwrcrLeLfOz/xbLyiKFLNK4PGcWgE4bZZPhNpQepay8BBxHjAbbN8JtKCVMZx0xxXH2Mi+EK8OEgFlCJADEIIeZo9bwZSr7asSiObeauqBIFUNXqFIq86eXZGRwclxI+o4fkf7wSPN8M2Z5yCZgAAAAAASUVORK5CYII=",
     "wiki_name": "Survival token",
     "wiki_url": "https://oldschool.runescape.wiki/w/Survival_token",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8068,
     "name": "Gilded altar",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACl0lEQVR4Xu2VT0hUURTGvQuJZHibIhmHzElSUsEKsQZMBCn6h8VEyTCQOcwmMSxkCMLF0KJ2LVzVqhbRriJoEy1yF0GISDUbceEiENyPYXDqu68zXM/7O+9pbebAD8c393z3u+eed6apqRGN8AtF8sl/DEVrq6sUw1TkRI9QtFKpaEPHOjrq1Vb0aWEhzmlcQtHXxcXohn5tbUVN9ghFH5+3RNVU9HNzM2qyR/y5ss+JqJqKqtWqSzKuMDqxKjR/f6+RbAuWy49pfPwm5XIFyueLNDFxiwqF2zQ2do1ePn0SSB0Vcp5mo2LVPve279eCZwaSNDVVounpezRzZ45KpQea2dkyFYszDgOSLx8SdKKz9a+uZyga7Eo6klEh+Qxkhw/S5aFUjYuZNjp3MqnNyrUm698sev2shbIXmqk/fcDPlNILXsxtNzD/0N3QThFoCqVkUyvvE/To7h6azDY7hNxAngm0UHUG/zMwwvj0k6KRvvaaqSBG+w/p9czpnhT9eGNtY/2tk413ll7PvQkznoZwku9LS5pLg5209sqiyvLyjgKj3NQ+ZjjUrhs6ezwd1gxC0fmBwzVDOI0UjEvmaJtf38iw+4gN4c6lYBxQccyzOgwh7GtDpdCAUjQO3Mwhrwthd77ZR1I0DmjmdCtP/8Cw5xDPjd0w1J3aFzR7zLB/r9B0DK5Ninphzh9zCJrD0SRElRRdOXVEi2DIwRBeUTnYTEzzJshHdXEgaPAQZV0Q2hQb8gPiVzNd+gC8sfnzgGvBM3wHYIoNYR2+D/m2KcqP9OpEeTI+HZccG8EQjF0f6tZ/2Rzy+AXxI+TbZl+duVluuEcbvTHapz/jmRSX8GZByN09wrmBRAq7IVVjhRR3Q+Y04l/FbwCKPGP0rbDWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACe0lEQVR4Xu2VT0hUURTGvQuJZHibIhmHjElSUkEKsQZMBCn6h8VEyTCQNcwmMTRkCMLF0KJ2LVzVqhbRriJoEy1yF0GISDUbceEiENyPYfDVdx/3eb1v3p95b8TNfPBjZt7cc953zz3vvJaWppryk4B5ZR8lsL62hhimIgd6SGC1UolqSODr4mLUYA8J/FhaippT4O/2dtRgDwl8edUWNafAn62tqMEe+n9k3xJRcwpUq9UawfwdnVgVWnh0UAu2E5bLzzAxcQe5XAH5fBGTk/dQKNzH+PhNvHnxPJA6KuTezWbFcr73dR6WCc8PJjE1VcL09EPMzM6jVHosmZsro1iccRkw+f45gdNd7UGmBIa6k65gVsi8RrIjR3FtOOVwJdOBi2eS0qy5Vmfjp4V3L9uQvdyKgfQRP1NCLng9v9vAwpPahhpFoCmWUpla/ZTA0wcHcDfb6kpUC8bpMBerruBvBY0ofA2N9nc6poIYGzgm1yvO9abw+721i40PbjY/WnL9Tq96yu6jX8vLkqtDXVh/a6GystJQaDREUyuJPTd04VQ6rBlK4NLgcccQd2MmjEvmZEd9hni+yhDP3EwYB1ac86wOQ5R9bKwUG9BMGoedZg4tu/P1PjKTxoHNnG5X0z9Q9hxSc2MvDPWkDgXNHl32+4pNp+CxmUm90OePPgT14agTwpTA9bMnZBIOORriI2oONh3dvA7jWV1uiDnUEFV5SWhTypAfTH4j0y03oG6svx54LLzG/whNKUNcx/9DPm0C+dE+GWjuTO1OlZw3oiEauzXcIz+VOcapB8SfULKPTr9ZbqRXGr091i+/85o7uUlDZSavRVNNOfoHmHXwWROt9iMAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6344,
     "name": "Villager robe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "A brightly coloured robe prized by the Tai Bwo Wannai peoples.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xs3Wb0sUURQG8N2X9hV6kSEUVJQFlVKSYluUYZaymYpiZouWlZWZiOLWtliGsFhGf5QMMbGygqgoivoGfaMTzx2e2TPXu7brTuGFw8zOnOH+9pw7dzcSWf8jKu5w3f/nIyoTw41yb+iUifRgg6RunDRBxHymU+YmO2T2QbsDZX+JouEeiCiAGDZm5n6bPE63BCbGZ9yzI4gqCBmVyZGmFSgcAWEQ9CjVLJmxuMnF0QVCvkZ/XxqWrwvX14YiCOesDkFPx1sNiLm5QHju2+KQ/FxOyq/lOwaEOcpLS03Ys1vDKzu/NUGY1AWaun3GB+HcBVqYOhcA4Zwge3ZrRANtwERc3PhsgzA5EGxvLtDSdHd4IFYJ11wgVhKB51E1G/T2yQUfhCgIxHVhgzC5DWIeF2uivtw/16B3zxJB0KubxYNwHSCiWEk8M9xWaeJWS4Vci++TePXWAOzDTE+4IAQAGoQ8jRntOGCOA8375WrTXult2C3n63aZnE9zl3zQjzejPqZgkEbhm2oQcoGwA6C+03sMhpX6/PKyE2TPnmN4pcYb8zdQsvNgIFAhVAdrqf3oDpOD3C/z/WsFeXsQKrQaCHmprqoApmpziVRsykbVzo0mD/kapDdFe3ZreK+8C4QgCHnp7kMGgAAMreKCRnVOVJb51QkVRBQCIOSMJ6oNiMFWce2crd1m8pAfKkhXCUfcR0UIYct0dfhWcf8BaPFhlw/CLk1MXiC8YS4Q7mX6DhtQTVmJxLZs8EH6VdcYthg/G7pCeVYHIwvSbcP15wPHZOpKTCYv1spET41pG44AsTqtse0rqgMQfjZCA+Hawki9zAwel+n+I6ZKCJ7zjWJ19A8rQdilNYgoe3bH8EB227yHvUClXgzVmWDbUCHT0rHgfyGA8Lfj42yvD8IeVMA+FATptvFn4vfrpLy/22hAqBBACBcI1SkahLcsF4i7M4IgrCV8xj4FEPJ0u0ID2W3DdbaA+xGDGIKYCxBeeQ3CHlTwPuRqmwbhHJPzX4AN0usnFJCrbRqEe/pviQYhT6+fIkEY2VasFhqjwwZhU9QgRgGgSITb+mphA3Xo9RMKKN9hI/PBMrK5/2nYSFfYz6zr8QcHM424qiYgWwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKUlEQVR4Xu3W/0sTcRgHcPej/Qv9ECEUVPQNKqVGiq0owyxlmYpiZkPNyspsDMXVGpYxGCujL5MMWWJlBVFRFPUf9B898f4c7/O527l22xX90Ace7nb33O615/nc51ZT8++PkHiH1/k/PkIym2iXO/GTJtITbZK6dsIEEYvZflnI9Mn8vV4PlPtHVA23QEQBxHBj8nd75GG6y3FjfMY5dzhRvpAhyUx2FKGwBYRB0INUp2SnoyYXWy8Q8jX663JCPheuVoYiCPusDkGPZ7oNiLlrgXDdl6W4fF9Jyo+VWwbkC4Mv5a8mCDf1AuVunrZB2PcCFXJnHSDslwkKOdqAG3Fy47MbhJsDwfauBVqeGwwOxCrhmBeIlUTgelTNDXr96LwNQvgCcV64Qbi5G8Q8TtZY6057X4PePIk5QS+uVw/CcYCIYiVxTaKnwcSNrnq5Et0r0cbNDti7/FCwIAQAGoQ8jZnq22+245375HLHHhlu2yXnWnaYnA8LF2zQt1dT5WIwnCCNwi/VIOQC4Q6ARk/tNhhW6uPzi5WCMKxS44n5HSjZf8ARqBCqg7nUe2SbyUHup8WxSkHWGoQKlQIhLzUQdmDCG2ulfsNqhLevN3nI1yAfi6L1yHuBEAQhLz140AAQgKFVnNCozvGGOrs6gYKIQgCEnJlYowEx2CrOnTPNW0we8gMF6Sphi/OoCCFsma4OnyquPwAt3R+wQVily8RgWE+YFwjnsqOHDKiprlYim9bZIP2oawxbjNeGrlBFIN02HH86flRylyKSGWmW2aEm0zZsAWJ1uiNbi6oDEF4bgYFwrDDZKvmJYzI3dthUCcF9PlGsjn6xEoRVWoN8oCyQu23WxVagUs/iLSbYNlTItHTa+V8IIPzteD8/bIOwBvlYh5wg3Ta+Jn6+TMrb2+0GhAoBhPACoTpVg/CUrQXi6owgCHMJn7FOAYQ83a7AQO624ThbwPWIQQxBzAUIj7wGYQ3yvQ55tU2DsI+b81+AG6TnTyAgr7ZpEM7pvyUahDw9f6oEYay2olRojA43CIuiBjF8gModxUiGnj9/EVRqFCOL4/+obvwCvSBDLIox4XcAAAAASUVORK5CYII=",
     "wiki_name": "Villager robe (brown)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Villager_robe_(brown)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 28863,
     "name": "Sunlight moth",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABh0lEQVR4Xu3UwUrDQBAG4OQFLEGxN+lVTz6A0JPgrSgURCEoCkErCqU5VBA8FERfemUyTHZ2dpNttu2KkB8GIZjdL/+WTZI+ffpAUqXnz5Oq6dlRPTtA+b6Ut5Gq/GRogDSqbY0Oaf5S3ERu7gI1rxEQe0E3xAeCd05HI2ONIKBc2DcAkqib42Hjh3RGuTagZ/K5C9SGIRA2t3bwhyo35yjXEIZA8FdiOEru6olGcRh/Nr/PrHnNMzW7zWqYhHBQx5YgJsoFKR/3jYFnxfWggrWBAluC2CjYeFngfDyZs1pMKhC0BDj5LozGBLUEwZc5CDb/fDlQqzdzyuK8BkFLHCUb2qClJOH3CQd9zQ/VT4nzvbxUd1d7FghGQjgosCWM+6LDeZ9dVKCH6cA4NmpJYrYCosAifGDh53xsgeSxSdjWQO5gUz4QR+0YpI+UMASSRxUNpGNfFxITGQRZH4UTJeYd1oTSsAih35WvrcjHB7HbkrhoLVHaLlZqKHJLGHmx8pH/2+ff5Red0X0DGMJ/xAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXklEQVR4Xu3UwUrEMBQF0MkPOBTF2bnXbxBcCe5EYUAUiqJQdERhsIsRBBcDoj8duQ1p8l7SxnbSjotcuBQC7Tt9hU4mKSkpiJCmW4+Q8+ODugOgQm9qb0PI/GhGQAbV9owOaX5TNYQP94Gan9Ej7gP9kBDIYOhG6bQ/hD84VIA46vpw1vginVG+AfqMn/tAbZheINzAh3CUrxqjQbhyTBSUDbPPlneZ05c8k4ubrIZxyAYghKJ8kPJhlxRnxdW0grWBoqIweFWofjzSrt/OKxC2BBy/FzWYXiBE3WyDMPzzeU+uX2nL4rQGYUs2im9ogy3pKJgN+lruy59S9Xt1IW8vdxwQyiGRQDr2T870fXFWge7nU/LZ9JY4JiLIFyGf8hMHxD8bhw0IQtSmQiAbNTBIR9QYDeKfamQQ4v4uOGZkENIFNRpMDQuh/uW2RgYh7rY4bgsohP5QaVNS4ucXM2hTcLR0JLsAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

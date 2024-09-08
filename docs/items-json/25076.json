@@ -1,7 +1,7 @@
 {
     "id": 25076,
     "name": "Graceful top",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": true,
     "examine": "A sign of your grace while trailblazing.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xu2W7UtTYRjGdz6EOEQRh7INp8exM7YjzqSs0dSJb01HLZRFWYkvlSZRCBJFL/ROCJIYRUUfhIi+9Sfe7brH/fj4LOgs2vrQbrhwbmfn+T3XdT/3mc/XqEb9n2VRpepaRxdP2Z0UD3eQ3dVK3YEWViWUCWx+/sdlkWsHKB7pYMXC7TQU7VIgR4EO1eZvYvmbjimZ15greSiLhhNBGnK6WKloJ8OlEyGGEqdiwXblVrDdT4HW5goYyA62UrDDT20tpc+aBdBzWTQx1EPZwQiNDIQp7YYYLtsfYRhdWxuT5EYCKkZAjWccBSZwcFcHwusqoCzKneqj6ZO2AgMUgIad4BGg7c0pdmtzb18BjaZjyi0Bw/fhcndniwICpEcoiwqZGOXTUYbSgRCZDvXg7lkFBJcQHYAERsCwQdwHTqMfESFaAGsN9vb+DqoUWaqHRpJh1TOIRX8PUNCjrVn+HEC4Bi5lhqMKRly7NJHkTWKDaAPpTc9AuhPSwMVsnF0TKOjN4wv8F0C4FtcBCE4BBk0vDW9uEvf1DPRpd5F2ny/Qk+05btzrVzNUOB3jnc6POkpf3y/zIgDCBhDr/uuLygmJCPfbe1mkVw8LfE/03u21rHeglOtSfyJBSceheDRKMdumvkiE5tMO5UsOTB+3ecdwCP8XM3E6t77BvYL39Gjgzoedy7zBF/fPU084zOoOhbwCocxBVhZcyp0oLwrnsDBiRJzYNd5/di/PvYWGR2w4ZeZ9RIDxCOTzycWHX7Joccrl5jTHAtwwdWtljKOGQ/ripsx1qyhLnRYRYth5Ok+zq2t058YEjwcZpPqEryKaaqoMhGb+8vYKNyniggAkr83HTdXReK9yZN8/r3LPAEwGqAhRIi7EWMilSgehZu6gykBo6m8fV34JJT21sniGJscStXQHZdG1mX4+8oDCDBIocQcwaGbMGB3IvNNfKouWcwMKCH108G5JuYRTh1Egz7eZ8WTtgdbmUjx1ASQuAQxAiEt/8M5OurUGQln04+AmO4MJLQKk/tAFUH5moB5AqMqJC+m/BNaXRvmU1QmocoqXF62ErOEJ81Ym5D+FaVS96ycGYcc7Squ82gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xu2W/0sTcRjHvR9CHGMiGxu3YyfncTe2E6+krNHUyaa2OWphGGUlTitNohAkir7Qd0KQxCgq+kGI6Lf+xCffz/h8PG8G15ftl/bAG+ftvM/r837en+fs6upUp/7PUqhZba2Di7tGnNJalIxEhFKxMKsZyg/s//6PSyHHiFFaj7IsrY+GzYQEOQi0r95QNyvUfUTKf49/pQCl0EhGpWE7wXLNOMPlMkmGEk5Zap90S+0LUSzS0wQDGWqE1GiIesN73/UIwMClUHG4nwpHdRod0ijnJBmuMKgzjFfrqyVy9JhsI6Am8rYEE3Bw1wuEz78BpVD55ABNnTAkGKAANGKrB4A21ibZrbXtHQk0lrOkWwIMfw+XU/GwBAJkQCiFanmLqjmTobxAaJkX6sHdMxIILqF1ABIwAgwbxHPgNPKIFiICgYGKbj+NZjWZGbTFew1Q0KP1Cn8PINwDl/IjpoQRrl0qZnmT2CBiILIZGMjrhAjwXCHNrgko6M3j8/wTQLgX9wEITgEGoReB928Szw0M9GlrnraeX6AnGzMc3OtX81Q7ZfFOZ8dsqa/vF3kRAGEDaOvO64vSCdEiPG/75Ry9eljjZyJ7t5cLwYFcx6HBTIaytk1p0yTLMGhA12k2Z1N1z4GpYwbvGA7h97l8ms6urHJWcM3bGrjzYfMyb/DF/XPUr2msVDIZFAjlH2QNwaXy8caicA4Lo41oJ3aN68/uVTlbCDzahlPmf86+/qoUmp90OJz+sQA3/LpVH+dWw6F/sPhhpcjTIoQ2bD6dpcrSMt25UeTxIAapd8K3FAhh/vL2CocU7YIAJD77XzctgkE1Wvb98xJnBmBigAqhlWgX2lgru3sHoQ1ACPW3j/VDoUSm6vOnqTSeaSUMSqFr04N85AGFGSSghDuAQZgxY9oCtFgekkDI0e67BekSTh1GgXi/TU9kWw+0POPy1AWQcAlgAEK7vC/eSslpNRBKoR+7N9kZTGghQHpfugCqTg+1Awjln7YNef8TWFkY41PWJqBfVTOk/45Odaqd9RNn/o3jvw700QAAAABJRU5ErkJggg==",
     "wiki_name": "Graceful top (Trailblazer) (Inventory)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_top_(Trailblazer)#Inventory",
     "equipment": null,

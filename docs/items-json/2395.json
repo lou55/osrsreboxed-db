@@ -1,7 +1,7 @@
 {
     "id": 2395,
     "name": "Magic ogre potion",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-05-07",
     "duplicate": false,
     "examine": "A dangerous magical liquid.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNUlEQVR4Xt2X/y/UcRzHe/8J/dis0oySWicdcuSUu53j2PmauyQ6N2IXonOXhcUkShgZQ/I97e4iVKpZ/9gzr9enz8fH1S9td5/bem3PzTCfh8f7+Xrf3YkT/8cIHE9MR6ChOgEVhWdgyj6Fq5dOxhpKYHUiG0uvDZw2VzKc9nOxhBIKzNxwJjx153G7+CwD6eLjtYaSOiMDzT7PQPPdJD6+GPRJwFZcBru9SrEz2a9H451ElFpOIz3dgCxDnpZQAg5H7R8pspXBZLYh12iGTqfX8ugOt8vdyHG7m5RYC+24lW+FXp+FxKRkbYFa2x4p8Xha0dzsgaWgBNezjLiYcgVxcVKXNAKiEVhZWUMotIVgMIRAIMTHlZqarpSaYDQFqqtvgNfbBb//CYeOKy0tMxYwNAItLR74fL7f8Sv90fio5BH49HOfDXm7fBw6soyMHFxIvqzlytMIzISWsX3wRQnB3R/shN1Ti2y7WUtLAj0Lowj+2EXoYE8Bejr/Eo0jflR0umCsKkJGoVErSwJz2+sMow5Btkz0oNrfBHONXStLAs8Wx7H5bZsNySGgvrdjaJ/qR03vQ1hdlWxJX5AbbUsCsx9XEfi+w1FDDSxNwDszhLr+dtgeONlSVokpmpYEBpcmsfo5qACpQz/rnhuBa8iL0tY6tpRbYY2mJYHp4BIflzoy0NDKGy5202g3Kh+72VK+syRaliQ773Y/YGN/ixMONrw2zcX2TPTC2d3Mliz15Wzpmjkn0pYExjfnsf41pACpQ0Cv1me58B3TA6jta+X1tzU62FKm7WYkLUmbRatOQOqoocY25rjYvtkXfEHS+tMlSZZulFsiaUnwf09llhMORiGDcrHpgqT1ly3lOWyRtCS9TCzvBY5BhcNNBRaVYtMFWT/QoVgy3ytjS6kmQ+QsEZA64WC0gSPrM1xsuiDdw11sqby9nnuUYkhTDEXE0sJhhyiLO+85tHEUGZAsysWmC5J6RDB0Yyfojt7ORgBGHuldID2YbmsquQxIYPQ9udgEQ2sv9yYKMNJIf1D+zCW9yMpQ9DUVm7pDl2I4SMRh1HP0gCO48GgC8rdRPzg84b/7r/MLlu9vqoKdJnoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xt2WbU+SYRiGu39CH5ur1pyWWUszxEATSxii6PA1ITMIGYYjNA0hl7p0ZlqmTHMyNMMXzAakqZXVXH/srOum5/ER+wgPm9d2bAw2ODjv877g1KmTMQxHyegwdLRmo6n6HLSlZ3D9yulMSzGsBUoRfqvmdNvzYDFdyKQUE2VCEyVwWy/ibu35TAklOiMIBV8q4bqfy48vA31iMNY2wGRqEdOZHVHAeS8H9fqzKC5WQ6WukFOKwWxuP0aNsQFanRHlGh0KChTyCnU4nByHo1PEUG3CnUoDFAoVcnLz5BXydD8Rcbs9cLnc0FfV4aZKg8v515CVJXRJtmFYXV1HPL6FWCyOaDTOj6uwsDgTpaZhsNo64PX2w+9/xqHjKioqyYQMDUNXlxs+n+8ffrE/GRP68nufJ+Tt93HoyJTKMlzKuyq3FMNCfAXbB99ESO7hWB9M7naUmnRyCjEMLk0h9msX8YM9Uej54ms4J/1o6rND01IDZbVGLimG0HaEy0ghya7AIFr9ndC1meRKieHF8gw2f2zzhARIaPj9NHrmRtA29BgGezNPSVFVnm4phuDnNUR/7nCkUqPhALwL47CO9MD4yMJTUtVp0ynEMBaexdrXmCgkhV4bCE3CPu5FvcfKUypvMqQzJYb5WJgflxRBaHz1HS9259QAmp86eEqVlrp0pZRI58PuJ2zsb3GSxSbW53mx3YEhWAZcPCW9rZGndENXlmophpnNRUS+x0UhKST0JhLkhe+dH0X7sIdff6PTzFMqMd5OpVDiZtFVJyEpUqnpjRAvti/4ii9Iuv60JCmlW436VKbE+LenMgskixGUoFBsWpB0/YWUKszGVKaU+JlY2YsekUqWm4sui8WmBWkb7RVT0j1o4CkVatWpkyIhKclidAMnIwu82LQgHRP9PKXGHhvvUb66KFUyNAxLfztELO985NCNIwRBSlEoNi1I6hHJ0MbOLkjL31l6w8Tx0bamkguCJEbPCcUmGbr2h71JuYx0hA9I/MgKUvSYik3doaUog8j/5lDuOCdw/gAPbzqfL+UOlgAAAABJRU5ErkJggg==",
     "wiki_name": "Magic ogre potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_ogre_potion",
     "equipment": null,

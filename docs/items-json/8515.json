@@ -1,7 +1,7 @@
 {
     "id": 8515,
     "name": "Mahogany bookcase",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xs3XbUtUQRQH8N2P0MteVIYUWFAZZkaiSYalwiqaLppZllJGT5aJmZYPWWYsLGZSkBCIiZSvehFFUZ/s5H+W/3rucVb2urdw4HDv3ju789szc8/OxmI7v8XFH777/7zFZXakRWaGm11MDzXJ1MOECyKW0lflY6pbFl9f9qDslygYngERBRDDYj68uiQL0x2BgfEa92wEUaGQcUmNtm5C4QgIg6D5qaSkn7W5vjj6QOiv0T9XR+T78oPtoQjCObND0PuXnQ7EvrlAeN+PlWH5vTYuf9YmHQhjHCsqcmFHNy2Tdn5rgjCoDzQ30Z4F4dwHWp7rCYBwTpAd3bR4YBowEBc3XlsQBgeC05sLtPq2NzoQs4RrPhAzSRCyZkFf3vVlQYhQIK4LgvRiLCQCoE+P3LXQILwevHVOBm7Wyu3rZ6S/p1pudFdJT+dpuZKskI7Wckk2l8nFxHFpunBUGuuOSF3NIamtLpGayoNSWV4sFWX75UTpPvdZkYAe3zsvQ3fqHOpu31kHA6q3q9KhutpOOhhQLQ2lDlVfe9jBNIqgX5/HsphtgZ4ONsjoQL1D6Wzt3b1LSor3bAqNQqaqTh1wKB/Ijp6jZeYcCxTHqeGETAw1OpTOlgVxCu30IUtAbROUqUHIEEEzY+t16EmTQwHBbFkQA2sKWQKKWQKKIF0U7eimZR55C0pNrj/64y0OhWxhCpGpXCBkCfcYXOSRgeZetDsUMoUBOH25QFjk+snjAi8YhCAo/bwt8K2RJQ3ik6fLAe7rBY7PQpUmJi8QnjALmp9JOhCzxGmzGUKNwhEoXylghvLMDtoGiChcW5jtyE4b1xIXuAb56pOeukhBzBJAOku6PuUqmkQRRJQd3dMyID1t7lqq04FslsKi8FmoQSHqUBCkUVEEflxDg/CUWRC3FNhyYKOF7YTeA2FHgMBPDbce6IutCvp/XeyXb0v3CwPZpw3XNUjvgYghiH0BWnlzLQBCDQpdh3zTpkE43wrEDKFvJCDftGkQ7ul/JRqEfgBxugoEoW1ejL6w64dhQdhLaxAjBCgWY1nfKixQh14/kYDybRaZD5ax0fc/NYv0hX3Pjm5/AeqQFVkYWibRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xu3X30sUURQHcPdP6LGHipACCwrDzEg0aWNLBVfWdFkza0spo1+WLZtp+SPLjAUxk4KEQEykfOohiqL+spPfO36XM3dmbWdnih66cJjZmevMZ8+59+61qurfbzHxD7/7f7zFZG40JbP5ThMzuaRM3+swQcTK/CV5V+iX5RcXfFD2lwgNd0BEAcSwMW+fn5elmYzrxfiMe3a4UYGQMSmMdXlQOALCIGhxOi3zj7tNXxz9QOiv0d/WR+XL6t3KUAThnNkh6M2zXgNi31Ig/N3Xtbz82JiQnxtTBhQIg4fyWxOEl/qBFiZ7iiCc+4FWF7IuEM7LBMVcZcCLOLjx2Qbh5UCwvKVA668GogMxS7jmB2ImCULWbNDH14NFECIQiOOCID0Yw4QL9P7+1vXfNjcIn0eun5bha3G5ceWkDGWb5Wp/k2R7T8jFdINkuuol3Vkn5zqOSPLsYWlPHJJEywGJN9dIS+N+aayvloa6vXK0do95ViSgB7fPSO5mwqBuDZ4yMKAG+hoNqq/7mIEBlWqrNajW+EED0yiCvn8YLxeD5gU9GmmTseFWg9LZ2r1zh9RU7/KERiFTTcf3GVSFIDSn5higOE7nO2Qy125QOls2iCW0y4csAVUhyFmDkCGCZsc316GHSYMCgtmyQQyMKWQJKGYJKIICLIrOlLdBhanNqT+RMihkCyVEpkqBkCXcY3CQRwZaeNpjUMgUXsDylQJhkOuZxwEeGoQgaP5Jt+tbI0saxJmnlwPc1wMcz8IqXSYGzZlhNmhxNm1AzBLLZmcIaxSOQPktBcxQRSCicG1pLlMsG8cSB7gG+a1PunSRgpglgHSW9PpUatEkiqAAKAeky2auFXoNyM5SUBSehTUowDrkBmlUFIEf18AgzDIbxC0FthzYaGE7ofdA2BEg8FPDrQf6YquC/p+Wh+Tzyp1wIHu24boG6T0QMQSxL0BrLy+7QFiDAq9DfmXTIJxvB2KG0DcSkF/ZNAj39H8lGoR+ALFcIUFo3sHoF/b4Ydgg7KU1iBEAVG7zIhl6/PxF0HbNi/TG/xau/QKgjMq+DavjLAAAAABJRU5ErkJggg==",
     "wiki_name": "Mahogany bookcase (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mahogany_bookcase_(flatpack)",
     "equipment": null,

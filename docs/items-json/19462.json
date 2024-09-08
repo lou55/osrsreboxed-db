@@ -1,7 +1,7 @@
 {
     "id": 19462,
     "name": "Olive oil(2)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-18",
     "duplicate": true,
     "examine": "2 doses of olive oil.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADR0lEQVR4Xt2X+0tTYRzGfZvucjgI/RhSGaHi/ZabTkO7KN6m6czp1FZehvMyp/M2o7DSkpRMRcguYnkjJF2CFEQQUVAURdEv/dZP/RtPvuftHLcpRbCdQV94YIxx3g/P87xfzkJC/o8h8FZQh6Cl9ijOlhxCfs4BpCXsDzYUwcpMDhZvZwvqbo5FXcWRYEIRCebBeCbsF2JQU3ZYAEqJjJQbinVGBLo3pkP7uWghviD0icBQZkRFhUlyZ3YkA631UagsPAitNhv67BNyQhGYzZZdKjUYkV9gQG5eAVJSMuSMbvt2WVsFWa02ScUlFTh1uhgZGXpERcfKC+Todkqy2x1ob7ejsKgcWfo8xMUnIyKCdUkmIDoEy8urcLs3sbHhxvq6W4grNVUrlZrCyArU2GTFwMAghoYuCqJxpadnBgOGDkFnZxdcLtdvDUn9kTkqcQgGBl1eopHpdMcRExMn55WnQ9Da2o7+/gEv0VLT/ZOQmCq3S+yW9fb2SaqpbRCWJd1BYrFlAiLCznE6ez3UJyzGSqNJ6BHd1IlJaXLFRmBr65B2UE8PU33DeVRXm6XY0tJ0crhEYLE0Cberq6sbRlsYCmrDkFWkQLxOAVNNvRQbLXdScnqgXSK4tcXh+hqHywsa9M1q4JjUoHlYhdpuFc60MMC8yjBo8xVIzlEE0iWCmxscFj/zmH/HY+41h6nnHMafMsArSxoMzmngnNag7YZKgKzrVaG6MywQLhFcW1Vj5gWHhQ88tn6Gw/0jHGvfeax85bHwkQFS90ZWNZJ79f1KGBqVgXCJYGKTw/23PB592lt33/CYesZh7Ml2nA/VsE+oBKDyFiVKLaH+dIlg9LEasy+5XRB/A7K4lKjqUKJkG0jNh/gLiggH0aiWvjBRAPGzKOoejdQTqPGSCiYHi+1kFXPJD9ER4TBfAF+JQLT4FMgxqYL1Kout0qZEYV0o9MV+i45g9Rv/R82/9wZyTqtgG2WxUYdSc/dJDvnFJc++iK74AtGeUaDhReYQhaH9iT3mVxhx2FsgPZj2yROOAtHvKBC9jSKM2JsAwLBhDxT/cxEJTCz6nVcMxuxku8cTxO8wnrNzwA6cr2QB2Ws8D/aV72//dX4B7CvzFC/6GsUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xt2U60tTcRzG/TXd5XAQehlSEaHi3WlzOg3tonib5mbOzdlK3XBe5nTqnFFYaUlKpiJkF7G8EZIuQQoiiCgoiqLoTe961b/x5O+cznFTqTfbGfjAA+O82PfD93l+36io/SGCYEdUBHbzcZyvOILigkPISj0YaSiC5ekCLNzN59zdkoSGmmORhCIizKOxXLguJaK+6mikgPjOCEAPRrVov5DAxReBPhHoq4yoqTGJ25kZ1qDVGg9D6WHk5ORDl39KSigCi8W2y5V6I4pL9CgsKkFmpkZaILujlbPD4RRdXlGDM2fLodHoEJ+QJC2Qu9sj2uVyo73dhdKyauTpipCckoG4OKFLkolgaWkFfv8G1tf9WFvzc3Gp1TmRKDUVQVOzA17vAAYHL3OmcWVn50YChoqgs7MLPp/vrwfF/kQMyDvgCzKNTKs9icTEZKmhCFpb29Hf7w0yLTW9P6lpaumB6Ovq7e0TXW9u5I4lvUHbxZZEhLs5Hk9vgPu4w2gwmrge0Uudlp4lFRSBs61DvEE9PbytjRdRV2cRY8vK0koBRGCzNXOvq6urG0ZnDErMMcgrkyFFK4Op3irGRsudnpEdbiiCO5sMbq4yuDqvQt+MCu4JFVqGFDB3K3DOzgMWGWKQUyxDRoEsnEAEt9cZLHxlMfeBxexbBpMvGYw95wGvLaowMKuCZ0qFtlsKDrKhV4G6zphwQBHcWFFi+hWD+U8sNn/Hwv8rFqs/WSx/ZzH/mQek2xteUYnbs/bLoW+ShwdofIPBw/csnnzZ2/ffsZh8wWD02Vacj5VwjSs4oGq7HJW26FBCEYw8VWLmNbML4n9ANp8ctR1yVGwBKdmoUEERbhCNavEbbwog/BZMt0cjDQRquqKAyc3Hdro2ZFsi3LCdADstANHiUyD3hAKO63xsBqccpQ3R0JWHEGrlB/tPz30MBvJMKeAc4WOjG1IXHggVDBUJ6ouwlZ1AtGcUaGiB3xCFof1JOhFSGEH0Dwk3mPYpEI4C0W8UiL5GAWa7NyGHCZQwgIhgQtHvveFhLB7h9oQVZC9tw+32PtQfDhK+CeQ09P8AAAAASUVORK5CYII=",
     "wiki_name": "Olive oil (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Olive_oil#2_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 4577,
     "name": "Schematics",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-21",
     "duplicate": false,
     "examine": "Transparent overlays - details of something?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABS0lEQVR4Xu3VYUoDMRAF4K2L96hUEQWlKIoURRAEQRCEgiAIBSn0DL1PvWZMss5k8naKrRmkPzLw/nS7m4+Xbdo0derUqbNTM3D9bDp43zb3qjNw++Opa89fs/QX0dMe3rt2dMfZO5iUogTo7KWf0+eUkyfXHj92OXroMDICNB4O/4ryoIu31I4GIQyBAkaLR5mBsm1DFGFkQyJfq2VMQNmALt8jCN+luIiA0cIM0KB+28pBVx9dSz9NqW3BNkaQaJCBZqDQ0joUwLg5AbUFXc86kILScHFxgHJjZiBqySc8nGEKLl4HKLdmArr5TCiArQtCuTH/S7MD+eDCGLm12ecE8+9ROWgyz1BZqDUMvnN0lvltswNpQSBCEeZR5aDbRUrAbRKJBVwhKEz/X/y3MEqcYXQMGICaJjxgmyBQJn3nnweRObhOnTq7Nd8xpEZJsuWycgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABO0lEQVR4Xu3V0UoDMRAF0NbFDylaRKEiiqUURRAKBUEQhIJQKIjgN/R/2t+MSdaZTO5OcTXz4EMu3Jcu2xwmaToY1NTU1PyrDF23fYPv/eZdNUN3fPXqmsuXrN1F9DanD645uecejealKAGaPHd78ZR6vnTN2aLt+LHFyJqBrldpOhqEMAQKGK0eZQbKtg1RhJETEt3vtrEBZQO6eYsgPEtxEQGjhRmgQf22lYNu1+2UvielTgu2MYLEBBloBgpTOoQCGE9OQG1B000LUlAaLi4OUJ6YGYim5Bu+nGEKLj4HKE/NBDR7TyiAHSpCeWL+l2YH8sWFsXJrs88J5s9ROWj+kaGy0tSweOboLvPbZgfSikCEIsyjykF3n6kB16cSC7hCUEj69+5bRok7jK4BA9Bf0kWm1tTU1PyYLx3yFBx3bEYYAAAAAElFTkSuQmCC",
     "wiki_name": "Schematics (Khorvak)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Schematics_(Khorvak)",
     "equipment": null,

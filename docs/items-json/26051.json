@@ -1,7 +1,7 @@
 {
     "id": 26051,
     "name": "Sigil of the treasure hunter",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVElEQVR4Xu2X/0tTYRTGvWSWOpLwG7ZyNjFJZWuRmWQ2EMtMsiFilpmIiFkmISJmjRii2Bczy4xkY4ip2JiYLRNF/c1f+p9OPuf2ruvddcy8CoUvPNxt7t7343Oec16Nitpf//eSKLz2dEn041NciBoaasjhuEZ2+8W9BNOGWfXKUn5WWHhuL1wLDySgrpRepqKi85Sfb6WcnFNkMhl3A0qin18MEamk5BI7ZLXmUnZ2Jp0wHmOgMxkZekFJtLg4G7Kxlm7V3GQg4Y7ZnE5paan6AwUCvpDNtXS/5R5VVl6l4uIL7BCAUlKSKDb2kF5lk2hpaY4WFvw0/3WK5uYm+Rr4NsOfqYG6uh5SXV0VlZeXcNlEyQyGOL1cksjn89LMjIemp900OzvB7/3+cX6Nq/Ln/f091Nx8l0uHcKN0CHVi4lH9gOAKZLNlstzuNzT5+SNNTY7xdWLiA42Pv6fe3i7q7GxlIMyliopSKiiwUVbWSS6bbkAokcViDgpueDxvaXi4lwYHn9OLgWf06qWT3UHJHrQ2bALahU6TNgGhRALE6XzMMpvTNpww8uv29ia6XesIAilnkQ5Acsvn5pqCwsam9FRqarrD5TEak/g9oIQaG2uprMzOQHl5p7nbdANCPiCEFllChlCiJ92P2A0EeHR0gD9zuTo5R8pOQ/sjRzoAyR2GbsIcQvuj3b3edzQ05OLyAKqtrZGqq29QVdV1PmAxh+AODlo4JCb2Do4Q+UCMjj7AAWagDZC11e9cPoQcjiDAHR0t7BKCrAbCcFQC/WWnySBQTMxB1tjYa1pfXwvCoNXRUX193VwaIfEnCIAwgwAkSoYMJSQc+e1QxC6FwsTHH2atrARoeXmeSwh3Rkb6uctEe0PIjJCyZOgynGc4PvBMPD8CsK1hkpMSghMYMGh5dBjygysOUziEkiFLcAlQADprs3CgxbPEs8VeYaC0gQAD1ddXswvHjclcQoQakxkOoUS4AgYdBzA4hHKJ+6GtgMJkSobSckgIQBDmDvS0p51DjbkDGDgFQOU9OwDC0obSgotUShAlTIRAWJuh1GDqDbWkzowaRoQaMBEAYf2ZRVpSb6Ql9T1qV7YBIy/5y8r/HPTRtkHUS/nb6CX1Hvvrn1+/AESC2zshP7TQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xu2W/0tTYRTGHZnlFxrhVGzlaGKSirLITDIbiGUmmcgwy0zGELNMQsYwa8QYDvtiZpmRbIxhKkscZstEUX/zl/6nk89Z77reXcfMqz+ELzzc7cq978fnPOe8S0o6WP/30lB87evS0M/PaTHq6GihpqbrZDZf2k8wZZg1f0TSe5WV5/fDtfhAAupq7RWqqrpA5eVlVFR0hgwG/V5AaejX14yEVFNzmR0qKyumwsJ8OqU/oTaQhpaWQjEbK+l2yy0GEu4YjXmUm5ujPlA4PBuzuZIedN2nxsZrVF19kR0CUHa2jlJTj6gFpaHl5XlaXJyjhW/TND8/xdfw9yDfkwM5HI+ora2Z6utruGyiZBkZaeoBzc76KRj00cyMl0KhSf4+Nxfgz7hK/+7xDFBn5z0uHcKN0iHUmZnH1QOCK5DJlM/yet/S1JdPND01wdfJyY8UCHwgt9tBdns3A2EuNTTUUkWFiQoKTnPZVANCiUpLjVHBDZ/vHY2Ouml4+AW9HHpOr1852R2U7GF3xxagPeg0zRYglEiAOJ1PWEZj7qYTev7c22ujO61NUSCVZ1Gk5YuLDVFhY0NeDtlsd7k8er2OvwNKyGptpbo6MwOVlJzlblMNCPmAEFpkCRlCiZ72P2Y3EODx8SG+53LZOUfSTkP7I0cqAEU6DN2EOYT2R7v7/e9pZMTF5QFUT4+VLJab1Nx8gw9YzCG4g4MWDomJvYuyRQ7E5ORDHGAG2gRZX/vB5UPI4QgC3NfXxS4hyHIgDEcp0D92WgQESkk5zJqYeEMbG+tRGLQ6OmpwsJ9LIyR+ggAIMwhAomTIkFZ77A9QwlCxMOnpR1mrq2FaWVngEsKdsTEPd5lobwiZEZKWDF2G8wzHB96J9ycAtj1Mlk4bncCAQcujw5AfXHGYwiGUDFmCS4AC0DlTKQdavEu8W+wVB0oZCDBQe7uFXTipz+ISItSYzHAIJcIVMOg4gMEhlEs8D+0QCCsCpeSQEIAgzB3o2UAvhxpzBzBwCoDSZ3YBhKUMpQSXqKQgUpgEgbC2QsnB5BsqSZ4ZOUwCoZavv7NISfKNlCR/ZoeubLfEf6KmDtbB2vv1GxZynwVnj/2TAAAAAElFTkSuQmCC",
     "wiki_name": "Sigil of the treasure hunter (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_treasure_hunter#Un-attuned",
     "equipment": null,

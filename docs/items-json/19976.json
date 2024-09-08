@@ -1,7 +1,7 @@
 {
     "id": 19976,
     "name": "Light tuxedo cuffs",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "Linked tuxedo cuffs with a gold trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDUlEQVR4Xu2V7y+VYRjHPa+s/8Kf0HtvtHqRbEaSJJEkSSTJJJLEJCmSyphJmBmTTmbMkGVmpDJmlVmzmfojrva5zu7j9DzPOfSuF8+13TvnbNeP74/rvk9EhBdeeOGFF/8alrifUGHPO0iNa9iL/edhRYVU3SyWkrw8uXYxS7JSU+XsyUSXIf7f5Jbm52tudlqa5ibGxsrxIzGO3mFAWtLV0iLtjY3SWlcnT+5XK5Ca0lIdcLugQAEVXsqWqxcyJSc9XZLi4iQmOjrQuKW2Vtrq67W2rrw8AIwa8jNTUuT86WQ5dypJQZ5JSNATApQlI729MjM+LpPvRmVsaEg6mprk0d1KqS0rk+pbJXLneqEOKM7NlSsZGZIcH6/NDkdF6SdkOpufSvODGiVjasiHBMoCDNWCVabe38MGaG5yUmYnJmR1eVnmp6dl+E2PNn98r0oZo1bljSJViwHBDfnsaXsufe3t8qqhQWsgQr6xGjAQQTHUAtRevSMsBbGx+lUBHYqMVLVojhXGQoZgBQOQPhjQYFeXksB6aoxKECi6nKNgIEJvvu8LaGF2Rr6trcnv3V1Znp9XgFhg9gq1sBC1GMA+BAMa7e8T3+Cg9Hd0aA0qoSq2GZWwyyi1L6DFuQ/yfX1dAX1eXFRQvS9fKGP2iYWFOYPYC2QPBjTxdkSmfD5VCfsgYV9uVAWI2akwgAgrAOjL0pICHOjs1L1gAGphIUrB2DTba2jJx6kpvRDUkY/VRiVIcP1RFqU4Bwa0trKilnHzhl53qw0GFCrB2NnMUlWnx96rfaiLquySWe4Tx47qZQhWNyygHxsbCojF49bBluYGlBkCYzdAXAhUGh8e1iXHbhRFJZabvjwXWOasd4QlPzc35dfOjnxaWPjrTQIUu4EV2AZjZ0O/wqhErW9gQO1mwbkMkDDvF7fPWe8IS3a2t7UplsGUxiwqjBkAKAawqM6GlmxvbQXsZsnJ7259pgvOk8EeoRQqO+tdw/4/E/q4++/MC3Xc613CJB7k2GsJe064Y6/1wgsvvPgf4g+2/oc2t8YyogAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xu2U/y/VYRTHPT9Zf5NftPoh2YwkSSJJkkiSSSSJSVIklTGTMDMm3cyYIcvsjlR2zSqzZjP1R5z2Ovbc7r2fey/9/nlvz3bv9pxz3l/O84mJceHChQsX/wsj4U8khN47TE1YhBbvn0fV1VJ7q0zKCwvl+qVcyc3IkHOnUsIM2f/P3YqiIr2bl5mpd1MSEuTE0XhH7ygkjfS2t0tXS4t0NDbK0wd1SqS+okIH3CkuVkIll/Pk2sUcyc/KktTERImPi/M3bm9okM6mJq1trKryE6OG+znp6XLhTJqcP52qJM8mJ+uJQMrI+MCAzE9Nycz7CZkcHZXu1lZ5fK9GGiorpe52udy9UaIDygoK5Gp2tqQlJQU0Myqmp+2ZtD2sVzG2hvuIwFmI4Vqwy2FhZHFmRhamp2V9dVWW5uZk7G2/Nn9yv1YV41bNzVJ1iwHBDY30d76Qwa4ued3crDUI4b6NGjIIwTHcglRUQpDYXP+mhI7ExqpbNCcKGyFDiIIBWB9IaKS3V0UQPTXWJQSUXslXMgihN78PJLS8MC/ffT75s7cnq0tLSpAI7F7hFhHiFgPYh0BCE0OD4hkZkaHubq3BJVwlNusScVmnDiTkXfwoPzY2lNAXr1dJDbx6qYrZJxYW5QxiL7A9kND0u3GZ9XjUJeJDROhy4ypE7E5FIQSMn9DXlRUlONzTo3vBANwiQpxCsbOZkU+zs/ogqOM+UVuXEMHzx1mc4jh7BOEfId/amkbGyxt906cxWFK4hGJnM6Ouzk1+0PhwF1fZJbvcJ48f08cQ7G5EGPm5uamEWDxeHWppbknZISh2NjT6IHBpamxMl5y4cRSXWG768rkgMme9A0Z+bW3J791d+by8HPRNghS7QRTEhmJnw32HcYlaz/Cwxs2C8xgQYb9fvD5nvQNGdnd2tCmRoZTGLCqKGQApBrCozoZGdra3/XGz5Nzv63iuC84ngz3CKVx21ocFlw57wiH0TrTjwoULFy4Ohb+GHED3GK43vAAAAABJRU5ErkJggg==",
     "wiki_name": "Light tuxedo cuffs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Light_tuxedo_cuffs",
     "equipment": {

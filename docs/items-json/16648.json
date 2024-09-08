@@ -1,7 +1,7 @@
 {
     "id": 16648,
     "name": "Chemical compound",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": true,
     "examine": "A mixture of strong chemicals.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCUlEQVR4Xt2XSy8DURiGnQ0iiMYttKqIS12iJW1pCeISt5IScQ0hNKTNpGJRra2FxEYiVmIl2NH4gy/njDMdx7Qi6ZxJvMm7aWbmPHm+b5JpUdH/CMH3WhqCo802rC04MT3SgIFem9VQBM+3I3i8CbGeHrqxHWmxEopoMA/XQ1D2O7Gx1MyAPC6XbCh1ZzjQ/VUAsd0ONj4L9okgvLSKSGRds3N36cPxTjtWZpvg94cQDE3IhCLY2tr70cXwKqZnwhgbn4HH45M5us+3K3rMGo2eaJ1fiGByah4+XxDtHW65QInTM62KkkAspmB2bhnDwXF09/TDbld3SRIQDcHT0wsymXe8vWXw+pph4/J6/dpSUxipQPsHR0gmz5FOX7DScQ0ODlkBQ0MQjytIpVJfTWv7I3lUPAStTiczlDxPsdKRBQKj6HL3yXzlaQiaGhvhcji+tbamBlWVlSgrLZVpicBeX/8Dhv6mB+JQ4t0mxNiOHqiivFyWJWM7HKihrg7VNpsGJMGSsR0jIAmWctvRA4ljM9FSbju5gEy0pNr5C5DJlvKPiwPp98hES4Qdks9OLiCTLP1uxwjIREv5l5mXXqPfI9MtiQBijYD0lkqKizVDBbP0WzmQuNgFhuFRvwJFCBGIlsNkR1RwGDXqA/l/LmM4DiOCFBxGn+wBWTixUkCMoj9YrHjtX/MBzlg6OpWRhGgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5UlEQVR4Xt3Sy0sCURQG8O6mJEqSrPDZCyt7kCY+UqOilF4WFlFZFEaKYQxJCx9tWwRtgmgVraLapfQPfjFjdxp1NALnDnTg2wzDzI/vnJaW/zEElVF1CBIHw9hdtyIUNGBmUqc2iuDtIYiX+4CQzJkdh9FBNVFExDzf+cDFR7G/2a8WqHwzFPR060X6eERYnwr3RBDZ3EE0uie283jjRurIhu0VCzyeAPyBRZYogljspCYbkR2EwhHML4ThcLjZghLJlJBk8lzM2noUS8trcLv9sI3Y2YIuM1diOO4S6TSHldUtzPoXMD4xDZOJ3hKzIXh9fUep9IlisYSPj5KwLqfTo8ZR80MQP00gm82hULgWwq/L5fKpgeGH4OKCQz6f/05BvB/VQENWq9BQNpcXwq/M653DmH2KNYrAYjRiwGyuSI9ejy6tFu0aDUsQgamvrwbDP5OCGKLk25GCOjs6WIHk26EgQ28vunU6EcQAJd+OHIhBS/XbkYKq16Ygqn479UAKtlRu5y8ghVtqvC4Kkt6Rgi0R4SeN2qkHUqil39uRAynYUuNjpuHfkd6R4i1VA6ojB5K21Nba2iwMP+WWfgsFVR92kzF0+A82htE7opifFTUdIx36A3kcxTCAyM0Prjb/cL4ARtgFL/zwSAEAAAAASUVORK5CYII=",
     "wiki_name": "Chemical compound",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chemical_compound",
     "equipment": null,

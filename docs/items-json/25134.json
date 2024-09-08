@@ -1,7 +1,7 @@
 {
     "id": 25134,
     "name": "Beekeeper's legs",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-11-18",
     "duplicate": true,
     "examine": "Truly these pants are the bee's knees.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgklEQVR4XtWY20tUURSH57xKKKIkKXlJokcVzAzzEmZmimleyMwsUzMzzcwGM83MZjAzL5NaDTMMYhci6E9c8e1hD2eO+NCD69CGDbM3HM7Hb/3WWmdNIPD/L0eO3urLkazMzNQ+kZGRtn2AcuRkbq7kZGcfCVReXKwJ5UhRQYGczs+XU3l5h+B8AYptbMj2uxVZCQYlODEhjwYH5U53l9xobtYGcuRnLCYHe7vydW1NPrxelKXnMzL9cFSG+/v9AfoVj8v3L58lEYlIJBSS8Py8vJycNCp1trTItcsNmsZOB4qur8vm22Wj0uP796SrtVUaa2s1VXLkdyIhP6JR2d/5ZLy0t7oqyy9m5cmDIelpb5e66mpdILc6O+GwUcgNZEOmBoQybpj3CwtpQFfr63WByDDM/PHNkjE0MG4gdQ8RMmqQhXn1dEpCc3MpoIaaGl0gDI1CZBbpPjM2ZuB8MzWFEf8ABAwgFEgLdKmqSheIOmRTndpDhcbcUyPDBuhiZaUuEHWItkEfQ5W7vT3GU6gF0IWKCl2gP98OTNpjZFS51dFhQkiT5bd6yFDIC0TFxlOopZ72eIiQuYHi21sm00YHBuT6lcYUlPfpY1jJLMPUeMgC0Uqo2Jzp+FYhBZWSdQjP2OoMEO2E1Oe7iLNqyGgdZNXis2nzDcQdIbPV2q2Q9+ljWMnmSh+jSlODuMPkKAZgW1OTPhDhIc2H+vrMy/EUinE+X16mC0TIAKIQkubc0dtQjDPTiC9AGPj2zU4zAtE6ZsfHzVl5FHLkbEmJmcuYyYBhowrzmZ1mVYHOFBYeGhS5P1daau7tWQmI5f1zwb48/awIFAjYF7q39977zL+sv8yyhs9rw7XQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXklEQVR4Xt2X30tUURSFva8ShiRJioZJ9FiCmWKmYWZmmGZGZmqZmZlpZjaYaWY2g5lZTmY1zDCE/SCC/sQV35Erd0Z6bN/qwIE5B4b5WGfttWfn5Pz7y9Pvt/nytDsvb3vvys3N2CFAedpbUKA9+fl/D9D+4mKVFBVpX2HhDrhQgJKrq1p7vqjFSESR0VHd7u/X1YudOt/cbA3k6Vsyqc2Nd/q4vKyXT+Y0/2BSE7eGNNjTEw7Q91RKXz68VzoeVzwaVWxmRo/GxpxKHS0tOnOywRIqEyixsqLXzxacSneuX1Nna6sa6+psgX6k0/qaSOjT+lvnpY2lJS08nNLdGwPqamvTiepqW6CgOuuxmFMoCGT+ZCgThHkxO5sBdLq+3haICsPMr57OO0MDEwQy9xBPRgb5MI/vjSs6Pb0N1FBbawuEoVGIyqLcJ4eHHVxopiYY8Q9AwABCQPpAx6uqbIHIIb/UyR4SGnOP3xx0QDWVlbZA5BBtgz6GKn2XupynUAugYxUVtkA/P2+6ssfIqHK5vd09IU2Wz+ZPhkLZQCQ2nkIt87LHQzxZECi19sZV2lBvr86earSE2qoyTI2HfCBaCYnNmY5vBMPayiE846czQLQTSp//RZxNgWgdVNXc/Qn3H4g7nsxPa3OFUIM+RkqTQdxhchQD8FxTkz0Qz0OZD3R3ux/HUyjG+eiRw7ZAPBlABCFlzh29DcU4M42EAoSBr1zocCMQrWNqZMSdjUchTwfLytxcxkwGDBtVmM/8adYU6EBp6Y5BkftD5eXu3j9nf/MPLn4se2ff/2frF6o6UcRr3ZRAAAAAAElFTkSuQmCC",
     "wiki_name": "Beekeeper's legs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beekeeper's_legs",
     "equipment": null,

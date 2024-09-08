@@ -1,7 +1,7 @@
 {
     "id": 28302,
     "name": "Warrior icon",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": true,
     "examine": "The icon of a warrior.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xs3W604TURAH8DbGkDRNn4FH8A30DdSIYsQrcgkqEgNqCGoKNtVSrEJFBNJGSNNCg9t4qVAUQv2ib2BI+OCbjPnvZpbZ4bS2dDWcZNK9nN3z65lzpg0Ejn4LkjlM9/95C1Jy7BwlRs/aEX94hmIjp+1gRG76Bi2lrlF26qoBpb9Ey3AHxCiAODQmM3mZ5uKXPAPjHPd0eFFNIYOUetxxAIVPQDgYNBu7SNPRC3ZffJpA6C/RW8Ux2swPHw7FIBzz7DBo4XmXDeK+tUB47uvKKO1Y41S1ntogjHGivd0OPbpqzrTzt2YQBjWB0hOdLgjHJlA+3e0B4ZhBenTVgp40YCBe3DjXIAwOBKe3Fqj4ptc/EM8SrplAPJMMwqxp0Pv5PheEaArE60KDMDhAcnHKBV0PVFrs94IKD1oDScTYs3EaenSfeoYG7HO5I2uBPmQG/APhWqX6jaz1j7RsFejFYpqiqbgN6x7st+/XAyG9X5buuKDttScupmmQRMl4m89S+t08JRdm6Eqfk0b0qwVaX75rBOnRazRnULxcpg0vxxridVSwPlGutEovM7PUeb3LfQabQoM2cvcOC3JqEGaoHogrb6lcoeVVixJzr9z0aRD6S5Asinp01ZyXmUAIDUIfPFPZqlI2X6R4eoqGo8525kA/X0GMQgCEiosBcMwVGs+VN7cpk1ux0xebmaRkoo0Gbx+37/kGkrOETwlCP1mh8ezvvQjt/gqTtRai2IQDOt/hoBiEKs2YhkDYISYQ/xxIkCyIeBaYnz/CtFEO0chwG506eYwikYAHhBlqcHbQ9kF6HfFWZhDONQiY7zsh2tsNU2+PMzMI/Gz4BmIUrmOBMgj3ZYXWtYpThb6o0hLEKD26oTkgU9oaAcnU4l3c/3P2lgtCDWqiDnlBMm0SxFteYjSIS0TLICzWv4F4y5tAvNa4/vgG0mnDdQmSC5oxDOK+AK28vukBoQY1XYdMaZMgveU1iGcIfX0BmdImQbhnWtAI/h3jdLUIQvP+zagVev1waBD+S0sQRxOgQIDLer3QQBly/fgCarRpZCNYjv2+/6lppCn0M0e6/QEz/MRNCqh1pwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4Xu3W624SQRQHcIgxTQjhlfQN1FitsV5rL6laG0PVNKihlaCUirZYa9tALCFASV3iBVuqbYpf9A1Mk37wTY757+asZ4dhZWE1fnCSE/Yyu/NjzsyBQODfb0HSh+7+H29BSsdOU2r6lBnJeycpMXXCDEYUF67SeuYy5ecvaVDql+gZboEYBRCHisnNXaDl5HnHwDjHPTWcKE/IIGUe9Leg8AkIB4OWEudoIX7W7ItPHQj9JXq3GqOdUrQ7FINwzLPDoNUngyaI+7YD4blPlWnaN2aoaTwyQZ4weCl/awZhUB0oOztgg3CsA5WyQw4QjjsEBR1pwEC8uHGugjA4EJzedqDqyxH/QDxLuKYD8UwyCLOmgt6sjNoghCcQrwsVhMEBkotTLmg3UG1tzAkq3+0NJBGxxzM0ef8ODU+Om+dyR7YDvc2N+wfCtUbzMxlb76hglOnpWpbimaQJG5oYM++7gZDej+s3bdDe5sNOMWhOkETJeFXKU/b1CqVXF+niqJVG9GsH2irc6haEZg2Kl8u04eVYQ7yOysZ7KtY26FluiQauDNrPYFOooO3i7W5BVg3CDLmBuPLW6g0qbBiUWn5up08Fob8EeSiK1st0IIQKQh8809htUr5UpWR2nqJx3s5WoJ+vIEYhAELFxQA45gqN5+o7e5QrVsz0JRbnKJ3qo4kbR817voHkLOFTgtBPVmg8++MwQgffw2Rshigxa4HO9FsoBqFKd4hBs3aYDsQ/BxIkCyKeBebb1zBt10M0Fe2j48eOUCQScIAwQ12B1HXEW5lBOFdBwHzZD9HhQZhGhq2ZQeBnwzcQo3AdC5RBuC8rtFqrOFXoiyotQR5QFkiXtk5AMrV4F/f/kL9ug1CDPNQhJ0imTYJ4y0uMCuIS0TMIi/V3IN7yOhCvNa4/voHUtOG6BMkFzRgGcV+AKi+uOUCoQZ7rkC5tEqRueRXEM4S+voB0aZMg3NMtaAT/jnG6egSh/dq6bqGuHw4VhP/SEsThAdRpa0VyyPXzF0FurRXZGv9bb+0n6el5wcUt18gAAAAASUVORK5CYII=",
     "wiki_name": "Warrior icon",
     "wiki_url": "https://oldschool.runescape.wiki/w/Warrior_icon",
     "equipment": null,

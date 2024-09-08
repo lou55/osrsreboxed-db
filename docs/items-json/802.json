@@ -1,7 +1,7 @@
 {
     "id": 802,
     "name": "Steel thrownaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A finely balanced throwing axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4XtWVbU8TQRSFO9ls/Acmph8KJjQpJZQSoBCorakVC6TyYsWKlRcBAREkxpgY//vRM+vdndlua920bD3J/dDu7J1nzrm7m0r931LwaiyksLKwgPnZ2XGAUniyvIxSsYhCPq+B5iYmkoDyIqqurmp3FucKmMnlkgJS2HhWw/NKxXJnOptNAkjh5fo6XjytanfWlpZ8d6YmJ5FJp//MUVQNXQo7jQa26nXfHQIxMrpEMA42q7XiolF0sJZzUMg4yDxM9YCKDavwdncHb7a30Wo2sbe5qeHoFgEZIV0jaK1cxm7JRb3goJR1MJ1OYeqRB2THqfxeMaA8oHev9nQJXBRgu+yiueigmncw/9h0xy7eZwL94+wpH4BFqKP9fbx/3bIA9SahuLihbM41YadjA0lTs7mAnbTbPqAZF39zLd0zwUx3eC0WkJzGLDY1YzDj+npxgU/HRxqW8NzYBJMesYGkoZRAsJHXTFlx/fxyi29XV/j84QSnBwfaTfN+gYkNxIGVMkEEplNxrbj4n0Ddnp3ivNPxI2QPgTH7hXftI6Ufb5btSnDdjEsec9aPmxsdH50iFGeNEUYdMOg3kMIR2dfMuOx10VB82uiQeUi75wDqBUN3JK5uaIXv19e4+3juA3HQOVMy7AJl940tzx2Jq/u0SrvDObo8PNQDzlmiQ/IO6j5EbAXDzLiiGyvtDl8BEhfdCYMMAYYKhtmMK7yGUdEdRjUiEFEwzNHueGvozohBqGCYTaDwKk8jBaEUzuquP8y93QnU79oQpHBcG9Sdkev3kG64/jAP4s6IFcQ1Fu7cbT3QcdEd+YgmCiRx9X/U71XqLy/CRDTU789wdN8wvwDVtaEOUwDqBgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYklEQVR4XtWVbU8TQRSFO9ls/Acmph8aTGhSaqglQCFQW1MrFkjlxYoVKy8CIiJIjDEx/vejZ9a7M7vdtmRt2fUk9wPszJ1nz7k7zWT+byl4lQopLM/PY252Ng1QCk+WllApl1EqFpME8iKqr6xodxYel/CoUEgKSGH9WQPPa7WAOzP5fBJACi/X1vDiaV27s7q46LszPTWFXDb7Fyqqxi6F7VYLm82m7w6BGBldIhgHm9VZdtEqO1gtOCjlHOTuZwZAxYZVeLuzjTdbW+i029jd2NBwdIuAjJCuEbRRrWKn4qJZclDJO5jJZjD9IApI+b36n42UB/Tu1a4ugYsC7FZdtBcc1IsO5h7a7gSL+/4JSABYhDrc28P7150AoD4kFBcPlMO5Jux0bCBpajcXsONu1we04+LfXEv3bDDbHT6LBSRvYxeb2jHYcX07P8fno0MNS3gebINJj9hA0lDKgJg1dly/vl7j+8UFvnw4xsn+vnbT3i8wsYE4sFL9DRR6NTcQF/8nUNenJzjr9fwI2UNgovuNlNKfNyt6czAu85kr/Ly60vHRKUJx1hjh8Be8lcIR2QrGFVwXDcWvjQ4NfsnY8tyRuPqbK/y4vMTNxzMfiIPOmZJhHzOU547E1d9YaXc4R58ODvSAc5bokLmDwntiywwz44purLQ7vAIkLrozZhCRGebouLw1jIruMKoJgYjMMA8+RGl3JgxCmWEeDkQNezYWKZw2XX+Y7+DAUVI4atzWnYnrz5Cuu/4wJwxDmbhS4c7N5j0dF92RH9HwqjuUiSsF7ojUiIswEU38kku/fgN+3Ea9mirUdAAAAABJRU5ErkJggg==",
     "wiki_name": "Steel thrownaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_thrownaxe",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 16708,
     "name": "Lunar amulet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-24",
     "duplicate": true,
     "examine": "Awesome.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB40lEQVR4Xu2WzUsCYRDGnUOHIhRRFFf8DJXaUJPaFJMEsZCCCimIQgoKoW5C0Sno0rFLf/DkzMu7uh9Zmrt52AcGVN7Z97czzwz6fJ48eVp4AdqH6xIXX7QLeNVR8e6shA/nWzi41lBTY25DAR5UMzrM7UmRYZ56u/jW38OXmyqeNnNuVQuwUY5zEIy1VYDvj/v4el/HfreMze2kk2DA7VCzYWxpKb6knE5bgn7/GLR0sMvDDaysR+cNBfzgjOLHQipkgDGfFAL8fG6zp44ba5wnc8wnZxRgp57FleWlX8BIAbeNqjqeZz41g4CnyNwm8ymrRlWdLu9HAdbiCuaCwSneUhiZzD/n6pCGY57NYCUmjDn5wQKEfFMrDl8iMXqJyXlTCXhamqkk+0heahe0CmgHkW+oVQ5UhwT6wqPWkS8o6HJNiXFQ9fQYjngiuqpDzrk6UsBAoR0NA8USA/WONhmQgipHfinlIxYQB2CkhiZNxlGNhDGgKJZ2OQjy3UYFbk/CL9oxfrE5zJl/EHAFrFBg2w7jGUcEmAmIRTaCsm+JMc8xCSCqEo05faeFSKPcbeX5L4cR0BUZK0K+kZ8JiKZMhmtQRoPKxWYP5GL7RhoHGm+by36ykxHkn2GEFgbE0yLoC68kZyCMNi+aAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuUlEQVR4Xu2W0UvCcBDHvYceilBEUZxM2UKlFmpSSzFpIBZSUCEFUUhBIdSbUPQU9NJjL/3B1+7Gbyqu6aJNH/aBgwn7/e67+94dRiIhISFLD6BzBI6V+KpTwpuuhg8XFXy63MHhrY66lglaFOBRXbHF3J+VWcxLfx8/Bgf4dlfHc6MQVLUAW9UsB4mZtgrw8/kQ3x+bOOhV0djN+SkM2A5NTWJbz7skAfwatm1h18dbWNtMu7z/J4AvVqQolvKJOS4H/H7tcE+dtjb43OwzngDsNlVcW13xcDGwbVRVb+dmAjxF7jY5Maqqt3MzAWxkJSzE4x4uthqZmv+fq0OYY64qWMvM05iWEOqbRtn8CNnLR8wN8LQY+Rz3kUjqFLQKaAdR35BVPlSHAHvhkXXUFxSUXJcyHFQ9O8wRl9PrY0J9AVhQYk/HWLnCgvon2yyQgipH/VIppvwWMo7ZpLksaqkkxiRpyi4fhfx2KbA9clTYEQjAFZhOCEHbIQBUYmKRicS+W+KGJYiqRGNOv2kh0ij32kX+y7EAcZMVob4RzySIpkxEgKLGGVm3JIIElqBJ2xbO0ggJCXHkBzhDGyXhmCH0AAAAAElFTkSuQmCC",
     "wiki_name": "Lunar amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lunar_amulet",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8292,
     "name": "Karamja",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByUlEQVR4Xu2XMUvDQBiG69jiPxCkIjhbQWsXcRIUQaSI4KiLKIItCIK74KKDoHRwElQQi0uhm1CErjroUrH1BzgLOkTeq2+4fL3W1F5CBj94SL7r5d4nB4VcLPZfkag+R44EUAjxx9b82M/9n6p1QRN7yxknvzjhbC+Mq8CNuVRbKDSaTHYr1QzaXZp0drJpFdgpNJsZ8fD5MWukZyFTmImj8puiVqs79XqtRcSqEMP8EBmhYrWhoFA7KStCDPNDZISmitPREYKMLtRJKnAhXYZIKR1rQrly3gX96sWaAjID14OKq+qrgkImKStCugyBTOU44QrFC/2uEODOUZyCVoQYQhn2EAKQkUKUwhVCHLMi9Hg+pCg+NFxKBwkX9BDib5unK6rHVWJViIte5uIuHINA5enZ09/ez7jzCutx1QcqhABCAROQsS4kF5dCYOXmy8PZXUqB+bwPTIhvTBiYPnn3wHGrQvqClJFBYHj/5VesC7XjsJRwkRKhCukiJgIRwt9ZBnUDniehCzFYfuISfJMHJqQHYx7BLnAnTECmJyEZBPCmBKcRGaoHm5BpPqopxOMPwHEIyOBO4XLVHqs1OMRwc8nQUMOjVt+5dsIvPB+snwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvUlEQVR4Xu2XMUvDQBiG69jgPxAEEdwraO0iToIiiBQROuoiimALguAuuOggKB2cBBXE4lLoJhShqw66VGz9Ac6CDpH36nu9XC5tbS8lQz94SL7r5d4nB4VcLDaoSNSQq4+EUAjpjJ2lyb/7rsq/oImDtZSbW5l2d5enRODWYiKQHoQaQfurM+5eOikCW4WmUxMevr8WjPQsZAozcVL6EFSrNbdWq/pErAoxrBMiI1So1AUUCpKyIsSwToiM0GxhLjpCkFGFWkmFLqTKEF1KxZpQtpSToF+/2hBAZuR2VHBTeRdQyCRlRUiVIZApnzpSKJ4flkKAO0dxCloRYghl2EMIQEYXohSuEOKYFaHnyzFB4akuKR45EvQQ4m/b5xnR46pjVYiLXmfjEo5BoPzy6unvH+flvPxmXPShCiGAUMAEZKwL6YvrQiBz9+Ph4iEhwHzehybENyYMTJ59euC4VSF1QcroQWD88K0t1oWCOC46El2ir0KqiIlQhPB31oP+A54nfRdisP6JS/BNHpqQGox5BLvQ3AkTXVVTSA8CeFOC04g/tOvgoGoI8fgDcBwC/mDr4UGlh/Y1fFBt6xcRFnvw4fgAfQAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

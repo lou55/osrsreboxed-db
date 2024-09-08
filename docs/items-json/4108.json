@@ -1,7 +1,7 @@
 {
     "id": 4108,
     "name": "Mystic boots (dark)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": true,
     "examine": "Dark magical boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChElEQVR4Xs3Wf0sUQRgH8L0/Qu4f/+oF+BJ6JyZGiYpSkpKEEEoih+KP4ygNQdRCRcEQEzFFiAyjyFc2+t3tu/fMczPb7O12OPBwezOz93zumd3ZjaL73yrGHa7x/94qZq3Wb97P9cXRmH1s6jO9cRBxtPHcHK6PmoMPIw6U/hOF4QmIKIAYGrO/Omw+NQatxPiOMR02KheyYtbnn7Sg8AkIg6Dt+oDZWHwaz8WnC4T5Ev3rtGauj6fbQxGEY1aHoN13QzGIc30gnPfzZM78OV8yN+crMQg5HvX0xKGzq5aUnf+aICR1gTaXn6UgHLtAx5svLBCOCdLZVatYy4BEvLjxXYO4BFxeH+j048vyQKwS+iQIcx9E3XEQBRCqpkFfd8ZTECIXiNeFBuGfEyQx1a6uFhArR9DF3oQN+vK2OAj9AGFONXqYxB1Gg3TlALrcf1UuCIGljDF/ETIIIlZWDhX9fvg6Bf0+W0gxuUESxYtYY5jYVzmArj5POUE6u6clP47y5wY5+gH6cfSmXVCyB6FCZYA4JkFyU9TZVUtueRcI8a+kWWOlgYjyJQsBcbwwiKisRCEYCcIuTUwQCHeYBIUkSm93x7gGoUKB1UFrgojKShSK6QgI/bz7fHPkXHlRE6WzO1oCci2bTIpjjIeAMPbtYDIFYQ/KsQ/ZIHm3yQcmNjr085HiA6Ef70GFQLjLfCBAkAAbJPqyQOjDg7g0kF429EsQ3yYRctOUVQToZGvMAmEPyr0PuZZNgnCsQXwQ4zyAObcUkGvZJAhj8rVEgjAPIC5XQRCaXXpfSIwMDcK7tAQxcoCiiNt6VmigDHn9lAIKbRoZgmU053aoaaQr9Dn3ut0CRVXM+S93JsYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACX0lEQVR4Xu3W3UsVQRjH8XMuQrzpqv+roqgoKSwqigiiKEQKS5HeEMReqFAwxETKCMKiUOwvm/ru9luemZ3dZs5u0kUDD2fPzJwzn33mZXcw+PfL0MUj1v7Xy9A9mT7mHk0dLWL+zhE3d+twEUKsLU661YVzbuXp2QgqvInO8BIkFCBFiFl+POFezp/2BuY7bWH4qCzk0C3cPV5D8QlEIdDzuVNuceZE0ZfPGIj+Fr2zOe2+rd8cDSUQ18qOQK8fnilA6tsE4nffN6bc3tZ992NrtgBlYfhT3bVADBoDLT04WYG4joHWl857IK4TQUNvGhhIi5vvIUhToOltAm2+uNgfSFmizoLoe2BwsAihAJG1EPTh1aUKRGSBtC5CEHcukMWMj43VQMqcQB/fXPZB7253B1EPiD7jg0Nl/MKEoDBzgD4tX+kXRDCVBeY3woZAwtrMkdHt1WsVaPf9vVQMxQdZlBZxiNHATZkD9OXt9VFBlPLPSX82KFIP6OvajVFB5RlEhvoAqc2CMg7FcsvHQMSfBm1r6w0kVNNgKSC1dwYJ1TZQCsaCOKUTMZRyh1lQykDVdo+0hyAyNBJIqLaBUjH7AqJeu6+pj+1rF3UGqgTFps0OyjXtKSDaPq9crUCcQRnnkA+yu80+MDnoqNcjpQlEPe9BnUDssiYQEAbggKSuDUQdD+LeQOG0UW9Bepsk7KFpswho49kFD8QZlH0OxabNgrgOQXoQ8zvA6tsLKDZtFkSbfS2xIPoB0nR1BFH81DeFxdgIQbxLW5AiA5Ra6kiFXT/7CGordWQ9/pdu5Sf7QoJtNcxNzgAAAABJRU5ErkJggg==",
     "wiki_name": "Mystic boots (dark)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_boots_(dark)",
     "equipment": null,

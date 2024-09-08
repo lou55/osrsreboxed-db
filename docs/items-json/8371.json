@@ -1,7 +1,7 @@
 {
     "id": 8371,
     "name": "Steel cage",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": true,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4UlEQVR4Xu2W/U4VMRDF2RfAV4AQMYjhwyBiMIJRRMQgiIiICCIgIoKIeIMIIhpNjDG+cc1v17M7u9wlZb2L/uEkTXu37czpmdPprav7bydigct++QsGiKidbW7+PT5xS0Aszcy4z5VKOL7Y2enGhobiueyuGlsC4tb1a+757Kz7urPjfn46iL9f6GiPx5e7u8sAloC41NXlxoeH3cun8yZQ4DaXl+Px+ba2sO9oaAj7iZERd6apqRagkgC3Bwbc1sqK+7a7mwKgoOuLCzmAIj8weKWnJ16TjuNlgbvR1xdq4/2rdffj476rrK7GDjeeLRnnQcjY3uuNMDD9zav9JnAQ7qeH3YKiD9zDu2Mpcdq0iBECH7zdSmnIMiQGv3/Yi+dfPJkrwlbg7gwOundra+7RvfEUCNpxNHSupSVONU1szU1OuvbWVl9QQagbOSFtnIzeAlBQm8I8DWke5h/fn3DzU1NuYXo6szbXomtNStAOQQCz/2bzEAAa7ElrpLCahghOmWD+y/Z2OJ8+2JEWAVJAALGZkxJY6aMIIlTYswBto2BSq9AR+y1bOpgXIG4Z7LAJQIDQyfh+urExdizmlEKaxM5aWy6koQejo/HBvAAltEcMWQ0BAOdaY1Noy4PmBAIAMNXf2xsCErNegGzKuCk2qA2SBWFvHI2gzJM6GLP7SLc3IE7PhlP19fH1tLfK1pZqNYqywVhp1zpSyZjn5FiAsqLWWPOcVimzNSorcEBwxbWOJ0hz6NQbkOqQWCE4bMmZqOf0gKDQAfKoGkVBVXo1T+8FCMrT6COncmRTVu2d0zpA8OLzxnEIiqL16wFGdhi9gmSfA4JprGelGkPST9avt+VvSlJG079Fmm5V9DtaK3DST77fwpacln+IsIVwAWlTlk5LIvhSANnbYtnKgrF7svqpoaWvd1Yb+QHzwP6xJae1bPkE8llT0BKxlqiN45kAlaiNolaaNorbPwWmLPsFlno6XVeVnJEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xu2Wi04UQRBFmR/AbyBEDGJADCIGIxhFRAyCiIiIICIiTxFxgwgiGk2MMf5xmTNtTVePs+zsuIsmWkmne6cfdevW7eptaPhvx2KRpL/8AQOEa6dbWn6Oj908iMWZGflYKsXjC52dMjY0lMyld9XYPIib167K89lZ+by7K98/HCbfz5/tSMaXurvrAcyDuNjVJePDw7L2ZN44imRraSkZn2tvNwAimRgZkVPNzbUA5R3cGhiQ7eVl+bK3lwLg1m08XSgDyM3D4OWenmSNn8ttkVzv64u18fbFhnx7fyCl1dXkwM1ni+bwKGZs/+Vm7Jj+xpX+ADD76WG3oOgjeXBnLBCnTYsyguPD19uBhrIY+vpuP5lfeTxXhK1Ibg8Oypv1dXl4dzwAQatGQ2daW5NU05StuclJ6WhrywsqinWjh5A2IqMPAbi1NoVZDFkGYf7RvQmZn5qShenp/IC41qQE7eAEMAevtuID0hqCPdUaKczSEM4pE8x/2tmJ58PAjjQHSB0CiM1EimNNH0UQocKeBWgbBZNahY7Yb9nygVU0d8tgh00AAoRGxveTTU3Jwcqc7qWp2Flry4Vq6P7oqNFlRXM3SA8HkNUQADhc19gU2vKgcwoCADDV39sbA/LMVrQwZdwU69Q6SYOwN46GU+ZJHYzZfaQ7NyCiZ8OJxsbU9XSAbG3JqlGUDcaadl1HKhnznFQFKC1qHes80WrKbI1KCxwQXHFdxxOkc+g0NyBfh9xvnMOWHqbUEz0gKHSAPKpGUVB9et286yuaozzcEDJkU5b9zrl1gODF540jCIpiFUCsldv063OAMx37Z8WttQypfsLzamI+ZTT9t0jTW2VBae/1U3Pz0fIPEbYQLiDLV18r+JqbjTZkq7zD6Hf0U8nC651fG3nWFDIbbV21UY15sdZRG0Wsrtooan8VmH/IfgAV++cofv7fbgAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

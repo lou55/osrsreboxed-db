@@ -1,7 +1,7 @@
 {
     "id": 27460,
     "name": "Graceful boots",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-10-11",
     "duplicate": true,
     "examine": "For your graceful feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xu2W3UtTcRzGPRcxNsbG2HCcjTk9Yw430TlEHUybTJtv6GxLLRNfSNSCVVBEL5R5IYFQQXUV3XXTTVf9f088v8Pv7OeZSm5ToXrgyw7n7fv5Pc/3nLO2tv/6e6Wh9ivryqTh6/6wgOgKeKy6IijTDRWE1R9uF/vTnZ2XCVUPwn2EOR1IjbTl0daay8jqYdSG9QtocbQ1ALVSoYC1+icbSWvbDnIB0dYDqTCshXy4DkYeO9vNhqXh1+c8nA6HKALJbZa9ub1UmLd7fa2AMoEIYofZWjTOBJIwEujmREQBbEiaBXIS0GjGbMpiVD8/juGwmrb2qfV6p9cG2JA0jMbDGIrqyHQExaolzPq8gUzSZzVMBP34cZQ7BqzWdjnWrDuUhkJPFFkjJGDYNN7uQ5ffI4Y5Ea0NMN3jcTsI6+V2Ctl+82FoAkjD5ofvKD8/QmHzITIztwRIxOeG7nEhFfPA5bhWB0RgFaa6mrBmrem47r77hrnHBxi7s4vB3m6k4lEBE3A70aG7jgExWvlaIJiEZ1QtcefRehnL+58wdf8FxofTGEjGEI+GEQ0F4XU6BIwEopOVV+9R3H2GkcqGcEk6yVkzIu5mgMwVP1gtibgWClnkMr3CHSOiQw/44PO4BYzXZb6H6GTp6aGIludKd+jk5IhugTcApKG6tihg9m7PY3W+gOmxIQz396DHiCAcDAgYgrCZdHLl4Atmq29QzA2Kc/sShnCHTqrRnhPIdIUgO8uzopamr1tN6E7A54XH5YTudVmzw2sY1+JkzoqW8DxfxiqdPAeQZoHcW5rBVmUKGzeLWJkdtxxiA8JE/OY8qAugk3P5EStazhmj5QKkkw08YSYUQdiAMHSIjbIDSQHEx9gOY3eSgy/nrAkYSkN5qBulwTjWSpMCqFIcFUPNmZAgKgzd5AIkEF8NBJcw0s0GYCgNcwMxTKcN3OjrQiEVRT7ZgUTIb1ulJlxhrBKcQBPZjABiXKqTDbojVf9RPPmmmjVj0kUCcaDtMTUBY0q90ek3rcVLIM4ZgeSfs5OvuVCZ8arRpsK1z8Mlw0j9SbSXLHusVwrzz+g3Yku671B/fI8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4Xu2Wy2sTURjFOwsJCSEhJDRMQjp0QhqalD5CaRtIa0pa0xdt2sS2WksfWNoqRAVFfKC1iyIUVFBX4s6NG1f+f0fOHe7MZKLFZiIB6YGPDPPI97vnfHOTrq4r/b9SYH3K6pgUfDkZFxC9kYBZHYIy3LCDsIbi3Z0AagbhOcL8GcgeadujtZrLyJph7A2bF9DmaC0Ae2VjEXP1j3cz5rET5B9E2wxkh2GtFONNMPLaxW62LAU/PxXh9XhEEUges5zNnWWHeXM82A63DCCCOGH2V/ULgRqbK1ibSbgFUkyQ3wFN5mRTI7IfH6ZwVh82z9nr1eGAWxhKwWQqjjFNRa4nKlYtYXaWdeQyIbNhOhrG9/NCA7C9DqrJ9gCV+jXk9ZiAYdNUdwi94YAY5rRmDTDd43UnCOvFQRb5IfkytCwFe++/ofrsHKW9B8gt3BQgiZAfasCHbDIAn+daExCB7TD1rbRt1lxJwZ23X7H06BRTt48wOtCHbEoTMBG/Fz2qrwGI0cptgWASnlG1xZ2HO1VsnHzE3L3nmB4fxkgmiZQWhxaLIuj1CBgJRCdrL9+hfPQUE7Vd4ZJ0krOmJ/xugIwV39+qiLhWSnkUcgPCHT2hQo2EEAr4BUzQZ+xDdLLy5ExEy3ulO3RydkK1OXlpKahvrwqY41vL2FouYX5qDOND/ejXE4hHIwKGIGwmndw8/YzF+muUC6Pi3sG0Ltyhk43RXkqGKwQ53FgUtT5/3WxCdyKhIAI+L9Sgz5wdPsO4VmcLZrSE5/0yVumks+MFUkyQu+sL2K/NYXetjM3FadMhNiBMIiznwVoAnVwqTpjRcs4YLRcgnXR2/AsZUARhA8LQITbKj2QEEF9jJ4zTSQ6+nDMXMJSC6lgfKqMpbFdmBVCtPCmGmjMhQewwdJMLkEDcGgguYSw3W5KCpZEk5od13BjsRSmroZjpQToWdnypIlxhrBKcQDP5nABiXHYnredakuVCYzmlmDMmXSQQB9plTK3KipdAnDMCtfnv6mVkxGuPNht3/fPgVs5YOwpzpc7pF25YcdJS53f3AAAAAElFTkSuQmCC",
     "wiki_name": "Graceful boots (Adventurer) (Inventory)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Adventurer)#Inventory",
     "equipment": null,

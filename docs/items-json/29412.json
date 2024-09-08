@@ -1,7 +1,7 @@
 {
     "id": 29412,
     "name": "Steamforge brew",
-    "last_updated": "2024-04-16",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "A dwarven delight from Cam Torum.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACX0lEQVR4Xu3V30tTYRwGcM//IN1mddnNurAuRthV9/00W2SYlYFhZrWLpZnZxjKyXMtqbAyzKWNsmC0ZG2NKGUNmtqQxXER/yRPf9/Cevb6c3Dw7zqA98PC+53B2zodz3nPW1NSIKVFQXesSBfbeXvRd6cb1zk5cam/H+ZMnWC+cPoWLZ8+wfV0dHfWAKXhyfwiPBwcxarfj3s0+DPT04MblLlZCUvuvXWWl+Z7m5p1CKXgzNsY66XbD63Lh6YNhuBwODN8ewNCtfjaO3L3DSnO+/5jVajZKwYzPh9DrV5iefIkp7wsEPR5WAk48GsWzhyNs9Did2jaB6Y5Su202s1AK5mdnsBCNsjH2bhrRt1OIBIMIBwKY9fsZMjDxXEPS3D8+zuY00h2j81haWljlK2wzCjILH7GYSGA5nWZjOh5HIhZDPBJBPBxmUEJyKG0n38+xOYGOt7VpIPnsBqPg28oK8rkc1ldX8TWbRW75M75kMviUSjFw6sM8G5eSSbafg+iNsx3YJ7xxJj029+FD+FksolQooLj+HYV8Hj/W1hiSsISkEpiD6I4Rhnpu/16tJsBUEC/BeH9tbGj9XSohu7SIuVCIvYUcQxV/z1sDajPId/SIbuULVgMyuK5qB/HH5Gy1/Fsg8Vy7DnJYDmrddZAIEWtwYW9+9jKkEkgPwx+fwa+3CuIoGVIJtBXEAIZSBlG91lbdisdQRZBJEJ7tg+QFbRJETBklQ7YC1bBOKqU2kHw2E9IAVRMVJUP+BtrB9SNGfX1ljAyqE0aNepHyn6Ve64YRI35b9Cof38h/kT85ldaKar+42AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACO0lEQVR4Xu3U30+SURwGcM//4Lpt1WU3dmFdsGZX3ffTjJbNTG2zmVlxQZqZwsiWJZEZgzEzdIzBzMgxGENXNuYwIxdj0lp/yeO+X3ZeXt9hlB2QC57t2TnvGbx89h7O29BQj5II/F2rEgFLby/6bnTiZns7rrW24vLZM9wr58/h6sULvNbR1lYNmMDTh0N4MjiIUYsFD273YaCnB7eud3AJSe3v7uLS/EBjY6VQAm/Gx7lTDgdcdjuePRqG3WrF8N0BDN3p53Hk/j0uzeX6KZNJNUpgzu2Gf/o1ZqdeYcb1Ej6nk0vAybFRPH88wqPTZtOuCUxPlNppNqtCCSzOz2EpFOIx/G4WobczCPp8CHi9mPd4GOmdfKEhae6ZmOA5jfTEFGEoAsmlj1iORrGaSPCYiEQQDYcRCQYRCQQYSkgJpevY+wWeE+h0S4tKEEXg29oaMuk0NtfX8TWVQnr1M74kk/gUjzM4/mGRx5VYjNcliE6c+cgh3YlTAhNwHD+Gn7kc8tkscpvfkc1k8GNjg5GEJSSVwBJET4ww1EuHD2pVACuAZAkm+2trS+vvfB6plWUs+P18CiWGqv++7H+gdoLcJ0+UrPEHaxokt8nW3FRbIP299h1kbTqqdd9Beoi+e0Tt3HsjpByoFKa4hXtKASRRRkg5kEKITBFEdZmaS1b/GaoepAgi8+8g4x/aeEcFKaKMkD+BKoSh1EHlUnMgSgFlhOwGqjBGpnB8jRgjqEoYfeR7ZbfWU09tZBtzLqAQFSsGnQAAAABJRU5ErkJggg==",
     "wiki_name": "Steamforge brew",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steamforge_brew",
     "equipment": null,

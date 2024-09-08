@@ -1,7 +1,7 @@
 {
     "id": 9433,
     "name": "Bolt pouch",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": false,
     "examine": "A pouch for storing crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYklEQVR4Xu2XbWsaURCFcz+EQgktoqxsJGuMaNEN7maJGqlJLVasTQiSvtAXUtrSUigUSv8/TD2zjBlvTKHN3fjFAwdhhfXxnLmzurGx1lpr2TJkX1mhDE26e5RCaa9Ehl4OD2g6iOhFP6Sn7TodtSoU1UurADP0ftKh16OEoc5OWjTuNelZt0H9uErtsExhdfsuUzN0edqlt+NDhkJKGgppnSQ1dtLYoVrgZQlm6Mv0MQMhJYFCUqjOhkKNgGpUilTMb2UBZujbRZ8+nR8tAPUa2+ykWlwAkgoxW4DyHt6jHU/Abi1DzxOfE9JAx80SGzA6JQGSlHJbm3OYeHeXbX/CPyoFGsU+DVpFOg499mA/oE7d5zm6qTak5Bzm+3nMdcECNYzKXJUM9jIgSckhDJTODurSjireDKgwSyg/qyzHQAIjIIF33z3M50nrGgzm6PLJJs+RnDKZHT3Ifv4KyL7zf+g6DIPMjv3kcG++IGUPycbGEGM5Op8bDSMgcrrCoDBfjJKOPuYV/4F7GNgG0ctQb2m9CGulnMuqDH09jZbC2CBysmSIkc6jIO+yqvR4A0jXJFD62WUvQaQTVgouqzL0Y3qwsG/E8vySE6WHWHZNVPXcV/VxvE+/XrXp50XCBiCsn1/2qZJ947gqyNCHUcizg5R+v+nM4QCFGgGMlFCbBkI6DqvSSqHwwQADhIYCKN7TQKgMs6PTse96S6W/WQRM4GABwzU5XZ2GzwllkM6V0pumYO+GTYazAfE6TMo0iINsYbQ0mPisV2XjH4c4o6pulnz7ZYB3ls7fpAFXDpOl/gCLXovhZFdyNgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACR0lEQVR4Xu2X3WsaURDFcx9CoYQWUVY2kpXNomXd4JolaqQmtVixNiFI+kHakpKUlkKhUPr/w9Qzy9jxJn3qVR/qgYOgoD/OmZnFra2NNtrIliH7nTXK0KS7TzmU9lpk6PXwkKaDlF71E3rertNxM6S0XlkHmKEPkw69HWUMdX7apHGvQS+6MfVbEbWTKiXR7ipTM3R91qWr8RFDISUNhbROsxo7i/eoFnjLBDP0efqUgZCSQCEpVGdDoUZAxWGZysWdZYAZ+nrZp5uL4wWgXrzLzqLyApBUiNkClPf4Ae15AvbPMvQy8zkhDXTSqLABo1MSIEmpsLPtEgbKgUYtnwbNMp0kHntwEFCn7vMc/a02pOQc5ttFi+uCBWqYVrkqGez7gCQlhzBQPjuoSzsNvRlQaZZQcVZZgYEERkAC76F7mNtJ8w4M5uj62TbPkWyZzI4eZL/oFOguDIPM1n5ytD8/kHKH5GJjiHEcnc+NhhEQ2a4kKM0Po6Sj1zz0H7mHgW0QfQz1ldaHsFYpuKzK0Jez9F4YG0Q2S4YY6TwJii6rytcbQLomgdLPLvsIIp0kLLmsytD36eHCvRHL80s2Sg+x3Jo08txX9Wl8QD/ftOnHZcYGIKyfX/ZWyb1xXBVk6OMo4dlBSr/edeZwgEKNAEZKqE0DIR2HVWnlUPhhgAFCQwEUn2kgVIbZcZyOFr70D5jAwQKG92S7OrHPCS0JRisHez9sMJwNiNdhVqVBK1gFjFYOJj7vRWz84xCvGMjWIuCaYf4z/QahoFEai4wQGAAAAABJRU5ErkJggg==",
     "wiki_name": "Bolt pouch",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bolt_pouch",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 14167,
     "name": "Mystic boots (light)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": true,
     "examine": "Bright magical boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xu2XzU5TURSFewYOnDjyAXgCJCYmjJzoBJlgUJEggoiIiCAiEkQQESWIiIKI2rRpEAtpmhLEShpIUxBpSFPASjQd+Cxb17ns2/vXpi2VJupOdjro+fnOWvvs09ps/+PvDkHmzFsIOmA7ZMo8QpmBOpqaJFBRQcF+Q5lhnj/sp/bGxiRARltzrqKgg7bDas7Y7fTsQR+1XW2wADLD59haQX6vlxZ9PgrMzdHSh3lyv3lNT+/3UuuVegOQNcxAZ6cFeNYhVJDljwvyc2riJQ12d9ONy3WajfQqMszYowHqu92eWyCGQQLONT5Oj7u66FpNTUog59gLae29m625BQr6/TIBBuuwEWxoqK7WAWEMvp93u8njdJJ9ZISe9PRQZ3NzroCUTUKLn1R1UE8A6r/TQfVVVTogjAO03+Mh37spmhwakkomv40Zh6CVQEAFwumxmWN0VNZFXWWlCUirEoOj+C+cKZdjjDtkGAoQ2wV1FmZnpBW9t9qotqLCEohVQnuAQtcv1dL5srK9qqQ0NKNdOPnb4WFZqBfPnaXjxcW7J08AsZoYi1uG21heWroXIP1ppVW76mAT1AaA2AajQtweoBLURFGfLinJFkioijCINmEDng28Y3ogZa4WCPPRRHEjoeaxoiO7aqYdCkyyxIlRqFwXDJNMIRwKtw29CDfyaGFhJioJCodCtLa8TKtLS7KYtYmNvC4XTQwO6hodw2AO1xvDQCEk6igroMjaZwllldhgevKVfMOMMPgeQFxzWrtnHQ6pKCzLAEjQ9+1t2trYkFAbqytq8mZz76dlgRphMH49GFSBtDCAwxw0xlMnTxjmpgxB8Z1vtLO5aQkFG1DM5gUTQGwrtwfUGyzG06FtoGnAIAT9jMdVqM1wWG7EFmJx84LmmlP71e/xgMMFuNvSYjE3rUj8uotFoxIquv5FbmS9oKIOFAQUA/Hzgn6F9mA9N83Q1oY2rRcU0l5WU1vYgMNvpuRzswheKPmCQtoLNb9GIhIMaqGerC3+46FchB+xmLyhfCEAlAcYDuM/i1QW71MYrc0rzD8RvwAm/2O0uN6POQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAklEQVR4Xu2WT09TQRTFOwsXblz5OdCYmLByoxtkg0FFgggiIiKCiNgggohog4goiKhNmwaxkKZpg1hJ06YpiDRN04qVaLrws1w985jX95e09JEmhJvcsOjMu785594ZbLaD2N/BSJ9lC0aHbEd0WUYoPVBfR0e5gPQwr56MUG97uwmQ1lajNSUFo8O2o3IuOJ308vEw9dxoMyimh7fYWkYhv59WAgEKB4MU+bxE3vfv6MWjIeq+3qopZAwzardbCyRAol+W+d+5mTfkGBig29daFIXUKgqYqaejNHyv11ogAYMEnGd6mp7199PNpqYdgdxTr7m1D+90WwsUC4V4AgzWoRBsaGtsVAFhDX5f8nrJ53aTc2KCng8Okr2z0yogqUh85ausDvoJQCP3+6i1oUEFhHWADvl8FPg4R7NjY1xJ82ksOhithsMyEE6PYq7JSd4XLfX1OiClSgIczX/5fK0VUBKQsAvqLC8ucCuG7vZQc12dIZBQCdcDFLp1tZku1dSUCoTNUhGlXTj5h/Fx3qhXLl6gU5WV24XyQEJNrMWUYRprq6tLAVKfllu1rQ6KoDcApLZBDSRUgppo6nNVVbsFYrIiAkSZsAHPBt4xfV9IQyCAsB+XKCYSap48fqxYKAnGLHFiNKroCy2MViEcCtOGuwgTeaKiohggRol4nNajUVqLRHgzKxOF/B4PzTgcBhcd43tEvwkYKIREH+0KKLX+jUMZJQrMz77lb5gWBr8DSPSc0u5Fl4srCsuKAGL0e3OTfiSTHCq5tiqnKBb8NM8bVAuD9RuxmAykhAEc9uBiPHvmdKEwCEa5rV+0lckYQsEGNLP+g3kgYau4HtBvsBhPh/oCLSgY/c3lZKhMIsELCQvxcf0H9T0n31f/1wMOA/Cgq8tgb0GBTVJm02kOld74zgsZf1BSBwoCSgCJ5wX3Fa4H471FRx7O/IOM2yvUVDY24PA/k/nePQnG7YWaP1MpDga10E/GFu95SIPwJ5vlEyoGAkBlgBGhtXYniw9in8Y/BucDp3JeexUAAAAASUVORK5CYII=",
     "wiki_name": "Mystic boots (light)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_boots_(light)",
     "equipment": null,

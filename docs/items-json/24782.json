@@ -1,7 +1,7 @@
 {
     "id": 24782,
     "name": "Raw mystery meat",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-04",
     "duplicate": false,
     "examine": "I need to cook this, though I don't know if I want to.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4XuWX3UtUURTFPQ8RgiSRECKhGBWZmIlhgmVipZhkYsqUKWaWmZiGiCIilmVZIqJG9mFmiWaJWvlRaaYiWYZIBtJD/8uKdYY7c70zTvdeZ8aHNqynGeb8WHvvdc74+PwfJeBcG1ICpQ/v4XJTHXJvVCCrohinivKQlGfZCCiBqp4HNl1I3CR18U4NThbmSqDIkBBvQQnUvHpskwJDXWm+iYyyQu8D1b3plFLDUGzh2epSHM/J9FbbBG4PPpfSwlDlnS3Iq6/yVtsEGod7pLQganHI2bbDZ1I97ZJA80gfqns7HCAUlT1qQk5tOZLzzyEyIc6TLgm0jr1Gbf9TBwi1ONSZ5UVIsKRj54FwTwDZw65+4JkDgFrq+YlOOortwTvcCWSFaB8fwP13vWgYeuEAoFVxWwMslSVyw3ZH78dmX193AFlB2B4OL11hm1zNDVXZ3SZD8XRxPg6lnkBgaLANxiSQFaRltF+utB4ItZg/2TXXkVJwHmGxB+G7xc+sO1YQbg+DTpu8esVV5zBz1YN2hZpxxwrC+TALoYirzsuVF2t4XAz8tvobdccacEZa4kpcdQ5zYnYGgvftMecOZ8UVED/TSvsdique31CN9GsFiDp2BP4B24y6w7Ku81qHGAHiqnOYmcyhEWFm3GEJPJl4u+YheoG46pcaa+XDLDYtGQFBgWbcYQl0fRl1eogrIO33uepMZg7z3pgos+6wBHpnPzocYFRXW27Jt098Vtp6rwmB/q+TMnuYxEbB2CrODt1h9kTEx67HHZbA4LdpvJwZR8fEkA2MefQvOG4V15wwystQHYTak3SWwKef3zGyOIeB+SndYAxAOqMAKbf6Ot1hCcz/XsbUr0V8WJrH8MIM+uYm0D09tgqM95kCxzbRHUJxs9iquPSUVauuPcVgCSz8WcHsyhIml3/Y3OKwd35+L3NKC8a/O0rusFW8JkwG4Vplf3zRJQ46gRgJdEqB4luIYHSHqaxulRvatbrsP2aH41tIeZTxBaC0TLnR2So1iNtgtOUMrqKrVTpT0n5XtsojrugpZ3BecUVPqSHcCfIXf4BAumMej4gAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4XuWX3UtUURTFPQ8RgiSRECIxYFRkYiWGCZaJlWKSiSmWKWaWmZiGiDIMYllTloiokX2YWaKZolZ+VJqpSJYhkoH00P+yYp3Lnbne0WnmjjPz0Ib1NBfOj733WudMQMD/UQJryy8lUP7oPq401iH/ZhWyq0pxuqQAyQU5/oASqOl+aNPFpE1Sl+5acKo439dAApbXT2xSYairTbeQWVHse6C6/g4pLQzFEZ4zl+NEXpavoATuDL6Q0sNQlR3NKKiv8dXYBBqGu6X0IFpxyTm2I2fTvA0l0DTSC3NPuwOEqorHjcirrURK4XkcSIz3JpBAy9gb1PY9c4DQikudVVmCxJwM7DwY6Q0ge9jVDzx3ANBKuz8xycew3bRjI4EUiLbxATx41wPr0EsHAL1KW63IqS6TDtsdsx+bAwM3AkgB4Xi4vOwKx+Rsb6jqrlYZimdKC3E47SRCw02ewiggzaN90tKuQGjF/Mm13EBq0QVExB1C4JYgo0AKCN3DoNMnr6ui1bnMtHrYrnAjMAoI98MohCpanZcrL9bI+FgEbQ12F0gJOHdG4ky0Opc5KTcTpn173IVhKbviDIi/6aX/hqLVC61mZFwvQvTxowgO2WYMiHZe7xB3gGh1LjOTOTwqwggMS+DpxNt1D3EViFa/3FArH2Zx6SkICQs1DtT5ZXTNQ5wB6b+n1ZnMXOa9sdFGYVgCPbMfHQ5wV9eab8u3T0J2uqfXhEDf10mZPUxid8E4Ku4Ou8PsiUqI8wSGJTD4bRqvZsbRPjFkA2Me/QuOrqLNCaO+DA0GobYEPv38jpHFOQzMT7kMxgBkZ1Qg9Vb3EIYlMP97GVO/FvFhaR7DCzPonZtA1/TYKjDeZyocx8TuEIrO4qjiM1I9sbq+BBb+rGB2ZQmTyz9s3eKyd3x+L3NKD8a/O2rucFS8JgwG4Xql3GcUu8RFJxAjgZ1SofgWIhi7w1RePaoNg9GXHY5vIfVRxheAOjL1RueovAiyVtnhqjpbZGfK2u7JUXm5K66UHc7PIN6vv/2Z+mxHt7lGAAAAAElFTkSuQmCC",
     "wiki_name": "Raw mystery meat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_mystery_meat",
     "equipment": null,

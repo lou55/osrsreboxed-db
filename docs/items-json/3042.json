@@ -1,7 +1,7 @@
 {
     "id": 3042,
     "name": "Magic potion(3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-07",
     "duplicate": false,
     "examine": "3 doses of Magic potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xt2X7U9SYRjGe1z/QJ9ac5WtaaltQuNNQCUVBBGUzPlKpCjimAhDQtSZzVyaZTVzOV2t1TK3lvhS9r76z668HzwHzskvbXDYurbrAwcOz4/7uu/nPJw48X+IQeqCimGo+yI6nOdgNZ/B1SunCg3FsLlixpsnJu7oYDl6PRcKCcVEmBdLBoT7L6HLfZ4DqUpKlIZK94wAtLGgR+hmGY+vAP3E4HK3w+PpFKuzek+LYF8prtvPQqczwWi6piQUQ0+P7y+3uNphtblQZ7FBpdIqGd3hdAWC3IHAiOhmpwcNjc3Qao0oLStXFigSjYkOhyMIhcKwO1pRbbSgorIKxcXpXlIIiMTwdnMLu7t7SKV2sL29w+NSq3ViUxOMokB+/zASiQlMTk5xU1waTXUhYEgMo6NjSCaTR55Eo9UJvb5G6agEMSQmkhI32d1iDyk48iSGAX8AsVgc4+NxxOO3eXS0N9U3OCSxye/MkxiCwRDGxqLipHm9/ejq9nKomtoG5YF+rsyL/rqYxMHdCPaTAaSifVjttiFmTW+M8jvzIIaDuZgE6NvSNL+2PzXCgdZ6bUg0GZSoEsNOfEACQ/7+aAaf5+Mi0HqvHdNOI0IWdb6rxPDlfkIK9GwBPx7PcqCPMyGkxn146WvGrMuMhF2fzyoxviAByE1ABPrpTpgDvbrlxHxbLeI2PQK1qnxUiWF7tJM3rxyGAz2d4+8REEX6eqAFi+0WSWw5rtLx1fn1/AG32NiHk0ZA7wZdWO6o57FFGjUYrsnpRsl4o1IFBAC5CU4A2ksMYmvIjZUuqyS2k0VFuYJiPAo5hByIJo1Gn4DeD7fxSaPYkg4Dj61HV5Gr6Bj/9XKI32sPRdNrAYg2xw+hG3zSKLaZFhOPzWeoRKuqNHdVygY4zsLoExANADW2ENtInRr1lzMHtpxUSdhzsptZBFpfzgAdbY4bXgdvar+5CtqS07mEEZQ+BdLCNOZyQLpGexFNI/UPRdWpSZ+r8wCTVvoLhf9cTAp29JDNfo5lg+QcJluZBTJwcisCcpyyF5Zb/tl/1R8odTnr8MWFwQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xt3WbU9SYRgHcG/XF+hVa66nNS21TWg8CaikgiCCkjkfiRRFHBNhSIg6s5lLs6xmLqertVrq1hIfyp5X3+xf1x3n6Dn6Es7ZvLb/C2Dj/DjXdd2HgoKTUQzSqFoMA52X0eY+D7v1LK5fO602imF9yYp3zyw88f5SdPsuqYliIubVggnR3ivo8F5QC/R/ZgTQ2pwRkdslvH0qzBODx9sKn69dvDvLD/QI9xTjpvMcDAYLzJYbSqIYuroCR9LkaYXd4UGNzQGNRq8saCAU5gmFhsQ0un2oq2+EXm9GcUmpsqBYPCEmGo0hEonC6WpGpdmGsvIKFBUJs6RYMbxf38TOzi4ymW1sbW3zdmm1BjWGmoohGBxEKjWG8fEJHmqXTlepBoaKYXh4BOl0Optx1NvdMBqr1AOlxtKSNDi94gwpjGLoC4aQSCQxOppEMnmXt47Opto6lxptYwiHIxgZiYub5vf3oqPTz1FV1XXKg34tzYr5Np/G/v0Y9tIhZOI9WO50IGFX7GBk2J9JSEDfFyb5e3sTQxy00u1AqsGkBIhhO9knwVB+PJnCl9mkCFrtdmLSbUbEps03iuHrw5QU9GIOP59Oc9CnqQgyowG8DjRi2mNFymnMJ4jxCxJAHgIR9PO9KAe9uePGbEs1kg4jQtWafKAYtobb+fDKMRz0fIZ/RiBq6du+Jsy32vLZtuPvzu+Xj3jEwf63aQTa6Pdgsa2Wty1Wr8NgVU4PSsYHle6AAJCHcAJoN9WPzQEvljrskradKizMFYrxVsgRchBtGq0+gT4MtvBNo7alXSbeti5DWe5A9OvliD8rj8XQawFEh+PHyC2+adS2qSYLb1vAVI5mTXHuUIcBx0VYfQLRAtBgC20bqtGi9mpO/7BlHxWyYRZBq4sHoOzhuOZ38aEOWiugv3gmlxih6AsZvzCtuRxI79FZRNtI80OtatcJ/6tzjjlcwgWYFJZ9yEqfY3mFHFcHuKM5gfUXSk0E4PWDGrwAAAAASUVORK5CYII=",
     "wiki_name": "Magic potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_potion#3_dose",
     "equipment": null,

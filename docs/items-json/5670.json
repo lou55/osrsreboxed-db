@@ -1,7 +1,7 @@
 {
     "id": 5670,
     "name": "Bronze dagger(p+)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": false,
     "examine": "This dagger is poisoned.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4Xu3VQStEURQH8Ht7vV7zEkkpKTNMLCim2dhYWFBmY2tLmZUkK1aSRJKIrDSSLBTZKaIslO+gLOSL/Ln3dOfd98bWOW/hX7fpvVncX+ecd69Sfx6N7BuhGIjGXD20v9l/GZNA3DLPlVJJApWGCIM0apUBu3IFqpY77RIGpTH+Knao/IB8DCMoVxiT30G5wgjNjUkr6L9VSVpBzBj/gmzFMM+NxuFBwW7oVhbEXp31tciiGmcEE8SYaCzMh9jciHB8RKib61gKY6IxPRWgvhhie4tQF+cF3N3GeLiPvVay5mduZgIsL4XY3YlwepKgnh5jvL22caM0hnsUxvsDrK5ETdTVJaE+3gnE1DqNYpdCtS/A5FBgNzZDvr9HKNcyxlmi6kyUCUObJkeAg7BhBrupOrOjPkgpZoiLxlhvgNpIgmEG+KHquLkRxpho+xV9fbanWiUUwrw808EnXB1trwlzRbiTWBDjoptnjHB1/OQKQ+HGfAMrtW+VcXVQgAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABW0lEQVR4Xu3VQStFQRQH8DlNt9u7iaSUlBcvFhR6GxsLC8rb2NpS3kqSFStJIklEViLJQnm9nSLKQvkOykK+yJ+Z47rz7rM1Zxb+dbo1s5hfZ+bOKPXnIeRHhGIghNlqZL/5WY/JIGkJghohwiBCZbTPVlCgcqndljCoEeNWsU2FA/rHcH4HBYUJqjtBYQS3yqQZ5BnjLtaM8bxVhIP9wveCXHmQR4wJYW01tqizU4YJYkwI83MRNtZjHB0y6uY6kcKYEKYmNaoLEbY2GXVxXkC9luDuNnG20mu+zs20xtJihJ3tGCfHGerhPsHLc4tvFGGwS2GsV2NlOf5BXV0y6u3VK4hQ7FAo92hMDGi7sDnke7uMEtgy7s54iTHpmADEhNDfyd2ZGXZBYiGMdGtUhgLBmO6k5yY/KxCyf9HHe2sIIMY8PaYXn2jIPhPmichuYvGQc8cEk6AwMvkEXcEpVhrth1UAAAAASUVORK5CYII=",
     "wiki_name": "Bronze dagger (Poison+)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_dagger#Poison+",
     "equipment": {

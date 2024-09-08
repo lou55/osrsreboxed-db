@@ -1,7 +1,7 @@
 {
     "id": 4304,
     "name": "Ham cloak",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-22",
     "duplicate": false,
     "examine": "A HAM cape.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbklEQVR4Xt2XsUpDQRBFs8gSLPMHqYNIEJH4ExYBCwsLCwsLC7/C0k9emSx3577Z1UZnVrww7L4kvDm5d/aFrFb/X6n0NU2pPOWrriZBpfK2vu3cec7Xp3W/3UZDpfKaD615BUjlJd/MAErlMe9bc41IXQsEqnMjQCjMDcMEASkMr3agg2BEvTsP+bKDCQJaHvH3zboVIAPdURhpfHZ3aDCyl9eDT1c9Vd+5Ewi0hAGAzI48BG1czkA9DJwBUKA7FcYCyfUEoCUMVhngj815K3zG+fdLYaxDAoSCOwzjBiRxWCB2w167usNPXnYHzfG+hXEASuU+XzQAaczN2Z1RXPZuvyB1R5pxbIDjuGTvCKTuMIDdI0LrjhsQO2L3iHIEZO/2Q1WYY941NwDHMBwnwJyARKkBCQyD8YBzbI5xQfrPATAoBoJLju6o9BvXGAGDFQ4FuDNSdWvkUog7I8EtjnIqEMRRTorra/0pGA99AvtcA6vQlm3YAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQ0lEQVR4Xu3VsWpCQRAFUJewiOX7DZEgEsLLT6QQLCwsUqRIkcKvSOknb7gud999u8FuZ0QyMLzVCHO4s8bF4vErpLbdKqSPuGvaCRXSefnWpPMZX/xA33Gshof0FV89QCGd4laGE6CpmVW+NwCxeW9cMfp0vNBtOsf47Ith/wzL0kQagiYMBj+9jwWDM943/nblb9WtdAxBcwwBuDv4J2i8rhbDZAgyTCdjahBeO4DmGD5xgS/DqjQ/0/n3a8LUCQHEZjqdMahwXUcN0jTq1x1BGaP3Rc8Yzr+bYA5xUwAYrMM1HaN1TelgmK6NOF0Xzh1BUzoKqM9coUk6AGki9ZmrNABlzD6uSxrEKUbXSVgnECoUEDAK0wuua+uIYWFAbmLYCmJKBiCtvEZi+GRCxhhWTuuvlJxArPkq7wCkRdx/2dUv/pLDGRLhS04AAAAASUVORK5CYII=",
     "wiki_name": "Ham cloak",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ham_cloak",
     "equipment": {

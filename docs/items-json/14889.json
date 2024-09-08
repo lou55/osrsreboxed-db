@@ -1,7 +1,7 @@
 {
     "id": 14889,
     "name": "Watchtower teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A teleport to the Yanille Watchtower.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfklEQVR4Xu3X2U4UQRQGYPreG98AQsAghsWwBhEIIrKEfRFZhREREEQkkxBCuPA9CK/ECx3yF/k7Z850T1d1z42JlfyZnqnqro9T1dNDQ8P/VqhFUp/UpUUyPjwso0NDLu8HBuRdX5/LYE+PS393t/R2dbq87ehw6WxvlzdtbS6vW1td6oCK5OPIiHwaG40z/WHcBcfoQwAmGmCigSUSsFfNzUVQUTyxhiCzExMu85OTcfCe4zUOMFSwICqSxampeIJakBcvH+NoGCsHmEZh6VqamkJQkXxeWIhBGqIxGmJDGJdVo7C3AlHJoDQIxulYGKtFFPYUUAR1NTZmoSpBaRgLsdFjicKewkbH0uUC6WVKgthq2X6Owfnc7Fw6bm4v0OrcXAxKwmQBdB+PcS0uHaoUBGKF9FLZCS3Exp6j9xOqlBtkAT4YjrNV4tIBxG9uL9CXpcWqi1pM+f6hCmH77LkIlg6bOxiUVR0NSju25/B6waCtlWVZnpnxAqW92vG8Fv5QgPAYCQLxTtMoC8Tktjq1QHgFCHdaMAgbO6tKtWLPKQTaWVt1+8inSmmxIB5jUwOEx4c3aG99PbNK9rO0PjsuF2h/Y6NmlZImT+rnGP0+F6i0uVlVJQuwE9ukjcW3NUB4wHqDDre3q6oEFGF6wiSI/cyCcNsHgX7s7lZUCShUCgEuCegbgvC7yBt08f2wokoIYMQVAeJZBhB+gniD/pbLcv6t5KoEFIJqIUWB/FlLjAcILZK7P5cO9fNgX06+7rlgKRFUDwGY6BBwIIbtGXX7+0Jufp3L9dmZlE9PXa6Oj+Xy6MgtLdAh8JwYNvuvcPEUwDw3XqCesXP8E+0JJ3dlkT+Z4PwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACY0lEQVR4Xu3W107DMBQGYHzPDY+AECCGWGKKVcSmqOy9yt4bVAkhxAXvgXglXuig3+hEh9OktZNcYulX08aOvx47TSsq/luiZiidpNIMjQ4OUqa/32aot5cGurtt+jo7bXra26mrrdWmo6XFprWpiZobGmwa6+psUkAZmhgepqmRTJCZsVEbHOMcAjCjAWY0sIwErL6mJgnKBBNLCDI7Pm4zNzkZBO+5v8QBhgomRBlamJ4OJigFqaz6DiJhXDnAJApLV1td7YMytD4/H4AkRGIkRIdhvKwShb3liQoHRUHQT0bDuFqMwp4CKjYoCqMhOrIvo7CnsNGxdLFAcpnCILpa+jz3wXje7Lx0Hpvb0EouF4DCMOUA8hwf41q8dKiSF4grJJdKT6ghOnqM3E+oUmyQBrhguJ+uEi8dQB6/3IY2FxeKLqoxhc+vIoQ+p8ciWDpsbm9QuepIUNSxHsPX8wZtLy/RUjbrBIp61f35WviiAOEx4gXiO02iNBCT6+qUAuEVINxp3iBs7HJVKhU9JhFod3XF7iOXKkVFg/gYmxogPD6cQfm1tbJV0p9FndP9YoEONjZKVils8rDz3Ee+jwU62toqqpIG6Il1ovri1xogPGCdQSc7O0VVAophcsIwiP5Mg3Dbe4HO9/b+VAkoVAoBLgzoGgbhf5Ez6P705E+VEMAYlwSIZxlA+AviDPooFOj2+MhWCSgE1UKSAvlvrSOGm6H3p0eLuj48oMv9vA2WEkH1EIAZ7QP2xHD7Rb093NPr3S293NxQ4erK5vnigh7PzuzSAu0Dj4nhhsFp57+l034AuzkiMP2qXnEAAAAASUVORK5CYII=",
     "wiki_name": "Watchtower teleport (tablet)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Watchtower_teleport_(tablet)",
     "equipment": null,

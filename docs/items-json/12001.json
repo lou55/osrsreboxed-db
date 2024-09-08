@@ -1,7 +1,7 @@
 {
     "id": 12001,
     "name": "Mystic smoke staff",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-04-10",
     "duplicate": true,
     "examine": "It gives a 10% accuracy and damage bonus for spells on the standard spellbook.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xs2WbUtUURDHdz+B4GsRTSKEkOyFCWYEBkKwavRgVBQVxW7EQhSFSEulSFkIYg8UKBhirpUQREVR1IfYV73YN32DPsDE/1z+1znTWd3r3sKB4dx7zpyd352ZM2czme0vWQlraP2fS1Yejh+VB2NHnE7dGpHJG8NOCbE0e14WZ87JwqOzASj7EQ2DR0CEAhDVwsxPn5FnU6c8x3jHmlUfKhFkVmZuH/sLCiNAqAR6MnlSZu+ccLYYNSBhYK+hv66Oy+fl61uDIhCeGR0Cvbh/2gHRFkDYu6ujwymhsO/Lyph8X7srP9YmHBDW9rS1ObXejURh51cTCE5DQHP3RmMg7N3b1SXHh4Ykl8tJPp93c8tzFzwgPBPIejeS9dIARyxuvFsggAOI6cX+A729bqxWq1Iul+M0pQbEKGEuBMRIEmi0pcWNlUpFhgcH3fO+7m43AgiaCIh1YYHg3ALpgsbeX8Wi/C6VZGd7u+zv6XFzB/v6vAg5oFc3GwfCPIAIxUjCBvteNzfH6Tl8aEB2tLa6ehro708fCAoADRQqaLxjnmDUD4tXY6Bvb0oxTGIgDcXja4EIDDsC6YYI248vi0Eg672GRF+FH98IiAUNWw2ESFqgT0vXtgoU9SBEaDMg2MAeBYwRdpizQLDXQLopWu9GoiMfAoJqIF0fPNIhIICnCkQoKByg4zIquBp2d3Z6KcM+m67UgHSUMMIBbHhHUQlTC2jl8cUYCF2aMHUB4YSEgHiDs14Arjt0LSBEZ/XpJS9CdUYHsg6k08ZIoNFhhBPYbQbEdL19fjk9IMxNNzXFdxJqCE6wztNHIEbSAr2bL3hAhLLeAxIB6bRhDq2fJykpEOzfL1yJgdCDEvQhH4h187NQcCMdsAfZdFkggDcMhGINpQ1zBIIze2UQiNcG05UakD1tmNdAtqDZq7CPtgDCkddA6EGJ+5BNmwUKHXkNpOsnFaBQ2jQQ1kIFDeW1wXQ1CATx/8fUUls/VAuEpqiBqAmAMhm29Y3UAmrV9ZMKUL1iIeuBpa7b/iexkCG1e7a1/AG7i5Su9vJWhwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu3VXUtUQRzHcffSNyGYRAgh2IUKZgQGLl1oz0VFUVFsGUEWLSItPYj0hCD2QIGCIbZICcFSURR105voYi+kV9ALmPjO4XeYMzu6e3ZP0UUDf2Z3dmbnc2b+M6et7d8vOROO0O9/vOTMw6mD5v7kfhszxX1m+vqYDSGW586YpdnTZvHRqQDKf4iW4RFIKEAKH7Pw4KR5NnM8MTHf+c2PJCoVMmdmbx6qQVEDUQj0ZPqYmbt1xPaldoHC0N9Ff16dMh9XrjWHEojPWh2BXtw7YUHqC4ix27q6bAjFuE/lSfN17bb5tnbXglJheEo9tUBMGgLN3zkagxi7o6fHHB4dNfl83hQKBdu2Mn82AeJzg6BcYhuYSMnNdx8EHJC2l/G7BgZsXa1WTaVSibcpM5BWibYQSCsp0IH2dluvr6+bsZER+7m/t9fWgIhUIOWFD2JyH+QmNGN/FovmV6lktnZ2mp19fbZt9+BgYoUs6NWN1kG0AxJKK0kfxn0fH4+3Z++eYbOlo8Pm0/DQUPYgAoALCiU032kXTPFu6XIM+vK61CiGkgS5KB1fHyQw/QRyL0T6vn95pVkQJXoq/nwzkBKavi6IlfRBH5avNguK7iBWqB6IPvQnganpR5sPor8LSnEpRkc+BCJckJsfOtIhEPBMQUIRTMCNq1Xh1bC9uzuxZYzztyszkLtK1ExAH72jFMJsBCo/PheDuKUbxFCiExYC6Q2ufAHu3tAbgVid1afnEyvUFMjdNq0EFx01k9CvHkjb9eb5hexAtJX7++N3EjnEJPyu0yeQVtIHvV24mAClQEUgd9to4+rXSUoLon9l8VIM4g5KcQ8lQcqbHxMTttYEuoP87fJBwFsGkayhbaNNICbzXxkC6bWh7coM5J822l2Qn9C6qxinvoA48i6IOyj1PeRvmw8KHXkX5OZPJqDQtrkgfgslNKHXhrarRRAlunPqhZ8/Ch/EpeiCFClAjZZapMLNn78I2qzUImvjf2mt/AZKaUuTE0brkwAAAABJRU5ErkJggg==",
     "wiki_name": "Mystic smoke staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_smoke_staff",
     "equipment": null,

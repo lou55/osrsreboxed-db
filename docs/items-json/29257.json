@@ -1,7 +1,7 @@
 {
     "id": 29257,
     "name": "Perfected quetzal whistle blueprint",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "A perfected blueprint for a quetzal whistle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xs3XYUsUQRgH8LtvIvUi0iiL/ABB9CYoKzG55CxLpQhBklKOJOs4skQ5LosKBcPskDSCsCiKfBF+rOn+s/7nnnmcu27dNRx42L3duZufzzMzu2YyB79lTThC9/e9Zc3zwhUzM3nJRulBtymOX7RBxEr5hlmeGzBLs/kASv8RieERiCiAGBqz+KzfvCrlvIHxGfd0+KhYyKyZe9izC4UjIAyCFop9pvyo1/bFMQRCf4n+uVYw31fv7Q1FEM6ZHYLePL1mQezbCITv/ahOmt8b02Zr44kFYYzOtjYbenTVorTzryYIg4ZAlcdXHQjnIdBqZdAD4ZwgPbpqWa8MGIiTG59l2jEQBgeC5W0EWns5lB6IWcK9jssTpr173AZhzCRByJoGrb8ediBELBDnRRDUU7CoEKwZ6NPbER/04X4yEK4f75uOQLXYep8z25vz7jOAhIVAnxdv7w8IEBk2WwKFI2HEYAFsLt91oF8fpxwmNogoXD/WOxUEIVO4h2AWcU4YQF/fjQZBevQGLfohzAeuLAykQSwZzgkiiv1xxPe/rYztFRTtQciQBOHHWRYJIoqY7fURG0SdyBXN6VsV+xsEyU1Rj65atOQlCNfwg1xZBE0MdnggiZIwRGd/KV1Q1/CCg8gMySgXzu5C/anmbRy9MOZWYSIQMbJc3qoKZEYG96oj50ddhrBLE9MSCCuMIKIYmBMYQGP0pJblQv/D54a8krWYHbQ6SE9sXCeM2dIZQXlcdnb6AHToTPTqkQqIKFzHfoKntswYB/dKVfuM7LDE6CuXPVF69ECLQLpsGoRXENyX5eSccdnZyRDnD0HYg2LsQz5Ilk2CcMR1PuG5kyNO5mfq86wGwgpLBMIq+xcIzyf5DgQQQr4vnbo+6xZBKiBdNlyXIPkORAwnP/rKcn5ZuuNA2INi70OhskkQzpuB+IRH3+qLm8lBobJJEO7J/0okCP0AwsRPAYRWT3Wz0POHoUF4l5YgRgxQJsNtvVlooAxkEiBkJxVQq00jW8Ey6n3/U9PIUOjvHOj2F16MdjWUUQKWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xu3Xb0sUURTHcfet1IMoo3/UCwiiJ0FZiYnJVpZKEYIkpSxJ1rJoibGYRYWCYSaSRhAWRZEPwpd18zvjbzxz97rt7K7Rgy4c5t/dmY/n3HtnbGn591vOhSN0fddbzj0pXHQTI+ejKN1rc8Whc1EIsVC+5uanrri5yXwA5f8RDcNjkFCAFD5m9nG3e1HqSj2YY675kUZlQubc1P32ChRbIAqBZoqdrvygI+rLNgSiv0V/Xy64r4t36kMJxL6yI9Cr8csRSH13AvG7b0sj7ufqmFtffRSBMmG4qf5qgXhoCDT98FICYj8EWpzuSYHYrxGUS5WBB2lwc2zTzoN4OAiVdyfQ8vPe5oGUJa61Xhh2B9qGohBMmRSIrPmglZd9CYjIBNK4CILaCxEqBKsG+vC6Pw16d7cxEOcPdY7FoM1Yf9vlNtaeJscABQuBPs7e3B0QEBtRtgyKrWDCMAHW5m8noB/vR2vF0NIgoTh/sGM0CCJTXCOURfYFA/T5zUC9IFp8I8aDZhYP8kEqGfsCCaX+bPn9l4XBekHxGkSGLIibqywWJJQwGyv9UQh1uKvojt+Yju4hUIZFMZ7yFsQ5bqiZJdBwT2sKZFEWRhzpLjUXdKJvJoHYDNkoF05VoH4t5aPYf3YwmYUNgYSx5UrNqkBmbGit2ndmIMkQq3SNGFo8wwQSSsGY4AE+xh/Utlz033u6N1WyukD+wOa8YMqWnxHKk2Rnqw+gPSfjT4+mgITiPOsJb22bMT08VarNY7KjEtPXTvsMqBjkl80H8QnCdVtOjZkkO1sZ0vgRiDUowzqUBtmyWRBbzusNr5WcOJqf2B5nmyBmWEMgZtmfQLyf7DcQIMJ+Lx27OplMgqaA/LJx3oLsN5AwGvz0teX8NHcrAbEGZV6HQmWzIPargfSGp+/Ss+uNg0JlsyCu2f9KLIh+gBj4TQDRtlNdLfzxo/BBfEtbkCIDqNZWiVSQSUBk5y+CqrVKZGX8b4213xSIK6lmCz4uAAAAAElFTkSuQmCC",
     "wiki_name": "Perfected quetzal whistle blueprint",
     "wiki_url": "https://oldschool.runescape.wiki/w/Perfected_quetzal_whistle_blueprint",
     "equipment": null,

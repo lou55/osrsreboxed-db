@@ -1,7 +1,7 @@
 {
     "id": 8080,
     "name": "Bells",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSklEQVR4Xs2XW0sbQRTHM1+gIr5VEK0PYiNqxJIEjURiSE0LXrHxQjTeCoIoUou0RZS2Qi8IYsVSsE+llIL44vc7cnYyOztnV9zZk6B/OGQ5O/M7/7Ob3dmJxeouATRjKTbAIwHlQhdopjWbDSASUByKV3kCZnNPPexQEjCafBIAiB7p+GPYGE/AybsZyHQ3O7ne1laglW+RgF8f5+F4bxr25lIO4NPWGBztjMOXNxPw7e2UAz798ArO9ktwfjDnjL/4vAC/j8rw52sF/n5fhn/HK/D/ZA0uT9fh6sdruP654RiJZAg7wt/DyqALsI2e9gb3WPEwWIbeL6QNQNiom6HdUjIKIIbj422Pam9oe/oZASCUKjjX1dnpM8E2hE+GF6aL6LHZgYEAowLGCgV33ky2wz3O9rbYG1ImVl/0GIaGUikC04W9ueJIjuQFbE72wXxevo/0fy2U5K1CQGW02+0IC6irQQ01NTZWTcucMpTu73ebwVdIBDNKGqACC+QyGaPI8+GsrzDmXubzzli8ouqc1xCtFkKmIdUxFsOrpIqoPBZPJhJGAzRqZkg/XWYE5dXtoOHnWcsPoEVuy5scJT/PUmwAEZvHBhCxeWwAkVwXGTw2gIjNYwOI2Dw2gIjNYwOI2Dw2gEjA/iJdB61US0PSzM7SCGyVcw5TRmjJCcyOqpIctYvBrwc0VSqqxfhOyU8P3EUwOiLSax3uQnZX8m6jdzQrnO0KbncUIEJHgdLFzUWYjguQuZJbdhRK1hxzgnVH9deDMnNfugEor3kCQOR9igAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4Xu2X/StDYRTH9/wDJL9RCj+ICRNti2maNUZ5jXlpzGspkZCQyEt5SQmR4idJSn7x/x2d++y59+7sYs894yefejLHcz/ne662u8fj+XUE0IombIENAclYLVhObTdbQBAQb/OmfQJGIzU2d04I6PJXOAjcr6C3BBb7fHC5NQyhutJ0PWcE3B+Mw8XmEGyOBQzB4XIvHK/2wclaP5xtDBriq50RuNlNwO3emLH/4WgCHo+T8HSagufzaXi5mIHXyzl4u5qH9+sF+LhbNIK4CoQT4c/9VKtNoLfqKwvN18qHixVoeyLoRuD5tUDrCb8bgQf3e8sL8h9oZaiZCJxEzrXa6mqHEMxA+M6wy6wm1t5wS4tDAwG9sZh53XC4ynwdbihz2P8t1hSz3fUZgdoCgaxAVmOrFu+IkLqApYFGGI+qzyMt5L8KBamuOnMibJB9N2S9uKgoo7kKFGxqMofBjxAXYRR2gVzYIBIKZTTpbA9nNcZaTzRq7MU7qv6W10BqYmyGd0k1UXVs7vf5MgagK4+B5O/Zy6n+FdSnDVtAYPvYAgLbxxYQ2D62gCCfiwwfW0Bg+9gCAtvHFhDYPraAwPaxBQQBu5P0OahFPgPJMKtTHbCcjKSdWl55AXOiNNKjTjH47QFDJeLqYfwj8qsHniIYExHU9cI4hazPRHP1CeO4gscdJXAx0Q9oD2e/QHuiv0B7on/+hE/vM/8YcPEoZwAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

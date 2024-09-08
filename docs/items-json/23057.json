@@ -1,7 +1,7 @@
 {
     "id": 23057,
     "name": "Mystic gloves (dusk)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-11",
     "duplicate": true,
     "examine": "Dusky magical gloves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4Xs3V+0sUURQH8N0fQowwliSwX5LC+qHIfrEHVAT2gFjIMEysDHsnFfY0kx7WtmjGglj2QsESEysjiIyiqL/sxPcO3/HM8a7uulN44TBzZ+7M/cx9nEkkFn9Jij989/95SUp/d6P0dR1yke1skMz1gy6IGBtok9HcCRl50upB2Y8oGR6AiAKIYTHDj4/J82xLpGPUcc9GFFUUMim5O4dnoXAEhEHQs0yzDNxvcm1x9IHQXqN/TnbL9/FrC0MRhHOODkGveo86ENvmA+G5HxNd8nuqR/5MPXQg9LG5utqF7d2UYNj51QShUx9o8MGREIRzH2h88GQEhHOCbO+mJCPTgI64uFG3IHQOBKc3H2hy6Ex8II4SrvlAHEmCMGoW9PHl2RCEKArEdWFB6NyC9IKeC/Tp9bko6N3N0kB6hyAAwkiyPh/o8/CF+EC4trp+l6zaXicrazdIqmZNCKmoKJfy8rIQ5QMB/3X0Ygj69eFuiCkahHp97pFsu9UhtaePy9r0fgerqkpJZeVySaWWORTaAZ8PNP3mshdke89Tgq/Hy3Fsmn4vu3vvyZar7bKprUVqGg6EI8TA6BCEqbSgb2NXFgoKchBGCC/nKO0b6pedmduy9cYlN1LrGtPuul7QAOE5gjRYg3RStL2bEmx5C+I6sqEztAXhPqYSsaRsqavHAiIKga9GxsXWx7nO0BrE0eH64horGaRHCUcNQjudoYEhCO/Rix51ThmyNDEFgbBDfCD+DjTIrh8fCOf4beg1VODooMyA7DriViYIdR8I79jY2uzy1or1Na6O30ZsIKJwHduXINy36wfP7x3sk7qO8+EuRFtkaQ0iyvbuKQHIN22FgtJvX8iOnk6Xr1BH+y8j7SEIOaiIPBQF6WnTIBxx3U4Xc9aegawbpVhAWKzzgbjlfSC0C6YjmK7YQHbacF2D7IJmrsJzbAvQxNNTERByUNF5yDdtGuTb8hrE/xfaxgLyTZsG4Z5d0AShHUCcrhJBKLP/Wb6w64dhQUiKGsQoApRIMK3PFRaoQ6+fWECFFossBMuYafufikX6wj6zqMtfQGuNCvFVaw0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4Xu3V+0sUURQHcPeHkI0wliSwX4Ji64cif7IHVAT2gFjIMEysDHsrFfY0kx7WtmjGwrJlLxQsMbEygsgoivrLTnzv8B3O3L3rzuxO0Q9dOMzcmbszn7333DN1df9+S4g7XPf/eEvI2FC7jA4eNJEbaJPs1QMmiJgu9MhU/rhMPup2oOw/UTPcAxEFEMPGTDw8Kk9zXYEXo497dgRRkZAJyd86VILCERAGQU+ynVK422HG4ugCYbxGf58bkq8zV6pDEYRzzg5BL0aOGBDHlgPhd99mB+Xn/LD8mr9vQJEweCj/NUF4qQtUvHfYB+HcBZopngiAcB4SlAgsA17E5EbfBuHlQHB5y4Hmxk/HB+Is4ZoLxJkkCLNmg94/P+ODEJFAzAsbhJfbIJ3Qi4E+vDwbBL25XhtI7xAEQJhJ9iuBPk70xgfCtdWtO2XVthZZ2bxBUuk1PqShISnJZL2PcoGA/zx13gf9eHc7LAYtCEK/Nf9Att7ol+ZTx2RtZp+BNTWlpLFxuaRSywwK44AvB1p4dbFaEJr37/FwHDsW3squkTuy+XKfbOrpknTbfn+GGJgdgrCUNujL9KVqQV4Nwgzh4ZylveNjsiN7U7Zcu2Bmal17xlzXCQ0QfkeQBmtQhKLobXkbxDyyQ1doG4T7WErEkvqlph8LiCgE/jUqLrY+znWF1iDODvOLOVYzSM8SjhqEcbpCA0MQnqOTHn0uGap0SAyat8NcIH4ONMjOHxcI5/hs6ByqCmTnEbcyQei7QHjGxu5OU7dWrE+bPj4bsYGIwnVsX4Jw384f/H5PcVRa+s/5uxBjUaU1KALKA7mWLSwo8/qZbB8eMPUKfYz/NNnng1CDItShIEgvmwbhiOv2crFm7S7kzCzFAkKyVgJxy7tAGOe9zFuu2ED2suG6BtkJzVqF33EsQLOPTwZAqEGR65Br2TTIteU1iN8vjI0F5Fo2DcI9O6EJwjiAuFw1gtC89a8Udv4wbBCKogYxIoDCtlIkQ+fPXwQt1kqRpfG/1dZ+A/ZYQn5RPajrAAAAAElFTkSuQmCC",
     "wiki_name": "Mystic gloves (dusk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_gloves_(dusk)",
     "equipment": null,

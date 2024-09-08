@@ -1,7 +1,7 @@
 {
     "id": 23627,
     "name": "Kodai wand",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-11",
     "duplicate": true,
     "examine": "A wand of an ancient Kodai mage.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADb0lEQVR4Xs3Wy0tUcRQH8JmFiMPgqm3gxkUg0YSZ4WTGaJpKapqNTqVNTo2RRg8SE3uYSGUIYg8sFIzBxMoIekjSaxPtgnZBi2jXPxDY5tT3dznX3z3+nGacW/iDw71z53fv+dzze8x4PGu/eckcpu//efPScF8jXettUDHUU0+DZ+tUMCIxepimRtpo8sYhA0q+RMZwC8QogDgkZuL6Aboz1OpIjM/4ToYTlRbSSyP9TctQOALCwaBbg2EavdSs+uJoAqG/jn4920evps+sDsUgnHN1GHT3akSBuO9KINy3MNNL7+Yu0/u5KwqEHJvy8lTI7KJZZee3ZhCSmkBjA/ttEM5NIDxTB+GcQTK7aF7HMCART258liAkB4KH1wTCM7vj1vC4AuIq4ZoJxJVkEKqmY+LRLkeFEGmBeF5IEJJLkD6hJQjP6mjrVMcn9445QQ/OZQ7CdYAYxZXUVyRAeAaiPdKhjsA9neh0F4QAQAfJCY3A/Q3lp6l1n1UhYND3xdQJG/Tm0QUbkzZIR+HhJpCOKS0M0+7SOMWaRx2gl/e7jSCZfYVmlRzJkoH0CY3+waIiqi4PUbi+niK1Aw7QfOLUakHWHoQK/Q3EVcQ9qEptRYXC8AvxSkN/HaRvijK7aNaSN4EQEsSJs7N81Fx1ng7WDarPeAZj0M9VEKMQSDA9FlUJ0HdXSZQqgzFVlWhLi7qG+xjjOkivEo4MQr+C/FLaU9ZFdaGTalXhGqpoAs3cPGKDsEszJiUQVo4JJP9ibA0EqKmyRw1VuLqfWmouGiuE6szejjkqlGJ10JZA+rAxYqPvIW3xf6Dy4naq2llGjTU1qkr8vawQD9fj8aPugXBtfVYXbcgZp82+BSr2f6Ltud/sCYzACgSGKylB2KV1EKNkdkOzQPqw4Vp+9jAFfM9VdUr8X2hH7g+qXLdoY5KBMOeeTR63QdiD0tiHnCCeNwU5CSr0vaVt/s9/qvOdQrk/aW/+IkWDv+yhMoFQnYxBWGUSFPDNU5H/IwX9XxUIRzlcDOJfeh4u10By2GTwT4Y+XAzCMxiEJa+DsAelvQ/JYQOKk+CNcZ4MpM8fV0By2CQI3+l/OXQQ/2zwcGUIQls+PKbQMXpIEDZFHcSRBsjj4W09WUigHvr8cQWUapPIVLAcS33/U5NIU8h71nT7DWZTkoz+RPitAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xu3W30tTYRgHcHch4hheddvlLgIJFrYM1zKmzVRS09bmKm25mtGMfpCY2A8TqQxh2A8sFIxhYmUE/ZCkXzfRXdBd0EV01z8Q2M1T3/fwHN7z7m3tbKfoohceztnZe877Oc/zvu9WVvbvNxfpQ/f9H28umhjupMtDHSLGB9tp7FSbCEZkMwdobrKHZq/u16DUlygZboAYBRCHipm5spdujndbBsZnfKeGFWUL6aLJka4cFI6AcDDo+liUMucjoi+OOhD6y+gXi8P0fP5kcSgG4Zyzw6Bbl+ICxH1/BcJ9KwtD9HrpAr1ZuihAtjB4KL81gzCoDjQ1uscE4VwHwjNlEM4LBLksZcBAPLnxWQVhcCC4vDoQnjmQMsrjCIizhGs6EGeSQciajEkl0pYMIWyBeF6oIAyuguQJrYLwrL6efnF8ePuwFXT3dOkgXAeIUZxJeUUCZAzkot54nzgC92im31kQAgAZpE5oBO7vaDhB3buNDAGDvk/njpqgl/fPFopBs4JkFB6uA8mYYE2UdgRTlIxkLKBndwaKBaEZKcdg+UDyhEb/gN9PzQ0hira3U7x11AJazh4vFmTsQcjQ70CcRdyDrLQ2NgoMvxCvNPSXQTY2RWPJ60AIFcQDV5S7KdJ0hva1jYnPeAZj0M9REKMQGGB+KiEGQN/tdQkKB5IiK4lYTFzDfYxxHCRnCUcGoV+1N0g769PUFjomVhWuIYs60MK1gyYIu3SBGDRjhelA6l+MTT4fdYUHRamizSMUazmnzRCys3gjaclQUSC5bIxY775HGz1vqaG2l5q21VNnS4vIEn+vZojL9WD6kHMgXFtbnqZ1ldO0wb1CtZ73tKXqszmBEViBwHAmVRB2aRlkA2WA5LLhmrdignzuJyI7dZ6PtLXqK4XXrJqYfCDMucezR0wQ9iAb+5AVxPOmujJLNe5XtNnz4Wd2vlCo6hvt8q5SIvDdLJUOhOyUDMIqU0E+9zL5Pe8o4PkkQDiq5WIQ/9JzuRwDqWVTg38y5HIxCM9gEJa8DMIeZHsfUssGFA+CN8Z5PpA8fxwBqWVTQfhO/sshg/hng8tVIggttzy6kDFyqCBsijKIwwao0JaL5JDnz18E5Wu5yNz430prPwAcT0gA/aTQJAAAAABJRU5ErkJggg==",
     "wiki_name": "Kodai wand (Last Man Standing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Kodai_wand_(Last_Man_Standing)",
     "equipment": null,

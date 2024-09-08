@@ -1,7 +1,7 @@
 {
     "id": 16493,
     "name": "Garlic",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-28",
     "duplicate": true,
     "examine": "A clove of garlic.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtklEQVR4Xu2U6yuDURzH9/wVGtFQJMILueQSiWYpJKEoRRJyn4VaWmt7QYgIJZTGC9Fayd1GLJdZRtbaXKbl3/jqnLUnlheU49b51O/N89TzfPp9v+dIJBwOh8P51wgIfvKDCJidHMIvkRJwcrQPw+I02lsbfkqK/NQ/D/duPHnvYVwzQN3fify8bPHdN8kJuHFcwvvooSJ3HhdsZ8fY3TZBrx1Af28bFPJ8JCXGIyE+jrWUIIqQcbtucWq14NC8g51NI8ZHtNAOqqDqaUVZSRGyMlNZSgmiiO/pEc5bB+y2UypkOdiiQnMzoxgb0kCjVqK7owlVFaU0QkZS/u08+7w0pveESLHJaRvWq2mfOtsaUawoQGxMNBVKlsm+UkqAx+2kJXY5r+G4stHukBNm3tugQqsrC3RLRIh0qaWpDvLCXERFRrARIlshvSGlvrywwnpsFrdjWl/G0vwUJsZ0NDJlVzMa62tpZOFhoWyEruznb2QCZSYyr7dD4iJ3Ul1tJXKy0yGVhrAQIghib4JlAtvRafrEuGqqy5GRliLKMBAivL70PjYMZfwEfvCZCf4Gh8Ph/AVeAOIwmk2BrxIXAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpElEQVR4Xu2U3yuDURzGvX+FRhSKNHEjP2Ii0UghCUUpWmJhmGVqaa25mBARSiiNC5FW8tvQrGFbRltrM7bk33h0ztrbLBcuvCadT31v3nPxfvo+zzkJCQwGg8H413CI/RJHOKwsGPBHpDjcXJ/DuLGEAXl3vKTIT8PzEvAhFAxgf9cIjVqBygoJf/ZLchyeXA4EX/1U5Nnvhf3WgtNjEyZ141CP9qNWWom8XDFyxNlCS3G8CBmf1w2b9RJX5hOcHO5jbloH3YQKqhE5GutrUFpSIKQUx4u8hV7hcbvgtNuo0OXFERVaXZ7BrEELrUaJ4cEetDY30AgFkgpv5/0tSGP6SogUm9y2qUkN7ZOiX4a62ipkZWYII+T3eWiJvZ5HuB7stDvkhpnPDqjQzvY63RIRIl3q6+mEtLoc6WmpwgiRrZDekFI77q2wWsz8dkx7W9hcW8T8rJ5Gphzqhayrg0aWkpwkjNCD8+6TTKTMRCZ6OyQu8iZ1drSgTFIEkShRCCECx/cmViayHb12jI+rva0JxYX5QslEiH70vjsMBoPB+BE+ACekfDK8OXm+AAAAAElFTkSuQmCC",
     "wiki_name": "Garlic",
     "wiki_url": "https://oldschool.runescape.wiki/w/Garlic",
     "equipment": null,

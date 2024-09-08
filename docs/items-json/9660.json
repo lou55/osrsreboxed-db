@@ -1,7 +1,7 @@
 {
     "id": 9660,
     "name": "Bucket",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-04",
     "duplicate": false,
     "examine": "It's a wooden bucket.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACm0lEQVR4Xt2XbU8TURCFuR+MgRgMsdEUAoKkJbSGrYYWG4rSUKy8BIuIiIi8iogIokETY/zgHx9zpjnL3WtREu+20UlOur3s7jw7c+50aWv7P8LImVoeRvK5QEqFgkxNTLQaysjx6115XK0qyGxlSh6VJ1sFZeTtxobVKiOLMzOyNDenYE1uoZHt1VVNnkmn5Wrn5VAvnizK81pN5qenJdHV3iwoo0lfPl3SxAM9nZLq61ItLywoLMBQsWSiI+5qGdlbX5fNlRX9fLe1KffuDESENfwN3upNXlEBOgYwo1U5ebOnSfPBzV9gIKz/+HyqQKgagVhFT1BGbzp065oEQ9c16e+AUCG0E6NgePCGCtezUrn+/r+FMvqkACJMIyCu373dGwGClyCvQLghSo5kFwHC9p8cH5fi6KjuOF7vDYheuChQkOnRCkGAY4W9AkFI1AjIbiVbhskNc2McYENgd3oHoh/+BMTJjZkEkPtjKb9A2XS3VgciGLzBKd3RfikiDM9Xz5allB9UGHzy58Y7kO0j+MJVNpXQqhGGQJhh3oEIw1YhEcXkBODxp/39SHU8ACGMGpUw54GUi2kVj78cHupryvudbV/VYZhwh8GspwcHERAbhgIIzquUhvV7LEBoGSpEADw5BQAKIN8+HEv1QSYE9A4EHxEIrUISPD2SQrPlrGq+MqLCsd3C2IDQNhfIhYHYKrbUOxC8Qx/RzEhIIIIUc91hq3AOXlc87zCECX8K8FZo+8iuEoAKI0ld5w7zOH/cqG99/jbtrq3pjIGBkfzr0ZEa+fvHE/2OdYACODYgtgxVwrA7T/RU7ED2tkcit122sIZrYvCPHfUENLMLU3sYqFyQmGDqUb/52T+JjdQUEDfspI3knv/Px08pHvjthtxphAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiElEQVR4Xu2W/0tTYRTGfX8QUUSRRjJFQ2UTt/BquOlwmsPZ8gs6UzM109TMzDQLC0L8oX/8xHPGs7335krwvRtEBx5277vtns8953nPvQ0N/0YYqajuYSQ14kk2nZbZqal6Qxm5eHckK4WCgizkZ+V5bqZeUEY+7O1ZrTKyOj8va4uLClbjFho52NrS5Il4XNrbmsrafrEqr4pFWZqbk0hHc62gjCZ9vb6mifu62yTW26HaWF5WWIChYtFIS9jVMnK8uyv7m5v6+fHtvkyM9vmENXwHb/VEW1WADgHMaFUu3x9r0pT36DcYCOs/v10pEKpGIFbREZTRiw72PxBv8KEm/RMQKoR2YhQMDXSq8P9Kpe4dRu8UQIS5DYjrTx73+IDgJcgpEC6IkiPZXYCw/WcmJyUzNqY7jv93BkQv3BXIS3RrhSDAscJOgSAkug3IbiVbhskNc2McYENgdzoHoh/+BsTJjZkEkOnxmFugZLxLqwMRDN7glG5pbvQJw/PNyw3JpgYUBp+Vx829ww9k+wi+CCoZi2jVCEMgzDDnQIRhq5CIYnIC8PjryYnL6jCMGpUw1UBymbiKx9/PzvQ15dPhgXsg7jCY9er01Adiw1AAwe/y2SE9DwUILUOFCIA7pwBAAeT684UUnibKgM6B4CMCoVVIgrtHUmghl1Qt5YdVOLZbGBoQ2hYECsJAbBVb6hwI3qGPaGYkJBBBMiNd5VbhN3hdcQyDMOVHAd4KbR/ZVQJQejiq69xhDudPMEpbn8+mo50dnTEwMJL/OD9XI998udRzrAMUwKEBsWWoEoZdNdFToQPZ2x6Jgu2yhbUSSCgwjFICmjkIU3zmqWoAEgwmrKb/EX78Avc3w+LR09wZAAAAAElFTkSuQmCC",
     "wiki_name": "Bucket (Meiyerditch)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bucket_(Meiyerditch)",
     "equipment": null,

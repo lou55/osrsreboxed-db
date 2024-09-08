@@ -1,7 +1,7 @@
 {
     "id": 1240,
     "name": "Iron spear",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": true,
     "examine": "An iron tipped spear.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs3X60sUURjH8V1i8V0QRFC9SIKCCiyE1MAuEEJElNn9joWFUYEklUjRRaQbgtiFCgVDTKSMICqKov6yE989/GbPPB7XXXcKDzzsOPvMPp85z5kzmMst/pF38Yh9/89H3j3pP+Qe9R0sxuDNdjfQe6AYQkwMd7rxoXNu7OnZCMreRM1wDxIKkMJiRh+fdi8HT6YK8zff2UijqkLm3dDtw7NQfAJRCPR84Lgbvnu0mMtnDER+iP453e++T15fGEogjjU7Ar1+eKoIUu5cIK77MdXnfs/cc39mHhRB1NhSX18MW90MP+26a4EoGgON3D+WgDgWiN8RaHLkfArEsUC2uhn5VBsopMXN3xZEcRBqL8dqS2NDQ4KaftGVHUizxLkYSDNJcP2OlhbX2tSUmqEPry4mIKIqkNaFBVHcgsIFLVDn7oJbvjSXAn18cykNenejdhDnAQmlmVQO1/bsq3ONa5ekMMSn0e5sQQSAEGQXNNfu3zobQ+6X8SsJ6Nf7OwmmalCI4sdjIGG62gpu1bJ0qwT6+vZaFGSrzzH8U0KxciAtaHJ72+tc83o/O8ykBX2b6FkoyO9BzNB8IM0i13Q0F4qfnLMg8kNQuCna6mb4u4uBiBiIa7r3FNyaFb5VFkRepiChCAqw41KAY/JvddS51g2+VaC5zrYrM1A4S3yGIPLIP7LNt0qzGANNPbuQgNilhakIxJMTA+n9JBC5V/cW3LqVvlVzgcjltRHOUIWzwyiB7DrivEDk8VTt2uRbxYKPgdQuXhuZgYTiPAUEOrHdt0qbJphwJkMQu3QIEspWjwwPirVNIHJ4PWxc7Vs1H4gb+Dx2OQGxB1WxD6VBYds4p3XTtrnUqrBdFsTs1Azi6SkHOrPTt0qvDAvSWlO7MgPZtnFeLaMgxW27BFIuIB75EMQeVPU+FGubinDHHJcDhesnE1CsbSGI70DEQHptqF01ghilf1XKhV0/CgtiUwxBiipAuZy29XJhgWGE6ycTUKXDIivBKkq5/2lYZCzsNYt6/AUTxqinjibaCwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xu3V/UsUQRzHcY847rcgiKD6IQgKKjAQUgN7gBAiosyen7GwMCqQpBIpehDpCUHsgQoFQ0ykjCAqiqL+son3Dp9tZm68u73boh8a+LJ7c9/dee18Z2ebmv79VjDxiP3/x1vBPBzab+4P7kti5FqXGR7Ym4QQ02M9Zmr0tJl8dCqCCh+iYbgFCQVIEWImHpwwz0aOeQPzm//C8FGZkAUzeuNAGYojEIVAT4aPmLFbh5JcjjEQ+S7629yQ+TJzpT6UQJxrdgR6ce94AlLuQiCu+zo7aH7M3zY/5+8moEwYbqqnFohBY6DxO4dTEOcCcR+BZsbPeCDOawQVvDIwkBY3v0MQg4NQeTlXWVqam1PU3NPe/ECaJfpiIM0kwfVb29tNR2urN0Nvn59LQUQmkNZFCGLwEOQuaIF6dhTN0sVNHujdy/M+6PXVxkH0AxJKM6kcru3fXTItqxd5GOL9RF++IAKACwoXNNfu2VSOIffj1MUU9P3NzVoxNB/korh5DCRMb2fRrFjil0qgT68u1wui2beEwSqBtKDJHegqmba1dnaYyRD0ebq/XpDdg5ihaiDNItd0txWTI30hiHwXlGFTtE8XAxExENf07SyaVctsqUIQebmChCIYgB2XATgn/3p3yXSss6UCzXVhuXIDubPE0QWRR/7BzbZUmsUYaPbx2RTELl0jhmbfsBhI3yeByL20q2jWLLelWghELp8Nd4bqAoXriH6ByOOt2r7BlooFHwOpXHw2cgMJRT8DCHR0iy2VNk0w7ky6IHZpF5QBZUGxsglEDp+H9SttqaqBeIAPkxdSEHtQhn3IB7llo0/rpnPj71K55QpBzE7DIN6eSqCT22yp9MkIQVprKlduoLBs9KtkDMjgYbkEUi4gXnkXxB6UeR+KlU2D8MScVwK56ycXUKxsLoj/QMRA+myoXA2CaCRWj3D9KEIQm6ILUmQA1drKkQp3/fxFUKVWjiyP/62x9gvJs14bV8chjQAAAABJRU5ErkJggg==",
     "wiki_name": "Iron spear (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_spear#Unpoisoned",
     "equipment": null,

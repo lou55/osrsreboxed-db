@@ -1,7 +1,7 @@
 {
     "id": 28703,
     "name": "Trailblazer reloaded banner",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-11-29",
     "duplicate": true,
     "examine": "A banner showcasing the colours of Leagues IV: Trailblazer Reloaded.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xs2Wb0tUURDGdxGRJIpeLSKW9AEqpChIRIgI6kWKsYZZ6VabFQqLkpm0WC1SGYLYHyoUAlGRMoJeRFLUl+lrTPuc27POHc/aXr0bDjycs+fM3fndOXPn3kRi51tS/PLtV92SMjXeJU/HOp0mRzukMHLeiRALM/3yfvqqzD+/4oGyN7Ft8ACIUACiLMzcs155PdkTCozf2LMKQ0WCTMr0gwsboDAChCLQy8JFmZlIO1+MPiD4a+jvK+PybXF4a1AEwpzZIdDbJ5ccEH3LAeG6teUx+bn6UH6tPnZAiHGkudnJRjcWpJ13TSAE9QHNPuouAWHuA1qczYSAMCeQjW4sGToGBGJx47cFQnBA8HjLAa28uhEfELOENV0HBGImCYSsYU/7fXyTLQFBkYBYFxYIe9nMZRkcyMjw0EAIzif49vV2u/mndzfDQEt3tw+Edez3pDulq+OcnK6rcWovqrWos2dOuRFqbzspx1oOlzL0ee5WvEAQjhI1BB8Gzhw96NRSWyNtrSfceLy4ziwBho88gX58yJdgIgNBWAMQ6wJZAczg7lqvmDUCYTzQ2OhGC2Sjl7Hg7lCgGO+PDIX+HDD9f4Mj8FJ6l/Q3NDlhDXsxAgU9CBnSQNf7gvqBkAECASIqkG6KNrqx4JG3QIX8aOjPEUxnCNJHpoFYP7EA4Xf+Xk7uZPvcE8QMaSCfqguUz0kulw1lCEd2aH99KUNrqXonZgp75YDQpQlTERCeMAIRqiGVCmVHFzVhNJDOENuEzlCF2YGtA9k6YlO0QKwhXUdVBSKUBopSQz4gQtnoHguA7LFpINQPjkcD2SapgaDfTXtkYm+dm6MHRehDYSB9bATiK+NfskBT+7YIhKesEiAGKyf64MOMa3iXbRnIHhvW9Xex/gbCC5jvPVwHX/igfpZfXJMv87fl60LOAaEHRe5DvmMjEO4Y882A+IaHbyxAvmPTQNjTnyUaCH4AQnZiAIJtrAefNIyWBcK3tAaiIgAlEmzrm8kCaiGTrJ9YgCo1C1kJLLXu+5/MQvpkr9nR9gcyqsRFwy3qBwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu2Wb0tUQRTGXUQkiaJXi4gFfYACKQoSESKEepFirGFWu1ttVigsSmbSYrVIZQhif6hQCERFygh6EUlRX6avcdpnbs9yZnbW9t69G71o4GHmzpx753fPOfOnqenfLwnxyzfe8JKQ+ZlBeTw9YDQ31S/FybNGhFhdzMjbhcuy8vSSB8r9ibrBAyBCAYhyYZafjMjLuWFrYjxjzJUNFQoyIQv3zlVAoQYIRaDnxfOyOJsytqh9QLDX0F83Z+TL2kQ0KAKhTe8Q6PWjCwaIttWA8N72xrR837ovP7YeGqBQMPgo/5pAmNQHtPRgqAyEtg9obSlrAaFdI1DCCgMmYnLj2QXC5IBgeKsBbb64Fh8QvYQ+nQcEoicJBK9hTNu9f5UrA0GhgJgXLhDGctmLMjaalYnxUQvOJ9imR4ZM+8Ob6zbQ+u36gdCP8eHUgAz2n5FTrc1GvSV1l3S676Spod6eE3K063DZQx+Xb8QLBCGUyCHYcOLskYNGXS3N0tN93NTHSv30EmC45An07V2hVhgUGwhCH4CYF/AKYMZ2t3hFrxEI9YGODlNHAEIJ/g4Jivru5Lj1ccBkfk+OiddTuyTT3mmEPozFCBTsQfCQBrqaDvIHggcIBIiwQCE2xWDJu0DFwpT1cUymPQTpkGkg5k8sQHgu3MnLrVzarCB6SAP51FigQl7y+ZzlIYTs0P62soe2k21G9BTGqgFhl64RBiVYYQQiVHsyaXlHJzVhNJD2ELcJ7aFIQG4ecVN0gZhDOo8aCkQoDRQmh3xAIaACIDdsGgj5g/BoIHeT1EDQz849Mru31bSxB4XYh2wgHTYC8cj4k1yg+X0RgbDKagHiZNVEG1zM2IezLDKQGzb063uxvgPhAOa5h/dgCxvkz8azK/Jp5aZ8Xs0bIOxBofchX9gIhD9GeycgnvCwjQXIFzYNhDF9LdFAsAMQvBMDEEplPvikYbRcINylNRAVAqjWUglJwZPMn78ItFOphKzU/1Jf+QXol3m5MTneJQAAAABJRU5ErkJggg==",
     "wiki_name": "Trailblazer reloaded banner",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_banner",
     "equipment": null,

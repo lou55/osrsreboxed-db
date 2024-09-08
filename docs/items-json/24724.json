@@ -1,7 +1,7 @@
 {
     "id": 24724,
     "name": "Hallowed focus",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-04",
     "duplicate": true,
     "examine": "Removes the chance of failing to enchant portals within the Hallowed Sepulchre.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xu2W60uTcRTHfRhjbIz5IjAkKlOZl4m4mjeaOm1jZrJmOFF04qVE0y4glsgyI9TELqZmig2zxmZWKqG+yMyUKIIgsFdBL/pPvnXOw6693TOh/MIXnhvP7/Occ37nPHFx+/o/JCDceyoB8Vmt0OiaoMlo4OM9BBOgSauFWuuAOqWKIfznioO5sYYSRJBkG1THTvPiOUlJASiKlOJAVqygRBjVEUtE7QRNUHRfHp8sNZTA9aI8XBoWlaVBFTwuJZxWOWwnZTDpZRw55aEiyFSJUkKJX+8HIn+aUmNrXIW1ERUcJjksBhlD0T1lYkEgSiJ81CVw3YSmh2C+PlEzGIGQzxXLRaA/4IqEnJDnoy6Bt/fKwgiWfUPwuvvww6vGzoSKTTCX26tQW12KsxWFgbQZ9FroMo5GG0rA+vI4Nlan8WtRg811NzbWZvFmcZT9ynMbzRVyhqm2F6Gq0ghnrYWBzKbjMBaKuy6KqROwvfEcH97Oh8EQyIv5frx8NoC5xz1ocZYzSH3NKdScK2E46ksUsagD7Wx6GYqACIZStjDnCgMau3OR09bZZmcwik5hXmYAJopAJDFKH9/7GOJWXyNmHl5lMDp3P+rG/aF2vt5x3sZpyzdkSAXjl8A1RKZ+86BLCW2+DVqDlXsR+UKlnL37VC01DCkcKNPUgnRjHVL1ZQzTYQ/ChAJFviWKCgfSlbWLQDklewVEEqEIKL2oAWkFdqSesPwFFIN0+RUE+uZWY7hNgRS9Bb6bIhA5htEhCTDlJuCnTw1jtoyByKFABFpnFkdI0JJIYBAyReizx4rtOQu23Gae+q5GBXtprJih6A+AunS2TpJfEbEPUTOkXtPf68TqpAnrU6V4N2vmGiKYgWYFpm/kYXiglRtlZXkBSozZUqRQ4ME6P3MddwfbeEECoih9X3Fwg5wY7UR3l4NHxtg1Q1iTlACIJKCvuw6T9y7x11Oqdl+fYVDPbC9f67lSwzON5hmB0cCVeMcJcPXU89j44i3nAUtAlEKaY0311ohilhTGr/AFI+0HCHXkG6KuyAUjHfn8vv55/QZc6ZiM0I6rtAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xu3W7UtTcRQHcC9jjI3LfBEYEhWpzIeJtJpPNHXaxsxkTXGi6MSHEk17ALFElhmhJvZgaqbYMGtsZqUS6ovMTIkiCAJ7FfSi/+Rb51zWHnq7u73IAwd27x3czz2/3z3nJiTsx/8RAsIzriEgMbsNWn0ztJmN/DuOMAHa9DqIOifE1CpGBI5VB3NjjRIkSIodmmNnQm4uoahSqgPZsUJJGM0Ra8TeCSah6LoyMUVulMD7RX24NKwqy0MaeN1quGxK2E8pYDYouHLqQ0VQaJLlRElPHwQJ+DQtYntCg/VRDZxmJaxGBaPomjq5QO4qCbxvQpeHMF+fiAwjCGV1sVIC/YGrko6H/D/qIfDrvbo4ihX/MHyefvzwidid1HAS5nJHFepqSnGuovDvshkNOugzj0YbJWBjZQKbazP4taTF1oYHm+tzeLM0xvnKexstFUrG1DiKUFVpgqvOyiCL+QRMhVF/6wTsbD7Hh7cLYRiCvFgYwMtng5h/3ItWVzlDGmpPo7a6hHHUl6hiUQftbvkYRSDC0JItzrvDQON3LvKydbU7GEbVKczLijYmEFKVPr73M+JWfxNmH15lGB17HvXg/nAHn+88b+dlyzdmyoUJhMB7iJL6zYNuNXT5duiMNu5FlBcqlZx7T0W5MRThoCxzKzJM9UgzlDGm0xHExAWkL+uQQMdL4gWikFAEyihqRHqBA2knrf+AYoShCIK+eUSMtKuQarDCf1MCUcYcZM5Nwk+/CFOOgkGUoSCC1lukERJMWUJgCCVV6LPXhp15K7Y9Fp767iYV5/J4MaPoC4C6dI5eliEr9SFqhtRrBvpcWJsyY2O6FO/mLLyHCDPYosLMjTyMDLZxo6wsL0CJKUceEA3WhdnruDvUzjckEFXp+6qTG+TkWBd6up08MsavGcOapAwgCgH9PfWYuneJn56Wau/1WYZ65/r4XO+VWp5pNM8IRgNXJkwgBLh7G3hsfPGV84AlEC0hzbHmBlvEZpYVE4jIG0bmfuxH/OM3zG9mX8B5c2EAAAAASUVORK5CYII=",
     "wiki_name": "Hallowed focus",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hallowed_focus",
     "equipment": null,

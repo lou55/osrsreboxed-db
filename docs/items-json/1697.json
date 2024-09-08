@@ -1,7 +1,7 @@
 {
     "id": 1697,
     "name": "Emerald amulet",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "I wonder if I can get this enchanted.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xs3V3WoTQRQH8ASRUOlD9BF8DL3Sqqg0olZbRRFFGgylpKRtbLVKsKZRNLTQWJoQNSJ+VIzfFUH0qje58V1G/rP8N2dPJ2m2WaUDh92dmez8Mh9nY7HdX+LGHa72f17i5s7EUXN7fNDGbPqwyaUO2SBidWHYrOTPmOW7px0o/Sd6hnsgogBiaMzS/CnzcHYoMDCe0aYjiAqFjJt85tgWFK6AMAgq5k6ahexx2xdXFwj9JfpjbcK8XxvbGYog3HN2CHp8K2lB7NsOhN81quPmS33KfK3PWBDG2D8wYEOProo37fzXBGFQCZL/mKDC9AknaK1wLgDCPUF6dFXigWXAQNzceAaIiPs3c2a9Xjd/mk373AlUezAaHYizhDq035uZNr++bwRmaCSZtFeAsIwa9PzRBR+ECAXivtAgtL2p1Uz9SdneYyAim5ubHUEvSheDoMqN3kCoL87N2dnBPfYQZxJ9UHdtdMReXaCXS5eiB1VKJVMuLvog9MOMyD6uGULftytXfNCnZ5M+JjRIo15VK1tAzFfo1w60Xr7qBOnR2xRvo+LlGvSt0fBBMjVIEJZSg96tXt8pyMtBmCENwsvRzhMlMzRBqNcgpAoJkklRj66K9zIXCMGXc4ZkhuYMzmcy9ipnJ1IQUQgMgIyLAXCPNi4vIpdOBzCRg+Qs4SpB6If++amsGToyaFJjCTN8dq+Pk6Dq4nkfhCxNTFcgnBAXiJ8DCUI9AYlUnx8HD+zxUeiLz4acoS5nB6UF0vuIR5kgPHNDa1B2MmHruFz4bEQGIgr1GIAgtMt0QEyx0OfPDkHI0hJElB7dUTyQa9m6BT2t7guA0P/18mUfhBwUIg8FQXLZJIhHXh733z/7zY+NfvP5QwsEeM8gbNbtQDzyOiEy5HJFBtLLhnoJ0hmauQq/Y1+AcOQlCDkodB5yLZsE8ci3A8n9EwnItWwShDb5yZAgfse4XD2CUFp7oVNIjAwNQlKUIEYIUCzGtN4pNFCG3D+RgLotGtkNltHq+5+KRrpC/2ZXl791yqS9l3+0yQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC50lEQVR4Xu3VXWsTQRQG4AaRUOkP0yutikojarVVFFGkwVBKStrGVqsEaxpFQwuNpQlRI+JHxfhdEUSvepMb/8uRd5Z3e3YyidnsKl44cNjdmcnOk/k4OzDw75eEuMPV/sdLQm5OHZIbk8Mm5jMHJJ/eb4KI9aVRWSuclNVbJxwo+09EhnsgogBi2JiVxeNyb34kMDCe0WZHEBUKmZBC9nAbCldAGASV8sdkKXfE9MXVBUJ/jX5Xn5I3GxP9oQjCPWeHoAfXUwbEvp1A+F2zNikfGzPyqTFnQKEweCn/NUEYVIP0PyaoOHvUCdoong6AcN8jKBFYBgzEzY1ngIi4cy0vm42G/Gy1zHM3UP3ueHwgzhLq0H57bla+f9kKzNBYKmWuAGEZbdCT+2d9ECIUiPvCBqHtZb0ujYcVc4+BiGxtb3cFPS2fC4KqV6OBUF9aWDCzg3vsIc4k+qDu8viYubpAz1bOxw+qlstSKS37IPTDjOg+rhlC31drF33Q+8fTvWJQgiAb9bxWbQMxX6FfJ9Bm5VK/IBRvo+LlNuhzs+mDdGrQICylDXq9fqVfkJeDMEM2CC9HO0+UztAEod4GIVVoUIik6L3MBULw5ZwhnaE5g4vZrLnq2YkVRBQCAyDjYgDco43Li8hnMgFM7CA9S7hqEPqhf2EmJyMHhyU9kZTRU7t9nAbVls/4IGTpHjEo3glzgfg50CDUE5BMD/qxb+8uH4W++GzoGeoLZO8jHmWC8MwNbYNy00lTx+XCZyM2EFGoxwAEoV2nA2JKxUF/dghCltagECgP5Fq2XkGPansCIPR/sXrBByEHhchDQZBeNg3ikdfH/ce3Ifm6NSQf3u6AAI8Mwmb9HYhH3k6IDL1csYHsZUO9BtkZmrkKv2NfgHDkNQg5KHQeci2bBvHIdwLp/RMLyLVsGoQ2/cnQIH7HuFwRQSg7e6FbaIwOG4SkqEGMEKBeSzuSoffPXwR1K+3I9vhfopVfK8ZaMYcgXyYAAAAASUVORK5CYII=",
     "wiki_name": "Emerald amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Emerald_amulet",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 10990,
     "name": "Capacitor",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-20",
     "duplicate": false,
     "examine": "A broken capacitor.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xu2W/0taYRTGvUhEIxrDaJhMM6koh5nMb2RlhHPi8FuZbs60XGvNWhsRjojYGGwMxhhssD/3bM+5nOtVC5rXYgwfOL+Ivu+H5zznvJpMffXVV199/a0U6l0ZlkI+u1mreZtafu88OWw2mrOaWmpqrLUcltYyCKVQ0GnuqGcb61TMZGg9maR0PE4Rl1mr6PTFJYA40zsx0S2UCgRnislVKmdiVM3F6bC2Q/uVCm1t5im6uEjBhQVq7BbpbL9E5/UyfTyq0ufjGn052aVv716yo4CBgwaAFCpFnZorG/ElKqXWqL5dZZhqoUDZRIIigQDXSW2TTveeMNCHwy369HaHgfBbgQGYIaDiskNrRWI5wFCNgwOGgjsAgjvLoRA7JS4BSFzSw4RnR2n8dtc5UigfsWu5iPjuUzzygIFQAoQMCRiA9C5J0AGzV0gykAS7C5dagXCoQD0vlbhlT3NZyqdS9HBlhaduyunUXELuBAYuAWjJPcZAo8MGXEoHbRSbVYE8M5MaFNqHkOOieilDr8tZOt7Oay4JjAwEYAAmMHCoK5cAlHCrB6P/gAovzDFUNhbRoAD0prLO4dbDIHsYBsmPHqj9titKoZTHzC6hfZgaXCZLsH0x6mHQnsfRkJYdwEioDQEBJuG5RSHXELuFwmfIluwp2eACAzC0N70WpsC0RXOnB0DQH5e8wxT13KWkf5xbg6xgmuCeHlBcHBky0Yrfw21120c6YAwCQQpfBgdiXitnC+HFeGPffD99Rb/eHzEcvue1D9Jq0Es+1x2GQRkY+cukvthwAm155LNSLnyPlyC28o+zOjsmrZwcG6AZW9OdHrxlnVIPa/6dkAxhZ31tvKCf54eaS/jcMqxOJ9y5FiBRMwcqmLQTzw1aJy75nYMdMNcCpFe7a7x/3M3WzVgHjL703andNXFO1sKNA+l1EdyNtOsqEpB/Aua/0G+M1VqSt0YekAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xu2V/0tTYRjFdxkihhgxMeZoMocOXcw52jec20TWGou5qdPVUqdmZtMsRBYiUgRFEBEU9OeeOs/lvbuz/KHe1Q+xA88vd1/uh3PO+7wOR0899dRTT78rA90bbRmIeJ3WzHjMiYZnMObxYNrt6JiJkc4Zc3WOJpSBuM/50zxaXUGtXMZKsYilfB4pv9Oa7OSvRwF2BYjO1IoL2Cjn0FjO42h3BwdbW9hcqyI7N4f47CxaezWcH9Rx0dzA2+MG3p/s4sPpHj69eiqOEoYOagAZqGd9liur+XnUS4tobjcEprG+jkqhgFQsJnO6u4az/QcC9OZoE+9e7ggQf6tgCKYFVEuPWVEU0jGBah0eChTdIRDdSScS4pRyiUDKJTtMcmoYo9f/2CUD1ZTX6kUqchv51B0B4iggdkiBEcjukio6YfbXiwKkUexOIP6pgnpcr0tkD5crqJZKuJvJyKmb8Pksl9g7BUOXCDQfHBGg4UENqKW4B7kpEygUGLegGB9Lzhc162U836jgZLtquaRg1IEgDME0YCgTqBA0/5j5Eyo5Oy1QlVzKgiLQi60VKbcdht3jYVD90QSiDJRCTnGJ8fHU8GVqCV5ejHYYxnM/m7C6QxiNUisZAlMIXUPCPyBucfiM3VJ7Sm1wBUMwxru0mERs0mW50wUg6odL4UFkQzdRjI5KNOwKTxPdswMqF4cGHMhEQxJr0DvUTRglQ15GB3Jht3SL5eXx5r75fPYM314fCxy/F/b2YyEeRsR/Q2A4Gkf+Kpk3Np1gLPcibiwnb8kS5Fb+ct4Ux1SU4yN9CHja7nThLrtKJhhHdYg762PrCb5eHFku8blr0DyddOcvAtllgqk4ed0wOuVS1Nf/L2Hsarsm+yfYji7g7tO96XXVhlPRad703VQb7vInPf03+g6OzC4hMjXasgAAAABJRU5ErkJggg==",
     "wiki_name": "Capacitor (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Capacitor#Broken",
     "equipment": null,

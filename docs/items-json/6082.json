@@ -1,7 +1,7 @@
 {
     "id": 6082,
     "name": "Fixed device",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-19",
     "duplicate": false,
     "examine": "A device for firing dye.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWUlEQVR4Xu2STUvDQBCGNwQpiiClohhRWgVBClqK2INRcrCIHxRpsZCDhxwKivQgePLktVf/8JjZcc1ks5EtQQXZFx7KprMzTzYrhIuLi4uLy2/Hg/mxjr5Rb1Jcx+cLpdxfEMkVMbkhLKU86B/5ksseMTghhmfUJNpLn7fTdYfWd1F+sI4u8nhL4N5Os/mdlAfhflFCgYPD3VQWawxCSkoJcAkuMh0RVkJROy+Cw9TAXsuXQnhCKIVCks86LsQFuMTzuCZ5iWt2QsGygPCAPhkf1N32y4U6VHdYX4Fuow7Hqw04XV+TvxVPCKNf4gwuxYXwP3VfUP79ddF4d3QshYTAIgVuSgYb8DAK4Gm8KaW4UNaUpONrEtJfxkQ2Y654MJvuFJohb5PWV2NVmwwzIf5iZeRnWafYnItyoWBJQH/L157/QMzNTcde6XNUj2non8m4uLi4/Od8AETvcZtJrOAaAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQklEQVR4Xu2STUvDQBCGswQpilBKRTFioQqCFLQUsQej5GARPyjSYiEHDz0UFOlB8OTJq9f+4TGz0yXT7QbWlgrCPPASdrOZebK7QSAIgiAIf42C38cb+0O7yPw4vV4rzPMNZXhHGT1QPKUUdM5Cnds2pXtB6V1RkeQom29k4yaNn5LZxnZskddHioeQgvh4XsIEG8eHmSyucQgZKSPAJbjIuE/xEkoasyLYzDRs10MthDuEUiikM13HhbgAl3gflHQ+0pKfULQZQHxCR8YbtWphsVCT1p1WytCqVuB8qwqXO9v6ueQOIfYlzsOluBC+M/cF5Sef6867Y8dTyEbBsLsLL/0I3gZ7WooL5UVJOr0nIftn3FkIBd/jA0cxBV+julU4k+9xoZXhKs5F87loI4DOfrhqoSJcTZc6DkEQBOHf8APT6j9ub7aJ4QAAAABJRU5ErkJggg==",
     "wiki_name": "Fixed device",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fixed_device",
     "equipment": {

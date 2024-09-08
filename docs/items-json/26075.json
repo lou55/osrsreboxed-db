@@ -1,7 +1,7 @@
 {
     "id": 26075,
     "name": "Sigil of the feral fighter",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xu2Vb0tTYRjGPWTWcBiDSWynUhYWZgyNYQ1WMrLMjGxoYyUjCylECukP0h984zfoS/RNehUEvehV3+XO33O4z855OpNjexQKb7g4Z7qd57frvu57fX1H9f+XJ911qBUcurZ2N6aZG2WpVC7IxMTIYYJ58iWfMXrxfCHU51xG2u1bsrx0Xebnp2X84lkZOXf6oME6MGh9/b7Rj2LWAD17eke+7d6jWu2yTE2dl1KpILlc9iCgPHn3tim//GzMoY2NBwYGfS1kQ9E6gHCqUMgZoMnRUVdQnmxttUIgW9+LgdSdavWSlMslGRvzjWhdJnPCpUsB0JvXD0OIn8U4EK8VSMOtOcKhfP6UK5c8+fD+kXFHgTi8G1CzOSNztysxlwAiR45c6rQLoM3Npa5AaOXxTbm3cC22AnAJhxSoR5c8A0F42TWvXjbMfRRK75kyRr/RqMns7BXjkk4aQENDGRdAlBe6w5hzMNco0OqTOQOCO7SsXp+MjT5tcwhEeSYTHIAYeSBarXoIQms4nMUI0NXp8RiQ7iMHQJ58+rhigBSK1rGVAaE9vp83QArF3wAiQ7zm/04njRbhCldgNKyMNq3BAQVSKFoHFJPmECgINSJHTBtgBJx2aWYIMLAaaqYMNwGOOtTDz0jwo9jff8w4Agzjv73dDvcS4ebwxcWqAcMpHNHsJAH9ZbADEDQwcNwIV3Z2VkMYRl93DiHGJXITDTNttYE6yzG1S3/CDA6eNMIhgGgf7gCEQzjDEtQfVJXtkG5rnsnzU4B1hxne/XYAkBHGHccUSPNCjoDCIa5RIEKvz9Jn61l7QCUDAYNoDW6c8YeNQ7SL0adNAKhTCqZA+nnUDWiPTAVQSQ6pAEI64jiEK3pVoOhnegCikqGS4NIqChKFSQlExaFsMPvAJNmZsWE01MCkAKI6uyhJ9kFJsj9ju7IPmKCCN+t4utO+QeyKfhtXss84qn++fgOAb1KLl5/1fQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xu2V3WoTURSFO1iroaESSJFk1EKkSq0EK6EaiJZgtdaKNVRDtASrFKUUpfhD8Yfe9A18Cd/EK0HwwivfZdvvDHsyc5yRqT3phWTDYiYtM+fL2mvvDA0N6v8vT9J1qBUcur5+J6a561Wp1c7J9PTEYYJ58qWYM3rxfCnU50JOut2b8mDlmiwuzsrU+dMyceZkv8F6MGhj457Rj3LeAD17elu+7d2jRuOizMyclUqlJIVCvh9Qnrx725Zffj7m0ObmfQODvpbyoWgdQDhVKhVcA3myvd0JgWx9LwdSd+r1C1KtVmRy0jeidbncMZdQAdCb1w9DiJ/lOBCfFUjDrTnCoWLxhCsgTz68f2TcUSAOTwNqt+dk4VYt5hJA5MiRS712AbS1tZIKhFYf35C7S1djKwCXcMgZEBCEl13z6mXL3Eeh9J4pY/RbrYbMz182LumkATQ2lnMBRHmhO4w5B3ONAq09WTAguEPLms1LsdGnbQ6BKM9kggMQIw9Ep9MMQWgNh7MYAboyOxUDcriPPPn0cdUAKRStYysDQnt8v2iAFIq/AUSG+Mz/nU4aLcIVrsBoWBltWoMDCqRQtA4oJs0hUBBqRI6YNsAIOO3SzBBgYDXUTBluAhx16ABtC34Uh4ePGEeAYfx3drrhXiLcHL68XDdgOIUjmp0koH8MdgCCRkaOGuHK7u5aCMPo684hxLhEbqJhpq02UG8XZYb6E2Z09LgRDgFE+3AHIBzCGZag/qCqbId0W/NO3p8BLB1mfO/bAUBGGHccUyDNCzkCCoe4RoEIvb5L361n/QUqGQgYRGtw45Q/bhyiXYw+bQJAnVIwBdLn0T6BqAAqySEVQEhHHIdwRa8KFH3mAEBUMlQSXFZFQaIwGYGoOJQNZh+YJDszNkyGUNvV20VJsg9Kkv3MPl1JK/0mLjWoQfW/fgNg1hfEMfTkrgAAAABJRU5ErkJggg==",
     "wiki_name": "Sigil of the feral fighter (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_feral_fighter#Un-attuned",
     "equipment": null,

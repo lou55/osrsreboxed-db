@@ -1,7 +1,7 @@
 {
     "id": 21049,
     "name": "Ancestral robes set",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-19",
     "duplicate": false,
     "examine": "A set containing an Ancestral hat, robe top and robe bottom.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xs2Y7UtTURzH5z9QRL0qUudw4SbbHLpNnLqxuQcb6bLZUjNLoxDEEEIw6IVBMoKo3oRQRERBFARR/03/SK9OfH/wHWdnd/N678268OHeeZ4+93ee7tHn+3+vHnWydL16VC3bq+4uplV9dlTNToXV1Nig3CvZiDCfj6qFwohQK8UF5F2qJISbc0lhrZpSd65NCKjvfn1KbS5NyzPSUSbsP3WUlLVQfnxIFdMhwZSjoC5HQTRMIchsrWREDLLIS6FYf38nKWshkE0GBVOOgpSjFKPE6EBmezUnYq6FUjG/SscDgpWc3pWMDruMXQWZnbW8MyFUgkopFA9dVGPDfQLkKMUo6d3Wqasg83B9xp0Q3hxR2VlJeIJjIRSiEKJhVuwUV0IIO7rinwvV830tQhgrZsVOMYWigdP2hVDIjtDPTy8sn61wLYSZA6F7C7EWvr59Io0fNh4IeNZ/H+ytq2Jxt62cYyFMUwphrVm9PCzcnouoz4eP1bd3T9WPj8+bAiaVK/uS7/2rXSlDXAlhHUEhCN0ohgTKMCImiEz1akNAPuRHNJfLYcETISx+C7mg+v7hmW0ZgL8hP8rheXHmkndCDDkb29zYbhPSZZiHz+xyR0LLBX9TCPsShDaq0ZbG8BsNAjMylNFfAFiNoXjwjH0hfYPFDPn95VwTzhrIlMp7bTBdL4OXcCyEnRlC3GBzue0WNmsjQichpptlPBHCfmZOa7B1PS5CpixAmpkfeCaE8O8/OmjCLvn1JiACvBOmm2U8E+Ki+LLxWsB4ABCZTkaad8J0M79rIW6wWIewjmBx5CJHyePgSOhWaUC+7vCRRqHyxICqTAaE+cxgU9BKshumUGLo7PGFsJ9lRnuFXKJPFVJ+EaQkBHVJbjOU1PFMaDxyXk3GLnSVshJit2L8WA1qx0I8dfDjnqcNHoH4ga+fx9CofkjEYuuJEBrtJqOfxTrJQAITxZUQKsObdxOxExkIdDoG2RDCZf4z4O8CmSOEfD5mOinM9nH9ARSvvlWn8KxuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4XtWX7UtTURzH9R8ool4VOeZw4SbbHDonzrmxuQcb6VqzpWaWRjGQhRCCQS8MkhFE9SaEIiIKoiCI+m/6R3p14vuD7zg7u5vz3ovVhQ/3bufpc3/n6Z6BgX/3GlQnS89rUFXTQ+ruckLVFibUQjKokpMjci+lQ8JSNqwquXGhWogKyLtSigk3F6eEjXJc3bk2I6C++7Wkqq/MyTPSUSboPXWUlLVQdnpU5RMBwZSjoC5HQTRMIchsr6VEDLLIa1sIpKf8gilHQcpRilFidCDTWM+ImGOheMSrElGfYCWndyWjwy5jV0FmZyNrTwiVoFIKRQMX1eSYR4AcpRglvdu6dRVkHm7OOxPCmyMqO2sxV7AthEIUQjTMiu3iSAhhR1f8daFa1tMmhLFiVmwXUyjsO92/EAr1I/Tz0wvLZyscC2HmQOheJdLG17dPpPHD5gMBz/rvg71Nlc/vdpSzLYRpSiGsNeuXx4TbiyH1+fCx+vbuqfrx8XlLwKR0ZV/yvX+1K2WIIyGsIygEoRv5gEAZRsQEkSlfbQrIh/yI5moxKLgihMWvkvGr7x+e9S0D8B/yoxyel+cvuSfEkLOx+lajQ0iXYR4+s8ttCa3mvC0h7EsQ2iqH2xrDbzQIzMhQRn8BYDWGov4z/QvpGyxmyO8v51pw1kCmUNzrgOl6GbyEbSHszBDiBpvJNNqoV8eFbkJMN8u4IoT9zJzWYPt6VIRMWYA0Mz9wTQjh33900IJd8uuNTwR4J0w3y7gmxEXxZfO1gPEAIDI3FWrdCdPN/I6FuMFiHcI6gsWRixwlj4MtoVuFYfm6w0cahYozw6o06xOWUiMtQSvJXphCsdGzxxfCfpaaGBIyMY/Kxb0iSEkI6pLcZiip45rQdOi8mo1c6CllJcRuxfixGtS2hXjq4Mc9Txs8AvEDXz+PoVH9kIjF1hUhNNpLRj+LdZOBBCaKIyFUhjfvJdJPZCDQ7RjUhxAuZDhJ/pPrD8RlbJ7O5bpiAAAAAElFTkSuQmCC",
     "wiki_name": "Ancestral robes set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancestral_robes_set",
     "equipment": null,

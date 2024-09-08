@@ -1,7 +1,7 @@
 {
     "id": 27656,
     "name": "Webweaver bow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-01-25",
     "duplicate": true,
     "examine": "A bow of a follower of Armadyl, corrupted by the power of Venenatis.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpElEQVR4Xt2X709SURjHOfFLyR9zsUxYphE6ovmjH+gLspaaQ5QgESGFCNMMQsqtMYpwLlY0nG+yLV/Wqre9qJf9b9/uOXf3AhdjUy8X1nd7BuOcnfO5z/N9nl1UKsVFIP2lgSJ4HJxFE0ERPF3xMKCRvr5GQdFsCBkh2Iz6YO03K5Ul4fJSPAoGsZVIsO+5zTBctx1ihuqUpdLlf37/ws/v37C7sY4PT9bwfm0V71Zj+JhM4EsmjbexKKxmPjt1g1lwuxELhTA3PY3o0hLGRkfx9dM+fhx8ZgA70Qj24hvwT9wUweuUHYIbI8MsJsbHcaarq6pc0hBATgBTy3gEw3Y7IoFFXBsaqrrwXyE95QgisGurn7J8/fLAAGYnJytgSuuyi+C6jmCnUwtviwZ39WqcU1fCter1uDczIwJJT5BZXEm4DHlaNYi3a5Fq1+E193lLp8aY7hQeGtQwGVo4U/OTVwEgKq5sGoKLvb24wLXreZMJZ41GZuDOjg4YVSoEPIpOXgIbBxQ5rWVAQlAzU//Q9ZDPpyQQFYGF8w7NjhAUxtrfj9zWC4T9fiWBCJwOB1yDl5Bs0zGYq1yLUyBaxnw6zYZhudGlJ8go3ju0k8ovXJyfF7NCp/OKfwFBrxeDFgvLWp2gCHq6u9FmMIggD+774J9zV8BRP/lcLhYlGNkzRVhZaBfdcTpZW7unpsSLKqcun0X6Sct5xWZjYBRURijCDqatTYEOB6ncL8CVx+F7jyXeG9KDax0urJXvrbX/CCLYzmSYUWV+yuOK4A3XyknupapUioaKL1P2eaoZgAgK+TwD2d3ONQdQsVDAfiqJbHhZbGfpLgVFsFcsspdzOuiawNT835RX8VBzwGSfLePlegDmHmMz+IeqLlP2ZJJ5yv4f+gtUvLd+9jYmJwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACe0lEQVR4Xu2X309SYRjHeeOXkj/mYpmwbEToiCbZD/SCrKXmECVIREghwjSDkHJrjCKcixUN50221aWtuu2iLvvfvp3nZfwQii3jHM5F3+3ZYee8e5/Ped7v8+ygUEguhvo7bRTDg+AsZATF8GjF024gSl4GYNiM+mAxGaWCKievxv1gEFuJBP+d2wzDdcMhNkw1+c8f3/Hty2fsbqzj7cM1vFlbxevVGN4lEzjIpPEqFoXFKGp1GBbcbsRCIcxNTyO6tISx0VF8er+Prx8/cICdaAR78Q34J67VVE4UMVy9aOcxMT6OE319DcfVGP+sZpsw2G02RAKLuDwy0qqEzcRgU9e/YW1ShvNDQ5idnJQChsRwRcOw06uGt0OFW1olTikPw3Vqtbg9MyMdkF2okKdThXi3GqluDV4I1+saJcY0x3BPp4RB1yGYWtLJKxybiuHs4CDOCO162mDASb2eG7i3pwd6hQIBj6STl8EqAEWOqzlQOcjM5B96HvL5pAQiMZgF71B1ykEwFpMJua2nCPv9UgIxOB0OuIbPIdml4TCXhBYnIDrGfDrNh2Gt0et3aKFK3qFOqk24OD9fqQpN5xX/AoJeL4bNZl41kaAYBvr70aXTVUDu3vHBP+c+BEd+8rlcPKowLa8U48dCXXTT6eRt7Z6a+kOiUhXpSsd5wWrlYATauPbIYnxjam0C+j1IrcrPaqvTbP1fq+QNETY+ihi2MxluVBnAkBheCq2cFD6qZANEkX2SkgMQQyGf5yC72zl5ABULBeynksiGlyvtXL9KQjHsFYv845wGXZthSKW/Kc/jIXnAZB8v49l6AMYBvRyASKJM2f9quX4Brm5lx1xXG3wAAAAASUVORK5CYII=",
     "wiki_name": "Webweaver bow (Charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Webweaver_bow#Charged",
     "equipment": null,

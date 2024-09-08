@@ -1,7 +1,7 @@
 {
     "id": 29141,
     "name": "Cooked sunlight antelope",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Mmm, this looks tasty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4Xs3W+0sUURQH8N3/oZ+ESIsWdGGzRduNfCBIa0uUopmZlmkZLiH0wFBpqRR7iST2oELBEBMpI4iKoqi/7Mj3Dt/xzPVqu+4UXjjM6y7ns+c+ZiKR3d+i4g7X83/eovJkvF0ejbaZmLrdKpO3TpsgYmn2kizOXJSF6QsOlP0nSoZ7IKIAYtiY+cc98nKqO5AY13hmRxBVFDIqM3c6NqFwBIRB0PPJLpm922n64ugCob9G/1wdl+/LN3eGIgjnrA5Brx+eNyD23QqE3/1YGZXfa/fkz9qEASFHdXm5CTu71byy818ThKQu0Nz9sz4I5y7Q8lx/AIRzguzsVosGhgGJOLlxbYOQHAgO71ag1RdXwgOxSrjnArGSBKFqNujDq0EfhCgKxHlhg5DcBukJvR3o45urQdC7kdJBuA8QUawk+ugV5AJ9mh8KF4QAQIM4ofGbjhP1kmmokaPJqgAOgb5fFq/5oF/v8z6maBBRriTox+v8cK9k03HJpKpMpOMVkoztlXhFmXn+9e2wE2Rn36J5SfDvAcJ5f2eLtGXqpDGVkHhsnw9B8ubaShMnjyWktf6QtDceNgHU/rI9pt+3pes7BXl7ECqkQRM3+uTByICM5c7JUM8pk1xXBCAcAWI0JWN+hTRIb4p2dqt5S94Fmh4blKf5nJxpSppkSF6XOGCSskI4J5RRW+lVMzSQRvVl09LbkpKu5hozJEA1VB/chNKVw/PQQEQRQ4geFlQEEFSLKCA4jABqEHZpYgoCYeVoEO6hKt3HjxiMrohGAaArhX4EsUqsUIHVQdsAEYV7qAzmDpLimqEnskYBgFWJ4IrUQ1YSiCgG3trYGPFc38e8IepyV9ZsEXyGXVqDiLKzO5oHsoeN7ydshhqkd3GNY7D/54WcD8IeVMQ+FATp1aZBOOI+MYAh7I8zwEsGYZX9DYRk+htIg/hiRd9QQfaw4b4G6U8OYghiX4BWng0EQNiDit6HXMOmQTjfDsQKoW8oINewaRCe6QmtQein50+JILTNq8UV9vxh2CB8S2sQowhQJMJtfbuwgTr0/AkFVGizkYVgGRt9/1Ozka6wf7Or2zqsJllGXdGHtAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xu3Wa0sUURgHcPc79EqIsGhBF7ZatN3IC4K0tkQpmm2mZVqGSwhdMFRaKsVuIoldqFAwxETKCKKiKOqTPfE/w395Zua47exM0YsOPMzsOWf3/PY5l5mamn+/xMQetvY/XmLycLpH7k92m5i70SWz10+YIGJt8bysLpyTlfmzFpT3T4SGOyCiAGJ4McsPBuTZXL9rYHxGmzfcqEDImCzc7PWhcAWEQdCT2bws3uozfXG1gdBfo79tTsuX9WvVoQjCPbND0It7ZwyIfbcD4XtfNyblx9Zt+bk1Y0CBMPhR/muCMKgNtHTnVAmEextofWnYBcJ9haCYaxowEBc3PntBGBwITu92oM2nF6MDMUuos4GYSYKQNS/o7fPREggRCMR14QVhcC9IL+hyoHcvL7lBryfCg1APEFHMJProHWQDvV8eixaEAECDuKDxnd6jLZJtbZRDqQYXDoG+H1cvl0Df3xQrxaC4QUTZBkE/fi6OD0ouk5BsusFEJlEnqfhOSdTVmvZPr8arBaE4g+DfA4T74b5O6c42S1s6KYn4rhIEg3c01Zs4djgpXS37pKftgAmgdtfuMP0+r12pFuScQciQBs1cHZK7EyMyVTgtYwPHzeA6IwDhChCjPRUvZUiDAhyKzpa3geanRuVRsSAn21NmMAzenNxjBmWGcE8oo6neyWZkII0aymVksDMt+Y5GMyVAte7f60PpzKE9MhBRxBCipwUZAQTZIgoITiOAGoRTukIMirPDNAh1yEr/kYMGozOiUQDoTKEfQcwSM1QViCjUITNYOxjU+TEn9ELWKACwKxHckXrKQoGIYuCpjYMR7boe64aoC/mcOSLYhlNagwKgHJB32vh8wmGoQfoU1zgG+39YKZRAOIMCnENukN5tGoQr6okBDOF9OQM8NAi77HcgDKbfgTSID1b0jRTknTbUa5B+5SCGIPYFaOPxiAuEMyjwOWSbNg3CfTkQM4S+kYBs06ZBaNMLWoPQT6+fkCAU/26xhXf9MLwgvEtrECMAqNLiRzL0+vmLoHLFj/TH/xKu/AJiIg66zINn8gAAAABJRU5ErkJggg==",
     "wiki_name": "Cooked sunlight antelope",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooked_sunlight_antelope",
     "equipment": null,

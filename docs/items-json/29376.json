@@ -1,7 +1,7 @@
 {
     "id": 29376,
     "name": "Dagannoth bones",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "Bones blessed at an exposed altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjklEQVR4Xu2VbUtbQRCF3b/RYlGLSq00Wnyp1NpAsLUqtSEEa2ttCCH4SpAgfrAf/OdTnt3OzdzNTXKvlFIkB4Yke/fOnjlzZjMxMcYYjxdOQvwXcHJzcy5npz8fQEoLKfreUARCV1dNabd/mANGx/V1W74efpGtrTeGVLyvMJx0u6fSaBzKwcFHqVY/Sb3+2R90fFyTk5O6NJtHXsFOp+XJ/7rryP19Vy7OG1Kr7flQAhTWan2Xb0dVn+sBpJw/fGenLOvry7KxsSKbm2tSLr+VSuWdX9/drWSS5Tvr5FiamvKfkEZpnivR8CwXnE+I5KXSSx+vl1/J6mopRQ4lqBhixP7+dkLuw/Z7v1cVUj+iLM8LEyLZ/PzzqO/9XtGW2nVVjkJ0jXaiEm1GyYKEQEjESzZiQrTBVhzv0cFQ/0AUJSHd25cTvQMUzptWiaAOLcAXloSSpUXsQRGI0Eb8hw8JLJGexEIIU6fGxCsYm2oxKdVDTtVQ87IHv9G+2dlpH1iBWFiYk8XFF4m68Ykj4BIiWqlOG6SsGvxGAYaAgyERK2ijvxNDYfvcn0zVUKIMA5WrElkHZ0X6zIEIXmA6YiKogZltS7QVBC1kD4RRj1amiyuMcJmRiPuGpPiHg7Ql3E3WD4S9i9RXlhQFxsWlYyBCO7g31BuowaWoh9uIE8ekyENBFEehDMjt7aX/bYdkCCnnE9mRpTWowmRoKIF+T/TIDSJFweTnTkJx/NfLmYmQMCZkb+BhxozJWVJ2EMg5+fSJzMw8SwYhK98fhD9ZJcRLo4hkIUs1HQi7bnPHOQxcQijnCwOhxGgXA8BdFReYM3du9jkQTI9nrOLxrpH4O2QUhVr0b1CwRWOM8XjwGy5s2u7XiUkUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZ0lEQVR4Xu2V60tbQRDF3X+j0kIVK7VisNSqVG0gWB+V2hCCz2oIIfioBAniB/3gfz7y22WSuds87k0qlHIPDCSb3dkzZ85sJiZy5Ph/4STEPwEnd3dXcnlxPgIpLSTruYEIhG5u6tJs/jIXDI/b26YcHvyUjY0VQyrelxlO2u0LqdUOZH9/S8rlHalWf/iLTk8rcnZWlXr9yCvYajU8+ceHljw9teX6qiaVyncfSoDCGo0TOT4q+1wjkHL+8u3toiwvL8rq6idZW/ssxeIXKZXW/frubqknWT6zbtWBNErze5doajifEMkLhQ8+Pi4uyNJSIUEOJagYYsTe3maH3LfNr36vKqR+RFl+z0yIZLOz01Hfk4FXtKV2XZWjEF2jnahEm1EyIyGgF8RIEqINf1bc3aODof6BKEpCuv8dqeG8aZUI6tACfGFJKFlaxB4UgQhtxH/4kMASyUnMhDB1aky8grGpFpNSPeRUDTUve/Ab7ZuZeesDKxBzc+9kfv796ISUiFaq0wYpqwbfUYAh4GJIxAomIxPsoTiR66ihRBkGKlclxri4F4IXmI6YCGpgZtsSbQVBC9kDYdSjlWMSC48ZiXhvSIp/uEhbwttk/UDYt0h9ZUlRYFxcShVDO3g31BuowaOol9uIE8ekyENBFEehDMj9/W//3Q7JAFLOJ7IjS2tQhcnQ6F9Zl1w/UhRMft4kFMd/Q6YuJIwJ2Rc4PtEbYa8lZQeBnK8nX8nU1BszCH0R/mSVEIeGHBiApGo6EHY9ZW7XIZTywBAEfzIAvFUj5kzNPgWC6fHMeIr/VWRqUY4cOV4Uz4XxjBU93aNuAAAAAElFTkSuQmCC",
     "wiki_name": "Dagannoth bones (blessed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dagannoth_bones_(blessed)",
     "equipment": null,

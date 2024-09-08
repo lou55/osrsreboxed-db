@@ -1,7 +1,7 @@
 {
     "id": 4170,
     "name": "Slayer's staff",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": false,
     "examine": "An old and magical staff.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXklEQVR4Xs2XT0vDQBDFM0elWKTSYov9Y0kgBtpaLLVQisVCQTwIXvz+X2TkzThsEoKezOyDd0kW9sfO7NvdJPlTxPUvLalpYuJNMeHmf/8q4v1q3jAx8Tq/k++r6bRNKOL3w4J73csfqOBlNvIAgojf9oUYYOPbawEp5kMvIEhXBVAfL0vpn3w28ARKEp04lOx+dOMLZDIwK507kMq1qevSkh03WQxAJM0MPy9mlZ5Su4hkp5mH/a7EwVXnwhfKjOCEnXNJd1s5CpBR6bjvuUpBZTCLg/oYFxlYNUSjEPFpm5dK6A5G/HV+EihcU7ATo4BCLHy+PkpmRQMFRwVlDQ4o6ym3rKoqqgMZonjKptImD68V9zgI554dxs4HMkR83j2IkVHoqUGv4w9lPqxTKaH7+WdRgFXCQxRpbq+Y+tiWpVCnXc5F6nyfUinQcZtxOokmNENPhUufswzkN5hvFbfxhAzevTkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQklEQVR4Xs2XT2vCQBDFnWNFKsUSqVLFhgRiwH8YUkGkoiCUHgq99Pt/kSlv1s1KCEgPOvPgXbKH/ZGZfbPbal0Vcf3LndS0MXGRj7l57aYi3i7iho2JV9lrw/ebi/hrN+Net33ePHieDjWAIOLPbS4G2OjlSUDyeKAFBLm/Aqjvj7n0TzbpawJ5hZK9DZ8tAHlRVbr6ipJUm7ouV7J9kVoAImlm+H02qfopWEUkJ817EHUlDh47D7pQ3ghOWDmXLuXAkFHJKLICBTkwY3EAeRjVRq+L+FhmFyVUByP+Pa0FCtcUnEQTUIiFn8NSMssMFGwMCnJQ5mLB0ECGyF7Z/G0zRIEqWJh7fhgrD2SI+LSZipFR6Kl+r6MP5b1bJVJCI/PPjRc8RJHmZl4xgDpuMs4TE/cpB7QvU07GZkLTRAT8X3/e/8rPgrl1rAAAAABJRU5ErkJggg==",
     "wiki_name": "Slayer's staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Slayer's_staff",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 2126,
     "name": "Dwellberries",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-08-27",
     "duplicate": false,
     "examine": "Some rather pretty blue berries.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUklEQVR4XmNgGAWjYBQMOcD4H4IHBWD8z6zP/J/ZiHkwOArhGJiDDBQUBspRUMfAHGQ+WByEFjoD5CC00BnY6GL8z+na/58rbON/dusKlAQ9cA4KWv6fK3r3f664Q/+ZlT3BjhpQB4FChyfxxH+e7Dv/uWL3/2fQGjAHQQpAnuQz//nyHv3nK3j2nyf1PDi0BsBBjP/ZHVrA0cVu1wCmwQkaFF2qdA8hYDRFbIVHE6ffAnD64fSc+p9VPYieDoLVUYxgB/BkXPvPl/sAnG5gNLtjOzgN0bjqgDgCXtYAMSh0QGkGnG7SLoHTEIgGpR+YGhqEEtQh0MIOlkZQMFCMr/AlBANDCVmOyg6COgTJYgwHITsUizyVHQQCiDQDjzKYpUiOwFCD5ih0UykCsAoS4lNUB8IwuhqaOwoZIFuO6hBkgN3BqGroDPA7eBSMglEwsAAAEFYbPuG4oOgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABNUlEQVR4XmNgGAWjYBQMOcD4H4IHBWD8z6zP/J/ZiHkwOArhmEHgIKhjYA4yHywOGpShM7AOYvzP6dr/nyts439264rBkKCBDgpa/p8revd/rrhD/5mVPcGOGlAHgUKHJ/HEf57sO/+5Yvf/Z9AaMAdBCkCe5DP/+fIe/ecrePafJ/U8OLQGwEGM/9kdWsDRxW7XAKbBCRoUXap0DyFgNEVshUcTp98CcPrh9Jz6n1U9iJ4OgtVRjGAH8GRc+8+X+wCcbmA0u2M7OA3ROKdBHAEva4AYFDqgNANON2mXwGkIRIPSD0wNDRwEdQi0sIOlERQMFOMrfAnBwFBClqOyg6AOQbIYw0HIDsUiT2UHgQAizcCjDGYpkiMw1NDWUcgA1YEIjKqGzo4iBuBz8CgYBaNgFGAAAD9X7U+ya3kuAAAAAElFTkSuQmCC",
     "wiki_name": "Dwellberries",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwellberries",
     "equipment": null,

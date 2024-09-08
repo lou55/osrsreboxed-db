@@ -1,7 +1,7 @@
 {
     "id": 22101,
     "name": "Dragon metal slice",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "A badly damaged slice of dragon metal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs3W20tUURTH8TMMQ9hDTz2NpJJE0EvRgwlK9Bd0vxdFRUURQRSFSNFFpBuC2IUKBUNMpIwgKoqi/rLdfM/0O66z2jPOOFO4YXHO7LPH9Zm1L8ckWfmtEOIRe/7PWyE8Gt4XHgztSWP0xu4wcm1XGkLMjJ8K02Mnw9TjExGU/xEtw6sgoQApPGby4fHwfPRoLjGfeeYjj2oKWQhjN/f/heIKRCHQ05HDYfz2wXQs1xiI8Rb9fX44fJ29ujyUQNyrOgK9vH8sBWlsLRDf+zY3FH4u3Am/Fu6lIHJs6elJw2d3rVp2/WqBSBoDTdw9lIG4j4FmJ07nQNwL5LO7VshNA4m0uPnsQSQHoemtBZp/drZ9IFWJvhhIlRSIqnnQuxfnMhDRFEjrwoNI7kF2QdcDvX91Pg96c711EP2AhNKOsTuyFujD5IX2ggimEowga5MkbCol2WeFB4H/NH0pA/14eyvDNA2yKCXsLiZha6kYBvv60tje3x/Wlcuhu7MzrO/qSsd40OfXl6Mgn71Gqyam/ALxmWpsqGB2dhTTEMbGjlXFsLmC1d8Q6MvMleWCqmcQFRKIPpIA2ttRygJUihgYSK/0cU9s7O3NwSzIHoo+u2vVLe9BtkJM1YHVpSyEs32EpnNbpWJUle+3BSSUKkWAOlJJSgjlkVQPDAt/zZ/guy2BbJW4sh54BTBusJJM1bIgYXherlQGkH4IFeKUFqYhEDssBtLrAJC2fgxkMYLw2rBrqMHq0BZBfh3pbLEgpoSFKxBX1ovOJnYXY3lttA0kFP0kEIjnqpIWtj0ktd0ZyyltQUL57JFWBcWmrR7Ibm/7ptf4j1MXMxBnUBPnUB5kp82CuNJvT2+OBrvWCOAtg9hlS4FIRp/ecWAE0lrTdLUN5KeNfguy/3III5DGApp7ciYH4gxq+hyKTZsFcV8PZNdPW0CxabMgntl/SyyIcXb9tAiiVRfpUuHXj8KDOBQtSNEEKEl0rNcLD7Rh109bQI02j2wEq1gc+5+aR8bCf2dFt9/gkVTBDzZc5gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6UlEQVR4Xu3W22sTQRTH8Q0hSH3wyacUW7CI4IvgQy20iH+B97uiqKgoIoiilKJ4KcUbhVIvqLRQKbUUrQiioij6l4357vpbzk4maTa7ig8OHHYzO+l8cubMbKPo328VF47Q8z/eKu7h2F53f3R3HBPXd7nxqzvjEGJ+6qSbmzzhZh8dD6D8H1EYnoCEAqTwMTMPjrlnE0cyE/OZZ35kUbmQFTd5Y18TiisQhUBPxg+5qVsH4rFcQyDGW/S3pTH3ZeFKdyiBuFd2BHpx72gM0thWIL73dXHU/Vi+7X4u341BuTD8Uf1qgZg0BJq+czAFcR8CLUyfyoC47xBUySwDE6m4+eyDmByElrcVaOnpmfJAyhJ9IZAyKRBZ80Fvn59NQUQukOrCBzG5D7IF3Q707uW5LOj1teIg+gEJpR1jd2Qr0PuZ8+WCCJYSjCBro8htqkXpZ4UPAv9x7mIK+v7mZqcYWhZkUZqwvxq5LbWqGxkcjGPb0JBbV6+7/t5et76vLx7jgz69utQtiJZMTPoF4jPZ2NDA7OipxiGMje2rqm5zA6u/IdDn+cvdgpIziAwJRB+TANrTU0sDVIwYHo6v9HFPbBwYyMAsKMehmGx5H2QzxFLtX11LQzjbR2g5tzYyRlb5fikgoZQpAtThxqSEUD6S7IGh8Nf8Dr5bCGSzxJV64BXAuJHGZMqWBQnD83ojM4D0Q8gQp3SHGFqyw0IgvQ4AaeuHQBYjCK8NW0Ndgfw60tliQSwJhSsQV+pFZxO7i7G8NkoDCUU/EwjEc2VJhW0PSW13xnJKW1AOVAIKLVs7kN3e9k2v8R9mL6QgzqAc51AWZJfNgrjSb09vjgZbawTwwiB22UogJqNP7zgwAqnWtFylgfxlo9+C7L8cwgiksYAWH5/OgDiDcp9DoWWzIO7bgWz9lAIKLZsF8cz+W2JBjLP1UxBES4p0pfDrR+GDOBQtSJED1GlrRips/fxFULvWjGyO/61Y+wWWjQo1lBQk1gAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon metal slice",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_metal_slice",
     "equipment": null,

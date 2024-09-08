@@ -1,7 +1,7 @@
 {
     "id": 2350,
     "name": "Bronze bar",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "It's a bar of bronze.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xs3WS0scQRQF4JmFC8GNuAi6EtwH8Re4ca3BoJKIYkIMETchIUHEEB9IfCCIjxCDgiBGRA2CiCQkJL+s5FRzem5db43dM61YcJie7uqpb6pq7nSp9PBb2dmxrt95K7uV6X63NPXEZ/Fjn1t43+tDxMH6mNtfG3V7qyMGSn+JuuEJiCiAGI3ZXR52XxefBQPjPa7phKhcyLJbm3l6A4VXQBiCthaG3PrnAd8XrxYI/SX6z/G0+3X4rjYUQTjm7BC08+W5B7FvDIT7fh9NuX9ns+7/2bwHYYzO9nYfPbpqybTzWxOEQS3QxtxgCsKxBTrceBGAcEyQHl21crAMGIibG+81CIMDweWNgY63XxUH4izhnAXiTBKEWdOg02/jKQjJBeK+0CAMrkFyoyIx0M/vr0PQjw/1g3AeIKLQt6ujOQhhGnS++6ZYEIKlJMjCxGDAX+5PpqC/J59STG6QROHDs2C6Hz/ykTDEAunRI62yHzQoK0aG13BvDaCkBmGGNKhWTE9nqw9Bsijq0VVLfvIWSGLaWhrTZMUUBkJiGJksGO6hmkFEEaQRMZCFuTp460Go0sRkAuEXZoGamxrSWLNVDYO/DYIwQxlnB60CksumQRaO0RiUCfxtFAZCqoFkNAYFESBUaQkiSo9utAQUWzZGQzQIfVih8dhxsTeRglCDctShECSXDec4QAwnMazqdYPwK7sNhMH4DCRx/EKcnUJBetlwXoLkMxAKJ//3cB/7AnS0+TIAoQblrkPWskkQjquB5P4pBGQtmwThmnwskSD0k/unThBauCdikRgZDUJRlCAmB6hUYlmvFg2UkfunEFDWppFZsEyl7z01jbSi73nQ7Rpm1hWCOXJLAAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaElEQVR4Xu3WzWsTQRgG8O6hB8FL8CD26l2kf4GXnm1RVFSUKq0oXoqihKD4EYJfBEK0oiWBQIil1JSCiFha9C8beXZ51nfenVl3dlfx0IGHbHYnmV9mZt/szMz/3yLjjuv6X2+Red06Z142l+J0Hi6a9v2zcYgY95bNqHvdDN9cc6D0j6gMT0BEAcRozODVVfO+c9kaGO9xTcdGBSEj0310PoPCKyAMQe/al0zvyYW4L15dIPSX6P2tlvk+uVcORRCOOTsEfXxxJQaxrw+Ez+1tNs2P6VPzc/o8BgVh8KX81QRhUBeo/+xiCsKxCzTp37BAOC4IiqxlwEDc3HivQRgcCC6vD7S1vlIfiLOEcy4QZ5IgzJoGff6wmoKQIBD3hQZhcA2SGxXxgXY2btmgTw+qg3AeIKLQd/5kwwphGrQ7uF0vCMFSEuTC+GDAfx3dTUEH24+LYtBskEThy4tgzpw6HkfCkJIgtN/7QYOKYmR4DZ8tAUpqEGZIg8piFk6fiENQQFFMbnkXSGLmjh1JUxRTGwjxYWSKYLiHSoOIIkgjfCAX5tt4LQahShfEoCV3mAvUODqbxjVbeRj8bRCEGSoFksumQS4cozEoE/jbqA2E5IFkNAYFESBUaQkKQCUg37IxGqJB6MMKjceOL8M7KQg1KKAO2SC5bDjHAXw4iWFVrwzCXfYnEAbjM5DE8QdxdmoF6WXDeQmSz0AonPzfw+fYF6DNtzctEGpQcB1yLZsE4TgPJPdPLSDXskkQrsnHEglCP7l/KoLQ7D3hi8TIaBCKogQxAaCiLYtk5P75h6C8lkVmc9iqtV8c0srnZ0sUxwAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze bar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_bar",
     "equipment": null,

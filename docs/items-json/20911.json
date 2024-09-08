@@ -1,7 +1,7 @@
 {
     "id": 20911,
     "name": "Endarkened juice",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": false,
     "examine": "A dark magic has imbued this juice.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRUlEQVR4Xt2XWU9TURSFOb9CKVMpk0AZKkNbO0ApZZACARUrwqW9t4CCMkRERQYJAh0ANQaHGI2JLz75oj4YjAmJkeiLQ0xUEAQcXlT8Cct7TtNi4UUT2qvuZKVp0rTfXXvvc1YjIv6fIliX5EVQbYlCO5cM9ynV3wBFcN2rwa3zOpztyWJA2XK5VFC+NlGgm5NaDHdnStk6grg4BWJi5AyIarBDCVlUDJKSUqWAIsjIUCEnR81grrnUOH0kHRmZKiiVvlkKc+sI9Hoj9AYjDIYCGIyFMIrSavXIzdVIA1RUVIwiczHMZgsTfU/hqGuSAJWVlaO8fDf6+vrR3z+Azs5u0SUTVDvzpACiRViLKiqsGOBmWQv9W0ZhJAEymcywWisxYn/B5klCGFoExcUWEcgKt2OZzU9kZLQUK0+LQK3exebIxS9irGkJdaWDUm0YLcLWnM7PqH0eo9wi2qpuM0iZLCbcLhGoVLmwWErg4Vfh5b/Abf+MQdsrCOU3kJCYEm6XCDsIqTNTzu8417yGSeEbbPEv0Vs7h9rCIXaFhMklgrT0LBzbd1+E+IpLXWuY7vjBVK94g71xc+iwPoRcnhAulwjbphO2GXgcn3wtEz7C61yFR1hhLtXEzsKSfxhRUbGhdomwm7y56ipOHpgVV32FAXmEVQbkbV4OuFQdOwN5fGKoXSLs8Oveew8DB5/AJZ49bn6FOeMH4hKWAy7pspoQHR0XKpd8+aegwITjdQ8w2PAM445Fdga5hSV4nB8YkNv5DtlpPVAmtyNVwUOhSAqVSwQ6nRFHa+6gt+4RhrnnGHMsYJxfCAJyOeeDgHQZDSzEhcAlX/7pqr2LPttjjHCvMWZ/y4Bcwvt18fM4wz0NANGwpkhIxrbtsq2EItBodGy76vcPgW+cwCFhGm0tl9HeekV8DVazfSIAlJunQcoOZaBtW9Q6X8yghyENZALnQSt/cZNa+AtMjsZRlJZUMiB6ldCou8VztO4QBXI2eUVNBUQBqRyci2lPbRtLkIWFRexBQpQgfUNN809JSWmQLJbNop/T6QxBt/+WA9GnpT9EM9BGBXK16KA/W+fla0MF469f/8P/nkII4yv/D/yJNn7HP1s/AeLWk4PxqSyAAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xu2WWU8TURzFmU+hUJbSsggUsFJocdqytYVKgVAVK8LQzhRQUJaIqAhFgkAXQI3BJUZj4otPvqgPBmNCYiT64hITFQQBlxcVP8Jx7m0oQZ5MmI4xnuSkaTKZ/vpf7j0xMf+OGKxbdjGosSrQzqUhcFr7N0AxuBEy4PYFFud6cuUGCreJAN2aKMRQd46crWOQlKRCQoKSAhH7OjSIUyQgNTVDDigG2dla5OXpKcx1vx5njmYhO0cLjUaWWWJgNJphNJlhMhXBZC6GWXRhoRE6nUEeoNJSC0rLLCgrs1KT7wSOVE0WoIoKO+z2Pejr60d//wA6O7vFKpVAuytfDiAihraostKBAW6GtlDGLSNiUFJSBoejCsPul3SeZIQhYmCxWEUgBwKeJTo/sbHxckEx0Ot30zny8wsYbVpEXblPrg0jYuiak/kZcc9hhFtAW/UdChkXlxBtKAZarQ5Wqw1BfgUh/isC7i/wuV5DsN+EOiU9+kDkICSVmfT+wPnmVUwI3+FKfoVe5yycxYP0CokSFIPMrFwc3/9AhPiGy12rmOr4SV2veot9SbPocDyCUqmOHhDZppOuaQQ9n8MtEz4h5F1BUFimVapNnIG14AgUikSpoRh6kzdXX8OpgzPiqi9ToKCwQoFCzUuRKtUkTkOZnCI9EDn8uvfdx8Chp/CLZ0+AX6aVWQPi1EuRKrG5TYiPT5IKKpx/iopKcKLuIXwNzzHmWaBnUEBYRND7kQIFvO+xM7MHmrR2ZKh4qFSp0gGxrBnHau+it+4xhrgXGPXMY4yf3wDk985tAGKzG2iIkwAqnH+6nPfQ53qCYe4NRt3vKJBf+LBufg5nuWcRIBLWVOo0bNset5VQDAwGlm5X/YFB8I3jOCxMoa3lCtpbr4qfG93sHo8A6fINSN+h2UoYonDMIIchCWQCF0Qrf2mTW/iL1J7GEZTbqigQuUpI1N1yoLUKESBvU0j0ZMQEkNjD+an3OttogiwuLqV/RKIEGR5qkn9stvINtlo3mzzHsiYpb/9w28gPkQz0uyO5WqzgWrbOLyiUCmZN5OV/6v+STr8AU6JeeLtUHr4AAAAASUVORK5CYII=",
     "wiki_name": "Endarkened juice",
     "wiki_url": "https://oldschool.runescape.wiki/w/Endarkened_juice",
     "equipment": null,

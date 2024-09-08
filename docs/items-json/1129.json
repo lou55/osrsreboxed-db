@@ -1,7 +1,7 @@
 {
     "id": 1129,
     "name": "Leather body",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "Better than no armour!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbElEQVR4XtWXa0vDMBSGl4+KTIbD4YZzTiqUwrygojAUYSCI///vRE7HWdI3vSYntb7wfFi6nfM0nKzbaPT/o3Q9UYJNDMn6vBZ8v4Cs0meTYwds7IOnVFEIi4ZAte9Xq65SeyEsJoG3UJbOo+At9Pxw5RQrY72cOmt1BAm1kepdqEnqT4SqxEiGeH9LnGtViAqh1CCEbKnBCDG2UFspcaHty82B+cVpzuvTdWGdQBFRIWyGUriGBAop/b3LnDuTgh8f2LUmSv98baJIpcnssEOdd0laimRsIezYIuZHFQ1tCHYtj93hKD0eH+XwscZGTdBAP24uC2KeMpT9cH9ub/NBZKk2Yvbpotez6YleLiYyQixF2FJlYnjcSYRlRIVYCgeVucsWpdgyAkKU4j8Gmocu4OcDBtrEFFF695E6Tcugb3dbwAbrB6ZZCmWwQoRUS/GzT2BWusadKRbpeXdMeK7KhrZ3GTuRh3YY+QXGp3Hwr6E6/wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABTklEQVR4Xu3VbUsCQRQFYOdjIYYkSkpGxgbLglKoFCxFIATR//87E3fl6nhm9m3mzmbQgfPB0Z15Fu66vd7fj9LVjRI85NhkMa4s/l4Aq/T18NIqHuxTT9QpCDcNaRAIN5OoNyhLp1HqDdo83VmbubqYj6y1qgaBmqA6B9WhfgVUBiMM9e01sb4rqygIUWcBMlFnA+KaoKYocVC+fTh0enNV9GV9f7JORYgoCA9DFK5hA0FKf+0y686k6vH6UPr7cxkFlSaTthiOPIowASAKXbgvDW1Izb3wlBZRejC4KMqPNR5UVxro5+UtwLyzH+6P/LEYREY1gZlPF32ejPp6PhvKgBhFNVEuGD7uBGGMKIhROKjcVTZz1sQIgCjmMKpiHtoUr8fdA6P07j21DnWV/t0jAFypR3WI4ZSj+N3XMYhiz9QR0jnGTNSh/U9pfgCvOzRLT/b1ywAAAABJRU5ErkJggg==",
     "wiki_name": "Leather body",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leather_body",
     "equipment": {

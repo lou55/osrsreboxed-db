@@ -1,7 +1,7 @@
 {
     "id": 20015,
     "name": "3rd age pickaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "A beautifully crafted pickaxe, shaped by ancient smiths.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs3W/UuTURQH8O0fMCRJ+s0/IX9KECIoETN0NjUxdaRpKKRF6pirmDbWy2Kw7IWMiYGYDDOCgiiK+stOfO/D9/E+p7v3FV447Hme3Xk+O/fcO0Oh4z/C4g7X+/98hCWbjMqTxJCJTDwi6eVBE0Ts5q/Lu1xMtp9NOVD6SzQM90BEAcTQmMLTCXmdGQ8kxj3e0xFE1YQMS+7+8F8ovALCIOhlekzyqVEzF68uEObb6B/FpHzbu1sfiiBcszoEbT2+ZkCcWwqEz33fT8ivw3X5ffjQgJDjTEeHCZ1dDa/s/NYEIakLtLlx1Qfh2gXa25wOgHBNkM6uRjiwDEjE5sa9BiE5EJV6qPhqtnkgVslOquNRMilb2azsFwrmXoM+vJnzQYiaQOwLgph0anREJoajMhaJyMjAgET7+2Wor08Ge3tlafaGpONx+VIs+vNt0Me3N4Og96v1gXCPZICMXxkyGEKIudzTIydbW+VUW5vMTU7KfCwma4uLgQp+Ksw3B2RXSAcgiEsXLxgMUKgckHiGL3FrZloyCW95EMD8PHjgY2oG2X2E0qOp2dhMgqXEcmnw+e5uU01UDKiDnR3z3Abp7CWG9wexe8qBeEKf6+qS1LJ3yOEz2BSYi/uznZ2mWisLC7L9PF8PyNu2qFAlEOZgPjDoLVzjGUFEIdBbG6sr5to+FHV2Nbwt7wIhNAjz0S/3bi+Za8zRIMzDfMLQQw2BiEIgAU5cJsBSoWk1yN7uBH3dvePvsrpBdpXwqkHc6mjqcqD9FzM+CKc0MVWBsMNcIP4cAIR5J1paDIZLwWXVIODxs2FXqMrqYByBdB/huQ0ihv+iuEBcLvxsNA1EFJ6zkVEdhAbZlbRBOKVtEFE6u2N4INey2aDT7e3+MlUCoaKftxd8EM6gGs6hIMheNhvEA04vlwahOg2DsMtKgVid3HqqJIi9xuVqGkgvG57jfTYzkuvlIghzCcKWt0E4g2o+h1zLxiScUw5k909TQK5lIwhJ8J6roRH82eByNQjCCP4LUSp0/zA0CIeiDWLUAAqFeKyXCw20w+6fpoCqHRpZDZZxNPc/DY10hf7MsR5/AGWabH9DJzmmAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xu3W/UtTURgHcPcPGJIk/Rn+lCBEUCJm6NbUxNSRpuEgLVLHmsW0sV4Wg2UvZGwYiI1hRlAQRVF/2RPfc/lezj07e7l3t+iHDjzs3rszz2fP85wzu7r+/RERe9je/+MjIoVMXB6nYyryqajk1sdVEHFQuiZviwmpPJ23oMwv0THcAREFEMPElJ/Myqv8jGdh3OM9M7woX8iIFO9N1KHwCgiDoBe5aSllp9RcvNpAmK+jv9cy8vXwTjAUQbhmdgjae3RVgTi3EQif+1ZNy8/jbfl1/ECBfGHwR/mtCcKiNtDuzhUXhGsb6HB3wQPCdZugiKcMWIjNjXsThMWBaNVDtZdL4YGYJX1RMx5mMrJXKEi1XFb3Juj962UXhPAFYl8QxEXnpyZldiIu09GoTI6NSXx0VGIjIzI+PCxrS9cll0rJ51rNna+DPry54QW92wwGwj0WA2TmckxhCCHm0tCQnOzpkVO9vbI8NycriYTcXV31ZPBjeSUckJ4hMwBBXLxwXmGAQuaAxDN8iZuLC5JPszwRhflxdL9dDIYXpPcRUo+mZmNzEZQS5TLB5wYHVTaRMaCO9vfVc58gDOcPYvc0A/GEPjswINl155DDZ7ApMBf3Z/r7VbY2kkmpPCsFATnbFhlqBcIczAcGvYVrPCOIKAR6a2dzQ137OBSdLW8DIUwQ5qNftm6tqWvMMUGYh/mEoYc6AhGFwAI4cbkASoWmNUH6difoy8Ftd5cFBulZwqsJ4lZHUzcDVZ8vuiCc0m1iMJwdZgPx5wAgzDvR3a0wLAXLaoKAx8+GnqFAILOP8FwHEcN/UWwglgs/G6GBiMJzNjKygzBBeiZ1EE5pHeQD5YBsZdNBp/v63DK1AiGjnypJF4QzyMc55AXpZdNBPODMcpkgZKdjEHZZIxCzU9zONgSx11iu0EBm2fAc77OZsbhZLoIwlyBseR2EM8j3OWQrGxfhnGYgvX9CAdnKRhAWwXu2hkbwZ4Pl6hCE4Rx0rcLsH4YJwqGogxg+QO2OeiRD75+/CGo26pH18X90Nn4DG5Yh8yqGno0AAAAASUVORK5CYII=",
     "wiki_name": "3rd age pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_pickaxe",
     "equipment": null,

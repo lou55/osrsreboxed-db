@@ -1,7 +1,7 @@
 {
     "id": 23855,
     "name": "Corrupted bow (basic)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A basic bow formed from corrupted crystal and wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xu2W2UsCURTGve9BCIKIlGEoRSWZW9lquWSGuaCELYjYgkvlFuYSBf3fX94zjONIRT04twc/OMydjflxvnPPHJ1uqqkmJobxK4LEQRhC+3t0HL+rsRhyyST2/X5sujYIaH1hQRQUQ7lYROI4Aufq6hBGKFA+m8Wuz0d2+TakDAm0jaFWKiEeCSN6eIhsPI7CRY7sEwTF8Nbr4TqTgcvhGMmOMOsYOq0WSoUCAtvbKhABMLIYWk+PZJvgHSZLsu0incLa0pLoopY1gOp2qR9FAgEYZmf/B9Rr5wVO2yLOwiFVgY8+o6w1kQTAm6XbbofNbIZJrx+C8XPNoaSiZnBYrVien4PVZILZYKAjD35PUOErWUlFj2ExGikEAnExrFgsqN/dInpwQJkSDiTb1qhWcTRonvqZGe3rSC1lt30M+pUMJDBLSqHz38x7vy8eSBFD9/l5CPV9aCoFis9P8ix1GgzS6LLldomD6rXb1N35tJCOxeD3eFST5/hbExZDu15Du9HAS7NJgPf5PIHteL1f2KiJpdIH6pUKmo8P1Br4ulYu0yTKM3dzdUkD4HkigdTJCVk7USh5B/4lNBkARyfN38T4+1P9pE8oiT8t7U3JbgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4Xu2WaUsCURSGvd8DEQQRKcFQjExwL61ccjfMBSW0QsQWXDJXxi0K+t9v3iuTIkmfnDuBDxxm+zAP5x3OHIVix46tQbB+hxNUhCDiv2TH9acSQ1DKZuH3enHqsPMWImjUasjEY7BZLLxlKASVYhEXHg+Ly2MXO8RNjKBTryMdiyIRCqGYTqNaLrH4OEkRfEyneCgU4LBaV7rDRYZCMB4MUK9WEfT5eIqsQjB4a7PYZCNEYyvnczgxm3lHJjKXmkzYPIoFg1ArlfKQeh+PYDMe4iYa2fCBSy65EKDD0mkywajTQatS/YjRaw5SFAKrwYCjg30YtFro1Gp2pMVJiLLsSi4Rh16jYcVRiEJwrNej+/yERCDAOsVdSIyt12rhaj48VXt7/KXE+prPKxkIiSx+M5+zmVyEKAST4XBFalNJylKK7k/iLnUdDrPV5czp4Cc1FQQ23em2kE+l4HW5eG6eBEK3A6HXw6jfZ4IvlQoTO3e7f4lRkkgXL+g2m+i3X9looOedRoNtorRzj/d3bAG8zWSQSyZZtFuWoqx34K/a8c/5BjVaEU0bz2WsAAAAAElFTkSuQmCC",
     "wiki_name": "Corrupted bow (basic)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_bow_(basic)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 21818,
     "name": "Bracelet of ethereum (uncharged)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-11-23",
     "duplicate": true,
     "examine": "The bracelet is dull and powerless.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaklEQVR4Xs3Wz0tUURQH8JlFyIhMm1Ytyk1ECaZhPxZt+gv6SUVFUVaSRBD2A9FKTcx+mWImJkqKjKJlGpZSmSYIUfZDW7mLdkHQotVzc/J7H+d53vGOzjiv8MJhnu+d8X7euefdN6HQ8h9hsoft+j8fYbpTso9uFe8xUXVlN1Ve3GWCER11J6it5ji13j1mQembSBnughgFEIfGtNw+So1Vh30T429c0+FHJYUMU83V/fNQ+ASEg0ENlYeoruyAycWnDYR8iR7uLqFXsaKloRiEY64Ogx5VHzEgzo0HwvdedxXTaG85veu9YUCYIycz04SeXQ237HzXDMKkNlB9xUEPhGMbKFZ/0gfCMYP07GqEfcuAibi58bcGYXIgeHnjgbofng4OxFXCORuIK8kgVE2Dnjad8UCIpEDcFxqEySVINulioGfNBX5Q5+XUQTgPECMiLddpQ3u1CUbFA/W3nA0WhMBSGsjjCop03vQwuSNttOZSvrlmA6GaL9vOeaC3T655mKRBEmUws5CMiRhlTPUYTFbnPQ/EKBtosP28FaRnjzPcJcHdalB6fy1lTPfRKuejwTAIEblfRCv27jR5GjTUcWGpIHcPQoWsoJFmiv4YMqDVzgStdT5R9NeoQaJqQGkQ+k6C5KaoZ1fDfeRtIAT+OXKiv8cMCJh1s7HS+WBQ0T/jJtIqCz0UqhMoiFEITIAdF3moDjAbnc9ulX4O046ZKcp730Vbvz2ntLICkxcoSFYJnxq0yfliAku1vqmcsgcaafN4jLZND5rGTys9ZXK7HuR7IOzSjEkIhCfEBuLXAUC8F6Eyec5Xbz/K6qml3LEOUyE0P3KQi9eGrFCC1cGYA+k+4kdZgtBH22cmKX2owTxt2f0NlPOmlbZM9lGkqdQD4bURGIhROI9+YBCuIx99hCWLfn9hGhsNjnOyf7BLSxCj9OyW4YJsy2YD4cnDd/ipQ4MDhooxCPkDrYUeCHtQEvuQHySXTYLwifP8SnHv1h+8/6QMwlO2GAiT4RyDeJ+SvcbLFRhILxvOS5D8DcQYBnEuQHjkJQh7UNL7kG3ZJAjHC4G4QsgNBGRbNgnCNfmzRIKQJ/snRRDG/Aa1he4fDg3CpihBHEmAQiHe1hcKDZQh+ycQUKJDIxPBcszl/qehkbbQ31nW4y+Wi9AewMzYeAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTElEQVR4Xu3Wz0tUURQHcGcRMiLTplWLWkWUYBn2Y9Gmv6CfVFQUZSVJBGE/EK3UxOyXKWYyyUgjw8ygZU5YSmWaIETaD23lLtoFQYtWz83J73mcx3137ui8mVe06MJh3rx3Zt5nzj33viko+PdHgMxhuv7HR4Bu1+6lmzW7OZov76KmCzs5BBFrP07R1mPUc+eoAaX/iLzhNkhQAEnomMitI9TVfMh1Y7zHNT3cKE/IALVe2ZeGwisgEgLqbDpI7fX7ORevJhDyVfRoXy29jFfnhhIQjqU6AnrYcphBkpsJhM+9StbQ+EADvR24ziBPGHyp/GoB4aYmUEfjAQeEYxMo3nHCBcJxlqCAaxpwI2luvNdBuDkQMr2ZQH0PTvkHkirhnAkklRQQqqaDnoRPOyCEJ5D0hQ7CzVWQ2qRLgZ52V7pBiUv5g3AeIEEEI9doXW8Lh6AygVKRM/6CEJhKhjxqpGDihoMpG4vSqosVfM0EQjVfRM86oDePr2aLwXCDVBRjFiDF03Eqnu1nTEnirgMSlAk03HsuVxCGPSX4tTqoKNVGxXODtMKaYoyAEMF71bRszw7O00EjsfO5guw9CBUygsa6KfRthEErrWlabX2g0I9xRqJqQOkg9J0K8rAp2kveBELgy5ET+jnBIGDWLMRy6z2jQr8mOQqbqhwUquMrSFAI3AA7LvJQHWDWWx/tKn0fpe3zs1T+LklbvjyjwvpKzvMVpFYJrzpog/WJA1O1NtxApUNdtGkyTlvnhrnxC+tOcm7yfoUDwi6dJQbDXiEmkDwOAJK9CJUptz47+1FJfxuVTcS4Qmh+5CAXjw21QjmB9D6SpayC0Efb5meoaKSTV1tpqpM2vu6hzTODFAzXOSA8NnwDCQrn0Q8CwnXko48wZaGvz7mx0eA4p/YPdmkV5AFlg0zTZgJh5eEzsurQ4IChYgJC/lBPlQPCHuRhH3KD1GlTQXjFeXmk2F/uDtl/8gZhlS0Fws1wTkCyT6m9JtPlG0ifNpxXQep/IMEISHIBwpJXQdiDPO9DpmlTQTheDCQVQq4vINO0qSBcU/+WqCDkqf2TJwgjvUFNofePhA7CpqiCJDyAsh3pSAm1f/4iaLGRjkyP/yO/8RtMh4WSsS62awAAAABJRU5ErkJggg==",
     "wiki_name": "Bracelet of ethereum (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bracelet_of_ethereum#Uncharged",
     "equipment": null,

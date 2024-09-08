@@ -1,7 +1,7 @@
 {
     "id": 2870,
     "name": "Ogre arrow",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-18",
     "duplicate": true,
     "examine": "A large ogre arrow with a bone tip.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABDklEQVR4Xu3TsQrCMBQF0GR1dnGRLu7i4FYQxEFc7CQ6iLPi4D+IUNyrgoNCcRK3Lv7ckySGNAmtU/MC9kIogqWH21tC/icUxPEiFA7XMSy3PR9QFJJXBLt9CKNph4O6QYCJopCmCWzWK368AA36bVjMI36QQQLTaja+2xEHHSQhx9sEc9h6O/f3DHvYqp0se2IPW2+HgZCHrW/HHDbDOATZAImTEIcYluJ2HENYfrdj3lFx6nbKUrdTFh1g/3YaCo/L2XpdSO0oDLuyY4LMOyqMjRmGIW47pzjmD5cYxHZk1IhNDBKIkCKQ+T+HEa8s/6UhgnSM/MrQQRIjh40IYhH7ybeDDFLD9gKTTxWYD0Y+SzIrM3VLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA9klEQVR4Xu2TvQrCMBRGm9XZxcXNF3BwCwjiIC52Eh3EWXHwHUQo7q2Cg0JxErcuvtyVJIb8iZu5F+yBSwkEevjy3ST5HxioIQGD/XkEi02XghSD/JHCdsdhOOnQECrLHNarpRwSQv1eG+azVA6ykJJpNRtvEfRiKyEtcriMMYvtpnN9TrGLbdKpqjt2sd10hBBysd3uhMWOSihg5FD4lk50fIE6HRtfoE7Hxhcglc6nc1QY3E7H4LnQZcRXDKJQKDPgHEtGwKDIMvlzLYOYjsaUmICMDSkh9WTupqHhyugt829FxN00XWz/VmRUfwik40NK5ne8AB+wDY3S14nBAAAAAElFTkSuQmCC",
     "wiki_name": "Ogre arrow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ogre_arrow",
     "equipment": null,

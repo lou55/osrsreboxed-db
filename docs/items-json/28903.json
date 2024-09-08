@@ -1,7 +1,7 @@
 {
     "id": 28903,
     "name": "Dizana's max cape",
-    "last_updated": "2024-05-11",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "The cape worn by only the most experienced players.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xs2Xf0uTURTHvcgQYxiyUNzw12QOnaiJOkdbM2xoKS6njtWY2szQhprZmJgNTZuYZtISExERyxLDIvIF9BJ6Rd88Ry7OUX9E7a4DF+6e++y5n+d8v+fcLSPjj0PgbKQ9BN4M5+Notgov7ualG0rg8KkF66Pl+PDEAp+tmIFqS0rSCxV0Ghmk11r0/wC56wzwNBQiR5OR4Ke0+ErArNehp9UBd4sNpvxc+G5dw0hfJ6ZHb/NcMZRAd2M5bCY9gxXqtHA2VWPA24pYJAhXTaZqGQU6qsvgMBlQY8iDUXsRF7I08HY6EV8IIehrQ0+7Q2WWBPxWC/qNFrQVlMKck8tAHdebsDQzxEB+T4vKLAl83VvG7usI4rZ6/IiXQp+djUvabMxN9sFj1WBssEsVkMDR9nMcbEZxvL8Gb70Zb+2NJ0AXoM3UIBLynZNMCdCn7XnO0JfdJZbOU2iCJUeHXE0WS+coy0Ogx6UO6OPGDGeJwL69X0W73ojm/EI06gp4rETvc8UpA6LskGT769M43JrF9+M9NreroJiHvSKTZVMAdHKoxkY5OwSzufQQO6/CnKWJjiwMuTQIODVYnB7EvTs31QF93okxDPUcGgRHYHSNGiMBkbmVAdHGBxE7NhbHGeZdfIqBCIQGlT75SAnQ2rMHvNF+2M5wiUCrs8O8TucZZUoJ0NbyI95ob/IKAxEMNUi6Tl16ZbAO8+EBRCcCaoDIMxKI5hJI+mfOX82SKfCQYM/QkPNEIPpMIFO9Fl6neQqBBGdADglEc+pDBERyzYz7MdFVwesplkzwhlRB0qyPuyux/XKSgShL/S1GlinUXp5qIIGFQA3LIyuMzjACo+sERCXuby5FeMSL4Rsmvofm8sRPfuI/iLPfytvjTdypqZLIwBLId7WYJRtzm/k+8hCVv/RU8hP/Ok5TL7ghklyy+REQydlrL+Ks0VriC0jZUiAdhUCsoRbRy1W8EWUpEYjkClWeekhCpBBGxtmbk0QSyG01MNBQaxmCrtP/bMnfTGEILm+qKJKI5uQhRTL9Ls77RLFMv45kgLRAqIqf3Xqh3TtdV1UAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4XuWX8UtTURTHvchDlGHIQnFjipM5dKIl6hxtzbChpbicOlZjajNDG2pmY2I2NG1imklLTGSIaJYYFpF/QH9Cf9E3z5GHY9APQe8u6MCBu3ffe/fzzvd77mU5OX8cAheZ9RB4N1qCk/lavLpfnG0ogePnNmyOV+HjMxsCjvJsA1EIhN1mBum3l/07QN4GI3xNJhQqOWl+yoqvBKwGPfraXfC2OWApKULgzg2MDXRjdvwujyVDCfQ2V8FhMTCYSa+Du6UOQ/52JGJheOpz5QN11VXCZTGi3lgMs+4SCvIU+LvdSC5FEA50oK/TJRNKIGi3YdBsQ0dpBayFRQzUdbMFK3MjDBT0tckF+ra/ir23MSQdjfiZrIAhPx+XdflYmB6Az65gYrhHFpDASeoljrbjOD3cgL/RivfO5jOgAuhyFcQiAdmSCXxOLXKFvu6tsHQ+kwW2Qj2KlDyWzlVZjFCfRx7Qp605rhKBff+wjk6DGa0lJjTrSznX4g+546QBUXVIssPNWRzvzOPH6T6b21NazumszmXZJACdHaqJca4OwWyvPMbumyhXaaorDyMeBSG3guXZYTy4d1se0JfdBMPQnkNJcARG12hjJCAytzQgWvgo5sTW8iTDHCRnGIhAKKn1yUdSgDZePOKFDqNOhksHWp8f5Xk6z6hSUoB2Vp/wQvvT1xiIYGiDpOu0S68NN2AxOoT4VEgOEHlGBaKxCqT6ZyFYx5JJ8JBgz1Cq43Qg+k0gM/02nqexhkCCK6CmCkRj2ocIiOSamwxiqqea5zWWTPCC1EGqWZ/21iD1epqBqEqDbWaWKdJZpTWQwFKonuVRO4zOMAKj6wRELR5srUB0zI/RWxa+h8Yanvj00vNMTbbwTk2dRAZWgQLXy1myCa+V7yMPUfurnsp8418KwRsiyaVufgREcvY7y7hqNJf+ARrCUAgkmq4gfrWWF6IqpQORXJGacw9lPqlhXHw5SaQCee1GBhppr0TYc/6fLfNJDUNwe1NHkUQ0Jg9Jkul3kemTrED8x/ELe0FuQdd5/DkAAAAASUVORK5CYII=",
     "wiki_name": "Dizana's max cape (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dizana's_max_cape#Normal",
     "equipment": null,

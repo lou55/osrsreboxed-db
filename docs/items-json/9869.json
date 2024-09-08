@@ -1,7 +1,7 @@
 {
     "id": 9869,
     "name": "Teak cape rack",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3X70uTURQH8O1P6GVvyoiCCirDzEg0ybBUUNF0aGZZShr9skyWafkjy4yBLJOChEBMpHzViyiK+stOfu/4zvMc72TP9hReOGx7dt397Jzz3F1jsZ0/4uIP3/v/fMRlbrRVZpMtLmZGmmX6YZMLIpbnr8nHVI8svb7iQdkvUTQ8AyIKIIbFfHh1WRZnOgML4zXesxFEhULGJTXWtgWFR0AYBC1MJ2T+Wbubi0cfCPM1+ufaqHxfeVAYiiA8Z3YIev+yy4E4NxcIf/djNSm/1yfkz/qUA2GN4yUlLuzqZmTSzm9NEBb1gdKTHVkQnvtAK+neAAjPCbKrmxEPlAELsbnx2oKwOBAsby7Q2tu+6EDMEq75QMwkQciaBX15158FIUKB2BcE6WYsJgKgT4/ctdAgvB6+dV6GBmrl9o2zMthbLTd7qqS364xcTVRIZ1u5JFrK5FLTCWm+eEwa645KXc1hqa0+JDWVB6WyfL9UlO2Tk6V73WdFAnp874KM3KlzqLv95xwMqL7uSofqbj/lYEC1NpQ6VH3tEQfTKIJ+fR7PYgoCPR1ukLGheoey2dqze1cgkC2NQqaqTh9wKB/Irp5jZGqOBsXjdLJJJkcaHcpmS6NYQls+ZAmoAkGZPQgZImh2fGMfetLsUFiY2dIolA99hfIxS0AxS0ARpDdFu7oZmVveglJTG7f+RKtDIVsoITKly6d7ClnSZWSTRwZKv+hwKGQKC7B87ClmiXcfs8TSscGLBiEImn/eHvjWubKktwPM0w2Oz8IuTUxeINxhFrQwm3AgZollY5aItL1ktwJmKM/sYGyCiMK1xbnObNnYS/quI8j2ki1dpCBmCSBflthL26EIIsqu7hkZkC6bu5bqciCbpbAofBb2oBD7UBCkUVEEflxDg3CXWRCPFDhy4KCF44Q+A+FEgMBPDY8emIujCuZ/XRqUb8v3iwPZuw3XNUifgYghiHMBWn1zPQDCHhR6H/KVTYPwfDsQM4S5kYB8ZdMgvKf/K9EgzAOI5SoShLG1GX1h+4dhQThLaxAjBCgW47a+XVigDt0/kYDyHRaZD5axOfc/DYv0hf2bHT3+AvrAKPO4J9XLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xu3X70tTURgHcPcn9LI3RURBBYVhZjQ0aTFTYZPZHFtmrZQy+qFlY5mWuqxlDMYyKUgIxETKV72Ioqi/7MnvuX3Hueferd3dW/SiAw+7uzve+9nzPPfs2NLy74+QuIfb5398hGRpOiHF/ICKxVxcCndjKohYK1+St6URWX1+wQVlfgnfcAtEFEAME/Pm2XlZWUzbboz3+MwMO8oTMiSlmUEHCq+AMAhaLqSk/Cip5uLVDYT5Ovrr5rR8Xr/THIogHDM7BL1+mlEgzq0Fwt992cjL9605+bG1oECeMLgovzVBuKkbqDI/VAXh2A20XsnaQDhuEBSylQE3YnPjvQnCzYFgeWuBNl+OBgdilnDODcRMEoSsmaAPr8aqIIQnEPuCIL0Z/YQN9O7er/O/HXYQ3k9dPyOT1yJy48opGc92ydWRTslmTsrFVIekB9slNdAm52JHJX72iPRHD0u0+6BEug5Id3i/hNv3SkfbHjnWultdKxDQ/ds9krsZVahbY6cVDKjR4bBCDSePKxhQib5WheqNHFIwHUXQt/ezjWIwnKCHU30yM9mrUGa2du3cYQtkS0chU50n9ilUkyAMq+ZoULwW8jGZz/UrlJktHcUSmuVDloBqEmStQcgQQcXZ7XXoQVyhcGNmS0ehfOgrlI9ZAopZAoogD4ui9ciboNLC9qM/l1AoZAslRKb08uk9hSzpZWSTBwaqPBlSKGQKN2D52FPMEp8+ZomlY4P7BiEIKj9O2r51rSzpywHm6Q2Oa2GVbhCDYT1hJmi5mFIgZollY5aINHvJXAqYoaZAROHcylK6Wjb2kv7UEWT2klm6QEHMEkBuWWIv1UMR5AFlgfSyqXOljAKZWfKKwrWwBnlYh+wgHRVE4MfVMwhPmQnilgJbDmy0sJ3Q90DYESDwU8OtB+Ziq4L5H1fH5dPahD+Q+bThvA7S90DEEMS5AG28uGwDYQ3yvA65lU0H4bgeiBnC3EBAbmXTQfhM/69EB2EeQCyXTxCGsxndwuwfhgnCXloHMTyAGh1OJEPvn78IqjecSGf8H/7GT7C83ljoaYC6AAAAAElFTkSuQmCC",
     "wiki_name": "Teak cape rack (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Teak_cape_rack_(flatpack)",
     "equipment": null,

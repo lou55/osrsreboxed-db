@@ -1,7 +1,7 @@
 {
     "id": 26663,
     "name": "Shoe",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-09",
     "duplicate": false,
     "examine": "A shoe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaElEQVR4Xu2WMWvDMBCFJbx7ypQlgdAhHdqSJUMD7ZBA+v9/0JXn46HrRU6TVpIz+MERkMD35d2T7BBmzZoFRUk1uaI8b4Mc3rvhd2KoKE+bIH1IhbW39XoKqCi7XSf7vdbrSzfATQqEMX1+KBDGtVrlgJrlK8rpqEBw6hJIIbBO4MpQUb7O3eASgDAuAhHE54sj9U8qJHXI5me5TEBYAyiK+/mRFlO8yI8HIhTdagJk82OB6AyqORCbLRYJiM7ZcRG4ApA29UBo2PfaFGH37lQC0tMFGH/C0BAucd/npwJQunswklxDANn7ye8VBFIYuMKj7mEs0Jh7hYA0L2xyDQZlHfRAzJjvcIfSfXMrjHVxDOiPLulp+Q3GnrprIy0ABKVLzl9wtixMLuwWqMjYfOEf8q1+K4x36B8uhcAH2MrB+Nx4mAIjG9N9MHl3i0vfWWMwOYiKMJR+auTC3hDC6yEgfuohIFroG10P6Nu0//VKAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABTElEQVR4Xu2WMWvDQAyF7/DuKVOWDKVDO7SQJUMLydBC8v9/kMqzEBK6i5uAzheIHwiDb9DH09PZKa1atQrKpNVdmd7fEn1/DdOzM1Sm15dEY9LqCJRpvx/ocOD6/BgmuK5AGNPpyEAY125XA1osX5l+fxgITpVADIH3AtwYKtPlPEwuAQjjUiAG8flqPFJ2yOZnu1UgvAMoSs7rIw1TLvLjgQRK3FoEyObHAokzqMWBpNlmo0DinB2XAoeLm3ogNBxHboqwe3caAfF2AcZvGBrCJTn3+WkApHcPRlJrCCB7P/mzQCCGgSuy6h7GAl1zLwiI8yJN5mBQ1kEPJBnzHe6Q3je3wlgXg4F4W/6DsVs3N9IAIEgvufKC07IwtbBboBCosvTsVpggh+ZUwvjceJiGQPfB1N0NF3+zrsEsBOHFvxr1sHfTQ0A8qf4AyT6uFE0g2RsAAAAASUVORK5CYII=",
     "wiki_name": "Shoe (interface item) (Basic, khaki, female)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoe_(interface_item)#Basic,_khaki,_female",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 13699,
     "name": "Fire rune",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "One of the 4 basic elemental Runes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4Xu2W4S/VURjHnZe97D/w1jSlmTSJJkmaSJIkkiSJJJlEkpgkRVIZM0nNrNYLf99jn/Pbc3ecXde5162trWf7vvi9uOf57Pt8z3NuRsb/SnsZ2V9/paJmSzMzsjL3XtYWPsj64kf5vrQkP5aXZXNlRX5+XZPfGxt/Giw6fH5iQhanpuTL9LQsz87K6vx8DGrj8ycL5kJtb26mGyw6bHJoSN6+GJW5V+OyMDlpoXAJKJwCDKlbPtT21lY6oIw8e9gjY0/6Y0DvXo5ZlxQKp5DCJYLivGOZmalCGenv7NwF9Ob5SMwlBJgLp4A4lgjK7xRQRnrutO0CmhgclNfDwxZKwXALuYDAIdwiWz5UCi4ZaW1okAe3W3cBjQ8MWCiEW8ApIHAK6MLhFiMk7D6U3zVBRUD3b7VIX0eHjDzqtRp93GelcAoI3NzhQ3u6xxhxixFura5aqCRcMlJXVSUt9fUxoIGuLnna3W2FW8ABoHCIb9c9FxA43CL0jJBdpVB+9zhlpLayUm5erZN7zc3Se7fdQiHGBxyiIXDxAHGObwScjpcx6gjJ1a9v6yFQRmoqKuTGlVppb2qyOUIEHDikzRRQv5GOV7/97AGFUzq+gNEZuVReLtcv10hbY6OFwinGh4BzAXDO/Was7rcPxfjIFC4xuiCgC2dL5Vp1tQ22QimY38x1DPmOIR0lQGSKPBFybl4Q0Lni4liwgXLB/GahAkod4uaRJQIeBHS6oCCWI8KtYH6TZKVA+hayzYOATublycWyMpsjhUJ+g2TEbSRHujgBItxBQMdzcuT8mRKbI6AUzG+SjBTIfV4YWwAQZaSksNDmCClYqlCsB24fQIRaXVKYICB1iSXpQvnNQqT7CiBdkmQp0B2tKEvsJBcK+Q33ki5UfX64abqPknBHy8jR7Gw7Om6cQimY39yXLlPd8PqvgS3OTkrSHS0jJ3Jz7eiAcsESQbkbHpcUSB/pFNzRMnIkK8vuJdYA4/Oh3Fvo7iyg1CX3LQQsRXe0IiicYnw8K/FG6EO5YOoWZx3AHbeig8iUD+ZrL0AX5IAwUUWHRGCshFP5+RYMlRYV2fcPSEbrOphGV+KXCxaitLqSqNxG+8n/7T9bO0e0atFUdzsIAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xu3WT08TURSHYWbp0o9BMBgMQQwiGEREDIKIiIggIiLyR0RsEEFEpEFElIqopIQgomkajQs+3zHvnZx6e0Nxpi2uuMlvMZveJ+ecOdOCgsOT9+PJv/Nfjn/Z+tKSbKy8l63VD7K99lG+r6/Lj3hcEhsb8vPrlvze2TlomP/jsfl5WVtYkC+LixJfXpbNWCyF2vn8ycBs1G4ikW+Y/2PRyUl5+2JGVl7NyWo0alBUCRSVAka0Wi5qN5nMB8qTZw9HZPbJeAr07uWsqZKiqBRR3H6oHEGejA8MpIHePJ9OVYkAs3EKpGJ5Rnkycrc3DTQ/MSGvp6YMSmFUi9hAcIRqMVsuKguQJz3t7TJ0pycNNBeJGBShWuAUCE6BNo5q0UKGPQeUD3pwu1vG+vtl+tGoyczjMRPFKRDcytEjGatHG6kWLUxubhpUCJAnrY2N0t3WlgJFBgfl6fCwCdUCB0BxhGe7ejYQHNVi6GkhuyoEypOWhga5da1V7nd1yei9PoMitA8c4UJwewGpHM8EnLaXNmoLmatf37aDoDxprq+Xm1dbpK+z08wRYcDBEb1MgfpMtL367M4eKCql7QsEulxXJzeuNEtvR4dBUSnaR8DZACpnP9NW+9lF0T5miirRukCgi+dq5HpTkxlsRSnMvcyuGHErRrSVgJgp5okh580LBDpfVZUabFA2zL0saEBphXjzmCUGPBDoTHl5ao4YboW5l4SNgvRbyDYPBDpVWiqXamvNHCmKuBeECW8jc6SLExDDHQh0orhYLpytNnMESmHuJWGiIPvzQtsCgDieVFdUmDkiCssWxXrg7QPEUGuVAmI4f6vEkrRR7mVBovsKkC5JZikEiOPPEjvJRhH3wkzRhaqfH9403UchMRxPjhcVmdbxxilKYe7lbnSZ6obXfw1scXZSFiCOJydLSkzrQNmw/VD2hqdKCtKPdJYYjifHCgvNXmIN0D4XZb+F9s4CpVWyv4XAcgBxfBSVon18VvZqoYuyYVotH5ITRo//Q8yUC3OTCZgniHt8GCvhdFmZgZGaykrz/QNJa+0K5rEq+x29JEgOz8GdP5xpLps/07nVAAAAAElFTkSuQmCC",
     "wiki_name": "Fire rune",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fire_rune",
     "equipment": null,

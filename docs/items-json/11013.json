@@ -1,7 +1,7 @@
 {
     "id": 11013,
     "name": "Infused wand",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-27",
     "duplicate": false,
     "examine": "This wand is glowing with chaos magic.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABNUlEQVR4Xu3VT0vDMBzG8SZZWxBkdqvWrtr1j9tAUMfYQdCLytCD3mR49eRBb4J4F1+A78B34kt7ljabYHS7meSQL/xuLf3QJo3j2Gy2VRH8PVoiyBjBXoNg36U45DPyKMZ8NKAIYkqQcFDB5+nUxevEw/uNj4+prwNFEFExkz7D3ZDh8cTFy4WHt2sfX59rNWiYZapQAtMiDkYxxRVHTY8YHo5dPJ973xiloE3qYJ2DivYGBmGAyx7D7QHD/bih+u1UibfT5ZidVhMlB51xUDpfU1pAeS9HHDSx3Q6QR2ENrD5jhVIMEpikm6AclPPd9HMUrp/fmMXD5ZHv/IeWY+QrFSQwnd2OxUgZiIniyAxMWqRmYcKt0GKkSP2PMQoT8HPJCEy1rS1meVpO6dUtIEZgbKY3AyA28Tl5d0aFAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABGklEQVR4Xu3VvUrDUBjG8bznNAkI0qaNxjQ2NYm1IPhB6SDoolLsUDcpXZ0c7FYQd/ECvAPvxEt7fE/bKVSnknOG84dnzo98Hcex2Wz/Rdg8LRGOJOG4Rjh1Bc55A09gyNOAIsSCkDAo581vXLyPPHw++via+jpQhEisNjqRmF1KvF67eLv38DHx8fO9owfUJAeDWGDMqOmFxMuVi8WdVzVGRdgTDnYZlLca6IcBHnoST2cSz8OaHpC6O13GHDbrKBh0y6B0/U5pAWW9DHFQx0ErQBaFS6B6jApVMWiFSboJin6xvnh5lbUJoy0DMe1O22JKGYiJ4sgMTJqnZmHC/dBiStHyH2MUJuBzyQiM+qwt5u+0nNI229b6BUb7s5S8XLXDAAAAAElFTkSuQmCC",
     "wiki_name": "Infused wand",
     "wiki_url": "https://oldschool.runescape.wiki/w/Infused_wand",
     "equipment": null,

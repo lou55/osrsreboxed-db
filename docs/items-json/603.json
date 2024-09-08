@@ -1,7 +1,7 @@
 {
     "id": 603,
     "name": "Observatory lens",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-03-17",
     "duplicate": false,
     "examine": "A perfectly circular disc of glass.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvElEQVR4Xu3V207CQBAGYDYhknhn4pWCnBFFhHIGC8hJr3z/xxm7284yLNu625ZeGCb57wh8+Xcm5HLX+d/DQJ/Mx//h580WWp8baK030FytoblcQcNdZo1j0N7tob3dhYLqCxdq8wXUZvNL4zzM/mAFqk5nUJ1MoTKepI1i8HL4ig0qj8YiKaEYvB6+Y4N4O+XhSCYhyseEghRM48M9BWE7HuRpMJSJiTrFSJAXEwwPtoOQkjOQiYE6PhVtxwQjdid4rjNM35GxQEXsjQnGeyq8Lh2m2OuL8N/pVyomKLMTD8NwiHgub38ESIEU33si6YAsMLg/EhNAHrtdETtQgFFBURgEqZdFQRzy8ObHDhRAKAZBJhgEqc0ITKcjYgXSYfj+8HYiMaQd+jzYiooxBg1+FmcYvj+iHXLaoRjNEyEmX8jbtIPDTjG8HXyuiCXmwRPnKB3Ish06TGLEdWmeS9cOBcmWkrVDhwnMnyCyyFpQ0FCCduiw0OvSnrkGdHNbEEnYDh1mBKJ/EwhCSErt0PG/tOTUo0Hkr0KFpIjxx//CI4znrnSvzUUh6lBYWDKBqEMb0EX9/HWuk+X8ApjPBnncEt+wAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABq0lEQVR4Xu3VyU4CQRAGYDohkngz4aQgsooisq+yyKYn3/9xyqmaqaan6Rmnh4GDmT/5r/BRVR0ymTT/OwLMvXrcL37ebKHxuYHGegP11RrqyxXUFstr4wQ0d3tobneBoOp8AZXZHCrT2aVxDmZ/sAKVJ1MojyfwNBonjRLwcviKDSoNR9SEUAJeD9+xQTid0mAoeybKxQSCNEztY+EH8XQcyGN/IBsT5cdIkNMoGCxPhyHFXl82Buq4KnU6UTB0O966TjDdnqwFKuRuomCcVfHrMmEKnS7VCnQCMRxwEAYhtC7nfgikQQrvHWoyIAsM34/EeJCHdptqB/IwOigMwyD9ZakghNy/ubUDeRAVw6AoGAbpkyFMq0W1ApkweD84nVCMMh11PTyVGBiMgP7P/ASD90PTUZ52IMawIsZkc1lbEEb4MTgdXlfIEWP5iSPKBIqB4QiJoddlWJdpOipITum86agRhPkTpByyEeRN6EwMRwS+LuMzN4BubnPUhEAYEQmk/k0w6AhJDMNxP7TYq4aDlL+KC0H0HGHYu2Le2CtA9PCvD2qaNGl8+QXom9Wsiz8tVwAAAABJRU5ErkJggg==",
     "wiki_name": "Observatory lens",
     "wiki_url": "https://oldschool.runescape.wiki/w/Observatory_lens",
     "equipment": null,

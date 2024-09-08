@@ -1,7 +1,7 @@
 {
     "id": 28607,
     "name": "Spider hat",
-    "last_updated": "2023-11-01",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-10-18",
     "duplicate": false,
     "examine": "Provider of mental cobwebs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xu2U30uTYRTHfS8i8EIvHA6VTCdONuPdD+ac7Dfb2nIjVyr9sGRZggmysKwQZCQiCOF9UDdF3XURRFdBBFHd9weEf8mJ73k5z/u6FjE3twgPHN5nZ89zzuf9nvO8HR0n9n+bRqa33TTave+gvYcO0sc6LWBtgdMoHbxOL5+62F/vu6mYsVFXZw+dPiVwLTONkoGrdCG8RO+f6/Tumc5wUd8sQ/V09zOQd2ioFVCGMtlQiT698dHHV152/EY87CnSXM5QqgUqmTAXYyv0/W1AeT6yzIpBuSm9QLfm+lqhkqZgLifW6MeHIDvWxfgqx/F/3D/PUOXSwHGrpCmYK5kN+vl5in0+vU6zqTLHBWrCnSXPaEzN0zHdPk3BLOQ26eBLjh3ra9lHHAcc2up3pcnrTCoQt9NJo8PDzYbSFMxivkIH34p08DWvgACD1mGOAAMonDnncjGQY3CQzvSLYk0xjYuXCtt0p7hLSzM7DHZjeotmtnco93iTUmtlmly4SeO5aW4bQAA0NjLCT1k3CcpoGQDuzu0zGJRB7NLuHuW3KgwUX1llKFcqzaoIjF/XyTM+rtRqAMqYAyQUn/B6aNLno6lAgB1AUCl9b52BIreXKbRYImciyUAAwX5RCfN0duBIt1Dj4la3gglcobLNUFBGisIFCHtS0aiCwhO58Z2q81tlKoOkoghcFIoEg6xMZn2DptMpLowY9kOF7q4uddvgAmXG6jZNFU6EwyppNdj5eJwKmQzNZLOUSyboge6mqL2XFUKLzGtvQh1hlgwYcSuMJJdWAgIwL2IhXj/x6zzAmJ/Dt0ujWCikVKqzbUZBtKzPbj8EZiQxWoqicCgER+tQFGd7bTbeI8MsLyXrOmBgBhCKIQHahuTVQPLxs84QHFA4BwC58jiDtdyyOoFgRoJqGAECsLQEQFAQ+/HEzOEMBlugrK2rs11WMwrLG5pJTAWxxuzIWhwq4Qk4a5sagIEZrakFZL3GAKouKmC/xxsyc1ZqAVnbUKuogFXHG7RaxQ4r9LdW/Cl+ZKtdrBZom+2fgjmxdtsv3DS4MgbXlXEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAklEQVR4Xu2U30uTYRTHfS8i8EIvFIdKhoqTzXjnxpyTuV/sXVtu5EqlH5YsSzBBFisrBBkNGQjhfVA3Rd11EURXQQRR3fcHhH/Jie95OO/7OueFrzolPHB4n533eZ7z2fec87a0nNn/bRpZfuKmUe3xAG09HSB9uNUGdiJwGhmh2/T2pYf9/baXCulOamvtoPPnBK5pplEyeJOuRBbp82udPr3SGS7qn2GojvaeZgIpZTLhIn374Kev70bZ8RvxiK9As1mlVBOgLJirsWX6/TFoem5yiRWDchN6nu7NdjcHSGCuJ1bpz5cQO9aF+ArH8T4emGOoUrH3uKE0E+ZGeo3+fp9gnzPKNJMqcVygxrwZ8g3FbP10LNOnmTDz2XXa+ZFlx/pW5hnHAYeyBjwGjbqTJojX7aah/v6jhtJMmIVchXZ+FWjnZ84EAgxKhz4CDKBw5pLHw0ADfX10oedIJ1Dj5MV8lR4UarQ4vclgd6Y2aLq6Sdnn65RaLdH4/F0ayU5x2QACoOHBQX7K+oigVMkA8HB2m8GgDGLXaluU26gwUHx5haE8KYNVEZiArpNvZMRU6xBQqg9wofjYqI/G/X6aCAbZAQSVjEdlBpq8v0ThhSK5E0kGAgj2i0rop4u9jqZQ4+R2t4MJXL5SZSgoI0nhAoQ9qWjUhMLTAQzMUgaXiiJwUWgyFGJl0uU1mjJSnBgx7IcK7W1t5rTBBcqKHdg0M3EiEjEvrQe7HI9TPp2m6UyGsskEPdG9FHV1sUIokTX2FpSDXlIw4nYYuVxKCQjAvImFef0ioHMDo392T5dGsXDYptKBTCVEybpdrl1g8l6mBw6F4CgdkuJsV2cn75Fmlj/l8EOpgJAMF6BsuLweSD5+9h6CAwrnACAjjzNYO5wymLpgL4x6B2ApCYCgIPbjiZ7DGTS2QNlLZ91zYFOJ5R/Wx5EIa/SOrMWhEp6Ac1imRqZK0wjIPsYA2ptUge2NH8qsXqlPBqDdZdgv6X5xx9YoWf2H7lRYI9AzO7PTY/8AGMd9awApUmgAAAAASUVORK5CYII=",
     "wiki_name": "Spider hat (Verzik)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spider_hat#Verzik",
     "equipment": {

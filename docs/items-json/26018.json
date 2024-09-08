@@ -1,7 +1,7 @@
 {
     "id": 26018,
     "name": "Sigil of enhanced harvest",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xu2Xb0uTURjGfcis6VgNnDJWKQsLM4bGsAYrGVlmRjassZKVhRQihfQH6Q9S+A1606ve9S4ietEHKKLe9AWCXvRNTv3Ow32es7NHme2xiLzhYjq3c37PdV/3OdjWtlX/T3mqUX+l/M3L5aKanBxVYydyKp8/oIaG+v4kWOBC58c3RrFXz7UKhUNqZGS/Gjy4V/Xt691sME/du3tJLS3NqDu3y6rz3Usf6PWLOuVyWQOUTidVMhnfDChPPbhf0QIq8eOLkbg0e+Wkbt/E6bwGymbTKpPpNkDD/f1RQXlqeblaJ0Di3z/5+vpeA83Pn9VQABWLh3WeAOru3qUSiViULnnq0cPLGoRXFP/2IdDnt0bVaqku4NI6AYrAJU89eTxrQFwYWsjfBahSGWuYOIBwKRbbEYVLng6wSJySLCHee/b0qnHo3NQxVSoNq6Ojg6FALbrkmalCi4sXDAzvIwB5vXVzSmdoerpggJg4wm3nqEUgKhh3BBQBtp3DGdp1cea4CTVnkgAx/hECUZ5enEMPCdTctQkNQpvYeGAgYzLE52ygCMffDzaLCxROAUJ7cITxJitsjsbHj+iW2ecRbYsMaGHhvM4Ir7RIwsqGtAcH+N0WoEDhWoRAfqgROSLQgNEumSg2Ji/A1mqn9GlNy+QKsR1q4RrxL8X29m3aEYFZWanpMefnG9fP6M1pG2A4hSNI8uMC/WawfRDU0bFdC1dWV+cMDKFmxAEhxLhEbmTcAaKtLlBwODbtUiNMV9dOLbk6aB/uyGUq9xaSKQxziHYBxJqs3wTY2jCpX08HABlh1OUQtPNitww4G4jQy1qytuy1DlQ4EDCI1rApT0uoaRcHIW0CADBgCLgN1JPabdZYC2idTPlQYQ6J9mRSWjLeAuIC9fYEIC0AUeFQYXDNygaxYZoEouqhXDB3wzC5mXFhJNTANAFEBWdRmNyNwuR+x3VlAzB++R8O/tOIShsGcct+mqjk7rFV/3z9BKyLY4xxE9ClAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACz0lEQVR4Xu2VTWtTQRSGe7FW04ZoIGkJUQuRKrUSrIRqIFqC1Vor1tAaoiVapSilKMUPih8Upf/AjSt37kTEhT9AEd34BwQX/pPRZy5n7mRyK6m90YU58HLbNJ157nnfM9PV1an/pzzVrH9S/uaVSklNTY2p8ZN5VSgcUCMjg38TLOhC78c3RrFXz7WKxUNqdHS/Gj64Vw3uG2g3mKfu3b2kVlZm1Z3bFdX77qUP9PpFg/L5nAHKZJIqmYy3A8pTD+5XtYBK/PhiJF2av3JK2zd5pqCBcrmMymZT7QDy1OpqrUGAxL9/8vX1vQZaXDynoQAqlQ7rPAGUSu1SiUQsSihPPXp4WYPwRPFvHwJ9fmtUq5UbAi7WRQjkqSeP5w2IC4OF/F2AqtXxpokDiC7FYjuigPJ0gEXSKckS4rNnT6+aDp2fPq7K5SPq2Nhwe4BkqtDy8kUDw+cIQJ63bk7rDM3MFA0QE0e4I85RMO4IKAJsd47OYNfc7AkTas4kAWL8IwSiPL04hx4SqIVrkxoEm9h4aChrMsT3bKAIx98PNosLFJ0CBHvoCONNVtgcTUwc1ZbZ5xG2RQa0tHRBZ4QnFklY2RB76AC/2wIUKLoWIZAfakSOCDRg2CUTxcbkBdh6/bQ+rbFMrhC7Q1uwzb8Uu7u36Y4IzNpaXY85P9+4flZvjm2A0Sk6giQ/LtAfBtsHQT0927Xoyvr6goEh1Iw4IISYLpEbGXeAsNUFCs6ilqGaYfr6dmrJ1YF9dEcuU7m3kExhWIewCyDWZP0WwDaGSf96OwDICKMuh6CdF9sy4GwgQi9rydqy12+gwoGAQVjDprwtocYuDkJsAgAwYAi4DdSf3m3W2CQQ5UOFdUi0J5vWkvEWEBdooD8A2QIQFQ4VBteqbBAbpkUgqhHKBXM3DJObGRemhVC7FZxFYXI3CpP7P5vsykYlbxKlOtWp9tdPjPIoxYG4YdAAAAAASUVORK5CYII=",
     "wiki_name": "Sigil of enhanced harvest (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_enhanced_harvest#Un-attuned",
     "equipment": null,

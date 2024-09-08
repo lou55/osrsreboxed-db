@@ -1,7 +1,7 @@
 {
     "id": 12537,
     "name": "Dragon legs/skirt ornament kit",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Use on dragon platelegs or plateskirt to make them look fancier!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xs3W70sUQRgH8DuW5VD8B8wX2oEEBWW+qCSKoN7cG1M0tTOrK9TSSsqwxBKr48gKQ+wHFQqCmEgZQUQURf1lU99ne9Znn5u9drstHPgyd7N7N5+dmZ3dVGrrl7Sxx3b8n5e0eTjVZWYnOymlGx2meP04hREr8wWzPHfGLD06bUHpi6ga7oEYBRBHYxYfnDLPS/lAx/iOYzpBVCxk2szd7i5DoQaEIxHzMz10LmobSJ//dX3KfF4d/zsUg/BZ/ulIfq8ffK8Ewqh+WZs03zfumB8b9wiE37Q0NVF076p4w85XzSCNsIEW7vZaQasL5wIgfGaQ7l2VNK2Lp8U+AmGUAJKjUpPJBBIFtP5sMDkQ2o62NYZGjhJAL+/3l4HevhjyQUgsEP5Qg3KHs6GJAnr3ajgIej1RHajjWDMlV+NQ+Dsipy0M9H7xYrKgntwOSvsvDAIUt2kQap2Py5d80Lc30z4mNghBW3/7LsqJWpcw+zOO38YgRmXrXVNX6wSCdhtI9x5SvKvC1TKo0LWbcvI3CKPEbfpu62yrM6MDDWbmynYzdrbBFLrrqwF5exBGSIKG+1ooe1yH6iMZr0Y0CBns3Ua5kPciQXJT1L2r4t3yNtDlgVbKTjdFdaPj1YgNhJFhEEYrMRAv0muFfRRMFdZPq+sFbbZN8vGtZsrsRJaSCIhRaL85dCA0cmQ4DCqNZykMwi7NmEgg3GE20PTowdDgOLYHBL/BvqOBn1au+iMUcXRQNkFy2tBeHDtUMYxiEIJXDjzl8dhIDCRRlQKMfvVgEHZpCWKU7t1SPJBt2tCGDvAagU5wXL7EhYFw/oelER+EPSjGPhQEyWmTINRolxgbCPCqQbjL/gRCZ2izgfjBytOVGEhPG9oliN8m5XQxiM8FaO3J+QAIe1Dsfcg2bRKEz5VAcv0kArJNmwThmG1BIzhPrp8qQSjlt7Qtev1wNAjv0hLEiQFKpXhbrxQNlJHrJxFQ1KKRUbCczXP/U9FIW/RvtnT5CcezKKVcM1mOAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xu3W70sUQRgH8DuW5VD8B8wX0oEEBf3wRSVRBPXm3piiqZ1ZXaGWVpKGJZZYHUdWGGI/qFAQxETKCCKiKOovm/o+07M8Ozt77t5u0YsGvsze7N7uZ2dmZzeT+fdLVtlj2//HS1Y9nO5Sc1OdlMqNDlW+foLCiNWFklqZP6uWH52xoMybSAzXIEYBxDExSw9Oq+eVou/C+I19ZvyoWMismr/dHUChBoQjEQuzPXQsahvIPP7rxrT6vDZRG4pB2JYnHSnu84Lf1UDo1S/rU+r75h31Y/MegWJhcFK+awaZCBto8W6vFbS2eN4HwnZEUJbmxdNyH4HQSwDJXqnL5XyJAtp4NpgeCG3H2ppDI3sJoJf3+wOgty+GPBASC4QTmqDCkXxoooDevRr2g15PJgN1HG+hFOocCv9G5LCFgd4vXUoX1FPYQWn/hUGA4jYTpC/kz8eVyx7o25uZqBgUPwhBW3/7LsrJepcwB3KO18YgRuUbXdVQ7/iC9hpBKPqucLcMKnXtppz6DUIvcZv5tHW2NajRgSY1e3W7GjvXpErdjUlAeg1CD0nQcN9eyh7XofpoTteICUIGe7dRLhZ1JCjGoqgfeRvoykArZaebobrZ0TViA6FnGITeSg3Ek3S8tJ+CocL8aXV10GZbJB/faqHMTeYpqYAYhfabQwdDI3uGw6DKRJ7CIKzSETEo+gmzgWZGD4UG+7E8IPgP1h0T+Gn1mtdDNYHksKG9PHa4ahjFIASfHHjL47WRGkiiqgUY89ODQVilJSgGSoNsw4Y2XACfEbgI9suPuDAQjv+wPOKBsAbFWIf8IDlsEoQa7RJjAwGeGISnbCsQLoY2G4hfrDxcqYHMYUO7BPHXpBwuBvGxAK0/ueADYQ2KvQ7Zhk2CsF0NJOdPKiDbsEkQ9tkmNILj5PxJCEIJPtK2mPOHY4LwLS1BnBigqCWI5Mj58xdB1UoQGcz/kqz8BH2v3gqbPJarAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon legs/skirt ornament kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_legs/skirt_ornament_kit",
     "equipment": null,

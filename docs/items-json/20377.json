@@ -1,7 +1,7 @@
 {
     "id": 20377,
     "name": "Steel trimmed set (lg)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, legs and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xs2X/WtSURjH9R8oot/bnMzYjOlGOWNmE829JKg4zdRcW41CiOiFYoyitjF6Y7TWCwQNgrHGqP3UD1EU9VN/1hPfc3nujsej8+o19sCX+3jOuff5nLfnHB2Og29O0ktX33Fz0vOFDD2dTwut3E/R8t2kEENsrs3Qx9Vp2nhR1kCpnWgb3ABiKACxVJgPz0r0bqVQFRi/UaeqGsoSpJNWH0zVQOEJEBYDvVnO09qjnGiLpw4I7WXonzsL9H3rTmtQDASfR4eB3j8pCiBuWw8I7/3Ynqffu4/pz+6SAEIMf3e3kBpdMWPYuddyz9qRDAQfZU3ByNOA39nIMcpPnqTwqV6aDHspERmgVMxHmfggZceHRF0hEaBLyWG6nA7S7NQIzeVCdD0fFk/Ue12HxLdsB4oMeyh2uo/GQv1aOIABCiCVwlkBhXIZCLIExOtCBxT0uyg05DbhAAYoAKENRolhbpaj4qkF+nSvPSD0HCC3SwFL6hgQeo5RUQPuJx3Qr88PTZiWgPKxLgGEKZKDvVxa1EoH5HMf1gKp0euYsU3XFy+YQFioDKQC1JNNQEYOwgipQNhdatBGupbxa4HkpKhGV8zY8jog5BbsKDXofuo4UPn8CTOY7OvK4NsKBKGsGHeJ3IJEeDXtMwPKvq4MPgMNeY6IbyFLM0xTQNhhjYAq2UEzoOzryuCrQBihJkcHtgfEUDIQMjIWKoLhyb4suUxe1B0BwplVnPCKYDPJgRoYVbop40wNX42uMQNInjaUTY/3iEMSQKnRXspEPZQ7d5xeffmrFWBZDBToOyq+hRxkIQ9VA/HVlIFwgEYDXRQPumhipIcSZ9xVgBfH+sUIYnex2gbCLqsHhA/jtMeZxlcQPulRx1cPpAi0v1EatQ+IoWQgQPB9iO9CMgzOO4YBiHz9YCDkIMt5SDdtdgiXspaA1GnD4kYZLvZb67OiTv5XAh83Awjt+FKPttuvr9DXjQp927zVChCstmc6yTCyVKCdt3NVQCwLQA4Hp/VGUgFlYSQBhNGxBahZUyGbgWXttf1PpkLqpL5zoO0foL3vQui30fkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu2XW2tTQRDHmy+giO+WNDTSRpo2aBppjA2J6cVAEtLEmMTUVosSEPGCUoqibSneKNZ6AcGCUGop2icfRFH0yY818t/DhD17NpeTnIgPDvw5m93tzm9vs9Oenn/fXKSXrr3r5qKnS1l6vJgRWrubptXbKSGG2N6Yo/frs7T1rKKBUifRMbgBxFAAYqkw756U6c1a0eQYv9GmygxlC9JF6/dmLFD4AoTFQK9WC7TxIC/64qsDQn8Z+vveEn3dudUeFAOhzKvDQG8flQQQ960HhL/7trtIP/cf0q/9FQFkCwaD8qzlmXUiGQhlo76puUzbgN+56BEqTB+nyIl+mo74KBkdonTcT9nECOUmA6KtmAzShdQoXcyEaH5mjBbyYbpaiIgv2n3uA2Isx4Gio16KnxygifCgFg5ggAJItXhaQKFeBoJsAfG50AGFht0UDnhqcAADFIDQB6vEMNcrMfHVAn240xkQZg6Qm+WgLXUNCDPHqqgOm0kH9OPj/VZhYFagQrxXAGGLZGfPV5a10gH5PQfbBYIZ13Rz+VwNCAeVgVSAenIIyIhBWCEVCLdLddpIV7LDWiAbQdG48jogxBbcKNVpM3UdqHL2WM2ZXNbVoewoEIS6UsItYgsC4eWMv+ZQLuvqUGaggPeQGAtRukUYmHHDGgFVcyM1h3JZV4eyCoQVaguIoWQgRGQcVDjDl8uy5Dr5UHcFCG9WaconnM2lhiwwqnRbxpG6RSgDSN421M1O9olHEkDp8X7KxryUP3OUXnz6rRVgWQwUHDgsxkIMshGHzECcmjIQHtBYsJcSITdNjfVR8pTHBHh+YlCsIG4Xq2Mg3LJ6QBgYrz3eNE5B+KVHG6ceCBHof6087hwQQ8lAgOB8iHMhGQbvHcMARE4/GAgxyHYc0m2bE0JS1haQum043KhDYr+zOS/a5P9KUEZmAKEfJ/Xou/vyEn3eqtKX7RvtAMGsM9NJhpGlAu29XjABsWwAtWpWSBZWEkBYnb8I1MiskFb9t87sD1a5pLak68RjAAAAAElFTkSuQmCC",
     "wiki_name": "Steel trimmed set (lg)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_trimmed_set_(lg)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 21204,
     "name": "Lava staff upgrade kit",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-09",
     "duplicate": true,
     "examine": "Makes a lava battlestaff or mystic lava staff more beautiful.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyElEQVR4Xu2W22saURDGsw8lWEJACIgs0WjQslE2ZtGq1FswuvGCNrUNKWmoiORCaV/6/zPNd8Kspyercc+ah0IHPhRW9/zmcmZma+u/hTKD1term0FX7VO66Xae6fqsLZ59btTpol6j8YeqD+AqadkTUC2fp2I2S2XLeqZZ79zT9Nz1QC9bTQ90WKmQWyrSmePQ6UmBmse2LtQTUDV3JIBYKhSeq7obDYQYlKMK0FwyKYAKBwdBoRZAJ5nDwFCIrCpEJ2Oa+kDwCAcCiLUMTAXyg5oP+pSOx8MB4WA7nd4IFNJn7u1tBoilA8ZAKIF4NBoOSIbRhWIgtInozs5mgWSYIFAQ2sBuJBIOSD3cTzLQKij0JIZ5FSAVxA9IhkKD1IwObFHUOvIDQrcOBYScrxKA0YFVAD8BiMeGBpDhzSUI3yEerugnEEYDnsNzWUgNgHGr8D/8Fk0RN00DyBAv4HSxd9z6IQxJWSrQt6uJ0Hx6LeAgvE8jZYbwGp7J19wPjEHc6hFV7BRZqRgNOx2h37/u6cftlL58GlGv/F5ECVAB55ghwoq1wUrsC2HuQHXb9NQqJKhbStGwekiTRpb6tRw51j69jbyhyWBAP+9ndDu7oWq5SN12U1x1CPDJWCwYEPKOiAACMwcvwMGyPtYyAuSy9Y6+th97S8OmRDxKY9el/mMkEBmkK5+zqOQcCwcBAwcDjo2/Cxk5540QgpfyFWYgpAzReZh/J6dgi7q5GPUomTBFarmu4FzAsWF4i5S8+algvAWiNiDUBj7lYleLnKMT2d4OBsTXWd6b5WjJO7QMxjcJhzMUAHmoopjldK0NJO/H6kLvl0aGWgbGbQIR0tiDDLEH46apYKvSqEaLwThdAANQwOjADHoYjzwoBttEGkMt9ssUJo0a0VkY/1GVCijrpTRqRudlUyHXgQ0VnTCmQqpSf//P2B/OrDzZzqbNvAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu2W22saURDGsw8lWEJBCIgsUTRo2SgbI1pd6i0Y3XhBm9qGhDRURHIhtC/9/5nmOzLLyXFds5e8ZeBDYXXPby5nZnZ23i2UafR6vblpdNU9pdt+b003Z13x7EerSRfNBk2/Wi6AXgpkK6BGsUiVfJ5qhrGmxeDc0fzcdkAvO20HdFyvk12t0Fm5TKcnJWofm0GhVkBW4UgAsVQoPFd1PxkJMShHFaCFdDo80Enu0DcUIqsK0cnpenAgeIQDAcTaBKYCuUEtR0PKJpPhgHCwmc1GAoX06fv70QCxgoAxEEogGY+HA5JhgkIxENpEfG8vWiAZxg8UhDbwKRYLB6Qe7iYZyAsKPSkgDGw7kAriBiRDoUGGBlIPe63cgNCtQwEh514CMDqwCuAmAIUaGzyXIHyHeLiin0AYDXgOz2UhNQDGrcL/8Fs0Rdy0AECaeAGni73j1g9hSMpSgX5dzYSW8xsBB+F9AVKmCa/hmXzN3cAYxLaOqG5myMgkaNzrCf37+0BPd3P6+X1Cg9oXESVA+Zxjmggr1gYjdSCEuQM1Td1Rp5SifjVDY+uQZq08DRsFKhsH9DH2gWajEf15WNDd4pasWoX63ba46hDg04mEPyDkHREBBGYOXoCDZX1r5ATIZeczXXefe0vLpFQyTlPbpuFzJBAZpKtYMKhaPhYOAgYO+hwbLwsZOeeNEIKX8hVmIKQM0Xlc/qZyyRR1czEZUDqli9RyXcE5n2NDcxYpefNTwXgLRG1AqA18ysWuFjlHJ7a76w+Ir7O8N8vRkndoGYxvEg5nKADyUEUx+0wXbHXD5LVzE5garU1g3CYQoQB7kCb2YNw0FcwrjWq0GIzTBTAA+YSBafQ4nThQDBZFGkMt9psUJo0BYbbZOiRrWxrfCMjL1iFf6t2is/8N+fUcg2W0kAAAAABJRU5ErkJggg==",
     "wiki_name": "Lava staff upgrade kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lava_staff_upgrade_kit",
     "equipment": null,

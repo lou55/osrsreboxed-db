@@ -1,7 +1,7 @@
 {
     "id": 24623,
     "name": "Divine battlemage potion(4)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-04-30",
     "duplicate": false,
     "examine": "4 doses of divine battlemage potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADtUlEQVR4XuWV70tTYRTHuxA6xnoRRG98Y9APJK2EFNL8UUslU9yWTp2iGIrJ5nTpZiJTrCSkhWXKzFIJX4igRZFNiKAX9SKCIAhi/jOne+713Od57u6829RXfeHAdvfc83ye7znn2ZEj/48k0D85ROFmfOglQamjLslvGWmvRBKM+c6Dt+MstDlPQUNVjsHGDOhSbu4euVKS2ekk+LhcCe9fVyjxaPgiBLrzdOslaLl/zyRPyjI7naTBbETLYDJwAfxd53Tr1Rx75zEV6wk+GQu2hoDW567CuD9fKZ9+HQ+TARCDwEC7yXIerrmlHTyeTs2d1WelSj/dbT8DdvtNqK6pFw5FQPw+7LOpzBySoLu7V4jJyFNwuz3gcLih9pYTysrtHITeHbPeNBAl0ttNz30+P/T3D4DfPwgDAwGIRKPQ1OSBhoYmuC47VFRUwgFRPlIy10yV7EUJgsEQhEIjSuDnoaEg3G5sVUp1paQS8gsKDd+jwLy9kSntO1uTVInu6H/f2HwLsdi2HDHY+rQNTmczlFdUaZsYlYkPBErjSkjmDvvd6+2HcDgsx7gSWK7KazUGMOwd3iGEMYZPEHuJT6Jfg2UiGALC/kl+CLPeNBSzlkaeQoSSYGflsgCEJbPfqIXi4lKDA/Aycz9Bxg6xk0gQnzsGO8uFQqwOWiDSmQ1D9VkpbGZaJlG0MW8pPfv60JoA82XSCmsBC8x0ZUPIkQW+WhWKZUwse8owvAiCPZHdmT8O8aUCLQhofdgCs3eyIdzIXKIQp2mvcppKLN23KZsAQ4GuvRuxwnyPBSbcqksjrSe0/qMRN+7HtCQCKe68ymPBAX0YtcJCrwWm2lSXBuuYSzQo9D2t/lHF7KZk3x/bRBgOCp3bGrPCstcC0+3Zmkt9NSpUGmNuJPFWJZvXFl2wttShRHzxtACFQLFxK7zxq42NLo26sjSX0hxzI4kOrcy5VAh9yDC/Z2yKe58nrMroY2OTS9jc5FIGzoiiCUOgv7NyuV7mqqGD4oFw9LGP0KUHLaJL+4JhkmDphYvB8LEL9Oe5DX5M27TRX+xjLtEVQC7ps2cgSdkwvpCjhgEUD7QZVPsIxx9vbXKJLsoDcEliMEmgsJw/n9i0uwj7iFyiKwBd6qk+QJfi0ZNqGIDxQHgXYdlw/NElLBuOP8Hsu7GZdi9FDD2c/Ef7K2LTRp8aG905JBiS+i+fACYH9RHCoDM8TGPJ0YPqHyOx+0kAk0GxdwiGX3dI7jCx5OKmRgB86POY6R8Eg0RX2YtCwQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADgElEQVR4XuWV7UtTURzHvRBujPUiiN74pqAHJC2EFNJ8KFPJFOfS+ZAohmKyOV3qTGSKlYS0sEyZWSrhCxG0KDKFCHpRLyIIgiDmP/Ntv3s9995zdrfrnl71hS/s4Z7f+ex7fr+zrKz/RxLETzIo2kxvURJKHHUxvktK8QpJmPCch7vzLG43nkJDVY7BxmkFMism4eNqBd6/Lpf9aOQifD25wvMSWu/fM6lzaJkDMZitUCmmfRfg7T4XBUQ14tcxldYTfDF9nyivGdDmwhVMevPk4xOfSxmGQZApbha5Hq6ltQPt7V1qOuvPSuR+uttxBpWVN1BdU8/9qGgg8X1cmSUkoaenj/N08ClcrnY4HC7U3mxEaVkll5JY3xjSVLEWSvB4vBgYGITXO4TBQR+CoRCam9vR0NCMa5GECguLDdYxxaprqlgLJYyO+uH3j8mm18PDo7jV1CYf1eXiCuTlFxiuY6a6fcEZ9T3/nKFiwTBJ2Np+i93dvYh3sfNpD42NLSgrr4qxCd+bDCiBK8EcyO0eQCAQiHhSNh1XxdWauGv0CRGMMXyUtEX6IuIzdEwMhgFR/0Q/K8rsx3LSomUjz8wXkLC/dokDoiOrvF6LoqISk80SAiKZJSQhvHAU+6sFnNeHrAh2WTBcn32Izcy+N5TRIglfH9qiYL5M27Dhs2Ku2wK/IxueWhFK/FEpSUhn8RjCK/mqGdDmiBXzdywINOlTUsxPU0pg/NF9m7FzMMyU2rsxGxZ7rZhyKSmNtR1X+4+NuHE/JiQeSE7nVa5mHdCHcRuW+qyYua2kNFSnpcQGJYWEtLhZse+P7TyMDoqS25mwYdVtxWyHRU2pv0aBSnCqRPG3Kot5Y9mJjZVO2eHl0xwUAe1O2vDGqzQ2pTTuzFZTShGIxCe0tuBUIERHYH7P2eX0Pk/Z5NGnxmYpUXOzlMQdkpQC9Hc+clwvTyoWoPRANPrUR5TSg1Y+JbFykpKw8sKpweh9APTnuR0/Zu3q6C/3aymxKyCNKUnyhuGlHMUGUHqg7VGlj2j86dZmKUVflElL0mBiQNFx/nxiV+8i6iOWErsCKKXe6nRChU4oNgDTA9FdRMdG408p0bHR+KcRhungUiSLcJE/2l9Buzr6rLEpnQzBMCn/8lFgEbM+IhhKRg/TVHwkU0Ak7X7iwCKg1DsMRv9cBmFEiZumF+AfOeXef3DIHm0AAAAASUVORK5CYII=",
     "wiki_name": "Divine battlemage potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Divine_battlemage_potion#4_dose",
     "equipment": null,

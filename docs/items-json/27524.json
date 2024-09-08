@@ -1,7 +1,7 @@
 {
     "id": 27524,
     "name": "Wood carving",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-11-30",
     "duplicate": false,
     "examine": "A wood carving found in a ruin south east of Mount Quidamortem.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkklEQVR4Xu2WbWsTQRSFOx/80FKUYmgwxbRJSCRNaWKxtcVWWuoLVUGlIIhQEAT//y+48uxyNjfrbNhsEiPohQPZzezcZ869M7tra/9jIRFsrJVHsJfPu3Z+3LHTp62/ASrY1VlvAmi0t7dKqBQIlwA6OnjsyjdNS4l08lfn/QQGl7yA/Hk7sh+fh/b946HdvT+wbzcD+/p2fxlQIUmmhBKJlZzEX14/sdvrnn267P6mBboVkuRasQQAAuDDRcfenLaiunnRntCcYGmJcEHJ5YCHuD7ZzVQEgjxoRai0VDhCOQDJT9xsbE3IwwCdF/9fPmsmQDPu0GDvrgYT7uRXiiMxGCVX//iy8szFaKcaEFuc3sEdJiQZWx2pRNNgVGItRjBnh41qQDQz5VKpPJCsV98UwbAYLYjxwBz167MCjZvZu1PUoDEYgUjcA/5k8MiGvW17uLUxS2On7yzc8b0jh/x1rF8A4HkdDRLjcWjQrmVAJV0KyWmsM4ckfvfkYVRGCSAAjoe72T05RLnqtU27v7luG+v3yroUkslktc6eohLle0aOCIbfjKWhVS7B4FAJl4IN93cS+f6J9U0RjBf3eYZy5d0pAUMEG/Qa1u/Us+2tHQII1zGgPIjEGJWrgjtEsG5rOxMTsTuQjgAS5Bs5DyIxnnI16g+quEMEazdriag5QIjJSY4zOof4XQQkeMayGMpVwR1FSLYnQILSZ0YMKgaikxmYWLnyGUvEGEo7TzuHhvdJfeNzj37TIYgzwFCuiu74GH+KehiaXo2vXhMEbrAQD4Izc7ozjnSCFEgwAqHPeLnSsAiIGMgcvTMtJj/eBeIBvDzIEmDS0KRyzcu7EQNZOEwspgH+UZCi8BArBfkn4hcSolcFZUjkWwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcUlEQVR4Xu2WbUsbQRSFnQ/9oEiLGAyNNJKEpMQVY6VaxRcU+4JtoS1CoRQKQqH//xfc8uxykrvTWWk2sRXxwoHs7uzcZ869M5uFhYeYSwSb6L9HsNNXfTve69nBi85dgAp2fji4e0C4BNDu1jNXvpt0K1FM/vp4mMPgkheQv6527OeXkV1/2rYfH7bs+2Vm395t3gZUyJMpoURiJSfx1zfP7epiYJ/P+n9ojm6FPLlWLAGAAPh40rO3B52kLo+6Jc0IVpQIF5RcDniIi/2NsapAkAetCVWUCkcoByDxxO3WSkkeBuhYPD972a4DFOz9eVZyJ14pjqRglFz948vKOyc76/WA2OL0Du4wIcnY6kgluglGJdZiBHO43aoHRDNTLpXKA8l69U0VDIvRghgPzO6wOS3QpJm9O1UNmoIRiMQ94PezpzYarNnqytI0UMU3C3d878ghf53qFwB4X0eDxHgcyrqN6YE4jXXmkMTvnhhGZZQAAmBvtDG+J4coV7OxbI+XF21p8dHfQoV8Mlmts6eqRHHPyBHB8JuxNLTKNQUMEWy0uZ7L90+qb6pgvLjPO5SrhjtEsGzQsmGvOd7e2iGAcJ0CikEkxqhcNdwhgvU7a2MxEbsD6QggQdzIMYjEeMrVaj6p4w4RrNtu5KLmACEmJznO6BzidxWQ4BnLYihXDRhFyLcnQILS34wUVApEJzMwM5TLxwRKO087h4b3SX3jc49+0yGIM8BQrhlgFExQyMPQ9Gp89ZogcIOFeBCcmdGdOAogwQiEPuPjSsMiIFIgc4ZRTNxCAvEAXmWQucOkogzo3fjHIFVRBoyfPsS9j98VCR8cK+ueCAAAAABJRU5ErkJggg==",
     "wiki_name": "Wood carving (Mount Quidamortem 2)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wood_carving#Mount_Quidamortem_2",
     "equipment": null,

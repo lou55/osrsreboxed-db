@@ -1,7 +1,7 @@
 {
     "id": 19383,
     "name": "Hunter potion(3)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "3 doses of Hunter potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACV0lEQVR4Xt2Xy28SURjFuROX3XShiRIr1hbT1igYHi0PiwKFgmCwMX1YNBVFDCmUUKTg1oWJGxPjyrgyNq768B88cu9lBmaYKdbM3El6krMDvl/O+e4dxuG4GCJQ21YRvNm8hWfZKSQjV3H/zqTdUASHXyP4+SXM3Hg9h+eFm3ZCEQXmx+dF1HZuYyN/gwF5XC7RUHxnZKDvn4KovnCz+mzYJ4Jcfg2FwrqSzrePflS2Z/E0fR2BQBih8EORUARbWy9H/Di3huRKDsuxFXg8fpHV9U5XucJcLr9TnMkWEE9k4PeHMOueEwu012gqrtX2UK3WkF59gqVQDPML9+B08l0SBERF8OvwN05P/+D4+ARHRyesLq83oCw1hREKVCq9Rbt9gG73AzOty+dbsgOGimB3t45Op9N3F4lkFsFgVHRVsgjaBx2VU+m8skMCjzwVwatSGc1mC/v7LbRa71l19G56FF9V1ab9pkUiqFSqqNcbykkrFnewsVlkUNEHcfFAl1KZgZMpSLEEpOgypFAE0l0PHNMzomojbPi/AlmcEmEDVTBnAU1RGEtT0knHAEiij44Zt5UpETZwBEYPyOvjQNal1IMJLOqnYwQ0v8Ch+kAmp3RGOuOAaEquaTNT4otsmI4RkLxHcm0TE2ZBjUlHD4jWS4GGa7vmNKs6g5N1HiA5pT6UdsJ/SHMza60HJNfWg2Iwl68oCZmSEh06zrp3EYWZ5C+QJsHI4v8CtRC6QDKMUpHpMFz8B+V3rlE4BqR6sA5ATIcZ1mDAAE5rISB6Gh6stfaz59VfQn1oSjMeMCcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJElEQVR4Xt3Xy08aURQGcO6kSzcu2qQSrbVKozYtNDx0AKEFBKHQoGl8tLSx6IghggQQodsumnTTxLgyrkxNVz76D371XpwRMjPgYmZuw0m+LeeXc87MBJttMIqgO1yLYHv9GT6kxhALPMbrF8O8UQTnRwGc/fKzVLam8TH7lCeKKJjTn3MobT7HWuYJL1D7ZmTQyQ8fip8dbH0c7okgnVlBNruqTOf4uweFT1NYTozC6/VD9L+xEkWwsfFFlXfpFcQW0wiFF+F0eqwFbUsFFknaVZJMZRGJJuHxiJhyTFsL2q9UlZRK+ygWS0gsvce8GMbM7CvY7fItWVYEv8//4Pr6Ly4vr3BxccXW5XJ5eRw1LYJ8fgeNxiFarW8sdF1u9zwPDC2Cvb0yms3mbVqIxlLw+YL8QI3DZlfiiYxyQxajCL7mJVSrddRqddTrB2x19N30NrLEY20EhUIR5XJFedJyuU2srecYKrgQsR70IJ68SywOIRyFEAxBEAMQXjphm5i0CkVY8/8ERFjDLkwv0Ni42SiN6eiABPrpmHSYCSKsoQqjBXK52yDzpnSD8c5pT0cPNDPbRpkG0ptOPxCd0viEkaj2IetORw8k35G8tqEho1B9pqMFouuloM61jdgNBPWazn1A8pSMRKkQ/UDy2m5QDPPwkVEYWoQ17RfNdxHFDJvyB5L+YG+YApIxyooMx3SW3ECNY6Cu75ipEK26w6kzgPUPZFUzP7mRP6MAAAAASUVORK5CYII=",
     "wiki_name": "Hunter potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hunter_potion#3_dose",
     "equipment": null,

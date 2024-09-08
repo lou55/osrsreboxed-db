@@ -1,7 +1,7 @@
 {
     "id": 16446,
     "name": "Maple blackjack",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-15",
     "duplicate": true,
     "examine": "A solid bit of maple.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZUlEQVR4Xu3SQUdEURgG4Dm/IJkxY2Y0d5r5A/2FaJFE0iJJkqhUklGpVEZGVKRoMUSLiIgWERER0SItolXa9UPevPf4rjNXs/1OdF+O4xyX+3jPl0olSZIkiRsDu7xGEAYfexU8bwU+UQbfx1V87lfw3ujGy06Ap80SHtdLvlAGX4fVsJnXehC2I6CHNS8oEzbztmvbiYPuV7q0USZCtAPd1Tyg+GMiBBYH3SwV9VG3y8UWGHeeeU/Q9aKg1GAm/HEcJg0RdDVfwOVcQRf1G4y7C7qYUUT1lMvR0xDGhgjiTPEsoLOpvB6KaQdjc0QR1JzM6aIYgZ1O5CIYF5+PKN6ro2xsWy6Mc3U+ncfJuKCUYe4zCoyLM8XzwWjWgSni4jDOlaAaIxmsDqQx29uhi2JcGAecDW0PpbHQ1xmB7DfqMTgay6I+nEGt32KI8ghiDDYG3aeyGI8gphXiGWPzZyBJ/k1+AKUTWFAqkk3VAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUElEQVR4Xu3SQUdEURgG4Pl+QTJjxsxormZ+SbRIImmRJElUKsmoVCojIypStIiYRUREi4iIiGiRFtEq7fohb957fTO3W23PN4vzchznbM7jPV8q5ePj4xOPIFqmUYTgfbeMp83AEiX4OqrgY6+Mt3o3nrcDPG6U8LBWskIJPg8qYTMvtSBsR0H3qyYoCZt53YnaSYLulrtco6SJ+A90WzVA8WEiFJYEXS8W3aNuloo/YNx55j1BVwuKcgaT8OEkTBsi6HKugIvZglvUXzDucdD5tFMU04KxIYI4Uzwr6Gwy7xrF/IaxOaIIOp3IWaAYwcl4rgnj4vcRxXszVBLGuWpM5XE8pqg2gHFxpnjeH8nGYM5xLRjnSlH14QxW+tOY6emwQDERjAPOhrYG05jv7bQEMYLD0SxqQxlU+yIMUYYgRrA+EP8qU4ymbSA+Pnb5Bq1hQs/NOimkAAAAAElFTkSuQmCC",
     "wiki_name": "Maple blackjack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maple_blackjack",
     "equipment": null,

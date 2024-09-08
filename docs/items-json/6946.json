@@ -1,7 +1,7 @@
 {
     "id": 6946,
     "name": "Beer soaked hand",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-10",
     "duplicate": false,
     "examine": "A severed hand dripping with beer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTklEQVR4Xu2V/UuTURTHvQyJ+q2fQsPUwMIEjRBDsFTS5gycy5SpzdTUfME0bWlW68U3JA1fKgvRkKx/8+TnPp1t6jbdXELggcPu7nOfcz7ne87dMjJO7dT+qRk56Cdqe5PnujIk99KFsGdlnY8BGMvTYkZKioqkID9fcrKzpSTTJaWlV2J6cfFlKbyaIwUFF2N6GqCMeN1u8Xk8UlddJRVnXOK+W5qy3ywrPI5aRvyNjdLd2iojvT1StQsDkM9XIS0tlXHd76+W9rY7EgjUSucjt3R31UlPT711nnk8ZVJefi0VMCN9gYCM9/dLaOyZ1O7CAPWg6ZZNSKLoZE/67u3xgYGGsA8NNVoPPm+R8bFm+x6FVd4uTgbMyOrsjHx4EZTFt6EwECpQPRAkeTrsk9HRJvupiVmr80wd0LnZbllY6JX37zrsHqpFwBKakS/z87K1uiIbS0vScNZloQhAKwhOQqqeetkqExP+sALRzp465ylkbXVIvn8blR9bQdnenpCdn5MyeL/yaFDqzecyLZC2CyAShkIBmZ7utBWzfv2q3cKpA6vAPKeFFKRx5+cey+LHPnnTWW+/X8/LSwzlHDDSugvk2VWJYLSFBEBoQNrAej+cfgKFSrSM92l7dMEKcyhQxIyVm74TnMRAID++vDwon5b698CRnHNAqUqoyhk+UTtFGMzYIFRLIoJ+XhuWjY0x68zE+tcRu6eAnOEsDpQCURRngKRIr7f8L1hSZiyMKkNCADY3x+2aBMCwBxxrFNM28g5gQOit1BmioGCbtvDIFh+I7+yTUFvFs2iVeM4aSNaoxYBry3imrdufOY7FBqI6vjOw0QNK4v0q0TbeY593UIvbeqw5IjAJNCFABwMaqwDAtFJVYh9wYLQQzjFHSaqjZsJXXYGYl9jVOfCqkraVfa49agFs56qjLlUgzBlEkugvbvxgzmxEq0RBqujvX1OyNdUhM73eBDEOtcivq96sxMGMVYIC9PorEO/vhLriKJyURSpnSBMDYU5yCuFiRM7vn71jmZNEb5ETPJ4Z29rNyYeyMuLcRgVIEwzmADEDJKqpuZEAytgrTnvWg21HUDRlMxYGByxxopT/RJO1oyfS54nOpMVOLNGp/U/2Bx5b2ndlpIgcAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4Xu2U/UuTURTHvYhE/dZPoWFiYGGCQoghVCppcwbOZcqmzdTUfME0bWlW68U3JA1fKgvRkKx/87TPHWebuj3ObfnTDhyeZ/e593w/5+UuLy9nOfuvZuS4n6kdFi/Jz5OSK5eiXlh4MQFgIs+KGamqqJCy0lIpLiqSqoJ8qa6+ltArK69K+fViKSu7nNCzAGXE43KJ1+2W5oZ6uX0uX1z3q9P2WzXlmVTLiK+tTfr9fpkYHJD6MAxAXu9t6eysS+o+X4N0d92TQKBJep+4pL+vWQYGWqzzze2ukdraG+mAGRkKBGR6eFhCUy+kKQwD1KP2O1YQoXixZ0MPDvnISGvUx8barAdfdsr0VIc9R2J1dytPA2Zkc3FBPr0Kyur7UBSIKpA9EIg8H/fK5GS7faow7+p8Uwd0abFfVlYG5eOHHrtG1WJgjmbk2/Ky7G1uyM7amrSez7dQBKAVBEeQrOde+2VmxhetQLyzps5+EtnaHJOfPybl115Q9vdn5OD3rIw+rEsNSr3jQoEF0nYBhGAoFJD5+V6bMe9v33RbOHVgFZjvtJCENO7y0lNZ/Twk73pbUgFSM+IPA7nDVSIYbUEACA1IG3g/CqdPoKgSLeM8bY9P+BQwasaWm74THGEgKD++vj4qX9aGD8Ehzj6gtEpUlT08qXaaMJixQcgWIYJ+3RqXnZ0p68zE9vcJu6aA7GEvDpQCkRR7gCRJj6c2HShjYbQyCAKwuztt3xEAhjXgeKdi2kbOAAaE3kqdIRIKdmkLU7bkQPxmHUFtFd/iq8R33oHknWox4NoyvmUFiOz4zcDGDyjCR6tE2zjHOmeoFrc1ozkiMAIqCNDxgMZWAGBaqVViHXBgNBH2MUdpA+lVVyDmJXGwCLxWSdvKOteeagFs56qnOUmMlCwyiIjoP27yYJHZiK8SCWlF//6Zk725HlkY9DjEONFi/656s5yDGVsJEtDrr0CcPwj1nXA+JYtlzpCeHDAiTiJcjNj+o7OXkUVE9BY5Bza2tbuzj2VjQm9j1i0CxAwg1Nh400HI2CtOe7aDXQ77MjZjYXDAnIW0PU57smJnJpSznGVk/wC2nqKOqFnATwAAAABJRU5ErkJggg==",
     "wiki_name": "Beer soaked hand",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beer_soaked_hand",
     "equipment": null,

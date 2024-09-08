@@ -1,7 +1,7 @@
 {
     "id": 7598,
     "name": "Item",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": true,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1klEQVR4Xu2VzU7CQBSFmRfAByBBNHFhNIGFJrjAn6CiYlBURPwDURFRQUUkGFGD6MK4ML7wNWeattMWTS1Uu+hJJs20U/rdc88MHo8rV64cKUbScIQYFfb2aDIc1kH9GyCjq5MCLcxMc6BQIMCvW6urf+2a3CZGd+Uyrcfjyrx+fk5HOzvK3GYw6QPvjw/0dFOlarHIW7YSi9F4KMiftet17tr+ZorfN7bTssQKVTcuDvO0u7GutEkccstOs1lanpujibExGvT7hWeWxejjuUWt2xrVSiXKZzKUXFzk1UYjEQ2AOHAP65dmowbQLoEgRm/NJm8FKlWtZ3R/WRFyoq5/bTRoey35DWxPxGh+akpTKa6fL20OhfyITpwd5DTzn4clMUolEgqMDPRwfUWV4yPuBvKUS6c5IHKDjCHsyBvWIeRwGhHAejgt50r/NZPSZ0ByAiAAwE5CqwAlw6GdCDbgsOOQK+w6vduWW2l8UWs/3BIz1mnANZxXwZERBUj7m11KbB92oFh1pyFD9Xm9dgCpleNIMF91D9pllHQaI8TIhnwumf2I2XW/EFMOTGSi3+cz6Y6tkqyHO0MDA04Aghj/ixgdHnYKEGRLSLuTo2BcuXL1S30B40h/+ULepr8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuklEQVR4Xu2VQUsCURSFfX/AfoBgGLQQA1sY2MIszMwM08zMzDQzMzPNzMRIC7MW0SL6wzfOG8YZRynTMQeaD95i9D3n3HPPuxoMOjo6moSRsDQBo1wySStOp0LU1AQyqpznaHNtVSaI0UEo9NeuiW1idF8qUSQQ6D7Xi0XKJhLd5wkLE17w/tiip9sqVfN53rIdn4+WFu38u069zl073o/yz/vbOTLyCiU3rk4zdLQXkbVJ6QSji1SKtr1eWnY4aM5sVkMQo4/nNrXvalQrFCgTj1PY7+fVelwuhYDec9i/te4ZIHRsGL01m7wVqFSyntHDdVmWE2n/a6NBh7thNUUoYbThdisqZfT50uGikB+5E5cnaYUz362RYBQNBhU/wKh1U6HyWZa7gTylYzEuELlBxhB25A37EHI4jQhgP5weM1fKg4ITEAIBuEloFUSJ4tBOBBvicOOQK9y6frdVo9d+uCXP2KAF1zCv7DbbJASJCO3DDfz5JYKoGaNxiL2/RqocI2H4qsVzqiJMY4QY2ZDm0tRg3YGJTMyaTNMWBATr4c68xaIFQYDxv4gFq1UrgsBEQqqjo/N/+QItpz92p7LRcQAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

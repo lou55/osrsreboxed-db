@@ -1,7 +1,7 @@
 {
     "id": 27861,
     "name": "Abyssal dagger (bh)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": false,
     "examine": "Something sharp from the body of a defeated Abyssal Sire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpElEQVR4Xt2VIU/EQBCFu2maps0FcoFgOYPBQDAYBAaBQZAgEIiTSDziHAJBQoLAIXAk/MWh77bDTqctIHa3G17ycpe79va792a3WRZVhvQnE8rQUZFTQlCGDlqgw8ViaigLs19k6QABJhEgB3NW5vQwL6eeIwd0UTmgyCkhAWcGuqwKeowPZKgqSzpt6jlujGHGK+q6qhMAgvH+vK3raV7Ry1YVe44sFFJho67nBua1hUFCkVIydCIg2KgLMG/bDkjf6UHd4WUY1MMgN7Xzu4DxCNRdHM8n7KDdPPuGQRrXwrezYj03nzu173TsbEjzToL3cnvWLBsAec3dRkkfAsYjEOQS4gWRDMxwSEiDB0iH1YUBAGpDVRhkrhHfyWuDpYN/j8V1bZyS/NwlEgQGskCrzW4dY5YVBYCBDN3/AiNnLFAqUv1dpmEYIgBM/9DTAGMw+pc8yKwPOlgvrCEYVM6LB/XT4Ce1hhhOxGs6w1VgJ43tpiEATzAsC8U1Sf8FJpAsFD+X+ATGg3MCGNZwfTohfVdgJQr1kyPXZsWLjllf/2/1BWlBryeXBp4cAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4Xu2VIU/EQBCFu2mazTYXyAWCRWHOkGAwCAwCgyBBIBBI5HkEDoEgIUHgEDgS/uLQx/LY7bYHpnO7gpe83KXXy3ydN9OtqrXKSHolo4wcNLUUBGVkvxwgD7NoqnKAAFMIUIA5sbXcz21uqAB05rIBoWAwgc5dIw/rBzLirJXjLp7DzhhmfCKui7YAIBjfT7/jepw7ed5yeaDQFRpxPXUwLzlgjiIIGnEB5nVbFag/vIRBPAS5aoPfdGD6xXE+YYN26+oHBt24jHwza77m5mOnnRrIz0ZsbhK8V/t3zXUHEN+z3LDyPj0MFTrEgugMTDh0KAVX6A7VhwEAYkNUGGTGiN/ie9Vg8PQonsbGLsXXA4QKDOSB7jb7cayyIghl5PYPmHjG0n8raLhlQxg1xU/aH+Qxq8PgRQenhYcQKls07AZP6hRivCMTw6TFYGzSqm2aGGBMHooxxc4AQ3konkt8A+PgzABDjceXqUNUoVC/+1/59AlBwGSbY9ZZnQAAAABJRU5ErkJggg==",
     "wiki_name": "Abyssal dagger (bh) (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_dagger_(bh)#Unpoisoned",
     "equipment": {

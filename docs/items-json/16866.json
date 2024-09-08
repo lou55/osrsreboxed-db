@@ -1,7 +1,7 @@
 {
     "id": 16866,
     "name": "Strange potion",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": true,
     "examine": "Some strange liquid given to you by Zavistic Rarve.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABq0lEQVR4Xu3X3UoCQRQHcOdNfIDo4yJCWBEpsTKwJZMt2TIzsxY/KisKESSphIpAo4tuugp6yhP/s0yua3XV7mzSwGFXd9AfZ84MZ0Oh8RmCBqF8CHrva/TW06h7MRMElGDM632EOo0pBk2HwypRNujldo7aR5PBAT11ZqlVnVANErTTzFGxvUXl6wJV7kq0ebKuso4EbV9uUKFlMgiRsVZVZmkAQpZw1fdTakHmucHLBhjuU/mkWlA8E+VlMuprnJ2EEVcFEpTMzTMGmUGGgMLnJTPhd2ELWiksUraqM6R0lefA0gEHGJ7bKM9hw5iDm13e7gjcA4bizp1mh5bQ/Su/NASli8ucAWQDgEa/wnH2XKPjnkW1hzJZ3T1+hnke19QoCAiJCjwIp/ZCNuYtCPXzZ0D1x8NPEMI3EHbYTyDsOAnCwfkPkqivQDFd8wckD8XvQLI3CgRIolD8ykHOLAEUTUf8A6FDdIJwdYIwLzAghC8gdIROEAByV2EJEfgevZIT4xEIQ3BbgfqQvRDaDRk4DjBHhscYOZzv8qMhET5h7OH+U3e454/F+ABVja6moklaBgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xu3W30sCQRAHcPf/iaKHCOFEpMTKwI7suDqu7DKzDn9UVhQhSFIJFYFGD730FPRXTnxHti6w3m53CweGO72D+zCzu0wi8X9C0FdqD0HvA4ve+hb1zqdNQAnGvN4nqduaMgf0cjtLncNJc0BP3Rlq1yd0gwRtX3pU7mxS9Tqg2l2FNo7XdKIEbV2sU9D2GYQshitmgFAlXO29vF6Qf+Zy2wDDfb6U0wvKFFPcJre5ytXJuhldIEE5b44xqAwqBBR+L/pZ1ShBy8ECOXWbIZWrEidaBxxgeD5ExQ77jtm/2eHtjsQ9YFjc3omjooWCCuUlrgCqAUBrUOM8fW7QUT+kxkOVwt4uP8N7ykFASJTxIJza8046XhDWz58BNR8PPkFIZSDssN9A2HEShINzDJKoUaC0bakByUPxJ5CcjYwASRQWv3ZQtEoApQpJdSBMiFEQrlEQ3jMGhFQCwkQYBQEgdxVaiMT/mJVixsgQPFZgfchZCOOGTBwHQ4RMJRH94Kgch5r4AE9Beworze0TAAAAAElFTkSuQmCC",
     "wiki_name": "Strange potion (Zogre Flesh Eaters)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strange_potion_(Zogre_Flesh_Eaters)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6306,
     "name": "Trading sticks",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": false,
     "examine": "Karamja currency.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABKklEQVR4XmNgGAWjYMAA4390kQEEjP8r5mn+H0SOQjjIQEFhoB3F+L90jjrYQfXLtQdDKCEcVLtUC+ogdExXgOogEI4slfsfXSn3P7ZG/n9SsyK9HYVwUNUiTbhjEhoU4Y4BpSs6py1IogZhUKjAHJPTrzqQCZ3xf12qNYpjQCE3oA4qiDL9H+CgiuGYAXAQ4/+OXIf/cd46/y31pOC5a8AcA8KJ7pL/3SxQE/GAOKY0TO5/nKv4f0cD/v+K4uwDm2ZaMm3/Z4Ua/rfV4f8vLYJwzAA4COIYUCL2sVX+ryorOLCOASXg0jjz/8HOav/11cQG1jF9Rc7/q5Ms/0d7asNz1AA5BgQY/08uc/3fmG6DkaPQVdIRIGrxQeAYCBjAcmYUjIJRMAroDgC+gNb7yoMHfQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABFElEQVR4XmNgGAWjYMAA4390kQEEjP8r5mn+H0SOGlQOYvxfOkcd7KD65dqDwVEIB9Uu1YI6CB3TFaA6CIQjS+X+R1fK/Y+tkf+f1KxIb0chHFS1SBPumIQGxYFwDAxAEjUIg0IF5picftWBchAIMP6vS7VGcQwo5AbUQQVRpv8DHFQHh2M6ch3+x3nr/LfUkxqo3AUDEMsT3SX/u1kMWCKGAWAOC5P7H+cq/t/RgP+/ojj7QDqI8X9Lpu3/rFDD/7Y6/P+lRQaBY0CJ2MdW+b+qrODAOgaUgEvjzP8HO6v911cTG1jH9BU5/69Osvwf7amNlKMGDDD+n1zm+r8x3WYw5CgYgJUxg8Ixo2AUjIJRMPIAAOzHrte9oDTQAAAAAElFTkSuQmCC",
     "wiki_name": "Trading sticks",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trading_sticks",
     "equipment": null,

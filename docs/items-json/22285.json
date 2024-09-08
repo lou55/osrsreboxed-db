@@ -1,7 +1,7 @@
 {
     "id": 22285,
     "name": "Black d'hide shield",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-02-01",
     "duplicate": true,
     "examine": "A solid redwood shield covered in black dragon leather.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xs3W22sTQRQG8IQllIaSEiqGJiRtClHQB6UP9kXElz74ovV+V1RU9E2USimKl1K8USj1gkoLQqmlaEXwQRRF/7KRb4Zvc/Z0ErPdVTpwSDI7YX57zszsZjIbv2WNP3zX/3nLmqeTh83jiYM2pm+PmalbB2wQsTh7wbybOW8Wnp3zoPRNJIY7EFEAMTRm/skZ82r6VGRi/MY1HVFULGTWzNw5sgaFT0AYBL2YOmFm7x2zY/HpA2G8RP9YmTTflm6uD0UQvjM7BL15dNqCOLYVCP/7vjxhfq3eN79XH1oQ5tg5OGhDz66aSzvvmiBMqkHyrtuVbGnuYgSE7wTp2VXLRsoABBc3fksQxu7oC8y2YsZGo9cF+jVo5eXl9EDMEvoIwrh9tcB0d3WtCeA06uPrKyEIEQvEdaFBKAVAGlPdPmz6ikUzUKmYarls+5A5ifr09moU9H48OQj9GgNIo143vYWCxfSXSuG1kVIT9Xn+WrogBK7trwc2MOFQrWZBCIAYPfm8DYwZ3uxQCIJ+frgbYmKDiNIYQpghZIcgZAm/G7v2hCgudg3Ss7do7o7mHhyPgA4N5WzIzMgMEYJPZAh9u/sDu54KuXWD3DmCDBEkMRoiQUTIkmEdcdexZPJQ1LOr5ra8D3S00RrEBc0sEcZylfMpghAE2e08OmZLhnVDELa7XNQEykX9dfFGchBRLJnc6swMS4TMSBDLpUE4pYnpCIQd5gOxZPIM4kEoQcwMFjNAm7pduWSGOswOWhPkW0dnt+YsDFt/tNqESRAxCK4dPDZSAxHFUxpxcovLls4YYm8lsDHQ4zB41OCUliCi9Oye5kC+sqEPD1W8RhDGbBGGrCG4zTn+y8L1EIQzKMY5FAXJskkQPtFPmMTIhyqykxiEXfY3ECZDn3zGycB1jE0VpMuGfgni2yQCjxY+9/A/jgVo+fmlCAhnUOxzyFc2CcL3diBmCGNTAfnKJkG4Jl9LJAjj5PpJCEKLrodWITEyNAjv0hLEiAHKZHistwsNlCHXTyqgTptGdoJlNMf+p6aRvtD/2dDtDyUazvGrGtl1AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xu3Wy2sTQRwH8IQllIaSEloampCUFKLQHgo96EWKlx68aH2/KyoqeiuKUorioxRfFEp9oNKCUGopWhE8iEXRv2zKd4Zv+pvZScxmV/HQgR+bzE6yn/39ZmY3lfr/W1r5w3f+r7e0ejZzVD2ZPqxj7s6Emr11SAcRKwsX1fv5C2r5+aQH5d5EbLgBEQUQw8UsPT2nXs+dsS6M7zjnho2KhEyr+bvHQigcAWEQ9HL2lFq4f0KPxdEHwniJ/rE+o76v3mwPRRA+MzsEvX18VoM4thEIv9tcm1a/Nh6o3xuPNCgSBn/KuyYIF3VB8q6blWx18ZIFwucWQWmrDEBwcuO7BGHsSE+ghvIpHbVuE+h3QeuvriQHYpbQRxDGHagEqrOjIxTAuahPb67WQYhIIM4LF4RSAORiysOjqiefVwOlkioXi7oPmZOoz++u2aAPt+OD0O9iAKlVq6o7l9OY/kKhfm5vYRv1Zel6siAEzh2sBjpwwcFKRYMQADG6slkdGDPaZ1AIgn5+vNcqBs0GEeViCGGGkB2CkCV8r+0Zq6M42dsAoZk7Wnx40gIdGczokJmRGSIER2QIffv6Az2fcpm2QWYfQYYIkhgXIkFEyJJhHnHVsWQRNkWz5H2g47XGIE5oZokwlquYTRCEIEgv5/EJXTLMG4Kw3OWkJlBO6m8rU/FBRLFkcqkzMywRMiNBLJcLwi7dIgbNrDAfiCWTexA3QgliZjCZAertNOWSGWoL5JtH53dnNAxLf7y8DZMgYhCcO3hsJAYiirs04vQuky03Y4j9pUDHQJfB4FGDXVqCIqAMyFc29OGhitcIwpgtwpA1BJc5x39dvlEHYQ+KsA/ZIFk2CcIR/YRJjHyoIjuxQVhlfwLhYuiTzzgZOI+xiYLcsqFfgvg2icCjhc89/I5jAVp7cdkCYQ+KvA/5yiZB+NwMxAxhbCIgX9kkCOfka4kEYZycPzFBaPZ8aBQSI8MF4V1aghgRQK22MJIh588/BDVrYWQ4dlq8tgXbB4Rlr6EubwAAAABJRU5ErkJggg==",
     "wiki_name": "Black d'hide shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_d'hide_shield",
     "equipment": null,

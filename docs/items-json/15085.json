@@ -1,7 +1,7 @@
 {
     "id": 15085,
     "name": "Lassar teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-09-18",
     "duplicate": true,
     "examine": "A teleport to Lassar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfElEQVR4Xu3X7UpVQRQGYOdHFyBJkpJpkmGGH2FmmGmYmRknzczMTDMzMz8ys4MRERFdQ91At/nGmliH1dprzpnZ+/wJGnjBH5s9D+/Mmdk2NPwfhYZDfVKX4XB9aAjXBgdxdWAAV/r7cLm3F309PbjU3Y2LXV240Nnpc76jA+fa2nC2tRVnWlpwurkZp5qacLKx0acOKIeJ0VGMj4zgxvDwX7BqOIZZuAIoh7u3JnDn5jhuj415WAjHsGo4hlFyoBzmpqdxf2rK597kZAbHsNKJ3UpCrVm4BJTDkwdzeDw7i4VSCfMzMxUcwygSohOzpJRIVBYkUXryapEgC0Vz9be310I5PH04n0ERSE9oLSHtLf1cqKVCIH65XDo9MUVveAnSqCSQRPFkqctGKP7baika9OzRggmSTXFLv37+MI+FEEiikkCM4hfKpeNloxDI2ksxLUWD1hYXPYhfxCD+Wx4DGsQoC6RRhUDWXqIQqNahqVHJoPWlJY8KgeS5pEGM4mf1MSCvmGSQRNEGD4Gsq8UC6dM7GrSxvJxpSf7i5GFJIB1C0XN66RjEqFwgjdIt6XuOW2KQbEp/HUSDNldWgi1JVK3opZMgSi6QheIrRQMo1l4KfUNFg16vrmZa0scAJfR5op+zQJTcIIniK0VPWq0lAlmoaNCb52sZlARZXwO6JQslQZRo0NH2NnZfrFdgIZy+hC2c/vUxLqmhb+Uyyjs72H+5UYHp1lJxsj2CMSYCRMPh64cjfHq7j497ex5HrR1ubeHg1aaPxIZa1PuOQtBEDA+H78fHvi3CfXl/iM/vDnw0VGJrtZoTw0P/K1w8BTB/Br+gntFz/BPjN+FSMXzYjPaaAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaklEQVR4Xu3WbUsVQRQHcPdFH0CSRCXDREMNzTAzfAwzM+OmmZmZaebzY2Z6MSJCpM9QX6Cv+Y8zcC6ns2fundm7Lx34w32xd/fHf2ZntqbmalQ1EuSTXEaCof5+POrrw8PeXjy414P73d3o6erC3Y4OdLa3405rq0tbSwtuNzfjVlMTbjY2oqG+Hjfq6nC9ttYlB1SC8eFhjA0OYmRg4D9YORzDLFwVqATPn4zj2eMxPB0ddTAfjmHlcAyjZEAlmJ2awsvJSZcXExMpHMMK1w5K8bVm4SJQCd69msXbmRnMFwqYm54u4RhGkRCdkCmlBKLSIInSDy8XCbJQwaD3r+dSKALpB1pTSGtLX+drqSoQ31xOnX4wRS94CdKoKJBE8cNip41Q/NtqKRj04c28CZJNcUt///w2twUfSKKiQIziG8qp42mjEMhaSyEtBYNWFxYciG/EIP4ttwENYpQF0qiqQNZaohCo0qapUdGgtcVFh/KB5L6kQYzia/U2II+YaJBE0QL3gayjxQLp3TsYtL60lGpJvnFysySQDqHoOj11DGJUJpBG6Zb0OcctMUg2pb8OgkGby8veliSqUvTUSRAlE8hC8ZGiARRrLfm+oYJBOysrqZb0NkDxfZ7o6ywQJTNIovhI0Q8t1xKBLFQwaO/jagolQdbXgG7JQkkQJRh0uruLg09rJZgPpw9hC6ffPsZFNXRZLKK4v4+jjfUSTLcWi5PtESwQwyPBxdkpvn8+wrfDQ4ej1k62t3G8tekisb4W9bqjEDQSwyPBr/Nz1xbhfn49wY8vxy4aKrGVWs2I4UF/zjtXI5/xD3Uj7gyUtLAjAAAAAElFTkSuQmCC",
     "wiki_name": "Lassar teleport (tablet)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lassar_teleport_(tablet)",
     "equipment": null,

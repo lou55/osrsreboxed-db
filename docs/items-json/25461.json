@@ -1,7 +1,7 @@
 {
     "id": 25461,
     "name": "Steel coffin",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": false,
     "examine": "Can store up to 8 shade remains.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCklEQVR4Xt2X20sCQRTGm6dQepREoouFghmWIVlgkZBpFJqWGZnd6CIFlUUvEf3rp75ZZh13zF3dcYsOfIzMsp6f35k5M46M/P9g1F2eh5F4PhqlanaKK7fkN+UhlAEiEgsYqzyAaoNYk/fSkKD6B5GBlmZmdEINDgONBwI6XWIUCYeVJLLSyaQyJ0usJQ0uOXCmWORAe7mc+kwvkD3MRa1Ga6mUMm+VZ0CZlRVlrps0ANnDvN3fUymfV+atkmGGCuRUnrjTS/K7f8odfMevuyODlDITbt1hfNdsrK4qSZwKIJWNSVqP+7hcuMPo7Kg6sDvivWzCACmkQ27cYdS6u3XcU6w63po2YZYTCfPcGhAGwejzpaUkslN9O8xh4M55YZZCwaDx7PsocVEqBKOP5ydH5RILFjA7Kb/pzm2jQSeVMgfBZ9dA1sS9BDcAhPFqd5ZODw/oul6nQnaTQ2EtugDqHwajAMLRsRCLcQActBhdrB/nPQeXeABgSwsgOANHFuPxjjINCCOCUXltzBZMNDoAQQ+XFxwCpfKNjvId6qJM1jBsrma6g2EOvQVAAuq12eRQ2OYyjCYgBKOb4hw19yMmmHwEyBI/ABczuIPbokZ35GhDicUrSiTDGIkZvT8+cii4NCQgRCcU+ozoNWpZ2n+ZNZfLGkYSAQX9lFTDrnIWoiweOeA8vHLgC6AQh3Wgn5GeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB70lEQVR4Xt3WXUsCQRQGYPdKlC6liKiwUCjDMkQLTBKyjMLSMiOzLPoQA/uim4j++ql3hmPrjrRbMy7RgRdlVObx7M7MBgL/vywaHN9LTjwfj1OtMCVSXAr34iNKQnhixjjjA+oL4pz8uwwJ9XPIEEG/xyCjkYhJlEWxaFSZxJ5sKqWM2WPwXvLQmXJZgHaLRfUzsyB3TKtep9V0Whl3xjdQLpNRxgbFAMgd89Lp0N7WljLujAEMyh3kNQZAehj7bw1gUHogO8YASB/DkL3chD4Gqya/sqJM4jWAVPOTtJYIiWiALDo7qv26O/y7QlJCStlxPczj7Y3nPcWZ443pHmY5mTRxbln0/vSoTOSWxmZUYNCd89IMjY+Nyc8+jxJt0NvDvafLxTcsMNvpcK87N80mnVQrAoL32iDnxN8F3QAIr5c7M3R6eEBXjQaVCusChXtRA/RzDF4ZhKNjYW5OAHDQSogGxstlQvAQDwCWNIPQGXRkMZEwcZm4LKqsjrjCeKMDCLm7aAkELlUoGBQr1BAIJdtcyw2GYQx7C0CMem63BQrL3DCGy6Lr8iy192M9mP0IsIf/AB7M0B08LQ4BhPpC8c3Ll6gfI7/72u0KFLo0JBCqH4V9hvcadVJeUc5x4yUnYRTiw6ReyrcO/L36AEk4RBQXg2BvAAAAAElFTkSuQmCC",
     "wiki_name": "Steel coffin (Closed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_coffin#Closed",
     "equipment": {

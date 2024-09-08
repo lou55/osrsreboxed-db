@@ -1,7 +1,7 @@
 {
     "id": 286,
     "name": "Orange goblin mail",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": false,
     "examine": "Some orange armour designed to fit goblins.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQUlEQVR4Xu1V7UuTURzdZTyMZwxFDCGFqYnJSnwZvix06dDlK4rarOX7a1m+Z6WgYGaKhRaWRETQh6BvQR+CQKivfetPOnHu5W5zTpuK+9IOHDbGc3/33HPOfWaxJJHE/wOB2DwO0c/GsyYuCNRetqIy14riLCuuXLSg3GWDz20es4HApUwDBU4D+RkWZKZakGIqHr0mLggsNtowVGWgrciKpqtW+F1W3PanyMElOTmS0asUhDxEdZ4iD3LBcWpRyt4pn4GFGzYpasxrIFihGHAbIUHRKxUEPIWmdJYH4GG0qINOxSVMReR2WkOClpsVJ2qMEKe7044YKOAtNqWbmn0e5TDnRoqiY7FnHICQp6Ld3HiuXjm03m7Daqv6rrkznRFjoECTx47OEkOSbvJgFMXvnM1Okf+OXUKELI4URDGvAiY2O2ySdGykLRW9japPmhTD9dycZNR8lnN07Cx6dnpYULSCGFAuMTaKedllw8d+U/J9rymF0bFIUQGfQ4phXFoQXeH6vaBaw0NRmL6tJxLEgcyfYj4Nmvg+acf+rB0/pu1yA/7ODdixSEGMiS7wZtIRPvftvh1f79nxedgM1SHOuCIhDtwozf1dJ76Mmti9peLTp6YAOsJPXXz+Ph/U5VekYJb7BO5EQg0Jn0Tg51snfs2r0+roGAsF0BEWmEJ0kTtqHIdmnMKdMA4vFPiz7JARMkpGQlGMTr+z+EmB7BJ7GO3G4ZlnghL0e9Ehu8Gi61vH+PhJUYyaN/VMbsQHJYjlZmy8dewTnWJU7B2dYXl5m6LdOQcIGZfuEB2prapCocuF/NxceYMYE8XwfZMQQWuPH+HJ5CSmRoYxHAyivaEB1RUVqCwthbuoSIrLzspCepq6Yecu6PWzNWwsLWF5dgZzd8fR3x1Aq9+PRl8t6rxeXPd4cK2sDOUlxYkQRAi82djAi5UVrC48lE713uzCnc4OdLW0SMea6+sSUWhCYLa9XEb2bmsLO09XpVMPhgYxMTCA0Z4e6U5BXl7i3KEgujIzNiqFMDI6QzIy9ogdstv0W/7cIfBhe1s6tLe5KePbfb4uBVIc4xvv60tUZBrh/6ejmEAxCnrD4xi9JokkEom/N0+IOGy+j+AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xu2W60uTURzHdxgP4xlDEUNIYWJishIvw8tClw5dXlHUZi3v17K8Z6WgYGaKhRaWRETQi6B3QS+CQKi3vetP+sb3HM6Yc5tT1t60L/x4xnjO7/mc7/d3ns1iSSut/0cC0SueIu9NZE1CEmi4bEVNgRVleVZcuWhBlcsGn9uM8wCBS7kGip0GinIsyM20IMNUFXtNQhJYabFhtNZAZ6kVrVet8LusuO3PSKCxkJuoK1TFjVxwnBtK2TvrM7B8wyahJr0GgtWqAm7jlKYCnhJTOssNcDMa6rhT8XqEpCJyO60hoLU2VdP1Rqjm+rJiNBTwlpnSTV2DHuUw+4ZD0bHoPY5JyF3Rbj54sUk5tNVlw0aH+qxrfy4nSkOBVo8dPeWGLLrJjRGKn9mbM8U6uTaqRMjicCDCvAqY2Om2yaJj452ZGGjR86SKMFzPh7MYNe9lHx07Bz0/O2EgSrnE2AjzsteGj0OmrPcDpgSjY+FQAZ9DwjAuDURXuP4wqNZwUwTTp/VMQGzI/AnzacTE9xk7jhbs+DFnlw/g93wAZywciDHRBZ5MOsL7vt234+s9Oz6PmaFxOAOMlog4UaqODpz4MmHi4JaKT++aAHSEVz34/H4pqIdfFYE53OcAoiKPpsDPt078WlK71dExFgLQEQ4wQfQgd9c7TvQ4J0wsCfxZc8gIGSUjIRSj0+8sXgnIWeIcJhkgUgro94pDzgYHXZ86xscroRg1T+o/hqEUEIebsfHUcZ7oFKPi3NEZDi9PU0qAGJeeITrSUFuLEpcLRQUF8gQxJsLwfZMSoM3Hj/BkZgaz42MYCwbR1dyMuupq1FRUwF1aKuHy8/KQnRXr5yWpEnj9bBPbq6tYW5jH4t0pDPUF0OH3o8XXgEavF9c9HlyrrERVeVkqgCiBN9vbeLG+jo3lh9KpgZu9uNPTjd72dulYW1Nj6mAWuqpkZO92d7H/dEM69WB0BNPDw5jo75fuFBcWphaIrsxPTkgQRkZnWIyMc8QZsttO+9+UNAl82NuTDh3u7Mj4Dp5vSUDCMb6pwcFUwWjpn4B4lVZaaR3TX8udSpO7kkzQAAAAAElFTkSuQmCC",
     "wiki_name": "Orange goblin mail",
     "wiki_url": "https://oldschool.runescape.wiki/w/Orange_goblin_mail",
     "equipment": null,

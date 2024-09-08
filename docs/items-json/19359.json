@@ -1,7 +1,7 @@
 {
     "id": 19359,
     "name": "Antifire potion(3)",
-    "last_updated": "2023-11-01",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-15",
     "duplicate": true,
     "examine": "3 doses of anti-firebreath potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqklEQVR4Xt2XzU8TURTF+yaT6dqNicEP/AAFNBTSUmiLRVtKaW3NiIQCFgKVWlIpbUqB1hgTo4mJGxPjyrgyEld8+A8euW980+mzwWim08SbnKSLmbm/nHPvy6vL9X8UQ6u6Wgwbi9cxn7yM6dAFjN4+120ohoOPIXz9EOSqPB3Asn61m1DMhPnyfhyltZvIpK9wIE9vr9NQxswIoM/v/Ciu9PP4ujBPDKn0HHR9wXTn0xsfCk/68Ch+CWNjQQSC95yEYlhaWv1ND1JzmI6lEJ6KwePxORnd6XblC1z5/KapRFJHJJqAzxdAX/+As0DlStVUqVRGsVhCfPYhJgJTGBwaRk+PMUsOAVExfDv4jpOTHzg6Osbh4TGPa2RkzBxqgnEUKJd7hr29fTQaL7goLq93ohswVAxbW9uo1+u/1EB0Ogm/f9LpqEQx7O3XWzQTT5sz5ODKUzGs5/KoVmvY2amhVtvl0dHZdD8y2xKb/GaHiqFQKGJ7u2JuWja7hsxilkNN3o04D7Tsfm1qwf0S81odulZFWisjrGYwrESdio3x5mcBTanLJlCHXWK8oRWGtOR+xYHmtF0TaESdwR0l3GmXGHfjT0BRdRVeNYFRJd5JlxhvKMMIIAK1AvnVFI9tUAl1wqXT64b2vK07QlagmLaOgKq3xGazS4Y7K+63bdUOKKQ+5rGRS0OKcXrLX/3HMgaZGsogViAxR/RsXNvgq2+NTXVpdkGd7Y5QOyBrbDcUr13RMd5MBpAlgOgsSmibfPWtsd1SxnFN8djnkgwgSwaiTROxkUMXleYN0haXrBslw8hAtJHkEMHQ/Jx3EYBtMKKMWyA1Jslw9FsAEQxFJeamAzBGGR8U/7margkg2kSKiQZZBrEdxlrNBk04WY6AtCtrY1nys39bPwEih6Av8LloOQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeUlEQVR4Xt3Wy28SURQGcO5kMqzdmJj61lbbakobHi1QQXmUgmBGbEpB2rQI0mB5hFIKxpgYTUzcmBhXxpWxcdWH/+Cn5+IMw5TUzTCT9CRfwoJwfznn3GFstvNRDIOxtBiKa7ewkriKiP8S5u5dsBrFcPDFjx+ffTyNF5PIyTesRDEV8/3TPKqbd5BJXbMK1NsZBfTtoweV9Qk+Pgv2iSGZSkOWV9XufH3vQvn5OJ7GrsDt9sHre2gmiiGb3TiVx8k0ItEkAsEoHA6XuaBiqcxTKm2riSdkhMJxuFxejE9MmguqN5pqqtU6KpUqYstPsOANYmp6BmNjyi6ZVgw/D37h5OQ3jo6OcXh4zMc1O+u2YqmpGAqFl2i399HtvuahcTmdC1ZgqBh2dmrodDr/0kU4koDHs2gdqL3fGchSLKXukMkohq1CCc1mC7u7LbRae3x09Gx6FFq2YmwM5XIFtVpDvWn5/CYya3mOWnwQMh+Us79Ts2p/gxWpA1lqIiXVERAzmBHCZqEYP/wsUFDMmQVi/EAthpK1v+WgtLSngmbFJdwXAqNGMd6N/4HC4gacYhxzQmyUIMYP1GMUEEG1II+Y5GObEvyjQP193ZBeDe2OEi0oKm3BK8qjHFuvO+v2D0MzDOQXn/GxUZemBUOf3r1FpgP1EC1I2SP6bkwq8quvHZtok4xCnd0dJcNA2rHdFpzGgegwPUAfBUTPori0za++dmx3hXncFBzGofQAffQgumnK2KhDlwVD3yAH/yr0GD2IbiR1iDC0Pxdt143EKEU/2BsfRY+jzwqIMDSq/t4YjtGWckC/awqIbiKNiRbZBMiw6uNO5xzWH0RfayT2d0/OAAAAAElFTkSuQmCC",
     "wiki_name": "Antifire potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Antifire_potion#3_dose",
     "equipment": null,

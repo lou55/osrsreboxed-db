@@ -1,7 +1,7 @@
 {
     "id": 25039,
     "name": "Trailblazer boots (t1)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": true,
     "examine": "The boots of a trailblazer relic hunter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADP0lEQVR4Xu2W/0taYRTGvUjIFSlkktzEbikaV0VLNBWsJtnMilatWhHt+4gYG4MxBmO/7C8/23Puzr3vvSrLO0mIHTi/vd73c87znPcYCv2PhxsaDebUQqP+5jrVLdOTU4LSqFlcZoB2OcvZrVvUaawy0OrS0n1C2TDVfJqBOtU8nXWq3K1aKT8CyC/rROXV6NVJj64OtxkK3TneaVO7WiIrkx4CpDnw6OLRRoXPC7x7LnBo9OHqiN6d79H10Q5d7Heo26rSWiFLRiLuA9IYxDKTDL7XLDrw5ZXMEPhAodHXt+f0+eUzhgIQvIPu6JGIcoktbXF5gSrZFEsLGJxFd3JmanJAP26vBoCMWJhmo7oH6M3prtPF8/4W+0y6Yy4kJwGk0XEpRn0rSjv5KG0s69Q0dVqZn6FM2qD4bMwD9On6mP0mUGJ8dCcRn5sEEEKjthGmRjJMlUdhKsRD1KhYLJn3Eo2+31yy32QInm63uEMA8nYzcNj+ub085EtOextcdWutQMWcSalkwgOEbh4WYgyFLkE2yLs4F/Z1M1Bo7Jub5/v8ccD02jWuGBOGqjFlUjkSMCJvJ6uzxKVkZBKSudXiAkzLMBhULZOGhKzVeVtaSXQT8g4+EXcOL4xUi0TrAYOJGQakygu5Dh43nSmDvO7ZO4dtTEglH8ZU1dMRzoVoiBJ6iCdsFBAkFkPjAcUASEe979Zfw4b58vqMYfCmYHRFrq162QGanQk5QLG4LYV0UgqAd/A8qBKPDQQYdU2g7ahU/IPWi2SQwMjY6wDyqtIKEAr4JyBVqlFAgMFkSWdUIHk4VSB0NDDQt/cXzqiLMQVIvAAQSfwGa0VkVs0M/6iew9hH9LEex9/Lcf+A1nf7zmsr+wj+QXfihsEpnfn58YWnCHmvZIdh3FEEr5k/vwPMnYGq3S7VnvSovLlFhWaL8rUamcUieyW5KH9X3ZcZMNhf8ByGANOFIUB3sMMgrzqFY8BI+P/heVM+6H508DWX1SK7TqQNAGOHeumwdE/aEqv+Uf//QKa5hLvrAsGMFxrLC89BYmu9QZlymVK5HCVSqSCemUTYUvr9BqApwNhhXzjab/7z9xZ+r00V5sHHL4pO/m/Hl+qkAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xu2W/0taYRTGfZGQK6LIJLmJXVI0roou0VSwmmQzK1pt1Ypo30fE2BiMMRj7ZX/5Wc+5nOt7NUHdbcLowPub+n7O8zznPQYCD/X/lqLRM7dS1N9cp7ptec6coBQ1iysM0C5n+XTrNnUaj+cB5MBU82kG6lTzdNqpslq1Un4M0LCtvtqr6M3zHl0ebjMU1DneaVO7WiI7k77jIuXCQ8WjjQp/fjz81KXo0+URfTjbo6ujHTrf71C3VaW1QpbMRHzoEsUgtpVk8L1m0YUvr2b8A/r+/oy+vn7BUABCdqCOEQpplzjWFleWqJJNsbWAwWehTs5K+Qf06+ZyBMiMBCkaNjxA7052XRXP+lucM1HHWkr6AaTouBShvh2mnXyYNlYMaloGrS4uUCZtUjwa8QB9uTrmvAmUBB/qJOIxP4BQitpmkBrJIFUeBakQD1CjYrNl3ksU/by+4LzJEDzbbrFCAPKqOXM5+bm5OORLTnob3HVrrUDFnEWpZMIDBDUPCxGGgkqwDfYux4JDas5UinNz/XKffxwwvXaNO8aEoWtM2aBzxTBibydrsMWlZMgPywbd4gJMy10w6HowaYptrS461sqBmrB39ImYuLww0i0OpAcMJuYuIN1e2HXwpOlOGez1PhMTlRNMWCU/jKmqp0N8lsIBShgBnrBxQLBYAo0HFAMgik4J5MB8e3vKMHhTMLpi11a97AJFFwIuUCTuWCFKSgPIDp4H3eKpgQCjrwnIjk4lP5BeLIMFZsZZB7BXt1aA0MBfAelWjQMCDCZLlNGB5OHUgaDozEA/Pp67oy7BFCDJAkDk4DtYK2KzHmbkR88cxj5kTPU43i7H/QNa3+27r63sI+QH6sRNk48o8/vzK08T8l7JDsO4owleM+73Jq7b/zHdLtWe9qi8uUWFZovytRpZxSJnJbksf1flRx1Fsb+QOQwBpgtDAHWww2CvPoXe+yYq+eK4M1yjr7msFtl1g6zdezkW6/nR///AplhC33X3XortReZgsb3eoEy5TKlcjhKp1CyZ8aMcK4fzBqA5wOg1nLW5wjzUv68/qBGxBbOVt3YAAAAASUVORK5CYII=",
     "wiki_name": "Trailblazer boots (t1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trailblazer_boots_(t1)",
     "equipment": null,

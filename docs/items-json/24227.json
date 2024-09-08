@@ -1,7 +1,7 @@
 {
     "id": 24227,
     "name": "Granite maul",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,9 +26,9 @@
     "release_date": "2019-09-05",
     "duplicate": false,
     "examine": "Its power should not be taken for granited.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACd0lEQVR4Xu2X30uTURjHPVcSBCGNBpOWUxysYkuZNnHoQtFWUTMZambaGMPMtDFikGm7GA4iEoukkO1CYsWQoIvdSQj242IkJMFuQtALQRL6E771PG+vy0Wsi73zXPSFw3v28sL58H2ec853ZWX/VTQJKEMKCfQM9aC1o3W/oVRXBJpdzXC0OHiUyK3fF1HmwakgJmITiDyKYOrhfcSexjAQGEDnpU5Y661aQgleSF2k+2o3/w4EAxi/d5vB6Dl2dwyziVmM3BlhxyoOV2gFJeAf98PeZOc+cXe5d6HoPYENh4YxdPM65l7MYeH1ArtkrDYy0KmqqmJDCaTSKXRduQzdER36fH3o9/cz0OCNQfhu+dDobIT3mheJVALJN0meVx6r1AJIYH1zHdvfthlqJj4Dy0kLwtEwJh9MIvo4ynNyp+1cG0bDo1hML7KDmgFlv2axsbWBne87eJZ8DluDjUtE5aGemX4yDUedCa6zLt7+BEYOmWpN2gBlPmew+mUVa9k17g8qTygSYmdol3l6PWh3WnDCbPjVxLlBMEUGIgkGev/pA5beLcF83PzHwp4O2x4oFUQDGFUCK5kVxF/Fd4H2LqpAnWky5zmlqQqVQuBCuxXOhhpYavTca5pDFS6FApV+m+bzSYXP/6rEUlwkpyQBIgk+CmhoXrZ/l+JSDkoKMIGW07W8O8sPlMsDRZctxRSpesp7vh69F+2yuET6maXcddDrDsrXU3QFSdVTlAiqjTq5eoouY4P+kDwu0RVD5aMcJUlPKccB5SoKdJTZpYCiDE7/WAxHc1kq/6sSSmD54zLmX85zLpcAiKT2z99y1j6ocM5S9AN/x7wtdifPbAAAAABJRU5ErkJggg==",
-    "wiki_name": "Granite maul (or) (Ornate handle)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Granite_maul_(or)#Ornate_handle",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACW0lEQVR4Xu2X30vTURjGPVcSBCENB5MWUxysYkOZOnHoQlFXUbMx1My0MYapaWPEIFN3MRxIJBZJIduFxIohQRe7kxDsx8VISILdiGAXgSj4Jzzxvt9W06gIOutc9MBh5/vd4Hx43vec86yk5L/+mgS0oYQEuge70dLe8q+h8q4INLma4Gh28CiSW4WLaPPQVAgT8QlE70cxdW8a8Udx9Af70XGpA9Zaq0wowQvlF/Fe9fJzMBTE+N1bDEafY3fGMJ+cx/DtYXas7HiZLCiBwHgA9kY794m7y/0Nit4T2FB4CIMj17HwdAFLL5bYJWOlUR5QOpNG15XL0JXr0OvvRV+gj4EGbgzAf9OPemc9fNd8SKaTSL1M8bziZIUMIIGtT1vY2d1hqLnEHCxnLIjEIpicnUTsQYzn5E7ruVaMRkaxnFlmB6UB5TZz2P68jb39PTxOPYGtzsYlovJQz8w8nIGjxgRXp4u3P4GRQ6Zqkxyg7Ics1j+uYyO3wf1B5QlHw+wM7TJPjwdtTgtOmw1fAQqHFAkGevP+LVZer8B8yvzDwp522yEo6RJYy64h8TxRAHTwe4I622g+5JRU/a4UAhfarHDWVcFSpede+/lviyYNKvMqw+eTAkAkzUVyShEgkuCjgIZSUOTSdyglwASaG6p5d5YeKVUHii5biimKAJEEfOdr0XPRrhaU110Dve6oej1FV5BSPUWJoNKoUwWIJPgyNuiPqQKlXTFUPspRivSUdhxQrqJAR5ldCSjK4PSPxXCiaFnqVxJYfbeKxWeLnMsVACLl+0cJmD/TFxX1lAmW5KPdAAAAAElFTkSuQmCC",
+    "wiki_name": "Granite maul (ornate handle) (Clamp)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Granite_maul_(ornate_handle)#Clamp",
     "equipment": {
         "attack_stab": 0,
         "attack_slash": 0,

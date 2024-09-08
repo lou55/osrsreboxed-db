@@ -1,7 +1,7 @@
 {
     "id": 26898,
     "name": "Portal talisman (law)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A talisman bound to the Law Altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSUlEQVR4XtWXS0sDMRDHu3fBr+BdqFUQDx6qF7EXaQXBx0Gtr/pq1VqLD8QX9VQVPIpfx6+18k+ZzWTS3SatKzrwA2syk1+TybpmMv8zgtCf1CII5/J5b1KUCsKX+7uwXqk4Q0K5kZE0pILw7fHBWjSJXxHCLnGWi8UIOZayEMJsWAhyId0zGsikKJTJ6AVsoZnpaUPih2SSrq05BomlhYWoZyayWYVrvj1uhX21dVKgFgcQWV0sWU0MxkZHldRkbkzB82Vth8eCebV5T9yenSogMjT85QTkkMuPmN9Uh6bvCDUODhRS6OakZi2aBIT0Lmmh2s62sUM9ha6qVQUXggy+lVy0F7ynSOhwc8NfCAJIKBUKCrk7snc4fB71FG5g30LNo6Pw7rweJUEIklgARyml+M+ne7vq8/FW2dglqgUhjHkLPTWb4cNFQ4mhf1AYUhiLE+IyADuBz1Pj4+H87ExEX0IQgRBJ8WPgkBBk0KxynCivrCi219b8mxpC6Bk6c9BNih8fCfGjIvDc4rX6EqJb9t5qKeS1hwxvYDoyLEZHRTKgdXk5mBCgBAAZ6iEpEye1v74eCaEGCWGOl1C3B+NHu23IxAmRFI6OywwkRIWlUJKMlMIukYz80+Et1P0FqyPlKgTwBboJUW0HIYT5eoDJOqHzu8/XV2NhCYnE5cfXjwmaZE/WhSBFPF9fK6j35II6364txz3Cfp/B9pMMkOO6B1OJ/oUG2IWk+IP/BvFHggu/IuRDykII+9r2YsCb1DvklXVB1nCJb/pUGFkjDN1IAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIUlEQVR4Xt2WS0vDQBDH7V3wgwjVCuLBg3oReylWEKw9VGvVWh/1VYtWxBf15AM8il/HrxX5b5jsZDaJu9EUdeAHLdud/WVmNnRo6G9GznMns8h58zMzzmQolfOebq69k2bTmsyFXu5ujUOTGIgQqsRZWVwMkGsZCyHCAwtBLqQFBjLUMkyh2enpLCSSnjC8BonlUimYmYl8XmG731w3wrzaelNOHQ4gsrpUNoYYjI2OKqnJ8TEF3y9zW8xY+Grzmbg6PlJAZHjkwwrIcSG0mN9Ua6FOq6WQQpeHbePQJCCkq6SF2psNtwpdHBwouBBk8FTy0K/gM0VCu+tr7kIQwIZysaiQ1ZGzw+G/o5nCDUwt1N3b865PT4JNEIIkDkArpRT/fLS9pb7vb9RDVaJcEMKas9B9t+vdnnWUGOYHiSGFtTghLgNQCXyfKhS8hbnZgFRCEIEQSfE2cEgIMhhWuU7UKxVFo1p1H2oIYWao5yBKirePhHirCLy3eK5UQnTLXvt9hbz2kOEDTC3DYdQqkgH98/PvCQG9wb/2NENSJk5qp1YLhJCDhPAbJ6GoF+Pb42NIJk6IpNA6LvMtIUoshZJkpBSqpGX83KmFov9g+VK2QgAPECVEuS2EEH5FNOba+/Nz6GCJFoneH5/fOXQiSBEPvZ6CZu8HD0wK8/8Myk8yQK5btiRt/EIhCMh5SSJzIf5KsGEgQi5kLISQV9aGfxKfqKq9+X80lwAAAAAASUVORK5CYII=",
     "wiki_name": "Portal talisman (law)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portal_talisman_(law)",
     "equipment": null,

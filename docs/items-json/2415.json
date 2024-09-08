@@ -1,7 +1,7 @@
 {
     "id": 2415,
     "name": "Saradomin staff",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-09-22",
     "duplicate": false,
     "examine": "A magical staff imbued with the power of Saradomin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXklEQVR4XuXWv0rDUBQG8B7CpUR8Bwuis6ODTlYwVkKatjYxxv6xLSmlFdFBXAVBFATFUXByEQc3Z1/AR/r03JCIxbnngh8cCFny48vNIYXC/wth+o5gCE8vcxBE8YN/ZnxaxPNbCloplWaNSgFRR2HHV6iHSl+/vouBOGkzm46FIFbYci0MxgoX10W515Y2QTg+K2J1zcLH53zekFhLl7e2Hm5JHNMdKlzdpSBhDIew51fzM2MEpt1sohdFkl8WhxB4HrphiEEcm9EOY4atlhnt/IURAhEOdhsYddr6VTFMvB3+oqYxoqCgvKAhRmD67uIviCgmXFdIvCXpM5OFcP9oY+QvmwAinE8muHmw9QiDCCdJko/wQf7+Izzs4qjf08O7R7ydDGLERs62MW9mYQyHdCvGbGPGGNMMt7Jfr2G7vCF9iDmkMQ3XNaMd/iWtVSomYDiEquOYgskye8wXweQkKRPLycMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSUlEQVR4XuXWsUrDUBQG4B7CJUR8BwfRZ3DQyQrGSkjT1jbW2ja2JaWkIjqIqyCIQkFxFJxcxMHN2RfwkX49N0bBB/Ac8IcDIUs+/twcUir9vxB+3xEM4eFpDoIofvDPZCcuHl/EQDmg3TfYjgzqsbHXz69iIE7ezIbvoNUx2AwcjDKD8ytXEsUhHJ26WFl18PY+L4+5mHl2uCVxTDI2uLzJQcIYDmE3qmo4M5wc02s2MWi3pUGEVhgiiWOMOh1pDIcsZtzt6mhHFWZ/p4FJv2dfFcPEQfxFKcFwPg9zeeELogAzDBY1QDiEeM0gDZf0gG7vPUyiZQ0gwtl0ius7z44wiHCcpt8jjskOEhwOB3Z494iDCoiKjVxsY97MwhgO2VbUbGPGqGmGW9mr17BVXtcBYkwjCHRg+Je0VqlowHAIVd/Xginy95gP25vfSm1vXkUAAAAASUVORK5CYII=",
     "wiki_name": "Saradomin staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_staff",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 112,
     "name": "Wild dog",
-    "last_updated": "2021-07-12",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-17",
@@ -31,7 +31,7 @@
         "mazchna"
     ],
     "duplicate": false,
-    "examine": "Looks like it's got Rabies!",
+    "examine": "Looks like it's got Rabies!sic",
     "wiki_name": "Wild dog (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wild_dog#Normal",
     "attack_level": 53,

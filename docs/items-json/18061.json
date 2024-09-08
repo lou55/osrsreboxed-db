@@ -1,7 +1,7 @@
 {
     "id": 18061,
     "name": "Mime gloves",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-02",
     "duplicate": true,
     "examine": "A mime would wear these.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xu2Va0tUURSG3f/EX6AZZoaZgpiZYZqImZkmImamiYiYaTKIYmZmml3EQURURBSRSWQkNLsQkhhEXxSiX7LiWaddesbbSJ754oLFnn3OzNnPvOtd60RFncRJEEb+ZcTDyMrKF1lf/y6bmz+3gUUEzsjs7KLMzy/J0tIHWVv7JhsbP3T9+OlrJKCMTE0FZGZmQebmgrK4uKJqra6uyfLyZwU6FR3tJZSRsbFZmZicl+npgKoVCLzTfLuwrKvHKhnx+6dkdHRGxsfnFIwVxQBEPdJDKCOvXo/L8PCk5tDQhO4tGOoBOzIy7RWUkYGBUenr80tv77D09AxJV9dL3QOBeoBaL3ngJyOdnS+kvf25tLU9ldZHT6Sl5bE0N3f+VWtwcMwrczswADQ0+KS+vk3q6lo1+Qxkf/+IV+oY6ejoVxgAKivrNauqGqS6ulETSMp4RHXCnaxGDy0ruye5125ISckd/UyWl9dKRUWdAlLGMIEcEKbr1tavP1AHpfO7vLybus/MzJX8/FtSVFQuxcUVmgCW3r6r6oUB5LQsc4Ipy/hnmDFtg8H3+irgGvfpGMyJabdDkSiUnZ2vgIAVFJRqFhaWqWKHBDLS1NShxqNFaU0OtQOOoUZyD+MCgidY8Y6Fcg4ykpZ2WbKy8hQsJ+e6QpKAHRoIAzY2tmudORQDMlNoV+BQDwD8wMreqrKza4wkJaUqVHr6FcnIuKplBBC4QwNRc4xJi6IWHQMYw412RYmamgcKxIqaDLrdD3CgkpPTJCXloqSmXlJA4CzUzu+HhNF/gPlsR7DW3n8oPt8zBaNEgHCPzmHf3f1mT6C4uLMSH39OEhLOS2LiBQUELlTRPcMxJOazRsSUHG6HHYCUlmuoyXV8tfs/dnfjbuXdNxwzIiu1J9mTwAFE2wICkFWJ0tnXgfuJ9nB3ur+3TxiVmURyMjb2jCZtTMkAopzMFasSPrMvTfcT/0OEykzGxJzWklqP2Uls31NhliO8cEvsHOJAMVtQBximsFXJArmfdczhQDFXML99Zx2rOgeHA4XpKSHzK0LqbI8jt/LxRajHTsKb+A3+vT2Ww1/r3gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xu2V/UtTYRTHff4hxTAzzBTEzAzTxjAz00TEzDQRGWaaiDjMzEyzF5mIiIqIMmSJOMJlL4QkBtEvCtFfcuJzrk++tGoG2/0hDxyePfdu9/nse77n3KSk4zgOwsheuh5GIpGPsrn5Rba3v+0DcwXOyOLiiiwthSUcfisbG59la+urru/ef3IDysjcXEgWFpYlGFyVlZWIqrW+viFrax/cAZqaWpSZ2SWZnw+pWqHQa81Xy2u6JhjKyPj4nExOLsj0dFDBWFEMQNQjEwhl5PmLaQkEZjXHxmZ0b8FQD9iJiflEQRkZGZmUoaFxGRwMyMDAmPT1PdM9EKgHaIJgCCN+/1Pp6XkiXV2PpPP+Q+noeCDt7f6fao2OTiUKyIEBoLW1W1pauqS5uVOTz0AOD08kDqa3d1hhAKira9Gsr2+VhgafJpCU8R+BjjpZjR5aXX1bSi5flcrKm/qZrKlpktraZgWkjEd77i4I03Vn5/vuj/+Wzu88nmu6LygoEa/3upSX10hFRa0mgFU3bql6RwByWpY5wZRl/DPMmLarq2/0VcA17tMxmBPT7ociUaioyKuAgJWWVmmWlVWrYjECGWlr61Xj0aK0JofaAcdQI7mHcQHBE6x45+AhRnJzL0hhoUfBiouvKCQJWMxAGNDn69E6cygGZKbQrsChHgD4gZX9wbLtPSszM0eh8vIuSn7+JS0jgMD9+v2oYbTmGJMWRS06BjCGG+2KEo2NdxWIFTUZdNEPcKCysnIlO/uc5OScV0DgYoQy+g8wn+0I1qY796S7+7GCUSJAuEfnsO/vf/mbhxtJTT0laWmnJT39jGRknFVA4KJ/P2o4hsR81oiYksPtsAOQ0nINNbmOr6IfYst5OGMOx4zISu1J9iRwANG2gABkVaJ0cXwdGJWZRHIyJeWkJm1MyQCinMwVqxI+i+NL87DETiYnn9CSWo/ZSWzfU3GC+VM4UMwW1AGGKWxVcgGIcKCYK5jfvrNcgrHhQGF6Ssj8chmIOOyx4/iP4wfqR/5zMndgtwAAAABJRU5ErkJggg==",
     "wiki_name": "Mime gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mime_gloves",
     "equipment": null,

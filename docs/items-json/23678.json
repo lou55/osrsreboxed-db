@@ -1,7 +1,7 @@
 {
     "id": 23678,
     "name": "Dragon pickaxe (or)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": true,
     "examine": "A dragon pickaxe infused with a fragment of Zalcano.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4Xt2WzWvUUBTFcxlKyDBkCAkpM0M/xtJKP+i0pR+WdkCRoRSK4kJwIeLOhdBFwYULXQkuBBfu3LgSXAgFF0L/BP+r23fey00yGau2zcsUD1wGJtPcX887777nOP+3iIvfZPrTMysivt/v8+8bE/eWly94ZkXEkePopgO3ljQerp31df25NjtrCyprNl9zuK3q1vQ0H3o13ldQSxOOrvluN3UHMJaAiPe3t3XjjQnTfCYB2lrr8cbqKt+em0vLMoyIdPMdBdVTUOIS3FhZXNS1tLBQHQyaz3Q6GgCNxQ2BkLIMM5obAIgjgLu7t8cPDw6qgXkcNEZyAyBkBs/xCaCjwSAFKr6lJKmXey4/CX1+Hvn8Im7y8WTAr1phbr6YWYOwV+AORHyn7vHAr/OjZoOfKjgAINifAk/nB5na3dy07Y7IBBl1r+HxAwUFmBPlFBwD5Pe4rqsiIMiEGdmRQAMMywjHAPar1eAfCVTxry2IzPTNQSFXcAwwcOtNO+T3nZh/plDWwbKtH0eR3lX57+DUy9iAnU3W+dS+W6Qd6as6e5vlxWSG9NSWcwz1pdvib5FnC4rYc13+8Mzl12rLv+tEKVD+N1JYWkB9nIr5a7lQpgEOT0xkGYTD7mTKO4aswTUs5Sj8lUQ81W6n1wiBkaZ/b2DAMd0/h6W4RHrg5Y+IfwPJJG7hZlCCS2Y3iUvXe+Hl/5mCiMMg0DDITwkvTNy6lLJd0vT9UmGuINLLAggsEw7MCu7DF4nSS5aUODUGGJFZJrlojR0GJzcuYr4aZnmg4i8rEPFhcvHKh3qM7kDDEGOGMboREDdN5zD4r7VxTyz3AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSElEQVR4Xu2Wz2sTQRzF90soy4awYdllSxLaEksrbaVpS38obUCRUAqieBA8iHjzIHgQPHjQk9BDoYfevHgSPBQED0L/BP+r57yZzO6atia0mY2ID74Espt8P7x5853xvH9bgsFvcv3pmRMJ7ne7uLixoLOycskzJxIknqeb9vxKv/HvtbO+7hoob7ZQ8dBUdWN2FgdBBXsKannK07XQbpfhjmBve1s33pgyzef6QFtrHWysruLm/HxWjmGsRDffUVAdBWVdohu3lpZ0LS8ulgfD5nOtlgZgY+tGDmHLqc7nhgDWEcLd3d3Fo/39cmCeRLVzuSEQM8Pn/CTQg17PNZBgLfDxNA7xIgnxMq3j9XSEt424sIPMrGHYHcNYCW5XA/TCKh7Xa3im4AjAYJ9Egc4PM3Vnc7M8IGaGda8W4KGCIswb5RQdI+RpWtVVEhBlwszs2EATjMtIxwj2s1HD9/KgxEzfAhRzRccIQ7feN2MctlL8yKCcg+VbP00SvauK39GpV6kBO5uu4pt7t0Q70lV19mGwmeipbc8x1ud2A1+TwBWUIPB9HD338U5t+Y+t5IJGuVtcWkIdz6T4Ml4o04CHJyeyHYTDG4jOGl3jUg5/fyQJZprN7BqRw4wqA87p/ikei0uiB17xiBh8YzSJvhlc/feZzG6yLl3vD6/zWy1BHEUahvkZwx9eRfkuqYfh5GG4LITgMvHALOE+fJkku2TZyt2amMwy2YvWxGF4cvMiFqphNmEgwUH/4lUM9eBbJeuvgPivofoFgu9iSxk76eAAAAAASUVORK5CYII=",
     "wiki_name": "Dragon pickaxe (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_pickaxe_(or)",
     "equipment": null,

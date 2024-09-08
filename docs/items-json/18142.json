@@ -1,7 +1,7 @@
 {
     "id": 18142,
     "name": "Antisanta gloves",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-12-18",
     "duplicate": true,
     "examine": "Keeps the coal-dust off.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaUlEQVR4Xu2W60uTURzHe16FEIYgiAjlqyACNcl8EXRBojTRhmiKecHM0qVj2dKWiZnN1Lxf0eYtm2Zjtrw1JqZlatIMLyimZdAf8s1zns6z7XnYXHl74xd+OMbOeT6/7/d3zuOBA/va156Kg/ibPRCB4Ougm9vfz3siHsLN3R2HPDzoXwYU4Ou721AcDnt6wsPbG54+PvSzGEq8YgdlhbEtBuXYJRbttosTIIg7YiB7l6x1OjQE0Ynxku+3AZIHIjDOgEjJazXI1lZBrWtCpbYJhVVlyC7IQ1L6TYTKInEyOAheG2v/A8q+IwLideSoU6C7LRXI7arHE30rnhraUdv+ApraSjzQFCJDpURC2g1cigyHf1Ag3VMasUNxiFHJcS4mEseD+cUExhkQ+U3BGy1K3nahYqCbVpOuAyWNtXhUqoEiLxfJ8luIuh6Hi+Fh8AsMcNUljnapaquh9qdo1IhTK3DslL9DIOZizVAvGkwGWr2DRmh7XtHYCipKaGxpykxcS06g0Z05fxYn/P1cgeJol8Ry0jEBy6gqQnyeEhHpyRIgBtNk7kPbh0Gh+kyDaNf3CLHlFBUIsV2NjUZI2GUhNifRcXSzFrORdkk6JtaTAc2se4bExyrIslJxIVZGgWxPVveE2a76R0zQGTfc6mqjseU/L4YyX41UhRxxKUm4EiVzZY44GKbH8HpyBLqPJnSMDUE/2C90WlxfLcwD2zgiOopuvPx7HXO/VmFZW8b090WYxkfp2tZeneDSw+IiZKnv01li18GmQKMLFrz/NoUBywRGJz/BaB6mnbZ0v0R5SwM9xqrCfNzOVlD7rZtaTyR7tZA9SFPEaXYFkLUsOpeAZtaWaIezi/MY/zKFobERYUCrW5tRVFNOj/GdnHv0brHflKMgrNh1QMag7J2ORq9oLKUHhZxiF4CIOMz+XMHCyjI+W2ao9YbhARpbXaeWxkasJ7GxDW2ByKCL7ydb92xrk4G2FYfV9R+wzM8JsXX16emAljXXCQMqdofBMCDbO4o9XFz2z3UqDkurK5ia/UpdIrHZzpG0Q+v7TuySPfiWxFvLXOo09AonRvoQ/vUivjS3/d8T/qGu5M+/XhiUo9isv9+ixNlLN5cC7VBs/yIpFANiUOIVuyBpvI5j3iWJo3Uc8772tTP6A6jPQF77TETYAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQUlEQVR4Xu2W+0tTYRjHPT+FEIYgiAj1WxCBlmT+EHRBojTRhmiKecHM0qVj2dKWybI1U/M6L8M1b61pa8yWt8bEtExNmuEFxbQM+kO++b6nc3Y5OaYo+6E98LDD4ZznfJ7v93nfdwEB/vCHT4OB+x0fBIFg80Bg4N9rnwQLERgUhIPBwfTXh0AMDoWEIDgsDCHh4fTah1AOGOfkoLYH4qzd82B4CKKOO5CrSo48HReLlKwMwf09gGSBCIwnIJJitQolukbIDRo06DSobKxFiaIc2QU3ESdKwsmYaIRuvbsLKNeOCEjo4SMege5q61Gmb8UTUyeemruh7n4BlboBD1SVKJRJkZl/A5eSEhAZHbVTIAapMjHOpSbhWAz7MoHxBESeUbzRofqtHvVDfTQ1hh5Ut6vxqEYFSXkZcsS3kHw9HRcT4hERdcJbKIZ2KetqpvLnquRIl0tw9FTktkCcis0jRrRZzTSNwxbo+l9R2xT11dS2fGkRruVkUuvOnD+L45ER3kAxtEsiOemYgBU2KpFRLkViQY4AiIPR2AbQ9WGYzwHrMLpN/bxtpUoFb9vVtBTExl/2DoYU09ostEvSMZGeDGhRyzNkPZZBVJyHC2kiCuS8svqmbC45OGaFwbKllr6L2lbxvArSCjnyJGKk52bjSrLIOyDz7AReT4/B8NGKnokRmIYH+U6rWpv4eeAKJ6Yk08Krvzex8Gsd9o1VzH5fhnVynL7baTTwKj2sUqJYfp/OkmM78BgMxpfseP9tBkP2KYxPf4LFNko71fa9RJ22jS5jWWUFbpdIqPyOoo4VyR0tpAZpiijNbQHkXc46r4DmNlZoh/PLi5j8MoORiTF+QJs6O6BsrqPL+E7pPbq3uBZlKAiX3HZAxqD2nYFaL2mvoQuFrGIvgEgwmP+5hqW1VXy2z1HpzaND1LaWXh21jUhPbBMWZI8Y9/3JWT3X9DoYrG/+gH1xgbdNP2CiA1rb0cIPqLs6HAwH5LxHOZ7bdTBYWV/DzPxXqhKxzXmOhB9xnHfuKgmf3XWw0nIq9ZqN/IoRfoQ9Xtw3zX36e+Lu/b+Ks8cLB7VPtu0khED7ZNtOQgjFAfkUavv0hz/+0/gD2UH/zPjL/h0AAAAASUVORK5CYII=",
     "wiki_name": "Antisanta gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Antisanta_gloves",
     "equipment": null,

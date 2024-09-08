@@ -1,7 +1,7 @@
 {
     "id": 10102,
     "name": "Tatty kyatt fur",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "It's a shabby-looking kyatt fur.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xs3Wj09SURQHcPhP/BP6T6rVqlWrVauWc2utzDnCKSGoEIpPNHGPkBgQ6WOuqAxzWlutVWv9Rae+l53reZdLgTybdzt7j/fu43w498cjFDr+LUz2sN0/8hamVOQMzY6fVpEYO0XxBydVMKKcvUbrmatUSF+xoMwfMTC8DWIUQBwmxp27TCuJi77E+Ix7ZvhRfSHDlIme7UDhCAgHg3LxC5SdPKf64mgDob9Ef6hH6H3l/uFQDMI5V4dB+ZlLCsR9u4HwXKs2TnveFO17jxUIOU4MDakwsxutXXb+1QxCUhvIiZ3XIJzbQBXnug+EcwaZ2Y0W9g0DEvHkxmcGoR8SITkQPLzdQPXlm8GBuEq4BhD6RKJJdZSVZBCqZoI2V29pEKIvEM8LE4TkskKMkiB+3gQ11m77QdWHg4NwHSCu0vDIKG239tU5RyqT18MpY8u9EywIgaFkEFep/KJB3378osrLLSoU6xomMej7Zn1Eg3Y3JjSmb5BE4ctNUHxukZ4WKvSqtUO7+5+ptfuRtnf8VeOwgczsXVr7CzBB/wWKTCVpYjpNG82mQpWqHrmlGi27ZcquFMjJFXWg/yFA7ZWDCvUCGovGKTazQGWvQaVNTyGSmVxHdWSF5KZoZjdae8nbQAgJQl8M1XzOVQC3ViNntagqg3ty/qD/u/K9YECMQiABdlz0w9x54qxR1v0zLM+KtLReorViVU3uIwPJKuEoQanFvIYsPy/rykgMg2pLNzQIuzRjegJhhdlA/DpgEIYJ1VGVqVRVdTCh617Th0J18NqQFeqxOmgHIHMe8e6LPrMLK2rIkrkczbuuqlQi7XRUiIcLr43AQIziZJOJjAqsLCx5nDNGVlKCsEtLEKPM7JbWBpnDhuux6QUajyQ0TAZgX7//VOcmCEP8ujCsQdiD+tiH/CA5bJwcCZAI1/llenf0Ee19+tIBQnUGBmGV2UC4xr8YyeR/IDznNd6qI881Hq7AQOaw4boEmX85sk5Bg7gvQFjyEoQ9qO99yDZsEoRzCcIurlBiNXLfQEC2YZMg3JN/S3DOuzn6yfkzIAitcxXZQmJkmCBsihLE0QcoFOJt/W9hAmXI+RMIqNdmInvBchz0/U/NRNrCfOZYt99eWL1ADvOf/wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xu3W8W/SQBQH8PEXqtGoUaNRo8ZliTE6F4IsGzLYBjJYB7iRIiABxK1kUdTJJEMTjVFj/Iuefq++5vXaKQVm/MFLXlrao/fhvbsrU1P/fguRf/jdP/IWolTkJK2ET6hIzB2n+N1jKhhRz12mauYSldMXfVD6jxgbboMYBRCHjjFXL1Axcc41MD7jnh5uVCBkiDLRUx4UjoBwMCgfP0u5hdOqL45+IPSX6LftCL1p3BkNxSCcc3YYtLV8XoG472EgfK/XCtOBtUgD64ECBcLgofyrGYRB/UBG7IwDwrkfqGFccYFwPiQo5CoDBuLJjc8MQj8MhMGB4PIeBmoXrk0OxFnCNYDQJxJNqqPMJIOQNR20s3ndASECgXhe6CAMLjPEKAni7+ugTumGG9S8Nz4I1wHiLE3PzNJeb/DrwXakMltOOWXsmjcnC0KglAziLNWfdujz1+/UeLZL5UrbgUkM+r6szjig/vb8sBg0N0ii8HAdFF9dp0flBj3v7VN/8IF6/Xe0t+/OGseIIDT7AZigfwJFFpM0v5Sm7W5XoWpNi8xaiwpmnXLFMhn5ihPoPwLIXjnI0DCguWicYstZqlsdqu1YCpHM5D3ZkRkKsCnaS94PhJAg9EWp1vKmApitFhmbFZUZ3JPzB/1f129PBsQoBAbAjot+mDsPjRLlzJ9leVyhjWqNSpWmmtxHBpJZwlGCUutbDqTwpO5kRmIY1Nq46oCwSw+JQbNXmB+IXwcMQpmQHZWZRlNlBxO6bXVdKGQHrw2ZoZFA+jzi3Rd9VrJFVbJkPk9rpqkylUgbngxxufDamBiIUTzYQiKjAisLSx7njJGZlCDs0hIUAGWD9LLhemwpS+FIwoHJAOzTl2/qXAehxC/K0w4Ie1CAfcgNkmXjwTEABsJ1fpnemr1PB+8/ekDIztggrDI/EK7xL8Zg8j8Qvmd1XqkjzzUu18RAetlwXYL0vxw5o+yAuC9AWPIShD0o8D7kVzYJwrkEYRdXKLEaue9EQH5lkyDck39LcM67OfrJ+TMmCM27ivxCYmToIGyKEsQRADRs8yI55Pz5i6DfNS/SG//beO0HFFRytGFupfAAAAAASUVORK5CYII=",
     "wiki_name": "Tatty kyatt fur",
     "wiki_url": "https://oldschool.runescape.wiki/w/Tatty_kyatt_fur",
     "equipment": null,

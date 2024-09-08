@@ -1,7 +1,7 @@
 {
     "id": 10870,
     "name": "Binding fluid",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-19",
     "duplicate": false,
     "examine": "Some magical fluid to bind surfaces.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqElEQVR4Xt3X/UtTURgHcM/f0S9GGCSha9RssHxhGzo3tjnnbd01E1PLFZbZC4otKrEXsBcTy2SlRFpRUBRoLm1Ty7TmD/5D3/ac653bXcMf6uxKDxy4nF12PjzPs7Nzior+v2DQzugYDJJUhR2CYjCbS3FvyM9BhuJivVEMNpsRg4PenQO6c7sBN667NkumDl2CodF3gIP6eutwoduGaxFnunzatwUHw6WLdlztr+cgen48KmNy4gRsFfv0KB/DwwcSnkWb8e5tB6ZetuLN63Z8+hhGpbFEH5Crsgze6nI02Y2QHSaEnBVocR9OYwoMolAamFDtPgsshj28f6hsuvSQ11MOWTbxDBGIShebu4wP7zvxdCxYSBTjzUx7D/URAZaX7mJtdRRLi7cQi/XyuUfDRwuBYhgY8GB2phsL8xF8Wx7Cz7UxbGxMc9DqjxGOo8+oyQU3N0PJ7l385z0324NE/CZWvt9HMhlF8tc4h6komqdMCQdZDu3Hq+mTfDEqDy2+vj7xZ9TKsHhQjdmAFn8tTslOdLWkNsQOCf1ng/i68BzzX6Ip6HiqsZ/w8Xl2FB67WWQfMTiqTWiV6vKCMlEEkpzKsURQlhgaai0c1HncnQWKxydzskSgoNcqCpQ69xhLtwWlUZsgelcYiPonE3S+tTELpM0Sgai0gvpIAfkdR7JAV04HEOkKIZF4kQOiLFEW1Qz94yxtD6KhBc3MjIgrWVVFWV7Q4uJUOksEonkqp8u69e+v/ca/DKWpqR/aAvV5QX3hY2lMT1uTqHJRMBws28v3oZDPngOiQc2tggRj1EjdMCxGBNw1ORujFkNYQaXSBuN9RGU70+xNZykTo8OpkfEjKy1MB7Nw6tZ6TrbyZ2W/KShGjcw72NZQIQXGKJG5uK6QQsRvpkTVudWHj2AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xu3X/U+SURQHcO/f0U+t2ZZraKwgNvJlwBRhgIhEEMZILalZZi/TGa1y9rLZiznKHKVrabXaarVBogZomRb+4D/07TkXH8ZLzJ8uD2ud7W7PLmz3s3MOl/PU1Px7wVC8o2AwuN1NqBIUg05XhwcTruoBGY1qjI87qgd0724Hbt207oDkpUgwdDoPcdDIcBsuDRpxI2xRqnwMVy6bcH20nYPo+WnEi7nZUzBqDygDevzIjRfRbnx434f510G8e9uLL59DaFTXKgOyNqrgaK5Hl0kNr1kDv0WLgO2oEhg5sg1MqF6nHvqGfbx/qGwKoCSIvR5er4ZniEBUusTiVXz62I/n075KohhvZrp7qI8IsLZ6H5sbEaym7yCRGOZ7TyaPVwLFMDZmRzw2iJXlML6vTeDX5jS2txc4aOPnFMfRZ9TkgkEMtXv38J/3YnwIqeRtrP94iEwmiszvGQ6TUbRPmRIO0h85iDcLp/lhVB46fGtr9u+o9UnxoBZdAwKuVpzxWjAQkC7EPjdGz/vwbeUllpeiEnRGauxnfH2NR2A36USiGMzNGgTdbWVB+SgCuS1CxxKGjlY9B/WftBWAksm5kiwRyOcwiAJJc4+6bldQDrUDou8KA1H/5IMuBjsLQMVZIhCVVlAfZUEu87EC0LWzHoQH/EilXpWAKEuURQEYit1BtIpBsdiUOFCTVlUWlE7P57JEINqncloNwv79s01N/dDjaS8LGgmdyGGGerpEYSgYDqv283vI7zSVgGhRc8sgwRg5pDcMvRoeW0vJxViMIWwFQBSM9xGV7Vy3I5elfIwCUyPjIysdTINZSHprveA18OcspKIYOeSDi9f/qEz8AXKrpPutV2NfAAAAAElFTkSuQmCC",
     "wiki_name": "Binding fluid",
     "wiki_url": "https://oldschool.runescape.wiki/w/Binding_fluid",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 13888,
     "name": "Steel bar",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "It's a bar of steel.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAz0lEQVR4Xu3VMRKCMBCFYXITKKyl8SRaegRmtLPh7nEWBqMvrEmWLKHIP/MaiuSbNDRNrVY7bMb6K5ax99vVWyHcOga3EyoO8xqGacovlob5Hn3PjJNjEOZw4vJixudjAvVtK0HNmEt/9gBSzAaQw+C2YIQgHoNDQAgjAMVj/oFCmEhQGoYDZcXgEIBTwlDGnrruM4RxOCUM9QuKxSlhKB4UwilgqDgQh8uMWXI/QLw8NAXMnDsoDaeCwVJw6hgshNsVg63himGwBXIITK1Eb8Zp+Kt4WissAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAwElEQVR4Xu3VMQ7CMAyF4eYoHZhh4SQwcoRKsLFw9yCDIPBSk9SJawb/0luaIZ+ydBg8z/vbQsxnVoin4yGbEW4eg1sJVYe5TtNjyi+2DPM5+t4ZJ8cgLOHE9cXcLucW0BOz320zgBTTAEoYXAtGCOIxOASUMAJQPeYXyATDgbpicAjAKWGoEDfj+B7COJwShvoG1eKUMBQPKuEUMFQdiMN1xrxKP0C8vDQFDLYMp4zByrgVMdg8zgiDJRyeeJ5VdxrQwMJzlcVgAAAAAElFTkSuQmCC",
     "wiki_name": "Steel bar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_bar",
     "equipment": null,

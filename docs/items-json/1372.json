@@ -1,7 +1,7 @@
 {
     "id": 1372,
     "name": "Adamant battleaxe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A vicious looking axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xs3Va0tUURTG8Rlk6DP4ohQFQRNL8YJg9CYoe1FZ2Z2iosKoIIpCrOgi0g1B7EKFgiEmUkYQFUVRn2zHfw/PcZ/VnmnGOYUbFue2hv07a+2zJ5db+yPv4hF7/s9H3j0a2+cejA75mLi+x41f3e1DiPmpk25u8oSbfXw8grIvUTO8CBIKkMJiZh4ec88njqQm5ppnNtKoqpB5N3lz/x8ojkAUAj0dP+Smbh/wuRxjIPJD9PelMfd14crqUAJxruoI9PL+UQ9SbikQv/u2OOp+Lt9xv5bveRBzbG5s9GFnN6NYdr21QExqQXpjgabvHoyCFqZPpUCcC2RnNyOfagMTaXFzHYLI7di6yfUO9vrzcqClZ2eyA6lK3BOIvPaBdte9vccNDA2kQLTRgt69OJuAiKpAWhcWxJsDIqelu8W19bf5CnVt60pap99b0PtX59KgN9dqB3FfoIaNDa6po8nDWvtafbUu7iy4G8PrUjiBPsyMZAsiaGUIWt+6waOaO5vdcH/Bjewo+IoRAKkgubT409yFBPTj7a0EUzUoRPGmFkRwvaunzh3eUvAQYaicQJ9fX4qC7OwlRrHcLNAYSCjFYGddElpbFvRl/vJqQcU9iAqVAzEJOSFIQFoIBhzX5IegcFO0s5tR/ORjIMKCyKdVwpDDsb6p3rcUWOYgoQhA7LhMwLlAhECqmgJ4ZqCwShxDELl7+wopjEDh/gNo8cnpBMQuLUxFIL6wGEh/BxYUtisGIpe/jbBCFVaHsQKy60i7LyC1ChDnLPgYSO3ibyMzkFDcZwKB2AiFESisZAhilw5BQtnZI6MIirVNIHJok9bO30C8wMfZ8wmIPaiKfSgNCtsWgtiRLSYGojo1g/jKSoF43tcSr45AWmtqV2Yg2zbuq0IEk9t2CaRcQHzyIYg9qOp9KNY2TcIbc14OFK6fTECxtoUgnoGIgcgL10+NIMbKtl8u7PpRWBCbYghSVAHK5bStlwsLDCNcP5mAKh0WWQlWsZL7n4ZFxsL+Zk2P38nBbliSUe/PAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xu3V60tUQRjHcRdZ+ht8UcIKC2tiKOoibPQmKHtRWdmdoqLCqCCSQqzoItINQexChYIhJlJGEBVFUX/ZxHcOv8Oc2XHds3uKXjTwcG6Pzuc8z5zZlpZ/f+RMOELP//jImUcT+82D8WEbU9f3msmxPTaEWJw5ZRamT5r5xycCKP8lmoZHIKEAKXzM3MPj5vnU0cTEXPPMjyQqFTJnpm8eqEJxBKIQ6OnkYTNz+6DN5RgCke+iv69MmK9LVxtDCcS5qiPQy/vHLEi5a4H4u2/L4+bn6h3za/WeBaXC8E/11gIxqQ/SGws0e/dQELQ0ezoB4rxOUC7RBibS4ubaBZHbvW2LGRgasOe1QCvPzmYHUpW4JxB5XZUu07ej31SGKwkQbfRB716ci0FEKpDWhQ/izQGRU+wrms7BTluh3u29cev09z7o/avzSdCba82DuC9Q++Z2U+guWFipXLLVurQrb26MbEjgBPowN5otiKCVLmhjaZNFdfR0mJHBvBndmbcVIwBSQXJp8aeFizHox9tb9WIYSZCL4k19EMH17v5Wc2Rr3kKEoXICfX59uVEQIyo3CzQEEkox1NMah9aWD/qyeKVRULQHUaFaICYhxwUJSAvBgOOafBeUYlOMPvkQiPBB5NMqYcjh2FZosy0FljlIKAIQOy4TcC4QIZCqpgCeGcitEkcXRO6+cj6BEcjdfwAtPzkTg9il68Qwoi8sBNLPgQ9y2xUCkcvPhluhhkD+OtLuC0itAsQ5Cz4EUrv42cgMJBT3mUAgNkJhBHIr6YLYpV1QClQECrVNIHJok9bOeiBe4OP8hRjEHpRiH0qC3La5IHZkHxMCUZ2mQXxla4F4Xi6GqyOQ1pralRnIbxv3VSGCyf12CaRcQHzyLog9KPU+FGqbJuGNOa8FctdPJqBQ21wQz0CEQOS566dJECNqyXrhrx+FD2JTdEGKFKB6RzVS4a6fvwiqNaqR1fF/NDd+A3+9I8y5WQUfAAAAAElFTkSuQmCC",
     "wiki_name": "Adamant battleaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_battleaxe",
     "equipment": null,

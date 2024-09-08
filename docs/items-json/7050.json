@@ -1,7 +1,7 @@
 {
     "id": 7050,
     "name": "Swarm",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABz0lEQVR4Xu2WW0sCQRTHdxgWWVkSSRSLzAwTQlAEsaAgH3zwJbC3HnqKvv9HmOacmbPrHNfL2IhF/uGw7YUzv3O1KDrppJP+nITiT44ooVoTqQzU0cE0QHqtosq9krWRmnzFvwTKAsnGk0qaD4eEojJsK4f73bDdRuNf7SE61Dp+jzHq0UeMGdgERhCBYMxBd9MEr6XGWMn6xIDoK8AMFqn5u/lSALVrJneSdlCqoQFIcjVlzoXpEYCxVqoPnfey3FQybam42lNxpRMIyjZm+WaODt308wxYgyDO+6r/ZjOpy0ulDVI2BGrN2KSYwyFynhkKIu28Os8D9RHIdUqH9uYy6x8c7ctnkw19D7sH3i2DBIRxp4Wed2cSs7OSobX2Y4k1C81kiJYebWLeX9TQj5+VNX68ZQ4Gh7kzfU0usKeis24WPc8eTGXW0FDSME1tlmB6u1hyJvAeD6oOCmGghBwGAqCecs/wFs+AMM7tIixuVt47uRV/76lVJ9ud07tly8EOoE0wxTIDkm/8oPKNVOCS5H3Hv9pDBgR+FvzGWGQNvq3UHhLmv0A96rh/wDnce0AFhCEJTDkC0Vhr2xUqMAzJHeMDRO0vPs5HhfnX+gYGk3E+/UngwAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpklEQVR4Xu1WUWvCQAxuOIpUykQmihtzzOGEISiCdIMN5oMPvgzc2x72NPb/f0J2SXp13nrY6hU36AfhPNv78iWXRIOgRo0a/w6A9jcnBOAgUSiiTi5MC4ivMWjdo+rMMfkK/4ioVJDqPWHUf6hSlLmGfddR9L3SMGRCPHsPOer5R8gZqMChC+Lobhnx2ugtUHUTEaJXEjPdxPK5/5IjymuGNEGjw0ZCoqulRQ5SIyQmtUZ3tvNcNfuo4gGG7TGGraEnUWlhNm/WOYR2BlKjIM4nOHlLM6mvd3u1RwNE0GBldYo4p8jtzJgg4uGrJdYbbFJxOl6rrH64tS+fJRt6T7OHnnkWQnARAo5WirPzK0NOOxrgGGiSITP08icxZAX9+Nly8JSGOCbCLZleowuuqeBs5IgeuCuzgqYr9VPUMgTj282OINqzo/Y0xwnwFdpiKABPNWVnAIQ8dxAamDN5VgkOJT/0XCWQBtlOfK8oGynwkHTX3cEQIfSzUK6NISvw4mf2AuRfoG51nj9ETvvCDspmtRCAU86CTFtrq8BRGZhIf1qNGoxvk9IcqXjzomIAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

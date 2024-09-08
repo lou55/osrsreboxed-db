@@ -1,7 +1,7 @@
 {
     "id": 22209,
     "name": "Extended super antifire(4)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-25",
     "duplicate": false,
     "examine": "4 doses of extended super anti-firebreath potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADN0lEQVR4Xt2X/UtTcRTG/f4JEQThS5ppTjNdus22+UZqNp02p/gyNbUm2mzNTOYmWlmWooQmligmZqZhzCGBvWhZmdVf9dT53u71euuXYLuDDjwM7sbuZ895zvneRUX9H8VwUBEtBmd9ImrK4lBsPoozpw5FGorhxZQZSxMmru4rGjhsCZGEYhLM/FgO3K0nUVdxjANlxserDSVkRgSaGzHA1ZzM2xeBPDFYK+yw2Wold6bv6dDRmISq0ljo9SYYTYVqQjE0NFz6Q+VWO4pLrMgvKEFmpk7N1v2arvYOrvb2TkmWMhvOFVmg0xmRlKxRF8jT3SPJ7fbA5XKj9EIlzhoLkJqWgehoIUsqAVExLC+vIBjcwPp6EIFAkLdLq9VLoSYYVYFa25zwevvg9/dzUbuysnIiAUPF0NXlhs/n+y2/lB+VWyUWQ2D8B3fI2+fjopYZDLlI0aSrOfJUDLMdO3g1+l0SwXkMs3CkD6IooUlNlxjuF2/i5fAe1h58k4Do2s2cBTSfHoLlhBN5sTVqucQw7/7EYeQaOb8Jn2kFl7WjsCa51HKJYdTyBiu3vnKHRBEQXR/IXUNn9iTsmh6UJrap4RLD3NUdrA7tccmhxqxvcSd/A9d0j1Gb6uUuFcY7wukSw3jlOzzz7kpActF7w4WbuJEzj8b027CleLhL5lh7uFximHF+5O2SSwR6WPWeB7vXuIiWjGHuUnlSZ7hcEtxZ6PmM5YFdLiXYRPUWD3a/eRVO7Tgff3Kp5HhLOFximG7ZxpJfgFGKgCbrtniwB/MCcGVPcZeqU3u5S/lxdaF0SZgsGnUCkksONdW0zYN9t+A1rutnJJcqk93cJWPMxVC5xPivpzCLUoKRyEEx2LQgafxpSZJLtChD6JIQ5sXeLweglHBP2j5IwfaannOXaEnWp/m5S7QojTGVoXOJgORSghG0GGxakDT+okuUo4wjwjN2iB5LhOPiqUcQTRtJDkeH7SOHEGxakHTQEgztouTD+8/XIYARS3gKpBvTtlYC0jUComBTu2g5irkJA4xQwheK/7mEY0QEo1eaNIKhpagECTmMvPZvsA+nlCogfyv5jZVSfvZf6yc9Uk5JSSBnaQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4Xt2W/UtTYRTHff6ECILwpay2nGa6dG5tvo3UbDrXfMGXqak10WZrZjI30cqyFCU0sUQxMTMNQ4cE9qJlZVZ/1TfOc7vX6+zH7V7wwJfBc+Hus+/5nvMsJuZwFMN+qVoM7trTqCpJQGH2cVw4d0RtKIY3E9lYGLNwdd7QweVMVBOKSTCzIyZ4m8+ipuyEWkBCZkSgmSEjPI1a3j4V8sRgL6uA01ktuTP5yIC2eg3Ki+ORlWWB2WJVEoqhru7aAZXaK1BYZEdefhHS0w3KArlb27haW9sl2UqcuFRgg8FghkarUxbI19klyev1wePxoviKAxfN+UhOSUNsrJglxYphcXEJodA61tZCWF0N8Xbp9VlqhJqKobnFDb+/B8FgLxe1KyPDpAYMFUNHhxeBQOCfglJ+VANaHf3DHfL3BLioZUZjDpJ0qUpDMUy3bePd8G9JBOczTsOV2o+CxAYlgRgeF27g7eAuVp78koDo7K5pDo3nB2A740ZufJVSUAyz3m8cRq6hyxsIWJZwXT8Mu8ajlEsMw7YPWLr3kzskioDovC9nBe2Z46jQdaH4dIsSLjHM3NzG8sAulxxqxP4RD/LWccvwHNXJfu6S9aQrmkAMo45PeOXfkYDkomeD1g3cMc2iPvU+nEk+7lJ2fEW0oBim3F95u+QSgZ6Wf+bB7jbPoyltkLtUqmmPlkuCO3Nd37HYt8MVDjZWucmD3Zu9DLd+lI8/uVR0qikaLjFMNm1hISjAhIuAxms2ebD7c1fhyZzgLlUmd3OX8hJqIgkkTBaNOgHJJYeaaNjiwX6Y/x63s6YklxxaL3fJHHc1UlCM/3oKs6hwMBI5KAabFiSNPy1JcokWZQRdEsI83/1jH1Q43IuWL1Kw/ZbX3CVakrUpQe4SLUpznCNyUAQkVzgYQYvBpgVJ4y+6RDlKO2aNFAyVcF289AmiaSPJ4eiyfeYSgk0Lki5agqFdpD0alf/X9ELhlqdtHQ5IZwREwaZ20XLcy03EYeQlfoFwjYhg9EmTRjC0FBUA+V/twR3UIay/tcMZPlCkPSIAAAAASUVORK5CYII=",
     "wiki_name": "Extended super antifire (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Extended_super_antifire#4_dose",
     "equipment": null,

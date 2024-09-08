@@ -1,7 +1,7 @@
 {
     "id": 13319,
     "name": "Deadman's cape",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-10-29",
     "duplicate": false,
     "examine": "Dark and sinister, just like a deadman.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABNklEQVR4Xu3WvQrCMBQF4AZxqJSWQqGooMXRRV/BwcHF93+baFJPc3Nt1CF/gwcO/kH9vDcFi+KfLCIkfydhhGzqWmaCUggDOg9DSpSQ3eZgFUDTKBm/jGNQNS00AsoNmZuUWmHANRpM2+/eEBQDSCCMvaJfMfwqniJk265l12119fMZSFQMQHjs+71uUsy1Xk3VmNfEomOOy0JeqtICqU6gZwHiV/EUezKn5UKDKOpGQAGnM95JVdVaZ2ZTlroUdW+qkBgDoW2aTnc6wGRF6nUAzGcISm95ivN4buYhLgyeA+R5Vb9BOIYe8uQYTAfveVyVyjvqEwafc0wUENbimk4ADGL+zXEULwV6XpUd80vdMBziQKtyBzCOwnSiYuzYqCir+p4RhSklnA6NyAmDZIUZkxUmdB6aB7IwydVtZQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABHElEQVR4Xu3TQQuCMBgGYEd4MEQRBpJBQccu/YYOHbr0///NarNXv83Nk982qBdeND308O2zKP7JIkK5TxJGqLZpVCYojcgGJJQcLlYBnBsl45+5GFRPC42ACkP8k2LNjOn60wJhY1hjH1FyTNcdlJRHU3PvgUTFAIRr359Nk2IezX6qwXwnFh1zLQt1rysLpDuBPmUG2ZO5lTsDoqgnATFixi+prjtrZ4aqMqWoV1tzYmYIbdtK02mByRHp3wyYdQhKP3mK2xDkh4QwuAdoc4yL8EFcDF3y5BhMB882BOksUWsYvGfC6IRBOJbQdBgwyLjUFOdOyUUyTceXMAxLHBFDs0RhOgkwiI2KfFShjChMKTEGETlhkKwwP5g3cahuz1A0JnUAAAAASUVORK5CYII=",
     "wiki_name": "Deadman's cape (Deadman Mode)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Deadman's_cape#Deadman_Mode",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 2009,
     "name": "Uncooked curry",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-05-08",
     "duplicate": false,
     "examine": "I need to cook this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xu2Wy2sTURTGO0gYJoRuFEVFrYqKVmwrbbGUaMVS+qK1LbENfdhEI2ltopEQggasGKxSsFJx0UWhi0IXQsGFILgQXLgSBHduu/Z/OPrN5czcXGYmYxsVJQc+hpm5957f+e5jpqamGv9faLQ9VTzEwE/SjbQ4pdNSzKDlGwa9Shi0kjRoddYW7mW1nt1daTiNktdO0Pyo7gqzfsegtVSp8A7tZIXP790pnEb5YZ0KEZ2KUXeYjYwtGQYFuKm7ff+vQmmUvapbQAsTuivMZi5I35/X0tbTWvr2OERfCiH6lAvR+7tBsxD0hWSgzORpE6ixrs4PlEap3oAFhEExCGCQ7PN9kfBjNkgf7gXpXTpIb+dsvZm1hXu0YRC4jCvGjHQd9uOSRomR4xYQuyMnlhNuJm29vhWkjZuGJdzjOdrBLRTx9WHIHA9r0odLGsWHjlHsSsAEgjtqQhYnXY8LrU07C+8Yjt2COygU4yOfh0sajfcdtYDUpHLi1SmhlYmf6yrqLLxDG+6DsVAY3ALMg0Q9RcMBL5c0uj5gO8RJOTEnXx4VWoo4a3FEN69o4wQHMCwHAEXaygClx0/RYMdBayA5MRItDAkVB73F7WQ4SAYD0EDLLm8gzO1YzxErOSeY7xcq9Lor3y3E92jvBodZAFBPkw8guNTRss9Kku0SynT6F9rLgAwHYXdlp89QPl5vwbgCYTtiF6ADdgCmr61hD81cCrgqES4VnqUuC8lw+AQ9mjln5kDhWEce7nBo5uElqzjXQLfHTtJw5yHzYzl5IeCoaKu4xtqFZLgXuWbzQMQZhIKxyzL9PoFwInvpWabJnH9A4pjou3jAdBFX3OP5y3xzyYeVT2g+FOEOdrIPIIRW8kvh9mvhRyhAhgIQpgs5yqwfNcTU4QPq9HtRTnIBDIXxVBCfMByiMwaSfzG8JBfAUDzVOwCxQ3QUYFgDSKK6oboiO7LN6SkfKpi6VlQQXrAVccUrVDB1J/G73w6ihgzmBvFHQNRQAf4KRDWq8a/EDw8YKzvx+gDsAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu2WzWsTQRjGO8iy7BJ6URQVFRUVrVgrbbGUaMVS+kVrW2Ib+mETjaS1ia6EEDRgxWCVgpWKhx4KPRR6EAoeBMGD4MGTIHjz6tn/4dVnhtmdLLubbVoVJC88LLM7+z6/eedjt66uFv9fMKpOOx4i8dPseVqc0mkpYdDyTYNepwxaSRu0OusIbVWtZ3fvNByj9PUTND+q+8Ks3zVoLVMuPEM/VdELe7cLx6gwrFMxplMp7g+zYTlSYTAAP3W3798qFKPcNd0GWpjQfWE28yb9fFFPP57V0/cnEfpajNDnfIQ+3DP5QPAupAJZk6e3AsQo06vZQEiKJICB2ZcHwvBTzqSP9016nzXp3Zyjt7OO0EYfCYIq44qcsa7DYaAYpUaO20CyOqqxariZdvTmtkkbtwxbaOM++qFaGMS3RxGeD2syRJUYJYeOUeKqxoFQHbehlDRdTwqtTXsLzyScrBaqg4EiP/wCoBiN9x21gdymqvHqlNDKxO91FfcWnqGPfAe5MDBUCzAPUw0Uj2rBQDcGnApJU2kszZdHhZZi3loc0fkVfbzgAIblAKBYWwWg7PgpGuw4aCdSjWG0MCRUGgyW7KfCQSoYgAZadgUDYW7Heo7Y5tJgvl+o2OuvQreQbKO/HxxmAUA9TSGAUKWOln22Sa5LyOoML/RXASUchN2Vmz5DhWRDEAyC8e2IXYAXsAMwfW2Ne2jmsuarVLRcuJe5IqTC4RP0eOYc98DAsY4qACEYP7xUleYa6c7YSRruPMQ/lpMXNU/FW8U10S6kwr3MN/MDEWcQBoxdZvWHBMKJHKTnVhOff0DimOi7dIBXEVe0cf9VobnswypPaHkoojrYySGAEKzsl8Lv1yKMMAAVCkCYLgESCkaGmDp8QL1+LypJHYCEQr4qQNQQLyOR+osRJHUAEkpO9TZA3CHAsAZg4q6GuypqRaqcnrDhgLnXihvEWbB/BMQdDph7JzkQfwXEHar5P4OoRS1qUXX8AlBG8dT86hz+AAAAAElFTkSuQmCC",
     "wiki_name": "Uncooked curry",
     "wiki_url": "https://oldschool.runescape.wiki/w/Uncooked_curry",
     "equipment": null,

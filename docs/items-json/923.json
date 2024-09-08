@@ -1,7 +1,7 @@
 {
     "id": 923,
     "name": "Mithril arrow(p)",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "Arrows with mithril heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPElEQVR4Xu2UPYsCMRCGE8IWXm0n+MFhIweKHN4Ve5xgZbOc14iCdpb+/3KO2RAymewuFmYinC8MuwOSeXgyq1L/JxpsZQsdrqE6FPBemlxQGj7WbriG/aWA762B15mq+8V4LAmlYVMZeFt6oNXqCJPJZ13CQHY42hlNrQ2scmhgMJjXJQ40X/wENhCm/+LhxIGcDWrHve9Ooosd26D9+Sq+2N6GHeb78usivdjddhBIeLHb7XA495uEQPHApp6CJITB3G4nMQim2QbvqR1+wp3ztNOVp52utNtp7pMmtvHbK6LrErITDqQw+MTiQPyEO8YOpzY4zMgoKTshjHuveh4MYbLYoTb84Ay7gzawOEwbED8hQexQVxSG75YQkFIOog0Gn6JAccIvLdyrbPH/R+FVZoy7voeAoUkB8wckepqk8ZnGJQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABHklEQVR4Xu2SMQvCMBBGG0IHnd0KliIuIlRE1KGi4ORS1EUUdHP0/48n1xCSXrROuRTsB0ebdvgeLxdF/xMBaoLFLhdQXmNYFDIUlIDVTpcLuDxj2B4kjCZRCCAB+1LCdG6AlssbZNm6GmYgVY520rG2IaAYSkiSvBp2oHx2rNlAmEHfwLEDaRu2Hf1+urMutmvDPj9e7Itt26ifi82Te7Gb7SAQ82J/t0Ph2GC+2XFhvYcWNtnxHlr4+cwEg6GFnR07tLCzY4cW/jp7jWvj3Iud62KDqRcaGHziMAKpctsGhUllFAZGv5c9A4YwQezYNkwxvUrvEZUNHBdG/WcGwqhSM+Y73S3zjz3ubrUCSMO4Vxkk6gpbYIemVTD+8gZFy0pcZ7919wAAAABJRU5ErkJggg==",
     "wiki_name": "Mithril arrow (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_arrow#Unpoisoned",
     "equipment": null,

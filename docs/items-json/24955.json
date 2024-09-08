@@ -1,7 +1,7 @@
 {
     "id": 24955,
     "name": "Barbarian teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-09-30",
     "duplicate": false,
     "examine": "A teleport to Barbarian Outpost.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACO0lEQVR4Xu3XWUsDMRQFYOdBiv/CV1HUikvFHa077vu+1N26ooKID/7xyLnllHjNtMnMvAgGDqU2NN/k3mbGhob/kWpEJptkMiIzPjQkGR0YkAwXCpLB3l5Jf3e3pC+fl/R0dki62tslHa2tkgxQkZkcGTHTY6PVzE6MS/genyMuNLFAAtbW0pIGFZn5YvEXBH9jFqemqsF7Qgm0YSlRkVmemamCNMaGNOVyP+KCpURFZmtpyazOzcmCvhAdG0YUyofeQj8FoNwgX4gdltKFIqizubkeqgJaX1ioli0OM/GRM/ly46/oebgolA89xdIFgYDRIA2Jw7hQ3GkbFQxCyVi2UIwLpkuXCIQdQmphbCwSB0K4S8Eg9JDGEORaKC56LksHEE/uIJAPxj4omTgQ56OPgkGu3tELaIQGxaGCQTsry147FAfSu2R/Dy40EQhNXQ/kip6j52cGshfTi9T6XM9N1EN7a6vy09d9ZC9YL/VAuMkGgXg/072kF3YlDsOTPxh0sLEuZbMPSF9ULQyCcygYdLS5KbtUCxUSYhKDTra3ZZdYuqQoG2KDcFIHgUq7u7JLLJ1GpQlusADhmcgbVD49kV2ySweUHT6i8KnAF0sQnom8QV+vL+bm+OhH6fhKoEZqoIbYINzxifEAYUTm8+lRUFeHh5Lz/X0JyokAy11kgPaBB2I4KqiPh3vzfndn3m5vzcv1teT58tI8Xpyb+7OSlBcB3ucCEmI49L/C6ZMCUxn8giyj1/gT4xs10bFx6ACswQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLUlEQVR4Xu3W204CMRAGYPbCEB+FaFAMogYVjeAJg6DiWVHEs4CHqIkhXvjiNf+YwTJ2od3dS5v8IUC1386U7sZi/yPU8FQ0iWR4amlujrKQzVLmp6cps5kMZSadpkylUpTJ8THKRDJJGRsZoUSA8tRyLqdWFxe6Wc8vUfg9vkdMaMYCCdhoIhEG5amNQuEPBJ9xNldWusF7hjJQh4VEeaqyttYFSYwOGY7He2KChUR5ar9cVtvFIi1oC5HRYYxC+7C3sJ8cUGaQLUQPt9KEcgZVS6Vu2/ww+U5cpZpDfyLn4aLQPuwpbp0TCBgJkhA/jAnFldZRziC0jNvmijHBZOsCgVAhpB9GxyJ+IISr5AzCHpIYBpkW8oucy60DyOHk/gXZYPSDkuMH4vnYR84g096RC0iEBPmhnEGHWxWrCvmBZJX0/4MLDQTCph4EMkXOkfMjA+mLyUX6fS/nBtpDxzvb9NOX+0hfcFAGgXCTdQLx/UzuJbmwKX4YPvmdQae7VWqbfkDaovphEJxDzqCzvT2qUj+USxgTGFQ/OKAqceuConSIDsJJ7QRqHB1Rlbh1EhUmuMEChGcia1Dzok5V0lsHlB5+ROGnAlssg/BMZA36entV9+dnPa3jVwZKpARKiA7CHd8Sw8NTn89PhLqt1ShXJycUtBMBlqvIAdoG7ojh8YPqPLbVR6ul3h8e1OvdHeXl5kY9XV+p9mWD2osAb3MBATE88MdR539EM74ByZNuEHobbxMAAAAASUVORK5CYII=",
     "wiki_name": "Barbarian teleport (tablet)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barbarian_teleport_(tablet)",
     "equipment": null,

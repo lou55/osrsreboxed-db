@@ -1,7 +1,7 @@
 {
     "id": 4525,
     "name": "Empty oil lamp",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-14",
     "duplicate": false,
     "examine": "An oil lamp with no oil in it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4UlEQVR4Xu2X227aQBCGsy+QNoSUHJQUMCY4gLEJZ7AxNjmQBAg5tpGiXvT9n+Hv7BiTEDW9M3tRfumTrfWs/Gk8WskbG+v8HxEIUZ5QJJHcQ3LnQLWUwNfEN2wlUiy0TUI7qUOVUoJlthK72E7uLwlZ6bQKKYHv2SIyORO5Yxu5QhUFo65WKK2VSKiyEMobNdVCZWT1UEg3TqGTlFqh3JuQ7JByITk/mm6xDEsRSoWyND9a3oJRajHyXqlQ4aQBo9hcQpGQQNl2ULYI253joOvNVAiFMtXGkLHrb7jBEx8Fsubjrhgj0OheMW13irYzYVpzMnQUrFAqlOn0Z8RtCElJWo5kjC6tden5CqQEi8g56Q3u+OoGD3D9e/QJ17+DQ2ve8JHqpnNu45QS8M5+kMw9hqMXBJc/GdNsLuGfP/Gnk3XRgMc05IJEXjGe/cZo8gvV095fCS6ecU7CMcvI0EF4dIR+/xq93sWndDpnxJBrY/xcMgIn+TyONY2llrmC647gOJcsJWv2Uqm4zySBSrG4wA+mxAQDfwxvcEOQmHeNkmFwd75sbsYvVDVNNG0bdauyQK69R3bxfXdiFJIRaNdqjBSLiMRk5/RMZlUyUaJfns9ZoUyY6IX/4uOeddZRlT9xenlGwQwE6AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4Xu3UbU/aUBjGcc8X0Ik4fIhuUIpUoFDkGVpKCygqILD5lCy+2Pf/DNfucxdwJDN71Z4l407+gRxO0l8OJ93Z2c7/MQJByieAxOLHiB+eqkYJfIp9xn4swaADAh0mzlSiBGP2Y0c4iJ/8G6AvqRySaRPpCwvpbBlZo6oW9FXLE6i4BmWMimpQASk9AOnGFXRCqQWl30HyhJSD5P3R9BJjGEUpBaXo/miZEox8g5PflYKylzUYufpGikACBctGoURZzjIbbXemAhRgyrU+Z1Xfc/xHfhVEjBKotW+5pjNF055wjWVJehVEiAowre6MeggilKxhy8Zo01qbfo8AJRgi70mnN+dPx/8Gx1ugSzneHDatuf3vtG+67CFMlIA7eCbMAv3RK/ybF8406xt5w0f+6+S+EDFyBEF+YDz7idHkDeWrzh/zr58wJHDIGDn0Ijw/R7d7h07n+sNarQHV570howQuMxlcaBqjNruF44xg2zeMknuOE4nwQcVcbp3nT6kJet4Ybu+eIph7h7xh8Ons7e6GDyqbJuqWhWqpuE6u/Z48xQhOZzUCzUqFk7BVK5g8OT2ZjAqzGvmwv7Wd7Wznw/kFt8RORLqeuV8AAAAASUVORK5CYII=",
     "wiki_name": "Empty oil lamp",
     "wiki_url": "https://oldschool.runescape.wiki/w/Empty_oil_lamp",
     "equipment": null,

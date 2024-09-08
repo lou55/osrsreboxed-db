@@ -1,7 +1,7 @@
 {
     "id": 14030,
     "name": "Key master teleport",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-08-27",
     "duplicate": true,
     "examine": "Teleports you to the Key Master.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB70lEQVR4Xu2VXUsCURCG91yJ/0IKCgrKgr4wKTARI4iQij6IikIqpJCKKCiCiK6C6KqL7vqfE++R0XE8u+shaUF84cXdc9iZxzmzs0Ew0ED9L0MtJy5DJxuTdHc4T/X9WQGWKKShh+MFejnLU2172oLdHMw1nQCgobfaMn1cr9D55pSFutqdaYKhetKdgC7/SYbe6wWqVrJOIDbu2dhn81oPq2ro87boBEqnUk4gttyPsieYoa/7khPo5zLdTKph9D5bHzGM/twrj3cLZej7abUDCImigOQ+7sOgOB6MXNlMJgrK2AceT3ORQGHGvgsKIHhzZUyGiQVCoOfqYihQFJTck0CAgTHjELdLGMjYf/N6sRQKpCHigBAPFQfQ0fqEDwxk7MOYQ7qhZVIXmF6XR4WK41oC6cwOGRsED2MOSSCsa4A4y+rAlcKIf3UYiI+LYRBYJ4wz9w7i4VcC6cwhagFJGG5Itk6szWOAjwszB9dbxVEfoMbrDgAJI/sARuk1gLZsZvw59CPuvYE4kPweyeA+FeLKojoMtFMa8wPiScpTlK2hNIC2bGYGKueGfIEg/UVut+4nni1Ijj09mXsAFAT8SrqsAWVVGYRhegYUp24gGfRfgFzSkC7QtfywBcK3rLGWgMIAW2sJqx1woD7SLwlGYOSvF2wYAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2UlEQVR4Xu2VSUsDQRCF06eQv6GgoOAGbsSgEEOICCJBxQVRUYJKUIKKKCiCiCdBPHnw5v8seS2VlDU9S5PogMyDxyzFVH9TXVOTy2XK9P9lqOPUZehwdZSu92aotTMlwFKFNHR7MEuPxyVqbkxYsMvd6bZTADT03Fyg14tFOlkbt1DnW5NtMFRPOgjoclcy9NIqU6M+5gRi45qNOJvv9bCqht6uKk6gQj7vBGLLeJQ9wQy931SdQJ9nhfaiGkbH2XqLYfTndm04KZShj/ulABAWigKScVyHQXE+OAGQsQ/cHRUjgcKMuAsKIPhyZc4EMJCxiR4ac6FAUVAyJoEAA2PGIW9CGMjYt3k6nQ8F0hBxQMiHigNof2XEBwYy9mHMId3QclEXmL4vtwoVx7knkLFJ8DDmkATCfQ0QZ1kduF4e8IGBOkC8XQyDxHrBOHPvIB+OXQFJGG5Itl5Ym8cAbxdmDs7XK4M+QN+fOwAkjOwDGKXXANqymfFy6EdcewNxIvk/ksl9KsSVRXUYaLM65AfEk5SnKFtDaQBt2cwMVCv2+QJB/MNzW/cTzxYsjpiezD0AilMQkqvKIAzzR0AuBSEZNCWgMP0EXC71WyD8y1KEkpKAmTL9rr4AHnYkrpcJsx8AAAAASUVORK5CYII=",
     "wiki_name": "Key master teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Key_master_teleport",
     "equipment": null,

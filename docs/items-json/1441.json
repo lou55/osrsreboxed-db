@@ -1,7 +1,7 @@
 {
     "id": 1441,
     "name": "Earth talisman",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQklEQVR4Xs3W60sUURgG8FkkxC/1oU/Vh5RIUMMblIIZRggJQWmpaXlPU7uYaYVY5g3pIpLYhQoFQ0ykjCAqiqL+sjeeMzyz75zO2q47RQcedp056/ntey6znvf/t5i447r/11tMHo6elvsjtSYzt07J9PBJEyJW5jtkea5NlmZbHSj7S6QN90FEAcTYmMUH5+XZTHNoYPyNe3bCqJSQMZm7c+Y3FF4BYQh6Mn1W5scbTF+8ukDor9Hf1kfly+rQ1lAE4T2rQ9CLe+cMCH03qxA+93VtRH5sTMjPjSkDQt/i7GwTe3Sr+f+U35ogDOoCLUw2mn9eV7xN2hv994gGrS50hkB4T5A9utVioWkAgosbf9sgrh9idDRs/Wl3dCBWCddcIPTj4DaKsLfPewIQkhKI68IGYXAbRMixykqpqqgwr0CgYggr9O7lxTDo9c30QbgOEPpw1wz19kptTY0cP1olR8rL5WBxkezPyQlNF/J+sS9aEIKp5LTgta+tTVob6uXwvowgZSUlciAvL4QB/uPy5QD0/c1YgEkZpFG4V18a30m3rw1IT0uLNNfVmioRVVpYKFmZmQEKoE+vrjpB9ugJml9ubGcb1HQoDpqbGJeB7gsB5ER1tVlHqJIN+rwyuFWQfwahQn8CPZqalPHhIbnS1SmdTU0GhbVUVFAQAmHdaZA+FO3RreZveRcI4a4CaHuWJ7N3x2Ts+qDc6O+XSx3t5jp2WX5urumHoDqRgohCCMI6QqVYLVf27vRM0D8ykK4SXvkI4Le3EUjRngwTXaG1x10BCKc0MUmBsMNcIA5gY3bv8Ezs+9zyqA4eG7pCSVYHLQ7S04briaaHGK4zfEafPwDhsREZCCGoLCcjCEG4hx0IDCqpf3oQhFNag4iyR3c0H+SaNj0dXLQalQiENfdhqT8A4QxK4RwKg/S04Rru86GpQUTZIFQnbRB2WTIgTmP+Ls+EIPTT0xUZyJ42XOcTniGIGILYFyBseQ3CGZTyOeSaNg6Cb4z3+ijg+rErhL6RgFzTpkG4p3+WaBD66fWTJggtfMAlisbo2CAcihrEpADyPB7rm8UG6uj1Ewko2WYjk8Ey8b7/qNlIV+zP/NftF99WQvycTI5NAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xu3W+0sUURQH8F2WEH+pH/qp+iEkEtTwBaVghhFCQlBaalq6PtLUHmZaIZb5QnqIJPagQsEQEykjiAqjqL/sxPdO3/HM3XHb2Z2iH7pwmNmZu3s/c869dzYS+fdbVPzD7/4fb1F5OHJa7g/Xmpi+dUqmhk6aIGJ5rl2WZuOyONPqg7IfImO4AyIKIIaNWXhwXp5NN3sGxmfcs8OLCoSMyuydMwkoHAFhEPRk6qzMjTWYvjj6gdBfo7+ujcjGymB6KIJwzuwQ9OLeOQNC32QZwve+rA7L9/Vx+bE+aUCBMPhRPjVBGNQPND/RaH68rnibtDU65wgNWpnv8IBwniIo6ikDEJzc+GyDOH+I0aFha0+7wgMxS7jmB0I/Dm6jCHv7vNsFIQKBOC9sEAa3QYQcq6yUqooKcwQCGUMwQ+9eXvSCXt/MHITrAKEPV81gT4/U1tTI8aNVcqS8XA4WF8n+nBxPuRDvF3rDBSFQSpYFx954XFob6uXwvpgbZSUlciAvz4MB/uPSZRf07c1oqhg0L0ijcK++dHMl3b7WL90tLdJcV2uyRFRpYaFkZ2W5KIA+vbqaLgjNSTeWsw1qOrQJmh0fk/6uCy7kRHW1mUfIkg36vDyQLsjZg5Ch34EeTU7I2NCgXOnskI6mJoPCXCoqKPCAMO80KMCm6Cx5PxCCqwqg7dkRmbk7KqPXB+RGX59cam8z17HK8nNzfw3oTP5QQUQhCMI8QqaYLb/YuzNiAv1DA+ks4chXAJ/eRiCK9sRM6AytPu50QdilU8SgOSvMD8QBbMzuHRET9n0ueWQHrw2dobRAumy4vlV5iOE8w3f0/gMQXhuhgRAEleXE3CAI97ACgUEm9V8PgrBLa1AAlAPyK5suByetRm0Fwpz7sNjngrAHBdiHvCBdNlzDfb40NYgoG4TsZAzCKksFxDLm74qYIAj9dLlCA9llw3W+4RkEEUMQ+wKEJa9B2IMC70N+ZeMgeGKc662A88fOEPqGAvIrmwbhnv5bokHop+dPhiC0zZIkC43RYYOwKWoQIwAo1ZaIZOj58xdByVoiMjH+t8zaT5VS+GE1dEEhAAAAAElFTkSuQmCC",
     "wiki_name": "Earth talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Earth_talisman",
     "equipment": null,

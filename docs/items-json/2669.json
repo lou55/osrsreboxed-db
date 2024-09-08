@@ -1,7 +1,7 @@
 {
     "id": 2669,
     "name": "Guthix platebody",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": false,
     "examine": "Rune platebody in the colours of Guthix.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xu2W3WsTQRTFuw9FGkJDSUhIQpI2IQ1JimmXmibkg5RU1FKwWC21oogoiOCjIAiC4INP/svXnrs9m9nJbt1g+iB04ECY7Nz57bl35u7Kyt24G7c+HAkqbC5qfqnDC5pI5yWZLcl6fkvSlYbO1faHUmq7UthuS6ZUlVSuoPNrqYysriV8LQnMC7JRqgcEmO2za/UOZWuvp1C5WlOhaid1BQfUvWRqWWCOZOsdyVTbCkAQqnHelObwSIHq3bFCFZsdhcJ/cBGOhkHNwGIPR3INV2VCQfjdetmS9qt2AAipo1M7b3Z8l0woikC7m5txoBzJt7oqG4oiDIEgQJpQdIlQBDMdi+mSI4WdfigUhLfvvN+V1vhRAArzplN0iVCmW4SK4ZIHY8qGAkx7cqxAFKAwb6cPLqGuwqBiuVTcHYkpG2rv8Zm4n/fl/vREoUywvU+u75btEg4EoMwUxoIquxOhbLCDLz1fAOs8PFUwEw5QpkuVzgOFglNM34JQ3h0x+jkOaPhjJIPvQ+k9fyv7Jxcq9/iFghEuDAgu4cJcS67rQcC9VX1SlfKkLIV+UXJu7hrEq6XQevImHd0UmyD4RqGsc+PLj3Lw7LV0n16qCEa3mDYTCPcSHRicv9N1eAmkGf/fCDMbQSC+BYAQFE4RDBAQU2fXUbZS99ebQHgOKSWQTWCNaCATii4BiGnDm5tpQyuxgfAs/scJ/Ceg4cUH1RwQaukKygaCA2y2JhCeAyzqKzYQFiINBGJtEYgpo0M2EHtbMuMVLtej5lg/qK8YQN6mdIgLooB42pgy1AY/SbBhIpUOACHuwkDYkG8SXDAD4l1lthn2PF6EqB8ceRsI4AsBoT54EuYXOKEw9pcBPz+Cnd0rBdZQbCCkAylALZjBbJibgOASP9K4lrEXLOr5goYmvw5l+vsotM9FAdGl9a2r9pBY1ThwH7EXAmKesch2qP9t4Kv3tR8QTpp+hpxuS2VakeKoJPluXrKdrL8e9cd7KCYQxszi2QmbtRUKnd8UYNCv0EjN54Jxoub/Mvhg2MNRwcM2CosTNb+UYQe/tY3uxv8w/gCoOsfY+BojCQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu2W3WsaQRTFsw+hKKKEiKKiosEEP6hxsUbxA0NS2gahoWlDktJSSgul0MdCoVAo9KFP/Zdvc+7mbGbHtayNefPCAZl17vz23Dszu7GxjnXcezgSVNjYovGVhpc0vp2TRKYoyVxFtst7OrbTHUmx6Up+tynpYlVS2byOx1Jp2YzFfa0IzEuyVawFBJjdsxv1D6XS6StUdqeuUDuzmoID6kEitSowRzK1tqSrTQUgCLV3Xpf66FiBar2JQhXqbYXCM7gIR8OgbsEihyPZPVdlQkH43bhsSPN1MwCE0tGp1tuW75IJRS0J5Eiu0VPZUBRhCAQB0oSiS4QimOlYRChH8q1BKBSEt29/2JfG5EkACuOmU3SJUKZbhIoA5MGYsqEA05yeKBAFKIzb5YNL6KswqEguFfbHYsqG6jw9E/dLVx4ezRTKBOt8dn23bJewIQBlljASVMmdCmWDHXzt+wJY+/GpgplwgDJdKrcfKRScYvmWhPLOiPGvSUCjn2MZ/hhJ/+U76c4uVO7JKwUjXBgQXMKBGUskdSPg3Ko+q0ppWpL8oCBZN3sDEgpjhqOLYhEk38qXdNLk6pMcvHgjvedXKoLRLZbNBMK5RAeG5+91Hl4CZcbzCDCIIBDfAkBICqcIBgiIpbP7KFOu+fNNIPwPJb0zkAlFlwDEsuHNzbLhKrGB8F88xw68E9Do4qNqDgi9dA1lA8EBXrYmEP4HWPRXZCBMRBlugbxxArFkdMgG4t2WSLNxvfnoOfYP+isCkLcoHQpOmAfibmPJ0Bv8JMGC8dR2AAh5lwbCgnyTRUA8q8xrhnceD0L0D7a8DQTwpYDQH9wJ8xOcUBj7y4CfH8FDz2sF9lBkIJQDJUAvmMlsmH8BwSV+pHEucy/Z1GEN7cj096Ec/TkOvecWAdGlZOX6eohvah64j9xLAbHOmGQ7NPg+9NX/NggIO00/Q053pXxUlsK4KLleTjLtjP9i6D+eQxGBELcW20/MZ7j5TQEG9xUu0mAOM8+i8ZWEnfzeFlrHOv4r/gLUrXeQi2VHIAAAAABJRU5ErkJggg==",
     "wiki_name": "Guthix platebody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guthix_platebody",
     "equipment": {

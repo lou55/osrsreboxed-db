@@ -1,7 +1,7 @@
 {
     "id": 1277,
     "name": "Bronze sword",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A razor sharp sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVElEQVR4Xs2WXytEQRiH923aTrNppdXKymkRm1atXJDiAyhtUT6HxGcgSeRGEkkuN3KhfAXlQr7QTzPT7M6ZcLfvO09Np/a8p56enfOnVBo6hPgXIYwIYXWhZo/xWWYI7bxqZbzQcrMpJUVoTVWxMjeGzXa9LyMkRJidHEFnZhTri+N2JVMnlBESKtYRljEM6iSxkX2dUEZUyNdJQua3OvEUI4nWSUKmUdO2TigUTzHi6ph3VlJ1wr0TTzHi6hihZOoYoQRkDIS8XinUiScYSaaO+xz1dcRlLs41nnsVWycUiieZIBzsZ7i5dlLCdQyE3Z0yTo6LUvEUM4S1aWWl7m41Xl9EpQidCYWteYW9pTLOTjM83Gu8v4lIOZmNXKHbUv07zS/mvUQ4Oszw9Kjx+VF87oQrvmqIOKGrS43vr4FQPMUIobut7C0v8Pf8hche+R9umR8/ewe+GjfT1gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABLUlEQVR4Xu3VwUoCURQGYC8XGa6EIiNGRQMmKmIgtCiCeoAgBhJ8jpB8BkVEFDciUkS0jKKF4CsELsQX+uXcYRoZaJnnLPzhMDCzmI+fc2cSiX+PQvwOUwiicFl27TX+dMdRqHlpixEAUqicpHFRzOK2lufHnB0doF7I4Lqas8MOCtsRgdluhxlDidoRschhOwIwlKgdEZh9O38nakcE5tg1th0xIGqH/lkiMGE7onaHQCIw1A6BBGAoCl4+tW8nFnp5MNQOO2Y4MPj8SNl2RIBajw6mkwDFjKEoNB6S6HaEoa5OtUU9zwy+v1hRCvVDjbuSRvM8iX7PweuLwWLOggowN56GX9G/Jy2anUah/eTg/c1g+cP+3aEEoPHIYL0SAvLvtT3yAjBhWHZFVjZaucLf6SKiuAAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_sword",
     "equipment": {

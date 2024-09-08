@@ -1,7 +1,7 @@
 {
     "id": 14970,
     "name": "Teak table",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSklEQVR4Xu3W70tTYRQH8I24XO7LXvaiMiTBAlOxtXC5RqvZHM01Z/PHyoZGFvZDEivstyUysCIkCoRe9H9+41w58ezc8/iwoAVxD3xfPGze58N5zn1cIhFXXHF1rZLobg6sJNYfFLB2/zJWl/N4eOcSVhYv4l4zi7u3xrDUyKA5NxpmoZ5GY/ocZqdSqFdGUCsPozoxhMmrZ1AqDIQp5k+jkDuFfLYfuUwfxs6fRCbVi/TICZwdOh7GgUri+aPxCMoGY9SxI4etMBPFMBNFew729NhQSbxam8CL1aIKY5SEEUiiNJjWKSfo7XopgrLBGMUg7Ri1TpkoJ+jDxiQ2n5VVGKMkjEHmMbqOj1FO0PbLSgRFm2kwRjGIuqV1SaI6Au28m0LrTbUNRpvZukUoE2R7A/k7sktO0Of30ypKO0IJ0t5AAvHnGsoJ+tkM8GMhwN7NAN/mA+zOBOFDPtaCMK2qj62Kj82yj9clHxtFH0/H9/Pkio/HeR8rOQ/LWQ9LFzzcHt1PI+1hJuWhNuzh+qCHawOHwvwzED3jj0Bftm78PjZ6CB0bt5qPTZsjeRXIOaK/l8NNx+YE7W7XIygKz1F/79HITJihz2UIpYEoHYPkcNMG5mDT2hxuWlOX+AZnkHYFUJygr63ZNpQGMt82G4hvcFrLK4BRlI5BsksaiGeJATxLvJbzxCiKE/R9Z64NJUG2O4lQDDD/pdDadllSOgZpXToIZXvrNBTFCdr7NN81FMUBopI/Mf9uCOMAJRL8pW5F7h9XXP9l/QJtEWZiK1yK9AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xu3V20sbQRQGcENZln3sow+1iFSwBauiaYrRNJg2NobGNMbGSzQNtVTFXqRiW7y1tYoEtKWIKAg+9P/8ylk5ZTJ7xiF9iC974HsYdrP748zZSUtLWGGF1bSKoLm5siJYf5vG2vJjrC6m8O71CFZePcJSNYE388NYKMdRnRn0UynFUJ58gOmJKEr5fhRzfSiM9WL86X1k091+Mql7SCfvIpXoQjLeieGHdxCPdiDW346B3tt+LKgIvrwfDaBMMEa1td40wlQUw1SUFbS9NobN1YwIY5QOI5COkmBSp6ygb+vZAMoEYxSDpG2UOqWirKC9jXHsfs6JMEbpMAap22jbPkZZQQdb+QCKXibBGMUg6pbUJR3VEOjw+wRqXwt1MHqZqVuEUkGmL5Dv0btkBf36MSmipC3UQdIXSCC+LqGsoD9VDxcVD+dzHk5nPRxPef5Djoqen1rBxX7exW7OxU7WxUbGxafRy3x84uJDysVK0sFiwsHCkIOXg5cpxxxMRR0U+xw873HwrPuGn2sD0TP+C/R7/8W/baOH0LZxq3nbpDnSjwJ9juj3+nDTtllBxwelAIrCc9TVcSswE2rouh5CSSBKwyB9uOkF6mDTWh1uWlOX+ARnkHQEUKygk9p0HUoCqV+bCcQnOK31I4BRlIZBepckEM8SA3iWeK3PE6MoVtDZ4UwdSgeZziRCMUD9S6G16bCkNAySunQVyvTVSSiKFXT+c7ZpKIoFREU3NDNhhRXW9dRfGfsjAZInKVgAAAAASUVORK5CYII=",
     "wiki_name": "Teak table (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Teak_table_(flatpack)",
     "equipment": null,

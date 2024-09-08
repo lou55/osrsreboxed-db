@@ -1,7 +1,7 @@
 {
     "id": 26550,
     "name": "Portable waystone",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-19",
     "duplicate": true,
     "examine": "A small waystone which can whisk you to places of importance.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcElEQVR4Xu2UwUrDQBCGk6PPUCw1oZGtpcYiiliQgo8gXgRBRBCLFEEPRRChIAhCQfEmHrz4mOPurJvJJkGT6g6C+eCHpNkyHzOTeF5Nzf/Fh/y9CRtUVIjNVHF9b8IkRUWNVNxqYYqe0+9OyBezZYrP2c9+lbxQ9oSGbXRlhRQsUlWEFD70jvYx5c7PRdX9oDfRkZCiSpEqZ3+EHsf3Xara0bmx9+PrYtmzzijzJtEXnW10+Q5QomgdwnANgqCXyDgW8jxdQBdXUZ2IhtsQDjZQZLEp+GRsqDON0R50OlsYFJSi9JwR063GWI5wdQcWHkcYvJ6dYtilVMHm1QFKmKCYlFHX3e6Au1tSaHJoCWWj5GiMzvFh6fY46YzVpc9OxfGQc9Gl0PQkJ5ROv7+bCGX/7QAfVt6nIN5uYPllAtHzJbSfLqA9G0P4cA7B/RkEd3q5mYQUemmNmHi9RjlaZrZxEeYTUCTBLpPmT0jUcPMBDSNSh++Lg1oAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUklEQVR4Xu2T0UoCQRSGdy97BkloFzfGxExCiYQQeoToJghChEhEgroQQQRBCAKh6C668MbHPM2caZpxN2xmbY8X7Qc/7LIH/o8zs56Xk/N/8SH5rkKGLmWsaZTLdxUiKV368ybi3zPFtsx2bmNsi8iOzlZIQCLlIiTwoXpzibGbT4W7lP1salxKXGY3Qh7H70WuG01N/H6sK4vPZobNnyRl18/8KbIwuS2ZKDqGMDyCIKhSyJjIchGxiah9CmGrgSK7RUYto9CbKfQuoFw+waAgF9XfyeFCA36Eh2ew89LD4PP8FrMFKR+Kj1cooYJiXEY8Vyot6m1xoeH1ilA8Qk4fY+b4sDfpfG9mZUtfm6rV2lQyAi407SaEzNTr57RCB8spsMUY9t+HEL09QOn1HkrzAYTPfQie7iCYkV9ueWmVGPsYoZy+zKQyJqbA1iRycrxPLoogWnyphHoAAAAASUVORK5CYII=",
     "wiki_name": "Portable waystone",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portable_waystone",
     "equipment": null,

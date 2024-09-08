@@ -1,7 +1,7 @@
 {
     "id": 27354,
     "name": "Elidinis' guardian",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-08-24",
     "duplicate": false,
     "examine": "A tiny automaton imbued with a trace of Elidinis' power.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xs3X/0sTcRgHcD+IjI1xY2xs7I7dvI15bJN9Y5uTWgVRUQQVfQGRCiMVMzPEoqBIKipEkBIJwYwk84dA6NcI+ikIoh8iCIKgfu2veOfznHfOs5/Cu/XAwx23iS+e5/l8Pru2tn8Ogck+D+hq/6QFQQiBG/0GqNjZ2SqUAbkSDWJKDnOFGn7vRpVcr5TAwaSGk5kunCt041K1hNnLXvQqMgrRCPRQyG2UwH4tgeN6Gv35HINW73hRk2PIRcJW61xun8DRrhSDxmplPBn3ohyLWtVxGWOGwHQ8guWkzC07IPlQ9xlz1AKQObxGEsj+zP4XDsTmP/N6PFuSQPZnDuME0pqGpKoioSiccVm28uGQB6FgEJFwGLFolJ/RfUCS4Pf5nEAZIBNlz8EjsgWhpHsCEsas1g7PlYCeSnHaYc3VMu+bq+MYiJY37TmUF0sFDBTzvDGaKLrS3kSbZkNVeJNMr1fJxOw4aLhStEB0b0edyerbQFpAcqI6ZogtoB8v6vj+vAefn1bx4XEZa1PdWL6ewfxYlwWKS353QD9f9lqg3bUaeisVFHI5LE7omB1JM4iOkaTfYdDK+q5MGErCfF2sYU+9jt9xCdViAW/u5nGzT8XUWQ2H13dud0ArDUZQUnWaK0SrkAb8Vn8CJwJ+6JLDM0Qgyl+v9lkgqtKXhSpe394KOh10ATSyt4MrxLkxR9+eGa1bmsxgbjSNiVNxBt07ryERanMWNLBrO4iuPaUSFq7qmBlK4doZlUHZ2CbGMdDKWBaDjY5tg/1uusigBxeSPNRltR151TjDHMJQCCwO60aVNkDUro9zFd4YCUSri0DUKiXkyJFhD4Hl0YyFouqY5xqdYYShVmUVH/zedndAC4M6Vsdz3DpaVbRLv31U4B2aDlVqVTTQ4fT8NIfA0kgGa5PdvNzfz5QYRPMzcCiGdGzzZ6wLGDOMefo0X+GBJhC1q0UYMwS3i0CUo8eUVmLMEOjLZfmnR/M7mf1bLoZgzH2lZS+Ifwvj1fo/qI4Zgt9cdxr0B6EuZcbnk4gHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xs3X/0sTcRgHcD+EjI1xY2xs7I7d2MY8tsm+sc1JrYKoKIKKShCpMFIxM0MsCoqkokIEKZEQzEgyfwiEfo2gn4Ig+iGCIAjq1/6Kd3ue8855/hbenQ883HFj7MXzfD7PZ9fR8d8hMNXvAV2tn7gQhBC4NeA6SIdciwYxLYe5Qk2/dwPlOEzgSCqJM9kuXCh240qtjLmrXvQqMorRCLRQyGmUwKFkAqe0DAYKeQat3fOiLseQj4SdxhghcKIrzaDxegXPJryoxKJuVKc9BGbiEaykZG7ZYcmHhs9YR46HsXj1JJD1mfUbNsTmj3k9ni1JIOszm3ECmWQSKVVFQlE447Js5uNhD0LBICLhMGLRKD+j+4Akwe/z2YHSQQbKmkPHZRNCSfcEJMxmtXY0BLR0mtMKa6+Wcd9eHdtAtL1p5lBeLhcxWCrwYDRQdKXZREOzqSo8JDOtKtmAoRAYqZZMEN1bUX05bRsoGZDsAlGILaBfrxr4+bIHX5/X8OlpBevT3Vi5mcXCeJcJikt+Z0C/X/eaoH31OnqrVRTzeSxNapgbzTCIjpGU32bQamsqE4aSMN+X6tjfaOBvXEKtVMS7+wXc7lcxfT6JY63J7QxotckISqpOe4VoF9ICvzOQwOmAH5pk8xoiEOWfNwdNEFXp22INb+9uBZ0LOgAaPdDJFeLcWEc/XuitW57KYn4sg8mzcQY9uJhEItRhL2hw73YQXXvKZSxe1zA7nMaNPpVBuZitGIpWy8ZzGGp2blvYH2ZKDHp0KcWLuqLuQUG15QxrD4GlEU2v0gaI2vV5vsqDkUC0uwhErVJCthwZ1hBYGcuaKKqOca7RGUYYalVO8cHv3eMMaHFIw9pEnltHu4qm9PsnRZ7QdKhSq6KBTicwRggsj2axPtXN2/3jbJlBtH4Gj8aQibnyN1ZfT18WqrygCUTtcgljhOB2EYhy7KTiJsYIgf58jv96uPhO1h6CMQ+VXYExQn+13lUgenPdadA/Zhw1CKc4hIwAAAAASUVORK5CYII=",
     "wiki_name": "Tumeken's guardian (Elidinis' Guardian)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Tumeken's_guardian#Elidinis'_Guardian",
     "equipment": null,

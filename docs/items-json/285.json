@@ -1,7 +1,7 @@
 {
     "id": 285,
     "name": "Plague trousers",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-08-15",
     "duplicate": false,
     "examine": "These should protect me from the plague, I hope!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcUlEQVR4Xu2WP0sDQRDFb1mOYBMJBg+xSEC0SOE/hBSKpFBEEQvBwsLCwu//EUbeHs/MjZdU2dkIPnjNwN78eDtzd1X1txVktd0VZH88Tt4bjZJ3h8PkncGgBFSQg6ZJJhh9fFgloPPp1BMqyOM8yv1VlMVFlJvTKPNZlMuTKJPGHSjIy3VM7oM6O4rlgCwUU3IE6sJoKKYEIKZkT2dQPxCMlCyQQ0rd+dEmEOeIw22fsGG1QBZmHVDmlJZAANDmHP0D6a3SRl2vvhMQ1H1LayC9aa5AbM53D/x6W28fEJIrBsQ54qq/LVogzpEjELScIwIBoBBQ+LmedUCO/0X9QADQqz+bFATCEFsg1w8sgPSmMRG7+kzJPmHDCmmj9CcEAKzrOWJCmVMK8n5Xd1IiEOu6lhkGahsjDc4SEtF1XXMB+niof6Wk67xON6DPpzo1Z0oAYJ2gsBvQ13MLxCuCUbd2GGhqdXNrezKbbGPX5qX0Dck07L2qmNdQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVklEQVR4Xu2WMUsDQRCFb1mOI01CSPAQixTBFFdEFCFFRFIokiAWQooUKSz8/z9h5O3y4tx62mU2Qh68ZmCZj7cze1cU/1tOfre5nFyMx8Gj4TB40O8H96oqB5STy7oOJhh9fVXkAVovvDzfe1ndenmYe1k0Xu5mXia1OZCTt6UP7oK6mfp8QCkUUzIEasNoKKYEIMOUuoFgpJQVCKloE4hzZDTcESiFOQkgAGhzjs5Aequ0UderbwQEtV9pDaQ3zRSIzfn2wO+P5ekBIblsQJwjrvp2FYE4R4ZA0PccEQgAmYDc4Xr+AjL8L+oGAoBe/WaSEQhDnAKZfmABpDeNiaSrb5SSCxulPyEAYF3PkQEM5GT3VLZSIhDrupaePoJiY6TBWUIiuq5r6ekjyMn+pfyRkq7zOs2APjZlaM6UAMA6QWEzoM/XCMQrgmPz1GZKG5s2P+ugLzYmuSGFXcbQAAAAAElFTkSuQmCC",
     "wiki_name": "Plague trousers",
     "wiki_url": "https://oldschool.runescape.wiki/w/Plague_trousers",
     "equipment": {

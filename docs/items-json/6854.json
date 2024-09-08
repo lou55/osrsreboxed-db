@@ -1,7 +1,7 @@
 {
     "id": 6854,
     "name": "Puppet box",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-12-18",
     "duplicate": false,
     "examine": "A box full of puppets. Bring to the Taverley members gate.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqElEQVR4Xu3X/WtSURgHcC9jjIkooihzuM0NJ7jwjaaTKVPWGhv+IEVRi4qNwSgqeqEYjKIgIgj6l5/2PbdHzz2ec/VcXT/1wBf85Xo+9zkv995Q6H/NrBwy55+XQ9VShErFsEhx001+fVFkFHijSIfq1YgIUCZYbmVBZDnjZhQ4E6hD7Z0YNbejE6F0sHRqXiQRnxOZAuVQtx0TIEbZwmRUYSNB4fC8AFXW1mxRDh104iJAmWCToJCtQpIunlbo/vFmEJBDvcMEHd1xMw41DlYupq5/h0QCgBzqHycFSEVNCpNRtVJ6gEEe9go2IIden9Xo99d9+vW5Sz8u9+j7pzZ9eberhfmhkHplifK5kMhUILS1XJzz5PLVDl29aQocfn980fDtVvN2ZoCRUY/7RTvQ2/NtLYhTKw/z5N4WPXtwi04flUTOT8pi4bbry7SaDYmoqEAgtBV3Y4L45eXzqthRDFJRuAkr0PuLugekDmhKo+YGHcJ5I4NkVCAQ2ip3SB1cDWMQTBtAmbQXxChMsRUIi5VB47okQzhYS/lcXIB0qEAgtNUPpCLkYEAZpKIAtgJhSwPE21SeNnVwXXBtLhv1gGSUNQhnjXuXw8NsUlCrYQYxCmvMCoSDzwTyQwGDYP1lMxFKJkZBiDXo24fW34U5PF39po0hHBwZDNKhcCxYgfDsAoi3qdolE4SDU34pFR6AVJg1CA9UtNUEYpQK4fQP81oQhzETg35edTwgv2lTMUjvYON64MURSAAMyhGvHWirfLqqXTKBOrtmUAAMyhHvQgDxNtWB1GkDhHPUXadYdIGikakxXO6nigwaN20y6O5ebgBCpsS45V7s/ZZSu2QC7bdWxZfFzDBy8Z/pgIh22pornk+dmWF0JQNNSM6NY0ylIr3gYPUHQ8LglhQFDfQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClklEQVR4Xu3X72tSURgHcA9jjIkooihzuOGGE1zolKaTKVPWGhu+kKKoRkVjMBYV/aAYjKIgIgj6l5/2PbdHzz3ec/Xca72IHviCby7nc59zzqNGIv9rZiXInL9egmqVGFXKUZnyhpPi2qLMOPCPIgU1ajEZoEywwsqCzHLOyThwJlBBnZ0EtbbjU6G8YNnMvEwqOScTAiWo10lIEKNsYSqqtJ6iaHQ+KEjQQTcpA5QJNg0K2Syl6fzxFt093ggCEtQ/TNHRLSeTUJNg1XLm+nNEJgBI0OA4LUE6alqYiqpXskMMcr9fsgEJenlap5+f9+nHxx59u9yjrx869OnNrifMD4U0tpaoWIjIhAKhrdXynCuXL3bo6lVL4vD5/UXTt1utm7khRkU9HJTtQK/Ptj1BnHp1lJM7m/Tk3g169qAic/aoKg9up7FMq/mIjI4KBEJb8TYmiF+eP63JG8UgHYWXsAK9PW+4QPqCpjTrTtAhzBsVpKICgdBWtUP64noYg2DbAMpl3SBGYYutQDisDJrUJRXCwVkqFpIS5IUKBEJb/UA6Qg0WVEE6CmArEK40QHxN1W3TF/cKni3k4y6QirIGYdY4bzkaZtOC2k0ziFE4Y1YgDD4TyA8FDILzl8/FKJ0aByHWoC/v2r8P5mi6+m0bQzgYGQzyQmEsWIHw3QUQX1O9SyYIB1N+KRMdgnSYNQhfqGirCcQoHcIZHBY9QRwLDErQ96uuC+S3bToG6R+sXy+8OAYJgEEJ+bMDbVWnq94lE6i7awYFwKCE/C0EEF9TL5C+bYBwjnprlIgvUDwWGsOFh4ULNGnbVNDtvcIQhITEqOXAOHqXTKD99qr8ZzFjjFe5gYjntrVWwvzVCVvjyFH+ofoF2D6bxoqKLYQAAAAASUVORK5CYII=",
     "wiki_name": "Puppet box (Full)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Puppet_box#Full",
     "equipment": null,

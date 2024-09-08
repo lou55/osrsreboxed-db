@@ -1,7 +1,7 @@
 {
     "id": 8630,
     "name": "Globe",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSElEQVR4Xu3W70tTURgH8O1P6GUvKkMSVlAqpkZDkxbLH+CGuq7TZY1cqdhKGcPfP1oOG87MRDJm4AsRicSgv+8bz4VzOTt7zk63H3sR94Hvi8s53PPhec4u8/m88sqrmpUftU3V8iP7MozM1APMTISQTt3H9LN7mEx24sVYB8YTQSRH7tp5YrUjEWtDfLAVVrQFQ/3NGOhtQqT7FvrCN+30hG4g3HUdoc4AuoIN6LhzDcHWerS3XMXtpit2DCg/5l89rEDpYDJKB5NRAiaj6MzGujodyo+VTC+WZnpYmEBVgwkUB+M6ZQStZ/sqUDrYr4yR65SMMoI2FiPIzfWzMIFSYW2NATsyyjQ+gTKCNpejFajLFy+wMELRWqD+kg2ibnFdUlGuQMU3gyisDZTB6FBdt2hNRulGJ/apXTKCdt7GWBQ3QhUk7hQ9izESSOzhUEbQ9x+nODs/xtdvRzg5PcTxScl+yZejjygd7uDT5y3sHxSwu5fH9occCsVV56D1XBbLq7MOkJJ+ncLUdBLPJ8YwnkrgaXIYo4+HYMWjiFmRPwepIyJQ/t0SNvILDmh+MW3vmc1MOiB6/i3Qbv6RMzZ6CY3N6YB0ySnVPgW0Lt8jelYvN43NCNrbtCpQFN09IhQHUi83B6K4BnGXWwVxXVJB3CeAYgTtF+JlKA6kdokDcV1SURTXIK5LMkj+RVHcoChG0EFxpAzFgbgu6UZXDUVxDdJ16W+gKEZQ6f1ozVAUA4hK/Yv5b0MYA8jnE5tqFfV8r7z6L+sn5cuWow8DgAoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNUlEQVR4Xu3UW0sbURAHcPMR+tiHtohYSAu1FuuFBi80Em9ggpqu0dQaaloVTVVC8H5pNNjQtFZFtMSCDyJSWiz4+f4yC2c5OZnNcbXElx34Pyx72P0xM7sVFW655VbZyoPypmR5kJoOIDnZjtlxPxLx15h634qJWAs+jjRjLOpDbOiVmXdGI6LhBkT662GE6jDQ+wJ93bUIdtagJ/DMTJf/KQJtT+Bv8aLN9xjNTdXw1Vehsa4SL2sfmdGgPFj41FGEsoPJKDuYjBIwGaUFrSa7sTzbxcIEqhRMoDgY1yktaCPVU4Syg11njFynZJQWtLUURHq+l4UJlApreO41I6N04xMoLWh7JVSEenj/HgsjFN3zVj0wQdQtrksqyhEo97kf2fW+Ahi91K5bdE9G2Y1OnFO7pAXtbIZZFDdCFSR2iq7FGAkkznAoLejf5Tn+Xpzi958TnJ0f4/Qsbz7k18ke8sc7OPz5FQdHWezuZ/DtRxrZ3Jr1oo10CitrcxaQkpiJY3Iqhg/jIxiLRzEaG8Tw2wEYkRDCRvD2IHVEBMp8WcZWZtECLSwlzDNzyQkLRNc3Au1m3lhjo4fQ2KwOSEtOKfUroPvyHtG1utw0Ni1of9soQlHs9ohQHEhdbg5EcQzillsFcV1SQdwvgKIFHWQjBSgOpHaJA3FdUlEUxyCuSzJI/qIoTlAULegoN1SA4kBcl+xGVwpFcQyy69L/QFG0oPz34bKhKBoQFR0oZ9xyy627qSuStVNCwZJslAAAAABJRU5ErkJggg==",
     "wiki_name": "Globe (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Globe_(flatpack)",
     "equipment": null,

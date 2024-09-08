@@ -1,7 +1,7 @@
 {
     "id": 25956,
     "name": "Combat achievements",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-07-21",
     "duplicate": false,
     "examine": "Everything about combat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xu3W7UobURDG8ewHEUKplEikKb6jxQSMSN8+iEWwldaAhiB90SoNbajSFFII0n7wDnoFXuwp/7PMZjLZyG6amFI68IAkcvaXmdlsMpn/9e9X4DoZewVue3XFPVtadI8X5xVsLLjAbS0vu93imkfxt8A252ZvGxZidh6uRgF1M2xkuMAdbpT9xTXm+vpXFECCElh59sGocJ1R2e5olERAgiKlQmFYuKBrTHZUMi6LIhpD1u7PRBkQFbi9UrFnVOf1pvt4/CnC6FHFoSwol8160MbCQhpU4N4/feIRdlQ3gWRUcSAyc/dOhEkNojtxoxJQP4zeHZ3C1JSrVF4M1p3X66VYDF0BRDRGo8ASi6tWX7mDgz214IkqvMXpjh2VXmTdJSCCINX9Wle3CKOq1fb9DmUnJpJ2KXCft7dcpbze1Z32cc5HMBYFQMd2bS53z719c9iz0IlA0h1BFOczPv1Q+ta3AbM0Pe1OTmpuJZ/3O5QKc/Ro03dHj0qPDJCMTo9PsMSiQJyeHkWPlMSYi53nHkSHQNGl/ORkD0zjdGzHCKOq19/5hU713fP95W7XJ7YwOhaHk04xUts1RtRofPB3VMpRZTIcziGyhNJuXgPGV4DA9DgFKV0SFMsLAhA7lApDcSgA5syFf/74Ft2uguwHs50DBKLZrPszU2PCCp/mAORiAiPsgAZamO4ao2q1Gv7/9KjsFRNUiJJOaVi7feEjzyMN1DDeY5F5faBR9Vb4W0Vg8igQGJ9cwp5oIAFxefk1+nnxh5iwwgM6P6RkwTWMPWFHCCMiIK6uWv69oWF0dQ4MYXrBZVRc/PzLmb+bCJ3Vo7JnDq1s1xiT3iFgdHGoo0pStmtEdgncrWJsxeHGhrElkL8CM4r6DcTaXLYoNraHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiElEQVR4Xu3WXUsbURDG8ZwLEUKplEikKSoqWkzAFOnbhVgEW2kNaAjSF63F0IYqTSGFIO2F36CfwA97yv8sszt7spHdbdJAcWBAsrL7yzxzXAuF2/r/y9ioJ17Gbq+t2ufLS/bJ0qKCTQRn7NbKit2trjsUPwtsc2H+X8MCzM7DtbBB3QwbG87Yw0d193CNub7+HTYgQQmsPv9gXLgoKn86GiUtIEHRtUplVDgTi8mPSuLyUbTG0Ov358LOiTJ2r1YdiOq83bVnx59DjI4qCeWDSsViHpCxH549dQg/qptAElUSiJ67eycPhgqmkxSVgIZh9O7orszM2EbjZR6QsW82aokYpgKI1hiNAkv7uGbztT042FMLnqqCI850/Kj0IuspAREE3dxvxaZFE1Wrte92qDg1lRZk7JftLduob8Sm0z8uuRaMjwKg25/aQumefff2MM9CR9MRRHWx4HoYSh99v8Esz87ak5OWXS2X3Q5lwhw93nTT0VHpyABJdDo+wdI+CsTp6ZF6paQqYy92XjgQEwLFlMrT0wMwjdPtT4wmqnb7vVvoTFH9eLUb+8Y+jIkl4WRSROpPjYg6nY/uRGWMqlDg5txEllDGzWfA+BMgMB2nIGVKgmJ5QQBihzJhKG4KgJx58K+f38PjKshhMH9ygEB0u213z8yYoIK3OQB5mMBodkADfZieGlH1eh33e5mjileAkklpWL9/4VreRxqoYVxjkfk8V1SDxQ0imLwKBMY3l2ZPNJAGcXn57W/+vRhWAYyWBdcw9oQdoYmIBnF11XPXRozxK4DpBZeoePj510/uNNFMdkRRpaloasSkdwgYUxxDVGkrwskugZsQxq8I51+5rXHVH0CmHxHoAajhAAAAAElFTkSuQmCC",
     "wiki_name": "Combat achievements (unobtainable item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Combat_achievements_(unobtainable_item)",
     "equipment": null,

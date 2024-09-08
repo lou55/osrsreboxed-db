@@ -1,7 +1,7 @@
 {
     "id": 16853,
     "name": "Ogre artefact",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": true,
     "examine": "An ancient ogre artefact - resembling a heavy large helm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu2W8UtTURTHd3+VfpF+kJRMkwwzXIaZYeZgmJlh2hhmZtoYw8i0MWSQaWMMg8iI+rE/9sTnXs68ezrdexs4qAMXt7d7z/mc7znnPmOxf8eMBJ9coBnJfMhIm0AZOfx9KBvv31qgO319Fw1lpPKr0l5A5Z9lWX+33n5AiSeJdugjI6UfJVnLrVWBmlCJbJrN6Bho+vG09F7vjerTyHxqXkbvj0Z1EOPc0Z8j2fn8UZZevZDxh+NVhUKq5OpOVr6T4K7zzcj+t33bP35yEXw5mXE0mZiM6iTGua3ilqTfpGXm2YyM3B05xVdD6hs5+P7F3h3RG9HI3tc962Px5aLtn6HbQwFfRgZvDdpntWdPmAPK7mRtZmMPxho5FDCnzmp2VWafz8rEowkZuDngAbnXSe2zuuZqn8vnbO3DlU0n09hkABmOD9v+OZ4wB0uPhgLaLGxW5T7/kAtE4Pi9uO0XygEMQXuu9Uj31W67h4Eh2eWN5caBqL/fkGeXzVglmEj2AQUQMEChTOflTum41GF9cA3QW1wFoYC2P23LSmZF5pbmbEAyVyX8vVPJKVtWhVKVAKKRCdp/o1+6rnTZ6UV59dsgEOYyYfS1bARAAS0hC/UW0gtVqHoqEZh/Q/IHedvMqdcpST5NhgHCjJ0SpGVSCEowAnMdAMpnHAN1lkp8Z3K1mTWJkECYG08kBgBFgAEQp2TKbz6UqoSS7C1WilIoFWS3vFttZs6zLwIQ5spDI+KMwFwHKMd3MlVInvM7iwSAAIZ+pPycAR5g+kphQgLFYnqZsXDM9AGjb3GCqGo+DAsYVOaMKqM3dCSYWjM2IBMCjL5eAOKZwrBQhsEABnh+p6T0lV4BTcJgxgajNGQLCIve4pnCAAYMrx9g+I3S0uhckqwWAWHG9oIqBYz2jwLxmeeUk8ljyvyLUm/tFgFhrp80uF8u/qp6CkQTo45elD5U0HNk8xvd7x1Vjd7Sa0D3BVcLmvqk+WD1lgY+bQX9tcyCgYIruP+/tcL+AoXYASuke36IAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xu2W0UtUQRSH77xKL9KDqGSYaJjhYpgZZi4sZmaYtixmZtqyLEamLYssZNqyLAaREfXYH3vim+Gs003t7l2lC3ZgcO/cmXO++Z1z5hoEF8eMhGf+oRnJv81LQqCMHPw4kPU3r5IDVP9eTxZQ7VtN1l6vJQ8o/TCdBCgj1a9VWS2ungUQm1tyEPhAUw+mpOdaT1yfRuayczJyZySug4B9hz8PZfvDO1l8/lTG7o3F9eXyzqlacBKwb+/znq2fFg/nZMbRRHoirpOAfZuVTcm9zMn042kZvjV8jK/w87FmZP/LR3t3xC9EI7ufdq2PhWcLtn4Gbw6GfBkZuDEQxb8DKmwX7MlG745G2RQyp85KYUVmnszI+P1x6bve5/lxn5Pf5040l/tiqWhz31zaWOcGhwFkKDVk6+eowxwsNdoU0EZ5oyH33ze5QARO3U7ZeiEdwBC0+2q3dF3psmtoGA67tL4UHYj8+wV5etqMVYKOZB1QAAEDFMq0X26Xtktt1gfXALXFVdAU0Nb7LVnOL8vs4qwNyMlVCX/tZGbSplWhVCWAKGSC9vb3Skdnh+1elFe/EYEwdxJaX9NGABQ4SqGrk/ncfAPqJJUIzL8hpf2SLebsi6xkHmWaAcKM7RKkpVMISjACcx0Aym8cA3WaSjzTuVrMeogmgTDXnkgMAIoAAyBOOSnvfChVCSVZW6lXpFwty05tp1HM7GddDCDMpYdCxBmBuQ5QjmdOqpDM857BAYAAhnok/ewBHmDqKgaMbw4Mx3QfMPoVJ4iq5sMwgEFl9qgyEW/oKGZsQDoEGP28AMScwjBQhsYABnjek1LqSq+AsPcYZmwwUsNpAWFQW8wpDGDA8PkBhneklkLnkmScERBmbC2oUsBo/SgQv5knnXQeXeZflHprhz23YK6eNLifLv6qegpEEaOOXpTnBIU5ML92VDVqS68BXffnODcLBwqP/3ZB7BeYWLlu9UmuRwAAAABJRU5ErkJggg==",
     "wiki_name": "Ogre artefact",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ogre_artefact",
     "equipment": null,

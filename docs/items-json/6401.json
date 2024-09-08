@@ -1,7 +1,7 @@
 {
     "id": 6401,
     "name": "Menaphite red hat",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-15",
     "duplicate": true,
     "examine": "Good for keeping the sun off my neck.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPklEQVR4Xs3XzUtUURjH8RmGYZiIIoyiotQWLdoUbdq0aNOiTe/vRWFlYVQgaSVWWImVhmH2QoWCISZSRhAVRVF/2Wm+9/q7PnM8IzPOLTzwMNd7z3Q+8zznPDNlMot/ZF04Qs//+ci6ge6D7lHX/ij6buxzvR17oxBifKjFjQ2ecaOPTwdQ/oeoGx6DhAKk8DEj/afcy74TZQvzN8/8KEfVhMy6wduH5qB4BaIQ6HnvMTfUcySay2sIxHyL/jnV7b5PXFsYSiCulR2BXj88GYE0txKI9/2Y7HK/p++6P9P3IxBrbG1qisJf3Rtx2vWpBWLREGj43tEExHUINDF8tgzEtUD+6t7IlpWBhbS5+dsH2f0zH2jqRWt6IGWJez6I+TcL69zmTDG6BkTWfNCHVxcSEFETSPvCB/HJLYi5bfk17lZhvduSW5KgQqCPby6Wg95drx/EfUAE83oLG1zPTGzPLXW7cssTlA/6NNKWLoiglBb0pNjsBgrNrr9zles83xCBduSWzQGRzS9jlxPQr/d3EkzNIIviHxdmvLgpKlV7Ya1rya92h/MrIxCZCoG+vr0aBPmrVxjxqWGDVgI9KDRGJesobWj20fESaE9uhdtZIUPfxtsXCop7EBkKgXgORCCydCUfZ+lAvsHtDqD4EBZkm6K/ujfiIx8CETxnz4ARiA1N2VpLILIESjjmk51UQUIRAikzlIvs0IcoG0jd529gvCc1kM0SrzznZLEwmQEiHFnSfUFVusln5xIQXVqYqkCcsBBIXxFPixuTLLEwDZH7yp6gZKcxU4ju87VhM1RldhizIH8fqfvaLLFvIkhpw9tykq1tM1DKxddGaiChuK+vC7JEmeg9FgSUDAmqDU2XtiCh/NUDIwaFyiYQPyOYRxY44gLpFFJGTptAzP88eikB0YNq6EPlIFs2H8TCNEKubVsAyqv6T90gTlk1IPaQSmZBnC5lJ1WQXzbuC6TNTahctldpLiCOvAXRg2ruQ6GyWRDXLK5fARak06i5qYBCZbMgntmfJRbEPLt/6gQxZv+rMl9YjA0fRFO0IEUNoExGbX2+8IE27P5JBVTt8JHVYBWzc//T8JGh8N+zqMdfUJ9NjHT2GC0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xu3Wz2sTURDA8YQQlogoUlFUtNSDBy+CFy8evHjw4u/filK1SkWFYquWqlQNVVup1PoDlRYqoZaiFUFUFEX/sjHf3c4y+/JSs8kqHnwwZLP7kv1k5r3Z5HL//siLP3zX//jIy8jAPrnfvyeMoau7pdy7KwxFVMY6ZWr0pEw+OOFBuT+iZXgEUhQgDRczMXxcng0dTdyY91xzI4lKhczL6I39NShegWgo6En5sIwNHgzn8uoDMd+iv80OyJfpy82hFMSxZkdBL+4dC0E6tx6Iz32d6Zcfc7fk59ydEJQKw5fqr1YQN/WBxm8fikEc+0DT46cSII4bBOUTZeBGurh574Ls+lkINPu0KzuQZolzLoj514I1sjFXCo8BkTUX9Pb52RhEpALpunBB/HILYm53cZVcD9bKpsKiGOUDvXt5Lgl6faV1EOcBEcwrB+tkcD62FBbL9sLSGOWC3k90ZwsiKKUFPSx1yEjQIcN9K6TvTFsI2lpYUgMimx+nLsSg729uNophJEEWxZcrplLaEJaqJ1gtncWVcqC4PASRKR/o06tLzYIY0a5hgdYD3Q3aw5L1Vhc06+hIFbSzsEy21cnQ50pPs6CoB5EhH4jrQBREli4WoyztLbbJDg+KH2FBKZpitOV9IILrrBkwCmJBU7auKogsgVIc88lOpiBFEQrSzFAuskMfomwg9TzvgfGZzEA2S7xynZ3FjckMEMWRJT2vUC3dzOPTMYgu3SCGEe0wH0gfEY9K6+MscWMaYnSDKHsKJTvtuSA8z2PDZqgpkLuOtPvaLLFuQkh1wdtykq3N81DKxWMjM5CiOK+PC7JEmeg9FgSUDClUFzRd2oJSoCKQr2wK4m8E88gCW1xBugspI7tNQcz/MHk+BtGDUvShJMiWzQVxYxohx7YtAOVV+0/LIHZZIyDWkJbMgthdmp1MQW7ZOK8gXdyElsv2Kp0LiC1vQfSg1H3IVzYL4pib678AC9LdqHMzAfnKZkFcs39LLIh5dv20CGJEpfhdWIwNF0RTtCCNFKBGRy1Sw66fvwhaaNQia+P/aG38AgabAwCqSG0kAAAAAElFTkSuQmCC",
     "wiki_name": "Menaphite red hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Menaphite_red_hat",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 7038,
     "name": "Reanimated abyssal",
-    "last_updated": "2024-08-05",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": true,
     "release_date": "2016-01-07",
@@ -28,8 +28,12 @@
     "slayer_level": 85,
     "slayer_xp": 35.0,
     "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar",
         "nieve",
-        "duradel"
+        "duradel",
+        "krystilia"
     ],
     "duplicate": false,
     "examine": "This creature has been dragged back from the grave.",

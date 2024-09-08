@@ -1,7 +1,7 @@
 {
     "id": 17189,
     "name": "Cat antipoison",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-09-08",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-11-28",
     "duplicate": true,
     "examine": "Antipoison for Pox.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xt2XW28SQRiGO3/ApBfVKG2lrWABKyDlIAc5WBBBikBNFRubVkva0BCaxlDQGBM1qdEYjfHKeGWqdy3xD77yzXaW3UUvTJYh8UveCw5hH955Zg9jY//HMOgz0mHYejCHe/lppKPnce3K+KihGH58juL7xwjP3hMHHpZmRgnFVJhv70JobFzG/eWLHMhjtcqGUpwRQF8Pg6g/svPlG4FPDIXlCkqlVbWdL6/92F6zoZydQiAQQTiSlAnFUK2uD+ROoYJ0poB4IgOPxy9z6Xq7q7bNU6vtqMnlS7i5lIPfH4bN7pAL1NzbV9NoNFGvN5C9XcT1cAJOlxsWi+KSJCAahqOjn+h2f+HkpIvj4y5fLq83oEpNMFKBNja30GodoNN5xkPL5fOFRgFDw7C720C73T5NR/VH8lKJYVj6tMIbah20eWjJgsEY5h0LMrc8DUPkRQ6pDxVdnNVFzGSdOOeXKjSDrxFH8n1ZB+Otx+FcC2A274IlPIsJt0VWSwzRl/kBIIK8uhmCrejGZGxOVksMi80kEm/vciBt6H334zDsZQ+mU3ZcCFlltNRvxxgC8u7E4Fj1wZpxyGiJwb+fQvywyBsytkSfcY96YpNHU3HbsFtiCD/PqjDaEFDwaZoDudaDuFRYGHZLSjuxV4UBGBECEmKTR7T9h9gSQ6h9iy+XiBEo1Mpwjzy1KOZXvLqWznonzWxJ2VkksxbICEbAQmzyiLa/riWPaS0x/u9vvCnwGIFECEgVu3eC1LZEJ0oTW1IuEwLob2AkvBCbPKLtP9CSeS6xASAjFEELsekEqW2JPBq3TagNmdISOUShnSaihSMgIbbwSFzXzliVB0iTYMQod4F0YCMcAdFrASRgxDloCDDKKD8onrn0rXGgntjiFsQIYjqMdvoH6MMZIwXkT6M9sDHG7/7r/AYLOb+6KGxisQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmklEQVR4Xt2XW28SQRiGO3/ApBfVKG3tQbCAFZBycAE5WBDBLQI1VWxsWoW0oSE0jaGgMSZqUqMxGuOV8cpU71riH3zlGzrLsqt3y27SL3kvgGR5eOeZ2WVs7GwMw3AsHYbqo3k8yE8jHb2IG9fGrYZi+PU1ip+fIzx7z5x4XJy1EoopMD8+hNHYvIqHK5etAuo7I4C+H4ZQf+Lgy2eBTwzyShnF4prSzre3AWyv21HKTiEYjECKJM2EYqhUNnS5J5eRzsiIJzLwegPmAlVr2zy12o6SXL6I28s5BAIS7A6nuUDNvX0ljUYT9XoD2bsF3JQScLk9sNmES6YNw9HRb3S7f3By0sXxcZcvl88XtEJqGobNrSparQN0Oi94aLn8/rAVMDQMu7sNtNvt03QUfywDWv6yyhtqHbR5aMlCoRgWnItmQzFEXuWQ+lQeiquyhNmsCxcCpgrN4G/EkfxYGoLx1eNwrQcxl3fDJs1hwmMzC4oh+jqvAyLI61th2AseTMbmzWqJYamZROL9fQ6kDr3veSrBUfJiOuXApfCMGS0N2tGGgHw7MTjX/JjJOM1oiSGwn0L8sMAb0rZEn3GPemKTR1Nx+6hbYpBeZhUYdQgo9DzNgdwbIVyRF0fdUr+d2BtZByNCQEJs8oi2/whbYgi37/DlEtEChVsZ7pG3FsXCqm+opfO+SSOB+juLZFYDacEIWIhNHtH2H2rJa1hLjP/6W+9kHi2QCAEpYvcOSHVLdFAa2FL/NiGA/gdGwguxySPa/rqWjHOJ6YC0UAQtxKYDUt0SeTRunzAKhqZ/IFJop4mo4QhIiC08Eve1czMj+QNJF+wvnxaOgOi1ABIwgzPIcBj1iC8Ybo0D9cQWjyAmgPxrBnD6nMH5C4Oqiq8esnPEAAAAAElFTkSuQmCC",
     "wiki_name": "Cat antipoison",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cat_antipoison",
     "equipment": null,
