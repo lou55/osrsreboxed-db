@@ -1,7 +1,7 @@
 {
     "id": 1378,
     "name": "Dragon battleaxe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "A vicious looking axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xu3W60sUURjHcRdZwugvUDLIF70QDH2hghqGBdWL7veisKgoIpCiECm6iHRDELtQoWCIiZQRREVR1F922u+ZftMzZ0fdmd2iFx14mJ0zs3M+e57nnNm6un+/FVx6pF3/463gHozsc/eG9/gYu7bbjV7Z5UOI2YlBNzN+0k0/PJGCCn9E1fAIJBQgRYiZun/cPR07mhiYc66FkURlQhbc+PX9ZSiOQBQCPR497CZuHvT3ckwDcb9Ff10YcZ/nLudDCcRnzY5Az+8e8yDduxSI732ZH3bfF2+5H4t3PCgThofqVwvEoBZkf7FAk7cPpYLmJk8lQHyuEFRIpIGBVNycC8R9R1YX3YFS7G0oJnBECFp4cqZ2IM0SfeEMCbSzod5tL8XWVfWuvxQh6s2zszGIyARSXYQgUhHW0FKoEPT2xbkk6NXV6kH0A7JpU4AAJlQIejd1vnYg+kCRSoHo29ja6iEABtcU45oCZUHgP8xcjEHfXt+oFENLgvzAxd8DCLOpu9t1tbd7FAjNFCgVuQV9fHkpL4gWPZwlzLGjBCLUT2zb3B+jOGcGNZugQtCn2aG8oGgPYoYE6i2lpetXsIJIE2kJUYD4nsVoVi0ow6YYLfkQBAKU6oWUqHBB9ff0uI62Nn/O93iGnZ2agwRhVuw+o+tCCWRnp6Ygi7KbHrMlELUTokLQ/KPTMYhdukIMLVphIUirTUEtqcj1j0CoDS0tCRSzw2vDzlAukE0bIPoZgJekYHr52hUGSiCli9dGzUBC0c8AgBiE6/Y/E581k72dnf4oELu0BWVARaC0tFUKop/nrGtq8kfufz99IQaxB2XYh5IgmzYL4ki/xVgQ6eJZqiciN4hVthKIAbXCQpBqjWft2DLgXy3rm5v9eVWgMG30W1BY0JwLpHt53kBfn1vb2BiD2IMy70NpabMgPi8H0gqzK1IpywVKS5sFcS2toAm9Nih87mVTtEWdEUSLftFKEdaPIgSxKVqQIgOo0laOVGj/YXb+Imi5Vo4sj/+tuvYTxpLx/SqZ0uwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xs3W7UsUURTH8V1kCaO/QMkkX/RCsPSFCmoYFlQven4uCouKIoIoCpGiB5GeEMQeqFAwxETKCKKiKOovu+13tt/smdNoO+sWXTjMzp3ZuZ8999w7m8v9/y0f0iPt+l9v+fBgeG+4N7Q7itFru8LIlZ1RCDEzPhimx06EqYfHU1D+RywbXgIJBUjhMZP3j4Wno0cSA3PONR9JVCZkPoxd3/cbiiMQhUCPRw6F8ZsHons5poG436K/zg+Hz7OXq0MJxGdlR6Dnd49GIN27GIjvfZkbCt8XboUfC3ciEGNsaG6Owo/uWint+tUCMagF2V8s0MTtg6mg2YmTCRCfBfKju5ZPTAMDqbg5F4j7Dq8shP3F2FNfSOAID5p/crp2IGWJPp8hgXbU14Vtxdiyoi70F8Oj3jw7E4OITCDVhQcxFb6GFkN50NsXZ5OgV1eXD6IfkJ02BQhgQnnQu8lztQPRB4qpFIi+9a2tEQTA4KpCXFOgLAj8h+kLMejb6xsxJjMoGrhQHkCYjd3doau9PUKBUKZAqcgt6OPLi6kgP/oirfRwljDHjiKIUD+xdVN/jOKcDCqboDzo08ylakGlPYgMCdRbnJauX8EKYpqYFo8CxPcsRlm1ILsp+tFdKy15DwIBSvXClKhwQfX39ISOtrbonO/xDJudmoMEISt2n9F1oQSy2akpyKLspke2BKJ2PMqD5h6dikHs0sJUBGKFeZBWm4JaUpHrH4FQ61paEiiyw2vDZqjC7NDKIDttgOhnAF6Sgunla1cYKIE0Xbw2agYSin4GAMQgXLf/mfisTPZ2dkZHgdilLUgoP3pKK4HSpq1SEP08Z01jY3Tk/vdT52MQe1CGfSgJstNmQRzptxgLYrp4luqJqBrEKvsTiAG1wjxItcaztm8eiF4ta5uaovNlgfy00W9BvqA5F0j38ryBvr6wuqEhBrEHZd6H0qbNgvi8FEgrzK5ITVlVoLRpsyCupRU0odcGhc+9bIq2qDOCaOUNcKnw9aPwIDZFC1JkAOVy2taXCg+0of2H7NQEVGnzyEqwivK9/6h5ZFr47/zX7ScQpTyYXUGmsAAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon battleaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_battleaxe",
     "equipment": null,

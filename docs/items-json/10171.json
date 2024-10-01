@@ -1,7 +1,7 @@
 {
     "id": 10171,
     "name": "Eagle cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-28",
     "duplicate": false,
     "examine": "A cape made from giant eagle feathers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoklEQVR4Xu3XYUvDMBAG4OWTKDIZSkcnbriBghMnRYsFlYkoCP7/vxN5k117vWartEkruIOjS7slzy4L3AaDfQQJpavZeRSLX8+Gen5xbK6T6FBHo4MucOUKJDejPFdXJ3kCNo2PTAKIe/KzcuYGoXR6F+vsfqLT29MSRoKAIBBwy8VQZ6uzPJPluC1KWcgGZCYVII4CgKrEQS9JZPI9m/molHurZHIQJca4v34cG8w6nerP50sGaxVVkNxC2jYC0e+oWp3WGIQFAcFTgniVCIT3eULwcIM4ikCAUGIcAEOhKhiO6h2EE1SHCgxCuKskt41nQJAb8+dArpP2H0FuzG9AgVBuEMcQyIXqBUSY3kAEofYC97aBPKNU3kIgOQhj3vMQikMI7hXE+xpXcpCsYCcg9Dh1qKAgLMBRAEmUBEkUttITyrYeLtDHU1xCcYwEeaqSMs05JsMCcpuAQltKFdp1Gr2izKIP56YvxhhXyq/XuWlR8dwuZv8cIKm6psKbsZy9YdiFigmL8ffbwlwLEH9uX+MLecTUBUdsi13P9tEsfgAWjXojZOonYAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxklEQVR4Xu3X8UvCQBQHcO+nKMKQYqKRmkJBRsqo0aDCiIKg///fufje+ba3t5ereVtFPXjM2+ndx3cOnp3OfzQSxpaz9cg3Px937fRk312H0a6Nejtt4IoViC96WS7ODrIEbDTYcwkg7snPypVrhLHJ1cCmy6FNLg8LGAkCgkDAzWddmy6Osozn/W1RxkPWILeoAHEUAFQlDrqPI5dP6ThEpfSjkslBlBjj/uqm7zCrZGRf7k4ZrGYsJxMVJI+Qjo1A9DsqV8dYrOnXrR0eBARPCeJVIhDexxEBMAgdxFEEAoQS40AV0cKUMBxVBZKrBYgiCE9QFaphEEKvkjw2ng2CdMyPA2lP2l8E6ZjPgAglV9wydBDHEEhDNVClahBhvg1EEGovcO8jUOBjM1kLgeQgjHnPQygOIXjAKplCX6MlB8kKtgJCj1OFahSEDTgKIImSIInCUQb6HfnWQwM93w4KKI6RoEBVMq45x2LYQB4TUGhLqUKbnkaOkrt8MYzf9PrY9cUY40r5+jB1LSrm/Wb+zwGSqusqvB4HataK/TAfvz3O3JVAfJ5e4wsFxPigxWjB/HW+sT6PCIypCo6QcxSb5n5FvAO0jrfIF6EAtgAAAABJRU5ErkJggg==",
     "wiki_name": "Eagle cape",
     "wiki_url": "https://oldschool.runescape.wiki/w/Eagle_cape",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 9794,
     "name": "Mining hood",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "Mining skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB90lEQVR4Xt3X8UvCQBQHcEf4QxFKOBopKk4slqEpakorkaSQApFCpP7/v+Pl9+C52zmnczeNDr4Qg12f3ru9rVTqfy2DvBxteYhO55oaDZvq9fKxUAZNJj0aj9s0fG7QYHC7Qjk3xUOjDJpOBwL09tqh0eieXPeOHnoOtVpVUaUDogyazVyRj/e+AMlVklEHA83nQ/r6fPJViVGoFGBonW1fJY0yBOTn+0UA0CoZgergHHFqtULyoMViFIpBuxBcxzkqFMykULth0CpG4Xq5ZCUHQqu2YeQwzDSzulFedcIweLIQFYak0yc6UYavVTLGrpjLw3tJjmMtMfkVSoVpnEvrrQIkn89SqXQRAMpTs1kIhGkaA151AMnlzsiyztdAMobTbhXFPTJMC0i0ZvnXZTKnO4OAQbrdsgiuoc0xUYZoEzbBkNsGUqsjg/AzT/BYIGzC76ZdQYyRQQjvFQskv8U3gfhAh2EQ7IV9YjxxHgil3hfU71dEtIBwhqKC1MokAgo7Q2EgxjCIx0AsEG8SBSRDtILkTVQQMBx5Wm+Cye3XClIxm2AIYO5jVUx6bY89zyHGcKvUqO82DiqmoV1Y/sGIVuGXcmSIGhXLrYrxhGH5Qd43crQE77HX0rGZ918tqqPhE8TwgaJ/I8e9P3CpbYi64t7/R9Yv9oLq3cGMjikAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHklEQVR4Xt2WbUsCQRSFHcIPRSihJCm+Y2GGb6gpWSJJIQUihUj9/99x84xcd3Zc13V3VqELB2TZuft4zuzdiUT+VwmydLKyIDqdW6rXS1Sr5U8FJWg67dFk0qbRS50Gg/sNVPUue2woQbPZQAK9v3VoPG7ScPhAj70qtVpl6dIRoQTN50Opz4++BFJdUqFwb7NQCBtK0GIxou+vZ5tLDAWnAIboSqWbsF0SEuT351UCICoVAu5gH7EqlUzYLglaLseuMIgLwnXso0wmGZZL3mAQFUPhej6XCsslIaPaB6OKwZLJuGmXLHfcYPBmQToYFI2emYQStqhUmFIxudq811StplYw6Q2UDsZzyUB021EBJJ2OUy535QCUpkYj4whmaAxY7gAkkbigVOpyC0iFYbVbWblGBTPg0vrDiX8Xi517BgIM1O3mpXANMTOU/hSPJWRMaIIhtw9Id0cFwm+e4AFcErIJf5u8AjGMCgRxr0BA6ld8FxBvaDcYCL3QJ8BJwAKC1X6B+v2ilA7kw6X1HjoUSHcmFCC3PeQGxDAMxGMgEBA3OQRIBTEKpDbRgQDDUqf1LjA1fqNAOswuMAhgw6eynPT6a+8biOcQw3BUuvRvGwuOGYgLZR+MiAoPZakgunRYjirAG4ayA/EZ+VA59TAKxPl7Ee5HVOwOH0F8AqGEDYjPyPpdu8t5fQAglD0C6997raDrHWo7isPKz/o/Sx4nIiJ/lMEAAAAASUVORK5CYII=",
     "wiki_name": "Mining hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_hood",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 3191,
     "name": "Bronze halberd",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "A bronze halberd.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xu3V60tUQRjHcZeQMEQRwRcJRgmKGUi9KHoRBCHUq+x+pbCwMCKIpBIpuoh0QxC7UKFgiImUEURFUdRfNvE9w299zuy47tldoxcNPJyz58w589mZZ55TU/Pvt5yLR+z+qrecezxyyD0cPpDE2I0+Nzq0PwkhZif63cz4WTf95EwEFf6JiuEeJBQgRYiZenTavRg7mRqY39wLI43KhMy58VuHC1AcgSgEejZ63E3cOZr05RgD0d+ifyyMuG9z18pDCaSXWdCrB6cSkPouB2JWv88Pu1+Ld93vxfsJKBOGl+pfA+Lalq4u19nenkcJNHnvWB7EeQw0N3kuBeK8RFAutQwMJBCxoaUmBWJwEFre5UALzweqB+Jaz8ZGt765zg301haANJMCMWsh6P3LC3kQkQmkvAhBbS3rXEvjWldftya5xkA2oYuBPry+mAa9vV4ZaFt7k+tsbUhmqam+1vX2eJRN6GKgj1OD1QVt72h23W0N+VlKkJs8aiUQy/t55nIe9PPd7VIxtDTIogjNEuc3D3qYMPRbDvTlzZVyQTQ/OC8XiAF5ue4JNbjXJ7kFsSlC0NfZq+WCfA1ihmIgChxBP/pwPLHLo+jHtRBEfwvKUBT9lo+BCAviXyuheW7f1qUktyD6VRUkFMEAVFwG4NxWaJ7d0bFUDlYFZGeJowXRz1ZozdTmVl/JLWj+6fk8iCpdIobmd1gMpM+BBdmCKNBQn995Nn/4bNgZKgsU5pG2skD8DkFCaedpufhsVA0kFNcZQCDu24LIuWaS9/Tv8Sj6UqUtKAPKg2LLlgXETPKuIzs96tP0pTyIGpShDqVBdtksSFs+XC4LEkrloGwQyboSSFs+BlKuKX945+5uj6oIFC4b1y0oTGjVKp5TX0BseTtD1KDMdSi2bBYU2/IWpBmiLyCbQ2WBYstmQdyLJTShzwazUwUQjY4rR5g/ihBEUbQgRQZQqa0QqbD58xdBxVohsjD+t8raH1shQmkp6G4xAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDUlEQVR4Xs3X+0sUURQH8FlCwhBFhP0hwawFxQysfij6IRBCqJ+y95PCwkIJQZJKxOgh0gtB7EGFgiEmUkYQFUVRf9mJ71y+M2eOd9ed3TG8cJhx5s7cz5577xkMgo3fcuIP3/11bzl5OnZCHo8eC2Pydq9MjBwNg4iF6T6Zn7osc88ueVD2R1QNdyCiAGJYzOyTi/Jq8nxiYPyNezaSqFTInEyNn1yFwhEQBkEvJs7K9L3TYV8cfSD01+hfy2PyY/FmZSiC+DINevPoQghi32IgZPXn0qj8Wbkvf1cehiC8a3draxh2dNNc2vmrAcK1XR0d0l4oRCiCZh6ciUA494EWZ64kQDgnyI5uWi4xDRiIIMS2fJAAYXAgOL3FQMsv+7MD4VrX9gbZ2lQr/T01q0DMJEHImgV9fH0tAiFSgbguLKglv0XyDZulrnZTeA0D6QVdCvTp7fUk6P2t6kB7C43S3lwfZqmxrkZ6uhxKL+hSoM+zA9mC9rU1SWdLfZSlELnDodYCYXq/zt+IQL8/3I0wqUEahWCWcH7nuIMRg37FQN/eDXlBdvQizQ2OlxOEAfFy3iNq4LBb5BqETWFB3xeGKwW5GoQM+UAocAj0Qx8czx10KPTDNQtCfw3SRdGObprb8j4QQoPwq7mg8dyRPfEi1yD0yxREFAIDoOJiAJzrCo1n97fF5WBdQDpLOGoQ+ukKzUztbHaVXIOWnl+NQKjSxJQFwg7xgfg50CBdEAka6XU7T68ffDZ0hsrMDloMsuuIW5kg/G1BRHHncbrw2cgMRBSuYwCCcF8XRJwzk3hP3yGHQl9UaQ0iyo7uaQ7km7Y0IGQS7zp1wKG+zA1GINSgFHUoCdLTpkHc8na6NIgoloOKQVisa4G45X0grjWuH7yzu9OhqgLZacN1DbILmrUKz7EvQNjyOkOoQanrkG/aNMi35TWIGUJfgPQaqgjkmzYNwj3fgkbws4HsZABCi/9VKRV2/TAsCEVRgxgpQEHAsl4qLFCHXj+ZgMptFlkOlhH3/U/NIn1hn9nQ7R+lJYz14Y370AAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze halberd",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_halberd",
     "equipment": null,

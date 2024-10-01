@@ -1,7 +1,7 @@
 {
     "id": 6475,
     "name": "Compost potion(2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-30",
     "duplicate": true,
     "examine": "Pour this on compost to turn it into super-compost.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADeElEQVR4Xu3W/0sTcRgHcAcR/Rr9EESpJZnfalprlvO75XSSOazUWX5FTcmpzW2eWvRFxL4giX2hRMESEykjiIqiqL/sae8bz/HZ5262267ohz7wsNvds7vXPc/nPre0tH9/2Mg4jI7/8WGjB1PNdE/xqjEbbqKZ8fNqMGJtoZtW5ztp5WGHAUq+iZThURCjAOKQMcv3L9OzWV/MhfEdx+SIRZlC2mj+xgUdCp+AcDDoyUwrLdy6pObi0wiEfBH9bXOKvqwHkkMxCNtcHQa9mGtXQZwbD4Tffd1Q6MfWbfq5dVcFmcLgpHzXDMJFZZB418hdvNNiCFpf7IkBYTtBkC2mDUDw5MZ3EYRcf/cR6mvLonbvQfV7PNDm0z7rQFwl7JNBrx651GhtzNBAaKMMevu8XwMhTIF4Xsgg3LkRaGmumC42pGutMwK9WxqIBb0OpQ7CfoAQyPP5OrXwNHipuqaeSlxV6jEZ9H550FoQAq0UQcFgiPz+URoYGCJ3XSO5Sqspv6BQB0I1P65e00Df39xMFIMRCxJRODmDuGXhCYWmp6fJXuiI2zLkfnrpTxaEET0xJmg8EI4PD4+QokzS5OQUOZ0u7TeopAz6vDaWLCi6BqFCvwOhOghFUai0rIZycgrU/TII+SLIxKIYPZkRCMEnR15XV686h0KhMIXDE1QTmdDH7Cd0IFTHUhCjELgAVlzk9fcPUiAwHokgtfk6qN7TpLVNbpdlILFK+BRBo6PX6eShDMrdt5fS9+wmr7dFbRtXSQRtPO7VQFilE8RgRJ8QIxC/Dhh0payYmp1F5LbnUWl2Fh0/eEDDiSBUB68NsUJJgeR5xI8ycsY81RRudNOwu5J6KiOvjdMOanLYyVOYT1V52SoQedwuvDYsAzEK+3G8NwIASIyrZ8qps/wUtZY4qPZoLjmzMmnXzh1qPkBYpUWQCVQUZNQ2BskYBnVXlGggV6RCRZn71Xy0+MPKkAbCGmRiHYoFiW1jUKDhrC6Gais0ENpWmXdYrRLmFH6TEghP2XYgrgpjgudqdSBUKHpBCyrEILlt2M/vL8RIXZWGw+TG3AKGj/OExiMvgrAGmV6HjNrGINwxtvnCcvDTyLmWgIzaJoJwTPxbgm1ezfm1gepYAMLQ37VRiBgxZBAWRRHEYQKU6NAjOcT58xdB2w09Uh//R2rjF0+OI+KrEHI9AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADmElEQVR4Xs3W/UtTURgH8A0i+jX6IYjSmWS+1WatWc53y+kkc1ips3xFTcmpzW1OLXoRsRcksRdKFCwxkTKCqCiK+sue9j3juZ6d3dmmt+jAw7Z7n+187vOce+5Mpv9/mEk/9M7/9WGmhxONdD/sETEdaqCp0QsiGLEy10nLs+209KhNB6VexI7hURCjAOJQMYsPrtDzaW/MxPiMc2rEolJCmmn25sU4FF4B4WDQ06lmmrt9WeTiVQ+EfBn9fX2Cvq76t4diEN5zdRj0cqZVgDg3EQjf+7YWpp8bd+jXxj0Bwhw2i0WEOrsyomXnq2YQJlVB8lUjd/5uky5odb4rBoT3DFJnV4Y5pg1A8OLGZxmEXF/nUeppyaRWT4b4nAi0/qzHOBBXCcdU0OvHThHN9ekaCG1UQe9e9GogREogXhcqCFeuB1qYKaRLdWla6/RA7xf6YkFvgjsH4ThACOR5ve1auOs8VFlVS0XOCnFOBX1Y7DcWhEArZVAgECSfb5j6+gbIVVNPzuJKysu3xYFQzU/L1zXQj7e3NEzKIBmFH2cQtyw0FqbJyUmy2uwJW4bcz698uiB19gQj+sNYoIlAOD84OETh8DiNj0+Qw+HUvoNKqqAvKyPbBUX3IFToTyBUBxEOh6m4pIqys/PFcRWEfBkkb4rq7MqI/pgeCME/jryOjm6xhoLBEIVCY1QVWdDHrSfjQKiOoSBGITABdlzk9fb2k98/GokAtXjbqNbdoLVNbZdhILlKeJVBw8M36NThdMo5sJ/S9u0lj6dJtI2rJIPWnnRrIOzSjEkKhDtED8SPAwZdLSmkRkcBuay5VJyVSScyDmk4GYTq4LEhVyjJ6mBsgtR1xLcyckbclRSqd9Ggq5y6yiOPjTN2arBbyW3Lo4rcLAFEHrcLjw3DQIzCcZzvjgAAkuPa2VJqLz1NzUV2qj6WQ45MC+3ZvUvkA4RdWgYxSp1dZ0RBem1jkIphUGdZkQZyRipUYDko8tHij0sDGgh7UAr7UCxIbhuD/HXn4mKgukwDoW3luUdElbCm8J0dgXCXbQXiqjAmcL46DoQKRVtiQIUYpLYNx/n5hRiqqdBwWNxYW8DweV7QuOVlEPaglPchvbYxCFeM9zyxGnw3cq4hIL22ySCck/+W4D3v5vzYQHUMAGHEX7VeyBg5VBA2RRnEkQLIZOJtfatQgXLI68cQULJDRSaD5djM/UdDReqF+p3/evwGmZJubveXnrMAAAAASUVORK5CYII=",
     "wiki_name": "Compost potion (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Compost_potion#2_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 25590,
     "name": "Casket",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-03-24",
     "duplicate": false,
     "examine": "I hope there's treasure in it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoklEQVR4Xu2VwWsTQRjFuwcpuwxbSkpDImlJii0lYmwp0SKBgigKnvwP/BMEQRAED6KIQqFUSoWCYKlCoSioKIKgQumhKHoQBE8eBEHwIAienr5ZvmZ2stlskq1CyQePENj99jdvvjfT19erXu1qOQj0X0sgHMxfdPH6nrfz337yH5SDA4VBFPM+1uc9fH6u9O/yFRc3L/QbYKbiKskzseVgYjSDhUuBM9Tx6ijmZkZQO7wfs4fyqJZzmJ7MojI+jHJpKAIwNYcd/REC0ZVPTxXmprKoVYYxe3BIqzqZwfT4oFZlbGAHiu+Is4WsQi7j6UU9WfJw95qL25dNhxNXACSrogRIoAgkUBror8pFHxOFQKW8wkjWw/Xz/Xi0GCzq5NGiFh2mu21AOXq192+5utHWg8ChVi4RSKAIRNERLkhguO0dA7HRz20f7zYUTszkOnJp9YaLDw8VTh8rdQoUDDMlQGxmNjSHm4pzidv15WW9R9dAv94GzUzLCWMCmYkzU2e6HAXE5xJA1YFWrjbabQPxXGoGJO9zBtnjTG0sBEQn2wLaWPB0w2bunDu7Tx+YjHMUEN//+soPAUnKuMWJgSQh2+sK3974oUGWYea5srmm8PGx0h/l1przQ8mCbCD26BiIH4sCovgxDixnxEyZQD27UwdiSk8dCZLaNpAkhI0IZMfdjrwdewHicUGHUwGi4oBaQQnQ980UgRhZbol5Sid1ie9zuwjEre8KSGx/sRINZEPFAf3YShGISSKQXButXLLniAlMDYiNGVueMyaQQCUBokPmXdg1EG97rpLNbJeigARKgOhMHFACGCk+GJYNJFBxQEwXD8wooDZgmlUYMAmQXM7cOhMoBZioanTRniOm9Pf7gRDQLsE0q0bIRvVqD9cfEuu6yqNrzxYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xu2WwWsTQRTGuwcpuwxbSkpDImmbFFtKxLSlRIsECqIoePI/8E8QhIIgeBBFFAqlUlooCIoKhaKgogiCCqWHouhBEDx5EATBgyB4evWb4XVnp5PdSbLVSx58lMLO2998877Z9PR0q1v7Wh4p/ddiCI8W5n16czfY/d988h+UR4dK/VQuhrS+ENCXF0L+Xbni082LvRqYrqRyeSaxPBofztHiJeUMdKI+THMzQ9SYPEizR4pUrxZoeiJPtbFBqlYGLICZOezJlwAIrnx+JmhuKk+N2iDNHh6Qqk/kaHqsX6o22rcLhTXsbCkvqJAL5KaeLgd055pPty/rDjuXAuJdQQzEUABiKAn0V9VySOMlpUpR0FA+oOsXeunxktrUqWNlKTgMd1uA8uRuH9zyZaOth8qhNJcAxFAAguAINsQwOHYdaHJkxAVKAaHRr+2Q3m8IOjlTaMulezd8+vhI0JnjlXaB1DBDDIRmekN9uKEkl3BcX19FPToG+v1ONdMtB4wOpCdOT53usg0IzznMUQS0dnWv3SYQ7qVmQLweM4geZxujMSA46eBSBLSxGMiGzdw5f+6AvDARZxsQ1n97HcaAOGU4YmcgTsj2uqDvb8PYIPMw417ZvC/o0xMhX4qj1ecH4g2ZQOjRNhBeZgOC8DIMLGZETxlDPV+NgJDS00dVUlsG4oSgEYDMuJuRN2PPQLgu4HAmQFASUBoUA/3YzBAIkcWR6Le0q0tYj+MCEI6+IyC2/eWaHciESgL6uZUhEJIEIP5spLlkzhESmBkQGiO2uGd0IIZyAYJD+rewYyB87bFLNDNdsgExFAPBmSQghkkBQu39xWcCMVQSENKFC9MG1AKMKn44WhQHdAHijzOOTgdqGaZZJQFC5hwhpX8+9MWAMoOxVZqLNu0bTLMyIW0y13Sr3doBIA34b1Xpi1oAAAAASUVORK5CYII=",
     "wiki_name": "Casket (Reward pool)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Casket_(Reward_pool)",
     "equipment": null,

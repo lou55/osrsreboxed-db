@@ -1,7 +1,7 @@
 {
     "id": 27020,
     "name": "Ore pack",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-06-08",
     "duplicate": true,
     "examine": "Filled to the brim with ore.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwElEQVR4Xu2Vb0vCUBTG3XeQJCXDJMMMzTAz/AtqwxTCNIuQiEAIwje9CSII+gbRBz7x3Mvd3Z1TZ8NNYg88yC7u3t/Oec4WCgUKFGijpZG9fZFGvXabzvJ5Oj3OMZ9ks8w+QGl0f92n80Jhc4D6nY4BJKB8BRp0uwwKvtJ15stWky7qdWpWq/5AIUMAaJTLVCkWWZVymQwdplL+AMHf7yMGhPYByKdJ0+hhdEOfL116m+j0+tii57saTUYVZo+BNBoPB/Q17TGIWqmkTJvH+eHjjjahEjgc2TFPGTIEe9A6zZikp2GZ5cYcZgFzlE6zUAuvCYq/dwAzHTcMEBFkMVkHySTtJxK0F48bXhsQxhsB/vm4VXKDyqAqgAHAbiymGICyfa7h5EbIC0BEdURuRHVwMAB2olHFWMN94iFcQPG3MQ4XQNY2mSuDw7cjEdoKhxVj3QzkGkrYLjfLgHCNdbVljmGW3aDNtMqaHTMUftX9lu2viFdAfYfYiW+IzCwCkjDyPnz3hOfvr8juCazX1vVFlv/FhJotv3krST7V7CGrygr7p704kGijk1a6OMypnBzEw272/P96Jifggf6pfgH68q0j4e42lAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4UlEQVR4Xu2VbUsCQRSFnf8gSUqmSYYZvoSZ4SuoiSmEaRYhEYEQhF/6EkQQ9A+iH3zjzHJ3Z7dd3VB3++CBgzjszjxz75nZQGCjjTb61xJkb18kqN9u02k+Tye5rPRxJiPtA5Sgu6sBnRUKjkC5WMxLKEGDblcHYihfgYa9noSCLzsd6YtWk87rdWpWq/60DRkCQKNcpkqxKKuUTafpMJn0p0rw19tYAqF9AOJxwHgIJOh+fE0fzz16nXbo5aFFT7c1mo4r0h5XR9BkNKTPWV9C1Eol02nj/HgEpB13tAmVwOLIjnrKkCGYW2edYYUS+kl6HJVlbtQwM8xRKiVDzV4TlHbvAGY2aeggHGQ+WQeJBO3H47QXjepeU/uEPN4I8Pf7jSk3qAyqAhgA7EYiJgPQaN/S1TImQl4AwtXh3HB1sDAAdsJhkzGG93gTS0BptzEWZyBrm9TKYPHtUIi2gkGTMa4CLQ3FtsvNIiD8x7i5Za4vTfs+Gy+LX62yZkeFwq8KYAVS17CRVgHzHWInbUJkZh4Qw6ibwXeP7Ty/SXYlta+Y+qyT1TlwQlUb37wF4kmsu3ICW2Tj6XnArqUBcRvdtNIOnGWF/SMMy82utLCrdoJaidztyg24x3IHvtHy+gG2XvevoWpCmAAAAABJRU5ErkJggg==",
     "wiki_name": "Ore pack (Giants' Foundry)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ore_pack_(Giants'_Foundry)",
     "equipment": null,

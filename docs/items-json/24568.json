@@ -1,7 +1,7 @@
 {
     "id": 24568,
     "name": "Antique emblem (tier 2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-04-23",
     "duplicate": true,
     "examine": "An emblem of ancient times.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABP0lEQVR4Xu3VX2rCQBAGcOdBRBBBCIpKlSgi/oFWaaFeQMGnQhF89AKexSt4ml5rZDeMu93spJJmd6HNB0NCYrI/vwStVMr8vwCaRwIGsB1F6BnFLQY4HY+x2+lkgLjjuQP4+nZkFkxAw36fPb9afTLncocDAcazrQSNBgPr+fX64A6URgG+b04SZH9sSTueQIDPLx8S8tVtWFpS7RQMSm5MIIVS7RBIbJ96vft5wjgF1Ws1OfP57v6ozo3qt33COG9IbAmkzzWqp/bFZ2mcgGhMjI7QYTR0XaGgxXKfG6RPoSgx4h0xF6G5tHgMXW/e9ZcBnMRxajEdxKEcYCj0TbPbUggnzdgC8r/LRHhoJCt8S8FAtpYCYSjploKD9JYCYyhQgh6IgDRDgvQfvazxEvWIfhpPqBL0SMx3hZs/lBsjWnVrh45TjgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABb0lEQVR4Xu2VX0rDQBDGOw9SCkUQgqUt1sYiYhVsi4JeQMEnQQQfvYBn8QqexmuNzC6T/Z9qyGwK+sFHQnYn+8s3y6bX+9ffE6D/pEMBHhYFZoZKLQZ4tljgeDRSQKv5PDIvVdtYgNc3r4kENNDxdJoAAlyvnxO1jWWA3AUBy/N7BXQym0XHN5uXCiiEbSwNFKYEeHv3poDsttnjBCMOpF8MeLV6UiBf42EkJZNOy0D6xQxkUjLpMBBdjyaTapxhRIEG/b7ycvlQtep9uOfcM4x4QnRlINufxSC4p7lsESC2D2ND2GBsrmsV6OLysTGQbb23WpHepLRH/EXYHwdpGK6nhFpKiQR4WpbBYjZQCkoAhqW/dFtaDCGUjCs+9Ojf5UPEEhGFcZVOiYH8CmHFUxJvUb3ClDpKh+Wm1HE6LAiA/BmZtXNAJDpv9rsEModevbPItGibM0H9DihDC3cOiOTvlbiznkn2j7POft1P9Q0LIbjM9oXBXAAAAABJRU5ErkJggg==",
     "wiki_name": "Antique emblem (Tier 2)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Antique_emblem#Tier_2",
     "equipment": null,

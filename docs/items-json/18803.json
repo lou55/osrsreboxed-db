@@ -1,7 +1,7 @@
 {
     "id": 18803,
     "name": "Tiny net",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-24",
     "duplicate": true,
     "examine": "A tiny net for grabbing tiny fish.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkUlEQVR4Xu3X/S9CURzH8b5/m808rZHZPMY8tNToyZUorGwtZZg8rBSSChFLrGmJRTPDn/Sxc7CaH/x472G9t7P762t355z7vSrV/4tQXYpHyN9kUCpeI3uRFAFGuM1f4v4uj8pTiT/Tx/s1MFlxxAGajhaMDPdBNzaI97dnvhgycbiDtRW3nChCKhFBu7qJY8wmA6yWCUhTZtinrThJRdGpaZULRCjcZuFekKBua8TwUC9mHRI87gUE/D6UHwoIbfnlwrAIuas0wjsraG1ugLa/C5MTeszYbVjyLPJ9tLnhlRf0+vLIT5ZudAA93R0YG9XCYjbC5XQgtheEZDPICWIRniv3/C1tB338jTDI+WkM0d11uTHfEZ7KRY6IH2xxXCS0yp+KgdheWva6vgCK3D+1EZJHYSUBPyO5T9NvETJncVEwLOKnSyiQ02ESBUT8WyUIhkUI+OZFAX0OZTaLXhwQu40FwbAI83MWUUCEYiEH4/iQOCD27RIGwwb56hCveMR/d9iYIQiIpehoUa/e3+wDBAMj9JPpyV0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrElEQVR4Xu2X2UpCURSGXW/SI/QOQTQRZQSNJmZiheXJrCzT0CAspSIr0UabyyZsQBKzMCOieqQ/9m4yke7aZxN9sDg35+LjX3udvY5G8/cgfJXqEBKXx0inLhA/2ZFBjHCVOMXNdQL32TR/xvbWcsSEyhEX0NZWoN3QDFNHG16eH3gxye2NEGYCHpFShN3tZdRUl3EZa28X+hQL7P1WDA70YX93BXXaSi5UXFT021KE5FUcHrcd1VWlMOibMOyww+txwz/lQ+Y2ifDC1KeMEKHzsxgioQAqy0uga6lHj8WMoUEbxr1j/BzNz02ISodBeHq845NlMraisaEWHUYdFGs3Rp0ORFeDsNu6RAoxCA/3NzylxaCPJ8JEjg6iWFmaFdmuXAjZTIpLbK4vcLnl8DR/Ck7ng7ezNDkx+j7eX6VCOgzCzlbkm0Bu5b8tABI9TT9BOD7cVLM9+RCfLknSYRCcjl5ZhIjfVVK1y+9zyZMOW8psilkeIfY1lqpdrhFFnnRSyXN0d+rlEWJ3lyTtIr7IfyzxKsswiP/usDVDEiGGqqtFYaSS+eefArwCFA5XkEarZOIAAAAASUVORK5CYII=",
     "wiki_name": "Tiny net",
     "wiki_url": "https://oldschool.runescape.wiki/w/Tiny_net",
     "equipment": null,

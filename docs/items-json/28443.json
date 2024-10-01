@@ -1,7 +1,7 @@
 {
     "id": 28443,
     "name": "Scarred scraps",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "I'm sure this was food at one point.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADW0lEQVR4Xu2Wa0tUURSG3R8L/0Of8kOClZgJmglqmoqNeU3TbPJeZmkpKmaZjJhkqUghGRUiEUQEUZEUSYU/a+WzD/tcZs4Zx3GgEBcs5lz3eeZ911rnpKUdxP4KJU7+81Ay3X5B+kNFUl+Y/T9AOUDNxblxgNwquq8Juj6psBZfHbwsAxeLpf1cnoTyj/tAKRmsK9HQPVWFEi7Pt8HOZx32uT6pULI+FNb5OXJDQ6FU7OJKxi6Vy92GUg1tgFpLTttQU81VPvclFUq+L47bQFNt0Qsrme+uk4mWChuor/qsdFYUaDWx2NTddIvfnzERdNw3vLVxJuOQvf1soFki4ZBWDiAscwPVZKdrIGyuysvyAbLWibSGfM4lHEommyr1Igu9DTLXVasTlQDCLmCwrKkoR2oLTmqg2Npz11fSMISj1tL1RjuNSqgDCMoAY9I7MpSUZu652C2IlVstOqkp9zZdhl2ow8OxyIAASJo1EoRx/nnsxVbrvx6+IuujYVkbuSov77TpfX7fjl+zraKQjVX8sk9iIef91/eJ6hPpQuKrd3YoeTfRKR/ud8v7yS69baD4Zf/TdJ/uMOwyLe+GIDnuzKeEwlFnoaPBA/Rl5qZu/Y9TvRoMCFQBkOMb88O6wEcay3Rhmy4zEOyTzChs3QWUiegblPxcfiC/XszI1psnsvF0VMO4k1piBFBL7ocDiHocT9iu+GEtQpv/Xn0kW2uL8ufV45hc7m+SydZK++F0HIoxxRkJKQAhrI7wzgvlAdl8/lArBhAPJgFjqjMKZjtqUgVjIlpmCwgLqR1qCMvoQgakUQQo773OH3LWSkkobZ1RhoKn0HmNAAEMUNEg1BTT+lTGkVRDKV3cWqFtoK+zt3X3UdRY5LyArQQU25hJFbmZUph1dC9AQTcq+bF0T1uGQswhBqRTL0q+zQ1p5RievFoocqZ2Wc6xZIF2egsrG4i55KhindtciejzQAHLnKL7mOBuBb1rBob1Jt75ay/ewpa1fE+hIFMdBc2Hm7d7dwy/F2DQtvtY9HGrI7GXWsM6hqVjm5K59lqf+3zDCzBWbzpn+/s5ZKauc95fUasjAWI8YB3DMvoaZ3tXYcH0lBcG/KOgD3qrAdydGHvNniLeYkHnjJ0mD2Ifxl/NxjA5fP5sRAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADkElEQVR4Xu2Wa0sVURSGnY+F/yG/5IcEMzETtJOgpqnYMa9pmpmXtMzSUlTMMjlikqUihWRUiEQQEURFUiQV/qxVz572zJ5xxuOxA0W1YDH3vZ/9rsuelJT/9neZJa7/drNkqu2k9EULpS6S/SdAuUBNRbkKKCstLQDKVNGETuoC7MFXBs5I/6kiaTueJ9H8gwEqWTJQW6ygL1RGpL0s3wE7kbk34P1dmSVrg+3K38YuKSiU0gq5KlkyerpMrteXKGgN1FJ8xIGabKpMHtTHhTEHaLLVHtiEmeuulfHmcgeot+qYdJYXKDUJsc67qWZ7Md7xtYXdDzRvbhxN3+OcP+hvklh7VCkHECEzgaqzUxUQYa7My/Qtxh071hLdBjbAdIjswSyZaKxQg8z31MtsV41yVAKIcAFDyBoLc6Sm4JAC0rlnquvmlz8NEjJXrcWLDY5rlVAHEJQBRrsOnV5USYYN411sQmZDLF9pVk5OmedUGeFCHSYnRBoEQFyP4Yfxz/TTvLnif8akT4fOytpIu6wOn5PH11rVNcfnY+edUJHIOlQcucYJIc/1+HFgUlKqslIFJ67e3mHJi/FOeXWzW15OdKlzDcWR6zdTvarCCJcueRMC577uT3FhbHPVme+odz7k+G76sir915M9CgwIVAGQ++tzQyrBhxtKVWLrKtMQXOP0KMK6NQIhZlaSdxWWfF66JV8eTcvms3uyfn9EwZhOLtECyCVzcgBRj/s7DleQmTA4Zf515Y5sri7Ityd3t/hSX6NMtFQ4k1NxKEYXpyWYIAnDuGZXhNkvcBNk4+FtpRhATIwDRlenFcx0VO9elWDzy2wDEUJyhxwiZFQhDVIrApT5rbkg/wwJmz+fCJ1WhoQn0dlGgAAGKD8IOUW3Ppy+LzlQrlkquZVCP4Dez1xV1UdSEyK9AWsHlLDRk8pzMySSud+ATdjCVmLJp8UbKmQoRB+iQep8wT/MDirlaJ5sLSQ5Xbs058BugeLtwpYDRF/SIDpMG8sx9RwoYOlTVB8d3FTQP2qI2Tuxrq7w1bgDby1pO7T8T6EgXR0F9Y+bt3rjWtAGaH7onnuf+we3K5LwkmuEjmapw4bPttUEfBdoXpjROrty8IGo7rruu1v3QPs+FQkQ7YHQ0Sz9Y3uV3ca8L9kwF8oiIYO4P1z++wCZleh/Z0cwQRZ/RWHPzCQOe+cXbLvBwp5piKTD/LP2HXN6nS2X20VlAAAAAElFTkSuQmCC",
     "wiki_name": "Scarred scraps",
     "wiki_url": "https://oldschool.runescape.wiki/w/Scarred_scraps",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 9571,
     "name": "Mixed saturday",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-08-07",
     "duplicate": false,
     "examine": "This Choc Saturday needs pouring, heating and cream and chocolate dust.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4Xu2W0UsUYRTF/Z4kCUOSJCXDJMMMzTAzzDTMzAzTzMzMNDMzM83MFjPNzHYxI8rNtMRlMVtlWXYx2yQ2IvrHbpw7fTuz4zzOzEJ04HueH/eec+4kJPw7EhT74ipBEw+H6PrlJjp3upKOFRbGE0qQ1+2m5bl39PrZBHW3tdHJkpJ4ASnrWZl/z0Cvno7TnfZ2OlNebvf6lA9hMus+XxTo5dgY3bvZSeerqqggL49Xd7yoyGowQQGv1/C5nU5y9PXRtUuN1Fhby37CtCpKS+lEcbEVUIJCn1co+Gk55nlm39LHmZko0ODtbp4U/NTZ0sITUydlqgSF/X5eE8DWlpZ4XVogrA2JG+7tpbs3OqxOnqDNYJDCgQAD+T0e8n1YYC8BaPbF1Bagqxcb6OypCjp6uMBsIEE/w2H68XWDgTAl+GZ1cTEGyDU6GgXCyq7U11NlWRkdyc+nfZmZZkIJ+h2JMBCmtLG2yv4xAhp/MMhAXa2tbG6YGqnbm5FhPhCm9D0UYi/pgd48n4wCwdgdzc10obqaE3YoN5f2pKfTtsREc6F+bX6jyJf1KBA8BFPPT0/HACFlMLRM2MGcnL8gpsFAgteCCWFl8JAR0OP+/hhDI2E7kpPNhpESHG98HKfCOTLCJkb/DNzqYt/AyJgMbhrMDO+YvCqtFCDZOZOPhnki8AzuGFq6oaaGGxqrgnd2p6VZBQOpQJjQlMNBT+4PMBBirgeCd3alptoDhN8NrAxAQz09W4DgnQPZ2bQzJcVaoDmXi58Ekr2jBUIZAmh/VpaVhoZUIJkqaWoJhO4BEM4F2nl7UpK1QIg4gPS3Sw9kQ8KkFCgJhKRJIHQPgOS5QDtbDAMpQNqkydslgdBBNkReSgWCsY2AcL9siLyU4GMqk6YHQksDyIbIS6lASJoeCH+IKEVE3uKEaaXEH8YGEIpR3jF5UBF5GxKmlfI7oQVqqqvjlpYdZCOMVgqY8fsva/UH+2EpNCr0M7UAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xt2X7UsUYRTFnU+ShCFJkpJpkmGGL2FmmGmYmRmmmZmZaWZmZpqZLWaame1iRpRmVuKymK2yiIvZJrER0T9249zp7s7M7seZkbrwfFvm+XHuOfc+GxPz/5RC+rOlpdDYgwG6dqmBzp4qp6P5+VsJpZBnZoYWZ9/Sq6dj1NnSQieKihgoLy3Nbii1PUtz7xjo5ZNRut3aSqdLS+1un3oRlFn3ekNAL0ZG6O6NdjpXUUG52dncumMFBVaDKbTq8UQ9M04nOXp66OrFeqqvrmY/Qa2y4mI6XlhoBZRC/s9LtPZpUXfc02/o49RUCKj/VicrBT+1NzWxYqKUyb5SKODzcZsAtrKwwO3SAqFtSNxgdzfdud4WkTzTgTbX1iiwuspAPrebvB/es5cANP18IgLoyoU6OnOyjI7k5ZoNpNDPQIB+fN1gIKgE3yzPz+uAXMPDISC07HJtLZWXlNDhnBzal5pqpo8U+h0MMhBU2lhZZv9EAxq9389AHc3NbG6YGqnbm5JipkoqEFT67vezl4xAr5+Nh4Bg7LbGRjpfWckJO5SVRXuSk2lbbKy5Kv3a/EbBL+shIHgIpp6bnNQBIWUwtCTsYGbmXxBVIdNUQlugEFoGD0UDetTbqzM0ErYjPt5sGCmF443LsSqcQ0NsYsyfvpsd7BsYGcpgp8HM8I60ymQYlAokM2f84SArAs9gj2FK11VV8YRGq+Cd3UlJVqmDCgNBoQmHgx7f62MgxNwIBO/sSky0Sh1UGAjPDbQMQANdXRFA8M6BjAzamZBgLdCsy8VHgGTuaIEwDAG0Pz1dZ2jj10yoMJCkSkwtQJg9AMK6wHTeHhdnLRAiDiDj7jIC2ZAwKRVKgJA0AcLsAZCsC0xnCxMmpQJpkya7S4Awg4yRN37FxAoDwdjRgLC/bIi8lMLLVJJmBMKUBpANkZcKAyFpRiC8EDEUEXmLE6YtNf4wNoAwGGWPyUJF5G1ImLbU54QWqKGmhqe0zCAbEqYv9SLtn0L9sRVGW3JxtGP87T9dfwCihVzQa7QNHwAAAABJRU5ErkJggg==",
     "wiki_name": "Mixed saturday (shaker)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mixed_saturday_(shaker)",
     "equipment": null,

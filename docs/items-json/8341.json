@@ -1,7 +1,7 @@
 {
     "id": 8341,
     "name": "Globe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbklEQVR4Xu2W/UtTYRTHPT9FIUkoxpKMJSq1UBuojawGw8yUsAzzjYnZkpT1rr3bG0hRCCFRRC9IEBH0W1DkH/eN74Fzu3s2N+cmQ9iBD3fbPXuez73POc+9FRXlKEc5yrFlQ/CfkodgKNqM6TNtONZSV2opwUBXI24OdWBuuFPpjzSUUkow2duCu6NHsDBxFA/GI7jU11paoXjPIZVZTJzA08ku/VxCIYboki3NxrSOUgt8UwvdnSSVD8/H0FxfjdaGWoSbdiMS2oNoWz1Otgc3Q0pQVbkNNVXbEajeoeytrUQwsFMlQsEarLyY0GPHgYB2G0VIb+d+n1RRxCRFgFIjsYNpfF+aSvuNMn6KICZorNulmJA7aTYhcn/6lG4FhsltQEp0CVgTdnQnM+amulUoFt6Xds4vxj3LxPIUEi1M1oPVhDsBsaJ992QUq1/vYfB4k+7abp4J8dxYd8jLW6eUeB1Csl31tXjMm4T7ETdFtj5xcwnzuJH6/5NDSjwJYp3iDmw8unIar+YHsfzwgrY9O41LxyV0cw3KzgwcVjG7gCxSktKuhOvtDurn82Ic315fxM/ly/j1fgZ/v9xKy/HLJM+FPRmKPUv2ZxNiiFd4LELC9XcHz5dMMm8XhnPJMATJ8ahXeEYhUpycMhQxGd7ZdchYCO4kerwBWYBWhO5kubh+vl2hhMHvechYCB7P9qmE4S9Eu2oOzocrX0EMezcyeJ65lv/jTWIjQgzBy9tnPRHDhPxSJpYJO1+gjIVo8dn+spaIe1cywbwCZSxEW5tia4n4l8z4/fEq/ny6oXA7WF2ZL5YQw57ShbKF4x81QgNbgkb+GQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4Xu2W+0tUURDHnZ+ikCQUY5PMTVRqQ7cFtSWrhcXMlLAMM5UVs01Strf2thdIUQghUUQPJIgI+i0o9I+b+A7M8ey5+3Afcgl24MM+7uw5n3vOzNlbVVWJSlSiEv9tEG/gexCPxNp45kyYj7U3+C1FPNTTwrdGunh+tFsYjDb7KUU81d/O98aO8OLkUX44EeXLAx0iFG5q8kOKONF3SGSWkif42VSPvPdRCEGyZctzcamj9ALf0kJ3J0nn44txbmus5Y7meo607uZoaA/Hwo18sjO4FVLENdXbuK5mOwdqdwh766s5GNgpEqFgHa++nJTXrgMB6TaIgP7u/ZZUWcQoTQBSF+MHPfxYnvZ8BxmbMogRtzTsElTInTSXEHgwc0qOAkXlipAi2QLUhL66kynz070iFI/s81yzxXBmqRjGL6ATSQoT9aA14U4AtGjfPx3j9W/3efh4q5zabp4K4dp4b8jkbXKVyHQIyHXX1xNxMwnOIxyKaH3g5gLk4SC1f5NHiowE0E5xB1YeXz3NrxeGeeXRBWl7dBq2Dlvo5iqQnR06LGJ6AzmkKK1dAfbbHdTmy1KCv7+5xL9WrvDvD7O89vW2J8eWSZ2LGBmIPU8N5qsnMoWHIgTYf3fwQskk825x1MjkFEpNxEzhKaVIYXLIQERlsLKbkNEgvpvsMwOiALUI3cnyceN8pwAJBZ8LkNEgfjI3IBKKXYh61xgcf654BFH02UjBdeRq/s+3yXx1ky2IX905a0QUFbKlVCwTet2VKUIIQVJ8er5kE3FXJRPIK1FGg6S1IZZNxN4y5c+na/z3800Bx8H66kKxW5UpvM9AxVCG1dkIHaxU3HGzxT+Kjzb38PyXvQAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

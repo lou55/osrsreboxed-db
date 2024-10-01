@@ -1,7 +1,7 @@
 {
     "id": 10877,
     "name": "Plain satchel",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-19",
     "duplicate": false,
     "examine": "I can keep my grub in here!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChElEQVR4Xu2W0WtSYRjGdy5iKDIRZaKyiYqOeWSmKBqddNIRNyc1EV3FLLHJ3ESTQoTFFiMoIoguuold9D8E/X1PPd/p01bsbmde5AMPDEW+H+/7vO+7hYW55prrKim47JlKwemgjBft++g81hAOLM8SSsHHi+8Ynn/F6/P3qO8kkb0dQHDVNQsoBZ8vfmD07hu6409oHp+hfdhHbTsBNezFqtdxU1BGTl52dPRbm+iffkFr8BaPDsYo1w+wXakaQB4H3C6b2VBTkO5+Du29u2jWMgJm90kPxYdNpLQSQusJeJftZgMpqBQ2UM6pKGlRA+RBSrSouj8QMPmtBiJqCvGoz2wgBW+GOxgdFkV1cumwAKnoGyjloyjciUDTq6JlNrsD6yE33E6bWUCKkZVf5mizZemYH7q2jlwmjGwigGRsRVSl0R4hq1ewuGi5GSDuG+aGTsf9AkKNeIX5N8f/2fMjRNaicNqtZgAZE3X8NC+ATnpbAob7hm1iawjCCrFS3f4rFGtNOBxOM4AUEV6aQKzO+Kg0AWJ2+KiE2W31EAiGEYmmkLyni+/UWPw6gahphVgd5oeWQGzbks0istTojpBIZeAPqfC67QLommGkDCBOGENNc9wJxOwQiDDN4Rk29S14fEE4HVZzgWR1ZLgJVC6oIkOcNkJ1Tj4gX2nA5fHBarklYLiLTIBSJtXhdqYlEC+7lg4JIJrZsViXfkMoCPtNufzGuWDb+O+FNIF41RlqVoR7R4LI3yWjK2YAUcZDBJN7iFt6etEVcUzja75LQFoyZBaQlPF4q54VQJcf+7sixtowGUjqz9ZMP+NJmULcKNBVUlDIRCYLVXrmUP96rrn+U/0EJ2+9JGRVVhEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xu2W30taYRzGfS9GKJKIkaiUmWjkiUxRdOxMk52wTLYkcj/ITVySFbbYkKBRIwYbYzB2sZvRxf6Hwf6+Z3ves1cz2tU8euMDDwhHPB+e7y9ttrHGGutfEuj3SCVwflzCq8YDNJ/qiISmRwkl8PnqJ04uv+Pt5UfsbCaRXQlhfnZqFFACX69+ofPhB1qnX1A7vEBjv43tjQS0iB+zfvewoMw+ed000K6von3+DfXj93iyd4rSzh42yhUTyOeGd8ppNVQPpLWbQ+PxPdS2MxJm69kR1h7VkNKLCC8m4J92dYFW5uasgBIoF5ZRymko6jET5GFKlqiyeyxh8utVRLUU4rGA1UAC70420dlfk+nk0hEJUjaWUczHULgbhW5UZMmcLjcWw154PU6rgITZK3/M0WbJ0ktBGPoicpkIsokQkkszMpVqo4OsUcbEhH04QNw37Bs6HQ9KCC3ql+Znjv+LlweILsTgcTmsADIn6vB5XgKdHa1LGO4blomlIQgTYlKt9husbdfgdnusABKyeWkCMZ3Tg2IXiL3DlyqYrfoRQvMRRGMpJO8b8pm2FB8kENVLiOmwf2gFxLJNOu2yl6qtDhKpDIJhDX6vSwIpmAECUSYQJ4xNTXPcCcTeIRBhaicXWDXW4QvMw+N29AHd/MX/lOimo5qbQKWCJnuI00ao5tkn5MtVTPkCcNjvSBjuIjPlgUp00+F2phUQL7ueDksgmr1jd0z+hRCIBM3LP+CUzHPBsvHvhTKBeNXZ1EyEe0eBmAACydiMFUBU76CqPcQt3bvoQh7T+EKgD0hPhq0CstnUS+j6TlYCqZfdnoi5NiwDUroO1j/SQp4UBTE0IKV+GCWBQibaXajKJuDIZKZz3bfDD1EK4LpvfmessazQb04i7HMZtgH4AAAAAElFTkSuQmCC",
     "wiki_name": "Plain satchel",
     "wiki_url": "https://oldschool.runescape.wiki/w/Plain_satchel",
     "equipment": {

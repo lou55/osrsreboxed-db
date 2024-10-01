@@ -1,7 +1,7 @@
 {
     "id": 27393,
     "name": "Adventurer's hood (t1)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-10-12",
     "duplicate": true,
     "examine": "The headgear of an adventurer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xu2W4S+VYRiHPZ8sa5plWZpamixZpkmaRFOSLJmZJJGkJJmZmUSSKMlEpTJmZpQZrWXNl/61X7ues+fsJX17X+eLe3t2trOz81znvq/7956oqN3arYiV0eYT0TJq63ym+vstKq+8pYJLxZGEMhocmVBX76CaWtpVVVOvKyVlys45Hwkoo/dTsxoe+6i+V6N60vFUtXebdLW0XDm5F3QyPWMnR2g0u7CsD9Pzejc5raHRSbV39Vmga2UVys0rsECJiUmKjt4TNJTRyo91zS2u6NPMgt5OfFX/0FgY6Hp5pfIvFulUxmkdSjoSNJDR6s/fWvi+Zjs0+WVOb8an1PtyxI6s7l6zblTctGJnZJ7R4SPJionZGxSQ0dqvDQsyM/9N03NL1iHG1f18SA9bOyxQRdVtXS4uVVb2OR1LSVVs7L4ggIzWN/5ofmnVQuDO59lF68/A63F1dPfrUVunXf3K6jthsU+kpSs+/kAwQMur6+ERAQIY/rBhAD1u71LDg1a7+oidl19oPULsAMYW2irGQ0d4BYyVx5/OngHrUGNzm6prG6zYhUUl1iPEDmBsxnYHV7jgeGqadYSx0CGCkbQmHGvqGjd5dDQ5RXFx+/0ECslMN5CWEeAGaUzesOJsFQBAMTaASGyAgU9IOOjn2IxdczrBl9IhQo/L8MTBIDJZ5BXbG5A+js3Yjep5MWw3hlXGDdcdXKEbiEwGbSc2P4Kx+RSSxq45nhB0rjsAceFWIDxyYgOcmXXWesTYfIChQg9RVtsrsztc6kYGBHnEI8QltgtIHx2iQv95GBUyew+dch7RJSc2HnnF9hGGMjb4+LXe49001yU66cYGICPzee1dmW2Btm4aWQU8EcH7AXTHW8amMSDOJQfkxCa5GRs+8RkfZf5fmfCjYuvq0yHgSGveI0ADhnHFJZsPgGwY/rBhdJH82SGg7epfyAjC7NZu2foL2rmPPV3TmBEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xu2X4UsTcRzG/b2SJAxJkgzTDJNMWoaZYaZhmZlkIsPMTDOzzGyMMYaZZmZaZmKushLHGENLZEY0wjf9a0883/Gb52WvvPPe7AvH4Bh3zz3P5/vclpaWmtQ4NgpbD0dHweN/hu77A2hx30LtpQYnRSlMTM8jMDKBvgEv2jq6caWxGRWV550QpfB+IYSp2Y8YfTWDJ76n6Lzbh6tNLaisuoATpa7djFAhFF3Fh8UI3gUXMTkThDcwKoKuNbeiqrpWBOXm5iE9fY/dohTWfsQRXl7Dp6Uo3s5/xdjkbFLQ9RY3ai7W46TrNA7l5ScFnSoosEOUQuznb0S/r4tDwS9hvJlbwMjLaYms614/brTeFLBdZWdwOL8QGRl77RKksP5rQ4QsRb5hMbwiDDGuoeeTeDjoE0GtbbdxuaEJ5RXncLSoGJmZ++wQpBDf+IPISkxEkJ3PoWXhZ/z1HHxDY3jk8cvqu9vvJME+XlKK7OwD9ghajcWTEVEIhZEfbhgFPfYG0PNgUFafYFfX1AlHBFvHZr7qDiaxVYyHjvCTwrjy5Mc/PC4M9fZ70N7ZI2DX1TcKRwTbhtiUuENWeINjxSXCCGOhQyxGtjXLsaOrdwtHRwqLkJW130pBCZjpBqFlBGSDbcy+4YpzqyiAohgbBbGxKZjic3IOWhmbkjWnE7woHWLp8WbkRIshyOwiI9jGgrQwNiUbNfxiSjaGq0w2tDtkhW4QZHbQdmDzIRibRa2tZM3JCYtOu0NBvKFZEDnSYFNwWflZ4YixaYd26FLiJcrVNsKsD95UR0YR7CO+QnRj64K0uLETv3kYFWE2HnRKc0SXNNjkyAi2Re7oUVJ8fFrjYdw07RKd1LFRICOzeO31qG0FmTeNXUXxrAiet8Ed4yhpYwrRLGlBGmw2N2MjT/yOEWbz1SwalXxVmFefDlEc25rnWKA2umMc878MJQK5YeSHG0YX2T82u7M5+qk3n/5fkbvkzv/HLNJRMalxYv4CIEW7rrvUw6MAAAAASUVORK5CYII=",
     "wiki_name": "Adventurer's hood (t1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adventurer's_hood_(t1)",
     "equipment": null,

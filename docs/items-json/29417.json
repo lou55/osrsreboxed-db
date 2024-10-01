@@ -1,7 +1,7 @@
 {
     "id": 29417,
-    "name": "Eclipse wine",
-    "last_updated": "2024-09-08",
+    "name": "Eclipse red",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -25,10 +25,10 @@
     "quest_item": false,
     "release_date": "2024-03-20",
     "duplicate": true,
-    "examine": "The finest Aldarin Red available.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByElEQVR4Xt3W2yuDcRgH8L3/ALlRlBtrlGRtidXW0MiFEi0SiUQOOeQwa61hI6ckRQ6trYXmkPwFa41E/gRtiDun3G/q0fddPxu38v5+eep799b76Xmf3+99VKpflUTJCFESFeZnkL44SwSUREcbJgqum2jJoRMDBIx3sZzcoyWkMZp5oyQytndRRfcAlVpbKE+r5w+q7B2So29somy1hj+oZthG1YNjpKu3UmZOLn+QpX9EBhnaOvljzF19XyDMEsehTg4zZgcYxNTRQ0WWWh4oicqaW2UA6w6CbmnrGpRGSfJpwrzgqDMMgm6hawqjkqCfnwtBt9Al3EcKolIgID4SiW95e36m25sbugiF6CQQoLVZDz9QIh6nl6cnGXQZDsugVfeMOKDTvV3xQCvTU3xAwDDQfTT6BVp2ucQAXUUi4oEw1AtOpzigY7+f5h0O5UEMw0APsRhdn5+JAcLFyECHPh/N2e1igPDJDrxe8kzalAWlYxjo8e5OPBDuoeDONs1MjPMFvb++yiD8XPe3NpUBYZkHKH05Y8FKghUEz6gNpr/GsJLkBQ0vByo9WNqwTRaYq5TCsEot+OlB55IQRTGs2It/5p/WJw3pCs6JVU+8AAAAAElFTkSuQmCC",
-    "wiki_name": "Eclipse wine",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Eclipse_wine",
+    "examine": "A full-bodied Aldarin Red that's generally considered the finest wine available.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvklEQVR4Xs3YS0sCURQA4LkMQxgRBO2TNkFEDzduXLRp0aZF0KKFi35C9BARSy16EREUPRBFKuxB9AtELKLoJ4hm1E4z2mtwmnPHUzNRq+ree+BsnIH5OOfMnYOa9qtgYKUSwaCrsxU8PW0qoBicbvsgveWD1eAAB/W73TJRjGPiK16ITvaCx9BlV4nBqMuAsWYDhl06dBua7CoxGDcxmENNOnToCoAmWgzwN0DtmgIgxGBi6wgjCcT47NhBEofaGmacHQIhzme2TQKK8TcKQYQh0KAJEoxifHhHTJC9XZhYLUQKRlmgr+2yVwmrhyivGJQT9FavO/KlUoH7fB6uMxk4T6VgcyH238fAJwgrYsfUazV4Lpc56Cab5aCNaEQd0MXhgXqg9fk5OSDEEOihUPgArYXDaoBuczn1QDjUy6GQOqCzZBKWgkHxIMIQ6LFYhLurSzVAeDAS6CSRgMVAQA0Qtuw4HofY7IxYkB1DoKdSST0QnkPp/T2ITE/JBb1WqxyEH9ej3R2xoO/WD/wNVxC8p6+xegjYsRlf0H4C4T5Ee5AADIVzwafEyuE1wRgK+sfDmQQRjLHC/vC/hrwDSljvzr4zv3AAAAAASUVORK5CYII=",
+    "wiki_name": "Eclipse red",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Eclipse_red",
     "equipment": null,
     "weapon": null
 }

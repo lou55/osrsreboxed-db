@@ -1,7 +1,7 @@
 {
     "id": 27519,
     "name": "Stone tablet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-11-30",
     "duplicate": false,
     "examine": "An ancient tablet found in a ruin south east of Mount Quidamortem.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xu3XYWvCQAwGYO+7XwqClDILlQl1ogjCGAz2/3/VjbeSa5rm7OndtQwWCCqifXyTVl2t/n4ZO+7FytiyKQe9qTZLwYx9a3e2OTf2cDvY49exu8VjwNbFek7UENN+tg6Drj/q7vmiLOZA9Zj9de9AuM9BhNrW25yoOwYHIxBhfCDqDChjq/fKgSgdtARpqGwgng6BNJQE4bWJUcNx8WUOQSUG6eMCiKMIRKiMKQ3HRRhce3wonlIWkEwHGA6SKGDoQ/CxJUD14+LpnL5PI5SWkja2SFQ/Lp4OQBKlgbSx4aslCqSlo4EkKhtIpnP+uXTNURzkGxmNKxmI0okB0c+UbCA5MhxsChT5hWu6Nw4B0acnEF0q5P4kAfGzywd6tNB8fxYDaePKBvIt9BQImGgQnfJ8h3wgudDa/vR/BF6q50FT+wNQBCoMFDKuO4D3y2UcCIDQhQYmEUArMwkCJmEKIWVGIGBmBGglE1gE8V+ufgGD+Nt4jR8bngAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABk0lEQVR4XtXX0WqDQBAF0Ox7XoRAEGkNhgZMQ9pCoRQK/f+v2nKV647jbjRxV+nCkIRgPN4ZNW42/38ZO6zVlrF5lfdqV+zWghn7VD/b6lrZ0+fJnr/PzSs+A7bNtkui+pj6q+4wqPK1bL7P8mwJlMMcP44dCO8liKh9uU+JajHYGUHEhECsBChji5eiAzEdlAb5UNj+/XCIiWpBMh2CfCgNwraRU+q3Sw7zFBRBkVLytwsgiSKIqIQp9dtFDK49IZRMSYMipOTaxXSAkSCNAoYHIdsWISXXLpnO5ecyQPlS8rVtJsq1S6YDkEb5QL624dYyo3XD2wQxGqRRyUA6nevvW1MSJUGhlrFd0UBMZw6If1OSgXTLsLMxEG+4D4Pww1NAPHqCeKnQ8xMFJM+uEOjWQMv5WQ3ka1cyUGigx0DAzAbxlJczFALpgfbNDx8EFgONzQ9A7unk7jUNNKVdLcAVEno4JYIAmDrQwPgAsvSe7lhmFARMKIUIAN8yAxAwtwAJEHr1E/Ah9BbJlwasglhr/QFozRIBQTqASgAAAABJRU5ErkJggg==",
     "wiki_name": "Stone tablet (The Garden of Death) (Mount Quidamortem)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Garden_of_Death)#Mount_Quidamortem",
     "equipment": null,

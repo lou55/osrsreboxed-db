@@ -1,7 +1,7 @@
 {
     "id": 1354,
     "name": "Steel axe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A woodcutter's axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xu3WbUsUURQHcJdhWPoiQfQiehVBUW8WMmVbW9dVc+0JDaMCSQqxwmqRnhDEHqhQMMREygiioijqk534z+1/OXPn7jqzO0UvunCYce6dmd+ec+8de3r+/VYQf/j6/3gryMO5qtyfHYhi4XpFmjMnoiBifemsrC2eltVH4x6U+yO6hhsQUQAxXMzKgzF5tjAaezH+Rp8bcVQmZEEWbw4mUDgCwiDoSXNYluaHorE4+kAYr9Hftubky8bVzlAE4ZzZIejFvVMRiGNbgXDf181Z+bF9W35u341AmTB4KH81QXipD7R8p25BOPeBNpbPxUA4TwkqxMqAF3Fy428XpMvgC4K2nk7kB2KWcE2DMLZ2MJSpY6HM14syPlSTal+f1MplGa5UZPTkgEW9fT5pQYhMIM4LF4RSuKDGkVCm+4sy2WjYOFOvy9hgVcq7Agt69/JCHPT6WvcgXAcIgXG9+wOZKIUyUylG2UB2kCUEMqRB71em8gUhUEoNQnYuHw9/P9gEygUcjgQhmx/XLlnQ9ze30mLQ4iCN4vIliNnBOfpx7C+Vouz0quwA9OnVlU5BaObXYgn7QOgr7QtsdphBjGOWiCHo8/p0pyCzByFD7UAol84OQbhPY3iPBmXYFM2S94EQGsTs6DlGEJ6hs5MriCgEXoAxR/cGNjs+kM5OriCdJRwJGjkcyo1aslytQJuPz1sQdumUGDSzwnwgfp8wBhshjvzWtQMhO/hs6Ax1BHLnEa6j/9CewGZnJxDLhc9GbiCiCMK3C0f0u/NHZ1KDsEtrUAaUAfnKRhBXV1oQ/u34sHrRgrAHZdiH4iBdNvQd2B1Ic8SUC9fdcrkgZKdrEFZZK5Be7rjmA+FeXa7cQG7ZcN08xOzC7oTmXoX7MJYgLHkNwh6UeR/ylY0vwS/GeTuQnj+5gHxl0yD0+SY0gp8NlqtLEJopy07hzh+GC8KmqEGMDKC0LYlk6PnzF0HtWhKZjP+tu/YLhN46tbGZ+ncAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xs3WbUsUURQH8F2GYelb+CqIXlSvIijqzUKmbGvrumquPaFhVCBJIWZYLdITgtgDFQqGmEgZQVQURX2yE/8Z/nfPHu9uO+4UXjjMOHPH+5tz7r2zmczub1nxh+/+P29ZeTxTkofTfVHM3ypKbep0FESsLV6Q1YVzsvJk1IOyL9ExPAYRBRDDYpYfjciL+eGGgfE37tloRCVCZmVhtn8bCkdAGAQ9qw3K4txA1BdHHwj9NfrH5ox8W7+xMxRBOGd2CHr14GwEYt9mIDz3fWNafm3dld9b9yMQxjjY1RWFHd20OO18a4IwqA+0dK/iQDj3gdaXLjaAcE6QHd20bEMZMBAnN/62IF0GXxC0+XwsPRCzhGsahL7lI6FMnAxlrpKT0YGylHp6pFwoyGCxKMNn+hzq/ctxB0IkAnFeWBBKYUHV46FM9uZkvFp1cb5SkZH+khT2BA704fXlRtDbm52DcB0gBPp1HwpkLB/KVDEXZQPZQZYQyJAGfVyeSBeEQCk1CNm5diqMzhkoF3A4EoRsfl696kA/391xmMQgjeLyJYjZwTnu49ibz0fZ6VbZAejLm+tekB29SYvfFkvYB8K9/IHAZYcZRD9miRiCvq5N7hQU70HIUCsQyqWzQxCe0xg+o0F6U7SjmxYveR8IoUHMjp5jBOF/6OykCiIKgQHQ58T+wGXHB9LZSRWks4QjQUPHQrld3l6uZqCNp5ccCLs0MW2BsMJ8IH6f0AcbIY781rUCITv4bOgMtZkdtDrIziNcx/2j+wKXnb+BWC58NlIDEUUQvl044r6dPzqTGoRdWoOIsqN7WgzylY0grq52QfjZ8WnligNhD0qwDzWCdNlw7/DeQGpDcblw3ZbLgpCdjkFYZc1Aernjmg+EZ3W5UgPZsuF6XPd4F7YTmnsVnkNfgrDkNQh7UOJ9yFc2DoI3xnkrkJ4/qYB8ZdMg3PNNaAQ/GyxXhyC0+m+bVmHnD8OCsClqECMBKJPhtt4qLFCHnj+pgNptFtkOllHv+5+aRfrCPrOr2x/O4oVBY3EwmgAAAABJRU5ErkJggg==",
     "wiki_name": "Steel axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_axe",
     "equipment": null,

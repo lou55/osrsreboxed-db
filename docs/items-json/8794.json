@@ -1,7 +1,7 @@
 {
     "id": 8794,
     "name": "Saw",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "Good for cutting wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABKUlEQVR4Xu2XwQqCQBCGXTwFUYciqKCI6NIl6NKlW4mYQUTv/ywT4/I77qrQIXc8+MOArOB+fTOsFkVDhvw9hvwVxRg6LCKyUL0AM3TexHRcRrSdAUwthj55XtRlF9NpHWvaMvTOsrIApmjL0CtNy6rCKdgy9EwSp5rAAtuyv/xxvxXlgwEusC0L9AsYbK2mndtyTflgVTjYkhb2BIxtcQuD2PJb2AbGttyB7wwMD8YmLpwPhoEXW52BIXVbbWBsKxBY3RSgeJ3bh2JbKmC4Zojr3sJgjWdLBYxBXBi5zy2sggU47S0QHwHNG1l7QV89OI8mI39DCwM7AWAQgZqPqxvbr1CGkXdgsAgUBhgzowCDCFQPYBCB4uJhVgbiyB+GHsAgnR+CQ/TzBeYrabL47R+WAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSElEQVR4Xu2XQUvDQBCFs+QkiB4qBS1oRbx4qXjx4s2WUiuI9P//lpHX4WU20xZ66M4G6YOBslvol28m26Rpzjnn5EniVyomyfO4EYUaBFiSt/tWXm4beRgRrFqSbNbrbb0/tjKbtDVtJfldrboiWEVbSX6Wy65yuAq2knwvFr3aBxZsS6/8a/65LQ9GuGBbCnQMGG3dXRe31TflwXI42rIWFgJ7nU67HzgGDLbQwhBbvoWHwGCrP/DFwJLkxjycB+PAm60CYApkrfS2DoHBVlEwy64pQmEd7WPBVgiYH3x+BsTHk8JwDbNVBQwgOQz2uI8W5mABp70C4Qjow9i+vxN3v3PS6HMUDFxd+KtXGNoJgGEM6uYyh9KnUMDwPzAAhjEoDjBnJocJBEIMagAwjEGhMMzBrdoXe2GobCePnlEDgdEMCuZf5A8Ono74zzMUSAAAAABJRU5ErkJggg==",
     "wiki_name": "Saw",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saw",
     "equipment": null,

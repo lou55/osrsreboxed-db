@@ -1,7 +1,7 @@
 {
     "id": 3338,
     "name": "Myre snelm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-14",
     "duplicate": true,
     "examine": "A swamp coloured pointed snail shell helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADU0lEQVR4Xu3W7UsUURQHYPdDhBJFJIlEBYksamiJWtIahtsHU0wxTFdTrHTNsqy0kiXL2sTeBLEXelEyxETKCKKiKOovO/G745nO3L1jO7tT9KELh5mde3fm2XPuvbMZGf9+C5A5TP1/vAXobqyZbo80qRi/3EjxocMqGDE/1U1zk100e6/TgNJ/RNpwC8QogDh0zMydDno8HnE8GJ/Rp4cT5QkZoMmrRxJQOALCwaCH8Vaaut6ixuJoAmG8RH9ditHnhYupoRiEc84Og55OtCsQj3UD4XtfFkfo+/IY/Vi+qUCeMLgp/2oG4aEm0PSNozYI5ybQwvRxBwjnSYICjjLgQTy58VkH4eFAcHndQEuPevwDcZZwzQTiTDIIWdNBb5702iCEJxDPCx2EhwOEMQySE3o10NtnUSfo1aX0QbiO/uHoQXXkTMoV6QZ6N3PKXxACAPRjgve0hdS5nNBuIGTzw9wZG/Tt9WiyGDQnSKJwc+5HllobytRnxmCcG+jjy7OpgtCszQs3N4GwhPEa6evYT/Xh4pWbW/sWvoNM6qBP8+dTBVl7EDLkBno/26/GcJbCoQIK7tik+vA9HYSFIEEeNkVroppACAZhQmJf4SwxKDc7S/VLELLjK4hRCDwA5cK4FxN1dpYijRVUVbbFLp1eLt9AMks4coZmxg/RVCxMYwMhGuwqp5baoMpQQV4OlRRaMAlafHDCBmGXThKDZq0gE4hfBxgDTPxcFQ2f3EP9kd3U2bSTNqxfS6HyPCrKz6aszDU2CtlBeWWGUgLp84iXMpds9PQ+BRo4VkqN4Xy12hAlwc2UvTFTjeFy4bXhG4hRuI4HAMSvj+XpJrrSu5euDdZRe0MR1R/Io9KiHNqau84Bwi4tQR5QFshUNhNo4X4DPb9Va5eura6Qqiu22VsAj8c2wSDsQR72ISdIlk2CcMRYrLSJoWpVvgvdFRRt3aVAPIcATxuEVfY7kFxtkyM1jtWGSS3L5RtILxuuSxAmOsYjQ7G+SupuLqaayu0WdGUsQFjyEoQ9yPM+ZCqbBOGc/wNZN/4VvBp5rC8gU9kkCH3yLwfOeTfn1waXK00QmvMXu4XEyNBB2BQliMMDKNmWiOSQ8+cvglZricjE+N/Saz8BFFVMnAVaN5YAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADb0lEQVR4Xs3W/UsUQRgH8LsfIpQoIkkkKukQUUNN9Eo6w/D6wRRTDDtPU6z0zLKstJIjyzKxN0GuF3pRMsREygiioijqL3viO9uzPjvN2p23hQMPu7c7e/O555mZPZ9v7Tc/mcN0/583P92LN9Od4SYV41caaWzwiApGzE110exkJ83c7zCg9B+RNtwCMQogDh0zfbednoxHHQPjM+7p4USlhPTT5LWjf6BwBISDQY/GIjR1o0X1xdEEQn+J/rYYpy/zl1aHYhDOOTsMejbRpkDc1w2E574uDNOPpVH6uXRLgTBGaW6uCn10rVlp51/NIAxqAiVuHrNBODeB5hMnHCCcM0gfXWt+RxkwEE9ufNZBGBwILq8baPFxt3cgzhKumUCcSQYhazro7dMeG4RICcTzQgdhcIDQh0FyQq8Eevc85gS9vpw+CNdxfyh2SB05k3JFuoHeT5/2FoQAAPcxwbtbQ+pcTmg3ELL5cfasDfr+ZsTGpAySKHw530eWIg3l6jNj0M8N9OnVOSNIH92lWZsXvtwEwhLGa6S3/QDVh4vVNQSDkEkd9HnuwmpB1h6EDLmBPsz0qT6cpXCogPJ3bVH38JwOwkKQILkp6qNrzZqoJhCCQZiQ2Fc4SwzKycpU9yUI2fEUxCgEBkC50O/lRJ2dpWhjkKrKt9ml08vlGUhmCUfO0PT4YZqKh2m0P0QDnRXUUpuvMlQQyKaSQgsmQQsPT9og7NKMSQqEFWIC8esAfYAZO19FQ6f2Ul90D3U07aZNG9dTqCJARXlZlJmxzkYhOyivzFCS2UFbBunziJcyl2zkzH4F6j9eRo3hPLXaECX5Wylrc4bqw+XCa8MzEKNwHQMAxK+PpUQTXe3ZR9cH6qitoYjqDwaorCibtudscICwS0sQo/TRDc0CmcpmAs0/aKAXt2vt0rXWFVJ1cIe9BXB/bBMMwh6Uwj7kBMmySRCO6IuVNjFYrcp3sStIsUipAvEcAjxtEFbZ30BytU0O1zhWGya1LJdnIL1suC5BmOjojwzFeyupq7mYaip3WtDffQHCkpcg7EEp70OmskkQzvk/EJ6RwauR+3oCMpVNgnBP/uXAOe/m/NrgcqUJQnP+YreQGBk6CJuiBHGkAPL5eFtfKXSgDDl/PAEl23RkMliO5b7/qelIU+jPrOn2C15ZlyhFcWGPAAAAAElFTkSuQmCC",
     "wiki_name": "Myre snelm (pointed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Myre_snelm_(pointed)",
     "equipment": null,

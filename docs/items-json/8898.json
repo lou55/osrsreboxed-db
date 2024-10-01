@@ -1,7 +1,7 @@
 {
     "id": 8898,
     "name": "Coins",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-27",
     "duplicate": true,
     "examine": "Lovely money!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpElEQVR4Xu2VQYRVURjH35Xnutd12wxRi7cYbVpMWrUomUWkJKMUYxRDxVAyDCVDSUoahkkxNAyloSRDM2aMSi3SIqJFRIu0GIZoEfFWX37nON3zzjnTe296TYvuxzEz95zzfb/z//7nTKVSRhlllFHGekYk/vhnEcnU+cQbfxHqdycPw+RpJbB2TeEW9ws2Forky+PcW9MhIL/4aqMoFsnyk1y+L+by+k4mkyOJnD1SbRfIVaH4vjLrn5Zvn2YyeTeVyeXBWLZ3b2gAQiHWvJhI5fZwIkN9Vdm6pWUgXwU7OYnrL2vqJwBzN1L1+4d7mby6lcpIfyzbanaxSMECtTCWyviZRE4drMruHht61fBhGqE00I+lXD4+yGRpPFVznx/m8mZSww0fi53TayAG62kZ0If3VFsD+jafq56T4P10JhcGYtncZQr4QBPnErWetfx99WTsnD5Sa8kH9MylRK6fjpVKLfhIA5nNnBgD2kAUB4h2kXz0RKz2UJSW4RH/9Fol2kpO1nDQ3h1N2xapYvT77d0wEHNfn+obQ7tIjGdM24DEtLVNjW1jnr3sMyqxrgkQoYuGgFxfMfADJzV7MC4+coGYBwoV748WbWsbiOQAuSCMwgPhPTaQ8SVXHyC8NnhgDUBGIdpUf7ZR+WD2Wio3h+JfQPXnXcE9NhCXAZ8BNH0xUe/V8X1NgXxTs4nCvLTGzI+upCqhAWLO3rN/p2tWrZD9VHAZ+vc2BSJ0C9yBOsBSFMnxjgGiGOqgHO2yW2kGCqIuHuMt4jIc7W0JKBRaBWTHlCTkhoQKm+E+qhiat8pc+zYex1BEykOcEsl5/sP9D99EA0m7UZHHFCUP7XJb21b4Krgr+Bb651usdfeHcnQ89K3DU7TmD3zSyVh3Ff7T+Al78Rvt6wx8wAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xu2VT4RVURzH75Xnutd12wxRizekTYv+rFqUzCJGSVKKkWKoGEqGoWQoGSXFMCmGhqE0lGSolFGpRVpEtIhokRYR0SLirX75nON0z5xzZu579abZ3B/HzLx3zu/3+X1/33Mmiuqoo4466vifEYu/li1imTqdemsJoRbrPAxTZJHau6m391+h3OJ+wflQsXy5X3h7ugTkF19olVCxfH1QyM+nhby+kcvkSCon9zc6BXJVKD//Nut3y2efZnJ5N5XL+cFENq5dYRXTCrHnxUQm14dTGdrbkHVr2gbyVbC7JXHrZVP9BODR5Uz9/uFWLq+uZTIykMj6pl0sVrBAPbmayfiJVI7tbsi2DTb0guHDzIfSQL/mCvl4J5e58Ux99/luIW8mNdzwwcTpXgOx2M/IgN63vdEe0I/HhZo5Cd5P53LmUCKre3SBENDEqVTtZy9/jx1NnO5jtZd8QM+cS+XS8USpZHzkUlihgcxhOsaANhDFAWJcJB89kqgzFGVkeMTvXqvEWMnJHhrt21w5tlgVY95vb4aB+O77Q31jGBeJ8YwZG5CYtrnK7j5W33OWc0Yl9lUAEbpoCMj1FQs/0Kk5g3HxkQGybxpQqHh7tBxbx0AkB8gFYZUeCJ+xgYwvufoA4bXBXX8BZBRiTK1nK5UPZi9mcmUo+QPUet4TPGMDcRnwGUDTZ1P1Xh3urwTyTc0hCvPSGjPfu5CphAaI7+wzO7eUZrUVsp8KLsPAjkogwn2l9UIdYCmK5HjHAFEMdVCOcdmjNAsFUReP8RZxGQ70tQUURaYzu0NUQHZMSUJuSKiwWe6jiqF5q8y17+BxDEWsPESXSM7zb8/fBneNb4BYjBsVeUxRcs/WyndosfBVKEHKPaF/vmXRdnJ0EO4ow4n0rcNTjMb1iXs+nKPr0UUVuhXLoMLSx282SGlXcl1l+wAAAABJRU5ErkJggg==",
     "wiki_name": "Coins (Mage Training Arena)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Coins_(Mage_Training_Arena)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 5758,
     "name": "Chef's delight(m)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "This looks a good deal stronger than normal Chef's Delight.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu3XTWsTQRgH8OYUEpZ48KZgPoCHevTg1asvKFXqG76jlUKxKrVWqoZobak0SRUrKamNSWk0Wii1NlqNiCcRDKhUKhQPfgQh8fDof5ZnnZ1MYja7igcH/uzuzCT7y8zsJGlp+feLj/TRtf/x4qPB3h000LNdJHpuG0W6t4owIj1ykCaGD9D40H4NSv0QruEmiFEAcVRM8vpeuhVtt90Y12hTY0c5QvpouG9nFQpHQDgMGo3sppH+NtEXRx0I/WX0s+leWsicbg7FIJzz6DBo7NoeAeK+tUB4XWGqh17kL1Exf0WAHGHwpvypGYSb6kDxy7ssEM51oEz8kA2E8wZBPts04Ea8uHENkDz0amqBpm8e9Q7Eo4Q60R4J0GhfgGLnAzTY7aerXX6KdPqpv8NvwVTQg9vHLBDiCMTrQgWhrZAM0vxYkGYSQcrHgpQdClB6IECpqHnM3TDbVNTDO8ftoOxZb0AfZg0qPTLoTc6g1xmDXk4G6XnKDK7RDhCPFoNmkie8BaG+XFpDlaXNVH63ir4WQ7RSCNHyE4OW5gxx/e2tec0jxCA8AHMTpyzQ4v2LjWJQ7CAVVfm0hSofN1H5fasAAlEuhX/WbRTQL4shOnNkNV3oCIvgNQA9vtvZLAjl1xOjgvKJtVRZbhP5vtxu5vM+gcH0AYM8ndxgBa+bT3c1CzL3IIxQLdCrbNgW1HEYhL4LqVYtyMGmaD7yOhDiFIR4DmIU4gSUi6+3wijXIHmUcGwUpELkEcIu3SAGxXzCdCD+iZGL/R4kQ/BVg68NecqaAqnrCPUMKt5bZwvqEHn98P4DEL42PAMxyg0Iu7QMcoAyQbppaxaEnx2z4yctEPYgB/uQHSRPG+r4V189EGMQjI5rEJ6yeiDcQEUxiD+QPF2egdRpQz2DcEPzDe3hxc99AZpKHLaBsAc53od00yaDcI6b858A7OK8ecojhL6egHTTJoPQJv8rkUHoJ68flyCU6qnQRcbIUUHYFGUQxwGo0VKN5Mjr5y+C6pVqZHX+F3flBybMW3ZqiObPAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKUlEQVR4Xs3XzWsTQRgG8OQUEkI9eFOwvXtojx68evUDpUr9wm+0UihWpdZK1RCtLZWmrWIlJbUxLY1GC6XWRqsV8SSCAZVKCuLBP0FIPLz6zPJuZt9OarZZpQMPuzs7y/wyMztJfL61X/xkjun+Py9+6unYTd3tu1SiF3dSpG2HCiOS/UdotO8wjfQeMqDkh6gaboEYBRBHYuK3DtDdaJOjY1zjnowT5Qrpp77OPctQOALCYdBQZB/1dzWqtjiaQGivo19OdtBc6tzqUAzCOY8Og4Zv7lcgblsOhOeyE+30OnOVFjLXFQh9NNTVqcjeRbGGnT81g9CpCTRwba8NwrkJlBo46gDhnEGyd1H8jmlAR7y4cQ2QPvQy5UCTd054B+JRQp26HwnSUGeQYpeC1NMWoButAYq0BKirOWDDJOjxvZM2CHEF4nUhQbiXjYdodjhEU4MhysRCNN4bpGR3kBJR65i+bd2TqCf3TzlB4xe8AX2eDlPuaZjep8P0LhWmN2MhepWwgmvcB4hHi0FT8dPeglBfyG2g4uI2KnxcRz8Wauhbtobyz8O0OBNW1z8/WNc8QgzCCzAzetYGzT+6YmNcgySq+HU7Fb9spcKnegUEopCr/VO3RUG/z9fQ+ePr6XJzrQqeAejZgxYjSPZeppTeGAnKDG6kYr5R5Ve+ycrSQYXB9AGDvBhrsIPnZpOtqwVZexBGqBzo7XitI6jjMAht5xL1RpC+KcreRbFeeRMIcQtCPAcxCnEDSg9stsOoqkH6KOFYKUhC9BHCLs2YikB4w0wg/omRjv0dpEPwVYOvDX3KKhwdlBJIriPUM2jh4SZHUIfo64f3H4DwteEZiFHVgLBL6yBGyd4NxQKZpm21IPzsmB45Y4OwB7nYh5wgfdpQx7/6VgIxBsHoVA3CW7YSCB1IFIP4A+nT5RlIThvqGYQOrTXgDC9+bgvQxOAxBwh7kOt9yDRtOgjn6Jz/BGAX581THyG09QRkmjYdhHv6vxIdhHb6+qkShLJ8KkzRMXokCJuiDuK4APl8vK2vFAnUo68fT0CVFomsBMsptf1PRSJNkc+s6fIbcNCmAjfP34MAAAAASUVORK5CYII=",
     "wiki_name": "Chef's delight(m)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chef's_delight(m)",
     "equipment": null,

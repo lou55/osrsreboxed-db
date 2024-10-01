@@ -1,7 +1,7 @@
 {
     "id": 19554,
     "name": "Amulet of torture",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-05-06",
     "duplicate": true,
     "examine": "A deep sense of torture burns within this powerful amulet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrElEQVR4Xu3V30sUURQHcLfAEhYWIejNhx58GOvJXgQfpSKClCTDoqioMCKIohAx+iFWGoKYRYWCspgsZQSRkRT1l536zvAdzz1zd5tfRQ9dOMzszN25n7n33DNtbf9+q4g/fPf/eKvI7MQJeTI+FMb0nUGZunU8DCLq8+dlZe6cLD8960HZlygMj0BEAcSwmKWZM/JietQZGL9xz4aLyoSsyNzkcAKFIyAMghanTsn8vZNhXxx9IPTX6K+NCfmydjMfiiCcc3YIevX4dAhi32Yg/G9rfVy+b9yXHxsPQ1AmDB7KtyYIg2qQfmPGwoMRL2ht4YIDwnlKUMVZBiCY3PhNEPp1dx9MBF/GghrPL5UH4izhGkDEBEGfE/39QzEKoUHvXl6OQYhMIOaFBeHNNcguF4Io3ifo/esrLujN7eIgXLcgndAIomq1PQ7ow9JYuSAEltKCkMQWZGcHOfdp5VoM+vb2bloMmgvSKDzcByIG/ZqBNlev5wWhRfmAwSyIA1arneE5S8PvQJ/rN/KCom2LGWoFwlFX6FYgzKoGZSiK0Zb3gRA+UJr8KRVEFMKC0iZ0aSA9SzhqEAdmNFsugNafXYxBqNIpMWjRDvOB+DnANwn9DvcEMhAE8qivXQb27vRimD/4bOgZygWyeYTrGnSgtkMaRzpksrddju3rdPLKLhc+G6WBiMJ1DKBBW4MdcrSrGgau6ZnUIFRpDcqAikC+ZfOB6od2xxjkkA+E/h+Xr8Yg1KAMdcgF6WXLA8LsFAZhl6UB7f8FGu7alQAx17hcpYHssuE6QRgweuD2lmetwv/YFyBseQ1CDcpch3zLpkE4t58MDdL5UwrIt2wahHu6QmsQ+un8KQhC216KVqExOiwIRVGDGBlAaVsSydD58xdBrVoSmYz/rVj7CR1NFGvldmA7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xs3W30sUURQH8N0CS1hYhKA3ER98mAqCehF8lIoIVBKNkqKiooggikJE6YfYTwSxH5QoGIvJUkYQFUlRf9mp7wzf2TNnz24zu1N44TCzM3e8n7n33DMWClu/FcUP7/4/b0V5MnVcHk2OhDF3e1hmbw6FQURl4ayszp+RlaenHZR9ibbhEYgogBgWs/x4Ql7OnUwMjN+4ZyOJyoQsyvz0aB0KR0AYBD2fPSELd8bCvjh6IPTX6O/VKfm2dqM1FEE45+wQ9PrhqRDEvo1AeG5zfVJ+btyVXxv3QxDG2N/TE4Yd3bRo2vnWBGFQDdJvzFi8N+6C1hbPJUA4J8iObloxsQxAMLnxmyD06+s7WBd8GQuqvriQH4izhGsAERME/YkYGBiJUQgNev/qYgxCZAIxLywIb65BdrkQRPE+QR+WLiVBb2+1D8J1C9IJjSCqXN6VAH1cvpwvCIGltCAksQXZ2UHOfV69GoN+vJuJMZlBGoU/7oGIQb9GoC9vrrkgO3qDVtvCFsQBS6Wu8Jyl4W+gr5XrrYKibYsZagbCUVfoZiDMqgbpomhHNy3a8h4I4YHS5E+uIKIQFpQ2oXMD6VnCUYM4MKPRcgG0/ux8DEKVJiYVCDvMA/FzgG8S+h3eE8hgEMiD/g4Z3L3dxTB/8NnQM5RydtBqIJtHuK5B+8rbpHqkU6YPdMix3q5EXtnlwmcjNxBRuI4BNGhzuFOOdpfCwDU9kxqEKq1BRNnRnRaBvGXzQJVDO2MMcsgDof+nlSsxCDUoQx1KgvSytQLC7LQNwi5LA9r7BzTavaMOxFzjcuUGssuG6wRhwCgHaluetQrPsS9A2PIahBqUuQ55y6ZBOLefDA3S+ZMLyFs2DcI9XaE1CP10/rQJQqv/L9ALjdFhQSiKGsTIACoUWNabhQXq0PmTCyhts8g0WEat739qFumFfWZLt99nUV73B/NRRAAAAABJRU5ErkJggg==",
     "wiki_name": "Amulet of torture",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_torture",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1216,
     "name": "Dragon dagger",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "A powerful dagger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvUlEQVR4Xu3W3UsUURjH8V2WJYz+i+4SFLrJC4mgbuqi7F16xcKiiCCKQqToRUQrBLEXKhQMMZEygqhIjPrLTvud6Tc8c/bM7s7OFF504GFmZ8/s+fg8z5yxUtn8o+rCEfr+r4+qezJ+1E2PHY5i8s6Qm7h1KAohlmZH3OLMebfw9FwA5f8RheExSChACh8z//iMezl5KrUwn/nOjzQqF7LqZu4ea0JxBKIQ6PnEsJu9fyKayzEEYr5Fb6yOu+/LN7tDCcS5siPQ66nTEUhzs0Dct74y5n6uPXC/1h5FoFwYflR/tUAsGgLNPTyZgDgPgZbnLqRAnHcIqqbKwEJqbj77IBYHofJm9dDqi9HyQMoS10IgZZJ7D/bUoqMP+vDqUgIicoHUFz6IxX2Q5nHf4JaaO9JTD4I+vrmcBr27XRzEdUBCKZPM4b49DdDxrWHQp/kr5YIIABakhuae/nrN7W+U62wAxNwvi9cS0I/39zrFMNIgi+LHs0C7Gtmhf0a2hUFf317vFsSINy8WawXSDr2jXknKNZoB+rZ0o1tQ/NiSoXYg5jB/559yKTuU1oKYb0E5NsX4x0IgIgtEdtQ7XLMg5pUKEopgAXZcFuBcpdWTBZr7/HKVBrJZ4mhBUan6+tzugYEElgVaeXYxAbFLd4hhxE9YCKTXgUDAmd/f2xuhDuzbm5TM7x9eGzZDXYH8PuK6n6HB7bUosjKkcvHaKA0kFNdZAJCP4QkEYzNpQezSFpQDFYNCZfNBlGh4KP4PshWI+Z8XriYg9qAc+1AaZMvmg9TMwoRAZKcwiGZtB2IxYXyQek3lKg3kl43rFsTiFqS9ivs0FxCPvAWxB+Xeh0JlsyDOW4Fs/5QCCpXNgvhO7zcfpNeGylUQxIj3lHbh94/CB7EpWpAiB6jT0YxU2P75h6BWoxnZHP9HsfEbvnpcKvyAHMkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xs3X7UsUURTH8V2WJYz+CKF3CRq9yRcSQb2pF2XP0iMWFkUEURQiRZlITwhiD1QoGGIiZQRRURT1l932O9Nv9uzpzrrrTuGFw87O3tnz2XPu3NFSaf2PcohH7PN/Psrh0dih8GD0QBKTNwfDxPX9SQixMD0c5qfOhLnHpyMo/yM6hqcgoQApPGb24cnwfPJ4Q2Le85mPRlRbyHKYunX4LxSvQBQCPZ0YCtN3jiZzeY2BmG/R35fHwtfFa2tDCcSxqiPQy/snEpDm5oG47tvSaPi5cjf8WrmXgMixtbs7CZ/djbTs+tUCkTQGmhk/loE4joEWZ842gDgWyGd3o9zQBhJpcfPeg0gOQu3NW0PLz0aKA6lKnIuBVEmu3ddVSV496N2L8xmIaAukdeFBJPcgzeO6gQ2VcLCrGgW9f3WhEfTmRucgzgMSSpVkDtftrIGObIyDPsxeLBZEALAgLWiu6atWwp5au05FQMz9NH85A/14ezvDtA2yKL48D7S9Vh3Wz/CmOOjz6ytRkM+eM9LNi2TNQNqht1RLWbtGckBfFq6uFZTetlRoNRBzmL/tT7tUHVprQcy3ILsp+uxupF8WAxF5IKqjtcM5C2JeoSChCBKw45KAY7VWdxZorvPtKgxkq8SrBSWt6u0NO/r7M1geaOnJuQzELi1MSyDunBhIjwOBgDO/r6cnQe3dvStrmV8/PDZshVqsDqMO8uuI875CA5srSeRVSO3isVEYSCjOkwCQx3AHgrGVtCB2aQsSymePjBQUa5sH0aKhwfQvyGYg5n+cu5SB2IPa2IcaQbZtHqTFLEwMRHU6BrFYVwORTBgP0lpTuwoD+bZx3oJIbkHaq7hOcwFxy1sQe1Db+1CsbRbEcTOQXT+FgGJtsyA+0/PNg/TYULs6BDHq/6o0C79+FB7EpmhBijZApZK29WbhgTbs+ikE1OrwyFawivrc/zQ8Mhb+mnU9fgMIjaa2XERI1wAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon dagger (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_dagger#Unpoisoned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11134,
     "name": "Regen bracelet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-30",
     "duplicate": true,
     "examine": "Helps to restore Hitpoints.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACk0lEQVR4Xu3W20sVURTHcQ8iopyXXnrooYf+oYrCoqKoqCgiiKQQKbqIdEMQu1BxBENMpIwgVBSj/rId3z38hjV71uiZM1P00IbF3PaZ/Zm99qw5Q0P/fusEP7zrf7x1wovpE+HZ1PEYs/eOhZnJozGEWJ6/GJbmLoTFl+cdVPoQjeEZSChAihTTe34uvJ09UxiYY66lUUTVQnbC3P2TJRRbIAqBXs+cDvMPJ2Jfth6I/ha9uzYdtlfuDIYSiH3NjkDvn56NIPWtAvG7ndWp8HP9Ufi1/iSCamG4qZ5aIAb1QAuPT+Ug9j3QysKlAoj9PkGdQhoYSIub4xTE4CCU3irQ2psr7YE0S5zzQJpJgZi1FPTl3dUcRNQCaV2kIAa3ILtI9wN9/XCtCPp0tzmI84CEGBk5EMbGDsUQqgr0rXe9XRBBKgWxmPHxw/GYax6I2dxYupmDfnx+0C+GVgRZlDCjowdjpCChPNDmx1uDgmhZSnjaKhAICxJqeLgb+6WgreXbg4KyGsQMeSDNjBAK4TRLFsS6s6AaRTF75T0Qwc3pY0Hd7pESzqKYnVZBQhEMQMWlnwURIC1OqWsVZGeJbRUITJpKjoVafXU5B1Gl+8TQsjfEA+lzAEi1SKC0BNi00ZfPhp2hgUDpOtKr7IHSEpCC+Gy0BhKK86wHgbguVIoBadcPVdqCaqAykJc2D8SbV7WeBKL/98UbOYgaVKMOFUE2bRbElvP6pGQ3L4bqT2MQb9l+IAbjnECqU3atKV2tgdK0cd6C7H8gYQRSX0C88hZEDapdh7y0WRD7e4E0Q/RtBeSlzYK4Zv+WWBD97PppCKKVF6gX6fpRpCCKogUpaoD6bWWkwq6fvwjaq5WR5fjfmrXf0qwJhQcm8PgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xs3WXUsVURTG8XMQEeXcdNNFFyF+gr5JRVFRUWSUFBFEUYgUvYj0hiCWUaJgiImUEURFUdQn2/Gf4RnXrLNGz3imcMNi3vZx/2btvdfYau391k5xRM//eWunZ1PH0pPJo1nM3DmSpm8dzkKI1bkLaWX2fFp+fi5A+ZfoG56DhAKk8Jilp2fTq5nTpYG55pmPMqoWsp1m7x7vQnEEohDo5fSpNHf/RNaXYwSiv0X/3JhK39du7g4lEOfKjkBvHp/JQOpbBeJ3P9Yn0+/NB+nP5qMMxBiHRkez8KO7lqddby0Qg0ag+YcnCxDnEWhtfrwE4lwgP7pr7dI0MJAWN9cexOAgNL1VoI2FS82BlCXuRSBlUiCy5kEfXl8uQEQtkNaFBzG4BdlFuhPo4+JEGfTudv8g7gMSYnBwXxoePpCFUFWgT0tXmgURTKUgFjMycjC75lkEIptfVq4VoF/v7xWY2iCLEmZoaH8WHiRUBPr69noI8qNXtHxKeNsqEAgLEmpgoJP186Bvqzd2C8prEBmKQMqMEArhlCULYt1ZkC2KfnTX8i0fgQj+OH0sqNMZ68JZFNlpFCQUwQBUXPpZEAHS4jR1jYJsljhWgcD4qeRaqPUXFwsQVVqYnkDskAikzwEg1SKBfAmw00ZfPhs2Qz1mh7YF8utIWzkC+RLgQXw2GgMJxX3Wg0A8F8pjQNr1Q5W2IKH86EHLQdG0RSB2XtV6Eoj+n5evFiBqUI06VAbZabMgjtzXJyV/23Ko/vQNYpftBGIw7gmkOmXXmqarMZCfNu5bkP0fSBiB1BcQW96CqEG161A0bRbE+XYgZYi+jYCiabMgntl/SyyIfnb99AmidS/QKPz6UXgQRdGCFDVArZbK+nbhgTbs+mkE1GvzyF6wiq2+/6l5ZBT+N3u6/QUcv1QRVxS//wAAAABJRU5ErkJggg==",
     "wiki_name": "Regen bracelet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Regen_bracelet",
     "equipment": null,

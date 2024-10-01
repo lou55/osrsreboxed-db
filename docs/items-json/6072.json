@@ -1,7 +1,7 @@
 {
     "id": 6072,
     "name": "Tegid's soap",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-19",
     "duplicate": false,
     "examine": "A bar of soap taken from Tegid.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu2W8U+NcRTGe/8NTZYmS1bWxmzELIwY7lpLZrRmlkRIIkmSIklKQqu11m7k7rbWihSqpZYpXK3WSoqWP+PY57Rvol/fe/PDPdvZe+997/Z+9jzPOd83IMBf/vJZWbK0fV5/Hn4uI0XS0k9IyukkOZaUIHtiY3wNZUlZRaGUlOXL7ZJcuVV0VW4UZElOXoaCJRxxyI6YaF9BWVL59K7C0KXlBQsNZHbueTl56rg44vbJlq2bvA1lSWNTrTypuS/FpXmqTGHxNe2KqjvS29clVdX35GJWmiQlJ0rs/l0StTHSW1CWtHc0y3NXnVTXPlB1sOhS9lmFcD6rkdY2l7zpbpfa+oeqVOLRONm5e7uErw+zG8qSgcEeed3VKq7mBmlorFao8soiuZ6fqQphI7+3tDXp/wAkVygVvW2zhKwJthPKkqFPg9I/0K0KtL10L4ABwoOxD9vqnY/1HmpyBZZMoVTgyhX2Qo2OeZaAvXDXq2U3C69oo1pdwyO1Fgtp7GX6yFTQqkB7oSa/jS8BQwmCbsafacNSbGtubVQbAb2QmSoHHXsleHWQvVBT3ye0DVhPb6e4W5wKgUXkijWAcsZCwPh+OSddV4LtmQLo5+y0XkdGP+vI89CaugpdlkwgV3LF1GEh0NznXlz8AQldG2Iv1PTMpELN/ZpVtfr636o9ALCnGH1sXGyhGQZUjD98SMLWhdoLNfNjSmbnZhTOMzKsuSLIBJswsyTJFZ+xDIUAJlP8zjFj856ah6LHJ0bl4/CAvOvpUKXID1ni8MUmgAg/aqEaKjF9LNCIyHB7oVBosUqvOlt0JaAID6dRhUyxuwAFMvVMsqrEntoQFWEvFCvhX5XIC8oAYw5gPmMhGeOVhSx56ZXFUqAvnqG/VCIzWIU6QAFD6FkBRiEvwJiyZGz8q3wYeq9Lk1XAGwJ5IjvYhUoGiGPFizCmLM0Sa4Azjf3DHsI+M2EsUCbQBzCmrAWVgEIp9hAqYRvnng9hTFmqEq8jBByV5iFML0stBlg2CH/56/+s30h0YKL7SmeuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xu2W8S+VcRTGvf9GlsjSpGG2WlupNdVKrTIzaa3MWpOUSlKSJFGSRFIZMzNKxswoUWFyp0UlY0aiTH/Gqc+5+yJ+a++99cM929l73ffO+9nzPOd8Xy8vT3nKbWXJ8nZ7LTz8bGqiJKccl8RT8XI0PlZ2R0a4G8qS4tI8KSzOkVuFWXIz/4pcz02XzOxUBYs9HCXbI8LdBWVJ2ZM7CkMXleTON5AZWefkxMljEhW9VzZv2ehqKEvqG6rkceU9KSjKVmXyCq5ql5bflt6+LimvuCsX0pMlPiFOIvftlLANIa6CsqS9o1meNVZLRdV9VQeLLmacUYi6p5XS2tYor7vbparmgSoVdyRaduzaJkHrA+2GssQx0COvulqlsblWausrFKqkLF+u5aSpQtjI9y1tDfo7AMkVSoVv3ST+a/zshLJk8OOA9Du6VYG2F03zYIDwYOzDtpq6R3oPNbkCS6ZQynvlCnuhRseGl4E9b6pRy27kXdZGterah2otFtLYy/SRKZ9V3vZCTX4dXwaGEgTdjD/ThqXY1txarzYCej4tSQ5E7RG/1T72Qk19m9A2YD29ndLUUqcQWESuWAMoZywEjL8vZaboSrA9UwD9mJ3W68joJx15HlpZXarLkgnkSq6YOiwEmvvci47ZLwFr/e2Fmp6ZVKi5n7OqVl//G7UHAPYUo4+Niy00w4CKMYcOSuC6AHuhZr5PyezcjMINjwxprggywSbMLElyxWcsQyGAyRTfc8zYvKecUPT4xKh8GHLI254OVYr8kCUOX2wCiPCjFqqhEtPHAg0OCbIXCoUWq/Sys0VXAorwcBpVyBS7C1Agk04nqErsqdCwYHuhWAlLVSIvKAOMOYD5jIVkjFcWsmReWUJ9fbWX/ve/LEuBPg8P/qESmcEq1AEKGELPCjAKuQDGlCVj41/k/eA7XZqsAt4QyBPZwS5UMkAcKy6EMWVpllgDnGnsH/YQ9pkJY4EygW6AMWXNqwQUSrGHUAnbOPfcCGPKUpV4HSHgqOScIme7GcbUAsBiiH8E46z/AsJTnvpdvwA1sX1O8qnhVAAAAABJRU5ErkJggg==",
     "wiki_name": "Tegid's soap",
     "wiki_url": "https://oldschool.runescape.wiki/w/Tegid's_soap",
     "equipment": null,

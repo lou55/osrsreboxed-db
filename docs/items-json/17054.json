@@ -1,7 +1,7 @@
 {
     "id": 17054,
     "name": "Book",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-08-27",
     "duplicate": true,
     "examine": "Turnip growing for beginners.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJ0lEQVR4Xu3VzytEURQH8Lm93kbKwpRSSJKSkMTGwmbSZPJrmlAoU6YUi1nJZhYSCdGULORvvfqe23nvOHOHefPmR8mp07xMuZ/5nvPey2T+6++XsXH3vYxdGw/s6pjrPuOMXZ8MCCRRS6OBXRiRuJ6UsbmpgECMkiBGfYd1FedAjPKlxKjZbIZ6ejjTLZyx+emAWqb08fEctU5JoiaGXHcIZ+zWjMMwiFESJFuiAJKo0UHXbaKM3ZsNCdQMhbFpkGyN6gioGUouOO+TTkqPLhWmNBdSS5Qvpd/uOgkqFHLtgIw9nA+pJcqX0k93nV7w3d283d7eoO8SoIw9XgypJco3Ol9KjNIpIZ1icZOuswOJxmbs6VIjSKN8KTUbHcZ1sL8TwRJhzpbDCNQM5RudLyU0EEdHRRpZ/BRvqYw9XwkjkEb5UmpldEjn5KRE1wkwqBikUb6UWhkdUimXD2lsCUeFcrvDoLSjQyKVyjFhAEuIQbmHIA7DwUCkGR0QALUxKi73zkJ/fr7Qpwb6UvKNDst7eVkmWJsYVAxiDL8CcJAGahCjsDvVaiXaoVQgjAeHyUNw/f7+YN/e7ukXIwEJlChOh2/5FBgu/IP4wYgUJKxev6V+fb1pwKGBuLq6oL93ACPLwdC8N5wCPoF4eqxRA4HxAFirVbuB0eVgwPAyS9jd3XXUQCV8caapODWkIHcIMH7+9AijK8YBARBgfcLoinH6m//qVn0BZ7HpJTjINegAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQ0lEQVR4Xu3WzytEURQH8Lm93kbKglLKrzQpiUliY2EjyeTXJBTKlCllFrOabGYhjYRIyUL+1qvvuZ33juM+5s0PIzl1mhc19zPfc968yWT+6++XsXF3vYxdGgns4rDrLuOMXR4PCCRRc0OBnR2UuB8pY1cmAgIxSoIY9RHWUZwDMcqXEqOmBjLU2f5Mp3DGrmUDapnS6+t91DoliRrtc90mnLEbkw7DIEZJkGyJAkiihnpdN4kydmcqJFASCmPTINkaJUG5sbG0KAdKQskF533SSenRSUxKkLG70yG1RPlS+u6uk6B8fqWZdIw9mAmpJcqX0ld3nV7w7e01u7m5Sv9LsUPGHuVCaonyjc6XEqN0SkinUFin64GeVDtk7MncZ5BG+VJKGh3Gtb+3FcFS7JCxp/NhBEpC+UbnSwkNxOFhgUbG3+INY84WwgikUb6UGhkd0jk+3qXrFBhUDNIoX0qNjA6pFIsHNDY5Kn1yQrndYVCro0MipdIRYQBLmQ7KfQniMBwMRCujAwKgJkbF5Z5Z6Le3B3rVQF9KvtFhecvlIsGaxKBiEGP4EYCDNFCDGIXdqVRK0Q6l3BtZbodwmDwE1y8vN/b5+Zo+MRKQQInidPiWbyEdLvdbhfcGKUjY09MV9ePj5SccGohq9Zz+3gaMK/cG8Q8p3htOAa9A3N3WqIHAeACs1SrtxciK39DBgOFllrB6/SJqoPjB2VaMLp0aUpA7BBh//3QknaTSqaGBAAiwH8Xo8uG6htHFkF+B6US9A+vlJtmF4kloAAAAAElFTkSuQmCC",
     "wiki_name": "Book (Plague City)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_(Plague_City)",
     "equipment": null,

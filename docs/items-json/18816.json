@@ -1,7 +1,7 @@
 {
     "id": 18816,
     "name": "Salve amulet(ei)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-05-01",
     "duplicate": true,
     "examine": "Increases melee, ranged and magic damage & accuracy by 20% against the undead.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoUlEQVR4Xu2WTUhUURTHPVKItDUpXAQNaOSijYtpU1kICUW1MhHxIzEzs9RMSI0wYyARS7KvwRbmFy4MURNRom8X0mAkI4OToYsxxJxwMswW/7rncWfmqTOP93RsMz84i2HeOff3znvv3BsRESZMGIJ2hBT1Yp3Nzejt7MBwXy9G372FY/wzxm022EZGcL24GLnp6aEUJFgqK9F4uxbNDQ3osFrR096OVwMvWMA5MYG52Vm4ZqYx7XRi0m6HfWwMn0ZHcfdWDQtmp6VtliCxhChsra9H++NH6O/qwpuhIV7w6+Qkvs/N4c/KCn4tLWHR7ebf31wuzExN4YvDwd0b6O5G68MHXKeiqMhPUBeE522tuJiTjSd1devcoXb89Hjgnp/3Copuihs7mJSkV4jwenAQ+ZmZuJCVpTfZD7Xgxw/vcae6GtFRUXprEr+YJ1JS9CYGgfCyv59vUmdNpTvHk4/gkNmsNzkIhO5nLUgwmfTWVBL3x8frTdSA+KU2UJPQZLEYec4aEC6dyzVSk1BWUGAkMQiEkvP5iI2JMVKXcCY11UhiAIhnz564OKM1CU8b7xlNXgWh6splIy+yP8QT1vfYgkUglP9rrpXjQGKixrWaEG8DLU33eWZEJ7d5Y3tCDkfkTjPH2oUUETH8bpSWGJnIgSDep8TXtvt0nyJ0rNMrJKV8iykiYgMWXREbqnYXdUH4sbDAx4u9Z4cRe7JnjZAIuajY62RXygsLN1NEQvi9vMzHifW6I8N0tIq7UltRwV0Rn3YIZCTE55yAQvuUl/7m1TLuisGhpweCZ3GRZVRC/0RERO46zAKiKxs7EeiCsOPUCIcUkTJSKC8jY6tkBD4hGf4y8hp1TkhRC22Lz1sls+Wohf6zjEQOuE0ddGE2xF+1GT4gSZNEwAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xu2WTUhUURTHvVKItDUpXCQNjJGLWriYNpWFkFBUKxMRPxIzM8vMBlIjzBhIxJLsS6aF+TG4mBCdRJToexZDYiTKMJOhizHEnJjJMFv8657HneaN8+F7zWgLf3AW8968c3/nvPvuvXFxG2ywAUPkiCnywUxGI/pNPRgZ6IftzWvYxz9ifHQUo1YrrlZWojg3N5aCDIbaWrTebISxpQU97e3o6+7Gi8FnJOCcnMTc7CxcM9OYdjrhmJjAxNgYPthsuH2jgQQLc3KiJchIgidub25G98MHsPT24tXwMA342eHA17k5/Fpexo/FRXjcbvr9xeXCzNQUPtnt1L1Bsxmd9+9RHn1FhZ+gIhiednXiXFEhHjU1Bakwcnz3euGen/cJ8m7ywvZlZND9vampq5VieDk0hNL8fJwtKPA9rDQCBd+/e4tb9fVITEhQLsQn5tGsLJlM4L9Wg7/cc4uFilSYU+rOkcyD2K/TKa0kDAzmJx1I02iU5pQe3K3VKq0kAowmtYqcDG0Gg5r3HAGG86eL1eRkqC4rU1NJGBiqzpQiOSlJndDJ7Gw1D4aA0dqzIyVFbZEMj1vvREmIoe7iBdlEVpGT0QorXlv4CIV0v+FKDfakp/+LDIfRNtDRdpfWjMTMLl9sTiuiiN+qo1gpJYnwxe/apSrZiqxSRsBon+Jf2/YTA5LQYZNPSEiJwYQI34B5V/iGKq5FQYbD8G1hgY4XO0+NIPlY3wohHmJQvteJrtSUl8tEoiDDYfi5tETHiWDdEaE5VEddadTrqSv8045iVwJhdM4JKbRLmvTXL1dTV/wXvRjIcBi8Hg/JyIT+iPCI33aABHhXAk8EgZmiCMOW41YKISJkhFBJXt5ayXD+ConwlxFf2BrJcORCm7QlMhkhsUYyHLlQMJl1QL5drLOMhJD4L2TWg98Bh6J6sJ9yaAAAAABJRU5ErkJggg==",
     "wiki_name": "Salve amulet(ei) (Nightmare Zone)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Salve_amulet(ei)#Nightmare_Zone",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 4841,
     "name": "Unfinished potion",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": true,
     "examine": "I need another ingredient to finish this Rogue's Purse potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADa0lEQVR4Xu3WW08TQRQHcPpFNMYHHzSRBw0qCgEjWglIERAKyC1QqVIRaHELKMjdEqQWK9AAlnIpKEWCAQLR6Cc75r/N2cxeit22GB+c5KTbnenub8+ZmW1W1r/fLGQcRv2n3izk63tIk5JNjrHeMhrpeSAHI1b9TRSebqClqccGKO1DpA2PgxgFEIcWs/i2jj6O2VU3xnf0aUONMoW00PRAhQ6FT0A4GPRhpJr8g1XyWHwagTBeRH/f6qOj9e7UUAzCMWeHQQsTtTKIxyYC4XfHUYl+xoboV2xYBpnC4KL81AzCTbUg8akxNvDmkSFoPdCsAuE4SZBFVQYgeHLjuwjCWFfTBWqtOU+1tnPy90SgrWBr5kCcJZzTgiIzuXJUl55VQCijFrQ936aAEKZAPC+0IDy5ESg0kUOVxWeU0hmBdkIONWjDkz4I5wFCYJzd3qDE/WIbFd620o3cArlPC9pdbM8sCIFSiiC320MuVyc5HE66e6+Ucm8W0sVL2ToQsrkffqaAfnx5lSwGTQ0SUbg4g7hkvS8l6u/vp8vZVxKWDGMPVlypgtDiF8YETQRCf0fHc5IkL3m9fZSTc0v5DTKpBR2uvkgVFN+DkKE/gZAdhCRJlJd/RymXFoTxIsjEphi/mBEIoQV1dXVTT4+bPJ5est4vo2vX83UgZCejIEYhcAPsuAza316R4/Pye/rkH6JxTws9qS2R+04FJGYJnwwSMSLIJ7WRq9GmA0VnWxQQdukkMWjxFWIE4tcBxhzEVlWxHQ5QODBM7wbayd1aSfXlRQoK2cFrQ8xQSiDtPOKlnAgUmR2lwJCLvM4aelof/yPH5cJrI2MgRuE8+g931nURWwlSJDhOwdEuGuysJ2ddCVVY8+TxAGGXFkEmUHGQUdlOAu1E5mhtbpLmJ9w06m6mzuZyspcWyOMx574tORUQ9iAT+5AaJJaNQUe7UV18XVugjXkfhXySPLE9jipqrCgia/5V+TdpgbDKTgJhVWHeIDPAHO9t0u5GiKILU7Q881q19DOSIQZpy4bz/P5C7G0uKzgcby75ZQz384TGkhdB2INM70NGZWMQnhjHfGNt8GrksRkBGZVNBKFP/FuCY97N+bWB7GQAhKZ/aqMQMWJoQdgURRCHCVCyTY/kEOfPXwSd1PRIffxv6bXfp/NuURnYnO4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Unfinished potion (Rogue's Purse)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unfinished_potion_(Rogue's_Purse)",
     "equipment": null,

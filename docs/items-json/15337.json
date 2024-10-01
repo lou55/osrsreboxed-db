@@ -1,7 +1,7 @@
 {
     "id": 15337,
     "name": "Spirit shield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-16",
     "duplicate": true,
     "examine": "An ethereal shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4Xs2X7VMaMRCHzX/iTFXe36GARSoFFOkgSpVO22nr5/7/39d7Nl08rnYcNdy5Mzs5cnfJk93fJtzeXqrmZDocCm3yzjOMl+P+UnMyG41eC+RkMZ3Kaj6X76tr+b1evxDMjwPQ89/dMicf+30d6PL8TJazmXxdXibAnvbriwsFeiUM5qRRLstVBDLs9dTPTk8Vbr1YyK/bW/nxZaXR+3a1VNik/7y50TECwJhtr7ZZqUi/1dLIoYdWtSqdel26zaZUCgWplUoK0KpWov6atGtVqUd9AYGS5sEAAI7Ji0dHGxgmBwYQWp4JBGRRecy8tpgsf3AgpVxuKzIGwm9gAgA51cmfu7tHBnKaMtJVKxalcHgo5XxuAwNI3APpx8mnwUAFiyjjGrJ7uvpySVOH2C1N5hYpIhcEaHxyIp8nYy1Xyp29aPThWPupNFt9L4oWLQJG3N659oIOAIM5hWD17xuNaOCaVtNGF2WvF34fdzp6zeT2PA5YNUppMCDSwuofg8LtngHRR1TowwFE8AGAnFbNoNtVYZMyUocD5SeuKxCABmMaAgrRB6gsM6d7CkLlyEAzaIcyJ2roh4j1221tmdhSaWWOkAOJGXM6GBECIF5dRIbVz8djmU8mm3TFK4rFsA0EgjGLl/m//YCiD9uVSRNgiHgHME+Zk/MobUTC0gMMbQYwmD/HDIiocF3J5/VMSxnIqbaIBADxNFGZKcNgTqsPGCA0OtE1MJxpKQM5rSpLj/n/C2Dn5o+TOFAGEGb+8+XNwJhu3gSMfXVkDORFyhlGqqioh00vVRg/IdVkXxWc8u/299MGwR4OTzSTPFiTT+/YnLT//rliJ84IIm4+OqQqY5C4ZR4VtXscgTZPeLHdLAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrUlEQVR4Xs2X63ISQRCFM2+SKpNwv4NAJBgEEoJFSDDBUkvNb9//f7tfjw3LiDdYNp6qrl12l5lvuk/vwNFRqnIy7veFY3jnH8SX47GrnEwGgxVQ9fh4l7GczMZjWUyn8nFxL1+Xyx3B/DgAGczOQK+7XR3o9vpK5pOJvJ/fBmB/jvubGwXaEwY5qRWLcheB9DsdjavLS4Vbzmby5fFRPr1baPY+3M0VNozPDw86RgIwps3V1ksl6TYamjn80CiXpVWtSrtel1IuJ5VCQQEa5VJ0vSLNSlmq0TUDCkffSbYyP6AHAwA4Js+fna1gmBwYQDjyTEJAlpVt8t5isuzJiRQymY3MGAifgUkAyKlPvj09bYFyWjLKVcnnJXd6KsVsZgUDSDwS8o+TN72eGhZTxj1k93T1xYKWDrNbmSwsU2Ruz+wgJ8OLC3k7Gmq70u68iwavzvU6nWar70TZ4oiBMbcPzr2hE8gOcgrB6l/WatHAFe2mlS+K3i98Pm+19JzJ7XkCsHJU0gSyg3xZWP02KMLuGRDXyArXCAAxfAJATrum126rsSkZpSOA8hNXFQhAgzEPAYXp4521NxDvFIzKloFn8A5tTtbwDxnrNpt6ZGIrpbU5Rk7IzMjpYGQIgHh3kRlWPx0OZToarcoV7ygWw2sgoeyY1hA2qB943fb4w97KlAkwTHwAGK9NkLicXEdlIxNWHmA4Hgzm9/L7mAGRFc5L2azuaQn55m/l1FtkAoB4mejMZ8kO3QcMEJqd6BwY9rTUs0NXWXkstjVA+M0DyW8ncaA4ROow/Nz4FUz49IG19s1/AWP/OrYBhU8fUN6k7GGUio6yl17K2fET0k32r4Jd/oVOHm4jB9d688Qz4caaIghy0vzx44o3cQiRMgzy2aFUIUj4ZIp6ltL8pO9e25Ttm9uHtAAAAABJRU5ErkJggg==",
     "wiki_name": "Spirit shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spirit_shield",
     "equipment": null,

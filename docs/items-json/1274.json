@@ -1,7 +1,7 @@
 {
     "id": 1274,
     "name": "Mithril pickaxe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-05-27",
     "duplicate": true,
     "examine": "Used for mining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xu3V30sVQRTA8b3vgQ/10pW6D0LBDQwv+aQ99NRLUGE/pKLIsCgiiKIQKTJF7AeCmEaFgiEmUkYQFUVRf9nEd5aznJ07u+7c3aKHBg47d3b2zmfP/Ngo+vdLzfjDd/+Pl5p5Mj5kHo0dtzF995iZun3UhiBW5y6aldkLZvnpeQ/KfYnS8BgkKEASLmbp8TnzfPpMamB+c8+NNCoIWTOz9060obgCkRDQwtSwmXtwyvbl6gPRX6O/b4ybr2u3OkMJiLpkR0AvZ85akPTNAvHct/Ux83NzwvzanLSgIAx/Km8tIAb1geYfnk7enLoPtDY/kgJRLwiqpaYBhCxufrsgWT+N7ZFp7oxs3QfaWBytDiRZ0mtAR0/PoGk2D5u+viH7m6y5oHcvLicgIggk60KDaK/X93mD7OzZe8gMDIxkgt6/upIGvblTDpSVoR3bIlPvikFkqrf3SHJPgz4sXa0WRDCVrCFZRzZrXWlQo9Fv40D/cAKj76eV6wnox9v7RTGUNEijeFMB6ewQOmvd3fvtVO7a3TKDB0dt2+fXNzoFUeI/ZgvngTSG+/TTRwBBtlqtk7beISjetmQoC+TLjoB4jqmVtSOwL6s3E1DAoRhveR+I0CAXkwVi/fBMZSBBEQzAibsVSO+uSkE6S1xlCrIwWaD1Z5cSEKd0QQwl3mE+kHwOQkFkh8+GzlBHIHcd0e5iaM8DyXTx2agMJCgfSB+a1HUmNYhTWoMCUDHIN20axJX7RUBsgo/L1xIQZ1DAOZQG6WkTDB9S6rS70+WCyE5pELssD8SVwWjzgeRLL9NVGcidNtq5zwAM6C5oOat4jr4CYstrEGdQ8DnkmzYZBBD1PJBeP5WAfNOmQdzzLWhCPhsyXSVBFDpuHe76kXBBHIoaJBEAKlrakRJ6/fxFUF5pR7bH/1Ku/AbVtBdBZsJ9MQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xs2Vy2sUQRDGZ+9CDnpxg24goLBCNIs5JR48eRFU4iOoKEaiKCKIooSg+AjBF4EQH6gkEAkxBI0IoqIo+peVfD18szVlzTiTHSUFH9PT3UP9pqq6OorWv9XEl7f+z60mjyaG5cH4oaCpGwdl8tqBIEIszpyRhenTMv/4lANlf6Jj8BiIUACiLMzcw5PyfOp4yjHesWaVhioFWZPpm4f/gMITIBSBnk6OyMzto2Evnh4Q9mvo7ysT8nXp6tqgCIQxo0Ogl/dPBCDuzQLCd9+Wx+Xn6h35tXovAMHHrp6eIOvdWBx2/jWB4NQDmr17LPlzjD2gpdnRFBDGBLLejdVSaQAEixvvFoj109gYSXNzFMYe0MqzseqAGCVdA1q9vUPSbO6T/v7h8I6oWaB3L84lQFApINaFBsJ8vb7DFaKzbfteGRwczQR6/+p8GujN9c6AsiK0aUMk9a4YCJHq69ufrGmgD3MXqgWCkErUEOsoRK0rDdRoDATtHhhJwLD308KlBOjH21sJTGkgDYU/JZCODqSj1t29M6Ryy9aWDO0ZC3OfX192gaz3DGsf4TwgDYN17NMtAEK0Wq0jYbxGoPjYIkJZQF50CITvkFrWDsG+LF5JgHRTtN6NxUfeA4I0kIXJAkL94JvKgAgFwQE67t+A9OmqFEhHCU+mIAsmC2j5ydkECF2aMIWAcMI8IF4HZYEQHVwbOkIFowNrA9k6wryFwXweENOFa6MyIEJ5QLppYqwjqYHQpTUQoax3x2IgL20aCE+sFwHCIfg4fzEBQg8q0YfSQDpthMFFijHmbbosEKLTMRBOWR4QnnCGOQ+INz3TVRmQTRvmsQ4HcGgLmr0K32EvgXDkNRB6UOk+5KWNTgCEcR6Qrp9KgLy0aSCseQUN8dpgujoEgrVv6jzZ+qEsEJqiBqJKAEUR23qeLKCWrp9KgIqahSwCS7X3/iezkJ7sN+vafgMfx2HNXash7AAAAABJRU5ErkJggg==",
     "wiki_name": "Mithril pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_pickaxe",
     "equipment": null,

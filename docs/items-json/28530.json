@@ -1,7 +1,7 @@
 {
     "id": 28530,
     "name": "Sigil of woodcraft",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-08-23",
     "duplicate": true,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xu3W60tUQRjH8ZbM8kIS3rAtJWWTTJSNzCQzQeyVUFFUVBQVFUUEURQiRReRbghiFyoUDDGRMoIuUhQFvexP6H+Z+M7ynJ4zO8qe3TV60cCPc/acObufnWdmdpcs+fdbzPjju7/oLWbuD+w1d/v32Axd3W0GL++yEcTkyHEzMXzMjD846kG5XyJneAokKEASFzN274h5MnQo9MG85p6bMCoSMmaGr+1LQ3EEIhHQo8GDZuTGftuXow9Ef43+MjNgPk1dyg4lIM5ldAT07M5hC5K+84F47vN0v/k2e9N8n71tQZEwvKl8awHxoT7Q6K0DAYhzH2hq9EQIxHmGoFioDHyQTG5euyBdBjIfaObxqfyBZJS4JiABFM9N2tTX15qamuoQToNePz0dgEgkkMwLF8Q3B6QhOoCqqipMWdlKU1paHEK9eX4mDHp5JXcQ17nf07PdlP76kQYia+OrvaC3Y2fzCyKUUkBdXVstyubne5tEYp0FySgVFS23/Snxh4nzAejrq+uZYmhhkEZxb2fvDi+otXWjaWxsMHV1cVNevsqOkAZ9fHEhWxDtz4pxQW1trWZTssWCOju3WBDXADU1rQ8mtwuam7yYLSi1BzFCPlB7e9ImmWwIEIRygWGEKJkGsRA0KMKmmFryPhCRfaelpd4GUHPzBotJJOIByi1ZXkGCItynVIR5JBgQlI/wetFAepRk/lCujo7Nprt7mz0HRckolawwF0QExC6dIYaWWmEuiOsFBUtNYeEyW6a+vl47SjLBQehoEM/wLO8hI5QVSFAaU1KywlRWlAUjQYkAsaoI1zlqEM9oVE4gwbggsiZeGawugVA2e6ytDvrxnAuKgEqBdNlkDsgbg9KwhSLPaBB7UIR9KAxyyyYjpSNAHR+EMIcig1hlLkgmdrZ5N34uWGVZg9zVxnV+AvjnxwYp/yYJm6bsVTwnfdl/ph+eDIHYgyLvQ76yaRDnC4EAS9+8gHxl0yDu6b8lGkQ/QIxOHkC09Dngi8bouCD+S2uQJAIo05aOlOj58xdBC7V0ZHr+t9zab+HqkaL10V5lAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADO0lEQVR4Xs3W/UtTURgH8I3MUkcjfMNWapMlmWwtMpPMBLGfhIqkoqKoqCgiiKIQKXoR6Q1B7IUKBWOYSBmClRRFQT/2J/S/PPE947l77rOzsbtdwwNfdnfvud7PznPO8QYCK78FyR7b9WVvQXoyfJgeDR0yGb11kEZuHDBhRGr8DE2Pnaapp6csKP0jSoanQYwCiKMxk49P0svR464H4zuu6bhRnpBBGrs9mIXCJyAcBj0fOUbjd4+Yvvi0gdBfor/PDdPXmevFoRiEYx4dBr1+eMKAuG8uEO77NjtEP+fv0a/5BwaEZ2xvbjbRT1ctPez8qxmEh9pAE/ePOiAc20AzE2ddIBwzSD9dtaCrDHgQT2581yBZBiQXaO7Fef9APEo4xyAGVC6lTKLRRmpoqHfhJOjDqwsOCPEE4nmhQfjlAEmIDEB1dTUUDq+jUKjShfr45qIb9O5m6SCcx/W+vr0U+vs7C4RsimywghYmL/kLQlBKBvX07DYokz+fTGKxzQbEo1RRscb0R4k/T19xQD/e33EwnkEShWv7+/dZQYnENmptbaGmpghVV683IyRBX95etYL003O0zIrRoI6OBO1Ixg2ou3uXAeEcQG1tW5zJrUFLqWvFgtJ7EEbIBursTJokky0OAkG5gMEIoWQShIUgQXJT1E9XLb3kbSCE9514PGoCUHv7VoOJxSIOSpfMVxCjEFxHqRDMI8YAgfIh+L5sIDlKPH9Qrq6undTbu8ccA4WSoVS8wjQIYRB2acYUBMIK0yCcLytbReXlq02ZBgb6zSjxBAdCRoJwD+7F3+ARKnB00DIgRklMVdVaqq0JOyOBEgGEVYXgPD4lCPdIVEkgxmgQsjFS66wuhqBs5rOx3umH+zSIUfrplpYGybLxHOA/DJSE5QvfI0HYgzzsQ26QLhuPlAwDZWwQBHPIMwirTIN4YhebxanLziorGqRXG87jXwDe/LBB8tskgk2T9yrcx32x/8w+O+cCYQ/yvA/ZyiZBOM4HApj7+gKylU2CcE2+lkgQ+gGE0fEBhJY9B2yRGBkNwru0BHE8gAIB3tbzRQNl5PzxBVRo08hCsJxM3//UNNIWfc+Kbv8AK/3cLiBL4IoAAAAASUVORK5CYII=",
     "wiki_name": "Sigil of woodcraft (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_woodcraft#Un-attuned",
     "equipment": null,

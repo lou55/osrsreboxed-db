@@ -1,7 +1,7 @@
 {
     "id": 17051,
     "name": "Gas mask",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-08-27",
     "duplicate": true,
     "examine": "Stops me from breathing nasty stuff!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4Xu2W30vCUBzFN8aQXnopghgkFQUlZAlloaZhy8ww0EKkhH5YL1lRUEIPPUT/9zfPXdd7vc5NYvNFDxy2Xa+7n53vl7tp2kTjKZ3UkRELAMKz09rf+UglABJLBiVXDUqvGZSLOcaYmBO6dFq3NIpHnYVlGDtuUHHLOeIac0KG0ik6o9HKnDYQprztGOccLsS0dAazPt9JyHKHqSRNutgzKb1sMCcXhUOA0rswiQWxkAwDiFwnObsDW4wJYzwUIBmGpyAbMHB5o9cADBjIKZcXjAwEgKlIhCqbJjNSChwI5fKC4UCAwRFA3KEAoVx+QHJKOAcMShYKEBJCyVQA1TIQHkBu8ICgxI7MU5IXdbP8G58fGAx2XHUTVJNQraaEZAMAcofhe47cwG5gKpCAkj20HBiUSt2R+W5cz5jUyJoMyg1MBcqlUnRWKNDVeZUeb64palnDQgkYpOMFgyMHGgQGoFPbputajZ7ubukom6XjgxydHOaZfaAGw/BScZibvNktnZexaPPykr7eXhkYN8bzmYwXUC8MSqXCqOlgXO0d2Ujitl6ndqvVA4NxOL2z4w006LNChUE6uO5vUr3nDY9+eblv0vfHO+sfGWZ/d9cLhqt/ATkdDsOaufuto0r896HRoM/nZwaDEqF/YJ9S+ckd0v+GOlVLJfppt1kiHAb2KdV/NOzNnAdAItxDlipsqSlPNNEY6hdnxl02i9ChMgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xu2WWUvDQBSFE0IQX3xRBClYFxSs4AZaxdZWaq0bCi5I0YLW5cUNBS344IP4v689E29nMk2mVRNf7IFDkmky8/Xc22ksq6P/KZv0kT8WAKT7eqyv8z+VBJgbcSg97lBmwqH8pGeMyXtil02phEXTSW9hFaY47dDmrHfENe6JGcqmZK9FY/1WKMzuvGecM1yMadkCJjVQTygRDLOfduloyaXMqCOcHpaOAcpuwMwNyoVUGEDk68kV67Cbk9IYx/MzQ0NRQtk+GE5BNWDg3Sm/ARgxkFcuE4wKBIDuri7an3GFkVLkQCiXCYaBAIMjgNixAKFcrYDUlHAOGJQsFiAkhJLpALpVIHwBtcEj+qXJHZlTUhcNsvoZ388J/TIlW+y4+iaoJ6FbTwnJRlCyYBjec9QGDgLTgRjK77blwaBU+o7Mu3E561Il5wqoIDAdKL+8THulEp0eHtDN+RklE4l2oSQM0jHB4MhAYWAA2ikW6ez4mO4uqrSey9HGap621grCLaDCYbhUDHNecBulMxmLXp6c0NvTowBjY7yQzZp6yw+DUukwejoY13tHNZKolstUu731wWAcziwsmIHCXit0GKSD6+YmtX3/8OiXh6tLen95Fv2jwqwsLjZgQoCg5gXUdBhGNPPXuw5PKCeWz15XKvR6fy9gUCL0D6yWygDjybSACmmakJ872N6mj1pNJMIwcItStVYQZBiMX94XQCLsNkv1fbU7WVDKkcP8RM0pd9RRvPoEpLSZbCzXoZQAAAAASUVORK5CYII=",
     "wiki_name": "Gas mask",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gas_mask",
     "equipment": null,

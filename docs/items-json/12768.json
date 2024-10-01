@@ -1,7 +1,7 @@
 {
     "id": 12768,
     "name": "Dark bow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-09-18",
     "duplicate": false,
     "examine": "A bow from a darker dimension, painted white.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4UlEQVR4Xu2XS0sCURTH5y5aKJEEbWxRq1ZFRRAYNEGEGCnVZPlILDMpKsrSWoQlEqHQSpSgL9BjH+6kTe7aVRB9mn9zx9e1mXFT8wj6wWGYcwbuj+N9yXH//AiC7xkDIdjecsNAKTpwa/R3cipCSrlfhSAcdmJnZx49Fq4RA7a6UGskEyvMu2ZUB+jq4BrRa7NgyuGAx+lELpVCOnGEk91dnKVC0reRdZeWUgQLCxPwuB0ILc/IurK6JGDNt4JoMIhC4RL5/IXUVQ2FKE2BppS8Fo/HkM2eIhCY1lqIRUmqWYtE/OJPF1epa0Z7qetcTqWmKeIK9CnNFYKr83OFvC4oSRHsb0ZRKZfNIiWuSpcLjw/3RglR5FL8kA0bLnstZ4iYuMIC7IZYlfp4fcXn+xsjphSaIZdig8q9VJ7xVCrhYF+QjqRYbE5vqdZaJpNEsZjF3e2NXl2itJdKp4+kY+bk2Ie9vUU9ukQhiIZmVQYShf1+6VDWqUN11KQIZnheuiHIa5qjLkU3UHleF5SkCMZHR4wSohDEwuzkJRgbHq696zqPWFgpIt08B+1d0h2d7kuGS/V1W9Frrd7TDZKpU5UyiQyFQBAmG/9iTCNEn4eHXnMJLXt5MwhRmsu/Nf9H+AISnEutFGkSCwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBElEQVR4Xu2XTUsCQRjHdw4dlEiCLnaoLp2KiiAwyCBCjIrKXtQSy0yKitLeDmFJRCh0kiLoC/Ryj27RpW7dKog+zT9nttHZXYWgZsdDP3hYZp6F+fHM7Myspv3zKwjMPQohWFkegUIpOrAxmms19uxqaTFJSZckiEZ9WF0dQ4NDK0arSxcyx872jNCWhj5AXY1WjEaXA/0eD0Z9PuTSaWS2t7C3toaDdIS9G1vwy5QiGB/vxeiIB5HpQUtV5iYDmA/OID47i7OzE+Tzx6yqNGed0j+jJMCl6GD6gKVcMplANruPcHhAtpCmiQKlSllzsVioMHVJ+UJGrFJi7iKXs1uIUvgCg/paMfefHh6qEKKUkyLYWIrj+eGhjKwtmKUKX6Xfj7vbG1VVolilvO0uLPrd332KKhULixuiLvXx+orP9zdBrFxIwyolBpV7eX7C4/09NjcC7EhKJIbtleJ7FN+njo52cH6exfXVpUFW8lozV8qYy2S22DGztxvE+vqEHVWiEMQjQxUGKgiHQuxQFiskuUqUSlIEg14vuyHYKMOpLEU3UC5kzEmnnBRBT1enKiEKQSIqLl6C7o6O7zYP2xGlCLt5trnr2B2d7kvKpZrqnWh06vd0PnVKp69KZCgEgUBf8S+GC5nfshFdiD5TqanqEpqe8laDEIVLKF8/JbjET2S+AMhWfdqB3kcdAAAAAElFTkSuQmCC",
     "wiki_name": "Dark bow (White)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dark_bow#White",
     "equipment": {

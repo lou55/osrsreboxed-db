@@ -1,7 +1,7 @@
 {
     "id": 16305,
     "name": "Bronze wire",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-01-27",
     "duplicate": true,
     "examine": "Useful for Crafting items.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xu2XW0sDMRCFG5YiiOiDgiBY0aJilXpBreKtolWrUq9V660iIvj/f8DImXBiXFv1IakvHjgku5TO15npTjaT+VcUGWnvjstIJZ/Iei6R0rBdF4YSmR1MpDCQ6TSckfNCVqrjibo+k9Xr2mSikOVRC0nADkAZhWgUs7oCBGCAIiizB6iPjEWT0aCvDw/OL3d3bk9AGFDI0nh/VCijAPRzo+Hs34eRKZQPUCN9fm8FlXEAT9fX8nhV15X2AZEx9hRKN9STkd6uoNmyMAx+f3nhDDAa14QjFPopQumMy8rt+ZncnJ7q6pv3CMX+Yj8FBDIuAwhYr9WcAYH14uhIjT0+w3IC6q3ZVKigQPjVCISgZ9WqA+D1yf6+uhUUGjxg/xhXDgRjYPq4UpHD3R052C7rnlAsH4DQR4FgIONgGNyH2Nvakp2NDV0JhYwxi+yhQEBG048vRyAE9CHKa2uyubKixh73AUrjh1iQQDAwYVpBrC8vy+rioppQMD4H8EAgkJ1ZHJycURygACjNz8vS3KwsFIu6JxgMUPRSIKDPMD4QYGAePXQ0TE+rAUYjW8FgMMk5zQnmZyoNhwfeZD4vhYkJ9czUlJYtOFAarB0csoSxMJbLqZGhQDDQ90A+FM0sYaJHAIJ+D8WTIif6QHewp3Fa30O1A4pwxPDVGirdR2mgSDDUz/86PgYil8yXhUrD+G8aPO9ELFdadoyks+O/+gQ+gP1WFswH4lMbx9Q/AKIs2Ff/K77eAW1HpK1hfvl5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4Xu2Xe0sbQRTFd1hCoUj7R4WC0NQ2qBglarA+8JViUxuV1Fe0qfVBKQW//we4cu5wprdDoiWdXSj0wmFml2XuL2du9s5m2f8oJJwMV+nhpF3LZbOay+orPzYncll4mUt9PCsbzslJvSKdqVzVm6/odXcmV8jWGw9JwBKgnEL0GxUdAQIwQBGU7gHql2OFhdOkP6+ugn5cXoY5ASFAwaWpF4VCOQWgvvf7QfY+BKewfYB6/dzWVtJwAeD24kKuz3s6UhYQjrGmsHUTY5k8e5LULQ/D5N/OToMARuGacIRCPXHrFicnVfHqI4QLrnw9OZYvR0c6WvEeoVhfrCcCxSuPEC44gIS9bjcIEBhPDw5UmOMZbieg7m5uFCopEH41EiHpcacTAHj9eW9PNQgKBc76SQDkwnYgGRNTh+227H/YlU/vWzonFLcPQKijhPXjAgyTW4iPOzuyu7WlI6HgGF1kDSVzB/ZjcSRCQgvR2tiQ7bU1Fea4D1AKP8T/zZO44xcizCCIzZUVWV9eVhEKwnMAtyB/DWMbJ3sUGygAVpeW5N3igjQbDZ0TDAIoaindNhkYCwQYiEcPbQ1zcyqAUXAr2Tahk7ObE8w6FcPhhTdTq0l9elo1Pzur25bMHQLFYMPg4BLawttqVQWHErmDeBjIQlF0CR09BopXHzH+HIonRXb08afJGyjjYahhQAUcMWwMhorrKAYqyCHG4/86vgbiLYtXShgeKoaxXxo87yTs6I+FbyOxO/bTxx7ASgDKMp/Eg1kgvrVxTC3Jnd/DgsUqzZ1BweSx4uf++bgHZRfclt7ljMcAAAAASUVORK5CYII=",
     "wiki_name": "Bronze wire",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_wire",
     "equipment": null,

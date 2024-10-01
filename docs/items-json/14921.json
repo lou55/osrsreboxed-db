@@ -1,7 +1,7 @@
 {
     "id": 14921,
     "name": "Toy soldier",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "Nice bit of crafting!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xu2Wy2sTURjFewlhmGFICIaEdDChKa2gq7rQjYtuXHQjItSFIAhSHylFiq1UCVprqUpaowlWo1a7KLZSkKa1vooIXYj4oOiuf83xnju9yVh0ZTLjoh8cPuYR5pfznTtzW1p26p9L4HcFWgKPp6YwUywiFrMRiZhBQglk0kk8Ld3DbLmMeDwaJJCA48QV0MrCPOYeTCsguhQAkEAqFasBsS/MzKhz/wWQhuI5uhQIkIbwAlHFMRMDp8N+Q7n5yWZTSgRaW7TkSjMxee4MLh7v3fYa8OWV4D6go8NRQO8eTuPF6NXa2JilQ0YIB6WGcgbGRwy/nBPKpS/VJQVE5w5LCKp7S3SuMilHafsCxBL4sfYeX1eWccQMKfVsiWC8fn+XiXzU8A/oUaGAO9dHMXZpGMO5HI6Z4RocNRc3UYgZ6GuuS/WwVqQDdKEUc6UBe62wgvuYtNQ9Q5GmuSTHcMtU+ShNyC4fNht3O7UdsHtfCPuzIYzLsZ20tEsNBRNqqa9X3X/OfCwmLMxLKIojImBPV0hdozODUgw2xVU3eLbhbgk1CgIwH+xVCUXRJTpUlO7clNfozGjU7SMSjCuyPNDfeKDPKRuriXo+1iQgRTgNxZGx8x4CEmqpcBvP81caDcQS+CShCKDzweOXnvFxlDzOtk8g3XYZrU5fMzLkLaFcmq/I0V0zcP5UGG+lS+spC99abezZ+wRt7TeU0plhJFMnYNtdMM2GZ8hbcnxvpDPPLAXFsXGcPyVQe+cknPQFdHQWVY8njqqNXJOBWAIbH2y8LpdU2DckzKZjI9OWd12JHICzu7/2rfNpdynwffUVlqcKuNufUw/0AvDjqz/AdSAfoLzy7gB4rDdzXkgfoHS5QBpK54ZQBApo2+sCUAQimN4CeyG3/6rJ5W57tVvaHZ8y9LeqjyogV/5U3sDvVHPqF2LU/QaxivQ5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xu2Wz0sUYRzGfVmWZYZhZWlR1qFVVzSoS3aoSwcvHbxEBHYIgiDsx4qEpKEhZSZW7G5bu2RZWR4kDSH8kf2SCDxE9AOpW3/N0/u847sz7qWDszMe+sLDy8wsM599vs87862r+187LoHtCrUEnhYKmCkWkUhYiMeNMKEEmtONeF56gNlyGclkfQXoYEtL0FACtp1UQKsL85h7NKWA6FIIQAKpVKICxHVhZkad2xVAGorn6FIoQBrCC0QVxw30n4sGHWwnP5lMSolA64um3GkG8hfP48qpnqrXQCCvBOcB7e22AvrweAqvxq5X2sYsHY1FcERqMBvDxHCs9s45ORHKpW/LSwqIzh2TEFTXlujcdF620nKAAsiXwK/1j/i+uoLjRkSpe0sE4/WHewyM1seCA3qSy+HezTGMXx3CUDaLk0a0AkfNJQ3kEjH0brlUfQefyg3rtHSALpQSjjRgjxlVcJ8bTfWbwXjNXJJtuGOofJQm5SofNpt0VqoasOtABIcyEUzItp0xtUu+OiXUVt9Ydv4587HYYGJeQlFsEQG7OyPqGp0ZkGKwKe66gQuOW9V33kEJ1QoCMB9clyUURZfoUFG6c1teozNj9c46LMG4I8v9fX63T+BrysJag5uPdQlIEU5DsWVc+RsCEmopdxcvR6/5DcQS+CKhCKDzwePXnvaxlTzOtE0i3TqCJru3kiHC+AzEEsql+WnZuhsxXDobxXvp0kbKxI8mC/v2P0Nr2y2ldPMQGlOnYVmdMAzfM+Qt2b530pkXpoJi29jO3xKorSMPO30Z7R1FtSYbTqhBTgPVwCFdApufLLwtl1TYNyXMH9tCc+uo40r8MOy9fZVvXUDTpcDPtTdYKeRwvy+rHugF4MdXf4Dd+btmbdO1feTwTgA81sOcF7LmUO7ucYA0lM4NoQgU0tjrAFAEIpgegb2QAQKxnLFXu6Xd0W2t0fvoX+W2yutKSDC63LCHDOLWLnDF3/oLYWglObFsKqkAAAAASUVORK5CYII=",
     "wiki_name": "Toy soldier (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Toy_soldier#Normal",
     "equipment": null,

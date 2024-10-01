@@ -1,7 +1,7 @@
 {
     "id": 3695,
     "name": "Pet rock",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": false,
     "examine": "The lowest maintenance pet you will ever have.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXElEQVR4Xu2V60rDQBCFO/+FUixKCFpssRAroZZqGyheUBFB8P2fZuUknHWzuQnZjQp74IOQlM7HzGQzGoWEhPzpiKoyaMrF02SuuVktcgaUEl2UbNOlZrdONANIico2V6WiAPfI4fa6hEcpUS+HjXrK1jkPu1QXxTXBM/yO4p6ERBcj74936u1+mxcHuMY9ilLI0z6JFqFAHWbnPAoVozJBN2zscZpCq+XMpZRUijdhdskWShZnrqQKIexHGxQCHoWkUrgNSnGPbKH5edRXStTH876VnwjhBKdQHE37SHUL2XJdQj1kEFGfr1kFW6RLCCO7vIj7dgepF2rCFMJS49vG7sziUxWdTIYRYoewQ3jteTBCyGF3mGYpe2SmEMfF7kyPx36F7N2pGxe6g0XGqCbjI1dCyLdUnYgthO5gdzCqQoI4jfnH5QOTnw6MC93xKNGWsuAvSYSE/J98AfzFKqxicVc0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeUlEQVR4Xu2WbUvDMBSFl+/CGI5JKbq54aBOSh3TWRhTURFB8P//mshpuDG5TVtZsuiHHjhQupf7cM5ttsGgV69e/1pC1h1V9vA8m2vfrhaVI0IJPZS8yZfa2yLTjgAlZLm+tobCuEfe3d1YPiKUkK+7tXwui8qP21wPxTUZr+F9BI7PFbNZaCihh5E/nu7l+35TDYdxjXsESkBH2iehQQjAZTM5DhQwJVWVaaTBzes0gVbLaciURG14k82UOFC2OA8FpYCwH20mILgNyLM6URvcZoKiPeJA84vENyUhP18eWv0bIJzgBJQmYx+obiAO1wVEtR1YnZBfb2XNHKQLCJVdXaY6nQNhIDdQk00gLDV+2yidaXomk8koDhAlhB3CY08HI4Bc6XgAQc1QvDITiOqidManQ990SG4gvjuuupAOFhlVjYYnoYCgHygXCAdCOtgdVKUeceUAdZmy/yXy84fqQjouiMAwSvYX24DRINrEB/8JRK9eDfoGPy9XHe1rAt0AAAAASUVORK5CYII=",
     "wiki_name": "Pet rock",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pet_rock",
     "equipment": {

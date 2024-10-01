@@ -1,7 +1,7 @@
 {
     "id": 1060,
     "name": "Leather gloves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "These will keep my hands warm!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC10lEQVR4Xu3W/2tPURzH8X1aS5+1lPwgKYofpPbDfqD2A0mR+AFDLEQI8ZuI1iJf1vKt1Zovoa3UmrWYlB9ExF929Lyn1937nM/ZfM7uJT849erez73nfs7jnm+fT0fHv18aLp3U/T9eGu7x8BH3cGigyOjNQ27k+sEiQkyPn3Vvxs64qSenE6j4JSrDPUgoQEqMmXx0yr0YPRE0zGfuxQlRWciGG7t1tAXFEYgi0LORQTd+51hRl2MKRH2L/jY37L7MXFseSiDO1TsCvXpwsgCp7mIgnvs6O+R+zN91P+fvF6AsDF+qtxaIRlOgiXvHSxDnKdDMxLkAxHmboEYwDDSkyc3nGETjIDS8nGtYLGju+YX6QOolrqVA6knC8wP7e9zg4ZUB7P3LiyWIZIE0L2IQjccgO6F5ds/Obrdvd3eBUrj+4fWlEPT2RnUQ1wEJpZ5UHZ7dtb1Zog7s7SmOhHu1gggAC4onNM/u6G8GKI58JtwH8/3d7XYxlBBkUVq+McjOH0A2FqMeygRR/GSksaVAqQndv7XptvWtKCNYBZDfg+ihGMQ9C4ontDB9vT69WxZQFpSxKfolH4PUY3YppwJA2bypq4hQtYG4ZieqJmscC1u/rtNt3NBVBlQtIMI1up+3ZEiE40hDXKMOw0o4X72qs0ApoARil24TQ/ErLAap69X9IDRHOGqOANIzoMjaNR5le2hZIKE0BDaauBZpQaxG3+hCPk9frQcUv7EiEL3HuYbO/tKzElmRHycvB6AMlAfFw2Z/wRVQAqmXtAFaEH87Pk1dKUHsQRn7UAiyq41raoCjUFreGjbbQ/ROZRCr7HcgGlOvCcU5exb17HDVBoqHjesWZHdoYQRSXUCzT88HIPag7H0oNWwWxLn9DWN1WZCdP7WAUsNmQdyzf0ssiHp2/lQEUcLVtFgsxiYG8V/agpQMULulFanY+fMXQUuVVmRr/pdq5RdJSdVyJrneaAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xs3W3YtNURzG8XOaJp1pUnIhKSYupM7FuaDmgqRIXGAQEyKEuBPRNJGXafLW1DReQjOlpjFNjJQLEfGXLX337tnnt3/WGWfbm2bV035bu/XZ6+2cWm35l3qIJ/b8n5d6eDx6JDwcGUoyfvNQGLt+MIkQs5Nnw5uJM2HmyekIyn9EaXgKEgqQ4jHTj06FF+Mncg1zzTOfPKoQsh4mbh39DcURiCLQs7HhMHnnWFKXYwxEfYv+tjAavsxd+zuUQJyrdwR69eBkAlLdTiDe+zo/En4s3g0/F+8nINpoDQwk8a27kna7vlogGo2Bpu4dz0Ccx0BzU+dyIM4F8q27Us8NAw1pcnPtQTQOQsPLuYbFghaeX6gOpF7iXgykniS8P7S/PwwfXpmDvX95MQORQiDNCw+icQ+yE5p39+zsC/t29yUohfsfXl/Kg97eKA/iPiCh1JOqw7u7tjcy1IG9/cmR8KxSEAFgQX5C8+6OwUYOxZFrwnMw39/dzjCFQRal5etBdv4AsrEY9ZAF+dY7lHQy0thSoNiEHtzaCNtaK7IIVgKU7kH0kAfxzIL8hBam1UzT3NJGWZDdFH3rrqRL3oPUY3YpxwJA2bypN4lQlYG4ZyeqJquPha1f1xM2bujNAqoSEElebKZfyZAIx5GGuEcdhpVwvnpVT4JSQAnELi1MVyBWjgep69X9IDRHOGqOANI7oMjaNSnK9lCXvUNpg4TSENho4lqkBbEaubb5PHu1GpD/YkUgeo9zDZ39pWclsiI/Tl/OgYTyrUdKCvLDZn/BFVACqZe0AVoQfzs+zVzJQOxBBfahPMiuNu6pAY5CaXlr2GwP0TulQayyP4FoTL0mFOfsWdSzw1UZyA8b9y3I7tDCCKS6gOafns+B2IMK70OxYbMgzu1vGKvLguz8qQQUGzYL4pn9W2JB1LPzpySIkl9NnWIxNh7Ef2kLUgqAajVt60vFA23s/KkE1G3xyG6wSrvufyoeGYt/Z1mXX5NNIA1bGsBjAAAAAElFTkSuQmCC",
     "wiki_name": "Leather gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leather_gloves",
     "equipment": null,

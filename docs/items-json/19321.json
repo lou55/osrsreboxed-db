@@ -1,7 +1,7 @@
 {
     "id": 19321,
     "name": "Attack potion(2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "2 doses of Attack potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xt3W20vTYRgHcN+rcHhINEWnMzUVz6d05pQMD3lIbVqe0jSXczadZ+csjELIKEMxoZC6SDTBmEvpKB0MSUekFV1EF9FFdNX/8G3vO/dzm9bV9vuBD3xv9/vwPM/7MBeXvVEEthG0CJprwnC6WIK8TH8kx3oJjSKYncjE9JiMpet8FM7IQ4REEQ5z70Y6NOciUV0aLBTIvDMW0NSIFOqzEWx8AuwTQUlpBeTyKq47k8OpUNWFo7wgCGlpMmTIjvGJIqitbdiREyUVyMsvwdHsfCQmpvILalaqWJTKVi5FxXLk5BYhNTUD4RFR/II6u3q4aDSdUKs1KCgsw5GMbETHJEAstuwSb0UwM/MQBsMiFhYM0OsNbFxJSWlCLDUtgiaFElrtAAYHL7LQcaWkpAuBoUXQ3t4BnU63lUFufwQDaQd0NqEjk0qzEBkZzTeKQKVSo79faxO61PT+xMYl8Q+ir6u3t49LdU09O5b0Bm0vNi9F2M3p6em1Sh87jOUVVWyP6KWOi0/mC0XQeqGNu0Hd3ebU1TeisrKWG1tyspQPEEFDg4K9ro6OLni1qOFRUwfR8UK4StNRVV3HjY0ud3xCirNRBJInyxA/WkTAgzn4T07B7+Y4fC4Pw0vTDU9FCwO6lckhysmDqyzLmSCCwIWnCP3yHSHGzwheWYNkeQVBi88hntObgXfvw2/sNnyv32JI7z4dgzoBRdhHJS/fImp9AxG//iD8x2+EffvJgKEfv5qBtHtWOG/tJexvUjoHFLT0AiFrG4hZ39w1B1c/MHCgfgkB03PwHZ0wg1rb4dnU7EiUqTvzjyF58x6Jxs1/hmIZyDRWC8hncAhebZ3waFTAReTmKJSpO89esy5YAw7bhYFerdqChq7Au7ufjc3ddBIcBqIfswfY55AdyG98EgeuXjMt9gAbm0dtPdxKTjoOJTV++m92gCbuwHdklI2NdkiUnesoDC1iMzJLVywYmSn09dE9o8svnp1nHaIYuj/7Upzy/5r+IGGdoB+3B1qDLC/M/VTlFsThGOuyfIDYwNjTf2c0Y0yLzANkt9rG7cwerL8B4+WCF9buFAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTklEQVR4Xt2X20uTcRzG/V2Fw0OiKTqdp1Q8n5ozp2R4SDO1aXlK0zSnNp1n5yyMQsgoQzGhkLpINMHQpXSUDoakEmlFF9FFdBFd9T887fd7fV+3VwuC+Q76wnM39vvwPM/3y+bg8H8MgbXsOgT15cE4madAVqo3EqLc7A1FMDWaiolhNVP72XCc0gTaE4oIMHeuJUN/JgxlBf4MKC4gQGoorjM80PigCrrToSw+O/SJIL+gGBpNqeDO2IASjZUhKMrxQ1KSGinqw1JCEVRUVG/TsfxiZGXn41B6NuLilFJGZ94ubSOTVtsk6GieBhmZR6FUpiAkNFxaoLb2TkF6fRt0Oj1ycgtxMCUdEZGxkMu5LkkERIdgcvI+TKZ5zM2ZMDtrYnHFxycJpaYwkgLV1mlhMPSir+88E40rMTHZHjB0CFpaWmE0GjfVJ/RH4qj4ITD0Gq1EI1Op0hAWFiHlytMhaGzUoafHYCVaanp/oqLjpXaJ27Kurm5BZeVV7FjSG8QXWyIgwm5OZ2eXhbrZYSwqLmU9opc6OiZBqtgIms41Czeoo4NTZVUNSkoqhNgSElRSuERQXV3Htqu1tR1uDTq4lFdCdiQXjqpklJZVCrHRcsfEJu62SwSKR4uQP5iHz71peI+Nw+v6CDwuDsBN3wHXugYG6FSogSwjC47qtN10icB37jGCPn1F4NpH+C+tQLG4BL/5p5BPz3KAt+/Ca/gmPK/eYJDu3UYGugsuEfao4vlrhK+uI/THL4R8+4ngL98ZYND7zxwgdc8Czt1wAXtrtbvhEoHfwjMErqwjcnVjRwUsv2PAvrML8JmYhufQKAfU1ALX2npbumR2Z+YhFK/eIm5t44+isAzIHCsP5NHXD7fmNrjU1MFB5mQrKLM7T14yFywBDojEgF4sWwP1X4J7Rw+Lzdl8EmwUHWGPiQHE2i8C8hoZw77LV8zF7mWxuVRUwSn/uO1cUq19+Ku2AY3egufgEIuNOiRLzxQcsolLlpHxrvAwarPo9tGe0fLLp2aYQxSG9mdP4tbvaxvA8MP9CqRO0MfFgJZA/IY5nyjZjMjmMNxwX8j/5yJWYGz136xxMOYii0FsDmM5Ww9swYklCchOY/mwWOLP/uv8Bt/8GpzqGrdTAAAAAElFTkSuQmCC",
     "wiki_name": "Attack potion (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Attack_potion#2_dose",
     "equipment": null,

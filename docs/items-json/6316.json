@@ -1,7 +1,7 @@
 {
     "id": 6316,
     "name": "Jade machete",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "A jungle specific slashing device.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xu3W/UtTURgHcPdTFCGEYKhgsB+KXn6IiGWstYVtay3mZG4OX6ZOStZiJL2IWJIlozcEsRcqFAwxkTKCqCiM+sue+J7Lczv33DPd3W7RDx14uNs9997zuc9zztkaGv795iF96Pr/ePPQo6kUPZjsFlGeSNLs9S4RjFiZH6HluSFaepzToNSXqBtugBgFEIeKWXw4QM/LfZaB8R19alhRjpAemrvdY0PhCAgHg57OZmn+TkZci6MOhOtl9Ob6FH1dvVYbikH4zNlh0Mv7/QLE11YC4b5va5P0Y2OGfm7cEyBHGDyU35pBGFQHWrjba4LkLMixupC3gPC5SpDHUgYMxJMb31UQ4ADxwOfOhCgSDFJnIEAhv59Od3TQKZ9P9LkG4izhnA6Ee86f7aQL4bA4IkYnstRf6jah715cMkEIRyCeFyoIg8sgHiydSIjMFKYHaeRGhvqKxmpE8Bx6/2rMCnpzs34QzgOEwHXdsRil4nGBGbvVT9lCwgbh+LBYcBeEQCkZg6wAhPIUZ3JmVjCfcL+MQTY/LV8xQd/fTleLQbOCZBQejv5sMikygzlTKudp8KqxunBdJdDn16VaQWhG2vFwGYRzAz0pkZ2uaFSUCnMmORy1gJBJFfRlZbxWkLEHIUPbgeRSoR/X4T4VhDLLIAeborHkdSCEDOKlHekJbAlCdlwFMQrBIExmbH5cKp70DFLL5RpIzhLvxrlMWkxobHr+6HFLdiqB1p6MmiDs0lVi0IwVpgPxjjzc20vhIy10oKXRlh0dCNlZf3bRkqGaQOo8wnn0p0+0U+jQXjrctj2Iy4WfDddAjEJf9uQ+ih9tJZ+3iZobd9hAnEkVhF1aBjlAGSBd2dDXdazNzE57066qQPjb8XHpsgnCHuRgH7KCGIXz47GDNBTwigx5m3fbMDoQslM3CKtMBypG9lM+6BVZat2zsyKIfza4XK6B1LIZD/gdGFwtF4PwDAZhycsg7EGO9yFd2XgQvDE+bwWS548rIF3ZZBD6gNCB+GeDy1UnCM1amkqhzh8OFYRNUQZxOABV2+xIDnn+/EXQVs2OtMf/Vl/7BVc7MU0nNcEwAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4Xs3W/UuTURQH8O2nKEIIwVDBZD8UvfwgEWas5cK2ZYs5cdPhy9RJiS0k6UXEkiyR3hDEXqhQMMREygiiIinqLzvxvQ/n2X3O7nRzT+GFw+Zz77P72Tn3OdPj2f3DS+Ywzf/z4aWnkx30eKJdxex4nGZutalgxMr8IC3P9dPSs7QBJb9E2XALxCiAOCRm8UkvvZrtdmyMvzEnw4kqCemluXuJPBReAeFg0IuZFM3f71Rr8WoCYb2O/rk+ST9Wb+4MxSC85+ww6M2jHgXitYVAuG9zbYJ+b0zTn42HCoQ9GurrVcjdxbDSzt+aQdjUBFp40GWD9CzosbqQcYDwnkFydzG8jjJgIz7c+FuCAAeIN754Pkjh5mZqCQQo6PfTuaYmOtvYqOZcA3GWcM0Ewj2XLrTQ5VBIvSKGxlPUM9puQz++vmqDECWB+FxIEDbXQbxZMhZTmRmZ6qPB253UnbWeRgSfoU9vh52g93fKB+E6QAisa29tpY5oVGGG7/ZQaiSWB+H4vDjiLgiBUjIGWQEI5clOp+2s4Dzhfh2DbH5dvm6Dfn2YsjElg3QUPhzzqXhcZQZnZnQ2Q303rKcL6wqBvr0bNYLk7gWGlXZ8uA7Ctd5Eh8pOWySiSoUzEx+IOEDIpAR9XxnbKcjqQcjQdiC9VJjHOtwnQSizDtKbotxdDOuRN4EQOogf7XAisCUI2XEVxCgEg3CY0fy4VHzoGSTL5RpIzxJ343RnUh1oND1/5JQjO4VAa8+HbBC6NGOKAuEJMYG4Iw90dVHoRDUdqa7Iy44JhOysv7ziyFCR2cHIgeQ5wnXMJ0/XUfDYQTpeuz2Iy4WfDddAjMJc6swhijbUUKOvkqoq9uSBOJMShC6tgxgldzcMC2QqG+baTtba2amr3FcUCP92fFm6ZoPQg0roQ04Qo3B9rPUo9Qd8KkO+qv15GBMI2SkbhKfMBMqGD1Om2aeyVHNgb0EQ/2xwuVwDybJZNc8FNpflYhA+g0F45HUQelDJfchUNt4E3xjvtwLp58cVkKlsOghzQJhA/LPB5SoThOEsTaGQ54dDgtAUdRBHCSCPh9v6ViGBeujnxxVQsUMii8Fy5Nb+pyGRppD37OrxF6E/e9nr0a+2AAAAAElFTkSuQmCC",
     "wiki_name": "Jade machete",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jade_machete",
     "equipment": null,

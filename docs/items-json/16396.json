@@ -1,7 +1,7 @@
 {
     "id": 16396,
     "name": "Rusty scimitar",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-31",
     "duplicate": true,
     "examine": "A decent enough weapon gone rusty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABs0lEQVR4Xs2WXUsCQRiFnf/QTQiBRheKmEYfSolJgpZSaWbKUplmZmJfIoZEEEURRHTRXT/21FlbdnO1m2BmDwzL7l7MwznvvPO6XM6XwGA5QgK3TQ0PF5UfKOVgAt1aEXetfTxdVfHaO7GADS8pErg83EG/UcZ9+wDPnRrebk7xcdfG5+O1DkgHO0e7cqG4oRHdS7eO9/6ZDkbn+K+lbcsFOt/P2aKjY/zGf429jFygZnnzV3R0ygpTyaegba7JhWIsRnQGDEH5lFzYlNCd4Oa9ekl3ivHRLUbIYjdPoDSZ0dGhUVDSgaqF9J9QkoGov6GUAGVXI2OhFABR46EUAVEOhTJOHtsBexRbAt+VQh0XN2xQku+2YdmhGJ3ZwZXIDsUrxlFQjI69iQXvCChjOuBkYA5wSsBMKCM6XiuFTAzJ2JxaKJ429qfc+grikSCCfq8qIGoAlU1GEJ33Y8bjxlI4rBYoFZ9HODAN9+TEN5AHAZ8PC6FZSz1Jh7NuLOCdmkJpO4FqKa2vSjGlAsoqoRc2C5xgWl7qHD5OAonlELZSUX05AIgSWFkMqGwDo6SkqP+vL4sDt/poyEzDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0UlEQVR4Xs2X20sCQRjFnf+hlxAiix4UKY0uSkpJwtqF7pmyWKaZmdhNoogQoiiCiB566489dXab1tyynmb2wLC4uzA/zvn2m0+fz/sSsJcnJHBdM3F7XPyE0g4mcF7OolUv4P60hKeL/TawzqVEAic767iq5nHT2MZDs4znywO8thp4uzuzAOlgc3dTLRQ3lNE9nlfwcnVogdE5PqubKxZQpL9fBZTAUWHVFR0d4z0+q24tqAWq5Ze+RUen2mGKawbMpVm1sTEWGZ2EISivsrDpkDKX6AQ3v6jkLKcYH91ihCx25wtUJic6OvQTlMI6ogRKG5muUIqBqO5QWoAWZ2K/QmkAon6H0gREdYfqfFuR7N4jexF7FFsCf2uF2svOu6Dk2db5tiK5oRid08G1yA3FI8ZTUIyOvYkF7wkoOR1wMnAGOC1gDpSMjsfKxkIS6eSoXih+bexPq3MJTMeGMRwasIC0NU9CLaZjiI+FMBTwYzIa1QtkTI8hGh6Ev7fnAyiAcDCI8chIWz0pj699Y4GBvj7kVlIo5TLWKmYN9VByrLVjElZhs8AJZq7Zc7imCKUEUlMRLBtxa3kAiBJITIS/2oAHgCi7rhT+U/lb/4F5B9uP1hW0CGynAAAAAElFTkSuQmCC",
     "wiki_name": "Rusty scimitar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rusty_scimitar",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 18022,
     "name": "Locating crystal",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-01-27",
     "duplicate": true,
     "examine": "A magical crystal sphere.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xu2W61NSURTFvR+baWoac6IoRtQsNMIHqQgGEpBIQjyUhxIQDwEV1B7//o51LvtyusHkBdQv7Jk9ykPPj7XXXoepqUlNalJcCvX6XkuFiHqP6MvHFO1tx+4LTD00vpulhD8n+qsvI8A+u6Lkeu+9KzD1kMPgN9FHoYLWyU8nAhBKhbYOyLsepJknptuEUii7XxKdi3zX+vigLJ5L7xUpFcgLtQAV3IzQzlqAbFb7bUAplI9V1Y73upCoiT6JVgRcJlwUygEqspOkQAfKs+qnD8vucUIp4tBSqk6lw4bocrrXeFxM1gQsq4URYnz7ngT5N8LkXtkl55JrHL7qweDwavaMasfnWp/mL8RzAqzzHqjGamGEMHrYHRdQ2w4frdu2aHl+ZRQoRShQyTSpmlMBGoU2nZUuRTeLbarnW+I1vAfvxQdgtaAUoBAHPmeINuwesi+sDgs0GOaick2t2g/xE48BBcWgljbCrlowOvwElRAHjkUnvbbYjEL9H6Z9+lMDwmsMhPExEKuEfMLWwUtrbzfpzew740B6GIznvHxFraoKg8bvDCT7SQbC5mFsCEzEAMy9NOeg2efzRqBUIHxqjAMwsjqX9V8aECD7AnV9BCDEAMwt+2ju5aJxICjEQLI6V43fAqofkBwDnE2DfPRi5pUxKB6ZBtRV57r5L5Bsat40Xn+Epd5HBhVCKeIA9hArpAeSTS2vvpxHUIh9BCBkkfmZZTggHMQb1m9kNwWCj3CVwNQY15AXr6IZW2/qmwDxpYtvArhGcK/B0BaTdRgYlOoj2dgyFANxMAqgzhXCQGzomC+tqYMMMk2bhwVC9VTSb9sgIGQQ1IGZ4R1sGNTBdlnNCzT9+OkoQCj1lv4rrTsweiBkENSBd5DQ8ncj5A8CEWZ++ODRqEBcKpgMxUBQB/mDUbFvsOoIRCQ0Vp3/fkwwcsn/2EhPalJ3W38Aonx0+i2GlnEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xu2W61NSURTFuR+baWoac6IsBtQsNQKVVAQDSc1HQjyUhxIQDwEV1B7//o51DvtyusLEVdSZhj2zR4EL98faa6+DxTKsYQ2LS6NO32tJiHDggL58TNDWSuS+wORNo2tpioUyor8GUwLsszdM3veBuwKTN9nf+Cb6YDOnd/zTkQCEUpvLexRY2KDRJ9bbhNIovVMQndn9rvfhXlE8l9zKU2I9K9QC1MbSLq3Or9O0w3kbUBplI2XZ0U7nYhXRR+GSgEtt54VygNpdjdN6C8o/F6IPs75BQmnipoVElQr7NdHFZKfxOB+vCFhWCyPE+Hb8MQotbpPPvUaeGe8gfNWBwc3L6ROqHJ7qfZw9E88JsNY1UI3Vwghh9G1fVECtuIK0ML1MsxPum0BpQoFSqk7ljASo5Zp0UjgXXc83qZptiNdwDa7FF2C1oBSgEAdBzyYtOv3knJwTQG673SxUb5iz0iU1Kj/EXzwGFBSDWvoI22rB6PATVEIcuKY89No2bValf8M0j3/qQHiNgTA+BmKVkE/YOnhp/u0SvbG/M6uSdgUG4zktXlCjLGHQ+J+BVD+pQNg8jA2BiRiAuWfGXWR/PmFGJQmEb41xAEZV57z6SwcCZFegto8AhBiAuVUfjb+cMqNSRyEGUtW5qP0WUN2A1BjgbOrloxejr8ypxCPTgdrqXNavAqmm5k3j9UdYGn2kKtS3SrgBe4gVMgKpplZXX80jKMQ+AhCyaOyZzczIUBIIN+IN6zayfoHgIxwlMDXGxQevCSCUphvbaOp+gPjQxS8BHCM412Bom9Vhdlxc0keqsVUoBuJgFECtI4SB2NCRYFJXBxlkHRm7jjpcHZWM29YLCBkEdWBmeAcbBnWwXY6xSRp5/PQmQCh5Sv+V1i0YIxAyCOrAO0ho9bcR8geBCDM/fPDopkAWi3yzBFOhGAjqIH8wKvYNVh2BiITGqvP7r+mf7qWCmW2GGBiMWsYP77eNnzOs/6r+AFR9pbhSmWa5AAAAAElFTkSuQmCC",
     "wiki_name": "Locating crystal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Locating_crystal",
     "equipment": null,

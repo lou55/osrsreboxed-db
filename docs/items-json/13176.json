@@ -1,7 +1,7 @@
 {
     "id": 13176,
     "name": "Halloween mask set",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-19",
     "duplicate": true,
     "examine": "A set containing red, green and blue Halloween masks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4Xu3X7UtTURwHcPdCZBCTsNfJHC504XTUXLiWY2s6G2xjbq1pMy0pBhI9UIgUPQzpCUHsgYKkQEwkfNWLKIr6m3zhy199z+0n5557p7t7iF504Mt9OMe7zz3n3nOPLS3/frGReczqm15s9HQhQ4/n0yKLt1NUvpkUYcTa8jS9X5qi1WdFE5R6E3XDNRCjAOKomLdPJunVYkH3wzhGnRo9yhLSRkt3xg0obAHhMOhFOU/L93KiLbZmILSX0d82F+jL+o3aUAzCPvcOg948mhAgblsJhL/7ujFPP7bu08+thwJkCYOL8l3Ld1ZPZBD2tfP7FptuGHCcDR+m/NgxCh3vprGQhxLhPkpFvZSJDVB21CfqCgk/nU8O0oV0gGbGh2g2F6Qr+ZDYot7jdIhrNRwUHnRT9EQPjQR7TXGAAQVIqXBKoHBeBiGWQPxcmIEC/U4K+ly7OMCAAght0EuMuVqMiK0p6MOt+kC4c0CuT/otpWkg3Dl6Rf1BxN7WJqKeqwT6/vFutRgUIygf7RQgDJEMkLOzs2M4lkFeV3utIBTtNV15cHYXhAeVQa877LowonXOrkuDQNochB5SQXi7Lmf6qdyuAeRta/YPStqirRnIwqSovfJmIMwteKMm4h7RK0BwcCx6JatBRH4fo23TQcUzR0VkEJ+TQXyuoSAE5yZiTjG3YCK8lPbqgoeXg6FS6xnkcx8U18IsXSUGRXvD9gKVsgO6OA5t66LWqyD0UE0gRskgzMh4UOUAwW8Z9tX6poLwzcKDimdjOtknhsQR39ZlvyHjmbpKlAaShw3npka7xEcSoNRwN2UibsqdPkLnRnq13jnwTgRINQzy93SIa2EOsjAP6UG8NGUQPqARfyfFAk6KD3VR4qRLAHnIAOQeVN+ymkF4yyqBcGF87fFN4yUIf+lRx0sPTBFoPzc53DgQo2QQELwe4rWQjMH3jjGAyMsPBmEOsjwPmQ1bI4JFWU0gddjwcOMcFvbrKzOiTv6vBPtYGSBox4t6tN14fpE+rZbo89q1WkAoxjszi4yRo4I2X87qQBwLoGqLEclBTwKE3vmLoL2KEWnM/1Jf+QV8lFW1G86P0AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTElEQVR4Xs2X60vTURjHtxcig5iEvU6nuFDDGzUXminavCRsMrfWXDMtKQYSXShEii5DuiGIXShICsREwle9iKLIv8kXvnzq+/x65vmdndk2t/CBL+e63/mc55zznDOH4+Cbk8wytZfdnPR8PkxP58ZYC3dDlL4dZAnE6tIUfVycpJUXSQOUPol9g1tAAgUgkQ7z/lmC3izEbQOjjDZddqiCIJ20eG88CwopQEQC9Codo6UHUe6L1ASE/ir0j415+rZ2qzgoAUJevCNA755MMJD0zQWE331fn6Nfmw9pa/MxA2GMttpalj66ZpbbZdbqzPYjFQh51OUFoy4DypG+oxQbOUE9JxtopKeZRvtaKDTQSuFAO0WGOrgtPuqji8FOujTmp+nxLpqJdtO1WA+naG/2uPlbJQfq6/TSwKlGGuxuMsIBDFAAScXPMBTqVSCoICDZFyYgf5uHujvqM3AAAxSA0AdeEpjryX5OjUCf7uwPCDMHyM2EryCVDQgzh1f0ASFXZSVLr8sF9PPz/QxMUUCxgRoGwhKpAKp2dnayyipQa32VEUgfPYdZx3T50fkMEDaqAL2tdtkkEBWzLptKBGTFIHhIB8Lpuhpuo3SVBaCmFZG/UEqKviYgNSjqo2tmHXkTEGILTtTEcDN7BRAilNkrEQuE9aeMvmUHSp47zlKBpE4FkrqSAkGomwh4OLYgEF4Za7UJm1eEpdLbBajDe5i/hSgtMHkB4YTtBZSKtNvkPrJtk96uA8FDeXoHtgskUCoQIjI2qipAyClDXm8vKxDuLGxU7I2pYAsviXt426Z/LZlEauT10Q1mAanLhrrJoTq+JAEU6m2gcL+XomeP0YXBJss7hz6wAKlLgHyN1fwtxKAC4pAdSJ6mAoQLtN9XQwG/h4a76mj0dD0DypIBUDyon7KigXDKcgHhw7jtcafJE0RuerTJ0wMhAv1nE72lAxIoFQgQ8h6St5AKg/tOYACiPj8ECDGo4DhkWrZSCI+yooD0ZcPmRh0e9mvL09ym/itBHi8DCP3kUY++6y8v05eVFH1dvVEMECx7ZiapMKp0oI3XMzYgUQFADoeE9b2kA6qCJwEE75QEKF/TIfOBFe32/U+mQ5qk/+ZA22/GmKBBYBSq4QAAAABJRU5ErkJggg==",
     "wiki_name": "Halloween mask set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Halloween_mask_set",
     "equipment": null,

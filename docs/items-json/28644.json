@@ -1,7 +1,7 @@
 {
     "id": 28644,
     "name": "Smoker fuel",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-10-25",
     "duplicate": false,
     "examine": "This fuel is used to create Smoker canisters that can pacify wild bees.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVklEQVR4XuXU7WvTUBQG8N1Pw39AwTGGKy20gfSFvmQ0W1eWWVfD7NatttaWbkyd1c1SGYrKYCgyGAjiH3zsc8K9zeKsn24ieuDQfOuP5znJ3Ny/OYKmG/kI6toGDTezdFAxo0R5iXRWUnRUTdP4YZFGWwV+jgAlqJGPU7OYYND5bpk+7qzwAvbCyYSJErSVWVYgVHXolunr4wovcCGiPIybjSlQ28nTs22bvvU2eK+6VbrYs+nMLTFWM0pcw9QtgwZ1i44ba/SmtUHjtsML2JfWKr1/ZNFJLacLdR1TzSWoWfHqGu5WFAi/3/sOXXbWOSmgcOwaUNNDxtZKKXpyv8h1neytzwRpwdhmjBcYp5BUdSGdIOjHYJNvCbXhzdMGWsvEuSqks1/NcTo3gbASpAVjGfcUCOm4ZZN6D0p8zL8D4bDxGdAKQjqoSh7zn0AaMBivLllVYzWt6poFwmFrAHnpoKr08gJXhXRwzEGQa5m8EoTVAkI6xtJdysUXqZBY4i8z6pKgetFQ60dpwGAEJRfvcDrA2EaMjxmgWj6lNojSBBIUX7it0rGSk+rMyWufmXyHskneWSgtoGA6p4Md3rdH+zNBWjD+dF71G7wShOez560bMVrTefl0W2H8KPn77rj9C0YbCAlcjPrqT/CHt+bn1QI7OmzSh2FHdzpyPJQEYVFPEIV7+vS6qzMd/wiuxZ8SjlmCcOjyns5Pe2GAMIJr8YPw6uMTIFdW93k8CAOEmaJQm0RJCNLxIKFg5Ai+FaQEFJ6BiQDiHw+Fm4kY4p+/BvKfzk+XSYSaLW4TAQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbklEQVR4Xt3U/2sScRgH8N1Po3+goDG2Jgp6cJ7ilxve5mS3bHYsNzfTTLGxanNtiTGKisEoIgiC6A9+8v0cn4/nZQbV5xw98KA/bPri/X68ubn/czQa7cxHo5atU28rRU+KxixRXiLN1QQdlZI0uJ+j/naW388ApVE1E6VaLsagy70Cvdtd5QXsuWOGidJo21yRIFR16Bbo08MiL3AhojyMm4pIUMPJ0NMdm762N3m/tEp0tW/ThZtnrGKUNoapWDp1KxYdV9fpZX2TBg2HF7CP9TV688Cis3JaFWocU0rHqFb06urtFSUIr986Dn1ubnBSQOHYFaBGh4wt5xP06G6O6zrb35gKwv+ay8u8wU/9w9HINiK8wDjZuKwL6QRB37tbfEuoDb88AQp+6l+MB1o3o1wV0jkopTmdSSCsAClJx9LvSBDScQsGte/l+Zh/BcJh4zGgJB0BQjqoShzz70AK0sF4dYmqqmtJWdc0EA5bWTqoKrmywFUhHRxzEORaBq8AYZWAkI6+dJvS0UXKxpb4yYy6BKiS0+X6Ucrqii/e4nSAsfUIHzNA5UxCbhClLJ3owk2ZjhUfVmcMf/bm8DmUivNOQykBBdM57+7yvjo6mApSUNd4OqedKq8A4f3Fs/pEjNJ0Th7vSIwfJV5fHzd+wigDIYGrfkd+Cb7wxvy8XGD7hzV622tOTOcfgzAeSoCwqCeIwj29f9FSmY5/NK7FnxKOWYBw6OKeLs/bYYAwGtfiB+Gnj0eAWFHdh0E3DBBmhEJtAiUgSAd/o/B+Jo3Gt4KUgMJ7YIKQkDBiPBRuZsYQ/1wbyGiuDSSM+QEMebg2t8YLwgAAAABJRU5ErkJggg==",
     "wiki_name": "Smoker fuel",
     "wiki_url": "https://oldschool.runescape.wiki/w/Smoker_fuel",
     "equipment": null,

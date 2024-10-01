@@ -1,7 +1,7 @@
 {
     "id": 21164,
     "name": "Amulet of chemistry",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-02",
     "duplicate": true,
     "examine": "Useful when making potions - has the chance of giving an extra dose.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xu3VXWsTQRQG4AYRSQm5CQhVKKhgEUWCKAqhoBdeeBMtmrZoaVBRqUhAFCUWRdsS/KI0plVUGmiJtQRtEfxCUfSXjb4zvpuzs9OYTVbxwoHDJrsnmWfPnJ3t6vr3R0y5w3X9j4+YejB+XN0rDugoXT+mpq4e1UFErXxaLUznVfXhqANl30THcAMiCiCGjZm/P6KelE76JsZ3XLPDjwqFjKnpmycCKBwBYRA0NzWsyrcHdS6OLhDyJfpLfVx9WrrSHoogfGZ1CHp295QGMXctEH73ebmovq3cUd9XJjUoFAZ/yrsmCJO6QJWJIQ+Ezy7QUuWMD4TPLYJivmXARGxufCdIlp/RDFR/fC46EKuEcwAh58jubjWwJ6Fy+xJqJJNUB7bFPRiqZoNePz3vgRChQOwLG8SnCZhDOxoABs6nezd43yVo9fkFP+jltc5BOI/r2XRCH1lJ5uDc8P6kxvb1rPeh3syPRQtCAIDrWCrmyYYmyq4Qeu79wiUP9PXVrVYxGH6QROHPcb1/u1kugohBHs4f3tkdAH1YLLQLwjB3iMlcoF2bTZ/IrUGC2OAS9LF2uV2QmQgVWgvE/pA7tASxsQnCkylBITZF06guEIKgrRsbILt/sA0k410eCNWJFEQUgqCexDp9dDW0q38iA8kq4ehVKGUq5Gro1C+sBC3PnvVA2KVbxGCYJ8cF4usAOelNjc3PFcSwf/DakBVqC2T3EV8HyOnfEtfLlstm1ehgTles72df9aaC1QEIr43IQEThPCbAWxt5NwoFNZbPq6GZvRrDJ0++WAnCLi1BIVAG5Fo2gpBTKhY1hMGlkktLEG7gbfWiB8IeFGIf8oPksklQpVTygQ5mMk4QqtMxCE/Z70CLc7M+EKske43LFRnIXjacJ+hdvd4UxFyA8MhLEPag0PuQa9k4CZt69UVNVR+V1czkhIexK4TcSECuZZMgXDN/aAKbIkHIk/3TIQijMVGzkDu0DBuETVGCGCFArY4gkiH75y+Cmo0gMhj/R2fjB3TAFIy8eE3gAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs3VXWsTQRQG4AQRSQm5CQhVKFXBIooEURRCQS+88CZaNG3R0qCiUpGAKEosirYl+EVpTKuoNNASawnaIviFougvG31nfSdnJ5OYbVbpwGGT3Unm2TNnz0Yi639ElTtc1//5iKpH4yfVg8KAjuLNE2rq+nEdRFRLZ9XCdE5VHo86UPZNdAz3QEQBxLAx8w9H1LPiad/C+I5rdvhRgZBRNX37VAMKR0AYBM1NDavS3UE9F0cXCPMl+lttXH1ZurY2FEH4zOwQ9OL+GQ3i3GYg/O7rckH9WLmnfq5MahDWSPX26rBXt4aXdt41QVjUBSpPDBkQPrtAS+VzPhA+E2Svbo2obxuwEIsb3wmS6We0AtWeXggPxCzhHECYc2xvlxrYF1fZA3E1kk6oQztiBoas2aC3zy8aECIQiHVhg/g0AXNkVx3AwPlUzybzXYJWX17yg17f6ByE87ieScX1kZnkHJwbPpjQ2L7ujT7Uu/mxcEEIAHAdW8V5sqCJsjOEmvu4cMWAvr+5YzCBQRKFP8f1/p3edhFEDObh/NHdXQ2gT4t5J8hevcnw7hCLuUB7tnp1IluDBLHAJehz9epaQd5CyFAzEOtDdmgJYmEThCdTgmRTtFe3hleoLhCCoO2b6yC7ftAGErGIASE7oYKIQhDUHd+gj66CdtVPaCCZJRxNhpJehlwFnfyDlaDl2fMGhC5NTFsgPDkuEF8H+s+21JufK4hh/eC1ITPUZnYw6iC7jvg6wJz+bTG9bdlMRo0OZnXG+n7XVU+yMTsA4bURGogonMcCeGtj3q18Xo3lcmpoZr/G8MmTL1aC0KUliCh7dcfwQK5tIwhzioWChjC4VXJrCcINvK9cNiD0oAB9yA+S2yZB5WLRBzqcTjtByE7HIDxlfwMtzs36QMySrDVuV2gge9twnqAPtVpLEOcChEdegtCDAvch17ZxERb16quqqjwpqZnJCYOxM4S5oYBc2yZBuIa5DDRFgjBP1k+HIIzGRucK2aFl2CA0RQliBABFImzrrcIGypD1Ewqo3WEj28Ey6nP/07CRrrB/s67HL77EXxgPFPgMAAAAAElFTkSuQmCC",
     "wiki_name": "Amulet of chemistry",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_chemistry",
     "equipment": null,

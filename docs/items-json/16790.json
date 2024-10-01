@@ -1,7 +1,7 @@
 {
     "id": 16790,
     "name": "Sketch",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-08-20",
     "duplicate": true,
     "examine": "A rough sketch of a bowl-shaped vessel, given to you by Gujuo.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4XuWX3UuTYRjG9zBkGFF0GB0EnQVRJ5EdSB1E9CVmH4plKz9YWqYtP5iZmWZtDMs+tEzGkmEtLVljTC2XmSIlxpDqLPpfrnY9493Hy4Zte/UtuuHGCb48P6/rfu7rncHw75ZAtP+KEmizv0BdS5/eUIoqAp29Y2h3eGGu7dQLSqBlgwkN6/OwK8+Iu4986Lr/Bh3OUZw426gHlIBjkwldG0146JpA72AA9v636HkwDtsdDw4WmfWBYj/1vMdj9yT6hoJwPvFLtept/di7ryhmqfrJVSwBt3cGz0ZCGHg+laRW5eUelJqbUVJenwC2UudcAr6JRYwFPuOVfwEj43NwvQxJxQjGmbLeHJKKXWy6h+ordjn4Z2raUXahFafOWSXwsdO12FN4RDsozg4BqBIV8/rmJSh/Do/OSuVoJ9dDTaNDqldh6UB5lU2qyIuwfUeBdkC88kpzhqgQlaJi48Ev8E8tIRgKy3nj31isTqnW+bpuCUa1Nm/ZppV1yUCp4KgabaVqBKWVtFBRi5YV5xtRYDJiq9GQK1R6oFRwBKO13Fvc7lSLQJbITiMU99qaACU2reRc8TMHnrN0LbJoqyJQOcKwMgdic9h5EbhI47OTMYz6oexglOY80coMQeL0vLZNt1yx39UHZNJZqiJkgJ7Mj4aoEqBcdryq6kP+tDOESCyBjkiA8gYkBihfN67eGJRLTX3YSp0DDCua6m2RG6DOKoI1XB+Q659Bqj44XecIxIr6zAFMl+zctkqQqgHUrQEQKxqijAElnwinZBQt5PVNFaTcMVSxuOwSDpdU48DRCi2gBD4u/MCH+e94N7uMyZkwAtNf5dblkvO8/iQhE5O+9fZwSqidu/drAcRKvKbJTdDpuW8xWDbV4+CroeIhuqoVBVta/oXF8E/ZtJczprYv+Z9Z9YofRotppZLshDp0vBKl6/JQqE2qZ1oi9g7U3O2WUHxT5LcVhqgGqZ5NCWkdh5w7K9muNYdRSkjrGDs6QqhLV0X+o/oNJZf3+bSEgOcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4XtWX20tUYRTF52MYBiOKHqOHpLcgqofIHqQeIrqJ2UWxbMoLpmWaeUGzyTRLEcsuWiZiItakNUwiXkozU6TEGKR6i/6X1axv+vTMxwzOeI6NbdiooJyfa+291xmb7f8tgWCviRKobnyJworWeEMpVQRqWwZQ0+SBq6A2XlACFRucKF7vwC6HHfce+1D34C3czf04ea4kHlACTZucqNvoxKOuEbR0DKGx7R0aHnpRdbcXh1Jc8YFiP+v9gCfdo2jtHEbz00GpVlFVG/btT1m0VP/LVSyBbs8knvdNoP3FWIha2VcakO4qR1pmkQFsuTZdAr6ROQwMfcHrwVn0eafR9WpCKkYwzlTprU6p2KWy+8i92igH/2xeDTIuVuL0+VIJfPxMAfYmH7UOirNDAKpExTy+GQnKrz39U1I52snzkFfSJNXLyncjM6dKqshF2L4jSQLtTkw0CyXkyqvmDFEhKkXFvMNfMTg2j+EJv5w3/k5+abNU60JhvQSjWpu3bLPKulCgcHBUjbZSNYLSSlqo1KJlqQl2JDnt2Gq3mYWKDBQOjmC0lneL151qESg/cNMIxbtm0rrogIxNKzlX/J4Dz1m6Hji0OQEoBfNPgdgcdi4CD+nS7MQMow/dymBUc55opREkCpgleq5t2e2uxZ/1B8TSK1RFyAA9lRAMURWgPHZcVf0h0bauSJQwLAF3IEC5AcYA5evGtZsd8qjpD1uuY1REr2CqVwc2QM8qghXfaJfnn0GqPzhSKyD9STFU0GcOYKRk57VVQaoD6G0BECsYoowBlU+EUxlFC7m+4YKUN4YqpmZcxpG0XBw8lvV3mE2VwKfZn/g48wPvpxYwOunH0Pg3eXV55HrffJaQxqSvvNMTFmrnngPWqRSpCTo+/X0Rlk31OPg6lApRC4BsNn1Vl7YlCDa/8Btz/l+yaS9nTLcv9J9ZxTKCsWkxrVTJTqjDJ7KRvs6BZGtSPboyqqbegcrruyUU3xT5aYUhakGqr6SEtI5DzpsVapepA2mmhLSOsWOEiBOMqrgqEr7WFIxV9QcJPDLPxzx9CQAAAABJRU5ErkJggg==",
     "wiki_name": "Sketch",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sketch",
     "equipment": null,

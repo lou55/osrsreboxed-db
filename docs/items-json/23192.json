@@ -1,7 +1,7 @@
 {
     "id": 23192,
     "name": "Saradomin d'hide shield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "Saradomin blessed wooden shield covered in dragon leather.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xu3W70tTURgHcEeMsbE34tjYxiZTNNQw6IURlQk1SohyFf0m6YdFvYuiEOn3kLIQhlaUOChMRcooCqIo6i976vtcn8tzz73a7u6KXnTgy+7uznY/O+e559ympn+/hcg7Xp//8Raih2MH6cFoiTN+fYjKV/dzBDFXOU0vJoep+uiUB8r8E4HhFkhQAElMzOzESXo6ftxxYbzHZ2acKF/IEE3eOORC4RUQiYAel49S5fZh7otXLxD6a/TXpTH6PH+lPpSAcCyjI6Dn908wSPquBsL3viyO0vflO/Rj+R6DfGHwo/KvBYSLeoH0P5eYoPmpMw4QjmsEhRzTAIQUN95rkFw8l8lQOpWiZCJBLc3NHBO19GSkcSAZJZwTEPq15fOc1myWUTom6s2z8zYI8QWSujBBmEaA0KejUOCsb2+nwc3rKBrt4CTz2zkm6u3MBSdo4VpwkNQLEJJc6aONEVBLpo9HTqPezV5sLAjBZ92dnTYm1TrAiHRb0QZFogU7mErUlqAE9O31zVoxaE6QoEwMLh6LddsQHGNkBIXjcDhFI3vDdrHjN+oAoVl3z9TdIwzC8YauLhuEacHoaNCxXWGGJHJbKBLJMgjH5XMRHqV4LFYvyFqDMEJeIF0vAJV2xDkH+t0gvHJd/RohPWU+FkXrlvcDQop9Mdq3Le6oH8GhjhoKwrmNPT0MSu+u0sKtKE+XLmS5sxiyMjpIaqDCdxp+49Pc5eAgRIMye15SujjjKmhzZCQAoX40CKt0jRg06w5bDSRFndo5TZnBVzwlXDMrdxVw8l7WIROEEaoLZE7bpt5ehgkKq3Syf4IjIBkZE4Nto2EgjRKYHi3AElvLlB16z1sIilj2NvTHVoNVWoN8oCyQOW0A4Zze4c1pBExvtuiD/njs+FC9ZIOwBvlYh5wgPW0CwgXMpz8ThXPyUBYYhLvsdyBcDOf0HqeDz9G3oSBz2nBeg+RpEsFeJ/sevid9AVqcPusAYQ3yvQ55TZsG4XgtkIwQ+jYE5DVtGoTP9GOJBqGfrp+AIDRnPawWjdExQXiW1iCJD1CtzY2U6Pr5i6C1mhvpzv8WrP0EevSO4/N4aSUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xs3W/UtTYRQH8I0YY2O/iGNjG5tO0VDDoh+MqEyoUUKUVvRO0YtF/RZFIdL7kLIQhlaUOChMRcooCqIo6i976nuu53ru2Z3tulv4wGF39z53z2fnOfd5biCw9lvQuIfb9X/egubxyCHzaHiQYvTmgCleP0DBiJnSWfNq/IwpPzntgtJ/om64BWIUQBwaMz12yjwfPeEYGN9xTYcT5QkZNOO3Dleg8AkIB4OeFo+Z0t0j1BefbiD0l+jvCyPm6+y11aEYhGPODoNePjxJIO5bDYT7vs0Pm5+L98yvxQcEwhibmpsp9OiqWWnnf80gDOoGkv+cQ4NmJ845QDhmkB5dtaBjGoDg4sZ3CeLBs+m0SSWTJhGPm8aGBgqNWng25B+Is4RzDEK/llyOoimTIZQMjXr34qINQngCcV1oEKYRIPRpy+cp1re2mv4t60wk0kaRyO2g0Kj3U5ecoLkb9YO4XoDgyA5+tjEMakz3UOYk6sP0ZX9BCFzrbG+3McmmPkKkWgo2KBzJ24GpRG0xikE/3t62MZ5BjNIYDB6NdtoQHCMzjMJxKJQ0Q/tCdrHjNzRIj16lWU/PxP2jBMLxho4OG4RpQXYk6PjuEEHi2a0mHM4QCMfFC2HKUiwaXS3IWoOQITeQrBeABnfGKA72VoLwSXX1J0NyyuSiqEdXzXrkvYAQhZ6o2b895qgfxqGOfAXh3MauLgKl9pTN3J0ITZcsZH6yCLKUHUSyr0RPGn7jy8zV+kEICUrvfW1ShamKgtaZ4QAI9SNBWKUZUxMIT1g1EBd1ctekSfe/oSmhmll6qoDj77wOaRAyVGN20JZBeto2d3cTjFFYpRO9YxQM4sxoDLYN30ASxTCZLcDi24omM/CRthAUMe9t6I+tBqu0BDFKj+7SLJCeNoBwTu7wehoBk5st+qA/Xjs+la/YIKxBHtYhJ0hOG4MwgH770yic45eyukF4yv4GwmA4J/c4GbiOvr6C9LThvATx2yQCex3ve7iP+wI0P3neAcIa5Hkdcps2CcLxSiDOEPr6AnKbNgnCNflaIkHoJ+unThCasx6qhcTI0CC8S0sQhwdQIMDL+kqhgTJk/fgCqrVpZC1YjuW+/6lppFvoe9Z0+w3E+NlvHQjI5AAAAABJRU5ErkJggg==",
     "wiki_name": "Saradomin d'hide shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_d'hide_shield",
     "equipment": null,

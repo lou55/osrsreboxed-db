@@ -1,7 +1,7 @@
 {
     "id": 16476,
     "name": "Ancient staff",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-18",
     "duplicate": true,
     "examine": "A magical staff of ancient origin...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABFklEQVR4Xu2WywrCMBBFE/ILRbGiokWlRaoUn1hfaMWCC935/z8yOqnRtCi4MZ1FDlxoU2gOMxMIYxaL5Vc4FFcMgwLvDEX4fDbKWyBgPnSZ90okIk3QCDwngEEpJeEyV6bFWibF8m1CIRSYiZlsGb6roJwBqWxWVFSb9Kqo6uH3WCz/LcXBYY6Mqoouh2vFKhb/8Aeyjfar1YfNjQgU4bAYj+F2uZQloMMhCkM4JwkNmb7naa0qlcdJqtchnk5pyFQcR7aKhEzQ68k2ERhiDp1mU7aJhEytWoXJaAjXNC1bBuEw8H06x7vbbsNxs6Eh03BdWM/nFGQQbufmC9kRP+22NGTyd5lSye7CKJOIgwwJqXwstLgDPI+5zxCYRZQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOklEQVR4Xu2W32rCMBSHc8grlMkqs7qiozKqFP+izo2tMmEXeuf7v8gZJy4ajyK70JNc9IMftOkh/chJIEpVVFT8F0A+IgwJHNPT+d+zKEeBrsqwrdJDCl04giLAiQCFpKxErGKTRCWSYqdtIiESGOuxaRm925CcgNR+r9jYNrmrYlePvs/17N5SgJGKTOyquHI0xlex32ya8JluyP5Hn4vF2c9dATd8hhsDOB0McLfZ+BJwASzyHH/KUqod1wB8SdNDq7zLJPU6zkejMGQeosi0KgiZbqdj2uRuYl4lBOBzo2HaxE8UrxQA8LFWw2G/h9v12rcMAfiaZeEc73arhavlMgyZpzjGt8kkBBkCzvYNrxAksH1DR/z74z0MGfcu412GrpokU+ovExrjVcJcvmDxKlGsRBAyvvkFLHX44xZmpDoAAAAASUVORK5CYII=",
     "wiki_name": "Ancient staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_staff",
     "equipment": null,

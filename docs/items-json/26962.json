@@ -1,7 +1,7 @@
 {
     "id": 26962,
     "name": "Cure crate",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-04-27",
     "duplicate": false,
     "examine": "A crate full of vials.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoElEQVR4Xu2W0WvaUBTGK2MMR1AkEonSSCoqNkNLmLVh1mU4Z7uOTTZa3MpK18dB6dMY7J8/5bv0xOtNjDdCtz144EC8XG5+Od/5znVnZxvb2MZ/EznSy0eNxYs+B7v0aVCjs36VJgc2hd0KHXsWHbZM8hsl6rlF8pxCAmBSbhQ5+jrepy+jFs2GTTod7NHYr1N44FDgVemwY5PfqlCvYZHnlunEtwUoIINOOQbarhVozzbIsZ5vApVbOlQ9mAHf9V0BeNytJUK2HZOatRK5doF2LYOOui5VTEMXaFFS/lrIwtIwYNqXpwEChME0gLLJw4DrpKmaeZF9ry4qBRjb1JIsR39uTuj39ZR+XU3o7tuYbuch/bx4vbE82Iv1cjEfrQMGv7WAIBNLJbtIrsbN7BVdfzyi72eDVEDIcz7xxTNAGRIwReOZHhDszFAqmAqn9hLLhQTwLOxFlePqIFlGbSDONDC5yZOc+H7oRdXiiqGvGMYqalYIQ48HXxYwtWqQiqV8029FTc4wJeOpHhBchrwI25HbkB+CRtTUPBbWJaqEasmOQ478JnmNqh7Q1fQFXU68JTAZjsEYjseC3NTIt4PO0hjg6wRDkZ2mBfTjtCugGIzhZDAVjsFkONFDUtNPg/2Y07SAzoeOuEDlSxS9I0uhgiXBwWHoK+wXPfQwnzLbHkAqlAymjgAZVE2eQbLtAZTJZfNRXWRWMNX6su0ZCudndtll6GpBqWCq9YVkUqPjmWcQYIz8Ez0gtYG5P7KCzacvRS/hTPmS5epoA6mWT3MVHKUOTwbDWdin3vqL3lkLg1jMoSx2T5pDWJf/hiAzgHDE59CqAbkODOvqUFTfphlx+yJXybgKDOtw2wZV0Y04JFKWMfm+++sRh/xHII8b9y/vie3BTyjGAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xu2W0WsaQRDGI6UUy6GIopwSzUVUzBWVo8ZIjb1irUlTWmlJsA0NaR4LpU+l0H9+yrftnOt43u1JA31wYOBcjr3fzjffrHt7u9jFLv6bSJFZ3mssP/R+uE/vBhW66Jdp2rPJ75To1C3ScTNPXj1HXSdLbjUTAhiWW0WKPk6O6MO4SfNRg84HhzTxauT3qjR0y3TctslrlqhbL5LrFOjMsxUoIIftwhpoq5KhQ9uiavHxNlCplU3lxgz4qu8owNNOJRSyVc1To5Ijx87QftGik45DpbylgHoHB3FQy5LyaSELS8OAUSePAgQIgxkAJZOHAeOkKefTKvtuTVUKMHb+j2SxQL/uzujn7Yx+3Ezp+6cJfVv49PXq+dby4F2sF7LpYB0w+G0EBJlYKt1FejXu5s/o9u0Jfb4YRAJCnsupp54BypCAyVqPzIBgZ4aSYBJO9hLLhQTw3O8GlePqIFlGYyDOKDC9ycOc+HrkBtXiiqGvGKaYNawQhh4PviRgsmqQiqV80W8GTc4wOeuhGRBchrzyW4HbkG+G9aCpeSzEJaqEaumOQ469Brn1shnQzewJXU/dFTAdjsEYjseC3tTIl4P2yhjg6wRDkZ1mBPTlvKOgGIzhdDAJx2A6nOohrelnw6M1pxkBXY6q6gLVL1H0ji6FBAuDg8PQV3hf9dDf+ZTY9gCSUDqYHAE6qEyeQbrtAZTIZYtxTWVSMGl93fYMhf0Tu+zad4ygJJi0vpJMa3Q88wwCjJV+YAYkG5j7IynYYvZU9RL21C9Zro4xkLR8lKvgKDk8GQx74T1563PvMEws0DZ2D5tDWNf/hiAlSAwMYn0ObRqQcWBYl0MxAYge6/ZFbpJxExjW4TZZFfk1o9BPstxoHRKpyxh2321ZFbOQkFGg9woSFxLyX4D8BtU8zr1lCttCAAAAAElFTkSuQmCC",
     "wiki_name": "Cure crate",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cure_crate",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 9040,
     "name": "Gold seal",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-17",
     "duplicate": false,
     "examine": "A seal. It's gold.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABm0lEQVR4Xu2WwUdEURTG5y6SMhpjxhuVaREtJrNoUcuiXYkihlkkpRiRYhhKSjFKGaVEkVoMEe1atepfO/l6bnPvuW96m3fetHgfn+fd97g/93z33JtKJUqkyHfP5YPsrWdpY3Wo11CKrg88uj0q0EXdo8NajqpLGir2FVN0f1L4gTHd2M5RZSFNi3ODNDs9EBeU+gWYLKWsJ3y8k6NaNUMz5f44gOyVMUFMA6o8IQ6k6PHMnrgbEDxe7JMEUvTUHHYmBVCQm/t5miqJrZCil3MX5i9jxwmFWlH7csSZMMzoS8vz6aiBFL3d2DC8NEEZsvtRZFL08TDqTMYBOBQa5FYlEz3MV3vM2VFBQNz1zWzUMFAnN2HlMY3es7YiUKr3O79UHMB8599QKnTniGGgzrHArSH4ExYrVdiuMsf0P9hVQlcP92jg5nCnu3k5mM/nogMQZA2D40EIBlL02uqUi4fWHIevGp4kDGSHOSi4poVhIDvQPCva6DUCnbib7LKZYOgzuJ76ILHAaLmnO/KCAMcMYkqvAneiRP9X33sSTHlY5wdMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuElEQVR4Xu2X0UdDcRTHdx6SMs1s7lSWiR6WPeyhHoveShQx9pCUYiLFGCWlmFJSShSphxHRW0899a+dnM2ve37nd9clv9+9PezL17W76/4+O+f7O/cukeipJ8COY1cHZHctjesrQ3FDAV7ve3h7mMPzuocHtQxWFxVU5BUDvD/OtWG4G1sZrMwncWF2EGemBqKCgh+AyWJCO5KPtjNYq6ZwutTfBioXCi6h9MpwEG6CKk04BwJ8PNUX7gZEHs/3uQQCfGoOG4sSUJCbe1ksF51VCPDlzIT5zbTjVKgtAwG2LkaMBcNMc2lpLmkbCPDtRoeRrQnKEJ9HBGMJCPDjYdRYTAJIKBqQm5WUfZiv1pixo4KApOsbadswJD83Ye3hptmzuuy3St71jwJ8v+u0SgLwz/I7ahVNZyfVkb9cQsgj2VmrwnYVP6euoV2lXj0swpDMR4O0hDvZyWowFoEAP5/zBkCQFQw9HhzBkABfr/x2ydDy8+TLhucShqSHOSi43I5hSHqgZVaUadY4mMTdpLeNg9GcoddTuiYiGCXz6U55oQBzkIhglPi/Bt8xgPjilYipKj39b30DRbaHQJV0aboAAAAASUVORK5CYII=",
     "wiki_name": "Gold seal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_seal",
     "equipment": null,

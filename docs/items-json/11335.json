@@ -1,7 +1,7 @@
 {
     "id": 11335,
     "name": "Dragon full helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": false,
     "examine": "Protects your head and looks impressive too.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgUlEQVR4Xu2VwWsTQRSHM4Rl2SKVQE9ePHlpDwUvXiwEQsBYEVRyCEWxQUvF9lAiaEG0lKCHCJHSk2APHv0nn/PN+NjJdmt3k2y85AePZafTfV9+772ZWm2ppRYiI9mV/ygjvV5fykOV3V9YRlqth7K/PygIxR4jBwfvC+4vJSOfPn+TjY1N6XZfFEhgZC2puX0vd98W2F9aRrorkfT7h9JsPrgmgZHB4MTtAarYDyglI8ObsfQsUDOuy+26/+VXBRDD4Zl7jsc/pdN5Ug3Q7o1IOkld7lgg4J4m/h3Ie7FfZ++h3Ue07Rp7trZa8wf62ojltU2yGdXlaDV2oYmBAwyotVpN3tg14AEiUkfT780I6IFI9MGCvPsbwAAZApEcGF27b9duZUpMKbXhs5kKyjgYmvqjLR1QOATM85VJoPUoLSfu3I1ShxRkRhjk++LEwgAEDIAKo70EEAD6jjsA4tDe3pHs7LyaFuby5BDA4AolIXCM5I8T3ysAAQIUvUaT4w5A/K3dfjQdzPHxFzk9/S6j0Q85P/8lFxe/nSvaP6FDwOiUAaLPLBBOXX1cXKvsP6RB2cIeomRAUR5AFAaAECivj2boJyOjhu8fPs5oEwrJR7WH8mB0yvJBSsMg49xg9HFHx52S0UfaQ7ikox/G9vYzF5zYxPp0roTyY3/WSNyJrQB5QFkYdUbdmAOMykONLZQC0MwhkN5zGpTuclnmAoM8EOUKAXBF3+kfhdEpmyNAnjxUFigcdYWZHPPK5Jv7X0A8FSa9wyqTP62zQHoGAaSl0uNhoUAhlJ7SIdBq9UDIuOuDg5DQcde7bLKZK4dR+dtfnQov1wWDhNLE2VhqcfoDf+Aa3z6B+7IAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnElEQVR4Xu2Vz2sTQRTHdwjLkiKVQE9e7MVLe6h48WIhEALGiqCSQyiKDVoqtocSQQuipQQ9RIiUngR78Og/+ZzPjI+Mk227G/Lj0i88lp1M8j75vvdmkuRa15qLjMQrC5SRTqcr5aHK7i8sI43GI9nb6xWEYo+R/f0PBfeXkpHPX77L+vqGtNsvXYK7q6uXJDGyUk3cvlc77wrsLy0j7aVUut0DqdcfXpHASK937PYAVewPlJKR/s1MOhaonlXkdsX/84sCiH7/1D2Hw1/Saj2dDdDOjVRa1YrcsUDAPav6dyDvZ36dvQd2H9G0a+zZ3GxMH+hbLZM3NslGWpHD5cyFJgYOMKBWkkTe2jXgASLU0RGQujmxPBCJPlqQ9/8CGCBDIJIDo2sP7NqtqMSUUhs+zlRQxsHQ1J9s6YDCIWBeLP0PtJaOyok799KRQwqiMDg2YRl9XxxbGICAAVBhtJcAAkDfcQdAHNrdPZTt7deTwoxPDgEMrlASAsdI/qTqewUgQICi12hy3AGIz5rNx5PBHB19lZOTHzIY/JSzs99yfv7HuaL9EzoEjE4ZIPqMgXDq4uPiSsVfGAVlC3uIkgFFeQBRGABCoLw+KtXcaqu31sig5vuHH2e0CYXkR7WH8mB0yvJBSpcQGecGo487Ou6UjD7SHsIlHf0wtraeu+DEJtaixi4Jg/zYn9aq7sRWgDygGEadUTdimDhTCXmooYVSAJo5BNJ7ToPSjZdlKjDIA1GuEABX9J3+URidsjyAKcCoPFQMFI66woRjPkWAWL65LwPiqTA6XTMFYvRjID2DANJS6fEwV6AQSk/pEGh59kDIuOuDg5DQcde7LGzmvIaekfztr06Fl2sMMgcY1fg9tyCQkcLkCwWZl/4C6hxfr7+T6C8AAAAASUVORK5CYII=",
     "wiki_name": "Dragon full helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_full_helm",
     "equipment": {

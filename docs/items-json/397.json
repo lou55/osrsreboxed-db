@@ -1,7 +1,7 @@
 {
     "id": 397,
     "name": "Sea turtle",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-28",
     "duplicate": false,
     "examine": "Tasty!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNklEQVR4Xu2Uz0sbQRTHHZbFYw8VigQbGjGQRqIG0xiIJsGGNCr+QsUeeuihhx48CB48+L8/+c7wnczOzoZsYvSyD75kwr6Z93k/ZlZWCiusMJiStD7MlKx9/pTSB4EpKa2vSeXrutXWt1JC7wimpFz6YiEatYrs1TcztWQoZUFqmxtSr5Y1UKf5Xdq7tZT2G1X9/Q2r5R6iEiDIHkG7rW0ZdHb1ry98hx/8sW9BKCU75chm54Igc1SFMFCv3bBryodaAEhJtxZJs2KAQiAE+NltBjU62tc+8Me+BebJwPTrkbSrka4MDmR7XBAEDWnc/6F/4YM9nLE5gJQGGe4YYYA5tCEYBPZ1dnxg1/Bx52suoPNWZIVWIbMQCAL7uhh27JpQ2MOZ4jymlWlKfh/GctsxQt85uD4Mgru6GnXt2odiK/8ex/JvGMv/X7FOGF1AR6ZAKfnTi63QqiwYAITkQhEGySFRF+jxbHW2CmEDhQOmwdyMDxNyoeDPgNdtA4QkZ2yVa8n+MlMXxgdxxeokA+aGmGbmILcqd6e9oADzhoFDZt4kCkN4fz5IgbAyGFD6+pXO1symNABuA2YA4u3DQBIEgt94b/JcYM0bRPFtox99ckCZYQQAhtG9Ic/XkxuCYAjAm0ThP/dzoHEGfvktBwzMPAGAeDgxVXm6XJWXW8JM/AhEaN5Qfy/W/JYThqb0YdSkMr6ZaiEQ3xgAUNgHESp8xsyWZwjVVKDshJZqfgK+CivsfewVeV22WXnQvMIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWklEQVR4Xu2Uz2saQRTHHZYlxx4SKCKtVqlgLcaI1ghaE6xYW0lbaUp76KGHHHLIodBDDvnfX/jO8B1nZ2etbmsDxQdfHNk3bz7vx0yhsLe97Q2mJK0HMyVHh49SeiAwJaXikVSfFq2ePysl9A/BlJRLjy1Eq1GVk2YtUzuGUhakUXsizXpZAw06L6TfbqTUbdX1979YLTeISoAgexw67L2U80Fb//rCd/jBH/v+EErJcTmy2bkgyBxVIQw07rfsmvKhEKddqeSBUjJsRNKpGqAQCAHeDDtBzV53tQ/8sY/zlAPIwJw1I+nXI10ZBGR7XBAcGtL87JX+hQ/2cMZyACkNMj02wgBzaEMwONjXYnJq1/Bx5ysX0EUvskKrkFkIBAf7+jAd2DWhsIczxXlMK9OUfBvFcjkwQt85uD4MDnf1aTa0ax+KrfwxieVqGsv121gnjC6gI2uglHwfx1ZoVRYMAEJyoQiD5JCoC/RzcWArhDZmtFLpDRQCrIP5PB8l5ELBnwcu+wYISbqtIkgGDC3ZX2bqwvggrlidZOZhiN+ArCy5wQRyq/Ll/TgowPgHh2PmNvMmURjCrxfnKRBWBgNKX7/S2drYlAbAbcAMQLx9GEiCQPCbn6yeC6x5gyi+bfSjzxZQZhgBgGF0b8jtcnVDcBgO4E2i8J/7OdCIgV9+w/4t2mieAEDcvDNV+fXxQO4uDYw7YwQiNG+ovxdrftsShqZ0MIqVSQcy1cJBfGMAQGEfRKhwjI0tOYRZgVitdUDZCW1pDLBZIP8WbZbQTs1PwJfvv7f/wu4BlEAA9HnyLjoAAAAASUVORK5CYII=",
     "wiki_name": "Sea turtle",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sea_turtle",
     "equipment": null,

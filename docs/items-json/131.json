@@ -1,7 +1,7 @@
 {
     "id": 131,
     "name": "Restore potion(1)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "1 dose of restore potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xt2Wy08aURSHvas2TdvUaGvUSF8+AFEReSm+EV/4AAmiIC+LFItBFEGxTVddNOmmiXHVdNPGdqekuyZdN+nG/km/ci4yOKGbNjBjPMmXSe5i5ss5v3vn1tRcj2IQI2sxbKw+hduugG2wETpNrdxSDF+OBvH5vYWzE1HB53wspxQTZD6+MyMR7sDKwkO5hAqZKQp9eGtCPNDOxydDnhjmF1xwOj1Cd47fGBBba8PSdAuMRgsGLGNSSjF4vcEy5uZdsE3OY2R0ElqtQVqhjWiME41uCszanbBOzMJgGEBbu0paoeROSiCRSCIeT2B6ZhH9A6NQd/agubmYJcmK4eTkK3K5bzg7y+H0NMfH1dtrlCPUVAzh9Q3s7x/g8PAlh8bV12eWQ4aKYWsrgWw2e8GhkB/ZhKg7nIMsh0ZmMg1BqeqSWoohFosjk9kXUQx1p0YrpRDDqjeAvb000ukMh2RWVv2wzy1haNiK7p4+KJUaqaQYNl9siYQIklxcdGN0bAo6nYlvfQmEGHy+EHZ3U1zoMrS+5PLAap3hwZaoS/nubMaRSqVFkNCaPwS324vJqXywzcP8PKpylxj8/jC2t3fyEnsXlKQCgXV4PD7MzDpgGRyHXt+Prm4dOjrU1ZJi/H9F4yJKUgWCwWc82HQLGB6xCV1SqburIcR4B+ggLApdhoRC4QgPtsOxjLHxaX79qGKXGCKR56IfKvHpSZMICrbLtYIJm51vfzok6RpS4S4VdhZt9WRyt0ziX6iQFCt78f9y5YSIKyEVvX8PI7dvVkqGiuG3sbOAWVtiSC9w3tOKn2oFvre34LS1GceKBrxuqkeo/i4Mt25UUqZY9ELGP3zeqxILklB+jYR+KFu4zKvGOizX3rkQqbjM5Sp+gJXESCr//KV+hCPFA2Qa6qQQ+VuV5Mq5hvUHoqyiyHhsUnAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC30lEQVR4Xt2Xy08aURSHvas2TdvUaGvUSG3rA/CFKA/FN+ILX0gQBUGwSLEYRBEU23TVRZNumhhXTTdtbHdKumvSdZNu7J/0K+eODIx0YzMMTU/yhWRCZr78zrl37lRU/B/FIKWsxbC5+gQuuwq2gVro2yvLLcXw+XgAn95ZOLshDbyOR+WUYqLMh7dmxIKtWJl/yIV0jY1KSwkzkxN6/8aEqL+Ft68M88QwN++Ew+EW0zl5bUBkrRlLUw0wGi3ot4wqKcXg8awXMTvnhG1iDsMjE9DpDEq2Lru6whFOOLwlMmN3wDo+A4OhH80tGmWF4rsJkVgsjmg0hqnpBfT1j0Db1oX6emGWFBKiYjg9/YJM5ivOzzM4O8vwdnV3G8WhJhlFhYIbmzg4OMTR0QsOtaunx1wOGSqG7e0Y0un0JUfi/Cjcqlwxng7nMM2hlplMg1BrOpRc8lQMkUgUqdSBhNxQt7XrlEyJYdXjx/5+EslkikMyK6s+2GeXMDhkRWdXD9TqdqVSYth6vi0RIkhyYcGFkdFJ6PUmvvQVSInB6w1gby/BhQqh60tON6zWaT7YCqWUTWcrikQiKYGE1nwBuFweTExmB9s8xPejEqfE4PMFsbOzm5XYvyQv5fdvwO32YnpmEZaBMfT29qGjU4/WVm2pUmL8fUXtIvJSAuvrT/lg0ylgaNgmpqTRdpYiJcYToI0wJ1QICQWCIT7Yi4vLGB2b4sePEqbEEAo9k7xQiY+P6yTQYDudKxi32fnyp02SjiEypySsLFrq8fhekcR1kCklVnTjv0WmlOQTIv6JlML372H49k0xIVlS+mVsEzDr8gz2ilx0NeGHVoVvLQ04a6rHiaoGr+qqEai+C8OtG3LK5Eo4BdKDL7o1UkESyl4joe/qBi7zsrYKy5V3Llsku4xQwg1z31wsL0ZS2d+f2kYcqx4gVVNVJCK7TGHlH5CXu4oiIn+qwgdf5ep/r1u/ASo719Pb0bWPAAAAAElFTkSuQmCC",
     "wiki_name": "Restore potion (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Restore_potion#1_dose",
     "equipment": null,

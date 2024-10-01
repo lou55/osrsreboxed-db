@@ -1,7 +1,7 @@
 {
     "id": 28161,
     "name": "Secateurs attachment",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": false,
     "examine": "Collects leaves when chopping trees.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA7UlEQVR4Xu2TOw7CMBAF43NwB8ooBYaCgoIShKBDVIiKDonLGznByfqtf5HibkeaBsLuxCRNIwiCICyFMtxq4CKuXq+YZXEl13gocz8fsmIMGl6qzF5rs+263oI4ZT7PKxNjckF2qZMupZ+7KD+uICbm93UbTQWh/qkMbtoWg+bF0CAcnpcynRr/jv1wEENoUGDIHz4nJj+9LP6A9+PUa4NsmD+ELylxmp+ER7gQpzstd13oGcIbwuBMSDgCQ2IPMzV91zQwijKX446Jr3vutS9YNAf/6K0YEgtaOASZojAErRxCof9zSkEQBKEqP0Sr4QbJk+x7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABC0lEQVR4Xu2TvQrCMBSFm+dw6ROIU+lgdXBwcFREN3ESJzfBl4+k5dqbc5MmBSsI98BH6V/O10taFBqNRqP5VoyVTBYskjTzmSBPLucZL8ZeDtskKIOES43dNI1d1XVLhpyxz9tJgDIpIVdK8FJ+naR8uQyZGK/7+cOQEOJPpWNZVe1xUZYkNU6GC+HiKVwp4c65KBPqpEKgCBfCAl6Ui5weCy4cWvxx3bc4ISfmLyJLcqD3YEIYKUEiBE2LngvtIfwgFCaRfgAZEigS28wc/tUI74mIuBh73K0F+LunfnssipR52wPvsfijd6BITChXZHRopCkhYjIRGbkZQ/xApA8vGwLf02g0mn/OG3nsK6Gt1ds+AAAAAElFTkSuQmCC",
     "wiki_name": "Secateurs attachment",
     "wiki_url": "https://oldschool.runescape.wiki/w/Secateurs_attachment",
     "equipment": null,

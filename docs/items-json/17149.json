@@ -1,7 +1,7 @@
 {
     "id": 17149,
     "name": "Bone dagger (p++)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-21",
     "duplicate": true,
     "examine": "A powerful dagger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4Xu2Wz0sCQRzF/R4D/76oa6AHJQpT1iS6aUgdFn+VLCqSlR7SS538477xZhqTr7ubB2cGYR88BnZh57Nv3sxuLpcp09GIWF7xJIAQh2FJjfKuYxFPpwEPX6756bHoE0insvxs8vtbg6Oowt1O2RcU8ey1zvOPO+XF/P4XwtipiCfjmjKWCmAeIIw0DJYHHo1u/MIgEUCgwM+DK78w6AnKixJ/f4WiM87BaLOLTH+kHULpdNJg+v0HZQdp6QnQGwkhYbZtAUqDYEKkg60tQeJgLCSkH4i+YELsKgmRDnNQkdrO5nzZd5kspAL9pYIR3yMJkQxzcOmumC92q3mxAyFhLKUC6dMXpcXJ224XuFY9TQSxmApE6uQFUK97qdIJgrN/QCzC4LcBk67XEa+WLW7cnsfCWAaBiE86+R17AIHiYYwdgkDpMLAjkG2Zt09ypkzHoR9+vhUrMhuo3gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xu2WzUrDQBSFO0vBh+gj+DSiW0EXiihqiRZx10rRRWitP4Qqxb+6sG501Ye7eu51bLydBheZGYQcOATaJPNx5sxMarVKlf6NDOlfIgkghtJ0k6/638AyNBwmdHO9S+dnGwy0VK/HgJJUxq8tenpsUpbtUa+79QOl7/YsQw/3hzR6Pma/jE6+IcRIKGBKhu5uG2xMFcDyEFFgMD3wYLAfIxErKS8gUOCry524MOgJyosSf7ynvzoTpcR2Fdn+aAeEknSKYPr9U3aAtGQA9EZDaJi8PUAJCAZEOljaGsQFY58rsejyQvQFA2JVaYgimJL3IcPL2e4vf50mD6lA01RwxXmkIebBlJwKJF2xJ3a7tTYDoWE8pQLJ7ovSYuftdNapcbA8F8RjKpDhnRdAF71tTidJVgpBPKUCGf5swKCTSUZv4zY1j1adMBrEC8xCd3HGEUAgN4x1QBCoGAYOBJKXPfzcDggyVT4Bl/X9lSp96ROwNFzZA1L+pwAAAABJRU5ErkJggg==",
     "wiki_name": "Bone dagger (Poison++)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bone_dagger#Poison++",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 16424,
     "name": "Yellow goblin mail",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-17",
     "duplicate": true,
     "examine": "Some yellow armour designed to fit goblins.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xu2V+0sUURzF9zIMy4goYhQptMhisio+Fh8brrWii5aS+Io2Nd+KqKioqaRhZisWVmQiIUVEP0bSHxEF/VGnOfdyZXzsslruL+2Bw+7AzHc+c869My5XSin9PxI43fF0/NxErklIAtXVBkpLDOR7XfB4XAgELNSFrDg3ECgoMFFc5Jbn5+S4kJGhHPuahCQwPmaiq9NE6JaBYI1yT3dGAoOFfAi/X5kP8xdQKt7eHhMjw+Yh1N0WA7eblOMPFagNWjJZPkC4IRZUvBmHEghdtwdcMxC5b2KgXwHRPKYJtzCfHWOgkHUShKnS7W0qYQIeQlkuXEpPKC2BsM++OE8B6ZRmp92YmlD/td/tXDlloLCTTJep0EyTMwjF/wTNyXRJn7z2VNkD7e6D3qNATGhp0Y35OWUeT4xnYWgw0xG/gmEaulqmyXOZNOex9vzL9ubIThiIUimxNg2yGXVjY12Zx0zMCcWFThjWpYGYCs9Ze6KuYcIEK801UHj1jEBdfjviIkMOernlxod9C58+WvLXeQOm5wRiTUyBydBMc3fHkuYcvRzOAKMlEKkyJZizkp8/PHi9bWHlsapOPzVvzkRovfhZ9/KSXvzK7WWm3DTnAKKOb02B3788+PLZklDO6nhzDUFA/qqk0k/MOCdMLAl8P0iT1bECZ3UE0TuQcFxLfDn+Y4DjUkDfvqbh/Z4lF7uujmZaBOKi5svwgmGoowlx1+n1xIRYExc23zeFvjPtpPNKyGR0XUwkVFODYp8P+Xl5siKC0PywJgVo/dECFicnMTU0iMFIBK2NjQhWVaG6vBz+khIJ58nNRXZWVnKA3jxbR3R5GSsz05gdG8XDe11oCYfRVBdCfW0tbgYCuFFRgcqy0mQAUQI70SherK5ibX5OJtXT2YEH7W3oaG6Wid1pqE8ezExrpaxsb2sLr56uyaQmBvox3teH4e5umU6B15tcIKYyPTIsQVgZk6FZGdcR11CaW7/lL1wC+9vbMqHdzU1Z39vnGxKQcKxvtLc3WTBa+hMQzymllNIR/QG1A1RgBHqAMAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMElEQVR4Xu2V/UtTURzGdxiXcUUUMYoUmjJMpuLL8GXhrIkOLSVRM1pqviuioqKmkoaZTSysyERCioh+jKI/Igr6o572nMNx1+lsKt1f2gMP24V7vve5n+fcex2OlFL6fyRwvE9S/LnJrElKAjU1TpSVOlHgccDtdsDvN1EfNE+4gEBhoYGSYpc8PyfHgYwM5cRrkpLA+JiBrjsGgjecCNQq93RnyMHleXnS8auUhLwJn0+ZN3OOUApvb4+BkWHjINTtViduNivrQPErlQTqAqYkyxsINSYKlVQwgeDV6IArToTvGRjoV4FoHtMMtzCfnWCgkHUyCKnSHe2KMAMehDIduJCeFC2BkDe6OF8F0pRmp12YmlD/td/uXDpmoIiSTJdUaNLkDIbifwbNyXRI/712qejAaPcBz+FAJLS06ML8nDKPJ8azMDSYacGvwpCGrpY0eS5Jcx5rL7gYfTiyY4HiExwjRYm16SCbERc21pV5TGLWUNzoDMO6dCBS4Tlrj9UaEmawslwnii6fMlCXL4q42CkHvdhy4f2+iY8fTPlrvQDpWQOxJlIgGZo0d3dMac7R2yHJuqwSCFcbMpi1kp8/3Hi1bWLlkapO3zUvTiK03vyse3lJb37ljnJDPjSnoGOVGhK7E4Hfv9z4/MmUoazV8eI6BAPyV5FKPzLjDHRiOrpQ4Pu3NFkdK7BWxyD6CWQ47iW+HONpHJ15LqlAX7+k4d2eKTe7ro4mLQbipubL8Fw0ktNhQnzq9H4iIdbEjc33TZH3VE/SWSUkGV0XiQRra1Hi9aIgP19WxCA0P6y2BFp/uIDFyUlMDQ1iMBxGW1MTAtXVqKmogK+0VIZz5+YiOyvLnkCvn64jsryMlZlpzI6N4sHdLrSGQmiuD6Khrg7X/X5cq6xEVXmZHYEogZ1IBM9XV7E2PydJ9dzpxP2OdnS2tEhitxob7NjQlMBMW5WsbG9rCy+frElSEwP9GO/rw3B3t6RT6PHYR4eBSGV6ZFgGYWUkQ7My7iPuoTSXfsv/cwnsb29LQrubm7K+N882ZECGY32jvb12VaYV+z4lso1hlPQFT3L8mpRSslN/ACC1kgUm12WZAAAAAElFTkSuQmCC",
     "wiki_name": "Yellow goblin mail",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yellow_goblin_mail",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 14447,
     "name": "Rune javelin",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "A rune tipped javelin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA2UlEQVR4Xu3W0QqCQBAFUOcforAooSiwoCKyEjYxKgp6CIKgt/7/KyZmY5W1d+dCXrgsqA+HnUUNgv8McfWKUgRCHC0Su1bv1hziye7A403Go7XRBhHH5uQVCqSOmWaXohDjchh3qKtP1Bji8zLk6yrUhki+GGmD8VNi0rilDSox+1kbBwMwKh+jPCofAzWqfN7BwTSj+g3ZT4JURqW+Ow4DsDvEt6RbFOIgC+S+7WG8AAXySPsIvxQlRlZljIQsRgqBeZqBLQzmlUUIGAnx+zhEwbhAYZp4+QAwYrcIczU93gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA5UlEQVR4Xu3WwQqCQBAGYOcdorAopSiwoCSyEkyKioIOQRB06/2fYmI2Vlm9Oz/UD8OCeviYGVTP+80QV68oRSDEwSIxZ/VuwyGebA88Xuc8WmUGFIehFoo4yk5OQYEsRglEPM0vRUGMy2LsUqt25xz7fF36DkQVI6XcFQkoJo1a+gtsMbtZW7s7JQZgVC5GeVQuBmpU+3kHB/MfVT1kPglSMir17lgMQHeIb0m3KIhFFsh908N4AQrkkfZrvxTVJxtIiZFTGSMhg5GCwDyzgSkYzCsPEDAS4vdxiIKxgcJ8A4XRzAe77f1HzwcPWgAAAABJRU5ErkJggg==",
     "wiki_name": "Rune javelin (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_javelin#Unpoisoned",
     "equipment": null,

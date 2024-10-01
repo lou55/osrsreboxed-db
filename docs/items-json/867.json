@@ -1,7 +1,7 @@
 {
     "id": 867,
     "name": "Adamant knife",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": false,
     "examine": "A finely balanced throwing knife.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQ0lEQVR4Xu2V0WrCQBBFna8QkTYYMZBETCIaLUZsaW0IijW1llJK//8vbrmbbpBCn2ehvbAv+3Q4d3a20/lbEfy8UYxgmA3hCJQguoncgRkXY1fsCCabBOEihBd72kCC9C41xwE7glk5x/Rh6oKdBsYeZTuCvMpbmGAWaNppYCwQq/InPvqjvgaQYLlftjB2kJ2BYVVX4TV6fk8H6BKGG5lzQztqQDTEJ84laKtSgmEERV3gfDhgv92aqtSB3o5HPJUl5mnSwnS9rgaQ4P25Rl1VeNxskMQxRoPBN4gCzMfLCafdrrUTBYEGiI2YuaGd29XK2FGF4dzQDoEWWaZpp6mKdghU5LmmHcHn69nYIRBnR90OX5UzdliVtXO/Xhs7ajCsinYskBN2LJCyHZtmfgikbOcyzf7hVnYAxkbln/rPr/kCCnYJG1dqM2cAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaklEQVR4XuWVcWuCQBjGu08REZtlJKiRGmWNDDe2JlK0XGuMMfb9v8WzvXec2A36T19hD9w/cuKP3/Pe2en8rwiYTxgjMIpGaAmUgHfnSZhwMJDL3NFgBCbJpLTDDjNNA7hLF5ZvcQP9fvwhlKtqhwlIYJ4tMHuatcGOgtGL2Y5AnMcljDN3OO0oGA1EVdlTG/1xnwNIYLVflTB6kKswDQL9haGqbtxb9Owej50qDN3INDdkhw2IDNERp0tQV1WFaRwoKRKcDwfst1tZlQlkvlFzBD6OR7xkGRZhUMJ0rS4HkMDna4Eiz/Gcpgh8H+PhUIIw1CXw9XbCabcr7XiOcwHSIAxFyLkhO/frtbTDYEVHzQ3ZIaBlFF3YMXfXHFUV2SGgJI457Qh8v5+lHQKi2WG3Q6eqNXaoKm3ncbORdthgqCqyo4FMO+YbNUfZ0UDMdnTU/BAQs51q1P1DtzKznWpY/lPX0yqYpvMDfklIL2WGbOMAAAAASUVORK5CYII=",
     "wiki_name": "Adamant knife (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_knife#Unpoisoned",
     "equipment": {

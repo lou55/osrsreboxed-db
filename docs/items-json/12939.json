@@ -1,7 +1,7 @@
 {
     "id": 12939,
     "name": "Pet snakeling",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-01-15",
     "duplicate": false,
     "examine": "A slithering serpent spawn of Zulrah.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3ElEQVR4XtWWO0jDUBSGvUgJCSFSLBZbLFQRqRVBUaygUpBSqyW+qLjUx6AgvnAQpXRwEBc3Jx0EB7GDk6CugpOD4CJODuJQEAodBMHp997EllJB8JF6/ODAIcnN+bjn5JKysv8Dgxnf5SdrP8AwPz2FucnJd6mvvpxhYiz2jXWfYoochGSc6UqBWGGR4twM3Vv+2zKFMKTCMi6CCi6rFXT56vKF1xYW8vlJlYIbl4pUQLZSJgcv2KXgOqRixy5jRZMwHIlgRLYhpuuYUW24qlZx1q1gs0kqjdBUTwCL4SD62/wY7WzB0d4uEktLWI2GEG5pRLS92bgn8tl43Gophr1KPku8LRsVkrFD4prf40KgwWvkSX79wCFj2y5Bly2doRzmnBzzOOSFRfHEUB88VXZDUgiLyM1U8WqLMIvdu1U8ezRDqMdfjxSXE6IlFCmG4Y5/UfFgB3xuZ76FxU+VGIbXYwcq1T/dmUIYXlIaPA47HaFsUoMi2egIZRIarZZtjQ+h1VtDR0ic0v4aFx2hxyixGQr4vHBWqHSEHgY0WkJP68RaJn5DiMgIGNJrGi2hzbFBWi273apFrdNBRyi9T2yolyO9VGQE/BzaJTbUmVNiLcuek9ohASkZa3gDn2kCnbP1eOMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACC0lEQVR4XtWWPUjDQBiGPaSEhBAplpZWLFYRqRVRUaygUpBSqyX+objUn0FB/MNBKsXBQVzcnHQQHMQOToK6Ck4Ogos4OYiDIAgOguD0epfYtI0g/tR4vvCR4+5y38P3vRdSUPB/RKDHd/WTd9+JYHp8DFOjo29QXz2cYGRo8BvvfSgdZCcs4kiVssCyk5jHeqi+Qu1ZV1amRWbPD6UfRpCKiDgJSTh1S2j1VxiJEzMzxvjAKeHCIyMVFH8HJlc0YauE87CMDbuIBUVAXzSKftGGQVXFhGzDmVvGUZuE1RrBADKfkkcRjLUHMRsJoasxgIGWeuxtbSI5N4fFWBiR+mrEmmq1NTaejMdNrc27CLaKqZdoW1aKBK1CbC7g9SBY5dPGy3R+xyFi3S5AFTMeMp+UR+k+2aexSxOz5MneTniddg2SAbNIe+qXPZSWnuy6RMaTV9GA2gOVSFE4BpoNYgGMrvTNu6I3Kh5qhr/EZbTQUpD3InjZd6BYzq2MeZeFInhOKfA67FYY+DMieFxWIAk2foAekkpOy8w7LBbB2nAvGnyl/ACxr3Sg1MMP0G2MMw8F/T64imR+gG66Fb6A7pc4axn7DUnDcAF0l1B4qQ4TwepQj9Ey8+ofiOByrRzlLgcvVaIt2+bM1PPRDr5MfbPJmakfDjMtM6/+gej/0HGmQtxUiSMYXfmGeQXMSjqGN4yy+AAAAABJRU5ErkJggg==",
     "wiki_name": "Pet snakeling (Magma)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pet_snakeling#Magma",
     "equipment": null,

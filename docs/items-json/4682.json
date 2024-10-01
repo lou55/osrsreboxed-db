@@ -1,7 +1,7 @@
 {
     "id": 4682,
     "name": "Holy symbol",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-26",
     "duplicate": false,
     "examine": "A Menaphite lucky charm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoElEQVR4Xu2WTUtCQRSGHSREESNqI4ELIVwU4aKioAKhAjdBi6BFi6BF//8XTDxzeJ3x0pXA68wleuEg3hk5zz2fdjr/alTOr1tROT873vOTo66/POn55cWgJJTz44NugAFqPu1VoLKCOX84MpiziYHcnfZXn0C93Y9yQll0BLM47/vH+SBE6XrWD98zp8+F6ACA8+er4SpNilJ8lkVWzKqZmB4XIDcD7aQjXUiX6uXj4Wegr+V+4tjOuc859xqEMsek6+VmGIBU1BQ7sNTU+yKCcpdzTHXWIBCK9YJznACiVCplnGOcpwXPi3w+pRFsRAZFtIDBcAoAjqsmEGqOqG4JlBbjuglIbY9joiYjWgKp/rbq5ZeyrkpNEZEBIyAAgOLz9TaOhC0AqrLJrFUxHRuQ1kVqABGNHUCksgilECrSagp4Rpp2BCKZI3VM/dvHexl2WR1EqghUP6mzyoC0bFsHFDusmGxQCijzX5A62d7SQIz7rJhsf2kwxplUTC0FUsoo7AwzaZPitCY6rQJKI1S4uK3TWpIyKV01xWH+uL4BYu2BwwWHpXQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4Xu2WQUvDQBCFuxQpKaUieilCKQXpQZEcVBRUKNhCL4IHwYMHwYP//xesvh1ed7ImUdJk14MPhtJsmvnyZna2vd6/WpWxxUgqYxfHe3Z61LeXJwO7uRimhDJ2ctB3MIDK54MAKiqYsYdjgTmbCsjdabb9BNTL/TgmlLhDmOV5Zlf50Ll0vcjcdzqVz2YxoIxzBwBI/ng12paJLvFaNCD0DXvGl8c4yHqgTnakceViv7w9lAN9bPZVYlnH/VjHfS1CSWKU6+lm5IDY1Gh2wKKnXpceFPdiHcE+K3ewsXy/IDmSAISlZMmwjsC6bni8yPtaO9iKBApuAQaBpABA4jAIgp6DqwRq6JJuxmIQiNseieEaA24R5Ntvv2AaAMmu0kFHGIAhEAAAhc/nWz8SNICOMNsvJJOZR8V8IkA8LnQACG7UQYRPbyBxSEOwScMS4BrKFIKET9xRkog7purt9X0RzrJyiOLbe6DqSd2iyiG0BIiHbedAP6sI5HdYMsmgJFDkvyBVknOLA9GfZ8kk5xcHI2dSQpf+KBBLhsaOMJPq5Kc13NFAiVzyQNqhxM0tOy0sWf1Q7VzFQzcxjEgfNclh2tQnkVK/aAxgQ78AAAAASUVORK5CYII=",
     "wiki_name": "Holy symbol (Icthlarin's Little Helper)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Holy_symbol_(Icthlarin's_Little_Helper)",
     "equipment": null,

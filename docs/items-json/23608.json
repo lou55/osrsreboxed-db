@@ -1,7 +1,7 @@
 {
     "id": 23608,
     "name": "Imbued saradomin cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-11",
     "duplicate": true,
     "examine": "A cape from the almighty god Saradomin, imbued with great power.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xu3WXWsTQRQG4AYJwasilgavRfwtIqipn1QxVKmSgEKxfpQS8SMW05hCTbTY0KIltiFoi6goikFv/FtH3528mzOTTcwmW/HCgUNms5Psk3Nmz2Zk5N8fMQmOoPO7PmJSnD8phbmUFwu3T0h+9rgXRNSWp+TVUlrWn1wMQLk/Ymi4AREFEMPFrC1ekJWFSevCOMY5N2xUKGRMlnKnOlB4BYRB0LP8OVm+d8Zbi9cgENZr9LfGvHzZvDEYiiDMmR2CVh+f90Bc2w2Ez32tz8n37fvyY/uhBwqFwZfyVxOEiwaByg/O+iDMg0Cb5UsWCPM+QTGrDLgQNzeOXRAuDgTLq0EsD+aN59PRgZglvBcEYiYJQtbwPc3mT9mqv/fmb19c8UGIUCDuCxeEi7sgvaERzEo2e1NSE5OSTme8453qVRu0dWt4EN4HiChmkmvw2fhYRhLjM9JofJRcblFKpapUKhveuUhBCAA0SG9oYjxQ8o4cOZqSg4cOSzJ5QBKJvRao+eZuvxgMG6RRvH01iCWKj1/7jZk2r4j9U+Z4zJTs08b1QUEY5iL49b1AWJNIziqAyZCBtDFY+7k2MyjI9CBkqBfIz4qVDYPwopUxrMN6DQrRFM0tHwRC6N4SH50w0YLsvK45mHZ2IgURhfAg+063MR6IZdKlMhE5SGcJ5/aMHusIYszcxiCjANUrl30QunSfGAxzh7mgrhiVIQ0ihnsOjw2doYFA7j5yUT6mVTqCNIblwmMjMlBQlqw9pAJr9JOeoHdrGQsUAmVA3cq2Uih0ILjJcR6ZdEH42/FhPeuD0INC9CEbpMvGrvz0UV5Wi0V5WS77pUIEgZCdoUG4y7qB2J2ZrWqp5B+jTwGEdbpckYHcsuF9lkA3SHRwYgjiWoBwy2sQelDoPhRUNg3CHBfnvwAXpPdPJKCgsmkQzum/JRqEdXr/DAnCMKX4U2iMDheEpqhBjBCgfkcnkqH3z18E9RqdyM74P4YbvwDOcQ7m6X3cvQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xs3X70tTYRQH8I2Q0SuJxNE7IaK3/RsRVNpPLBILCwcFkv0QMfphoq4JNktSlBLTMUqJiqJo1Jv+rVPf59n37tzjs7G5W/jAYffuPvP57JznnjtTqb0/0hKO0PV/PtKSHz8jM2O9LqbunZbJ0VMuiFifH5Q3cwOy+uxKAGW/RNtwDyIKIIbFrMxelsWp/tjCOMc1G3FUS8i0zE2c3YHCKyAMgl5MXpT5h+fdXLyGQJiv0T/K4/Jt4/buUAThmNkhaGn6kgNxbj0QPve9NCY/tx7Jr60nDoQ1jvX0uLCrm+HTzm9NEBYNgYqPL0QgHIdAG8WrMRCOCbKrm5GOlQELcXPj3IKwOBAsrwaxPDguvxxKDsQs4b0QiJkkCFnD36lUfstm6aM7fv/qegRCtATivrAgLG5BekMjmJVc7o709vXLwMCwO99evhEHbd5tH4T3ASKKmeQcfLaja1gy3SNSLn+WiYlZKRSWZWFhzV1LFIQAQIP0hibGgbL35fiJXjl85Khks4ckk9kfA1XePYgwLYM0irevBrFEHd03/2KG/Cvi4KA/7/Il+7J2Kwiyq9cZfhF8+0YgzMlkRxXAZ8hDahjM/bo+sluQ70HIUCNQlJVYNjzCRTVjmIf5GqSbol3dDH/Lh0AI3Vs6Ovt8VCHbb9cNppadREFEIRzkwLkaxoFYJl0qH4mDdJZwbV/nyR1BjD+OY5BRgEoL1yIQujQxTYFw51hQXYzKkAYRwz2Hx4bOUJPZwaiB7D6yqAhTLR1BGsNy4bGRGCiUpdgeUoE5+klP0IeV4RiIKLt6YHhQvbItzszsQHCT4zoyaUH42fFpNReB0INa6ENxkC4bu/Lzp5OylM/L62IxKhUiBEJ22gbhLqsHYndmtpYLhegcfQogzNPlSgxky4b3WQLdINHBiSGIcwHCLa9B6EEt96FQ2TQIx1icvwIsSO+fREChsmkQrumfJRqEeXr/tAnCqP2r0ig0RocFoSlqEKMFUCrFtt4oLFCH3j+JgJodFtkMllGb+5+GRYbCfmZPjz8YhFlyOUGkogAAAABJRU5ErkJggg==",
     "wiki_name": "Imbued saradomin cape (Last Man Standing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Imbued_saradomin_cape_(Last_Man_Standing)",
     "equipment": null,

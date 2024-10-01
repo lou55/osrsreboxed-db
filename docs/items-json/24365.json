@@ -1,7 +1,7 @@
 {
     "id": 24365,
     "name": "Scroll box (elite)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-11-14",
     "duplicate": false,
     "examine": "Contains an elite clue scroll.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xt2W30tTcRjGPcgY53A4Yzg2tpGxDR06UTd0OnRuYqZmYD+JpAIJIegiugmimy7ECApB6BcRdBF5EQRdeNV9dNddV11E/0LQ7dOe9/DuHCd05XdCL7yIojsf3+d9nvf09Pz/ZeFwH1tZaJZ6sVLuxeVaBNcbEWwuRo4LysJYqYSBXA7FQgHDg4N4dcvGzoaNravRbk/LwslsFiNDQ20Ywk2Vy5gcH8P+Awd7d20B7BKUD8QmBMEIMlutYqFel69z09P4eM/pBpAvxYlMBvmki1LWQzXfhzOnFnBxdRXrF863+8u2axrInwynUZuYkOnk+/tRG/RwttKH9dkUbi9nsTzfxOlGA993XdNTsgSAk2FTKpVovhTDuckEFkfSWKv4UL9eeyZhWBaSXlSguMyV0VEBWVtaEoDmzAzqxWQbiotuEMhCzPMEhiCcDiVbHI3j0lQCG820fF8bSKA5nBLJdm8ac5mFvnhcYD7dd6QJxQkoEKdCZ3HBOSm2MRjXcfDoWhRvtmy83bax98TGt6euLDfBVKbV8Ywsuzqx85OOoCzY0SiSiQSebdoCtP/CwYcdRxxEiZjUKlMAY6wseaA2d4IJ/Pmhgx/PXVlstsjUAjIOw8zhf62nQSXiZLgv/Lm4LRdHOWc0BFtL7PaimPZTmPnC0KOTGHzMHrqMQNpGYfgwnUS14GJlPIBaHkuLpfk7bEppFCacxLQzpSGcQtFNDEGF4U0zAKQ29ZOYu8OH1YdiAsKJcJckX1rLyxSmbMHfHWn5CUxrK4juB88Cj+aVWhI35lIyKQIFMEdePkw6lWrDEET3gylMmQjB3aHL6CbKaAyIIHos+ab37o7dBqLVNfQIxCU3aG/rwGQ05JjAXx8HZ6HzNBiCYflAnI5KFW6+y/x86R04DQalYgVA+qKuUoVbTwOlomTGgSgZHxqG4O5o/37vhV60jMGwrLbVFSgMEgZiG4ZhBUBhu3cC/dnrCozWYad1ghk6Df8qfzc0jzrBugwTLl3azjZbfwHsflFa1YrItQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xt2Yz0tUURTHvYgM7/F4MjjMMA6Zo6joiM6Ijg46OmKmZmA/iaQCCSFoEW2CaNNCjKAQhH4RQYvIRRC0cNU+2rVr1SL6F4K23/yex3nvOUKruSN04CCKej9+v+d878WWlv+/DI72sZVBrdCKlVIrLlfacH2uDZuLbccFZTBaKKAvn8dAby+G+vvx6paDnQ0HW1cTzVbL4GQuh+HBwRCGcJOlEiaKo9h/4GLvriOATYIKgNiEIBhBZsplLFSr8nF2agof77kCVOzutgkVWHGisxM9aQ+FnI9yTwfOnFrAxdVVrF84H/aXbc82UKAM1aiMj4s6PV1dqPT7ODvWgfWZDG4v57A8X8PpuTl83/VClep/U4PKCACVYdMqtWi+0I5zEyksDmexNhZA/XrthwpZUskg7ScEisM8NjIiIGtLSwJQm55GdSAdQnHQLVpm0O77AkMQqkPLFkeSuDSZwkYtK59X+lKoDWXEst2bwZZZADLoSCYF5tN9V5pQVECBqAo3iwNOpdiW7DLwXBePriXwZsvB220He08cfHvqyXATTG1aLXbKsOsmWoFxEgmkUyk823QEaP+Fiw87rmwQLWJSq00KoyANhmEZOVCbM8EE/vzQxY/nngw2W2w6ALKkilaQOfyr9WpQi6gM54Vfl23LJ1HKWw3BgyH2WjGQDVKY+cLQ4yYx+Jg93DICaVtUx8hhqkS518NKMYJaHs3KSvN72LTSKkw8ibnOtIZwCsVtYggqDO80C1ZFrz0mMWeHh1UH2wWEinCWJF8OhpcpTNv0ZxqsTpDAXG0F0fngtcBL80oljRuzGVGKQApjYb0DmGwmE8IQROeDKUybCMHZ4ZZxm2ijBZtYwWrrZcmX3rs7TgjEVdfQIxCHPL7eDQYyh5TRkGMCf30cXQv1V4MlGFYARHXUqnjzLfPzpX/oarBoFSsC0oe6WhVvvRpoFS2zDkTLeGgcgrOj/fu9Hz60LNrFMuGqK1AcJA7EtgzDioDi614P9GevKTBaRzetHszS1fCvCmZD86gerInqRBUcFv/vRdS2Yf4C/u2R3ZPG4PIAAAAASUVORK5CYII=",
     "wiki_name": "Scroll box (elite)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Scroll_box_(elite)",
     "equipment": null,

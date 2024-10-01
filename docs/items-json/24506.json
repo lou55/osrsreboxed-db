@@ -1,7 +1,7 @@
 {
     "id": 24506,
     "name": "Nightmare staff",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-02-06",
     "duplicate": true,
     "examine": "An ancient staff corrupted by darkness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xu3V22sTQRQG8O6ji1RCS4IpicSSSFSwFBT6UFB886WKoqKiqKgoIkilpRTFSyneKJR6QaWFSqmlaEWQVhRF/7Ij3yzfcHYysbvJKn1w4LCb3dmdX87MnO3o2PgtEH/47v/1FsiT8aPyaOyIicnRwzJxa8gEEQvT52V+6pzMPT3rQbl/om14BCIKIIaLmX18Rl5OnooNjN+450YclQoZyNTtYw0oHAFhEPR84qRM3z1u+uLoA6G/Rn9fHpevi8OtoQjCObOD+xjo9cPTBsS+zUB47tvSmPxcuSe/Vh4YUCoMXsp/TRAGxYtxf3u5bI4Azdw/YUE494EWZy7EQDhPCApi04CBuLjxm6BtPT0mOAWc3mag5ReXsgNhIA6sM7S7XpeDg4M2WwQhay7ow6vLFoRIBeK6IAjXthYKsrdvj4VVKxXZWat5M+QDfXxzJQ56N9IeaHMYSqlYNNlAALSjt9fc0zuyGejT7NXsQJyyrlzOrBuAiNELmtlCaAx25er8dQv68f5OUgxaHKSzlO/uNoHsDA3styALDjulc1Moh3bti6EAWnt7o1UQWvQvMZibJUQ5lzfH4pYue62aj3aczp4GfVm42SooqkHIkAvCy7nL6oWSWVMEHaj1GSgCGdQgPKNBKYpitOV9IARfThQCU8hzHTo7mYKIQmAAVFwMgHPcwzOcTqDxnLugMwPpLOGoQeinFzSrtg+09OyiBaFKJ8SgRTvMB+LnQIP4rdNT54LQF58NnaGWQO46YrEjCL8JclHudOGzkRmIKFzHAAThvq7QulZFAwYWhCqtQSlQEcg3bUlAyBhR/aWqOUf/z3PXLAg1KEUdioP0tGkQjriuMQThGWaov1Axx7ZAWKzrgbjlfSCuNbyrHOayA7nThusapBc0MQSxL96HLa9BqEGp65Bv2jRIb3kfiDsMfTMB+aZNg3DPt6AR6Mf6kwEILVqQ64W7fhguCEVRgxgpQElbI5LB+oPs/EPQn1ojsjH+t/babzgLGwKy7H20AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xs3V22sTQRQG8OTRIJXQkmBKYmtJJCoYChZ8KCi++VJFUVFRVFQUEURRSlG8lOKNQqkXVFqolFqKVgRRURT9y0a+Wb7p2dMTzTZb6cBhN7uzO7+cmTmbyaz9lnV2WPdXvWXd45GD7uHwAR9jN/e70etDPoiYnTjtZsZPueknJw2U/hNtwyMQUQAxNGbq0Qn3YuxYbGD8xj0dcVQiZNaN3zq0DIUjIAyCno0edRN3Dvu+OFog9JfoHwsj7tvctZWhCMI5s4P7GOjVg+MexL7NQHju+/yw+7V41/1evO9BeEejp8eHHl21KO381wRhULwY9zdXKv4I0OS9IwGEcws0N3kmBsI5QXp01bKxacBAXNz4TdCm7m4fnAJObzPQwvNz6YEwEAeWGdper7u9g4MhWwQhaxr0/uX5AEIkAnFdEIRrG4tFt7OxI8Cqvb1ua61mZsgCfXh9IQ56e6M90PpczpVLJZ8NBEBb+vr8Pbkjm4E+Tl1MD8Qp68zn/boBiBi5oJkthMRgV36euRxAP9/dDpjEIJmlQleXD2RnaNfuAArgXIfrWJdz+7YNxFAAfXlzxQTp0Zu06F9iMJ0lRCVf8MfShs5wrVqIdpzMngR9nb26UlBUg5AhDcLLucvqxbJfUwTtqTU8FIEMShCekSBZFPXoqkVb3gIh+HKiEJhCnsuQ2UkVRBQCA6DiYgCc4x6e4XQCjef0gk4NJLOEowShn1zQrNoWaP7p2QBClSamJRB2mAXi50CC+K2TU6dB6IvPhsxQi9lBWwLpdcRiRxB+E6RRerrw2UgNRBSuYwCCcF9WaFmrcEQQhCotQUTp0Y0WgaxpawWEjBHVX676c/T/NH0pgFCDEtShOEhOmwThiOsSQxCeYYb6i1E9aguExfovELe8BeJaw7squXx6ID1tuC5BckETQxD74n3Y8hKEGpS4DlnTJkFyy1sg7jD0TQVkTZsE4Z61oBHox/qTAght+XfJCr1+GBqEoihBjASgTIZl/W+hgTJYf5CdVECtNo1sBctY6vufmkZaoZ9Z0+0Pgg9ljqltMX0AAAAASUVORK5CYII=",
     "wiki_name": "Nightmare staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Nightmare_staff",
     "equipment": null,

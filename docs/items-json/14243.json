@@ -1,7 +1,7 @@
 {
     "id": 14243,
     "name": "Crafting cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "The cape worn by master craftworkers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACa0lEQVR4Xt3Xi2oaURAGYA+liCGkSMWgorKKim7o6hJv1FvQJo0NreQitqFJWxpaAqW0D5EX6AP/7T/LMVuhYkr2WDqwLMjqfsyZmXMMhQILhcVP7jH443d5gUIyGrnjd1YOhejGQ2xFQiu+QCEX30Qpn1/x+b8KhUJCg/6ULe9zJ/NoyTP3GgrN4gMkohtIxzYXcAp2JoZ2IWYC4g+FoZNFIR1HKbEF14rKVS9n0a2kcLibMw+atAroVQuwrSTslIciiBkyjGEoXAx3cNKvYc8tCkTfb5fRWCh8n43woZ/D+cCWTDn5lIDc/PY6MqTwdTrEZTeHjwcOXvcqGNXLUlONYgJuMW0e9OV0gPOnFq7HNbx/9gRv9htSyGsDXR/3BfTpsCog1tN+zVof6POkh1k7K0tGDGtprUt29bIzBxHDOvKDbqd04KGk1V+5Kem0SDiMq2kH004JP25u5GLHGQWd7blzEOuHqJN2Ue4EcVAaBc1GuwJi67N+uFzEsKjb5STK2W3zoON6eg76dhSWi9nRIG4lxkCcOQRxFmkMpzVBzBRB3HCNgd4+b85Bun6OGnnpMqII4sHMGOjduIWzZkZArB8/iEvGvYyF3cg9DhrltfyLalImtS7oRZBjxQXE40jgILa8H8T5w/ohiF3Gw5ns+GZa/3cQJ/QiaLCTkWltDKRnEEF6ufyg+bL9mtZsfS5xgCgPxI3VXz+LIGZJgyZdJ1gQZxBBekNdBuIsGrfsfwt00KxIVgNCeSdFXdDLQOw21lLLtoLC6PBOizwPcUAyY+w8Fm+3FJc/iByI+n9awBgdfMmq138UPwHavAe0i/IS7QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4Xs2XC2saQRSFM5QihpAiFYOKmlVU1NDVJb6or6BNGhtayUNsQ580tARKaX9E/kB/8GnPXWarSysKnbUXBmHZdT/OPffM7NaWsVLwX/mHxT9f5wUKiUh4zWdWLoXI9n3shrdWfIFCNraDYi4n91f391d4Zu1SyMc10N/Ucq/b6QfePYQxBMRSaBbuIR7ZRiq644NTqKSjaOejCyAGYXQpDO0M8qkYivFdOFZEVr2UQbecxOlh1mSb/lQKk1YevWoeFSuBStKFIhAVCqBN/lJ4MzzARb+GI6cgIPpXtzFQmO+zET70s7geVEQpO5cUICe3t6CQ/0lDpfB1OsTbbhYfT2y87JUxqpfEU41CHE4hFTzQl8sBrh9buB3X8P7JI7w6boiRNwZ0e94XoE+nVQGin45r1uaAPk96mLUz0jLC0EsbbdnN844HRBj6aB7od0obLyWj/sJJyqSFQyHcTDuYdor4cXcnixOngQJQSeHqyPGA6B9CXbQL8ksgBmWgQLPRoQBx9OkftoswNHW7lEApsxc80Hk95QF9OwvJojoaiFtJYEDMHAIxizQM05pAVIpA3HADA3r9tOkBaf+cNXIyZYQiEA9mgQG9G7dw1UwLEP0zD8SWcS+jsRvZh6ZH3x35Z9WEJLU2tB/ItmICxOOIYZXckZ8HYv7QPwTilPFwJjt+MKO/CMSE9gMNDtKS1oEB6QwikG7XPJDXtl9pzdFniw36yAXixjrvHz8QVdJAk65tUiU3gwikN9RlQMyicavyfwGdNMuiqqG2uSdFbehlQJw2eqlVsTyFjKlEIJ6HGJBUjJNH83aLMflAZCDq7zTDMLoWv1SXrQBg3NIvWmX5n121fgIdFUVZdFrwswAAAABJRU5ErkJggg==",
     "wiki_name": "Crafting cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crafting_cape#Untrimmed",
     "equipment": null,

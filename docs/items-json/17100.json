@@ -1,7 +1,7 @@
 {
     "id": 17100,
     "name": "Bar magnet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-12",
     "duplicate": true,
     "examine": "A magnet designed for undead chicken use.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVUlEQVR4Xu3UvWoCQRQF4B1kCaSIjUSiBCstbIxgjIEYC4OgXcoUvodF3n3CncmZvfNjbO7uGNgDh11t9ts7O1MUbdpcTZSumj1Kv8znrplhSm/Xa9PP/T4BazznQRmmZTHvq5VDhaCGp6UMhoNSU2poWkrvNpsIFE7pod83jWFisW95+NheBAHDUfe9niSo2t7PT7OzIGoIAUYQ5J81ANGVg0bDoWkKI/gNxRhegIABKMaIxMekQFSOodaAseM93pZRXxcLr4+DgYfB8olivn4fTlfc4/d0MnEYWhoO4h+0KCYsB1GBAYjKd5Yo5nR3Y/oXiIqHvy2XZnlqxfByFO5nZcftJJwvghiKcg8PQfgfIMJQOUbwA0Ys6FKnZeFAhBM+8MIo/d31p5LCYNnGnaIuCI99Ww5DM2B4LAowQKij5jFINS00I4anQl0BBqltJ7X53/kBfGDcbWDfllQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABa0lEQVR4Xu3UwUsCQRQG8B1kCTrURZKU0EsevKhgZpB6MAK7dezQ/9Gh/33izfTNvnm7q1TPHSE/+HAV3Pnt253NslNOOZoYWzR5jL2fTkMTw4zdLJeur9ttBazx1IMSTMtjVotFQElQw9MyDsNBVVNqaFrGPq/XJZCc0nWn41qGqcVf5cvTZi8IGI66arfd/yeDgQaq2N53k3EtiCohwCiC4ncNQPTJQf1ez7UKg+kS5o+gMoYXIGAAkhhAVDFVICrHUOsw8uw/iB/v+3le6sNsFvWm240wuH2qmLfvxekTx/g+Gg4Dhm4NB/EHWhUjy0FUYACi8p2livm4OHPdBaJi8cf53N2eg2J4OQrH47wVdhLeL4oYigmLSxB+B4gwVI5RfIARD9rXUZ4FEOGUX3gyxn5exlOpwuC23bayCKKMQfzVchi6CyPPohq/gEcBBgi13yQmTjEtNCHGR04rKSbOwXbS73NUmH+bL2iUFdTq6YK9AAAAAElFTkSuQmCC",
     "wiki_name": "Bar magnet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bar_magnet",
     "equipment": null,

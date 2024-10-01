@@ -1,7 +1,7 @@
 {
     "id": 16640,
     "name": "Stone tablet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": true,
     "examine": "An old stone slab with writing on it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB50lEQVR4Xu3XYUsCQRAGYPd3+KEf4IcQxAwzDTMzwzQzMzPNzMyIiOj3b7wro3Pjnpl75xG0sJgFznPzzu1ZLPb3l9LLO7KldDGX8+z9VCoqmNLnpZK+qdf1oN3Wrw8D84r3gO3E49tEeTHjXk8POx19e9kwv2vVaubvu4nENlAzDIreXTUNZNTtmp85qFmt6kalog8zmTBRSp8dF00hFL6/bhkMXv1AF+WyuYAQUEqf5PPmw1EMxREXdmSg06OCKcDjwv4JBRA6GzDKHhcHSVSIXVqOCxDcXRJl6xKBAuySNy4UBual3/dFhRzbIi7qDg5CbIniXcJ7GRsuzBG1iIt35+1xOAdhyy6tis0RNYtLduf9aeRBUZfkLNliwwU6gWR3gPl4HntQcpb8QLg4Z5DszudkYjZQvEu2OZKRAYSHrzMIBVAQgK/pdCMQxeUMwgeiAMVlA1FkdGjyW1/OTyGbdQPR/KALq0AAcBCAHERxOYPoe48E2YZaHo62+XH8SqLmA/0b0Kr5CQSEYn4g2zlEINv8HKTTbiD6qrEuiMdlm5+tgfgtz+eHHhcUF/4z2UsmN0XZQfyklmeQ3/zMAHxvvNRaIPnIQFwBAWxLWUHyDguwC+ss5QHRLb9FgG3JDkSC+F/z9Q3UhM/i165+4wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBUlEQVR4XtWX0U7CQBBF2e/gQd55UBKCGEQwiIgYBBEREUFERIwxxvj9a+6SsdthWwvb0jjJpBTSztl7Z6clkfj/IeRqxhZCVopFVx5ks3GBCXlRrcrbVkuOez359jhWR5wDbCeZ3CaUG2Y2HMpJvy/vrtrqu26zqX7fTae3AbWEQdH7644CmQ4G6rMO1Gk0ZLtel0f5fJRQQp6fVFQhFH646SoYHL2ALms1tYAIoIQ8LZXUzVEMxWEXMijQXioVJpSQZ8dlVUC3C/kXFICgbMgqme3SgThUhCqt2gUQ7C4OZVKJgEJUyW0XCgPmdTTyhPKzLQSVHLtIHQxCJIfSVcI5tw0Ls1TJsUtX5/1p8guE5Cr52WYJtbSLq/PxPHVBkUq8l0y2YYEW1jmTmdQBzOfLzAXFe8kLCIuzBuLqfM3nKgGlq2TqI24ZgPDwtQZCARQEwPdisREQ2WUNhBuiANllAiLLaGjqW5/3T7lQsAOi/oEKfkAA0IEAqAORXdZA9N7DgUxNzYejqX/olWRjIGrodYD8+icUIBTzAjLNIQIy9c9hLmcHRK8aQYF0u0z9szUgfcvr/UOPC7IL/0z2MxkFxasFCDOQPqn5DPLqnyWAk1BoY5WCAPFHBuwyAejJK60RwgjEd5iXCiEAmEK4gGjL+wFEAMHDrYAJgl8ReXCAWCDiih+5WQZriKfxgAAAAABJRU5ErkJggg==",
     "wiki_name": "Stone tablet (The Dig Site)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Dig_Site)",
     "equipment": null,

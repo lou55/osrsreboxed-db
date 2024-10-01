@@ -1,7 +1,7 @@
 {
     "id": 6848,
     "name": "Bell bauble",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-12-18",
     "duplicate": false,
     "examine": "A bauble shaped like a bell painted red.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnklEQVR4Xu2WPWtTYRiG+1IktISW0pDQhLYkJS1NS9JT2tqigh0EBQcHQXAQOwhCB8GPQXCICIIgOoiDIA6COAiCWBxsQSgIQnDwH3RwLv6Dx3O9L09zPKeRWHNyhvaBmyQEci7u+/lIT89RHY4yElViZeRHoyFbGx/lyf26rK9dlbOrp5OEMvJrd1d+7uzI9uam1G/fkmwmkxSQke0Vb0/PZspyIZeRpcG0FPtS3YYy8mXZswLm9dy0Bbo2lpdL+aysDg9KNd3fLSjnjAJ9WKxaoOezk3J3YkzWxwtypZCzThVSsTtl5NvJBfl6Yn4PCqA3XkVeVKfk4VRJbpZGLRAuVXyX0r29cUIZafhASME+H6/Ju/mZCND57LCNrWtA6PupRdlantsX6JwP1DWHAFEp0MukgIIwf3PoTGYobqAoTCugy3kHRA/lUseSBbpRLFggIlsZGpByf1/3gJiyT0s1ees5oAeTRQtEZGxtXZAxxRYFwp33C7N2MQYj042tLsUQW3Pcw+6Ege6UmttaXeK2dRDK2EhYhEEoNjVLESDd1I+mS3KvPP6HSyxIpg2oDpwSYx+IGwCp+ExcG/7ZoKFxiD30uDIhdb+PwkDeQNpCqQ4IZewDeXhY3DCNC3de1Vxk6hCNvTY6YqeN2OgjoDi4KgfVNpixceCCXvWg+I6jSpTqDteeHuLiA4RDAF0ccX3USm1AOWdwIAjFq4rvw+7wf4ixB4jIrvtANDZATBvRhdUGjFYUCvEeaVw4BBDuPK2UrUP0kEIxbTgFGP0U1D/AaLmMFSoIAyyRaUOrQ0DRR4DhFnCsASLEMfoKHQAmWA5KpTA4BJDGhkutoHAMMFwD7j+BKOdWGIbIAFKX9oNqTlNQHavwD7ejozpE9Rv0NPpHWPtj0QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwElEQVR4Xu2WvWuTURTGeykSWkJLaUhpQj+SkpamJR+lrS0q2EFQcHAQBAexgyB0EKoOgkNEEATRQRwEcRDEQRDE4mALQkEQgoP/QQfn4n9wfH/3cprXm0aS0DcZ7IGHJIS898fznHNuenqO6/8oI/XqWhn5Wa3KztYnefqgIhvr1+X82tluQhn5vb8vv/b2ZHd7Wyp3bksykbBApcnJTkMZ2V0tH+j5XE4ujSRkeTAumb5Yp10y8nWlbAXMm9KsBboxnpIrqaSsDQ9KId7fKSjnjAJ9XCpYoBfz03Jvalw2JtJyLT1inUrHInfKyPfTi/Lt1MIBFEBvy3l5WZiRRzNZ2cyOWSBcygcuxXt7o4QyUg2AkIJ9OVmU9wtzdUAXk8M2NgWKqMlrQOjHmSXZWSkdCnQhAAo7FCkQICoFetUtoDDMvxw6lxiKGqgephHQ1ZQDoodGYie6C3Qrk7ZARLY6NCC5/r7OATFln5eL8q7sgB5OZywQkbG1dUFGNPr1QLjzYXHeLsZwZLqx1aUIYquNu++OD3Q3W9vW6hJ3m0L5T26jjI2ERRiGYlOzFAHSTf14Niv3cxN/ucSCZNqAOoKrxNgDcQMgFZ+Jayu4NmhoHGIPPclPSSXoIx+oPBC3UKo2oYw9kMN9cYdpXLjzuugiU4do7PWxUTttxEYfAcWFq3JQTYMZGwcu6K0eFt9xqRKlusNtTw9x4wOEQwBdHnV91EhNQDlncCAMxauK7313+D/E2ANEZDcDIBobIKaN6Hzp5DUxffVQiPdI48IhgHDnWT5nHaKHFIppwynA6KewWoDRchkrVBgGWCLThlaHgKKPAMMt4FgDRIhj9BVqA8aV+4GDUikMDgGkseFSIygcAwzXgFMg/7wWyrnlwxAZQOrSYVC1aaqpLXf8UrdalR7uy39+2+U/uBn5zziuo6o/McEw0O33eqQAAAAASUVORK5CYII=",
     "wiki_name": "Bell bauble (Red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bell_bauble#Red",
     "equipment": null,

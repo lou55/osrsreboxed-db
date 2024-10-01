@@ -1,7 +1,7 @@
 {
     "id": 27344,
     "name": "Smelling salts (2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-08-24",
     "duplicate": true,
     "examine": "Repeatedly boosts combat abilities over time and restores run energy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xu3W3UtUQRgGcA/iRSJdCZFhURfCprQVhQiBBHVtWVRUFBYVRQSRJCJJH4uohSFWUrGCJZtYbQR9kRTVRVdB/0L/ycQzh2d8Z87scr6KLhp42OPZ8czvvDNnzjY0/PstUP74vv/jLVC3Rw6oieH9OmND+1RpsE+HiIXpATU/dVLN3TnhQbk3kRkegogCiHEx5cnjanbsqDUw/sZ3bmxUImSgpq4djKDwCQhD0P3SETV9/ZDui08fCP0l+tPSiPpYuZIORRCOWR2CHo0f0yD2rQXC/y0vDqsv1Rvqa/WWBiXC4KK8a4IwqA80c/OwAeHYB6rMnLJAOI4JCqxpwEBc3PjbBWFwIDi9tUBLD87kB2KVcM4HYiUJQtVc0MuHZw0ISQTiunBBGNwFyQVdD/Tq8Tkb9OxqdhDOA0QUKymfyFqg1+Xz+YIQACSIj7AbF4S+7+YvGtDnF6NxMWg2SKJwcWA4cHehYFJsX2cicQS9f3IpLQgtvBjK74JwHoMSsqOjwxsfDkkBCvcgVCgOCBnob4qA3HS2tRlggk0xfOR9IERO2a6uLiv9e5pUT+fmSOUKa9foyAplAhGFAIQdlxfHHX+vtJjBu4uN6u1ssz7e1NpqTdWHhctmDaUGySrhkxffvr5dB5W5O7TKVGlvT6NVNfRB/8V7pw0Iu3RMDFr4hPlAhMgBfy2vVuXSCsgNQXhtyAqlAslp82FksKi/PW1WP563qN7iFrV721aDwZrDayM3kDtFMhic+VldwezcuEGHIOzSEpQAFYLktNWqjsQwxISDBXpDxEPwZu6CAWEPSrAP2SCJShK+MlCdzCA8ZS6IL0zeMQaTv4G4T2Hx8z2GvrmC3KcN5yVI/uQghiD2BQiPvARhD0q8D/mmTYJwXA/ECqFvLiDftEkQvpM/SyQI/eT6yQhCiy5SX9z1w7ggbIoSxCQAxW1RJCPXz18E1WtRZDT/W7b2G1sZ+083QPnyAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xs3WXWsTQRQG4CylF5biVUGsVKsXhdhiqiilIIig12oVFRWliooigiiWUhQ/QvGLSqlaVFKolliqRgS/sCjqhVeCf8F/MvLO8k7OnkzCbnaVDrxkk0xynpydnU0ut/RHYPzxvf/PR2Duju01t0f32IyP7DbFS7tsiJibHDazE8fMzL2jHpT+EanhIYgogBiNKd05YqbHD0UK4zne04miEiEDM3FlXw0Kj4AwBD0sHjST1/bbuXj0gTBfor8sjJnP5YvNoQjCMbtD0JNbhy2Ic+uB8LnF+VHzrXLdfK/ctCDU6O/uttHV1Qjbzl9NEIr6QFM3DjgQjn2g8tTxCAjHBOnqagSR04BCXNx4rkEoDgRPbz3QwqOT2YHYJbzmA7GTBKFrGvT68SkHQhKBuC40CMU1SC7oRqA3T09HQS8upwfhdYCIYiflFVkP9LZ0JlsQAoAE8RLW0SDM/TB7zoG+vrrqMIlBEoUvB4aFB/J5l0LXKheJI+jjs/NekK5eZ4RfhvZrEF5HUUI29/R448MhTYDCPQgdigNChodaa0A6vZ2dDig3RV1djfCS94EQecq29vVFMrSj1Qz2rq/pXH7lChvZoVQgohCAsOPyy/GLf5bbXfGBQot5P91mj9d1dERO1ae5C24NNQ2SXcIjv3zT6i4bdOb+yDLXpZ2DLZGuYQ7mzz844UDYpYmJBcIV5gMRIgv+WVxuSsUqSIcg3DZkh2J2B6MKkqfNh5HBov7xvM38etluthU2mO0b+x0Gaw63jcxA+hTJoDjzu1LFbFm7xoYg7NISRJSu7hkhSJ62et2RGIaYsFhgN0RcBO9mzjoQ9qAE+1AUJFFJwlsGupMahKtMg3jD5C9GMfkfiPsUFj/vY5ibKUhfbXhdguRfDmII4lyAcMlLEPagxPuQ77RJEI4bgdghzM0E5DttEoT35N8SCcI8uX5SgjBqF6kvev0wGoRNUYKYBKBcjtt6o2igjFw/mYDiDo2Mg2Wqc//T0Ehf9GeW9PgLpR1F6muWrxQAAAAASUVORK5CYII=",
     "wiki_name": "Smelling salts (2 uses)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Smelling_salts#2_uses",
     "equipment": null,

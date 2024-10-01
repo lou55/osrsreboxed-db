@@ -1,7 +1,7 @@
 {
     "id": 26152,
     "name": "Combat potion(2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "2 doses of combat potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xt3X20+ScRgHcH9/QjfdtLVVM+chzRTDA0cFBAQ5CCiQiIBi6CtyUBF0tay1tbVatU7mWrYOy0O1Ctu66aK/6xvPj72Eh7oJXzaf7bu944L3w/M8vxeoqTkexbA3VS2G7HQjYqPn4bOfwaDuVLVRDF/W1fi0puJZTbVgLlxfTRQrYTYfK3B9rhlCsK5aoOLOiKD3D3uwIjTx8VVhnxg8w354vYFSdzbudfN9ivpr0dtrhN5gkRLFEA5PHojb7YXN5obJbIdC2SstaHpawMzMLAQhjtnZOR6Xy4vBQRe0hQ7JZF3SgtLpeczPL/DQdTKZhnNohI+qs0uNpgutUoKoGLa2drC7+x35fB5fv+3CbveUjUpSDBVDLCZgeXm5kBUeGpdKra8GhoohlUqXMCJIo+2vHqgcQ6GR0ZFvb++UGsUQjyeQy+V4imNbhtM5DJ3eAnmnSnrQwmIGS0tZZLPFBMcj/GFZlWcQPXsymUwhSzwEC4Um4fONwWod4nvU1a2RCsWQSCR5hyhFWAaRiSgCgVBpbEqVTgoQQzQa46eLHoh9M5fQE2yGzF2HloFzGAuG4fH4YDTZ+HJ392iPGsUQ2RjA2JoRvgc6uO9o4LylwkC2E7q4DJqrrRwo9zVyZKut9ihBDGPPjZjLuzHz0YmpDzZMvLEi+MKE0acGDhy+2wvXbTUcqwpYV7phWpTDkOg4ChSD75Ee4VcDELaGkPs1isWfXqR+DHOg8HmIA0MvzXtwhqQMqomLRwOi7tBN49ueQzP1zorxAujKEz1G7vdh8FoPB6mnWqGJtlQSVexO5LXlAGI/iDoYeNZfAvWnL0MbK+zVeDNO1p6oFIrxT06jSmx7eQggXouh7pWD7DcUMC3I0Se0QRlqgdzbUDkQ3Ww/YH+mNx28i+Ugc0YOfbyd75Hc34A2h/h7+7+r8M2+4/9nRBDtGoEcN5Ww5Lr4HlGHms1nK4WhYqVdKe/K30B0yqhDhKH9qdeeriRGLHpDxndpP45A9PrkWwvG100lTIdH/NNYcUx5iTfY2zXxpBGGFlkCyGH1B3cwx7B+A9q90ExVIznpAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQklEQVR4Xt2X+09SYRzGff+EfumXtmY1c15SSTEU5KaAXAVBUDARQcWQI1cVAVfLWltbq1XrZq5l67K8VKu0rV/6ob/rifc9O4hobS04bD3bs50xxvs5z/d5X86pq/s/RHDYNRVBdr4FkYnz8DnOYEh3qtZQBJ831Pi4rmJeS7UjHmqqJRQpwmw96sO1eBu4QCMD6qivFxuK74wA9O6BAqtcKxtfDfpE4Bkdh9frL6azeVfO+hQeb0B/vxF6g1VMKIJQaPaI3W4v7HY3TGYH+pT9Yo6OYH6eQzS6AI6LYWEhzjwy4sXQ0Ai0hYSk0l5xgdLpRSwuLjHT62QyDadrjI2qp1eN1gsSMYGoCLa3d7G//w17e3v48nUfDoenOCoBRlSgSIRDPp8veJWZjkul1tcChooglUoXYQQgjXZQ7FEJIodgqOnI6Jbv6uoRc8tTEcRiCeRyOWZ+bHk4naPQ6a2Q9ajETolgaTmDlZUsslnegalpdljW5AyiZ08mkyl4hZmCBYOz8PkmYbO5WI965RqxxkaQSCRZQtQ8WAbTM2H4/cHi2JQqnRgpEYTDEba76IE4EL0IRaANUncj2i3nMBkIwePxwWiys3LLFdpqp0QwvWnB5LoRvvs6uG9r4LypgiXbA11MCs0VCQOU+VoYpMTeUM2UCCafGRHfcyP6wYm593bMvLYh8NyEiScGBjh6px8jt9QYXuuDbVUO07IMhkR3NVIi8D3UI/TSAm7bhdzPCSz/8CL1fZQBcp9cDDD4wnwIzpCUQjXTUY2U+HToorEdz7Gee2vDVAHo8mM9xu4NYOiqggGp5yTQhNsrmRKfzvQr6xGIciCaoP/pYBFoMH0J2kihV1NtONlwolJQhN05HVVix8tMAYRrwTS9UiDH9T6YlmQY4DqhDLZD5m2u1OgIW6wcoNzzW8MsxVIgc0YGfayL9Ug23ozOYeF5+59V+GffHf+jBSDaNQo0fEMJa66X9Ygm1GY+W0yoIikJXSlN5XdAdJfRhCgM7U+T9nQlYQTxT4G0S+VwFIh+PvvGiqkNUxGm2yO8NFYchhf/g8I71+HUhJ1GYWiRy0EqDlOqgwUO4MotCshxKl243OXf/Vv9ArjlBWbCszjYAAAAAElFTkSuQmCC",
     "wiki_name": "Combat potion (Deadman starter pack) (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Combat_potion_(Deadman_starter_pack)#2_dose",
     "equipment": null,

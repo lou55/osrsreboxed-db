@@ -1,7 +1,7 @@
 {
     "id": 25091,
     "name": "Trailblazer tool ornament kit",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": true,
     "examine": "A kit which can be attached to any Dragon or Infernal axe, pickaxe or harpoon to recolour it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4Xu3W60sUURgGcBeRxYg+9S0oKtYowzDyxrrrirdE8dLqVpqKl8xLXtPMJEvdRDMEsZISBUNMpIwgKoqi/rK3njO8w5kzZ7ed3RX60IGHnT1nduc375k5Mykp/35zkT668QNvLlqaCtLiZL3I/EQdhcdqRRixvdJOW8tttPm0VYNSTyJhuAFiFEAcFbPx5AatzTdZDozvGFNjRTlCumj5QYMNhU9AOAx6Hr5GK49CYl986kDYX0Z/35uirzt34kMxCNtcHQa9WmgWIN43Egi/+7Y7ST/3Z+jX/pwAOcLgT/msGYSD6kCrs1dNELZ1oJ3VDgsI2zGCXJZpwIH44sZ3FYSDA8HTGwm09+Jm8kBcJfSpIPm64KBqKujdy24ThDgC8XWhgnDmMgj7ZnqO2oJ+FfR+/ZYV9OZu4iD0A8Qo7NvXlG2LDvRhoze5IARTCYw8PQCku92WqCDgP23dNkE/3k7HikGzgmQUXzOV/lNUXniSSgpOUCD3OPkuHROJBvr8ejBeEJpx9rhjdKC6Ug9VF5+2wP5WoS/bI/GCjDUIFYoEClWeoWB5hgUWDYRplkEOFkXjlteBEIw312TS9apzFhQSCYTqJBXEKATjlempIipMB8JnUkFylfCJ8Zo/mCvpadQezKK87GwBazmUZgMhvqBR1d1nnSYIq3SMGDTjDtOBMDbQcpGGfTkC1NV4gQJer0hr/XktqKgxZKLkCsUFUq8jjI2259JwW45A+PPzqcydKmAyRgaN9pZaUEkBMQpj97rzabwrz4ThWgIsEmi8v4z6OorobEmpieKVOkaUAVKnDf3T/V6a6imwoBgWDYQqdTR7yePzCxj6HaxDVhCj0B8e8tHMQKEWpnuWLU7X0/3hywI01F1CGYFis0qOQLjLdKCFsQDNjxZpYVyRicEKqq7IEtPU0+ankSNuGjicJlDytMUF0k0bR4Vx/9pSk6gGYEszQQpP1ooqYerki9vxOqSbNvRjkcOrqIxDeBXfXe+klcchejheJUDLcw00O1EtgAmBdNMmgzAmv5Zgm5eGSIkThGb/M11kjBzA+YEKPN6lP272mb/DWuTg9dVJsyM5/PzCI4NBvFIfIChasyPt+d8Sa78BaES0C7OzP78AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaUlEQVR4Xs3W60sUURgGcBeRxYg+9S0oKzTKsIy8se664i1RvLS6laaLl8xLXtPMJEvdRDMEsZISBUNMpIwgKoqi/rK3njO845mzZ9bddQsPPMw4Z9bzm/fMnJmEhIPfHKSPrv+fNwfNj/tobqxWZGa0hoLD1SKM2FhsofWFAK09a9ag1IvYN9wAMQogjopZfXqTlmcaLAPjb/SpsaKiQjpo4WFdCApbQDgMehG8TouP/eJcbHUgnC+jf2yP07fNu7GhGIR9rg6DXs82ChCfawfC775vjdGvnUn6vTMtQBjjYkqKiDq60oyy81UzCIPqQEtT10wQ9nWgzaVWCwj7DFJHV5rDMg0YiG9u/K2CMDgQPL12oO2Xt+IH4irhmAqS7wsOqqaC3r/qMEFIVCC+L1QQrlwG4dz01KMhwXEV9GHlthX09t7+QTgOEKNwbndDZkh0oI+rXfEFIZhKYOTpASDZ6bREBQH/ef2OCfr5bsLERA2SUXzPlHtOUWn+SSrKO0He7OPkvnxMJBzoy5s+LUgd3aYZV48nRgeqKU6lysLTFtheFfq6MRgryFiDUCE7kL/8DPlK0yywcCBMswySF0V1dKUZj7wOhKC/sSqdblScs6AQOxCqE1cQoxD0lycniqgwHQjbuILkKmGL/qq/mKvJSdTiy6CczEwBazqUFAJC3D6jqlvP20wQVmnGRATCE6YDoa+36RINuLMEqL3+AnldLpHm2vNaUEG930TJFYqwOmi7IPU+Qt9QSzYNBLIEwpObSyXORAGTMTJoqKvYgooLiFHou9+RSyPtOSYM9xJgdqCRnhLqbi2gs0XFJopXauOcPZsBUqcNxyd6XDTemWdBMSwcCFVqbXRRqtsjYDgexTpkBTEKx4P9bprszdfCdO+yuYlaejBwRYD6O4oozVtoVikqEJ4yHWh22EszQwVaGFdktK+MKssyxDR1Bjw0eMRJvYeTBEqetphAumnjqDA+vjzfIKoB2Pykj4Jj1aJKmDr55o56HdJNG45jkcOnqIxDeBXfWmmjxSd+ejRSIUAL03U0NVopgPsC6aZNBqFP/izBPi8NdokRhBb6z3SRMXIA5xcq8PiW/rTWbf4Oa1EUn69G42U9XFSgHH5/4ZXBIF6pYwJF2lRkJFjO7rn/qalIXdTfHOj2B7JI/pf/RYKNAAAAAElFTkSuQmCC",
     "wiki_name": "Trailblazer tool ornament kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trailblazer_tool_ornament_kit",
     "equipment": null,

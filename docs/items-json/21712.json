@@ -1,7 +1,7 @@
 {
     "id": 21712,
     "name": "Spectral potion",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-10-19",
     "duplicate": false,
     "examine": "A potion that emanates with dark, ghostly power.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsUlEQVR4Xt2V30tTYRzGfWOccxh04YWFmJbJlptZW2s/2o+mtS2bzVgWmUaitKFsjInQ3CKCKCgKikKIoiDEpIvcEKSL6G978vse3+O2U3dn54BfeBgbh70fnvf5Pqer63AMQ6ssHYbcvSHcmRxAMtqLC2e7rYZi+P4hio13Ea6Vhy7MZQethGIazJfXIZQWzmBm6qRVQGpmBNDnl0EUHjj59VmQJ4bM1DSy2buaO+vP/Vi678CtiX4EAhGEI+NmQjHMzs7rdCMzjWQqg/hYCh6P31ygXH6JK59f1pSezOJqIg2/PwyH02UuUHllVVOpVEahUMLE9Zu4FB6De+Q8+vpElkwbhs3NLTQaO6jXG9jebvDr8noDVoSahmFhMYdKZQ212mMuui6fL2QFDA1DsVhCtVrdV03Lj2VAqT927lBlrcpFVxYMxjDsGjUbiiG2pSD5294i9yMJp+dt6L1mMxOI4eJbGYlfrTD02+gTGY6chBMZG47Fj5gFxXD5h6ID8r+Xce6pDOeyhP6saS4xfvCVXTsHalZgXYH3hQxXWcKpGRv60qa4pGanHUYA+d7IcK9KGJyzcZeOJzoKxPih8bqdO9TuUvCjwnM0UpUwtChh4HbHXWKIbigaTLMIKPRJBaIcUbA77NK+Oz/1MEIERPnyPJMxXGx1qSdqOBRD5JuC8R27pnag8FdFDfYrNUfCJaoAg11SN4tWvRmoHYyAtWDvFSS5RCVJLlEF9MQMg2L8OijMpHYgIQISwaaCpPUnl6gCDC5KNcwC6H9g9ExzsMklKklySRSlgVliOqB2KOonEWwqSFp/conCTQ51ewyDoVFfFyTaNE1NcAQkgi1yRDC0ZUddhsKIoT9Um1oHtwdE3wWQgDnYLsNhmkcc0OoafVKwCYbW3QSQf80BnF6HcP4CePF5tOsoXhYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xt2X70tTYRTHfWLcexn0whcWsrSZaG5mzWw/2mbT2pZpM5ZFppEobSiToQjNLSKIgqKgKIQoCkJMepEbQvQi+tu+7TzX5+7url4Ed8+gA1/GxmXnw/d8z2Fra/s/iqFeLS2GzO1e3JzqRiLaibOn2lsNxfDlbRTbryNc6/c8mE/3tBKKGTAfX4SQXzyJ2enjHMjndsuG0jMjgD48CyJ3t5+PrwV5YkhNzyCdvmW4s/XEj+U7fbg+0YVAIIJwZFwmFMPc3EKDrqZmkEimEBtLwufzyxxddbuyy1zZ7Iqhyak0LsUn4feH0dfvkQu0tr5hKJ9fQy6Xx8SVazgfHoN38AxcLj1LkoCoGHZ2dlGp7KNcrmBvr8LHNTwcMEJNMFKBFpcyKBQ2USo94KJxjYyEWgFDxbC6mkexWDxQyciP5FGJYkj+cnKHCptFLhpZMDiKAc+QzJWnYhjd1ZD46ayT976CEwsOdF52yHSJ4dwrFfEf9TD02dBDFX0ZBcdSDhyJHZLlEsOFr1oDkP+NitOPVPSvKOhKS3OJ8cYXvzs5kFmBLQ3DT1V41hS4Zx1wTUpxSc+OFUYAjbxU4d1Q0DPv4C4djetATXKJ8aaxspM7ZHUp+E7jORosKuhdUtB9o+kuMUS3NQPGLAIKvdeBKEcU7Ca7dODOt0YYIQKifPkeqxhYrXepI2q7SwyRzxrG952GrEDhT5oe7Od6joRLdAJsdknfLFp1M5AVjICNYFcPJLlER5JcohPQMWqbS4yPg8JMsgIJEZAINh1IWn9yiU6A+VDa4JIeZgH0NzB6xhxscomOJLkkDqWNWWINQFYouk8i2HQgaf3JJQo3OdTuqzlki0uUIRJtmiETHAGJYIscEQxt2WGPrTCi9F+B1LgBrgpE7wWQgBHb1QQYvfQvFP+56l2jVwo2wdC6W0FshzFXrUENziopIH8qc2OrrM/+a/0GAICuv2enrzkAAAAASUVORK5CYII=",
     "wiki_name": "Spectral potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spectral_potion",
     "equipment": null,

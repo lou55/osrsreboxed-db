@@ -1,7 +1,7 @@
 {
     "id": 8171,
     "name": "Imp statue",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXUlEQVR4Xu2Wz0sCYRCG/U6ShCFJkpJhkmGEpZgZRtol8ma3zgV16tD/f5h45mPYz6VrO0v0wrA/WPHhnXdnp1L5mwoSqxQK8rxey+fba7mgnF3KAwQ56/flfj73gApyPhjI9dWl3E6nCnDUbus9BxgU5LTX03p6WCnEfqOhDjkARZjjTkePF8OhQuzWan5Ah62Wtgigu9lMIQ6aTQ+gIJPRSN0ACgCuydJJt1s8DBB79bq6gUNAEOSb8bhoGBTbgjspVJqj/C9+WRkQhSs45tAqUwTaqVYVCFfcgZg1BkSgnYFQ2AKyYLsCMRBtKttwXC0WXlDbDhFsm0VuQLhjDqXzyA2IGQQEBZC1zQkIxRwBgVO44/ANM8UM8bozh8gScK57kH1YDYLWAee2KZKhFCg9zz9dgLJQlwaI9rD/2GLmDsRS/7hcytfHexmAEH+c1ctm4wnzk0oF8y8ffQNEu/x21Sk8ZwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABe0lEQVR4XuWXwUsCURDGfSdJwpAkSclWRcMI0zBTVlIvkTe9dS6oU4f+/8PEN8Owz0cd981SHwy64sMf33zOzpZKf1OOpAohR/vtlj7fXosFpTVOEguoDECvr3o9epzPLVxydD0Y0P34lhbTKQNcNJv8mToU2SVH/U6H63mzZojTWo0dMmiZwFy2Wvx6MxwyxHGlYgd03mhwiwC0nM0Y4qxetwBydDcasRuAAgCukaVuux07P+LMSbXKbsAhQCDID5NJbBhI2gJ3fCg/RxFhoAwIBVfgmEGrVAJ0VC4zEFwJgcITOUtmjQIh0MZAkDsA0mCbAmEg6lTW4bhOU4YKvx1Bhw4h2DqLjFySHKlD/jwyA8IMAgQKQNo2IyBIcgQIOAV3DO5hKskQ/u6YQ8gS4Pw9KDyRs2TNAJBCoHWAM9sUkSEfyH9vcvvQUP8GFJ7IWY7bg/1HFzNzICz1T6sVfX28FwEI8h9/HL3sdlb5yaQ/LgDGMD+pUDD/Qt8q2y1DY1uN6gAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6616,
     "name": "White chainbody",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": true,
     "examine": "A series of connected metal rings.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOklEQVR4Xu3W+08TQRAHcPqHETSIiBgeQV4ilGd5iBjk0dQGBCRFXk2wFISGRrCWpqklxGc0Gv3LxnznMpfduwV67WH8wU0md+1te5/OzO61qurfHwEyh+n6tY8AbUbbaD3SyhELt9DqbDOHIDI7A3QcD1J6q8+Acv6IiuEWSFAASTgxRxsPaT/2QLsxXuOaM3SUJ2SA4gv3XSgcAZEQUHK1i3aWOngujiYQ5qvoH/kofcvOlIcSEM4lOwI6fNnDIJl7EQif+56L0K/iMv0uvmCQJwy+VH61gHBTEyix0mmDcG4CZRODGgjnJYICWhlwI2luvHaCcHMgpLwXgfJ7I/6BJEt4T0BqPzgDWXOC3h+EbBDCE0j6wgnCLwcIc/o7O6mtsdEVzfX1NkwFnaVGddDpfOUgvI/rT0aGaTwY5Aj19tJwTw8Du1paGHTn5g2qra7WUOdH4/6CECglrj+bmqLw5CTNjI0xRmDToyEa7O6mreeLGggl/nw8aYN+FhZLxWDoIBWFL8f11XCY+jra+eam4+OhQbpdU6OBvpxMlQvCsHoAK8YEQgY2FhZoLRqlpdkZzhiyg0wBhF66e6tWA33NTJcLsvYgZOgiUHJtjRKxGGdCYm5iwj5HGe/V1dkgLAQV5GFTtJa8CYQQUPrVDu2vrzMCfQQEsiSvkanWhgaei+z4ChIUQkAnyV1KbW9zpuLLS1y6xafTNgZla29q8h+kZglHAWUPXnOWAJFAo8v5yvyc1j+53SEbhF26RAyGtcJMIHkcYM5pKsVZQmMj0E9yjng00K/1Dx4baobKAjn7SB4HmJNPpykWiXAmTEesPLVceGz4BhIU3pdnWPHtCWfpTSLBgfKhn7AdAINeUkHYpVWQB5QFMpVNBZ29y3CWABAImlxeqxnC346P6QkbhD3Iwz6kg9SyqaAPuVOtoZ0hIGSnYhBW2VWgT4UCo86zWc4WSpjZ36PDzU3eBq4F5Cwb3pcSWF92eUj/YMmrIOxBnvchU9lUEM6x8uRfAHZx2TxlNcpcX0CmsqkgXFP/lqggzJP9xwcQhjv9plAxajhB2BRVkIQHUKnDjZRQ++cvgi4bbqQ7/o/Kxh/6elxxPzI5FwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXklEQVR4Xs2Wi04TQRSG2zfhEXwBggYREQMlyE3kVu6IGOTS1AYs2BTLpQmWi9DQCNZCCEKI12g0+mTH/GdzlpnpFFtYDCf5s7O70863/zlzdn2+6x9+sst2/8rDT0uRRkqEG1jxUIBik/Usgciu9tBusosyy50WKPMhLg3uAAkUgEQmzM7iI9qMP9QWxjnumdKhSoL0U3LmQR4UjgARCdB6rJVWo808F0cbEOar0D8PI/Q9N3ExKAHCWNwRoO1X7QwkcwsB4Xc/DsL0+3iO/hy/ZCCscaOsjGWuboRjuzy1AGFRG1BqvsUFwtgGlEsFNSCMBchc3Qi/lgYsJMWNcxMIiwNC0lsI6HCj3zsgcQnXBEitB1NwzQT6sDXgAkElAUldmEB4cgBhTndLCzXW1uapvrraBVOBTtKDOtD+9OWBcB33n/b30XBXF2ugo4P62tsZsDUQYKC7t25SZXm5BnW6M+wtEIRU4v7zsTEKjY7SxNAQwwjY+OAABdvaaPnFrAaEFH/ZHXWBfh3NujAlA6lQ+HPcj4VC1NncxIvbjk96g3SnokID+ro3ZgUyVy8QTg1gx9iA4MDizAwtRCIUnZxgx+AOnAIQaune7UoN6Ft2/KJATg+CQ4WA1hcWKBWPsxOiqZERd4w03q+qcoGwEVQgtSmaqxvhbHkbECRAmdertJlIMATqCBBwSc7hVENNDc+FO54CCRQkQHvra5ReWWGnknNRTt3ss3EXBmlrqqvzHkh1CUcBym29YZcAIkKhy3h+ekqrn4O1XhcIXVpgigLCDrMByesAc/bTaXYJhQ2hnmQMPe7p1uoHrw3VoSLdQZwBmXUkrwPMOcxkKB4OsxO2I3aemi68NjwDEihcl3fY8bs9dultKsVC+lBPaAeAQS2pQOjSKpBAmatbwgGypU0FOnmfZZcAICAocjlXHcJnx6fMiAuEHlRCH9KB1LSpQB8P9rWCNiVAcOfSQNhl/wL6fHTEUKe5HLuFFGY3N2h7aYnbwJUAmWnDdUmBk//zJfWDLa8CoQeV3IdsaVOBMMbOk68AdHFpnrIbZa4nQLa0qUC4p36WqECYJ/3HAyBEvv02qTCqTCA0RRVIVAKQzydt/TyZgKrU+vEEqNgwIYuBFZ3N/U9hQtpk/uZax19Ejab92npfRwAAAABJRU5ErkJggg==",
     "wiki_name": "White chainbody",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_chainbody",
     "equipment": null,

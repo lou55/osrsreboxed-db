@@ -1,7 +1,7 @@
 {
     "id": 10962,
     "name": "Frogburger",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-20",
     "duplicate": false,
     "examine": "A juicy frogburger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xu2Va2sTQRSGOz9BBMUvQpG2eMG2AdNKGpqSGzHBpK5pTKyhDS3BSjBEo8GiUq03gorWC4UWi0otKq0IIogggnfUv3Tse8KMu5vkg+6mn/aFl73OnGfPnDPb1ubIkSMpQY29ofobONTfTjHvDkr4Omgk2EVHI7spG92zUVA1CAmg+TspHd7FEOPxvZTXemgq2avcYijBGdADTAx3M0Qh5aJiZh+Vs311bhGUMGRBApRG3VQZ66fp3H6ayQ80dQughFqOtXt5toS4emKQr6vFIYPN92wseMFLI5dED3K94KNbJT/dOR2guTPBpp4/F2aQnqFOtkUoYQCZPe5VIAj2oBLigAvnI029ePEAj/Ekusmr9bItQAnOhhlEQiDY0kyUl+jJ5VidV6vDfMS4SM5D4fWaC2Tc/wtUg8GSIBMyIwABBAItXzlIK9fi9OJGoqFf3z7MzzH2wqTHah0JlQ1kAsEBoodABl7d1DhwI7+dG+F3MMd21yYrMJBQ2QAAJn5zN2mAwDWCvrufUv78KMv+uJCh9w+P8Hv4IFuAdga3cSYAgMAI8GE+zcE+LY5y4C9L4/T18YTBuIfneBfjbICBajWEYsaXY/I6iKd5+rY8ZTDu4Zk+S8i0LUDY1NAhh9ahzBDfnxXYP1aKBjOUKUtoAItAggaTLm5RFPbYpRhfmyF+Pj/F/vWyzMY5ngMadSdtEQYSagNDlkLH+ti52Tilz4a50xhitcL+vTbNRwCh6M22AQiSkwiKTg5wlvJVjVLlIBd6l28ru8O7hTup3b1Z2dz+NgFJCdJO+hkkWQqotscSSiB0kh5IbgsAtxlGSvAyyR1Y/pP0GdLvSThvIYyUUIH1wdHWaG/pGoSlX8S/SB+smR05clSnPyzPPy64vNxbAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu2Wa2sTURCGc36CCIpfpEXa4gXbBkwraWhKbsQEk7qmMbGGNrQsVoIhGg0WlWq9EVS0Xii0WFRqUWlFEEEEEeoV9S+NfSecdXezAXWTfMrAS/Z2dp68M3MSh6MVrWiFDEHWamr8SRzsb6eoZwfFvR00Euiio+HdlInsaRZUBUICKL5OSoV2McR4bC+pSg9NJXo1NRhKsAN6gInhbobIJZ2UT++jYqavSg2CEgYXJEBh1EWlsX6azu6nGXWgphoAJbRyrN1TWRLi6olBPi/nhwwyX6tjwwsujSyJHuR6zku3Cj66c9pPc2cCNTV/LsQgPUOdLJtQwgAye9yjgSDZg1KQEy6cD9fU4sUDvMYd7yaP0suyASXYDTOIhECypZkIl+jJ5WiVVsvD/Il14aybQhs950+7Ko61tf0rVAUGJYET0hGAAAKJlq8cpJVrMXpxI26p17cP832svTDp1voIMP8FJN2AE0gOED0EHHh1U+HEVno7N8LP4B3bnZvswCCE5gYA8OI3dxMGCJwj6bv7SU2fHmVYHxfS9P7hEX4OX0gPZM70lyFoZ2AbOwEAJEaCD/MpTra+OMqJPy+N05fHEwbhGu7jWayrgzuISg+hmfHN8fIqiKcqfV2eMgjXcE/vEpy26Q5C8KaGCTm0AWWG+PYsx/q+kjeIoUwuYQBsAgkaTDh5RNHYY5eifG6G+PH8FOvnyyILx7gPaPSdVF3KJTcwuBQ81sfKzsYodTbEk8YQqyXWr7Vp/gQQmt4sm+7IkC8RFJkcYJfUskLJYoAbvcu7ldXh2cKT1O7arMk8/nUCcjgkkHLSxyCJgl8be5RQAmGS9EByWwB4HcplFYLLJHdg+Zukd0i/J+G4gTAyhJZYnxxjjfGWwnNSDYSRof9fYy0J0QSYSpgTWsm8phWtaHb8Bm2fcVsQS/F2AAAAAElFTkSuQmCC",
     "wiki_name": "Frogburger",
     "wiki_url": "https://oldschool.runescape.wiki/w/Frogburger",
     "equipment": null,

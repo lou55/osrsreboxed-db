@@ -1,7 +1,7 @@
 {
     "id": 22017,
     "name": "Map piece",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": false,
     "examine": "A piece of the Fossil Island map.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAfElEQVR4Xu3WQQqAIBCFYb2DdAEX3aWu0f2vYEwxIlMwKDPo4j34IYzg21kIGOayWHwaWixbSrXrPD6173saRL2gPecnieHz3gDSMgNZBZAWQFoAaQGkBZDWUiC+B5cAtRfzdJD8U5gKkhiA/jIFWcUYeh4E0ehDjzDMfzcpGBJNHOGtIAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAjklEQVR4Xu3XQQqAIBCFYb2DtBZctO0cdY3ufwXDYsKmYFBGNHgPfogi+naVMRjWZDa2qWo2Ts7d7dv6Kr9eUiXqAs0hnHEMnS+NQIv3pSiApD1BWgEkBZAUQFIASQEkNRSI3oNDgPIXc3cQ/1LoCuIYgL5SBWlFmHRcCUrjvy86JUwlyBi6WTv+HOz3OwBDyVLQtF3wqAAAAABJRU5ErkJggg==",
     "wiki_name": "Map piece (9)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Map_piece#9",
     "equipment": null,

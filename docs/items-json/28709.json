@@ -1,7 +1,7 @@
 {
     "id": 28709,
     "name": "Trailblazer reloaded rejuvenation pool scroll",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-11-29",
     "duplicate": true,
     "examine": "Used on an Ornate rejuvination pool inside your Player owned house to give it a theme from Leagues IV: Trailblazer Reloaded.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADgElEQVR4Xu2W20tUQRjA3SdJfJFC0WhDJcMMLclMMhMWMzN0zWtqapuJBQVhFCJFF5FuCGIXCpICMZHyqYcoivoX+oe++M32HeecPSt71lP00MDHzJkzM9/vu8wlJ+ffLxHxF7//f7xE5PFMtzyc7jIydzMus9c7jSjE8sJ5eTs/KktPRnygvEZsGTwJpFAAqXhhXj8alhdzgy7FfPPPK26oQJARmb/VkwJFDYiKAj2bHZCFO31mLLUfEONt6K9rM/J5ZSo7KAWird5RoFcPhgyQjk0HxLwvq9Pyff2u/Fi/b4ACwbCoWq1AKPUDWrzX7wDR9gNaWUy4gGhnCBRxhQFFmtx8e4FQDoSGNx3Q2vOL4QGhiH76/IDUkwqE12wY5n54OeEAIYGANC8UiL78vDxTe4HshPYDYk5xUZGpXUDvbmQHxPe+ygppajwiXR1tvxfZEDuhbSB7zK6SknCAjHXFRVJTXSWx5mMyPNBtoHrPdMhAT1y64+0pgCp7K8qlsHCH1NcdlOamo3K6rcX0A/Pt/e1MYShuoN3RnVJXW2MWHBvuNxDAKBBwCG3kROy4NDYclj3lpWZuQ/0hY0xne2u2QJQNS1mYRfHM+NiQUT7Y1+ULxBiAGF9WGjVeItQnW5qdcGcBlDyD1EPkDxaj9NL4qIEhdApE/fNNvgOENwgTQPurKk24TrXGzHwFCnAoJre8DUT+sCggVyYTMjLYa4RvILbl5spktMQIbcYSYsJVe6DaeIxwAR4KEIuzKBBTVyclMXLW5BJeUg/ZISNEgACEp/AO/RgQChD5QA4AYQMBgkfUQ9QoVg8RMuayGQDGINbjlM4QhpLcYTYQ+cOiJLQC4R2U6BGgYIjmEJtBzy7gMUI9lBWQvnGwmEVJaIA0f2wgv13GDmOu7koMCQUIBShTIE3OdKLnELuTNuMxYiJxzgEKAJUEUii+SUoWVSD6uM/4b18ZtPWqQdjyzCW8hIv59HMGBTiH3EAKxeVYFo2aNu8aLlZyzIZRIH16KNj2ggJnLndZYCB2mQ2kyY0AAhAK7TeQDaQ3PWPxpM79tHxta0D2bkPot4HsJ4fCKJCOBWj16QX5uHTZAeIMCnwOecPmBaK9GZB6iLGhAPmFzQbin19CI4wDCO+EAERxb+N04s0fFS8Qb2kbSCUAUKYlFVLFzp+/CLRZSYVMlf9la+UXK1fDPQNBT5wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADoElEQVR4Xs2W60uUQRSHdz9J4hcpFI02L2SYoSaZSWaCmJnhJa+pqW0mFhSEUYgUXUS6IYhdKEgKxETKT32Ioqh/oX/oxDPLeZ0dZ2VXt3DgxzvvvDNznjnnzMwbCu38Eha/fN//eQnLs+kueTLVaTR7p0NmbrUbKcTS/CX5MDcii8+HPVDuIrYNHgNSKIBULsy7p0PyenYgzjDvfHMVD5USZFjm7nZvgOIJiEqBXs70y/z9XtOXpw+I/jb0j9Vp+bY8uTUoBaKu3lGgt48HDZD2TQTEuO8rU/Jr7YH8XntkgLBRWVBg5Fp3SsztumoFwqgPaOFhXwBE3Qe0vBCNA6KuQK51p4TjwoAhTW7eXSCMA6HhTQS0+upK+oAwRDttPiD1pALhNRuGsZ/fjAdAKCUgzQsFoi0rM9M8XSA7oX1AjMnLzTXPOKCPt7cGxPuh0hKprzsunW0t5t2WndA2kN1nX35+eoDM6vJypaK8TBobTspQf5eB6jnfJv3dHdLV0boBUHWwpFhycvZITfURaag/Iedamkw7MD8/3QtgUgbaH9kr1VUVZsLRoT4DAYwCAYeoo9ONp6Su9pgcKC40Y2trjprFtLc2e4Fc6wnK+kqZmEnxzNjooDE+0NvpBaIPQPQvKowYLxHqM00NQbi3ABQ7g9RD5A8rxujVsREDQ+gUiOef91kBEN4gTAAdLis14Trb3GjGK5B9KLrWnRLb8jYQ+cOkgFyfiMrwQI8R70DsysiQiUi+EXX6EmLCVVVZbjxGuABPCxCTMykQkzcmJDp8weQSXlIP2SEjRIAAhKfwDu0sIC1A5AM5AIQNBAgeUQ/xxLB6iJAxls0AMAtiPk5phUkKiB1mA5E/TEpCKxDewYgeAQqGNIfYDHp2Ac8i1ENJeoeyDqT/OKyYSUlogDR/bCDfLmOHMVZ3JQtJCxAGMKZAmpyJpOcQu5M6/VnEePRiAKRQrnVPiQEpFO8kJZMqEG3cZ3y3rwzqetUgtjxjCS/hYjztnEEpnEPxQArF5VgUiZg6/zVcrOSYDaNA+uuhYLuzs4Ox3GUpA7HLbCBNbgQIQBi0/4FsIL3p6YsndezXpZvbA7J3G6LdBrJ/ORRGgbQvQCsvLsuXxWsBEGdQyueQGzYXiPpmQOoh+qYFyBc2G4hvvoRG9AMI76QBiLJxK/vk5o/KBeJf2gZSpQAUCumxvplcQFt2/qQFKNniQiYDq1rv+5+KC+mTO2ZHl791Ww3YtOZN3wAAAABJRU5ErkJggg==",
     "wiki_name": "Trailblazer reloaded rejuvenation pool scroll",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_rejuvenation_pool_scroll",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 3696,
     "name": "Hunters' talisman",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": false,
     "examine": "Talisman to bind the Draugen.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFElEQVR4Xu2XjUoCURCFvS9QRJKkZJRk9INimBVlCmJlBhG9/7NMfHca13bXVl3XFerAxR/cO2fPOTN3LRT+DpyEv8kRTi6aF7IhpJwcnRxJ66a1OYQqhxVpXjfl+f05a1JsPk8BtWz8OZb+S3/OaxaGFrnv389RwEn1uCqdh44MXgfSHXS/r5leqeCktF+Ss8szX+T3DZ3s7O743zauGtK+a3tCZIr3XH/7eJuwRyKcFPeKPhfc8ezNnGxtb0n5oDwhBBFIQKr31PMW/r5HIrRI7bSWEFJVBiUhMXwbegJRq1JbpuoQ0NmE9DcogyqokHmYIRRfQMnQ6tiENUGIM4HzYYwnpGGnoyBDWOfrwlSYRch5i8gWCloHZUwGqGWjj5FfWlCncf287juPlWFmwnCTDrOuMYtQhY7KODNxUNtQgYMTxbBnRUNuWSgp1CC4EEkmk3rmzIIOPUI8TSroqPhlKi5JKrqhLcgQYoae2UWeyI8tMkXWyBfEUY9pveQxocONmcJmFOeVzzb07EyyIFt+UIn30+Qsb8FNLQwdcNbK3C1KoAgtbZ3ECixwk+IQmz7JVzAclRCSG6EwKdo+WihqbwpVwghvqPMGUvbYQSZWVGwRBCe3qWSTeI3T2KDPPtiHdWYZi67KYSID/RtjT3y8Yt3PubN26Pllf/awz6ZzToRAEG4yBSFCnUOO4hDuwH/khy8JMMcT7lA9DQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSUlEQVR4XuWXCUvDQBCF3T+giGKxxRsrHlgVj4pHC8WjKoj4/3/LyLfjNOsmbdM2aRUfDG01O/sy781sMjf3f+Ak/ssM4eSwcSi/hJSTrd0tOb069YRONjdnTcpJbaMmjYuGPL0/lV0lkufZQCV7/XyV9nM755qRoZvctG9ybOBkfXtdLm8vpfPSkbvO3feaMCaCk8pqRfaP9v0mg73hZHFp0V97fHYs59fnnhCe4jvrm/fNSUk5WV5Z9r7gjvsTcjK/MC/VtWqPEEQgAanWY8tLODjHUOgmO3s7PZOSKJ1MK0MlIfHw9uAJpKXSyM6RC1odDBoSyrqGylAVqmBmto2z4meO3Eg6JvvOlAytjkxIYyZOX1sInDdjSCj8HxLRUZDBrNaFJZEB/Qg5LxHeooLWQSWTASpZ96Prg98EEtUP6r7ziNgzcZYC4XodZl1jElEVOqpkz2RBZaMKHJxUDHnCITdFMgYlRTUwLkSGkynkmMiCDj1MHJJKzrXssCqOSSqd0AIymJihZ3LhJ/xjgafwGv6CONVjWo95TOhwY6aQjM355LcNPTuTzMjmH6rE95Cc+c1uqL+kfaEDzlqZu6USVISWtk4iEglcb3OIhSd5PBxHJAOUECU3QjEp2j7eKJY2jDGJhEgnxQ+QsscOPGGb2aqwCnGE2ceC3bWd3FYlm8ThNI7XlgR99kE+pDPJCLoqnMjxyhKhrzH2xMcn0oVzZ8qEgJ5f9rKHfDadZ0QIJObGUxDC1CW+1gxH0i2Ft/TkKLyl/wq+ACUnJFGRCgS7AAAAAElFTkSuQmCC",
     "wiki_name": "Hunters' talisman (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hunters'_talisman#Normal",
     "equipment": null,

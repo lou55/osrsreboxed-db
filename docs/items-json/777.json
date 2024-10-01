@@ -1,7 +1,7 @@
 {
     "id": 777,
     "name": "Chaos gauntlets",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-04-09",
     "duplicate": false,
     "examine": "These gauntlets empower spell casters.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9klEQVR4Xu2VvUvDUBTF+yglpJSW0FKpYosVK4KDi+Di4ODgIjgIDg6Cg4PgIDg4CG7+2VfPvT3Ny2sCrbXJYA8cktckfb/cr9RqG20EOUlduZy8H3Tlc9KTr6O+B1YJnJOXvUT9tt+Vj4mB4QjICqCcPI8SNaBex4mCwACsBOhp1JmDorEuGcrJ47CjUATzAbkuEcrJw25boWCcwwSBea0kKAO632nL3bb5dtDStQ9ZEgzkFAC+mfp6y+xHrCQgg8HmV/2m+rKXmpEqHQabX3TjOQNwBaBlJ6tTkPMklpN2JGc/R5z7BhRSuNz/TkHyx36R7bnTTqTr41ak54DyDShALwFkHcKBRoeDDddZoNk3NkBECFA4Aowm1IJATvMftiiHHIcarrGDUBN8JruJk8NmYwblm1FM7y2U1QA2wGacIQDgoGNEWAtp+4YbOBnHDYUiGA2o+ftz5TSkgOKbY1O8PcFwzg5iGxdPXIPywfyo5T+TkeWe3eC3KsE4V/A77sMasPl/7mQY12f24fLvz5V1CruCxcgUhUBMcfFsYTpDLyxr2dB4KwD605ezBWtEb42fg2yofSNa/AwwSjgiSkhdcT2trDDE5kFU1zpjfflR+sUE/gsZFNJIGKSSUaoACEqhfjF91yWDQrHzQ1oxEBTW2Eb/WN8GjuMaeHXvvQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4Xu2VsUvDUBDG+yglpJSW0FKpYlsrVgSHLgUXBwcHF8FBcHAQHBwEB8HBQXDzz372e+fXXF8aTYS+LD34SF7T5H753t2lVtvGNhDGpqo8jH0/6trPac9+nfQVWCVwxr4cJE5vh137MRUwHAFZAZSxz6PECVCvk8SBQADE9dl4HBLK2KdRJwNFYR3YJWMfhx0HRTANyHVAKGMf9tsOCsI5RBCI1wJBCdD9Xtve7YpuBy231pCspQD1ZBwAdPOj6x2RdixQcQsMkl/1m06XvVR0KpA7KQySX3TjjACogfwn/BFlJ6txIOdJbGftyJ4tjjjXAhS2sCSQgKwf+3mS++adyK1PW5E7B5QWoABdAkg6hAON8gcbrrNA+ca83yVbOAQoHAFGEaogkHH777cohxyHGq6xg1ATvIdQksjY42ZjCaVFFwsBwU4kQDLOEABw0NER1gLblwnSJMZO4oaDIhgFqMJAsBRQfHMkxdsTDOfsILYxJ242gUBpMO1aus25IXvPbtCtSjDOFfyO/2EN2DygYVxfSsNlHc0N6RR2BYuRW+QDcYs5W/yncTt9FYRBSMv6wlsBUE9fzhas4V5aT6vB5L78//0Sq1ZrwS1+BugSjnAJW7fBL3jWZmgQ1V2dsb60S3oCl3SgWPgWSxKBwjYSBltJlwjkP2vDkUKtm74VACEECsXOD2lF7uj4dytvLrI1to0w8Q0bBCI9McAudQAAAABJRU5ErkJggg==",
     "wiki_name": "Chaos gauntlets",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chaos_gauntlets",
     "equipment": {

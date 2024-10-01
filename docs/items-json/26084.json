@@ -1,7 +1,7 @@
 {
     "id": 26084,
     "name": "Sigil of the dwarves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACk0lEQVR4Xu2VbUtTYRjHPWTWUozBRMYqYWHhAyNlaIOVjMyHjGxoYymSiSgiivSA9PDOr9JXCPoAvewj9F2u+t2H6+w+987kmGd7Ebvhj3vhzv07////utbT0z3///GktTp+PLnx41tIc48LUizek7H7tzsN1gxja2rqrtHoaK4Trp0Po0DA5PNZyeUyks2mJZO52Q4oT05O1mTg908jF8QW0QEFEDDp9EDSQJ58/FAzQMdH1QAq0K/vgSqVB1IqjRun6BMODQ6mOghkwayulmR+fjoENHJn2LiUSl1LCsqTz59ey/t3rwKgg4MXTUDra4+MFheKUi5Pthfo8PCl7O+tGBg+u0D1ekU2N55IrTYny8szwQqYmBgxQHQowdj8MiMdaYAABGhr66lsv1mU3d1nochmZ8YCIBxKFIi4CoV8IICAwBlc0biq1bKJDIcUiPGn2AlPmhcCIjaN6PnKQ+MMFzPqfAaKyPjfNgD5peZtVVxMNDiB2DdEw+Uqik2pdUEmuBw9ExGuIIqtUXAhLtCZnbdLxjWiwzWdNHtBJgDUKDQ9UtEfjQuxDOkMMWnxgXYdukRs/g9ib+8V4wpALMavXzaDBcl0AcOY66jbUDjnAv3jpPkgqK/vqhFxnJ1ty+lp3TjEyOMQU0VcKt0/rRxqLMfYUM0w/f3XjSg2DtEhIsMh+gKEOuLKBiIugHgmz48B1hpm6O/bcTlFBUb3EC7RHy027mhsNhBjr8/SZ+td50BFAwGDcIIYbuWGQhMFJAD6V8EUSL+PLgjE8aGiHFIBhNg7CBDtD+4okP2dSwBxoqGi4OLKBrFhYgJxwlAumHthlNzOuDAxSu2exi6KkntRlNzvXNCVVkffJEl1T/e0//wBbQkgbA9KSZgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACr0lEQVR4Xu2Xb0tTYRjGPWTWUozBJMYqZWFhxtAY1mAlI8vMyIY2ViJZSCFSSH+Q/rzzq/QVgj5AL/sIfZe7fs/hPnvOs3PGsR4HhQ9cuBfbeX67ruu+hwMDR+f/P4Gkq+8nkFPfvsQ0f7Mi1epFmbp0rt9g3TC2ZmcvGE1OlvrhWm8YBQKmXC5KqVSQYjEvhcLpw4AKZHd3VUZ+fjdyQWwRHVAAAZPPjxigmYkJX1CBvH/XMkCvXzUjqEg/vkZqNGakVrtsnKJPODQ6musjkAWzslKThYWrMaDx82eMS7ncCV+xBfLxw2N5++ZRBLS9/aALaG31htHinarU61dSgTy4FMjOzkN5+WLZwPDaBWq3G7L+5Ja0WvOytDQXrYDp6XEDRIc8xhaWGelIAwQgQBsbt2Xz6aJsbd2LRXZtbioCwiGvQMRVqZQjAQQEzuCKxtVs1k1kOKRAjD/F9jxpQQyI2DSi+8vXjTNczKjzGigi472HABSWmm+r4mKiwQnEviEaLldRbEqtC1KXoxcgIsIVRLE1Ci7EBTrz/Nld4xrR4ZpOmr0gPQB1Ck2PVPRH40IsQzpDTFp8oF2HNDb3lgwn/EEcHDxmXAGIxfj503q0IJkuYBhzHXUbCudcoD+ctBAEDQ0dNyKO/f1N2dtrG4cYeRxiqohLpfsnzaHOts7sUjfM8PBJI4qNQ3SIyHCIvgChjriygYgLIJ7J8zOApcOM/f52XE5RgdE9hEv0R4uNOxqbDcTY67P02XpXD6hkIGAQThDD2dJYbKKABED/KpgC6edRGlCPToVQSQ6pAELsHQSI9gd3FMj+zF8AcZKhkuCyygaxYTICceJQLph7YZLczrgwWmpgMgBxOrsoSe5FSXI/47pyAJjwhG+2/3PwowODuMf+Nr7k3nF0/vnzC5sZXKIxeAFrAAAAAElFTkSuQmCC",
     "wiki_name": "Sigil of the dwarves (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_dwarves#Un-attuned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 3132,
     "name": "Pasty jogre bones",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-14",
     "duplicate": false,
     "examine": "Jogre bones smothered with cooked Karambwanji paste.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu2V30vTURjGPVfhfXiRRNeB0JURJCaEZSaorJih2JARZposkbFWQ9baWMtfmzp1bIw1fzCGu4gVoYhEGSISWRixi6iLboX+gSefd8w2xVw6M3AvvOw7vt9zzuc873PeU1CQj3wc7VDYnocWCh67HQ6zGZZ7Bhjb23GquPgwoRQ+LC/j8+oqviYSGHe5DhMmFb9LNeXz/Q9AqVCIR6NZAP0zrym8mZvbZSGFkpLTqK6+iPLyc7t8u+9QWF1ZSdv99qypqURHRwtaWm6gQVuHk8UnDhJKQaO5itray7IwVUgl/xPCaGzHU5dFsrNTj/r6KygsPHYQUAq3W2/KIs3N19HUpJHU6bQCwqQyVms3HA4z3G4b7pvuypjS0jO5BlJ4YO5ET08XbDajLHynTSdwhNLrG+WZ6vB9X18PxsdcsNtN6O5uk/c5BNpojB57RhLOYjHAYLglPqFKBCQI3xMmEBiU/4SkeixpDqCUTB6JBBAKDcHn65UF6Q+WhUrRUymVgkHPNpNn5r5joxFO+hCNBuWXC3q9TgwMWKU09AcNTpUIFZsIQ9+Y0/KkIrkju8kE92MbZmZCmJ72Ixwegd/fj+Fhh5iXqvCE8SSxfIm1NcQjEei02v1AbZVVyUXKC9XX24vQ8JBcFykgeoOlo8HpjUuVF1BVVbE5llCvYjE0XdPspVzJxdNz4JEVXqcTAfcgwt4RRAIBgeK39BEVojpdXa2iEMtVVnY2bdEk1MLLF2ioqxOVOW+WUEp2w/vp+fQUgh5PhiqEytxh8plQVIlgPF0sWWavUXg9OyubiQaDmHkWEn9lAaXw4/s3fPn0Ee8WFgRscmwU/v7+HaRWUjYqxdP3xPlQSkdzV1ScR1HR8c1xnG9l8W3aPFvn2jGSH79fWsJ8PC4m3nmwEi/xxFEltoAUVGafUWkwewqFn+vrWJyf32USJS2Ap45KUSX2JDZJeilz7J/mySqylVUhFgtjcmJ0E4idmycuu/EHEum++GuP5CMfRyN+AR09mqciyraUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xu2W30uTURjHPVfhfXiRRN4GQt0YQWJCWGaCyooZig0ZYabJEhlrNWStjbX8talTx8ZY8wdjuItYEYpIlCEikYURXkRddCv0D3zze8a7n8VmunnRHnjQl/e853zO9/me56ykpBjF+L9DIDOPLARcVitsRiNM93XQ9/TgVHn5UUIJfNzYwJetLXzb2cGMwyFhzlZUyEwfXaBIlGre44kDpY8qaMQABKLhcA5ABfOawNvl5SxAApWVp9HQcAk1NefzDSWwtbmZtPvMbGysQ29vJzo7b6JV3YyT5SfyCSWgUl1DU9MVuTBVUJLPhNDre/DMYZLZ16dFS8tVlJYeyweUwJ2uW3KRjo4baG9XydRo1BKESWXM5gHYbEY4nRY8MNyT31RVnclS5n2HwENjHwYH+2Gx6OXCd7s1Eo5QWm2b/J/q8P3w8CBmph2wWg0YGOiW7w8RaK8xuqwpSTiTSQed7rb0CVUiIEH4njA+35h8JiTVY0kPoWxCTh4K+RAIjMPjGZIL0h8sC5WipxSV/H5XhsmT8xCa6V4jnPMgHPbLv1zQ7bZjdNQsS0N/0OBUiVCR2SC0bYny/CnTV8gxYjuyGgxwPrFgcTGAhQUvgsFJeL0jmJiwSfNSFZ4wniSWb2d7G9FQCBq1+iDlyZSWFykvVM/QEAIT4/K6UIDoDZaOBqc3LtddRH19bfxbQr2ORNB+XZU2b04RWzw5Rx+b4bbb4XOOIeieRMjnk1AcSx9RIarT398lFWK5qqvPxcukQK2+eonW5mapMufNEUrI3fB+erEwD7/LlaIKoZQdKosxCUWVCMbTxZIpvUaZ983SktxM2O/H4vOA9FcOUAI/f3zH18+f8H51VYLNTU/BOzKSApIwpJBlo1I8fU/tj2TpaO7a2gsoKzse/47zba69iz8nz5VOkRaxwR/W17ESjUoTZ4IkxtJLPHFUiS1AgVL6jAKuwPzjKRP4tbuLtZWVLDsRsgXw1FEpqsSexCZJLyWAYmP/Pk9OkausApFIEHOzU3Egdm6euFQg5TfUASI7jBLJx3nfHslPJPsiOdPHFaMYhYrf2m/iVXeitooAAAAASUVORK5CYII=",
     "wiki_name": "Pasty jogre bones (Normal bones, cooked paste)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pasty_jogre_bones#Normal_bones,_cooked_paste",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8937,
     "name": "Blue flowers",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": true,
     "examine": "Very blue.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu3VXWsTQRQG4OZKclWWhCxpqNIfIXjjhRdeqygqKi1atPhBwW9CqVQbqlYJhMbP0kCl1lC1oogWRdFfNu47wzs9Ozsx2WQVLxw47GZ2k31y5szZoaF/f+SUP3zX//jIqQczh9X96iEdCzcPqtq1AzqIWGucVqv1CdV6OO5BuX9iYLgBEQUQw8WsLJ5STxZOxB6Mz7jmRhyVCplT9dkjCRSOgDAIelQ7rhpzR/W9OPpAuF+iv23MqC/rV/tDEYRzZoeg5/dOahDv7QTC9762q+rH5m31c3Neg1Jh8KP81wThoT7Q0p1jFoRzH2h96UwMhPMeQbnYMuBBLG58dkF4OBBc3k6gjcdnswMxS5jzgZhJgpA1F/T22TkLQqQCsS5cEB4OkCxORjfQu+WpOOjVjcFBmMf1QrGqCqVZVSzNmfMi/+12uKD3K+ezBSGwlAQFxSsqKFzUAZgbEoXl/bR6yYK+v7nVKwYjDpIog7muhoMpm4nx/aEGlMqLKiw3omNdn7sZ+/xiul8QhvkR1EMCFC0VUEFhWmcnvy/UAGQNoHCkGcVTVa4si2jp7/YJMj0IGZIgzNslCWuxAGQ4mFSl8K7JVISSIHx3a+2yBaVoimbLuyCJYfaQEWAAAARz8xNjdumIwjx2ZmYgiUKg47pbXy9ZtJQ7dhdUZedrNTLajuKlvoaCzgwks4QjdgxB3HGol+1oWgxgBLWbkxaELt0jBsPsMB+IrwMJkpljveT3FDWmsuuDnse9eG3IDPUFcuuI3ZcgfOYrw4DMTgIIx9GxLQvCayMzEFGYR/oJwnXZNJmp/N6SPWf9oEtLUAqUAfmWrRuIrQF9CUd2aNz/sXXBgtCDUvShOEgumwThiHmJQbCm+MoAfGAQirUbCA/DnA/EWuNyZQZylw3zEsSCJojvPXyP9wKELS9B6EGp+5Bv2SSIW74TSNZPJiDfskkQrrkFTRDuk/UzIAjDbNlu4dYPwwWhKUoQIwWo15FEMmT9/EXQ70YSmYz/Y7DxC3sjIvRBlThVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xs3WXWsTQRQG4ORKclVCQpY0VNt/4I3gjRdeeK2iaFFp0aLFDwp+E0ql2lC1SiA0fpYGKrWGqhVFtCiK/rIx7yzv5OzpxGSbVTpw2N3Z3c6TM2dmm0rt/JY2/vDd/+ctbR5NHzMPy0dtzN8+Yio3DtsgYrV21qxUx03j8ZgHpX9E3/AQRBRADI1ZXjhjns2figyMa9zTEUXFQqZNdeb4FhSOgDAIelIZNbXZE/ZZHH0gPC/RP9anzbe169tDEYRzZoeglw9OWxCf7QTCe9+bZfNr4675vTFnQRhj7/CwDT26amHa+asJwqA+0OK9kw6Ecx9obfFcBIRzgvToqqUj04CBWNy41iAMDgSntxNo/en55EDMEvp8IGaSIGRNg96/uOBAiFgg1oUGYXCAZHEyuoE+LE1GQW9u9Q9CP+7n8mWTK8yYfGE2PM+Hv1aGBn1cvpgsCIGpJCibv2ayucs2ANMhUZjeLytXHOjnuzsOExskUSHmphnITrpMjB0KLKBQXDBBsdY6Vu25ztjXV1NekB69Qwv/COphC6g1VUBlc1M2O5mDgQUgawAFg/VWPDfF0pKIhn13m6BwD0KGJAj9bkqCSiQAGchOmEJwP8xUCyVBeHdz9aoDyU1Rj65auOQ1SGKYPWQEGAAAQd/c+IibOqLQj5WZGEiiENhx9dK3U9aayl37cqa0+60ZHGq24rW9h4JODCSzhCNWDEFccaiXdtQdBjCCmvUJB8IuTUxPIKwwH4ifAwmSmWO9ZPbnLaa055Ptx7P4bMgM9ZgdtDZI1xF3X4JwzU9GCApXEkA4Do1sOhA+G4mBiEI/0k8Q7stNk5nKHCi4c9YPdmkJIkqP7mkhyDdt3UDcGrAv4cgdGs9/blxyIOxBMfahKEhOmwThiH6JQbCm+MkAvG8QirUbCIOhzwdirXG6EgPpaUO/BLGgCeJ3D+/xWYCw5CUIe1Dsfcg3bRLEJd8JJOsnEZBv2iQI93RBE4TnZP30CUKL/tvQKXT9MDQIm6IEMWKAUilu638LDZQh6ycRUK9NI3vBMtrP/qemkb7Q7+zo9gfFJ22AyUZQTgAAAABJRU5ErkJggg==",
     "wiki_name": "Blue flowers (Trouble Brewing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blue_flowers_(Trouble_Brewing)",
     "equipment": null,

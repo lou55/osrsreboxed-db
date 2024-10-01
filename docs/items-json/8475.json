@@ -1,7 +1,7 @@
 {
     "id": 8475,
     "name": "Dragon bolts",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "Dragon crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdklEQVR4Xu2VwUrDQBCGO/QglpBQEhJqaYt686QHCx566KGHgkgLlYqICB58CO/2AfrAo9PpZmc2vU7iIR8EOpuE/fj/pOl0WswBDFcaBHCenqOWalQQ8DY+E0KNCgIu8x5G3e5RAPB5EFUEZ/1Q0ATAj1GMi6xXynxNkoOglFn/Cd4nUtAMwLdhLOoJBfmapyJMzBTAaRKVQqsiU4Kf4zAxUwBfrwp8yGMvNM7UXE3MFMDHUVpu/n5d4HLoZj6vEzOFBWQa28scZ0VSEfKVmsL1yM19Wv4aL2wOiDQ4rcVFX6ejhE0B3Ex0OjTfpbKaxtLhWdcVCpvCD6/cnF79aabT0cJm8PMyH+h0TtVXi8xu9304bhL9aQjrqyEdL0PpvGxXxw153QuGdZrgZej3fv9TznTQwywFdZ1m8Gb0WaA6pBAJyFnXaQq/2lLIJeJmSsqth3cbwUn5g9ecEP0RSll9b61U62xYiPBv3T8Rcsg6W1paSn4BinNBao/f/UYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkUlEQVR4Xu2VzUrDUBBGO3QhlpBQEhJq6Y+6c1UXFlx00UUXBZEKSkVEBBc+hHv7AH3g0cl1kpmbunOSgv3g0t5Acw/nmzSt1iHmAfSvNBjAeXyMGqpRQMBJeJQDTcbj/LNBQMBl2sGg3f4BAHzoBRXAWdcHNAng6yDERdIpYN5HUQ4oYe6+Aa8iCWgWwOd+KOrRgAx0m/nGTAM4jYICaJUlCvBtqI0ZAwE+nWV4nYYl0DBR+6ox0wDeDOLi8JfzDJd9t+e6pDFjIAcgbaxPU5xlUQWIKzUHonrk4WyrnBUogGuZH7bBthYnXW1HAJvD3I+0HdpfxrIabce/wx+ntLOrLh/YGMgNrzycHv1pou1oYLO4eZn3tJ1d9dVgB3Cz+cjXRaRfDX59NdgpYcjO43qVH8jXGZCWrNMIqISh79vtZ7GnRcMsAXWdZnGH0WuB6pBABCD3uk7TuEdbArER3pMpvl4DEMWZ4sVDzED0Ryhh/V+bhIdVD221zhot/ZbyqdsTIGdP1tk4EGevYA75t/kC82uQQ1i2RiEAAAAASUVORK5CYII=",
     "wiki_name": "Dragon bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_bolts#Unpoisoned",
     "equipment": null,

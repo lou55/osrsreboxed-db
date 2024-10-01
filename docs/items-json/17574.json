@@ -1,7 +1,7 @@
 {
     "id": 17574,
     "name": "Arms",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-31",
     "duplicate": true,
     "examine": "A pair of limp, dead arms.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtklEQVR4Xs2W4WvaUBTF+74PxmBUUFRSiSNmmClmSdFGpbZ1Kp2bc3NSixNkriCFwRgMxr6Mwf7qs9z3eIpFMb7I4oF8zOWXc8+9N0dHymIQz0GIwdbTMFPxQ4BiqOezcJ9pHOgk9jRKKIaOnV8AWVoCevwYscePooBiGJyV0DstoFUy0bAMeKYuWqfFkYo9iQZqclHGqOZwuK5joeWa8F7osDIJnMT/e/sYvg4amLdrmDU9TK8rGF6+RKfst7GYhW2koSeP9wkVZJQZvt9c4denNr4NL3D3topR00GvWkDDNuCaGox0LECdrWKo2BlYuUSAYgw/bpv4PX3N4ebvahi3XPTrRVw5OVTyGd7C7XU2iqHf9otVcztBkUt/Pnc53P37c0w6ZQwaJZ4rgtpeY6MYxn0XvVeFBZSZDbL0RIv/fnmDn+MWzxflSkJR+7bXWCuGu9sqhxpc+9Nzae1YSIARFLWRWkhQNH271VlIAM1uPNxPzuE5qoUEGDlF00chV6vDJYrRQw4Fy9E6icBTyCngajVWxDDqOTxHasUYXwezrsf3UzGbVKyzEMN8XOPhDuMStY12U4hgS4k80cSFdYkWZohgSzEebmpbWJeobTT+y82tUsd/afqxsuLSSUrlaAqXaFl2zyy+KBXvnH/RP5S5S7S9CcjIqH6hcIlWQMjtLdomz4lb0Pjm1jX5hUGLCpfkASangr+7ItE2coqgWnWTO1V8ntwRTNw7CSUP8Pb31orxrU1gw67/z9Pw/3lOs9yt4GBiSco7Ry6F3t4EJaeONnijYvDTEhyM8T8COrp7W5QEJY8vTR61cB3YMvwPJWE3Qe8sAUUbnHIl/wgegqnvLCUtoWSuKPASjKbRttLcrUigKFfUQglGLqmfmlBaQkkwaiO1LgIYqVWnyKUIYaT2PjmHqX+FGyKnbNFPKwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xs2W3WsaQRTFM++FUigRFDUqWnSLG0WrQeMHMYlVSW2trZUYrCC1AQkUSqFQ+lIK/atP98wwasIW111Tc2Cf1PE355577+7tuZaAeh6EBPLxMIyQ/yFACdTTCRSfRSRQ1Pd0l1ACnXx6AWRGAoj79+F7/GgXUAKD4xx6Rxm0cgYaZhIVI65KF/Ej5HuyG6jJaQmjWkHCdQsmWkUDlcM4zFgAUf9/L5/Al0ED83YNs2YF04syhmcv0ClZZcwmkE+GEQ/ubxPKSSsLfLs8x8+PbXwdnuL6TRWjZgG9agaNfBJFI4Jk2OfgnLUSKOdjMFMBB4cJfL9q4tf0lYSbv61h3CqiX8/ivJBCOR2TJVx/zj8l0G9bh1VTG0HRpd+fuhLu5t0JJp0SBo2czBWh+J3Dg4M159hKYNwvovcys4AyEk6Gnirxn8+v8WPckvlirjQUy7f+DFsJXF9VJdTgwuqeM3Nxu3U3VJ8rMEKxjCwhodh9Ll1SQLPLCm4mJ6gUNj9oFYxOsfsY8k3PWZHuMCEdcpYjO6nAM+QMuAeg5S1HvYLMkbvDhBwHs25FzqdsIujyYgsJzMc1GW4vLrFsnE062JtfbCGVJ3acV5c4MD0EW0vIcLNsXl1i2dj+y8nt5hzrR9MP5VsuRUNulqZyicOye2zKQelyz1kb/X1JusTpTaBkzO0NlUscAR6ntyqbXifFTERO7nhE39ApmHJJL2A65RqIZaNThGrVDelU9nlwQzC17zSUXsDrf2crIac2wYZd652nYb3zHCWkW87B1JDUe44ueZ7ehNJdxwneKCflanEOJuQbAZfu6qB0CUQpKL182XksoR3YMvx3pWHVQxgPQJSC4gRnrvQbwV0wPbPs/kxDbAFGawmlc8XAazB2Y94MS7fsXboXLaGYK5ZQg9Gl1VWzJRecaAmlwVhGlm4HMFq3naJLO4TR2nrneNc9dM7eXwZjV7LTWCR6AAAAAElFTkSuQmCC",
     "wiki_name": "Arms",
     "wiki_url": "https://oldschool.runescape.wiki/w/Arms",
     "equipment": null,

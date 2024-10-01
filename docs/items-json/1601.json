@@ -1,7 +1,7 @@
 {
     "id": 1601,
     "name": "Diamond",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-23",
     "duplicate": false,
     "examine": "This looks valuable.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABT0lEQVR4Xu3Rv0oDQRDH8eyLBHyCNJaKgmChpYpWgqQ2tW9wIucVkYAcBBMIgoLNxZjLH59tdPaYZHZucwa9vVjsD74QUiQfZms1Pz+/oimQ32xwCqLoDipG4Z/Zuw9vq8eEYaCLOx1dv9uFz/kYXp77OomUv+BgCmaTd5imCcxnIx2CsMuz01yOUWpxmelkpCMUXgrjmIPdnWpA6UfyjRku4iAKMY5B8jpDSMeJDj9zzE2r5Rpkx3AEoRBDIWirXneB4qDsmeQTYW+vAwOEOQCZGIngz7SqEkFLjASsiznc3yvzSgoGvZ5OItbFUKWDnuJY9xuMUxAlAUWYElF2UBQEOYTEnBwfCcifMTgFjw9tA4QY6idMiRBaMYij7Bgny57NhqE4xsFV5DIQB1w3m0aI2W40XEP4FFxdnK+sYgyNnsLEbQgjt8T9A4yfX25fuCW6wazTI7AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABd0lEQVR4Xu3Wz0rDQBAG8O6LlPoE9eBRURA86FFFT4L0bM++QURiDkpBAsUWiqDgJbU2/eOzjc4um8xOt7HqrvGQDz5aCsn+mAk0tVqVKlWKIoD/UmIERNE1/DEKD7P3JrySn+uNhiy/0kMEhGEgG3c6sv1uF97nY3h67MtyJL+DhwiYTV5hmiYwn41kEYQ9Oz5aqGeUyCYznYxkNQonhaWY3a3NbIX8To6iQOlb8okZZqUgXcR4BvHpDCEdJ7L4nWIu223fIDuGIjQKMboIWqvXfTxHFKTWxFeEfXkeGCCsBjmckonhCLqmZXUIyjEcsCpmb2fb5doEDHo9WY5YFaPraEo56CGOZX+C8QrS5YAiDEXxE74ZOygKggUExxwe7DOIkz9dAfd3twYIMbpfYTjklxhMMYiibBiHEBq1NhtGl2L4VPjdHESBKOCi1TKKmI1m0+dUeAScn54sLcfwqz0lfwv8BxiV/FDzNbUUDA99VkrHVCk7H03e639a4uetAAAAAElFTkSuQmCC",
     "wiki_name": "Diamond",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diamond",
     "equipment": null,

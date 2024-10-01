@@ -1,7 +1,7 @@
 {
     "id": 8788,
     "name": "Magic stone",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A magic stone to make high-level furniture.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABP0lEQVR4Xu3SQUsCQRjGcfcTeOrq1a61Wh4iKMFDmpJEEFRul8BQqC4SWHjRk92CwK59z6n3XZ7dmdf1tjMTuA/8YZc9zI9hS6VixbZvgUrzvkAdHJ6parXG/QOcCULl8o4vXDbIEy7GANTrXKvmSVft7x3ze6PR4SqVXSOLqGzQZf+Ba55eZaKcgaLb5wSjB5gDVAqiAyXo/u6F651HXD08sglKMRf9iDEAAaIHlMVbikGEoV4ncwZJiATpqNxBwAC0WHyq8Wi2hpEo/X/KEWWCCIMk6nE45Z7G70lh2ErKCbUZBBQgb9MlB0y7fZM3BtuMWn58JxDvIMKsVj9/z1+uQTQTBQzSUcAAZAFDM0GDwZDLQjkC0WIUMDKgHIJowRpEBgxlGYPRIXESI1GOQPpSnAR6AsmZQPm1WLGt3i8/kjpR17zJlgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaElEQVR4Xu3WPUvDUBQG4OYXdHIt3eqoxo8OImjBwVaLRQRBbVyEigV1EaGKi53qJgh19X9evSe89+P0BkXuTYTmhRfSITdPz8mQSqVMmflLJHQLTyTWN/ZEo7FK/Qc4G4RWqwtF4dyggnApBqBu50S0tg/EyvIW/W42O9RabdFqQJQbdNS7pLZ2jp0oed9SvR4CZYOSs1uFMQsYR/HTPESD5AM56OL8jtrdT6hr8WbIKWnMYS8hDECAmAUq4JRSkMTIPty/EIhDOMhEeZ5SpDAAjcdvYnj9PIPhKPN98jglGyQxKEddDUbUm+GTahzvqnpCZYOAAuRxNKEC026fWhi5Nk+ry0ZNXj8U5DcgfvIf4wZJzHT6+X39njdIxkYBg5ooYADyvC7EBvX7A6oLlQXiJ3pIigKGF6gcQTLRDIQXGNlA6+LR3zwcw1GBp6Oj/7X5QWYDcwWZAc4FzGFdP8cEFo4pM9f5AibpX5eeGS0iAAAAAElFTkSuQmCC",
     "wiki_name": "Magic stone",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_stone",
     "equipment": null,

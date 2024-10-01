@@ -1,7 +1,7 @@
 {
     "id": 4594,
     "name": "Fake beard",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-04",
     "duplicate": true,
     "examine": "Makes me itch.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdElEQVR4Xu3W7WrVQBCH8eZmCrWCl6KiqKgoKiqKCKJUSlF8KcWjUihVi0oLlVJLqRVBVBRFr2zlyfIPk8mekk2i+MGFIS9nT/aXmc0mExP/fitCOlK///FWhCdzR8Jo9nAZC7cPhflbB8sQYmPpXFhfPBvWnp5JoPxN9IZHkFCAFB6z+vh0WFk4WRuYY37zUUdlIYuweOdoA8UWiEKg5/MnwtK9Y2VftikQ/S36+/Zc+Lp5sxtKIPaVHYFePTpVgtR3HIj/fduaDT9374dfuw9LUBaGi+quBWLQFGj5wfEKxH4KtLl8vgZivyWoqJWBgQBxnmMPYnAQKu840PaLi8OBOHdgerrcpkDKpEBkzYPevbxUgYgskOaFQAykMnqQndB7gd6/vlwHvZ3pB6JsnAcklDJpn0gL4loCfVi9MixIpbQgP6EtyJaZvp/Wr1WgHzt322JodRDBuX2Tk9UcEiheNAYYYIA43j81VWWIvp/fXO8KosVBuLid2BbFdmU0qoJj30/lAvRl40ZXUJy8ZCgF0mAWY1EeQ3ADFpSxKMZ5kgJZlIcohOEaNjuDgoQi9OR4iM+Szc6gIJslTVYPSIVFAdp6dqECsUq3xNDiE5YCtcV4FNnhtWEz1Ank51EuSChAvDYGAxFdMBbFKm1BGagI8mXrAxJKINagjHWoDrJl64KKgxbh49rV7iCeshRI7yc/aCoEYf7wYTYIyJeN8/79NS7UFxCPvAWxBmWvQ6myaRDumH37DcQqrsWT/2n9oe8goFTZLIjf7CeHBem1oXL1BNGaJUiFxdjwIBZFC1JkgNq2JlJh589fBO3Vmshm/G/92m81aGeBbDKC+gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClElEQVR4Xs3WfUsUURTH8Z134l+CGtQ7qSgqKoqSikKCKAqRogeRtkIQLalQMMREygiioijqld34zvAbzxzPyszsJF44zNPdOZ85986d7fUOfstSHNH1/96y9HzmROpPH89j7t6xNHvnaB5CrC9cSmvzF9PqiwsByj/E0PACJBQghcesPDuflufOVhJzzDUfVVQjZJbm75/chWILRCHQy9kzaeHhqbwv2whEf4v+tTWTfmzcbocSiH1VR6A3T8/lIPUdBOJ3Pzen05/tR+nv9pMcRI4jIyN5+OyuFWXXUwtE0gi0+Ph0CWI/Am0sXq6A2BfIZ3ctqwwDiQBxnmMPIjkIDe8g0NarK92BOHd4YiLfRiBVUiCq5kEfX18tQUQjkOaFQCTSMHqQndB7gT69vVYFvb87HIhh4zwgoVRJ+0ZaEPcS6PPK9W5BGkoL8hPaguww0/fr2lQJ+v3hQYlpDCI4Nz46Ws4hgThWgAEGiONDY2Nlhej77d3NEOSzD2hFEm5uJ7ZFsV3u98vg2PfTcAH6vn6rLaiYvFQoAimZxViUxxA8gAXZRdFnd62YJxHIojxEIQz3sNXpFCQUoTfHQ3yVbHU6BdkqabJ6QBQWBWhzabIEsUoLUwvEGxaB6mI8iurw2bAVqlkd2g7Iz6OmIKEA8dnoDES0wVgUq7QFCeWzB60A+WEbBiSUQKxBDdahKsgOWxtUUYUsfVm90R7EWxaB9H3ySaMQhPnDH7NOQH7YOO+/X4NCfQHxylsQa1DjdSgaNiXhidm3/4FYxbV48jutP/TtBBQNmwVxzf7lsCB9NjRcQ4Jou4cgCoux4UEsihakaADq9bSs7xUeaMPOn05AdZtH1sEqdvruU/PIKPxvDnT7B39ssg2fDZ8aAAAAAElFTkSuQmCC",
     "wiki_name": "Fake beard",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fake_beard",
     "equipment": null,

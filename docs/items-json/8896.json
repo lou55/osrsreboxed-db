@@ -1,7 +1,7 @@
 {
     "id": 8896,
     "name": "Coins",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-27",
     "duplicate": true,
     "examine": "Lovely money!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2UlEQVR4XmNgGAWjYMAA43/CmC4AYtncck6CmA6OIs4hdHIU6Y6hsaNId1B7Gvv/UAdW2jno50H5/z/3ifz/tpvv//ttfP9fbuTDcAQyzg1m/W+jx0wLBxGfkGG4JYWdVrmNNIcgYyo5Br0swe2gn4e0MMQWVEGiikppB7vlD1ZhTyu/jlmA8c+9/P8freX7v7ye839JJPv/SBfW/w6GFKcd7I4B4Tdb+FAS9OedfGAxUKIGhRKIv6OH639NHDuKPpo5CIZ/HpAChwYoh4FC5NpiHiSLsetHjX6SAGq2Rg6F3f1c//tzMC0jFZPoKJCDVOGhgGzQ6iYunCEAwqACEFsCh2FQAifDQSCA21IY/nnUBIxBIXhpAc//JTWQhAxL4OBEDgzlZ+sh8qCQBSVwmH4SHEXYMWAHHdEHhwYoKg9N5oJbAsqJIHFYIr+znAcsj5zQY91JKgqIcxDMAehiIAxKg+hiMAwquf2sSSoKIIka3SBkDKss0cXRMSgNImcKULQWhrGTWq8xQoIcFCXQdIKcFmBpBTk94MIQS3FhkgAjxCHQdIKcFibl4y9vQJhGzQ10H6H7jhElR6HnNipUGeQAaPQi5TbkEERXTSeAHnoD5pBRMAoGNwAAS8RkzoQJk/EAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+ElEQVR4XmNgGAWjYMAA43/CmC4AYtncck6CmA6OIs4hdHIU6Y6hsaNId1B7Gvv/UAdWsIMMFBSo7SjG/z8Pyv//uU/k/7fdfP/fb+P7/3IjH4YjkHFuMOt/Gz1mWjiI+IQMwy0p7PDcBnIMFR1EmkOQMZUcg16W4HbQz0NaGGILqiBRRaW0g93yB6uwp5VfxyzA+Ode/v+P1vL9X17P+b8kkv1/pAvrfwdDitMOdseA8JstfCgJ+vNOPrAYKFGDQgnE39HD9b8mjh1FH80cBMM/D0iBQwOUw0Ahcm0xD9xiXPpRo58kgJqtkUNhdz/X//4cTMtIxSQ6CuQgVXgoIBu0uokLZwiAMKgAxJbAYRiUwGEOIjEKcVsKwz+PmoAxKAQvLeD5v6QGkpBhCRycyIGh/Gw9RB4UsqAEDtNPQigRdgzYQUf0waEBispDk7ngloByIkgclsjvLOcByyMn9Fh3kooC4hwEcwC6GAiD0iC6GAyDSm4/a5KKAkiiRjcIGcMqS3RxdAxKg8iZAhSthWHspNZrjJAgB0UJNJ0gpwVYWkFOD7gwJJ1gxyRWJYwQh0DTCXJamJSPv7wBYfTmBi6MbisBgOkrZN+BaOQchZ7bqFBlYAJ0H2H6Dhq9SLkNOQTJDAlKAfYQHCDHQAB66A2YQ0bBKEACAMLkn5WTr7VVAAAAAElFTkSuQmCC",
     "wiki_name": "Coins (Mage Training Arena)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Coins_(Mage_Training_Arena)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17637,
     "name": "Flamtaer hammer",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-26",
     "duplicate": true,
     "examine": "An exquisitely shaped tool specially designed for fixing temples.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xu2WWUtCQRzFmydJpBBFUVExsTAjK0wUK41QEoUy22hTC8oMoQj7AH3xU2dkrgsmPniXhw6cFxmcH+e/3FlY+NdcJdC3JSTgcbsRDgSsANVPJuj3YyMelzYxLYGYz4m1gEs6EXIjm0ppNgFKIBH1YyfqRXrVJ52N+1HK56XNAfpNJRnxoLARwlEyjNJ2BOXUCuqVirSBUEIrE4GYDkGq6Sjq2VVc7q3h4fLCKKBB7yiY/fWATEgB3RYS+Hh5xlurqSdUf3oi3iUJxHTYP+wblozlItBNOY1WcRPvJ7v6wnhdDgTdjqkwKp3udUFfmGW7TYMZL9UwDHtHJTn+L3OSwKLNBp/TrsEwnUkwtM4wlMDuVlKzmiqWSzXxaSYmzbOEZBl1h+KiOz4soFosyp6heTlNKJWM+t0QqFq5jJuzGppXV3i+v5f9MmxToO7O6xKm+/SIz3Zbjjc9erHBUPRro4Fep4Pvr94fF06CmnRublIXTLtkFIqDMP28IbIolJpIS0ERhlBcqgMoU8GEtuEVFJfsbP2om8Tgo5zL4SCTGbFpUDQ3v3rumvTkHVYfiJ8i2mQYJWH0u3sWWQrmX/PVD0LgZHiPjtrGAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB30lEQVR4Xu2WW0sCURSFO09SRBFJoqJpUmFGWqgodjHCSAq62A3LygKzIiiifkB/fMU6wx4vRfTQmZmgBetFR/xYe509Z2DgX78qBcuekMKE34/JcNgLUFYykVAI88mktotpKUwHxzAbHtdORf0oZrO2XYBSSCVCWEoEkJ8JaheTIWyurWnz+0ws5iSU0qmk4xMoz0exkZ7E5mIc1ewUatvb2g6mpOwxEYjpEGQnn0CtOIPj5VlcHB85lVKnOwKzMhfWCQnQWTmF59sWHppXJlOyTk88MKKBmA77w95wZBwXgerVPJqVBTzt5uyEDKSkEBgfRsQ//C2MpPN4WjYLMzrks2H6R9UNw+5IksZgBn0+BMeGbBim8xUMbRiGUshl0rblVHFcUuK9wrQ2nyUkx2iwyJTSi25rvYydSkV3huaf04SSZORzR6D2q1XUD/ZxdXKCVqOh+9JtV6DOD2sa5vHmGi/ttj7edG9vHIai7y4v8Xp/j/e31z6YznOfoQyBSQrizzCiXigeBGNQlIB8DSNyGOpnstaB56AIQygu1Q6Uq2DK3vACxSXb3cf+Xzgg1Xkpl0pYLRR67BoUzc0v193uK+/3h8SYLCC+imiXYUTKvnd7AEbkKRhLnoL50/oA/+OOC3Dpg1AAAAAASUVORK5CYII=",
     "wiki_name": "Flamtaer hammer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Flamtaer_hammer",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 29684,
     "name": "Guthixian temple teleport",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-07-24",
     "duplicate": false,
     "examine": "Teleports you to the Ancient Guthixian Temple.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByklEQVR4Xu3VXUsCQRQGYM+V9DcKCgr6gr4wKTARI4iQij6IikIqhJCKKCiEiK6C6KqLfuuJd+LocXbW3WmthdgDL67KjI9nZmdzuayy+v9F3EnqRXyyMcG3h/Pc3J9VsFSRxPfHC/x0VuTG9rSBXR/MtZMCkPilscxvVyt8vjllUJe7M20YuqcTBLqSqIhfmyWu1yadIAneS/C9RD7rY1eJ32/KThA6YoMG8vkunIaExRNG/HFX+THIRtlLjGB/7lXH4qKIPx9XE4F6oWQ+JAaIzICH00IsEDBhII3CONy5es4YGBSZiVr1xUhQFEaDgEFwxmHemBgUmR99vljqGwhj0HGAjtbHfTAoMoNxDtkYvSfkB3uh9FKh47j2BJGZBINxDmmQTK5RuksulO4OUisN+2BQHZAsl8bY0RgXCuOkO3hNBNIY2ZA6NsQFkuXCmYPrrfKID+j7dgdAY/Q+QKT9NsQGyTj8OexHvPcGyUT6eaQn16iwLtnLhe4IaKcy6geSvSGnqMSFspcO32sMAriAqoVBXxBKHnjuhO0nufs0Ru6uhKCoCiKlqwIRzB+BXBVECjQlUFh1A9eKQwaEZ1mKKF0amFVWv1tf+j9d+PnA9+4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4UlEQVR4Xu3VXUsCQRQG4J0r6V9IQUFBWdAXJgUmYgQRUtEHUVFIhRBSEQVFENFVEF110W898Y4cPXuadXdSWhAPvKQrM/t0ZnY2CAY1qP4vQ+2kXoZON6fo7miBGgdzApYq0tDDySK9nBeovjNjYTeH862kADT0Vl+hj+tVutiatqirvdkWDN2T+Q10pasy9N4oUq2ac4I4+M7B7xy+1sOuGvq8LTlB6IgGDWUyIZyERMUTZujrvvxnkEbpJUawP/crE0lRhr6f1roCdULxfAjulctmO6GMHfB4lk8EAiYKJFEYhydXzsmYWBAmeq4txYLiMBIEDIIzDvMmxKCMvenr5XLPQBiDjgN0vDHpg0EZOxjnkMbIPcE37ISSS4WO47ME6Ts7ythJMBjnkATx5BIlu+RCye4g1eKof3cYxMslMToS40JhHHcHfyVI3zmi2iCJ4Q0poyEuEC8Xzhx83i6N+YCajzsAEiP3AcLt1xAN4nH457Af8d0bxBPJ95GcXKKiuqSXC91h0G553A/Ee4NPUY4LpZcOv0sMAjiDKvlhXxBKv5HDidpP/PRJDD9dXYKCgB9JVzRQdpUhjOkZKK6SIBn6LyBXaaQLul4YsSC8y5rXUqgoYPtayhUGDqqP6gflD5ouC09IJwAAAABJRU5ErkJggg==",
     "wiki_name": "Guthixian temple teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guthixian_temple_teleport",
     "equipment": null,

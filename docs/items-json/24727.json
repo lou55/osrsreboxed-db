@@ -1,7 +1,7 @@
 {
     "id": 24727,
     "name": "Hallowed hammer",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-04",
     "duplicate": false,
     "examine": "Removes the chance of bending nails within the Hallowed Sepulchre.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB60lEQVR4Xu2V3SuDURzHnaQnEi1Pli1byDTWvLTNVlISeakhWeR15W0mzFqWEFHycoUrN0pJkRvlyq07f9SX31nn8VgaxfPsKfvW9+qcOp++v5eTl5fT/xHD186KGGqrqlBts3HbrVZUWizcWQBjaGxogMvp5K53OFBXU8MBCazMZEKhJOkJxhDweNDa3AxvUyNa3G4FjKAqzGYOVVpSguKiIj3AGIdp9/sVMIKi1CgpUT4CK5dlBU5jMMaByG0+n5IWJSXKp+4tAlqZMmGkp1g/KEpLJKXuLUrpOFGuBxCJ4fwkiqP9uU8lFL1FCcVCEgfajpQh2KEpEMP+1gw2YqN4vDvhKalNZdsNS7g+snCvh03wusT0/bkYxkOdWAj3Y3K0iz9C6QgTEJXs+cqGl1s7LnbMmBgQja2JGNoCLvR2+3hCYoLUQNQ/rw92PF1W4mBV1hZGakoi3xZEvtyS9pAY7ZQpoZtTsb010zuQKwbJd4gC51yGxxjuz6wZzv9MDHubU6okMum781+LYSc5+QMQXWQwGJqmlcUhIwAxrC0NGwcmMhvkC3ArMZ5tIIbo/CBmp/uUbZx+Q0elyiSAKKUsAjEkVkOIL49wIEOUiiaKgAzTyJvxMZ6SQfZO6mv4+MUNoZ/8UznlxPUGTbBRbBbUNsAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4Xu2V3StEQRiHTdKJRJvNZje7PrJaNpZYlJREPmqRbMRiyzdhaSMhouTjCldulJIiN8qVW3f+qB/vnOZ0zq6s2s4Zxa/eq5map+d9ZyYj4z9/Jwxfl5QwVJSWoszt5uVxuVDsdPKSAMZQW10Nv8/Hq8rrRWV5OQcksAKbDdmKYiUYQ0tDA5rq6tAYqEV9TY0GRlBFDgeHys/LQ25OjhVgjMO0NTdrYARF1siUaB+BFdrtGpzJYIwDUbUGg5otMiXap58tAlqZsGG4O9c6KLIlTOlniyydxgsNQIGSEvOgLs+WcHI4Y2ihmC0yFAsrHGh3oQChdlOBGA53prAZG8Hzwxm3pC9q235Uwe2Jk9d61IZGv3r7TABiGAt3YC7ah8hIJz+E7IgiIGrZ640bb/ceXO05MN6vDjbBmALU2uJHT1eQGxI3SA9E8/P+5MHLdTGOVu3mwiiBLWS6Q8i01yccZPxGyNDdufp6mwRD+QTyx6AEj5Hlm0maCT3c44XLbBgKw8H2hGbh+8NSracdhr2tiAEk1WGp1tNIMkziDgvD+G1amR9MmhkJYVhbHDLASARiWJgO8QdwJz4m2w7D0uwApid7tddYoh21TQKILEm0wxBfDWNjeZgD6VslDYhuFAH9mkHe3hjllvTvTuIuC6N+DeIXl2xH5Cf/lMX5VTD/0eUD0VWQgItbv6QAAAAASUVORK5CYII=",
     "wiki_name": "Hallowed hammer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hallowed_hammer",
     "equipment": {

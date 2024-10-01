@@ -1,7 +1,7 @@
 {
     "id": 19229,
     "name": "Fire talisman",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLUlEQVR4XuXXyUvDUBAGcIuUUhFF9KSIeFBwwaq40qoV9wXFpYriWrXuG60UXCtUCyIeFI+CB//PMd+Lz/eSVHvJSwUHPkKM2B+TyaTm5NhSLtLzJ8pFz0VeWpuf/0JlHSZAPFmG6SCe9DBHcQIkY8xxCCU6kCz0WBA8Pncui0KUjghNTND4wAD1dXVR0O9nR5yvzIUYgHdOAUb+Yy6K7uzQ0uwMzYyN0Wh/H4ME2tqotdFH9TU1VFVZaZofmzHygJ5uRyi8sECL01N0mO9mHRns6aHujg5qb2oiX10dVZSV2Y3gpWM4KBmP0+7qKgMBg0wODbEjbhmOzQ0NrEsKQC56KxZPDs5TFxd0eXJMkeXlb5A56BJQXo/HbpQV9HyXpKfbBB1vbVogPJgloJSAPkqMoNdUih5vril+cGCB8ODWKeuQGfRyf08PV1eUiEXpbG/PAMEKwDwN9wbZYDsGwhwBdH50xFD762vsOp46rAF0SNFQo6woGYR9dLgRZkOO69hJnS0tVFtd/QWyfQehjMONAIQ5wk4CBpsZtwwLEvNTXlpq+H0lqHetU4j8Qb8l6MllUYDhJZZkpoTy3M5imrWXJZLQ3vBIrEBk2uv+jo0geSD1mEHm6+ljS2W+NTZ+WKbSh3dXW3Rysgrim/cnjMMoAULMiID25DgMQukDaf7Sjq+hMshxlPyvDcfIoBGv0j2TrkSnOAjneLcBw+MwCmXcLRwkfpb1+jOQf1qfdW9rj6zmP1QAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACY0lEQVR4Xs2X30sUURzFd5Bl2Qgj6kmJ9CHBDFfFzFBzw8zKMNI2UTLN8vevQmMhszbYXIjowegx6KH/8zTnzt69P2Ztse7MeuAwXGZn5jPnfu/3ziYSTuQh8KmQh6PzaSxMT5eh6g6mgKTrDBYASVcHixVOAekwtmOCUgkUz6VCENKZZINwhFABRG5iAg9HRzEyNITswIA4cvz8aU4AyOQkTFdLi7B9t3+Q/mYedldX8ezJFKbGx/HgzogAGezrw/WuDK61t+NKa6tVP45h9AJ9s7KMxZkZzE4+xtbZpEjk7vAwbvX340Z3NzIdHbjc3GxAOIeRQMV8Hmvz8wKIMPSjsTFx5JTx2NPZKVKSQPYd/0Mefl5QK4fj0v4+3r/ewfLcXAXINlMiVDqVKqfqTGGgo89FfPtUwM7SqxCINGuJUBLIYUoefl80gX6USvj68QPym5shEGlOnZ5QpEDfDw/x5eAAhb1dvF1fN0DYAlhP925nRWHHBsQ6ItC77W0BtfFiQZznqmMbYEJ6UTsEosJQOhD70dbLRVHkPM+edLO3F1fb2soFHck+ZhY3TSDWEXsSYdiZOWVskKyfS01Nxu8jgfrlJ0XrD/qbs6kG4YimjlJNspZzZ5LxwvT4myVd8Hd4eq9ReTKdrNjhKjM3xmpA9vlqdpRO7anRH1bL9t1PqKB41/xGp/s4IPvqCORVOu9xMDqUfXUEUkC0DTHor5y6pETbH+38DNWBYkyJMv/aSBgd6H5a9Rn76oikkpJAHHNvI4x0jCklEsHbm71FAsmxo+V9Mpl9xQSJHaaaTg1IHPoDt9msErMPAlQAAAAASUVORK5CYII=",
     "wiki_name": "Fire talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fire_talisman",
     "equipment": null,

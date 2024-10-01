@@ -1,7 +1,7 @@
 {
     "id": 11040,
     "name": "Key",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-10",
     "duplicate": false,
     "examine": "A large rusty key.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB10lEQVR4Xu2WXUsCQRSGm6vwPogQCgyDIiRDLMESyT7MSKQQKbwopPD//4ATzxxOu64fQbqzQr0wiM7oPL7v2TOzsfGvX8tJNDKXk8GgKc3miZRKhXWActLr1aXVOl0HII0Jh4ACKEMoJ8PhtfT7De9Oubwv7XZVzqqHWUApzEPnXGq1I7/568uVf9+4LIUGcvL8dOGLuF4/9hubU8SGS5XKgRQKO6GgnHeFja2GiAkoQM0lIgwEhOI9R+Pqdmu+lhhA4SBOBYRCGh8QuBKBOg8IFO4FhErGNzln/Wl6Tudnf760Fv2wOnh7U0msUQcBnv/d1KRQ8YcAGANiLhMo2gLFzkgCZQClzhAdA7coeFoDMMACGABKQWgLADDsmLE53gPEmulaW6kUxLo3XZ2+lM9vJTbVw5m1do1JCUqB7MDd293+diW5ks9Go3vf7fkDdj4mVy0pJ+Pxo98gapqL5OTzoyPvb3e+8FPq8nrw4tLP/zp6Eq3Dp3Rr0I493yWNMQ5C0ReLecnlNud8Zyk5H4MV9uQGkyDENFn4K4cxaRy4FD+EASFKhkUU9B6FSwABwiuOGRARpexKUtoGkkA4E/iKEld0TzKgwK7MktbO7DtUZsrclT+iL8oKj8sHtnuGAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9UlEQVR4Xu2WXUsCQRSGd67C+yBCKDEMihANsQRLJPswI5FCpPCikML//wNOPDMcd103g9qd9aIXDrLsyjz7vmfPTBD869cyElbuMjKZdKXbrUm1Wt4EKCOjUVt6vdMFUK1UygvKxYRDQAGUo0tGptNrGY871p16/UD6/aacNY/ygHIwD4NzabWO7eKvL1f2unNZ9R2dkeenC9vE7faJXVidIjZcajQOpVze9eWSsa6wsPYQMQEFqLpEhF5dChdzcQ2HLdtLFFA4iFOeXAoChcEVIHBFQSkAgcI9b1Dx+IDU4lrnU3J0mU32ML6kRXHw9qYRW9w5CHAmUMkwKgcV/QiAUSDuZQK1XsaOBZqdigPlAOWcIToKt2h4RgMwwALoAcqBMBYAoHSb0XtcA8Qzq72WqhyITm+mOnOpWNy2i0a/RjZnntVjTEZQDkg33P29nYUrqx+Bkdns3k57XkD3x/B+KjIynz/aBXRoLs+puIx8fgzk/e3ONn5GU95tvLj081uHX6JO+IyOMW5iR12K36eiIDR9pVKUQmHrm//8ScbGoI29/MbLIMQUbfxozOF/UpGLA5eimzAgRElpRHqOWt9vqchYlwAChF8cUyAiytiVuNwYiAPhjB5RPLgSV3hOUiDPriTJ9U7yGSo35e7KqjYKJi19AV/RypLlPks8AAAAAElFTkSuQmCC",
     "wiki_name": "Key (Olaf's Quest) (Square)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Key_(Olaf's_Quest)#Square",
     "equipment": null,

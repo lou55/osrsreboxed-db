@@ -1,7 +1,7 @@
 {
     "id": 837,
     "name": "Crossbow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "This fires crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5klEQVR4Xu2W+0vCcBTFd+mHSCQJRckoyTApwSwqil6CPQiCCinoQVQUPSCKIPrzT53v+DrTbW71tUV44CDi5vfDvefezbL+vwSOI5egOj+Gmcm08h+AEyyXswqmlE9hPDuI0UxcOSIowVplpAFUzCVRGB1SYBEACc52S6gt5tqAIoChBFf7ZWwvjWNuKtMAigiGEtzVK9hdyascRQwkuDmcwcvpAg6qBZUjAkUEQwkej2YVDFumJy1SoL21CRXoxdKwqeo0L7FwZru4EBlmQ7kRFJIWBvstPF5sfMvMDUfc4BIU5BI2VGsF/MzJ0hUyVB0tu0qpmAYKIsHxVlHlh2E2vAQF0ykL2XhQIEG9Nqn2DqvDMN+fr+P2ZDXg/YHU2jY/iaoKs9McZsNQTpX8ofzG3Ibyvje07Cz5Q7lXp/n3rkE5IXcqoKujn1ntBwveH3a6B6WccMAYZP3e4/2uI3i72+oOFINOF9Kfn5/f9VbuPOaC19vNDteElg2lzZcwBpm5GU7GAhwmeL6uNarr+Eeyp48mEKvDViXi/S4HufvpsooUB2XAthEoPiY0ENvFKaR5kJuZO7aYrZ4b61PX+k9vKDlAbJkCiblbD4LOnvbXqhmR84eth/vZMISX2nPi7Z56+j19AFfrsSUz5hQ6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACD0lEQVR4Xu2W60sCQRTFd+hDJKKEUmSoaWiUkCYlRS/BLIKgQgp6EBWJJUQRRH/+rTPbddZxd32tbUQHDiKusz/PnDuuYfx9CVL2XYLKqwnKZ6ekfwGcoI3lmITJpaOUioUoPh2U9glK0HZhtgW0kIxQJj4pwfBZYW7uJ6EEXR3mqFJKdgAxzI8D3R0v0/56ioqL0y0gn2AgQY1agQ4307JHOpB+9Ygl6OE0T6+Xa3RSzsgeAcjXdJpnKxIGW8aT5lM6kKCj7XlZ6FJuxqt0rIdYf8Z24UBEmT0qsqBMxKDQuEHNm92BjN5gxPkQHAKGJSgZNqH0BNyMyeKEPEqHZaYUDZhAvKibcd15dUH2B2W2HoL66gNI0FLUoFhQAelXtEtQrZKV5w7SQZkfr3eofrH1nZ4n0rfNTUKmgu5Yy+wxlErJHcp5zBmqt5R7ktkldyj7dBSAgmr/3sBSUFxytbhKh/+zGMYK9PF0MDoo6bACQ5H5ucf5WUfQe6M6GigUHc5Mfb1+vedTufuzjqC3+p4D8MAyodh4CEOR0ZuZSKCHmwl6ua+00lUeSub0wQBCOtiqcHDc5kb2fr4tUxSDMmHaEyj8TTAQtgtTCONGdkbvsMXY6mJiTF5rnV73ZLtKAWHLJEjA3jwI3D22NTHn3vUltaB+czfrEB7BmFKLdfbEyZ5DOEn/xW7Wv/uvP6NPbiIHOEvCup4AAAAASUVORK5CYII=",
     "wiki_name": "Crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crossbow",
     "equipment": {

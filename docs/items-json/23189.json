@@ -1,7 +1,7 @@
 {
     "id": 23189,
     "name": "Guthix d'hide shield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "Guthix blessed wooden shield covered in dragon leather.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLUlEQVR4Xu3W22sTQRQG8OZBQvpgCCkWG6zE0kpbqVCKWtRCHwR98oqKipd6LyKKxVqq9VaK1lIs8V5SFENbi0YEEVEUffSvOuab9UvPTjYxm43igwOH3czOJr+cOTuzNTX/fguJd3hd/+MtJPeGd8vdoZ0mxgZ3yOjAdhNEZKaOyYvJIzIzcdgDZf+JwHAHRBRADBuTHj8kj8cOuH4Yn3HNDjfKFzIkk9f2FKBwBIRB0MPR/TJ1Y68Zi6MXCOM1+svCsHyavVQZiiCcMzsEPbtz0IA4thgI932eH5Jv2ZvyPXvbgHxh8KX81wThR71A+p8zbNBsqs8FwnmZoJBrGoBgceOzDcL4lYmErGhokOX19bKsrk7isVgBauHRyeqBmCX0aRDGrm5qku7n52VD+pysn+6XdU/OmLBRb56eyoMQvkCsCxuEaSSImN4PI7KrZ4lEmiMmor0xiW6OyqrGRhfq7fRpN2jucnAQ+gHSmdn6Y1xq22oXQTnM0u6odE4cNVNJ1Lv02eqCEJhKe5oIYYSTiwEUaosogr6+HikXg+YGaZSN0ZnBObJDFLIUToQlczViip2oCkBozqOburUvD8LntpYWAwImtiVuEESlBx0IaggQgABEH0CBMoTiRYa8QMiOzgpgrB0DwjEHIgp1hKVAg3wsis4jXwoEABE6Q2aKVP0wW1UHIdC/tr3dgOauRwwovs1Bmez8etQNBNlhDeWOKGrc/zFzMTiIKA3a9GpANr684CpoOzM6WD8EYZUuE4PmPGHFQGtaW/OFjVVZZ8aesq7Uifx2YmeoIpBdR7jW2dGRzxRQzcmkWWtskI3BtlE1EFF6VweM2QIK20RP9op03e8zAQxrBys7VmkN8oFyQF7Thj7sYXiNIIzTyGwBhqcKgesc/36mPw/CGuRjHXKD9LRpEI7oJ0xnCoE+vpQFBuEp+x0IP4Y+7nGEMXAdY6sKsqcN/RrEt0kEFk7ue7iPYwGaf3DcBcIa5Hsd8po2DcJ5KRAzhLFVAXlNmwbhmn4t0SCM0/UTEITmrodioTE6bBDepTWI4QNUbitEMnT9/EVQqVaILIz/LVj7Cdy0rr6v+WsKAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xs3W+0sUURQH8N0fQtYfWhYlSck00VDDQqSSSvCHoH7qSUVFD3tLRJFkYtlLpEwksbesFImalBFERFHUj/1VJ793+s6eOc7abjuFFw4ze+cO97Pnnrkzsdjib3EJj7Dr/7zF5X7vHrnXs8vFQPdO6e/a4YKIiZHj8nL4qIwPHQlB2T9RMNwDEQUQw2LSg4flycDBwMT4jWs2gqi8kHEZvr53HgpHQBgEPeo/ICM397mxOIaBMF6jv870yufJy3+HIgjnzA5Bz+8eciCOzQbCfV+me+T77C35MXvHgTDHuqoqF3Z207y0818ThEnDQPqfMyxocrQjAMI5QXZ20+KBZQCCxY3fFoTxKysqZEV5uSwvK5NlpaVSkkrNQ808PhUdiFlCnwZh7OqaGml9cUE2ps/LhrFOWf/0rAuLevvstA9C5AViXVgQlpEgYto/9snutiWSqE24SLanJLklKasqKwOod2NngqCpK4WD0A+Qzsy2n4NS3FCcAc1hlrYmpXnomFtKot6nz0ULQmAp7TIRwiiqzgRQqC2iCPr2ps/H5A3SKIvRmcE5skMUslRUUSQT1xKu2ImyIDt7luY9uqO39/sg/G6oq3MgYFJbSxyCqHS3B0ENAQIQgOgDKFuG7MwhzduDkKEwELKjswIYa8eBcJwDEYU6wlagQXpTtLOb5j3yC4EAIEJnyC2Rqh9mK3IQAv1rGxsdaOpGwoFKtnsol53fj7qDIDusobkjihr3f5q4VDiIKA3a/LpLNr26GChomxkdrB+CsEsTkxMIT1g20Jr6er+wsSvrzNglaxk96b9ObIZyzA5aBmTrCNeam5r8TAFVW13t9hoLshi8NiIDEaXf6oAxW0DhNdE2e1VaHnS4AIa1g50du7QGEWVnD2keKGzZ0Id3GD4jCOMyMluA4alC4DrHfxjv9EHYg/LYh4IgvWwahCP6CdOZQqCPH2UFg/CU/QmEydDHdxxhDFzH2EhBdtnQr0H8mkRg4+R7D/dxLEDTD08EQNiD8t6HwpZNg3C+EIgZwthIQGHLpkG4pj9LNAjjdP0UCEKb/8EeFhqjw4LwLa1BjDxAsRi39YXCAnXo+okElGuzyFywjMzY/9QsMizsPYu6/QImx/lKiNKZwQAAAABJRU5ErkJggg==",
     "wiki_name": "Guthix d'hide shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guthix_d'hide_shield",
     "equipment": null,

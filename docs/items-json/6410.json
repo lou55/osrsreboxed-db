@@ -1,7 +1,7 @@
 {
     "id": 6410,
     "name": "Oak blackjack(d)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-15",
     "duplicate": false,
     "examine": "A defensive blackjack.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYklEQVR4Xu3TTUsCURQGYC8xXFxKC0nJMGnCDMIQIyZDUBn8oNKpwL7APhZBEkGLiBYt2gf9gv7pG+cMt7kNru8VmhcOs5yH856bSiVJkmQuIhCN9QgMu10E/T6mN9c2YeGPL44D7NXrWC+VeDZcF5vlsmmUwOdDGm9XEk3Pw1qxiJV8nr+Eoq9BkMDXYxrvE8nbWS0UcH/kcG2LmYzpygS+X9P4uJU4Gw0x6HSwlM1iGjiMMghRCauizfTaLezWagx6OpW2UII3Q/WoQybQ81jaQIWYQ99Hq9HAVqXC97Ocy+HlXDKKQAZR4hezU63ySyKIPmpLRlGzRoH06gyiZkUwRo1+TxHKOEwwRKH0Lf2FGU24CYLFq7OIogiG6Ch9rKHUtuIgiyhKVGF8rKLiL5G2dDew9gJVohrpwAl06TsYt61WSBGY9ELISdPBtrtgG0QRGO07OPDmAqNi9X6S/NP8APaMJUvKu621AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABh0lEQVR4Xu3WTUtCQRQGYIe4XFxKC0nJNMkwgzLECDMEFfGDSq3AvkCrRZBE0CKiRYv2Qb+gf/rGOcN4x1stnXFxXzhcuCg+vGcGDIWCBAkyFxHwxnoEus0m+u02xjcjmzD5w5cnfewXi1hPp3k2MhlsZrOmUQKfD2G8XbuolEpYS6WwEo/zk1D0pM9sJ5MmUAJfj2G8D11uZzWRwP2xw2tbjEQmKyOMAZDA92sYH7cuzntddOp1LEWjGPcdRukQAxiKXBU106pVsVcoMOjpzJ1C+b81wwhuhtajDjKBngeuDZTEHDUaqJbL2Mrl+Pwsx2J4uXAZRSCDKDHB7ObzfJMIoo9qySjqr1EgfXXGUPot8m6TYIwa/Tx5qBnDfkcwRKH0lqZhRiObIJh/ddZQaoUE0VH6GEfJeG35QdZQqi21Qv9YQcnItvSbSC3ddazdQK8t1RgdcAJdNRwMapZWSFGwYUtCTisOdjIL/M7QP4T/ItA7cHBY8jCWQRS5wjnByMwVJsgs8gMg+kTVe9SnywAAAABJRU5ErkJggg==",
     "wiki_name": "Oak blackjack(d)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_blackjack(d)",
     "equipment": {

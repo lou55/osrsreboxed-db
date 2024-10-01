@@ -1,7 +1,7 @@
 {
     "id": 13978,
     "name": "Logs",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A number of wooden logs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXUlEQVR4Xu2WXWsTYRCFs1elElKkorRipQ0WpGBjME2LViqlqBQUhUJBQRGlShFERPBeBMELQQRB/K1jn11OMpnsplsSTS8ycG7eJe88OfOxW6lMYhKnLhLr11giS766OGNry7O2uXLedhpzdq85Nw6oxJr1s7Zx9ZxtXbtgjzcupXrYvjhKoGh7sXZb8/Zka9H2b19OtXdrIRVQIwJKUrv5t1hPCXBA5eAcCJICAIyXBxsBUGKPmlXba1Vtv12zV3fr9mJnyZ5tL/UkEwjneeKZgGrTlWGgEnu+WbPfH9upAIpQHoTzPPFMQLg8FJBg0Ov7VzpASiQQweZJQJR+CBiiF4iyCSqK8yLhIlNGv40U6OnNmh3uLvclzJOcVP/Q+N1ynRiqO8YeyEMVgQmCRmfUAaFUwLCb1uvT1liYOglUktorRRjvQOwTjbeWoAQUZwD65yXcOto5K2fSxPoxSZg0pNGX6Am9EkgaE8eVoOYXvBwcAJXYg0bVfn1Ys+9vb9iXg0bnQmC4UIm9joOQopulgA7uzKTlAejrm+udy1mQwPplqNeC39IRIq4E32elgCjNn0/r9uNdL5BKxtaOCYsUQWLja/oGAtE/OPTzfcu+HTZTINzJa24lGwTiYTSdnAmIcg8EwgF6CCDKpqYuA1QE4mEQZQWkxObOXqYkpGQAfX65WuhQ3vhHGO+KB2En8dVwDBCRTVrnLX/kEKugLJB3RRCaqCx5VKmIP+rf2D5xLJ/6I94RswwRvZ8hOORd0qdIP8Q/jS6Ub+r/DBEjgwIER8YEEWNsbkzi9Mdff7tqnQeWNF0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfklEQVR4Xu2W30sUcRTF9/sUxrISRmGS6S4JIeS4uK5iyoaIhVAUCEKBEskqIohI4LsIgg+CCEL0t972fKcze+fuzDi5SyvkhfPynZ25nz33x0yhcB/3cefCSaf6EmHyqfFBmZ0YksXJJ7ISDMu76nA/oJxUK49k/tVjabx+Kp/nn3t9rI9EQMHYWLdQ1vZ0rdWeyZfGuGwsvfBafzPqBageATlvN/4trEcJ4ADLgXNAICkAAKOlwXoA5ORTtSjrtaJs1EuyvVqRbytl2Vwux5IRBOdJwjUClQYKf9y8VTjZWizJzx91LwBZKA2C8yThGoHgchcuuQgG2nn/MgJiIoIQNkkEQukJ0xMglI1QVjhPE1zElKHfunAHEQf6ulCSvbWJjoRJopPsHzQ+y3WLHmqPsQbSUGlghECjY9QBglIBBrtprjIgweiDv4Fy3l7KwmgHbJ9wvLkEKUDhDID6eg63Wjtn8qFPzJuRBJMGcfQp9ARfCUhqE9uVwOYnPB3MgHLyISjK9dGsXOzPyGkziB4IGDyQibVugqCsmxoopdGdNN8O+vIA6Gx3Ono4FiRg9TLka0FvaQthV4Lus1xAKM2v4zm5PIgDsWTY2jZhmiyIbXxOXyYQ+gcOXR3W5Hyv6oHgTlJzM1kWiIbhdOKMQCh3JhAcQA8BCGVjU+cBSgPRMBDKCpAcmzt8mSIhSgagk+9TqQ4ljb+F0a5oEOwkfDVkuMMIJy16y7ccwirIC6RdIQQnKhzvuDLc0dF5owaCdGJbPvaHfQaTW9nsiRG/If4ZAoe0S/wUsRA2ce7k+aINpZv6Jgj7lB5HCAUQONInCBvJbthf/dO4MyD/ffwGUc6psQnpoVUAAAAASUVORK5CYII=",
     "wiki_name": "Logs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Logs",
     "equipment": null,

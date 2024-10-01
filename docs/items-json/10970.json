@@ -1,7 +1,7 @@
 {
     "id": 10970,
     "name": "Loach",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-20",
     "duplicate": false,
     "examine": "Steamed cave pond loach.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4Xu2W70sUYRDHfV5JEIggSC9CKAgsSQ3LDqw4srQM00pTRBHTzA5TNLOsjDJOLDkspR+IRhFSYRTR/zfymW3O9TzPWm+PggaGe3b3uf1+Zp6Z59m8vH/fnGz0nFqquJOT0Qqpqi6V3oFGqa2ryiWUk5HxNhkcbVHxvSXFcvbcMbnUekpm52Nyb7JT+mNNuQJy8nSmT57N3VRxxgAMj7XqdXz2uvp04kYGoM3Z3XpuRnOysDgii+/H5cPnSfn0LS6vlkblyfS1JAzjzEJO4QkCv/OgQ25PtGvGN8/d1pzCrKxOyeqP5/Ll+4wCkq1H8R59MUtVvKdQiooKpKBwt3oqIBAPp7o1ADKcHvy3bePLDWTgVrN0dNdJY3ONRGuPSOmhEimv3C/VkYNSWXVAxy1tUYXB+d/c66GdgKQzJ7Hhy9Lde17F6i8c104DiCLnuuFiRH+5Branv0EDYGlpitQAdwDopKunXjvLxJuunJCrHaelvfOMZgtnjn9MVxIE8wAvO7xPIjVl+n/u8TwAlFNxogcIALJE/RA1giwh1wjgwOA2j7qjfqglK3A8EAzLQ8SkH2EgzOkg6xrG3GMeUMw1QMRpjqWPd2X+7bAkFgaDwRAhGfBDpMLcf9ylTvEy15bJIC2DWagdbw9JBTFHkMjpIJbDus9geGagAQH85h0XvAwoc6sZe2ZA1Ab3/DDcZ+/JAgzmVATRoxXlSRgywBhRoqedccZ2PwQYzNsEefmu/Hz1ob5ezYDVDcuEqM3zw2Q+2wKZS0ZuQMsvX+i1HQPpWpn/ABPKrmzRW6si4ndgeA4kSwkMkMzNMgzmkpFywnOoGggnvR2yQLNUbA9kKiQYzKkwMAZkWXrzbkyWVyZ0DATZ4RhgRyaboQEh7AfCv/5M/BL03A5NYNihQ4LBXBIGJzv8bhT06sy2h5wAWWa27hpvadc/vEIz7/PVamf9UzWdeV+FWz/PmrlkIW8vtt3zrNifAOXMXNBvlzDNhd1BQeyvgvlvamvwAli2+zSdAgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4XtWW/0sVQRDA3Z8kCEQQpB9CKQgsyWdYJlghWVqGaaUpoohpZmKKZpaVUYZiiVhKXxCNIqTCKKL/b+Qzx1z3zpcPj3u+Ghhu73Zv5zOzM7ubk/P/i5Nk3VUJG3dyuiYhFZUl0jvQKLV1FbsJ5WR0ok2GxlrU+P6iQjl/4YRcaT0j80uD8mCqU/oHmxQoUVycaSgnz+f65MXibTVOG4CR8VZ9n5m/qTq7cGsboK3RjRhNJ8sro7LycUI+fZ2SLz9m5M3qmDybveHD0N7ekFN4nEDvPeqQu5PtGvGtY9OKU5j1jWnZ+PVSvv2cU0Ci9WSmRydmqQr35UtBQZ7k5e9VDQMC8Xi6Wx0gwvadaKaO6LaSPLmBDNxplo7uOmlsrpaa2mNScqRIysoPSmXVYSmvOKTtlrYahUH5b/HtcBJIBBhP/vzsZHDkqnT3XlRj9ZdOaqUBRJLz3nC5Sp+8A9vT36AOsLQURdhBTyOJk66eeq0sM9507ZRc7zgr7Z3nNFooY4JtqhInGAd46dEDUlVdqv/zjf4IUE6N4z1AABAl8gevMcgS8o4BFBjUxpF35A+5ZAmORsglp8uDx4Qfw0CYUkFWNbT5xjigGGuAGKc4Vj/fl6X3I7KwPBQNBg+JQBAiDPPwaZcqyctYWyaDtAiGc2eHMIi3h4RBTDGI51QQy2HVZzD0GWgQIGKVeccFkwFlajljfQZEbvAtCMN39p6I0QiLUyMYPZ4o82GIAG2M4j3ljNK27xmAQbxNkMn35OaqDvf1agQsb1gmjNq4IEzwbIsBBnG+5wa09vqVvtsxkKqU+QeY4K4cnjmiON97K1WMBBUY+oFkKYEBkrExRwdxvqec8ByqBsJJb4cs0CwV2wORyhAM4tQwMAZkUXr3YVzW1ie1DQTR4RhgRyaaMS+ViVPDQSD0++8FNWhqhyYw7NAZig7ifBiU6PBMNujlmW0PQaDwbDGIB2SRCd9lguPsapu6Pzbxrq+WO3ZVTW3MuxX+vT82cX4ip/c+XX8sshUoPCIo6fpjEpd0dwn3ZkmcX0HhnizKruTIzuSfgsmGbAJgOKSxsx3NMAAAAABJRU5ErkJggg==",
     "wiki_name": "Loach",
     "wiki_url": "https://oldschool.runescape.wiki/w/Loach",
     "equipment": null,

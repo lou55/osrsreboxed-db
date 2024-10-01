@@ -1,7 +1,7 @@
 {
     "id": 28159,
     "name": "Secateurs blade",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": false,
     "examine": "An ingredient for the secateurs attachment.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA6UlEQVR4Xu3TvwrCMBAG8N5apC7FIkIHH8A3EEcHR0V0EydxchN8+ZMznPmvDuaikA9uaQPfjwupqpKSEkB7sgbwetpZkxn1B6DDZvlbKAIJokIl4S0JoAC3q0XkNYW3lBgFOKjrB+pyXDtFcVBy1Hw2cVBclgWlQDyEMmEhkHk+AUqDuPB23kdRJiYRiALedRCKYYzhbwIowFHbRlE8075/TmIQxUdRGW+Hr49HYEsUG+WD9Llh00iAKBrFZT5InRPaEkWh3pfZ1+j+/XIAx10XQCUvfhUfFd+WWOxXlRljJvt1lZSUfJw7S5hiA/MGt0cAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABBklEQVR4Xu3UsQrCMBAG4N5apC7FIkIpPoD4AuLo4KiIbuIkTm6CLx85y9nkkqAgl2TID7eU0vv4Q1oUOTk5oMyJGlCP69GYyCg3aNl1sVA26LzfpNUSggKiXEvcLQVAgTps157b5G5JGAVqVJZv1P2yY4v8IHHUajFjKFoWBdWDaBClw1wg/X0B1ACihc/byYvSMQQS+EeBdRyIIhhh6JkLxb/4Z0BN6tqLopm37Wc4SKQljsJl1A4dH02AljAmioOwhb4JUOOqskACLWEGFC3TQfp7gVrC9Ci+zG7APMahQZGAmjaNheItEEIYQ7FRwkfzS8xbFeBovoduVhIYPUlhcnJSygukyoAegna7YwAAAABJRU5ErkJggg==",
     "wiki_name": "Secateurs blade",
     "wiki_url": "https://oldschool.runescape.wiki/w/Secateurs_blade",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 7229,
     "name": "Cooked chompy",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "Roasted chompy bird.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xu3W/UsUQRzHce+fCCooSirKUBM0hCzhqJDCrrQrUzTtyofs0ShEih5EekIQe6BCwRATKSOIiqKov2ziPctnmZ1b5fbuin5o4Itzs7N9X/ud2WkrKv79ljLxEXf9j7eUeTTWZh6MHrUxcSNjxq8dsSHE/FSvmZvsMbOPu2NQ/kOUDA9AQgFS+JiZh13m+cSpSGJ+c82PKCoRMmUmb7bnofgLRCHQ0/GTZup21s7lbxyI+S76+9KY+bowUhxKIPqqjkAv73dakOauBOK+b4uj5ufyHfNr+Z4FJcLwj+qpBSJpHGj67okQRD8OtDDdFwHRLxCUiiwDibS5+e2DSA5Cy7sSaOnZ2fKBVCXG4kDMc/cHVeMafYHevTgXgohEIO0LH0RyH8Q87unKtplLAzmT3tcUwnLdnSHq/av+KOjN9dJBjAMSSpXknvO50+Z4pjXEDPb1mL6ujhD0YWawvCACgAtingAtuzebxqp1tt9Uvd6MDA+EIOZ+mhsOQT/e3ioUQ4uCXBRPKpAgHekdJrNni2mu3WB/02/bu9UGSHCMf359sVgQLUjGG+ODdI1qgCHxgfpN4Xi2eVveOBX6Mn+lWFBwBlEhH8S1mso1NpGSHm6stFVo2L7WpOs2mu6DO224ICrqghIcisErHwfiGolZEqogDAjGWTJ+5w7VhCBVjSgbSCiude6vsk9NMmAABKTP+IVjdZEKgaWq3F8yyK0S19ikJGK5wBEk722pDvtDmV2mv7XW/nb3kjY3p3SBGFrwhvkgHwNAiRWMsVz0qRJ9gnHCrVBRIKFcDE/tJgWl0N5RZVhG7guSR/dQySD2B4l4UjAALrfXW5SCcVVEMPYX93NKu6AEqADkLhtjvElaEjAArmYbLEowVUowgnv57Pg4OxSCOIMSnENRkItylwoEoDiUlojg/CkZxFvmg7SxCwl9enA6lxXkv22Mk4QEJNTXJMHBqf/3uE9zAS0+ORMBcQYlPofils0F0V8NpAoxtyyguGVzQVxzP0tcEPP0VVAGEC1/X8SFi3HDB/Et7YIUCUCFtnykwt0/fxG0WstH5sf/Vlr7DSAc7f+TPU8gAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4Xs3WC0tUQRjG8d0vEVRQllSUoSZoCFmCVEhhW9qWKZq25SW7GoVI0UWkG4LYhQoFQ0ykjCAqiqI+2cR/luc4Zxxl193CgRdn58zh/Z135ownkVj7LWnCEbr+z1vSPBluNo+GjtsYvZUyIzeO2RBiZrzLTI91mqmnHQGU/xAFw7MgoQApfMzk43bzcvRMLDG/ueZHHJUXMmnGbrcsQfEXiEKg5yOnzfjdtJ3L3xCI+S765/yw+T47uDqUQPRVHYFeP2yzIM1dDsR9P+aGzO+Fe+bPwgMLIkdlSYkNP7vXsmXXUwtE0hBo4v6pCEQ/BJqd6I6B6AvkZ/daMrYMJNLm5rcPIjkILe9yoPkX54sHUpUYC4GY5+4PqsY1+gJ9eHUhAhF5gbQvfBDJfRDzuKc93Wyu9GZMw4G6CJbpaItQH9/0xEHvbhYOYhyQUKok91zMnDUnU00Rpq+703S3t0agT5N9xQURAFwQ8wRo3LvV1JZtsP268o1mcKA3AjH3y/RABPr1/k6EyRvkonhSgQRpbdhlUvu2mfrKTfY3/eb9222ABMf417eXgyA/+zItm4w3xgfpGtUAQ+JD1Vui8XT9jiXjVOjbzLXVgrJnEBXyQVyrKF1nEynp0dpSW4WanetNQ9Vm03F4tw0XREVdkHso+tm9ln3lQyCukZgloQrCgGCcJeN35khFBFLViKKBhOJa28Ey+9QkAwZAQPqMXzpRFasQWKrK/QWD3CpxjU1KIpYLHEHyrsbyqN+f2mN6mirtb3cvaXNzSguTE4g3zAf5GABKrGCM5aJPlegTjBNuhXKsDm0RJJSL4andpKAU2juqDMvIfdxPuHuoYBD7g0Q8KRgAV1uqLUrBuCoiGPuL+zmlXZBQfvZAy4LcZWOMN0lLAgbA9XSNRQmmSglGcC+fHZ+n+iMQZ1Ae51Ac5KLcpQIBKITSEhGcPwWDeMt8kDZ2LqFPD07nooL8t41xkpCAhPqaJDg49X+P+zQX0NyzczEQZ1De51Bo2VwQ/ZVAqhBziwIKLZsL4pr7WeKCmKevgiKAaEv3RShcjBs+iG9pF6TIA5RI6FhfKXygG+7+KQoo1+Yjc8EqFuf+p+YjQ+Hfs6bbX2ogOJqCnl8kAAAAAElFTkSuQmCC",
     "wiki_name": "Cooked chompy (roasted)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooked_chompy_(roasted)",
     "equipment": null,

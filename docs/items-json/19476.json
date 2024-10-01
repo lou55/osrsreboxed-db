@@ -1,7 +1,7 @@
 {
     "id": 19476,
     "name": "Achievement diary cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-05-06",
     "duplicate": false,
     "examine": "The cape worn by experienced adventurers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xt3W60tTcRgHcM8LkXrhq/4DiV74IgQxQqMgTMlQ15poNjXvt6lLxlJzeWvL+2Xz1tjUNeZtzFu6ZMO8lMPGkvyHvvk8NtnsgobnDHrgx34czs7vw/N7fpeoKNFCwNknlxj08YsMICApJemC/zl3CIi/GY+o2OhzDiAgU5GJG3Fx53z/n+L4w9difg7wp2ydPC+tL/3LO5caxwNcj0XCrQQk3k48gxMgfyZHk75JCkhoCGgxtCD5XjIUBQrUamtRranmfl1zHbpGuqQHGaeNKFYVIy0rDUU1zxlF2SGUxBgKAc51J/RGPSobKxlCGZI9fcxZkxgkIHAUgNd3xKhByyAy5BmcIcJl52ZLD/J/9+Pj3iH/Lm0ucd10j3dzXd19mCM96ODwABs7Afi++eD97MWad41rilZXREAEWd3yY8+/h41tN1xuF09dxEBfAvtY9n7FzsEOZ2dhfYGnTNuljQyIMuPc9GFrf4tryL5k5xUXMRBlZt69D8+uB9GqK5iZ0cLllHE/IqBt3zYcH3ZPMdGqeG6EIlDqo1QpUQJP1fvVnTBMjOEqN0LJCuukBQ3Z1sNAoRjKWrayRnrQlOsTD06I0JZfmi8lSICmZwomhxvmRQ8fHaEo6ivLlUiVKaUD6YzzmJj3cKP9xzJnQb+5H7q+16h/1YDCqkKkPJBBqdKJjRLQ8GYSbaOLGJvd5B16dm0O5llzGIiuIgTKrdCKD3qhN6Nz3MmgFc8KbC4bTDYTet/18qVM06FBubocd9KfQFHSKD6o8a0FevMSg6h+rAtWPlQJRDs1nfZ0DSGQBIV9UtDdlmUGOVYcmHBMYtg6zOcYZahtoA1qnZo3x4y8CtR3jouJEqDtm+EVRufXtHP6FxDVUfDET1cUo7p1SFzQywE7g2h10XSN2cf42mEYNaBjqCMMlCYvQpm2W1xQ85CDQTRdvwO19rSenvj3s/JRpO7kuhMJJfBmOGLf4OsG7T+0wmjJU0FT/QRBVEd0rc3MrxILEwyBM9RrXeXlTxmjDKjaTahsGUCJxoCC+nbkVTUjp0wjNiYYNMh5238UPwBJu98xHWq0YgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4XsWXWU9TURSFuQ+E6INP/gASYnzgQUkIxoDRxCBEDFCxBMQCMk+lVNJUQJDJ1jIPZbJpgdqUqSmTUEkbZFAaJJXIH1qyN7ahFU1JvLc7OenJzT33fFl77bNPo6JECwGhT/5j0Mcvs4GApJSkS64JOwTE34pH1LXoMDcQkCnPxM24OH7/dmxsGGsuHacg12N+A/1NrbPnZaqywDsEIxIQxekmN64h4U4CEu8mhsAJyHmRgyZdUxCIiDD+ENCib0Hyg2TIC+Wo09ahRlPD8/rmenSPdIuZpotCwOjMKEqUJUjLSkNx7UuGInUISoI0hYYAx4YDulEdqhqrGIQUkj1/yqpJro7vxAeP94ShBs2DyMjJYIUILjsvW3qgo59H+Lx/zL/LW8vsG8OEgX11/3Gu9ECHx4fY3PXB+8MLz1cP1j3r7CmqrogAEcja9hH2j/axueOC0+Xk1EUM6JvvACue79g93GV1FjcWOWXabm1kgEgZx5YX2wfb7CHbso0rLmJApMyC6wDuPTeilVcwO6uF0yHjeUSAdrw7sH/aC8BEK+N5EBQBpT5JZajQlSKFwKn6uLYbBBOjv8qDoGRF9VKqJGDIuhEEdB6GVMtW1EoPNO38wpsTxPlRUFYgJZAATc80jHYXTEtubh3noWiuqFAgVaaQDqhtdAGTC24edP6Y583oN/Wjre8tVG8aUFRdhJRHMiiUbWIbW0DDuym0jy1hfG6LT+i59XmY5kxBQHQVIaC8Sq3YKgl4pTOha8LBQKvuVVidVhitRvR+6OVLmaZTgwp1Be6lP4O8tFF8oMb3ZuhMywxE/rEsWripEhCd1NTt6RpCQBIY+8zQBvMKA9lX7Zi0T2HYMsx9jBRqH2iHuk3Nh2NGfiVUXRNi+kiAtm+WK4z614xj5g8g8pG/46fLS1DTOiSmSgJeD9gYiKqL0jVuG+drh35Mj86hziCgtJxilGsN4gI1D9kZiNJ1EVBrT2ug4z/MKkCxuot9J1LaBD4MR2ybfN2g84cqjEqeDE3+8QORj+ham1lQHVBINJVIoV7LGpc/KUYKKDuMqGoZQKlGj0JVB/Krm5FbrhEbxh/B/1T/NSSAOQv/RuGM0LXhxi83WRzlrDOoiwAAAABJRU5ErkJggg==",
     "wiki_name": "Achievement diary cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Achievement_diary_cape#Untrimmed",
     "equipment": {

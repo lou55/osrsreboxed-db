@@ -1,7 +1,7 @@
 {
     "id": 21080,
     "name": "Arcane prayer scroll",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-26",
     "duplicate": true,
     "examine": "Scrawled words that can invoke the power of the gods.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmElEQVR4Xu2XXWvUQBSGd/HeK6/8UyqKiopiS6tWEcRSrdVStaxWy2JZP6jSQqXUUrQiiIqi6C8beRLecHIymybZKF544CUfM5PzzDlnZmc7nX/fuiGuWPsft254PHc0LM0eSdS7cTgsTh9KJIjNlfNho38urC+fjUD5SYwMngIJCiDJw6w9OhNe9E7lHPNMm1ceqhZkN/TvHCtAcQVEEtCzxZNhZeF40pdrDIj+Fvr7zlz4unW9GZSAuFd0BPTy4ekESH2HATHu2/Zs+Ll7N/zavZ8A1YLho5q1gHAaAxrcO5EBcR8D2hqM5YC4rwjUzaUBRypunj0QzoFQem1akIB2nk+0B6Qo8c4DeYClmxOhf/ticn0wM55BvVudzIBQLSDVhQfyqwkt35osCBhJQO9fXcgDvZlpDmQBnsxPJRGIObeiz2Dhcgb0Ye1SO0A883FAygC8GNObHkvGk95PG1cyoB9v56vCYHkgC1UViH42QgB9fn21KRCWpofVIyDJ14t0oNMpvNMkGPdl81pToHQPIkIA8awUeIfS/giMpJVmgWpsiumSt0B1IqQoHdyXXpmI6qg1IEWJmXqIKrK1NDKQT5t3hsrSJSAkIHbpijBYusI8kF9pHmgvKIlvEKFGQL6OeJ9+aHgdlYkItwIkKAF5R2VSuvTbJqAaUClQLG0CiqUtBsDOLimy1BB7UI19KA9k02ZTtlekVMTSx/WpbNnXBmKVxYBos0ufeyulROLngqMKB7NWgHzaeE+7UgaENj1JxU9fAW0/Hc8BsQfV3odiaZMTC4A4K3FE0Q8x4zhu0JfotAIUS5uAcEKb/VdigeinQ30LQFg+AsNkYaw8EGdpCyTVAKpqRUjJ1s9fBCqzImRR/200+w3YIzWYUPcrmwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xs2XbUsUURTHZ+l9r3rVKz9C36SkKKkoUrSyCCKxzBIt2bJkSbYHShQMMRE1gqgoivpkN34z/MczZ++uM+sUHvgzD/fePb97zr1n7ibJ4bdGiCvW/s+tEZ5Pnw4LU4OpmndPhfmJk6kEsb50Jay1LofVxUsRKD+JA4NnQIICSPIwK88uhjfN8wXHPNPmVYSqBNkIrYdnOqC4AiIJ6NX8UFiaPZv25RoDor+F/rk1Hb5v3OkPSkDcKzoCevf0Qgqkvt2AGPdjcyr83p0Lf3Yfp0D4ODEwkMp7d5aFXbMWEE5jQO1H53Ig7mNAG+3hAhD3AvLenTUKacCRFjfPHgjnQCi9Ni1IQFuvR+sDUpR454E8wMK90dB6cC29PpkcyaF23o7lQKgSkNaFB/K7CS3eH+sQMJKAPi5fLQJ9mOwfyAK8mBlPIxBzbkWf9uyNHOjTyvV6gHjmxwHpBeDFmObEcDqe9H5Zu5kD/dqeyWEqA1moskD0sxEC6Ov7W1Eg772LZelh9whI8utFOpYkHe80CcZ9W7/dL1BWg4gQQDwrBd6hdDQCI2mnWSBbFL13Z9mWt0BVIqQoHT+SXZmI1lFtQIoSM/UQZWTX0oGBfNq8M9QrXQJCAqJKC6YUEDvMA/md5oH2g5L4DSJUMjrYHpBfR7ynHXlHZUSEawESlIC8o15SuvRtE5CgvPeIZUCxtAkolrYYAJVdUmRZQ9SgCnWoCGTTZlO2X6S0iKXPq+P5tq8MxC6LAdFmtz73VkqJxOeCowoHs1qAfNp4T7tSBoSKnqTFT18Bbb4cKQBRgyrXoVja5MQCIM5KHFH0IWYcxw36Ep1agGJpExBOaLP/SiwQ/XSorwEIK0agmyyMlQfiLG2BpApASaKy3kse0Mqun1qAypqHLAMr7fX9T+YhY/JjDrX9BSI2gCS1GQc/AAAAAElFTkSuQmCC",
     "wiki_name": "Arcane prayer scroll",
     "wiki_url": "https://oldschool.runescape.wiki/w/Arcane_prayer_scroll",
     "equipment": null,

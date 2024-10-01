@@ -1,7 +1,7 @@
 {
     "id": 16918,
     "name": "Ghostspeak amulet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "It lets me talk to ghosts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xu2V/UtTYRTH9xAxroyJLIohGBkVpoSFw0RUBi5tSRKlrNIYmg4dpm2s4RAjNcOsNDVTYsiQhoVp1krCgohgf9a3nfNwnS215t1dv/iFw93Lfc7zOS/PeQyGfWVcAv9uukvAUZyzq9mLFFSdVHDKelBvMAlDG5LR54tncnC51IQr50xospngKjfzk77T7/S/TmBic4PzxxV+/lkeaXcu5MFjz0V7TS5aKs0MqQOY4Khtx4wMtLtTuWnAaYGvPo8BvbUS8newPUtwlKUFxjSdSbD+BgvDuavMXGpr7oE0fGwrgZJ8IwoPpwOzVRKMgqLsmhXDHv2wBDdpgUVrVMmSa/NjkM2sMSqD6ofKrs1PYjHVXaMTA62nhs4IkHYnyexoL31i8d6bmSRhqHfIj/bSJxb/fe7spGQjZwiGJCNM35E8nRQMzS6LSXOpVAkeaOk5o3fF5gWbQRiSvJuS80O17ST/o3fJaJhmYCqnSt5JdLMP3m1F0OtCX8fVFDhp6tWiTvUMnKidJDA94sWTwU62QFcz3M11qCg7DUVJZoIgyJJZ0QlmOTyMyFQQ0RchTA51Y6D3JvyeJjTWVSDfeoh7hCB0BiEJfI9F8GFxHOtvZxB7/QyjwTYMB9x4FGrnLNkrS7c0rW4gqgTiH6cQm+vGz5XHnKlQz3Xc917C81AzHvhv4fYNJ+pqyrIDQ6XxuWuxEbnHYOGnfrRec2CktxHvpjtRfrYItpKjKCo8kh2g+NoE4l+X8W0tzOUaG+jgErW56rls1Fd04nIULVdLWhL4sR7Fl+VZrC6M4s38IEPMj/XxqQu0O1BtO5EtGJLAxsoc9w4BLb0cwMxoDx99KhuVM4vZIQl8ik7i1bgP7yNj+Lw0hYWJADfzUE8DnNXF2YQhCazNdiH8sAWrMx5sLPZztihDWTrm20ndONX29f/0C3/Q8ycsqhSXAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xu2V/0tTYRTG9xIhV8ZEFoUIZkaFKbHCYSIqgkszSaIcVhpDU9GxNGWJQ4zUDLPS1EyJIUMSC9MsS8KCiMA/68lzLveL12Wbd3f+0gOHu7v3vuf9vOec97w2238lXAKxm+US8OSl7mnluRJKTks4k3HYajAZhhYko9+Xz6XiqsuOaxfsqHPbUV/o4Ce90/80bhGYUBe4eFLi5+70yHbvUjraytPQXJaGhmIHQ1oAJnjX7hMpDETvruzsqKYsGqx2orsqnQH9FTLkTrB9S/AuXVkpqjNt8ejSg/XVOBnOV+LgVGekHVJ9GOfFKIH8zBTkHI0NRi89GG2KouuQbGaABBdpllPb1f4caSk358cmF7PJXdkUP5R2c362J1PeTe7KRvOpoBMCZN6JFh196o1fxSixo5iNo/+WDEO1Q37Mp357sr7vGEf3llbIRpj4famSdxg/kHw6aTPUu5x2s6dUleCGFh+Q3HeUCzaBMCT5blL6h2bRJI/Rt2TUTPVdOQEwJPlOopt94H4jev316Gq5boCTTblalK5uvpn+VQJTw348G2hlC7Z74fNWoqjgLCRJiwRBkClRsQxmOTyEyGQvFl+FMDHYgf7O2+hpq0NtZREyM45wjRBENJCEw/xcj+DTwhg23k9j/e0LjPQ2YSjow5NQM0epvNilFq2FIIoEtj5PYn22A79XnnKkQoGbeOi/gpchLx713MHdW9WoLCuwKj16CU5Nt68Cm5EHDBZ+3oPGGx4Md9biw1QrCs/nwp1/HLk5x1Qgo5cEajs6a+PY+r6MH2thTtdofwunqKm+itNGdUUnLlUyc7XEJYFfG4v4tjyD1fkRvJsbYIi50S4+dcFmD0rdp5KRLkUCmyuzXDsEtPS6H9MjAT76lDZKZxKjQxL4sjiBN2Pd+BgZxdelScyPB7mYBwM1qC7NS2Z0SAJrM+0IP27A6nQbNhf6OFoUIeMxN860ULuvCD1IkmFk6Rc/UJCD0h8ynVSy3pmyAAAAAABJRU5ErkJggg==",
     "wiki_name": "Ghostspeak amulet (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ghostspeak_amulet#Normal",
     "equipment": null,

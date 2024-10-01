@@ -1,7 +1,7 @@
 {
     "id": 3162,
     "name": "Kree'arra",
-    "last_updated": "2024-06-01",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
@@ -22,7 +22,7 @@
     "immune_venom": true,
     "attributes": [],
     "category": [
-        "aviansies",
+        "aviansie",
         "bosses"
     ],
     "slayer_monster": true,

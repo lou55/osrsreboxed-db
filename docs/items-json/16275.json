@@ -1,7 +1,7 @@
 {
     "id": 16275,
     "name": "Leather",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-23",
     "duplicate": true,
     "examine": "It's a piece of leather.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA+ElEQVR4Xu3TQQ6DIBCFYY0n6aJduDFx0/ufzGYkqB0GmMcAbvyTtzFGvpA4DE9NGrdwt+QOnz9DsBtw47bM0zEOknFNch9fl2mfFtXo1k6IBNKgaPReBVSIkVD88NQMqDimDgqGtQPR3i/4tjAQigIxVB5kQYEgHUYCaVEASI+xoJSgcfuu0z5+qGYICgaVoiRcIYb6B1lQqdsygVqgzKCaKFoVkBblD5WegRjK/fIcEhvH8MOvsEIQlb4laTmUhxWCKBx1hXHMdYUgCkflbsmA8WGoDiBKj0qBKmF89LE8rCPI52AxXAzUCMMLcRKoE4Z34sI91e8H8fAOPXFInIMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABGklEQVR4Xu3XPQ6DMAwFYCIuQod2YKFi6f1PlspEKemLE+z8gCr1SW9ByP5kdSjD8E+XGBv3krjl82OIegHO2GUeP0UQj+sSN3xdxq1SVKer7RAOJEFR6b0GqBjDoXB5rhWoNKYNSg3rB6Leb+pr6UBaFM1/TtNW3JzIMagG5UG4NREZhgNJUQqQHFODEoKMfa3jVlwqqQalBpWiOFwKowbVoHLXEl6HEoN6oKpBLVHUJiApyi/lnoUYMYgGICRVxODyEIYg3JxJ/kpcj1AeVgii6FEhDDFhC0EUPeroSsrfDxcdSgrCLcrIUTlQg+uEcf/wEICVgHBycdyw/QsCMTlQ4+t8Zx8c4zhQVwyGw2FPw2D8Yq747s/lDSDIR5Ub+iYMAAAAAElFTkSuQmCC",
     "wiki_name": "Leather",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leather",
     "equipment": null,

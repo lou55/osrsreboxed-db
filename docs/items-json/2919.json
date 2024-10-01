@@ -1,7 +1,7 @@
 {
     "id": 2919,
     "name": "Yellow robe bottoms",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": true,
     "examine": "Made by werewolves for werewolves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu3Wz2sTQRQH8ARZls3Fi/+B4MGLKEIPgnhQRBCtVqq1WqnaSqQqwWCtrVprjNaWllqrVEmxEtpSNVLwR7Eo+pc9+c7wdmdnX+JushUPDjx2sztJPvNm5u1mMv9+y5Ic0v1Nb1maGO6g8aETKsqD7VQqHlfBiOpMLy1OXaCFyR4BZQ+iZbgGMQogDhtTeXqOXpbPhv4Yn3HPjjAqETJLU3dPRVA4AsLBoLnSGZoZ7VR9cZRA6G+iv68O07elm82hGIRzzg6DXj3pViDuWw+E722sDNHP2gP6VXuoQIkw+FEeNYPwpzbIHDViduy0CFqavRgC4TwmKBuaBiB4ceOzCULf6QGPbne7dP6wQ4f2blHXJNDqi770QJwlXLNBcwWPSpddutbhUNdBR13DNNqgD/P9PgiRCMTrwgZh5AxCv3djOXpzx6OJvOtnqR7o4+srYdDyrdZBuA4QAv1qjzQIWRrpcanvqEPbtmbUPRu0VsmnC0JgKhnzeTznZ4hB+XaHdm3X68jEIKNfFgd80I/39+Ji0MIgE4Uft0GVQQ0a7XWp0OnSkTYZ9PXt9WZBaMEWbgRavu/5GQKo2KWzJIHWq4VmQXrbIkMSCPfXJ3O0Vg5A80WPHve7atqQJXvaMAgTlKAo6i0vgRA2iNcQQNhpnKVj+wIQspMqiFEICVQd8dQ6enYjnKVNAZlZwlECIUMSiKcNoJXnl3wQqnRMDJreYRKIXzE2pnORNSSB9uzQIGQHjw0zQ02B7HWE6wzCDkNRbARq2xmA8NhIDcSoeiCsId76WNgMOrA7AKFKm6AEKA2Spo1BmC4uio1A/OTHa8enhas+CDUoQR0Kg8xpM0G8oCWQXbFbBmGXNQIhO3FAJ/frip0ayJ42XLffi/8UWD/Y8iYINShxHZKmjUEYMc6x8/gtAFWciye+xwURfVMBSdNmgnDPfC0xQejHz68UQGjR1EthYsywQSiKJogjAShuiyI5+PmF7PxFUKMWRUbjf2ut/QYQICT8Auo99gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xs3W30sUURQH8F1iGWZfeukPEIIeeukHgQ9B9FBEEGUpllmGlcaGFUtL5o/SbNsyRTGzsFjJWFSsNoR+SFLUX3biO5czc+fs2W3HHcMLh92dubP3M+fee2YSie3fkqSHdn7LW5ImhlppfOCsF4X+FsrnznjBiNJMNy1OXaGFyS4FJW+iYbgBMQogDokpPr9ErwsXQwPjN87JCKMiIZM09aCtAoVPQDgYNJe/QDOj7V5ffGog9LfRP1eH6MfS3c2hGITvnB0GvXnW6YG4bzUQrttYGaDf5Uf0p/zYA2GM/U1NXsjRRTNp57tmEAaVIPuuEbNj51XQ0uzVEAjfGSRHFy0ZmgYgeHHjtw1C3+k+l+53OnT5RIqOH9rhHdNAq6964gNxlnBMguayLuWvO3SrNUUdx1LeMUyjBH2a7/VBiEggXhcShDtnEPp9GEvTu0GXJjKOn6VqoM9vb4RBy/caB+E4QAj0Kz8xIGRpuMuhnlMp2rUz4Z2ToLViJl4QAlPJmK/jaT9DDMq0pGjfbrOObAwy+m2xzwf9+vjQx0QG2Sj8uQQV+w1otNuhbLtDJ5t10Pf3t1WQHL1KC7ZwLdDyiOtnCKBch8mSBlovZTcLMtsWGdJAOL8+maa1QgCaz7n0tNfxpg1ZktOGm7BBdlGUo4tmtrwGQkgQryGAsNM4S6cPByBkJ1YQoxAaqDTseuvoxZ1wlrYEZGcJnxoIGdJAPG0Arby85oNQpRlTFwg7TAPxK8bGdLpiDWmgg3sMCNnBY8POUJ3ZQQtAch3hOIOww1AUa4Ga9wYgPDZiAzGqGghriLc+FjaDjh4IQKjSNohRcnSlGZA2bQzCdHFRrAXiJz9eO74s3PRBqEER6lAYZE+bDeIFrYFkxW4YhF1WC4Ts1AM6d8RU7NhActpwXL4X/yuwfrDlbRBqUOQ6pE0bg3DH+I6dx28BqOJcPHEdF0T0jQWkTZsNwjn7tcQGoR8/v2IAoVWmXgsbY4cEoSjaII4IoESCy3qtkEA7+PmF7MQCqrdJZD1YjqDvf2oSqYW8Zlu3v1okb4iZZ1QtAAAAAElFTkSuQmCC",
     "wiki_name": "Yellow robe bottoms",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yellow_robe_bottoms",
     "equipment": null,

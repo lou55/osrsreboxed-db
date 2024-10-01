@@ -1,7 +1,7 @@
 {
     "id": 2911,
     "name": "Red hat",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": true,
     "examine": "A silly pointed hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4Xu3Wy2vUUBTH8QxDkBFx5cqNKzduBDduXLhx4cb3+0kVFUUEUZRSFB+l+KJQ6gOVFiqllqIVQVQURf+y63yT/qYnJ3fqZGZaXHjhMJnkJPnMuSd3kiT//qiFeMSOL/uohcdD+8PDwb1ZjNzcE4av785CiOmxgTA1ejpMPjkVQfkf0TM8BwkFSOExE49OhBcjxwo35jvHfBRRlZC1MHrrQAnFJxCFQM+Gj4SxO4eyXD5jIPIt+sfcUPg2c607lEBsqzoCvXpwPAMptx2I877PDoZf83fD7/n7GagShovqVwvETWOg8XuHWyC2Y6CZ8TMFENsdgmqFaeBGam6+e5Dvn3aguefn+gdSldjnQeRvSethU5qEDfUk+07VPOj9y/MtEFEJpL7wIH65BZF7dHUadjXqYceqHLV+AeVBH15fKILe3ugdxH5AQnkQlaJK65Iy6uPExf6CCKYyBtrXSDPQtmZsrOdVWmtQ5H6eutwC/Xx3u1MMowiyKC4uEHlUxoNsL6k6gL68udItiLH4xLQD+YVuZyMHMW2+j8j9On21W1C+BlGhv4HIId9XyE6XzrGgCoti/sjHQIQubitz0DT11oUe8v3TV5BQhBBMC9VQ/zBd21cCJJQgm5sQBShbHfWPBdkQiFW6Qwwjf8IsSBXxcbKJWQrEPo6RM7Amza6jCnUFEioGYmrsdAlE5XjkARHkCbYsIG5A+P6Jgegp9pHPueRxLa3UHaJyUGzahPGhhvYgkBalCrEGVViHiiD7tOUXWAw7hbbRVUFAQpGvpq4M4imLgdjHI8yLFo+zB1oQCDCapk+Tl3oH+WljvwXpbZJg0fRAxezTswUQa1DldSg2bRbEtgdp8eQ8LYjk9gUUmzYL4ph9LbEg8vQX0wcQo1z2WFiMDQ/iXdqCFBVAnY4yUqH/L6qzgqClRhlZjv+jt/EH82OmWvSUJr0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4Xs3Wy2sTURTH8QkhSERcuXJjN27cKG7cuHDjwo3v95MqKooIoiilKD5K8UWh1AcqLVRKLUUrgqgoiv5l13xn+kvOnNy0mWZaeuGQyeTM3M+c+8gkyepvlRCP2O/L3irh2eCh8GTgQBrDd/aHoVv70hBiarQ/TI6cCxPPz0ZQ/iF6hmcgoQApPGb86enwevhkrmO+85uPPKoQshJG7h5uQ/EJRCHQy6HjYfT+0TSXzxiIfIv+PTsYfk7fXBpKII5VHYHePj6VgpTbCcR1v2YGwt+5B+Hf3KMURB/b+vrS8L27lpVdTy0QncZAYw+PNUEcx0DTY+dzII4F8r27VskNAx1pcvPdg/z86QSafXWxPJCqxDkPIn97rRq21JKwqZqk36maB316c6kJIgqBNC88iCe3IHJPrK2FvfVq2L0mQ22cR3nQ53eX86APt3sHcR6QUB5EpajShqQd9WX8SrkggqGMgQ7WayloZyM2V7MqrTcocr9NXmuC/ny818QUBlkUNxeIPCrjQXYuqTqAvr+/HgX53ju01orpBPIb3Z56BmLY/Dwi98fUjaWCsj2ICi0GIod8XyE7XLrGguym6Ht3LVvyMRChm9vKHDGTesf8HPLzp1SQUIQQDAvV0PxhuHatBEgoQbY2IApQtjqaPxZkQyB2aWG6ArHCLEgV8XGmgVkIxDl+I6d/XS29jyrUZXVoLZBQMRBDY4dLICrHkgdEkCfYsoDogPDzJwZiTnGOfK4lj3tpp86GctGWgWLDJowPTWgPAmlRqhB7UIF9KA+yqy17olbYIbQTXRUEJBT5mtSFQayyGIhzLGFetFjOHmhBIMBomL5OXO0d5IeN8xakt0mCTdMDFTMvLuRA7EGF96HYsFkQxx6kzZPrtCGSWwooNmwWxG/2tcSCyNNfTAkgWnvZY2ExNjyId2kLUhQAJYm29YXCA23o/4vqlALqtnlkN1hFK3eFmkfGwl+zqtt/PXbw5kZDMwoAAAAASUVORK5CYII=",
     "wiki_name": "Red hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_hat",
     "equipment": null,

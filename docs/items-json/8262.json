@@ -1,7 +1,7 @@
 {
     "id": 8262,
     "name": "Basilisk head",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "I should get it stuffed!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xs3XYUtaURgHcA/hiySCKBITFZU2VmOtaJVkzTGdkoHRlnPasklurRC3IoTYFovoC+z1Pusz/497rufejLx6NzvwR71e7/n1nHNv57hcdzZFrdyLpqi6Haej/PP7gGpjttcDlFn2DRKl6PDNuoEpJEOUi/sptTgQlGJIrZBgzM6LIJVehfl9NjZFiXnv/0Ypqhdf0slu0sBUshFTldbmJi2ofwZUDDnbSzEAKWeamMUQ7cwHaftpgCtlBilai1qBjjRFjf00R8dc1japtBQ2QJkZn2XYFCUeeDkOoxR9P9jgYJiQi+MslZcjDJIqMcjUeQuUeujj7xxCtTEIKgPMVT3HIEQfNgCWQuPc+UJgjGZ9o4zJPp7iOIC6CcJQVWIRjrVKqAZQmDuAAQVI7omfwXjtE2UGSXWqq1GOjtLnEmBAIToI5/RZKUUXH7PtNEHReNRIpyqhc6AkOgbnIH3MKTMIw6WDwithCj0LcQILQSP+Ob8pggEcf4AMbw8o+yArBsFxOQ+/QXDc+8j2I0HR5eGmEcyfXkA6BMFvcQzfTc3amlPOgAQi58nv5TPO6RKl6OooZ+T6ZOtOEP5iHfOr+JZ+l3dNWP0aUqmuQXYrBJCg5txDND3k4sy4Xfz57HOefnx9T9eNinHcUZA+FDqoUsgwINTsVALAl+prOq+9+wtQtJlc6RaD1jvo+MMWg6RKqARecfz00w4Dcf1cOmYPxLd7lyBAcCvjFZ2iEhgOYAR0UNwwhlFiC3ReyRjPodtAMmGBmZyeZNC3eol+nu7xXMH3gt7Pp2/chbZAWAfdBkL05wkwE5EJU2cylILSbwKbGDTFq0T+x9oEYck64h0xxTPu4aA6wIwFx27c+jpIP27zoYjWWrrKsGH50QkzPDrMcXvcHP3Wl44B7hSbILT2sAEkVbJiWhfuJbZba/sjC3ygGtU0B++xA8E2qMeL99pau1UMn6CwthbMwDaKla1V3psBJRvEPkrvRLOO/8Agg29/AKvehTJ7uBHjAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xs3X/0sacRgHcD+EPxQRRJGoqKm0sRqzovWFvsyxmpKB4VY5bdUkt1ZEWxFCbItF9A/s5/2tz3w/13N+7rLl6ZV94I16nvd59Tyfu+48njuHIiOPYigq5+Zof/3VY0DVMLmFEKWn/O1EKdp7v2Bi8osRys4FaWmiLSjFkMN8kjFrr8NUfBvl95mZACXHfA+NUnRUeEPHm4smppSJWao0nxiwoe4NqBhyurXEAGQ7XcVMRGhtLEy50RBXSkCjg4P8Oh+3A10Ziio7KY6OuThcoeJk1ASlh/1m2wSUfOLjuIxS9HN3mYM2IecHGdqeijFIqsSg68l10NJTP3/nEqqGQVAZYC6PsgxC9LYBMBnp48nHQ7004u9hTOZ5gOMC6iYIrSrNxDj2KqEaQGHtAAYUINkXQQbjtUWUFSTVKc/GOTpKX0uAAYXoIOzTYqUUnX/O1FIFxefiZupVCZMDJdEx2AdpYU1ZQWiXDopORynyMsIJjYfNBBNBSwQDOP4AaW8TKOcgOwbBdtkPv0Gw3ffM8SVB0cXeihmsn2ZAOgTBb7EN3wVGHK0pd0ACkf3k9/IZ+zSIUnS5nzVzdbx6Jwh/sY75U9igv9ubFqx+DKkU5jIuqP8dzisEkKAS3g4a6vBwhr0e/nz6dZ1+ff9IV5WSud1VkN4KHVTKpxkQqU4qAeBb+R2dHX64bpGilcVpE3OvoINPqwySKqESeMX2ky9rDMTxs6mZRquDYZz2jYIAwamMV0yKSqAdwAhot7BstlHiCHRWSpvXodtAsmCBGRgaYNCPoyL9PtnitYLvBb2znrpxFjoC4T7oNhCiX0+A6Y/1WyaTVgpKPwl0TMMg3CXyP9YqCLes3b5uS7r6ujioDjC94d4bp74O0rfLRbFBDIZx6yptw+1HPUxnTyfH2+Xl6Ke+TAxwvTgEYdTaBpBUyY7Bfs3EQbtkGI8/coMPVKWc4uA9nkDwGKQf3GnsMzYwjKdVtE9QuLcWjDwoNnnwZoei0uosP5sBJQ+ILZTejXH7GmgDxhj2/j8U5B8Lrr/5UbhoYAAAAABJRU5ErkJggg==",
     "wiki_name": "Basilisk head",
     "wiki_url": "https://oldschool.runescape.wiki/w/Basilisk_head",
     "equipment": null,

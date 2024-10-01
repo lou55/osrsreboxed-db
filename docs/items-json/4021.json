@@ -1,7 +1,7 @@
 {
     "id": 4021,
     "name": "M'speak amulet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-06",
     "duplicate": false,
     "examine": "It's an Amulet of Monkey Speak. It makes vague chattering noises.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6UlEQVR4XuWX7UvCUBTGdxGRyXCIUmikmGj4QpkkCpYmaKZEr0h+MAr7YC8QJPWhv/7kuWvzbrjNvSXhAw+Tyz3n/O7Z9Ygc9/9FwNieS12wleOhtxeE67IAo3qIPjuFINTSPBS3Al4DEloMjRDoi5IAw2oIJi0Rvs8jMD0Lw1s7DE9N0QDQNRE4zvJKVwYVYUEH5v7qR+D9VAJEYE+A8KTLvwI1oCdAlZTdpOsCVErYTeoRkP2kTmJ15SSpk+7qyu4dInREhHjORqyhpMlsPSmhA9R6nKkIHYjWE9s9iKmk1ltPLE1463GmIvT3yXpidsK7LgIxwfebfJkC0r7dDf+S+y1rdtokDwnRZwI2B/EQBiUVKm4GYCfiXwCmBpnD6IE7EoFgiFOMUFiQBcM11ji32BgXoQiIUQ6icY4+ZZfiUmEsJq/JMPjNYvd6AtTvFVTWAsrGdTS7F9c9BZKLamH0oFwHiiXnRbRut3PQOslCo5GhZoFYuwhFIJXnYDsjGeHQtzcH9PQIhCC1WgqO6mn6GQG1QK7fI63vR1UY3h3C1eW+AsZCafe7CLNIBMbjOjw+1CjYYFCmYAilBvozEXh9acLzpEGNYHK3ut38KoBQs/9fnx2YfrQVKLxXf/B6jKS9IysDWUP9AK52osdRZ5KmAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEElEQVR4XtWX20sCQRTGd4iQFXERpdAoNbFIpSyKFixN2DIluiL1UBT2YBcIinrorz91Zhh3dnLX9jJEH3yszM455zez49HVtP8vAt5WLmfB9ooO3dU4nG0k4LqRpNf9ahzMkg61uZhqQEKLoRECfVxPwNV2EoZtAz6P0vB2mIJnKwX3LcMDMDIR2F3SR7vS30qM2QHbH700vBwwQATmQPVCISooQlcqFsXkbpYBlQBtFe2kdmF3iXDKgeS73lIEVF8ImlQRUPCkYWJdFSZpmN11VdAzRGiLSOpagFhPsc7sPymhDZTH+Yv1FKENMQhQsIVMFNt6/4lZh/cfN1GE/j75T2x3eH9xvxKBbGKKJmeeJDZveWZaHZCZ12HBmJoAZoOIMEqA0LXZGCymp8eAOUE4jDt4KBGIJ7WREQoLimA4Jhr7lhgTIRQBI6NBJqfRK3c9xwpjMT7GYfCbJc7lQBE9NgbU61YdlgG5cRwtzsVxpUC8qAzjBhU5UDZvF5FtWSvQ3luCZrNMLQKJ5lBy9gAiUKxoMF9mRjj0xfk6XT0CIYhpFmGnUaKfEVAGivwcyb653oary004PVkbgYlQ8nwOExGQ/R+ZJSQwGDTg7takYP3+BgVDKBFIjIkU5qcIPD224GHYpEYwvludTsUBJEcq1Pf71/s+vL1aIyg8V0oez+/lfk7+AIZJPiN/BqJaX8pj+6lJZXcAAAAAAElFTkSuQmCC",
     "wiki_name": "M'speak amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/M'speak_amulet",
     "equipment": {

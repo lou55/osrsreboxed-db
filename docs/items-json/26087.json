@@ -1,7 +1,7 @@
 {
     "id": 26087,
     "name": "Sigil of the elves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu2WTU8TURSGmYhIpUGbtJCmKkkNGoQ0Yhq0SZU0oogYoUGbKiGiIRpCNMSPED9W8g/c8h/YuXLl3pU7f83R57Zn5s44NQPMwMKe5M2UNL33ue97zh16err1/5Ujno6sPIhqdUImJ8/L2MWzhw3mQZzc3ZH19fuytnZXUl8+S6VyScrlC1IqFaVYzFtgicE5kv713ejd24a8ef1QNjeXDBRACgUQTo2cG5Z8PiOZTDoJKEdevay7QB/eP5KtraaBSv/46hNQ4+MjxqWEgByzMUAbG4stqJ/f5NPHZfO0YWq1ywZI+6lQyB4ekKs2zMJCRWZmrviAiC2bPSWDg6m4oBw3GgWiZ1yoNsyDpetGs7fLvolLBAiIF8/nOwI1mzVZfnxTGo1pmZubkukbJTNt9BFARBYrEJOEODUCCECAVlZuyeqTWTP6dmRXp8ZcoNgdIi5GWQUQEDiDKxpXvV41keGQAiU0aY4PiNg0onvz14wzbDw6WjCfgbIvyJiBHHPncFoVGxMNTiBGm2jYXEVj09R85ntiiw2IiHAF0dgaBRviAj3z7Okd4xrR4ZpOGvAxAnkNTR+p6B+NC3EZ0jPEpI0PdNChA8TWeiH29h4zrgDEu4ubmSd/M13AMOY66jaUvs9soH1OWgsE9fUdNyKO7e1V94Jk5HGIqSIuld4/nRxKpU60gSJD/Q0zMNBvRGPjED1EZDhEvwChjgRlAxEXQKzJ+hHAOsPk/pyOzWlUYPQewiX6RxsbdzQ2G4ix17V0bd3rH1DhQMAgnCAGTmtPFJAA6NP+Jw2godxpd409AlEtqDCHVGcKOSPuHQSI9g/uKNDwkAdyACAqHCoMLqpsEBsmIhDlhwqCBTcMU7BngjARmjpY3l0UpuBGYQr+Zo+udCo9SZzqVreSr98htg8Hzntk/AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xu2XX0sUURjGHTJrc7EWdpVlK2XDwoxFY7EWtmTJMjOyxVq2RLKQQqSQ/iD9ucpv0G3fobuuuuq+q+76NG/9zuw7c+Y0K2vOGpEHHmZFnfOb53neM9rTs7/+v+VJqL+2Qohq9ZxMTp6SsTMn9hoshDjy6aOsrd2S1dUbkvrwXiqVs1Iun5ZSqSjFYt4C6xqcJ+kfX41evWzIi+d3ZWNj0UABpFAA4dTwySHJ5zOSyaS7AeXJs6f1AOjN63uyudk0UOlvnyMCanx82LhkA02MjCQF5ZmNAVpfv+1Dff8i794umasNU6tNGCDtU6GQ3TugQC2YhYWKzMycjwARWzZ7VAYGUknF5gXRKBCdCaBaMHcWLxnNXitHJs4FSsAlz0A8eTzfFqjZrMnS/SvSaEzL3NyUTF8umWmjRwARWaJATBLiqRFAAAK0vHxVVh7MmtG3I7swNRYAJe4QcTHKKoCAwBlc0bjq9aqJDIcUqEuT5kWAiE0jujl/0TjDxqOjBfMZKPuATBjIM2cOT6tiY6LBCcRoEw2bqyg2peYz3ye2xICICFcQxdYo2BAX6Myjh9eNa0SHazppwCcIFBaaHqnoj8aFOAzpDDFp8YF2HdrFK8R/Ifb2HjCuAMS7i5OZK18zXcAw5jrqNpS+z2ygP5w0HwT19R00Io6trZXggGTkcYipIi6Vnj/tHEqlDrUc6til32H6+w8bUWwcokNEhkP0BQh1xJUNRFwAcU/u3wFYe5jcr6djc4oKjJ5DuER/tNi4o7HZQIy93kvvrXttAxUPBAzCCWLgae2JAhIAvdp/pAE0mDsW3KMd0Dad8qHiHFIdL+SMOHcQINof3FGgocEQZBdArHioOLhOZYPYMB0CsaJQLpi7YZzczrgwWmpgOgBihWdRnNyN4uT+juvKDmD85f+w/Z9DMtoxiLvsp0lK7h77659fPwFPxks9ZvXVlAAAAABJRU5ErkJggg==",
     "wiki_name": "Sigil of the elves (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_elves#Un-attuned",
     "equipment": null,

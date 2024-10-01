@@ -1,7 +1,7 @@
 {
     "id": 2970,
     "name": "Mort myre fungus",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-13",
     "duplicate": false,
     "examine": "A mushroom from the swamps of Mort Myre.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu2U60uTYRjGfQmRyViMSWGQkRFRikoY2QcDP0hYkkpIQklWYqamaC4P6TBdG6bM6TKzYeYBT8hW6hQPlZa2sowcUkR2+kuuvO+XrXerD8E21wcvuHne99Pz47qu5w4K2tKWAiIB7hMwiQBZkQpk7JHjdIQcCTtkgQATLyw8pMSVg9uRs1+B8/sUyNwrZzCZLATRypDNAhNQdzgMtXEqVMWqUBatRHGUkuEuHxDhCCxldyi7FRG6zd9gAham+1yjjf8Np45RMZgnVKQ8GIrgIP9CLc4Owv58FK+eDvM3DYGRYxQjRUjxJe8K5QgJyq9As2NmBlpZmsDbl2NYfvGY3XLGKIUiIHIqXOaMzy8SoQjE8W4Oq8szeL1gYZek0dELpNeXFC6TvEC/SICl97YL6pNjESv2Se4VuURF94zO2adNgfq49gE/f6xzhPRPsXkWPHGnTLIO/CYBz2ZteGNfwJrjPb5/+8Ldso0Y2SVaBc7YCChOFSJZBT6VuFsG+8wYtw5ibmYc9qV5OFZX8HX9M+anemDt07nFRj06Eia+OB+vAQGa6lJU3yiGuqwAD82tGOi5D8tIL2xPRjA9aWVAghru0vwRG7nkcyBdfRXqNWo3ML32JgyNdTAZdRgbaMLEkIFP6pk0OnLKSxjn6henzaDli+/oahmqprIEJUW5yEpPQu7Fc+g2qdmZ0UcNfA6Za/h0xqdUyr0BEjBls8A62s+xdHW2oL1ND2NTvRtQYX4OsjLTXdDmljL0tFcwXFfrdf6nk8YLGNIGkOUu96O/+95fgSrKi9iZMxmnJJeJYCZ9IYy6Ahga8tF8K49PL4FIAnehv6OSgTpMjS4gbV0FSovzkJN9Fqknk3HsaLzHhe5x+wDGKcHViQftTdyjZr2Gy5yRloLjiQm+vvBfJGCgs5pLSrFRsa/mXUBsTNRmg0glcDEJirpBcaWlnggkEElgGHKLXLpWcCnQQKSNbV2ezUWncv8HQCSfv5wtbcnn+gUYGX26ReJ/DAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xu2U60uTYRjG9xIik2GMSWGQmRFRikoY2QcDP0hYkkpIQklWYqamaC4P6TBdG6bMU2Y2zDzgCZmlTvFQaWkry8ghRWSnv+Sq+3571zsriLY1P3jBw7Pnw/b8dl3XcysUG9qQVyTAeXlNIkBqiD+Sd6hwPEiF6C1Kb4CJF+bsU+PC3s1I3+2P07v8kbJTxWBKpS/C1L7/C0xA5f4AVERqUBqhQWGYGnmhaoY7v0eEI7D47X7sVpDfJk+DCZib7HYsfdRPOG24hsHWQoWofODvo/As1Px0H2yPh/Ds4QB/pkVg5BjFSBFSfHHb/DhCgqLvRQYHewJKwPSImYGWFsbw8ukIFp/cZ7ekGOVQBEROBSql+DwiEYpA7K9msLw4hedzFnZJHh29QHp9sYFKxwv0mEuWrusOqHf2eSzZxrlX5BIVfW10Up886pIE9XblDb5+WeUI6UyxrS14zFalYxx4yCWSgEfTVrywzWHF/hqfP33gblkHG9glGgVSbAQUqfGVjQK3Spwtfd1mjA73YWZqFLaFWdiXl/Bx9T1mJzox3G1wio16dCBAfHFuHgMCdGUFKLuSB21hNu6aG9HbeRuWwS5YHwxicnyYAQlqoF33S2zkkgTkpugEGKpKUaXTOoEZ9VdhqqlEc4MBI721GOs38U49k0dHTkkw/wgkjX5xNZn0fPENQwVDlZfkIz83A6lJscg4ewodzVp2ZuheNe/95nLepfjUapUr7giYsFowPNTDsbS31aOlyYiG2ionoJysdKSmJDmgzfWF6GwpZrj2xst8pp2Wy+5MWG5yP3o6bv0WqLgol505kXxM9s9FsGZjDhoM2TBVZ6HuWibvLrgjSeAu9LSWMFBrc40DSF9ZjIK8TKSnnUTC0TgcOhj1A0ahkIPJlwvuyCU4OnGnpZZ7VGfUcZmTE+NxOCb6jxdKZ/mS/7ILEtDbVsYlpdio2BczzyAiPNQJxI0X/o0ELiZBUTcorsSEI+7ohSsSGIbcIpcuZZ/zNhDp+7QuSuOiU7nXARDJ7S/HdXmpyBtav/oGrV6rmlLu4bkAAAAASUVORK5CYII=",
     "wiki_name": "Mort myre fungus",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mort_myre_fungus",
     "equipment": null,

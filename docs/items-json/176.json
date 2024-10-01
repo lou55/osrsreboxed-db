@@ -1,7 +1,7 @@
 {
     "id": 176,
     "name": "Antipoison(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "3 doses of antipoison potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXklEQVR4Xu3W20sUURwHcBfCXZbpoZcei/Ah6OqDsKWZZDcvaYr3VRSVzZTcSte1UbubWIlkZjdRsERNTAkqIzEM6iGCIAjCv+YX3xl+09kzs9vO7hg9dODHzs45O/OZ3++cM5uS8u83F1mHVf+GNxfd7S2j22qpFgPdJdQfOq0FI6ZHGmlquIEmh+otUPJDJA3XQYwCiEPGTNypo0cD/ogb4zv65IhE2UK6aPhyuQmFT0A4GDTWX00j1yq1sfi0AmG8iF6d76X3M52JoRiEY84Og54O1mogHhsNhN+tzKm0tnidPi7e1EC2MLgoPzWDcFMZJD41xo7eqLIEzYw2RYBwHCfIFVEGIHhy47sIwthg404K1KRRbekO7Xs00PzDgHMgzhLOyaDn97K0qC7eboBQRhn08skZA4SwBeJ5IYPw5Fag8UEfVRRuM0pnBVoab4kEzYaTB+E8QAiM8/sbjCgoLKXco/mUmXVE65NBryZanQUhUEoR1NUVpmDwArW0tNHJvGLKOpRLu/ekm0DI5tupcwbow8KVeDFokSARhYsziEvWfUmlvr4+2p+eEbVkGLv8LJgoCE2/MCZoNBD629vPk6r2UE9PL/l82cZvkEkZ9G76YqIgfQ9Chv4EQnYQqqrS4ZzjRrlkEMaLIBubon4xKxBCBnV0dFIo1EXhcDflF5TQgYM5JhCy4yiIUQjcADsug5rXN2vh/6xQ2RsvHRvzUEZnqta3ISAxS/hkkIgRQScee8inmkFzD5oNEHbpODFo+gqxAvHrQMYgar8oVL7spbxJD2VeddO+wG8UsoPXhpihhEDyPOKlHA1UseKl/CkPZd9yU0ZIB3G58NpwDMQonEd/YH2LKRh0atZDOUNubR7tqtukjQcIu7QIsoHSQVZliwWq+6pQ5aqXil54KPe+W5tHe5v0LGHOvZ5sM0DYg2zsQ5EgsWyxQPXfFKpa81LJkj6xMY/SW1MprUjPUlIgrLJYIJ43jDm7vpUavitU88m89B3JEIPksuE8v78QjT8UavqpaDgcY+kDw/08obHkRRD2INv7kFXZGIQnxjHfWA5ejTzWEZBV2UQQ+sS/JTjm3ZxfG8iOAyA081NbhYgRQwZhUxRBHDZA8TYzkkOcP38RFKuZkeb435JrvwCgyTrqmDANkAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Antipoison (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Antipoison#3_dose",
     "equipment": null,

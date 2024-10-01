@@ -1,7 +1,7 @@
 {
     "id": 16940,
     "name": "Grail bell",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-07-23",
     "duplicate": true,
     "examine": "I wonder what happens when I ring it?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xu2W70uTURTHff4u3/ROxBdpVmZmmlmYmfYDG2ZamW2YmeUyK1HEbMoYG2ZLhmOomWOMFfUPnfqcccbDWBDslkE7cNiz+9zd87nfc+65q6ur2f9tnpSPHJEB4sm5k636ecRgnhyrr5fzp0/JmeZmaW1qkuMNDS6hbIe/55c7O6W7rU2BUAi/eqFbgiMjLqA8aWls1F2y27MnWjQAAXva26W3o0OudHVpwKFLvXLtYo8+44zjjIVGR10AeRqQBW/19cnd60MycXtYHo+NybOHE/L0wX19JhDj4zdvyJ3BQQkMDKgP9/erM8cZUDnEwtSULM7MyNLsrH6+mZ6W+VBI5h5NlgBtA/iTe+MlILxqIIMAYHX+hURev5KNpSVZX1xU5/vawkt9txIOKyTzDdCADKpqIIIBEFtZkcS7NdmMRCQZjcrWxro+M4bH367qnOjysjqAqMeG/FBVAxnAdjwuO+83JZNMqqc/bKkzlkok9H0yFtO5/AY4NoNiqGVQVQOxWwIQ+CCdlslAQLK7u3KYyej3/Z0d2UulZHf7YwkUOBRENdK6PPdc6wyoKoEwTxcFiEWpJUtj4fCz5A8+SW5/rwQJIGCohlqkk7nUF7XlBAgI0gEQMAQB0JT4ls/L11xOvmSzCodyqOZXy1LoAAjzdEFaAHCkUevlp1u9oCJQwKEcilVSyxEQVqwnashUsiCMA4E6FK4fCrWoLxRlA6jlHIp08GmFW15DHHWDshQaFIo6BMKKUAQguP+k+U8bBVwORU2hqMNaMvP05PiPOrv39yScegOKYkdB3gNE03QMhBWhqAsDsMbo7+Ko8b1Q0HQCRIoBCgeDfwaKpscpq3SVkFruM0sv0MylJwHk4PavZCzo6a799xmXrnVoxkkt0LQHrhP7XflqDq0YgDQCggK0AP4j8TfE6ucvgJSbBfyV16xmNfv37AfZJuGiStMwjAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xu2W304TURCHu2/CI3jPjXeEcCGIiogIIhpEBP8ECSKoiCWIiFIRldA0iIU0pASxEtKmKYiQpkGjLzT6zWaazaYmhm7kgk4y2e3Z0zPf+c2c2Q2FKna8zRH/yBEZII5cPNOo1yMGc+RkdbVcOndWztfXS2NdnZyqqQkSynb4b36ttVXam5oUCIXwG5fbJTw4GASUIw21tbpLdnvhdIMGIGBHc7N0trTI9bY2Ddh3tVNuXunQe5xxnLHxoaEi0ImqqsNCORqQBe92dcmDW30yeq9fng0Py8sno/Li8SO9JxDjI3duy/3eXhno6VHv7+5WZ05gQH6IuYkJmZ+akoXpab2+n5yU2fFxmXk6VgS0DeDPH44UgfCygQwCgMXZ1xJ/91ZWFhZkeX5end9Lc2/0WSwSUUjmG6ABGVTZQAQDYDUWk7WPS7Iej0sqkZCNlWW9ZwxPfljUOYloVB1A1GNDXqiygQxgM5mU9Kd1yaZS6pnPG+qMba2t6fPU6qrO5T/AsRkUQy2DKhuI3RKAwLuZjIwNDMh+Lid72az+3kmnZXtrS3KbX4qgwKEgqpHW6MwrrTOgygTCHF0UIBalliyNB3vfpLD7VfI720VIAAFDNdQincylvqitQICAIB0AAUMQAE2Jn4WC/Mjn5fv+vsKhHKp51bIUBgCEObogLQA40qj18setXlARKOBQDsVKqRUQEObWEzVkKlkQxoFAHQrXC4Va1BeKsgHUYi3/6oc0F4p0cLXC9dcQR92gLIUGhaIBqoS5UAQguPekeU8bBeyHoqZQ1GrJv3IZ5ujJ8R51du/tSTj1BhTFjoI8B4imGbBKmAtFXRiANUZvF0eNXwcHmk6ASDFAkXA4aJUwR5sep6zUq4TU8j6z9ALNXHoSQAF9H/nN/Shj1973GS9d69CMk1qgaQ+8Tux/pC3g1IVC7oJuANIICArQAvhG4jPE6scPEjiM17xgf/P/AuI3b9BS7p9fsYodO/sNC24Ms6P28YUAAAAASUVORK5CYII=",
     "wiki_name": "Grail bell",
     "wiki_url": "https://oldschool.runescape.wiki/w/Grail_bell",
     "equipment": null,

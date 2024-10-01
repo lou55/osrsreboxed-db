@@ -1,7 +1,7 @@
 {
     "id": 3121,
     "name": "Rune claws",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": true,
     "examine": "A set of fighting claws.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xu3XfUsUURQGcPcLBFEUJRibrJJKhZgoqWxYWrJgolRUFBUWRQRRFCJFLyK9IYi9UKFgiImUEURFUdQnO/Xc4Zmemb3mzu4U/dGFw8zOy97fnnvvuVpV9e+3jPnDd/+Pt4zdHx20uyMDLsav7rexy/0uiJibPGGzE8dt5sExDyr+IyqGByCiAGLEMdP3jtqT8cORjvEZ9+IRRSVCZmzi2lARCkdAGAQ9GjtkkzcOuGdx9IHwvKK/LI7ap/lL5aEIwjmzQ9CzO0cciM8uB8J7nxdG7NvSTfu+dNuBEmHwpfzVBKFTH2jq1sEQhHMfaH7qZASE8xJBmcgwoCNObnzWtPtiOdDi4+H0QPjl7LC6udM2d+6zurZdlmvtctGY77Ot3QUXilPQ66enQxAiEYjzgiBcW5Ott/UNzbZxe3sI0iCoo28gDEW9eX4mCnp5pTwQPq+qztrqmpytq99mG5paizKEc2SJ4cvQ2+mz6YPW5hpdlnwZUlD73n4XhGEBvJ89H4K+vrpeKgYtCiJKQQhmh3NIs0OQwj68uFAuCO3XitF5pFGzI29N/ay+QXQWhtzc0ewgkKGPcxfLBQU1CBnygTa1dVt2Z48btlx3sJWwoitCYahdCkpQFIMlHwfhOoYJSx6ZIYYgogDHe/gOzU6qIEUhO7X5goPU7Rm0hq5e29Kx201qAvCerq5UQZolHHHfraqfGK4ugoAjLA5aeHgqBKFKl4hBC1aYD8Q/MWpbOtxqAgQrDBBmh3NGQcgOtg3NUFmg+DzCdXTAzlGVW/K9kcwg2nqC7UOHC9tGaiCicB0dYNdGJ5oR7mGca/H5gyqtoASoAOQbNh8IdYeZQbZw1J2ez7+bOReCUIMS1KEoSIdNQTjiug4RcQoCvGIQVtlKIHTGVcddXXE6XKmB4sOG6wrCfGF1RkHk/MF7fBYgLHkFoQYlrkO+YVMQzgliheZGzNXIZ1MB+YZNQbin/5UoCM/p/KkQhBbMh5VCMRpxEIqighgJQKW2YiRD589fBP2uFSOL43+rrP0ALRvj3udHh6AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xs3XDUsUQRgH8LsvEESSlKBeckoqJWJy0p1cXGnJwSVKRUZRUlFEIEUhUvQi0huC2AsVCoaYSBlBWBRFfbKn/rP8954d5/L2bgsHHnZvb7b53TMzz1gstvlbXNzh+v6ft7g8nhiSh+ODJqZuHpXJ6wUTRCzOnJWF6TMy/+S0A2X/iKrhHogogBg2Zu7RKXkxdTIwMD7jOzuCqFDIuEzfGl6HwhUQBkHPJk/IzJ1jpi+uLhD6a/T3lQn5unStMhRBuGd2CHr1YMSA2LcUCO99Wx6Xn6t35dfqfQPCGB2NjSbs0a3mpZ2/miAM6gLN3jvug3DvAi3NnguAcE+QPbrV4oFpwEBc3Pis0+6KUqCV5+ejA+GXc8C6zozsyhyR5tQBSXb3mmjLDsieXN6ExmnQ+5cXfBAiFIjrgiA825ZokdrWTtnZ0eODdBCUHhj0Q6M+vL4YBL29URkIn7fUJWRrfVK2t+yVHe3d6zKEe2SJ4crQx7lL0YNqkm0mS64MaVDP4YIJwrAB1hau+KAf7277mNAgojQIwexwDensEKRhn99cdYLs0Uu04o7R60hH/b6stBdYfb3I5IfN2tHZQSBDXxbHKgV5NQgZcoEaUjlJ7O8z05bMeUcJK7pGaBhqlwbpomiPbjVvy9sgPMc0YcsjM8QQRBTgeA//hs5OpCCNQnaasnkDaT40JK29/bI7fdAsagLwnt5dkYJ0lnDF92ZX/cFwdxEEHGE2aPnpqA9ClSamLBB2mAvEPzGautJmNwGCHQYIs8M1o0HIDo4NnaEys4NWBNnrCM8xAAdHVe7K9gcyg0j1eceHni4cG5GBiMJzDIBTG4PojPAM41qz1w+qtAYRZY/uaB7INW0uEOoOM4Ns4apPevb/NH/ZB6EGhahDQZCeNg3CFc/1FBGnQYBXDcIu2wiEwbjreKprnJ6uyED2tOG5BmG9sDqjIHL94D32BQhbXoNQg0LXIde0aRDuCWKF5kHM3ci+kYBc06ZB+E7/r0SD0E+vnypBaN562Cg0RocNQlHUIEYIUCzGsv63sIE69PqJBFRus5HlYBnFvv+p2UhX2O9s6vYbdx8ueYOaKZEAAAAASUVORK5CYII=",
     "wiki_name": "Rune claws",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_claws",
     "equipment": null,

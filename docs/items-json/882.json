@@ -1,7 +1,7 @@
 {
     "id": 882,
     "name": "Bronze arrow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "Arrows with bronze heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAnElEQVR4Xu2SMQvCMBBGE0KRlFIpSCAUUtChg4t0dnXt4P//L1cuaRAUbr2j3oOPWx8vMeZ/sFAmAgv31EMKrQQpC8ttgHnsIZxPMoRej5gL4UQIPZODa+zymIWKzKU1uwirDFKEBIgg33XY0ToUWodC61BoHQqtQyGszts3UoQ+MnhxjFK/MpNj/UMWVl+eSYBMpQrgZZdRFOUYbIw0bw4wfnseAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAuElEQVR4Xu2WsQrCMBBAcxSRFqkIUihCLDo4uBRnV1cH//9fTpIz2KZwg0PuwHtwBMoNj9cMce5/AKRRAeDVt+i7RoMU4O28w8uhxW67jkLjMEhKAT7GPhYKo0Lo7is89Zs4wkIks2/c5+6QjLjQVERcJtURFEks6+QbBbE6HFaHw+pwWB0Oq8MB+KpXM6F8oyBfmXCGCd/yrUIsZY6V6B0CfNb0m3IZIaFAqqHiNUgkARUyhmH8wBviZqKqzEnOdgAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze arrow (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_arrow#Unpoisoned",
     "equipment": {

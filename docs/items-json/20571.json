@@ -1,7 +1,7 @@
 {
     "id": 20571,
     "name": "Warrior helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": true,
     "examine": "This helmet is worn by warriors.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGElEQVR4Xu2S70tTURjHPYTI5OKQZHIZGW5YzMltgm1duGkjhFlDN9S1sqmskqWRRozFGFKJKyH68Sp60YveRC/7D7/5PPPa7V7vzo3Wu/OBw+Ge+zzP+ZznnL4+hUKhUPQSAfeKnEA5gYIcULyAZaZ5dv/1R6C+My/LEahtzMqCHAgs3EhjuXAbRiKGqD7yV7nNvZwsXuDTYUkWdILA0ryJe6Ui5jIGC8XGdITDQ4HzXzfysliBb18amLOMk0C/YIGVhevYvH8HWTMF6+oUC02MR7lLmjbYJddGoN0qyOIEvn9t4n27hvpuCZWyfcfupI5QeaXA3cmkEphOxpGIX8DF6Cj0yDBCoYEz8mwEfv44Qqu+5ji8LwKfP+zi3eEWDlqbaDwr42mt6BATKC9mUV2/6xGyOzRyPsxCv6W8483LB1gr3URmJiETIjoJJEYdo/nj222WbO9X8aq5jq1qhaWcm1wxkpiIj0PXRznfjt1/UeHvo4NHXINuYG97GcW8BSMZCyJECO4OFaQCNKggdY1OTkLeQn92wClAec+frKJaybGIZU45DhMYwQXoNCRGm9Asex/0qEnA7hC9x8cPF/lN5nPXYKYnu+RL8d6/Fjp3vMGGZ/30/7EQXZNTZOmWiexsCjPTl/5F5iw6Qu4RCQ9gLDKIy9EhFur+qHuKV2hY6+dBUjFdOxX6D5v74T6x31AoFApFT/kF3ZFtrgyRV18AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNklEQVR4Xu2S/0sTcRjH/RAik8MhyeQYmW5YrMk1wbYOLm2EMGvohrZmNpWVMjXSiLEYQypxJURffop+6Id+iX7sP3zn8+jN43N3uwvrh+Be8HDc3fM8n9fn+Xx6egICAgIC/iYC8hdvfNX4SrJA+QKGnuan/NcdgfrOrFeNQG1t2ivJgsDc7TQWC/egJWKIqkN/VNvcy3F+anTUrUbg82HJK+kUgYVZHQ9LRcxkNBaKjagIhwd8Sgm8aeS91hL4/rWBGUM7berWWGBp7hbWHz1AVk/BuDHBQuNjUZ6SovR3qTURaLcK3kI/vjXxoV1DfbeEStk8Y7n5iVB5qcDTyaQSmEzGkYhfwuXoMNTIIEKhPoc6E4FfP4/Qqq9YNu+KwJePu3h/uImD1joaz8t4VitaxATK81lUV5dtQuaEhi6GWehMyh5vXz3GSukOMlMJfu8yJeKkgMRoYvT89G6bJdv7VbxurmKzWmEp6yLXtSTG42NQ1WGuN3P3X1b4/ehgg3vQCextL6KYN6AlY36ECMHToYbUgIIa0tRo5yRkNjJDnoBVgOpePL2PaiXHIoY+0ck9q/dEcAPaDYnRIvQ0j8K5keBLTQLmhOg+bj2Z5zuZz92Enr7msBnf2M9fCV04XmDN9r3z/1iIjskqsnBXR3Y6hanJK1024xP5WEhIjki4DyORflyNDrBQt0t9Lhk7dqFBpZeDpGKq0hGyLi6H3PWc2HftFP9ocWfkHbuFXBcQEBDwP/Ebs4qodW1u6kEAAAAASUVORK5CYII=",
     "wiki_name": "Warrior helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Warrior_helm",
     "equipment": {

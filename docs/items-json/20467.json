@@ -1,7 +1,7 @@
 {
     "id": 20467,
     "name": "Elite void top (broken)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": false,
     "examine": "Broken superior torso armour from the order of the Void Knights.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xu2W4UuTURjFfT/E2BiO4XC4MaUNjaloiplhZhAmYphmZmammZkZaWYmZpqZKWZmucwyDDEzP0QR/YEnzzPuu3djVm5uX9qBh41t3vu75zz3eU1LSyml/1Mawms/nx24NDgybLDbrEi3mmE2m2Qzs8kUVnv9LnK1GBU6ZVG+F/5cD7w5WcjxOJGVaUeW04kjPh+Ol5TgTFUVztfWwu1yyHfRoeJyLPz0pYUeFOe7UZDngt/nRO7hTHizHThdWYlzNTW43NiI7rY2ZLvscDltcDqsyLBbgkBRXIzc7S/SYEtPh9Vi0YsLGUG4KTdUIHeud2Gkv19AjDAHAKTtLmaXIhRLLaSAHg0MCABBrlxoQk97O+7e6MbgzR75rLm+XoexmA/pB4oRSkOmwyFldImLfFp+g7nxccyOjWHy/pA4QpDejg6BIeTVi83SS4yyuKAAOW63frgYgDR4XC6BMbpEoJ/b21hfWsKrp1N4/WwaLyYmMDM6iqkHw+IY/+52ZyeuXWoRh85WV6O0qGg33mxZw3jAfUAFe8dYaoEfX7bwcXERK3NzWJ2fx/LzGbx8Mikb0gXCDd3qFbe6WlvFJd4+3kJj/EbH/xnK2MxGIEZGKL6uLSwgMDsrESrX+Drc1yfRtTQ04FRFBQr9ft3xGGOjjDMjWN8/b2Jr9R02V95i+8N7bAQCAkR3GF9+Xh6mH47ovcXoVGyRa4UqZmnYWV8XEAVFhxgfoR7fG0RTXZ2MAN44usTbxvl07GhxvJtHk4ZvGxs6DGNjHxGGUbGhGQkjUkOSjX2yvDwRMEqawDAqozssNjZ7jfGxZ06UlcmjhO8TCqRg6I5q7l87X+UmsUn5bFMzjJB0LqFAhFDNzOHImBQA38c5kfer8BlFADrE6HjdedPUBE8SVOgZxxsXOegiKwlAVHB+7AUT3ZmEwSgFgdiwbGLVyNH+Q0gCDKXJ9Wb9CSqJQFTkI2CvSimllHT9BkOCh7l8clLLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xu2W/0tTYRTGuz+EbAzHcDjcmJqiMRW/YWaYGYSJGKaZmZlpZmZGmpmJmWZmiplZmtkXDDEzf4gi+gOffN7x3r172+xazl/agcPGtnvez32ec87dgQPxiMf/GQbCczef7XkYcCc54XI6kOiwwWZLEIfZEhLCMtrv9Gp/GaG7zM/JQCDLj4y0FKT5PUhJdiHF48HhzEwcLSrCqYoKnK2uhs/rFt9FhvonxcLvvjjPj4IcH3KzvQhkepB1KBkZqW6cLC/HmaoqXKyvR2dLC1K9Lng9TnjcDiS57EGgCCrqp/0hDDgTE+Gw281kIRWEh/JACXLrageGensFiAoTDagwPd0qlLFdzCWSUExZSAI96OsTAAS5dK4BXa2tuH2tE/3Xu8RnjbW1JozddtC8IR1KPzlKGEh2u0WqKrHIx8VXmBkdxfTICMbvDghFCNLd1iZgCHn5fKPoJVpZkJuLNJ/PvDkdyIJKBvxer4BRVSLQj81NrC4s4MXjCbx8MolnY2OYGh7GxL1BoRivu9nejisXmoRCpysrUZyfv21vqqih3uAuVAr2jpqywPfPG/gwP4/lmRmszM5i8ekUnj8aFwdSBcIN3OgWanU0NwuVOH2cQtV+VXHLUGozq0C0jFB8fT83h6XpaWGhVI2vgz09wrqmujqcKCtDXiBgKh7NNkvW6fnt0zo2Vt5gffk1Nt+9xdrSkgCiOrQvJzsbk/eHzN6iddI2vZZMizDBkD8OXmBga3VVgEgoKkT7CPXwTj8aamrECuDEUSVOG/fTkcKCsMP11M+1GAa+rq2ZMLSNfUQYWsWGpiW0SC5JNvbx0tLdK2E9DAFDq1R1mGxs9hrtY88cKykRjxK+l0B6tT0Iw4ShOrK5f259EZPEJuWzTe4wQlK5mAIRQjYzlyNtkgB8H20jxwxI3U8EoEK0juPOSZMbPBKUXm0PIvSM48Tpi05PHShmKqlK7QQRUiZmUyYjCMSGZRPLRo70D2EfYBiGGG/mTlAxtkqP3x8DkXIf1AmFuv53Sv26eMRjv+IXskS+M1kn2Y0AAAAASUVORK5CYII=",
     "wiki_name": "Elite void top (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elite_void_top#Broken",
     "equipment": null,

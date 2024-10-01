@@ -1,7 +1,7 @@
 {
     "id": 1272,
     "name": "Adamant pickaxe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-05-27",
     "duplicate": true,
     "examine": "Used for mining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu3V30sVQRTA8b3vQQ/1UlKCkpBJkIRwIRChl55UCpOKoqKiiCCKQqSwEukXgtgPKhQMMZEygqgoivrLTnxnOcvZubPr7t0temjgsHNnZ+989syPjaJ/vzQkHKH7f7w05NHkYXkwMepi5uaITF8fdqGI5bnTsjR7ShYfnwyg/JeoDI9BigKk4WMWHp6Q5zPHUgPzm3t+pFGlkA2ZvXWkBcUViIaCnk6Py9zUmOvLNQSiv0V/X5uUryvX2kMpiLpmR0Ev7x93IO2bBeK5b6sT8nP9jvxav+dApTD8qb61ghg0BJq/ezR5c+oh0Mr8mRSIekFQIzUNIHRx89sH6frp3BJJ77bI1UOgtWfn6gNpluwasNG9r1v6DvRJ/8F+95us+aB3L84nIKIUSNeFBdHesasjGC47zV4ZHBvMBL1/dSENenOjGigrQ1s3RbJ9cwzq2d+TZImwoA8LF+sFEUwla0jXEX3BWFDX3i4XzeFmAqPvp6XLCejH29tFMZQ0yKJ4UwXZ7BA2azt274ynck+nDI0PubbPr6+0C6LEf8wWzgNZDPfpZ48AgmwNHBpw9TZB8bYlQ1mgUHYUxHNMra4dhX1ZvpqAShyK8ZYPgQgL8jFZINYPz9QGUhTBAJy4G4Hs7qoVZLPEVacgC5MFWn1yNgFxShfEUOIdFgLp56AsiOzw2bAZagvkryPafQzteSCdLj4btYEUFQLZQ5O6zaQFcUpbUAlUDApNmwVx5X4REJvg4+KlBMQZVOIcSoPstCmGDyl12v3p8kFkpzKIXZYH4spgtIVA+qXX6aoN5E8b7dxnAAb0F7SeVTxHXwWx5S2IM6j0ORSaNh0EEPU8kF0/tYBC02ZB3AstaEI/GzpdFUEUOm4c/vrR8EEcihakUQJUtLQiNez6+YugvNKKbI3/pVr5DaUEFus+ArI9AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xs3V20sVURQG8DnvgQ/1UlKKkpBJlIRwIBChl54sCpOKosKkiCCKQqToItINQbSiQsEQEykjkAqjqL9sxbeHb86a1ZppxjOFGxazZ2YP+zdr36Jo85ea+OG9/+elJk/Hj8vjsWMhJm8flYmbgyGIWJw+LwtT52T+2VkHZX+iaXgMIgoghsXMPTkjLydPpTrGPd7ZSKNKIWsydefEHyhcAWEQ9HxiWKbvDYW2uHogtNfo7yvjsr50Y2MoglBndgh6/eh0ALFtFgjffVsek5+r9+XX6sMAQh/729tD2N5NidPOvyYInXqgmQcnkz9H3QMtzVxIgVAnyPZuSi01DEBwcuPegjh/2rZG0r09CnUPtPJipDoQs6TngI7OA53Sc6hHeg/3hntkzYI+vLqUgBClQJwXGoTnrbtb3QjZqXdL/1B/Jujjm9E06N2t5kBZGdq2JZIdLTGo62BXkiWEBn2au1wtCIGhxBziPEJbYDSoY19HiPpgPYGh7eeFqwnox/u7CaY0SKPwpwTp7CB01nbu2RUP5d42GRgeCM++vL3mgmzvGaWxhPNAGoP3aKe3AASy1XekL9Q3CIqXLTKUBfKyQxC+w9By7hD2dfF6AtKbou3dlHjJeyCEBllMFgjzB99UBiIKgQ6w4/4NpFdXpSCdJVw5BFmYLNDy7MUEhF2amEIgrDAPxOOgLAjZwbGhM1QwOygNkJ1HeG4xeJ4H4nDh2KgMRJQH0psm6jqTGoRdWoOIsr07JQZ5w6ZBuOJ9ERAWwdr8lQSEPajEPpQG6WEjBgcp6nhuh8uCkJ2mQVhleSBc0RmeeSCe9ByuykB22PAc79EBOrQTmnsVvkNbgrDkNQh7UOl9yBs2dgIQ6nkgPX8qAXnDpkF4501oBI8NDleTIJTGSZ0Xdv4wLAibogYxSoCiiNt6XligDj1/KgEVLRZZBMtotP1PxSK9sN9s6vIb7whhd7eCFm4AAAAASUVORK5CYII=",
     "wiki_name": "Adamant pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_pickaxe",
     "equipment": null,

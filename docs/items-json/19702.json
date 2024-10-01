@@ -1,7 +1,7 @@
 {
     "id": 19702,
     "name": "Jar of darkness",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-06-16",
     "duplicate": true,
     "examine": "It smells like it's been where the sun doesn't shine.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC30lEQVR4Xu3W4UsTYRwHcPdKeiu9kUAYBAqKrLCw2Ta3q4avTJTKkkaWhSMyKx1irbKh1URYSyXDkTFMpIwgKoqi/rKf+z7Hbzz33DO3213hix74crfnftt97nnunltDw/5vPtJHd/yvNx9lZwfp2cyAyHzqLGXu9Yswopi7QhtLCSosXtag1ItwDTdBjAKIo2LWn4/Q6vxFy4nxGcfUWFGOkD5aejBkQ2ELCIdBy5kLlHt0TtRiqwOhXkb/3J6l75t360MxCPs8Ogxae3pJgPhElUD43o+tGfq985j+7DwRIEcY/ChfNYMA1IFQf7SzU6TSlG3mRy0g7NcI8lmmAQi+ufFZBaF+YuwajQwN0kBfH/XH4+XRkkHbK2PegXiU0CeDGKNmPJGg0eFhC+rDq+tlEOIIxPeFCsJUMAh1B5uabBg58kh9fH3DCno37R6EfoAQ1B1qbrYhkKlkku7fnqDDfj/5W1pE7af1cW9BCKZSBnW0tdHc9JQFkr4zSZlUihYfpqm9tZUONDaK2i8bN8ugX+/TtWLQrCAZxY8vgwId7XT8SIDWslkBWF5YoDf5PBVXV6jwIieeOgZ9fXurXhCaOff5ufN7go4FAhTs6qJwMEhGby+dikbpTCxG0VCIIj09dKJ0jEHfipP1gsx1BCNUDYSThbq7KRYOC8xpgAyDjEikhDpJkRJUB3KwKJqPvA6E6ECIEQmbmNLoxEsg7ud4CmIUwiuuCqoWz0DyKGHrBQirdI0YNPMJ04H4/eQWhBGqC6TeR+jfFyBGoR+vDKcg1GGVlkEOUCZIN21uQJ8LyTIIa5CDdcgKkqdNBvHLVT25Lq5BeMqqgXAvoa8WlGcgddrQL4Nwo2P11qHMk5nZennVAsIa5Hgd0k2bDMI+gxglB2Cu9QSkmzYZhGPy3xLs82qOOn7FeABCs15tpcgYOSoI/6VlEMcBqNZmR3IwkgBhdP4haK9mR9rzv7lru76ay2Kfi+QLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xs3W7UtTURwH8O2V9MZAQpLETEhMYqxyIcM9l+IrFaW0pJFl4RhZlIpYViZaTQRbFhmODDGRMoIoKYr6y375Pbff3blnZ7q73cIDX+7T2c5n5+nO5dr7xU366J7/8+Km1EQ3PRnvEpkZ66TpOx0ijFhduEwr83HKzF3SoNQfUTLcADEKII6KWX7aTy9nLlgaxjWeqbGibCHdNH+vJweFIyAcBi1O99LCg3OiLo46EOrL6B8bE/Rt7XZxKAbhnHuHQUuPL5qN7ATC576vj9OvzYf0e/ORAOEz3tpaEbV1pRjdzr+aQQDKIIac9HhEcJ6eOq8FraUHLCCcM0htXSluyzAAwZMb1wxCvd7OThoevEr9Pd3U1d5OHW1tJlIFbbwYdA7EvYR7AKHO/vJygVEzFI/TQF9fDurDq2smCLEFwrzQgXg1HaiooIOVlTkYOSro4+vrVtC70dJBPIEPVVXR4erqHAQykkjQ3ZvDdKSmxoL6tDzkLAjBUOL50bo6Ot7QQFOjIyZkLJkU13P3JwWosb7eBGHOfVlJmqCf7ydNjG2QjMKX47mn8Rid+ruqllIpgVicnaU36TRlni3Q6RNec9Ux6OvbG1qQ2nqeYqwULGEdyOf1kr+piYJ+P0UCLRQLh6k1GqVYKCSu/T4f7Ssrs4C2Vm8VCzL2IPRQPhAaCzQ3U7hlGxMK0plIRIDObh+jwaCAyiCsTBkkb4pq60oxlrwOhMggJBIIiF4BBKDWWMx8xiD0jqMgRiEqaLc4DpJ7CcdiQevPr5gg7NKMKQiEFaYD8fvJLgi9g9eG3EMF9g5KFqTOI9wvFoTXhmMgRuE+v1TVhvOFQdilZRCj1NY1xQDphq1YEP52fM4kTBD2IBv7kBUkDxuD0EAhKO6dkkFYZbuBCplLjoPUYcN9GYSJrkMZcyO7/2DJyyDsQbb3Id2wySCcA4TXCQM4vBq5riMg3bDJIDyT/5bgnHdz1OP3lwMgFOsvzhcZI0cFYVOUQRwbIJeLt/WdogLlyPPHEVChRUUWguVk6/6noiJ1UT+zp8sf1akTta2md14AAAAASUVORK5CYII=",
     "wiki_name": "Jar of darkness",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jar_of_darkness",
     "equipment": null,

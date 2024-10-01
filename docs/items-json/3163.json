@@ -1,7 +1,7 @@
 {
     "id": 3163,
     "name": "Sliced banana",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-14",
     "duplicate": true,
     "examine": "You swear you had more than three slices before.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu3WXUsUURgHcJdYll2Wvkd3XXUX3RR014uRvUiRpaVEJIUpVmSKpIVg9oKFgrWoWG0IUZEUddNtd0FfoK/x1P/M/IdnnjmrMztTdNGBh5k5c3bPb89z5pnt6Pj3W0n84bv/x1tJ7o52ytTIIReT1w7KxNUDLohozJ6RpZnTsnjvlAdlf0RueAAiCiCGxSxMd8vjyROxiXGNezbiqEzIkszcOJJA4QgIg6CHE8dk9tZRNxZHHwjjNfrj2qh8WL7SHoognHN1CHpy56QDcWwrED63sToin5tj8qU57kCZMPhS/mqCMKkPNHe7KwLh3AdanuuJgXCeElSKpQETcXPj2oIwORBMbyvQ2qPe4kBcJfT5QFxJgrBqFvRqvi8CITKBuC8sCJMTpDdoGtDrp+fjoJWh/CD0E9G7uyzHd5Xl8M6yu94KtL7QXywI4SburEijpyqN58NRAKdXDKExWNG3Sxcj0KeXN9Ni0OIgotDvIDoAstdhaBxA755daheEFnwRlj8BUpMmULo/DKQVn33fGGwXFNQgrJAXZFfEIk3070mCMhTF4JFvBfo5vV2+DtVbw2zf7xjeXykWRBSCqWS86KvJ+kAtBsCmH9xbcam631V114WB9CrhiCcGrwDUokQKzSoxVYjVB2cjEKp0Sgxa8IT5QHwdxEB6v5i9xFRhLF4beoXaAtl9xGKXdoWYKozFa6MwEFHoRz3RoO9jddm4HO6hMJoXajLfXZV9O7ZFIFRpDcqACkC+tFkQ7mP8j/G6fLted08fcCvnquFkQUHE+DeLAxEINShDHYqDdNo0CEf083Vig68MwHOD8JRtBcJk6OM7DnUKofcaxhYKsmlDvwbpvxzEEMSxAOGR1yDUoMx1yJc2DcL5ZiCuEMYWAvKlTYNwT/8t0SCM0/snJwgtuUl9YfcPw4JQFDWIkQGUtiWRDL1//iJos5ZEJuN/y9d+AT+iVcVamUr1AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xs2WXUsUYRTHd4ll2WXpM3jbnVfdRTcF3fViZC9SZGkpEUlhihWZImUhmL1goWAtKlYbQlQkRd10213QF+hrnPo/M//xzJlndcadwgN/ZuaZs3t+e855zrOFwva3ovjle//PrSj3Rzrk3vBhp4nrh2T82kEnQtSnz8rC1BmZf3DaA2V/RMvgARChAERZmLnJLnk6cTIWGM94ZxWHygRZlKmbRxNQuAKEItDj8eMyffuY88XVBwR/Df15ZUQ+LV7dGhSBcM/sEOjZ3VMOiL7NgPC5teVh+doYlW+NMQeEGO1tbU42urEg7fzVBEJQH9DMnc4ICPc+oMWZ7hgQ7glkoxsrxsqAQGxuPFsgBAcEy9sMaOVJT35AzBLWfEDMJIGQNQv0ZrY3AoIyAbEvLBCCE0g3aBqgt88vxIGWBlsHwjohevaU5MTukhxpL7nnzYBW5/ryBYJc4I6y1LsrUn85FAlwOmOQhkFG3y9cioC+vL4VwWQGIhTWHYgWgOxzKA0HoA8vLnuBbPQmFnwR0p8AUkETUHo9FMqKz36sD2wVKJhByJAXyGbEQhr17U0C6aFooxsLtnwzoN+TO+X7YK05mF37q6ED5XyBCAWxlNSr3qqs9ldjAGj6gX1lV6qHnRX3nBuQzhKu2DE4AjCLEiU0WWKpoOVH5yIgTGnCpALCDvMB8TiIAel+Mb3EUsEXx4bOUMrswNaBbB9x2KXNEEsFXxwbuQERCuuYJxro52hN1q6EPRSqcbEqs10V2b9rRwSEKa2BCGWjeywA8pXNAuE9/H+N1eTHjZrbfYBbOl8JgwUDEf7v5vsjIMygDHMoDqTLpoFwxTqPEyseGQBvGQi7bDMgBMMazzjMKUj3GnxzBbJlw7oG0n85CEMg+gIIW14DYQZlnkO+smkg3G8ExAzBNxcgX9k0EN7pvyUaCH66f1oEgiWb1CfbP5QFwlDUQFQGoEKBY30jWUAt3T+5AKU1C5kGllr3/U9mIX2yn9nW9geJpqBRWRveKAAAAABJRU5ErkJggg==",
     "wiki_name": "Sliced banana",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sliced_banana",
     "equipment": null,

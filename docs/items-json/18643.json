@@ -1,7 +1,7 @@
 {
     "id": 18643,
     "name": "Varrock armour 2",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-05",
     "duplicate": true,
     "examine": "Varrock smithing armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADP0lEQVR4Xu2V8S+VYRTHPX+HTZOlSSNN0iSaJGkiSZJIkiSSZBJJYpKUm1TmziTs7q4m+ak7P7X+rdM+5+7h3tuNe1+2+uGe7dl937vznPM93/M9542Li1nMYvbPzUj4E85Cff7m59iMrHm9Mj/1Vppqa+VFX5/cvdEg54uKwiQz0tncLJWlpXI0I0MaqqslPycnjJ9j81f4a31dpkZG5M71evnxbUW+fJqXOZcrJJEfzMexMelubZWKkhIZ6e2Vy2Vlu8WWkaHubnn9bFC+fl7Q4ABa/PBeXj0d0OTB1RtNvjw7K8M9PVJfVSUvn/TL1YsVkp6aKgdTUuRAcrJTUEYetbVpwOnRUVmYfqeAYIrn/vsdygDHtm7y+ZDMjI8rUNfwsLaXYgB2LDNTWwgwB4CMVjj4sEsDkxz9wIrv+6oyBFB0Yg/+JKddXS0t+gwz7sk3qqMjh9KVTYDxHCUoo2zQLoIvzcxo9byjnZXFRU1Me2DBMoHY8UM/FAIz+PIOiONZWQqKX9iKEJRREI01NXK7rk7abzZqy0gYyhCAqJ6Js2DwfXyvfUNjP30+fQYQIOzv4bS0yAGRjCBUSavQBYyQbHV5SdsAgwDhdNxq0jv24EsLAQQ7aI4CaSF6K8jNlRPZ2ZGwZDShd25O1jwepdvjdisjBCUZPvxH+2CCtqAhmIJNgLIObIvxZ+oASYEUClh8zxUWytlTBduD2uoADsCwRBsHHnRq8EC22FewsdmW7Y5jM1q9ZQAwJGYK0RtMwRi7isrPnMzfacJQC63EqJ5oBbQDxrYAZq5cKNcJYrTRSTCYHTNi5HReniaA+v1JSRqMdlgAgIMpQKEnhFteXKzbmHubyY2KmDj7EhOdgvKL0U4ZgrQVIlxEjo6YPEACCC3RMnbN3oQE/VTYO2hvdmIiIE7UZvQybDC6aMQGhxUmzYLlHT8+NegHLbFv9sTHb9xhAAC9GSdqM8oAyWhPIP38z6TBkgUEa4ib3UNSdBR4Bx8WLpPoGBDtuHapUj+ggcFtm2CI/UL1MAQD7CM2ePBH1Oj/xEL4DgFhfrqDA/jpZ0nyuQAcombyYMYW8Kd4w8XaNQsMvtWJWcxi9v/ab7tXYOeRlI5bAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYUlEQVR4Xu2V/y+VcRTHff4Om8jSpPnSJE2iSZImkiSJJEkiSSaRJCZJkVTGTMLMapKfMj+1/q3TXuf20XNvj+t6ZuuH7tk+u8+993zOeZ/3eZ/zRESELWxh++dmxP24WaDPVn6ezcja8rLMjr+RuspKed7VJXeu18i5vDyXZEZa6+ultLBQjqSkSE15uWRnZLj4eTZfhT83NmR8YEBuX6uW719X5PPHWZkZG9P/kqOjfyfzgfkwNCTtjY1SUlAgA52dcqmoaLfYMtLX3i6vnvbKl09zGhxA8+/fycsnPZrcv3qjyRenpqS/o0Oqy8rkxeNuuXKhRJISEuRgfLwciIvzCsrIw6YmDTgxOChzE28VEEzx3H2vRRng2NaNPuuTyeFhBTrW36/tpRiAHU1N1RYCzJ/VkMxohb0P2jQwydEPrKx/W1WGAIpO7MGf5LSrraFBn2FmevS16uhwcpKyCTCed8iSUTZoF8EXJie1er6jnZX5eU1Me2DBMoHY8UM/FAIz+PIdEMfS0hQUn7AVIiijIGorKuRWVZU036jVlpEwkCEAUT0TZ8Hg++hu86bGfqyv6zOAAGE/DyUmhto6o8kIQpW0Cl3ACMlWFxe0DTAIEE7LzTq9Yw++tBBAsIPmKJAWoreczEw5np4eCktGEy7PzMja0pLSvTQ9rYwQlGT48BvtgwnagoZgCjYByjqwLcafqQMkBVIoYPE9m5srZ07mbA8q2AEcgGGJNvbcb9XgTrbYV7Bh27LdoW1BW2cdAg+Xqd4yABgSM4XoDaZgjF1F5adPZPslDHYCMWxhf1eDnmgFtAPGtgBmLp8v1glitNGJf/XOOJ7MyKmsLE0A9ftjYzUY7bAAAAdTgEJPCLc4P1+3MfcsID4RMXH2xcR4BeUTo50yBGkrRLiIHB0xeYAEEFqiZeyavVFR+qqwd9De1MjIZpwdtMma0cuwweiiERscVpg0C5bv+PGqQT9oiX2zJzJy8w4DAGgbxxMgGCAZ7XHSz+9MGixZQLCGuNk9JEVHzjv4sHCZRM+AaMfVi6X6AnUGt22CIfYL1cMQDLCP2OD+L1GjvxML4XsEhLntCh/9LEleF4BD1EwezNgCrHj/JHaL5cHsZf8AzhHe+gTec4+1S+YMHuwE3gtb2P5b+wWaIq5RqTaZxQAAAABJRU5ErkJggg==",
     "wiki_name": "Varrock armour 2",
     "wiki_url": "https://oldschool.runescape.wiki/w/Varrock_armour_2",
     "equipment": null,

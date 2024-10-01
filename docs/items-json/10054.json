@@ -1,7 +1,7 @@
 {
     "id": 10054,
     "name": "Wood camo top",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "This should make me harder to spot in wooded areas.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu3X/2tNcRzH8d0fSaSt6Vqma5l0C63QCilRpNCETITQJCWitciXtXxrteZLaKtpzVpMSoiIv+yj5zm9bu/zOZ+77rnnkB986t05930+Z5/HfX8+n3PPWlr+/VZy4Qhd/+Ot5B4N9bkHg4eiGLlx0A1fOxCFENNjp93U6Ck3+fhkAOV/idzwGCQUIIWPmXh4wj0fOZ4YmM9c8yOJyoQsudGbh1MojkAUAj0dPubGbh+J+nIMgehv0d/nhtzXmavNoQTiXNUR6OX9/gikvvVA3PdtdtD9nL/jfs3fi0CZMPxRfWuBGDQEGr97tAbiPASaGT+TAHHeIKiUmAYG0uLmsw9icBCa3nqguWfnigOpSuQEsushFD7o3YvzNRCRCaR14YPsbqpW2tzajuWuUl7q1nW2Rse2ZYtcuXWxW9W+JAV7/+pCEvTmen4Q17Zv6HBb1pddT/cKt7GrPTrnKBQYjsAACvVhYqBYEPldPavdzk2drre6MoLt21YNBpUDBor7mOJPU5dqoB9vbzWKoSVBQpHfs7kSocBYEECLoVpCCfT59eVmQbR4/tkxIRBVIgAAsyAwrC9NoUBfpq80C4qfQVTIB+3duiaFEoxgLYHR0VbJgjI8FOMt74NUHVWDhQxKME2bFjrBZ46gCgUR5LWYtaME0poSiKA65MlxrqnLDSJUHUDa4srZ6dPjgADM9JIDqCoB4indIIYW77CFQAxArm9Hd10QgP29XYkq2Qo1BRJKIE0LQa5/dzWxyO36YooA6YvoSxQK0o5i4PgPxuFXSXlAgFUlC8qAikF22uygCnL6XbPbnwiBlAfEMyjDcygJsigbPOiU12AWxG+Xf4+2fWYQu8wHsfXJAeFFiwH1DuRj6Md1+vKqQv+Pkxfzg/zdRt6C9DZpq0SO+9QX0OyTswkQz6DMz6HQtFkQ5wIJpR9iWyH6FgIKTZsFcc3+V8K5QPQDpOnKCaIlF2O9sBgbPoh3aQtSZAA12tJIhV0/fxG0UEsj0/G/5Wu/AYgPm79kf/VeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xs3X/2tNcRzH8Xt/JJG2pllm1zLpFmuFVkiJIoUmZCKESEpEa5Eva/nWas2X0FbTmrWYlBARf9lHz3N73b3Pe5+77tm9tE+9O2fv+zl9Hvf9+XLPcrnF3/IhHrHP/3nLhyf9PeFR3+EkBm8dCgM3DiYhxMTwmTA+dDqMPT0VQfkvUTO8BBIKkMJjRh+fDC8HT6QG5m8+85FGZULmw9DtI3NQXIEoBHo+cDwM3z2a9OUaA9Hfon9O94fvk9cXhhKIe1VHoNcPexOQ+lYC8dyPqb7we+Ze+DPzIAExRmdbWxJ+dNdKZde3FohBY6CR+8fKIO5joMmRsykQ9wL50V3Lp6aBgbS4+duDGByEprcSaPrF+fqBVCVyAtn1EAsP+vDqQhlEZAJpXXiQ3U3FQmNY37IyFJqXhw2tDcm1ccWS0NywNKxpWjYH9vHNxTTo3c3aQXy2Y1NL2LqxOXR1rAqb25uSe65CgeEKDKBQn0Yv1RdEfnfX2rCrszV0F1cnsP3bi9GgcsBA8RxT/GX8Shn06/2dMiYzSCjye7cUEhQYCwJoMVRLKIG+vr0aBfnRK7TS/LNjYiCqRAAAZkFgWF+aQoG+TVxbKKh0BlEhD9q3bd0clGAEawmMrrZKFmQPRT+6a6Ut70GqjqrBQgYlmKZNC53gb66g6goiyGsxa0cJpDUlEEF1yJPjXlNXM4hQdQBpiytnp0/HAQGY6SUHUFUCxCktTFUgdth8IAYg17OzoyIIwIHu9lSVbIWqrA5tFiSUQJoWglzvnmJqkdv1xRQB0hfRl6grSDuKgckpfJWUBwRYVbIgofzokVYC2WmzgyrI6XfNbn8iBlIeEGdQhnMoDbIoGxx0ymswC+K3yz+jbZ8ZxC7zILY+OSC8aDGg3oE8hn58Tl9eVej/eexy7SC/28hbkN4mbZXI8Zz6App6di4F4gzKfA7Fps2CuBdIKP0Q2wrRty6g2LRZEJ/Z/0q4F4h+gDRdNYJo6cVYKSzGhgfxLm1BigygXE7H+nzhgTbs+qkLqNrmkdVgFbN9/1PzyFj4ZxZ1+wvSE+ZLqLUnRAAAAABJRU5ErkJggg==",
     "wiki_name": "Wood camo top (Inventory)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wood_camo_top#Inventory",
     "equipment": null,

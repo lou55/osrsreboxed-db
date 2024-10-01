@@ -1,7 +1,7 @@
 {
     "id": 5589,
     "name": "??? mixture",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-27",
     "duplicate": false,
     "examine": "A very hot vial of something or other. The label says 'Cupric Sulfate'.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xt2V/U9ScRjF/f4J/dhctea0zFqSIgakWEqIoUMlE/IFFMJkpJYh5EyXzhwuM5ZzMjUjFWcDDHtZb3P9Y6c9X7rXK/bj5bJ5trMx2ODDec7z3IKCkyGGo86rGNydRbA1nUWD/jSuXT6VbyiGrYgesdc67uH+Ujis5/MJxUSY1XA1/M4LuNd8Ll9Amc4IQNGXGgx2l/Dx5aFPDJbmNlitHWI6b6fV8N4vRqvpDKqqdNDq6pSEYrDbe475jqUNDUYLag1GlJerlQVye7zcHs+AaHOTFbfqzVCrtSguKVUWaGj4sWi/fwiDg36YGltwXWvApbKrKCwUuqSYGDY3t5FKfUIymUIikeLjUqmq8lFqEoPT5UYgMIZQ6Bk3jauiojofMCQGn8+PYDD4zyGxP3kD2v+zzxMKjAW5aWQazQ1cLL2iNBTDSmoF6YO0aILrm+2D1W+F3qpXEojh+fokkr+TSB3siUATaxPwznthG7XB0GGApkmjFBTDanqNw0hNkL6ID50hO4xdRqVSYnixMY3dnx95QoIJaOrdFEaWRtA12Q1zv5mnpG4UTkDOxBDdiyLxK8EthZqJzSCwEoBz2gnLw2aekrZFl0sghtnYLLa+bYtAUtNn46vj6J9zo3WojadUa6vNZUoMy8llPi6pBaC5zTle7IGFAdx92sFTqnfU5yqlTDrvv8Sw82OHOxssvB3mxfZHHsEx7uApmVwmnlKlsVJuKIY3uxHEv8dFIKkJ6FV8gRf+yfIoeqZ6+fpbvBaeUrVF1sdJZrNo1QlIainU4s4iL3YwGuIHktafjiSlVNNeI2dKjP97KrPgbDAyJSgUmw4krb+QUp39ppwpZR4TH75+OAKVDbeUWBKLTQfSNeMSUzL23uYpqRpU8kERkNTZYLSB8/F5Xmw6kJ7wA55S+0g771GZrkwuGBLDenqde+PzBjdtHFkApBSFYtOBpB4RDF3sovIiOWEE0RdmxkfXmkouABIYvScUm2Bo7Q97IzuMVMIPZB6yAhS9pmJTd+goKgDyPx3CHfcJ1F8ZmTEon5ht9gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOElEQVR4Xt2Xa08TYRCFeX+CHw1RMQQU0QhCKbbIRaFysZACFQG5Qy3SVECxtBKECEFSIiKREBpALJcSTFsEL/EW4h87OrPusqx+0bTbxElO0rTN7tMzZ+bdJiX9HyVwVAktgZ7GVNirTqKs4DgunT+WaCiBzfkCBJ+bWQPdGWi2nU4klFBglv35cHecwa3qUwyUlZKiN5SUGRko8NSIvtZ0bl8C8iRgra6DzdaguPNywgDn7TTUlp9AXp4ZJnOJnlACTU1tv+mGtQ5lFiuKii3IyjLo2bqf0+VwshyOXkWVVTZcK62EwWBCWnqGvkD9A/cVud396Otzo7yiBpdNxTiXeRHJyVKWdAKiEtjY2EI0+haRSBThcJTblZ2dp4SaYHQF6ujsgcczDJ/vEYvalZOTnwgYKgGXyw2v1/tLPiU/OrdKLoH97/vskGfYy6KWGY1XcDbjgp4jTyWwFF3C3sGeIoLrmuqCzW1Dga1AT5cEHq+OIfItgujBrgI0ujIK54wT9iE7ihuKYawy6uWSwPLeCsOoRZCueRcafU2wtFj0ckngydoEdr68YYdkEdD4q3EMLgyiZawVld2V7JKhQl4BcSuBwG4A4a9hlhpqMjgJz5IHHRMdsN6tZpdMNeZ4uiQwFZzC5sctBUgt+mxkeQTd0z2o7a9jl4rsRfF0SWAxssjtUksGmt6Y5mD3zvbi5sMGdqm0uTReLknuvH4fxPbnbZYWzL/l52C75++heaSZXSrvLGeXci25sXZJ4MXOPEKfQgqQWgT0LDTLgX+wOIS28XYef6vTyi7lWw+PE+2V/6GkyaJRJyC11FBz23McbG/AxwuSxp+WJLlUWF8YS5cE/3oKsywtGIkclINNC5LGX3appOlqLF2Sjon1D+tHoLRwC+EFJdi0IDsnOxWXLO3X2aXssuzYuURAamnBaAJnQjMcbFqQDv8ddql+sJ5zlGnOVByKiUure6ustXdrLJo4kgxILsrBpgVJOSIY2tipWamxhJFLegqkG9O2ppDLgARG78nBJhgaezk3cYCRSrqg/J9LOmRlKHpNwabs0FLUgsQcRl2HNziE00oXkD+V+sZaab/7t/UDoRlmMzQd9AoAAAAASUVORK5CYII=",
     "wiki_name": "??? mixture (Hot)",
     "wiki_url": "https://oldschool.runescape.wiki/w/???_mixture#Hot",
     "equipment": null,

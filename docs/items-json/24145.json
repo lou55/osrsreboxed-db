@@ -1,7 +1,7 @@
 {
     "id": 24145,
     "name": "Staff of balance",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-08-29",
     "duplicate": true,
     "examine": "A ghastly weapon with evil origins combined with an icon of balance.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu3V22sTQRQG8CyLD5aSIumTPgQRhdiqMWgvUmPzULAxaL0XFYtKFUUFLyilKF5K8Uah1AsqLVRKLUUrgqgoiv5lR79ZvunsZIzZZBUfHDjsZjO789tzZmYTiX+/eeIO1/9/vHlyf3iv3B3arWL0ap+MXN6lgoiZ8WMyPTYgUw+OOlD2S9QND0BEAcSwMZP3jsiT0UOhgfEb/9kRRkVCejJ2bV8ZCkdAGAQ9GumX8RsHVF8cXSD0N9Ff5ofl0+yl2lAE4ZzZIejZncMKxL4uELP6eW5Ivi3clO8LtxUoEgYP5VsThEFdoIlbBzUI5wQxG/mLJXU0QTivEuSFyoCBOLnx2wZhcCBYXoLwHL87I/7GtGwZ2BYviFnCNReImSQIz/DSzbLz3A6dpddPT2oQIhKI88IGYXAbZE5oDo5o7V6nQej35vmpMOjllfpBuA4QUcwk+qispBple2+bjvaujAa9nTwdLwgBgAkyJzTuy2dXS9+eTkkkl+pMccm/nz6rQV9fXa8WgxYGmSg83AXCPalSs/QXN/3EJDTE3IM+vDhfKwgteDsMVgnECY2+fs4Xv2uJChfo48yFWkHBHoQM/Q7ELKqHL09Iw9oGadraVAZCfxMUYVMMlrwLhHCBcI+9wvAMMzuxgohCYIDZieNqAJyj//5CTqOAxn12uWIDmVnC0QSh74ZVK6Qju1KdM4su0NzDExqEXbpKDFqwwlwgfp8AQr9Cbo347X4oOy4Q8POPB0MZqglkzyNcZ5n8nlZpbEtqzK9ALBc+G7GBiMJ1YpKdwUoyN02cm5k0QdilTVAEVABylY2gYkeLLOtJVQ1Cid9NndEg7EER9qEwyCybyk5vVs8bXLfLZYOQnbpBWGU2KLjZU6Xi3AHSBeJcY7liAxGFa5szaSnmW6RUWK9+Y0AMbpeLIDyDICx5E4Q9KPI+ZJeNGULgjdGnEsicP7GAXGXjW2MQ/Oea0Ah+NliuOkFoi9moFPb8YdggbIomiBEBVG0rRzLM+fMXQZVaObI8/rf62g8q6Dj9pEpZcgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xs3V+0sUURQH8FmGfkhEifWn+kEjCkyrTcpHmLk/CLktZW+pSCoqigp6UIgUPUR6IYg9qFAwxETKCKKiKOovO/W9w/d653jddt0pvHDY2dk7cz5zzp27QbD0R0r84fv9n4+UPBrYLw/695oYutEjg9f2mCBicuSETAz3yfjj4x6Ufoiy4RGIKIAYGjP28Jg8HzoSS4zv+E1HHFUSMiXDNw/MQ+ETEAZBTwd7ZeT2ITMXnz4Q5rvo7zMD8nXq6uJQBOGY1SHo5f2jBsS5PhCr+m26X37O3pFfs/cMCOczdXUmdHY1orLzqQlCUh9o9O5hC8IxQaxGx5W8+XRBOCZIZ1cjFWsDEnFx47sGITkQbC9BuE/YWS/h5lrZ1rcjWRCrhHM+ECtJEO6Rqq2R3Rd32Sq9e3HGghAlgbguNAjJNchd0EyOaOzcYEGY9/7V2TjozfXyQTgPEFGsJOaYqqQrZWd3s42W9noL+jB2LlkQAgAX5C5oXNeRWSs9+9okqFpuK8VX/tPEBQv68faWxZQMclG4uQ+Ea9L5GunNbfmDCSzE3YM+v77kBensC4zo6ZCsEIgLGnPDplDC9mUmfKAvk5cXC4r2IFTobyBW0TzAykAq1ldI9fbqeSDMd0HupqizqxG98j4QwgfCNfoNwz3c6iQKIgqBBFOjJ00CHGP+wWyTRQGN63S7EgO5VcKnC8LcTWtWSWtmtTlmFX2g6SenLAi7NDFFgfDm+ED8fwII87JN6yRsCWPV8YGAn3l2OlahIquDMQfS6wjn2aawq1Eqm6ssZiEQ24W/jcRAROE8MVVt0Zvkbpo4divpgrBLuyCidHbPiEC+thGUa22QFV3pokFo8cfx8xaEPaiEfSgOcttmqtOdsesG53W7NAjVKRuEt0yDovKmTKu4doD0gbjW2K7EQETh3Nb6Wsl1NEg+u9F8R0Ik1+0iCPcgCK+8C8IeVPI+pNvGCiHwxJhTCOSun0RAvrbxqZEEv/kWNIJ/G2xXmSCMuWoUCr1+GBqETdEFMUoABQG39UKhgW646ycRULFDI4vBMubm/qehkb7Q1yzp8Rt07IOJaiNXFwAAAABJRU5ErkJggg==",
     "wiki_name": "Staff of balance",
     "wiki_url": "https://oldschool.runescape.wiki/w/Staff_of_balance",
     "equipment": null,

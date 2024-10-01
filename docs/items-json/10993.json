@@ -1,7 +1,7 @@
 {
     "id": 10993,
     "name": "Powerbox",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-20",
     "duplicate": false,
     "examine": "A powerbox.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLUlEQVR4Xu3W/0sTYRwH8B0RsXFsyI2NbTTYhsYURg5sDiwmqSUFaimJgmKwGA0LtZiIiEIo4pcKg4KICCKUfuhPfMf7Gc+6Pds5kOfaED/wZsfu2L323H14Ph7PVWkrAxeP9jIwmumqy3BfAHfTAeR7/LiTMtGfMJGJ+9Ab86E74kUidAMxqxrNKAPjty08zlri5oVMGA+zEUzkYniSvym+53kVSRxR4cB1nSADkwNBcTP+82yqC/l0sA41MxTHfCFRC1G8luHqaARVMU6PhinPT6JSnMXO8gIOKy/EdfK8XB1NIAPP8iFM54IC1eyx2JFq7KujDTQzYGJuKIyFe2HxaQeeh+QK8aWWGK0ghiBmqRARsQPVVSQoGaoi4iGfO6BmqOJIVMSOJEyC/F4Pota/VdIKmsqatQ5avJ/E89Ekig9SKI13o/yoB68mbmFlKu0Issxr7oGO10s42Szj8/brzgH9+bIr8m13DT/2K/h1tNE+kMTYc/p+s3NAg5nE/wPN5vwNoA8bLxtQbQd92lruDBBbXnbY13er+L73Fj8P1nH2ccsRRIzrIPWRtQKZXhdBKoYv9RWIIGKcQL9PttsHUjuMaStI7TC2vBNIdphrIO7ycqfnptoKRIiM6yDu9Ax3+jdPe5uCuDqaZiFWFaSOrwyP5Wgrh7XSWLQOxHmaQ74mDMuoTYQqSo6rDI8l0g7ikK8RI4s/2DzqkM/wmCAO+S5gWlUjsj6XqP4CNGuEIKYXxrsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPElEQVR4Xu3X/2sSYRwHcI+IUA5lnCgqyVS2cANZwjJhhVGrRsG2amw0WDRwSLKirXCMMRbEIvrOgoKICCKKfuhPfMf7kcedn3kz4rn0h33gjYd3eC+f88PzMRA4KmNl4d9jvCxMFgbacmE0gnP5CMrDYZzJ2TidsVFIhzCSCmEoEUQmdgIppxnDKAtTYw6uFx1180ohjqvFBKZLKdwon1Tv87xEEkdUPHJcgcYGB02gLMyMR9XN+M2LuQGU89E21NxEGouVTCtE8VqGq2MQ1MR4PRqmvjiDRnUBT1aX8LKxoq7T5/XqGAJZmC/HcKsUVahOj8WNlHGvjjHQ3LiN2xNxLJ2Pq1c38DAkV4g/ao0xCmIIYu5WEipuoFxFgrKxJiIdC/kD6oSqXkqquJGEaVA4GEDS2V8lo6DZot3qoDsXs1iezKJ6JYfa1BDq14Zxf/oUHs7mPUGOfcw/0OuNGva26viw86B/QL8/7qp83l3H1+cNfH+12TuQxrjz481W/4DOFjL/D7RQCh8Avd28dwDVc9D77dX+ALHldYd9erqGL88e49uLDfx8t+0JIsZ3kHxk3UB20EeQxPBHfQQiiBgv0K+9nd6BZIcxPQXJDmPLe4F0h/kG4i6vd3puqt1AhOj4DuJOz3Cnf3RzpCOIq+OehYyA5PjK8FiPtnpYq11OtoE4T3PIN4RhWa2JUKL0uMrwWCPdIA75BjG65N/h/cghn+ExQRzyfcA0S3+ojATK+ILpVhIpI6//2/oDROTGEq1xqgkAAAAASUVORK5CYII=",
     "wiki_name": "Powerbox (Unbroken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Powerbox#Unbroken",
     "equipment": null,

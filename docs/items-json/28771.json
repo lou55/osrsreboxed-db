@@ -1,7 +1,7 @@
 {
     "id": 28771,
     "name": "Sage's greaves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-11-15",
     "duplicate": false,
     "examine": "Greaves that give you blazing speed.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4Xu2Vz2sTURDH9xGWZZdlQ9glYVMaaUWLVmwJWCsYbMGIVWlRCSpUKYr4AxQFFYWKFX9cFEXxoAdFxLPgTfDuVfAgCB68+leM+33Pye6+pKi7TQPSgYEcXt585vudeWsYa/H/hqDO7FsIGi16NFYqkm1Z7ewTlKCJwE+BIGuOQ+WuUD1VT3SAIEc8j6q23aWwkCrW/VIvrBXUrIbUqJRpRzlow8C6YdelsGBqxboruYLWCjrq+dRySxIKxdC5BDIt8guFlApJ6GTC2pKpw2cKQfO/gWbdIjUdjyZth8Ytm2qROp6hgC5MmzQVVjpAkFCy+5xlDqXSwQhoJgJq2C6NROrALjdSqFU3JVDSWlYScwZ10tbmBhM0Vxtoq7TNcqRd6Bo2AKi5qdBhLQYb6kDJpLXX9+ZWSwHtH6zK7pNd71yvFOJigAI0VIStAMc5tvbKnhWAWfACmQyU7FoHYiUxa1AS1kJJ5LldpszcQBhqzunE/KBrAG0fiu1gJWEbLOOH89iESacbJh2fzAUUr7zedRJoQ9mQRRiagfjhhJoAAVQuGF53bBev+xZtLgCETVtOSZxFHho3aXYrK/nPoS6HOl9vu/TpmisLsDromIE2h4acJT6vDzWfnxmNwfVqfxGCfj706Ps9l77ccunDRYdeL9iprWEgFEFBthYwDJ9UM6mkXu0PIejjJYfenXXa6uD30yO2LMDbhQQQiunW6urgzNiAAsoAFQNBlQeHLfmQYUMwB7icYfhtgZrf7ij49+ed1KxxAxlhEAroccumpQMW3Z2z6PJutbZTG2NlUAhnYeeP+x59XlTWvj2pmuCB1q3NBPRi3pZAi/uUMkhsCGT3bEMWUxcrIEDAUjQAeKw4zrM6bG0GGISgV+EQPa+so6WgSmeK5dTaYzbiixUQFEGiAbzEupo5YBCCHpUH6UmlRjf8kE4Vg/bmsCrJs6wmlMF3itWs1woUuEZeGA4urKcegl6eUHYBhu3Cl5+3q/v/ehaC3lSHpcU3/apcf1iLDcOcxbO2qiHoWWTv1chezBrmDLm8qqsSurV9A1mL/sUv6P55K5bf3iAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADP0lEQVR4Xu2Wz2sTURDH9xGWZZdlQ0hIyJbGtqJFKzYUrBUMtmDEqrSoBBVaKYr4AxQFFYWKFX9cFEXxoAdFxLPgTfDuVfAgCB68+leM+33Pyb59qWKyiQF1YCCHyc5nvt+ZTSzrf/y9Iag1+xaCxrIBjeey5DpOM/sEJWiykE+AICueR8VVoXqqnmgBQY4GAYWuKxtXh4Zkcj1UnMjnemGtoHpYplqpSNuKhSYMrBvxfSpn7CYQ16+mZBetFXQ4yFPDz0koNMPkEsh2KJ/JJFTQofWEtTlbwZsd2gxBCz+A5vws1b2AplyPqo5LlUidwFJAZ2dsmi6XWkCQUJL3LGltx6FU2h8BzUZANden0Ugd2OVHCjUmbAmkW8tKYs+gTtLaLqg0XxloqrTF8aRdmBo2AKi+IdNiLRYb6kBJ3doru1PvkwLaOxjK6fWpt69VCnEzQAEaKsJWgKOOrb24K7V1gpaCgkwG0qc2gVhJ7BqUhLVQEnl6hy0ztq6jUEvNOaPtD6YG0Nbh2A5WErbBMn5xHpm06UTNpsWpVEDxyZtT60DripZswtAMxC9OqAkQQKWwKz53XBef+yZjLwCES/uZkqhFHqjaNLdZ1XUMA3U+3fDp/WVfNmB1MDEDbSxbcpe43lxqrp8di8E7Avp2L6Avt336eN2nt+c8erHkJq6GgdAEDdlawDC8rqauZJtAgt6d9+j1Ka+pDj4/OuTKBnxdSAChmWmtqQ5qxgcUEEOZXX8RMRBUuXvQkS8yXAj2AA9nGH63QM3PNxX8mzNeYtd4AB2mzaVWQA8aLq3sc+jWvEMXdqqznV4fK4NGqIWdX+8E9GFZWfvqmBqCF9q0tiPLni64Emh5j1IGiQuB7IFryWZKdgUECFiKAQCPE0c9q8PWdqAOQtDz8jA9Ka2hlUJIJ7PFxNljN+IpFRAUQWIAvIlNNVPAIATdLw7Sw1KFrubLdDxbaF4OqxI/OFYTyuB3itWcqGSo4FtpYTj0v51x8kPjBwt6dlTZBRi2C7/8fF1dgFGhN28F4RD0MhyRFl/Lh/L8YS0uDHvGu9b6vZ6GoMeRvZcie7Fr2DOkqar5rR7H79j7h8O0tm8g/0x8B5b6v2p4eayyAAAAAElFTkSuQmCC",
     "wiki_name": "Sage's greaves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sage's_greaves",
     "equipment": {

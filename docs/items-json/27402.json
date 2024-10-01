@@ -1,7 +1,7 @@
 {
     "id": 27402,
     "name": "Adventurer's boots (t2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-10-12",
     "duplicate": false,
     "examine": "The boots of an adventurer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKklEQVR4Xu2WcUsCQRDF3T8kEjFEUVQ0NCzSyAyzoqxAsjLBQqKIvv/XmHweszu3a5p31kH0YFBG3fnte+tqLPavvytF5pErMil6mrzNIKrZlK6IoDw3JAiqVcpFAeSCoAeYr4FkpGuP1gzvD4ZfwMiB7gbWHK0BkGWGKHoYPevnNsgPROsC+Xes6KJ348Aw4GI3A0vR43hCzYOWHuwf4B9ul3wv1lkDlKK74XjOeZAD5gP5hxs3TW9luedCAp1dXGkgvIa7qnfd1z25Dt9jphdI7s552PPLu9ixBySjtde5vR/N6a8sF4jLdoMddIEUTV4/1hEXpKh7dkntzimVM0lqFrO60N/LZxwg+S1DwUlzNYSWBySHMRDOTz2X1oNtB6WTWCMkkNlhKh5zCs4ABq5Jhzrdc2q1T3xOAihkXN5usRiGVjMpKqeTDhQAthIbGgiOAUi6iMJPjnFyZU0j2i7QcSU/g9JOWED1fJqyyU0Nw0DoSxdRiAufDwCkqFcv0XmtqKGwQywKlwDAwwpbCQ1iu2lHi55x8ttS1N/fppvdioZilzBMAslzA/BFQBztijAsRYNGdQYlXcJADCukEpTYiGsYgEsnGQjv0w4V+VoIpOkF1t2lp07diQ6DGITdXAYEZ4ybgaRo1N6hh6MaDQ6r1G9OI2xU5uxyOZD/wIeSccFftpSO1gYKcWbCyMTLB3v2NXfc/DV58cpoWxX7/8+vy441Uph/RadPTL0nYdvP/uoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQUlEQVR4Xu2W/0sCQRDF3R8iEjFESTTSLCzKyAwzo6xAsm9ChUQR/f//xuS7Y+bmdlPrzhSqB0OxnTufeW9vLZH41++VoeAn19xk6HHw6kFUcmmpOUH5bmgQVH11xVs/WF+fJZQLgjXAjAbSkU492qB5t3c3AkY3dAeYcrQBgK6giaHb/pP8boP8QLQuEMOwO6edSweGAce7GVmG7h8GVNurS+Nwg3Bzu/Sz2GcKUIau7x5C07sNPgfiZ203Y8TnngsN1D49FyD8DXdV56IraxqG77FgLZLcybnZ0/ObTMxAOtpwY0NXN301TGS5QFy2G+ygBuI9Bi/v04gLMtRqn1GjeUxr2RTVijkprG/nsw6QfstQcJKvhphxQT6QbsZAOD/VlYw0th3UTmKPmO4EE6YXEk7BGcDANe1Qs3VC9cZRyEkAxYzLnxaboWklm6a1TMqBAsByclGA4BiAtIsofOWwkxGAhhGVC3RYyntQ4oQFVM1nKJdaEhgGwrp2EYW48PkIQIY61VU62SgKFCbEpnAJANyssJwUENtNO1qssZPfADLU3SnT5VZJoNglNNNA+twAfBwQR8sw3wCCDPV2Kx6UdgkN0ayQTlJycUFgAK6dZCA8Jw4V/WshAgw0vMBaW/TYrDrRoRGDsJuTgOAMuxkBBjLUb2zS7cEG9fYr1K0NI9wtfTLlZCB94CO6wwpc0OVuaiRaG8g+MzFgfOmNRm8axMsH23vNHTdnJj9eHW29ZP//M3N9JdoZy451rjB/Rh8jHn1ljPb/hwAAAABJRU5ErkJggg==",
     "wiki_name": "Adventurer's boots (t2)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adventurer's_boots_(t2)",
     "equipment": {

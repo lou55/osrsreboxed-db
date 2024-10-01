@@ -1,7 +1,7 @@
 {
     "id": 8393,
     "name": "Shield easel",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xt2X/WtSURjH7/khZDGUMdnI2GIKRS9kG2MvZMuxN1PpZraQrVWYjrUyiSWjIAMJ+qF+7e996ntO555zrveYytylHnjYPG/P5zxvRx3n/xdG/pEQhdG1mSiFAGUzyOjm3LkDMdrfnrMYZbRwdcIyNzLpDbR6K26ZG5n0Btpdn7XMjUx6Az1em7HMjUx0oG5tPMtSZfPKeUIJoKXrk7S1eInczGUOgLEXuSTVH6bCAYJRKHJG5Y3QMwbSQxAkAgje8YdLqj3HBhZGJydHdHr6lg4PDyyHMh6a7Py0BwA4fL6XnuJlX1y/zUMZvL9v+Z2QjSqHabWOqVR6YDlQAME4/gfI8d59OqqsUf1phqpP7lJmIXUW1cY4TLNZ495x3R0jDPq6aiHpNUCA7RWXqJJfpPL2PD3aTHMPodoO3OVhoRilUzHqdFoeFDyUTIx7qg4WQKgyCZuIj3EgeAcQUEBKHRBK3BI3/vG9zaE+fXzHgTCmqwT42nSp+XyDhwphella8UByyyKfsH7Id43xmxVWE54iIXWFoZU7snJEWcMgPIXP+l5dh8wjYQC37jSKXL+8KdDn13lqvdriuWAeLNYjZBLIfwEogODB2emLxl5TA0UYQOniEP8mjP8NSDZH5BK8Kb2MfXrT/Dk5Rt8mIvQhGqH6+AUblGhkiDviby4SZW2+4CbQVCzCq0vux1pcQrYFeFoCxWMxT6OO0xsIB6juq+YwbgOS3lMe7FaEXVZku/2eVzGarwUGIoCQpKr7qjmMm2+TWA9vyJDZD2c8j/SwoSrt67mo17sbSM3rQAAMXhskom/hL0KLptnHPkEv4+6fCwIKXhskAggXQJPcydzoc58T9H1YPbblcuHPnMqh/g4WQGae9SUswIh432q1fcrlsgbQYF14IBBd/JsYf0rwLSCf3zCAQvj9BWH8fYOX/EAh/UKFSHdL4wLI/AYQugydE/+e/AL0qXiaAaDIjwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xt2X22sTQRSHMw8SKiWhNLQYaW0TULxg2lJ6wVhTeotJMMZWCa1ViUmp1RikhqJghCD4oK/+vUd/M57d2cuk2Zg04IED2dmZOd+c22xCof9fBLlHhiiCbkxFaAhQJoOCbs8qoLmZGcOcvougg+1ZgxcELVwfGx6Q16ig1Tsxw7uBSWegp+vThncDk85AT9amDO8GJnoOebX+PEPlzWt/ny9EFNDSzXHaWrxCxfRVCYCxl9kE1R4lLaAL8pICglEocobzhrXPQHoI/EQBwTvucLGacyywCDo9Paazs3d0dHRogBIyNJn5SQsAcHi+n5qQZV9YvytD6b++a/mTkPWKhGk2T6hUemg4pQKCcfwGyMn+Azour1HtWZoqe/covZDsR7UJCdNoVKV3isUdRxj0eZV8wmqAANsvLFE5t0i72/P0eDMlPYRqOywu9+olQalklNrtpgUFDyXio5baGysgVBnDxmMjEgjeAQQUkKwBodQpceKfP1oS6vOn9xIIY7oywLdGkRovNmSoEKZXpRULJLus8gnz9XstQOiEPFl+NW4pElJXGFqZU5UDRVnDIDyFZ32trj3mkTKAU7frBalf3+bpy5scNV9vyVxwbqzmI2QM5D4AFEDw4PTkZS1kek4aw6gMoHSxiXsRxs8D4uaIXII32ctYpzfNX+Mj9H0sTB8jYaqNXjJBqUaGuCP+bJiNY9x5gzuBJqJhWV28HnNxCG4L8DQDxaJRSyOhkLanDxA24O5rT1IJbwJi77EH/RRh54pstT7IKkbz5f2MQEhS7r46EMadd5OaD29wyPTNdcU48kgPG6qyAwzEvr29QPZ7HQiA+twOm4cwh8ERWjRNrw2PKHqOezdA/nP9RAHhAGiSO+lbXa4L+X0P25ft7m5evmMgzovzN1ZAep519qglwseIut+q1QPKZjMOoGD/Lrx55p5hEDe9kFcJvgJyuQ0HUND/XwFBbHEuEvJ+g5fcQPwPtScj/yZ2T1HGFRB/AQwByHa3HkpveIcsg4L5Df+a3PTUl+2SAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

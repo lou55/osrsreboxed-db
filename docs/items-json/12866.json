@@ -1,7 +1,7 @@
 {
     "id": 12866,
     "name": "Green dragonhide set",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-12-10",
     "duplicate": true,
     "examine": "A set containing a green dragonhide body, chaps and vambraces.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xu3XW2sTQRgG4AbphTeKeG9JQyM10rRB00hjbEhMDwaTkCbGJKa2WpRAEQ8opSgeSvFEodQDCBaEUkuRXnkhiqK/7JN3li/Mzk7i7iYRLxx4yWZ3unl2dk7t6fn3i4f00V3vevHQi+U8PVvKiazey9LKnYwII7bW5+jD2ixtvqxpUOpDtA03QIwCiKNi3j+v0tvVsumH8R3X1JhRjpAeWrs/Y0HhExAOg16vlGj9YVHUxacOhPoy+vvuMn3dvu0OxSAcc+sw6N3TigBx3WYg/N23nSX6ufeIfu09ESBHGNyUn1p+snYig3BsnP9j8ZheA74X4keoNH2CYicHaDoWoHR8iLLJIOVTI1SYDIlr5XSYLmVG6XIuQvMzY7RQjNL1Ukx84nrAe0Dcq+Og+KifkqcGaSJ6TIsDDChA6uUzAoXzMghxBOJ+oQNFhr0UDfkaOMCAAgh10EqMuVFLiE8t6OPd9kB4ckBuVcOO0jUQnhytwj+073yvSO/ifu1xK9CPTw/sYlCsoFKyT4DwinQgOc1AQd9BtyAUY5huPL7QAKGjNgOprdNhkDEHoYVUEEbXtfywiK6FZBDX04EcTIrGkNeBMLdgRFWmAiI6kIziel0H1c4dF9FhZBTX6ygIwblKyivmFkyEV3NBERkktxYfcz0GhfyHxL0wS9vEoBgjrBWoXhgRkfuLCkO4ngpCC7kCMUoGYUbWdWrdsdqpuwLCmoWOyn1IRdh5ZTxT20QZIPm14dzsZL9YJAHKjg9QPuGn4tmjFgRnLjPUCIPCg4fFvTAHOZiHzCDemjIIC2gi3EepiJemxvopfdpnAl6cMKYFHmHyKHMNwihrBsKNsdpjTeMtCK/0uMZbD0wRqL9YHe8ciFEyCAjeD/FeSMZgvWMMIPL2g0GYgxzPQ7rX1olgU+YKpL42dG6cw8Z+e2NeXJP/K8ExdgYI6vGmHnV3Xl2hz5t1+rJ10w0IxfpkusgYOSpo982CCcRxALJbrEgOWhIgtM5fBLUqVqQ1/0t75TcbpDrBL7Iu4gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xs3XW2sTQRgG4ATphTeKeG+bhkZqpEmDppHG2JCYHgwmIU2MSZraalECRTyglKJ4KMUThVIPIFgQSi1FeuWFKIr+sk/eWb50MpmE3WQjHXjZ7e5k99nZmdmpw3Hwi5P00Z3venHS6+UsvVzKiKw+TNPK/ZQII7bW5+jz2ixtvqloUOpDdAw3QIwCiKNiPr0q04fVYt2N8TfOqalHWUI6ae3RdAMKW0A4DHq3UqD1J3lRF1sdCPVl9K/dZfqxfa89FIOwz63DoI8vSgLEdZuB8LufO0v0Z+8p/d17LkC4h7+vT0S9u1KMZuenlp+sk8gg7OOYKYz8GvB3LnqCClNnKHJ2gKYiXkpGhygd91E2MUy5iYA4V0wGaSY1QtcyIZqfHqWFfJhuFSJii/Ne1xFxLdtB0REPxc8N0nj4lBYHGFCAVIsXBArHZRBiCcT9QgcK+V0UDrhrOMCAAgh10EqMuV2Jia0W9OVBZyA8OSB3y0FL6RoIT45W4Rsdutwj0rN4WLvfCvT76+Mapi1QId4rQHhFOpCcZiCf+6gWpN69STGG6cazKzUQOmozkNo6NoOMOQgtpIIwum5m/SK6FpJBXE8HkidF9e5KMYa8DoS5BSOqNOkV0YFkFNfrOqhy6bSIDiOjuJ6tIATHSgmXmFswEd7I+ERkkNxavM/1GBTwHBPXwizNGFMgjLBWoGpuWETuLyoM4XoqCC1ksnVQ9kGMkkGYkXWdWrevduqugPDNQkflPqQizLwynqmxr95dUwyQ/NpwbHaiX3wkAUqPDVA25qH8xZMNCM5caqgWBgUHj4trYQ6yMA/Vg3hpyiB8QGPBXkqEXDQ52k/J8+464NVxY1rgESaPsrZBGGXNQLgwvvb4pvEShL/0OMdLD0wRqL9YHrMPxCgZBASvh3gtJGPwvWMMIPLyg0GYgyzPQ7rXZkewKGsLpL42dG4cw8J+e2NenJP/K8E+VgYI6vGiHnV33l6nb5tV+r51px0QSuOT6SJj5Kig3fcLdSCOBZDDwdN6q6hAOWhJgNA6toDMFhVpBsvZr/ufiorURf3NgS7/AGWohU1YtozDAAAAAElFTkSuQmCC",
     "wiki_name": "Green dragonhide set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Green_dragonhide_set",
     "equipment": null,

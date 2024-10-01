@@ -1,7 +1,7 @@
 {
     "id": 10453,
     "name": "Saradomin mitre",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": true,
     "examine": "A Saradomin mitre.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADfElEQVR4Xu3W+0sUURQHcJdFFkUKCZJ+yNgfNHxg6A89IMEIIyMqKzVbM99ZmeEjF1l8rdtaKppuahqKmmwmZgRRkRYVgb/1L5383uEMd2bv2s7uFv3QhcPM3juz9zPnzNyZhIR/v9lIHarxP95sNOK5Qo+7S0X43ZfI13lRBCNWJmppaewmLYxWK1Dmi4gZroEYBRCHGTM/XEUz/uuGifEbY+YwoiwhbTTWczUEhS0gHAya8l2jif5ycSy2KhCOl9Gf1zz0KdgRHYpB2OfsMGjukUuA+NhwIJy3udpNXzcG6NvGoABZwuBP+aoZhElVoIC3QgdhXwUKBuoMIOxHCLIZyoCJ+ObGbzMIkwPB5Q0HWptujB+Is4Q+FYgzySBkzQx6PdukgxCWQHxfmEGY3AySb+jdQG+e3zKCXnbFDkI/QIziTMpPZDjQ2/nb8QUhAJBB/Aj/DoRj3y+16KAv672RYtCMIBmFP2cQjluZmSZ3S4vYxziOCwf6sNwaLQhNu3L8uQqEsR9bWzQ/Pk73GxsoOzNTzxTOQSbNoI8rbdGCtDUIGVKBMP59c5M2XizT1NAQNd24QUkOh14+VeAiZJCFRVF75FUgBMZ/bm/TYiBAwdln5O16QNXlZbQvNZUOpKVRb3ubiP7ODkPgvLiBGIWxnNxzdDC9gIZ7ekS5cP+UlpRQhtNJKcnJAjja1ysyF/D7afKhj54MekXg/JhBjBL93cfJnnhhZ/+QuGpMdq++js4XF9Ox/HyRJZTOU3dCjCGLC5MTAsZZAgirdIQYNO0JU4GCfScpMfHyDqqIOpqbacjjoQaXi86eKqKCvDxRMmCQtbGBflpfXKS5kRHyud0hJYsKJJcN/a+8OyBHJXmqc6izMptayw5TTUUFnS4spNysLGqvOiribm2NgGiTaoHXRtxAMgrZSbBn6BO5zjgpx7mH0tOSaf9eB6Uk2fWM8OOOJwyrtAyygNJA4cpmtxeILSbBuJwFOeT1B58d7xbu6CCsQRbWISPIXDa7/YjYYiL08+uClwXzxxngMYPwlKlA6MM4JsBk6FOB+LXB5YobyFw29HMJMKH8ycEYBvGxAK0+rTeAsAZZXodUZZNB2N8NJN8/cQGpyiaDMCZ/csggfrFyuWIEoYU+Naow3z8cZhC+pWUQhwVQpC0UySHfP38RtFsLRYbG/xZb+wVdnUyBoAjV6AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADnElEQVR4Xs3W/UtTURgH8I0hQ5FCgqQfMveDhi9Y+kMvkGCEkRGVlZpNzfeszPAlhwzf5pqloulS01DUZJmYEURFWlQE/ta/9OT3jGeeezyzza3wwMO9u+fePZ/7nHvOvSbT3m9m0oeu/583Mw06r9PTjkIRHsdVcrddEcGIxdEqmh++TbNDFRqUehMRw/0gRgHEoWJmBspo0nPLkBi/0aeGERUW0kzDnTe2obAFhINB4+6bNNpTLM7FVgfC+TL667KTvvhad4diEPa5OgyafmIXID43GAjXrS110PfVXvqx2idAyHE8OVmEml1p/rLzXTMISXUgr6skAMK+DuTzVhtA2GeQml1pZsMwIBE/3PitgpAcCB7eYKDlibrogbhKOKYDcSUZhKqpoLdT9QEQIiwQPxcqCMlVkPxA7wR69/KOEfS6PXIQjgPEKK6kPCODgd7P3I0uCAGADOIp/DcQzv043xgAfVvpCm+GySAZhT9nEM5bnJwgR2Oj2Ec/zgsG+rTQpAWp2YM0/53jz3Ug9P1aX6eZkRF6WFdL6ampgUrhGlRSBX1ebN4tyL8GoUI6EPp/rq3R6qsFGu/vp/rycoq1WgPDpwvchAySF0U1u9L8U14HQqD/98YGzXm95Jt6Qa72R1RRXEQHEhLoUGIidbU0i+hpazUErosaiFHoy8i8SIeTcmigs1MMF56fwoICSrHZKD4uTgCHurtE5bweD409dtOzPpcIXB8xiFHieMcpssRc3tw/Iu4ayR7UVNOl/Hw6mZ0tqoShc1afFn2o4uzYqIBxlQDCKs2YkECYITqQr/sMxcRc20TlUWtDA/U7nVRrt9OFs3mUk5UlhgwYVG24t4dW5uZoenCQ3A7HtiELsTpoWyB52HD8jWsTZC0lZ0UGtZWmU1PRUaosKaFzubmUmZZGLWUnRNyvqhQQXMOB10bUQDIK1TFZUgKJ7OdtlGHbR0mJcXRwv5XiYy2BivB0xwzDKi2DGKVm1zQ/KNiwWSw5Yosk6JerIIe8/uCz48PsvQAIa1AY65ARpA6bxXJMbJEIx/l1wcuC+nEGeMQgzDIdCMfQjwRIhmM6EL82eLiiBlKHDcd5CJBQ/uRgDIP4XICWntcYQFiDwl6HdMMmg7C/E0h+fqIC0g2bDEKf/Mkhg/jFysMVIQht+6zRhfr8cKggfEvLII4wQCYTL+s7hQqUQ35+ogIKtanIULAcW+f+p6YidaFes6fbH6ehlw1T+uffAAAAAElFTkSuQmCC",
     "wiki_name": "Saradomin mitre",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_mitre",
     "equipment": null,

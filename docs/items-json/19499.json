@@ -1,7 +1,7 @@
 {
     "id": 19499,
     "name": "Glistening tear",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-18",
     "duplicate": true,
     "examine": "In the darkness of sorrow, even a tear shines with hope.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xt2W/0tTURjGPf9TPxQkEX1RLJJRWjIs2TQzt/wyx8rWSoYrS2SoZTKmM2XTXGuIM2RFMwIj6G9663lPZ3c7u7voutukBw7q9d5zPud9n/c9p6Xl/5Eg/UmTBBBBt6dG+Kf+3wZL0PDCU7oy2ENdPnezoQSFthZoYCZAHf03yfHgTnNhYvltBnI/91O7q4uuDTmbC/RmP0WTySjdm3vMQJUw0lvlz+omQW/zWwx0P/qEnMFhbXHBoH3hsb/P6w4nKP7lAwP1hrx0wdlZsqCg6cwyPdt+Tf7Vl+RdnGIwmL6OcIIWPyXp4cYcA7X1XS8utPo1w/5CBMPpJQpuznMlImIoAJi/9Ua73WCC5vc2KLA2y6Ve7iG5UPbnZ/ZZNPeOzQ+w9ysrDIYUA8zYyD9L0GGhQJvxON0KDNLEhMdkYgmWzK5ztErhRpenObI9k0Mm39UkmZq7s48YphJIFJ+rATD4Dql+tSMjhVSOLIXtgBJsWBUFq2HAWg1bpCaSk6JBuiI+riZ44/TV8xpQ3VS+O5Q1Qo9+1O0fYCh4BP5QoxJI/7tmyQ69VshSLp3mtAEkFYuxF8ZjEe5NOrT6Vg0Y2lYojPWDHa4eGBSVg0ZYumh5qgS3CEQSJY9+ZCOQkh4FA6S88mRaUZHKYzbClC5eTQYUfo98jHEqcXygZ5l76liy2r2ZjHTBb3O7CU4XgGy4ogiaycZ5QlSQvnv9bUNyA/CYL/6C0okEp8v6myNLhj04Ks+ss47LxYjpbxr6c2R82+XNoBJRgejM1t8cWXKnmFQ1PZzWp9paLRaQQNgIbgQwdfV3jy1Be78OuLxRKQGPhy/1l3oddKbzYpWFBKW+5/heBEOji5u/V7MEpQ/3udfAExih8TGO1rnuDm0xed+GmY3U2gqjJCjzI19MH+5BMHq/06xy6gahS3Zo3ARxXqHjet2uRi1eTXL38AdSB081GUhJ3qtxuJ4QIKhhXjk5+g2Mha6EIqQwNAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4Xt2WfUuTURjGd76JH6E/+qMgiehFsUhGacmwZNPM3PJljpWtlQxXloyhlsmYLymb5rIhzhCLZgRG0Ge667pPZzvPaRvpnkehCw4bz/ac8zv3fd33OS7X/yNB5pNjEkAE3Rob4E/z1yOWoP7pJ3S5t4Pagr7jhhIUXZumnokwtXTfIPf92wxzoqGBh/lvhyUotbvOQL5nIWr2ttHVPk8JyPz3EUjQ650sjWaSdDfxiIH+jo70lvU9xyToze4aA91LPiZPpN+IjmDQrtjQHyjH4QSlP79noM5ogM57WjUgQeMbc/R0/RWFFl5QYGaMwWB6B+EEzXzM0IOVBAM1dV0rLbTwZYP9hQjGcrMUWZ3iSkTEUAAwf+P1ZrvBBE1tr1B4aZJLXfeQWij/4xP7LFl4y+YH2Lv5eQZDigFW3kjdErRfLNJqOk03w700MuLXgFwuHSyTX+Zo6XCDc+Mc2Y7RPst7dUim5s7kQ4YxgfBdPVcDYPAdUv1yU0YKqRyYjdkRJcGGVVGoNRRsrWFTM7V6Bg3SGw9yNcEbp66cswCpRasNc/YDyLo7lDVCj37UHuphKHgE/lCjDK/PYYtkh14q5qmQy3HaAJJNpdgLw6k49yYTWo8kBgxtKxTG8t4mVw8MispBI9QXtRpdcItAJFHy6Efl32yQuWMTRK88DKQVFak8pmBsANIXl2Dm0KHwPf4hxanE8YGeVdlTB1Kt3VdSOV3wW2JrkdMFIP2KckggQRP5NE+ICjJ3X31SuQF4LJh+TrnFRU5XnTBKMuyRQXlmnXFfKkWs+sS/j4yvW7wZVCIqEJ259jv/LLlTTKqaHk7rk02NNdMGIGwENwKY2qboQIK2f+5xeaNSwn4/X+ovdrrpdOuFKlCCst8KfC+CodHFbYqOkqDc/g73GngCIzo8xNE6295iQMn7NsysUmtjdHQJ2vi+W0of7kEweren0uXeCuEAjJLs0LgJ4rxCxw34vBWAyj1Kf+aQ5O7hD6QOnqoEdKSSi8t7NQ7XYwcqyzHDHl5Ow/wCgEUI5EqR0wUAAAAASUVORK5CYII=",
     "wiki_name": "Glistening tear",
     "wiki_url": "https://oldschool.runescape.wiki/w/Glistening_tear",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 23786,
     "name": "Ardougne knight helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": true,
     "examine": "A full face helmet worn by the Knights of Ardougne.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVklEQVR4Xu2W70tTcRTG75dxGYtYiL3yhWGiooZTMTXUnNiypSx/tHTZ0kzNzNRpNsyICKk/+/E+5+5s19Hb7/eCeOBw2Ivtfnie55w7z7vZZdDoWCuEWE75mEwm0Od7cYIZlO/4ApMLYAjUlfDQFnTaUzCnFQIVgy6kEsj4DaAYYFgGpZpCqk7sQKrOcE0d9v147GKFYc7WwsyOHYjqjAVADwIQZogzpkCzjGwXQZgbzVFMQI1DWEknZdvyqegdclqhVQRQmKh1DoFCRRRGj+HOXV/W33GgDT5vbGBzdRVvl5ewlM/jxUwWT8fHMTY0JOvvMDsGp3t7+PpxC9vr63j3egXFQgELuRxmp6YEiOvv6CAa/DqpoHpwgMqn3bpKa4uLeDU3h+fT0wLU09kpllkGMvh3cYE/38/w8/gIZ/v711RamZ+/BtTa0mITyAgI+7Jaxd/zc4Ej1G65jPdvinWgx4MZPGxvF6BUMmkDyohF/HFmhxD8zObnLx82sVUqSbCzExN41NuLro4OmwoZyQuB+HBOqsJWu5ihl89m8WRkRID6urvtAlEJgjAzCsRJZTh1w2jX8MAAMv39uJdO2wOiTXzw0c62TG4XJxXiZH6oEC1jqAlmFUgz9D/rOKOHkbYRiCpZA/pxeFgPddQ6VUpv0OToqChE2ywqxApVarZOlaJCzJBDIFb4MtUrHVWKGWJ+aJdDIJaRK02ruO5UhmGmXZofwvAwOgP6/e1UrNLrzDBTHdrFMPMoqprN37ZURqziS5VveSqkfzscg0RLH9zct+WurgDaGuhdoe6kawAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACd0lEQVR4Xt2X3U8TURDF96bZNDWmhsiTDwgSMIChQBAwgNRgxYopX1asWEEERESwIjaIMcYY/bOPPbOd7nbDm967iZNMbjbNdn8558xs63n/dxmEnWgFEKsZHzPpFAZ9L0kwg+olX2AKDRgC9aU8XGt01lMwpxUAlRtdyqSQ80MgfjbS3S0dv8tiGVSaCqk6caD4HZbLtNQZa6rD7mzalQgQ1ck3w8xOHIjqTDaArjdAmCGeGuhEgDhdBGFuNEcJAYWLsJZNy7QVM+EecjxhgVUEUJiodQ7VCRRRGF2Gu5d9GX/HgTZ4u7mJrfV1PF9dwUqxiIf38rg7NYXJ0VEZ/2h2LAMZnOzv4/3rbexsbODFkzWUSyU8LhQwPzsrQBx/RwvR4NvHGuqHh6i92Wup9Gx5GUsLC3gwNydAN3t7xTLLQAa/z8/x4/Mpvn44xunBQZtKa4uLbUBXOzpsAhkBYf+s1/Hr7EzgCLVXreLl03IL6PZIDje6ugQok04LVPzb/rKMWMQvZ3YIwWs2r9+92sJ2pSLBzk9P49bAAPp6etoU+scqGckLgfhwnlSFrXYxQ4/uz+PO+LgADfb327QsmCqCMDMKxJPK8NQJo11jw8PIDQ3hSjZrD4g28cHHuztycrp4UiGezA8VomUMNcGsAmmGLrKOZ3Qx0jYCUSVrQF+OjlqhjlqnSukOmpmYEIVom0WFWIFKcetUKSrEDDkEYgUvU93SUaWYIeaHdjkEYhnZ0rSK405lGGbapfkhDBejM6Dvn07EKt3ODDPVoV0MM5eiqmlhKV5URqziS5VveSqkPzviIA5gtKL/3cNOACSs6MMTBXFVfwAK5yHE4Dj/PQAAAABJRU5ErkJggg==",
     "wiki_name": "Ardougne knight helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ardougne_knight_helm",
     "equipment": null,

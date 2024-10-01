@@ -1,7 +1,7 @@
 {
     "id": 15981,
     "name": "Ancient d'hide body",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Ancient blessed dragonhide body armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xu2WXW8SURCGuxeESEwTI9FgAwQIkBZDLSFYIhUIDYaUhFaUYL3Ra2OM0bt6ZfxL/r7jPrPO7tmlVhaK3jDJZD/O7pnnvDNzdnd2tra1/2KO8Tx6/s9Mg3pe3iub/WzVPy9miqHxDQJ6kz/db5lmpWnK90qmsJuXY9TrDxs+XAB4a+aBtB8dm5O9jngtXTNHpSNx4GwHGG8ftE31ftVk72YF/JbUcnyIzuOO6eW6AtZwFYgCfEx8CMEcPjj0gUgpUJyvAeYIAN5/0pcgg/xAgHA7+PvEO/Ms1/OvFQglgUBJGyoAW9oCGLxbfy5qDAtDgRGl3KCohqMOQBz1PkA4wbkXhYoNhBr4aePUn3BUHPlABAX0c/KTwCiQ3ietCsQ16tWLdb8ZYgOhxqg1knQxWS1fCwERhDFVx4ZirJVpCRTBXzSHC1CxgSbtiUzEikkXcttAwKg6P69SvgMkNec+BxTBdS4bKpVIxYeKug3EeVQdWyU6U4HSd9ILc8WEuc7CQD03pYPfUKqOD+PWnm4RtH4mlbkNgKg5Zlw6k5UThPoiFRedi1CXkWJSRooAWqFeljXHnJcn/k4N0Pj4zIzK5+LUE6qhDp0JPCnL7RY2BzStvJRU0M4oANBZZSpAX5NfJIUUrg20Qosvax4QexPtDBA1NanOBOpb8kqAUElgXSCe28DHVc0xs+pr2Z9YOSqQQgX6kfxuhqWxQG0QKNymAKEKQKSO67eDSzPvz82sO5MCp9BJJUCklt+QAGittndCGxnXbw7mEki/+NTOq5OpgKCOwnBfgYKWd0RV3Wh1zmjUGywA4jtmA9Fp1AqOYtSVgHDuOnA8Rzfam6Lu1nwbGYsNpL8dQOmk1I1+OlgxQWTndrcBjoChGCmMAjGmKqHwSkC8DFTwsvcngEoKE3VSR/GzgdrvUWu6YVKHsYFYDRLj4ZejxXmT2+YtBmgWtDj+V/vTxOvYJubc2taut196GMVIImBlhAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4Xu2WXWsTURCGsxclGKQgFiWWJm1CEtpI+kGIDaY2ISUSWkhrNVS90WsREb2rV+Jf8vcd95l1zp49JTWbNOpFB4bs58xz3pk5m0zm1m7tn1hgIveP/5pp0sgrqxWzuVazx6V8KXF/gYBR8CebLdOsNk3lXtlsLBfl1/fGwz0LFwPemEUg7Uf75mC1I15fqZvd8q44cK4DjLe32qZ2v2bW7q4J+A2pFViIzuOO6RYOBWwvVMAH+Lj0IQGz/WDbAlFSoDieAywQALy305Mk/WJfgHA3+fuld+ZpoWvPFQglgUBJFyoGm9piGPyw8UzUGGwMBEaUCpOiGo46APGr1wHCSc41H4ocO+vr00IFogZ+tHdkAw5LQwtEUkA/Zz8JjALpdcqqQJyjXqPUsMOQGgg1hq2hlItg9WI9AUQS7qk6LhT3WvmWQJH8eXNwBSo10Kg9kkCsmHIhtwsEjKrz8zJnHSDpufA5oEiusVyo3FIufR/57gJx7KvjqsRkKtDKnZUrsVShFCplMvpC9FISqBuWtP8bStWxMGHv6RbB6Odz+QRAMu7MFpiT8rGsnCT0F6U465wlpowSUzJKBJDbL3MC+BaY08rI7tQAnewfm2HlVJx+QjXUYTKBp2SF5Q0L5Eec0wJzXn0hpWCcUQCg4+q5AH3NfpES0rgu0AwjPq1FQOxNjDNA9NSoNhaob9lLAUIlgQ2BeE4/rgsBGtdeyf7EylGBEirQj+x3MyifCNQCgZJjChCqAETpOH/bf2MuehdmfDiWBqfRKSVAlJa/ITGQP/qpLEhsZJy/3rqQRPrFp3deHpwLCOooDNcVSEceR1XdaDWmn/Uai4H4jrlATBq9gqMYfSUgHIcOHM8xje6mqLs130buxcpNZYH92wGUBqVv9NPBikkiO3e4DfALGIpRQh+Ie6oSCs8ExMtAxS9H/wRQSWF8p3Q0Pxuo+x69phsmfZgaiNUgMZ582W/OyZ7coaPFAM2CUgJhkwInv3N/cjfidTGnssmBZ7dFxLy1/8J+AbhKDQXCueVHAAAAAElFTkSuQmCC",
     "wiki_name": "Ancient d'hide body",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_d'hide_body",
     "equipment": null,

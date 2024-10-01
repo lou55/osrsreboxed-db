@@ -1,7 +1,7 @@
 {
     "id": 3011,
     "name": "Energy potion(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-01",
     "duplicate": true,
     "examine": "3 doses of energy potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXElEQVR4Xu3W+0/TUBQHcPZvGEWJoAgqI0A2GWwyYQ4QGA8FB5EAAQKRicCGhUlQkIASIkF8QCBBCRKiGBOjRqPRv+zo9zanuX0M98L4gzc5Wdt72356zu3tMjL+/WYj67DqP/Rmo0eTzbSgNIqYGw/Q7FiDCEZsL3fR1lInbS7esEAZHyJluApiFEAcRszGww56NhfU3Rj76DOGHpUQ0kZLd1tMKPwCwsGg1dk2Wp6+Jsbi1wqE8TL6294kfdkZTQ7FIGxzdhi0Nt8uQDw2Fgjnfd1V6Mf+Pfq5PyNACWFwUX5qBuGmRpD81Bi7cr/VErSz0q0DYTtOkE1XBiB4cmNfBmFsqOs09V4/Se2NWWI/FmjvaW/6QJwlHDOCXj12iWirP66BUEYj6O2LPg2ESAjE88IIwpNbgdbnHXS1NlMrnRXo3Xq/HvQ6kjoIxwFCYFww2KlFTW0jeS9VU6mrQvQZQe83BtILQqCUMigcjlAoNEz9/YN02V9PrjIv5Z+1m0DI5setmxro+5upeDFoepCMwsUZxCUbv6NQNBqlAntxzJJh7KeXoWRBaOqFMUFjgdA/NHSLFGWCJiYmyeEo185BJo2gz9u3kwWpaxAy9CcQsoNQFIXcniqtXEYQxsugBBZF9WJWIIQRNDIySmNjYYpExqm6JkDOCx4TCNlJK4hRCNwAKy6DVqoCIuY9NRQtraSeAgfVZeeJvkMByVnCL4NkjAzqszupISffBNp90qOBsErHiUFT3xArEH8OjBgGTbl8NFDopJbcAvKdyNFQyA4+G3KGkgIZ5xG/ygxa9TVpsXDxigCFisoomFdIgWw1S1wufDbSBmIUjqNfhsig6TIfDRe7qSOvSMwj99EsMR4grNIyKAGUCrIqmxXoua9ZxGJFnQCNlnio+3wJNZ06R97MbDEec+7D5qAGwhqUwDqkB8llYxAj5ABoptxPYYdHTOzWM3byZ+WS88gxcU5KILxlB4Hk+QPMmv/3GuVVQYrTq3v105IhBhnLhuP8/UIsVzZoOGw/cFcLDPfzhMYrL4OwBiW8DlmVjUF4YmzzjY3BbyOPTQvIqmwyCH3y3xJs82rOnw1kJw0gNPNTW4WMkcMIwqIogzgSAMXbzEgOef78RdBBzYw0x/+WWvsFsW8yYS+PfcoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Energy potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Energy_potion#3_dose",
     "equipment": null,

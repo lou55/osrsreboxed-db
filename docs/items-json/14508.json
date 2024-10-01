@@ -1,7 +1,7 @@
 {
     "id": 14508,
     "name": "Armadyl crossbow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2013-10-17",
     "duplicate": true,
     "examine": "A weapon originally developed for Armadyl's forces.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLElEQVR4Xu1WW0sbURB2kLBs/oy+FIRC0ZciFQKNFqkoStWKQWPjhXhv2saktuAlMV7QtEViIioJUlLJS2sffepP+pqZZbtJk0g0256U+sHH3s7O+c7MmTPT0HCHO/y/IFTmX4UxaeytjkhIl2twVoP7kQP+sTF0dnT8CWGVjBGGex1F3kjt6Tg9cCL90YnsyQni6+sIzc1hfPCZXZ4jWXGpMYPTnsJvxniTQb//1/3XbFb4Kapj0afhqdtcyI1BeP9SQ3hBw6xXw+iAQ+4TMV2u44MOCQ+/L56AkNjZxs7qKiIrQcTC4aKFsKhbCmKQ7A8Wxt5isqBClhonfIhsIhoKYe1VAO+WlkoEW7wVCg2UY/HY43gcG29elxljPbOHW+83lvnfdpCEqnQiwre0E4EZTfaeb6SmsFULQnJvN7/6hQqTEc4PnbKHXA9N75SjLSBJdd7E1xs1JuUzy0wWJotksgev/79qEA5jWwhMT1Vp0BLFCWMmTY0ZaCIfimRSMupmxn4PlW0hy4fr7AzzXq9dBmsB4SKdRi6TqQcxDJJ61dvVWQ+CjBN58cUEnrhcqgURMkcJOZFH+/txr7lJpSDC5cWXfPWOYnnShx73Y5ViGEaa8yE4MTyEBy0tKgURvudycghyzzPQ3a1WzI+rK3w+TkmPM+PxoL2tVa0gLo6p/X3pcZ739akUwyDpl7lh4/bBqtjKYAjiomj100pheYhbhjoQxLC1Kv/b+Am1xp9b8Ml5xgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTklEQVR4Xu1WXUsbQRR1kLBsfoX/QF8KQqHYl1IUAsYWsShKrRWDxqYq0aptqmlSW6ht0viBRkXSRFQSSkklL/149Kk/6Zh7l+l+2A3dujoP9cBlN5nZmXPPnTv3NjVd4xr/LwTc7UphbJp7rSOT0vmZnNUQ7gwgPj6Onq6uyyDmtpjASH/ApkZpU8fRdhDl3SCqh4fIr64iNTeHieGHfikn2OPzixk2HTHH2lpabGPJePz3+7dqlW0vq2MhpqEvLB3xDIG3LzSk5zXMRjWMDQX4vZDT+TkxHODw0P9yA0mssL6G9ZUVZF4lkUunbWSJlOmEZwg+H0SM1CIjQlaTi5sbCOxkPiCbSuHdywTeLC465vgQukbmJHOQz+P98tK5OdbfpHDHzeZ/JyU3dTNzpuBQWYlKMt/LQSRmND57sVEzbPbvfYVAcXOj7v28RRX7+Of9IJ+h0B2pzp/MFwhOdTrEjT03NqU7SyYLGZEkIwV9IiWwn/uIxPSUizomZAglKUoYmTQXzECJeiiKRc6oxuo44QyVmQB/970r6uE6PsazaNSzd9aDbzXnPA8QOCmXUatU/PLuohBcr/rv9XhW5xJg3MgLTyZxPxRSTUig8qnAN/LY4CButLWqJCTw4+RrvXpn8fxpDA/C3arPj5HmdAlOjjzCrfZ2ter8rNX4EqSeZ6i3V6U6Ar9OT/HloMQ9zkwkgru3O9SqQ8WxtLXFPc7jgQGV6hAE98vUsFH7ICu2IjIEgxAVRdlPK1SHYCpELYNidSR8rcr+QBK5ajJnfsj4PZe6OSMAAAAASUVORK5CYII=",
     "wiki_name": "Armadyl crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Armadyl_crossbow",
     "equipment": null,

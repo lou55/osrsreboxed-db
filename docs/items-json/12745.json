@@ -1,7 +1,7 @@
 {
     "id": 12745,
     "name": "Magic imp box pack",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-09-18",
     "duplicate": true,
     "examine": "A pack containing 100 magic imp boxes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUUlEQVR4Xu3X/0sTYRwHcPcXbFIUKhkZzTb7KYgKI/ohxUJQ8ct0mmEiVArRVxmrsJSlJX7bbDXXIDUTKYsyqEz79od92vs5Puu55x51d2fRDz3w5u525+51n+fLzoKCf795SB/d+T/ePPQo2kgjkQaRWH89Dd2oE2HE/GQXPR87T5nRTg1KfQjXcAPEKIA4KubZww5KxsKmG+MY59SYUbaQHhq702RBYQsIh0HTQ600OdAirsVWB8L1MnptKUqfF647QzEI+1wdBqWG2wWIr90IhL9bXYzQt+V79H15UIBsYfCl/NQMwk1lkPzEcnSghfgFEwj7eYI8pm4AQr0hZ6B5H91u3CtysbqYemtKxFa9Dll63LM9IBzjRhvlytkSula7h27WlYpgH5/hXM/pYuo6VUSdJ3eL72EQYgvE44JBuImaSEOpCKqDSg2GjDCKqwWUFvTylnMQdwsHgFhbmchIexmNntuf2+IcUFwloFClbQXx03Nw43jXAZHpbr8I7wMGFHcdV0kGrb+6my8GzQxiFBAMedpTTrO9AaoqL6Ka4O/gGOeBQiXlrnMBQjNmRvx+KAfC0wOSuRTIBSg5OA8Q4OhOoLjrXICMdQQVkkF4SiAeRKPa9Pf1acPjSQbZWBSNKa8DYRwAFItELDdFOluaLWGQWiFXIBnFoNCUV6Q1m7aEl8JJL00FkpSomKF4cIYmAzPZ47QAYRypY8gxSK0Sg1qzCOTrSiH5q4cFaLoiTbOVAVp77xOgiYMpAUJ3ybMMq3SeGDRjhuUD+vGhkNbfFtLP7Bag8UBCfPbljY9W3/lovNwAobvUdcgRSDeOMJMAAsB/ZkyA5Aq9qAzSp9demsh2H4PQXepK7QqEMEYGdaS8BqgqJo7Th+ZoLttlqWN+Cyh8wvrTkSfKAKndpgNxeFCjQshU8IkJhPETOr4rB8IaZGMdMoMQGYOo689W6xDGT9PRnc5BmGWbgbYKVnSs1LxKY/zUH9kGEKOcgPBbhlcTzDCMn9rDO3IgrEG21yFdt7nNx/mrzkFqt2Fg4zO8R+PdGOfk/0qwz28GuI5f6nHtYqKbVjKXnYLQrE+ni4yRo4LwLi2DODZA+TYrkoNKAoTq/EXQZs2KtOZ/c9d+ARHr0tde9mcyAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcklEQVR4Xs3X/UtTURgH8O0vmFIUKpkZzTb7IYKoMKIfUiwEFV/mW4aJUClErzJWYSlLS3zbzJompGYiZVEGlWlvf9jTvufyzLNnZ7rdrfDAl3vv7p3nc59z7tnV4dj5zUnmmM7/8+akp4E6GvLXqgR7a2jgdrUKIxbGO+jVyCWaHW43oORNZAy3QIwCiCMxL5+00VSwJa5jHOOcTDwqLaSTRu7XJ6CwBYTDoMmBJhrva1TXYmsC4Xodvb4coG+Lt+yhGIR9rg6DIoOtCsTXJgPhe2tLfvq58pB+rfQrEPo4WlSkInsXzSo73zWD0KkO0u9Yjwm0GLocB8I+g2TvojnjhgEI2SGnr+EA3avbr3KlIp+6KwvUVl6HLD/ryg4Ix+goWa5fKKCbVfvoTnWhCvbxGc51ncunjrN51H5mr/o7DELSAvG8YBA6kfHXFqqgOqhUv88Ko7haQBlBb+7aB/GwcAAINherDLUW0/DFg7EtzgHFVQIKVcoqiO+eg45DHYdUJjvdKrwPGFA8dFwlHbTx9kEMkzaIUUAw5EVXCc11e6i8JI8qvZvBMc4DhUrqQ5cMJHtP0qwnI/TIFwPh7gGZveqJBSg9OA8Q4BhOoHjoMgBZ6wgqpINwl0A8DgSM6e3pMYbnkw7SF0XZu2jWI28CYR4AFPT7EzpF2hsbEsIgWaGMQDqKQb4Jl0pTNM1hF7VMuWjCM0Xh0mkKeadp3DMdPZ5RIMwjOYdsg2SVGNQURSA/VnPJXTGoQJOlMzRX5qH1TzkKNHY4okAYLv0pwyrNmJRAeMJSAf3+nEsbH3LpT3QL0KgnrD77/j6H1j7m0GiJBcJwyXUoxeqgbYJM8whPEkAAuM+PKJBeoddlXvr6zkVj0eFjEIZLrtQZgRDG6KC2iMsClQfV8cyReZqPDlnkpDsB1HI68acDx7J3Q7NActhMIA5PalQImfA+jwNh/vhO7YmBsAalsQ7FgxAdg8j1Z7t1CPOn/sRu+yA8ZVuBtgtWdKzUvEpj/tQczwKIUXZA+C3DqwmeMMyfqmO7YiCsQWmvQ6ZhyzRfFm7YB8lhw8TGZ3iPxrsxzun/lWCf3wxwHb/U49qlcCetzl6zC0JLvDtTdIweCcK7tA7ipAFyOHhZ3yoSqAeVBAjVyQoo1SaRqWA5m9f+pyaRpsjv7Oj2F1vvHXI4brWUAAAAAElFTkSuQmCC",
     "wiki_name": "Magic imp box pack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_imp_box_pack",
     "equipment": null,

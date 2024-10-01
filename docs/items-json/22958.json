@@ -1,7 +1,7 @@
 {
     "id": 22958,
     "name": "Drake's claw",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": true,
     "examine": "The claw of a ferocious drake. They could be combined with the boots of stone.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xu3Wa2sTQRQG4OaDhITQEBKyJKEtCkWkoD9FRVFRUWppRfGLKEopipdStJVCqRdUWiiUtpS2UhARRdFfdtx3lnc5MzuN2ewqfnDgsJvZ2cyzZy67AwP/fimIP3zX/3gpyMLMGXk+fdrE3P1TMnv3pAki1pfGZW3xqqy+uOJBuQ+RGR6BiAKI4WJW5i/Lm7mLVsf4jWtu2KhUyIIsPjibQOEICIOgV7MXZOnROdMWRx8I7TX62/aMfNm40x+KIJwzOwS9e3bJgNj2IBDu+7o1LT/2HsvPvacGlAqDP+VTE4ROfaDlJ+djEM59oI3laxYI5z2CCtYwoCNObvx2QegcCA7vQaDt15P5gZgl1PlAzCRByJoL2n07FYMQqUCcFy4InbsgPaEJ0pOXoA/vr9ugzXvZQagHiChmUq9I3N84fMREtd2OUfsrN/IFIQDQIHdC497m6KiJ2tCwVJqBlOt1U/9p7VYM+r7zsFcMig3SKDypD0RMe2xMgqPHTHYIKg0OyqFy2VzvE4QSjT866wbihEbbzvETBoTscLiQHYCKpVIWULQHIUPdQEQzguGROJAdgoBxQSk2xWjJ+0AuoF6rSTV8+ko4HDjWWi0rOFy5g7iMRzodGQqfuhUE0mw0LJBBhdcQgDAAclGZQAiN0RBiSsWiCQ2phG1cCDOEXbpHDEq0wlwQM+NmRYMMKrzuw+C18Xn9djxkfYGIQh2HCRigGmHGME+qqAuDEI1hVrAA8NrIFcShYidYSRqlMWyDFYmtASDs0hqUAhWBfMOGQAf4jOBvX+g3Pdt/XL0Zg7AHpdiHbJBebahjBziinq8UbAsI9+MM2ckMwir7HQid6W8gDUI7PVy5gdxhQ70G6U8OYghiW4C2Xk5YIOxBqfch37BpEM67gfT8yQXkGzYNwjX9WaJBaKfnT0YQSnLl+MKdPwwXhE1RgxgpQL2WJJKh589fBHUrSWQy/pds5RfO8tqu5y4KdQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xs3WbWvTUBQH8PaFlJayUloa2rIHhSEyUL+JykRFRVFRUXwjijKG4sMYOmUw5gMqGwzGHEMngogoin6yY/43/LOTs9vamCi7cGia3HB+OfchKRR2fiuKP3zX/3krypPpSXk8dcTF7O3DMnPzkAsiVhfOycr8WVl+esaDsg+RGR6BiAKIYTFLc6fl5ezJRGL8xzUbSVQqZFHm7xzdhsIvIAyCns+ckIV7x1xf/PpA6K/R3zem5evajb9DEYRjVoeg149OORD79gLhvm/rU/Jz87782nzoQMhxcGzMhc1uWlR2PjVBSOoDLT44HoNw7AOtLZ5PgHBMkM1uWjExDEjEyY3/FoTkQHB4e4E2XlzMD8Qq4ZwPxEoShKpZ0PtXl2IQIhWI88KCkNyC9IQmSE9egj68uZwEvb2VHYTzABHFSuoVifubu/e4qHU6Merj0pV8QQgANMhOaNzbGh93UR8ekWorkEqj4c5/XrkWg368uxtjUoM0Ck/qAxHTmZiQYO8+Vx2CykNDsqtScdd9IJu9R4vGH8n6gTih0be7/4ADoTocLlQHoFK5nAUU7UGoUD8Q0YxgZDQOVIcgYCxIb4o2u2nRkveBLKBRr0stfPpqOBz4rbfbieBw5Q7iMh7tdmU4fOp2EEir2UyAHCq8hgCEAZBFZQIhNEZDiCmXSi40pBr2sRBWCLs0MQOBsHIsiJWxVdEghwqv+zB4bXxZvR4P2YDVQdsCEYVzHCZggGqGFcM8qeFcGIRoDKuCBYDXRq4gDhWTYCVplMawD1YktgaAsEtrEFE2u6dFIN+wIZAAnxH87wv9pmf/T8tXYxD2oBT7UBKkVxvOMQF+cZ6vFGwLCPtxhupkBmGV/QmEZPobSIPQTw9XbiA7bDivQfqTgxiC2Beg9WcXEiDsQan3Id+waRCO+4H0/MkF5Bs2DcI1/VmiQein509GENr2leMLO38YFoRNUYMYKUCFArf1fmGBOvT8yQU0aLPIQbCMrb7/qVmkL+w9O7r9BhkFJUklww5+AAAAAElFTkSuQmCC",
     "wiki_name": "Drake's claw",
     "wiki_url": "https://oldschool.runescape.wiki/w/Drake's_claw",
     "equipment": null,

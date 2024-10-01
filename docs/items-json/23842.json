@@ -1,7 +1,7 @@
 {
     "id": 23842,
     "name": "Corrupted helm (perfected)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "The shiniest helmet that provides a lot of protection from corrupted creatures.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACf0lEQVR4XuWXMUsDQRCFswQRQ0iQhIQkmKCiogjaCDYWFhY2goVgYSFYWAgWgoWFYCEIFoJgIQgWgmBlIQhWgpWFlb3/ZdzvNnO3BsvsHejAknB3cp9v3rzd5HJ/t4z0XsmgFMLIxUhNMoYyslkpdSEc0EmzmhWUkbNWTVZLhRjovAt0UB9OG8qpAcBiYSgGAvC4WZF9C7RTLacFZeSqXZdLu4CaGhz4AXTUcEDb1ZJsDBfTgDJy3anHUI2BfAx02qrKoQXaqzmg9XJRVuKWBikjd2PNCIh2ochyMWkZ/gFot1aWLWv2NQvE/YXCYCgoIw/jTbkZbUStQQkA1DNq6F6gYDAvkyPyONGK2sXLAcEnwPCdBUhqQLdWmScLRMvwC2rgFX8pCHGAhwIBuVZ9zHTk2apEy/AQyqiBCUhAFGbJghAJSSz0tYx8zo7GQBgbD6lKCkX7tE2AzA8FMbOJIAB6t0Bv0+04kfkETI3sQ5FPs6GA7q0imJm2vU61o/xBJT5R6TeoMQtUyufCAPlThbHVQ4Aw9rp0ujBz2wZmJa+h2ddymyYv062AKSMUUce90C2geAZTk+BJive1XALzn/sbabKS5zQG8BAtQ6UgQNoORjs5brh7/gKaxXcMDVQQIHZ1Rpvc4YV6KFM/0UKeQUG9x8gHmzLyRyeoFwbD0yodd4zO/UCBSBn5mhuPfcRLuQYMxuY6ynHMAAq1kjYGKQcEAOqwJSgQOeSrQ1sDgvjl9jKA9IRIejP2vjopwVAOAAU0W2iN5g7q6HT1/mXAcuMPEOciwhJAYiDFA71f7swMEP7h1wUgTF8GMJSJTEz6kjn6cycjGK2fyZwxzD+ub4OSCwr51p2xAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpElEQVR4Xt2Xv2tTURiGcwilNISEkpCQhKa/0KIU2kVwcXBwcBEchA4dBAcHwUFwcBAcBMFBEBwEwUEQOjkIQqeCk4OTu//L53nu6Xt6emmn3HMv+MEh6b3JvU/f7/3ee9Jq/b/lrHykgRKEs3drI2sYytnBoHcKEYBeTYdNQTl7MxvZ3V4nAr09BXo2Xq0bKqgBwM3OSgQC8OV0YE890KNhvy4oZx/mY3vvF1A7y0vngF5MAtDDYc8erHbrgHL2cX0coSZL7Qj0eja05x7oySgA3e937U5saZZy9mVrWgDRLhS53T1rGf4B6PGob4fe7Pc8EOdvdJZzQTk72p7ap81J0RqUAECekaHLQHxvf2OjWOUrLlDOjq+u2bcrs6Jd3BwQfAIM71mAXAZUvuKC5eyzV+a7B6Jl+AU18Eq6BEIc4KFMQKFVv6+v2w+vEi3DQygjAxOQgAjmlgchEhQLlQP92d2MQBgbD0klQdE+tQmQ/ZVg5or94woIgH55oJ/X5jGReQVMRk6hyKfdBKh81QXK2VevCGambSc78yJ/UIlXVLoIassD9dqtPEDpVGFseQgQxl5L04WZ5z4wB+0QmpUDcXNupkcBU0Yoog5/awHFZzA1Ca4UrxwIdfjP0wep1plhXYwBPETLUCkLkNrBaGu7IYh0Ac3iPYYGKgsQT3VGm9zhhtqUyU+0kM+goM4x8tmmjPzRBJVhMDyt0rhjdM6ngVg50N+97egjbsoxYDA2x1GObQZQqKUWZoChAhAAqMMjQUDkUKoObU1BMsCowrMMIO0QSW/GPlUnoyrlCgAooGyhNcod1NF01QCjCuMPEPsiwhJAYkAb+prUUYU9M0D4h18XgDB9DcBQrjAx6Uvm6OdOQzCq88ncMEyodKQbh6mr/gHeTERiZqgdaAAAAABJRU5ErkJggg==",
     "wiki_name": "Corrupted helm (perfected)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_helm_(perfected)",
     "equipment": {

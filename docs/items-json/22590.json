@@ -1,7 +1,7 @@
 {
     "id": 22590,
     "name": "Goat dung",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-09-06",
     "duplicate": false,
     "examine": "Smells like it's been in a goat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xu2W+0sUURTHvUQsihiiBCFttOEuPtBN1iVRQ1FTMzYfbatt6rb5fqyPsqJCKCII+iGI/t5Tn7Oc2WFbf3JGIbrw5c7cHT2f+z3nnpm6un9jOKno0oeT/mSvDKXTMjY8fNlQTg7W1+Tx5KSCPBwfk6nRkcuCcrK9uupLlZO56WlZmJlRsAtOoZPi0pIG74zHJdF2VdUdjciz+TlZnJ2VRxMTkoxFLgrKSTaTkedPFjTwRLJBplNlsQ4sYDh2L1EftltONpaXpZDL6bz7ouDBmFjjN2prtKdeBXQIYE5dOdrc0PohiF8ExpH+9oh8fnOiQHMDjd7vwGbSjUFBOQ1IgMJ4kwfAfL0lIolYk/R2XFPFoo3qEOmkFVBLyP4mMKDhrnrdIf+YawJH2xp0BqSvu9kTgH4gnse9SurOPZymAtvZZVe8SYMCwzUQ6WSLJwA5/iODgzKQSikUQIGmzHbIboEwATPQ1/oXEMA4hIBjI9mhAIEAMesBqU5TNRApo3NT3NYmOJ2BAgFjJ8nvEgDVQNa56UmAHOU6ggWav39TsqNRWRy/pfYDRXe2Th27UVa09YqKjr3yNCulbEJeL3UqUOV1c+5RBgIm/+C2rE7FpDgTk/XMHa2LWgIECGCQ3v/pYYEBmTsGszXbLrvzcQ1kwf0AXL/Ld6lebW0F6Y4Np4WKK8DUgjCADyuV+e3enn6m7L8sBg+EQ7hDsZ7s7NQEQaeFbhUgPPep2KPrgQORNlKGQzhDUHZuAsAEyMfDA/my1us5FjoQgdg9Qb9uJuXb9l35vtsnP/ZTKu6B5jmcDByIk8Ypo46oIXZNwFpAzJYqngsFiNqxOuKEEcRcAshgThZaFBJYYPhGChiG4bxXAV+Flja/Szj08zAlpUyzrtkJC7D/VI/y0bd301o+rz2GAib4+1JJC/n0+EjvWTenQgOyGsIlmt1Zwi0UOpC/fghkp6z6hHFNXZVBQoGxUQ5AMftPFxDUz6/jfp0vAKR6WMCz9H+EP34DgWD+SgLWtYoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xt2X+0sUURTHHSIWQwxRgpA223AXH+gm65KooaipGZuPNrVN3Tbfj/VRVlQIRQRBPwTR33vqc5YzTtP2U3eUuvDlzs7Ozvnc7zn3zGxNzf8xPDnVuQ9PetPdMpDNysjg4HlDebK/tioPxscV5N7oiEwMD50XlCdbKyuBVHkyMzkpc1NTCnbGKfSktLiowduTSUk1X1R1xmPyeHZGFqan5f7YmKQTsbOC8iSfy8mTh3MaeCx9SSYzFXEeWMBw7HaqNmq3PFlfWpLi/LzOO0+LPoyJc3xHbQ131aqAjgDMU1cON9a1fggSFIFxpLc1Jh9eHivQTF+d/z2wuWydKyhPAxKgOFrvAzBfaYxJKlEv3W2XVYl4nTpEOmkF1BKy33CvdEvL30J5MthRqyvkxhwTON58SWdAejobfAEYBOJ63LPUOQEiFdjOKjuS9RoUGI6ByKYbfQHI9h/q75e+TEahALKUOQGyFbJaIEzA9PU0/QYEMA4h4FhIfsAhECBmPSDhNIWBSBmdm+K2NsHudAoEjO2koEsAhIGsc9OTADmcb3MLNHvnmuSH47Iwel3tB4rubJ06cbWieNMFFR17+VFeyvmUvFhsVyB73DgDAqZw94asTCSkNJWQtdxNrYtqAgQIYJB+/tnDnAGZOwazOd0qO7NJDWTBgwAcvy50qJ5vbv7ijgMghqeFiivAVIMwgLfLp/Or3V19Tdl7VnLljg1PHcIdivV4e7sqCDopdqoA4br3pS497xyItJEyHMIZgrJyEwAmQN4d7MvH1W7fsciBCMTqCfppIy2ft27Jl50e+bqXUfEZaK7DSedA7DR2GXVEDbFqAlYDYrZUcV0kQNSO1RE7jCDmEkAGczzXqJDAAsM7kuMdxvD8RwFvhZa2oEs49O0gI+Vcg56zHeaw/4RHZevbs2m1UNAeQwET/E25rIV8cnSonzlvTkUGZDWESzS7Pwm3UORAwfohkO2y8A7jmLriNxHUT3BUAlDMwd0FBPXz/ahX5zBIRDCVUbn56Z/EajoTkPAIBq2m8PX//PgBszgzZIShtMsAAAAASUVORK5CYII=",
     "wiki_name": "Goat dung",
     "wiki_url": "https://oldschool.runescape.wiki/w/Goat_dung",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 20184,
     "name": "Steel platebody (t)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "Steel platebody with a trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUElEQVR4Xu2WXUvUQRSH3atIwpAkSckwyTBDM8wMMw0zM8M0MzMzzczMTDMzMdLMQjEjgjIh8MbCvBLCJMQI6tarPtGJ5yxnd3ZV2t22rvbAD9lxzsxzXmbmHxcXs5j9F/OIX8G/Nxv/J+ZdfF96ump/Rob+PnuqTE4UFsrhnBwd35mUpOM7EhNl65YtqiiDeRfLzc72ic2PHMqVkft98nxwUMqKi+VoXp4cyMyUPampcrulReF2p6Qo2Lb4eFUUsubR6I/l5ysAIAYz9nBAxoeGpLayMiBLQD2+16t/96alya7kZIXanpAQoAigPHK6pERKi4rkeEGBD4pMoBfDw1JfXa1A58rLNUvMAer1szHpvdmuZSVjQCHKiQAME8gjZ06WqtjIoABh05dPRuTN+HgAEFliLvMAJ0sHs7K0dECZDMxfwpDM26zIoCgJm6HpiQm5XFPjAzpfUaFyoYAe6OrS0pEpwCihQYVRNo9GzAYWOaUzqJnJSZmbfusDQnVVVSqDYj5z6TMOAZkCzKCs2f0ncFPz6KJEHRy59dPHmXdy7VK9XL1YJ1cu1KqAQ8FQr56OaumCochSiGXz+KI1WY8sfpjzqb2pSdoaG6W1ocEHhwyK+ZSaAGhwrgaDonx2+ihbSFlCP1dX5cfKiur78rJ8+7Kk43dvtMmd661613Q0NwfAkS1K6PYTIJSInuq71aHzAQfa9gom2MA82pBsyiauM+P9nZ16rA0OMIDIkjW6lY1rAL/RB/2+NZlHBkOEwfxAOLtA9MSjnh4Z7O7WiIECiCxtVDYXiEBYE2jKGTEQJTAg+oEnAyjLFPMoBf1ERt3mpmQuEPPIIFdDVICAsSz9CchfFi8QGWUOoFyyEQMRkS1MqZDbS5sB0UP+Tb0HgvX+GshdlCiRNTUKBrKTxilzffGJGIjoaVYWD3T0Xp52i9vzEvzu8eZZ/5gfQQKNb9hAZAEgNnQX3QiE0tjzApD7yeKH8vaRAfH/sIFIrx1b9GttLQBkIxgDsq8D/N2vRu6tiIBwpJm54t0MfZ6fl6+Li3p7uzBudoChpwiKrLj+lI2mDxMI80a03sk/zkO7MDur79vSwid5PzWl1wIfb6H4B45HxdzFgxWzmMVsnf0GhCy5W8YJrs0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADb0lEQVR4Xu2W/y/VURjH3Z8sazXLslgiS5PmS5M0iSZJmkiSJJIkiSSZFkmNSWttJVubX9TkJ1uTNdPa6lc/9Rc97fXcPfee+xm6RD95tvfsHuc55/V8Oed8IiK2bMv+i/kkKO/vlcY3xfyLH0hKUh1MTtbf504XycncXDmSnq7ju2NidHxXdLRsi4xUbTCYf7GMtLSA2PxoZoYMPOiSF729UpSfL8eysuRQSorsi4+XOw0NCrc3Lk7BtkdFqTYgaz6N/nh2tgIAYjBDj3pkuK9PKktLQ7IE1JP7nfp3f0KC7ImNVaidO3aEaB1QPjlTUCCFeXlyIicnAEUm0Mv+fqkuL1eg88XFmiXmAPXm+ZB03mrWspIxoBDlRACyfmZiYrhQPjl7qlDFRgYFCJu+ejogb4eHQ4DIEnOZBzhZOpyaqqUDymRgwRKGZf5mRQZFSdgMjY+MyJWKigDQhZISlQsFdE9bm5aOTAFGCQ3KyhZGlnwaMRtY5JTOoCZGR2Vq/F0ACFWVlakMivnMpc84BGQKMIOyZg+ewBXNp4sStTdy66dPE+/l+uVquXapSq5erFQBh7xQr58Naum8UGTJLdsqWfIFojVZj8x+nAqoua5OmmprpbGmJgCHDIr5lJoAaHCuBoOifHb6KFtYWUK/Fhfl58KC6sf8vHz/Oqfj9242yd0bjXrXtNTXh8CRLUro9hMglIie6rrdovMBB9r2IkOrZAnzaUOyKZu4zox3t7bqsTY4wAAiS9boVjauAfwGH3YH1mQeGQwTBgsC4ewC0ROPOzqkt71dIwYKILK0XNlcIAJhTaAppwF5d1/GQoEogQHRDzwZQFmmmEcp6Ccy6jY3JXOBmEcGuRo2BAgYy9LfgKwsBkRGmQMol+y6gYjIFqZUyO2llYDooeCm/gPBev8M5C5KlMiaGnmB7KRxylxffNYNRPQ0K4uHOvovT7vF7Xnxvnu8edY/BkSQQOO7ZiCyABAbuosuB0Jp7HkByP1kMShEHxkQ/18zEOm1Y4t+Ly2FgCwHY0D2dYC/+9XIvbUuIBxpZq54N0Nfpqfl2+ys3t4ujJsdYOgpgiIrrj9lo+nXCIT5IzInt4dMPLQzk5P6vs3NfJYPY2N6LfDxFo5/6HgYZg5ep+BYcHGvXN+V/L3jG2LejTd1sy3bsjXaHytx/5qc1jKzAAAAAElFTkSuQmCC",
     "wiki_name": "Steel platebody (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_platebody_(t)",
     "equipment": {

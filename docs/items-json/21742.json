@@ -1,7 +1,7 @@
 {
     "id": 21742,
     "name": "Granite hammer",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-10-26",
     "duplicate": false,
     "examine": "Hammer time.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHElEQVR4Xt2W60siUQDFux+LZSGCFooMi4JycVKIXEozrM1QTJFZe6mzImL2MBGR3R70QQr2Y//w2c4drhkVu19m5taBA/O4cH+ce+beGRp63xKwrYUEvm+tIxaL6AAlsLu7jXR6C8lk3Gsge5lyuR3k8ykJRXsAZYNwiQ72cxJIQalrF6EEZnw+xOOr2CtkcXSUR6WyD8sqoFQyYZqZvl2CEhKGEzIdgtRqRZydVXDSsCQUIfnchU4JJBJRuTSE4eRM57heRrNZRafTwM1NS8LxXbtddxLIhmEyTECloNLh5AS6vW2j1+vKe7rVqjkBJRAOBfswTIWuVg/76TAZAvGaY1TxHYChxLMCE4JmZ+iry6ZM5uSnJSEdghiUvdcM9oXmchDm7u4Xfp+fo3t66gYMJeSGx6Kq8qq+KJg/19do1+tIbwbdgHpKiEBMhWZvaIJxzPb6IozFSRiBgDtQBGIy9/eXeHjoya+p2x1cJoHSDxPBUBjH5bI7UK/75RgzFUZsZe6V955JYHNtAeGvU3pBEWjOP/5Gmp5IwDcxilgkguSG42fb/0g8JuSXRa8Vi7L0WkDtZbOy6JGQXwcgSmDj2zzWlmexMPtFl04JBOYnZKc+fxrWp1NjoyNYXjKQiEYxOT2tBxTTCRgGcjuP/+KplB5QBDEzGViFggTzGMoG4jbAc8+ls+9fsr+0TqOBq4umDkBKWmwBH0B/AT/1nSDb/LPrAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQElEQVR4XtWW/0taUQDFuz9ujEEEGxSzLArK4Ush5liaYS1DMUXerC31TUTMvjgRka0v9IMU7Mf+4bPOfVy1Rz/4Q++9uwMHn8+L98O55777pqb+bwnY1kICX3e3kEjEdIASODjYQza7i3Q6KYHWFxb8grKXqVDYR7GYkVC0DynZIFyi70cFCaSg1LWHUAKLgQCSyS84LOVxfFxErXYEyyqhUjFhmrmhPYISEoYTMh2CNBplnJ/XcNqyJBQheV91yvkPLyiBVCoul4YwnJzpnDSraLfr6PVauLnpSDj+1u023Sy5DcNkmIBKQaXDyQl0e9vFYNCX3+lOp+FGSgLRSHgIw1Toev3HMB0mQyBec4wqvkrohVMSTwpMCJqdoa8u2zKZ05+WhByHcAGGsp81432huRyEubv7jT8XF+ifnbmViFNCPvBYVFVe1RcF8/f6Gt1mE9mdsBudcWqUEIGYCs3e0ATjmL2tNRhrczBCIW+gCMRk7u8v8fAwkLup3x8tEz8r30yEI1GcVKveQD3np52x75mZKBKflt2Hcu6e5wqs0trZXEX04wf3oSaXkEDLwXdjifougcDsNBKxGNLbrp9tk0g8JhSURW+Uy7L0WkAd5vOy6LFIcLgRnKM8lsD25xVsbixhdem9Lp0SCK3Myk69ffNKn07NTL/GxrqBVDyOufl5PaCYTsgwUNh/fBfPZPSAIoiZy8EqlSSYz1A2EB8DPPfU2efz7rN3Wq/VwtWvtg5Ao3NPwfgOpKQVzKT6B39xxUTuDC08AAAAAElFTkSuQmCC",
     "wiki_name": "Granite hammer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Granite_hammer",
     "equipment": {

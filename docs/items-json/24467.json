@@ -1,7 +1,7 @@
 {
     "id": 24467,
     "name": "Twisted horns",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-01-16",
     "duplicate": true,
     "examine": "These look like they can be attached to a slayer helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xu3W3UsVQRjHcc+VJGFIkqRkmGSYgQlmhIFddVtRVFQUFQV1F0YhUvQi0huC2AsFCoGYSAlBF1EU9ZdNfGf5HZ6ZM8fOult00cDD7Jmd3fnsPLOzp6np3y8Vl47U+T9eKu7p5HH3eOKYj+nbR93UzSM+hFicvejezlxwC8/OJ1DxQxSGZyChAClizPyTc+7V9JlgYH5zLo4QlQtZcTN3TtSgqIEoBHoxddrN3jvp+1KnQPS36G8rk+7L0vj6UAJxrNkR6M2jsx6kvvVAXPd1ecL9WL3vfq4+9KBcGG6qpxaIQVOguQenqiCOU6CluUsBiOMGQZUgDQykxc3vGMTgIJTeeqCVl1fKAzGQzT9hQZpJgZg1i6H/h9dXqyAiF0jrQiDatnd1uU2trT42NDf7NgazCzoFot+2zk5fB6B3t4qBuOnWjg63saXFh51J+0amQFxXOmhHd7dH7ert9SDNkl3QMYjzO3t6akDf399tFEMJQSmU0ieQMPSLQVyzpb29CIiSLVxuHi9sBuCJqTe3tfm2GEQqSwRlexAzFIM0CDO0p7/f10qdQFwHiLbdfX2+D2FBOTbFbKGmQIRdF6SOAfX0FsRvnQcTv2WFQEIRgNhxlQpSpwVbD8RMlgays0QtELu1BhVIs6h2gQjaPi/e8CB26QYxlOwNS4H0OYhBenphSNH+oSEfB4aHfXotiBlaFyheR3qVY5AWLEEaQQi0b++gb+ezURpIKNr5flkQGBA6PjgyEoAGBwb8uY/z1wJQDlQGSqUtBnGe/koJtUDEodFR307/TwvXqyD2oBz7UAiyabMgar1NfEqUMkDE4bExP0OlgHjLfgdiLemTwTX2DbPBTJYGitNGuwXZvxxgtFdxnfoCWn5+OQCxB+Xeh1JpsyCO1wIBVt9SQKm0WRDn9H2LQfqwKl0FQZRwHdQLi7ERg/gvbUGKHKBGSy1SYdfPXwStVWqRtfG/FCu/AM4E6Q2xSRTHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xs3W7UtUQRTH8d1XkoQhSZKSaZJhBiqYEQb2qrcVRUVFUVFQ76QoRIoeRHpCEHugQCEQEykh6EUURf1lE99Zfuu5x1nbbW/hwOHenTvX87lz5s61UNj4rRjSkbr+z1sxPJs4EZ6MH48xdedYmLx1NIYQCzOXwrvpi2H++YUEyj9E3fASSChACo+Ze3o+vJ46m0nMb675yKJqQhbD9N2Ta1AcgSgEejl5JszcPxXHckyBGG/R35cnwtfFm3+HEohzzY5Abx+fiyCNrQTivm9L4+HnyoPwa+VRBJFjoLMzhs/uWmna9dQCkTQFmn14ugziPAVanL2cAXEukM/uWjFTBhJpcfPbg0gOQuWtBFp+dTU/EIls/QkL0kwKxKxZDOM/vrlWBhE1gbQuBKJvZ3t72NLUFGNTQ0PsI5ld0CkQ43a0tcVjBvT+dn0g/uj21tawubExhp1J+0amQNyXO2hXR0dE7enujiDNkl3QHsT13V1da0A/PtwrY2oGpVAqn0DCMM6DuGdbS0tFkM9eoZUWLn/cL2wS8MQctzY3xz4PopQ5gkp7EDPkQUrCDO3r7Y1HlU4g7gNE396enjiGsCC7KfrsrpUWagpE2HVB6Uiop7cgfus6GP+W1QUSigDEjqtSUDot2EogZjI3kJ0ljgKxWyupQJpF9QtE0PdlYSyC2KWFqQrEG5IC6XPgQXp6YSjRgcHBGAeHhmJ5LYgZqnJ2aKsgv470KnuQFixBGUEItH+gP/bz2cgNJBT9fL8sCAwInR8aHs6A+vv64rVPc9czIKF89kQrgVJl8yCuM14l4SgQcXhkJPYz/vP8jTKIPaiGfSgLsmWzII56m/iUqGSAiCOjo3GGcgHxlv0JxFrSJ4N77Btmg5nMDeTLRr8F2X85wGiv4j6NBbT04koGxB5U8z6UKpsFcb4eCLDG5gJKlc2CuKbvmwfpw6py1QmiZddBpbAYGx7E/9IWpKgBVChoW18vPNCGXT+5gKptHlkNVrE69j81j0yFv2dDt98YFzOoKLPcCQAAAABJRU5ErkJggg==",
     "wiki_name": "Twisted horns",
     "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_horns",
     "equipment": null,

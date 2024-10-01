@@ -1,7 +1,7 @@
 {
     "id": 9402,
     "name": "Mithril bolts (unf)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Unfeathered mithril crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuklEQVR4Xt1WYWvCMBA1f0ZQZBNxzkK3UqZ0OmEIYwzGYIzB/v8vyLgdTe5e45xpVsX3yVya3Mt7uYu93vnBWIx0DEnA2Pl8Y49ICgkYO72qgFCn5CQhY8vyxY7HpSI4m626UowJ+ITG3tw+KTI0P5ksVMyvTwpjHzZftiienUXr9afNskdHjuaRYJ5v/0stJkCEagWq6l2pdb/6EAR5jR4nhbF3i9ef+3NxWTgS8jeRRYLNCkxGji9zvz91CckeOcZ5raDfIwEpPr1Xg2P+8rJ6eJnlfatjyQjRRoPBtSNAyeSY1BqNcpWcYtJSXaHRCPea/Sc3yj6sUP/dweBKGQ4zdVKvRtgu7OZYoX7/gxBWh2SXBEN2eTt53KzQKLA6mAwJoho4JmWkfRyPAleSVIOSIUG0C+cTXGQCt/1Qqe+2ixWV1bdcvgHBaHAlYbJ9duEBEr1lvBFaQdJjQtkcaQ3a1bKqamByToaKoV14AKpQb280OBE2PrILE8o/akT4dzujsfuuYEzaRYqiXfr7VuAkf42Roqhes1l2hrB6Cd6sNkD1ktrVFqHn5qhI9lSkAvajk8BJkTlDfANbifFlDqUAdgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2klEQVR4Xt2W4UrDMBSFlzfZr8HG0DLmXGFahhtzcyCCiCCCiOD7P0HkLNz05jSb2LTb8EDBpF3vl3NyUzud/ydjeebI0gDGTqdbe0IoBjB2fLXajbNu18+Vz7cuDWTsfP5qs2yugIydTNbHcswBlAWNvbl9DmBwfzRaBHP8loZk7MP22xbFi49os/myef7o4XCfAWezp7agHACAxIHV6iNw63796QEFKBw3KmPvFm+7/XNxWXgI/TdgGVD2Wwsb3m3mXm/sCyIePeb72kFxrKEjwq1e3JCXS3S44B5vZr3fGCgxQveifv/aA6CYHsOt4XAWFMecjlR3aAJQ/Kw5tHKZ0/FxhyYBoVMGgzxYqbiBKxZXGE21Q2sCxd2B7RowFpfEKWPu0NpAcIeLMSC7wWM4o+MrY/2zXCdpN1CMATkuvq83chIMjv1Yq++LCxcc1d23XL4TYG25TuJiv8XFC5BvWYIzkHsRRwHruaA+HPEbjiuxq0RhcSnGjnFcvAB0qMSbAOQK8cGHuLig/kcNwIfiTALat1d4TscFRzmu8PkkuSLhyvbPwVF2r3pYJipmc2wOBWPu6cirv2ld7F6jcdWThql+bk6q6qeCnziy+Dw6C52NO6XOCiZVPxYZbL6gIEfYAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril bolts (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_bolts_(unf)",
     "equipment": null,

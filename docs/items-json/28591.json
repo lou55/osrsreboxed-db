@@ -1,7 +1,7 @@
 {
     "id": 28591,
     "name": "Tainted essence chunk",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-09-27",
     "duplicate": false,
     "examine": "An amalgamation of abyssal tissue, fluids and pure essence.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaUlEQVR4Xu2W608TaRTGnU/GjyYmJJDVSAKJaIoQtrCh3EILpG2gpRdKp5TeACkQcJYycikoYk1tgst2sZHddkG73YoIMZv9C/YPe5Zz6oyN+EnH4gee5Mlcvry/Oc95z7yXLl3oQhf6VAI+uqL63MICZoIBeIft+KmlpZJQAjbGLLhn7YRZf1sFyySTKlBDfX2lgATsLYhIz4xAHunHmLEVnbo6Xvx9oYBn8Th8TgeadbrKAeUW/UiM2bC5FMOWLCOxvIynq6sMtJ9OY126j9DoKH6orq4ElIC8HOR49lIpZJ8/Z4hXu7/hn+Lf+PfwELlfdxiS4vvGQAIKyyEUV8MoZrNnTECHuRzSiQTk2Vk4LBbcqKr6TPNrJgGH8Qm825jE0f4+jl+/Yp/8lWeXV4ciM+j13Nw1167hyuXLWkOVvtLV2oyDpXEVhPpGiYpM1VlbmEdEFGE1mdDb0YHWpiaG0gioBCIP9iNmNSHQ2YZtn5NBymHonmJ7FPDjcSiAWDQKv9sF1+CgCqYB0Om8cVgQHzZjxTbAQNG+LqTHR1QQulJ8+cwLbnB51MNeGxMxFw5xpewdBhju3NEiNgEp0YHkqB1b7iEG2/G7kQl78XbzIYrra8ivPMCfcgwvpQVseCyQbEbVMY8bEYsZzs4O6GprcataafCvkrJDPkzjU5jclB9HTx7jzcN1FNZWGOj3RQlb4hDmLN0Imdrh7dIz0IzdBm+7HtZmHXoaNJ/eArKTPuSjQRwnnqhAB8sysrGfeVgGu3TobrgOY+Mtjo4inug1cO8RmIZAp7+MiIiD6XEU58I4kaY4NgXol5koA0VNTbC11KGu6ioksxFz/d1qdWlkzA/3agUlcFSF2RCbqkQmQPKmy8pAkkWPFdcAbl+vZjferOF/H013AqJroK9NC6hSXIqpWopp11E1kuN27E55UFwMYy8qYjvk5Kn+YKgNzTdLDf3fH0+RlXxlp4SvUqn0u0EPm0DIyg5MBRwMkp31YSfiRjJiR1w0c199XFzA9pQToYF2/Fh/QwsoUgmMBiSNBYqLn08rkpn2MgzFR2cmyWnEhNmg9lFm3svvHYYmrWDKVT4SPn0+azpD7Uy7tWzsL5XAIBRVatJx/jC0ywiIjryNtTXnD0RV6bmrTOlzhVH03YBc6Nvrf/bMrugG6TwpAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADjUlEQVR4Xu2W60/bZhTG60/VPk6qhARaL0gglVahIBaYCJeKpKAkgoRcCHEIuQEjgKAeqcsl0FGaKo1ES1MWjS0ZsCzLWC+qpv0F+8OecY5l423VNAkDU8UjPXJsKa9/Ps/x8Xvp0oUudKG/S8Cxz1QfurGAmWgEwWE3vmhrO0soAetjDnzp7IbdfEsDK2SzGlBTYyNfu3P9+mlDCdhdEJGfGYE80o8xazu6TQ188/eVCp6l0wh5PWg1mc4OqLQYRmbMhY0HKWzKMjJLS3i6ssJAe/k81qT7iI2O4rPa2rOITUBZjnI8u7kcis+fM8TBziv8Vv0Zvx8eovRymyEpvlOukoDKUgzVlTiqxeI/TECHpRLymQzk2Vl4HA5cq6n5QPMbJgGH6Qm8WZ/E6709vP3xgP3upzJbXx2KzGI2c3PXXbmCTy5fNhpKeUpfeyv2H4xrINQ3alRkqs7qwjwSoginzYa+ri60t7QwlEHxKSDyYD9SThsi3R3YCnkZRA9Dvym2ryNhPI5FkEomEfb74Bsc1MAMADqaNx4H0sN2LLsGGCh5rwf58RENhI4UX7nwDTe4PBpgr46JmIvHuFLuLgsst28bEZuAnOhBdtSNTf8Qg22H/SjEg/h14xGqa6soLz/ED3IK30oLWA84ILmsmlMBPxIOO7zdXTDV1+NmrdLgJ66S3gRTmgrj9ZPH+OXRGiqrywz03aKETXEIc45exGydCPaYGWjG7UKw0wxnqwl3mwya3rSAsoiA4mQI5WQUbzNPNKD9JRnF1Fc8LKM9JvQ2XYW1+SZHRxFP9Fm49wjMECBFR5+MhIj96XFU5+J4J01xbCrQi5kkAyVtLXC1NaCh5lNIdivm+nu16tLImB/uO2kfqRI4qspsjE1VIhMgecPnZCDJYcaybwC3rtaym2/U8bePpjsB0TFyr8MIKCUu1VQt1fTWUTWy427sTAVQXYxjNyliK+blqf5wqAOtN5SG/uP7pyhKId0u4URSSr8TDbAJhKy+gbmIh0GKsyFsJ/zIJtxIi3buq+PeEbA15UVsoBOfN147OZS6KC98NCBpLFBcfH5UkcJ0kGEoPtozSV4rJuwW7T+F+SBf91haNEhDmlwPpn/6fzPtoban/VpjGwajl7qourD+/Pi6wCAUVW7Sc3ow/03KDpOAaMvbXF+nq+i5SOCq3L2jTOlzro6qv4KcM4yi/w3IR6c/AURj4oRTu9k2AAAAAElFTkSuQmCC",
     "wiki_name": "Tainted essence chunk",
     "wiki_url": "https://oldschool.runescape.wiki/w/Tainted_essence_chunk",
     "equipment": null,

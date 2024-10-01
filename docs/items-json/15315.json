@@ -1,7 +1,7 @@
 {
     "id": 15315,
     "name": "Toxic blowpipe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-01-08",
     "duplicate": true,
     "examine": "Fires darts while coating them with venom.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4Xu2WT0gUURzH5zXOn50d5uSlDnaIJSgjjGxZGrdNzVoDiw0ljUQRKwkpSWoJCsFCCMKisIIkkDqEIRYFQV3qEB0Eb506B0HQoVOnb7/33s5MO1qHHJ0p+sKPnXmw8z7v+/szoyj/rhjCKzGIQ8go6Cf86xjg5KZFfRTN+hDcmr4AZPMWqC371hKMIU8gWXIkrw/Q7zEotbXQBoeg5gtQG7NQ1m+AUrdRxupCMezUR7CNQDI1JdStaxUQWqlThNpWhNqwQ7gkoJbAhO9XLIYcpahBH8ZWSpOac6EdKkmgrm4JVb9dOuNYISCGJmNiGcg/VlCwHpTa3gHn02PfIQE1fBjKpswSmD3GNbjGeFRADD3GjepI34bzZS6A4UFuibTxovbrhzrQuC7c2W2MRQXEJR9+gE7Zlr6ClvSdancqMFrJlVDknpdOz52ccRm79AtRQQUworWpm+yPM9UwnXlo/fv99J02ZzFozuAgARXJoax+kZpiNDqgVjqhgKFi5kAejDU3Bq17L7V+O4yRI9B6juOMNY+T5iP0m/dFivl/mwmIj4wm6tQIoJiEqcwa3t4chq+XyLk+855w5Lz1GmXrDc6azzFgPkCvOYUucqhAqQpAVgzDxUSxeu6IeUNrHXRy7gDvPD6jeJ000pwKNg5HJGJivmS+v4Lz+Qns97d+enh4w0g3Xk4Sxk8VH3yru+HvVA1jvZ1MDoz97mYyYJyv86GaiUUSyPn2DPbCFFS3Pk4g5g8/e/EujPLROGG4mJw13ndN3DDee8p6OfGLj6w1FfPbO/WwnAAYXjdUxNbspWS4Y3+YhvV0HKnpc3HDcDFRNzxVqclTCQF6cbUCEjuMp8SA/Nffox+GmaosiEjgywAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtElEQVR4Xu2WT0gUYRjGZxrnz84Oc/JSBxNiCcooI1uWxm1Ts9bAYkNJpVDESkJKklqCQrAQgrAorCAJpA5hiEVBUJc6RIfAW6fOQRB06NTp6f2+2W/W+axDOu0s0gMvyvDNvL953j87irJ2pUK+EoMYhB8542TwfwxwftK8MYYWYxheTX8ZZPMWaK37KwmmIksgaXIkawzS3z4otbXQh4ahZXPQmtJQ1m+AUrfRj38LpWKXMYptBJKqKaBuXRuH0AtdPLT2PLTGndwlDkXnd9TX8xD3h5+3aqnIUIkajRFspTJpGQ/64YIP1N3jQzVs951x7QBI3NtsTkbpWLlhBZTW0Qn3y5PAIQ41cgTKppTkjoq95nV45oQEuWKp6DVvhiN5B+63+TIMC3KLl401ddA/NIHmDe7OHnM8KiAm/+EH6S3bk1fRmrwbdqcEoxc8H4rcE+UU7mTMK9htXIyqbGUYPto0Tc7n2TBMVxb6wIGgfGesOQxZszhEQHlyKG1coqEYi8olFW30hhyGmpkBCRh7fhx6zz4a/Q6Yo0eh9x7HWXsBp6zHGLAe8BKze1sIiK2MZprUCFwqLb3SrmHjzWDY9QI512/d545csN+gaL/FOesFBq2HOGFNo5scylGpyiDyOliRVN6swh2+b+haJ705c4BNHttRrE+aaE+JxHIIkNXD0H5J/XwN9+tTOB9uL+mD5UnlxHLIT/9L+TBBqdjiW5KQnZATRpT4dwrD2O+mlsFUUGEY5/2t6oBxvy+EeiYGGCYfyP3xHM7HaWheQwAkn6yASvuGxttZvAezeKwK3GG7RnzXxA0jfqfsV5Ohjyz5ZIWkBuOdeFSM3x3eN9TE9tzl6nDH+TQD+9kEEjPn43aHSeV9w0qVmDodtztMBPTyGgepAneEIvs8iE5VA/Jff9AvehL2J4hP39UAAAAASUVORK5CYII=",
     "wiki_name": "Toxic blowpipe (Charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe#Charged",
     "equipment": null,

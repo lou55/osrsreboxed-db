@@ -1,7 +1,7 @@
 {
     "id": 29350,
     "name": "Blessed zogre bones",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "Bones blessed at an exposed altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu1V70tTURje/ST9P36wD2ZhZmaQZmVmpoWZmWhmFuaPzGrDzIyWWY3JMJsyxsRsydgY08wxxpaVTGKDNGKEEEL/wJvPe9vudl3pdimC7gMHtsO573nO8zznPRqNChUq/ioEEsc/AYGWgkGyW60/SaU7pDqb5zKCQO/8fvLMvKI5p5O8Hg8FFt7wXGhxkcKhEH0Kh+nLygp9jUbp29oafV9f5zVtDQ1xEr65WZqeGCfDwIBSUgKNDT+iuqoq3kDb3k5DOh2NDj2kyedjNGOzkevlNM06HLTgdpN//jW99fl4c6yLEXofCPA685PHSggJvGHP5VaqKS+nMxUVTOzC6RpqPltLrfX1dK2piUnev9nLpwd5q8lEw3191H2pJU4osrzMhKfMZmWEUPhgQQGdOFyakAFpIF/Y5O717qR5qAPysf/Rz6usnPPFlHKVpLF5HlbALuPgYMIagVXcl5fHygS9Xs4glANRvVbLiqaumxEEDjOCCzKw1fZsNEkhEJ13ufh2jhsMrDSs7b3SxhHovNjMdl9tbFRKSmDpQcRusfBmUCeWHYQa4QVBzMNKbHrq2FHKz81l1Q7szadDhYVUVlzMRBUTwqknjEZ62t9Pd7q66MHtW0wQNwvEYAlUgG3YOFG51CNtyAtIwzE5SZaRESan6+jgm3fySBnt37ObrQRRqKZgcznEmwSb0NyQCwQUPcik19O9Gz2cB9woqAE7MA8rsQZqYj0aKpqp/EDJY0sIfEPQP9x2e9wq3BSEE70I7QBtQW5NjBSyhKwhV6iDg31c+kCrkQj/Rl0oDJu3QUq0BCdF70BWoEZtZSUTKC0q4mCmPqE4F1dqgxR6EJ4f3E4ohjl0fOQQh5Nq/RaCqM7Gx7AHNwZd+3hJyS+IyCGpBoVBChZCOeQOSuNwO7OzWemt6zHEgngaENpdOTnb/VAGiRxsx9OyIysr4WBp1xSo5VxdJh/KIHBm8DYqr6W8gAY1zldXK1D6jyAji1SoUPH/4AcHHfB9ZV1PYwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xu1V70uTURj1/ST9F/4JffCDfTALMzODNCszMy3MzEQzs1DTzGrDzIyWWY3JMJsyxobZkrExppljjC0rmcQGacQIIYT+gSfPs9692+ta+wEitAMX3eXuec4959xnWVkZZJDBtkKg0NoREGjZ6yWzwfCHVLJLqrN1LyUI9NHtJsfsW5q3WsnpcJBn8T3v+ZaWyO/z0Ve/n76vrtKPYJB+rq/Tr40NPtPR1BQm4Zqfo5mpSVIPDaVLSqCJ0afUUFPDDRSdnTSiVNL4yBMyvZqgWaORbG9maM5ioUW7ndwL7+iDy8XNcU4k9Mnj4XO658/48+6cnFRICdyw71o71VVW0vmqKiZ2+VwdtV6op/bGRupqaWGSj+708+1B3qDV0ujAAPVebQsTCqysMOFpnS49Qih8pKiITh8rj8iAtJAvNHlwqzdqH+qAvPg5+G2NlbO+ng6rJO+WIKQmuJW4xD1YAbs0w8PhM/gLFQ8WFLAyXqeTMwjlQFSlULCiUu0kEU0EEDjMCC7IwFbjy/GIBiGiCzYbv85JtZqVhrX91zs4AjevtLLdN5qbUyMlQWDpQcSs13MzqCNmB6FGeEEQ+7ASTc+ePEGF+fms2uEDhXS0uJgqSkuZqKRsShD41lMaDb0YHKT7PT30+N5dJoiXBWKwBCrANjSOVC7WilY/IWwtIi6LyUT6sTEmp+zu5pd35ngFHdq/j60EUagmby5f8o5xEHpJsAnDDblAQDGDtCoVPbzdx3nAi4IasAP7sBJnoCbOY6BimMovFL3+CYFfCOaH3WwOW4WXgnBiFmEcYCzIrRFJIUvIGnKFOrjYl+XPtBYI8P+oC4VhcwKkQpbgppgdyArUqK+uZgLlJSUczFh2iHthpTZJYQbh5wevE4phDxMfOcTlpFpxIYTU2fwy7MGLwdQ+VVb2FyISIolhQWGQgoVQDrmD0rjcntxcVlqsF1knBkIF8dOA0O7Ny4tLRA65aliwHT8tu7Kzo/YTqccQC7ZdbEjuizKIdZAZ/DbKL5ZCzdTJSBDoUm1tlNLyE0kh7QKMJC3aDuwoMhlk8N/jN/G7NstP1h9BAAAAAElFTkSuQmCC",
     "wiki_name": "Blessed zogre bones",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blessed_zogre_bones",
     "equipment": null,

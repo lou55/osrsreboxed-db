@@ -1,7 +1,7 @@
 {
     "id": 27442,
     "name": "Adventurer's cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-10-11",
     "duplicate": false,
     "examine": "The cape of an adventurer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSUlEQVR4Xt3WT2sTYRDH8T6vIcFLcYuFCoKXXhQPBcGTFEL8U2yb2oYYQqy1IYQQYk0b25i2sZZSFb149ehBEARBEHxfY76zzmazZ/eJOPAj2QT6fJiZzXZq6q+Xk1EmXk5uX52V0o1ZqS7MTRrm5M2gr7l1ZUYK1y7JxvUQNyGUk9OX3Sg3LweyNB8obITyBgsxgxcdaW5vRlmYm1YYHWOUxBPKKaCxVdV8+vhBMoshDihjfH967A9z1t9XCAgwBuIzUIA8YSgn50c92W3Wx0CGokPvTg59gZycHOwqaL/dlGy+J9lcVyE2Mr7zhmGJ6QCHMjauezst6bYa8rxRk2f1bV8gJ8Hr7wrgUDB2uwNgRLxy7QVz8dU3Odzb0XGBSYKsYx5AQ8zRV8WQVm0rOtg6xXJ7wlDhqPqdti4sHTIMr0BsVHyXMigcVX2zor8vleJDPRSMgVhkT90JR1WrlhVUXi9oh+KY+HKn3B0n0/0viiGltZXoF5guPS5tKOZppeQPw2EEjIHAEBb7SbmoKN6TlEBDTO+zFFcfRAET36E4yCvmXm4xiu0QGPs3wzDpgoajSmKsS8t387J6/45i2CHDZIup3F0jTBxk12AIXWJ0XrrDLc7hS/ncGIZrw1hS7w4YS6bQ1hjGQHa32WIztuyj1J7qISqz3lEM4yMGMgw7ZKAUMVb88TBgFPcnhjFQyt1J1jiIZxkPV/YFhKfuJCvsFBiimGGCsx++u5Os0RhJcP5TZt7+miQoXk47dKE6+BcwVtat/7x+A/uC07JYI4sSAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeUlEQVR4Xs3XS0sbURQHcO9nSOhGHK1gQXDRbixdCIWuRAhpVbTGR0hDSH2FEEJINRo1jRofiG1pN9122UWhUCgIQr/X6fzP9czjtnQ196YHDnEMmfnxPyczOjCQeCkKu++laHpilApPRqk8NdZvmKJ3vS73s/Fhyk3ep7XHGtcnlKLLt+2gnz7waP6Rx7AQ5QymMb2DFtW314OeGhtkGBLDKNGOUIoBtc0y95fPnyg1o3GAYowfL08Z83BkhNs8Q4Kl6Kp7yBAggBEQfgcUQI4wKEXXJx3aq1djIEEhoQ/nxwHI/HTCpej8aI9Bh806pbMdSmfaDJGR4T1H6SheYiSAi2JsOO7sNKjdqNFurUJvqtsxkHmGBEuRd/GTAbgoMPJ1BwAjwiuOHaSjaOjsBx3v7/C4gDFBklgUZJ4lofIxJ98Zg25UNoMLS1JYbhNjFYRRdVtNXlgkJBi8AiKjwnv20/FHVV0v8f2llF/hiwIjICyyo3T0qCrlIoOKqzlOKIqJLrfldBQNdr8xBl1YfhncgZHS68IaY7ZKhT8wFkAag4uhgREQMGgs9kYxzyj8jLaUjo/pfKX80kLQwER3KAoyMQmD4pjZzEzQskPAyJ8ZgrGbjj8qEyMpLb7I0tLcc8ZghwSTzlu5EYaYKEiOgUEjJYzub+kkDsJXHBefz2ZiGBwLRtp6OsBIp3JNbsEISL5tstgYW/qVtae6RqVWW4zB+NACEgx2SEBRjAUQKvxnDxjG3bVgBGQ5nbD0yeMgPMvwcMW+AOEoHbN0UsCgGeO3d3XjLh2zJK1oe9e3NPz+V39AUuFYFCd0r9xzPa5/lU7qP8HosoH5De9jFETcQzHFAAAAAElFTkSuQmCC",
     "wiki_name": "Adventurer's cape",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adventurer's_cape",
     "equipment": {

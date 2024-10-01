@@ -1,7 +1,7 @@
 {
     "id": 913,
     "name": "Steel arrow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "Arrows with steel heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABr0lEQVR4XuWSwUoDMRCGdyke6tmz0oM99FBFaqlg7UGwlMKWVqTgyZOe6wOIvoCvHMmus8n8GXe1GbeCP4SdSbKZb/4kSf6PUlOMxoQFebyczczFYNAUVGoW06m5HA4/C6Ysvl8tzfV4bHrdrgCEebRSc5dl5mYyMWf9fl7Qj+14ed7kDtmBzl2NRgLk1iqK2WGv47jTYXHp1mErd8gOV7wAPz890QfaPD2WDvgxwRzsJyWc5FroXJScAxhTTvHtfF4+bB+IOxcl7gC64ecP6zU8bA6LJ28hGcAd7vL3t9fgYfO9KuIdSnCUWyD/YfO9KpIBJHfq96qoviDm8pqK8FDsuAoA90ZLLlCXy2sqwg6rcgTAvdGSC9Tl8pqKsMOqHAFwb7TkAnW5vBYt6UDsuCrHtWjhgQiYmlV77wsA3BstPDAsSDD2aweuK7oTdk5FaQ5hjlpJAKPkTljMh6E4azswC0MQCI6n/1DOiVXPdY5gBED/SDD2qwJkO6fuqTDNhTDFPz4QNaUAQ6IHTLE/568V8+EVqQN9VxyGQzQOY8Uff3iVO9FOr6hKfwrm9/QBWWMuxX5YJ68AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwklEQVR4XuWSQU/CQBCF2xAPePascJADByQGCSYiBxMJIcFQY0g8edIz/gCjf8C/vGZapzv7OtBQxnLwJZvOdDd937xuFP0fxS5btQkNw3o5m7nrwaAuqNg9TKfuZjj8NYyD+jlZurvx2HU7nbTvt1obwE0Uu6fFwt1PJu6y10sNZU3r432dJkQrBIrd7WhkmVpmRot+x3m7HdR5WqeNNCFaHigDv+pfKKlVVga0fnvNE5A1w5wcRzmclhqfxa9XlE8Aa+65fpzP84stgcLk9lKYAKYh+5fVKrjYCEswewLpAH5S339/fRYutjxrAEMKJ9TguCcgebHlngEISQfQ0ik7awq0zRB7bc8URjM8QDq6QVmv7RnAkDangT0C4FkDIN2grNf2DGBIm9PAHgHwrAGQblDWa3vmMJhGWY97ZkBoJtNImkcqAJ41g5HmaMgw9KSF+4bpFCdnU36HMGeNqABjlE7RTMJwvWh6MIJhCATfMx2fRNL1kyMYA/C90mDoaZIOTc7TszG/QxgNiIcySIeVGbCZNJV7/B5/EQLh1ytJTiafciFMCGGWzi4KL394r/wgNav4iw4E4nXAX7RdfwHzA/C3lI4ZEgyBAAAAAElFTkSuQmCC",
     "wiki_name": "Steel arrow (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_arrow#Unpoisoned",
     "equipment": null,

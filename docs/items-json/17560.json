@@ -1,7 +1,7 @@
 {
     "id": 17560,
     "name": "Bottle of wine",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-04-10",
     "duplicate": true,
     "examine": "A very good vintage.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1ElEQVR4Xt3WyytEURwHcCfpdmdBNjYWMoVCM0YYMsrfYG9hYWkhryavMSbvkPc0zTQxeTdlYTcJifwJmkHsvLKfUT99z+1w2VjIuSe/+u6m7qff+Z0zv6ysXxUjI0oUozJ7LlVX5quAYrSz5KHNRQ9Nel1qgIAJTbhppNNBbcU5VqMYBWt0irl1Gndo1FKoAGivwcYTqNSouSDbetBhk40OPDbyVWjkzFMAFG80QMvVuvUYzI4AYZYsHGpjmLfqdY5BonU6dZZqVqAYzVXpFK797A6Cbg2Ua7JRjN8mzAsAAoPgpgEpGcX4e4PjAsAMQrdwbNNOjaM6SnJkoAwQOgHEWybzJS+Pj3R9dUVniQTtR6M0P+q3DpRJp+np4YGDzo+OOGh2xCcHhCP7CRTfWFcPNDM89Pcg3LLvIGAE6DaZ/ABNDQ6qAbo4PlYPhKEe7+9XB7QbidCY1ysfJDACdJdK0eXpiRogPIwCtB0OU6CvTw0QjmwrFCJ/b49ckBkjQPc3N+qB8A5tBtfI191lLej1+ZmD8OcaW12RA8IyD5B5ORPBBokVBL9pLfrz1UMUowWXsb4CZQ6WNuxD7XZpGFGMd8KMwcKGzhkQqRhR4sPf80/rHWJi+OIHTkf5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB70lEQVR4Xs3YOUsDQRQHcAeRZVMoNjYWHqCCSjTiiRH8DPYWFpYW4kXwilG8UfEOISFo8CZgYRdERRQ/QkhUtIsH9kZ48p9ldBXEQjM7D161C/vjzZvZt5uW9qdgZKQSwaikMJOqyrNVQDHaXXbS1pKTplwODqrMz7cSxTjGN1lHI512aivIsLpKjLzVOoXqdJqwa9SSa4AsrBKj/QYbz7FyjZpz0q0HHTXZ6NBpI3eZRhVZCoDCjQZopUr/wFgEYrx3BAi9ZGFTG828Xa9zDDJYq1NnsWYFitF8pU7+ms/qIFGtgVJNNorx3YR+AUBgkNhpQEpGMX7eYLkAMINQLSzbTIXGUR1FGTJQBgiVAOItmfySzw8PdB2N0nkkQgfBIC2MelJ9DPwMSr6+0mMiwUEXx8ccNDfilgPCkv0GCm9uqAeaHR5KPQi77DsIGAG6jcU+QNODg2qALk9O1AOhqSf6+9UB7QUCNO5yyQcJjADdxeN0dXaqBggHowDt+P001tenBghLtu3zkae3Ry7IjBGg+5sb9UA4h7a86+Tu7rIW9PL0xEF4uYbWVuWAMMwDZB7ORGKCxAiCe1rzPj+JUghCMFp0GOMrUObE0IZ5qL1QGkYE45UwYzCwoXK4JhkjQvzx+JoCIhljhPnh/w15B+KhKx6TaYVsAAAAAElFTkSuQmCC",
     "wiki_name": "Bottle of wine",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bottle_of_wine",
     "equipment": null,

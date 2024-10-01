@@ -1,7 +1,7 @@
 {
     "id": 760,
     "name": "Weapon store key",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "The key to the Phoenix Gang's weapons store.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu3Wz2sTQRQH8ATJoSHEiyev/gHif+ChJy+tKP5GqaJQ8SKKpRZFayn+otJGWyqkVFrSUm2l0IMoavUg3go9CIInD4LgP+DpyXeW7+bNy2zNZlfx4MAjm93ZnU/mvZlNofDvt6KEI3T9j7ei3Bs6IHcG97sYHeiVkcs9LoiYH++TJ2OnZOb+yQDK/ojM8AhEFEAMi6nfPSFTo8e8gfEd12z4qFTIooxdO9iCwicgDIIejRyR8RuHXF98hkDor9Gvl4bkZeNSZyiCcMzZIejx7eMOxL5JINz3anFQ1lduyruVWw6UCoOH8lcThEFDoNrw4RiE4xCoUTvtgXDcJqjopQEDsbjx3YIwOBBML0E6Pei3NHk2PxBnCedCIM4kQe4ZA11x4Pvy9LkYhEgFYl1YEAa3IF3QCI353KjIz/WdMcoDLVzJDsJ5gIjiTLKPxmzOVuKU6ZnKDYQAQINsQdvBk0Bvnl1vF4PmgzSKy9eCiNGDh6JDEFr0cAy2FYgFHYK8nSjLx+mKS92DC12yd8+2TkHRHoQZ+h0IfSzm6XBZPs0160cHizrFphgt+RAIoUEchJD+3pLMXm3WDjdEwNH/xfzFfEBEITCAhSD69pXi87hP79C5gvQshSDva2XZvSuqDc5iCLT48EwMwi7dJgYtWmEWZCE6cA31lQTC7OC1oWeoIxBRIcyPtaorXI0KgZguvDZyBX2YbA5ODM7jWKOQWv2mJ2i13u+BUqAikE4bzn1ZqMhG3Z8RYI52lxwOx0kg/O1Ymzkfg7AHpdiHfJBGfXtedS9LjdKBdFkQZiczCKvMgljYX5erLpIKGiDcq9OVG8iuNpzHdaTu+2pVdmwveCDuVbgPfQnCktcg7EGp96FQ2jiIThP/BViQrp9cQKG0EYRBcI3vNwtCP10/GUFofrEmhcbosCBsihrESAFqt7UiGbp+/iJoq9aKbI3/LVv7BferOCNLdUgWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xs3WPWsUURQG4FlkiyzL2lhZBfwB6j+wsEpjRPEbJYpCxEYUQwyKxhD8IiGuRiJsiCRsQjSRQApR1GghdoEUgmBlIQj+Aasj7x3emXOPd+JOdpRcOOzszJ2cZ889cydRtPlHScIRuv7PR0nuDRyQO/37XQz3dcvQ5X0uiJgZ65GnI6dk8v7JAMr+iLbhMYgogBgW07h7Qh4PH/MS4zuu2fBRuZAlGbl28A8UPgFhEPRo6IiM3Tjk5uIzBMJ8jX4zPyCvmpc2hiIIx6wOQU9uH3cgzs0C4b7Xc/2ysnhT3i/eciDk2NXZ6cJmNyMuO381QUgaAtUHDycgHIdAzfppD4Rjgmx2M0reMiARmxvfLQjJgeDyEqSXB/Pmx88WB2KVcC4EYiUJcn+jryMJfF+YOJeAELlA7AsLQnIL0g2N0Jgvzar8WtmeoDzQ7JX2QTgPEFGsJOdozNpUNVkyXanCQAgANMg2tE2eBXr7/HqCyQ3SKD6+FkSMTh6KEMhmzxjxH0ey9UBs6BDk3YOKfJqouqUbvdAhe3Zv2Sgo3oNQob+BMMding1W5PN02j862NR6U7TZzYgf+RAIoUFMQkhvd1mmrqa9ww0RcMx/OXOxGBBRCCSwEERPVzk5j/v0Dl0oSFcpBPlQr8jOHXFvsIoh0NzDMwkIuzQxLYHw5FiQhejANfRXFgjVwWtDV6jF6mCkIKJCmJ/LNde4GhUCcbnw2igU9HE8TU4MzuNYo7C0+k1P0FKj1wMRZbMHRgzSy4ZzX2erstrwKwLM0b1lh8NxFgj/dixPnk9A2INy7EM+SKO+v6i5l6VG6cByWRCq0zYIT5kFsbG/LdRcZDU0QLhXL1dhIPu04TyuY+l+LNVk29bIA3Gvwn2YSxAeeQ3CHpR7HwotG5PoZeJ/ARak+6cQUGjZCEISXOP7zYIwT/dPmyAMv1mzQmN0WBA2RQ1i5ABFEbf19cICdej+KQTU6rDIVrCMdO5/GhYZCnvPph6/AUG+gq/T/DGCAAAAAElFTkSuQmCC",
     "wiki_name": "Weapon store key",
     "wiki_url": "https://oldschool.runescape.wiki/w/Weapon_store_key",
     "equipment": null,

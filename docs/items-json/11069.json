@@ -1,7 +1,7 @@
 {
     "id": 11069,
     "name": "Gold bracelet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-30",
     "duplicate": false,
     "examine": "I wonder if this is valuable.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB50lEQVR4Xu2VT0sCQRjGG0Jkl2W/Tx8g+gRCEARBHTpUCIIRRRFmSIJgWRgJQpKBIAkVhlBkIB6EwEMQdIgOQRB06AO87TNvo6ueOsxuh33gZYeZOfz2ef/M2FigQIH+lQSNhm8StDofpt1omK6OzF74BCUosRymvdggzNOl5QeQoEzcoNyGQYWE0YNpFBgIoB5CCQlSTBpUThtUyfTdcQN5CCUkTDXbh3DDuIE8gBKUXWOY+rFJrTOLOhVLwriBEEjp4nSIJifGdUIJWTMK5rFq0fO1Ra8Nm95ubepeWHIfcLiDQAdGpkK6oISsmWEYBfRyw/vtcwaDe1ij5hYiGqEUDAAUzPs9f7EPpwCCM9xB4Edic9pqSozAKCAE3MH5d8emetqk5r5J3aJFtQOTorNaoBjIDfPxwF+kKbvijAWn+CvbTgemGKhzwsVeShm0NKMlfQwFEBUAwgjIRZ2BGe8D3Tld2c5b0iWkTgOMkpBp+2xxoHbQhfkYO1TeNAaA4Gh+y9AJBDHUV9uW7Y42hzuldXaolnQ55ADjXDMQJGTKUD/yWfl1p7rDKWtkGKh5qjVdw2Kn8L653UGXwaHWIXeZp0BwCdMZTqhZhULHGvt4Az0EgnhoovsUCAO4w3P5DhAoUKA/6wf5SAnlOFrO3QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAUlEQVR4Xu2Vz0oCURTGvYTIDIPP4CO07QGiJwiCIAhq0aJCEIooirBCEgT7h5EgFBkIUlBhCEUG4kIIWgRBi2gRBEGLHuA03z1d56Ytu6OL+eAww70zw2++8+eGQoECBeopCeqMrknQ/ESENuIRutizW9ElKEHJmQhtJn7DPJ47Eqg/FvMTSlBmzqKdJYvySasFU80zEEB9dElIkMK6RcW0RaWM544O5COUkDDlrAehw+hAPkAJyi4wTGXfpvqxQ82SI2F0IARSOjUSpsGBPpNQQtaMgrkvO/R06dBLNUqv11F6OHXkOuDwDAIdODwUNgUlZM20wyig5yteb5wwGNzDPWpuctgglIIBgIJ5u+Ur1uEUQLCHZxD4kcS4sZoSHTAKCAF3sP/VjFIlbVNty6aHgkNn2zbFx4xAMZAO837HV6QpO+uOBbf4S6tuB6YYqHnAxX6Usmh61Ej6GAogKgCEEbATdwfmnAd043ZlI+dIl5A6vItJbmCaC5m2jzoHagddmEuwQ8Vl6xcQHM2tWC2g9q/9kxjqsxGV7Y42hztHi+zQ2brmkAuMfcNAkJApQ/3IY+XHnfIap6yaYaDaodF0tYudwvmmu4Mug0P1Xe4yH9xRYpcwneGEmlUodNxjHWegj0AQD010nwLh9vbCp3Tp+htAj/Y3jKvrAIEC9bq+AY8oJpHCRycXAAAAAElFTkSuQmCC",
     "wiki_name": "Gold bracelet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_bracelet",
     "equipment": {

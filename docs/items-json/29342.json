@@ -1,7 +1,7 @@
 {
     "id": 29342,
     "name": "Blessed bone statuette",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "A statuette carved from the finest blessed bone.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2UlEQVR4Xu2V7UtTYRjGff6iICgI+t6HoKjQwqyGjGHmS2ZmmY0xxoaZqc1MtJmZTRljY4zZiyK9UR/6o+743Yfbc1CDztz0Q3vgcHb0Oc/9u6/rep7T1tYardEaNpz417EPJ4O9URm7PyCJseHjBPMKD/XFJP5wSFLxUXmWjsuLyZTcjt46ajAnse4bMjzQo6o8TT2RmYmkvJzOyNLclKwsZlWxi+fPNRvMWxwFRu72SnJ8RJ5nEpKdSstidlJB1nLzegGWTjySm53tcurkiWZAOem6dkVhRu/1qUWo8mp2QpYXZhVi/e2SFN4vS/7NguTmp1UxgFGzwUBOO70Ti6gVdE5WKLr6em4XpJhfkdLGqj4DCSzQzCf4DYJyEum6Kv093QqTST5WiyiIEgZSLqxJtbSu9413ObUPGwHnHbKGsoeE8mxCmfEHgxpebKAYRYMgtXJBPlRLUinmFRLlyBFAqIR17ELW8IMeOvBOopHrGmAygzLAHASytVnRi7/xfzIVzJdBohpwZ8+cls6OS7p2CCjv0OOcoTs6xiYyAlCtUlSI7Y9V+bK1qXcAgQ7mC0DmBe2kOXYp51goIHwnlFhFtyxGIYqgxqdaWWF+fttRu4BGAeZQHAhAf//6rirTHGtyhtVlGWG0Qw8LkJyidM6OQhG63/lcU0CUsdwAb2oCRWPYyzMbJDQMu4sQ0jEFKITUwFkuUIUi2MdvVGRucDca1I+v2zqPZ5QKDYTEXHRGAeDIEoC27c06ClpwDYiihJYjA+UAZz7v+h/ifx6eXWx3PCeAQThss5xQhK55prAdhgDxPhfrGQxKs1ZoIIMJBpAigGIHxbEOpcgLkNgJEHNRh6xwdPgBruv8YXg7bP/L3jO22QcVMAJP51jqz/caaL98oR6Ag8bfFnFqiX3luQOIlfvf2dtQ04bb3XmoAmAdQW3kcLrrUIXAW3D3zjricaiQtkZr/H/jD2XDiCF0M/EOAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xu2Vb0tTYRjGfb6J36AICoLe9yIoKqwwqyFjmJlmZpbZGGNsmJnZzESbmdmUMTbGmP1RpH/Uiz7UHb/78LjH2bLDNvfm3HCYZ57z3L/7uq7nWUdHUEEFZctI9Wp7GRnqD8v4vUGJjY+0E8xrPDwQkeiDYUlEx+RpMiovphJyM3zjsMGMRHqvychgn6ryJPFYnk/G5eVMSpbmpmVlMa2KnTtzutVg3uIoMHqnX+ITo/IsFZP0dFIW01MKspaZ1wuwZOyhXO/ukuPHjrQCykjPlYsKM3Z3QC1ClVezk7K8MKsQ62+XJPd+WbJvFiQzP6OKAYyavH+0s7NZUEYnvRUJqRVMTlZouvp6bhckn12Rwsaq3gMJLNA8T/CbpJKRUM9lud3XqzCp+CO1iIYoYUGKuTUpF9b1c+NdRu3DRsB5h6yhbINQnk0oM3F/SMOLDTSjqQtSKebkQ7kgpXxWIVGOHAGESljHLmSNatB9B95IOHRVA0xmUAaYv4FsbZb04jv+T6bcfFlIVAPu1MkT0n3pvK7tA8o79DhnmI6JsYmMAFQp5RVi+2NZvmxt6ieAQLv5ApDnXDsZjl3KOeYj8EZ9J5RYxbQsRiOaoManSlFhfn7bUbuARgGeoTkQgP7+9V1VZjjW5AyzlgHz30CE0R56WIDkNGVydhSKMP3O54oCoozNDfBWTaAYDHu5Z4P4hmF3EUImpgGNkBo4mwtUoQn28Tcq8qy7Gy3Uj6/b+hz3KOXDKsqoxFxMRgPgyBKAdttb62hog2uBaEpoOTJQDnCe5137Q+wLiJfY7nhOAF04bLM5oQlTc09jexgCxPtcrGdhUJq1fANZGDeANAEUO2iOdShFXoDEToB4FnXICkeHfd+9fOSH8nbY/pe9e2yzP6iAEXgmx9Lq5N4AXRfO7lnDvWq7HlB7F3G/xxL7K88ngFi5f/LagRqs+ouY3Z2HKgDWC2rTYP5dRncdqhB4G9xDal6vGgppa8rNWNthggqqpv4ATDO+mxhwSKkAAAAASUVORK5CYII=",
     "wiki_name": "Blessed bone statuette (Buffalo)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blessed_bone_statuette#Buffalo",
     "equipment": null,

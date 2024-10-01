@@ -1,7 +1,7 @@
 {
     "id": 9773,
     "name": "Agility hood",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "Agility skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbklEQVR4Xt3X/WvaQBgH8N4PZSihISQYoqhosWVaapXV1h+EjdGxssLK1r0WWjpWVgaDMRjsv3923zufeIlRSZPYsYMHjOL5yfNywY2N/2sJmsWDrRmi1XpBjcZTqtbGD4UStN+/oV7vknZ239J250yhavUJBcFo3ShBg+F36h98pb29K+p2P1Fn55za7VNqNp+vGyVo+OSHioPBt7ksMWqNpRM0OvpFh4c/I1kCavfx+xCGfvK8XtEojTke/5E/ekvt7S8yI9eydy6p0XxH9cYbWa7XMjuvVD/5/rB4UBzTbH2cwwTVlypTKJvjdIpCCTo6/i2b924lhgOlK7BsRnaWYYKTCAqls6x63iiN4ewk9UyIMWOKQoNvbpbzRAmFMbPDGNt5Rq57Sl7lXMbFQlSOx0C0VMgOIJY1oC17PAeq+B/IDz4nwnKaOp0dlAqQR6UWlcvdBNBFBOQHVyqQSROVCwgQxx3KPvCXgoAxQUH1RkW1dqveV7hsKKHKhLvzvPFikHe2EoRrDEJmEDbBFPk+JmU1SGNmIGAQeI1hwF6ZQGhipBobJYEc9yQG0r0TByGwF/apVCb3Rc1ASPX9QXcFgGQfxUG2PUkEce8sAqH8aweZpTJBmNjMIN4kAtoaKRBGPhmkEXEQ31whIGSHYzlMg3CEZDyLRDiqDCqVOrpcctzjwTB+jCBwBACEkz6XsTdByA73jgrG8PX0Pe4rlbXpKc6ZzlAurCiobO3rw9AExCL83MyevDYP2NxArst/bdIF9uDs4BFUACjNEmEj40DEQzr9HpGln/Z8d7bTT7lh1u8nrngZ0q6s3/9H1l/4dO4jAZzv0AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClUlEQVR4Xt2X7WvaUBTGez+UoYSGkGCIolaLLdNSX1ht/SBsjI6VFVa27rXQ0bGyMhiMwWD//dl9bnL0Jsa3vFjYgQMmmpvffZ5zzsWtrf8rBE3zwWIK0Wi8oFrtKZUro4eCEnTUvaVO55r2D97SXutCQVWqY/K84aahBPUHP6jb+0aHhzfUbn+i1v4lNZvnVK8/3zSUoMGTnyp7/e8zKjEUW9fb3c0bStDw5DcdH/8KqQSog8fvJ2CoJ8fp5K2SD3M6+itfekfNva9SkS+ydq6pVn9H1dobaddrqc4rVU+uO8hbJTEDU298nIHxyi+VUrDNslp5qSTo5PSPLN77pTCcsI5ty0ElTZ1FMN5ZCArWGUY1a5V8GFYnrmYmMHoGUCjw7e1illBCwejqMIxpPSPbPiendCnzai5UhmMgbBXUAYhh9GnHHM0AldwP5HqfY8G466JvWDN8dWAVQB4VGlQstmOArkJArnejEkrqUBmoJBSIZQ9kHbgLgQCjA3nlW5Xlyp26r+ACqOhbVgyhbMLuHGc0H8i5WAqEazRCSpWEWgRd5LrolOVAPswUCDBIfEYzYK1UQChiSI2F4oAs+ywC5NdOFAiJtbBOqTROatsUCFInB7qPBUqgkgYk6ygKZJrjWCCunXlAsH/jQLpVOhA6NjUQLxIC2hkqILR8PJAPEQXizeUCBHU4F4P5QBgh+ixKBMStykCFQsu3S7Z7NBmMjxEkRgCAMOmjbZ8aCOpw7ahkGL4O7nFdKdWCKc5Kp7ALEQYqGkf+MNQBIjn5XldPXusDNjMg2+a/Nusl1mB1cARlDsT+r5L4PRcyBiIO6RRACP+0592ZVjfY+aoR/3wKIETYgunuV420z8fErBXrRZLn/wFNECpo2pmusAAAAABJRU5ErkJggg==",
     "wiki_name": "Agility hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Agility_hood",
     "equipment": {

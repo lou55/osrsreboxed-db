@@ -1,7 +1,7 @@
 {
     "id": 9173,
     "name": "Silver bolts",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Silver crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWElEQVR4Xu1WXUsbURD1Pon/SvDBomDThhA/ak1DCFatGkIINtWGEBIstVaX0ofS0n865WS4d2buBmF38+FDDyx7z+zmzrnztVlZ+Y+5w1FsWTC0AEeHh02KbbKeO2IBjtbXXxi+YIFagKN6/QOtrq4F3ukMUgIrlbeRwJnBUaNxQZubLycOhsNHOjp6H8Tc3f2i2rtTI6bVuqHt7fI8BDkaj3/Q2VmXdnYqEwc3n7/S3l49COr3v6XSeXzcjiI2M4igV6/3gwi97naHRuBolEQR431kXQiOer0xVau14PD29qfh8fNpEcOBZiCK6wPh15u32/3gPEn+0vn5R/PcRoxtIrgQ+PTl8psg4P7+Nx0cNAJPp4d/o1Oa7sBcmB6dq6vRE5xtOn3YQ3eovJcZfNJSadcI0O3+8PAnqg1H19dfDI87lO2ZISfTm6NYNcc8so6cSidzNABqTFKYCxwdO9h4OmuO4n1KcNyNbM+M6ZMXxas5itt2jk4nc+nG3OCT4ORShHw1my3jbDD4bjjSFwu2AjMDBdibXDLUxLaxsWUcxumLObpPxkVmiGNEZ7daMmLQ+t7m7SKQO8k65m9ZTjGAOPcn9RzrJBkFjgsFrwXG6Ux/OjJBnKMuOp2TIAh3TFnUghaE02sep/Pi8lPxNvfOdbpwRwrRcTpiiIjneN/bcaEb7fwqBN5U1tpmn3lBOnqwo5jth3Vh4IjG0cNULviZKAKOmheEWYQGsDW1FLCo05PapLukppYCiRBSiGG4ZEEApw5/M3Q9xW8tAVJTz0SQx7MSkx//AEDereW7690WAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaklEQVR4Xu2W20rjYBDHmyvxLXwEH0HwQlHQuqXUw6rdUorruZRStKuWUlpc1vUQZC8WxTcd+SfM981Mq9Cktl448JHMpGZ+c4yZzJd8uARkLWMWCRDQ9naFrM3ff7hYgIDm5hYjfXZmJrqOGdAD4JRKRzQ1Ne30er3dB5jP7xjAkUlA5fIJLSysRg46nQfa3f3pYG5u/lPxx4GCqVYvaXk5J2wjk4B6vUc6PGzQyko+cnB59Yc2NkoOqNX668rFQHt7NZOxkYkHWvu26SDkfaPRUYDdbqgyxpD2zQkloGazR4VC0Tm8vv6ndPt8UMYQ0Aig4v5A+uXLa7WWcx6GL3R8fK6ey4yxjYFTli+OPpf77gBub59oa6vsdFse/htZ0v4JTCSDs3N21n1Tt9ngd8gJTQWESLPZdQUgx/3+/tn1Bj+/uPitdDuhCYF8ZPLlaFapYx9pR4ErJ+sYAPQYlzAxELKjF1u8naWO5n0P2E6jL+tQMnjzonmljubWk+PLyTpPI4MkgsFB5NyEfCqVqnLWbt8pHeWzwBpwaEEDNqPjv9reNj+/pBza8lkd08frIgGQd4zsrBeyCgajzza2M2CsPzrHDCTXRSogjpR13Idh1+k4aHgJaMvZ/+kYSrxz9EW9vu+AcMWWRS9IIEQvdVvOk9Nf6cecncty4YoSYuJkxpAR1vF7tuNgGuX+SgiUyXB0MlJps88YSGYPdjSz/rCmFBmVvMoT/zLOqM0etnLKz0Qa0asBuwgDoHtqzCJLeLBfjKaLszURIJkhlBDLcMJAkLh0+DdD9tMEgfSUfgogFgbTE/kJJAnMKxXqJmCF8UklAAAAAElFTkSuQmCC",
     "wiki_name": "Silver bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silver_bolts#Unpoisoned",
     "equipment": null,

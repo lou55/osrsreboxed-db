@@ -1,7 +1,7 @@
 {
     "id": 8576,
     "name": "Wooden bed",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDklEQVR4Xu3VWUsCURQH8PwIPfZQEVFgQRutJC1k2AYplU2mLdJm0kIRkrSvRBBFRRBY4ENIRFHQ5/vHEa6M1zNzM8pe5sAfRId7f5xz75iXZ5VVVuWsbMhtTMuGyLILG+FurIWcWJnrwtJMBxaD7ViYbMNswIHgeGsyU1ozAt4m+IYboXnqMTJYh6H+Wrh7qzHgqkqmz1kJV2cFnO12dDrK0dZSBkdjKZrrS9BQW5yMAmVDdLUnA2UE06OMYHqUgOlRStDuRj+21/pYmECZwQSKg3GdUoIOIgMZKCPYd8bIdUqPUoJOttw42hxkYQJlBhMo1fgESgk62/FkoIoK8lMwe2khG4HiuiSjsgJdHA7jfH8oDUYg0S0ZIoOMRkdrUOQuKUFXx14WJbpFm4vFReg7s9HJz+tRStDH5zPe3p/w8hpH4vkBT4lYcpHH+A1iD1doqrGzkTumT3gpiPnQJGbnApgOjsE/MQLN54FXc/8t6OAogp29dUS3VhCJLqe6RyD6/CPQ9eloamy0CI1NtJrGRhvob53YVB4bjUz8JsYmH24amxJ0e6ZloChmrwJ6BcggOkcCRIebA1GyBnGHWwZx7yWj2yb/3ylBd+e+NBQHkrvEgeTbxqEoWYO4Lskgoy6pUBQl6P5iPA3Fgbgu/QRFyRpk1KXfQFGUoNilP2coigJERQ/kMlZZZdX/1BedhEMeTf9yDgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJ0lEQVR4Xu3WW0sbURAH8OQj+NiHqkUqpII3Ui8YvGAkVgUTonEbjdrgLYoXFAkG661WEUEqrQhCLPggIqIo+Pn+MoEJm5PZPUY0D7IDfwjJcs6PmbObdbmccsqpopUbxY1tuZFcCGB1rgvLCT8WpzoxP9GO2XgbZsZaMRnzIT7cksm40YRYpBHRgQYYIS8G++sR7q1D8FsN+gLVmfT4qxDo+AJ/mwcdvkq0Nn+Gr6ECTd5P+FpXlokG5UZqqTsPZQUzo6xgZhTDzCjas7a83ArlxuZqL34u94gwRtnBGCXBpE5pQTvJvjyUFew5Y5Q6ZUZpQXvrQeyu9YswRtnBGKUbH6O0oIONUB6q9ENJFuap+CiGUVKXVFRBoKNfAzjcDufACMTdUiEqyGp0tAZF7ZIWdPw7IqK4W7Q5L86h7+xGp15vRmlBD4/XuLu/xM3tBa6uz3F5lc4s8v/iH9Lnx2is9YhRO2bO3Hwc04kxTE7F8CP+HSOjgzCiIUSM4NuCdnaT2NhaQWp9EcnUQrZ7BKLPLwL93R/Kjo0WobFxq2lstIH5ruNN1bHRyPg3Hpt6uGlsWtDJgZGHotg9CugRoILoHDGIDrcEohQMkg63CpKeS1Z3m/p/pwWdHkZzUBJI7ZIEUu82CUUpGCR1SQVZdUmHomhBZ0fDOSgJJHXpJShKwSCrLr0GiqIFpf+MFA1F0YCo1FfMtw1hNCCXiy8qVtT9nXLqXdYT8JqGf96GCCkAAAAASUVORK5CYII=",
     "wiki_name": "Wooden bed (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wooden_bed_(flatpack)",
     "equipment": null,

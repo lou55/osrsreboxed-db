@@ -1,7 +1,7 @@
 {
     "id": 27314,
     "name": "Supplies",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-08-24",
     "duplicate": false,
     "examine": "Some helpful supplies.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xu2WTWsTURSGOwsXlZA/UExoQiJpStqEalNMW0Oj6RdtQ2pICUopgogogqjQnRt/gBu3UnGjoBtdCQUVdKO4EFyLO8E/4OqY5wxnMqkgSG8aFzlwSDKZzH3mPe97J0NDgxrUf1uedHffygeYyY5pT2cy2n2C8iSXSEilUJD1MzPSXCjL9mJVP/cByJNsPK6qrBaL0jg7LztLi1JKJmVzblZK4+NHCeVJJnZCptJpWZo+HcDwOpdO6Xsgj2h0nqRGRiSfSsr8RK4LhpFdq20EDSzQPYDqpIcxAcNCj+4Py8dnkQCmVVmQG/WaNl7iOOc7BvIUwFKEN8r5SR0JXnn7+Lh8fRlRmIvnz8nNzbrCoBrtGKiTIuSvzZa6unpqSsE+P4/I9/1oAHJ5ZVnVAdghkD8eFiXSXBwVWPDq+poeA5LmPSr9fB8NxucYyE8Ro0EJLs44gLmythJ4hQWBMcXePIkpjAFxzAEM5WlkzSemjMEwGgBvNS7ownQxMSr7ezHZmJyQ5VxWqm2/VcYOFftOkq63jsmD3WF59dA3LCMixpYeM+ztZkPubjUVEqC9OwYQ7n8u/4fsKZjXjIrcqINh721fUigUwrC82nuggD0EQLj8hyLGBCIMgg/4zD6DWcMbHm1AxJybcAKDKsCYEZHeOhzvH+/+BEIxgIB2AOR1PaG5WxaggbGUWH97HZVfX1Ky2r6BcPN7Z6Mi0tyZbXgszB1jVowbVov+9GJUk2XtMNKUp1Kbd7h4+WQ6MC6RNTCa8z48jUu9kFdl+N4hDOXpItw5F0d61MLM4TSxj9Ccy6ZXaG+WjkZ0sDpAu60tVYj/MfZHKwyFUpzbIxAr39SAYGA2N+JLcwxQexZ1jNvz8nRMZmiijCKWPHsWHSEQ5Y+OhW1jNCDU6QMQ5SfOYEwxgHrsm7+VLXywB9X/+g1aEZp4a3/NGgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xu2WTWsTURSGOwsXldA/UEzalETSlDQJ1baYtoZG0y/ahtSQEpQigogogqjQnRt/gBu3UnGjoBtdCQUVdKO4EFyLO8E/4OqY517O5GYEKekkcdEDh0wmM3Oe+5733MnAwFEcxX8bnrRn38ICzKbHTU6nUib7BOVJJh6XUj4vG2dmpb5YlJ2lsvnOb9mRkV5CeZKOxYwqazMzUju7IJeXl6QwNiZb83NSmJjopUqepKInZCqZlOXp0z4Mn/PJhDkGsket8yQxPCy5xJgsTGbaYGjZ9cqmn8AC3QWo1vTQJmAo9PjBoHx6HvFhGqVFuVmtmMRLnOf6kP3kGQCdIrxRzGVNS/DKuyfH5duriIG5eP6c3NqqGhhUI0MGak0R8lfmCm1ZPjVlwL68iMiP/SEf5MrqilEH4BCBbHsoykjzcFSg4LWNdXMOSJJjVPr1YchvX8hAdopoDUrwcNoBzNX1Vd8rFARGFXv7NGpgFIhzCnNoIEZWfaLKKAytAfB27YIpTM7ER2V/Lyqb2UlZyaSl3PRbadyOfYcwrUm60TgmD3cH5fUja1haxBjr9Khh79Rrcm+7biAB2rur+04rO1DH3siegnnVqMiNOhj2/s4lA4VCGJZPPQYK2CCAm8GK/wj7UsSYQLgg+IDv7DOY1d3wSAVizFlEh2q4YVUBRo2I9JrueP98/zcQigEEtAsUrHLA8Nre0KyWAiQwOiWa398Mye+vCVlrLsBN7g+2KljpgOGZkWZluuFRmBVjVozrqkV+fjlqJkszONKHgCE8I7V6h4cXTyZ94zKyCkZy3cdnManmc0YZfg9BFTc8U4SV83CkRy3M7E4T+wjJtWx6+eZmGVKLgtEC2m1sG4X4H6N/tFwolOLaIEiIMIQ1NSAYmM2N8SU5B6i+i9S4XQJxwzNtUkMzyiiik6fvIhco+IQuhG0dhXVjVCDU6QMQYSdOYVQxgIK+Cd7ZxWh/IQZBegxjwy3eV5B+xx8rMNxq7uBupwAAAABJRU5ErkJggg==",
     "wiki_name": "Supplies (Tombs of Amascut)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Supplies_(Tombs_of_Amascut)",
     "equipment": null,

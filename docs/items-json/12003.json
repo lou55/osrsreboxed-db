@@ -1,7 +1,7 @@
 {
     "id": 12003,
     "name": "Occult necklace",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-04-10",
     "duplicate": true,
     "examine": "A smokey evil embodies this amulet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6UlEQVR4Xu3W/UsUQRgH8Nk9rtIDo/fsFYJCNOrXoD+ixKioKCoqigiiMESKXkR6QxC1qFAwxETKCKLEKOove7rvLN/tmdm5vL3doh8aeNh1du7mc888M6sx/36LJByh53+8RfJksE8eDfTaGL51WIZuHrJBxMzoWZkeOSNTT08HUP6PKAxPQEQBxPAxk49PyfPhE87E+BvP/HBRuZCRjNw+kkHhCgiDoImh4zJ696gdi2sIhPEa/XV+UJZmb7SGIgj3zI4/AaMRCJ/7Mjcg3xfuyY+FBxaUC4Mv5a8mCECCMGZ3xUh31cj+asXeb6kHYT5oduycA8J9k6DIWQYgWNz4GyBi/OwAh/71Jgubf3ahPBCzhD6COJnOpIbtVDCMe/fiYgpC5AK9fHgyCOJuYnYwkS5oxNj9Y07WmKH3ry65oDf9xUHox3PWCjOpdyRBHEPQh8nL5YIQAOA5lwLjAAiBNAab4NP01RT07e2dZjFoLkijuH0xBpMQRAzG4Rnqxwd9fn2tVRBa8gsxWQjEra8LWoP85cLYxZnrrYKSMwgZWg6EMcTjOa7YYRrDz2hQjkMxKdQQCOGDMH6lWWWDML3VmZ1SQUQhMAFOXE7eZtpkW7TDXtnnZ6dUkM4SrpggyYqxiM1Rp2wynSmow8sOQXPj51MQTukmMWjJDguB+MLEmO1xzWK6470W1G5q6VLhM3794LWhM9QSyK8j9BPUU6nJ1jroQHxQdsV7pCvusf2oMw3icuG1URqIKPSzkPdVNqYYBLKFfp1JDcIprUE5UAkotGwatMasdUDMTgiETfBx6koKwhmU4xxyQXrZNKjDrK4XcrvFrDMbGoKQncIg7LLlQDh3qmaFvaKgNYi1xuUqDeQvG/q5BMmX/QpiCOJYgLDlNQhnUO5zKLRsGoR7/x2mQbp+SgGFlk2D8Ez/y6FBGKfrpyAIzV2ORqExOnwQDkUNYuQANduySIaun78I+l3LIrPxvxVrPwHfKPqWvZyWbQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs3WfUsVQRQG8Nm93EovGL1YWVYSFKFi/Rn0ISqKioyioqKIIIpCJOlFpDcEsRcqFAwxkTKCqCiK+mSn+8zy7D17nJt3vVs4cNh1dpb53TNnZnVu+bdIwhF6/s9bJI8HD8vDgUM+Rm4dlOEbB3wQMT12RqZGT8vkk1MBlP0RTcMTEFEAMSxm4tFJeTFyIjMx/sYzG1lULmQko7ePLEDhCgiDoGfDx2XszlE/FtcQCOM1+sfcoHybub40FEG4Z3bsBIx6ILz3fXZAfs3fld/z9z0I4/d2dfmws5uWpJ2/miAACcKYnSUn3WUne8olf7+5GoRZ0Mz42QwI9wTZ2U2LMssABIsbfwNEjM0OcOhf7xbC5p6fLw7ELKGPIE6mM6lh2xUM496/vJCCELlArx70B0HcTcwOJtIFjRi/dyyTNWbow+uLWdDbm82D0I/nrBVmUu9IgjiGoI8Tl4oFIQDAcy4FxgEQAmkMNsHnqSsp6Oe7oRSTG6RR3L4Yg0kIIgbj8Az1Y0Ff3lwNguzsdVryCzFZCMStrwtag+xyYezX6WtLBSVnEDK0GAhjiMdzXLHDNIbvaJA+FO3spiWFGgIhLAjjV7pVPgjTW53ZKRREFAIT4MTl5C2uRTqjbf7KPpudQkE6S7higiQrziM2RR2y0XWkoDaTHYJmn55LQTiliWkIhJ0TAvGDiTFb44rHdMe9HtTqKulS4R1bP/hs6Aw1mB20GsjWEfoJ6ilVZEsVtC/eLzviXbI77vH9qDMN4nLhs1EYiCj0s5D7ShtSDALZQr/OpAbhlNYgouzsgZaAQsumQWvc2gyI2QmBsAk+TV5OQTiDcpxDWZBeNg1qc6urhdzqMetce10QstM0CLtsMRDOnbJb4a8oaA1irXG5CgPZZUM/lyBZ/1oQQxDHAoQtr0E4g3KfQ6Fl0yDc22+YBun6KQQUWjYNwjP9L4cGYZyunyZBaNnlqBcao8OCcChqECMHyDke638LC9Sh66cQUKPNIhvBMmpj/1OzyFDYd5Z1+wMpO0Uxs+PtYwAAAABJRU5ErkJggg==",
     "wiki_name": "Occult necklace",
     "wiki_url": "https://oldschool.runescape.wiki/w/Occult_necklace",
     "equipment": null,

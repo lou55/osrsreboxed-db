@@ -1,7 +1,7 @@
 {
     "id": 17391,
     "name": "Mudskipper hide",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": true,
     "examine": "Hmmm, what can I use this for?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADe0lEQVR4Xu2V3UvTcRjF90OGdBNEQaSEF9FFBQlRUVBmlM2W6HTOXPkybZsvc84aa2XTfJ0sp2lbMx2Kmkwz0bSWjpm1tCKGRBfdddVFRUX9Caff97GtWV41nUIeeK5+F/vsnPM8X4FgXeta1/8rDn/PqonD7l0CyPNkSE2JoiltK11NOA4Ntxqwc4cA4jQR5NlCmjZ3OzS2MkRviI40GIfJpnLccXUiLk6Ag4f3o0AhDE73k26YhkxISkmKpGscZmzVGBgbILe2bBFAmi2BSikMzoR/AvZJO4x9RmzavGmJzi07JIdX/Tcx5hlDi7MFGzcKkJJ+GgXqXJQUCRcNg+t71ofWR63kXvq5DMRsj1kCMGxQDv63frhn3BQhg0rmo8otlOOisQyN1mpoNQtQU2+mMDg3BIenA5YHFgLT1+hRqC2ENEeKxORExB+IR2xcbPhQs/5ZjE6OwjHgQF1bHY6fOoaz/I9oLqpxrc4QhApE6Xruwh1vJ5onrKi+d53AlDolZPzmMrA98XvCh5qem4Zr3AVbrw01rTVQW4uQJj2DfOV5cqv+RtUisEfzbnLM6XVSlDX3awlMoSlAqiwVhxIOhQ/l8Xn+gpJWSHE0MwFFfDT6ynJcN19dBMY2k/WLucVivMp/L+P/gJyP/fem/pM4vHbZ8fjZJG1fe087QaksKkg0EjoRzK0SPhoGVtVghJl9Vy7cMdYt5lKl6xptpiErCSrxEcgS9oUH9aK3JQhl77fDbDNDUa+AWCkmKNYttomsXwEw5pIsUxh0qUGRhtqKPBRmJYcDExAHX5eZ4ht2D8M56ERzVzM5JVKICIrdLfb0BMAMJh25lJEuxOnkKNjrtDAWZ0ORKVoOICbeqfmXBDXiHkHPcA9FqLWXU6fYs7N121YqfSgYA7JcUcFaqYYu48RywQS0cA5YfAGn2AFlvcqrzUf83ig6jucVZ+lusX4xsFZT8S+QZYVh4vD10wf4XvvwcPohbR87npYOC6r4E6AzVUArSSQorb4YOkMpmi5fWAmQUHH48e0zZl7OYNw7Hix60+0mlKYeg/tuG0a7GqHMFq+UK3+Kw/cvH/H+3TwdTvbu9Y700p3qNFfQNnVfyokESKg4AvI/nYD3uZdKrlfKcCnzZKRcWUocAXmGHBiymWBQZ60WSKg4AnK1V64FmIBWLaJ1rQ39BK1nwntbexLOAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADjUlEQVR4Xu2V20uTcRzG9yIjuhEiIUpCIbooISMqDMqMMnWJpznTPDRtm4c5Z4611HnMJstD2panoajJMhNNbdmYmaeMGBJddNdVFxUV9Sc8vb+vbaUtqOYhyge+V+/F+3mf5/l+X4FgQxva0P8rDj/OuonD3j0CpGRIEBPtQ5PXlLeecBxqbtRg9y4BRLERSEkW0jTZmqE05WPT5k1rDcZhvLYAbdZ2BAQIcPjIQWRKhe7pfNQJfb8e4dHha+kah0lTOfqG+8gtPz8BxMlxkMuE7hl1jsI8boauR4ctW7d46NyKQ3J42nsdw/ZhNFga4OsrQHR8FDIV6cjNFi4ZBtcz1YPG+43kXvy5BOzYucMDoNegHJwvnLBN2ihCBhXJR5WelYKLunxcrS+HSrkI9fD5Q9ye60eLvRXGe0YC01RqkKXKgjhNjLDIMAQfCoZ/gL/3ULPOWQyND6GlrwXVTdU4cfo4zvIvUV5UoLRa64ZyRWmdsaLN0Y660XqU36kgMJlaBgm/uQwsKDjIe6iJuQlYR6wwdZtQ2VgJRX02YsVncF6WSm5duVa2BOz+go0cszgsFGXl3SoCkyozESOJQUhoiPdQ9mn7D1DiQjGOJYYim49GU1KACkPxEjC2maxfzC0WYzH/PJ//gBQ+9m+b+kfi8MxqxoOpcdq+5q5mgpIb5YhTxtGJYG7l8tEwsLIaHQzsuWzxjrFuMZdKrKW0mdqkcMhFRyEJPeAd1JPuBjeUudcMg8kA6RUpRDIRQbFusU1k/XKBMZckiUK3SzXSWFQVZiArKZJg9gcG0ix/2y+Kw3SHgeIbsA3ActuCuo46cipCGkFQ7G6xX48LTKtXk0sJ8UJERfrAXK2CLicZ0sQIN9Dyt/ymeKcW5glq0DaIroEuilBlLqBOsd/Otu3bqPTfgzEg42U56ksUUCecXAl3vtfiOWDxuZxiB5T1KqPqPIL3+dBxTJWepbvF+sXAGvU5XzuzojBMHD68fY3pZ9MYmxij7WPH09hqRBl/AtT6QqjiwghKpcmBWpuH2ksXloCsIIxLHD5/fIfJ+UmMOEbcRa+9WYu8mOOw3WrCUMdVyJJFq+XKcnH49P4NXr1coMPJ/nvdg910p9oNhbRNnUVpq+3KcnEE5Hw8CseMg0qukUlQlHhqrVzxJI6A7P0t6DfpoVUkrbUrnsQRkLW5ZL1c8aR1i+jn+qtg/nl9AbGw58EpV7PcAAAAAElFTkSuQmCC",
     "wiki_name": "Mudskipper hide",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mudskipper_hide",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 14258,
     "name": "Smithing cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "The cape worn by master smiths.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuElEQVR4Xt2XwWrCQBCGXUoRRSJBIcRgAgkqqUVJ0RZB2kMPhb5Cb8Wr73+c9p9l4mJtG4vZDR0YFpeY/Zj5Z3bSatVmio53Lmh4+TkHKOp2r8/8T2XTL/c6rYoHKBoMujTLsorP/8kUTUIB+i5aen806v/wzEVN0cP0ijyvQ77fO4JTFEVDimPfBohpivLZmMLQ57QgGvDJJKI0DWk+T+wDLRYpH5zEAQVBrwQCpGUY2Gfa7nPabm8ZDCCyHtJozRQ9PS5ovU5otZoyCNKEFfpxECENdFeMOUKAKoqMo4P0OQECCIAAttnc8Cp6cga0XEa8AgiOqnMGBAATCAJvDBBgoCMT6NClazfpPyPWzX7/zt5pt9kBNBz2uS85Adrt3koXMKdAEhmnEULPAZCpHxPKOdDryzO76AlAuHCdACEizoGQIrPkAQhdoexxp6Hs4RZmIi3oPA/K7nwKSC5YC73oK5BcrI0AkgrDngxr5o1vodIOgj5OlwCZOgJQzaOsBjqVLhNIxlhUmjUgSddvQPjdKCCZtWuC0oNZFSDoCA6B1wQjpmehU0BohHD5RrNQ9mI4pKr/I/sAS+zXVkU0X44AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3klEQVR4Xs2XXWvCMBSGDWOIIkpRKLX4gUWlc+gcuiHIdrGLwf7C7oa3/v/Ls70nnBoz3VowjS8cQkuTPJyP5LRScSZF9psLCosX2UBRvX5bcE5u6cWbtUrODRS123WaJgl//zAc5phTWIrGkQCd85Z+3+22sm8A4wgIUvQ8uaFms0ZB0LDgFMVxh/r94AjEIYxIUTrtURQFHBZ4AzYexzQaRTSbDVyG6ZQUzecj3njQDykMGxkQIEsIk62fsD2ltN3eMxhAZJQwlgrz+jKn9XpAq9WEQRAmjMgf00P2TEfSQI/LHnsIUMtlwt5B+LwAAQRAANts7niUfPIGtFjEPAIIhqrzBgQAEwgJfjVAgEEemUCHU9q55Pzpct7s919stWqVDUCdTovPpZK8dAy0231mJmBegcQzXj2EMwdAZv6YUN6BPt7f2CSfAIQL1wsQPOIdCCEySx6AyCuUPe40lD1MeiJ7hQtKJ3SahtnpfApILlg5ixx66TeQXKxXASQVhnfSrJk3fgmVdkhoO1wCZOYRgKSVtVe6kDTQqXCZQNLGotIc99YHIAnXf0B4viog6bUdhU03ZnmAkEcwJLh4yJmXzgHhIITJP5pZ9o5gRMd/qn9ZCTBaslEes+fm1TeONhUKeFlejAAAAABJRU5ErkJggg==",
     "wiki_name": "Smithing cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Smithing_cape#Untrimmed",
     "equipment": null,

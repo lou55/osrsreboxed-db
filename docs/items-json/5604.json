@@ -1,7 +1,7 @@
 {
     "id": 5604,
     "name": "Magnet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-27",
     "duplicate": false,
     "examine": "A very attractive magnet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xu2V3U8TURDFd0KaZhtSYjQhSgKJCQ8YA0IQMIDUYMWKqXxYsWLl+1PEEEATExJj9MUXE9/9W8c993a6t911vVvY6gMnmZe2O/u758zcOs6lLlTE8SpRES+4KS66bVzwKp/WlavWhFej1RpK6UoQiriUSQWA/gSHAthAMlDEZQPGhDA/MwvfJwRFXPFg4I68SApAAA0rgIZDnQuMeK09+AIpiQklkIAOe0agbqWcZqGIt7zGpjt4MQYX1dvmqBeYMQFAIhQo89lzxqfdaYRB0xsejAD5MeihNwffPBCcwvNNbp52J8z2rCOWh82D/kycwbPSx3QpZmzEew1RCYz96XzgH1dcBWW6FDO2+kGWqACDqGI0cvDbX1fd2gGlXwyXiD8eHPDeygq/eVHixdlZfvwgxxMjIzzU32/TIER+/OI2DudHHykf6NXCPD+bmeHpyUkeHRzk652dNg1C5C9HE5FpoO1KhV/OzdXcudndzW46bdvEkH91mHFZugMRn+7v1wHBnY5s1raBofp7rIm1J/58csxHO9u8urTE84WCiuve8LBtg6r0diGmxk2NMTsQ8afDQ367tsqvny8qIDh0f2zMtoGD373f2uR3G+u8ubwcuKVjbinx8e6uigsbVioW+Wk+r1yya0IKBAcye8i10RMPBiIVFbYL6/7k4bSCwVD/vRHVQOAM+mAGsaWPpqaUy9fsoxIRr5fLtUaIKzc+roY6upGGAQiehzOIXA6FHtjS6B6hInVCmR+cDO7cvTMQ0UzPDO4twOBZHMiMu6eri9szmYgekdIbEqww6ZnD3OAgZtwSFWCie1yo6oEQFdyBu4jKh2mZiL+fnQWAJKYWw0DEP799VZepAMGZ2319/wJGRPzlw6n6/8Pc2F0RiUvf8HDnP4ARtWyTLqX0G8I5fUUeEsOYAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xu2V22sTURDGdyghJJSIKBQttEXwoSK9UXuhrY3UWGMl9mKssaY329rWWpFaBaEgoi++CL77t475zslkJ5vtZjcX2gcH5iXZM/ub75s56zj/o6VBHC3bGsTLiRjnEh2cLWUmbjNdzulSjpdzJGazjVDE+WSsBug8OCTABtsDRVxQMBpC/6YT/7cJirhYgoE68iJJAAHULwHqD9UUGPFWZ+0LJMUmpEAC2u+MQN2JOY1CEe+WCmt18GIMLvJ2h2NeoG0CgFgoUPqsVmqory8qlFXHC4OiN0swAuTaYIdeD75uCErhvGxeRCCrjp/sKUckt4nCkvKbKIOzUkerFNE24gOPVQKju6sGcUODIX9fTRgorVJE26oHWawCDKwKW0jA/l5LVBqUehFUIv5ydMQHGxu8/iLPKwsL/PhBmqfHxnhkYKBKHe/J88O1X9RGc2J9nVou0KvlJX42P89zMzM8PjzMN7q6whTwCXc5/CyrU88C7RWL/HJxsaLOrZ4eTsTjDQC5V4e2K6Q6COLTw8MqIKhzJZUK25GK6nvMb+3r1CL+9umEP77d483VVV7KZo1dk6OjYQuUw24XbPJuaoTZQRB/PT7md1ub/Pr5igGCQvcnJsIWcPDch90dfv9mm3fW1mpuab2lIeoRn+zvG7uwYflcjp9mMkalcEBkQNCQriHXRm80GAQZq7BdWPcnD+cMDIa6PhBVQKAM6mAGsaWPZmeNytfDWyVBvF0oVArBrvTUlBnq4EIWBiA4D2VguTSFGtjSiOogyHQo84POoM69ocEAIDszuLcAg7NoSNvd293NnclkQI3AcL9BOv07szOHuUEj2m6xCjDBNUKEHPSm9zkvEKyCOlAXVglMcI2WBvGvs7MaILGpKVUaC+I/P3+Yy1SAoMzd/v6LgJEg/v751Hz/MDf6irgAGAl7w0OdSwAj0eQmtSMuFUyr4x8i19vjw15MyAAAAABJRU5ErkJggg==",
     "wiki_name": "Magnet (Recruitment Drive)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magnet_(Recruitment_Drive)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 9961,
     "name": "Kebbit",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "Curls up into a ball to protect itself from attack.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtklEQVR4XtWW8WvaUBDH+34YEhGlWJRGVKwkI3UoymwtZBaZrGwrY6WMlTLG2K9j//+Pt3zvesmLOrvhS6UHhy++l3ef3H3vJQcHz98MbR7vxQwFJw0SEHssc08MaGgybFPzqJIC2eP6YZmm426RUKtPbGg0aKUQGJe9F2mmqlWvWJhB5JN/XEszEJ/1KQqaDMTjfpMh8F+ndVgkkDw9SpAFkHIh+EnniAEAizUAzK91boYDZiUztIwjiqd9mo66XB6FQVbgWrrVnXawLLiW4OrylK6XQ5qfBzR51abZ6x47MoSsKIi6QyDD3aE+Om1xUPwiG3CUSx2wWqZCoOxgyAQcEKoVOAQOh7ZQrlUQp0AIoo5yKQwCIxNw/Ic5QOHahlAdqTuAMnT7fkyzcY8DawfZZQEg5hSoWvHYMcZavs+XUjrIlABBvCpobOyVSqkjIDKoZxNrqyeZ5MyFPl8rlBOgxUXIQdMuqtjtLI7Ou7mKaX4R0CIOuetYW0kDKJQToC8fJxwMwsbTc6lyQLIO59DdpwVdv53R8jJiCJQajaBQfrPmpmyf341SHa0fdiY9g1TIduZsIPjOMPd3N+nmv3/9pJdhf8OmyQl+nGikLuW0YQGjQNDR+r3/ZYY8r5QCfbu/3bKhQNVr5Zy+0BCAwQvXgYZg2dPO38we2VAg/IatFSkbgBy/aA39+P51y4YS/EM8oKDTyAHhtQP9OTqLbNu00UPQQZcGfZ9hULZsrXye8AmfZC4/59ySMk4ChhmFLYZB0PWAyZdCL/leagnU+rwzM7SYhgyEgAiW77L8WoUC/OY1O1vygXYecSB0mJZvdVVmMu9YR6umENsCyDyyiewA/u+ZLNwki6o1lKxgYW8zycpsmLzTojbD4DTfEwxMuhAw2oF7zA5MgLS7Htfak9i/iP6Z2h8rmwYAT7m1+wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4XtWW7WsaQRDGsx+KnIgSDEpO1Bi5KxeLV6U2Bq4GqTS0DaUhlIYQSunX0v//4/Se2c7t3nl9SVwNHRjcc/d2fjfPzN7t7f3/pqh8/CimKDhukQaxx3pux4CKpuMutQ9qGZA9bu5XaTbpbxOq+MSK4lEng8C46j3JMlWvezx+fnTEbu5zYopGkU/+YSPLQPJySFHQZiAeD9sMgf96nf0cUHG3DU0/PSQwAbRcCH7cO2AAwGINAO21WwFCQCOZolUSUTIb0izuszwCg6zARTqHMCa4SHBxfkKXqzEtTgOaPuvS/MWAHRlCVgRE3CGQ4u4Qj086HBS/yAYccokDVmQqgyrufm+zgyETcEBIrcBR4HDUFuQqgjjNEoKIQy6BQWBkAo7/MAcoXNsQUkfiDrKk6PrthOaTAQeWDrJlASDmBKhe89gxxlq+z9dSOpBOA6F4paCxsVepZI6AyKCcTVxbA51Jzlzo87VAbSidBlqehRw066KaaWdxdN7VRUKLs4CWSchdx7WVNoBAOQH69H7KwVDYeHqWygKSwxHn0M2HJV2+ntPqPGIISI1GECi/3XAj28c3cVZH64edys4gKWQ7czYQXO57YJYU3d5cZZv/+P6NnobDkk3TE/wwrZGmltOGBYwAoY7M3INMkedVMqC72+sSGLMWUM1GNVdfaAjA4IXroIZg5mkXr+Z/2VBD+C27VrRsAMq/lDcwAfr65fMfNtTB3yUjCnqtHBBeO6g/R2eRbWVy/Qo66tNo6DMMZDPg+vOET/g0c/k5B1aEWUwDhonDDsMg6Dp4+qUwSL+XOhrKKVDeFC1nIQMhIILluyy/VqAA71A229IPtNOIA6HDRL51Wc16uLO3f7mZQ1BA1gPpeWQT2QG8ZDK/zpH9HgSmsyi1Bsnswi6/Z2umszIfp++0qMswOM0fCQamuxAw0oHO2/5+poGku4q1Vly9I/uXot+xuQL5CYaEWSY8MRMNAAAAAElFTkSuQmCC",
     "wiki_name": "Kebbit (unobtainable item) (Razor-backed kebbit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)#Razor-backed_kebbit",
     "equipment": null,

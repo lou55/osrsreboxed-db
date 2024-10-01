@@ -1,7 +1,7 @@
 {
     "id": 23279,
     "name": "Gilded axe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": false,
     "examine": "A powerful axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABn0lEQVR4Xu2WwUcEYRjG97PG+Mb8E10iXdKhIqmoVCKVtYYtOiwVK8tKKRnZWhlZ0h72EB2iQ0SHiA7RIR2ic3/Nk3de3067U2vJ13yHffjYWcv8PO/zfO+mUl1pkUDzSVQC66MWilM2Kks26jnZAvfT0SqB/JiF0kwE9HHm4vnIwd2Og6uCxPW2xE1R4rbE32mGEihMWtidtRGs2Pi8cPEeuHg7dfF64uLl2MGT7+Bhn2EqOVsnUDSug3kGIhgCuN9jAAJ5PORnckg70OY4j8tfYCA1qsstiVqeR6Xcoc9lTzOQcofyEw+vQH1DNtyhLGkEEvCGmt2Jv0ggWLNDZ5Q7fpZP/Ld/FreLwlxebPcCdonc0QhD4nH97s53ibD+WmGWByJ3qhl1GbaTypUWCayOWC1hTlRc987d0SqBuf50Y1WcZw0AygxaHYb5X8Trwhh3JnrT4TI1xh1VdwPCTOK6U7tqXuJAAsM96XBdGDMuqjutCwPCTOK60+0c/W9OVFHdjYCZ7uO6GzMulR9jxkX3D+0vA2CUCMQYmK7M1Rdk/0dvmzuLEAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuElEQVR4Xu2WwUcEURzH91ljzJg/YrtEuqwOFUlFpRKprLVs0WGpWFlWSsnI1spKpD3sITpEh4gOER2iQzpE5/6ab37z6+00sytj65l32C+PmfF4H9/v7/d+k0h0pUQCwRWrBNZGDJQmTVQXTTTyVgiu3VIqgcKogfK0D/Rx6uD50Mbdto2rooXrLQs3JQu3Zf6mGEqgOGFgZ8ZEbdnE54WD95qDtxMHr8cOXo5sPLk2HvYYppo3PaB0KqUCyo9rf46BCIYA7ncZgEAeD/idHFIOtDHGcbnzDCSjuty0UC9wVNIdeq7kFANJd6h+WotXoLFuNd2hWlIIJJAbDLojD5KL3murpueMdMfN8mLgfxV3FxVzZSEIE95HLpE7P2Ha7/2TOK6wO+FdLOG1v1KYpbTvzlmGL8PfD+GaUgBDElgZNgLFHOWgKHs6FLd7dHeUSmC2P9kcFedZDYAyA0ZLMccKRONCG3fGe5PeMNXGHdnuGhQziduduqueix1IYKgn6Y0LbeKidqdxoUExk7jd6XaW/82xA8l21yKuqT5ud23ikvWjTVx0/9D80iAuKaX/M51JK5iuvvUF4L+GgzjnWG0AAAAASUVORK5CYII=",
     "wiki_name": "Gilded axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_axe",
     "equipment": {

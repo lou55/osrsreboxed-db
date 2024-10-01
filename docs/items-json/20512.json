@@ -1,7 +1,7 @@
 {
     "id": 20512,
     "name": "Healer hat (broken)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": true,
     "examine": "A broken Penance Healer hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xu3U70sacRwHcL8cxzBEEQ9FJUNFw040j1Jjt1T6YWqY202bma1GPyeNcGu1ohhj+CQ22NoGG2MP9qDH25+wPdtf9Y7vN7JM16PdCaM3fEG8w8+L+7w9ne4m/38IWk/XcgbIzaQxKIVgsZih19/qFopgabmC5Ngd+Pu9DGMw9DBQF1AEd5UcRuQo3B5XG8ZkMmqJIhCDAXh9bjh7HbBahRYARVKgRiiCb+/f4fvHDwiFRbaq1sEExQcFdo1CjUa9+qA/v3/h58kJvhwdsSLTVbUOJVhezqLPZYPZbFAfVFkowqjT4bjRYKD2tRCsreYgin0QBJPaIBqC8ryCiakkA7UPJNjYyCMWDcDpFDpcVyXXvQQJarUCUqlBtrbO92gagq0tBdO5OHw+Z4eVahqCw8MqKzV9QrRHdru5u6C9F2VU5sYYaGjIz56SBv+2v4Xgab2IUimBTCYKWQ4iFPKwcmvwTuoUgoMnWWwuJlFVYpgeD0Ee9kL0O+CwmdCj57VEEbx+NoO92hTW50cxV4gimxIRj7i7ASI42lcYaGcjjZWyjGJOQjox0AbSAEVw/GoWbw/uo7FTwPbaBB7N3oaSiXQPtDLEY0niUR3kke/nkHRz14JURhGGKfp4/Hij4Pj5BHYX44j1cqxDtNThASdcDjOMBr0WKIJ7Hh6f99L4epBBo5bA9kKMfSc5OIzGfJCCvfC4BFjMPdqAZDvHQBRDn059PsqGlf08UiN+DIf74HNbYRMM2oBiNg6fXk6ivhTF47kIth4Os2F0jeNygPUo4LWxHl1em2ogycqhlOlnAyp5EZtVqQk67xEt9tUeqQYKWzjsrsbZAGXS3wTRHtG39dUenaNUAtHQHz47++sjzc8UVJgMs7Wd94iCLu7XJJcHXUBbz03+bU4BIs65kV7Q4ssAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xu2W30taYRzGfTkchiGKKEpKloqGnfDHodTYWSn9MDPK7cyaqa1GPyeNaGu1ohhjeBMbbG2DjbGLXXS9/Qnb3f6qZ7yvnPw1utp5g7EHDsj5qs+H5/ucl2Mw/Ne/L4LW69pUB8jNZxCVw7DZrDAab1wXFMHqWgmp8VsI9vsZjMnUxYCuAYrgtprDiBKH1+fpgLFYzDyhCKTBEPwBL9w9Ljgc9hYACkkBOUERfHn7Bl/fv0M4IrFVtRoTFO7l2YyCms1Gdi/a16cXFMGvnz/w/eICn87OWJHpqjTTujHB2toMej1OWK0m/YFKywWYDQac12oMSEunYUqwuZGDJPXCbrfoDURFUCyrmJxOMaDWdOrz7e05JOIhuN12HkBUjUOwFaY+q1bzSKejbG2cgAwGDaTTjGB3V8VsLolAwM3jSbtKBKenFVZqmhDtUXe3lV9KnSI4elZEaWmcAQ0NBVlK2tPW/m0OIni8V8DCwhiy2TgUZRDhsI+VWzuT2n+hswhOHs1gZyWFiprA7EQYyrAfUtAFl9OCLqPIE4rg5ZN5HFWnsVUexVI+jpm0hGTM2wHEoU8EZ8cqAzrYzmC9qKCQk5EZG+gA4pASwfmLRbw+uYvaQR77m5N4sHgTajZ2JZCOKRGsD4lYlUVUoiLm+gWkvMKVQDqnRBhMISDi2ysV508ncbiSRKJHYB2ipY4MuOFxWWE2GXlAEdzxifh4lMHnkyxq1THsLyfYPdklYDQRgDzYA5/HDpu1qwNIh9URKN0CA6IwNJ29cpyZFYMi0iNBDEd6EfA64LSb+AAlnAI+PJ/C3mocD5di2L0/zMzoGieUEOtRyO9kPWpem25AskPAQrafGZTmJOxU5EsgrUe02O090g0oYhNwuJFkBupU8BKI9oie1u090qB0AqJqvB8db41cfqZA+akIW5vWIwqkzf/8+vKX1PjzZqMGaPOlzXWDaVezUbM5dxC99BsD0PF65bpKbAAAAABJRU5ErkJggg==",
     "wiki_name": "Healer hat (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Healer_hat#Broken",
     "equipment": null,

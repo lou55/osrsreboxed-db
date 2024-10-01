@@ -1,7 +1,7 @@
 {
     "id": 27097,
     "name": "Heavy ballista (or)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": true,
     "examine": "A powerful and good looking weapon forged from the wreckage of an airship.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xu2U/0tTYRjFfX+IUKIYSeJkDidzlLK5MbdGW9uY25oOna1l5rcYkihpViykb5SUFIIQUlEYBEEFQUQ/9nP/16nzjLt2b1K6mfeXHTjsvXeX537ueZ/3aWpqyHQp6G2qFFLhLkT8HfD1tsHlOG4mlELmrAOxQKfA9Dpb0dJ8yCyg3zABdzs8rhMCYxKQQjbejUTIXtkqDabV0nzQQAq5Qaf0DdMJ9VsNyRwwTD7Vo0vH1G26mHFJOlrvmApTKMxg7PxlZDJjSCSGpFfqhKl1fxXGx68IzMhIQWBs7Ufqh7m+cg+l0lpV4+3OExNFgfF4BpBMZuHstODY0cMCZLXaaoVSWFwswW5rg9vtg9PRgZNOG3pddrhPOeDv74HX3S1r3uN/fGZyck4Hw8FHGJo1h4fzsFhqnswKy8t3JClCGZMwenr6agUmHffL8GMqWjr652tSOSW6WFz6SzGF2dmFCgzN4x2P9Fe8DzCaykXYS0wpEbbvUFTpYDhvqhOJhtw67wNcOalPr0axMjeA/FCPrmg1TDSa2uE0lZ8LB/v+sB5uT5AK77eyeP0sjdJCEEtFH7aeJPHhxQi83qDALM56EQn8msQtxn7Rm9vL5udo4IdyXnEth8Uf2i2UwtvNIfz4OiUg66tRfH6TQyAQliIEnCn0IRXtkgS5vjkfEPjVa6fx4MYZAWHj0zxtnFG53CVJOJ+fktPKj9slEKXw/eM4vmyPiQn4fG0Qmw8TeHw7IlA01wR4dCss4ARgIhwDmtPpUZng1WAcHXsG+vbugsAwne2NjADRTI2/3NKX6ym5ZkIEJACnNR2LnRNzrYEZt9T41n9ISd8QiC/XEtq4H8fTu7HKNZufPVUNwYbXXAfATioX0oAIw+2hCUWQ+Wnj7DH6v8j4EqMbaqihhmrWTwhfPkZNN7D3AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xu2U70tTYRTHfV5EKFGMJFGZ08kcpcxN5my0tY3p1lR0tpaZv2JIoqRZsZB+UVJSCEJIRWEQBBUEEb3sdf/XN79n3Xnv1WCbtvViB77s2fbc83zu9znn1NRUo+KhYFRFQyEWaEPQ24yezgY47ScrCaWQOG9H2NciMJ2OetTVHhEgd2truaF2YXyuRnQ7TwlMhYAUhiPtiPpt+avSYOotteUGUkj2O6Ru6I7f3WRwRoMpE5BCKtZhcMd8TWWFuZxwijta7ewHY37qH4VCOj2DsYtXkUiMIRodlFo5IEypQ0thfPyawIyMpAXG2njs4DA3Vx4gm13LF16hmpjICEx3dy8GBobhaLHgxPGjAtTUZC3xJXceWlzMwmZtgMvVA4e9GacdVnQ6bXCdscPr7oDH1S5r/sb/uGdycs4Aw8FHGIo5h4ZSsFhKnswKy8v3xClCmZ0wa3r6eh4mHvHK8KMrmjv6vSVfG12iMpmlPcl2kyrMzi7kYSi2dyTozusQYLTIJWEt0aVowPYnsXGPHobzRu9IyO8ySA9nzFNw5Jz68mYUK3O9SA12GJLqYUKh2D7dlNsX6OvaIyNcUZAKH7eG8fZFHNmFPixlerD1bACfXo3A4+kTmMVZD4K+nUlcZ6wXs3i9LH6OBr4o5xXX0ixef6FQCu83B/Hr+5SArK+G8PVdEj5fQJIQcCbdhVioTRzk+va8T+BXb5zFo1vnBISFT7HbOKOSySvicCo1Jd3Kl+NZBdaYws/P4/i2PSYi4Mu1fmw+juLp3aBAUVwT4MmdgIATgI5wDGiKx0dlguvBODqKBvrx4ZLA0J3tjYQAUXSNn7zS1+sx+U6HCEgATmsqHL4g4loDM19pkV2opG4IxMM1hzYeRvD8fjj/ncXPmtJDsOA17QdgHCVFRS6RBkQYXg9FKILMTxtnj1kHBNgb+nb+m8yHmmXOeShhPsQs8/5qVKMa/2v8Btfni7AUxludAAAAAElFTkSuQmCC",
     "wiki_name": "Heavy ballista (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Heavy_ballista_(or)",
     "equipment": null,

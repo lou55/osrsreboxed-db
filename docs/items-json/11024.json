@@ -1,7 +1,7 @@
 {
     "id": 11024,
     "name": "Rabbit mould",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-03-26",
     "duplicate": false,
     "examine": "A mould for making chocolate rabbits.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB8ElEQVR4XuWW0UpCQRCG3UeJMMkkMTKTzASxzCQTEbPERLyo93+AjW+X/7gI5Y27J2hgOLvrwfmcmX/cQuF/mLFbz92M7XZvbb/fscNhL28oDyP/EzCdzo3zVusqFlDYD7/1hUkDQwCVgED1evWHYMa229d73jmI+awMBl1737tzQZvNy52A/p0EMKEZpxrUo2wJRKUCplI5TQWEGTseP2bZAoInkHhiGJmxk8mTHY0eslmDs89R6sZOp88uW6+zF7cWZESF7TNj3+Zju1rN7HI5tYvFxDlZS9jYoXmgr88Pu9m8OzAB5QKD9AFQdgRUKh2nBPIyZxahLmAERLbop0QwHqRaPXMwqImGBgYI1he183Qwms7MHWYQalIThw6g4He/5cBmXIk0cyhPqCz2AiJbkeeRccohK8wbShQ2MTDqHwE1GrW4QJRJQ1AwSD2EAVZA5fJJLCCfHYAEJSAcEICY0gKitFGBVCqCyjWdAaJfaHrWnAMeFYisACRnv17PXabYA4P6ACdbNH1UIILx6+W6fghI1xBKK+BIQF7quGDIgO5CrAFQj+kKwlk0oDCQlCTnnLNi8ciVTf3GWcT/M99DNDJPXDKX6gSDCxbISECYyUqmSxhBOSdLnAlI0JGBMB9w1wW4DR5+novlGjyNfQPKNy9iQcqIQgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4XuWWXUsCQRSGnX9ShEkmmZGZZCaIZSWZiJglJuJF/f8fMPHM8Oq4aDftrBcdeHFnXPc8nq+dXO5/mLFr7d2Mbbdvbbfbsr1eZ99QHkZifX5w4JS8MwPzMK3WjVOjcbUCSt75Rwvr4be6MFthUgbyTpQCHFWr5R1Qxjab1xv3pAwj81F5emrb+86dc1qvXyag/D1JmEhAuZx/sHFdQ/coWgJRqoAplU5iRidpxg4Gj6toAcEnkCiEyQgIM3Y4fLb9/sNq1iDWYasnfxXZjB2NXly03sav7lqQ61Rmbsa+TwZ2Ph/b2Wxkp9OhE1Hb3YlRzQN9f33a5fLDgQloL3VE6wOg6AioUDjKso58mzOL6C5gBES0qKeMouNByuVTB0M3UdDAAMH1ReUsOxhNZ+YOM4huUhGHAlDwyaekbMalSDOH9ISdxVpAREvzKPmUlMy4ziEqzBtSFBYxMKofAdVqlZiF7V+sGoKCodVDGGAFVCwexwLy0QFIUAJCgADElBYQqY0KpFThVNJ0Boh6oei5Zh/wqEBEBSCJ9WIxcZFiDQzdBzjRouijAuGMfy/p+CEgHUNIrYAjAflWR4IhAjoLcQ2AakxHEPaiAYWO1EkS++zl84cubao39iK+z3wNUch8IrW5uk4wSLBARgLCzCplOoThlH2ixJ6ABB0ZCNP7aVMCXDtffxf9JSsHobY53/x+D5a28x9Sn2/lQrp+kwAAAABJRU5ErkJggg==",
     "wiki_name": "Rabbit mould",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rabbit_mould",
     "equipment": null,

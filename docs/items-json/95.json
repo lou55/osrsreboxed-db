@@ -1,7 +1,7 @@
 {
     "id": 95,
     "name": "Tarromin potion (unf)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "I need another ingredient to finish this Tarromin potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xt2W7U9SYRjGfZr/QB+bq9aaNq0tbSKKKJpCKIE7gQUimqCEkviCiKDzZdrMdGWRZpqmkcYnX/oHr3huPacDlJ/gnM17u8bYYTy/3dd93c8pKroaxZApVYthwHUXnZZbMOpv4NGD62pDMRwl9Eiu15PG+svhFu6oCcUkmN3VWoT67sFpu60W0PnMiEA7b7UI9pSRfSrME4PVZocgvJC6s7GkQaC7FM/MN1FTUw9dfbOSUAxdXb05emq1w2iywtBkQmWlRlmgAX+A5PcPSmq3CGhpbYdGo0NpWbmyQKNjYUmh0CiCwRDMbR2o0zWh4v5DlJSIs6RYMRwepXB29hsnJ6c4Pj4lu6qqatQYal4MPt8rRKNTiMenSdyu6uo6NWB4MQwPjyAWi10ojlajBVptg3pA0alYhp6YbdIMKQzF4PX5EQ5HMDERQSQySdbx3fS4pU0N2xgCgSBGRsakpHk8fXC6PATV0NiiPNDhzxVJ+/sL2NmOYXNzHB/XhzAZeQ63u1UpKIbdbzOXAkWjznTHTEoAMSQSoQwYroODRYLc+jJBQPGYC16vGZ0OQ6GhGL7vzV0KlPj0GrOz3fAPWPCyx1hIIIavWxH8OlrNUfLHG+ztztJzDjQ/58HQoJVsEwR9IaAYPrwfpO5kwxBQcpmeEVDa0oX53vT9JhTStv93Rw60vR0loKXFPoyPO8i2Llcz7Pa8bm9GNvAkpVJrkuRAYtI40MbnUSwv+yj6ctuKi6/lC4rRQXKYbHEoMfocaGWln5Imt63NnLcXNkYpyobIBuK/EYFW3/kpaXLbrNZaGAx5u+NYDkS2xOjz5bi2FqDBFm1z2BvT91tZvmB4ZV4V4uzIgXj0RSC+HGem3dSdDpsOFRUFeXvkf3huHz+cJ0uEI6D0d76L+HLk89Pva4fRWHUBkncYeYkHsAwo/smjn3mPFRTkX/UXLldXsP4A1UYHyb55n3cAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Tarromin potion (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Tarromin_potion_(unf)",
     "equipment": null,

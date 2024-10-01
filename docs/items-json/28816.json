@@ -1,7 +1,7 @@
 {
     "id": 28816,
     "name": "Stone tablet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": false,
     "examine": "An old stone slab with writing on it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYklEQVR4Xu2UUUsCQRSFvb+gH+FTvUQilZCIaGxmmJWIqEVFEdFL//9l4s427eyZu5vkXeehPXBwd2aY8+2M9zYatf6nyOBIBDFE6k774Ps5mshcJ50fj/rHMYFSmMPmnrWDGnZbMaDIJL12DsR3xUBu8+y/gjASWEVQZMPcLz5LIBUCZcEY5k4FT8kfy05URVn1+EEYKvn9YWLNeyi2gXw5/9WKFUfmZnQWBEgn5L9L8ydH+xpQZJ4XF+ZqeLoR1G9WAGLlrw0h8F1a688rQJF5W4+DMLQfXmRVqMd5UgiB426uaJ0KEJcwhkphm1ipDZBZ3Q6CzSUjoHR1ClBkPp6mQbhkBEIoN6YCNZ/0ghAMx/miNVvCOJV37zKI2bhrr50L5GV5qQfkn1IZBHf5xbQPAL5VlHZv/Hpnhr2fnVcJIInsl/snwdfBMDsCQKXdm3sTV97n610MCNTOrqNWra30BdPlYyNuXZnSAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeUlEQVR4Xu2UW0sDMRCFO7/Av1DwSV+8UNSCpRQra63UqqUUb6goIr74/18ikzVu9mRSlzrbCPbAobtJmvn25NJorPQ/RQZbEoghcrdbm1/PyUTmPGt/e9Dbs0DbzWYKqBxma33N2kH1O7spUiKTdVslEN81p+S+ttgrCCOB1ZQS2WLuF58lkBpTKgpjMZcKpuS3FYmqqDg9fiEsKvntfmTNcyheA+XjvKjdiVNYOjIXg8OggJSQ/y717+9saKRE5ml2Ys76B5WgfrJaShJI7F0a6/erpPR6OwyKof3iMatCPUyzKAS2u77YOIWlI3uEsahUrIqVrgEyN5dHweSSEVBaOgUoMu+P46C4ZARCKNemAjUddYMiWBz7Y2PcXvr1fsKJq0JMhh277HxAnq9PNTY3q5zSPAi+5WfjXgnAt0I6rPz2xq93Zti7yfFcAN84+4Ii++V+ErwcDLMkAFR+e/PdxCfv4+UqCoH/rFHx5cCRS1PCNFb6u/oEaeaRA/3E/+QAAAAASUVORK5CYII=",
     "wiki_name": "Stone tablet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_tablet",
     "equipment": null,

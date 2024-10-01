@@ -1,7 +1,7 @@
 {
     "id": 15165,
     "name": "Maple stock",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "A maple crossbow stock.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZElEQVR4Xu2WbUvCYBSGPZ8iiCSShQuTTVRq4UxqKjYQJFMUNKykDK0oiiCIIAiC/vqd54xZv8CzYBc83y/Oy32eRCImJrIQghcJCMNmHt2GHQUpwtOojL6fE6GWl9WWItwNSiLUrlloHu7AL29rSRG+7uuYdJ1FdVioXjLhOWkNKcLHtIrLk6JUh4W4OsXMOozkyrKFCN+PDbxdH8lAs5C3u6kn83lbw8vFAa5O96RdoYzC+hPebzw8nLkYtQrSJpZREGFIKsJDy1vF8/Irs3TmbZo4GDcNuLmktMc21/Rk+J37KVQKG3AslVkJCZKYN4lbpSjCEF7HFQk+Hl4ztaorw2sdpjBXR1EokOGN4sBzC4Zmq2iRMXIGsmprzRAmbQu+a8hxzGyprTVDeB7mMTgOwk7hHv1lLtM3MevY6NVNCT7FAWaCfw0HX6ea1pZhSL4R096+3ChlmZBwrSMhExPzf/kBOkbRGrLWz5YAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhUlEQVR4Xu2X7UvCUBSHvZ8iiCSShQvzDZVaOJOaig0EyRQFDSspxV4oiiCIIAiC/vVfnjOuyPwY3rsPe2DfNng45/zOvYtEQkICi4D3BAKBQSOHTj0TBCmBl2EJPTfLQk0nqVtK4KFfZKFWNY3G8R7c0q4uKYGfxxrGHWteHRKqFU04VlyHlMDXtILrswJXh4SoOoXEJozoGguVUilVUgK/z3V83J7wQJOQs7+9JKNISOD7voq3qyPcnB9wu6SMjL9Smc+Jg6cLG8NmnttEMn4RZTJUERpaShXNi5RRLELM2jS2MGoYsLNRbk/G3FDdHonXjks3hnJ+C1Zay6xIvE1MSaJW+UWUy7yPyrz4aHjN2LquqhCCYy23MFVnUcj/9orxZChRtPDsvLHUKv8XK0TMdwwfA0ltsSYExq00XNvgwzGxoy3WhMDrIIf+qbfsNJxHi8xkeibu2hl0ayYvPo0DTHj3Glp87Upcd7wJwdeIafeQzyjNMhL51xAIGQ9N0Q4J+Rd/8nwKgaAP3Y4AAAAASUVORK5CYII=",
     "wiki_name": "Maple stock",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maple_stock",
     "equipment": null,

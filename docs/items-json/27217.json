@@ -1,7 +1,7 @@
 {
     "id": 27217,
     "name": "Fossilised dung",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-08-24",
     "duplicate": true,
     "examine": "Perhaps this was more valuable in another age?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xu3W/UsUQRzHce/PiH4IEgJRIuMwI83ExMzwPE5P68zMHsQKKewBkaIHkZ4QxB6oUDDERMoIoqIo6i+beM/xWWb3duX2bot+aODL7szO3rz2O7OzV1Pz75eUCY+w63+8pMyjmZx5MJ21MXejz8xezdgQYnXhtFmZP2WWH4+EoIIPUTW8CBIKkCKIWXo4bJ7PnfANTJ1rwfCjYiFTZv5mfwmKIxCFQE9nh8zC7bztyzEMRH8X/X1jxnxdm6oMJRDnyo5AL+8XLEh9o0Dc92192vzcvGN+bd6zoFgYflRPLRCDhoEW7w56IM7DQGuLYz4Q52WCUr5pYCAtbuouSHAQmt4o0Mazc8mBlCXaBKJftqPFWxMuiKwFQe9enPdARCyQ1kUQxJO7oHxXm2msqzVt6d0eKgr0/tW4H/TmevUg2gG5qIvH+8y10bw9Uo8CfViaSBZEMJUuiH70nxoZsKCTvZ22HgTR99PKJQ/04+2tcjEUP8hF8ePBDE0M9vpAWldB0OfXk5WCKMWFSvqjQFwv9HSYsewRi+J4uHmvbSeTQdCX1SuVgoqvMhmKAgnc3rTHCxZ4S2ODqa/dUZIh7nFBMTbF4tOFgQh+nD5MCwCmaHygx0wWsubycM6czR21WXO3A7KTKEgoDUD0d7aa0UyXBQBi/XCkPtTdbrpbm8y+hjqTrt9l+ycGEkrTc+xgs316pqbrQNqrky2O1GnnOuuJI/euPznjgdily8RQim9YGIin5ukVDKgAoQBHBgFS37l9m73fzVBFIHfaaGdg1gxvE9NFUFcb06U2wEJxL5+NxEAuigXLoAKwbnjltX4EIkuZQ/ttVrmPXdoFxUAVQVHTBkgZEYYFTQjGNb1pAn1cvuCB2INi7EN+kDtt+kzEDf4HVQXiLYsCsacwAPsRbfrGaZ9ie9B3TPtPYqDgtNHugvRvUiB997hPfQHxyrsg9qDY+1DYtLkgzrcCKUP0TQQUNm0uiGvu3xIXpA+rpqtKEKV0YYZFcP0ogiD+S7sgRQxQuaUUqXDXz18EbVVKkaXxv1RXfgO2gyPIdEY89AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADN0lEQVR4Xs3We0sVQRjH8XNeRvRHkhCIEhZiRpqJiZmhHryWZmYXsUIKuyBSdBHphiB2oULBEBMpI4iKoqhXNvGdw2+dHXflrGcLBx52Z3b2zGefmZ09mcz2L1kTHVHX/3nJmieTnebRRM7G9K0OM3W93YYQS7NnzeLMGbPwdDAC5T9E0fA8SChACh8z/3jAvJw+FRqYOtf8CKMSIbNm5nbXBhRHIAqBnk/1mdm7PbYvxygQ/V30z9VJ8315fGsogThXdgR6/bDfgtQ3DsR9P1YmzO+1e+bP2gMLYozKkhIb/uheyaddTy0Qg0aB5u73BiDOo0DLc8MhEOcC+aN7JRuaBgbS4qbuggQHoemNA62+uJAeSFmiTSD65RprgzXhgsiaD/rw6mIAIhKBtC58EE/ugnqa682+slJTX7U3QMWBPr4ZCYPe3SweRDsgF3X5ZIe5MdRjj9TjQJ/mR9MFEUylC6If/ccHuy3odFuTrfsg+n5ZvBKAfr2/E2ASg1wUP+5naLS3LQTSuvJBX9+ORYL80WNKfqGS/jgQ1/tbG81w7phFcTxas9+2k0kf9G3p2lZB+VeZDMWBBG6orgyCBV67r8KUl+7akCHucUHupuiP7pX800WBCH6cPkwLAKZopLvVjPXnzNWBTnO+87jNmrsdkJ1UQUJpAKKrqc4MtTdbACDWD0fqfS0NpqWu2hyoKDNV5Xts/9RAQml6ThyusU/P1DQfqgrqZIsjddq5znriyL0rz84FIHZpYQoC8YZFgXhqnl7BgAoQCnBkECD13Tt32PvdDBWYHco6yJ022hmYNcPbxHQR1NXGdKkNsFDcy2cjNZCLYsEyqACsG155rR+ByFL7kYM2q9zHLu2ChPJHjyh5UNy0AVJGhGFBE4JxTW+aQJ8XLgUg9qAE+1AY5E6bPhNJg/9BRYF4y+JA7CkMwH5Em75x2qfYHvQd0/6TGsifNtpdkP5NCqTvHvepLyBeeRfEHpR4H4qaNhfE+WYgZYi+qYCips0Fcc39W+KC9GHVdBUJomxcmFHhrx+FD+K/tAtSJABlMtrWNwsf6Ia7flIBFVp8ZCFYxXrf/1R8ZFT492zr8hcAlm5UfXV4KwAAAABJRU5ErkJggg==",
     "wiki_name": "Fossilised dung",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fossilised_dung",
     "equipment": null,

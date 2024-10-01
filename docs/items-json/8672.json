@@ -1,7 +1,7 @@
 {
     "id": 8672,
     "name": "Banner",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A banner with a picture of a money-bag.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMUlEQVR4Xu3XzWoCMRQFYLO0W59ApIUqWBW1CiItFkQRKbgRV76ViLSI+B4+2pU7kjG5N9HRSdIKc+BAyOTnY3bJ5R47Au5v6tADBfRqpaj9xnPUz9ZLPJbfOtViVLkO1wy75bQoAdvfPCsF2mrelyr80DTNQNfqAIRxg3KEwWSga8lASWJHTRqFuPSbJwzmgUAqis4HB6l/JzAIo6Mo5rB9sqI8gPgfMmH+DYiWrg0CuqVBQfsdn6MNBkqC8YTSQQhRMT+bUynCE0hol0uMCXQJ5RxESzHr1WWUV5AJI2tD/RkoAEoHqZjTBbw2lHPQ+VBT9T1YiuLr7oqAr/fX+LmsPpPVcuC5EuUIhOGX0I57Ffj+eIPZoA7zYRMWozYsp51ojHOTftXF2/6WcKS5yXIEY2U+Q81KveQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVklEQVR4Xu3X0WrCMBgFYHu53foCDnHgBk5FNwciGxvIhojgzdjV3krG2JDhe/hoGUlJ+/ckqbX5zSp44EBJY/I1emFrteNOJMrXO7hgJMbdpuqk31J9HF4m1/reqHOhqufJOdP7K19UJNY/Z0YR6Krtc91GQxV3KhhzUZ9qEO6yR06gIuFBMfx+dHhBuHqJnEC7UjmQjBs169eT4j3EVA6Eq3rEDaIoHA8OoqcTGCSTRSFmuz53og4AMk/IhqkMCItzg4D2aVDQ5tccwwYDFcFQFK7qkSxIQijm+ysuIhDEdEpRZnONsYHyUOwgLGI+V/mog4JsGF0X6t9Au1C4eolkQRQTb2DWhWI6pRSUPqVZ/X8n3jAeQxQb6Pmunbwu09dkWgTSahQTSMbcBPs6vhaLhxuxfOqJt+lAvL/cio/5SF3Lsdmkw/Fun4Z+JbYi0NV0fn7+AIw0eQoMOmS7AAAAAElFTkSuQmCC",
     "wiki_name": "Banner (Money)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Money)",
     "equipment": {

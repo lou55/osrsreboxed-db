@@ -1,7 +1,7 @@
 {
     "id": 17191,
     "name": "Book",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-11-28",
     "duplicate": true,
     "examine": "The book of Rats.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuklEQVR4Xt3UQUsCURQFYB+zjSCIFrVwERFEYETiohZt+gEREZaZiEj9/x9w48zjdJ+3Uee+GbO6cBhdOPN57tNO529PkMVsdYIcn3Wke6LZIjBimBR11NX8IC7Iaa+ohTo4jNlgexFjQSmqCoTs7WtaBCrIota1ZFE7u5pMVJDzy6KMRX28v32LB5UBUowFIRazLFUgXaFrglwMFFSF4uosIsXYlrLbAYapg+KZSkF2dcDwtRO1CKqLWnfI0RCvDlCQq5uizDKQRdmWqlBA9Pu98rVjbYppGwUQrzUxmCCD20VQGyiuCiA3hlkGykEBw2s2qA0UEVybC3N9V5RpA5W2BEhWOwQ1QdmWuCrEgcHE/x08EACLSkEeFCCEuUF4ED48Gj3I8/C+vHmK9KKwKp4jJwYTQbgR/vLn81eZzV5kOh3KZPIk4/Hj18PqogDB/TLawURQekMGuDRA4pvjYWzRghq2g4mHmqux35YBAo3ZpECE750/dTv4YIw9zFVA/pJw3tIQg2sDjB3FVR1mCyMgbaphO6tGcfYQ27NDTMvtrBrFsRm7yg23s2oUx3UxW8DYUdwvwPzz+QT4OyymQkHuOwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0klEQVR4XtXWQUsCURQFYIfZRhBEi1ooRAQRKJG4qEWbfkBEhGYmIlL//we8OPM4vTvX5zh35pl14TC2cObz3KfU6fzvyVw5e53MnV91XPciZI9Aj2Ek6qwb8ou4zF3281qok1OfHbbnMRokUTEQcnQckhAYQBq1rSWNOjgMaYjK3PVNXkSjvj4/1mJB4d6DXs+CChgNQjRmU2IgrtAMGowCKIbi6jRCYnRLsh0DyGOYOiieKQnSqwOGr41nqAyqi9p2yNEQr4aVZe72Pi+yCaRRuqUYCojhsF+8NhzqgEmNAohXwxnK3OihDEqB4qoAMmOYTaAmKGB4rbkqTBmUAkUE12Zq5+4xL5ICJVsCpFE7BLVB6Za4KsTQDsb/7uCBAGiUBFlQgBBmaAfjv+5483T67Cbjp+LmEmlFYVU8R8Z2MB6EG+Enf7V6d8vlm1ssxm4+f3Wz2cvPw+qiAMH9GrSD8SB5QwY4GSDxyfEwtqhBLdvB+EPN1ehPywCBxnQkEOHf8quun1hjwr+X+jDHgPwm4bzJEINrw3bChDcHXOwwaxgBsqmW7axPDKcPsT47xCRpp2piODajV7mTdqomhuO6mJ22UzUx3N4weoj4E5iU8w0fBXAHO9ZLsgAAAABJRU5ErkJggg==",
     "wiki_name": "Book (Ratpits)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_(Ratpits)",
     "equipment": null,

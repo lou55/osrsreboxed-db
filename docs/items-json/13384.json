@@ -1,7 +1,7 @@
 {
     "id": 13384,
     "name": "Xerician fabric",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "An old scrap of cloth, containing remnants of Xeric's forgotten magicks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACk0lEQVR4Xu3Xz0sVURQH8PfwT2gfpIvARUQbNy7auC4xLEoUlZQkAikMEcNUpFQE8RclCoqoiBpBlChG/mVXvnP9Tueed8Y382YUF144zMx917mfOffHjKXSzS9lZ4f1+5WXspsZaXNfh1ujmPr41E1+eBIFEVvz3W5jrsutz3YaKP0QueEeRBRADI1Zm+5wK1Mvg45xjd90hKhMyLKbG31WgcIREAZBS5Mv3PxYe9QWRwuE9hJ9ujfijrff14YiCOfMDkHfv7yKQGybBMLfnewOu3+Hn93Z4UQEyoTBTfnUBKFTC7Qw/jwG4dwCbS/0BCCcpwSVg2FAR5zcuNYgOX8uA+0tvy4OxCyhToIIaXhU5+431UXnACFrGnTwrS8GITKBOC80SK8mQohhhizQj9X+ELQzlA9EBDqXEMSDx9VBP9feFAcixApgqoEwvL833sagv/uf0mJQQlASprH5P+ZhiwcRL4OgP5vvagWh+JvhaS2QxhCE4PXdJh8SVyPI70HIkAUihh0Tw7o7jaUYowPtAMqwKfolnwTSGM6dNJjCQEQxOFQaww41gnGvuQAQUZjcOGKCog0yJXFpMARhl06JQfErzALxdYB3ElEyO0lBTP1FRpGhmkBy2ADi3gIQXh/+pj4rSdmRmUFwleUCEYV67CcE8TWiERYGu/TR1mCwU6dEeZA1bBaIG6GFYVbQ/tf6QAzCHpRhHwpBctgkCEfU84tSoojB8AKeG4RVVg2EzlCnQcwKXxeFgvSwoV6C+DWJ4NBx8rMtQLuLvQEIe1DmfcgaNgnCuQbhWq5Gti0EZA2bBOE3+V+JBKGdnD85QSh+HlQLiZGhQfiWliBGBlDaUolkyPlzjaDLSiWyMm5LvnIOYD27eBTEEw4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xs3Xz0sVURQH8Hn4J7gPfywEFyFt3Lhw01qlsMhQNDSSEMRQRJJKkUwRREsqFAxREVMEUUkS/ctufOf6nXfmeOa9GWcSLxzm132ez5x7584YBPe/lZwd1vX/3kpuYeqJm5/sCmNuotPNvusIg4it5X63udTnNhZ7DZS+idxwDyIKIIbGrH956dbmXsQS4xjXdMRRmZAlt/T+6Q0UtoAwCPo6+9wtf+gO+2JrgdBfov/uTbk/22O3QxGEfVaHoB+fe0IQ+yaB8Lvz3Ul3efDRXR3MhCDkaKmrC0NnV82XnXdNEJJaoJVPzyIQ9i3Q9spADIR9gnR21UqxYUAiTm4ca5CcP5VAe98GiwOxSjgnQYQ0PqpxTa014T5AqJoG/f4+FIEQmUCcFxqknyZCiGGFLNDhz9dx0M54PhARSC4hiIft1UFH62+KAxFiBTDVQBjek823EehifzrCZAYlYZrbypiWxx5EvAyCTn+NmCCdPaH5P4a7tUAaQ1CY5Pr4QasPibslyK9BqJAFIoaJieG52uYgwuhAP4Dkoqizq+Yf+SSQxnDupMEUBiKKwaHSGCbUCEZ9WwEgojC5scUERR9USuLSYAjCKk1MKhCeMAvE1wHeSUTJ6iQFMQ3XFUWFUlYHrQySwwYQ1xaA8PpAX1YlqTqyMgg+ZblAROE81hOC+BrRCAuDVfpsazS2Untk1eZB1rBZIC6EFoZVQf/jjeEIhDUowzoUB8lhkyBscZ5flBJFDIYX8NwgPGXVQEiGcxrEqvB1UShIDxvOSxC/JhEcOk5+9gVod/VVDIQ1KPM6ZA2bBGFfg3Asn0b2LQRkDZsE4Zr8r0SC0E/On5wgtPJrolJIjAwNwre0BDEygIKAy3ql0EAZcv4UAkrbNDINllHue0dNI63Qv7nX7R+qQQYThMOH8gAAAABJRU5ErkJggg==",
     "wiki_name": "Xerician fabric",
     "wiki_url": "https://oldschool.runescape.wiki/w/Xerician_fabric",
     "equipment": null,

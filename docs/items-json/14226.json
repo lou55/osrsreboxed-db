@@ -1,7 +1,7 @@
 {
     "id": 14226,
     "name": "Runecraft cape(t)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "The cape worn by master runecrafters.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xt2W30sUURTHHWRZ5rIEPfZioGSkkhFhSS4aav5EU1ls8Ue2bLaarq0mppYssqyYprYqorIiJhkIklAg+CD1UD0EQQ/9O9/8nmFLpXIN9wodOMwwzMz9cM/3fM9NSkpYGDj45BiDPz/KAgYyMtKP+E3cYSA1NQWnzKQ4FzCQl5eD82lpcb7/T2Hg3JkY0J92y3peXV3yl3eONQxcTU+WUmRlXTgAZ+BmcT5aWup1gOwNA22+O8jNvYLCQidcrirU1VVINje70NXl1Q/0ZLBLFidQZWWxQNXUlKG0tEA3DMPA1NQwhoYC8HjcopfYNTs7UzeQge9vHdjpVhgfG0JfX4fsSgyIGtIO9HXDge2HCouLzxEO94ueWlubREPuCpt+oC/rDmz5FVZWZjA7O4KRkUEEAq0nB/TxlQPvOhSWll5gbm5U9NTZ6Tk5oJ1lhc12hWh0EpFICM9Gn0rZ2GknArQdVdjwKSzMj2FiIgjTbt8H1HRNG5SBaMhEtNmUTmO52Gl7gVwlNrhzNAIthy2gb28cImjCfPKflSuztkgz0OqoBcTWp1vHku3PrCpI1gu0Nm5iucUC6unxCUx3/mkM9PvlnkCuyxqB1ieVANGLCMT0Oy0gJoGqLibrA9qIKKx6THx+/Qtob1JDZZkagTZnFNa8FhD9h0Levp/yU9Sca4Rqy0942QzMB01E6k1x6unpsAAFgz14/yBFZtnt+lsoLy8UoLvXNQDRg2bdFhDHBbuKQubOcHTwfMSJTyAN5rgfiA4dCvUJUG9vu5wSvd4GneZomeJ8owVEhx4e7t0HRLdubKwTILY+S5xAKMsUP7xUMlB55PgdEA9qBKq9ZENkQBMQ9XMYEL1o7JE9sUB0aQJRP4cB0YtCfruUOUFQhnhPPEDUES2gs0GDsAm0taAsg+Rco9B3xfu41I5A0W7737DhnlOLD8WCi8Sb/1H8AE5lhE2yZmAJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4XsWX70uTURTHvcgYz8MIetkbEyUjlZQIS1I01PyJpjJs+CMby9TcbJqYWjJkTExTm4qoTMQkA0ESDARfSL2oXgRBL/p3vnnO5XFuWE7oXg8cNh6eu/vhnO/53rukJGUhEP/kPwb9+Fk2EMjMzDjjmoRDIC0tBReMpAQ3ECgoyMPV9HR+Pzc1NYE1Zw6BK5csoL9VSz6vqys/eodgFAFRCNzKSOZWZGdfi4MTuFdWhPb2phgQhTBWCHR1PkR+/k2UlBTC6axFY2M1Z1ubE729HpVtOikEXo708uYEVFNTxlD19ZWoqCjW0ab4EJidHcPoqB9ut4v1Yn3m5GTpr87vXQcO+kxMTY5icLCHq2IBkYa0A/3cdmD/mYmVlTcIhYZYTx0drawhV7VNP9CPLQf2fCbW1+exsDCO8fER+P0d5wf09b0Dn3pMrK6+xeLiBOvJ63WfH9DBmomdbhORyAzC4SBeT7zittGknQvQfsTEdqeJ5aVJTE8HYNjtMUCttyVU/EoFIRAJGoi0GTxp1C6atONAznIbXHnaqiSwFpJAvz46WNAE8813mT8pG0o1A21MSCAafXJrK2n8KWuLk/UCbU4ZWGuXQP39nQzTV3QRw0M+/k5AzhsagbZmTAYiLyIgSl+hBKIkoNrryfqAtsMmNtwGvn+IAh1P0lBllkagnXkTmx4JRP5DQt5/knIkajrXCKqrSPnoCywFDISbDHbqubkQAwUC/fj8NIXPsgdN91FVVcJAj+4o15H0oAWXBKLjgqaKhEyVoaOD7kd04hOQZY7agMihg8FBBhoY6OZbosfTrNMcpSkutUggcuixsYEYIHLrlpZGBqLRpxYr1JE0xS/vTD5Q6cpxEhBd1AioIdeG8LAEUlSlKBDp5zQg8qLJ53a1QOTSBET6OQ2IvCjos3ObFbVNsPckAkQ6IgvwNkeFraxKBLS3bEqDpHONhH4o3hcVdvhLD8f/rg2PC2N9SBGMFbH/VP+VGmBkWBslkvFrE40/kK/B8ijQX2IAAAAASUVORK5CYII=",
     "wiki_name": "Runecraft cape (Trimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Runecraft_cape#Trimmed",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 24786,
     "name": "Cooked mystery meat",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-04",
     "duplicate": true,
     "examine": "I don't want to think about what kind of meat it is.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xu3W70sUQRzHcY/jOIQIguiBDwqCntSDwAdFUOCDIiLIsizLMq4ysig4OjIxw+qwH4YhZlGgEIiJlBD0IIqi/rLJ9w6fdXZuTm7vtuhBA19ub2729rXfmfnutrX9+y1nwhH6/Y+3nJkcPWmejpyIYmL4uKlWuqMQYmG6ZN5NXTTzzwcCKP8mWoZbkFCAFD5m7tl583riXOLCfOc3P5KoVMicmRo7VYPiE4hCoNlqn5kePx2N5TMEYryL/r48ar4u3m4OJRDHyo5Ab5/0RyCNrQfivG9LI+bnygPza+VRBEqF4U911wJx0RBo5uGZGMSxmwmCcYszlxIgjhsE5RLTwIW0uPnug4CD0PRy/mBvwRzanY9if2c+6lt+NZgdSFmiLwRSJjl3qG8NQxw5YEEf31yNQUQqkNaFD+LiPkjjOO9mfxJD9B4uxFlKgN7faR1EPyChlEnG+FPlxrGuvOncZVGZgQgALkgLul52iLNHC6ZrT97s2NoWg358uN8ohpYEuShtX4Hsn9rwIX52OrY0DaLZi3D3IZB+r5SKUWbqTdWF7tX+fTY7Gzc0DbI1iAz5IBfi76ZQ9BwsmL2rn5s3WYwWdYqiaLe8DxKkPFCsmw0/lJ1tHRbzZaGcDSgtRKHtruxkAiI0RSEQfQq3v9RTiAqisrP08nIMoko3iKHZHeaD7l1LByI7bHUtZB4bboaaAglF3/iNMKhesNVVd9iVPDYyBT0uF83dK+tvcYKFzM5iMSs7gD7NDSVAKVAW5E4bfS+G2yMUmaoHoyKDYe3s3G4xFE9eOz7PX49B1KAUdSgJIuibHWuPUdVbxWhNuUWRRazsUJXd7LQMYpeFpk2oycoaimxREoDpmWUvZLOTKSi029wQRBnSew/n8R8CseVdEDUodR3ypw2QLsIdc+wDCao65+mlnrGZgELT5oL4zX0t4VhvBozTQzgDEK32zkPhYtzwQRRFF6RIAWq01SIV7vr5i6D1Wi2yNv631tpviBmrbtXCtOwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xs2W30sUURTHZ1mGRYggiB58KAl6qYfChyIo8KGICLIsy7KMrYwsChaXTMywWuyHYYhZFCgEYiIlBD1EUdRfdvN7L9/ZM8c7suPewgNfdrxzr+cz33vPmYmijR8F45fv/j+PgpkYOWOeD5+2Gh86ZWrVTitCzE+VzYfJK2buZZ8HSj9E0+AOiFAAojTM7ItL5u34xVRi/I17WmmoXJAFMzl6dhUUfgFCEWim1mOmxs7Zufj1AWG+hP65NGK+LwyuD4pAuKY7BHr/rNcCcW4WENb9WBw2v5cfmT/LTywQcuxra7PS2VU42/nUBEJSH9D04/MJEK6lExDmLUxfTQHhmkA6u4pCahuQiIcbf2sggAOC24v1/d2xObq3aHWovWjHlt70hwOiSxjzAdFJrB3oqcNAxw87oM/vbiRAUC4gngsNhOQaiPOw7k5vGgbqPhYnLqWAPt5rHgjjACIUncQcvVVSJzuKpn2PgwoGBAFAAvFAZ7kDXTgRm479RbNre5QA/fr0MIHJDSShWL4EwlxKg2h3Wrf5gXT2jHBJ8PQ+IN6vlkvWmaytuty5Mn7QubN507qBXA+CQxpIguhq8qnrSGwOrPxu3eJgeKhlU9TZVbiS10AEqfSVMt3Qojs7Wh3Mt/lKGKC8IBTLne4EAYK4RT4gjFFyvNwV24ZIdxZfX0uA0KUJ0xAQKkwDPbiZDwjuoNR5kPHakA416A6iDkQojI3d9gNlCaXOvoOqxGsjKNDTSsncv752iUM4yKgsHGa6A6AvswMpIELp7J5wQHLbMPZqqMVCwaksMHRkwODs7N7pYNA88dnxde5WAoQelKMPpYEgjM2MtiRQtbsle6ZkU8QhpjvoytKdpoFQZb5tI9REtQ4Ft9ASAMZ3ltsK505QIF+1SRGEDvG7B+vwPwiEkpdA6EG5+5DeNgAxCZ4Y1xoQQlfHOn7UY24QIN+2SSDck58luOaXAebxJRwACLH6yX2SMFIaCE1RAlE5gKKIbX0taUApeX6CADUaGrIRWKo+9z+FhvRJr9nQ8RfSHfX6B3GE4gAAAABJRU5ErkJggg==",
     "wiki_name": "Cooked mystery meat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooked_mystery_meat",
     "equipment": null,

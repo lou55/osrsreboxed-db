@@ -1,7 +1,7 @@
 {
     "id": 9042,
     "name": "Stone seal",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-17",
     "duplicate": false,
     "examine": "A seal. Made out of stone obviously.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcElEQVR4Xu2WQWvCQBCF3Z9QLBbpQXqwEBsMllortRIIpWqlEkIOLeL//xdTXu12d2dXvWRiD3nwCImH/Zh5s2Or1aiRor3Prj3IZDKiJLk7N5SixSL9cZa90Gz2SHEc/ULVXjFFq1X2B6Q9nT7QYHBL/f4N9XrXdUGZysRR5Dzh+fyJxuOEut2rOoDcytggtgHV6VxKAylar1+dgw8Bwe32hSSQos3mzTsUQCGn6bNkyxTl+dKDOWZMnFCoFRXFu3fgKeNewqRVDKSoLD+cg3hrQhlCdTD6lcN8febeYRyAQ+GCvB8Nq4fZ7UpvokJA3GhVxTCQCfGp9tjG3WNWR2UyueEA9jv/TahVkFkL3BqCP2HsMBEYPuKhlvH2YaqE/nqEN/ghQLwjN2Iw223hAYSsYbAehGAgdz3w0NrfYYRYEAZywxwKrm1hGMgNNM+KNjIjNN4h+VvdbpEZ7VpgtHwowCDANYPY0lXgbtTo/+oblt8P0Td15zoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xu2XUUsCQRSFnZ8QhiE9aA8G2tJmZCapCEtkJsmy7EMh/v9/ceNot525M+bLzG4Pe+CwrD7Mx73nztVGo1YtRQdXrgPIeDykOL6pGkrRcrnYO0lmNJ0+UhT1f6BKr5ii1Sr5BWJPJg80GFxTr3dFnc5lWVBFZaJ+33jC8/kTjUYxtdsXe6C7bjcklFkZHUQ3oFqt89BAitbrF+PgY0Bws3kWEkjRZvNqHQoglxeL55AtU5SmbxbMX8bEcag9AynKsnfrwFPGvYRJ8wykKM8/jINka1wZQnUw+gzjCUjR12dqHSYBJBQuyPvhrX+Y3S63JsoFJI1WeYaBihCfao9u3D28OrzCcG4kgP4uvwvUKqhYC9IMIZ8wdlgQGDnirpbJ9mGq+KeHRxjIvcGPAeIdudFhPAIp2m4zC8BlhsF6CAQDmetBhlb/HEaIA8JAZphdwdUdGAYyAy2zwkZmAo23S/ZW11vEo10SDMuGAgwCrIOUBMPS/zUUrgCkkF6JiqpS63/rG2GDSphgQtT1AAAAAElFTkSuQmCC",
     "wiki_name": "Stone seal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_seal",
     "equipment": null,

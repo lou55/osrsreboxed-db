@@ -1,7 +1,7 @@
 {
     "id": 949,
     "name": "Bear fur",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "This would make warm clothing.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu3W3UsUURjHcZdlWfpXugsCL4LwoogiyrIss4ytNDbqQpJKrLBa7MUwxF6oUAjERMoIuoiiqL/sxHcOv/WZM0fb2Zmiiw48zNvZnc8+zzNntqfn3x8VF4/Y9T8+Km52asA9nDySxMz1fteaOJyEEMvzDfdm7qxbejwSQYU/ojDcg4QCpAgxi49Ouxczp1I35phrYaRRuZAVN3frWAbFFohCoGetk25+ejCZyzYGYr5Ff1ubcl9WrnaHEoh9ZUegVw+GE5Dmbgbic19XJ92P9Tvu5/q9BJQLw5fqVwvETWOghbsn2iD2Y6CVhXMpEPsdgiqpMnAjNTfHIUglUHk3A609Hy0PpCxxzoKYe2Wg5o731VL9QYSg9y/H2iAiF0h9EYL45SFoulF3jQMetb+3mmwFtKAPry+mQW+vFQdxHpBQApGlM/s8ZGjPBs6iPi42ywURlDIsjUBkCZRAe3d6kA2Bvr+73SmGkQZZFNdujtTdjeG6mxiqu/HBegJiO3owC+rdXk22HAPm812AGP4X8cSEIDBkpNlfSxCAwHGsLB3d7QMMwX6hDNG8ZCgGIkPqGbLBvpDK0qFd1aSHgPTtyIJyLIr+kY+BCK63LvgSkQ1uDAAM58gSSDBAyA5ziNJAKp9itul7SDfnZuAEEpT+sZ/7vDxeHMQx/UGfAHlyeVuyvT+2kSUaVllSXwHVU8bysPr0fBvEKt0hhuGfMIGEEkgogtLZXgKiAKq+Yc3itWEz1BVoq7IpbOmA6SlTCMRrozSQUJwn/by1uQlzKR0ltas0ITDzmcsqbUE5UB4Uli0G4jrzKaf6JnyHaf6npUttEGtQjnUoDbJlsyC2nNfapLKxb/96AC8M4in7HYibcU4gnjj1DPOUnVJBYdk4b0H6NymUBWkuIB55C2INyr0OxcpmQexbkFZxztkMMbcUUKxsFsQ1+7eEff0zYJ7tn4IgRna9iYXF2AhBLIoWpMgB6nRkkQrbP38RtNXIIrPxfxQbvwC9uex9Kl8EYgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xs3WXUtUURTG8RlkGPoWXndVEHgRhBdFFFGWZZllTKUxUReSVGKF1WAvhiH2QoVCICZSRtBFFEV9sh3/c3hm1lmzx2aaU7hhcd72sH+z1jp7plDY+qMY4hF7/s9HMcxND4ZHU0eTmL0xEGqTR5IQYmWhEt7OnwvLT0YjKP8luoanIKEAKTxm6fGZ8HL2dGZhrnnmI4vqCFkM87ePN6E4AlEI9Lx2KizMDCVzOcZAzLfo7+vT4evqtb9DCcS5siPQ64cjCUhzW4H43Le1qfBz4274tXE/AbHGjt7eJPzqbqRp17cWiEVjoMV7J+sgzmOg1cXzGRDnAvnV3ShmysBCam6uPUglUHlbgdZfjOUHUpa4Z0HMvTpYCif6S5n+IDzow6vxOojoCKS+8CC+uQfNVMqhcjBFHejrSY4CWtDHN5eyoHfXuwdxH5BQApGls/tTyPDeBs6iPi1V8wURlNKXRiCyBEqgfbtSkA2Bfry/U8d0DLIont0aLYebI+UwOVwOE0PlBMRx7FAzqG97T3LkGjCf9yC/eouRfiPeGA8CQ0aqA6UEAQgc18rSsT1pgCE4b5Uhv3JkpHsQGYqByJB6hmxwLqSydHh3T9JDQPp3NoPspuhXdyN95WMggue1i2mJyAYLAwDDPbIEEgwQssMcIjeQyqeYq6Y9pMVZDJxAgtI/9nNfVia6B3FNf9AnQJ5e2ZYcH4w3skTDKkvqK6B6y9ge1p5dqIPYpYVpC8QbJpBQAglFUDrbS0AUQNU37Fn8bNgMtZkdRgO0WdkUtnTA9JYpBOJnIzeQUNwn/fxqswhzKR0ltbs0ITDzmcsubUFC+dUjIwX5ssVAPGc+5VTf+N8wzf+8fLkOYg/qYB/KgmzZLIgj97U3qWyc278ewLsG8Zb9CcRi3BOIN049wzxlJ1eQLxv3LUj/JoWyIM0FxCtvQexBHe9DsbJZEOcWpF2cezZDzM0FFCubBfHM/i3hXP8MmGf7p0sQo3m/iYXF2PAgNkULUnQAKhS0rW8WHmjD9k8uoHaHR7aDVTTm/qfhkbHwn9nS4zcHzDcY2mgUQQAAAABJRU5ErkJggg==",
     "wiki_name": "Bear fur",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bear_fur",
     "equipment": null,

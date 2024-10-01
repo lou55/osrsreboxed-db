@@ -1,7 +1,7 @@
 {
     "id": 10869,
     "name": "Rivets",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-19",
     "duplicate": true,
     "examine": "Used to bolt things together.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiklEQVR4Xu2W30sCQRDH3ae4ECEMw6QkwySTDiMzyUSQiEiQw6d67qE3H/z/2fjOus6596M7Ou8e2i8M3v64nc/NzO5aKllZWcVJyKCFjeciISsVR87nL3K1+pLr9Tc9M4CQ0+mT0bd3CTmZPJLjzw+PfofDPgEAFu0cYSAhXfdG3vVvCWQ0uqd2oUBwDKvXT+RZ41S2WudFATGM4xxsHLPlDMQw5fJhiNOCgKrVowiHuQIpZ6gXTtXu+J6A/DXBfXCEwo1LFWwwcGnHzWbPIfNSixfu9a59C6r+Wu04xomg6HU6l/SuBoue/6uUUxx4wQip8WCfKX90k8zfynxJweCrUiySlbjwkGf/cwEwEEcDxz6Of04Tz0kZ8r9IAem7CEWINjvnwub+KMtEvIW73SvaGSaQ572RLZfvO3C66MfjB/qYTKFwKWprty+MxVUEms0GjS0Wr1sgfbvDMgSCkoRfjenbHOlFqrEJMj6N00qBAUrD6b8b5swcpdKMe0xbwUBQkjRbWf1T/QDPnSW4/tDu2AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqklEQVR4Xu2WUUsCQRDHvae4ECEMw6Q0wySTTiMzyUSQiEiQw6d67qE3H/z+bMxs4+7ObXbl7d3L/WFwb/dm53c7s7sWCrly5domT0TNNp6KPFEq+WI+fxKr1YdYrz+xrQA8MZ0+sD7n8sRkco+B399C/B0O+wgAsPAM7V6jgca9HcgTQXAlbvrXCDIa3eKzDYh7OpIMDFatHomT2rFoNk+zAlIwvr/3XSfKUgZSMMXivlEnMnhGQOXygQHDx1MCksGgXihVHMYRkO2wk4GgcHmq9HGwwSDAHTebPbI5/iU1cbd7qU0o+yuVQwuM8oXVa7fP0ZfAdoCSQeHAoxXiqxDt4zJ33O/vbxR1pOXWJ+ET2fq4dN847xcoOBQe5Flv/+GLkpRaDTj24finNCkYW2E7kwSiuwiKEJ4JiMbJeGodwKot3Olc4M7gQGH4grZcvhpwVPTj8R1+TKJQcCmStVpnGpAcB6vXazi2WDxvgOh2BzN9dpa5/LyY9Vqi2xzSC6mGTZDwaSwVZ3vqYABFcPR34ye/FCTTDPcYWcZAoO1pzkRx0pwrVxr6AkBiek05OKtfAAAAAElFTkSuQmCC",
     "wiki_name": "Rivets",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rivets",
     "equipment": null,

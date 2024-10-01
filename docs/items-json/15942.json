@@ -1,7 +1,7 @@
 {
     "id": 15942,
     "name": "Lunar isle teleport",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Teleports you to Lunar isle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzklEQVR4Xu3V20pCQRQGYOcF7B0KCgo6QSdMCkzECCKkogNRUUiFEFIRBUUQ0VUQXXXRs674J35dzZ6te9LaEC748cSMn2uWe2cyverV/y8jzaReRo7WxuR6f1bqu9MKlirSyO3hnDye5KW2OWlhl3szjaQANPJcW5TXiyU5XZ+wqPPtqQYM3dOJAn3pqIy81AtSrYx7QQxeM/ic4Xtd7KqRt6uiF4SO+EA6GhKXQJiR95vSj0Euyj1iBPO5Ux5JijLycb/cEagVivshCUDGLrg7zgWB+rLZCEijsA7/XL1nAgzK2I0eqvOJQcC0AwGD4BqHfRNiUMZ+6dPZQiyIADcuhiCsQccBOlgdDcGgjF2M65CL0TPhYnwgfVToOJ4HgozdBItxHdIgbq5RcTBGdwepFAZDMKgmiMelMW5adYcdYnfw2BFIYziQOm43XAzC48I1B883ikMhoK+/OwAao+cAYfs5pOyUvmXo+cGPwzzidTCIG8VtrlG6W/jc7Q47i+4QtFUaDgNxNngVZXwoHQ67+wMAJ6ic6w8FoXjD88edJ31sBOlj7gKoXUWR7CohxPwRyFdRJKEpgeLqO3AlP2BBuJeliNKlgb3q1e/WJ8v2aQ4MmfkvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5klEQVR4Xu3VXUsCQRQG4J0/YH9BCgoKyoK+MCkwESOIkIo+iIpCKoSQiigogoiuguiqi37rxLvy6vE4qzspLYQHXlxXdvbxzOxsEAxqUP+/jG0m8TL2dHPK3h0t2NrBnIAlijT24WTRvpznbHVnJoTdHM43kgDQ2Lfqiv24XrUXW9Mh6mpvtgFD92Taga70VMa+1/K2Us44QQy+M/id4bk+dtXYz9uCE4SOuEAyEhIVT5ixX/fFX4M0Sk8xgvW5X5qIizL2+2mtJ1AnFMdDcK9MOt0JZcILHs+yXqChVKoNJFG4Dk+uHJOYriAM9FxZig0CphsIGAR7HMaNiUGZ8Kavl8uRIAJ0NIYgXIOOA3S8MemDQZnwYuxDGiPXhMa4QHKq0HEcS5C+s6NMOAguxj4kQRxcoqJgjOwOUs6P+neHIE6XxOh06g47xO7gU4L0nSOqCZIYLkgZ3Q2NQThd2HNwvF0Y8wHVH3cAJEauA4Tt5yJlp+QrQ64f/DmsR3z3BnGgqMElSnYLv+vusLPoDkG7xXE/ENcGd1HGhZLhYtd/AHCCStlhXxBKv5Fbo9eTnDaC5DT3ARQEfCRd0UDZVUKI6RuoW8VBEvonIFdppAu6nhsJQXiX1c8lUFHA5rmEqxU4qH9UP7bGpURKvRVXAAAAAElFTkSuQmCC",
     "wiki_name": "Lunar isle teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lunar_isle_teleport",
     "equipment": null,

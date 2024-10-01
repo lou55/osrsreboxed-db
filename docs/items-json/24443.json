@@ -1,7 +1,7 @@
 {
     "id": 24443,
     "name": "Gingerbread gnome",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-12-11",
     "duplicate": false,
     "examine": "It looks delicious, but it won't protect you from the Icelord.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xu2W/YsOURTH9/4VQgghVlgta/NglbS1hbY2tIU2QhtZbaIN0UbkByWlpJRSyi/K/3f0Odd3Xu7M8zI169m0p04z8zxz73zOOd977h0Z+T8tWPrLEC3Y/Pmdtk6ggr25O2a3Luy26YnNw4aKMPjS5f02d3b7+gB6t3jUVq6NepaGCBXs/b1xh8Ff3T5iy1cPOFS9ntLn1i04CFDy1ZuHM6iFmV1/oaLnz61b/MDHh8fsxcIhe3bjoJcNGO4fz4/6FbD7c/vszqU9dn16DWH44OLsXi8REMCQHT7MM1oSDO+RrTUFIjOflo+7c//hwbh9f97xkhQzw6oDsl5PrVmwz48m7MuTE37FAaN0gJE9YIDivrvAG1kuxPSfaDFLQMmBUFYEQ7ZaEHLwulPzvJ+kE4asXFpd6IYsoSuVTfqpjm9kwSdV/QG7cm5HDVgsnbREuWgBCFww5TH9sl5rwb49PZlFTtSAKWO5Fgb1OCdOcATWsIvnQESsRqdlzKTFrPWePIIwFicoArrY2dpjTMUiEDAC0ragbOEIFrHWTx5BeAdNyRnHmJnJLTVjulrwfiIYHIGqGwPFh7Q1TI1tqpSGd8hq0dGkmuns6W3NgQQDCFd13GKP4UrJBKVM4ozTNiJAfmNc7zKXLEYIEBGRJbT0dWXSfq6e8glJucoGIHrSuCJQcU8DAleWB26SigYgGh0g6IlnljVLnEmVofLpMJTKjP942fGAWAAEyNy0hPQE0BWOj/BRAAABSH1GGgCa6IEqb5axJ6WLQVsJc5NVdXOyi7NSe4g8eAbIDtEBBhRR6mghUVe7b8jexQXz6/WZbIxcJSdTA+gpHkelHW2g6sYqWfUoEdsFgWjrSJe9hM3vDc9HeW2lB4mVybrXPTjQ77dTPgawFKh4Rqqfo6+l4us3SSydnLIVM0apBpunVUsDSH3DNuzf2B/28lmageIbBAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu2WbUuUQRSGd35FVFRWVJRSGppJWxlECEKFIBVCiRQVUliIGFJRSKH0QRAhiCAIgqAvQf/vxDXTvc/s2Ud2l13bkA4cntc5c52XOTOVyu6UYP5NDyXYzLXD9o9ABVt7PGQPrh+1idG9vYZKMOizWydt+srBCDTY19crqAT0Yf6srdztj1ESlP/zL0iwjSfDEQZ993DQFu+cilDl9eSfuy4hggAlXb1/pgY1N3nkD1TS4rnrkibYej5ib+ZO26vZgZg2YLhfnumPV8CeTp+wRzeP2b2JBENtdbm+Qpxwfup4TBEQwBAdJuaZWhIM/xGtHMhb7FBSZD4unovK/ebCsH17XY0pySPDqgNS9bQD0UGCfVoatc8vzscrChipA4zoAQMU93mBdwBTFKL/kiRFCSgpEIqKYIiWCrmD6ISYd3Je9BMPFmrp0uqibogSdaW0qX46jg5GlX/Abl89VAKWUqdaIl20AApcMBqTYJpFvVSCfX15oeY5XgOmiBXNrjXNQXAOx9rs4gUQHqvRaRljNI9avm95FQhjUZzCoRvV/RlsU0lAwAhI24KihVKwFGu58QTCP9SUlHGMmRzbVzJmWwmxnwgGpUDVjYFiIm0N40N7GlLDP0Q1V2pSzXTq0oH2gQQDCFd13LzHcCVlglIkUcZpGxEg7xjXxvEkeQgQHhElaunLypj9WL0YDRJypQ1A6knjcqB8TwMCVZRbbpLyBiAaHSDUE88sa5Y4RhWh+tNhqEsz+v1tNTrEAsBBbNMS/AkgaYkwCZMCAAhA6jOqAaDxHqj6zTL1JL8YtJVgm6iqmxNdlJWqIvc8FV4SAaKDd4ABhZc6Wqio8+4rIP2LCubn+8u1MVKlnEj5tuGJKnxkctWONlB1Y6Ws8SiR2gWOaOvwy16Fzfs2z0dFblUPKlaM6VujoRCBfq2PxzGAeaD8jFRuYxvJU+FV38oNpdRJSVseMVLl7XgLTSUHaM1IoxOtO7RD4h3w6v//L7tCfgPsHq4vHGLEBwAAAABJRU5ErkJggg==",
     "wiki_name": "Gingerbread gnome",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gingerbread_gnome",
     "equipment": null,

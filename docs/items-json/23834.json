@@ -1,7 +1,7 @@
 {
     "id": 23834,
     "name": "Weapon frame",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "Could be used to make some kind of weapon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBUlEQVR4Xu2WsUvDQBTGe4QQEopSFMUWlSpVrGLRxUVHBxUcBFFBBwcREQdBxMHBQXBwEAQHh0IHwUEQHJwcBBF080965rvzepfY2DTVZLAfPNom194v73vvXlOplv6fGHkjUTH6SE/Q2/YhledX6NjqTRqK0bMzTrf2MJ1YfbRmdlLJcJKEYnRk5ejM6qdNs5vmjAwVU3ZSQIyDICvIzp6Z5e8TBdoxe2jJ7KBFNzMSKiEgYdWymxHA4POlPVCFihlIWYXsyHav2ENVqNiBttwCRnZQxGpzBRVj+zM68Fml33twihzqws7HAcTo9OusUVb5paDOrT+HCrLKuwYHJaDKdiFgza/oJ6v8YvTiQt07I3RtD9ZZG0lhrNLF6D1d4pm6c6HE+nrfaUhhrJKSm4uhi6gsrFIhE+ZBQklYhewEW6UgYNWTM+YJHAN4oMnmhy6rTvDvVimIR2eUT/tagcLGmYTfmDbamgfCrPJaJeLGbesrt2Bx3uiBbKCQcR9FLYHkP4GIQGJTv1UAwMjADNMDGyKTOHewRgcHkBolEWHQHfgh+T8Hr8gUnhKBekDg2r6V1cZErU1rXWtIjLfq6/ouzeTyPM0IZAmBWoKFAAuG+FWJSQ67NswuDjNlpHlBzhrtcUHoEoUsa0d1RqwQukSry+4CUCFlJQUjpWckscy01FJkfQLgkYPgVzew8AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIElEQVR4Xu2WwSsEURzH5zVN00wbbUR2wy4tWbK4uHB0QDkooTg4SJKDkhwcHJSDg1IODlt7UA5KOTg5KClu/qSf+b7n7ZsZO3bXjhllv/ULs8++z36/v/d+q2lN/T8x8lasYvSeGKfXrQMqzi3TkdkdNxSjJ3uUbqxBOjZ7aNVop4JuxwnF6NBM06nZSxtGJ83qScprFgcay2SihmIcBK7AnV0jxX+PFWjb6KJFo40WHGckVExAIqolxxHA4O8Lq68MFTGQigruyONesgbKUJEDbToNDHfQxGpzBRXh8We074sKMBLo3s5zqHMrG4VLjE4+7xoZlYJRayTUmSmg1GuhKygq7xpclIAqWrmANaHou6j8YvTsQN3ZQ3Rl9f+GS7VE5Rajt0SBO3XrQAmgUKFqiUpKTX0MXVRpfoVySXk9NCwRFdwJjkpBIKpHe8RTuAbwgSYaH7qsPMG/RqUgHuxhPu0rFRobdxLeY0pvqeJuVYlZ5Y5K1rVzrC+dhsV94y64gUbG62hqCSS/CfwQSGzqjwoAGBmYYe7ChnAS9w7WuMEBJEeJhKkTSNwjeCP5PQc/4RQ+JQr9gMKzPTPlGhPeTd3Rep/VJcaP6svaDk2ns9xmFFxCoZcQIcCCIPybVnpWh8QkR1zrRgeHmdQTvCFn9NaaIUKUaGTZO/JkRAzhljjq8nQBKKeZHhj/f0Qg5YjfGf/KyOSPJlaYpv66PgCQT9K5OwZcXgAAAABJRU5ErkJggg==",
     "wiki_name": "Weapon frame (corrupted)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Weapon_frame_(corrupted)",
     "equipment": null,

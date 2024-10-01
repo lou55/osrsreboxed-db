@@ -1,7 +1,7 @@
 {
     "id": 7688,
     "name": "Kettle",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "The kettle is empty",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaklEQVR4Xu2W6y8eQRTG3/kkFSFCCEKjgriEElWNKg2qSlzKW/dSVVV1qbol0jRN//FTv5kc1rJoZ9aXepKTd3bf3XOefc5lJpO5R+owkmypIh7M2dTIiEwOD8v40JCMDg7Km4F+ef2yT1719qZFygWefztpg2tQjHWcYNT6e3oi10Fg5MvysvR1d8vzzs5LAW8OZKxarU1Nt3j2RhjZ/bT2F8GTYORFV5fH+2cwMjsxEcCRiaTWC8G+LIOP5oYGX19GaqurfZ1keH9lZiaAn1MHYVrX2Kbw93PqYHVuztNRtDG8YeTn9z1PZ25w+vm4AJ8OMXK4uSlPHrf+4/tXwg3G6x0m/ResmKMw8vvoMOaU9bm1t7RcuFb78W3XTulAhNSxW5/Xgaur9aUlef8uK9mxMXna1iYPKyrkUVWVNR0VPBOMzNrCQiT3RrY/rp6t9z6vy8nOjv39+mHFpgVi1BrvQK6yvNyeAPgNRordXSc1wTFaGBIQhsji9JQNzLx61tFhCbGRNtbVSX1NjVUL1QKQcgXJVyP9/saGJYNSFDn3IMWcghQKcR6iZhiCpBFiEAqqEsFQ5Hhry5JCJUhxD1JxQijFMYVCRyXSV1JcHIoQcPVDx0CKuaJpixNCTVWHjRR1ykpLpSA/PyQhYOTXwb4t5CRC1BHpUnWoH9QpKiyUBzk54QmhkBLS7lJCnJlQh+OqqkMho05ebm5oMsDYdF1FSGcR52s6ki5DHQoZdVIgo3AqRQnRZfF00Vkpq6O4TIh0Mau0u0gXnXUH6ijc7g0hZhFzSuuH7qKYtbNSKOQkuO3jdnaP/wR/ADa0HFv2KHTCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkklEQVR4Xu2Wa0/UQBSGdz4RicEQiUQICBIwiOEWRAgiGEREDILcREQQERAR5CaJMcb4x48+05zudpbC6kz5xJucbHe3nXn6nkuby10qcxlJj0zlbhbFzMSETI+Py8uxMXkxOirPn4zIs8fD8nRoKCuoaOM3r6bt5ropwbELWBgjg4MF34PIyKeVFRkeGJCHvb1FGxKdDQ2pwf+41dHWFgLKyN7H9ZI2d69Mysijvr74evfff5CR11NTRSDuWefLxKn9v+tjBbuzHGvca231TZuR5sbGAEBGVhcWEk67Z5QoE7euxyI5rqcp/Nf5u8Da4qLnQvnG8HQHGfl5sO8NxOzyWyOhfIe4/5wvI8fb23K/syMsEIPx7AXTYIMVc6GM/P527AAlJ3V3e3viu8aPr3t2Sp99MyVLF46OtQ4I6mpjeVnezc/J3OSkPOjqklu1tXK7vt6GjgrOURhPICPrS0tx7okvH9bi4/3NDfm+u2s/P79ftWkBjFrjGuDqamrsGwCf+RvzUvR010nN5gQtDATAgLydnbEbM6/6e3osEA/Suy0tcqepybqFawGgooLkrrH+cGvLwuAURc5vQDGngMIh3oeoGYYgaQQMIHXJM23I2M1w5GRnx0LhElD8BpQLhFO8plDouET6blRVhQJCUf3QMUAxVzRtLhBuqjs8SHHnZnW1XKuoCAmEjPw6OrSFnAZEHZEudYf6wZ3rlZVypawsPBAOKZB2lwLxzoQ7vK6qOxQy7lwtL49hggKRrtOAdBbxfk1H0mW4QyHjTgYwqsilQiC6zE0XnXWaO+5qAVQMRLqYVdpdpIvOugB3VNHTGyBmEXNK64fuopi1szIo5DQVP0TTImN38tKNSgn32kuF0B8s0XU9tLvTiQAAAABJRU5ErkJggg==",
     "wiki_name": "Kettle",
     "wiki_url": "https://oldschool.runescape.wiki/w/Kettle",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 14240,
     "name": "Thieving cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "The cape worn by master thieves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACI0lEQVR4Xt3W60vCUBgG8M6HkEQMKRQNFSc6dKE1zIzMikqzhIoudKGoIIj+/+9PPO84taRsRTuDDhwC0fbjvW5qKrSjMP7JHx7+8588QCEdm/3hbwIfhdR0AjOxWMAHKBTiGdjlcsDv/+ooH+iraHmfO8nShO/86fFQ2fic3I84BXuuCDdVNQHxH4WNhSUUUllYiZxEg7e5YKOddbBTbJsHDa11rBQXUUkXYSfzHipXkQgZxvAoXNh7GNS76JSWBKL/5hMZ0yCFx/UzvGxe47S6g36pg1rGElAzXY0iQgr3nRM89y5x4wxxXNlCt+xKTbmZmuCMg25Xj/DUvcBD4whX9QFGjW0p5MhA1+2RpO1u8VBArKetQis60GXrQNLGlBHDWoo0ZX4QMawjP8jN102hlLQ6QUwZ00VQIZuSSxDnklHQgdN7A2mI/0YGYsrGMbzWfN4siC2uQSzoUXnjQ8oI4k4zCmLbcxaxfgjitNZFTRBXiDHQcXP3SxA3PUEGW1/hdLkvmM9AjBB3GQub6yRklNfyBDFCuuXHQc68JSAuW6MgFjQHIt+LCOLqYMq48Qniu1LoILb8ubsvIB0dP2gt1zA5HL8H6cImiK3PiIaIeh+KOl2fgRglgtj6u7W1cEF6KAYF9SorZkB6w08CcRax9RnVkFDem6Kun0kg1hGL28AK8d4WWdhsf0aMEWDxbldXJUWMCmeQgbbXhw8Jev/ReQWMCvm8yEZu1gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUElEQVR4XsWX7UsiURTGux8WKaQQQ9HwbUQHnVAbyozUit62Vqil3WhbWnYXguj///4szxluzQzqjtC9HjgIw1znx3Oec87MyoqxUIhf+cDgny/yAIVcamPBM4lDIfMpjdVUKuEDFMprebj1utzfq1YTnFk4VAhollrBdW+99nYPYQwBMQKowlpWMgqn4GYr8DPNCIhBGB0Ko60eypkCnHRR1GB2t1z0Cx5OK32TZZoWClfOIfYq22jkKnDXSwFUsSEKWShTPBTu3XNctocY1HoCon9L6bx9df4efsPr0SPumqe4qA3QyjsC1M01IwrFTxoKhd+Dr3gZP+Cnd4XbxjGGdV885edbAmcd6Gn/Bs/De/zp3OBH+xKTzokYeWlAj/2JlO3X9hcBop+Oy7vLA3rYvZaysWSEoZeWWrIwEGHoozCQX2oLVPykgVDS6gRiyVguApULGUkCcS5pIAsqKVx74zcgDRLOpQGxZHEYprNZsgvEFtdANPSkPoqUjEDcaVaB2PacRfQPgTittakJxBViDei2ezYTiJueQBZbX+Fu50JgpgFRIe4yGpvrxHDrBy1PICqkWz4O5G06AsRla1ilKBANzYHI9yICcXWwZNz4BOK7knEgtvx3/7MAaXXCQAfFjs3h+H8gbWwCsfWpqEEfvQ9FXa5pQFSJQGz9s9aBSZXeh2JSoHFjzw6Q3vDzgDiL2PpU1VDZgjdF7Z95QPQRzR1eIcZUIhCNzfanYlSA5j1p7kuJqApnULjtDcHoiH6pzksLMEHoByXJ+Nmk8Q/OVDdwMXRL8gAAAABJRU5ErkJggg==",
     "wiki_name": "Thieving cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Thieving_cape#Untrimmed",
     "equipment": null,

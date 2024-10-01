@@ -1,7 +1,7 @@
 {
     "id": 9171,
     "name": "Silver bolts",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Silver crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkklEQVR4Xu2WX0sCURDFnSfpWwm+RIL0BzET0yTEyAQRERNNRFaMzGyJHiLpm05M17135hq9zdrDHrjgDMr8OGfurqlUInUB+p09CrBSaaCE2isgYCZzyID2CghYr99hOn2wBQDs9aY7gIXCpQeoIsDZ7BWr1RsLs1x+YO3qVsB0OmPM5c7iARo/PGGpVLdAk8mzFxdgs9n1HFMV4MnphQXq92cCMAhCzzFVAS4W71gs1izAcDgX9a5jqgLsdid2eBh+Ybt9z4b7jqkKcLX6xHL5+o94jGMuUlUBDgaBGC5r03PxqQvEdV+vN9hq9QXgaPQYHwwtKx9Oz6N8viB6Lk51maczH07Ly2sJrCqzvHw4LbfcFR6nqsy+NBodMXw6fRE1xRcLzHw+/DnZ7JEA8OOTtYocDL2XzovH24Gm7wCpfosPhj6HYWBrOvTg44AyTjWZYfQ/h5aVA5FjvJZxqspcbXo1cMfIkagmp6K+/2slGafcMb0IiLsXI9RvMnH67vnfilnu1v0ToEg8zkSJEll9A2OkhfHHmHjEAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrUlEQVR4Xu2W30oCURDGPVfSW/gIPYLgTSRIf1jMxDQJMTJBRMREE5EVIzNboosoetOJ2dPszqx4ObtCfnBY5yDMj++bc3ZTqb3UZSC6k6AMVCoNkFCJAhrIZo98oMNMxn8mCGigXr+HdPrgD8BArzfdAHScqwigigzMZm9Qrd4GMMvlJ9Su7wRMpzOGfP6c7anJwPjxGUqlegA0mbwEcRFQs9mNOKYqA6dnlwFQvz8TgK7rCceUgQwsFh9QLNYCgOFwLupNx1RloNudBM097wfa7QfWXDqmDGRgtfqCcvlmazzkGEWqDjQYuKI5r2mP4otlfvhxX6+/odXqC8DR6Ck+GBxW3hzvo0LBEXsUpzIMyt7OvDkOL685sDKQHV7eHIebzwo+KU51GFyNRkc0n05fRY3xxeCOgfl86K9c7lgAROOTtYpCGHwvXRRP/Ia0T4C2ftd2J4TB357nBjUuvPg4oIxTTeF3Dg4rB0LHeC3jVJU92vhq4I6hI1SjU7QfAxDKOkWLhpiAuHv2PzGIhlUOrY0z6l5MLm1TeOp2BMi6x+NMHIi0UzB7/Vv9Asyc1MoTHcIoAAAAAElFTkSuQmCC",
     "wiki_name": "Silver bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silver_bolts#Unpoisoned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 672,
     "name": "Special cup",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-08-22",
     "duplicate": false,
     "examine": "A special cup.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmUlEQVR4Xu2Wz2sTURSF8xiGMMNQEUQxLgouBNtFMKCh2OqIFqlIkErEUCqEWjFoK5GARatEDIoUDARFFCrFXxQKogtBcCG4EBeu/Ieu873n66Sg4iJ5C+2Fw0w6gfly7rn3NZPZrH+3lPydnJSSiaInpYNGk4d8Kce+VI6Za7ccQakNMGj6uC/VE6n4jJwCWRicmT3py9xpX2qnUvE3njuAUuttQjgCTKOS1aqfycrClLmmQH3NlMmQzQ1uANKsZmXxnLm2zhsogCbGPIkPeDJa8HoNlf7SeJ+nYXAHJwC5d8GofTmQzpVAgwFUT541kvu5qZ62T8nixax0rgfy8n4gxSFvPbjdDuEMUEs1c28n7fOLUJZbQW+BsB6YD09Dac0nAJeMAP2VeIY7gPBDeghjKwlz0iZexEva11ItNRJn6qn4zPdoE/d9gLFlMvT+cSgrdwMNhp40jQuPbhoBiUu1sz3Nze9Kybe1SN50Qq21dqhbCaCFxJWFJEOzZSdAlJKPy6EWbr17aMAQbtE2Jqs66QyIUrJ6Jyevbufk+a2cPLuxUx7Mb5fmzDa5WtkqM6UtUj4SuQWiJeVk9L+uRnr6CHFh2JOBKPMTxCEMU0SQaQ97hrYBxEZmMzuFAYQAE2ZAyBIBZ++Mj3h6Z5ViZ1BKv/zTioEAiHYRaIJMG9Hgjozk9ziBUhrmy+tITxgwQAHH/qGFbHKcGghslvpa5mwiyJxZnF2cW5xlnPCcbfrfkmTknQFVxny9HL+/jTQYgOSITLEUcYhN7Qxo+nDiwFEz7rSOFlogFuPoXk8Ku53kh0qBuOJWecSotN+T8byngfKDzoAotQHIQlmgYjJdQ7uctMtWCtTtEkDxsGmXYyDKHg1/0mb9Z/UDEMY3OjR80nUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xu2Xz2sTURSFMwxDmDBUBFGMixYXgu0iGtBSbDWiRSoSpBIxlAqhVgzaSiRg0SoRgyIFA0ERhUrxF4WC6EIQXAguxIUr/6HrfO/xOkmsxcXMW0gvHGaSSTJfzj3vviSV2qr/txz5N1kpRyaGXSke0Zo86kmp4En5pD52yhKU0wWDpk95UjkdiceI1x4YGEgaSgMZGJyZPePJ3DlPqmcj8RzXLbjkrLcJ4Qgw9XJaqXY+LQtT+hgBJZopnSGTG9wApFFJy+JFfWxe0lAATYy5UjjsymjejRsq+qaFg66CwR2cAOThZa3WNV/a130FBlAtvFYPz+emYs2UI4tX0tK+5cubR74MD7rrwe10CGeAWqrqc7PSvr3OyHLTjxcI64H5/CIjzfkQ4KoWoBuJa7gDCF/EwMQERIVhDtvEjbhJ62akpXroTC0Sj3kdbeI8ARhTOkOfnmVk5YGvwNDzhnbh6R0tIHGpeiHKTQIwphz5uRbI+3ZGaa2VUa0E0EDiykKYodlSrEHerBz5spxRwq2PTzQYwi3axsqqTFoDohxZvZ+Vt/ey8upuVl7e3i2P53dKY2aH3Chvl5niNikdD+wC0ZJSuPR/rAZq9RHi/JArfUFKgVjIjylHrSKCTHuYM7QNICYyk9kqDCAEmDADQpYIOHNnfMRVM6tYiH2r+Fs56uZfVzQEQLSLQBNk2oj6d6Ukt88KlKNgvr8L1AoDBijgmD+0kEmOU32+zlLCbdN7E0Fmz2LvYt9iL2OHZ29TP0vCJW8NqDzmqeH460OgwAAkR2SKoYhDTGprQNPHQgdO6OVO62ihAWIwju53Jb/X2kqLgDjiVmlEq3jIlfGcq4By/RFQ7yckUE4XkIEyQMPh6hrcY6VdpiKgTpcAKgzpdlkGonr/FP4pC/npLnPDzdT7nq2Ks34DLFppZx21n1IAAAAASUVORK5CYII=",
     "wiki_name": "Special cup",
     "wiki_url": "https://oldschool.runescape.wiki/w/Special_cup",
     "equipment": null,

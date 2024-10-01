@@ -1,7 +1,7 @@
 {
     "id": 17742,
     "name": "Cadava potion",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "I'm meant to give this to Juliet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xt2W20sUcRTHnVhmhmF68CUI6UZpbSVptmq6oZa33FZZL3gLRWlFc1kUq3U3xKgEJekulWEhizdKd7Okhwh6qIcIgiAI1z/m257f7MxeH3dnwAPfl1nY/cz3fM85m5W1O4pDvAwtDs7Oo2izHUSNdT/Ons42GorD8jMr/I/LmUavmdHtOGIkFKfBLDwohbvvODoaDxkFpGRGBXo9XYLhnjzWPgPyxMHe2AKHo11zZ+6+BYNXc9FcfwDFxeUoK6/SE4pDV1dvkq7YW1BTa0dFZS0KCiz6AjkHBpkGBoY0NdgcuFTdAIulDLl5Zn2BRkbHNLndIxgedqP+chPOl1Xi5KkzyMlRs6RbcVhaWkEwuIlAIIiNjSBrV2FhsRGhpuLQ1++ExzMOn+82E7WrqKjUCBgqDi6XG16vNyKflh/DgHYcW8whz7iXiVpWUnIBJ8z5ekNx2D62hp3GT3FaEScxJTjh5O16AnH4Kb9CyPYxDuaH/ALr0j08Elxw8c3oNtXqBRV2J/89A4oVQW5K05gTRzHGt6Oft+kBxOGXPI9Q9QeE6uKB6PkX6SHmxZuYEHr0cinsjvmdApOg3/ICvklPsSj6cFfo18MlDn/ktwhZA1GHYkSffZefY028gxlhEF6+G0N8EzpMFzMFFXbn8KoCk0J/5UUW7IA0xYI9KfRhhG9Fr6k+E0ARd85tIFQRVJQA9E/2s2BvSTN4Kd7ItEthd/atRmFSaHvvEgv2V+kJ3oieTLqkTBYbdcpPrGKBspe1YPvFCTb+tCRv8Z1sUbaZqtIFxbG3T4JJEDmoBpsWJLk0K1zPxApQzkSoNJBaKlDOqhZsWpCpXGo1VaYPKgkkQTSBarA/S7Ns/GlJkkuUozqT+j8pLaWcC5ajwvWoaOoiIhfVYFOO6NASDLXLuicj15++UGkfbes4QAKiZ5FgU7to7KPTlXaY2FJ/QDkjKhQDDAebYOh06ACSqqJwydqF9R+RhwUbmf9tywAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xt2X3UtTcRjHPTHOORxOF94EIZVRWqskzaamC618yzVlvuBbKEoTzTEUq7mFGJWgJL1LZViIqJPSLUu6iKCLuoggCIJw/jHf9vzOztl2tptgO4Me+N5sY+ez7/N9nt9vWVn/R3GIV0aLg7PzENps+1Fj3YtTJ7IzDcVh5YkVSw8rmEavmNHtOJhJKE6DWbhXBnffEXQ0HmBAhbm5RkMpmVGBXk6XYrgnn7UvA3niYG9sgcPRrrkzd9eCwct5aK7fh5KSCpRXnDMSikNXV2+CLtlbUFNrR2VVLQoLLUa2LjxdA4NMAwNDmhpsDlyoboDFUo68fLOxQCOjY5rc7hEMD7tRf7EJZ8qrcOz4SeTkKFkyCIiKw/LyKoLBTQQCQWxsBFm7iopKtFATjKFAff1OeDzj8PluMlG7iovLMgFDxcHlcsPr9Ubk0/JjcKvU4rDj2GIOeca9TNSy0tKzOGouMHLkqThsH17DTuOHOK2Kk5gSnHDydiNd4vBdfoGQ7X0czDf5GdalO3gguODim9FtqjXKpbA7BW8ZUKwIclOaxpw4ijG+Hf28zQiXOPyQ5xGqfodQXTwQvf5Juo958TomhB6jXAq7Y36jwOj0U17AF+kxFkUfbgv9RrjE4Zf8GiFrIOpQjOi9r/JTrIm3MCMMwst3Y4hvQofpfLpcCruT61dgkui3vMiCHZCmWLAnhT6M8K3oNdWnw6WIO6c3EKoMKtIB/ZGXWLC3pBk8F6+l26WwO3v8UZgk2t69zIL9WXqEV6InnS4pk8VGnfITq1ig7BUt2EviBBt/WpI3+E62KNtMKbuwcezXJ8DoRA6qwaYFSS7NClcTVkAKXFKOiVBZILlUoBy/FmxakMlcajVVpc6lBBCdaALVYH+UZtn405IklyhHdSblnpSia4lyXLAcFa1HRVMXEbmoBptyRActwVC7rLuU0z9FMGopt0D24PC2jgMkIHotEmxqF429Ol1pgFFK+UL1P5dyjKhQDDAcbIKho0MPknKY2Io+IAqnlyEgySr2wXrpP/uv9RcZFjomJmXcOgAAAABJRU5ErkJggg==",
     "wiki_name": "Cadava potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cadava_potion",
     "equipment": null,

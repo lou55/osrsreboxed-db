@@ -1,7 +1,7 @@
 {
     "id": 14899,
     "name": "Telekinetic grab",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A tablet containing a magic spell.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACb0lEQVR4Xu3W2U4UQRQGYCrecuMjECIGISAEWcIeZBkhyCIgIIIwwMi+mUmMMcb4hL7QIX+Rv3PmUMN0dfcllfyherq6++NU9dLU9NxyNSfFpJDmZGp0VCaGh33GBgdlpL/fZ6ivz2egp0feve326e3q8unu6JDO9nafN21tPgWgnMyMj8vc5ESSD++nfNDHPgRgogEmGlgiAXvd2poH5ZILawiyMD3t83F2Ngm2OV7jAEMFc6KcLJdKyQWegjS//J9Ew1g5wDQKU/eqpSUG5eTz0lIC0hCN0RAbwjitGoW1FYkKg+pBME7HwlgtorCmgMoMqoexEBs9liisKSx0TF0mkJ6mEMRWy+7nGBzPxc6pi1jcTtYWFxNQCNMIoPexj3Nx6lClKBArpKfKXpDbfxcqNdHjdF+vJ1QpM8gCdB/PFYthP1QlTh1AEU9uJ1sry8Fq6H4IpCtkx/NcmDos7mhQo+rYWEzoGJ4vGvTl06qszs9HgUKxxyL4RwFCdaNAvNM0ygKZ0os5H/u7BeEvQLjTokFY2GmrFALZY3KBvq6v+XUUUyUbC2IfixogvD5Sg/Y2NhpWyf5Wb58dlwm0v7n5ZJVCFw/t5xi9nQlU3t5+VCULsBe2qTcWT2uA8IJNDTra2XlUJaAI0xcMQexvFoTbPgr0fXe3pkpAoVIIcCFg2hCE76LUoOvjo5oqIYARlweIdxlA+ARJDfpXrcrlYdlXCSgE1ULyAvlZmxLD5uTP3a1HnR/sy+m3PR9MJYLqIQATHQOOxLA9oH7fXMuvq0v5eXEh1bMznx8nJ3JbqfipBToGnhHDhoOLznMrpt0Dy2EZ8B+wrlcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgElEQVR4Xu3X2UocQRQGYJvceuMbKKLBBTfUGIxRMS4TxTVGjWuM0Yn7FgZEJIQ8YV7ohL/kb84ca5yq7rkRUvBjdXd11+epmq2u7n/L1RKpTWrSEpkYGZGx4WGX90ND8m5w0OVtf7/Lm95eGejpdunr6nLp7uiQzrY2l/bWVpcaoBKZGh2VmfGxNB8/TLigj2sIwEQDTDSwRAL2urk5DypJJ9YQZG5y0mVhejoNjjle4wBDBXOiElkqFNIJnoPUN/xNo2GsHGAahaVraWqKQSWyvriYgjREYzTEhjAuq0Zhb0Wi/KBKEIzTsTBWiyjsKaAI6mlsrIYqB1XCWIiNHksU9hQ2OpYuE0gvkw9iq2Wvcwzu52bn0nFzB4FW5+dTkA9TDaCvsY9ncelQpSgQK6SXyk7I499zxbLocbqv9xOqlBlkAbqP9xWLYd9XJS4dQHznDgJ9WV7yVkP3fSBdITuez8LSYXNHg6pVx8ZifPfwedGgrU8rsjI7GwXyxd6L4B8FCNWNAvGVplEWyBRezbjY8xaEvwDhlRYNwsYOrZIPZO/JBdr5vOr2UUyVbCyIfWxqgPDxEQzaW1urWiV7rtI1Oy4TaH9j49kq+Sb3XecYfZwJdLC5+aRKFmAntqk0Fu/WAOEDNhh0uL39pEpAEaYn9EHsOQvCyz4K9GN3t6xKQKFSCHA+YGgIwveiYNDV0WFZlRDAiMsDxGcZQPgKEgz6UyrJxfcDVyWgEFQLyQvk11piAkBoify6vXGos2/7cvJ1zwVLiaB6CMBEx4AjMWyPqIfrK7m/vJC783MpnZ66/Dw+lpti0S0t0DHwjBg2+1M4f3JgHhsfUMvYOV5E+wc3n11RzG/OrwAAAABJRU5ErkJggg==",
     "wiki_name": "Telekinetic grab (tablet)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Telekinetic_grab_(tablet)",
     "equipment": null,

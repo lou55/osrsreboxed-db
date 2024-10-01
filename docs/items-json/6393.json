@@ -1,7 +1,7 @@
 {
     "id": 6393,
     "name": "Menaphite purple hat",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-15",
     "duplicate": true,
     "examine": "Good for keeping the sun off my neck.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xu3W22vUQBTH8SxhEXxQpEVQQVEoQhEqBfFFwRcffPFe7xdq0aIUoViUUpSqpXijUOoFlRYqpZaiFUFUFEX/spHvLL/1ZHa2bHaj+ODAIdlksvnknJlJkuTfbyUXj9j5P95K7uHIEXd/+JCP8RsH3djQAR9CzE32utmJ827m0bkIKnyIluEVkFCAFCFm+sEZ92z8VObG/OZcGFlULmTJTdw8WoNiC0Qh0JOxE25y9JjvyzYGor9Ff1sccV/mrzWHEoh9ZUegF/dOe5D61gNx3deFYfdj6bb7uXTXg3Jh+FM9tUDcNAbSU9N36s7xKGh+6kIGxH6DoFKmDCA0uPkdgujfVe5xq5L1fr8eaPHpxeJAyhLHLIi+HeleD1qTbKqiyFoIevv8UhVE5AJpXIQgnlwgZWZb+bDr61nt2pIOH0KFoHcv+7Og19dbB3EcEEG/7eWTPkYH2t1wf5tbl3Z5VAz0fvpysSCCUloQ2dma7nNb0j1uY7rTg4gQREY/zg5UQd/f3GoUQ8uCLIo/F2b3ikFfss50vx9Hm9NdHrM26YyCPr262iyIVpnGzJh6oO7yWV8usiTQhrS7boY+zw02C6qsQWQoBuI8EAuyZYuheAgLyrEoVqZ8DEQoM8IQYdlAsc+W/mSnUJBQRFgqIGRHIM5pKeA4x7imMJDNElvO7yj3ZjJjyxaWUaVbeNxXBbFKN4ihVWZYDKRPDEDKhEDaF1YDfWXS7q/htWEz1BQoHEd6HdiyqSQKgcDxKlG5eG0UBhKK43plcGOywiDmNzPQggTVgGaVtqAcqAooVjaB+IygH1lgigukWUi5BFX/DzNXqiDWoBzrUBZkyxaCuLGmtl0WgLLV+tMyiFnWCIhxpExYELNL2SkUFJaN4wJpcBMql12r1BcQU96CWINyr0OxslkQ+9xcXwEWpNmovoWAYmWzIM7ZzxILop8dPy2CaL/XleXCYmyEIBZFC1LkADXaapEKO37+Imi5Vousjf+ttfYLc33wZy/yCngAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xs3W60sUURjH8VmGJehFEUpQQVkggQSGEL0p6E0vetPd7hdMSgoJpCgWKaxEuiGIXahQMMREygiioijqLzv1PcNvfeZ0VnbdKTzwMLMzZ/d85nnOObNJsvxbycUjdv+ft5J7NHjEPagc8jFy86Abvn7AhxDTYz1uavS8m3x8LoIKH6JpeAYSCpAixEw8POOej5zKDcxn7oWRRzWELLnRW0f/QnEEohDo6fAJNzZ0zPflGAPR36K/zw26rzPXloYSiHNlR6CX9097kPrWAvG9b7MV93P+jvs1f8+DGGN7W5uPcPSgZWnXUwvEoDGQnpq+43ePR0Ez4xdyIM4FCkcPWilXBhCa3HwOQfTvLHe7Vcl6f14LNPfsYnEgZYlrFkTf9nSvB61JNlVRZC0EvXtxqQoiGgJpXoQgnlwgZWZb+bDr7V7tWpJ2H0KFoPev+vKgNzeaB3EdEOF/rHzSx1B/q6v0tbh1aadHxUAfJi4XCyIopQWRna3pPrcl3eM2pjs9iAhBZPTTVH8V9OPt7SqmYZBF8ePC7F4x4EvWke7382hzustj1iYdUdDn11ejoHD0Gi1bxqyYWqCu8llfLrIk0Ia0q2aGvkwPLBWU7UFkKAbyP/QHYkG2bDEUD2FBdlMMRw9atuRjIEKZEYYIywaKc470JzuFgoQiwlIBITsCcU9bAde5xncKA9ksceT+jnJPLjO2bGEZVbrZJ71VELu0MHWBWGExkP5iAFImBNK5sJroK5NW/x1eGzZDdWaHtgAK55FeB7ZsKolCIHC8SlQuXhuFgYTiul4ZDExWmMR8ZgVakKCa0OzSFiRUOHqkZaBY2QTibwT9yAJLXCCtQsolqPp/nLxSBbEHNbAP5UG2bCGIgbW07bYAlKP2n6ZBrLJ6QMwjZcKCWF3KTqGgsGxcF0iTm1C57F6lvoBY8hbEHtTwPhQrmwVxzuD6F2BBWo3qWwgoVjYL4p79W2JB9LPzp0kQbWFfWSwsxkYIYlO0IEUDoCTRtr5YhEAbdv4UAqq3hch6sIqFvv+phchYhN9Z1u03vYE7AqFZCrwAAAAASUVORK5CYII=",
     "wiki_name": "Menaphite purple hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Menaphite_purple_hat",
     "equipment": null,

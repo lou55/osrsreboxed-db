@@ -1,7 +1,7 @@
 {
     "id": 12516,
     "name": "Pith helmet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "Official explorer headgear!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xu2Ua0sCYRCF258REVGRkIJlmClZJlreojRNtmTLzMy0u4gRIUVkBRH94xPnlW03ExI1+/IeOF+WZfeZmTMzNCQlJSUlJTUoKTD8bzIg1sNuZNIBTIwPm8AGCqfgJL+BciEufHwQQ04LQ1NXkd7yIRRwwjY9NigoBQ+3e7irZlC7UlE53cZlKfkNjN1KxZewGfX8NZQiIBr1HB7vst/AqhfpL7D8flRAJda9olt/BNXMxdtTAa+PR3i+PxRgtBmMUOwUx8cuRdZc8Hnt/cxW8yOsvFpexcdLCe+NojDhaMIR6rayI0aYjDkQDdrg91rgdo5jzj6KqckREXoj+F1JERXzRxwRf359EhQmHF07D+GiEEBxfxlZ1Y3dlKstkMdlhdNhgd020RsQK+eIWk0IHa6U8+FI80JLL0BNOBGPzCDkt4qR8SQwR/7lWTE6gvUE1ArSzuweM8RgnxcTIkPZTAhqyv+1bcySGaxLKEVUzOpbIXSb86NvmhmK28bbxI0zzkBXMLqaH2AuOBJmxQzELavfaD/WX4fSD+a8o++H0lhbdi2XWcRZfkXkh5DsIp8x2ARnuPkeg92Hrvwm803pxFJSUlId6RN2HawzVTbdLgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5UlEQVR4Xu2UbUsCURSE258REZVRkIJlmBlZJlaaSmmZbMmWmZrZeyJGRBTRG0T0jyfmLttuJhSbWh/uwHxZdvc+95w5p6tLSkpKSkqqU1Jg+s9kQiSifmQzYTgGui1gHYVTsF9YxkEpKby3E0dei0JTF5BZDSIS9sI10tcpKAW3l1u4qmVRP1NRPVzHaWXtExirlU7OYCU21W4oRUA8XOdxd5X7BFY7yXyAFbZjAiqVCIhqtQlKz8XLfQnPd0U83uwKMNoKRihWiu1jlZYWfQgG3K3Mlv4T3rx2sIC3pwpeH8rChKMJR6jL6oZo4Vrcg9i8C6HAMPzeAYy7ezE02CNCbwbflhRxYx7EFvHw8/15YcLR9eMITkphlLdnkVP92Ez7mgJN+ZzweobhdjkE0Fh/vx0oPcBsUaMJYcBV8kEUtQC0zCTUlBfJpVFEQk7RMq4E5ig0OyZaR7BfATWCNDOrxwwx2MfllMhQLhuBmg59TBuzZAWz2TZF3Ji3b4QwbM2PMWlWKE4bdxMnzlwDeoVsV4lmLtgSZsUKxCm7vtC+jL8BZSzMCY++KA0QmzC69I/NsWXV8tlpHBXmRH4IySryGYNNcIab7zHYLahKc5k/tO6U792Sqnwn6yE/ceP3UlJS/0Hv+N3S6N2gss0AAAAASUVORK5CYII=",
     "wiki_name": "Pith helmet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pith_helmet",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 7768,
     "name": "Toy mouse",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "Nice bit of crafting!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACz0lEQVR4Xu3V30sUURTAcfcpEl+CXsQ/qkKpqCj6YZGFFUUlUliJ9AtJNosKZRUxMzOEyGhpKajooff+A+lBCNwMw+DEd4YznLlzd9zZnaKHLhzmzp2zez9zf01Ly79fCuIP3/M/Xgpyq79TbvTtCGLownYZPLctCEVMjRyUieEDMn57vwflvkTT8BCkKEAaLmbs5j65P7Qn1jH3PHMjjsqELMjwpa4EiisQDQWNDu6WkYGdQS5XH4h8i34z2y+vp882hlIQdR0dBT28vjcAaW4tEL8rz/TJ2/kr8m7+WgDKhOFP9a0VRKc+UPHqrghE3QeaLh6KgajXCSrEpoGOdHFz74LoHIROby3Q7L3u/EA6SrT5QDqSCmLUXNCzB0cjEJEJpOvCBdG5C7ILOg30/NGxOOjx+eZBtANSlI6k3ZG1QAtjx/MFEQAsiDzdxmkgcl9OnIxAlbnL9WIocZBF8ecWRG6puFkWJluDOnm1QIuTvY2CKOFb8+cbgT6X26T8tFUu9m6KfsNIuqBXU2caBYVnECOUBiLvzome4PppsS0aIX7ngsi3oAyHYrjlfSDCN0JuuCDycgUpiqADTlw6oE7+XKkk1ZUV+VipyKnuI0GbO125gewocbUg8sj/urQkP1ZX5dvysnR0bJX29i0xFKCZu4cjEKd0nRhKuMN8IP0cuKBf6+vyc21NvlerQR3g6a7OCEUunw07Qg2B3HWkW1lB3NOuKI0vH97Lk4FwF+l08dnIDaQo2ulAQTzX3Rd2EA+7fjilLSgDKgT5pi0NRFC3U6sg8l+M90QgzqAM51AcZKfNgrjSbjE+EPCmQSzWjUB0RpsPpGtNpys3kDtttFsQnbvTpSDNBcSWtyDOoMznkG/aLIh6Gsiun1xAvmmzIJ75FjShnw2driZBlOQW9oW7fjRcEIeiBWlkANVbkkgNu37+IiitJJHJ+F+aK78Bbt2YB0+8B6EAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xs3VXUsUYRQH8N2rSLwJuhFv/Ah9kwqloqLoxSILK4pKpLAS6Q1JthcqlFXEzMwQIqOlpaCii+77BtKFILgahsGJ/wz/8czx7LjjTuEDh5l99sye3z5vk8tt/pYXP7zv/3nLy93uVrndtTuIvsu7pPfiziCIGB04IsP9h2Xo3iEHZf9E3fAQRBRADIsZvHNQHvftjxXGZ3xnI45KhcxL/9W2NShcAWEQ9LB3nwz07AlycfVAyNfoDxPd8n7swsZQBOGeo0PQ01sHAhBzq4HwXGm8Sz5OXZdPUzcDEGrsaGkJwlY3LRx2/muCUNQDFW7sjUC490BjhaMxEO4JstVNy8emAYW4uPHZglAcCE5vNdDEo/bsQBwl9HkgjiRBGDULevXkRARCpAJxXVgQiluQXtBJoNfPTsZBzy/VD0I/QERxJPWOrAaaHjyVLQgBgAYhj9s4CYTct8NnIlB58lq6HaZBGoUf1yDkFgtbZXqkIbhHXjXQzEinC7LVq7TwX+PH1wN9LzVK6WWDXOncEj2DkbSgd6PnNwoKzyCMUBIIefdPdwTXbzON0QjhOQtCvgbpQ9FWNy3c8h4I4Y2QDQtCXqYgohAogBMXBXCP/MliUSoLC/K1XJaz7ceDPjtdmYH0KOGqQchD/s/ZWfm1tCTzc3PS3Lxdmpq2xVAAjT84FoFwShNTEwg7xAPxdWBBf1ZW5PfysixWKsE9gOfaWiMUcvHa0CNU4+igrYLsOuJWJgif0U8U48eXz/KiJ9xFnC68NjIDEYV+FCAI33P34Tkbev3glNYgomx1p4Ugb9qSQAjc66klCPlvhjoiEM6gFOdQHKSnTYNwRb/GeCDA6wZhsa4HQjH0eSCuNU5XZiA7bejXIBS300UQcwHCltcgnEGpzyFv2jQI90kgvX4yAXnTpkH4zlvQCL42OF11gtDWbmEv7PphWBAORQ1ipADlcjzWk8ICdej1kwmo1maRtWAZq7n/qVmkF/aZTd3+Arjh4pOspl4wAAAAAElFTkSuQmCC",
     "wiki_name": "Toy mouse (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Toy_mouse#Normal",
     "equipment": null,

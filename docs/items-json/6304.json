@@ -1,7 +1,7 @@
 {
     "id": 6304,
     "name": "Spider on shaft",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "A badly burnt spider threaded onto a charred arrow shaft.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xu3V22sTQRTH8QQRaZCIVCxErFSIUPpQFAp98EEffVJRVFQUFRVFBLEopSheSvFGodQLVVqolFqKVgRRURT9y0a+s/yWs5Npm01W8cGBw2wmk51PzpmdLZX+/VZ28Yh9/8db2T0eOeQeDh/0MXbzgBsd2u9DiLmJM252/LSbeXIqggr/RNvwBCQUIEWImX500r0YO55ZmM98F0YWlQtZduO3Djeg6IEoBHo2esxN3Dni59LHQMy36O+LI+7r/PXWUAJxrewI9PLBCQ/S3OVA/O7bwrD7uXTX/Vq670G5MNxU/1ogFo2BJu8dTUFcx0Dzk2czIK6bBJUzZWAhbW4+hyAWB6HyLgdafH6+OJCyxFgMpEwKRNa4jwW9m7qQgohcIO2LEMTiIYj5IYix3d1rMqj3ry5mQW9utA9iHBCR3KzsBga2+V4gYarrShnQh+lLxYIISinM9p5Nvu/v35LiiMHBnhSjIJufZq+koB9vbzeLoWVBFsU/Faivr+Z6e7tcvb7Z46aGOnxmurrWp5Du7o0+uP78+mqrIFpyQ/ZDCGJ8186tHiRMrbbBZ4qeceYog8rQl7lrrYKSM4gMxUB2/yg6Oys+W8oOUHrtH35jQTkOxeSRj4EI3VxPGvP37tnhswKmWu1wlcpav9GVIeYVChKKAMSJqyypTCDow8wxv1CQzRJ9CKJMlAsQn8kiv1GpBFp4ei4FcUo3iaElT1gMpNeBBSk7wsRAzOW1YTPUEijcR4wLxDx7+LHhYyCVi9dGYSChGNdGDjEC2UxaEKe0BeVAJaBY2SxoXz15T9lTfDkQGf04czkFcQblOIeyIFs2gVQyxi0mBiI7bYN4ylYDsRhjMZD2mspVGCgsG+MWxOJhuQTSXEA88hbEGZT7HIqVzYK4Xglk908hoFjZLIjvYhuaYJ7dP22CaExcPcL9owhBHIoWpMgBarY1IhV2//xF0EqtEdkY/1t77TfeuSvb0tjV3wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xs3V3UtUQRjH8V0iwiU2wkjYaNNgA/HCCgQvuqjLriqKioqioqKIIBJDpOhFpDcEsRcsFAwxkTKCqCiK+ssmvnP4Hec8zdquewoHHubs7Jydzz7PnDmFwupvRReP2Pf/vBXd4+HD7uHQIR+jNw+6kYEDPoSYHT/rZsbOuOknpyMo+ydahicgoQApLGbq0Sn3YvREZmE+852NLKopZNGN3TryB4oeiEKgZyPH3fido34ufQzE/BD9fWHYfZ27sTKUQFwrOwK9fHDSgzS3Hoj7vs0PuZ+Ld92vxfsexBo7Ozt92NVNS9Kufy0Qi8ZAE/eOpSCuY6C5iXMZENcC2dVNK2bKwELa3Hy2IBYHofLWAy08v5AfSFliLAZSJgUia/xOCHo3eTEFEU2BtC8siMUtiPkWxNie6poM6v2rS1nQm8HWQYwDIpKno+j6+rb5XiBhyusKGdCHqcv5gghKKcz2rk2+7+3dkuKI/v6uFKMgm59mrqagH29vp5imQSGKfypQT0/FdXd3uFpts8dNDrT5zHR0rE8h1epGH1x/fn0tCrKr12nJD7IfLIjx3bu2epAwlcoGnyl6xpmjDCpDX2avrxSUnEFkKAYK94+ivb3ks6XsAKXX/uGeEBQeinZ105JHPgYi9ON60pi/b+8OnxUw5XKbK5XW+o2uDDEvV5BQBCBOXGVJZQJBbzPH/FxBYZboLYgyUS5AfCaL3KNSCTT/9HwK4pQWpiEQT1gMpNdBCFJ2hImBmMtrI8xQg9mhLYHsPmJcIOaFhx8bPgZSuXht5AYSinFtZIsRKMxkCOKUDkFC2dUjLQHFyhaC9teS91R4itcDkdGP01dSEGdQE+dQFhSWTSCVjPEQEwORnZZBPGV/A7EYYzGQ9prKlRvIlo3xEMTitlwCaS4gHvkQxBnU9DkUK1sI4no5ULh/cgHFyhaC+C62oQnmhfunRRAte/zXC7t/FBbEoRiCFE2ACgUd68uFBYYR7p9cQI02i2wEq1ia+5+aRcbC3rOq228ozHZnHeIvMAAAAABJRU5ErkJggg==",
     "wiki_name": "Spider on shaft (burnt)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spider_on_shaft_(burnt)",
     "equipment": null,

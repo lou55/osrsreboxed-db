@@ -1,7 +1,7 @@
 {
     "id": 8980,
     "name": "Bridge section",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": true,
     "examine": "Caution; not for use over troubled water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xu3W/UsUQRgHcA+ROBEhEMETLzqo+0FJCaL6oUAoEPyh95KKRKOikECKQqToRaQ3BLEXKhQMMZEygkgpivrLnvjO8t2emZ07d2838YcGHm53dvbmc888O7d1dZu/5cQfvuv/vOXk6fgJeTx2zMTk7aMycfOICSIWpodkfmpQ5p5d8KDcH5EaHoCIAojhYmafnJdXk2etiXGOa27YqETInEzdORlB4RMQBkEvJgZk+t5pMxafPhDGa/SP5XH5tnijNhRBOGZ2CHrz6JwBcWwlEO77vjQmv1buy++VhwaUCIMv5a8mCJP6QDMPzoQgHPtAizPDFgjHMUE5axkwEYsb5y4IkwPB5a0EWn55KTsQs4Q+H4iZJAhZc0EfX18OQYhEINaFC8LkLkgXdDXQp7dXbND7W+lB6AeIKGZSP5GVQJ9nr2YLQgCgQbqg+Tjzfo3B2K/zIyHo54e7cTFoNkij8OXA6MkZh3sa5UBnXvbs2GLOXdDqu+u1gtCCSfDrCdKT9+7Km8n3lf8CNKiraKMAWlsYrRUU7EHIEEHuhKd6i9bk5fYGGewrGSiQPSUbhKxqUIJNMXjkfSAg9IQaBVCxpV4GDm0zfbiOPtyH7GQKQqAfGTh+sMPKTKmtIQLAGKB5ncuMSA1yszTcH6CYJSBYTzgnoG9vm0Gjj0vKa9ilY2LQgifMB9KvGDpLWCoWN1Emk92tsnvnVunc3iylQpMUWvLmXmSoJpBbR9xbMAa1orPkywZB5Y5mg2nK12cDIgr9KFD8a2Nc//5CCALAN7kbeqeOiQpAvmXTIG6OyAIQPgD3H4z/MnctfMqwByXYh2yQXjYNwif6NQCbJ2tN7z+pQXjK1gNhMvTxPw4Yglhr3H8yA7nLhn4N0q8cxBDEsQAtPb9ogbAHJd6HfMumQTiuBtL1kwnIt2wahGv6tUSDME7XT0oQmv20VAq3fhguCO/SGsRIAIrbokiGrp8NBFVrUWQ0/rd07Q+AQfpjNon/agAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xs3W+0sUURQH8F1EYkOEQAI33Gyh9gejliCqHwqEAsEfepdUJBkVSQRRFCJFD5FeCGIPKhQMMZEygqgoivrLTnzv8N099+zddceZwguHnb1zx/PZcx9OJrP6W1bCEbr/z1tWnowelUcjh12M3zokYzcOuiBibvKczE4MyszTswGU/RGJ4RGIKIAYFjP9+Iy8HD/lJcZ33LPho2IhszJx+1gNCp+AMAh6PjYgk3dPuLH4DIEwXqN/Lo7K9/nrK0MRhGtWh6DXD087EMfWA+G5Hwsj8nvpnvxZeuBAyFHu7nZhs5sWlZ2/miAkDYGm7p+sgHAdAs1PDXkgXBNks5uW9aYBibi48d2CkBwITm890OKLC+mBWCX0hUCsJEGomgV9eHWxAkLEAnFdWBCSW5Be0I1AH99c8kHvbiYHoR8golhJvSPrgT5NX04XhABAg/SC5nbm8xqDsV9mr1RAv97fibfDNEij8MeB0ckZB8prZW9PTnZuXuO+W9DXt1eDIJu9TouS4NcTpJP3bsu55LtLVYAGbS34KIC+zV1bKSg6g1AhgmzC470FL3lpQ6sM9hUdFMhy0QehqhqkD0Wb3bRoy4dAQOiEGgVQoaNFBvZvdH24jz48h+qkCkKgHxU4sq/Lq0yxs7UGgDFA8z6nGZEYZKs01B+hWCUguJ7wnYC+XZ0OjT5OKe/hlCamKRB2WAikXzF0lTBVXNxEuUpuXy87tqyTnk3tUsy3Sb4j555FhZqsDloVZNcRzxaMwVrRVQpVg6BSV7vDtOVa0gERhX4sUPzXxrj+PfkKCIBQchv6pI76lm0RKDRtGsTDEVUAIgTg+YPxn2eGK7sMZ1CMc8gH6WnTIHyiXwNweHKt6fMnMQi7bDkQkqGP/+OAIYhrjedPaiA7bejXIP3KQQxBHAvQwrPzHghnUOxzKDRtGoTrRiC9flIBhaZNg3BPv5ZoEMbp9ZMQhFa7XUNh1w/DgvAurUGMGKBMhsd6o7BAHXr9pAJqtllkM1hGdex/ahYZCvvMqm5/AcpFRP4NgS6AAAAAAElFTkSuQmCC",
     "wiki_name": "Bridge section",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bridge_section",
     "equipment": null,

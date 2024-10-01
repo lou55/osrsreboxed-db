@@ -1,7 +1,7 @@
 {
     "id": 28383,
     "name": "Strange potion",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A strange potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xt2W30/SYRjFfbsqZqXTdGqoiECSouAQEk0qJFGkUBNUFM1EFBX5JYLWnGU5y+VyXrRWN826U9Y/ePJ96fvlhzZv4Mvm2c4YNzyfPee8zygquhoiyHRBRTA3JsWLgVr0dlVB01xaaCiCX4dd+HlgYA68asKEXVJIKMLDfP+ox8qMAk5bXaGAkp3hgL7t6uCbkrP4CtAngkHbMOx2B7+do3daeF0yDPWJ0dFhQKfhkZBQBOPj7nO2Dg6j1zyIHqMZbW1aYYHmPF5mj2eBd/+AHU9M/dBqOyGTNwkLtBoI8V5ZWYXPt4I+yzM86DRCeb8VNTVclwQTwfHxbyQSf3B6msDJSYLFpVZ3FKLUVAQvZz2IRtcRj28w07ja2/WFgKEiWF72IxaL/XOc70/BgKLrsQzTyHS6bigUSqGhCLxeH9bWohmmpab3p7lFLTwQfV3hcIS3c2ySHUt6g1LFFkSE3ZxQKJzmCDuMQ8MO1iN6qVtUGqGgCBYWl/gbFAwm7ZqcxujoOB+bRqMTAojA7Z5lr8vvD8BiKkO3/jbUqmLIGm7A4XTxsdFyq1rb8w1FsBmqQ2S5Fv75GninqzEzXgWHvQLWp2XoNZYywA51MVRKEZRyUT6BCOKBWhx+kOHTthTvNxuwtSZBbLUWwUVxBuCUo5JBPu8vZ6B5gCKILImxvS7B/lspfhw24eu+Akd7cnzeSQHS7aXDDVnLYTbm5W8twetwPfa2pDjYabzQu2/oxuoR9YuxOn/3bFOVDMhiKoUpt1CEDdnZaDgHcRnQiO0OrOYyPH5YApHoWq6gCBtEo8qGuAzIedYjmyUZW5f+Vu6A6LBsAOovuzLeNE7aMQ5o1lWFiZEKPrYeQwm06pu5g0offpE5IPoSKZDHXY3J0WRsNDLlvZyeAMIiy47tf0DBhVSp6WYaJddzCcOJ/iBhg7PhKBD9zgFxMHotF1HOYdLFDcjcGv2kL5HC0JclAMhFSsGd9xXUX846mQFZOxO/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xt2X4U9SYRTGfftUzEqn6dREFIEkRcGhJJpUSKJIoSaKKJqFKAqKIoLWnGW5yuVyfmitvjTrm7L+wSff93ovcLW5Gl62zvaMsbF7fnuec84ueXn/RxFkKqdF8HxEiSe9cnS1l8FQX5hrKIIfe+34vmtmWnxWh1FXdS6hiADz9b0JoUkNhp1VDKhJoZAaipsZHujLdiuC42oWXw7miaDPOQCXyy24s//aiIBXhf7uSrS0mNFmviclFIHH4zslR98Aumx96LTY0NRklDK64+3yB5j8/hlBPb0uPLD2wGhsg0pdJy3QwuKSoFBoAcFgCN32R7jTZoH2diMqKrhZkgiIFsHBwU8kk79wdJTE4WGSxaXXtwhDTWEkBXo65UcstopEYo2JxtXcbMoFDC2C+fkw4vH4iRLC/EgcFV8EsdV4hmhkra0d0Gi0Uq48LYJAIIiVlViG6FDT+1PfoJfaJW7LlpejgoZHxtixpDeIH2yJgAi7OUtLy2mKssPYP+Bmc0QvdYPOIFVsBDOzc8INikQ4eccmMDTkEWIzGFqlcInA55ti2xUOL8JuLUKH6Tr0unyoaq7APewVYqPDrWtsvmiXCNaXqhCdlyM8XYHARDkmPWVwu0rgeFiELkshA2zR50OnlUGrll2kSwSJRTn23qrwYVOJN+s12FipRnxBjshsZQbguLuUQT7uKWagF+ASQXSuEpur1dh5pcS3vTp83tFg/50aH7dSgNS9dLh+RzFsFu61NssuEbxYVuDdhhK7W7VnavsldUyBWLgSC9M3j50qZUB2ayGsJ1Dip/5jEdZka63mFMR5QIPOG3DYinD/bgFkskvZgiKsEY1KDHEe0PDxHDntXGztpmvZio6wZmIAqk/bKkE0TjpjPNCUtwyjgyVCbJ3mAhj1V7PnUnrzs8QD0U2kQH5fOcaGuNhoZNpbqROQFZdoZOLY/gQUmUkNNXWmtvpyNmH44t4CaWMxHAWi33kgHsZk5CPKOgxX3AP5/1yZrtFPuokUhm6WGCTrMOmVapCCE0sSkLMqvbFY4t/+bf0GrGLODOGtG/0AAAAASUVORK5CYII=",
     "wiki_name": "Strange potion (Desert Treasure II)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strange_potion_(Desert_Treasure_II)",
     "equipment": null,

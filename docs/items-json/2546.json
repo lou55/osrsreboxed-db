@@ -1,7 +1,7 @@
 {
     "id": 2546,
     "name": "Bronze fire arrow (lit)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-03-03",
     "duplicate": true,
     "examine": "Arrows with bronze heads wrapped in oily cloth.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQUlEQVR4Xu2Tz0oDMRCHd1rCUqFCUVltoTfBWlEKQhEtWOrBehD/n0R9A1EvngoqPVfFa3vwEQQfqk/xszGsxiE97qTgfrCEmRB+H5NsEKT8bwi8Y9D9cXuJQdhcyjiCCecnx5gpFBx7iUHYX8/iYCQUqsAKJnRub7Db3MZCFMkK3W+ob6HpkVAs9fz0iIuzU9RrNeTCUEqIcNVUuK4rPFzmsTxLmMoYoX6vh8N2GyuVipSMxgh9dEt4u4uwOk8/Exq8vmBvpyUtpCEMPxfx3imiPBf/UYStchatRgNr1aq8kA7Xny1j1/xEgvDwcT0xeDivRXGFu3piuMJNz4OMhoe7BMVwhXNBUbgQr0VxhafTseHT4LUofBqEo5zyL8Rl9OpB6Pe9cCEvMnE4fz/eZDxfDyeehJGbACGbiZJJSfnDF0lx7BU2CBYNAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVUlEQVR4XmNgGAUjGzD+RxeBAJA4LjmaAcb/1hpMWCxm/B8TEvxfWFAQixzNAON/PxPm/wFAB7GzMiBZzPi/rqjwv4ejw39JcXGwuIGCAj0cxfi/wpIV7CA+oINgjprQ3PQ/Liz0v7mh4X9OdnZ6OYjxf4Ij6/98c9b/jfG8/7VEGP9zMUEcNLe//3+gp+d/HU1NuGPo5qBNrdL/pxSL/9eTYISH0LxJE/97uTijOAhdN40A4/+XW1X/L6qT+i8nCstRjP9t5Jj/O9va/tfX1qa/g0CWgzCyY5D5dIouEEC1HGIpphidHAMCmKExaByDK3TQddEQYLMcIjYAoQMCqJZjdyDdADbLB0HowByAzh9Qx4yGDibAnpgHTegEcbIOjtBBdgyIHgAHIdILuoMGILoQlqOnnwFzDK7oobNjYADR8EJ30IABREjQPYoIg0HlmFEwkAAA0uQvhQj/Z30AAAAASUVORK5CYII=",
     "wiki_name": "Bronze fire arrow (Unlit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_fire_arrow#Unlit",
     "equipment": null,

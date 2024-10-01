@@ -1,7 +1,7 @@
 {
     "id": 13550,
     "name": "Shayzien supply helm (3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": false,
     "examine": "Supplies for the Shayzien soldiers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2ElEQVR4Xu2W30uTURzG9zLGmIgxkoaGGzq22JTpxmwTliliswzLwmSNga1hmViGRCFWkLiiRgWOflyYSWEGYeBNkBEV0b/19P2e+eY6mz8uzjsv6gsP79jFzmfP85zzHpPp/xg6Gkq1J1NYfF9NjVB1VRVsVquQgVDyP9/Ufrtd6EBtrXhWAEoTi22lOodDqKG+fgcopWAaWnw+HHK70eR0isV1CJa+8E5SDiUvoIuh2Bn5+3JSCKWhva31rx9nt9g1dk+PSgaQpRTo8/c3WP+xjC8/3+Hrr/dYWXuEJy8n8TA/gfjJ6K6AFEJpAmBhZQbPlm7ixdtbyD2/hplsGvdyo8iMny4p83ZSAKUhv3gDE1NDGLs6iJHMCSRSvbg+nUB6bABDyR4c6W7bFZACGB4NSx9mxeLDBDJMABwVOza/MIUH8+PojocRivhKAGRIZUCrn/KiM9mnVzD3+DLuUlw5BiFnAoEmxOgZJCA/fZahDAFaXJ1D+kIfMhQXdyeR7hOxxY+FEQ574XI6hEOBoBu+ZheaPAdLYJQC5anIyfM9SBHE1EwSA+eOootiYldisRYRpcfXgAaXA446O9o7/CVxKQVa/7aENYpt5WNWlPv27AiC5Ez8VAeS5Fr6Uj/GJ88iZDHDbzHBZTahnmQQEE/hncQl5nKnCKJ/MIYoucPOHKZnJ/XIswFSDkYxEE9h+/PZw7GN0hGQGIkLMO6NzWZFrakAww7JMIYA8fbXT+g79y+Ks0gcjPbqP84wzFbvN+VAndEoXi1P4zWdQYkqC1Ibai3qDsdWUaAzNguGCEIH6rKaESFxoXWwigIxRDHQcZsZvQQUI213R2L3FAPxaOgIhxEJBsWVJBQICPm9XnElkSFkIO6YYqjNyxqDtDY3izuRp7GxBECWDmQo1G7EIJtx6VI+5aHk2HjHGQghT+Fqy/1hyXAVBCme8k7tAUjxFHdjT1z5B+c3GDd5aPhBSS4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu2W/0tTURjGdxljTMQYScOFzi/M2JS5ycwJyxSxWYZlYbLGYC2xTCxDohArSLQoqcDRlx/MpDCDUPCXICMqon/r6X3PPGln8wt17vylFx7uGOOez57nuecei+X/mDoGcrUnk118X0mJUHFRERx2u5CJUOo/39B+p1PoQGmpuBYAyhCLbaUyl0uo3O3eAUormIF6nw+HampQXVEhFpcQLLnwTtIOpS4gxVDsjPp9PmmEMtAUbPjj5uwWu8buyahUAFV8n2BlpQ4oA5++vcHa90V8/vEOX36+x9LqIzx5OYqHmRHETkZ2BSSh1Lv/xRgCYG5pAs8WbuLF21uYeX4NE9Np3JsZxMDw6ZwybycNUAYy8zcwMtaHoau9SA2cQDzZievjcaSHetCX6MCR9uCugGRs/xidgYUPk2LxfgLpJwCOih2bnRvDg9lhtMfCaGz25QCokJp6ZGD5Y0Z0ZvrpFUw9voy7FNcMg5AzgUA1onQNEZCfPqtQpgDNL08hfaELAxQXdyee7hKxxY6FEQ7XwlPhEg4FQjXw1XlQ7T2YA6MVKENFTpzvQJIgxiYS6Dl3FG0UE7sSjdaLKL2+cpR7XHCVOdHU4s+JSyvQ2tcFrFJsSyvToty3J1MIkTOxUy1IkGvpS90YHj2LRpsVfpsFHqsFbpJJQDzZdxKXmMudJIju3igi5A47c5iurdQj7zpIPhjNQDzZx5/3Ho5tkLaAeComwLg3DocdpZYsDDukwpgCxI+/3KHv3L8o9iKxMTqLfzvDMFu937QDtUYieLU4jte0B8WLbEiuq2FTdzi2ggKdcdjQRxASqM1uRTOJCy3BCgrEEJuBjjus6CSgKGm7MxK7pxmIx0BLOIzmUEgcSRoDASF/ba04kqgQKhB3LPvEapuNwxqDNNTViTORt6oqB0CVBDIVajdiEBmXlIY3vjr5odTY+IlTIUyAkZM92nJ/WCpcPhD1DiZMfqf2AGTzbHRDdUX9ZcFG7ceewpgxvwC6kai3fAZZEQAAAABJRU5ErkJggg==",
     "wiki_name": "Shayzien supply helm (3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shayzien_supply_helm_(3)",
     "equipment": null,

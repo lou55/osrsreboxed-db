@@ -1,7 +1,7 @@
 {
     "id": 684,
     "name": "Belt buckle",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": false,
     "examine": "Used to hold up trousers!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACT0lEQVR4Xu2V+0tUQRzFnZ9ECf1d0TBRMUUzzAzzEWZmio/M1NZX2xY+UCszMSMiov7sb5zvcGbm3r23ZF8a7IHD7p1753s+9zszuzU1VVVV1X8jI/m+EtnwxoYG9Y36eqmrrVVXGM4GtTQ1Od9sbna+1doacRmhLEhXe7t0tLWp8Z2+3dnp3NvdLf09Pep7d/rLAWXkbl+fBoVhMMZhBMP3BwbkweCgfsfn2PCwTI6OlgrKdgUhDGMg/HBoSI1QBsPh9dNHEzI3NSVLMzPFQhlXGJ4YGVEz9Mn4uBqBzx5PysL0tAbjGuMcW56dlZX5+eJhCMDiMAJhBMF4ax9m9Jr3CbK2uKguEMgWDjuBABYPAzZeLDsQzsV9PMtnXj1fUhcME18OdAUBKLr1ckV2Vlclu74eA/HzCQADGMa8/Gf/KRPZE9wXWAIUB8je9nYqCMyuEYIvkMtkEub8VSYCwX0CGISgaDKInYv9gqUiCJ5nJ303Ly2TulmjMEkybn+xi4TwXUmbmypblBAwNyWWL7mgDYovKSDgd5ubKfMuJdtygvAkATL/19WChN0EOJaJIH6fFSz720EYng6M4ej7ttsjzeMcHn3AAOTg9U6xMJBxMCiOt0T7AYYlwd8EN2m4R0ID5vBNthQwlHHHGm+JN8YyoAMcC43wuEsIAxkterq/L8dvcwpxsrsbMe7FjXG/pCWVkS9HR+qv74/V3z5+cOYYzOfKBBLKyM+zM+cfn08j/v7pRF0BkFD+RP2+uJBf5+fOFQZJkoe7YpCqrq/+AL1vjdzA6HPnAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xu2VbUtUQRiGnU+ShH1XMk0yzPAlzBQzDTMzwzQzM/MlszAjrczEjIiI+tkT10z37Jyza7brcRdhH7hwd/bs3Nc8M7PW1FSrWtU6NWVsPhUpH36uvt5xtq7OnqmtdZRZzgedb2gIXGhsDFxsakpwglJe5HJrq73U0uLgtbjS1ha42t5uuzo6HNe7u05CythrnZ0uKA4DxoFguNHTYwd6e91r/t7q77ejQ0NZSfmuEKIwBcLNvj4HoQqG+P292yP2wdiYnZmYOK6UCRPDyOCgQ6F3h4cdBN6/M2ofjo+7YN4zrrHZyUk7NzXlZLqbmx3ppP8oEwQ0ORAIBAGrVhjwXp9L5On0tENC6aQjyk8cd4IATR4HPH88G0R8kHGf86yeefZoxlFid0zedtAVAph0+cmcXZ2ft2sLCwmRXJAJAoAw8L0SumMSZ0Lngi1gckTerKwcKgLqmiS0gPXFxWKFTEJC5wQZQpi0sIj/LueFrZIIz6uT6mYR22UOPayxTL6I/67Ol7ooCXWlSBnKTyoJ0KFk+wpP6IPSW4oEvF5a+scijizfconoJiGpX9d4e7QALQJxtkkiOmcliKj8b4dkdDsY4+pLAuIrH199ZBB5+2L1uDKUCTJMzippP2JsCf8mdEjjMxKDzLuXa1nIqEy41qySFbMNdEBjMYSnyVCGMm7S3c1Nu/1q3UnsbGwk4LM0jGs7M5ShjP2yteX4+n7b8e3jh4DGQM+lRTKUURn7c28v8OPzboLvn3YcZRCJK3ejfh8c2F/7+4Eyi+QqF5aTq4hIoYolKipSrb/1B0244QLB5qQVAAAAAElFTkSuQmCC",
     "wiki_name": "Belt buckle",
     "wiki_url": "https://oldschool.runescape.wiki/w/Belt_buckle",
     "equipment": null,

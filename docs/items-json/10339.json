@@ -1,7 +1,7 @@
 {
     "id": 10339,
     "name": "3rd age robe top",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": true,
     "examine": "Fabulously ancient mage protection enchanted in the 3rd Age.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xu3W+0sUURQHcOcn6V8o+gMiSYqIJLOFxcoUctmero+ybdNtW1s2XbbNpccilSKIPahQMMREygiioijqLzvxvcMZzr1zV3d2puiHLhzmeufu3M/cxxlbWv794pA9bPf/eHFotpKkR+WEiplSP9VunVbBiNWFy7QyP0LLc8MWlPkSoeEuiFEAcZiYpceD9HxmQBsYf+OeGToqENKh+ekzPhSugHAw6GntAi3cPaf64moDob9Ef9+o0Ne1YnMoBqHOs8Oglw9TCsR964Hwu2/rZfq5eY9+bT5QoEAYPJTfmkEY1AZavH/eA6FuA60tjmog1BsEOdoyYCDe3PjbBPESAMN1G2jj2dXoQDxLaGMQD76nrY127tqt6jtaW1WgboLevch4IEQgEO8LE4Q3Bwh9RsbG6ezQMKXSaYU41Nmprgc7Omjf/gM+1PtX13TQm6nwILQzKF++Ten8BJVqNW9mehIJ6u7ro8NdXT7Qh6XxaEEILCWDcqUSZScnKXOzQKO5GwqEGetNJil24qSaMUZhiT+t5DzQj7fVRjEoOkii8HC5ZLhWZ+dorFhUoMTFgbqgz6/zzYJQ3A2LI1wPhMEZhKUDCHvnUva6FfRltdAsyD22mKGtQMe6j6trYbpKQ5mMAvFpS6YGNRB+I0EBkqJ75G0gBB6OPgBg86I+UbnjnbS97e3efQZjdiIFMQrBIJlvMDhmhI++vM99IgPJWcIVIHwC3Ic5au9gdhjEx10GZmj9yRUPhCzdIAbFPWE2EH8OAOJ9ZIKOxGKqXeYf9MVnQ85QUyBzH6F9O9DReFwD8f7BZyMyEKPQjgFsICREgHgjmyBkaQkKgHJBtmWzgZChJQj5xwSh/8flrAdCDgqQh3SQXDYJ4q89QDhlDIr3nNJAgIcG4ZRtB+LjjyWTIM5NcrkiA5nLhnYTJPONmXsYhCMvQchBgfOQbdkkCHWcPPeh/pD7JxKQbdkkCPfkvyWoczZHP7l/QoJQ/G9sC4mRYYKQFCWIIwCo0eJHcsj98xdBWxU/0h//S7jyG1B+DvKQBp3HAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xs3W/UtTURgH8O0n6V8oAn+NJCsikswGw8oSaqxX50vZWrrWbCwbazl6GVIpgtgLFQqGmEgZQaQURf1lT3zP5bk+99mZ7rpbeODhHu892/nsOec811Bo+7cw2cP2/J+3ME2U4vSsGDMxXjhHlbtnTTBiYfoazU8N0NxkvwWlf0TDcAfEKIA4NGb2eS+9Hu/xTIy/8UyHF+ULGaapsfNVKFwB4WDQy8plmn540YzF1QbCeIn+uVyi74v5raEYhD5nh0FvnyYMiMfWAuFzP5aK9HvlEf1ZeWJAmGN/c7MJPbtqTtr5VzMIk9pAM48vuSD0baDFmUEPCH0G6dlVC3uWARPx5sbfGsRLAAz3baDlVzeCA3GWcI9BPPmelhbauWu36e9oajKBvgZ9epNyQQhfIN4XGoRfDhDGDAwN04W+fkokkwZxuL3dXA+1tdG+AwerUJ/f3fSCPtxrHIT7DMoW71MyO0KFSsXNTFcsRp3d3XSko6MK9GV2OFgQAkvJoEyhQOnRUUrdydFg5rYBIWNn4nGKnDxlMsYoLPG3+YwL+vWx7GJ8gyQKXy6XDNfyxCQN5fMGFLvSUxO0+j5rBenZazRnw+II1wJhcgZh6QDC3rmavmUFrS3ktgpyji0ytBHoeOcJc82NlakvlTIgPm3xRK8HhM9IkCyKenbVnCNvAyHw5RgDADYv+iOlB+5J29va6j5nMLITKIhRCAbJeoPJkRE++vI5jwkMJLOEK0B4BWAcAnsH2WEQH3cZyNDSi+suCFWaMXWBcMJsIH4dAMT7SIOORiLmvqw/GIvXhsxQndlBWwfpfYT7m4GORaMeEO8fvDYCAzEK9zGBDYSCCBBvZA1ClZYgRunZLc0B2ZbNBkKFliDUHw3C+K9zaReEGuSjDnlBctkkiN/2AOGUMSjaddoDArxhEE7ZZiA+/lgyCeLaJJcrMJBeNtzXIFlvdO1hEI68BKEG+a5DtmWTIPRx8jDeFnL/BAKyLZsE4Zn8twR9ruYYJ/dPgyC06l9sC4mRoUEoihLE4QMUCnFZ3yg0UIbcP4GA6m0aWQ+WY33sf2oaaQv9mW3d/gKagll+cchw/AAAAABJRU5ErkJggg==",
     "wiki_name": "3rd age robe top",
     "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_robe_top",
     "equipment": null,

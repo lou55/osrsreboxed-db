@@ -1,7 +1,7 @@
 {
     "id": 460,
     "name": "Desert Lizard",
-    "last_updated": "2024-03-02",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-24",
@@ -28,9 +28,7 @@
     "slayer_masters": [
         "turael",
         "spria",
-        "mazchna",
-        "vannaka",
-        "chaeldar"
+        "mazchna"
     ],
     "duplicate": false,
     "examine": "A cold-blooded creature, partial to warmth.",

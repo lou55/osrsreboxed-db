@@ -1,7 +1,7 @@
 {
     "id": 4588,
     "name": "Dragon scimitar",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-29",
     "duplicate": true,
     "examine": "A vicious, curved sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzElEQVR4Xu3WzWvUQBjH8e6hCEW8FulBerAHL/ViT0L1IkIPKvX9lSpVKiKIopaiWC2lvlAo9QWVFiqllqIVQVQURf+ykW+yv/DMZHbdbKJ4cOAhs8kk88k8M5Pt6Pj3S83FI3b9j5eaezgx7O6PH0hi+sZ+N3VtXxJCLM+NuKXZM27x0ekIKnyJ0vAUJBQgRYhZeHDSPZs+7nXMb66F4aMKIWtu9tbBHIojEIVAT6aOurk7h5O2HGMg2lv0t7UJ92XlansogahrdAR6MXMiAaltIxD3fV0ddz/WJ93P9XsJqBCGh+qtBaLTGGj+7pEMRF0gjQb1lfmzHoh6i6CalwY60uTmdwiicxBKL3VBTnV1utGNnUl97elodSCNEudiII0kIYgwAr19fj4DEYVAmhchiM5DkJ3QIWakHpx/9/KCD3p9vTyI84CE0kjSxmIEEQb4+4WxakEEAAvShOYeARiZm5s2eCDafly6lIG+v7ndKobigyxKy9eCaD9mMHbeaHRo++nV5XZBlPRhvH0zkDAEiGNdPkRB28/LV9oFpXsQI9QqSKPDb+4jtRZEewsqsCmmSz4GIizIYjRXaBOCgFcKEorgOjuu0gLkUD1NjKBAYboqA9lR4trOgYFsZOwuLEwj0OrjcxmIXbpFDCVdYY1AW3p6MgwhTDMQo8Nnw45QW6BwHmmJb+7uzjD2kxEDKV18NioDCcW1PYODbu/uXfUH+v+ZqAO0fz0EYpe2oAKoFBRLG9d2bO/PMNv6+nIpi4FYBB8WL2Yg9qAC+5APsmmzCO1BYbpCEKNTGsQqawTa2tubHOnM/geyIO616aoMZNPG+eGhoeRIB3QYTmjtVdzHMwRiyVsQe1DhfSiWNqUKEG2agez8qQQUS5vemk64FlthhD4bSldJECVdRb+LcP4oQhCbogUpCoBaLXmkws6fvwhqVvLIfPwv5covAxIsF+QK0ZoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xs3W3UsUURjH8d0LCSS6lfAivciLbvImrwLrJgIvKuz9FQsLI4IoKpGiF5HeEMReqFAwxETKCEKjKOovO/Gd8Tc+83h223Gn8MDDzs6c2fOZ5znnzFYqG79VQzxi1/95q4anI/3h8fChJMZuHQyjNw4kIcTsxECYGT8Xpp+djaD8QzQNT0FCAVJ4zNST0+HV2MncwHznmo88qhCyGsbvHF6D4hOIQqAXo8fDxL2jSV8+YyD6W/SPhZHwbe76+lACcazsCPTm0akEpL61QNz3fX44/Fq8H34vPkxAjNHd0ZGEH921NO16aoEYNAaafHAsA3EskLLB8dzk+RyIY4H86K5Vc2VgIE1uvnsQg4NQeTkW5ExrSxjc3JIcL7wcLA+kLHEuBlImCUGEEejj64sZiCgE0rzwIAb3IDuhPWZgJTj/6e2lPOj9zeZBnAcklDJJH4sRRBjgn6eGygURACxIE5p7BCAzt7dsyoHouzRzJQP9/HA3wxQGWZSWrwXRf8hg7LxRdui7/O5qFORHr9HSH+Pp64GEIUCcaM1DFPT9OnttvaB0DyJDjYKUHb5zH6W1IPpbkN0U/eiupUs+BiIsyGI0V+jjQcBLBQlFcJ0dV2UBcmSlTGRQIF+u0kA2S1zb3dOTZcbuwsLUAs0/v5CB2KWFaQjEyqkF2tbenmEIYeqByA6vDZuhBrNDWwX5eaQlvrWtLcPYV0YMpHLx2igNJBTX9vX2hv179yTHhN00OQZo/3oIxC5tQUL50SMtBcXKxrVd3TszzI6urjUli4FYBF+mL2cg9qAC+1AeZMtmEdqDfLk8iOw0DWKV1QJt7+xMPhnM/geyIO615SoNZMvG+f6+vuSTARjQT2jtVdzHbwjEkrcg9qDC+1CsbCoVIPrUA9n5UwooVjY9NYNwLbbCCL02VK4mQbR0Ff0t/PxReBCbogUpCoAqFW3r9cIDbdj5Uwqo0eaRjWAVq33/U/PIWPh7NnT7A00WdqO+zQMVAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon scimitar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_scimitar",
     "equipment": null,

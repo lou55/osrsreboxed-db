@@ -1,7 +1,7 @@
 {
     "id": 9694,
     "name": "Blank earth rune",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-20",
     "duplicate": false,
     "examine": "A blank earth rune.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4XtWW8U/NYRTGe39qmmVN09RkabJkJUuypCxJspQkSUqSJCXJXVISu3eZzGbmB3/ssefcPfeeXrdN3vcyZ3t+/3yf5znn/RYU/L/jZO/K2zi53tUlnW1tcqG5Wc7U18uJ6mo5WlEhR8rLVYfLylSHSkszyiNUFuh8U1MG6HhVlepYZaUKgBTgDpaU5AtqJ1BDXZ3qVG2tnKypyQiQBIVrcOlAcXFsKCf3bg3Ktcud0tHaqkDnGhvl7OkGdYryIa1LkaF2Al1saVGhS4AjoIUEECKkS4DaX1QUCyoLdPVSh1xpb9fooFyAAINLiI0uMbpIUE7u3hxQIApgFAEJBzBEZ12KWHAnT8bHZaivT0sN+WC5gCg4BaioQFOjozLY2ys3urtVFswH8iOkABQFJjE3J5MjIzLQ06MiFMF8KB+M8UUAcrI8O6tA928PqUOQBbNAhLJgBMJdCoTBOHk9P69Q2DB0yEL50Vkw2yecAWxaIFA6qvUXi7L4eFru9PerAEUwG58Fo0N0B6UOjCsd1ZvnC6rpsTFdeQtloyOY7RLdwU1CXIGPrFOQzVfL6hI2DJEBimB+fLZLjAvu4EDiOAauu5ONl0vyIZFQpyaGhxWIUL5TjMy6w4uN/uAGBb5jTmEAhf4ACFvmQ/nu+FHBHbxpKHTgc+EktbqqsT17OKlAFgpAcMfvji0yYXB/8GzsKywMB8LK48nAUSSQdcdG5fcGUfE3BBsWDMT+YMNyAVmHbH+sS+wQtix47ZMrKxoZOoTYnj6Y0G37U7goq4/YcBix+nALcAuPpjTGvcLBLax/ABDGyce1Nb1HAINjfEqWZmbUNUT6u3C8ScFQdAsx8hwQEO4xUh/OngjeLHQqEIiTBrP6lkrJ53cbCgpAxLkbHKDgEjqFcxAJyh8n37e25Mv7TXUQ0SJSdg1wgLJA2Q/K2zj5sb0tX5NJ+fR2PeOWjRJQAMoziJ30V1u30DMUH079BVd2m1979o9A4s9PhxboSqMw7QYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4XtWX7UtUYRDF9/kkSRiSJCmZJhlm+BJmhpmGmZlhmpqZmWZmZqaZ2WKmmcWKkRFE9KE/duLM5eyOTyvs7r0rNHA+6v3tOWfm7sZi/+84yV55Gyd3urulq71drra0yMX6ejlXXS2ny8vlVFmZ6mRpqepESUlSeYRKAV1pbk4Cna2qUp2pqFABkALc8eLifEHtB2qoq1NdqK2V8zU1SQGSoHANLh0rKooaysmj4SG5faNLOtvaFOhyU5NcamxQpygf0roUMdR+oGutrSp0CXAEtJAAQoR0CVBHCwujgkoB3breKTc7OjQ6KB0gwOASYqNLjC4iKCcP7w0qEAUwioCEAxiisy7ZgjdWVqr8p2Q4Tl5MTspIf7+WGvLB0gFRcApQPpD/lCzGycz4uAz19cndnh6VBfOB/AgpAEXiTnxhQabHxmSwt1dFKIL5UD4Y47NA/lMyHCer8/MK9Pj+iDoEWTALRCgLRiDcpUjceb+4qFDYMHTIQvnRWTDbJ5wBbFpod+DM5ptlWX4+Kw8GBlSAIpiNz4LRIbqDUoeMK4jqw+sl1ezEhK68hbLREcx2ie7gJiEuvmRzBgLI9rtVdQkbhsgARTA/PtslxgV3cCBxHEOuu5OttyvyJR5Xp6ZGRxWIUL5TjMy6w4uN/uAG8T2WMxBgAIX+AAhb5kP57vhRwR2801Bovi5yBtpZX9fYXj2dViALBSC443fHFpkwuD94bRwpKAgPhJXHKwNHkUDWHRuV3xtExa8h2LDQQOwPNiwdkHXI9se6xA5hy0KvfWJtTSNDhxDbyydTum25wtnV95+W4QSx4TBi9eEW4JaezWiM2cLBLax/CJcwTr5ubOg9Ahgc46tkZW5OXUOkmcLxJoVwCRP8toJbiJHngIBwj5H6cPZE8GahUyFdisWCP/Z//Dn5tbMj3z9tKSgAEedBcICCS+gUzkFIl4LhV4fUVwgnv3d35cfnbXUQ0SJSdg1wgLJA/DCp/xH5OPmztyc/Ewn59nEz6ZaNElAAsiB5guEEn9q6hZ6h+HDqEFz5dw7q2SG6kn78nuUK8hcbfCMgJtcW7AAAAABJRU5ErkJggg==",
     "wiki_name": "Blank earth rune",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blank_earth_rune",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 24225,
     "name": "Granite maul",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-09-05",
     "duplicate": false,
     "examine": "Simplicity is the best weapon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHElEQVR4Xu2Wz2saQRTH806hoZdSaKGhioqKa2EJVKw0qYZNatyG6lYkP4yJWJE0rbUSJKRGW3JQkpb0kENoIX/rt7zZDtl6qQF3nUO/8E4z8D7z3nfezMzMf01MBDuUECGVeopg0DdtKFkVQq22hd3dEsLhgJdQMpENUa1u4P1BFZ3OAdrtBprNGkzTQDQa8gKKoGkRkcgwlrC+vopS6bWAktXZ3rLw+fgjTk87SCYX3IQikTCR0KHrceEXJ5QMhuv32xgMjpHJPIffP+8GFOH6+odIJKG4LQyTz2dhWTkUi68Q9PnQaFREdc7PemLdNaBfP7+JODr6ICD4Nsk2cVW231h4Eothc6OA4bCLi4uvbgKxbKirqzPU62Vxk6Rf3u3toVGpIBx4gLW1DHZ2igKcq/h4/pF7QAzDcXi4L24RA3GV6uWyADKX44iFHv4BcIYrImFUCcQnZ9+wsZ3JGSoeca0qoyJcXg7EvLlpxWhiG0rXpHdG1ycuQqtV/8cTQcimNSR0P7SIPbdGd0xY45ycMOx2sVkojLHXMxGeLQRUAmIRFhOevGu3EWE5Jb00Trs9kW10c8XAndlZdaB4iN6MBCVEWFmM4f69ObWg/vbU1GVP8+9f+mr5yciZ4oegCBCL8CIZdvwQlJBt8pfptFpQ/OPMZ7OqGJ1w8qkFK5cTvwMFjE447/XQfFtDNBTC3TklZpTznZs6zO30Gy17YFZ3SDesAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOElEQVR4Xu2W32sTQRDHu0/F4osIChaTJiEJuQhnwRCD1aRcNc1ZTM4Q+iNNG2IIWo0xlFBqTJQ+JLRKfehDUejf+pXZddszSo1wd9kHvzBPtzCfm/3O7ExN/ZdjYhChhBhSqXsIBn2ThpJVYajV1rG1VUI4HPASSiYSENXqKl7vVNHp7KDdbqDZrME0DUSjIS+gGDQtwhMZxkOsrDxGqfSMQ8nqbKxbeL//FgcHHSST825CMZ4wkdCh63HuFzuUDILr99sYDPaRyTyA3z/rBhTD2dlXnkhC0bUQTD6fhWXlUCw+RdDnQ6NR4dU5Ouzx7xLo7tyck1AM37995rG394ZDUDfJa6KqbDy3cCcWw9pqAcNhF8fHn9wEIgmo09ND1Otl3knSL6+2t9GoVBAO3MDycgabm0UOTlW8PXvLPSCCodjdfcm7iICoSvVymQOZi3HEQjd/euYiCMYVIDKqBKI/J9+Qse3JCSoeuaiKSzBSDCcnAz5v5FX8nlhA6ZrsLsc7bFQMrVb9/In4cwUYsmkNCd0PLSLm1q/fHdc43mAYdrtYKxTOz46ecFSXw0gx3J8PeAM0vhgWEp68a/8ihsWU9JInRh9HwujmkoEr09PqQNEQlSNBEV8xLC3EcP3ajCpVIo16auIS0/zLx75afjJyJt8QlPLTo2TYtiEoIWHyJ+m0WlC0ceazWVWMzvDhXQtWLse3AwWMznDU66H5ooZoKISrM2JGTdjo9nfub6uNR7JvnpfB/AACqIh6ma31CQAAAABJRU5ErkJggg==",
     "wiki_name": "Granite maul (ornate handle) (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Granite_maul_(ornate_handle)#Normal",
     "equipment": {

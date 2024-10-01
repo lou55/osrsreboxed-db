@@ -1,7 +1,7 @@
 {
     "id": 4729,
     "name": "Guthan's platebody",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-09",
     "duplicate": true,
     "examine": "Guthan the Infested's platebody armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xu3WbWsTQRQF4OaDSEJpCQRLNpjiSpUYCRSKpVAUf0EVRUVFUVFRRJCKUkrFl1LUSqFULSotVEoNRSuCqCiK/rKrZ5az3p2daDbZSj84cMjLbpJn78zcTUfHxh8Zccd1fN1HRqbHD8mDsYMmUzcPyOT1ERMilmfPyNLMaVl8dMqBsi+ibXgAIgogxsYsPDwp81PHIz+M1zhmJ4pKhMzIzMThGAqPgDAEPZk8JrO3j5hz8egC4XyN/ro6Lp9XRltDEYTnrA5Bz++fMCCe2wiEz32pj8n3tTvyY+2eASXC4Et51QThR22Qvmpk7u5RJ2hl7mwEhOdNgjKRaQCCixuvAdKArq6sSS63yUQf06DVp+fTA7FKeA/He8s9sRSLecnnOyWb3WwCpEa9eXYhBCGJQFwXNoi7qbJzq/h+Ufr6SmFcKA16++JiFPTqRvsgvE+QHQBtlAa9W7iULgjBsf7+7VKt9kp9fsQ8MkSVSgWZnthvUARhA3xYuhKCvr2+1SwGIwrSKIJcAQpTRxQqpUEfX15tFYTxewvboME9FRkY2BGGoFrNj6Bs0Kfla62Cgh6ECrlAw8O7IygbxDWFKnGnoVVoUIKmGGx5FwjB8WrVk0ql51cltpj42wom5XLexPO6TdiTUJ1UQUQhGsTq2FPF9bMuIF0lPBLEKdPTxG3vAtUfnwtB6NJNYjCCHeYCsSkSxOoAw+q4QKgObhu6Qi2B7HXEpggQp0svYnZrgBANwm0jNRBRBA0N7YqtH8KAIgghCF1agxKgApBr2giytzxQGsZKITgffzveL14OQehBCfpQFKSnTVcIKBumcXpd4TNtgbDLGoH4N3Tf3lpDGKqERc2ba9sVIsieNrxPELq173dGUi7nTDwva1IodJtzseU1CD0ocR9yTRtBuOLgy/4enJsKyDVtGoRj+m8JnrOb4zzcULG7UgBhxK/UFY3RsUFoihrEJAA1O+JIhvcvVOcfgv404sh4/o/2xk/QsZUNRWMcsgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDUlEQVR4Xs3W/UtTURgH8O2HiA1RBiPZRle7YbEWI0EKQYr+AouioqKoqCgiiEIRMXoRqQxBrKRCwRAbUkYQFUVRf9mp7xnfu+c+O4t73TU88GUv94zzuc95uUulNn9LG3dc1ze8pc30+DHzeOyozdToETN5Z9iGiOXZC2Zp5rxZfHrOgdI30Ta8DiIKIEZjFp6cNfNTp0MD4zOu6YRRsZBpMzNxvAmFV0AYgp5PnjKz907Yvnh1gdBfon+sjptvK7fXhyII71kdgl49OmNB7NsKhN99r42ZX2v3ze+1hxaEMfb19tro0VWrl513TRAG1SB518jcg5NO0MrcxRAI7wnSo6uWDk0DEFzc+AyQBHR2Zmyy2S028poErb64nByIVcJ3uN7jdTelUMiZXK7DZDJbbYCUqPcvrwQgJBaI60KDuJvKu7cb3y+Yvr5SEBdKgj68vhoGvR1pH4TvCdIBUKMk6OPCtWRBCK719+80lUqPqc0P21eGqFIpb6YnDlsUQdgAn5duBKCf7+4GmNggiSLIFaAwdUShUhL05c1NJ0iP3qI1trAGHdhfNgMDu4IQVK36IZQGfV2+tV5Q/QxChVygoaG9IZQGcU2hStxpOCokSB6KenTV6lveBUJwvVIpmnK5+28lttn4O/I2npezKRa7bHgmoTqJgohCJIjV0VPF9bMhIFklvBLEKZPTxG3vAtWeXQpAOKWJiQTCDnOBeCgSxOoAw+q4QKgOHhuyQhGrg9YA6XXEQxEgTpdcxDytAUIkCI+NxEBEETQ4uKdp/RAGFEEIQTilJYgoPbqj1UGuaSNIb3mgJIyVQtAffzs+LV4PQDiDYpxDYZCcNlkhoDRM4uS6wm/aAmGXtQLxb+ihg9WWMFQJi5oP17YrRJCeNnxPEE5r3+8IxfOyNsVixiaf77J9seUlCGdQ7HPINW0E4Y7RL0rQNxGQa9okCNfk3xK852mOfnigYnclAEJrvlNXJEZGg3AoShATA5RK8Vj/VzRQhs8vVCcRUNSmkVGwTKPvf2oa6Yr+zaZufwAaxN+ZLeW52wAAAABJRU5ErkJggg==",
     "wiki_name": "Guthan's platebody (Undamaged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guthan's_platebody#Undamaged",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 4106,
     "name": "Mystic gloves (dark)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": true,
     "examine": "Dark magical gloves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xu3VyWsUQRTH8R6GZpjg0ZMXT168CF5y8eDFgxf3DeOCikpEBFGUEBSXEIxKIMQFlQQiIYagEUFUFEX/srK/XfkNr2tqMtMzrXiw4NFbdfenq169TpJ/v9VcPGLX/3iruUfjB93U2P48Jm/ucxPX9+YhxOLMGbcwfdrNPz4VQYUfMTDcg4QCpAgxcw9PuOeTxwsv5phrYRRRpZA1N33rUBuKLRCFQE8njrmZO0fyvmxjIPpb9PeVcfd16Vp/KIHY1+gI9PLBSA5S304g7vu2POZ+rt51v1bv56BSGB6qrxaIl8ZAs/eOtkDsx0BLs2cLIPZ7BNUK08CLlNwchyBeDkLT2wm08ux8dSCNEudiII2kQIxaCHr34kILRJQCKS9CEC8PQTah1wO9f3WxCHpzYzCQXSEEIEZSx91AH+ZGqwNxbks9cZuz2JTFxiRpQZqNRh5CxUDgPy1cboF+vL3dK4ZWBHF8oJm6XY26G85ia+phglgQ+E6gz6+v9Aui+a/n4WxHN6RuT7Pudmag7alHqY+C0RGIqQxBXxav9gvyNYgR4uEapcNDqdu9htJIcd4mNCDuE8iCLahEUfRLPgQpj8KwFToEcV3TmTaG8uNKQEIRfDUVl6XPvq3QFqTRCXNsYJAdJbYWRD9bocEIFMNoyqjSPWJofoXFQPodWFCYPzEQ+/w2bA71BQrzSEtZII5jIJ7BSqRuqV7x26gMJBTnWb4CcT3MH+6nZu3IVuG2DMUxfanSFlQC5UGxaesVdHKtPFAaOKb/x/lLLRA1qEQdKoLstFkQW86H02UrO/WqEhDJ2g2kJR8D0c+/zE9XZaBw2jhvQWFCq1Zxn/oCWn5yrgCiBpWuQ7Fps6DYkrcg/b/oWwkoNm0WxLUwoQWiHyBN14Agmp//bhHmjyIEURQtSFEC1GtrRyps/vxF0HqtHdke/9tg7Td+bCvXo15YPgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xs3Vy2vUUBTH8QzDMExx6cqN3bhxo7hx48KNCze+X/hERaUigihKKYqPUnxRKPWBSguVUkvRiiAqiqJ/2XW+SX/pyemddtKJ0guH5CY3uZ/cx0mSrP1SC/GI3f/npRaeDB0Mjwb3pzFya18YvrE3DSGmx86GqdEzYfLp6QjKf0TP8AwkFCCFx0w8PhlejhwvdEydez6KqFLIWhi9fWgJiiMQhUDPh4+FsbtH0rYcYyDaW/TPuaHwfeb66lACca7REej1wxMpSG07gXjux+xg+D1/L/yZf5CC6GNrf38avndXsmHXVwtEpzHQ+P2jOYjzGGhm/FwBxLlAvndXaoVpoCMtbuoeROcgNL2dQHMvLlQH0ihxLQbSSArEqHnQh1cXcxBRCqR14UF07kF2QS8H+vjmUhH07mZvILtDCECMpOorgT5NDFQH4tqmehI2tmNDO9YnSQ5pNZtpCBUDgf8ydSUH/Xp/J8eUBlE/0GqEXc162N6OzY0MJogFge8E+vr2ahTke+9Qsq/n5RwH1jXCnlY97GyDtjUylNooGB2BmEoP+jZ9bbWgLAcxQrxco3S4rxF2L6A0Uly3CxoQzwlkwRZkk6Lv3ZVsy3uQ1pEPm6E9iPuazkazL61XAhKK4KvJuGx9zm2GtiCNjl9jPYPsKHG0INrZDA1GoBhGU0aWFqYrEDskBtLvwIL8+omBOOe3YddQl6NDWQT5daStLBD1GIh3sBPJW8pX/DYqAwnFdbavQNz364fnyVk72rtwSxtFnbZkaQsSyvceKRkoNm3dgk4tpAdSA3Xaf568nIPIQSXyUBFkp82COHLdT5fN7OSrSkAs1pVA2vIxEO2y6cimqzKQnzauW5Bf0MpVPKe2gGafnS+AyEGl81Bs2iwotuUtSP8v2lYCik2bBXHPL2iBaAdI09UjiLL0nxULv34UHkRStCBFCVCSKK0vFx5ow66fSkDdFo/sBqtYbPufikfGwj+zpstfyHB2Y0Q76I8AAAAASUVORK5CYII=",
     "wiki_name": "Mystic gloves (dark)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_gloves_(dark)",
     "equipment": null,

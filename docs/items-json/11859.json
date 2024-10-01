@@ -1,7 +1,7 @@
 {
     "id": 11859,
     "name": "Graceful gloves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-12-05",
     "duplicate": false,
     "examine": "A sign of your grace.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTklEQVR4Xu1U70tUQRR1PkkShiRJSoYurtjK6sqWCWsmlppJatmysWyZmZlmGsuSiIghqdFvKqQP0p964t5h9r19zJt5uzzpQ+/Ag/dh7plzzz136uoiRBDQf/8EAr09PbgSj6M7FkNnezsut7XhUmvraYmydSvQl0iUBXV1dJyGIMf2C83NOFNfbyCXgpRLJIhcCkGQI8JNTILONjQYyAUGkkmtoPNNTYY6IwSu9vcxsdt+Ir7Y0oJzjY0GYilI1bkFUa1/nRECg6kUi1L2uwXZO63MkQq2ucYKxyWvIBpbEJe82+Z/PhCkS15B1GlQlz7sP8d28RFer8xh6ckU8tkxS40V0iWv/cHyIPDlYAUHu4vYKeVRfPUQL5fuWWoCQR9SeyYE/hyXcPx1g4WRS9OT1y01geFkgv43Vx9gbXnWQi7w4+MadrcK7Mz87DBGb/RbaqqCwKf3yzjce4b9nQW+yJ9cjuvb0SqP68XTu8jeH8HEWNpQUzUEC6FwEvFgWrqlv0CwGBJFoSZBuflRHlk6FfepqRpSEJHPTA2x/UTeFdNlSY5LCaLxFnK3MTedQWaoV3O+JgjeGLf9RJ5MdGouEBxmGjGNjAK9WJjkHN26OaA5XxOkIHe3RO6MrvLs7++bLOjd9mNeeTW2O+PXNOdrguBAEznlSJGPZJI+F8ixUY16h0hUCI+jghSkXt6F/ASPwLw5Aie/imWn3r7JBXguAkOuMhGXNrLlbu2PndpE9xcKBH5+Xq8YAT14FNYQL6kW3k5D7ThChAj/L/4C9ljgsrNIiuEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcklEQVR4Xu2W70uTURTHd19JEoYkSUqmDhc2mZvMTFiZWGkmpaVjMVZqZqaVxhiFiBSSFf2mQnoR/anfOOdy9zy7Ps997h4Wvnm+cGEvzjnP53zPuZfFYpEiCXifI5HAQH8/zicSOBePo7erC2c7O3Gmo+N/QQV1KzCYTFaB+np6aoDS3d2GXGs5tp9qa8OxpiYDlARSLhEQudQAIAfCXZiAjjc3G4oLDKVSnkAnW1sNjRglMJwe5MJu+6nw6fZ2nGhpCQRSeW4gyvXPM0pgJJNhKGW/G0h16l+4do/UYqsc/zyjHJd0IBqbcknPkqodm8o1NxEo6ZIORJ3auvRh7xG2y/fwfG0OKw+mUcxPGJqwknRJt99uHwS+7K9hf3cZO5Uiyk8X8GTlVkCOlbyX1L0TeoaUwN+DCg6+bjIYuTQzdTEgx1rOTtDvrfW72FidDSgu8OPjBnZfldiZ+dlLGL+cDsipSwKf3q7i3euH2NtZ5A/5F5fj+vZ+ncf1eOkm8nfGMDmRNeTULcEgtJxUeCQr3ZJHl2AYgqKlJqDC/DiPLJtJ+OTULQlExW9Pj7L9VLwvLndJj6VxKSAab6lwDXMzOeRGBxrlkuAb47afiqeSvR4fELzMNGIaGS30cmmK9+jqlSGP+FCSQO5uqbganQ70+/sWA73Zvs9XXo3txvULHvGhJHihqTjtkSo+lkv5fECOjXLUO0RQ6nE8HF+3JJB6eReLkzwC880R+POrXHXq5YuCxXNhLXmVqXBlM1/tNvixc/7GqEOx/vHWEvj5+VnNCOjBo2U1A8ViCsB99JiQOtxtAzsOJ73TI4WJFClSSP0DSbQf1W3TJpkAAAAASUVORK5CYII=",
     "wiki_name": "Graceful gloves (Worn)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_gloves#Worn",
     "equipment": {

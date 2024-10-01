@@ -1,7 +1,7 @@
 {
     "id": 26986,
     "name": "Lost bag",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-05-04",
     "duplicate": false,
     "examine": "A bag with strange markings on it... How did it fit into that small pouch?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADbElEQVR4Xu2V20sUARSH9SEWfQ2MCoUU8iXMgszIsihdvJCu6yXNzLyu1rqZLWamrLa4qWWiiZgFQQ8FgdBD0H938jvTWWd1vWsUeODH7szuzPnmdy6TknIUR3EU/0Wkyu50KLGWoLSkWErzzsRVX5ir8hecjetYUY1Mj/llsM970FAORHOzXzo67iUkNT0szlO1XD+nKsvPlmPlnZLm8agOCMgBaWr0SVtbozwpuyRPKwokXHlZnlcVxpMjzge9F6W35IIq7lJ1cD9AiXX3+PvFU/8sAWTYd0VGa67KWG2RROuvyURDsWpw8LEMDAQkFOqQYLBNH8J0PLynkqVKVZVX5fdXyN2Gakkf+S6e1qh4Oqel4+b5uLpv58vL4ZBEIgMqHBkd7dfv4+NhiUYHpavrvroKoKc9ptoFlANjztAn3Iib48ypb50qe3oUiw3LxMSQQlAq5Abik/vgGjAZU7U7BXLDOMePelvlxVCfJqBXTq/0SNrwV725aWpyRIFIDAxl5bsbiOsp5S6A1sM450g2NxeV5eW38mZ6VNIjK1q+2dlxCYd79dOASA6M9RnHBsR/+/u71Nl9AeEOQB+WphUo81dIoTg3Pz8RB7KyuYFofPopOytLe42ea2mp20kPJYNxzlMykgI0MxNRIMR0MWUoNycnXhYdeXrrT+k4BsYNtDHPhtgMyPkNBxYXJxUs/dUPFUAGRVJzBAEEABMHlMEgJjV5noSwfZMsHJewHigt2SoQo+4GsgXJMUCtrQ0qnDIg/r8DoMQxTyYSuIEQQAgAcwYgmrcn8EBLQ//hEkDsIYAyYjVbA9kCNLBkMiA2sjn0OVChCRllNxBTZYuSaxBbnGvRjoFM5eW3NojpMYe+9FbGgdCn7nL52FkmS+1elYHY6+N14w0FSgu8k4yZ+u1Hfn1yt7gQ63lqpsyAMn8GVZvB4JBtbEp24n2T7h+2Ne+zXQO5+4fGZKQXFmK6hxh9nAGIBcnWRlY2GpzJsgk7udyiIDwY70Sfr8yVI0kkB7Fw3mU8OYvQtjbjDxhyL0XdyKtQgNDYuEIzG4j7QddybIit/pSqb2rKAASJgcApe7tbiegXPnk9sCasPHV1d7a4/54iVRMBYSBMF4mB4BM3gMARvuMKpT5gEHe4Xdxe2zbu349/CuYoDjd+AxOY+8loubDHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADj0lEQVR4Xu2V3UsUYRSH3QtZ9DYwKhJLqJswCzIjy6JSdo1M1480s838rs3MFjNTzBa3tCwqCbMg6KIgELoI+u9OPmc6s7PuuLlW9IEv/JjZ2Zk5z/zOx5uXt7k21+b6J1ZActNvWakANWeqpaZsl6uWyr2qSMUeV/lVjTJ3PyKjN2p/NZQD0dERke7ui2lBTVeqy1Sdx/epQuW7JT/cIwXBoIrny0tKfhbKAWlva5Curja5GTokt+oqJH72sNypr3SDI67Hag/K4JkDKtel87GfAUrPezAyLMGW22kg4w1HZLLxqNxvqpJEyzGZaa1WjY5el5GRfhka6pZYrEs/wrQl7qQsR6CA1NfXqiKROrnQel4KJz5JMJqQYM+cdJ/c76rvdLncGx+SqakRFY5MTg7r+fR0XBKJUentvaSuAhi8mlTlUEcOjDlDnfAiXo4z2z/2qOzrUTI5LjMzYwpBqpAXiCPvwTVgimab1utSCsa5OSDXBqNyd+yGBqBWdiwPSMH4B325afbRhAIRGBjSyrkXiOdJZQ5A6TAGRLDnzxOytPREHs9NSuHUsqbv2bNpiccH9WhABAfG6ozfBsS9w8O96uyGgOwa7gD0enFOgXZ+HVIorr14MeMCWdq8QBQ+9bS7uFhrjZrr7Gx2aygLkJ87znVSRlCA5uenFAjRXXQZ2lta6qZFW57a+p46fgPjBcqMk7H83En9hwOvXj1SsMIHn1UAGRRBzREEEAB0HFAGg+hU/zhpy+kof2rHJawHSlO2AkSre4FsQPIboGi0VYVTBsT96wBKb3M/EcALhABCAJgzAFG8A/2XNTXUHy4BxBwCqCjZmB3IBqCB+cmAmMjm0Lv+Og1IK3uB6CoblDyDmOI8i9YNZAqHT2WI7jGH3g+edYHQ276wvOkJyeLVWpWB2PbxsO2EAhX0P5Wi+ZYft/zq4F7xINbz1XSZAe38ElOtBYNDNrFJ2daX7Tp/mNbsZzkDeeuHwqSlFxaSOodofZwBiAHJ1EaWNgqczrIO27bUqSB8GHtiQ0PIE8Nn+YGkus3Zy/hyBqFNbdofMOQdijqRV6AAobBxhWI2EO+H+ne0rsybUjcGdKcmDUAQGAicst3dUkS9cGR7YExYepqbz/m+fw0YZ2W/KaCBgDAQuovAQHDEDSBwhHNcIdV+IKvfvsGVOZuyyVu4vxgktVbbnU1emNXv+WPrr4L5r9Y3ChNO/qk7qbYAAAAASUVORK5CYII=",
     "wiki_name": "Lost bag (Green)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lost_bag#Green",
     "equipment": {

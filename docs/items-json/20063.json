@@ -1,7 +1,7 @@
 {
     "id": 20063,
     "name": "Torture ornament kit",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "Use on an amulet of torture to make it look fancier!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4Xu3W/0sTYRwHcEeU7fd+C5QZ02hhKTaV/EoirUIdSzMtRTNNS1raNxuJ1hp9QxhqYaEgyBIpQ4iKoqi/7BPv5/hcn3vulN1uRT/0wJu73XPbvfZ87nnuCgr+/eYj5zj1//Hmo2eJGD2Ziqqk7nRQ8ma7CiPW0gO0OtdPK8/7HFD6n/AMN0CMAoijY5afXqCXqR7LhfEZfXqsKFdIH83dP2tDYQsIh0GLyW5Kz3Spc7F1AuF8if62kaAvmcncUAzCPo8Og1497lUgPnc7EL73dX2KfmzO0s/NhwrkCoMf5X/NIFxUguQ/ZtD8g3Pqsw7KzA9aQNjPEuSzlAEX4psbnyUiFNxnBp8BwrYpsMuG2nhxOX8gHiUdMdZTYUaCRsO7baB3S8MmCHEF4vvCCSQR/sJCMxK02Oa3gd6/HrGC3tz2BsLxE7XFKk3hIpX6qv0qAHHZOEBI1NbyaP5BkYYSaq0LqDAOAYjLNtNsjBYSKitWW0yAj6vXTND3t9PZYtCsIEbheEdLkM40H1ABjiPLttRulAtpaawkv/83MEcQmvEDmMIS1BUpo1hrqQpwHAbJsi2nJ6myvJyCgQCVFBVRZ6xNHc8BZKxBGCEd1NsWovOnD1FpaZUZIBnEZUOqKypUBqMnaele3DJCLhZFY8pvB+qLHlYBTEafbfgNbD9lFih6qo4iTeH8gRiFvqHOIyoDsXJLJIjLxrOM83nthneQHCX08foz0n3UEgnisvF0xwxbX7hkgrBKZ4lBM2bYdqB4/zGV8YuV9KhmD8WjB9W+BOmjhGcfHhtyhHIC6fcR+m4NVdPEQFgl3bDX3JejIx8lGB2A8NjIG4hR6EtcqaW7wzW2SASHywUQVmkJcoEyQE5lQ9/seB1NXz1uCyMwkvJdCCC8dnxYGTNBWINcrENWkCwb+lITjZS8Xm8LoE4gjI5nEGaZEwjHZEn0YK0CCOfJcuUNpJcNx7kEuCAuzu/cjGEQnwsQprwEYQ1yvQ45lU2CsL8TSN4/eQE5lU2C0MevJToI58n7xyMIzX5/OEViZHQQFkUJ4rgAZdvsSI68f/4iaKdmR9rzv3lrvwB/vs2R6meqeQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUElEQVR4Xs3W/UtTURgH8I0o2+/9FkxnTCPDVGwq+UoiWaGOpZmWopmmJZn2ZpJomfSGMNTCQkEQEykliIqiqL/sie+5PHfPPfdMNncLD3y5d/fc7Xx2nnvO5vPt/eYnc0z9/7z56eVEjJ6PR1Vm77fQzJ1mFUasxXtoda6bVl51GVD6l8gYboEYBRBHxyy/uExvZjscA+M1+vQ4UWkh/TT36IILhSMgHAYtzrRTfKpN3YujCYT7Jfrn5gR9Xx/bHYpBOOfZYdDbZ50KxPcmA+F9PzbG6ffWNP3ZeqJAGKMoJ0dFH11r1rTzt2YQBpUg+Y0ZNP/4onqtg9bnex0gnDNIH11rfkcZMBA/3HgtEQXhQ3bwGiAca0P7XKjN19e8A/Es6YihjmI7EjQY2e8CfVzqt0FIWiB+LkwgiQhkZdmRoMWmgAu0/W7ACXp/LzMQrp+uyFapjQRVqkoPqwDEZeMAIVGflge9BzVW51JDZUiFcQhAXLapOmu2kIL8bHXEAviyetMG/fowaWPSBjEK11vqw3S+7ogKcBxZtqVmq1xIfU0JBQIJoAmkj56kWR+AJSxBbY35FGvIUwGOwyBZtuX4GJUUFlI4FKLcYJBaY03q+i5A1h6EGdJBnU0FdOncMcrLK7UDJIO4bEhZcbFKb/QMLT0cccyQ3BT10bVmLflkoK7ocRXAZPTVhs/A8ev6AkXPVlJjbcQ7EKPQ19d6QqUnVuiIBHHZeJVxvq3dzhwkZwl9vP8MtBc5IkFcNl7uWGEbC1dtEHZpxqQEwgpLBhrpPqkyfKWEnpYfoJHoUXUuQfos4bcPPxtyhlKcHbQESH+O0He3r4xGeyIq8eqD9rmcHflTgtkBCD8bnoEYhb6J6xX0oL/cFYngcLkAwi4tQYzSRzc0C2QqG/qmhytp8sYpVxiBmZT/hQDC347PK0M2CHtQGvuQEyTLhr7Z0RqauVXlCqAmEGYnYxBWmQmEa7IkerBXAYT7ZLk8A+llw3UuAQbE4PyfmzEM4nsBwpKXIOxBae9DprJJEM53AsnnxxOQqWwShD7+W6KDcJ98fjIEobmfD1MkRkYHYVOUIE4aIJ+Pt/WdogNl5PPjCSjVpiNTwXIS9/6npiNN0d+zp9tfycIYLHlH10QAAAAASUVORK5CYII=",
     "wiki_name": "Torture ornament kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torture_ornament_kit",
     "equipment": null,

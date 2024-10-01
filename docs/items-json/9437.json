@@ -1,7 +1,7 @@
 {
     "id": 9437,
     "name": "Sinew",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "I can use this to make a crossbow string.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACd0lEQVR4Xu3VfUtUQRTHcfct9Tb6o6JHKpIKiyKCMAqRxEpEKwSxBzQUFDGRMoKoSIp6ZRPfe/mtZ849u9279xb90cBh752Z3fnMzNmZsbF/v/RSHFH7Hy+99HT6ZFqcOlHE/P3jae7usSKE2F6+nDaXxtPGs0sByk+iNbwECQVI4THrTy6mV/Pns4F5p81HjmqE7KWlB6cqKD6BKAR6MXcuLc+eKfryGYHob9Hf9qbT153J0VAC8azVEWht4UIBUt9BIL53sDuVfuw/TD/3HxegRhh+VLMWiEEj0Mqjs30QzxFoZ+VKBuK5JqiXbQMDKbl5tyC7BcQw0N7Lie5AWiXqBKLf6aNHsqAOEKsGgneB3q1e64OIRiDlhQcxc0DC2NXxIFsH6P3r6znozb32ID+QVpI+tj5aoQ/rN7oFEQD8wEpoX2/zhy3+tHmrD/r+dqYuhpKDLEqzttsFiLbfgT5v3R4VRDkczINsDlmYfWclLYi6L9t3RgWVZxArNAgUJbae+Z4F2TaBGhyK5ewiEFEHFEWnIKEIQJy4gPzs9TwoOgHZVeJTAwOin+qU1MNCOcQpXRNDKf8hEYg2n7i662yb7aMt5tqwST0SyG6bxzAI/TzIroj+7vTl2ugMZFGEcoh2e2jSBtBerAJxSltQA1QJiraNNgYYBOI5AtH/48bNPogzqME5lIOEirbEho4FDwLeGkSyepDPIx9CAdK1oe3qDOS3TRdrFMIIRF+Bdp9fzUCcQY3PoWjbNAgztn95mz9+hejbCSjaNguiLUpoQveYtqsliFLdkigsxoYHcShakKIBqG6pIhU2f/4iaFipIqvxv7QrvwB7xAVf87gkMgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmElEQVR4Xs3VfUsUURTH8d134kuI3oZ/WNiDZBgZFUkEYSQiSQ8iWiGIpVQoKGIiZQhSkRj1ym58Z/jNnjme2XbcKbxw2Jm5dzmfuffMva3W2W/tFEfU/89bO72aGU6L0xezmJ+6kOYeDWUhxPbyzbS5dCNtvB4LUP4l+obnIKEAKTxm/eX1tDZ/rZSYe/p8lFG1kO209OTSCRS/QBQCvZ0bSctPr2Rj+Y1AjLfo472Z9GNn8nQogbjW7Aj0fmE0A2lsFYj/He1Op1/7z9Lv/RcZiBznBgay8Nldy6ddby0QSSPQyvOrBYjrCLSzMl4CcS2Qz+5au7QMJFJxc29BdgmIbqC91dvNgTRLPBOIcZcHz5eCZ4CYNRDcC/T53Z0CRNQCqS48iDcHJIydHQ+yzwB9+XC3DPr4uH+QT6SZZIx9Hs3Qwfq9ZkEEAJ9YBe2f2/phib9u3i9APz/NFpjaIIvSW9vlAkTf30Dfth6EIJ+9onWSeZCtIQuz98ykBfHs+/bD04LyPYgZqgJFha1r/mdBtk8guyn67K7lbxeBiF5AUTQKEooAxI4LyL+9rquiEZCdJX6VGBDj9ExF3S1UQ+zSwvQE4guJQPT5wtVZZ/vsGC0xx4YtaoF89qB1QHbZPIYkjPMgOyP63BnLsdEYyKII1RD9dtOkD6A9WAVil7YgoXz2oOWgaNnoI0EViOsIxPjDjYkCxB5UYx8qg4SKlsSGtgUPAt43iGL1IF9HPoQCpGNDy9UYyC+bDtYohBGIsQLtvrlVArEH1d6HomVTEt7YfvK2fvwMMbYRULRsFkRfVNCEzjEtV58g2sklicJibHgQm6IFKWqAWi1t693CA23Y+mkE1GvzyF6wis7Y/9Q8Mgr/nzPd/gDFyE/rvCMTBAAAAABJRU5ErkJggg==",
     "wiki_name": "Sinew",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sinew",
     "equipment": null,

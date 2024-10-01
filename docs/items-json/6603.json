@@ -1,7 +1,7 @@
 {
     "id": 6603,
     "name": "White magic staff",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": false,
     "examine": "A Magical staff.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfklEQVR4Xu3Wz0oCURTHce+LuOgBXLR31cpl9MeFkS2ipo0QQy0UIawUW0WmLoRBzDQGUcSGEGMYlRwG0SYJXRgGvcgv5oZY0P7chV84+w/DnXOvy7WMJIbFkMcQiSSQyRShaTo1isHnW4csn0FRVOh6D7PZFyWKwetdQygURqFQRbttYTL5wHT6SYVi8HhWIUkySqU6B9n2mI8DI0AxuN0rOD48QCWfh2GY6PffYFmvfAhATgzPjw1oqspB3W4fqqrRYWKnJxz099cnwTgx1O6Lv0AkLb6CLEmwOm1azFU0inaziXqphEL6lhaz5/fzwzsaDPA+HGIyGtGC0okETMMQ4fA6MTRrNWrEPIZ8KoWhaYoD0jWyZfdfDGPbFgXEMOi9iIPptFriYJ6qVXEwznNCGEwqHufbWAAQQzgU4je4EJidzQ2UczkxMLvbW3wbNx7K1KCfWzybTEJVFHrMfiCA6/MYitkMtEqFHnQUDOLm8gLVuwI1Zp6DmM8y1zeC3CNpW6un8QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnElEQVR4Xu3WPUtCURgHcJ8vEtIHkGh3anKMXhyMbIiyRQipQRHCSrEpMnUQRMw0LqKIXUIM8YUUEc0kdDAM+iL/uCd8i2afM/SHM907/Pjf555zdLr/sIQwXewhuFw+hEIJqGqJG0UwmdbhcJwhGlVQKtUxGn1xoghG4xrsdifi8QwqlSYGgw8Mh59cKILBsAqbzYFkMidA3W5fLA3GgCIsLS3j+PAA6VgM5XIDrdYbms1XsbTnK3r94lHPj3moiiJAtVoLiqJOMAsGETynJwI0/+uzYLQQsveJCWiMWDBm2oLDZkOzWuFt5MrtRqVQQC6ZRDx4y4vZM5vF8Pbabbx3Ohj0ehPQ77cXEELQ50OjXJZheLUQCtks5/DOhhALBNBpNDg/0WwIJZVts/srhH63K0877fqLLO0QqsWiPJinTEYejHadkAYT8HrFbizBEBOcdrs4wSVoh7CzuYFUJCIHZnd7S+zG+YcU96f6OcXDfj+UaJS7HcK+xYLrcw8S4RDUdJq/nSOrFTeXF8jcxbnbGUeKu818xhAOzDeu/mg5di1O2wAAAABJRU5ErkJggg==",
     "wiki_name": "White magic staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_magic_staff",
     "equipment": {

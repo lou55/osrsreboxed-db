@@ -1,7 +1,7 @@
 {
     "id": 9474,
     "name": "Reward token",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-08-07",
     "duplicate": false,
     "examine": "This entitles you to one free gnome food delivery.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmklEQVR4Xu3U70sTcRwHcL8MGTfGybjhcGMbTvRwylIx3WjTRDabSU1d/phoiSwNK0k21FIwikEZjQhDoSRMMRIWRPUkqCcRPu5Zz6JngdCD/oB3fr/XzR8rCNp5B/WBN4y7B/e69+e7Kyj4P4oPwcErKg7B9IAeGkERrM1ySPRrAiRhHl/lcKVHI6CtZSMeTXG41F2oNkjCfHhgxHKCw4WIqiAJs/2Sx2qzFXM1AuIdqoEkzJuwA+87nAx0s96My1Um9UAvQrZ9oNsNxUh6BIyIRYeNIsgEbTmge14LW9u424Q+F39YKIJXbfZsZNDTFiuW/Ba2tslqE86V8wjbDUqjCAPIedsuhYJoYytNJWxtM0cEjFYWodNpRMDCKYki+DrCs2zHeXw7z+P7mBTa1vpxaW3zddLhpmsLWg2oERT7WJIsZC+G/v4yzOPToBHvugzYaOOQDnCYrtdj2F2IsEOHumKdEiiClWhlTmhjn8/y+BgzYqtn51MQMWAtxGHBr0eiVo9BsRBBuw5uU0E+UQQPu0SsnqnMCb2+eLoCd8JluBEsxUyzAxPHbBhrtCJWY0GHKCDgLILHktdDTrDcKbJG1nvd+0JR9N79U+W4dcKF+dZd1HB9CXo9xUqgJJDc0kZfVTYURaG0pfTJXVSyyYFxrw1DtRZEq80Ilpngc/D5QhH2QAqSW9qMVbFQlLw62hJdXSrkwmyLE5N+e3Z1Ebf5J+SvMXQIe5i8NrmlzEA1Q8kt0ftyS3vPU/yoNV+QvSO/3e/TH3VDrBByriuA+ZMhuJbwIeCzqQU4OAR3U61ITjTC5ZTPi6qz8+FcGkLqegTehlJtgJ49iWMx3Ye5qXZtgJ5vjLKWFlLd2gC9zlxU81/1q9EM5B+ZH3Eu6Fkd9/hUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xu2V30tTUQDHPcgYd4w7xmTDjW060eEca8rSSU4TmTYbNXX5Y6I1ZGlYSbKhloJRDMpIIgyFkjDFKFgQ1UtQLxE+99Zb9BYIPfQHfPPc0537AYG5691DX/jC5dzLPZ/z/Z57bknJf0kugtwRGUUwO6xEkUARbM5ziA8xIHdFhZxQDObpdQ7X+osEaGdNjSczHK70KeQGYjCfH6mxFudwKSQrEIPZfcNjo82IBbcOsaBsQAzmfcCCT0GrAHTbU4ardVr5gF53mrKA7jbqkXDpMGbXHPWnT5Dym/KAHngNQm2TDi0GbfxRQRG87TKnLQI9bzditcUg1Dbt1OJCNY+AWSU1FBEARH/oZqZANLH11nKhtrljOozXatBjVcNn4KSEIvgxxgvejfH4eZHHrwlmmtbWSVbbYgPb3LQ2v1EFt06y3wlJg2TC0OvvUR5fR9T42KvCdheHZR+HWY8SUYcCAUspGvSlUkARrIdr80wT+3aex5eIGjv9e0dBSIXNTg5LLUrE65UYsSvgN5fCoS0pJBTB4147Ns7V5pmOr5ytwb1AFW75KzHXZsHUCRMmmoyIuA0I2nXwWTVwGdgmL9AZRbDWYxcS2RpwZJlC0XsPz1TjzikbFjv2oaKecgy49HlQuW//BzEgMaXtwbq0KRQFpSktn96HSrRaMOk1YbTegLCzDP4qLZotfKGgiDAhBRJTehmpE0yhxOpoSrS6ZKcN8+1WTLeY09WFHGV/QFhth6yOCJOJtYkppYadApSYEr0vppS5n2LHjVkgh4QRxVb3Nw+FHbDX6PLGC5RKvjJXmGs66Y14M3zNpiyAAqdyEBHcT3YgMdUEm1XcL7Jq7+BcHUXyZgjexsp0SrlPHaEIXjyLYWV5EAsz3cUB9Gp7XEhpKdlXHEDvUpel/aoOroKfNYdX0YBIod+/9xqVeWCyDAAAAABJRU5ErkJggg==",
     "wiki_name": "Reward token (Gnome Restaurant)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Reward_token_(Gnome_Restaurant)",
     "equipment": null,

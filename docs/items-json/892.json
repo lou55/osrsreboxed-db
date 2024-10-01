@@ -1,7 +1,7 @@
 {
     "id": 892,
     "name": "Rune arrow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "Arrows with rune heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAoklEQVR4Xu3SsQqCUBTG8XuRBpvdIqVAIRqkoRCUqLWhwcEH8P3f4YvjTQSFs56Dnj8c7vrjU+e2k0c4FXkU1RuHS6kB5XF9fXC6VUiOZx2guuuRP57DqQA1aYSsvA8nDAqYZO/+EFEMFUAKINR8HfFsHS5bh8vW4bJ1uGwdLmXrtPFOC2jC0EsniFpiskj0H/L4xuEzKcCMjQB6xTGWZa2jH9decZyHtIwlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAvklEQVR4Xu2WMQoCMRBFMywWa72d6K6CglisFsqCItpaWFh4AO9/hy/JGNQspLDIBJwHn0CY4vEzRYz5HwicLCAsujNGyzYHKcLqdMF006Eaz5zQumkkpQj7+wPz3dElC6HDpEDdbl2EhVimGprX7rCMuNCniLiMb0dQxNNvJ5xIiLYTQ9uJoe3E0HZiaDsxCLdy8CUUTiTkLWNPG3sXTiWiL1MXojtEuJb8TKGMkJDFt5HFb5DxAlnIKIryA08tn6U4xhM+awAAAABJRU5ErkJggg==",
     "wiki_name": "Rune arrow (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_arrow#Unpoisoned",
     "equipment": {

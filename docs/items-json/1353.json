@@ -1,7 +1,7 @@
 {
     "id": 1353,
     "name": "Steel axe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A woodcutter's axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABj0lEQVR4Xu2WT0vDQBTEu4QQ/AzePAjqQRSkCIoVCTS2hDY11lhr/6iVIj0UPHjw4DefOvtYa22rBdl2Dx14kEAgP+bNZJPLrWVFCpOzUikkeR/NMx/DcoCPevADbtZYlUJ67KNzMQYaPHTx2Gjg7qqGWqmkJ41j3FQquE2qtqEUslMfT6GP10qA4XMPL502+q0Wes2mnm6W4f461TDxhmcTSCE+8vS6+kUBIgwB6A4BCNKu17/urQPRHa5rcClAhOGLq1GEchjqNRGKQLy2DkR3uC7mZzq8SoMZd5gji0AK0YGn3THrmn6RQvG8oJ3hRJ8wHEtQUvdJd2ZJXKI7Bmj+s/+SrGu+O9+ldPWtwoT7nnaHYX5L/gKiTK6sSOpOd35f19IkX2dT9RUDKZzsSLvoznvqABDrvliYlyKpO91ZLMxWpXC45enjwhl3CntSdwfcoaTubJcTYd7dzOm6O7Mu1p3HhQPuUHJcsO7j/+aValx3J2Dy21J3Z9pl8uPMupgfnl8OwBgRxBmYtdzVCJXjMnlXeDgCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqElEQVR4Xu2WzUsCURTFfQyD9De0kRZBtegDQoIiIwaclGHUpsnM/KgMCRdCixYu+s9vnXt72UwfivKYt/DABQce+uOce3yTy61kRIqSk6kU1YsutU9dGlfz9BbnU3C/jVEpio5c6p1PgUb3fXpotej2skGNSoUnCgK6DkO6qddMQylqnrj06Ln0EuZp/DSg516Xhp0ODdptnn6zSXdXEcMEaw4D7RUKJqAUBYcOxzUsCxBgAAB3AACQbhx/PRsHgjuIa3QhQIDBD9d8n6qexzEBCkD4bBwI7iAu7M/P5VUMpt3BHhkEUuTvO+yOjkv/kB48l89K7AzG/4DBaKj0Ny4pqft3d6YgyXNwCe5ooL/PLiWJK+1O+pRIcfWNwni7DruDZX6tzwKCZKcMwEBSd7jzf1xJzXNmQcm/s676bHeMStHxlrQL7kwiC4BQ9/QyZwqEusOd+ZbZqBQdbDh8XVjjTmlH6m6BO5DUHe2yYpm313Ncd2viQt1xXVjgDiTXBequ35szB9J1tyKu4qbU3Zp26f2xJi7sD+4vC+LSMvo+s5isglnpU+8RsnGNmlftoAAAAABJRU5ErkJggg==",
     "wiki_name": "Steel axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_axe",
     "equipment": {

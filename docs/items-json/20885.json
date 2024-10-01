@@ -1,7 +1,7 @@
 {
     "id": 20885,
     "name": "Cavern grubs",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": false,
     "examine": "Freshly hatched. They smell utterly revolting, but they're quite juicy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACq0lEQVR4XtWXXWsTURCGe1hCbqQgSiUVlUbaYBJMDZoSbLBCay2BViLBlvpBi4VKUBB6ISiiIIJ3XvoL/JtjnjOdbpJ129V00/SFge6ym/PszDtzTicmzo+caIyFnLTuXZPqzMVxgXLybrUg60uBLFSCQ6gzB3PyZjMj7dWMLNUCKeYnxgyqeOUfgFLNqJP3a7cGPHXcYk4eV3JSyE2e8Nx/y8nP53cTls/JVjMjK/VAKnOBTE/FPTe0nHx4nZW9dsYbfaWci+lAJy82FKhaCmTyQmpAqFu6l1npPJqTzfoNX5YolAKtNRQoRRiTk8+tsofavj/joWr5S4cLd7O4XpK9hze93xqFqVEAIfXUTktLE5ZFZ5eBjgjGpKXB4OHCYbnCYToyaTf1L+x8F/ZnbWRysvsg3+MfvQfQYvUMsoOx95dne4yrhn7VyI/SzEgXP2gWvYGZR1x/fXr7aBzUZy+nDaQQBJ3FcMS8tHdzftrf555NcSZ0ikC6j5ENSgQIUBi6taxT2z/THZhcH7+tnIqcfHxSOioRQMBYNsK9Sk8FtHzqQJ/2s97EQJElYKKHNidfOln/DD7qnd5/j6GkG6t1UfyPOvmxdceXGCjOT4wAMknmmN7cOyXTJ/k6J787i77jyCT+IpsE/movXPdNYJ05+HaMBlMbF3Fy8mu3pptsWzuSJsB7ZJfMbVSvJp3k2ta8yG7Nl5ByC1JuEQXsD0p3sJP13fd2O+MNz5xiugOVAAY5/zLdxIwBrDfl/JAFnsAbgAJu8OFme1IkknbUt3bFdxXtzpdZ2vlCC5tDBohfuCYoCYB0Ioe0IQ9qg18SBmUwWEB7IfnbwrxCFokUN9so5Pdn8x4Qr1gwi4DEyGQMqP5TQaqKQlrYnufPSOVU/y1Kqijk4BPnQn8AZj01L13KVEQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1ElEQVR4XtWXXWsTURCGe1hCbqQgSiUVtY20wSSYGDQl2GCF1loCrUSCLfWDFguVoCD0QlBEQQTvvPQX+DfHPOd0siebj26tm8YXBrrb3e5zZt6Zczo19f/IiIuJkJHmvWtSmb84KVBG3q3nZHMlkKVScAx17mBG3mynpLWekpVqIPns1IRB5a9YoPLcXAyoRDNq5P3GrYinRn3MyONSRnKZ6ROe+2sZ+fn8bszyGdlppGStFkhpMZDZmWHPnVlGPrxOy0ErZY2+VswM6UAjL7YcUKUQyPQFBxSvzKdWp3Qv09J+tCjbtRu2LP1QDmij7oAUJiEgZORzs2ihdu/PW6hq9tIxVCeLmwU5eHjT+q2em0kyO76cp/aarjRaFoLZpaBjyI4vVxoMHmYhLJcO0zHBINdNvR82tgv9rI0VaP9BtusfH2i5MhYz+3LGPlxd6BqXwNCv6tlxmhm5jx818tbAzCOuvz693R0HtYXLSQPpVmFsZzEcMS/t3SjP2vvc0ynOhE4QyO1jZIMSAQIUhm6uuqltn+kMTK79bSUxoI9PCt0SAQSMZiPcq9ypgJZPHOjTYdqaGCiyBIx/aNMO+9JO22fwkT+9B8eZ5DZW7SIfpLe1jfzYuWNLDBTnJ0YAmSRzTG/uqel7v3FqhavrBwmf+d1eth1HJvEX2STwV2vpum0C7cz+9wcqmtphMUxGfu1X3Sbbch1JE+A9skvmtipXvf1vpFxb8yK7NSsh5RqkXKMfsDco3dFe2nbf292UNTxziukOFM8MznKPjH2ZbmLGAOannD+kgSfwBqCAK7xutidFDBjkOupbq2S7inZnZZp2Vqihc0gB8QvXBCUBkE7kkBY9qMWEUfWvRoMyKCygPiQ/a6hXyCLhb7bRr8VSdCXhivohvz8rW0C8osEsAhIjkzGgwrn0jxUHUkP3PHtGKib6b1GvopCjYMPfnZOikHFg/gAZeYnErNi2swAAAABJRU5ErkJggg==",
     "wiki_name": "Cavern grubs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cavern_grubs",
     "equipment": null,

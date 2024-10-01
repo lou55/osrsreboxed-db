@@ -1,7 +1,7 @@
 {
     "id": 25159,
     "name": "Castlewars brew(4)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-12-02",
     "duplicate": false,
     "examine": "Boosts your skills when drunk.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xt2W/0tTYRTGfX8qQkXRFJ1aUlrLIs3mzFkqpdl06tKslpVaDkVbmtTcCqkoEkIoxBAkQUQThLmSiqJvhJTL0PyLnu55r/fdvNuP273ggYfBvbD3w3Oec94bF7c9imGrdC2Grsv7cKEuB9XlGTh2OFlvKIa5sXLMvLBwDdw04oo9V08oJmBePy+Fq+MALjXs0QtIzowCNDliRu+1fN4+HfLEYGtoht1+Ubgz/sSE7rY8nK/NRkmJBWWWKi2hGByO62GqtzWjusaGisoaFBaatAXqcnZzOZ09QtY6O06fscJkKkNevlFboP6BQSGXqx+9vS7UnmvEibJKHCo4CoNByZJmxTA7+wZ+/zssLvrh8/l5u4qKSvQINRVDR2cX3O4heL33uahdxcWlesBQMfT1ueDxeDblFfnRDajx7wZ3yD3k4aKWmc0ncdB4RGsoBuPKGupXN7Yo/eU4Uu4OIaHVoSUQQ9biB9SqYLJ8S0h/NYlU7zAS29oRb2vSCoqhYGWdA4WKIDOnZpD68CmSOp1IaGnVAoghe+kTqv5soEYFRM8zZ+aRNjKKpJ5bWrkkZ4dg1Mp+/wWGeR/SRseQcueeFi5J7nz8Bkvgn3BoC5D0zrDwFuljE0hxP5BdclxFvNUWKyiG3N9rHCaScj7/4MHOmJhC6vAjJN8eRGL7jVi5JLtzPLCOCulwUhjQ12UR7N2Pn/Hxj6FLDHt/BgRMJOV8/8WDbZhb4MEOdSm+qSWaQPJk0ahTfkIVBrQZbFqQwiXps4S7VNcQLSjG26GGUYscFMGWFiR3SVqSMXCJYb8UZrN0aCQJoOXVYLAnp/n4h7pE18mus9boQalB1KIJFMGenuPjr7hEO2nnqYpowVDJ1wWpMBAUTZ0iclEEezNHyr22ozgm39f0h3L7aFuHAhIQPVOCzW99aTkGd1DUYUJLOUC+RhQo+qVgK1eHBiCRKggXrm1Y/wHQ/hIb3tqbmwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xt2X/0tTYRTGfX8qwkTRFJ2aUlrLopnNmbNUSrPp1KVZLSu1HIq2NKm5FVJRJIRQiCFIgogmCHMlFUXfCCmXofkXPd3zXu+763W/BNsddOBhsI29H57znPPexcX9H8WwWTEths6Le3CuNhtVZek4cjAp1lAMs6NlmH5m5eq/bsQlR24soZiAefm0BO72fbhQv5sDmXJy9IaSM6MATQxb0HMln7cvBnlisNc3weE4L9wZe2RGV2seztZkobjYilJrpZ5QDE7n1S2qszehqtqO8opqmExmPVsnTZeri8vl6hay1Tpw8pQNZnMp8vKN+gL19Q8Iud196Olxo+ZMA46VVuBAwWEYDHKWdAKiYpiZeYVA4A0WFgLw+wO8XYWFxSLUBKMrUHtHJzyeQfh8d7moXUVFJbGAoWLo7XXD6/VuyCfyo3OrlGJo+L3OHfIMermoZRbLcew3HtJz5KkYjMurqFtZ36S052NIvj2InS1OPV1iyFx4hxoNTKZ/EWkvJpDiG0JCaxvi7Y16ucRQsLzGgdQiyIzJaaTcf4zEDhd2Nrfo4RJD1uIHVP5aR7UGiN7PmJ5D6vAIErtv6OWSnB2C0Srr7ScY5vxIHRlF8q07ergkufP+C6zBP8KhTUDSZ4b510gbHUey557skvMy4m32aLnEkPtzlcOEU/bHbzzY6eOTSBl6gKSbA0houxYtl2R3jgbXUC4dTtoC9HlJBHvXwyd8/KPoEkPO96CACafsrz94sA2z8zzYapfiG5sj6ZI8WTTqlB+1tgBtBJsWpHBJeizhLtXWR8olxtuhhdGKHBTBlhYkd0laklFwiWGvFGaLdGg4CaCllVCwJ6b4+Ktdoutkx2lb5FzSgmhFEyiCPTXLx19xiXbS9hPlwqGIuEQZIpmCIdHUKSIXRbA3cqTca9uKQs/XEYBRSn4KpINpW6sBCYjeU4LNb31pOSo7KAowcsk/qPznkq8RBYpeKdjK1aEFiTiMukIHhOC00gUkXKkP1kr73X+tv1iNRyZ0Yq6iAAAAAElFTkSuQmCC",
     "wiki_name": "Castlewars brew (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Castlewars_brew#4_dose",
     "equipment": null,

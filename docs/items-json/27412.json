@@ -1,7 +1,7 @@
 {
     "id": 27412,
     "name": "Adventurer's vambraces",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-09-14",
     "duplicate": false,
     "examine": "The vambraces of an adventurer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqUlEQVR4Xu2T3UrDQBSEuxdSLMUiLZa2WImlFlrwDyn2QhAEQfBCEATf/0FWZpfZnpw0JiZt4kUGhqRh0/0yZ7bVatSoUhm7de0yNhqc2EH32HbaR3WDGXsfDe3N9Mx5Pjy15/2uAKtcxm7mY7uejRwYvZoMXGo1pGXs83Lq/LSYBDgY90ztAGCytPKPPdDL6sJZgsG4h5la8v1CMnYx7jujH71OW8GZAPR6HTkTDGaCMCABVwLMhMLiC9mNUa/jThXhJAz8dnvprkyNwFzHFAuAmVhhCYe0AIbE5NgIQ7/fzQKYBoYJ/AcwDyTLCjBcCYbS4os1EGCkd8HCHw/zkGgOKH+s2QeWlWZqGKVOSW5Ia0g8k6DYIwPKJMrJ3xKSybFPBJIwn+urYD6LjyvX2DwQYeTx1k4W1QQognw9LmLOAaDlRybHIS2fSdjtRh5Mw2AdUi0EhBd1P7KcLKgeS67xpMmPjUC6mLvMjpTYNEvpZdXGGnl/UCgmpE8NDWjZG6xNjm+vip+c309N6a7klYkBfW+WIY0KNk/T9ihXmESW/gVEo0aN9qYfFpcJX2xQ1KMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvklEQVR4Xu2UUUsCQRSFvQ8hiSShJCqZJiYolEVIPgRBEAQ9BEHQ//8hE2emM969brlt5hbsgcOuy+h8e+ZcK5VSpXYqcSsXLnHD1oFr1fddrbpXNJi4q2HbXfSPvMftQ3fcrCuwnUvcctx1i1HHg9GzXsunVkBa4u6mfe/bSS/Cwbhnar8ApkurfzgA3c9OvDUYjHuYqa1/P5fETbpNb/SjUasaOIlAD+dDb4LBTBAGJOB+ACaxsHhDdqPTqPmpIpyGgR/np/7K1AjMdUwxB5gkCks4pAUwJKaPjTD00+UogllgmMDfAAtAuqwAw5VgKC3e2AIBRjsNFn6+HsdEM0CFsWYfWFaaqeEobUp6Q9pC4pkGxR4boGStnPysIZkc+0QgDfOyOIvms+RxBc8HA29L8qEARBg93tbrRZUIRZDXm0nCGkDbUiiFI9PHoa2faVhuRDALg3VIdbUus0KpbT82WRdUg1lnSCRN4dgIZIuZZnaEUJA9lpww1OdltcYafa+htiyJCdmpoQGte4O1Gf9f8io5OV9NzRa6klWSAHpbTmMa3Jwrt9CVrFqN8g6T2KQkRMEwQX8ColSp/6p38546HbB2w2sAAAAASUVORK5CYII=",
     "wiki_name": "Adventurer's vambraces",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adventurer's_vambraces",
     "equipment": {

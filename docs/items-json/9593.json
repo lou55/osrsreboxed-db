@@ -1,7 +1,7 @@
 {
     "id": 9593,
     "name": "Weird gloop",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-08-15",
     "duplicate": false,
     "examine": "This doesn't look like it will do anything interesting.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu2W/0tTYRTGfQkZEwmkfrHIaKGSiq6Y0lDLoaZrsXRr6lq6tfz+ZTrLigqhiCDohyD6e099znjdvDoJeu+E6IWH7d5t9/ncc57z3jU1/RvLSFXnvowMhgdkZGhIxkdHzxvKyO7KsjyemlKQhxPjMh0bOy8oIxv5fE2rjMzG45JOJBSswS00UsxmFaCnq0u6rzar+joC8jQ1KwszM/JoclLCoUCjoIxkkkk1pxqT4RZVPNKi54HlM4Dvdgf9rpaR5VxOluYyasz7WH/wmLaeF2R1cVGzxfFob1CBfQAzeucEGUOMaItXg50B+fT6QIGoGlC2gsmhVldQRi88G22VwsRFNSU3HZcvyNzc/RMCmByxFZAtQG0FnQGRB+6Si4fam09AeFULxG9RtXV/vYxWhQt6jeuJwI8ND0s0EtGbAMhpy7ggJfcanyUqhIDjt5kRh0CEGCivaT3RMnZuws128OxJWgrz8+6BaB3yAnhld24mE5BSplu3C2dAqXvXJBPrkIWJ61p+oAgs00bImTjU3lYROzYAW6kuVX46pNPnFAiY3IMbevFiIiQryZuai9O0PtN5JL6fiF6R8tqqWyBbIS8UplSBtpTnb8mrbM8xGNpWfRg7W0aD+qdgHPMZIOzuOy+K7oGAwJywMjlngenx7+fdweamfCz2y/ulXvdAAGCEIa05LPRpBXjIYk6I7V8Qzn/Y25XPywMK8zbXACCMuHtMv6yF5evGbfm2dUe+70RUHAPN98iVcyDyQ3toCznhrjE8DYhX2yq+5wsQ2bE5IryY2CoBZGEO0pcUElhg+I/kGIZljh4F5MW2rbZKVOjHXkRKyTY992Z7WyfM4f7jXZXRt88mwvxyfV0nCfN3pZIG+XC/rMect5XyDchmiCoxSfVEtZDvQLX5wchOmXfCeE+uKiC+wNhVMSDMtdMFBPn5uT+orw0A8S5rWE//l//rF3mvDs4mgycnAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4Xt2X/UtTURjHPYQMRQKpXywyW6ikoiumJGo51NQWS2fzpaWu5fvLdJYVFUIRQdAPQfT3PvV5xtHrcUrQuZM68GX33t17ns99nu9zzlZV9X8MI0c692GkO9Yl/T09MjQwcN5QRnaWl+Tx6KiCPBwekrHE4HlBGVlfXAyUysjk+LhMJZMKVuESGsnPzSlAW0uLtF6tVnU0RuRpelJmJybk0ciIxKKRSkEZyaRSGpxsjMRqVePxWr0OLN8BfLe1JuxsGVnKZmVhOqOBOU501hzT5vOcrMzPq7c4H2ivUeAQwIy+OUYmIIEoi6vu5oh8er2vQGQNKJvBVE+dLyijE0/21klu+KIGxTeNly/I9PT9EwIYH7EU4C1AbQaZK9bU9LdQRv3AWzJ5tKH6BISrIBDPIls6L0BkhQndwKcJww/29UlvPK4vAZAtmRcgJiTlbuCzRIYQcDyb6fcIhImBcoOeJkrGyo25WQ6ePZmS3MyMfyBKh1wAV3blpjMBKWRadbnwBpS+d00yiUaZHb6u6QcKw9JtmJyOQw31JbFiA7CZblEtjkW1+7wCAZN9cEMnzyejspy6qb4op7WJ5kNxf7L3ihRXV/wC2Qy5UAQlC5SlOHNLXs21HYOhbHYzBsYDEMOoUf8UjHO+A4TVfftF3ld27DAKQXDMSuecBabnv/e7/Y0N+ZjvlPcL7f6BACAQASnNQa5DM8AmS3BMbH+CcP3D7o58XupSmLfZCgARiLcn6JfVmHxdvy3fNu/I9+24inOguQ9feQfCP5SHsuAT3pqA5YD4tKXivlCA8I71EeYliM0SQBZmf+qSQgILDL+RPHcYwxxuBfjFli2YJTL0YzcuhVS9XnuztaUd5nH9cUep9e3ehJlfrq1pJxH8XaGgRj7YK+o5122mQgOyHiJLdNJpIlsodKCgfwhku8ztMI7xFc+E4J/gKAXAzMHuAgL//Nzr1k8XJCSY0ihNfvQnsZwqAuKOYNBycu//58cvq4dD2Z80yRkAAAAASUVORK5CYII=",
     "wiki_name": "Weird gloop",
     "wiki_url": "https://oldschool.runescape.wiki/w/Weird_gloop",
     "equipment": null,

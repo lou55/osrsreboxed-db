@@ -1,7 +1,7 @@
 {
     "id": 12828,
     "name": "Arcane sigil",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-16",
     "duplicate": true,
     "examine": "A sigil in the shape of an arcane symbol.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4Xu3V60sVQRjHcc+/FBH1ohsmUoYXvNbJzPslM1NLzLQsOWmZIVpSomCIiZQRREVR1F828Z3lt83OWeXsOVv0ooGH3TO7e+azzzMzW1b277eMiY+463+8ZczjyXozP1FnIzdea2bHamwIsbXUbjYX28zGwuUYlP8SJcMDkFCAFD5m/dEls5q7GBmY31zzI4pKhMyYxamGPBRHIAqBns22mKV7TfZejnEg7nfR33YnzZft0eJQAnGu7Aj0ci5rQbp3PxDPfd2ZMD/2ZszPvQcWlAjDn+qtBWLQONDy/eYQxHkcaHu5IwLivEBQJlIGBtLk5rcPYnAQKsV+oN3n3emBlCX6fJAg7VdrzdhM8Jus+aC3L3pCEJEIpHnhg3hzgQRpbK0wrb1VZuBmU5ihONC7td4o6PWt0kH0A+KeupbTJtt1znQN1VnM8J3sgaD36/3pgghKyfX6bLnNSt9ooxmZbg2zpUntgugnox83B0PQ9zfThWJoUZCL4lpbf7Ut09DtCya3ci2C4T4XRH/PcPDcp1dDxYJov1eMQPyuOH/UTOQ6QtjdhR57PjjeYo8CkUmB5lav2+PnrRvFgoI9iAz5IMokLPOHucPKcvsJF6QXcEEJNsXgz+JAQmlSl589YmYW+yKQqflu83Rdn4MgmGdP1kbseSogoQjemh1XKOYQGWClVTUct3OLUoI9ceaQnT+TDzvTy5CbJe3GgDgyOCUjNHH9oJw+iF26QAwtWGFxIK6xG3NsvlJps6K9h3DLWt10MnKNz4aboaJA/jzimsrCYJRGA2rJEzyjfvYfystnIzWQUFyrrDlmISxzQiVThoC7H1aB2KVdUAJUAPLLRv+pysO2VAK4oQzFgZhzHzYGQhB7UIJ9KAoSin5WjlsK+vVJUbl8ENkpGcQq80Eqmd6YweiLA+mzoXKlBvLLRr8LYnAXpL2K53QvoJ2VzgiIPSjxPhRXNhfE+UEgd/6kAoormwviGog4kL5jKleJIFp0Be0X/vxR+CA2RRekSAAqtOUjFe78+Yugg1o+Mj/+t9LaL3OfJj6SqaTzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOklEQVR4Xs2VfUtUQRTGd7+JHyEiov7oDZOlDHVRV2sz8219yTZTS7ZNy5JNyzZES0pWMMREygiioijqk008c3nunnscl73uLRx4mNmZuXt+c86ZM7HY4W9x45Zr/Z+3uHmWbzULuaRVYarFzE02WxFic6nHbBS7zfriNQeUPkTN4B4QoQBEaZjS06tmtXAlYBi/saYVhAoFGTfF6bY9UOgBQhHo5VynWXqYsnvRu4CwX0L/3Mmb71sTB4MiEMb0DoHezKctEPfuB4TvfmznzO/dWfNn97EFgo0jdXVW2rpqntt5agLBqAto+VGHD4SxC2hruTcAhDGBtHXV4oEwwBCTG781EIwDgqHYD2jn1UB0QPQS5jQQQXputJjJWe83vKaBPrzO+EBQKCDmhQbCyQlEkPauBtM12GhG7qR8D7mAPq4NBoHe3a0dCPMAwp5k5zmT7r9o+rNJCzN2P10R6FNpOFogCKHEemu63nplaKLdjM90+d5iUksgzMOjXzZGfaBf72d8mNBAEgpr3cNNNkzZe5dNYeVmAAb7JBDmM2Ped1/fZp1A2vo+rXxjCITfDZdOmFyh1wd7sJix49GpTtsTCJ4k0PzqLdt/27x9UCCvBsFDGghhIizyB7mDmyXnIQnEA0ggWRS1ddW8P3MBEYpJXX/huJktDgVAphcGzIsSnwNPyLPna+N2HAkQoSCcGhWXUMgheAA3rbHtlM0thBKwp88ftfmTf9IXnYekl1iNAYQexhEyiImrhXBqIFRpwlQFhBviAsIaqjH6jusJ6xXWHkiGtSl1JrCGZ0N6iEDauqOVgXQeYY1hgTGEhgZ55SF8w3nUH4QXz0ZkQITCWqL5pAXBNYcYMnoI4PJhJRCqtAQilLbuaB6QDhvmzyaO2VARQIoecgEh5z6vj/hAqEEh6lAQiFCYx82RocA8nxSGSwPBOzUD4ZZpIIaMJ4YxzLmA+GwwXJEB6bBhXgLBuARircJ33Aug7ZW+ABBqUOg65AqbBMK4EpDMn0iAXGGTQFgDhAuI7xjDVSMQ2t6K65LOH0oDoShKICoEUCzGsl5JGlBK5k8kQNU2DVkNLFXe+5+ahnRJf3Oo21+9o3DKEne2rgAAAABJRU5ErkJggg==",
     "wiki_name": "Arcane sigil",
     "wiki_url": "https://oldschool.runescape.wiki/w/Arcane_sigil",
     "equipment": null,

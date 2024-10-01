@@ -1,7 +1,7 @@
 {
     "id": 8018,
     "name": "Enchant ruby or topaz",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A tablet containing a magic spell.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xu3W2UrDQBQGYAevBG98BCkqLliVuuGOa63Ufd/rvtWdgoh44Y3v4RP5Qkf+kROmx0maSXLpwI+xSZuv/0yaVFX9j1hDUTJJZCgaHxqi0YEBneG+Phrs6dHpz2R0ejs7qbsjrdPV3q6Tbm2ltuZmnZbGRp0EUIqmRkZoZmzUy+zEuA62sQ8BmNEAMxpYRgLWlErFQSnvxCYEmZuc1JmfnvaC//l4EwcYGoyJUrSYzXonCILU1n17MWHcHGAmClPXUF/vglK0sbDggUyIiTEhMgzjaTVRWFuOKDvID4LjzEgYt8UorCmgIoP8MBIiYx7LKKwpLHRMXSSQOU02iGxL7udj8H5e7Dx1Dotb0Wo+74FsGBPw9VlTFonjbXwWTx1acgJxQ+ZUSQwDsjXVXiRMtsRTh5Yig2zt2DASZmuJpw4gh19uRVtLi2Uf5IKRKNkspg6L2xkU1I48uV/8UM6gnZVlWs7lYoH8MPiiAOE24gTiK81E8XYllN/Cxl+AcKU5g7Cwg1oKQtkwsUB7a6t6HVVqSaL4NRuIt7GoAcLtIzToYH29YksSZkJsXyAWqLC5GdiSDWbbL9uJDDre3v7TkgTIE8v4HYtfa4Bwgw0NOt3d/dMSUAwzT2iDyNckCJe9E+hif7+sJaDQFAKcDRg2DMJzUWjQ/dlpWUsIYIyLA8S9DCA8goQGfZRKdHtyrFsCCkFbSFwgP9aGxPBQ9P70qFE3RwW6OjzQwVQiaA8BmNEuYEcMj1/U28M9vd7d0kuxSKXra53ny0t6PD/XUwu0CzwihgfenHT+RzLjB7dvBZrawfl4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeUlEQVR4Xu3X2UocQRgFYBuvBG98A0U0qMENYxR3XCcG4xLjHpe471sYEBEvcpP3yBPlhf5wSk5T/Vvd0zU1NwELDrYzbfc3p6qn26qqtxE0IqlMKjIiGR8aktGBAZPhvj4Z7O016e/pMfnY1SUfOjtMutvbTTra2uR9S4tJa3OzSQVQkUyNjMjM2GicTxPjJtjGewjARANMNLBEAvausTEEFcUntiHI58lJky/T03HwO/e3cYChwUBUJAuFQnyCLEht3d84NozNAWajMHVNDQ0+qEhW5+djkA2xMTZEhzBOq43C2vJEuUFpEOxnR8PYFlFYU0AR1FlfXwqVBKVhNETH3pcorCksdExdWSB7mlwQ3ZZ+n/vg77nYOXVc3LlAy3NzMciFsQF/ftckonHcxrE4dWjJC8SG7KnSGAIKNdVxNEy3xKlDS2WDXO24MBrmaolTBxC/uXOB1hcXEgfywWiUbhZTh8XtDcpqR588LWkob9Dm1yVZmp0NAqVh8EEBwm3EC8QrzUZxuxQqbWHjJ0C40rxBWNhZLWWhXJgg0Pdvy2YdlWpJo/iaC8RtLGqAcPvIDdpZWSnZkobZENcHCALtra1ltuSCud7X7ZQN2t/YeNWSBugT66Tti29rgHCDzQ063Np61RJQhNkndEH0axqEy94LdLK9nWgJKDSFAOcC5g1BeC7KDbo5Oky0hABGXAgQ9zKA8AiSG/SrWJSrg33TElAI2kJCgXysJSYHCCOS5/s7g7r4sSdnuzsmmEoE7SEAE+0D9sRwvKCebm/k8fpKHi4vpXh+bvLz9FTujo/N1ALtAy8Tw6H/FQ5PAOZl8ACVjD7HfzH+ASOtSPv5rUeOAAAAAElFTkSuQmCC",
     "wiki_name": "Enchant ruby or topaz",
     "wiki_url": "https://oldschool.runescape.wiki/w/Enchant_ruby_or_topaz",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 23856,
     "name": "Corrupted bow (attuned)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A sturdy bow formed from corrupted crystal and wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgklEQVR4Xu2W3U7CQBSE2SdAtKYpFWr5KUiRSkuFgIZAMIAiBI3G+P7vMTJbQWy48QK2MUxysgncfJmznZ1U6qij9iKB+C+KRBCBSrYuz/i/B5aAY9RQ0J1kwPh2ByW9+g2jFEigXxtvgOzzMiytqBJMYB68Y+BO0cgHqOd8tApd9CpDuUJlUIvWBzrlfswdJTCUwJP/KleXP7NVgmxLYNxYwDy1kgPEtWVPcklY2VrRBW9etuFeeNDS6eRABXYII5PZ4ZYSQCFj4K46gmtZKBjGBq5smqpci1y5yufkEMrUNHkqAlorguo4PQTFEJauJwNo6s9XCX67SnMvGUC8O8ypluPAzSmvJz9fGoEmN8/JSvRl+Il26X4rRJVKYOa/yVTvOoMtp+JzUEWPMQOUbrFDsfayvrC2MOWVQE2bL9Itgk28pYTxrFDWYEV3LFoPwegY4Yb1R9mr6NbvSrxr9iaBh8ZcxgJPzuh6Jocdi08Q7xs/BLZRPt4E3jvU3+eof6Avd+H2x8QO7o4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABs0lEQVR4Xu2W3U7CQBCF3SdAtKYptZTyU5AihZYKAQ2BYABFCBqN8f3fY2RmpZQNCd50lwtOMtmkTOBjZjp7Li7OOisVMRCfKBKCMKjmGnSKn0oWA9eoQ1F3CaZVKFCIWZLEIHB6UNZrf5XhQGKWJDEY1qcxkHNTAVsrxWBitgQxWIZfMPLm0MyH0LAC6BT7MKiOqYXKoFadb+hVhkJ1lM0Sg9fgg1qXv3b2QBTAbMVg2lyBeWWrHuqteNtyl9Zey8QsyeID3i50wbv1QctkTgcqdCIwstkD1VICyGgNPNYm4Nk2FA0jhquYpqqq8arc5S0KhDI1jU58rmTo+Y9yqJ47gLAUga3r6oC4ONA8WG42+MNmm/unAYSzg3uq47rgWcrtye5NQ6BZ6y3e6GKmNO2uEQbr6Ae65afEElUqBovgk7Z63x0lKiWGVPHLGBcoVgs9FNpetC9oW3DLK4Gat9+pWgg289cE49sR2WBFM8bbg2BYMYQbN17IV2G1kpb4cKSg7aA/N5e0FvDEmNwvKNBj4RWE84YvArpRvLwRODUoLvHfH4/UDWDSZf43xO8465h+AYAUI0etDCkbAAAAAElFTkSuQmCC",
     "wiki_name": "Corrupted bow (attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_bow_(attuned)",
     "equipment": {

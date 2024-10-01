@@ -1,7 +1,7 @@
 {
     "id": 22751,
     "name": "Ikkle hydra",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": true,
     "examine": "How does it not fall over?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xu2WMYsTURSF8wjDMMMww5AwYSckC4KFbLGQRgSFbSxsLOwsLLbYwkJwwcLCws7CQrCzsBMsBDtBsLcSFiyE7ays/A/Pe+7kzLx5O0ISN0lhLhxm8hLe++bcc4f0erva1dbKWH9li2VsGkV2S1A4tK1RmihQHASbhKoOL7PsggA0iONNATUg00H+VwGo7dJawBqQK8NhLR/malHouusWdMlQ3TA+1LW9UX0lGKEuOehGN8chh5OxyocCBK4HZVkD8QEuQrlaqYweMJtOFAb3dIAQhMW9D4rvcOUEFmFoS7km/f6qcBUQ3SEQNoRwGGC5TtEtN2NutgiXS/gbuIWqAqIrfGpsxg0hOkFAv62UD3YvCuztcEmgrjYQyBWdOUkCeyzyp9CHgu5GfXskQLNgYShTP7kLhHtkoUtP09A+EZ2KDvNMNRMIV1g7yFJ7R4Cuh1X7FwRCVcEDRFf7Hoobj+CItMDVsyysRUD8Dr/HZ7gIh1YINsq0Rp4vQgob348Ddei5AHzdS+z548R+KGL7bhjZN4OohmFLKezXgC1VzZgS6EFcHYDDKDjyZRTbz3OhhTeKoQoZ48RCnETk6OZy4XbLqBN+i9AGCECv8kjdeS/uQLdGhepIAABFEWjFtrnlvtSMjj5fevv9nurnOFW41wL3Ig+1lcwUBwUuI9T/CNNVDRynDVC/p6n9NUkV7keZtFrL/CFfawByq/03hVDn48SeCRQCj2x9dAK/ZiBUu6XfBeTbHAaB/zTPF2BeSjs3AOSX0TYBjA4h9G8FCAOwBSBU27W2drWr/6z+AMGXHPLJQxgyAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACf0lEQVR4Xu2Wv2vbQBzFLYwQEkJC2MhExm4IdCgZUryEQgJZMnTp0K1Dhw4dOhRa6JChQ7YMHQLZOnQrdChkCwS6ZwoUOgSydeqU/+H6fXd+0unsFsc/F3/hIUURdx+97/sebjTWta6VlafcJyssTyVhqFYEhU3r6iSxBop8f5lQZvMiTUcEoFYUlUCPNzcXCVWB9FvZPwWguksLcaoC2Wq3S7kwD/NcP7fdguYMNR7GhXq00SmvBCPUnIPu6cWxyU6vq+VCAQLX7aIogfgBo1C2pipPbzDo9zQM7ukAIQiLexcU/8OVE5gHgSrkGjeb08IZILpDICwIYTPA8jlFt+yM2dkiXCbhr+AmKgNEV/jVWIwLQnSCgG5bKRfseeirw8AATXhMmAy5bSCQLTrzOvbVK5E7hS4U9CxsqgMBGvgTu+SVX24D4R5ZGKejJFAfRO9FO1mqNRAIW3i2nSbqqQDtBqb993KJTo1r3xtx4y0ckRbY+pgGpQiI9/A+/oaLcIjrA2ZCIJRXG3kehBQWfhH52qFjAbjaiNXtu1h9zyP1tR2qz62whGFLKaxXgd2rqjEl0MvIbIDNKDjyoxOpy6HQwid5WwsZ48RCnETkaG8YbnfX/5ax1NNOuC1CGyAAnWahduebuAPtd3KtAwEAFEWgKdtmV/3Uxejz0HvQbGj97iYa7kzgTrJAt5KZ4qDAZYR6RhhTXICuUZw2QN31E/Wnl2i4myKutZb5Q74I5O4xU9lw9s8UQt12Y/VToBB4ZOvcCvxCgOpVb+kvAbkewiDwF8N8AeaTtHMJQKMtRZsARocQ+i8ChAFYCtBo1V2zNXOgpy3bNVfuu+ta1zzrL0MJSWOvmQ3yAAAAAElFTkSuQmCC",
     "wiki_name": "Ikkle hydra (Fire)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ikkle_hydra#Fire",
     "equipment": null,

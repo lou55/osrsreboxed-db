@@ -1,7 +1,7 @@
 {
     "id": 15645,
     "name": "Decorative armour",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-01-16",
     "duplicate": true,
     "examine": "Very decorative armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwUlEQVR4Xu3VoW/CUBAG8L68NC+PEBYCmcBMYTAkmBnEzMTMxBIEAoFAIBAkCMQEYskEYgnJxP7a231lVx6lbOtrOyZ6ySe4QvrLvaMNgqqq+rNSlC2llqJaI8iUElGKWp0gSqN9SBKQTKmg65sgjuCSwDRkSah/BVK0uTK0bhhacZacRT2kGWfKmdRCGnNGnEer6YFzbzTdcYacgkGKXhjz7ICAmTsgwTzZUxDSDwtDKXptmtTpAJScjgsSlMC6OvfRKdoy5qfpuCBBCczFDXhKnXyow3QASk7HBQnqOxgm1Qt56QMvlCJT255MxwUJSmC/wWHBc4FkOi5IUD4wHF27CJCgBJYH5w3CQr+3bAxxkxWFoI/feC62orem5Slt4pufyzmURK5LvEG7FJCxa84qitwA/dAuOPPjnplyJlGkB/CNLwjHVTQIE/MAKbL1XQxydyYJkr4LinsxaBx9xjXsVQTS3SyoPejDAQnKBbmTAwY56n1NR0A4Lix39ArRvcuDcFz4+wOkdb9o0PIUZGYpoPERCM+hPWjgD3Kf1DKdrCDZHzyt8T7T+vaSoFG8P3ifRaBwmAWEwpfLTlVVlVufFN7eo6TNSOMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4UlEQVR4Xu3XsWvCQBQG8DuOcETEIkqHLrq4uFhcujh06dClQ8HBwcHBwcFBcHDo4FDo4FAQOvSvfX0v6YvPU9veJWkpePANXoj58eWZoFLndV6/tjT4pdSloVJTXikRpaFxpZLUmru4ADd03nW7XQZKw2VLZWGcCzyGLKmlfKCCW9KwvrCwqllYYhaYeTWCKWaCGVciGGGGmIfYwD3mzhq4xQwwBYM0PCPmSYAIMxMgxjzGhyBKL0pR7jcHLA0vdXu0HQK57UgQoxjWMblnScMGMd+1I0GMYpjE9bGlq3yoXTsEctuRIEZ9BaOmuhEOvQpCabCVzUE7EsQohv0ERwPOIM8hT0HcjgQxKgRGt65ZBIhRDMuDCwbRQL814gwi44ui0D6dw4PtDXqtx9jSOrv4qZxCcfg4Jxi0PQKy8QqzTMIXoP0onmNm+3t2ghkn4T0Ct0JBdLuKBlFjASANcXWbgeTMuCDel6BsLwONks90jOYqAZmOz7MoBb0LEKMkSDZHGMre3mc7DKLbRcOdvEJM16elckB0u+jnTyBjekWDFocgOz0CGu2B6DmUgvrhIPmk5nZ8QTw/9LSm95kxN38JGmbzQ++zBBQNfEC03L8yxYcwHiCl+IQy417zvP71+gA4XBro2127AQAAAABJRU5ErkJggg==",
     "wiki_name": "Decorative armour (red plateskirt)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Decorative_armour_(red_plateskirt)",
     "equipment": null,

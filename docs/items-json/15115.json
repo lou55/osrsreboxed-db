@@ -1,7 +1,7 @@
 {
     "id": 15115,
     "name": "Steel crossbow (u)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "An unstrung steel crossbow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4Xu2Xy08TURTGe1bExI0bjTaExAYIQtpCoLaBsZqhNmMb2lrbWsqjkEKhIJQqVHwlKsEYEhNl686NiYk745/36bljmUIK3plpMyz4kruY5j5++c7j3rpcF3JchJO/OChCJTOMcwJFeLM0jur0GMpp/3mAIhxU7+FJbgSllA8FbfAflCNghJ8HKeytKsKdhYQX+egtJO/2Qhu/KQslNUlShG/v43heDB65k1b7EPLeQPe1yzJAhAeTqsxECRF+fcng62tNhGsuNiRcCQxeR2/3FXmgzaUS+j0emclniPD7MCtg3pYnhDtxxQPF74av76rZHCJc6uoys6CFSMBwdbEzHCY10GMWpCHCnWAQPW63lcUuXsOOWEzgViKszs8jEY1izO8zuRHh+4cE9tfCAsRCeE6TnkvxSMTEZoRPNRUvF0PCGa4k+bX/FWGvXsdiPg9VUSQ2Jvz4mBRAnDNGvrRVhPr6OqYfpjARCJxxgB6Sz88mUZsJiAQ+fa5tEZ6urAiolKa1OEivJm58BsjJOW0VYbtSEaOYy6FUKDQdatxR3GM6DNIswouNDQHFbnEY+ZsdyUb67Za0Vf19QtS28G5nG/u7u6KSuKz5GpC8AjohEkBcSZy8HCYGcgimIf325tcfA414vRgaGHASinC4ExFA3J/uh8NihEZHnYVqjMfJ5FFLYDAHoRoirC0UsTw7i5lHaXH/GcDH5x3/7qh0gK3ysuhT7JpxB+rD/vvKkvTD2TFuouwaQ76qbuL2sKN/gXQwdotfDAyUjsXa8OizLSNkc9kMMlNTTgM1q1WiX8ie/gCkQH+ArDMD6QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgElEQVR4Xu2X309SYRjHfa5cWzfd1Io5XUyd6QCdEkyRGhI7wQQiIMQf6FAUTZFSsl9b5WzNra287a6btrbuWn/et5739OLZkfAAHQ4Xfrb3Agacz77P87zvS1fXBZZD0L9jIYRichQdIkV4vTqJ0twECglXJ0gRjkt38Tg9hnzciawy/FfKEjHCj+M4Djd8Ip3lqAOZ0C3E7vRDmbxpVMrQhwxC+Pougmc5TzWdRGAAXscN9Fy7LIRcfX31nke4PxMwan4OhJ+fk/jyShHlWgyPiFTcw9fR33PFuNDOah6DdnuLUoRfJykh86YwJdKJ+OzwuWxwDlyt9hDLnCPEEC51dxuxrwMJGZ4uTobLFHD3nhEx+PuEaY8HvTZbkymRSKRWAzcoIiFsLC0hGgphwuVsUIrw7X0UR5t+IdJEef6F2kuRYLCB0hE+lgN4seIVyfAktZCKHsJhpYKVTAYBn89ASoTvH2JCiHtG9st/ENFCqGxtYe5BHFNudx0ptSSfns6gPO8WDWyCjITwZH1dSMUVpYaUOk288UkRE2UYwl6xKFYunUY+m60+lJc8o3iP0YqYJCMhPN/eFlKcFpeRX3MiqeDgmZHWf9sk/lwhyrt4u7+Ho4MDMUk81nwMGDwCzICEEE8SNy+XiYUsSEeLenrz7Y+FxhwOjAwN1Wj2tkE42Q8KId6f7vn9YnnHx62VkutRLFbdEljMMqnTniFsLuewtrCA+YcJcf6dCmvRvzYVVWC3sCb2KU5NnoFytX6/ahCZlkyMN1FOjSVflnZwe1T9C9T2SdSKcVp8Y2ChRDhcvfTpv9MWtGK8FlNJJGdnrUlJi7b5pYylQlo6SqYZfgNVPr6UijBPbgAAAABJRU5ErkJggg==",
     "wiki_name": "Steel crossbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_crossbow_(u)",
     "equipment": null,

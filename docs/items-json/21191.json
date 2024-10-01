@@ -1,7 +1,7 @@
 {
     "id": 21191,
     "name": "Rock golem",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-09",
     "duplicate": false,
     "examine": "Found somewhere between a rock and a hard place.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xu2X30uTURjHPVfSv9CFF3XZrQhhQhAiYpgmYWagDREz0kKGmFljjImZmc3sx9gYQ1SGOESWDEW2LEWkZRL15zzxedbxFS+6qbN50YHD3nfndc/n/T7f5znHior/w/kwUpynYhiZm5sXvz94GqCM5PN7sri0JqHQq3IDGYlGF6Wu7oosLKxKJJKQcDhSTiijqsTjKZmdTcr0dEwmJt6UH2h5OaMKxWJLqpJn8JKB2UBGU5RILMvUVFRhUKir6648efpcamsvlwLKSH+//4QKRiH4HBh4pKlDLVLpGMjIh/WcVhRBOzp8mqpkckWD9/QMqslXVzf0mfn5tIyNPXMFZSSX29WAQMzMxFWVjY2PCmmhqqsv6n06ndVJSq16J3/xL4dRr+AT3pxPFNna2pFMZuvI2Jh8e3tfexOTF2hru+0GyCpDEDwy+OCx7O4WZH//m0KRJhTp7X0om5ufVCnS19BwzQ0QKQEEpaiiQuG7whwe/lQwIIAdHR1XmFQqo887AyItFqr7zj1Nyd7eVzk4+CGfd74oKGYHFiCeRdHGxlY3QDZdb98taABMjjIoZbcN1GENaJ4LBF4caxP/dHg7+uTk+98BjPT1DWnAlpabUlV17uh7qo4qc9iLikGAGhoKaBC6MqqhBHsZKjGbm29oJToHwiP4Bo9wT0AgbdVRhcD5fPe14ljnb5wC4Zvx8dcaBJMDABBr+GVlZV3a27u1wpwD0fBohFQS92trmxowGHypKRsZCWvfaWpq0w7ONQo6A7pw/qz2GltlTJQYHg4d3ZPO1uu3JJvN61p9/VW3QPSd42ceFGCH5xojMzE7QKzV1FxyB0Qa2CI4+3CPh/CPBWINf9EKaIysVVaecQeEX/CFNTXXpM+mBQi8ZNXzprNhtIowcWdnj1aRd94xmibUcQxxcnhvDpB31ikCUWklBrKjCOT921ME4ujBLANUscII7qWpJL750yg7QOnGL5ofLnL65tnvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xu2X30uTYRTHfa6kf6ELkbrspgsRwoQgRMQwTcLMQBsiZqSFDDGzhohiZmYz+yEbY4iKDEXGEnGIy1JEMpOoP+fI57w921h1pc/0ogMPe98973Y++57vOe+7goL/4TyMeOtUhJGpqRnx+wdOA5SRVGpH5ubjMjj4WoEuFhefFJSR6ek5KS+/KrOzyxIMRmRoKHiSKhlVJRxekMnJqIyPh2Rk5O1JquQBxWIJVSgUmleVMgbPm1I2kdESRSIxGRubVhgUam6+J0+fvZCysiv5gDLS0eHPUcEoBK+dnY+1dKhFKR2Xz8jHlQ3tKJI2Nvq0VNHooiZvbe1Sky8vr+k1MzNL0t//3JVKRjY2tjUhEBMTYVVlbe2TQlqokpJLer60tKqLklr1cr/xiGHUK/iEX84riqyvb0kisZ42Nibf3NzV2cTiB9TX33FROpNWhiR4pOvhE9ne3pPd3e8KRZlQpK3tkSSTn1UpyldZed0NECUBBKXoor29HwpzcPBLwYAAtq9vWGEWFhJ6vTMgymKhWu7e15Ls7HyT/f2f8mXrq4JidmAB4loUraqqcwNky/Xu/awmwOQog1L2toE67AHNdYHAy/SYOHYge0cfHf3wu2uMtLd3a8La2ltSVHQu/T5dR5dlz6JjByIJUN3dAU3CVEY1lOBehkqsmpqb2om5QLnfeMTw2h7f4BHOSQik7Tq6EDif74F2HPt8xikQvhkefqNJMDkAALGHXxYXV6ShoUU7zDkQA49BSCdxHo8nNeHAwCstWW/vkM6d6up6neAco6AzoAvnz+qssV3GQomensH0OeWsu3FbVldTuldRcc0tEHMn+5kHBbjDc4yRWZgdIPZKSy+7A6IM3CJ49uEcD+EfC8Qe/mIUMBjZKyw84w4Iv+ALa2qOKZ8tCxB4yapnl4MZZMNoF2HipqZW7aLM847RMqFONoRDGBuZXw5Q5lnHA6LTLFDuJ52Fl8wDyvzt8YB49GB57+U1vA4juS1T9spDqf4WfwLkyTf/DlcAh2s0YJ9GXF7nAAAAAElFTkSuQmCC",
     "wiki_name": "Rock golem (Silver)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_golem#Silver",
     "equipment": null,

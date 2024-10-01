@@ -1,7 +1,7 @@
 {
     "id": 16529,
     "name": "Jewels",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-04",
     "duplicate": true,
     "examine": "The Mayor of Pollnivneach's wife's jewels.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaklEQVR4Xu2Wz0vcQBTHdwghzBISQsSiRYuWKkVpRVgs1MUudEstxaIgtFBBEZFSWqgoKLTQQ6EHD4LgwUNv/T9f5zuPqdkk65qZzUm/8CVkN/PyeT8mSaNxJ2sJGq6dJKg716TVJ01aWwi11xdD2myx3y9F9PF5pI84x3+4Bms6jyW1ZyS1pgJamAxo/n5As2O+CxTDIDCcBTNQgNldiW9krAWUExCCGKgsUBbm88uk4K+visY6VMsJyJT/OpiD1wkdvUkHGlV99lDaAgkdAMYcAKg4nNWMRFBpy7ZxAFTFIauMhB58JGbZtquMsEMsAuQkdJvRcssEeX7QLssS5yT0zGEELJPkCqHEFotL1FuhydSrGpMDYIYse57T1QwBKJKNqjEFbbcj162aEe9atMsyQaEfZsgKc2QRICeeSQBZtMuIq9QbxCYQr0P7HZMTtN+JqT2ldsV4QNOpT2NhFTC+Dmvh+Xvsm63tK6FfDd0ZNYwPpA5YBCv37KjfY8vdVSZBJ29TPVMdFbQ1wZkasEXfo6XAo2XlF8r4HTYgaBNgpkedPj3yYihUCy9UnHfVzVelR2uSYQwQjqZKBsbxO6ifBP14l9Jm06cPyjgakLxRMVQOMMN50pdK0F7o047y1jUweain/lDmpkyCviiYT+FgGGO0FW2sDehXHNBhFBRu3M8b0teuDegilfQ7Ceh4ABRaCmPOaq3QHwUEqFMF9TMuh0JLMWsAwi7EHNUG9HdE/oc6S6Ru4feYK4ZWflPGnGHw8TjAYD/yKr/Zq4ifLwC7VFDnCVcrC4YKoVXm2hphssrerJ/vdMv0D1ieNpOiFkExAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xu2WwWvUQBTGM4QQZgkJIVKpYm0rtoilLoWlQrvogitWpKJQUFBQRKRIC4qCgoKHgoceBKGHHrz5fz7nm+fYcRJ3zSS59YOPZdvMy2/e9ybZIDiVtwS160YSNL7ao63VHm33E+0HawntDNiP1lN6spHqT3zH/3AN1oyuSBouSRosxNSfi2nlfEzLs1ETKIZBYdgGM1CAeXEj+y9jLaBQtz8/7wMldBEDZQPZMK9v5SXv3y4b69CtRkCm/ZNg3t7J6f3dYqrR1euXpC+Q0AVgzAGAysNZz9gIOm1ic+84RVwAXbF35Wusx+BjY56xnewIJ8SjgCOhY0bknrHx/CCuhifjt4SeOYyAvUn3qgniDqHFXXRorgjr1uQCmCHPzB2dzBCAUhnUrSno2TBtelQt8alFXPYGa9QU+mGGXWGO2gBCXADyiMuIu2QXYdcVr0P89ua8gF6NMhouqFNxLqbFIqLZpA4YX4e18MpZtmd3jIR+NYyX1DBelLpgGazayzPRX/Y8XVUS9PFeoWdqpIoOLvBODdhaFNJ6HNKm8k1l/B02IIgJMIsz/NPDMy5XDIVu4YWK72N18y0Z0rZkGAOET9MlA2N+B7UEYyTo8/2CdnoRPVbGpwFxjY6hc4Cxn/QtwkCCXiYRPVd+OgHGhboWtTI3VRK0p2B2k+kwxogVMXYGdJDF9C6NSzf+lx/KSLszoKNC0tc8pg9ToBApjDnrtEM/FBCgDhXUl6waCpFi1gCEU4g56gzo5xn5B+pbLnWEnzLuGKJ8o4w5w+DjcYDBvhwGXQFB/HwB2LGC+p5zt2wwdAhRmWsNTEdAQcCFy68K1waiUxhb7g2r7K45VZv6BSG1kORX+Qp6AAAAAElFTkSuQmCC",
     "wiki_name": "Jewels",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jewels",
     "equipment": null,

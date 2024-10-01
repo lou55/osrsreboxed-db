@@ -1,7 +1,7 @@
 {
     "id": 8192,
     "name": "Gazebo",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqklEQVR4Xu2WYUvDMBCGe3/AL4pDB5M63HAbVkWGA5XBUBn4QRAEEQRB8P//gpM35zVp2rnUTlqwLxxCl7x5cndJjKJW/1fEEo0Q8XSwx4vk4BuqdjAyMAqVxLt1gxG/LSa8vDjk2fG+AUMMu9t1QRG/357w63ycZkazVbGMOrGsAfHHfWKyZOcJVB4sWMTn/Y4xuB51zd9wA+LP5Sm/3Iy8ObKxjQChH8INpGTZDNnfKgOhMRHhBuT0j6+ifgqSrTnAygI9TPs/jJcswXf1mJzI3B8KhLKFTZZy2bvHl2Q+ez+tFZmMKBCixORIxhWNle/uaQvcKPF80ktPVx7KNVhnpuOJx72d1Asn8O4sLtMKYgIwrbfuyt64ZEzdRf2IO1tmPDajHgj8pjd5IJAqu4CbMQX0v/nh39AAQfbR+Arnr1pC0l8wfLw84qfZgJ+vhqYEOOpFoSCY52d0A0CQmGExwPhZLAosDJhsE7slryx50fPPwyq5gPab3VBl2Re9mulv5+UkLzoatMb/c1zJi46TUu7S/DMJUL4vapML1Ag1DghqFEyrVoX6Ak8CcwPQm+VkAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xu2VYUsDMQyGlz/gF8Whg7k53HAbbooMByqDoTLwgyAIIgiC4P//BZG3Mddee569m3IH7oWwcW3Tp0mTNhob/V8Ri9VCxLP+Hi8nB19QlYORgVGoSXe3ajDi1+WYV+eHPD/eN2CwQWu7Kijit5sTflmMkshotNZMoy4s6oD4/W5iooT/004ngQrBokV81msaB1fDlvmNd0D8sZry8/XQAZLvMBfIjv2oNBDuQ7wDSVk6QnZsbSBcTFi8A0ruD+b7QCXTZnMOsKJA97NeznyJEvx+PycQmf6hQEhb3GJJl/aecL5E3u1P4ZxAZCKiQLACixuShux0wdxq04PaOZkiXozbSXX5UGkH2c4sjG0bo/ZO4gsVeHvaLXIVxAnANN96KttxyTh1N/Wt29wy83EY9QHDmHbySCA5pb+BGzEF9L/55ndogCD6uPgKFwWk0vArIE4Fhw8XR/w47/PT5cCkAKWeZQqCdX5ESwGFEmfYDDB+FLMMGwMmXa025WsCQfKiu89Dnrlw7jc90K8A6Ytuo5SvNKAqqz2UkrzouKBadWWdll3nSV50VEqxpvlnEqDwXlQmC1QDGCgN5I9WpNpEx6pWMBvVQZ/Ky8S6S7j/SQAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

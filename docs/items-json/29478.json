@@ -1,7 +1,7 @@
 {
     "id": 29478,
     "name": "Prospector boots",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-04-24",
     "duplicate": true,
     "examine": "Helps you when you're mining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgklEQVR4Xu2VX08aQRTFvTE8SBoNwUCEgAEDBraBQlBprEajhvgnloZSa1Obxge//ze43TPbu3t3YCPqAH3oSeZld9n7m3POLCsr/7VQEdtXlijidCrF/wgUcX793aKAMEAvW8TVzc1FARH/ONjn7/s9Hve6POp2LDhir1CYEShpQy8SxWBu2i2+ank88Jp83mxwv1qJASUPJM6m088Az6QACDDDD+0YzOlunfcq2yHQ+tpawjDicjbjCggi45AACcxxvWaAECnuTx9G3NjKh0DJ0C9S5BIiAxBgPu3sGCCJFMC4H3WFuFsucS2X48LGhokUQKnVVTdQMhSRwaEkIN2vdqlogOCQADmAgSZdkkLr6zrSaUDTY321yAyGA4gMcaDM6AYcEnd0vwAsQA5LDQWRYag+XegGBsGlaXEKEJ5zGBdEZiDiwDA7CgzTcQqQnDDHcQXuoB8SBQYhLn16dOk1tLjoFEgXGYNk5/YwcdH+ggPYEVDgjhTZLqo+yuKidEzH5dAh/7gPh2EvcLJk5+JONpOJuWN3TJ5z4BLxr29jA3RzcWFiAJDeec4HS3LH7hhgBN6eNIOInx4eYkBnR0d80OmERd3K580Sd+wy67gA9AYYKA70eTAIgZr1Om8Xi1zyozOR+t8g7Y4dqQMYiPjx/p5/393FgD72erzru1CrVLhaLpsh8vWWjtlldgADEf/8OjIwo+tr/nJ5aWDanvf35cGCi+Pb24n/LnFHOma//ZWKBsdXdB8uAujq/IyP+33utlrGPd2v6Pm5KwCS0p8cHvKeX25EKf2yfzFnxT8LAHrfaBgglH4JQBCZwmPhBKLwk9EuXBS6s2QQraW7Mj/9AQvjYZSAtcesAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACl0lEQVR4Xu2WX08aQRTFvTE8SBoNwUCEgIIBA9uAEFQaq2mjhvgnloZSa1ON6UO//ze43TPbu9ydZVOREfrQk8zL7sL9zTlnFlZW/muhIravLFHE6VSK/xEo4vz6mxBof2fnNaGwY71sEVc3NxcFRPz96JC/HfZ43OvyqNux4Ii9QuGZQEkbmkkUgblpt/iq5fHAa/J5s8H9aiUCJDBxIOJsOu2iYwEQYIb77QjMx706H1S2Q6D1tbUEd4jL2UwEKP7MTCLjkAAJzGm9ZoAQKe5PH0bc2MqHQMnQM2niEiIDEGDe7+4aIIkUwLg/6Qpxt1ziWi7HhY0NEymAUqur88YGTVxCZHAoCUj3q10qGiA4JEDikHOXpND6uo50GtD0WF8sMoPhACJDHCgzugGHxB3dLwALkMNSQ0FkGKpPF7qBQXBpWpwChOccxgWRGYg4MMyOAsN0nAIkJ8xxXIE76IdEgUGIS58eXXoNLS46BdJFxiDZuT1MXLTf4AB2BBS4I0W2i6qPsrgoHdNxOXTIP+7DYdgLnCzZubiTzWQi7tgdk+e0S/aUZ4r48evYAN1cXJgYAKR3nvPBktyxOwYYgX+BS8S/Hh4iQGcnJ3zU6YRF3crnzRJ37DLruACkYeYG+jQYhEDNep23i0Uu+dGZSP13kHbHjtQBDET88/6en+7uIkDvej3e812oVSpcLZfNEHl7S8fsMjuAgYh/fBkZmNH1NX++vDQwbc/7U8pgwcXx7W3st0vckY7NCSOy/0sHa/LlgYsAujo/49N+n7utlnFP98sRTCD5MnsFdwMgKf2H42M+8MuNKKVfTmH+ruhrAUBvGw0DhNILkP2pVxaZwmPhBKLw8WgXLgrd0SBLghEt3ZW4XMH8Bh8FqUKwYkaRAAAAAElFTkSuQmCC",
     "wiki_name": "Prospector boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prospector_boots",
     "equipment": {

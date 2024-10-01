@@ -1,7 +1,7 @@
 {
     "id": 24873,
     "name": "Carpenter's helmet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-08-26",
     "duplicate": true,
     "examine": "The headgear of a superior builder.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNElEQVR4Xu2U30tTcRjGPcgYZwwiNja24Q5baKgxTLQ1cpxGK+cQzXSirJVTExUDE5EVFhKCF0ERFBRRRBQFQlAQBEJRRAbRRVf9OU897zjnSD9uPLURnAcexrn57sP7fr7fhgYnTpw4+W+jwGpdU4XQUwn0Zrpwsd9XTzAFqe42ZPVO9J84jNGTOm4Wg1gf9qOvvbEeUAr6socwlO/B2KmM9MFUSKDOpV2IhP21hlIwMpBGceSYtDR6HI8nVYG6Ph5A+YgLft+eWkEp6EkeEIiJsV6zmzMebC5EcK8cQiXnlkklY8b6/plbVXcINFnMmZ0u5fFi3oPnsxbUhawbocBeHG1pRFwLobW56W/CWQcZQJSZDs2VB6Rbix68WvjRpSY8mQ1jNe8WEPpE0Q8m9iHZ2SpgFtyuoqB9vyaHXBt240ZBlVLqwVxKXKLUH1e8eLvkwbtLUbxcjODRTFjW1hyPCBhhCJVoi+8WxnpnOBUeeHtcld49reL+GdWcEq+9AbR9RcPr5eqU6NL5jAtzerU21qWgq6PFfGf48LF3zgbxcEKVG/V0WhWRjSl9qnjxftmDz2uaTIku3SoFsVEI4PKgD1O6rVunIJPuMEswllAUdmslKgJTZHpDfwjDKRGIE+LK+C4ZQIVurz0givtzuT6WkPxTrocAX67G8HU9hm8bcXxY1cQhgu8EsgFjZOcV/X0JxWm9qURlTfzl97P5sKzXAFobqtnL/Svkn+vEiRMnTmzlOx1XlcsOdbQtAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACU0lEQVR4Xu2U4UtTYRjFvcgYdwwiNja24eYWGmqMJdoaOdZo5RyimU6UtXJqomJgIrLCQkLwQ1AEBUUUEUWBEBQEgVAUUUH0oU/9OafOc7l3MmrIVq7gHjiMfdj7/nae87wNDaZMmTL130pByXWVBpGIhdGb7MLFfkc9wRTEutuRSnSi/8RhjJ5M4GbOjfVhJ/o6GusBpaAvdQhDmR6MnUqKH0x5BOpc3AKf17nbUApGBuLIjRwT50eP4/GkKlDXx10oHLHA6dizW1AKeqIHBGJirNfw5owNmws+3Ct4UExbJaloUB/fX+uW1h0CTebShqfzGbyYt+H5bAnqQsoKj2svjrY2IhTwoK2l6U/ClQ7SgVhmdmiuMCDeWrTh1cJPLzXhyawXqxmrgLBPLPrB8D5EO9sErARXlRR07A/IIdeGrbiRVcUs9WA6Jl1iqT+u2PF2yYZ3l/x4uejDoxmvjK0l5BMwwhAq3B4SmEhzs7j8tgoqvTNMhQfeHlfFd0+ruH9GNVLi2utAn64E8HpZS4ldOp+0YC6hWT+zKpiuSKvxzvDho++cdePhhCob9XRalSLrKX0u2vF+2YYvawFJiV26lXdjI+vC5UEHphLa1lUBQylIxiOGCUYTioXdWvFLgVlk9ob9IQxTIhAT4sj4LulA2W67AVR+2w6krXa5OT6akLyU4yHA16tBfFsP4vtGCB9WA9Ihgm8HqiEdXdtX9NcmFNN6U/TLmPjJ78/mvTJeHWhtSHu5a4DRpP+j37kcsJJrTGfnKoes5PLfmjJlytS/rB/z48I88J7qJwAAAABJRU5ErkJggg==",
     "wiki_name": "Carpenter's helmet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Carpenter's_helmet",
     "equipment": null,

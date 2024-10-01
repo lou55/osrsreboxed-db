@@ -1,7 +1,7 @@
 {
     "id": 16073,
     "name": "Bob's black shirt",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": true,
     "examine": "'Bob says: A bank pin will keep your items secure.'",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOklEQVR4Xu2W30sUURTHnSfpxR4lfAiRDDNWFDPDzAUxM8M0EdtsU7dt2/zZsojYtrZJrCAhgX/wqc8Zzs51lnZnR40evHCYnZm9537u9/y409Z2Pa7HPxuetGZXNvwFhocfycTEU+nru6/W23tPrafnrlp39x21rq7b0t5+4yrAfIfLy2uSze7K7OyiTE4+V5uefqn38/Ov9Xcy+UxGR5/IyMhjGRx8KAMDDxTuEsE8Sadzsra+KaurnySVysjS0jsFmJtb0uvi4lt9tvDqjczMLMjU1AuFBQ5DURTs7LzlgMUanmxt7cvOzhfJ54uSyWwrHGArK1mFQzV+2z1wGHDAcgUQ1fr7BzSMFwLa3/8hhcKhguVyBVVqY2NPAbknhIBmUik1UxJwjHeoh3Lj45O1EMaE8uTgoCrFYkV2P39VECC4bq6vyVAiIbl0us54jlmouRJeN3wXAtrbO1Ig1LAwGhBX145LJTUDQi3+T2jd0MUGKpWOVSFgkN6AUOlmR0fNXBiMewPCB8qSTxa2GECeHB39OgdDWfOcJAcqDHRSLqv9/HYop98rtTxiDioTPloELSEWEDtjcXZJxfhO6oEKH3NSzOcVxIz3wFB9Fno2hkpjY8l4QOwKqSlndmZA5JMLBMxZtaqqALP7IashdYHK5RN9htJ0+VhALEzZ0ldIyDAQCwCz/T6jECjFlWe8s0bKnErlVOdwH/hqaXi1XRIuStaA6EuEjfdhcxspQFSXuxH80ZMo/xag/HDh3PKHQzMMxHvXrFlybQbUYh55Wl2W0CRiIjF0DgjnvDezpqld+4+RwCxurcLmGVCgeKQRqECpkkNBqfqwBmX5hCJ2jLAJOz6YGwaiQKyFhFf+ywgS186ioDJ8IINy1QHIjgqSlwoLA5niHCURoYJwsZA1RbfKyC8739zcMXXs5LdPkjAQeQVo0NsaDn+iLcQiOGBHwWR/gegW+LVPGAOOBOSe7ISghckNhg9kuWZKRvDpNzGODTvlrb9EmNxgeFKtntX5buLXP79cEHaCOkFyxh2Bb0sJ1G+ifJA/9mdKlArjO6bBxAij3rd9RTbxG07IcHJeZIT9XZbf6/GfjN/cUP3GNpQbcwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xu2W70tTURjH3avojb2U8EWKZJgxU8wMMwUxM8M0EVtm6lpr+bMxRGzNlsQECQn8g5/6nNvXHe9C727amzzwcHd/nOd8zvf5cdbQcDkuxz8bCavPLmwEC/T2PrChocfW0XHHWXv7bWdtbbectbbedNbcfMOuXLl6EWCBw7m5JctkNm1iYsZGRp46Gxt77u6npl6638PDT6y//5H19T207u771tV1z8GdI1jCFhaytrS8aouLHyyVStvs7BsHMDk5664zM6/ds+kXr2x8fNpGR585WOAwFEXBpqbrHliskbC1tW3b2PhkuVzB0ul1BwfY/HzGwaEav3UPHAYcsFwBRLXOzi4XRvzebWmJA5Ww7e1vls/vOrBsNu+UWlnZcoDcE0JA06mUMykJOMY71EO5wcGR4xDGVClhOzsVKxTKtvnxswMBguvq8pL1JJOWXVioMZ5jCjVXwuuHL6ZKAdDW1p4DQg2FUUBcfdsvFp0JCLX4ntD6oYsNVCzuO4WAQXoBodK1xsZj82Ew7gWED5QlnxS2GEAJ29v7cQKGsuY5SQ5UGOigVHL2/cuuHX4tH+cRc1CZ8NEiaAmxgNgZi7NLKiZIxFqg/PusFXI5ByLjPTBUn0LPxlBpYGA4HhC7QmrKmZ0JiHzygYA5qlScKsBsvsu4kPpApdKBe4bSdPlYQCxM2dJXSMgwEAsAs/427SBQiivPeKdGypxy+dDN4V6+6gbSLgkXJSsg+hJh433Y/EYKENXlbwR/9CTKP3geaQThwrnyh0MzDMR739QsuZ4FVGceJVx1KaFJxGSy5wQQznkvU9N0XfuXkcAsrlaheQKS4pGBpAKlSg6pVAUrKOUTiugYYRM6PpgbBqJA1EIiA2khnUWqDAEJylcHIB0VJC8VFgaS4hwlggqvHhrVcLGQmqJfZeSXzjc/d6SOTn79JQkDkVeAqredoVIwUQuxCA7YUXVysEBU0xz86i+MgCMB+Sc7IfjTZK71mICUa1IyEhBNjGNDp7z6S4TJp4yEVSpHNb7lN/z17xGcXz4IO0EdJeffAMm3UgL1w8qHRjV/9DElSoXxP+aUiRFGrW/9izzDb21Syqr5EHfU+ozkN5yQvoW/rXeE/Z2X3/9z/ATQXkbyZUCJ0AAAAABJRU5ErkJggg==",
     "wiki_name": "Bob's black shirt",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bob's_black_shirt",
     "equipment": null,

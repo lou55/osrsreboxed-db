@@ -1,7 +1,7 @@
 {
     "id": 112,
     "name": "Torstol potion (unf)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-12-12",
     "duplicate": true,
     "examine": "I need another ingredient to finish this Torstol potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcElEQVR4Xu3WW08TQRQHcPtFNMYHHzSRBw0qCIqKQsOlKrdWbLhDI5VbW0srWrlWGkKpINC0UKhYUUqICkSj0U92zH83ZzPd3WJvGB+c5KTbnenub8+Zme2JE/9+M5B+6PUfezPQrOc++d0mKaZc9TQxUicFI+LBNorNWSkaeKSDUj9E3nAZxCiAONSYyKuH9GbKnHJjfEefOlJRWSENNPfsgQaFT0A4GLQ40UzBF43SWHzqgTBeRH/f9tDXreHcUAzCMWeHQaszFgnEY9OB8LtvCTf9TProV3JcAmWFwUX5qRmEm6pB4lNjbOhlky5oK9SeAsJxhiBDShmA4MmN7yIIY+1tZ6mr5QxZTKel7+lA20tdhQNxlnBODdqcL5GiufaUAkIZ1aCdlW4FhMgKxPNCDcKT64HCM8XUYDyplE4PtBvuSQW9c+YPwnmAEBhnNluVqDaaqOJmFV0tuSH1qUF7kb7CghAopQhyOJxktw9QT4+N7tytpZLSCjp3vkgDQjb3Y48V0I+PY5li0FJBIgoXZxCXzPXUTV6vly4UXUxbMow92LDnCkKTL4wJmg6E/v7+J+R2j9LoqIeKi68pv0Em1aDD+GCuIHkPQob+BEJ2EG63m8rKbyvlUoMwXgRlsSnKF9MDIdSgoaFhGhlxkNPpoqrqerp8pVwDQnYKCmIUAjfAjsugT4k1KRKrcxSdHaPJwXbqbjRKfccCErOETwaJGBHkd3SSzVyjASVedygg7NIZYtDkFaIH4tcBxnxJxFLifThIa4HnFHD10oD1HllqbikoZAevDTFDOYHU84iXcjrQ+pyPgh4bOTsbqa9FzhKXC6+NgoEYhfPo39/e0MSHyALF5scpNGYnb5+FeptryFRZKo0HCLu0CMoCJYP0ynYUaCcaos2FSVryDZHPbiV7q4majNel8Zhzn6M2BYQ9KIt9KBUklo1BBztxTSTXl2gzNE0rkw6aHu4gR3sDtdZVUlXZJek3eYGwyo4CYVVh3iAzwBwmt2g3tkxvF/0U8XulpY+SyTcsQIYYpC4bzvP7C7EXDys4HCeWAxKG+3lCY8mLIOxBWe9DemVjEJ4Yx3xjdfBq5LEFAemVTQShT/xbgmPezfm1gewUAISmfWq9EDFiqEHYFEUQRxagTJsWySHOn78IOqppkdr43/JrvwGn6WrrORjb9wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Torstol potion (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torstol_potion_(unf)",
     "equipment": null,

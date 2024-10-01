@@ -1,7 +1,7 @@
 {
     "id": 15511,
     "name": "Magic essence mix(2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": true,
     "examine": "Two doses of fishy Magic essence.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTUlEQVR4Xu2W6UtUURjGvf9An4JyxkmbcSlXJjXHxhmXmXEdzVzIL42KFZShieY6Wm6ZmGQm4p5bFCbuG/0BfYugMipMCQtETciZOy5fnu45FxXrU+D1RvTAw2FguPd33/O+5zx2dv+OGOxZdDE4b5Ai0+SK2iLl3wDFoLNOhb4GNaryfMQG4reJAHXXB6I8x1vMrWPg6CiHTOZEgYjLsjwhkcrg4nJaDCgGXl5K+PoGUJj2ewEoueEBL28lPD1F6SUGQUFaBGm00GiCodGGQMs5MDAIfn4qcYDCwvQI0+mh0xmoyW8CR6omClBkZBSioqJRXGyG2VyK7OwcrkqhUJ7xFwOIiKFbFBNjxLvGZLqFIk4ZEYPQUB2MxlgsdSTRfhIRhoiBXm/ggIywPs2g/WNv7yAWFIOAgHO0j9j+FKz3m1BzWSfWhBExdMxJ/1h6L+JH3yW8KIugkBKJ7LChGCiVfjAYwsE+uwJ2MBOWgetYbonFUL4OCme3wwciB6GlJwnsaAFsY4WwjuRju1GF+YZI1KZr6BVySFAM3D188KEhFtahXLDTVbDNVMM2XYHtFgO26tzxpkYPJyfF4QGRaVpoiod18g7YqXIKszFTwa3ltEpb1RIUJvlDKj0hNBRDb/IJczS+tV7YA5osw8ZUGTanb+9WyVJ6BE4nnYUHIoff+wdGrHUmwDpuBjtRygGV8kDcut2VwFep8igyo73g4OAoFBSff4KDQzH/KA7r3YmwjhaDHSuGbbwEGxNmCrQ1lIm1Rj1WK13xqUgOudxFOCC1WovXtdFYbI6D5UkqnSx2NJ+bsgJsjBdic6IIm8NZ+4CuRXnTECcAFJ9/ZutjsNIWT88dOmXDebCN3NrzUDat3g4QCWtyhSuOHZccJBQDlUpNp+vl/RQstJmwMpCL1ee5+D6Yx637Pd+ejtW77hTIz18Ft1OeBwlDxMcMchiSQPa5PRXL/Vf3uzcDSz0Z+Po4Ha8aTUg2RmCuREGvEhJ1Dxxop0IUqC0Ni128v3SkYa41FR9bUjHbbMLbJhMe3kykCTIkJIx+iEAJkm9qkn/CwyP22WD43eR/arVGyNuf3zbyIpKBfvVuruYquJOt/c8GCgWzI/LwP/V/Caef5tmQR0CG22sAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADb0lEQVR4Xt2X60uTURzHPf9Ar4Jyc7lmaum0ltq2dvGyzes0K6XeNBMrqEUWmtdpmd2kIlsh3tMyigrzsjL6A3oXQTcqyogKokzI7dnUN9+ecx6mzd4UuD3VD74cBmPP5/n+zu+c78LC/p8imJfoRbDJIoXdFoOWWtXfAEXQc0aDq606HK9cy4DWyeViQQltokB957RoOpQoZusIIiMVkMnkDIiq8YASEqkM0dFrxIAiSEhQISlJzWC6TqtRvz8eCYkqKJXCXgpx6wj0eiP0BiMMhlQYjGkw8tJq9UhO1ogDlJFhRobJDJPJwkQ/UzjqmihA2dk5yMnJRV2dAw5HA8rLD/EupUO1PkUMIFqEtSgvz4pnzmLWQv+UURhRgNLTTbBa8/G5u4jtJxFhaBGYzRYeyArP9TK2f8LDI8QYeVoEavVGto+4ge2YGrDh1C6TWBNGi7Axp/vHfWUbvl/dgQeNWQxSIpGF2iUClSoZFksmuBu7wd22w31zH76052OwyoSoVbGhdomwg9DdXwRuuBrekRp4hqow69RgvDUbLaUGdoWEyCWCuPi1eNmaD89gBbix4/DePwHv2DHMtlswcyYOT06ZIZdHhcolwqbp3aVCeO4eBXevicH47h/j1ybm0swJCWqKUiCVrgi2S4Td5C5HLj51bJ4HutsI371GTI8dmXPJ3bAE8pWrgu0SYYffi/NWTPZsgWfUAc7VwAM1CED8Otu7RXCpeSnsuQmIiIgMlktC/klNTcf4xQJM9W2FZ7gO3EgdvKP18LkcDGhm0I5JpxkTzTF4XauAQhEdLJcIdDojHrfk4kNbAdzXSthkccNV/JRVwzdag2lXLabvHAgA2puTyEJcEFwS8s/zc3n42lnIzh02ZXcq4R06PK/BcuaeH4iGNUVUDJYtlywmFIFGo2PT9fDsdrzrtOHrzQpM3KrAt9uV/Bqo8a5STJyMY0DJKRrErlbOtW2RWifEDHoY0kD2tqsEXwb2BOpKGT73l+Hj5VI8ctpQbM3Cm/oodpXQqLvI+2jeIQbUuRMfegW9796JNx0leNVegudtNjy9ZMOFg1tZgkxLy2AvEqQEKWxqmn8yM7MCZLH8Kvo9nc4QcPsvOhB9W/ogmoEWai5X8w76s3XKBm2wYPz183/431MQYYTyP+BPtPA3/tn6AXYcxVLAIUQTAAAAAElFTkSuQmCC",
     "wiki_name": "Magic essence mix (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_essence_mix#2_dose",
     "equipment": null,

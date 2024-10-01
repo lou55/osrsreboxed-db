@@ -1,7 +1,7 @@
 {
     "id": 2920,
     "name": "Yellow hat",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": false,
     "examine": "A silly pointed hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnElEQVR4Xu2W34cWYRTH30fGmDHmqqtuo4suWhJ7UdJFWSVJKVaKpWIpWZaSZZN+SLFsWpaWpbSUylKJLqKLdBGxF0t0kS4ioj/h5PMcp3neeSfvu2lmbvZwLuadZ97nM9/zPeeZTmc9ag0n3dlqOLl5NpbJ0VjGDkRyaOeGNqGcvJlJ5eWtVJZvpPLseirjh6N2gVYWM3k/l3kwgK6djmX/cCsqOfn6OJfVB5l8mM/k7awCLVxMZHRvKyo5+fY0l8+PMvl4P5N3dwugieOx7NvRuEoF0KcFBcJHAN0ej71KQ5sbg3Ie4vvzXL4sZd5HBrR4WYEwNypt2tipG8r5riLxjfkIYxvQzLlELp3QsjUARJQHofsDZCVDoeGtjQGFoeWzLpufTHzrH9sTya5tjQM5b2ra/vWdVJamE5m9oOVqAUjnUNhh5h/avgGg0DN6Harz5KqWC//UDKQQ+IK3Z9MqdR5OJXJvIvEHbU1ACoIfpk4VeWUs9vPH1LEzjHLhH8D/M5CChACWbEaijh2qVi4DYt35o1EFUDkHClcJQFIK8ueLvBKI+UNJeY4ZBJDNIYYopeUZjptfr/JBodQrZQhLDPtjWY8L8w+b0e4GhKoAHdldAPE7HmMtLwHYmoDKEGGafzjhGYYGZB2G584c7AbK0443PPcBN7ABoPRztAzCG+IP/hTJObsMiA4LgcJPWQPiPh5jjRmfPSh3HyjXA2DJNWlA9lFWbnmATo5E/qtx+xYFogvxGetQiLXs0QfGwvVA8DAZqsbm1vIGZC0PENdsjjpAUybWcr3GTiPKLapp5TTTWzeGI4L7wANEmVAGGOD/AaRfFHAGgYktQyD8YkA1gFRFt3rAoRrlpMwAUcoGQP4WvSVuEWY9mo/fbV8YYaTPwqMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACt0lEQVR4Xu2W34cWURjH58gYM8ZcddXVEl10UUnsRUkXJSVJKVaKpWIpWZaSpaQfUiybYmlZSkupLJXoIrpIFxFdRHSRLiKiP+HJ5zye5rzzvusdamYu6uG5mHfOec9nnu/3OedE0f9oNJz0Zqfh5OqJRKbGEhnfHcvezSu6hHLyciaTZ9cyWbqSyePLmUzsiz3QhpGRLqCcfFjI5c3t3IMBdOlYIrtGO6mSky8PCvl4N5e3c7m8mlWg+TOpjG3vpEpOvj4q5NP9XN7dyeX1zRJo8lAiOza1XqUS6P28AuEjgK5PJL5K61e3BuU8xLcnhXxezL2PDGjhnAJhbqq0amXUNJTzXUXiG/MRxjagmZOpnD2sshlQw36qboTuN5BJRoVG17YGFEUsoIuofNZlc1Opb/2D22LZsq5FIA3nTU3bv7iRyeL5VGZPq1wdAOk+FHaY+Ye2bwGoenj2VufhRZUL/zQMpBD4gq9n0UHVuTedyq3J1B+0DQEpCH6YPlrmhfHE7z9WHTvDkAv/AP6XgRQkBLBkMZLq2KFqchkQ404diPuA+rNWuIEAJFKQP54WA4HYf5CUeexBANk+xCaKtMzhuPn5vKgLpV6pQlhi2O9LelyYf1iMdjcgqgrQ/q0lEL/jMcbyEYDVlFGBqhBhmn844dkMDcg6DM8d39MLVGSRNzzvATewGlXS62gVhC/EH/wpJefsMiA6LAQKr7IGxHs8xhgzPmsg9xAo1wdgyTNpQHYpq7Y8QEd2xv7WuHGNAtGF+IxxVIixrGGyDZHO9UEwmQyrxuLW8gZkLQ8QzyxOdYBGJsbybJ1WA8ai2qKaJqeZ3rox3CJ4DzxAyERlgAG+ClITRiOcVE4u4QwCE1uGQPjFgP4IZFgMgjNAqoacyAwQUjYGMiiWq16YrYAsFyFga1X5Z+MXpOtXdf0ahlQAAAAASUVORK5CYII=",
     "wiki_name": "Yellow hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yellow_hat",
     "equipment": {

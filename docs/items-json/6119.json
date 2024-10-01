@@ -1,7 +1,7 @@
 {
     "id": 6119,
     "name": "Square stone",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-26",
     "duplicate": false,
     "examine": "There is a strange yellow marking on this stone.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcElEQVR4XuWVj2sPcRjH96Rrfa/9BVumWaaZNtPMtM2mmZktmh9FUVbWkiRZUSRJJIlIkkgiikhaEUUU/qtH78/1/uy5ux262/d74qlX37v7PN/P8/o897m7urp/I0QXKD1Ed04u091TgaNkMdF9ewPHgf1xSpASPXQw8EwfTlPDbonOHAliHJ3NpspSosePBTFOnqiPMXdqgVUtLbqyublaUqKrW1tdoTOn45w7m2ZNW5vLr5KUuAIAxS6cr9dLF9NcuRyxtr3dYaVWNDUtlZT4AoBFr12NuHG9EmN9Z6d2dXSkhNjZglLiJrew8K2bFb1zO+Le3YgN67qcUFIKHeUi8L+cUuInt1iJB/cjHj2s6JPHFd3Y3e2kKMYFQIL5yHv2NJeUuAJJKEAJFgCbenp8HqQggTyMvXge6quXob55Hbrx3EIoYrECLIJfYPOSEvNvQ303H+pAb6/rXiEhTEJYhIUAzzFu8ynx4X2onz6GOtzf7+bE3iostLmvz2FXi1+C6xRBHoqDL59D/fa1QUcGB313sNFzCdnVsghXDHBMIEVp5EFg29CQB9cwHzY6XgOFhGwRgPYTygF2hTLbtww7cIw5sNHRnZwvybSQlcKtAFZuMRmAa7Y7yxsbiwllSaEw9gflrMyOrSMOHNvuFPyuSUwoS+rH9wYnlpQB7A42Mz4jBWQYEhOxMnbj8vZQZHJ01HenwKOeFfJbEcpAhGCcj/oSyjDklyJWZtfYmDvHInJ+Jv40ZFGRpAxgd6oow0AByRSZGh/33amBjA2JiVCG3amxDEO8CNgzMeG6U5IMQ7wM5EqWYUT76i+R+Y/iJ7/hUbC/STObAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xt2Xj2tNYRjH96Tbuqf9BVtms0wz7YdmpplNMzNb1vwoipoiSZIoiiSJJBFJEklEES2tiCIK/9Wj7/v2ffecc3dp99xzz/LUp3t+PPd9Pu9z3nPOvXV1/0eILpB7iO6eWqF7ZgqOnMVE9+8rOA4eiJODlOjhQ4XAkdlSatgt0WNHCzFOHC9PxlKip04WYpw5XR/j3NkF1rS26urm5qykRNe2tblCF87HuXSxlHXt7S4/IylxBQCKXblcr9eulnLjumd9R4fDSq1qaqqWlIQCgEVv3fTcuV2MsaGrS7s7O0uE2NmUUuIGt7DwvbtFfXDf8+ihZ2NPtxNKSqGjnAS+V6GUhMEtVuLJY8+zp0V98byom3p7nRTFOAFIMB95r15WJCWuQBIKUIIFwOa+vpAHKUggD+fevI703dtI595H7jzG72lpWYqUF0IRixVgEXwCm5eUmP8Q6cf5SLf097vupRLCIIRFWAhwH+dtPiU+f4r065dIRwYH3ZhYW6mFtg4MOOxs8UlwnCLIQ3Hw/VukP3806OjQUOgOFnpFQna2LMIZA2wTSFEaeRDYMTwcwDGMh4WOx0AqIVsEoP2EcoBdoczObSMObGMMLHR0hw/J1EJWCpcCWLnFZACO2e6sbGxMJ1ROCoWxPihnZXZtH3Vg23aH7zXILFEIITGhclK/fzU4saQMYHewmPEaSSHDkJiIlbELl5eHIlNjY6E7yVs9hQxD/ilCGYgQnOetXkUZhvxVxMpMj4+7fUzCviaqKMOQRUWSMoDdyVCG4X+8lxOZmZgI3amBjA9fQGIilGF3aiYTDwkiYO/kpOtOTjIMCTKQy1mGwT+Fy0LGB0WWhUxW8QewjoD/sWJO1QAAAABJRU5ErkJggg==",
     "wiki_name": "Square stone (Yellow)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Square_stone#Yellow",
     "equipment": null,

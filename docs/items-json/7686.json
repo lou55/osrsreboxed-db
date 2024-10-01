@@ -1,7 +1,7 @@
 {
     "id": 7686,
     "name": "Bow and arrow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": false,
     "examine": "A safe arrow for indoor ranging games.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABDklEQVR4Xu3UwUvCYBjH8T2MMRqiyISh4AQlwggWMtHQpaAm5MGhhYHFOtShgzf//197nWure3vew/uF3Xb4sOfHNE2lkjpC9rBH2FwYmJo6PEPnhhE+SwaeLQOLGNRr6Bj/ghUe4RCD3s6gAS9GRDiWzdO5BKbHjREnurS13G4YMZ7DPmBRAriupV+FNcKgmT8Ra8leWhVJMGIvjRI7JtuLFJh0LzVLAky6Fykw6V4YMdlfVuxFQMomI+Zjv8d2tcJ0NELbdXkxX1GElzDEw2SC/q2HuuNwYUSE16ctHucz3Pk+rjod2NUqF4jwvtthvVzifjjETbf7s6O/bxYUnXYzCwJuSD5pICqV6l/6Bhzbj4gfudM2AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABHklEQVR4Xu3U3YsBURzG8TlN07QSiZooL6022dRINOS1LIqLFStbiAsuXLjz/z8c4zhervmdNN86dzP1ac7TaJqXl9IxyEMew+jDQMvUYRs6NYxh4zcw8RnoHEGFmI7aDezlMeyOoMUZ5Fxh8qnU6dy/8eQY9gHzdF0cU6DG8Cv6CmtXuyHE2JYcsEAQYFzAd8T9KkQIEYMTl1dECOG5e0kGFcHwvcT85Bi5FyUwYi8RnwIYsRclMGIvhBj5l+V74ZCASYhZz2YYDwZoVav4TCRoMdvlEv/DIbrNJkp5G1HLosLwGOZ/Y/R/2qgUi8ik0wiHQhfQ/dNPjmE1neK310OjXEYum73siOzr8N206/UHCAFGpAxEpgzEy+sdOgAdOs6cCmrS2wAAAABJRU5ErkJggg==",
     "wiki_name": "Bow and arrow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bow_and_arrow",
     "equipment": null,

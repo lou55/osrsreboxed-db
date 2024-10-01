@@ -1,7 +1,7 @@
 {
     "id": 26488,
     "name": "Book of balance (or)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": false,
     "examine": "The holy book of Guthix, plucked from the shattered abyss.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xu2X/2tSYRTGfZEhk4siyi5TNtEw0WQhlGyE2KBFo0EDR8ORoy0qsY3oyxhRRBEVRRQxIoqKKKpfon/xdJ9zffW919d5peUGdeDB7c73vZ97nnPOe+fzDRSCbB2IELRSM8k0Rw4ClKDVukml4walkoH9BhJ0+VKcFs/FGCaTGW0BqRpqCGpcjVOxaDBMIBWj4NSEQ0MEFHR9M0ELZ6OUzwVtmHycQjMZCs/me6obcE9ABd28McGaKgRZoxmTjFKaInMFii0eo9hSybNg+x8CCrqzPUnzZ6JsFzIDe8LlLEUXijaQThoYCA+2fH6M90NzdGrRUwi6dzdJ15oJXixhYFV0/mg3hEehFpeqMZo9GeZ9BwJ6cD9Fc6ciNDMdIqOYZKE+3DdBjbmv6YSsQpXKaa7JgWCePE6z5+Vy2Iax6qaXVRiW8uet25Ndf3cAWdmFAPTi+SEvUIK/+OxpmtMKENgEtQt5FwFIByWzAxg0BjKPrvUE9OplhtYujvMibm8rM26r3r3NstTfe8G0gSwY1CL2wsN6gnmzc5gePUxxJ0gQSC1k9aYSTMLogCSM3A+Z9ljQgjdHTUgQLFat0t1QzRTWqjXFQC2YQCLCe3Um+64h6NPHHHcWziwslAXoLmR0lXpjFcgtCYPGkDCwrQ+QoG9f8wyEwaWCuGF0klYBVJUKg+zIgu4Dg7CBMJW7IDBlNRD9pMKMmKFBYHy+Xz8LXMjoKsfGytgfW552HgUaCB0MIKrVC2wTDmZPQBiCyA7GuhyA3OYtEClz5QRLveaGdMP4o0HOOCzzBIMAEDzH7MEBuLGxzVLbFGKg1bJTLUgIQPg+HgowsKpWW+dPz9lBAAivp7Iwm80trdqFbn2Or1UcUoHQGDgaMPxwDUCeYRDy3MLpDtvU6eyGghqNW111g+mO4wa1iD0AVa9fYcsGgrEDCzqS55dqGbKiA1tf3+Qbf/mco53XGQaC7ci43wgMnh19OAElmDokYRGApKTdyDRgkCG8Ye4BjC6cgI7pbXUXakiCyYzhJcww/H8LyB1OwB/fj9CH91muI1iGbCFLQ4Jxh/1fCV51YRdGB844WLZPQAhnxjr6H/9I/AZvnLtN9mh/zQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXklEQVR4Xu2W/0tTURjGdxAZjotDNryo+GWLm7jEGpQoMUzISBISlERpkkYlpkRfRKKIIiqKKEIiioooql+if/HtPu/du869O9vOzJY/9MKDOnfP/dznec97bizWUCkKtC9K0dKiS67buh+gFC0XXRo95lCmP85ARwYG/hWUoksXu2n2bJphPK+t5JCuppaitSvdlM87DBPPpCkx0htSEwEVXdvsoZkzKcoNJQKYXDe1j3uUnMxVVSXgnoAqunG9lzUynGC1eS45o1nqmBqm9OxRSs+PWgux/yGgotvbfTR9OsVxwRnEkywMUmomHwCZZICB8GAL5zp5PWyO371oVYru3umnq+s9fLHAIKrU9OFKCEuhF+fn0jR5Isnr4j6Wu1XR/XsZmjrZQeNj7eTk+1noj+hN0GPRz0yCq9DExCnuSYGxAFL0+FGWMy8UkgGM3zfVosKwlN+3bvVV/D8E5LsLAej5swM2kSn+4tMnWbYVIIgJKjdyDQHIBCXuAAYbA85j11pEpujlC49WLnTxRby9fWeiUb19M8jS/64GUwbyYdCLWAsPaxGZotc7B+nhgwzvBAGB9EbWbypgAmMCEhhZD05bNrTixdETAoKL9ahMN9SdwrV6TzFQCSbe08FryWSv687HD0O8s3Bm4UJpwGgjY1fpN9aBohIYbAyBQWx13FH09UuOgTC4dJAojEkSFUB16TBwRxrayh0AYSpXQGDKGiDqSYdpddsbgYnFfv4Y5kbGrgotrI39zoWx8FFggDDBAGJu7jzHhIO5TlRBYQjCHYx1GYC8zUsgInfpOEv/LAoZhWlJJdhxRGblDgpAyByzBwfgxsY2S9+mEAMtF8IqQUIAwvfxUIBBVIuLq/zT2h0UgPB6Ko25vr5lVLnR/Z9dKxMh6UDYGDgaMPzwGYCs3UHJuYXTHbHp0zkKBa2t3azoG0x3HDfoRawBqGLxMkfWEExQ4ZcmOb/0yOCKCWx1dZNv/PnTEO288hgIscPxFicecid615olTxBcGAYUMH1IIiIAiSRuOA0YOIQ3zF24Y65agKHp7e8u9JCAiWN4CXOclt25Y1O1AL9/O0Tv3w1yHyEyuAWX9swdm9LhEBVedREXRgfOOET219ypX2HHRE1zx1R6pOF4/9fe1y/A2AGb+BA4/wAAAABJRU5ErkJggg==",
     "wiki_name": "Book of balance (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_of_balance_(or)",
     "equipment": {

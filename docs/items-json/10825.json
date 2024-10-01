@@ -1,7 +1,7 @@
 {
     "id": 10825,
     "name": "Yak-hide armour",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-06",
     "duplicate": true,
     "examine": "Leg protection, made from smelly yak-hide.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaklEQVR4Xu3W+0sUURQHcPeHEEUUUVzGQRdXFFZjtUXbFZZUMiyM2iXdzMrMSslCCHtgUvQQ6YUg9qBCwRATKSOIiqKov+zk917OeGf2qjvrGP3QhcM6d+/OfObcM2fMyfn3h4/0oft+x4ePHk8co4fjSRFTNxI0efWoCEYszpylhekzNP+kX4Ny3sS24RLEKIA4nJi5R6foxVSf7cI4xnfOsKNcIX00fas7DYVPQDgY9Gyyl2bupMRafOpAWK+if6xM0LelsexQDMLfnB37dq3HRiD87vvyOP1avUu/V+8LkCsMTsp3zSAAVRDW1VcHKGgaZJQWU2F+npjTgZZmB20g/J0hyGfbBiC4uHGsA9VUmhQw/AK1EWjl+QXvQJwlzDEI6yKhCtoTqrayVF5WJOZfPTiZBnr/csgCIVyBcEIdCHeugprrA9TeXEvh2iDFwlVUacgM6UAfXg/bQW+vbx+EeYAQDGqoNamzpY72RWoEqLBA1pET9HHuorcgBLaSMfHGagECBFuGTAXNUiopyk8DIaOfFy5boJ/vbmeKwbCDVBRO7gQBguOOaGituMvIX1KgBX15M5otCEP2lNl7xzcFoagBwTG2LVTltwrbCfq6eCVbkHxskaHNQChigBA4TrQ1rG1duaij/LxdNhR+o4JcNEX5yOtACJwca4BgEOoGcz0HItptQ3Y8BTEKgQug42JdS0MdNdXLQsbx6a6o6ElokHm5uTsDUrOET85Qa1NYXBwdmrszgkH8CmHQ8tNzFghdOkMMhnzCdCB+HTAI2TH9MjuoL3x2xCJrhV1BpcXrhY3s4LWhZigrkLOOuPtizWDqIKW6WilYadhAl/oT1HuknaKNISouknUEEF4bnoEYhXl+ZQB0eH+MTMOeobHzPTTQ3Unx5t1klMmtBAhdWgW5QEmQbttUEC7a3tJoYRh0c+QEDfd1UUc8QgHTL+bwEHyaH7FA6EEu+pAdpG6bE4RtYRC3BRyPDiTpUNteqqkyvQHhKdsKhDppjYa1oGtDKVFf4VDQW5Bz2zDPoGRnXIQK4l6FOdRYU1i+4/DIqyD0INd9SLdtDOLGyBgnCL/j77HWE5Bu21QQvlP/LVFBWMf9xwMQhry7rULFqOEEoSmqIA4XoExHOpKD31/Izl8EbTbSkenxf2xv/AFaIuMnyLKDMAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADi0lEQVR4Xs3X/UtTURgH8O2HEEUUURzXi04nCtOYa7g2YaSSYWGUki6zMrNSshDCXjApehHpDUHshQoFQ0yklCAqiqL+sie/5/LcnXs8s02v4YGHec/Odj57znOfWx7P7h9e0ofu/R0fXno6cYIej3eJmLrVSZPXj4tgxOLMeVqYPkfzz/o1KPVHbBtugRgFEIeKmXtyhl5N9Tk2xjXeU8OJygrppek73RtQeAWEg0EvJntp5l5SrMWrDoT1MvrnygR9XxrbGopB+Juz4zyuVKQD4XM/lsfp9+p9+rP6UICwPlxZKULdXRlW2vlXMwhAGYR19dV+CpgGGSVFVJCXK+Z0oKXZQQcIfzNI3V0ZXscxAMHFjWsdqKbCJL/hE6h0oJWXl9wDcZYwxyCsiwTLaV+w2s5SWWmhmH/z6PQG0MfXQzYIkRUIX6gD4ZfLoGi9n1qjtRSqDVA8VEUVhpUhHWjt7bAT9P7m9kGYBwjBoIZak9qb6uhApEaACvKtOlJBn+YuuwtC4CgZkwhXCxAgODJkKmCWUHFh3gYQMvpl4aoN+vXhro3JGiSj8OUqCBBct8WC68VdSr7ifC3o67tRLUjdPc2wesrsg5ObglDUgOAaxxas8tmFrYK+LV7bKsi6bZGhzUAoYoAQuO5saVg/ujJRR3m5exwofEYGyU1R3V0Z1i2vAyHw5VgDBINQN5jrORTRHhuy4yqIUQhsgI6LdU0NddRYbxUyrs92xERPQoPMzcnZGZCcJbxyhpobQ2JzdGjuzggG8SOEQcvPL9ggdGnGZATCHaYD8eOAQciO6bOyg/rCa1s8sl7Y5VRSlCpsZAePDTlDGWYHIwVS64i7L9YMJg9TsqOZAhWGA3Slv5N6j7VSLBykokKrjgDCY8M1EKMwz48MgI4ejJNpODM0drGHBrrbKRHdS0apdZQAoUvLIEapu2uGBdIdmwzCpq1NYRvDoNsjp2i4r4PaEhHymz4xh5vg8/yIDUIPyqIPOUHysakgHAuDuC3genSgi4607KeaKtMdEO6yf4FQJ82xkBZ0Yygp6isUDLgLUo8N8wzqak+IkEHcqzCHGmsMWc843PIyCD0o6z6kOzYGcWNkjArC5/h9rHUFpDs2GYT35H+WyCCs4/7jAgjD+b+IdCFj5FBBaIoyiCMLkMfDbX2zUIFy8PML2XEFlOlQkZlgOVJr/9NQkbpQP7Orx1+kJi3Cc6wCcwAAAABJRU5ErkJggg==",
     "wiki_name": "Yak-hide armour (legs)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yak-hide_armour_(legs)",
     "equipment": null,

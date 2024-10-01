@@ -1,7 +1,7 @@
 {
     "id": 27048,
     "name": "Group ironman platebody (unranked)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-06-29",
     "duplicate": false,
     "examine": "A platebody representing your group of two.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu2W+0sUURzFvT+EuIgiyoouKirr4gNXRVdF1we+H/hoU7PNZ2ZmpJmZmGlmZpgZpZCQIEsFQUT/4onzlTuMu/vjXAnywJedHWZnPnu+597vJCRc6/+QQmxdmaIfrODKSrcqMTUZN1xJMdcYglTIa6uBJ1iBrEAJ3H5vTKX78qTSvDlIznHHgXRMCt2tLciuLxOYzCofHk5NYXVhAUmJiTE1PzGBUF+fgBEq2eVyHqi/o0Pc0VDTY2N4NDONx/dmBWJtcVE+l+/P4c7N4UtAqSkpzgMN9/Sgt73NgqILs+Pj4hRBtFs8ZwfKyc6GOyPDeaCRgQGBym2pEig6Q5i5cFhAVh7MW0B3b4UsoDyPB1mZmc4D8V8TarCrS6DoCNvzYmnJapVuHYF4bUlREQpyc8Ulx4GYGd0KrjaC7G9s4OWTZQHRWSIojwlUVlwMX2GhCSgl+elsbkZLQwOa6urw8fUOtp+uSO08W8Xu8zVxia1j2JkxDcKWORzsi1Vmhzo//ozTgwMBo1PvNjcFjM5plwhkKEPUBRT3o7ZgED/PzhA5OcHZ0RFO9vctMDuUNz9fgBxul5aSQGuX2LbGQAD11dWoraxETYUfVeXl8JeWSnYYaEP5sUuJOwT5cfpF2vb18NByaG99Xdxhlpgh7Y5RIObmw6ttK0Of3uzi/dbWJRjuTVyRdI9OGYKhFI7f7kmAS8Pd8I22oyjUisL+RhT01McMX7bOUKC1FLxDTVL+uUGUz/SjbLJX4ErGO+V8fmetBcU5ZmDS26UkzKx4YdZB5upimOlOelqaiWmvpQSExZk1OTpijRTOOW4J3KMISkDDMJTC7aEhKY4Sziwec5zotwECEZj54SrjODEEpPDn+zcBoCPRQCxunHpboENsH10yAKTwOxKRigfE7xqImyaBdK7oEp1zGErh1/m5lH44W2QH0q8mzJE97HSJWeNscxyKFQ9IQ+kc2VcgXdK/jb6jQ9I3vyiuMg1FILYt+proOxhW9MOvHOBa/47+AvUzqDaDFkE6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xu2X60sUYRTGfT+EuIgiK4qKd9bFC66KV7zj/YKumZqZ18zMSDMzMdPMzDAzSiFBQaSCIKJ/8YnnyDvMzm5f4h2/2IHDzg4z8/72Oc97zmxU1P+4HqEQnlcWzoUVPCleK6PjY3HDExN2jUuQCpktFUirL0FKZQGSAr6w9PozJRN86YhNT4oAaSwUOpubkFpTJDDJZX48nJzEyvw8YqKjw3JufByDPT0CRqhYj0eASrKyTEEp9La1iToaampkBI+mp/D43oxArC4syOfS/VncuTkQAhQfF2ceaKCrC92tLRYUVZgZHRWlCKLV4jk7UHpqKpISE80DDfX1CVRGU5lAURnCzI6NCcjygzkL6O6tQQsoMy0NKcnJ5oH4qwnV39EhUFSE5XmxuGiVSpeOQLy2IC8PORkZopJxIHpGl4K7jSB76+t4+WRJQLSXCMpjAhXl58OfmxsC5XzyP4YS/7Q3NqKpthYN1dX4+HobW0+XJbefrWDn+aqoxNLR7PSYBmHJDBv7cpfZoc6PPuNkf1/AqNS7jQ0Bo3JaJQI5PWQIiHEJxX7UUl+PH2dnuDg+xtnhIY739iwwO5QvO1uAXPAQQ4mhtUosW11lJWrKy1FVWoqKkgDKiosRKCwU79DQTv8YBmIoUYcg30++SNlODw4shXbX1kQdeoke0uq4CkTffHi1ZXno05sdvN/cDIFhb+KOpHpUygX/6FA4ersrBi4c64R/uBV5g83I7a1DTldN2PBl6VxoivZQ8AUbJAOz/Sie7kXRRLfAFYy2y/ns9ioLinNMT3rXgGhmZiQzayNzd9HMVMebkGBNe+fTDIQSECZn1sTwkDVSOOfYEtijCEpAO4xrHrodDEpylHBm8ZjjRL8NEIjA9A93GceJSyVT+P3tqwBQEScQk41TtwUqxPJRJReAFH5dXEhGAuJ3DcSmSSDtK6pE5Qx7SOHn+bmkXpwlsgPpVxP6yG52qkSvcbYZh2JGAtJQ2kf2HUiV9L3GjX35sNC/N9xlGopALJvzGg1iFMYeoQuELu4EcBXkb+Fc/MoBrm38AUT53rB4QSBWAAAAAElFTkSuQmCC",
     "wiki_name": "Group ironman platebody (unranked) (II)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Group_ironman_platebody_(unranked)#II",
     "equipment": {

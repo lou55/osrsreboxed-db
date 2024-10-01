@@ -1,7 +1,7 @@
 {
     "id": 1173,
     "name": "Bronze sq shield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A medium square shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtElEQVR4Xu3XzUsCURQF8BlmVYQhiWGCoqExGRlipZAhGAi5SGhhG7FFBbmxLxMxIyIK+qdv3Dfc5qMZx2mu46IOnK38OO+NjpL0n78TGZwbeGQoqxHYy65AYT0Mm3EJMjEJklEJ1sJS0DAzJp9aFs0lQqIbca2RUCAwGSq5qCsoHVsSxcVmDPMGwiaii+IYQwvssJ8YK4iOywqi4lo6zHe8g+wwmVSKA6RhnECTjouODEFsmP2s4gs0k6MyYryAaJ0tVeUA2a9j94Q53R/E6I++7+jrTANyWmd3J88BkqG6vWrC2N2fSSDGdWQ4UBVfIFqnXCzygBBjBXm50AjSf2h9RV9nWpAT5rBU4gER5jcgegWpVSo8GOM6BDLeH7cnDDGIYsFUc2aMG8h6fxCCPT6q8YBwHfwiNNYNZD0u1nUQ5FTEFdIK5JOKLYgwJ/U6D+hzPIaP0Qjeh0N4Gwzg9bEPLw/38Hx3K/p00zOh7ED4Xs2AoeAHTW6/2xUlFIEIc9pocIKmiQbrXV58oxCCxX8eAWOMkeG604GrdlugEHPWbM4ThNHWOm+1ROeMMYbu2H+CyRf531dyM5EwsgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABw0lEQVR4Xu3X3UvCYBQG8I1dFWFIYpjgV2gsI0WsFDIEAyEvErqwG7GLCvLGvkzEjIgo6J8+cd5xcpubc+2kQR147n8+533nJkn/83dGBvvMfGQoqgHYTa1Abt0Pm2EJkiEJokEJ1vzSrGFGTCa+LJKO+EQ2wloCvpnAZCilg46gRGhJBBv7YZg7ECYSXBRr9C2ww8YxZhCtywyiYFsjmOdxD7LCJONxAcrGYl5QGsYONGldtDIE6TEeQDLspRRPIP2qPGJwxttxA6J2tlSVZ1VW7VjdMLvzgxi6+qztTAOya2cnm+Fpp7y9asBYnZ9JIMZ2ZNhXFU8gaqeYz/O1Ywa5OdAIoj9atnamBdlhDgoF3na+A6JXkEqpxN8OgfTnx+mGIQZRLJhy2ohxApnPD0IwR4cVnlVhO/gg1McJZF4XazsIsgvicgkFMlHFEkSY42qVp52P4RDeBwN46/fhtdeDl4cuPN/fwdPtjcjjdceAsgLhezVDOzTmL4fxdNttEUIRiDAntRpHO6OhX2YXgnUuzr9QCMHglwdjO9MPwa5aLbhsNgUKMaf1Om877kdr66zREJlLO+bRr3HuGP38Kgz3fAL7vZf1UswCMQAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze sq shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_sq_shield",
     "equipment": {

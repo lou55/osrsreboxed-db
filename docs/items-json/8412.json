@@ -1,7 +1,7 @@
 {
     "id": 8412,
     "name": "Dungeon cross",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQUlEQVR4Xt2WUWujUBCFG0oRRRQxKBo0xGJCa1lJSNMtlNCyYXe7few+7v//G9N7Jkx645q+jV32wkHf7seZOTP37Oz/OCM6LdXTvWyvP79f6fXlhX4+PdLDZkNt01BVlhRHkSbUiNbrOdX1hMbjsBeiyCfkOg5laUY3Vzfke74W0Ih+fF8zUJZFDARdz68ZII5iFiDapqXVlyXdr++HAYoinxUELl9YlRXVs5oWlwsGBNBte2tcezCwrh7Q8/OGmmbKIK7rsMIgpOlkylAAgkNw5255R9uvW3ZPDaiqfEoSx7hzQb5/zkKZ0DcAgjv4imOQOlBZegcYqJ7NuIEhaWg4Jq6pAi3mAeW5ewRU5Dm7lIwTlg23B1TsIQChZDYQ5ky3qdFHaGqkTBVouzWXLmLyvAvjVMhCyqQ8gLJTNgjQalmYPoooTX2WnTIBkpSpx/7pcW5in7MzceyxACQp68Z+D6TY1LvdlVkbCTuDWQTZsQfQ4LGH0EMyi7BA7YQBQBKmnjKZQ/Zw7EuZ7DKUTRVIYm9Pajtl3V2mnjJ7dQhUX8oANEjKpGS2Qx+lTH259k/q08sVgKpAbZtQUfjmYeYeJCmThEnK3perYskAVF9G5sVoBmLosLI0PbwWAWa/GNVTtlqlNJsG7IwAhUHQG/tBUgYgKRmGI/TpKZNyAebX7huX6eOUKQN1J7WsCEmZJAtuwTl1ILwY7TnUjTj+AQjnUE5VoL7VIY0MMIDsL+9K7YyOYP6+WPXyU+dTL/83zhtR4jkluD66+AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUElEQVR4Xt2WQWvbQBCFY0oQEkJCyEhIRnKsIJvEoaqN4zQQTEJN2zTH9Nj//zem+8aMu1mUnDIKdOFhH4z34828mT05+T/OiF6X6nEvO+jP72d6fnqinw/3dLfdUrdcUlPXlCaJJtSINps5te2ExuO4F6IqJ+R7HhV5QVcXVxQGIQN9OTt7b6gR/fi+YaCiSBgIupxfMkCapCxAdMuO1p9XdLu5HQYoSUJWFPl8YVM31M5aWpwvGBBA1921ce3OwPp6QI+PW1oupwzi+x4rjmKaTqYMBSA4BHduVje0+7pj99SAmiakLPOMO6cUhp9YKBP6BkBwB5/iGKQOVNfBEQZqZzNuYEgaGo6Ja6pAi3lEZem/AKrKkl3KxhnLhjsAKvYQgFAyGwhzxm1q9BGaGilTBdrtzKWLlILg1DgVs5AyKQ+g7JQNArReVaaPEsrzkGWnTIAkZeqxf7ifm9iX7EyaBiwAScrc2B+AFJt6v78wayNjZzCLIDv2ABo89hB6SGYRFqidMABIwtRTJnPIHo59KZNdhrKpAkns7Ultp8zdZeops1eHQPWlDECDpExKZjv0VsrUl2v/pH59uQJQFajrMqqq0DzM/KMkZZIwSdm/5apYMgC154l5MZqBGHusIs+Pr0WA2S9G9ZSt1znNphE7I0BxFPXGfpCUAUhKhuEIfXjKpFyA+bX/xmV6O2XKQO6klhUhKZNkwS04pw6EF6M9h9yI4zsA4RzKqQrUtzqkkQEGEPzOFWAUgHBGL2Dci+3LXbn/9I7nQy/vP0Nf/hewxHVbNtElOwAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

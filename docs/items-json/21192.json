@@ -1,7 +1,7 @@
 {
     "id": 21192,
     "name": "Rock golem",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-09",
     "duplicate": false,
     "examine": "Found somewhere between a rock and a hard place.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEUlEQVR4Xu2WYWvCQAyGvU9DEaVYLCoqKt0Qh86hmzBx+P9/VOZzZ+5qGduHedUPCwRbT81j8iZprfZv0c2I87swI+NRJr1ecg9QRuZPQ2m3WjIYpLcGcpmpPzzIdNqz1zeGMjKdpLLZPHqYuwB6f5tbB2y9np2BKhW5BgoZ4hWY5XIqWdaU0SiRVqteBZSRfr9dyoKxotYz4PK8az0ykJHdbiKv66HVSpI07bU6WUFLeT7wIo84CozsP2bSbDQugADECY5TJgXCAeJzEaCMhSkDFYPP55kt12o18E7ZImnJSC/LpJumNhMERy9k7XDIZbHoeyDe5149KpCWBr0cjy/ePw9L2e+fbacxuYs6iga03Y49EOUCAlcgykOGgAVIh2U0IPSjQFbkp4woFGesELxY3k6S+JFQ/sU/mvEBCO4CGEnTtgep1x0MrkJX+PKvXcEu/zX3urtwHYR4p9OoBsh210mwOuy0sxSEa6DJWiVAzB/EqhsdIDuNz91H5hA+gq8EiJnzHRAgvKdAdBXTW1s/GtBi1vftXBRvWKKuExE4QJxFannMATGVw0OYEzqa0ZJyz7kChc67urlNTxAFQsRkS4E4pwuZO7pwowIRAKBilxWXp9NNKF/waOY0o48UALEmNDBAmq3yNyNa+OcAhWcdBxTxgew3c0BFgWuGdJ+VvxHZQoeFMlWim5/s5gDV2RcPmb/7eRRGkQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKElEQVR4Xu2WYU/iQBCG3U8GQiANjQ0QUSHVEC4IRu9MjnDx//+o0WfXd7v2uE/HVj84yYSWBeZh5p2Znp19W3ZzFvxLmLOreWWTSfEVoJyt7i5tNBzabFZ6oO319WdBhcz0zs9tsZj4a0G1P9mROVvclPb4eBthPjlLAejXz5V3wHa75XuGOhW5AjUZ4hWYzWZhVTWw+byw4bDXBZSz6XTUyoLzotYZcHV94T1z+Zw9P9/Yw+7Sa6UoBv5aTlbQUl3PosgzjgJn+99LG/T7H4AAxAmOUyYB4QDxuQxQzsO0gdLgq1Xly3V/P4tO2aSlE5fO2aSq7KIsfSYIjl7I2uFQ23o9jUC8z708K5BKg15eXrbR/xw2tt//8J3G5E51lA3o6ekqAlEuIHABUR4yBCxAGpbZgNCPgLzI3zIiKM5YIXha3nFRxJFwciAFIHjoGmdlOYogvV6AwSV0wQNzcqD0X3Ov3YVrEOLjcf8oUPsX/9PCZkewGnbqLIFwDTRZ6wSI+YNYtdEB8tP4vfvIHMJH8J0AMXOOAQHCewKiq5jeav1sQOvlNLZzKl4tUVzdBhBnmVoeC0BM5eapMAgdzaik3HMuIHVeFiAFERAiJlsC4pwuZO5o4WYFIgBAaZelyzPopimfPMMMkgXN6JECINaEAgOkbAkiI4ys+ecANc86AUjZywzx0UKwAJQKXBnSPmt/L7M1HaYypd5BqY7Z3wAd6ebflgvgFeCf8iiMANs1AAAAAElFTkSuQmCC",
     "wiki_name": "Rock golem (Coal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_golem#Coal",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1345,
     "name": "Adamant warhammer",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "I don't think it's intended for joinery.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABT0lEQVR4Xu2VMUvEQBCFMyz5DccRNJDDQHKHx4lyHJwoyIFa2FlYWFhYWPj/y5G3y+xu0KjNbgbxwSOEFPPlzcumKP6WiIMnF/Fqv7Lud70GsCEQ3G27KcG+BoLb8zY32DiMAMGLzSICSwo3DhTDwM1p450Q6vdAAhXSSiKyEN8BxVD1so56lUQuIRk6BiUwuIYvMInID8c6jrpjPzQGwjNJBy+QEAgiO+zhwvD10vBZY7g6qSwEoCQduU8MAxE/7ko+rA1vW8N9VfC8mfsV4ZqhO7HIprPvDK9rY9c2q2c+Jdwn/tRjDdNxQ50lJTgTDER8twnpDAdnOZljEb/clL7IGQePKXQHRVYBpCqd56syKvLkcmX+XORJRPx2qywdnD1K0oFcmdXAvB7UpEP8fl/adamBkZN5YiAHg1U9XSpJR2Dwq1AABGX/c//rR30AXMYz9ozPjisAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZklEQVR4Xt2VT0vDQBDFMyz5DKUETUkxkLRYK0opVCxIwfbgzYMHDx48ePD7H0feLrPZhqZ62T/44BGWLMwvb2Y3Wfa/RNw5uojnm7l2u25TADsGgptVExPsNBBc39WhwYZhBAieLqcOmFe4YSAXBq6uK2uPUH8HEihJ62Yy8QFFGuIckAtVzko7V96AACNFh6AEBk85gd6ApDjacdFc2qIuEN5JOvgAj0AQ6WIv94q3M8W3leLiqtAQgJJ0ZC0wXoFe1znvFopXteK2yHhcjW2L8OzPjkcYiHQ6m0bxolS6baNyZFPCWo56EBg3HXO/GEtKcCAYiHi/7NI5LtzBBYP5eMrtIJ8qLOsAMFA3OxhkAervCig6m05gEb8/5naQI8NAZpjdQe7vCCjir+fE0sHdk0g6kBnmZNL53CWTDvH3IdftSiAdAyM3c+R0DAxa9faQSDoCg19F5HREwf/cv0tAkoCJoR8MhHMKyTnXiAAAAABJRU5ErkJggg==",
     "wiki_name": "Adamant warhammer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_warhammer",
     "equipment": {

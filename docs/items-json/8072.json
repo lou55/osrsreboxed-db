@@ -1,7 +1,7 @@
 {
     "id": 8072,
     "name": "Gold candlesticks",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYklEQVR4Xs2WsUoDQRCGM4VIjuPeIYVFQKKRGJEIiSjGGIiK+BABQaxsBEFsJIVwaqEYkBAUFAtBfQBrQbCzEztB8BF+2T3WPe8Oq3AzHxws0/wfsze7m8kMDEK0kiLRcEKvd4x4PRWSwglnpx0+oXg4wff3+YRsuBEgTI6P8QmZ8PVW61es0x7mE7LhtkNChP6rpUZSeFItFQhrzSYmCoXQlgW1hWoVU8Uij5TpxnK9jtF8Xq+ZOqQgHG5k/3SIXcjfjAtZydQhnGxl0V4Zwte9h6cjBzd7jq4xCBHeLl28Xrh4Pnfx0nXxcOCgu80iY7Db9Hnn4WqXVSYM4fvRkyKjILxfCxNS/5IoITVhooTUhIkS6u+ImTCDOQJEENzyjE/XKIGQEBmFQCFxJ7W6y4QIBdP1cetxPswMhFqlop+vi7M1vZ4ulTilSIusNhpYmp/DTLmMkVyOU0hhDsTwNxh+ACpq8Lb/ElzlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4XmNgoBpg/I8uQkeAbjnj/0WLpvzHFKcLwGY54/9ZM7vBYgYKCvR2FDbLGf9PmtQycA6CWY4IJcb/pgb6A+cgmOWhfn5wh3Vnsg+cg2CWIxwwSBwEsnzQOQi3GF0A4/9gb+//Rnp68CiDibnZ2/83NzSEitEVIELD3939v46mJkaU0T2U+nM4UUII3UHoOmgMgOVQPqaDYI4cEAdNLeT8nxnA+v/NFr7/hyZz/V/dxAUWGwAHMf6/uYzn/6UFPP/PzOH5f34uz/+tnVz/55YjHENnB4EAIppebuT7v7x+QB0DAbDC8P02voF3DAIw/n+wCuEgdNkBAIzgtDSoHATKYYPKQaAcNqgctKRmQMoefAC5TTTgAFLLw1qP6LIDACAOGlTlELKD0GUHAKCW1OiyAwAgddkgcRAkdz1ay4fUAxkwwPjfwdoa3Hz1cHQAsy1NTAbSUYxghwR6ev73cnH+b2Nm9l9VUXGgow61+QpzDDUcBABwSyc/MN9cEQAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

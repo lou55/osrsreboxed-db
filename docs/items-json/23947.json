@@ -1,7 +1,7 @@
 {
     "id": 23947,
     "name": "Eternal teleport crystal",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": true,
     "examine": "A powerful teleportation crystal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu3U6VNSYRQG8O5/4oy55JK7ArJcBFkNKhcQFVC5XATZQ3FBM4uZJrSavtmiWU1/5tP7Hrh6dfrQNFz7EM/M8xV+c95z7r17rbTyf0bA73tnufnHR5UK9stlbBcKKGYyKKTTyG+m7gol4KRWw+tqFS+PnuNwbw+7WyWUcrkrSC6ZRCaRQEaW7wIlEObFwQEqOzsoF4s0lduQdFxCSpKQXF/TGiWgenxMk/nw8xLvf1zgHe/383q/fYF8uMNaRvygDDkaRTwS0RIl4PjwkHbmLQcomFsQXqmyTV1fXsJaKKQVqr7EfG9OGeLk6yfULs4gNxBqiFTZQmyfda+ESCCA8Py8dih+UaeXn3Fy8ZEw4WIaK4VNqhrCu867+wzLs7PYz+e1QAkoZTO0wDUGqk9lC8v5VL25JHWJlUPWdorUWPUAAb8fCz7f1Sfj9i//ZQQ6cX5JtfMzeh4+ETVkKbtBDWUSWGw0Wi4g9qqCpx4Pnrjd8DudzUIJyLIT52f9RgE1nkVBqCGLaRnBdBzBzTgCKYnKMTPTdnjttmZNS6BvDD9pZV84aJU9zU2IXIc0MAustscz0NtE6KdEOEURdrMZNpOxOSgpHKaT5ovL92SVPQshlImoprKQjGGKYab8XugYZsJqIYh10gCLXt8MEI+AaDCIlbk5hLJJ2pPIdv4a0eg8YbyEsbJyzLhoJohZp8Pk+HizQDwCnTS/oMV0gk1GRriUpYlwiDjjguh1wcIq+jyw+NywPHJjzGKCcWIChrEx6EaGmwniEQjELyjAQDSZpEQIXrPHSTV5HIQxM+So2Qj96AjGh4YwMjDQbBCPQCCfw8EmI2FuI3YNcTuoRtc0JllNXidGTJMYGxzEcH8/hvr6tADxCARyWa20sAqCIE471eC0Qe+wYchoIMhgby/6H3RrBeIRrkB8adV7wifCn0eZysOeHvR2daG7o0NLEE/9Y6cGKbuihvR0dqKrvR3329q0BilRvsJ/0lZaaeXf5xcRHYuxeOGK7wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xu3WaVNSYRQHcO43acZcckkRN3YQZDWoXMANULmAIHsoqEBmOdOEVtM7WzSr6WP+e54DV5Fppqa4vijOzP8d997fnOecZ1AoOtWp/7ME/Dy3Vjc/fFgu46BYxG4uh3wqhVwyiex24rZQAk5qNbw8Psbzw6eo7u9jb6eAQiZzBcnE40jFYkhFo7eBEgjzrFJBuVRCMZ+nrrRCkhERCVFEfHNDbpSA46Mj6sy775d4++0Cb3i+ntfz5ROi1RJLEZFKEdFQCJFgUE6UgKNqlWbmNQdImBYIj1jepWyurmBjeVkuVH2I+dycMsTJ5w+oXZwh2kA0Q8TyDsIHLPsFBH0+BBYW5EPxjTq9/IiTi/eECeSTWMttU5ohPJs8e0+wOjeHg2xWDpSAQjpFA1xjoHpXdrCaTdSTiVNWWDhko5SnhI8r8Hm9WPR4rq6M1jf/YQm04nyTaudndDy8I82QlfQWZTkVw1IjoWIO4RdlPHa58MjphNdubxdKQJqtOF/rVxKocSwSohmylIzCn4zAvx2BLyFSOGZ2xgq31dKubgl0x/CVluaFg9bZ0dyEROuQBmaRxfJwFmqLCeppE+wmE6wGAyx6XXtQYiBAK80Hl8/JOjsWQkgdaerKYjyMaYaZ9roxxTCTZiNBzFoNjGo1gUbu3Pl7VMjvx9r8PJbTcZqT4G72GtHIAmHchDGzcMyEyUAQw9QUtBMT7QLxEmil+QYtJWOsM1EECmnqCIeYZh0wuR0wspg8Lhg9ThgfODFu1EM3OQnN+DimVKPtBPESCMQ3yMdA1Jm4SAgeg8tO0btshDEw5JhBB/WYChNKJVTDw+0G8RII5LHZWGdEzG+FryFOG0XnmIGWRe+2Q6XXYnxkBKNDQ1AODsoB4iUQyGE208BKCILYrRSN3QK1zQKlTkOQkYEBDN3rkwvES7gC8aFtnhPeEX48Ulfu9/djoLcXfd3dcoJ41S+7ZpA0K82Q/p4e9HZ14S5BZAUpFPWXX//V/VX472UFSSV96HfS+mynOvXP1w8Gras7cGgwDAAAAABJRU5ErkJggg==",
     "wiki_name": "Eternal teleport crystal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Eternal_teleport_crystal",
     "equipment": null,

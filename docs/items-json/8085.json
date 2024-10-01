@@ -1,7 +1,7 @@
 {
     "id": 8085,
     "name": "Suit of armour",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrUlEQVR4Xt3VS0sCYRQG4D5ExAhCkISkJEVDDc0hL6GZYhFFUHSRLigRVCRJ0TJatGofRYsW/YOINv29t94zjEm0jM7QC4dvFgM+nO+ccWDg/8TALlfEIOv1YMPvdQvKoDXodRfoetiHZb/HPaCbT9BMfgexWMU9qNLsAQqFPfh9PjegDNJTK8jlNt0DsqxtAY2OprVBBsFgFKFQEkNDIYTDWQQC41ooIx2JRPIC4hyNjVuCUgDZGG4WQXwulw9l2zKZVR0Qu+GA2BVuWTK5oHtlRLAj7A5PXlt2el0PlEotyYZV5o4El5isIx6vaoCMXBevqlbvYr7Wke4Qp4Bh7K8zh5gnQXzmDKmBiOivYqklV6gEYvjDBo3GuYA42MogxgY5c8T/NGUQY3ogxZXvjw1iccs43MqoL5AzV9/f+OMYtJtq35+f4iqQfUVfIFWUQTwcQDY2IiArEUJ6IqiFMlguRntFEM+GFdED7TZSUvuLaan20pScm9WEBsrg7qqJznpOqrth4WIrj8tmAa21ogaIMXh7PMXrwwle7o/x/nSG59u2FsaJs1n99Tv5ADCAF6YAt6oMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4Xt2WS0sCcRTFu4SIEYQgCUpqiYaONDmkFj3FIowg6SE9UCKoSJKiZbRo1T6KFi36BhFt+nqn7h1m1NbhHTpw+Q8MAz/OuWdmBgb+jwj2eEIE0zeI7YDPK1CExpDPBZpOJLShCHcjflQDg94Buv8BminsI5lc8E5ss3PHKBYPEfD7vQBFMHIbyOd3XCDl6AiWtSdAkYihDUQIhSYQDmcwPBxGNGoiGIxpxUbiSDxeECDeo7GYJVAKLtkw3CwG4uv5+RNp29TUpg4Qu+EAsSvcskxm1Y2sz0AsEgh2hN3hk2Mzp2t6QNnsujRsYfFU4NKTZaRSSxpAJHFxVCvlNpZXWuIOwzkwfQdiAF5iPhmIr3mHFNxhkUB0T2m2IREqAbHsH7NK5UqAeLGVgVg2kLNH/E1TBmKRC6RY+W7ZQDzcMl5uO041dYCcvVKofbcIzXrv+0cRhtUL9Ptun2VH5ACp704qGoSZHBUgKx2GMR7SgiJUSxPuMBCfFSuuFR3hoJKVOVozZJrrOTl3ltIaLhEeb+to1fIy7W0L17sF3NSLaGyV9Fz6fLnAx/M53p/O8PV6ibeHZk/9fz/RBznN6sxfwXwDlao/ygDasPwAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

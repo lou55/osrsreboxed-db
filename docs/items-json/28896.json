@@ -1,7 +1,7 @@
 {
     "id": 28896,
     "name": "Rum",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "A strong spirit with a bold flavour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvUlEQVR4Xu3Xz0sCQRQHcOceQRR0kAoMEkw0pbLAQpAII4iQggiCIEjEzB9JP4iok4mIh4og6WolXiK8228iEpGom5hE/8arNzLr5jXcGcIH39vCfnjzZnmrUv2pCFQiRBHQaprBrG8RAUXg4tAKyQMrRDZNYoAQk9i3wJ7fADZ9J28UgWVHH6xMmmFuVAfm7nb+IN/UAM2sVQtadSt/0MbMEIScFnAO90BHWxN/UGB6kIKWxo38Me4JkwTCWeI41IR2BGcHMRjEOfo1PFAEFux62hHWHQzeNJwjhVGE3qbFMQMFMAwGu4VIhVGEfm9qjwuD3cJjm7f1KomqgNhxfZZKUr7KH/CWz8NjNguXySQkYjHYXQsqB8KuyEEYBro6PxMPdBqPw07A3wD9ymsuB0831xJo27cqBiiTSokHwqHe8nobICnlYpGCnu9uIZNOw0k0CuseDx8QYjB4y8QE/RzZcSQCIbdbeRDDMNDLw714IPwOHYXDEHS56g/C9YOB5BjMe6HAB4Trh3z1YMGVBFcQfGZEp643hhWhCxq+HFcQeXBpw33IbuxSCsOquuDLU/3zUBTDir24Nv+0vgGnfNqrVTtikwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0UlEQVR4Xu3Y3StDYRwHcM+9lCgXC2vKatbGwqjRStKkJFFSSilrMXuxvCRxxVprF0hZboflRtq9d0m0lrgTS/6NH99nPcfhlp3nXPjV9+7U+fR7XvqdU1Lyq2JUiC6KkdlURg5ruR5QjA42XZTacFF0oYmDGo1GmSjGMcl1J60GbeS21sjuEqNJTyNN9zlopNNCjroq2V1iFOhv4Rl2mclsqJAPmh9qo8igkwbb66m6slQ+KDTQykETPXYFIwnEyNfbpICwlyRuasY7gr0DDAKcp9kkA8VorMvKOyK6g+CkYR9pjGL8NI132zhAYBB0C0iNUYzfNz+XC0G3sGyj7gYtUQWQWK63lxcl7/lXesxm6frkhI5SKUrG47QyGy72NfAFQlfUIESAjvf39AfaTSRoORT8B33Lw/093ZydKqClwIw+QJl0Wn8gbOpFv/8fpCT//MxBtxfnlDk8pJ1YjOampuSAgEFwyvQJ+lyy7WiUIj6f9iCBEaC7q0v9gXAPba2tUdjrLT4I44cAqTHIUy4nB4TxQz16iGAkwQiCZzosBgVTRBCK8QENL8cIog6GNsxDXfZarTCivgZ8dcSXh8YYUeKPx/cIiMaYQqlf/teQDyfKDOdO6C2NAAAAAElFTkSuQmCC",
     "wiki_name": "Rum",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rum",
     "equipment": null,

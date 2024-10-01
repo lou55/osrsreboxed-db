@@ -1,7 +1,7 @@
 {
     "id": 10324,
     "name": "Bob's purple shirt",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": false,
     "examine": "'Bob says: Keep your computer keylogger free and virus scanned.'",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQUlEQVR4Xu2W30tUQRSAvU/Ssw8SPoRIhhmaYWaYubGobYppImZmmoiZmSZiYmYsYmsmSCEmRvivnvrO5eyMV9q9e9XowQOH2Xtn58w359fcsrILuZB/JoGUpucm4QbNzXelo6NL6upuqNbWXletqbmmWl19VbWq6oqUl186D7DQ4PDwhExNLUhPz6Ck049Uu7sf63N//1P9nUo9lNbW+9LSck+amu5IY+NthTtDsEDGxqZl4uUbGR9/LSMjkzI09EIB+vqGdBwcfK7vBp48k0xmQDo7exUWOBSP4sHKysseWCIJZG5uRebnP8jMzJJMTr5VOMBGR6cUDq/x256BQ4EDlhFAvFZf36hhPBXQysqmLC5+UrDp6UX11OzssgLyTAgB3Wx/r2qeBBxlDu/hufb2dD6ECaECWV3NydJSVhbefVQQIBh301l5dXNMvqTWTijvUQs1I+H1w3cqoOXlDQXCGxZGA2L0dS+3p2pAeIv/E1o/dImB1ta21EPA4HoDwkuZio68+jAozwaEDTxLPlnYEgAFsrHx7RgMZc17khyo3ooHeTWg/a19Odg+kJ87h/k8Yg1eJny0CFpCIiBOxuackooJjZwE+tGVk8PubYUxIOaBofos9BwML7W1pZIBcSpcTTlzMgMin3wgYI6+H6lXAAKQkPpA6+tf9R2epssnAmJjypa+QkJGgdgAmL3Oz6qAMP7K7OicNVLWZLO7uoZnZ6skCfKnJFyUrAHRlwgb81H1GylAVJd/EOzRkyj/EqDCcGHc8odLMwrEvK/WLBmLAZWYR4FWlyU0idjQcOsYEMaZN7WmSYhREpjNrVXYOgNyHo8lzguUKjnkSjWENSjLJzxi1wiHsOuDtVEgCsRaSHTnv4hLXLuLXGWEQAblewcguypIXiosCmQe5yqJCeXCxUbWFP0qI7/sfvNzx7xjN799kkSByCtAXW8rKOFC24hNMMCJ3OJwg/jq7NonjAHHAvJvdkJQwuICEgJZrpknY9gMmxjXht3y1l9iLC4ggeT+3HVR20XshveXD8JJ8I5LzqTibFtK4P0innf5Y3+mRKkwvmMKLIwhJ23bV2QRu9GEjCbnaSRq76zsXsh/Ir8BpysKvtSyDv0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWklEQVR4Xu2WXUtUURSGnavo2gsJL1Ikwww/wswwc2JQmxTTRMzMNBEzM03ExMwYxMZMkEJMjPCvrnr26Z3Zngk9c9JucsPizPnYaz/7XR97SkrOx/n4ZyNhxdmZjWCBpqbb1t7eaTU1151VV19zVlV11Vll5RVn5eWX7cKFi2cBFjgcGhq3ycl56+4esFTqgbOurofuvq/vsfudTN63lpa71tx8xxobb1l9/U0Hd4pgCRsdnbLx569sbOylDQ9P2ODgMwfQ2zvorgMDT92z/kdPLJ3ut46OHgcLHIaiKFhWdskDizUSNju7bHNz72x6etEmJl47OMBGRiYdHKrxW/fAYcAByxVAVKutrXdhxG9DRUUcqIQtL2/YwsIHBzY1teCUmplZcoDcE0JAN9reOpOSgGO8Qz2Ua2tL5UIYU6WEraxkbXExY/Nv3jsQILjupDL2omHUPiVXC4znmELNlfD64YupUgC0tLTugFBDYRQQV992s7vOBIRafE9o/dDFBlpd3XQKAYP0AkKldGl7znwYjHsB4QNlySeFLQZQwtbXvxyBoax5TpID1VN6L2cC2tvcs/2tffu+fZDLI+agMuGjRdASYgGxMxZnl1RMkIiFQN86s3bQteVgBMR7YKg+hZ6NoVJrazIeELtCasqZnQmIfPKBgDn8euhUAQhAQuoDra19ds9Qmi4fC4iFKVv6CgkZBmIBYHY7PjoDhOuP9LZ7p0bKnExmx83hXr6KBtIuCRclKyD6EmHjfdj8RgoQ1eVvBH/0JMo/eB5pBOHCufKHQzMMxHvf1Cy5ngRUZB4lXHUpoUnEurobR4BwznuZmiYhxkhgFler0DwBSfHIQFKBUiWHVKqCFZTyCUV0jLAJHR/MDQNRIGohkYG0kM4iVYaABOWrA5COCpKXCgsDSXGOEkGFVw+NfLhYSE3RrzLyS+ebnztSRye//pKEgcgrQNXbTlApmKiFWAQH7Cg/OVggqmkOfvUXRsCRgPyTnRD8aTLXYkxAyjUpGQmIJsaxoVNe/SXC5GNGwrK/zrqwb/kNf/17BOeXD8JOUEfJ+TdA8q2UQP2w8qGRzx99TIlSYfyPOWZihFHoW/8iT/BbmJSyfD7EHYU+I/kNJ6Rv4W+LHWF/p+X3/xw/AZs5U9sze05dAAAAAElFTkSuQmCC",
     "wiki_name": "Bob's purple shirt",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bob's_purple_shirt",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 2369,
     "name": "Shield right half",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-08-20",
     "duplicate": true,
     "examine": "The right half of a dragon square shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqklEQVR4Xu3V22vUQBTH8V3KIv1XfKhUSluplYL44JNXVFQUFRXFF1GUUhQvpXijUOoFlRYKpZaiFUFEFEX/stFv4i+emUx3dzZRfHDgsMnkZPPJzJlJo/Hvt6aLR+z6H29N93DqgLs/uS+Lmet73fTVPVkIsTx3yi3NnnSLj05EUOFLVIbnIKEAKULMwoPj7tnMUe/BnHMtDB+VhGy62RsHSyh+gSgEejJ9xM3dOpTl8hsDkW/RX9am3KeVK72hBOJYoyPQi3vHMpByNwJx3+fVSfdt/bb7vn43AyVh+FO9tUA8NAaav3O4AHEcA63Mn/ZAHHcJanrTwINU3JyHIFs/7UBrT8/WB9Io0ReCyN85Pu4mxsayY0CMWgh68/xcASKSQKqLEMSbx0D7+1tud3+f2zY0lJ3HQG9fnvdBr65VB9EPSChG0oJ2bepzI4ODWV8IerdwoV4QAcCCyN0+POwFqK0DA78e9js+LF0qQF9f3+wWQ/NBFsWbdgIREz9RYZDbI4iWvxUFmgIKERbzcflyr6B8D2KEOoHIESpEKFRTFpSwKeZLPgYiNgKNRCCKHaOj9YKEIgCx4wLimGvcs7nVKKEobk09+bWA7Cjxa0Hk0cdUct+Wlg+ij3xGcvXxmQLELt0lhpavsBhInwML0rcuHCVhNMV8NuwI9QQK60i7r0CcWxAjFIIYHXL5bNQGEop+HiAQ17X6LMiOjkDs0haUgMpBsWlrBxKKsF965b9fvFiA2IMS9iEfZKfNgrTkhdG2YGtN9VMZRLF2AmnJx0CqNU1XbaBw2ui3IBW0QNqruE+5gFjyFsQelLwPxabNguySj4Fs/dQCik2bBXHNFrQFkWfrpyKIlq+WThHWjyIEsSlakCIB1G0rIxW2fv4iqF0rI8vxv1VrPwA5IjS3vfU7fgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xs3W20sVURTH8TnIQfwvfO7BNEQNM4TooaeuVFQUFRVFL1EUIkUXEbsgiF2oUBDERMoIIqIo6i/b9Z3hN65Z7nMZzxRuWJy5rGF/Zu+195wk2f6tFuIRu//PWy08nTwaHk8cTmP6zqEwdetgGkIsz50PS7PnwuKzsxGUf4mO4RlIKEAKj1l4cia8mj5V6Jhz7vkookoha2H27rFNKH6BKAR6MXUyzN0/nubyGwORb9E/1ibDt5WbW0MJxLFGR6A3M6dTkHIbgXju++pE+LX+IPxef5SC6KO/tzcN37tr2bDrrQWi0xho/uGJHMRxDLQyf6EA4lgg37trtcI00JGKm3MPsvXTDLT28lJ1II0S1zyI/H1jY2F8dDQ9BsSoedCH15dzEFEKpLrwIN48BjrSUw8HerrC7sHB9DwG+vj2ShH07nbnIK4DEoqRtKD93V1heGAgveZBnxauVgsiAFgQuXuGhgoBaldfX3rPxpel6zno5/t7OaY0yKJ401YgYvwvyge5MZDvvUHL3ooCLQPyCIv5unxjq6BsD2KEWoHIEcojFKopC7Kbou/dtWzJx0BEI9BwBKLYOzJSLUgoAhA7LiCOucczO+rJJhTFraknvxKQHSV+LYg8rjGVPLezXgRxjXxGcvX5xRzELi1MWyBWWAykz4EF6VvnR0kYTTGfDTtCbY4ObQPk60i7r0CcWxAj5EGMDrl8NioDCcV1OhCI+1p9FmRHRyB2aQsSyvceaRkoNm3NQEIR9kuv/M+L13IQe1CJfagIstNmQVrywmhbsLWm+ukYRLG2AmnJx0CqNU1XZSA/bVy3IBW0QNqreE65gFjyFsQeVHofik2bBdklHwPZ+qkEFJs2C+KeLWgLIs/WT4cgWvF/TKPw9aPwIDZFC1KUACWJtvVm4YE2bP1UAmq3eWQ7WMVG7n9qHhkL/8y2bn8AgyZ/QxGDFowAAAAASUVORK5CYII=",
     "wiki_name": "Shield right half",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shield_right_half",
     "equipment": null,

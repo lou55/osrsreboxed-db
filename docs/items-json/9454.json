@@ -1,7 +1,7 @@
 {
     "id": 9454,
     "name": "Bronze crossbow (u)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": false,
     "examine": "An unstrung bronze crossbow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+klEQVR4Xu2W20sCQRjF/eghDFFkRVFRUVFRQ23JG5koaIkJFV2QKIgi6KXH/v4vzkzrZfEy6yrrgwcGSWbbH+c7c0aX6yDHRWz+xkER95p53hMo4oerM75uFbhbz+4DFPF4eC4calcz3NLT/1COgBH/vHaEQ3AHQI1KkvVCjMu5qCqU0iZFEX+P2zzqlibuVE8TnEkEWfOdqAARF+NelY0KIv797PPH44XID4DgSioW4JDmUQe6LAY56DtW2bxCEubruTUZF2DgTDzst5ohYo/7yMoDC0QTGDiDMeVTIasghohzUa8Nl0g4goXMWAzwIsmxlZM+jgeV5jwjeaqeBroA2WA8yyShrAWc+P2+IcYEZ5AX9WfXivimGuFmPiDGt/4fS2deRjWRmWImovCMZRH3K2HW035OhT0rXiBH8nZb52G7KAK8fK9tEXdKIQG1eHwkegbFNwUx79mqZJYAVctqYk1fSmJEKD0EeMcgs5IumRccwb1k80hvKpmngS7XXa8sXME1oHgF7EIkYHC0EV4DyCEYQ/L2xm8bjCqiuW00+lYkjzeAUAXoKCzrjb5VTU8ZrhejEtQKdOci0eZY811lBjP/vVNJAPQVegquzYORUzmTL4dbAMMn+goncy8yBii4hv6Ca/Z/9NnWdGTIF6AcBprVoqAfZE9/pXRBzFYfm3EAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACG0lEQVR4Xu2W3UsCQRTFu/QQhSSysqKimaFhRtqSmWSi0IdUUNEHEgVRBL302N9/48w02zaljq7r+tCBQZR198e5Z87s3Ny/Qhex/kuIIj5slHhGoIivj7f5pLnBnXpxFqCIe6c7wqFWrcBNZ+0LKhQw4veHtnAI7gBor7rKzkaGK+tpUyijiwxF/NZr8Xlny3WntrnChRWbreiSAKrmcoOeR1zOLpuSDxHxx8sRP9/si/wACK7kM3FOWBFzoIOyzXZ0wSeUhHm9a7rjAgycySZjboYAMwQIIo4szpvQDxC5MHAGYyrlE79ADO9PvJ5e9uESCUewkBlvgEcEUZJjq6xGOWvLOetX9JfcVbddR4CMMZ5+klAq4GY3In662hNjgjPIiw9XdBGf1VLcKMXF+Ia7JJ25P98VmSkXUpNwRRfxUTXJzlqM88nIACg5kseLOp+2yiLAAcAoEbe3EgLq734i0TMoPgUSIAwkswSo3aIllnooFkaE0kOAvSABwShJl/QFR3Au6Vta/3dAknnqOnJdHlaEKzgGDI+AIEQCBlsb4VVAIbjjlTy98W6DUaWsRR+NPhHJ7Q0gVAE6Cmv0Rp+ovncZjhdVCWYFGpC+M0OizbF+dpUOpn8PVBIAfYWegms/wWj6OVNuKccAhk/0FXamytjUd6IXDFBwDf0F19RLn/6fqcgLhoV8ASoUl7zyhl/BhArk1UzBjKNPVnKA4NZXFBwAAAAASUVORK5CYII=",
     "wiki_name": "Bronze crossbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_crossbow_(u)",
     "equipment": null,

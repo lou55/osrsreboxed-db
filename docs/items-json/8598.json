@@ -1,7 +1,7 @@
 {
     "id": 8598,
     "name": "Oak shaving stand",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAUlEQVR4Xu3VW0sCQRQH8CRksbcee6iIKLCgMsyMpJIMu5Ha1TQpoqILdiOxovsVEaSICII+68mjHlnHM05a2Mse+MO4Ljs/58ysNTVGGWVU1coE1U3JMkF83wuxvTE43vHAwdYoRDdGYHd9GLZXh2Az4oL18GAma0EnRBb7ITTvgGDADgu+XpibsoF/ohumvV2ZTHo6wevuAM+wFdyudhgaaAOXoxWc9hboszVnokCZ4PxwvAglg+lRMpgeRTA9Sgm6jk3B5fEkCyNUKRihOBi3UkrQXXy6CCWD/aSN3ErpUUrQ04UfHs58LIxQpWCEUrWPUEpQ4ipQhGpqqGdheL2/x5oPorhVElFlgVL385C8nSuA4cTcanEgWevwXoy4SkrQ6+Mii+JaKIJkrSMMh1KCtIc60G5yubCAdmrJPEQ7SY+PsjFH09nJXteDzBEtm+V0FnKZNUPtTC4T6YzlMpLNr0E4trY25n8tjsUQiL5HDI4rAr09L+Xbhg/BttHk2DaahPYRjvUnDj/T5qZ7qW3i5sa2KUHviWARCkP7iCahfSQD4T6ie3FzcyBM2SBxc3Mg7r0kgrhXAEYJ+kiGClAiSDxtMpB42jgUpmwQt0ri8Vf9rchQGCXoMxUuQHEgcZUqRWHKBslW6S9QGCXo62WlaiiMAoSFN1QzRhll1P/UNwddHuzHRzwQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xu3WWUtCQRQHcCXkUm899tBGFFhQGbaRuJBhWrSpZYsUUZGFLVK00L4SgRQRQdBnPXnUI9fxjJMtPsQ98IdRL3d+zpm5ajIZZZRRZSszlDdFywwHWz7Y3xyCRMwL22uDEF9xw8ayC9YXnbAadcDy/EA6S5E+iE73wlyoByKTdgiPd0FwxAYT/g4Y9bWnE/C2gc/TCl6XFTyOFnD2N4Ojpwn67I3QbatPR4Eyw/HOcAFKBtOjZDA9imB6FM7Z2dAgQ5nhfH8EThMBFkaoYjBCcTBupZSgq4PRApQM9pU2ciulRylBdycTcHM0zsIIVQxGKFX7CKUEPZxNFqDqaqpZGL7f22nNBVHcKomokkDJ6xA8XgbzYDgxt1ocSNY6vBYjrpIS9Hw7zaK4FoogWesIw6GUIO2mCrSLbE4qQTusTN9E20uNdzOxxFOJZd7XgyxRLZPZVMLZTFmgYiwbfypD2bgz+TEIx9am2ty3xbEYAtHniMHxt0Av9zO5tuFNsG00ObaNJqF9hGP9icPXtLnpWmqbuLmxbUrQ60OkAIWhfUST0D6SgXAf0bW4uTkQpmSQuLk5EPdcEkHcIwCjBL09zuWhRJB42mQg8bRxKEzJIG6VxOOv+lmRoTBK0HtyPg/FgcRV+i4KUzJItkq/gcIoQR9PC2VDYRQgLPEv5t8GMQqQyUQXlSvi/EYZ9S/rE1pzYk3NLrOeAAAAAElFTkSuQmCC",
     "wiki_name": "Oak shaving stand (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_shaving_stand_(flatpack)",
     "equipment": null,

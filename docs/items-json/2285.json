@@ -1,7 +1,7 @@
 {
     "id": 2285,
     "name": "Incomplete pizza",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": false,
     "examine": "I need to add some cheese next.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xu2W3UtUURTFPU/iS++99NBbEVEhpqSIZJgZpmUyZYppZiamJmIMMljWiFgmapnIIGKZ1qA2+JFZflEaSUUE/TurWWfYdy73Et750Jdmw365F875sfbaZ++kpEQk4v8LBee566Ew6G1Ab8ctdLmrcb+lAu6GK2ipvYz660Vo3peM8pIzKC3MxoW8jN0GUxh92orh7iYN1ffgNrrba9DZWqlBJGuvFaCyNA+uohwU52ciPydtN8AUpoY9eDlwD74nLRjqasTAw3pDKTMQs66iEFWusyi7eBolBVk4n5uO3KwT8QJTmB3rxtuRDkw8c2Osvw0jPXcNlR57btqA7lQXG1Dm73nZqchOPxormEJgvAd+X6dWyXq50xSlBCoj9XA0UApL/ueYe9VruyDSFE9J+cJKOQ6FtbkxLE+/sB0eTUr3idFzTh1DZtoRp1AKWx/9WJ8fx/LMiO3waFJMLk8CS0cox0BfV6axsTiBT+98tsNjTaufHEApfFubxeel11gNjOqyLb4Z1F5ix1kviCbNfnIEtL0ewObyVMhHwbLR3AuT/XExuCRLRz85gFL4tfXB8JFWKQhFleYn+vQzYD080hSDU6UdYCRCPmLZqBK9FGnHeZrL9ayzfudokVc8JSXZORB9xLLR3ISyHrxTcs61N5ahrd6lBzBfcM46dhyfgYMH9juFkQh7iaWzXsicGfXavjE5UrxtVcZG0FpXiqaaS3qk3Lh6DiePH4oUhqHwe3sF378s6PIRSkonfmLXTfse2YDM24BVJbZ7FDASCn9+bGiTUy15CsxdRyjOOoGR4Wvdm6hSeE+KKULT+efmew1lvOJBpaTrWDrZCGRv4ooipaNKnGdxgDFHCIwqSfmolEBRpcmhdgNIykZl2FlxhjFHCIwKSdmokCxxUjKWiqst35wI5lYsEQITD4k6LBM9I//DuWdhvXjPARKRiH/GX6SCuuMvxCDHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xu1WXUtUURT1PIkvvfcS0lsRYSGmpIhkmBmmZTJlimlmJqY2iDGIWJYyWCZqmcggYpmWqA1+ZKaplEZSEUF/Z+U6w75e7i28c52JIBfslzvMOYu11j57x8TsYhf/HxScV9Sh0NtWg86W62j3leOOtwS+movwVl5A9ZU81O+JRXHBSRTmpuNsVkq0iSkMPmpAv79Ok+q6ewP+pgq0NpRqIlKVl3NQWpgFT14G8rNTkZ2RFA1iCmP9zXjWcxuBh170tdei5161oZSZEKuqJBdlnlMoOncCBTlpOJOZjMy0o5EipjA15MergRaMPPZhqLsRAx23DJUeNF+zEbpZnm+QMn/PSk9EevLhnRJTCA53YDzQqlWyXu60RCkhlZJ40A0phfnxJ5h+3mm7INySTIl9olRCfLxTUgrL00NYmHhqO9xNSfdJ0DOOJyA16ZBTlRTW341jZWYYC5MDtsPdlIRcngRaR1IOVVL4tDSB1bkRLL4O2A7faVnz5EAlhc/LU/gw/wLvg4PatrmXvTpL7DjrBW7KnCcHKilsrASxtjAWytGmbQz37Gh3RAIuReuYp6036o9Q+L7+1siRVmmTFFWaGenSz4D18HBLAk6VRKFtVWKOaBtVYpbC7bjm+mI966zfOVrkFY+Li3ViGRHKEW1juEnKevB2xTnXVFuExmqPHsB8wTnr2HF8Bvbv2+tUHcFWlmid9ULW5GCb7RuLI6WtsczYCBqqClFXcV6PlKuXTuPYkQPhkiEUfmws4cvHWW0fSYl1kid23UTgvo2QeRuwqsR2d0FGoPDz66oOOdWSp8DcdSTFWSdkZPha9yaqJHuSSzKC0HT+tvZGkzJe8U2lpOtonWwEsjdxRRHrqBLnWQTIhBA6IESMKol9VEpIUaXRviaDkNhGZdhZESNjhpkYFRLbqJAscWIZreJqyzcnjLnlDmZikiFRhzYxM/K7VMTV+R3MxKwlBMxl/X/UYL34rxPYxb+CX3aT7n+1oJScAAAAAElFTkSuQmCC",
     "wiki_name": "Incomplete pizza",
     "wiki_url": "https://oldschool.runescape.wiki/w/Incomplete_pizza",
     "equipment": null,

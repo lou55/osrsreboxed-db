@@ -1,7 +1,7 @@
 {
     "id": 20131,
     "name": "Robe top of darkness",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "A dark power is woven into this robe top.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xu2W/0tTYRTGvT+EOGQyNhxtOEnRWAvXxJlB5A9FYoJpYURgQl/MxDQzG2aamW2YmeUy+8LGMJsyRhHR33fiOZd3u/fdHa17JxTswIG7jXvez/s857zvqqoqUYlK/FOhUOl54KHQxZ4eunDuLB12u8lpcxZkrc1GTT4fNXg8BwWV3/Hyo1maHR+n61eGeEFPnZruWjen0+GgOrudznd3U/hEkD+XWTGFfA4fNbmO0LHWVorNz9NKJEKRiQm6OzLCSuB3JBS7OjDA31+7NMgqQi2oZq+xk+2QzSqUwiAt9S28YHtbG716ukgvFxYoOjfHas2MjdHR5mZq9Hr5efrOKN27eYNGh4cZCvbWVFezigCzAKVQwBMgv9vPUCgICzZfrNDrZ0s6qMUH0/Tk/hQ9npxkOwE2dfsWQw329nIdsSnYCrVMQBUCnQyFaHt1leLRKL15vsxqwUIBtvRwpgDscl8fBb1BXR0oZQpILnSqo4N2tt7R5/V1HRjUEr0lFAMU7Bvq76f2hlCBSpaBUOh0ZydlUymGSm6+ZbCtWCynlmwjbEMfybWwOctAKHKmq4tt208kKP3xA6Xicfq0tsZKid4SSsE+AGHy5FplUUgUgUqwDg2OqQsGAnTc7+cjAYmJE4nJk4GgtKUegvcyEFT6lc3Sz/09HRQSFgq1AKQurHAfAQhKm54y7a7yBRQVKJNhoO9fd+nblx22cXf7PfcWbASYFijcGLaukHYyZKAf6TSDoMmhEGCgkGh0WKZfVK1nsodUdYzHVAUCTCaZzFkFZcQzLMOVIgMJhUwBFT/IlFxTY9KEKjiXoAx6CsdA4U2vFNlgSaF/Wd+EqkJYGOdRYmODLcPoAxLNjDNJTJd4R1b8Lxo7f2UY7ygPJBoY6mjvOJxF9S5XAZB8FZUApI6n9mVAoYC2OCyDKrBKTBSAoAxOahyM+f9Bxevqh8Uw1PE0ehmpXaC0/HNd/WYNQy5qtICZkGuVq24lKvGfxG/7DPvORLTo3AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xu2W7UuTYRTG93wIcchENhxtOE3RWAvnxJlB5IciMcG0MCIwoRczMc3MxEwzM8XMLM3shY1htmSMIqK/78R1Hs72vI32JvRhBw5syn3u331d59z3bLZSlKIU/1UolH0eeih0qauLLp4/R0fdbnLanaassNup3uejGo/nsKDSJ156PE3To6N04+oAb+ipVNNd4eZ0VlVRpcNBFzo7KdwS5O9FVkwhX5WP6l3H6ERTE63OzdHyzAzNjI3RvaEhVgL/R0Kxa319/Pfrl/tZRagF1RzlDrIfsRcKpTBIY3Ujb9ja3Eyvny3Qq/l5WpmdZbWmRkboeEMD1Xq9/Hny7jDdv3WThgcHGQr2lpeVsYoAKwBKoYAnQH63n6FQEBZsvVymN88XdVALDyfp6YMJejI+znYCbOLObYbq7+7mOnIo2Aq18oAyA50KhWh3bY22V1bo7YslVgsWCtjioykT2JWeHgp6g7o6UAr1W+rqcoFSTIVOt7XR3s57+rKxoQODWtJbohigYN9Aby+11oRMKhUMhEJn2tspGYsxVHTrHYPtrK6m1DLaCNvQR8ZaOFzBQChytqODbTuIRCj+6SPFtrfp8/o6KyW9JUrBPgBh8oy1iqKQFIFKsA4NjqkLBgJ00u/nKwGJiZPE5BmBoHRBPQTvjUBQ6U8ySb8PvuugkLBQ1AIQ1iDRRwCC0jJleQHJqdIFFBUokWCgn9/26cfXPbZxf/cD9xZsBJgWKFwbLlwh7WQYgX7F4wyCJodCgIFC0uiwTNbIOqPaOQCp6liPqQoEmEQ0mrIKyshnWIYnRb+pklIoL6DMF5mSampMmqiCewnKoKdwDchLrwWyPmBWoV+sb0JVIWyM+yiyucmWYfQBiWbGnSTTJWuMiufwfKSfDOsTpYGkgaGO9o3DXVTtcpmAjE9RFiqp46ldDCgU0BaHZVAFVslEAQjK4KbGxSi/g2SNVV0ZFiOFJtTxtFqMTC/W/uDKnNoJy1RXDqvn0IW5sHkDm00+/ytzrWsZxqLWG+QexlrFqluKUljFX/l6SraNXAYkAAAAAElFTkSuQmCC",
     "wiki_name": "Robe top of darkness",
     "wiki_url": "https://oldschool.runescape.wiki/w/Robe_top_of_darkness",
     "equipment": {

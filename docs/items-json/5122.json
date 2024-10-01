@@ -1,7 +1,7 @@
 {
     "id": 5122,
     "name": "Maple seed",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-06",
     "duplicate": true,
     "examine": "Plant this in a plantpot of soil to grow a sapling.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xu2W22tTQRDGuw8i+qAvothiS1Oa0qYQLKj0oSjUWzVgjNZWQ6t4o+INQUEQ/NfH89vp5OzZ7Gku9uQpHwxJTmZnv/3OzOzMzEwxMThRC7/HNjE4qTcuyYWLZ/3GB0fL0v2wJF9+rMr3n2vy609Dfv9dnyQpJ7d3atLYuOI37XQX5U1G6OPnuicGQWxMQrHMw8qtfje25uT5/oLsZaReva55O3hb8wTfjUZKA3LSrfuLcuvOvA/evHm1d/K0xXDSerkmO51rnlQ7I4eh2m5GDkuvK8DJoxcr8vBZXe61l2W7tdQjtrm90CN3fXPWE8TMJx3cyd77pl/b2p3vqWSk0mv64AoSm8wmNUZOYJ++rUjncN1vWh5cFcQPUqgUxixfV8BxkOwkoXEqI8YnG9x9PDtkUCftbsOraa9uBEIG10tKOxWB+E1uGPF4lSL1XP1JCyOFpX1LoUEIgCJUztPsszyI+lsviv9V2EFOOtBADAqiz0l6En21ebnEbyJwvgIhYtWJ9ROKf1cCp2Wd9RxyozzRnZw7fybx/FThvBIQsSok1x48mYs2dr6X8TorJOT86zEy2P5x38orsOiLkjTVCkg5382NCO0AZYwQrSLfNO/+vM5KyUDCyORNLqxCvc9QJ/Qdg1QYNIZ2cLsCrD+l/VUd8+e6gRTr0v59UCIkH4NW+aJQiTLyuTpGnJmI+y/t3wc9DQHshs8TcKgAEZRQnGNMjkPG01dB6bIwnIcYM0YjpmTINRs3IETso+EJAVcYObjVIYfUqFU+oMXI1QkJjTgpGvQitZK26Q5iRo65+PDrhlcg3Ve0EsOBbMzqMuiQFipFhUCM72yAD6TS06K+fmIU28F/QYNYWdtcRBfOr4aTNhr0/9gIA1e2yRRTnDr+AaIQYtgwfYFEAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xu1Wa2tTQRDtfhDRD/pFFFvsI6UpbQrRgpV+KAr1VQ0Yo7XV0CpqpeILQUEQ/OvjPTs5d/fuwzw0AaEHhjzu3NmzZ2dmZ2rqBBODETX/e2gTg5F644KcO3/aLnxwvCTdo0X5+HVFvnxble8/G/Lj19okSRm5uVOTxvolu2inuyCvCkLvPtQtMRCE4dnV+flhSYUyDyq3+l3fmpGn+3OyV5B68bJm7eB1zRJ80yMVvpmBBsROt+4uyI1bszZ4c+NyufO0OejujbSer8pO54ol1S7IwaDabkEOFr6XgJEHz5bl/pO63GkvyXZrsSS2uT1Xkru2OW0JwuiTDm5k723TvtvanS1VIik8H+DoTEViykypYcgJ2PvPy9I5XLOL5oOrgvADKajkx0xvJEIvSLET37ArEsMnFrj9cLokkybkjrDdbVg1eXQklHuvAgZhUnJXCITfyA0ST5NJ7Vz9kRYkBUv7ZqFBEACKoHIeF58+kSoZ9Wcvcv8ruFHf4hh9MFgQ/R9Jj0RfaV4s/ZyPg7+ZnE9f5IMYW4EgwuqExYRixcYAo2Vd9BzkRj7RjZw5e6qn8NhgrBIgwipErt17NBOoY2wvw3HGqv0zGHs8JAPb7/UtVqBPCL5QEk11DCoZ281JBO0AypAQWoUj5Lo/jjM+yr+GIwMSJOO6rqtCfCK3oI7vO4JCDJyCdnBeAexP/s6dAqoO/XHdgBTey8evwPUSDFr5l6o9ySfj+1AdEsdMhPsv7R9Bd4MAvOFdAsbEQjXi4EoozDFMjiRU9Y+gR4HSxYv+PIQxI0csDSWDXOO4AUKIfTw4IcBURg7c6iAHqaFWfkAL4dTxCXFSTCuahV6kLGlOdyBGcpiLDz+tWwXSfUUr0R/IWF1DkiF0SPOVQoWAGL5jAfiAFKfFMKHhgxh+OxiRDKFBWNaci9CFeTX8eaH4eewzJDRAmC/xIrmF+j0fGeHiY1nkBP87fgPBGdWIi39K3QAAAABJRU5ErkJggg==",
     "wiki_name": "Maple seed",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maple_seed",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8407,
     "name": "Study",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACC0lEQVR4Xu2W7StDURzHnaTlJl5YhBALechsSVZoJeThhYgSKSVqkRfSkqdaIU9FyQsPU/IUmajlz/vqe25n7r2vt3sWfvVtd2e3zmff38M5OTm/NwTs0hYmwOlJDNG1JYyPDSPcUuUWlNMFgc31FVxeHOH4YBs30XyEGsvR3VSRKSD75vt7G1KH+1tShLi7PUf8+gyvMSMFM9Lhg+HJSzeUwOzMBNZWI+hrz8VXMoHk5ws+Eo9IvN7h5TmOp4crvL/dI3lgILFroD9QY4IveOCvKUknkEA4kIvB9lpMdjVgrq8Vo5118nvQV4qGimLpREd9GZ52zDR5C/MtAGktbCE3UjC9/mpZpPykAwTib/MDfrlOETbNjjhDyH9NEY5S9aHACDUdbsZ4qF4+EyqDQAx7QdMBghFKOUYQ+3uuxs/GdIjpnO1t0QFiDYGpnibZ1kwXi107EGGUOyxszUAMkXIna4DoDoEWB9uyB4juRIYC2QGk3FkeCaY6z/mWS2HOI7qjgHiIFhkeHVBCDkVObAXElHFAVnoL9ABZzzROaYqQzVVePUBWEM4jipB0TQuQteUJwwOVjvGMcxlIyDsQU6OAVB3xKNGQMiHvQRRBnEXNdZc7zewwiiBKBGINcT3DFzRn2DvMWtxcU+PAVSAniOo0dcVVt0tXoZSsbU9IAmkobGv8wNn1H38wvgFM2J7/ENLdkgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOElEQVR4Xu2W70tTURzGPUiMXSJfNAwbqWs4yYnbRCShZDBWLH0hikEUQiAKUvQihoRWMCjRFBSiF/5YMFLD4URh+Oc98pzLV869DXpzd++IvvCwu7ML57Pn++OctrZ/NxScCixsgO2tEpaLbzAzPYHsYLdfUG4XFFY/vMPuj2/YXP+Eg+Uwxh7cxeOBqP4t3dvrNZRz87WvK1obax+1CFH5+R3l/R1US9Y1zORoHFbohtcuKcy9mkXx/RLyI+24rNdQvzjBee0ItWoFJ7/LOD7cw9npL9TXLdS+WHiSidngCyGkYp1euqSQzbSjMHIfzx/143V+CFMP+/T34fgd9EdvaydGE104/mynKXIrbADYjvLZAyClNxKYXKpHFyk/6QCB+Nv805RepwjrdsQjGAml/zVFOErqQ8AI9TKbxMxYQj8TysMUNQpnQdMBghFKHCOI+Y7HrvwZsoFZFxQdYjrncoMOkKbCNA6FF+MDuq2ZLhZ7k9P0t1AaRtxhYQcMxFDX7rQMEN0h0GIh3TpAdGfpWaY1gMSdt5PDRvcFEvY8ojsCxEO0wwoFAaX0UOTEFiCmjAPyXuRmEKlTjjONU5oiZLI7EgyQCcJ5RBGSrgUCZLY8YXig0jGecT4DKX0HYmoESOqIR0kAKVP6HkQRxF3UXPe50+wOowgiIhBriOvuC1qTw9lhZnFzTcaBr0BuEOk0ueLK7dLXtInMtickgczC9skl8+LuvN6KfIVxh2zulvu9/+F1XAGcWdnG6ZKb3wAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

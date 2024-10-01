@@ -1,7 +1,7 @@
 {
     "id": 20563,
     "name": "Proselyte sallet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-20",
     "duplicate": true,
     "examine": "A Proselyte Temple Knight's helm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xu2V7UtTYRjGdxjjMIn6UCQ6SiIKKsgUmkLaCp3mC75kS81MM5MJvmQKy3xplSlmttLMajiGmcoSh0VF7MvoS3/WVdd9OFNHX885Ed3wcHM+bM+P67ru+7HZ/u1SsH0sLQ0iWK2itdCBoqN2K8EUzDU6Bab3ogPNbg3oZJYN2ftsVkApCPk0oKEyFd4T9hSQBTAsBTMNKkYrVVGn4MhfADRRq6lTc9qeAjp20EIgqnPznAMXjttTluXstxDo3iUVvnwH8g/bUypZFGiWgm6PAxWntNxQKSp0YI8lQNuL8GNXhkzbQKm6Yw+ZWppVBNj0Z8guYrA5abkuU4E0RXQY2sXtHG13yvgzPyYGWkF4dhZzTyYwOTyM+3196L3VgfbGRjRUVcn473WaCLO+tITo/DwWp6fx7ME4gkODGPT70dnSIkDc1ibtHwVfNjaw+X4Zq2/fYCkUwovHjzARCCDQ04PutjYBKnK7zQi0gh+JBBKftvB5fQ0b0aiotDA1hadjYxi9078LKMflMhJIERCe5LevAvYzmRSl3s3M4PnDIMbvDghQfUUFzp7JFSCnqhoBpSD+YUX+nNmhMvzeWl1FLBJBZO4l5icnJdgMdZnHg4K8PCMVUrAWDgsQLWJnmKkMO+1ihvpvd8JXU4OS4mKcLyzEoexs44CoDEGWF15J58izUxl2fcJqy8tRWVoiKhkKRGt4MSeLnTaxM9DszA8V6mhulgxVe73Iysw0Dojh5cXp1tE2dn0x3rjqE9sIRJUMA9JDrSu1svhaOvcQu76Drl9pkLGnbQYqxNKgOGF/so4KMUPXLteLZSYAsbTHlGDpIWeGOPJNdXVmKaTX76cjFhOrpkZGxCqGuau1dVd+uBhNA/oej4tVfFT150JXh2PPpairmf5rg0qRKeOjylee06Vnx2SQnaVfnH7+l3n1C6KzRgH0UTuDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xt2X20tUYRTF52MYDiNRD0WiUhpRUEFeIBXSLLzlBS/ZZGammYmCaaZg5iUrU8zM0sxKlMFMxUSxqAhfpJf+rFVrH74Z5+RbnnOgDR8bkXPOj7XW3h/j8fzfpRA+rpYJMVBsoCbdh4yjXjfBFCYq/QJz54IPVakm0MkYD2L3edyAUhgPmECdeQZyT3hDQPxfUkKCHOtTNpbCaIWB3kJD1Ek78jeQ9QmbS2Gw1FSn5LQ3BHTsoItAVOfmWR/OH/eGLIvf7yLQ/YsGAik+pBz2hlTSgXYFqDnLh4JTZm6oFBU6sMcVoPAi/NQYJdPWnmOE9pDDE2ZaRYC1pijZRQw2Jy0xLgxkfcqGMhXRMLSL2zlY55fxZ34cDLTCzNgYJp4OYqi7Gw9aW3HnVj3qKitRUVQk47/X79hCVFienUVwchLTIyN4/rAfA50d6GhqQkN1tQBxWzu0fxS+rq5i7cM8Ft+9xez4OF4+eYzBri50tbSgubZWgDJSUyMCbX3LLpXCz81NbH7ewJflJawGg6LS1PAwnvX1ofduWwRQfFycnUBKQHi2vn8TsF9bW6LU+9FRvHg0gP577QJUXlCAM0mJAuQ3DIGyvu0fS2H944K8nNmhMvx7Y3ERK3NzmJt4hcmhIQk2Q52XlYW05OQIhXZZJYWlmRkBokXsDDOVYaddzFDb7QYESkqQnZmJc+npOBQba5dl5lQRZH7qtXSOPDuVYdcTVpqfj8KcbFHJViBaww9zsthpEzsDzc78UKH6qirJUHFuLmKio+0DYnj5Yat1tI1dL8YbVwJiG4Gokm1AOtRaqYXpN9K5h9j1Drp+uULGnrbZqBDLhOKE7WQdFWKGrl0qF8scAGKZlynBrCFnhjjyV8vKnFJI15+rY2VFrBru6RGrGObGmpqI/HAxOgb0Y31drOKlqq8LrQ7HnktRq2nDUtyplEwZL1Xe8pwunR0riAMwurb/dg8fF0DCtf3jroI4Vb8B03F/Wfn1emcAAAAASUVORK5CYII=",
     "wiki_name": "Proselyte sallet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Proselyte_sallet",
     "equipment": {

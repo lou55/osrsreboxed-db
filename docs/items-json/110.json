@@ -1,7 +1,7 @@
 {
     "id": 110,
     "name": "Dwarf weed potion (unf)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "I need another ingredient to finish this Dwarf Weed potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADbElEQVR4Xu3WWU8TURQHcPpFNMYHHzQRExNQlM2oQGWpFsGCIrsgFCy0dWhFkLIjWCsINC2WslQiINGo0Wj0kx3zn+ZM7izFbhgfvMlJp3NPZ35z7jLNyfn3m4mMw6j/yJuJZj23aFqyyDHhriHfYLUcjNjwN1NkvonCc/cMUNqHyBgeBzEKIA4tJjTTSK8nbKob4zv6tKFGpYQ00fwTqw6FT0A4GLToqyf/yG05F59GIOSL6O87Hvq6NZAeikE45uowaHWqQQZxbiIQfvctJtHPvVH6tTcmg1LC4KL81AzCTbUg8amRG3hWZwjaCrSoQDhOEmRSDQMQPLnxXQQh1958itrvnKQGywn5eyLQzlJ79kBcJZzTgqIvCuSorzqugDCMWtDuSocCQqQE4nmhBeHJjUDBqTyqNR9Ths4ItB/sVIO2XZmDcB4gBPJstiYlKswWKr1SThcLSuQ+Legg1JVdEAJDKYKcThfZ7f3U2dlN18uqqOBSKZ0+k6sDoZqfIj0K6Me74WQxaGqQiMLFGcRD5n4skdfrpbO55xMOGXI/r9vTBaHFL4wJmgiE/t7ePpKkIRoa8lBe3mXlN6ikFvRl41G6oPgehAr9CYTqICRJosKiq8pwaUHIF0EpbIrxixmBEFqQwzFAg4NOcrncVF5RQ/kXinQgVCerIEYhcAPsuAxaWtuTY9wfJadvhe4+HKGymy1y35GAxCrhk0EiBjH5Mkru8VVq7vORubZDB4q9alVA2KWTxKDFV4gRiF8HyFmO7KsCIGkySK2OSapu6KHiijoFhergtSFWKC2Qdh7xUjYCTQc2yTsdog7nLFnvO8hsbZPzeLjw2sgaiFE4L/evv9fF7NI2Dc+Eqcu9QPVtbnke5RdXyvkAYZcWQSmg4iCjYTsMNLcco6dza9TjCVBj1zBV1j2gwmtWOR9z7mO4WwFhD0phH1KDxGFjUDB6oIv5lRiNPn9D/cOL1NQ7SpZGO5XcsNG5/FL5NxmBsMoOA2FVYd6gMsCENj+Qf/UtjS1EdEs/KxVikHbYcJ7fX4hAeFfB4RgrDRju5wmNJS+CsAelvA8ZDRuD8MQ45htrg1cj52YFZDRsIgh94t8SHPNuzq8NVCcLIDT9UxuFiBFDC8KmKII4UgAl2/RIDnH+/EXQYU2P1Mf/lln7DWsRZPp37xaDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Dwarf weed potion (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf_weed_potion_(unf)",
     "equipment": null,

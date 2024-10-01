@@ -1,7 +1,7 @@
 {
     "id": 7690,
     "name": "Full kettle",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "It's full of cold water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbElEQVR4Xu2W7UsVQRSHPZ8kCUWSJEXDJMMMzTAzzDTMzAzTzMzMNDMzM83Cgog+9I+fes44d8f7grEz1y/5g+G+7O7ZZ3/nZbam5lTJJJpvJZcL/PDemD66P65PJid1bmpK56en9cXsbOH7wsyM/X75dE5fPZvX188XdG1xMTWU6NjwsD4YHTWgxxMTBsAncCGkhwLIw6wvLaUEEr0zOFhwoTQVxy+u21xZCf7LLdFr3d36YXU1MlgG9+ntekScQ6C9dxsxQQKJ7r/fjInlgA62t2OCBJLYWA7o15f9mCCBRH/s7sbEEr3S2WndEhHkUGIdGB/nb4C7Q0MJAkXXj5fopfb2yMIWm1P5rz8i0YutrcEMyiMJRkcSid7q7z8mYKVjbrBWPp5Loheam8vsSXx3K2vncLlzyl8XLbexhje83NFhY+FGb6/VGFOY9fHNmi3O4XgxIHteAigXnE5pa2mxxe/bAwO26VJjjAdAcOv3twM7l1bn8+vWlkGwSfu3gUgoV9y4crWrq+AMtTU+MmJPzesG6dlYXrbNFDicAwbnuCbrtigYJOYKI4BhSfC+nh5ziKcmnUD5Vw/AgAIEILrMH0sAg0TPNzWVQN283mddhEs8PTf1ToVAvrYStr/oucZG6zZS56FwibThUgjESxk390DZlE4Cg0TP1tWVQFFPuAQQb5DFQNRQ5A5fSaJnamu1ob6+AEX6APIOAUQH0W0UNinCmZ+f96oBhDKXfD0VO1SuoKsEg466BBB15IF864fp+r6zU00glLkUAtFlDEGfrhNwx8u5VAzEHKJ+SNcJuuPl2/df1qn+E/0BXwI5slF72wYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClElEQVR4Xu2W2U9TQRTGe54IxECIBCINm0QIQlgMm0EEg2xikNWKiKwiIoJo0MQYHvjHD/nOcOZOpzQtnYEnvmRSSuee+7vfWeamUveKJuLSVnSZwDOvxvnN6wl+Nz3Ni7OzvDw3xx8WFuzfq/Pz8v3j0iJ/Wlnmz+9XeSuTiQ1FPD4ywlNjYwL0dnJSAPAJOBdSoQCkMDtrawLU29wcA4r4xeCgdSE3FYUXrtvf2HD+V7KIuzo6+Nvmpg2Gp7zpcuF+7O6EQBmgky97WTD+rmKkYKdf920sf08RMkBnh4chQRxRaCwDdP7rNCSII+J/x8chsYjbW1ulWwKCXImkA0NTn0KAl8PDUYAC60dF/Lix0Ra2/2txIplTEdyBiJvSaTuDSgtGdnSUdn2OiIf6+goEzOeeGayR3FERP6qru+ZMSgaetnP2Mnv0ugQmH/yNZA5W94ZPWlpkLDzr7pYawxTG+r69JQt78LvuN0AkZ14EKBMcndJQXy8L35/398uhixrDeAAI3Lr4cyZ70er4/H1wIBA4pPVtIBDKFDdcedrWZp1BbU2MjspT43UD6dlbX5fDFHBwDjBwDtdot6ljATVF4gpGAIYlgvd0dopDeGqkE1D66gEwQAEEQOgy/S0CDERcW1OTAzXQ2yNdBJfw9LipOuUCaW1FbH/ih9XV0m1InULBJaQNLrlAeCnDzRVIp3QkdyDiBxUVOVCoJ7gEILxB+kCoIfeEjwQDEZeXlXFVZaWFQvoApA4BCB2EbkNhI0Vw5v/Pk1hp8pW4pPXkO3RdQUdMk69slwCEOlIgbX03XX+Pjm7LHVXikguELsMQ1HTdgTsq45IPhDmE+kG67tAdlX+I5l+37E4it4ULLf/ae8XQJUHXmFDXxwPHAAAAAElFTkSuQmCC",
     "wiki_name": "Full kettle",
     "wiki_url": "https://oldschool.runescape.wiki/w/Full_kettle",
     "equipment": null,

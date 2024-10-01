@@ -1,7 +1,7 @@
 {
     "id": 15440,
     "name": "Shrimps",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "Some nicely cooked shrimp.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xu1Wz2vUQBTeIYQhYc6KSAVbrGhFq/ijwlZbdNWqVKxUWXBFxYoWBCs9LLJgxUoPHgShhx4KHoQeBKFnD4KnHoSCB6Hg//Lc7z1ms2mzyaTtqoX94JHNZvLNN2++9yaFQgcddLBjoCg5tgV5iGTiiUGfvr0IaXkypM+PQ/ryRK7bIE7R3FntSKDo/XhAE30+VQ76NNWvaeFuwPHxvsTiPbmfLweOnDEo+nDH5UVZ8fRxTU+PiJjxAz7/njmtafaGpne3NHMhIBrCcM3mbkDxiqons7KjeFKIiW+HBCbFM/BgHLKN7Hx6GLDIdO4GFH19HtLMddcXkjyheMLKgM9biN+1U/VMFTUtXgjYT27ZZyhaeiQpdfdPEkQotqeRscG6l0oBLV8LaWE44Kxl8Cv6Ph1ySkHE+34uIlw/2g32PUXH9nrMs3Q5oEBrNj78lsIt24UyhYcgyK6weiXZJylkCZDxyEypy+PIeF81ytRWAu6RMYiE2JWqoZXbUcwOJAlNg6IHh30Wc2JXpiBASOduavFR/QqDI0NTFyXNqBwE0g1SbAHGwrzZ1aOYb6TPSUwzRBi6bnOgvyBQPaP7PTqz2xK7ZwgLyx7XEvHJyr3S+Ma6Je3FPblXWsg/PhXrs9GKPOt5bmyFSHFZzw+5dHsnSLVtboWKVsuGBSHgt/wciZDDNRIWfxa/t1C0VjHciXFMoLzhudbjc0POpOjckYhKe2OgX6E3WfOP7NuM6VMR9SSc1GiMP14aWq0Z+vnK0K/XhtbeGPr91vAHGT43xvqlCtsgxkKaGSaDOPsVCAHo6vjv2bDPQkaPetz02ijGov4Rdkk6NqJ2NerkEGOFlA55NNQr0WZBQOQV7trnfe66zUKKPc2d+69io6H/kZAO/h/8AUga8ptL45I6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC20lEQVR4Xu1Wz2vUUBDuYwkhIWdFRKmKFa3oKv6osNUWXbUqFStVFtyiYkUFwUoPiyxYsdKDB0HooYeCB6EHQejZg+CpB6HgQSj4v4z7zfD2JS9pfkj2IOwHQzabycz3vjczLwMDffTRx38DRclWCooEksSzow59f+nT+jOfvjz26esTuZZATtHSOTdnAEUfpj2aHXaoecihuapLK/c8tk/3xVZn5H654eWMGYGij3flxergIJvtIZAVz59w6elRITN90OHfC2dcWrzp0vvbLseCgTSI4VqAlOIVtU6JOmlkkBRkotshhqR4hjjwg9pQ5/NDj0mmx+5C0bcXPi3cMC+kvyTJtZ/4Kk7YHHF4C/G7fbqjVM2l1Yse11NYfTuiBUVrj0TSvPWTTFqIYnu6io12aqnu0fp1n1bGPVYtI76iH/M+S4pAvO/nTUDbOwtaLX09vrvC17UrHnmuy4WPekuJLduFNkUNgZBeYetqcp2kBOvCqCf+UKa+p8KmCccVZqhum+pOwD0UA0mQ3WgFtHHH2OJIEtE0KHpwxGEyJ3cYQrZXCBJ06ZYrddS5osCh0NwlkRmdA4PcCIotgC+KV3ePHdVAcbyJ4Ux1DPSewzB1w4b5AkP3TO6r0NmdEjhs6UkULyzbLwFhYtoaQzL4pvaL7LVd0ZXmS/IPZMKIJrLrZbvg6TUV989EciDAViMeXHFbL4+ZaR99XhjSbWkr3B6KNhsBE4Kh3rSKtmdByOFqiEWfRe81FG01A57EOCbQ3qi5kggBcibpc0ebae24YV5hNunin9iba9YUgZlJOKkxGH++CmizHdCv1wH9fhPQ1tuA/rwL+IMMnxtTVenCMJkSCQEyzJAM5PRXIAhgquO/5+MOE5k8VuGh10MyGp2PsMsysWHta2aSg4wmUj9cobEhsZK3KgmmVnhqX3B46oaJ1A6Yyd1DdQxMknhB20R6TsZGOLFttm8fvcBfo6ZP2ZYuXA8AAAAASUVORK5CYII=",
     "wiki_name": "Shrimps",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shrimps",
     "equipment": null,

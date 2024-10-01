@@ -1,7 +1,7 @@
 {
     "id": 25180,
     "name": "Black slayer helmet (i)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": true,
     "examine": "You really don't want to wear it inside-out.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xt3W/UtTYRQH8N0f+sExNsYuG7ujiZMZamiGmWFLYy3zheV8AQkjqDCiICx6rzFEHL1aWSKVZmUzZBQS9Ut/3Gnfc3ue3d1thPGsogOH4e69ez6e59xzr8Pxf4dG9m8Ux3YW0Gjm4jRt75pthUbzmZuWBfBZabHi8fSNmSrnKAmNnj2Y+7mARl6vi7N0QY12GoY85/7c3dqCVpYWykC67pHfOZ07GIR8sZDlrClo4+0rWl1+ygsLjEgcd7vrJAi59nKxtqCtfI4+vl8pAwWDXk47CN9NjCYtKKU4jb5/26IvnzYYJTChkF6S7a2t1NfTwziAhgcSckvvXLuksmIafd3KUz63Ru9eP5eY+nCAU4D27WlnTCXQXPq6WtDmh1X6vLlOuTfLvBggkUhQokQe6OyUoMH+uMQ8nE+rBaGhsWWAra8s8dZZQYGAi/NgVxcnti7a0MAINPjio3m1IAxG3GmoEBIwgJACIxKY4/39NHgkzhCAFG8ZwhyO6CFg0E/RaEgiDMNTgorHYjQ2NMT4x9mMeozb7eD0+ZxlFamWxw731WJAmndJfSgkZwxQ1WDimEiggoGAKpT5fEI/oPyTIyM0NT7GPXK0t5d7BMdaXE664PfSOb+HzhRGwpTPTZOFnCgM0JTHRX5dVwvCXZMaGKCJZJJOjKZ4AKJH8N8PJxKMQl4N+uhywCtxMVcd43E9xoEClAnCjx3q7pZVioTDtLetraRKIgEHElgcBwjXAqUAhNBof0eHnC2oEkCYykDZqwQQ4AKD6/BuBJQyEAacFQUQmlzcedbUdQefjwQW1c3cukJP7s2qA2EhLIAfxydAWLhSCgyqhD5DdZQ/NipVwZ6GUcSgz7B9qCbeHItvkkri1yBg8LmrsZET1UGzZ2dv86ND4RwSUR0lMFYQGhv9g95Br6H/FIMQ5sSuhELibyto+vRJOn/2FINwN9YAJMKE2XFINLvYMnEO+qelqamWIGsUcUhUQ1TJChLvRfar/0BojNnd3CxBCp9jvxuarWf+KkbEP4FQHz8AE1KmyyVECPYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xt3W/UtTYRQH8N0f+sExHGMXxzaaOtFQw5cwM2xpmK2pLF8aSBhBhREFYdF7jSFjo1crS6SaWZmKjGJE/dIfd9r33J5nd3eTUJ8ldOAw3H15Pp7n3HNns/3foZH1G8WxlQU0mrk6TVu7ZkuhUSpx17QAPsstVjgevzPD53TU1ZU5b8eh0asnyT8IjVwuB2cxSqO9Pp8853HyYWVBmYW5EpCuO+V3dvseBiHfzKU5Kwpa+/iOlhZf8sICIxLHq6urJAi5/Ha+sqBcdpXWP2dKQF6vi9MKwnex8ahpW8v13LZDo18/c/T96xqjBMbv14uyvbWV+nt7GQfQSGRQbumDW9dMuB2HRj9yWcquLtOn968lpjbg4RSggx3tjCkHSsZvq9xCjTa+LNG3jRVa/bDIiwESDHolSuThri4JGgoPSMzTVFwtCA2NLQNsJbPAW2cGeTwOziPd3ZzYusb6ekagweefpdSCMBjxpKFCSMAAQgqMSGBOhcM0dHyAIQAp3jKEMRzRQ8Cgnxob/RLh8zmLUAOhEE0MDzP+eTohMYpAmDM2TrfbXlKRzfLksf6iAakMg6z1++WMAWozmDgmEiivx8P3sN55G2G8n9APKP/k6ChNnZ7gHjnR18c9gmMtDjtdqXHRpRonXciPhCl3NU3mM5YfoGNOB9Xouqr+MUB4asYiEYpFo3RmfIwHIHoE//3I4CCjkDe9brrucUlcyFHFeFyPcaCgSgYINzva0yOrFAwE6EBbW1GVRAIOJLA4DhCuBUpZlQ51dsrZgioBhKkMlLVKAAEuMLgOv42AUgbCgDOjAEKTiyfPnLpu4/ORwKK6iXs36MWjWXUgLIQFcHN8AoSFy6XAoEroM1TH/NpQBrJWwZo+XwGDPsP2oZr45Sh+SSrAIP4OAgaf+xoaOFEdNHt69j6/OsQcUgRCbI4SGDMIjY3+Qe+g19B/ikEIY2KXQyHxtxk0ff4sXb54jkF4GisAstmMGxowKw6JZhdbJs5B/7Q0NVUGJKLwtBRwSFRDVMkMEr+LKgYyh8AJIDD7m5slyPwe+yeg0tAsPbOrGBHFiF3GGKEC8Rs+yd60FL7uIAAAAABJRU5ErkJggg==",
     "wiki_name": "Black slayer helmet (i) (Soul Wars)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_slayer_helmet_(i)#Soul_Wars",
     "equipment": null,

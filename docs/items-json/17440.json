@@ -1,7 +1,7 @@
 {
     "id": 17440,
     "name": "Schematics",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-21",
     "duplicate": true,
     "examine": "Transparent overlays - details of something?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZElEQVR4Xu2WgUYEURSGdxr1HtmSoqxSsloRERERscSSZekNep96zen8996ze+65szNr71HkHj7GzPB/c/6ZtYNBmTJlyvyLqZqYP5mVQD2ceA5um539sZWUfspu6sM7D0lEkJiBUNXsjl4c9dmz5/TJc/K44vihqY/uPSyksRJaikgZKQQZKRT4/vqMj21qC0JtIlKmDxbN35KvTG8IT9xHIgVMhM5f49qCmAvVG+uDassXupimLzaxFGpBb8vdC6H82kjo8s1tiaUYF6IEI4G2jwFS2UJXMy/ECCEtyVvka0nVwKw2IMTWCXXhhKi2fCHUxlJBTFekibYqHsCuNkhpsU1QYga1kdD1eyylSLbTJQ+pvNpIaDz3QoQLDMdrgUzbOd4Q1ZYvhC1pEKTPAdzP4B5sBu8PPn38Yod/A1tKkdDNIg2S4Lpgb/IRwvrYaioXoAOZNCQrbNPRYb8WXKaM2fwAB6Zf+tS7rW0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfklEQVR4Xu2WAUcEQRiGb1v1Oy6VFOWUktOJiIiIiIhIRP+g/1N/c/vemfnuZt7Z2103o5T5eDi7695nv3f33GhUpkyZMv9iqibkV2YhUG/NLNsXzdrmNJcU32U39c6lRSQCRAznJ+NxilTVrE/uDfXhneXg1rJ/s2Dvuql3rywqxOQSmov4Mr4QZHwhx9fnR/g5T21OqE3El+lDRdO3ZCvjDeGO+4ikQBaho4ewNidmQnljfUht6ULHj/GDLcyFWuBtmWsh5NXGSQNHhE6ezJZUSjEhJBgItL0MkEqrTYROn62Q4gmxpG5Rz0VVg2y1AU9smVAXRkhqSxdCbSrlxLgiJtiqdwN+bZw0cFxtkGKxIZBYhtpE6OwllCKi7XTJQyqtNhGavlohwQS6z0uBTNsx3ZDUli6ELTEI4mMA1yu4BpvB84NXH7/Y7t/Ais+RCJ2/xUE+OO+xMXt3Yd1gQytsqTIBHKhwCIf1wWkDJw4cEszfknU47MeCy/zV+QYqn5UFufauLwAAAABJRU5ErkJggg==",
     "wiki_name": "Schematics (Dwarf Engineer)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Schematics_(Dwarf_Engineer)",
     "equipment": null,

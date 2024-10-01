@@ -1,7 +1,7 @@
 {
     "id": 21475,
     "name": "Mahogany seedling (w)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": false,
     "examine": "A mahogany tree seed has been sown and watered in this plant pot.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu2W/2sScRzGPURkIoooJyrbUFOZE78xt8lmTMhgEKOiUcRabmNUuBWNggUF/RAE/RAE/b9P93yOt56Xx+7aSb/4wMP9sN3nXp/n87w/WyCwkC/S4M5z1eRD/UIcvVXT3ZUYNnNR5VbWdD0dUf4b0G7Pmrz8vJnGcSuNk40MzjtZ5bNGHK9acYzaCbztJHC1mcDHrSQ+dZO42l3GaDunfp/vPqml8KCSxH45Od6QRyhNATyspnBQiuJROYrDShTPqjEcrZse1mOOUAIm/rIzMTdDMM9AfNEOJCZYYy2Odi2BzWZSuXRygdLpJcpnl2ieXkyZoFY/reteU9JU5ATaL0QUFL1ejqHwcqRcHI4UFF0cXuAOgW5wt51SSTJZHqEnIPaAQFU9gkohpkwgqwXICjbLkiS7xDWlT4Niwi2UpnogxeRCXIDTRLD88WhsScwJlB8nBNfgUfHImfYgH8F2dsk90Pc9Hd/upvC1l1JlZDnf7eRUt7g4p4VjTkj2gbvlx/kzThY38norqzbFI+IgsHvso8A09bBbIErD7/tp/Bqk8fOejh99fSbkLDNdlpfTxynkRBKI6bCTcp14gBFp+FAJj22Hs5qgAkkYlpdATIdAhNlKBtGIB1GNBf4FhtLwuTMBsvt6zXy+L4dxWQrhTTGE80IIJ/kQXqyafpwLYT8TxJ4exK7xbBvPauIWQNw5oZx8vWFAtQyopgHVMKBqBtS6AVU1gCohHBqgB/kgBss+All9G6D+yhI6mTBqKU9ltkpTHWC5nWwvvPRIis1Ss9AyXb1l16PuJE2V2ckCZJ8+KTY3xHGXu8fjqM/SzUD268A69jJhBPJwEd4kZyj7/STHxXTkuAjE/viQjmgaiKmIBciejhwXgXgZ+piOSJsCsQLZ05HjIhDL7HM6otlA9umy3tIs85zSEZlQTEXsBMQySzpzgqG0KRh7fwSIZZZ0eBHOEYiaQMkfVmuhZdSZjg+XoFuZ/y9ZgZiO9SL06RL0In7IjRda6P/pDwpYWxUV/1mmAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xu2X22sTQRjFO4QQGkJCSNjQhF6SmISmobnQ9EJbacEIBSkqiiJae6GopFUsChUUfBAEHwTB//e4Z8LX3YxZsttufZAeOOSh3Z3fnDnfpJ2YuFEoUvDna5Wz0HYphc3ZgddmklguJLTb+YEXc3HtvwFNB5bz8LNWDnvtHA6WpnDczWsfNVN41U6h30njbTeNs+U0Pq5k8Gktg7ONafRXC/r3+eyjRhb3ahnsVDMXGwoIpTTA/XoWu5UEHlQTeFxL4Gk9iecLA+8vJj2hBEz8Zd0xN0MwrtGam/MLpfSDJpCYYM35FDqNNJZbGe3KwQkqh6eoHp2idXgyZIK6/WTRCpqS0pETaKcU11D0QjWJ0su+dnm/r6Ho8v4JbhFojNc6WZ0kk+URBkhJ6R4QqG7FUSsltQnktgC5wUZZkmSX+E7pU6+c9puS0j2QYvJFfAGniWDFvf6FJTEvUC5OCL6DR8UjZ9q9Yhyr+Um/KSl837Lw7XYWXzezuows57v1gu4WX85p4ZgTkn3gbrk4f8bJ4kZer+T1pnhEHAR2j30UmJYV8wtEKfy+m8OvXg4/71j4sW2NhBxlpsvycvo4hZxIAjEddlKuE4HxCUQpfKjFLmzCuU1QgSQMy0sgpkMgwqxkImimIqgnJy4DQyl87jpAps/nB5/vqzGcVqJ4U47iuBTFQTGKF7MDPyxEsTMVwZYVwYb92bE/62kHyFxxjJTeOaG8fL5kQ7VtqJYN1bShGjbUgg1Vt4FqUTy2QXeLEfSmQwRy+ypA2zOT6E7F0MgGKrNbSneA5fayWXjpkRSbpWahZbo2p51RvwQQpXSZvSxA5vRJsbkhjrvcPQFHfZTGA5nXgXvsZcII5L4IrwBEeUOZ95McF9OR4yIQ+xNCOqJhIKYiFiAzHTkuAvEyDDEdkRoCcQOZ6chxEYhlDjkd0Wggc7rctzTLfE3piAZQTEXsBcQySzrXBEOpIRizPwLEMks6vAhDPipTDpR8sboLLaPOdEK4BP1q8PeSG4jpuC/CkC7BIDL/zxrtf5COI1lsnM3nbvTf6g9ml5Rt2/RrJwAAAABJRU5ErkJggg==",
     "wiki_name": "Mahogany seedling (Watered)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mahogany_seedling#Watered",
     "equipment": null,

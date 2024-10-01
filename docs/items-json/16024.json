@@ -1,7 +1,7 @@
 {
     "id": 16024,
     "name": "Rune shield (h3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "A shield with a heraldic design",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFklEQVR4Xu3WPUsDQRAG4IRwLNcIggjRIqgoqEWISAz4GVAJIfgdjKKiooWFhRhQUCSFnYUgWFgIFv7P0dl1bufWTcgldwbUgbcND+/O3iYW+5/fPXHQ6fjEYTgZg7H+GKRTiU7DFKbsbMGOU/FQUyMc9qO4OKR6NWjf2YNT58RDzYwmYGH8x1pT7Ww46z7QdUHA/aqAp23XQ32HhY5TzWAIhEFQdVlArSRkSxODKgiLGKfaWUmUJIhQF4tCgm6LGjRZqkB2dVeGYCHjdDtH0w6czjpwNu/AeV4FUXhsNhCPDYcJiIpDX/d3DIaODXcJI0HFcl2QifO31fRoUCMMXX8CNULxhgJjero0xgQRBhebgxq11AYGR7WDy2xi+LVHDCZT2JSJCKTaoeNCFMXWTjOgNjA4fpCJ4qHjSi+t+UC269/yIhNmIJOTGZqcgeHsnMxILi/j7c3nVZegr9j2iIMCYnAUiGMIZGIwVXEp44G+vtYEahvT5aojMjE2EGEw1+LKB7I9Iy2B+HHZQLTEHIQYig2DaQGDoxoiVD0QYvB1f95xfZjXA1fGBLWwyHx0SyaI3yoCvewpBM/boQvvx+rvSBvt8PGjCETH9Vh2fSBs51bcyBCIGgoBQ6PfMbOdRiBMTdxFAzK/1gh62BRWEKEIgwkRQ8NaSupvjxnzqkcIwtGPLH8u+MfRBosIQ4M/HjT/88fmAykO8ej0z4ETAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMElEQVR4Xu3WuUsDQRQG8CxhGbYRBBHUIh4koBYeiAqeAZUQgnfwIIqKKSwsRMGAQVLYWQiChYVg4f/59M34dt5OJiHZbBTEB1+7++ObmZ2Nxf7nb48DOr8+DiR7YjDSF4OxRPy3YQqTd3fhwN33UTMpDvtRnAOJbg06cgtQdM991PxwHJZHf6w11c62uxUAlTICHjYEPO95PqoaFjlONYMhEAZBN2sCKjkhW5ocVEFYm3GqnfV4ToIIdbUiJKic1aCp3D5MbxzKECxinG7ndM6F4oILF0suXKZVEIXLZgPx2HCYJlEO9HZWYzC0bLiXMBKUzdcEmTje1nh/f6MoDaqHoeNPoHoo3hBhGgQ50NWhMSaIMLixOaheSy1gcFQ7uJlNDD/2iMFMZHZkmgWZb60xqh1aLkRRbO00ArJhQoNMFA8t19jqZgBkO/6hNzJhBiZmZYam5iE5vSiTmk3L+Pvm66hL0Hds+4iDQrfDMQQyMZgbcS3jg76/1gRqGdPhqSUyMTYQYTAlcRsA2a6RJpcKJ7hcNhBtYg5CDMWGwYRoB0c1RKhaIMTg7f5y4AUwb8eejAkKsZH56JZMED9VBHotKATP+4kHH2fqd6SFdvgEUQSi5XrKewEQtlMWdzIEooYiwNDoe8xspx4IUxH3VSDz6SGm+muNoMcdYQURijCYCNuhYS316G+PGfOomyDzqS2OvmT5dcE/jjZYG9rhw385G0sbMWroBc3EfMb/RDmfOlouLZx+Yb0AAAAASUVORK5CYII=",
     "wiki_name": "Rune shield (h3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_shield_(h3)",
     "equipment": null,

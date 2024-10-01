@@ -1,7 +1,7 @@
 {
     "id": 20237,
     "name": "Ancient blessing",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "The misery that is now upon us is but the passing of greed, the bitterness of those who fear the way of progress.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClklEQVR4Xu3U+0tTYRgHcN8/ZYjK3NhUpi4aprRaaaSimZfUtbykOe93M5vawgyp1DRj0o2yy5JCKhIhQYJ+6V/61vc5vGr+GnsPRA88nHPewc6H7/ueJy3tf/27pWC1raURCu6MIgTyLtiJUsjLDsGTWYIsh19Ax3Kr7AIplBQ2oshXC7+3Aj5XKXKcQbtACqePR3C+OIpQoBVBfxjFBfWCIY5rBlFKUiGo/GQPqk4NyfVs0VVZY2q82gaqOTOO2tJJVIdGUBnsR9mJTknI6w6YRR0GNZbPSteVTckzU2MbBLHUH6CW6gVEqubRXBFHw7lpSa3QFzKPIogIgq7Vr6D94qLchyvnZN0CGUbxxa019wXU27SO1cEC3Iv6MNeRi1jEgwyHwzyKoK6GNSTG/Hg8XIjl/nyBHG7jKA1iH8XYhiImKz1dOjszU9rtdOJG2I3RBpd5ECFel0s6z+PBYq91lmZbvJhocmGwLtskSkkaGqPPEg94vD1HxoGeVQa+PiXbQ0x+jldeRhC7o3Z5fxxwVnEk6FmVchSTOXiJheIoYHdfSshoIJBfJXEcqilO6+gfK4EMRV5i5MoGBi6/QF/zUwHyq9TJHQzRlJcFImS8LYnJjg9yHW19I0Di+LtOLcVp6VLyYiKmOrdwq+8LYl2f5P56+6asE8zUuKUHsJSVBWIiTIighYkdzA1v4/bAV8x0f5Z1wqJtd9EWnkk1iKXkHDERAubHtvEwvispccs2VreRfLWH5JOf8mwAxFJyfrhdTIfbtP4bQsz719/xbOmHbJshDEvtnyNu1aP4JhLzH/EusYO1O3uyrQYxupScl+meFSwtbFkJPd+V7bQBo0vhQewbFm++RXxAnxfbMLo0wnbI39cvQaouRz0ZLLQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrUlEQVR4Xu2U60tUURTFPf+JIio6w8woo04kpmRNaaSimY/UafKR5vv9yMxHE2ZIpaYZI70oe6gUUtEgJEjQl/6lVWtfjqP1LbjnQrRgc+8998P5sfbaOyHhv/5dKVjlqDSEgjslH3lZF5yEUsjKCMKTWoi0pIAAHcusECBfYqJpKIXC3Hrk+6sR8JbB7yqGL73IKSCF08fDOF/QiWBeM4oCIRTk1AoM4XhmsG1KXCFQ6cluVJwalOfZ/KtyRtf4NOjSUaCqM2OoLp5AZXAY5UV9KDnRLg553XlmXToMVF86K1VTMinfdI1l0CVKHQFqqlxAuGIejWUR1J2bFtdy/UGTLlFKgAhBoGu1K2i9uCjvofI5ObeADEPx4uaq+wLU07CO1YEc3Ov0Y64tE1NhD1KSksxDEaijbg3R0QAeD+ViuS9bQA6XcSgNxPodxjEowqQlJ0tlpKZKudPTcSPkxkidy/zkEcTrcklleTxY7LGyNNvkxXiDCwM1GSZdUuKGhtFZYsAjrT5ZB3pXGZg+Je0hTLbPK5cRiNVWvXywDriruBL0rrIdis7Ec2JBcRWwui5FZTUQkFNJOC5Vm92yYOLBVQIyGH6J4Ssb6L/8Ar2NTwWQU6mdiy9RG3R0iiwggoy1bGKi7b08R5rfCCDh+F+7ZrNbWkouJsRk+w5u9X7GVMdHeb/eui3nBKZrbGkczDZZQHSEDhFoYXwXc0Mx3O7/gpmuT3JOsM6Wu2gJzRzKoW1SkiM6QoD50RgeRvbEJbZsYzWGzVf72HzyQ74NAFFK8sN20R22af0XCGG2Xn/Ds6Xv0rY/B8M2qYMcsVWPItuIzn/Au+gu1u7sS1sNwmgpyct09wqWFnYsh57vSTsdgNFSeDD1FYs33yLSb+XFQRgtvW/iIA7CWPpbkJ9EElIeg3T0dwAAAABJRU5ErkJggg==",
     "wiki_name": "Ancient blessing",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_blessing",
     "equipment": null,

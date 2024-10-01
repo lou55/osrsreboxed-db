@@ -1,7 +1,7 @@
 {
     "id": 8144,
     "name": "Man trap",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6klEQVR4Xu2Ua0sCQRSG3Y9FBKEYGhYmJmioSVlCUREVhR+kKLpQUQhSFEQQ9O+nnpmOO1srurv6bV8YZi/umcf3XBKJWLFixRomR5k16H7i8h7eOS6qvdbiL4SjrjtldbC95AM5ETnqaDffP7x9WFDnpysaolZO62f3F6vq8aqqGtV5D+QEoBx1sr+sgQDBBdy5bJfU7VlFQ+SyM6p7U1O9u7oGy+dmNQjvXNfGAmYCkRoBAk7c4XABeXlYU29PDfXe3dDAXPMMcGLI/veEADLOsGwgYAgOEA5JqoAC4qPXVF+vW+rzeVNf81yciwwkhStAwAHlpmDwwh3cAg5QnIwAZIoUN5r1jAYKXgtO3zXcYo9Q5KYgCbDTXAgIYst8BxALh8PF+fkIi930mGfe34wqN42kPZWcCgNlChqHSoWkDuD/74bf852MCvZMetonzlCZNiVt1BBgUk+2Y17I//fSCOzSHMysUEC0NIVIYZI+itye1gADaQPggt2F0pUC5NZjKDm6ZZklAoZTlVJKOwcg0NI57AIp6QFGgIBprWejACFHwwiYtDEzBtcEjN/ZgDYYQLgDjDfloWXmiQw5wLgWMN4V83MeQAEDCqeijQ5fmTEAxKDFe0DEGSnmMYPYksBBV6xYsWKNpG9R+tU/MxazswAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBUlEQVR4Xu2U7StDYRjGdz6SlCYyYbNYbZpZDEVIiPZhEXkJkRJRUsp//+j3PK6ds2NrnbOtfDhX3Z33+/md67nvO5VKlChRom7yjItO1wNX6+KNowWzuzn7C+GZq0bR7G/NtYEciDxzuJNrLl4/yJuzk0ULsVycsPfuzpfMw2XZVMuTLZADgPLM8d68BQIEF3Dnol4wN6clCzGTGTFP18vm+bZiwXIzoxaEZ75rfQFzidgaAQEnd1hcIK/3K+b9sWo+ntYsMOfcA5wcOoZXiCDnDBEEAobkAOGQtgooID6fa+b7bcN8vazbc+7LOXJWstm4UH7hCgg4oPwt6By4g1vAAYqTPQC5IsWNWmXKAgVrgaTdgvfkGm5x7KHIXUGSYLs23RYk/EV7ue8AInA4pkuetVjboz+OkSglKIJtH08PxXHJFTQOFfJpm0B/F36v2zXfaVRwnJoYjvNzrk3ZNmoIMNWTv2gY8u+1GoGjmoOZFQuIlqYQKUy2jyIPTmuAgfSTu64MdqG6UkCqx2h12JRnW5ZZIjCcKhXGrXMAAq3O4ShIbQ8wAgJmczUTx52gPAsjMLUxMwbXBMZ7QcAgGEC4A4y2vAcg5OaJhhxgnAuMZwu5sRZAgQGFU+1GR3iViHJjAIhOwXNA5IyKOQzSBxjJnydRYgAgvoLJo0Q4T6JEif6DfgD1VhdAc8MvFgAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

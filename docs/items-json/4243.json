@@ -1,7 +1,7 @@
 {
     "id": 4243,
     "name": "Cup of tea",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": false,
     "examine": "A milky cup of nettle tea.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4Xu2WwU5TQRSGmRchwUQWvoELVi4MGwQVERFBREREEBEJIgiIJYiIUhG1gRBEIMRAEI0hsIGoiQuf6Zhv6mkvw0A7BVlxkj9tc6f3fPc/58ydvLzjOJQwkllHEslksa4uGeruluc9PfLiSa+87O+zn6+eDkg8FpOJoaH/DZcGQWfPnfYKsPFngxZqcnhYEqOjMjU25nHvQKBpR1yAbHX14gWpraiQ+qoquV1TI3dv1EnbrYZcoEyqNG6SEFFKyohjM/G4zL9/J4tTU3KqsDAUytjecBOEiORzk29lbXFBlj/OWhB+872hujociL5AbqJspDCzE29SINPjr2VrfV1W5+etWycLCkKgjG1SbVRsR25inxRGIdCHkZFUQ39bWrLXrl0qDwOKgjA53FSnB5GIJ8UFEgASdQb5Jm3z65p1jXueyM/PBsqkIPYCyQTDNcT/FKTvQbt9yB+bm7Lyac5eYwqzAgLCB6KJfEAuDP/hgSg7n0vT07LxZVX+/Pop35eX7Xp6NCsgH4iWQRP63FFYxD1wmqTrKyvye3tLtjc2bA+xLl3GjGG8ZXEd8Lmj/+NBcBh32D6YLtxhwtJ9lXWYXSBus/pg1B0SqjtsjGyu7EWfZ2Yi0xYUZgfIQiKxY5R9QC4MiWlgysXrhzXpF29wmBQI46lAUTd87kRhaGJ1Z7CzU3rvt+UKQxgLwlQokOtS1C11Jwqj7vA+LC8pkbLi4lyBjLQ3NkpHU5MXSKH2KhUwlEabmTc9e83l0tJcgIw8amnxygXar1S4Q7k4anDk4OihYIFQyd308b1W6Wxu3lfuVCkM7gDEGpxuvVkvd67X2rd7XWVlOBBNyFQMPOywjYg7lE8VhXJdVHGNtQqEU0DhVuCxw1iraUYFwzEScMpDJNEe80Hym3UKgviOAKLBA4AIk3r/0JRMieuWC+cCupAIh2jsM0VF4UC+Bt2rlIDhok+sRbh05XzZP5AgGA2za3J0lKPl5DOTKNUBQKKRvAlQLphOEtJTJS4iyszOzKRSykMAcUOfLnlG0kNbFEzfV9G1h+RKpnCTuTqOo42/h0DU0UZ++PwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSUlEQVR4Xu2WTU8UQRCG6T9CwEQOnrx64OTBcEFQERERREREBBGRIPIhIgQRUVZEJRCCCIQYCKIxBC4QNfHgbyrz9Fq7s00vO7OsHoyVvNndTG/XM29V9Uxe3v/ISRjJrL8S8WTD3d0y0tMjT3p75Wl/nzx7OGA/nz8alNjwsEyNjPxpuCQIOnX6hFeATT4eslDTo6MyMz4usxMTHvcOBZp0xAUIq0vnzkpdZaU0VFfLjdpauXW1XtqvN2YDZRKlcZNEEaWkjDg2H4vJ0pvXsjI7K8eKiqJCGdsbboIoIvni9CvZXFmWtXcLFoTffG+sqbFAxwsKwkIZ2xfITRRGCrMw9TIBMjf5Qna3tmRjacm6dbSwMIpLxjapNiq2IzexTwqjEOjt2FiioT+vrtprl89XRHHJpIAwOWyq04NIxJ3iAgkACTqDfJO282nTusaeR/Lzw7hkEhDpQDLBcA3xPwUZuNthb/Lrzo6sv1+015jCEC4ZC+ED0UQ+IBeG/3BDlJ3P1bk52f64IT+/f5Mva2t2PT0aCsgHomXQhD53FBaxB06TdGt9XX7s7cre9rbtIdapc8BkBPKVxXXA547+jxvBYdzh+GC6cIcJ075SkAwwhNkH4jarD0bdIaG6w8HI4cpZ9GF+PjFtIUE0TArI8sxMyij7gFwYEtPAlIvHD2v0wRsRhjAJEMZTgYJu+NwJwtDE6s5QV5f03WnPFoYwFoSpUCDXpaBb6k4QRt3heVhRWirlJSVhpskXRjqamqSzudkLpFDpSgUMpdFm5knPWXOhrCwbICP3W1u9coEOKhXuUC5eNXjl4NVDweKjHjrip+mD223S1dJyoNypUhjcAYg1ON12rUFuXqmzT/f6qqqoLhnbhEzF4L1O24i4Q/lUQSjXRRXXWKtAOAUUbulrh5s5TRhrNc2oYDhGAt7yEEm0x3yQ/GadgiC+I4Bo8Mgu6fOHpmRKXLdcOBfQhUQ4RGOfLC6ODuRr0HSlBAwXfWItwqWLZ8p/lyqrs8jsmxwd5WA5+cwkSuWCRITRiG8ClAumk4T0rRIXEWXmZGZSKWUOQJIR3yD5pqdQLpg+r4JrXVfcvQ8VyU33J/Qld+Xul9Nwk7ly1/9T8Qu13xhBmRFqxgAAAABJRU5ErkJggg==",
     "wiki_name": "Cup of tea (milky nettle)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cup_of_tea_(milky_nettle)",
     "equipment": null,

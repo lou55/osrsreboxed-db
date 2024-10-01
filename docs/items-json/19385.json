@@ -1,7 +1,7 @@
 {
     "id": 19385,
     "name": "Hunter potion(1)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "1 dose of Hunter potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChElEQVR4Xt2XS09aQRiGGdo/4LIltVflIiKCgHIT5KqIiIRyEwQLFApB5Cp020WTbpo0XTVdNbY7Jf2Db5lRDiBNmzZwjvFLns1JGJ583ztz5ohEd6MIxhG0CHKx5wj75uEyP4BGOSe0FMH3T2Z8+2hinGblSASfCilFOJmvH9ZRyUgR3XsslNBVZgZCX94bUEotsvEJkCcC/14IwWCE687ndzoUDhdw4H0Evd4Eo8nOpxRBPH40wa4/BJfbj02bG2q1jl+hXL7AyOeLHDu+IBzOHeh0RiwsyvkVqp7WOSqVKkqlCrzbAWwYbVAsrUAiGWSJtyI4P/+BXu8nLi97uLjosXGtruqFCDUtgsxxDu32Gbrdtww6Lq12XQgZWgTlcgWdTueaLpcfwYRodxhnHQYdmcFggUy+zLcUQaFQQqvVHmMQ6iWlmk8hglg8hUajiWazxaAy0VgSvt0DWKwOqFa0kMmUfEkRFN+Ux4QoVDIQCMNm90CjMbCtz4MQQSKRRq1WZ0Kj0OcHoQgcjm0WbJ661O9OsYR6vTkGFTpMphEOx+H29IO9bmXn0Yy7RJBMZnByctqXaFwzlEqljhGJJLC9sw+TeQtraxtYVmkglSpmJUXY+4qOizKUuuLo6BULNr0FWDddXJfkCtUshAjrAD0IB0KjUKF0JsuCvb//EvYtL7t+zLBLBNns67EXKuWezjAGDXYoFIXT5WPbnx6S9Boy5S5d7Sy61avV2oTEvzAlKTKx8P9y64Qot0JKNP8EormpfrMR3Hd5/orY5oTYsgmx0QyxSg0xvcY+lExbZlB0wT+LcUKjMte/u7naFGvwB5NyTKgvI3r2gg+R39VQbpI7WL8AIKhwysQRFj8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqklEQVR4Xt2XS08aURiGObR/wGVrau1FEUREkItcFOWm4g0I5SYgFikUgygCQrddNOmmSdNV01Vju1PSP/iWcwaGm0ljMxyafsmzIcPMk/f7zpkzMtn/UQT9jLUITqIvEPJNwW17BJ16YtxSBD8+2/D9k5VxnlEi7n82Tikiynz7aEYxrUBk7ykT0k5P85YSZqYj9PWDCYXkLGvfGOaJYHcvCL8/LKbz5b0BucMZBDafwGi0wmJd5ylFEIulhtjZDcLt2cWawwOt1sCzda3Vlc0xstm8yLbPD6drGwaDBTOzSr5CpfOySLFYQqFQxObWPlYsDqjmFzE5KcwSJyFaBNfXP9Fs/sLtbRM3N03WrqUlozjUVIarUPr4BLXaFRqNdwzaLr3ePA4ZWgSnp0XU6/U2DXF+OLeqU4Slw7iqM2jLTCY75pQLPJc8LYJcroBqtdZHZ6jn1VqeKRFEY0lcXlZQqVQZVCYSTcC3E4B91QnNoh5zc2peKRHk3572CVGo5P5+CI51L3Q6E1v6HFIiiMePcHFRZkK90N8DwTCczi022JxSaqWTL6BcrvRBhQ4TRwiFYvB4W4NtXmX70YhTIkgk0jg7O29JXLbpSiWTxwiH49jaPoDVtoHl5RUsaHRQKFSjSomw9xVtF6UrJZBKvWaDTU8Bq2tuMSWlSjOKlAhLgG6EHaFeqNBROsMG++DgFdY3NtnxY4QpEWQyb/peqJQHBlMfdLCDwQhcbh9b/nSTpMcQiVMSVhZd6qXSxZDEfZAoJTJ0479FopSkE6L8EynJplqpTAjfbBIdSwgeur1/RO5wQW5fg9xig1yjhZweYx9PSi3TKeEUOChxp1CvTPt/EssIJdyw8801LMeEWjKy5y+HRCSX6a3uA7pyg3ARuat6HzzI4LX3rd+oKKXVHiOxswAAAABJRU5ErkJggg==",
     "wiki_name": "Hunter potion (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hunter_potion#1_dose",
     "equipment": null,

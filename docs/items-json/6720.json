@@ -1,7 +1,7 @@
 {
     "id": 6720,
     "name": "Slayer gloves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-31",
     "duplicate": true,
     "examine": "Especially good against diseased arachnids.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgklEQVR4Xu2W/2sTQRDFuz8qIkhLpS2xxBBDE0lsSKOBaA1WQ2vAaG3xC/r//xdjP7PO3e0mJrtFECQPhj2OnXdv387s3tbWBv8HnMRvboe/wuOk09qRkiweU8BcJ7X9e0t4suGk1979TeRkZ/uOjs36gwr5Kjip1+7r3JfDg4InXGQWnAyf7UmrsS1np0fFKu0j8ewQTl6PHslosB8IejM+VL71+QFKayHCpemkXTizt3s3gdB/fDJ+onMRZ+8yHSqT7RmXLs46BVHaloWCeGZ8d1qXfvdhQn6BUNBs2lXbGRHGu7KuViEUhBAbjSfO+ANCQWwVghhtZdTTekL/cZt7Pnms4hjn572E/AJhR0CIIMjMmfGwkUDoHXo1aupc8l8M6sptrq3nUHgiROAUyUbW79aKWE/mnSaPZ8Ze50AXY/nWgXFmBC+ILcIdEwTRyfGhEh8146Jc9uzdJReXyCcXDoI6MvfK3KXwe09XmSgCQgKSksiHHZhEeSQ45YhFVSNLEF1VFWVOmUCLsGOczKfNwkHjqOZbmMAkQdYJsag4KND4ruMdH6NOGOEg3yLewiRBs7cNufrQl8v3x0q4bIUU5OIB5+Tywrc2eXyU3NhpBCWKAd72Lx8HgSCrHaJ64cbZvPt59VSuZy11GSE2Gk+GO8ApmQmyGrBCTD2lia/ztnIYT3W7su8ztq1KZCTpN7UXhNtWk7hkDqfzKPy2ffs8DLYtzR2DdxqeeHG3EkRx/rh+rqIocETlCtItu+FBlHHYnZgtiNUZGSvE9sWuWgUn3z91Cp5qk3B2ZdcQnQIhq4QUQXm/DZ6j6hIcHLocGXluK3ynLEYO4tw4Nthgg3+LX4tofse927oJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnElEQVR4Xu2WbWsTQRSFMx8VEaSl0pbYxhBDE0naEKOBaA1WQ2vAaG3xBf3//2LsM9OzOzMpm93gp5ILl1nC3GfPnLkzm1ptE/cjjE1/WS/+C8fYbnvb5rB0LBPMNba+9+gOTuUwtt/ZuQUZu731wI2txpMAXhTGNuqP3dy3o/2MEy+yUhg7Ot617eaWPTs9ylaplxwfHhZAjX0/fmbHw71I0IfJgeOtro8itxYQLs2mncyZ3Z2HJYD+5dPJCzcXcfpNDhXXZ5EX6xmXLs66GUjCioGxIJ4ZP5027KD3tER9FrGg+aznbGdEGL+pr4qBsSCEaBSnuD6LWBBbhSBGrYx+Wg30L9fc8+lzJ45xcd4vUZ9FfCIAIgiYnJmMmiWA3qF345abS/2bYcOx5ZrPleFBiMApigUb9OpZlhFEPXU8M/a7+24xqtcJTCuT8ILYItyRIECvTg4c+KiVNmUIzU+o6nGJemphkPSR3CteWM3vPadKokiAJBCBlLowSV0JJIxUVJiVBHGqQlFySgKV8YkxdjFrZQ6KEdYrJbCUIJ2EVFSaNGh8yfkDwcvoE0YY1CvTLSwlaP6xaa++DOzl5xMHvGuFNGR4wUnQ5YU/2tTxUmpTpxEUilkpCNt/fB1GgtQ7ZPjBXQYa+/fqpb2et53LCNEoTgV3CONgEqQeUCOGt/SymJxB/lx0HEOccLsqf8/YthAkSPkvtReE2+pJXJLD5Tku/Lb9+j6Kti11J62KwzsNJ13cWoJozj/Xr50oGhxR5T6qitstu+EgSgx9EysLYnWCsUJsr/a3wdjf37oZJzwk3F2Ve4iTApBVAkVQtb8NnhG6BINLlyujmtsu8k9DmOX6R7Fcvz7rJlSQZjqvKNLaNNP5m9jEvY5/ARzTXLQ14kkAAAAASUVORK5CYII=",
     "wiki_name": "Slayer gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Slayer_gloves",
     "equipment": {

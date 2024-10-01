@@ -1,7 +1,7 @@
 {
     "id": 24845,
     "name": "Ring of endurance (uncharged)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-12",
     "duplicate": true,
     "examine": "I wonder if this ring helps with...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xu3Wz08TQRQHcHowzRrjRUPCxTuJFy96IMpN40VRSP2NQRBFhaShChQhVdciFKsUqkEDAdLUWrWoUTQajV6M/w1/wpPvbF55Oztit12MByd56XZntvvZNzNvW1f377cQmcPUv+ktRKnhVhofOqYiOdBCduyoCkbkpjpoMX2e5ifbDSj9IWqGOyBGAcShY+YmztLj5GnXjfEdfXq4Ub6QIUqPtHlQ+ASEg0FZ+yRNJSJqLD5NIIyX6C/FYfqU768OxSAcc3YY9OTeGQXisb8D4brPhSH6VrpF30t3FMgXBj/KT80g3NQEmr59ogzCsQmUn77gAuG4QlDINQ24ES9ufNdB+vqRIUHFRxeDA3GWcE4HYXwqFqaxaJjsvjAlrobp5mUnJOrVbHcZhPAF4nWhg5ANE6iU2UoLSYsycUuhBrvcGMTy00tu0LMbtYNwHiBGIZMqo7ZFDwYsWv25new1TG/rFg/ozVxPsCAEABLEawUYmRkdg7Eri9fKoK8vRyvFoLlBEoUfZxDG5cYtFbMJqwzBLsP1OujDUl+1ILT1HzeB0Fd/YIIaDs1TNmrRQtwBYRyuQSZ10MdctFqQU4OQIRMI/TubbKpvTtOupus0ebdbBT8ErtNBeAgJ8lEUnS1vAiEYtGPfCDXs6VCQmfu9KuL9p6itZb/qlyBkJ1AQoxDo/5HfprZ5dsRSNYcz83xxlF4sJRQM3zcFJLOET/TPxixK9awVvvYwRSProN2NjTSW6DSCCjOdZRCqdIUYNGeHmUD8fsIYuWa4JODYBEJ28NqQGaoKpK8j3soMihxvdqHw2dN1xAXi6cJrIzAQo3Cei+HbYkrd+PDBvSoYhnOjg+c8IFRpCfKBckCmaWMQ/kZg3OvCOOXn4gqBkNtfrh+Mfzd/pQxCDfJRh9wgOW0SxJkC6n3poYqV5YwKCUJ2agZhl/0JhJvxrtOD1xpPV2AgfdpwXoKw0HmHoWhyrcJ1PBYgbHkJQg3yXYdM0yZBON4IJNdPICDTtEkQ+uTfEgni1wZPV40gNO+6MIXEyNBBKIoSxOEDVGnzIjnk+vmLoI2aF+mN/6229gttgEpWhaCXBQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xs3Wz08TQRQH8PZgmjXGi4aEi+FK4kEveiDKTeNFUQj+xiCIokLSgAJFSNUKliLKLw0aCBBSK2pRo2g0Gr0Q/xv/hCff2bzt29cBW7oYJnnpdne289k3M28bCm39FiZ72K5vegtTqreWkj0nTQx01VCi84QJRiyMNtLcyCWaGW6woPRDlAx3QYwCiENjpocu0LOBc76B8R3XdPhRRSHDNNJXl4fCJyAcDJpMnKHReL3pi08bCP0l+vtiL31Nd2wMxSAcc3YY9PzheQPivmuBcN+3TA/9zN6lX9n7BoQx9lVUmNCjq+amnZ+aQRjUBhq/d9oD4dgGSo9f9oFwzCA9umph3zRgIF7c+K5Bev3IkKDFp1eCA3GWcE6D0D/VGaHBaIQS7RGK34jQnWtuSNTbqRYPhCgKxOtCg5ANGyg7tp1mBxwaizkG1d3sxyCWXlz1g17eLh2E8wAxCpk0GU049LjLoT+/d1JiFdNWuy0P9H66NVgQAgAJ4rUCjMyMxqDv8txND/TjTb+HKRokUfhxBqHfQtIxMRV3PAh2Ge7XoM/z7VaQHn2NlvtxGwjXyg4PUfnRGZqMOjQbc0Hoh3uQSQ36shDdKMitQciQDYTru6sSVFY9QnuqbtHwgxYT/BC4T4PwEBIki6IeXTV3y9tACAbtOthH5fsbDWTiUZuJWMdZqqs5ZK5LELITKIhRCFxfSe8w23yyzzE1hzPzaq6fXs/HDQzfNwUks4RPXJ/qdCjVulr4GiIUrc+B9lZW0mC8yQrKTDR5IFRpxhQEwg6xgfj9hD5yzXBJwLENhOzgtSEzVGB20HIgvY54KzOo/lS1D4XP1ubjPhBPF14bgYEYhfNcDD8spszAx44cMMEwnOvvvpgHQpWWIEbp0S3NBdmmjUH4G4F+7zJJSk/HDAIht79cP+j/cea6B0INKqIO+UFy2iSIMwXUp+wTE8tLYyYkCNkpGYRd9i8QBuNdp4PXGk9XYCA9bTgvQVjovMNQNLlW4T7uCxC2vAShBhVdh2zTJkE4Xg8k108gINu0SRCuyb8lEsSvDZ6uEkFo+evCFhIjQ4NQFCWIowhQKMRlfb3QQBly/QQCKrRpZCFYjlzf/9Q00hb6ni3d/gK3hJTidRL2WAAAAABJRU5ErkJggg==",
     "wiki_name": "Ring of endurance (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ring_of_endurance#Uncharged",
     "equipment": null,

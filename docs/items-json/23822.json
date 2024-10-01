@@ -1,7 +1,7 @@
 {
     "id": 23822,
     "name": "Corrupted pickaxe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "If rocks could feel fear, they'd fear this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACI0lEQVR4XuWW30vbUBTHPab2h1Sx2lmXrp21GqnV1nbarlA6xQ7xFwy3qchkL1NR9EVBBBXZXkT2MsZg7Gl/waD/4Xc5N7WxfWhsG2PQLxyahN57Pznfc29OW9vjE6H2icViAD2uXIPla0ulA3xzhXHslHHhCgmYX+4hq4EInx3PsO0MYM85IILvT5xBfHdH8NejWAlEWJR8WJF6serow7rDL36POmSc9wzjq2cQP1SoP+7hKhtrZzFZ1TWTk7oE4I43hGNvWGTq1PUCl6qV1w9lYUiW8TIYxAc1WzeZ2yrbyoAWQpEAGY/FkE2lBFBR6kFB6q4EPztQ6+y3O2oFFGEkEkEyHkc6kaipG91SrrvdKqh7AdOsGo1GMT2ZrLMI4VW7V2SLdyQXfKkzVuf/TUu3i6P+AoSJdg+yKhhDcaZKvfVeomER+v1+YZdulZE0q26guNBL8tQdxxpKs2tMUYRljU2qQZ2pR4OJhyhhdlrB1lK2yQm10/6nmqV/HiO7DUWIR2UBk59sNDu3ReLwbH58RYRCegQb82b43+r4MkwxG8PhxowJQC2LMJ8bw3Lhrjvr3kV4N5PE+7mUfYA2FzK4+LJoByBCUgliezVvBxgW4XUigqNPRfsAtXYYmi6toD++TdsHiHfX/tobOwDpvQ9/3fOZzENDEZ4HApXukNtVWwANhcOi5eAs5abM+JY1LUKfzyeaMu4SjdtWS8SL18YT1H9qBDD41+miJwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUUlEQVR4Xt2W22sTQRjFO92Yi0Rp2tTYjUmTpl1Jo7nZJgZCrBgp9gKl3kpp8cVWFH1pQQQtoi9FfClFEJ/8C4T8h8f9ZrLdZEIlZDfTxQNDkmV29rfnfDP5Rkb+PzHIVxSLAOxxHEi1vyuVDfA1kMShX8dRIMFhfgRn+PViisCUiOGFbxJ7/hhe+6/zQb/f++P4Hkzjd8hQCcSwokWwro1j0zeB574o/zy4pOPT2Cy+hFI4MaF+BWe7YpRXcVndNVPTrnDA/XACh+Ekd+pD4AY+m1F+64hQXsVVURzWoIcldB3T8TiemG5Zzu22YyVAJVBCjIPcymZRLZU4UFMbQ0O7ejbo2luzzn4GMyqgGObSaRRyOZTzealu7Eip7l51QQ0FTER1M5PBYrHAH9IZZWekd0bD3C3akVTwrcvZYUDZcdGwgORZQgy3R0OommAERU61xsVLyDMHFMO1aJTHZUVlO3KeRFQWFBV6S19wC0rENW8YPLJ/u2PLipCgPppHg4uHKMP9RQO7q9U+3ZElTvtT06U/Icf1xJDL6BymXuzfnV4xfngO9kJdYmiU57C1LPJ3tpjT+9swzWoW77aWHLhjy+H9DMu1eaw1+t1ZQxfDxlIBjx+UXHHHBTFsP6rg6OWKF4AYCkYce5t178R1N5/GwU7TC+6Qeg9DeYZiiYJ++rDsHSDaXW+e3fMCkN370L97vVLhUPIshWKYisXOukNqVy/YJQE0k0zyloNcqi241ssMIoaJSIQ3ZdQlym2rPFuRehv4Cz8cLYDOIc9xW38BEI9y6sAhTIoAAAAASUVORK5CYII=",
     "wiki_name": "Corrupted pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_pickaxe",
     "equipment": {

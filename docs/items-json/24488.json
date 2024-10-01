@@ -1,7 +1,7 @@
 {
     "id": 24488,
     "name": "Inquisitor's armour set",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-02-06",
     "duplicate": false,
     "examine": "A set containing an Inquisitor's great helm, Inquisitor's hauberk and Inquisitor's plateskirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKUlEQVR4XtWX22saQRSHk4e89KGlFFKa0IhZVHTFG4lJMBrFSy6VxGA15lKb9EJLIBQC/ftP+005y7gxancltAs/dNk5Z749l5mdhYV/91qUp9XEa1F6tTX52t+VwdGGHFVcqWzGzG+7ljHqNLLSbeWNegcFI8ZetItGH062jK5Pt+XT+5IR/r4PKnJ7sWf+8xwbN/p8GtR4oMZOUvZ3U0Z+OAW04RSQiRUImLurqgEDlrGBgVBtK27kh1NAhVMojZJGB5gfw7oBCw20nYvKbsExGgdnp1KjoynTVAFzf90IBoQTnCpQIfVWNtMRI+AUSqNkp+2xVAHz83MzHBBvTlTur4pzUWAgjBSIaNhOh/3eg4lmVSggwk4qbCBg/EA3ucyI7Gf+8YGABo3ICBC1knVdzzkadDoyzKYfwKDLjCvnbkr6qcSIDT78QFnnxexAGAFkO9T/7srKTPLbhgaic9Rpu9k0wnklE5NONevp+uxs5B4xhrFqp34CAdGmGOEQHdSqUi+XpVoqSXlt1QPi14az7/k9dNaNHfZHjbrnLxAQ6whGOGrt7UnCcaQdd6QejXgTTxPjO4k/YPgJFSGACHUqHpdYNGoKFTEB9eGPiH2Pni0tmfEUOjb4SSeT4YAwYjXGKV3Dm96cZEYK1187XkG/Sxthh303GQ9W1JetqAfEvgQQb0o786ZfTrNGTOpPkYpngCNdBrD1AxXiL2cHsjfY2PKyUfLNa/nWzRnZQHbKNEo6Tm1RYCB2ZoAoZm1bYG57eU/j0mWnTcdhh/CBPzo1MJDuZ9qyd2cFT9MiZI/FntYPHSGAesfHxhlAdrqm1ZCORbqObeXz4YF0USPkFKkW9LQIafEje2ENBaQbbLcel34zIef7v7vt0DWipbWTZlWglH08WDdfd3ykKdBhaV3aZceoU415gOMgJ8kPVEy++nsgNtjqxppRvRiR1nbUACokgDYkgDakrbkB7WRWpJxbnQg1DkjTSh1R3HMD0lOHftzraUOPQPqBb5/HmNQ+JLLYzgWISSfB2Gexx2CAoFFCAeGMN58EMktkAHjsGDQDEBcDnlL/yfULNv7hdXBx7dMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADO0lEQVR4Xs2Y2UsbURSH44MvfWgpBUuVGmNIQjIhGxqVmJiQxaVBI2liXGq1Cy2CFIT+/af9bjnDzZitM6l04MdkmHvO/eYsd+YmFPp/jwV5Wk08FqRXW5Wv/V0ZHG3IUcWRymbMnNu1jFGnkZVuK2/UOygYMfaiXTT6cLJldHO6LZ/el4zw931QkbuLPfOb+9g4kefToEYDNXaSsr+bMvLCKaANp4BMrEDA3F9VDRiwjFWg3NraOKjRQKi2FTfywimgwimURkmjA8yP67oBCwy0nYvIbiFqNArOTqVGR1OmqQLm4abhDwgnOFWgQuqtbKbDRsAplEbJTtu4VAHz83MzGBBPTlQeropzkW8gjBSIaNhOr/u9RxPNqkBAhJ1U2EDAeIFuc5kh2fe8430BDRrhISBqJes4rnM06HTkOpt+BIMuM46cOynppxJDNvjwAmWjL2YHwggg26H+dpaXZ5LXNjAQnaNO282mEc4rmZh0qllXN2dnQ9eIMYxVO/XjC4g2xQiH6KBWlXq5LNVSScqrKy4QZxvOvuZ8GF03dtgfNequP19ArCMY4ai1tyeJaFTa8ajUI2F34mlifCfxBww/gSIEEKFOxeMSi0RMoSImoD68EbGv0bPFRTOeQscGP+lkMhgQRqzGOKVreNLbk8xQ4Xprxy3od2kj7LDvJuP+ivqyFXGBeC8BxJPSzjzpl9OsEZN6U6TiHuBIlwFsvUCF+MvZgewXbGxpySj55rV86+aMbCA7ZRolHae2yDcQb2aAKGZtW2DuenlXo9Jlp03HYYfwgT861TeQvs+0Ze/PCq6mRcgeiz2tHzhCAPWOj40zgOx0TashHYt0HdvK54MD6aJGyClSLehpEdLiR/bCGghIX7Ddelz6zYSc7//utkPHiJbWTppVvlL28WDdfN3xkaZAh6V1aZejRp1qzAUcBTlJXqBi8tXfA/GCrW6sGtWLYWltRwygQgJoQwJoQ9qaG9BOZlnKuZWJUKOANK3UEcU9NyDddejHve42dAukH/j2foxJ7U0ii+1cgJh0Eoy9FxsHAwSNEggIZzz5JJBZIgPAuG3QDEAc3j8D/q2AmQIUCumgp5J3fo5fhzkzO3vmj8cAAAAASUVORK5CYII=",
     "wiki_name": "Inquisitor's armour set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Inquisitor's_armour_set",
     "equipment": null,

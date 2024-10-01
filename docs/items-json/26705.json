@@ -1,7 +1,7 @@
 {
     "id": 26705,
     "name": "Blighted surge sack",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-07-13",
     "duplicate": false,
     "examine": "Enough power for any Surge spell, blighted so it can be used only in the Wilderness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4Xu2WT0hUURTGvcQw+BjeMDg4zAyOmGio4WSYGWpOmJkZppmZmRkRgcto16qoiKBV0FIICgzatAyCggJxEUTSX2gh7gShRatxc3rfeZ7xvhsTzcx7m+rAx+DM+O5vvvPvVlX9faGouAIL86BtZdvaiioAKPfQfXuyRbW/o8Ojmlis8Nne9nY/3VLU29VFBzo7WXIY3tN1sLubVRuP86u8L//T2txMuxob/YOSB8sv/hMhXV4QX2Ak3AcO9PVRrqen4AgksCLA7G5pYZBsaIffIHoo+p6xab3O1bd0hFZSEVpKRuhFwqLFeDU9qKmmW9EwXbHDNG2FKBcOGGg1bdPZk+N07tQEv54ZG6OJkREaHx6mVw7UYwfqfqyarjtQ85EQ1aVSXHMBQCla23IFMCIATY6OMtDxwUE6eijHaUStIW1NDQ1BQLkwr5MWfdWA4BAEILh0YmiIjh0eoCP9/UFDKXrupANAn1JeIDgkaQOQuITiBxSKHN2GAgeUD0CKixYwbx0YAF2amaGL09N0YWqKzp+e9KTPdEo6ElA7MxmK2nYlUIoPWnaABOby7CwDmQLY74CQPriUTCQqAwIInBAYkQkExzau2b8AydxC6lBP9ek0RSyrHCjXHQDhMBwKkPm5OZYJBOG7qDUBQi0JFIYn0oYCx3opEUhxwb7bcseEgfB3/naKv4PhKIJLGJAmEPYaJrikrUSXXHd+OFMZ7pgwHqg79R4wuLR61eYBqUNJHWG3IW0lwCAUzxa4BHdMEB2oAAXdjDMYXHpaa9FDDUpGAOqorJShONE1cEpaXNocwoCEUOxQ/m6TK8et/I0ou4TULdS4qwQ1hJShhspofcWrQFwSCH3mQAIhYAWoj1nKv4/S+hubl63cjwBURrokvC6ZMCIPiKPNz72U/9DKMMtPIrR4z3UHQKihCuaQ1yVZFaYEisGcOtr8kmN31l46u++RVbjGClAF+0zxPBGXTBCR7DK9/TeWbFp55tyRFraB5LZZYrubse2SHGwKn+nCcpW5IzC6KoCRUDxHcJB5ONwzZa4MKWi55voAhFD8cMwTGXTFJBACgM7CMHRBfIGRcKHwy3UHdOkgsrcCANFDHl6K/sc/Ej8Bb3rdvblXSLoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADa0lEQVR4Xu2XT0hUURTGfYSIj+EN4qA4g/8SDTUcDTNDzQkzM8MyMzMzIyJwGe1aFRURtApaCkGBQZuWQVBQIC6CSPoLLcSdILRoNW5O77vPb+a+GxPjmzeb6MCHODPe85vvnHvOs6Tk3wtLcqtoYSbKKtnenlNFgPKS7u9M5tSBri6fKisqMu/t6+gI0y1L+nt65GB3txKT4TVdh3p7lapiMfWTr/Nv2lpaZE9TU3hQPJjfOB+hXH4QSzobGpTMDAHCO3BoYEBSfX0ZRyDCUoDZ29qqQJKlu3wgIcEwLPlZ58hGracfiYisxiOyXBORV9W2LMXK5VFludyJlsk1p0xm7FJJlWWBzNNCCEvWEo6cPz0hF85Mqp/nTp2SybExmRgdlTcu1FMX6mFFudx0oRYipVIbj6ueC6l39LBkfdsVwFAAmhofV0Anhofl2OGUKiN6DWVrbmwsBpQH87bGlu8aEByCAASXTo6MyPEjQ3J0cLDYUJa8dMsBoC9xPxAcYtkARJfQ/IBCk+O2ocEBFUI/WappAfPehQHQldlZuTwzI5emp+Xi2Slf+UyneCMBtbuuTqKOU4hLlkq04gIR5urcnAIyBbC/AaF8cKmmuroQlywFAicIQ5lAcGzzhvMHEOcWSod+qk8kJGLbQVzy3AEQkiEpQBbm55VMIAifRa8RCL1EKAxPlA0NjvWyQ5cs1bAftt0xYSD8nr4bV5/BcKTgEgakCYS9hgnOsu3QJc+dX+5UhjsmjA/qXr0PDC6tXXfUgNSh2EfYbSgbHcrTJUvNFrgEd0wQHSgDBd2OKTC49LzKlscaFEcA+ihQydCcuDVwilec1xzCgITQ7FD6frMn1630rahyCaVbrPRWCXoIJUMP8ervCAirgC4RQp85ECEIloH6nJT0x6hsvHPUsuXzEYAClIvhd8mEoXwgrra+9kv6U5uCWXkWkaUHnjsAQg8VMIf8LnFVmCKUAnP7aOtbSrmz/trdfU/szGMsgbjPAgFhntAlE4TiLtOv/+ayI6sv3GekxSwQnzZ53QMAIbIuMbEpvKcLy5VzhzC6AvaPHpaaI0hkJod7psyVwYbmY24B7uhhqcMxTzjocokQBMDNwjDEGSG4o4cHhW+uO6BLB+HeMkFCgmHwn738VSSQbOgJ8pV5xv8II34DqJkaAluoc3wAAAAASUVORK5CYII=",
     "wiki_name": "Blighted surge sack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blighted_surge_sack",
     "equipment": null,

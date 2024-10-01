@@ -1,7 +1,7 @@
 {
     "id": 25812,
     "name": "Sulphur potion",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-06-16",
     "duplicate": false,
     "examine": "A defence potion with sulphur in. It needs enchanting.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xt3V70tTURgHcE/EHJf5wjdCSGWUhv0gF5vzZ7OcP9eMKeGPMlPbmgznZM65SRCVUEkkhSBWL0QyQ9pUkIi0rOxFBEEQxPbPfPOc673Xu5vv7u4FH/i+2WDnw/Oc5ywra38UgTy6FoGn8ziuOo+gruoQzp/J1RtFsPC8CvNTlSzDt4pxzX1MTxQRMa8myxDoPYmOlqN6gfg7I4BePLTBf6OIjU+H+0TgammD290udmf6gRW+64VobTyM0tJKVFRe1BJF0NXVo8hlVxvq6l2w19SjpMSqLcjj9bF4vQNimp1u1DqaYbVWoLCoWFtQcDgkJhAIwu8PoLHpCsoranDq9Dnk5wt3SbMieL2wiJWVVSQSy4jHl9m4zOZSPS41LYL+/tuIRMYQi42z0HFZLOV6YGgRDA4OIRqN7iQGR50TNlu1fqDIWFSWhsYW8Q5pjCLo6/ciFApjZCSMcHiUjY6+TZdqm/QYG4HP58fQ0LC4ad3dvejo7Gao6gu12oO+pRxiNlMWfEqewHoyF+//mDD9jsPIRLZWKILPyWIFiH62kcxjoJkEh9FHmoAIPvw1yTA0X1JlMtDsKofxp9nw38k4imx3w6wAfU1VYTN5dhuUz8Av1zjcnTYi8jijIMIO3Eo1KCKBChho7iOHiVkjG5tn1JAJFMHqLxPrTjqGB9nZdwJofoPD5Jwxk2PbuzsSyMJA68kcLGxymHpjZGML3suGL6Zqlwi7qPTArZRzVySQfPVzsLhlwrO3RtnYDIYstVC0OwVpmPQ0sE0TQEvf+dXfPbauAdW6RNhhSsReoFzEf/Cb9mReGtvNoAGtPQfVQykR8ghvEQUlfvKbJoyNdsjhUg1DS/5XId0fCURXXwCt/eY7dH/GiL6QATb7ATUxQtEf5MdHD6ebJeEoyL7zFuWxl5qOqt0j3BvVMbtLOIDIUPymmdP+xzIK+V9JOGX2Yf0DVD4QUYwHxYoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Sulphur potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sulphur_potion",
     "equipment": null,

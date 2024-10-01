@@ -1,7 +1,7 @@
 {
     "id": 25398,
     "name": "Swampbark helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": false,
     "examine": "A rather interesting smelling helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAElEQVR4Xu3W0WvTUBQG8F3KCAmXhNCQkI22tJIVl9FuhXUOqUxQRBEZKAo+CD6Lf8BAEPa2pz346v/6refcnfQ2a2E0nRnYD763wP31ntvkbm1t8v9GwfRRROHnrw4+f08fA0rh8k+GHxdtnL4M6gYZzO/rDOdfE7S6Tp0gheH+Lq7+9jF5HdYNmmL6MY6HHZy9bfKo3n2K6ge9OMkYMzr1GVY76NlRF+NJgOFYYzAK4elGHSCFUZ4UIyPM87MEe7kPz92+Bf2zd5JZSECjgxYOjjQOx010eppBodUHQNm/VmEndrkCyrMIJ5OYdyfZcRkkz8TaWTdKoR16s6am40FagPq9JqLQReA7jJGG/jbi0FknSqEX6VlbGvkTn2uDsnZ4B6TdRlGCcefO1kpR6Me+aceUMMO9oADRuMqgRRjaKQJpp8FdAWVhbkGyO1QB0ri6uz7SyOOFl2Fs0AoYikKezkB3INPSCOk88eGVRWU8JQw9UwGk8PFbwiCpDVkEslF25Z9W8WArvDmP+ENZgKxzJBgB2Si7AhFMBRBlHlU+3EtBgekiTEUQxaA+fInnUdPKq0DeTwIpYwTUzVxuRRBlhrovyEY9HXgWpDJGovDqfZPvOmXQMhR927J9b90QOwZF9x0q3Q6pdA+i0vVDriC0Kw8IsSOL3KebbLLJXG4AshXDM0RU+4AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACH0lEQVR4Xu3W0WvTQBwH8B1lhIQjITQkZKPtWsmKy2i3gt3GqEzYEEVkoCj4IPgs+wMEQfDNJx989X/92t/dfsn12s7ZtcvAfuH71vY+vbtcbmNjnf83AroPIgJXX1t49yl9CCiB778yfP7SxMmzQIEOdnaqQmnMt58ZLj8kaLSdKkEC/b1t/PjdxegirBo0xnRjPOm3cPairpbq5duoetDTo0xhBie+glUOOj5sYzgK0B9K9AYhPFmrAiQwyJNiyQhzepZgN/fhuZvXj/29nUl6IAYN9hvYP5Q4GNbR6kgFCo2uAGX+W4Gt2FVlUJ5FOBrFanaSLVeB+DOxdJaNEmiGXtlUd9hLC1C3U0cUugh8R2G4ob+JOHSWiRLoRLJsQyJ/5KuaoKwZToGkWytKMNWJvbVQBLqxr9vSJUx/NyhAtFw2aBaGZopA0qmpLoAyMNcgnh0qA2m52ts+0shTA8/DmCD6bToS/vFYEMjTEjQFGZeWkPaT2rw8KC+PhaHP2CB7xBsi8OZjokBcEzILZKLM8pNmbuyFZuf5ZaRelAXI2EeMYZCJMssQxpgge8RbZBJlb+65oEB3FuaOIIpGvX4fT6LG5aOAzyeG2BgGtTNX9Y4gSom6LchEPe55BWTB/TMrAuev6uquY4Pmoejdlu15U5AlYDgaRfcdKt0OqXQPotL1g68gNCsrhJiZfMne1BVDypgD/a32d9dZ5z7zBzoL9s/9JSSoAAAAAElFTkSuQmCC",
     "wiki_name": "Swampbark helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Swampbark_helm",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 17928,
     "name": "Monkey talisman",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-06",
     "duplicate": true,
     "examine": "A magical talisman in the shape of a monkey head.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xu2VX0hTcRTH92MMScSQJJmjpImKLljGdAiGRiwni2mZ2DBJTcPMZmVmZpqZOczMyMz+oERYiYhSMUKUQSWB9BD4Ej4k5EMPYvSoPX3jnMudc9Xb7q4PfeE8XS6/D9/zPedoNP8VFgn8WapJoMjhgKelBVfcbpw9WYlKl0stKMEAzwbuo7+rC13Nzbh6rh4JBoN6QFOTkxgbHsZQXx9DmU0mNVsn8H56Gt6xMYwODaGqtBRZFgsy9pgZLC05WR0on9cL+/5cBirIy8Pu1FSkJCZie2wstkZHhwtKasnxo0UoLynBlogIrjMV5Thks3GO9HFx2BYTg6jISKWhBOqrqxjkzvV2tF9swOOeHj/UqbIydkyGohYqDtRQU4M3oy8ZhsBougY8ng1OHczJ4fZZ09OVDrnA57k5fJr9gNvX2nj/kCtNdXW4d7PTD1XsdHK4Kej0D0EqBCWwtLjINTL4gCHIKWpj24Xz3EbaSRTy7MxMLlqc5Cq5qQCU4GX4c2WFJ4z2ELWLIAiMgA7n53OOqG1P+/sZurOpCY21taEEknKQn67FabuO98+P5WXMzsxg8vkInvT2ouNSI+7e6OBzQtM2/foVfyMnB7u7cau1NVRAAgXZBph2RcNm1qI4SwL6tbaGrwsLnCdajvQouUH5IYfov3dTU/COj/N32ughA3IXp8CRFY+UHetQBLS6uoov8/N4OzGBF48e8gk5Vlj4lzMS0kkTOGLVoaYwCXarnqGodQRF9X3pGz76fOwahTvEjwdLyo0zQwKodibCZtHDGB+FXJOW3VLIhX9J8KMERS4RVKXDyFA74xQ/C8ESsCZr/U4EQp2wG3G5VM6J4pKsNydosdeoRXbqRqgwtockeJqoHWkGjR9KdipMEIESqDig80Ml6TUMFkZHAiVQlqPjkqFomlQAkSXg2rcORCeCNnQYwxsowdMjA20Mrgow8jgTkAoAwZKAVHIjWILPwiYACdSmgtk8+g0ujSMDzSskyQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xu2VT0hUYRTF52MYJBFDkmQcShtR0QlGQx0EQyMmRyZGy8TEJDUNM9PKzMw0M1PMzMjM/qBIWImIUjGEKEIlgbQI3ISLhFy0EKOltjpx72NGfU6L4L15LTpwV+/P9+Pcc++n0/2XXySwtTSTQK7TiY7GRlytrsa5U6UoLSjQCkowwLO+B+htb0d7QwOuna9BhMnEQAmRkf6GEpicmMDo4CAGenoYymqxaNk6gfdTU3CPjmJkYABlhYVITUpCcoKVweJjYrSBmnG74TiQwUDZmZnYGxeH2Kgo7AwNxfbgYH9BSS05cSwXxfn52BYQwHW2pBiH7XbOkTEsDDtCQhAUGKg2lEBNeRmD3L3RgpZLtXjS1eWFOl1UxI55oKiFKodcoLaiAm9GXjIMgdF09XV0bHLqUHo6t8+WmKh2yAU+z83h0+wH3LnezPuHXKmvqsL9W21eqDyXi8NNQadvCFIlKIGlxUWu4f6HDEFOURubL17gNtJOopCnpaRw0eIkV8lNFaAEL8OfKys8YbSHqF0EQWAEdCQri3NEbRvq7WXotvp61FVWKpknKQdZiXqccRh4//xYXsbs9DQmng/jaXc3Wi/X4d7NVr5OaNqmXr/iZ+Rkf2cnbjc1KQUkkJ1mgmVPMOxWPfJSJaBfa2v4urDAeaLlSIeSG5Qfcoi+ezc5CffYGD+nja4YUHVeLJyp4YjdtQ5FQKurq/gyP4+34+N48fgRXyHHc3J8XCNSEYwiQEdtBlTkRMNhMzIUtY6gqL4vfcPHmRl2jcItP1xe8r//paTcuJIlgHJXFOxJRpjDg5Bh0bNbf3JBgcN9SfChBEUuEVSp08xQu8Oka0HugEogJAFbjN7rxEaokw4zrhRKOVERwCPJemuEHvvMeqTFbYby1R75HxSU4GmidsSbdF4oj1O+WiT/g8ISKDlo8EJFG3UM5kdHNkqgKN3A5YGiaZK7Iv9KRQkU7F8HoiuCNrQnvPK3VZbg6fEAbQyuJq3yjDMByVvkZxiSBKSRG3IJvhbkrsjf8rM0d2Wr/gWY34MyZ9Op8u69AAAAAElFTkSuQmCC",
     "wiki_name": "Monkey talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_talisman",
     "equipment": null,

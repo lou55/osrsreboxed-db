@@ -1,7 +1,7 @@
 {
     "id": 4111,
     "name": "Mystic robe top (light)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": false,
     "examine": "The upper half of a bright magical robe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADlElEQVR4Xu2WaUhUURiG5yJymcswIkVRQVGigT8MIzKwzCizRcqyTcrKFtOwTFrMtDIzpcUMTUvEGNQ0zAxLW2jTKCvCFhNFkjakkiQD+9Ovt97vctWEwESd+eELB4YzZ859vvdb7phMwxrWoEvB38uuUpC7x4yULSqigp2x3M/ZMaDaK61dywGAKD1dv+65ICzQIVyi/gDVTEBGtBk+nk6OUFN/gB5Nwa1TGnaEOMOqmbDS365uKdgdGYnGQgtqcyx4mKXJIpgdoBQU557HuhUh6LhhFahnD2sQvsgZ7uNM8JxgQA3JeFDw+vlzZB5LwdxZsyRtja9eITvWjNhVqqSNhe7v7YTE9WrXGiQoBTW3b6OiuBhRGzZgqpcXWj98wNNcC/avVZEUrsqMupysIT/OLLOKgAHTnDDVY0ALX7+IILasLJw+koSggABMGj9e3CFIWoQqHVeUaEbVcU3Atgbpw5OpDJ2nw3UP036nU0FeejpOHT6EAzt3ijNrgoPhN2MGPr17JwAEYcqy09LwIFN3h+kjSMjixfDx9kbJYR3WdkBfPMO1xNdwrk9SpFaS9+3F3u3bEbstQoC4/+P7d7zMt8irRC7PyBBnOAboFkfBgjn+8PTwgFlVBbQiVV88w85kMxCS4H2AUpCVmoozR5PFnbSEBHHIsJnuMFKJ/FwOLuXnCyD3WMQzp0+H+8SJsGianGeqeQ8DW79qJcaMHv2/adMvKcg+C800FicOHkRcdLT8uKO9XWZO+TENpRcu4OrFIilsRn4ySsXG1asx2c0NLlb9XVdms0lwDGhTaChGjRzZV4ieUlCSl4eq0lJU37whDnHvZ2cnPl2xSnpY5FVlZbhzrQL1Nt1+pmtpYCBGuLrKeX5HBxnQjs2b5Lt+wFCKRH79UglulpcjNT6+yx1Ccu9u5XUZA83FFtzJ0KSwI8LC4O/r25UK3kF3ONWXLVzYXxhDiqSMU9l4AB2qq32Mb21teFJdLZ/pDmspcVeMpGT+7Nlylg7TGTaCsdf7Cf1Q76JTZBh+/fwZH1ta0NzwRjqIxc8a40gwfsNgUuLipKYGCOZf0lP3pbUV79++lRrhsGQHxWzdIg/nTOIooGts+0EGonQXCFV7/748nEVr7BOQUIQcApieMlLavcoLC6TwmUYXk/tQA/WW3uoNL15IA7Dr7A7EvydG4dsZhlJQX1eHpvp6tDQ1OQIQ1bOmhjW4+g2Sy9YboEtkFwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADr0lEQVR4Xu2WaUhUURiG5yJymcswIkVRgW1o4I/KCA1sMcrMirLMTMrKMsuwRVps0RYzpdXItESUwUrDzDC1BVtUyoqwxSKJpA2xIsmg/vTrzfe7XGWMyspmJHrhgJ65c+7zvd9yxmT6r//661Jgv5wqBdkbzEiJVhEb4oo54117BlRLubV98f+RgwY5H4rry1U3RAb1CJeoNqDqgUiPM8PP26Un1FQb0I0RuHRAw+pQV1g1E8ICnOqWgvUrV+LJCQtqsyyoydBkEcwJUAoKso9j4dxQtF6wCtSdmmpETXOF5wATvAcaUA4ZDwoe3r2LI3tSMGncOEnbkwcPkBlvRvw8VdLGQg/wcUHiIrV9/SUoBdWXL6O0oACxixdj1PDhaHr5ErezLdi8QMXOKFVm1JlkDbkJZplVBAwc7YJRXt1a+PpBBLFlZODQrp2YERiIIR4e4g5B0mJU6biTiWZU7NUEbPkMfXgylRGTdbiOYfrb6VSQc/AgDuzYjq1r1ogz80NCMH7MGLx+/lwACMKUZaal4foR3R2mjyCh06fDz8cHhTt0WNtWffEZrpn+hnNdkiK1krxpIzauWoX4FTECxP2PHz7gfq5FrhI5PD1dnOEYoFscBVMnBsDbywtmVRXQ0lR98Rl2JpuBkATvApSCjNRUHN6dLO6kbdsmDhk20x1GKpEfy8Lp3FwB5B6LeKyvLzwHD4ZF0+R5pprnMLBF88LQr29fu7Tx+vnJFaQfkp95FJqpP/YlJSEhLk6+3NrSIjOnZI+Gorw8nDt1Ugqbke+PVbEkPBzDhg6Fm1W/64ptNgmOAS2NiECf3r3tILoAQykozMlBRVERqi5eEIe49/nTJ7w+a5X0sMgriotReb4U9TbdfqZrVlAQerm7y/P8jA4yoNXLlspnXXSksxSJvOx0IS6WlCB1y5Z2dwjJvSvlZTIGnhZYUJmuSWHHREYiwN+/PRU8g+5wqs8ODv5dGEOKpIxT2XgBHaqrvYn3797hVlWV/E13WEuJ69ZKSqZMmCDP0mE6w0Yw9v4AxlDnolNkGL5tbsarxkY8ffxIOojFzxrjSDC+w2BSEhKkproJRte3B+mpe9PUhBfPnkmNcFiyg9Yuj5aXcyZxFNA1tr0B1HFGt0t3gVC1167Jy1m0xj4BCUXIbnXnRzJS2HmVnMiXwmca3UyejnDHXkb0BiBb/fG9e9IA7DqHA9lL/3liFL7D0vV9Kaivq0NDfT0aGxqc7Y6hX7qjHCP7uvqH9BUsgAnGbt6kGAAAAABJRU5ErkJggg==",
     "wiki_name": "Mystic robe top (light)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_robe_top_(light)",
     "equipment": {

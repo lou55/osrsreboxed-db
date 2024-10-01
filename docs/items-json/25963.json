@@ -1,7 +1,7 @@
 {
     "id": 25963,
     "name": "Crypt key",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-07-28",
     "duplicate": false,
     "examine": "The key to a crypt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABk0lEQVR4Xu2WzUsCQRiHnWMdOgURIoFQYEhfVCJUIh5KhD5ISpA+MOxLLCtiQ0SIohAqirp16hL0V77xG7H9mNnFgzPbYR94D7O78D6889thQqGAgA6MxPINRqX8ilA+SdllHq8O6Ktl+CVlyhRyabo736ePZpW+n+v089b0Q8oUcuYHUv9KSHynHHtTr9Ig1J1IfnmRZuNjKoW8p2KUC9Q4KfJwH23nKLs0T7FoRJWQu0htb5MeLkp0W93lQhArrmYseeop7lPBr362s2Fp7Kye4i6STkzRVjZFleK6isYy5CLIQ2pugssomoIMRp/3l4LM6EiYFmbi/M/RJALkk0Elp8f1TkUmg0k9GYcUHhrUJQJEEWtpnAoQZdYySX6m4DyxSylHlOkUrhDYKpy4GidlF8JkIILTtiPwWj/lFy7rdwqlmLTZy80xta7LtjUK62hkWKUQYH/NrVJ49t6oUGIyxtfYOqwH+vtUCwHG8+KUQrBNAWtpob01TimNAjLaIRalfIXxrOBaoSkv3aA9LwGe/AL8AOmvyh3KuwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABs0lEQVR4Xu2W20sCQRTGncd66CmIEEmEAkPKohKhEvGhROhCUsLSBcNuYnYhNkSEKAqhoqi3nnoJ+itPnIldd8/umsTOjA9+cB7G3Z3z45tvxgkEeurJEANnKRODYn7ZUYqg7DAPl/vw2dRVQbVgCrk03Fb34L1Rga+nGny/NlRAtYBofhDK+iweDsuA8gaizyQA2Zu2KwlAnYHklxZgJjYmEqi9K3qpAPVjjYf7cCsH2cU5iEZCooC8Qc52N+D+vAg3lR0OhGDaSsbMEsL4COTtCm710+11szEtA8QnGG+QdCIOm9kUlLU1R2NadNZ/yh0E85CaneAw1AU6g49i8HF34YAZHQnC/HSM7xzqCp3BR7k7g5WcGpfrihsMOvWoH0BwaLA7XMGS6ArKCbOaSfIzBc8TK5QSGKPwCoFLhScudYrO4qPsQOgMguBpawC81E74hcv6nkAo5trs+foImlcl2xgLx5HQsOjlY2ZzKxT+9lYvQ2Iyyse4dDge6O8TDYRiPC8UCoNtAFhL2m4zlsWeFff/Kfq1IP2GmEJJBHAT41nBa4WkvHQi6Xn5Wwry0j36AQkzK7AG99MTAAAAAElFTkSuQmCC",
     "wiki_name": "Crypt key",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crypt_key",
     "equipment": null,

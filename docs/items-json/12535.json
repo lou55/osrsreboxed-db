@@ -1,7 +1,7 @@
 {
     "id": 12535,
     "name": "Dragon chainbody ornament kit",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Use on a dragon chainbody to make it look fancier!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xu3W3UsUURgG8F2WZVnxckFYL0JhFQz6uiglCqG62JtSLJU1iy3UcvvAFEss2WpZssIQ+w4FwUykjCAiiqL+srd9zvBu75w5s87sTNFFBx5m9p1x5jdzPpxI5N9vUTLHdPyPtyg9mO2j+ZlelfL1HipNnVBhxNpinlYXztLKwzMGlP4QgeEWiFEAcXTM8v3T9Kycs90Yv3FMjx3lCxmlhVsnHShsAeFIxGKxX52LrQmkn/9tc5a+rE/Wh2IQ9uVFx3N7q8HvWiC81a8bM/Rj6zb93LqrQL4wuCg/NYN0hAm0dGfACFpfOmcDYd8jKKrGxZPSoALhLQEk30oykbDFC2jz6Uh4INSOdO1wjXxLAL28N+QAvXsxWgUhvkC4oA7KHm51jRfQ+1djdtCb6WCgnqMZ18hucwN9WL4YLqg/2+6a7UCY8p9WL1VB39/OecWg2UEIakPHd1JbWwelYxG1n6lsUxFrn0GMckudIDTrAnhaBuX7dlF3Ika741Y64hGFQl2fbb1djSotzQlqSsWpsSFGne1JdawOkLUG4Q1J0NjgHpVsMkbHKrADlXBNB72eSlMxl6LilRa6kEurPC80VUE+FkVryptAl4f3qZxqiKsAxjUdhIwMpFWAKQw3qxp3WSAQgvq1/H7XmBZJ5NHNDM1Pt6qEAmIU6jdGO11jGszAMKg8+RuEVdojBs2aYSbQXOGga3AcywOCv8FUZxgwEoQ3VBdIdhvqpauHaoZRDOL1h2Gf1ybCAUlUrQCjf3oAhM8OrNIS5ANlgUzdhhpugM8I3ATH5UecGwjnf1wZr4KwBvlYh+wg2W0ShC3qEmMCAR4YhFm2HQg3Q80E4v9j3F2hgfRuQ12C+GtSdheD+FyANh6ft4GwBvleh0zdJkHYrwWS4ycUkKnbJAjHTAMawXly/AQEoTmntCn6+OHoIHxLSxDHB8hrcyI5cvz8RVCt5kQ6878Fa78A/grfWcRR/3IAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xs3W/0sTYRwH8BtjDMUfB8L8IRWmYFDWD6VEEVQ/7JdSLJWZxQq1XF8oxRJLVo2RFYbY91AQzETKCCKiKOove9r7OT63z3323LxzV/jAm7s9d7fntefbzrJ2fokoc0zX/3mJqMczfWpuuleneKtHFSZP6RBidSGrVubPq+Un5wwo+SNqhtsgQgFEkZilR2fVy2LG1TA+45qMGxUIGVHzd09XoHAEhMIRC/l+fS+OJpC8/+fGjPq+NrE9FIFwzr90PLPPCT5XA6FXf6xPq9+b99SfzQcahGc6m5t1ZOui2N1Ov5pAEmECLd4fMILWFi+4QDgnkGxdlIieF88LgxqEXgKI90pdPO6KH9DGi5HwQKg71r3LM7yXAHrzcKgC9PH1qANCAoHwhRKUPtLqGT+gT2/H3KD3U7WBeo6nPMOHzQv0eelyuKD+dLtntgJhyX9dueKAfn2YdTCBQQjqhk7uVm1tHSoZtfR5qnRMWPY5gQjlFRNItu5R7C/AryVQtm+POhqPqr0xOx0xS6NQL1dbb3eDTktTXDUmYqqhPqq62uv0tW2A7D0IPcRBY4OdOum6qDpRgh0sheok6N1kUuUzCZW/1qIuZZI6r3KNDohvirJ1UewlbwJdHd6vc6Y+pgMY1UkQMjKQ1AEmN9yk62jIagIhqL+ZPeAZ0yaJPL2TUnNTrTqhgAiF+tujXZ4xTWZgCFScKIOwSxPGFwgrzASazR3yDK5je0DwDJY6wYDhIPSQz95BKYP4sKG+cP1w1RCKQLT/EOzb6o1wQBxVLcDIVw+A8NqBXZqDCCVbNxQbZBo21KEBvEagEVznL3FeINz/ZXncAWEPCrAPuUF82DgIR9RzjAkEeM0grLKtQGgMdSYQ/Y/RcIUGksOGeg6it0k+XASiewFaf3bRBcIeFHgfMg0bB+G8GojPn1BApmHjIFwzTWgE9/H5UyMIpXJJmyLnD0WC8C7NQZQAIMuibb1aJJCHz59QQH6LRPrBUsr3/qcikabIZ3Z0+QtIHSn03jueOQAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon chainbody ornament kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_chainbody_ornament_kit",
     "equipment": null,

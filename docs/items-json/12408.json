@@ -1,7 +1,7 @@
 {
     "id": 12408,
     "name": "Piscatoris teleport",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "Teleports you to Piscatoris.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0UlEQVR4Xu3V/StDURgHcOcfmJb/gKIob+WtWdSsNSlpIS8J0UIrLSSKlOQnJT/5wd/66Hv13R7nnm33uOOW7lPfdrc5534859yznp600vr/ZaSZxMvI0dqYXO/PSn13WsESRRq5PZyTx5O81DYnA9jl3kwjCQCNPNcW5fViSU7XJwLU+fZUA4bu6YSBrsQqIy/1glQr404Qg/cMvmf4WRe7auTtqugEoSMukI6GtIonzMj7TenHIBtlLzGC/blTHomKMvJxvxwL1A7F+ZAIIBMMuDvOxQZpFMbhydVzRsCgTDDRQ3W+qyBgEJxxmDciBmWCmz6dLXQE9WYy0pfNhhA2CGPQcYAOVkd9MCgTDMY5ZGOIsAMUr10YQNBxXHuCTDAJBuMc0iBOzu7Yy2Yj7e4glcKgDwbVBHG5NAbBzfQTg+/0Yai7xL2D+fAaC6Qx3JB2CLL3DcPlwpmD643ikA/o63HHDTSG3SGC7ecmdXVJLxf+OexHvPcGcaJWk2uU7pSrS+wsukPQVmnYD8R9wVOUcaHaLR3/FnCCyrl+XxCKP3ju2PvJXjZiugjqVGGkfto05o9ArgojCU0I1Kq+A1fyAwEIv2UJonRpYFpp/W59AvmGdFItvmklAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6ElEQVR4Xu3Va0sCQRQG4J0/YEh/QAoKCsqCbpgUmIgRREhFF6KikAohpCIKiiCiT0H0qQ/91ol35dXjcVbdXFoQD7y0Xnbm6czs6HmDGlT/l7GNxF7Gnm1N2/vjRVs9nBewWJHGPp4u2deLrK3szvqw26OFemIAGvteWbWfN2v2cnvGR13vz9Vh6J5MK9CVnsrYj2rOlktpJ4jBawafM3wvwq4a+3WXd4LQERdIRkKCEhJm7PdD4c8gjdJLjGB/HhQnu0UZ+/O83hOoHYrjIZgrnUq1Qxn/hqfzTM8gicJ9eHLlmMR0BGGgl/JypCBgEJxxGLdLDMr4k75drXQEDSUSdjiZbEFoEO5BxwE62ZwKg0EZ/2acQxpDhA5QvHZhAEHHcS1BemZHGX8Q3IxzSII4OLujl00jdXeQUm4sfHcI4nJJDILJ5BODz+RhKLvEvYPx8FeC9MwB1QBJDDekDkF63zBcLpw5uN7Jj4cB1R53TCAx7A4RbD83qatLcrnwz2E/4nVoEAcKGlyiZKdcXWJn0R2C9goT4UDcFzxFGReq3dLxu4ATVMyMhAWh9C9yc/R+0stGTIQgz+Mj6YoGyq4SQkxkoE7VDZLQfwG5SiNd0I3sqA/Cb1ntvRgqCNh4L+ZqBg6qj+oX5FawiCE0f1QAAAAASUVORK5CYII=",
     "wiki_name": "Piscatoris teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Piscatoris_teleport",
     "equipment": null,

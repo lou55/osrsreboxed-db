@@ -1,7 +1,7 @@
 {
     "id": 23871,
     "name": "Weapon frame",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "Could be used to make some kind of weapon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnElEQVR4Xu2Wz0rEMBDGE4LX9dJLF9YFRUQRFgVZBBFBFPSgsLCCDyE+g3j0Knrz6t2bTzfO5E+TtGm32+02B/vBHJqmzC/zJZ0w1uv/iYMfUcVh4+ERPr5/4enlHcTRcWwoBLqfgbi+AXEyBbazCyxJYkJh4nQM4vQM2N4BsK0xsMEgFhAmHVFFhrI64nCiKhQVCGHYZiIjg4oDpKwyMPQszi8sVLdA1ioDI4EurzKo7oEcq2xyB6q741+0yn0nbu8UFJ269QOFrMqrU6gyq/w58kepocJzWlGVVXkh1GyuoHA/Vc9tpDpWuVL9TUJhS1HzF32zlOpYZWSSayiM59dPSEfbC76rrTpWORBYFdpDbmR9bvWmW2WVhZB7hbp9KMw/iXpcOmwBqGCVhjA/QFx9IWic3utNLYHMTaAZkE5c1qswQSFoXMN44F4raQgjfdcrMwByhYGgRmrbRChpaGwpcen929cP7E+mqsz5oP1AQKUQrYr7ly0CoNNBkW3KtUO44mr1BiYOhKtchQgozg3QlVuRaJXp1aux/gAn7FuwVgswHQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtElEQVR4Xu2WTUsDMRCGswSv9bKXLdQWRYoiVAUpgoggFfRQoaDgjxB/g3j0Knrz6t2bv26cycfmY3fbXd0mgn1hDpsNzJN5k0wYW+n/KQE3oiqBtds7eP34gvvHF+AHh7GhEOh6BvziEvjRGNjWNrA0jQmFibM+8OMTYMNdYBt9YJ2OANofDEJDIUyPKtIV1eF7I1mhqEAIw9ZTETlUHCBplYahb356ZqDCAhmrNIwAOp/kUOGBLKtMcgsq3PEvWkUwOdDVVELRqVt+lYpWGRgzx4cy/1pXlVXuHHFRKqjyOa1onlW+EGp2I6FwPy2hSnWssiX7m4DCliKBWoWqY5WWTq6gMB6e3iDrbbYFVccqCwKrQnvIjrzP/b7pzrPKQIi9Qt2+LPSdRD0u6y6o7kIVrcoh9AWIqy8EjdN/takFkH4J/AxIJa7qVZigEDSuYBxwq5VomIZA6h5RK9MAYoUlQY3UtAk3qW2tO9ZIifD++f0TdkZjWWY/aD8QUAWEn7RsrIES97FFAHQ6KNSmrAPRohK5eg0TB8KWVyECsl6AgSB8mYr4lfFnBpNvTVSYlf66vgHXm6qJMfg6ggAAAABJRU5ErkJggg==",
     "wiki_name": "Weapon frame",
     "wiki_url": "https://oldschool.runescape.wiki/w/Weapon_frame",
     "equipment": null,

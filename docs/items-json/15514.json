@@ -1,7 +1,7 @@
 {
     "id": 15514,
     "name": "Antidote+ mix(2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": true,
     "examine": "Two doses of fishy extra strength antidote potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xu2W+09SYRjHPX9FCZKEt0rUkRAQ98shQZq1Vi03ra1fUlJEwBSRJSBxB81binhB7c/89r7vGRb5U5uH01rP9t3ZuzHO5zyX9/l2dPw7weGnJA8OE7wcgel+5FY0fwMUh6OCAY2qCenIiNRAQpko0EnJiPXQsJSl49DdrYJCoWRAVIl5NWRyBfr67ksBxWFoSIPRUT2DOczqsfpxEEPDGqjVkvQSB7PZCrPFCovFBovVDiuR0WiGVmuQBsjpdMPpcsPl4pnomcLRrEkCNDbmhdfrQywWRzy+hmAwRLLkgOahTgogGhwr0fi4H/lcjJVQwimjwcHhcMHvf4qtrc+snySEocHB7eYJkB+HhxnWP52dXVJBcdDrH7M++ra/gb29FKbfvpZqwmhwbMxp/+ztprG7m8TS0iyDlMkU7YbioNFowfMe1GpZ1I++oEZKVi7HMTf3Hj29A+0Hohfhzk4Sp6cFnJ0VcXKSR2zlDTKZKCYnX7IV0iYoDg8GR7CRjhKIHC4vyvh+WcEFeSYSU4hGXiGxNg+lsqd9QHSastllnJHsNEh2zhslXJyXyLPIsrSw8AITE17I5XfEhuLYJg+HP6BYXG0BahCYcwLVzFIg8AzKu73iA9HLL5WKoFJJsL4ReqhwBZRKvWNZmp97Dt7jQFdXt1hQgv+x2RykcZfwldzMAlC+Bahez2Et7sNiyI3ZGRtUqj7xgEwmK2nYINlby2zC6MuPj3O/ZKpIzvkWILfbzkycCFCC/0muh0n/xLG/n8ZRLcPuIArU1HE9i53t9SsgatZUPf24dVt2k1AcDAYTm65kcgbVyiIODmIEaJUAxcmzVZvVKGlsngFpdQYM3FPfJAwNwWbQy5Aasko5TFbF8jVtb39iymWD8PnGGBBdJdTq3jhQM0NNoK3NCFO1EmHncmkRxUKIaTYwxRyk3e5kHyKSgxSamvofj+dJi3j+uujvTCaLmNtfKBt9EfVAv+vKV5MMNr217pFRLJhm0D//U/0P8eIHtW9phCT7mgIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xt2Xa1NSURSG3b+iRE3CWyVqFAbE/XJIkMaappqc0ZrpS0qKCJgiMglI3EHzlndF7We+7b3PgKJfakY41Zp5Z8+eYTjPeddae6/T1PT/BMGFJA+CEaEF3vFupBdUfwMUwX5Wi3JJj0RwgAM9lMulghLTxICO8jos+/ulTB1Be7sCbW1yDsQUnVZC1tKGrq77UkAR9PWp8PixhsPspjRY/NyLvn4VlEqxlhqcOgKDwQSD0QSj0QyjyQITlU5ngFqtlQbIZnPAZnfAbhe42J7BMdckARoacsHlciMcjiASWYLP56cuWaF6NCgFEAvCUzQ87EEmHeYprHQZg5EEyGq1w+N5jrW1r7yeJIRhQeBwCBTIg93dJK+f5uZWKVqeBYFG85TX0Y/tFWxtxTH+/q1UHcaC8DZn9bO1mcDmZgxzc5McUiZra7RLBCqVGoLgxN5eCgf737BHU1YoRDA19REdnT2Ndonwg3BjI4bj4yxOTnI4OsogvPAOyWQIo6Ov+RXSIJcIHvQOYCURohBpnJ8V8PO8iDO6RqNjCAXfILo0Dbm8o1EuEd5NqdQ8Tqg7ZerOaTmPs9M8XXPcpZmZVxgZcaGl5U69XSL8Jg8EPiGXW6wBKlOYUwpVccnrfQH53c56u0T44RePB1EsRnndiDWUrQLF4x+4S9NTLyE4rWhtba+XS+L8YzZbaeHO4Ts9mUWgTA3QwUEaSxE3Zv0OTE6YoVB01cslAr3eRAvWR++ted5h7OGHh+lLTuXoPlMD5HBY+BBXB5fE+Se2HKD1E8H2dgL7e0l+BjGgig4PUthYX64CsWFN0dGNW7dlNwlFoNXqeXfFYhMoFWexsxOmQIsUKELXWq2WQrSwBQ6kHtSi556ymrYbSp04ZrDDkA1kxUKAXhXz17S+/oUrnfLB7R7iQOwqYaPuDdfRhUMVoLXVIFepGOT7Qn4Wuayfa9I7xidIi8XGX6ROE6RY1Gz+cTqf1UgQrov9Tq831tz+Nw7E3pY9iM1AV1Wdq6mDldl68ImuXjCVuPwN/3uqI4wYlQf8ia7+xz8bvwBEsp6PmTY6DwAAAABJRU5ErkJggg==",
     "wiki_name": "Antidote+ mix (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Antidote+_mix#2_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 10120,
     "name": "Feldip weasel fur",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "Not actually from a weasel, but it is, at least, furry.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xu2XbUsVQRiGPf8hCoqKjBOcDiiKWYEUgiBWoKKZ2BsVfahvURQiRZlIbwhiLxAoBGIiIQR9iKKoXzZxzXIvz86OcvbsMfrQwM3uzuw41z7PPPcZ29r+/VZxccXGd7xV3MuZMfd8etRr/sGIm7s37CWI1cVr7sPCVbfy6koEKvyI0uAJkKAAkkKY5ReX3Lv5qczCPDMWKgtVCLLiFh6O56C4AiIJ6M3cpFt8POHf5RoD4n0L/WNjxn1bu9sclIC4V3QE9P7ZRQ+kd7cCYt739Wn3a/OJ+7351AMVguGP6qsFxKIxIPvlS7MXokBrS9czQNw3CFTJpAEIbW6e7eLSiZ5Drrtjv+us78uNSRtvb7YOSFFi7FjXQb+4AFBf72Hfz32tusdV23f7K8/0M85cAaFCQNoXFoj+gdM1Hw3EQoJjQUWpXtvrYRD39DGWA/p4vzzQyFCnhwJAEOjUyWoKSVQAsQJqR4CmxntTKCAQYLoqYkqllQX6+elRozC0LFAINTna484Ndnio/r4jqRQxu8dCMb8JIFpSGZSwBZLbnh/udmcG6h5KUpSAiqWtVITwESIUAjE22H/Ua+xsl4fSs4UiGqo2xLyvq3dSoAKmmJR8DIgxUsXipAgAnoESmKBIG1FpP7DLz8NMWwaE6Gcza2HtGa48C0xQ1pdaCiQo+kmRjZAWVZUBIiDGbeXZlOHSDcLQkgoLgfSTYaHkPaog+ZE2uYUKnbopoHAfMYYPxaAEpjRaGLm0TVkpIEHpVz2ECtOjiFiYz8u3MkAFoBKgWNoEc3nieAZKfmTN0Yp5X1Zup0B4UAEfygIJin6qDEMUEMK16ZMnqexbCkSVxYBYUFCAIEUM0R9Wod3QpYHCtCV/YHsBJb+yzm2B8KDCPhRLG/0cWzmKcq/jLcLJtzpNIpuypoBiabNAjNn/SgSEeE+Het5df32jDBAt/4UxWRirEIiztAWSCgA12vKQEpEEiOj8RaDtWh4yr/+tXPsD1oyE0cy+hgMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xs2Xa0tUURSGZ/5DFBSVGROYoClmBVIIgnQBFc3EblT0ob5FUogUXUS6IYhdIFAIxERCCPoQRVG/bMezh3dmnTV7ZMYZwwUv5+wb6zlr7b1mTy638y0f0kqNb7vlw+uZ0fByeiRq7uFwmJ0aihLEysKN8Gn+elh+cy0B5T+iYfAikKAAkjzM0qsr4cPcZMYxbca8slB1QebD/KOxCiiegEgCejc7ERaejMe5PFNAzLfQv9Znwo/V+1uDEhDvio6APr64HIE0txoQ636uTYc/G0/D343nEQgfx1paorx3Z8Ww66sFhNMUkP3yxWeXkkCrizczQLwLyHt3ls+kAQhtbtrWuXSy51Do7tgfOtv3VYxJ6+9vNw9IUWLseNfB6FwAqK/3cOznva2wJxRad8cnbfoZZ62AUF1A2hcWiP6BM20xGghHgsOhotTetjfCIN7pY6wC6PODxoGGz3ZGKAAEgU6fKpQgiQogVkBtC9DkWG8JCggEmJ6KmFJpZYF+f3lcgqkbyENNjPSEC4MdEaq/70hJipjdY16s90DeexUrH2ELpGp7cag7nBtoj1CSogRUKm3VIuQ9J6xYg4iQB2JssP9o1Oj5rgiltoUiGjptiHXfV+6VgGxR9N6dFY98CogxUoVzUgQAbaAEJijSRlRaD+yK6yimTQNC9LOZ5Vh7hidtgQnK1qWmAgmKflJkIySnOmWACIhxe/JsyqjSgqkJiBPmgfSTYaFUe3SCVI+0yS2Ur9Q1RgcrA/l9xBh1KAUlMKXRwqhK25Q1BCQo/ap7KJ8eRcTCfF26kwESlPeesCJQKm2CuTp+IgOlemSLoxXrvi3fLQFRg+qoQ1kgQdHPKaMgCghRtelTTdKxbyoQpywFhENBAYIUMUS/P4V2QzcM5NNWzPnmAkr1ylZuC0QNqrsOpdJGP9dWrqK863qLqOTVbpPIpmxLQKm0WSDG7L8SASHm6VLP3LW3txoBwiq/MCULY+WBuEtbIKkOoFxOZX0zeUArIgkQ0WkKUK3mIWuBlcpz/5N5yJT8mh1t/wAgn89dw2KLvAAAAABJRU5ErkJggg==",
     "wiki_name": "Feldip weasel fur",
     "wiki_url": "https://oldschool.runescape.wiki/w/Feldip_weasel_fur",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 4521,
     "name": "Swamp cave bug",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpUlEQVR4XtWWz2saQRTHnUMpyqIsDZEqKq5YMQY10iSK2SSiqTWVRklMJBJqpT8OhR4KPRUKBWnaSy8lt/bUU2+59c/71jfbcXXd3UrqbtIvDO7O7s77+J03b8bj+X/FYOy5BhGE1iS/58+1maz6FyqGs4GCerOIF6/bKBTjCEdlEyiGUNRn0u+IdIeo7dRXsFqITARnSGVCiCpLbgEZxaDW0lNAZ0+zWApK8PpuXR9UuXJv7Bo5FAwFTICm3dX7/0lWAzHUWzl8+bqHekNBNrfMgXQozUnRNoreRUAxHHX9Jv+Sodkp4OflIc+pZisJJSmPgSjHNreTqO5nxt8Vt1ZH74RNxppL2gedXhW9wUMedH0rgZWcPiAB7R+uYfhplzskckjyCyeMQRlaxztQK3lksgo2S3MvAoYPH/OGQbVG1tPSp+vLX8f4/qPJ72sP4hwoFhduWsk45tyyelkfjByS7/g4SFkN81+6t/7WMWlA6Yyf1x6aJoIRbdYFRwH1aUumdKB4cpk36qdkpncooSnHKAcdgtKmiQJSDSIY2kamC+JsO+xWnAOiutM+3eDLnYqhyBvz/U2Iof/ykc3zK4mhVI1BHa2mk14cF98a6D/LIZEOjqfNPqDdsyuJYXs3yIN2B2W8H6q8JhEQ9fkDt/8CtFAxnqCi4B107yO/HsPdkF4AXQTSAgonUrkAXr2R0epI6D9PuA3EUKgVIMkS38kJRhzCmm0J8dGyP32i8HsXC6LmAE3XXsM3sWOPXMto2wQluUswJK2OkBsldfL4oANF3Du6khgeH6ljV0Tf+fkFvFO7umtiaByUDEEZdyyiSAjIYu9yTcwiqJ5bs88cld2UMHi9rix3IYa378QR1EyuA5Hsgtm557oYhp/XbhIQ6UbBOKvfI7yaMBDUb0EAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4XtVWz2saQRR2DqUoiyINkSqauGLFGKKRJlGSTSKaWlNpDImJREqt9Meh0EOhp0KhIE176aXk1p566i23/nlffTMZd1131QR3Qz947O7M7HvffvPem/V4/l8wmEduAURCmOL3XN1bwW58pmB41lVRrRfw+t0h8oU4IrGgBSmGcMxnMe4IdIXIdqpLWM5HDcEZUpkwYuocH8stLjpPioJIo6BaJW0I3lfxxQrmQgq8vjtuqWQGw2bpwUA1UigUDgwI6SoNqzvs48awc8RQbWTx/cceqjUVK9l5TkhXSSgpbb3gnQUphuOW3+IrGerNPP5cHvGcqjeSUJPBASHKsY3tJMr7mcF7ha3l/pqIha+pIF5otstodx/zoGtbCSxldYdEaP9oFb2vu1whmUOKXyohzJh7jZMdaKUcMisqNoqiCMyRLcDw+UvO9CXCSHoqfbq//HuCX7/r/LnyKM4JLcSFmsYiGK66YX+j87YYdSq/UhopFLzn40Q2tQi/0rN81+xRYtTnlLBfLAilM37ee2ibiIw0swrCHIO+bcmUTiienOdG45TMtIYSmnKMctAhUmKbKCD1ICJDx8hwQxy1o1aJX+0VvzFE3zk8W+flTs1Q5o0838z5IfOu8+bJrFViKJYXoPWr6bQdx8XPGjovs0ikQ4NtG6/CtSpqGjBs74Z40FZ3E596Gu9JRIjG/IG7EwiNK5Jrg/EElQ3voPUQubUF3A/rDXAaQjOCCCiVSGUDePs+iEZTQedVwm1CDPlKHkpQ4Sc5kZE/YfVDBfF+2Z89V/nzNA1xRhAK0Hbt1XyGE7uvWkYcE5TkkowrhKiPkBpFTZCRpSwJRa9Uc4EMgeHpsTZQRZI5P7+A13Cqu6QOgaF2UDQFZVyxqKogEBRnl0tkCMwmqJ5bo3OOYtyWMHi9rpS7BMOHj+IX1Dqg64QIduqIufHzDsE6GEPv26rb6kzCLagzCU6R+QcUEPdf1fP5NAAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

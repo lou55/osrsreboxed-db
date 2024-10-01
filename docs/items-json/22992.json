@@ -1,7 +1,7 @@
 {
     "id": 22992,
     "name": "Stone tablet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": true,
     "examine": "Record of Construction by Overseer Elac.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeUlEQVR4Xu3XfWvCMBAGcPP/GAiCqEihww1fUByyMRjs+3+qjCfl2sv1smYmaRns4FAR9ec911Zns79fxvZ7sjJ2W6+8Xm4WU8GMrfdb+3Ku7en2bK8fB3eLx4A9zh/GRPmYy/u+xaB3x8o9v1jNx0B1mMP1qQXhPgcRal0tS6IaDD6MQIQJgagLoIytdpsWRNNBS5CGKgbi0yGQhpIgvDYzyo+LL3MMKjNIjwsgjiIQoQpOyY+LMDj3hFB8SkVAcjrAcJBEOcyl+RI8tgyoLi4+ndvnqYfSpqTFlojq4uLTAUiiNJAWGy4tSSBtOhpIooqB5HTevs6uOYqDQpFRXNlANJ0UEP1MKQaSkdXH9SAo8YJr3BvHgIDxQK/NqULuTxYQP7pCoJ8Wmu/PZCAtrmKg0EIPgYBJBtEhz3coBJILre1P90fgrvo9aGh/AEpAxYFi4moAvO8u04IAiF1oYDIBtDKDIGAyTiGmTA8EzIgAreQEJkH8V1vfw2bl3rc0n6MAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABl0lEQVR4XtXXfWvCQAwGcO//MRAEUZFKhxu+oHPIxmCw7/+pbjw90sulOVvtXcsCQUWqP5/EVieT/1/GNnu0MnZdLoKer2ZjwYwtd2v7dirt8fpqL9/76haPAXuePg2JCjHnr12NQW8PRfX8bDEdAuUx+8tLDcJ9DiLUspjnRDkM3oxAhImBqDOgjC22qxpE6aAlSEPh+PfNJiXKgXg6BNJQEoRjE6cUjosvcxcUgRKlpI8LII4iEKEyphSOizA498RQPCUJSpCSHxelAwwHSVSFObsPwceWICU/Lp7O9efYQGkpaWPrifLj4ukAJFEaSBsbLi09Rte8TBBGgiQqG0im8/l7qpqjOCg2MhpXMhCl0wdEP1OygeTIysOyFUQX3IdBeOEuIGAC0Ic7Vcj9SQLi364Y6NZC8/0ZDaSNKxsottBtIGB6g+grz3coBpILre0P/REYDNS2PwD5fyd3VzdQl3E5gG8k9HBKBAKg60IDowF4y3e6o0wrCJhYCgkAWpkGCJhbgAwIWWECGkIekb0kYBTEWPUHqDscZ4UGnPUAAAAASUVORK5CYII=",
     "wiki_name": "Stone tablet (Lizardman Temple)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_tablet_(Lizardman_Temple)",
     "equipment": null,

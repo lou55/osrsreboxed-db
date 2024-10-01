@@ -1,7 +1,7 @@
 {
     "id": 6298,
     "name": "Spider on stick",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "A nicely roasted spider threaded onto a skewer stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xu3V/UtTURgHcEc/NYYii8aUFVssiYHaIMEfBkIEBYGWvViGomX2hhRKJSPpRUZlCGIWFgqGmEgZQVQURf1lT3zP5Xs59+y4dndv0Q8deDjnnp3tfPacl1tX9++XiNjD9vkfLxGZKfbKo8ljKkq3emR6olsFEatzQ7IyOyjLTwYsKPNPBIY7IKIAYpiYpcfn5HnprGdiPOMzM7woX8iIzN45UYZCDQiDoIXpPpm7e0qNRW0DYbyO/rZRlC9r47WhCEKb2SHoxcN+BeLYrUD43tf1SfmxeU9+bj5QIF8Y/Cj/NUGY1Aaav3/aBaFtA63ND3tAaFcJiniWARNxc+PZBGFyILi8JohLtPFsJDwQs4Q+G4iZJAhZI6bQ3izZVKNqE4TwBeK+MEGY3ARhvA2E/s7WJkk31av2u5ejXtDrm8FB6AcIwaUojudUTRD7O3JJSSViqg34+6XL4YIQWEpiuo80q/rqhb0uAlGaapf8voQk41G3D9n8uHLNBX1/M1UtBsUL0lE8vhhzaSgrg2cycrJnl8ItTmxX/fm2RtnR4LQPH0zKoa6kan96NVYrCMX5Z9gPJgj9t6/nVGYAOn40JYXOnTI22qLqkYE9agwzyAx9Xr1RK8i5g5AhG0jfP4y2XIPCdeTj6rmvd7eqefTxHR3k41J0jrwNhOCP86Rh/MLMAbV8wGTSMYlFt6mNzgxhXKggohC8cZklLFNXIaEQqM3MYXyoID1LqE3QcH9GWrL1CoRnZBHf4VIRtP70vAvCLV0lBsU5YTYQXwc6iNkhxgbCWLw29AzVBDL3EV8HAGFcazoq8ZiDwYa3gbhcbxcvhgciCv3cyPuzzg1MDEF6JnUQbmkd5APlgGzLxvcTMfhcv8W3AiGjH5avuCDcQT7uIS9IXzY9Q6jRr2NsIGQnMAinrBIIE2Ay9NlA3GtcrtBA5rKhXwdhcnO5COJYgHDkdRDuIN/3kG3ZdBDalUD6/gkFZFs2HYTPbBsagXH6/gkIQnGO8+/C3D8ME4RLUQcxfICqLeVIhr5//iKoUilHlsf/Eqz8ApIcMRRWqBEFAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOklEQVR4Xs3V/UsUQRgH8Dv6KTkUMTpOsbyLS+JALyHBHwQhgoJAy14sQ9Eye0MKpZIj6UWOyhDELCwUDDGRMoKoKIr6y574zvJdZ5/m5M7bwoGHmZ2dvfncM7Ozkcj2L1Fxh+v+Py9Rmcp1y5PxEybyd7pkcqzTBBHLMwOyNN0vi8/6HCj9J8qGeyCiAGJozMLTC/Iyfz4wMa5xT0cQVRIyKtP3Tv2FQg0Ig6C5yR6ZuX/GjEXtAmG8jf6xlpNvK6NbQxGENrND0KvHvQbEsYVAeO776rj8Wn8gv9cfGRDmyDY0mNCzq+Klnf+aIEzqAs0+POuD0HaBVmYHAyC0CdKzqxINLAMm4ubGtQZhciC4vBrEJVp7MRQeiFlCnwvETBKErBHTnq2TdH21aROEKAnEfaFBmFyDMN4FQn9bU60kaytN+8Pr4SDo7e3yQegHCMGlyI1mTE0Q+1szCamPx0wb8I8LV8MFIbCUxHQeqzP19Uv7fQQiP5GVlgNxSdRU+H3I5uelGz7o57sJH1MyyEbx9cWYKwNp6T+XktNdewxufmyn6W9prpZdVV776OGEHOlImPaXNyNOkJ69QPH+GfaDBqH/7s2MyQxAJ4/XS3vbbhkZbjT1UN8+M4YZZIa+Lt/aKsg7g5AhF8jeP4zmTJXBtbbUmOue7r2m5quPZ2yQfSjq2VXxXnkXCMEf55uG8XNTh8zyAZNKxiRWscNsdGYI40IFEYXgicssYZk62uMGgVpnDuNDBdlZQq1Bg70paUxXGhCukUU8w6UiaPX5RR+EU5qYokB4w1wgfg5sELNDjAuEsfhs2BkqMjsoGyC9j/g5AAjjmpIVUhPzMNjwLhCX6/385fBARKGfG/lg2juBiSHIzqQNwiltg4jSszuKB3ItG79PxOC+fYoXAiGjnxav+SCcQSWcQ0GQvWx2hlCj38a4QMhO2SC8ZZuBMAEmQ58LxL3G5QoNpJcN/TYIk+vlIohjAcIrb4NwBpV8DrmWzQahvRnI3j+hgFzLZoNwz7WhERhn758yQSjB479Q6P3D0CAcijaIUQIoEuGxvllooB32/gkFVGzRyGKwjI2x/6lopCv0M9u6/AHcIHugEYiToAAAAABJRU5ErkJggg==",
     "wiki_name": "Spider on stick",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spider_on_stick",
     "equipment": null,

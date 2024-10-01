@@ -1,7 +1,7 @@
 {
     "id": 9185,
     "name": "Rune crossbow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": false,
     "examine": "A runite crossbow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcklEQVR4Xu2W/WvaYBDHc4QyLMEhSmXKJlLiUEed0qqlzioqa4uwMfdSCo7OUTY6RqGwX/bPf5d7Hh7zQoxJTMt+8AuHmOTu+eTunnuiaVtt5RVB2n8hwkF5F7UXu3GhYjmtEOHNq6dLILOYigpFKDe7UZ0CRDiupZcwbOX8kyjxCbX+2ygOASKcH2XRfmksgRimmJMWcg1CY/IeRi7vcAjl6BFhUNcxaWXQNA1XdtIpTVjIuFYDjqbYSakGtABrxYhwhGk3K2CGr2X/MEwu7QQJE0dIArkdbJjhccUR0C8oCRBuZC6VamY3TCQR9g97AY4SZDo+wOy86YEjmM80mFlNlIlBuEQMs/oF1oqQ36+GcLYh5rMOFl9O0KvqAoQhCoYmGreQiZUVp6y3bPcjBiEBw8YlUuWJWSKvCM2zGUqNowjBrFGRk6XijGxYIq+st728QX1wgUKlHiKobGIeflwmGyZREdrvrkI1t9pNqoETzIxThP7VT7H9/ac2ifniD0L4fT3w8dlYMkvcT62LT64FOStq+vofAd7/iYhwOr9F58Mc3Y/XOPm8QKeii17hncRZyWd2fGCUVl3fSLJ0AsyCqRXlLuKsZA09EOb+ZhxwP7YI4+/3Yr40SjpKe3IXhZsvD9TcjbwuZozKThSg26+nIZ6LJPk9wwOPzygG4mOF59P6GUX482Oy5plYsnfX83pLTHD+olQWXJqge4lILlDtjYXxjOJf++zzLk64W4x8ricuubiaUfyFqeCcGWX7++vsMYCU7IXVEOXpznY4vRSza/TtzvX16Y3wgHJnxml7JROV7hApI/3YUKvkBNwqGf0DNB+KouGHeYsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmElEQVR4Xu2W7WsaQRDGbzhCMRwWUSJVWiPhLGqJURI1xBpFpUkQWmpfQsCSWkJCSgkE+qX//PRmt+PtbS52z5e+QB4YFM+5+93M7LNrWQ96kC5AGf+EALfz61h6tj4v1FxJ9wjw5YvHUyA3G4sKBZivNqMmzRDgfik+haHIpx9FuT9gqf1KJOxsbpom3SPA470k1p87UyCCyaZkGEIBVgZv0EmllQSjRE2AnbKNg1oCq64TqE48ZokwfGlvAHtDXIvxAHqApWxEOMBhMylgujtyfggmFfdBGMYYKJjAbwLY3S9MbxgOBwKEBplaxcOswvB9DWBIgFu7LQVCyv8uQYb9bRwdVzU4QPeJhW7SEm0iEGoRwfD1CCAswPRW8Q6QKq4Wx3jUwMnHA2wVbQFCEBnHEoObScxVFVXeW9bbM4FYaksJhoJaxO3RW6TnGwqwejTCXGXvVwVM5FlFSraKKrJgi3R5b3t6geXOCWYKZQMoOcRkftQmhlmgRWECrL8+Cx1u9T8UvJp4gNXK6BkLCLB9diWWP7u2fp38JQyE4tt5JyRnYckq0TzVTt4HHkhVYfflLSDYoqXMji7Aw/E1Nt6OsfnuHA8+TLBRsMWs0EqiqqQTazMevvQKkWTrBJgHU8rKVURVSTr2TJjbi/5q2tb/civ8pZKzMbchV5GZv6xouCtpW3gMV0cH0jN8AV5/Olx2leR5hgyP9igCom2F/On3HgX4/XJgAB5Z/up6Wq4JB6cTJYd/PUwraVtwz6IotvoiyKPok/e+u2CAN5NeyO9LlArGHkUnTIZTK0rx4+vRaqqkSwWjYBMld6fYHZ4K7+p9vgmcPvX7LF16O8NiI+diodnFmBP/M1AshtNDhfN/+8sKAv6H+gnLV+Ziz46IwQAAAABJRU5ErkJggg==",
     "wiki_name": "Rune crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_crossbow",
     "equipment": {

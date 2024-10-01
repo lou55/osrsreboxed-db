@@ -1,7 +1,7 @@
 {
     "id": 23700,
     "name": "Divine super attack potion(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "3 doses of divine super attack potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWUlEQVR4XuWV20tUURTGPe9FylxER81LGqJlkTro5KVEzVFxxEs2SmFIFumYmpM4oyAUQSgIFQaFEFEUhRc09TWIeojUoKf+ma+zzmHPnH0uc2acYy99sGAue6/1O2t9e5+UlP9HAtS/HKGomDLUEuDxtRn8dyjFSiQgNFKCu9eL0N+Zh45Gl05hS4HMkgnYWqnHxqs6KR7eL8P4ULFqvYC+6QmTPHHLHIjBfFquwfz4WQQGT2uAKEfsPKaKeoJPpvSJ/JkBfXh2EXOBUml86nVJwzAICmo3a7kS7mrfAPz+G5HuvFnySH66PVCIhoYWNDW3cw+lBVJ/jymzDgkYGhrmYn5hEb29fvh8vfC2dqKmtoHrkjq/PqSpjDYKGBkJYHR0DIHAPYyNjWNheRk9PX50dPTgstihiopqnX1MRnlNZbRRwNRUEMHgAyno8+TkFLq6r0mjqqquR+mZ87r7WFDe4YVHke/8Ol0ZwTAJWFtbx87Orhg7+Ly9K3XH7a4xKMJ7kwElcCWYA9HIZmdnxZiToq29C5WVnph7lB0iGH14jaKblEnUa2hUDIaCzBzbO0xmD8sp2lp25FnwCQQOhqLF60N5eVUchRICIpl1SJBO1sxMCKFQCOFwWBodHXm6g+IrFM8ajYw2Ccgv+oP8wt/IK/iJkwXfkZP/BZnZb+FMf4wTacM6UOqHSkp8d/JO7aGu/hcuNcpR7t5Hcckecgt+iGBfRbD3cGYsct3lT1NSYPzoqOC5C/sRGAp39YEO0BLnP3bE9f2YkHgg6o4ShgGVlO2rgJ7CIY6P7WMHJYkORdvNklExGo8REMEyoPTM5yLQEy7HIUFI/K3K2tx6cxP9E1tSEEhTsxz6QC8kH9md81YAkfgOeQdX4ak9iEAog37XALleSj6yOxN6X8UjGYhMqwZRApHRGZAr+yMyXCsRH9kcYWuBvINr3IjUoQHKWUVG1uuIj+yOOWuBqJga4kprNLRAG8jMesf5yGYPWgUlcMX1gi5JJVBWzqbGRzbHNFJto9ZB6XXGECh3W/aRODYCIg+lpt2xCoZJiNw7ajge6JvUIRlmUe6M9TBMAvcOU3qKvT7I0DQqMrMMcwvHjncfFRApej8pwQiUxkRGVr4yovFPpC5qLcBfbBOqo84TgZYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADlElEQVR4XuWV+0sUURTHvb8XKfsQXbVV0xAtjdRFNx8lar5Q8ZGtUhiSRbqm5ibuKghFEApChUEhRBRFoYmm/hpE/RCpQT/1z5zmzHTnPmZmZ1fXn/rCgd2Ze8/5zPecO5OU9P+IgHzlCIXF+JBFwN/RanHvQIqWiEB4pBDuXMuH/s5saK/3mBRmQCVeb5RcMcnu6QhsrtTC+ssaNR7cK4bxoQJpPYG+6QmbPDHL7umIDvNxuQrmx89CcPC0tF7LET2PrdhM8MlYsDUU6P3TCzAXLFLbJ6/jYQ4AxCAw0G5qOQ93pW8AAoHrujuvl/zqPN0ayIO6uiZoaGwTHooC8XXYb1vZOURgaGhYiPmFRejtDUBHRy80t3RCVXUdByG7YzebJqKJZLvp9ZGRIIyOjkEweBfGxsZhYXkZenoC0N7eA5cUh8rKKjkgmo/KyjVbWW0kMDUVglDovhr4e3JyCrq6r6qtqqishaIz50z30cC8wwsP9f9sjaWM7sj319Y+wfb2jhLb8HlrR3XH56vSi5i1iQ8EiuOVYOUOu48tm52dVWJOjda2Ligv95vAsD28QwhjDm8Q28QnkddgqygMBg6zPDuy6AzK7lutT6KL6RPwIUIRAQajqbkDSksrogJpsnPfIHOH2JMQ9WTNzIQhHA5DJBJRW4dHHt9BsRWybZMoWpi3lG0mkJP/B3LyfkN27k84mfsdsnK+QHrmG3CnPoITKcOSm9oe+VrMMLwoGLtCIPvULtTU/oKL9VqU+vagoHAXvLk/FLCvCtg7cKctCu6Kp0mGjUti67Bgyfk9HQbDV7lvArQkzB894ubzGJdEIHSHh6FAhcV7EtATcCnto/voQaH/45ofTcxumgyLYXusgBCWAqWmP1OAHgs5eJC4YSgEf/xbbmxA/8SmGgjS0KiFOdBzdY6c7nkDkFwtRokONQ+ugr96X4fgA68bgDwv1Dlyutn36gDOiKInDIFwaGUQHggHnQJ5Mj9AmmdFnyOHK3JYd3gRxZ01oUVyGICyViEt45U+R07XXGKBsJgMcbmFhRFoHdIz3gpz5HCG/rXu0CJCcbPAlyQPlJG1YZgjh2sakh2jiYMyc8YSyLulzZHSNgTCGUpOuZ2YwWYi+ntHhhOBvqkOaTCLmjOJh6EiwjeMnyn6+cCBxlbhMGswN+HY8e5EDrUs9n7iwRAU24SDzH8yaByBO0wsuVjUDIAPOY+d/gI+1xHqlahT3AAAAABJRU5ErkJggg==",
     "wiki_name": "Divine super attack potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Divine_super_attack_potion#3_dose",
     "equipment": null,

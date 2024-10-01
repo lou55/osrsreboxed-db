@@ -1,7 +1,7 @@
 {
     "id": 29563,
     "name": "Elite black platebody",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-07-10",
     "duplicate": true,
     "examine": "Provides excellent protection for someone considered elite.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAklEQVR4Xu2W3WsaURDFs/QhKKJIRFklSlZU/GCjYk0XTG2IibYpSVNMSEnpF21paQkU8tDS0qe+FPo/Tz2zzObudZW19al14KB4987+PDOzd9fWVrGK/ysM+nstJdxkLbtIkcg6HfRM6jY3KLK+TrFolD9nKRa9xapXCrx3CXAGbWazVMjlvKT3nAwLYHbNopKVI6tgUmEzw9dUS5usihWnbCbCwnVYV2H/AMpgEMjK5z2HBGi3myanneLfBQQ3hrarCaqX4wxl5WMMAOhkwv0u7i0AZdDRfpZB4BC0065ywlHfZHcgAes0ywyGT5QTajeSDCZlhZOpjcRUOUNAGfR4NLG8WPRgoN5Og8x0ksxMhq5eVujDszK9e1qiN0+K9Orcoudjiy5Pt1gXxwVPAgQHsV/vsVBAUiqBwXc4ANs/v6/T9dvaFFQ6lWIokYAJEMqq91HIXpoGcm7X3KaeJPh+1fCgPr2uMhRgRHBLHBOgFxdDOhk5ywHqOzb3jyT4cb3tg0IJVSBIyihA0OV4n6HUPloYaLjXob3dpi/Bzy8thvr6sc4wIh1KB4LOH/UZKpdNLQaE6Rof79LDwzsMpQL9+tYOBBKojWSShZKdHeXp5CDngzp90KP7gy5PXUgghOGDmAWEkgoMnBQYCO5gWrFHYPRcIWEQwUBSThVIoHQguCMQSwGalUCaXQWS5leBEvG4l2NePv3OM2K+QwKB/hr02+wOgPB4wETiia0CuDeezrkQkDSo/FNJioZHY2Ja0PSAEAEEZ5kcJTJNsldyqs7pdw4Ig8czGMhdhysiuCPC8QKH5MDlSVJeO9BrKtDN2txwXzlkjAVIoOAKxhZCyfp3ber1GuQ4NVan47oDIBw1eBAKkOT1oMICoU/U5wqgJKmUazCYuLPX9AHtdKusVmsCVHfPLtVZ6T+BClk2/0aBUhMPDzs+GBUIDkG2bZFp+veh/9TcN390bhhU2tqaMw0Gu6NPTJD0fXpeQIUAQrjluZEe+vos6aGvB12zilX8w/EbAQf9t6TCd/cAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xu2W3WvaYBTGG3ZRFFGkokRR24gVP7Aqzi5g50pt69bRrsOVjo59sY2NjcKgFxsbu9rNYP/zmc/JTvrmbVJj59088KCYnJOfzzknydLSIhbxf4VB/665hFOs3SxRJLJMu32Teq0ViiwvUywa5c8gxaK3WPVKkXPnAGdQPpulYi7nFr1nZ1gAa9YsKls5soomFfMZPqdazrMqVpyymQgL5+G4CnsDKINBIKtQcB0SoK1emuxOin8XEFwY2qgmqL4eZyirEGMAQCcTzndxbwYogw52sgwCh6DNTpULjgYmuwMJWLe1zmD4RDuhTiPJYNJWOJlaSVxpZwgogx6PJpaXSi4M1N9skJlOkpnJ0PmrCn18vk7vn5Xp7dMSvT6x6MXYorPjNdbpYdGVAMFB5Oszhuu1Vlevg7pslcDgOxyA7V8+1OniXe0KVDqVYiiRgAkQ2qrPkczSzED27Zoz1JMCP84bLtTnN1WGAowIboljAvTydJ+ORvZ8gAZ2k+dHCvy82PBAoYUqECRtFCDobLzDUOoczQy0v92l7a2Wp8Cvr22G+vapzjAiHUoHgk4eDRgql03NBoTtGh9u0cO9OwylAv3+3vEFEqiVZJKFlj05KNDRbs4DdfygT/eHPd66kEAIwwMRBISWCgycFBgI7mBbkSMwei2BuTGQtFMFEigdCO4IxDQg/eo+YQQWkGFXgWT4VaBEPO7WuK5eaCA9WQeCMF/DQYfdARBuD9hI3LFVAOT51ZwJSAZU/qkUxcBjMLEtGHpAiACCZ5k8SmSbJFdqqs6FADJ4Pf2AnGSDXRHBHREeL3BIHri8ScprB2ZNBbo8dm04rxyyxgIkUHAFawuhZYO7Ter3G2TbNVa367gDIDxqcCMUIKnrQv0FmuKSMyfqfQVQUlTaNRxO3NlueYA2e1VWuz0BqjvPLtVZmT+BCtk2b6JAqYX397oeGBUIDkHNpkWm6c3D/Km15Y9OBSqvrflugztDE3f0jfGTnqfXBVQIIIT67ut3N/UeD1KYvKvnBIScGJSgHw9SmDz9nEUsYl7xBzrMRAXx02llAAAAAElFTkSuQmCC",
     "wiki_name": "Elite black platebody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elite_black_platebody",
     "equipment": null,

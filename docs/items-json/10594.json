@@ -1,7 +1,7 @@
 {
     "id": 10594,
     "name": "Clockwork book",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-01-29",
     "duplicate": false,
     "examine": "A book about clockwork mechanisms.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChElEQVR4XuWX7UsbQRCHsxzh0K9+EsEigsVGRAtFoVYiKMVSRFoURBSEtiBoQWrra0MIwaApUvyHR367zN3cuHd4e/VLXXgIubvsPDs7u5ur1f6/ZqiYJ2/ZgM3ZKMPCdJaKUnp0D3k5XKepkZhmRh1vxhyfFusZVuecYAUhQ2tvo1xk8PnxAcu7iZSlyZSt5VQqUMjYDtCRhgMj0NeP9UJYCM/jtxhIsBA62PvgkJ0zOngREMJANprBUsaK7K87imRWpwctWkJeYyGurSAhiBxtxhafDItItJC8LqVQfyWlDB1vxXS6HdNKYzCpA18WJLKo9T1QSai957LDQlrGF9h3jTMksxQkBBmZIR3El42875zdSkLo4HI3th37hLSc/vTBzwcIoblpQwfIkpaoAoReDNXKShnqfYttces60iN/TIb+mRDqCJ3kCXGQvO9ALgauIZyBJYXQTFJHOkt6GrQQI2VYCEsfO/ar4YAsdb88XP5FQfU9fR99VDhG0jqSW4AedRl4x995X7dSQUKYNgAxeYw8Vs73PM7KYClMG7YAZEmfbXlS8j4yC/iw1lKlhXi1cZYOP6dBOZiW5OsAzwOfEFNCylB/32VIZknCG6eUYBbGowxzY36ChDB1XE95NCeiDFqo172gbvuEOq2fdj/C//ESMtxcHdlNshElrEym+ET+9Fp0c/WbrjpnVqJ9+YNa50d0/us7nRwfJC8GQUKoI58IuLvt0t9+h26v21ZAZoFfBDQsEyyEaYMMRouRswRngd88fBTJBEo5IWRDH5o+fEKvR6MEWcyY2pIyaE4ItaGXtxTRgQB+g4G4oHkENZMJwoEApnIteU3O40maDqJ5Bu0eptUmXI0otMIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACr0lEQVR4Xt2X70sUQRjHb1iOJd/2SgJTBEMNsSAMsrggCSUkigKJAqECoQLJMn90HMfhUYZE//DEd4Zn99nvzW43c9SLBj7I7e3N85nvPLvrtlr/3zC2mb8+qgU7N7IK6ytVJpTi1Y1ybbptr1/J7eqM59ac58m9doXNNS+I36zOzqZIGbt9J6tFF789f8lxd6Hk/mLJzoNSKlHIuAkwESOFUejNo3YjIoTz8VssJFkIE+xuefTkAhdvAkJYyLNOKcUV/zCME9l77GmS2VyZcrCEPiZC0lsJKRknsv88d4RkRETDQvq4lkL/RaZk7MFObr+8yO3G8lTRB6EUNLqp+TvAQhEpGdvb9emIEMuECoeOSUI6pSQhyOiEuEgojbrPku5EQpjg9FXuJg4JsRz/DSHnJwhh+G3DBEiJJSYBQlcvt+Ibe/g2d83NfcQrHyehOqGIlLwQ+giT1AlJkbrPQF8M0kN4BkYKYZiijzgl3gYWErSMCOHSxx17aTph2wavRy//pqL8HX+POfgxEpFS2Uf6FsCrjkHu+C8ftp1UkhC2DUBMP0bGlQudj2elluLKDcNvG24BSImfbXVS+nskC+RhzVJJKUFGUnr/tCwqxVhSjgOcD0JCQkRKxp7v+YR0Shq5cWoJYX0+q7A2FyYipVIIWyf9VEdnIavAQsPBiR30Dm2/+8ndj/D/uMiMKYTh+8jdJJezgo3FkpDIj2HXfj/7as/6R06id/rRdo/37fHnD/bw4F3xYhCRjgzfRyER8OtiYH+e9+3Ft54T0CnIiwAjMslC2DbIYLVYuUhICvLmEaJJRktx1YbhhZAGPzRDhIRuzmQFupmxtUk9BCH0Bl/eWoQLAfwGC/EJhImUkWEqRaQQwFZuF6/JYaRoHVxtzDFa6B8UbR5chOHzJx2/AXfJaE7YHY6nAAAAAElFTkSuQmCC",
     "wiki_name": "Clockwork book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clockwork_book",
     "equipment": null,

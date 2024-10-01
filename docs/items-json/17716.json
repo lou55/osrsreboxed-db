@@ -1,7 +1,7 @@
 {
     "id": 17716,
     "name": "Dwarven battleaxe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "This axe blade has been sharpened.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1ElEQVR4Xs2X30tTYRjHfa/C8CYML4ouIkwyaRiZSWaDYZlJNmSoZSZjDDNtjDGGKUOGTKIwU8RuJt1UXghB0YU3/mtPfZ7De85xigXn6PbAF3bec/a+n/P8et/T0PBPM3K8TtWMTI4lZHIyIWOjT2Vk5LE0N5+TSxcvSGvrZenouFYLMCOLuYzq1fRLhYrHH6kSiScSi92Tvr47JwV21IReeAqZWfUWUH6wZ+NxvR4efhgmlJFMJlU1oZGbnTc0PBYqO5NWzyALZjUxMRIuUC43LQMDUd+kRhfu6oocGHs9M6U5ZcGsCCnjIUH9DUlhVoaG+qWn55brEULyoP++tLScd8cWFzJuolcrlXqucAGhjOTzM7oQANHo3UNe8lfU2/k3Ck/uVItngQ0MxCLJ5LgKL3V3d7oACEhyaXAwJtlsWpaWcho68sYvoNLpF8GBisWswuByC0U5t7df1dJmMUIJKM+USnmFwhsWxv6em0sGB1peLrhAvKGFIsl7e29rKFiIBCeshBcoQgeI1dTUqIYfLwaAMrKysqAwFsgPRX9B3CPB8RpwvARQVBcgCFAgA8BgRlZXl1wQxCLIQlFBeIC3J5TkCi9hc8zmH6EHKjDQ5uaKfHhfdEEQSYssFB6geZbL876kd/4PKB4krwLCYEZ+/fwuGxtlDYUFsWLMQtkKotro4n4o7nleC2xG9vd/q6fwAhB+MQaUt18Zrb6mprPuNc+trZXCAsKcibe23mmVAOEXY0BFItddCPLJDxUijN+cEO7sVKRS+Sjr68sKg9jv2EjxjgWgPzU2njkpGGvOYnt7PxRud/eLfPv6Wba3P6kHKXmv1xjtT6cAhflDcZS85wjlKUH9rzlQdQXEJlxHUE7HrjsoOjZV6J2ham7OSdNrDTU359x9sF/V3OoUihMChzsOeXUAZdz97/DnVM3Mg+KQ19Z2pX6gQvyIDMOq976j7Q+tEMW06NvccAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xs2X0UtTURzHd57C8CUMH4rACJNMWkZmotlgWGaSjTHUsjXGGDa1McYYpowxxkYUZorYy6SXygchKHrwxX/tV9/f5XfO3c0MvFfvfvAFd3a853O/v9/vnLNA4L+h6GidaiiKz8QoHo/RzPRTikYfU0fHObp08QJ1d1+mvr5rfoApWs1nWa/mXzJUJPKIFYs9oXD4Ho2O3j0psMMeaNJTzC6yW4Cygz2bjfDnqamHXkIpymZTjgcqutV/g9MjULlMmp2BBEw0NxflOTe7uryAUpTPz9P4eMgGpXjhgYGgbSFFC5kE15SAiZBSjHvk0p+UFBdpcnKMhoZua0eQkgdj96mz87weW13J6kJ3KpV6znAuoRQVChleCACh0HCTI1jA3lFvll8zPGrHKcwFrPn/Y4W1SDI5y4JLg4P9GgACJGppYiJMuVyayuU8pw51Yxeg0ukX7oFKpRzDwHKBQjv39l7l1sZiSCVAMadSKTAU3BAY+XtpKekeqFotaiC8oUChyEdG7nAqsBAKHGlFegGF1AFElEhMc/rhoos6UlSvrzCMANmhsL9A+A4FDtcAh5cAFLoLIBBAASkOHdMlRWtrZQ0CYRFIoNBBcABvj1SiVvASUmNSf0g9oFynbGurTu/flTQIhKKFBAoOYPOs1ZZ10UsnAhQOoq5cuoNQ9PPHN9rcrHEqBESEMYGSDkK3YRc3daL4O3HNBYyEooODX+wUXACEXRgDlDmvFHdfe/tZ/Rnz1tcrXgEhrAdvb7/lLgGEXRgDVDB4XUOgnuxQAuMRUCAgNYEU7u42qNH4QBsbVYaBcN7hIIU7AoD9qa3tjPcwzWEttr//neH29j7T1y+faGfnIzuIljd7jeL9SaCcT/IsxK2jZBxRnMoTh0LIov+SmWlBCagZ9y2sQ9gUve9h7dgtB4UdG11o7lC+h3XTlK2hBerJunc371e+R4tC4YaAyx0ueS0ApfT5Z/855Zx1ymGgcMnr6bnSOlDyI/LvHd6XcJ59h8dvuj75UOOUYAMAAAAASUVORK5CYII=",
     "wiki_name": "Dwarven battleaxe (Sharpened)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarven_battleaxe#Sharpened",
     "equipment": null,

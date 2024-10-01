@@ -1,7 +1,7 @@
 {
     "id": 1084,
     "name": "Steel plateskirt",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-02-13",
     "duplicate": true,
     "examine": "Designer leg protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xu3W60sUURjH8d1XUi8EUZSUFIMEIwRDzDDTMDMzvOT9fjftShiFSNFFpBuC2IUKBUNMpIwgKoqi/rInvmd4lpmzs7qzbtGLDvzY2ZkzO599zpkzEwr9+y0s/vE7/sdbWB7NtMiD6WaTuRtNMnut0UQRqwtDsjI/IMuP+31Q9p/YMdwBKQqQxsYsPeyV53PdngvznWN2vKhAyLDM32yNQvEJRKOgp7OdsnC73fTl0w9Efzf6+8aMfF2bSgylILa1Ogp6eb/HgLRvLBDnfVuflp+bd+TX5j0DCoThR/VfK4iL+oEW73ZEQGz7gdYWhz0gtuMEhT3DwIV0cvPdBnFxEDq8sUAbz8aSB9IqsU9B7vngFxv07sV4BEQCgXRe2CD+OSD67E4NbRkb9f7VOS/ozfWdg9ivoMy8kEl6tpPUDCexQB+WJpMLIgwlxy8MDcpwV5f0trZIW0ODNNbWyqnjVVJVXi5HSkrkUFGRB8QQf1q5GAH9eHsrXgzNC3KjOHZlbFTG+/pksKNDus82S3NdnZw+US3VFRVytLTUgA4XF8v+/PwICtDn15cTBdGcickdoyC+T01MyOTAgG91TlZWGhRVOlZWZnCZGRnmPEBfVq8mCnLWICpkgy6NDJvq9Le3SWdTk7TU15sKgTpTU2Mq5cZRrV0pKeZcNyjAoujc8jaI/VxcqwOICjFkwKhULNzBwsLkggj7uRAgKjTa02NgzKN4cEkDKUpB/DiY7VAa+qSnpXlArNJxYmjOHbYdiDAcgOxwjAmtWJ3Y7golBFIU+/T2BqTV8QMplsmsd+Le7OwIKmkgyu8HUoAdQHxyXl5OjuzJyvKAAqAckHvYbBATOx4QFWJy78vNNSgFsQYFWIe8IKIgftwGUS2/sFIz0Zl3rNigEgZxl9kg5lBQEOewFh0oKDDRKiUMsoctGaFCrEGB1yF72ECxn2cSr6Js6+st4dGiD2LO0wcqfdefjMjH5fOR2z4hkD1sNohj7tcSN4h+gHhvSgKIFl1qv7gx7tgg3qXdIE0AULwtGqmhkoCozl8EbdWikdH533bWfgOCUdPtdpVR8wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRUlEQVR4Xs3W60sUURgG8N1PUh8EcVFayUuQYIRkiBlmGmZmhu623lddXS9pV8IoRIouIt0QxC5UKBhiIqUEUVEU9Ze98ZzhHc+8ntWZdQoPPOzsXPb89j1nzkwgsPtbkMwxHf/nLUhPJ2P0eCKqMn07QlM3W1QYsTQ7QIszCVp41mdAyT+xY7gFYhRAHImZf9JDr6a7HR3jO47JOFGekEGaudO6CYVPQDgMejHVSbP32tW5+DSBcL6O/rk6Sd+Xx9NDMQjbXB0GvXkUVyA+NxUI1/1YmaDfa/fpz9pDBUIfRwoLVWTvolll53/NIHRqAs096LBB2DaBlueSDhC2GSR7Fy3oGAZ0xJMb3yUInQPBw5sKtPpy2D8QVwn7GKTPB1Mk6OPrERuEeALxvJAg/HOAcM7ezMCWkaj1txedoPe3dg7CfgblFARUssNWMkNWUoE+zY/5C0IwlDh+eaCfkl1d1NMao7bmZmppaKCzp2qptqqKjpeX09HSUgcIQ/xl8YoN+vXhro3xDNJROHZ9eIhGenupv6ODui9EKdrYSOdO11FddTWdqKhQoGNlZXSwqMhGAfT13TUjSPaeolkTE3cMg/B9fHSUxhIJY3XO1NQoFKp0srJS4XJCIXUdQN+WbqQLstYgVEiCrg4mVXX62tuoMxKhWFOTqhBQ5+vrVaV0HKq1JyNDXauD9EVR9i6adctLEPajc64OQKgQhgwwVCoV7nBJib8gBPvREUCo0FA8rmCYR25wvoEYxSD8ODDboTg4JzsrywHCKs0YVyDcYduBEAwHQDI4hgnNWJ7YeoVcVgdtA8Qo7OPbGyCujgnEWExmvhP3h8M2yjcQym8CMUAGIHziuoK8PNqXm+sAMUr2bmgWSB82CcLEdgNChTC5D+TnKxSDsAZ5WIecIIRB+HEJQrVMwUqNiY55hxUbqLRBuMskCHPIKwjXYC06VFyswlVKGySHzY+gQliDPK9DctiAwn48k/Aqim1+vUXwaOEHMa7jByrOXXk+SJ8XLtm3fVogOWwShGP6a4kOwnkA4b3JBxDa5lKbomP0SBDepXUQxwMoEOBlfatIoB5UEiBUxxeQ2yaRbrCcjXP/U5NIU+Q1u7r9BcxVHohoYpLYAAAAAElFTkSuQmCC",
     "wiki_name": "Steel plateskirt",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_plateskirt",
     "equipment": null,

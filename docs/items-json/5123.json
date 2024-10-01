@@ -1,7 +1,7 @@
 {
     "id": 5123,
     "name": "Magic seed",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-06",
     "duplicate": true,
     "examine": "Plant this in a plantpot of soil to grow a sapling.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABIklEQVR4Xu2TUWvCMBRGDTLGQmkRi6KyihVbnMI22coK3VQ2HRs+CIKw//9DPk22tDMo3UOz+nAP3JeQh0PuSaVCEARBEHsY9JMSYag5FzgTKSHB4HsWLF4tW4rhbTrESzyQQo/33R+hUqQYltMeXpMu5kmA0Lfx9NBL5x+lvl9g8xlg/T7AatHHx9yXYs9RB9FdC6PQxXXbMiml1sDSTr7WN6nUKSHOjYSedSIaEa0ooe0qTIXE+maxZ/qFDjtJov5BJ0pIrE0JjQJbSrebV0UL5Xci7sziJuKJuz+r43boyLizFRdK1skpoawRfYxwPNzfnTj2pUkBnfxw3XrhneTBjoarhFoNXo6Q6mgyrslfJML1OtzET/oLerD6EARxfuwAdePoKBAJb+kAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPElEQVR4Xu2T70vCQByHPSKiY2yII1Fp6sQNM8ikRoOVSr8ofCEEQf//H/LJO7uz3SYL2bWge+DejNvxcN/najWDwWAwGNYQqF8qhKDuHOKPSDEJAt+zYNGDqqUIHmYj3MVDLnR92f0SqkSK4GnWx33SxSIJEPo2bq76cv2i1OYG3l4DrJ6HWD4O8LLwudht1EE0aWEcujhtWzqlxBiI7ORjdSaldglRqiX0bSesEdaKEHpfhlKIjW8ee5kbmvR6fKmn7km6kyQapDoRQmxsQmgc2Fy63TyWQuqpe1LcCdszj5uIp+76WwMXI4fHLcZb+u2ITnYJbRtJLyFSogwjP9zvnTj2UUZAg4igOFy3UXonRZDccIVQ64RWIyQ6mp7X+Sti4XodquMl/YRstHkBq39pRQ1WXep+g+Hf8QmF0Q19F52KOQAAAABJRU5ErkJggg==",
     "wiki_name": "Magic seed",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_seed",
     "equipment": null,

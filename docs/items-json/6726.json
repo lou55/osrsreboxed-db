@@ -1,7 +1,7 @@
 {
     "id": 6726,
     "name": "Mud battlestaff",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-11-07",
     "duplicate": true,
     "examine": "It's a slightly magical stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xu3VXWsTQRTG8QQJIaW0lBaL5qIU8cYvo6KoaFFUFPRCEEUpRfGlFN8olGpFoQWl1FK0IAiKougnG/Of9QlnT8Y0m6zihQOHbHYnM7/MOTNbqfz7rRrSkXr+x1s1PJ47Eh7OHo6xcPNQmL9+MIYQ60tnw6vFM2HtyekEyv+JgeEZSChACo9ZfTQTni+czE3Md575yKMKIath8dbRDhSfQBQCPZs/EZbuHIt9+UyB6G/RX7fmwueNa/2hBOJaqyPQywenIkh9fwfid182Z8P37bvhx/b9CCqEYVD9a4GYNAVavne8DeJaIMYRaGP5XA7EdY+gai4NTKTi5rsHMTkIpVcgxhke2tVO0dbKhfJAWiXupUBaSYEYY7pZj6D9U40wPprBBCIKgVQXHsTkHmQL2oJGRiqhMZxBgGm12qA3NwYHcR+QUFpJuyP5/YF9Q6G5px7GdrdWaawWJuu1MLG3US6IAGBBvqAFmp6qxwAhiE3Zt7e3e8XQ8iCL0vb1IItpjtdDs1U/QhD0/fj6Sr8gWjYQk3UD2YKm/+REKz2jtXhtzyD6flq/2i8oO4NYoZ1A9BGenaTdRGr9oWhBBQ7FbLAUiPAg+rOTCLuTLIh+pYKEInTiMgHX/swRyKerNJBdJT4tiH4R09raFLJSx288aPPp+TaIU7pHDC3bYSmQ3k8C0ddClFYPoi+vDbtCfYF8HXFfIPqxo/jUlk+BlK53Ly6WBxKK+ypkYeyByLVdSQt6v3opByqAykCptHGP59raPO8FxIp+WLvcBnEGFTiH8iCbtohpbW8dfNz36fIgVmdgELvHg7gfXwm/ipjJ7CvDglRrSldpIJ+2bIBqnIAJ9cqw6RKIMQRiy1sQZ1DhcyiVNk0CiOtuIFs/pYBSabMgnqUKmtBrQ+kaEETLUrNT+PpReBCHogUpCoB6bZ1Iha2fvwjq1jqRnfG/DdZ+AgHQMn4q+JloAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xs3W7UsUURTH8V1iWVZEESWpfaESvelV/0lFUVFRVBTUiyCKQqToQaQnBLEHChQKMZESgqAoivrLbvu902/2zOm67bpTeOEwszN35ny85947Virbv1VDOlL3/3mrhsczh8PD6UMx5m4eDLPXD8QQYmXhbHg9fyYsPzmdQPk/om94BhIKkMJjlh6dCi/mThQS85t7PoqonpDVMH/ryB8ojkAUAj2bPR4W7hyNfTmmQPS36G/rM+HL6rWtoQTiXKMj0KsHJyNIfTcD8dzXtenwY+Nu+LlxP4LIsX9yMobP7lo27PqrBSJpCrR471gO4lwg3iPQ6uK5AohzgXx216qFMpBIk5vfHkRyECqvQLxncGBHXqL15xfKA2mUuJYCaSQF4h1TzXoE7Z1ohNHhDCYQ0RNI88KDSO5BdkJb0NBQJTQGMwgwjVYOenujfxDXAQmlkbQrkuf37RkIzV31MLKzNUojtTBer4Wx3Y1yQQQAC/ITWqCpiXoMEILYkn1/dzvH9AyyKC1fD7KY5mg9NFvzRwiCvp/eXEmCfPZNWvYiknUC2QlN//GxVnmGa/Hc7kH0/bxydaugbA9ihP4Goo/wrCStJkrrN0ULspuiz+5a9rIUiPAg+rOSCLuSLIh+pYKEIrTjkoBzv+cI5MtVGsiOEkcLol/EtJY2E1ml4xkPWnt6PgexSwvTFYiVkwLp+yQQfS1EZfUg+vLZsCPU5ejQ2iA/j7guEP1YURy15FMglev9y4vlgYTiuiayMHZD5NyOpAV9WLpUAAnlsydaBkqVjWvc19LmfjcgRvTj8uUcxB7Uwz5UBNmyRUxreWvj47ovlwcxOn2DWD0exPX4Sfg9iUlmPxkWpLmmcpUG8mXLal6NCUioT4Ytl0C8QyCWvAWxB/W8D6XKpiSAOO8EsvOnFFCqbBbEvdSEJvTZULn6BNHa/zZ0Cj9/FB7EpmhBih5AlYq29U7hgTbs/CkF1G3zyG6winbf/9Q8MhX+mW3dfgFL1H0KDK7NwAAAAABJRU5ErkJggg==",
     "wiki_name": "Mud battlestaff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mud_battlestaff",
     "equipment": null,

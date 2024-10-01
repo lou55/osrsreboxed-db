@@ -1,7 +1,7 @@
 {
     "id": 16242,
     "name": "Coal",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Hmm a non-renewable energy source!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACn0lEQVR4Xu2W3WsTQRTFex98MJRIiSQ0xUha0qKRfgTaUlApFFuKIkVBEEEQBEHw/3+8emY4O3c+drPRbn3phctmsrOzvzlz7syurd3HrYdoyP8eoovdkb7a39Lzw0kCZUHvBFh0Pn2sZ/Oxg/nyZm5eKjoY9LLsGMqrQ5gAJNrvP3QAo9G6jsePdPsP+J0AWRgC9XoPMhgk2lbBDpZSMmWoDmEmk40KCG32gefene3ox9e7+ul873ah4sG8dwBkYZBo4/5sa8MpC5CvVy/02/W+A1wBKpW3SWqJ1LEJKNxHIXCpv7890F8fFklBNIbodLPvZrU3GejBztAZ+eTZZmFWHjKFSSeBZwFEGOSP94dtgESfDNddWXOfuVg81evTbXeN9x1v5mDcOhW9f+AdwhAIS5f3j8Krw30GEJfHU2dGXNG2QDAz1EHGFWVD3HN4+c+bIweDK9Qq96/Cmw9JdQABdTA7XNEuAXGpylBSmRmqECjvl4U4zyCtOjcvZ/r54rlTCVAWCNVlgeJSD+NiQjAxgVr4J8CgIuxS2dmhXQdUKnfbF0lTL4FB+NJkRdml4syQUMu+xMLMZkOXFiqAhfe0gEH4MwrlCUNTHSwVZsUEYB0QocoqtQZhSFTqVAeVQRj8zrd8qQXCPR64f3Hy+0PTGhm+IQgTiqVAFopA+A97lAXi/+HZxpDKN0j4hhAAs2mXgEuL3wTiPfs5UvZTY4gbmCWeglgIJH2G/sFX1ifhwLXbwkpAGBhZBgn9LAw8lfvK9wOMVWdFKHHK1IP4PqhCCxN/G8V9c2VKYzbGsoe88fmBRZ+FCaSxbLx/Dn9IpkAtTuyuwleVBeIeVfZR5yHVhkm/AabFQdlV+K2BQFgqwLT8lOgqrFE7N+191MZvA2vIEDpsoTMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xu2WUWsTQRSFOw8+GEqkRBKaYmxa0qKRNgZUCiqFolIUKQqCCIIgCIL//3H0m+Fk7sxukq0m6YsXLpvNzsx+c+bcmd3a+h8rD+dT3ng4Pz3q+Rcne/58MiigLOhGgJ0fD+/6s3E/wHx5NQ4vnezvh2un06rkmqGiOoIRENlu3w4Avd627/fv+IM/4AKKwGsJl8EIqNW6VYEhubcKrmEpXUUZqSOYwWBnBsS92uC5d2eH/uPLI//p/Hi1UJq19Q5AFobknuejvZ2gLCBf3zzy3y5PAuA1oEp5c6kTTGxr1bEJFM8pBC3197en/teHaVEQC8P54W47zOp40PGnh91g5KcPdmtmFSFLmHIS9AVIMOSP95MmQM7f626HstY+czG97y+fHYSr9h0tFWaWcW1KQbVjLLwjGAGxdPkEKxHV0T4DxOsnw2BGrtxbIMyMOqStqHzWLvTj5T+vHgcYrqhV334W0Xyk1AECdZgdV+7rgLRUSa18XJkZVQS0BIZwwTOkVefq+ch/vngYVALKAlFdFigv9TQuE8LEAmrgnwRDRdilsrPjfh5QXbknsPhbpm6kDiCqKLtUmhmJWhbIwoxG3ZAWKoHFrUJgS2CIeEZRnhha6rBUzEoJ4DwgQdWrlNRqAEO4rNSlDpUhGH5ry08DurlAPNOB+xcnfzw0rZHxjUCUKFYCWSgB8R97lAXS/w3UIdzMNyS+EQRgNu0SaGn5LSA9s58j1k+NgRhYJV6CWAhSPqO9fKW0FViecdcCYmCyDiQZMYfBU9ZXth0wVp2y6paEC8rMA9FLqEILY7+N8pnnB67Gyye3NKqdypdgfH1gyWeaQPUl9eNV2y2IxZ3iIVkC6cSu67N4vH+OWFUWSHvUij9Jm4abbZjyGzD2oFyTEvMibg0CYqmAsZ8SZY8NRL4flaYtW28kyoq5UZhNxW86UDUTeQYTqwAAAABJRU5ErkJggg==",
     "wiki_name": "Coal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Coal",
     "equipment": null,

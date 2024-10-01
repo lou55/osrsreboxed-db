@@ -1,7 +1,7 @@
 {
     "id": 24862,
     "name": "Karamjan monkey",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-07-09",
     "duplicate": false,
     "examine": "A monkey retrieved from the wreckage of Glough's airship laboratory.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/ElEQVR4Xu2U30vCUBTH3UNIERNRlClOUproJEEoiih8qCiEoqIQJCohKIIg6KHX/vIT37vOdu82teXEQX7hy5g/vuezc89OKvUnaeT/ZIHS6HF9hRIEtQSaJgcoIVAezBIoXCpQAqASBRSESSTQAqGiAOHe75kUFjIeSIXSqLddpL1OnjpWhhpVnUxjLSTv19LoeNcQgcEQjTK67jqXzVIhnyejWFSA+oclBcqu6wIsmDdVGl0dVdzAnXZOKYTCAGDLQJVS6ee3asZBtyDAkNVtZaNAaTS6rNHgrCoCT/cNEchFuDDMT48isqvlMtVMk4b9DRcKOeg4HAnmbdig59tNuj93oC56ZRGGQnh6FMI9iuA7FIRX02nXKIojwoMBCjk3J6brSEAfDy0B9XRdF1AIQOGWZQm3m03q2LYCgN/J9/KRIsfvSEBfL1v0ObJdKDwhoBgGfr9rii7KHZCPBp1kKD5q1ZHk/7NjGeh1YLkw3EHA8IzAPGceVGwKwsid4xkDBIac3yiYX4CYoTwgXHm2+Ji4OzIUv+KwvB5igtJcGJ4bBkKHxkExWHBhziynQwyEDgHK/0qHgcmzFCsQdwjzAwNMhpsE5m3uWOVAYRXIZjieqzAweG5A2D9sLFBcJ4HxyvCnxSRni7OxPNkMx1BzBpEVXJjhXuof6hunPkpbYgkokwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKUlEQVR4Xu2U3UsCURDFuw8RRRiiKCpqKSlqZAhFEYUPFUVQVBSCRB8QFEEQ9NBrf/nEudvZvfuRurblPjRwWNR15nfPzJ2pqbFCifebCYaSu/lpiRGUA7S2uBgHqJgCxaRtDkxMXIo5UAzaFgw0IZf8MLEEmmDbBgO5XQKgVz+KoCTfA7ldUtJdz8pWOy3t2oLUywkp5eYC8o0cSvY3czqhP4mShUTCViqZlEw6Lbls1nBJyfFu3gXVqiY0mD/f0FByvle0E26spFwnR2EAUCZQMZ//etedY6eT0WDI1Wkmw0ApuT+rSO+orBMebud0QhZhYYinRxFT5UJBKqWS9I+XbCjkgeMQXRzhVip56dfl8WpZbk4sqNNuQSdDIZwehfAZRfAbCkKzMzO2UBQtwsEAhTyXByVbTluHhpK326aGerioaigkQOFmraa10mhIu9VyAeA987PZUuTxKhTQx9OqvN+3bCicEFCEgV6vG9pF0wGzNXCSUGy1qRHbxfAngEyg517NhqGDgOGMQJwzQhEiJIwV7j/6YUznOGOAwJDzRkG8AI5TkYQDhCdni22iOyYUrzhkroeIoJQNw7khEBz6Dopg3oUZul3+sBwiEBwClPdKB4GZs0Qgb/YxwnEI8wMBzIQbBMbNHZE7DAsKq8AU4ThXQWBQhO4wLCDsHwoLFM9BYFwZEbvDsLY4heVJEY5QXpBfgGH4F2aQ/gDECbPYIHn/9x9Rxyfzs4rezRnQigAAAABJRU5ErkJggg==",
     "wiki_name": "Karamjan monkey (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Karamjan_monkey_(item)",
     "equipment": {

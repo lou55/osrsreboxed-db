@@ -1,7 +1,7 @@
 {
     "id": 25719,
     "name": "Clan cloak",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-05-26",
     "duplicate": false,
     "examine": "Shows your clan's colours.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKUlEQVR4XsWXy0pjQRCG7RcwCEbFRcTLE4g7N4rObNwoDLgQRRAlKGPiJV7jzDjHWzREUaMERxMheEFRERHyBPNYNfmrrZOj67G64Od0B0J//FWnqk9V1X8PQ+/lNAwNTSXpy8AwDX6to289tS6hDM3tnNOPo1uG6O+qpe6OELV39rqCMrSYvgwcbsiLNlNiN0/1jU0uoAyn6v3BhvYunl24ZCh1/kTjiyk6LL4GCtr+Prt1pglkKFN44YPhxn3pL51clxhuKVNkqcKsHFxxIcc3clwvW2ePvEc9AUaK/OM/PyksUGK3wG8YNLl2wEKa1N2BCwASd2LeKcNEk/ssRRiEBZp/cwaa+nnEApQyDMICBd35vn7sp0wZyHZl1AmAsAaQSBkGYYGC7sQ3c2WHsuySUyDfqTIQ5Axm+vcJRSIRaqiuZiCBUgaqwEBtZSCkrKW1lcLhsP6IwDgAAGDwBBxAJG3OYCBA1IRC/loRqAIjQD19fVw7DtwxNLGcZmEuiRsiSZ0SkKHoaoYFGHRljAWpnWAdjc54OkAyBjBAY54F+Aik5g46LhzBfYYnernHiFO2I2cZSM0dOwqOGWghdcFQEKAEDk6NxNb1gCDv9J4SO38oeXjDQLhuQNiPJbY1YBD2aoH62Mw9MNSv7B1raa/grxWBEHZM4I4sUHiupPP+XvneY/w6QergljRBCAXtZJgKFADkLat8SajCSFgo+dxxCBIMgfh8kH9BUYpU+DYr9AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRElEQVR4XsWXz0obURTGvS9gEExbXERbfQAp7txUot24sVDoorQIxRIqNdEa/zW1tVOtMSENiTGEaBIhWMWgRUrBJ/CxjvnO9cyMWTdnDnzMn8XMj+98c8+dnp7/XobuK9Ay9Ho+RVMv3tCr5w/oZbQ/SChDn3aPaLN4xhAzz/ppYixET8cng4IytJo95pePDg3x0Yk9puRenR4ODAYBZbhVHpC9l6lduS5597tehtJHf2huNU2F5j9foO39pZ2qJpChXOMvvxhutK5v6OD3NcOt5ZosgVEAMrSRP+EgJ35UOC871Uu+Rp4AIyFXgEFZoOReg78w6MOXPAttUncHLgBI3Ik7ZYaJpX6xFGFQFmj5zhlo/muRBShlGJQF8rvzcWvfbZliblB2VUZOAIRzAIkCcQcQfncS25W2QyV2SdkdlAfkOtUGggJzZ+H7AUUiEXrU28tAAqXsjgcDjbSB0LInw8MUDof1RwTGAQAAgyPgACJtU2zXfRgIEH2hkHuu6I4HI0DR6WnOTgDuGHq/nmVhLokbImmdkjuGYp9zLMBgVcZYkOz4czS76OgAyRjAAI07FqATSKldhldcOIL9DE/09hojTtkVucRAau7YUbDPQCvpGkNBgBI4OPU2vqUHBDnlFiV3DylVOGUgbDcgXL9L/tRoF8puLZCP7coFQ30rnbPWMg333A/U+YQulB0T2CMLFI4b2bp7rbzvMW5O0Dq4JYsghEAHMkwFCgDylcmfhFJ+OstCye9OJ4gyjJT3J9ptkFvrTcrXdkVJ1wAAAABJRU5ErkJggg==",
     "wiki_name": "Clan cloak (Light blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clan_cloak#Light_blue",
     "equipment": {

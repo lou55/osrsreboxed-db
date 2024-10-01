@@ -1,7 +1,7 @@
 {
     "id": 18479,
     "name": "Sandworms",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "Can be used as bait for catching anglerfish.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xu1VbUuTYRT2/gnhSLahsg039sLmxuYcTlvU8hUVZ2Wa1gRBCowkQegFwxCEoiCEoogoKiIIAulDBEEQBNGHCII+lSX1M668jjzbHp/Hl0mkwXPB+bL7Pudc93Wus6eiwoIFC/81FPSxo1DIVFehzWVHj8eJAX/tTpNS6HQ7cNhXgxNBN8bCnr9FaK3sWx2BQl9dNeZb3Ljb6sPznpBJ/mY1DFArL3MgH7JjJFCFQX8Vmp17C2Esro+ZlAsP2v140RvGy1xEfjsddWKu2Y2bB+pwr81fDimS8eBRRwCLfWG8HYhiOhlcKeiVEUwlaoRgymFDg71Sot1ViWztHvHLRMwn9y83hTHXUi/5rMkz1riUCgmpsggx8Vl3EK+P1OPzyQbM74viSjoixbXQSI6G3DIeqvEln1xpFsdCNiFxY3+8oNpsk0uUoWK8XwYhQj8CrTjJaXE1ExOiDBL5fiqDpalePO5K42FHE+60JiWP+ZPxahmXRqhMMqUokur12ArR77VJQy1+TOewPJvH7+uTuodoQZNTSY6TI9sGodVC/C8ZCrjEUwsHvYWgB+gnntEbXPEigbXQj8v8zoZQOBNzSlOamuPhuBifRhL4OJzAh+NxMe35xqCs9ZOuoDS8nfWZNCwamveN56YoyktpaVgS+DaWwtJkJ+63p7CYy5SooOScDUh8vL5OxnEuETBpuFqTZ9w647kBCuMRh8jKVacKtw41CInlmWH8ujZRQkSfx6BZz8b98gj6w9hUyZhf9UdkA411dFDiBbLXtoWKPO1Or1FkIyi8ORqVUVLRd8diJTkKFxprRcUt+kfJq0iGK0oy6yuyHhS+jibx8+KgKSE+mOPcln/KI1KK9fKVfEKozvuhTcf1L6BEMVqB27oLCBFmylmwYMHC7sMfz5QDT7FPOLkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyklEQVR4Xu1V7UvTYRTd708IR7KNqdtwYy/sjc05prYo06noUCvTtBQEKTAaCUIvGIYgFAUhFEVEURFBEEgfIgiCIIg+RBD4qSypP+PkufZs+7mJmxES/A5cGHuee+95zrl3M5kMGDDwX0ODPnYVGtL2WnQ6LOhz2TDkrd9tUhq6nVYc9tThhN+JyaBLCIUbGv6W1GbZK7VAQ3+jHYttTtzt8OB5X6BM/nY1SqCtv8yK8YAFY75aDHtr0Wrbm4/S4vqYSzrwIOPFi2wQLwdC8t3piA0LrU7cPNCIe53eakiRjAuPunxY7g/i7VAEswn/ekG3WDATrxOCSasZTZYaiYyjBu31e2RepqMeuX85FcRCW1jyWZNnrHEpGRBS/K5CG/kaN571+vH6SBifTzZhcV8EV1pCUlyFIjkRcIo9VOPLeGK9WQxL7XGJG/tjedXmUw5RhorxfhWECL0FqjjJqbiajgpRBol8O5XG6kwWj3ta8LArhTsdCcljfi5mF7sUIUWmCkIm08blAqmsy5yPQbdZGqr4PjuAtflx/Lqe0+Wo4JBTSdpJy6pUh9goxN+SEZ9DZmrpoDsfnAHOE884G1xxlaNeXlBAb9cO1NFwJmqTphxq2kO7GJ/G4vg4GseH4zEZ2vPNflnrJz1+aXi73fOHmL6eGmjer1CdgryUlgNLAl8nk1jNdeN+JonlgXT+DoPnbEDiU+FGseNc3Fem4UZNnnHrSs9LoGEqZBVZuepU4dahJiGxNjeKn9em8yQ2W8HgsJ6NeeURnA/VtLg+bX41GJIN3IaQJrNA9mpbqMjT3hadInoiBShib45GxEoq+u5YtKiphgvN9aJihfOjyatIhitKMlsrshU0rEwk8OPicFlCfDDt3NH8VEekGOXz+Zl/IVTn/ci2dhVQTKA6IgWUz9dEMY4Ct7ViQv8W5ZTbZZQqZ8CAAQOm39p+T0rtQuf+AAAAAElFTkSuQmCC",
     "wiki_name": "Sandworms",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sandworms",
     "equipment": null,

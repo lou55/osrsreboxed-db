@@ -1,7 +1,7 @@
 {
     "id": 5522,
     "name": "Binding necklace",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-13",
     "duplicate": true,
     "examine": "A necklace embedded with mystical power.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xu3W30sUURQHcBeREKSXgijYJKUilIxQK9xMSDITMrNMshINM8sEMUxZFLVlsTRRNyuTFSzZTGxDiH7Sr6deeuofOvG9wxnPnb3Gzu4YPXThsDNzZ2c+c+6Zeycj499vPjKHqX/Dm4/GgvV0r79ORfjOGQrdrlXBiMWpFlqYaKb58SsGlPMh0oZbIEYBxOHERO9fosfhi9qNsY8+Z+goV0gfTQycS0DhFxAOBs2EGmlqqEGdi18TCOdL9OflIH2M9aSGYhC2OTvy4s4wgfC/T0v99C0+TN/jdxXIFQYX5admEIC4MPqHO/ZTuOsAjfccpJlgidq/2biHCvI3azgGxSKtGgjbSYJ82jAAwcWNffQDEmwrUL+x0QD9itfSj8Uq+jB7nFYeHKXoyGFqq8+nvbkWDqDlR23egThLOIb+SF+xwshMcPxcqqav0UoFysnOtEGvZq/ZIIQr0NPRJiMIfS/HAio7fCNZ0AiGAcTnIF7PteugF73egJAdvhlnUr6RkZELqq+xOlcDrUY7vAXx0wPUWpentnEeACZQTfkOG4S38u1Cpw36sjKYLAZNB0kUg5pP6yDG4DwcH2wvpIqSbRro3bOuVEFoVh3gZiZQU80utS2nBgliMA8XQO8Xu1MFWTdChkygyd5iuz5MBY3slBZu0UCYuyTIxaRoFaoJxE+PifD8iZ02yFljZyv9CdnxFMQonhQlSBY09vtaC+yZekNAMkv89mCZ4BqRBY39I0VbNQyDlh5etUGYpZPEoFlvjgnEnxhPBkrVmmVddC1Q7Hn+nAQQsoNlQ2YoJZCzjnCcbxzqLFLFi+HLDPjpZNl2eynBf5zDhWXDMxCjGIQM8SqfPXuKsm6V0PWG3QqIfvnpwSDM0hLkAmWBTMPGIKzkCjNdRZtCFZTVYmWr+/I+IwifHW/mb9ggzEEu5iEdJIeNQavTx9SwSRACWXKCkJ20QXjL1gPxlyK+gXjYMFHi4wzHudbkcHkGcg4bjjMIH2LxyXJ6Hi6juaFDNoZBfC5AeOUlCHOQ63nINGx8EzyxdbG1wOQoQbJ+PAGZhk2C0CeXDAnCebJ+0gSh6U+/XkiMDCcIk6IEcbgAJdsSkRyyfv4i6E8tEZkY/1t67Tfjig1Yd85BjQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcUlEQVR4Xs3W30tUQRQH8F1EQpBeCqLANKUilJRQKzQTksyEzCyTrETDzDJBDFMWRW1ZLE38kZXJCtZiJrohRD/p11MvPfUPnfjO5VzPjLOxq9dw4LD37szufO6Zc+den2/rNz/Zw9a/6c1Pw4EaethTrSJ0/zwF71WpYERkvJHmRhtoduS6BWVexIbhDohRAHGYmPCjq/QsdEWbGOfoM0NHJYT002jvxTUofALCwaCpYB2N99eqsfi0gTBeor8uBujzfOf6UAzCMWdH/rkZNhB+92Whh35EB+hn9IECYWxeRoYKc3ajOX/KV80gAPHH6B9oPUyh9jwa6TxCU4ECdX6n7gBlZ23XcAyan2zSQDhmkDm70fzaMgDBxY1z9AMSaM5Wn/NDxfQnWkW/IuX0afoULT0+QeHBY9Rck0UH0x0cQItPm70DcZbwHfonu/MVRmaC4/dCBX0PlylQakqSC1qevumCEAmBXgzVW0HoezNcrLLDE8mCRjAMIB6DeDvTooNed3kDQnZ4Ms6kvCMnBy+rvrqKdA20Em71FsRXD1BTdaY6xjgAbKDKkj0uCHfl+7k2F/Rtqc/FJAySKAY1nNNBjME4fN/XkkOlBbs00IeX7VaQOXuM5tQBJrOB6iv3qWO5NUgQg3m5APoY6VgvyJkIGbKBxrry3fqwFTSyU5izQwNh75IguSmasxvNKVQbiK8eG+Gl03tdkFljF8rS1mTHUxCjeFOUIFnQOO9uynZ36k0BySzx3YPHBNeILGicH8/dqWEYtPDkhgvCLs2YuEC4c2wgfsV43luonlk4loFiz0xLXQNCdvDYkBmKMztoqyCzjvA9Txxsy1XFi+VLKk6jM0W73UcJfmMuFx4bnoEYxSBkiJ/yKdNnKfluAd2q3a+A6JevHgzCLi1BjDJntzQHZFs2BuFJrjAT5bQtWErJjU62Oq4dsoLw2vFu9rYLwh6UwD6kg+SyMWhl4qRaNglCIEsmCNnZMAh3WSwQvyniHYiXDRslXs7wPdeaXC7PQOay4XsG4UUsOlZCr0JFNNN/1MUwiMcChFtegrAHJbwP2ZaNJ8EVY5wMbI4SJOvHE5Bt2SQIffKRIUEYJ+tngyA0/epjhcTIMEHYFCWIIwGQz8fb+r/CBMqQ9eMJKN5mIuPBcqyO/U/NRNrC/M2Wbn8BLZ1X5EL+tF0AAAAASUVORK5CYII=",
     "wiki_name": "Binding necklace",
     "wiki_url": "https://oldschool.runescape.wiki/w/Binding_necklace",
     "equipment": null,

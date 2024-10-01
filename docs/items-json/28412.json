@@ -1,7 +1,7 @@
 {
     "id": 28412,
     "name": "Prisoner's letter",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A letter written to a prisoner.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4Xu2W7ytDURjH3VfySiIlLxQhPxLCrKa1jPmV32la85thGYmEkBSJUFNeeOFPffQ961nPPburpWfzZk992+49t53Pvs/3nHMrKspVrn8vh3JV0nJP7h/spHCwn2bGh2l5doTiK2PFhnIDdLU30UBvGwX9PRQJDdDCVIA2opGstmIT2kDSdoca6muotbmR+npaXG7sxKdcAgiAlB1yqK62mqqqKrNu+Po7jBvRxRAdbM4aJdanjWyQ2PKoeQ5SgnLMj8KBgK/bTJjaXaDk9ryRBMLYYEdljlbmgyZLSkAoh04SSwbEhpETe7nCMMiVKpCEkRD5WiSfmZvwG4fVgdiVfFmREOwKw0yGh3SB7ODaOZHtscewFUCKQCgnxxUvZ2xXpNSBJIztAgswLK976lD5ggtn0C4v8bh6sBkEWSlUHO6iBJv3FpbdLshr/2EYBDs00qsFlXGoENmwEgZHjhoQryxbtktyD2IYHMCAwfGDA1kBynG9UkjJoNv7kISBQ7hGC5VWXGbpSwFIhl06AxAI33Hv4XKDrk5WzbmIjVYFyH7Xkc4wCAPgqHm83qLnu116vd+jt4d9+nw+oq+XY/p+P9UBwtEBGLRJgqANcOf2LE5PN9sG4OPxkNJPySxEBkBKpTLLn4N7kYrS/cWacYEB2AF84hrOAFARQpZjcoA8YBL+9z/pc9GGfCpa2ROVZNJylevP9QvCFc2AoT3AEgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMklEQVR4Xu2W2ytEURTGnSd5kkjJAxFySUNuUzRN7kPuaaRxv8slkRCalGkiFOXBgz916dunNdbZc04pC6lZ9TVzLp39m299Z+3Jy8tVrv68HMrWr5Z38XB7A/VFWml0oItmxnooMdv/01BegMa6CmoL1VIk3EyD0TaajHXTUnwwo5X5IXNfqLJSC0ra7lBZaRHVVJVTS3O1x421RMwjgACIHVICcqikuJAKCvIzbnS21hs34lNR2l4eM9pcHDGyQeZnes19kFLbHPNQONDd2WQW3F+fpN3VCSMJhGvt9flZmp2ImCypunS4OW1AbBi5sJ8rDINcqQJJGAkR1CJ5z/hQ2DisDsSuBGVFQrArDDPc16ELZAfXzolsj30NowBSBEI5Wa74OWO7IqUOJGFsF1iAYfmdU3r1uZzA4MIZtMtPfF092AyCrHxVHO4fCTbPFpbdLshv/jAMgh3tCWm1zXXoK7JhJQy2HCWX3Pz4yXZJziCGwQYMGGw/2JAVXHI8fymkZNDtOSRh4BCO0UKlN8599aUAJMMunQEIhO84d3O2ROeHc2ZfxKBVaJ07HOWAlM4wCANgq7m9WKH09TrdJzfo4WaLXtJ79Hp3QG+PRzpA2DoAgzZJELQB7lwdJyh1uWoAnm536Dm1m4FwW/QpwHwTCOW+/hzc0/04JU8XjAsMwA7gE8dwBoASQgkG5ZgcIA9YhH/9+/NJpg1BUoSwK3sxe9Eg2U9SK3uhX1k0V/+lPgDEzAEr6ZhvrgAAAABJRU5ErkJggg==",
     "wiki_name": "Prisoner's letter",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prisoner's_letter",
     "equipment": null,

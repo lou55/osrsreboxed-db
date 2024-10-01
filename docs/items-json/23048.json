@@ -1,7 +1,7 @@
 {
     "id": 23048,
     "name": "Mystic hat (dusk)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-11",
     "duplicate": true,
     "examine": "A dusky magical hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xu3W22sTURAH4OZBSoKkBAIlBC1EgpRAwAdFkKKiWBTBivVCK0or3oKKd6mlVWsM1UigVCtVWqiUWIpWFFFRK/qmf9XI7yxznD17kmY3q/jggWG3m0n2y5zZSVta/v0VIXvYXv/jK0Ll4QN0f2i/itKNHipe3aeCEfMTAzRXOU6zD49ZUOaXaBrugBgFEIeJmXlwlJ6U+lw3xt94zQw3yhcyQpWRXg8KR0A4GPS4eIQmbh9SuTjaQMiX6OXFYfpUvRIMxSCcc3UY9HS8X4E4txYI7/u8METflu7Q96W7CuQLgw/lb80g3NQGmhw7rEE4t4Gqk4MuEM4bBEVc24AbcXPjbxOEmwPB21sLtDh1MjwQVwnXTJDsCwahaibo1fQpDUL4AnFfmCB8cwlC7o7KPdpQGKREYrWG2UCvn512g15cbx6E6wAxCrlbRq/R9vKYAsXjUYpGW9V1E/Rm5my4IAS20gRtLY2oYzLZplA2EHLfz53ToK8vRxvFYLlBEoUPlyDkIb9jbTul00lKpRI1QR+eXwgKwnJ6AQ1aD8QTmjGoUi3Qx/lLQUHODEKFVgIhB/nZbFpXCX1kgpAvQT6GovPI20CIlUCoEj9tsjqhghiFwA0wcXEDnJsYbJn5pIUKklXCkREcuVwHZTIptVXyKTNBC49OaBCmdIMYLOcJs4G4gXdNlal7ukL5fIY6169RIN4qrs6qWEyDUB38bMgKBQKZfcTTFznAMEj2DjCtbXEN4u3Cz0ZoIEbhOg/D8z+XqfDji+4f7p1krpNiqXYPCFNagnygHJBt2xiEpkYeQL1vq7p/Mrt3Urprs0I5N/sd72YLGoQZ5GMOuUFy2ySIKwUQemrjxTOU6z9I6/Z2K1S2Zw/lB/po0+UCdRVvqtzAIDxlK4HQS7hmVsIW28ZvqcB5UyBz23BdgtDo/KOLocmzCu/jXPQPw7hCmEG+55Bt2yQI5/VAPH+QixkkeygQyLZtEoTX5L8lEoQ8nj8hgLC8fWALiZFhgjAUJYjDB6jR5UVycP+gOn8RVG95kd74v5pbvwDNNxMe/ThdYwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3W/UtTYRQH8O2HkElMBgMZo5TFCBmM+qEIQiqKpAgyshc0Co3eRkXvYaKVrWEtBmIZFgqGLJEyiqiojPqt/qoT3+dy7s7Onr3fwgcOu96d9Xx2nnPP8vlW//KTPWzv//Plp+zIYXo0fMhE5nYvpW8cNMGIhclBms+dorknJy0o/SWahjsgRgHEoTGzj0/Q80x/0cb4G+/pKEbVhfRTbrSvBIVXQDgY9Cx9nCbvHTW5eLWBkC/RK0sj9DV/vTEUg3DN1WHQi4kBA+LcciB87tviMP1cvk+/lh8YEPbY1NlpQu+ullN2/tYMwqY20NT4MReEaxsoPzVUBMI1g/TuavmLjgEbcXPjbw3C5kDw8ZYDLU2f8Q7EVcI9DZJ9wSBUTYPezpx1QYi6QNwXGoRvLkHI3Z17SJtTQxQKrXVhNtC7l+eKQa9vNQ/CfYAYhdztYzdpV3bcgILBAAUCLea+Br2fveAtCIGj1KAdmVHzGg63GZQNhNxP8xdd0I83Yy6mbpBE4R+XIOQhv2N9O0WjYYpEQmVBn19dtoL07mWW0wto0EogntCMQZXKgb4sXG0U5MwgVKgaCDnIj8ejbpXQRxqEfAmSQ1HvrpbzyNtAiGogVImfNlkdT0GMQmADTFxsgGuNwZHpJ81TkKwSXhnBkUh0UCwWMUclnzINWnx62gVhSjOmJhCeHBuIG3jvdJZ6ZnKUTMaoa+M6A+Kj4uqsaW11QagOfjZkhWqsDlYBpPuIpy9ygGGQ7B1gWtqCLoiPCz8bnoEYhfs8DC/9WaHU7+9u/3DvhBNd1BppLwFhSksQo/TuluWAbMfGIDQ18gDq+5B3+ye2bw9Fu7cZlLNZIT7OpVwQZlAdc6gYJI9NgrhSAKGntlw5T4mBI7ThQI9BxXv3U3Kwn7ZeS1F3+o7JbRiEp6waCL2Ee7oSttg5cdcErpsC6WPDfQlCo/OPLoYmzyp8jnPRPwzjCmEG1T2HbMcmQbiuBOL5g1zMINlDDYFsxyZBeE/+t0SCkMfzxwMQVmkf2EJiZGgQhqIEcdQB8vl4rFcKDZTB/YPqeAKqdWlkLViOQu5/WhppC/2ZVb3+AhdKXaozIa2rAAAAAElFTkSuQmCC",
     "wiki_name": "Mystic hat (dusk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_hat_(dusk)",
     "equipment": null,

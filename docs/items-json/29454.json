@@ -1,7 +1,7 @@
 {
     "id": 29454,
     "name": "Zombie pirate key",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-04-10",
     "duplicate": true,
     "examine": "The key to a zombie pirate's locker.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu2XXWtTQRCGuxdeGKQglkqUWNrQBpJi2qBBwaBQrdaK1YpaKaRWq9Vq/UYU0cuiN+I/Hnlmme6e0yRN0sSAdGA4OV87z74zO3syNHRo/4c5SfpAzcnm8xlZf3xWHtwvyMLCxCDBPMzqaknq9Wm5tzwld5YmFerK5TODgHKqzGT+uDoK4YBxbA3UFxWdqpN21CoUTki5PNokqJNHK0VVs8dgYWBANp6WE944kJ8ECvLe3NyYXLxwqsmzXZnTdBHkz+9z8uljUV5sAjjeIEhSUVLbh3rzQOavtqbUv30tyZP19IpzCpFOMVDVarYXUD5l1AzFDQSDr9UnNPCzjbyqFVIS1Iyda6SOujsglFMYoKgZWgBA42PD8uvnrCpFrSzdPq2BeIaUAsCR9wC6tZiX2iX/TDpCF+bkw/uqDswsgQECtVCHQKQD5xkDIp2oiHo9LGqvEMowy1Av3oEibZnMEYXFgQAum82omqZePGb43bE5eff2vErfeJZO5uf9att+XVHlAGcCWy9ntdZQcfFmqLFK5WQ0qY7N14UFTd/lmu1xqBOrl8sd0/QChGq27TAWbaDxBFuaD8aMG7/s5M12QeuGtMYw1n9YVQbCEaU5Ao9S1NrecZuab3I/vk/L8t1cgxf9xhvva0FJ7/Z1ABBu5yjEtsPzIYX7mpOdnRlZeZhMhd1jNRmobbhcSw4eFCN9OBAoXiqN7LYDfrcB5bTPXLua3d1ITWKus3pY2rXaaGK5j4wcTYBzz5QEIA1kau0D5FRiaoTAMQxLHWWog1JxWCWnNqwZAhAryjkwBsJYTNA6eJvbigeyPnPjOo3Pt33bKlAmXsLxVhEHp20Aah4/Z942UFgFyfrBgaEh2jny26w52sytJfA8rQBYnPvUT6x+kmGPxRBp8/cIhGI0QZutAdnXQXJCrbxrc/Llc0lXH7NEGfY6Gmi809sHWhvpOKg5rQ9gKFbOaYxsHQZi/SZ0776brxmT2/6RAGSdGZh/oI6ZL/rwjRPcPkd6UBudWrOAza4fWn/sL4Y+52HtQtBJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xu2X7WsTQRCHux/8YJCCGCpRYl9CG8gVkwYNCgaFarVWrFbUSiG1Wq1W6zuiiH4s+kX8j1eeWaa7d8k1ibkSKA4M17vb7D7zm9nZ68jIfzscZmzch2rGbj2v2Y3HZ+2D+2W7uDg1TDAHs7YW2VZr1t5bmbF3lqcF6srlM8OAMqLMdOm4OArhgHHlfW1iIgXqQFQ0ok7SUatcPmGr1bGURY19tFoRNTMG8xMDsvm0GnNVKK6SCwIF+d38/Li9eOFUtlCki0X+/D5nP32s2BdbAE52SFlcUVIb1lt6evsyB6T+antG/NvXyD7ZSO44IxDJFAPVaBSyUMmljJqhuIFg8vXWlCz8bLMkavmUeDVD5xmpo+4GhDICAxQ1QwsAaHJ81P76OSdKUSvLt0/LQowhpQBw5XcA3Voq2eYlN6a95vo2Yz+8b8jERAkMEKiFOixEOnDGKBDpREXUUwUzgUEhlCFKXy/OgSJtudwRgcWBAK5QyImaqp6HGTBl796eF+mTUerkCwtut+28rotygBPA9ss5qTVUXLrpa6xePxkE1be5utBF2yV3nRwQ1AnVKxaPSXoBQjU9dpiLNvAPvcktRsShOuH7NztlqRvSGsJo/2FXKQhXlOYKPEpRa31AuSb34/usXblb7AhEasJzTZVU168DgHC9RyGOHcb7FHY1Y3d3a3b1YTwV+o7dpKB64PJMwX0BO8VIHw4EikdRfq8d8HcPUEb6zLWrhb2DVCXmObuHrd1sjsW2ez5/NAbOO1USgCSQqqWBxBn2zIjE1AgLhzBsdZShDqLKqEhObWgzBCBUlHtgFIS5CFA7eHisdAXSPnPjOo3PtX09KlAm3MLhUREuTtsAVD0cp94zkN8FzsO6AIaGqPfIr1Fz1ci1JTCeVgAsznvqJ1R/HyDMQ8SboX/HQihGE9RoFUi/DsKA9vP2HtfBOg8y9svnSHYfUaIMZx0NNDzp9QMtTEc3j6/TsxmpD2AoVu5pjBwdCqL9Rrv3gAv2Yq5mVG79jwQg7czA9FCsWZkrev3GCV0/R/qqjWwsrejbnyd/eWCWtmDa80NhfwE6DzqWI0XYuQAAAABJRU5ErkJggg==",
     "wiki_name": "Zombie pirate key",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_pirate_key",
     "equipment": null,

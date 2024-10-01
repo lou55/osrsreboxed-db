@@ -1,7 +1,7 @@
 {
     "id": 6818,
     "name": "Bow-sword",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-12-19",
     "duplicate": false,
     "examine": "A sharp sword that can also fire arrows.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABBklEQVR4Xs3VwQqCQBAGYPcJuoiioqHLCrKh4iESNDoFRYeg93+WqdGsdj23Mz8MK4jwMTOynucsAsK0AzztN0QREG33vEBx3vMCJXLkAhLgR5oXCDFMQAhgAxJQJD6oLPgUIWjG4MkKs4DYYHBvMnWiApmYQl/4YLDYYPDOUs2dCmRi8L6Su9tPp5zlvSfWAn8xTvPqRLBZdQaXmA0mr858MKzGVLYPWgxeA12VQiMD6HVMi1k6o2UMXRnCWCeuQWsMVlMmU5cOde4StMbguIZWGjj7qz/FxCzPVR66RCwxF9iEEGCwjp2yxuIcgpl3hGgsdsQEYYLBiOk3vg6aCwhDtiu88wQj4eXn2dTi8gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABM0lEQVR4Xu3VwWqDQBAG4OwT9BKUKpqYRUE2RBFaEEzJKZDSQ6Hv/ywTxs2a7ii9ObOH/rCYEJd8zIzuZsMWBXHWAV7pL0JR8Lp7H0Htfh8CSkFS9GGBUn0OBWQx/6Dl4FNl5ycAkIJDuoUyj6YlCLIYvFKMAOiJcaBgMDg3eXmRapWPOZibh2EG+RhcwWDwzCqbb6lW+Rh83+jj1/SdsTqPOSED7DAOwoZJopdZZXCImauCWcYU9TUcDG0T3bVSljFV+yOLwWOgqzNodAS9SWQxrjJGJ9BVMZxP6QSiu1bKHIOrqdIR9WZ2nKA5Bts1tNrDMbXLx7jPdRF7CHYMVuQ3hLEiLvZPP7rSawutCt21Uuy5hMNKAcwQjH2UKYbexRg1vuw+BzOB6B0CERnavxMC5g6tXDe+W+4L8AAAAABJRU5ErkJggg==",
     "wiki_name": "Bow-sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bow-sword",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 20003,
     "name": "Dragon scimitar ornament kit",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "Use on the dragon scimitar to trim it with gold.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xu3W3UsUURgGcPciJOiyq5UKDQsy+qJsJbWiEKQoZUttTWXNVdO0UrPEEq1lyQpD7IMKBcNMpIwgKoqi/rKTz7s80ztnZ2Vnd4suOvBwZmZndn5zvmYKCv79EjDe8fr9j5eAuT8aNpMj9ZLE9ToTHzotIWJhOmrmp9rM3INWD5T9EDnDkyCiAGJszOy98+ZpIuK6Mfbxmx03yhcyYKZunUlBoQaEIehxvMlMjzfIuai9QDhfo78tj5ovi4PZoQjCNluHoOd3mwXEc9OBcN3XpRHzY2XC/Fy5IyBfGPwpn5og3NQLNHO70QFh2wu0ONPuAmE7Q1DA1Q24EQc39gnSzQ8EuzcdaPlJLH8gtpJGlJVudIJ9DUKr2aC3zzodEOILxHGhQTaiJ7LXSSagdy+63KDXw9mD2Coasb6w0EkmoPezF/MDwv6xii2SI+WbJVX7i5wApLvNC4Qx93H+kgP6/mYsUwxKKqi2ukRSU1ksIRABiN2G1kwH+vSyP1sQyu/Zg7rueKk5eXSrEwIR3W0EYVLYoM8LV7MFJdcgtBBBDbXbTbhmmwQ4HRuE62wQlgoN8rEoJqe8DWo+VWbOndghAQ6JbVgnNUEcR7iOLayTV1Br/U4n0VUIAiRCEMcR8mooaHpbisx4f7HpjgQlOJ4ziE/bcXa3JBre5YBkezX29Oc1scagBBjgCMIqnSEGJTnDbBDXnq6mPYJBzaQDPbxZKgFGg9BCWYGIwrErbQckfS37BISa0SCOIw2aHC6R5BV0reOgZFMwaAai5a5oEFvJBiUG3SAfqCRIdxuOjXZXmBudIVMdCkmtowczwjc994HRIKxBPtYhNwjBsYm+SjPWe0hAqHXwO9YfxP44w/pDGKe9bxBmmQ1KDBw28ctVaUMUQHxtYHUGCB9mH+Z6cgfZ3bZWiCEI/0HQ0qMLLhDWIN/rkN1tfB3gJnhibPPzFrFBbCGcmxeQ3W02CL/xw80G8T3G7soRhJLaJV7RGB0bhG9pDWJ8gDItqUhGj5+/CFqrpCJT87/kVn4B2g3QJAAnptQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLUlEQVR4Xs3W70sUQRwG8LsXIUEve3VSqXEFGWVRdpJaUQhSlGKpaSpXnpqmlZollmjJkRWG2A8qFAwzkTKEqCiK+ssmnzme9btf92TvR+HAw+zu7d58dmZ2dgOBjV+Cxjtev//zEjSPh2rM+GC1Tfx2lRnrP2dDxNxk1MxOtJiZJ80eKH0TGcMTIKIAYjRm+tEl8zLe4GoY+/hNx41KCRk0E/fOr0GhBoQh6PlYvZkcqbXnovYC4XyJ/rk4ZL7P96WHIgjb7B2CXj9stCCemwyE634sDJrfS6Pmz9IDC0IbRXl5Nrp1VRLdzrsmCI16gabu1zkgbHuB5qcuu0DYJki3rkrQNQxoiJMb+wTJ7geCw5sMtPgilj0Qe0kiCsNbnWBfgtBrGvTxVZsDQlICcV5IkEZ0Nhxw4gf06U27G/R+IH0Qe0UiNufkOPEDWp6+mh0Q9k+W7LA5XrzdpuxQrhOA5LB5gTDnvsxec0C/Pgw7mLRAleUFNhWl+TYEIgBx2NCbyUBf3/Z4gnTrScrq04O66lTYnDmx0wmBiBw2gvBQaNC3uZvpghJrEHqIoNrK3aamYpcNcDIahOs0CEuFBMlFUbeuSuKR16DGs4Xm4uk9NsAhsS2bbE0Q5xGuYw/LZBXUXL3XSXQFggCJEMR5hLzrD5muplwz0pNvOhpCNjieMYh323phv020Zp8Dstsr0Y8/r4nVhWyAAY4grNLE+ALhCdEgrj3t9UUWg5pJBnp6N2wDjAShh3z2DsoqiCgcu9Fy2Ka76aAFoWYkiPNIgsYHCmyyCrrVesRmWyhkeqPFrkgQe0mD4n1uEFG6dY+SAMlhw7GhjhJzpy1iyiMRW8vIyYzwTc99YCQIa1AK65AbhODYaHepGe46akGoZfA71h9Ef5xh/SGMj33KIDxlGhTvPWbGrpclDVEA8bWB1RkgfJh9nunMHKSHbb0QQxD+g6CFZ1dcIKxBKa9Detj4OkAjuGNs8/MW0SD2EM7NCkgPmwbhN364aRDfYxyuDEEoa4fEKxIjo0H4lpYgJgVQIMBlfb1ooIycP1kB+S0a6QfLrJ77n4pGekVfs6HLXyQgGr/oeIirAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon scimitar ornament kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_scimitar_ornament_kit",
     "equipment": null,

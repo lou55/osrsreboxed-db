@@ -1,7 +1,7 @@
 {
     "id": 29798,
     "name": "Noxious halberd",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-08-28",
     "duplicate": true,
     "examine": "A venomous halberd created from the parts of an araxyte.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABg0lEQVR4XtWWwUrDQBCGO3goKSEhNKRsQluMtKG1lFoqWihVKdJDPehFEI8eevMg+Dg+hs/3m9klaY0Knna3HwyESSAfu7OzU6sdBoRqxiCEtJPCEimWUOHUnfK5+pUmCME0hZfFCP0QveMe3IZbEdMqSGhdjxDOMyRhglSk6CZd+J4Pz/EQuIEMltUkRfBfFlJKBEJKDdoZREvIldqJaJFhcqHtEvFmVgpxcD4KIymlUaYgr6PXVSnDYpzjU9cMmuaEmu9rKcM1U2xTO05kPZmRerstpXYCVNaTESmOxud279irPNeTwR6lfup8PP2Q4u37LquV/Z+S7E+8fUdu3ZRQFcLifJSfvv0aMw5hPh3mq9WyS+piMrBPajbuIxHa7rj/oKQC30iP+gvC2emJXULP9yuMB9ZMmwzhcXNln9TDegHPNdbFf4Nwt7qEiIppwQoI6+Usn83VkFd9awjCzXxiX00Vl7GSMi5GGPaHcgTmkcXQgFdFrUyjY9X1wlglc6B8AUkDzEPOlyU8AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpklEQVR4XtWXz0sCQRTHfXQQZdllcVHWxR9tqGgiJkYJYoWEBzvUJYiOHbx1CPpz+jP6+77tm2FXHRM85Mz0gQfL7A8/vHkz88zl/gcEdcQghLgewxIplpBRyBeya/UpTRD8UQy3U0XgBWidtuAUHUVMqyChcttHMOkgCiLEYYxG1IDnenALLnzHF8GymqQI3ttUSIV+KKS6tQ7CSigytRYhDJtNEeoX/phEaDVDdTnOhDh4vByUhZRGmZSkjt7nmQyL8RivupJfyoTUt46IFCp9LoQM10w6TbVqJOpJU/1skkh93GdS66xQVk9GpDiK36uNZS/HuZ6M7FFpVjgKXy87Ujx927KaSMXWq4vE/sTTd+Lks3vqe0dn+0cJ08t+svo2a8w4hMmol2Sron/a9kO4GnbtkxoP2ohCbWfcIUgp3zOyR+2DcHF+ZleRvz7OMeha020yhOfljX1ST4spXMfALr4fwsP8GmE57RasgLCYjZPeXDZ56l1DEO4mQ/tqKj2MpZRxMUKv3RMtMLcshho8FZmZYl0eL5r/KPzObl9lCVbJHMIPoFLo771gPwMAAAAASUVORK5CYII=",
     "wiki_name": "Noxious halberd",
     "wiki_url": "https://oldschool.runescape.wiki/w/Noxious_halberd",
     "equipment": null,

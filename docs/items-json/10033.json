@@ -1,7 +1,7 @@
 {
     "id": 10033,
     "name": "Chinchompa",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "Handle with care.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbklEQVR4Xu2V30tTYRjHfa/C+yBKZLCw0GKYWDZQxlCb22Se4350dG4uXYg/MrFiFBFEEETQlUTQZRBdWUgQ4R/3je9zerajYBf1njzgvvCw87477Pmc7/c573p6uurq7MrAr0jIYHCgH8mbQ1GAMkglEwIzNjJ42kAGmfQoZu/cls/xsesYHb7yG+pPFYoMXjyuYe/NA1SclEBNpUbEqRuJyxLhQLwP8dhFxPovoO/Seane3nNhQBl8/fQam6sOmrUcVqozaHgZ1CrT4hQjZHx0i3CJoTiuXY21AUMBerRRxs5aUYCqpUm4uXGpuZkkslO3BIyO6XwpHMHoXgjxGbxs1QWAjb35NEqFCVkzPoVKTwzLbOnQE573Mmbebx2KRQDGxQZ0iWsF0wgVSGH1PstAlBEQzhGfmo24DsIpFGPjNWF5L68Zo0Uo045hbTkvTRiHlgKqY7nMJGaz05jLZ+AWsgJpEciH4fzwDVu/V5DYtLhHUIUiIPfL8wV4JQdFJy9gnXPrn2VkYNmMb1pr28OTrYoU1yw9CgjGNV0k+GLFFTC6RMfolAUoIzGwIZs8363i1dOGvHk8MFncJwSLQDwqeH41lu62oegSo7QCxCdnU55Hz3YWjkApGPcUkPVjfw/fv7zDSn0B9cUylryiOMU3zwpUsIJQQbe4p/Vz/71AsdabywJFp7bvu9h0HRtQQflQCsFrnS3GxTr4/FagDr99wMONJpqN6pGHOv6LFtRxKzjo+lfD4vd06PDgI1q7W2GBHJcPFgRhLJ3mobpykswJMKcmH0gGdtX6wP6NTJRgKCMwEQKi/vvgdhUt/QLCMDCARMoEqwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgklEQVR4Xu2V30tTcRjG/V6F90GkyGRhoslYYtlAGUNtbpN5jvvR0bm5dCH+yMSKkYgQQRBBVxJBl0F0ZSFBhH/cE897eucZrbroHB3mCw873+8Oez/ned7zXUfHRV3U/1sGrtqiDAb6ehC7NdgOUAbxWERgRocHBCja23tWUAbJxAhm7t6Rz7HRIYxEr/906U8KpAz2n5Rx8OohilZcoCbjw+LUzcg1ibAv3I1w6CpCPVfQ3XVZ1Nl5KQgog88fXmJjxUKtnMZyaRpVJ4lycUqcYoSMj24RLjIYxo3+UAMwgFgNHq8XsL2aE6BSfgJ2ekw0Ox1DavK2gNExnS+FIxjdCyA+g+f1igCwsTOXQD47LmvGp1CJ8ajMlg494XkvY+b9vkNRBGBcbECXuFYwjVCBFFbvCyQ+gnCO+NRsxLUXTqEYG68Jy3t5zRh9dMk0YlhdykgTxqFSQHUsnZzATGoKs5kk7GxKIBXIB5dcGM4P37C1+1mJTcU9gioUAblfmMvCyVvIWRkB03PLFyAOLJvxTatvOXi6WRRxTelRQDCu6SLBF4q2gNElOkanfIjNSAxsyCZ7OyW8eFaVN48HJsV9QlAE4lHB86u6eK8BRZcYpQ8uGXlyNuV5tLs93wSlYNxTQOrb4QG+fnqD5co8KgsFLDo5cYpvni8ueeWF8rrFPdX3w7cCRa3VlgSKTm09sLFhW/8ORZtVCqUQvNbZYlzU0cfXAnX85R0erddQq5aaHurkt3yrE7e8g65/NRS/p0PHR+9R39lsAvEZxi11i/KCMBZtHrArvyvTEkabB+pK63KBZGBX3IE9xeatyvwCc+ZAhGkTd7ROfXD/Xm0Fc+7rB/hmXPGebGmGAAAAAElFTkSuQmCC",
     "wiki_name": "Chinchompa",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chinchompa",
     "equipment": {

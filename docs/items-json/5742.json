@@ -1,7 +1,7 @@
 {
     "id": 5742,
     "name": "Mature wmb",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "This looks a good deal stronger than normal Wizards Mind Bomb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xu3Xf2/SQBwG8PH6NLiJyiKbboj7gYgyRMKIDBFB3UacOHUjIxtZGBKEEHVTmWQa49v6mueab70eB6FQjX94yRP649r79K69lomJf7+4SB/d/j9eXLSe9NDTxJRILj5J2XsXRBhxuDVPB4XrVN64pkGpFzE23AAxCiCOitl7NkOvc1ctDWMd+9RYUbaQLio8uNSDwi8gHAZtZ6dpK31F1MWvDoT6MvprPUlfqtHRUAzCMvcOg3af+ASI6/YD4bhOLUFnzYf0rflIgGxhcFK+agahUR2omPGaICzrQNWi3wLC8pAgl2UY0BDf3FgHSO56Nf1A9Vc3nQNxL2Eb9s/N36LZ2QXy+QLk9c6RxzNDk5PT5HZfNmEq6N3OgglCbIH4vlBB2BeNpikSSVE4vErBYIyWlqIUCNwRSL//tlgPheI9qFZp0Qo6uu8MKJt9Qel0gVJrG5RM5ikezwpkLJahRCJHmcxzgUWPyaj23rKzIHHycp3a7Q6VSke0uVmi9fVdyue3KZcrivU3O1WxDJA8dHgAjg9CJqjbSA2LQbGCVNTxyRm1Wp/pqPae9vcbAlGpNKnR+CigQLrdyzR1MSyCYwA6qYRHBaH8fmJU0MpKiTqd7yKnpz9Eut2fAoPhAwZJrb01g+M+HUZGBRlzEHqoH+hxrmkJtnEYhLqryaoWZGNSNB55HQixC0IcBzEKsQO6G9kxw6ixQXIv4XdYkAqRewiz9JAYFOMJ04H4EwMNDQKdO79ogeBVg9eGPGQjgdT7CNsZJD9BCPcIMAjq8fwDEF4bjoEYNQ4Is7QMsoEyQLphGxWEz44P5aAJwhxkYx6yguRhwzb+6hsEYgyC3hkbhKdsEAgNqCgG8QXJw+UYSB02bGcQGjROaA3f/FwXoNrLGxYQ5iDb85Bu2GQQltE4/wnALM6Tp9xDqOsISDdsMgj75H8lMgj15PtnTBBK71DoImPkqCBMijKIYwM0bOlFcuT75y+CBpVeZG/+l/HKLxZ3acU3mFcbAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xs3XDU9SURgHcPgmfoS+R40wK11oKZFvEYVkDFlIRFj5ssyskOnUOTRHOFdphTFrra/1tP+5e67nPhwYF27Ns/13387l/O455x7A5zv/xU/mmK7/8+Kn+XQfvUj1qhSSQco/vKzCiJ3lEdpaukUbCzcNKPkQXcMtEKMA4kjM+stBele44WgYx7gm40S5Qvpp6fHVBhS2gHAYtJofoOXsdVUXWxMI9XX0j/00fS8nOkMxCPvcOwxaex5SIK7bDIT7anspOq0+oZ/VpwqENi709KjI1kWxup2fmkFo1ARayfXbIOybQOWVsAOEfQbJ1kXxO4YBDfHkxjFAetfLNAPtv73jHYh7CedwfXjkLg0NjVIoFKH+/mHq6xukYHCAAoFrNkyCPhZHbRDiCsTzQoJwLZHIUjyeoVhshiYnp2l8PEGRyH2FDIfvqeNoNNmAOiiNOUG7j7wB5fOvKZtdoszsAqXTc5RM5hVyejpHqVSBcrlXCose01GH6xPegtSHb+zT4WGNSqVdWlws0fz8Gs3NrVKhsKKO3xfLah8gfejwAhxtRW1QvZKxMa5BEnV0fEoHB99od+8TbW5WFGJ7u0qVyhcFBTIQmKDeKzEV3APQ8XbMCJKtNylnb4wETU2VqFb7pXJy8lulXv+jMBg+YJDM7Ac7uO/rTrxTkLUGoYeagZ4Vqo7gHIdBqDuTLhtB+qIoWxfFeuVNIMQtCPEcxCjEDehBvGiHUV2D9F7Ctl2QhOg9hFWaMW2B8IaZQPwTAw21Al28NOaA4KsGXxv6kLXZOyhnIDmPcJ5B+huEcI8Ag6Aerz8A4WvDMxCjugFhldZBjJKtG4oFMg1bpyD87Pi8MWmDsAa5WIecIH3YcI5/9bUCMQZB73QNwlvWCoQGJIpB/ED6cHkGksOG8wxCg9YccIYnP9cFaO/NbQcIa5Drdcg0bDoI+2ic/wRgFefFU+8h1PUEZBo2HYRr+r8SHYR6+vzpEoTSOBSm6Bg9EoRFUQdxXIB8Pl7WW0UC9ejzxxNQu0Ui28Fyzur+pyKRpsh7znX5C2B7tFHwp7KpAAAAAElFTkSuQmCC",
     "wiki_name": "Mature wmb",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mature_wmb",
     "equipment": null,

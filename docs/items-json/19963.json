@@ -1,7 +1,7 @@
 {
     "id": 19963,
     "name": "Dark tuxedo cuffs",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "Linked tuxedo cuffs with a dark trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xu1T3y/WcRj1ubJuNOvCYq2ZpWldmmlLatKSZpNkkkiSJJJkEknNO0n6JZUxkzBrTJKZZnGRmZFkzJSWGak/4rTztC/e9+P7et1/z/bZ+158n+c5zznncXOzYMGCBQubhYL+NoLj967WmWK1yd6AAOzy9cUOb29s8/TEFnd3J81Xa3b7+WGnjw+2e3lhq4fHmjqzWg2rJE6fiMa+wEBpYvb05kr7xvGR5B5//zW1puQUutva0NncjI43TXjb0IC2+no0Vj/Dq4oKPLpbirKCAty6mo2ci2lIS0zE/qAgO2L8tvnlC9RVVeFpWRnuFxWh9EYe8jMzceV8ClITEnD2VKwsGxsVheiICBwPDzcjpfBleBgTo6P4vbiI2akpfOr5oA0ouZ6LvIwMXEpKwoHg4DXNFFrr6mSR+iePUW2z4cHtYiF0MysL2RdShRCJFV/Lkf8xkZFmZIj/hH7MzODn7KxsPjk2ZqrS5XPJCAsJsSNEdakyl6gpL8fDOyW4l58vhAxVuQh7nzkZI2o5JTQ2NCSE/i4vY2byG75PT4t9LbW1K1vbCgtla258JDTUjlBPezv63nWKSlTV0WaSoV0GseS4ONcJTU9MYH5uTjbmgKaa57I1h9A6Djh2OMyOEC0e7OtbUclYgBblpqeLqrQpJT5e/vPXCSFCiSokNDU+LuR6OzrECg6orayUISTFAfaBVPjc34/hwQE7lZgjI3ckwRpaRZWYo00Rom393d2yMW1jloyA83L0ZgpfR0Y0lZgj49KOHjootm1glwG1YpkR6oHeXnS1tsjGJEXrOIRB1RsqsXo9lYxLY1+ePNXS6zUoyc2fpSVpzKtjLhhWkmp/3SinzYtjLvSGSi7UTCXmjrkhIR6GXq9BYWlhQWyjZQw5Ffr4vktIcQCvjlliLvSGCovzvzSVeKHMHWuYParFA9Hr1wU/cvWtB8dvnD0LFixYsOAS/gGR7xJXVhVs3QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu1U3y+WYRj2HlknmnVgsRazNK2DDsy0JTVpSbNJMkkkJIkkmURSY5L0SypjJmHWmCQzzeIgMyPJPjOlZUbqj7jadbfX9+P53i/OOniv7dn3Hjz3/Vz3dV335+ZmwoQJEyY2Cg3q+Rcc76+3zhDWJrsDA7HDzw/bvL2xxdMTm9zdXTS31uz098d2Hx9s9fLCZg8PmzqjWgVWEqeOx2BvUJA0MTpqc02543hIcldAgE2tITkNfZ2d6GlrQ/erVrxubkZnUxNa6p7gRXU1HtwuR0VREW5czkXe+QxkJCVhX3CwHTHebXv+DI21tXhcUYG7JSUov1aAwuxsXDqXirTERJw5GSfDxkVHIyYyEsciIoxIafg0NobpiQn8XF7GvMWCD/3vlAfKruajICsLF5KTsT8kRJrt8fWV347GRhmk6dFD1FVW4t7NUiF0PScHuelpQojESq/kyXdsVNRa/d8eTgh9m5vD9/l5mXxmctJQpYtnUxAeGmpHiOpSZQ5RX1WF+7fKcKewUAjpqnIQ9j59IlbUstYr0DA5OiqEfq+uYm7mC77Ozop97Q0Na1NXFhfL1Jz4cFiYHaH+ri4MvukRlaiqo80kQ7t0Yinx8esnNDs9jcWFBZmYD7TWP5Wp+Qit4wNHD4XbEaLFI4ODayrpA9Ci/MxMUZU2pSYkyDd/XRAiNFGFhCxTU0JuoLtbrOADDTU18ghJ8QE9kDqhj0NDGBsZtlOJOdJzRxKsoVVUiTnaECHaNtTXJxPTNmZJDzg3R29mbajh8/i4ohJzpG/akYMHxDZbu1wS0i3TQz08MIDejnaZmKRoHR9hUNXpNLHamUr6prEvV55qqfUKNMnNr5UVacytYy4YVpLqetkiq82NYy7UhppsqJFKzB1zQ0JcDLVegYaVpSWxjZYx5FTo/dteIcUHuHXMEnOhNtSwvPhDUYkbytyxhtmjWlwQtd4pbP/SXR/n/qv3jI7zeifQL67nONYSjndcHcdaEyZMmPgf8Ae9aFW4nGvFqQAAAABJRU5ErkJggg==",
     "wiki_name": "Dark tuxedo cuffs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dark_tuxedo_cuffs",
     "equipment": null,

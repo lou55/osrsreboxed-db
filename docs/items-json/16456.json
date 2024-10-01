@@ -1,7 +1,7 @@
 {
     "id": 16456,
     "name": "Etchings",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-18",
     "duplicate": true,
     "examine": "A copy of the engravings found on a mysterious stone tablet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkUlEQVR4Xu3W3UtUQRjHcQ/hRd3WX9FNN1FBhUFFolGZm5qaupuuL5tmW5tlvqDGSvYiJlYYClJYSCWGaWVZi4V/1q++cxg7x9C7OQvRA4Msu+CH3zzzzBQU/Nvl6e+Vt/KUbj+h7kyxBntO695QmVIt5/KF8tTeckyZzpPq7SrR3b6zGn9QqelndRrqb8gHytPV1HF1pU+pv7tUYyMVmpqo1euZy1p806bnT9JRosLp3M+Wa3K8RrPTCS3Mterz++v6/mkgWpBNh616Olatl1Nxzb9q1seFawaTW8mqubE0ClQ4nYnRKs1M1uvtbFLL8x0bmLUvw/qxOhINyKZD39DEcy+atPTuilaX+0KYn98eaj036hL1Jx2OeLCJt8Ks5x6b5Qjlp8PMsU0M5uvSnfxgSIchSN/QxNtjfJAjDOVP5UfDMdPEHO+VD7fzhyGdvTsLtG/Xji0xwa1yirEgjjnNvLJ4cxuM41OVqDts+oYBaK+HC3sKNzCbt8oRxk8FCPcUV0NwGjMAQW1OxxmGOQMkmArzht4Bw/VwfnehQTnE+KnYp0QwFSYxyTCNwXB50kcW5QQDxD6yeNeQCsebZLinmDk2HTCcMqazEwxbBCZRX2wwTGHuKCYxGLYqlM5vDAPRCcYm0xgvUWvyjDpSZQazeatIx24VIGcYmhfQpYsH1RQ/oky6Ql03qsxWgQluVSQgHlHVlQcMqC1ZZAZgz60aDfT6b2ObThDkAEN5ZpuqYvsNqKH2kBmC3ObgsoMJ0+ARgijPgAAAoof4y+fO9nKTHlsaBDnE2PIMgH8OxiYGjknNihhE+SgwLI5/rOyoeW7QV3wPKCKMLc+kQl9VxIpCGPt9+PeRlH99hNf/yn/9AiBcVP+lIexLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xt3X3UuTYRgG8L2EB3Vaf4DHndRBVFBhUJFoVMs1l5q6pfNjzWy1VuYHakyyDzGxwlCQwkIqMUyrlTkq/LOuuu6Hxz1703XQnnfgDS8iyvxx3fdzP68+3/YuB38/JSsHifhJ9CQrMdR7BveH/Yi1ny8VykG8/TiS3afQl6rCvf5zmHhYi5nnjRgeaC4FysG12AmkEqcx0FON8dEgpicb8Gb2CpbeduLF04SXqPx0HqRrMDVRj7mZCBbnO/Dlww2sfR4U0P7yci9QuXTYqmfjdXg1HcbC6zZ8WrwumGwmjbaWai9Syk9nciyE2akmvJuLYmWhawPz4+sIfq6OepFSLh3ODYd4/mUrlt9fxepKfx7m1/dHWM+O2Uwplw6PuDnEW2HWs0/ksYRS6XDn6CEm5tvy3X9i2LYit06lwyXIueEQF8YokCUMS23lxyMBGWIe78zHO6XDMJ29O33Yt2vHlhizVVYxGsRjzmHOLN0qgFGnyhom0nhE5oYLUF8PF/eUbWDcrbKEUakQwnuKV4O5jbkAiXKnYw3DPUOImQr3DWeHGF4PF3aXCcoiRqWiXyXMVLiJmQy3MTG8PDlHGmUFQ4h+yeJ7DVPh8WYyvKe4c3Q6xPCUcTtbwbBFxESaKgXDLcw7ipuYGLYqL50/GC5EKxidTEu4Ch3Rs+iK+QXjbhXT0a0iyBqGw0vQ5UuH0Bo+imQiiNTNkLSKGLNVm4Hcn/ofpUB8iaqrPSigzmiFLMDe2/UY7FPvxjodE2QhHZYjbQoFDgioueGwLEHe5sSlhyIy4IVA7k8sQjkCIoAgzhC/8vvueI2kx5aaIEvpmOUIgH+cGJ0YcdzUfDYDuT+lyKVQxPDh8Q/4j8nrBueKPyfIg3TMciQVzlUwUJGHUQBPMbrc/6PnIzzGqNIA83H/zrav36Y+lvGO6euKAAAAAElFTkSuQmCC",
     "wiki_name": "Etchings",
     "wiki_url": "https://oldschool.runescape.wiki/w/Etchings",
     "equipment": null,

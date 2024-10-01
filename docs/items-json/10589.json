@@ -1,7 +1,7 @@
 {
     "id": 10589,
     "name": "Granite helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-01-22",
     "duplicate": false,
     "examine": "A stone helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTUlEQVR4Xu2X60sCQRTFna/hX1BUVFRkkRg9qUwQy0oyEeldIiI9CPH//zBxZjl6nZ3dHB9E4IXD7qrr/Paec9c1kZjWWEppt/6klM7nT50KA04cVOnzwpkuFnN9wmtxmhBU0Jmrq7wulQpmGyfC5nLH+uRkf9xQAQxAyuWLWOEzFMBwXjZ7qA8OMuOysNeZSuXSqFq97hNflwIcOoRz2aW9vbReX18ZFUoZGC5eq93o+7tbI+y7REjmC0Do0tHRrk6nN/Xy8sKw3QpgJMTjQyVWBAUUzgUQbUOXYN3W1oZeXJzTyeSML5QyV8rFnp+rRq+vtZD4HqFgGcMtbUOXALW6uuQLg1IhiHr9TjcaD0bYpyQYoBhwl20AGiJLylypDdFsPoVEOAmFznLSXLalUmv+QAThwq3Wi9HH+1tXOJZQEDLESXPZBiCE2xvIhvj6rBt9fzeMsG9DQQy1yzYC7WS2fYBU16qoLtmdkcGG1Rx9G4g3SdyTvIHs3Ei74qA4+lE5AhDC7QXk6ozMjrRKQnHKonLEYEMek9YDsoPMHLnyYwMxRzYQBPs8Ji0AsjvDQMuthKJtvDlGBRsCnMekqa5dWMyeLjllhGKXbCA72ADhcxImbX5udnAoLCI7A7Xbzb6t7BKB4oItH+yQI8+fEHxQmUUB4BKh4oCYI/vhDYAetslSZvFOp9UFwT6PAUT4ONlAIz5JBl9KEKq34G8VABEGWfK8W7uqBzQ4CEv1WYXR9zs/snxBWAEQR9/zp2NSpSb1L2SUGrbD0/on9QNk+uzh9cEJkAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcElEQVR4Xu2X4UsbQRDF3a/Fv6BSk1qsGENTS60NtRoIsalKbQjB2to0hBCqJQT//w8rb5eXzE32lm6MxEIHHrd3ubv93cybvcvKyv9YSBgb1lLC2Hr9Y1CzgA8Oauxx48g2m7WMcCymB4LymTk5qduzs4bbxkTYWu2DPTh4t2goDwOQ8/NPUeEcCmC47vDwvd3f311UCaeZabU+O7XbpxnxuBTgkCFcyyzt7VXs1taL+0IZB8PJO50v9tvFVyeMQyIk/QUgZKlafWsrlR27sbE+b7Y8jIT4ftmKiqCAwrUAYtmQJZSuXN62hcKaXV19kgpl3JNysqurtlO325kRfyMUSkZzy7IhS4Da3HzuYF4Xi0565pwwMxC93oXt9y+dMKYkGKBo8FDZAEQvJcHgSTXEYPBjRoSTUMgsOy1UtlLpZToQQTjxcPjT6fr3r4mwL6EgeIidFiobgGDuZCAN8eem5zQa9Z0w1lAQTR0qG4He7L5KATKTUuVlSWdGGhulZutrIC6SWJOSgbRvZLliUGz9PB8BCOZOAgplRnpHlkpCscvyfERjQwmr9hRIG5k+CvlHA9FHGghC+RI6zQPpzNDQciuhWDYujnnGhgCX0GlmUi5MprtLdhmhmCUNpI0NEH4nodOerT39+7JhEpkZaDweZLYySwSKGVt+2MFH8hWiCQLh38iYFAAhESoGRB/pjzcAJpTNhz/RuMlvb4cTEIy5DyDCx6SB+CWZ+IJl+JsShOJx3jRPBCIMvJS4WodiChQC0Wdnw2RKhda/R3ZkpIIwPBBbP/HVEY80EBkm8y9k/vssNLIZ1r8uJR4VzD8fdwyvJ7fMFqYIAAAAAElFTkSuQmCC",
     "wiki_name": "Granite helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Granite_helm",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 17058,
     "name": "Wig",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-02-28",
     "duplicate": true,
     "examine": "A grey woollen wig.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu2W4UtTYRTGvZ/CvyBMSjJMMknsQwapCCMik2yMYZbZGGOYJmOMMcIaY4wNs8xcZjU2xlhTZChL9mlDQgT/rBPPkXP37irmHav5YQcOvIPtvr89z3PO1tLSrGY1q6GlUaUbXhq9mnnJPT/vVMAaAleBkXa5npPDMUFTU7b/DXccRhowTyeekM32iMbHH9DoqOVfw2kUiy1QOOyntwseCgRek9frJo/HRXOzDnK7X+hKTU/bGdBiGaLBwTs0MNBfbzCNVlcj/ECBCga9FAr5GM7vnyWfb6YKzumcZDAoBrUAdbv/Vj1U0yiR+Kg/ZHk5RPF4lFZWwvR+8R1Fo290MKhmBINidvtjGhu7TyMj9xist/cG9fXdrAVMo2z2q/IhjdLpOAOurcV0qEgkoKt2EhjUQr6QreHhuwwEOGmTqlVgNjeTlMl8oWTyE62vL7KNH5aCbONJULBScgalrNaHDAB1VKDjcGcqjba2UqxYKvWZfnxf0q37GxRUQp5OA+rqukrd3dfMAeXzacr9/KbbBpWMUMgUoNTAy1qAZbgc4VZhOjuv1Aa0vZ2hjVyCbYNKkiVYh7AboQQI4X42aeVgI0MdHe06DM4C1NNz3RzQzk6WcwSVJEuwTqBUpQQIGcJ+Qqgx/lCntfUCw1xuv6QDQR3TQIVCjm2DSsgSrDNCQSkVCIHGlGH0oY7sora2izqQ2GUaaPfXBkNBKdiHBiBaQm4Ewo8vJkzUAcDRpUet5gfrwBTQwUGZ9vaKVUBoQMJKhFwFwpRhwozqGJ+Lhjqmgfb3S1Qu71KxmGcogEA1vMYZ2YJ1AoRAq+qcftmZF6NaFanRAJBzqVRgOGQL1gEI21oCXcNltZRcotHh4W++FNYh6Jg4LMoav3k9qgKHHSX/Dqrf07DS2LZzBIQ6VzDNahbXH8x8JJlO1X0GAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4Xu2WYUtTcRTGva/CTxAmpRkmmWT2IoNMhBGRSTbGMMtsjDFMkzHGGGGNMcaGWWYusxobQ2yKDGWJrxwSIvixTjxHzt1/1+G8wzZf7MDh3nHZvb/7PM85W0NDvepVr5qWRoWueWn0ZuI19/S0UwGrCVwBRtrlekkOxwiNjdmqDXccRhowz0eekc32hIaHH9HgoOV/w2kUi81QOOyn9zMeCgTektfrJo/HRVOTDnK7X+lKjY/bGdBieUB9fXept7fnrME0WlyM8A0FKhj0UijkYzi/f5J8vokiOKdzlMGgGNQC1J2eW2ehmkaJxGf9JvPzIYrHo7SwEKaPsx8oGn2ng0E1IxgUs9uf0tDQQxoYuM9gXV03qLv7ZiVgGq2ufucv3W5t5WM6HWfApaWYDhWJBHTVSoFBLeQL2ervv8dAgJM2qVoBZn09SSsr3yiZ/ELLy7Ns46e5INtYCgpWSs6glNX6mAGgjgp0HK5MCdDGRooVS6W+0q+fc7p15aCgEvJ0ElB7+1Xq6LimuFG2NMpm05T5/UO3DSoZoZApQKmBl7UAy/BwhFuFaWu7UhnQ5uYKrWUSbBtUkizBOoTdCCVACPeLUSsHGxlqaWnWYXAuQJ2d180BbW2tco6gkmQJ1gmUqpQAIUPYTwg1xh/qNDZeYJjLzZd0IKhjGiiXy7BtUAlZgnVGKCilAiHQmDKMPtSRXdTUdFEHErtMA23/WWMoKAX70ABES8iNQPjxxYSJOgA4mqSjVvODdWAK6OAgT3t7O0VAaEDCSoRcBcKUYcKM6uCB0gIGdUwD7e/vUj6/TTs7WYYCCFTDZ5wjW7BOgBBoVR0VRr2zClbq+gmlblSNAeR8dzfHcMgWrAMQtrUE+jQPK3e9ZBnlluPh4V8+wjoEHROHRVnhm1dehYcU4LCj5N9B8QtUuVQ42FaAPBdVRZtOW+cKpl61qH9WgFsT5v2NZgAAAABJRU5ErkJggg==",
     "wiki_name": "Wig (Grey)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wig#Grey",
     "equipment": null,

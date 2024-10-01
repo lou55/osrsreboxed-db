@@ -1,7 +1,7 @@
 {
     "id": 25411,
     "name": "Bloodbark boots",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": true,
     "examine": "Great foot protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xu3W60sUURjHcRcJcVmUUFzaxRU3NiihIOhdb/oLMooKC6PCbkQR3RApuoh0QxC7UKFgiImUEURFUdRfduo7w2945rLLzu4UvejAw8yeOTvzOc+5zHR0/Psl55Ij6fofLzn3cGq/uz+5z4uZ66Nu+speL4RYnjvulmaPucVH4wmoaCfahvsgoQApopiFB0fds5mx0IP5zbVohFGpkDk3e+NADMURiEKgJ9OH3dytg15bjkkg2lv0t7Up92XlcmsogThXdgR6ce+IB1LbeiD+93V10v1Yv+1+rt/1QKkw3FS9FoiHJoHm7xwKQJwngVbmT4RAnDcJyoWGgQdpcvM7CuLhIDS89UBrTyeyAylL1FmQnRMWRNaioLfPTwUgIhVI8yIKoucC0a5WHnA7a4NuZKgUoOqB3r08HQa9vtY+iHpAtAGi2D2yOQSymSMAvV84my2IYCgFIitbB4uuuqnflfp6A1AUu2vLkFf3cel8APr+5mazGEoYZFH0VKAd1XKA6evJB9kQlCNtevLdXv2nVxdaBVH8m5P+eiB6XxnY6Iq9heChNjvUKaj/vHypVZC/B5GhRiB6r+zkuzYEIOqJWgNQik3RX/JJIMKCGBJlx4KoJ4AKlSlIKAKQssD84aECCcU15hDXhMoMZLOk5Uzv7dwRqGhA7E/1QOzSTWIo/gpLAnHNLnPNnWh2wAAGusesQJuhlkB22Ki/Wq24sVIxlB0gZGB7Ie9lThjANoOFzk7vHpmALGqiUgp6HZ3IYJQ9YWg33N0VA6VA+aCkYePaxeGyGy32B/OClcfxzG9oFKPsCa0hYw9KsQ+FQXbYqNPNCer1qgA6Xi56GGVvW8GfO3wHfVg81zqIVVYPxFueB7D8qdM7zkJtsGdlBooOG/UWpK9JgqHTXsX/1BbQ6uOTIRB7UOp9KGnYLIjzRiDAapsJKGnYLIhr9rPEgminV0wGIEp8LiSFxdiIgviWtiBFClCzJY5U2PnzF0GNShwZj/+lvfILxIyxIYNSdQ0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xs3W60tUQRjH8V0kxGVRQnFpF69hUEJF0Lve9BdkFBUWRoXdiCLsgkjRRaQbgtiFCgVDTKSMICqKov6yqe9ZfsfnjLPLrp7CgYc9O2d25zPPXM7JZDZ+ybpwhO7/85J1j8cOuYejB6OYuDngxq8diEKI+alTbm7ypJt9MhRA+YNYN7wMEgqQwsfMPDrhXkwMJjrmO/f8SKLqQmbd5K3Dq1B8AlEI9Gz8mJu6cyRqy2cIRHuL/rE05r4tjKwNJRDXyo5Arx4cj0BqWwnE774vjrpfy3fd7+X7EYg+dnd3R+H37pVy2jVqgeg0BJq+dzQGcR0CLUyfToC4Fsjv3SvZxDTQkRY3330QnYPQ9FYCLT0fTg+kLFFnQXZNWBBZ80HvX56NQURdIK0LH8TIBaJdX6nd7enrcP1dxRhVCfTh9bkk6O2N9YOoB0QbIIp9/VsTIJs5AtDHmQvpggimUiCysr2j4Hq3tLlia0sM8rF7t3VFdZ/nLsWgn+9ux5i6QRbFSAXa1VuKMa3NuTgbgvJJm+ZcU1T/5c3lIMjvvUIp/znprwRi9J3tm12hJR93arNDnYL6r/NX1woqn0FkqBqI0Ss7ucZNMYh6oq8KyB6Kfu9eKW/5EIiwIKZE2bEg6gmgQqUKEooApCywfuhUIKG4xxrinlCpgWyWtJ0ZvV07AhUMiPOpEohTWpiaQOywEIh7dptr7fjZAQMY6H6zA22GaswOZQVkp436672dbrBYSGQHCBnYmc9FmRMGsM1gvqEh+o9UQBY13FmMR+0vZDDKnjC062lqXAUSyu89UMqg0LRx70pPyQ0U2uJ1wc7j8/xfqI9R9oTWlHEG1XEOJUF22qjTnxPU61EBdKhUiDDK3o58ee3wHvRp9uLaQeyySiCe8nTA9qdOzzgLtcGZlRrInzbqLUhvkwRTp7OK36ktoMWnZxIgzqC6z6HQtFkQ19VAgNU2FVBo2iyIe/a1xIJop0dMCiDK6rUQCoux4YN4l7YgRR2gTEbHerXwgTbs+kkFVGvxkbVgFStt/1PxkaHwf7Ohyx8On/utpnGtOAAAAABJRU5ErkJggg==",
     "wiki_name": "Bloodbark boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bloodbark_boots",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 28688,
     "name": "Blazing blowpipe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-11-29",
     "duplicate": false,
     "examine": "A Toxic Blowpipe that fires darts coated with venom... And fire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACl0lEQVR4Xu2WTWsTURiF55JOpzPcZDpkSNCNKzcFUQulLbQiorgoLgQ/0IVYVESFQkqhKIUWEUQUBIuCYCGg4KKgq4IrBRddCYILf4L/QTfHe+71Ol9V2mZMivTAS8JkMvfJeb/iOP+PBIrRE5nDV+8GeL3o49WCj/YdHyeD6gaA/xxS4N2jAGsPTJyREaaCEMd/wQy5DvZXHOxVMRb4mJR+DqpUQIGPy4GO9WcSp+SgduXIgMRsM8KMirVGgCeRj30KKHacAsylsF6WawKfVyS+tCW+vpQ4X400zIgXYMhxMVrxcKsR4Uoc4qBb0S7VMkAC1wcbmA7jsoAogW9va5if7MfsyAAuHOjTMMMVV6eKcTaS+vWQ7xXcmVFAVxUQa68EKFOgF6t13FQPbo334/LhvgxMPpKUCczXm2hFDf1dQnUIJHSq6E76oayHp3VfH840MfiekEzhhIqjKk6ouF3fg7moqV1i6joEopI2Zv1YGAvCeKyKOQ+yPGXCOmR/EEdFKVCfXkgNQ4CVFBA7608wFijtUClpY6tz9gynXHmuoNhR7B7G0rEsSDoIZB3iIG2dyxf+liUw6lV+A7FeOG943QIx6AYPPa3mFF/zaUvS1REMJfChqdZFbFzhNE7D2EOYVh6etLdpiu/vY71qSgChjDurahIvhF6mpYvDTuDH+lhu3iRNkdy3bQlMpFKVncDm8+R9cq2kAZhXAsO2Lu6nv2mz921aBuaNStPDyMMN6W4BpnQJnR7WzH0FM91rGL0CXLO12U3FuumqTEcRZuP/NV2VcYexpNrbzpr8XV2UqR0W8VwtPW96IqHrhlt8x7jTVmuB7rRqHS++MiT03wi6c623bW4lcC+0zvQcxmrHgOxqV9vWTw5WxyKV5dsWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xu2WzWsTQRjGd0jT7S6TbJeEBL3Yi5eCWAulFVoRUTwUD4If6EEsKqJCIaVQLIUWEUQUBIuCYCGg4KGgp4InBQ89CYIH/wT/B708zjPjdCebKLXZJlF84GWXZbPzy/N+zHjevyOB5uiKzOLrd0K8Wg7wcilAfTHAybDQAnDXIQXePgyxcd/EGRljOoxw/CfMcN7D/pyHvSomwgBTMkhBZQoo8GE11LH5VOKUHNSuHBmQmKvGmFWxUQnxOA6wTwGVPU/DjAwN6eD9paiUlWsCn9YkPtclvryQOF+INcyYH2LYy2M85+NWJcaVcoSD+Zx2qegA8Xp9sIKZqOw8a1sCX98UsTDVj7mxAVw40KdhRnN5nSrG2Vjq60jgN7kzq4CuKiDWXgYumQK9WCjhpvpw7XA/Lh/qa4BJh00ZY6FURS2u6N8Sqk2XhE4V3XE/ynp4Ugr04kwTg/eEZAonVRxVcULF7dIezMdV7RJT1yYQlbQx68fCWBDGI1XMaZDVaRPWIfuHOCoySdvH51LDEGDNAWJn/QrGArkOZZI2tjpnz6jjyjMFxY5i9zBWjjWCuEEg6xAHae2cKfz0Sn8ggXE/twXEeuG84XMLxKAbXPS0mlO8ptOWpMvtwh1J4H1VbRdl4wqnsQtjF2FauXjS3qYpvr0r663GBWkLhu6sq0m8FPkNLe0OOztzvm9ObAHZZxm5QglMOqlyJ7BdrHkRs/kmQJ6XgStUAsO2bt6fjFov0vxemzIwr1WaHsQ+bsh8S5jfabvvbUNCp4c1c0/BzOwAJkOZcw3TZLupcefuuExHEab1uaajMu4wVlR721nTJRjK1A6LeL6YzJuuwbBuuIv3jDt1tS3QnVoxfeLrioQ+RtCda06bp9/qoATuRvZI0HV3rBKQHoAx6hmQ//pb9AOZRRSbKKNdHAAAAABJRU5ErkJggg==",
     "wiki_name": "Blazing blowpipe (Charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blazing_blowpipe#Charged",
     "equipment": {

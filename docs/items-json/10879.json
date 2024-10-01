@@ -1,7 +1,7 @@
 {
     "id": 10879,
     "name": "Red satchel",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-19",
     "duplicate": false,
     "examine": "I can keep my grub in here!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZ0lEQVR4Xu2W7WvaYBTFDSJiCIYQMSRBRUMsTUqdMqcyayezWK1shU66V+kKspeyFwpjMBj70896nvDo3Oi3Rj/MAxeKIs+Pc8+9t4nEVlttdZsUrNZGpeDn5zG+XD7G/EUXfjm/SSgF14UQb20fs9oepicNtO+VUSnmNgGl4MoIMHeqeGlVcJorYlL1cDaqI/QdFB1jXVBRTq7nA3y6eISZ5eFZroSJWcCBbqHjOhGQbcDKaXFDLUHev+7h8vwh3py1BExft9HJ5hGoOty0Cievxw2kYNLfx7gXYtgNBMjzJ/dFi44MR8A80HIopzXUAjduIAW/vp7g27sj4U6v6QuQyWAfw8MA/U4Vdc0ULdOSSex6FixTiwtIERAsjjZb1twrYdDdRa/lo10vo7FXEK6MTBc13YCaSq0HiPuGuWE1ayUBEVYdUfyb4z/yKijrWZi6GgdQNFEfZ4cC6MfVsYDhvmGb2BqC0CE6dbrj4yBvCYdiAFJEeFkEojvfPwwXQMwOH5Uwx7YLW1NRTKoIs7r4jk7dIRC1dIjuMD8sCcS2ZbWMyNJTtwjfMGAnM3CsCOiOYaQiIE4YQ83iuBOI2SEQYabFm3DbFsxkGqahxgsk3ZHhJtC4H4oMcdoI9arsoZPLw7jJj5pJCRjuohiglIU73M4sCcTL3m16AojF7GQTEQzLL8Vy+aNzwbbx3wtZBOJVZ6jpCPeOBJG/awSFOICo6CGCyT3ELb286Io4prUddwWo2/DiApKKHr+YtgXQ6mN/OxKtjZiBpP5szfIznpQlxFqBbpOCfqu6WKiyNg71b2211X+q350LoO6N2dhHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xu2W+2vaUBzFvYhIQzCEiCEJajXEUpVaZa6VWTtZS1+yFTrZW7pC2aPsQWEMBmN/+lnPvVytpftpRn/xwAEhYj6c78tEYqmllvqXBKa9UAn8/nqMbxdPcPmqi6iUWySUwHW+hvdehFGjjuFJC9ubJZQL2UVACVzZVVz6Fbx2yzjNFjCohDg7aqIW+Sj49rygVJ9cX+7hy/ljjNwQz7NFDJw8diwXncBXQJ4NN2vGDTUB+fi2h4sXj/DubEvC9C0PnUwOVcNCkDbg56wx0ObqahxQAoP+Bo57NRx0qxLk5dMHskT7ti9hHppZlNImGtUgbiCBP99P8OPDvkyn144kyGBvAwe7VfQ7FTRNR5bMTCaxHrpwHTMuICEhaI42S9auF7HXXUdvK8J2s4RWPS9TOXICNCwbRio1HyDuG/YN3W4UJUSt4kvzM8f/KCyjZGXgWEYcQGqiPo92JdCvq0MJw33DMrE0BGFCTOp0LcJOzpUJxQAkZPPSBGI6Pz8djIHYO3yphjn0AnimgULSQC1jyWdMaoZA1CQhpsP+oTUQy5YxV2QvPQsKiGwbXnIFvquANMwMgSgFxAljU9McdwKxdwhEmGHhprk9F04yDcc2poDu/uJ/SozT0c1NoON+TfYQp41Qb0ohOtkc7Jv+MVZSEoa7SKU8U4lxOtzOtAbiZe+2QwlEs3cyCQVDR0V1+WeckjoXLBv/XmgTiFedTc1EuHc0iAIQaFXzcQBRk4Oq9xC39OSiC3lMG2vBFFC3FcYFlEjol9Dnw20JpF92fyJqbcQGpHUbbHqkhTwpGmJuQFrTMFoC/a3KeKFqK8CFSaVz2/fDz1Ea4LbvfmeppeLQX8O+0D3aj+HDAAAAAElFTkSuQmCC",
     "wiki_name": "Red satchel",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_satchel",
     "equipment": {

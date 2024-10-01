@@ -1,7 +1,7 @@
 {
     "id": 2105,
     "name": "Lemon chunks",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-12-12",
     "duplicate": true,
     "examine": "Fresh chunks of lemon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnElEQVR4Xu3Wb0sVQRTHcS89ECLqbeWjisKipKioKEKIIhMp1OT2F0HsDxkKhtjF1Aiif1Loawh8A0EvIejRxHeX33Zmdna9e3eLHjRwuLuzszsfZ86eta/v328tF4/Y9T/eWu7B2GF3b/RQEu2Rg27q2oEkhFiaOe0Wp0+5hYcnI6jwj6gNT0FCAVKEmPn7Q+5p+7g3MedcC8NHVUK23PTNIzkUv0AUAj2eOuZmxgeTsfzGQIy36M8rY+7T8tXeUAJxrNURaO7uiQSksUUg7tvojLrN9Qm3tX47AVXC8FD91QIxaQw0O3k0A3EcAy3PnvFAHHcJannbwERKbs5DEJOD0PYWgVaenGsOpFWiLwbSSgrEqoWgtWfnMxBRCaS8CEFMHoJsQpeBXj+/4INeXq8Poh+QUFpJ+0YWgd7MX2wWRACwoDChi0CMfbd4OQN9Wb3VLYbmgyyKh8dAwjCuCPT+xXCvIFpavHh4GcgmtL2HlQxBH5au9ApKaxArtBNIq8g9N0b63cD+XckxIAF1jwVVKIrpw2IgwoIYq4Tm+OePfW77654MsvFxd3beKEgorQQVl99wcoXtVzQGsqvENW2JVsj2verkMRYoEFW6SwwtfcOKQHZblCdMKlSI/P5tr7vT7vdArFBPoDCP6NeErBDnggqpfApXis9GYyCh6OfNIocAcV1vnzAA6edcrztjqdIWVAGVgmLbVgZSURTI1h/Gv124lIGoQRXqkA+y22ZBqkEWEwMBrw0iWXcCMVn4yRBInw1tV2OgcNvotyB9Mux2CaSxgDqPznogalDlOhTbNgviuAxk86cRUGzbLIhrsYQm9GHVdtUE0X7Xj7II80cRgvhf2oIUFUDdtjxSYfPnL4LKWh6Zj/+tXvsFmB1ntrIrRNsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwElEQVR4Xs3W7WrUQBTG8V38UBDRW+gleBn6SaWioqKoqFhEEMVaiuJLWV8plKpFpYVKqUvViiC+FUWvQfAGBC9B8NPIP+FJz5xO0k03SgcOm0wme357ZjLZVmvjt3ZIR+r6P2/tcG9sKNwZ3ZNFZ2R3GL+4Kwsh5iePhbmJo2H2/pEEyv+IvuE5SChACo+ZuXs4THcORok555qPGFUL2Q4TV/auQvEJRCHQw/EDYfLavmwsnykQ4y368+JY+LRwYX0ogThWdQR6cvtQBtLYMhD3LXdHw9el6+Hb0s0MRI7tg4NZ+Oyu5WXXrxaIpCnQ1I39BYjjFGhh6ngE4lggn921djQNJNLi5tyDSA5C01sGWnx0sjmQqkRfCqRKCkTVPOjV41MFiKgF0rrwIJJ7kF3QVaDXT0/HoOeX+gfRD0goVdI+kWWgNzNnmgURACzIL+gyEGPfzZ0tQF9eXq33hFmQRfHlKZAwjCsDvX92Lgny2Utavnnx5VUgu6DtPVTSgz7Mn18vKN+DqNBaIFWRey6PDISdOzZlx4AE1D0WZDdFn921/MtSIMKCGKsFzfGf39vCj+9bCsjyx83FeaMgoVQJdlw+fXKF7Vc0BrJV4pqmRBWyfS+6qzEWKBC7tDA9gXhCykB2WrROSCqUR/76uTXc6gxEICokkM+eaCsgv47oV0IqxLmgQmo9+Urx2mgMJBT9PFmsIUBc19MnDED6Odfjzlh2aQsSymdPtByUmrYqkDZFgez+w/i3s8MFiD2oxj4Ug+y0WZD2IItJgYD3DWKxrgUimX9lCKTXhqarMZCfNvotSK8MO10CaSyg7oMTEYg9qPY+lJo2C+K4CmTXTyOg1LRZENdSC5rQi1XT1SeIFm/7ZeHXj8KD+C9tQYoaoFZL23pVeKANu34aAfXaPLIXrGJl7H9qHpkKf8+Gbn8B4iGyQuw7/h4AAAAASUVORK5CYII=",
     "wiki_name": "Lemon chunks",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lemon_chunks",
     "equipment": null,

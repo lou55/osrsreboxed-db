@@ -1,7 +1,7 @@
 {
     "id": 6039,
     "name": "Magic string",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "I could use this to make jewellery.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfklEQVR4Xu3W3UrdQBQFYM+V+ALe9hG88jlUWqqoKCq1tJRCsVhEFK0i/iGI/aEtChaxImoRShVF0SebshLWcc0+M2lyEksvHNgkJ5mYb2b27NjS8v+3mgtH6P69t5pbm37sVqZ6klh61+0W33YlQcTe5ojb3Rh2O+tDAZQdRGl4CiIKIIbFbK8Ous9L/d6L8Rv3bPioQsia25h50oDCERAGQR8X+9zm3NOkL44hEPor+upw2l3sTzSHIgjnnB2Cvi4PJCD2jYHw3OXBlLs5mXe3JwsJqBAGf5SjJggvDYG23vfWQTgPgfa3Rj0QznOCat4y4EVMbvy2IM2fLNDhp2fVgThLuKYgQjo7H7m21tbkHCDMmgUdfxmvgxCFQMwLC8LIAbIQYjhDIdDPb8990I/J8iCF6KwQkwU63X5RLSgG0YSOgbC8v3df1UHXR7N5MWg+CKEYQvAS7jBiAIuBzr6/bhaEdjd6HDs62j0ME1tLg4KwKSzofO9Ns6C0BmGGFMRQmFZognDNgjAABRUoiumWVxCXLAsWC85OpSCiYrBY2CWuBKSzhCNGjE+AnQkbilIYQKjSOTFo6Q4Lgfg5AAgjBtzmD3OIAJYHhWGGmgLZPOJWJgi/YyAms2KIKw0iCteRoAThvhZEzopGaMlYqXOiUlBo2bJAeM4mtSb2r52X9aRGDSpQh3yQLpuCcMR1nR1+ZPWzgkD/UiAk699AyA/7yVCE1p/KQHbZcF1BNqFZq/Ac+wJ08GHMA6EGFa5DoWVTUGjLK4gzhL6VgELLpiDc0x2mIH7HuFwlQWj+1o2FrT8MC8L/0gpiFADlbY1IhubPPwRltUZkYzy0cu0P5mAKCwSqg6cAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xs3Wb0sVQRQG8HtfiV+gt/kN9I2fo6Io0TAsKgoJIlFEFP8hWSGI/SFFwRATSSMQFaXQTzbx7PLsffZ4Zr3rbuHAYffuzjK/nTlz9jYa1781gx/e/X/emuH9xN2wOH4niYWx22F+5FYSRGwtD4XNpUdh48Ogg7IvURmegogCiGEx6+8ehi8L/bmB8Rv3bORRpZDNsDR57wIKR0AYBH2a7wvL0/eTvjh6IPRX9O/diXCy/eZqKIJwztkhaPXtQAJi3xgIz53ujIez/Zlwvj+XgDBGT1dXEnZ009Jp51sThEE90MrsgwyEcw+0vfI4B8I5QXZ005q5ZcBATG78tiDNnyLQ7uen9YE4S7imIEJ6e2+Gzo6O5BwgzJoF7X19loEQpUDMCwvCmwNkIcRwhjzQz7XnedD30eogheisEFME+rX+ol5QDKIJHQNheQ83hzPQnx9TGaY0CKEYQjAIdxgxgMVAR99euSA7eqS13h7H7u4bOQwTW0uDgrApLOh46/VVQWkNwgwpiKEwrdAE4ZoF4QUUpEXRjm5auuUVxCUrgsWCs1MriKgYLBZ2iWsB6SzhiDfGJ8DOhA1FKQwgVGli2gJhh3ggfg4AwhsDbvOHOUQAy4PCMEME2dGd1gLZPOJWJgi/YyAms2KIqwwiCteRoAThvhZEzoqGt2Ss1Om1S1sK8patCITnbFJrYh9svMySGjWoRB3Kg3TZFIQjruvs8COrnxUE+lcCIVkvAyE/7CdDEVp/agPZZcN1BdmEZq3Cc+wL0M7HJzkQalDpOuQtm4K8La8gzhD61gLylk1BuKc7TEH8jnG5KoLQLm5fL2z9YVgQ/ksriFEC1GiwrBeFBWpo/tQCardZZDtYRqvvf2oW6YV95lq3vzBzVJdGRyXRAAAAAElFTkSuQmCC",
     "wiki_name": "Magic string",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_string",
     "equipment": null,

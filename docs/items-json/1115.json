@@ -1,7 +1,7 @@
 {
     "id": 1115,
     "name": "Iron platebody",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "Provides excellent protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQElEQVR4Xu2W20oEMQyGd65EEUUURUVFFxVd8cR6wjOKije+/9NUvpbfSbMzOrMebtxALqZtkq9Jmt1OZyQj+RMpQqn+u279VyQ5n5+bC4sLC1H53tvZCZvr62FlaSnMzsyEyYmJuD4+NvahPwyWnK0tLw/o8f5+OOj1wna3G7+BnJ6aGgAaBBsarojByMDG6moGw56AbJbIIMHJFOqhcrhWUoTdra0IZKGkJ4cHGRBnWAeKTAmoDqwlUOoNgAQFkJR9D2ShyCBBKZ8Hs3AtoBKQ1EOdHR1lQFJBcQYogKx6qIZARRbAQ7FvgazKhrNA8eo8lMAaZik1atXNFeii349AgrLqobgAUFKfqVZAdVBXp6dRAbNwNmsWiNLVQTXOEvp0exsDE4QAaua7y8twc34e1cP5LAmIUfD2/Bxe7u+iPWfZVyxPUCFFeLi+jsEIwG0tKHsozlFBkSVfNs0sC8Q59aOPXCMpMEEIUBoX4fXxIToWmAfyZasCYp/xMBQQt7VAOLZQKiFQfhwA5YE4xzoDtBWQjHGs/lGGmgLZUgPEeZVLP84+co3kGbJAgAimOVDySYmHBpIx6eWJCoh12z+fAeWN+00gAuF88DUkx1XP/yugb5VMT15NqfUqED8kbcnsgxAQ662BCIAh01UOaUwLYmH8s7dPv5zGpd/WQDhmVuSjPWVIfeRhLBC2ZKecyMmeS7QESr9nvCz9+8sN0011WwKohHoE2Ntz1pZSAlvtu1ass88M/LlhbEYykn8k7yaPEvVkrIcJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXElEQVR4Xu2WyUoEMRCG7ZMoooiiqLij4oIbrrijqHjx/Z8m8iX8dqWmW9PjcpqCOkxSy5eqSnqGhgYykH+RKtTqf7et/4mk4DPT02FudjYqv/e2t8PG6mpYnJ8PU5OTYWx0NK6PDA9/6i+DpWDLCws9ery/Hw52d8PW+nr8DeTE+HgPUC9Y33BVTEYF1paWMhj2BGSrRAVJTqVQD5XDdZIq7GxuRiALJT09PMiAsGEdKColoDYw4h+urJRCpdkASFAASdn3QBaKCpKU9nkwC9ehSglI6qHOj44yIKmgsAEKIKseqrBKVZbAQ7FvgazKB1uguHUeSmCFVUqD2nRyJbo8OYlAgrLqoTgAUFJfqYIq1UBtUNdnZ1EBs3C2ahaI1rVBFVcJfb67i4lJQgIN8/3VVbi9uIjq4XyVBMRT8P7yEl4f7qM/tuwrFxX6okpIFR5vbmIyEnBaC8oeSnBUUFTJt01vlgXCTvNYAIOkxCQhgZzRt6fHGFhgHsi3rQmIfZ4HAfnsDVIDcVoLRGALpRYC5Z8DoDwQdqzzgHYCkjOBNT+qUCmQbTVA2Ktd+jgXA9kKWSBABFMKlJKmuewbSM6UlysqINbt/HwFZAf3x0AkInjvbUiBm67/d0A/apmuvIZSQZtA/CNpW2YvhIBY7wxEAhx5XRWQwbQgFsZfe3v169e4jtsZiMC8Ffn3JlVIc+RhLBC+VEcvsvw5REeg9D3jZunfX+6YTqrTkkAt1CXA39rZ+aOVwNrYef5GqYPlAZPYBG0qG+/bZlfvt0h7wFy8XT8+fn8gA/kt+QCt/12Bw2KhLgAAAABJRU5ErkJggg==",
     "wiki_name": "Iron platebody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_platebody",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 26747,
     "name": "Maoma's great helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-07-06",
     "duplicate": false,
     "examine": "Maoma the Corrupt Captain's great helm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xu2W/UtacRTG+xIjlCgkUVRUrnIVr9LNyFaUdeFiZUnlWlu11kREWm8i0VrrZTHaCxuMsZ/GYL/u3zzrOXJvZjDGutf2ww4cvoLi98PznPPc29FheQlq9D9RgqZiEmWlwF1DNVTJJyKkRUI0HPTxeUdQglYHFCooUdLlMKszGPAy1B0ACdoYStFSf8y0CiBJr5vinr52WydMVQyrRsN+Vgcwwd5u/txWoGZVjFP1e0hy9VCvo6vdKglWBVBQBiBQBHZBHQOobTDl9VUaHxnmCw2lDHVwup2O9gPpk9mmSxuNmYJCvm6n1UBXl7R+YwDN5nRydHU1/aaRRVAHUBYCCcpkVO71R0vXFEB///KJ3p0e0dL8HANdQQm2DurAOouABI2ODtH4+DBNTIzw59LaY74c5/LiPC3kp2lG10jLjplABpQx1HKfyzogTRsjXc/SVG6SZmd1BtutlhkENgFmYmyE7g+lbwDBrquUvjUMSjDMzIzGMLWtCu1ulrmhGizEdgFGTSUppSRuQFkciMJU5uxlneo7VYbZrpa4YRuUAlRcjpIckSgSDt2YpdZ/vUUJVqdQyNHHi1P6+uGC4tEovTk6oIvjQx704lyeLVPiMQr6/eTzesnjdrdAWVaC1Tl5UaPMgErvXx+TLEnckVCIhxwDjoGGXYDpc7m4W61r/ee/LMHqAObz23M6O6ibMOFAgJ6Xn5GqJjkUMUMA6e3p4bYBBiWoWMzTzx/f2KL9nU3uaukpDzRO2CbLEg2q/dTtdJptGxAsA8yr+h7VNisMgYY66O1KiRQlRj6f95pNNsCgGluGId5YWeaBRgZhu9B4ZCzMTTNQJq22BwjBeH64zxuE+YEimB80Vl7XspRKJdoHhADEMAMIw2wA4bHBoZhJMxDC8V5np/1AWOWT/RoDGZuFE/mj9l+mczLBmwYghCN+Z6y9DUAowQONi9AGUGE6xzARKcRAeK4hj2AdEhtQtgEd1nauAWGgAaAkYuTxuDmZ1x4WGRKpjUwKB217fxZ0sLfFW4ZLkcwrDxb5KR+PRclx+b5shCF6Sps07bMNCGFY2XjCUM3vQI0Lf9e2VetFtl/4v/6ofgHxRXZihfeDnQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZElEQVR4Xs2W7UtacRTHu8QIIwpJFBW1q6j4QLciW1HWhYuVJZVrbdVaExFpPYlEa62HxWgPbDDGXo3B3u7fPOt75HfTK+tF3WsdOPyEK7/z4XvO+d7b1mZ6SFTLBxESTUdkSsve+4aqqZKNBUkN+mnE5+bznqAkWhuIUy4eIi0cYHWGvC6GwrOBvr5WQkm0OZyk5f6I3iqAJFwOijp7W906SVdFtGos4GF1AOPr6eLfLVTpeoChijgVj5Nkezf12DparZLEqgAKygAEiqBdUEcACYUsVkmi4sYaTYyOcEGhlFAHp6PT1gBkvMHkqAFpU2m9qEjMFBRyd3WaDXRdxPhEAM1lNLJ1dNQVrXkR1AGUiUASpVIK58az5QYFkL9/fKNPZ8e0vDDPQAIKidZBHbTOJCCJxsaGaWJihCYnR/l3Yf05F8e5srRAi9kZmtVUUtPjOpCAEkMd7rWbB6Sq46RpaZrOTNHcnMZge+Uig6BNgJkcH6XHw4NNQGiXcGkBc2cgwMzOqgxT2S7R3laRE6qhhdguwCjJBCXjsSaoekO8IwxC0pU5f1ul6m6ZYXbKBU60DUoBKhoOUTgoUzDgb5olk2AQEquTy2Xo6+UZ/fxySdFQiD4cH9LlyREPen4+yy2LRyPk83jI7XKR0+FogDIJBiGxOqdvKpQaUOjz+xMKyzJn0O/nIceAY6DRLsD02u2cxtYZb75lSKwOYL5/vKDzw6oOE/B66XXxFSlKgk0RMwSQnu5uTqNCJqkkUT6fpb9/fnGLDna3OMuFlzzQONG2cFimIaWfujo79TQCGW++ZdRaBph31X2qbJUYAgl1kDulAsXjEXK7XQ1tskAdRG3LMMSbqys80PAgbBcSr4zF+RkGSg0q/wUy3nqHqBnjxdEBbxDmB4pgfpBYeU1NUzIZax0QDBDDDCAMswDCa4NNMTXIQDDHR+3t1gNhlU8PKgwkNgsn/Efpv3LnRIw3DUAwR/xPrL0FQAiJBxqFkAIoN5NhmKDsZyC81+BHaB0cG1CWAR1VdhuAMNAAiMci5HQ62JnXn+YZEq4NTwr4at/PlgAd7m/zlqEonHn1yRK/5aORENmuvpeFGSKn1Sm9fZYBwQxLmy8Yqv4bCM9uSpM9qD6ai9UXvCmNN5kWxkKWF3yI8Q9CtbhUrULSVgAAAABJRU5ErkJggg==",
     "wiki_name": "Maoma's great helm (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maoma's_great_helm#Normal",
     "equipment": {

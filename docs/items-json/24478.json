@@ -1,7 +1,7 @@
 {
     "id": 24478,
     "name": "Open herb sack",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-01-23",
     "duplicate": false,
     "examine": "A sack for storing grimy herbs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4klEQVR4Xu2U/StDURzG72k/WSIRSbbQtWxiW2zE2GJYlHmZ9+Yl8rImLbSIUpJSSkop/+uX53s7694r8sM9K3Wfeup2t3o+9znf79E0V65c/SRBVldN9mDDelsNBX1e6uvwUkSvrRaUoFiglj0crKNUuJ6yI02UT7fQaS5Q8VFW5/8ohhIMsJxo4sDCYrcFwmxAKodJ9BptIDAT8Vist2oVB9s0mhtqVAkk+HgQsj3TScmQh0Z7rBBmx7u/IAcVAyFgbdL/K4h0OtrAVgRkHFUu5WMge7jdaPFwKUz52V6aS3Q5DWVs1Ey8lRbH2hnI36xVbIc52xhkA2h3vo+ySZ2SAz4noQRvE74aR4A5wv2Cuwag2LiLfNzi0laMiqtRhlpJB5yEkRLfQuHbg5Fvvt4b5t/Q0kkuQuvTQTVACHi9TNNbeYrer6bp4ybDzy/nk/RcmqDHYpIeCuN0dzhqgQLQRMzvNJTge0cCSSgY7wD1dJZiqPvjBDcFIBzbZibkNAwkqLwZ4nBzSzCe8Q4tAQotSSAcGTZNARAkuImfoGRLEgiDjS1TBAMJDsGMINQMZp8jtLO/0K8SBjIG2wyFRuzNlHeGeN0Vw0CCh9QOJYcYIPL+qQKMFIL+YleuXLn6//oE9QXGS8+2NrsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+0lEQVR4Xu2W/StDYRTH75OfSCQiyeala9nEJjZibDEsyrzMe/MSeYsktIhSklJKSin/6+F7bs+695mXX+6zn+63vnW7u7vns+8552mG4cmTp98kyOmSSS1s2Wwqp6CvgrpbKyhiVpYKSlA0UMkeDFZRMlxNmaE6yqUa6DQbKPggY/IzmqEEAyzG67jg8XyHA8JuQOL5cEsLW32TCxIU77LSQMF0pMxhs9EoONhk0MxAbQFIfZMLEtweFNmcaqNEqIyGO50Qdsc6viH7NQOhwMq4/08Q6VRvDVsTkNWqbNLHQGpx1UhxfyFMuekumom3uz3U1kZNxRppfqSZgfz1RsEqzNlaPxtA27PdlEmYlOjzuQkleJvwq9ECzBHOF5w1AMXGXeZiDp9vROlkuZehllIBHZsmiorCd3tDRb7ZGeTPkNJRNkKrk0EdcyS4wNtVit7zE/RxPUmft2m+fr0Yp5fzMXo6SdDj8Sjd7w87oAA0FvW72TJI8LkjgSQUjHuAej5LMtTDYZyTAhDatp4O6WlZfj3Exe0pwbjGPaQEKKQkgdAybJqGlkGCk/gNSqYkgTDY2DIN6UgJLoIZQVE7mDpHSGd3rkcnDGQNth0KiajJ5LcGeN01w0CCh1SFkkMMEHn+lABGqvgP2U8uEYwlWew/q9/z5MmTp3/0BSAg8rxQ8U/TAAAAAElFTkSuQmCC",
     "wiki_name": "Herb sack (Open)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Herb_sack#Open",
     "equipment": null,

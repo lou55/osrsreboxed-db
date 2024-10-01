@@ -1,7 +1,7 @@
 {
     "id": 5574,
     "name": "Initiate sallet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-27",
     "duplicate": false,
     "examine": "An initiate Temple Knight's helm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xu2VW0sUYRjHHZZlmUWEbhKVEIKC6sIMdA00AzNTwzy02WZmmYaGh0xp2zy0la6YmeUhM1lbbFMxUSwqYm+ki+or9BG66iP82/8zvB6WbmcGogeGh7nYnR//w/smJf3bo2H7sXUMiLU7bgz6XPAed9oJpuFbKFlgppt19HkNoPxDDhxIS7IDSsPXITc2Am5E2nXUFzq3gGyA4WiIBd141+NGsNaFihyH/UAfe92IdupoPePcAjq230YgFWZfgVMsq/Y4kZVpI9BSl46eShdKsx1oLzNUsinQHA3j13Q0FzvhOejYqn3mXluAtg/CX69TpG2zLfqOc8jSMawK39TxO5qCHyPJUvu71S6cPGJpfgxFFAztok0/p5Kl/gz04QzL7NIwNzaGiaFBhAIB3OvoQPv1RlytrUVNebnUP32PhTDL4TAik5OYGRnBk/sDCPZ0o7ulBU11dQLE+jPYFgDFD7/VVay9WcDi7EuEx8fx7NFDDPr98Le1obWhQYDyc3PFMpOB4ndVLIbY+w18WF7CaiQiKk0PD+Nxfz/6bnXuAsrMyDATSBMQPpufPwnY981NUerV6CiePghi4HaXAFWVliLnaJYA6S6XGVAa1t9G5c+ZHSrD943FRazMz2N+4jkmQyEJNkN9urAQnuxsMxWKV3tuToBoETfDTGW4aRcz1NncBG9FBYoKCnAiLw/70tPNA6IyBFmYnpLNynNTGW7VsHMlJSg7VSQqmQpEa/hhNoubNnEz0NzMDxVq9PkkQ2eLi5GWmmoeEMPLDydaR9u41cF45YJXbCMQVTINSIVaKRWdeSGb5xC3OoMun6+R2tM2ExXiGFBs2N+so0LM0KXqKrHMAiCOcZkSLDHkzBArf7Gy0iqF1MSvjpUVsWq4t1esYphv1Nfvyg8PRsuAvqyvi1W8VNV1odRh7XkoKjUTf23SaNIyXqq85dkulR2LQXaO+nDi83+smz+2xFgIBCNXQAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xt2XW0sUcRjGHZZlmUWEbhKVUIKC6kINPASagZmpYR7abDOzTEPDQ6Zk5qGtdMXMLA+ZyW6LbSomikVF7I10UX2FPkJXfYSnfd5hdt3Nu5oZ6IXhRWR3fjyH/59NSPi/R0H0sXQ0iI3bToy4HXAds1sJpuCrN1Fg5lpUDLo0oIJDNhxISbACSsGXUSe2+p0IdKhoKLJHgPi/rIwMeeI/ZeAoCHmceNvrhKfOgcoc2x9A8Z8weBR8GHAi2KWi7bQ9AnR0v4VAepjdhXaxrCbPjsx0C4FWulX0VjlQlm1DR7mmkh5oS4CmrqpoKbEj76AtUvv0vZYARQ/Cn6+SpG0LrWrkHDK5YZpVvhsqfgWT8H08UWp/p8aBE0dMzY+miA5Du2jTj9lEqT8DfTjNNLsULE5OYnp0BN7+ftzt7ETHtSZcqatDbUWF1D91TxTGYCAFqz4fAjMzmB8fx+N7w/D09qCntRXN9fUCxPoz2CaoEz781tex8XoJywsv4JuawtOHDzDS14e+9na0NTYKUEFurlhmMFD4rgqFEHq3hferK1gPBESlubExPBoawuDNrhig9LQ0I4EUAeGz/emjgH3b3halXk5M4Ml9D4ZvdQtQdVkZcrIyBUh1OAQq/tv+chRsvgnKlzM7VIZ/by0vY83vh3/6GWa8Xgk2Q32qqAh52dkxCv1jlcLVXlwUIFrEzTBTGW7axQx1tTTDVVmJ4sJCHM/Px77UVKMs01pFkKW5WdmsPDeV4dYbdra0FOUni0UlQ4FoDV/MZnHTJm4Gmpv5oUJNbrdk6ExJCVKSk40DYnj54njraBu3fjBePu8S2whElQwD0kOtKxWcfy6b5xC3fgZdOlcrtadtBirE0aDYsN2so0LM0MWaarHMBCCOdpkSLD7kzBArf6GqyiyF9AlfHWtrYtXYwIBYxTBfb2iIyQ8PRtOAPm9uilW8VPXrQleHteehqKtpwKG42yjSMl6qvOXZLj078SAmwOiz87d79LEAJDo7X24piFnzG+eCkWBL4CbzAAAAAElFTkSuQmCC",
     "wiki_name": "Initiate sallet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Initiate_sallet",
     "equipment": {

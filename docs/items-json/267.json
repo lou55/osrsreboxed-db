@@ -1,7 +1,7 @@
 {
     "id": 267,
     "name": "Dwarf weed",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "A powerful herb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQklEQVR4Xu3UPQ7CMAwF4KCqKxMTCxMLCxILCxfg/geCuLXDq5umiRNgqaUn1B8lH4lT57baimr3ml/rez8rP/HBMYBD1+HeT8tPeHTptEfBP58MnoFpj/ID7d24/JPBfU4uP01BgpHBz10ZSN5vU7wtODjl0s0nTaUpSE+qMWsger8OhA3MIBw8BpL7S7GBGKC3iAftrj638Tf2PJlyEDdvrIERxKjZlkDCexwbRo52JmjIfQRpgE4hCHrFABoSQdgxtDK4Oi1A8py2tgxEFVkdCZ4i3BqYcADhtYoBJAUnTINUA+eCKjBYDFOrEz1N3wcxBgE5x1t6SaUSBJAFgE60wZthdK+soGYN3g600C8lKL1dj74SFDniOaAAIwTBnv1n1WyrBMccQQZUiBwMEyb1IcxFTQDFCF16MEu22ur/9QZqtjUgp+N+0wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZUlEQVR4Xu2Uva7CMAyFgypWJiYWWFhYuGJh4QV4/weCuHV6nRO32GnEgHqkI9Q2tT/80xBWrSJtXuU13vuaYuJ9YAA2XY/3vqqY8BDm3R5K/PMsuAGmPVQMtAtD+bPg0cdgdzz/dzq1gOJ5IJAU/Nz5gPh8OyCEIV+6MumcmwJhUoT5BETnlwHBECOMBpTuT7kOiAGwRRy0u0bfhl/t+az9QDy82gBLIIYqWiI8nmMnGAeQWG0jUO/7AIQAaGd1xKxUAPVWIBDGCMSVkdVpAZSeU2t91SEp1UmWWyRbIxL2QPIaXAEUwvCC2DAEggG2AjnbVSoDg+qo22QEwjwOMYwEsKx3miXwQiABMgGAVgccYCqBuEUINANVDPgEEGYyaGJePFDYrsd2IZCy4hagEYwgCOy5/a8aVwmzfZBYcwlUATU6LYZ/hvhjqH13PFACQEI4YZLyYDVGgAqIXBisxhhz1c/rDZGyfj13azLSAAAAAElFTkSuQmCC",
     "wiki_name": "Dwarf weed",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf_weed",
     "equipment": null,

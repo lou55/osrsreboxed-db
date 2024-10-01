@@ -1,7 +1,7 @@
 {
     "id": 16137,
     "name": "Guthix mitre",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": true,
     "examine": "A Guthix mitre.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACn0lEQVR4Xu2U7UtTYRjGz8PhMCZjMhLEhcUaTVJxbdSa+IISZfuipskaKizRELOZb5mZU9dSyMwyemciFaMiAivqg32IoMAPI6i+9Ndc7b7n1lIs35YLzgUXg+c84/k913WfI0mqVKlS9d9JIOa0kMDtiQlc9PnSAUrg+ewsA/V3dOBkbe12Qgm8f/MaLx8/wsyVILraWlFTVbVdQAJfFhfxcWEBT0MhXBvx48wpL45VViDfYvnXUAKRz5+w8Goe8+EwwvfvYWJoCKebm3G4rAxajWYJ6E/eMgl8jUTw4d1bnh3yrfFxBM73w+t2o9ThwA6DgT3a17vCtI+8RWACP75/45pobh5MTuLJ3TtcV297O5pO1OOQzYZcoxG6jAxcOtfF9vd0J7wcbhNgArZ6GyyVeci170JoeppB6Dc4MMDzc9zl4oTyzGZk6vVcHT27OjyMG5cD/CZSmmR6Cci0Tl4nlMBQSzGUBg3kagWSUeJD6DA6hFJo8XgYiGbIXlSEnOxshlJkmf9L+wmALvBwaopNCdMazd+6gUKDTih1CmRXFGi3xN8cArk+Nsp10fzEgQ7ut2KvycRzRDDxqigJqpg8O3OTL0Og9GzdQOGR0lhCUSC5QsFZt51BxgcH+fsTB6ooKWEgqo1SIiDaRxcg+BdzcwxDyVDCG5whgWeBKJAnVtmFxgL0efLR7d4HX0PeqkA9TQ52udPJM0YgNHeU2AZBkiWgNGu4trGWIvi9hQxFQG3VZtSU7vwNiEAMOgU6rcxAlMhAZ+dWgCRLMFCw1boCqPGoCUcO5KDApMceow7GLG0CaBPV/E0Csl2GlC8nHSASQHXluSguzILdYoDVnJlKkLiWA/1aX90p1RJQ6g9aq6JA1rQCIqUVjCpVa9ZPGmEKwD/1RpgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xu2V7UuTYRTGd/PwMJShjARxsXKNJqk4N8oUpyhR5hc1TdZQYQ0NMdN8a63la6aQmWX0zoaUjIoIrKgP9iGCAj+MoPrSX3O1c+bj5lbBcOqCXXAxeO57O7/7Oud+plKllVZaaf13Egg7JSRwb3YWV/r6UgFK4KXfz0AjPT0409S0m1ACH9+9xetnT7F4fRr9XZ1orKtjoNL8/J2GEvi2tobPq6t47vPh5vgYzp914mRtDQpNpp1OSSD49QtW36xgJRBA4NFDzHq9ONfRgWNVVchQq9eB/uWkSeB7MIhPH97z7JDvzsxg6tIInHY7bGVl2KPVsieGh+JM+8hJAhP49fMHt4nm5vHcHJYf3Od2DXV3o/10C45aLNDrdNBkZuLqxX722ODAhmPhtgAmYGmxwFRbAL11H3wLCwxCn9NuN8/Pqfp6TqjAaER2Vha3jtZujI7i9rUpvomUJpkuAZmekxOEEvC6KiC3qiE1yFDpVFyEilERSsHlcDAQzZC1pAR5ubkMJUsSf5f2EwAd4Mn8PJsSpmc0f1QjgZsp4POUQ26WIdWHgPar+J1DILcmJ7hdND8K0JFSMw4aDDxHBKO0ipKgFpP9i3f4MARKawkDBcZt4YRCQFKNjAt2K4PMeDz8/lGAaiorGYjaRikREO2jAxD8q6UlhqFkKGFlhggmIaAXUyEgR7hll9uKMOwoxID9EPpaC/4KNNhexq4uL+cZIxCaO0osFiQBGEUCcoea2zbpKsGYs5ihCKirwYhG295NQASi1cjQZEgMRIm4e3uTARItwUDTneY4oLYTBhw/nIciQxYO6DTQ5WRsAP2pNVsEUSQgWSWoCqWNAmQFqLlaj4riHFhNWpiN2dsJomgzUKRA7N9CxNsEomgdaBNMWNGFYx39C0lWCMgcAYpd3SXFp7PrSimYtFJVvwHo/DztX/+oOAAAAABJRU5ErkJggg==",
     "wiki_name": "Guthix mitre",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guthix_mitre",
     "equipment": null,

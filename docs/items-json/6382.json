@@ -1,7 +1,7 @@
 {
     "id": 6382,
     "name": "Fez",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-15",
     "duplicate": false,
     "examine": "A Fez hat. Juss like that.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB70lEQVR4Xu3Vr0sEQRwF8P1yLMMecnLcYbCYLBbBYjFYDBaDYDAYDAaDQTAYDAbBYBAEg8EmGPwjx3m7vPV749zdzv5AkB14cODuzof3nV2TpF//e4ldns7Xz2avk8y+jDP77PI0NvbR5WHV2HuXO5fbkekaJfbNIXyIxhBy43LtcrWSdoWabWRRKxpz6XLRPkrsx3T+eOZhADl3ORum9nTYKkrs+2QWEmoF0a1ozInLcdYKqmgH41o0nsyYHBLCAHKUDeyhS0OQ2E+FAUQjCEE0wm+FmH0zsAemNkrs19rwF4bngxBEA4gghBhAdl32moBwbnwMRqIxoSYIQNAKs50WKPyugZL8rQKGhxVj0RgfQgBaQLD5TloEmM1Bkv/G32qMTvJ20AwwOB8AABICcHNsjGylSQ5gNlzWXWq2VHyR2Q6awWgAAcgHYHMCuDEyTYqMVHAdW8LzKqLC7aAVgIjxEf7moeB6toTn4YWogJKyHRxi3ISzghEBpJuJBeFathRxjiT/8OGt0uPC3JuCcB1bijhHUr5ZelyhsxMLwjVsKeKbJGU7elxtgBC2hGdVBul2OK4Qpg6ILVXEcEnZDsflY/DQWAyDeyJBWLhByv9DPmbR92ZZcH0NEJcEvztNQEgDEFbRVrvpV7/69ffrG2gnleydQVCvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACD0lEQVR4Xu2XsUsDMRjFE8oRrkiltDi42MXFRXFxcXBxcHEQHBw6ODg4OAgODg4OgoODIDg4uAkO/pEx7+K7fo1pm7tel9IPHhw0l+/He1/SVqlVLXdpO1sLr1Gz915u37q5fXV66Rr77PS0buyj04PTfccsGkrbDwcRgkgYgtw53TrdrGWLghp3ZJorEuba6ap5KG2/+pPjmQQDkEunYTuzF+1GobT97I2DxFyBpCsS5tzpLG8EyruDuKbFkxtTgMRgAHKat+yJE/bbGwzqQmn7LWAAIiEIAkmI0BXCHJmWPTYeKuyUUNr+bLT/wXA+CAJJAEIQhDAAOXA6/AOq4ZKfmxAGkUiYmBMEgOAKtZt5KDzXcEkXpwowHFbEImFCEALABQjN9zMvwGy3VPGMz2pEpwt34AxgMB8AAEgMgM3RGNrJVAFAbTltOoUuJUbnb2S6A2cQDUAAFAKgOQHYGOorr44Q1tEl7JfoUtwduAIgwoQQYfOYsJ4uYT8ciAQoXbqDIcZLmBVEBCDpTFUgrKVLnCPENiM6XVx8OFUyLuQ+LxDW0aUKc6TLkyXjis1OVSCsoUsV7iRduiPjagIIokvYKxlIusO4YjB1gOhS4vywdOkO4wphsGlVGArvJLojy/9U5fdQCDPtvpklrK8BpJR/QUfvnXmAoFpAo5L/JJpRhfmJFzdoUmGPVa1q6esXlqPK9wRqne0AAAAASUVORK5CYII=",
     "wiki_name": "Fez",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fez",
     "equipment": {

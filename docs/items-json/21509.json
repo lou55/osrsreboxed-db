@@ -1,7 +1,7 @@
 {
     "id": 21509,
     "name": "Herbi",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": false,
     "examine": "A boar with an impressive mane of dried herbs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xu2VzW8SURTFeSET0gmBNDNhAgTMtBkI0hRkQWlKW4wtUWpa0Lamaqs2dmGMiW3ahabqQuNHXLhyqf+nqyvnvrwZoG0iDNQuOMnNewx9c39zzh0aCIw11n+XIK8uTRc1E3SvqNHHdZsOqokOsIv+figSVJ0OdjTx1hfLGtUyQTpaSdHdWYN+bDu0ecOkZtEcJZSgVzc198lPGyFej+sherag0efmFLtz2rhGd/IG/dzJ8DoiIBmJAsIKV7D/tBGirZLGIHsVi12cs2WNMDbBLiigLy0JofaAWM3JAgjWk3qaHpYtrhFAyWgOV7yY0BT73YrGEOuzQZ6jUjpIL2tJnh/MU2EmRtlMb3S+AaVDKOwPFjV6d9rgGFGAUM5gBUw+Z1Lc0imVDFNYD5Kue/O3+3jOj2tyflQhKlRzzaGdstYeXAkCF+x0hONDYR+NhlyQaCREU+kwlYsGLS05VKnYg0IJ+n4/xI1RiGhn8zpHBMfQvFS0GArf4zNcgTuAgTvKGUCZkxMdbvUtQXFT58N4mwCBuAAEl+DY4nySr2OvIjONCS7AeEDyfl4NLPlk6kaPHuQZCJHVb9kMo6IDDJ5en5CFc/x5cEcukqDtVpYBnFiAV1StmnZnqnPOAIlKJcIulE+g7lcUMdXmLSrNTFI+E+E3CIW4Crko/xxwlGUJA7fMaIAce5Kj8wnUBnhe7cq9vmzzzf+8TvBMqSapeJiy0wZDppNyiFERPcDncUbF5wMIEvT0ScWdm3y27Yhjkp2MMJCaj4QZ4AJUPOYBqXOdQAqyt1Mfkv8WAINZwOvKMO2GCuQ8oN648f0QYCAJhHlIJKK0v79AR4cr3BTueE2kgxxjVzSCfv/ao62tEhmG/Onovn/fEmRZYbfpyfEqffvaIseJ0ds3t884cf6cyLNnrw+sHvvbTmH98H7tH4FGLi+O3uuIELGe/e7SJXi2ADSk4fUrQc2NwrBnxa+uDMhYY7n6C3Ii4uokr3kWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xu2VzU8TURTFZ9JMGiZNGzKTTtqmlYFMGyyB2kUpoUCN0CgYKEohqKASWRhjIgQWGtSFxo+4cOVS/09X1577vDPTKgtavhbc5Oa9tvPe/b1z7ptq2lVcxYWHTkGeWxxXTKd7JYM+LLu0W0uHwI57/lRCp9pIJFQkGJ/PGVTPR2h/Pkt3xy36vu7R2g2bmiX7LKF0ennT8E9+tBjl8aARpafTBn1qDrM6R4vX6E7Roh+beR7xTGlo6LShlCUChBGqYP5xJUqtssEg21WHVZx0VQr8mQBBBQH6vKogZA6IhVGVAMF42MjRg4rDeQa2KWv25gObUBTzrarBEMvjEe6jci5CL+oZ7h/008RYkgp5ZV14v2DeUyiFkJjvzhj09miRbUQCQpTBCJjiqE0px6RsJkYxM0KmGfTf1qPJflRT/SMJq5DNJY82K0a7cRUIVHBzcbYPiXkiEfVBEvEoDediVClZNDvrUbXq9gql07f7US6MhEWba9fZIiiG4uWSw1D4HZ+hCtQBDNQRZQBlDw74kGj2Eza8Tinb5MW4TYCAXQCCSlBsZirD32MultnWACdgBEgVDl6YPcBIqJPJRg83igwEyxq3XIYR6wCD05sDKrGOP/v9o2kC0iOMhE7rqwUG8JIaj8h6Lef3VLjPAInMpmM+VKBST9F5RWFTfcqh8tggFfNxvkFI2DUxmuDXAVtZUTBQy05o5LmDbF2fQG2AZzVfYoyNOZc3//0qzT0lRbKpGBVGLIbMZVQTI+OmxuuxRuzrAwih05PHVb9vioW2Ip5NbibOQNIfaVvjBFQqGQDJujCQQHZXOkGovwXAoBdwXRmmXVBA/gckSsitwu8C02czKyD0QzqdoJ2dadrfm+eiUCc4sVKQbeywRqdfP7ep1SqTZalXRx8wCJ0cJ+YXPTxYoK9fVsnzkvTm9e1/lAjDBIVP5b0Tji7520phfP9uqevEnUDhHWR99/c9R+dGgR3dSsBC2KoUOccQiDAMegtA4eYNrznn0Km5MvFXmW7lLiwCkEsAo+LSgFzFRcUfKycjfHL7COEAAAAASUVORK5CYII=",
     "wiki_name": "Herbi",
     "wiki_url": "https://oldschool.runescape.wiki/w/Herbi",
     "equipment": null,

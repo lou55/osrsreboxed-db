@@ -1,7 +1,7 @@
 {
     "id": 23225,
     "name": "Thieving bag",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "A good place to store your stolen goods.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADS0lEQVR4Xu3WbUsUURTAcfcL2Etf1WKSohubiWWSskiaZuFD2bZkZmommgiiJiJJlkhlCLI9YKFgiImUEURFUdQnO/G/21nvzM6Ws7tGL7pwmNm9d3Z+e8+5dyYv799vAfEOr/49bwFZmL4gD6baTcxPtsnceKsJRawv9cjaYresPrrqgXL/iazhCZCiAGm4MSsPr8iz+cuOG/OZPnc4Ub6QAVm83ZGC4ghEQ0FP5mKydCdqxnL0AjHeRn/dmpbPG2OZoRTEuc6Ogp7f7zQgHZsOxHVfNqfk+/as/Ni+Z0C+MPyo/msFcVMvkP3P43cveYI24r0OEOe7BAUcaQChxc1nN4jxVRWlybBxNmjraX/uQDpLfOcFqo9UmGisq5S62nKJVIelpuqwA/Vm+UYSRPgCaV24QaTCC9TRUisLS/WyGG+Q+HKjwblBb18MOEGvbmUP4ntAimImFTQ7H5GpmZMyOlHlOUPvVgZzCyIA2CAt6H35+dLeXCPnTp+Q1qbqXzfawTD2w9pwEvTt9cxuMTQnyEbx4zaIsaGSoBwqLDRRVlycglHQx5cjmYJoO0s4HUjHnKk/bmqmIhyWkqIiORIKpcAAfVofzRSU2IOYoXQgnRnSA4gaAhRti0hnxynTX3pgvwnOucYG+dgUE0veC0ToqjoaLjJLHFDsfJ1c72o2oGuxRnPeFW3YO5CiCPrZ/EgRNx3oPitjQxdlZrxLQsGgBAsKZGI4KoM9LSZ1IHMKsmeJvnDZQYMhNcwGNwYAiiMADUBcQ/1sPu5Lgtild4mhJVZYOlBlebGpGdLU29kkN/vaZHIkZkCKIsAyXmuOx4Y9QxmB3HVEX/WxMrPXUMSaspH+dnNktgiQ9OnsAOKxkTOQouhjBwZEyhREEXO0UW4Qu7QN8oFKgLzSRh/pUhBpAUHq3ChNFyBeO96vDiVB7EE+9iEnyE6bzhAoQCCoG2BulF0/WYNYZV4gfW7xeqGzpHuO7j/MDjVlpytnIHfa+F6fX38KHQuIJW+D2IN870NeadOb8I85Z+XpWwC7uG6eXGfXT05AXmmzQfTZryU2iHF2/WQJoqWmwCtsjB1uEJuiDdLwAdptS0Vq2PXzF0G/a6nI1Pjfsms/AaacDBNu+XnYAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADbUlEQVR4Xs3W/UtTURgH8O0fsB/9qaaNJrpYa1gmKWOkzSx8qbVGa5maiSYDURORJEtGZQzGesFCwRATKSOIiqKwv+yJ7xnP9tyzs9rcNTzwcK8753o+9zzPPfc6HAe/Ockcpv59b05anr9CT+b6VaRm+2hpulcFIzYyg7SeHqC1ZzcNKP0mqobnQIwCiEPHrD69Qa9S1y0T42/06WFFVYR0Uvp+pAiFIyAcDHqxFKPMg6gai6MJhPES/XN7nr5vTu0NxSCc8+ow6PXjuALx2FIgXPdja452dxbp984jBcIc/ro6FfrsWsstO981gzCpCSTvPPvwmhG0mR2ygHDOIH12rTktaQCCixt/6yCMbwk05kPiJGj75Yh9IF4l/GYCdQQDKsKhZgq1+ynY6qO2luMW1IeVO3kQoiIQ14UOQipMoEhPOy1nOiid7aTsSljhdNDHN6NW0Lt71YPwO0CMwkoyaDEVpLmFszQ502JcoU+rY/aCEABIEBf0oZoa6u9uo0vnz1BvV6v6TWIw9sv6RB706/1CHlMxSKLwzyUIY70NLjpWX6+iyeMpwjDo69ukEaTPXqIVHuFSIB5zoeO0qpmAz0cNbjed8HqLYAB925jcKyi3B2GFSoF4ZZAegFBDAEX7ghSPnFP9jUcOq8A5rpEguSnqs2st98ibQAh+qk763OoRByh2OUS3E90KdCsWVueJaOf+gRiFQD82P6QIk44OXKSp8au0MJ0gr8tFrtpampmI0thgj0odkLaC5Cqhz9d0VGGQGqwGJgYAKBwB4AAI16B+tp4P50HYpRlTFghPWClQs9+jagZpGop30d3hPppNxhSIUQhgMZ5rDq8NuUJlrg5aAaTXEfpaTzWpvQZFzClLjvSrI1YLAST6eHUAwmvDNhCj0IcdGCCkjEEoYhwlSgdhl5YgRumzG1oOZEob+pAuBiEtQCB1OorTBRA+Oz6vjedB2IMq2IesIJk2XiGgAAICdQOYjpL1UzUIT5kJxO8tfF7wKvGew/sPVgc1JdNlG0hPG37n99e/gscChEdegrAHVbwPmdLGk+COcY4nj78CsIvz5onrZP3YAjKlTYLQJz9LJAjjZP1UCUIrToEpJEaGDsKmKEEcFYAcDt7W/xY6UIasH1tA5TYdWQ6WozD2PzUdaQr9mgPd/gDwoFafsJwcawAAAABJRU5ErkJggg==",
     "wiki_name": "Thieving bag",
     "wiki_url": "https://oldschool.runescape.wiki/w/Thieving_bag",
     "equipment": null,

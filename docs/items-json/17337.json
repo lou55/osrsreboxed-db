@@ -1,7 +1,7 @@
 {
     "id": 17337,
     "name": "Commorb v2",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-20",
     "duplicate": true,
     "examine": "A Temple Knight Communication Orb. Top Secret!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUUlEQVR4Xu2Wy0uUURjG/f6KVtGuVdAmqEUtIogoicQKyxIxy0xMS0QREcuyLBNRK83MS6ZZw2hexst4v9/Gy3hNFJVIqmWaZi6eet7h6KcphDNOm3nhgMzm/Hwu7/nc3FzjGqePhq2PU8d2aURqLsJTshGWnIXbSZm4GpOACyFROO0b6EwwDXGvDEjIL0F8XrH8HfOyCJFP8wUqKD4VV6IfwPtWNM4Fhu00lIakwnKkvDMhvdiMZ8ZqJBdVCBzBotILRC1CUa3LYTE7qZYmAFlldXhd2YRCcytyTY3I/GBGmqESjwtKcT/HiOgXb8XG4Idpq1AnLvph7/4DjoTS5HJCVHR/RI1lEt/n51HWOYaipiHk1Q0gs8qCtLIuPDG2iYUboY55ejsWqLJ3QkDqB6bQaJ3G/MKC/FbSMYbCRityzH3IMPWIUrRvo1Lng8JxxP2sI6A0lDR1C0jz0AzaRmbxY3FRjrl/UhQzto3iTcOgWMqMMez6oCsoD/+bOHTc3V4oDeWtFtR0DaJr/BN6Jz5jaWlp9VA1WmdoGZagM/D6kFOlkEfPceNeskAd9fCyB0iT3FR19KPeMoSBqTn8XF5ed6gcrWPQGXgGnCox4FSJu0qtA7+oeJy85G8fEO2q7bGiuX8UncMT+LWysu7QRmNjp4BnVzSISmoVxGa9X7effCPj4BkQil2792wXShN1mvpG0Do4hg7rOIZnvsI6/QWWyTmxjzaWtvSgqLZdVFJrYDMgn/A7kqN9Bw9vH4gwVEcBjc1+EyDaRyACM2OG+g4UVDev2sa26YGYIdb/jF+QPTnSxIKtgGilAtLbxrap+iug63eT5DlZ29zbHk0u1gPRNiqnB2LWaBsXqKq/ahqBrsUmysN7yifAfiDZQ39apoAItxkQbSMQVVVNU+8bK+8VHGFvy9RosocIwaZtBUTbGGwFpCzjHuIXALe1A2A4a/VXIadihDS1W6Rl+gyplnEPqdefO8jBnyOaXE4Igm1Uh3ap2nMPKbtCEzMkP2yYg4E4tmeEYITZSh1VeT4b6oPNBuJQGDWatIkgm4WZ6vBxVe2iMjsEoh/bf0uLCLRxITLMVMaBIf7XsYExN+qV52O6Zo9TYfSjB/hvEK5xzV/zG0Ifc0osfzhTAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADa0lEQVR4Xu2W2UtUYRjGPX9FV5FXXQV1EdRFXUQQURKJFZYlYpaZlJaIIiKWZVkmolaamUumWTKay7iM+76Ny7gmikok1WWaZl489bzTZ8dBCZxx6sIXPhgGhvObZ3m/4+KyNVvj9NGw/nHqWB8alpyN0KRMhCRm4GZCOi5FxeFsUARO+AQ4E0xDzItCxOUWIzanSD5HPS9A+ONcgQqMTcbFyHvwuhGJ0wEhmw2lISG/DElvjEgtMuGJoQqJBeUCR7CI1DxRi1BU60JI1GaqpQlARmktXlY0It/UgmxjA9LfmZBSWIGHeSW4m2VA5LPXYuO1+ykrUEfP+WLn7r2OhNLk4YQo73qPavMEvs7NobRjFAWNg8ip7Ud6pRkppZ14ZGgVC22hDnt4CdAeV1dHQGmo6BkXkLr+STRYpjA3Py/fFbePIr/BgixTL9KM3aIU7bNV6kxgKA66nXKEShqKG7sEpGlwGq3DM/i2sCDH1DchihlaR/CqfkAsZcYYdn3QFZS733XsP+JmL5SGshYzqjsH0Dn2AT3jH7G4uLhyqBqtK2wekqAz8PqQU6WgB09x9U6iQB1y97THOk1yU9nehzrzIPonZ/F9aWnVoXK0jkFn4BlwqsSAUyXuKrUOfCNicey8n31AtKum24KmvhF0DI3jx/LyqkMbDQ0dAp5ZXi8qqVUQnfF21X7yCY+Bh38wtm3fsVHbNFGnsXcYLQOjaLeMYWj6MyxTn2CemBX7aGNJczcKatpEJbUG1gLyDr0lOdq178BGVdIEhuoooNGZLwJE+whEYGassK4deVVNK7axbXogZoj1P+kbaE+ONLFgPSBaqYD0trFtqv4K6MrtBLlO1OYmzAaAOJo8WA9E26icHohZo21coKr+qmkEuhwdLxfvcW//jaqj5vce+tUyBUS4tYBoG4Goqmqaut9Yec9rYfa2TI0me4gQbNp6QLSNwVZAyjLuIb4BcFvbaZeaP/VXIadihDS2maVl+gyplnEPqdufO0i9jtgJo0aThxOCYLbq0C5Ve+4hZVdwfJrkhw1zMBDHeo0QjDDrqaMqz2tDvbDxtw6yy3Y0aRNB1goz1eHlqtpFZfQgDoZRY/23tIhAtguRYaYyDgzx38f6ACsYc6NueV6m6nunwehHD2YL4XQY/fwXEFvzr+cnv5uhKvjCWB8AAAAASUVORK5CYII=",
     "wiki_name": "Commorb v2",
     "wiki_url": "https://oldschool.runescape.wiki/w/Commorb_v2",
     "equipment": null,

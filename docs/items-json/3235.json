@@ -1,7 +1,7 @@
 {
     "id": 3235,
     "name": "Symbol",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": false,
     "examine": "An alchemy symbol{{^|No period}}",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAfUlEQVR4Xu3WwQqAIBAEUPtKr/3/TxgiS7VkzS7KSswD6ZA7zMHDpuS2lT3nUr/6T4BWRk5wqXuZBUqxEGKpNyRqCTlERERETrNXCTi/7TXnsgUPgkz5s1dSY76+CA3Bnsu85utLnwMmfyjUG+pcdnDly8u/npF09uh8CnQAwzbkXyJJQQ8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAqElEQVR4Xu2XSw6AIAwF8SYcwduw9f6XwDRNg5ZfqRpI7CTEha8vs2BRnFOzxSOECF/+ZwIoQ2ey1F1mAam60O79DKnlhID8DoHMRCEA7gyeBWQQEllCxjAMwzAMEV+voeJ+3GvSbiweFDLUX19JeVLHYD8PiobElGWa/TzEB55tg32hrJ+HugNDKIRqQxQuDAyi6k8vCDqNsAJF//UF0Q0r4N1v9/+HE+EBEN95tkLIAAAAAElFTkSuQmCC",
     "wiki_name": "Symbol (big book of bangs) (Naphtha)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Symbol_(big_book_of_bangs)#Naphtha",
     "equipment": null,

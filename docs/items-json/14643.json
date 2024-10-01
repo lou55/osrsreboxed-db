@@ -1,7 +1,7 @@
 {
     "id": 14643,
     "name": "Steel dagger(p)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "The blade has been poisoned.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABW0lEQVR4Xu3VwSsFQRwH8P01bdvb5KKUFL3EgaJcvIPkQHkXV1fq7Ul6OXGSpJUk8nIS6eWgvNwUUQ7K/6Ac5B/5auZn7bx9ruY3B9/6tTVzmE+/mZ0Jgj8PoTgiFA0hLCWh+RZnHSaHZCUIaocIgwiNNDXlFaie1EwJg9oxds1UKv6A/jGc30FeYbzqjlcYwa3S6QQ5xtiLdWIcbxXh6LD0vSBXEeQQo0PY3IgM6vyMYYIYHcLKcojtrQgnx4y6uY6lMDqE+TmFpBZid4dRlxcl3LZi3N/F1lY6DaG6oLC2GmIvjXDayFGPDzFeX7pcowijfQGmygrr9egHddVk1PubUxBhsCfA5IDC7IgyC+tDfrDPKIEt4+5MDzEmGxOA6BCGe7k7i+M2SCyEiX6F6pgnGN2d7NwUZwVC5i/6/Oj2AcSY56fs4hMNmWdCPxH5TSwesu4Yb+IVRiZfocFc0MsfgJgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABd0lEQVR4Xu3VQSsFURQH8DlN0/Qm2SglxZNYUMjGW0gWlLextaXerKSXFStJGkkiLyuRZKHIThFloXwHZSFf5K97T/fNnRlb587Cv06vmbe4v865c6/n/XkI+TeOoiCEpTjQv/l/BZNCTKnniWrVBSoLcQwitJJEV6lAzbihyzEoi7FrplYrD8jGCIJKhVH5HVQqjKN9o1IE/Y8qTREkjLEvyCJGeN8Qjg4rekFTeZB4dzY3Qo06P2OYQ4wKYWU5wPZWiJNjRt3eRK4wKoT5OR9xI8DuDqMuLyq4v4vw+BBZoxQNob7gY201wF4S4rSVop6fIry/dUijCCM9HqYGfKw3wzbq+opRnx8MEhodob/Lw2Sfj9lhXy+sNvnBPqPMyAT3EndnepAxvGh6BBiIGGaom7uzOGaDPE8YYkIY7/VRH00xwgA73B2zbxxjVEh/Rd9fnZlROQpjXl/44HPcHdLXhLoizEnsEGNC7TPGcXfslArDkcb8AG+1ow8uZvGoAAAAAElFTkSuQmCC",
     "wiki_name": "Steel dagger (Poison)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_dagger#Poison",
     "equipment": null,

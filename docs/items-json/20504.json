@@ -1,7 +1,7 @@
 {
     "id": 20504,
     "name": "Decorative armour (broken)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": true,
     "examine": "Very decorative armour, but it's broken.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABc0lEQVR4Xu2WQUvDQBCFu5QiDaEhNCTYoqLQgyJKD4oeCgoKioKCoigoioiiJ/3/8PRLmNrSe6dgHyzZPe3Hmzc7qdXm+h8KmlxuCur1mlpdWVBRNNRO64rjuidU0PFRqn4/VrdbQQHkBBWUpsu6vsp0etLW/l5LW5tRCeYGlGVrur8rdHmR6fAg0e5OrI31SI1G5Ac06tJgkKjZbPkDJUmndCmK2kMgB6igz4+uXl86enwodHuTDwNO100ZBgW9v3X0/LRYlgxnACJHwLkBUSqCbUAsAu4C9P21VLpBoAEi1OxxyQUIh8wdQkyogeE9cgEiP+dnf50FEO8Q48QFCHd4oa3NAQKG19oFiO4ymGqGFWPnKUOFslQ4YgOVs+1dgOgoW7hiY4S2dwh2+M3Kdjk+GB3kZ3SUUL6pA9nlLM4G5ACDKiAWIEOgmJ80RyDc4TsTDuV5b6JklicXIAOYESBUQViJZgAIcbFdbns3mLnmGtMPtk0Qt4cmT+MAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xu2XQUvDQBCFu5QgDaEhJCSYoFYhB0XUHhQ9FBQUFAUFRVFQFBFFT/b/w9OXMEna4rE7Bftg6e4h5OPNm52m1Zrrf8hgcqnJIM87WF1ZQJI4CIM2PK+tCWVwchyg3/eQZSUUgZSgDIJgGTfXEc5OQxzsd7G16RZgArTT69mEMoiiNTzcJ7i6jHB06GNv18PGugvHcfWAmi4NBj46na4+kO+nhUuuG1ZAAjX+1BRl8PWZ4e01xdNjgrvbuAo4u04csuiSwcd7ipfnxaJkdIZAzBHhVEpGIJaKwRYgLgZcBWj4vVS4wUATiKHmni6pANEhcYchZqgJw/tIBYj5uTivO4tAvIc4TlSA6A5vaGlzAhGGt7UKELtLYMoZloycrd9DLBUdkYHKs+wV5pkpOkoWXZExwrZXCLb5zcp2MT44Opif5ihh+awDycu5eBagJox1IC6CVEAe/6RZd4eqHeLvXw6NPzVFGcRxPlEyyZMKkADMCBBVQkiJZgCIKr/FypfX32aWO2xUzZfLXg1mLk39ANXvOkqleFlOAAAAAElFTkSuQmCC",
     "wiki_name": "Decorative armour (ranged legs) (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Decorative_armour_(ranged_legs)#Broken",
     "equipment": null,

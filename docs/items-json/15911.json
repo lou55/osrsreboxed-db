@@ -1,7 +1,7 @@
 {
     "id": 15911,
     "name": "Pink elegant skirt",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "A rather elegant pink skirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xu2W+0vTURjG/f7QLxKFEEiMJiYqaTgdNCfOGyZLG7i2ZjZvuWbTNWfTvGVaizEsSbpHkVHRna5UKkrSf/bEc9ZZX5frAt/vhPCFh8HYOB/e93mfc7Kytur/LwXplfFScMkRxbh9HMG6AZyw9sBd4YK9xA5bQfVmQCm4eewG4s44plvOY6hxCL5qHzxmj4DaFKDHPY9wu/0WLh+Z/QUqe1t2JqEUvD31Bs99z3C/4x7mj14V4xttOov+2gC8Fi+s+dbMA708+SJtlxxlDuRuz80ElILlyNI6oIXOB7jedg2x1ljS5BnskoKVkWW8D7wTQE97nwigu947mHNfwYXDMxg+GEGfzS/Mbcwx6gmlYG3ma1ogeolbd+7QJAbrQ8LcJoNJX6DVyVUxMgK97nslgB52Lwggjo1A7BINTi/pmEkJGHZnMfQFHwc+bAhEcxOIXqLBdcykhHeWwovrgLj6BOL6SyCZ4ARieusKxHGlAnHTCMTklkD0EYG6KjtRW1irNZSC2fopxOsmhKK2EcxURzBhDWG0cgDDlgDOHPAjWNEDv8mL7v0eHC9xwl3UAkdBEyy7y7UHmmuYTkLFasY2hBo0+xAo70JvWTs6Sl1oK3YIoBqDRUhDqATQn6BSu0QgZ6EdjXk2IU2B5hsvCv0OKrVLcmzNexuE2C1Noahv0TVE9gWFwVfHVoROF/nRX9grTE6De4xOtBqaYdpZ+gNALU0rkdTh4oDYNopgEkgmd3ueG649DlTtsqB0R7EeILKUZEeYR1KEkR1iDBCIXeKdZs7R+epgV3j45+AnIWYSP5lLU1Vh4aWO/DYBxDxil36OTtNSkkbm4TQyJWHUQOqg5JbxKaILEDdKHkwRSMIQTG6bfAHw4cZN41NEY6AEDA/kw4yHSiDe+mogfk8fyScJ15/rrnGXlCQMN0kNpF5pCSRfknJsDEg+RTQFkgdxHGqI1N9JqcfG1GaXNL7500GkK/Xv//W/W/V39R36CSqSiaa/qQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xu2W+0uTYRTHe37oF4lCCCQkL4lKGk6F5sR5w2RpA5drZvOWazZdXprmLdMyRCxJukeRUdGdrlQqStJ/9o3vs5757m0rkvddER04DN7x7vnse77nPGfLlv/x74dA/Ex4CFx0TmPUMYpgZQ+O2zrgLmqEI88Be1bZn4ASuHH0OmZds5isP4eBmgH4ynzwFHskFL8vzMhIJJTAo46HuNV8E5cOz/0AlbQ1KZEqCbw5+RrPfE9xr+UuFo5ckeUbrj2D7ooAvFYvbJm2RKoUBnpx4nlclZwFTqRsS0mESgIroeUooMXW+7jWdBUzDTMRkydQJYHVoRW8C7yVQE86H0ugO97bmHdfxvlDUxg8EEKX3S/NnZacZqZKAutTX+IC0UvsurMHx9FX1SvNbUm1mKmSwNr4miwZgV51vZRAD9oXJRDLRiCqRIPTS2ommQAUhqE6S72f8aHnfUwgmptA9BINbuJMCntnuX8pCoitTyC2vwJSE5xAnN6mArFceiB2GoE4uRUQfUSgtpJWVGRXGG1sgbmqCcxWjsmctg9hqiyEMVsvhkt6MGgN4PR+P4JFHfBbvGjf58GxPBfcOfVwZtXCuqvQaJUE5qsnI1Az5SMxofqKfQgUtqGzoBkt+Y1oynVKoPJUq0wDVQoD/QpKrxKBXNkO1KTbZRqoksBCzQWZP4PSq6TKVrenWibVMlQl5tfpdYT2BqXB10ZWZZ7K8aM7u1OanAb3pLnQkFoHy4787wAbSYUMUokRntT9uQHZbUyCKSA1uZvT3Wjc7UTpTivyt+dGgRgIwxARRTiPVBJGKcQxQCCqxDutONnkq4Oq8PBPwY8yOZP4ybk0UdovvdSS2SSBOI+o0kbpDA0RMTIPp5GZCkYLpB2U7DKuIiaoJGRHqYOZBFIwBFPdpjYALm7sNK4iBgOFYXggFzMeqoB462uB+Jw+UisJ25/trlTS//ImQ0Rg2ElaIG1LKyC1SaqycUByFTFQJRE5iOXQQkS388Zzbdk4tamSuvn1v77JiA2h/8ex4GK9q31n0xEPIl7owX/n3b8yvgFoA2EMpgpqmgAAAABJRU5ErkJggg==",
     "wiki_name": "Pink elegant skirt",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pink_elegant_skirt",
     "equipment": null,

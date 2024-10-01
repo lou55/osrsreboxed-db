@@ -1,7 +1,7 @@
 {
     "id": 17347,
     "name": "Water rune",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-20",
     "duplicate": true,
     "examine": "A water rune.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xu2WXU9TQRCG2auGvwAxhhAxiAExiBhEMIiIGAQRERH5EBERwYrYIIKI2AYRoygx0cQL/+iYZ06m3Z4o0k9vOsnkbNvt2ee88+7sKSsrRSkKGk7+nUULJ9e6uuRye7tcaGmRjtZWOd/cLGcbG+V0fb2crK2V49XVxYJyMtTXp2lQPtCZUw0K1VBXp2AFhnJy9+ag3O7vl8HeXgW6crFDOtvaJFIeTea5piZNAywQlJPp0dE0oOvd3Qrlw5AAohrlJFEvz1BOFh9MK9C9W0Ny58aAQlG2MIzl1Uudqh4lBZDME5ST9WdRiT6cUaCpkRGZGB5WMNQKg/iJegZmquUBysnmi2V5ubAgj8bHk1A+WBiEpKQDPT1aVqBQiislzBHKSWJ1VTaeL2nZwlBkGMYvKVBmfvNcjp5y8uH1umzFYrI8NydP7k/J48mJtPKFgShl2PwAmWo5Qjn59HZTVXr1dFGWZmcPhGJsiVKoZGUz1QDjM60hCygn33d2VCXzEganfD5UGMjKCYSpgmp+OYGiVwVQhwZz8mv/q+wnEkkvxebnVSnADCoMw3d+ohKK8CCUnp0LHKUE6lhVVWZQP/c+y5d4XOIrK3ozbkr6UICw6xjPjI1psijqMEYp7sV/eCjU5krS0csjkcygfuzuyt67LTU4frKbGRSLUhZU4jOq2LmG79ihlMqgUAuludIWMgQinHzb3laT4yeg7CkNynyCcYFANRRiUWsb/J7yTXAKMD9DGAunKn18s6F+Qi1rCXa8oAJ+sac3CExs4JTWh8oSxiLoTSRgBmctAa8cqajQRcxngKEUY5uHenl8RUl/uvdra8kzj4X87Wy7Ek8drazUsTVZfJcnoHAERwy+MjVSb41OvQaQGRcoQJmb4ZbPJJy2BRZip7HDfKhUBnNRiblZduzDhlOTowA7h9P9RE3NXxYMQxYsglcW/EEnLuIL/0HxpzKVohT/N34DUeMqGrhuzs8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xu2WXU9TQRCG2auGvwAxQogYxPBhEDGIYBARMQgiIiKCiIiIYEVsEEFEbIOIUZSYaOKFf3TMM82U7anBln5w00kmZ9uenn32nXdnT0lJMYqR13Dy/yxYOLne1SVX2tvlYkuLdLS2yoXmZjnX2Chn6urkdE2NnKyqKhSUk6G+Pk2D8oHONtQrVH1trYLlGcrJvVuDcqe/XwZ7exXo6qUO6Wxrk1BpOJHnm5o0DTBPUE6mRkeTgG50dyuUD0MCiGqUk0S9HEM5WXg0pUD3bw/J3ZsDCkXZgjCW1y53qnqUFEAyR1BO1l6EJfx4WoEmR0ZkYnhYwVArCOIn6hmYqZYDKCcbr5bk9fy8PBkfT0D5YEEQkpIO9PRoWYFCKa6UMEsoJ7GVFVl/uahlC0KRQRi/pECZ+c1zWXrKyae3a7IZicjS7Kw8ezgpTx9MJJUvCEQpg+YHyFTLEsrJl/cbqtKb5wuyODNzIBRjS5RCJSubqQYYn2kNh4By8nN7W1UyL2FwyudDBYGsnECYKqjmlxMoelUcKm0wJ3/2vsteLJbwUmRuTpUCzKCCMHznJyqhCAuh9Oxc4CglUCcqKzOD+r37Vb5FoxJdXtaH8VDShwKEXcd4emxMk0lRhzFK8Sz+w6JQmytJRy8NhTKD+rWzI7sfNtXg+MkeZlBMSllQic+oYucavmOHUiqDQi2U5kpbMKCGior0oX5sbanJ8RNQtkqDMp9gXCBQDYWY1NoGv+/7Jn4KcL/BZABEOFXp87t19RNqWUuw4wUV8Iut3iAwsYFTWh/qkDAW8d5EAmZw1hLwyrGyMp3EfAYYSjG2+1DPXlGygLFIXt3H1dXEmcdE/na2XYmnjpeX69iaLL4zoOAMGYetKv6w+BGDr0yN/bdGp14DyIwLFKDcm+GWzySctgUmYqexw3woS1sAKnGvdeycqJQaTk2OAuwcTvdT1dWJCZO9khNDpxPxVxb8QSc2lf41YSpk3iK1TAWY9ODwV3/kMMU4ivgLm9RSPrAc0HkAAAAASUVORK5CYII=",
     "wiki_name": "Water rune (The Slug Menace)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Water_rune_(The_Slug_Menace)",
     "equipment": null,

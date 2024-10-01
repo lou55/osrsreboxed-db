@@ -1,7 +1,7 @@
 {
     "id": 15178,
     "name": "Grapple",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "It grapples and it's a hook.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA3UlEQVR4Xu2UwQqCQBBAnUOHRBLpICgpIhVqaApBhwiCIIgOQfT/nzIxU5spHnP1MA8GZxeWeczOahh/BbCOrn2tAFbVE7PNFeP48CMAmCRnXASVbilAz8u4aJ7fGrnjBOi6Cdq2p1MKuCh90/TCnaIgIdrz/UKnjOI9KyShotjeMQx3Q8gQgGX54M4sl0eWISlaD9Cheqgty+Xiao7oCmmw1ZW2T/YE8OuaTmefooCmOf/mq/WJh1urUBTtcTIxO4VIVnWufbJH2j/AZl4LjoZRyQiCIAiCIAiCoIMXtH5ytzg7TLEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA9klEQVR4Xu2TzQrCMAyAm8MOG6KIh8GGm0OmTMWfgeBBBEEQxIMgvv+jRBKtc2V4cp1IPgj9gZCPNFXqqwAWUXVvFcA8v+F0dsLhcPsmAJhlB+xHuW0pwCCYctH5/Fzad7sR+n6GnU5gUwq4KK2TyZE7RUFCdBeGC16XgwGHmV0Tj1khCR2L5QXjeN2EDAG4Wl25M2m6YxmSorPukJlRI8VQt1o+F9dzRE9Ig62f1MysCeDf5brtZ1FAz+u99qPxnodbP52ZXQOASbJBx/EqhUhWd86SEPEoXgxvea8FLQopZf6kcvFGftpnfkpGEARBEARBEP6QO7A7ixadWY2qAAAAAElFTkSuQmCC",
     "wiki_name": "Grapple (animation item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Grapple_(animation_item)",
     "equipment": null,

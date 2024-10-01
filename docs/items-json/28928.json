@@ -1,7 +1,7 @@
 {
     "id": 28928,
     "name": "Sunfire splinters",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Vaporised material from the sun.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyElEQVR4Xu2VX0hTURzHPUTIvRyuD0mRUVJikUlESBgM8iGJIhZW66n1D61WJo5WRAwq+mNkVBgjRixGjPYgCD4MBB8CH6QHQfBBEHwQHwIh6CEI5su3+72H6+62u4xt1iX8wn3Y+d2d89n39z2/1dT8XxIoXPmHEhhorIWHoASi2z0GFG7wGFBo60avAAlk9ukIbvYQ0GiLjtObPAQ0dlFHZ90G7wClz2nobPIEkMDSPQMxv1YCxm2tKiq1scBcv8STo25XXmBwp9t6xSo1hQW+Rw1MhSQivsK6QGq3hsi2wvWqSCDW5NYSgcU7Bn4MGehpc94wgfFW3XJnjWaTQNL8tZe3FG4ukI034OsLA4HWfCDeOk7u4u+4abV6kQQmunVEO5z2Cyyn2pGN1WHusUTgoH2wwEyvRKJLK3DNTer9oV1u7v9WAtM3JQaP1cK3w77apjvvG612Td2XCB3JAdEd95A7JTCyVy8RhVWlblL8lAb/HgeQ6Q7bNREx3TuhAGb7JJJnNIQOlXJHfZeTPV4eDCWwcNuwhl/wQM4JusN2ZXp1vA6ozQlJJ90PUu59uWa2tFlDoL4U9KpSQJmgjlvtOaBvr1S77M/ZRDMWnxsIH3YDEvh8RbfyxX3odvE7fywFxPYkLjg3UiAWzMc2/HyrAMNF+RGY7JGYD0sLioGvAIYyb1S6A0svDUzelfDvL/zPMoHe1Vv1sT69CJijYXn4uHVTma8KYSgFxBZNR+VKXuwaW8Ua85S8ZNfMKf7GQPZDy8p4SJ2tCgxlAn3yWQfMPpJId+cDMdwLz1S7BrpUu7hGUAIRduZBrpa/d1lSQDxk/qnE6A0dD0+qzdkqBpnOjferdlnOEMZRi5+vmjuUAqLtdMI+mA9zQ9c4i0auq3V7YPJdwgxfdeaqasq5wWDbQMwNP9M1Z36KnzWR2wF/5eB1rats/QLMmQ+Dst/wRwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xu2UT0gUYRjG9yNCZvgYD0mRUVpikUlISBgs5CGJIjastlPbP7TaMnFpi4iFiv4YGRXGEktsLLG0B0HwsCB4CDxIB0HwIAgexIMgBB2CYL08zTsvszM7zmq0Y03RA3PY75v5vt8+7/O+gcC/JQHnyh+UQH9dFXwEJZDYzkAt9fV+gBKI1foMKLp1o1+ABPL7VEQ2+whopEnFqU0+Ahq9oKKjeoN/gHJnFXQ0+AJIYOmuhmRIKcKUAq3bXCp3sMBsn8TjI24tLzCwc12GZbkpLPA1oWEyKhEPOoEEsrsVxLc51z2RQLLBKol9feG2hm+DGrpb7R0mMNasGu6s02wSyOj/9tIWPty+XkjVYvG5hnBzKRB1HU1u85vVgZzOrymB8S4ViXa7/QLL2TYUktWYfSQRPmDCCkz3SKQ7lRLX3IH4/cFd7L5zdxUJTN2QGDhaheAObm3DnXd1Rrkm70lED1tA5I495OVghveqJVFwf89V3EmpkwpCe2xAujtUrvG47t5xBpjplcicVhA9WK5U/C1N9tSvwZAE5m9pxvCLtFhOkDtUrnyPildhPpwgyUn3i9i9z1f1kjYqCNeUg15TDJSPqLjZZgF9ecnlMn8X0o1YeKYhdsit1QU+XVaNfNE55LY79E+Jgag86fP29mcQA+ZDK76/YcDYiiEpMNEtMReTBhQFvgIYkt5RuXYsvdAwcUcitN/MUSBgghXe1hj7o73qCmAaDctDx4xOpXxVCENiICrRVEIW81KE0UtFe5SnzEWzhfUp/lpD4X1TcTxkz3gCQ9KBPgaNC2YeSuS6SoEo3PNPuVz9nVwuWiNQAiLY6fvWXoUwJAaiS+aeSIxcV/HgBB9OpaIgk3NjfVwuwxmCse2lznnmDomByHZywryYHsoNuUazaPgar5sDk94lmKErVq48gDFluUHBNoEoN/SbXLPnx/l4DGPK7QL3i90e52meyO2C33Lxf/0t+gGZ5HD/d7lCawAAAABJRU5ErkJggg==",
     "wiki_name": "Sunfire splinters",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sunfire_splinters",
     "equipment": null,

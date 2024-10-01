@@ -1,7 +1,7 @@
 {
     "id": 11059,
     "name": "Artefact",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-24",
     "duplicate": false,
     "examine": "An ancient goblin object encrusted in dirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xu3W/WtSYRQH8D0/hTAa0SCG1NikhRm2xLlkmhu2bmY43Zxzcw2x0RZREP3/nPo+cq7nnvtcd32p/dAe+IIvcJ+P5zwvLizcjb8+DIVzK2M4eTa9TpmNVUqnHtP6kxVKrizfBspQPrth8yqT8lFP15IWtfxw6V+iDBVzz/1IFFdpNfmI7i8m5tnCqIcY2t5M2wDjvcnT21KO9oqbNrJKaF0icc8m+nmxhqGzw5bj1wUx/Brh9pW2XtgqAYUqMWoGkKGfV1+omM9TLpv98+A1HyYBOtw2BFXCe1mlGUAYhqrlMpUKBeqfnPi/HOF1Mw4kFziqNKcFPqwKJq9sZ0MgjdIgucDneAwYu1AlKAqljwB9No123NTDWAiDdHT7JEi2jVFo3QygYbt4KyOdesWG32uYRukqYT1N2TpjJ8GkOF/kGdOulX1Yt7EXgElUVJWQCRf4qE048DhRKFk1V7WiUA+WFuOghi2q7RZCcaF0ABuHku1DYoEw+beLJn09b9DVWZ0uux9CIL24EQaNq5S863Z3duKBfvRbIdDH6msL0hiuFuJa8BKFMAaH7UQgjRp03tsqoUIaokG6ihKFuxFXEYNeZjI3oUYgRum2MUDvPt518jMJQs7bRzbvKhULAmwiEOKqkg4mB8YF6jabdNxo0FG9Tq1azQYofI7XN4JQFRm5lvptL3QUSFCvWQ1dKbiYL3s9HyWDCj1LpcahgiCJQYUAQvR9hokBQtv0rkIlLjrHFjY4PaXvnwc2v66v7b+JWOtoHOjT4b7zcgUGW18fhgeeZ6vD64dR7j9/zjEEuTAuEG9pYA72iwHMaEJjWwQEr6kYEDmMEwQM1gnao0Etr2TPK4nQz4z+LtYIPsAFYgwyw0TTDv0Lde7Gfz5+A3imsjU/syk0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xu2W7W8SQRDGu58MSWNjbGIaon0h1iAGkSCVFKQNVkQMhZZSWmpDsLE1RhPj/5/RZ8kcc3N7xxWs/dJJnoQ7YOd3z8zO3sLCXdx4GArqVmKcPJveoMzmKqVTj2njyQolV5ZvA8pQIbtp9SqT8qCerict1PLDpf8JZaiUf+5JQrFLq8lHdH8x8S9LGLaIoa1c2gow9bcFelfO024pZyVdQukSiXtW4evFCkOnBx3H0/lh+DPE5Su/fmFdAhRcYij8N7e2NguUoV+XX6lUKFA+m/278LoHJgG0uGwQXMK1dGkOIIShWqVC5WKRhsfH3pND3DdRQLLB4RI3+BxAiLErSF7dygaANJQGkg3OY2BOIISxjSqBwqD0CNCzabLjZg5jQRhIS5dPAsmyMRRKN4dL43LxVoZ6zaoVX2swDaVdQj/NOMGNTYKkmC9yxnQbFQ+s39r1gUmoMJega07wSZkw8FhhUNI1l1thUA+WFuNAjUvU2CkG5ILSAlgUlCwfFKOfjE3+/bxN385adHnapIv+xwCQbm6IgaKckmfdzvZ2PKCfw04A6FPtjQXSMOwW5Gp4CQUxDIbttYA01Kj3wboEhzSIBtIuSiicjTiKGOhlJjOtjyZADKXLxgB69/Guk/ckEHTWPbR6X61aIIBNcckPBLlc0kJywLiA+u02HbVadNhsUqfRsAIU7uPzVCC4IiV7aditB0aBBBq0a4EjBQfzxWDgQUnBoWepVFTZ/EASBg4BCNLnGRIDCGXTuwpOnPeOLNjo5IR+fBlZ/b66sm8T3EexXHIBfT7Ycx6ugMHW18Nwv1637nD/MJR8+QPMVCAXjAuItzRg9vdKPhhOCKFEgOCekiARMBzGCQQY9AnKo4E69bKdVxLCn3ByP4YrrvAv4AJiGEgnciWM+i5WRD2h1lyJZg39hFr693dxk/EHh7Xv2t7wALIAAAAASUVORK5CYII=",
     "wiki_name": "Artefact (Mace)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Artefact#Mace",
     "equipment": null,

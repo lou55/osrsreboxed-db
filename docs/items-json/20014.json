@@ -1,7 +1,7 @@
 {
     "id": 20014,
     "name": "3rd age pickaxe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "A beautifully crafted pickaxe, shaped by ancient smiths.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGUlEQVR4Xu2WWy9DQRDH7ZMQqTSEkPDgC/BQUglCqqFIXatucb9UVeveVF1K0FDVkIhEUxEeeBBfcWRms72rc07KOQ/+yT996O7sb2f3zGxBwb9+XQxSraoYnO7tQlVlZdx/BJWehYS9Lhdc+Hxwd34GsUgE3qLR34BKXfQ9FoNoOAyPoRA8XF7CfTBIxv88S4twsOEhqOvjI/h8fckXUAIAF58etcHUyDBMDA3C2MAA2KxWGO7thUGLhdzf1UUu1emgTK8nV5SXU8auDg+TNqRIjADWF+YJIh0mG0if2UxOhsFfMWdtbjYNTBYgg1m7nQJhQITJDMQtQHo6TWQBI4AwBoKLMaszMxD0++mo0bKgpO0kMQY3set0pgDh0WIGuzvawdTaSsZxR1ubcoHkilEmEejM683IpHBLUxMZQbcdjiSovIIxaDMa6XjwEucOzhdvbKinY0Qo/Fo/np9/mCdLDGqqq+ni7rvdEgNzsPnxcSoTT3e3EudJEr/cgZ1typL0wIwuPNYurPDS5+UUg2aDIV4Q5QflWZI/71vxgJsry3RRlQVWMierGB3R4uQkXU5lGcqbGJQUF1OrwDqD2UkUUFXEUvoWB1ERpqiwMN4mVAQRYtqCwaNCmD98EeYS0yYMtgrNAGkEBsWB6mprtQDEqJvj4z3PnVmJ+GsQ2wMC3ZwE1AcSVVkzX5foWxophijRqzQBo56+AEQYrcR6AHfIAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSklEQVR4Xu2W20vcUBDGPU+iiCJKRaEi/gP1wYqFKhW7eMVLrVq1VGvVeqt3Xax3sV2sWqkggssWsQ/6IP6LU74JJ3v2JNUkxmQf+sHHsrtzTn6ZM5lJRsZ/PboEpTpUCdpdWabioiLTAUHpWUg6Oj1N31dX6eTbHiWOj+kqHn8MqNSLXicSFD86ovODAzrb36fTWIyN/2ZHR2h9bpahDrc26fbPJf9eUVb2UKgkAC7+oaeb3r/tov43nfSuo4O629qoq6WFOpua2O0NDey83FwqyM9nPyks5Iz92NhQbsiTBAN8+TTMEDqMHUhrJMJWYfAp10x9HNLAXAEKGurt5Y2wIWCsGxmWIM2v69kSRgJhD4DLmInBQYqtrfFRw66gVKMG7KzG4CaWJydTgHC0yGBj3Suqr6lhI25zYd4Eclxf1ovbS4IhkwDai0YtmZR+WVXFBuji+LiSJceZciJBtdXVfDwoYicZfV7xjI8RUHhaby4u/IQS9LSkhAv368yMCaRHSalgw3193CZ+n/y6d50LGcW9vbTIWXK+seCCR+9Ch3e+7k4JelFZaTZE9bj0SHsZWXK/7p8yNpz/PMaF6u0ufYTBEY0MDHBxqhnSI++TlzWaBOVkZ/OoQJ9BdmQD9WFzLxIpcwvffUy9WwnKysw0x4QKEgIMJGxh9KiAZBwVYOQbYYgwkLDAhAiUhMGoSJvsqDBpAVReWpoe2cE0x8u7z5PZi4y3QYwHAP3c2Q4fSHbltHm65NxSm6EeFbCsL/x6ROCSIEHC/AWKHAD5JIF4XwAAAABJRU5ErkJggg==",
     "wiki_name": "3rd age pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_pickaxe",
     "equipment": {

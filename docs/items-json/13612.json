@@ -1,7 +1,7 @@
 {
     "id": 13612,
     "name": "Graceful gloves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-02-04",
     "duplicate": false,
     "examine": "A sign of your grace and loyalty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7ElEQVR4Xu2VwUsCQRTGHWRZlDAkMVRSVDTUcFMQCYqCECoiQpAQ6uChQ4cOQYcOHToEHfuTX7wZXrOuOzO7NdKh/WDBw3tvfu97b8ZUKlEiBuHfn4jBXqcD3XYbdptNaFSrUKtUYKdcXheUqVsGXq/3DdSq19cBJG0vFgqQcV1NcQFELiEQumQBSEL4CyPQRjarKc5g2O+HAm3l85o8rRiM9j1e2G8/Fi5tb8NmLqcpLIAozw+Eueo8rRiMBwMORfb7gcydLu8RLbY+xyjpUhAIxxbFpeBtU8dHknApCISdRnXpdebC44UDi1MH5kcOTMeOIcco4VLQ/mj7IICerwXU/cSBu+NfA6HCl9S8Eww+Fxn4uHXh7cblLk28tCEnsuRO4G8sbu5WOPRw5sDsQMAMG9aAUOKAl6kcg7o443H4+YHGbctAT5cuL37YSYNXo+JhB0h43B3MOR+keV63klLkxJYEOumJbrF4rRh2AON7Q0B4w65GaZ5ncWwSiLrF4q2SGghHiyPDfcMrb3lsAoi6peJydMux73PhEL1D1Ai6tBr/IwmgYHH1COQ7hC5RHjYTHh9bAogeOBoBjk59AOPvEDlF+6SOjyVxlf1/BbSo+gPoJvo/K1odAULhGCweElfBTq12nChRov+rL43SpRMmgA6UAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACD0lEQVR4Xu2WMUsDQRCFbwnHERElKJEYNCYhkRjJJYIEQVGQgIqIBEQELVJYWFgIFhYWFoKlP3lkdhh3b3O7dwknNvdgwWJm9ps3c2s8L1cuAfHnXyRgt9OBnXYbtptNaGxuQq1ahY319b+CSupWQNjt/gK16vUIUH9ry5GbWsr28uoqFIPAAUVA7BICoUsZACkIvTACLS4sOIoL2Ov1YoFWSiVHI04J2O+HsrBuPxaurK3B8tJSIhDn6UCYa89zSsBwMJBQbL8OxJ3aC0f3iBebc+x5TimXTCAcG7tkZpGiY+NcdxOJIpdMIOw0rUvvNwE8X/gwOfXh7siH8dB3NJFK5JJpf7p9IKDXa4J6HPnwcExA9pxUil9SfSfMDJKA70kRvu4D+LgNpEujsJCQk1pqJ/BvLJ7cLTn0dObDzQHB7DUyA0LRBW9jNQZ7cSHj8OhAw3bGQC+XgSx+2ClAWKPidEwpeNwdzDkfFGTeTtWz5MwsBXTSpW6xeK0cd4GQe8NA+IVd7RdkXoZjU0DcLRZvVQgoegEB4WhxZLhv+MlnPDYC4m65OI/OBPq8I4f4HeJG0KXp+LlEQGZx+wjUO4QucR42Ex8/swiIHzgeAY7OfoGQ7xA7xftkj59J9Cnr/wp4Ud0XqJ8xfDDWHp9a0yNAKByDG8jzGEA/Zsycmu42w47nk9npv8LkypVrTv0A4R/kJ5WyLRkAAAAASUVORK5CYII=",
     "wiki_name": "Graceful gloves (Lovakengj) (Worn)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Lovakengj)#Worn",
     "equipment": {

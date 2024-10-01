@@ -1,7 +1,7 @@
 {
     "id": 845,
     "name": "Oak longbow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "A nice sturdy bow made out of oak.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOUlEQVR4Xu3XMUvEQBAF4BtCCPpvrCxs7CQeBOVQEFE4EOEKkYMDRQQtFBGtBAsLwc7OTvDfPXlZwmb3tpS8LXwwkLsmH5PN7GY0CmIIf0tjeL9YgUNlATPs1jVmOyXeFlnADHtN06J4fTut8DqXw0JUvV7g+lgOC1Gs6XaJy8MKL+d92KC4ZRTraMvDPm863GCJUe4/Fhe+79agMUzG4+jGhmajaDslADFpFB/fx5WkS0yMMmyuFe1okIJiFLv087yqQ3GRxyiupe/HzFDz/Qpf92JUeHPD2aRUzKYuaRTHgfTNS6FY/hgzeNKoxYFsHDAxyj06IYhZRon2ui7utOlRbgMWghiH6nfpaSZdS0x/zzM8nMpBjEdxr7s7yQwlPBHEcW8ePxJYWaGEp8tU3OTODpUR5j9/m19EWwXGocgUNgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVUlEQVR4XtWXsUoDQRCGbziOQ58ijxArCxs7OQNHJCiIKARESBEkEFBCICkUEa0ECwvBzs5O8O1G/hvWvZ1cvbN+sJDbC+Tj39ndSZYFEIfPphC/32yxSCUhRnxUVTwZFvw2T0KM+LiuGyl8Xo9Lfp2Zi4VS1W7OywtzsVAKY3xY8O1ZyS/XbbGocptSGOcHXuxz5eSiEUr1e70/MRS+S0vmo0E8GgzUDxPXe3mTlIEQ8FLtOSzfxyL6sjm0FPH+Tt4cDaYpaSmk9PO8bZcSilxLoZa+HxOTmp2U/HVvLBXWDvF0VFicTQ4v1Z7DcWC687qkMHwbE51uqfmp2XEAtJQsnaEQ2JTynYEJ0m16KbmAzVPSncHTRGpJfzMi7TuP+OHKtLgdXgp33d2leUrASxl2BBrZefiTgJFASkCkDLvLLuTkdlL6rRGy65BQIillWVIy/5pfCa4eJVaxrzkAAAAASUVORK5CYII=",
     "wiki_name": "Oak longbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_longbow",
     "equipment": {

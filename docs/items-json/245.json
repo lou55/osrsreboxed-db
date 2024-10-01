@@ -1,7 +1,7 @@
 {
     "id": 245,
     "name": "Wine of zamorak",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "An evil wine for an evil god.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xu2WXUtUURSG3VfSpXQhDTjhgIpOjB+oGWYaZmaGaWZmZpqZmZmmZoP5kZkZRFR012233fb/VjxrWOOZMx8Mzjl6UQs2ePYZ2I/vete7T1nZ/wqsnBS3TqScjA4OytjQkDy4MyKP7o3J7MSEzE9NyYvHM7L6bF6SS0vSkkicBJST2/39MjIwoFD3h4fl4d1RmRkfV5j1hQWFebu8rLA9nZ1hq+Xk5rXeNJSpBNDK0zkF2V1bTS9U47dtTY1hQKVadeNqj9zq69ODTKW5yUlVZ//NhoJsv1rR1mWqFHg56e3qkuvd3aoSUKjEoc+np+VXU738bonLn7aEKmXqNMbjYQFRTj3Df21Kbdecl8O6mHxrqJGfibo0GL8DPkQYK6ftoV1XOjpkIRqRtVhVFhjvL9TXe0wdsrm/f9hX79C2y+3tqhgQPNMq1KuKRCQWjUpDba3GwKXW1jCgnJoWINbG4qKCAUMm0So8BgQKmucABTqEfEqpw/rx8SC9mC7MbYdbRllovnwyq3v4D9iAoJx83tnJAmIPGJQik1CK6bPQZJ/3gAFL62hliVBO9l6vZ8Gw2DcgFDEogDj8XGWlHk6a8x5/EZa27z+piHLqla/v93ICcV34gYBBpcwscto6YPHTMWEoJwfJZE4Ynrk2rCV+IHxDoOIbng83N/X3/H1MIKfJazB+IA7gmqAdXiDzEUBMIHtmbFPLf1KRlWlkPxTT5QXyGxsALmHWmfLyUkCsjsbcv8w/+YBoG0AsputsRUUQUPmBvrzbzQlE2wwIlVAHc5PcAUDlB8Lo+Iu7DX/kA8JDjDqpDVQJMFa5ocgfL5B39AFiWbtIcKatpro6CCAqG6oQED7ytovc4do4+gIouTKBmDy+ELloCU1/FuVSh6+Ci83NQQFRR1CftrYKAuEfrzopiJLyJ1+loAoBWbtQJiQIf6XCkikjGL2jjzKockIg3kp9qJk6qIJfTgHEW15fnCrIP1p/AeJLqOaRViyQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xu2WTU9TURCGOSvikrggNgGBpJBSUz4CiEEEg4iIQRARERFExIoIAiJBPkRETIxR486tW7f+vzHPaaY9nraI7W27cZJJes+9uefpO+/MuWVl/yOwMHKyLEoYGRsakvHhYbl3a1Qe3BmXuclJWZielmcPZ2X1yYJsLi1JayxWDCgjNwcGZHRw0ELdHRmR+7fHZHZiwsKsx+MW5vXysoXt7eoqtFpGrl/pS0KpSgCtPJ63IHtrq8lENZ5tb24qBFSiVNcu98qN/n67kao0PzVl1Tl4tWFBdl6s2NK5KjXX1Nj035pHGOnr7parPT1WJaBQiU2fzszIj+aI/GyNyq/2mFVK1WmKRpNA/hsDCGM9w79WpXbCZ+WooU6+NIble6whCcZzwBdIHTeMLQ/lutTZKfHqkKzVVaWBcf9cJOKYusDm/vruwHqHsl3s6LCKAcE1pUK9qlBI6qqrpbG+3o6BC21thYAy1rQAkRuLixYMGGYSpcJjQKCgeg5QoAswnxLqkN/eHyaT7sLcurnOKB2azx/N2TX8B2xAUEY+7u6mAbEGDEoxk1CK7tOhyTr3AQOW0lHKPKGM7L9cT4MhWVcgFFEogNj8TGWl3Zxpzn38xbDUdX+nE4SxXvn8dj8jEMeFDwQMKrmziKR0wOInrnMcCUYONzczwnDNsaEl8YHwDQMV33B9tLVln+e3Avm7/SWMnbwK4wOxAccE5XCB1EcA0YGsqbFVrZzVcY3sQ9FdLpBvbAA4hMlT5eV/gOQAQ6Ta3E/1TzYgygYQSXedrqhIQvm7/ENkB/r0Zi8jEGVTIFRCHczN5A4AKjsQRsdfnG34IxsQHqLVmdpA5eEfjcxQzB8XyG19gEgtFxOcbgvX1ubaXX6kQx0HhI/ccjF3ODb0CyBwIDqPL0QOWoamP4syqcNXwfmWlqCAiBTUh+3tY4Hwj6tOwsR5zZ9skYA6DkjLhTI+RMAwGolhSZcxGN3WRxlUyQTivyXgSHyoqTqogl9KAOJGyhclBkmF742SgRQjfgMEgt9gzWhj0AAAAABJRU5ErkJggg==",
     "wiki_name": "Wine of zamorak",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wine_of_zamorak",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6143,
     "name": "Spined boots",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-01",
     "duplicate": false,
     "examine": "Some finely crafted Fremennik boots, made from spined dagannoth hide.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuUlEQVR4Xu2WbU8aQRSFnU/GpoEQiYYSJULA8BIoBkUiVRpqtdbUEkKsjTHG//8fbj0zObuzL7PuKqlfuMl8Yu6d595zZpa1tVUsLZRE17uFkoN+V1qthtTre7JT/iRbW8X3glJyenos4/GRHB72pNNpyv5+LQVMeJov7U8VSi4vJzKdfpHJ5ESDDYd9Pa3kA5TePxoNdAPV6u6yJqrk/n4uf25/y3z+U25uLuT6+lx6vXZCcdMEgDBVwEPmUmk7ISd1KHl4WMjfu5ksFr9kNvuhD4OX4osrDcypUmY0AN/F52QKA8QpYULfz88SPGQmSvirq6neD9kqlbIjJ1MoeXy89Q5B95ACEsQX94EADyBMij6Kz8kUSp6e7vQh8BCkgLHd3QaBKB0kczeRKQwQPES5cHPcfjAS20CYKIwNmd15qcNIZsuFa+++MQaIfiMQjI2L4J5sqjDTYXH71mxuFhyFTQPI4Y1kE0vwkdJS2YUhF8afz+cchX2J4TmYmkBv9JExJ4pCKnjHBkq69ryVzMVkkQcgd96LYaZjA/GzwU7jfRR8SHkRIDW/ga+QzcDwcYsDKhULUsh9lI319VBx39T81PCp4Ccko7GVfD36LGeDroz7HRk+dzVoN6TfrEm7VpHm3o7Ud8uJQHzV2YxtbP51SQmk5NvxgQcz6rU8mG6j6sFUyyU9+iiQCuSgAe4vbxd1E5VnmZGXGgjTIQymQxi7OBYL+0AqMlW7CewHEMByHzbSAPlSEYZFbakIg8JYBLJltpthLoEgV2qgNFLZQDgAKwxk12BD3AtDux/VQEQnFDayDUQo+g65rinxEmBluPLRLm0PASoMRu9cnAw8qDAQFuXCKhbyrwdyeQnLLxrvH1tyyssGgucmBhP8xS5tqGBR5QThRCmtn/OmiEKGd0R/j1urWMX/i3+QOvRB99xsAwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xu2Xb0sbQRDG3VdiKQnBoKRBowmJ5A/GSDQGU01JrdZKbQjBWkTE7/8dpj67PHd7e7fpHQaE4sC8cmfuN/M8exdXVt5jaaEknm8WSg57+9JqNaRe35Wt8ifZ2Ci+FZSSs7MTGY2O5eioK51OU/b2ahrmYGdHp1thwt3mUuCVXF2NZTL5LOPxqQYbDHp6WwRyK0wofX447OsBqtXtZW1UycPDTH7f/ZLZ7Ifc3l7Kzc2FdLvtBUBmCABhq4CHzKXS5oKa1KHk8XEuf+6nMp//lOn0u34YvJTcXGlgbpUyYwD4LrkmUxggbgkb+nZxHvGQex5nCX99PdHnIVulUvbUZAolT093wUMwPaSABMnNQyDAAwiboo+SazKFkufne/0QeAhSwNj+aaNAlA6S+YfIFAYIHqJcuDl+PxiJbSBsFMaGzKyL1mQKI5ktF669/8YYIPqNQDA2LoJ/s6nCbIfN7Vuzvl7wNDYDoIY3kkMswUdKS2U3hlxYfz6f8zQOJYbnYGoCvdJHxpxoCqngHRto0bXnrWQtNos6APnr/hlmOzYQPxuclD5y6+wXKS8CpOY3kLJF6xaGgeHLLQmoVCxIIfdR1lZXneahqfmp4auCn5CMxlby5fhAzvv7Mup1ZPAyVb/dkF6zJu1aRZq7W1LfLseAwubht4/D2MbmT5eUQEq+nhwGMMNuK4DZb1QDmGq5pFcfB1KRGgzA8+XNoh6i8iIz6lIDYTuEwXYIYzdHsnEomYpt1R4C5wEEsNyHtTRAoVSEYVNbKsKgMZJAtsz2MKwlEORKDZRGKhsID0C6QHYPDsSzMLT/pRqJ+IZcI9tAhKLvUOvbEi8B0n5TpwbilLaHAOWC0TuXp/0AygVCUi5ksZBPsx1EHMjnJWTYNNk/tuSUlwOk2A7D/Q9BBVPaUNGmygvCjVJa1qSEMWEX8YFuxpvGz7gZr3lFuJBJjd2/J6Vb8x7/TfwF9i5OoYOL9l4AAAAASUVORK5CYII=",
     "wiki_name": "Spined boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spined_boots",
     "equipment": {

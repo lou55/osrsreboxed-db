@@ -1,7 +1,7 @@
 {
     "id": 13388,
     "name": "Xerician top",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "The forgotten magicks of Xeric imbue this garment with a little power.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu3XzWsTQRjH8Q2LiD1EJKFgRUuVIvRgRQQvPXjx4ElFUVFRVFT0JopSiuJLKb5RKPUFlRaEUkvRiuBBFEX/snG/s/kls7OTms1G8eDAQ/Zl0vns88xMtlH077eKCUfo/h9vFfN44rB5OH7IxtTNg2by+gEbQizMnDVvps+Y+SenAyj/IUrDU5BQgBQ+Zu7RKfNi6kRmYM6550cWVQhZMdO3juRQfAJRCPRs8riZuXPU9uUzBKK/i/62PGG+LF7rDiUQx8qOQK8enLQg9W0H4ntfl8bNj5W75ufKfQsqhOGP6qkFYtAQaPbesSaI4xBocfZcBsRxh6BKpgwMpMnNuZt2BQiVtx1o+fmF3oGUJe5tGIxsrKtHpn8kMtWBKIcjaz7o/cuLTRBRCKR54YK4DgBMX4IYGo3N5uSc6B9shZ89gT68vpQFvb1RHgQE1PY9sdm2K7YoxcBwZGrJ/b5qZNY2Yk01BQL6OHe5dyCubUwGFWhkLM6hyJRQ1XoKoqx8KlsCfX93u1MMLQvSRN6UDA6G2LE3zqAEc8sHhPIyx/rqrWx1AaK1JqhAO/fFNkuAdu+P7blQoWyBqA2nKGG6zhDLlgy5IA3O029JPgmyphBMYTPFKmxkywUV2BTTJd8OxNNzPDSWgmrJgIr1STZUPjIEQhm1K7PeKlkpkMrFUzMQ5/XRFob5RNAHFABlhGuab6y+0iDCzY6ecmsDIIgCECtR/TTX9CCUjF26QwwtXWE+iPK4u7JAfgjEck8HrdjMshUIRIa6AvllcwMQ88gH2dJ4ew/XtIP3BCQU1/VOI5AfTGKy6IPYMF1QAVQK8svWKYjlz4pyQbomEHtQgX0oC3LLJhDvNRosBGIzFIjVqHnVNYhV9jsQP5ahueWG/8r6eeFqOZBfNq67IL1NEvwA63eP76kvb5dLT8+bT/NXmiD2oML7UKhsLojj1UCA1bcnoFDZXBD33P9KXBD9AJGdHoBo+fkQChfjhg/iXdoFKQqAOm15pMKdP38RtFrLI/Pxv5VrvwDg01jNVSBv9wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADK0lEQVR4Xs3XzWsTQRjH8Q2LiDlEpKFgRdsqRejBFhG89ODFgycVRUVFUVHRmyhKKRVfSvGNQqkvqLQglFqKVgQPoij6l4373e0vO/tkUpMmSgcesi8T5rPPMzPZRNH6byUXjtD9f95K7unYMfd49Ggak3eOuIlbh9MQYn76gns3dd7NPTsXQNmHaBuegYQCpLCY2Sdn3avJ04WBOeeejSKqJWTJTY0fr0PxCUQh0IuJU2763om0L58hEP199I+lMfdt4ebaUAJxrOwI9ObRmRSkvo1AfO/74qj7tXzf/V5+mIIYY7ivLw07umlZ2vXUAjFoCDTz4GQNxHEItDBzsQDiWCA7ummlQhkYSJObcz/tChAqbyPQ0svLnQMpS9zb0hulsakaue7ByFV6ojocWbOgj6+v1EBESyDNCx/EdQBgygmifyh225Nzors3D5s9gT69vVoEvb/dPggIqN37Y7drb5yiFD0DketK7pcrkdu4EhsqGRDQ59lrnQNxbWsyqECDI3EdikwJValmIMrKp7Il0M8Pd2uYlkGayNuSwcEQew7EBZRgfvmAUF7mWLmaZ8uC7OgNWj5BBRo+GKdZArTvUJyeCxXKFoiugQwlTChDduRAy/YgMuSDNDhPvyP5JMiaQjBFmilW4Uq2fJC/KdrRTcuWfCMQT89x/0gG6koGVGxOsqHykSEQymi6Mqt5ydoCqVw8NQNxXh3KMcwngj6gACgjXNN8Y/W1DSL87Ogpd64ABFEAYiWqn+aaHoSSsUsL0xSIFWZBlMfflQWyIRDLnX4EmWUrEIgMNZkdWg6yZfMDEPPIgtLSmL2Ha9rBOwISiut6pxHIBpOYLFoQG6YPEsqOHmgZyJatWRDLnxXlg3RNIPagFvahIsgvm0C812iwEIjNUCBWo+bVmkGssr+B+LEMzS0/7Cvr1/kb7YFs2bjug/Q2SfADrN89vqe+vF0uPr/kvsxdr4HYg1reh0Jl80EcrwYCrL4dAYXK5oO45/8r8UH0A0R2OgCi1c+HUPgYPyyId2kfpGgBFEXa1lcLC/TDnz8dATXbLLIZrCLv+5+aRYbCfmddtz8q5qNZ3QKn9wAAAABJRU5ErkJggg==",
     "wiki_name": "Xerician top",
     "wiki_url": "https://oldschool.runescape.wiki/w/Xerician_top",
     "equipment": null,

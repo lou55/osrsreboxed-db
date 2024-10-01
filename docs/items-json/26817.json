@@ -1,7 +1,7 @@
 {
     "id": 26817,
     "name": "Ring of the elements",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": true,
     "examine": "A mystical ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xt2X/UtTYRTHfQiRiSSiJCo6nGxDJ5vJWIqKitJaC1+yhr2JWmYWRiESREgvIAQR/dD/e+LzXM59c0yb9/qDB77c3Wd393x2nu85d2tpuZ5hpLGuNIzMTQzIdL5fSrk+mRzttSpkbkku1WN1hWBGlkpJF4hjPQE12NtxFVBGhvtvulIwtFAckrtTw+6aV6lYwvOHH4it0oohXgOGgOKaGKCMTZwe7JKezoQLhn/C2qqOS3ui1Qo41iIGMnYbFIhErHHMZkcCSiYHXCCu2VnNWyg+FyGUY2KAqA7J6CZ7LORcAaNAVCUMpefhuzcRxvrBXx3O/UDhCq0tpN1reQ1gZ0dbdECVmZQ1rHpnYylTFwgBRFX0WqpDt/V1t0cHBAA3pms4V5+EYVTe9jgDVBUZEN+YKmnX6FTmGO4yKhH0izcugve9UPg/HJRC6XzRxwTJWUdMZm86Nw2h4XiFFkf+AecvO++xFh4DfqlnLtlZzrzRsa9bQGJ9ZnGulfE/MvxbiLLJbgvUpJGdb6Wzhm9N2Rn5vObmAKhfSMwa75PQXz2VwjQBZGS7VpZH1TlZnJmQ0ZFBSSTa7ADkZiQlORDAkEy3MNjKjfRf4QA9WJ6S2dK4pIcHLBBDzBtkQamxgWyiAueFkVdP78t6ZTYA1NiMjtcAiuH3jpGDrRWprczbLVOgxkmcYccWxgL043hbnj1ckvJ80fVQ4yTOttFdwbaPJIz8/vrG+gigXCYpra03zkngbJn+IowYiDBytP/YbhtQd26P2q1zkpxVZbEk08UxWx26MBagk48v5MPehmyuLcpqedr6CTAqxpFzOnF5btKan7Wuzg7391HkQD+/7Mnnwyfy/uW67D+vBqDCMMVCxoJSxRhgCCN/Tw/l9NOuHB/U5N3Omh0FCuWHmZ/KW8j8WOoC5r9UGPnz/a18O9qyfgJqd/Oe7T6meL0KxQijYeTXyWvXT8wnug+zY2R/dTzTxx5OJ+EnoPATVWKS04F0F0Cpocj/2pwXZ9v9rK5x/ANrFbOPas6x2wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xt2X7UsUURSH9xIiK5KIkqTo6oorurKaLJuioqJkZviSJfYmaplZGIVIECG9gBBE9KH/98RzhzN792pTu874oQM/Zu/dmTnPnLfZTaX+TzMSrUs1I1MjHTJeaJdS/rqMDrRZDeeuST7banWJYEbmSpkQiON5AqqzrfEyoIz0tF8NpWBoptglt8Z6wj2N1Eh3dxJQ5fpwgUiVRgzxGTAEFOckECVjHfd1NktrUzoEo358bS0NSUO6zgo49mKOkrFpUCAcscexv7+3QplMRwjEOTsrBQvFdTFGKShigIgOzugmexzOhwJGgYiKD6Vr/+41mLH14EaHtQvkR2h1pi88l88ANjXWx5U6I4sTWVuwWjvrc7lzgRBAREXPJTp02/WWhviAAODGdA1rrRMfRlVOTzBAVbEB8cRESbtGpzJHv8uIhAIFzsvjgnWVQOWLfSmUzhd9TeCcfcRkLk9nVSqlIFXDcFNaHLkDzg0737HnjwFXWjMX7Kxg3ujY1xTgWN9ZrDUy7ivDTSHqz7RYoBoLOXgqnTU8NWFn5POZmwOg9YJj9vgeh270VApTA5CR7Y0Fub80JbMTIzLQ2ynpdL0dgNwMpzgHAhicaQrdVo5SlbUTAN2dH5PJ0pD09XRYIIaYDjJfWthAuhGIku81wow8f3RH1hYnK4DctvXFPrUGkHZUlU6jzMjB1rJsLE/blClQdKiDYUcKEwH6erwtj+/NycJ0MayhaCdB2uiuyraPxYz8+PTS1hFA+VxG6uqu/BWIlOkvwsqpHIsZOdp/YNMG1M0bAzZ1wVOf1eJsScaLgzY6dGEiQCfvnsrbvXXZXJ2VlYVxW0+AETGOrOnE+alRW/zsNTc1hr+PYgf69nFPPhw+lDfP1mT/yVIFlA9THM5ZUKLod6N/5xrNyK/TQzl9vyvHBxvyemfVjgKFcmGmxwoWsjCY/YduvJAZ+fnllXw+2rL1BNTu5m3bfUzx8yKUIIyake8nL8J6Yj7RfRQ7hexGR4s+QRi1oJOoJ6CoJ6LEJKcD6S6Asl2x/7X5swVOzra7r4TTddbUYZT8a2q13zg2BVXMQ0xQAAAAAElFTkSuQmCC",
     "wiki_name": "Ring of the elements (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ring_of_the_elements#Uncharged",
     "equipment": null,

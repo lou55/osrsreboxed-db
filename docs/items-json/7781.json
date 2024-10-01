@@ -1,7 +1,7 @@
 {
     "id": 7781,
     "name": "Fishing tome",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": false,
     "examine": "A tome of learning which focuses on Fishing.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xu2X/UtTURjHPUS/iEzCkehoUVEDFzPBt3CWYWK+UKvWHNN8W8bQajJ6EWHZqxjBQCwEoUDoB//LJ77PeO7Ozr1rce4sgh74wLjce89n5/ucc7ampn+3FFX466Vo5V6cJuNRSox0a2JeHHsp2ly+RYu3B1nmajjgMHy21YVbsOGyil7Mj1Fmop/S470uAeHG+fo0QEzR9pME5TOjLGMOUIuxC6dc4PrDqQEqzN30I6Xow+odWk1d58j0l9ca2GTiUhuD+xEzpHwJbT2eouXEEDc1XmwOaA5cCxHqD7XYCikqFZLc0LnkNZqOuAcBueGLVeAa7tXRhQInm+yFPq/f58yfpkco0RWsGsQUAaYIwHO6ELAQUvR1I02fnt3lhk5eDvKLgSmhI/eYiFA4cIIi4TZ7oXe5aXq1OM5CQB98vqfdJSRS+r0ihK0h1t5sI4NStPdyhoqPJrmHZmKnGXNwL3QZPCNCaGbMkIWQom9bc7T7PMUrLHOl3cEcvB4ihLh8NfNBcZYbGpEhGvA7UuYsihAa2TIuRT8+LrEQduil3g4HEavVO14zifiwRyGqjmbLuA7fL9D+ZoZnaKWvk9HFTDmZPa9rEEIz+9oMIYQVhk0xN1AW0qknJ9chhH0IMj2dVkKKjnay9P3tPAutDYZYSKeenA76R5rZOi4RQmQQ0jHlvAR1UWlmy50ZVRHay49RfijkYMp5CYoMPiM6aWbLuFDlswu9gz3oQaSFSXcFmF8JmnLSzIjMMi5U+bjATw0cppA7+pJ1mIuWxXS85BCXNLOPuFDl4wJHBfYgM47D0oKLbHcrLcYCDIQBNlMcyPgh5mO5oxT3D+IC5jcXIIce2d/OOBzszDqU1kZpIzNI68k+P3FJ4eEyes94octhiZeKSWb3TYqp/ANpWFXkJA6hED9ThSknS77BQnpV5LwEdSCGVRY9FzxOIbNqy71eGKJCqv9PyphVPXsV/tfx1E/dus9KtVSkMgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4Xt2X/UtTYRTHvUS/iEzCkejIrChBwxfwLdQybJgv1Ko1xzRfM4ZWyuhFhGWvYgQDsRCEAqEf/C9PfM84d2fPvXPu2SrqwAfkcnefj8/33PNsVVX/bjmU46+XQ8v3B2l8sI0iwx1KzI/fXg5tLt6m+Tv9LHOtKeAydL7Wg1ew4rIOvZwNU2Ksl+Kj3R4B4ebF4lRAzKHtpxFaS4ywjLlAIcKXznjA9UcTfZSauVWOlEMfV+7SSuwGR6YfXmhhk7ErdQzuR8yQwnM7m5ttpBzaejJBi5EBbmo82FzQXLgQItQbqrEVciiTinJDJ6PXabLFuwhIDl3OA9dwr0YLBU5X2Qt9WX/AmT+LD1OkNZi3iCkCTBGAz2khYCHk0LeNOH1+fo8bOno1yA8GpoRG7jERoabAKWppqrMXep+cpNfzoywE9OKzXfUeIZHS94oQRkN7fbUrU7LQ3qspSj8e5x6aaj/LmIv7oWXwGRFCM2OHrHbn+9YM7b6I8RuW6Kx3MRcvhgghLt3MJQsdpKe5oREZogEnkTJ3UYTQyDouc8VjyqGfnxZYCBN6obvBRcQK9Y7fTiI+zChE1VBtGdfhhzna30zwDi33NDJazJST3fO7BiE0sx6GVkJ4wzAUk31ZIU0xObkOIcwhyHQ1Wk1nh452lujHu1kWWu0PsZCmmJwG/SPNbB2XCCEyCGlMOT9BLSrNrCeztdDeWpjWBkIuppyfoMjgb0QnzWwZFyp7dqF3MIMettQw8dYAc5ygKSfNjMgs40Jljwt81cBhCrmjr0suM21ZMY2fHOKSZi4jLlT2uMBRgRlkxnGYmfOw1FFL8+0BBsIAwxQHMr6IlfHdB+Vw/yAuYP7nAuTQI/vbCZeDnWmXzOoIbST6aT3aU05cUrlfCLpn/NByeMUz6Siz+zbGyC8Qy7hylXtATk7iEFKD5/Iw5eSVL3N3vOUn5yeogRjesrYLwcoL6RI5U9AUejM3QKlYb2XiKqX85DR/VMYsvXv5O/kf1C+vyRK6L3FUDgAAAABJRU5ErkJggg==",
     "wiki_name": "Fishing tome (Red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fishing_tome#Red",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 2264,
     "name": "Unfinished batta",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "This batta is just missing those little finishing touches.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu3W30sVQRTA8b0sy6UII+ilehCCgupBCkICoyCEiij7/buwsFDqQZJCpOiHSGUIYj+oUBDERMoIIqIo6qV/a+o749nOzp2rd+/doocGDnd3dvbOZ8+cnXuj6N9vJROO0PU/3kpmeOCwedB/0MbQjQ4z2HfAhiCmRjvN5Mh5M/HoXADlP0TDcAcSFCAJHzP+8Ix5NnQqMzHnXPMji8qFLJmRm0cqUHwCkRDQk8ETZvT2MTuWzxCI8Rr9ZXbAfJq+Vh9KQBxLdgT04v5pC5Kx1UDc93mm33ybu2O+z92zoFwYvlSeWkBMGgKN3T2egjgOgabHLmRAHNcIKmWWgYmkuDn3QUwOQpa3Gmj2aVdxIMkSfSEQ92gQWfNBb55fSkFELpDUhQ9ich/E+P1b4xRVDfT25eUs6NX1xkH0AxIUYw+1Jmbdqmj+y3+HD3o33l0siGApBcS4o9sS09Icm41rIlMeXmpDjn3gh8krKejr61u1YmhZkEbxpII5uyMxretjE7clNrasjW3E7YkFyfnOTbFZvcJlsE4QzT0V9eCD6O/cldiJ2ja4ACEhfUR7S2wzyD0fp3rrBbk9iAz5IK51/Zp0z2Y3WdQc2U/JCiEwxiz7sdysbHLZ0aAcm6J75UMgrl3dm9gi5q1aKGQM9cR9LHNhIIL+3n1lc3J7YgtZQjKj+ySor6YlBYMEJXVDIfsBSJ+zTGRHtgK2h5nHF1MQu3SNGJp7w0IgMkT9hAKUHEt2uEfeSn42dIbqAvl1JDVEMHH3bnesgwzZYp/HkB1A/GwUBhIU/Vzv6yhbjEZJ9sgOr7sPYpfWoBwoBwotG33ycwHAR1HwOjsC4m/H+4meFMQelGMfyoL0sgmICfyaAkV26Nd/PchOwyDessVAsmMTguKYWmOcXq7CQP6y0a9B8m9SYPK7x30yFhCvvAaxB+Xeh0LLpkEcC4hgJ9cgXT+FgELLpkFc039LNIhxun4aBNHcEiwWGqPDB7EpapBEDlCtrRIpoevnL4IWapXIyvjfGms/AZMO+dsuF9uCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xs2W30sVURDH97IsUoQR9FI9KEFB9WAFIYFREEJFlP3+XViYGPUgSSFS9EOkMgSxH1QoCGIiZQQRURT10r916nPWWWenc+1e7xYOfNmzZ+cwn50zZ3ajaPFbyYUVev7PreQG+464h72HvAZutrn+noNeAjEx3O7Ghy64scfnA1D2JWoGT4EECiCRhRl9dNY9HzidC8w9z6zyUFVBltzQraN/QHEFRCRAT/tPuuE7x70v1xAQ/hr663Sf+zx5fWFQAsRYsiNALx+c8UDiWw6IdV+met33mbvux8x9D0SMzY2NXja6sTTt8tYCRNAQ0Mi9ExkQ4xDQ5MjFHBBjAbLRjZVy20AgKW7uLRDBgZDtLQc0/ayjOCDJEnMhINZoILJmgd6+uJwBoaqApC4sEMEtEP4HtsUZVDmgd68680Cvb9QOxDxAAoXv4ebErVsVzZ6WOVmg96NdxQIhtlKA8Du2PXFNDbHbuCZydYNLvWRsAT+OX82Avr25ncFUDaSheFOBObczcc3rYxe3JF5b18ZecWvigeR+16bYrV6RZjAEZKOXsfStqAcLxHz77sQHatmQCgiRzKHWpthnkDWfJroXCpT2IDJkgXjW8Tvo3i1psKgh8lfJChIwfJb9XO5W1qfZ0UC6KdroxtIjHwLi2bV9iS9iTtV8Eh/qiXVsc2FAiPnu/XXu1I7EF7JIMqPnRNRX/ZKCgQRK6oZCtgJI37NNZEdaAe1h6smlDIguLTAVAXHCQkBkiPoJCSgZS3ZYI6eSz4bOUIXZweaAbB1JDSECd+1Jx1pkyBf7LAzZAYjPRmFAAsU8z3va6jyMhpLskR2OuwWiS2sggbLRA5YChbaNOflcAGChKHidHQHit+PD2JUMiB5URR/KA+ltEyAC2JoCiuwwr389yE7NQJyyvwFJx0YCxZhaw09vV2FAdtuY10DyNylg8t1jnfgCxJHXQPSgqvtQaNs0EGMBQnRyDaTrpxCg0LZpIJ7p3xINhJ+unxqBsPx/TDlpGC0LRFPUQKIqgKJI2vp8soBaun4KAarULGQlsKI53/9kFjIku2ZR2y/dEkR2hbDg6QAAAABJRU5ErkJggg==",
     "wiki_name": "Unfinished batta (fruit, historical) (Lime)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unfinished_batta_(fruit,_historical)#Lime",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 23494,
     "name": "Larran's key",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-06-20",
     "duplicate": true,
     "examine": "Opens Larran's chests in the Wilderness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4XtVXzWsTQRTPsCzLBqkXbwU9SFqIh+qlEaQSUAnWUGJKakOtEGjVYFUCaRskYoRAKQWVYJGChRwKxUtR0IsfiCB4KvgfPfe9YTIz+2ExOzH6g8fsx+y+3/7ex8wmEv8PGEgbOhjU5hzYuO1A95E7bGIMMhMWjBxLQPpUgojcn7VhuxZFTFXSf88IGEyMWfTy1MkEZCctIojn2XMW1MuORmCr6kDnoUvj97c3B0dKjuqX8+PyZRuer7g0qnOetS4NipBA1Ms5gWpBJ4TnjZXzpklJBzJvwsBIpXcvk/C1m6R5xYuCoDEwaN51yFr3HGgviXyJAoOpyVHIXzkNhVwK5vLjR8zvC4wSFw1LP9qBp9C6WnnCjMMjVHGgUrRhJmv9htRRITUKr/cs2FDK2VTOQadcjeiQDkQt/lLs1sVeefPrGE6sKF09GbaWp/CA1PO6dpo3Rf91DOtyXpY9KirCjI00Wr1YYHA1Y8FyKaycOZGdzVyPFBENVc8YeFdGNVSnuiO/UwYdb0HGsAXvGQGvpl2vxPc2Xdh+7MJGLSx39GfQUqN8cdbvxQKvpOMjnEBl2obmLUdTbLfNu3XQcVT+xQKDxoIDdxbP9ghgImPyivMf75fg8EuDiOnOef4ZJ4QE2mtTPQK4XsklgtFxuZCmnDl4fV0hwPMvSDQWGCx6zfHzm3k4/LQKP789pbVLdSrCiYbh9KvUfuAoITVCTFcimfS3AEkOk11VDw3DhrkXVDAWpAM/me6La3Ttw6skqSm2IFgMMoe40kEF+wKDj/s3aO+DW1V9SWDUDoTNXJAEMPdkMfC5srP3DaY5EV+uvzRMPa6IUA8Nw2ZgA8d/h1RHq9WMsnXV5/pHJC/UK2XDnvlj8MpRN2LYl/DvQ5wLw18lHKvzfGz0lPSrFwvcEebP/hOXtiLYfc+Mn6Cqwb0S/khu1R0qbzR8Rl9ajMP/lbrNTo9RWHfqnPRBJ2wZ+auQ5DCR95ouKTpkUgJG8+XfwC+gxTaZRQxYYAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKUlEQVR4XtVXXWsTQRTNsCzLBqkvvhW0IGmhPrS+tIJUAirFWkptSW2pFQqtGqyVQKpBIkYIlFJQCRYpWMhDofhSFPTFD0QQfCr4j657ZnozM9nEj90twQOXyexMds6c+zGzqdT/A0HaOg5BhRmP1m95VH/kd5qYoOEBh7qOpaj/VEoSuTft0lahHTFTyeaxRCBooNeRL8+cTFF2yJEE0c+edag451kENvMe1e77sv3+9sbRkRrs6bEWNvtzl1x6vuLL1pzzrHLRmJswmABaNvM5LD9pE0K/tHLusJ8Y9AI6blpBSJXevUzT13pazpu6oAiaG4gJQeU7nrTKXY+qSype2r9c0MhQN41fPk2ToxmaGe/7w/xIEDJwYUj99gsECj00M0/HWuv5kREQWvRoccqliazTINU8C8/YpWacJUyGEdSeeZdyo65M57BKSo32LmXFEoV6Kar1VCO91XO4Exllu1S7rRIo/PuEiIygaveromi7Q7l1eVynPRRlN6OQtlcvFgRdGXZoOWcqpMdg2xujljqt1UsMqipDDXNRJseusgNaUC04kOG2IyAEqGzaCVJ8d8Onrcc+rRfMzNMEzf/AMt2pFmOxoDLpeJcisDjmUvmmZym2U1XVOrywHX/2WGQIKs17dHthsEEAgYzg5f6P90t08KUkidmkVPwlTggEqg9GGgRwXvERAcPvucl+GTP7r68ZpFT8hYnGgqCFoDh+fjNLB5/W6Oe3p/Ls0rsWDXfC4E5bkcDlq57h0kSI2Uqk0/pE53Emh2A31YPBbYi9sIKxoBdgAkyi/uKqbD+8Sks1+QqCZOAYgmEsrGAkCPq4d13efXBVtY8EIcsB28R5TQCxx8nA5LmyxyAkrEV45/ZLw+qhhSKsHgxuMy9w9jp/DfU5ZC60lh82rq4KPMYt/xfkWb1cNpHbpMoc8yKGuoSvD+6z4VMJbX5WtaVDJU2LSQZQCyF+9p748iqC6num74TMGtyV8CG5WfRkesPwHz5amIBpzStEgL3LZpse65Vu3S4q0vs1VXMSJBBG8y7tHWtyCOTdsi8VVc86hFbkjlShf0HcePkFnsifQMy/8+EAAAAASUVORK5CYII=",
     "wiki_name": "Larran's key",
     "wiki_url": "https://oldschool.runescape.wiki/w/Larran's_key",
     "equipment": null,

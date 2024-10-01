@@ -1,7 +1,7 @@
 {
     "id": 11927,
     "name": "Odium ward",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-03-13",
     "duplicate": true,
     "examine": "An ancient, evil shield forged by Volcanic heat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xu3XzWsTQRjH8YbipUil+BeUYEtbSV+IfaFF4kHQk6+oqCgqevAmilKK4kspvlEo9QUFC0KppWhPHkRR9C8b+53tL8zMTkI2u4oHBx52NzOb+ewzs5NJR8e/X0omHrH6P15K5tncCfNk9piNhTtHzfytIzaEWF26ZN4vXjQrzy9EUOFD5IYnIKEAKULMu6fnzeuFs17HXFMXho/KhCyZxbsnUyiOQBQC0X7p/inblmMMRHsX/X1jznxdu9keSiDOyQ517nDt6u62x2Yg7vu2Pmt+bj4wvzYfWVAmDF+qpxYIIHU7u7q8pxWoUQBaW77sgThvEVSyw/By/owFgdDk5pr6Pb29FtU/0WkGZzpNf7lsJkZH7XV5LAnqFdyz8epqcSCy5D6xQHQMAlAzDBn69OZaHURkAr19fM4DCcHQEMNDQzYEqtSSY4jhHvdBPNCH2/lBQgmkLDFsYXbURg+heVYYaN/IsBmrVOqduKAwOyFGmVKGfny81yqG4oM0kRmWRigXFMMwx3KAKMmYLz88vX1jqf5GuSiOypKbHSDU0VaRA5SsQWSIc3cOCOVmSyiCc9pRRxu7JPAWboULyrAoJq+8fpvs67wdM+PjNuhEIZQwIARRgAkndVsgZUhRPdxpY+RgEuqccLPofk5wz9TxHfkzBCg2bN4QbmWOI52GdcoQeL7jy+oNC2KVbhFDSd6wRnNICEGEodO9AwMeUiiy5ILIUFsgzSN9+f7JSa8zYUJQDF0YKJxHjTCaK4N9fR6KH9wYKAMqAbnDRmg92t3TU49wgnNNlkCpDSDCBbEGZViHfJBQLujQgVoKo4wBmqpW6yBl9vPK9fZBvGUxEJ+5w6dgbrE+6RoQWRGIjVkhoHDY+JxtKx2wv9FvXG162qI412cKtq3rL654INagzOtQbNhcEOfa3golEPdpU0/bQkCxYXNB1Ln/SoQhaKdNfQEgSnqexEIYYG6EIPbSLkiRAdRqSSMVZFLz5y+CmpU0Mh3/S77yG0nuIAz+odtvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xs2X3UtUQRjGd5FuJAzpH1CWFDXWDzY/UGK7COqqTyoqioq66C6KRKToQ6QvBLEPChICMZHyqosoivrLJn9zetY5784uu+4pHHiYc87M+P7O875ndszldn7Lu7hi4/+85d3z2VPu6cwJr/np427uzjEvQawsXnEfFi675ReXIlD2JVoGT4AEBZBkYd4/u+jezJ9PBeaeMas0VFOQebdw73QVFD0gkoCYv/jgjJ9LHwNifgj9Y33WfVu9vT0oAXGNO4yF6drT0eH7ekCs+742435tPHS/Nx57INYMdXV52eimJbbrrQUEIGO729tTbyugWgJodelqCohrAdnopuV9Gl7NnfNAQKi4uWd8X3e3h+oda3P9U22ut1BwY8PD/r4wkohxiTXrr69nB4RL4RsLiMBAAFQPBoc+v71RAUJNAb17ciEFJAhSgwYHBrwEVCwnvYVhTfgiKaCPd1sHEpSA5BJps+5ojl5CdZYZ0IGhQTdSLFaChEDWHQsjp+TQz0/3KzBNA6mQSUstqBAoBkON1QKy0Wu0JOdLj876HumLCqHo5VLoDiCMMVdqASjZg3CI67AGBBW6JSjENfMYY47fEvgKNxUChZuijW5a8snrt8l/zn81NTrqRRBJUIIBQiASMLaotwUkh6TS0TavocOJFByFLobPEWsmTu5q3SGAYmlLpXDTOXqC2jE5BDx/4+vKLQ/ELi2YhoD4wmrVkCAEIhiC7u/rS0EKCpdCIBxq0B3aFpDqSH/84Ph4KphgLFAMOjMgW0e1YFQr/T09KSh+cGNAgrLRIy0BCtOGtB/t7eysyBY497gElOYAhEIg9qAm9qE0kKBCoCOHylUwcgygiVKpAiRnvyzf3D4QX1kMiGdh+iRqi/1J9wDhioA4mGUCZNPGc46tBOB8o9+48uSkh+JazySOrWsvr6WA2IOa3odiaQuBuNbxVlACYp0O9czNBCiWthCIsfC/EsEg5ulQnwEQrbpOYhIMYKEsEGfpEEhqAiiX07ZeTxYwFE6qfjIBarRZyEZgpa25/6lZyJjsmh3d/gCT8mqYZ4zciAAAAABJRU5ErkJggg==",
     "wiki_name": "Odium ward",
     "wiki_url": "https://oldschool.runescape.wiki/w/Odium_ward",
     "equipment": null,

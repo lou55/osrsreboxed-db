@@ -1,7 +1,7 @@
 {
     "id": 14032,
     "name": "Abyssal whip",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": true,
     "examine": "A weapon from the Abyss.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xu2XPW/CQAyGuQGhIASKQAwdOnTp0KESA1L//w+71rFcf90lAXyhQ1/JA47v/MhnX8Jq9a8wpTxui4gTdpuNso/DPr/tdvl1u80vXVcADIf0ENI++0O+no75cuwHuPe9Bjz/xARCpSGBhQCzVSAwgoPfAMixIUIgC1VOwHAE9nU+Tay5SUkdga6KjtOmfeFA1A9+Q52wnFg/93vMFvYEAHmYMgiZb+IQKASC6vAoo98CWNNrNDwcv95vltIwJX7xNAwYNDOshcpytdIv6F1AUB29IfptcjJZDRp7+UzC3AWkE3m/heAYH0dDoW/ym1QHgiaX/eHjtF/C+OGYrVIl0E/HQUdpqyXXEVD92pitGhA+o1vYJq8ZAD0AQ5qGsolrFgADQiC6i6YuO2t0hEEwJKwEQfnNZVJrzcSNDJdd42RzxVAPTkukeLr69XrkeEq+ZiqPvIQrD0BTjY88DIB/KTfX+MjT9/TC/abH3ELJT9+F+4qESaE6tb9DT4AC8aevraKNXEgI9ESAkv4UTJy+AfR30wkrxHhrAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuUlEQVR4Xu2XP2+DMBDFYYgioigRSpShQxV16dChVYdK/f4fzO1xevXz2QYCjrP0STfEPrgf98eQpvlXMbVu3KrIB+y228Dejgf3st+7593OPXVdArA4ZAzB9t4f3df55D5P/QD3eggBL78+BaHaIYCFELNZABjg5LcAwvfjei0BpUAWCgHYGA5g35ezeYBVaoMScFY8hPqxWTj7EGGMm6RA6AcG4aDpUjYNfFJ7C6Q9IUAWJgcCi5u4CJQCSXYwyqknThlfY+Gl/H5vttphSvjiuTBi0sxyrWTWZ6v9Aw3vOUuaHb7hFBBnA2PPewyzCIhvxr2Tg7DNzn4YCj7Jve8sxUBYlybn/gjh1IfXGSYejtlKZULXUQ6U0maLrwNQ6tgI400qBuIs4RS2wXMmQCtgoBiK924BKgAjUiCcRVOHnTWUsBAMpJkAVFg63c8ZIArCQL6R5bALs6Tvq5yxX2F5KEyL9XiA/HT1m40pUegXr91N6ZFnuPQA3FXjIy8DsPCNvkbjI4/v6cr9Fo65heJP32p9FY64BpXs5P4OVYFiAQyfvjaLFc6nlBSIASodlmN6WDbyKgHzA2wZMEcsx9z8AAAAAElFTkSuQmCC",
     "wiki_name": "Abyssal whip",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_whip",
     "equipment": null,

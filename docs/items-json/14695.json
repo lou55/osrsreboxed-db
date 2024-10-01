@@ -1,7 +1,7 @@
 {
     "id": 14695,
     "name": "Mud battlestaff",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-11-07",
     "duplicate": true,
     "examine": "It's a slightly magical stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABHElEQVR4Xu2XwQqDMAyGW4aUiiiiTFwPImOX7f2fLzNN0zo9rylsP/xU2h4+kiZBpX5PGo47gtKwOgOFQGlws4GmvsDQXQKUKBhFB4HQ01j5VQiKYNpWgW0IQhwI04Qw/ZXfEO01fZUbiqLxvNceBgHYeIZ7483mgqKH/Jht8mI9gDMpUlmB1sWczCD7e+n7a9qiMxhwLvkMkk30bqaOLAjCogoaQokfTzOKIsHdWAiI0xH6SujEQk1Px+7LFgZCUXTWVxtBsLqEYFgpZcIwITpb+0cQXIVgCMQ3vmDeO97MIJpP0dIp+oCZRWFQCQhHwx8mKTziUmB8WSNMnNxiotLGISk0KPeiOYUpSv9RotqArAogRcEUo6JgytEbS1PHRtMqUTwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOklEQVR4Xu3XwQrCMAwG4BUZpWNMZEOZPaiIF734/i9X9zfNWqp4WzPQQJjUCR9pm2BV/V4ol68IhnIXq91KUMrZUbu22bh+uwkoURhVByDkYaj9UwhFmK6rnGkJkYKe53NplPLbBMxuz2eI1tpdXbpKVI37tfEYADjxHdaGoymFooN8G03Mk/EAq2OlGFRg66azc9JvyRAACJF+Xiym6vTaWRszh6SAxTE4N4ct5TdIoaAb1IcrLgpBcjdOQfmbCwaPgNBXQidOm15BkJq7L+cnUP6rhYOqc3l0MwS3S6A6acQtE8aE6kztHxA8hTAE8Y0vJK+JYDCf5sy2SBYzim0RRwRhNPwxMcIhXgvGX2tgwuQWxeAWYUjmkzt/s0DQnMIW8f8oQQxiApnKQ1aFYYgghkO8Ku+xBswL5yoTUByZasMAAAAASUVORK5CYII=",
     "wiki_name": "Mud battlestaff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mud_battlestaff",
     "equipment": null,

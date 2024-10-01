@@ -1,7 +1,7 @@
 {
     "id": 27522,
     "name": "Stone tablet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-11-30",
     "duplicate": false,
     "examine": "An ancient tablet found in a ruin beneath the Ruins of Morra.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhElEQVR4Xu3WYWuDMBAG4OZTEcqKIBSRTbCsYFc6BoMxGOz//6qUN3I1HjEJ5JJ9WAMHRax5fC9qNpvH+B9DaXcVH9PE7dAu6tAfdN3WpWFKd6+d7t96PVwHffo86fFrNL9xnFDVU1UCpfTz+GIwx4/jAoPCcRuVGeROBjAbZKN29S4XasIgHUwMBGFcIJyH85uuyQfiraLyoVAZUlqmQ62KBaF14iA7nfP32YDWUByEm9k3eynUvJBp3YRAHEULfFttJVBTOtSqy8/FgAiFl6ENwuQcJJjSnA4mBcIFwqIlFM6n/yAVFIFwbjLIbtX1992ACEUgvABDKRE0GYQLY2IgOIhQMetICDWDgFkDESoGlNg2dX/MfaCYhCidPwfxdLKC7LtGxYAS39rq/rjbINf64Qmttas4yJcOKvFtvQS51o8L5EsncRcZD/K1i9IR2LCFQTydtXbRZ0TkexYC+dLhIIF9thvE2+VLh0DYzgptaZXzCXO1a5osVCKDX3StHqPcuAEVNsa293o9OwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnUlEQVR4Xu3W4WrCMBQFYPNLCjIpFKSUTalMqBO3wWAMhL3/U2WclmPTa5qGJelgW+CCSGw+z03bLBb/428Mpe01++gWLutyUJvtRudlPjdM6eqx0tunra7PtT68HXTz3rSf8T1R2V02B0rp++ahxexf9wMMCt+bKMx/2e1SoezJAGaCTNQqX6VKqcMgHSwMBDE2EOZhflEVqVK6bRXLhUIlSGmYDlvlC0LrIqc0TOf4cWxBYygJwp9ZF+tYKfUbmftmCiRR3ODLbBkD1aXDVp0upxZEFB6GJgiLS5BMKaB1fTpYFAgbCJuWKMznb5AKiiDMDQaZrTp/PrcgogjCA3AqJUKDQbgwFgZCgojy2UcSJVfyHD0ImDEQUT6gwLap623uAvkkxHR+HCTTSQoy/zXKBxT41FbX290E2faPTGisXbODXOmg+LSOArLtHxvIlQ5PkclBrnYxHfPAlgwk0xlrF18jUd5nUyBXOhIU4ZxtB8l2udIhCMfZSEdaZb3DbO3C3KkCJhCEcXthW3GxqZJX/9aQFx0r+btfM74AYWX+n5eT+eEAAAAASUVORK5CYII=",
     "wiki_name": "Stone tablet (The Garden of Death) (Ruins of Morra)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Garden_of_Death)#Ruins_of_Morra",
     "equipment": null,

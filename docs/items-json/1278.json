@@ -1,7 +1,7 @@
 {
     "id": 1278,
     "name": "Bronze sword",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A razor sharp sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyklEQVR4Xu3V/4tMURjH8Zn8sI1EWm0hWyjK/qD8wE/+BkQIEUIk2oi2zbbYNt/a2sbalnZrt2lt2xopISL+APmTjt73+lzPPXPmy517yQ9OPc2dO8+95zXPc+65pdK/P8ouHKHf//gou8fDh93DoUNRjN8+6MZuHohCiNrkWTc/ccbNPTkdQPl/Ijc8BgkFSOFjZh+dctPjJ1IT853f/EijMiHLbuLOkQYUn0AUAk2NHXeTo0ejXD5DIPIt+vPysPu4eKM7lEAcqzoCPX9wMgIptxmI6z4tDbmv9bvuW/1+BMqE4ab61wIxaQhUvXcsAXGsFlrQYvVcCsRxh6Byqg1MpMXNdx/E5CDUXo65x94dvSnU8rMLxYFUJc6FQKokwfUD/Wvd/oG+FOjVzMUERGQCaV34ICb3QXZBc21/3+qG6hCvX1xKg17eyg/iPCChVEnlqDo+hngze7lYEAHAguyCblUdct/NX01AX1ZGOsUw0iCL4uYhkF8dzvug9wvXugUx4s2LyVqBtKBVnT3b10fHVNIHfagNdguK9yAq1A6kKtrqcM4HkW9BGTbF+N+FQEQIpOrs3rouCCKvUJBQBBOw4zIBx9oEd26OqwOa6/x2FQayVeLTgsjzq9MMtPT0fAJil+4Qw4ifkBBIL0wftG3jmgQTApHLa8NWqCuQv470KAtE7qbeSqo6Pkjt4rVRGEgozjMBIPJqC5WoXRzzBIKxlbQgdmkLyoCKQaG2+aDRkR43M11x9ZUY1QxE/tu5KwmIPSjDPpQG2bYJRM6uDSW3b8uqXzf93S4fRHVyg1is7UBT1Yr78T1ezGqXQFpraldhIL9tnBdo8HpPgrHrRyDlAuKRtyD2oMz7UKhtmkRriMmbgez6KQQUapsF8RuIEEivDbUrJ4gRL9R2YTE2fBCbogUpMoA6HY1IhV0/fxHUajQiG+P/yDd+AnjdWvz/KPHyAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6UlEQVR4Xs3Xb0sUURTH8V16IBtRhCFUJFZQkA+KHtSjXkNFUVFRVFQUUUhRiCRWIv1DEDOxUFDERMwIoqIo6gVEL+nGd6bf7JnjXd11p/DCYcfZM3s+c+6dO1gqrf5RDvGIff/PRzk86zkWnnQfTWLg3pHQf+dwEkJMD10Ik4Pnw8TzcxGUv4mm4SlIKEAKjxl/ejaMDpzOFeZvvvORRzWELIfB+8cXofgEohBopP9UGOo7keTyGQORb9Hf5nrCl5nbK0MJxLG6I9Crx2cSkHJrgbju62x3+LHwIPxceJSAqLGvoyMJX92NtO26a4EoGgMNPzyZgTjWFFrQzPDFHIhjgXx1N8q5aaCQFjd/exDFQWh6OeY3DuxqzaHmXl4uDqQucS4GUicJru9sXx8OdbblQG/HrmQgoiGQ1oUHUdyD7ILm2va2tYu6Q7x7fTUPenO3eRDnAQmlTipH3fEY4v34tWJBBAALsgt6qe6Q+3HyRgb6Pt+bYRoGWRQ/HgP57nDegz5N3YyCfPUaI928KLYUSAta3dm/c2NyTCc96PN010pB6R5Eh5YDqYu2O5zzIPItyG6Kvrob6d3FQEQMpO7s3b4hCiKvUJBQBAXYcSnAsTbB3VvT7oDmOj9dhYFsl/i0IPJ8d2qBZl9cykDs0sLUBeIJiYH0wvSgHZvXZZgYiFxeG7ZDdXaHUQX5daRHWSByt7RWct3xIE0Xr43CQEJxngKAyJueqiTTxTFPIBjbSQtil7YgoXz1yEhBsWnzoL7eljA2WgkL8ymqFoj8DxPXMxB7UAP7UB5kp00gcvZsKoWD29b8vcvqdHkQ3WkaxGJdDjQyXAm/f6WLWdMlkNaapqswkJ82zgvUdaslw9j1I5ByAfHIWxB7UMP7UGzaVERriOK1QHb9FAKKTZsF8R2IGEivDU1XkyBG9V+VpcJibHgQm6IFKRoAlUra1pcKD7Rh108hoHqHR9aDVVRz/9PwyFj4a1b1+APC4aWIL/6W4gAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_sword",
     "equipment": null,

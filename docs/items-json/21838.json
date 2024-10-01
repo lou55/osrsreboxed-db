@@ -1,7 +1,7 @@
 {
     "id": 21838,
     "name": "Shaman mask",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-12-07",
     "duplicate": false,
     "examine": "The mask worn by ogre shamans.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACe0lEQVR4Xu2W/0tTURjGd7j4gxJCBPlTRD840B9ajTLBMZWUrEZamsoSS0VblmmGSVaGFYssEhOphElSWEglhqk1koToC1H/0pPPe7l3LL+wxq5nVC+87F7Yzv3sfZ7nnOty/XulEN/aygQI1ebGtSaolSBaYYIVOSv6P8xaMFqBjhQZq3baAGmOejyQVhCrNU4lBvFwOIhb/ZXo7ihDsK5AD0z07WXMvmzH5HgzxkZO4G64Gtf7DqMjVIKqgGcjoRS+LD3Ah7krmHt9Di8mWhAZbcD92zW4cTWAnq5yhFr8KCvN2wjpFD4tDuL758c20NTTVow/asTwYK3I1tt9QIACB3fCu2sbtmzOchLKnM7Pb0+wON+P+enzeDXZZgOFB6pwrfcQ2tuKbaDs7Exngeib928uCtDCzAUbaHSoXnxE2SwfESgrM8MpINMPlKS82JDmVAjg9RjS1pQIVF252wZyAEqJVybGTkqiOJ0fXyPilXy3C558Q7pkeQ9i9DvP7hegvd7tzsDMTJ0RA1MuSsRP3jNdNDKlGrlXhzs3j6Kvp0ImdPyY1wkgJQ+efn5aIGji6Owl+PYZ0ow8p8bINzcWSeRpaF7T1IUFO1ILQ9MSxpoK7xn3pWh4OW1DAksgTogynWoolJ26vmYPSv1u5GzdlFogwnAKlIIP5SRoXMrDVH18NyByUjrGnb7x+3IFxgrB76smWaaJmSg+JLZ4fDPuPEIsaMqV53bkZcyMdwxmrTLBKCcnRiOv//2kS6G1yZfgv1WyUVLOmFQpL/UHJ7bCs0iTJIwbYWK/SaoSXViJhzS9B61WSgzNfSdtgHhcMO5pAsSytoK/tH4BVDg1IRX/RgIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACt0lEQVR4Xu2W7UsUYRTF92HpgxJCBPkpsg8u6IfWljLBZVVSslrS0lQ2sVS0zbIXwyQrw4qNLBITqYSVpLCQSgxfqiVJiF6I+pdOnrvN7M5sL2YzO0IduOwOzDzzm3PPfWZcrn9PCsZyTHGAcF2uoRyCSgXRYApycqTMV9gohVBldkr9h/kZTDKQ+QqbpbCv2P3DWjVA2qQ50C7KCJQMkmaYxKbnoCsJiLtDIVzrq0JXZzlC9YXOwMRmz2PmaQcmxlowOnwINyM1uNy7F53hUlQHvd9h0yKFD4t38GbuAuaen8CT8VZERxpx+3otrlwMovt0BcKtAZSX5ekOmlewUArvFgbw+f19HWjyYRvG7jVhaKBO2tbTtUuAgru3wFewEevXZdoJFXfn66cHWJjvw/zUSTybaNeBIv3VuNSzBx3tJTpQVlaGninzahZISW5evzgrQC+nz+hAI4MNkiO2TcsRgTIz1tgFFM8DW1JR4paiKwTwed1SmksEqqnaqgNpUOYV/0JKsjI+elgmiu58+RiVrOR7XPDmu6VKl/Ygjv6p4zsFaLtvk8Ehi1xSmJ48JgFmu9gi/vKY08Ugs1XDt+px4+p+9HZXikMHD/hSgMwrr0BKbjz1+KhAMMSxmXPw73BLceTpGke+palYRp6B5n+Guqhws5XuKAktYTRXeMxxX4xFlqZtUGAJRIfYpiONRbJTN9RuQ1nAg+wNa611hzB0ga3gTekEg8v2cKrevuqXdrJ1HHfmJuDPFRhtCCxzhyHmRPEm2uLm4rjzFaJBs115HuPXoQUwVHy8NZjkxY03ioOxnXSMQbbQlWQptDX7DU9rPiMhJRsl26m16tfnr0hKf2P//mkVHkWbZcK4EdoERC0HhlKSobR8By1vYSWB5r5jozt/IiWvC477KgGiLN1zrJGVMN8AsW2Ci2xcP4oAAAAASUVORK5CYII=",
     "wiki_name": "Shaman mask",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shaman_mask",
     "equipment": {

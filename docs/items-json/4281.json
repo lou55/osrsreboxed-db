@@ -1,7 +1,7 @@
 {
     "id": 4281,
     "name": "Ecto-token",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": true,
     "examine": "A token with ectoplasm on it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4XuXW709SYRQHcO+LXtSbxmo1ddGghQsYoCt+jDSbEiIsJNIMjYhilo5sTMvlstWcm+uPPvU97Fye+/DscinRF53tO354ufdzz3PuM8fG/p+yqD/nVvqFLdqqJuhdJW7nTTl21qj+i0raL2Y426vTdgCSCOofQP0XVS+mRgW5wYYEOS9eL0a5xXJnclIdI9FBJtRQmLXcFL3Mh2mjEOEIyIQywXSMCfZXIEEBZEK5wXSInqFAK/N3bZQA5IKC8gLTEf0gPcay6Ek6QNWFkBGEk32qPaDOZpL26yk6aKTpsJnpy1Ery8fjVb7DsQh+h+AcCM6HuKIK2SB3CUvlBhKUCYbfACRRYTrKBSPVbSO6tFtfoE5jkfbf5myQoNxguBHplgmlwgaAunOEZUPam/M26EsrT98+LNP3neJAmN41HSbHDMCguiAJQOiSgL5uLTHoZ7tEx7tlOt2ruML0pRScvPcEku7gsX+/Pmcvm4CkS4I66awwDDHBdJAaDyBUbz9qPs865khQgY37HKBMsF+fqwNRvUfeFdUdZoCAkQ7pKGBM3dJhCD4j+BuOw/H4HX6PcyEuKIuXqlFJ06tyil+BklkCSu8WTo5MlqM0vnSPbv6ZveuZAF1L+m2cgEwoF4yUxd0BRtJae0jbtUcOmKCQ2+vTNFEM2xjfzCRHumPqEuIBg7IYAJQKw3fB10ljt7CEt57FGCQYBDhZRhPKA8jiTmCZANBhAKkBbOrjHCVOShQ5WKTQzix/D9x4LsTLJkulwvDeAwZlcQd0lMAEgs/4O46L/ShQ/HiZokd5xgWbKQZdjU9wl27MBh1DLzAPIIuXAHetokzdQgQlILyG9x4z+JLvMl3x+xiFZUO31C3CAwZl8TzoKL1bwOBYLKHAAJo+fcpLhqcNA474VxP8Wd0eEI8glLpZuUe2BaAAUrt0p5XhTuHpw02qe5bHYR62LKqVkg4UZihymOPhxiwBpW4PzhsaSfUuoC6fDLu6PcgmOmKQWj2cCaT++zLkDJ1FdWE6ytmlC6le1/pn6cJr5AM9+voNmgLxq1HnwFkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4XuXW30sUURwFcOehh3oJKQqVTDdSUtFValVMM3TzJ61mmqmZWYulmCFakmQUIkh/9LfOV87s3e/enb2K2UMXDuuus3c+c+6dYauq/p8RSWkubNgTR7I2k5Z30x1x3uTazxtVelJm80WXZn22Mw5ADFE4Nt3QcBZU6Undk7lxQUmwU4KKT7480aYV88o4qcUwFuRDERMAimQu2ywvR1pkcaxVQ5AP5YNZjA92qnYIIgogHyoJZiE2pwJNDd6NUQTwhESFwCzCgkrjHZE86WmUmaEmLwiTfVp4INtLGdld7pa9lR7ZX+0tyUG+T4/HKz/DsQi+h2AOBPMhiaixvpS2hKVKAhHlg+E7ADEuzKICNvlJjWhpa3lItleGZfdtNgYRlQTDhbAtH8qFVdhTJ/sIy4ZsLg3GoC/5Efn2YVy+b0xUhNnWLIzHBLUDEAMQWiLo69qogn5uTsrhVk6Od6YTYXYpiePfFdrBiOJ2cNu/nx+Il40gtkTU0faUwhAfzILcBIAwCs+j1ed9RfuIqMbF+xqgfLBfn2cqogq3fNk7DONkMwMEDBuyKGB8bVkYgvcI/ofjcDy+h+9jLiQBFelSrUz3yKtct74Cxb0ElG0LkyN1uTapGb0nN//sveu9jXItUx/jCPKhgjY22gGGyc89lPWFR0UwopDb851SO9ESY6q76jRsx9cSEoDBiBQAlAvDZ6nXGW9bWMJbz9oVRAwCHJfRhwrY1JE2gWUCwMIAcgNY88cBSR9NSuvesDRt9OvnwNVkm3TZuFQuDH8Ht4MGLIowQvAe/8dx7T/GpONwXNoORhSXWu1W0NWOWm3pRn+qaNMTFtQOlgBX7aJ8bSFEEYTXlp3HCr5UfVmu1FcrCsuGttxHRHA72A8WZdsCBsdiCQkDqPP4qS4Z7jZscKR+Nq3v3ccDEtAOh/2dUj58LAAFkNvSnXyvNoW7DxfpPrMCN3NhsMqkYMKFyUwRCnuodT+rmxt7CSj38eBeTMBynWUUTuAuHze7+3jgQ9QF2dnOZbiNMT6Q+/OFe8jOde7D4izKbekvLVn5YVuze+lCMe6wrf2TdsoNQkIxvwEN6zxGFb0yXQAAAABJRU5ErkJggg==",
     "wiki_name": "Ecto-token",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ecto-token",
     "equipment": null,

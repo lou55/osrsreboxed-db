@@ -1,7 +1,7 @@
 {
     "id": 1956,
     "name": "Cooking apple",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-03-17",
     "duplicate": true,
     "examine": "Keeps the doctor away.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xu3W20sUcRTAcZdlWXaJIOg9eu1F8KWHhHooohczyozsXip2g0gKMaPLIt0wzC5UrGSIipQhREnS9aF/6+R3hjOe+c1v153dNXroB4eZnTnu77Pnd+Y3trT8+yMj/vDdX/eRkYfDB+X+0IEgRq93SmlwfxCKmB4/LVNjJ2Xy0QkPyv0RDcNDkKIAabiY8oNj8mL0aGxiPnPPjTgqFTIjYyOHEiiOQDQU9Kx0RMZvHQ5yOfpA5Fv01/lh+TJztT6UgjjX6ijo1b2eAKS5lUD83fLckPxYuC0/F+4GoFQYvlR/tYKY1AeauNMdgTj3gWYmzsRAnNcIysSWgYm0ufnsgpgchC5vJdD8897mgbRKXPOBtJIKomou6P3LvghEpAJpX7ggJndBtqGrgT687o+DZq81DuI6IEVpJe0TWQm0WB5oLogAYEHk6WPshsWQ+2nqYgT69u5mrRhGHGRRfLkFkZvdlVuN9pVoy0q2NRtDkfv57eV6QYzwV1L+tUARas9K7MtVrNDS9JV6QeEeRIWqgcg7t1SU7jeFALTjUk62dWRl05aWBIh8C0qxKYaPvA9E6JeT1/+9KH3LxQDVM1uQ3Tfy0nY8J1vb4yiq01SQoggmIOfC7w0y8KsYoBS0t5SPqlTcvE4gWyWOCgIDilBQx+OC7BwMq5TfGAfNPT0bgdila8QwwifMB9LXATksFdUBdmqxKF3l1Qq1doWNbfuH14atUF0gt490s+MlSR6VAUZ1Op+EPbS9N1wyd7l4bTQNpCiuMwEgbexKodVRELu0BaVAhSDfsrkg7ttdnHO7tAoi/+Pk+QjEHpRiH4qD7LJZEEeuW4wPBLxhEE/ZWiAm45oPpL2my9U0kLtsXLcg+y+HYhSkuYB45C2IPSj1PuRbNgvivBrI9k9TQL5lsyDu+RqaIM/2T4MgRvIx9oXbPxouiE3RgjRSgGodSaSG7Z+/CKo2kshk/B+NjT8b0FqfUAraWAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xs3W20sUcRQH8F2GZdkhgqD37LUXw5ceEuqhiF7MKDOye6nYDSIpxIoui3TDMLtQsZIhKlKGECVJ14f+rZPfGb6zZ87+Zt1xx/AHhxlnzu757Pn95jfmcut/5MUdrvtrPvLyePiQPBw6GMTIjU4pDx4IgoipsTMyOXpKJp6cdKDsj2gaHoKIAohhMZVHx+XVyLFYYfyNezbiqFTIvIzeOlyDwhEQBkEvykdl7M6RIBdHFwj5Gv19bli+TV9bHYognLM7BL150BOAmJsEwueWZofk1/xd+T1/PwChxvaWliBsdTPCtvNXE4SiLtD4ve4IhHMXaHr8bAyEc4JsdTPysWlAIS5u/G1BKA4EpzcJNPeyNzsQu4RrLhA7SRC6ZkEfX/dFIEQqENeFBaG4BekFXQ/06W1/HDRzvXkQrgNEFDupn8gk0EJlIFsQAgANQh4fYxsag9wvk5ci0I8PtyNMapBG4cs1CLne7kI12pejzROv1YuhkPv1/RUnyFZPGOGvRPtXAkWovcuxv5DYocWpq6sFhXsQOlQPhLzzi750vysFoJ2XC7Ktw5NNW3I1IORrkN4UbXUzwkfeBULwy5HX/9OXviU/QPXMlGTPzaK0nSjI1vY4Ct3JFEQUAgWQc/HvBhn44wcogvaVi1GX/M1rBNJdwpEgYIBCENTxtCS7BsMuFTfGQbPPz0Ug7NLENATCE+YC8XWAHEwVugPY6QVfuirVDrV2hQtbrx+8NnSHGuwORhVk1xE3O7wkkYfOAIbudD4L19CO3nDK7HThtZEZiChcRwGAuLCTgt0hCLu0BhFlqztGCHJNmwXhvt7Fca6nliDkf564EIGwB6XYh+IgPW0ahCOua4wLBHjTIDxlK4FQDNdcIK41TldmIDttuK5B+l8OYghiLkB45DUIe1Dqfcg1bRqE83ogvX4yAbmmTYNwz7WgEcjT66dJEEbtY+wKu34YFoRNUYMYKUC5HLf1emGBOvT6yQTU6LDIRrCMau5/GhbpCvuZdT3+AWXUpStsnh7IAAAAAElFTkSuQmCC",
     "wiki_name": "Cooking apple",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooking_apple",
     "equipment": null,

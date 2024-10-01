@@ -1,7 +1,7 @@
 {
     "id": 3824,
     "name": "Barbed bolts",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "Great if you have a crossbow!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACP0lEQVR4Xu2XZ0vEQBCGHfwXioiICgo2rNixF86OBT+I2BCx62GvKIiI/3jk3XFNTHazufOiH/SFJZCd7D6Ztkle3r8yFnHwzi+K+Opgn+NDxbXLWsR3J8fc29ERA4p4pK83ll3wTgYifjw95YGuLm5taHBsRsrOZdPe1OSwsYp4ZWGBny8v+Wxnh5dmpiMWIp4cHnZ4UoDrq6sjbCJFvDw3x6+3N59AnS0tlsUktFHz44ODyjsVpaUWG6dIwbzd3zmAiF+urxTQUE+3cX5xapL3N9YVVFFBgcEmlgRIQ9VUVakNw5sKEHINc+FckzzcXVtVQBhZAkGel7zYmxYTL5gTVoDg5enR0c8RtostgWisrYlYhHh+YoLT29sGG8mv4sJC3wsFbTIWGULhF/FsKmUFyqy5xpKrf5AKQxiI+On83OHdrCRuty8sfcgEhOfKSkosz2Ut4od0mpvr6iwLS5853toKAZlbxbcllWLPI+Kx/v4AUGLhgmRxex7JwRoEujk65Mrycssz35LkCNxvDpsZqLutzWCbE0kV4Y3NYROgw83Nj7lEw6UlFWMOWxgIJzuOm7BtziSVlqrIV0NvrOf8QDjboj9FciKpNA3kB8PVD3Sxt+uDTkySF3qz4AAQPjFgh1P/qydzLvECvh5xLgVh/ED6k9c/lwCUACE3UGkoZxsQGiTaQ4IwkABh6L8QVJsJCFe0hh8DQoNESLwGKQOegef0r1CCMFre5t7w5gAEr+ly/wEgl4Kgvwrzh/QOL/AVok/UsGEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeUlEQVR4Xu2XbUtVQRDHHfoWSqRICgk+YWaYqZiZGjfNwoxeRPQgIpqZXXzMLAoiom888d9pzu7Zs3vvuQ+Lb/rDcrhn5uz8zuzs7LkdHf/VsIj9O5co4rMPe1weqqxf0yK++HTAc1NTJaCIl+7NlfLz7zQg4u+Hh3x/eppvj43VCUbGD9fh7u6IH/Gd8fE680RF/Gpjg3+envLRzg6/eLJWIxjx6uJilsmYD4BHBwdr+NQU8cv1df795TwDujsxEXk7WVq1F4MRP1pYMNnp7+2N+NQVGZg/Xy8KQPnJiH99PjNAD2Zngvbnj1d5791bA3W1szPgU0oCpFBDAwMmoAZ1/QCEWoOtWGtSh7tvXhsgjCaBIJslXXudLJQFLdi8XYCQ5bXl5WzkoRuSQNwcHgoEsz7PVla4ur0deHupr2tdXdkLxecpLcqWIjwJ8dNKJQqkzVUhWoSBbP8IT0RmGYpAxD+Oj3PZzT/XtCTtOrFvxT30oRAQnrve09N+oG/VKt8aGYlMLH3mYGurAOS2iuJzTUt2SryOiB/Oz3tAyZYLksnjdSQHqw90/nGfb/T1RZ5pSVIjSL8um28PAc1MTma/2w6EXYQ3Di+bAO1vbv6DTbpcKtkx4WUrAuFkx3FT9G2bZKdV+q+YoYHV5gLhbHM/RZIBYacpkAuGqwt08n43syWCgaQuNJg/AIRPDPjh1M9nsu2SLODrEeeSD+MC6Seva0sAJUCoDew0bOcYEBok2oMLk6COBAhD/4Vgt4WAcEVr8IH8GVuUBUKDxJLYBikDmUHm9K9QwuyobHAdNpgAIWu63RNmx0oB3GGtedDE2SknH/RSYVLpLzKRefw36jAyAAAAAElFTkSuQmCC",
     "wiki_name": "Barbed bolts",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barbed_bolts",
     "equipment": null,

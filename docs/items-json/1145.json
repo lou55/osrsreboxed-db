@@ -1,7 +1,7 @@
 {
     "id": 1145,
     "name": "Adamant med helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A medium sized helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACX0lEQVR4Xu2Wz2sTQRTHdwhhWQkJgUAJwQZSWkgstYbaNhCNBYsURBFU8OjBgwdvHjx48ND/+znfWb/N25ddi7PdCqUPvhCWzc5nvu/HTJLcx90OJ9fr1sLJ/OVcDlaPZX+5L7PFTKYnU9l5siOTg4mMH43l4XT7tqCcHL16GnR4dliA2jvaC1AAGu2OZDgZNu2Wk+OL4yvBJQ1Flwi0Nd6SwWgQ1ACUk9PXpwXBJaaODjFlGqg/7Etv0LvJ+nKyeLvYEF2yQKgfAhGm0+9I1s2CuklSB8rJ8t2yIALpOrJAqJ8yIMCkWRoL5OTZ++cFaTA4BCBdP2VAFiYSyMnq46ogC4Y6QspsQROI9UMgwkQD/eylQb+8Lr0sGNOGlNkOA9Csnci4lcjAO6PdiQaiE9+7qfyo0LdOWz57fXjQlousJS/Slpx4zdutAESHNEw0EAsYqUG9YHGrr15fvD55oDce6NzDLL1021sgpC8KiCBIQ5amQXr+2EldVkdwSNcPWz8CCOHyj/yB0cLC/F11fBBIz6DaQHphCq6hve1zdhugAISU2aFYGwhpCbarhfGMQPmHi8ImkLLGgKxLSBGAih/ND16kjUAoaAARiqoNhEWwWw1lYVDsnEeARZfpg1UDRcIg1kDYcbC7AkYfIQDSk1oD1YBBrIFQqJsDLb8F8JDle+wwAhFqfQWJjjUQ6qIMqOwKwg7j5ax4H6oV/wbEwcgOK7+g1YrrgZgufeLzcCVQ/p/aMAz3VyCbLnYYgW4QRAd3aD+eO1gFtPl+45ED2QsagP4DDEO7V+XkfTQTvwEazLEErRKdMQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdUlEQVR4Xu2WzUsbURTF5xHCMCUkBAISQhuJKCQVTYNVA2lTQRFBFKEtdNlFF12466KLLlz0/759501Pc+dmomQmsSBeOBCGybzfO/fjvSh6jqcdTh7Wo4WT0elI9qb7sjvZlcF4IP2jvmy92ZLeXk+6r7vysv/qsaCcHJy/DRqeDDNQOwc7AQpAne2OtHvtdbvl5PDi8J/gkoaiSwTa6G5Iq9MKWgOUk+PL44zgElNHh5gyDdRsN6XRaqyyvpyMr8dzoksWCPVDIMLUmjVJ6klQPYrKQDmZ3EwyIpCuIwuE+skDAkycxAFouLm5LJSTdx/fZ6TB4BCAdP3kAVmYgkBOpp+nGVkw1BFSZguaQKwfAhGmMNCvRhx05/Xby4IxbUiZ7TAADaqRdCuRtLwz2p3CQHTiRz2Wnwt0W6vKV69PL6pykVTkQ1yRI69RtRKA6JCGKQzEAkZqUC9Y3Oq71zevLx7oygOdeZiJl257C4T0FQIiCNKQxHGQnj92UufVERzS9cPWLwCEcOlH/sJoYWH+XnR8EEjPoNJAemEKrqG97XN2G6AAhJTZoVgaCGkJtquF8YxAeMcKm0DK1gZkXUKKAMSPph9OD16kjUAoaAARiioNhEWwWw1lYVDsnEeARZfpg1UDZf+7VMyAsONg9wIYfYQASE9qDVQCBjEDQqHqgUYYfcjyPXYYgQjFK0hBGMQMCHUxP2HTurFXEHYYL2f6PlTCHcRyQByM7LC8C1oJGMTDQEyXPvF5uBII763AHYa7F8imix1GIA2yAhjGbOhlP5w6uAho/v0VRv4uUyB7QQPQWmHuj/mj4z/CpKHdy3fyicQfeJH8/06smPsAAAAASUVORK5CYII=",
     "wiki_name": "Adamant med helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_med_helm",
     "equipment": {

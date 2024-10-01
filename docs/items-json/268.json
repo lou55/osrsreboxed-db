@@ -1,7 +1,7 @@
 {
     "id": 268,
     "name": "Dwarf weed",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "A powerful herb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xu3WS2vVQBjG8Ryyd+XKjatu3Ahu/BgqioqKoqKgO1GUUhQvpXijUOoFhRaEUktpC4ILURT9ZKP/SZ4570zGY3KSigsHXjInyWR+551LUhT/fhm5fOSu73oZuWdzx92T2WM+Fu4cdfO3jvgQYm3ponu3eMGtPj+fQaV/oje8AgkFSJFiVp6ec68XzkQd85tracSoTsiRW7x7ooHiCEQh0Mv5027p/kl/L8cciPst+uvmnPu8fnM6lEDUlR2B3j4+60G693cg2n3ZmHXfdx64HzuPPKgThofqXwtEpznQ8sNTAUQ9B1pfvhSBqLcEjaJhoCNNbn6nIDoHoeGlzjO4puGhvvnqynAgZYlzOZAySfhO9hbjY13ffnM1gIhOIM2LFETnKUhZCJh9RTP2V6gI9P52fxDnAQkVskCnNcx3LoSNoUEEQ9kAmQw0EDPlOAzo29a9thhKDLIoLd8IpI4PlHkI54npQZQq/ayYFBSGRiGAxQhRR3mwF6jag8hQCvIP0RDVHdNZeaiZEX++Dtp9WrsRQB02xWrJ50D+AZrAKahGlYdjyK6AtNEVe4rxvmKX80wGRL0O2jLnBgHZLFUPqIcsAflMGUQK2nhxOYDYpVtiKNUKy4H0fgqwzCT22SFLJriX14bN0FSgdB5x3j8ot6QFUmYMhuHitTEYSKiQlUmgJEMCfVi5FoE6oCpQOmy+sX0dTEIBof6rDZsnnx0fV68HEHtQh30oBhG+oV3uf0L5jqpPDrLTG8QqS4dNnbQJ2oIhO4OC0mHjvIaADu03EBun3nu0072AWPIWxB7UeR9Khy0FUZ8EUoa4dxBQbtgsiGv2s8SCuM/On54gSnNe5MJibKQgNkULUnQAtS1NpMLOn78ImlSayGb8L/3KT3cdjjrC3RqWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwElEQVR4Xs3Wz0sVURQH8HnMvlWrNrlx06Zo459RUVhUFCUJuZOiEEn6IdIvBLGUAoVATKSEoEUURf5lN79n5nvn3DPnvWaaMbxweNd5dzyfd+6PmSw7+m0Q/PC+P/Q2CK/mL4YXcxcklh6eD4v3z0kQsbVyK3xYvhk2X99wUPZHdIYXIKIAYljMxsvrYX3papIYf+M7GymqFXIQlh9dqqHwCQiDoLeLV8LK40kZi08PhPEa/XN3PnzfvvdvKILQZ3UIev/8moA4dhgI9/3YmQu/956E/b1nAkKOM2NjEja7aUXZ+asJQlIPtPr0cgSh74G2V28nIPQJstlNGyTTgERc3PjbgpAcCE4v+vgf+I7Tg/7u2p3+QKwSrnkgVhIhiONZ9Vn2P7+bjiBEKxDXhQUhuQWxChFzIqvHyQKVgD4+6A7CdYCIilVA0hImyYnQ0TcIgamsgVQFaojxvAoF+vVpIWJagzSK2zcBMfGp3IfgOmIIyGYf0oryY8dYUJwaBgEaQ0QZ+elOoOIMQoUsSACcojIxkuVn6xWR62Xgvm9bsxGkD0Wb3bRiy3sgwXABW1CJyidSyKGAeNBlx7LqXNHbedwBoV8G7sWa6wWkqyQoTpkBSaUUwoJ23kxFEE5pYhqBsMM8EJ9PEeYsYqkOqqQCY/HY0BVqWB20CmTXEa4LxNvSBLEyCoPpwmOjNxBRsSqjQKZCBH3ZuJuAiLLZnVaA7LTJzfpxMAoFCPoH9+DwxGvH182ZCMIZ1OIcSkEIwejt/jeU/PLilQPV6QzCLrPTxiRNAvcCg+r0CrLThuucAiTU70A4OPncw30cCxC2vAbhDGp9DtlpsyD0R4FYIYztBeRNmwbhO/1aokEYp9dPRxBafV14oTE6LAiHogYxWoCyjMf6qLBAHXr99AJq2iyyCZZRjf1PzSK9sPcc6fYHwSHYxrmTtAEAAAAASUVORK5CYII=",
     "wiki_name": "Dwarf weed",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf_weed",
     "equipment": null,

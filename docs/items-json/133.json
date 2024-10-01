@@ -1,7 +1,7 @@
 {
     "id": 133,
     "name": "Defence potion(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "3 doses of Defence potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xt2W7UtTYRjGfT4V4kybm8y9tM2XsgVq7SWdljVn07XVkkpXVrZck+GczLmXIAiKgggCEQIpCGkIgS8FQRDRhwhCcH/S1Z5nneM5U/x0dg54w/X1PD+u67pvTk3N4RgCsRQdgumJVtz0m+Dt1+HsmUaloQgKS/1Yfetmmn/UiTshi5JQhId5//o8ElMnMR48oRRQuTMc0MorF+L3Olh8CvSJIBAcQyh0m3dn+bkDsbvtuOEzwul0o899SU4ognD4/h5dDYzBOxzAxcFhdHc75AWajsaYotEZXqP+EDxDo3A4+tDe0SkvUHI+xSuRSCIeT8A3cg29fYM4beuCXs91SbYh+FRYw9bWF2xsbGJ9fZPF1dPjVKLUdAgikcfIZLLI558w0bjs9l4lYOgQzM7OIZfL/VceQ14/XK4B5YAy2ZxIV3xBvkMyQxE8jESRSqWxsJBGOr3IoqO36bJnRInYCGKxOObm5vlNm5ycwvjEJIMauOCRH6i7eI6XZacNpj9WGH9YYPhqgnZJh8akWi4oAvPfVhFQ286pMtDPMlDzcgsaU01yABEYv5tFMBwQheSB3rVAndWgYabq/0cld7bF7lB17tgYkOmXFYZvZjSv6NH0VIPjmaq6RNiDlTA80PYukO5DCeiZlsVWH6mKSwT6LRMrbyUMla3YJQb6aIDmZXM1Yyu7Yy+69hUFYpv228o61rJqgPaNjsVGt+1YTFIowopKH6wE4URdEgEVDGz1RbHV1UgFdbA7+wKtGdnqC2NTheulAzrIHU78LSodR/1nI9s0YWz1DxpQd10lHVQlQKVEQOsmVmwW2wstc6h2qFYqGDqEFZdKuF1CIO4W8ceR3qJSh2h/jjiOSgnDDf0gYU7Qx4WAlUD0UtOoVLe43kgOIxzuAcKDCW8RLbN6kbvQVQXZb3bh9uoQzj+rZ5avMyviDAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Defence potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Defence_potion#3_dose",
     "equipment": null,

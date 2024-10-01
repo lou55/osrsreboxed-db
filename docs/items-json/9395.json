@@ -1,7 +1,7 @@
 {
     "id": 9395,
     "name": "Steel bolts (unf)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Unfeathered steel crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABC0lEQVR4Xu2WywrCQAxFzde5EHzXd30/sbZqhaKoVBAXLvzlK6FaZ8Z9I9K762zmkJNMmsn8XwjmiWAIi14PPwRF6NfrBpAYHOHgumiVSwoQYdxuS1WM4M/nGgwDdmuWBBDhfjphOei/Lic8LqEBmGgI1yBQ9BBu+70CKBJS+ifSJdo/x7WHQjYbA3mTsfKdeAhT29Z0iVYn3Pmo5HIxEFdLH/9EQ0bzEjazqRwMT5fazKzroy/xRM1r5fO/o0vfXcK6+CXuVCsakKguvrxRLMa6ztuNlC5C4DgYNptadUR312o0NDa5mK5okvjPUB13UV2sRl8Nwrr47THHXUjXO5Gm77M0adKk+b88ATZM5Mf0BiWvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABK0lEQVR4Xu2Wy2oCQRBFrT/xE/wLF4KPqBmf8RGjhviIMTAYYjAgLlzkl6+UYzddTVYuukTm7no2fahT1TWZzP2F4H9RDOG118MNQRH6UXQGymWzFyg1OMLXYoHWQ8UBIozaba2KEdbTqYBhwKfHulexICEct1u8DfqXahD+fncCMDjQPo4dPYTDZmMBA8OYkO0fo8sAKgARvt+XKOXzFmj5MrJnFaBxtyt0udUJDETYfa5RLRQsEFdLjn/QkNe8hNVkrFcdni63mVmX0RcYhpM0b71YvB1dcncp6+KXuFOrCiBVXXx5o1y2un4+Vlq6CPFshmGzKaqjurvmz0Nvk6vpSiaJ/wzdcVfVxWrk4lTWxW+PP+5KukwSTbIa/jlw/rvcP6dJkybNFTkBssYfnQ2kAQAAAAAASUVORK5CYII=",
     "wiki_name": "Steel bolts (unf)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_bolts_(unf)",
     "equipment": null,

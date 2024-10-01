@@ -1,7 +1,7 @@
 {
     "id": 14853,
     "name": "Rune kiteshield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A shield with the symbol of Asgarnia.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xt2X20sUcRTH/bEs0ktP0kMv0UMEBklBGBQ9JWaKedfVNu/XUtPczGu22gqZWZoJiWJhKou5mK4iilhE/Vnf/J7Z2Z2dXI1mRPHAYWAeZj98z/dcNi7uZISC+c0RhsL06DscEyiFqZER+KenMfpy4DhAKSxMTSHo9x8HlRTmJyexsjCP+BvPBOyIVVJYnpsTGMnrbVK+gfb2o4BSCHyZxea35TBMfHILnNca8bbfiyd1dSGovfJQQkVgTEDOq/UYHxzEmxd98HV0oLe1BZ6GBjRWVqCqpGQPQMugChuBgOReMM4r1VomlcN52Q3nJZeWiflwXsyB40KmpA54Py8XuenpVqAUdtbXYqoThjECmWCaq6tQ43bjQUE+8jMzrcH82NzE+tLSwUAxYOiv+tJSlBUWoigrywoMQ2E7GIzA7GZlx0IYKrdqaF8YvVQVLheKc7KRnZZmBUjh59YWgouLUUDVXX55lrZ9QlaZb18YqmOTbxgKW6srEZib3ZI13V/R4F1FceMEMtzeKBgz0MPysohvTp+zAqR5R9QJgehZ2xsQqJmxMdx19QhMakF7FAizpbZG1LGhVAyDOjrMrT6Bqe9b1swcA8Sojm2lojoCYQD6tb2N7xsbMrFZrpQ8Dwa7uuRphqE6NLKUKiHROpDZOzT3o/41eb84MyObnjCvenrw+nnvX1Bsc6pzLzXVOgx/PKzObrJE+pPziFueZuYOu1PUGc7bOa0CwyFIdaRU1ozMMKnDeRNKGpl3EL1DMxOKIObuojo0ckZKinWY3zs7EXVCw0+fyhyI4RYPQZmBotQ5lWAdSNQxAUlH7Wa5ZzZqCBJG2t4ApKtjQ5szlHSRsVQx95UBSofRO0v2lXXvMLSSyTA8aIEaSmdUx4Ztbg4lQJw1/wQUKpc+ldnqjjNJhwPE9o4JZFKHU1nf6DbCMLRTVQf6PP4+NpBBHf3ecZxNthuIoR30OhCn8sehIYz5fHI3czrznwZv586mpqhr8BBgGBGg2YkPAjQ5PCyHPKczgbxPPeh+3CzHPIHoH8d5y4Nwv+CH/ydPYPwB8ZGsPwDyMeYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xt2X20sUYRjG/VgW6aYr6aKb7CICg6wgDIquEjXFPOtqm+djqWlu5jFbbYXMLM2ERLEwlWVzMV1FFLGI+rOefN/db2b20/U0Iys98DIwF7M/nve4MTH/hwTUN1GUwPToB5wSKIGpkRF4p6cx+nrgNEAJLExNIeD1ai5di4+PFpTA/OQklhfmEXv7BYNF2SWBpbk5huG41cbpG2hvjwaUgP/bLDZ+LGkwsUktsN9sxPt+N57V1YWg9ooTkdBhFCD7jXqMDw7i3as+eDo60NvaAldDAxorK1BVUrIHoGlQgXW/n2MvGPv16mAklsN+1Qn7FUcwEvJhv5wD26VMDgn4MC8XuenpZqAEttdWI7qjwRiBFJjm6irUOJ14VJCP/MxMhqHuPEaHCvza2MDa4uLBQBFgqL7qS0tRVliIoqwsMzAkga1AQIfZicqOBQ0qt2poXxiZqgqHA8U52chOS9OA1F86hAR+b24i4POFAVV3eflZ2vYFWWWefWHIHbVuTLmzubKsw9zp5qjp/o4G9wqKGyeQ4XSHwahAj8vL9Lo5e8GcO1Q77E4IREZtr5+hZsbGcN/RwzApBe1hIBQttTXsjpqqYwNp7kiYu30MU9+3FCzmCCBGdyxLFbnDEAagP1tb+Lm+zhOb0pWc58JgVxc/VRhyhwqZUxWXYCZVpN21Q8X9pH+V3/tmZnjTE8ybnh68fdm7C4ranNx5kJJi3h36cc2dnaAUySfNI9ryVMy0w1KLOrW4l9PKMDQEyR1OlblCJinu0LwJBRUy3UFUO1TMBEUganeRO1TIGcnJ5t35u72tuxMafnIq00DUWjwEpQKFuXMmziJ3FCDuqJ0od82GDUGC4bY3AEl3LGhzkuAuMqYq4r4yQEkY2Vm8r8zXDimYMh6GBy1QQ+qM7liwzVUJBqJZcyigULrkVKZWt51LtMIdKR2I2jsikOIOTWW50S10hxQ8VSXQ1/GPkYEM7sh7x3Y+yUp3pIIHvQSiqfx5aAhjHg/fzTSd6Z8G3c6dTU1h16DF7kjpQLMTnxhocniYD3mazgTkfu5C99NmPuYJiOrHdlEfhOoXLZD6D+FwcQLu6JIfP2qo3zmq/gHbxvEPpcoVUAAAAABJRU5ErkJggg==",
     "wiki_name": "Rune kiteshield (Asgarnia)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Asgarnia)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11825,
     "name": "Zamorakian spear",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2013-10-17",
     "duplicate": true,
     "examine": "An evil spear.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xu3VXWsUMRTG8e73EcQLsV60IOKFIGhRVNRW1FprEVHqC2VRfCnFNwqlWlFpoVJqKVoRREVR9JNF/hme4czZ7O7M7iheGDhkdiaT/DY5yQwM/PulEdKRev7HSyM8bh4OD2dGYszdPBRmrx2MIcTawpmwOn86rDwZS6D8n+gbnoGEAqTwmOVHp8LzuROFgfnNMx9FVCVkI8zfOtKCogaiEOjZ7PGwcOdobEudAtHeor9vNsPX9eneUAJxrdkR6OWDkxGktu1AvPdtYyb83Lobfm3dj6BKGDrVvxaIQVOgxXvHchDXKdD64tkCiOuSoEZhGRhIyc1vD2JwEFredqDNpfP1gTRL3EuBNJMCMWs8oy+B3r2YyEFEJZDywoMY3INsQlsQ/UyMjuao968uFEFvbvQP4j4goTSTdkcCoo+9Q0OFGfqwfLFeEAHAgnxCE7w/PTlZmB3aflq9lIN+vL1dFkMpgiyKzlMgYWinGbKzQ9vPry/3CqJkHdJ5J5BPaIGYSbvDaPtl7WqvoOwMYoa6gWxC8x7tuOdBtLegCodituVTICIF4j7vDQ8OxtqDaFcrSCiCAThxGYBrm9B2hvxy1Qays0RtQcoxmz/tQBtPz+UgTumSGEq2w1IgfQ4A0a45sjvW3UDg+WzYGeoJ5PPIfg6uH9gVa7/DPEjLxWejNpBQ+hxc2b8z1jxX/ghkZ9KCOKUtqAIqA6WWjWdT+3bEmkHKgljijytTOYgzqMI5VAQJxf3xPdtjzQDa8n65PAh43yB2mQVxb2x4W6z1jxkstcNsrmm5agPZZdN9C/IJrbOK99QWEFvegjiDKp9DqWWzIK47gWz+1ALyy+ZBPEslNKHPhparTxCFht3D54/CgzgULUhRAVS2tCIVNn/+IqhTaUW2xv/SX/kN74Z+gIeXMK8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xs3X60sVQRjH8XP+E/+AoHoR2QuFiF4EQUlRUWl0M5OIwi7Ioegi0g1B7EKFgiEmUkYQFUVRf9nEd5bfnmef5hx3PVs48DDr7uzO5zzz7Cw2Gpu/NUM6Utf/eWuGx61D4eHkUIzpmwfD1LUDMYRYmj0dFmdOhYUnIwmU/xE9wzOQUIAUHjP/6GR4MX28MDF/c81HEVUJ2Qwztw7/haIHohDo2dSxMHvnSBxLnwIx3qJ/rLbCt+WJjaEE4ljZEejVgxMRpLGdQNz3fWUy/Fq7G36v3Y8g5tjW1xfDz+5alnb9aoGYNAWau3c0B3GcAi3PnSmAOBbIz+5as7AMTKTi5m8PYnIQWt5OoNXn5+sDKUucS4GUSYHIGtd4lkDvX47mIKISSHXhQUzuQbagLYjnjA4P56gPry8UQW9v9A7iPCChlEn7RgLiGXsGBgoZ+jh/sV4QAcCCfEET3D8xNlbIDmM/L17KQT/f3c4xlUEWxcNTIGEYpwzZ7DD2y5vLSZCfvUPLHsjDu4F8QQtEJu0bxtivS1c3Csr2IDK0HsgWNPcxjnMexHgLspuin9217JVPgYgUiPPcN9jfH3sPYlytIKEIJmDHZQKObUHbDPnlqg1ks0RvQaoxWz+dQCtPz+YgdmlhSoF4c1IgfQ4AMa41tCv264HA89mwGSqZHVob5OvIfg6u798Ze/+GeZCWi89GbSCh9Dm4sm9H7Lmu+hHIZtKC2KUtSCg/e6JloNSycW187/bYM0lZEEv8aWE8B7EHVdiHiiChOH9u99bYM4Feeb9cHgS8ZxBvmQVxbmRwS+z1i5ks9YbZWtNy1Qayy6bzFuQLWnsV92ksIF55C2IPqrwPpZbNgjjuBrL1UwvIL5sHcS1V0IQ+G1quHkG09r8q3cLXj8KD2BQtSFEB1GhoW+8WHmjD1k8toLLNI8tgFe2x/6l5ZCr8PZu6/QE5mckMd08qZAAAAABJRU5ErkJggg==",
     "wiki_name": "Zamorakian spear",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zamorakian_spear",
     "equipment": null,

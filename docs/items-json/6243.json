@@ -1,7 +1,7 @@
 {
     "id": 6243,
     "name": "Broodoo shield (7)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": false,
     "examine": "A scary broodoo shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOElEQVR4Xu2W30tTcRjG/RIhjjEZGxvb2GQbc2yKv2DqSDGhkUNpKYYhFVaawsjMtJCsjEQwxC7KiygigvoPgqCrIOgiuuiqmy6C/pAnn+/he852Nqv9UAv2wgvihufj8z7v8566ulrV6p8qgeJ9KCWwPBPAtSkfsud9mJnw4sKoG5MZ92FACaxmmyTQ4iV/HtDyoAPZY/aDhBJ4d8UvgVbmCoHm++243NOIM+3WgxihwMerTXsC3Uk5MJtsxLkuG07FrRgMNyDhr98vKIGtlTAeLASxcSOEtflgHtDcpBeLA3ZMJWxSnc4WK+JhC4K+fQESeHwvIoEIo5pQS8NxOaqJYRfSAw4M9jYi2WmrFMi8trl/wBiTsyUpf968aUBdT8cwdyKC4Q4vUn129CcqBhJydc2twD5kA3g7rcG42vol0PvZgPQQx8VRUaHxIacO1N1mRVvUUl0gNseUC/N5wTA0V57euTjukdlzOuWU46oCECt/XIR5uh6VQFSDIF+XghJOKWMOQwJVSSFzCbzYjOlAysjcLvOaKxgaOheIK59qtqC3qQEd3npEXUfLhdIUepPtw8vZJJ5N92BnKiEB+PCR3RTmA5kzXG9mjsUdgNUbkoHIz/n70VYNiBnk89TDajlSDpCmzM79ZjxajeibpJShIjQufcIkJoiCYTODzCvvdiplyoChR+gVbhV9w4xRaUwDE2gs4ZdjoUK5MKoVTGR3VAZMySXw/XYY326FdKhP88bhVNec653p8kmgs7sPfjji0kGoGGFoZMKUqYoqgVdbMTzfKDQxVeFaq2b4qbHQM2snndJHaqsMmLJL4Meqpo4aF0HUnaJK3CLVQ+0ePYkJxlNRRRiWwM+7GtCXRe1omt9zaGTVqVaPhGETjH4hTIUjyi1tXNwsNSoqQ9/QMxwTR8J1Zh+Pu9EdckiQfJiqlMDr7bgMQK65ut5U6MmYWw895grHI0Mv6pIjUkDmu2d+QokldCMzc+gddRa2My79HHCj0jGLbmbj4YU3sEIoIdVRL12513s97Sx4vymuQj5c4eclldATWRlZvUqo+0TjFgcxl6HWn7/72zL+w737b6vU79fqP61f0GwFcCAGxAAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADW0lEQVR4Xu2W30uTYRTHfYgQx1DGxsY2Nt3GHJviL5g6Ukxo5FAyxTCkwkrbYGRmWkhWRiIYYhflRRQRQf0HQdBVEHQRXXTVTRdBf8hp3+fhvHv3zNHmlnbhgQPiu5fnw/f7Ped56+qO6qj+qxK0dx9KCVqZ99ONWS9lL3ppftpDlyZcNDPuOgwoQWvZZgm0dMVXALQybKfsCdtBQgn6cM0ngVYzxUALgza62tdE5zqtB2GhoM/Xm0sC3UvaKZ1oogs9jXQmZqXhUAPFffX/CkrQ9mqIHi0GaPNWkNYXAgVAmRkPLQ3ZaDbeKNXpbrNSLGShgFcBdbW01BJK0NMHYQkEGG5ALY/GpFXTo05KDdlpuL+JEt2N1QLpY2uWOG+Toy0h/966nYe6mYpS5lSYRrs8lByw0WC8aiAhR1dvBvuU9dP7OQXj7BiUQB/Tfpkh2AWroNDUiMMA6u2wUkfEUlsgNGwyw3xdzAcaI4/sXJ5yy91zNumQdtUACFVoF2Ceb0QkENQAyPflgIRjZfRlCKAaKaQKL6iXBL3aihpAHGRMlz7mDINAm4Ew8slWC/U3N1CXp54izuNaLssupdC77AC9TifoxVwf7c7GJQAOH8ttYRyIPYPxxs6xuPxk9QTlQsRz/H+iXQFhB3nd9WS1HNuPSkqZ3Yet9GQtbEwSKwNFEFzkBJsYIAyDxg7SR97lYGUUTAVAQmYEWcFUITfYMbyNEWAATcZ90hYoZIbhZphwziqGYZCKYH7eDdGPO0ED6stC/uLk2xzjPd7jlUDncwc/HnMaIFAMMAgyYPapCpegN9tRerlZHGKogrHmxvJjW5CZ9dMOmSOeKobZhypcgn6tKXXYLoDwPQWVMEXcI51uYxMDDFdFKRj9pDJL0O/7Cujbkro09e8cBJk72e6WMGiAIS+AqdIicym7MFlsFZRBbpAZ2ARLMM7okzEX9QbtEsQMU4VF5hL0dicmFyDGnG9vKPRs0mUsPewV2COXXsQpLWIg/d7TT6iwhBFk7Bxkh6+FnXGncR1golJRixHm/OHFd2CVUEKqwx9d5tt7I+Uo+r7Rc6LsKYTj5/pJZZYwNjIHmT8l+H5CcPcGyReD1Uylv3UpkOIq/L3+tOwyH1iq9XdKVaW/P6py6g9SGk0eJ+XJvAAAAABJRU5ErkJggg==",
     "wiki_name": "Broodoo shield (disease) (7)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Broodoo_shield_(disease)#(7)",
     "equipment": {

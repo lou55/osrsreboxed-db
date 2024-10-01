@@ -1,7 +1,7 @@
 {
     "id": 20891,
     "name": "Tekton's journal",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": true,
     "examine": "Scrawled jottings of a diminished mind.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xu2W30sUURTHHWRZdlmE6CF6KCiowAIJ+gkWRVioYGFsYbH9QpMKKbJIQhbBKBahRPvlw1aSpSWY9gOCHoIeoocg6CEIeuipf+PE5w7HvbszbO7cpSA88GWHmbn3fu4533tma2oW4/8LT0rv/MPwpH9zXHyoaoA5z+HJtW1xGdgSrwKYJ22rah3Gm/BkqDEuN7bHDRhQfZuigPnzbF1WBaCRnQm5tSNhJrSzdWmjDVZeY7sTMrE34QpD+JPd2ZUwYGHZAoxfQHnGO7zLuPwe/5fxPQ2x6gA9aipMzEL5fG9AQAEIKFBkFAjG6CYaljqXi/Bkcp+fbsDMrkOAwgQ8ArLgO+fwZKYlKdPNSQNGpliEHauXUCkMIkuI99pXV6VchCdv2pIGiiyRIRZRc9tQZEG9xHMtFffql9RYJo8c/gQAkSFKhi9sY4eB2V7ifnpNTLpPtxpTcx0RypP37Ul5dyApc63F5VKgclCaJa6BObMhJh1rY1H7UAHm7f5gubQn/QmM387OFgPTtT4mjcsjwigIpSI7drm0SS4ECgGCmlZUCYbsaLkAUqhyYApHbzpZH9k3XgBEj7qWSzuuDWWD2XCUDBNn1sWsE1ZReKEglEo7tXbrUrhSQN4jS80ra6OamCjuyLo4kN8zKfnSkZKP6ZQpqWZRxSZUPGM8WeJURYQhvPnSsGMmHRw8IePjV2R2NicvZq4b/TiWMoBfj/iQnw/7oB8OJuXToZQBunf3vIyOnDP+cQIiQ/iAP1G9F9MyPHxWnj65Kq9f3ZSXc0MGTOF+naqTn8frDCDi+tlUVqYm+2XicZ/ZCMfdCYiUk2qMmM1mZOz+BeMnuzzTzwcqkhMQCwLEzigdZSNrtkdskQVbDx9cLpLjF94/9gABAwh+wMR4hM6tbUFPour2aE+oaIxOQCzKYgqBYTEvHvl2NGhibaJ2A83luubF0XcAIvyv+0IVduw1a8CpHKEqiSBk6XcN/UWgsAhClr6xGK7xGy0FsymHeYGuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xu2W30sUURTHvciy7LII0UP0UFhQgQUW9BMsirBQwcKwsLBfaFEhRRZJiAhGIUKJ9ssHK8nSEkz7AUEPQQ/RQyD0EAQ99NS/ceJzh7N7d3bYdmYWhOjAlxlm5t77ued879mtqPgf/14Y8T9ZxDDSuyUpHlQ5wGLPYeTG9qT0b02WAcxI86rKGONtGBmqS8qtHUkLBlTP5ihg3jzblnlAG6urQ4zNCyMju1JyZ2fKTuhm68omF6y4xvakZHJfKgsTC4jJ7u1OWbCgbAHGFVDe8Q3fMm58r3dlfFdtIm52CCNP6nMTs9D4eHeBgAIQUKDIKBCM0U3ULo1dLsLI1H4v3YDZXQcABQl4BKT6Lma5CCOzjWmZaUhbMDLFIuxYvYT8MIgsIb5rWV2WchFG3jWnLRRZIkMsouZ2ociCeon3Wiqe1SypcEweObwJACJDlAxfuMYOAnO9xPPWNQk5e6bJmpr7iFBGPrak5cPBtMw35ZdLgYpBaZa4B+bchoS0rU1E7UM5mPcHCsulPelvYFw7OhotTOf6hNQtz8GEADJZEEpFdtxyaZMsBQoBgupXlAmG7Gi5AFKoYmAKR286VZPzTWgYP4gedS2XdlwXygVz4SgZJm5fl8iesBAwhAkEoVTaqbVb++H8gHxHlhpWVuaZODSQC6GLA/mjPSMLbRn53JqxJdUsqtiEineMJ0ucqogwhMmWhh0z6cDASZmYuCZzc4Pyavam1c/jGQv47agH+fWIB/rpUFq+HM5YoAf3L8royAXrnwil0vAyhA/4E9V9uVWGh8/L82fX5e2b2/J6fsiCKdzv01Xy60SVBUTcv5juk+mpXpl82mM3wnGPBUTKSTVG7Otrl7GHl6yf3PLMvOwPpVhALAgQO6N0lI2suR5xRRZcPX50NU/uL7x/tRLCO/YAAQMIfsDEeITOrW1BT6Lq7mhXoGiMsYBYlMUUAsNiXjzy/VihibWJug10cLAzK45+DCCi8L9wMQUde80acCrv+4ihPaMU+QGR/3cN8TxGlsJFKZC5d4sUfshFhSlH/AGs/PloK4gptwAAAABJRU5ErkJggg==",
     "wiki_name": "Tekton's journal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Tekton's_journal",
     "equipment": null,

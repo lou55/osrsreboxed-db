@@ -1,7 +1,7 @@
 {
     "id": 14045,
     "name": "Unlit bug lantern",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-30",
     "duplicate": true,
     "examine": "A lantern to aid attacking Harpie bugs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACX0lEQVR4Xu2VUUtUQRTHHS7D5e6XEL+AICQVFQkpZYhIsclSBottZCSxsJDEQhKFhMGC4EMPgg+CD0FvQdCHO93fHI530hSRuV0fPHC4s7Mzd373f86cMzZ2ZbWak7+9MVOA7kMv64+9bDzN5dOLvCkoJ70FL4NOBbE4ncnKXd8EkJPOrJfhc1PDAJxsPGpEIVUnBrHnehm+BlRy0n9SqROPu/e8tG82AEQC44SNHGJMPgHXufNfgKprjQqDpVy2XuayvZbLt0ERxoCtPfAhueP1NcA5mbuWyfz1TBZvZQEG31xWGMa7/SIkNOP2jA/rWD8zlcntSQNMYnqjVu57mZ9SGA5GidGbQvbeKdB2Gbqdt0VQrDfnQ9hQihrF/kRAmrCWJwCgSn8hl/33RVCHOQCH7QoItzH72E9+JYBy4UDCAQCHcDhXm8PIGxRi7mCoarHeoGKwBDCYk53VIoRj61n5tR1VgnDx5QbKnAExBwBKmrMvERCm1dcS1nKILydkgHDo4QeFszASVluPJwTCXDhg1C1kYuLGkccKoJJBGwy/KRGJYTAXDiB8MdBur1TklTpjgMfHp4+8VqAQplOA9l5XQMwbEKrV1NecXutzAhnUpQLCLyVQTY3230CW0AZ0/P+agLRbXwSIiwAQjTkRlAsVmSJI0fvxuXUCCBic8XEgiuRmt6zsS8lU0l5GS6AiU42/f6ygTgMCnHWsrwUKIBSKoTj055eW/Prakt8jHccgrGUPe4FKBGPmwkvPAuNp/ewkSFIYM30xfQu3MBpU3Fzp+Ik7/FlmX3wev7L67A++fNCV15NW8QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xu2WUWsTQRDHuxzLcfkSbb+AWLCoqFjQopVSihIlaIWgESsWCQQsErBIpUiFQKEPPhR8EHwQfBMEP9yY3w7TW1ej0tylFRwYMtns3v7uP7M7mZr6b7Wakx/92EwB2je8bNzysnk3l+2H+XFBOekse+m1SoiV+UzWLvsQn56ZmSSUk9ZVL/37poYBONm8qWMTB0KdGMQ+N4bpM5XSVTWak+7tUp04bl/x0jw/8bS5UMA4aaOGiKkn4FqXJgJUHmtU6K3msvMol931XN71ihADtn7dh+KO59eQPieLZzJZOpvJyoUswOBbdxSGeL9bhIImbi74MI/5C3OZXDxlgJWYnqi1a16W5hSGjVFi8LSQg+cKtDtM3d6zIijWWfQhbSjFHcX6ilKoBWt1AgCqdJdzef+iCOowBmC/WQLhFrOO9dRXBSq5sCHpAIBN2JyjzWbUDQox9qGvajHfoGIwU2hMlZzsPShCOnbuDd+2pUqQLt7cQBkzIMYAQElz1lWUMkxvXytYqyHenJQBwqYfXyqcpZG02ny8QiDMhQ0G7UJmZ88deqwAKhm0wfCdK6KidMXmwgakLwba7wwVeaxODPD09Pyhp0DpU8cwTdsooIMnJRDjBoRqNXV/p8f6L4EM6kQB4ScSqKZG+2sgK2gDSn+vCUi79VGAOAgA0Zj1OWObCzcylyCX3ufXjZ+AgMGJUyAuya328GZfrUwl7WW0BG5kbuNPr0qoUUCAM4/5KVS6wxHMBSAUiqHY9Mubhnx925BvA41jEOayhrVAmUIVqIS58NDfgfFp/SwFqRjGTB9M38ItjQYVN1c6ftzha4BR04em/5VHe20gqcVv/SdP1/6z9h2ngAzaCC4QdgAAAABJRU5ErkJggg==",
     "wiki_name": "Bug lantern (Unlit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bug_lantern#Unlit",
     "equipment": null,

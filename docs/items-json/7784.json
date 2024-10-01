@@ -1,7 +1,7 @@
 {
     "id": 7784,
     "name": "Agility tome",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": false,
     "examine": "A tome of learning which focuses on Agility.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xu2X/UtTURjHd4h+EZmEkqhkVNRAQxN8i80ybJgv1Ko1x1y+LWNopYxeRDB7FSMYiIUgFAj94H/51PcZz93juVeNe7ci6IEPk7u7ez473+ecM0Ohf7cMlfnrZWj+XoxGY+2UGOxUYl5UvQytzt2imdv9LHO1NewwcLbOhVuw4rKGXkzFKTPSS+nhbpeAcOP88VRAzNDGkwQtZYZYxh7gMOIXTrnA9YdjfVTI3gwiZejDwh1aSF3nyPTD7YHzAxcZW2TkUj2D+xEzpAIJrT8eo7lElJsaD7YHtIWASGhEqLel1q+QoWIhyQ2dT16j8Yh7EI2Wwb0aLRQ+GfIv9Hn5Pmf+ND1IibYG10C/Az6nhYAPIUNfV9L06dldbujk5QZ+MGYAr15yMkPyvkaEWsMnKNJa71/oXX6cXs0Ms5Cge+Uw9P0ihK2ho7HGjwzK0PbLCVp7NMo9NNFx2kEPdpwg7hchNDNmyIeQoW/rWdp6nuIVlrnS6KDFBFvAvgYhxBWomXfXJrmhEdlUVyOjxbSgLSTv6etoZJ9xGfrxcZaFsEPPdjc5iBiwowG2LK4hUuxRiKqpxmdce++naWc1wzM039PMaDEtoeW0sMwohNDMgTZDCGGFYVPM95WENFpIC4qIiEMI2wFkupp9CRna38zR97dTLLTY38JCGi8hLaVnEv0kzew7LhFCZBDS2HL27ImURIzVFWBnRpWFtpfitBRtcbDlvAQdsV9/IzppZp9xoUpnF3oHe9CDSC2TbgszRwnactLMiMxnXKjScYGfGjhMIbf/JeeQbS+JabzkEJc0c4C4UKXjAkcF9iA7jr3itItcZx3NdIQZCANspjiQ8UMswHJHGe4fxAXsby5ADj2ys5Fx2N2cdCguDtFKpp+Wkz1B4pLCh0vonvFCy2GJF9eSzNabFFP+D6RiVZaTOIRC7MwBbDlZ8hUW0lWW8xLUQAyrrP1cQzWF7Dpc7vV0lAqp3j8pY9fB2Svzv6pTPwFgx8zcGerCIgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xt2X/UtTURjHvUS/iExCaahkVpTgYiroXKhlmJgv1Ko1x1w6XcbQShm9iGD2KkYwEAtBKBD6wf/yqe8znrvHc6+aZ6uoBz4od9d7Pp7vc865q6r6d8uhEn+9HJq720ejfSGKDbQrMT9+ezm0MnuTMreiLHOlOeDSf7bWg1ew4rIOPZ8aotRIhJLDXR4B4fr5o6mAmEPrj2O0mBpkGXOAgxi6cMoDrj8Y66F8+kY5Ug69n79N84lrHJl+uDlwrv8iY4qMXKpjcD9ihhSe29HSYiPl0NqjMZqN9XJT48HmgKYQEAmNCEWaamyFHCrk49zQufhVGm/1DqLRMrhXo4UCJ6vshT4t3ePMnyQHKNZW7xnoV8DfaSFgIeTQl+UkfXx6hxs6frmeH4wZwE8/OZkh+VwjQs2BE9TaXGcv9DY3Ti8zwywk6F45CH2/CGFrCAerXZljC229mKDVh6PcQxPh0y56sKMEcb8IoZkxQ1az83UtTZvPErzCUh1BFy0mmALmNQghLt3MxxbaWZ3khkZkU51BRotpQVNIPtPX0cg6LnPEQ8qh7x9mWAg79ExXg4uIATMaYMriGiLFHoWoGqot49p9N03bKymeobnuRkaLaQktp4VlRiGEZtaboZUQVhg2xVxPUUijhbSgiIg4hLAdQKaz0Wp3dmhvI0vf3kyx0EK0iYU0fkJaSs8k+kma2TouEUJkENKYcubsiZREjNVl7szWQluLQ7TY2+RiyvkJumI/f0d00syWcaGKZxd6B3vQ/dYaJtkWYA4TNOWkmRGZZVyo4nGBVw0cppDb+5x1SYeKYho/OcQlzVxGXKjicYGjAnuQGcduYdpDtr2WMuEAA2GAzRQHMl7Eynj3QTncP4gLmP+5ADn0yPZ6ymVnY9KlsDBIy6koLcW7y4lLqvQNQfeMH1oOS7ywGmc2XycY+QZiGVepSg8oyUkcQr7vzD5MOVnyZc6Ot/zk/AQ1EMMqC52rr7yQLpEzBU2hV9O9lE9EKhPXccpPTvNHZczSs7d/Jv+D+gEy1hBMdFaomQAAAABJRU5ErkJggg==",
     "wiki_name": "Agility tome (Red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Agility_tome#Red",
     "equipment": null,

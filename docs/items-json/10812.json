@@ -1,7 +1,7 @@
 {
     "id": 10812,
     "name": "Split log",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-06",
     "duplicate": false,
     "examine": "Used to repair bridges.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5ElEQVR4Xu2WXUsCURCGPb+huy6SihIq7IMyxSTDNKTIRFQ0kQxDMgSRCiEKgr5ACkoKAqPoQrqKbiLoJoK+/tXEnOXo7qK1mx73on1hEFnn7LMz78xqMOjSpUsXAWloKgJzjm7w2rvAZm4Hk7FNJVRTH4RQkJDbBEn/IERm+iDg6lVxOKF5qcAQLHr7VeTVFQGPtZOC4MEYCZ8ZMuERBYcTmpcODkN+yQrZ6JiCnB9FwGUx0nbFZwcqQGKw+q0Q2ox5CHKUccLB2qQo508isODskVRHHtiK2mCEthZ/g9UpZKfgdH0aLvKeRoBQwo3kIAyGhbxiaH70DLZrZ8UOJzkXFDfdjcKIJdxIDFErGJhztIN+YruwVRyAmNSBbcTHqX+wXRxgxFIGxcBaAIRSXi25xzjD/Q4lB6s9mU2VsmphoNFxFeymJug64A6Gy1QOwQLXAAKh2V9LUXg+D8PDcQDK+/O8oIR3H1ZADoOvm61lG526t6sYBXoqhvhXiAGx/cOAcjEL7K064P06Dh83CXi5jPAEYZICVced0I2N37/Kad5VEUsKVDWtcK2FIExVIPSKFEgTkYpXEEZjIEJH+r7gp1OEfmGhERSB0rYX7g598HgWhM/bZDP+/zQqsXFbbuB/rG/Ix/sXlSTa3QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4Xu2W20sCQRTGnb+htx6yCxVUlEUXxSTDLkhRiZRoIRlFVAgiFUEUBN1ACioKAqPoIXqKXiLoJYJu/9WJb5ax2WGD1Xb1xQ8+RHBmfvudM2d1OMoqq6yyGOldUjEa9dVR0FtLntZKanRW5All6YMwDjI12EjzoTaKDjdRONDAN3dVV5s4gPF1i2EXTQebrYBiNOSu4SDYGE6Mt1Iy0mFic8bXLU+208asm1KxrjwexFCMAt1OXq74SEsOSAb7uxRambEOIIdJP+2v9ElrChKjCX+9Lh3VKIUxGOOlxW+QTibVTyerA3SxMfT/lGAVRMAIq4mh+dEzKNf2gpeO0wE6Wx/MwfwDyOHQFmsHyRBGFmD+zir+iXKhVCqQekZBKgRsLd7D+wflsiQdIwkwFUK1KC3AZCB1PwtlPi21xzTbILNpqWDGN9NSmUsLRqNjFOws9vJxYBuYSAvDVIUQxhgAEJr9LRujl/MIPR6F6W5vzB4obIp3HxJQYfC62Zzz8Fv3fjXDgZ7PpnIJ2XIDZSAxfwRQeqabdpd89HEdp8+bBL1eRnUgNsBAeiBx3WFMbHz/vlu2OxVZeiDRtPJQLUIqsn6B0Ct6IK3xiwQixHK9AhgVqMhi/Eo/ZEL8FqFfhLVSFV2MsltBuj8Yp6fTSfq6ndf9/ylZSqpLCKNJbtySw9ilH5biMw8S+e1DAAAAAElFTkSuQmCC",
     "wiki_name": "Split log",
     "wiki_url": "https://oldschool.runescape.wiki/w/Split_log",
     "equipment": null,

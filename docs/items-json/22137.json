@@ -1,7 +1,7 @@
 {
     "id": 22137,
     "name": "Adamant kiteshield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-11",
     "duplicate": false,
     "examine": "A shield with the symbol of Guthix.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACa0lEQVR4Xt2XsUscURDGb1kej9siVSr71CktDBILISIoCAdKMHCgSAJCxCAKQkIwCAmiGARFBItACkGwEAIpAvnHxvlm3+y93dtn4b7Fw4Fprjh+fN8382Y7nadRCVV/ecRKqLtzQiMCxTBbx9T99ovsxx+jAMVAXy8pO7geBZUY5vOFwJglOwoqJZR9v6Ls6EaATM+KSnZl9zGgWJ3935T9vCWzbAdArJhd3yf7dsNB1XUrlQiMqKNAC0a6u3lIdu0L2f62gJnee/59lcx8n8zscg1gY9BEQAp1PKB0zoOCUveAmTdLZKZ7ZKYWKJ2cawLFQKd/B+pUgNIZ19OuX7t+NWgBAxQDxYHx1UH3HFAIxgMqYKAQq9MABlWjjgNCoINACgPbYJmDSSdmmgAxzPk/yk7+lGG4MXGFXVWYOnWaW4UK2KVAPkxIHQcjVj3vNAEKqyNbevesXp1qkONYhcrVMf1hGMkPj/kQTECdOFZBHVjlAzkYtOwcfjLqYATIBVlgxhpZhUpyqyrqIDf6oGIBBmE0yNGsYnUExgPCoypAfHroRg4CQR21qlmQUZ46HpCqAyAJcwhGsxNNnYv/QzACxCCYLNgVCnJhl2bnWUvqSJi5JTtsV3DMdSvHmSyUN+pVu/Q1/7BXzk9VHWdXhMlC5ZbJieqHGXYB6D6YxfXSmxUBRivJD3hWpdg7eu8wUDA7nl2dF2k7QFAGQKVHtAZIjjHvEY0Ig0pkQysQTozSIaZQVbt0ul5GVUcrP+gVCF8W+DjUKZMs8bMhp+q7T6WbpwUYVD3Q0N0MGKjjlmE63oo6Wvjjh/QTrDuq0wpo+wlaTQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4Xt2XsWtUQRCH7/FYlnuFlZVVGmvtLJSgRcAgRAgcGCTCgSIKAUURhYAiSkARRQkoErAQUgSEFAHBIuA/Ns5vbue9fXu7Icnbxx0OTHPF3cf3m9ndGwz+jyoo/GSGVdDwxTbNCRTDPPtMw7c/yT56Pw9QDPT6B1UfftWWLi4szAqKYV7uCIxZs/NgqaDq3R5Vn/YFyIysWLJ3N2cBxXa2dqn6ckBm3TZAbMxubJG9/dhBxbqXKgRG7CjQqpEePvlI9v4rsuPnAmZGD/jze2RujsncWI8AdgYtBKS24wGVKx4UTB0BZq6vkVkakbm2SuXiShcoBvr6p7ETAJXLrpdcX3V9pWkBAxQDKQy28xQb6mB8O+iRA0rBeEA1DAyxnQ4wqIgdB4SBTgIpDGJDZA6mvLxcA4W/dIximO+HVG3/bsNwY+PquEKYmJ3uUaEScSmQD5Oy42AkqrODfuzIKb35LW4nHORIVKcHYjtmPA0j88NrPgWTsJMnKthBVD6Qg0HLmcNXRgxGgNwgC8y5TlGhiklUgR3MjV6oOACTMDrI2aJiOwLjAeFSFSB+euiJnASCHY2q2yCjPDsekNoBkAxzCkZnJ5udnb9TMALEINgsxJUa5DounZ0zPdmRYeaW2eG4kmuup3KezUJ5qx7Gpbf5wzft+QntuLgybBZqEpk8Uf1hRlwAOgrm1kbrzspgR6uYPODZSn3u6HuHgZKz48U1OF/msKPVAMEMgFqXaARIHmPeJZrRDqqQE1qB8MRoPcQUKoxLt+tCVjtakwe9AuGfBf4c6pbJLPG1IU/VO09bb57MdrTiQFPvZsDAjjsMy0u92NEK/yEcr3uw05R++Uk7/J6T1j+VCE84NC3bcwAAAABJRU5ErkJggg==",
     "wiki_name": "Adamant kiteshield (Guthix)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Guthix)",
     "equipment": {

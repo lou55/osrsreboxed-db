@@ -1,7 +1,7 @@
 {
     "id": 8750,
     "name": "Steel kiteshield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A shield with a picture of the Dorgeshuun brooch.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xt2XYUtTcRTGvR9BkiQlQyXFDM0wM8wMzMQM08zMiAizEjFNzYaZZmYby8xymdXaGGZTxtiwiIg+3Knn3M71eNsr7x0TDxwEX+iP53nO+Z+blbU3yiD7bzJYBh2vqKBdAmXQiWOV3EfLynYDlEFnamvpZFUVVZaXZxrIoFPV1fR9Y52SX9fYtgyrZNCPWIw2o1FKfFmljVCIVSotLs4ElGmVqBMLh2k9GKTV5Xes0uHCwn9QqTotZTCMVif68QNFAgEKLS6yUkdKSlitooIC7kP5+dz/AzoGNaixvp5hoE48ErHUCS+9peDCAi37fLT0Yo5eP5sh3+Qkw0E1DXcwL4/7QG4utwMow4JJpc6n+XkKeL305vksvXo6Td6JCZp9NE7ToyPkGRyksf5+Gr7TZ0E5hjlbV2fBiDprK+8toBW/31Ln5dQUzXk8NPNwjJ48GKbxgQEauXeXVXIBBmVsg0GYoU4qu6AO7BJ1Hg8NsTrasv05OU6AzMnSMFDn+uUOutbebjWAYBfUgV1anfu3e92yCmVYML09Pdw3r3YxRGdrK3W1tfHPjpYWbqgDuyQ7yI22yiGQQadrahjiVnc3N2BuXOlkIAB8Hi0lf18RXWxq4r5wrpEbVkluoA5AHFqF2soOrJLJQphFlUvNzRaMDjJy47pVUEfvHUABBlOlYZAbHWRYZZ+qreW44/r7ZsXj1mYGENTBVGHEASMjDhh7kGXnuGYVJutnIsEPKSzDZGHnYAHKvsGIy1SJXXrMZcRdsev3t01WCHYhO9g5sErGW2BEHbtdrqqDrfwrmWS7tDpYgPp5EBj7Vtbq7MvOdgcIdunsiF0CJOoAxr6VXVQHZb7qmDC5eTBZEmb9XtnVgV16svDTFaDzDQ0MJK+6zo/9AYU62i4X944ucwfhdtb5sd87oo7YpR9Ql09ac+wBJLsH+dETpt8sbZfkx0UYlBlsAOFTJ9UBZj8xcBmKOmn6gDQ/dwCED0L8E9zMaBz0OE/lfpYbWoDSAIPaDiRQAiZQgJG7GUDIXpqAUPjDO+k9WH8Atyr9ujPIVSIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xt2X60tUYRDGff8ESZKUzAspZngJM8PMwEzMMM3MjIgwKxHT1EzMNDNz2cwsN7OylcW8IaJYRER/3NQzpzmNb/thdY+sNDAs7IdzfjzP3E5c3P8Rhux/YhiGjuXm0h6BMnQ8P4/zaHb2XoAydLq4mE4UFFBeTg4D5aemxgrK0MnCQvq6skwbiwtsW4xVMvRtdZU2l5Zo/fM8rQSDrFJWRkYsoByrRJ3VuTlanp2l+em3rNLhtLQ/UOFyV8IwjFZn6cN7CgUCFJycZKWOZGayWukpKZyHkpM5/wWMGtRQeWkpw0CdtVDIVWdu6g3NTkzQtM9HU89H6dXTYfINDDAcVNNwB5OSOA8kJnJGAWVcmHDqfBwfp8DYGL1+NkIvnwzRWH8/jTzspaHuLuprb6ee1lbqvN3iQgkMunMHHWroTEmJCyPqLMy8c4Fm/H5XnReDgzTa10fDD3ro8f1O6m1ro667d1glD2AQZgsMihnqhLML6sAuUedRRweroy3bn5DgAtlviiCcztIwUOfapTq6WlvrJoBgF9SBXVqde7eavbIKYVyY5qYmzhtXGhiivrqaGmpq+LeuqooT6sAuqR3UjbZKA9lviiAMnSoqYoibjY2cgLl+uZ6BAPCpO4v8Lel0oaKC8/zZck5YJXUDdQCirdoxkNQOrJLOQjGLKhcrK10YXcioG8+tgjp67gAKMOgqDYO60YUMq+yukuG4QxjE7521tuZOZgBBHXQVWhww0uKAsQtZZo5nVqGzvq+v8yKFZegszBwMQJk3aHHpKrFLt7m0eJSFjDD088smKwS7UDuYObBK2ltgRB3bLk/VwVT+sbHBdml1MAD1ehAYeyprdfbFx0evDoBgl64dsUuARB3A2FPZQ3UQzlZHh8nNg86SYtb7ylYHdunOwm+U6iAMnSsrYyDZ6rp+7AUKdbRdHs4dHc4Mwu2s68e+d0QdsUsvUDlpPYBBOG0PIJk9qB/dYXpnabukfjxUB+EUNoDwqRPuALNPDFyGoo58QHoEI+F87gAIH4R4CW5mJA56nKdyP8sNLUAeqyOxFUigBEygACN3M4BQe7ugjoT9hRBZ7oI6f0Mevt20n7Pd+AWhX0KZ+1EcOgAAAABJRU5ErkJggg==",
     "wiki_name": "Steel kiteshield (Dorgeshuun)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Dorgeshuun)",
     "equipment": {

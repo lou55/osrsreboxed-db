@@ -1,7 +1,7 @@
 {
     "id": 20647,
     "name": "Redwood fence",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABe0lEQVR4Xu2VwUoDQRBEs4jfICrRDwgkRpKI4NWDFw+CBw/+/2eMjKGZntc9cdOzooIFTXXvdqpqRWZms390YUiHZw/c4RzGkN6vT1MR5OyBO5y7MKS3q1q8nj1wh3MXKMbZA3c4d0GL7Ytmelf4dV7/pszdKGISRJuV/426lx159i2ByDok+5fL+iNkpnoANogO1OolgDybNJCIkcf0ZKoHYEU9Y/bPFyfVM5mpHoAV9YxbPZnqAVhRbfx0frgnU/1I1F8rojrQ45nfy64802HpMhJ7kWye+djKQVii1xUqlxxu5DE9uSOMoBxu5DE9meoBWFHPuNWTqR6AFfWMc3mnNpnqAVhRz7jVk6kegBX1jHN5pzaZ6gHYID8eiKKecavntUP1AKy4Z1yb2mvm1wUqV0c3rLhnXJvaS3WiQP7XRgLpi5cuIzGk1WKRbpfLtL1Zpbv1+pPz/FXlPV18Hww1pPvNJj3sds3K73XxPUv2goEy5E88df1BfAB0I52/++byoAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcklEQVR4Xu2VT0sDQQzFu4ifQVTU3gv9I7UiePXgxYPgwYPf/2NMSUvYzK+ZOm6mK4gPwktmsy9vumVmMvlHCF06XntgD+vB6NLX3XnqBVl7YA/rELr0ebsXW06nO85rD+xhHQLFWHtgD+sQejENDrO9yh83+TtaNzGkYmrEDuv/G3muPbp2EkNka5L5+3W+Ca1PbqiUqwFda2pIxcg1OfnXDL1dnWVrWjc1xCF2rZSTmxiiqB38enk8JwcN5btVUWvo5cLPtVfXrFlOqcReRIYL/zTECEP1QqYk9HAj1+RkCflsgU/XH27kmpwcNCM4FPUGl3Jy0IzgUNQbLOGd2uQmhijqDS7l5FENeac2+W8aoqg3uJTz2hnV0Gh3GY0MMaRXRxNDFPcG26E2JwcN+bsdYshevJxSiS4tZrN0P5+nh+UiPa5WO5b6u5A+G3w+0FSXntbr9LzZFEOe2+BzhvaJ9sBPpz9x2whdsPpy6+AcYguskuyYuQiAWQAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

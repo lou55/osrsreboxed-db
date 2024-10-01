@@ -1,7 +1,7 @@
 {
     "id": 3684,
     "name": "Shoe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": false,
     "examine": "A shoe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGElEQVR4Xu2WUUsCQRSFHSLCEEUMQyVDJaWECqFCqBBCKnwQiiDoIQiCIOip/3/jzHB2745riu2yPXhhEHT0fHPuubPmcutaV2ZlJFyZloO4G9Tk9aYt49NallBGRse7MjmrSzGXC1ZGUEbOu5UIyPSikRUMysjTZVOer/ftehju2bbBsSiQzlaqOTPyNm7L+23HgqFtcGd4uBMRBiScQ764bxY6kTLyNe3Jx/2BFYTwVb8qg07ZigEOwrqlWHgP+1IAQhnrEE+NTPWbRSuGFmoQAAMSMKGLiZaR78ejYNQhctIqSbtWsGJwDS3CK9tJdwCeChBahkBDCK3qNYpSr+QDILgEGN+d1ICQH4jy1M3qtpQLm1bsN3eYM/8X/1BugjBlEMWpIYL8FPIb9rOXUWuuO2htQkAOBM5AEO7o/KBlcAlQDHucOwkAORCIIDO8kSHEU9MhAFVLW0E749zhJPoqS1TYGt7GvHMopE8NIUwZgk14usO20skVgJwjGGu0ByHl1MyDgRCA4BKB4vb+GQg/zKnh80q3SgPx9ub3sN/fS/CVoNiuRTAA+Zx0Axj93NLt8p1cCUo/PH37NQgcZXs1jA4zJ5EXqK+2ZLmntobREHCRWdN/Q/wJTAiG5SaOCzAaxP9PFDdZnEBcCwkA6QqB/MDPu3fCEHMlXrOBj7uVw0swFQi/nFBcq1J2Y1FF85URxLr+R/0AtMtGIA+P+TIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLklEQVR4Xu2W3UsCQRTFd4kIQwwxDIvMDzJKKBEqggohpMKHoAiCHoIgCIKe+v9vnBnO7t1pNFp324e6MAQ2en5zzr2zGwT/9V+FVSjxKrQsxNWwIU8XHRkPGkVChTLaX5PJ4bpUgiBaBUGFctSrJUBujjcimEGrZZb7rRwrlPvTpjycb5l1e7JpYoNjBOI+/8q8Qnked+TlsmvAEBvcOdldTQgDEs6hv7iP0O4vzlmhvN/syOv1thGE8Fm/LsNu1YgBDsI6Uix8hn1JFzOr0DjEU6On+s2KEUOEGgTAgAQMXcwYKJSPu71o1CFy0F6RTqNsxOAaIsJfxkl3AJ4LECJDQ0MIUe1sVGS9VoqA4BJgXHdyA0L/QJSnbtaXpVpeNGKz3GGfZQhkJwhTBlGcGiLon3JpwfzvcdSe6g6izQjIgsAZCMId3T+IDC4Bis3ucycDIAsCEfQMb2QI8dR0CED1laUoTp87nMQUQHE0vI1551BInxpCmDI0NuHpDmOlkymArCMYa8SDJuXUTIOBEIDgEoF8e+cGwg9zavi80lFpIN7e/B72u3sJbhP4UcVxfQcDkLdJL4LRzy0dl+tkKij98HTt1yBwlPFqGN3MnEReoClfU+xTW8NoCLjIXtOvIe4EZgTDSr7PAEaDuO9EvsniBOJaSNHUXys+UQzkNvy0eyduYrvmdMdXXxvedyvzEtQQOcCwrJAvKp8bOUEkixG66xfcmF0uQCEQf7I+AQJTfgl7fag+AAAAAElFTkSuQmCC",
     "wiki_name": "Shoe (interface item) (Basic, terracotta, male)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoe_(interface_item)#Basic,_terracotta,_male",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 16201,
     "name": "Pieces of eight",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": true,
     "examine": "Piratical currency.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu2W3WsTQRTFO/ShGEJC2JBgQluixNJGKgVR+lBQiqWiiKWi1EqwlNa2QZRIkErFYkutHyD48SCID4JYKPjov3f13M3ZnV0Ckk03CubCYZPZMPc3d87cSV9fL/7fMNJaXQ0/8bfdMfn6fFQ+Pj4VUBfhjHzfq3ggX56NyuetEXl5/4TsbbRWjFBGIWyQT09cNapDcnnSka3lYdX2Skl21kr6jAnI6FYguQ2CsfeNsqzMFWTp2nEPBiJcB0BhY3Iio0mx4tp8Rl6s5zwQjtcXMh4AtXl3SCsXEcjIj9en1R/YElSB5kRSrPjBQlGmJtKyWXXkbb3saXs5K41Ff7sIAtUXB6MAGS0/Jue+c2K8g2ExjjEkAdirWk52V7MK83TJUcgwCH4HtQnkeqN2syhr8wXPC9Urebk9m9fJ3jw8qbLBAGDDoEIfHuUDIJyzbSAkmRhJylgpIaXCgKo8eEy/4z2PL4AgwAHChoGHUDH1028ogHCBbQIhTGBFrBKBeGp4lAGH6ihMc3sggGEM7zHOeSIBYXtuzeTkxnRWrl/IytUpR/uKO5lRf0DYLvUZjGx5BYsBwL25tBzsFOTObEp/jwVy68NZ/xDh4x489qwCkqBSWpGmwQmDanBhtrDACECMMJAvJAZAuCqtYABx6XwmtLC2w8jPd2fkcL+iV4N9WaIXoS3A0NhKANAfACIMnpPjqU5BEMYDQXIecz55ecI/TAa/0R+AOyIQhtuR9QQ1G6N9uuwu7Ce0kx8ZCMLtNXYn9o5y5503SvjGhWhUNrdwf4oZKHh5whO2cIVQ9imKHYpNDEZlc6TsMTTMmGEYRquAhOzSEHoJxM9dgkEYuXg2rUnxpPD/h+oiDMNo4nOVpIyXE3rjF3MD4qT6JZno/xtAiOCJC6oXvfh34xfZ6thj9ckqEgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzElEQVR4Xu2W3WsTQRTFM/ShGEJC2JBgQmujxNJGqgVR+lBQRKkoYqkotRIspVoNokSCVCoWW+pHC4IfD4L4IIiC4KP/3tVzN2czu00p2W72pb1w2HQ2mfubO2fuNJE4iP0bRjor1mgn/rE+Kt9fjcjnZ8d9ihHOyM+Nqgfy7eWIfF0ZlrePjsrGw87qIZRRCBvky3NXzdqgXJ5wZGXhiGp1sSxrS2V94nenhoaihjK6FUhug2DsY7Mii9NFmb922IOBCLcHoKAxWWqjSbHi+kxWXj/IeyAcb8xmPQBq+e6gVi4kkJE/myfUH9gSVIHmRFKs+PFsSSbHM7Jcc+R9o+JpdSEnzbn2dhEEaswNhAEyWn5Mzn3nxHgHw2IcY0gCsHf1vKzfyynMi3lHIYMg+B7UJZDrjfrNkizNFD0v1K4U5PZUQSfbenJMZYMBwIZBhT49LfhAOGfXQEgyPpyS0XJSysV+VWXgkP6N9zy+AIIABwgbBh5CxdRP/6EAwgV2CYQwvhWxSgTiqeFRBhyqozCt7YEAhjG8xzjnCQWE7bl1KS83LuTk+rmcXJ10tK/gHQR/QNgu9RmMbHkFiwHA/emM/Foryp2ptH4fC+TWB7PuEsHj7spdmfGqgCSolFakZXDCoBpcmC0sMESVEgkm30lIDIBgVTrBAOLi2axvYV0D4Yd/P5yU32+qejXYlyV6EdoCDI2tBAD9ASDC4Dkxlt4GEgqGIEjOY84nL0/4h8ngN/oDcBGBMNyOrCeo1Rjt02V3YSa0k0cIgnB7jd2JvaO8S+e1k0cAwvCbl0Zlcwv2JxuoB+G/POEJW7hCKPsUufA9C7fxoQowKpsjZY+hYdpeCc4UYRitAhKyS0PoJRA/xwSDMHL+dEaT4knh/x8qRhiG0cRnqikZqyT1xi/l+8VJ90kq2ddrM+8U268MKubqtIOJOyn43YPYt/EPbnUaZJ5+Nt0AAAAASUVORK5CYII=",
     "wiki_name": "Pieces of eight (discontinued)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pieces_of_eight_(discontinued)",
     "equipment": null,

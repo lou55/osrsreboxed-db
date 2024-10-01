@@ -1,7 +1,7 @@
 {
     "id": 6370,
     "name": "Villager armband",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "A dark blue armband, as worn by the Tai Bwo Wannai locals.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xu3We0sUURjHcffNFV1IxcotRUvRMESIohApuoh0QxDL0FrJkm2x2gq6YRfqlZ34nuE3PHP2zLSzO0V/dOBhZs45u/OZ51xmBgb+/VJz8Yi1//FSc/eWRtydxWEfK1eG3PKlQR9C7K6ddTurk277/kQEFT5E3/AEJBQgRYhp3B13j1ZOZ27MNW1hZFGlkDW3evV4B4ojEIVAD5frbu36Sd+XYwxEf4v+trfk9psXe0MJxLmyI9DW7TEPUt88EL/70lp0P9o33M/2LQ8qheFP9dQCcdMYaP3maAriPAZqrk9lQJx3CaplhoEbaXJzHYK4OQgNbx5ob2OmOpCyRF0MpEwKRNZC0OvN2RRElAJpXoQgbg6IPgLZCV0EevP4XBb04nL/IOppPzLx1B+VSbsi80DvGnPVggjajk4+96DD4w1/bSd0HohsftyZT0HfX13rFkPJgixKoBAlDP3yQJ+eLfQKoiSbF38uENeDUy137EwzA7IogRjKEPR590KvoGQPIkNFIIs6NPbEt9OP34UgFoIFldgUk4kagqgfmn7pQXlZEioEkZ1KQQT1wzPtFJWXpYOnNn3fcLgqAwlF/Ym5D1GUBcVQgFoPplMQu3SXGEqywkKQhq2+8NXDilCADtQ3UhTZ4bVhM9QTKJxH2hQFG5l9m8KKUIB4bVQGEop60s9bW7DR+X0/jDZbMRS7tAWVQCWg2LBZEE9Nu2BFQf/32+dTEHtQiX0oC7LDZkEcqbc7NMHQ2k8P4H2DWGW/A3Ez6mIgvTa03CsDhcNGvQXZTw5hBFJfQCx5C2IPKr0PxYbNgjgvAilD9K0EFBs2C6LNfnJYkF4bGq4+QZTOlRKLcP4oQhCbogUpSoC6LZ1IhZ0/fxFUVDqRnfG/9Fd+Adqmbf2Nv8nuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xs3WjUoUURQH8N038RF8iqKUVLRcU/xEwxAhEkMkKRUpC0Esw3IlS7bFci1IC63IJ7vyv8P/euZ4Ztpxx/DCYWbuvbv3t+d+zBYKV78UnR1W+6WXonsx2+mez3T4WHrU7han2nwQsbM65LZXBtzWy34DpX9Ew/AIRBRADI0pL/e5N0t3YwPjGW064qhMyKJbedx1DoUrIAyCXi+W3OqTO74vrhYI/SX69+6sO6o8vBiKINwzOwS9fdbrQeybBMLnjqsz7m/tqTupLXgQxmhuavKhR1clSjt/NUEY1AKtzXcHEO4tUGVtOAbCPUF6dFWKsWnAQFzceNYgDA4EpzcJtLs+mh+IWUKdBWImCULWNGhvYyyAEJlAXBcahMEBQh+C5IJOA+2/uxcHfZpuHIR6tLf0v/dXZlLuyCTQt/J4viAE2loHPnrQzb6yf5YLOgmEbB5uTwTQny9zAZMZJFEEaRQx6JcE+vFh0gTp0RNKdHjhywnCc9tw1d0arMRAEkUQplKDfu48uCgoOoOQoTSQRN3o3fTt6IfPaRA2ggTJQ1GPrkq0UDUI9e0jnz0oKUtEaRCykysIgfqO0VpAJWXpes+G76unKzcQUai/PX5goiTIQgFUfTUSQDiliakLhB2iQZy20uQvD0tDAXSttB5QyA5eGzJDdWYH5Qyk1xEPRcI6x74GWBoKILw2cgMRhXqkH29twronjvw0ymxZKJzSEkSUHt0oEciaNgnCr0Y7YWmB/t+37gcQzqAM51AcJKdNgnBFvTyhEZha+dcD8IZB2GX/AmEw1Fkgvja43XMD6WlDvQTJvxzEEMS+AGHLSxDOoMznkDVtEoT7NBAzhL65gKxpkyC0yb8cEsTXBqerQRDK+Z1ihV4/DA3CoShBjAygQoHHelpooAy5fnIB1Vs0sh4s46zvfyoaaYX+zJUupyS5uIlz5b+cAAAAAElFTkSuQmCC",
     "wiki_name": "Villager armband (yellow)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Villager_armband_(yellow)",
     "equipment": null,

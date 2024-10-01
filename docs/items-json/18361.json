@@ -1,7 +1,7 @@
 {
     "id": 18361,
     "name": "Dragon boots",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2013-10-17",
     "duplicate": true,
     "examine": "These will protect my feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUElEQVR4Xu2WP0sdQRTFd1mWhyFYWdlYpUkTsEmTIo2FjYWQwsIiRYoUFoKFX0FELBT/PZ6IPKKImCrk441zdt+dd+fuvTPrYiUeOCDyzu+dmZ25+4riXYNVuq77SuZekg2KAYtF0bH8jGWZ07NJlW61riJLIPy5LtxKVbhl76XZ/2TOyn6q2izlMqVK93VURZZA+Iv/MpQCnErJXCrLS2ULffMgbvklMFbPSwEuc7ks5bKFvvsQrEHlI+GlZK5PFrlsod3Fkdv5WLvfM//y/jnz9ofabXn/mHlzoXYbC1VjK4dMKpcttOfBHM7BgBKYQ9e9h+ayhfY9NAfnYEDhoblsIYJqj0B7DHALjXeXl9Jy9PgyhaAWrBUjMF9tDJyfQW135CPrUYY0Xy0VITDfch3YLUWFKLc2srKq8mUAxFXWoe05zJXSs6raFfIytNW0OswRe4aUTfaVSsW7Q2fg4OA82m4MQ3vsl00OHJTB34eHV0NuGNQtdHH5xx0fTyIYCtmwslkEL3RyctOU4ge656GOry62+vr6wZ2dTd3R0TgA7ccFxYWm079uPL5rSiFPHlTo6el/A5xM7t3p6W3Y9vRLsWzOCjEeH/8FBkoRozsyVMWDMTVtbdhrMILaG0arkwORA22YPbH5TUszgvRCWikbFjPkq6ffooLSMBSiUjZsPqklg+fTiwqyYRJol+oyeJ6yKNSjVBemAdPbXWaLvPgMaYUIlp8hcSF5GfjEthlBcSECyncQfjvbsLiQvOo0pXu+OiB8qI9Tkp+1/K43pGe8+5gBc29QLAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdklEQVR4Xu2XP0scURTF5zEMiyFsZWWjTZo0BhubFDYpbCwCKVKkSJEihYVg4VeQZdlCMZplRcJiQhBThXy8l3dn9r69975735sMKT1wQGTOb877O1pVTxos51P3lcz9SzaKA8ZVlVg+Y1nm9GxWzu81NbMEgl82ld+uK78VvLn6ncxZ2Rd1l8VcoZTz+6OaWQLBu+FlUArgWErmcllaCt75amfHKuX86wCili8Bw+hpKYDLXCmLuWKhgxACa1C5JLSUzPXJQq5Y6GQ88sfPG/955U/BH1f+8Kzx74Pfrfx2o/FHG3VrKweZXK5Y6DSAKZyCAYpgCj0MHporFjoL0BKcggEKHporFkKotgTaMoC7o8tnl5bScrh8hUKgDqwVQzAdLQI76HoParMjl4xns1qPFosgmE65DkxLYSHMvRlZWVXlMgCEo6xPd7cPS6X0rKpuhLQMTjWODu4R+w5xbbZvKZ5NxGcH98D5+Rc23XAZ2te+a3PAgTLw82TydcgJA6WFrm/u/Wy2YDAoZO8B1w6CFrq4uGtL0Q1NNzXPM/GjC1N9e/vTX10t/XQ6j0B7uToGLbRc/vLz+fe2FOTRgwo9Pv5pgYvFD395+S1Oe/6j6Nq9goyHh9+RAaWQQa8MSSDiF2PutrVh/4MR1Z0wHJ28ECnQhtk3Nj1peUaUXkgrZcM4Q356+g0qKg+DQljKhq1vasmg+fygomyYBGIpSdAYNI9ZKISlJIEohWlAOt3pCF2xiNxDKSPKLoSw8h3CC8nDQG9smxHFCyFQfoPgb2cbxgvJo463dM9PB0j+I6c7P9Xp85rzDCJ8sGSZo5LPWpa5J/XVX3bO+A6m7CS0AAAAAElFTkSuQmCC",
     "wiki_name": "Dragon boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_boots",
     "equipment": null,

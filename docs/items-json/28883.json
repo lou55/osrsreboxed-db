@@ -1,7 +1,7 @@
 {
     "id": 28883,
     "name": "Moonlight antler bolts",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Bolts made from the antlers of a moonlight antelope.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0ElEQVR4Xt2W0WsTQRDGbwkSEkJC6NHDhDQk4VKaSM+UUg2mTQMiWEWjltBSUNSqlYIiIoU+iCJURPDFJx/9S8fOrnM7u3dUEy8R/Z6yu3c7v/3m22sd59+XAHsmfm4mErAQbIIJIKB8Yd2aS0xnbSrA81cgnS2w4gLm64E1p583x2NLQPvqXszGam2xP4JSqwvZ4vmfzwior10Ht9qGc+nsNFwT4F8Zxmyu1lqDXdmuvFcLgWqr12Cusmi9o1zL5N2YfcaSOlXOrcRsJKAR9MCrLkEnaECxkJPPlP0Ait4CAzp97vJN6WQiQLgZni66kYCTt4/gzcsR5IpeWPzo1Q5k83OGOwiOoIkAYU6wLdG2Cfj6+RDeH9+Hfm85BELIwcbFcPzi4A7sbA/kXL1GWdN7jAkooLk6kKfrrrUgk0kbJ//47jFsD3lQhXSMj/3OBpTqbSi4pQgMHhYzNzYUnnK+4keC+uzhjTA7NHf4dBiB3n+wxVxT8wiCn4z4fP5SKht+o2xs+nz/FgNS7bKBWlUH8lnHmGuu3wuBJoBBnVpfdqDk8s3tYgJWmik5R+NPH55IQDM7InQsmqnfloAvJwfSEcrRZiclIal4bzklgXjh49e7cHuraxVVTtLnYWKg79+OZGbIEQSoeiZQ0CAgAZdayi27XXgr0bXR3f6kMCQhC7oFVQALngWEbul1vQfCLDUnCrItEwILYqZsR2iMcHpdvY/rdCBz74mkckNt4G4REGUKf9vrOI469sfSztgFORA+o9un3kvYHZIujAX5lbfbyfOFY30jE5VqG8LwvFAr8Tddf54vXDPzlKiiDiAEAaFT+ns0VXdI0W8MAvFAc6AphZlL3yJqAxVFMJ4lAp9iu1CqEL9VNhB3Z8rtQikgvMJ09ckFDjQjd0g6sHa4CWgGYbalXeB/9QlsBmGOk4bgc+b/RX9dMwvzOLJd+8/0A5GjPvIAUYhTAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4XtWW0WsTQRDGswQJCSEhNPQwIU2TcClNSq8ppRpMmwZEsIpGLaVFUNSqlYIiIoU+iCJURPDFJx/9S0e/PWdvdy9tTXqJOnDkdvay89tvvr0kFvv/Q5CdGZybSAia8TbIBBBUXFizcpHFaYsKctxlSqSysvjS7Kz8nK56Vi54PrgfKQQ1r94/YaeC5rrbVGi0KZW7+PsZQdXV65QvN+lCImUBRaKaIPdKXy1uzzV6u7JdGaeigCor12iqNGcB+aolM3kLcujwd5XOlwYsJKjmdcgpz1PLq1Eum5bPFF2Pcs6Mtolfz12+KZWMBAiLYXfhhQQdv3tMb19tUzrnqOKHr3colZky1AE4QCMBgk/QlnDbBH37ckAfjh5Qt7OogADZW19S45f7d2hnqydz1YrvNd1X5ppnhqD6Sk/urr3aoGQyoS0g6NP7J7TV943KakAxfey21qlQbVI2X1B5nsNm4bmhobDL6ZIbMurzRzeUdzh38KxvjAG993BTqcZ5gOCVMdifZ4bvDbdWNBZ9sXdLAeFCu2ygRjlGmVTMyNXX7ikgzg8N5BZjVMgHi9vFcC3X4zLH488fn0pA0ztCKRb21B+HoK/H+1IR9tFGKy4huXhnMS6B9MJHb3bp9mZb5TgPJfn1MDLQj++H0jOsCADKjgnk1XwgXJcavlp2u3Aqodr23a4FOnQIWTCf9Qug4GlAUIvndXUAM18PjDwiDMKEQEF4ylaEx4DjeYbBPG/onDAI3zfcBl0tBmJP4d6exzis2LkjUMYuqAPhGW7fSerYK48YQWEU1I+83U7dXxgzbITqIPy2AUb3C7cS93z8dX9hzvRTpBFWABAMBKX4fTRmdTjC7xgA6YbWgWwz26tFEMEp4jZwUYDpXmLwMbYL4RfST5UNpKsz5nYhfCAcYT76rIIONCF1OMI/D7h0oAmY2Y5ABf1Xn8EmYOZBEUAEKpj/iyakThBcMCgaNrP5jb8Stmr/QEQJ8xPkuKNMsPudbAAAAABJRU5ErkJggg==",
     "wiki_name": "Moonlight antler bolts",
     "wiki_url": "https://oldschool.runescape.wiki/w/Moonlight_antler_bolts",
     "equipment": null,

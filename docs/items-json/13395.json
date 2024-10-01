@@ -1,7 +1,7 @@
 {
     "id": 13395,
     "name": "Intelligence",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": false,
     "examine": "Looted from a gangster whose meeting ended violently.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAArklEQVR4Xu3S0Q3DIAwE0LBAOkjG6BZZIvt/pWoQKj6MSxSwW8Un3UfIB0/opsnj8Xj+PmGPNU+EbOvzqCGKQihIHfWBLI+Z1OClIgYRRqBQXKyMSnvg99LSjigZgNvBDgC9Q1F4qdSfeCXuXB3FAfG8M+o7CBH4rQ6qlXuxDqhzINyPKao27AEoGSRBSkTqpcggDsNDuqYNpQBJaQcNhuTJN1ACFSG1UCD+9dwqL9iGC2v84vsPAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAzElEQVR4Xu3VwQ2DMAwFUFigXYE7l+7QLboE+59AJYqIP44TFCemar7kAzmQJ/MlhqGnp6fn5zOubszjIMvnvY8hikIoqDnqgMzPBxmDTTkMIjjQa5pqo8bTxSkUvqEwvg98X3JGESUDsDs4IUjx01EUXirNLbbEnTdHcUA8V0alQYjA5xCk0Kc0KDbcxhS2dA2E/TFFxYpdASWDJMgZ4ebbpYI+ySAOw0E8ohDjk4dKQfCtBckHVYaEkX+2DSFH6GUU2BQSS4gwhfxdNqQLM48LZLvlAAAAAElFTkSuQmCC",
     "wiki_name": "Intelligence",
     "wiki_url": "https://oldschool.runescape.wiki/w/Intelligence",
     "equipment": null,

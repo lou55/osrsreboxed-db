@@ -1,7 +1,7 @@
 {
     "id": 11029,
     "name": "Easter egg",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-03-26",
     "duplicate": false,
     "examine": "A rolling egg gathers no moss.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xu2VT0iTcRzG9zJeXt6Xl/dlvC8bm8wxZcqmaAhRHYQ6eNhFKpIyKpSQErFQEBQMhCQpIumPkFQeJPEQBB06desQnbsFHaJDEAQdgsDT0/f37932bl58Nz3oFz4wBmMfnud5t1js6A7Paahw4KehfS6HttvtyNxsO2gpDfmlDk4gNXFgUho67hcE9zqRW8wLqaks0uOZ/ZbSUHjaHdD5sAv5u0IqOyuqS11L75eUhu6XpQrrRS7FkmJS7Qv5oLrUZSXVMjENpa3egJ7tPhQ3eoTUapeQUnuS1SUvpuCfTbZCqiLDRBjsNUupa63Ia6sRqkqpBUJCRokoipsyHbmj3WpriVBYpqYuNm5VmRSqHjcTMvJms6SkzJtaVF1hIfUTEBZKDHnNGLiGTG6HkysICiVBqW8HfmYHjv8XjvcTtvcNduILbPcTLPcDLOcdTGcbpr0O01qFYS3DMOcRi5eiSGk1Egr2XmOZzyGZV8QTklkhmUViBro5GU2o921/HWrQakPsKWOV8WFTZXxH8tHnlV1Iwit7cAddxO1484SCDYWEwhtij36jDTmnXOgpPZqQ2o/aTf+AeM3ed31Zm/+bV+d436m6r7w+y/1I1b2X1a3J2uZlZc5epWo3pIYt9vOP+EMSv4gfgYjYkZSxX9fJ6MZoNKHMVraO9AZV8TyD1DP6a3iURvIB1bJMfxFLtJUFH96cj8QUVTTmwrnkwh62YQ1ZME+aMI4ZiDmxCEKbWQ6TCHjRxmVSj4VMckXK3EkKmVs04BsJOFdIZsSBVbZhnrFgHCehXmOvMuw0/uVheDpMhqXDZCgdLkPpJGZFOu71hEjnnCPSGRRCenfEUfMvV7BUJLtWpdIZE+kEdSmhjkhC7DSeRpiGVVWnw+pi6ZRrhSLKsNNEGgomomTCVVWlE9Ql99NEIXYajGWrnkUa6TwxQ1VMExMG9HFilDivIz5MDBGniRNxxAci/UqHT/1TC/RJswKTuEqMGEKiLCTCn2miTKMLf1Ejju6Q3X8+Iuuxo4+bpgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xu2XP2gTYRjG8xGO447jjnBHQhLSNC1pSBraUhB1KOjQIUtRsWhFpUWKlqLSQqGFCAWLRRGLfwoWtUOxdBAEByc3B3F2ExzEQRAEB0Ho9Pp+/y65L+lgL2kG+8EPQujlfjzPcwmNRA7P/3MI1Oj4IdC1kIX0zS5IXUt3WopAbrmH4UtNd0yKQM/dPOdOL2SrOS41m4HkVOqgpQjkHxd8eu/3Qe42l8rM8+oSl5MHJUWg8LxUY6PIpGhSVKprKedXl7ggpdomRqC0Xfbp3xmA4mY/l1rr41JyT6K6+LkEeKfi7ZCqyVARCn1NU+pbL7LaAkJ1KUmhoe7uVklxGSkiKW6JdMSO9qqtLUKqTKAuOm5ZmRCqHzcV0nNGq2oTMq+CyLpUIfkVoArFRt1WDJxAKrvLyOY5+RKnNLALXmoXbO832O53sNwvYMU+geV8ANN5B6b9Bgx7BwxrAwxzDXRzBXRjESLRUhgpEpCQ0Peay3xUZF4gj1BmFWWqyBxoxkyYPREovx5sQA5abog+ZbQyNmysjO1IPPqssrNxcCsuOCMORK1o64T8DSlC6oboo99sQ/ZxB7SEFk5I7kfuZnCYv6bvO56ozfvJqrPdr1jdZ1af6bzH6t6K6tZFbYuiMnu/OwpuSA6b7+cP8gslfiDffBG+IyFjvWyQ0fQJX2gfKWFC25kGkptYxdMUJJ7gT8ODJMTvYS0r+BOxjFtZ8sBd8CA2ixVNOmCfd8Aas8AcNcE4ZoA+pEPEjoQQ2sowqITPszSTSTzkMvFVIXMrzmVu4ICvxsC+iDLjNpgVC4yTJuhHUKis+zL7EqI3V2HpUBmaDpXBdJgMphOb5+k4V2I8ndM2T2eEC2mFkKNmN5fQVAR7ViXTmeTp+HVJoZ5QQvQQloZK06rq06F10XQqQaEQdclDeBoSKiJl1Krq0vHrEvtRhdS7/OMhoK+YjVRxpIvIHFZxHZnWQZtCJpAzGkTHkFHkBHI0CtHhUN/S6qn/34uANmPUoBKXkHGdS1S4hHpNC+oKHvlh/AMbb6ZS//fBa9t01Bs1Q73m8LTy/AUA+h3t2CcpWgAAAABJRU5ErkJggg==",
     "wiki_name": "Easter egg (2013 Easter event) (Green)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Easter_egg_(2013_Easter_event)#Green",
     "equipment": null,

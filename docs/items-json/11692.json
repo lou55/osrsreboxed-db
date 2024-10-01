@@ -1,7 +1,7 @@
 {
     "id": 11692,
     "name": "Death rune",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-03-13",
     "duplicate": false,
     "examine": "Used for medium level missile spells.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xu2Vby+WYRjG3a+sj2Kappk0iSZJmkiSJJIkiSQ9k0gSk6RIKmPPJDWzWi98Fm/6Lqf9rnvn3eXa/eh+/uiVczs2e2z39dtxHNd5ZWUdTsbHk3/rv4x/2PLsrKzOv5e1xQ+yvvRRvi8vy4+VFdlcXZWfX9fk98bGQYP5H1+YnJSl6Wn5MjMjK3NzEl9YCKA2Pn8yYDbU9uZmpsH8j00ND8vbF2My/2pCFqemDBQuAYVTgCF1y4Xa3trKBJQnzx72yfiTwQDo3ctx45JC4RRSuP2g0gTyZLC7ew/Qm+ejgUsIsD87O4EUEMcyDOVJ352OPUCTQ0PyemTEQCmYDaPCOYRbdMuFSgHIk/amJnlwu30P0EQsZqAQbrkgR7Kzjfhb3cMtIqTsaUD5QPdvtclAV5eMPuo3Gns8YAScDREGhOgaIkbcIsKteNxAJQHkSUNNjbQ1NgZAsZ4eedrba4RbwIUBudJ4iRa3KD0RsquSgPKkvrpabl5tkHutrdJ/t9NAIeIDDrmHh0mjRcARo0ZIr359W48C5UldVZXcuFIvnS0tpkeIggOngO7htlMaL9G63QMKpzS+SECXKivl+uU66WhuNlA4RXwoEZwC2bHaYApFfHQKl4guEtCFs+VyrbbWFFuhbDDbNdcpjdQGUyiA6BR9ouTcvEhA50pLg2IDZYMBFQambtEz7ZoLpQ5x8+gSBY8EdLqoKOgR5bbBbDdssLAYbQGlQPoWss0jAZ0sKJCLFRWmRwqlYO5ByIZy/2c7RY9wR4EodySg43l5cv5MmekRUDZYIqgw2atCgXSDA0RsEYAYT8qKi02PkIJFcUvl9gqXAKLU6lJEGOavSyxJFyqqWwqlLgGkS5IuJQHE+F1iJ9lQCuYevp/0+eGm6T5KEobx5FhuromOG6dQyD0QJXLLdklXADspBSDGkxP5+SY6oBTMPdRdD/o7a4HbZ8dGl1KEYTw5mpNj9hJrgPhcqLBbqIs0bE8BlgYQ40PhFPHxrLgRurcQKBtMN7wPkhaMjv8hOuWCuUoEmCEQd3wwVsKpwkIDhspLSsz7ByTR2g5m0JX9Rg+JosM5uNkFIMcG3b8yfzwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUUlEQVR4Xu2V4S+WURjGPZ+s/8JX05Rm0iSaJGkiSZJIkiSSZBJJYpIUSWXMJDWzWh/8Lb74X+72O8/ud8fZ876O11tbW/d2bcac89t1Xed+0tL+T8onkL31Vya8bHF6WpZn38nq/HtZW/gg3xYX5fvSkmwsL8uPL6vya339T4OFh8+Nj8vC5KR8npqSpZkZWZmbi0Gtf/powGyorY2NVIOFh00MDsqb5yMy+3JM5icmDBQuAYVTgCF1y4Xa2txMBVQgTx90y+jjvhjQ2xejxiWFwimkcImgOO9oRkayUIH0dXTsAnr9bDjmEgJsZ3s7JgXEsURQ7k0eE0j37dZdQOMDA/JqaMhAKZgNo8I5hFt0y4VKwqVAWurr5f6tll1AY/39BgrhlgtyKD3diJ/VPdwiQsruQrm3JpgQ6N7NZultb5fhhz1GI496jYCzIaKAEF1DxIhbRLi5smKg9uFSILWVldJcVxcD6u/slCddXUa4BVwUkCuNl2hxi9ITIbtKodzbIyaQmooKuXGlVu42NUnPnTYDhYgPOOReHiWNFgFHjBohvfr5dc0HKpDq8nK5frlG2hobTY8QBQdOAd3Lbac0XqJ1uwcUTml8HtEFcrGsTK5dqpbWhgYDhVPEh+LBKZAdqw2mUMRHp3CJ6LyAzp8pkatVVabYCmWD2a65TmmkNphCAUSn6BMl5+V5AZ0tKooVGygbDKgoMHWLnmnXXCh1iJdHlyi4F9Cp/PxYjyi3DWa7YYNFxWgLKAXSbyHb3AvoRG6uXCgtNT1SKAVzL0I2lPs32yl6hDsKRLm9gI5lZ8u508WmR0DZYPGgomSvCgXSDQ4QsXkAMYEUFxSYHiEF83FL5fYKlwCi1OqSwngBqUssSRfK1y2FUpcA0iVJlzzd0Qm7xE6yoRTMvTyR9PPDS9N9tA93dAI5kpVlouPFKRRyL0Tx3LJd0hXATtqnOzqBHM/JMdEBpWDupe560N+zFnh9dmx0KQl3dAI5nJlp9hJrgPhcqKhXqIs0ak8BlqQ7OiEUThEfnxU3QvcVAmWD6YbnrAO4Y094EJ1ywVzFA7RBDggTTnhICMZKOJmXZ8BQSWGh+f4BSbS2gyl0JXpsMB+l1JVEY1+0l9z//WfnN8wDQxNPiDoFAAAAAElFTkSuQmCC",
     "wiki_name": "Death rune (Barbarian Assault)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Death_rune_(Barbarian_Assault)",
     "equipment": null,

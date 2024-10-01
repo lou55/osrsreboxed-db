@@ -1,7 +1,7 @@
 {
     "id": 29638,
     "name": "Blighted overload (2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-07-17",
     "duplicate": true,
     "examine": "2 doses of blighted overload potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu3W+0sUURQHcPcXl2IxgqDMDIqMlNbafnARyl9q+0GTXHdzbbcHWqarEURRiBQ9RHohiD2oUDDERMoIoqIo6i878b3DuZy5c9dmZqfohy4cdh5nZj5zz713tqbm328xsoft/B9vMXo4kaP741kVU9d7aPLqcRWMWJwZoIXpszT/6IwFZb5E1XAHxCiAOEzM3INT9Gyq6How9nHODDcqEDJG0zfyHhR+AeFg0JPJfpq51ady8WsDIV+iv61M0JelK+FQDMI29w6DXtwrKRDnVgLhuq/L4/Rj9Tb9XL2rQIEwuCm/NYPwUBMk3xq5s3cKVtDS7KALhG2foJirDEDw4Ma+BCG3fWMdtW1IUKouofYrgVaeDkUH4l7CMRNU3LpZRWtivQahjCbo7fMLGoQIBOJxYYLw5jZQvn6TBvH1Jujdy2E36PW16kE4DhACeaX2tI7ufUk60rKHDjXtUudM0Pu5crQgBEopQeV8joa6j9Hg0Qx1JvdSx+4mSjY0eEDozY8LFzXo+5ubfjFobpBE4eYM4pKVT+RprHiSUtsbK5YMuZ9eXQoLQnNujAFaCYTz57s6aay/oCK9c4e+Bj1pgj4vXg4LctYg9NDvQKOFPh0oV3P9FnXcBCFfggIsis7NbCAE3xx5pzsO0kiuV40jlC3T0kz7G7d5QOidSEGMQuABWHGRN5A5TMPZHhrpzVIp3UZdrUldNrNckYFkL+FXgjC71sXjOnIHUqps3EsStPz4nAZhlfaJQXNmiA3EnwMGSYwZEoTewWdD9lAokDmOeCojJ15b60GYgTwuFz4bkYEYheOM8RvIBwirtAQFQDkgW9nCglDiD/OjGoQ1KMA65AbJsoUBMaoqEGZZFCDngRH0EIPMsuE4f7/WgvF5HtCY8hKENSjwOmQrG4PwxtjmB5vBs5FzIwHZyiZBOCf/lmCbV3P+bKB3IgChed/aFhIjwwRhUZQgjgAgv82L5JDj5y+C1mpepDf+t+raL15l43Kr8HUHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xs3W+0sUURQH8N1fXIrFCIIyMywyUlpz+8FFKH+p7QdNct3Ntd0stExXI4iiECl6iPRCEHtQoWCIiZQRREVR1F924nuHc71z9o7t7E7hhcPO48zcz9xz586GQhu/hcketvP/vIXp8USaHo6nVEzd7KbJ66dUMGJxZoAWps/T/JNzFpR8iIrhDohRAHFIzNyjs/RiKufqGPs4J8ON8oUM0/StTBEKv4BwMOjZZB/N3OlVufi1gZBvon+sTNC3pWvloRiEbR4dBr16kFcgzvUC4brvy+P0a/Uu/V69r0Doo6W+XoXsXTRn2PmpGYROJch8auTO3staQUuzgy4Qthkkexct7CoDEDy5sW+CkNu2tZpat0QpXh1V+16gledDwYF4lHBMgnI7t6tojm7WIJRRgt6/vKRBCF8gnhcShCe3gTI12zSIr5egD6+H3aC3NyoH4ThACOTl2xI6ug7F6HjTATrasE+dk6CPc4VgQQiU0gQVMmka6jpJgyeS1BE7SO37GyhWW1sEwmh+XrisQT/f3dYY3yAThZsziEtWOJ2hsdwZiu+u8ywZcr+8uWIFyd49mnNjTFAvEM5f7Oygsb6sisTePfoajKQEfV28Wi7IWYMwQn8DjWZ7daBcjTU71HEJQr4JMhdF2btozs1sIATfHHn97UdoJN2j5hHKlmxqpJa6XUUgjE6gIEYh0AFWXOQNJI/RcKqbRnpSlE+0UmdzTJdNliswkDlK+DVBeLs2RSI60ofjqmw8SiZo+ekFDcIqzZiSQHhDbCD+HDDIxMgwQRgdfDbMESpxdNDWQHIe8auMnEhVVRFCBvK4XPhsBAZiFI4zptRAPkBYpU0Qo2TvluaAbGUrF4QSf5of1SCsQT7WITfILFs5IEZVBMJbFgTIKUkAI8QgWTYc5+/XejA+zxMar7wJwhrkex2ylY1BeGJsc8cy+G3k3EBAtrKZIJwz/5Zgm1dz/mxgdAIAoRU/tS1MjBkShEXRBHH4AIVCvKyvFxJohjl/AgGV2iSyFCzHWu5/ahJpC3nNhm5/AKhpLg3fDhyYAAAAAElFTkSuQmCC",
     "wiki_name": "Blighted overload (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blighted_overload#2_dose",
     "equipment": null,

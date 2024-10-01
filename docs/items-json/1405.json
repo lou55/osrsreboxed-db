@@ -1,7 +1,7 @@
 {
     "id": 1405,
     "name": "Mystic air staff",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "It's a slightly magical stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZUlEQVR4Xu3VQUsCURAH8B2Wx+KX8NAhiMAoiAhaCkRoQ6IECaGCiMCErNiCSA8eAg/dgjx6kPDgIejgVRShWPaQXfJgGPRF/vHesrj1BeYd/MPcf8ybN2MY07CEMCn2EEqlKmq1J7TbHW4UwXF24boV1OstdDqvGI9/OFEE206iWLxFo/GMXs/DcPiF0eibC0VIJJaQz7toNl8UaDD4VCVhDChCPD6DdCqF60IB3e4bfP8DnveuigEkQ6jsWShfnCtQv++j1WrzYbKrQoH+fn0WjAzhaseKgFgy6YKzaOL+kBmTswXuchZuMhbOtgQvZm3OVJCH45iqx5MYL+goKVDd/z/AbCGUs6zzEg3hdFNwD3A0wfLTBCNDaog1AZFeTyV3jjYYrX6VvFHaYOQC1GSICdvLpi7dIazMmtwHM0xwOOU2lseTGRRg5NxcpjXAbMybOFgX+nQntRCANOhOGIkIaxrjF8427nXraMRXAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xu2WT0sCYRCHHZZl8UuIdAgisD8QESQFImRIVCAhVBARmJAVWxDpwUPgoVuQRw8SHjwEHbyKIhTiIbvkwTDoi/zifZfV3b238x56YE47h4eZeWc2EPiHBcIk2CHk8yWUy09oNJrcUoREYgemWUSlUkez+YrR6IdTihCNxpDL3aJafUa73cVg8IXh8JtLihCJLCKTMVGrvUihfv9ThhBjkCKEQlNIxuO4zmbRar2h1/tAt/suQ3yfD4f9lyruGShcnEuhTqeHer0xlvFZiJBa0aWQ++mzyAgIV9vGWMiW8FlmUoXEgob7Q7eMN/uPIaSjOu7SBm52DZxt6rwyqzOaFHk4Dsp4PAmOhbzZPkA4iuko7bsHmKk6AkIhxTq8TginG7prgL0ZPmMtP+YWOSE5xMpUh3nXOCG5c5SR8b4qb4aPWDdKGRmxABUZYsLWkqZKdQjL0xr3wbSxDqfYxuJ4MrfKkhFzc5lkbxVhfVbDwZquTnXic5aQAtWxUeLfxo0twiHzC/pYM1RSXKLRAAAAAElFTkSuQmCC",
     "wiki_name": "Mystic air staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_air_staff",
     "equipment": {

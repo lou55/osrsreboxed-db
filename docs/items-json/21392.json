@@ -1,7 +1,7 @@
 {
     "id": 21392,
     "name": "Expert mining gloves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-07-20",
     "duplicate": false,
     "examine": "These will help me mine Sandstone, Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9ElEQVR4Xu2VbWvCMBSFzcfBqAhlQ4uKFZVaqVY6X/Addc45nM4Nxtj//xt33Mi1aaajZS7uQw/kU0vycM7JTSIRK5YyMTi9lIuB45hgVbJgmmnI524hnU5BKnUNmnalGopBu2WB6xbBtvNQKhkcyjB00PUkh1IO1O1WwfPKR11CKIVADEZD5wBELhEUuoRQFwGi2MgljA5dQijlQP1+jQOJsRGQQhgUg8mkcQASHaLIFALtZ4wMJN80BUB7kOlgAMNOB5qOH5kIpKg/DJ7mc3iYjA9AddsGM5f7BkPg8g6+xEkurtBisFut4HmxgMfZFO5HI+i3WtyhUqEANzq5EW5R3+QxEQGKwdt6DdvlkrskAwU3YvzbXaPOHawUi9xFjJVGhDi3yFV6bkJCMXjfbLhLCISRHQfa9wu/tV03AIQjQp5bvwL6eNlylwio63kSEONxUr8IqFouc6DZrPkjEL1/oYE+X3cBhxAIDyQgjJP6RUAIjED4TxigCE+ND4SHjnu9o0DULwQiBxEobxiBmSV3SHyQQwKh/FuCQBQJAon9Eh2iDmUzGUhqWqDUdMtEoIguifLhcCEQRUalxltWsyzen6hjQT4tok4DUVxnOCSqGB+aOMWpX9gfjOsCMCQW6A/GdUEYkj+l/wEM6SzFjBXrT/QFIsACb3nuwCsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCElEQVR4Xu2Va0sCQRiFnY9BKMJS6OIdFS94w0zJK2pmhmkWRPT//8YbZ+J1Z7fd2E0a/eCBwQ+zMI/nnHknFDrrLG0S5L20S1CtlqVSMUHZbIxSyWuKxaIUjV5SOHyhG0rQbadEzWaOKpUU5fOmhDJNgwwjIqHwTSOd1gUlqNcrU7tdcHUJUBqBBI2GtT0Qu8RQcAlQRwHi2NglRAeXAKUdqN+vSiA1NgZiGG1Ak0ljD6Q6xJFpdccNyHnTNAB9g0wHAxp2u9SqWZGpQJr6I+hpPqeHyXgPVK9UKJtM/oBhcO/+OKd54KkuaLda0fNiQY+zKd2PRtTvdKRD+UyGroxvN/wu7ptzTASAEvS2XtN2uZQuOYGwb7kh5N5Noy4dLOZy0kXEyiNCnVvsKj83PqEEvW820iUAITI3IPzy3m2zaQPCiHDOLS8g95htEvTxspUuMVCv3bYBYSFO7hcDlQsFCTSbtX4F4vfPN9Dn687mEIBwIAMhTu4XAwEYQPjGD1CAp8YCwqHjuztXIO4XgNhBAKVM0zaznB1SH2SfQJB1SwDEkQBI7ZfqEHcoEY9TJBy2lZpvmQqkuuQ83VXqTVIXgDgyLjVuWbVUkv0JOha859cvUuG8gDgu9RC/y3leQAk5NDHFuV/oD+L68z8+XMLWH8R1RBiWNaVPAIZ1QDH/SycFc9Yx9QU9EURhrdHZOwAAAABJRU5ErkJggg==",
     "wiki_name": "Expert mining gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Expert_mining_gloves",
     "equipment": {

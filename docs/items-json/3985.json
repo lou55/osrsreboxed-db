@@ -1,7 +1,7 @@
 {
     "id": 3985,
     "name": "Platinum token",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-06-25",
     "duplicate": true,
     "examine": "Use it on a banker or bankbooth to exchange it for 1,000 coins per token.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrElEQVR4Xu2WTUsCURSGvSvp14RQtIjARZGVZCJRUWGYfYiYiIiYZSWmfRiK0qcYLkIXFRThok1/7cSZYZxprjMmdO5E9MKzPg/33HvPsdn+QxYGX7E0DNJHBVjbCINvYQUmXG4r5RjsxHchWypzTLm9MDrmFCnHIJbMcCJmEEsxiCb2uKJmEAoxyBwXDdtlhNrCHw+D1EGeK2hGYCsCdvsAnVA8dcgVNWNpNUAlg5Gfur6oGXO+xd8jtB2Jg2NohFbo6aUNp+VrSazX5Q6GopQyShi0nt+g1mhB6bIO+WLVUM6/HhIhhFF/YRSr3jYkMfwSEumsJIeSm+GYKCGMdjTIoFT2pNwRG3QMixJinbbopXjIo8ooYGvU5y1MBMPL6C/x5LRHVKvMZbQ4x13UQt+XQdRljST9ySz7g7TDVF+wF3iHyGT6mVsI8c9svDcbgfs0qRDOLJxX+sLdwEWMUEYJg/b7B9zcNyF3VuEktMx4fCKEMPLPi6d1Ua11XWEFD1ElDJqPr9Jp4QBVJjoy6523Qggjn9ZV/QHOK3fSopbcz1klo40yQBX+eD4B0kcL/EmpzFMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu2WTUsCURSG566if+E/KKFoEYGLIivJRKKiwjD7EDERETHLSsy+DEXpUwwXoYsKinDRpr924sxwx+mOMyZ4xk0vvMuZ8/Cee+85kvQvMjH47b6KQerkDDa2QuBdWoMpp6ufcAz2YvuQKRR1nnF5YHzCYSUcg2girQMxMzEUg0j8QFfUzPjNsM1GAcUgfZo3bJeRWy3suRgkj3K6gmb274RhYGCQKiUGseSxrqiZV9b9KgwJEF51saiZF7zLVOmgugPaDcfAPjJGC/T63oSL4p0M1ulwB4IRynZxMWi8fUKl1oDCTRVy+bIhnG8zSJmOVq1XGMHKDzUZDJ+EeCojwyHkdihqFRBKHKxMhsqcF1WwIfuoVUBMbYsIJZr4/KBaMNzYGn69RRDLYcRDPD3rVlslft1jmcNo7Zh0qimJf+mR/g6D5ssaEVB3MKu+AO0wFQt2Mp4hotvV3dxCa1/mHsOgjPdmI+M+TdQqlDKzcF6JhdsZFzHCdLgYNL++4f6pDtnLkg5C6zm3lzIdrZSXF9O6LlfarrDaIWoBkCQpRRjUXz7ktHCA8omOnvcsWpWOKCWt2+ozXJUe5UUtcZi1Nh1RPC2t+wajFYeggPkBEUlFVMgNzvwAAAAASUVORK5CYII=",
     "wiki_name": "Platinum token",
     "wiki_url": "https://oldschool.runescape.wiki/w/Platinum_token",
     "equipment": null,

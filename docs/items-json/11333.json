@@ -1,7 +1,7 @@
 {
     "id": 11333,
     "name": "Leaping sturgeon",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": true,
     "examine": "A bloated sturgeon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xu3W70tTURgHcPe2d70xMix6oRELQ8k0rFZE+SOhbGE/VuqMzEbDRTN/jEmWrB/GQLSyTCMaSyQtQSKKot5F/9QT33N5Ls89Oxu72y160YGHc3fP2T2f+5wfW0XFv198ZA5T+x8vPppOBOnhWJeK1MhpmoqfUsGIzEyYXqd7aelxjwGlv0TZcAvEKIA4dMzio0v0LHXRMTA+o00PJ8oV0kfp5NkcFGpAOBj0ZOo8zdzpVn1Rm0DoL9FfVxL0OXurNBSDcM3ZYdCLByEF4r75QPjel+Ux+r42ST/W7imQKwweym/NIAxqAs3ePWeDcG0CZWf7HSBcFwnyOaYBA/HixmcdhMGB4Ok1gfDMladXvQNxlnDPBOJMMghZk5jkdFDVDEK4AvG60EEYXAfJBa2D8KzoeJuq3y9cc4Le3i4fhPsAMYozKXckfx91bySgauDWF697C0IAIEFyQVsP91FPtEHVxzvraDYTpqFkh93GoG/vJorFoDhBEsXbV4J4sKHJg3SmZw/VH6iiyq2bqLq+ge6nB+nNxxu0sDpAc9l+1a8EEIo1CN6+EAh94qkARSdaaFvdXhU7m5qp9shRGyqj5Axh8SJDhUDoNzjaTOFYI+3Y10gn2vdTqK+VYsPdqk1ue/T/lLlpg1wcitaWN4EQ/HD0Q1bagrVU5fcr0MavGK3/jND8hyAl0sdsFDLpKYhRCN7KlTU1NmQxM0qtI10508PZ8RQks4TahGEAZxHfkdMF0PLcFRuEU7pIDIq1w0wg/ouBBRsfv0Dzr4ZtDNZXPhCyg58NmaGSQPo6QhuyUt8VpMBghFIv2+3IlyGertXnA96BELi/Zddu8rd1UEufdZ7I4AxxJnUQTmkJcoGyQHLacG9z9XaqOXSYmkKX1WcMgnZ5iucD4W/HxlLEBuEMcnEOOUG8brCI6052qmsMgIGAlRgTCPCyQdhl+rTx1PAbYzD5H0iC+Jeep8szkL7bcF+CMLg+XQzivgBhy0sQziDX55A+bToI14VAcv14AjJNmwShzbSgEegn10+ZIBTnls4X+vrh0EE4FCWIwwWo2JKL5JDr5y+CCpVcZG78L+WV31fHQzpzuuQsAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVklEQVR4Xs3W+0sUURQH8N1f+61fjAzLftAIw1IyDSuLKB8JZRv2sHxFZkuLG635QsmS7WEsiFaWaUSLiaQlSERR1G/RP3Xie4cznjneXXbbKbxwmNmZO3s+c+5jNxDY+C1I9rDd/+ctSONDIXo00GQi3neGxmKnTTAiOdFBbxJtNPek1YLSL5Ez3AExCiAOjZl9fJmexy95EuMz7unworJCBikxfG4dCkdAOBj0dOwCTdxtNn1xtIHQX6K/LQ7Rl/nbf4diEM65Ogx6+bDFgLhvKhCe+7owQD+WR+nn8n0DQo59hYUmdHbVnLLzWzMISW2gyXvnXRDObaD5yU4PCOcM0tlVC3qGAYl4cuOzBiE5EDy8NhC+c/HZNf9AXCVcs4G4kgxC1SRmeDxkjgxCZAXieaFBSK5BckJrEL4rMlhnjh9mrntB7+7kDsJ1gBjFlZQrkp/HsS1cY47Arcze8BeEAECC5ITGc4jWSLk5nmgspclkB/UMN7j3GPT9/YiLyRokUbx8JYiT9YweorOte6jsYD7lbd1EBWXl9CDRTW8/3aSZpS6amu80/TRIZ0/RnCR4+3Qg9InFaygyUk3bSvea2FlZRcVHj7lQGbYK6cyW5uxBqFA6EPp191dRR7SCduyvoJP1B6ilvZaivc3mnlz26P85ecsFyU1RZ1fNWfI2EIK/HP1QlbpQMeWXlBjQ6u8orfwK0/THEA0ljrsoVNJXEKMQvJTziopcyGyyn2r7mtYND1fHV5CsEo42DAO4inhGDhdAC1NXXRB2acZkBMLKsYH4LwYmbGzwIk2/7nUxmF+pQKgOfjZkhTKsDtoaSM8j3ENVyppCVNMdpvirejdSVYiHa+lFl38gBK5v2bWbSuoaqLrd2U9kcIW4khqEXVqCGKWzW5oDksOGa5sLtlPR4SNU2XLFfEYS3Je7eCoQ/naszoVdEPagLPYhL4jnDSZx6alGc44ESASsxNhAgOcMwirTw8ZDw2+MZPI/kATxLz0Pl28gvdpwXYKQXA8Xg7gvQFjyEoQ9KOt9SA+bBuE8HUjOH19AtmGTINyzTWgE+sn5kyMIzbukU4WePxwahE1RgjiyAAUCvK2nCw2UIeePL6BMm0ZmguVY6/ufmkbaQj+zodsfocuNxnKO+wEAAAAASUVORK5CYII=",
     "wiki_name": "Leaping sturgeon",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leaping_sturgeon",
     "equipment": null,

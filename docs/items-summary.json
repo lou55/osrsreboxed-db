@@ -56709,7 +56709,7 @@
     },
     "29415": {
         "id": 29415,
-        "name": "Eclipse wine"
+        "name": "Eclipse red"
     },
     "29418": {
         "id": 29418,
@@ -57590,5 +57590,781 @@
     "29838": {
         "id": 29838,
         "name": "Rax"
+    },
+    "29840": {
+        "id": 29840,
+        "name": "Eclipse moon chestplate"
+    },
+    "29841": {
+        "id": 29841,
+        "name": "Eclipse moon tassets"
+    },
+    "29842": {
+        "id": 29842,
+        "name": "Eclipse moon helm"
+    },
+    "29843": {
+        "id": 29843,
+        "name": "Blue moon chestplate"
+    },
+    "29844": {
+        "id": 29844,
+        "name": "Blue moon tassets"
+    },
+    "29845": {
+        "id": 29845,
+        "name": "Blue moon helm"
+    },
+    "29846": {
+        "id": 29846,
+        "name": "Blood moon chestplate"
+    },
+    "29847": {
+        "id": 29847,
+        "name": "Blood moon tassets"
+    },
+    "29848": {
+        "id": 29848,
+        "name": "Blood moon helm"
+    },
+    "29849": {
+        "id": 29849,
+        "name": "Blue moon spear"
+    },
+    "29850": {
+        "id": 29850,
+        "name": "Dual macuahuitl"
+    },
+    "29851": {
+        "id": 29851,
+        "name": "Eclipse atlatl"
+    },
+    "29852": {
+        "id": 29852,
+        "name": "Atlatl dart"
+    },
+    "29853": {
+        "id": 29853,
+        "name": "Clue scroll (easy)"
+    },
+    "29854": {
+        "id": 29854,
+        "name": "Clue scroll (easy)"
+    },
+    "29855": {
+        "id": 29855,
+        "name": "Clue scroll (elite)"
+    },
+    "29856": {
+        "id": 29856,
+        "name": "Clue scroll (elite)"
+    },
+    "29857": {
+        "id": 29857,
+        "name": "Clue scroll (medium)"
+    },
+    "29858": {
+        "id": 29858,
+        "name": "Clue scroll (medium)"
+    },
+    "29859": {
+        "id": 29859,
+        "name": "Clue scroll (hard)"
+    },
+    "29860": {
+        "id": 29860,
+        "name": "Casket (easy)"
+    },
+    "29861": {
+        "id": 29861,
+        "name": "Casket (medium)"
+    },
+    "29862": {
+        "id": 29862,
+        "name": "Casket (medium)"
+    },
+    "29863": {
+        "id": 29863,
+        "name": "Casket (medium)"
+    },
+    "29864": {
+        "id": 29864,
+        "name": "Casket (hard)"
+    },
+    "29867": {
+        "id": 29867,
+        "name": "Prince itzla arkan"
+    },
+    "29868": {
+        "id": 29868,
+        "name": "Emissary hood"
+    },
+    "29870": {
+        "id": 29870,
+        "name": "Emissary robe top"
+    },
+    "29872": {
+        "id": 29872,
+        "name": "Emissary robe bottom"
+    },
+    "29874": {
+        "id": 29874,
+        "name": "Emissary sandals"
+    },
+    "29876": {
+        "id": 29876,
+        "name": "Stone tablet"
+    },
+    "29877": {
+        "id": 29877,
+        "name": "Tower key"
+    },
+    "29878": {
+        "id": 29878,
+        "name": "Book"
+    },
+    "29879": {
+        "id": 29879,
+        "name": "Poem"
+    },
+    "29880": {
+        "id": 29880,
+        "name": "Scrap of paper"
+    },
+    "29881": {
+        "id": 29881,
+        "name": "Scrap of paper"
+    },
+    "29882": {
+        "id": 29882,
+        "name": "Scrap of paper"
+    },
+    "29883": {
+        "id": 29883,
+        "name": "Completed note"
+    },
+    "29884": {
+        "id": 29884,
+        "name": "Bandages"
+    },
+    "29885": {
+        "id": 29885,
+        "name": "Icon"
+    },
+    "29886": {
+        "id": 29886,
+        "name": "Icon"
+    },
+    "29887": {
+        "id": 29887,
+        "name": "Icon"
+    },
+    "29888": {
+        "id": 29888,
+        "name": "Icon"
+    },
+    "29889": {
+        "id": 29889,
+        "name": "Glacial temotli"
+    },
+    "29892": {
+        "id": 29892,
+        "name": "Pendant of ates (inert)"
+    },
+    "29893": {
+        "id": 29893,
+        "name": "Pendant of ates"
+    },
+    "29895": {
+        "id": 29895,
+        "name": "Frozen tear"
+    },
+    "29897": {
+        "id": 29897,
+        "name": "Icon"
+    },
+    "29898": {
+        "id": 29898,
+        "name": "Test kebab"
+    },
+    "29899": {
+        "id": 29899,
+        "name": "Test kebab"
+    },
+    "29900": {
+        "id": 29900,
+        "name": "Varlamorian kebab"
+    },
+    "29903": {
+        "id": 29903,
+        "name": "Tattered sails"
+    },
+    "29904": {
+        "id": 29904,
+        "name": "Sails"
+    },
+    "29905": {
+        "id": 29905,
+        "name": "Betty's notes"
+    },
+    "29906": {
+        "id": 29906,
+        "name": "Storeroom key"
+    },
+    "29911": {
+        "id": 29911,
+        "name": "Prop sword"
+    },
+    "29912": {
+        "id": 29912,
+        "name": "Butler's tray"
+    },
+    "29913": {
+        "id": 29913,
+        "name": "Butler's tray"
+    },
+    "29914": {
+        "id": 29914,
+        "name": "Butler's uniform"
+    },
+    "29915": {
+        "id": 29915,
+        "name": "Butler's uniform"
+    },
+    "29916": {
+        "id": 29916,
+        "name": "Butler's uniform"
+    },
+    "29918": {
+        "id": 29918,
+        "name": "Butler's uniform"
+    },
+    "29920": {
+        "id": 29920,
+        "name": "Costume needle"
+    },
+    "29922": {
+        "id": 29922,
+        "name": "Case file"
+    },
+    "29923": {
+        "id": 29923,
+        "name": "Chest key"
+    },
+    "29925": {
+        "id": 29925,
+        "name": "Drinking flask"
+    },
+    "29926": {
+        "id": 29926,
+        "name": "Threatening note"
+    },
+    "29927": {
+        "id": 29927,
+        "name": "Shipping contract"
+    },
+    "29928": {
+        "id": 29928,
+        "name": "Wine labels"
+    },
+    "29929": {
+        "id": 29929,
+        "name": "Ram mask"
+    },
+    "29930": {
+        "id": 29930,
+        "name": "Wolf mask"
+    },
+    "29931": {
+        "id": 29931,
+        "name": "Bird mask"
+    },
+    "29932": {
+        "id": 29932,
+        "name": "Jaguar mask"
+    },
+    "29933": {
+        "id": 29933,
+        "name": "Snake mask"
+    },
+    "29934": {
+        "id": 29934,
+        "name": "Ram mask"
+    },
+    "29936": {
+        "id": 29936,
+        "name": "Wolf mask"
+    },
+    "29938": {
+        "id": 29938,
+        "name": "Bird mask"
+    },
+    "29940": {
+        "id": 29940,
+        "name": "Jaguar mask"
+    },
+    "29942": {
+        "id": 29942,
+        "name": "Snake mask"
+    },
+    "29944": {
+        "id": 29944,
+        "name": "Blackbird red"
+    },
+    "29947": {
+        "id": 29947,
+        "name": "Chilhuac red"
+    },
+    "29950": {
+        "id": 29950,
+        "name": "Principum red"
+    },
+    "29952": {
+        "id": 29952,
+        "name": "Ixcoztic white"
+    },
+    "29955": {
+        "id": 29955,
+        "name": "Metztonalli white"
+    },
+    "29958": {
+        "id": 29958,
+        "name": "Tonameyo white"
+    },
+    "29961": {
+        "id": 29961,
+        "name": "Fortis ash white"
+    },
+    "29963": {
+        "id": 29963,
+        "name": "Chichilihui ros\u00e9"
+    },
+    "29966": {
+        "id": 29966,
+        "name": "Imperial ros\u00e9"
+    },
+    "29969": {
+        "id": 29969,
+        "name": "Xochipaltic ros\u00e9"
+    },
+    "29971": {
+        "id": 29971,
+        "name": "Apprentice potion pack"
+    },
+    "29972": {
+        "id": 29972,
+        "name": "Adept potion pack"
+    },
+    "29973": {
+        "id": 29973,
+        "name": "Expert potion pack"
+    },
+    "29974": {
+        "id": 29974,
+        "name": "Prescription goggles"
+    },
+    "29976": {
+        "id": 29976,
+        "name": "Prescription goggles"
+    },
+    "29978": {
+        "id": 29978,
+        "name": "Alchemist labcoat"
+    },
+    "29980": {
+        "id": 29980,
+        "name": "Alchemist labcoat"
+    },
+    "29982": {
+        "id": 29982,
+        "name": "Alchemist pants"
+    },
+    "29984": {
+        "id": 29984,
+        "name": "Alchemist pants"
+    },
+    "29986": {
+        "id": 29986,
+        "name": "Alchemist gloves"
+    },
+    "29988": {
+        "id": 29988,
+        "name": "Alchemist's amulet"
+    },
+    "29990": {
+        "id": 29990,
+        "name": "Alchemist's amulet"
+    },
+    "29992": {
+        "id": 29992,
+        "name": "Alchemist's amulet"
+    },
+    "29993": {
+        "id": 29993,
+        "name": "Aldarium"
+    },
+    "29996": {
+        "id": 29996,
+        "name": "Reagent pouch"
+    },
+    "29998": {
+        "id": 29998,
+        "name": "Open reagent pouch"
+    },
+    "29999": {
+        "id": 29999,
+        "name": "Potion storage"
+    },
+    "30000": {
+        "id": 30000,
+        "name": "Pre-pot device"
+    },
+    "30002": {
+        "id": 30002,
+        "name": "Pre-pot device (disassembled)"
+    },
+    "30005": {
+        "id": 30005,
+        "name": "Mox paste"
+    },
+    "30007": {
+        "id": 30007,
+        "name": "Aga paste"
+    },
+    "30009": {
+        "id": 30009,
+        "name": "Lye paste"
+    },
+    "30011": {
+        "id": 30011,
+        "name": "Mammoth-might mix"
+    },
+    "30012": {
+        "id": 30012,
+        "name": "Mystic mana amalgam"
+    },
+    "30013": {
+        "id": 30013,
+        "name": "Marley's moonlight"
+    },
+    "30014": {
+        "id": 30014,
+        "name": "Alco-augmentator"
+    },
+    "30015": {
+        "id": 30015,
+        "name": "Aqualux amalgam"
+    },
+    "30016": {
+        "id": 30016,
+        "name": "Azure aura mix"
+    },
+    "30017": {
+        "id": 30017,
+        "name": "Liplack liquor"
+    },
+    "30018": {
+        "id": 30018,
+        "name": "Anti-leech lotion"
+    },
+    "30019": {
+        "id": 30019,
+        "name": "Megalite liquid"
+    },
+    "30020": {
+        "id": 30020,
+        "name": "Mixalot"
+    },
+    "30021": {
+        "id": 30021,
+        "name": "Mammoth-might mix"
+    },
+    "30022": {
+        "id": 30022,
+        "name": "Mystic mana amalgam"
+    },
+    "30023": {
+        "id": 30023,
+        "name": "Marley's moonlight"
+    },
+    "30024": {
+        "id": 30024,
+        "name": "Alco-augmentator"
+    },
+    "30025": {
+        "id": 30025,
+        "name": "Aqualux amalgam"
+    },
+    "30026": {
+        "id": 30026,
+        "name": "Azure aura mix"
+    },
+    "30027": {
+        "id": 30027,
+        "name": "Liplack liquor"
+    },
+    "30028": {
+        "id": 30028,
+        "name": "Anti-leech lotion"
+    },
+    "30029": {
+        "id": 30029,
+        "name": "Megalite liquid"
+    },
+    "30030": {
+        "id": 30030,
+        "name": "Mixalot"
+    },
+    "30031": {
+        "id": 30031,
+        "name": "Digweed"
+    },
+    "30032": {
+        "id": 30032,
+        "name": "Mixology lab notes"
+    },
+    "30035": {
+        "id": 30035,
+        "name": "Moonrise wines"
+    },
+    "30037": {
+        "id": 30037,
+        "name": "Grape barrel"
+    },
+    "30038": {
+        "id": 30038,
+        "name": "Termites"
+    },
+    "30040": {
+        "id": 30040,
+        "name": "Colossal wyrm teleport scroll"
+    },
+    "30042": {
+        "id": 30042,
+        "name": "Calcified acorn"
+    },
+    "30044": {
+        "id": 30044,
+        "name": "Graceful crafting kit"
+    },
+    "30045": {
+        "id": 30045,
+        "name": "Graceful hood"
+    },
+    "30047": {
+        "id": 30047,
+        "name": "Graceful hood"
+    },
+    "30048": {
+        "id": 30048,
+        "name": "Graceful cape"
+    },
+    "30050": {
+        "id": 30050,
+        "name": "Graceful cape"
+    },
+    "30051": {
+        "id": 30051,
+        "name": "Graceful top"
+    },
+    "30053": {
+        "id": 30053,
+        "name": "Graceful top"
+    },
+    "30054": {
+        "id": 30054,
+        "name": "Graceful legs"
+    },
+    "30056": {
+        "id": 30056,
+        "name": "Graceful legs"
+    },
+    "30057": {
+        "id": 30057,
+        "name": "Graceful gloves"
+    },
+    "30059": {
+        "id": 30059,
+        "name": "Graceful gloves"
+    },
+    "30060": {
+        "id": 30060,
+        "name": "Graceful boots"
+    },
+    "30062": {
+        "id": 30062,
+        "name": "Graceful boots"
+    },
+    "30064": {
+        "id": 30064,
+        "name": "Tome of earth"
+    },
+    "30066": {
+        "id": 30066,
+        "name": "Tome of earth (empty)"
+    },
+    "30068": {
+        "id": 30068,
+        "name": "Soiled page"
+    },
+    "30070": {
+        "id": 30070,
+        "name": "Dragon hunter wand"
+    },
+    "30073": {
+        "id": 30073,
+        "name": "Hueycoatl hide coif"
+    },
+    "30076": {
+        "id": 30076,
+        "name": "Hueycoatl hide body"
+    },
+    "30079": {
+        "id": 30079,
+        "name": "Hueycoatl hide chaps"
+    },
+    "30082": {
+        "id": 30082,
+        "name": "Hueycoatl hide vambraces"
+    },
+    "30085": {
+        "id": 30085,
+        "name": "Hueycoatl hide"
+    },
+    "30088": {
+        "id": 30088,
+        "name": "Huasca seed"
+    },
+    "30094": {
+        "id": 30094,
+        "name": "Grimy huasca"
+    },
+    "30097": {
+        "id": 30097,
+        "name": "Huasca"
+    },
+    "30100": {
+        "id": 30100,
+        "name": "Huasca potion (unf)"
+    },
+    "30103": {
+        "id": 30103,
+        "name": "Redberry antelope"
+    },
+    "30105": {
+        "id": 30105,
+        "name": "Tooth half of key"
+    },
+    "30107": {
+        "id": 30107,
+        "name": "Loop half of key"
+    },
+    "30109": {
+        "id": 30109,
+        "name": "Moon key"
+    },
+    "30111": {
+        "id": 30111,
+        "name": "Helmet of the moon"
+    },
+    "30113": {
+        "id": 30113,
+        "name": "Nasty token"
+    },
+    "30114": {
+        "id": 30114,
+        "name": "Nasty token"
+    },
+    "30115": {
+        "id": 30115,
+        "name": "Nasty token"
+    },
+    "30116": {
+        "id": 30116,
+        "name": "Nasty token"
+    },
+    "30117": {
+        "id": 30117,
+        "name": "Nasty token"
+    },
+    "30118": {
+        "id": 30118,
+        "name": "Nasty token"
+    },
+    "30119": {
+        "id": 30119,
+        "name": "Nasty token"
+    },
+    "30120": {
+        "id": 30120,
+        "name": "Nasty token"
+    },
+    "30121": {
+        "id": 30121,
+        "name": "Nasty token"
+    },
+    "30122": {
+        "id": 30122,
+        "name": "Nasty surprise"
+    },
+    "30123": {
+        "id": 30123,
+        "name": "The hueycoatl"
+    },
+    "30125": {
+        "id": 30125,
+        "name": "Prayer regeneration potion(4)"
+    },
+    "30128": {
+        "id": 30128,
+        "name": "Prayer regeneration potion(3)"
+    },
+    "30131": {
+        "id": 30131,
+        "name": "Prayer regeneration potion(2)"
+    },
+    "30134": {
+        "id": 30134,
+        "name": "Prayer regeneration potion(1)"
+    },
+    "30137": {
+        "id": 30137,
+        "name": "Goading potion(4)"
+    },
+    "30140": {
+        "id": 30140,
+        "name": "Goading potion(3)"
+    },
+    "30143": {
+        "id": 30143,
+        "name": "Goading potion(2)"
+    },
+    "30146": {
+        "id": 30146,
+        "name": "Goading potion(1)"
+    },
+    "30149": {
+        "id": 30149,
+        "name": "Aldarin teleport"
+    },
+    "30151": {
+        "id": 30151,
+        "name": "Bone squirrel"
+    },
+    "30152": {
+        "id": 30152,
+        "name": "Huberte"
+    },
+    "30154": {
+        "id": 30154,
+        "name": "Moxi"
+    },
+    "30156": {
+        "id": 30156,
+        "name": "Butler's tray"
+    },
+    "30157": {
+        "id": 30157,
+        "name": "Butler's tray"
     }
 }

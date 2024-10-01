@@ -1,7 +1,7 @@
 {
     "id": 14474,
     "name": "Steel knife",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": true,
     "examine": "A finely balanced throwing knife.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVUlEQVR4Xu2VTUtCURiEfX+Ki1zkwgQzw8zASswwzYyMzD7NzDQLCyJa9Mcn5tyOWNB6DtQs7+rhmTnvjcX+Vgw/vwhj2CuXEQiU4eSgGQ7MRbsdih3DbbeLo3od28WiGsgwvr7C3flZCHYM08EAk5teCHYML8OhA3rq99V2DK+j0QxGbCeCoR3C8Jnvbm1hLZtVABneHsYOiDD3lxdoVCrYyOc1MO+Pk28wviqZnXmY08MWdjZLWM/lsJrJaIBYF594r9OZVSWywxg+nqdo1WpuxKxKaIcxtxnem+WlFEqFgrOzkk4rgAzH+w1XE82kkkksxONfIAIY3ppmtTqzs5hIKEB8zO3Gj5h2pDDcDe0QiHsR2omqoh0CccBCO+YOH+0QiNuR2+GrCsYOq/J2eG9Et4aJqqIdDxSEHQ8ktuMT7YdAYjvzie4Pr3IAMD6S/9R/fs0nvQUnAbTN/C4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeUlEQVR4XuWWQUsCURSFvf8kF7nIhQpmhpmBmZhhmhkZmWVlZqZZWBDRoj9+4rzHG8ZZtHPuQAdmM8zAx3fuuzOx2P+KIHhHMYLjahURgRJcnrYNTHptzVzBJ0KMYNDtenbUYR77fZw3mzgolbSBBLP7OzzdXC/ZUQISLMZjzB+GUbAj+JhMDNDbaKRtR/A5nXowynYsDO0Qhsf8qFLBTi6nAST4epkZIMI83w7QqtWwVyho1CX4fp0vwbiq1Oz4Ya7OOjjcL2M3n8d2NqsDxLp4xIe9nleV307oQD/vC3QaDTPErErRDiNmZrhvNtMplItFY2crk9EAElyctExNNJNKJrEejxsQhbrsL0W7XvfsbCQSSyAhwjBi5sYNMe0oWHGxc0M7BOK8+O0En15xbFW0QyAOsKIdMYuPdgjE2VG3w1MVGTusytnhvvHvmtBhWBXtOKCgneAbK46144CU7bjY+SGQsh1/7P7hVla244/Kd+rvRAom7PwCMOdmFU9097oAAAAASUVORK5CYII=",
     "wiki_name": "Steel knife (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_knife#Unpoisoned",
     "equipment": null,

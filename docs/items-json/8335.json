@@ -1,7 +1,7 @@
 {
     "id": 8335,
     "name": "Eagle lectern",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfUlEQVR4XuWX/0tTYRTGff+Efk0oKixIMRN0DUsGw0w28ttaa62Zmiynw74NRWuFlOYyaWQWlovETBZNrKygfuz/euQ5l9fda/hL9O5GPfAwXu69O5+d8773nFVU/HtS2N1ll0I00onR9DCePJ6Uz+6uAPpCTYgGG8sB5czA0OBlTE9NYHHhEWZnMgj7jiAV8+FqpBmnGw6gzXPwT0M5ARiczk7fERNi+fU88q9yuNhSjXR/izjoPWSibArx2Dmkbybx4/snfN0sYvNjARvFVRTfL6Owlse7ty+x/mEFvW21uD/SjslU0AQIZX0pg7x52IOlBzE8vxfF09vnMTcWwsytTrl2dyiAZMdxJM7WiQ2AUAojcT9y42HEW2skODNwJXBMghIg1VUv1mveRxsD4ua84D+K0YFWCUQgrrubDwvEtVADxqIncCPcKGC8zmcMAVHOzUzzxBCKmSJEOuJBpqdJMuSt3msSZjdZmWM2CFFVuUcyxEwR0gUgysoWy0YQlo5Zm4h55di7BqVPlr9+v0B8W7qOS+0e94C4hwilgUp2RQo/i1kpF9uDiyBaFhA3tIFe9TuygOi/DqjURF1VCajjZJXbQNZp+hWo7FBW0FO1lWINxN7mq9u34/gbVwmEALQGYiuhmSknmDEpeddo67nHbvY2tg1u8DJscrWdFXol2ytene3D2lw/8lNxGdw4O+lsGQfir6c5F31+kRRvLAyKC7kBARpPnDE9pGlZnV1PhvZpkWb70H3N8BirpWSmpu3l0iXjmmXjzP0sE7EN+caktstDr88nHGbJCEcgzt78C2QYiNLvF4Uvi8MOE5JZst+z82nDsgd2DeI/1xZgdD5zrBwuaQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoklEQVR4Xt2X70tTcRTGvX9CbxPKCgsybAm6hiWDoSYb+WuttdZMTZbTYb+GorVCSnOZNDILy0ViJosmZlZQL/u/HnnO5bvdXbMXtXsnPfAwLne757NzznfnrKLi/5OG3W27NISCnRhNDOPZ00l57e7yos/fiJCvwQ6o4gwMDV7F9NQEFheeYHYmiYD7GOJhN64Hm9BSfwhtzsOlhioGYHA6NX1PTIjlt/PIvEnjcnMNEv3NYp/rSP4zjqoqsfnJfyENkfAFJG7H8PPHJr5t5bD1OYuN3CpyH5eRXcvgw/vXWP+0gt62Wjwcacdk3LcDpGQwNIO8e9yDpUdhvHwQwvO7FzE35sfMnU65d3/Ii1jHKUTPO8QWgFAaRiIepMcDiLSekODMwDXvSQlKgHhXnVhd8320AjI/8R+lSXNe8hzH6ECrBCIQr7ubjgrEDX89xkKncSvQIGC8z89YBESZf080OTGEYqYIkQg6kexplAy5avaXuoF3ytgLehA9c8wGIaor90mGmClCWpidP0nPFstGEJaOWZsIu+TY6/dtl5Y/WZ66gwLxfekmrrQ7y5cl9hChFJCypT20uzT8yqWkXBwPRpAywFA6EBtazaoygSjpQPSeA1JDdM8AdZypLjeQfprMQLptlR70bG2lWAFxtrkdB0zH33IVQAhAKyCOEpqZKgazTJr81iirvcdozjaODTa4DU2u5bNCr6R6xauzfVib60dmKiKLG3cnlS3Lgfjtae5FX17FxBsLg+JsekCAxqPnrF7SlPTJrjZD47ZIc3youWZeY81PKpE02alpY7lUyXjNsnHnfpEM5pd8S4FUeej1+WiRWTLCEYi7N/8CWQxEFdaLr4vDRSYks2R8jy1TvxCkEPh3ELbAmGUOXhYIO7UNlx2B1NZ6ugkAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

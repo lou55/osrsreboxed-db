@@ -1,7 +1,7 @@
 {
     "id": 25714,
     "name": "Clan cloak",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-05-26",
     "duplicate": false,
     "examine": "Shows your clan's colours.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7klEQVR4XsWXTUtCURCGPat2SqASBBf8xoxq4Q9QhDZuWkSuIqIQNfsgKogIJCkKIykNC6JFEC2CoE2/oX81+c5lvNfWNWfgxXO8i3l4Z86dcwOBPw9D47Iahg5XHKoUolRZjNJyKWwTytD9dppejrIMsVQIUzEfouJCyBaUoce9jC+5oXYtRs8HWZoOT9iAMlyq8cSGPlqzNlwy9H6ao/ZajD7P5nwN7f7f20ppAhmGQGK48d3L09fFPMM97WdYqjBIiEa+baS4qd9OcrxHP8kzVSA07cNummGgq804C2VSdwcuAEjc6dZTDHO+HmMpwiBcIHEGuq4mWJcbcW0YhAvkd0dg4JIykPtWBowfSKQMg/CA/DCdapJdsg6EEwVZdeemliTHcWgqGLQJ5MFAySEQ9vFEgiKRiP6IwOnByQKMHHUBsQojQJOhEK+VgTwYASqVy9w7cEeaWhUGwlzyl0p6SRHIjEYBYOBOZ7j+DQPhqqECJC88DNBu3bI7kgz3GQDdNZKjPgIchLWaOzLJATTYSY9ufxDg8IvnrVVFIOj1eIb6TbdsgOg30yzsFae6YWcAgCspoLAXt2StCIRwr6cCJBoMr6uyVmpoCcNJASXl8/eRlFARCOFBQVIqfPK4IKowEi4UZBnEHwLx/yA/9UsvGZjXi+0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACG0lEQVR4XsWXTUvDQBCG3ZM3g9CKIJR+pBU/0B76A1oEL714EHsSEUX8VkQFEaEoilJR1IoK4kEQD4Lgxd/gvxr7zjJJGgQvzWTgpbsJ6T68M5uddHV1PAy1K9YwtDeTolq5j2qTfTQ9kYgTytD9RoFe94cYYqqcoErJoUrRiQvK0NP2IC9eTKf592Q5Qy+7QzSQ6I4DynCqfCB77bM+6rnkX488DH0cjdDJXIa+jscCBW2v363lNYEMQ2BhuPFzV6Lvs3GGe94ZZAmMApDhBVHIN6t5Lur3wxGeo57knqo7KNrHrQLDQBeLWRbSpO4OXACQuHO9kmeY0/kMSxEGYYHEGehyKcc6X8hqwyAsUNAdgYFLinWDsG9lwASBRLG4I0BBmMaSyy4pu4NoB8KOgmJ152rZpVQqRf09PX8ChZ+KKHwYyG0BYZ7N5SiZTOofEdg92FmAka0uIEEYBaB2GAHqdRweh4HCT3c4fBgBmqhWuXbgjhS1kjsWBsK5FEyV1FIYKPwPHQzjHQWAgTuN1jgMA6HVUAGSFx4O0OuV/92JEMhubyyGfgZAt6uuV0eAgzBWc0dOcgA9bBa87g8CHH5xvz6rCAS9HQxTc92mDRDN9QIL8+CpHjkQnAEAWlJAYS5uyVi5zbDtqQCJHlrtqoyVtruE4UUBJekL1pGkUBEI4UNBkip88uCeUv2Ew0JBf4Eow0j4X6JRg/wCn1ZvnN+mjYIAAAAASUVORK5CYII=",
     "wiki_name": "Clan cloak (Orange)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clan_cloak#Orange",
     "equipment": {

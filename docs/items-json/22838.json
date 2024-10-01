@@ -1,7 +1,7 @@
 {
     "id": 22838,
     "name": "Fish sack",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": false,
     "examine": "There's something fishy about this...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXUlEQVR4Xu3V72tSYRQH8D2vxJCGOIolm+RQ0Ym/mHPCNhO9m1PZKsUJyxoRrWAQvYjejVH0x0T9j9/4Prdz91w3xqDnai924HDVN374nsO5Cwv3FUgpXPVcy0UMKmXsplNYii3OE6VwUNvE6FkDHxq76BcLaOey8wIpTPYc/Ly8wMXrCb50HHxyWthKPp0HyB1Tf28LH48O0SyXsJ5JIJWMY/lRdJYgFxIOhZBcXcXvH991SuXC2qxBfgif7F/fLlHIJTVoPGxqUPzJEiKRB0GiFL6en+P0+Bjddgt9x/FA3J96NedLiKBkYhnhcOgvyjpM4dVwgEGvh89n7/VnptKoF9DcKemnoLKpFSRWHmuM2ZZhSv/hfnPD64P2ptf8bqIIeBgJ674Z9s+lMHrewPBwBy+6277mb0edukYxrVgsqhPicYwuRjyY4CyBWG7kJ8MWJiNHP6WJzWTWkEjEr+2SwARnGcVyYblcGsXiOqrVIvL5rE5ou5ZHrZL1oZgWz4CZWAAoltIgNsfGXeLIbkOZIP+iW8MpPT6OzNwjLvddUdaXXfaJC87XSLtRuTWp6b2Stg6SlIiSpEwU7xZvFA+mpGW2dZCgJClByX3aKKW9tEyYtCUQS+F0vH8NJAfTRJkjJIpjZFvEsBTO3vR0UuOXTe94cnxEyU5NozhCwixjpK5SIuqmpAgjSvZKRhgQiKXw9qTjS0qW3ESZyx4ghuWCzH0yxze9V0QFDno36WqQpETUNEz2KmAMywVJSuY5MJddkpoBiOWiBMYmiBgXYP3ddZea/uOZA+7r/6g/gptPcPio/+gAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdklEQVR4Xu3V72tSYRQHcO8rMaQhjmLJ5nKo6MRfzDlhm4nezalsleKEZY2IVjCIXkTvxij6Y6L+x298n9u5PvdujKDn6os6cLj7gdzPvudwFgr9r0DKwqwXWg5iWK1gP5PGcnxpkSgLR/VtjJ808a65j0GpiE4+p0Dl9fV5oyxMD2x8v77C1cspPnVtfLDb2Ek9XgTIGdPgYAfvT47RqpSxmU0inUpg5UFsniAHEgmHkVpbw89vX1VKleLGvEFeCJ/sH1+uUcynFGgyailQ4tEyotF7QS62hc+Xlzg/PUWv08bAtl0Q96dRy3sSIiiVXEEkEv6NMg6z8GI0xLDfx8eLt+prptJsFNHaK6unoHLpVSRXHyqM3oZhlnrhYWvL7aPOttv8XkcRcD8aUX077K/LwvhpE6PjPTzr7XqaPzvpNhSKacXjMZUQj2NsKerCBGdw2Z3Iz0ZtTMe2ekoTm81uIJlM3NglgQnOYEqhkPOXObB8PoNSaRO1WgmFQk4ltFsvoF7NeVBMi2dAT8woiiUwgtgcG3eJI7sLpYO8i24MZ6nxcWT6HnG5/xRlfNlln7jg/DfSaVbvTMq/V9KGln0GkpSIkqR0FO8WbxQPpqSlt3GQoCQpQcl92ipn3LR0mLQhEMvC+eTwBkgOpo7SR0gUx8gWjDHQxau+SmryvOUeT46PKNkpP4ojJMwwRmqWElG3JUUYUbJXMkKDo/KXhddnXU9SsuQ6Sl/2gNKRckD6Punj8+8VUQGmw7LwZtpTIEmJKD9M9irgdFgOSFLSz4G+7JJUwOlIOSiBsQkihr/TO+B09PK+2A/Q2//JwMr/4rkD/sn6BdB1gC4fCMB1AAAAAElFTkSuQmCC",
     "wiki_name": "Fish sack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fish_sack",
     "equipment": {

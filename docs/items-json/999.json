@@ -1,7 +1,7 @@
 {
     "id": 999,
     "name": "Coins",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Lovely money!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQElEQVR4XmNgGAWjYBSMglEwCkbBYAGM/yEYHcDEscnRBEAsm1vOCcaoDkCIY8pRDLAZhmohKRjTLKIBbp+iW0IOJtFRuC0Fyf08pIUhDsLtaew45UDYwZAZxRx0W3EA3I5Bxr+OWYDx5518/y8t4Pm/pIbzf0kkO1wchH/uE/n/bD1EviaOHUU/1R0EwqDQeLmR7/+hyVxIlkBCEFdITS3k/B/qwEqag34ekMIwCBmDogZmKLocMoaF1LfdfP/vLOcBO7wlhR0cdaQ5COTDI/r/fx41gWCkoIdFDXJ6wIVhIYYdkwQYIQ4BOQroOFA6gflwUj7h3AYKwUgXkqKFGIDuI3TfYc9toBCsiGb/72dNUrRQAzCi5Kg3WyCJG5Roc4NZSU0n1AKIHPVoLd//jW1cWEKS7gBbdI6CUTAKMAAAkZHl9fuQPFsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWUlEQVR4XmNgGAWjYBSMglEwCkbBYAGM/yEYHcDEscnRBEAsm1vOCcaoDkCIY8pRDLAZhmohKRjTLKIBbp+iW0IOJtFRuC0Fyf08pIUhDsLtaew45UDYwZAZxRwDBQViHIXbMcj41zELMP68k+//pQU8/5fUcP4viWSHi4Pwz30i/5+th8jXxLGj6Ke6g0AYFBovN/L9PzSZC24JLARxhdTUQs7/oQ6spDno5wEpDIOQMShqYIaiyyFjWEh92833/85yHrDDW1LYwVFHmoNAPjyi///nURMIRgp6WNQgpwdcGBZi2DDIMUQ6CAQYIQ4BOQroOFA6gflwUj7h3AYKwUgXRLTgwui2EgCYvkL2HdjRWNIJKAQrotn/+1mTFC3EAXQfofqOESVHvdkCSdygRJsbzEpqOqEWQOSoR2v5/m9s48IISTo7CAQwo5OCdEIdMCgcMQpGARoAAMK2FVN1HTaYAAAAAElFTkSuQmCC",
     "wiki_name": "Coins",
     "wiki_url": "https://oldschool.runescape.wiki/w/Coins",
     "equipment": null,

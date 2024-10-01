@@ -1,7 +1,7 @@
 {
     "id": 6030,
     "name": "Magic leaves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": false,
     "examine": "A pile of Magic tree leaves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xu2WbWsaURCFXUIJDWIoiqKSFFOakBg0CdQixbYSLKaVIk0TMU1SQtM32k/93i/9C03w507z3JvZvatCu74gFAeG3b2ud86ec2Z2Y7F5/L/hyWDOLDxpHq7LfuuBPKrlpVzJSnEvM0tQlpEPX3JyfJKR3WpONstpSWeXZgHKk8LaHV+mw05a6o17Ek/ETM5ARk9q9bvSOEjK0/qyNFtJvzjnrANQMwxqKgA9aXW3pNF+KL3fXb/o+485ab9NGUD4ChkDABbwejE1DdYsIExNcUDhJQDhp9qLgjx+vhoCg6zqswkACj8l+eZ8W14eb/gssdY+ikvzddx0XnX/vn9v9zxjpNRuHPRZpPD8ghTRZHNAtd8VZa8SN78fXZQMcwDSYrAGIIDDHP+rN5bkVTvl50igyO8/VuT0ImsKIgl+6H7ekfKuBeRm7/qnOX76ljdMIu+zgzWzpuzit6AhRgpbDFBslC8kBoAEmwfXCgiWuIZFEnbw4BiAiJunv7q8kfHMGDW/umAA6tNqx21uLxrmOqeDoGGIhGkAPaktjwPqVpJbX5E6rQGlZsYvgAuKWQ/iIaQu7Swaz8FasRRpuodlwJAMQ4op3Z3LstNxZz5LXFeqCWN8UhkEJOvB3hHA0CE6O7SL+gciiQRmNjlTm2s6EEnJsGf+GYQb1sBIwVDT7iDZ3JUElvCUC8hNV+L+KhHCAqIQbY7+Sj+GBJDOIMAGM8XrmzHDgI0UFpC+DnQoso4ceGnYDGI2uSwGfrF7hmtECushGEI2nbRamKLhDrHrrtd4AFjpXf8ahxkNC4iEJTYf9gbX5B49R1YAIy0JqPALd+QICvINxDHsA88Mv97VVyORmhzg+lmbXXFlnWi4zITXte1hUaUFFEMwmVyYBpi/hWUA3+i8wfR04cZWpEk8ybA+ct9rdFjQiTOJsNGn5J15zCNS/AE4zGj0p4TZwgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6UlEQVR4Xu2WbUtbQRCFc5EilRApkYQkaI2likaSKNQSStoGSYltKKFWQ1q1SO0b7ad+75f+hSr5uVOf3czdzUshuVUC4sCQezc3O2fPOTM3sdht3NwIZDinFoE09ldlt/lAHlVzUtrJSGE7PU1QlpGPX7Ny+C4tW5WsrJdSksrMTQNUIPmVO6FM++2U1Or3JJ6ImZyCjIFUa3elvpeUp7V5aTSTYXGuWQegZj+oawEYSLOzIfXWQ+n+6YRFP3zKSuvtggGEr5CR9fLycgh4tbBwHaxZQJia4oDCSwDCT9UXeXn8fKkPDLKqz9x65NATOV+8OdmUl4drIUustQ7i0ngdN51X2b0fPts5SRsptRuHfTZRBGFBimiyOaBa7wuyvRM33x+cFg1zANJisAYggMMcv6vV5+RVayHMSKDIHz8X5eg0YwoiCX7ofClLacsC8rN78ct8fv6eM0wi77O9FbOm7OI3bYiJJfSNCSg2yuUTQ0Dc5u5eAcES97BIwg4ejATIxeXpz88uZTw2Rs0tzRiAelrtuPXNWcNc+2gYNAyRMA2gJ9X53neRoidJz1ekTmtAqZnxC+BcMetBPITUxfKs8RysFYp2uo/Jkp7MXmNIhiHFlO72WcnruOOQJe53KgljfFIZBCTrbm8LZgxAtmV1dmgXDQ5EEgnMbPKmNvd0IJKSvmd8EGOCIayBkYKhpt1BsrkvCSzhKR+Qn77EE4LwwwKiEG2O/ko/hgSQziDAupkSDMyYUcAihQWkrwMdiqwjB14aNYOYTT6L6hcdBxHZIayHYAjZdNJqYYr2d4hd973GAWCle/E7ZCYiGMICImGJzUe9wTV5Rq+RFcBISwJKX7iDVSYMV5D/QHz2+yAww697/s1IpCYHuP6tzSw6Wf9DLhduk3/5wLU9LKq0gGIIJpMzI35zRaEbDm9sGcA3Om8wPV24tjHRJL7KsD7y32t0mHbiFAAR/Ua/Uu9EDS0+mIPP3caNjb+yMagIY9+PSAAAAABJRU5ErkJggg==",
     "wiki_name": "Magic leaves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_leaves",
     "equipment": null,

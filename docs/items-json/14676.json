@@ -1,7 +1,7 @@
 {
     "id": 14676,
     "name": "Staff",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "It's a slightly magical stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABC0lEQVR4XtWXsQoCQQxELxyL3yAWgqCgzaEgh6BYyIGKiAiHHKhgYWFhIVhYWFgIFn50ZC4sfoDFjgPbPybJJBtF/ydRexQS3Y2dXhYVFijRZT/W09TpbU0BJZolsR4m5tJjExzKgFA279JrSwDVa5hL57nTZxEcCLJJO2aOoWxeosXI6T0nAsLEkUwbZA1+XREBpS0Deu8poEQ7tagEIpk0SEogqkmjdMn3EgkQZBNHdAVAovnAcQGhdNhvVFBIbyoguISlSwVF59KwbfcSFdQ6dUzZZL1E90NBWOL2JoESTepxWTpk0xcqKJg1OErnoQL3lWizGumsa9lEkuL2bcKeIwpM3zsUML/pA873uBvGvn5tAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABLElEQVR4Xu2XMUsDURCEbzke/gaxSAgoaJMohBAwWISAikgIBAnEgIWFhYVgYZEiRcAiP3pkbnk5OLCw2hEy8Kq74mN2d/a9ovh/MviRkOH5JuHj4UgFyvDYL/F2m/A1k4AyTLolXsbu0uYpHMqBWLbs0vdSAOqq4y693ydsFw7Ua7djoXheJ2lftmAgyrAYJaznQkCcuDxtEkBs8M+pENDgzIF2q/BJowwXJ0UFJDJplFVAUpPWdKn5R4DqXhJxifKJE7oFUIb5MGm5xNJxv0m5xPSWc4lL9+DS7zJcn/t9Scql2SDts6n5NUDeS3IvFIYl794iUIZuq6xKx2yqoULBvMFZugwV3FeG0+MCd5eeTTnFGQeBkeDPJu65HJiBMFm5d8LdqZVB/grzA4kV01hLEdvMAAAAAElFTkSuQmCC",
     "wiki_name": "Staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Staff",
     "equipment": null,

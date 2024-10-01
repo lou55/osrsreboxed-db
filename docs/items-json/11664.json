@@ -1,7 +1,7 @@
 {
     "id": 11664,
     "name": "Void ranger helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-17",
     "duplicate": false,
     "examine": "A ranger helm from the order of the Void Knights.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xu2W4S+VYRjGvZ+MNc2yLJYmS5OmNEmTaJKkiSRJIkmSSJJJJIlJUiSVadZa9aH/8W6/+93jPOc9yHHe45N7uz+e9/md677u63liYnYqKuXIxr1t5R744fWYvB0eltGnfdLX0SHtTU1y82qNXC4rk7MFBdsB5YJ8n/so36anZX5iQt6/GpWxZ/3S39kpD5qb5da12u0AckH+rqzI76Ul+bn4WVbm5xUKoPGBARno6loFulJerkAnjx+LBpQTBLE8OytLMzPyY+FTCNDDOy1y+3qdApUUFsqx7Gy/gRz5s7wcBGTGNfdmXCaHhmTkSa+OC5jWhgYFqqmoUKATOTlyJDPTT6gA0K+vX1QVA4ShDRCGNkC1lZVy6XyplBYVKdDBtDS/gFzfGBgUMkCLU1MKNDE4uKrQo7ut0tbYKHVVVXKhuFhO5+XpyAA6kJoaKZSjKtAcvjA5qc1W0QYIhVh5L9DFcyVyKjdXx7U/JUV2JyREopQTdDhe4XDMSwPBmr943KMgPffadLts/zAuNuxQerqqszcpSfYkJm4FyAkCePdyRIMPiPVAUKWlvl4D0YY5mpUlhzMyVBlUAoreEhSNP1hnILwgGJhURhVy50Z1tZoZ7zAqgPCPF2pfcvJWoSgXjAak9367+sSownhQBc+gDL4hDM/k568LxfgMWOD7YVUA6n+NOoxrIyg8ZYPRYUC5Y2OLnnd3B43LjNE0o7Wb36EcYGwYhg6MytubLkeTmY3D2BxE5gDH+BidMTOHc12YQEQlcighLkZ7V3y8goUJ4C1HNyv0HzmqGncXimFuwDC2F8oAxcXGakcIRK0nayiktzF5VIDwSPgfclQpG4ixhf+dkHLUxN5/v5nmkWZ7yDcgTGyHoUlmcohQxNT4B2MTjmQSXrKBMLQPpqYcvT4wsR2MBszcXzYYUMbcNoxvQDw3uN/IFrNZqGWD2euPQqhjTE0GmSzyAYhyA9LrkY0acMDM3QWMr0A8QwjF0A8GIHg1ev1kLluujQgu1bXKDUm8ZEMAysg42KvS2u1rOXp9AMVbCYNH8bDNVlT/8U6FVf8ArsaJAa8maFoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xu2W7y+WYRTH3a+MNc2yLJbI0qT50SRNokmSJpIkiSRJIkkmkSQmSZFUpllr1Yv+x9M+173Lc92XX8/D/agXne28fJ7zub/ne865IiL+R1jCkY1zx8It+O7lqLweGpKRx73S294ubY2Ncv1ytVwsLZXT+fk7AeWCfJ19L1+mpmRufFzevhiR0Sd90tfRIfeamuTGlRoPUHZycjigXJDfy8vyc3FRvi98lOW5OQUF0Fh/v/R3dq4AXSorU0DHs7PCoZLjgViamZHF6Wn5Nv9hFdD9W81y82qtAiouKJCsjAy/VXLk19KSB0i3a/bVmEwMDsrwox7VLmBa6usVUHV5uQI6lpkpR9LS/FQpAPTj8yeligbC0BoIQ2ugmooKuXC2REoKCxXQwaQkv1RyfaNhUEgDLUxOKqDxgYEVhR7cbpHWhgaprayUc0VFcjI3V7UMoAOJidtVyVEqkBSfn5hQyVSRGgiFGHkb6PyZYjmRk6PatT8hQXbHxKwoZVcKIhxPcbxCccxLAsGYP3vYrUC677Sq6TL9Q7uYsEMpKUqdvXFxsic2diutczwAb54Pq8UHxHogqNJcV6cWoglzND1dDqemKmVQCShyCyq53sEfjDMQNggGZiujCnvnWlWVMjPeoVUA4R8bal98/NagXFkDNwmQnrttyidaFdqDKngGZfANy/BUXt66ULRPgwX+P6QIQG2WqEO7NoLCUyYYGQKU2zam6GlXl6dduo06aa2Z/A7lAGPCMHSgVd6kG0Ea3VGbmYnD2BRi5wBH+2idNjPFORd6IaISeygmKkLlruhoBWYCmGlXXiccNVn2F5Goxu1CMcwNGMa2oTRQVGSkSg1kVwohvLIGvmg1pJ2YPCxAeMQt4g0b0gZGKROItvkChIntrw8meaSZHvINCBOby1BvZvYQSxFT4x+MzXJkJ+ElEwhDm6a2q4QQjjofmNhcjBpM3y8TDChtbhPGNyCeG9w3doueLNQywczxRyHU0aZmB+ld5AMQ4S5I2yMbJeCA6dsFjK9APENYivoPzWnSyavR9pM+tpwNval9ACLcJYmXTAhAaRmFbZXWysCH+BKOOh9A8VbC4GsV2yztf91mrP3FYSoWXPwTEH8j/gC+oNfajWYjGAAAAABJRU5ErkJggg==",
     "wiki_name": "Void ranger helm (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Void_ranger_helm#Normal",
     "equipment": {

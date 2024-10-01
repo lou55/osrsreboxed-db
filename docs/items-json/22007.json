@@ -1,7 +1,7 @@
 {
     "id": 22007,
     "name": "Skeletal visage",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "It looks like this could be attached to a shield somehow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xu3W70tTURgHcPcqHGFILyQEI/+BKLSIehEEFb3oB7a0Zv6YNnPZZK0lOpSVy5mWYLakZIKxbEgZQb8oivrLnvie23N57rlnP+62ohcdeLh3Z+fe+9lznnPuGhr+/eYjc5i+/+PNR4vJLnoweUHF3MR5St8+p4IR+eVB2ljqp/WHfQaU/iNqhlsgRgHEoWNyC720OnfF8WB8xnd6OFGekD5amr7oQuEICAeDsukeWk5dUmNxNIEwXqK/bSXpy2a8OhSDcM7ZYdDz+aAC8dhiIFz3tTBJP7bv0s/tWQXyhMFN+VczCA81gVbuddsgnJtAmyshBwjnFYJ8jmnAg7i48VmCGA4ET28x0NbTa/UDcZbQxyCM6wlYRc6ZZBCypoPePAvbIIQnENeFDsIvB0iNyS6qoyzoUqC3ayNO0Ks7tYPQz6BA11kbJFdkMdC73Gh9QQhMJYPSqQlq39emzsuBMMUfN8Zs0PfXM5Vi0JwgicLNAWLUaNiqJcZgXDHQpxfRakFo1uaFm5cCFV7mKNR/2UYxCJnke3B8zseqBVlLGRmqBHT65HFqbNzhAgwPBunGyAAt3J+mY0cPqT4GedgUrSVvAiFcoHyOwkNXbVB8/DoN9HbTzUiIErci1BcM2FuDzFBNIEYhAMKOy6DUBz8tzacoM5ukifgYTSWi1HlwvytbGF8XkMwSjjooFg3T2uojmpmK0Z6WFtrV1KT69YIuPBmyQdilK8SgWSvMBOLXgQRlH2cok04qGGcD10gQxuK1ITNUFUivI17KAGHc3tZW2t3cTDv9fjpz6oTqQ51JELIDEF4bdQMxCv14gAQd6eigRCxChzsPqD6ZSQnCLi1BHlAWyDRtOggrqL2tTcE4OyYQxr9fj9gg7EEe9iEnSE6bDhofG/59UwtjAiE7NYOwysqB8DCMla8MBnGt8XTVDaRPG/olCA+XIN6rcB2PBQhLXoKwB3neh0zTJkE4LwWS9VMXkGnaJAjfyb8cEoRxsn5qBKFZhVou9Prh0EHYFCWIwwOo0uZGcsj6+YugUs2NdMf/Vlv7BaF1VF3eiqNMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xs3W/UtTYRQH8O2nUMKQfpAQzPwHekGLqB+CoKIfesGWluZ7M6dNlpnoUFYuZ1qCmUnJBMNMpIygN4qi/rIT3+d2rueePZubu4UPHHZ9du6ezz3PyzUQ2PktSPawff/PW5Cm4/X0aPiyiYmhS5S8e9EEI1Zm22l5ppWWHrdYUPohioY7IEYBxKEx6almWpi47hkYf+M7HV5UQcggzYxeyUDhExAOBs0nG2k2cdXk4tMGQr5E/1iP07fVge2hGIRrrg6DXk42GRDnZgPhvu9rw/Rr4z793hg3IIxxqLrahB5dNafs/NQMwqA20NyDBheEaxtoda7DA8I1g/ToqgU904CBeHHjbwliOBA8vdlA689v+gfiKqGPQchrDDmLnCvJIFRNg969CLsgREEgXhcahCcHyOTMT5tPuaBzgd4vdntBb+4VD0I/g0L1F1yQ3JHZQB/SPf6CEJhKBiUTQ1RzoMpcbwXCFH9e7nNBP9+OuZiCQRKFHweIUT1hZy0xBnnZQF9eRa0gPXqW5hxe+PFcoLXXaepoveaiGIRK8m9wfF2JbRfkbGVUKB/QuTOnqKRkVwagq72JervbaOrhKJ08cdT0MUgeinp01ZwtbwMhMkAraQp33nBBA/23qK25gW5HOmjwToRamkLu0SArVBSIUQiAcOIyKPGplGYmE5Qaj9PQQB+NDEap7sjBjGoh3xeQrBI+NSgWDdPiwhMaG4nRvooK2lNWZvr1gl571umCcEozJi8QdogNxK8DCZp/mqJUMm5gXA3cI0HIxWtDVijP6qBtgvQ64q0MEPL2V1bS3vJy2l1aSufPnjZ9WGcShOoAhNeGbyBGoR8DSNDx2loajEXoWN1h0ycrKUE4pSWIUXp0S3NAtmnTIOygmqoqA+Pq2EDI/7gUcUE4gwo4h7wgOW0a1N/X9fcpHYwNhOoUDcIu2wqEwZArXxkM4rXG0+UbSE8b+iUIg0sQn1W4j3MBwpaXIJxBBZ9DtmmTIFznAsn14wvINm0ShO/kvxwShDy5fooEoXmP/Wyh1w+HBuFQlCCOAkCBAB/ruUIDZcj14wso36aR+WA5NnP/U9NIW+h7dnT7A+t5nulpMlBBAAAAAElFTkSuQmCC",
     "wiki_name": "Skeletal visage",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skeletal_visage",
     "equipment": null,

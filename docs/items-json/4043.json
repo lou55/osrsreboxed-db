@@ -1,7 +1,7 @@
 {
     "id": 4043,
     "name": "Rock",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-13",
     "duplicate": false,
     "examine": "I can use this with the catapult.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXUlEQVR4Xu3UW0vDQBQE4O4PEdFCIVQEpWhF64VaYq20Bu8UQUQQEfz/byOzy4nrsmJqdxMfdiD0RpKvcw5ptVJSao+C/2gkCtnaCrrtVWx21rGVtdHrdrC7kTWFU5gd7+E2P8LjdISXq3M8zXL9fj4Z4n58on+rCaVwcdjH9Wigb05IgyCF8WAHxfBA35SA5+JMg/jqgiKjFPL9Xjkqux0B8TO/r6ElhdP+djkqu53Xm8k3kN1SRJTZG47KbccHckcXGGT2hqNy2yHk7W5agtyWIqDM3vjakXERVKWlACizN752ZFzEuKCILfnbsZf5/eGyBLktRVhwP8huhyAb5T4CAo/ud9DHvFgY9EcMExbE87mHS4CYn58/VUHSTgAMszxIMLxGoyDB8Dyez0dHIyDB2HsTCCNRlUEyKntviOGfCghieDFz+EDSjm9viOHTPjDIzhdusSMlJeV/5RNjCbMFKm7eKQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4Xu2WW0vDQBSEsz9ErBYKoSIqRStaL9QSa6U1eKcIIoKI4P9/OzIbTno8LDZNNsmDGVhyYzdfZoYlQdCoUeUy5B61yFC4sUbd9jptdzZpN2xTr9uhg62wLjhDs7NDeohO6WU6ovfbK3qdRfZ8PhnS0/jcPqsIytD1SZ/uRgP7coD8BbTTapUJZWg82Kd4eGxfCoC3+NIC4aiBSnbJUHTUS6OS7jAQrnG/ApcMXfT30qikOx/3k19A0qUSu5T0BlFpd1xAOjrPLiW9QVTaHYB8Pk5TIO2ShtIr51DSG5c7HBeAsrjkASrpjcsdjgswGmiZSwWic7sjy/z1fJMCaZdKKLgbSLoDIAmltwDP0S0H+p7HKwNxbDmi8wuE+ehh4R4VBWJ3JEytQAyDNQq6A+UHYhjMw3xsHbUAMYzsjYQpCASZzEAclewNYPBRHtyRWvyWuoDYHVdvAIPd3jNQECzs1j/12YanuNzixVcdep1Gjf6VfgBtYeJU341mcgAAAABJRU5ErkJggg==",
     "wiki_name": "Rock (Castle Wars)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_(Castle_Wars)",
     "equipment": null,

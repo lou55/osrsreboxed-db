@@ -1,7 +1,7 @@
 {
     "id": 19323,
     "name": "Restore potion(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "3 doses of restore potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xt3V60tTcRgH8P16E4iW5i7oLrmmq83ALbapmyvLS17SWlLpapUt12S4C3PuEgRBURBBIEIgBSGJEHgpCIKIXkQQQf1J387v187x7Djqzdk54APfd7Lz4Xme36NGsz+KoDKqFsHcjA1Xxi0Y6mvBqZNNaqMI1pf7sPYiwJK568D1kFVNFBEwr571IDl7HNOTR9UC/d0ZHrT6tBuJm3Y2PhX2iWBicgqh0DWhOyuPvIjf6MDlETN8vgD8gbNKogjC4Vt7cmFiCkPDEzjTPwyXy6ssaC4WZ4nF5oWMjYcwMDgGr9ePDrtDWVA6kxWSTKaRSCQxMnoRvf5+ODu7YDTyu6RYEbxd38DOzntsbW1jc3Objcvt9qmx1LQIotF7yOcLKJXus9BxeTy9amBoESwspFAsFsspYXBoHN3dQfVA+UKxIudHJoUdUhhFcCcaQzabw+JiDrncEhsdvU3nBkbVGBtBPJ5AKpURXlokMovpmQhDBU8PKA/63eMS8stpxXenBZ9PmPGhw4Rlix5pvWL/+Ql+ONsqQV3tDPSlDFqxGJA1KAIi+GQ3V2B4EEXyoJdtBhRamjGva6w1iuCnpDsM5HYw0FeHBR/tJqxyoAetWuQNR2oJIuyDUgwPolAe9NragocciI4tqj1UCxTBTruRLa8Uw+LrrAC94UBPTLpajq3cnaCnejgQxX7j/obu2NqxVjw369nY6GuL6w7LiSJsUVl3pBA+dGwi0DoHok9fPLb6Axq5UP/pThXQhq2VPX3x2MLNDfKB/tmdcvhbRI/jO5uRvTTx2G5zXbrUWC8fSgqQRgza5B4AXWw6tsdGLevQYEOdXBhahC0ui/h1iUHlW8QfR9ohukN0f7x1B+XE8EV/kLBO0I9XACUgeqnpqK428XsjO0Zc/AfILkx0i+gyLxmalYBUq13c3uzD+gNcZJrx4XozIAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Restore potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Restore_potion#3_dose",
     "equipment": null,

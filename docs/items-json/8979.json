@@ -1,7 +1,7 @@
 {
     "id": 8979,
     "name": "Bridge section",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": false,
     "examine": "Caution; not for use over troubled water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfUlEQVR4Xu2UX0vDMBTFF2SUluEQy0Y7VlnHLLLhpsw/AycOnEwGCoIg+CAIfv+PcN1NuTVNUpGlnS85kIc2zT2/nHtprWZlZWVlVaYY6NfOlDdeTjxYnLowH7pwnbhwMXBgEju7gEoBRHN8fpx6GZQINIpKg5Kj/z2J94de4V7SqZtCFRu/LiJtCl9P/RyUvG8IxbgxFpeBsLgIRQnEQR0+1zG83R8pFyEg/MYYSiwu3lYHFfl78LGKc+fklPCbLaEYL/5y21WK023F9shQeE6XrmFSjM8FQelaICdIUHhuPQurhZJbh0WfbzqKKUFh61ZXQSGQMVRR62QgcV7wIndn7dzesLcPcdiA0E//YbLbH8WUuSBjTEkHRCkspwHMxy04Pz7gMFHbg1bTgYa79YCTGJ8L2ZxMxXfjfhOSbmqOCV2eHGbvUghaxmKKeda6TQqisZpEaRAkBoPA5Ws28rMW0DzIQBVByPoxQSA0Rhg1hUohivTvAFZWVkb6Bv6RnegUZ/jcAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiklEQVR4Xu2U3UrDQBCFu0gJCcUihpakNLYpNUiLjVJ/ClYsWKkUFARB8EIQfP9HmDobNt1Mkl5kk4qwB/Yi2eycb88MqdW0tLS0tMoUg+y1NyWNl6EFi3MT5iMTbgMTroYGhL6xD6gIQDbH5+epFUPJQGOvNCga/e4kPp/6uXtBp64KlW/8vvAyU/h5GSSg6L4iFOPGWJwCYXEZSiTgO3X4Xvvw8XiSuogAwm+UoeTi8m2zoDz7AL5WfuIcTQm/KQjFePG3+26quLit3B4Kheey0lVMivG5EFBZLaAJCig8t5651ULR1mHR17tOylRAYetWN04ukDJUXusokDwveJGHi3Zib9Q/BN9tgGtH/7Cw1ysGRedCGGNKWUAiheXUgfmkBZenRxzGa1vQahrQMKMBLwiEYnwuqLkwld9NBk0IupE5JnR9dhy/i9oULYRRAEKxlHncut8UZGOaBIUoBWbomHzNxnbcAjEPFKgiCKqtCQKhMcLQFCqGSGprsBugUog8/TmAltZ/0gagVcSdjKkL2gAAAABJRU5ErkJggg==",
     "wiki_name": "Bridge section",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bridge_section",
     "equipment": null,

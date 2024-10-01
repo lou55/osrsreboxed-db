@@ -1,7 +1,7 @@
 {
     "id": 4201,
     "name": "Conductor",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-31",
     "duplicate": false,
     "examine": "A silver lightning conductor.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAoklEQVR4Xu3VsQqAMAxFUTuJoziIs4ODoOAuDoL//0eR11KDhToINhVyIUsWDwVJUWia9iZD4SZB+Kif+66symD/eYa2Y7vGQ/qhl8AgQ9My2Wm71kIEMegOwghikAPVTU3jPF4oURAwHoQRfCHG4JWEQYzxf5YgKMTwnidZMYxIiollaN3X/DAZgBQTSzGxFPOUO46ZYBBf60xAKPml1v7dCd/enSgXb25SAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAxklEQVR4Xu3VsQqDMBCAYTNJR+kg3QSHDoIt3cWh0Pd/o5RLuMQchkIhdzfcDzcYUvwQa7rOsqx/cp6uMAQ3xSnX+ktP1pvn/P7Z0yBkvs8J85ymMPSXjXJ+fa1hxtsYIIIYqATBCGKgCBqug18eS0IhiO5myAUMgmCOT4jublzGwFMSBmUM/rMEQSUmv7z5e8T4QtcwMbxWgWFOGWZ7b/owRxDdxdQ5RghkmFqGqaUKA8XDUQkGyqe18LfmGPtJ/TtVGIv0BWi33avTbydgAAAAAElFTkSuQmCC",
     "wiki_name": "Conductor",
     "wiki_url": "https://oldschool.runescape.wiki/w/Conductor",
     "equipment": null,

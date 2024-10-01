@@ -1,7 +1,7 @@
 {
     "id": 9308,
     "name": "Blurite bolts (p)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Blurite crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwUlEQVR4Xu2VOUsDQRTHM0Uav4EIdhZWsRAPMEZJomiCBnObrGgMIngQ72gkIuimEATZykIUFEEEEUEEGxE8UPxOT8fJzs6b2M7GYn8wkPfY8H783x4ul4NyCMidOkKgPd4MWKquggS8vTFBqK6CBDStDG53Q1WAwNy8USPoGW2SBJVAYKt0CanUBpfZ128gk91GMr7ZFmgNNtojtLZ+CtFogQsVNy8EQXZNLqdLiSmFQFd3kQvF4ndIsLxzJSWmFAL5mXfo8e5ygUTyAdW1iSmFQGTsmg9fWf2C8Mi5MFxOTCkECkuf4OvTudDE5CsEgkdIKJ64F1aqFDZMHo4HE2F9yiHQ7z/g6dC0QuEzJJhMP9onk848oeFZ7QU6OpdRz1qncggEBww0nN68Yo2FlUJgavoNDV9Y/Ph58e2hnrVOpbD7ZXDoGA0fzz6jmj5ttshUKqXf42nLIwF5fbhWgiUzHDqBVDJSHcj6liB7c9smQ38bhs5reuinQhTE61QGGxaN3YI/cIiEaGJijdepFPZo00+DmBhNxKxpUmZf/rciWFLWYT1TSEzPRqm/YOuU05OvshnrqfsnQibiOh0cHDjfyxl/ZNVQPRMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3ElEQVR4Xu2Vy0tCURDGPQs3/QcRhJsWrXQRPSCzUItSSvKdGmUSQQ/sbRlGUNdFEISrFlFQBBFEBBG0iaAHRf/T1Hg7xzNXWp5rkB8M3hmE78c359xrsdSlXAyMkxqKQVu4GShUTQEZOHtCZSCHzVb+rSEgg1SqAFZrww8Ag9m5UhWgfaTJAKhEDDbzFxCLrQuYPe0aEsktAuOaaYFWb6M0UyYGq2snEAxmBVBu41wAcqB0WjMkplQMOrtyAigUviWAhe1LkphiIAaZ6Tfodu4IgEj0nvTViSkVg8DolTBfXvkE//CZZE4TUwzEILv4Aa5eTQCNT7yAx3tIgMKRO7FS5UBoZjTnPZ/x9Zlyfvrc+yIdTMvnPyWA0fiDeTDxxCMxT6aeob1jicz4OhXDoBh4+0vEHA+v3MvAioEYTE69EvP5hffvF98umfF1KofBGhg8IuZjySfS420zIR0GxWK+XHZHhgAY10d7JarADPmOIRYNlA35nANi4ZtbcToVGHwulTTRY+GnQgak61Qm3SwYugG354AAYWJyT9epVPrVxk+DnBgmwntMis9NAELpSfHih5gDyenp/zFB/LDSQ6uv05ieSSn9psqt+yNAenryOmsOxPWnYOr6t/oCNCDOPT8dRGoAAAAASUVORK5CYII=",
     "wiki_name": "Blurite bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blurite_bolts#Unpoisoned",
     "equipment": null,

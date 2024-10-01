@@ -1,7 +1,7 @@
 {
     "id": 25209,
     "name": "Barricade",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": false,
     "examine": "Handy for hindering the enemy team's movement.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xu2UW0sbURSFPb+hpUJFihGFcSSXwSQDkSRFJRUhaG1ssBpiwEuVUBBKiw99798olD4UCgXxoS/9aatZe9wzJA3m4mT0YRZskjmzz9nfXufMmZqKNZYMvHgUMnhXtVGvrtxCPTicwdFuEqf1NFpvC6htOaiUlu4BFUpDBu1DB5dHObSbZZwdFLFdTo2wcOBss+ZKDD+3r4zAfD5x8eWigKuLVzh+vYrahjPEwgbnjZI0otHYWR5i3kAZgTl7U8THxgY+7K/hfK+Ew628333vDI4xnw0wPr2viNP9c8eSV4BxebDuQ9GtrP2ip5CXy7yrVgemWRGHQwaivEKEYLF2vew/B4UCGAYdJfiEgKgAii4plG4d/3OM7wijz8OdubFlBEih6EBi5ilW0/M+DN3RLZ4wjKrzGVddgSIEz5ECEUaBd9cyUcCoDPY3c2htF/AtbQkQ3SEIYSOGoTp3VGIWX60EfmeTAkQ4XgejXZ6hyDvE1x2Qv24GPzI2fq0si2OEseamowQyUpBb8tOxcZNL4U8+hc1nT+Am5yR4puz551FAGaQWZ2R7GEVnQeJ7ZqlrPCIoA8ea7QJ5mV2U4hzne/3aNCYIZaSwwhCkF6ZfnkLRvRChjN+xgjD43A0T5BNKXQwZyvjF+buetwbAqLwm1E2FunvOQBkBGB1G5V0N/8e91LtYaAvHihUr1qPXP0jothkH/UTKAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMUlEQVR4Xu2W3WoTURSFe55BUbAU2xQL0yn5GZpkICWJtCWWQqjWaKhtSANqbQlCQZReeO9rCOKFIAjihTc+2jJrT/fMZNQmMTPRi1mwSObMPmd/Z58fZm4u1V/JwPN/IYMnTRvt5vol1D+HMzjez+J5O4/e4wpauw4atdUpoGKZkEH/yMH5cQn9bh0nh1Xs1XMTDBxUtttyxeP3/a2MwLx55uLtWQUXZ/fw9MEGWtvOGAMbnHZqMhF15/6a9MsvLo7oe6WMwJw8rOJVZxsvDzZx+qiGo92yP/toD7YxnhOgX79oSKUVZkogyktAnx9u+VCsVtG+HYHyYhl30RvAdBtS4TBQEDuVvESEYLJ+u+4/B4kCGJoVJXhCQFQAxSoplC4d/7ON7wijz7rnYlquqIwAKRQrkJm/jo38sg/D6ugSJwyjGhzjpitQhOA+UiDCKPD+ZmEWMCqDg50SensVvM9bAsTqEISwM4ahBndUZgHvrAy+FLMCRDheB3p5zhSG/joA+eEW8LFg4/P6mlSMMNbSzSRO1J9kJCGX5JNj41sph+/lHHZuXIObXRJzT9nLty5PX6IyyK3My/LQVeeO+ENhdah9RlAGjrUwBHK3uCLJ2c73etrUCUIZSawwBInC6E0djlMoVi9GKOPPWEFoPodhgg3sQWkVY4YyfnL+bpWtETBBv3A1FUr7DMeOLSMAk8Oogo+zsK/uM1K/DjjJwBoTdTRuIkUHi23gVKlSpRrWTwbF8OCobytxAAAAAElFTkSuQmCC",
     "wiki_name": "Barricade (Soul Wars) (Red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barricade_(Soul_Wars)#Red",
     "equipment": null,

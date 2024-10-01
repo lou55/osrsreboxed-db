@@ -1,7 +1,7 @@
 {
     "id": 12838,
     "name": "Will and testament",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-23",
     "duplicate": false,
     "examine": "Someone's last will and testament.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4XuWX30uTcRTG90Veuu6yuhgEXQWJXhSBkjAEg4h+MGyltMSGWjaGiJg1RIZilplGVjKRsVRkbJgtGRNzZoqYiQaF5f/yxPMd3/14U3LbO1f0wAFljvez85xznmky/bsSiNdfIYHXr/rg8bQVGkp1RWB09BlGRp6gtbWpUFACtywabOUaThwxwe9/gbGxIXi9T+Fw1BYCSsB14RAaqzQEAmOYnPRi/M1L+HzPMTzci2vVlwoDxZqeHkcw6MPU1Cgmxkdktx71PkRVVUXCUv078yiBcDiAmbcTCIX8ad160OFEc3NdioX7qZwlsLQ0h8XFKGKxCObmZiQg4QjGmRoY6JId4xa63S60td1FS0sDnM563Gmyo77+Buz2algs5cZBcXYIQPtmZ4OYnw9jeXkeCx/eIxIJSUv5Os9DZ2cL7rffkxvpcjlkFxsbbqK05JRxQFx5VZwhAoTfTcmOsXuEW12NSWv5N11drb91y2w+ZpR16UC7wbFrtJT2EpR3ixayW5w1WlZxsgjF5iIcPWzKFWpvoN3gCEZrebe6u9tltwhkPatJKN61AwFKLVrJjeTPPT0d0rLacxqunNFyhaEyB2Jx2DnoPKTJ2ckYRv+m7GBU8UTwZmUIkqTn2g4OehK/6x+QSWXZFSG9rSyOD5sKUB47+q5/yH4rQ4hUCRmg3ACVVTyCXNv+/k551PQP+1PlAEPFU/12pSZXVZ/sj/vc8vwzSPUP3qtyBKLiPutDNDXZGQMqSPUA+jIAiEqGKHOKl5dwCowWcn31QUpQzhqzqq7Ohpqaq7BaLxoBJbC1tY6NjVV8WV/B2tpHrKwsJBI+Gp2Wd4WxoIKUgLtBlZWdNgKISl3T9FKg658/SVgWwTj4KkQVVDJE86o42M7Od/z88Q3b219l9zj8qd+D+HUj/cPkXcmHbW6uSRt5txTUddtlnC8pQulxQ1I9UwlpHc/F0FC3hGKH+N8KQ9SAVM9GQm4mh5w3K92uA4dREnILGTsFhNCroB35j/QLjPwb/iMDG+kAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4XtWX3UtUURTF5yCXnnusHpSgpyDThyJQEkQwiOgDMUvJxEQtk0FEzBIRUcwy08hKFBFTEVHMJhHF1EwRNdGgsPxfVqw9nZk7p5FmvNfGNmxQZuT+XGvvvWY8nv+3FPx9IErhzesWNDRUxRpKq6LQ0/McXV1PUVlZGisohdvpFnJSLZw44kF//0v09nagu/sZioryYgGl4L14CCWZFkZGejE01I2Bt6/Q1/cCnZ3NuJ59OTZQ7PHxAYyO9mF4uAeDA12i1uPmR8jMTAtYav7lPpaCzzeCiXeDGBvrD1HrYU05ysoKbBZG0o5LYXFxBgsL05ifn8LMzIQAEo5gnKm2tnpRjFtYW+tFVdU9VFQUo7y8EHdL81FYeBP5+dlIT091D4qzQwDaNzk5itlZH5aWZjH38QOmpsbEUr7O81BXV4EH1fdlI73eIlGxpPgWkpNOCdDphASnUEpWXjdniAC+98OiGNUj3MrKvFjL99TXV/6hVnz8MbesCwUKB0fVaCntJSjvFi2kWpw1WpZ2Mg6J8XE4etjjFGp3oHBwBKO1vFuNjdWiFoGyzlkCxbvm0LrIgOxNK7mR/LmpqUYsyztv4epZKwDzT4HYHHYOOg9pcHaihjGHbm8wunkieLPsIBHABOm5tu3tDYHfzQdE03tURYm3GYn+YdMBymNH382HRNqmIhHCsJQEKDdAZxWPINe2tbVOjpr5sL91lIqY5U/1OxmWrKqZ7E9aauX8M0jNB+/WGsh8UhTl99kMUXuyMwZ0kJoAZrsAxAqGKHOKl5dwGowWcn3NICUoZ41ZVVCQg9zca8jKuvR7mB2VwtbWOjY2VvBlfRmrq5+wvDwXSPjp6XG5K4wFHaQEDAeVknLGPZV2aw26vvZZYNkE4+DrENVQOkRdAPJ4zFUNbosfbGfnO37++Ibt7a+iHoff/jmIHzdC/5l9LDsYe3NzVWzk3dJQN3Ku4EJSHJKPu5LqkZVdNVrHc9HR0ShQVIjfVhiiLqT6XkrJZnLIebNC7XJ0IJ2Uki1k7NghYgSjK6aKhK8DBeNW/QJwoVbFTOdhkQAAAABJRU5ErkJggg==",
     "wiki_name": "Will and testament",
     "wiki_url": "https://oldschool.runescape.wiki/w/Will_and_testament",
     "equipment": null,

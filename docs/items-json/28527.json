@@ -1,7 +1,7 @@
 {
     "id": 28527,
     "name": "Sigil of the ninja",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-08-23",
     "duplicate": true,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xu3W60tUQRjHcZfM8kIS3tAtJWWTTJSNzCQzQeyVUFFUVBQVFUUEURQiRReRbghiFyoUDDGRMoIoKYp635/Q/zLxneU5PWd2lD27a/SigR/n7Dlzdj87z8zsFhT8+y1m/PHdX/YWMw+H9pv7g/tsRq7vNcNX99gIYnrspJkaPWEmHx33oNwvkTM8BRIUIImLmXhwzDwbORL6YF5zz00YFQkZM6M3DqShOAKRCOjJ8GEzduug7cvRB6K/Rn+dGzKfZ65khxIQ5zI6Anpx76gFSd/FQDz3ZXbQfJ+/bX7M37WgSBjeVL61gPhQH2j8zqEAxLkPNDN+KgTiPENQLFQGPkgmN69dkC4DWQw09/RM/kAySlwTkAAWakpsGhvrTW1tTQinQW+fnw1AJBJI5oUL4psD0hAdQNXVlaa8fI0pKysJod69PBcGvb6WO4jr3O/r22l+xcvSQGR9vM4Lej9xPr8gQikF1NOz3aLIz7pUEokNFiSjVFy8yvanxB+nLgagb29uZoqhhUEaxb3d/bu8oPb2zaa5uck0NMRNRcVaO0Ia9OnVpWxBtD8rxgV1dLSbLck2C+ru3mZBXAPU0rIxmNwuaGH6crag1B7ECPlAnZ1Jm2SyKUAQygWGEaJkGsRC0KAIm2JqyftARPadtrZGG0CtrZssJpGIByi3ZHkFCYpwn1IR5pFgQFA+wutlA+lRkvlDubq6tpre3h32HBQlo1SywlwQERC7dIYYWmqFuSCuFxauMEVFK22ZBgb67SjJBAeho0E8w7O8h4xQViBBaUxp6WpTVVkejAQlAsSqIlznqEE8o1E5gQTjgsi6eFWwugRC2eyxvibox3MuKAIqBdJlkzkgbwxKw5aKPKNB7EER9qEwyC2bjJSOAHV8EMIcigxilbkgmdjZ5sPkhWCVZQ1yVxvX+Qngnx8bpPybJGyaslfxnPRl/5l9fDoEYg+KvA/5yqZBnC8FAix98wLylU2DuKf/lmgQ/QAxOnkA0dLngC8ao+OC+C+tQZIIoExbOlKi589fBC3V0pHp+d9ya78BZQaFP0ES5CgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xs3W/UtTURgH8I3MUkcjfBm6UpssyWRrkZlkJoj9JFQUFRVFRUURQRSFSNGLSG8IYi9UKBhiImUEUVIU9Xt/Qv/LE99zee6e++xs7G7X8MCX3d17rvez85xzvKHQym9hssd2fdlbmJ6MHKJHwwdNxm4doNEb+00YMTtxhmbGT9P001MWlP4RZcMdEKMA4mjM1OOT9HLsuOfB+I5rOl6UL2SYxm8fzkHhExAOg56PHqOJu0dMX3zaQOgv0T8WRujb3PXSUAzCMY8Og14/PGFA3DcfCPd9nx+mX4v36PfiAwPCM7a1tprop6vmDDv/agbhoTbQ5P2jLgjHNtDc5FkPCMcM0k9XLewpAx7EkxvfNUiWAckHWnhxPjgQjxLOMYgBS7Fqk0SimRobYx6cBH14dcEFIb5APC80CL8cIAmRAaihoY6i0XUUiVR7UB/fXPSC3t0sH4TzuD4wsIf+xiM5IGRjvMkK+jR1KVgQglIyqK9vl0Ehf5qcJJObDIhHqapqjemPEn+ZueKCfr6/42J8gyQK1/YN7rWC0umt1N7eRi0tcaqtXW9GSIK+vr1qBemn52nZFaNBXV1p2p5JGVBv704DwjmAOjo2u5Nbg5Zmr5UKcvYgjJAN1N2dMclk2lwEgnIBgxFCySQIC0GC5Kaon66as+RtIIT3nVQqYQJQZ+cWg0km4y5KlyxQEKMQXEepEMwjxgCB8iH4vmwgOUo8f1Cunp4d1N+/2xwDhZKhVLzCNAhhEHZpxhQFwgrTIJyvqFhFlZWrTZmGhgbNKPEEB0JGgnAP7sXf4BEqcnTQsiBGSUxNzVqqr4u6I4ESAYRVheA8PiUI90hUWSDGaBCyIV7vri6GoGzmsznm9sN9GsQo/XRLc0CybDwH+A8DJWGFwvdIEPYgH/uQF6TLxiMlw0AZGwTBHPINwirTIJ7Ypebz9GV3lZUM0qsN5/EvAG9+2CD5bRLBpsl7Fe7jvth/5p+d84CwB/neh2xlkyAcFwIBzH0DAdnKJkG4Jl9LJAj9AMLoBABCy50DtkiMjAbhXVqCOD5AoRBv64WigTJy/gQCKrZpZDFYTrbvf2oaaYu+Z0W3f68Kz8taLF0DAAAAAElFTkSuQmCC",
     "wiki_name": "Sigil of the ninja (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_ninja#Un-attuned",
     "equipment": null,

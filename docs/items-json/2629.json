@@ -1,7 +1,7 @@
 {
     "id": 2629,
     "name": "Rune kiteshield (t)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": false,
     "examine": "Rune kiteshield with trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvUlEQVR4Xu2X7UtTYRjGff6OiAiZoPtw2Jg2aKxGs8lpoLFWSzMzMdNexERFe0XEEKkQe0MqCCIiiAiiouhvu+p6Trd7Ojtnp52daR+84P422O+57uu+762tbU+RSsGp/0IKvcNzOHlt7Q/UroIpnBi/i1hPVlf/5ArO3Xq5m2COO4TpSOd0dWbyqCw8wcT6x50GUzh2dnrbHROIdXp2A2Or7zD//MdOgXm7w+rKFnTFj9q4uPIWVze+YPbpdwMscjiFQ/awrzsCdGrmIYaWtjC6/Abj999j8sEnXN/86nItEjh/d0ygM3ObOuRJu4xUsaKLYMzX1KPPmHn8DYtbTcPVd0eAStPrOtwj917/BcTq6R/URcfYToLRtZsvfoaBqnXHC0jaRRg/ILMIRPcaBPJ2xw3EJWm2KwiIgWcLG4Shqu64gUwoaVeirxQIxJBXJ7AhKaSOV5AfuoHCyAL6RpdqoAgzcGVV7yC2KwiI+alOXENS6EjlcKQ8pZchXSIQzwbLBKI7bJfVO+AJZLrDMIfIDaWQzJdxwOrGwUQa7amMdocwvF9mMcyDi88CgdgqViiYWCKL/fFkDZC4ImNOGGaH7WKgz9955QnEAIfMDaWwr9OqC0QY5sYNwx3ELc3zIUDcPWwVPxcCSCF+2A4EojPMDb+ErZJ2CQyPLLNyae2DDnLI3FAK7VZG58cPSHaO5MYEklYJjJyLkDDU73bFLHSlC0gXL3gCmbnxAzLHnO1tAohyXErkSjVAnCo/d9xAcreahBEp7RLPhgnEdvnBeAHxAREBUUq7lC1d1kD22O3tjRwEJL+FIoShnImjS9zWfC2zUw/GBOIDIgainI1Nl+Qfhuwc2Tuye9wj3wIYkdITxxcXJ5Z1jmQpEs4LirevhUCUA0Wn5NgSkK7J1mbY6RqBWgwj4pf8a+2p9foFYObCiOKdBVcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzUlEQVR4Xu2X/UtTYRTHff6OiAyZoPvhtrFs0FiNZpPbQGOtlmZmYqa9iImJ9oqIIVIh9oZUEEREEBFERdHfdup7bkdOd/fuurvrNPDA+W0vn/s53+c8W0vLbkVahpzeEWWoe3CGTl5b/gu1rWCGTozeo1hXlrt3fJHO3X61nWCOHcC0p3PcHZk8VWaf0tjKp2aDGTp2dnLDjgZCn55epZGl93Tzxc9mgXnbQXdmC9zxozZdXHxHV1e/0vSzHwoscjhDh+xBXzsCdGrqEQ3Mr9PwwlsaffCBxh9+putr31zWIoHzt6OBzsyscciTdplSxQo3wJCvicdfaOrJd5pbbxiuth0BKk2ucLiH7r/5Bwjd1dvPDWMYJ8Bg7dbLX2Ggqu14Acm4AOMHpBtAsIfPP9DaulkobztuICxJPa4gIAQeIxSYuoDEjhtIQ8m4Ej2lQCCEXE5g3TCp4xXKD9ygwtAs9QzPV0EBpu/KEu8gjCsICPmRE1c3THsqR0fKE7wMYQlAuDbQGgh2MC6ru88TSNtBmEPkBmUomS/TPusg7U+kqS2VYTuAwf2lG2Hun3seCIRRoUPZiSWytDeerAISK3LMAYPsYFwI9Pm7rz2BEOCQuUEZ2tNh1QQCDHLjhsEOwpbG9SFA2D0YFV4XalTxw3YgEMwgN/gSjErGJTC4ZJGVS8sfOcg6N3UDtVkZzo8fkOwcyY0GklEJjFwXIWFQf8YVs6gzXaB08YInkM6NH5A+5hhviFHpciwlcqUqIJwqPztuILm3GrCjy7AlXBsaCOPyg/ECwgM0aEeXYUvZ0mUGskfubGzkICD5LRSRHSnnxMEStjWeFtmpBaOB8AAR2pFyNjYsyT8M2Tmyd2T3uI98xHZ0GT5xeOLi2ALnSJYi4LygcPdtgR1dDhRMyWULQFiTrY2wwxqAttCOLv07uHY3AcYp+aLNtPu9/339Bsbe/r4T3oeqAAAAAElFTkSuQmCC",
     "wiki_name": "Rune kiteshield (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_kiteshield_(t)",
     "equipment": {

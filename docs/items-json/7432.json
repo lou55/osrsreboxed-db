@@ -1,7 +1,7 @@
 {
     "id": 7432,
     "name": "Fungicide",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-07",
     "duplicate": false,
     "examine": "Does exactly what it says on the tin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1UlEQVR4Xu2V3yuDURjHLbl2486FKxeklFKKLCFCfrS1iRnbmh/Lz2EYpvkxhsbM0LJlLKQkJUT8X3Pz8H103hq5PUfx1Kf3Pefm/fR9nnPerKz/+hulo0yU1adAXU0RVVcVUnlZAZWW5KuS01GfpYKxWyvJaatiSnOyadBRTa5+PSNJSkfukTpmeryegYjAO91IM+4G3pcmtOprYwL+9gzE/vJCCy15m2lxpkmeVGTbrBHeNGmE1o0UXOlgQUkyKB0lY72UOLJSPGrROAx3UXSnkyXRUqlCroM7urkYoKszJ10mHZSK2zTJrYCBanvG5AuNxh5oMv5EcyfP/D6wd0P2zXMyzYbVCE0cP5In8Uzzpy8sNrR/S47tSzJ7I79DaPjonvp3r9UKoV2+1CuLibYpaRnaky5u/SYEUaVCbxWd9FZv5yfW6Ty9GiG0Jl3YlCn0sf59QrmVaoScoSueF5wuMUM4ZcqGGhcgPo5B/nrslQjZNlKcEiSQDoSQGPaUCFnXEnwr47ThPgJKhbr9MU4JLUJKQPw6jJ6QfKEu36GWEpIBmCllQvhfWVbi2nALsDZMbckXQgpIqTeQ5LkRKBJCZaYkwFx1uIOyZUThoz/xX3+w3gHpQUTjtoaxuQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9ElEQVR4Xu2Xy0sbURTGHYprN+66qBsXiqAIhYCiFBVFiw8MKjaNTUJ8UbXGZ9M2xVd8kja+CSYYDSqCSEFUFPt/xc1XvyN3JNGlnSvogR/JvQzMj++cO8NkZLzU8ygDqWirW4HKd3koK83F2+I3KCx4rUvOwCeHTXA7S+B1lQqFma/Q7SlDb2e5YJGUAV9fpTDypUqgiMI/UoMxX7Xs89qinJz/LWVgOtAgBCcaU1D7k9/f46e/Dj/Gaq1LaWWp1SS80GISmrVjfqpJBFVClqQUj3QgtulEdM1hshFux9qvNpFkSy1qGctA7/oJjve7cLjrxUHcg0TUZUouBptR8XHAeqH+yBmGohf4un0p/7uWj+Fe2EPLeFiP0ODWOUZjl/i2cyViPat/4Fk6QKt/5WkIfd48RefvI71CbFcg8VfEVNu0tIztSebX3xOiqFaha1sbrqvc8st1MrtcjxBbk8ytTRW6WT89oawSPULe0KHMC0+XmiGeMm1DzQcgb85BTj/2WoRccwlJiRJMh0JMjHtahJwzMXkq87TxeUS0Cn2YiEhKbBFTIurVYR8NWS/UHtgwU2IyhDOlTYjvK8dU1BxuBdfNw4vWCzEFptQRjMvcKDQJsVJTUnCumnzzpoyFQqz0j8Q7NMjclrrxQ6Rf+1KPXf8A3OJyw5qv6d0AAAAASUVORK5CYII=",
     "wiki_name": "Fungicide",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fungicide",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 26142,
     "name": "Sigil of remote storage",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": true,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu3W7UtTURwHcEdmOUcjfMJWjiYmmWwsMpGMBKlerigqLIqKiiKCKAqRogeRnhDEHqhQMIaZlBH0IEVP7/ufTn3P7Xv73XPPxu7djF504Mvuwzm7n52n3aqqf79ElD22+4teIuru8B51e2i3zujlXWrkYk6HiPz4UTU9dkRN3TtsQZk/omy4AyIKIMbETN45pB6NDnoejHPcM+NFBUJG1NiVvT4UPgFhCHowckCNX9un6+LTBkJ9if48N6w+zlwIhyIIx+wdgp7cOqhBrFsIhHafZofUt/nr6vv8TQ0KhMGX8lcThIfaQBM39rsgHNtAMxPHPCAclwiKeIYBD+LkxrkEySFgCoHmHp6oHIi9hGsEoV50Ie8mlWpVLS3NHpwEvXp80gUhgUCcFyYIvxwgExP9+sLJ7/P6+pUqFot6UK+fnvKCnl8qH4TruB/78a5gmpoarKA3k6crC0IwlMVAGDZg4vEVGlRbu0zXxxC/nz7rgr68vFoqBsULkijc27F9my8EdXWtV8lkwgr68OxcWBDKnxVjgrq7Mzr9/Vt8QQ8BtCaxygdayJ8PC3L2IPSQDdTTk9XJZtvUxmxa90pn5zrV0dHmgrDaJAgLQYICbIrOkreBEExO1EmnUzoEAdPenviVtRqFib1oIKIQ3O/r26wzMLBVZTIbNAK9wus45yqrOEj2EucPhqu3d5MG4Zg9hHmDyGVPEEIQdukSMSjOCjNBuF5dvUTV1CzVvZLL7dSTmBMcCBkJQhu0xXewh0KBiJKYurrlqrEhrocID0aPYIgwiRGc41OC0EaiygIRY4KQ1YlGvboAIoQrLNna7NZDOxMUAOWA5LBxDvCLgZKwYmEbCcIeFGAf8oLMYWNPyRAoY4MgmEOBQVhlJogTO2zeTp1xV1lokLnacB1/AXjzwwbJt0kEmyb3KrRjXew/s/ePe0DYgwLvQ7ZhkyAcFwMBzLoVAdmGTYJwT76WSBDqAYTeqQAIxT8HbJEYGROEd2kJYgKASi1+JCPnz18EFSt+pD//S3nlJ7STlPX7+0HvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xs3W+0uTURwG8I3MUkcS3rCVs4lJJq5FJpKRINWPFkVGRVFRUUQQRSFSdBHphiB2oULBEDMpI+giRbff+59OPWc9r9/3u7Oxd5vhgYe9l3M8n52bC4WWfgkbd1zvF72EzYPB/ebewD6b4Wt7zdCVPhsipkZPmMmR42bi4TEHSn+JguEpEFEAMRozfv+oeTp82Ncx7vFOx48KhAybkesH0lD4BIQh6PHQITN686Cti08XCPUl+tvsoPkyfTk/FEG45ugQ9PzuEQti3UwgtPs6M2B+zt0yv+buWBD62NzYaKN7VyU17PzWBKFTF2jsdr8HwrULND120gfCNUG6d1XCvmlAR1zcuJcgOQVMJtDsk9PFA3GU8Iwg1Cufn/ISjzeY+vo6H06C3j4744GQQCCuCw3CNwdIY8p/vE7l331V1WoTiZT7UO9enPWDXl0tHITneB/5/TFjamurnaD34+eKC0IwldlAmDZgKitXWVBZ2QpbH1P8afKCB/r+5oaHCQySKLzbvWtnWghqa9toYrGoE/T55UUnSPeeoSzsGA3q6EjY9PRsTwtGCKB10TVpoPmpS/mCUmcQRsgF6uxM2iSTTWZLst2OSmvrBtPS0uSBsNskCBtBguShqHtXJbXlXSAEixN12tvjNgQB09wc/Zv1FoWFvWggohC87+7eZtPbu8MkEpssAqPC57jnLis6SI4S1w+mq6trqwXhmiOEdYPIbU8QQhBOaWJyAmGHaRCel5QsM6Wly+2o9PXtsYuYCxwIGQlCG7TF3+AI5Tg6KAsgoiSmomKlqamutFOEjjEimCIsYgT3+JQgtJGogkDEaBCyNlpjdxdAhHCHxRrqvHpop0FE6d4dJQWS08Y1wD8MlIRlC9tIEM6gAOeQH6SnjSMlQ6CMC4JgDQUGYZdpEBd2vvkwcd7bZXmD9G7Dc/wLwC8/HJD8NYng0ORZhXasi/Nn5tEpHwhnUOBzyDVtEoTrbCCAWbcoINe0SRDeyZ8lEoR6AGF0igBCSV8DrkiMjAbht7QEMQFAoRCP9WzRQBm5fooCyrVoZC5YZqHufyoa6Ypus6TLH/6X34FL7RolAAAAAElFTkSuQmCC",
     "wiki_name": "Sigil of remote storage (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_remote_storage#Un-attuned",
     "equipment": null,

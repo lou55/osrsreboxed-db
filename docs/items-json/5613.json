@@ -1,7 +1,7 @@
 {
     "id": 5613,
     "name": "Initiate cuisse",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-27",
     "duplicate": true,
     "examine": "An initiate Temple Knight's leg armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQ0lEQVR4Xu3WW08TQRQHcBrf/ShoDBBMRB4wEiThItdwkzuICCKXplYIlwoKQoSKRps2gLUQghASo0aj0e/jdzjmfzannp2O0G2L8cFJTjrdne7+ds7M2ebl/fvNR/awnT/z5qOVYB09CdRyLPprKDRRzSGI+HoXba/dotjTDgvKfIis4Q5IUABJmJjochu9XGxx3Rjfcc4MN8oT0kdr0/UpKHwCIiGgzVAzrc828lh82kAYr9Ff94P0OTGeGUpA6MvsCOj141YGydg/gfC7L3sB+n44Rz8OFxjkCYOLylMLCDc1QfqpEeH5JisoEe52gdBPE+RzpQEIWdz4rkEYOz81SXe6OqmuspIuFxTwMRto/0Vf7kAySzhmgpaCQbrb000NVVV0paiIjyGNJujdq/4kCOEJJOvCBOHJBYRxsY112ngUogcjI9RWX0dXi4t5pvicATqKDLhBu1PZg3AcIASPW1mh5elpDkkdUDbQcfR2bkEIpFKDkK7xwUHqbGqisYF+qq2oSK4jjcGMftgeToK+Hcyki0FzgzQKFzdBk0NDvH4wOzeulVlnCKCPOyOZgtB+b+GTQEgVQID0trZSWUkJH8dMmqBP8bFMQc62xQylA0KqMCtIm+wyE4TxGuShKDoXs4EQNlB/eztdys+njsYGKrx4IQWE2ckpSFAI3AAVV0A/t8/TaF8vVZeX02IgwFu/qvAcnzsTkJ4lfGoQxmE8FjZqT8jv512mMQLae96TBKFKp4lBc3aYDSSvAz1Dx4kEQ66XliZhJghj8drQM5QRyFxH8jrQoKO3cS6IqD1YT801Na46JOnCayNnIEHhOG6gQYdvdmh2wvlPszY3Sy03a10zJCBUaQ3ygHJAtrTZQAdbWzRzf4z7zxbmeaeZIIx/HxtKglCDPNQhN0inTYPk5bofi9HDe6Pc31xa4lqkQYBnDcLuOQ2Em2HsXjRK/uFh7kdWV7laC0jSlTOQmTYcN0G7kQi/OtDfCoe5SMo1BIQtr0GoQZ7rkC1tGoQ+dp5zUee/t/RlN8rYnIBsadMgnNN/S9CXai6vDUlXliA050lPC43RYYJQFDVIwgMo3ZaKlNDr5y+CTmqpyNT437JrvwAWIla8eWOC7AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADY0lEQVR4Xs3W605TQRAH8DZ+9xl4AiQGCCYiHzASJOEi13CTO4gIIkhTK4RLBQUhQkWjTRtALIQghMSo0Wj0fXyHMf89mcOcYYGWFsMmky7nbLu/M7s7B5/v4jc/2cN2/9ybnxZC1fQiWGViNlBJ4dEKE4zYXG6n9aW7FH/ZakHph0gb7oAYBRCHxsTmm+ntbKNnYvyNezq8qJSQfloarzmCwicgHAxaDTfQ8mSdGYtPGwjjJfrnToi+J0bOhmIQ+pwdBr1/3mRAPPY4EL73YztIv/em6M/ejAFhjpysLBN6dtWctPNTMwiTapB8akRkut4KSkQ6PCD0GaRnV83vWQYgeHPjbwnC2Omxx3S/vY2qy8roWm6uuWYD7bzpzhyIs4RrGjQXCtGDzg6qLS+n6/n55hqWUYM+vetxQYiUQLwvNAhPziCMi68s08qzMD0ZHKTmmmq6UVBgMmXuKdB+tNcL2hpLH4TrACHMuIUFmh8fN8FLB5QNdBC7l1kQAkspQViukb4+aquvp+HeHqoqLXX3kcQgo1/WB1zQr90JF5MySKLw4xr0uL/f7B9k5/bNYmuGAPq6MWgF6dmPaYdH+CQQlgogQLqamqi4sNBcRyY16Nvm8FlBzrFFhpIBYamQFSwbnzINwngJkkVRz66a82M2EMIG6mlpoavZ2dRaV0t5OVeOgJCdjIIYhcAEqLgM+rt+mYa6u6iipIRmg0Fz9MvzLpl75wKSWcKnBGEcxmNjo/aEAwFzyiSGQduvO10QqjRjkgLhhNlA/DqQGTpIJAzkVlGRC9MgjMVrQ2YoyeygHYL0PuLXgQTtf9w0BRG1B/upobLSU4d4ufDayBiIUbiOCSRo78MGTY46/9MsTU1S450qT4YYhCotQYzSs1uaA7Itmw20u7ZGE4+GTf/VzLQ5aRqE8Z/j/S4INSiFOuQFyWWTIH657sTj9PThkOmvzs2ZWiRBgKcNwuk5DYTJMHY7FqPAwIDpRxcXTbVmEC9XxkB62XBdg7aiUfPqQH8tEjFFkn+DQTjyEoQalHIdsi2bBKGPk4fxCFRx7vNp5LEZAdmWTYJwT/5bgj5Xc35t8HKlCUJznvS0kBgZGoSiKEEcKYB8Pi7rJ4UGypD7JyOgZJtGJoPlOBz7n5pG2kJ/50K3f2AmoUiRwkAAAAAAAElFTkSuQmCC",
     "wiki_name": "Initiate cuisse",
     "wiki_url": "https://oldschool.runescape.wiki/w/Initiate_cuisse",
     "equipment": null,

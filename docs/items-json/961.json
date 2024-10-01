@@ -1,7 +1,7 @@
 {
     "id": 961,
     "name": "Plank",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-08-13",
     "duplicate": true,
     "examine": "A plank of wood!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xu3W+0sUURQHcOenKPoxiFpQKkzS0JBYChEWtEIKXFHsoRjai6ICMRKRoodILwSxBxUKhphIGUFUFEX9ZSe+d/gO5965azM7U/RDFw47O3Nm72fPuXN3a2r+/RGIP3zX//gI5OFkr9yf6DExPV6WqWvdJohYmh2WxZnTsvBoyINyv0RmeAgiCiCGi5l/MCjPpk9ZE+M9rrlho1IhA5m50RdD4RUQBkFPpk7I7K1+k4tXHwj5Gv1tdVK+LI9VhyIIx6wOQS/uDRgQcyuBcN/XlQn5sXZbfq7dNaBUGHwovzVBmNQHmrtzPALh2AdanhuxQDhOCAqsNmAiLm68d0GYHAhgdEtc0OrTc/mBWCWc84GQh/tOHmmUcqleutp2xnBvn5+PQIhUIK4LF4TJXRDycM9AV5P0H2owoMMHdkhpf60cbN4urXu2muvvXl6wQa+vZwfhPEBEsZKsTm/HbjnWvsuA2vcVpNi0LarQ+/mL+YIQAGgQ8pA/dHSv1a6OYp2pDjHI/bh4OQJ9f3MzKQbDBmkUH18XxHaxOmiXrg5yP726Wi0II1yMeHrWA+nqoF2sDtpFDEGfl0arBYV7ECqUFOQu5vrCRguEfA1KsSmGj7wPhNAg5A53N5t2cTFXqk6uIKIQmAA7LkHuYkZ1NCZ3kK4SXgnS1dGLubF2kxe08vhMBMIunRCDET5hPhB/nwhyq4N24Tzu0SBUBz8bukJVgdx1hPOYADlne1pi1Sls2RADsV342cgNRBTO88lCu9ydGed1JTUIu7QGpUCFIF/buAmiOpXa5QOhxR8WLkUg7EEp9iEbpNtGkF7MBBUbNntBqE5mEJ6ySiC27MpgKdYu7FN6rbFduYHctuE8WxB+WCAjfW1S7myJqkMQcwHCI69B2INS70O+tmkQjjE5YayOWyHk5gLytU2DcE3/LdEg5On1kxGEEX7r34XG6HBB2BQ1iJEClHTEkQy9fv4iaL0RR8bj/8g2fgHGEC0gPbx5zQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xs3W+0sUURQH8N2foujHIGrBrDBJQyViKURYsAdS4IpiD8XQXhQpRFGIFD1EeiGIPahQMMREygiioijqLzvxvcN39szZO8uOO4UXDjs7c4b72XPu3NlMZv2PrPjDd/2fj6w8meiVR+M9LqZuFWXyRrcLIhZnhmVh+qzMPx3yoOyPqBkegIgCiGExc48H5eXUmcjE+I5rNqKoRMisTN/uK0PhExAGQc8nT8nM3X6Xi08fCPka/XNlQr4vXV8biiAcszoEvX444EDMjQPhvh/L4/J79Z78WX3gQJijrb7ehZ3djKDs/NUEYVIfaPb+yRCEYx9oaXYkAsIxQXZ2M7KRNmAiLm58tyBMDgQwuiUWtPLiQnogVgnnfCDk4b7Tx5qkWGiQrvZdZbgPry6GIEQiENeFBWFyC0Ie7hnoapb+I40OdPTgTikcqJNDLdtl/96t7vrHN5eioHc3awfhPEBEsZKsTm/nHjnRsduBOtpykm/eFlbo09zldEEIADQIecgfOr4v0q7O/A5XHWKQ+2Xhagj69f5OiEkM0ig+vhbEdrE6aJeuDnK/vh3zguzsMSNYjHh6KoF0ddAuVgftIoagb4vX1goK9iBUqFqQXcwNuY0REPI1SG+KdnYzgkfeB0JoEHKHu1tcu7iY46qTKogoBCbAjkuQXcyojsakDtJVwidBujp6MTfVbfKClp+dC0HYpYmpCoQnxwfi+4kgWx20C+dxjwahOnht6ApVWR2MEsiuI5zHBMg539NaVp3clg1lILYLr43UQEThPJ8stMvuzDivK6lB2KU1iCg7u2cEIF/buAmiOnHt8oHQ4s/zV0IQ9qAE+1AUpNtGkF7MBOUbN3tBqE7NIDxlcSC2bHSwUNYu7FN6rbFdqYFs23CeLQj6n5WRvnYpHm4Nq0MQcwHCI69B2IMS70O+tmkQjjE5YayOrRByUwH52qZBuKb/lmgQ8vT6qRGEUfrrWSk0RocFYVPUIEYCUCbDbb1SWKAOvX5SAVU7LLIaLKOU+5+GRfrC3rOux18QI3esnWmORAAAAABJRU5ErkJggg==",
     "wiki_name": "Plank",
     "wiki_url": "https://oldschool.runescape.wiki/w/Plank",
     "equipment": null,

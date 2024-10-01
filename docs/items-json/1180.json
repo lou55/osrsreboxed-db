@@ -1,7 +1,7 @@
 {
     "id": 1180,
     "name": "Black sq shield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-12-08",
     "duplicate": true,
     "examine": "A medium square shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xu3W3UtUQRgG8F32SomVpUVxJRYRi24MurALvQjqRi9M6cOsKDUKqivTjGVJ/GL7RBD7oEAhEBMpIegiEqP+solnDs/xnTmz286eU3TRwMuenTNnz++878zsSaX+/ZZW7nCd/+MtrZ6Xz6unpREdlYfDannmnA4iNlcn1PuVG2rjxXUHyn6I2PAARBRADBuz/uyaelO5YtwY33HODhPlhUyrlUcXIih8AsIg6NXyZbU6f0mPxacLhPESvb9TVt+2phtDEYRjZoegd0+uahDHVgPhur3tkvqxu6B+7i5pkBcGP8qnJgg3dYHWFkdDEI5doK21SQOE4zpBaaMMuBEnN77bIHv+yJCgnde3kgMxS+izQRjf3tamozWfV4dzOR3ZppQB+/T2dghCeIE4L2wQsiFBNoaglmxWRyGXMmAG6MNsfBD6AUJg3JFCoSboUHOzjnz2AJYYCIFS1gKxXBJETHdnZwj6/nGuXgyaCZIoLl9iaoFkdo51dRkl8wShBTXHErZB6D91NGOAZLkkCHMIIFzzdXOqUVCwByFD1UDEuEB2uU729ERAHptisORdIATOFzs6flsurjBmB2VODEQUwhfU39ubLEhmiRgb5Jo/wBRbg+xgv9p+eTMEYZeuE4MWrDAbhP7+4xkv0Om+vjA7+NuQGWoIJMsms0NQtQ0RmRk8eybMDkD420gMxOxgqTNskMwOS4UVSdDn9TsGyAMVgGTZ0Pe4XFaVUkktzj5Q8zPTau7+lIadKGYMEDAjAwMGCK8dXzbuhiDsQR77kAmSKFcQRVB3+0F2uKvHBmGV2SDMI/TxiXEzzq17E+MaBczFoSEjO4mC7NWGfgni2ySumRwbU+OjARDXcSxAWPIShD3Iex9ylU2CcEwQUQj04To5fxIBucomQTgnX0twzN0c4+T8iQlCi05eV0iMDBuETVGCGB6gelsUyZDz5y+CarUoMhr/W7z2C8/InlsFlSZeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xs3W30tUQRQH8LvsUxIbS4viSqwiFr1Y9GAP+hDUiz1Y0g+zotQoqJ5MM5YlMZPtJ4LYDwoUAjGREoIeoijqL5v4zuV798zZ2XWvewsHDnt37lzms+fMzN4g2P0tZfzhu//PW8q8KJ0zz4rDNsoPzpqF6TM2iFhbGjcfFq+b1ZfXPCj9I5qGhyCiAGJozMrzq+Zt+bIzMb7jng4XFQuZMosPz1eh8AkIg6DXC5fM0txFOxafPhDGS/TPzZL5vj61MxRBuGZ2CHr/9IoFcWwtEJ77sVE0v7cemT9bjy0Icxzt7LShZ1ctTDt/NUGY1Adanh+JQLj2gdaXJxwQrgnSs6uWcsqAibi48V2D9PqRIUGbb24mB2KW0KdBGN/e1majNZcz+7NZG5k9gQP7/O5WBELEAnFdaBCyIUEaQ9C+TMZGPhs4MAf0caZ5EPoBQmDcgXy+LmhvS4uNXKYCSwyEQCnrgVguCSKmp6srAv36NBthYoMkituXmHogmZ1D3d1OySRIz16jhTXHFtYg9B8/mHZAslwShDUEEJ75tja5U1B4BiFDtUDE+EC6XMd6e6tA8lDUs6sWbnkfCIH7hY6ObcvFHcbsoMyJgYhCxAUN9PUlC5JZIkaDfOsHmEJrmB2cVxuvbkQgnNLENATCDtMg9A8cTscCnejvj7KDvw2ZoQazg1YBybLJ7BBU60BEZk6fOhllByD8bSQGYnaw1RkaJLPDUmFHEvRl5bYDIkrP7mkhSJYNfU9KJVMuFs38zH0zNz1lZu9NWtiRQtoBATM8OOiA8NrxdfVOBMIZFOMcckES5QuiCOppr2SHp3rTIOwyDcI6Qh9/MSbj2ro7PmZRwFwYGnKykyhI7zb0SxDfJvHMxOioGRsJgXiOYwHClpcgnEGxzyFf2SQI1wQRhUAfnpPrJxGQr2wShHvytQTXPM0xTq6fJkFo1YvXFxIjQ4NwKEoQIwYoCHis1wsNlCHXTyKgRptGNoJlVMb+p6aRvtDP7Or2Fxnb6OdWWexjAAAAAElFTkSuQmCC",
     "wiki_name": "Black sq shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_sq_shield",
     "equipment": null,

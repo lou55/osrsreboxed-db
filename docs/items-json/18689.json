@@ -1,7 +1,7 @@
 {
     "id": 18689,
     "name": "Strange skull",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": true,
     "examine": "Seems to be for use with a staff or sceptre of some sort.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xu2X0S+VYRzHPVeWdWNZFkuTpUmbLmSaRJMkTSQJiSRJIqmZRCo5k6ScpLJjJmFnZ0w62dkxQ1azc5Fu+h+sP+Jb39+791jjovKec1z4bc/es52L5/N+f9/f93leP7/N8mkprL28XtrGfZ2deNvRgd72dlm1V8tRXlTkbSiFod5XGLVYMPZuENeKi3HxXC5yMjJ8oZCCtb8f4++H0N/9Ajcul+JIfLwvQFgKE8PDsNts0qa6igqcOJrsCxCWwhZ//1VrE0YrJQYefvMaT5qaxDen09J8BaRgGxgQGJqYo93W0IA7lZXeniptI7vVKkAjfX2wdHXh+aOHePagBU/vN8s6lZqK7UFBnoTSQL67XHB+mJCJ4mQN9ryEqbFRFhWquVIm2cPW7QwJ8RSQwpeZGTHswvQ0Zqc+CRTVoTIc85bbdeIhpnFJXh6y09OxJzzcE0AKX2dnsTg/J0+CEYpJ3GMy4W51tShy72aNJDOPiOuXSpCbmYl9kZHYGhBgJJTCj6WlP2CojoTgbw8xmakaN2+tr3ePfX1VFQrOZCMmOtpIIIWfy8twLXwWGKoy/XESk6MjMlXclOrQK9ycRtaB2D6qdvBAjFHZpGTzeadTVOFzamxM2sTDk5mjG/fksRSkJCbKk17iYuv4HxUyAIalxLRsz5zD4W7PgNksvtFVIRg316EOx8XheFKSGJq/aWqDJk1hxm6XRWX0rOl+3CqjTQD6hq1hq9g+Tlhpfj7OZ2VJBhkIpI04lWHbqAxTmBsT4FBsrFsFghCy+VatAHHcCUpgAu2PijIWhp6hMgw9jjVbRaMmJyTIb0LwP04YvVNWWChAvHoYAKTB0MBsFS9a9IzeEr717rAwMaq2ibaoDr3EiWP+XDib426ZoTA8EpjCVIYt4tuu7YcVuNXrv0pJ8OlHgn4+mdvaxDNsz96ICKPG929q5ZKlZw1h6AvKvis0dL1v/K+l8G1xUdRhqxh8/IThxOwIDvYmiF5aCDrGxyVveEmnObcFBvoCRi8lQFSHlywDD8T1lJIAXPmW2hDlVfNu/PoFDp73pwCXoLYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTUlEQVR4Xu1X4S9VcRj2+2RZXyzLYoksTdr4INMkmiRpIkmSSJIkktqdRCoxSYqkMmYSZnfupJvdsTtktTsf0pf+B+uPeOt5z37HvedaI/ec24fe7d25271373Oe53mf3zk+Pv/LqyVo7Ta8lMF9HR30tr2detvauGuullFZYaHRoAQN976isf5+mng3RNeKiuji2VzKychQGYoJDeXW/lOHEjQ+MECW98M00PWCblwuocPx8W5ADAMzOTJCVrOZZaotL6fjR5K9AQQlaIuvr1sbLI+sfwoMSrCBR968picNDeybU2lpKiDtr3UuQebBQQYDE2O1W+rq6E5FhctWaf+lQymDrOPjDGi0r4/6Ozvp+aOH9OxBEz2938h9MjWVtgcE6AlKAfJ9aYlmPkzyRmGzhnpeUmt9PTcYqr5SytkD6XYGBekln6AvdjsbdnF2luamPzEosANmsOZNt2vZQ0jj4rw8yk5Ppz1hYXoAEvR1bo4cC/N8BTCAQhL3tLbS3aoqZuTezWpOZhwR1y8VU25mJu2LiKCtfn6elE3Qj+VlFzBgh0Pwt4eQzGANw5tNJnXtTZWVdP50NkVHRamAPMCSoJ8rK7S0+JnBgJXZj1M0NTbKW4WhYAdewXAYWQKCfGDtQEy0SzZpJ2ygBA9fmJlhVnCdnphgmXB4InOkcU8cTaGUxES+wktoSIfvwJCHglKwaSHPvM2myjPY3c2+kawAGIZLUIfi4uhYUhIbGp9hag9tmiC71coNZmTWdD1u5tUGAPgG0kAqyIcNK8nPp3NZWZxBHgSkrDiYgWxgBimMwQBwMDZWZQFAALLxVg0DwroDKAAD0P7IyM3K5QoGngEzCD2sNaSCUZMTEvgzQOA7bBi8U1pQwIDw6KEFpJ20jlLAwMCQCg9a8IyUBHe9OySEjapsjNJgB17CxiF/LpzJUSXbBDvuYHAkIIXBDCTC3Tr7YXXQKjht/zUYBJ88EuT51N3Swp6BPHvDw/+4vs4Ate38u3XW6kOWzBqAgS9A+67g4M3e8UZL0DeHg9mBVAg+vMJgY3YEBq4hke6lhKDNYuG8wUM6zLnN399IVrQlGBDYwUOW84HoBTCyBAegfJfyMhhZhpp3feVNML8ACeVFIIa/iGcAAAAASUVORK5CYII=",
     "wiki_name": "Strange skull",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strange_skull",
     "equipment": null,

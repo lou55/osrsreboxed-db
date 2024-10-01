@@ -1,7 +1,7 @@
 {
     "id": 11258,
     "name": "Jar generator",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-11",
     "duplicate": false,
     "examine": "Creates butterfly and impling jars.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xu2WbU8aQRDH2VdGQyRGUtIjYrShDWDEIzxIpAIBKiKpWJGihj4QUQQrrabpw4u+7BfoB57e7GXO5UDuVmibNPyTfy67zNz+bmbvFodjqv9LDMwzoyUbLyUGO9kg2F+EwUk1LhEvLQalfEhiAQb5TARajZREjpRkgChGh+qd52zmSYnBxfs9qFezFjfX4/QYBsl4EJqnWxY5D5K+0GnN6mlFIH2cSk18LzFYWwvA5dlL48nNEXcaBEomo/DhLGORJyUGEXXdAGo2ihY3J2jGW4yA5XJhklAMEgkVuucVWxUiaIzHhyiVctBppjnQhDa4vg9+fG0IQMONEB87h3DdPuAmGDJC3Vzmx4FiEFOXYTO6AuFwiC+CC6Jvr464P/dqfab5YjED7bfb3CLQmFXSqhN/AttJP2RTTyGfDvBqmYG+fKobxjHC4EeRgMxQD9xPgzB4fJR31qGyGzagCOj77TH3i0Kaw5Dvg8KxJBTrA8EvNcEc7qlwtB/h59V1S2vjhQbX0eCuavxDiBahhgHS2CaUfpiaQUSY+kGUG6EatQS8q29amkAJGvNsA2G7zBUyV0mEQ7BRNkPjGPNsA0XWlwb20Kj2jbJYyZ/NVcOYbxso4PcYr7wINmyDU7WoraJx/tuxD2aWHX3GOfv/ILQg5bELQgGFV2oYmFgtWhivvVdeaJUUYw++zjyCWb/DMAHdVJfswpB0qHDIy41gBEeABIkQ7bLCQbr7Xu6TnAfiz5z8KgKJlgRCMfC4naB4XLDqcxv2KQuGk8F52I0twozi6HMsrEGrK1DZcvOKTACGpJ9T885ZWFyY43AIglf0fUC/un4+r/qdkN1wQfW5m7fvTcEzDoyou0OUALF6Qd/cUCBso1jN/vw/on5AhEJjxRDS/Ls5+y/onwNMNdWAfgODbMyddB4pFQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1ElEQVR4Xu3WW08aQRQHcObJaIjESEq6RLw0tAGMuISLRCoQoCKSihUpauiFiCJYaTVNLw997BfoBz7dM9OZDssu7BaISeNJ/iG77uz89szI4nA81P9VBPRnhpfd620Vgd1sEKxPQuC0Grdxve0iUMqH6ASbKysWJiGQz0Sg1UhNC2UHxAEM1bvITQNF4PL9PtSr2RE3Z9exawgk40Fonm1bfBBbxSY6q7GnNb/5XxC7hkAqxfaS+RjbRWB9PQBX5y/Fk5vffBCUTEbhw3nmz9iJFIGIuiFAzUZxxM0ZGoNLjMByuTBJFIFEQoXuRaWvQ8ZdYn9HNF6PD1Eq5aDTTFPQhDY42wc/vjYEyCyI+Ng5gpv2IQ3H8CDq9io/DopATF2GregqhMMhOglOiLm7Pqb53Kv1hZ8vFjPQfrtDI4N4l4w7PLK07sSfwE7SD9nUU8inA7RbetCXT3URPEYMfilykB71j/tpEIOvj/LuBlT2wgLFQd/vTmheFNIUw2OGwmObKNIHwW9qjjnaV+H4IELfVzctbRkvNVxHw13X6BchRkYZAfmxRRR7meohMqZ+GKVBVKOWgHf1rZHhUI7GcRb3E1sufYf0XZJxCBsWPRqPcZxlUGRjaWAPDVu+YZE7+bO5JoLjLYMCfo/4l5dhRhucd4svqxw8/+3EBzPLjr7gOeu/ILSLlMcuCAUU2ikjmNwtPjF+9l55oVVSxB58nXkEs36HCAfdVpcExgIIi6HCIS8NwjiOAzkSEe2yQiHdAy/Nac4D8WdO+imD5FjsjlwEPG4nKB4XrPncIj5lQSQZnIe92CLMKI6+xMIaWl2FyrabdsQMYxOExd5T885ZWFyYoziE4CfGDPSr66fnVb8TspsuqD530+V7U/CMg2HFf9vIQSB2L+ibMwThMsrdlMeOhZGL38gIiCgMdgyR+r/LYyeCMaphQD1gaohhde+Ah7rv+g2irgvAi5qepgAAAABJRU5ErkJggg==",
     "wiki_name": "Jar generator",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jar_generator",
     "equipment": null,

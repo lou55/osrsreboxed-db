@@ -1,7 +1,7 @@
 {
     "id": 26690,
     "name": "Superior calamity chest (broken)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-07-06",
     "duplicate": false,
     "examine": "A superior chest piece used by the Calamity Coven, but it's broken.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xu2WXUsbURCGXUTChrAhZElIgpFEYoiRaMVYBS0VFCqCpQVB+oGltFAQhII3UtoroXf9F73qj5z6zHZ2z0aRuknpTQZeNuxJznnOO3PmZGZmGtNww5NE/zUiiLw/F+sfQLm7vV/lYl6Cgi/VckH8XC7WhKCS3TaDvLSLySIsaoszvt6bl3YjVDVrJRXvbXwMoGS37JLJ+uVAVsOirFdLsl0P9X29UlTx2cB6rap0mhWF4sk471FGIE+ezlflWaumk7NLJjOgg4Va7ILrBNptVBQY93Crv1jX9+ZmBiBPjtp1Oeu35f1KW1525nWX6MeHii5gDphwAEhkqXQhDYjvZUibJx8Hi3Kx3pVPax2Fun4bymlvQVaXGiqDQiyCmwggXLXFATEH7R1pfSAQ4cnlcFmhcOrnZQQAiAGh54sNhQCGVBmUpZLvWC0hq7VMLn3bXpEvW30FMgBXpJLUIiAockTdAG3ptI24QJldut5ZVSAWMTHxSbepQAiXSJMVsxUyUJZSV8npzRSeTjzsL+huqScAqScEGAIIdziBW4OW/sbtR+ZOkqoxgAyGAqfYXShgcIjawR3aQrcUxGmz00hRh3+6drpBPhjM0wkBMSCDMhhzBxBEFzeXrHaYp3ZTN8zlQmUqbibhtJ0/WlIBhl4vt+JTRqrqeV+vFZTsPtGrw81JFDbhKcjnjZ62Ap7Wo0gdTuFKYW5WoSr+XReoJ/uPewphp4803v7eX0UE5N7YoyJlgKBSbjQNnuwNl1JNFZeAygzkLn6wlpe19m0oRA2lUxX9vhUGcYHzTI9nimiC86OSnD4JFGq378vhRl5OdtL/dxDA3UbkFDDWrUlT0ovGDk+uTsoK9WYvkOPNQgzkugLosJOTlebNBRvOSuDPxDDuX5QJQHny/awiX0/LcnFcknf7gbzYLigQjjHO09wDCpc61ei2N5gxTtdoePEtP3qvMQacubY38GWrG7nQrZfja2OC7hDenTCIusIpBBhQlkKA+J01xAnBWLgnKK1fV41Y6UWjjZC2DJ15nHABR+O+sWlMY/LxGwcRmMW5+BGlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADO0lEQVR4Xu2WXUsbURCGXUTChrAhZElIgtFEYogRTcVYBS0VFCqCpQVB+oGltFAQhII3UtoroXf9F73qj5z6zHZ2T6K1zUYpBQdeNuxJzjznnTnnZGLiPu7DDU8S/dOIILL+VKw7gHJXe7OK+awEOV/KxZz4mUysW4JKVlsPstLMJ0lIaskZX+lMS7MWquqVgor3Ns48vdnZNFDJalklk3WLgSyHeVkpF2SjGur7aimv4rOBdRpladVLCsWTcd6jlECePJ4uy5NGRSdnlUxmQLszldgF1wm0VSspMO7hVneuqu/NzRRAnuw3q3LcbcrbxaY8b03rKtG3dyVNYA6YcABIZKV0IQ2I76Vobk/eL83J6UpbPvRaCnXxOpSjzowsz9dUBoVIgpsIIFy15ICYg/aOsqZy6ay/oFA49f0sAgDEgNDTuZpCAEOpDMpKyXesl5D1WiqXvmwsyqf1rgIZgCtKSWkREDQ5om+AtnLaQlyg1C5dbC4rEElMTHzYrisQwiXKZM1sjQyUldSV7VxgRgQiPJ24353R1dJPANJPCDAEEO6wA9eXGvob9zwyd5JSjeyOhRfD0OA0uwsFDA7RO7jDsdAuBHHZbDfS1OGvU9s9IEfsI8LTCQExIIMyGHMHEMQpbi5Z7zBP5bJvmMuFStXcTMJuO3kwrwIMvVxoxLuMUlWzvl4rKFl9ohd7a79t7BHL5ynIx9WOHgU87YyidDiFK7mpSYUq+dEFaomiZJ7sPOwohO0+ymjfG874h4iA3Bt7WJQMEFTIDF+gnmz35wcOVVwCKjWQm3y3l5Ve8yoUoocGSxX9vhEGcYPztPEU5bKIJjjZL8jRo0Chtrq+7K1m5XBz8P8OArhdi5wCxk5rymRn0RgwFp6cHxYV6tV2IAdruRjIdQXQfisji/XLCzaclMCfiGHcvyiJg6nDk6/HJfl8VJTTg4K82Qnk2UZOgXCMcZ7mHlC41CpHt73BjLG7hsOLb/nhe40x4My17SVf1tuRC+1qMb42XHfGhCG8a2EQfYVTCDCgrIQA8Ts7EG/JHYurB57px3kt1mDSaCGUbcz/1NeHJRqWC3fVgZvG7jAGAf9+7D7++/gJzKDX2ZrZcoMAAAAASUVORK5CYII=",
     "wiki_name": "Superior calamity chest (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Superior_calamity_chest#Broken",
     "equipment": null,

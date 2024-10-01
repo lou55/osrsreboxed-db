@@ -1,7 +1,7 @@
 {
     "id": 7346,
     "name": "Adamant shield (h3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": false,
     "examine": "A shield with a heraldic design",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+0lEQVR4Xu3WPUtCURgHcC9yuFwQIYjAGgTFIg01UQwSKgjaGoKGhgYHB4cGwaHBoaFPEDQ0CH3Tk8859znnucdzzfumUD7wR1zkx/+8mcvt5m+Pw3W2Pg6vlXK8fpTjrXJ+2zCJYd6Yu95EofrHFLZRnMPLBxrketNFZgo1OM3z68bGWvPbcUcCxLwXATobMt4eM96duAq1DEsdJ5sR7Rig+jPjzRETLXUqMgDLGIftDAOg0ycmQNCSAt12ePeuJ4KwlHG6nep9ntcemMjJowyibCAaGw4SEeXww71lDAQakssGm3siQO2bdijIxAXbWns0aBUGjz+CVqFoQ5Ex+8VlDIIQIzb2mqAEGBjZDmxmE6NBEgNpXrWyBMl21HIByo+tHQoK20cJMDBBkImiweUyQbbjH3sjK0yjLFJpVkSq51UVhMBRh0/Mb6CIGBh/MxsYCkIMxCt8LPKpvuNtjaDEmKLnL9MaIImRIK/wFQRZnpFYoLDlQhBuYtoOYGTmVgwkBgZGNhSGou30pq6IBs35xcwVMUExNjKd8JboqUJQ/1UGMZDLN5cP3uXfkQTt0AmiEITLBf99KAgbwpYAhA2lgMHR75jZziqQzHc2IPO2xnbsII3CPZQiBoe89iV995gxj3qGIBjyyJLngl6ONlhGGBz48ajZzT+bH5ciwv/Wr8pSAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFUlEQVR4Xu3WQUsCQRQHcBcZlgURggisg6JYqKGbKAYJFQTdOgQdOnTw4MFDB8FDBw8d+gRBhw5C33TyzfhmnrOztu6uCuGDP9Fl/fGfmZ3NZPbzv8fhOjsfh1cLGV4/yfBWMbtrmMQwb8Rdb6xQvVMK2yrO4cUjDXK9yTxTherXsvymsbXWFu24QwFi3qsAnQ8Y90eMd8auQgVhqeNkM6IdA1R/Ybw5ZKKldlkGYBvGYTuDJVDtmQkQtKRAd23eue+KICxlnG6n8pDl1UcmcvYkgygbiMaGg6yJcvjxQRADgYbkssHmHguQf+uHgkwcbcsvlaKiNGgVBo8/glahaEOIiQhy+GE+iEEQYsTGjghKgIGR7cBmNjEaJDGQ5nUrFsj81ZCR7ajlAtQitnYoKGwf2TCxQSaKBpfLBNmOf+yNrDCNoki5WRapXFRUEAJHHf5i/gLFbsfEUBBiIF7uc54v9T++rRGUGJP3FssUASQxEuTlvpdBlmtkzaWCCV8uBOEmpu0ARmZmxUBitAMjGwpD0Xa6E1dEg2b8cuqKmKAYG5lOeEv0VCGo9yaDGMjVu8v7H/JzJEE7dJZRCMLlgm8fCsKGsCUAYUMpYHD0PWa2swok8xMAmU+PMcG3NbZjB2kU7qEU28Eht31Bv3vMmEfdBJlPTTjkkiXXBX052mAbaIcO/eSMlg1i5OAPrBPzGftJc34BqG7/NZkrn4kAAAAASUVORK5CYII=",
     "wiki_name": "Adamant shield (h3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_shield_(h3)",
     "equipment": {

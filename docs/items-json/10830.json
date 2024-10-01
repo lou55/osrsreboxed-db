@@ -1,7 +1,7 @@
 {
     "id": 10830,
     "name": "Royal decree",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-06",
     "duplicate": false,
     "examine": "The document is stamped with King Gjuki Sorvott IV's royal seal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xu2VwUtUURjFvYi0bhPUJghqYYsgkBYtGpBKJDIKscjIRMQsk0FEzBSRQTHLTDMrUURMRQalbBJRTM0UMRVFiED/llO/a2948yzHUBwXc+CD4Q3M+91zz/kmISGuuOIy8j6JoYzevW3QAYEy6uttV1dXy0GAMgp9GtDgYHcYqrq6JFZQRkXpSRofH94ClZd3OxZQRv4rhzQ1NaqJiZBCoWAYqq6uQmlpvj9Q+wpmNDs7oenpMU1++ayRkUENDfWov79Dzc0BlZU91P2Cuy6waLNrGS0sfNXc3KRmZsatW6OjQxr+2Gcd43NPz2u1tdXraX2lnlQUW8iSkgIVF+fpQWGO8vPvKDf3ltLTU/cCymh5eV6L379pfn4q7Ba5wjE+84zvgGxvf66amtItYDezrsnnO79ToGiWGutCMNhlww0MEN7BQaA6O1+qtrbcthEwHMrIuKyUlDPbvMNqE4KXdXS8UFNTzV/AjD21e2gZ4ebKCDsuOYNrfMfvcYU4lJ19Q5cuXlBy8qntga6fS7In4uS979/YkzU2VquoKNcFthXIO7QO54ABcGzsgwYGOm2uqqr8ysnJ0r3UJPG+Y4cT/g1FpZ06O83p7n6lZw1VNozU2vvyaON2j0PyW35/fsQBvRxhsfSwmeaQC9ziZFwhdpeWFlq3nJZ4X76TiQoRKWPbQaUJJWDOnuEauEJsJ1uclKDSIK7BgWVjk5HMzKu7AXFktLQ4ZyvNrnFqba/xdyawHUDnbwP3ACVntMcNxY7ZBYgjo7W1Ja2uLmplZcHuGwCB4yqpMYA4CCwDHM4FAmUWihYR2v/YMdHkDlvkAMkAzABPk2hla2udhcIllt4OdsxeaBNsff2HNjZ+2sEtXKJN5Ioro85nTyRuX+m9VaRr7BlWREtLra00O8Z3OlHHj+wbkFvGZosmso0flz+yDcOlk0djAoSMbR/7ihxFZi9mMjbcMYbw6kDBxLX/+gUGfHDYjM2lWwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu2VUUtUURSFPYj03EtQL0lQD/ZQBNJDDw1IJRIZhVhkZCJilomIiFkiIopZZppZiSJiKiJK2SSimJopYiqKEIH+llXfma5dr6MjjTgSbtgw3Av3fGfttfZERe3Xfu2XkfdJBMvo3dsa7REoo67OZrW1NewFKCP/px719bWvQZWVFUQKyig3KUYjIwMboDIzb0UCyij/8gGNjw9pdNQvv793DaqqqkSJib4/ULsKZjQ1NaqJiWGNffmswcE+9fd3qLu7RfX1FSoqeqB72XdcYKE67DKanf2q6ekxTU6OWLWGhvo18LHLKsbvjo7Xamqq1tPqJ3pckmchCwqylZeXqfs56crKuq2MjJtKSkrYCSijhYUZzX3/ppmZ8TW18BWK8ZtnvAOyufm5yssLN4DdSL0qn++cBTodGxsKKpSkxqrQ29tmzQ0MEN5GQaBaW1+qsrLYphEwFEpOvqT4+FOhgAIQHNbS8kJ1deVBwIy9tbtJGeZmZJgdlZxGNd7xPUaIQmlp13XxwnnFxZ3YGuja2Rh7I27e+f6NvVltbZlyczNcYBuBvE3qUA4YAIeHP6inp9X6qrQ0X+npqbqbECPOO3IwavNJEGknzk5y2ttf6VlNqTUjsfYeHqrd6nFJvpWfn7XugigUVCWWHjKTHHyBWtyMESJ3YWGOVctJiffw7bQXYlOYQBmbDiKNKQFz9gxjYITIjre4KUYlQYzBgWVj45GUlCshQbynBymj+blpG2l2jRNrO8bfnkB2AJ2/DdQDFJ+RHjcUOyYMEKeMlpfntbQ0p8XFWbtvAASOURJjAFEQWBo4lKuoKLJQpAjTunfMP4C4y72D1jeQNMA08CSJVDY2VlkoVGLpbWPHbL+8hvt7wwDYysoPra7+tI1aqESa8BUjI85njkVvHemdKjeYoxp7hhXR0FBpI82O8Z2M1tFDAaAdUSlUuVXDWySRbfyo+KFNGCodP7yLQOvL2PSxr/CRW8EwDR1OGWtuN0QEYZyKqCLBa0/B/Pf1Cz0cqMHrXyNbAAAAAElFTkSuQmCC",
     "wiki_name": "Royal decree",
     "wiki_url": "https://oldschool.runescape.wiki/w/Royal_decree",
     "equipment": null,

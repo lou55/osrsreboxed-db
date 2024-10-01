@@ -1,7 +1,7 @@
 {
     "id": 29088,
     "name": "Calcified deposit",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "A deposit of calcified rock with bits of bone. It looks quite smashable.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xu1Wf09UMRCk38moRMRLLoiIQRBRRMTL5XJBRY36hx+/ZnYzt7tt3/M9PUQTJ2nuXX9sZ6e77W5s/NtIObYbgxI4PtzPJ88O8nRyP29v3b0pUimfnx7n2fnLvJi9lu9HOxMhZYT+qHJJiMwvXuUPy5n8kpRX7uhgLz/d3xUFr4GU9zQJkeX8jZA5e3EkBJ7s7cgc/D99fihE0I/vSKhUb7SKaeUtF3+8nOd3i7ei1MXZids0yX8oRmL49WtJlDbhCJ0pd25APUaDIRipPfMe2nEixrAOBP06T5bkBpIBkhimkdpAyg+nD2Tc95EY1bM1as+rOIIMkFbe2qa2MQyjxQzTMcQZsxAK2ZyyjUZrsXoKso93px2GlRSzcA3ZVpKwPmyCLGvHVJyPBGBG2vzRSHL2drdoHwMUzWcWgzTON1toX66WkpmmaNl6odng05WEsHE8Ju2P6V1ClUJwwy4DHekOJwY+O0YEsQDvmCGbd24FQowTfPfFFIIcdjifxOqk6EUSI4gDEIJXW5u3V2R9q++UOP7t02X+/vUqf36/WBGDg+2j7oXGQMwqVYbHBW/jM2HVANeADEj57PPPTtyzF+od4iAujgpAQVyU7XH7D+egOJyJ44NhcnenbpJNoFYk1UJJ9Jdgd0r7zDX44TWO4eekfhtKCAHZfeaaSVAJSk6273XMWxs041i2Rum1QSXEEgIcpGJGrh0aJ/Yu6b0DJexu0jm8RHmz18/MaNTel/2sFtHKZ4blB9IbDqCxwuxOjE5oZeeruvoG1nuIgU5FPClsjiNGq50bTChWdSw3awP2pIAQ6x5PiKWuEdJ+ONnO1CZilchSs71YLzkGcpxnYyWh+oHuhVWJw0rNvmNo9ZeVxCCUmwxeOBDXYfM//hL8ADbIKVXlYLKDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4XuWW4W5TMQyFe99kj8APBEyMUakaYwyNjTEYY4yqqqoBAwT84PGDvljnxrnJ7Xph1YQ4ktXbJHaOHTvxaPRvowm53BqMwPHhfjh5eRAm40dhe+vBbZFqwvnpcZievwnz6bv4/XRnHEkxd2djoxO1tZNsIpHZxdvweTGNvyLlI3d0sBde7O/GCK6BlPe0iUQWs/eRzNnro0jg+d5OXMP/01eHkQjjfKfIeVtdWRlN662Uv1zOwsf5hxipi7OTdlOE/0RMxPj1uiIqmzgiZ7o7V2AeIxjCSOmZiXJHx0mOoQdBr+fJipz0UxR70UTDMtI1wO+TyeM4nzy0jX30pCN7PooDyICm9TZtmshgGMkrzPTIM1UhEdKargwgI9SUzVPIPtud9Bg2UqpCVZvWeUk6SyEio5EngrAJVVbPqdwGBaCKTOsHo4lnn+4WG1OCIr6ylKT5+mQL+X61iJWpiJayFFYNvlxFiI39MWncl3d5DBYpkhu7SnTKHSdWfHYSEXIB71Qhm/fvZoSUJ3ynCHRhlYcdrRexsih6oA0xQh5ACK+2Nu+1ZL2Ud0o+//PrZfj14yp8+zRvieGgjvpaQgmWA76qEBlUDuXPROoGpAMZSPnq88/OIEIYIg9y5TwCRJCL0v6bnsSvxzkijjN+fjAhPFTpStkfD5sQLU9K8359l+hAMkK6U/rKm6PAa44hj1SJvyAiGCESsv/MrZKIEpEcbz9cSuoGYBWnttWHXkKUyCUSHFJ5Rd44LE9SF2j3DpHQ3aQ1ukR1s5fPzGCU3nfH1S0i+V2S2g/KGwcQdZh/8KZZZ+e7On8Da1M2UKIrIp44m3PESOlcLQeryLs6tZsykIykJwVC6nt8lNTqipDGcbJeqVXkXaJazbpHdskpkfN1aa5LqHyglyJ1ibVWs7vavMyPwUexHM87ibrNAvXz7lPWXG1Nffx6mwW6m6ysuCLWYfP/xG91SqSfRpZx6QAAAABJRU5ErkJggg==",
     "wiki_name": "Calcified deposit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Calcified_deposit",
     "equipment": null,

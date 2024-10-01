@@ -1,7 +1,7 @@
 {
     "id": 17719,
     "name": "Dwarven battleaxe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "This battleaxe is in the process of having sapphires fitted onto it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpElEQVR4Xu2W2UsCURSHvU8hSNGjSoiGgo6MC+My6Lig5opLmlhpiEg7ElQEET32b/+ac0ID33rxTjA/GIZZ4H5859zDdTjs2LFjx86/jMD2G0khEIEjj4fv2193HIFSLodMIoFoOAyf12sNqJNiEfl0GklVRdDvtwZUq1phW6l4DJFQyBpQvXqdbemahpiiWANq2G6jUS6hkM1yCddNv/3nDiMw6ffRqdVQMQxueAuUUGA6GnIJ11C/pqQZ+1m4nIhDMw1NumUsJy08LYbmTpQ2HgTGpSKKMRVqIIDVfICHqz6apbQsIIrAqGBAVyJQfD7cXLQZqqzH5UINjDxDBc1pTlBkK6Ecy4Xq5XSGWgM9L8/gdO7JghKYj+romPPpbtrl5qbr7XaCfZdTHtTr9Rj1lMZ23u/P+fnj8RKHBy4ZUILtVJNJ3nkEQkAElomH5QDNTmsMRZYy5pHlczXbmNJUKRNdbJqaTOWjUXQqWS4hDU4pQLQwWSIIKh2BBdxubvJR05AHRZaoXGRpfeqknSgFaDFubCx9vSw2p06C7NX0P0F9AyD1CUtFeD45AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrUlEQVR4Xu2W30vCUBTHvU8hRNGjRpiGgk7mlKUOXZuoWSlpuWSVhoj0mwgqgoge+7e/7ZzQwLdeugv2hTH2A+6Hzzn3cEOhIEGCBAnyLyOw+EZSCERgIxrl++LXP46AXamglM8jm04jtr7uD6hdy0K1WERBVZGMx/0BddCos61tLYdMKuUPqG6rxbYMXUdOUfwB1W+3sVezsVMucwlnTb/45x9GwO310Gk2UTdNbngflFBg6PS5hDOoH1PSjH0vXMtr0D1D7mENU/cAj5O+txOljQeBgW3ByqlQEwk8jI9wd9HDvl1kIG1zUw6Us2PCUDJQYjFcnbUZqmZosixRBI7MKkMlvWlOUGQrr2zJhepWDIaaAT1NTxAOL8mCEhg7LXS8+XQzPOTmpuv12sXKclge1MvlAK1tne283Z7y8/v9OdZWl2VACbbTKBR45xEIARFYSUvL2HkCo+MmQ5Glkndk+XgYzU3pqpSJLuZNTaaq2Sw69TKXkAanFEu0MFkiCCodgSUiEW5yZ9+UY4mgyBKViyzNTp20E6VYmgz25pY+nyfzUydBdpvGryx9AYeUDwfO2TWZAAAAAElFTkSuQmCC",
     "wiki_name": "Dwarven battleaxe (animation item) (Rusty)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarven_battleaxe_(animation_item)#Rusty",
     "equipment": null,

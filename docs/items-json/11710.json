@@ -1,7 +1,7 @@
 {
     "id": 11710,
     "name": "Anti-dragon shield (nz)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-09-05",
     "duplicate": false,
     "examine": "For use in the Nightmare Zone.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xu2XwUtUURTGfcjweEP/QYugxSxcaIqpYTbGOI7jxDg2juOQmkkSLtq1SGjRQhIZZEiJsmhwEQUFQYsgaBG0iBb9Tyd+93LmvTdFRN4Zgzpw4M17g/c33/ede589PX9UnsT7RMuTpVJJyoWCzOVyMjuVaYPrKqQnlWJR1qpV+XA9KW9rSXm1GMiVbFZmLk9KZmJCLo2NycWRkW5BebK6WJHPN5PycS0p765ZoKNyIIdzgewXAqnnfNme8uX8uYFOQ3myvFA26nzZOGWAVCGAns8H8qgYSCMfGKCdad+o1UELvRYM/X7FAr1ZslBYNp1OG9uAQSnguBda6AzMwigQlgGEZQpFuLEtCoOFqEYDemF42BWUJ+u1WgsGuwh1FArbNEPtMHGVjl0WRtX5tB4H0tFHnZ/BcJ8sDfX3uwVSdaJAKAMQ+QGiHUatGh0cdAczdLZXRlO9PwBhFfvPfD5vLFEYABWKycOqvlTKLdDOsh8DwioNsmbnwdaWgeNagQB1uB9ZmO2ab4C+3rJAWIU62AQQix8dHMRgJsfHDajDIFOhOgqEOsCgDr+exV8ePjHnGtePd3cNDEHmudPsDJwJ1fm2Ge49BFk3wNfNZgvm2d6egWGiXixYdfiOUyBg6qtWHZ0q1GGh5v5DA0ZWuFYYgux436G8ljoA3a/6cqfkm1+OHSzOwlw/rdcNiLZOFlCOgEJ1tO9VfBNSXj10E0QVMtMCaTRa2QkPVSflyY1MIga0OZMwQCiEXUyVWkR2dEfmOfeZQEdAnvSd7pGNbAiEdZodzYwCYFf0s4bdEQzlyUo6YYBQ5fZswuSn/UWMxq7oEcEzYMJX2mOXVQe7AKJRByAydPeqbxYGRLOjcKqOwyBTdiNEIW0gmC7tqCJAMFHa5IazzSEQxR8LOwpDRwGijV0OrfpVxcHIEZOk79DawHDKdwFIy4Lx/xjTFoXCpg5Y9btlwTi/ON1Rheb6hIC0LBggfwFMtHQA/tc/XN8BiLspBqSJW0UAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDUlEQVR4XuWXz0tUURiG5yLD5Q79By2SFrNw4S9MDbMxxnHUiXFs1HFIzSQRF+1aJLRoIYkMIilRFomLKCgIWgRBi6BFtOh/+uI5l+/OuTc3E8cx6IMPrnfknmfe9/3OuZNK/VV5Eu9zLU8WKxWplkoyUyzK9Hg+AddWSE/my2VZrdXky52MfKxn5N1CIDcLBZm8MSb50VG5Pjws1wYH2wXlycrCvHy/l5Gvqxn5dDsEOqkGcjQTyEEpkEbRl+1xX6709pw1lCdLc1Wjzo/1CwZIFQLo9Wwgz8qB7E8FBmhnwjdqnaGFXgRDf14OgT4shlBYNpHLGduAQSnguNe00BlYCKNAWAYQlikU4cY2GwYLUY0G9OrAgCsoT9bq9QgGuwi1DYVtmqEkjK1Sb2en6eQKLVQIo+p8W4sD6eijzmkw3CdL/d3dEVByhRYrro4NhDIAkR8gkjBq1VBfnzt1+i93yFC24w8grGL/mZ2aMpYoDIAKxeRhVVc2604dgHaW/BgQVmmQNTtPtrYMHNcKBKjuR87U2a77BujnRgiEVaiDTQCx+MnhYQxmbGTEgDoMMtVUR4FQBxjU4duz+NujF+Zc4/r57q6BIch8bmcn+fQWy5OeS011fm029x6CrBvg++PjCObV3p6BYaLezIXq8D9OgYBprITq6FShDgsdHzw1YGSFa4UhyI73HcqL1AHocc2XBxXffHPsYHEW5vplo2FAtHWygHKujvajed+ElFcP3QRRhcxEIPv7UXb0UHWmzt18Oga0OZk2QCiEXUyVWkR2dEfmc+4zgc7U6bqYkvVCEwjrNDuaGQXALvtvDbtTdZZzaQOEKven0yY/yRcxGrvsI4LPgNFXWicwqINdANGoAxAZenjLNwsDotlROFXHDrITIDZCFNIGgunSthUBgonSJjecbY7U0Yr/crBhaBvAbuyyrXIIlErpA8OHxsHIEZOk79DawHDKO1bn9LLB+D3GtNlQ2GRbdeZAWjYY5xenO6rQXLdFndPKBgPEhjkXIC0b7Nxh7PqnYP6L+g1yf2arn5PkgQAAAABJRU5ErkJggg==",
     "wiki_name": "Anti-dragon shield (nz)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Anti-dragon_shield_(nz)",
     "equipment": {

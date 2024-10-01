@@ -1,7 +1,7 @@
 {
     "id": 1330,
     "name": "Mithril scimitar",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A vicious, curved sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu3Wa0sUURgH8F0kYqUv0IsSWSzcQnMh64UEgRBUkNH9QtGdojdSpCZGF1m6oahZZCgKYmK1EURI0e0T9JGe+M/pf3zm7JltZ2eKXnTgYWdnzsz5zfOcc3YzmX+/ZcUfvut/vGXl0eABeTCwP4hSX48MX98XBBHzY2dkbuS0zDw+5UG5L5EYbkBEAcRwMdMPT8qz0vHQwPiOa26EUbGQWRkZOliBwicgDIImh4/K2O3DQV98+kDor9Gflwbl48K1+lAE4ZjZIWjq/okAxL5RINz3aXFAvpXvyPfyvQAUC4OH8q0JwqA+0MTdIxaEY4LwHIIWJs6GQDiuEZQNlQEDcXLjuwvC4ECwvDhmWVpbuy1q6emF9EDMEs75QMwkIS0tOwJMW9teC3rz/KIFIWKBOC9cEAZ3QeyH+5qbt1vMps27paPDINHv7YtLYdDLG8lBOA8QUcxkFKaz02wHAL2bvpwuCAGABqEf+jc1bZV8vks2bNwZgIhq39IjxeKhoM+HuasW9OX1rVoxaGGQRnH5EoS+69YXQ9nRUSjssjD0rROEZiYnVszvQMyOhiBTOMfnIJbne+sFmT0IGaoGiioVMkWE3hQ1KMamaJa8D4Tgw10MSoNPQvAMYpDJVEFEITCAD8OsAI37iEkdpLPEHVhjMGE1Jgq0+OScBWGXrhGDZlaYD4Rrk0M5KY832mXNMmF+RYGQHfxs6AzVBXLnEa5ta2+Q/vOrZfxmTl6NNlpMFIjlws9GaiCicK2wNiNd+QY5tmdVkCkXBLj+60EQdmkNioEyIF/ZcO1Hec2vB5nQu3gUCH873s9csSDsQTH2oTCIKJyfLeXk66zJCgbCebdcLgjZSQzCKvOBRvvMhMYxBtP/gTQI9+pypQbSZSNoeWoFhMHdchGEZxCEJa9B2INi70NRZUPgjdGnGkjPn1RAvrLxrTEIrvkmNII/GyxXQhDayiqqFu78YbggbIoaxIgBqrVVIhl6/vxFULVWiayM/y1Z+wnwdSWCahVb5gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4Xs3Wa0sUYRQH8F0kYqUv0ItSEQu38LKQ9UKCIAgqyOh+oehO4ZsoMhOjiyzdUNQsMhQFMbHaCCKk6PYJ+kgn/jP9nz1zembbcafwgcPOzjwz5zfnuexmMiu/ZcUfvuv/vGXl8cABedi/P4hiX48MXd8XBBFzo2dkdvi0TD855UHZl6gZHoKIAohhMVOPTsrz4vFIYnzHNRtRVCJkVoYHD/6BwicgDIImho7K6J3DQV98+kDor9FfFgfk0/y15aEIwjGrQ9DkgxMBiH3jQLjv80K/fC/dlR+l+wEIOToaG4Ow2U0Ly863JghJfaDxe0ccCMcE4TkEzY+fjYBwTJDNblo2MgxIxMmN7xaE5EBweHHMYWlt3elQi88upAdilXDOB2IlCWlp2R5g2tr2OtDbFxcdCJEIxHlhQUhuQeyH+5qatjnMps27pbMzRKLfu5eXoqBXN2oH4TxARLGScZiurnA7AOj91OV0QQgANAj90L+hYYs0N3fLho07AhBR7R09UigcCvp8nO11oK9vbjtMYpBGcfkShL7r1hci1dGRz+9yMPT1gWz2mBZOTqyYv4FYHQ1BpXCOz0EszV1dLijcg1ChSqC4oUKliNCbogbpTdFmNy1c8j4Qgg+3GAwNPgnBM4hBJVMFEYVAAh+GVQEa9xGTOkhXiTuwxmDCakwcaOHpOQfCLk1MVSCsMB8I1yYGc1Iaq3fLmsOE+RUHQnXws6ErVGV10MogO49wbWt7ndw8v1rGbuXk9Ui9w8SBOFz42UgNRBSu5ddmpLu5To7tWRVUyoIA1389CMIurUFE2eyeFoJ8w4ZrP0trfj8oDL2Lx4Hwt+PD9BUHwh6UYB+KgojC+ZliTr7NhFVBIpy3w2VBqE7NIKwyH2ikL5zQOEYy/R9Ig3CvHq7UQHrYCFqaLIOQ3A4XQXgGQVjyGoQ9KPE+FDdsCLwx+lQC6fmTCsg3bHxrJME134RG8GeDw1UjCK28iiqFnT8MC8KmqEGMBKBMhtt6pbBAHXr+pAKqtllkNVhGue9/ahbpC3vPim6/ADqIcA7XVtCeAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril scimitar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_scimitar",
     "equipment": null,

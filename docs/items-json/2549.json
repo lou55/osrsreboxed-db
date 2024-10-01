@@ -1,7 +1,7 @@
 {
     "id": 2549,
     "name": "Bronze fire arrow (lit)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-03-03",
     "duplicate": true,
     "examine": "Arrows with bronze heads wrapped in oily cloth.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCElEQVR4Xu2TQUsCQRTHHWVZ7GBIiXXx0CkzCiGQKCGxQyZEZQVGhEUHoYOWHjqERRFdAqtr1Lfo870cl3F23s6suzpph/4w7Mzbt+/95j+zgYAWEcCRMYrAVDQKfwSKQKlYhNl4fFxAtKm9MYHtzTzMJRIQNk0XKPydFhG4bzaQGxbQYjLZja3NByWNCZwclHQfK4GXu5bDjfVEqBuj852VEOx2gEwjIAC3rq9gK7eh+1gJNKpVwQ0GtJxKdec3q0YXKNIBYlCvjw9wenQImXS6z5H6FoHLs0rPDQZDB51XcgbUMgbUcyYsTBOYCFpAn+027BUKtk1oE4HzcrnnBgNicwr0cTwJzQ7Q0gzpOfT1/oZctWqJtX1LbI7dYTnfTzF4vohAIibm5bNZYSP0gg8JZQeSrXnMDo7XdNALPuTlVjfHgO4x64Ljv5TX9Cx5cxmg2h0rh15w533yJXVzDOgldluv6QbCax7zmidecF9SF3WP9QNkw7fkjWQwXvMGBKGSFVDH7Lv3BuhbuAiB/bDhiHlrLov5Ei7AYeiTDusdBsJrXmsIILkTDILDWHGc52wsi3mW6AQuLALhncs3os0d8WjEHPaUwbg7OJCwEzJxhzAQhtEAxKQqwptjAPEbLe70kwUjPx4xzwn8a2JOqI5V5eBIhJuJMHLgkWqs7qjEjxS/+ZdO/QA4wxCe2MBZaQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKUlEQVR4Xs2VQUsCQRTHHWUROxhSYl1EOmVGJQQSJSR2yISorMCIsOggdNDSQ4ewKKJLYHWN+hZ9vpezy+zOvJ3V3XY0/zDs7nP2vd/7z1MDASUigCP/KAJTsRiMCRSBSrkMs4mEDrSSSo0airrAO0FgZ6sIc8kkRMLhPi7h95SIwEO7ZbrBYhRoMZ3WY+vzQUlhAqeHFdXHSuD1vmNzYyMZ0mP0fnc1BHs9oLAWEIA7N9ewXdhUfawEWvW64AYDWs5k9PvbNU0HivaAGNTb0yOcHR9BLps1m1AGdHVeM91gMHTR+1pBg0ZOg2YhDAvTBCaCBtBXtwv7pZLZBIVRBnRRrZpuMCB2T4E+Tyah3QNamiGmQ98f74KrBozvORKLY3dYkZ/nOLxcRiEZF/cV83mhETrgPqEsIFacf+ZjPDh+posOuM/hdi6OAfvF6KIDjr+luJoLyYvLAJ3cYXvogON58uiSc3EM6CZ212zYgHDFAZIXlwG63ccPuEcg56RiMhzrD8iWldO15IVkgG738TFfMLKk/D6+e3eAnoWLEziIaLaYu+I4l2fhBBYMvdJFYxgIPztDe5LcCQbBrvLOB7vjEUh0QuzIcKCfO7JGlLkjHo0hVgR3jt+T7fmDO0yiE/JElkMYCMP4cMcS74Q9kVUcA4jvKHFHlD2JASM/HmO/cncGy/rpx0Dsc7mDQxTvhHgcIowceMhy485Igezy9W8+HDGQsYBRpV+JbLEuKaxZ0gAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze fire arrow (Unlit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_fire_arrow#Unlit",
     "equipment": null,

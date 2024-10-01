@@ -1,7 +1,7 @@
 {
     "id": 20430,
     "name": "Ancient magicks tablet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-08-04",
     "duplicate": false,
     "examine": "Breaking this will unleash an ancient knowledge.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcUlEQVR4Xu3WfUsVQRQGcPePPoAoiYqGSYYvaIaZYb6EqZlx08zMzDTzLfMlM70YESLSZ7Av0Nd84gycy+nsmevM3v3TgQcusu7+eGZ2dqqqrkdFI0E+yWUkeNzfj0d9fXjY24sH93pwv7sbPZ2d6GpvR0dbG+62trrcaWnB7eZm3GpsRFNDA+rr6nCzthY11dUuOaASjA0NYXRwEMMDA//ByuEYZuEqQCV4/nQMz56MYmJkxMF8OIaVwzGMkgGVYHZqCi8nJ11ejI+ncAwr3NgrxdeahYtAJXj3ahZvZ2YwXyhgbnq6hGMYRUJ0QqaUEohKgyRKP7xcJMhCBYPev55LoQikH2hNIa0tfZ2vpYpAfHM5dfrBFL3gJUijokASxQ+LnTZC8W+rpWDQhzfzJkg2Jd+8v38uU9uCDyRRUSBG8Q3l1PG0MYpAei2FtBQMWl1YcCC+EYP4t9wGCGO1ZIE0qiKQtZYoBOGEtESJBq0tLjqUDyT3JYLIXZxRfK3eBuQnJhokUbTANYgwchuQLVkgvXsHg9aXllItyTeOF7gF4qboOj11DGJUJpBG6Zb0d06DZFP6dBAM2lxe9rYkUVdFT50EUTKBLBR/UjSAoo8p9DffGSoY9HllJdWS3gYovuOJvs4CUTKDJIo/Kfqh5VoikIUKBn35uJpCSZB1GtAtWSgJogSDjnd2sPdprQTz4fRH2MLpt49xUQ1dFIso7u7iYGO9BNOtxeJkewQLxPBIcH5yjJ9fD/Bjf9/hqLWj7W0cbm26SKyvRb3uKASNxPBI8Pv01LVFuLPvR/j17dBFQyX2qlYzYnjQP+ed65HP+AcIoe8z4Y4BrQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4Xu3XfUsVQRQGcOePPoAkSUqmSYYZvoSZYaZhZmbcNDMzM83MzHzJzC5GRET0GeoL9DWfOBPncjp75t6Z3ftP0MADF1l2fjwzO7s2NPwfhYZDfVKX4XB9aAjXBgdxdWAAV/r7cLm3F309PbjU3Y2LXV240Nnpc76jA+fa2nC2tRVnWlpwurkZp5qacLKx0acOKIeJ0VGMj4zgxvDwX7BqOIZZuAIoh7u3JnDn5jhuj415WAjHsGo4hlFyoBzmpqdxf2rK597kZAbHsNKJ3UpCrVm4BJTDkwdzeDw7i4VSCfMzMxUcwygSohOzpJRIVBYkUXryapEgC0Vz9be310I5PH04n0ERSE9oLSHtLX1dqKVCIL65XDo9MUVveAnSqCSQRPFkqctGKP5ttRQNevZowQTJpuST9+vnj8yxEAJJVBKIUXxDuXS8bIwikN5LMS1Fg9YWFz2Ib8Qg/i2PAcJYLVkgjSoEsvYShSCcmJYoyaD1pSWPCoHkuUQQeYoziq/Vx4B8xSSDJIo2uAYRRh4DsiULpE/vaNDG8nKmJfnE8Qa3QNwUXaeXjkGMygXSKN2Sfs9pkGxKfx1EgzZXVoItSVSt6KWTIEoukIXiV4oGUPRnCv0t9A0VDXq9upppSR8DlNDnib7OAlFygySKXyl60motEchCRYPePF/LoCTI+hrQLVkoCaJEg462t7H7Yr0CC+H0S9jC6aePcUkNfSuXUd7Zwf7LjQpMt5aKk+0RjDERIBoOXz8c4dPbfXzc2/M4au1wawsHrzZ9JDbUot53FIImYng4fD8+9m0R7sv7Q3x+d+CjoRJbq9WcGB76X+HiKYD5M/gG9Yye458YvwF00DKj3YsxngAAAABJRU5ErkJggg==",
     "wiki_name": "Ancient magicks tablet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_magicks_tablet",
     "equipment": null,

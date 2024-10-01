@@ -1,7 +1,7 @@
 {
     "id": 61,
     "name": "Willow shortbow (u)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "An unstrung willow shortbow; I need a bowstring for this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xu3Va2sTQRTG8eYjiKJYsX4VXyiiCLZYjERtraVe6t16IVTFSylWpVDqBYUWKqWWogVBVBRFP9nIf5dnPTM7idnsKr5w4LCb2dnMLzPnTHp6/v1Wc/GIPf/jreYeTR50M82BJKZv9LupqweSEGJ5bsQtzQ67xcdDEVT4I0rDU5BQgBQhZuHhUfd8uuFNzGeeheGjCiFrbvbWYA7FFYhCoKdTh93cnUPJWK4xEOMt+uvapPu8MtEdSiDutToCvXxwJAFpbCsQ731Zbbrv63fdj/X7CagQhi/VrxaISWOg+Xv1DMR9DLQyf8IDcd8hqOZtAxMpufkcgpgchLbXguwWEZWBtEr0xUBaSYFYNb5npLE1i7FjvUkfIKIQSHkRgpg8BNmEFojvaAxucbt3boiuUAJ6fb08iH5AQmklbUVaEFfl0LuFM9WCCAAWFCa0BdUHNmcgxn5YOpeBvr253SmG5oMsSuUbgoRhHO+fHd3m+vdt8kAfX13oFkRL95zJ2oHChBbo9PFet3/PRg/0aflyt6D0DGKFfgcKE1ogKmrvrl8gxltQgUMxLfkYiIiBbP5odcgfVRjjKgUJRejEZQLubULzLueNtttuV2Ugu0pcLYhxSmiL4R2VukCrT0YzEKd0hxhaWmExkP4OANlVsBhWKwSBX3s25q1QVyC7bSHgyvj2pLTJFzBD9fQQDEHarrcvTlYHou/mxA7XvNSXQC6eSiEhEoxdSQvilLagAqgUZLeNvmvn+3IAntsKawVii98vjmcgzqAC55APsij6NIFK3mJiIFanNIjqCUHkkQUxWfiXIRDj7HZVBgqrjX4LCk9onVW8p7GAKHkL4gwqfA7Fts2CuG8HsvlTCSi2bRbEs1hCE4yz+VMSRPOrqVWE+aMIQRyKFqQoAOq05ZEKmz9/EdSu5ZH5+N/KtZ/l8U+K0fWuewAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC30lEQVR4Xs3V+2oTQRTH8eQRRFGsWPsIPoJ/KKIItliMRK3WUi/1br1QquKlFG8USr2g0EKl1FK0IIiKouiTjXx3+W3Onk5itlmlA4fdzM5mPjlzZlKprP9WDfGIPf/nrRqejh8Kj8f6kpi81Rsmrh9MQoiF6cEwP3UizD0biKD8j+gYnoKEAqTwmNknx8KryXpuYj7zzEceVQhZDVN3+lehuAJRCPRi4kiYvnc4Gcs1BmK8Rf9YHg/fFkfXhhKIe2VHoDePjiYgjW0G4r3vS2Ph18r98HvlYQJijp09PUn42V1L065fLRCTxkAzD2oZiPsYaHHmVA7EvUB+dtequWVgIhU3nz2IyUFoeS3ILhFRGkhZoi8GUiYFImt8z2B9axbDx7uSPkBEIZDqwoOY3INsQQvEd9T7t4Q9uzZEM5SA3t3sHEQ/IKGUSbsjLYiraujj7LlyQQQAC/IFbUG1vs0ZiLGf5y9koJ/v72aYwiCL0vb1IGEYx/vnh7aF3v2bcqAvby9FQX72Ji1dcyZrBfIFLdDZk13hwN6NOdDXhatrBaVnEBn6G8gXtEDsqH27GyDGW5A9FP3srqVbPgYiYiBbP8oO9aMdxrhSQUIROnGZgHtb0LzLeaPltstVGshmiasFMU4FbTG8o60u0NLzoQzEKS1MWyB2TgykvwNANgsWQ7Y8CPzyy+FchtrMDq0BssvmAddGtidbm3oBM1BLD0EP0nJ9eH26PBB9t0d3hLEr3Qnk8pkU4pFgbCYtiFPagoTys0daCrLLRt+Ni92rADy3O6wZiCX+NDeSgTiDCpxDeZBF0acJtOUtJgYiOx2D2D0eRB1ZEJP5vwyBGGeXqzSQ3230W5A/oXVW8Z7GAmLLWxBnUOFzKLZsFsR9K5Ctn1JAsWWzIJ7FCppgnK2fDkG0/G5qFr5+FB7EoWhBigKgSkXHeqvwQBu2fkoBtds8sh2sojH2PzWPjIV/Z123PzAEmhbKZ29rAAAAAElFTkSuQmCC",
     "wiki_name": "Willow shortbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Willow_shortbow_(u)",
     "equipment": null,

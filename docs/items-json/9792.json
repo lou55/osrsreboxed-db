@@ -1,7 +1,7 @@
 {
     "id": 9792,
     "name": "Mining cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by the most skilled miners.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4UlEQVR4Xt2XYWrCQBCF3R9SDKIEC8EEFQxW0hStoraCbRGkRSqItBfpJbxADzzlzXY0plhjMRvpwBIMm+znmzezm1wutVAUv3PCwMuPWUCRZeWPfCZx6JfnC1bCBRRVKha1fT/h/D+ForLjfi+wTy1933XLv8w5aShy/IBKpQLZdjEGp8jzLqlet02ARENR0K5RtWpzWqAGRqvlUbNZpTBsmAfqdJq8cKPukOMUN0CANAyDUHQ3CmgyuWEwgMh1m0Zjoej97YGGwwYNBlcMgjThCv9koJCi1WpC/V6NFQJUr+ezOkgf4IwDLZdjBnp67NB4fM1X8VMmQIvXe+p2PVYIQBiousyA5vPRDhAMfjZAgPlcr+ljccEDQNsunXoohghDl40t6sDUgIJC0pcyA5IqgzoCZRRIV9QuEHqQeAi9KBMglD7SFQWCf4wDTae3B4Gw4WYGBO9kCjSb9bnkAQQYGDoKhL0MXjJwJtIVFgQOd+poyccVApCBXvQTSEr+LICihpbDmuz4hnrRtuQFSNQRIFFJgPAHUoTSQNjH4umKAolKqDTMMwIk6ToEhHlnBYQ5eCYlKH1SjBp6HxB8hIHfKcFI6NPiy/OAGyS6NhSAedEIMeQbzUDZS2CRpOMfxRewCeI52FqS0gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4Xs2X62rCQBCF3R9SDKIEC8EELxispCnesLaCbRGkRSqItC/Sl/AF+sBTzqajm7XWCG7iwBIMu9nPM2dmk1zOWAjS75wx8PBTNhBkWfkT1ySO6OH5gpVwA0GVikUd35fz+81mgjUnh6Cy4/4CHVIruu+65e0cwBgCQghy/IBKpQLZdlGDE+R511Sv2zEQgzAcgoJOjapVW6YFamC02x61WlUKw4bJNP0Vgrrdlty4UXfIcYpbIECmkCY9BD2MA5pO7yQYQPjKaUwV5vPjie7vGzQa3UgQpAlX+EdVSF9pKASt11MaDmpSIUANBr5UB+kDXOpAq9VEAr08d2kyuZVX9lMmQMv3R+r1PKkQgDBQdZkBLRbjGBAMfjFAgPnebOhreSUHgHZd2ngICRGGrjQ2qwNTAwoKcV9KSaV9IK4yqMNQqQJFFRUHQg9iD6EXZQKE0ke6VCD4J3Wg2ax/FAgHbmZA8E6mQPP5UJY8gAADQ6tAOMvgJX4n0p9wxogqLAgc2anVktcVAhD3IoMq7QNxyV8EkGpoflnjEz+lXrQreQZidRiIVWIg/AGDPoqAcI7p6VKBWCVUGuYZVGkHxOk6BoR5FwWEOVhjKG3Rm6Jq6ENA8BEGfrNCxlQC0NvrSDZIdG0oAPOiEWLwN5pa9oZgOOJfqv+NFGCi4I2SDH1t0vgB8lMf7fbg8AwAAAAASUVORK5CYII=",
     "wiki_name": "Mining cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_cape#Untrimmed",
     "equipment": {

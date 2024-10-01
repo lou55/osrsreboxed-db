@@ -1,7 +1,7 @@
 {
     "id": 12213,
     "name": "Bronze kiteshield (g)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "Bronze kiteshield with gold trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACp0lEQVR4Xu2XwYdVYRjG53NdxzmOk5TJiKFikqEUNVqM2kSRZDYZKpKhIhlGSmSkJhkpo1IyKkYtIlpEtIgWaRHRIqJFWkREi/6AN7/v6+1+99zvzp177rkzLebhZRaX+c3zvN/z3unpWVapMuLmv5CR22OxPDub/IVaUjAjD0/HMtif2XkyHsvbqXQpwZw7CsRsWbdCXl9K5MudRQczMn00qoNRIOblxUQ+zaTy+3G2WGBhd/zZtmGlfLyZyvfZTH4+8sFKhzMycbC5OzovLiTy5koiH66n8vlWKl/vZvLjQSa/5kqHa+2OxvbuWirDg73/BjD269t9B1cfaSE4I+dGWrvz/Hxil/v9dD2QPzhGnOpaDa4tNboTAtK4dm5a3QASGoB4BG0Chd3JA1GSxEUnLQSIhSfCNmFQ2J08lMYFTCsgIqsteVsyMr4/kpnjsdw74SYE9HQiqYtrPiBcKQwzMlSVq4cjuXEsti7Nnort2fBPhx/XjoFVLYGIqsDeICMn91ZlfV8qG9dmdgAAhvvlj8bVCkhfVyGYA9srFiYP5O8NzgCDO8TFQtNBIaAOokJG+nuTeYEAYW9eTTp3FIYOoqU5HwqjbQ10ASAjR3ZVLZBChYCAwRmNSuNSGPZEG5qo+LkADDKyb2vF7k/eJQXiVQGDOwqT3x//XNSObCEZGRqoyOhw1RZiKDbi0qiaATG7N6+x7vD5DoCQc2lsj3tlPtDcmbghqjyUvzsAdQijMtYlvnL4QMSVj6qZQwBRCyUBIWNdmjwUWRiK0e+cEIy/QwCVCIPci8Ml2lrjysM0A+IPKBkIuca+PBpZILrEL0G/e/JPvgswKvcVhOMKlB5TdilfiArFQe4iEHJQOMV/HnpsWVo9ruwWcAB1GUbFL1noLKv7+gORHWCDQ+0CZQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xu2Xz4dVcRjG5+u6jnMcJymTxJiKSYZ+UaPFqE0USWaToSIZKpJhpERG+iEjZVRKRsWoRUSLiBbRIrMYokVEi7SIiBb9AU+e77e33vu933vPveeeuVP08DKL+fGZ53nP857b0/NfpcrAzV8hg1tjMZ6eTn5BLSqYwYOTMQb7MjuPx2O8uZwuJphzR4A4G1cvwasLCT7e7jqYwdThqAZGgDgvzid4P53ix6OsW2Bhd/RsWbsU726k+DKT4dtDDVY6nMHE/sbuyDw/l+D1pQRvr6X4cDPFpzsZvt7P8H22dLh8dyS2uasphgd7fw/BuF+f7zm42kgLwRmcGcl359nZxC73/FQtkB46xjjFtT9wbanenRCQxLV9/fI6kNAQiA8Bf/+m/v5WocLu+EAsScbFTmoFiAvPCAWmLaCQOz6UxEWYPCBGJkveNsz43gjTR2PcPeYmBPRkIqmJqxkQXSkMMzJUxZWDEa4fia1LMydiezb06dBxbRtYlgvEqArsDWVwfHcVa1amWLcqs0MAwvB+6ZG48oDk6Srkzr6tFQvjA+m9oTOEoTuMiwvNDgoBdRAVZdDXmzQFIgj35uWkc0dg2EFsaZ4PgZG2JnShqA7tqFoggQoBEYbOSFQSl8BwT6ShGRW/LuzOns0Vuz++SwLEp4owdEdg/P3R50KObAEYymBooILR4aotxFBsjEuiagTE2blhhXWH318gKi3n0tgu95RpoNlTcV1UPpTeHQJ14I6WsS7xlUMDMS4/qkYOEYi10KE7Wsa6NHkgsjAsRt05IRi9QwQqyR2Re+LoEtta4vJhGgHxHyjRHZFr7IujkQVil+gS1N3jP/Ilu6PlXkF4XAklx5S75BeiQPEgL4A7Wg6KTvGThxxbLq0cV+4W4Qi0gO5o6ffg5tMFGCf5Q62M/7P/vH4C9xWcueDbsMYAAAAASUVORK5CYII=",
     "wiki_name": "Bronze kiteshield (g)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_kiteshield_(g)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 1306,
     "name": "Dragon longsword",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "A very powerful sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu3V22vUQBTH8V2WReof0QfBQosg9aF9EeqLgi/erXdFRUURQRSlFMVLKfVCodQLKi1USi1FK4KoKIr+ZWO+SX/xZHa6JpsoPjhwSDaZZD57zsykVvv3W92FI3T/j7e6ezC6190b2R3H+PVdbuzqzjiEmJ866eYmT7jZh8cDKP9PlIYnIKEAKXzMzP2j7un44czA/OaeH1lUIWTdTd7Y14LiCEQh0OOxg27q1nDcl2MIRH+L/ro06j4vXOkMJRDnyo5AzyeOxCD1XQ3Ec18WR9z35dvux/LdGFQIw0v1rwVi0BBo+s6BFMS5BfEujgvTpzIgznOC6pkyMJAmN799EIODUHktiHdtXtOIj0tPzlQHUpa4FgIpkwKRNd6zvavhBldAb56dTUFEIZDmhQ9icB9kJ7RAvGNPV9NtiTAbmwno7YtzWdCra+VBXAcklDJpVyTPH1vbdDui7FCuvmYtvvZu5ny1IAKABfkTWqBDEUjlWt9IQB/mLqagb69v5sXQsiCL0vL1QRazP8JsjSCbVkpF0Pfjy0udgmjJixisHchO6BBGS5++n+YvdwpK9iAy9DuQsmgxKpG/KVpQgU0xWfIhEBEC8YxWlDLLO2x2KgUJRWjHZQBtfGC014DmOZudSkE2SxwtSBgta2UxBFp8dDoFsUvnxNCSFRYC6XMAiH4sa5WI+bUaCDyfDZuhjkD+PNLghL5PdocOgVQuPhuVgTRxtw0NucH+/hTFfbshcm4zaUHs0hZUAJWA/LLFWRkYcOu6u92G3t74yLU8IEr8fvZCCmIPKrAPZUFCcb2vpydTNq775fJBZKc0iFXmg/QF1z9mMPvJsCCeteWqDOSXjesW5E9o7VU8p76AWPIWxB5UeB8Klc2COG8HsvOnElCobBbEvdCEJvTZULlKgmi/Jm678OePwgexKVqQogAob2tFKuz8+Yugdq0V2Rr/W7n2E6nrQ4Ul8+6yAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xs3V60sUURjH8V1kCfsjRIIEJSh7oW8Ce1PQm+73KxUVRQRRFCJJF5FuCGIXKhQMMZEygqgoivrLTvud8Tf7zNPZbdedwgMPMztzZs5nn+ecM6XS6m/lEI/Y/X/eyuHRyL7wYHhPEuM3d4ex67uSEGJu8nSYnTgVZh6fjKD8n2gbnoKEAqTwmOmHx8Pz8aO5gfnNPR95VEvIcpi4tf8PFEcgCoGejh0Ok7cPJn05xkD0t+jviyPh6/y1laEE4lzZEejl/WMJSH3rgXju28Jw+Ll0J/xaupeAGGNTd3cSfnTX0rTrXwvEoDHQ1N1DGYhzC+JdHOenzuRAnAvkR3etnCsDA2ly89uDGByEymtBvGvLmo7kuPjsXHEgZYlrMZAyKRBZ4z07OjvC4DLo3YvzGYhoCaR54UEM7kF2QgvEO/Z2VsLWKmZjJQW9f3UhD3pzo30Q1wEJpUzaFcnzJ9ZWws5qdihXX6WUXPswfbFYEAHAgvyEFuhIFaRyre9IQZ9mL2egH29HM0zLIIvS8vUgizlQxWyrQjYvl4qg7+fXV6IgP3qdlr6IwRqB7ISOYbT06ftl7upKQekeRIb+BlIWLUYl8puiBdlN0Y/uWrrkYyAiBuIZrShllnfY7BQKEorQjssA2vjAaK8BzXM2O4WCbJY4WpAwWtbKYgy08ORsBmKXFqYpECsnBtLnABD9WNYqEfOrHgg8nw2boSazQ6uB/DzS4IS+T3aHjoFULj4bhYE0cbcPDYXB/v4MxX27IXJuM2lB7NIWJJQfPdJSkC9bkpWBgbCuqyts6O1NjlxrBkSJP85cykDsQS3sQ3mQUFzv6+nJlY3rvlweRHbaBrHKPEhfcP1jBrOfDAviWVuuwkC+bFy3ID+htVfxnPoCYslbEHtQy/tQrGwWxHkjkJ0/hYBiZbMg7sUmNKHPhsrVJohWm7iNws8fhQexKVqQogVQqaRtvVF4oA07fwoBNds8shmsotb3PzWPjIV/ZlW33/PvjhEt0imgAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon longsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_longsword",
     "equipment": null,

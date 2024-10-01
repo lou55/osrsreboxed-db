@@ -1,7 +1,7 @@
 {
     "id": 25402,
     "name": "Swampbark legs",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": true,
     "examine": "Strong leg protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xu3W/UsUQRgHcI+IMORCjIsr8ugkDzopjbyMODgQCynQuLJSuVApSSJ6DzmKXkR6QxB7oULBEBMpI4iKoqi/7InvLM/27Ozctnu7Rj808LBze3O7n32emdmrqfn3W4zMYfp+1VuMHpaLdH/8iIrJ6700caVHBSMWpodofuoUzT0qGVD6Q4SGWyBGAcShY2YfDNKzyX7HjfEZ3+nhRAVCxmjqxlEXCkdAOBj0ZOIETd/qU2NxNIEwXqK/LZfpy+Ll6lAMQp+zw6AX9wYUiMdWAuF3X5fG6cfKbfq5cleBAmFwUX5qBuGmOkg+tVfJFmeGHSD0fYJijjIAwZMbnyUIYzcnailRv05FfXytCpzXQctPT0cH4izhHIMY4xf09vkZG4QIBOJ5oYNQCi8Qo0ygdy9HnaDX18KDcB4ghAmEfiXQ+9mz0YIQKKUEHc43UW9hO/V1ZejkwR1UOtRCBzq2UTa90YFCRj/On7NB39/c9ItBc4IkChdnzIX+dgUBoHt/moZ6dtJAd5Y6cynKpBpcoE+vzlcLQrOW78yd4xVBlwZzKiP51i1U2NNIY8faPEGfFy5WC7L2EWTIC3S1tFdlBRnKZZMKhLIBp4PwGwkKsClaS94EQkhQeXgfjRZbqdjZrOYM+iYQshMpiFEI3AA7LqNyLQ0qMqk4dXUkVexq3qBiVUAySzjqoMbkerXUs01xyu9O2MseRwlaejxig7BL+8SgWSvMBOL3kwlUV7tG9bEXoS9BGIvXhsxQVSB9HuG8CQQAI3QQlwuvjchAjMJ53ECfQyiRBJnmD3ZpCQqAskCmsplAhfZNdla4ZPw64Qxh/Ie5MRuEPSjAPuQEybJJEL9cGcTl4yxxhgAPDcIq+xMIN6sE4pcrlysykF42nNdB2H8YkN5aZwRhyUsQ9qDA+5CpbBKEPlaedVHrvzf3ETyhMTYSkKlsEoTv5N8S9Hk3xzg5f0KC0H4/qVdIjAwdhE1RgjgCgPw2N5JDzp+/CPJqbqQ7/rdw7Rd7m+wi1ADoGgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xs3Wj0tTURQH8I2IMGQhxmJFziY5aFIrchkxGIiFFGisrFQWGiVJRL9DRtEPkX4hiP2gQsEQEykjiAqjqL/sxPeO83be8W7tuWd44fDu3u68n3fuvecZCKz9FiR72L5f9Rakp/ksPR45bmLsdjeN3ugywYjZiQGaGT9L089yFpR+iKrhBRCjAOLQmKkn/fRqrNc1MT7jOx1ulCdkkMbvnFiGwhUQDga9GD1NE/d6zFhcbSCMl+ifC3lamru+MhSD0OfsMOjNoz4D4rGlQPjdj/kR+r14n/4sPjQgzJFsbDShZ1etkHZ+agZhUg2ST11uyeYmB10g9BmkZ1ct6FoGIHhz47MEYezWcA2F6zaYqAutN4H7GrTw8rx/IM4S7jGIMZWCPr6+4IAQnkC8LzQIS1EOxCgb6NPbITfo/a3qQbgPEMIGQr8U6PPURX9BCCylBB1LN1F3Zif1dMTpzJFdlDvaQofbdlAittmFQka/zlxyQL8+3HUwnkEShT/OmCu9rQYCQOehGA107aa+zgS1p6IUj9YvA317d9kK0rOXaIXjO/ngVEnQtf6UyUg6uY0y+xto+OTesqDvs1dXCirUEWSoHOhm7oDJCjKUSkQMCMsGnAbhNxIki6KeXbXCkbeBEBKUHzxIQ9kkZdubzZ5B3wZCdnwFMQqBCVBxGZVqqTcRj4aooy1iYk/zJhOrApJZwlWDGiIbzVFPNIUovS/sHHtcJWj++TkHhCrNmIpAOGE2EL+fbKDamnWmj1qEvgRhLF4bMkMVZgetCNL7CPdtIAAYoUG8XHht+AZiFO5jAr2HsEQSZNs/qNISxCg9u6UVQLZls4EyrVucrPCS8euEM4TxX6aHHRBqkIc65AbJZZMgfrkyiJePs8QZArxqEE7Zv0CYrBSIX668XL6B9LLhvgah/jAgtr3WCsKRlyDUIM91yLZsEoQ+Th7GI1DFuY/gDY2xvoBsyyZB+E7+W4I+V3OMk/unShBa8UnLhcTI0CAURQni8AAKBLislwsNlCH3jy+gSptGVoLlKI79T00jbaF/s6bbX8WfNr2E0uYHAAAAAElFTkSuQmCC",
     "wiki_name": "Swampbark legs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Swampbark_legs",
     "equipment": null,

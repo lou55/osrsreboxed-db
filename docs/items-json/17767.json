@@ -1,7 +1,7 @@
 {
     "id": 17767,
     "name": "Cup of tea",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": true,
     "examine": "Some milky nettle tea in a porcelain cup.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADP0lEQVR4Xu2W3UuUURCHPVfhXxBeB0bdBNEnZhqmmUkmIlZimomYmWZmlpmIiGKWmWZWsmZmKiKKyFqmVktBRX/UxDPL2Loa7ruteLMDw7rrec885zcf501IiFvcdsSchP+yAwZE0Hu729b+/rdvi/0N0Nl+X9paGvRzoK9TXg/2yPDQE/Xmu7Vyo6pMrhQXSn7eWck4lbodUE4BGm9XS8OtKmm6U6PfUQeI8Tcv1CfevpTJd8PqU+996u2tjbGGclJxtVgqr5XoyetqKlSFro4HMtjfJWO+5zIzNSrzsxPin5+WD/5ZWf44L5+X/bK0OCdzM+PS39shWafTYgHlNPDFwgtSXnpJoVCIU2fmHtvSf/0IKBigo76BWEA5yc3JlJzsDK2J8ICR+O+f3yTwZUmVQ63srPRooZyCHD96SE6mbgzkxQ2K1EcJgznpaGtSqPAA0ThNcLkof61TowBzWqwUJGkLD+DV6dDExF1SVlKktbR/X7JXKKddQveMDD/zDIW6rc31OiLqayvlZnW5zqxHnQ9VrRMpR7wAOe0kNrQuQa283DNSkH9Ou44ip/OuV5ZqMIKiAiOB53i+5V6dArHO5hhjAjCAIwQK1g4b2IZstPJpQfwLM7IwNymz02M69BiEtDPDcWigW9P7uKtVJzhAgAKfnpayBs8Bed736qmqFQHUeiDmDg7M98CKbkgLk8rpiRGd0GzOkOzraVcgDkFHAUObozDPUwIozQGYb9TUFkDBe4rTIT1pYDLzCRQbMoUJYCqRAgIARBAOgTIULylGQWoQaD6594gR4QgI1o7BcFWwuUHhnJQBB4ypQ7pQB2VJL6kpLDivqaJegGUNMKSJfZKSdkcGxCkAYlM8FMrASBX1Yye22qGYWUNQvgPJ/wyKtaZgBDBmTgsXWYHh/goHsxSiBvXCAQhE3aESqQOKt4FQKH5n/d7kPV6AMCdfVxf1VASnQ+zGD4UzMIIAZO2+GZS1OofwCGPmtKtIDRsxdyhUwAwKtUwpmz+mEgqHqsc66urwwQPRAmHBO4eL0d5tePmikFEAEEvbZirhBmJ7/QdMqIVuFnTmyWaFTZpwQGIMsZVthNzocYtb3NbZH2w1Qsre2rVfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYUlEQVR4Xu2W20tUURSH3U/hXxC+CYFRL0V0xUzDNDPJRMRKTDMRM9PMzDITEVHMMtPMSsbMTEVEERnLSxcpqOiPWvGtwx5PZybmkubLLFiMM56917d/67JPQkLc4rYtZsT7yzYYEI739bQH/v67b4ltBOjquCftrY36OdjfJa+GemVk+LF6y506uV5dLpdLiqQg/4xknkzbCiijAE23aqTxZrU0367V76gDxMTr5+qTb17I1NsR9el3PvWOtqbNhjJSeaVEqq6W6snraytVhe7O+zI00C3jvmcyOz0mC3OT4l+Ykff+OVn9sCCfVv2yvDQv87MTMtDXKdmn0jcDymjgC0XnpaLsokKhEKfOyjsa1n9+X1cwQMd8g5sBZSQvN0tyczK1JrwBI/FfP77K+udlVQ61crIzYoUyCnLsyEE5kRYcKBq3UKSeffcnJ6t7I4YxI53tzQrlDRCL0wSXigsCnRqDSkaLlYIkbd4A0Todmpi4Q8pLi7WW9u5JiRbKaJfQPaMjT6OGQt22lgYdEQ11VXKjpkJn1sOuB6rW8dTDgfR5I4cwo53EhrZLUCs/77QUFpzVrqPI6bxrVWUajKCowEhgHetb79YrEM/ZOcaYAAzgCIGc2mEDuyEbra0sin9xVhbnp2RuZlyHHoOQdmY4Dg/2aHofdbfpBAcIUOAz0lMD8ByQ9b6XT1StCNL2JxBzBwfm2/qabkgLk8qZyVGd0GzOkOzv7VAgDkFHAUObozDrKQGU5gDMN2oqjErOPcXpkJ40MJn5BIoNmcIEsCqRAgIARBAOgTIULylGQWoQaD6594gR4QhwasfCcFWwuYXCOSkDDhirDulCHZQlvaSmqPCcpop6AZZngCFN7JOUtDOcOpjRUwDEprgbyoKRKurHntjWDsXMMwTlO5D8z0LxrFUwAnWsGS1cZAWG+8sLZlOIGtQLByAQdYdKpA4o3gbcUPzO87tTdkWijtuMfPm4pKciOB1ib3w3nAUjCEC23UNB2VbnEFGo4zajXUVq2Ii5Q6ECZqFQyypl549VCYXd6vEcdXXowL5o1XGbc+dwMdp3G16+KGQUAMSmLZRKuAWxe8WozoY5C90XouPMk1CFTZpwQEJB/BOM24I3DIb0evCaLTZvwFDuXRO3uP1P+w1h1nlEoKJjmgAAAABJRU5ErkJggg==",
     "wiki_name": "Cup of tea (Ghosts Ahoy) (Milky)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cup_of_tea_(Ghosts_Ahoy)#Milky",
     "equipment": null,

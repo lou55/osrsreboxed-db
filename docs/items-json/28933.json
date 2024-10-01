@@ -1,7 +1,7 @@
 {
     "id": 28933,
     "name": "Sunfire fanatic helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "A helmet forged from sunfire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPklEQVR4Xu2X/UtTYRTHfRCRDVFk4diGGzNQzJE52ly4lWJqviCZaJohipWYKMte0CJNlDJFqZBMShHDUAwxIQiKIugFCqEIgqD/5eT3XB7vbU0Fd2f+4BcOyNXd5+M533POs5iYPUVVgkKf/EcJGrywj3YRlKA7bSm7C2i4XQJpIyra6sWCxi+baawzhe5fOU695/Oo47SbGkqzogEl6FaL9MZGLxf0uMfCUJPXS2ioI5+6znqpsdxFFYH9m3xu21LK0VKZtAGYoNleKz26ZqapvjIaCRZQd5OPzlVlU3VhOgUO2Tb4XERSytLTaKKqYwmaAxSY+QErZ+npQMV62S7W5FB9yQEq9DooOz2FLCaj/lDTNywcrVVJVOA20LeVfoZZGrLx88W7J+lhdzENtgUoeMbDPirNSyN3ppk6a5OpyKsrlKC5fisHIG42m6iuKJFhXo6m8vPl0Woum/RRTUECZxUwgWyDnjBSggG08f2Zh34+z2VIuzmWs4AMYlBKGE9mPCUlxEcCpHokXLy6l8rxdtxOq3Me+rHgpXeTObQ04uL218K40uLJm2WJBEhZA+gsGBlmhXEXb9toZdjGIO8n7PT5iYMDUMgSgNBpmNgSJs0ax50GDxkNcdsFgtRs4BAYVpoXflmdcVJDvpPqjjro97KPIeEh/C3+ma765LWuimUf6QSklQonswSIX0u5HMjS16m1mD1Mp46kUrnHysO0vTqZA36SEVp6HQDVFwHmw6SDAz76OOXmeDF6kKb7MsMCYbgimsoS10MXKGQJmQEM/ISS4RnKClOHlgymdlrl4aERkQQfitLBT68f2Dngpxq/nb0mPVTqMzIQpjXWR4bDpKePIGVSo+PkcAQUMoPAM3QlBubVBqXLfC4DL9lin5PXh64wOAxdhDEAsC/zQTYxwOQuw6iAodH2yBI8hCWLrY+y6QSkbHu+71wy/1X/TzPNnDEEgNFhJ9yWf6BqizI0Wz8iKfch9b4c+kKxNhDrOTuAfTNRx/sMW3+sq3C9dJV+eUPQReFAtFJvjPgZMNj4/a1+voLILG3+Dl0lGEa95IePHYfa+muQ0EzrqEt7995MW/1eV+3oYXvanfoDgJKojIpKV8IAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcklEQVR4Xu2X/UtTYRTHdxGRiSiycGzDzRko5kgdbS50pZiaL0gmmmaIYiUmitkLWqSJUqYoFZKNUsQwDENMCIIiCXqBQiiCIOh/Ofk9l2d3my7Xdlf+4BcOuGfe+3w85/uc86jR7Cmqkihw5T9KotHz+2gXQUl0uzOFgXLT0nYDlETjXTKQf0RFO71YoulLeprqSaF7l4/R4LkC6j5lp+aK7GhASXSzXXgj2MslejRgYCjPtXIa6y6ivjNOaqmyUbV7/x+eC1tyOdprkoKASbQwaKSHV/U0O1RJE73F1N/qorO1OVRXkkHuXFOQ5yKSXJaBFh3VHk3w2UCGWRoxcpaejFR7y3ahPo+ayg9QidNCORkpZNDFqw81d93A0VGbRMV2LX1dG2aYlTETry/fOUEP+stotNNNvacd7KOKgnSyZ+mppyGZSp2qQkm0OGzkAMSNNh01liYyzMvJVF5fnazjsgkf1RcncFYB487RMgzagoqtQWIA3/j21EE/nuczpFkfw1lABtEoBYwjK46SEuK8QIFvDUG+vWRrvLqbyvF22kwbiw76/sxJ6548Wpmw8fH3hbGlx5Ez2xAJkDwGcLJgZJgVxl2+ZaK1cRODvJsx06fHFg5AIUsAwklDxxYw6cZYPmnwULw2NlwgSMkGNoFhhXnhl415KzUXWanxiIV+rboYEh7C7+KP6WtK3jxVMewjlYA0GsV8CpzIEiB+ruRzIEtfZjdj4RCdPJxKVQ4jN9OuumQO+ElEYOnlCEPbwQHmvcfCAR99mLVzvJg8SHNDWdsCobkiWisTvRE2lCKJs4TMAAZ+QsmwhrLC1IElg6mtRrG5f0TYBiTeFKWDn17fN3PAT/WFZvaa8FCFK56B0K0xPjItOj8f+UbgLiFK7tQ4caI5AgqZQWANpxIN80qzfMpcNi0P2TKXlceHChkRkmcZThHaAMA+L/WyiQEmZhlaBQyNY48swUMYspj6KJsACnz7X0qe9nzfuaj3q//H+TbOGALAOGHH7YYtUA2lmd6pHyGQfB9S7sv+9cfndU8TZwewb2YaeZ5h6k/1lXhLV1Mo3xBUK9dWEP/vxY0RPwMGE3+4o5CvICJLKmRH0fYgQhLDiEt+sBBQgU9HScq/Qb6ZDCyv0q2jLuXuHTyTkGo+CkWhbbbT96rqn262p039Bs166Q+rWFHkAAAAAElFTkSuQmCC",
     "wiki_name": "Sunfire fanatic helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sunfire_fanatic_helm",
     "equipment": {

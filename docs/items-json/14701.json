@@ -1,7 +1,7 @@
 {
     "id": 14701,
     "name": "Smoke battlestaff",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-04-10",
     "duplicate": true,
     "examine": "It gives a 10% accuracy and damage bonus for spells on the standard spellbook.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xu2WwU7CQBCGmQMHb5whIkhMQzAgBisGsRhEjAl4MtGn4A14gJ568O6tT9CzD9Gk8WrSR/ABfpldq6VG40F2N6ZfMunuNu38mdnZ2UJhYxBu53Pw89O0QbiZTjEaDOA4jjDbtnWJIpz1+7hcieCx53nwfR9BEOiKlnR40uvBdV2EYYg4jsWc1zlqVqOhShRhq1jEXbuN/WZTOI2iSKSPx7yWrGe/3AAyMi+WhefF4iMKhytx4+FQjE9X+4jTqUAQYbda/WJHBx1cnY/QabVw3O0KYYm47B/+EMLjbIaHUundkTSOxvXFWAjjKPFcgRiG8DSZ4HW5zDhLV5Sy6iKRCk6JAme/QabGEDGMPG8MEUSiiowSxNVjiBhGSdX8xHr5at7MhO1yWfQhLnHNqaJUd1Z2wH0HYa9e1ykgjWyYuZh15P7YqVR0b1yGcF+rCTGGNEt58ibXzexbxcjLN5sRYjgqfLszQEyC1sMuJ+d/8wZzYOAJqEl8WAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkUlEQVR4Xu2WT04CMRTG6YKFO9YQESRmQjD8MThiEAeDiDEBVyZ6Cm7AAVjNwr27OcGsPcQkE7cmHMEDfM5rrZQKK2ems+BLXqbtNH2/vNfXNpdLTAxPsxnouzZjYnicTDDs9+E4Djfbtk1BMVz3eriLIKjtui48z4Pv+6aiJRxedrtYLpcIggCr1Yr3aZyiZtVqaUExHOTzeG42cVqvc6dhGPL0UZvG5Hi7UuGmrxCjRGQ+LQsf8/lvFM4iuNFgwNtX0T6idEogfYUYxXBcLv+x83YL9zdDtBoNXHQ6HEzCJQjE8Dad4rVQ+NkXwigaD7cjDkZRor4KkyjQ+3iMr8VCc6ZW1NoSh6FUUEq2OZN93dQVYpZIzTYYQxLnjQTS/6YsxqsoU0BUPZlKl2GYzfJVN7M+MwUxHBaL/B6iEjecKqbczqkdcLvEcFKtbgCops9OWOLCNBgNVZmBEfvjqFTa2Lj6rJTE8BI5J5hdl2XKEievfG4ah6HHN1kmYCgq9LrLAIyU0cNuuzIFs9de/9A3uvksE/iG7bUAAAAASUVORK5CYII=",
     "wiki_name": "Smoke battlestaff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Smoke_battlestaff",
     "equipment": null,

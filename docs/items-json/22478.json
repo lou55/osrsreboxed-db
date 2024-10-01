@@ -1,7 +1,7 @@
 {
     "id": 22478,
     "name": "Avernic defender hilt",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-06-07",
     "duplicate": true,
     "examine": "Perhaps this could be used to create a defensive weapon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xu3W3UsUURjHcfdKkrAbSVIyyIsuBMMu7Kb/wIsS08q2jd42ikiiKESMXkR6QxB7oULBEBMpI4iKoqi/7MR3ht/wzNnjtrMzRRcdeNiZM8c5n3meM2dsafn3W8mFI3T9j7eSezg14u5PDkcxe+OQm7l2MAohVuZPueW5k27pUSWA8h8iNzwGCQVI4WMWH5Tds9nx1MScc82PNCoTsuTmpg/XoPgFohDoycxRN39rLBrLbwjEeIv+tj7lvqxebQ4lEMfKjkAv7h2PQBq7GYi/+7o26X5s3HY/N+5GoEwYbqqnFohJQ6CFO0cSEMch0OrC6RSI4wZBpVQZmEiLm3MfxOQgVN7NQOtPzxUHUpboC4GUSYHImg96+7yagIhMIK0LH8TkPsgu6Hqgdy/Pp0Gvr+cH0Q9IKDJp35x6oPeLF4oFEQAsiLE7u7rcnt7eKDgPgRj7cflSAvr+5majGFoaZFHcXCDGbe/ocPv6+6OwmSJ80KdXl5sF0eKb8rQhkDB7+/oSEOfEjs5OVy6PJCjd6/PKlWZB8R5EhkIgiyE4393T47a2tUX948eGXbV6IoHs6u6OgmOBMmyK8SsfAhEWowkFop/fSmXUTUycTTChDOUCCUXYEnDMNZ1TKkBkBwiLnX7WD2UuBGSzxC8IPgFaRwQTjwwNucrYqNvS2uq2tbdHQcYEWnt8JgGxSzeIocVvWAikzwEgxmliFvT+gYEESJ/NIng+GzZDTYH8daS9xWLIzoHBwRqMfd0B8dkoDCQU/T5Gm6LF2A+rQOzSFpQBFYNCZfNBLGKFMmRLKxAl/rB0MQGxB2XYh9IgW7YQSBBtCz6I7OQG8ZY1AuJY3zgL0lpTuQoD+WWjXx9UlceCtFfxdxoLiFfegtiDMu9DobJpEp6Y43ogu34KAYXKZkFcs/+WWBDj7PrJCaLFJfld+OtH4YPYFC1IkQHUaKtFKuz6+Yugeq0WWRv/W772C0DmEFs4ieoQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xs3W20tUURTH8ZknScJeJEnJJB96ECx7sJf+Ax9KJq3MJroZRSRRFCJFF5FuCGIXKhQMMZEygqgoivrLdnzP4Xdcs9xOM84UbljMOfvsmf05a+2zz+Rym7/lQzxi1/95y4fH44XwcKw/icmbh8PE9UNJCLEwfTrMT50Kc0+KEZS/iZrhKUgoQAqPmX00HF5MDpVMzDnXfJSiqkLmw9StI2tQfAJRCPRs4liYvjOYjOUzBmK8Rf9YHg/fFq9tDCUQx8qOQK8enEhAGrseiO99XxoLv1buht8r9xMQc+zr6EjCz+5amnbdtUBMGgPN3DuagTiOgRZnzpSAOBbIz+5avqQMTKTFzbkHMTkIlXc90PLz8/UDKUv0xUDKpEBkzYPevxzJQERVIK0LD2JyD7ILuhzow+sLpaC3N2oH0Q9IKDJpn5xyoI+zF+sLIgBYEGN3traGPZ2dSXAeAzH28/zlDPTz3e0MUzXIovhxgRi3vbk57O/uTsJmivCgL2+uREF+9nVa+qPcbQwkzN6urgzEObGjpSUMDxcylH7r68LVjYLSPYgMxUAWQ3C+u709bG1sTPqHjveHkZGTGWRXW1sSHAtkN0U/u2vpIx8DERajCQWin89icSCMjp7LMLEM1QQSirAl4JhrOqdUgMgOEBY7/awfylwXkM0SnyB4BWgdEUxc6OsLxcGBsKWhIWxrakqCjAm09PRsBmKXFqYiEE9YDKTXASDGaWIW9IGengxIn80ieF4bNkMVZoe2CvLrSHuLxZCdg729azD2cQfEa6NuIKHo9xhtihZjX6wCsUtbkFB+9khLQbGyeRCLWKEM2dIKRIk/zV3KQOxBVexDpSBbthhIEG0LHkR2agbxlFUC4ljvOAvSWlO56gbyZaNfL1SVx4K0V/E9jQXEI29B7EFV70OxsmkS7pjjciC7fuoCipXNgrhm/5ZYEOPs+qkRREtL8rfw60fhQWyKFqSoApTLaVsvFx5ow66fuoAqbR5ZCVaxOvY/NY+Mhf/Opm5/AIrqWudBhjDDAAAAAElFTkSuQmCC",
     "wiki_name": "Avernic defender hilt",
     "wiki_url": "https://oldschool.runescape.wiki/w/Avernic_defender_hilt",
     "equipment": null,

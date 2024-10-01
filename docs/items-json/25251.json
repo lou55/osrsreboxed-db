@@ -1,7 +1,7 @@
 {
     "id": 25251,
     "name": "Salve amulet(i)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": true,
     "examine": "Increases melee, ranged and magic damage & accuracy by 15%{{Sic|The correct value for melee and ranged is 1/6th, equal to 16.67%.}} against the undead.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnElEQVR4Xu2WX0hTcRTHdwSR3oKkl0VCgkE+BDFoEUQ9iD0EUS8mYpqVf9aymdowM8ysQWJG0F/ZS9kUHxZhS8SI/vsgDSOZjC1DHzSGudgyzB6+8Tvjus25Xe51s5d94DyMe8/5fe7Zj/P7aTRp0qQhyEdKiV6sz2rFQF8vXj4fwOj7d3CPf8G40wnnyAgu1taiorg4lYIES3Mzbl9rh7WrC73d3Xhms+H14AsW8E5MwDc7i5npKUx5vfC4XHCNjeHz6ChuXW1jwfKiomQJEkuIwt2dnbA9uA9Hfz/eDg/zgt88Hvzw+fB3aQm/FxYQ8Pv59/eZGUxPTuKr283dG7Tb0XPvLtcxG40RgoogPH3SgzMnyvGwo2OVL5SPX8Eg/HNzy4Kim+LD9uh0SoUIb4aGUFlaipqyMqXJEUQLfvr4ATdaWrAhK0tpTeKNeaigQGliAgivHA7+SIU1Q905eGA/9un1SpMTQLA/foTtublKa4YSd+TlKU2UgXhTq6hJuGOxqPmfZSCcPVmhpiahvrpaTWICCHVVldicna2mLuFwYaGaxDgQz54crVZtTeJZoTJ5BYRLpnNqNnIkxBNWtDhUJFHEI/T88vk67MzPl3lXFuJjQBwZYhYdyzy+HLoMPYdWs5UjdqGQyPWmJpZRMZHjQXxOiQO1apMxRkiSCi8WErl5pRVtFxr5QJXvoiIIP+fn+VA0aRtwemNNjJAIaVExJqSuNBoMyRSRIPxZXOTrxGrdkeLIlqPclXazmbsS3ncpgfieE09In7GXF29tqOeuqBx6SiAEA4EYISEiIkezjQVEV9Z2I1AEwZBp4pBEJBlJ6FRJyXrJCMJCUkTKSO9E56SUaKFdmt0rZNadaKH/LCMhDbikDro0a+Ifq3cy5Te6zHoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtklEQVR4Xu2WXUiTURjHdwSR7oKkm0VKgkFeFDFoEURdiF0EUTcmYpqVH2vZTG2YGWbWIDEj6FO8KZvixSJsiRjRtxeiGIkiW4ZezBjmQjPMLv5xnnHW++7T920fXewPf9j27jzn9zw7e56j0SSVVFIMkR1TyTfr6exEX083Xjzrw/C7t5ga/4Tx0VGMDg3hQlUVSgsKYgnIYGlowK2rLehsb0d3RweeWq141f+cAJyTk3DPzcE1O4MZpxOOiQlMjI3h4/Awbl5pJsCS/PxoATKC4IE72tpgvX8P9t5evBkcpA2/OBz45nbj9+oqfi4vY9HjofdfXS7MTk/j89QUVa/fZkPX3TsUx2w0SgAVieHJ4y6cPl6CB62tQTKM7B9LS/DMz/sAeTV5Yrt1Onq+IzNzrVAMrwcGUFZUhMriYt9ipfYHHPnwHtcbG7EuLU05ED+YB3NzZTD+31qLpHAv7XZKUmFMb3UO7N+HvXq90kzCiMH26CG2ZmUpjelduC07W2kmEcToUKuIyXDbYlHzO0cQw5kTpWpiMtRUVKjJJIwYqsvLsDE9XR3Qobw8NQtDiFHvydBq1SbJqFdEB4jhoums7CCriMmow/IS89fhHUre55fOVWN7Ts6/wHAxGgN8ZPBedDT1mM+6FD1Zq9lMDoTyglyrrycYaUdWCSPEaE7xgVq+wRgAJKDEZgLkxuUmNJ+vo4EqPosCDBfD94UFGoombS1Ora8MAOIWm/I2IapSZzDIQKIAw8Xwa2WFrhPBqiN8eNMRqkqL2UxVEecuiiBSMbrnhALSp+yhzZtqa6gq0qYXAxguhqXFxQAgDsKdodlCALwq/jcC/0hRFIMh1UQWIAJGAJ0sLIwXDNdfIGEpjPiHxQmGSw60U7NLBiMg4gTDJQcKBpMAycdFgmG8EhD/BUwi9Af31pc/B50EUgAAAABJRU5ErkJggg==",
     "wiki_name": "Salve amulet(i) (Soul Wars)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Salve_amulet(i)#Soul_Wars",
     "equipment": null,

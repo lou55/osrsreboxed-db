@@ -1,7 +1,7 @@
 {
     "id": 12411,
     "name": "Mos le'harmless teleport",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "Teleports you to Mos Le'Harmless.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByElEQVR4Xu3V20pCQRQGYOcF7B0KCgo6QSdMCkzECCKkogNRUUiFEFIRBYUQ0VUQXXXRs674J35dzR5tT1obYi/48TizP9eMszOZtNL6/2WklcTLyNHamFzvz0p9d1rBEkUauT2ck4eTvNQ2Jy3scm+mmQSARp5qi/JysSSn6xMWdb491YShezpRoC9dlZHnekGqlXEviMFrBp8zfK+HXTXyelX0gtARH0hHQ9olEGbk7ab0Y5CLcpcYwf7cKY/ERRl5v1/uCtQJxfmQGCBjB9wd5zqC+rLZSFyQRmEc/rl6zhgYlLETNarzPQUBg+CMw7wxMShjL/p4thALxAt3AmEMOg7QwepoCAZl7GCcQy5G7wm3Oz6QXip0HM8DQcZOgsE4hzSIk7uguN1BKoXBEAyqBeJyaYwOQcS5GILYHTx2BdIYbkgdINgxF8JwuXDm4PlGcSgE9Pl3xwU0Ru8DhO3nJiVK3zL0cuHHYT/idTCIE7WbXKN0t3xdYmfRHYK2SsNhIO4PnqKMD6XjLh2/CzhB5Vx/KAjFG54/7n5yl42YHoK+qyiSXSWEmD8C+SqKJDQhULv6ClzJD1gQ7mUJonRpYFpp/W59AMlybHJsDuRUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4ElEQVR4Xu3VXUsCQRQG4J0/YH9BCgoKyoK+MCkwESOIkIo+iIpCKoSQiigogoiuguiqi37rxLvy6vE4u+7m0kJ44CXd2pmnM7OznjeoQf3/Mrad1MvY080pe3e0YBsHcwKWKtLYh5NF+3JesPWdGR92czjfSgpAY9/qK/bjetVebE37qKu92RYM3ZPpBrrSVxn73ijaWjXnBDH4zuD3DK8l2FVjP29LThA64gLJSEhQYsKM/bov/xqkUXqJEezP/cpEVJSx309rfYHCUBwPwVy5bDYMZfwbHs/yoaChTKYrGiRRuA9PrhyTmJ4gDPRcW0oUBAyCMw7jRsSgjD/p6+VyJBAnDgPhHnQcoOONyTgYlPFvxjmkMXJP6O64QHKp0HF8liA9s6OMPwhuxjkkQRxcg6J2B6kWR+N3hyAul8TIEEScxhDE7uCnBOmZA6oNkhhuSBkg2DENYbhcOHPwebs0FgfUfNwxgcTIfYCw/dykRMlXhlwu/HPYj/geG8SBggaXKNktV5fYWXSHoN3yeDwQ9wdPUcaFktFLx78FnKBKfjguCKXfyJ3R+0kvGzEJgjyPj6QrGii7SggxiYF6VRQkoX8CcpVGuqDrhREfhHdZ81oKFQRsX0u5OoGD+kf1A7RCqKhX4wl1AAAAAElFTkSuQmCC",
     "wiki_name": "Mos le'harmless teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mos_le'harmless_teleport",
     "equipment": null,

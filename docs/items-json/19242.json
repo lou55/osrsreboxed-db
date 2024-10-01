@@ -1,7 +1,7 @@
 {
     "id": 19242,
     "name": "Elemental talisman",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-13",
     "duplicate": true,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACm0lEQVR4Xu2Wz0tVQRTHnUWEIkkoiYaJhkq9UJN6GSIIjxJJyLDUyqwoiYIwAilauIho6c5li3b9lyc+Z/jeX1g+crwL6cDw3r3vvns+8z3fOTMdHf/j9Eew9kYtEWx5/rLdnR2xVnM4+75w45Ldnhy0ZmPApsYvWGO0rw6oHIaxNDfqg3srC2O22hr36/npizZzpd8mhntPEirY2p2JDERQUkoDGO7VABUchLKQBEWKQJSMIYih/m6/pnxjQ+dTQ5XNephCJOc+3wEa6O2yx4tXXVXUSggVXA298OX9ySxxEQj/kJxnBQwQz79Znfb/d3WeSQEVFakCMWv5ZWf/oX379cq27l1zCJUTAJ5/9+h6KoWCvV+f8dlTBiUQEP5gmW9/Xbbdgw2HerrUKAHxDoASmTvYx82mz1ovfP1gyq+BwsDM/NmnRVdp7+dzL5uAi0CJ+lKwzy9mXRW9EEA8ART9B5XWd1r29vuKffmx6ergKWAFhMo8lwRob3vOAZRkd+uWJwBSftEKU59Sa4gAUVX+mwCICPbhyU33hpIBpNIBxEAthnrPyOC5DAiz47VEQESUnRcrKUBAYnjuaamTGF/19XT6cyjV0302JYwiQlEq+UTdWT1J/Yl7WoW5UicScT8rNj81xioQpU1gZG0Ph0XIdnOSKiH35CH9hjqU7phGDm5SZpeDlQcq8DvJ8r5y1PjniMuTkjAzZsmMdc5RmVAmUZM7KuLyxrQAaLNkoJygKEniJfyniC0eIIEIhk8BqREmMGw7EZsYEBpcV4FUuhqAiNyQbBlqftrBVc4aS6eIJUQhAIoHMR0xMH6iY0W7EZXScQIgKUcZua7JS9Uo9xa2EFSiGdbopb9FPMrKS8fsyKmirFr111MVvwFxU3/jnfQB9gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xu2Wz0sVURTHvYsIRZJQEg3zR6jUC31KvQwRhEeJJGRYWWlWmERBGIEULVxEtGzXskW7/ssTn3P5zpuZTB696yyiAxffjDP3fO73fOfc29X1P/79CNbeqCSCrS1dtFsL49ZsjGa/l69esBszw9aoDdns1DmrTQxUAdWCYawuTvjg3vrypG00p/x6qX7e5i8N2vRo/0lCBXtwczoDEZSU0gCGexVABQehLCRBkTwQJWMIYmSw168p3+TI2dRQRbMepRDJuc9vgIb6e+zRymVXFbUSQgVXQxM+vzOTJc4D4R+S86yAAeL5lxt1f7+n+1QKqKhIGYhVyy/7X+/Z55+7tnP7ikOonADw/Ov7c9n79bExH+UsbUawN5vzvnrKoAQCwh985nuf1uzg20OH2lqtFYCYAyCZuwMYIti77YavWhO+uDvr10BhYFb+5P2Kq3T446mXTcB5IPWljoE+PFtwVTQhgHgCKPoPKm3uN+3Vl3X7+H3b1cFTwAoIlXkuCdDh3qIDKMnBznVPAKT8oi9MfUqtIRo4qsq7CYCIYG8fX3NvKBlAKh1ADNRiqPeMD5/JgDA7XksERETZmVhJAQISw3NPnzqJ8dVAX7c/h1J9vaczmERARISiVPKJurN6kvoT9/QVSqnEMIq4n+WbnxpjGYjS5o38lzDHnWNCtpuTVAm5Jw/pf6hD6To0cnCTsroWWHGgAv8nWeu8c/zoSB2MSklYGatkxTrnqEwok29y7YxypjYjft6YFgBtlgyUExQlSfwJ/yliiwdIIILhr4DUCGXY8iyJIzYxIDS4LgOpdBWoRLQMyZah5qcdXOXMl648Q/KIq44lRCEA8gcxHTEw/gmemY+KqJSOEwBJOcrIdaJdvP2QWvnBFoJKNMMKvVSMYl+JR1l5SR25/E7Fkawjp4tEHfm3+AX9D7qqvnMG+AAAAABJRU5ErkJggg==",
     "wiki_name": "Elemental talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elemental_talisman",
     "equipment": null,

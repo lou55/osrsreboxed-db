@@ -1,7 +1,7 @@
 {
     "id": 25863,
     "name": "Bow of faerdhinen (inactive)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-06-30",
     "duplicate": true,
     "examine": "A magical elven bow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4UlEQVR4Xu3Wz2sTQRQH8Ob/KIgVPIsnD15KL5KLv4qmtiptiGJslFCNhGLRGIqtWiiN2hpaiS01FlMVREVR9NSDf9TT76zf5e1kNs1mt+LBgUcm+/OTNzNv0tf377eUuMN1fs9bSh5Mn5a58kkTs7dOSPXGcRNEbCyOS2Phoqw9vOBA2T8iNtwDEQUQw8aszo/J09lzgRfjO87ZEURFQqZk4fZwGwqfgDAIelzNyOKdM+ZafLpAuF6jv25Ny+fNqd5QBKHP7BD07P6oAfHaMBDu+9Isy/ftu/Jj+54BRcLgofzVABHoAi1Vzvog9F2gzaWJAAj9LkGpwDDgRTi2r7/ffNogvBwIDm8YaOtJLlnQfLUq54e9vg1iJglC1mxQa+WSD0JEAnFeaNDNyavODOkJ3Qn0pn45CHpZSg5EFDOpV2QY6N3qlb0H2RM6DIRrPzQmfdC31zPdYtCCIMRuIGIACwN9fHGtVxCaV7zwcA1622r5KLzEntAEYSht0KeNYq8grwYhQ3g4vq+vLMvPnR05ODDw50HeSrMnNEA4ZoPwAzQoQlH0lrwGMUOvmk2TpUeViqSHhnwYIwwEeKIgjVpvNCQ3NirXczkTpUJBZkolKReL5jxB9nAlBtJZ4vAhkKkjh/abPlDEhIGatawPQpXuEoPmrTAXiNsBQUcPHzD9QjbbEYTsYNvQGeoJZM8jLmVcg2EDCoHthCXBBnG4sG0kBiIKx/EC7NocOsTEyIhM5fOmrzOpQajSGhQB5YFcw6ZBeAnOc/iYIVfg+vdreR+EGhShDgVBetg0iDUISx33LNdqPuzY4KCcSqdNjGcy5nwsEFbZbiAMh94y7Kw8r9dl7vffFQSLaWyQPWw4rkF2hea+h/tsoM4QalDkOuQaNg1CvxOIExrXogbFBrmGTYNwTv/l0CBuG5j4CYDQ2leKKzRGhw1CUdQgRgRQt60dyWD9QXb+IqhTa0e2x/8Wr/0CP6xSOEvtOH8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xs3Wz08TQRQH8Pb/IBEx8Uw8efBCuJBe/EW0CGqgqcZKNQ1a0xCJ1oYICgmhKtiAqRCsxKImRo1GoycO/lGj39l8l7eP2dKli2GSl067s51P38y+aSJx+FvSuMN1/cBb0jyZPG9mSmdtTN87Yyp3TtsgYn1h1NTnr5rVp1ccKP0jOoZ7IKIAYmjMyuyIeTF9KTAx3uOajiAqEjJp5u8P7kLhFRAGQc8qabPw4IIdi1cXCOMl+sfmpPm2MbE/FEHoMzsEvXw8bEEcGwbCfd8bJfNr66H5vfXIgjBHb3e3DT27al7a+asBItAFWixf9EHou0Abi2MBEPoE6dlVSwaWARPhsyNdXfZVgzA5EFzeMNDm82y8oNlKxVwe9PoaxEwShKxpUHP5mg9CRAJxX0jQ3fGbzgzJDd0K9L52PQh6U4wPRBQzKZ/IMNDHlRsHD9IbOgyEsZ/r4z7o57spHxMZhNgLRAxgYaAvr285QXr2kOYVL3y5BH1oNn0UJtEbmiAspQZ9XS/sF+TVIGQIX473a8tL5s/2tjne02PfIzCJ3tAA4TMNwg+QIFkU9eyqeY+8BDFDbxsNm6W5ctmk+vt9GCMMBHisIIlaq9dNdmTY3M5mbRTzeTNVLJpSoWCvE6SXKzaQzBKXD4FMnew9avtAERMGalQzPghVmpi2QHhCXCAeBwSdOnHM9vOZTEsQsoNjQ2aozeyg7YD0PuKjjDFYNqAQOE5YEjSIy4VjIzYQUfgcE+DU5tIhxoaGzEQuZ/sykxKEKi1BROnZHc0DuZZNgjAJrnP5mCFXYPyn1ZwPQg2KUIeCILlsEsQahEcd9yxVqz5soK/PnEulbIym0/Z6RyA8ZXuBsBzyyNBZeVWrmZl/f1cQLKYdg/Sy4XMJ0hWa5x7u00CZIdSgyHXItWwShH4rEDc0xqIGdQxyLZsE4Zr8yyFBPDaw8WMAoe1+UlwhMTI0CEVRghgRQIkEy3qr0EAZrD/ITiygdptGtoNl7Iz9T00jXaHvOdTtL4mwnMSUWMz3AAAAAElFTkSuQmCC",
     "wiki_name": "Bow of faerdhinen (Inactive)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen#Inactive",
     "equipment": null,

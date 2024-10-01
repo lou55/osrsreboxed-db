@@ -1,7 +1,7 @@
 {
     "id": 9575,
     "name": "Mixed dragon",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-08-07",
     "duplicate": false,
     "examine": "This Drunk Dragon needs pineapple chunks, cream and heating.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xt3W30uTURgHcM9FiBKOoRgUdduFUNBFECl4pRBGSZlRSFdiJmuYzG2uyVrTObX8sa1VOJyl00xtk+maic0fSWBC7mJCeeON/8a3Pc94bQ5v3/cdfuFhbIydz55z3nNOXt7Ji8DRUjUCFWdKca20BFeKtbis1aiNEocQqVQHZWJyAkQdojp+DSm+vtJr6Ohg/wHe4gL0afPh0OTjeapkQGX/Y4EyTVHGQAILpYUIlBRgQFuQgZClQwI6nRl6vQWtrVa0tXXyK4Eslh4eMJzC2FII3elTciGkCIa0tJiOoOj9xaIimExdjLHbB+WGUNIY6ggBJJTfPwCD4QmDxlNTRCib7ZXcGIpgTLvxJZqb2xk0N/cBU1N+uN3dcKYWLQENhhewWl3o738nN0owhjpA0xT/vohY7AsWItMIBNz8JJWXX2WotJayf0GGCB6MMFtb69jcXMHqagwzMwFcKCyEw2HE+XNn0dPjVQ7U1eXG3z9JJJO/sbOzhe1fPxCNziE48RbDww50mJ8qhaGI1KCjODjYx/7+Hvb2drG7m8DGxjLC4SAv8EsVNUqCKAL32oZw3+jFw473qDe4cbf1NW63dKOmya40hiIwEQwxhFCEq9W5cKvZgbLrN9QAUdJdorqj7+PuVD8yqoWhCJ4mqhzojhTBGOpOZb1ObQxFYG3tG2+OPp8rN0C0B9HG6PU61QZJJ7ngHZs2xMzPsr8tcwQfoHSm0TGSSGxjcNCOyspqVFXdRG3tAyVRgk/xoaERjI19wvx8DOvrPxnY2KhHXV2DkiCByckQZmcjiESW8DUWRzy+wdXZ2cfdoutJU9MzNDQ8VgIlMP05glAoisXFFSwvrx1Wb68PTqeHb4pms5OvJ3RnUgQldYdqaWmVy+f7CI9nlKfS5Xqj1I1RiuAOZdb4+CyvqRH/JOMUxEjJfMSPqxOYf9e4QsOSrPZCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4Xt2X30tTYRjHfS9ClFCGYlAU3nUhVHQRRApeKYRRUmYU0pWYyRomc05TbE3n1PLHXKtwOMtfmdqUqU2HzR9JYEJ6oVDeeOO/8W3Ps97pTnYRunOkL3w57HA472ff59n7PouL+/8kEG1NJZB1Ig2X01JxMUWH87pkraFEBESa7l1IT9cKSkTBHAkgSogse4hgdoFU769wD0WD7AI4UxLQoouHNTkeT0KOAZTyGwtkJCdFgOg6mZYIT2oC2nQJeyD2S+/AEtDrzTAYalBeXouKijq+ElBNTRMvOB6CqQ9B6I8f+wPi0GEIpKysKgqKPp9NSkJVVQPDWCzt+4Io33ZAhWEoEQKQUG53G4zGhwzUFyoRQdXXP49FaZQSDFNpeobS0koGGht7i6EhNxyORthCTUuARuNT1Nba0dr6+ndKMZNgGEqAyhT8PAW//yMmfcPweBz8S8rMvMSgspdinBBJ8GIEs7KyiOXlOczP+zEy4sGZxERYrSacPnUSTU3OCJDyDYcsgYYGB37+2MDGxnesra1g9dsXTE+PYaD/FTo7rag2P1IrHZIILdqDnZ1tbG9vYWtrE5ub61haCmB8fIAb/FxWnlrpSAncrujAHZMT96rfoNDowK3yF7hR1oi8Eoua6UgJ9A94GYSgCC5fb8f1UisyrlxVOx2pcErkm4YWTif3vkmLdKQEl4l8BNKREgxD6WQX6rVMR0pgYWGWN0eXy651OiTBexBtjE6nTWug3dmGdmzaEPfeUz4dYwk+QOlMo2NkfX0V7e0WZGfnIifnGvLz76oJJfgU7+joRm/ve0xM+LG4+JUBi4sNKCgoigCpUD6BwUEvRkd98Plm8MkfRDC4xK6ra+G0aDwpKXmMoqIHaqQkMPzBB693GlNTcwgEFiJubnbBZuviSdFstvF4QjOTKlAyHfLMzDzb5XqHrq4eLqXd/lKtiVFKcEJ73dc3yj3V7R5kOBVhpKL/AimtMkxYctG/Wfn8v+oXxvWJAlFGlkUAAAAASUVORK5CYII=",
     "wiki_name": "Mixed dragon (poured)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mixed_dragon_(poured)",
     "equipment": null,

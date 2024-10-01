@@ -1,7 +1,7 @@
 {
     "id": 14099,
     "name": "Dragon chainbody",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-07",
     "duplicate": true,
     "examine": "A series of connected metal rings.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmElEQVR4Xu2W0WoTQRSGs4QQImKRlpYmpCEpsTQtKfbGQo1URGqJaFCKFVGxUCgUFcWCV1541yfwccf5ZvtvJ7PbuCgbEHLgJztnzpn55uzMbEqlmf2/FpnQk22T4ib1yfLE2KDj448mDg41HterlDJiYt0qqW88x9dw+DIjJmWROT//aUajI1Ot1tzA0lVyZLYqZQfULcdqXap+qYWMHD9+f/+5GQwe5QO6uPjlqrS7u5cMjrSybQuDgBKYLwGSK6iDWtncr8bx9O/sPDD9/nY+oMMbFZfsDyygYbPu+t6stp0O2yuuze+9wE/+ydqq+bSxlgLyYUOCwCLzohYDKdlf7ZPGstmzfe+7HXPUaTlA2kAA5PupFkCn690EiMriZ8yrql9rkTm5WTHPbDKTMIEPxQAP5+fMY+tHo6UF1yaWyYhH+Ae355LX96q+6ID8MenLUaXIvLavi2Qm1Ip8KPoOFufNUyvFMZEPpRzigCOXRWpMQTHeH4HYPyT7K/LLTJ9ETK1aTcRkehaUqsQ2CKHwp0/jmMUVCpN9IPqQDyKxgNAnIBZKnl/9HFWKUgNOS9cAYeO3aagPzeXUYFJWhagCpy4cJ62/MnsKV+pJ+cPJeRV+m1f9rrHk9A+TTrJ4jwEUwmQBCYoqFQb0ZXPdAWVB+UA6SVyKqDAgPgMCOuvdcacRAP8KwO8DFfrKtIcQcEzo30tUSX7dYRyEwoBOLRACTJIvy6/nwoDY1JpIlyRtKiS/PiNqF7qpAdJJ0/HXze6+c8HnofBT9n1rwwFx2tC3fs8B8QyU7weIDc5fkMKAvnaaSYWY+MfdzVSV5J/Kpv7cbpizVn5pHxUG9NZWRidHldIGl197iGeqU+AewsKPYl7NbGbTt9/4VqaYTiWszgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACu0lEQVR4Xu2W0UsbQRDG7wjhSCmKKIoJMSaSilFi9UXBplhKUUmxoUVqKW2pEBCkLYqCTz70zb+gf+50v71852TvklwJJ1Qc+DA3OzP727ndPT3v0f5f88X1JNuwuGFjtDQxJujk5IeEwa764xp5LyEm1ITHsf4crXb7Q0JMzHy5uvotnc6xBEHBFqbukn1Zz+csUD0XqtJTsaeZhBwdv7f3Tlqt13b8+eLiMChfbm//2C7t7OxGxSGubNPAQIAimBYBkUuog0JOXgRhPMa3t19Ks7mZDujoSd4m68IEapeLduzzUtXqqLpgn/F3y/Ejv7u8JD9Xl2NAGnYk0PtCCMRkvdr90rzsmrFv9Zoc1yoWEM+AAJD2o1sAOl2pR0DoLPyoyUUOAfKl+zQvhyYZk2ACDYUCr6Yn5Y3xQ525GfuMWEyGeAj+1tRk9Po+FmctkK6JMd0ll6RnvnwyrwvJmJAr0lAYO5idlrdGjMNEGoo5iAMccrFI1iQU6o14beH+QbJekW4zxijEFIIgEibjb0KxS9gGLhT88dPYZ2GH3GQNhDFIg1BYgOsjEBaKPN39FF3yYwXvSwOAYPFbV+t7eT5WjErqELqAU+fWcQWYAUCex0FXSOwuFKP2u5PjVehnvOqvpTkrPekguRwpLNxjAHJhkoAIhS4RyK04pvlyvrZigZKgNBBPEi5FKDMgfAYIdNZ4Zk8jAPQVAL8G0q/MrTim3e0hCHCYUN9L6BL9vMNwEDIDOjVAEMAo+pL8/J0ZEDY1J+IliWd0iH5+Rvic6aYGEE8ajz9vdvudcz4PmZ+y6/VVC4TTBl02GxYIvwGl/QDCBse/IJkBXdTKUYcw8c3GWqxL9N/Lpv5VLclZJb24jzID+mI6w5PDTnGD0889hN/oToZ7CBb/MKbRGN+r0aY/iP8it86jPTj7C+247kbhZl/4AAAAAElFTkSuQmCC",
     "wiki_name": "Dragon chainbody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_chainbody",
     "equipment": null,

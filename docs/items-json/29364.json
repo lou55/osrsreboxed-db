@@ -1,7 +1,7 @@
 {
     "id": 29364,
     "name": "Blessed wyrm bones",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "Bones blessed at an exposed altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2ElEQVR4Xu2W/09SURjGPX9Ya80fWrXVnNNlrenMyL4oGGsqmXMjYGrSAhXNQYwIyghkDss0EzPJTF2t/+ep59xd7r0CV2AY/sCznbH75Zz3877vc86lqamhhho69RLQRt0lMPNiEvPBZwhFpk8DlEAw7EckNodwdPakgCpdVCAaX5BQlc89VgJe35MKFxaIvQnKoc3T+6qStQwS8M144BgdOLLwcRJIpmOIL4byAEMjVljudKK17TLONZ+pBkoxp9EHQprVfDGBnwc5rG1k8C4ZMcxdCD2X/qLZq2inwPbOBu5be/JZvk2ESyxibAfnadfG9wpbWbYEtrbXMeEdk5M/rqXhdA/rFtIAeJ/ZM/P9w12TYEpSpRMzlUB2a01mk9vNwh8Y12Ut0NXdIX3C0vMdrT3FhrYmYRKpaHVAX7KrMuhObhN3+7qlSQn5fe8rfv85kFubnuIutNl7pfldnkfyOrAwJWEzH5IGOMKnM4s6oFLwRaW8RE8QrnCyYlRmvbKaypuVQVPLccN7BOQ9ml0Pc9tySY7x8Vvo6blYHhS99HlzBZ/Wl2VA+oogbBMDEJbQbIV74rEBhO+yyvQWK62H6e9rkSAvQw8xP2eD29VdHhDbxMDMnG1jpioE/fVj/xsOf+3JLU3Q/gGLbCcrtpxJyPl8bgwmMDp6A0tLRm9qz01V2Cp1sNwe9014p3rlNWG5IwlB0OLBBNrbzyIwa60EohwJJBJOpJJuRF8N5QOXPoeUOdevNcPp7CrxvGopAdke7qzkexeeTlpMQKh/x0XneTiGO0zeqUoCI2N2aVgeiqqRWS2/754OytimwcGrsD9ok2auORC9wjOGg2ZmlXiffiKUzdaKaX9fHowG5i5iddRRcyh18AzSQxGInoq9duiC6qt2tHo1l/Kt4zZXof5TYDMZofjt41l0peVC/aH4H0r9g8bfOgJRSpt4Qlf5VT8p1dU/J6u/ozTPX+V/jOIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xu2Wf09SURjHPe/El9AbaK35R6u2mnO6rDUdEdkPFWNNJWNuBExNWqCiMYkRQRmBjGGZZmqmmamr9X4e9z23c+85cFUIHP7BdztT7j3nPJ/zPN/nQENDXXXVderFyBg1F6PJl2M0M/ucIrGJ0wDFaDYapFhimqLxKQ50prGx2lDlnpJRPBnmUCcAxMgfeFpm6hkl3s7yYQDJvipnL0WMApM+crr6CjY+TozS2QQl5yI6wMBQL9nudlBL6xU633S2xH0UaeZUfcC4WY/ejNGvvS1aWsnT+3RMWRuOvOD+gtlFOQtXHyFGG5sr9KDXqp/yXSqqB1B9oZYD68T/6tziUpbhL0brG8s06h/miz8tZcntHdQ3kgHwHKfHyXf3t5VgheA4lHww492xYrS2vsRPs7W9RsHQiALRaWnnPkHqMUeUx3wYewImlYn/H9DXtUUedHNrle51W7hJAflj5xv9+bvHWxueQhfaHV3c/B7fY/45FB7nsPmPaQUO8Nn8nAR0GLyptEnwBOCKF2tGxakXFjO6WRE0k0sq8wCIZzC7DHPHdpmPkZHbZLVeKg0KXvqyukCfl3M8IHwFEJQJAQALaJTCO/pEAcFcZBneQqZlmJ7uZg7yKvKIZqbt5PVYpPeHSvMSAuPkKBtOKiDgr5+732n/9w5vaYD29Nl4OZGxXD7F1+O9CCaAXK6bND+verO4EUxVXCoxkG6f9xb5x7v4Z8CiIwEBUPNgjNrazlFoqld5XiKMpsJFYuNUyk2ZtJfirwf0wGb3kLzmxvUmcrs7CyArlhYQ5UFnpT946NmYzRREXtPZcYGcg+3VhxkadnDD4lIURka2goH7OpQ2jDX9/dfI8bCVm1kAGe8rkuYV3DEYMDOyhOfwE6Ds9haaCHbrYDAwugjZEUMFrlhGFnAHyVAAgqcSb5xSJtRmEM+rmCXD6NgcnYU2F1CFgeX55v6qulQofPfhLrrafPEfWE2kQeE3lPiBhr9ylmogrUy4oeVv9RoCaV45MeNWomrBHADYZTDqwIrWsgAAAABJRU5ErkJggg==",
     "wiki_name": "Blessed wyrm bones",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blessed_wyrm_bones",
     "equipment": null,

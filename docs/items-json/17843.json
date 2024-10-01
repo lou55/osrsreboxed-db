@@ -1,7 +1,7 @@
 {
     "id": 17843,
     "name": "Artefact",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-24",
     "duplicate": true,
     "examine": "An ancient goblin object encrusted in dirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmUlEQVR4Xu2Wb08aQRCH3U/RNKY11dSE2hBrLJYEigQpIgbBP4gi1SJtNU3TF/3+meZZOsfesiFyB7xykl/YLLmdh9/MDrey8hypwsh0LTWMrK2+iGn99cuYlghmJLPx6slaApSRbGY9pq3NtaAA4nOBUEY+bG1MyAf0QVkvCCoMFFLh4/sIZkFAo94h2W52c6oUyHdszlBPByrnt6W0l7UQflnHty813BhobzszIR9IYdQxF4o9HEwJNR3IhVIA1rrv7uV33slJNZ8WiBg1NUk4NAR0UNiJueXD8hzuzA3ITeJDuSA+kAoY+guguUEh/wa5/eEDAa7OoPN6MdqbC9Dg6koeb2+jpG7TMnt8d1wg3AHI/S4FlJGvnQv59e1Ohr2eBVO5QAqlCdUZYLiB9f1crMSsE4wCIxfNpvy+H1iYu8tLC4fOGg1p1+ux/y8XBhCFQX6/uS7OAGVsUkoFECDXp205qdXkuFqVo4OKfCmV5O2bVQuEY64zKho5VNIEc8nYxMCoQwABiQCqFItSyOVi80ah0HHlk9Q+7wZ7i75KBAQIPaNAWi6cQt1Wy5aWhPSUJtW+8UEUptMozQ6ECzfnZ1H/sAYAMNbs8d2f70ObWIeo74pbSmC6zbL0WpVZgQhjATR5CAr3KKkC4VLIFe2pFDCEsSWiJAqhIHziDjCs6SEdlCEgbpvC9E+rSYGIkUvaL7ikTY47P/p9C4Q7ett8IGAoIyBo0DlMB3RY3rcwCBBGwd+Hh/+HjoRr7vsTUC4MEKph9ygNEBFvcFyJH2jsTEIA4YwORmCYRUD8vG5ESglEGFs2yjR52BgYEF5JAOHqA/N407RyHY0/nzhCh43nFWUEgoEISLtWcOaN/9xCw/3lIT3HYuIfh5Zj0TDAYkoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu2WbU8aQRSFnV/RGNP6lppQG4LGYkmgSJAiYhB8QRSpSmmraZp+6P/PNM+sd5kdJoRlV5ImvckJm0W4j+eeuezS0v9KVEpP10JL6dWVVxFtvFmOaIFgSmc2X8+sBUApnc1sRLS9teoVQLy+IJTSO9ubE3IBXVCuXwjKD+RT8cP7EEaAcmtraUIF2aHZXnZrqgTIdSxll2YHqhRyuryfNRDuWMenLzHcGGg/l5mQCyQw4pgNxT0cTAg1HciGEgCu5b59r7D7Tp/WCmnkKgg1TfhSH9BhcTfilgvL53AnNSC7iQtlg7hAImDIF0AC5XaJWUEg3RNk58MFAlycQReNUngvFZeG19f66e4ubGqHlt3jumMD4Q5A9nsJXFL6S/dS/3y416N+34CJbCCBkobiDDCcwMZBPjJirudYBUpftlr619ehgbm/ujJw6LzZ1J1GI/L7ZcMAIjDIzZvtYgwoZZoyKoAAuTnr6NN6XZ/Uavr4sKo/l8v67fqKAcIx2xkRQfaNVPYSeZoxU8o0BkYcAghIBFC1VNLFfD6ybwQKnVQ/6vqnPW+2yFXMgAdAgJAZAZJx4RTqtdtmtDQkU9JUcuOCCEy3WY4PhAu3F+dhfrgGADCuucd7v7+NTGNZoq4r9iiB6bUqut+uxgWilAGQ5j4o3GOkAoRLPlckUy5MbCBGxEgEQkB4xR1guCZDsih9QJw2gRmc1eZxRypwSfKCSxJy3Pk+GBgg3JHT5gIBwxgBQcPuUTKgo8qBgUGAsAr+PD4+75BAuGY/PwFlwwAhGvWOkwBR0YDjSjQDyuwkBBDOyGIEhl0ExI+bZqiEQJQyY2NMk4EcAwPCIwkgHH1gnm5bRrajcwTaV74vG+8rxggECxGQTr0Y7hv7cynBBOX/Mvu5eVKpQ8xS7n/vyv37f7L+ArE6nSnWjQdAAAAAAElFTkSuQmCC",
     "wiki_name": "Artefact (Shield)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Artefact#Shield",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 9742,
     "name": "Combat potion(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "3 doses of combat potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADS0lEQVR4Xu3WeU8TQRgGcPplNAaDMWBULIcc5dBytRwCoQJFUiG1QAGbWgKCBJWQEEAjSCOEACKUkBA1Go1+slef2byb2dktdtvF+IeTPOl2Z7r727m2eXn/fnGRdazqz7246GXcR89jzSLzk000F20UYcTOci9tLQUoudhjgVIfIme4BmIUQBwVs/mim17PdxpujO+oU2NE2UK6aCnhN6HwCQiHQWtzHbQ83Sba4tMKhPYy+ttBnL7sjmWHYhCOuXcYtL7QJUDcNh0Iv/u6H6MfqRn6mZoVIFsYXJSfmkG4qQqSnxptV562W4J2V/oMIBxnCHIZhgEIntz4LoPQdmakgB6H8mkkeEl8Twc6eDXgHIh7CedU0GmynE7ellG496IOwjCqoKM3D3QQYgvE80IF4clVEDDvV9001HNBHzor0PHGoBG0N5E7COcBQtAuGBzU09raSd4GH3lqvKJOBZ1shpwFIRhKGRSLxSgaHadIZJR8vg6qqW2gm8XlJhB68+PWsA76fjiVKQbFCJJRuDiDeMgSicTvTJG7pDLtkKHtp+1wtiAU7cKYoOlAqEfvAINUVtbpv0FPqqDPOyPZgrQ9CD30JxBjkLr6Jn24VBDayyAbm6J2MSsQooIwh+LxuBg2n/8eVXu0CS2D0DuOghiF4AbYcRkUSbWLDOx4KbBeS82zJVQxdFXUnQtI7iV8MkjGyKCWZ6VUFS40gfZX+3UQdukMMSjaCrEC8etAxSCDe166v1FH/oUyqhm7Ru6+Ah2F3sFrQ+6hrEDqPOKlzKDRVKceBrUt3qb6yRtU9ahItOPhwmvDMRCjcB71MoQT2m+gvmQ9dSxVkPdJsZhHxT2XRXuAsEvLIBsoDWQ1bFag6HG3iAC9u0NdK9XUOO0mT6SIbgXyRXvMudPkQx2EPcjGPmQEycPGIEbICX1o0kBrHjGxa8evU2n/FSps0V64OYGwys4CyfMHmInjAA0ftlBw+65p6TvSQwxShw3n+f2FhI/8Og7HWPrAcD1PaCx5GYQ9yPY+ZDVsDMIT45hvrIZXI7d1BGQ1bDIIdfLfEhzzbs6vDfSOAyAU81NbRcbIUUHYFGUQxwYo02JGcuT58xdBZxUz0pz/JbfyC5DOTfHv18IqAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Combat potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Combat_potion#3_dose",
     "equipment": null,

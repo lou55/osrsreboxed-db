@@ -1,7 +1,7 @@
 {
     "id": 7547,
     "name": "Druid pouch",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-13",
     "duplicate": true,
     "examine": "An empty druid pouch.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtUlEQVR4Xu3VvUrEQBAH8BvCsiQExaexsbCxuMZCsLjiCgsLC4sDC4srLIR7AnsLa8FCECwEC7EQBF9ondmPMFk3e3GTnAgZ+LPkPjY/ZjebyWSsscZyBSqejZW5YX5bqvyuNONNqeSqUHKZK3GOOZGbQoG+eXG/pYoHzKMd8ZrDsj0xNMh0RQOetlXxjHnBvNqRrulzhIkjobIDzG42FAr0Tejm5RvmHfOxo8pPzJcd6Zo+x+/FXFaoAUBg9oSNXNhc2FzacWF/c4Y5RdBMquwQUfu9osBMziE+JgTyUD2BQLc+COEYB/JRBMInTRwjatoZBXoimriG4JAlS6xLFtUBZDYwTVbrAo+DXJlzp3HpHMhu8kRUAMS7wTEubbo0T+4SWy4fxBGUaw8UQvEuzZJQoP9YgUIYgvDEutQbiB710BJxCL272oJozrTNbR73GiiE+Q2I5qNtkLaxPVBsqdqAXHfoVZJ2SIKeRB+EMcw6kNcd/RpJPyChDvIha0C6O3zvUHemnV+2EMc0gVx33JNVbWSXTgU/EU0grzs9IvziE3tAB6LuIGZARKzqwD9CjDXW/6pvksZltDazgi0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1ElEQVR4Xu2WMUsDMRTHG45w9DgUv0E/gpuLg4tDFwfBoUMHBwcHh4KDQ4cOgp/A3cFZcBAEB8FBHATBLxTfS17KS8yldznvXO4Pf8Jd25cf/7wkHY0GDRpkJVTcvclMOL4r1fi+NONtqfKbQuXLsZIX4NO8LyihJy8etlTxCH6iEZ45WLYvNdDuZNIVlElFAzxvq+IF/Ap+oxGf8T2AyWOpskPwXtZVSkJPgpOX7+AP8OeOKr/A3zTiM76Hz+U8X0N1kJIwPUHOF+RL8hWNC/rOOfgMgGa5yo4A6sBA+VUTJUxxDuLDhIA8qD9KSejogyAcxgL5UAgEO02eANS0dUpCF8LCDgQHWTLHUiKoFimZBsZiTgrcFmRlzp3KpbNA1OSJKQWAeBocxrpOSvPklNhy+UAcAn3tAYWgeEqzpNNb6B+ugUIwCMIdSykA1DAlAsKtHloiDoJ3V10grJnW3Ga7O0AhmCZAWA/bgBq7HVBsqeoA2XTwKkk7JIUuog/CGMwmIC8dfY3QAdkQCCVcIB9kA5BOh/cOpjNtfdmKOEwVkE3H7ixqZGuESQRCid8QVUBeOiGIljBW7v/kIBCmAzAdQrhyC7uAvUHE5E/8LxCDBkX0AzHcl+F2gx22AAAAAElFTkSuQmCC",
     "wiki_name": "Druid pouch (Empty)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Druid_pouch#Empty",
     "equipment": null,

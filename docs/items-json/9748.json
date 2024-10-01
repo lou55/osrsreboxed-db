@@ -1,7 +1,7 @@
 {
     "id": 9748,
     "name": "Attack cape(t)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by masters of Attack.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xt2Wz2sTQRTHd1iWZYdlRdqLHvRQakEERZB6UKxo8Eek2NSo0VoU8eChgtCDv5AgsVCqKEFEhUBBUaFQLCgUeij0UHoQCj305MGT/8bX/c5kspuKshV3Aj54BCabnU++7833jePkFgIbV/5h8OWb2UAgcpxN/iZz6JdHQdYNBLrj5/t6ejI+/1ch0LvNAP1OLb2+3U0/l2sI9O9y1b9v31Tnbs/Bzta6tRA45LvY4SVgzH2Bj/3x2kD8nXWgQrzpAemjz/daUHtioF776jAESoGHU5HEQRkoEPOZlNFaCKx/DvGjEWEwcJVSVIlAe+NydUAhgdXZEN9fRShLT0ERhj3F/qkUPftAX2dCfHsZ4mp3E2pL2OqpjgAtvw+xXtdAF7t0Hg2DzgEtTkusPW8qtDXEUKzQpdJQ54AWGhKrTxOgkXPDGC4WW0C3z/i2oAQatQALValO2kiXBho9X0b9ui5Z+YSHsdPWVBKYntBAa580EPuHChmg0nHLQO8mAyw+kuroGyCuFWKTJNDggGsX6MOTdiCWTB37FNDNkxaBZp5JLD2WyouoDk/YRqBrxywCzdYllidCrHxMgDjT6EN0bPZQ5bBFoLkXEiuTGsh4UBqI9yFCVS/kfvQFXlcDzN2Vyqk5MtTEbw5YM8s4YAl0p2QBiB705X4CxMGaBur3EyAL5tgORHXM9YPJWyKBqJIlc9SmOP8wATLqGCBTNgLdKHiqxDlCaVNceit/KVcaiCoRiEe/fs8SkCnXn4CuHPEwNZ5rH2mXzgpEL6rd8lWZc4ISynuyALGPmGOXLTQ2gebfSGWQVIwKsHk57adGfdQqPh6UfYyfzbVc6eAmWfM/ip+iQgcLjRLAigAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsUlEQVR4XsWXzWsTQRjGM4Rl2WGJSHvRQy2UWhDBIkg9KK1o8CNSbGrUaC2K9OChgtCDX0iQWChVlCCiQqCgqFAoFhQKPRR6KD0IhR568uDJf+Nxn5lMdrtq2YCzeWEITHZ2fnned553kslYC4H4zH8MvryVDQRymUyLaxKHfnnOS7qBQGfwfF9Pj3q+v7s7wZqWQ6B3jwH6l1p6fm82fI4wloAYAgP7s+rXRzc144CTwb7GvAGxCGNC4JibRZcTgnH0ey4OB3NDwXcW0/S3EMgHmx6RLvpcpwl1MADqjakTX2kpBIqeg7M5iaPSUyDm06QxVZitrz5+1XMY9rJKKapEoENBuqIKxVdaCoGNBR8/3+RQko6CIgxrivVTLjjpA32f9/HjtY8bnQ2oXX6zptoCtPbRx1ZNA13p0OOE77UPaGVOYvNlQ6HdPkYCha4WR9oHtFyX2HgeAo1dHMVoodAEunveVVDxlRZCoF71sFyR6qSNdWig8Usl1G7plJVOO5g8l5pKAnPTGmjziwZi/VAhA1Q8lTLQhxkPK0+kOvoGiHP5wCQJNDyUTRfo07PtQEyZOvYRoNtnUgSafyGx+lQqL6I6PGFxoJsnUwRaqEmsTftY/xwCsafRh+jYrKHy8RSBFl9JrM9oIONBUSDehwhVuWz96Au8rXhYvC+VU7NlqI7faLCml7HBEuheUQNZVEl70LeHIRAbaxRowA2BjDmmBkR1zPWDg7dEAlGllMxRm+LS4xDIqGOATNoINJF3VIot1pE2xdX38o90RYGoEoF49GsPNJAllUIgk66dgK4POpidslpH2qWTAtGLqndclWZLaRPKe5IAsY44Jq+FhW1NJQItvZPKIKkYFWDxstvPjruoll08KrmYuhCmyxKMie3/VHcaKcDoMBslGfG1SeM35IxEsIqNzsIAAAAASUVORK5CYII=",
     "wiki_name": "Attack cape (Trimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Attack_cape#Trimmed",
     "equipment": {

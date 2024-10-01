@@ -1,7 +1,7 @@
 {
     "id": 11160,
     "name": "Flighted ogre arrow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-18",
     "duplicate": true,
     "examine": "A wooden arrow shaft with four flights attached.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAArElEQVR4Xu3TMQqAIBgFYF2bW1o6QAdoE4LGTtCRPEF1ga5pqJhizr5H+CBIFz8e/y9ESwtlpMlvgJFmmUdDgqLC2FCBqDA2JRAMV8Z876olf9yfh75DgMoYunaoMHQgKgwdiApDB4JiIiA/V018/L5O9wHbkQ6wb9OLWZXCtnNo7R4OGGA7IXGIwbNTCrydNFTt+BkKmwYGeUy6bXCQ3bR028AgG79h8f/neQDQvMwghkszegAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAxklEQVR4Xu2TMQqEMBBFTbu1jc1ibWVlJwiWe4I9kidQL+A1s5hhTHaccsmfhTxIERV8fP6vqkLBJM7LJ0Ccn4anNyIVZfq2DUd+kZlvIfk2M3+RDqxHWjrQcst06N7UD0SfdJl7YtnQhUzJ3MudDV2opEPoQiUdQheCpsMC8g6TOfYtHGA6Lgi8X90lM48jNp11WcKPWQaYDhNLDO5OJP4Ynk6KkXQI6hAvDSxEMuna4ELn0tK1gYVOaGG8NgOFpqWxxK9lPoF4FruBt3KUAAAAAElFTkSuQmCC",
     "wiki_name": "Flighted ogre arrow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Flighted_ogre_arrow",
     "equipment": null,

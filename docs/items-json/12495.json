@@ -1,7 +1,7 @@
 {
     "id": 12495,
     "name": "Ancient chaps",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Ancient blessed dragonhide chaps.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xu3W22sTQRQH4ISQhwYJFIMlDc1SJfahYiWkjcXEtrREg+IFResFpYotXkEUpRTFSyneKJR6QaWFSqmlaEUQFUXRv+zob5azPTuZNNlkFR8cOMzu7MnutzOzMwkE/v0SJHOYrv/xEqSHYwfo/uh+FRPX99H41b0qGDE/NURzkydp9tEJA0p/ibrhNohRAHHomJkHx+nZxFHXg3GOa3q4UZ6QQZq8cbAEhRoQDgY9GR+kqVuHVC5qEwj5Ev1taYy+LFypDcUgHHPvMOjFvWMKxLnlQPjd18VR+rF8m34u31UgTxjclN+aQXioDpJvjZi+c9gIWpg+5QLhuEpQ0DUMQPDkxrkEIbc91k6tUYvikTjFGmKqzQRaenrGPxD3Etp00JHwIBVDOykbypIVsFQbhlEHvX0+7IAQnkA8L3QQ3lwHZTZmKJVIUbwxTpFwpCzo3csRN+j1tfpBaAcIgbwdmQJ1NncrFGqrKVkW9H7mrL8gBIZSgnqTPdSzebuK3KacChMIvflx7oID+v7mZrUYFDdIonBzCconcgrT3bxVYVrWtFC0Iaqu6aBPry7VCkJZ+YQrgbYle1XwxEY7elIHfZ6/XCvI/mzRQ5VAI7uGqW9Ln4qOdR2qh0wg5EuQh0XRvpkJhNBB/VY/ZRN5hcn/PjaB0Du+ghiFwAOw4jKo0FpwJjX3FNr14fINJHsJtQ4qri9SV7yL2ta2Ubop7fSQDlp8fNoBYZWuEoNif2EmEG8HDAIc+fjCUo0bFAhbiA5CLrYN2UM1gfR5xGsLg3COfHxhAKHWQTxc2DZ8AzEK7XgAg3Ad+QPpAScAM4GwSkuQB5QNMg3baiCuTSDkf5g954CwBnlYh9wgOWwShBrtyMfcQc1zSYIArxuEyVoJhIehDflYg0wgHi7fQPqwoV2CMNGRvye0W9UXw+fV9sH3YBA+eQnCGuR5HTINmwThGCBsJ/gNVnH7ASs7Pef6AjINmwThmvxbgmNezXnb4OGqE4Riv2mlkBgZOgiLogRxeABVW0qRHHL+/EXQaqUUWRr/S33lF+ElJvGJimxMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xs3W+0uTURgH8I2xHxwxkEYyh5sWyx+MlLFc0paKYo2iC0XZhaIipStEUYgUXUS6IYhdqFAwxETKCKKiKOove+p7xvPueZ/O3ObewgMP5915n+183nN75/Ot/uIne9ju//Pip0ejB+jByH4T4zf20di1vSYYMTd5imYnTtLM4xMWlH6ImuEFEKMA4tCY6YfH6fn4UVfH+Ix7OtyoqpB+mrh58C8UakA4GPR0bJAmbx8yuahtIORL9PfFUfo6f3VlKAbhmkeHQS/vHzMgzi0Fwve+LYzQz6U79GvpngGhj47mZhO6d1UKw85PzSB0qkHyqRFTdw9bQfNTp10gXDNI966K3zUNQPDixmcJQm5bpI1awgmKhqIUqYuYNhto8dlZ70A8SmjToCPBQcoHdlImkKGEL2HaMI0a9O7FkANCVAXidaFBeHINSm9MUzKWpGh9lELBUEnQ+1fDbtCb67WD0A4QAnk70gO0pbHLoFAnGuIlQR+mz3kLQmAqJagn3k3dm7ebyG7KmrCBMJqfZi86oB9vbzmYqkEShR+XoFwsazBdjVsNpmlNE4XrwuaeBn1+fdkK0r2XKMUtXA60Ld5jghc22jGSGvRl7spKQYVtixEqBxreNUS9Hb0m2te1mxGygZAvQfJQ1L2rUvgxGwihQX2JPsrEcgaT+3NtA2F0PAUxCoEOcOIyaKBlwFnUPFJo19PlGUiOEmoNyq/PU2e0k1rXtlKqIeWMkAYtPDnjgHBKM6YiEHaYDcSvAwYBjnzssGT9BgPCK0SDkIvXhhyhCkcHpQjS64jPFgbhM/KxwwBCrUE8XXhteAZiFNrRAYNwH/n9qX4nALOBcEpLEKN075ZSANmmbTkQ1zYQ8j/OnHdAOIOqOIfcIDltEoQa7cjH2kHNa0mCAK8ZhMVaDoTO0IZ8nEE2EE+XZyA9bWiXICx05O8J7Db1peAF8/rg32AQtrwE4Qyq+hyyTZsE4RogvE7wHZziqBG8GznXE5Bt2iQI9+TfElzzac6vDZ6uGkEohSctFxIjQ4NwKEoQRxUgn4+P9eVCA2XI9eMJqNKikZVgOYq5/6lopC30d1Z1+Q0rOHF9jqdHEQAAAABJRU5ErkJggg==",
     "wiki_name": "Ancient chaps",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_chaps",
     "equipment": null,

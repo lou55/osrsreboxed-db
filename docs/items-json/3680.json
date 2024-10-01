@@ -1,7 +1,7 @@
 {
     "id": 3680,
     "name": "Shoe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": false,
     "examine": "A shoe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFUlEQVR4Xu2WYUvCUBiFtw8RiiihGCYZJiplpAgVQoUgFVJEEAQRBEHQ//8Fb5x7Odu7y9ZgbqwPHrgENXaee+657/K8rbYqTb6Eq1RZiOWsJ6+3I7k575YJ5cticmBg6p4XrJKgfJkO2hGQ+4t+WTCQL0+LgbxcD81aXx2bpJBYFEh3q9Ce+fK+OpWPu4kBW82PTDrz0X7EGJBIDv1Khs5Fvnw/TuXz4cwYwujypCOTfsuYAQ7G+kix8Ds8VwAQZFNCOjBCp8a9pjFDGhoEwIAETJhirvLl53kmb8txcFRIp9+pGzOkhqPETx4n0wF4IUBf63NjynSG3T3pNKsBEFICjJtOYUAoNEy568N2TRq1XWP2VzrsmfvGDWRvEPoDUx4XEqpWdszfcKuS0mHP3LdmkAVBMjDkINRASAlQLHtcOjkAhYlgCGoj7loDtRqV4Djj0sFzGYEsCG4SOgEDzhwa6V3DCLcMxQYQ4DUQn+NNdN1SZBMBDF5MIKajYVwgpEQgDsxcgNgVAjEd96g0DEYBpjc3gg24SRI6ExR7kwZDEGyCR8zSayCdImeW65oiO1PijgowGgTwSDTpeQ2D4meAoexXW7/cBUEq/KLz26a7owu/IQxlbxyXC6L/J0q6WUyG09x12EAWSN9APQ50z9ixsMRcucvOJ134uKkcDsFCIFxZI30DeVQFp5GmaL9Kgtjqf+gXctI+xj95QugAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACK0lEQVR4Xu2WUUsCQRSFdx8iFFFCMUwyTVTKUBEqhApBKqSIIAgiCIKg//8LbpwZzu7dYVXM3fYhLwxCjXu+OffMXT1vW9vKrHwJV6ZlIaajhrzcdOV6UM8SypdJ/8DAFD0vWBlB+TJsVyMgd+etAGbUbJrlfivF8uVx0pbnq45Z88tj4xQcIxD3xa/Ey5e32am83/YN2Gx8ZNwZd/cjwoCEc8iXC+0+ccPy5ethKB/3Z0YQQhcnNem3KkYMcBDWLcXC37Av6mJiZV2COxBCpnqNshGDGxoEwIAEDF1MGMiX76eRvE57QavgTqtWNGJwDa3EJ9tJdwCeCtDnfGBE6U6nvie1cj4AgkuAcd1JDQiBhihPfVgtSKmwa8SWucOcJQhkbxDyA1G2Cw7lczvmf7hVi9xhzhIAsiBwBoIchBoILgGKYY9zJwGg0BEMQS3EU2ugSikXtDPOHez7JZAFwU1CJiDAmUMhfWoI4ZYh2AACvAbiPt7ENYGsI4DBgwlEdzSMCwSXCMSBmQgQs0IguuO2SsNgFGB68yA4gOskoW0H1qowN6tgCIJDsMUMvQbSLnJmuaorys6UuFYBRoMAHo4u2q9hEHy2bc3WoexbWz/cBYErfKPz3aazowO/IQwr+nvGBdG/iRbdLDrDab4BjK3wRBZI30A9DnTOmLEwxHZt6E5c2fmkAx83lTkENUQKMCwrpG8gWxXnRkoQ0WIL3fUHbiwvFyATiH9ZP8BLdq+YYKscAAAAAElFTkSuQmCC",
     "wiki_name": "Shoe (interface item) (Basic, brown, male)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoe_(interface_item)#Basic,_brown,_male",
     "equipment": null,

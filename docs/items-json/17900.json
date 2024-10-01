@@ -1,7 +1,7 @@
 {
     "id": 17900,
     "name": "Primed bar",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-02",
     "duplicate": true,
     "examine": "A primed elemental ingot.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwElEQVR4Xu3T30vCUBQHcO/f10vgg0FCEhIWWYiImCUiophlppmVKCJmIqKYmYhiaqAPQiD54l9z4tyxJV7Xav5K2BcGY+ze89k9ZyqVEiVK1iIEvq+Vh4BavQFbmk3QatWrhhEBotNpQK/fhn3DDhiNu8uGccWmQUymPTCbDWC1HsKp/XgZMHGIxXIgQJxOM7jdVvB67XDhdywKRkQhJ7ajqZBg0AWhkBsiES883PvnBeM2EYM4HCZwuSwMJBz2CJB4/AqSyTCk07eQebybBSUN8XhsDCQa9TGQp0yM3uN+MkFEEnLuO2MgsdglA8nlErO0jFskBQkEnAwkkbhmIIVCis6RDAjmdxAsMAlJpW4YSOUlR9fIxsiF4KBms3EBUiploFYrym0RhkhC8I8Rg+TzSQGCp1J+fpIL4UNoYTEIDqQYpFhMC5B6vUSfzYjhQ2ihv0DwJBBSrRag06nP0iKxELo5Fsdf90dIJU/fxVPp99/nDRkP95VYTAyCA4uQ1tvrojHjIdDtNoUh5SGNRhmazQr0eq1FtEgqXEGEIQRPpN2uwWDQXzZkMgSGww8KG40+V43hw7fnX2CUKFmPfAHHbvnr6fXX1gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3ElEQVR4Xu3W3UoCURAH8M6b+Ai9RzeBFwYFSUhY9IGIiH2IiChmmWn2JYqIqYgoZiaimBbohRBI3vQ0E3MWt/J03HZNLdg/LIjszvycOQvOzalRo+ZfhMDHNfMQ0GoXYEm3CCsr2lnDiAjR63VgMCzDhnEVtrfXpg0Tmn0HMZnWwWw2gtW6BQf7u9OA8SEWy6YIcTjM4HJZwePZh2OffVIwwoXs2Xa+hQQCTggGXRAOe+Dm2vdbMKEID2K3m8DptDCQUMgtQqLRU4jHQ5BMXkDq9moclDTE7bYxkMtLLwNJpyL0M9bDuvMajVwUkYQceQ8ZSCRywkCy2diXlSFGBkh4SAri9zsYSCx2xkDy+QQ9R58hsjA/gWCDYUgicc5AyvdZ+oyCqWCIYgge1EwmKkKKxRRUqwWlK8IQSQi+MTxILhcXITiV0l1a6YoGIbQxD4IHkgcpFJIipFYr0u8UTmU4hDaSA8FJIKRSycPTU22cFfFCaHFsjq/uSEg5R+/FqXS7z+OuaFSEX4nNeBA8sAhpPj4wmOFqvxKhMIF2uyEe0gGkXi9Bo1GGTqc5iRVJRWiIMITgRFqtKvR63UmuaHQG0+r3Xyjs7e112lPhZfDX4U9ghMxkRWrUyMg7vY0tlmuCg6oAAAAASUVORK5CYII=",
     "wiki_name": "Primed bar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Primed_bar",
     "equipment": null,

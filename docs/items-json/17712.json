@@ -1,7 +1,7 @@
 {
     "id": 17712,
     "name": "Elemental metal",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-02",
     "duplicate": true,
     "examine": "It's a bar of refined elemental ore.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAwklEQVR4Xu3VsQ3CMBCFYVsoyg70NMwQiSkQEzALBUM7OhAYnnPYOftyFP6l18SFP7mJc71e72/zIZ1ZPpyGazIj3DIGtxGqDHMeb48pv9g6zOfoe2OcHIOwiBPXFnMZ7zWgJ+awmxKAFFMBihhcDUYI4jE4BOQwAlA55hfIBMOBmmJwCMApYSgf9u74HsI4nBKG+gaV4pQwFA/K4RQwVBmIwzXGvIo/QLw8NwUMtg6njMHyuA0x2DLOCINFHJ70elbNHipYiOM4PCsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA00lEQVR4Xu3VsQ3CMBCFYVsIZQeqNDRUDIDEFIgJmIWCoY2cKBieY+588cUp/EuvSWF/chNjWq3WZrMuXrWsu+4f0Srh5jG4lVA8zK17DlN+sTzM9/z3wjg5BmEBJ64s5t69BtC57yWoEXPcXSKAFLMAFDC4JRghKI3BIYDCCEB8zD8QhWGC8jApUFEMDgE4JYzPuoM5fYawFE4J4/sFcXFKGF8aROEUMD4eKIUrjJkKP0C8nJoCZiwclIdTwWA5OHUMRuFWxWBzuGoYbIJsAtOq0RvJw5Bx7ZV28gAAAABJRU5ErkJggg==",
     "wiki_name": "Elemental metal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elemental_metal",
     "equipment": null,

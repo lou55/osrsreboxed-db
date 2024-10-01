@@ -1,7 +1,7 @@
 {
     "id": 19678,
     "name": "Ancient shard",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-06-09",
     "duplicate": true,
     "examine": "You're not sure what this is, but it feels powerful.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABF0lEQVR4Xt3UzwpBQRQGcFN3KW9B+RNeANkpZS+UF7CwVsoDWHgAKyUrylPY2VnhVUbfTOfeayZsOGfy1be5cxe/zr1nMpn/jNLuE8EoXYg6OiCU0oftLRSQnQ5AxagbAspOJyjQfnM1beXG0v+SMgjCjKoLSZAyn8gFCaKCAiUYAhFGCPUZhHOmrbOYNOi4u3sgQrGBCNMvzzxIvdA2ZQcB44IIww4CZDk/m7oQdlAp6ulBZR63lm++LN79MeoZ5AKo0+yZA4N8BgEjAnoFEQGhBFmvLnqSPXllAiF2096BGG9q5D2IGUNJUGlQIzeUwCA+iDBCIMSiCCM4nXRUDKLtEwdhKgQSxiDBgRCLCgSDBAdCvod5AONAscEENAiVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPklEQVR4Xt3UPQrCQBAFYBdSimewMeAP6gVU7ATBXlTwAhbWguABLDyAlSBWCp7Czs5KvcrK7DLJZqKmMTPBB9Mkm/DxNptc7j+jNL0iGKV9r6czhFL6tH8YULNYlEbZdgBU9vpZaMm244KEW1L6uLub6RSm0t+SMgjETOqrACTQkjJbREEuij6RcpJBjC2FGAQhhqLokyklGQT3mX4DFuOCzodnDIQohq2LtjOsLmKQpt81ww4CDAUhhh0EkPXyaoZC2EEVb6BHtWUwjVL748DalD/sKIgCcOb5a4CBhlJsKRkEGAqib/lhQtAniAgIBiHbzU3P8pfYMIEg9qR9A7l/anEQxTCAICHKBbUKYwkMJA5CDONW0VgUYgTbcaMCEJ4+oXYwtiUECbcDeQ+iq5hjURloBxMF0btC+V07Lz603MM4YzdfAAAAAElFTkSuQmCC",
     "wiki_name": "Ancient shard",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_shard",
     "equipment": null,

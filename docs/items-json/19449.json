@@ -1,7 +1,7 @@
 {
     "id": 19449,
     "name": "Guthix balance(2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-22",
     "duplicate": true,
     "examine": "A potion of harralander, red spiders eggs, garlic and silver dust.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xt2Vy08TYRTF+Vy4cKEhQZC+Wx6FtvRJh4E+pqWlpSUCykPkVYoUgQYx0UTjgsREFySESFBCNGpIiJpoNBoS48qN/9dxvk9mmPJwNcwk3ORsZtH59Zxz71RVnY8hqJSuQ1CaimJkIIi00Iqg16w3FMHedhG7Lwt4tzWNlfkUxoc5PaGIDPN6YwJLswJzSyegf52RgF6tjWGhEMdQX0CPPhEEAh6EQl7Znc3no6xPgzkfGhxWNDXZtYQi6OgIgudDFfL73fC4W+B0NsBiMWoLJAj8Mfl8LrhcTtjtFtTVXdUWKNMjyEqlYujujsDrbWVRGY3XUF19RUsgOuINKk1ieXkW5XIRS4szLC6r1aRHqekQxGMdyOW6kc+nmGhcNptux5GwqHK5FJMERPujG5AEI4lGRlde40LTIUgmu1hcSilLrTkQ3a7e3qQsjguwO0Rv0GGxNRmCRKIT2WyiQvRQ0sst9chkMmgFRdjNUd4hKnqpw2G/HJtGLhFEIhzbrp50HNaxAAx9LtTGHLjiM1TERsutgUviN+zNLbRvDSGw1g/v0xzcj9NoLsfgKHCwjPhhHPCgvqcZNZ12VAfP9HtGEN4ehvB9DrEvRUQ/TIN/exvczigDDK4PwvcsD89qFq6HSTjvxdFQ6mSgZwBFENoYBP9+HPGvs8j8WUH6dxmpXwtI7JfYMwrI3HtxQ3avscTDLLp2JkDczgiinwoQvt05UZGPU6JjYwdxXofrUZoBWcSemYe9akIRtG/eRGRvEsKPuVNFYamDSqCmxQjsU2GYh3y4cOmiWlCE/XPmhAIgsT9fIQmI9kwGKkfhmOFYbIa8Sz0g+rKjAEcV+1xE1+6EDOR+kkHLfYHFZpsIwTTQhtpko3pQyZ93/ytabCVQ22oGrQ8SLDbqUA1vUwuGDjkxrlOB1vuZQwxG7M9ld52aMNLQHyTsxfJ2KeDoc1p8uo0STH225QBEdRjlSC8gFWBs9UUgCkOLrAHISXMId1zncP4CTMV/Jn/5cGoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xt2X3UtTcRzG/XXRRReJYJp733yZbnOvbh7dy9nc3NwktaZmvs2ZM3WYQUHRhRDUhSCSWBJFhSAVFEUhRFfd9H89nd9vnuPZ0iA4O4O+8Nwctp3Pnuf5fXdWV/d/DEG5ajoEhbkQJka9SPBd8Dr1tYYiONzP4+BZDm/25rGxHMf0eKCWUESCebkzg7VFnrlFr7tNJrWhSp0RgZ5vTWElF0F22FOLPhF4PA74fE7Jnd0nk6xPY2kXWi1GtLeb1YQi6O31guN8ZXK77XDYO2G1tsJg0KoZHQHPc3/I5bLBZrPCbDagufmSukDJQV5SPB7GwEAQTmcXi0qrvYyGhno1gegIO6gwi/X1RRSLeaytLrC4jEadVGoKoypQJNyLdHoAmUycicZlMpWWo8owdAiLKp2OM4lAtD8qRyUOkWBE0cjokRcLXfmOKg5BLNbP4pJLXmqVXSqdsqGhmKRAwMP2EN1BYrFVAiKIRvuQSkXLRBcl3dxij3Q6jVqxEbZz5HuIim5qv98txaaSSwTBYICdrsFEBMYpDzTDNjSFLah3acpio+VWwSXhN+zVdfTsZeHZGoHzURr2Bwl0FMOw5AIwTLihHXWgZbADjX1mNHir+ntG4N8fB/91CeFPeYTezYN7fQOBF5MM0Ls9BtfjDBybKdjuxWC9HUFroY+BVsElAt/OGLi304h8XkTy1wYSP4uI/1hB9KjArlFA5t7Tq5J7bQUOesG1KrhEBCcmEPqQA//l5qkKvp8THJs6jvMKbPcTDMgg9Ew/7lTSJYKe3WsIHs6C/7Z0pigsdVAO1L4ahHnOD33WhXMXzisFRdg3Z07IAKJHy2USgWjPJKBiCJaFAItNk7EpFR1hN6sEqFT4Yx79BzMSkP1hEp13eBabacYH3Wg3mmJtyrkU+37rr6LFlgN1bybRdTfKYqMONXLUGcUeS8ipcZ0JtD3CHGIwQn8u2puVhBGn9BRIbyydLhkcvU6LT0+jCNOS6jyOSHGY0pQ+UPzPRcrA2NEXgCgMLXIliOIw8jm5wQlcpVQBOW3kN65U5Wv/dX4DKu20McEMtrgAAAAASUVORK5CYII=",
     "wiki_name": "Guthix balance (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guthix_balance#2_dose",
     "equipment": null,

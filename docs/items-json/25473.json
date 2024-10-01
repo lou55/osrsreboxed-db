@@ -1,7 +1,7 @@
 {
     "id": 25473,
     "name": "Open gold coffin",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": false,
     "examine": "Can store up to 28 shade remains.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkUlEQVR4Xu2W30tTYRjHPcQ4HBFiKI45MlqoyKStmNZAU0HNEtZ+ZHOtOadmiiRMIpAoJCS6CroIgu66FfoXn/q+L497zzk7c5y9Z974wJddnLM9n32f7/ujr++6rovLILd6Xs3m64ujNj1N9/cayqBkIuECYS2negYkHUFDJ8QVAEmQT/VBWk7foLf5mzaIwuNbF8J7U6NmkFDSme9Hw/SuGBIAO9km0MbSbSF258F4OCgYe2jfl006ehm2QTAINJ1K0sL9CE2PBeKOe/Wcf+m3OaNqLTNCz2dj9GjCoolYSDeQIZaus6mXAAIhP5Zp6s7P5auIpQYZYwIMlIprA+ochoUMMYhmoM5g1DA7QVgaQt0ZTGXljlBtNe6CYC3es2guOdwN0OUweA6IdiAQFsLqwyjNTA76BfKGwUjwbHstLvQme9cFoILgXaF01O/G2BoGICvz8xeOtHMF32cYjBJLv4txuTc+FiDQAHlwQqiuQHgPDgIGm2NmasgPUHuY7MyAJwy7wiCHhXGqPgnRYTEsxuULplGa9FQ+M+CCUF0BCPIE+L1qlV4V8mJjPNn0HWSUPDT/fpNnj7NxK8G1/dyYgP64maDXL4q0W6nQRi4nfudsz9eo1DJs2307qfsPxnRcDv8Pr0U/Gxad7Zris0sYlCH+NTLh5RJGpO7MAIITpztDtL4gT/StUkkHDMoQgYQwCjRHkAHHy9gZ+F8fIvSjEREXNQAf1Gq6YLgkFIAghBWCE3zxUk/0P59H6LRuUnkpJIDwqR0IIAzlBAIE33Wg868xOshJmPoz7TBchoBQXUJweWQA4VUJMVQA7qjVhHIC2Zsa9PskKi76AcJwSQcYCmNr3ZTd6lk1x+N8orv+AV/L6RIshzh3AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACr0lEQVR4Xu2W70tTURjHvcS4TIQYimOOzBYqMmlLpjWoVFCzhLUf6VxrzqVZIgmLCCQKCYleBb0Igt71VuhffOp7Ds/uuefu7ue99sYHvgzuvdvz2ff5nnPuwMBlXRaXQU5deFnNN5fHbXqUGrxoKIMS8bgDhLWalEDJiQm/oaQjaKhD/AcgCfKxNkyrqSv0KnfVBpF/cK0hPDc7bvo5NunMt+NRelMICIC9jAW0vXJdiN2Zmwo1HPLYJXto35VMOt4K2SAYBJpPJmjpdpjmJ6U7nsPo2Tj/PGhzRtVGeoye3IvS3ekgTUcDXgMZYunqTd0EEAj5CZpmIz8eAbVfRSw1yBgTYKBkzDOgzmFYyBCDeAzUGYwaZh2E5UGoO4Mpr90Qqq7HHBCs5VtBup8Y7QeoPQzuA6IVCISFsH4nQgszw70CucNgJLj3YiMm9DJz0wGgguBZoVTEtjHqHVtUcxiArC0uNhxp5Qq+zzAYJZa+Oq6ugXQYFiDQAHnQIVRXIDwHBwGDzTE9O9KbOzqECpNZGHKFYVcY5Cg/RZWHAToqhMS4enDHoHpxxlW59JADQnUFIMgT4A8qFXqWz4mN8WTHCnIXMFzy0PzzVZ49euNmgmuvs5MC+sNOnJ4/LdB+uUzb2az4nbODnkallmHb7ltJ3X8wprel0L/wBulHPUhn+6b47MMdLkP8a2TCzSWMSN2ZAQQnTvdGaHNJnui7xaIXMChDBBLCKNAcQQYcL2M98D/fh+l7PSxe1AB8WK16BcMloQAEIawQnOAXL/VE//1pjE5rJpVWAgIIn33mRi9DgDCUDgQIfteBzr9E6TArYWqPLRgPgVCGgFBdQnB5ZADhVQkxlA/uqGVB6UB2Fwz6dRIRL/o+uaOWdIChMLbmTeVzzus+FLvQrqnb9W7rLyvRKDV2zxx4AAAAAElFTkSuQmCC",
     "wiki_name": "Gold coffin (Open)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_coffin#Open",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 29135,
     "name": "Cooked dashing kebbit",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "I should eat this quickly.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xu3W+0tUQRTAcfcHf8gfklCMDA0VDQuyxNTQrFDLIsiwh9jbsBc96CkmRQ+RXghiDyoUDDGRMoKoKIr6y05853KWubOj7d29RT80cLiPmd357JlzZ29Ozr/fEuIPX/8fbwl5ONgl9wd2mxju75ShK7tMKGJq9JhMjhyRiUeHPSj3R2QND0CKAqThYsYfHJRnwz2hibmmz40wKhIyISM39qSgOALRUNCToW4ZvbXPjOXoAzHeRn+bHZQv05czQymIc82Ogl7cO2BAOnY+EJ/7OjMgP+Zuy8+5uwYUCcOX6q9WEJP6QGN39idBnPtA02O9IRDnaYISoWVgIi1url0Qk4PQ5Z0PNPu0Lz6QZol7PpBmUkFkzQW9fX4iCSIigbQuXBCTuyAdx+cUpIVrg969PBkGvb6WPYj7gBRFJnXy1cXFofPSgiUh2Pvx0/GCCAA2iLE7a9bI+rIVUr1sqRTn50tjeZm5JsoLCyUvN9eM+zh5Ngn6/uZmuhhaGGSj+KUKYlx3fZ101a4ziJqS5QZAgOOao4I+vTqfKYgWpJp68IHoO9rUKIc2NEhPQ700V1RIbWmJWSoAQDgnFi9aZMZ/nrqYKSjYg8iQD0R/X0uz9G5sklObWmRvXa20VFWaJSIrBXl5BtK2qtpkjmsXFGFTDB55H4ig/0J7qwkwZIklI0NMTmY0I3aQ1dhAiqKvf/s2udrRLudaNxsQy9W5tsaAqB0XQkYp/thAdpbou76jQy5tbUuCyBBLpjXDklFLdqYAzTw+ngSxS6eJoQVPWLog6ogsgVAMwR6kjz+f42/DzlBGILeOdMlcEFmiqIFQT5VFRcl9SAuav43YQIriPv1ggLAHsSlyzlEzsmVllTkPJg0Kml3aBkVABSDfsnHPfcnSUBSPOgXOPS1oXjs+TJxJgtiDIuxDYZC9bApiAo7c178UF6h/qGQnaxBP2e9ATGa/A+k+Ra0xzn7cYwO5y8Z9G2S/AylGQToWEI+8DWIPirwP+ZbNBnG+EMiun1hAvmWzQfTZryU2iHF2/WQJoqU+Rb5w60fDBbEp2iCNCKB0WypSw66fvwhaqKUiU+N/y679Aq3gA+WJfgxbAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVUlEQVR4Xs3W+UtVQRTA8fd+8Af9IQnFyNBc0LAgTUwNzQq1LIIMW8R2wzZaaBWTokWkDUFsoULBEBMpI4iKoqi/7MR3Huc6dxztPd8tHDjcZeYxn3fm3Lk3Flv6LS7+8PX/8xaXx/0d8rBvr4nB3nYZuLbHhCImhk/I+NAxGXty1INy/0Ta8ARIUYA0XMzoo8PyYrArNDHX9LkRRqWEjMvQrX1zUByBaCjo2UCnDN85YMZy9IEYb6N/TPfLt8mri0MpiHPNjoJePThkQDp2PhC/+z7VJ79m7srvmfsGxBxVRUUm3Nmdlki7/msFMakPNHLvYADi3AeaHOkOgThXkDu70+KhZWAiLW6uXRCTg9DlnQ80/bwnOpBmiXs+kGZSQWTNBb1/eSoAESmBtC5cEJO7IB3H7xSkhWuDPrw+HQa9vZE+iPuAFEUmdfJ1+fmh88Kc5SHYx9Gz0YIIADaIsbsr18vG4tVSsXKF5GdnS31JsbkmSnJzJSsjw4z7PH4+AP18dzvApAyyUfxTBTGus7ZGOqo3GERlwSoDIMBxzVFBX95c9ILc2edpiVRTDz4Qfccb6uXIpjrpqquVxtJSqS4sMEsFAAjnxLLMTDP+68TlxYISexAZ8oHo72lqlO7NDXJmS5Psr6mWpvIys0RkJScry0Ba1laYzHHtguxN0Z3daYlH3gci6L/U2mwCDFliycgQk5MZzYgdZDUykKLo6925Q663tcqF5q0GxHK1V1UaELXjQsgoxR8ZyM4SfTd3tcmV7S0BiAyxZFozLBm1ZGcK0NTTkwGIXVoxSYF4wpIFUUdkCYRiCPYgffz5Ha8NO0NJZoc2C3LrSJfMBZElihoI9VSWlxfsQ1rQvDYiAymK+/SDAcIexKbIOUfNyLY15eacsQT1wy5tgxTlzu5pCZBv2bjnfmRpKIpHnQLnnhY0nx2fxs4FIPagFPahMMheNgUxAUfu6yvFBeoLleykDeIp+xuIyexvIN2nqDXG2Y97ZCB32bhvg+xvIMUoSMcC4pG3QexBKe9DvmWzQZwvBLLrJxKQb9lsEH32Z4kNYpxdP2mCaHOfIl+49aPhgtgUbZBGCqBYTLf1hcIF2mHXTySgZJuLTAarMTv2PzUX6Qv3N0u6/QH35E5xD4UviwAAAABJRU5ErkJggg==",
     "wiki_name": "Cooked dashing kebbit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooked_dashing_kebbit",
     "equipment": null,

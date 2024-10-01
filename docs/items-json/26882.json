@@ -1,7 +1,7 @@
 {
     "id": 26882,
     "name": "Uncharged cell",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "Can potentially hold runic energy, but it currently holds nothing.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMklEQVR4Xu3WsWoCQRDGcfc1BC0iKEqw8AW0CloasBGMICJGCAYOO4vDQrCRQIo87oRvlr3dHS/t7EHug3+VIj9MmLXRqPc/Zqi8JDOU33PafGweSoAydDx/chIzfhlzyigPkjmQMspQlmfcbD4rCmH95z6ngPIYmQQNR8O0oLBKgVT/XJevC12/r1FlIAUMZkFlqDAlDOZByP5iU0BuPzdOEYTFz8Rqt+IcJgHIzWPW72vaZ/vqgbqDbvTpKcMsCJgQtD1u6XA6cGp3COGtqgDIUPupzXdmMp0UmBDU6XUYhVRA+A4E1F+g+fKVMUpPhwW5gHIB1Gw1afG2KJ4OhYvtQe4YAoP/p/AOKWGwR5C80g6kgMEsSGIkShGE+bdLlvBSx9dYohKA5GKg/Gm9ein2C3WvDS0hl0/4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXElEQVR4Xu3WsWoCQRAG4NvXEBSJoBiChLyAVkFLAzYBI4gEI4jCkc7isBBsQiBFHnfCzLC3c+MJKbzZQPzhL9XP3XPGJLnmf8RBeaPEQfaRwXw9P2kElIPNbkvVmP5jn2qMCiBdDzJGOUizlDoaj/JKWPeuSzVABYyuBvUeegS6bzarRJ0Hyf4pkLwuxFQIcrD/3MPh61BoGcgAg2FQGUrWCIMJICz/glwOOX4fqQbPjUxxTUxfp1SPiQBKEv6wgJm9zWCZLuOBOKeg9m27cHpcszAIMRK02Cxg9b6i+jmkX3nh8DfHXfVbUIXX56Bx06A5MxgOcowEtTotQmFNQPgfCFHnQOPnJ8IYrQ4G+SLKF0G1eg0mL5N8dciJrd/pQgkgPwwRg8+TnEMaYwrSU9qDDDAYBmmMRhlclUzYXbp6UhuBMMVprFGGpxPiT8DvNVnj0ymPBEbHXBMjP9QcPHz+K4rHAAAAAElFTkSuQmCC",
     "wiki_name": "Uncharged cell",
     "wiki_url": "https://oldschool.runescape.wiki/w/Uncharged_cell",
     "equipment": null,

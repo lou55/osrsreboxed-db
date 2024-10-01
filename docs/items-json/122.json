@@ -1,7 +1,7 @@
 {
     "id": 122,
     "name": "Attack potion(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "3 doses of Attack potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZklEQVR4Xu3W/UsUQRgHcO/3kkRTevFK+iHCIH8QrrKSjCiVTOlFU8k3VBI9Tb0797wky8S0RDGNOhRMsUPqJCwtS7OQUgLrP3rqu8uzzs3t6b0Z/dDAw+3uzO5+Zp6Z2YuJ+feLiYzDqH7bi4n62q/QQ6VAjW5HPnW1XlaDEZODFTTeX0Zjj24aoORORAzXQIwCiEPGjPaW0tPuYp8X4xx1cviiQkKaqP/OVT8UfgHhYNBwVxEN3r2utsWvEQjtRfTidDstTLWEh2IQjnl0GPS8p0QFcdtAINz30aPQsreTvnjvq6CQMHgo95pBeKkMEnuNtkP3Cg1BU0OVPiAcBwky+aQBCJ7cOBdBaGutOEzVNw5RSUGKeh4IND1SHT0QjxKuyaCJgQw1ivIO6CCkUQa9flajgxAhgXheyCD03Ajk7rHQtVyznjoj0Iy71hf00h45CNcBQqBdcXGZHjm5BZR1LptOZpxV62TQm9Fb0QUhkEoRZLPZyWptotraOrpwMY8yTmVR6tE0PxBGc268XgctveoIFoPiCxJReDiDOGWONoVcLhcdS0sPmDK0nX9hDReEoj0YEzQQCPUNDY2kKE5yOtvJYjmt34ORlEHvJ2+HC9L2IIzQViCMDkJRFDqTeV5PlwxCexEUwqaoPcwIhJBBzc0t1NpqI7vdQdk5+XT8RKYfCKMTVRCjEHgBdlwGpa39VMP8+Rvt985S4uMhiqtvUuu2BSSOEn4ZJGJEUNLgMMU3a8tZBHmeVOkg7NJBYlC0FWIE4s+BjNFBM3OUNOKmeIeLYsurdBRGB58NcYTCAsnziJdyIFDy7Afa4x6nhI5OimvQ0sbpwmcjaiBG4Trq0/8A5Dj4dY2S332ivWMTtPtBL8U1ttDOQq09QNilRVAIKA1klLZNQSs/NNCEhxL7Bije1kaxpeVqe8y5t2N1Ogh7UAj7kC9ITNuWoPkl2ufxqhM7wdlBuypraEfOJfWeiEBYZZuBUlc35g4wlrVflPJ9ncwLyxtLv5H/mkZhhBgkpw3X+fuFOLK6ruNwbF5cUTFczxMaS14EYQ8KeR8yShuD0GMc84vl4NXIbaMCMkqbCEKd+LcEx7yb82cDoxMFEIp/r41CxIghg7ApiiCOEEDBFn8khzh//iJos+KP9I//JbLyG7xPXOT1J26IAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Attack potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Attack_potion#3_dose",
     "equipment": null,

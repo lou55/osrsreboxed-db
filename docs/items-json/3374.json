@@ -1,7 +1,7 @@
 {
     "id": 3374,
     "name": "Fat snail meat",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-14",
     "duplicate": true,
     "examine": "A succulently slimy slice of sumptuous snail.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xu3X+0sUURQH8F1kWWZ/yH5ZQSRhExd6oGkPCrSUklh/6EGpvVNDw6hAssdihdWilWGYWZgoGaJitWGESVHUnxD0/5z63svZPXNndtlxt+iHLhxmZvc69zP3nLl39fn+/eYn93D7/o83Pw33H6EH8cMqBq8fokTfQRWMmB3toJmRszT96IwLynyIvOEaxCiAOEzM1MNT9HzwhG1gXOM7M+woT0g/jdw66kDhCAgHg8YTx2h0oFX1xdENhP4S/WWxnz7NXVkdikE459lh0Iv7JxWI+2YC4e8+L8TpW/IOfU/eUyBPGNyUn5pBGNQNNHa3LQXCuRtobqzTBsJ5jiC/LQ0YiIsb1yYIgwPB6c0EWnzWVTgQzxI+k3XgFgBh1kzQ24nuFAjhCcR1YYLwXdjKHvz3Jujd5Hk7aP5afiA3TENZUSpMlAlamuopHMjE9GwOUF9NkAZ2BOlxvUXDdUEVLZUBOhDROIlCvS3PXEyBvr65nSsGzQ4yMR0bA3Rjm4aMN1g00WjR1F4diZ1BBW2pDThAH19dXi0ILV2kEoMZ6NoUoJvb9Yw82W3R/H6LXsdClGzWgX69+4K2WQJoZbZ3tSC9BvEbxZjIGp8CIV1I1dCu9CzVhP209XdE1+qQD4F7YKmQIA+Lon7leW+SN64o1qBL1TplCMBqwj6qFVFZrMNEFRzETw9Q75YgHY8GKFZeRHWlRSqNL5sslULMHOqoPmJRY4VFTdEQxTaE1P0KCpIwDIgZwhEBBFKJwjZnZrK1VEV8T7m6xiqdIwZNv2GyhjLBOLieADQxKGi+x3J7NS2drkpdmyNnaGkQo7AV5AozMXi7UNDYNvgeSFleIEbh8/TTOQNvHJ/L9QcgrNKyqD2gNEimTYIwAH5G8MByW3nfWaaOcqfn/h+mL6RAWIM8rEN2kEwbg9CnrapEBcOGmkvo59X1DhBmJ28Q3rJsIDlDK93rKNleRj/6IuoaWw3v9JyugoHMtOFzBmFA3uc4cM0g7gvQwtNzNhDWIM/rkFvaJAjn/PMWgVqSIFk/BQG5pU2C8J38r0SC0E/WT54gtHQasoXEyDBB+C0tQRweQLk2J5JD1s9fBGVrTqQz/rf82i8MkKqWuBGyfAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYUlEQVR4Xs3Xa0sUURgH8F1kWcYX2RsFkcRNFLrgpRsFWkpJ6IsulNo9NTSMCiS7iBVWopVhmFmYKBmiYrVhhElR1EcI+j5P/c/wzD7z7FnZdbfwwJ+Z2Tk75zfnnDmzGwis/RIke2zn/3kJ0lDvMXrUc9Rk4OYR6u8+bMKImZFWmh4+T1NPzllQ+ibShrsgRgHE0ZjJx2fo5cApX8M4xjkdPyolZJCG7xyPQ2ELCIdBY/0naKSvydTF1gZCfYn+ttBLX2avrQ7FIOxz7zDo1cPTBsR1E4Hwva/zPfQjeo9+Rh8YENqoKCoy0a2r4nY73zWD0KgNNHq/2QNh3waaHW3zgbDPIN26KkHfMKAhntw41iA0DgQPbyLQwov2zIG4l/CZnAe2AIRe06D34x0eCEkJxPNCg3Au11k5/H0N+jBx0Q+au5EeyIapKcjyolEatDjZmTmQxnRuDVF3ZZj6doXpabVDQ1Vhk8aSEB2KuDiJwnxbmr7sgb6/u+thUgZpTOvmEN3a4ULGahwar3Vocr+b/t1hA23cFooDfX5z1QrSrScosUkqMeiB9i0hur3T7ZFnex2aO+jQ2/psija4Qb2uA2FfLwG0PNO1WpC7BvETxZjIuoABYbgwVIN7Yr1UmRuk7X9Tut6NvAlcA0uFBMlFUbeuivvI87tJXrg4xwVdKXeHDAGsMjdA20RKctxoVMZBfPcAdVWE6WRpiOoLs6gqP8sM4+s6xwwheg7zqDriUG2xQ3Wl2VS/KdtcL6MgCUOD6CFsESAwlJjYumcmmvJNevYVmmOs0oxJCoQnTM6hRDAOzycANQYTmq+x1FJOi2fLvOMkMCgxEKPwKkgWpjF4ujCh8drga2DI0gIxCp/zRW3BE8f7cv0BCKu0nNSM0q1biguSwyZBaAA/I7hh+Vr52FZgtvJNz/U/TV3yQFiDUliH/CA5bAxCneayPBOGDTbk0e/rG+NA6J20QXjKVgLJHlru2EDRlgL61R0xx3jV8JuehytjID1s+JxBaJDfcxwcM4jrAjT//IIPhDUo5XXINmwShH3+eYtgLkmQnD8ZAdmGTYJwTv4rkSDUk/MnTRBK/CNti8TIaBB+S0sQJwVQIMDL+krRQBk5fzICSrZoZDJYTqzufyoaaYv+zpoufwBWlPUilFThJwAAAABJRU5ErkJggg==",
     "wiki_name": "Fat snail meat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fat_snail_meat",
     "equipment": null,

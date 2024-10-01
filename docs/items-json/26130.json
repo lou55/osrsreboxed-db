@@ -1,7 +1,7 @@
 {
     "id": 26130,
     "name": "Sigil of pious protection",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": true,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4Xu3W+0uTURgHcEdmbY6GeBm6UlKWZLKxyEwyE6T60aLIqCgqKooIoihEii4i3RDMLlQoGGIiZQRdpCjqn+jfeeJ7xvftec+Osneb0Q8d+LLtvWyfPec5Zysr+/dHSNxxnV/2EZIHQ/vl3uA+k5Fre2X4Sr8JEdNjJ2Rq9LhMPjzmQNlfomh4FkQUQIyNmbh/VJ6NHPZ9MF7jnB0/KhAyJKPXD+Sg8AgIQ9CT4UMydvOguRaPLhCu1+hvc0PyZeZyYSiC8JzVIejF3SMGxGsXA+G+r7OD8mP+lvycv2NAgTB4U35rgvChLtD47QEPhOcu0Mz4SR8Iz/MEhXzTgA9ic+O1DbL7ZzHQ3NPTpQOxSjhGkEak05skmVwv9fVx33ENevv8jAdCAoHYFzYI3xwgXLMQj3h5VBWW9vaN0tzcaFCx2BoJh1f5UO9envWDXl8tHoTjON/bu136+nZ4AehjXcSkqSkhdXU1Eo1GfKD3E+dKC0IwlThPyO5dO83jr4aobM6kpLW1RdYlGgxIVwlT/Gnqggf6/uZGvhgMP0ijcA4IBhhUq6dnmwG1tW0w01ZdXWUqpEGfX10sFITxZ8XYoI6OtInGdHdvNdUBBhVCH9mghelLhYKyexAq5AJ1dmZMMpkWUxU0MypDkO4hgrAQNCjApphd8i4QgubENalUswlBwCSTCbP0XVNWUhBRCM5jehBMGSoDBKrC43i9bCBdJfYPpwxN3dW1xasQeocrzAYhBGGXzhODkV1hNgjHy8tXSEXFSrMr9/fvMQ3NBgdCR4NwD+7Fe7BCBYGI0pjKytVSWxPzGhcV4U8GwhWmQbhHo4oCEWODkLWJWq+HCAHUPDbGvetwnw0KgMqC9LSxB/jGQGnYUuE9GoQ9KMA+5AfZ08ZK6RCo44Ig6KHAIKwyG8TGLjQfJs97q6xgkL3acBw/Afjnhw2S/yYRbJrcq3Afr8X+M/v4lA+EPSjwPuSaNg3C86VAAPPakoBc06ZBOKf/lmgQrgMI1SkBCCO3B1zRGB0bhP/SGsQEAOU7cpGM7p+/CFpq5CJz838UN34D4tmCntTDi5gAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQ0lEQVR4Xs3W/UtTURgH8I3M2hwNUTd0pTZZksnWIjPJTJDqxxVJRUVRUVFEEEUhUvQi0huC2QsVCoaYSBlBL1IU9U/07zzxPeO5e+7j2djdZnjgy7Z7z/V89pwX5/Ot/OYne2z3l7356fHwIXo4dNBk9OYBGrmeMWHEzPhpmh47RVNPTlpQ+kuUDc+CGAUQR2MmH52gl6PHXAPjM+7puFGekH4auzW4BIVXQDgMej5ylMbvHDZ98WoDob9E/5wfpu+z10pDMQjvuToMev3guAFx33wgPPdjboh+L9ylPwv3DQhjbG1tNdGjq5YtO39rBmFQG2ji3hEHhPc20OzEGRcI7xmkR1fN75oGDMSLG581SK+ffKD5F+cqB+Iq4RqDJCKV2kKJxEZqbIy6rkvQh1fnHRDiCcTrQoPwzQFCn8Vo0MnT2gB1dm6meLzZoMLhdRQIrHGhPr654Aa9u1E+CNdxv79/Fw0M7HYC0JdI0KSlJUaRSD2FQkEX6NPkxcqCEEwl7jNk39495vVvU4i2pZPU3t5GG2JNBiSrhCn+On3ZAf16f9vBeAZJFO4BwQEG1err22lAHR2bzLTV1dWaCknQt7dXrCA9ep6W2zEa1NWVMpGY3t4dpjrAoEJYRxq0OHO1VFD2DEKFbKDu7rRJOt1mqoLFjMowSK4hBmEjSJA8FPXoqmW3vA2EYHGiTzIZN2EQMIlEzGx925RVFMQoBPcxPQimDJUBAlXh6/i8bCBZJV4/PGVY1D09250KYe3wDtMghEE4pRlTFAg7TINwvapqFVVXrzanciaz3yxoXuBAyEgQnsGz+BtcoSKrg5YDMUpiamrWUkN92Fm4qAj/y0B4h0kQnpGoskCM0SBkfazBWUMMAdS8NkedfnhOgxilR7e0LEhOG68B/sNASVih8DMShDPIwznkBulp40rJMFDGBkGwhjyDsMs0iBd2qfk8dcnZZSWD9G7DdfwLwC8/HJD8axLBoclnFZ7jvjh/5p6ddYFwBnk+h2zTJkF4XwgEMPetCMg2bRKEe/JniQShH0CoTgVAaEvXgC0SI6NB+C0tQRwPIJ+Pj/VC0UAZuX4qAiq2aWQxWE6u739qGmmLfmZFt38s7M0qnizpUQAAAABJRU5ErkJggg==",
     "wiki_name": "Sigil of pious protection (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_pious_protection#Un-attuned",
     "equipment": null,

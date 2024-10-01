@@ -1,7 +1,7 @@
 {
     "id": 25622,
     "name": "Gold satchel",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-19",
     "duplicate": true,
     "examine": "I can keep my grub in here!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4Xu2W/0sacRjHO0Ki41DkxMM7VE45I43MY05l5zeW9MUxA7NWrbBA2harMYjBYGz/+Xu+P7dP5ka/dfrDfMMDocjnxft5P8/T0tJCCy30lBRM11yl4MftPu6uXmN04sGx4/OEUvDr1sbNuYXryy0Mui6qWzYyqdg8oBTcn+m4G1q4PEzguBtHv5dDf6+EgmMiZUZnBeXn5OtoG5+HLXw4NXHaM3C4G0PHi6Jes3ygRBRGTAsa6hHI+waujl/hvF8RMG/aOtrVCEoFDba1AjMeCRpIGT+6if1GATteXoC8e/tCtEjC1MsROOlVFPNW0EAKfn7p4v66I9xplB0fZHsTO8082rUcaqUw9po6NHUZ61kDhq4FBaQICBZHmy0rb6Sx7a2jUXFQLdlwN5LCFbbupatDVUOzAeK+YW5Y5WJaQBRypij+zfE/6DqwU2HoETUIIH+iPl00BdD3m10Bw33DNrE1BKFDdOrkMI9OKyEcCgBIEeFlEYjufPu48wDE7PBRCdPbs5C0NGTMENxiVHznZJ59F00cojvMD0sCsW1hbVVkaXCQwlpOR8pYhmlEBNAzw0j5QJwwhprFcScQs0Mgwpwd2eNAJ5DQl6FH1WCBpDsy3ATabxdEhjhthBpdZNGqG4jHVqCuhgQMd1EAUMqDO9zOLAnEy+6VswKIxeyE1aU/EMp4SQZy+f1zwbbx3wtZBOJVZ6jpCPeOBJG/c/PJIIAo/yGCyT3ELT256Io4psU1awrIc7NBAUn5jw8HVQE0/djfjvhrI2AgqcetmXzGkzKBmCnQU1LQruQeFqqsuUP9Wwst9J/qN95VqZ5FfvQbAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4Xu2W/UtaURzGPYSEF1HkihfvJe0m10gjX5hLmWkyxcqxgmqtWmFBtC1WYxCDwdj+82c95+yYRvtpXv3FBx4IFM+H5/tWIDDTTDP9SwKjnqoEft7u4O7yNa6O6/DcxDShBH7furg5c3B9UcRhr4xq0cVSKj4NKIH7UxN3fQcXB0kc9RLY381if7uEvGcjZccmBaX65NtVG1/6m/h4YuNk18LBVhydegwbNUcBJWOw4mG/oYZAPjRwefQKZ/vrEuZNy0SrGkUpH4brzMNORAdAxcVFP6DEw6Nr2Gnk0a3nJMj7ty9kiTTMRiUKLx1CIef4DSTw62sP99cdmU6j4imQ9hq6zRxatSxqpQi2mybCxhxWMhYsM+wXkJAQNEebJausptGur6Cx7qFaclFeXZCpsHQvyyYMIzgZIO4b9g1dKaQlRD5rS/Nvjv9ez4ObisCMGn4AqYn6fN6UQD9utiQM9w3LxNIQhAkxqeODHDqbSZmQD0BCNi9NIKbz/VN3AMTe4aMaZnfbwYITxpIdRLkQk595S2oXjQmIekyI6bB/aA3EskXCIdlLh3spLGdNpKw52FZUAmmYMQJRCogTxqamOe4EYu8QiDCn79yHhk4iac7BjBkjQE9/8T8lBuno5ibQTisve4jTRqir8ww2Nywk4vMwQkEJw12kUh6rxCAdbmdaA/Gy1ysZCUSzdyJG4C+EeFiS6vKPOSV1Llg2/nuhTSBedTY1E+He0SAKQKCcW/ADiHo8qHoPcUs/XnQhj2lh2RkBqpczfgEFAvoRun9YlUD6secTUWvDNyCtYbDRkRbypGiIiQFpjcJoCbTWs4OFqq0ApyaVzrCfh5+gNMCwn35nppn80B8FF9jtUPV9EgAAAABJRU5ErkJggg==",
     "wiki_name": "Gold satchel",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_satchel",
     "equipment": null,

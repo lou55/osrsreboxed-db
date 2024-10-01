@@ -1,7 +1,7 @@
 {
     "id": 1513,
     "name": "Magic logs",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "Logs cut from a magic tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xu2WTWsTYRSFO79BidBiSyMqVDEqpVqsthJjP7FpbUJsiKmhrVrRSkFFsQgiCi5EqSt3/gRXLnRhwRKqph+xNCj+B1fRRRZXz53eyTtvkk40Q9NFLhxCQjLvM+feeyZ1dbWq1bYtg/KqWuUh2lvryd/RRAOBPdWAMiFy2TmGON+3j2LhY6zIUOtWApkgXe2NdCHYQonoCUuAg1wEUmeguC6GDtKV+KkCTcQ6GAoOhQaPugFksO3R4QN061qAZq6eYU1P+lnXx7sKNJXotAQoAI2OtLkBZNDl2GFaXE7R/GKS7tzoZigBE6hSAhyAxiLHLaBgr68SKIPSmXVKpVfJ8/Q+AwlULvuKcr9XKPfrteWaCgvBIbQMQBhwzFcFMCiDvn7L0K4XDxno3s0eG5RIPlMFh4Lde3nVz3Y2M9DJtobKgTI/vltAmCNAqWDyXhW2DHMHoN7TXgaCO64AsUMvHzPQzke3aXamj9tlf53jLQNweGC/BQN3AAR3sj+fc0Dat7Psyv9oZX3NAgr1N1LkXBMfrgogcAUwKoi0StwBEF5FZYIZfGFRdKiZIQADlQKBKyqILnxeTA6PExMGW5Vc+kJv3r3ltRWgUiCq1JsR4bsiZBK2DkGJKHBIb4MuRQ7R0lraGmQAScjprcJ3VY2P+mxChkkeSUhKcks2OQIlwl5rbgAlMDgAdyuHYZBxoGgqfqQgDtQA1aHEJUcgzIxslgChFZ9Xl+lDcoF2zE6zO+qaSwQAUs0ivNeh/hkI84J0FiBcBDODNnqePSDPk7u2PNKhdOlAkt7ywHUEGu7ZzUPNbdsAio94bZAYTuSPCgQ3dEgBFSgVCHHga/FsBiNltg1btpD6xOr31+fz6K9LmCUA6VClBCgAofUAMSHKyiAp06nBQAMLd8WbtwEkiV2ucAP/AaGXegGDhxouIQoAqR8qUnMKqhBiszL4P9H7j/Psnh6UIv1G9Ku4XGYr1efZFgMUq6oD1Gr71h/v3fg2wsOA1gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xu2WS2sTYRSGO79BidBiLxEVqpgqpVpsbSXGXrFpbUJsiNHQeqlopaCiWAQRBRei1JU7f4IrF7qwYAlV00ssDYr/wVV0kcXR90zO5JsvSSc20bjIgZeQNJ3vmfec807q6mpVq/+2DMqpapWD6GyvJ29XEw37dlUDyoTIpOcZ4vTgHooED7NCo+38t7bm5n8BZYL0djbSGX8rxcJHLQEOqiCQOgOFdTawny5Fj+VpKtLFUHAoMHKoEkAG2x4e20c3rvho9vIJ1swFL+vqZG+epmM9lgAFoInxjkoAGXQx0kZLKwlaWIrTrWt9DCVgAlVMgAPQudARC8g/4Mm6uqUyKJnaoERyjVyP7zKQQGXSLyjzc5UyP15arqmwEBxCywCEAcd8iUNbdMmgz19StOPZfQa6c73fBiWSz1TBIX/fbl71kz0tDNTd0VB+y1LfvlpAmCNAqWDyXhW2DHMHoIHjbgaCOxUBYoeeP2Sg7Q9u0tzsILfL/jrPWwbg4PBeCwbuAAjupL8/5YC0b2fJlfun1Y11Cygw1EihU018uCqAwBXAqCDSKnEHQHgVlQhm8IVF4dEWhgAMVAwErqgguvB5ITk8TkwYbFV8+RO9evOa11aAioGoUm9GhO+KkEnYOgQlosAhvQ06HzpAy+tJa5ABJCGntwrfVTU54bEJGSZ5JCEpyS3Z5AgUC7qtuQGUwOAA3K0chkHGgaLp6MG8OFADVIcSlxyBMDOyWQKEVnxcW6F38UXaNjfD7qhrLhEASDWL8F6H+mMgzAvSWYBwEcwM2uh6co9cj27b8kiH0qUDSXrLA9cRaKx/Jw81ty0LFB132yAxnMgfFQhu6JACKlAqEOLA0+qyYIoAocy2YcsWEx9YQ976XB79dgmzBCAdqpgABSC0HiDmmptygJEynRrxNbBwV7x5WSBJ7FKFGygEUSKMlP0HGIYaLiEKAKkfKlJzCioTwl72Cxj8m+jt+wV2Tw9KkX4jZUNsXmYr1efZZgB/EUStqgPkV9UBapWtXzwHOMiqsJwEAAAAAElFTkSuQmCC",
     "wiki_name": "Magic logs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_logs",
     "equipment": null,

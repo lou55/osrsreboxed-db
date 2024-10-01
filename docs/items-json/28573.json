@@ -1,7 +1,7 @@
 {
     "id": 28573,
     "name": "Chest key",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-09-13",
     "duplicate": false,
     "examine": "Opens a chest in Golrie's caves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4XmNgGAWjAAYY/2PiAQOM/zsLDTHwADkK1TH757r8v7Y1bqAchXBMdar2/50znf+fW+X1//r21P83d+cNhKMQDkJPPyBHDSoHYcrRHKBaig/TwUHEOaQkQeu/h7UkLR2EP1RWdtv83zjJHpy4J5SZ/E8NVv5vpiNMKwfhdsjcJov/e2a7/N8yxeH/ugl2YIc1ZuohpSeqAtyhUpeu8392gzmSxeiYqgC3Q6K9FcHlzoxaM1pYjA1gdwgoPUR4yv+vSNKmVShgA4z/L28IxXCMkZbg/1A3OXDOoZNDQAB7yIBwkIssfUMFm2NAIXVwvut/bWU+ejkEBDAdgozpGCoggOmYvGh1cJkCKk9QHUVzgOkYGL601vv/kYVu/7dNc6RnSKE6CBQyoLYMqLSFOeDMCk9wgwtZHQ0dxQiOGnTLji9xBydkZD4Ig/igrE9DB4EAI9xyZEeBxECh5e8gDeaDog7EF+RjpbWDQIARnF7QHQWqscUE2ZHSDs3TEDKARA26o+joAGyA8f/JZR5YHDWggBGcVkA1OZ3SCzGA7ullFOAFABPYDhc9Rtr1AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwklEQVR4XmNgGAWjAAYY/2PiAQOM/zsLDTHwADkK1TH757r8v7Y1bqAchXBMdar2/50znf+fW+X1//r21P83d+cNhKMQDkJPPyBHIcsZKCjQw1G4HYQuRwcHoVqKD9PBQcQ5pCRB67+HtSQtHYQ/VFZ22/zfOMkenLgnlJn8Tw1W/m+mI0wrB+F2yNwmi/97Zrv83zLF4f+6CXZghzVm6sHTEsgxVHQQ7lCpS9f5P7vBHG4xOoY5hEqOwe2QaG9FcLkzo9YMw2J0jG4qmQC7Q0DpIcJT/n9FkjZGKKCbQEXA+P/yhlAMxxhpCf4PdZMD5xz0UEE3gYoAe8iAcJCLLH1DBZtjQCF1cL7rf21lvsERKiBMx1ABAUzH5EWrg8sUUHmC7KgBcQwMX1rr/f/IQrf/26Y5YoQUuilUBKgOAoUMqC0DKm1hDjizwhPc4EJWR0NHMYKjBt2y40vcwQkZmQ/CID4o69M4+hjhliM7CiQGCi1/B2kwHxR1IL4gHyutHQQCjOD0gu4oUI0tJsiOlHbonNtg0YKaVrDXU+i6aQQY/59c5oHhKDo6ABtgBKcVUE1Op/RCDKB7eiEMBiC9DB4AACD8UAnVu0pRAAAAAElFTkSuQmCC",
     "wiki_name": "Chest key (The Path of Glouphrie)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chest_key_(The_Path_of_Glouphrie)",
     "equipment": null,

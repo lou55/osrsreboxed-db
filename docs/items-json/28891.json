@@ -1,7 +1,7 @@
 {
     "id": 28891,
     "name": "Sunlight moth",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "There's a sunlight moth in here.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAD6UlEQVR4Xu3W/U9bVRgHcPhp8Rd1DAqlL8yub5TXQm0H7UYrUGAwB9kyt2nETacZGo3xBXFAGANUFBJS3bItEDHICFGWJctmtmjmX/b1fk89N+e+oJRW4w+e5Enbe057P32e5557y8r++6Mc9mE3/4+Pcnx99TS+mhgRsTA+jLmPT4mQiI2Vi1hfHsXaN6/boMx/omh4HiRRBMkwY1YXX8PNhQuGE/Mz58xhRBWELMfy1BkLiq+EyJCg7+bOYWXmrFjLVzsQ16voX7ev4vHmR/tDSRDfy+xI0O0vXxUguXY3EL/3ZGsCT3eu4fed6wJUEIY/Kv+1BPGkdqDc7Ct/W7LN3CUDiO/3CCo3lIEI2dz8bAZJxAeX3xJxbjjfZ2bQ9o3LpQPJLPGYCuLapvp6NIbDeObAAR3V1tysQyXo51tv6yBGQSDZF2YQSyFBXOc9XI3jnZ24s7SkYwhjjAwM6DCC7t15xwi6+2nxIB4niMF1voALmWPHsL22hu9zOR11ZXQUl86fN2To/uqV0oIYLKXEuL0O+EMedKfTIjZu3sDi1BQ+GRvDuxffwImebh3EjD5cf08H/fbT9F4xHEaQiuKPS9AL/loE673ozWQEiJnqSibRrpUp7PfD7XQaQI9+eH+/II58Q/JyNoN43OWpEuUiKBSp+xOUQkcshramJoQDfnhqaw2gXzY+3C8ov48wQ7uB6nxOBMJeAeKrP+iGz+8STV7rroKj+iAqDj2rg5hVFVTAppi/5O1ADM47XZXi5ISoGCKvTfRiZrwbh6qeM2SnpCCJYnCeWWAzX58cwObLUWyebMXdoRbMT/VhbrIPX0xmDdkpKUjNkrw9nMjGkXoxgqPtYcxrqPnpfvyYaxagBQ2jZkeCtr59Uwdxl94jhiN/hdmB5CNGT0cL0vFGJGP1iLUEsDg7iPW+BixoIEdNhSE7sn9421AztC+QuY84x17pT0UFilmKR4Na32Qx81kPZj/vRZXjeUt2COJto2QgieLcyUwCg8fbke1sRZeWpUQ0hJbIYYSOuOFxO1BRaS0XQdylVVABqDzIrmyifxJxgRpIteGleBOS0TCiEZ+2EXpQp4G4Rn30IIiPHQ/WxnQQ96AC9iEjSC0bj3F+8GgCQ+k4sh2tSMciSDQH0RDwaqBqC4jZKRrEq2w3kLzLM1O9jQ1Ih4JI+o+grc6LsLNGzHGdWq6Sgcxl43FZgvyPWYPNz+/JtQTxkldB3IMK3ofsyqaC+J4nl08B3MXl5qlmiGtLArIrmwrinPpYooK4Tu2fIkEc1lLYhYpRwwzipqiCZBQA2uuwImWo/fMvgv5qWJHW+H8UN/4A63wCLrxkfesAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAEEUlEQVR4Xs3W609URxgGcPhk+tF+qS3tssDCLrDrXtgrewUstIsRmppWW1MUq0ZK2yCoIQZEtFsVYzS0mtJIRJEaUi+o0aamRv+yp+eZ0znOGQ6GlbVxkjczzHlhfmduh6qqt79Uwzmcnr/xUo2ZE5/j3PhnIkrH+3FmrE+ERCxe3oeFiwOYv/CNA0p/iQ3DTZBEESRDx1w7vwdXS1/ZBubPfKaHHVUWshoXJ3auQrEmRIYE/XpmFy5PfSFyWTuBmK+i/1k+gb+XRl8PJUFsy9mRoLmzXwuQzF0LxN97enscz++ewou7pwWIY4TcbhH66Foxp12+tQRxUBWkvjGDubPTXzqClmYHbSC2JUgfXSvVtmUgQm5u/ixBzNvV348fD3yLTzoK6OvpsWBOoOUrByoHkrPEPhVEzDubNomacXhgAIO7d4tnOujObwctEKMskNwXOohvThBz3t282YJI2Pf7B/Hdvr2OoHu/H7KD/ji2cRD7+bxmyxbUuVw2DOuRQwdxdGgIka1bV6FWrh2uLIjBpeTzBnctvA0NOD48bKHYnhobxfmJCfh9PtTX1looLvHjhWEL9OzPSQtTNkhF8Y/zeXNjoxi0ND6O6WNHMXlkBNdnZ7F49QounZ5GJBAQOSroyY0fHEH66GsU87TwCDuBosEgUtEocqkU5mZmcOHkJJ4+WEFHNoNsMol4OIyw328D/bU48rog89hyhtYCudzvIZNIoJDJoDOXQ1ehgPs3RvHw5ijy6TTaYzELw+BBUEHqpaiPrhXzyDuBGCqovrHGmJEsuvI5bOvowIObY1hZOCJmKd/ebpudioIkimEDeWrgafoQHu9HaGp24f58FJfO9gloneeDNwNSZ4m1CvK31MHrc2FpRxi3dkSwPNeG5b4Igq31q0C3f9lvgXhLS8y6QDxhTiD5OWBO2Bg0GmxE6eSnKE0W8dNEET9Pbce5U72i313/vgXi7PCzoc7QOmeH5SVI30fsl6BYwINkxItUxIdYqAnJNp+xkVuMPp/oT4a9Ik8uFz8bFQNJFPvlNywVbEI60oxMtAUZA8I6G/db7Vys1QbiLa2CJEof3aGYIKdlU0HpsA95Y9BCwo9CPGDUAXQmA6LdaURX0vx0MJ//djyaH7JAvIPKuIfsIHXZVFC+rRWdBqLLiG2poIju9hA+ToXQbbT3dGdEHmdnwyCesleBOADzekJB9Oai2M7ImnVvrg3FjBHpSOVB+rKxX4Lk5i4m4ijGYyJ6k4n/9oUZcv/wyKsg3kFl30NOy6aC2ObJUwEM9TTK3IqAnJZNBfGZ+m8J2/I2Z568fyoAYrG/9VqhYtTQQbwUVZCMMkBVVfJaf1XoQDXU/VMR0HqLjlwPVsbL3P+p6Ein0H/nrS7/AuoDVMi+qnMxAAAAAElFTkSuQmCC",
     "wiki_name": "Sunlight moth (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sunlight_moth_(item)",
     "equipment": null,

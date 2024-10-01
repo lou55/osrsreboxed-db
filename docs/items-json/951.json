@@ -1,7 +1,7 @@
 {
     "id": 951,
     "name": "Silk",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "It's a sheet of silk.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACz0lEQVR4Xu3WbU8TQRiFYfoL1WjUqPEFAiq+IipWBMFiEUGUABJsikIaRMQaE6NGo9FfNuaeetZnp9Om267GD05y0u3utHN15tnZ9vX9+63g4old/+Ot4ObHD7q54gGf8th+N3N9n48QtaUzbnPxlNtYOBlBhT+iZ3gDJBQgJcRUH55wa+VjqYF5z7UwaVQmZMEtThxqQvEKRBFodeaoW5o67PvyGgPR36K/7o67z9uj3aEE4lizI9CzB8c9SH1bgfjcl52i+16fdj/qJQ/KhOFL9asFYtAYaPnekQTEcQy0vdyfAnHcIaiQWgYGUnHzPgQxOAgtbyvQ7tPB/ECaJc7FQJpJgZi1EPRmfSgBkUwg1UUIYnCBbIHatAK9rZxNg17e7B3EeUD0mZ0YSDJ3dzBJCCSA3lXP5wsiLCXXF6aHEgCg8ni/T6l4Oho+82HzYgL6tjfZKYaWBlkUv9Qvy+wF96Q87BZL53wE1IxZHP1Z4o9bl7sF0X7XQwjSklWXRt3z5RupbK6OpaLlAvSpNtItqLEHMUOtQELV1m75gcFVHl9za/NX3MrcpV+DNTD6jAVl2BQbt3wMREIQg7N8WjobOzu5goQiDMCOywCqJ2qHGqKmwDFLzBazxvVcQXaWeLUg+gqw/uiqB8RCv52VgQTELt0hhta4w2IgPQ4AqUaYiVhU8PQBz2PDzlBXoLCOtPu2gghBkVPs2+u3ExCPjdxAQnE+xFjETuWOz6vqpA99VT/s0haUAdUAxZZNIADMgAZ+vTHls/ei5Opb933opzuMJX6/MZyA2IMy7ENpkF02zrV7qNrY/adnEHdZOxADMBjn9IzTPmVrTcuVGyhcNs5bkP0PJIxA6guIW96C2IMy70OxZbMgjtuBbP3kAootmwVxzf4tsSD62frpEURrLtJYwvpRQhCbogUpGUCdtmakYuvnL4LatWZkc/633tpPpKN3ElMmGMMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4Xs3WjW4SQRQFYHiTPoJvokajRo0/bVq1/lu1Ira2UqnYihJaCRJQGoJYK8bEqNFo9MnGnNmc5e7tXcKW1XSSE+jukPsxc3doJrP/R9bZse7/85F1a/kjrpQ77FOcP+RWbh/0IaJTOe/a5bOutX7GQOkvMTY8ABEFEKMxzaenXa14MlIYf+OeThSVCJl15YWju1B4BYQhaHPlhKssHfNz8WqBMF+if27n3ffu3N5QBOE9V4egV09OeRDnxoHwuR+9nPvdX3Z/+gUPQo0DExM+uroawbLzWxOEohao+uh4CMJ7C9StTkZAeE+Qrq5GNrINKMTmxt8ahOJAcHvjQNsvp9MDcZVwzQJxJQnCqmnQh/pMCEISgdgXGoTiBMkGlYkDfWxciILe3h0fhOsAYc7qwlSY0sPpMBqIAPSpeSldEIKtxP315ZkQAFAxP+lTyJ0zg898aV8JQb92FkNMYpBE4Zv6bVm97F4UZ125cNGHQK6YxGE+tvjr1jUTpKvHjEE/aBC3rFmZc6+rdyJpb85Hwu0C6Fvn5l5BwRmEFYoDEdWp3fOFgWs8v+Vqa9fdRumqv0cMPyNB8lDU1dUIHnkLhGgQimP7uHUycnVSBRGFoABOXBRgP6F30EPoKeCwSlgtrBrupwqSq4RXCcJcAurPbniAFczrbUyFIJzSxIwEwhNmgfhzABB7BCthhQ2POcDjZ0Ou0IirgzEA6T7i6RsHIQJNjmbv1u+HIPxspAYiCtc1RiJ6jQc+75qLPpjL/sEpLUFE6erGCEDWthEEAFaAhd+3lnx23hRcf+uxD+bxCcMWf27NhiCcQQnOoShIbhuuDftRlZHnz9ggPGXDQCiAYrjG3zieU7LXuF2pgfS24boEyf+BiCGIcwHCIy9BOIMSn0PWtkkQ3g8Dyf5JBWRtmwThnvy3RIIwT/bPmCCM3U1qRfcPo0E4FCWISQDKZHisD4sGysj+SQU06tDIUbDMYO5/GhppRX9mX4+/7qfBnpQGLkgAAAAASUVORK5CYII=",
     "wiki_name": "Silk",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silk",
     "equipment": null,

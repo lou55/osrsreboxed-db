@@ -1,7 +1,7 @@
 {
     "id": 11049,
     "name": "Artefact",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-24",
     "duplicate": false,
     "examine": "An ancient goblin object encrusted in dirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4ElEQVR4Xu2V3UsCURDFu39BDwkhUpKSYIap+AliioqZ4kdmRmREQW/9/48TZ5ZZZ28awe7qyx447K6rd357Zu56dBQp0kFlyP7kQAKIodjJMR833rucwpcXCUomTikRj7FxnjqP7xPKAUHRbPqMj4AS43qPQIYTQOFcJslA2jZYyFBOKgCxrYHK+QwVc2nKZ1PhA6E4CqGgTgTnt7U8u1m5plohy0nCIQ25YQg8vZ0IrnvNkutOo8Bgun1wwFCGk4GlTZLUuFtnD9tV17qd8pvAgVBcjKTQlvmg6fG032DjO7gf0jwZWoxGbiJwo3TFRnu2GXOE+yFAGRr3+zQdDHhBLI5i2oNW2bWeIYEKHOi+12Wo+XBIy8mE3lcrLqgBMDf6OqSUDN112gwkUPDb05KBUFQD2FA6JQ3lG6hSuKFasUiNcpma1Sq16nUugmJf6/VOoF1QPoCgTUoyS2gdhvzlYc7ts4FggZDB12A+gaC/ob4/PzyJ6De22G5jYFACJFCwniltDQdL23zOkZZ3xyEh7Lrn2ezXoNtzZAP53G1azh+lJCRAaN3r44LbAQh7t0mrACRr2Cv7lPGkJMO77SWpoUIA0ZIn3VjvNA0UUir/kVNYgOADgdjSyUWKdDj9AMXAO5Ehn1erAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACA0lEQVR4Xu2WW0sCURSF5/yCHgoipJuRYIapeBsYzEgxKyozM6IiCnrr/z/uWPuwdc9JuzAzzosLFjPj5exv1t5n1POWWipVGXJfSUkAMbS2usLHqRcuW3h/N0PbmXXKbKyxcZ7d2lgklAVB0fzeJh8BJca1AJV2dpKGMpwAChdy2wyk7YIlnJJNBSCuNVC1mKNyYY+K+WzSKRkujkIoqBPB+XGjyA5qh9Qo5TlJOKEhNwyBu3cTwXUnqEx84pcYTLcPjhnKcDKwtEmSujxtsvvt+sS6nfKdmNtnExIjKbRl0AtCvu76bHwG7yc0T4aGFxeTRGC/csBGe2YZc4T3Z0G5q/9Thi67Xbru9XhBLI5i2r1WdWI9QwLlAkVMydB555ShBv0+ja6u6HU85oIaAHOjrxNKydDZSZuBBAp+uR8xEIpqABdKp6ShIqRkgWqlI2qUy+RXqxTU69RqNrkIin08P88FmgcVAQiapiSzhNZhyB9vB9w+FwgWCBl8DRYRCPoZ6vP9LZSIfmKL3TZGmCORhRIggYL1TGlrOFjaFnGOtMI7Dglh1z3c3HwbdHeOXKCIu03L/lBKQgKE1j3dDbkdgHB3m7QKQLIGEoohJc+zi5hQSjK8sx6SGkqDxAITlv7/bK13mgaKPZV50ncrycECBCecyu/SYAtJ5a9KNZWl0tIXHN1mk2CYr3gAAAAASUVORK5CYII=",
     "wiki_name": "Artefact (Armour)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Artefact#Armour",
     "equipment": null,

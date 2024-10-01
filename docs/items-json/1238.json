@@ -1,7 +1,7 @@
 {
     "id": 1238,
     "name": "Bronze spear",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": true,
     "examine": "A bronze tipped spear.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xu3V/UsUQRzHcY847rcikqD6IQoSrB+EoEQoCkKIiDJ7fsbCwqhAkkqk6EGkJwSxByoUDDGRMoKoKIr6yybeO3y2mbnx7vZui35o4MvuzX1357XznZ1tavr3W8HEI/b/H28F83Bov7k/uC+JkWtdZnhgbxJCTI/1mKnR02by0akIKnyIhuEWJBQgRYiZeHDCPBs55g3Mb/4Lw0dlQhbM6I0DZSiOQBQCPRk+YsZuHUpyOcZA5Lvob3ND5svMlfpQAnGu2RHoxb3jCUi5C4G47uvsoPkxf9v8nL+bgDJhuKmeWiAGjYHG7xxOQZwLxH0Emhk/44E4rxFU8MrAQFrc/A5BDA5C5eVcZWlbsyRFzT3tzQ+kWaIvBtJMElzf0dpsNrcs82bo7fNzKYjIBNK6CEEMHoLcBS1Qz46iaV7c5IHevTzvg15fbRxEPyChNJPK4dr+3SWzce0iD0O8n+jLF0QAcEHhgubaPZvKMeR+nLqYgr6/uVkrhuaDXBQ3j4GE6e0smpVL/VIJ9OnV5XpBNPuWMFglkBY0uQNdJdPeYmeHmQxBn6f76wXZPYgZqgbSLHJNd3sxOdIXgsh3QRk2Rft0MRARA3FN386iWb3clioEkZcrSCiCAdhxGYBz8q93l8yWVlsq0FwXlis3kDtLHF0QeeQf7LCl0izGQLOPz6YgdukaMTT7hsVA+j4JRO6lXUWzboUt1UIgcvlsuDNUFyhcR/QLRB5v1fYNtlQs+BhI5eKzkRtIKPoZQKCjW22ptGmCcWfSBbFLu6AMKAuKlU0gcvg8rF9lS1UNxAN8mLyQgtiDMuxDPsgtG31aN51tv0vllisEMTsNg3h7KoFObrOl0icjBGmtqVy5gcKy0a+SMSCDh+USSLmAeOVdEHtQ5n0oVjYNwhNzXgnkrp9cQLGyuSD+AxED6bOhcjUIopFYPcL1owhBbIouSJEBVGsrRyrc9fMXQZVaObI8/rfG2i9jEF17FrPLFQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs3X7UsUURTH8V1i8V0RSVC9yIIE64URlAhFQQgRUWbPz1hYGBVIUokUPYj0hCD2QIWCISZSRhAVRVF/2Y3vXn6zd47XddedwguHHWfP7PnMPXfuYC63+EfexSP2/T8fefek/5B71HewGIM3291A74FiCDEx3OnGh865sadnIyh7EzXDPUgoQAqLGX182r0cPJkqzN98ZyONqgqZd0O3D89C8QlEIdDzgeNu+O7RYi6fMRD5IfrndL/7Pnl9YSiBONbsCPT64akiSLlzgbjux1Sf+z1zz/2ZeVAEUWNzQ0MxbHUz/LTrrgWiaAw0cv9YAuJYIH5HoMmR8ykQxwLZ6mbkU22gkBY3f1sQxUGovRyrLc3rliWo6Rdd2YE0S5yLgTSTBNe3NtW7bY0rUjP04dXFBERUBdK6sCCKW1C4oAXq3F1w9UtzKdDHN5fSoHc3agdxHpBQmknlcG3Pvjq3Zf2SFIb4NNqdLYgAEILsguba/VtnY8j9Mn4lAf16fyfBVA0KUfx4DCRMV1vBrV6ebpVAX99ei4Js9TmGf0ooVg6kBU1ub3uda2n0s8NMWtC3iZ6FgvwexAzNB9Isck1HS6H4yTkLIj8EhZuirW6Gv7sYiIiBuKZ7T8GtXelbZUHkZQoSiqAAOy4FOCb/Vked297kWwWa62y7MgOFs8RnCCKP/COtvlWaxRho6tmFBMQuLUxFIJ6cGEjvJ4HIvbq34Das8q2aC0Qur41whiqcHUYJZNcR5wUij6dq1ybfKhZ8DKR28drIDCQU5ykg0IkdvlXaNMGEMxmC2KVDkFC2emR4UKxtApHD62HjGt+q+UDcwOexywmIPaiKfSgNCtvGOa2btuZSq8J2WRCzUzOIp6cc6MxO3yq9MixIa03tygxk28Z5tYyCFLftEki5gHjkQxB7UNX7UKxtKsIdc1wOFK6fTECxtoUgvgMRA+m1oXbVCGKU/lUpF3b9KCyITTEEKaoA5XLa1suFBYYRrp9MQJUOi6wEqyjl/qdhkbGw1yzq8RetFKgH/X9YngAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze spear (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_spear#Unpoisoned",
     "equipment": null,

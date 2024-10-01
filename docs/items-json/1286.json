@@ -1,7 +1,7 @@
 {
     "id": 1286,
     "name": "Mithril sword",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A razor sharp sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC10lEQVR4Xu3VzWvUQBjH8V08lBWP0kKLlFJWcT1ID6IHETx5rKKoqCgqKoooRVFKsVQtxTcKZa2lSgstSy2lrgiioij6B4h/0sg38Rcnk9mXbKJ4cOAhs9lJ5pNnnkwKhX+/FY0/fP//8VY0j8cOm4ejh4KYun3QTN4cDkKI2sxZszR9xiw+Oe1BuQ+RGR6ChAKkcDELj06ZuakTsYn5zX9uxFGpkEUzfedIAsURiEKg2cnjZmbiaDCWow/EeBv9eW3MfFy50RlKIPrKjkDPH5wMQBrbCMR1n1ZHzdf6XfOtfj8ApcJwUz21QEzqA1XvHYtA9LWENmilei4Got8mqBhbBiZScfPbBTE5CC0vfe5RqRyIodaeXcgPpCxxzgdSJgmuHxzca4aGwr5Ar+YvRiAiFUh14YKY3AXZBc21fX07E9khXr+4FAe9vJUdxHlAQimTGqPsuBjizcLlfEEEABtkF3Sz7DD23dLVCPRlfbxdDC0OslHc3Adys8N5F/R++VqnIFq4eTFZM5AKWtnZum1/0CeTLuhDbaRTULgHkaFWIGWRawYG9gRHzrkgxtugFJti+HQ+EOEDcU1v7w5TLu/zghiXK0goggnYcZmAvjbB/v5dwRE017nLlRvIzhJHG8Q4ZUfF3Ai0+vR8BGKXbhNDC98QH0gfTBdEMQvjAzGWz4adoY5Abh3pVRaIsd3d5Vh2XJCWi89GbiChOM8EgBhXWy6Znp7tQZ83EIydSRvELm2DUqBCkG/ZXNDEeJeZnyuZ+vrGKEM+EOPfLl6JQOxBKfahOMheNoEYU9lcMLu3bPh109/L5YLITmYQxdoKNFstmR/fN8WWSyDVmpYrN5C7bJwXaOR6V4Sx60cgjQXEK2+D2INS70O+ZdMkqiEmbwSy6ycXkG/ZbBD/gfCB9NnQcmUE0cJCbRU2xg4XxKZogxQpQO22JFJh189fBDVrSWQy/rds7Se0Xl4eCZ6CBQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xs3X30sUURQH8F16kI0eQ0EJFdmi7aF8iHqIoKceK4qKiqKioohCikJEsRLpF4JsJhYKymIithFERVHUHxD9SSe+d/rOnjmeXXfcKbxwmLuzd/Z85tw7d9hcbuO3vPjhff/PW16eDR2XJ4PHQozfPypjd4+EIKIyeVHmJy7I3PPzDsreRMvwCEQUQAyLmX16TqbHzyQS4zO+s5FEpULmZWL4xCoUjoAwCJoaOy2ToyfDWBw9EMZr9LflIfmyeGd9KILQZ3UIevX4bABxbD0Qrvu6NCg/qg/kZ/VRACHHnp6eEDa7aVHZedcEIakHKj88FYPQ5xRq0GL5UgKEPkE2u2n5xDQgERc3PlsQkgPB6UUfv1EqHU6gll9eyQ7EKuGcB2IlEbi+r++A9PdHfYLezlyNQYhUIK4LC0JyC9ILGtd2de1eVR3Eu9fXkqA391oH4TxARLGSHMPqWAzi/ez1bEEIADRIL+hG1cHYj/M3Y9D3lZEYkxqkUfhxD2Srg/MW9Gnhlguy2eu0aPNCskYgLmhWZ/uOQ6GPSlrQ58rAekHRHoQKrQViFXFNb+/+cMQ5C8J4DdKbos1uWnR3HgjhgXBNZ+cuKRYPuiCMyxREFAIJsOMiAfrcBLu794Yj0LjOTldmIF0lHDUI41gdLuZ6oKUXl2MQdmlimgLhCfFAfGFaEBYzMR4IY/Ha0BVqsjpoNZBdR3yUCcLY9vZiojoWxOnCayMzEFE4jwQAYVxloSAdHTtDH08gMLqSGoRdWoOIstmdFoG8abOg0ZE2mZkuSHVlc1whD4TxH+ZuxCDsQSn2oSRITxtBGFPampN92zb9vcvadFkQqtMyCIt1LdBUuSC/f21JTBdBXGucrsxAdtpwnqCB220xRq8fgjgWIDzyGoQ9KPU+5E0bk3ANIXk9kF4/mYC8adMgfAeEB+Jrg9PVIgit9lelUWiMDgvCpqhBjBSgXI7beqOwQB16/WQCarZZZDNYRm3sf2oW6YW9ZkO3P/5iqKpsVE1hAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_sword",
     "equipment": null,

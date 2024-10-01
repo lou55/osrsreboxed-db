@@ -1,7 +1,7 @@
 {
     "id": 28781,
     "name": "Trailblazer reloaded relic hunter (t2) armour set",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-11-29",
     "duplicate": true,
     "examine": "A set containing Trailblazer Reloaded boots, Trailblazer Reloaded trousers, Trailblazer Reloaded top and Trailblazer Reloaded hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xu3XW2sTQRgG4OaqKGKRXogILUloJEaatmgaSYwNienBQBvSxJjU1FaLEpDimVIUD6VYlUKpBxAsCKWWIrnyQhRF7/xXn7yzfGF2dtJmcxAvHHjZzcx099md3dlpW9u/Xxykj6695cVBLxbTtLKQElm+P0FLd8ZFGLG5NkMfVqdp42VRg1IvomG4AWIUQBwV8/75FL1dzptOjN9oU2NG2UI6aPXBpAWFLSAcBr1eytHao6zoi60OhP4y+vvOIn3dul0fikHY57vDoHfPCgLEfauB8HffthfoZ/kx/So/FSBbGByUr1q+skYig7Bv1O9ZHKZhwO9MtItyYycpcqqHxiI+SkZ7aSLup3SinzIjA6ItnwzQpfFBupwK0uxkiOayYbqei4gt2n3Og+JYTQdFBz0UP+2l4fBxLQ4woAAp5c8KFOplEGILxM+FDhTsc1J4wF3BAQYUQOiDu8SY+WJMbLWgj/caA+HKAbk1FbCVloFw5bgr6gn3ig7049PDWjEoVlAu3i1AGCI+0YrXVcm+9nYRuU4F+d0d9YJQjNd0/cmFCggPajVQoOOASItAxhyEO6SC8HZdS/dZALrf6IfoQDYmReOV14Ewt+CNKoz6KgBG/I5bcQj6thxUPH+ickLsy8OEqO1NBSGoKyScYm7BRHg15ae1w10i2GfI3SOdYqu2M2jAc0gcC7N0jRgU4w3bDVTK9IshQrA/f9RpitqugnCH6gIxSgZhRuaHVQ2D1PqWgvDNwoOKZ2NmvFcMCYdBcp1uyHimrhFlgORhQ930iEt8JAGaGOqhdMxD2XPH6OKw8dYxsBzaL7ZyGBTwdopjYQ6yMQ+ZQbw0ZRA+oLFANyWCThoNuSh5xl0VyGkYhLesGggHxtce3zRegvCXHm289MAUgf43poaaB2KUDAKC10O8FpIx+N4xBhB5+cEgzEG25yHdsDUjWJTVBVKHDQ836rCw31qfFW3yfyXYx8oAQT9e1KPv9qsr9HmjRF82b9YDQrFemS4yRo4K2nkzZwJxbIBqLVYkB3cSINydvwjarViR1vwvjZU/kLFYhSBZHOEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOklEQVR4Xs2X60vTURjH5yspIglfRATqNlzYws1Rc7Flyta8NNjG3JrbmmlJMQjpjkjRRSQrBLELBAmBmEjsVS+iKOpd/9UT3/PjmWdnZ7bfLuEDX875nfPsnM+5PefMYtn/1kZ66epbbm30cjFBKwtxoeUHMVq6GxViiM21Gfq4Ok0br/IaKHUQDYMbQAwFIJYK8+FFjt4tZ8o6xjfqVJVDmYJso9WHkxVQSAHCYqA3S2lae5wSvkh1QPCXoX/sLNK3rTv1QTEQ8jw7DPT+eVYAsW81IPzu+/YC/So+od/FZwIIfbh7eoTU3hUzpp1HLY+sEclAyKOsJhh5GfCdHOmi9MRpGjrTSxNDToqM9FMs5KJEeICSYx5Rl4l46XJ0kK7EfTQ76ae5VIBupIdEinqn9bBoq+lAI4MOCp3to9HASS0cwAAFkELmvIBCuQwEmQLifaED8rmtFPDYS3AAAxSA4INZYpj5fFCkWqBP9xsDwsgBcjvnNaWWAWHkmBW1w39JB/Tz86MSTF1A6VC3AMIScUcrfbaSDrS3C8llKpDL3qEFUnuvYsYxXX96qQSEjVoNyNtxSKhFQEYMwgypQDhd1xPuCgDdN/wgHZAcFNXeFTOOvA4IsQUnKjvuLAEwxJ9QJRwE35YD5S+eKnWIvLxMkFrfVCAIZdmwVcQWBMJrcRetHe0SQp5B7h3rFKlaz0AexxHRFqI0w9QEhBO2F1AhOSCWCEJ+/ri1TGq9CoQZqnF2YLtADCUDISLzZlXFQGp5S4FwZ2GjYm/MRPvFkrAYSC7TLRlHauTV3jVmAMnLhrLpMZu4JAEUG+6lRNBBqQsnaGrUOHUMWPQfFKksBvL2dYq2EINMxKFyIH6aMhAu0KC3m8I+K437bRQ5Z68KyGoYCKesGhAaxm2PO42fIHzTo46fHggR8L+ZG24eEEPJQIDg9xC/hWQY3HcMAxD5+cFAiEGm45Bu2ZohPMrqAlKXDZsbZXjYb63Pijr5XwnyeBlA8ONHPXy3X1+lLxsF+rp5qx4gWOXIdJJhZKlAO2/nyoBYJoAsFg7re0kFlIWZBBBmpylAtZoKWQssa9f3P5kKqZP6m31tfwHataMR+yzC1gAAAABJRU5ErkJggg==",
     "wiki_name": "Trailblazer reloaded relic hunter (t2) armour set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_relic_hunter_(t2)_armour_set",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6682,
     "name": "Ground guam",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-24",
     "duplicate": true,
     "examine": "One of the ingredients for making fish food.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xu3Vy2oUQRTG8RmaeQNfwXXAjZss3Lhw4wVFRUVRUVFEEEUJQfESgjcCIWpQSSASYggaEURFUfTJSv9dfp3T1Wcm09OtuLDgMD3VNV2/OXWqutP591s3+OHd/+OtGx5O7g/3J/blMX19b5i6uicPIZZnT4almRNh8dFxB5X+icbwCBIKkCLFLDw4Fuanj5Qm5jv30iijaiG7YebGgQqKTyAKgZ5MHQ6ztw7mY/n0QIy36K9rk+HzypXRUAJxrewI9Pze0Ryksf1A/O7L6kT4vn47/Fi/m4NqYXio/rVATOqB5u4cKkBce6CVuVMlENdDgrqlZWAiFTffUxCTg9Dy9gOtPT3THkhZos8DKZMCkbUU9ObZ2QJE1AKpLlIQk6cgW9CDQG9fnCuDXl1rDqIfkFDKpN2R/UDvFs63CyIAWFBa0P1AjP2wdLEAfXt9c1gMrQyyKB7ugeLDN8IDfXx5aVQQLT6YyQaBdEJnO3oh256FbFsM+lLQp+XLo4LiGUSGNgMxJgft6kXUeK+SLYLxFlTjUIxb3gMRAqUTppFnKslYayChCED5hGMbkzFxZ+uv2NKpwBStZchmScWb//PxuDxapiIbQMfKNcTSrj4+XYA4pYfE0OIO8UBFAe/sxaBu+ARlYBajJea1YTM0EiitI21lLUO226B+B/38xmYHEK+N1kBC0c8EvLX7FbYymYI4pS2oBiqCvGVLQdy3JzTXHojx7xcvFCDOoBrnUBlkl82CdAZZjAcC3hjELtsMxGT0eSDVmparNVC6bPRbEJOnyyWQxgJiy1sQZ1Dtc8hbNgviehDI1k8rIG/ZLIh7XkETjLP10xBEq25nL9L6UaQgDkULUtQADduqSIWtn78IGtSqyGr8b83aT21QRJh63frvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvklEQVR4Xs3V30sUURQH8FmG/Q/6A3zpWfHFFx966aEXS5IUjSKjoghBEkWkyB+IWgiiFRkrGGIiagSiohj1l9363ut39szZM+uOO4oXDjs7c3fPZ889924UXf9RcnZYzy99lNyHiftufrzbx+zYPTczctcHERtLT9z64mO39vGRgdI/oml4ABEFEENjKgsP3ZfZ/lRivMczHWlULmTJLb7tqUHhFRAGQZ9m+tzS+wd+Ll4tEOZL9On2hDvefHMxFEG4ZnUIWp0b8CDOzQLhcydb4+7P3qT7uzftQcjR1tLiQ2dXI5Sdv5ogJLVAy1O9CQjXFmhzeTAFwjVBOrsapdQyIBGbG+81CMmB4PJmgbY/PysOxCrhngViJQlC1TRo9+vzBITIBWJfaBCSa5Bs6Hqgn99epEE/RpsH4T5ARLGSckdmgX5VXhYLQgAgQbqhs0CYe7D+OgH93nmXb4dJkEThyy1QOEuqYYEOvw+ZIJ09Y4QvRrJ6IJ7Q8a2yiztiF7eHwD0NOtoYvigonEGo0HkgzPGgO+WA6izXVAuB+RIkD0WdXY2w5S0QgiCdUIevlKpYYSCiEAD5hK3VZEgc3fwfN6IaGKOwCskqsXn9L+8My8NlSqoBaGu6h7C0WytPExBOaWIaAmGHWKCkgW+XQ6Bv8AqUgEkMlxh/G7JCDVYHowrSfcStzGWIuwTqLHAfn5HVAQh/G4WBiMJ9JMC/dlZjs5IahFNagojS2Y0RQNayaRCeyxMa1xYI8/fXXiUgnEE5zqE0SC6bBPEMkhgLBHjTIOyy80BIhnsWiL3G5SoMpJcN9yUIyfVyEcS5AGHLSxDOoNznkLVsEoTreiDZP4WArGWTIDyzGhqBebJ/mgRh1G5nK3T/MDQIh6IEMXKAoojHer3QQBmyfwoBNTo0shEsozr3ioZGWqE/c63HP7dUjyTPjafVAAAAAElFTkSuQmCC",
     "wiki_name": "Ground guam",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ground_guam",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 18017,
     "name": "Stone-plaque",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-01-27",
     "duplicate": true,
     "examine": "A stone plaque with carved letters in it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB80lEQVR4Xu2VWS8DYRSGfVeNe3EhIUEQKqgUFUsJVVtQVdTW2opaiqKx1U4iIuIPv3K+5rTfTKZczJRE5k3mqhd98pyn06Iie/bs2bP3ryeQe/58AsP9fRjo6UGvx6OA/QmcwKTfj9HBAQx5vejr6kJ3ezs6XC60NjX9NpxAaGICNZWVGPf5NJY63W60tTSj2elEQ20t6qqrCw0lsDQTlDD0fGepsb6+0EACa+EwVmZDWJgOSEuBkZEfLRU7HFZDZVrYiUSklejcnLQ0PzWF4NhY1lY+SxYCZUCS29tIbG5gf31NQm0sLkooI0sMRw9bsghI4OLgAKm9PQl0tBWTULurUcSWl/Oeji0RkGrJJJBA+vgIV4cJCXUaj2ehyBJ9mR6KTmcUOFmqqqgwAyTwmErh9iQpodgSQREQwfDpCErfE0Nx4GSotKTEHNDL5SXuz07zWuLTqT0xlPpuIkv0szfZkMD73a3GEkGxJTVw7ilf5NRQeVmZGRiawMfDvbRkdDojS/qeCIo6siBmmsDn0yPebtIS6vn8XHM+tSe2xKdjKGqJgjYZs7qMJYJ6vb7OQpEttSm9KYaiqHN/sJYt81LkV4B6MvUlqZ6Lw6aYLYbRLwdHjxoyQXA3/LOnmAsMpJ8WUP3roJh/GcZoWkD9p/as3hdnDTjRpdCzdgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACA0lEQVR4Xu2WWUsCYRSG+66i++giKKyoMMMWWowyi/aF9s1WM9ttsTJp3wsiIvrDb5xPzvg5zBQ0Y0LMC3ObD895dMrJcebMmTNn/3oCqSfrE+jv7ECX3492n08BywqcwGhfHwa7u9AbCKCjtRVtTU1orqtDvdf713AC0yMjKC8pwXBPT5qlloYGNNbWoMbjQVVFBSrLyjINJbA4NSlh6PnOUrXbrQHVulyZgBIIB4NYnpnG/MS4tDQ+MPCjpbzcXLstJVvYXlmRVkKzs9LS3NgYJoeGNFtmlhjIBktJkOOtLRysR7C3FpZQkYUFCWVkieHoYUs2AQmc7+8jEY1KoNjmhoTaXQ1hY2nJ9HRsiYBUSxaBBK6PYrg8PJBQ8Z0dDYos0Yfpoeh0RoGTpdLiYitAAo+JBG5PjiUUWyIoAiIYPh1B6XtiKA6cDBXk51sDerm4wP1p3NQSn07tiaHU3yayRF97iw0JvN/dplkiKLakBs49mUVODRUVFmowvwb6eLiXloxOZ2RJ3xNBUUdqzL+EoQl8Pj3i7eZaQj2fnaWdT+2JLfHpGIpaoqAtxqwuaYmgXq+uNCiypTalN8VQFDW/YC3aUZd6W+tPpv5IqufisClmm2GSS/1B9V8JkRYyQXA3/LWnmG06lfkYzghQfXVQzBmx89O+A/xzGKOpgFmHsXtf8QpoIK5eagUAAAAASUVORK5CYII=",
     "wiki_name": "Stone-plaque",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone-plaque",
     "equipment": null,

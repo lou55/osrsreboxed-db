@@ -1,7 +1,7 @@
 {
     "id": 23332,
     "name": "Rune scimitar",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": false,
     "examine": "A vicious, curved sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5klEQVR4XsXXy0tCQRgF8GYfSeQ+Kgoq0AwrpdAkpTAhy5JIgggKapNZYS/sIdlr21skoge9rEUtalNgf9ipTxuft3BzZw7M5m7ujzPzzdWSEiFhSC3pSUEaO53QdblkoXgbDA2W7jTG0OMRDUoh6kw21HfYCzBG17BIEENtq6UAo3e405i2gVFRIIYaY4ciptk5lMaYBsdEgFIYaid/m3g7HCVgyxiqDKacdgijtLKBKqEYKvUtiu0Us1RAFbbzF4ie0+JTqCqGT5YShp4RVCUETyFGqZ3cRlRLcZhMK6rmfwxNkaBWeDL3TT5GYCs8yhhqhTBCW1HCEIIuucwWCQnD7k4/zk59OaPNb1zBW0RhcPfpEQx2IxJx4/hoJAnJ/MgSiqEwGAw1sFp0GB9vx8K8Iwk7PFD9A/lXGEpLq6Ep10OrNcPrtWJ1xYeb62V5oDJNIyoqWtOgUGgUd7cheaCLiyA+P86zzoyUs0P5mbDdCTw/RfAU35KFyA5DNBrA+9uRLEzulqyFevFwv45E4kYOaHrKisCsHctLPdjccGF/z4P44yS+EttyQPRSm60JZnMD/H7P70U4g1hsDq8v0/JQtOiu4S2dnviTqKvLRXko+lTQGQqH+X8oaaNOYcmzJBmRH/mQbxRJ2dL90weGAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4XsXW2yuDYRwHcM+9SNw7RbHaTA5btFmsiZUxJFJSFDdmaE7NKXO6dZYkh5xdcMENNX/Yl9/7et5t715y4X2ebz03T73bp+9zeN+MDCFhUIf0qBBLQwusjX5ZKN4GQ7nLp2HszUFlrqKgQBRKRZQ6PCirb0rDVPl7RIIYSmpcaRibN6Bhajv6RYEYiqvqDTGVLV0axtE5IAKkYqgd/TLxdjhKwJIxFNodKe0QxmgkA006aQz5tmrDdv4yTEClt/MTiOZp8FPIl+0fly6B4SfLCENzBNUjTMcYtZPciAkInr9heCsmQii/Y+gUGbWi/5V/TOK+0WMEtsJjjKFWCCO0FSMMIeiS40skrJWN9XYcHvSlHG1+4+qXSP+0CWEItNkQifgQiwWwt9urQBIfWUIxFAa7vRhulxWDg3WYmvQqsJ3txAtSIIbCkJlZhOwcG/LynOjudmN+rg+XF7MaSP+EyWHIyrYgN7dGA0Wj/bi+isoDnZ5G8P52ou0ZSXuH8nXCNobw+BDDw/1qCkIChsJwdBTG68uuvEaSx0K0Fbc3i4jHL+Xsl9ERN8LjTZidacbykh9bm0Hc3w3jI74mB0R/6vFUwOksRygU/L4Ix3B8PIHnp9Hv5oRHXS66a3hLB/shBXV+Ni0PRa8K2kMrKwMp+0rCxqYwZS/pEZIwPMI+J37MJ+8mJ0sphQSsAAAAAElFTkSuQmCC",
     "wiki_name": "Rune scimitar (saradomin)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_scimitar_(saradomin)",
     "equipment": {

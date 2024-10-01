@@ -1,7 +1,7 @@
 {
     "id": 29251,
     "name": "Basic quetzal whistle blueprint",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": false,
     "examine": "A simple blueprint for a quetzal whistle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0ElEQVR4Xu3V/ytDURgG8J2/wQ8aITRSSkqLEMq0rIgS8cNKaL7EJH//seeennve+94vu9vu3ClvPV2kez57z3nPKpX/GqmM9Sm9jJ3fvQoyt305CTAPIqpkWDKoRJixC/s3sZQEM3bpqB0inp/aQb67L0F05/AcM8zYxYO7ECIDELsjYcwYYL3uHN/3BWkIOsknUiDMbxcRAMgt0yB9zhh8KA8bCue2CpGgPN3REL6DP3vcQOUnCwuNCkLQ7SFBxq6cvoaL8OBqUNKkEfLV7URCELPaeh8E5bZLYiRob6ceAeH3JFQmrjcsOUEm0GuMBmlUFkhuHUA8BjlRDjRbP48sguhzpHN7fRFD6e4g/LBYA88MlLFrZ5/hVGhQFkp3REe+k5iZrVYWBuVAvAz5Mo3Si+nIs8LIdxFU3Wj0A6HcxbV88hgD6YXTIiFp21XdbObByPIw+eWqcXLxpEgoMchUrT4oiOWv+7RFNOLj7SH1fwkaEqPLwXi5JS2a1B29XdPrh0WBWL5rGAAJZCckkn8bI0hWHKdhxCAY9ZzTVUQ5GL4HOaXsCkEY91/CyHIw3Pi1Zidyr5UEYjkYLlt0DbgCJ2yU8udsQkCyJgrzx+sHSEFGkfk1Ts0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7UlEQVR4Xu3V7UvCUBQGcO/f0IewqKyoCIIKQoqKCiokoSiIoj4IUWEvlBH9/TfPxrN79rjNO23ODx14mIrb/Xnui5XKfw1VxrqUXsbO7l4Hmdm+GgeYAwFVMiwZVCLM2Ln9256UBDN24agVIV6eW0F+Oq9BuHNyLRhm7PzBfQTRERC6o2FIAbBud44f+oIYIp3EVfKHMDddQAhATxmDeJ0h8qMcbCBcOFUSDfLpDkPwDLx2uFzldpYMNCxIIt3WoI1azRdl7PLZWzQIFi6DknYaIN+ddiwAISvNjzxdCqdLYzRob6ceA8n7JFQmrrtZPLtkAj1jGMSoLJCeOgFhGQDFAqoQNF2/iA0i4XXEubu57EFxdyT4sTKGXDNQxq6ef0W7gkFZKO4IRz8TmKmtZjRtKVMXgnAY4mGM4sE4eq0g+lkAVddPfNZReHAtnj71gHjgtGhI2nRVNxv9uuMq/IKD6T9XxunBk6KhwEgmluo+3YmXhknSBmHE5/tj6ncB8u5OUrkbQxgOt6RBk7rD0zW5dpi/O2nFXZMNoIHohEbis0JAKO6axjEMGIlsdc/dNXgxTv4HsUvRFYBkuw+1fvKWhsmJv9Rox841DeJ7Cy0Nk8NWuiY4vcP4npEUr7PSQSi9zka2fnxrrDB56hc0T3i+F0+6KgAAAABJRU5ErkJggg==",
     "wiki_name": "Basic quetzal whistle blueprint",
     "wiki_url": "https://oldschool.runescape.wiki/w/Basic_quetzal_whistle_blueprint",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 19835,
     "name": "Clue scroll (master)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "Perhaps someone at the observatory can teach me to navigate?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4XuWW62sTURDFcwkhVEJCaDHYgtAPVmxAbenDYIspTWj1i0LBopZSLSGEEgyhVVFUhOAD/aCIIIh/65gzt2ezu9mEPCoXdOCweezs/nZmzt0bi/07YcTKaRDCyIdsUlqZpEsoI++Pbsmbyk3VRj4jlVTCFZCRz40NadXWVV+OFuVrfUl+NJdlLRl3AWXkY72olQEQYL43liTlBgZhvOoEgCYcAr2rrnlAo8OcmTON1y4MNoBeHNyQV08KnuvCGd1h1JXb1y4MeH7P6MBAGGQIMK9rdzz1BrO/w5V05hjuDLaKMKxOuT3UvMHL6raqA2b169mqVvRTbUHzoDGc2V2d6s51rzqtmSmFwRF6XtkKCDDIwTKBHAqOHQEoujrNvRWvOgSB8B0QJ4dlFc79ebyijuRierK/qtf6dlyS32/Z5oHCaGnDMI2Htl3NXFbFluEI+WEo5OPBkAcoLLCPbueHg2F14CiIF8cTolUEgtiqKBjmo6IAwufOfA0URm/KC9Hi/lZhcHvBNA9KXTCoCvLwgEOAIOwAY+AowBAIT0gncWgBFAVDIMLgODTMg6157S+FixIIVfODsCoEAkxUdYKL51BhZGdzTu6XL8vCbErdQZj6rrVsGMZfmSgYzs0IMAwjldK03FuektnzScllEuoqqB8I9HR/s6tVqCo0HlDbwutXMlKYS8t0dkIHGeoHEoZhq5A3FgwALk6e02V9MRHXKtGifogwTBgIbhoThmFvjk1X98bL/ueHgOp7RX0tYObgSgKhzWcAxOi3cNn/AKLatVvZMFDv/L8Wp2BtIAjOdAzEMFKcz0nhknXmZCruHsjvzMd3r7oEMpKfSQecibc4FldHQAijm324Mh2LnYI4g2EQwjnIfxJ/ACWfHe/sWw4uAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4Xt2W62sTQRTFM4QQKiEhtBhsQdoPVmxA29KHwRZTmtDqF4WCRS2lVkIIJRhCH6KoCMEH+kERQRD/1mvPHe/s7OwmbBuTFS8cNm32zv723DmbTST+n1KkFWsJhKL3+TR1cuk4oRS9O7hNr2u3WGvFHNUyKQaanZwcNpSiT6016jRWWZ8P5ulLc4G+txdpJZ2MwyVFH5pldgZAgPnWWqDMHxg4NGSXlHHHBzTiAbkdAy5Fb+srBsiFiQ7015KpzLiwsQH0fO8mvdwvmdS5HcFSnMrNG5cint+1PBgIGxkCzKvGXaPuYPr/SKUkU9Lpnhmh/KMSGHGnerqp5QIv6pssD0zr5/EyO/qxMcd9kCQz+qhNBd2pb80adzoTYwyDI3RS2/AJMOjBYwI9IiT2HEDh7rR3low7AgLhb0AcPa2ycO6PwyVOpDxMj3aXea2vhxX69UbGHKkUW+vCtB7pcbULeZaMDEfIhhGhHzeGPkDhAfv4TtE4FMElPXssgkRBsjjuEKMSIEhGFQYj/XAUQPgs60eGwUVlIYm4PSps3G4w7b1KAAauoA83aINEgkEzNpwIMAKEO5QkyaYFUBiMAAkMjmdwBaXo4cYMz1eERQUIrtkg4ooAASbMHfvheQYYlKKt9Wl6UL1Kc1MZTofANLd1ZF0Y25kwGNk354CRUlSrjNP9xTGaupimQi7FqYJ6gUDPdtcDo4KrkAC5V4tQiiO8ei1HpeksjedHeCNDvUBcGBkV+vpyBwCXRy/wY30+lWSXJKI2hAvjAiFNfcJI6YvjpSv44qW/syGg5k6Zfxaw55BKAcKY+xiVV/bF3buzvwMIa1u/yrpAYf19Va/FfGCnQBCSGQbk9g60BKw8U6DSFZ3M0UwyPiBd/mQ+uXc9TiBFxYmsL5n4FcfDNSYglOKXfaQym0iYvdVrDw6hvNdVAYkRRtc/AzKI+g2NVGcMS8s2HAAAAABJRU5ErkJggg==",
     "wiki_name": "Clue scroll (master) - 02.09S 06.58W",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)_-_02.09S_06.58W",
     "equipment": null,

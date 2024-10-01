@@ -1,7 +1,7 @@
 {
     "id": 25767,
     "name": "Fiendish ashes",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-06-16",
     "duplicate": true,
     "examine": "A heap of ashes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xu3W/UtTURgHcPc/+Nt6oRKEIEhyWv0Whkul1LbW3Gxr82WmtijDGqZoyTITw7SiQsEQEykjiIqiyL/sqe+5POO5Z+eu3e0W/dCBh3t3ztk9nz3n5a6m5t8vPjKHqf2PFx89nAjRg1y3ivytLpq92amCERtLKVpfTNLaQsKA0n9E1XALxCiAOHTM6nwvPcvHbAPjM9r0sKNcIX20OBkuQuEKCAeDnsxGaWk6ovriagKhv0R/256gL5tjlaEYhHvODoNezMUViPs6gfC9r1s5+rEzQ7s79xTIFQYP5V/NIAxqAi3fvVgA4d4E2lxO20C4LxPks00DBuLFjc86CIMDwdPrBNp+OuAdiLOEOhOIM8kgZE0HvX0+WAAhXIF4XeggDK6D5IIuBXr3MmMHvR6vHoR6gBjFmZQ70gn0fvWKtyAEABKkL2gnEPp+XB8tgL6/mSoXg2IHSRQebgKhzRrAChPo06tspSAU68EYzAkkAYgjBw9Qnd9P/tpa9VkHfd64XinIOoOQIScQ+qTagzTS1UnZUDddC4coGWyl9uYmqt+7pwiE70iQi0PR2vImEAIPR5/xaIRy8R6avBSnqUQv3Y5FaSxygUa6z1EieJoO799XQCE7noIYhUB7S0MD5fvTNJ8ZoIWhDOX70jSTStKd3piCZUPnqb+jjXpaTqn+noJklnDlDLU1BdT0rGSv0qPhIZob7KfZdIqmLycU7EYkTI319XS07pDqv7XSVwDhlC4Tg2LtEBOIXwd4J6Hf2ZMnqON4s8I9Hh35la1Buj/Qp2DImDWo9VcFrw2ZoYpA+jrirQyQvssYdiYQoNbGY6pOrh+8NjwDMQr1GIBBaOfdJ3GMkSCc0hLkAmWBTNNWCoTAvZxaBqH/h7XhAghnkItzyA6S0yZBuKJeYkwgwKsGYZf9DoTB+JWhg3it8XR5BtKnDfUSJP9yMIZB3BcgbHkJwhnk+hwyTZsE4b4USK4fT0CmaZMgtJkWNAL95PqpEoRi38JOoa8fDh2EQ1GCOFyAyi3FSA65fv4iqFQpRhbH/1Jd+Ql1+m0UmUw1NAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADN0lEQVR4Xs3W/UtTYRQH8O1/8Dd7sRIGQaDkS/VbGJpKqc2WTpttvqa2KMMapmjJMhPDtKJCwRATKSOIiqKov+zU97mcee7xuWtzt/CBw72797k7n53n5S4Q2PstSPaw3f/nLUiPxsL0MNViIn27maZvNZlgxNpCnFbnu2hlLmZB6R9RMNwBMQogDo1Znu2k5+moKzE+454ONyovZJDmx1t3oHAEhINBT6fbaGEyYvriaAOhv0R/3xyjr+sju0MxCOdcHQa9nOkwIO7rBcJz3zZS9HNrin5t3Tcg5CgrKTGhs6vmlJ1/NYOQ1AZavHcpA8K5DbS+mHCBcM4gnV21oGsYkIgnNz5rEJIDwcPrBdp81usfiKuEazYQV5JBqJoGvXvRlwEh8gLxvNAgJNcgOaGzgd6/6neD3owWDsJ1gBjFlZQr0gv0YfmqvyAEABKkJ7QXCH0/rQ5nQD/eTuS3wiRIovDlNhDuOfuJEzbQ59dJK0hn92jOFyOZF0gCEMcOH6LS4mIqLioynzXoy9qN3YKcPQgV8gKhT7yhjoaamygZbqHrrWHqqqulhuoqCu3ftwOEZyRIboo6u2rOkreBEPhy9Blti1Cqo53GL3fQRKyT7kTbaCRykYZazlOs7gwdPXggg0J1fAUxCoH7NeXllO5J0Gx/L80N9FO6O0FT8S662xk1sGT4AvU01lN7zWnT31eQrBKOXKH6qkozPEvJa/R4cIBm+npoOhGnySsxA7sZaaWKUIjKSo+Y/htL3RkQdmnG5ATCCrGB+HWAdxL6nTt1khpPVBvck+GhP9Xqowe93QaGiqEPAtXBa0NWKMfqoG2D9DzipQyQXmUMO1tZSbUVx801OX/w2vANxChcRwIG4T6vPoljjARhl5YgRunsluaAbMOWDYTAuRxaBqH/x5XBDAh7UB77kBskh02CcMR1ibGBAC8YhFX2NxCS8StDg3iu8XD5BtLDhusSJP9yMIZB3BcgLHkJwh6U9z5kGzYJwnk2kJw/voBswyZBuGeb0Aj0k/OnQBCaewl7hZ4/HBqETVGCOPIABQK8rWcLDZQh548voFybRuaC5dju+5+aRtpCP7On22+//regJyojJwAAAABJRU5ErkJggg==",
     "wiki_name": "Fiendish ashes",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fiendish_ashes",
     "equipment": null,

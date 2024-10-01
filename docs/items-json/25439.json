@@ -1,7 +1,7 @@
 {
     "id": 25439,
     "name": "Zealot's helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": true,
     "examine": "A well fashioned helmet with a strange aura emanating.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmUlEQVR4Xu2V/0tTYRSHfX8KQ5IwDJMMkwxTtCQzyWwwzMwwzTQzszHGMDPNzCyzMcbYsO9fiP7cI88Zx91uq7GaW9A9cLjuIrwPz/mc99bUBBVUUP9sOcl31ctJ7MFDmb8Tkf7zA9WEyhlZjq9JPPJI5qYXZOhSSNrbTlcDysnWelKerWzJyuK6GpqdmpexkZvS0X5GWppPVBLKSfr1G0m+zCjUk6UNid6Py8zknIwO35Cz3b3ScLhBuwK5cpLYTMvb9BeF2t5IKVDkXkxuT8wq0ODFIWk+dlzqDtZJ7YFa6TvXv19QTlKvspJJvJOP2W/6BM6Abo1Py0j4ugxcGJS21lPSeKRRoXp7+qS7s6fctnJjyiY/6BOQF2sJebq8qflhXMBgh5ERbCwxNiyRKbq15WQ5oJyC7KQ+aWOJUT1f3dZAs2EEmnGxZRixYGOp/lC9QgFoYH8J5TQzNGAAEWbs2MpzB42PTkroclgz09nRpTYMiAYEKAP7A6jczAHAzPvM173cMC6ysxRb1ZEt3I1qhoZD1/RyJDPkqOlok8IAZiAGRZcA5fRwjGCGv23Nzcxi9LGuOzBcirb2/hwZDIBYs7GVAOXUBptEf975vpcduwz9INhhZBgCiBwZEIeTKX4XgioC5NSEtfc2xgjj4Z1tGCMDDjDuIULNyDDE4dZkyg9lYEWB2CDaDgaIw8kMYDztnWWIUJspQk2GAACM5vevoIoCsc6A8DQQNslCTvMOELJkQKw+libGptQSYIyO/h1YESAqf/CP/fP/AANsoTyRpUJgBlUCUCmVg8KO3xJffu4lcsXnxAtnlsoMY5WzhSWAzBCfkvCVqwrktWWW9gnGW/nxAoUhg8KUF6oCMP7y58/fQQX1n9YuXASfixSy4X0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACt0lEQVR4Xu2V/UtTcRTGd38KQ5IwDJNMkwwz1CQzyWwwzMwwzSwzszHGMDPNzCyzMcbYsPcXoj/3xOeM477eZmPptn7YgYe7Xbadz57znO8NBKpVrWr9t+VJThUvT6KPn8jc/bD0XxyoJFTWkaXYqsTCT2V2el6GrgSlve1sJaA82VxLyMvlTVleWFOHZqbmZGzktnS0n5PmplPlhPIk9e69JN6kFer54rpEHsXk3uSsjA7fkp6uXqk/Wq8qQ648iW+k5EPqu0JtrScVKPwwKncnZhRo8PKQNJ04KbWHa6XmUI30XegvFZQnybcZScc/ypfMT70CZ0B3xqdlJHRTBi4NSlvrGWk41qBQvd190tXZfdBuZceUSXzWKyCvV+PyYmlD88O4gMEdRkawcYmx4RKZQq3Npw8CylOQ7eRXFS4xqlcrWxpoNoxAMy62DEcs2LhUd6ROoQA0sH1CeZoZBBhAhBl3bOU5g8ZHJyV4NaSZ6ew4r24YEAIEKAP7B6jszAHAmU/pHzu5YVxkZzG6oiObfxDRDA0Hb+jhSGbIUePxRoUBzEAMChUB5WlzHMEZXtuamzMLkWe67sBwKNra+3NkMADimo2tCChP3WCT0LftXzvZscPQD4I7jAyHACJHBkRzMsX7fFD062lp2QvKUydM7mmMI4yHe7ZhjAw4wDiHCDUjwyGam8iUH8rACgKxQcgaA0RzMgMYV7tnGSLU5hShJkMAAIZ4vxdUQSDWGRCuBsImWcgR9wAhSwbE6uPSxNiUugQYo0N/AysAROUau+JLJrsHDLD58kSW8oEZVBFAgYDbfDfI7s8YFO74XeLJz7lErnicuHDmkvtH3d/eZ2XdwiWAzCEeJaFr1xXIdctcKhFMttwxIqBwyKBwyoUqKYxbuSZ/ZtBVWWD85c+fX/7PV6tapajfx/vQSV6rgK0AAAAASUVORK5CYII=",
     "wiki_name": "Zealot's helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zealot's_helm",
     "equipment": null,

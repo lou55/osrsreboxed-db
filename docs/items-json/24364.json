@@ -1,7 +1,7 @@
 {
     "id": 24364,
     "name": "Scroll box (hard)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-11-14",
     "duplicate": false,
     "examine": "Contains a hard clue scroll.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xt2X30uaYRTHe9jFYIgSii8qGSolZmRKWVKW0ew3ZdOybNnv4ZBRKwYbxAh2tdHdbne/i/2R3/k9L0++s9ueN9iBQynk++k53+/3PPb1/f+l8LifrRTir0aQ8mSR8RaQ9y1gur/8XFAKi8UiZvN5zE1Py++74RYqoROsWQ23T0thcjwjIKWZGYFZe72Inc1NbK+u4mLwFs2BawF0CUohNzYmvVEuY2WhJCBva1W8PzpCc3dH+iz6xQ0gexSZdBrxoAfpiBf5uB/vDg9x02rh6/VH3F5dSl/Fv5sGsk+G49laXpbTIVhh2IuNnB+NWQvtlQguL87x4ewUn4d+mj4lWzs8GTY1xNFU19exkPahMhlAeTSErZwNdZf8ZRKGpRD0vnwQ9NL8vIC0T45xur+PxpttFJPBByiK3CCQQsiyBIajIgx/lsf6UZsK4KQUwl6lgsJQAKURSyCr4QtTQJ0AjEYxlc1iqfMQNjVELWkgnspxvS4CPz84kDYGEwwEMOnfQCt2h3bsm7hnO/pJtEMw55g4Nu3E3k96glLweb0YisVQCNRkBIS5Sdyj2nEPNcJQ1GNiDhkC0aVQmJjodgeqZDWxFmljp5PGHBlDkWMikHEYZg5HolcD05ivKV66SusoF+tHNuYxCaTg97xAMmSnMPOFoUcnMfi4HqgfDUi3GYXRGcMH5RMerI53oVYyIbE09UMojswojDOJaWc+mHAaim7iWtDvMwoMAGmb2klM7fCeU0z5BIT5wtHQRRQv7c2xdf/uSctOYFpbFmXHTfzPec/hWuDSrBeCaM5ZAkWgLsyTl8JAOIyR4WE5FcIQhEBspjDHRAhqhyKmm3hixoBGUymBoXZ40zuIXAoMxcrWoUcg6sagvRWSiYSMiTAUJ0+IdxgmsdPSejWsj4dNwbDUg24IRBgKWV/aeZdhO1cDw9AVIJ6OE0Zf3tl6NXBUTGijQLxSUEME6gXR3yZ+pH/LejBkcWc9BuqF0UBswzAshcFI5B/Lc2ROGPZ9+o8bMLpsHWnra6c5vwBS8C4CsWxtOPNIi5xgLsM4S4u2t83WX8ymelLH45wFAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQ0lEQVR4Xt2Y3UuaYRjGe9jBYIgSii8qWSolZuQHZUlZRrNvyqbVqmXfwyGjVgw2iBHsaKOzne58B/sjr3ndL4++sx36GOyGmz6g3p/3dd3X82hf3/9fCo/7yUoh+mIUCVcGKXceOc8CpvtLTwWlsFgoYDaXw9z0tHy/G6yjHDjFmnXQ62kpTKZTAlKcmRGYtZeL2NncxPbqKi4H71AbuBHAHkEpZMfHpTdKJawsFAXkTbWCd8fHqO3uSJ+HPwtQemjIJJQtRSqZRNTvQjLkRi7qxdujI9zW6/hy8wF311fS19FvpoHsyVCereVlmQ7B8iNubGS9OJi10FgJ4eryAu/Pz/Bp+EdrSp3/qUtle4eTYdNDlKayvo6FpAflSR9KYwFsZW2o+/jP1oQMTUnB737eMvTS/LyANE5PcLa/j4NX2yjE/S0omtygZAoByxIYSkUYfi2N96M65cNpMYDX5TLywz4URy2BrAQvTQE1AzAcxlQmg6XmQ9j0EL2kgTiVk709MfjF4aG0IbmaMvl8mPRuoB65RyPyVbZnO/xRvEMwp0yUTW+iERiP243hSAR5X1UkIMxt7AGV5vbQIwxFLRNzyAnSZRiWQn5iot1NqKJVw1qogZ1mGlMyhiJlIpChqeiyM4eS6KOBacyfaV5ulfZRNtKPTMRlysAsBa/rGeIBO4WZLww9bhKDj8cD/aMBuW0Gp6NaGcMH5WIurKbbUCupgKw0/UMoSmYUxpnEXGc+mHAaitvEY0H/nlFgQKr2bY9JTO/wnlNIeASE+UJpuEU0L9ebsum/6fJ07ATmastB2dwmvnLec3gs8NDcy/tRm7MEikAaxsB6KwwEgxgdGZGpEIYgBGIzhSkTIegdmpjbxIkZkImlMJZICAy9w5veYehKYGhWtg49AtE3zvXuMpBCPBYTmQhDc3JCvMMwiZ0rrY+G9XTQFAxLtXxDIMLQyPrSzrsM23k0MAwNScVqA3E6Thh9eWfro4FSMaGNAvFKQQ8RqBNEv5v4nvwlx4OhFXfWY6BOGA3ENgzDUhgMhf5aeUrmhGE/JH/3AkaX7SO9+nrTnG8AaXiDvvlX2d5w5pE2OcF6OJ122Q/r/ATDuIml/gDfFbrVzlBF2AAAAABJRU5ErkJggg==",
     "wiki_name": "Scroll box (hard)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Scroll_box_(hard)",
     "equipment": null,

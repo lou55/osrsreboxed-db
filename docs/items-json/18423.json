@@ -1,7 +1,7 @@
 {
     "id": 18423,
     "name": "Cave goblin wire",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-20",
     "duplicate": true,
     "examine": "Wire found in Dorgesh-Kaan.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUElEQVR4Xu2WMUsDQRBGbwjLciJpBEGEgBESJIJRCNEiRJEDDRIkkCKgQhALCwvBwsJSsLAQ/MOfzAxHJBKJl427xT7Y5oqddzOzO5skkSAg6PKOihxup2hWrG8pQr+5iqyxgk4tRWvLYnczAKlpofqG8SVFeL+xeOgZnOykUjaPvaQyz4O8RN5EGMLryMryKJFDeBlafIzz8nhHS5XtlUIQIrxdWXzeBpad8am3Yz0NSe+c7wdRLoakXAfVKDSLpQgtcqM6FyIZgsWeCXrkHy+sKyGdyjyRi01jPfL9lhMZRrPDz4PKWgnlNPnDxjq77s8M2jWHQpyd6rqRa3/+q197joWGR0Uy+yt5Q5NsPgkwez1dat+MOgbHjXl/ohAa8C5TMe6NQdtI4Ouuke/88OIxMbmZlybzHQ3EWWABFmEJFmNRj2PiZ7n+MSuRSMQpX9b11qBEGMJJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABd0lEQVR4Xu2Wz0vDMBSAG0YIleFFEEQYc8JEJliFMT0MHVJQkSGDHQYqDPHgwYPgwYNHwYMHwX/4jfcesTHzR6tt00M+eJfSNF/fS/ISBJ5KIIDDOSyytx5C1FCupQQMozrEnQXot0PorinYWq2AlC20sSJdSQl4vVJwdyphsBlS2XQJo2aTwh5RICzzONIl+ixSuszzRFHYEiWLIAKexgreplweRxImXKp4u/YhZL9RIgJeLhS8X1csO9Mj3taOZRBBa+dkpxLlQgSVa7flhb6jEKH/XBNyFxLUBP92TeAtf3+m8hLirowdWXfjbB/kLT/sJjLZxs/B2cHrQWOpBothkCFL3LtujyX02rlkBxGUndaypGM//dHPaw6FxvtJZn8fl4rkmoAf1xP8FA/nvG4mfQmHnbQ/kYHk73jCm5jFcG2MepImvjyQ9BwvXtgm9Mmcc3bmMcUwCyiAIiiBYihqtolCZUxMsa+iNBEbMwt22O96PB6DGd2jGhDNRhHIAAAAAElFTkSuQmCC",
     "wiki_name": "Cave goblin wire",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cave_goblin_wire",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 18360,
     "name": "Saradomin's blessed sword",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-09",
     "duplicate": true,
     "examine": "The blade of an Icyene, blessed with a tear from Saradomin himself.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQ0lEQVR4XmNgGNmA8T8EDwrA+L89hv1/RRD7YHAUwjEgeoAdxPi/Ow7imNUlXIPHMRsrB5Fj1pUNAsf0J3IOPscMijQzqBwzKXkQOmZ5IefgcsygyN6DzjFL8gfUMciWMoIdM4BlDeP/BbmwRDvgjgEBRK3dED7gpTDj/0wPVrBDQBiUiHfU0c1B6JZAQibXixUeXQhMcwDMOTkWSJZBau1CH/b/+5u4wFUDLJTo5CAQYPxfnWcJD4WSAPb/iydYg6MIlG7o7BgYgDiqMEXzf0e1A9gxoLIGlHYQOY3ugPH/yik2/ye3ug5E2kEHjP/XzbL7P63N7f/Oxc4D5QgYgIRMS6U/PERAfDo7ChEdyybb/O9uDEZzAJ0d42Kv+T82zPx/abbr/8nt4fQODXTA+D8i0OR/UaYLlpAZMDCgOWgUEA0A7X4LeFiOL7wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZklEQVR4XuWWO0sDURCFM0VYkl+RNp2FoGKIgomICL7AWKgg2gSNshLFEBAVNUIKxQ0WVkJEESFgp5U/7ejsdR8uW98Z8MCwd2BhP87M3NlM5n+LYEKFCJ01B8dLjgaoCIafnA8VClJQhO6GgXlr5kMYIaAI5r2lCGZwpADmZjOnD0ZFz6iCudtSCPPi5nTBxMc7+aYlUSqMEJCBedoXhYkvRvJhBO8awmPDNK0CGFa0tU9r4rcwoT6T9UE4uIk/TqxNVPIHyjjTmM2G5QrCgjs/k7M7+vtBk/PWduccfJ3n/dUQuGTJHRahvTcWutBccNC/HfdLxH0Th7EExDJQ7nYR1+1JH4bvGu6dYNIswgQivPZK8C6rEr2TFGHwUMb91TQ++1N/IERg2JmL1nzoCOfmbE1ROZ69Erpny4nSWC0ToTJRxPrKCA53qvA6tVQASzAswuriMA7qlRRnxCQ6QekSmiDd+gZ471pR7SruogAAAABJRU5ErkJggg==",
     "wiki_name": "Saradomin's blessed sword (Partially charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin's_blessed_sword#Partially_charged",
     "equipment": null,

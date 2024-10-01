@@ -1,7 +1,7 @@
 {
     "id": 11471,
     "name": "Superattack mix(1)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": false,
     "examine": "One dose of fishy super Attack potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu2W3UuTcRTHff6KcnOb25zzZW7uRZ/Nvehe1W1SGqbonr3ZXZEI3WQWCF0UEUQX3UQURDcFFV0VSZGoN5YiWRoFBd1a/gnffuesYUQQgc+eiA58GYMxPnzP9/zOqav7d0rCnjQvCYeSehzPN+PiafffACXhxiU/bl8J4vwpl9ZAlTYR0K3LAczPOLVsnQSTyQKDoZGBSOdOOqDTG2CztWoBJaGjww2vV2aY6xdknDnRjg6nGw6HJlmSEApFEApHEA73IhzpQ0QoEAjB5/NrAxSLJRCLJxCPJ1n0neDINU2ABgYGMTiYxuzsHObmzmJ6eka4FIXb06UFEJXELcpksshmh7h9Gk4ZlYRoNM4wmUyG26UhDJWERCIpgLLcOgp2fX2DVlASZLmHc5ROZ/iTpqy7O6AdEAFQfsidVP8AB5ogdTpDraEkuN0+JJMpBqL8kEO9vVH4/UE02VpqD0R5IWeqE0Ztk4NfGMjX5ecVUiMoCW3tLg5zOr0HRDo8ssvPgNvdhUZzU+2AaLxTqX52pQo0NESjn0WbcwceTzdcnV7o9Ua1oSTe5LQiKMRVoEnlIXL5R1CUu0j0f4XFtsnrw2y2qQ9ErzHtr+q455THUAoLyBefolBaEHC7sNo/o7PTB7u9HQ0Gk1pQlfuHJmn4yE2Mjd0RrjyHUlxCvrSMQnkFxfISSlPLcHl2oDfe461vsajmkoRgMILhkfs4Ov5EwCwLV14KkDUUp9YFyBrKx9aFXqG5bQcmyxL6Ytfglef5iFMBqnL/jI4tYiInQIpvBcg2SuUtlMXnj6JgGy0vEE8+4IPNarXjwEHdfkJJ/L7QdI2OL4qcbIj2fBCufBSOfGKVpvY0qazDaH4Gr0/miWtpdewnDFXlzKDHkAKt5DcZ6GcVytvs3ERuBSbrKq8RgnI6PfsPVHWIgPKlLTFR77/rHfKFN2LSXgttYDK/KnJ2leF7esIMpdJJWwk13T/0KP5O9FtZDrBDKsBQVdpGQLQ2fiW+q4WD9HDSb2twW9Of/6n+l3r1DZK3PJLa8GpeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xt2X3UuTYRjGff6KcnOb25zf7lvfzbn5sc2PbVIapujefdlZkQidZBYIHRQRRAedRBREJwUVHRVJkagnliJZGgUFnVr+CVfPfa+lSFDBtre64eJl8LL9uO7rfp57FRX/TwnsSvMSOBTV43iqFhdPu/4GKIEbl3y4fSWA86ccDOSsrtYKKt8mArp12Y+5abuWrRMwmSwwGKoZiHTuZDN0egNstgYtoARaWlzweBSGuX5BwZkTTWixu9DcnM9SmVsn0NERQkcwhGCwE8FQF0JSfn8HvF6fNkA9PRH0hCMIh6Ms+kxw5JomQP39AxgYiGFmZhazs2cxNTUtXeqGy92qBRCV4BbF4wkkEoPcvsKUEYwmQN3dYYaJx+PcLg1hqAQikagESnDrKNiVlVVajDyVgKK0c45isTg/acra2vza5YcAKD/kTm9fPweaIHU6Q7ldEnC5vIhGexmI8kMOdXZ2w+cLoMZWX26XBOeFnClMGLVNCXxhIG+rj6+QMrkk0Njk4DDHYrtApMPDO3wMuFytqDbXlMslwePd29vHrhSABgdp9BNotG/D7W6Dw+mBXm8stUuCb3K6IijEBaAJ9SGSqUdQ1buI9H2FxbbB14fZbCu1S4JPY7q/CuOeVB9DTc8jlXmKdHZewu3AWvcZTqcXdXVNqDKYSuVSfv+hSRo6chOjo3ekK8+hZhaRyi4hnVtGJreI7OQSHO5t6I33+Na3WErmkkAgEMLQ8H0cHXsiYZakKy8lyCoyk2sSZBW5Y2tSr1DbuA2TZRFdPdfgUeZ4iSuBS/n9Z2R0AeNJCZJ5K0G2kM1tIiefe0XBNlpeIBx9wAub1VqHAwd1xYQSfL7QdI2MLcicrMv2fJCufJSOfGJlJ3c1oa7BaH4Gj1fhiatvaP7RtiK1Lr9m0GFIgVZTGwy0X+ncFjs3nlyGybrC1whB2e3uYudo1yECSmU35US9/653SKXfyEl7LbWOidSKzNlVhm9vDzJUiVbafKhp/6FD8VeidxXFzw4VuV2FyreNgOja+Jl4r5YO0sFJ7+7drYsMU6i9/+F/TyWEyVfhB/5E+7/jn61vIfpxnSiWbUkAAAAASUVORK5CYII=",
     "wiki_name": "Superattack mix (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Superattack_mix#1_dose",
     "equipment": null,

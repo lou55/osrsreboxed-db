@@ -1,7 +1,7 @@
 {
     "id": 13696,
     "name": "Water orb",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-18",
     "duplicate": true,
     "examine": "A magic glowing orb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiklEQVR4Xu3Uv0vDQBjG8YQQSkJIkWbq0qlDRahIrZW2UqmlVqTWH6UODjo4ODgI/gEOgqMgODgIbg5OboKD4OQgCG6CgzgIBcGhIHR6fO8u0eiepMJ94Z3z4b3LKYpMJpPJgkqFmIFIRbvZxGKjMSgoFaut1h9UJDDvwyrWVpZ/oRbq9bBQP4j5Wo0j1judbxDDzM1UUS2XgwYJRMw8oNlDzNiBHttAKZ/nH2cItpXZ6QoqxSImc7mgQAJiWKc0xzDMQxe0S6BN6PoSRjIZjI9mMVUo+O5PQBg78QJr6BFW/A6mfclhfEsMZGwRqg1Nr0HTxoJC+COQ80GoV0I90dzDjF8R6oyjdGPbBZUIkgwHlEr3CfVJqC6sxDOhHgh1A8M+50cntpMNA8NSkUz14SQZqudDiSM0rCPCTEDR0mGBWCrijrsl3/F5W1K04TAxXuwu9QTIeecbEneJXfD9KEAs9sd1ad5c0C3fEHsGIgKxxPsi/rZregYuaEsnUYK8/I9f5BiZTPa/+wKLaecMotPgCQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpUlEQVR4Xu3Uv0sCYRgH8Hs5DnmPQwlvctHFwQiUMDPUMEzMCLMfYkNDDQ0NDUF/QEPgGAQNDUFbQ1Nb0BA0NQRBW9AQDYEQNAiB09Pzvu+ZpzT23jm8X3i3g/fD93nu1TQVFRUVFVkhIM5IhECjVoOVanVUUAQ26vUhlC+w3sUENtfXBlDLlYpXqD5iqVzmiK1m8xfEMIvzJSgVCvybVCwmCyUQAbOF5xACdB+MwDbkMxl+OUOwVhbmilDM5WAmnZYFEhBqneM5BWoeO6ADBO2AYazCRCIBU6kkzGazrv0RmH8GEQiG38AaewYr9ABm8JrDeEsMRHcR1QDdKIOuTw4gJGBYEGR/IeodUS94HsEM3SDqgqMMuueA8nhxRNaI3CEQjXcR9Y2oNljhV0Q9IeoOaPCSj060k5Q1ouEQiES7YEcYquNCiRFS6wQx06DpcS/a6YVAyHZaco2v15Kmj3vVjjtslzoCZH/yhsQusQU/8rIdd9gf18bz4YDueUPsGfAJxCLeF/G33eIzcIUtnfkJ0jRxcf/x82F//o7kB1BFRUVafgAHdQmDTuHGQwAAAABJRU5ErkJggg==",
     "wiki_name": "Water orb",
     "wiki_url": "https://oldschool.runescape.wiki/w/Water_orb",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 21079,
     "name": "Arcane prayer scroll",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-26",
     "duplicate": false,
     "examine": "Scrawled words that can invoke the power of the gods.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfUlEQVR4Xu2XQUsDMRCFt/RQvPTUkz9PUcReRUREPCmCSMEf3Pp2eWQySdrN67a5dOCj3dLNfJnMTmnXXaJZzLYDzWMQ2bw/bn/fHs4txSoEvl/uepGf1/v+/dfz7Sml0uQeilgmFIoFsHMLkucEPKJQWn70AXuhRgDge7jn72OtCIWzxwKUqBHwUAivghDicH/UwM18Pt3oQnZXPoEC1kK1xWNDhApxh8fC/hOEZv3M8AtOhSSEG20zH2LZdcln1/P0MxyfIITQjmz1LwZ4DSmKQQaVF5t7GH4+YQlWyMp4oXgWCULYDXaFxa4Wix4rQKwAK1SqEhCrNMwfmyyHFxoDR0ClECLtH1ulErkqWfj4CyMg/IiWZGyFxlbLrlkt5H/LLKU+qqVaiviFpkCcS9PJ2P7BtSBUN488VoBPF9uAg1ISGitVEiDxYJQGJCJewEvsw98rCtiIJzbAdY408dHJcxEmNo8tHv0nTV6KuI8aCPho9u9zXzSvSvvYAUhWnzWK3UjlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABm0lEQVR4Xu2XQUvDQBCFUzwUL548eepP8Dcpiui1FBERT4ogIviDW1+Wx86+7CbZMWkuDjzahO7Mt28n07Zp/mOxWO2DFo8A8v1yv/96vjs2FF2I+ni8aUE+n27b9++76zmhusVVBLHCZy83mymgUgDs3ArFcwAqJ1DXfvQBe6EGAMLnsObn9cEDFM8eCQhRA6AiEF4dQIjh/qgRN/O2vfID2V1pAY+QC27z2LTiiIgOcYd/FfvP4dKqnRmacCq5gLDQNvOQzpqmc+/ipHsPx+cAQviO7PwXDOI1oAgGGDjP5taKAxGGnxYsiQ5ZGAWys8jhUugj7ArJTtfrVhaAsgB0qOQS5HQpzB9bLCcFGiOOAJdLmsy6VFLOJSs+/hwBWrUn4pdoCcY6NNYtm7PSpfjjSpMSINdHtap2idJEU8g5l6aDsf2DawdQ3TxSWQA+XWwDDkoX0FioEgBlByMFmAogRJpAIfqkay2AlVbsiXRiQ7jOSQuXilcCaMSJzWNLR/+sxUuR9lEfgK6cKdJ/nwsA5ML9RMwXx4Y5AAjC37geiCy2AAAAAElFTkSuQmCC",
     "wiki_name": "Arcane prayer scroll",
     "wiki_url": "https://oldschool.runescape.wiki/w/Arcane_prayer_scroll",
     "equipment": null,

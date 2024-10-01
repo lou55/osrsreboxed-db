@@ -1,7 +1,7 @@
 {
     "id": 28183,
     "name": "Mulch",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": false,
     "examine": "A nutritional mulch made of different natural ingredients.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnklEQVR4Xu3VfWvaUBQG8N6/xoZURFFUVKIkElO0BqORRqdU62Zlc/NlrsMhg33/j3Dmc+TepakF3ex04IWHXF+S8/Pk3nhxcR4vMgQF3zniEJTPxOiEUIKcq9xpgYZt6/RQvaZJbUc/FZSgxbDGnQLspFCTuyqNuuVjowSZZoJ+zj16GNWPiULBTbodg2Yzm1af3C0omYMP/8UFJaIhSsXDfIyG3/ARAciPqhhpyqcP/qwSpGfjlE1GFALHbUFxrCegxr0Ko7DgD9gpwR0wtQRZhRT/YgRzvAekDED4zLsucIf8Cx2oy9Drv0VtMCgmMW5ZI9vM8NyPkek6Bg2aJZUgauCV/rRbm3Xixzy8rassWjUObhFiaTEqZqPqNc7TU+vbHIsoFG4hUEPP4s/3QAluP05adhoKMLuxOZPm+hc7ZeqWDZW6meRUCnHGAYX325ZOvYrJc4lCZn17PxAWscRIxLhRYQiKeGaB3KLG6Vxn6c7RaNQs0NjTadI2+HwE3wMIAHRq9s7mYL764O6KEuoW+TsyrFkK4ug5svMZDjCAfL0t0bxTZBBwEoUAtLxvqMcCsvzY2B0kb5EfA4SEVLT1TsumOO8beUYAhEgQoNiJMgDh4QkIjj+mN5wdUIIhCG4POiIBOMq5lrwkPR3hxQzEt76lQNgI8tEgI3cXEPirWc0HNL1v7QaS6wQdQfF8IqYu7IdgEdtGgsKhV/R9cMUgiXFdTeV3UcGY5bSvgI9rPzvklzeRRTLxEEOwkwBpWilqldOM9D847WqG2m2dBoN1xz5XA4X3gjw3NheRGGxx7K5bO8drBTiJQXo9kxZfavyn+xR0sCG4MDrixyCY+0HBDgevdKAhHmGwu5CnxV8MsG0EC//T4udxHv/3+AUOVjP/vdEoJgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xu2Va2saQRSGM59Ki0REUVTUrLLKusHL4pWsWyUaWyOtrZfaFIsU+v9/wqnvkZmsm0A3qVY/eOBlxl1nzrPvnJm5uDjHQUKQ98kRQ1A2FaETghJUv84wUOXq6hSgBI0cU0F53x4pBPXbBjl1/VSgBC1HNXYKYCcFNb2r0rhXOjaUIMOI0e+FTQ/jxjGhkHCrXjdP87lF6y+tZ6Ck9h7uyQXFwgFKRIPchoPvuIUA5IYq55OUTe79rBKkp6OUjocUBNrnhOSoJ0BN+mWGQsHv0SnBDhhajMxcgr8YQh/PACkFILyzKzl2yF3ogLoMvP1XqC0MkkmYVkkjy0hx3w0j1avnadguKnmhhnbxtW5t68QN8/C+obTs1FhYIsjUIlRIh9VvjNMTm2WOhBQUlhBQI9vk9y+AEmw/Bq26TQUwv7FY0/bmi+sl6pXySg0jzirnogwHKDx3TJ36ZYP7EgqaDywG8nkHbotYwkiISbPMIEhiGzlqFTRWt5Kmu7pG43aOJrZOUyfP4yH8D0AAgFPzDxYL/fWnll+XhFoityOjmqlA6nqGrGyKBRiAfL8t0qJbYCDASSgIQKv7pjoWoNXnpl+XhFoiNwwgJEhZ2+y0dIL1sZllCABBEgig2IlSAMLhCRC0v2Y3LB8uCQaBsDxwRAKglX0tfkl6MsTFDIgfA1MBYSPIo0FK7i5A4KpZL4Y0u+/4cUmoOoEjSJ6NRdTEbhAUsZWPUTDwhn4OrxlIwrRamtJjUsEwq9lAAeL5X4AQu1eFTJKKBhgEOwkgbTNBnVKSId0Hp1VNkePoNBxuHPta9biwC+IDZhu7A7aTSBhsceyuWyvDtQI4CQP1+wYtv9X40n0K9Di3O98rQnBiOOKGgdB3A3kd3hOAN8QODHYX5E3uXY4Dwcjwl/yAAE/Dm/i/Jj/HOV4QfwCL22YskjBBFgAAAABJRU5ErkJggg==",
     "wiki_name": "Mulch (One ingredient)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mulch#One_ingredient",
     "equipment": null,

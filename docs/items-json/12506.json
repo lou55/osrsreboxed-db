@@ -1,7 +1,7 @@
 {
     "id": 12506,
     "name": "Armadyl bracers",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "Armadyl blessed dragonhide vambraces.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xu2V30uTYRTHfa6ke+neiy6EoG7yxoQgRIQwo8zESLMoM7LMTMwfmZliZpZmVqIMMxURh9mSMRE1U2TMbMlkaKYi9Wd843vGs71asbXl1sUOHJ5376/nc77ne97FxEQjGmENBV9GPBQy09NxJCkJ+xMSIg2mUH2zGCUFBZJ5WVk4lpKCPbGxkYJSaKuvx8OqKtTcKkHljesCePV8Hs5kZERCLYXRgX50tz5Fe0MDHt2tRl1ZGerLy9FQUYHSwkJczMnZDTCjaY0vVhjp64Pt7QjGhoe3gT2+V4Mn92vR+qBO1CPcr88HFQr52dk4dzoTx1NTcTgxcQecgtVsxrTNhsmx9xjo6oKprQ0djY0Cx/VVUxM6m5ultVQvBDCFO0VFKL58CVdycyXPnjopxj108AD2xsXJi6nSlNUK+8wHzE1OCtxgd7eAdbW0iHI87ml/ht6O517YIMCUPFh7u9QLxmnSYEeTk7EvPl5UoZfmp6fgdDiwMDfnhSMYIfpevkB/Z6fcy3NDJpOc47W/AFNSIZMmNU4SPcFpOpGWJmpxE8vgICYsFqy4XHAtLgrcp/l5OU8A5vDrHpjf9IqqLILXuDIDgFIit66EJiWYniIqR0D6i2pxM5qb7dtcW8NXt1vglp1OgdObc7UMDcm9q8vLAkJVWbgfKCV91xJzZQuNE8RjmvXahXxRi9VrkxPi28qKNzUcr3MyeewDCKhtnpYRRldHqXnOOD1c+Zs+o1r65TPj41I5ldJJRXQGALAzPKamESkxq2J1lJrKGSdHG5et3Fk1fWQEoVJULCggtoabUh1+Z+gPrjQvQY1TQw9RQd9I+97z+wwqPG3jZuPvRmW0ZycmpB1MDWE0K2GpXgib+gslSrBdhGELHLMf5VvDZAu1UX9sbcmEsTVUbVehqACnh0bV35nPdrsk2+jzhcL3zQ25j7C7CsWNudHSwoKY0730RcZ3+wh77g3RK4GG8v5FEGZjdRVb6+vSqjBs/qdQ0iYChVEJf/FfQEQjGtH4Z/ETQQeElhwfzOUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xu2V30uTYRTHfa6ke+laL7oQgrzJGxOCEBHCjDITI82izMgyMzF/ZGaKmVkusxoOMVMRUcyWiGOomUNEsyUO0UxF6s/4xveMZ3tdwubPFezA4Xn3/jqf53u+511YWChCsa+h4M2gh0JqcjKOx8XhcHR0sMEUyu/koyAnRzIrLQ0nExJwIDw8WFAKpupqPCkrQ8XdApTeviWANy5l4XxKSjDUUhjo6oSl8QWaamrw9EE5qoqKUF1cjJqSEhTm5uJKRsZegBlNa3yxQn9HB4Y/9GOwt3cD2LOHFXj+qBKNj6tEPcL9/fy2QiE7PR0Xz6XiVGIijsXG+sApDPX1YWx4GCODn9DV0oJWkwnNtbUCx/VtXR3M9fXSWqq3AzCF+3l5yL92FdczMyUvnD0jxj0acwQHIyLkxVRpdGgIU+Of4RgZEbhui0XAWhoaRDketzW9RHvzKw/sNsCUPFh5r9ADxmnSYCfi43EoKkpUoZcmx0bhnJ7GjMPhgSMYITrevEan2Sz38lxPa6uc47UtgCnZIZMmNU4SPcFpOp2UJGqxiLW7G3arFYvz85ifnRW4r5OTcp4AzN53beh73y6qchO8xpUZAJQSufVOaFKC6SmicgSkv6gWi9HcbN/a8jJ+LCwInMvpFDhdnKu1p0fuXXK5BISqcuN+oJT0XUvMlS00ThCPadabl7NFLe5em5wQPxcXPanheJ2TyWPWiImM9LSNx+7fm4a7ZYTRu6PUPGecHq78TZ9RLf3ycZtNdk6ldFIRnb4AfmAYblPTiJSYu+LuKDWVM06ONi5b6btr+sgIQqWomPe+gENJa1iU6vA7Q39wpXkJapwaeogKekfavWsN5psBKLJZuNvGYraPAzLaE3a7tIOpIYxmJSzV01AMXdw3jZW2EEqUYLsIwxZMT3yRbw2TLdRG/b2+LhPG1lA1I9QuhxIFOD00qv7OfJuakmQbtS+Yv9ZW5T7C7ikUC7PQ3MyMmHNh7ruMr3GEfX2zw/b4C+X5iyDM6tIS1ldWpFW6uL5zF7wSaChpE4H2UQl/sREiyDDu+CcgQhGK/zX+APO4tVQuix7uAAAAAElFTkSuQmCC",
     "wiki_name": "Armadyl bracers",
     "wiki_url": "https://oldschool.runescape.wiki/w/Armadyl_bracers",
     "equipment": {

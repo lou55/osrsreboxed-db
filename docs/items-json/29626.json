@@ -1,7 +1,7 @@
 {
     "id": 29626,
     "name": "Armageddon weapon scroll",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-08-07",
     "duplicate": true,
     "examine": "Take this to Nigel to give the Armadyl Godsword, Volatile Nightmare Staff, Dark Bow or Voidwaker a cosmetic theme from Deadman: Armageddon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xu2X30tUQRTH3YeQIAxJlIRekpTVxbUoIjB6jqIMw34YxvZrKSKKfogsRZYs9oMtU4uSNTbNzEoJLMOl0Jfe+4tOfOd2LufOjHXn7ho9NPBlZs/MvfPZc2bO2a2o+PdbjOyyza96i9GDTCfd6zuklO3toIFrB5UYYnIoRYXcSRp/2GOB0r9EyeAeEEMBiKXD5O+foGfZ44GN8RlzuoJQTpAxyt08bEChBwiLgUYHjtLQ7S61Fr0NCOsl9NeZDC1OXY0GxUAYs3cY6MVgtwLitSsB4bnidB8tzfbT8uxdBeQEg5fyt2YgbGoDGr5zxAfC2AY0NXwqAIRxSKBYIAzYCEDS3S5ioJmnZ8sHBNv6qiratrHOEOwbqqsDtp5kQtnbEwkf6sPzcz4Q5ATE5wJA+PzpyWO6vHMHdTRtsQpAXc1N1N3aQsdampUAVMyPUfrAPvWOubF0EOjNDXcgjBdGR2hpokCZ3bvUhlLwRKqtlVLr1tCZrUk1hg3Sw/Yxf750IPYQVFtTY3hmJTEECxfgc+GiD/Tt/a2wMGhBIHmOEJr9jQ2GdM/ZgBZeXYoKhOZ5BVeYgXClYdtUX28A6LIBfZm8EhXIy0HwkA6El2NenZtfetl7XUnadCDkLgnkkBS9K28D4rAl4nEDhgXvwY41DAXvlBWIofiASyCcKR0KtlUDkl5CzyFjKGwuoRgU8wwFoOmR0z4QsnRIGDTvhtmAuD7pXpKekjaED2vhHZQN6aFIQPo5gh1AKJJY96fbJoHQlw2IoWCH+8MCQfAc1q6trFS9zNQhoTwgW9gYCGtQp5J1tYZQw/Y2bLYKz+BZ5CCHPBQEkmGDDfPzj3I0N5j1szZKRWe8URVXLqy6UHbYQ85AuGU2IMwtv56gH8VF+v7urdoEYeECi+Ka3t5G/XvaDeFZPkORgfSwwe69xF3z4xd8IOQg5zxkCxvsfKgx5p+3ELI4J0++jbwWOahkIFvYJBDm5L8SCYR1XL/KAIRmutwmCSOlAyEpSiCWA1DYZkKyuH7BO38R6HfNhDT1v5XWfgKxlcIyE9WKHAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNUlEQVR4Xs2X7UtUURDGdz+EBGFIoiQEkqSsLu4WRQRGn6Mow7AXw7C3pYgoehFZiixZ7IUtU4uSNTbNzEoJLMOl0C997y+aeM5trnPnnq29u2s48HDPzjl3z29nzpnRUGjtW5jsss2vuoXpUbKDHvQdMUr1ttPAjcNGDDE51EPZ9Gkaf9xtgdI/omRwB4ihAMTSMJmHp+hF6qRnY3zGnJYXKhBkmNK3j/qg8AQIi4FGB47T0N1OsxZPGxDWS+jvM0lanLpeHBQDYczRYaBXg10GiNfmA8J7uek+Wprtp+XZ+wYIe8Tr64307sqcsPOvZiBsagMavnfMBcLYBjQ1fMYDhDED6d2VhT1pwEYAkuEOIgaaeX6+fEDwbayspB2ba32Cf1NVlcfXHYsaf1s06kJ9ennBBYICAfG5ABA+f3n2lK7u3kXtTdusAlBncxN1tbbQiZZmIwDlMmOUOHTAfMfcWMIL9O5WcCCMF0ZHaGkiS8m9e8yGUohET7yVejaso3PbY2YMH6TT9jlzsXQgjhBUU13ti0w+MQQLF+Br9rIL9OPjHRcmMJA8R0jNwcYGn3TkbEALb65YgfTuecyJCq4wA+FKw7elrs4HoGUD+jZ5rVggpwYhQhoIX455c27+6HXvTSPp00CoXRJIFkW9uzLnytuAOG3RSMQHw0L04McahkJ0ygrEUHzAJRDOlIaCb9WAZJTw5JQxFDaXUAyKeYYC0PTIWRcIVZphCgLCDbMBcX/SUZKRkj6kD2sRHbQNGaECowNbAdLnCH4AoUli3b9umwTCs2xADAU/wl8oEITIYe36igrzlJUan/XuFnOAbGljIKxBn4rV1viEHra/YatVeAfvogYFqENeIJk2+DA//yRNc4Mpt2qjVXREGk1z5caqhbbDEQoMhFtmA8Lc8tsJ+pVbpJ8f3ptNkBZusGiuiZ1x6t/X5hPe5TNUNJBOG/xO3oNrfvySC4QaFLgO2dIGPx9qjPnPWwhVnIsn30ZeixpUMpAtbRIIc/K/EgmEddy/ygAE84fcJgkjpYFQFCUQKwBQKMRl/W/SgFLcvxCdsgAVahqyEFjWytr/ZBrSJv3Omrbf+5kMzUKO65wAAAAASUVORK5CYII=",
     "wiki_name": "Armageddon weapon scroll",
     "wiki_url": "https://oldschool.runescape.wiki/w/Armageddon_weapon_scroll",
     "equipment": null,

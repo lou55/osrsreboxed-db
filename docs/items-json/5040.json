@@ -1,7 +1,7 @@
 {
     "id": 5040,
     "name": "Trousers",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": false,
     "examine": "A pair of long dwarven trousers... long for dwarves, of course.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB70lEQVR4Xu3Wv0vDUBAH8IRSQkJoKAkJTWiKgggiKILg4uDg4CI4CA4OgoOD4CA4OAgOgtBBEBwKBQdBKAhuTv5x57v3cvnRJNLlUhUfvCmFfLj73qWa9ruPDrPdRo4OG2EL1oIWrHiavEuuBgNH3dDWwLPUbQilQHkUggiFIEI1BvJ7Q/CCO3D9G3C9K+i6F+B0T6HjHIPdOQTb3gfL2m0CpEMQPgnQA/jB/RToTIBO5gvy/FsBui6AOs6RQB3MGeRdCtR5EWTvcYMQM8pAlKMcKMuRApnWDieqBvRNsH8ACHNUnDTT3OJCVYNqg90YqPdYDaoJtmFuzgEk2lYOtmqbYazzgXrROAPh2CcguSSnFiRViRn0XA0S1aobf8NY5QOF/Zck1MMMJC4i1U4qT1u7vcwNGpVA+Gy6StQ2ZtCrzFGhZQlIVklOHFaJ2oagRU7QJA02YVIQVq4QbpWjVjvmA0XxWxpswuDIU+CxcrQCaNqaB4mKUDuzcKvNjSDWllWB8MX5dsqFmWQJ28Y69lUgbI16YTKFuSpJEOenowQSlcC2ZKBJuhbwGWJNa7s5EFYBR5tAUfxeeI7jz/ifqAzCacLPA4H6gw8VbrHNCcT4V7YCVHihDvHCZ/KbsdxJGPgMzHLUi8t31uf/5w+fLyzLXzvFKB8LAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDElEQVR4Xu3Xv0vDUBAH8IRSQkJoKAkpTWlaBRFEsAiCi4ODg4vgIDg4CA4OgoPg4CA4CEIHQXAoFBwEoSC4OfnHne/ey+V3pIOXIvjgTS80H+6+99pq2t9eOsy3a1k6bAYN2Og0YM3T5F5xNRg4age2Bp6ldk0oBUqjEEQoBBEKnx0Nh9woHfzuGLzOPbj+LbjeNbTdS3DaZ9ByTsBuHYFtH4Bl7dUB0qETPAvQI/idhxzoXIBOFwvy/DsBusmAWs6xQB0uGORdCdRFFmTvc4MQM0lAlKMUKMmRApnWLuekVYB+CDaBmKo0DwhzlJ0009zmqlI5qDLYORBDlSJQ96kcVBFsw9xaAEi0rRhs1TbDGPGBur1pAsKxj0DyksxdkFQlZtBLOUhUq2r8DWOdDxT0X6NQjxOQ2IhUd1Jx2prNVW7QpADCs3yVqG3MoDeZo0zLIpCskpw4rBK1DUHLnKBZHGzCxCCsXCbcKkeNZsgH6oXvcbAJgyNPgcfK0RVA01Y/SFSE2pmEW93cCGJtWRkIX5xup7wwoyxh21jHvgyErcEzhXrNVEmCOL86CiBRCWxLAprF1wKeIda0duoDYRVwtAnUCz8y5zj+jL+JiiCcJvx6IFB/8KnCLW5zAjH+lC0BpV6IO1z6ip6ZyjsJA09gBhCu/F9ltfFl6oXFs+w5w6IPz+95z//Xb61vMJGXJOljBlEAAAAASUVORK5CYII=",
     "wiki_name": "Trousers (blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trousers_(blue)",
     "equipment": {

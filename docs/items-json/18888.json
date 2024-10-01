@@ -1,7 +1,7 @@
 {
     "id": 18888,
     "name": "Asgarnian ale(4)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "This keg contains 4 pints of Asgarnian Ale.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xu3W20tUURTHcc9DD4okojjoMEojY4wj4wU1pVEbVCYvmGLeELuY3axMulBZCRFY0UsP0u05ov7KVd89/Oo4Qz7t40O4YYMzHtif81trba2oOF7//wrs8H1kq3jgrYcLdmN73q7embXLt2dsdWPSVtbP28LauM2vjh4FrHgAgAe7a/b6w6bNLI64w5euFBwI2Nefu7a3f889s3ZzKipYYM/fXHMJdJ9JWy7fZXPLeRufHrCpi0PuZ6G2dlZcesABvf103332jAoc5uP3HXu2t+4OP1foLQMB4LnPP164zbPgO3vb/IMoBwey9789tUevLrl+IQlSefnuur3/su0gpAJ2eKzHegfb7XSmxT9oY2vObQDa4NTMJASQvipcGLTRiX4bHMlaR3erNScb/YM2Hy+6XtB0CafkQFE6Skg6KlUyFbeGxlqfoGK5ANx9suxgwgkGiISUDv2lUgHynFDgDuRgAGxgwvE9ZWP8lQ6lYhopV3s26WCpdMIHKnBvTSlISSBtvlOpJuZyrm9oZMoFipSAgYm3xPyBeHsaljTUR2z1ESieAUVCwCgbMFLyCuLtBeJgIOohgTRtKhswMCQkUGO83h8IDE0LiIPD466/XSQpDAkJRA/R2N5ASqcUpLuH32vcwWjK1NgCeRr9wB1QCmLrIgQTToceKgUx9l5BHMSBAoVLJZDSCYO4GBl5jyBW8AekKyBcnvBUhUc+XC5P/aMV2Mhk5gBKJfoXqD/XcSCduvoa/6D8dLYMpJTCIF2IGvdYk1eMVuBA7MNA4RsaUCJZb3Wx6mhB47OdboenqhRE/yTTMWtqrrXqk5VRgFhFlEBsSjlUaLezY2kbyLdZ33DKenKtlulJOFBE5dIqB/G5FNQ1cMrSnXFrSTVYTV1VlCBWUAZSSoBIJ9v3+1+NTJMrV2XViahBrL8ogUhI6ahcRUjkGC0ddtg+XtGuX/xxGx0sr+J8AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xu3X60vTURgHcH8veqFIIhuObczZZMY2mXNM22i6hsryginmDVkXs5uVSRcqKyECK3rTC+n2OqL+yqe+z49vHn9DX53foOjAATd/cj77Ps9z1JaW/+vfX44cv5u23ANvPVyUG9sLcvXOnFy+PStrG1Oyun5eFusTsrA21gyYewAAD3br8vrDpswuVfTw5Ss1BQH29eeu7O3f02fqN6f9gjny/M01TWDwTErK1ZzMr1RlYqYo0xdH9GuitnZWNT3AAXr76b6+toxyFPPx+44821vXw8/VCg0gAPDc5x8vdONZ4AcKfQrK9fTYQjlaDhyIvf/tqTx6dUn7BUkglZfvrsv7L9sKQSrAjo7npVBKy+lM3D5oY2teNwDcwLGZkRCA6KvahZKMTQ5LqZKV/sFe6U6E7YM2Hy9pL3C6iGNyQKF0KCHSYakSyah0hTttgtxyAXD3yYrCiCMMICTEdNBfLBVAlhNy9EAcDAA2YMThfZQN4890UCpMI8qVziYUlkzFbEyao58apUBKBHHjPZZqcr6sfYNGRrmAQkqAARONh2yk5ILw6dGwSIN9hM0+AgrPAIWEAEPZAENKVkH49AThYEDYQwRx2lg2wIBBQgSFo0F7IGDQtADhYHPc+bsLSRKDhAhCD6GxrYGYjhfEuwff57gDwyljYxNkafQdPcALwuZFCIyZDnrIC8LYWwXhIBxIkFkqgpiOCcLFiJG3CMJy/oB4BZjlMafKHHmzXGb/WAFVpjKHUCzRUaDhcv+hdALBDlvpYLmg6ky2AcSUTBAvRI57KHKAsQTCchSEfRzIvKEBiiWCEgi120yH6wA0MTeg25wqLwj9k0iFJNLdKe0nW/0AYbkogrBRypFaWs6Op6RY7ZOh0aTky72SyccU5FO5uBpBeO0F5YqnJDUQlXiySzoCbX6lw+U0gJgSQEgnO/T7T41MRMvV2nbCbxDWAYogJMR0WC4852O5vMv7X2rjJqQJGHeZBx61vT/zV69fYdFQKOfmNm4AAAAASUVORK5CYII=",
     "wiki_name": "Asgarnian ale (keg) (4 pints)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Asgarnian_ale_(keg)#4_pints",
     "equipment": null,

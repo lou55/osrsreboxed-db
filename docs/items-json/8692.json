@@ -1,7 +1,7 @@
 {
     "id": 8692,
     "name": "Steel heraldic helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "The colours represent Guthix.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu3VP0sDMRQA8IQQwnWoSxcLIg4dLEKlCB0s0qVgESoIBYtUKChSQVAUcXAQcVJE8BO4C37FZ95Legmh4JRExAePm4778f4dY387OLjMGgahzh5A7k1AbHZzwjgUt+8Gc3gBcndsQGtNYLV6DpQGXb8RSB3fgOj0HSg9BkO36vIF1Mm9qc5G5xeAzp9MdXaGDrTSyAjC6uxPQWz1XMuWVzOCpncg+yMQ6+2ySpkGGoODHM1AbA9obqhSWKGlWg6QO4SV50+zbUdX3h1KGqZVCKi8fplbpAebNq3RSgmyV9lisF14nYvHD1p/mp90A81BDCWIgc6+zq7OjgDREsCagtafVarpMHKkQB5Ig0JQz4LaGtQQdK0T3R+NmWjMWBGqrBKCsEoWxOosxUBrzKmGTJVDYZX8tnkgVmUxQbYymAhC2KwgVNk2H1SzoDgoTh8ulGkTJVYnbBuCcKhXWewKmSEmkG4RPgnhb5kdatywbCB6DuzT2zBKRGUFBWtPGRXkzdBCWHAYS1RWUDsAxasQhkH9BCJMGhCG+ZkuhM1XPi0Iwx5IvND+TzVsV9y194ObS+2DFmFsNcO3IwV3/zD/IJZblQzix/zDYf5HuvgG94ed/W7Ekx0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/ElEQVR4Xt3XT0sCQRQA8FmGYVkPdvGSENrBQxIoEnhIwouQBAaBkISBUIRBUBTRoUNEpyICP0H3oK/4mvdm3JnGhQ66M9CDh4dw/fH+LTH2vyMCk0FDIeKLJxAHY+DNTkhYBMn9TGGOr0DsjxRosw6sVA6BkqDbDwLFp3fA2z0Dkn9rVquU7rdyDNmq6zeIzx5VdbbbCyD3GzmHBF2+qOrsDQxooxYQhNU5nADf6ZqWrVcCgiYPIHpD4FuttErzgQ4CEsMp8N0+zQ1VCiu0VgoBMoew8Pqltu3kJr1DnjdMtQoBhfdvdYvkYNOm1Ro+q6OvssZgu/A6J8+ftP40P/4GOgI+EMD7MnsyOzLbHHiDA6tzWn9WKPpqFw5vDOJIKBSCuhrUkqAap2vt6f5IzFhiRjGh0iohCKukQazMfg20+5QVhcScS8gkNiiskt02C8SKLE+QrgwmghA2TQiVts0GlTRIo9ynLRkR/XASqzZRYnXctiEIh7rCFiq04iqpISaQbBF+EsLeMj3UuGFZIPeJS0Y2iD77+tPaMEpEBQU5a0+ZK8iaoUyYcxhTVFBQywHlVyEMhfoLRBg/IAz1Ms2EzVfeLwhDH0i80PZL1W1XvmtvR6QutQ3Kwuhq5nAUsyIy7zD7IOqtsiEeMPOw/3c3GQBiwv7xoBBf8QMoVNdVFb5t9AAAAABJRU5ErkJggg==",
     "wiki_name": "Steel heraldic helm (Guthix)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Guthix)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 27523,
     "name": "Wood carving",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-11-30",
     "duplicate": false,
     "examine": "A wood carving found in a ruin south east of Mount Quidamortem.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABt0lEQVR4Xu2U70vCUBSG3YeIJAhRFBWVOZzoxB+jmZKGIhVWUCEVFQRBEARB//+XU++VY3d3rg0MJdoLD95NmM/ec6+xWJQoUf53NPJn7dHo7aZDL9cter5s0uPUovvTOs0mJl2NKpuQ0+j9zqbXWVtIPZ03FlK3x1Uhxnjb82OlaPTx4AgpuSlZjIGgjCwbTjww83Ygwg2pMljztSyoyslg1Cc9nYbtPLXMNFUKCcom42GkvoUcq+RB/aFlYstASxdDQ0j1m7mF1MpCjDoSoMqqoKXpYZkm3dJCKpQQ7xu8vXy6ZILkZFgE7Yz2i2JsEOpa2SAhTewbPup4K64aDwRYA7Ux8JM0wyJ2LUPxna1goUHboF5TF+ABdq0g4PkDlpMFVRkZHhOagQxGZZVTYYQQjc7GFo37Jh0dVMQnYEGW9BNUwfeQwajQDpqBTMgNzVH/K+b0OjoNHEOIqoJ+qHsG7VRLybBHPihuQadVckkuA1KWkaOannE1tLe7/RtCatyCdqMgJFkUYI37AFLlfIqK2UTY/bNqvGOGSKueJ8v8asnIUEVPC9Yg4xev5AZlokSJEuVv5xM5exJHzWhC8QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABy0lEQVR4Xu3U7UvCUBQGcPchIglCFEXFlzk20YlOSVPSUKTCCiqkooIgCIIg6P//cuq5cux6dS9S5If2wINTQX+ec2ckEiZMmP8djdz759Ho7aZJL9cNer6s0+PEpvvTKk3HFl0NzU3gNHq/a9Hr1BGop/PaHHV7XBYw7vL03PqjaPTx0BYoeVIyjAugXBkbDO6b2XQA4QmpGFzzcxmo4uRi1SddnQZOlhpWksxcjNLxaBDUN6htF5aqftEq2KpiShcDQ6B69cwche9zikUvlDeIq64EVbFqMaXJYYnGncIcFQjE5wa/Xr675Prh5DIE0xnu58XaAOrYaT+QJs4N3+r4VTxqfCCKa1SdGOqF5jKkVUlRdGfLH9R3DOrWdVF8QKuSE+X9o4yTgSpGLq8JkwEGq7JLiSAgRKOzkU2jnkVHB6Z4RBnISDegWrwPDFaF6WAywMgH2geEqP8Vs3abOvXbhoCqQLeqZwbTKRfi81s+AGYWlstVge1GYQG5qkDZRoYqemphQnu72+uB3OIFbNVyAslQFNd4HQWqlE1QPh0Len7WjxeQkY1qlmzra0pGikw9KcqYXwep8Vsz908wblGRG8WECRMmzBr5BLqHRHRCJM8WAAAAAElFTkSuQmCC",
     "wiki_name": "Wood carving (Mount Quidamortem 1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wood_carving#Mount_Quidamortem_1",
     "equipment": null,

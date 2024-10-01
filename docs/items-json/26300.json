@@ -1,7 +1,7 @@
 {
     "id": 26300,
     "name": "Secret santa present",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-12-16",
     "duplicate": false,
     "examine": "A present that needs to be delivered.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xu2W30sUURTHHWQYZlkU2djFDVd6CYqgCOpFKQOlNsRSXNLYWi1rWSyjX1T0AzFLKiqzokKSkCTB8KEQgiAIgh6kh/6i03zP9czOXHdzNtw2aA98QYc5537u95x7Z2tqqvF/hEF+VTQMCm1OssJbuii8tbuSYAaFt6VYddv7lHakqW7nANXvOvk3oZQDsvDVKxbduK40esui8TGLUr0mq8xuqeJdnbWs5IFa6mivpVzWpEsXLVf9fSZLoPBeGcAMLgyQ1hYlwEDH0iadGjLZGYD0dJv8TKDwP3Lb9nrB/hhOJQuM7H5wwL8oYCbuqlahdWgj3Dp/zqKzwwoql8n4VCKcerGhZYTqd2d5XjCwMi8AwLzI7Dx/atODexa9nbX576lJmx4/VM8AirZO3h6jqTvjriL7blJD6wWuvwaUQbHOJxRN3qcNHSoxsucyCwtgsVcv1MIiuAFICCAivCuK98/TxqMLSulFih58RJG2a2vBIAxOauyZptihZ5wY3T/BkPEjc74FIcwPHIDQHgit8sIIOECgeGqW6wUG4t04iU2ZJU4GHJ7JAtIOSJxBa/D89bRNC/OhVTBwVdTYO6OAHPeDATkQbO3xD9Q0+IkSQ1/cwjoUQN7N2bT4PkRLH5WKwQh8yUBwRHoNlxInPtObGdtVocHFItgI2qrDCIgL5NTnGQoKxPMCl1aA4JIXyCt3UItIh4Fih1+WBoQT5rq00jYdRJQ4/ZWac99p08hPNbRODuYNTmFTuB50MRBOcftoMCAcd5wwFBWXMKw6jA/ozA8/EA6D00YdhoFweh2gADAIg62EpSjoBSoE5QPS3EG+fHR1oIAwEuqmhrV8BThtw3AWBHJOIICah5dXuYO2y23u/UVQIow38t8bAdKhGCj7LQ/kcUcHytdbl1DFdCgvkK9duOkdh/H9W2cQPfJgAiRzpLcLQGUE0UOB4dJ0gTztKrMrvwtDATltE6AKgXjDcIH+ARiJirWoGtUoGr8A8jWRa6cCphAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu2W70tTYRTHvci4bAxFFhsunPYmKIIkqDdKGSi1EEtxpLGaljWGZfSLin4gZklFZVZUSBKSJBi+KIQgCIKgF9GL/qLT/Z5n5+65j1tuwrYgD3xBL/ec5/N8z3meu5qajfg/wiKvqhoWBbbGWcFtPRTc3ltNMIuCOxKsup0DSq1Jqts1RPW7T1USSjkgC1+7atPNG0rjt22anLAp0e9jldktVbynu5YVP1hLXZ21lEn76PIl29XggI8lUHivDGAWFwZIe5sSYKDjSR+dHvGxMwDp6/XxM4HC/8jt2KeDrRtOJQuM7H54yLsoYKbuqVahdWgj3Lpw3qZzowoqk0p5VCKcerGhbYzq96R5XjCwMi8AwLzI7Lx45qeH9216N+/nv2em/fTkkXoGULR1+s4EzdyddBXaf4sa2i9y/TWgLIp0P6Vw/AFt6lKJob1XWFgAi71+qRYWwQ1AQgAR4V1RdHCRNh9bUkouU/jQYwp1XGeY1pYWlkmSDYuTGvtmKXL4OSeGD0wxZPTogmdBCPMDByC0B0KrdBgBBwgUTcxzPR3IpNDCUrtxEptSK5wMODyTBaQdkDiD1uD5m1k/LS0GVsHAVVFj/5wCctwvDsiBYGtPfKSm4c8UG/nqFjahAPJ+wU/LHwK08kmpEIzAlwwER6TXcCl28gu9nfO7yje4WAQbQVtNGAFxgZz6PEPFAvG8wKUsEFzSgXS5g1pAJgwUOfKqNCCcMNelbNtMEFHszDdqzvygLWO/1dA6OZg3OIVN4XowxUA4xZ3jxQHhuOOEoai4hGE1YTxAZ395gXAYnDaaMAyE0+sAFXHkERZbCUtRUAfKB+UBMtxBvnx0TaAiYSTUTQ1r+Qpw2obhzAvknEAANY/+XOUO2i63uf6LoEQYFerl3PdGgEwoBkp/zwFp7phAUqtkGD1yyaqYCaUDedqFm95xGN8/E2TdMGaYYAIkc2S2C0BlATFDB8Ol6QJp7TJdMWuUJQSMgZy2CVBFXPl7WC5QxV0pHFVo0VrxT8FsRDXiD+oFyVTA95tVAAAAAElFTkSuQmCC",
     "wiki_name": "Secret santa present (2021 Christmas event) (Blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Secret_santa_present_(2021_Christmas_event)#Blue",
     "equipment": null,

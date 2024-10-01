@@ -1,7 +1,7 @@
 {
     "id": 24993,
     "name": "Incantation",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-10-21",
     "duplicate": false,
     "examine": "A rare incantation for a spell to swap heads with vegetables.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOUlEQVR4Xu2WwQrCMBBE21Px4skvVBTRq4iIiCdFEBH84MpY1mw2aZusbUXIwGBJZfLY3bTNsqSkpDblpetBZW9+2c7K625e3g/Lt2/7xRBQNgA3YAAB45rWe4AyELRhjBVAsu+2qQW8FVQFn3EP/3scV+XztI4FMr2nIIQgjAPITZtMOfg9b6bxQBxEA+DzFxWCqtZQUAiQnBOfvzxp+adNMrjOkyxz1qQBrwCq5ggBoUBjBlMHRmOgAILskyXDm9wERNdKKKhbIHuwo6FckFFROGtkahuAmqCUlWqHIQA+PzGOHHDzRJZBWlMef5REAdGx91Ur1BwCeZQJGMWLthq82Cr5INxhVg01FAbEIbg7AJCyAyWIzx0DcNlvflh+hJk56A1Cyj5tADCfEIMA+CQr8BOIpKT/1wtZBJ/qlvyuFAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWklEQVR4Xu2WzUoDMRSFp6vSjSsfoI/gM1UqoluRUkRcVQQRwQceOQ3H3Nz8TG7aqZscOHRIOydfc28mMwxdXV1TWoyxL6pw8vfn2/Fjtx2/Xu6P/tzfXQIqBJAGDCBgXHN8BigPwQktxn0367UFStc9NEsgS8FVSBnf4Xffrw/jz9ujFcjXnkEIQZgE0JOWzBx8Hp42diAJ0gKQ8gkrBLnSMKgGSPdJynKnGYGgxV+ZdHDO18MQjWkDvgHI9RECaoGuBEwOjG3QAASFO0uHl1wC4rXLNcr9i/MCycZugIpBVstlNEazbAAqQTWu1DQMAWT/WGxscP9E1kGtZp58lJiAuO1Tq1VrCYE8ZgKGB20lEOTPLj1RySmIuJmdAWMAguqAJIR0DkBazzgh+/PozABS4ckP65cw/8KVh9CpJyrcbQDgK0QOYAYIrXAFUhD6jtmlAf4FoqvLqF/yPNqxIV43vgAAAABJRU5ErkJggg==",
     "wiki_name": "Incantation (2020 Halloween event)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Incantation_(2020_Halloween_event)",
     "equipment": null,

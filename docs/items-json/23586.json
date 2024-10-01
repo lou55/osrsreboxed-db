@@ -1,7 +1,7 @@
 {
     "id": 23586,
     "name": "Stamina potion(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-11",
     "duplicate": true,
     "examine": "3 doses of stamina potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xu3W/UsUQRgHcO9PCCp6szKTTEs9knytQ8PUs9TDl+wuMw0TLc3Uu2tPEzMzLZHEXihRsMREygiioijqL3viO8uzzM7u2e3dGf3QwMPu7czufmaemdlLSfn3i4vsw65+y4uLHg030LTmEzEZrqeJoToRjFiZa6fl2TZamrlsg1I7kTBcBzEKIA4Vs/jwEj2f9JtejN+oU8OMcoR00eydRgsKR0A4GPR0ooXmxppFWxztQGgvo7+vD9PX1cH4UAzCOY8Og15OBQSI20YD4b5vaxr93LhLvzbuCZAjDB7KvWYQXqqC5F6j7fz4BVvQ6nyHCYTzGEEuUxqA4MmN3zIIbfvaj1DnxXQK+NLE72ig9WedyQPxKOGaCnr9uERES+0BA4Q0qqB3L64ZIIQjEM8LFYSe24EWpgqoqWa/kTo70PuFLjPoTShxEK4DhEA7v7/NCG+Nj8rPVFNxSZmoU0EfFruTC0IglTIoGAxRX18/dXX1UGVVLZWUllP2sTwLCKP5afmGAfrxdjRWDIoZJKPwcAZxysK3NRoZGaHcvPyoKUPbz6/64gWh6A/GBI0GQn1v703StAhFIsNUUHDKuAcjqYK+rNyKF6TvQRihP4EwOghN0+i0p8JIlwpCexnkYFPUH2YHQqiggYFBGhoKUigUpmpvPRUWeSwgjE5SQYxC4AXYcRn0oC1PRKQ5m/rrMingOUiV7t2ibktA8ijhyCAZI4Nay9LIm7/HAlp7ctUAYZeOEYOirxA7EH8OVAxitOU4DfqO0pWKQ3T+5F7yZO8wUBgdfDbkEYoLpM4jXsqbgTrOplNDcSp5T+wS7Thd+GwkDcQoXFcx0+1uEQAFG7Kos+owNZWminlUlLldtAcIu7QMcoDSQXZpk0EM4Rjz66Bub4aY2JhHpVl62jDnPi71GCDsQQ72ITNIThuDVAyDwo1ZdP1chpjYdYX7qCxnJ7nTt4l7EgJhlW0Gut+aa0rZTIebxgM5AqQu/aSMEIPUtOE6f78QQDAORyx9YLieJzSWvAzCHuR4H7JLG4PQY5zzi9Xg1chtkwKyS5sMQp38twTnvJvzZwOjkwQQirXXdiFj5FBB2BRlEIcDUKzFiuSQ589fBG1WrEhr/C+Jld+APizcVH2iWgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Stamina potion (Last Man Standing) (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stamina_potion_(Last_Man_Standing)#3_dose",
     "equipment": null,

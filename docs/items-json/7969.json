@@ -1,7 +1,7 @@
 {
     "id": 7969,
     "name": "Pulley beam",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-22",
     "duplicate": false,
     "examine": "A beam with a pulley attached.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLUlEQVR4Xu3Vb0/aUBQGcO532LslmrlMEzXOLQZJpApBULBhILWpYpEp+HcyF7ewGWM0ZFlM/M6PnktueykKvYrtXnCSk/ICml+e57ZEIsMZzqsMQ/eGNgy5xSmUMp9gf5nHobWI75VUmDAGPTkDKzeHajGG460lVNam+ZazU2HAGArLH7GlR1E34zjdTnSAaDdXJoOqs13Xxupnpy4ZJFAEMtMTKKXG+b4izq1r11joCxKoQuIDX117P2icW1c/kJySDKLNLowhE3s3CBxz6hIgGeM9R3JtXpBApaKjfDtxvoBuXb1AfmqTQQKVmBvhq82+5esDxfi7RwXkpzY5JQHygaFRAz2nNpHSwEEvrc0niKZ94JLaLOLz0zC0N10QL6hfSo/VpgTSMzFY60lkl6MOrLaTg22lu0BPpdSrNgUMDYOR12CbaRx9zeNgZw3n3zZwdlzCUS2Psin/ybInQb1qUwZROjU754Auzjdx+avMr7v2queGne8WP7UpgNrpVK0VjjnZK/DrzUUFt606Wn+qPKXeN+wEelNSBpWNFE/n7KDEQZTMv+s93DQrHETVKdww4gWq/fbhy5QOQZoNC4160cEI0NVvG0U9rnrj5w5zDjMlRNu6fED8tB0QbUAYGrcySokSovMjg+iJCxRkFpZ4bYQiEFVEtdGhvvu7D8tIBguip4xSEmeJDjWlREufA8SIcZ8GAtG7p/nD4lU1DothgOTxPq6hYobz/8498o/r5IRfjbAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTUlEQVR4Xu2V7U/TUBjFuf+D30wUNWoiRKchYwkrbBkbbCxzc6UpzI4Jm7wIE4NmSoiRLMaY+D8ffZ5x27s76Ivs5ctOctJ+6e2v5zz3dmZmqqlGIoFBT0wCheU5VHMv4bxexIG9jI/1zCTBBIrp57ALC2hUEjjaXkF9Y55dy89NAkygvPoC28U4WlYSJ29TfUDkrbVn46qzV9fm+iu3LhVIQhGQlX2KauYJe4RwXl275lIgkIQqpx6zi8ajYcN5dQUBqSmpQOT80kPkEg+GASfcuiSQCqPPkVqbDiShMvH77H64UIBeXX5AYWpTgSRUauEe24jdZYeAEnz2RAEKU5uakgSid8VmZ9k6haJoQP9Tm0xJAukEmsID3ba2kECk3sCljRiSi/MwjTsDIDpQUErX1RYJqJhLwH6TRn417oI1dwpw7OwA0E0p+dUWcn6kBMySAcfK4vBdCfs7Gzg73sTpURWHzRJqlvqTFTcC+dUWIR2S4HSaTsEFOj/bwsWXGl93nXXtC/vPljC1RQDqpdOw1xjmw16Zr5fndfzuttD91uCU9AUl3HWAekqRgWpmhtM53a8yECXz68ceLjt1BqLqghb0A5TP+j2vSHA6BNJp22i3Ki6MBPr+1UGlmLxaPJxUwAgwJOEOMyVE7l78g/jsuEDkiF95G3mVUUqUEM2PCkQ7LqiyIUrAKq9wbQRFQFQR1UZD/efne9hmerxAtMsoJTlLNNSUEpnux1iXlLcbCIjOns4nm6tqH1TGmY6nIW3Z0UjfrhOFmepKfwE9nCmYLfsJFgAAAABJRU5ErkJggg==",
     "wiki_name": "Pulley beam",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pulley_beam",
     "equipment": null,

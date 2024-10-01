@@ -1,7 +1,7 @@
 {
     "id": 1241,
     "name": "Steel spear",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": false,
     "examine": "A steel tipped spear.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA/klEQVR4Xu2VuwrCUBAFc5GQzspe8AdEO6sUoqhYBDVEUInPIoWFYGHhv6+ee1mQfIB7QA+IoM0ws9Eo+q05qX9iNIA42a6W/r3+7ZfnpCpLOW82si8KDqDr6eih1lnGAXTPEg81TlNrICfP/A0zi+UwjKXVjOyBYOcyiqXbbtjDPBaJVJNYpj0CGKS6zROfyhgGC6lghyKVHjJFKtyNHrIxDBaAYIciFWBwyBSpkEkfc2MYjCwV7OBFkQo3o3aMYbBgB1AUqdROPjC343witWMMgwU7AKJIpXZ2KUEq/PDBDk0qtUORSu3Q/D2oHQIYLDxZ/Y55qs8BhAbmP78XnFLAf73+65sAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABEUlEQVR4XuWXuwrCQBBFs0hIZ2Vv8Ad8dFYpRFGxCGqIECU+ixQWgoWF/z56dxkT8gGZAS8EQS0O52wiet5/zVD9HaEBxNB+u7Gv9U8bnqEiz+maZXRMUws0CENJKEP3y9lC7eJYB9AzDizULIqkgQy9ky/M0qfTxKdO25MHgp3b1Kd+t/WDEQIy9FoHVMx9WgwVwCDVYxXYVMIwmEsFO9VU9W81tPIgq0iFc8MHWRgGc0CwoyIVYHCQVaRCJr7NhWEwZalgB5eKVDgzbEcYBnN2AKUiFdtJxuJ2jE3EdoRhMGcHQCpSsZ1DpCAVHnywoyYV21GRiu2o+XlgOwpgMHdnjXriqapzf4kV2CmnCkZiHyyDARHn9F9eAAAAAElFTkSuQmCC",
     "wiki_name": "Steel spear (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_spear#Unpoisoned",
     "equipment": {

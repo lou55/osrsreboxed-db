@@ -1,7 +1,7 @@
 {
     "id": 9798,
     "name": "Fishing cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by the best fishermen.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xt2W7UuTURjGPfRB/NKnIDIimKjkwqFIGmo2nHPN0TTflsu35cgXlqnJzNTIqaTJWFqZDTMzZvYiEYqEhRkSBNEHoRei/+Wq+5YjYmUzfI7QDYcHHp7t/LjPdV33iYjQrAQ2vtnGoj/fygYCew8e2uJvwi6BPdE67I6KCHMDgRhDBuJjYsL8/p9KIHafBPpTt1bfJ2baNvlmW0sgNW4XonV67I81bIATSEjLRaq1XAXI+hLIKq7nI4lLMSLZVIwkYyE/02xVMDmb1QPlua8g3e7ijtDxSCh9ulU1DJVAaesw7HU9OFZYyyAZBW5+HohPVg0kMD3/Dt7H31HU5Ielup27QkCGrHzumHKg0OxbNIW+oaLrHgo8/awn6hQdm9HmUA80PrOIhsmvcPWEUHZpBIWN15FT3rpzQMEnC3CPf0F190M42++ynrJPN+4c0M3QPCqCnxEVGcnL43GtrR0BCjyYg3P0E850jHF3pI4kkP5Umyoogea+ICwD7zE1t8zHRU4j+x8v9SDF7ECmpQgJ+RfVAbVcG2MgcpoUtO1cNwPR8WWYC9QCeQcncGLwAyZfLMHhvfWLjo6a7GqB2vwPGWji+Zs1mJoa59pKM9oQn3deHVDH0CNY/R85i9aDyEUdirXUqgPqGp5GXmAFY89ew5qbzYKm8UEwUkM6Y6U6IN/IU9iHVjgcCYAEnVvpZdsfsZTxLCOopIp+raEELvSOwtT9CnemF1jQ0mEERLOMbM+D9idQouOq9kCUQSbfIgPJQKR7EQGR7emmSBOfskhfdFl7IMqgnN4l3J56iZKWG8hv6IP1bCcD0SyjKwjNM0XhKNA6MA5z3zJ3SCb0eiCpoyxrCVu/0TeiJdRqKNJglfr5HRBdawmIrF/fGdAWiEKRgKR+NgOKMbvh9mrqNIH2QIiBSD9/A9KZXKhq8rHuNIJavZhJQW8GRG6jCDjprNMKRpZgIP/9WfSOzvAYIaFTPqXWB5FSM4zkqkEYynpwuKRLaxhZtEm46z+qHxLslEzMKBdsAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4XsWX/UtTYRTHvfSD+Es/BZERyYZKLlyKpKFmwznXHE3zbbl8W458YZmazEyNnEqajKWV2TAzZWYvEqFIWJghQRD9IPRC9L9865zLM3SZTeheDzxcuNxnz4fv+Z5znkVFKRYSwt/8x6Af38kBEvYfPrLDPRGHhH2xGuyNiYrwAAlafRYStVr+/lhcXAR7dhwS4g8IoL+pJb9PzraGviEYhYAoJKQn7EGsRoeD8fowOAlJGflIt1RuAlEQRoSEnNJGTklCmgGpxlKkGIr5mWGtgdHRqmSatgoJBa7ryLQ5WRFKj4DSZVrUSFN4SChvH4WtoQ8ni+sZJKvIxc9DianqqzO39AGepz9R0uKDubaTVSEgfU4hK6Y6UHDhPVqCP1DV8xBF7kH2EylFaTNY7eoDTc6voGn6O5x9QVRcHUNx8y3kVbbvHlDg2TJck99Q2zsDR+cD9lPuuebdA7oTXEJV4CtioqN5ud3O0NoVIP/jRTjGv+B81wSrI3wkgHRnOxgqfKcCIaF1IADz0EfMLq5xuqjSqPxPlbuRZrIj21yCpMIraqkkoe3mBANRpQlDWy/2MhClL8tUpC6QZ3gKp4c/YfrVKuyeu3/46ITRpi5Qh2+GgaZevgvB1NU5QivDYEViwSX1gLpGnsDi+8y9aCOIWKRQvLlePaCe0TkU+Ncx8eItLPm5bGgaHwQjPKQxVKsH5B17DtvIOjdHAiBD51d7uOyPmyt4lhFUStWg0qUv4XL/OIy9b3B/bpkNLSqMgGiWUdnzoP0NlGy/obRKcg8yelcYSDREuhcREJU93RRp4lMv0pVcUx6IelBe/yruzb5GWdttFDYNwHKhm4FoltEVhOaZSs1RQvvQJEwDa6yQ6NAbgYSPcixlXPrN3jElfSQ3RRqswj9bAdG1loCo9Bu7/UqqJDdFAhL+2Q5Ia3LB5ZErTTGgTn+Qgcg//wLSGJ2oafGy7xRKm3wxE4beDoiqjVrAGUdDSCHFVCIg36MF9I/P8xgho1N/Sm8MIK1uFKk1w9BX9OFoWY/SMCI2/1PdbqkAI4c4KJIVvjfS+AVVNtHxqFYvVgAAAABJRU5ErkJggg==",
     "wiki_name": "Fishing cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fishing_cape#Untrimmed",
     "equipment": {

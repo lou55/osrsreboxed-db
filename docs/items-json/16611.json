@@ -1,7 +1,7 @@
 {
     "id": 16611,
     "name": "Specimen jar",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": true,
     "examine": "A receptacle for specimens!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xu3UW08TQRQHcPYjGA0ECL74BYzEEJQIDwS8ABVpoa2lhZbeS6/0Ru83aKXUgrS2QAsoQkBjfNCAkeij8VP9nRmkFvSBB3d5kJOcZGd2k/nlnDPb0HAZ/yw4nC8FCQ63blw5VwqE4iDqaK3lk842SLqus6TPj2631FIwkLyrCcp7TZjsaYa2twWGvhaY77eyZ7pH39FvxjobhUBxNYDt4e90DrSxPfqOosQd1/Dg5lUhQDSOh9asVsNpMsHvdCI668eMxQLTxAQUYrHQg02Dg1WrZQgKCnm9cJnN0CuVkA0/Fh4j6u+HXa9nCJ/DjqDHA6fRgKmncowODQoJ4tBz9w40chkD0ApRUMDlZECtQgH58DA629uFQnGQDA6ww+n8eKxW1jIKomsdASklEkhFIiFAHPq6u09Vx2u31UB0bVSp2HvFyIgQrTtdnbMgWi3LlIZVaVIqZa1rbuT1X8TVqkOH+SyIzhLF0qtPZ4m2jucbx8Gm0/4BOhlqmnSf/g5qrSP/JB7niSOH+hB2+xHzBRHzh5EIRJEKxzEfSSAdnyN7Icw6PHAZp0n7dKRSKtZm3kATEzNIR1J4Fksjm8hgMZVFbi6HfCaP5YUXWEgsIBlMIOQKwGt1w6a3wjhp5Bek0bih1XlhMPhhNgcwbQ3Cbg/D6YzAYglAq/VAMe7A6Og0hoYM6OtT8QdSq93sQJ3eB5PJzwBWAnI4InDNRI9BBKtUXgDobHXc7hhbn4DGpFb+QfXteru+jI/bBawv5U6BKFalcglTofp2Hbwp4GCniMPdEspLi/B44qx9+fT8xYCO9l7iaL9EqlTE6vIx6HC3iC/7FewUsgw0MKjjGVR3u769r+Lru1V8eFVAZeU59qorBFjG5/1N5JNJIUA0OIRCRUSjJcQTZaRSqyy/f3qNH4fb2C7lMePOktuWglzuR2/vOJ8YGhwikTXE4hUkkxXMpTeQyWwim93CYm6LYc2WDLllMchksxCLXXyDaHCkQmuIxqqIx0kmqwS3gUCgTDA5MmeZX4iTFCTqD/xbXsZ/GD8BLJvXd7bcQqgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xu2XW08TQRzF2Y9gNBAgGBK/gJEYghLhgYAXoCLlVkvLrfeyvbeUUnqHVkotSCvXAooQ0BgfNGAk+mj8VMeZIV3b9YWH7vLCSU6yOzuZ+eX8/zPJVlVdq2LicDnLIg737ty4lGWC4qBorhf8oqUBA623menzs/t1guncu42NUkNxULXWQPOoBuPttdB11MHYWQfL43r2TMfoNzpnqKVajpQ4AcD29J+d3Q1sjH6jUMrmW3hy96Z8KVFbJibgNJvhdzoRnvXDbbXCPDYGtVIpNDaFkQGIigOv0zEIChT0+eCyWGDQaDDS91x+GEVXF+wGA4OYcdgx5/XCaTJi6qUKg709cpWKikP7wweYVI0wAJoQBQq4nAxQp1ZD1deHlqYmORqaisNATzfbnPaPl+dZySgQfdcTIM3AAIYVCjlS4tDZ1laWjs9uE4Dou0mrZd/V/f1C6cSrVFDl6YiBaFrWqUmW0vjwMCtdbbWkdxEnpEObWQxEe4nC0qNPe4mWrvTEiVergDjY9Lr/gIpNTU3H6XUglI7cScV+Eq9WAXFk0xnMe/yIzMwh4p9HLBBGYj6KxVAMyegCGQti1uGFyzRNyqcnSWlZmSVKicPYmBvJUAKvIkmkYyksJ9LILGSQTWWxuvQGS7ElxOdiCLoC8PEe2Aw8TOMmaYEmJz3Q6X0wGv2wWAKY5udgt8/D6QzBag1Ap/NCPerA4OA0enuN6OzUSgc0MeFhG+oNMzCb/QyAJ0AORwgud/gCiMBqNFcAJE7H44mw9yLQ0DAvPVBpuT5ur+LrQQ7bK5kyIAqr1brkSai0XKcfcjg9zOPsaB0bK8vweqOsfNnk4tUAnR+/xfnJOkkpj83VC6Czozx+nOzgMJdmQN09eomBSk7Xr88F/Py0iS/vcthZe43jwhoB3MD3kz1k43E5gKg4BIN5hMPriMY2kEhsMv/+9h5/zg5wsJ6F25Mmpy0BlcqPjo5RAUYyoFBoC5HoDuLxHSwkd5FK7SGd3sdyZp/BWqwpcsoiGBmZhVLpkjKdojiS0BbCkQKiUeJ4gcDtIhDYIDAZ0mcpBlG0hOmUSvyXWu4ihEwwFxJvKrZ4/rUqrb+VMgmzXdttaQAAAABJRU5ErkJggg==",
     "wiki_name": "Specimen jar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Specimen_jar",
     "equipment": null,

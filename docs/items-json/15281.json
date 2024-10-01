@@ -1,7 +1,7 @@
 {
     "id": 15281,
     "name": "Combat potion(4)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "4 doses of combat potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtElEQVR4Xt2X+2tSYRzG9/4dQVDQZZe2xjYz79Opm2Ze8jZnWWZbojvTnEo1ZVFBQURRUVSMqKCizVVbuf/uye8rrx3P9lt6DuyBBwXh+PH5Pu/3HAcGDocYuq2pGO7mh5G7chILwWPwO49oDcWwu2HDz/dW7gerYyhmBrWEYh2Yzddm3CuOQrp2SiugdmcE0LeXJtSlET4+DfrEEIsnkUikOul8embkfbqZPAGHYw4ut09NKIZMZmmfo9EEAoEoPN4gzBaHukD5vITl5RVIUgErK0XuSCQBvz8CeyuhqSmDukDlcgWVSpWb3pdKZVwKz/NRnTfYMHJmXE0gEsPmVgPN5l7LTfz+s4dgMAaL1alFqUkMudwyarVay3VuGpdt2q0FDInxMQkYAUT90QxofTfXBUQjc8x4oNMZ1YZikLbCqO9kOya44H0zXIVJ6BNDagIxXH03h7WdxS6gy29cCD+yYrZ8DsbUMCbDp9WCYig0YhxImIBSb2cRfTINT1UPy/UxtVJiSG94UP2R7gIiU2rzz2fgWzPAlh1XK6V2d+78ynDLgQh04ZUL/nUTZqQJNVJqpfPBi8p2qgMkN31GPQo9tMBdmlIjJYbs9wAfF1kJlPl4gfco/NjGi93nlNrp3GokOkBKMAEUf2qH97aeH/8+ptRK5+tFPi4lkPCNzz5e7IUXTvjqRp6SPTfej5TaJ4vKTEByy4GWvvg6xaYFKVKyLp7lKeniPYNi/Nevbif3AcnBKEFRbFqQ8pRM6dFeptR6GNsMcSBhJRCZCi96RAtSmZI+OYSJkHje/m+xLqCDwAha9IgWpDwl6tGo93ivYEjt2wWZTpqwHI46Ju8R7SOCoXEN2o/2EkaILtje1Eo4JRCNi5ajLib+NPYcRi7xBd2p0SsVm2BoKaoAcpD+we33IdRfo1LrTQW/d2QAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2ElEQVR4Xt2X/U9SURzGPX9HW7O2XnzJl6lEoICgqBABxptIUUYaQ68QAquU2aqtttZq1WrVXKu2aqFmWvjfPfE9d+d6ufpLhYetZ3sGG+zeD8/3OYdzW1r+DzHUu6liuDPfgczlk5gOHoN/9EizoRh21hzYemfnvr/UjVyqrZlQTIOpvBrC3VwXlKunOFBPa6tsKLUzAujri0GUlU4+vib0iSEaSyAeT2rpfHxq5X26kTgBl2sC7jGfTCiGVGpunyOROAKBCDzeIIZsLpmjY5ifV7CwsAhFyWJxMccdDsfh94fhrCU0MGCRC1QoFFEslrjpfT5fwMXQFB/VOYsDnWd6ZQKRGCrrG6hWd2uu4uevXQSDUdjso1qpCUYqUCazgJWVlZrL3DQux/BYM2BIjI9JwAgg6o/kUQkxrO5k6oBoZK4RD0wmq8wlT2JQ1kMob6c1E1zw3hDc2X6Y4+0yU2K48nYCy9uzdUCXXrsRemjHeOEsrMkO9IdOy0qJIbsR5UDCBJR8M47I42F4SmbYrnXLSolhZs2D0veZOiAypTb1bAS+ZQsc6V5ZKanduf0jxa0HItDpl274VwcxovTJSKmWznsviptJDUhv+ox6NPnAhrH8gIyUGNLfAnxcZCNQ6sN53qPQIwcv9iGnpKZzcyOuARnBBFDsiRPeW2a+/A8xpVo6Xy7wcRmBhK9/8vFiTz8fha9s5Sk5M72HkZK6sqjMBKS3Hmjus08rNm2QIiX7bA9PyRRToYxX/wsx/uuXNhP7gPRglKAoNm2Q+pQGZ7oamVLtMFaZ5EDCRiAyFV70iDZIY0rmRDv6JsV5+5/F6oAOAiNo0SPaIPUpUY+6vMe1hBqSEv1dkGmlCevhqGP6HtF+RDA0rjbn0UbCCKmnQLqxEc4IROOizdEUFQ+NDYdRpV5QPHPVp0avVGyCoU3RCNJwGL32brAHZ7QUkIOkv7HRxu/+qX4DKuEgZ0ZiyhUAAAAASUVORK5CYII=",
     "wiki_name": "Combat potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Combat_potion#4_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 595,
     "name": "Torch",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A lit home-made torch.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABT0lEQVR4Xu2VsUrDUBSGe5AQIqEOgoJgpAYM2tI0pamRElGkg4sgIjg4OOjgLr6ED+Kb+Fq/nns5aZvJpfeeod9yIOnwcf7/NJ3OWiG0n3iCRQgfWWhm+61jCF8PIuJdRlAjsuG/qIqM8D4NtBVakcz3a4Sfz1iDlGxGxYYIx0mC8XCIuhf5liJkaYpylOO8KBqpt7mXYhPyfr/ZyGVVrUg5FrIx8bxOI9wPbJGvZjNcTCZGyrEQQ6iOItyebuMxj/FUdI3ETV2bTTkWIowOwmY7LPM87uKltFIc3yLOtUNIdrbMdu7OYrMdkeEpnXIkwxDKwxDzk0VUqzJO+SvzbmCuaDkqTzKM3c5yVF5lsr3AFFmBDGPPXHrjXWawb6NSIcNnzlclMvIn2P6lI8hclfSGp1cZPnM+cQUyDJlvFUekQoZPXImMQJpkBFUybvkFZknWkKD5sBEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZklEQVR4Xs2WwUrDQBCGO0gIkVAPgoJgrA0YtKVpSqORElGkBy+CiODBgwc9eBdfwgfxTXytsTPLJHHv2Z0PwkLT0I9/5m87GPQKoP2KJ0gE8DML+bTvOgbw+1FEAOejEV/2uxzTiiiQMagRUYr3Re4C+HEeaGiXoKxdP28R/n7FGhIyyShJCHCcJLiYzbA+jjpiXgDM0hTLeY4XRdFIva+9LDZgPpk0iVxV1T8pGZ39VE+YMdF5k0b4MDWLfL1a4eVyyVKOhQjA6ijCu9NtfMpjfC6GLHFb15yUY6HNhx2ETTok87IY4mtppGh87Th7BzDZ2eJ07s9iTkdk6JSdkoQcpARYHoa4PmlH1ZXp/vVwIjPeDbhF3VHZMvZTPWLS6Y7Kq0y2F/AiK5AhTM1lb7zLTPfNqFTIUM2pVSIjX4IeZAjgVsne0Ok1Hao5VVyBDAH8W0UjUiFDFVciI4AmGUGVjMGVzB+OXRREAAWlWgAAAABJRU5ErkJggg==",
     "wiki_name": "Torch (unobtainable item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torch_(unobtainable_item)",
     "equipment": null,

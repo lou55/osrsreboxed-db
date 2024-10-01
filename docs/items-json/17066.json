@@ -1,7 +1,7 @@
 {
     "id": 17066,
     "name": "Bone seeds",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-02",
     "duplicate": true,
     "examine": "A highly portable army of skeletal magi.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4Xt3W/UuTURQHcO8P/aBEEEkxh8qUOdpkmw/uDedSXEuXlLKUtdK0LN+QIhCiqH/9tO8d59nd2d1DPi8WXTg/bOjOh3POfZ4zNvZ/HEXDcatnMHmtkKRyPkGFxVnKpeKUSU7dJlDR+1crdPCyRO3mMrUaS7RTz1GzlqF65TGtlxY0sOrMu0gnPR0VStHXozpdvV2ji84TOmvXXFxnu0h7m44L3F7P0rNq2kVGBvp53qTvp5t0/eGpxn0+3HBxH/erdLRbdoGoICMjAyExAKgSMIzCZ0YBBAgqhSpFNEuq24Z5XQG0CYkZx63j6qAyjMFsrS7Hyck8otTcg7BQit68yGgQkqEdSMw4s0WMAQSBWdqozFIlP9W9fZPhgU72crS/laJGNaETYi7QFnNOOBjCARAil3oYBkjR6+dpOm3n3ThuZfV3O/WkBnJCDnyHaiK2anP681pxRrctFBAAF50lawCI6uFvDncXdWuBbTUWNBgoBhWzMUrE7wVFKbo6cEaGiTJBaC+DUCWAMEfJmftBQEon+fKuMDJsVWIQqiRBAQe7+2Q+Lo4MgMwqmW1jEKpkgjDYsckJvyhF1yeloTBRXm2zgTDY07G7fkCKvn0qD4QNZlaJ2ybnSIIw2BPjd26KUvTjrKJDwkygrJKcIxsIgx0IJEOC5HCbc2QDYbB9gX5drgyEDWa2zbxtXiC800IByeAq2eYIVWIQPxj5lv0VkFmhfwokXx0BQDjeKAmyDXXoICTlIb4piF8dAGFJAwg3LMCi1n9S81WXt+xPQFhJeGsMDEIyfk1InBeG9yV55QOCcPCPPZjEeWFG3TD+PZnFx+n9EACMkw9D+abn+QlhD/I6fZgNY+5Cg3t0JBjzcJLezm3uP6gMqhLCuur39HHDEez8BqZqNyTK2X3VAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xt3X70tTYRQHcJ8XvUgiiKSYwx9T5miTbV7cL1xLcS1dUspS5krTsjRDikCIov71077POHdnx7tb272z6IHzYsPt+fA959l9HBv7P5ahq3Wtq3fzSi5OxWyMcoszlElEKRWfvE6goTcvVujgeYGa9WVq1JZou5qheiVF1dIDWissWGDZmXeRTnJqVChDX46qdPFqlc5bj+isWXFxra087W44LnBrLU1PykkXic9mZ2fDRhn68aFO30436PLtY4v7dLju4t7tlelop+gCkSAjRwbCxgAgJWAYhdeMAggQJIWURjRLpt2GeZsA2oSNGcet43SQDGMwWw+Xo+Sk7lNi7m5YKEMvn6UsCJuhHdiYcbJFjAEEhVlaL81QKTvZPn0TYbXO0MluhvY2E1Qrx+yGmAu0Rc4JF0O4AEJlEvfCABnaf5qk02bWreNG2r63XY1bIG/IhfeQJmqzMmdfr+anbdtCAQFw3lryLACRHv7mcGfRthbYRm3BgoFiUD4doVj0dtA5MnRx4PQtiZIgtJdBSAkgzFF8+k6QlIzd5PPrXN/ySolBSEmDAg52+5f5ON+3AJIpybYxCClJEAY7MjE+bNsMXZ4UrpRE+bXNC4TBnorcGiYlQ1/fF3vKCyZT4rbpOdIgDPb4zRuDpmTo+1nJloZJoE5Jz5EXCIPNoAFS6oJ0aZAebjlHXiAM9lCgnx9XesoLJtsmT5sfCM+0UEC6OCWvOUJKDOIfRj5lfwUkE/qnQPrREQCE5Y/SIK+hDh2ETXmIBwXxowMgXNIAwgnjixowA4P4R5CPuj5lfwLClYRvjRqkd/zNMnYzfkxonB+G70v6yAcEYXUu5/x0lzg/TL8Txt83RLu6q/PBzhcBwDj9Y6if9Dw/+h4UCCOXhnlh5F1I3qMDp+K3JAwlEXxLRCp8XQ01Fb/V3UT+I9hbQSG/AH+xasBgO5WsAAAAAElFTkSuQmCC",
     "wiki_name": "Bone seeds",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bone_seeds",
     "equipment": null,

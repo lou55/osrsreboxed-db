@@ -1,7 +1,7 @@
 {
     "id": 25144,
     "name": "Bone fragments",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-11-18",
     "duplicate": true,
     "examine": "Ground down bone fragments.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACt0lEQVR4Xu1XW0tUURR2/a+ih4igQLKiksEYzC4mldhFMrOLNWLJMORgxmBmxaQ12TCpJVOZQ2UUvfTQ31nx7eV4zuw9+5y9PQY9+MFhOPus/a1vXfZlWlq2sQ2AWB/ZYvg4IM49vMB+c2IRJiMuLz0IOXBxRDz+qHd9jot9JMJkwVj9t1gadnBEPDbew/lCH1c/z8TYxoJ4sTppISFe/TbHT+eG+PmrmxabOojv5c7yxNTFGLtYkIoqmz9nISJe+1nhx8UBfjI7GJEtyRKe5ZVpi40zpGyZsVMWIuJPtaKKvjDTr8TZ7JAle3DOIF6qFhSZnUhKC2cQH5QmbC9ZGsmecShxJIg/rD5Tzm6PnIggIn69kFUO4RjLHY2si0Jg9mw7gbi2VlLLHUTXbh23kBHPL+a4OH9XCYetWSJS7xAd9NymQPz+45SK/EamM4KIuPIur0oSlEW3ldIlztLKlxeqeUF0dagjgoz4ZXnU0idBppA9cJo2TiD++qOsHjRvdJYAaiJIggqLSiAIIP7+a4HfLk+oHonOEtDsmz6mv3tBNkEIQkOaglzJXe1iEQhqJqZUuW+Mmc7DpdS/eUP6CIJ0x9h/Zt9kQuOyKs3DNDiQf/+pJRUlgnQH2J+wqrAH6d9MhyIIYjDH/O6NRofYc+rZuTN6Mmb1SVmxcW5BdnTI2YWyXB9O85XB1LqDKCeSHQhKvEvrD842lOrSQDt3n29zJCd1E2jsNW9Ij6A0aGZkBb0CUghJpfd6kJO6BZgHrjPkCECKcStEdBCR7trHR1O7ubVthwexLHfcAA4e2eUxbwOmmJ7eQ9x5ej+3d+zhA4d3epCS4sHZ5RfEBognpy83PGjeru5WVSL/CEmtQP95DWhsYgiCGJTKj1T+l/nPi0VYoA+I+/qPbWLeP4FcxP4TMXUkE/MXgP2Q/phhk/MAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu2X3U4TQRTHOW/CI/gAGi+MMdGEiBqVNJgG8QOISvCDiIgfaAlCmkYaxDSIqKmgFZsKKKmKNCpG440Xvs4x/xmms7Pdnd3Zyh3/ZEN2euac35xzZmZpadnRjiBi/8h/lksA4tyjS+w2J1JeZ8Tl1YeeAHECEU897t+aE8feKq8zPbartVWMFUujMQIRT071cb4wwNUv8xG2kSJeqc4IJxJCSgFtfF/kZ4sj/OL17YhAxA9yvTw9e7nBl6NIrCqbvxASkHjzV4WfFIf46cKwJVsyS3jW1udCbGJLli0zeTbEEfHnWlGsvjA/KODC7JAltbimsrRaLQhn4Y5kaREM8Ko0JpjM0lj2fIwSW0X8ceO5CHZ37LTFEfGb5awIiMDY7mhkPxQWprIdvLhIEdc2S2K7w9GNO6dCoIiXVnJcXLovwGHrLZGywTugdc8lEvGHT7Ni5bcyXZbVEVfe50VJdFmkrbaXpWs6S+tfX4rmhaPrI52W1RG/Ko/Xgfww6i+yB5/hfqwi/vazLB40rz1LEBlAaswE0O/hfqwi/vF7md+tTYsesWcJ8mcnaMz/7iR5CAIIDamAGsuhFRzItAu2iSUN5IWRDolLlQlfxmRD63c55m128zdnyT4CkB8G58/C20x9HH+xKxsvU30h//lbaxZKAvlhcD5hV+EM0kDS3rSVYwACDOaY9olkwuDMUdm5N36mvvuUtR8GZcXBqbJj/p5QCgbbH2W5OZrma8OpLRBbEJkdAKlTOtguUqoB9YO7DaW6MtTBPRfbDZDwICS+BLy9Fm4bKtkjKA2aGVlBr8ApQFLpAw7OSXwFqAs32r5B8gpAivFViNUBIt19kE+k9nFb+24nGGx3fAEcOb43CVAjTF//Ue46d4g7Ovfz4WN7nGDgB3eX2yLqIp6Zu2o8aN7unjZRIu8K4zklsQPd5xkymxhAgEGp3JzK/8vc5wVITZYONJybU+KBwZMJ5sWQCRhH8kNsW2CSqzmYf0THCAq4fRqqAAAAAElFTkSuQmCC",
     "wiki_name": "Bone fragments",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bone_fragments",
     "equipment": null,

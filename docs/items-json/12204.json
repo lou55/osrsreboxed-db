@@ -1,7 +1,7 @@
 {
     "id": 12204,
     "name": "Ancient mitre",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "An Ancient mitre.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADfElEQVR4Xu3W/UtTURgHcEc/iCKGBIo/VEzQ8AXBfugFHBRlJARl5UvN1/lameVLDhmbOtcsFU2XmoaiJsvEjCAq0qIi8Lf+pSe+5/KMc+/ObHdb0Q8deNjdOXc7n/s895x7k5L+/WYhdajG/3iz0LjrGj0eqBDhd14hX99lEYxYn26i1ckGWp6oV6CMFxE3XAMxCiAOI2ZprJbm/Td1E+M7xoyhR5lCWmjSfT0MhU9AOBg066uh6aEqcS4+VSCcL6M/b7roU7A3NhSDcMzZYdDiI7sA8bmRQPjdzsYAfd0epm/bIwJkCoM/5atmECZVgQLe6hAIxypQMODQgXAcJciiKwMm4psb340gTA4ElzcSaHOuNXEgzhL6VCDOJIOQNSPo9UJbCIQwBeL7wgjC5EaQfEPvB3rzvF0PetkfPwj9ADGKMymvyEigt0u3EgtCACCDeAn/DoRz3692hkBftjzRYtD0IBmFP2cQzlufnyNnZ6c4xjjOiwT6sNYVKwhNu3L8uQqEsR+7u7Q0NUX3WluoIC8vlCn8Bpk0gj6ud8cK0vYgZEgFwvj3nR3afrFGs6Oj1FZXRynJyaHyqQIXIYNMbIrakleBEBj/ubdHK4EABReekbf/AdVXVdKhjAzKzsoiT0+3iKG+Xl3gdwkDMQpjtkwbFaYX0JjbLcqF+6eivJxyrVZKS00VwIlBj8hcwO+nmYc+ejLiFYHfxw1ilOgfOEWOnCaBwlVjsrvNDrpUVkYnS0pEllA6l+O0GEMWl2emBYyzBBB26SgxaNoKU4GCg6XUkdtOVw9XUG9HB426XNRit9PFs2foeHGxKBkwyNrk8BBtrazQ4vg4+ZzOsJLFBJLLhv5X3lLqzr9PrvpC6rtRQF2Vx6ixuprO2WxUlJ9PPbUnRNxpahQQbVIt8NhIGEhGeYrcVJZ9PjSR/YKVCq3pdCQrlTIPJlNayoFQRni5Y4Vhl5ZBJlAaKFLZGnK0ZY9JMC5nQQ55/8Frx7vl2yEQ9iAT+5AeZCxbzVHtExOhnx8XvC0YX84AjxuEVaYCoQ/jmACToU8F4scGlythIGPZ0M8lwITyKwdjGMTnArTxtFkHwh5keh9SlU0G4Xg/kHz/JASkKpsMwpj8yiGD+MHK5YoThBa+alRhvH84jCC8S8sgDhOgaFs4kkO+f/4iaL8WjgyP/y2+9gvpKVG0IylkBwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADnElEQVR4Xs3W/UtTURgH8I1+EEUMCRR/qJyg4QuS/dALOCjKSAjKypear/O1MsuXHDI2da5ZKpouNQ1FTczEjCAq0qIi8Lf+pSe+Zzzz3OOZbW5FBx52d8+5ez73OfecXZPp/29m0oeu/683Mw07r9OTnhIRPsdV8nZdEcGI5fE6WhytofmRag1KvYmo4QEQowDiUDFzQ5U07btlSIzv6FPDiIoIaaZR141dKHwCwsGgSW8FjfeVibH41IEwXkZ/WXPS55XO/aEYhGOuDoNmH9sEiMeGAuG6zdUe+rbRT983BgQIOY6np4tQsystUHa+awYhqQ7k95QHQTjWgVb8dgMIxwxSsyvNbJgGJOKHG99VEJIDwdMbCrQ21Rg7EFcJ53QgriSDUDUV9GamKQhCRATi50IFIbkKkh/ovUBvXzQbQa+6owfhPECM4krKKzIU6N3c7diCEADIIF7CfwJh7IfF1iDo67o7shUmg2QUfpxBGLc8PUWO1lZxjH6MCwX6uNSmBanZQ7TAnePHdSD0/dzaormxMbrf2EA5WVnBSuEaVFIFfVpu3y8osAehQjoQ+n9sbtLGyyWaHBykpqoqio+LC06fLnATMkjeFNXsSgsseR0Igf5f29u04PfTysxz8nQ/pOqyUjqUnExpqank7mgX0dfVaQhcFzMQo9BnTbFSblIODblcYrrw/JQUF1OmxUKJCQkCONLrFpXz+3w08chLTwc8InB91CBGifM9p8meUSdQuGsku1dvp8tFRXSqoEBUCVPntJ8Rfaji/MS4gHGVAMIuzZiwQFghOtBKbyG1ZDbTtcMl1NnSQoNOJzXYbHTp3Fk6kZ8vpgwYVG20v4/WFxZodniYvA7HrikLszpoOyB52nD+taeQ2rMfkLM6l7pu5lBb6TGqLS+n81Yr5WVnU0flSRF362oFBNdw4G8jZiAZ5c5zUVHahWAi20UL5VqS6EhqAqUcjKPE+APBivByxwrDLi2DGKVm17QAKNS01WQElj2SoF+ughzy/oPXjvfzd4Ig7EER7ENGkDptFUcDn0iE8/x3wduC+nIGeNQgrDIdCOfQjwRIhnM6EP9t8HTFDKROG87zFCCh/MrBGAbxWIBWn9UbQNiDIt6HdNMmg3C8F0h+fmIC0k2bDEKf/Mohg/iPlacrShDa7lWjC/X54VBBeJeWQRwRgEwm3tb3ChUoh/z8xAQUblOR4WA5dsb+o6YidaFe81+33zM8nEDh7eq1AAAAAElFTkSuQmCC",
     "wiki_name": "Ancient mitre",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_mitre",
     "equipment": null,

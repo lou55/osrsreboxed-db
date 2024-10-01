@@ -1,7 +1,7 @@
 {
     "id": 12006,
     "name": "Abyssal tentacle",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-04-10",
     "duplicate": false,
     "examine": "A weapon from the Abyss, embedded in a slimy tentacle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVUlEQVR4Xu1WsWobQRDd5VArMAgXKmKIsSEKRKDCwjjGKiyMmxSGfEsIISGFsHEcXDiFiN2okhs3Ltzq18Z6M5rbvbuVdStOJGA9eOh0tzf79u3M7BmzxuuEJeF/AUv34zu6/Xs1E5XnSpCfJMyHhxGNRn/o5mZArXeGGg2zClGWensJ82NH2G0n1P6Q0M62oa0tQ82mTmxpMnmix8cxdbsypmJRIkaFgPjf30+oA2FdudfeTbxJLd/vHU2fHVQqyvLEvkP4v/Nm6srUERV0eiiicD8kCsTYykS13hqm7w4IVyDs7LjGojrvE2puFkXBJRDXS4oqJusifj6pscCsIInliwIjRUkA7DteRsIuflm2FC7CsbwgjalxF8dLYVkE9hslCzG4RiU5N0KwXHVFQZYuLr7Rr8vv9PvqB11f/yy5wBTOHbzYP3YJq/nihGXJbWA3n9gSMx0zje3aw0I4d+BIvW5oOLxME5araNZzfGrCK4uTWTo//8oORZa/rEDF6Ko+9ZKUEIug2E6MA1FZYNgdFxuLi+jc4g5cwLY4QfIsjvNgWXhjo6QgOICtyXbcqiANNrylQVgWg3xRl0q+WALiHJJ+/pYGsQqXJKHxi/yJqDDAuYQmF7maF2A5+SGmZEL7cFWVPZeighg3XsTo58kSggARxS7NgrlAZYJZGgy+8NjQt1J+dEm4Jql9pxg4FNw9014VeVS8BAms3zx6vukk6LxZcdJnUE1cUdWK8eFN2Cl2a//4QHUqIW4FYvJw4iBKqd/YeoRU1zaikN2uItdY49/hGe+IBhLV1asQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfUlEQVR4Xu2WwWsTURDG97H0GhBCDzm0RWnACqbkYBAVc2gQLz0I/i0iYvEQWmqlh3oo6iWneumlh177r435ZjKdt28ndLfdiNR88JFN8nbeb+fNm7dZttT/qUDif0KBfp/9op8/jmZQqReidBLf5+cTmky+08nJmLYeZ9RuZ4uACjR8lrNf9sWDXk69pzltPspofT2jTkcnDnR1dUkXF2c0GMiYhqEERkFgfB89z6kPsIH81uvmPOn2xgZ/4vfh6+l/LxqFCjxxnCF831ybZmWaEQV6+0qg8LtNalAwxjYGtfUwY8fZgZEVgL3bWWGo/pOcOqtlKGQJxvUtocrFepPfv1lhQAWSpZNYMRRcE0oCYN1xMwpWJ5hn/I/MIYvIWAqkMTVuHK84d0mBIbDe2LKAwTV2kmXDU+BdVwYKdHDwib4efqZvR3t0fPyl8IBpFEeWHdw42rGC1XoxsKK5DXStsNMMaWxtDxWALDvISKuV0enp4XXB8i6a9ZzYWvBqnSwG2t//yBmKt38lIDyBwuhT7Q7zawMWQbGcGAdjZ8F+diw2Hi7u3OUxBUl2kAUsiwJpHdTx/GINDN5+UBEIGcDSxB1Xb9Lrqk6jIx76lr+krgLDoF40S/LETciKfv6SuvKzlI6qJylofKJ+auwwyLKEJlc8l+6iwMUPmIoFHct2VfFcqgum4wVGX09uAQQJFGdpFszOnipggcbjDzzWe1eqUNCerElq30kD+3D2n/Yq7yxM76ooCazvPHq+6STovEU46TPYTbyjHJh0htqSINGE/XK3jo8P7E414BqFiWVBDQ5Qan3H1iPEa64Lkwfn+a/ApIoL1XM6fql7qz/1Hm1K4HMOHgAAAABJRU5ErkJggg==",
     "wiki_name": "Abyssal tentacle",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_tentacle",
     "equipment": {

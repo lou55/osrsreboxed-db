@@ -1,7 +1,7 @@
 {
     "id": 8848,
     "name": "Mithril defender",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-13",
     "duplicate": false,
     "examine": "A defensive weapon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZElEQVR4Xu2W0WrCMBSGzYXIRBBBLLRM6aQbrcPhQNjFGAjCYOxu7/8sZ/w5i0lclbQ0TQb7IDcSPF/yn552MPibCOIVBYLW61fK85cGUt4OIKQIhLBWq71DIUGjm5zG48phbyv4tEXxJqVul89XCrGMWpf3dQKL2fGZBX9kRpm1PEuBerHTzfQrY8IikKqTGQ6T/oW220+6fzjwDZ3JBBHaPH7IJ081Ohpf3VzPMoCLpulGCs3ndycR9Jctdr46R9Bu9yVvBCJJUlKWPRnFtBj2qJGBfnObZY3gqFBE//mlk/PvplD9vtYIqqp32ciQQVxuBcwYO4NlyvIoT4qIENdk4vo0uexpBAvh+tHEi0VB02nqKNM5dlRo4tlsGUoGiF9RBZdRb3pEFVzGjCqgDNBRuT/i3tBR2VM4GDxhPYz6NgjZN5FEBXjURxXV9Y/53tBRRSADvLyV22J+gkZDVDL/1PINQ4YHKqPSYMYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABh0lEQVR4XtWW0WqDMBSGm4tSVgqlUCooa+uKG9rRrYPBLsZgMBiM3e39nyXjz9kxMdaiVk32QS6Eo/mS/xgdjf4nQtLwAiF3u1cZxy8NpHpbgFAiEMLYbJ5rTCTk5CqW02lWo7YVtNokeVNS1+unMxORDA9cP263FbUXQA8lsWJ8ptifzCQqjGr5Djgnlu+MJYN7etklE1MMUqdkxuMgF7Lv7wkhD4dveXv3TjtkyTgR2t9/qTePGx2Nzzs3WFwamjQM90poubzJRdBfplh5dI6Qx+OP2hGIBEEqo+gh3xVTDDV8ZKDf6p1ljaCoMIl+eDkiU8wUsusuRMgs+1SNDBnEZU5wahIW4xir6lpAMmn6oVaKiBDXbEZvk11dplMZQELYfjTxapXI+TxstOo6NTUpRoUmXizWjWQ6RpSici7DX3pE5VzGjMqhDNBR2a+4XTkAOirzFHYkA+iE5dPYuQz6xo7KrhoQOuq9ior/cZzLcFQeyIBevspt0b+gHsgwXskQXsn4wC/gYFYDr0IMPAAAAABJRU5ErkJggg==",
     "wiki_name": "Mithril defender (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_defender#Normal",
     "equipment": {

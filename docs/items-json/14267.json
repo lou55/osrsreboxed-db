@@ -1,7 +1,7 @@
 {
     "id": 14267,
     "name": "Firemaking cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "The cape worn by master firelighters.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACk0lEQVR4Xt2Wz0tUURTH5zI8HvfyCNoUblo0OAMa/RgsDVSSMjNBa2ysQaKUhpA0EFq4aOFCaOEiEFq4GHARuBAEF4EwC8GFuBCEFv473973XF5vGLSe4bsPOnC48Hgz78M53/M9N5dLLRTan1xg8M/P8wGF8pX8OX+TOBS6LudwSecSfkBh9FoepUIh4fv/FAqdHRHQWdWyz2e6vD+8c6Gh0FvMSyt6r0btiLPa6WGpx3cB0hoKy/d8DBfyqFz3MHfDZr3Hw+JtH1/uZwD07YHGYvjhStia1yULNFP2pEKOYRgK208N1ic0lgZ9AYnO/o7UpuqsUDj5GOBkOsDWqMHaoEbtpgVipTKokMLxhwDHtQDNZwbfH2ssD/n4fNdHvdsTOOdAR3MBjl4GOKgG+DEeQr3QWO3PEOigHuBwKsD+pMHuhBE9rfRlCLQ3a6Q6exWDnTGDzREtNpAZUPOtkepo35fqiI5CII4+gXg6glJoPNcCwUkjECeNJ5MgVRpkt0OgjUkL9HPeAjGbDQvFk0bpFIgTRd1w9HlGUFGOl/JugTanYiACVJ+Uf2cEFG/61ENh65UR76EXtQMxCVQrOgTarlnvOXwfa6g1qSHeAJwB7UwbWRkE4oQ1Hmp8HdCyOhZu2V1GKAd3IiXbnZ5Dp2bbaIjrQzGQ+FDRAvFelDoQPYgQBKKwCcd7EYG4OgjBjU8gVsspEL1oYzgG4i2RbeLIOzJHa4rUDYEIRv20AnF9iI54ewyrxBanCGVNcf+dXahs12lAn+74AsTWrY05AooW6mlAbBuBKO7VkVSFbV2aQGzb34A4/iuPfGlzSlBKvCcJEKeNFrDQ50DYBNp9Y8QgWTFWgOJtB3Iw9lHwI0nzP4pfTQIqva4DCMsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvUlEQVR4XsWXz0tUURTH5zI8Hu/yCNoUbkIanAGNssHSwCQpMxO0xsYaJMpoCCkDoYWLFi6EFi4CoYWLAReBC0FwEQizEFyIC0Fo4b/zbb7ncn3jw2oGvNcDhwuPd9/9cH58z32ZjDNTSD85R+PH2zlAoXgl2+aelk2h+3IGl6JMiwcojF3LopDLyfu9nZ0t7GnbFLo6LNDfomWez3YHJ+8QxhEQTaE/n5VU9F+16Ui83BVgsS88BeIQxprC0t0QI7ksStcDzN0wXu0LsNAb4tu9BCi905Ep/HgQYaFxcKmRmtcFAzRbDCRCHtKUNoWtpxprkxEWh0IBsetgh0mjV5jjzzGOZ2JsjmmsDkWo3DRAjFRzhNI7HZnC0ccYR5UY9WcaPx9HWBoO8fVOiGpPIHDegQ7nYhy+jLFfjvFrogH1IsLK4AUC7VdjHEzH2JvS2JnUUk/LAxcItPtOS3R2Sxrb4xobo5HIwIUB1d9qiU4UhhIdqaMGEFufQFz5XnqnA1OoPY8Egp1GIHYaVzpByhTIHm9RUlifMkC/Pxkger1moLhSKL0CsaNYN2x9rhbK+kQh6xdoYzoBIkD5SfHELZCd9F6ANl9p0R5qURqITqBK3iPQVsVoz8GHpIaanTXEG4A3oO0ZLSODQOyw2sMI3+9HMjrmb5lZRih7J0p/4RxNyXSn5lCpmTYK4tpwAiQ6lDdAvBc5jpLRIEIQiIVNON6LCMTRQQhOfAIxWl6BqEXrIwkQb4lME1vekzgaUWTdEIhgrJ9mII4PqSPeHhtRYood1pERxb33ZqAyXWcBfbkdChBTtzpugBxFKQGyA/UsIKaNQCzulVGnhW1UmkBM2/+A2P7Lj0JJs6O0KdGeVoDYbZSA+QHnfyBKgHbeaBFIRowRYPGmgZrb3hGMtdN/qv9yDzDG7EGteHpvq/YHj0xoYkooszoAAAAASUVORK5CYII=",
     "wiki_name": "Firemaking cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Firemaking_cape#Untrimmed",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 331,
     "name": "Raw salmon",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": false,
     "examine": "I should try cooking this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrElEQVR4Xu2V/UtTYRzFvf9KUZGGrpFzoaZDl3tjbe3V19SGq63pdE2Hq/UulrU0LRs2TAoRDBPJhKwfgsrqnzpxnnXnWli/+JjBDnxhjAvfz3POuc8tKyuppJ2koPiffygF/R4n9gmUgqDDilirZz8AKei2tCDsduwVzJ+WKPAbDQjYLYj6XHsBpMDdWL/DIgXOU3XoNBlx8awd8TbvDs/tmnIwXPr7IgVmvQ7epgb02kyizCMd/p/PqbPryjlgq9UXLcgtdFQcQteJY4jUaZFsPomxYC9SPZ0CTEJ82zB0ovDk5qMH4K068gvMtNOI6cEw7l/qk+WQkodprtbCoNUIEFflYbRrKxDUaxCtr0bCoBcwizdGMZ+MywChtmFs5QfzbhCCjgw16IQrt031eOI6jZVzTrx+MCYPhkMnWjXlAiRQU4VQ7XHhiOiKuQETNgOeecxY7XbhU7hDHowKwlh6dJX5aFLGWoxbG5G2N4mInvut2Ah48bm/Sx5MIQhdYTQqyJSjWcRDV5Y6zuB90I8vgz0yYHIRMZpCRxgNQehGxt2CrM+CF6020ZePoTZsxQJyYFQQdkQtKztCR+gGo1lst2O5y4G1Xrfoy9ZwUA6MChJvrBHREIQdIQjdYDR0hCBqX74mQnJg+PqqIGpHGA1B6AbfnvXzHrzr8+X78i0ZkQPDj2B2NCYusoWrI+JSW7p5Bctj14UjhUMwOvQ9FZUBQynim0MYj92O1Yd3sXLvDl6N3xJDhxiZCvvyWkIAS4KhFMzEImLh2tSEgCkcFpgzlxgSz81eHkBmWKI7/ADy1IThdV88jIhDVwg1ORBCOnJBHhAXEYZRcfj7zXQa648nRXk5ueXFI0WKAODyt7OPsJGZwWb2KTbn5/BhISvr5v2bik9ePCWV9H/oB7q7ShAejFtRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzElEQVR4Xu2V/UtTYRzFvf+JFBVp6Bqpi2lzuKV7YW3txfmaruFqNp0udWjZu1iWaVomNkwKEQwTyYSsH4LK6p86dZ5157yiv+ij/bADXxjj4T6f55xzn5uXl1NOO0mB9p9DlIIOvwf/CZSCiNuBRJ1fAOny8w8TSkGLvRrtPncGRjLQbhEoCFrNCLvsiNd6D8IdBb7Kih16ocBzrhxNNVZcvehCT31ANlAahptu30iBzVCKQJUJIWeNKHNfY/AfuDr7rrQDTqNBA5Te0F14DM1nTiFWrseA5SyGIiEMtjYJMDW+rc/bkzZh6ET2yW0njyBQfGILzITHiomudjy+1pZZt8/lVjIwlhI9zHqdAPEWHUeDvhARgw7xihIkzQYBM3+nH7MDPVtApMA4C45m3CAEHek2lQpX7tdU4IX3PJYuefD+yZAMV6i03XSiTlcgQMJlxYgaTwtHRFdsJow4zXjlt2G5xYtv7Y3yYFQQxtJaWpSJZtBqxLCjEqOuKhHR66ADa+EAvnc0y4PJBqErjEYFGXdbRDx0ZaHxAj5HgvjR1SoDJh0Ro8l2hNEQhG5M+6qRqrXjTZ1T9OVrtB4bibAcGBWEHVHLyo7QEbrBaOYbXFhsdmMl5BN92eiNyIFRQXoqy0Q0BGFHCEI3GA0dIYjal5/JqBwYvr4qiNoRRkMQusG3Z/WyH5/aajN9+TUQkwPDj2CqPyEusrmbfeJSW7h7A4tDt4Uj2UMwOvR7MC4DhlLEN4cwfpcLy08fYunRA7wbvieGDjEyFfbtraQAlgRDKZhMxMSGK+MjAiZ7WGDOTLJbrJu63onp3k13tE/boxTxAeSpCcPrXjuMiENXCDXWGcVo7Io8IG5EGEbF4e8PE6NYfT4mysvhOu1Ii4sA3Pzj1DOsTU9iPfUS67Mz+DKX2nbzakf7tH3S9tMfgBO7S3ty7WjX55TTX/0BUiiUnF8odHYAAAAASUVORK5CYII=",
     "wiki_name": "Raw salmon",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_salmon",
     "equipment": null,

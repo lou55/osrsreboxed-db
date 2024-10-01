@@ -1,7 +1,7 @@
 {
     "id": 170,
     "name": "Ranging potion(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "3 doses of ranging potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZUlEQVR4Xu3W/UsUQRgHcO/3kkRTevFK+iHCIH8QrrSSDMkXNCU1U8lU1BI9X+90vcuyRNRMlEsrRetUTKSMKOxdDCKIQPuPnvju8qxzc3t6e3dGPzTwcLs7s7ufmWdm9qKi/v1iIeMwqt/1YqEHris0pBSpMdBVSP2dl9VgxMJ4NXlHq2h25LoBSu5E2HANxCiAOGTMzHAlPR4o93kxzlEnhy/KFNJCo7eL/VD4BYSDQRP9ZTR+t1Rti18jENqL6K/LLvq02BEaikE45tFh0NRghQritoFAuO/zkkLrK330beW+CjKFwUO51wzCS2WQ2Gu09dy7agha9NT4gHAcJMjikwYgeHLjXAShrb36ONVdO0YVRUnqeSDQ8mRd5EA8Srgmg+bH0tUoKziig5BGGfTqab0OQpgC8byQQei5EWh60EYleVY9dUag19MNvqAXzvBBuA4QAu3Ky6v0yM0rosyLOZSWfkGtk0FvZm5FFoRAKkWQw+Eku72VGhoa6VJ2AaWfzaTkkyl+IIzmqrdJB6297A0Wg+ILElF4OIM4ZV3dCrndbjqVkhowZWj7fs4eKghFezAmaCAQ6pubW0hReqinx0U22zn9HoykDPqw0BYqSNuDMEI7gTA6CEVR6HxGlp4uGYT2IsjEpqg9zAiEkEHt7R3U2ekgp7OLcnIL6fSZDD8QRieiIEYh8ALsuAxKeb6phnXyBx0efEvxLR6KKW5V63YFJI4SfhkkYkRQQtsExZZpy1kELT2q1UHYpYPEoGgrxAjEnwMZo4OGVinBMU2xlW6KzqvVURgdfDbEEQoJJM8jXsqBQIkjH+mA4qW4mj6KKdHSxunCZyNiIEbhOupTvZt+cfTJT0p8+IUOuuZp/81hiintoL1ZWnuAsEuLIBMoDWSUtm1BU7800J0lim8ao9iKborOvqG2x5x7N9uog7AHmdiHfEFi2nYEja3Rof4VdWLHVfXSvvx62pOWr94TFgirbDtQ8rOtuQOMbe43JU1vkHV8fWvpl/Jf0wiMEIPktOE6f78QJ2Y3dByOrZ7vKobreUJjyYsg7EGm9yGjtDEIPcYxv1gOXo3cNiIgo7SJINSJf0twzLs5fzYwOhEAofj32ihEjBgyCJuiCOIwAQq2+CM5xPnzF0HbFX+kf/wv4ZU/zYhRZCsdrFgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Ranging potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ranging_potion#3_dose",
     "equipment": null,

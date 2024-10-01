@@ -1,7 +1,7 @@
 {
     "id": 25587,
     "name": "Open fish sack barrel",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-03-24",
     "duplicate": false,
     "examine": "There's something fishy about this...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xu3WTWtaQRQG4MwiFEUaJJISL3rpFRPUYhLJJ2hFzHeC0TYEQaQfBNLQEGg3hS5Ks+mym6wL/Svtrr/qre9cjplMY1Zzkyx64KAgOA/vOXd0bMxJKVz1vZfCz8tLHPd6SMTjDwGl8P3iK758/IBPZ2cPA/Tn9y+N+nx+bqR0Z2M0D1CYK3koFdJ4nIih5PvIex46tSq6zQa8VArx8fEocUofLF+ezySRD6awtODjfaeN04MWTlp72FlZxrdmHf3NDRw+r2F/dRXVXA6ldNo1SqG68gxrS0XdpSCFSjmjEyIsyKZ0OufvOvjRjOGiXsXLygLWiwUNcoxhKdTXyroJW6kUUC4GQxTTy3pJ3ZPJuH5tz89FkYyUwnq9gkZtfohanJ9BadZH4E8jFnukUyJEXtPTExrFjgClsNVY1CiBcXQL5RwK+cxgbB5SkxMaY4IiWmhWCNpZXx7CmBRHRxTHx7QER9QVKJIaPFn5p9jfXNUoNlGy6IRxhDaOo4wAFe4PQcXiDA6214Ywe68kMTMttkNU+HSZhxI2O5vTOEHxMyZlp+R4h5Q+hAjByD3E90GQ1bhRIKcQNr+cI+DhJkZa9oYwARGTSDj95Vf6IGkbIZCblljaIYYV7oyMybydbZD9RMkSOwSpa/cMF1nahklC/9w/g1vbEUjpx9l8pO2b2YSZCywgYrx0yh3osFXT3dmt3gqz7xymRJCfeYLpqaQ7UPdFQ/dRuz4SxiZKQDI2ATnCsBRed7fQP9pA77B5K8y+dyIDHfd3dY+CsYmyU5JffMcgVnghnrzaw9ve9o0wpiUoMyX5X+QYJKVw+qal0zJhRDEljs8cnaQUEUbqKi0ZI5MyUyJK/qhFjDErhDGpm1KSXbpDkFQIk+ZIzQW/B5Bd14H2p/8rivoLY+mjZO+GrG8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1ElEQVR4Xs3WTUtbQRQG4MxCSkKoBIPFXJLYG6IkKTEJfkLSEOK3Ek0bRAhiWwQrFaHdFLooddNlN64L/Svtrr/qre9cTpxOoxQ7V3vgoCDceXzPuZNEIk5K4arvvRS+XVzgqN9HPBb7H1AKX84/4eO7t3h/eqpBlcnJ+0Qp/PzxXaM+nJ0ZKd3ZGM0DFGZKHkqFFB7Goyhls8h7HrqNOvbbLXjJJGIjI2HilD5YHp5PJ5D3xzFXzeJNdxcnOx0cd7awsTCPz+0mDlZX0HvawPbiIuq5HEqplGuUQn3hCZbmirpLfhK1clonRJifSep0zl538bUdxXmzjue1KpaLBQ2S/XK4YwrNpbJuwhZqBZSL/gDF9DJeQvdYIqZ/7lZmBsk4xrAUlps1tBqVAWq2MoXSdBZ+dgLR6AOdEiHyMzUxqlFsx+NiKay1ZjVKYBxdtZxDIZ++HJuH5Nioxpgg2blQEiJoY3l+AGNSHB1RHB/TEhxRAgoBw7p8s/KPsb26qFFsomTRCeMIbRxHGcq4eDhBxeIUdtaXBjB7ryQxMy22Q1TwdpmHEjY9ndM4QfFvTMpOyfEOKX0IEYKRe4i/+35G464DmZB/xAT/FR/OEfBwEyMte0OYgIiJx4PPNAcQltIHSdsIgQxbYmmHGFawMzIm83a2QfYbJUssIPvJtyj12z3DRZa2YZLQH/fP5a3tCKT062y+0vbNbMLMBRYQMV4q6Q7U6zR0dzfrN8LsO4cpEZRNP8LEeMIdaP9ZS/febvNaGJsoAcnYBORwoRVe7K/hYG8F/V77Rph97wwD2U+/RSkcHWzqvg7GJspOST7xHYNYwYV4fLiFV/31oTCmJSgzJfle5BgUiQQPUzh52dFpmTCimBLHZ45OUnK4P8PqKi0ZI5MyUyJKvqiFjAlK0mIzqWEpyS45H9VNZcKkOVJzwe8UJCUjGQYMfVx/Uybw3jFh1C8+kuPnIXzHPwAAAABJRU5ErkJggg==",
     "wiki_name": "Fish sack barrel (Open)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fish_sack_barrel#Open",
     "equipment": {

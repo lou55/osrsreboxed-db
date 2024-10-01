@@ -1,7 +1,7 @@
 {
     "id": 28901,
     "name": "Wyrmling bones",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Ew it's a pile of bones.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC30lEQVR4Xu2Wb0tUURDGnVcSRBJIYSILhsJmbBliLmzZkqVpmGaaYsqyZmaWiYsslEQRFFFEYNCL6EVfoS848Tunu/ffuXfVNCV8YNjde86cec7MM3O3oeH/hWj0yQFCdHK2ooeIlOil3oHDRWhotJxAiGee/TOIzi280pYz7ZHAousvv+v84hsdnVjeD1JJB1oNZdq7YoR4Xrg2rrnu/r0mJNqbv5VyqGi267JjXXR47KE2Nh5zrG0LSU6i+at3Ug51CdtqZ3q+qmc7u1N8EyH6cevXH0eXs2j/wFTiGqXx18RoZ6b0QhefftjNWBDjjPhG7i6l1FwSBGoz4XUbIocE5eJ3aeltykUTIdpXuF3HUfTx2mederAR2GefQeBK8Z652OBISXv6Bk3WsJXKliGVPB6cCKY9zUlMAEoCsbHJFbN/YeV9TUdk+fiJk7Wzqq9/6sTMWkrJnfA1wgHpjqLPq9/0XC5v9nml6cz26Gx503TV+P3VGiG+3xieq9OpMYhx8m4YFmkUNgjBH61+MprBt7WtI9DiVpd8UsqmpuaU85zwXwHcGA14B0d3Wogpl6cNbh+fN6Ll5XeBc5LOikG0svnDdFBYR8GuihtCRkd0GEImE/GgljgN45U2vO6Edbo+NKtP1r9E5oaYoKSf0vCJQD1S5y8UTKDizWnHuBBTVsiyb5tkgO0wCLm1Y4NDhvKQEbSD8ZvMkIH4+8z6cmZ7R86xlgo7/r3Oia5ahEsW10c9vx3B3uR0S8YRxG20eXKgXZGIwrYzekLMaIXyMATRAt/REb+fbXzVtkzWjAg/sE+WfehqT0i5jMCIE50RCMK++K2hMS4T3PcXhOqlOE4SAgxE/prQYRjzCJEz9SHkFnpd2KEYTn94PWrsbz7VGprMybZjSKC74oZmMKYyncWL1L/5rgLWQ1jMGMMOLVAS9IBRCv+f474QCSKeGc/QxcWeouNddWAIEjzCEWr4DRHMaqTt38N8AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xu2Wb0tUURDGPa8kiCSQwkQUQ8EM0xBT2LIlS9MwzTTFlEUzsy0TRYSSKIIiiggMehG96Cv0BSd+53TuuXvuPdd1TZPogWF37/kzz8w8M3erqv5dKPGf/EUomZzdkCNESsnFngFNqLOp6SiQUjI0uhAgRNasHRqUzC2+lLozzZ5jJesvvsn80msZnVg5CFKhC42GGpvbvSyZ57mr49LR1R/IYMVQ0tN3MyNKJW3tl1KcKhkeeyDV1cdS1spC2GHfldsZl6YJ22hnen5LzrZ2ZZwNQsmHnZ+/s5BGTEn/wFRwjdI4p0prZ6bwXJaevI/Gwh4IKX0Y8Y3cWY5q7u/iWbpATSZstyFySFAufheW32QEGoSS3tyt6CDRJCNS8mjtk0zd34w5MM8gcDl/Vwc2OFKQ7t5BnTWsuLGjSVnCpXcG4dJuCfk7DJR2QEkgNjZZ1PsXi+8iHZHl4ydORndtvfohEzNrUcnDd5fAaYQLsiNR8mzrq5zr6NP7bGla27pldmFbd9X4vdWIEN+vD89FnVo2IQ7ZCF220mCc4Pzh6ketGc7WN7RELY5RPj4pZU1NbUSmbEK2xkSMBuzF/k4DpctltUH08Xlju21h5W3snj1kZ2P7u+6guI4w11VJQ8joiA5DyGQi6dQQp2Fsad1aEObQtaFZebz+2ZsbSjsl/ZSGTwRqSZ2/kNOO8jemU14RSpcVsuyza2VkyXQYhOIDLn4xBhnKQ0bQDsZvMkMGku8zd3dzS0fKWibM+Led4x+02Yqbr49kIBZZa0GYSE7XNSachIw2jztKy6q9fY9kLEw7oyfEjFYoD0MQLfAdHfH76eYXaWhs0yPCOXZk2Yeu4qQqRDITGI4RJzrDEYTdf2ljaIxg4vt4XkFmgEuxX4I0/VgCDET+mtBhGPMIkTP1IWSF7nvbBWYolqa/dN039teeqi+ZzCGrQD8q6q40QzMYU5nO4kXqIk+KOs18j7ugVMwYww4tUBL0gFEK+8/RJ+Lf+AeQzIw1dNHZnU+8qw6IiIOfZud0X3o4GBxaVv4jA78AwVfXmOwYEkEAAAAASUVORK5CYII=",
     "wiki_name": "Wyrmling bones",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wyrmling_bones",
     "equipment": null,

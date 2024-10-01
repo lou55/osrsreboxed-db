@@ -1,7 +1,7 @@
 {
     "id": 17004,
     "name": "Embalming manual",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-26",
     "duplicate": true,
     "examine": "Written by Bod E. Wrapper.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACl0lEQVR4Xu2V0UtUQRSHnYce8kWiMDJMUrZQI2vJNFoWFrREhApLlkQUwQgikiKKiApEQxJfjEJERCpLFI3o/zvxzeW4s9d7Zb1zzQ068GOY3bn3fnN+58zU1PzbYSRQVYSRXLZFui+drRYoI/nOTDVBGSl0nasmKCM911pTgEqtDo3czLXtAVWZWN9QX+cLZWSgcFH68+2xUJ0XmuzInN/5n3Wsd59rbjzhC0MYud3TUQa1vPhsl+KgXLAUYAgjgzcul0GFYeKk2UTH62rTA7rXl7VQALFbPkA2VGEQpBlSa4tDBaeeEkfwgjAMH9D6Ccu1TNfy+8hwr2TbGq21CaGMFPuv2OxgF1a5O3YVB4WYY9f4aJ8Fam0+mQSoBKPZURjVXlAKxHjm1LEymH22fWARIFF1o+0eB+YCIQCA6Th/OhmMmxXtLLVKgSqBYiQjXjBuVgBxYVT7gfKGcbOCTWqVnrJRUFFgCtOeaUgCQ5ROYj34VAoUhooDo6XJigcMEVyc+lFAqKWJoZyM3OraaXsXNgyJTYBwV3nCaBjJNNXL5ONBmZ2ZsCft+rc38mvrg/zcnJXxu9dl7E53ZNEDSnYUAiBvGF7KDqfejsnC/CNZWXouG2vv5Pf2/A7U9saMzZrCkb37A1fts1jGc2pX7dEj/kAUIzvFCubaaZqJze9TVlvr0/KwmLdwzAFfW31lNwEQ7e4BQwRA7JL6AABb2L3Wj4p1q8sv5OvKSwuBfnx5be1FwLCxVIAUAiuwhAwwRoGRxc8LT6wWP07K0qenVnRZwrsqHMGVESetF7fj9H6jCebeP7Ci2zwLutIowemJ7h4F2I1VjH8BJhwBGNnR4ndP9UMA0ihlDav0UD1EIDfcmvsfBxd/AI4VULWBZsWUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuUlEQVR4Xt2W0UsUURTGvQ895ItEYWSYZmyhRtqSabQsLFiJCBWWLIUkghFEJEUUERVIhhS+GIWIiFSWKBrR/3fid4ez3r07o7MzS20d+Bhmnd37u993zh0bGv7tMhKoLspILntCBnqP1wuUkXxfpp6gjBT6T9YTlJHBC501gKpZHxq5kuvaBSqeeL6luSktlJGRwhkZzndHQvWdbrNX7vmcv/Mcz7vf62g9ZGF629ut/JVilpFrgz1lUMuLjysUBeWC1QCGMjJ6+WwZlA8TJXUTHWxqLAH5K1RZRm4OZS0UQOyWBXBD5YMgdUijLY4VnH5KXMEP+DAsoP3jy41Mn+Xz8duXJNvVaqNNCGWkOHzOukNcROXu2FUUFOKeuCbvDFmgzo7DSaLbgVF3FEa1G5QCcT125EAZjI59TKAgIkDC+kbHPQrMBUIAANNz6mgFTAygcld0sjQqBYoDxRVHUsG4rgDiwqiqgUoN47pCTBqVnrJhUGFgCtOdaUkCQ+2cxHrwqRTIh4oCY6RxJQUMFbw4dVFA6KWpsZyMX+0vjb0L60MSEyC8q1LCaBnJtDXL9INRmZudsift+teX8nPrnfzYnJPJGxdl4vpAaNMDijsKAVBqGH6UHc68mpCF+fuysvRENtZey6/t+RLU9sasdU3hcO/WyHn7XSLjexpX4/59JSB/tRgVANGM7JQouNdJUyc2v81Yba2/kXvFvIXjHvC11ed2EwAx7incoQIgdkl/AEAs7F77R8Vzq8tP5cvKMwuBvn9+YeNFwLCxFO5QAZBCEAWR4ADXMDBc/LTw0Grxw7QsfXxkxZQlfFf5VfnvpivtF3fi9P3GELx/e9eKaavyXRVdmnmYXDg90d2jgLiJiqvCpAbaq3w43NHmd0/1mrhTbfmuEZUeqn8FSMt37Y/FFafKe+4/qd+wX5WFWW1lRgAAAABJRU5ErkJggg==",
     "wiki_name": "Embalming manual",
     "wiki_url": "https://oldschool.runescape.wiki/w/Embalming_manual",
     "equipment": null,

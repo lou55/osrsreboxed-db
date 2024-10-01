@@ -1,7 +1,7 @@
 {
     "id": 1680,
     "name": "Ruby amulet (u)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "It needs a string so I can wear it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2UlEQVR4Xu3VW2sTQRQH8IRSSkLYJ7+NfgAFUYuiVauiomK9gChKKZZaQ/HaUmIVlQZbQi2lphSveK0Kvomi4JMPRcGvceQ/y397dnY2zV4UHxw47GZmkvll5uzZQuHfb0Vxh2v8j7eiXB3YKpf7u02MnNsi1TObTRDRGN8vU6P7pH5trwNl/4nMcB9EFEAMGzN5pVdujewKLYzPGLMjjEqELMro+W0RFK6AMAiaqPbI+NB2MxdXFwjzNfrV3IA8nzmdDkUQ7rk7BN25tNuAODcOhO+9mO2XpeYFedu8aECJMPhR/muCsKgLVBveEYBw7wLN1A6EQLhvE1QMHQMWYnLjsw3C4kDweONAczcP5QfiLqHPBeJOEoRds0EPbh8OQIhEIOaFDcLiNkgndCvQwt0jYdD9s9lB6AeIKO4k5vDpiQMtTh7NF4QAQIOIQGxY3yHr1naYexuEuU+mjgeg1/OD7WLQwiCNwo8ThHkTtZJUh7uksaZkYtPGeNDT6ZNpQWgr2+8CYezxw7I0pn0IY09vp9kpjNugZ41TaUF+DcIOuUAY//a1Ih/eV2RxoRwCIXb2RFH4ExqUoCj6j7wLhCDo109PvnyuyLulKOjEsU7xvEIAwu7kCiIKgQVQcTHvx7Innz5W5M3LsjTny3KvXpKx6yUZGuwK7U6uIL1LuBLEPEIsf/cMCvnEPjt/Zm8cDECo0m1i0PwnxAXi64AgwNFPBALHiu9oEObitaF3KBXIziM+ygThs67QzDMN4nHhtZEbiCj0YwGCMK6LJu71TmoQqrQGJUD5INexpQVh/qN6XwBCDUpQh8IgfWwahCv67eOyQYBnBiFZVwNhMfS5QMw1HlduIPvY0K9BdkKzVuF7nAsQHnkNQg1KXIdcx6ZBfOTjQDp/cgG5jk2DMOZKaATm6fzJCEJbKXStws4fhg1CUdQgRgJQuy2KZOj8+YugVi2KjMb/lq39BjtufBa3N2/ZAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4Xs3VW2sTQRQH8IRSSkLYJz9AP4Lv+gEsiBcUrVoVFRWvIIpSiqXWUNRqS4lVVBpsCbWUmlK84rUq+CaKgk8+FAW/xpH/Lv/N2ZPZmE1W6cBhNzOzmV9mzp5kMqu/ZcUdrvF/3rIyOrBNrvZv9WPkwhYpntvsBxGViQMyPbZfytf3OVD2R7QND0BEAcSwmKlrfXJ7ZHdkYXzGmI0oKhEyK2MXt9ehcAWEQdBksVcmhnb4c3F1gTBfo1/PD8iL2bOtoQjCPXeHoLtX9vggzo0D4bmXc/2yXL0k76qXfRDWWNvd7Ydd3bRg2/mrCcKiLlBpeGcIwr0LNFs6GAHhniC7umnZyDFgISY3PlsQFgeCxxsHmr91OD0Qdwl9LhB3kiDsmgU9vHMkBCESgZgXFoTFLUgndCPQ4r2jUdCD8+2D0A8QUdxJzOHbEwdamjqWLggBgAYRgejZ0CHr13X49xaEuU+nT4agNwuDISYxSKPw5QRh3mQpJ8XhLqmsyfmxaWM86NnMaSfIrh7TatvvAmHsyaO8VGYCCGNvX6e/Uxi3oOeVM62CghqEHXKBMP79W0E+fijI0mI+AkLs6q1H4UdokC6KdnXTglfeBUIQ9PuXJ1+/FOT9cj3o1IlO8bxMCMLupAoiCoEFUHEx7+eKJ58/FeTtq7xUF/Jyv5yT8Rs5GRrsiuxOqiC9S7gSxDxCrPzwfBTyiX02f+ZuHgpBqNLENAXCG+IC8e+AIMDRTwQCx4pnNAhz8behd6jJ3UGrgWwe8VUmCJ91hWaeaRCPC38bqYGIQj8WIAjjumjiXu+kBqFKaxBRdnVHC0CuY2sVhPmPy8dDEGpQgjoUBelj0yBc0W+Py4IAbxuEZP0bCIuhzwVirvG4UgPZY0O/BtmEZq3Cc5wLEF55DUINSlyHXMemQXzl40A6f1IBuY5NgzDmSmgE5un8aROEVit0jcLmD8OCUBQ1iJEAlMmwrDcKC9Sh8ycVULPNIpvBMmpz/1OzSFfYZ1Z1+wOFcsaiigCcVwAAAABJRU5ErkJggg==",
     "wiki_name": "Ruby amulet (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ruby_amulet_(u)",
     "equipment": null,

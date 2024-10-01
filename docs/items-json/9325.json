@@ -1,7 +1,7 @@
 {
     "id": 9325,
     "name": "Adamant bolts (p)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Adamantite crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqUlEQVR4Xu2UUUsCQRDH3SfpI4iUoCiciZqYKVgSFBEEFhT1EaJ3n3rPD+AHnhqH2Z2d2yBo7urh/rC4M7vn/vY/c1erVSpcDnSmZEkAB9OnI9C5MC9cGsBBs9uM4pIBJYCD/qIP9YO6jydXkxzgaC1jUzkYLAdwmJEDi/UCsrPMw5w/XuwBJczqtQvZdaMIIAfLhyUMVyNoHbf2B8zv5tCb9jwQxgGQnsH9sWNmogPRofaw7SHkHMslAfECsWOmotuyOwwgY72ed8xMX2/Ozam4PeXC7R3Mbme5csWOmYpuz83MANqtzkknBxRKaqa0O9hL38eUC8CmSr0pcTOnyoXPFAKTcmd8OY7i1MewVHd0r+jyxcBmInf04eiGjOPmplwhjcw3b7T5s0/jJ+Uzh9lu3/dDNi7nAiDt1Q7G8a8VDsbeeXm+j2DwTeIc56WDWGJDGFQ4nEvDMc53uw8fa2gcxl/lcDj2wWbz5oHwF/sJyyGB0DEZx+U0UWhmWa4UEDvCMe7nvP5XAxFYmMtcvMZAGpbW/0Rp9/SukkWu/SMglixnpUqVvD4BbUjEljY8gdEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwElEQVR4Xu2U0UoCQRSGd6+kRxApRVFYEzUxUzAlKCIILCjqEaJ7r7rPB/CBT51d/pkzsyMUnjUhfxhmz3Hc+eY/ZyeKDipcMfmZHUsCxDR8PiE/Z58Llw8QU6VZSeN+rZbOOwa0ADzakzaVjkomHlwPcoC9BdarK6bOtEPHSebAZDGh5CIxMJdPsxRQwszfmpTclEVOTTFNH6fUnfeoelpNNxjfj6k1bBkgjgEIIF7vOqambEN2qN6tGwj5zOWSgHwA6Zg6kHQHADL2f887pqbvL+f23Jwe5cDpeYzuRrlyScfUgfj0aGYA+G41zho5IJRUESjsDvfSphg5ACv3T+hLcZs5VC7+TyEwIXf6V30nDl2G0h3/rVso7I7fK375JLAiUOaOvzm7IWPZ3H45VWFw8nI9u/YxflI+xEpAMa1WH+mQjYscADeVz423lt2Ye+f15cGB4S8JOeSlg1ziwtxBaRDz83r9aWIfmofyrWw35z5YLt8NEM/cT1wOCcSOydgtp4psM8tyhYDgCGJej7wiUBShOe2L7SwHcgDyYf33bi3ZmHKWI1sZdk/Vpd/LvRr2AChf6j8HgvYK5qB/qy/HlySyv5fmbQAAAABJRU5ErkJggg==",
     "wiki_name": "Adamant bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_bolts#Unpoisoned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 23114,
     "name": "Mystic set (blue)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-03-14",
     "duplicate": true,
     "examine": "A set containing blue mystic hat, robe top and bottom, gloves and boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xu3Xy2sTQRwH8OZUvCji3ZKGRtpI0wZNI42xITF9GExCmhiTmNpqUQsiVVFKUXyU4otCqQ8QLAglliI9eVCLYv8sTz/5zvILs5PJYzeJeHDgy25mp7uf3Z2ZnXZ1/fvFQfrojne8OOjlcpqeL6VEVu8naeVuQoQRW+uz9HFthjZflTQo9SZahhsgRgHEUTEfXhTp3WredGH8xjE1ZpQlpIPWHkxXobAFhMOgNys5Wn+UFW2x1YHQXkb/2Fmm7+U79lAMwj4/HQa9f1YQIG5bC4S/29teol+7j2l/96kAWcLgpHzX8p21EhmEfaO+YXGYXgN+Z8JHKTd1gkIn+2gq5KF4eJCSUS+lY8OUmfCJY/m4ny4lRuhyKkBz06M0nw3S9VxIbHHc4zwoztV2UHjETdFT/TQeHNDiAAMKkIX8GYFCvQxCLIG4X+hAgSEnBX2uCg4woABCGzwlxtwqRcRWC/p0rzUQ7hyQ20W/pXQMhDvHU1Ev2Cg60M/PD5vFoFSDctEeAcIrUi/YKAzyug7ZBaEYw3TjyYUKCB1VBn3b26+bNoKMOQhPSAVhdF1LD4moADncBtGBLEyKxpDXgTC3YEQVJj2VnL9RFmEI/5bbdBxUOne8kloguU1bQQjqCjGnmFswEV5NeSsZWPxtAnGd3IZBPvdhcS7M0k1iUIwRVg+0kBkWwYVVENdzGxEFhCdkC8QoGYQZmTvrge5uEbkD6+o7CsI3Cx0VfWM2MWh6NbWiA1lAGSD5taFuZqJXfCQBSo71UTripuzZY3Rx3Bh1DNSFQf7+I+JcmIMszENmEC9NGYQPaMTfQ7GAkyZHeyl+2lUTqI4y2yCMslognBhfe3zTeAnCX3oc46UHpgi0v1kcax+IUTIICF4P8VpIxuB7xxhA5OUHgzAHWZ6HdK+tHcGizBZIfW3o3KjDwr68MSeOyf+VYB8rAwTteFGPttuvr9CXzQX6urVoB4RSfWe6yBg5Kmjn7bwJxLEAarZUIzl4kgDh6fxFUL1SjazO/9Ja+QNbR4rP5waTFAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xs3X7UtTURwH8PlKelNE79M5XOjCzVFz4VqOrfnQaBtza21rpiXVIMKKQqToQaQnBLEHCBICWSLhq15UUuSf1atffM/lN889ns3dPYQHvmw793jP5557z7lHm+3glw7SR3e87aWDXi+k6OV8UmTpYYIW78dFGLG+Mk2fl6do7U1Rg1Ivomm4AWIUQBwV8+lVgT4s5Uwd4zeOqTGjLCE7aPnR5B4UPgHhMOjdYpZWnmREW3zqQGgvo39tLtDP8r3GUAzCdx4dBn18kRcgblsNhL/b3pinP1tPaWfruQChD093t4jau1KMYeerlq+smcggfEddXRj5NuB3OnScshOnKHi6lyaCLoqFBigRcVMqOkjpMa84lov56Ep8iK4m/TQzOUyzmQDdzAbFJ4677IfFuVoOCg05KXKmj0YD/VocYEABUsqdEyjUyyDEEoifCx3I77FTwOuo4AADCiC0wSgx5k4xLD61oC8PmgPhygG5W/BZSttAuHKMitrhftGBfn99XME0BMpGugQIt0jtcL8wyO04ogWpvVcpxjRdfXapAsKDKoN+bO/UTAtBxhqEEVJBmF03Uh4RFSCH2yA6kLwoqr0rxZjyOhDWFsyo/Lirkou3yiIM4d9ym7aDihdOVlINJLdpKQhBXT5qF2sLFsLrSXcl/XN/TSCuk9swyOs8Ks6FVZoxdYEww2qBSulBEXSsgrie24goIIxQnaODsgtilAzCiswP66HOThH5AdbVtxWEdxYeVDwb0/EB062pFh2IUWrvmmKA5NuGuqmxHvGSBCgx0kupsJMy50/Q5VFj1jFQFwb5+o6Jc2ENsrAOmUG8NWUQXqBhXxdF/XYaH+6h2FlHVaA6yxoGYZZVA+HEeNvjncZbEH7T4xhvPbBEoP3twkjrQIySQUDwfoj3QjIG7zvGACJvPxiENcjyOqS7ba0INmUNgdTbhocbddjYl1dnxDH5vxJ8x84AQTve1KPtxttr9G2tRN/X5xoBoey9Ml1kjBwVtPl+1gTiWADZbLys14oKlIORBAij0xJQvUVF1oPl7Lb9T0VF6qL+zYEu/wClS9Vb+HDT2QAAAABJRU5ErkJggg==",
     "wiki_name": "Mystic set (blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_set_(blue)",
     "equipment": null,

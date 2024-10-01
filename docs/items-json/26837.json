@@ -1,7 +1,7 @@
 {
     "id": 26837,
     "name": "Abyssal lantern (oak logs)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": true,
     "examine": "A lantern containing power from the Abyss. It's been lit with some oak logs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAD/UlEQVR4Xt2W3W/aVhjGffgIxrgEhjHFFAifjvk0FHAIYYSVJCXNmqxpM62apmo3k3ZR9WJXu5h2udvd7b99dt5j2SGZNmnCW6q+0iNz8DHvj+d9zzmWpE8vGG71oOFCGLldNCo6cpr6kFAM66Ky4Qx7aCAKhpNy+mMBYpgaSVRLGpbF3Y+hhxhKhuuOEo/iZmQ+JBSHiEVx5HQEDI3njYK4JtX4/w3FcNGriaSbQLcQfweztXu3q+e+yB26Uv8MSzmh+3Puq9eqivnu+F8HQ6NaED/iDC1YpSLisZgoB62kn988FyWalPNoGxr6BV2Mr+wGPry9FvMKmoZpuwWrUUSBz9kCxgu3WT0IamDa/K6nA1yMezgbtHBgVlDNaWiXDDGm7+n+28UEXx0fCV0upkJbwnjB+2V+gPVsInR2MBKiz5T8fNTGsFoUsDS+cvr+HNJqMhQuBwRDwdA2y6J8m1qObZGQYMkFKgdBEgDdWwx7OLI74tkAYbxgsPd1tOqfoVlJiX4g5fW0Ly2z+xd5zsg7UtBQDLsJCUmuVkVFrSD7STehSNRvayeM66WK1fQxb2yGWDRQIL7RKRLUuKvqEwWNYgxFXcJhm/ESKbicKwLGscJIqRLG+wyLQRzz0WNkUww7kYCBFFniS96VocmoGDJKHMhu8IafKfj1+5gPlEtLMIsM1l4MTt/ggAyRsCQUAJRbf7KcRE7p6QgKuoxWmWFiMbw+juC3H1wgi39X0knuPNvK8w1UQjjkKhAg7995UuQwMmkFA+7Owmb4+iyH39/LAqhfY7y/GLSkO69S1PznQszVllDM/yFSxywgr8V8d1ZPw/j2PIdf3rkOjffDaPJy1QwJ+UwEzT1NOBSNuNoShoL5dpM6Zg7mnsp7JcSPhJAAIKA/fnJXnQdETlX5SmzupUUPUdkDWvp3S9auZ3EyCuHZMIRZ1wX68I2O9zeqAFo7EdFHhx2Gbj0Os6yKVUaLghQIEC1ZkjOoo29qOOoyfMGBKPHlIot3LxI+0M0qgVk/gZczGfNBClZFgZFheMS3C1IAQBTuxjbqVWBWNZyOo7ia72DSkvHqOHEH6Lt1AieOghfzLC4+19GuyHy/cjdVUmBAVH+7/QS1UgozO4urYw0/vsmKl7P1aoLXL+cC6Gw5woC/uNH5dX7Ie6qTxFNLRfpRYDAUzN8U6ehwumk8m2TEOw4lHtlNLKY9AURXAqJ79Nx+KYQ63wYyyUCBKNzGJNspAY0vTg/884sOWu+daTpuCZF7LgQTjR04EJ1jdE69et4TpVnObZGYHKJTnZyhN0vSJhQpl/4PgL5c9XB52hUwq8VQAFEySkwQBEaiz54zdxV43E/wT/oE408H/26H1ckmAAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAEIUlEQVR4Xt2W23PaRhTGtVyMEARDESKIcL/I4ioIF2NMMQ22g+PGbpy400ynk+lLZ/qQyUOf+tDpY1/71v/2657VSMak7jRFjTM9M9+IhZXOj++c3ZUk/f+C4Ub3GjaEnt5FraQhrUbvE4phlVPWnGEukFUs3h/UcSHxqQAxTPQYynkVi9yuC0Uw9waU1213lHAQ1wNjrXwfPThEKIjDcUvA0HhWy4prLBr+2FAM552KSLoOdNM7d5Vta/fW95bbInfoSv3Tz6eFNudsqtMoi/n2+IODoVbOioeM+ybMfA7hUEiUg1bSz6+eihKNChk0dRXdrCbGl1YN715fiXlZVcWk2YBZyyHL5zgwf+3ePwq7WR0IamDa/K4mPZwPOzjtNbBvlFBOq2jmdTGm7+n31/MRvjo6FLqYT4S2hHGC98tsH6vpSOh0fyBEnyn52aCJfjknYGl8Oe66c0jLUV+47BEMBUPTKIjyrWsxtERCgiUXqBwESQD027zfwaHVEvd6COMEf+Cehkb1M9RLcdEPpIyWcKUmd9+T44y8I/3bRr4rGHYjEmJcjVIUlazsJl2HIlG/rcZ+XC2iWE4e8sZmCAVtII8c4hudIiEatlV+pKCWCyGnSThoMl4iBRczRcCMTT/iUQnDPYZ5L4zZ4CFScYadgMdAiizxJW9LV2WUdBl5DmTVeMNPFfz6fcgFSickGDkGsxjCuKtzQIaAXxLyoGx2/clyEjmlJQLIajIaBYaRyfDyKIDffrCBTP5dXiPZ8ywzwzdQCX6fLQ9cuvl3jhTZj2RCQY+7M7cYvj5N4/e3sgDqVhjvLwY1Zs8r5VT3Ph+ztaVLzH0QqWVkkVFDrjvLx358e5bGL29sh4Z7ftR5uSq6hEwygHpRFQ4FA7Y8WP7MtZvUMtIwilHeKz5+JPgEAAH98ZO96hwgcqrMV2K9mBA9RGV3lv4WMBS3S9aspnA88OFJ34dp2wZ6942Gt9dRAbQaB0QfHbQY2tUwjEJUrDJaFCRPgGjJksa9KrqGisM2wxcciBJfzFN48yziAl0vI5h2I3g+lTHrxWGWFOhJhgd8uyB5AERhb2yDTglGWcXJMIjL2Q5GDRkvjiK3gL5bRXA8VvBslsL55xqaJZnvV/amSvIMiOpvNR+hko9jaqVweaTix1cp8XK2Wo7w8vlMAJ0uBujxFzc6v84OeE+1YnhsRpF44ElDO8HcTZGOjnE7gSejpHjHocQDq475pCOA6EpA9Bvdt5f3ocq3gWTMM3ecsBuTbKcEND4/2XfPLzponXemybAhRO7RPBI1tudAdI7ROfXiaUeUZjGzRGJyiE51cobeLEnrUKR04j8A+nLZwcVJW8As530BRMkoMUEQGIk+O86sy6P+WY/3k9wlJ/mmNp+4dWwm+Dtt3vuh8Sdb+LNXgHsCRgAAAABJRU5ErkJggg==",
     "wiki_name": "Abyssal lantern (Oak)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_lantern#Oak",
     "equipment": null,

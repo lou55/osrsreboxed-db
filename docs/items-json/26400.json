@@ -1,7 +1,7 @@
 {
     "id": 26400,
     "name": "Ancient ceremonial boots",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-05",
     "duplicate": true,
     "examine": "Some ceremonial boots dedicated to an ancient god.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu3W/0sUQRjHce8nScKQJEnJMMkw+l8qioqKoqKiiCCKQqSoFOkbgtgXKhQMMZEygqgoivrLJt67fI5nn507dvfW6IcGHm5vZu7mtfPMDNPV9e+XRohHrH3DSyM8njwUHk4cTGLm1oEwfWN/EkIsz50JS7Onw+KTUxGUf4mO4SlIKEAKj1l4dDK8mDmeGZjvtPnIokohG2H29uEcik8gCoGeTR8Lc3ePJH35jIHob9E/1ibDt5Xr1VAC8azZEejVgxMJSH1bgfjd99WJ8Gv9Xvi9PpWASmH4U721QAwaA83fP9oE8RwDrcyfzYB4LghqZNLAQFrcfPcgpUDpbQVae36+PpBmiTqBBNnU3Z2EUICYNQ96//JCE0SUAmldeBBvDshCYiBhFYA+vL6YBb292TmIetr3jo2FPaOjYffISNjS25sBtcJ+XLhUL4gglRa0a3g4bO7paQ7qMVv7+pJ26j8vXWmCfr67UxRDyYIsSosYELOzc2goBxJ0+8BAAmIGqf/y5mpVECX9c9ZDDKRBdwwOtgTRZkFfl69VBaVnEDPkQbTtGx8vDNrW35+gPKjEoZhu+RiIsCDSRVragWgHVStIKIJ2u37agWj3qI5BdpaEsYOB8SCBhbE7DRCndEEMJd1hHqQ3ZyCBWKzCCOTXFyB7TmmGKoGE0ltbkHaPBYHx6SRVGw4ilAalQhg/O+rnQSVQKcimrV260j/NgrW+NDvqo13GGVTiHMqCLCoWOpuUKj87tHEP+rR4uTqIXeZBulJw7WAATmzqBIrNDvXcDGoD+d1GvQXpNimUD/oCWn16LgPiDCp9DsXSZkE8WxCnuA5PfgdYfWsBxdJmQbTZa4kF0Q+Q0tUhiJKf/lhYjA0P4i5tQYoSoKIlj1TY9fMXQe1KHpmP/6Wz8gfFdn0tuX3JxAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xs3W7UsUURTH8d1XkoQhSZKSaZJh9KL/pMKoqCgqKooIoihEih5EskIQe6BCwRATKSOIiqKov+zGd4bfeubs3WVmdwwvHHZ27t29nznn3stUKpu/VUM8Yv0b3qrh6cRYmB4/ksTUncNh8tahJIRYmj0XFmfOhoVnZyIo/xBtw1OQUIAUHjP/5HR4NXUyMzHf6fORRRVCVsPM3aN1KD6BKAR6MXkizN4/lozlMwZivEX/Wp0IP5ZvtoYSiGtlR6A3j08lII1tBOJ3P1fGw5+1B+Hv2qMExBwHBweT8LO7lqZdTy0Qk8ZAcw+P10Bcx0DLc+czIK4F8rO7Vs2UgYm0uPnuQSqBytsItPryYnkgZYl7AgmypaMjCaEAkTUP+vj6Ug1EFAJpXXgQTw7IQmIgYRWAPr29nAW9v90+iPv07x8ZCfuGh8PeoaGwrasrA2qE/Tx/pVwQQSktaM/AQNja2Vmb1GO2d3cn/dz/unitBvr94V4NUxhkUVrEgMjO7v7+OpCgO3t7ExAZ5P63d9ejID97g5b+OeshBtKku/r6GoLos6DvSzdaBaVnEBnyIPoOjI7mBu3o6UlQHmQPRT+7a+mWj4EIC6JclKUZiH5QpYKEIui366cZiH6PahtksySMnQyMBwksjN1pgDilhckFYod5kJ6ciQRisQojkF9fgOw5pQzlzA5tHSSUntqCtHssCIwvJ6XacBChMqgUwvjsaJwHCeVnj7QUZMvWrFzpn2bBWl/KjsZol3EGFTiHsiCLioXOJpXKZ4c+3oO+LFxtHcQu8yC9UvDawQSc2NwTKJYd7vNmUBrI7zbuW5DeJoXywVhAK88vZECcQYXPoVjZLIhrC+IU1+HJ7wBrbCmgWNksiD77WmJBjAOkcrUJotWnPxYWY8ODeJe2IEUBUKWiY71ZeKANu35KAeVtHpkHq1gf+5+aR8bC/2ZTt38Pice5eZ+EGQAAAABJRU5ErkJggg==",
     "wiki_name": "Ancient ceremonial boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_ceremonial_boots",
     "equipment": null,

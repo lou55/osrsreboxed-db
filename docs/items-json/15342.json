@@ -1,7 +1,7 @@
 {
     "id": 15342,
     "name": "Beaver",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-11-05",
     "duplicate": true,
     "examine": "Looks like it's gotten through a lot of wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABb0lEQVR4Xu2UYWuDMBiEDUVKRBSJWFRssaMrndDCYKyDfhmMDcb+/9+57SLWNnWjXW37JQdH1Eju8X0THcfKysrKyuqaEtj3zVQDfL0usbpPME4jpMrrgDKBzfleJPC+LvFUTVBNY5RZABV68KRrBAooz0Mgpbbnuto9gwl8bB7wsswwGyeYFRGKkd8BVMPsAu1CtWBHyyxz7flE6RbR0zxGloS6XQQKfLmF+guEDhznFCCBz02F9bLE2/NCh7M1BGA4IRoQjnxOE0a7I9z0STA0YR4XxQ9MjkyFesMWiY+RqttD85pAbB3ntkByH8Ks8kkwq2muQaq7TIeE/hBxKDUQx91QzvGdqoz3gP4Z3iWhFy/TQAMwkAEM470JQ8AmtAHy5eBcCFN1ADciN2ZzGuZjtQ01K2Ae7d6BDhcXyNUQyh8YFWhhzjjOx8jsf319GNgN365zEbU/uO6vN+EvLoE0in6BuZmuWgErK6uL6xuPlQdohDnELwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkElEQVR4Xu2U4WrCMBRGG0SkpbSUlEpbqtbhxBVUBmMO/DMYG4y9/+vc7UtWm8YoKp3bIAcurUbyHe5NdByLxWKxWK4Jo3b9GlLg43lJq9uERmlEKfcMUrqwvt4JjF43JT1UY6qmMZVZQDz0yHP7InA9mXyHMuKeR4HrivL6fVEdizF6297R0zKj2SihWRFRMfQNQlJGFVKlGrGT0dssaz7mYkSoaR5TloRiXBAKfHcndUwEFTiO1s2jMHrfVrRZlvTyuBDhGA0EEA6JWgRPfI+CjChDuF61zAlCshOQuV8UXzI5ZTwUB7ZIfBpyOR4U3iGE0WFtJ+S2JfQunyWzmuZCpLrJREjoDygOXSGEpxqKNfymKuOW0KFwvfR0A0xsXqaBEEAgAhCGz7oMBOvQWsh3e0YJPekMZAAOIg5mfRvmI74L1TugX+1aSN/5QqSMujkq5wPifq/VAVVGv84dCoH2/Ov3/UCzfAdj2qfZtPmDU2WaQPPhbe/WKYzSKDogI7mSiMoPjuJS/pSMxfLf+ARCWkDAac/hNAAAAABJRU5ErkJggg==",
     "wiki_name": "Beaver (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beaver#Normal",
     "equipment": null,

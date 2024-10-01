@@ -1,7 +1,7 @@
 {
     "id": 7055,
     "name": "Chilli potato",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-30",
     "duplicate": true,
     "examine": "A baked potato with chilli con carne.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xu3W/UsUQRjA8TuWQxS5QxL9MbDfIoygMDDCoAh/sbQsK3uVkl4QoihEil5EekMQe6FCwRATKSOIiqKov2y67yzP+uzc3HV7t0U/NPAwezOzN597Znb2Mpl/v2SNP3z9f7xkzcOJA+b+eL+Nqev7zeTVfTYEsThz2ixMnzTzj054UO6PqBseggQFSMLFzD0YNs+mjsYm5jN9bsRRiZBZM33jYAmKGoiEgJ5MDpmZW4fsWGofiPEa/W1lwnxZulIbSkBcS3YE9OLeMQuSseVA3Pd1edz8WL1tfq7etaBEGL5UfrWAmNQHmr1zOAJx7QMtzZ6JgbiuEpSNLQMTyebmswtichCyvOVAK0/PpgeSLNHmAzGO+wRE1lzQ2+fnIhCRCCT7wgUxuQbpTdrR2WHrcqB3L0fjoNfX6gfRDohg3KaGxii2NzbZWu53Qe/nzqcLIlhKwWxraLIIIujLmaAnZ3Y1Ntt2+jWGbH5cuBSBvr+5WS2GEgdpFF8uoN6mvA0QgKgJgC4K0KdXY7WCKOG+YD+UA/U1F8xgc4utcwM5W/cXAxRL11rIRChAnxcv1woKzyAy5APRv6MzsICh/DozUmg1p/KtZrh4TRtZ69kS2DHr20MUP0KDEhyK4SPvAxGC2bO1COoOLGSspd1cbGkzo4U2CyRL9BOM3bwhsPelBhKUnDW9XYEZ2Jkzg8VNfGT3WoCxS9gdYhlHpJohnSVq+oG4mON7w1r6AJEhxrN/lh+PRCBO6SoxlPAJ84HkL4ZkB4QOAdEPpmvjWnZ4begM1QRy9xHt9PPrJUOVQJIdQLw2UgMJinZ5XTCpBmkMwRh53AFxSmtQAlQI8i2bgPgbEX5Z+dAHIuM/zF+IQJxBCc6hOEgvmwZR0y6vFDkWZK8JiOzUDeIp+x2IyWjzgeTFKsuVGshdNto1iMk1SM4q7pOxgHjkNYgzKPE55Fs2DeK6Ekjvn1RAvmXTIPr03xINYpzeP3WCKKVPjS/c/SPhgjgUNUgiAajaUoqU0PvnL4IqlVJkafwv9ZVf7tsScYMwRecAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xs3W/UsUQRjA8TuWQ04OD0n0x8R+i7CCwsAIgyL8xdKyrOxVSqwQoihEil5EekMQe6FCwRATKSOIiqKov2y67yzP3rPj3HXnbeHAw+zNzN587pnZ2Uul1n9JG3/4+v95SZvH44fNw7FeG5M3D5mJ6wdtCGJh+pyZnzpj5p6c9qDcH1EzPAQJCpCEi5l9NGheTJ6ITcxn+tyIo6pCps3UrSOrUNRAJAT0bGLATN85asdS+0CM1+gfy+Pm2+K1taEExLVkR0CvHpy0IBlbCsR935fGzK+Vu+b3yn0LYo5tra023NmdEqZdfrWAmNQHmrl3LAJx7QMtzpyPgbgWkDu7U9KxZWAi2dx8dkFMDkKWtxRo+fmF5ECSJdp8IMZxn4DImgt6//JiBCKqAsm+cEFMrkF6k7a1t9m6FOjD6+E46O2N2kG0AyIYt6UuG8WubL2t5X4X9HF2JFkQwVIKZmddvUUQQU/GBF0Zszebs+30awzZ/Dx/JQL9fHc7wlQN0ii+XEDd9Q02QACiJgC6KEBf3ox6Qe7sJUq4L9gPpUA9ubzpzzXaOtOXsXVvIUCxdE35VIQC9HXh6lpB4RlEhnwg+ne3BxYw0LDBDOWbzNmGJjNYuKaNrHVtD+yYjS0hih+hQfpQdGd3SvjI+0CEYPbvKIA6AwsZbWwxlxubzXC+2QLJEv0EY7duCux9iYEEJWdNd0dg+vZkTH9hEx/fVwwwdgk7QyzjiEQzpLNETT8QF3PqQFhLHyAyxHj2z9LToQjEKS2YikA8YT6Q/MWQ7IDQISD6wXRsLmaH14bOUIXZoRRB7j6inX5+vWSoHEiyA4jXRmIgQdEurwsm1SCNIRgjjzsgTmkNEpQ7u6eEIN+yCYi/EeGXlQ59IDL+09ylCMQZVMU5FAfpZdMgatrllSLHguw1AZGdmkE8ZX8DMRltPpC8WGW5EgO5y0a7BjG5BslZxX0yFhCPvAZxBlV9DvmWTYO4LgfS+ycRkG/ZNIg+/bdEgxin90+NIMrqp8YX7v6RcEEcihokUQUolZJjvVy4QB16/yQCqrS4yEqwEsWx/6m4SF+496zr8gc47lz9Em/rDwAAAABJRU5ErkJggg==",
     "wiki_name": "Chilli potato",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chilli_potato",
     "equipment": null,

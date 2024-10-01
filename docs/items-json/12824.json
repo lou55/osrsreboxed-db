@@ -1,7 +1,7 @@
 {
     "id": 12824,
     "name": "Spectral sigil",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-16",
     "duplicate": true,
     "examine": "A sigil in the shape of a spectral symbol.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xu3W/UtTURgHcPfn9IuQRAaGFSTRC6lMbU2dpVhqLxC9IaKVjpEZg2EmFRssxETKCKKiKOove+J7Lt/rc87Oxu5L0Q8deLh3957tfO45z3nuOjr+/ZYRf/ju//GWkbWFrKzOD5oo3R+Q4p1+E0RsVS5LvTwhtacFD8p9iMTwAEQUQAwXU30yJpulvDUwPuOeGzYqEjIj5cWhBhSOgDAI2ijmpPJwxPTF0QdCf43+vrsgX7dvx0MRhHPODkEvH48aEPs2A+F733bm5efeI/m1t2JAkTD4UT41QRjUB1pfvhCCcO4Dba9PWiCctwnKWMuAgZjc+OyCMDgQXN5moN3n0+mBOEu45gNxJgnCrLmgdy+uhCBEJBDzwgVhcBekE7oV6P2rqzbozb3kIFwHiCjOpN6RzUAfqrPpghAAaBC3sA4fCH0/1a+HoB9vl9rFoNkgjcKPE4R+3QezcqRrWE4fvyHn++7K8NkH5roP9Pn1zbggtP2nbQbyzRBQOGImNQjXvmzdigsKahBmKCoIMzUzVjXnGjNbqJkjQRGKYvB0PhDCXbKjh/MyOrhqIJ0HTsqJnkm5NFKxkJi1axP19EBEIQBCxeVgPYdycurYnGTPLFqIrs5zBgIc8groVEB6lnDkEvR2j0uuvyiFoXKI4CziO/h8caAULh+COYQq3SYGLdghPhD/YvT1zsh4di0ciCVBgwhHYHnx2tBJHQvk5hEHmMptmCP66QrtgrjdAcJrIzUQlwC5Mp3fDJ8a93XRxDln0gWhSmtQBFQA0suGa9hFWKY4IGyCj7W5EIQaFKEO2SCNYmAADITr7nK5IMATg7DLXBDfT3xiDKb/A2kQXxtcrtRA7m7DdQ1yE5q1Ct9jX4B2nk1ZINSgyHXIt2wahPNWIJ0/qYB8y6ZBuOdLaARfrFyuhCC0/QRuFW7+MFwQiqIGMSKA2m2NSIbOn78IatUakY3xvyVrvwGpQFA88C7WqAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4Xs3W+0sUURQH8N3/xF/7RUoiA8MKkuhBKqu2rbqWYqk9IHohor2WJTMWFjOp2IUNMZEygqhIjPrLTnzv8p09c7q77OxO4YXDzM7c8XzmPs6YSOz/lhR/+O7/85aUlYWULM8Pusg/GJDc3X4XRGwUr0ilMCHlF1kPyr5E2/AqiCiAGBZTej4m6/lMKDF+456NMCoSMimFxaG/UDgCwiBoLZeW4qMR1xdHHwj9NXpve0F+bN5pDUUQzjk6BL15NupA7FsPhOd2t+bl185j+b3z1IGQ42BHhwub3bTqsPOtCUJSH2j1ycUAhHMfaHN1MgTCOUE2u2nJ0DQgERc3flsQkgPB6a0H2n41HR+Io4RrPhBHkiCMmgV9fH01ACEigbguLAjJLUgv6EagT2+vhUHv77cPwnWAiOJI6h1ZD/S5NBsvCAGABnEL6/CB0Pdr5UYA+vlhKcBEBmkU/jhB6Nd9KCVHu4blzImbcqHvngyfe+iu+0Df3t3ygmz2Oq32tvVAvhECCkeMpAbh2veN262CqjUIIxQVhJGaGSu5c42ZzZbdkSBdFG1206pv5wMh7JQdO5KR0cFlB+k8cEpO9kzK5ZFiCIlRuz5RiQ9EFAIgVFwm6zmcltPH5yR1djGE6Oo87yDAYV0BHQtIjxKOnILe7nFJ9+ckO1QIEBxFPIPflwbywfQhuIZQpYlpCoQd4gPxX4y+3hkZT60EiVgSNIhwBKYXnw29qJscHbQayK4jJphKr7kj+ukKbUHc7gDhsxEbiFOAtTKdWQ/eGvd10cQ5R9KCUKU1iCib3dOqID1tuIZdhGlqBYRN8KU8F4BQgyLUoTBIoxhIgES4bqfLggBvG4RdZkH8PvGNkUz/D6RB/GxwumID2d2G6xpkFzRrFZ5jX4C2Xk6FQKhBkeuQb9o0COeNQHr9xALyTZsG4Z5vQSP4YeV0tQlCqy3gRmHXD8OCUBQ1iBEBlEiwrDcKC9Sh108soGabRTaDZdT6/qdmkb6wz+zr9gfzRJrIfQ+iaQAAAABJRU5ErkJggg==",
     "wiki_name": "Spectral sigil",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spectral_sigil",
     "equipment": null,

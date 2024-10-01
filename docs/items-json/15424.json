@@ -1,7 +1,7 @@
 {
     "id": 15424,
     "name": "Sapphire glacialis",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "There's a sapphire glacialis butterfly in here.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xu3WWU9TQRQHcO4T8TOwFAhIxIRNBIRQKAq0pS20lBYkMYioBFlkEQGlIAilpS2Uyha0VpF93/l2f+cMubUs4W3Kg5zk5Db3TjK/e2bm3EZE3IWwkHB93kpIyMnIQGZqKh6np+FJVhaUubkoys+/DZgEXUkJXliq0fqqATWVlVCrivg9o0YTzDDCJDw3GdH+uhH3IiP5lbKhtpYj663WCxkGlITGurogRE7ChSZV793L+vCAaLKbQB1v3+BDczO6mppEgyQ8TE6+grmcBPnY0oLP79uRGB8vCiUhLSUFOZmZVwAyor+tDUPdXRjr64Nr0MZBj9hJfJCUJAIlITsjHfnZ2VDm5fEJbZ0dPGWEc2AAUyPDmLHbeaoKClDA2oGhtFQMSMYUK5UoUan4pASTEYtuNwI+H/7MzcI/7eVjaKy1okIMKBSjZm+tY/2GACsL89jw+3luBQI8DTodtGVlKC0uxv2EBDEgWgKOYU2QMDSpkb19lckEc1UVqs1mmNlvE2uWlQYD9OXl0DB4kigQVYcw5Wp1EGMyGjmCMBaWdKV79IzG6LVaUSftH4gmogpQJUIxlupqnnKVKvR66LQaJMbFiQE9LVTyvRMEsUpMHp/Cc3AEz/4hrBYLT1q+UFCCQiEKVMj3ROhyufcOMLG1g4ntXUydnMF7enaOPDqB+/AYDvY8PjY2PCDazI71DYyvrrHrJq/SJINMHjMMq5qLpWNnTyCoqIgfZVoKGTS6tIyvv5YwtrzKK+Xe2z+vGsM5d/dhZ/cUMTFiQM/YkSdQi20Q3eNO9Pu+Ydj/E1++/2Co33CsrTPUNpwM4WBp39zGKKugIjpaLKh1cAido3b0OF3o905jYGaOo8aWVzjKvrrO9xctLbWI2KgoMSBqilo2QeiR73V78Gnah6GFRYz4A6hhf8qoBcggGi8AQ3ENiB3vHucE+jxTsM3Oc0wQxJ7fCoj6Tq+LVcnrux7EllgQiELie0JuitShCSRDbgFEIV0AXcaEgujjGgYQhcR7EE18GUPJP7AMdA4RjpFDnuymvIv/IP4CiFEBYyybR4QAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4Xu3XWU9TQRQHcO4T8TOwlKWIImEXkKWLyNJSlq4YMQYVlQAGsApGEAgUSimllAokECpGkEV2KPDt/s4ZcptaypNMfeEkJ2nnTju/nDN3bhsXdxs3GhKi538JCSX5+SjIycHDvFw8KiqCqrQUmvLy/wGTYKiuxnOLGe2trXj/+hXqtBo+ZtTpQhlDmIRnJiN63rTjTnw8T3pN+cJmRVtLy18ZA5TEKyMjwlMGUlLlul62cVBeSopIlMQXi8SEg/revcWnzk7YOzpEgyQ8yMy8AolMggx0d2OotwfK1FRRbZOQm5WFkoKCKwA5qSrDH/rgGBjAzMgwB+VnZ+N+RoYIlITi/DyUFxdDVVaGufExvricox/tcA4O8vEFp5OnpqICpYWFuKdUimidFMI8VqlQrdVi1euFf3KSV2N+woFltxtrfj/WlxYRmPfhCZujZvMz09PFgMIxdTU1MLDzZmt1lSM2V1awEwhgd22NZ0N9PZ9TpVbjblqaGJC2svISww5BwjQaDGhubISpuRkmoxFWiwVmkwnGpiZ+rUGv53MzRIGoOrRAfV1dVIyNpcVs5mN0TUbJd5owkIyhStDiFlYVGcRR7D2NNzU0wKDXQckhAkBVahXfF+HVoRbNngbhOTiCzWpFi80WqpIMSlMoRIHU0EUBufcP4NrewdzZBXznF/AGzxnyDJ6TIFyHx0hNTo4taGpzG85fm5g9OoGXQbxBhjk+xQxL1/6hQJBGA31tLW+FDKL9MvFzA+NrP+De3Yfn8IjlMdwMN83a6GRjiqQkMSA66AjUNTiEPsck+mc8GPq2iLHAd4wur8C1tc1Qe5hmCBdL5+89TLBWKhITxYK6h0fQO+6AfcqFfrcHX3zz+LqwhIn1DY5yshbSUUCtpSMiOSFBDIgORT1bIHTLs0Xtzil89sxykIO17Sn7UUa3vgyi+TJGKEje0HT+DLAqDfkXOCYEYtcjQZHf+I9xPYjOnkGfPzqItVgQiELieyL8DqPFCSRjYgyikK6AwjHhIHrixwBEIfFNS48IelxEgqiNBKJ5gjZ0tIj8x3o1ZUgMMJcRvuB1GfmZ27jJ+AOOoCv28cuWNAAAAABJRU5ErkJggg==",
     "wiki_name": "Sapphire glacialis (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sapphire_glacialis_(item)",
     "equipment": null,

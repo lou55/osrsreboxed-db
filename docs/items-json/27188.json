@@ -1,7 +1,7 @@
 {
     "id": 27188,
     "name": "Light ballista",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-08-04",
     "duplicate": false,
     "examine": "A weapon forged from the wreckage of an airship.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADO0lEQVR4Xu3W72vaYBAH8OZFEYMooihRqkSJohatYjODWpVoramsdralUNptUPaDjcEYY2/2v9/yveyJSm3XlNKU0YODUprn+eSeuyfd2HiJl7gtJHLyWYREr+p1zmcAk6ij67S7U6NapUKJeJyCgYBfKIn2Wi1qVKsMKubzpCSTfoCcY7Esk66uThkjQMA8Mcg+oo5OipKk+fyQ+v22C/IBg5AYUS4X6Ph4QobRJKPZpEg47A+mXCjQ/qjHkOl0RKbZpVg06gcGIdF2qcS9g+ocHY0fC/OQh52JAgjjjcnCMQH0sPXckCiT9rqIRPu9Hjdzv91mUEiWuTIAycFNj+u54Yzrbj1LKSWytIi4XUWuPjMdjXikkcCgMgABo6UfDJLo26dj+vj+kC7PR3T2xn5jY5sXQvlxFNgwl8ms4KyhyRtjkvB34iYGqFtNMygWkTk9oCT69f2cfnw9ZdTn69d0MutSr1Olyb7OEIDE9S9wmqry5vhG4fOwlUq5xwSQ2cgyKKN4bQH7j/tGxu4D1S5/nn7/vGDglw8zrhg2xmbTg5abw36Df4/NgUHlFtO0Lj2FRGYnS/qOYpc+tYKbWwV6dzFemwKKShp6mZr1whrIuvxnYEpUBlWKcRuUXEF19TQn0JNBjmZjjaEAnZ8M6PqtxVVDP43Npgus1/JUKWXt3toiLZewqxi/7wQ7IFSnVk7Ybx3ih7FIKCQzplF1kADdVbkjy+C+w5FiKCLhgI1KMSQcCtpHfK/mdkBiY02N8lvtGRpfAYCgeugTfBoECC8gqoefL85MTgwEYFhHljeppCX5GvEw/k4PYWOAhr0SzSaYqDS1murf6jkfSVx8aGL8XyNAeE48L3B4AXUrzCCP/YNwQMjxoLySwAF0MOiT2e0yCmMvQKiCknCOoZgLUyIWcF/sJujesQBhMZHiONCsAKE6uHNwbOI/v2I+xj2CauKYxREDhF5EDyEB94y6LQUIH09cjpgu9BEqBACOFZiOnue+A0gMRzwW5AoC5RF0V9xEIgECYNAp8NFawwrjlkHA4OgeEXNXLGDoN4AAwzEL0BNilmMBExcpLlifMMvhwATIZ8xyiD77D+IPCh59ZsAfp5kAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYElEQVR4Xu3W62vaYBQH4OZDEYMoRVGiVBslilq0is0M1apEa7Wy2vVCoazboOzCxmCMsS/738/yO9kbY1pb7Tbthx44UNqaPDmXN66tPcdzzAqJ7HwSIdGLSoXzCcAkaug67e6UqVwsUjQSIb/PtyqURPv1OlVLJQblMhlSYjEHtLO1tSyU3Zbh0KTr63PGCBAwSwZZLWropCgxOj09onZ7zwF5MUsDAVEoZOnkZECGUSOjVqNQMLgaTCGbpYNeiyGjUY9Ms0nhjY1VYBASbefzPDuozvFx/19hHrOS9kYBhPXGZqFNAP01JpmwL+L9y+yQ6KDV4mFu7+0xKCDLXBmAZP/6gtdzwl7X3UqK4krIdRFxut51yko06vV4pZHAoDIAAaMlJqAFKyTR148n9OHdEb2+7NHFK+uJjW2+EMqPVuCG6WRyCjfsmnxjbBL+T5zEADVLCQaFQzLn7YeZGRL9/HZJ37+cM+rTzUs6Gzep1SjR4EBnCEDi+Bc4TVX55nhH4fWwGY87bQLIrKYYlFQWniPr7DCS1hyoVvkz9OvHFQM/vx9zxXBj3Gx0WHey267y73FzYFC5yTvqdi6AQUhkNlKk7yhW6eNTuNNhlt5e9e9MAUUlDb1AtUr2FuTufDCwJSqDirmIBYpNoZp6ghPoQSdN477GUIAuzzp082bIVcM89c2aA6yUM1TMp6zZ2iQtHbWqGJl3g20QqlMuRK2nDvCHcZFAQGZMtWQjAbqvcsdDg+cOLcVShII+CxVnSDDgt1psD/cD7bNB4saausFPtW9ofAQAguphTvBqECA8gKgefr66MDmxEIDhOrK8TnktxseIe/0fBKEduDFA3VaexgNsVILqNfVP9eyXJA4+DDG+1wgQPic+L3B4AHUzyCD3/MyBQdggZL9TmErgADrstMlsNhmFtRcgVEGJ2m3IpYMUDfucB/OC5sQgJiBcTKRoB4YVIFQHZw7aJr755TJhnhFUE20WLQYIs4gZQgI+xzC7w7uakxQgvDxxOGK7MEeoEABoKzANPcNzB5BYjkjYzxUESlTJe+eZIUrqTS9QJEAAdBpZbu2wW2ScGwQMWicwC4HuCy/SDQUM8wYQYGizAP0XzH3hhYmDFAfs0jHucMMEaGUYd7hhK8e447GY31dnxoPLIpwgAAAAAElFTkSuQmCC",
     "wiki_name": "Light ballista (Last Man Standing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Light_ballista_(Last_Man_Standing)",
     "equipment": {

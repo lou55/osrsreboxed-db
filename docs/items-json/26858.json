@@ -1,7 +1,7 @@
 {
     "id": 26858,
     "name": "Hat of the eye (red)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "The perfect hat for runecrafting.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xu2WvUtbURjGPRwOlxtCJCiKiilRjPhBYoKaFGMjSAp2cBAcHCxkcLAgRXDoICWDpUMoFsGpuDkKToWWbv1a2lLo0D+gQ9f+CU/Pc25PchNSMAo5iy/8ILmQyy/nfd733p6e2+paCTRwXgJjiQT64nH4nudaSmA6lcLo8DB6YzFEIxGXUgK5dBqT4+MYGhw0MhPJpCshgbvz88jMzBiJgf5+I8LWOZBhCeSzWcxOTdXzw2t3RkbcCS3MZUx+KMH8OJwygeLiosmPDTTz40iGFeQnHGhHQbbVPtBOhSjD02G77EJ0KNXYPww0T8guREdSgRADzZFnhjhlSkoXQgL3CgWzg9g2x4+NYM9w/7x5GsHZI9+cEFtGIdIFIbvsBPYeKJxu+fh9FsP3F1G8q0ZQe+iZUFsolEvI+m9a73aDCm64q2Zx2OuZMT9/7OPPeQzfPn/C28tLvL64MELFKWlOyUIhtq95e99ITmBLpXCkRZiXlaUl3C+V8PMkil+vYvjy8YMR+lqL4rjiYz0tUdZSKymJfFIaIdvC8OldU0ygFm+IkNXl5fpnQqkfL6N4/yyCyqrCdimA4ebE8ZTCIoTXMkqiKIc6kRI4ifuGsBDhd8JnGGELCXcRtzXDzZ1kpaxYUyu1UF4OXlVIYN+bQ9VbxGmfb7AS7UQ49oRCrVJWrFUu73UkxBI48LI48gpGiCd1rGknwtG3rx9hqXZiK1qkqMnJAUMHQqxA6tBbqAsxU881YRFuasIXNEq1E1v3JdY05aaT6UjGVjDuFLNCnLiqhivgSczDgWb/H7tRhR3NdiRgS7Op2fCVkeqwTf+r4N/sqBmTLbKnMkaU1ypqGttq0sAVsakmsKHGsC6TWJMJlOWoocOpukqFF9t1ua3b6l79BVSBAQ9BqrrKAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwUlEQVR4Xu2WvUtbYRTGvby8XG4IkaAoKqZGMRKVfKFJirEJiAU7ZBAcMqTg4GBBiuDQQUoGS4dQLIJTcXMUnAot3fq1tKXQoX9Ah679E56+z3v7JrchhSYpuUU88AMNePl5znNO7sDAdfWtLDTxvSxMRyIYCofh2LbfUhbmYzFMjo9jMBRCMBDwU8pCJpHA3MwMxkZHtcxsNNoQSk1N9VPKws2lJSQXFrTEyPCwFuHojEzfhXLpNBbj8UZ++NmNiQk/usOysJxK6vxQgvkxW+ZLdwrZrM6PCTTz45MMy82PN9A+BdlU+0D7KkQZdofjMgfxv7g/DDQ7ZA6iT1KuEAPNlWeGuGVSCD9GZ+FWPq9vEMf2p6+NPgm5d4b358XDAM7uObpDHBmFSB+Emq8Ve3ckTisOvp+F8PlJEK9qAdTv2jrUBgplIqLxN61P66HcB+7KRRwO2nrNz+87+HEewqf37/Dy8hLPLy60UCEudJcMFOL4vNe7RzkLFRnDkRJhXkorK7hdLOLrSRDfnoXw4e0bLfSxHsTxtoNyQmBdSZViArmo0EJmhN7udSlmoR5uipC11dXGz4RSX54G8fpRANtrEtWiC8PNjWOXvCKEnyWlQEGMdSJl4STsaLxChL8TfocRjpDwFvFaM9y8SUbKiP02SiWUE6Na6C9Cb2HfTqFmZ3E65GiMRDsRrj2hUKuUEWuVy9kdCbEsHNhpHNl5LcROHSvaiXD1zeuHV6qdWEmJFBQZMaLpQIjlSh3ayw0hZuqxwivCS034gkapdmJlR2BDse7pjJHpQIjlrjvFjBA3rqbgCXgQsnGg2P/FblBiR1ENuFQUW4pNR2op75i6kDHl/jc7ckFni+zJpBblZ9tyHlU5p+GJ2JKz2JTTKIsoNkQE62JSY7aqB5FmuQ/wHrbu+Ccy3vK2ultan3ldV6Z+AsyQPrRh6CCqAAAAAElFTkSuQmCC",
     "wiki_name": "Hat of the eye (Red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hat_of_the_eye#Red",
     "equipment": {

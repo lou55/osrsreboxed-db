@@ -1,7 +1,7 @@
 {
     "id": 23195,
     "name": "Zamorak d'hide shield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "Zamorak blessed wooden shield covered in dragon leather.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xu3W22sTQRQG8AaRsKFYQkKCCVZiaaWtVPBNxAcffBDEC4qKiqJSRfFFFKVUxUsJ3qi0tUqVFITQlqqRgkKxeHsX/JOO+83yLWcnm5rNRvHBgcPuTibZX86cmd2Ojn+/JSQ8wj7/4y0hj0cPycORgybKNw7I2LX9JoioTpyR1+OnZfbJqRCU/Sdiwz0QUQAxbEzl0Ul5UT4euDGu8ZkdQVQkZELGbx2uQ+EICIOg6bFjMnHniBmLYxgI4zX68+KofJq72hqKIJwzOwS9fHDCgDi2EQjfW1kYkW+1u/K9dt+AImHwo/zXBOGmYSD9zxk2aG7qbACE8yZBicA0AMHixrUNwvgNhYKsz+cll81KJp02YaMWnw+3D8QsoU+DMHZzT49Us05d2Kh3M+d9ECISiHVhgzCNBBGzkk/Jvh1rpDflmNiV6ZKd6S7Z1N0dQL1/dSEImr8eH4R+gIiZdzPxs9ApA50pHwTM9vQ6mck4srFY9FFLlYvtBSEwlcS8yaUMiBBGyUn6Me2iUF9EEfTl7e1mMWhBkEZpDEJnBufIDDE4LyaTMrx3rSl4oloAoXlLd+reUR+E64G+PgOquZjd2bQP+jrpHQFBDQECEKYP/QDFyhCKFxkKAwGjs7JU9q5xc4BwBIgo1BG2Aw2KsCl6S74RCNlBZpgdBkC4+dPLwRpCttoOQqB/6+CgyU71pmNAe3IZP1Nc6oQwO9iPUNT4/nL1SnwQUZyujy6IU6YLWmdFB0CsH4KwSzeJQfNWWBgIGWJRY7kvuxsissLMcIXxCAymywYhQy2B7Doiakt/v0H1lkpScfcZhIZoDKcLj422gYjiU33b0JBBMVuATaYd+eHu2HiEEIPAeOzs2KU1KALKA4VNG/r0SxZgzJjG4RmGwBiMx2vHh9lLPgh7UIR9KAjS00YQbmC//WkQAn18KYsNwir7HQg3Qx+fcRpHDMa2FWRPG/o1iG+TCGycfO7hexwL0MKzcwEQ9qDI+1DYtGkQzlcDMUMY2xZQ2LRpED7TryUahHG6fmKC0IL10Cg0RocNwru0BjEigJpt9UiGrp+/CFqt1SPr43+L134BcACkwmUbBfgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVElEQVR4Xs3W30sUURQH8F0iZBdJll2UlEwTDTUseovooYcegugHRUVFUWFR9BJFIVb0Q6RfGGoWFgrBomJlCAWS9Os96E86zfcO3/HM8a7ttlN44TAzd+9wP3vunTOTSq3+lhZ/+H7/5y0tT/oPy6O+Qy4Gbx6UgesHXBBRHD4rb4bOyOTT0x6U/RNVw0MQUQAxLGbi8Sl5OXgiNjGu8ZuNOKoiZFqGbh9ZhsIREAZBYwPHZfjuUTcWRx8I4zX6y2y/fJ669ncognDO7BD06uFJB+LYUiDctzjTJ9/n7smPuQcOhDm2tbS4sLObFqad/5ogTOoD6X/OsKCp0XMxEM4JsrOblo4tAxDc3Li2IIzf0Ngo6xsapL5QkHwu58KiZl/0JgdiltCnQRi7ua1NioXMsrCo9+MXIhCiIhD3hQVhGQkiZrEhK/t3rpH2bMbF7nyd7MrVyabm5hjqw+uLcdD0jepB6AeImOkgE78aa6WrNhuBgNmRWyfj+YxsbGqKUPMTl5IFIbCUxLytzzoQIYzWTE0UYwEK+4sogr6+uxNhKgZplMYgdGZwjswQg/Ommhrp3bfWbXiiLMjOXqKFj+7o/WMRCNddHR0ONBdg9hRyEejbSHgEBHsIEICwfOgHqFSG7MyeFtYgZMgHAkZnZX4wvMbkAOEIEFHYRygHGqSLop3dtPCRLwVCdpAZZocBECZ/diW+h5CtxEEI9G/t7nbZKd7KONDe+nyUKT7qhDA7qEfY1Lh/oXi1ehBRXK5PAYhLpje0zooOgLh/CEKVJqYsEJ4wHwgZ4qbG474QFERkhZnhE8YjMFguC0KGyswO2hLI7iOitnR2OlR7a6tMBHUGoSEaw+XCayMxEFF8q2/v6XEoZguwkVxGfgYVG68QYhAYj8qOKq1BRNnZPS0E+ZYNffojCzBmTOPwDkNgDMbjs+Pj5OUIhBpUQR2Kg/SyEYQJ7NefBiHQx4+yqkF4yv4EwmTo4ztO44jB2ERBdtnQr0H8mkSgcPK9h/s4FqCZ5+djINSgiuuQb9k0COcrgZghjE0E5Fs2DcJv+rNEgzBO758qQWjx/VAqNEaHBeFbWoMYFYBSKZb1lcICdej9kwio3GaR5WAZS2P/U7NIX9h7VnX7DboE7044YgWzAAAAAElFTkSuQmCC",
     "wiki_name": "Zamorak d'hide shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_d'hide_shield",
     "equipment": null,

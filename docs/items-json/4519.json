@@ -1,7 +1,7 @@
 {
     "id": 4519,
     "name": "Swamp wallbeast",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZklEQVR4Xu3XUUvDMBAH8OVBhntQwVKpoytrmWXrWOdg+CQIgk9+/68T+bdeL5cWYQ+5KHjwZzQU8uOSNt1s9nfL2MsTrIw9n9uLExBlbNs2dr/fiux2T6Ng/PR8CIlBGQGo62rIZrMegvuAUQURoixXIrRv1EA+piiWXeQGVgT5nWEM30MYdRAw+fJRdAabHgEGv8FBP2EQevIIpgKiyV1MVt111+ggPfbKIDmeb+89qAsOVj1oaiPnNYF4TK1Dcv8Ye3hbeSDe3KqgLHvoJjx9rB0QY6KA0jSxL5+VLZpkhFEDUSemEhHEY1iym+Q6Hsh/IR7fC3EdBYS9Q8uEDvldA0blLJvq0Bj0Pf57QIqfHxI0tWS8XGogvIdwiPKEjKFDVRUEjPsp27z2Z5t7yquBMCkmdEGUKCD6EvT/CrlRBKF4MyNYrvniqvul80xGrXpM2abD5AAtbufaELf8LvjX/xWuvgD/RMe/OqXlEQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABj0lEQVR4Xt3X32uDMBAHcH0YZX3YBhOHK9ZW6aQ/qF2h7GkwGOxp//+/k/FNOHOJZaxgLqwHhyjifbicjU2S/xupujyDRapOp+7iDIhKVddt1W63dnKzeRkkrh9f9xpzWCx0+k8bIVIH0LZNn6vVsk/cBwwH+U8aKSyIEHU9d5LmRgzkY6pqppMgprggyO8MYeycWIw4CJhy9ux0BkOPBAbH4KDfMEh68wgmAqLiHFM0D/qIDtJrLwqimSFQuX50oBwcHGTfKnu9bA2II6lD9r7Rw4JofpD7j7kDIozYkhGoKJ50wePXsgdxTBRQnmfq7btR1TYbYMRA1IlzGQ3EhxdLdpfdxgPZgTbXDp8VKxxhhgDC7NAyoUNuYYMS2ct4h/iSDQubTXZ4fdT4K0jw88OdoXNLZpdLDITfIWyiVJBjaFMVBQHDP2W372Zv47u8GAhFUZCDKKOA6EvQ/yvEUxCEcLcKLNdkeqOPtJ/xBCYwKElogIGou7wvDtD0fuJAgmPc8Lvgn0cIv7h/fjXxA2BvH0GraiENAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6050,
     "name": "Yew roots",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "The roots of the Yew tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xu3W/0sUQRjHcY+ISEQRQ1HJ4H4oKKiIKCIEfygqCuybFRVJRUYRQRSFSNEXkb4hiH2hQsEQEykjiIqiqL9s4j3HZ52dnTtv97bohwYedm937+Z1z/PM3NXV/fujYMIRuv/HR8E8GjpkHgwesDFyY78ZvtZrQ4jpsdNmarTfTD4+FUD5X6JmeAkkFCCFj5l4eNI8Hzkem5jX3PMjjkqFLJjRm4cTKI5AFAI9HT5mxm4fsc9yDIF43kV/nxsyX2euZkMJxLmyI9DL+ycsSM+WA/G+b7OD5uf8HfNr/p4FpcLwofrWAunb+aDxu0cjEOch0Mz4mRiI8ypBhVgZmEiQ9ZuazapiQ4RiIiYHofKWA809O5cPiNe7ejtN9852s3FLiymuaUyABCYAkTUf9O7FQAQiUoHUFwLtObjS9OxuN5u3rTCr1zWato7l9joTcezrL5rOrnober8Pev/qfBz05no2kEqmLFE2gYgdeztMU/PSRTP0YeJCfiB6Q5Nv7W61pROA7Ozr67Ln6iEfRHk/TV2KQD/e3qoWw4iDfBSlA9TSuixCEcpSOdDn15ezghgL6fdB9BO9BMAtFZmrb1hiz1kUPujL9JWsoNIeRIZ8EB+uycFoxRE0O9kTygWxKbqgFJti6duFQIRANLeyo6ZnhdFLIF0U2ckVJBQh0NoNTXa1KTsqJ7G9py1WvlxBbpY4cp/SaHI3G8qi7lE+91mB2KWrxDBKKywE0o5MdjQJDa5JBeI9yiThbpgEGcoE8vtIS5lnKAGvNUkIpGfZIrRvuRnzZy4zkiChuE4/8KsNiPsqkSZUJt3lLgAlU4ZSZKkECpWtEogmLgfi+Y+TF6MeYg9KsQ/FQW7ZXBBHrmt1acX5IOA1g1hli4GYjGsCqTfcXtNyzw3kl43rLojJBdKfNoH0LKDZJ2djIPag1PtQqGwuiHOBhNLm6WaIZ3MBhcrmgrin3zeCc4H0w6py1QhiLOwtlcLFuOGD+C/tghQpQNWOJFLh9s9fBFUaSWQy/o/axm/f3OmBdFM6lAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xs3W7UtUQRTH8V0iIhFFDEUlk31RUFASUUQIvigqCuzJioqkoqKIIIpCpOhBpCcEsQcqFAwxkTKCqCiK+ssmvnf53Z17nF334RYOHPbuvbOez54zM2sms/RH1oUj9Pyfj6x7MnTYPRo8GMXIrQNu+EZfFEJMj51xU6MDbvLp6QDKfoma4XmQUIAUFjPx+JR7OXIikZj3PLORRFWEzLrR20cWoHgFohDo+fBxN3b3aDSX1xCI+T7659yQ+z5zvTqUQFyrOgK9fngyAmluMRCf+zE76H7P33N/5h9EIHJ0d3VFYbObkS+7vrVA+nYWNH7/WAziOgSaGT+bAHEtkM1uRjbRBhIJsnFzk1uTq49RJCI5CLW3GGjuxfl0QLzf3dfhena1ue6tzS63rmEBSGACEFWzoA+vLsQgoiKQ1oVAew+tdr172tyW7avc2g0NrrV9ZXSfRLz2D+RcR2ddFPq8BX18czEJenezOpBapirRNoGInfvaXWPT8kUr9GniUnog1oaSb+tpiVonANXZ398ZXWsNWRDt/TJ1JQb9en8nxlQMsihaB6i5ZUWMIlSlYqCvb68GQTZ7kVEovwWxnlhLAPxWUbm6+mXRNZvCgr5NX6sWlD+DqJAF8ceVHIx2HMFip3pC+SAORR/kH4o2uxn5bxcCEQKxuFUdLXp2GGsJpI+iOqmChCIEWr+pMdptqo7aSezobU20L1WQXyVeeU5rlNyvhqqoZ7TPnysQp7QwZYHYISGQTmSqoyQscCUViM+okoR/YBJUSCCbPTAKILuOtJWZQwt4ryQhkOZyROjc8itWNUgo7rMe+NUGxHO1SAlVSX+7C0DLVCFVyWYPjDwo1LZSIBZxMRDzP09ejtcQZ1AF51AS5LfNB/HKfe0u7TgLAl4ziF22GIhk3BNIa8Nfa9ruqYFs27jvg0gukP5pE0hzAc0+O5cAcQZVfA6F2uaDuBZIKB2efoWYmwoo1DYfxDP9vhFcC6QfVrWrRhCjcLaUCh/jhwXxv7QPUlQAymR0rJcKC/TDXz+pgModFlkOVlGY+5+GRYbCfmZJj78p7zQchbHnbAAAAABJRU5ErkJggg==",
     "wiki_name": "Yew roots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yew_roots",
     "equipment": null,

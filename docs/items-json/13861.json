@@ -1,7 +1,7 @@
 {
     "id": 13861,
     "name": "Apple mush",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "A bucket of apple mush.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xu2X/UtTYRTHvT+EKFI/+FMEQQsbpegUNxU0EjNdizW1Ndd8mWu+zbf5Ml9aWYZYgT8EEQTR33ra56xHr3P+1HMVoge+3Bfv7vk853yf81xrav6N4ciprnw40hsKyUBfnzx9PHDVUI68WV2V8VhMQcYiEXk+NHRVUI6sz8+5SuXIq9ERmXgxpmCXXEJHlmbSGjwYaJOAr1YVbKqVTDIpUy/jEo9Gpdtfd1lQjgbNplIaOBpqkJGesrgPLGBkrL/VQHkG5sjabFYWp6dl5XVGyxbvbTijQi6nz+CtwUC9CmgPwByZm5xUIxsQk5lKHb/fVyDOAQp31uv5+MPrtqAcfSkvnA/fOIFh5pXivgKXyvlscFD6muvUT/weWQNipu7SGKDMbrek8kFJ5NolW+xRcc8NhJfQaen+ejj6YlOS/OdHsnjQewYmPh+Q0WybinOWP82SpkmGAGIi1oDMDBEw6ULXOZjYTOsZkSEEHOWa6LfoIbNieDEwyZWOczDRqRaJpJr1SMlGwmE1t2kTrE6rQGSJ0qGLYIaTD1Smc9OTAClONWuPsgaUenJHpod9kon4FA5f0KFbbpflv3VN5btZVjqR0DaxW4LcT7co0ObCgl0gYGajd2Uh1iRLo/dkNe5XX1QTIEAAg7h+m1+zB2SyY2DWE/dlq1QaApngbgDODzKtqv2NdddmbG04alSyAkw1CANwWPKVOX7cLsjO8rJuKdaByBDZwaykvxoIOiqZHQHCc18W2/W+dSDKRsnIEJkhKDM3AsCIMpGd46WOk4x5DkQgZk/Qryud8i3fKd83gvJjK6TiGmieI5PWgVhprDJ8hIeYNQGrAXE0pVJjewGkje6Pj1hhBDFZAsjAvBtvVEhggbHYf9zD0Y94tgI6rimbO0tk6Od2lxTGGvWeWWF8Q3kAxCj/d0Gm2Jv4asS8H7Y2Nfjhzo4c7e3Jp2JRr/mbyZRnQMZD7E80u4tEtpDnQG7/EMisssoVxjm+KoN4AmNGOQBmdq8uIPDPr71uPV4CSOUwAS/S/+H9+A0s7TEXPZJ6cwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xt2X208TURCH2QdDIEQfeDImBmuQKAQKoQUSMBJEqDW1gLXUcq3lfiuXcrGKYghqwoOJMTEx/q1jv1kPLKU8eRaiJ/llt9vtme/M/M7stqLi/xiOnOrKhyPd4bD09fTI08d9Vw3lyJvVVRmNxxVkJBqV5wMDVwXlyPrcrKdUjrwaHpKxFyMKdskldGRpekqDh4ItEgxUqkL1lZJJpWTiZUISsZh0NlRdFpSjQbPptAaOhWtkqMsV14EFjIz1Nhso38AcWZvJysLkpKy8zmjZEt01Z5RfXNR78FZ/sFoFtA9gjsyOj6uRDYjJTKmO3+8rEOcARdqr9Xz04XVbUI5OyoRzkRsnMKy8VFxX4GI5n/X3S09jlfqJ3yPmCtbV/S2Uoyv1lsYAZXY7JZ0LSXKxVbKFLhXXvEB4CZnSWQFiYlOS3OdHsnDQfQYmMReU4WyLinO2P82SpkmGAGIh1oDMChEwU/mOczDx6eYzIkMIOMo11ut6yAqQ2TFMDExqpe0cTGyiSaLpRj1SsqFIRM1t2gS70yoQWaJ06CKYwdQDlenc9CRAChON2qOsAaWf3JHJwYBkogGFwxd06KbbrhpuXVMFbrqaSia1TewWIfenmhRoc37eLhAwM7G7Mh+vl6Xhe7KaaFBflBMgQACD+Pw2t2YPyGTHwKwn78tWsTQEMsG9AJwfZJpV+xvrJw9jYCwAMRw1KlkBphyEATgs+socP27nZWd5WR8plrJjhqMZIjuYlfSXA0FHRbMjQLjvy0KrXrcORNkoGRkiMwRl5UYAGFEmsnO81HaSMd+BCMTqCfp1pV2+5drl+0ZIfmyFVXwGmvvIpHUgdhq7DB/hIVZNwHJAHE2p1Nh+AGmj++MjdhhBTJYAMjDvRmsVElhgvP3HKhAv8TwK6LimbN4skaGf2x2SH6nVa2aH8Q5lOTtmuP8uyBTPJt4aMe+HrU0NfrizI0d7e/KpUNDPfGcy5RuQ8RDPJ5rdRSJbyHcgr38IZHZZ6Q7jHF/xGx/84x1uAMzs3V1A4J9fe516LAXxCcYd7uSnfxLL6VJASoc3aDmV3v/Pj99exWYiGwEVjQAAAABJRU5ErkJggg==",
     "wiki_name": "Apple mush",
     "wiki_url": "https://oldschool.runescape.wiki/w/Apple_mush",
     "equipment": null,

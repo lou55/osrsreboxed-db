@@ -1,7 +1,7 @@
 {
     "id": 6952,
     "name": "Truth serum",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-10",
     "duplicate": false,
     "examine": "Fluid sloshes innocently in this vial.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1ElEQVR4Xt2V/UtTcRTG/f4HBVGYaZnN3Mp0ubc2bY7ctNkcc4rmMl9qpsyWIja3QnoTs+xFLBPNIsoMAh0S9Kb1pz15vrfv3d3cj9u94IGHwb1w9+E5zzmnoGBvFEO6NC2G8OUytDeXwF1biLOn92sNxfB5vhYfXzq4Rq/rEQqUagnFZJiVpzZE+06is+WoVkBSZgTQ8mMrIlfLefs0yBODryWIQKBDduf1IzMGr+jQ2lQMi8UBu8OlJhRDV1fPLl3yBeH2+OCs96C62qwuUHhgkGtgYEiWtzmACw1emM126Mr16gKNjI7JikZHEIlE0XTRj3P2ehhOVaGoSGRJtWJYXV1DMrmJjY0k1teTvF1Go0WLUFMx9PWHEYtNIJG4w0XtqqmxaQFDxTA8HEU8Hv+vhJwfzYD+vpMcik3EuahlVmsdKvSVakMxfH/RiD9v+9M0Fa5CpFUHf90RNYEYPty1Y3u5Nw3mfcKGmSEjRtor0O4qRqOlUC0ohh9zXg6kFEHO3TJhvMuAkOcYfI4iNYAYPk06sLUYwvZSdxoQPV8YM2OypxK93uNquSRlh8NkaO2eA0u3rXhw7QyG/Do1XGL4cr8WWwttKYcUoncrEzZM36hGtK2cuxR0FsNtOpQvqB13Zl0cJpu+PqzjwZ6NGDHWoUfYdwKdDSX5ckly59e8H1tvOiVlAK1PnZeDHQsZ+Pjn0SWGzRlnCiaLNqadPNiL4xYebKVLXtvhXAJJk0WjzvOjVAaQCDYtSOFSd2Mpd8mTO5cYb8cumAyRgyLYtCDJJVqSeXBpJ8zP3Pj9qjWrBNC3J/VysJ/frOHjr3SJzonLeDB3UJkgmaIJFMGeHzXx8Rcu0U6yGQ7kCoZKOhekn3M+WTR1QuSiCLbIkbhrVWX7cgkjij4otY+2tRKQA+08E8EmGFqOqR2UcxhliT+QzoiAol8KtjgdKoBkqxTcbu3B+gcctO/ADmKqFQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xt2X+09SYRjHff+D2lrNTNMME8qElEugIUvQMGR4mSaZl8J0GOmcIdRcN2eWXZxlzrLWymxrU+baumn9ad943tN7OBz5pQ0OW8/2HduB8X72fb7P80JBwf9RDOnKazGELpSjs6UE7rpCnDqxN99QDB8X6/D+mYNr/IoewUBZPqGYDLP6yIbIwDF0tx7mQMbSUq2hpMwIoFcPrAhfquDty0OeGHyt7QgEumR3Xtw3Y/iiDm3NxbBYHLA7XFpCMfT09O3SeV873B4fnA0eGI1mLVuXnK6hYa6hoRFZ3pYAzjZ6YTbboavQaws0Nj4hKxIZQzgcQfM5P07bG2A4Xo2iIilLGgFRMaytrSOR2MLmZgIbGwneLpPJIoeaYDQFGhgMIRqdQjx+k4vaVVNjywcMFcPoaASxWOyv4nJ+NG6VKIbfbySHolMxLmqZ1VqPSn2VliNPxfD1aRN+vR5M00yoGuE2Hfz1h7R0ieHdLTt2XvWnwbyN2zA3YsJYZyU6XcVoshRq5RLDtwUvB1KKIBeu12Kyx4CgpxQ+R5EWLjF8mHZgezmInZXeNCB6vjRhxnRfFfq9R7RyScoOh1Fp/bYDKzesuHv5JEb8Oi1cYvh0pw7bSx0phxSi91anbJi9akSko4K71O4shrv2QK5cSroz7+IwmfT5Xj0P9nzYhIkuPUK+o+huLMmVS5I7Pxb92H7ZLUkFtDFzRg52NGjg459Dlxi25pwpmAzanHXyYC9PWniwlS55bQez6ZI0WTTqPD9KqYBEsGlBCpd6m8q4S57sucR4O3bBqEQOimDTgiSXaEnmwKVkmB+78fN5W0YJoC8PG+RgP7lWw8df6RJdJy7T/uy5pAZRiyZQBHtxvJaPv3CJdpLNsE92KCsuUYZI3xd8smjqhMhFEWyRI3GvVZfvySaMKOlXIB1M21oJyIGSz0SwCYaWo9hBOYCRSvpC8Z9LukYEFL1SsMXVoQbJOoyyUgek4NTSBCRTKQ9WS/3Zf60/pDQk2tjztmcAAAAASUVORK5CYII=",
     "wiki_name": "Truth serum",
     "wiki_url": "https://oldschool.runescape.wiki/w/Truth_serum",
     "equipment": null,

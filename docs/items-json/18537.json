@@ -1,7 +1,7 @@
 {
     "id": 18537,
     "name": "Ensouled demon head",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "The creature's soul is still in here. I could reanimate it with Expert Reanimation.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xu2W70tTURjHPcgYG2NjbHjZHZvMMSV9IfiiiH6wECtDSA16oS+K8k1g+aYUIiRCjCiLMgoSw4pUQgSJgrAsywoRjf6ib/ue27Nd7pTNvJpEX/hyz849nPPZc57znFtR8W9IoeByVO64smWfUKGnuxtdnR2oS6fLgFK4evlSGePKlkJdJGKbUOFG/xUM9Pbi4vlzJRZSGB0ZLjFm01LY561EIhjIb9Pq8lcsfniHN3MzJRZTuDM8WGLMpqWQzQE1xQyEvF40RkNYW/mOzx/nMTcziUw6tcGCCuOP7mFocGCD938khZYcDE2oWMCPk+k4fqwuY2nxPWannyN7+ADCXk8+euLH92+5HR2F46mYBiFQo6cSqVBQ9/1cW8Gn+bd49fIpuk53IBn0o8rnhd/v0b+v9fe5nTsKnZmEtgA15YCY3NmEofv3x000GlW6j/lFKNPvw4ljzbjQc0ZHziUghdZ0Ddpq0zi1pza/XQd/RylbnURzqlo/OY5twjVURdEQCWqonrPd7sFw8qM1qSIgOhLxwzACup8w7KtJJlEdj2vAvWZMg7W1trgHdCgZ10DtdRm9MC0RIhDNxTnGlzt1BEqYpn5P8w8FcpF0AciKjiwmQHwyGgITDPp0CWA0CECgmGHoNusVt5C5FfX5tgplRYcTEoAgNLeOgAJE2xOaEPWeCp30mXAYkZzZt0UYSuWjI/mzHgxziNCEZ5QIxryxtxlBV4DskVkvOoSh5XTRjAzNKLFwWiBbhqGUBnDaCWSaoXw/QVggxx6OoMUM68LpEoyoUINotp1AkuTME56yqWdj+sm7jUCFS9g1WVBiJ5D0cYsIIp54Moq2hHymuApEFaCcCS1AzB+B4e0//WJcg/BCfXB7yG0ohZWlL/i2sFAEZN9KSey++rgGuHvzuv5Gej075TYQZYXeecIkh+xATGiO5ffPzOTEdsCIioF4yqQt71goj8RCaE9GtxOGsoAEYD3zKmFRZDFkYfyrQHwnQOJtBqJUEYgTSPJtB2BExVCSPwWgHZcVgV0EJCqAEWYXAIl2PG/+S+sXQqBvsKvTx9oAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xt2W30tTYRzGfZExNsbG2HDsjE3nmJJeGF4U0Q8WYmUIqUEXelGUN4HlTSlESIQYURZlFCSGFamECBIFYVmWFSEa/UVPe97jdzud+WPmmUIPfDnH97w75+Pzfd73nLKy/0MK+SpGxc4rWtYbKnR3daGzox21qVQRUArXrlwuYl7RUqgNhSw3VLjZdxX9PT24dOG8Ht9bVbXOwxRGhodyc9aftyUp7HeXI+735dq0/PMbFj6+x9vZ6U2B7g4NbDJny1LIZIEaoxEE3G40hANYWfqBL5/mMDs9gXQquU47FMYe38fgQL+TQArNWRgWoaI+L06lYvi1/BOLCx8wM/UCmSMHEXS7cu5JPXlw+y93HABSOJGMahACNbjKkQz49djvlSV8nnuH16+eofNMOxJ+Lyo8bni9Lv339b5ep7Oj0JGO6xKgxiwQw52JR/T4gZiBhkiFHmO+CGV4PTh5vAkXu89q5xxqlUJLqhqtNSmc3lOTa9ehVZcylQk0JSv1kfN4Trj6ijDqQ34N1X2uyyl3lL75sepkARArFPIiEvHpccJwrDqRQGUspgH3GVEN1trS7Jw7hxMxDdRWm9YPZolDBGLx4Zzjya46AsUNQ19n8R/yZZ10AMh0Rx4mQDzSDYHx+z16C6AbBCBQNBLR59yv2EJmK+zxrK64f5bpDm9IAIKw2DoCChDLGmhC1LnKdOjTwSBC2eKYAxlSOXckP2vBMEOEJjxdIhhzYz2ng460zOrMWu4QhiWri0VnWHSJG6fZpm27QykNYC87kGEEcuME4QY5+mgYzUZQb5wOwYjyexCL53YgCTlzwlU2+XxUH/luI1D+JeyYTCgpO5CMsUUEkRp/OoLWuHymbDs/duWh7IEWIOZHYPj2n3o5pkH4Qn14Z9B5l5YWv+L7/HwBkLWVEuzeupgGuHfrhv5GejMzWRqXWPYVJhmyAjHQnMvvn+mJcaeDbVUhEFeZnMs1bpRHowG0JcKlhKFMIAFYq/gq4abIzZAbYwlaZdXGQLwmQFIlBqJUAYgdSPJW4nZZVQgl+REgAdkBGJHpwEZA9l+UXOZD82CE2VUgkRVsB3OzuXYhNzuvPyRQrsT9FLz4AAAAAElFTkSuQmCC",
     "wiki_name": "Ensouled demon head (Item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ensouled_demon_head#Item",
     "equipment": null,

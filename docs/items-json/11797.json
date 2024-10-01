@@ -1,7 +1,7 @@
 {
     "id": 11797,
     "name": "Godsword shards 1 & 3",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2013-10-17",
     "duplicate": true,
     "examine": "Godsword shards 1 and 3.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xu3VXUtUQRgHcPdK+hxedOHF3thFiBAsImbQymarrfSybZvFViwbiSwrlmJlIYi9UKFgiImUEURFUdQnm/jP8B+emZ19OXtO0UUDD3PO7Jwzv33m5fT1/fslpcIR+v2Pl5R6VM+phwuTOlbns2rl9mkdROxuXFI76xfU9uPzAZT/J2LDDYgogBg+ZmttVj1fPecMjHv85oeLioRMqfXGmSYUakAYBD1dmVYbS2d1X9QhEPpL9PeDuvq6V+sNRRCumR2CXj4oaBD7tgLhuW/7C+rn4V3163BZgyJh8FL+a4IwaAi0eS9vQbj2QcyKBOG6S1DKmQYMxMWNex+EwYHg9PogvK9SmVdjY2ZDJAJiltAWAjGTBCFrxMzN1dT4+KSTIUQkENeFD8LgPkguaAnCe8rlqs3M+1dXXdCbO/FBaAeIKGaSffAsQKhLpVtqYsK0Af5h61qyIAQAEiQXNJ6r1+/ruli8obLZaYtB3087FQv68XaxWwyKC5Iobl8fRDAxudysxRD0+fXNXkEoZptisHYguaDRv1ZbUjMzRQdD0Jfdaq8gcwYhQ51AzCKewdaemjI7C1MrQegvQREORfOyEAjBrYwBUKMPs5nPX7RtEgR4oiCiOHAmc1LXQ0PHdV2tLloM0HjOn67EQEShfXT0lK5HRjIW12isqUKhZDGtQPtPLlsQTukuMShmh/kgZggoZgaBdcPrViBk5+DZFSdDPYH8dcTTl7Dh4RN6i+M+nT5mURLE6Xr3opwciCi0Y4C9TbOtkamBgaNOhgCXH1aCcEpLUASUAYWmTYK4ywYH0/rzwEUdAqH/x+3rFoQzKMI55ILktEkQzyD07+8/0jJDgMcGYZd1AmEwfjKIIQj95HQlBvKnDe0SxE8GghiC2BcgbHkJwhkU+RwKTZsE4bodSK6fREChaZMg/Mbvmw/iZ4PTFROEYrZxp5AYGT4Ih6IEMSKAui3NSIZcP38R1K40I5vjf4lXfgMnqE4cUHrEKgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4Xs3V70tTURgH8O2V9F8IvuiFL9YLexEiBEPEDJosmzbpx1rLYhVjkciYaImphSD2gwoFQ0ykjCAqiqL+shPfc/ken/t09uO6W3jg4dzdnbvns+f8uInE0W9J4w/f9/+8Jc3jWtYsz4zaWJzOmIV752wQsb121WytXjabTy55UPpPdAwPQEQBxNCYjZVJ82LxYigxPuM7HWFUJGTSrNbP/4VCDwiDoGcL42Zt7oIdi94HwniJ/rFXM992qodDEYRrVoegV0t5C+LYRiA89313xvzanze/9x9aEHKc6O62obOrFpSd/5ogJPWB1h/kHAjXGsSqSBCuCdLZVUuGpgGJuLjxWYOQHAhOrwbh98rlaTM0FGyIWECsEu75QKwkQagaMVNTVTM8PBqqECISiOtCg5Bcg+SCliD8TqlUcZX58PpGGPT2fucg3AeIKFaSY/AsQOiLxbtmZCS4B/jHjZvxghAASJBc0HiuVntk+0Lhtslkxh0GYz9vlR3o57tZh4kMkihuXw0imJhsdtJhCPry5o4XpLM3aME2RbJmILmgMb5anTMTE4UQhqCv25XDgoIzCBVqBWIV8Qy29thYsLMwtRKE8RIkD0WdXbXgx3wgBLcyEqDHGFYzl7vi7kkQ4LGCiGLidPqM7fv6Ttm+Upl1GKDxnJ6u2EBE4f7g4FnbDwykHa5eXzH5fNFhGoF2n15zIJzSxLQFws7RIFYIKFYGgXXD60YgVGfv+fVQhdqsDtoBSK8jnr6E9feftlscn1Opkw4lQZyu9y9L8YGIwn0k2FkPtjUq1dNzPFQhwOWLlSCc0hJElM7uaQHIN20SxF3W25uyrwcuah8I4z9t3nIgnEERzqEwSE6bBPEMwviurmMNKwR4xyDsslYgJOMrgxiCME5OV2wgPW24L0F8ZSCIIYhjAcKWlyCcQZHPId+0SRCum4Hk+okF5Js2CcJ3fL9pEF8bnK4OQWjBNm4VEiNDg3AoShAjAiiR4LHeLDRQhlw/sYDabRrZDpZxMPY/NY30hX7mSLc/cayYqHQ65rkAAAAASUVORK5CYII=",
     "wiki_name": "Godsword shards 1 & 3",
     "wiki_url": "https://oldschool.runescape.wiki/w/Godsword_shards_1_&_3",
     "equipment": null,

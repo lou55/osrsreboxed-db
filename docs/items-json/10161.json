@@ -1,7 +1,7 @@
 {
     "id": 10161,
     "name": "Red salamander",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "Slightly slimy but certainly striking.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwElEQVR4Xu3Wy2vUUBTH8RmGIIgooih279qlWzcu3Ph+P1GpUlFBFKUUxUcpviiU+kClhUqppWhFEBVF0b/s2m8uv3hycydOJlFceOEwmcxJ7qfn3py01fr3R9vFI/b7Hx9t92Bkj7s3vCuNsWs73eiVHWkIMTtx0s2Mn3DTD49HUOEfURvuQUIBUoSYqftH3dOxw7mJ+c5vYeRRlZBtN359bwHFJxCFQI9HD7qJm/vTXD5jIPIt+uvCiPs8d7k/lEAcqzoCPb97JAUptxuI677MD7vvi7fcj8U7KagShpvqrxaISWOgydsHMhDHMdDc5KkciOMeQe3cMjCRNjffQxCTg9DydgMtPBlsDqQqcS4GUiUFomoh6M2zMxmIqATSvghBTB6C7IYuA719cTYPenW1PojzgIRSJe0T2Q30bmqoWRABwILCDS0Q97AYcj/MnM9A317f6BXDyIMsipvHQMKQx/WblndyKHI/vrzYL4jhmxeTlYG0oZUfwwj0afZSvyDfg6jQ70DkkL9xWcttWdnJMCytBZFvQRWaor9ZDER0AxG71yRu2+oiiLxGQUIRTEDHZQKOyd+3NnHblyB88p3rwuVqDGSrxKcQiq2rOmmwXHynijHQ/KPTGYgu3SOG4Z+wGEj/YhxaqgSAgcTvG2Lziu4gqsNrw1aoL1C4j9TsyGGvEGF1QpCWi9dGYyChOK8KsWfAgBra4PcOGFUyBNGlLagCyoNiyybQhYHEDa73KC2VmmIMxEPwfvpcBqIHVehDeZBdNs4xATnH1iVphdR3tFwhiOrUBvGUlYGYwN/Mh6ojkPaalqsxULhsnBeICZncvsPUq7hOuYB45C2IHlS5D8WWzYI4LgPZ/dMIKLZsFsRver+FIL02tFw1QYxf+6MsLMZGCKIpWpCiAqjXUUQq7P75i6CyUUQW4/+oN34CLQtaF1m11vEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xs3Wy2vUUBTH8RmGQRBRRFHsqhvXunPrxoUb3+8nKlUqKoiilKL4KMUXhVIfqLRQKbUUrQiioij6l137TfilJ6c3cdKJ0guHSTI3cz499+akjcbyH80Qj9j3/3w0w+PB/eHhwN4khm/uCUPXdychxNTomTA5cjpMPDkVQfk/omt4ChIKkMJjxh+dCC+Gj+USc853PvKoSshmGLl1YBGKTyAKgZ4NHQmjdw4lc/mMgZhv0T9mB8O36WtLQwnEsaoj0KsHxxOQ5haBuO/7zED4NXc3/J67n4DIsbW3Nwmf3Y207PqrBSJpDDR273AG4jgGmh47mwNxLJDP7kYztwwk0ubm3INIDkLLWwSafd5XH0hV4loMpEoKRNU86P3L8xmIqATSvvAgknuQ3dBloA+vL+RBb290D+I6IKFUSftEFoE+jvfXCyIAWJDf0ALxGxbD3M+TlzLQz3e3qz1hFmRR/HgMJAzzuH/LylYOxdwvb65EQT57wUibF8nKQNrQmh/DCPR16upSQWkPokJ/AzGH+ZtXNML21a0Mw9JaEPMtyDZFn92N9MdiIKIIROxb1w471y4GMa9WkFAECei4JOCY+QfXt8OueQifnHOfX67aQLZKfAqh2LGmlQTLxTlVjIFmnp7LQHRpYToC8eTEQPoX4+h8JQD0tNN9Q2xbVQyiOrw2bIU6rA5jAeT3kZodc9grhK+OB2m5eG3UBhKK66oQewYMqP5N6d4Bo0p6EF3agoTy2SMjBcWWTaDLPe3QtzFFaanUFGMgHoJPExczED2oQh/Kg+yycY0EzDm5oZ1USH1Hy+VBVKdrEE9ZGYgEabnTUHUE0l7TctUG8svGdYFISHL7DlOv4j7NBcQjb0H0oMp9KLZsFsRxGcjun1pAsWWzIL7T+82D9NrQcnUJYizsj7KwGBseRFO0IEUFUKOhtl4WHmjD7p9aQJ0Oj+wEq1iY+5+GR8bC37Osxx93D6SjsfIYWgAAAABJRU5ErkJggg==",
     "wiki_name": "Red salamander",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_salamander",
     "equipment": null,

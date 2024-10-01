@@ -1,7 +1,7 @@
 {
     "id": 22420,
     "name": "Bloody grimoire",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-05-24",
     "duplicate": false,
     "examine": "An old book about potions.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+klEQVR4Xu3W3UsCQRQFcIdlkQ1JBEGkByHopZegF1+Kigj6AClNsaKHQgqRQur/Z9ozy7G718XM2RLKCwfKwPl17+zMFgqr+vtlbDpLLWNPioE9jLMXpxlniUBjz6Jgko1q1dYrFVstl10qpZLLLwKNbcWQRq3mQhBRBOHnnTCw22HBbgWFDGAuSGPbUWg36/WZIHaLn2OkuzFOAhsTpFcZh0GCZuACkB4bIQj/jmC/AQZQVCz6gqYxEhW2wxRGQhh0Cl0CJjeQxiDA6I7pcHQYWW6YLJDEZIHk+DAuYLDP1qPIB5UNAkaDdOTeQgDKDSNB82AkBF1hdzwwqGnQdzA8l7iRPUHGdtfS5w6iF5chFiEGIwIGQC/MTYzBQSgx88IIkRgPkLH3MQbdwTWBO0tjENk5+VRxVARdd/Z9MKgEhA4BhS7J+0vuKQnUIJ45fLq8QFxEwyRmFoh3V6934NsdlHFf8vhw6sIFCfsKxHckjAu/e3YHlYCwyHjcsa8vV3Y0unQZDltuYTlK7jNEvrT1+0d5YFDJ2SP/ewQwAN/fupPwWiCIb5LYQzl1B5U+DIHRI0KX0C10jVB5Mt/dHvsegrrwRUkkRl+e/HwwOLfPTxcOiQDleWfNqk+cDmEam8OTtWglMP1ilvO4FqkE5nlF/ERxnKv6Z/UBIklI7s2X6SYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHUlEQVR4Xu3W3UsCQRQFcIdlkY1IBCGkhyTopZeil16Kigj6ACktsaKHIgqRQur/57Zn5Oj1ZmY7S0Z04UAa7Py8MzszhcJ//f1yMpqZlpPDYiR7abbTbKWZIdDJcRINslSpSLVclkqp5FOen/f5QaCTegpZXlz0IYgogvD3ehzJWlyQ1agwBpgL0kkjiWWlWp0IYrf4PaZ0M8Vp4PIAGVTOY5BoK/IByE4bIQj/j2C9AQZQUix60EatlhX1EaNRcSMewWgIg06hS8DkBrIYBBjbMRtOHaZMYzKCPu+OxowD6enDdAGDdbaQJCFraDwIGAuy0WsLAYiYjB0aYjRoGoyGoCvsTgAG9RH0HQz3JS5kDbIjTVFOLudG9x3EDq5DLEIMpggYAAO64+QqxWAj1JhpYYRojAbZ0b4oJ7cpBt3BMYEzy2IQ3Tn9VnGqCLpo7oR3ByB0CCh0SZ9fek1poAVxz+HblbE7KDcYxMI0ZhKIZ1ertRvaHZTzD7m/O/LhgIR9BeIdCdOFz4HdQfVBGKTXa8rL87l0u2c+nU7dD6ynkusM0Ze2dns/j2MC1d979K9HAAPw7fVyEB4LBPEmiTWUU3dQo5shMHaK0CV0C10jVO/MN9cHeezKuoY3O42xhye/f3g4kafHU49EgNJnln16phr+Mnv1HIYwi83hzZpcfLANYfZiFnhmhZWG2SNiJiCWhs0co+tXYf5svQMjIYaTCM9BpgAAAABJRU5ErkJggg==",
     "wiki_name": "Bloody grimoire",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bloody_grimoire",
     "equipment": null,

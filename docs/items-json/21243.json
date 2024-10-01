@@ -1,7 +1,7 @@
 {
     "id": 21243,
     "name": "Bucket of wester sand",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-04-06",
     "duplicate": false,
     "examine": "A bucket of golden Wester Island sand.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xu2X/UtTYRTHfRCRyZiIomzDiRM3dLIXmdPhOzpfWsy3ltrClmguNcvUioSoiCDohyCC/tsTn+d213Znw9idP1QHvtx59e757JzzPTs2NPwdoaS6biyMAycSCZkZH5el2RlZWVyUrdVVube+JtlMRtaWl28KSslINKJh5iYnK7ICzNHDvLw9P7sJICWjsZhMjY3J0/29ChiryFwdoZQk43Fdot3tbRkLOmQy5JDZsCFecy8VbSkCkSmeqQOUkqi/WZeIknDwSH+zvjfkMxT0Nmlxj98vxw0wPoDNQAbMwvS0LoEVpBTI724SX0ejFvfI2q35Of2sTVBGmXhTtDXlqgC5Csjd1ijtLkM0/+1Uyg4gpQ/BUZQKW3PwZSFZVVawoYEBPQJsGAMGUCQU0q66f2ej4vBqMsHIEn20czdbbHbrSdcMJcOBNp0V0v6nQKZ43nTfWtIp+XlXbVCJgXY9ewB6fXJScWA10fw0No6j/043B2qBIZRMRjq1cBdvziflAOvhVvH3zKdMwilH64GiagQilKTi7jJRAqsA4AoE0IBQov1MX5lqBFLicjRIOumpqvWpbsnO+mRrvkdyC73yYMkvu2m/vpaKe7YAOR2NsjLh/a2sQKb4GeGw9y8uaoUhDCDk9/n0TLHCWIEQrxGrSH5zUz4fDcvXZ7Z9pyk9S9qcTdLt8chgIKCH5VVAXNmJcCQge7mcfDyI2g/U4/VqIE+HQ4LdLj2fcN7SqFsDkRV6pLDaLyfZoJxvD8qb/JC82w3XB4hydbY2i6+rRQNF+lolOdShHQcQ2QEIF2FtgC53Qhrqw15EPj2O2QVjhtLZ8XucRSAG5kysS7sMIJrYBGIAvsoZQGSJgfry+NhOKKWzA1Co1ygZGTKB6B2AsHVp2cjSxeGhnBUKdsIQSlu/NDsmEH2km/lnH5VmCZA67dYGEKLBh8NhvQGweLHrbKTT2l3MG5zF6np68Eg387fnI/UAIlSZ08gUX7rsSmySgLHzAMU/ALjry5O4fD9P1AuIUMU+omxY33QaPUT/0Ds4i+wYIHWDMcM8RJU1Nf1DM9PIdbD5deMXXKX+xz8WPwCYKQuW+KhcfQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVUlEQVR4Xu2X/0uaURTGu0SEIUYUhUpWRoopfgkzpbSi7MscljVXzdFc1HLZ2lq2jQVjG2Mw2A+DMdh/e7bn3L32di1pee2HsQMP6puv99NznnO9trT8GyWovm6t5IJTsRjNTE7S0uwMrSwu0ubqKj1Yy1E+m6Xc8vJtQQkaD4cYZi6ZrHEFMOXHRXpfOeHX4cHBZkIJmohEKBWP0/O93RoYVXCuiS4JSkSj3KKdrS2Key2U9FtoNiiF57iWDndUgeAU7mkC1G/r3e3cIrQEC4+PtPO1gEvK62xj4Rr+vhyVYPgH+H59rZMwC9PT3AIVxAzktreRq6eVhWtw7c78HN+rySXZJnwotJmy1YBcBmTvaqVumxTCfzed1uGS4EUwUWgVxhoLn5USdaWCBXw+3gI0bAMSKOT381Q9vLdes3g9GWBwCTnavp+vhl1d6ZolaMzTxa7A9r8FMoT7jenLJaxUnLc1BhXzdfPeA6C3R0c1C9YTwo9gY+KQv+MNXzVLN8yToGSol4XpwofjP8UC6uKq8H7sT9mYlcprnqq0hDsdtV8QWqAKAHgEBKABghbtZYcvqEEgQTZLC2USjrpaS/VTftZFm/MDVFgYokdLbtrJuPnRLFzTAmS1tNLKlPNKqUCG8BrChH18ddpoflASCHK7XLynqDAqEITnEI4ixY0N+loeo+8v5HdaAzBGCd5Luqxt1O9w0KjHw5vlZUB4xJkIEwmQ3UKBPu+H9QMNOJ0M5OixkLffxvsTJm9pws5AcAUZKa2O0FHeS5WtUXpXDNCHnWBzgNCu3s52cvV1MFBouJMSgR6eOADBHQBhijDaADrb9jPUp90QfXka0ZEfcwl2x+2wVoGwYc5E+njKAIQQG0DYAN8UJBBcwob6+vCQodRPvmEJdgdA/iHZMjhkACE7AMJYm9sGl04PDuikVNLvEEbf7I4BhBxxmP/kyOwSQMxna00wKAkEIeBjwSCfAHDwwllnPZPh6cJ+g8nC0fV4/wmH+cfLcV1hVktcmDQ4hS9dnJVwkgQYzjyAwg8ATNe3Z1H6WYk1CwglqjlC2zD6xqQhQ8gPsoPJgjsyxNrbpdb5zxxzqJEfhBlBVse8iTCyzhep/S12S65cXWYXVKnv/V866xddRUChqj+MlgAAAABJRU5ErkJggg==",
     "wiki_name": "Bucket of wester sand",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bucket_of_wester_sand",
     "equipment": null,

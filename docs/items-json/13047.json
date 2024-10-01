@@ -1,7 +1,7 @@
 {
     "id": 13047,
     "name": "Zamorak armour set (sk)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu3X22sTQRQH4ObRF0X02ZKGRtpI0wZNI42xITG9GEhCmhiTmDbVogSkaEUpRfESijcKpV5AsCCUthTpkw+iKPqXHfnNcsLs7DTNZhPxwYHDTmamO9/O7lza0/PvJxfpQ1ff9eSiVytZerGcEbH6IE31eykRjNhar9KntVnafF3RoNSHcAw3QIwCiEPFfHxZpverRVPH+I06NcwoW0gXrT2csaBwBYSDQW/rBVp/nBdtcdWB0F5G/9hboW/bS+2hGIQ8jw6DPjwvCRC3PQiEv/u+u0y/9p/Q7/1nAmQLg5vyU8tP5iRkEPJG+aHJZXoN+J2LnqLC9FmKnOun6YiPktEhSsf9lE2MUG4yIOqKySBdS43SXCZE8zNjtJAP061CRFxR73MfFffqOCg66qX4+QGaCA9qcYABBUiteFGgUC6DELZA/F3oQKFhN4UDngYOMKAAQhuMEmMWKzFx1YJ27jsD4ckBuVsO2oqugfDkGBW1w8NCB/r5+VGrGCQrqBDvFSC8Irmz1FJdRKy6KIJ/60B+z7F2QUjGNN14eqUBwofKIO5YxsggGdYBkLEGYYRUEGaX2mkz0M3ssBZkY1E0prwOhLUFM0rtVAbpUF0HVS6faXQu53VlyHcUhEBZKeEWawsWwhsZf6NDOa8rQ55BAe9xcS+s0i1ikIwZ1gxUy400OpTzujLkVRBGqC0Qo2QQVmR8qOgMV4T6zXA9t+kqCHtWaconOqumhiwY9UPXvTJeqVtEGSD5taFsdrJPbJIApcf7KRvzUv7Sado5eUQbwHIwKDhwQtwLa5CNdcgM4qMpg7CBxoK9lAi5aWqsj5IXPCbg1YlBMYKYXRyOQZhlB4FwY+z22NP4CMI7Per46IElAu1vl8c7B2KUDAKCz0N8FpIx2O8YA4h8/GAQ1iDb65DutXUicChrC6S+NnzcKMPBfntjXtTJ/5Ugj5MBAu34UI+2u2+u05fNGn3dutMOCMn6ZLqQMXKooL13CyYQhw1Qq8mK5MBIAoTR+YugZsmKtMb/5Cz9AVNIfGv5lCB6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xs2X/WuSURTH9cd+KaJ+bnMyYzOmk3LGzCaae0lQcZqpuVyNQohRi2KMohcZvTEY6wWCBsHYxoj91A9RFPWXnfheOc+u16v56GPswJfnPvden/O5b+cebbbDb3bSS9fec7PT65U0vVxOCa0+TFL1fkKIIbbWy/R5bY4235Q0UOogugavATEUgFgqzKdXRfqwmq9zjHe0qaqHMgVpp7VHsw1QeAKExUDvqjlaf5IVffHUAaG/DP1zb4W+by91BsVAKPPsMNDHFwUBxH2bAeF3P3aX6ff+U/qz/1wAwYe3v19I9a5Ybdp51PLIupEMhDLq2oKRlwHvmfApys2cpdC5QZoJuSkeHqFk1EPp2ChlpnyiLR/307XEGF1PBWh+dpwWskG6nQuJJ9rdjqPiW5YDhcdcFD0/RJPBYS0cwAAFkEr+ooBCvQwEmQLifaEDCngdFPQ5DTiAAQpA6INZYpjFUkQ8tUA7D7oDwsgBcq/oN6WeAWHkmBXV4b+kA/r15bEB0xFQLtongLBEsrPEUlUoUl4U4ncdkMd5TAukem9itWO68eyKAYSNykDsWIaRgWQwC4BqMQgzpALhdKlOWwHdSnu1QHJQVL0rVjvyOiDEFpwo1akMpIPqOVDp8hnDuVzW1aFsKRCEukLMIWILAuHNlMdwKJd1dSgzkM91XHwLUZph2gLCCWsFVMmMGg7lsq4OZRUIM9Tm7MAOgBhKBkJExkaFMzwhdc9wO/fpKRDurMK0WzgrJ0YaYNSNrlsyjtQoq941VgOSlw11c1MD4pIEUHJikNIRF2Uvnaadk0e0AiyLgfxDJ8S3EINMxKF6IE5NGQgXaMTfR7GAg6bHByh+wVkHeHVyWMwgTherayCcsmZA+DBue9xpnILwTY82Tj0QItD/TnHCOiCGkoEAwfkQ50IyDO47hgGInH4wEGKQ6TikWzYrhKSsIyB12bC5UYfEfntjXrTJ/0pQRmYAoR8n9ei7+/YGfd2s0Letu50AwRpHppMMI0sF2nu/UAfEMgFks3FYbyUVUBZmEkCYHUuA2jUVsh1Y1kHf/2QqpE7qbw61/QWdTMb3b1Qx3AAAAABJRU5ErkJggg==",
     "wiki_name": "Zamorak armour set (sk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_armour_set_(sk)",
     "equipment": null,

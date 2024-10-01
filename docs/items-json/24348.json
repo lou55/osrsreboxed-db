@@ -1,7 +1,7 @@
 {
     "id": 24348,
     "name": "Bounty hunter hat (tier 6)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-11-07",
     "duplicate": false,
     "examine": "A hat fit for only the most esteemed player killer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu2W32tSYRzGPUSIIop4UFRmqMyxNhZFRDdRu4l2I6Pa5kWMaBcNodEWFjZctaLhiFFReTEsGDVkRD9o2kU/qO66GTSC/oRB/8TTed631525RReeqdEe+KLnh+f9vM/7fN+jzbajf1saas80URp+rq2h5aC+r6y0EpSGH6ur+PS20gpQBJD1sVxGqVisHtfe2QBpKC8t4euXz3i//AavFxfxtPAIhXwes7lc86BYd29O43Y2i6mJcWTSaVwYOfcXp9adrb1ikTQBRJCBZBIzk5PV2jywhlgkAr+uw+V0bnHdMplnLWv6cgap/n7cuTZVPdfd2Yn2aBRtoZCA8rjdcNjtm35rMaSGhYcPxEOHBwdwaXQU2aAPEwEv9nV1YW8iIaDMQD6vVxyruh7SrYbT0Od24uzQEE70HhPLw8HpUEc8LpZtTzj8RyBz8Tl1QkkYDsRi0Ll0hFJAdIhAKktmoGAgIIrfS/EQ3Lts9QMpGBYHVGVeMgWkXKoFYs1Hg/XCUJqYmYLhIAwxAb51RwXQq1IeV8ZTGDx5FAf3J+Bw2IUTBKWDdPJATw/m2vzWAPFhz2IhAcKZEoYDEehdeR7Lz+cwE/bjxtVhpE73CqAO+27hFifAe+nmerjrloRa+A1FIAb5RXsYHypFVF7ex5NCRrjUd/yQADricmwAokvsTIuAKAn12MgBXVJgLOXcxfQp6LpHhJowZiAu7YhxzUIgSkIxnEmPq9o9qgjkNc6rY9Vt/MwYe5cFHbaVNJEHgp33ezZ0VG0x1ISZNcIcMzK1DTBKEoq5uBXWqx3IpVNLqZaMbh52OrYTRkm+y5iNe5GACKzanxQM86Y21QYAUZoAUrs1W18Bcc8543Ob/gU0TPKFSSBuBQTJhXwYC8hOazCMWRJM5YhhbiKMWRKsRWB29B/qFyEf3YMiJqCXAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xu2W32tSYRzGPUSIIoooispsKnOsjfWDiG6idhPtRka1zYsY0S4aQtEWFjZctaLhiFFReTEsGDVkRD9o2kU/qO66GTSC/oRB/8STz/v2ns6cI8jjNNgDX/Sco+f9nOf7fF+1WLb1f0tD9ZkmSsPPtTW0HNT3lZVWgtLwY3UVn96WWwGKALI+lkooFgr6cfUnt0AaSktL+PrlM94vv8HrxUU8zT9CPpfDbDbbPCjW3ZvTuJ3JYGpiHOlUCudHz/7FqT/OVl+pW3vb28WNCUSQwUQCM5OTem1cWEM0HIbP64XDbq9x3TQZn1rW9OU0kgMDuHNtSj/X09WFjkgEbcGggHI5nbBZrRu+awok3VKOLTx8IF5HhgZxaWwMmYAHE3439nR3Y3c8LqCMQB63Wxyruh70mgvHm/Q77TgzPIzjfUdFe7g4HeqMxUTbdoVCmwIZi/epE0rCcCEWg87WEUoB0SECqSwZgQJ+vyi+L8aCcO6wCCDp/j9J02FYXFCVsWUKSLlUDcSajwR0mLqA+GQKhoswxAT41hMRQK+KOVwZT2LoxBEc2BeHzWYVThCUDtLJ/b29mGvz1esOpYmbPYsGBQiflDBciEDvSvNYfj6HmZAPN66OIHmqTwB1WncKt/gA/CzdVOGuE4iSUAu/oQjEIL/oCOFDuYDyy/t4kk8Ll/qPHRRAhx22dUB0iZNpEhAloR5XckCXFBhLOXcxdRJer0uEmjBGILZ2tHLNRCBKQjGcCZdDnx5VBHJXzqtjNW18TVf2LhMmrJY0kQeCnfO51k1UdTHUhJmthDlayZQJE7aZJBRzcSvk1SeQrVOtVC2jm4fstkbCKMnfMmbjXtgvAqv2JwXDvKlNtQGtqiVNAKndmqOvgLjnnPY49X8BDXbHKPmDSSBuBQTJBj244JeTtsUwUnIxCaZyxDA3BcYoI1jTYYxSIC0Bs61G6xfhXgclDJvAEQAAAABJRU5ErkJggg==",
     "wiki_name": "Bounty hunter hat (tier 6)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bounty_hunter_hat_(tier_6)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 25656,
     "name": "Ruined guppy",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-04-14",
     "duplicate": false,
     "examine": "A guppy you ruined during preparation.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACK0lEQVR4Xu2VS0tCURSFO3+kQdAgahJECVIaPc0orczeTwuzJ5mFFRUNjKCZPQkiogc0aVDOJKhJ8wb9nV3rXLb3kZPoeHXggoN47+Xsj7X22aekpKiiCkKCsq+8SJDb6aT2Rjd1t7VRoKuLRvp6aWpwMF9ggjqam2jA56Ox/gCFhodpfnKCOltaqNfrpYlg0G4wIZ2BK3Pj4xQNh8nv8ZgA8WxvLaoaytof+mInEBtgEBtgZkdHaXkmRLFIhDwVZSqBfvqkrJSGevzSibPDQ7pOJunx6ioD1VRfL2NKJhISxAg0VlOlCoY30YAAgwgeLi/p6e7WUERk3AEQegggAPr6eFcHozek9h8wi9NTtLGwQK+plCE27T1HBRi9Z5TAQEI2prEgjjKKba8s08HWlnwHSOs3aGKFICwhI0BMxoLW1eBwyLisz817/VvappgvOEGIwVpwfz0mowNMq8sl4fGdr7JcNZCQsfBCQV48iXm+oJ/wPWAQU8xdpxqGZXYDvQQYgKBHAIMT9PmW/uXc731yIg0KC0MOUa26arOAmOHgcM6hENPR7k4mHgxDPo2YVewiHORIrTsplJCFIs7qjAuAwQRnKJxKfAMXE/G4HKI5hzJGBEcAASgsuKRHla2vciK9GG54vkAxMDEObIJgadOYo8Fx31xaklcFfs2T2zZp7uDGT788W+KxHYYl6ObkOJ8AVgm6PTstLKD7i/PCArJhxvxVBQVTVH70Dc2u1bkAj+wPAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVElEQVR4Xu2VzUtUURjGPf+IiNBCaqEQJQw2I6PZZNiYmpr5mYVNfpFNYUZGiwmh3VgWAxKhBm1cqDsJauPeRf/OW79zOfeeex03dmbuQD7wMsyZwz2/eZ73vLeu7lznqgkpKV+xSEkqkZAb7Sm53dUlAz09cr+/T6aGh+MCU3KzIy1D2ayM3R2Q6ZEReTI5Ibc6O6Wvu1smBgerDaa0M7jyeHxclmZmpDeTCQGy9ubZkmuoaH8EZZwgNmCIDZhHo6Oy8HBa8rmcZJoa9d7mhgYXUH/7pLFe7t3p1U5srK3Jl2JRvm9u+lDptjYdU7FQ0CA20NjlSz7MPwIZiz0gYIjgW6kku9tb1j9WvjsA0UOAAPT76Jc7mKAhve/AzD2Ykhezs/Lj4MCKzfvdRAVM0DNOYJDSjWm7wFXmsFeLC/JuZUWvAWlDsYcmtkEcwCClIyAm+8BoXWtt1XFF1x2CIO+hzBduEDFED3z7PK+jA+Z6Mqnh2Ze9eMEHij71jFI6FlMcaMpMYjNf6Cf2A0NM+dTVSriDwm7QS8AAQo8Aww06/nl4wrkwDGuOFG5ID4piyBHV0+SVEyBROBx2ChWWB0VM71df+/EwDM1tZFYZF3HQROo4PltKH5RLtPguAMMEN1DcSvbgYmF5WQ/RCrqEwhHhCBBAUbgURFWuryqi4DDe8OYFysBkHNgQVYGhR0w0XPeX8/P6VcGnmdwVhojKc4c3/uH+XiieKkVUTkq+flgvG08MMEjJ1sbHOOI5TUp2Pn+qLSAzY2oECMXWwKerpmD+C/0B4RgWS4eHUqoAAAAASUVORK5CYII=",
     "wiki_name": "Ruined guppy",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ruined_guppy",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 26887,
     "name": "Portal talisman (air)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A talisman bound to the Air Altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACG0lEQVR4Xt3Wy0oDMRQGYOd5hCqCKxe6EroRKwjWUqr1rtVaay1ekFqlrryAS/FxdOczRf4MZ+b0JB2TqVPUwI+kQ5KvycnYsbG/2QLln8xaoOZnZ72TISpQjzcd1dzddU7moOfbrrFoUkYCwi7xrCwuRpHPMgah9RcsgBwUA0ZS1LKZoLmZmSwQSd+w/xkQywsLUc1M5XI6ruPN50Yzr3Y8KNCLI4CsLhWMIkYmxsc1anpyQoePl3M71Fj/1eY1cX3S0BkE+fx41yEUhYNwxPymOoNa+/s6EnR1XLcCeJ9/BlC8SzGovrXpt0MXR0c6HMQxEiH7SGNnOzo+CTpYX/MHAYABhXxeB33sGgcQwgZCDjeqEQo3MDWoXaupzmkzGgQQkPjcF0UgmgsgQL1Bd+226p61NIzqh1CIDYVjQn1w0F6lorbLZbVZKqlqsaiTCgQIQBxFixBM7gwwWIyDOARB37uosRh2hM4ckTtFC34HAgLvLT5XKhDdspdeT+c7DP7iyDgGoX8rvfPz4UBIPCC89kkYW0GjfgiEOQgEuBfI9mJ8fXiw1o2tj+DoOGYoEC0gQUDKxWWfPsOxxJhw7tQg+w+sEEUAGQlE8AVsIJrbAYQW7kgc89nb05MBskPs4wfP793iiYCi3F9e6lDt/eCCSc38PYPtJwwinzseSdr2C0EAyHpJSuYg/kpwyUhAPskYhCavrEv+SfsChmQuTipAT7MAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQ0lEQVR4XtXXy0oDMRQG4M6buC9UEVx1UVeCG7GC4IWi1luttVVrLV4QrVJXWsGl+Di685kif8qZnDlJO5PWEQ38yMw0yWdyMtZM5n+2QPkntRaouULBOymiAvV8d6ualUriEGhqYiINVKBe7jvWpMPyKyCsEs/K4mIY+SxlEFq0YAHkIFMzJsCkCMpkzAQ2aDafjyB+CDPs2EafAbG8sBDWzHQup5O0v/3cavbRNp0CPTkCyNpS0SpiZDKb1aiZqUkd3l+OneC1ED3avCZuTk90BkG+Pj90CEVBX77F/KQmKPo+qFWt6kjQ9XHDCeDX/B5AZpUMqLG7E1mhWNBlva7DQRwjEfIaOdnfC7dPgg63Nv1BAKBDcX5eB9dYNQ4ghAuEHG2XQxRO4Migdq2mbs+aYSeAgMR9XxSBaCyAAPUGPbTbqnPe0jCqH0IhLhS2CfXBQQcbG2qvVFI76+uqvLqqMxIIEIA4iiYhmFwZYDAZB3EIgmvvosZkWBHac0SuFE0YBwIC7y0+1kggOmWv3a5OHAY/sWUcg9Cfle7FxXgghDogcRhXQaN+CIQxCAS4F8j1Ynx7enLWjesawdZxzFggmkCCgJSTy2u6h20hjPzT4Q1yf8HqowggI4EIfgEXiMZOAEKLfj3Ah02H/r33Xs8CuSCD+g8ef0CjD9kfNgMBRXm8utKh2pMTmv722PK5R7O/z2D5CYPI56YGU2mjg8ZYhWHtD/4bxF8JSfIrIJ+kDEKzj21cxjxJ8U0e2SSRYyRp39gOiJ/WoG4XAAAAAElFTkSuQmCC",
     "wiki_name": "Portal talisman (air)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portal_talisman_(air)",
     "equipment": null,

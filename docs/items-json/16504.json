@@ -1,7 +1,7 @@
 {
     "id": 16504,
     "name": "Blessed water",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": true,
     "examine": "It's a bucket of blessed water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu2W4UtTYRTGfRERRQKpLxYZTXSkoiumNHThUNO1WDpbaku31tTpdDrLigqhiCDoQxD9vad+Z7w6r06C3jsheuFhu3fbfX73nOe8d01N/8YycqwLX0ZGQsMyPjoqk9HoRUMZ2V0ryKOZGQV5MDUps7GJi4IyspnN1rTKyHw8LguJhII1uIVG8svLCtDf1yfBay2qwe5WeZqal6W5OXk4PS2hQGujoIykk0k1pxrToXZVPNyu54HlM4DvBtv8rpaRQiYjq0/Sasz72FDbCZWe52R9ZUWzxXF0oE2BfQAzeucEGUOMaItXI72t8un1gQJRNaBsBZOjHa6gjF54PtIhualLakpuuq80S3NP/JQAJkdsBWQLUFtBZ0Dkgbvk4oGullMQXtUC8Vt03Lq/XkarwgW9xvVE4CfGxiQSDutNAOS0ZVyQknuNzxMVQsDx2/S4QyBCDJTXtJ5oGTs34WY7ePZ4QXKLi+6BaB3yAnhld24mE5ByOqjbhTOg1L3rko51y9LUDS0/UASWaSPkTBzq6qyKHRuAUqpPlZ0N6PQ5BQImc/+mXjyfCMhaskdzcZaKc71H4vuJyFWpbKy7BbIV8kJhShVoS2Xxlrxa7j8BQ9uOH8bOltGg/ikYx3wGCLv7zou8eyAgMCesTM55YHr8+3l3sLUlH/ND8n51wD0QABhhSGsOc4NaAR6ymBNi+xeE8x/2duVzYVhh3mYaAIQRd4/pl42QfN28Ld9Kd+T7TljFMdB8j1w5ByI/tIe2kBPuGsOzgHi1reJ7vgCRHZsjwouJrRJAFuZg4bJCAgsM/5Ecw7DM0aOAvNi21VaJCv3YC0s52ann3mxv64Q53H+8qzr69tlEmF8WizpJmL8rlzXIh/sVPea8rZRvQDZDVIlJqieqhXwHqs0PRnbKvBPGe3JVBfEFxq6qAWGunS4gyM/P/RF9bQCId1nDevq//F+/AJ+T9Y+AdMOQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xt2X/UtTURjHPYiIIoHULxaZTVRS0RWbJGooaroWy5fWtKWu5ct8my9lRYVQRBD0QxD9vU99nnH0epwSdO6kDnzZvXf3nudzn+f7nLNVVf0fw8ixLnwYiUd7ZbCvT0aHhi4aysjOyrI8mphQkAdjozI5MnxRUEbWl5YCpTIynUjIbDKpYBUuoZH8/LwCdLa3S8e1GlV3c608nZmWuakpeTg+LtFIbaWgjKRTKQ1ONsaj9apErF6vA8t3AN/tqAs7W0aWs1lZfJLWwByP9NSd0ObznKwuLKi3OB/qqlPgEMCMvjlGJiCBKIureFutfHp9oEBkDSibwVRfgy8ooxNP9zdIbuySBsU3zVeqpbo1cUoA4yOWArwFqM0gc0VbWv4WyqgfeEsmjzTVnIJwFQTiWWRL5wWIrDChG/gsYfjhgQHpj8X0JQCyJfMCxISk3A18nsgQAo5n04MegTAxUG7Qs0TJWLkxN8vBs8ezkstk/ANROuQCuLIrN50JSDHdocuFN6CZe9clPdIsc2M3NP1AYVi6DZPTcaipsSRWbAA2Z9pVS5MR7T6vQMBk79/UyfPJiKykWtUX5VSYajsS9yf7r8re2qpfIJshF4qgZIGy7GVuyav5zhMwlM1uxsB4AGIYNeqfgnHOd4Cwum+/yPvKjh1GIQiOWemc88D0/Pd+d7CxIR/zPfJ+scs/EAAEIiClOcx1awbYZAmOie1PEK5/2N2Rz8u9CvM2WwEgAvH2BP2yFpWv67fl2+Yd+b4dU3EONPfhK+9A+IfyUBZ8wlsTsBwQn7ZU3BcKEN6xPsK8BLFZAsjCHMxeVkhggeE3kucOY5ijrQC/2LIFs0SGfuzGpJhq1Gtvtra0wzyuP+4otb7dmzDzy0JBO4ng74pFNfLh/p6ec91mKjQg6yGyRCedJbKFQgcK+odAtsvcDuMYX/FMCP4JjlIAzBzsLiDwz8/9uH66ICHBlEZp8uM/ieVUERB3BIOWk3v/Pz9+AdFrKqmCUVWKAAAAAElFTkSuQmCC",
     "wiki_name": "Blessed water",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blessed_water",
     "equipment": null,

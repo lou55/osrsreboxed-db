@@ -1,7 +1,7 @@
 {
     "id": 29783,
     "name": "Spider cave teleport",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-08-28",
     "duplicate": true,
     "examine": "Teleports you to Morytania Spider Cave.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+0lEQVR4Xu2VW0vDQBCFu0/FF/9AH4QKCgrewBu1KNRSKoJI8S6iohSVghQVUVAEEZ8E8ckHf+vKWTnpdLNts1YNSAYOTZrJ7Jczk00qlUQS/z+Ubij2UPpodVRf78/o+u6UAIsVUunbw1n9eJLXtY0JA3a5Nx0oBkCln2sL+vViUZ+ujRuo8+3JAAzuSYUBXeoqlH6pF3S1MuYEonAuhRzm2bldAir9dlV0AsERLrKZ7Q1kw0kYlzzBlH6/KbUFkjAuqL5MpgnAbjPmc6c8HBVK6Y/7pRAQFmkHRCjktQNiPSgCkDI33B3nnEBcyAaRDjFPtg4geHNlzQgwCGUKPVTnvgXEHBsIMBD2ONSNCINQ5mmezuYDIBTnDPWk00YuKHldDjfqwXEAHayM+MAglLkZ+5B0hwvZohv2/xRbBcdx7AmkzBPhZuxDEohPKgcVku2xJd2BKoUBHxhEA4jtkjBUJ4ckEN3Bb1dAEoYDaS/cCoj/s13Yc3C8Xhz0Afp63QEgYegOFkBxWC8B2EaXO8jDw2Eece4NxELyeyRnwXaK57iOPDoj2wV3CLRVGvID4oxwF6VsKLpF0SXk4Rpz4SaByrmsLxCCHzy35DyxfTaQbPMPAHWKMCRdJQhh/gjIFWFIgsYE1CqaAZfz/QYI37IYoWRIwCSS+N34BDH5PFxUApN8AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEElEQVR4Xu2V3UsCURDF9z5JL/0DPiQGBQVlQV+YFJiIEURI3xEVhVQIIRVRUAQRPQXRUw/9rTfOytFxvK5uSQviwEF3d/bOb8/M3vW8fvSj98PYuiIPY083Ju3d0bytHMwKsEghjX04WbAv5xlb3p72wW4O52qKANDYt/Ky/bhesRebUz7U1d5MDQzuSTUDuvSnMPa9krWlYsoJROFYCjnM07l/BDT28zbnBIIjLLKTHKxJw0kYl0KCGft1nw8EkjAuqKF4vAFAtxnzuV8Y7xTK2O+n1SYgFAkCIhTygoC4HoRaqUQiCMr4NzyepZ1ALKRBpEPMk60DCN5cuSZh2gJhoefS4q+AmKOBAANhj8O6HcIgjP80r5dLNSAszhkaiMV8uaDkdTncWA+OA+h4fSIMDML4N2Mfku6wkBbd0OcptgqO478E0pUdYfwnws3YhyQQn1QOKiTboyXdgYrZkfDuEIjtkjBUO4ckEN3BrwTSlVtEHUjCcCB14VZAPM92Yc/B/63caBig6usOAAlDd1AAi8N6CcA2utxBHh4O84jj0EBcSH6P5Cxop3iM68ijM7JdcIdAu/mxcECcEe6ilIaiWxRdQh6uMRduEqiQToYFQugvcqPkPLF9Gki2uQtAnsdX0iUNKF0lCGG6BtQuOoEk6L8AuUJDukDXMsM+EL5l1XMRRCvA+rmIoxGwHz0UPxzJeJJR2R1uAAAAAElFTkSuQmCC",
     "wiki_name": "Spider cave teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spider_cave_teleport",
     "equipment": null,

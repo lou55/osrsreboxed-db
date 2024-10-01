@@ -1,7 +1,7 @@
 {
     "id": 15111,
     "name": "Crossbow string",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "A string for a crossbow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA50lEQVR4Xu2TSQ7DMAhFk0v1HF33/vdohayIGDCDJ7rIk1gkpZ9Xmx7Hw3bOL68UyvDP+8UqQUwWobVJDGX4VcmntliqDNSH1GJ67zAeIeDvhIBIbxeRAZHeMLgT+gC+2Hp/F/W/Rh5QS+i9YfBXYiB9vsNFJgrx8LYIQK+G1hBcxhbz7FUX0p6UksXwO8tk2kddyy0WioTSXvo8BW8oXd7Wu2FiQrxvulRrEEXrmyqlDbrwDIT3niwXVpBHCLBy3FhB24UALSxFCNCCrGHW59Ohp1TXZpkLlJIqQQjgUnhSadAre1jLD811fbl9BEB/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABGUlEQVR4Xu2TSQ7DIAxF05vkCF31HF33/vdohRAy/v4MThm66JOsKIHYDwPH8Wc5t7eNLcTir+fDxAYxLoKxSExk7Fbxrk2WigXD836eNFAszcVMg9BCOCr8nFDAM/cSdrtwhuCZ60bORL2APdgTuqNvDS9Qvl1l+W7wGutvtoAVQSGZ68YmR5GSjF0Ik3dhZZgY+weFubwLe05ScDH5Z0AnEEmMrY5FtFwat+9DsKtkq+UC+D6E3qT68OZCehu/xieUdzL/PlDqmhAbGyRVK5Rg24XoQ4+jTlqJeoQCPYvropVouVCg1qUtQgG8QXqsXkyP8zkXKCfCm6RjikwbkWJR7t5UrFTq0uLu5OjtSiKbZCK5xFaRGXwA5CP0tssnNk8AAAAASUVORK5CYII=",
     "wiki_name": "Crossbow string",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crossbow_string",
     "equipment": null,

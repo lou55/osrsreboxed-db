@@ -1,7 +1,7 @@
 {
     "id": 22657,
     "name": "Zuriel's robe bottom",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-09-06",
     "duplicate": true,
     "examine": "A powerful robe bottom.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4Xu3W7UsUURTAYfdjEH2NkJKUBDPEYkMWLBETU0FdMxU3y8zUIoIwkkWKXkR6QxB7oULBEBMpI4iKoqi/7MRvhrOdmb3qzu4mfejCYWbv3Nl59tx7z2xJyb/fYuIO1/W/3mLyaOqUPEgnvZiZ7JLp651eKGJ57rwszZ6TxcdnHajwjygY7oMUBUgjjFl4eEaezwwEHsxnroUjiIqEjMnszZ4sFEcgGgp6Ot0vc7d7vbEcXSDGW/T3tSn5ujKRH0pBnGt2FPTyfsoD6diNQNz3bTUtP9fvyK/1ex4oEoYv1V+tIB5qQfYX23CBVuaHAyDOcwTFAtMAQhc3nxXEuP6ORhnsbpbD1RVyYH+plO/bI7t27vCuhUFrzy4WD6RZos+ChnpaPFSypV7qaqukurLMQ7lA716MZkBEJJCuizCIqdgKVFa62wl6/2osCHpzo3AQ/YAUM9x7MgCqqtjrTZ0L9GHhUnFBBFOpoJH+NhkbaPfWUE/rsQAoPG1k9NPSlQzox9tbuWJoQZBF8eU2QwQgMpQ4clBqqsqdWQL0+fXVfEE0f/vO3+3bEAREA1D90UMSr6n01hGoMOjL8rV8QX4dIUO5gFJdTZkMASJLoCyIeywoQlH0t7wLRIRBYHRRW5DNENkpKkhRBA+g4jIODNHb3rB9IJsljjwgPF3ssM7mhLeG2GlUbTtlgFafXMiAqNI5Ymj+DnOB9P3EGN1dmiFADXU1gSwpiOzw2rAZygsUXkf0u0AEoMZErTNLgHhtFA2kKPrtS5UqTQBqOR7PypDWIkBUaQuKgPJBrmmzILJBgBhJpaTtRJNMjI/L6OCghyJLwBjLJvi4eDkDogZFqENBkJ02Beku00i2tkoiHpfpyUkZ6E4GrpGdgkHssq1ArCX6GH+6o8M7zqTTMtTn99ntXjRQeNrotyAWOtWbeyiamhXu07GA2PIWRA2KXIdc02ZBnCuIAKTFU3ejji0KyDVtFsQ1+7fEghin9acIINqfRblZWIyNMIiiaEEaEUC5tmykhl0/2wjarGUjs+N/K6z9Bj7HCyubAUlqAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADN0lEQVR4Xs3W/UuTURQH8O3HIPo1QkpTEswYKxYysERM1hSmszXH1srM1CKCMBpDil7G6A1B7IUKBUNMpIwgKoqi/rIj3/twtvMc73RzT+KFw7Pd5z7ez8699zz6fLu/+cketvv/vfnp2fQ5epKPmyjmBqlwe8AEI5ZmL9PizCVaeH7RgtI/om64A2IUQBwaM//0Ar0upl0T4zvu6XCjakL6aeZuYgMKV0A4GPSykKLZ+0kzFlcbCOMl+vfqNP1cntoeikH4zNlh0NvHGQPisZVAeO7XSp7+rj2gf2uPDAhzBJuaTOjZVXPSzr+aQZhUguQvlmEDLc+NukD4zCA9u2p+1zIAwZsb3xmEcalYN2WHeul4ewsdOdxAzYcO0L69e8w9DVp9ddU7EGcJfRI0kogYVDzSSR3BNmpvbTQoG+jTm/ESCFETiPeFBmEptgI1Nuy3gj6/m3CDPtypH4R+gBgzmjzrArW1HDRLZwN9mb/mLQiBpWTQWKqPJtL9Zg8loqdcIL1syOi3xRsl0J+P90qYmkEShT8uM4QACBkKnzhKgbZma5YA+v7+phWkZ6/QnOM793C4IggQDoA6Tx6jUKDV7COgNOjH0q3tgpw6ggxVA8oM9pQyBBCyBJQE4RkJkkVRz66ac+RtIIQGAcObWoJkhpAdT0GMQmACVFyMAwaR7O/aOZDMEq6YQC8XTthAb9jsIZw0VG25ZACtvLhSAqFKM6YqEE6YDcTvJ4zh08UZAqirI+DKEoOQHbw2ZIaqzA5aGaT3EfptIARA3eGgNUsA4bXhGYhR6JcvVVRpBECR06ENGeJaBBCqtAQxSs9uaQ7ItmwShGwggBjLZKjvTA9NTU7SeDZrUMgSYBiLQ/B14XoJhBpUQx1yg+SyMYhPGUc8GqVwKESFXI7SQ3HXPWSnbhBO2VYg7CX0Yfz5WMxci/k8jQw7ffK4ewbSy4Z+CcJGR/XGMyianBU8x2MBwpGXINSgmuuQbdkkCJ8ZhACIiyefRh7rCci2bBKEe/LfEgnCOK4/HoDQyptys5AYGRqEoihBHDWAfD4u65uFBsqQ+8cTULVNI6vBcpTH7lDTSFvoZ3Z1WweIy1W3HbFjpAAAAABJRU5ErkJggg==",
     "wiki_name": "Zuriel's robe bottom (Deadman Mode)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zuriel's_robe_bottom_(Deadman_Mode)",
     "equipment": null,

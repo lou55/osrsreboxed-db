@@ -1,7 +1,7 @@
 {
     "id": 5932,
     "name": "Jute fibre",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "I can weave this to make sacks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu2W70sUQRjHvRe9603gmwqKjAo6MYu6PEI6kAopULnSUrnSSsky+l1yFP2Qw34giP2gQsEQEylFiIqiqL9s4jPLs83OzZ23e1v0oge+7OzMMzuffZ6ZZ7em5t+3hHLLNf7HLaEe57Pq4UiHVuFmuxq91qYlELMTfWpm/KSafpJzQNkvUTW4ByRQAIlsmKlHvepFoTuwMPeM2QpChYJMqPHbR4uguAIiEqBno8fVxN1O7cvVBYS/Cf1tIa++zF2NBiVAtCU6AvRqrEcDiW8pIOZ9nR9RPxbvqZ+LDzRQKBgeKm8tQCzqApq83+UD0XYBzU32B4BoVwiUCKSBhWRzc28DsTgQkt5SQAvPz8YHJFGizwWEn+wNgIiaDfT+5YAPhEIByb6wgVjcBsKPOa376lRm9wbddgEtvR4MAr29UT0Q/QAJFJGUyLRntqiW1MaSQMtT5+IFQgCYQPieOLRdnenYUTZl+H6cueADfX93p1IYLAhkQvFwAcIv27JVdR7YptuM4weQwJlAn95cjAqE/X5bF5Ck6GDTJh9G5iD2k4wJ0OfZy1GBvBpEhFYCMiGIVF9bgxru2qVyh+v9cZljAoUoit6RdwEhHo7PkebNPggLAzKYbdQwV3pT/phEJ1Yge0+YQOwhogGQ+JRSLEBSY1i0pzUZWIB7EySVXKvSDeu0mhvX65qEKAVrVq/SPgBRpSuEwbwTZgORhkvde3RKho7t1OnhSt/13F6V70/7unWqSfcxB2BSmq6v9YGIUCQggaLPrDNRZabM66vI3ECF8/v1G3Oc7YVM2WkT2UAhoDwgV9rQ2HBG751kXa1elFojx530EUkqN8KPcalHAkQNClGHgkDmaaPPjshKAlDqUWQgTlkpIGoKP1ocf/MfSOoUNUu+Y/KtQx+mh6oHstNGvwkkf5MCJN895okvBXH+6ekAEDUodB1ypc0Eol0OSCKEbyxArrSZQIyZvyUmEH7y/YoBCCvenC7Z+0dkA/EvbQKJQgBVasWQInP//EWgclYMWaz/Vp39Ak2u5lhALnqZAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKUlEQVR4Xs2W7UsUURTGdz/0rS+BXyooMypoxbaozSWkBamQApUtLZUt7UWyjN5LlqIXWewFQeyFCgVDTKSMICqKov6yG89dntkzxzvrzu4UHnjYmXvP3fObc+49M7HYyre4ccs1/88tbp7ks+bRSKdV4VaHGb3ebkWI2Yl+MzN+0kw/zTmg9EPUDF4EIhSAKA0z9bjPvCz0+ALjHnNafqhQkHEzfufoEij8AoQi0PPR42biXpf1xa8LCP4S+udC3nyfu1YdFIFwzewQ6PVYrwWibxAQ1v2YHzG/F++bP4sPLRBiJOvrrXR0ZcW086kJhKAuoMkH3R4Qrl1Ac5MDPiBcE0hHVxb3lQGBuLlxr4EQHBAsbxDQwouz0QExSxhzAcGPewNAyJoG+vDqnAcEhQLivtBACK6B4Ic1bfsaTGb3BnvtAvr4ZtAP9O5m7UAYBxChkElmpiOzxbSmNgYCfZo6Hy0QBAAJBN8Th7abM507ypYMvl9mLnpAv97f9WBCA0ko/DmB4Jdt3Wq6Dmyz15iHH4AIJ4G+vr3kBNLRA6z0tC4gluhg8yYPhmsg7CfOEejb7JVqgYo9CBlaDkhCIFP97U1muHuXyR1u9Oa5RgLJpqijKyseeRcQhD+Hz5GWzR4IAgNkMJu0MFf7Ut4csxMpkN4TEgh7CNkAEH2CFAkQewyC9rYlfAFwL0FSibUm3bTOqiW53vYkCK1gzepV1gdA6NKEqQgIJ0wDoQyXe/bYkgwd22nLg1+M3cjtNfmBtKfbp5rtGNYAGCVNN9Z5QMhQhdmBlYAIhTHZZ6qVLBnuawIqXNhvnxjHWQeS0mWjNBChdHSHFYFcZYPGhjN27yQa6mxQ9Boed5QPmUTnhuCHefYjAqEHhehDfiB52jCmM7KcAMh+VDUQTlkQEHoKPrRw/OU3EPsUehbfY3zXQZ+nh2oH0mXDuATi1ySB+N7DOvqiIc4/O+0DQg8K3YdcZZNAuC4HxAzBNxIgV9kkEObkZ4kEgh/fXxEAwZZuTpf0/qE0EL6lJRAVAigWY1svJw0oJfdPJECVmoasBJYq+f4n05Au6TUr2v4Cl7Iw81h9QKMAAAAASUVORK5CYII=",
     "wiki_name": "Jute fibre",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jute_fibre",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 25456,
     "name": "Gold locks",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": true,
     "examine": "Perhaps someone can do something with this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xu3U3UtTcRgHcA9jHM5hTGTiyAsvgoigi7roBYpUcvnKctrUNTWXupzKbL4t32qKOdJw6DKyMoSKLoKgiyDoIugiugiCLvp3vvH9rbOzN90q3W72wAN6ztjz2fN7fk9JSTGKcWghQc+ChwRvTw9uulzo7XAWGiVhORhEaHIC87fHMDE0hO5r7YVCSdiNRrETieDp2hq2wmGsLiwI3PU2R75REl5sbmBqeBgNtTUJ8yMhurKCu+MBdLW25hMlYWl6CgNuN65UV6cUjsF4fHkFcWb6OjszgGLvw3Nz4n36u0OJWAd4LC02W4aiEtYXQxgbHMDV+voM7w80JKyOVGDE0yc64LTb/xRMTg45Z8zR2Jj27oCBEj4+VLERsGLZW44ptwX+jjKMtJfhlqMU/fbSeNFZvx/tzc1iRzE5c9xZvhs3DhIVA33eVPHhgYon01bRMeJC/eVY8FgEsrvBLOaMHWQ3ieP/vAz8W18NqfnXIeFTRMWXqIqvj034tm3C+xUVm2OKwD2asGLdXyGQwdHRhOuvJ/cVZ7Cp7jJ8rUZ4moxw1hhhv2D4F5gO+v7chB87ehLH5+wgkduTCpYHZIy7ytBlM4tC870yFFnPQIcsUD31MVTjOQNqTmuwnEISx8XuEPTrpSmpAJ8RRdBOUEHYK2Om1wLbWTUNsxeKnSIsR1T6kaUW4HPO16t5BWs+WczVmRPyniA+11A8Pg3WdsmYC0oSxTQQO8JMBfHY3txTxGyxQ0crjaJbIc/esEmXDhtsicFcdVlREt7dV0WX2J1UzM9dUxz0dknFVkARK8GslggcO8a5IuqOW0+iOWtcIVwffU1mcVOdtabsIP5yrUsc5v1AnCPuJovZkASKp1dfFYkYXgJHtQn2izmAWIQodkrbSdrxEUgowfwMbxo7VGU1iG5FRmMoroawr0LsLq07/BzxWmeI4WXIAmLoO2V3VscRQVwqiMWOVxnxerESz2aOiF2lLdNM3Un8/hwwqZGM4zERkwo6dUyOYzJ15z8A+0UyjNeex8Rff/6kkoY5JESm0GEaKLl4XhCZoqDFi1GMrPEbrX3sg1xzJ3UAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQklEQVR4Xu3W3UtTcRgH8B1kHHYYE5koeSESRARd2EUvUKSS5ivLab6s+Zq6nMpsvi3faoo50nCoGVkZQkUXQdBFEHQRdBFdBEEX/Tvf+P7Gb+d4NnWJc134wAN6Nn0+e37P71GL5TiOI22hQM+MhwJfeztuezzoaG7KNErBQiiE8NgoZu4OY7S/H203GzOFUrC9vo6taBTPl5exEYlgaXZW4G41uI8apeDV2irGBwZQVVZqmB8F64uLuD8SRGt9/VGiFMxPjKPX68X1khJRuLioSKSE8fjkc/NPpyEUMTNdLS07QMbXI9PT4vUj6lKsAzyWuoqKpKCVuTCG+3pxo7Iy3SgFS4N5GOzuEh1ocrnix2RMDjlnzF1dnfDaIQMVfH6sYTWYjwVfLsa9TgSaczDYmIM77mz0uLLjRacCATTW1oodxeTMcWf5OzsPExUDfV3T8OmRhmcT+aJjxIV7cjHb7RTItiqHmDN2kN0kjt/zMvBrfTWY859DwZeohm/rGr4/tePHph0fFzWsDdsE7sloPlYCeQIZGhoyXH89ua84gzXl1+Cvt6K7xoqmUitcl7MOAtNBP1/a8WtLT+L4nB0kcnPMhoVeFSOeHLRWOEShmQ4VNlXPYLMqUO2VMVT1xSyUnpOwlEIRx8XuEPTntX1HAT4jiqCtkA0Rn4rJDicqLmgJmN1Q7BRhKaISj8xcgM85X29mbFj2q2Kuzp9RdwXxuUTx+CSs4ao1FZQiikkQO8I0g3hs7x7YxGyxQycLrKJb4e7dYWMeHdZXF4N5yvdFKfjwUBNdYnfMmN/b9jjo/byGjaBNrASHZhE4doxzRdQ9r55Ec9a4Qrg+umoc4qY2ldkFaI8/QYr45LJLHOa9QJwj7ianI2sHKJ4+fVUYMbwE7hI7XFdSALEIUeyU3Eny+AgklGC+hzeNHSrMzxLdig7FUFwNEX+e2F2yO3wf8bIzxPAy7ANi6Dtle0rHEUGcGcRipwuteDtXgBeTJ8Sukss0WXeMv19i9gFZLOZ/NySOx0SMGVR8So1jknUnGcCY5vp7hhknYbz2PCZ++ktnbQmYvRDmGgcOM0yCjMXTjkgWRliy4keCSBYZLX4c/1v8BaSNIwyV8qB3AAAAAElFTkSuQmCC",
     "wiki_name": "Gold locks",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_locks",
     "equipment": null,

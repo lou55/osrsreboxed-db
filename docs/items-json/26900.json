@@ -1,7 +1,7 @@
 {
     "id": 26900,
     "name": "Greatish guardian",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": true,
     "examine": "Not quite as great as the Great Guardian, but pretty close.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xt2W7UuTYRTGff6JvkREiEISiSNr4tiUTRxTNJXJaE7HdDWnmy9rTNY235dmyVDDQoeZYEWmZds0h2hmacWIoDKiT/0jV/d95qy+9aHn2eiCw+D5cv845zrXWVbW/yEBycoICTB4HJCbjYdQaYNLPmwP+aGwNkFlbyGoi20G6FpqpYYS0HzdB3VHK8rcTvQ9vk3FodomryG3VClVp5KP3IkvYm5rCU/fbUDnd6PM6SagwaVpWIKd0LvMyFbIcbJQJiaUQI9X9PYQgNblxfL+Olbfx7Hx8RV9W3i5ghpnA3KUxTglL8QJWb74QNVDfpR3eaBz+6l4l2KJLeoY95PaWIkyUzWqWutxPP+MuEDz289ZVzax/uHNEVCqxlZnUNLsgHsuyPzVhWPZOVDVV4oLVDnghdbrIqBU2UNDmIjdg6LBCpXZDld4GEafDVpLHetSo7hAfFya7nbyEYeJJXaZb6KwjgaYoWfY+LYwtbYEU8CFxv5ulk92MYG4BFptdWsHjSmS2KExdkzfQHDlPhxTI/TNMx9CXpEMiiarFOsvQG40Q2mx0aaNR5YJ8HSJBp9+fGcbt4fOuyOQ1ehRcsWBgqo6ZnSD+FC8+GOh6AqGl8MIb0axuBNnFWPhOMgS23zUnVKDXmyglARm6GeYiUfY2q8xP8Vx+WYQ5sGrtGUSAwnQtHdTIO4efMbe1y80Ru/iLOvQ6G8AAi4YTMhVlkoD9WB3G/vfDhB4tMBg5lhS29nWDaOouuIPKAlguPhdi1KHbOMDtFV8hNxblmAfdUYikJT4348xZugXFJBtk7dYkr8mMKPPQ9t4rlwjPRQ38tjqE1r/SOItQZoCXuqSxDBcAgvGCZbQz8nkFT29BNfY70sHDJdAAchB+L8ADpPMpofpA+Kj4r/8nLjC09A6vemDUdXXHT6ezCXb+Cjy1OXpAuL6lTWqFjs7rLPIlivSCZSSQOteoEt1LO0S2D3byBSYlCQ7EX8rAWeLVZkExS673oTztZcyCyqDYP69fgL1iDtdLwHkGAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xt2W/0tTYRTGvf9Ev0RkiEISmSNr4tiUTRwqmspkNKdjuprT+W0NZbmpqUuzZKihocNMsCLT0m2aQzSztGJEUBnRT/0jT+97rtPhz91t9MBhcMf2fnjOc857U1L+DwkQKykkQN9ph9xkOIRKGJx4sM3nhsJSB5WtgaCuNelR3FAZbygB9Xe7oW5tRKGzBb0vHlJxqKbx28goUMbLKfGQqfACZrcW8erTBordThS2OAmof3ESZm8bdA4T0hRynM2RSQkl0OElPV0EoHW4sLS/jpXPYWx8fUfP5t8uo6KlBunKPJyT5+CMLIuALqWmSgElApUPuFHU3olip5uKuxSKbJFjPE9qQykKjeUoa6zG6awL0gLNba8yVzax/uXDEVC0RlamkV9vh3PWy/LVjlNp6VBVl0oLVHrHBa3LQUDRsvkGMBZ6DEWNBSqTDQ7/IAzdVmjNVcylWmmBeLs0Hc2UIw4Tiuyy3ARhGfawQE+z9m1hYm0RRo8DtX0dbD/ZpATiEmi01Y2t1KZAZIfa2Dp5D97lJ7BPDNGzzjkfMnNlUNRZ4jH+AuQGE5RmK03aaGCJAM/na/Dtz282cXtoezQEWYUO+TftyC6rYkHXSw/Fix/mCy5jcMkP/2YQCzthViG2HPvZxjYduVOg10ndupQU8c8FFujXmA4H2NivsTyFceO+F6b+WzRlcQXiB2iaO2gh7h58x97PH9RG18IMc2g4BkDAVb0RGcoCqdvGJeDp7jb2fx3A83yewcyyTW1jUzeI3PKSGADRKQ4ouUtT4SA5ZB29Q1PFW8izZfb2kjNRqDjAcPHXjxEW6De0IJvGH7BN/p7ADN2dNI2XizTxaFWsBAryyMpLGv9A5CNBGj0ucilOrYqVwBbjGNvQqxTykq4egqvt604EDJdAC5CD8LcADiPupmdHQCd/IbEEahX/5NeJwz8JbYsrce6oqqsOQyvuJevoMDLVRYlyh+t4AaoabOxinUGaXJFIoONrhI97drHoWALadVICu882kgUmquMr4uQ3CZKAi3mqw5AnhdjNrjPiSuX15IJKshz925v9Lx+Oaqzz+cejAAAAAElFTkSuQmCC",
     "wiki_name": "Rift guardian (Greatish guardian)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rift_guardian#Greatish_guardian",
     "equipment": null,

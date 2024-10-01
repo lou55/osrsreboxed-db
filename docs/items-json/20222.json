@@ -1,7 +1,7 @@
 {
     "id": 20222,
     "name": "Holy blessing",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4Xu3WbUtTYRgHcG/GCF9G0TeIsEGSYC5aOnCmuZHTNZnzqS2XupppVmKGsYyJ9iBmUgktszAtsgLtyaytOYZFZvkqCMJP8m/XdTpT60UvYveB6IKLs7ODu3/87+vcmJHxv/7dElBa01IRAtt3FMO495CWKIHsHDtDtm7LR5bBgjxTrVYggQKLH3sKvNi1242duQ4Ysku1AglY9p9AyYEzKCo9BfO+AExmH2MIR88kogQvTotay8+hzHmBr8W2DhQWH0d+YZO2oHJXHw5WX+GrzXGeU6NnGzcVyUWpIEfVRbjqh7krawb5nlKzV4ZkgqjEOlCdL8xd7R3he0pt8xa7fBSB3J7rqG+8A1/gAQ4fnYCn6V4Kp4AkowhEiCMtj+Bvn4ZOb062SWldHibGy+SjVJCCUfrumI0xaktHNbY+TmFGb1vxcNK+DqQJijBPphyYmXbi9awLb+eqEI24eet0uhz5IMIk4g14v9CKxY9dq/P0EyQZJRCP1TFm6VNwzTwpA772rJLw9gnMv6thzPKXPl5MwRTxceD1j6eOg5qGWylc2lGUzOoiCurYyWd8HDS3PeU3UQUSjo6MNKf16w8LxpzunuVu63yBlo7n/B29lXSQ0qFKqf3+t2kpwckQpDv0BsHeCF87gwqQcPScUqMtTXNaagleuKtnDr0DMVweivM1dCnKQMIRmFKjLaXU0owSPEeUSE9/FAPDCdwMf8C1kQX+3D84z98TOMsQTv47PJRuEJVA+9lXnAglRKCx+0ucFCWjz2yGvWIFkdh3vpcAohI8P4SgdGibjKZvKczMy6+cpCQMleB5odm5eiMB/QaP0pkBTE4t85xJxKgleF70+grkGj9zQiXWFd5ODTBqCYyOLybTqU22U9ar/qdSEZpD/r5+AHH1QtOxhWpFAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xu3W70tTYRQHcB/GCF9G0WvfRJiQJZiLlgpuzXTkdE10Tk3T1JWmWYkZhhkT7YeYSSW0zGJpkRVov8zS5hgWmeWrIAj/km8753bvXL0L7nMhOnC4u7uM++H7nOdhSUn/698tAaUNLRUhsH2HA5Z9h41ECaRnuBiydVs2UtNsyLJWMmhnSopslECOzY+9ObXYvceLXZlupKUXGAUSsB04ifyDZ2EvOI3c/c2w5tYzhnD0TOKyCX45vbSw+DyKPBf56nB2IM9xAtl5jRpIUkqJoOKyfhyquMpXp/sCp0bPNm6yy01JBbnLL6GseoS71DfE95SaqzQgMyUqkQCqqg9yV9SO8j2ltnmLS2ZKVIJB3pobqG64i/rmhzhybAI1jfc1nAKSjCIQIY62PIa/fRomc26srUqbsjARKpKPUkEKRul7407GqC0d1dD6RMOM3SnEo0lXAsgQFGGeTrkxM+3Bm9kyvJsrx8K8l5fOZMqQv/MIE43U4cNSK5Y/dcXn6RdIRf3+S51KIBKuYszK555186QM+PqzSsLuE1h872PM6td+fpmCsfNxUOsPaceBr+62htMdRcnE50RBHT/1nI+DprZnvBNVIOHoyNA5LQUTH1zBmDPds9xtnS/R0vGCv6NdSQcpHaqUmm6oxF0kOBmCdAfeoqdvnq+dPQqQcPScUqMl1TkttQS/uKt3Dn2DYVwZjvA1cHmBgYQjMKVGS0qp6YwSPEeUSO/AAgZHorgV/Ijro0v8eWBokb8ncGpaMPZ3eHjdHOpWAu3nXnMilBCBxh+scFKUjDm5Ca6SNcyHf/C9BBCV4PkhBKVDy2SxftcwM6++cZJ/bgzdSvC80OxcuxmFeUON0snNmJxa5TmTiFFL8LyYzSXItHzhhPIL13g5DcCoJTAWWo6lUxlrj7bVDcKopZ43cYiBGKX+FvITdF1mqudewBcAAAAASUVORK5CYII=",
     "wiki_name": "Holy blessing",
     "wiki_url": "https://oldschool.runescape.wiki/w/Holy_blessing",
     "equipment": null,

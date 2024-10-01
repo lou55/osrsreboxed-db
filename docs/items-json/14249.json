@@ -1,7 +1,7 @@
 {
     "id": 14249,
     "name": "Slayer cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "The cape worn by Slayer masters.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRElEQVR4Xt3WvQrCMBAH8GSSilSKRdEiDh0cfAWfwJdxdNDRxdHJF/A9o/+Ea8/QQhTzoQdHNbS9n9ckVQhvIZU98sXAzd8pIFU2GLx5jXOYm+dCOBYw56/r2vH8j0IyUF+3zHjbma5zvhpSlU8UCr4WbSEeH1NfSDUaDpvilBhDjvM8PAhFkRxGnwNjEFJNikJNy7JBcVxgkFSrqtKFgeKgaPPHBuFI3cExGgiPDJj5bBYXtFwsXkDRO0QgwvAJnRRot92EXmlSPyYUxDwiDBIYZOCV1g26XS/qfsl0RgWdD4cm8R2wqKDT/qiTMMmAeKeSAHFUcBB2ZXtSR3rrt93BPsT3oGRAhEkWxF8fwUEc0wcC2iPKgLq6w0EcFgxkY34KhGs8oczfDlcQEuOeMBQGhc0RiV9PSUuep2cMBYq45h/FA+BepmPa0TOlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABb0lEQVR4XtWXPY7CMBCF4wqBUBAiAi1otUgUFDQcgBNwGUoKKLeh3GovsPc0+2xNMhlC5EiMHZ70FLBiz8fzT0KWqclY2fJCYfAuBYwdDgYd+wTLD55nWWABf/92s3H379frgD6dZRjQs7R8e5WMh1ECgowt/qFQkBflINROIIowJGPHo1FZnIw2eJLnmtPUJOOKwhyMPkeYJiljZ9OpnRdFCcXhoqfztVq5woDiQHL9yJ5KegTCldLBNRkQpgwwH4tFWqDP5bIGlDwhAiIYvqB7BXQ87Go7TfZUkHHThIJYRwQDAwaOvNOagX5/bvbvNnROCvR9PpfGd4AlBbqeLs4E0xsgnlQvgDhUdCCcynJRtz315QgvVJUOziF+BrUBKab0CEQwvQXij4/oQBzmGRCgFdeRB2pKhwNxMAJSSqkCkjBvBYQ+StPmXztCgWC0U0JqKQEIhyOMX0+mLc+tDEOq/1NtcwQYLyoUYtk3VHcit+QI3gAqGQAAAABJRU5ErkJggg==",
     "wiki_name": "Slayer cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Slayer_cape#Untrimmed",
     "equipment": null,

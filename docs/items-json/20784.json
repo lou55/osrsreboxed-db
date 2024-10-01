@@ -1,7 +1,7 @@
 {
     "id": 20784,
     "name": "Dragon claws",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-11-03",
     "duplicate": false,
     "examine": "A set of fighting claws.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeklEQVR4Xu2Wr08DMRiGr1kuy8gCIaAwKAyGBINBYBAYBAkCgUAgEAgSBAKBIEGSkPD3lj799tKuHNttB0OwL2l6v/rd0/d727uqWsb/Cueb25+E81u9yh/0e/4otJNBz+/VPb9aVX8B5SLIfgA4DP1xaKcB6GxQZ0ALg3JRDSDor4a1v1ip/fmK9ZehXQ9zsF8PF9W4W+3HHgABodjTWt8/h3YboFDxh9VqMquLpQEoV4drKtl9uPe6Pog9wB3VSgA7wbQYlYaBdR2Ax6DCzQgIMBR5CABAMY7z941BVAwl5wSyl5EAf+TGpd8OL8pNi0q5kVEEUJVP13iOHHNAuThjgGgkYUljYPVACUiqoJAAUO1lvR/zMCFg30L5uD4jkCVDGS1hjnVOA4ry5VDMHgB6IABglQGLUpSP5zA64DNAuWhAZsrMGCwwmRag3bo0aIICgglwDSiMzbjNUUlVzhZQyQ+Yl5eSkBKp9rkvytFSCwMzES13coyb2srcnGMsbDAAAiJxMqL7vDc5mYueonQqFXkxNuM5p3STc8RI5ZI/cqNyj1lPByJsZZWfEfypc5WwHDkKk5qXalY0Zim/cIyZJyQpIkEpHx6TqaVWOWoUZjYezoG0wZEY/3w187Qwv+RQTLyFqa3uORDHWi1InZLOGuahNLY8bwyTlwcFRIlY4pql4MqR7cLySSVW85RcphBKAKTvkZYuCQRXjmwf9ocgqPJuEVZb7Q8opb8/zjH7nN+hIlqPN1NLSpVLJu7wpZ43rGQ0AWj/wdzdyzVz5Nu5iwAyN0s0/fUtLEwJAaXvle1FC4YhTAlB5Jtjt+XeKfKXfne8jGU0xgfonAYVfehELgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACm0lEQVR4Xu2WsWvbQBTGdRhhFEKCaaYuzZKlS0uWLBmydMiSodChQ4cOGTJ0CHTo0KFDIWMgkL/3cr97/nwP15Isq7ELzYPjJFn39Hvf+05yVb3E/xUhrh47iRBfT6p4Np3EizQum0l8V0/iQVXtAipkkNMEcJ7mD2lcJaCPTe2AtgYVshpAMH/dr+PnvTp+2rP5SxrX+x7s2SNkNW4PpnkGQEAo9utwGn+n8S1BoeJfVmuVWUNuDUBeHa6pZd/Tb/ezJs8Aj1SrAJwk02JUBgbWdQB+JhVu5kCAociPBAAU6zh/fNVkxVCSde+Pj4dC2cNIgD+8cZnfpAd506KSNzKKAKr26Rr3kWMDlUKuGCAGSdjSGFgzUAKSKigkAFS7m01zHgoC9iG1j+sDVbJkKKMtzLHOGUDRPg9F9QAwAwEAuwxYlKJ93IfRAR+gUsgGpFIqY7HAZFqA3tb2ACq1agsUEBTANaAwNuuO5i1VO9eAKn7AvDyUhLRIvfe+KDBlPQMDU4i2Ozm8qRlAK0dZ/0fYYgAEROJixLD4rS2Z1MJTtE6tIi/GZj3ntK4th4vSLvnDG5XfqLoLqITtrOXPCP7UuVq4vHIeJjUPVVUMqpRfOMbMgukGIgqU8uExmVpqteQxs3GzB9ILjsT4x5t5OcPqML94KAqXqTsKs757II61W5BaSTuStIR5qBSyfL4yTF5uFBAtYourSsF1JOkIyyeV2M09uUwhlABI3yNtXRIIriNJT9g/BEH1KG291fsBpfTvj3PMru3fkWSNKCA9eczUklLtkon9l7onUW+sud5axhCA3j+Ye3y7Bkd5nTMAkLnZovLSVoHKVzgs1GFsvt1HhSkhCP9yHLfdR4VXoe14y+Ef2nb8Ev9CPAH6PEl2nk+vTgAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon claws (Last Man Standing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_claws_(Last_Man_Standing)",
     "equipment": {

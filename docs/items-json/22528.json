@@ -1,7 +1,7 @@
 {
     "id": 22528,
     "name": "Coin pouch",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-07-12",
     "duplicate": false,
     "examine": "A pouch full of coins taken from the pockets of a Fremennik.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoElEQVR4Xu3UX0vCUBgGcHcpdBOIgqKhY8JcJEma0lCklWFCiIT0xwiCbiPokwRd9GnfeM7hncezaTc7i2APPCC4+f4852y5XJYsWSza3tSyHtqoFchpFMl1SqKeW6a2VxFNASURGNY5qlL/pE6fb/nY+j3bNMiKDN3V4cAxD9JX5Os9vt8feRr7zXRA3DgQVgUFJhi56YK4OCsMQCfjVljDIEQeagAYgcHTwBNttyqifJ1+t8GsH/vF/Jrul3N6Xi3p9WUlPt/MJnQZjBSYcaAcUCrsUa28T493C+q2D6hzWCWvWSbXLon3E76bTS/IP+tRyzV2yC0xyKkXRTEcGLR/XA9h2DrgcA1wTw+3NL06TxplCQCKYShDuH7XDmFchhnB4Mfx77EKjAFC7fDU2YCpW5kgSoK2YYBQyyCUtxBbbQSkYnSIClJXaf06SCwSxKvDmPGgGcHEoRLeLsTaOMQYGPiuAOnVQWjCGESCsEIM0iHbQLjHAAixQpB6fnaB+LE3BELkW/q3J2xzq4xh1ERhUUQqED3q8D9DZMnyf/IDL8vTX7KEE4MAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxElEQVR4Xu2V30vCUBTHt0ehl0ASFM0fTJiLLElTGoq0MkwIkZB+GEHQawT9JUEP/bUnvvdy5t11M4htvewLHxB23fl4zr1Xw8iSJYtJ0aSWddF6JU9WfY9sqyBw7CK1nZIgBSkpgWKdwzL1T2r0+ZYLxe01xNqjajUpKXOj6DaGAyt5Ib0jX+/hfH/kaOw20xFiwoTQFQAZb2SnK8Rgr7AAmIxbPgkLIXJTQ4AlUHjqOYJ2qyTgdZBJWMgwZIH1sV/Mr+l+Oafn1ZJeX1bi881sQpfeKLBOklhkgUJ+hyrFXXq8W1C3vU+dgzI5zSLZjYK4n/BsNr0g96xHLVtucv1NMcQUhazangDFIQP6xzVfDKODHNZA7unhlqZX53FLmUIAoBhgEcbtNnwxhsVi3ldSBi/Hr0cXWAYSKsNTKyCmjjLGDkmhKBlIqLAQ4BFi1Nwl/e1/yFpIldFFVCG1S3wdxD4y7g7LjAfNDZkwKR5XTDKIGdjEKOi5thDS0YVAzN1BpBA6xEK6SJQQvhNzdzimL6Tun21CfOwTEkLkLf3bCVNHlcC4glH/z8LuIX6miiQmo0YVi5JIRUSPLvAvElmyROQH68IELAV2IW4AAAAASUVORK5CYII=",
     "wiki_name": "Coin pouch (Fremennik)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Coin_pouch#Fremennik",
     "equipment": null,

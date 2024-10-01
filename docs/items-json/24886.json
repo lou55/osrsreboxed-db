@@ -1,7 +1,7 @@
 {
     "id": 24886,
     "name": "Wooden table",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": true,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4ElEQVR4Xu2UQUsCURSFfYiImzYuQiMjw8SUNNFUsECIEIQKQSqECikqpKiQKISgiCBoEUQQRNC2X3njPJnejDPqvHE0Ig+chcx9935z3nUcjpH+lxhp/WtqAXjHnBoPGUok4fM6O3oIabUGBMadUrYZSqQR9Lss2waoFkQ44LLNfVwho1jQPTBbgGJUL8/qGvVyImTekmkxOtoI0WklrGtkt6WgkFJje46aO1FKR9y2GL2uqlH+sgdrM3JAOAwgNLjZi1E25rHk+/04N3qgH150txikSiEgD/R1l6eXsxTd1uZ508fjBVqKe3oadYpxVp1KdXWaysuTVMz4rAOhEZo/1ZP0fJKiQtKjM+oUo+bhMKFJpVYK8mcAk1xqSAuEZkqT14s0vTUWDY1ngEaaSEU5g99KL8BJwkACCG+LmEUTRh/XWfps5n78fpnhdTgjrkLUI1112n0BoZl+ARnfDWXI+WZEBdE+jHFYfdpSEkDYBSxhO5D5a2C8xjht0xJASKKU8+uA1NeAD2nnIQLIOG3TYryJdi/EMyyvuWsQQMZpS8ncXuBDp69RJICM07ZFYgiS2lqZ6jJE1BqnbYtk90KddLc6yxJA+Let5ycGNcishrIXMhrKXshq4Hsx0t/SNzT6rsLw3hGzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+ElEQVR4Xu2UwUsCQRTGHUTESxcPoZHVhoklZZKpYIEQIQgVQlQIFVJUSFEhUQhBEUHQIYggiKBrf+WLb2Sc3XbVnW21Q33wHdx98+Y33zzX4/nX3xIjo39NTYDggNfgPkPJJEJBb1v3Ia3mBpFBr5JdhpJpaGGfY7sA1YSIRXyu+QdXyCih+XtmB1CMauUJU6NuTkbtWzEtRodrUTpZj5kauW0lKKRU35qkxvYUpeN+V4xel5Upftj9lXEOlBwdtQPF+GIAocH1boKyiYAj3+3NcKMH+uGgO0WN1gsRdaDP2zw9n87RTXWaN304mqWFmUBXo04Ya/WpVJbHqLw4TMVMyDkQGqH5Yy1FT8dzVEgFTEadMGruD5KGVKoljb8DmBhqwDgCQjPR5OU8Ta/1eUvjHaCRJlIRa/Bb9AKcIgwkgXBaxCzjZfR+laWPRq7lt4sMr8MacRX6eqSrT1vhqoQkEJqZB5Dx2RCbnG3EWxD60wsgwH5P2zEQZgFD+B2o0zUYN2O8xjpt25JASKKUC5uA9NeAD2n7TSSQddq2xXgT/VzogTC89q5BAlmnrSTzXIjn+rnAh679JhLIOm1FdZsLJLW5NNJhE1lrnbYrUp0LmbQ5bVckgfBvW80PdQEyJt2pzqFcnoufqy9zoaqez4W6ejwX/+qoLwUu999ceqaYAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

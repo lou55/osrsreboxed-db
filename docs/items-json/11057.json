@@ -1,7 +1,7 @@
 {
     "id": 11057,
     "name": "Artefact",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-24",
     "duplicate": false,
     "examine": "An ancient goblin object encrusted in dirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsElEQVR4Xu2VW2vCQBCF3feCSEsliooGU2IkXtBaQRtFbewFpH3wrS/9//9hypkwusYqpW4rhT1w2N2A7MeZ2TGTsbKyEilKfBbJ5Vt3ApcGbf8cUIoqxTy7VnbYoV+jXujRsNug6bD9l1CKis7VxoAKvMomnVG/SfNRl15md0egjJZWkXOd27GeTjQIGeg1HlE3DPfKCjc8j/rtlikoRVeXWQaRhAAi6aBc8X2PL61Xq9T0fWoFAe+dfJ5XgD5EES2nExNQSULSP/VqkXy3xAkJ0Po5YpBauUw3rstrqVBg4zwbjxlmFcenAiUwkgyAAIMeQtmQFMq1Wgw5BVyOpACEdACEM2Ce5rNTgRTlshcHYdDU8sIECJfDg05n8/JwFpiTgdKl0mH0J/84uaX3twV9rJfc5PB2FKT9IyXppPtGh9GfvLw0gdkFMqIkHR1GTwcwSAdAsgqIvjcKhHS+gpF0ZAbpcGJJCKkZglIH+0YHwF6Mb2LDMJDaSwcw3wGSfjIOdKhUx4BkUAIG0/tsQHpjC4xhIGh3fujl0oF0GPlf2/7uV5UecMdsZWVl9b/1CVBpzJ/LqqBUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0klEQVR4Xu2VW2vCQBCF3feCSKUSxWvQEiMxitYKWhW1sReQ9sG3vvT//4cpZ8PoJDZWTKgvOXDIrhD348zsJJNJlSoVS5Hvq4gPP7hnmzRyrWtAKaqWCtqNiqHtWA0aOC0a99u0GLv/CaWoZOT3BpTdqu7TmQw7tJr06X35eAIq0dIqMu5yAct0ZiNHA314E+o7zlFZ4XarRUO3mxSUovxtVoNwQgDhdFAu72mgD23W69SxLOratl4bhYJ+AvR5NqPNYp4ElJ8Q90+zXiLLLOuEGGj3NtMgjUqF7k1TP8vFojb2y+lUw2w9TwO5tdqlUD4MJwMgwKCHUDYkhXJt12OdAg5HUgBCOgDCHjCvq2VcIEW57E0kDJqabxgD4XB41Ovtbx72DBMbKFwqCSOv/Mv8gb4+1/S92+gmhw+jIGjAXADkpxPuGwkjrzzfNIaRQAwgHT7tDPnpSBiZDmCQDoD4ySByHaM8YfmT+TcYTodnkIRjc0JIzS9VbKnIvpEAWLPxG1vCxCiTlDpKBzDnAHE/SaDwv18gFVmqU0A8KAGD6X01INnYDJMwEBScH7JcEkjC8HeN30mofw4Kzo7jIRflmDPnfMmD/nL43VSpUqU6oR+YS/7MsNz19wAAAABJRU5ErkJggg==",
     "wiki_name": "Artefact (Sword)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Artefact#Sword",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 7790,
     "name": "Slayer tome",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": false,
     "examine": "A tome of learning which focuses on the Slayer skill.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xu2X/UtTURjHPUS/iExCSVQySmqgMRN8i80yTMwXatWaYy5fWwytJqMXEZa9ihEMxEIQCoR+8L984vuM597j2dVL525F0AMfkMPdOR/v9znnbHV1/24pcvnrpSh7P0aTsW6Kj/RoYl7UvBRtLN2mhTtDLHOtI+QwfL6xgkrBqssqejk3RumJAUqN91UICDcv+lMFMUVbT+OUT4+yjLnAcYx1nqkA44+mBqmQuRVEStHHlbu0krzBkemTy8K54UsOpgSYuNzE4HnEDKlAQptPpmgpHuWmxsSykC6iIwImIjTQ3mArpKhUSHBD5xLXaTrsTm5KeIHnBV0odLrOXujL2gPO/FlqhOJdzTy5ubAf+JwuBCyEFH1bT9Hn5/e4oRNXmnliYC7ohy7UETpF4Y4me6H3uWl6vTDOQoK5oB8ihKMh0lJvI4NStPtqhoqPJ7mHZiJnHX5HDs+LEJoZb8hCSNH3zQztvEjyDktfbXHAArKQoC/uNQYhxBWomfeLs9zQiGyut4URKfMtmEL6cyKERraMS9HPT4sshBN6sa/VQcRMESyejXZWgHHEijMLUbXWW8Z18GGe9jbS/Iay/W2MLqbLCRCAnD4mQmjmQIchhLDDcCjmBstCOn5yMg4hnFuQ6W2zElJ0uL1MP97NsdDqUDsL6fjJ6aB/pJmt4xIhRAYhHVPOS1AXlWa2PJlRrtBufozy0XYHU85LUGTwN6KTZraMC1W+u9A7OIMehhuYVFeIOUnQlJNmRmSWcaHK1wW+auAyhdzh12WHTHdZTMdLDnFJMweIC1W+LnBV4Awy4zgozVew3NNIC5EQA2GAwxQXMr6IBdjuKMX9g7iA+Z8LkEOP7G2lHfa3Zx1Kq6O0nh6itUR/kLik8OEyes94octhi5eKCWbnbZJxf4FUrVw5iUMoxM4dwZSTLV9lIb1cOS9BHYhhl3VfaK6lkFnHy72Zj1IhOfAnZcw6+vZc/ldt6hdxsdTo5UYZlwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xt2X/UtTURjHvUS/iExCaahkltRAwxfQaUzLsGG+UKvWHHP5mjG0UkYvIix7FSMYiIUgFAj94H/5xPcZz93juTfHzlZRD3xgXO7O+ex8n3vOXU3Nv1sOFfnr5dDyvSGaGOqk2Ei3EvPjt5dDm4u3aP72IMtcbQ24DJ+v9+AVrLqsQy9mo5QaD1NyrM8jINy4WJoqiDm0/SRGa6lRljEn+BXR9jMecP3h5ABl0zcrkXLow8odWklc58j04DJxZviSiykBxi83MLgfMUMK4/a0tdlIObT1eJIWYxFuagwsE2kRjQiYiFC4pc5WyKF8Ns4NnYlfo6lQcXBTwg/cL2ihwOkae6HP6/c586fJEYp1NPLg5sSlwPe0ELAQcujrRpI+PbvLDR2/0sgDA3PCUmih1sApCrU22Au9y0zRq/kxFhLMCUshQtgauoK1rkzZQnsvpyn3aIJ7aLrrrEs5crhfhNDMWCGr1fm2labd5wl+wlI9QRdMIBMJenK/axBCXLqZyxY6yM1wQyOy2d4gI1LmKphC+j4RQiPruMwZTyiHfnxcYCHs0At9TS4iZopg8uVIuwdcR6zYsxBVU61lXIfv52h/M8UrtNzfzGgxLSdAAHL6mgihmfVmaCWEJwybYmagIKQpJSfXIYR9CzK9zVa7s0NHO0v0/e0sC60OtrCQppScBv0jzWwdlwghMghpTDk/QS0qzax3ZmuhvbUorUVaXEw5P0GRwWdEJ81sGReqcHahd7AHPQjVMcmOAHOSoCknzYzILONCFY4LvGrgMIXc0Zcll3RnQUzjJ4e4pJkriAtVOC5wVGAPMuM4zM95WOqup/muAANhgM0UBzJexCp490E53D+IC5i/XIAcemR/O+VysDPjkl8dpY3UIK3H+yuJS6r4D0H3jB9aDo94Phdndt8kGPkHYhlXsYoDFOUkDiE7dO4Yppw88hWujrf85PwENRDDU9Z5obH6QrpEzhQ0hV7PRSibCFcnrnLKT07zR2XM0qt3fCX/g/oJQ8AYWPVLyfoAAAAASUVORK5CYII=",
     "wiki_name": "Slayer tome (Red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Slayer_tome#Red",
     "equipment": null,

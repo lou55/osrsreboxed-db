@@ -1,7 +1,7 @@
 {
     "id": 23268,
     "name": "Gilded d'hide chaps",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "Made with 100% golden dragonhide.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xu3Wz2sTQRQH8ISyLAm5eBH04EV6EEGkJ8GKSk+K2Fqt9VcrUVQsVgiGakgtscZgjVRK/YFKipXSlqqRgj9Kiz8P4sH/6dnvLG/zdna2zSareHDgMZvd6e5n572ZbSz277c4mcN0/Y+3OJXzR2ksd0RF6XoXFbOdKhgxM5Gm6fGzNHW/34DSX6JpuANiFEAcOqZy7ww9KZ3yPBi/cU0PLyoUMk7jN4/5UOgB4WDQo+IJmigcV2PRm0AYL9GfFvK0PHutMRSDcMyzw6Bnd08rEI8NAuHvVuZz9LV6i75VbytQKAxuym/NIDzUBJoc7XVBODaBZifPeUA4rhMU96QBD+Lixm8dJNOACAItPL4QHYhnCeckCGMTtu0JnMOs6aA3Ty+6IEQoENeFDsKb66DhgzYN7reob5dFh3e0BILePr/kBc0NNQ/CeYAYhbEP0gnKdtl0co9F+7YHgxYrl6MFIZBKBmHcq2ySqkNJWszV+vZtDkpigP8wfcUFfX49Ui8GzQuSKNxcgl4MJuh9Pknlflv1mKXWTTEj6OPLq42C0GorZi3Q9ztJWhpJKgx6gHDOBFqayTQKcvYgzNB6IJ4hRPdOi9q3tlDrRv8MYbwEhdgUnSVvAiF00FwmQcM9NmUO2dTTZtGB1aJu2+KtIcxOpCBGIfAA7LgMQiF/GXWCZ0qfnUhBcpbQ6yAu6L69lupRQybQ/MPzLgi7dJ0YNGeFmUD8OZAgLHsGVQac/UgHYSw+G3KGGgLpdcSbnQShqJEurCzugWMUpwufjchAjMJ5PECCUNQ/SilKd1iqL/TatHlDbZUxCLu0BIVAOSBT2kwgFPWvcsotaIBkynj8u6kBF4Q9KMQ+5AXJtEkQf8dWCk6aZEgQ4E2DsMrWA+FhGPtzLKWK+Ua3rdInZ4jTFRlITxvOSxAKHeOLnTald1tuz/dgEJa8BGEPCr0PmdImQTgGCJ8T58a14NXIYyMBmdImQbgm/y3BMe/mGCfrp0kQmveNg0JiZOggbIoSxBECVG/zIzlk/fxF0FrNj/TH/9Zc+w0Wp0cCPhRIEAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xs3W30sUURQH8F1kGHbZl16CegghfIggxKcgo6KnItIss18aW1QkGSwt1rImm21LtmGI/aBiJUNUrDaEfkjSz4foof/p1HeGM3vmeEd33Cm8cLjj7N29nzn33DvGYuu/xckcps//eYtTOX+URnNHnChd76RitsMJRkyPp2lq7CxN3u8zoPRDNAx3QYwCiENjKvfO0JPSKd/E+Buf6fCjQiHjNHbz2DIUekA4GPSoeILGC8edsehNIIyX6M/zefo0c21tKAbhmrPDoGd3TzsgHhsEwveW5nL0rXqLvldvOyDM0drc7ISeXTU37fzUDMKkJtDESI8HwrUJNDNxzgfCNYP07KrFfcuAibi48bcGyWVABIHmH1+IDsRZwj0JwtiEbfsC95A1DXrz9KIHQoQCcV1oEJ5cg4YO2jSwz6LenRYd3tEUCHr7/JIfNDvYOAj3AWIUxj5IJyjbadPJ3Rbt3R4MWqhcjhaEwFIyCONeZZNUHUzSQq7Wt29zURID/IepKx7oy+thDxMaJFH4cQl6MZCg9/kklftsp0eWWjbFjKCPL68aQXr2gFbbMSuBftxJ0uJw0sGgBwj3TKDF6cxaQe4ZhAytBuIMIbpaLWrf2kQtG5dnCOMlSB6KenbV3C1vAiE0aDaToKFumzKHbOpus+jA36Ju2+KvIWQnUhCjEJgAJy6DUMhfR9zgTOnsRAqSWUKvQVzQvXssp0cNmUBzD897IJzSjKkLhB1mAvHrQIKw7RlU6XfPIw3CWLw2ZIbqzA5aDaTriA87CUJRY7mws7gHjlG8XHhtRAZiFO5jAglCUf8spSi933L6Qo9NmzfUdhmDcEpLEKP07IbmgkzLZgKhqH+XU15BAySXjMe/m+z3QDiDQpxDfpBcNgni99hSwV0mGRIEeMMg7LLVQJgMY3+NppxivtFlO8snM8TLFRlILxvuSxAKHeOLHTald1lez7/BIGx5CcIZFPocMi2bBOEaILxO8B0ZvBt5bCQg07JJED6T/5bgmk9zjJP10yAIzf/EQSExMjQIh6IEcYQAxWJ8rK8UGihD1k8koHqbRtaD5aiN/U9NI02hv7Ou2x9gq5GOFfZy4AAAAABJRU5ErkJggg==",
     "wiki_name": "Gilded d'hide chaps",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_d'hide_chaps",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 10602,
     "name": "Spirit flakes",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-03-24",
     "duplicate": true,
     "examine": "Fish flakes infused with spirit energy that help attract extra fish while you're fishing.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTklEQVR4Xu2W30uTURjHd5C1toZ1YRo2mZg/mKNyE39hmT9m0zVoc87fukxnaphO05qYiZQiUvQDLAqLIDCCLrqLDIpu6iIQvA6C7vorvnnOYezX++49E2xe9IH35n2f85zned7zPc+jUv1nTyGIfZNCCA4cPIR9EhSBtaEV+Zaz+yEggrqOa6hyXoK3So2M7LxUB0Vg65pA9cUBeMZXkVNkTX1A3qGbON8dQN/8C1ht3n8ZEN1IajOC9uEg3gd1GHOoYSwuk7GLRM6XEHzxkUwD9IczZBwR/HmZDtfVJRSV1cvYULgvQ8EpZJ84mcBOFoLKCz72O04b01B8XMUe6QwJzriHUHLOJfGNfzdXO1BYWouWCjUMhSWC1YyCwOmbwudFHdZHtfA3qmGp8yAzp0CmWlKB8veltjaU1Llx3aXBSJMa/Q1qGVtFCH6u6bG5wINyXlncqYQfzRZeMWWnBBWOXpTZO9E+/Zipcc6rYXeX8lpZCDY+bePRu2+YWvuInrl1vB7XwrfwSsApQbXLj4GlN/Avv0X37DO0Bu4LrFMk9DsIHDu/saFznJ0vZccE9p4Aq/KPVT02AlqBNUkTDi72SzwEfWNz+LL1iwVFqyW2LgqlzQhTSXaeWcEuRGQCIvZREKaicPeOdUBQXGlnKqFXQfLSlfKZEMI6d7pWhWO5ppiGSZhaqNKa+meZfE0VjUlsQJBrLk+QbBwENa2jWO3ToHKng9NmmWUsigqIdvYP8zq4x1bYY6n3iDhWURsqdToV0N8dn6wkXEEzTzfRNvUQtu7JiIZJmLK+r+jx9a4OXcEnrFoKDiPgyQacGtSa02DNS4tJVhKCjpEg25g2yzudmogzQuAemMb2g7B8xWQfgidLL8YazzBM5TbW0wTWE7QMzrBKLPdoInoTweWJedbZaTuhg1lyEg4nS88frXwSgiAYDNxmFYleEDqIkU8y8GR/PxeZDOLgw1cSCwQg8E/yRBNPBrKIGMdWTKlyBP3jt9DcG1Cw2xV8XqJNlnZ+ekiplKVHk0iUgt41fF6iB5yOJnbfDTYvZRlNe7WhCFw9W/f0bCyhtze9Y44a8lMbFD2sVEH0jqLDvtistKfwc0GrRc9V6ElxUBRRtSnzF9Q2E6op1ISiAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADbklEQVR4Xu1WW0uUURSdjUyTNlgPpmEjI+aFcahGxRuWeRlTJ6HR8X7NdEwN09G0FDORUkSKLmBRWASBEfTQW2RQ9FIPgeBzEPTWr1h5zuFzvrl8Mydrmh5acF5mvnPO2mvvdfbW6f4joiD4/xJFEPbs3Yd/hBQht7IR6TknOSFbamo0SRHKWy+huO4cmor1SEhOi7ZKBHv7GErO9sE1uoKUrNxoq0RoGriK0x0edM89Qa696W8SYqkIlg5Cy+A0Xk/HYcShhzk7X+M7NbTOkoLYfCDRBOP+BI2DCD+exsN5cRFZ+RUhVBJnmTKOIfnIUY2zQoJQdKaHp+O4OQbZh3V8BY+QcKJ+ALZTTg1CBGuJA5l5ZWgo1MOUaZNU0weEup4JvF+Iw9pwLNxVeuSUu5CYkqGhliDKyPgSIuTZm2Err8dlpwFDNXr0Vuo1vg0LwtdVIzbmBam6CwvbSrhRmyMU8ycVeAGh0NGF/Oo2tEze526cbTLwtyu4klIgrL/bwr1XnzCx+hads2t4PhqLnvlnEocSSpxu9C2+gHvpJTpmHqHRc3u36qih1A3BsZ3GyrZRXl8yhKo7PVzlLytGrHti/wQZAe8hXnLhDyZ0j8ziw+Y3ToqpFT6IAARzkRrEXZKcZg3znQJvAHJB+IC4i7zd2/9CQnZRNXcJewpkrRuorjSId+74WB0OpVr8GiZxtzCn1fTOcPtaCqt2ovY9JxgIqdaCEMEGgFDaOIyVbgOKtjs4a5ZJ5izVhcQ7+5u5ONSPLPOVU+GSJCTGFDYVsHQHBhsUwkFTDzfQPHEX9o7xnYbJFnPW52UjPt6MQ/v0A66WQkaGEAvWU2dAmTUGuWkxfsEGBaF1aJpfzJrljTaDqkYI9X2T2Lrjta+c7RWIYNnDWOoahKXAznuaxH5CQ/8UV2Kp07DTm9g6PzbHOztrJ2ww+zULe4Nl9ceUV4KV2E/o91znivimxNe+vv/JQAT7/bHMZBAAMXz5b1AIqJd6V2gQ3OMi0NCTgSZkFAhUTSwtEHpHr6G2y7MLhXVCEf/fvBDzEmuyrPOzImVWDj6aqLGbdEtBzEuswNloUt1zhc9LSWZL2FREgIwC4Z7NW0Y+lrDXm70xB03pYVSKKESxMgexN4oN+3KzUkQh6oKpxepKWVFUSTHA77xTvvgJY4Zt+4PCt/YAAAAASUVORK5CYII=",
     "wiki_name": "Spirit flakes",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spirit_flakes",
     "equipment": null,

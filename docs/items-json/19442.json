@@ -1,7 +1,7 @@
 {
     "id": 19442,
     "name": "Relicym's balm(2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": true,
     "examine": "2 doses of Relicym's balm, which helps cure disease.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xt3W3U/SYRQHcJ+ttW7b2lo6NTMxxDdAXkQKUmGAgAEqiCi+kkgi8iJgzmw1Z2trNWdrs1rLTLcKWVs33fSnfeN5lJ+A1hX8fptn+847ns/OOb8zq6ouRhEUR9AimBttxPBAHQzaG5C1XhUaRfB1W4u91z0sy7NijDkahEQRDvPhpRrhqWZ47PVCgY53Jg/a3VIhNCFi4xNgnwhsdhccDjfXnZ3nCsz7muA01UKp7IGm5z6fKAKv138mVpsLBqMNOr0RnZ0KfkFzgXmWQCDIxTLgQF+/BQqFBk0iMb+gyHKMSzgcQSgUhsk8iG6NHi2SDtTU5HeJtyLY3z9ANvsTR0dZZDJZNi6pVCnEUtMimJ4JIJlMYXX1MQsdl1yuFgJDi2BxcQnpdPokq9z+CAZKptJFoSNTqe6iubmFbxTB/HwIKyvJotClpventU3KP4h+XfF4gotndJwdS3qDTheblyLs5sRi8YIk2GF0utxsj+ilbmuX8YUiCC484m5QNHoc3/gkRka83NhkMhUfIAK/f4Z9XUtLyxjRNsPcdQvd4mpI6q7B7fFxY6PL3d4hrzSK4G3QiFezfdic0GHd04OES4UFixRjeglc3SJYlY3o66hnSFnj9UqCCHZymOyaC4crg9iLWfF+0cwBtyb1eOrVIjWsRtShZMgpQzuDVgBFco/24mPEgu+rTvzZHMXvZ2782hhmwG+pBwxY2r3pHMipEVUG9G7BiIOEjYHOy5e4DbthM97M9WPLr0PCqWIg9z0xnOqmcqIIe+RTZAA/1ob+GYqloO2HBg4UMHXCq2vBYA505fKlcqEIe4h2oRCQWXcXhYLoSAtBwdwe+XslGNLegUnaUD4QfawUUJrDpL0IlBzK/dNvk3NjsylvQ9dWWz5U5on3vykFrbk1iNi72Nhoh9Si6nJhaJGikXGdOcEcbfjYl0b3jJ6GF1N61iGKoftDj2YZMfmiP0hYJ+jjpcBCUB5jlN48gZQdU1j5B0gRjP79HLUyDF1kHiDn1SnubC5g/QVcNbzS6AVlWgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xt2X7U+SYRTGvbfW+trW1tKplQnhKy/yIlCQCgMVDFBRRPGVQBKRFwFzZqs5W1urOVub1VpmulXI2vrSl/60K+4beYQna2uDh62zXeML4/x2Xeec3dTU/B9FUKqqFsHCeBNGBhpg0l+BvO1itaEIPu3osf9Cx7QyL8GE41o1oQgH8/aZBuEZMcbsjQxIevWq0FD5mSkA7W2rEZoSsfiqME8ENrsLDoebc2f3iRIBbzOclnqoVDpodXeEhCLweHy/adDmgslsg8FohlSqFDK63Hb5A0x+f5BT/4ADvX39UCq1aBZJhAWKrMQ4hcMRhEJhWKxD6NYa0dLaibq6/CwJBESL4ODgENnsNxwfZ5HJZFlcMpmKG2oKIyjQ7JwfyWQKa2sPmGhcCoWmGjC0CJaWlpFOp0+0xs2PwFEViiCZSpeIRqZW34JY3CLkytMiCARCWF1NlogONb0/be0yoV3Kb1k8nuA0Nj7JjiW9QYXBFgiIsJsTi8WLlGCH0elyszmil7q9Qy5UbATBxfvcDYpG8/JOTmN01MPFJperhXCJwOebY9u1vLyCUb0Y1q7r6JbUorXhEtxjXi42OtwdnYpKu0TwKmjG8/lebE0ZsDGmQ8KlxmK/DBPGVri6RRhUNaG3s5FBypsuV9Ilgt0cTHbdhaPVIezHBvFmycoBbk8b8cijR2pEg6hDxSBnTB0MtAIukVzTHryL9OPLmhM/t8bx47Eb3zdHGODn1F0GyHdvNgfk1Ioq4RLB60UzDhM2BnSWPsZt2Atb8XKhD9s+AxJONQNy35bAqWkup0uENXkfGcDX9eE/isJSoJ17Jg7Ib5HCY2jBUA7owvlz5YIirBF1oRggs+EuEQWikRYDBXNz5OtpxbD+Jiyy/OO/DNER1owPwNdR0l4ClBzOPfptCi42m+oGDO315XMp89DzV/GB1t1aROxdLDbqkEZUyzlUFpeKI+OcOYE53vSyTaNzRk/D0xkjc4jC0PmhR7OMMIXKvwKpE7Q5H7AYqABjltHmFXw95n+w8J+LlIDRzw/RQQZDB5kPUnaY4jptcArHlyAgZ1VxY7743/3X+gU6XfHdgM1ZIAAAAABJRU5ErkJggg==",
     "wiki_name": "Relicym's balm (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Relicym's_balm#2_dose",
     "equipment": null,

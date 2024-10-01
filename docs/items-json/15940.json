@@ -1,7 +1,7 @@
 {
     "id": 15940,
     "name": "Digsite teleport",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Teleports you to the Digsite.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu3VbStEQRgGYPMHVpvND6Aoylt5a23U2raVkjbkJSHa0JY2JIqU5JOSTz74raN7dO8+5syxZ5zllM5Td/tymtnrPDM7p6srrbT+fyndSuKl9OHqqL7am9GNnSkBSxSp9M3BrH44Luj6xoSBXexON5MAUOmn+oJ+OV/UJ2vjBnW2NdmEoXsyQaArsUrp50ZR16pjThCDzwyuM/yug11V+vWy5AShIy6QjISExROm9Nt1+ccgG2UvMYL9uV0ZjopS+v1uKRboOxTnQyKAlBlwe5SPDZIojMM/V84ZAYNSZqL72lxHQcAgOOMwb0QMSpkffTydjwzqzeUCEAnCGHQcoP2VER8MSpnBOIdsjNwT/MGebNakO5MJxQCCjuO9J0iZSTAY55AEcXKJAgJpB8INItXigA8G1QJxuSRGhhiJcoHYHbzGAkkMNyRjY8JAXC6cOXi/Xhr0AX3+3QGQGLkPELafm1R2y+4OruHmsB/x2RvEieTzSE4uUbJjuG53h51FdwjaLA/5gbg/eIoyLpQMN7t9A4ATVMn3+YJQfOC5Y+8nuWwEyWXuAKhdBZHsKiHE/BHIVUEkoQmBwuorcLnQb0B4liWIkiWBaaX1u/UBQW5wCDlm4osAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB60lEQVR4Xu3V3UvCUBgG8J1/oJCkaykoKCgL+sKkwESMIEIq+iAqCqkQQiqioAgiugqiqy76W088Rx59PZ7plqOB+MKDc2Pn/PbubPO8fvWr90vpRmIvpc+2pvX98aKuHs4LWKxIpR9Pl/TrRVZXdmcN7PZooZ4YgEq/V1b1582avtyeMajr/bk6DN2TaQW60lUp/VHN6XIp7QQx+M/gOMN9EXZV6a+7vBOEjrhAMhLil5Awpb8fCn8G2Sj7FiNYnwfFyaAopX+e17sCtUNxPARzpVOpdihlTng6z3QNkiichydXjklMRxAGeikvRwoCBsE7DuMGxKCUmfTtaiUwaDiZbIFIEM5BxwE62ZwKg0EpczLeQzZGrglOOJRImAwODPhiAEHHsS1B9syOUmYQnIz3kARxcIkCAukEwgUipdxY+O4QxNslMTLESJQLxO7gV4LsmX2qAZIYLkjGxviBeLvwzsH2Tn48DKj2uAMgMXIdIGw/F6nslt0dHMPFYT3if2gQB5LfIzm4RMmO4bjdHXYW3SForzARDsT1wbco40LJcLHbFwA4QcXMSFgQyv4iN8deT/K2ESRvcwQgz+Mj6YoNlF0lhJjIQJ0qCJLQfwG5yka6oBvZUQPCt6y2L4byAzb2xVzNwH71UP0CLD6sPtDgk/4AAAAASUVORK5CYII=",
     "wiki_name": "Digsite teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Digsite_teleport",
     "equipment": null,

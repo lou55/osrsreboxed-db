@@ -1,7 +1,7 @@
 {
     "id": 11427,
     "name": "Fish vial",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": false,
     "examine": "This vial is half-filled with mashed fish, yuck.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xu2W60taARjGdz4M8S/Y0lxXVy2zjlpH89LMu+d4yS99GcEWg22thcxGmZV2WyFdNmZRFtT6sD/zme97ENkYjEHHM8ZeeFDxcPjxvNd79/6dENCS7iEgEzFjYe4xDlbFvwFKwFXVjdsTL3YKo3oDqWkioOtDDyp5u56pE9DV1QuLpZuBSBvvbDCZLbBah/SAEjAyIsLplBimvi9h7e0wRuwibDZdakmAzxeAzx+A3z8Ff+ApAg15PD64XG59gKanw5gOhREKRVj0m+DINV2A4vEEEokkisUSSqV1LC3lGy4FITrG9QCiEDhFsqxAUVKcPh27jEJAMBhiGFmWOV06wlAICIcjDSCFU0eF3dHRqReUAEma5DpKJmX+pC6bmPDoB0QAVD/kTjQW54ImSJPJ0m4oAaLoQiQSZSCqH3JoaioIt9uLfutg+4GoXsiZZodR2movjQzkGnfzCmkTlIAnw6NczMlkC4h0vWjkMSCK4+ju6W8fELV3NBpjV5pAqRS1voLP80Y4HBMYHXPCbH6kNZTAm5xWBBVxE2h/OYuDD1nsvZ/B1RsjyrMGXh89PVbtgWga0/5qtvvhSgZHqxkcF7M4WZvBt7wR1TkDxsZcGBgYRqelSyso9f6hTlp9FUN5UcGntTRq62mcbmRwtplFbXMGp+Ucp+11/D5v/d5ezVwS4PUGsLUYQXU5jtNSGuflDC4qGdS3srjcbqRrJ4d6JccOFbIGLMy68Uyx8xGnAZR6/xwVYjhbl3G1ncbNbhpf9zK4/Zj9QcfPjcgrBhRfSHyw9fUN4MFD011CCTxfqLuqhShqJRnXOy0g0s1uS/Q/ATldEnfc4JDtLmEo1DODhiEV9Pmmwg79rHpF1clKEis5A68RgrLbHXcP1HSIgC7KKVxuqaLvpLMNVV+KCvLzCYafnPQzlEYnrVrUdP/QUPyd6FlJ8rBDGsBQqGkjIFobvxLf1Q0HaXDSs224renlf6r/oV18B5ghLokclhiVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xt2X609ScRjH/b1ojL+gFEm8kJqIoOgBuRhyhyOgb3zT3Mq1VWaOhU0RFbylY15qqVN003zRn/mN5zk7Ya6t2oBTPdt3wGDw2fe50tT0/4RAVZqHQCpkwNzMI+wt2/8GKIHLkhM3R25sZQcYyGYyaQWlpImArvZdKGasWqZOoK2tA0ajiYFIa28taDEYYTb3agEl0N9vx9CQxDDlXQkrb/rQb7XDYlFqqcGpE/B4fPB4ffB6x+D1PYGvIpfLA4fDqQ3Q+HgQ44EgAoEQi14THLmmCVA0GkMsFkcul0c+v4qFhUzFJT/sg8NaAFEITlEiIUOWJzh9apcRjCZAfn+AYRKJBKdLQxgKgWAwVAGSOXVU2M3NrVq0PIWAJI1yHcXjCX6kLhsZcWlXPwRA9UPuhCNRLmiCbGkxNtolAbvdgVAozEBUP+TQ2JgfTqcbXeaeRrskuF7IGbXDKG3HL/QM5Bh28gppkEsCj/sGuJjj8SoQ6Wpez2PAbh+Gqb2rUS4Jbu9wOMKuqEATE9T6Mj7N6jE4OIIB2xAMhof1dknwJqcVQUWsAu0uprH3Po2dd5O4fK1HYVrH66O93VxvlwRPY9pfarvvL6VwsJzCYS6No5VJfM3oUZrRwWZzoLu7D63Gtnq5pNw/1EnLLyMozMv4uJLE8WoSJ2spnK6ncbw+iZPCFKftVfQeb/2Ojrq5JOB2+7AxH0JpMYqTfBJnhRTOiymUN9K42Kyka2sK5eIUO5RN6zA37cRT2cpHXB1cUu6fg2wEp6sJXG4mcb2dxJedFG4+pH/Q4TM9MrIOuecSH2ydnd24/6ClllCC5wt1VykbxnE+gautKhDpersqep+AhhwSd1xPr+V72mqUOuXMoGFIBX22LrNDd1UuKjpaimNpSsdrhKCs1sFa11HVIQI6L0zgYkMRPSedrin6nJORmY0x/Oiol6HqdNIqRU33Dw3FX4k+K0kudqjG6VJDSRsB0dr4mfiurjhIg5M+e/u2rjGMGrf/w/+e6gijhPoDf6K73/HPxjcnZGOUJUN6ZgAAAABJRU5ErkJggg==",
     "wiki_name": "Fish vial (1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fish_vial#(1)",
     "equipment": null,

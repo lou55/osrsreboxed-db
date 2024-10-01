@@ -1,7 +1,7 @@
 {
     "id": 15901,
     "name": "White cavalier",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "All for one and one for all!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC20lEQVR4Xu2U/0tTURjG76X/ol/6QTLM0Awzw4ygv6AfChKyEBl9EcMsLKsxxtiwMjPNJJuZ1RSRiYxZNjNn4pDRMi2XObOJ9G+89bzjzHPvnJtxjQV74eGenXt3z+c+73OOomQrW4aVSjFlRKm0NzeX9uXlZQqUSgcKCujg/kLak5OTCVB/AHYqdKSkhArz8zMBSqWjpaWk7FLoUFERt2/zTIl7ehlaKgPBJbQOeVp3SquqytMaVVacpIpTJ4yGUrldgDpcXMyZwlx97fmkqqsx0eWL1XTJdI5MVWcYzmC3Yq2DROts5oYNZb11jczX66jxai01XKlhQAF3ofqsUVBalzAGVFuznfXwro31oMlK9x0WumO7TXbLDYazNNbzGHOQgU5pXRJQPU/aWN2drdTV3kyPW5sYEmPM9z3vov4XzricHS30qMVhBNS6S4CCUwi5u7+XBl5188IYe9x9NOodovG3Xpryj/EVv71DA/wcHBMf8RduaXcRAn2srIyhjpeXMxggJ3wjNPnexwCBqQkKBj7QzLSfhTncBxSAAQIwaNDVw0oTTGVrkQvRf+RDhpqeHOf2ASAUDNDnUJD16eMMC3O4J5waHnTRS2cHy/WskwVnRVtTgKm8U7BjEE4RTEAhI3BEtC/8dS6uhflZ1pe5EAtggPK/G+W2YXHkDBlDnpA9uNb7tD0Ou2UouIbFliOLpOzewVco8j3MWvq2wFoMzzMcXINLrz1udgIweAeE3YkPRDcACm0ChEqEumc388t+rUVpbfUnazX6gxVdidDK8hJLQAIe2fKNDHNm4AqcFscEhHcKpQBCaaEc1pv8R/F1sgCpB0Ur0baxN574mSXOLRkKSgNGVCxwgMKJLPIkL7ARoCz9swJIaAswcqma01fOQjKlgkmxu9IpNSFPyaQHkYEMAJEr9jLkSc6ALD1coivbUiq3Tt4l2t2STNta+sX+yaLZytb/Xb8Bc3vu+EcSLG0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu2Ub0tTYRjGz6Fv0ZsEyTDDP2FmmBH0CXpRkJCFyOiPGGZhWY0xxoaVmWkm2cyspohMZMyymTkTh4xmabnMmU2kr3HXdR+e7ZyzrTk5xF7shotz9pyz5/md676eR5JylSvDSiZFWVEy7S8ooAOFhdkCJdPB4mI6VFpC+/LzswHqL8BuiY5WVFBJUVE2QMl0rLKSpD0SHS4r4/b9O1PimV6GlsxAcAmtQ57iTmlVV3tGo9qaU1Rz+qTRUDK3C1BHyss5UxhrbryQUk0NJrpyqZ4um86Tqe4swxnsltI6SLTOZm5JKuvt62S+0USt1xqp5WoDAwq4i/XnjILSuoR7QHW121mP7tlYD9us9MBhobu2O2S33GQ4S2sz32MMMtAprUsCauBpF6u/t5P6utvpSWcbQ+Ie40Mv+mj4pTMmZ08HPe5wGAEVdwlQcAohdw8P0sjrfl4Y9x73EE16x2j6nZfm/FN8xW/v2Ai/B8fER+zALe0uQqCPV1Ux1InqagYD5IxvgmY/+BggMDdDwcBHWpj3szCG54ACMEAABo26BljbBJPZWuRC9B/5UEPNz05z+wAQCgboSyjIWvy0wMIYngmnxkdd9MrZw3I972XBWdHWNGAy7xTsGIRTBBNQyAgcEe0Lf1uKaWX5M+vrUogFMED5309y27A4coaMIU/IHlwbfNYdg80YCq5hsfXIKkl7d/EVivwIs9a+r7BWw8sMB9fg0huPm50ADOaAsDvxgegGQCGsW5qXt32o+3YzT/Z7K0pbm79Ym9GfrOhGhDbW11gCEvDIlm9inDMDV+C0OCYgzCmUBgilhXJYb/EfxdepBUg9KFqJtk299cTOLHFuqaEgAZMGCKUEDlA4kUWe1AskA1RL/64AEsoARinlRVlz+qqzkErpYMTHZgSjLTkhT6mkB1ED6UF2CCNKmQx5UmdALT2c3hWDQOIlWojWqXeJerekkqEgiZW4oN6BZNLPYmjpF/svi+YqVxnUHyJ9HOcBljWfAAAAAElFTkSuQmCC",
     "wiki_name": "White cavalier",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_cavalier",
     "equipment": null,

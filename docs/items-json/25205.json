@@ -1,7 +1,7 @@
 {
     "id": 25205,
     "name": "Potion of power(2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": false,
     "examine": "Gives a helpful boost.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xt3W3UtTYRwHcB+dezl402VI76j4rhtzS1cpuWXaJnOl82UuNcfWdG469yaWUGIlYSSCFUVRNrpIhxBdRBBdddef9O08z3Fnb9LVdg74gy/saufD7/d7nnPKyk5GEeRG1iKYHb2EOwNnYTadhrbplNwogs/bJnx80cUSulePcfsFOVFExLzdNCIwVQen7ZxcIGFn0qA3TwzwT9ay8cmwTwRWmwN2+4jYnZ3HengnajDUdwYdHV3o7OqREkUwNuYuyC2rA2aLFde6LWhr00sLmvV4WTwen5j+ATuu9/ZDr+9ETW29tKBgaElMIBCE3x9A381BXO7sRkNjK6qr07skWRHs7SWRSh3i4CCF/f0UG1d7e4ccS02LYHrGg2g0hkRihYWOS6czyoGhRTA/v4B4PH6UhLg/soGisXhO6MgMhiuoq2uQGkXg9foRiURzQpea3j9Nze3Sg+jpCoeXxThHXeyypHdQZrElKcLunKWlcFaW2cU45Bhhe0Rv6uYWrVQoAt/9OfEOWlwUMuG6i+HhMXFsWq1BChCB2z3DTtfCQgiVLjMqbEZUmJpQ0XoRI84JcWx0uVtadaVGEWg+xaB5FYTmpR+qjRmo1iahCjlQOXUDlaM9AtCsFZDamlKCCNQfIuB+PAP3bR3c/ho0yRVo3i8XAmNOAemzMWgJUDxmNwj1l1Vw3zdQ9XcXVX+2wf3eygVS3M48NFtehlP6rFA4u0sEot05fMQDnh6fgzWokwmoXy9CRbu1Oi6Axnt5VE8xUYQ9hPv6oBCRHR7LQO/CGdDcIBRuCxS3r6KsSl0sFGEPoqPifm4KoYD073QoiB+pCHrogjI4BOXsABubwlq0ly4RRpUPyA+/RwWgyLAwNtoluwnlvUV7pfCoX8//n3zQ+jSUcacwNr5D5caifkGSzK5kdyUbREfK7xldfjV/0liHKIbfn/LG88XEpIv+IREenI/LA4mYfkm+HtMPyOva0dFnGH6RJYAcVxlcYU5g/QMlvKTKMKfNfQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xt2X30tTYRzGfXXux8GbLkMqK1T8rZO5pauUnJm2yVzp/DGXWmNrOjed+yWWUGIlYSSCFUVRJl2kQ4guIoiuuutPejrvezxn25kExnYGfeGBXYx9PzzP877nrKjo/xiCTBV0CO6MnMfN/tOwmE9CX3+i0FAEHzfNeP+sgyl0uwZj9rOFhCISzOt1EwKT1XDazjCg5ooKpaGEzohArx4Z4Z+oYvEVoE8EVpsDdvuw5M7WQwO845UY7D2FtrYOtHd0KQlFMDrqztJ1qwOWHisud/agudmgZHT86fJ4mTwen6S+fjuudPfBYGhHZVWNskDB0IKkQCAIvz+A3msDuNDeidq6JpSXC11SCIgOwc7OLpLJA+zvJ7G3l2RxtbS0SaWmMIoCTU17EI3GkEgsMdG4WltNhYChQzA7O4d4PH6ohNQfhaMShyAai2eIRmY0XkR1da2SR54OgdfrRyQSzRAtNb1/6htalHZJOGXh8KIk54iLXZb0DhKLrRAQYXfOwkI4TYvsYhx0DLMe0Zu6oVGvVGwEvrsz0h00Py9o3HULQ0OjUmx6vVEJlwjc7ml2uubmQih1WVBiM6HEXI+SpnMYdo5LsdFyNza15tslAt2HGHQvgtA990OzNg3NygQ0IQdKJ6+idKRLALToBUh9ZT5dItC+i4D79gTcl1VweyvQ7S5B93YxGzDmFCB9NgaaB5d4mO0gtJ+WwX1dQ9nvbZT92gT3cyMTkMJtzUK34WVwap8VKmdnPlw6dOfgAQ/w+Gjtr0C7m4D25Tw01K3lMQForJuHyum7EWFLuM/3siHSxcMyoDfhFNDMAFTuHqhuXEJRmTZXUIQtolFx39cFUQDxsygKxEcqAd13QR0chPpOP4tNZU09dOUbjjlEiEoOIBffoyygyJAQG3XJbkZxt/BIkW/4h+Ghfjz9u+RAq1NQx51CbLxDxabUG2RuXBK7ku5KOhCNlO8ZLb+WP2nMIQrD96e4jgLkDEYc4S2QLZbDyYAkmL48vz0KPyj+55K5dnj0GQxfZDlIzmHSJ7UgBSeXIiBHTfpiueTfPe78AQPk2dX2EmtlAAAAAElFTkSuQmCC",
     "wiki_name": "Potion of power (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Potion_of_power#2_dose",
     "equipment": null,

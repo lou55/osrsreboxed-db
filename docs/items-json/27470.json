@@ -1,7 +1,7 @@
 {
     "id": 27470,
     "name": "Treat cauldron",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-10-26",
     "duplicate": true,
     "examine": "Perfect for collecting treats while Trick-or-Treating!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzElEQVR4Xu2XT0hUURTGvUQ8Zni8kCRJybAhwxT/xDgZamPoNOmEaeNkk01IaMuwMNoIbpSgVhFBm8JF0E4I2rV3WeAiaNvCbbu2X3z3cXp/nPca6s4sogMf4/ge9/zuOd89V5ua/o1QiFdDQ+FEW1tAx1tbA2oglMLJ9vZYEfBYS0sjoIIwB9vkqkFQHswRx4lJ5LaT77F1dYKKgokysMKpjg6tOkB5MHYyGYB57uxjy96LSKZwJpXC6c5Ok+1zYbjTIIz7jDDr9m5MIoWzXV24kE7rdQxAedWpvlBUy/yhNBCrdLS5uYb3Y+N3QAyBin7eQCCFz69tbBcTqAwcjgBrGJDC93UHD6xNLFtr2NlK4lnewkpawLz3jANxMW/3rnZXbOw/dvDtkYOPS0m820hgc9JCqddfKVcCFD+/aoogUH9PD3q7u7FTTuLHhoOvqza+3Lc10Nv5BNZGLeRSh/Rxp3jC+L5RILk8ZbejmYxOcH5wUGtooF/rXF+fFqEpAnFcGK9QGIi6Wy7jXqWCpYUF3J4v4ubsLK7l87iczeLi8LCuSngTxoC4S05bJpmbmsKdGyUNQxGM329dn0OxUMDVXO4XlFSMYtsNGFrC9Q5hmLQ0M6Mrwp/5O0JMT05gYmxMg7A90jp+8jsn9MFJ/8eh9MIEERgRodgqqcz4yIhuDz0lB4DGZnUSlmUOiOb1g4ikVR+ejusKEYhVCgNRRoGYgMlFAvTpzTT2tgt4/ySLV2sZvHw4hBer7gkkEEHkxjcKVK0y/CSMv0KsThiIMHL8wyv/RSidOAxFT4mxr1zyoAhE30mFDFZHQml/MCET08B+z9DIMiTFO9IqA38DRYULtby4WBWmGpAc+boBMTkHISUwTEoQAWKrCCQzqa5ATOT3kcDIEBQgmUl8Xud/GpU2sV+8o3g10C9sE6H9Q7IOJywc3iVbu/6H2fgJLCOxhInGmgsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xt2XT0hUURTGvUQ8Zni8kCRJybQhwxQdY5wMtTF0mnTC1HGyySYktGVYTLQR3ChBrSKCNoWLoJ0QtGvvssBF0LaF23Ztv/ju4/T+zB8s7wzUgY9xZh73/O53zj13bGr6P0KhthoaCqfa2gI62doaUAOhFE63t9cUAU+0tDQCKghTXiZXDYLyYI45jk4U7+wsk5STz7F0dYKqDOO5Eg6FMx0dWnWA8mDsaDQA88LZx5a9VyWZwrlYDGe7ukyWz4XhTv0wAkSYdXvXBxkOhfPd3biUSOh1DEB57gRhvO8rf+4PpYHo0vHm5hrwB4pyoPATAlV95w0FUvjyxsZ2LoJi/GgVsIYBKfxYd/DQ2sSKVcLOVhTPMxZWEwLmPWcciIt5u3e1u2pj/4mD748dfFqO4v1GBJuTFvJ9fqdcCVBwZPxVBIEGenvR19ODnUIUPzccfFuz8fWBrYHeLURQGrWQjh3Rx53iCePzRoHk8pTdjiaTOsHFwUGtofiA1oX+fi1CUwTiuDDuUBiIulco4H6xiOXFRdxZyOHW7CxuZDK4mkrh8vCwdiW8CWNA3CWnLZPMTU3h7s28hqEIxve35+eQy2ZxPZ3+DSWOUSy7v6EPAcRwe4cwTJqfmdGO8G9+RojpyQlMjI1pEJZHSsdXvueEDl47hwqlFyaIwIgIxVKJM+MjI7o87Ck5AGxsuhOxLHNAbF4/iEhK9fHZuHaIQHQpDEQZBWICJhcJ0Oe309jbzuLD0xRel5J49WgIL9fcE0gggsiNbxSokjN8JYzfIboTBiKMHH8DDS2hdOIwFHtKGvvaFQ+KQOw7ccigOxJK9wcTMjEb2N8zbGQZktI7Uir5DWTQHQkXamVpqSJMJSA58obdkXAnLgchJTBMShABYqkIJDOprkBM5O8jgZEhKEAyk/i9/NNYByCG0k3sF+8oXg3sF5aJ0P4h6T9h4dUMRfC3zkFUh4YOhiT4E4XX+KfiF1vSAGydk+LSAAAAAElFTkSuQmCC",
     "wiki_name": "Treat cauldron (Style 4)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Treat_cauldron#Style_4",
     "equipment": null,

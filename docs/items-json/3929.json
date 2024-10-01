@@ -1,7 +1,7 @@
 {
     "id": 3929,
     "name": "Javelin shaft",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-05-06",
     "duplicate": true,
     "examine": "It's not very strong, but it could be pointy if you put a pointy tip on it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVUlEQVR4Xu2SwUoDQQxAm7tUxKLUYqUVFCmoFFQKVQQRBA+CIHjz/78ikg3ZnSRTvEymRfZBYDcMzOPtDgb/H0C72SKA8/EeaqmtCQJeToZOxgtWAXAxHRohFsxJds9hsFAq4wV5X6EY4M1svxm+iN+1IJ/LFysK4P3FIS7PD1QdLci7fLHisBCN1CG5nKAvVhzA1dWoGZERuU6Qz/lixQF8XBy1I0IkZ2V8sRAAn6+PmxEZEtNCm4oVB/D1dtyOyOlafM4XKw7g27KTkf9HaqV1pFigDMFCNPK5bK3NxYoD+H530grJ5bZWWixQhmAhGrlY5NI6vlgIgB8Pk7aQXK4F+VwFGYKFaKxMWkd/zjAAP1en+LWeqhIkR/t0p2uFAY1M+u+QSE6mghDL2Dr0boW6zxkK4M/L3Ml8P52pnZYLJ70IjAzvdMHq7JRMjp2S6enp+ZNfnzxCcGKW79MAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXUlEQVR4Xu3SQUsDQQwF4OYuFVGUWqy1giIFLQWVQhVBBMGDIAje/P+/IpIZ3jZJd3uabBfpgxx2aMnHm+n1/n+I/ckWQzwZ7LFFbQ1IfD3sJ8xsPE5TD2wlxNNR34AAtGf5t/a/IckgjfHAFhsjvrvYT5MX5W8N3NxY0RA/XB3y/PLAtKOBmxsrngySQTuCqwOuN1Y8xIubozTAAAdgc2PFQ/w0Pa4GIMF5jG8sDPRye5IGGIFpUHNjxUP8NhtUA5xuC+34xgJAxO/zFQbvB23pdtBYIEaSQTK4Lt9Wc2PFQ/xxf1qBsNy3pRsLb0dAMlgMnG7HNxaG+XwcVg1huQbiIXtMKEjGY3Q7+jpDMV+LM/5ejkwTgpNzfabbCsJIKGH02xFIHcZeX0gyxrcj3x6E6wxv5/d1sob5eT43ZxoXiEH0IjIYjVwBW4hd1IxpDeTTDOxIOoXZZZeu5Q99Op+fsRhhzQAAAABJRU5ErkJggg==",
     "wiki_name": "Javelin shaft",
     "wiki_url": "https://oldschool.runescape.wiki/w/Javelin_shaft",
     "equipment": null,

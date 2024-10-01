@@ -1,7 +1,7 @@
 {
     "id": 29481,
     "name": "Agility arena ticket",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-05-08",
     "duplicate": true,
     "examine": "I can exchange these for further experience.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xu3UW0sCURQF4M7f6K0eCiyKgopIssiyUsiwskysjOgiXYhCKiQxscwQREMICqIL/csd+wx73OlYSnMcoRYshnmab9YZpqXlP6ZGgNamiIBi5lDWYpS2CmEK6X1Zi1AlCMfkryNWgKpjqA1CGR8Rxzxn1+DpLtQI0PeQ19yGhDzeBqGYCqgGaRgOIcx7PixXIch9chly8SXIxhZUoUQFhDC0ysPNqoTkE34JQRC2ISCjVRCCALoiCpu58KlAlUAfhc2KVRCAD6ZVOCZ9Ng+pqFcNiq8Sb+vQS6sQBiEckzyZg8SxRw2KVuEg6neYyyO3ChBG+w+l2jvhimHeXlrlfXkJEzuYhfPItDoUArB8FQ7hy3BQdNelDoUPLj8ifkzl6yDmdHsSjrecZqM0DBYh9WIOwxPqQFiC1IrZXx+DvZDDTJQGog+cY4y+GSPMTnAUtlbs5qLoylepBxP2j8jSi5X66wgdUgsGG/AOwqK7H7xTvTA73gUuhw3sQ90wPGAzD/UTBosQ30yfDvmKMG0hjKiKweMhiMfZY7CGaYjyCB2DJUj1Y1EG4REVkEpEQyAUISEWrWEU0SwQnqaB/MF8Aqg97CTVEF/oAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5ElEQVR4Xu3SW0sCURQFYM/f6Ml6KLDoBhWRZNHFLkKGlWViZUQXMSOKqJCixDJDEA0hKIgu9C937DPsmeM43mrO6EMLFiKI8806x2b7j6lhoLQpwqCQjvE2GKWsQph8KsrbIJQGETG5uwgH9drtVqLKY6gWrWR8RCLmLbMBr48hK1aqDPnIbnHIy0MQCsmAbJCCESGE+cqF+SoEeUqsQvZ6BTLxJVnHxkoghKFVnu/XOSR34+cQBGElrVQMMloFIQigT0Rh05c+GStpoO/8dskqCMAH0yoiJnW+CMkzrxyUuMp1a7taWoUwCBExiZMFuDn2yEHRKiKIWglzdTQv7z5hk20dcCtgPt9b+Hd9CRM/nIOLyIyMlTCMA7DiKiJEXEYEne275aHwwfojEo9Jvw5iTnen4Hhn0myUgsEipF5MLDxh9n3SQFiC1IqJbo7BQchl5koKiC64iDG6M0aYveAo7Kw5zUUpk7OiVerBhP0jvPRiWn8Z7Q4wFVILBhvwDsLyfD94p3tgbrwT3C4HOIe6YHjA8TeUFlYVg0WIb7ZPhRQjlOKLmnDhWVkMHg9BPJPdBmtoCJMwFKZisAQpfyzFEP2/mRRWAtEjLIJQGIdUW8MCCIVVhOh/bVGaBqKlaSCy8wMIkxoTthoEqAAAAABJRU5ErkJggg==",
     "wiki_name": "Agility arena ticket",
     "wiki_url": "https://oldschool.runescape.wiki/w/Agility_arena_ticket",
     "equipment": null,

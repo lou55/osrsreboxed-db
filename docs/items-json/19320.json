@@ -1,7 +1,7 @@
 {
     "id": 19320,
     "name": "Attack potion(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "3 doses of Attack potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xt3W/UtTYRQHcJ+fAlHLNMWmlpSGGTRrm7lprXxparOWZbq0tOlaLPfSnHMLpKJICKEYhiAJIo2BMF1SUfRGSClB/knf7vPovd27iT/d3Qse+P66++Gc8xyWlbU7ikAaVYtguPcIrneUo6WhBKdO5KuNIohFG7Dw0sTiH6rGTVuFmigiYN68OAPP4DH0dB5SC7S5MzxodrIO7ltVbHwq7BOBtbMLNtsNoTvTT/Vw9VXiqqUMBoMJRtN5JVEEdvvttFyydqGl1Ypz5lZotXplQcNOF4vTeU9Ie4cNTc3t0OuNqKyqVhbk8weEeDw+uN0eWNouo95oxvGak9Bo+F1SrAjexuJIJt9haWkZicQyG1dtrUGNpaZF4HDcRSg0jkjkIQsdl05XrwaGFsHIiBfhcHgrETS3dKCurlE9UGg8LMlFS6ewQwqjCO44nAgEghgdDSIYHGOjo7fpQlObGmMjcLnc8Hr9wkvr7x9ET28/QzWebVIepF3fEFLx+y/Kv/9C2fsvKE2soGgqivz7PqVQBId/rktAR3nQx28MVPxqGvnegBIggrKVTxIMD6JIARSdQUFwHPu4651hFNed1T9poOq1TVD55x8oXfqA4tezKIxMYH8glEkQYR9MxQggDsqDSmbmUDjxmI0tb8CRCRSBZjHJljcVQ1OztiEFzc7jwJPnmRzbZnd03Me3CwWxl/Z1le3YwbkFFE1OsbHR17Z3yCUnirBFpR9MhfChXZKA5mPs6UvGlp0jF2rn7mwLWoizpy8eW263XT7QTt3hI9wi7jhqYovspYnHltc3gBzrFflQqYDUSEDxBFtsNrZHz1iHss3NcmFoEba4NOLXJQbxt0g4jvQWcTtE92fP6Yz8v6Y/SFgn6MfFwFQQvdR0VLnXurcgsmPExX+ACDDxLaLLXPBgTAnIdvUfl55dWP8AS9P+NsEUGUYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Attack potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Attack_potion#3_dose",
     "equipment": null,

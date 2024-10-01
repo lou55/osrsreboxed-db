@@ -1,7 +1,7 @@
 {
     "id": 37,
     "name": "Candle",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "A candle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu3W30sVQRTAce9fmFFUVBQWFUUEURkXuVEql7IQxH5QoWCIiaQRhKbiRTECCewhQYL7Yg8JIQT2cB8nvjuc7ezs7N7du1v00MBhf9yzOx9nZs/Y1fXvt4rxh+/3P94q5n7fIXOvejCI+s1uM3j9QBCCmBzpMRPDp834g1MelPtHFIZbkKAASbiYsaGT5kn9eKRjrvnNjSgqF7JihmuHYyiOQCQE9GjwmBm5fSTI5egDka/RKzN9ZmnqWmcoAXEuoyOgZ3dPBCDJTQLx3PJ01azO3TFrcwMBKBeGl8pfLSA69YFG+4+GIM59oKnRMxEQ5xlBlcg00JEsbq5dEJ2DkOlNAs08PlceSEaJez4Qz2gQo+aCZp+eD0FELpCsCxdE5y6I/LXFxRCVBHr9/EIU9LK3OIj7gARF7odGIxPozdjFckEEU+mCPr5fbwsid37icghqvLqVFUOLgjSKl7ugTxsbIYi8JNDCiyudgmi2ePHydqCtzc0YiJF0Qe8mr3YKsjWIEcoC+rL1OQLiORdEvgblKIr2k/eBCB+oub2dCiKvVJCgCDqg4tIB5+TvNJsxkDtdpYH0KHHUIPLI//Z1x6wuzKeCph+eDUFU6YwYmv3CfCDZDlzQ993dVBC5bBt6hDoCuetIPmUBcU3+j729RJBMF9tGaSBBcZ8OBCR72M/9/QDU33sjuNYbq4Co0hqUA2VBvmlLArVarWBR16t2s3RB5L8dvxSCqEE56lAUpKdNgzhyn3wWNfvZUK0WAwEvDGKxtgPRGfcolvbFNvRak+kqDeROG/c1iM5l02UxS63iOckFxCevQdSg3HXIN20axHkaSK+fUkC+adMgftP/lmiQbBsyXQVBtN9rIi00RocLoihqkEQOUNYWR0ro9fMXQWktjozH/1as/QKg4ZwTNtFbqwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xs3W30sUURTA8d3/xD+h/6SiKKkoKiqSCKIyFtkok6UsBLEfVCgYYiJlBKFZtChFIIE9JEiwL/aQEEJgD/t44zvDmT1z9s7sjDuFFw7zY8/s+ey9d+7dUmn3t7Lzh+/zf97K7u7AAXensj+I2rV9bujK3iAEMTV60k2OnHAT9457UPZHdA0PQYICJGEx48PH3KPakVhhrvnMRhyVC1l2I9WDbSiOQCQE9GCo143eOBTkcvSByNfoD7MD7t305Z2hBMS59I6Antw+GoAkNwnEc+9nKm5p7qZbnrsVgKixp6cnCFvdtLDb5VcLiKI+0Njg4QjEuQ80PXYqBuJcQLa6aeXYMFBIJjfXFkRxEDK8SaDZh2eKA0kvcc8H4hkNotcs6OXjsxGIyAWSeWFBFLcg8pcXFyNUEujV03Nx0PP+7kHcByQocj/X65lAr8fPFwsiGEoL+vLpY0cQufOTFyJQ/cX1CJMbpFF8uQV9XVmJQOQlgRaeXfSCbPWEFi5efHkn0NrqahuInrSgt1OXdgoK1yB6KAvo+9q3GIjnLIh8DdKLoq1uWvjK+0CED9RYX08FkVcoSFAEBVhxKcA5+RuNRhvIDldhIN1LHDWIPPJ//thwSwvzqaCZ+6cjEKu0YDKBeEN8INkOLOjX5mYqiFy2Dd1DGXuH1gLZeSSvsoC4Jv/31lYiSIaLbaMwkKC4TwEByR72Z3s7AA32Xw2u9cYqIFZpDRKUre5pIcg3bEmgZrMZTOpaJdwsLYj8NxN9EYg1KMc6FAfpYdMgjtwnn0nNfjZcrbaBgHcNYrJ2AlGMeyyWYdeHoeeaDFdhIDts3Ncgisumy2SWtYrnJBcQr7wGsQblXod8w6ZBnKeB9PwpBOQbNg3iM/23RINk25Dh6hJEa82JtNAYHRbEoqhBEjlApZIs62lhgTr0/CkElLVZZBasRCv3PzWL9IV9Zle3v+rl5p+X11pUAAAAAElFTkSuQmCC",
     "wiki_name": "Candle (Unlit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Candle#Unlit",
     "equipment": null,

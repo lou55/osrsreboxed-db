@@ -1,7 +1,7 @@
 {
     "id": 23414,
     "name": "Climbing boots (g)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "Boots made for climbing. Nice trim!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADbElEQVR4Xu3X3UsUURgGcBcR2WGZkCRJSTHJMEMz1AwzDBNKooyioqIosSAokKRYpCgzyT4E0+xDMgpRsTKCoij6vIjuug66iO76B7p94znDM5w5M8rO7hRddOBlZ8+c3fPb97znOGZl/fstJsERdP+Pt5hc6dkhA8ntKvpPt0tf9zYVREwMHZL7gwdl/OqBAJT5IzKGOyCiAGKYmLuX98vN/r2eifEe98zwokIhYzJ4ZqcPhVdAGATd6NsjQ+d2qbF4DQJhvI5+M9MjryZPpociCNfMDkF3Lu1TII6dC4TPvZ5OyvvZ8/Jh9oIChcLgS/mrCcKkQaDh3t0uCNdBoMnhwx4QrlMExTzLgIlY3HgPkJ56PeYDzYx2RgdiltCH+yvKy2VNTY2srqqSlRUVsrysTJYWF/uAOujx7SMuCBEKxLowQbgHQHVlpcRzcz2xuSbbxRKp456MHfWCpk5lBkI/IJhQh6ytrZXu9lyx41kKgTFzZS9y0PdbtnwdSciXawn5PJCQjxctud4Rl+bKbAUBwMwcQMDqoLePzqaKQfOCiEL/rylbfozZCvSu15KH3ZYcb8uRBbbtyxwCyOoSZylfPDiRLgjNWXfsGDNLzY2NapmwJEAsKSyUhGUp7M97tnwbdTKI7G2ty1ZYfO7lRFe6IOcMQobmAqFG8OuxHIsLClQ21jc0SN2qanneY8lUV1w6W3NkUX6+wpqgEIeis+WDQMwaQaiXZaWlalKC2I8iLikqcu9FCkKgv6WpSU2K5UImuHs4Kfu5E4HFci7My3NRGYN4EG5pbVX18ak/4WYAkxGDZdGxQJkYZgindIoYNGeHmaC2jS1uMQOE5eBkwOCaS4ZiR/ZYPyYIGUoLRBT6Nm1odouWOwsI7CBMjAw+TVruUgGMe9z+kYNQP8gOdxZAmBA7jBlcV1+v7ut1xQyaoBAoB6QvG/qYHdYPIJjU+VIng1iuICzi2fgxF4QzKMQ55AXpqKDg2YQMonaYHWLwqILnoIxA2GUmCFsffXgowwR4nEAfQcggdxYxGBspyNxt6NdBfJokSg+OBWh6pMMDwhkU+hwKWjYdhGsdhJOcf4jxOYA5NhJQ0LLpINzT/yvRQRjHh/oIQGj+4g0KHaOHCcKztA5ihACl2vxIhl4/fxE0X/Mj/fG/ZdZ+A+oKku6jiNfnAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADi0lEQVR4Xs3X20sUURwH8F1EZJdlQpIkJS9JhhleQs0wwzChJMooKiqKEguCAkkKkaLMJLsIptlFMgpRsTKCoii6PkRvPQc9RG/9A73+4nuG73jm7FnZdafowA9nz5zx99nfuTiGQv9/C4s9bPf/egvL1Z6dMtC9Q0X/mTbp69qugoiJocPyYPCQjF87aEGZXyJtuAsiCiCGibl35YDc6t/nS4zPuGeGH5USMiyDZ3fFofATEAZBN/v2ytD53WosftpAGK+j3870yOvJUwtDEYRrVoegu5f3KxDHJgLhuTfT3fJh9oJ8nL2oQMhRVVSkwsxuNLfs/NYEIakNNNy7xwPh2gaaHD7iA+GaIDO70cK+aUAiLm58BkgvvR7zgWZGO4IDsUrow/1VpaWytrpa1lRUyOqyMllZUiLLCwrigDroyZ2jHgiREojrwgThHgCV5eUSycryxZbqDA9LpI57OnbMD5o6nR4I/YAgoQ5ZV1MjXW1Z4kRCCoExiaoXOOjHbUe+jcTk6/WYfBmIyadLUbnRHpGm8gwFAcCsHEDA6qB3j895mJRBRKH/95QjP8ccBXrfG5VHXVE50ZopixwnrnIIICsL3al8+fCkFWRmT9DceceOMavU1NCgpglTAsSyvDyJRaMK++u+I99H3QqiettqMxQWz72a6FwoyD2DUKFEIKwRfHtMx9LcXFWNDfX1UltVKS96ojLVGZGOlkxZkpOjsCZIPxTN7EZzt7wNxKoRhPWyorhYJSWI/VjEhfn53r1AQQj0Nzc2qqSYLlSCu4dJ2c+dCCymc3F2todKG8SDcGtLi1ofn/tjXgWQjBhMi44FysSwQjiliUkKhB1mglo3NXuLGSBMB5MBg2tOGRY7qsf1Y4JQoSSrgzYHIgp9mzc2eYuWOwsI7CAkRgWfdUe9qQIY97j9Awdh/aA63FkAISF2GCu4vq5O3dfXFStogogys1uaC9KnDX2sDtcPIEjq/lK3gpguGxbxfPy4B8IZlMI55AfpKFvwbEIFsXZYHWLwqoL3oLRA2GUmCFsffXgpQwK8TqCPIFSQO4sYjA0UZO429Osgvk0SpQfHAjQ90u4D4QxK+RyyTZsOwrUOwknOP8R4DmCODQRkmzYdhHv6fyU6COP4Uh8ACC1+8dpCx+hhgvAurYMYKYBCIR7r84UJ1ENfP4GAkm0mMhksY27sP2om0hbmM/91+wM0Hd16XrsYmQAAAABJRU5ErkJggg==",
     "wiki_name": "Climbing boots (g)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Climbing_boots_(g)",
     "equipment": null,

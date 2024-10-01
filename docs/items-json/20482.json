@@ -1,7 +1,7 @@
 {
     "id": 20482,
     "name": "Void melee helm (broken)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": true,
     "examine": "A broken melee helm from the order of the Void Knights.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrUlEQVR4Xu2X/UsWQRDHXSQkEUWSJCXFJMMMzSD7wUTDzIwwrcxMTbMwMzNfsgczLcyeByMwiuin/taJ7yzz3O7e3ZNyewnhwHAvz93O574zu7NPUdGReTVFth+KBQDPxsfp0d1hutPfTze6uw8DStHHN6u0Nj9PL59M08zYGD0cGqLbfX3U09lJV9rbHcVSVU/DrM7N0ezkJCtzsqqKTlRWUkV5OXtZaWno+nhJCbtnKEVn6upYmRdTUzRx/x4HNl3gXKCUoBTV19bSq6czND06SsvPZy0AEygOxjOUBkLNoHZOVVdbQKdraiwgFyIVIATFrPqyuWkBAVSu3eBx7gFKA+1kMnwUANQVriU9USmK8oRAin7t7nJgqIGjmyKzZvYDlQBI0dcPW/Qzl8uDxAH9IyhFP7JZ9iigQlAuABypTgyEdEGh75936NunbT7/vbcXmmlxUMeKi+l8UxM/40EhmGIQzK7tt2v0bnGR16HcxgZl19f5ngsFmKsdHXSptZXONjREKpYACGb3JbSNYFDbZRkAYBSIByBFN6/18JfjHFN/ZHAwYlDFagAIqUxxgVScpvdLr2lrZZmPsuVw1TnX2JhXyAXC76ZiiYAyCwsMhbpBt3/8YCS/B5Jtx4Xm5liFBNgbEBSBOihgNFh0e+yBeru68o4ibmtp4dXbBAoCewaSGkJzxabs1vVeC0hc1MCuAO+lDoRUQSUJHPbgHTuoNyCYYiDUCjo+do6FB9TBTUA4it4bEL4YtRNWw7XwOoVlAsXuzsD4MfZlZhpUgX8ZWk15TkDQPtxZ5755QNNAAoWiDgY1VdPpQoFjtsk9aaweQEzTX2x/oS50KGC2DPcZ7BA8w8AUXb7YZgXC+gMYgOLcBgneSwkI5g6qe93wwMBfAhb6zbtFqfKf2h8aR66criQ6XQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xu2X70sWQRDHXSQkCUOSJCXTJMMMfwTZCxMNMzPCtDIzNc3CzMwyswczLcyeByMwiuhVf+vEd5Z9bnfu7unhbh9848Bwd8/d7XzuO7M7+5SVHZpXU+T6gVgA8Gxqih7dHaM7Q0N0o6/vIKAUfX63RutLS/TyyRzNT07Sw9FRuj04SP09PXSlq0soVlL1NMza4iItzMywMidrauhEdTUdr6piP1ZZGbo+WlHB7hlK0dmGBlbmxewsTd+/x4FtN3ASqERQis7U19Orp/M0NzFBq88XHAAbKA7GM5QGQs2gdk7V1jpAp+vqHCAJIYE6GxvTQikOiln1bWvLAQKouZbB49yDShpoN5PhowFAXeHapCcqRVGeUiVFf/b2ODDUwFGmyK6ZYqBSACn6/mmbfudyeZA4oCRQMloRpuhXNsseBVQISgLAkeqUKul0QaGfX3fpx5cdPv+7vx+aaXFQR8rL6UJLCz8jFUoABFMMgtm1836dPqys8DqU29yk7MYG/yahAHO1u5sutbfTuaamSMVSAMHcvoS2EdSB62YZAGAUiAcgRTev9fOX4xxTf3xkxBlUD6xYDQAhlSVcIBWn6eOb17T9dpWPZssh1Tnf3JxXSALhvq1YKqDM8jJDoW7Q7R8/GM/vgcy242Jra6xCBtgbEBSBOihgNFh0e+yBBnp7844i7mhr49XbBgoCewYyNYTmik3ZresDDpBxowZ2BXiv5EBIFVQygaWb4DaMZyCYYiDUCjo+do52MOkmuA0IR9F7A8IXo3bCakgLr1NYJlDscgbq+4ktSAM8/l+GVtM8Z0DQPuSsCxRNZBrIQKGoA5XcOkK6UOCYbeY301htkBQwxvQX21+IIwodCtgtQz6DHYINI0dOaIoud3Y4gbD+AAagOLdBguAukBw1pcmv1L1ubHg4AqTQex4tPGhxRVronnf7H0xS+wezZQBi0UPQqwAAAABJRU5ErkJggg==",
     "wiki_name": "Void melee helm (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Void_melee_helm#Broken",
     "equipment": null,

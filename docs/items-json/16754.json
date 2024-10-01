@@ -1,7 +1,7 @@
 {
     "id": 16754,
     "name": "Archer helm",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": true,
     "examine": "This helmet is worn by archers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xu2Vj0tTURTHPUTIQhJpKHOY5NCYxlIpdbS5jWVzTeamc0xNE3Nj+dtEFBEpRCv6pViIyIggCvwD+ve+7dzX29zbbPruhAi/cNjbu/d+3vede+55ZWWX+n9E0N45v0rBECLsbUchByTsbIQkGRkRUrtPJGGElZkeSUZGhONUXBJGiI85JBkZEX79nJWEEQYDbZKMHBFerY9LAAn2jmaJ9TkifD1YkYQRxmIlrKHPH+YkYUqG2+5aJDnpxd+P1vD65TNJEOHb4Sr8jzokOX9A4b5SnBDCxKgPLdZ6vax0//myjKP9F3oBGhHWl4fx0N2ul6cY2n0zrRegEYmXG4160Wgxn5dJONxbFIBYxHPGxcXmKIbmk2G4HLYzMjMiHHxaEKZMNVVFFvMYwWFXC/bvc7c2JhAdcKG+rqbI3BwR9t/NiOjr7TplofLwPm8X/O4ODIYCsLc3w2ZtOHU+87gEdJw2wsedpMgSF6KtRfsQQn+PHRG/E2GfQ1wPDQThuH8H92xNsFrqCmRLMTSTCOnpR4S3W3FhiPedj2sWQIgGXIgFPeKXTXHEIiG4Om3obLWircWCxltmmKrV7VaaK78ktxBzrfG8hlgk0ssnjfddPa6qGTX4v7iXNuSxt2aypDXELJ0FrSqbpR+pdfF2m2tjwsRoyIvl+SSWZhNYmJ7CXHISI9EwwkE/Hvu88LqdosjNJqPYpvfbCexsTorvmURjZGVNMZgzxSZWFqfzDI2PDIk66g/40Nvjhrv7AZqtTTCZasQ6zg5n2WislDHEUtLNprLftPyYHB/Ou8fBH1U+GNzPJLNzUkpf4tQXBhKeTz0tMEZYXYqlx4LwdLcWGJeSkiltBtTIGsoN3qpIyFlqM6pI1EyF4QqqKq6iurIctTcMuFl9TRi6bb6eEw2mChgM5RdlhkXCjGropCmtmX/WEMcFGmLl10nxuNTF6DdZvhv79n+nRQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu2V/0tTURjGfYmQhSTSUOYwzaExjTWl1NF0G8vmmsxN55iaJqay/G4iiogUohV9UyxERCKIgv6A/r0n33O7d/Nuti/n+kPRAy/bvdt9zuc85z3nlpT8178jgv5O4TLCQ4iwvxOHnCFhdzMi6aGJcLL3SJg56+qKNCSsznZLemgi/DiZkjQjTI26JT00EX5+n5M0IwyEWiQ9zojwYmNMogcIrrYmo4AInw9XNbPiDAmjCQN76OO7eUkzJeGW2zaJlIUIX4/X8fL5E2mgL0drCD5ok/T5bRTtNWKHEMZHAmi21xab0un582kFxwfPJPtHFWFjZQj3va3FTk4B2ns1U6yBTiQmNxL3o8FmLTQlwtH+kjBIxHx5AuUaQAFaSEbhcTvy9NREOPywKKAsVRU5HmYQgtulNOyfwQjbm+OI93tQW1OV479nRDh4Myuqt6fjHCBl8F5/B4LeNgxEQnC1NsFhrz9nIMWTWyB9t2X6ZhXh/W5SpMSN6GjWD0Lo63YhFuxENOAW3wf7w3DfvYU7jkbYbTVZ0lKAZqcj2nmUJwyL8Hp7SgDxuvN2TRkQ4iEPEmGf+GQorkQsAk+7A+1OO1qabWi4YYWlUlluLj5ceZJ8hFirzYUCsUjEyzuN113driqMWnwt7p0C+VxOLSU9EHvpG7pgIDWlbycbYnZb66MCYiTix8pCEstz01icmcR8cgLD8Sii4SAeBvzweztFk1stZrFMb3emsbs1Id5n6sFYIIyqFBQbc1IMsbo0kwE0Njwo+qgvFEBPtxferntosjfCYqkSz3E6nLLZXC4DxFLiZij1nZatJsaGMu5x8UuVNwafZ+npSACxlHOJo083TBkTnk4+zviNr9eWE6e/heHrchoFo0pJSp+AWiqQvnipYpFOo2FUkeiZMtMlVJRdRmV5KaqvmXC98ooAumm9eqbqLWUwmUovCoZFAkYFSofSw2QD0rsZoMKBuC4QiJXZJ7nqgpYrpfSdlG/pPf5K/QKi+3ZMyybBsgAAAABJRU5ErkJggg==",
     "wiki_name": "Archer helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Archer_helm",
     "equipment": null,

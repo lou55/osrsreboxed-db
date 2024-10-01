@@ -1,7 +1,7 @@
 {
     "id": 25549,
     "name": "Golden prospector helmet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-03-17",
     "duplicate": false,
     "examine": "Helps you when you're mining. Looks good too.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLElEQVR4Xu2U3UsUYRTGd1iG4R2GlTCUbUHBZUdsxQ0v7CKEwIsIwsDYsC9BKDCiQBCKKPBCiigQhAgFQSg0EMSLrMDCsg+8EIK6yQv/lkeeM7yzO7Mau6t7EbwPPAz77sf57TnPeRMJIyMjo/9SFqLe772GKgpQ8JPozQc+XUiWAVhwbVvcQCgLo0M2bg/bGB9x8GjMkSdf37hoo3jORq4tIQAaphLqXx2tSRYe3HQwecfB03EHzyei5vnEqIO712ykvARSSkWsobq7utCZzcrzpO/XC2Vh5qHCy8cKs5MK81MHm9C3ikHxZteN+Me3EXxaH0ZvT0+9QKXWLjxRWHqhsDzthl6ZifrNM4Wpe8EYOcJyqO+b17Hx+Qo+vL8sQIV8vlagUg4Iw4If51ysz0e9sVAyIdnJgt8iLs8PQdbeFUMYdoiuEsiqmD+L/1z0Qm+9Dby97OHXSnDGz/afyiCTOS7W36UJomE0UJUwWtEMMIhfv1ytyMBAXzsu9Gfx5+8OcrkM+vJppNPHBKi9rVWgBs8mQxDtmmGYF7o15ckPaJh4BgjDwju7uwLEz7NLPCcst648iyXXJCscEUfC4vEMaKATTU04f6ZDOnJpwBcgmhs3fV/JXVUHwH4K/gmhWFxnIB7K36uemHlae+VKV7kEvB4YcEIdEZBWcJnFM8Azdo8mDDvKLePqszuHGE81siqA9LZtvnbFvBbYnQZCxBUP5UE2MjIyMmqY9gCsYuVlH3KkTwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQ0lEQVR4Xu2U30sUURzFd1iG4Q7DShTJtqDSshO24YoP9hBC4EMEUVBs2C9BKCiiQBCKKPBBlCgQhIgCQSgqEKSHrMDCsh/0IAj1kg/+LSfOd7izc2c0Z4t9EObAYdi7M/P9zPee783lMmXKlGlHyoLpzf5rqUyAmp9HXzXw4Vo+AmDBtW1xC6EsjJy2cW3Ixuiwg7tXHbny96VTNurHbFQ6cgKgYZJQf+toU7Jw+7KD8esOpkYdPBgzzfWxEQc3LtgoeDkUlDKsoQ51d+NAuSzXg77/r1AWZu4oPLqn8GRcYXZiaxP6Sj0ovtt1DX/7MowPS0Po6+kxgHq7utJCNVo7N6nw8qHC/LQbemHG9PP7ChM3g23kFkahvq5cxPLHc3j39qwA1arVZoEaOSAMC75/6mJp1vTyXMOEZCdr/l5xND8EWXxTD2HYITolkJXYfxb//sIL/eNV4NV5D2sLwRrvHegtoVTaI9bP0gTRMBpIw6QAoswMMIifP51PZGCwvxMnBsr49XsdlUoJ/dUiisVdAtTZ0S5QJ4/mQxDtpmGYF7q94MkLNEw8A4Rh4fWNDQHi/ewS1wnLqYtmUbsJGMoKt4hbwuLxDGigfW1tOH5kv3TkzKAvQDQnbvqWkrMqChB1vOo2Cr6EUCyuMxAP5c/Xnph5WnzsSlc5BDweGHBCpQzu9gpeEhxm8Qxwjd2jCcOOcso4+uzOf2xPGlkJID1tK89cMY8FdicO0QIYrWQwN3OLIUzFv3orx5/LlClTpp2qPwUUF6G0igocAAAAAElFTkSuQmCC",
     "wiki_name": "Golden prospector helmet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Golden_prospector_helmet",
     "equipment": {

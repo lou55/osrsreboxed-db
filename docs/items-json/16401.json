@@ -1,7 +1,7 @@
 {
     "id": 16401,
     "name": "Limestone",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "Some limestone.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACL0lEQVR4Xu2W70tacRjF+74ajVhEL4aLghUhUUyKtYp+CdJqJXMi4lqtRESqrYmISD8mEVLU+p9PnO/l0edeHXOi1ot74Ly+H845z1f7+nz58uVLZNDcTyKDWGwT29sRRCKrWFn5gPn5EEKh6V6DOR/b30/ga+oLEokdC7a1FUY4vNxrMIPT0wyy2T1kMrs4OEi6wKLRjRrY0tL7boMZlEonyOez+HGSRi733YKl06ka2LfdeA3s48Z6DYzuMJhBpVLA+dkvF9Tx0aEFY1oajInF45/svgjGjdGNYG3DGVxfl1xQhULO1idgTMtbZTL52YJxY0yN1mDB4ES7YAY3N2eoVsu4uiri8iKPcvmnhWJaGkynpqtkagSkNdjc7DuMjrz5XzCD+7vfFopJaahi8ciCaThaUtN1agsYK+VlzsxMYXh4qFUwg4c/FdzeXjRAsUKCsUZaAAXOW6cG1FtjYmtri5icfIv+/hf/gnIqE0t13JRAiQknJpw+AKlTb02gmBaTahGI0pdhLJBA/c3eA9BbEzBCcWNMiZsaHx9rFcgrNyABCMg6mSCTbLY17xEQiinxQV1YmLUDHxh42Q6QV87TIDDcm65W6hQw2Rer48A5bgEaHHzVCSDKSYsw+iplazJ+2ZW89NwQB813qYMJadXBdEqSkE6HG2JdfI8IFAi8bndDrai+LyYkA5d0CMPfPl6XANV32VU5H/HCyJhZF/8Z9ADEK/dlNtqXL1/PQ4+GAb0X+dzoOAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQElEQVR4Xu3W2UubURAF8NynokhFfBArLVYRkYrRUqtSl0BwqYoaQnCpSwghuIcQQlDbICJKa//nU84NEyc3nzVGjQ9+A/MW8ceZc6OBgD/++OOPjIH3vsgYLC/PYn4+jHB4AuPjXzE8HEQw+KnesOIv29yMYm11BdHogoXNzYUQCn2rN8zg6CiBZPIHEol1bG/HymCLi9Ml2NjYl+eGGeRy+0inkzjYjyOV2rKweHy1BNtYj5RgM9NTJRj3iWEGhUIGpyfHZai93R0LY1oaxsQike+2X4SxY9xKWM04g4uLXBkqk0nZ8wmMabmnjMWWLIwdY2pcDevt7a4VZnB1dYLLyzzOz7P4eZZGPn9oUUxLw3Rq+pRMjUCuhn0eGsD7jncPhRn8+f3LopiURmWzuxamcVxJTZ9Tr8B4Ur7M/v4+tLa2VAsz+HtTwPX1WQWKJySMZ+QKUHDuOTVQd42JTU6OoqfnIxoa3tyHKp5MVk7HTglKljhZ4vQDkHPqrgmKaTEpDRrs7Pw/Si9Bgrpr3QeguyYwotgxpsROdXV9qBYUCPADsi6QAAJ5TibIJL265j4CopgSv1BHRoZswZuaGqsDueMCNYZ906eVcwpM+sXTseAst4Cam9/WBqqcYlrE6FcpXZPyS6/km54dYqH5vfSohLxGn9NNSRLS6bBDPBe/jwhqb2+rvkMPGQ2ThKTgkg4x/NvH1yUg+ZnbKjzxaJiLkTLzXPzPQEOeBaPH62W6WxeIOzoBr3U/748/r2L+AXeK6Yj/H5vxAAAAAElFTkSuQmCC",
     "wiki_name": "Limestone",
     "wiki_url": "https://oldschool.runescape.wiki/w/Limestone",
     "equipment": null,

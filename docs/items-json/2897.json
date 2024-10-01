@@ -1,7 +1,7 @@
 {
     "id": 2897,
     "name": "Grey robe top",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": true,
     "examine": "Some fine werewolf clothing.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xu3We0sUURjHcfclSJKkZJhkmKEZZoaZhpmZoZnd0Ci6U0QQRSFSdBHphiB2oULBEBMpI4iKoqhXduI7y2945uys7Lhb9EcHHmb2zBnnM89zznGKiv79lnLxEXf9j7eUezQy4B4M9wcxdmO/G73WF4QQsxMn3cz4CTf9+HgMyn+JvOFpkFCAFD5m6uEx93xsMPJgfnPNjygqETLlxm8ezEBxBKIQ6OnoUTdx+3AwlmMciPEW/X1hxH2du7o8lECcKzsCvbw/FIA0NhuI+77ND7ufi3fcr8V7ASgRhj+qtxaIh8aBJu8eCUGcx4HmJk9FQJznCEpFysCDNLn57YN4OAiVNxto4dnZwoGUJfoEsvMhLnzQuxfnQhCRCKR54YPsaqqvrXXrq6rc2ooKt7GmJjiuKC52q0pL3Zry8gzY+1fno6A31/MHca29pcVta2x0Wxsa3Oa6uuB8y6b6ALWusjLAgFtdVuZWlpSEqA9TFwoLon/PznbX0drqtjc1uR3NzZEAqKwpc2SL+yjxp5lLIejH21u5YmhRkFD0793VEaDIEjCOCjJFxjZUV0eyJdDn15eXC6Kl68+KsaB9nZ1hlna3tQXBubJG6ciSYGRJoC+zV5YLSu9BZMgH9XV1hVmyAUxlA2XLpyxZUIJNMb3kfZCyo0xQHmAKO7dUOsoIDlRBQQT9ZIEHqhwAFaCUJcaQHfr4zblKlzeI8LMDSOXr7+4OjppbmuBMaq5xD+VTlgCxS+eIoaVXWDaQ9h/6Bg/0u4GenhBlswSAazZLNkPLAgllQdpz6DszNOQO9faGKGWJLLLk6QcKUi9RMJDeXss8/QeXDoGUJQtKgEqDbNno08RV0Md1+xHHub6FfBAvIhB7UIJ9KAqyKBtsdPRbjAXxv8u/R8s+MYhV5oNY+vQB4UOLB9pvIAtiHNcZy6cK4z9OX8wf5K82+i1IX5O2XAJpLKD5J6cjIPagxPtQXNksiPOlQMoQYwsCiiubBXEtbkITjAOkcuUJokUnY7bw54/CB/EtbUGKBKBcWyZSYefPXwQt1TKRmfG/5dd+AxokzI0OLMHaAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADP0lEQVR4Xs2WC0tUQRiGd3+CJElKpkmGGV7CzDDTMDMzNLMbGkV3igiiKESKLiLdEMQuVCgYYiJlBFFRFPXLJp6zvMfvjEfbdbdw4OXMfjOH7znvNzM7icTKb0kXr7jxf96S7vFgr3s40BNo+OYBN3S9O5AgpkZPucmRk27iyYkYKP8jsgZPAQkKIMmHGX903L0Y7osk5jdjvqJQGUEm3citQwugeAIiCejZ0DE3eudIMJdnHBDzLfSP2UH3bfra8qAERF/uCOjVg/4ASHMXA+K97zMD7tfcXfd77n4ARI6akpJAfnavpWzXVwuIpHFAY/eOhkD044Cmx05HgOgLyM/utWSkDCTS4ua3D0RyIFTexYBmn5/LHZBcIiYgux7i5AO9f3k+BEIZAWld+EB2N1VXVrqNZWVufXGx21xRETxX5eW5NQUFbl1R0QKwD68vRIHe3sgeiLGWxka3va7ObautdVuqqoL+1prqAGpDaWkAA9zawkK3Oj8/hPo4fjG3QMT37mpxrU1Nbkd9vdvZ0BARgHJNzuEW71Hiz5OXQ6Cf726HMBkDCYr4vt2tARQuAcZTwikc21ReHnFLQF/eXIkF8rMv0lL1Z8dYoP1tbaFLe5qbA9GXa5QOlwSGSwL6OnV1uUCpMwiHfKDu9vbQJSvAVDagbPnkkgWyh6Kf3WupLe8DyR05QXkAk+zaUukoI3BA5RQIEccFEqocAEpAySXm4A4xftNX6bIGQr47AKl8PR0dwVNrSwucRc0Y71A+uQQQp7Rg0gJihy0GpPOHWN/BHtfb2RlCWZcAYMy6ZB1K0x3aPJCgLJDOHGJn+/vd4a6uEEou4SJbnjigQOojcgakr9c2J/Y3CUguWSBB+dljWgrIlo2YFq5EjHF7iaOvu5APxIcIiDMog3MoCmShrDjoiFsYC8R/l/+Otn3GQOwyH4itTwwQLloktHcgC8Q8xpnLVYX5nyYuZQ/k7zbiFki3SVsuAWkuQDNPz0SAOIMyPofiymaB6C8FJIeYmxOguLJZIMbiFjRiHkAqV5ZAtIVbOE7++pF8IO7SFkjKACiR0LG+lHxAK7t+cgKUbvMh04GV5uf+p+ZDxsl/Z0W3P2QoFygtTniRAAAAAElFTkSuQmCC",
     "wiki_name": "Grey robe top",
     "wiki_url": "https://oldschool.runescape.wiki/w/Grey_robe_top",
     "equipment": null,

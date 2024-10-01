@@ -1,7 +1,7 @@
 {
     "id": 800,
     "name": "Bronze thrownaxe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A finely balanced throwing axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABu0lEQVR4XtWVzUvDQBDFsyxLUUpLqURqocWKlRowWNBSsFiQHhTxIHjw4MGDRw/+/4eRyTLZj2ySmiZNfPAu2a9f5k02nve/xUC6EWIw8g/hpH/QBCgJ0wAgGdFk0I5h/G6rLiAGF8NODFMzEINg1DGACKbXFpFVg9suXSaMXSHdb0sBj9cc7mYcwjGHse+lQBWGZRCedmMjGBkByQT6uhCwCTksphwuhx6cD1xA8gXRybFcSaD5WS9yFtz7SsDLDYd1wGE+0atjWl9XGIhMYC44Oy593PUShYFwob2xDkZwelz0zAawXRjINh6mx6DHtQp8WM6OtoIqBUiBqDl6XOur4xjqdtpPhcK+KwSkf03JDRh83AsjLnxmQ2G1CCJ7v1wpIPdiMy71mbuhsFo7AqHsiHSZcZnz0qF2iCxLsjoUV3LzfKCSoWR1KK7kxiwBowNlV/7PUs2Mcbk3TgKZ10WpUs3sjkvO0WEqAiGpZk4/hEUwFYOgVDNnA6GyxkoRg6+NiJt5DwfmicHnw7bVqVwMvp9E3Mw1w6BUXI2ozs9zK4oLq0M/UXvWHqXiakB1SCznIqxFlV9yzdcvmn7al8SpYi8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2UlEQVR4XtWVzUvDQBDFsyxLUUpLqURqoa0VK7VgakFLwWJBelDEg+DBgwcPHj34/x9GpstkZzcfrWnS1AdzyW4mv31vknje/5YAXXshAR3/EE6aB/sApWE40LjXKwNKR9RvVUMYv14pC0jARbsWwpQMJGDUqVlABNOoqlWZAXcrd9kwrkO83mYKHq8l3A0lBF0JXd9LgMoMKyA4rYeFYFQISEWgr1MFy0DCdCDhsu3BeUsD2XHqA2JlgNJAk7PGqtLg3ucKXm4kLEYSJn3ujl38vijsWtkOEVgcnBsXX487RGYgvNFtzMEIjsdF11wAtzIDuYUP4zHwuOYjH2bDo42gcgEiCGykmwkrrsXVcQh1O2gmQuHcZQLibxMHIZiPe2XFhddcKHSLIOL6uU9NkQGyXTHrPC56zZOg0K0tgVBuRPYaj8velwy1RWRaSTDoDsUVhV4PRFB238zS7lBc0dOKCAwHSnf+zzLDjHHFN44C8c8F7c8BBmWGmcfl7uEwBYGQzDDHu6P3IEzBICgzzBzI3aVVKAhKwNdShcOc7I5R2loOEvD5sKk7hUvA95MKh3kTdwqWiWsv3Pl5rqziQnfoJ1oqEMWV/qrvVGLNh7AU5fr/yUe7hvkF8Vc09zGzK9wAAAAASUVORK5CYII=",
     "wiki_name": "Bronze thrownaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_thrownaxe",
     "equipment": {

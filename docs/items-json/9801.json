@@ -1,7 +1,7 @@
 {
     "id": 9801,
     "name": "Cooking cape",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by the world's best chefs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+UlEQVR4Xt2XbUoCURSG5yIiM8iIjChOZKjIkImmiCmpJSEoRUXQAtpAf1pBO3EB7fHke4Zj04el4dwbHTio4+h9fM+nlhWbKfp4ZYeGL9/mAEWZhLflZzY2RY7lkmtZGx6gKJcoUlCtbnj/r0xFgNapFV7fS1a+uWenpshPWOQuQwF/D7d8L1WmaqqhAyRqig7TbcrbPhUSJTpIBuxlN6Ca06RGuqcfqOUOqOoeke+UODwCBIU0w8AU9bNT6uZHFGRaDCKPXrKgG0jRrHRP4/Q19TITVmo/XWGgkl0zoZCi6f4dnTpzGntXDFXPdjh3Kk6d4YwBTXK3NPTm1CuccyIbA7rYu6ETZ8oKAQj5ZBTozL9cAQEGYbNTKfNAUAcgL4sFuwC9denYTXGpt+0R55EAPT4ENB7U+Ln0JaNAz09DBoJC2oFQUQIkMHBRCePECBAqTcIlbgRoUJy+AwKEOF7LwDUChHLvZEY8PjD9kUMAwmKmDWhYnFHXnqwFwixDYmvYicIKa9p97kPSENcBYR0xAgSYr4A0JPZnIFEHjlmGic8riC6gaMlHwyVAK5WWQKg0/IAYoUKgr/InCgSVBOg4N/hbQE0v1mV/eyBskjGGLVzM4D8BIY/gWPpjghELoaASGiS6NlSDCmiEcPmPpqEPieGQTf0f2SuutNa6nAfUUAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIElEQVR4XsWX/0rCUBTHdxGRDZnERFHJTJGRhaWIJaklIRRFRdAD9AL90xP0Jj5A73jye8axbc3awLsdODjn7vbxe37cM8PQZorCZ3ZouHmSBygq5ZyEa2KbIsuwyTaMmA9QVM7VyO10+PqzVivGmsSmfEDb1PLON/LtzTWA0QQEU1TPGWSvQwEPwq1/KxxSp3ASANEII6boqDigilmnaq5JB3mX/dB2qWv16aQ41hmmKFN0ak+oYx9T3WpyeAQICqUQprAputhb0qgyI7d0yiDy6eSr6atz23ylefGRxqUFK7VfbDNQ0+wGFAqv1GSKlvsvdGnd0dx5YKje3pBzp231GC4zoEX5mabOHY2r15zImQHdNJ7o3FqyQgBCPmUKdFW/3wABBmEzC4XsgaAOQL5WK3YB+unS2k1xqQ/MGeeRAL2/uTSfdPlY+lJKKkUDfX5MGQgKpQ6EihIggYGLSthOMgFCpUm4xDMBmtSWASBAiOO7bLiZAKHch6UZbx/Y/ZFDAMJglhrQtHZLI3OxFQh7GRJbZqLwHXZoXoX1zQvuQ9IQtwFhHNGsUjQQYKKAUkjs30CiDhx7GXZ8HkHSAvKXvD9cArRRaQ2ESsMf0JhHHlBU/viBoJIAnZUnOlVKDtR3tA77yYEwSWoMmzeYwf8DQh7BMfSLQtpUAhBUQoNE14ZqUAGNEC7vaP4+pAlGLPim+penAOOZPCiOh9fGtW/w/hRurA2rFQAAAABJRU5ErkJggg==",
     "wiki_name": "Cooking cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooking_cape#Untrimmed",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 1700,
     "name": "Diamond amulet",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": false,
     "examine": "I wonder if I can get this enchanted.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9klEQVR4Xu2W2UsCURjF+4ghjP6woqf2jIyKFqJ9gWizaFGsxLLFQpQI0whJxKyHomyBkjao8KWXHnqJ/ohTc6doUfOO5QxRPzhPc+Acvjvz3UlL+90QYksVCNVaLSpLSlBRXMRUXljApEIpgsNiwarDgaDXi4PtbVyGw7iNRGAdG1W6EMG9uIDTo8MYR0XYDQbRXl+nVCmCb8WFrfX1OIGE+7s7OK3TcZ7/KIQ1pxMu23yCMEL4YB/Gvr4Evm9BmDMaMTUyzBFCeHx4YJNsra3h8CcFYXluFnazmTOAcHNxgf62Vk6/bAjepSV47HYZAZTKYyP2IvvdbhkBhBmDQYZfNoSdjYCMAEr110Y4DoXYduYLIbY4+bxJQbg6P5f1YgdWPZzepJGmxH9fEcYHBji9SSNdD4lDCENdnRy+H4FQkJv7EhYrkNDd1ARDT0+c5ylB+qzrdLp3xd6k72jH5KBeyUIi0r1lM5nQ29KCsvw8NDcKTFWVArSlwhdTTBlSYGhrk23yIX0G2+oN9QJ05QLy8wTkZKcrXUqEMGGSynxWbc3rpBTl+Y9gRhNVRpQ4NVEKlyK4lqMLWac0sJg1SpcRIfh9mVGFHHYNFm0qFToLZ2Fv52Mpz4oqZV4hRK6zcHIsFQsGMtnUVCwkEr0kPzv++edP8wQwAJCQCl1KhAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJUlEQVR4Xu2W20obURSGXcggER/CR+hjKF55qo0YseIB8VTbgqg1lR4S0hqi8ZBKSBCJiZSgSIxeKDa1gg1WC1Vy440X3ogP8bd7b03iTNAZdfZQ8IMfhswa9r//NbN2ior+bwiFZQmEVrsdLQ0NaH5az9VUV8tlgSlCyOfDUiiEZDyOnc1N/E6ncZLJwP/xAzf0pLxclilCdO4L9nd/FGgVYTuZxEBnh6yUCCuLEWwsL2dTyBf77ez0FGH/pIyUCF/DYUQCs9fMqKvYvfTOd7hHRsxMiTDjdmPi/btbzDAIF+fnPMn+9jazTBEWZqYR9Hp1toJwfHiINy/6ddYbhhCfn0csGDSwAGXbpq/eEMRf5NVo1MAChCmXy0C9YQhbawkDC5DZXxthL5Xi05ldq+9qIT44TTX05+DA0IudWIrprL0zIiX95xXh0+iozto7I46H23dOGHv9Klt3c+29IdRWVV3uvNDuCYM9PXANDekw/mCIz7rD4cgzlpPz5QDG3zplGmKIcyvg8WC4rw+NNdXo7Va4nrcosD9TbkjRNMSCqY11PsnHnCV8qnd1KnA0KaipVlBZUSzXlGgJ4bNHmFGrvU0kJbF1jH//CKZsGjNMLDUmqSmxxSILWkP+CRt8Xls2IYkpEVZXSjWGQkEb5gI5Q+qnTITwK12Gb1vXTcUWLUnnCkLmqAw/94SxZKKUp2ZBOvloh6RF6eS4MpAvdc0jj8jiL1EKy1c6P8IWAAAAAElFTkSuQmCC",
     "wiki_name": "Diamond amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_amulet",
     "equipment": {

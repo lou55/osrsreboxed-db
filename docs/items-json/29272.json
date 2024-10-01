@@ -1,7 +1,7 @@
 {
     "id": 29272,
     "name": "Basic quetzal whistle",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "A simple quetzal whistle crafted from willow logs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xu2W7UsUURSHvZ+kT30rIioqCipoESqLtJTUXoxWrc2XRFI2rETYTGNJMpY2S5YKkwpBSSpKKkQkMSqIoJIi6ZX+nRPPme7ubQmCdnf2yx44zMzuDPeZ8/udM7eoqBD/HUZS6V7nJYzM3Dgik1eCMn7xgILcjtbI9Z49+YAyujB5/9JBGbuwXyGeDNXJVKLebyBPluHeqmRaIKo1fy/sJ5CRgRM7FWLkXPUfiVwPLx+S2ZshP6tkJHp8uyQilQpgE0Dkm4jVyvS1wyqjb0D9HTvkaneFglAZQLge7Nqt5qY6o+f3+gtEhfANCVSwbLkCcI2xqZhPQITXYVQDz5ysWyf7SpcpgPUR1fIJyEjDrhVSHliiVcAvHbVrpHqLB2THAMb3DQi/hCpXSkXJUoXqalivkgXWLtb/MHZP67bfQDmf3EYXQ5KmqlUqFQDI5yaz6PVoc3KS5xyK1o+fKk9C2Y4jPz0+q+lC5RiI8KSIdZbJsZrV2nXkh0fdsvC0T77MxOTjZETeT7TLqztNCuyDfESqWiyKoZlDcyNH5cfzhMIBxfRG2tSH91+ZURj1FMMQvyDRouLiZFKp+QedCksT0IHh+oC8u9smb8db5c1Yi0pLUk0yQ6jUXKI6LgyJfAtTUZUTX1FJPOY2A7C8TG/zRjnTuCFzIDsQ/wb08+WwfJ8bkq/P4vJ5ekC+zQ7qfcwwpjogPMt5PBzQZzIGslObRV7calQPkZxbKezvSAqQBeFo91H9bZsyhSGMmhoJrKHt4oC4QJgbaAuE1O3BzfpCPJ8FGMLI6VCJtj1eYFEWtzDWtC4QFeFDTIdmsbvcMNLXVqpdhAwuDJ2UDsQ9fGayDJEe3taEaW3bHzDaOx2Ie1LVyWl4W1y6Dk8gDWCukfFNpGWrHzA2PD/YbS5gSMSRAYrffIRxwzVrehaiEPmNX4Qi8Iu7HEfAAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xu2W3UsUYRSHnSvpqrsiorKioII2obJIS0ntw2jV2vxIlpQNKxE201iSjKXNkqXCpEJQkoqSChFJjAoiqKRI+qR/58Rzpnd2GqKo3Rm78MBhZnbn5X3m/H7nzOTlzcU/hyWZdF/PSlgycfWgjF4My/C5vQpyI1EpVzp2zgaUpRuTd87vk6GzexTiYV+1jKVr9HxDQUFQULYs/Z3lThogqjV9OxYkkCU9R7cpxMDpip8Sue5d2C+T1yJOlbyrfQhLEke2SDpepgAmAUS+kWSVjF8+oDIGVCVLulu2yqX2UgWhMoBw3du2Q81NdQbP7AoWiArhGxKocPFiBeAaY1OxgIAIu8OoBp45Vr1KdhctUgDjI6oVEJAltduXSElogVYBv7RUrZCKjTaQGQMYPzAg/BIpWyqlhQsVqq12tUoWWjlf/8PYHU2bf3SZ75Pb0s2QpL58mUoFAPK5k1n0YrDBmeS+Q9H6qeMlDpTpOPL9g1OabqgA5LOlSLYWy+HK5dp15Nv77TLzqEs+TiTl3Whc3ow0y/Ob9Qrsu3z2E2eqxaYYmjk0NXBIvj5JKxxQTG+kzbx4/5RZhaWeYhjiFySal5/vJJWavtuqsDQBHRirCcnrW1F5NdwkL4caVVqSapJZQmXmEtVxw5DINzOWUDnxFZXEY+5mAJaH6WxYKyfr1ihQFp7LDMRfAX171i9fpvrk0+OUfBjvkc+TvXofM4ypDghrOU/FQromayAztdnk6fU69RDJuZHC/I6kABkQjuY7qju6zoHJCghTI4ExtNkcEDcQ5gbaACF1c3i9PhDrcwBDWHIiUqhtjxfYlM0NjDGtG4iK8CKmQ93dlQMYE5Z0RYu0i5DBDUMneYG4h9eMGyKHMCbsTxOmtWl/wGhvLxD3mOrkGMIb9icuXYcnkAYwt5HxTbxxU64l+l3YfjCfuYAhEUcGKH4LEMYOeyPv68AX8/5deA3rk3nn4v+P76jkJDaVIlN+AAAAAElFTkSuQmCC",
     "wiki_name": "Basic quetzal whistle",
     "wiki_url": "https://oldschool.runescape.wiki/w/Basic_quetzal_whistle",
     "equipment": null,

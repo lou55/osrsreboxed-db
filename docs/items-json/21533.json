@@ -1,7 +1,7 @@
 {
     "id": 21533,
     "name": "Silver ore fragment",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": false,
     "examine": "A broken up piece of Silver ore.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xu2W/UuTURTHvX9CFEUJholKGebEpsO3wdC1lDUdZst8G2PZ8qUxJMy0MWTDzMw0g0YREfZzf+HJ73m4e+7unmfqs41+8QuHjefee+7nnnvvObeu7kKOJMi0SlQVP4L2939QPv+Hf505MyCy2QPa2/tegR+WoPX1HCUSqw6cGCALCynafPeBdnfztL39lW1n55sDfycDpqfjbIuLrxUHaujtnAoaGQnT3PxLisVWGAo+trY+F8x+bFnpEwsKdN+iiO8OJUIueh7sKAMmyOt9QENDoxQIjFEwOEFj40854hsb79msx51Zgvrb6xloPtDOMEvjnQXTI4iJeQEKzMqrt2z2iziXDKBQXzM99rbSqKeJfJ03GU6FiUSiNDv7QomAYJiJiRneviqASBlAnS3X2DxtN8jb0cBwKhDODgAAVhyNqkRFl+5cn+QEut/HZ2dyck4BqrrsAFTpfcr1rUiCpqZivP9YsfXtEJxnDg5+KolP71M1Cb4l2ALkFeSU1dWMMqHg77ncFzo6+l2AQlYujVZVIAX5fA/J7e6jnp4BPrRIlsvLbwqTADCT+URra1lOeun0x0JbKpXmFIB2M0NXBCbI5epm6+rykN//iG8QMi8mlrcpHk8yKADkpOiL655MbjKshDo+/ls5FIojHJZugZWZ43DrBgeHGRZQiJbDWiZlJDZsWzj8zEFyM6BwMaLRJS7UZhQdSfBWYZWh0BMbZ3qE9Gjp3/Tx51Y5Z4KzdXighcsKDGUF32b8dy3611yCAVB0h+83ssl6919g3Levc5FFXYPhP4DwRKkRkN1WGW2y0MLk8wRA1v0hu+9nkuB8g6t6ePhLAxN0r+lqofojUoCyBzLGms9hvf1UCb7iuFUoBygLKAlqtm1rvMJQEgznB0ClkwlOkDCkDlkbS/vZSnDtQnTwQEc2Rr3CfwnT2nCZDVASDOfHDggvRzxnZV00S8+ZZKR9DMaKJJDpQFBz/aUiIJwfAFlPIqi318u5DGDwhaxt3ddWcp9VK25XowOg0j6qdF/l+jqWebBrNIET1Wy1FzpV/wC9faRledaRBwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xu2W/UtTURjHPX9CFEUJpolKGaZi6vBtMHQtZU3HMjPfxlhmvjTGCDNtDHGYmdnMoFFEhP3cX/jU97mce899mbp7N+iHvvDg8N77nM95zjnf59TU/JcrCTLCiyqSR9Dh4TcqFn/xX3fJNIidnQIdHHz1kIclaGMjT0tLGU7SXl/PYX3LWRrI4mKatt68o/39Iu3ufubY2/viBkrQzEySY3n5pQ5kLn2ppIJGR6M0v/CcEok1hkKO7e2Pehj5ypIxsIQJ9dygqcAtWop00NNw+ylggvz+ezQ8PEah0DiFwzEan3jMFd/cfMvh/N0ZMpZJ0EBbLQMthNoYZmWiUw8juQaIgXkCCszai9cc6iRdVElKA4r0N9FDfwuN+Rop0Hmd4dQKTk3FaW7umVIBwTCx2CwvnwriAQbSgDqbr3D4Wq+Rv72O4VQg7B0AAEytRoWqYpV1Q1sH+Qs9EOC9Mzk5rwOpFakQjDOAeRA7qBm2YhI0PZ3g9ceMnU+HYJ8pFL4rxlcVGEjwKcESwFfgKZlMToES/P98/hMdH//UoeDK1mrZJ+JKggKB+9Td3U+9vYO8aWGWq6uv9EEAmMt9oPX1HTa9bPa9/iydzrIF4Lnh0J7ABHV09HB0dfkoGHzAJwjOi4HlaUomUwwKADko3sVxT6W2GFZCnZz89g6F5oiE9iWwh/XUDQ2NMCygUC1ZKZf7SzM2LFs0+sTR3JxC/R5QOBjx+Ao3allF10BYKswyEnlUIpm9SkY4P7eDl6XTkgl26+hgM7cVBNoK/jcbvK1DWSvoAUZT6WSCAdB0R+42cMh+Z4evugR137zKTRZ9DYHfAMIVRQJZv/Io634wP5ONFiGvJwAqXR2nPOeWYL/BUT06+mEBE3Sn8bLe/VEpQFmB1FwIeR12ASb4iONUoR2gLaAlqG7b2nCJoSQY9g+A7NURbJAIWIfsjWVACe5dqA4u6HBj9Cv8ljAtdRc5ACXBsH9UIDUfbo64zsq+KFuPfUkdpdk+PsaMJJCRQFBT7QUTEPYPgOzV0fL19fnZywCGXHDtMoAgs/fYB9KWTFYHQPZ3VJ2V7xySH6hhfsPY2OcZwJrrtHc9yOVsq6l/Cqaa+gN/ainHCHz2QgAAAABJRU5ErkJggg==",
     "wiki_name": "Silver ore fragment",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silver_ore_fragment",
     "equipment": null,

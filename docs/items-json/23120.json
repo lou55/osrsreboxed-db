@@ -1,7 +1,7 @@
 {
     "id": 23120,
     "name": "Mystic set (dusk)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-03-14",
     "duplicate": true,
     "examine": "A set containing dusk mystic hat, robe top and bottom, gloves and boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xu3Xy2sTQRwH8OZUvCjiwZMNaWhKjDRt0DTSGBsS04eBJKRJY5KmtlqUgIgPlFIUH6X4olDqAwQLQqmlaE8epKLoX/aT7yy/MLs7eewmEQ8OfNnN7HT3s7szs9Oenn+/OEgd1fGuFwe9XMnS8+WMyNr9NK3eTYkwYntjgT6uz9PWq4oCZbyJtuEaiFEAcYyYDy/K9G6tqLswfuOYMXqUJaSD1h/MmFDYAsJh0JvVAm08you22KpAaC+jf+yt0MHOHXsoBmGfnw6D3j8rCRC3rQfC333fXaZf+4/p9/5TAbKEwUn5ruU7aycyCPtafdPi0L0G/M5F+6gwfZoiZwZoOuKjZHSI0nE/ZRMjlJsMiGPFZJDmUqN0OROixZkxWsqH6XohIrY47nMdFufqOCg66qH4WS9NhE8qcYABBUi1eF6gUC+DEEsg7hcqUGjYReGAu4YDDCiA0AZPiTE3KzGxVYI+3WsPhDsH5HY5aCldA+HO8VSMF2wWFejn54etYlDMoELcKUB4RcYLNguD/O4jdkEo2jDdfDJbA6GjyqDZgy8N00GQNgfhCRlBGF3XssMiRoAcboOoQBYmRW3Iq0CYWzCiSlO+WryDJ0QYwr/lNl0HVS6eqqUeSG7TURCCulLCJeYWTIRXM/5anH3HdSCuk9swKOA5Ks6FWbpFDIo2whqBqrkREVzYCOJ6biNiAOEJ2QIxSgZhRubOeqi3V0TuwKr6roLwzUJHRd9YSA3pXk29qEAWUBpIfm2om5/sFx9JgNLjA5SNeSh/YZAuTWijjoGqMCjoPSbOhTnIwjykB/HSlEH4gMaCTkqEXDQ11k/Jc+66QOMosw3CKKsHwonxtcc3jZcg/KXHMV56YIpA+xvl8c6BGCWDgOD1EK+FZAy+d4wBRF5+MAhzkOV5SPXaOhEsymyBjK8NnRt1WNjvbC6KY/J/JdjHygBBO17Uo+3u6yv0datK37Zv2QGhmO9MFRkjxwjae7ukA3EsgFotZiQHTxIgPJ2/CGpUzEhz/pf2yh9v3HB+yP939AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xs3X7WtSURwHcH01elNEL3rVnJM5zJhOyhkzm2juIUHF6UzNtdUohIgeKMYoehijJwZjPUDQIBhrjNqrXsSiqL/sN77n8nPHs6Pz+hA78EU99+yezz33nnPPLJbDX6ykj+54x4uV3iyk6dV8SmTpUZIWHyREGLG+MkNflqdp7W1Jg1IvomW4AWIUQBwV8/l1kT4u5as6xm8cU1ONMoW00vLjyX0ofALCYdD7xRytPM2KtvjUgdBeRv/eWqCdjfvNoRiE7zw6DPr0siBA3LYWCH/3a3Oe/m4/o3/bLwQIfXh7ekTU3pViDDtftXxlrUQG4TvqGsLItwG/M+Fuyk2cpdC5PpoIuSkeHqBk1EPp2CBlxnziWD7up6uJIbqWCtDs5DDNZYN0KxcSnzjuth8V52o7KDzkpOh5F40GT2txgAEFSDl/UaBQL4MQUyB+LnSggNdOQZ+jggMMKIDQBqPEmDuliPjUgr4+bA2EKwfkXtFvKh0D4coxKmqHB0UH+vPtSQXTFCgXtQkQbpHa4UFhkMdxTAtSe69RjGm6+nyqAsKDKoOmdr7XTRtBxhqEEVJBmF03014RFSCH2yA6kLwoqr0rxZjyOhDWFsyowri7Elf/KRGG8G+5TcdBpctnKqkFktu0FYSgrhCzi7UFC+GNlKcSW/fJKhDXyW0Y5HMeF+fCKs2YhkCYYfVA5cygCDpWQVzPbUQUEEaowdFB2QMxSgZhReaH9UhXl4j8AOvqOwrCOwsPKp6NmcRA1a2pFR2IUWrvmmKA5NuGuumxXvGSBCg50kfpiJOyl/rpyqgx6xioC4P8rhPiXFiDTKxD1SDemjIIL9CI30axgJ3Gh3spfsFRE6jOsqZBmGW1QDgx3vZ4p/EWhN/0OMZbDywRaH+7ONI+EKNkEBC8H+K9kIzB+44xgMjbDwZhDTK9DuluWzuCTVlTIPW24eFGHTb2G6uz4pj8Xwm+Y2eAoB1v6tF28911+rFWpp/rd5sBoey/Ml1kjBwVtPVhrgrEMQGyWHhZrxcVKAcjCRBGpy2gRouKbATL2Wv7n4qK1EX9m0NddgG54LsKd4LMNAAAAABJRU5ErkJggg==",
     "wiki_name": "Mystic set (dusk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_set_(dusk)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1183,
     "name": "Adamant sq shield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A medium square shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB50lEQVR4Xu3XzUsCURQF8BlctRGCCExqcERhVNRk1BG0DxSkDBJa2EZsUUFu7MtEzIiIgv7pW/eNz3k+ZmzM57jIC2cbP855lknS6v7PyeAcz0+G9GEaEsUExAoxiAUliAQkUDYl2FqXvIbJkKlkILmfIiAtr5FE9SiEd8OgJlWSDb8nMBn0apa0gyBsxw6kxBUzP40tGGaB6FwUw4O2tR2SYCRIZvSvCYeZGHYut6CAGiDBtizY3Dc5Fw9CDA9CDAVRTCQUEgEyMfxcPIh9PywIJ0OQMEw+6rOdyw1oIVPljnKOc9mB+AeNoISmiQBZ7cwKonMhxvroz31WO3QuHsRjWBBtJ5tOiQCZGLu53IIEtiNDUfONMbOA6Puh7RR0XQzIODEm5uLfjxuQ9Yd2rrPaYeeaBuLnopg9wxADYttxAtm1QzL6ClIulcRgsB2nuX4D0XYQJQRzELcwfwEhBHNcKYsBYTv4i5AN/6DdgIRgsB0EOYXgVB+kFN9UzGm1Kgb0NRzC52AAH/0+vPd68PbUhdfHB3i5vyN5vu1MoOxA+L1aAIYe/qDp6bbbJBQ1Bo0wZ7WaSJCbM2Gdq8sxCiEY/M/DYwx7Mty0WnDdbBIUYs7r9WWC8My2LhoNkiVj2KNvbHXe3Dcxj4AhyuU9NAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9klEQVR4Xu3Xy0sCURQG8BlctRGCCExqfKAwKjqJr0B7UCBlUNDCNmKLCnJjL4soIyIK+qdPnatHr7eZGvOkQR349r++71aqaf/3d04H54z9dLDWLEgUExBbikHMr0HEp4Exq8HctDZumA7pjTQkV1ICZOZNkWgmCuHFMISSIZEZ71hgOmTKWdEOgrAdO5ARNzp5b+yHYX0QzUUYFTRvLoj4I34xo3eKHdbByHO5BflCPhFsqw8b+QbnUkGIUUGIIRBhIsGgAFmBwCioDkadSwXJ70cG4WQIkjEjgHTIRz22c7kBqVONiMHTIbeZc5zLDqQ+aAQlTJNnKmpnWBDNhRj61Wdth+ZSQSpGBlE7WSvF0w5i7OZyC2JsR4ei6elhhgHR+6F2ljIZnnYK24WBudT34wZE/2jZ2pHn+gykzkWY5UKBvx0nkF07It2PIOulEl87TnN9BaJ2EMWCWY33Md8BIQSztbHOMxW2g38I5agP2g2IrR0EOUXgQh5IGZ5PMTvlMk87r+02vNzewvPNDTxdX8PjVQseLi/g/vxM5O60OYCyA+HnaoZ26NRvDh/TajRECNUDdTF7lQpHO/2jn8wpBGseHfZQCMHgNw/GdtwfwU7qdTiu1QQKMfu7u7ztDH+dtg6qVZGJtKOePOPEMfL9Kgz3vQEzbcCk/RvlUwAAAABJRU5ErkJggg==",
     "wiki_name": "Adamant sq shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_sq_shield",
     "equipment": {

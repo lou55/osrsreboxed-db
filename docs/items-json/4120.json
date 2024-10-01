@@ -1,7 +1,7 @@
 {
     "id": 4120,
     "name": "Bronze boots",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": true,
     "examine": "These will protect my feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu3W22sTQRQG8AYpkhASQkpCEoykgUgItKVQUVDQB59VFBUVRUVF8aUoSimKl1K8USj1gkoLhVJL0YogIoqif9noN+s3nJmdSja7FR8cOGSzM8n8cs7MZPv6/v2WUv7w9W94S6lHk4fUg4mDOqZvHFBT1/brIGJp9oxanDmtFh6f8qDcHxEbHoCIAojhYuYfnlTPp49bE+M9+tywUZGQKTVz83AIhVdAGAQ9nTqmZm8f0WPx6gNhvER/XZ1Un5ev9oYiCNfMDkEv75/QII5dD4TPfVmZUN/X7qgfa/c0KBIGX8pfTRAm9YHm7h41IFz7QMtzZy0QrrsEpawyYCIubrwnCOMwESYHguVdD7T67HxyIGYJ9wDCmE49Z60JBEHImgt6++KCASEigbguXBB3EzBjna1qtL1FdZpV1W6UVTa9ycK5oHevLtqg19fjg9A33Mjr2DHU0KjhVk3VSxkDAlZmj6D385eSBeH+9lZRjTYLOgjbVsupajGtQbxHKDJH2MfFKwb07c2tbjFoNogoCcKkzARBhLqZK+U3m+z1CEILfhUWqATtbA9oFIIYBCaVWGYuIVBwBiFDEsSy7e6UNEziCCKGWIAK2f4QKMKhGGx5H4hZ2jvWUrtGmmaHVUt5lUn3G6DMHEoJLFCJgYhC376Ris4Qs4FJy8WsBrHMgKFvsJLV2GI+Y/pjg4jyYZCJwdqAyRDHAMQ+YHPZtO77tDSuQTilu8SgBTtMglyM3GX1SsFMijF7hsqmbOwjliBkqCcQUbiHibiYiZIlkWMkSJZrQ0EIZoAZxBj0+7A4pSUoAioA+crmrh9MGHypDdag32sLfXjs+LBw2YBwBkU4h2yQ3G2cXIZ7Nply/gLhPp4MYoOwy3wg3MNzECbAn6V8BsLnZPbwHmMTBbllw30J4tMkgocmg2MBWnlyzgLhDIp8DvnKJkG4dkH8I8bnAObYREC+skkQ+vj/5oIwDiCWKyYILbx4fSExMlwQnqUliBEB1G0LIxly/fxF0J9aGBmO/y1e+wnryJDGz6ko6wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xs3W22sTQRQG8AQpkhASQkpKEoxNA5EQaEOhoqCgDz6rKCoqioqK4osoSimKl1K8USj1gkoLhVJL0YogIoqif9noN+s3PXsykcRspQOHbnZme345c8nGYhu/xY0/fP3r3uLm8cQh83D8oI2pmwfM5PX9NohYnDljFqZPm/knpzwo/SV6hgcgogBiaMzco5PmxdTxUGJ8Rp+OMKorZNxM3zrcgsJfQBgEPZs8ZmbuHLFj8dcHwniJ/rYyYb4sXfs3FEG4ZnUIevXghAVxbDsQnvu6PG5+rN41P1fvWxByNAcHbejsqgVl57cmCEl9oNl7Rx0I1z7Q0uzZEAjXBOnsqsVD04BEXNz4TBDGIRGSA8HpbQdaeX4+OhCrhHsAYUyjnA6tCQRBqJoGvXt5wYEQXYG4LjSIuwmYscZWM1rfYhrVoqlXBkwqsSmE06D3ry+GQW9u9A5C30glY2PHcMWiRmolU84nHQhYWT2CPsxdihaE+9trOTNazdogbFspbYq5hAXxHqGoHGGfFq440Pe3tx2maxBREoSkrARBhOrK5TObXfV8IJ29TQu+FRaoBO2s91sUghgEkkosKxcRKDiDUCEJ4rTtbuQtTOIIIoZYgLKpvhaQPBR1dtWCLe8DsUp7x2pmV7PqdlgxnzHJRJ8DysphKoEFKjIQUejb1yzYCrEaSDqQS1kQpxkw9A0VUhabyyRdf88gonwYVGKo1O8qxDEAsQ/YdCph+z4vXrUgnNLEdATCDpMgjZG7rFzIuqQYs2d4wE0b+4glCBXqsDpoayCicA+JuJiJklMix0iQnK51BSFYAVYQY9Dvw+KUliCidHZPC0C+adPrBwmDfxoGW9CftYU+vHZ8nL/sQDiDujiHwiC525hchj6b3HT+BuE+3gx6BmGX+UC4h/cgJMCPpXwHwnOyeviMsZGC9LThvgTxbRLBQ5PBsQAtPz0XAuEM6voc8k2bBOFag/hDjOcA5thIQL5pkyD08fdNgzAOIE5XjyC01sXrC4mRoUF4l5YgRhegWIzH+t9CA2XI9RMJqNOmkZ1gGWtj/1PTSF/oZzZ0+wU129tSU3gCEQAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_boots",
     "equipment": null,

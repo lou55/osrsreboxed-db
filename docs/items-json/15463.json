@@ -1,7 +1,7 @@
 {
     "id": 15463,
     "name": "Bass",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "Wow, this is a big fish.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACl0lEQVR4Xu2U30sUURzF9z4tuyzzH1RYVJThL3JdWUMlddmUdFEpQ4xKWNow/IEhGFIY+iAUJQVCQlBQIAgFQlAgQalFEfQQBD1ED0EQ9BD0+nXO93rn12rNjrPUwxw4OPfO8Z7PvXPZUChQoED/tQQ5Z/6hBA0eqSZ3UG4y25Kg4fo4++9lgsYaEy5y25IEGm2ocRTh2T4GTH7OVwkuUDaLBOWSlZRNVGzMmTl3J+lJZgl2bn4KeZ8G6qoYSuXcf1ZPksUKBB5vqrWVKygFgrH7i1+QBN0oieT51m75d6YkzJ7eJa1AFKDPQIKL/+Tbe0w4GFBXdoZtn9C5qkcJmtPLrEb5VlbvAYcTu6ZDXd4R9gtI0PzeiOF7+yL0QPfCgSjd7Gii68eP0kxboy1jtdrA1VSdcdecDQVIcDn8cL+EeHxQ+k5niwEz0ZykRf0djAyyMHJPS6N0tzvNeWwAeY9Qgguw6FKpXPjZoSgtl0nPdaUMGFxavEcOxv8gu1Yeow+VMXpytosWT2foUW873e9po/kTxwqFEryrhb4OXmRFXxiLv62QxhwWBdRsppmm0vX8OQBqBflYFdso3swFSfBOMuk0dba20ssLvfQid4qWz/dwCcqsBiQgAI7xp8PSHoo3k+CTgdtTKRvMZ73kW1yj7zUa/arVeAwD4r0FBHM+wUASaOlctwED4/lLtUYhLZRnBQYjwzk/gXAJX13ss8GsDJ2hr3EJhBNSMDgxBQFzxk8YlD/PnjRAAAaY1ZF+LgeEAlNAGMP83j8YSAJZYQCyeilLa2M5LvyZkHcHp4HnHwl5p4oAA0kg66kA5vX4AL2ZGOSLjPKtXAQgyPytwKkomHeTo/Q7qdlszRYJxilnodOBAhlaB2kWkwdC4KsdAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xu2U0UsUURTG9z4tuyzzH1RaVJRRq+S6soZJ2rIp6aJShhhmsLRhWGEIhhRFPQhFRYGQEBQUCEKBEBRIUGpRBD0EQQ/RQxAEPQS9nuY7d+/MnRlXdqcxe9gPPnbuzNn7/e6Zw4RCFVVU0X8tQe47ayhBI3vqqTSoUmr+SoLONCfYuI5XVa0QKGisJVkiuG9JoNG9DS4ghOrBEsZbF6gEByjbQYLyqVrKJeMFKLuutE76kh2Ck9uvQs7TcFMdQ6k692sNGEgGKxB4vLXREa6gFAjWavADh7leHfH45kb5O1kdZl/dIK1AFGDAQIKDV/LtTTYcDKgL68OOVxgQkKApM0w3wotZPQccOnbZhDq/LhwUkKDpzRHL97ZE6IHpmW1RutHVStcO7qPJjhZHjW51gIvpJmvW3AllSHA4/HCrhHi8XfpO934LZqItRbPmMxg1qIVR97QmSnd7M1yPA6DeJ5TgAGw6VyM3frYjSvM7pad60hYMhhbPUQfjP6hd2hWjD7UxenKsh2aPZulRfyfd7+ug6UMHyoUSfKqZgS7eZMHcGJu/jUvjHjYF1K1sG13JNPPrAKgO8rEuVgj2uszvkeCTZDMZ6m5vp5cn++lF/gjNn+jjEITpBiQgAI71p93SevBydqcWkeDOwJ3ptAPmsxnyLWHQ9waDfjUavIYB8V4DwT0fXSgmCTQ31GvBwLj+Um9QyAh5rMBg1HBdAci9uw8JHsJXpwYcMAunB+lrQgKhQwoGHVMQMNcE2R2EP88dtkAABpjFs8c5HBAKTAFhDfPz4GAgCaTDAGTxXI6WxvIc+DMpZwfdwPWPpJypVYCBJJDeFcC8Hh+mNxMjPMgIL+YA50aX/a1AVxTMu0uj9DtlOKzXrkJ3bNkbez9oywHodu8VuNyBbrvrK/pX+gMGGtZonevt+wAAAABJRU5ErkJggg==",
     "wiki_name": "Bass",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bass",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 21598,
     "name": "Fossilised mushroom",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": false,
     "examine": "This fossilised plant belongs in a museum!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZ0lEQVR4Xu2W/UtTYRTHvf+MQYkvgaW41HBr2SIb0/nKdOpaKoKMLLFUJDVLUmogCBpKEkIUFYg/9qed+JzLmdNVyHa9INwvHO7L7n2ez/M95zx3VVWBAgW6cnLk/3GpOj+ZI9O9NyU3dEvmRprk5WizLGdDsjbVpteTPQ2XBeYOOtrdIpMDbTI7FtHJVybuyMbMXck/jxRie+6eBucfnoVlM9ehz3gE5YIAkRsJy3z2vjqwPt2uk+3MR2Vv6YHsL8fk8+uHGl9WHxVid6FTgTyAcUEyyVAJBJMAweRHb7rk69vH8uN9Qo4/9uiRa+4DSdpmBhorBXJT8yITLUkLMKy8GOLXVrd834jrfaB5lgUAku6qlcHOG+UCua4wECtbzLRocWI5NYErrByQk3yyAMI9oIGx9xjjFKRMmPF4nXaLuWIpAgb7cQUIgnTxO2EOzqZu67sVgiBH25MB/+YKqcAJQIDCBZ6xAIKF4Eoycq0SEOSmqNgVqxVcMFc4AgYA4AZjReuBK8jRASlAK1ocKW5jfj8fAAGOgzhJqisEQY7ajCuslAkYnHtmP0cmB4LdmGDfAQRYXKTGUrEaL4CQo22ZTdTrKjlncIIU9Eeva1AX1j22EZI+ugs4nvEICFne/x1W8KQUIGt1q6tER7WXQBeRm177VAAEjIGRPp+BkKM1ZlsAG+PP7Qk52hyTg/Vhyb/qLXLVF50FAuZb/okcvkvLp7WUAi1NxeRpX6tfUKdAgOCMweytDmmX+u4QexU1Q7tTS4T9GaPGfIRBrkOkiy/8751+BbRvmAefjHJUuiWcjUCBAqn+AOTKoQ9TPrglAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkElEQVR4Xu2W+0sUURTHd/4TfyqwKBPsgZaFrpttpLK6psnmo3V9IMiSJfYQMc2SjFoQhIyiCCGKCqIf+9NOfM5w1unuEus+BoL5wmF2Z+/c+7nfc86djcUiRYr038mTf0dD5S7mycJwq+THzsry+Hl5MHlB1nIdsjnfqd/nhs40CsyfdHKwXeZGO2VpKq6LP5m9KNuLV6RwL16M3eUeDT6/utstO/kuHVMnKB8EiPx4t6zkrqoDWwuXdbG9lYTsr16Td2tJ+bB+XePTxo1ivHnUq0DM0dLUpOGuUKF8kGy6owSCRYBg8YOnffL5Wb98e5GSn6+H9Mp37gNJ2hZH24pA7ioVyk/N/WyiJC3AsPMgxI+Xg/J1e0DvA81YNgDIRN8pudV7olog3xUmYmePs+1anFhOTeAKOwfkVyFdBOEe0MDYc8xhIFWmy5M7A6e1W8wVSxEw2I8rQBCki98Jc3Apc06fLQdyZBjakwnLuUIqcAIQoHCBMRZAsBFcSceP1wKC/BQFXbFawQVzhStgAABuMFa05VxxV6pAnk5IAVrR4kiwjfndDYAAx0GcJNU1uoI8tRlX2CkLMDn3zH6uLA4EpzHBuQMIsLhIjWWSJ6vtIleetmUu1aK75DOTE6RgJNGsQV1Y99hBSProLuAYUycgVPpucsMKnpQCZK1udZXqOlZPoFgsmPtyYem1VwVAwBgY6asrUGXytMbsCOBg/L47Kwc7U/J+67YUHg4HXA1FfwMB86UwLR+fT8jbzYwCrc4nZebmpbCgDoEAwRmD2d8Y0y41h2po/aPI07OKmqHdqSXC/oxRYyHCIN8h0sUb/vfeiALaOyz4ynCfbKBKj4RghOjOodwjwQ13fKRIYegPVu/gI42TYXcAAAAASUVORK5CYII=",
     "wiki_name": "Fossilised mushroom",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fossilised_mushroom",
     "equipment": null,

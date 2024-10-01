@@ -1,7 +1,7 @@
 {
     "id": 11695,
     "name": "Law rune",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-03-13",
     "duplicate": false,
     "examine": "Used for teleport spells.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xu2V4S+VYRjGvd/70p9hmqaZNIkmSZpIkiSSJIkkmUSSmCRFUhkzSc3Oan3wr/Tv3O33vLtPz7nH6T3O0Sf3du2cY/Y8v13X9d5vVtbBZHwC+bf+y4SXLc/Oyur8O1lffC8bSx/k2/KyfF9Zka3VVfnxZV1+bW7uN1h4+MLkpCxNT8vnmRlZmZuTtYWFONTmp48OzIfa3trKNFh42NTwsLx5PibzLydkcWrKQeESUDgFGFK3LNR2LJYJqECePuiV8ccDcaC3L8adSwqFU0jhkkGlCRTIQFdXAtDrZ6NxlxBgPpwC4liGoQLpvd2eADQ5NCSvRkYclILhFvIBgUO4Rbcs1B6AAmlrbJT7t9oSgCYGBx0Uwi3gFBC4Q4d/Jwg43CJCyp4GVAh072ar9Hd2yujDPqexR/1O9uJkwj1ixC0ijK2tOagUgAKpr66W1oaGONBgd7c86elxshf6SuYeblF6ImRXpQAVSF1Vldy4Ui93W1qk706Hg0LEB5wCEiVSINzTaBWQTwWkYxohvfr5dSMKVCC1lZVy/XKddDQ3ux4hCs7hCgicAioQcBovv4Hj0+8eUDil8UUCulhRIdcu1Up7U5ODwiniQ8ApmMIpkDqnvxXMhyI+OoVLRBcJ6PyZMrlaU+OKrVAcqmB8V9eA0kt3cky/69qgU/SJkvPkRQI6W1ISLzZQSA/2ZePUKO3/qdQhnjy6RMEjAZ0qLIz3iHIDZg9H6piN0f6fBdJ3Ids8EtCJ/Hy5UF7ueqRQ9vCdoHDKxmilWx0gyh0J6Fhurpw7Xep6BJSC+Qf7/QKKv/lgFoo+UWz/9UJsEYCYQEqLilyPkIKpWxqjQvkXWyjtFU8fQJRaXYoIw/x1iSVpofxu2cLbCIHSpw8gXZJ0KQUgJuwSO8mHsm75MLtB6euHTa77KEUYJpCjOTkuOp44hbJuWRjkL1PfJd3k7KQ9ADGBHM/Lc9EB5YMBZUF2gsIlPza6tEcYJpAj2dluL7EGiM9C+U+hLbuNTsHSAGJCKJwiPl4rySJUKB9M3QpB0oLRCQ+iUxbMajfADIHYCcFYCScLChwYKisudu8/IInWdzCDriQbvSSKDmb/5g/tlVgYdnq9HgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYElEQVR4Xu2V4S+VYRjGvd/70n/gq2lKM2kSTZI0kSRJJEkSSTKJJDFJiqQyZpKaWa0P/pX+nbv9nnf32XPuHcfrOLW1dW/XDnY8z2/Xdb33m5Hxf9I+geyuvzLhZUszM7Iy91bWFt7J+uJ7+bq0JN+Wl2VzZUW+f16TnxsbfxosPHx+YkIWp6bk0/S0LM/Oyur8fAxq4+MHB+ZDbW9uphssPGxyaEhePxuVuRfjsjA56aBwCSicAgypWxZqe2srHVCBPLnfI2OP+mNAb56POZcUCqeQwiWD4rwjmZmpQgXS39kZB/Tq6UjMJQSYD6eAOJYMyt4UYQLpudUWBzQxOCgvh4cdlILhFvIBgUO4RbcsVAouBdLa0CD3brbGAY0PDDgohFvAKSBwBw7+ihNwuEWElN1C2VuTTAh090aL9HV0yMiDXqfRh31O9uJkwj1ixC0i3FpddVB7cCmQuqoqaamvjwENdHXJ4+5uJ3uhr2Tu4RalJ0J2lULZ2xNMILWVlXL9cp3caW6W3tvtDgoRH3AKSJRIgXBPo1VAPhWQjmmE9OrHl/UoUIHUVFTItUu10t7U5HqEKDiHKyBwCqhAwGm8/A4cn373gMIpjS9CdIFcKC+XqxdrpK2x0UHhFPEh4BRM4RRIndPfFcyHIj46hUtEFwno3OlSuVJd7YqtUByqYPysrgGllyZyTH/WtUGn6BMl58mLBHSmuDhWbKCQHuzLxqlR2u+p1CGePLpEwSMBnSwoiPWIcgNmD0fqmI3Rfs8C6buQbR4J6HhenpwvK3M9Uih7eCIonLIxWulWB4hyRwI6mpMjZ0+VuB4BpWD+wX6/gOJvPpiFok8U23+9EFsEICaQksJC1yOkYOqWxqhQ/sUWSnvF0wcQpVaXFCYSkLrEkrRQfrds4W2EQOnTB5AuSboU0R2dsEvsJB/KuuXD7ASlrx82ue6jPbijE8jh7GwXHU+cQlm3LAzyl6nvkm5ydtIe3dEJ5FhurosOKB8MKAuSCAqX/NjoUgru6ARyKCvL7SXWAPFZKP8ptGW30SlYiu7ohFA4RXy8VpJFqFA+mLrFWftwx5/wIDplwax2AvRB9gkTTnhICMZKOJGf78BQaVGRe/8BSbS+g2l0JfH4YFGUVleSjX/RbrL/+8/Ob5jglE7dEoRGAAAAAElFTkSuQmCC",
     "wiki_name": "Law rune (Barbarian Assault)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Law_rune_(Barbarian_Assault)",
     "equipment": null,

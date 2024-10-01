@@ -1,7 +1,7 @@
 {
     "id": 6719,
     "name": "Unsanitary swill",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-31",
     "duplicate": false,
     "examine": "Sorry, I mean a bucket of 'rum'.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1ElEQVR4Xu2W7UtTYRjGfQiRiQRSXywyWjhJRVdMSdRw6FJbrL205lrqWr6/TGdZUSEUEQR9CKK/967fPR43j06CnjMheuBiO2fbuX7nvq/7OWtp+TeWkZrOfRkZDg/J+MiITE1MnDeUkd2VZXk0M6MgD6anZDY6eV5QRjaWlupaZSQ1NyeZeFzBmtxCI6V8XgH6QiHpvdqqGuhuk6fplMwnk/IwFpNwsK1ZUEayiYSaU41YuF01F2nX88DyGcB3ewN+V8vIcqEgi0+yasz76GDgmLaeF2V1YUGzxfFEf0CBfQAzeucEGUOMaItXwz1t8un1gQJRNaBsBRMjHa6gjF44NdohxemLakpuui9fkKXZ4AkBTI7YCsgWoLaCzoDIA3fJxYNdrScgvKoH4reo1rq/XkarwgW9xo1E4CfHxmQ0EtGbAMhpy7ggJfcanyUqhIDjt9lxh0CEGCivaSPRMnZuws128OxxRoq5nHsgWoe8AF7ZnZvJBKSc7dXtwhlQ+t41yUa7ZX76upYfKALLtBFyJg51dVbFjg3AVjqkApLpcwoETOH+Db14KR6UlcRNzcVpWk/2HInvx0evSGVt1S2QrZAXClOqQFsquVvyKt93DIa21R7GzpbRoP4pGMd8Bgi7+86LknsgIDAnrEzOWWB6/Pt5d7C5KR9Lg/J+sd89EAAYYUhrDosDWgEespgTYvsXhPMf9nbl8/KQwrwtNAEII+4e0y9rYfm6cVu+bd2R7zsRFcdA8z1y5RyI/NAe2kJOuGsMTwPi1baK7/kCRHZsjggvJrZKAFmYg8wlhQQWGP4jOYZhmaNHAXmxbauvEhX6sReRcqJTz73Z3tYJc7j/eFd19O2ziTC/XF/XScL8XbmsQT7cr+gx522lfAOyGaJKTFIjUS3kO1B9fjCyU+adMN6TqyqILzB2VQ0Ic/10AUF+fu4P62sTQLzLGjbS/+X/+gWx/wfmixZjqwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xt2X/UtTURjHPYSIIoHULxaZLXSkoivmSNRwqKktli8tXUu3lu8v86WsqBCKCIJ+CKK/96nPM45ej1OCzp3UgS+79+7e83zu83yfc7aamv9jGDnSuQ8jvbEeGUgkZHhw8LyhjGwvLcqjsTEFeTAyLOPJofOCMrKWzwdKZWRqYkJmUikFq3IJjRSzWQXoaG+X6NVaVVdLnTydnpK5yUl5ODoqsUhdtaCMZNJpDU42RmMNqol4g14Hlu8AvhutDztbRhZzOVl4ktHAHCe7649p43lBlufn1VucD3bWK3AIYEbfHCMTkECUxVVvW518er2vQGQNKJvBdKLRF5TRiaf6GqUwclGD4puWyxckPx45IYDxEUsB3gLUZpC5Yq2tfwtl1A+8JZNHmmtPQLgKAvEssqXzAkRWmNANfJow/FB/v/TF4/oSANmSeQFiQlLuBj5LZAgBx7OZAY9AmBgoN+hpomSs3Jib5eDZ4xkpzM76B6J0yAVwZVduOhOQUiaqy4U3oOl71ySTbJG5keuafqAwLN2Gyek41NxUFis2ABvT7Sog6T6vQMDk7t/QyYupiCylb6ovKml1su1Q3J/quyK7K8t+gWyGXCiCkgXKsjt7S15lO47BUDa7GQPjAYhh1Kh/CsY53wHC6r71ougrO3YYhSA4ZqVzzgLT89/73f76unwsdsv7hU7/QAAQiICU5qDQpRlgkyU4JrY/Qbj+YWdbPi/2KMzbXBWACMTbE/TLSky+rt2Wbxt35PtWXMU50NyHr7wD4R/KQ1nwCW9NwEpAfNpScV8oQHjH+gjzEsRmCSALsz9zSSGBBYbfSJ47jGEOtwL8YssWzBIZ+rETl1K6Sa+92dzUDvO4/rij3Pp2b8LML1dXtZMI/q5UUiMf7O3qOddtpkIDsh4iS3TSaSJbKHSgoH8IZLvM7TCO8RXPhOCf4CgHwMzB7gIC//zc69VPFyQkmPIoT370J7GSqgLijmDQSnLv/+fHL+PXPPH2adi5AAAAAElFTkSuQmCC",
     "wiki_name": "Unsanitary swill",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unsanitary_swill",
     "equipment": null,

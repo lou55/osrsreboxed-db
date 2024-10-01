@@ -1,7 +1,7 @@
 {
     "id": 1906,
     "name": "Asgarnian ale",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-04-06",
     "duplicate": true,
     "examine": "Probably the finest ale in Asgarnia.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xu3XTWsTQRgH8ObgQW8exc/i3ZuK4ju+9UWtoUUjhhArsYZoW4lN06itJLQhJiGNCdVqrMHSIjSUoqUeLFiwUETRWttv8Mh/wrPOTiYlm6ziwYE/+zab/e3M7OymqenfLw7SR3f8jxcH9XkPUo/ngEjAvZ/8V/eJMCIROkujwdMUu3tKg1JvomF4GcQogDgqJtp7kh4EjpsujG0cU2NGWUI6KNh1qAKFJSAcBkX8RynkOyzqYqkDob6Mfp3x0qukqz4Ug7DOrcOg4TsnBIjrVgPhvGLaQ9O5mzSTuyVAljD4Ub5rBuGiOlC4+4gBwroOlAyfM4GwXiPIYeoGXIgHN7YBkpteTTVQ5n6rfSBuJezDcb/bTz6Xj653esntdJPrgos6Wzrp0pl2A6aCngy1GSDEEojHhQoS2HtRGu4bosjtCA34ByjoC1JvVw8FPAGx7O/uF8dUVP7ReTModc0eUD6Rp+xIltLRNCUfPqb4YJxioRiNhEfEdi6eEyBuLQaNRy/aC8L+d6W3tPppleZm5qg4XqRCrkDPMxMi2J6dmqVnqadGCzEID8CLUacBmsreqBWDYgapqK+fv9DK8gotvV+ihbkFKk2XaHF+kZY/fBTQyfwkte7ZRlf27hTBOQAV4h31glB+PzEqKHJsO619W6P17+siGz82aPPnJs2/mRfdBgyS69htBOe9TFyuF1Seg9BC1UBjbTtMwT4Og1B3zKkHWZgUy4+8DoRYBSG2gxiFWAHFmncZYVTDILmVsKwVpELkFsIsXSMGpfyE6UD8iVELSIbgVYPXhtxldYHUcYT9DEq1mKN2F+rx/AMQXhu2gRjVCAiztAyygCqDdN1WLwifHROxdgOEOcjCPGQGyd2GffzVtxWIMQhap2EQnrKtQLiAimIQ35DcXbaB1G7DfgbhguUfNIcHP9cFKD3YbAJhDrI8D+m6TQZhHRfnPwGYxXnylFsIdW0B6bpNBuGY/K9EBqGePH4aBKFUdoUuMkaOCsKkKIM4FkC1lkokRx4/fxG0ValEVuZ/aaz8AuNgSuX7VqjRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xs3X7UtTURwH8O1FL+pdL6M3/gn9A73vXUXRMz35UJkotWiMZSwbKzWWT6s0NnSYjrk2LMtMEiVQRErsRUJCgkRRZvof/OJ7xu967s8z2XW38MCX+3Qu57Nzzj33zuPZ/sVL5piu//PipebgEWoMHFaJ+A9R+MZBFUb0tl6gnug5Sjw4a0DJH1EyPA9iFEAciYk3naHHkVO2hnGMazJ2lCOkl6L1RzegsAWEw6BY+AS1ho6putiaQKivo9+lg/S2z7c1FIOwz73DoK77pxWI6xYC4b7RVIDGs3doIntXgdDGvrIyFdm6KPlu51/NIDRqArU3HLdA2DeB+tov2kDYZ5BsXRSvbRjQEE9uHAOkd71MIVD6UaV7IO4lnMP1sD9MIV+IbtUFyV/jJ99lH9VV1NHV89UWTIKed1ZZIMQRiOeFBCnswzh1NXdS7F6M2sJtFA1Fqam+kSKBiNq2NLSoaxKVe3rJDuq/6Q4o15ujTHeGUvEU9T15RsmOJCVaE9Td3q2Os8msAnFvMWgwfsVdEM5/nPpAS1+XaHpimkYHR2k4O0yv0kMqOJ4cm6SX/S+sHmIQHoDXPTUWaCxz28I4BknUj2/faXFhkeY/zdPs9CxNjU/R3MwcLXz+oqAjuRGq3L+Drh/YrYJ7ABpO1hpBsvUCZf2JkaDYyZ20/HOZVn6tqKz+XqW1P2s0835GDRswSLZ2rxXc96b32lZB+TUIPVQINFC1yxac4zAIdQdqzCB9UZSti5J/5E0gxCkIcR3EKMQJKFG+xwqjSgbpvYRtsSAJ0XsIqzRjigLhCTOB+BOjGJAOwasGrw19yIrsHZR1kJxHOM+g/gp75HChHq8/AOG14RqIUaWAsErrIEbJ1g0lDzIN21ZB+OwYSlRbIKxBDtYhO0gfNpzjr77NQIxB0Dslg/CUbQZCAxLFIP5B+nC5BpLDhvMMQoP5OWAPT36uC1Cqo9wGwhrkeB0yDZsOwj4a5z8BWMV58dR7CHVdAZmGTQfhmv6vRAehnj5/SgShbBwKU3SMHgnCoqiDOA5AHg8v65tFAvXo88cVULFFIovBctbr/qcikabIe7Z1+Qstc5VxAAHfiQAAAABJRU5ErkJggg==",
     "wiki_name": "Asgarnian ale",
     "wiki_url": "https://oldschool.runescape.wiki/w/Asgarnian_ale",
     "equipment": null,

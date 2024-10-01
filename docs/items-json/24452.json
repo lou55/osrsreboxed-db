@@ -1,7 +1,7 @@
 {
     "id": 24452,
     "name": "Twisted coat (t2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-01-16",
     "duplicate": true,
     "examine": "The coat of a twisted relic hunter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPklEQVR4Xu3W30sUURQHcPdJlDAkSRISbMllczHswV56i15EyOiHlrGSWWmIIVaLbYlti2bFomy1VCgYYiJlBP2iSOovO/K9w3c6M3vRnd0peujCYWbnjjufPefeM1ZV/fsjIvawzf/xEZHH6dMyN3nKxEyqR7I3T5ogYmXhkiznBmTpSdKC8v+IiuEOiCiAGH7M4qOLUpi54HkwPmPOH15UIGREcvfOFKFwBIRB0LNsnyxMnzP34mgD4X6N/rGelm+rE+WhCMI5s+N/wE4Zwt99X5uUnxv35dfGAwMKhMGX8lcTBCBBuKemurooDjQ3mzk/aDU/6AHhvERQxFMGILi48RkgnQ0/SM9p0PrzK+GBmCVcw/zg4Hnp7j4hu2prZXddnTkiiEok4lJT4+AIevfiqgtCBAK9fNhvBXE3TUwMSzJ5Vg62tMjhtjbZU18vexsaZH9Tkzn29fYYtAa9f3XNC3pzu3IQ5jY3P8n8fMZgkJ0j7e0GBySv4TgyPCB3Jsdc1IfFkXBBCJQS88gKHorMHO3okKmpcUmlRiURj5uSYW5fY6OLwSb4vDzqgjbfTpWKwfCCNApfjnmUBg9FeY51dko2m5K76RvuWjrU2moypUFfXo+VC8Jwdkk+02sFITM4EjQ7mzZZQnYAQqZw1KCvK+PlgpwehAz5QcwOfz1KB1QuNy2ZzC0D4pwGoVVoUICm6Gx5GwiBeawNPjQWjRoQFjlAvE4Q+1KoIKIQmM/nZ8y2JgidGVlDsC9hbmioX2KxaLggnSUcMV8ozJmHAYKFrUHAEIQt39V13JyvPb3sgtClS8RgODvMBuILkyUhRoOw2Ll2GMgOXhs6Q2WB/OsI1/mSxH0sF1+mBCFD3IXYXQDhtREaiChc51ueEAQfrkEsG0Ho0hoUAOWAbGXTIJSLJbOBWDbcj4x+XLrugtCDAvQhL0iXbScQS6VByE7FIOyynUB4qN5Z/mtsAbgeGshfNlxnCZwvcxAapD8zQ9jyGoQeFLgP2cqmQThno0SwizP4/sK9oYBsZdMgzOl/S3DObo77+P4KAYTx+5duFxqjww9CU9QgRgBQqaMYyWD/QXb+Imi7UYwsjv+jsrEF7qmerJzyP24AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXUlEQVR4Xs2W70uTURTHt1eihCFJkpBoI8UUy17Ym95Fb0TI6IeWobSsNMSQVcNWw9aYWTGUVVKhYIiJlBH0iyKpv+zE9z58H8+uN7fpU3jhy312z93O5znnnnMXCu38ERa3XPZ/PsLyJHFGpsZPG2Xi3ZK+dcqIEIszl2UhOyDzT/sdUPZLbBvcAyIUgCgbZu7xJZnNXMxzjM+w2cqHKgkyLNn7ZzdAYQYIRaDn6V6ZmThv9mJ2AWG/hv65kpDvS7GtQREIz4yO7aBQhPC9H8vj8mv1gfxefWiAsPdIfb2R7d0a3o/yrQkEQAJhT3lZ2QYdqKszNhtoKRfNA8IzgWzv1gjnpQEQPNz4DCAdDRtI2zTQyourwQExSliDPRq9IF1dJ2VXRYXsrqw0M0So1tZmKS/34Aj0/uU1HwgqCejVoz4nEKspFhuS/v5zcrChQQ63tMieqirZW10t+2trzdzb022gNdCH19fzgd7e2T4QbGtrn2V6OmVgEJ2jbW0GDpBcwzw8NCB3x0d9qI9zw8ECQUgl7IgKnCIyx9rbJZkck3h8RFqbm03KYNtXU+PDoAi+LIz4QGvvkj5MyUAaCj8OO1IDp0jP8Y4OSafjci9x0z9LhxobTaQ00Nc3o04g2/tfhlcluVSPEwiRwUygycmEiRKiAyBECrMG+rY4tlUgrwchQjYQo8O3R+oAlc1OSCp12wDRpoHQKjSQboq2d2t4Je8CgmDH2aDTpkjEAOGQA4jrBGJfChSIUBDsuVzGlDWB0JkRNYh9CbbBwT5paooEC6SjhBn22dkp4wwgONgaCDAEQsl3dp4wz8vPrvhA6NKEKQoIFeYC4oXJlBBGA+Gw8+xQiA6uDR2hIqODsQ5knyOs85LEPqaLlymBECFWIaoLQLg2AgMiFNZ5yxMEonMNxLQRCF1aAxHK9u4YHpArbRoI6WLKXEBMG/Yjop/mb/hA6EEl9KF8IJ22QkBMlQZCdLYNhCorBASnurLsNbYArAcGZKcN60wB9hFCA+nPjBBKXgOhB5Xch1xp00B4ZqOE2MUp3l/YGwiQK20aCDb9twTP7ObYx/srACCM9TfdTBpGywZCU9RAVAlAoRDb+mayAbXYfxCdQICKHTZkMbDU+t7/NGxIl+zv7OjxBzi86Tjf+gsKAAAAAElFTkSuQmCC",
     "wiki_name": "Twisted coat (t2)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_coat_(t2)",
     "equipment": null,

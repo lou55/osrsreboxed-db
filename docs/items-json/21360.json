@@ -1,7 +1,7 @@
 {
     "id": 21360,
     "name": "Rock golem",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-07-13",
     "duplicate": false,
     "examine": "Found somewhere between a rock and a hard place.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xu2X70tTURjHdzkcLneMxZgs3F6KRPlCg0LCH7gXg0lhpUxaOJhYiViKlqJoKGIYCQutkAoroigQfNE/+PR8n7Nzb/ii3nTu9sIHDrt3E89nz/P9fu9ZInFezssjs9qiPMoszFCqcqsdoDzKvdokPX2b0vXJVgOZziSudFN2ZY4y83W6MFNtJZRH/tIDyu2tG5jZqfYAuniwQ7nGFnXsrlL2+WITKFaR242iDvlr8wKD0amxEum5Gqney3FAeaSrd850wSM1ckNe8Rng/N0V8vfWXAN5FHxpUHC4I3oJigNyHbzeIn9/Q2Ayy4+oY/spZdcfS7fS9yz8fy+G+fGWdO2mAAAoWRo2gMf7xmUMgzFZLWEhCvB3DqA8gdGVkgDBVcnRouhHOsKbY0T6Sd1ANpe/vUTBUL8jIN5MT09K9kAjujZByZMjSp5+pODdCxkbRK4r3MX3L+U9jNS/3usIiJ0DGIwG14XTYyqcfKDCr8+U/3lEnZ8aMi50T8bGOhJ4V0D4xgLEC7rIf39jgBgM1+KsZ7MCK2AMDq05A4J+LBDu818PpDOA0tUy6fEiqdEBY/+H983i8anSkCMg3kBCjzc2G3iU4ns1co3d1U0qmwnfh+sgdHTJAQwqEjWgcI/nFkYCzfibC+FCSMYChH+Oo0Z6akI2EQex1WFtWQhH7iLiQILRNRA2RO7YJ7rkEesJEOI82B1W59yJBQiZI0A8JtshC4Kx6fGy5A9cFXw7NIHJo3MG1NOVN3ZuukzEy52Aze29GhsWgSOl8Znf1+MWCKmMblgAwKTulsMRQvgYqQBxd/SlLndAdgzhyJoaCoH4IYsnPnIHQNLJdModEPQCoYaihsvYXar/aggE29vuRctZGc3gSGHPQn/qB11BUDqGOFvRNwdQdNYxQA4PZP8qAxT9FjNACEU12NcKKPMoAUA0plh087dqOUB89Rs4fUj3wKY/vQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu2X4UtTURjGd7gcLneMxZgs2r4IIlF+cEEhYYr7MJgUVsqkhYOJlYhlWBlKhiKGkbDQCqmwIooCwQ/9g2/v856du2X2Sc+dH3rhsHvvxs5v7/M8772Lxf6X81Jk1okoRam5KUqUr50EKEWZV8ukJ69TsjYuQPnOznZBmc7EzndTemGGUrM1OjVVaWeXFPnzdyizsWRgpidCoDZ1yQCd3lqjTH2FOtafUvr5w0aHIjW53ajZIX9xVmAgnTdSJD1TJa/3XBRQinTlxoEuKPKGLssr3gOcv75A/saia/kUBV/qFGyviV+CQr8cB69XyN98JjCpR/eoY/UxpZfuS7eStyz8sRfD/HhLunpVAAAULw4awN1NkzKGgUzWS1gYBficAyglMLpcFCCkKj5cEP9IR3hzSKQf1AxkY/mr8xQM9LmQTslmenJcZg88oqtjFN/bofj+RwrevRDZYHJd5i6+fynXIKl/qdcRECcHMJAGx7n9XcrtfaDcr8+U/blDZz7VRS50T2RjHwm8KyD8YgHiBV9kv78xQAyGY0nWk2mBFTAGh9ecAcE/Fgjn2a9b0hlA6UqJ9GiBvOF+E/+7t81i+bzigCMg3kCGHm9sUqMowefe0EVOVzd56VR4HamD0dElC3P8QA1TAwrnuG9BEnjGX54LF4bkYUAHv/GIpeTL8aiRnBiTTSRBHHVEWxaGI3cR40AGo2sgbIi5Y+/oMo/YT4CQ5CHuiDrPnUiAMHMEiGWyHbIgkE2PlmT+IFXBt20zMFk6Z0A9XVkT50bKxLzcCcTcnnsjg2JwTGm85+d73AJhKqMbFgAwiZulUEIYH5IKEHdHn+1yB2RlCCVreCgE4pss7viYOwCSTiYT7oDgFxg1NDVSxuny+i6EQIi97Z5dDmaQLeMZPFLYZ6FW/6ArGJStEA5hbDV/OYCazzoGyD6QOYb4s8xmBsj+F7NAGIrelXzjWqRlbiUAsDK1rgikOqz+BojIN/8uVwC/AQmSeySf8NQXAAAAAElFTkSuQmCC",
     "wiki_name": "Rock golem (Daeyalt)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_golem#Daeyalt",
     "equipment": null,

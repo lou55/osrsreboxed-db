@@ -1,7 +1,7 @@
 {
     "id": 2436,
     "name": "Super attack(4)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "4 doses of super Attack potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzUlEQVR4Xt2W7UtTcRTH/b1KRGXDqbinnE+5LNTWNtssldLMudmyx/VotaHMhiI0ZxIERUEEgQiBFIRoQqCrIAhCehFBBNP9Rd/u+d3du7uHl9u94IEvg/vi3g/f8z3nrKLiYBRDrjQthvCNVlzxWTHc34QTx/RaQzFsrvRj/a2Xa/6hHTeDNi2hmAzz/nUfYlNHcD1wWCsgMTMS0NorN6J3Onj7NMgTgz8wiWDwmuzO6nMnpm+149KoBS6XFx7vkJpQDKHQ3QKN+ycxPOLHwOAIenqc6gKFI9NckciMrDFfEGfPjcHp9KC9w64u0Nz8gqxYbA7RaAyjFyZwyjOIo13dMJmkLKlWDBsbn5BMfsXOThLb20nert5elxahpmKYuh9GPL6IpaUnXNQuh6NPCxgqhtnZGBKJREZLcn40A5oIprlD8cUEF7XM7T6NTvtxtaEY7F0pjAfSOWo0rqKufhE1tSE1gRjMzd8x6suFMVu/odG0BkP9U9Tq7qG65qJaUAxd3XscSCmCNJrXYWh4AZ0+Irh0VQ0gBkvzDwwNpzFyPheInhstW2hoegNd3SO1XBKzQzD5sth+wmTdFoBWUGd4rIZLgju2XXjP7MsO5QLtCkBfhGC/E4K9nHHptuCSv1xQDLa2FIcpJmvLLx7sJtMHIUfPoDcsoFb/oFwuie6cdO8JlzzNVQj0Ww52feNLPv5ldImhufWvDFNM1pY/PNgmy2cebKVL1TWXSwkkThaNOuVHqQKgTLBpQcou6WcyLgVKBcV4O/Jh8kUOysEWFiR3SViSZXCJoa0zBbdnv6iyQP+ywTZ/5OOvdInOSVX1WOmg8kHyRROYDfYmH3/JJdpJlVUDpYKhEs8FqceRFU2dJHJRDnYmR9JdO1RZlv/X9EKxfbStlYAERM+kYItXf1mxg0oOoyzpA+IZkaDol4ItnQ4VQIpVFq5QB7D+A8KApieSEV5PAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xt2X7UtTURzHPa8SUXE4Fd1Dm0+1LJzZnG2WSmmmbrbs0R6tHIo2FCGdSRAUBREEIgRSEKIFga6CIAjpRQQRqPuLvt3fubvn3l33JtjOoB98GYyx++FzvuecraDg/xiG9OR1GMau1uHigBM9HdU4etiSbyiG9aUOrL4K8szc8+BaxJ1PKCZg3rxoR2z0AK6E93Mgr8slG0rtjAa08tyPyZuNfPny0CeGUHgYkchlYWf5iQ/j1xtwvs+BtrYgAsFumVAMIyO39mQwNIye3hA6u3rh9fpkLp2yu6LjPNHohEj/QASnTvfD5wugodEjF2h6ZlYkFpvG5GQMfWeHcDzQhUNNzbDZ1C5JAqJhWFt7j0TiMzY3E9jYSPDlamlpE6UmGKlAo3fGMDc3j4WFhzy0XK2t7fmAoWGYmoohHo+nsiD6I3mptGEYiiS5obn5OA8tmd9/Agc9R2RueRoGT9M2BsPJtFTVLKO8Yh4lpSMyLTHYXV/RN5AOY3d+QZVtBdaKRygtu43iknOyLDE0Ne9wIGMIssa+CmvlU5RZooqlSzIsMThc39Ddk0TvmXQger/G8QGV1S9RVn5fliW1OwRjjsP9HTbnhgK0hHLrAxmWFDvuLQRP7gpD6UBbCtAnpdivlWIvpizdUCyFcmWJwV2/zWEyxVn7gxe72vZW6dFjWKyzKLXczZUl1c4x/45ykyd59gL9FMWuqHrGt38OLTG46n4LmExx1v7ixbY5PvJiGy0Vl1zIpiV1Z9FWp/4YswcoVWw6IIUly0TKUjhblhhfDjOMOWRQFFs5ILkl5ZDMgSWG+oPb8Ad2M0YH+qMX2/6Ob3+jJbpOior7s2fJDGIO7UC92Ot8+2uW6EwqLOoUhrJiiTpE8bbqoV2nhSyKYqd6pN1r+wr139dZgNFG/RVID6bT2ghIQPSeVmz11l8UZ1AOYNRRv1D7z6VeIxoUvVKxtavDDJJ1GOPoD9DhzJECkmmMDzbH/Nl/nb9KD9sybjpaFgAAAABJRU5ErkJggg==",
     "wiki_name": "Super attack (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_attack#4_dose",
     "equipment": null,

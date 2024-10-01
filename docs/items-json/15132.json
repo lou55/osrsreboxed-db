@@ -1,7 +1,7 @@
 {
     "id": 15132,
     "name": "Adamant bolts (p+)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Some poisoned adamantite bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAt0lEQVR4Xu3VXQqCQBiFYb9liJCQJGhSJmIG/RB0E3TRRWJ7aQEu+8Rp6KYNzAnmhUGYqwc/ZiaKQiHD747HDO0wgwjK0FwaJItEAWQ4PI4od6UChhn6W49iW+iAOK68zXVAq9Ma6TJVABm6a6c3rmyT6YCqfaWDkRyXyGXIBMclctSZoT7XKhhmWkd9ml6I57ECyGH4VDzHu2+Qw3Dx7uHXM4gRYJ+XXQT0zf0tIRCTwoRCof/sDcCUbAe1CteDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA0klEQVR4Xu2WzQqCQBSF5z6GCClJgiZlImbQD0EboUWLot6lB/Cxb10HkmbVqnsW84EMDC4+zuHOjDEeD7G7owhxfZswiBRxdao4nIWDUBnHmlLEu+ue803+kVEXas8tZ+sMIR3B1pXWKY7Q4rDkaB4hCBE3XfNVl7qQ1JWsEoR0BOJiW+Ck49bl/vFnoA5DAbAukFEX3hLHEiUdgbBGve+fHEwDBCErI1fF437RFrIy8snZI6uykCCvQRpudhAhY6yATQtCaARm5EegZDwezw+8AI0llCuQmzFzAAAAAElFTkSuQmCC",
     "wiki_name": "Adamant bolts (Poison+)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_bolts#Poison+",
     "equipment": null,

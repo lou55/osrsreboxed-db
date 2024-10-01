@@ -1,7 +1,7 @@
 {
     "id": 25585,
     "name": "Fish sack barrel",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-03-24",
     "duplicate": false,
     "examine": "There's something fishy about this...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIklEQVR4Xu3W7UsiURQG8O6nxYgVSZKZQYcmTNTFrehlhUKk93apdokIIopY2P//Lzj53MszHmetD3GvfqgDBz8Yzs/nnHtzYeGzgpeRyZ5LjQHfu4k0sxVZrizK16XSPFBG9ve+SbeVSqn0xYLQ7WZNGknFwmacmgP1dzq2szSSnc00R2WNqk0MHdfKChisjAz6PduA7W21pdfJpLpclm47tmNDUrrjqBwSZeRosCXDg40ctb2xbkeItDBGpAQIX4ODTofbFkUYRrfZWxuNrD4aVWJhwLBnAjo/2s1hSAqjAwrjQ1o5LizInZpmc1V+nfywKDRQXHTAMMIiDqP0jHLLzN3pdNbl6qyfw4p7xcR0WmhPKGO/PR7EB6KRVKu1ZnFE4X38bTElplv85HeUsR+Ob0wI7yAi03S0K1ljAsSEPEJQYwwfrjFs7k09iS0Or1FU8wlhTR8VEezieNieQQ6jF1nf0G+dKC6xR5CZuGcA0q1R00C8HD2BjD3ObA3TOH28gdIgYJK46g90c3lg+/Z6IL8v9vP7pggrniigAErrNYlWKv5Ad3+GeQMFnIYxNaCKKRHkCcMy8nB7LPc3h6/Cpl2EAUEoI8/3ZxMwotAapf9VBAShjPx7/ClPd6f/wXRSHJ3+XRQIhHJX/9+HixwGFMfHndK/iwJidDkYxzgtJYBmhNHlYEgLSQGld2kOIJaDIS2MjynNEcRysHF/1gerF7+xUFPNsvgzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACO0lEQVR4Xu3WXUsbQRQGYOeqRKQhGAy7S7J2JYYkJUbR2oASQv2qlX4hIogopdD//wtO887ybk/G1Ys6k5TigUMuItkn7zkzZmnppYKXkdleSP0BbPUTaWdrslpbltcrlUWgjBzsv5V+J5VK5ZUFobvthrSSmoXNObUcNNrr2c7SSPa20wKVteo2MXTcqCpgsDIyHg1sA7a/05VBL5P6alX63diODUnpjqNqSJSRo/GOTA6HBWp3uGlHiLQwRqQECF8JGq6vh0AZOZ3sWhRhGN32YGM6suZ0VImFAcOeC+jj0bsChqQwOqAwPqRV4MKC8lPTbr+Ri5P3FoUGiosOGEbo4jBKz3uULzN3p9fblC9nowLm7hUT02mhPaGM/fZ4EB+IRlKdzobFEYX38bduSkwXY3vm6Iz9cHxjQngHEZmm013JWjMgJuRCvGH4cI1hc2+aSWxxeI2ihk8Iq3xURLDd8bA9n6wcoxdZ39BPnSgusUeQmblnANKtUWUgXo6eQMYeZ7aGaZw+3kBpEDBJXPcHuvx8aPvq61i+nR8U940Lc08UUAClzYZEazV/oOvvk6KBAk7DmBpQbkoE6RPmPuEvysjt1bHcXH54FFZ2EZaB3E9+Rhn5cXM2AyMKrVH6X0VAEMrIr7tPcn99+gCmk+Lo9O+iQCBUfvX/vD0vYEBxfNwp/bvI8/48rPyDcxjHWJYSQMExujQMaSEpoPQuBRzV46VhSAvjY0oLAbE0jD23cT1VRPwTmP++fgPqUIVeXqtLjgAAAABJRU5ErkJggg==",
     "wiki_name": "Fish sack barrel (Closed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fish_sack_barrel#Closed",
     "equipment": {

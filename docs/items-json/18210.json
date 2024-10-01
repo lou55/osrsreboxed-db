@@ -1,7 +1,7 @@
 {
     "id": 18210,
     "name": "Graceful top",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-12-05",
     "duplicate": true,
     "examine": "A sign of your grace.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xu2W60sUURTAnU8iROEnSVGxxY1VyYzQBMukl5nkIxNLtszMTCs1EUVEDMkSyywtEZGwRLLERLIICXpA9F+d+J3lzu7OBk0P50t74DAzZy73/Oa87iQkxCUu/6dYEqueSrTzwd5G6Witlsb6I1JVUawaC+UEdr7/Y7GksvyAnDxeKEcP75OyQ3vl7vBlGyQaKKy5gUzVpKREW51rnJ5ciCXBhmPSUFcm9bWlUlNZonDTD24o1EDPOY0Ua+qqDyp0acke2V/gl4A/XTLTU2RnSrIk79imQMaOLQzoWizp7axXh1cvnZLmYLk0NZ6Qxbl+GRlsitKkxETpuX5W1wFdUpyntqL9AY1Sti9NIYCNBML+G1CWDPUHpa+7QcFuttUo1NL8gIyNXIkBYl1RsFajaYBIL/eA4bzlYoUCF+T7bCAgXUJZ6nh0qFlTEwk0Nd4RBYVzCh0gokTqsOGsuDBHaw8IPpB9iDQ2UkgJuAZaWRyRhdk+rRnAiAK22UddCnX/Tqvacc4VIFJHlLARHeCoL+BmHnbatXet5bTWJWtdA+F4YrTNjlJX+xkbbv5Jj77nGeeT99oV6PbABY0SNr4ep0SWTgRweWFIns306gcBR2RdA7GpU798XJK5qVu6IRAAY8cGEM84NHVFJJhXpMi5l1HXQPm5uZIXCEiO3y+7fT7JzsqSXRkZ8u3TsmxuzMnblQl5/XxYN/2w/lS+f12VwvNVWiuRQESJlEVCZKalqaanproFQpyDLKSfN1/IuzeP7c3pQtJo0udU6oT2d+4T1r8SS9ND/qkXasuMBaLhVAPFCPgHzn8moWKnw2h9wIzT7u2hK/MGpb2JDrOHbtsyINqXgjYgZh4BROpQCtkcN1sIg4RSBgidRleZAQoUV1qZdJFGA72lQMwgU9Sm9Q0UHWbOQA9gEEunNy0fCUVNRf4BGBhPgDjP1l6OycbqpO3URInoGBup8wSI8Y8jorT+atwGIEocL+a4YSx4AISEjxUm9Pu1aVWezZ+A+RvwCAhxTtuQMqNMTXlUQ7+SWEjnirjExUv5AVPUAZ3zUhR+AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xu2W60sUURTAnU8iROEnSfHV4saqpIZogj2kl5nkIxNLtszMTCs1EUVEDMkSyywtEZGwRLLERLIICXpA9F+d+J3lzu7Ofmg22O1DHjjMzpm79/zmvO4kJOzIjvyfYkmkxlXCnQ/3N0tXe600Nx6Xmqoy1UgoJ7Dz+V+LJdWVh+TMqRI5ceygVBwplAej12yQcKCg5vkyVZOSEm11rnF6ciGW+JtOSlNDhTTWH5W66nKFm318W6GG+i5qpFjTUHtYoY+WH5DiIq/4vOmSmZ4ie1OSJXnPLgUydmxBQNdiSX93ozq8cfWstPorpaX5tCwvDMrYcEuYJiUmSt+tC7oO6PKyfLWVFvs0SjmeNIUANhQIexRQlowM+mWgt0nB7nTUKdTK4pBMjF2PAGJdqb9eo2mASC+/AcN525UqBS4q8NhAQLqEstTx+EirpiYUaGayKwwK5xQ6QESJ1GHDWVlJrtYeELwg+xBpbKSQEsBXYVbWn6AsWVsek6X5Aa0ZwIgCtvmnPQr16H672nHOFSBSR5SwER3gqC/g5p5027V3s+2c1iVrXQPheGq8w45ST+d5G27xeZ8+5x7n0w87Feje0GWNEjbeHqdElk4EcHVpRF7O9esLAUdkXQOxqVO/f1mRhZm7uiEQAGPHBhD3ODR1RSSYV6TIuZdR10AFeXmS7/NJrtcr+z0eycnOln0ZGfLz66psby3Ih7UpefdqVDf9vPlCfv1Yl5JLNVoroUBEiZSFQmSmpammp6a6BUKcgyyg37Zfy8f3z+zN6ULSaNLnVOqE9nfuYxQYl0AJCWZx8E+Wpof8Uy/UlhkLRMOpBooREOrcqU6/UUig2OkwWh8w47R3d+DKvEFpb6LD7KHbokhNNGJp+1LQBsTMI4BIHUohm+MmFCYmQKQMEDqNrjIDFCiutDLpIo0GOkbRQSydQaaoTesbKDrMnIFOmJgBMb1p+VAoair0C8DAxDg6iKXn2cabCdlan7admigRHWMjdXEBYvzjiChtvp20AYgSx4s5bhgLcQBCgscKE/rTxqwq9+ZLwHwNxAkIiZy4KDPK1FScaigozmkbcBoJGcMOcydOyH8KsyPxlt/yKDr141t6XQAAAABJRU5ErkJggg==",
     "wiki_name": "Graceful top (Inventory)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_top#Inventory",
     "equipment": null,

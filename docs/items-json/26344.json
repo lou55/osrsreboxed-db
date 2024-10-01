@@ -1,7 +1,7 @@
 {
     "id": 26344,
     "name": "Ancient brew(2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-05",
     "duplicate": false,
     "examine": "2 doses of ancient brew.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xt3V20vTYRgHcN+/oqsgNE8TDxNPQVGBVqClNm3mabnp5nSo87c1d8SkZJqmacYqLRHJTiBeWJCKlfMA0UUEXQUl/SHf9rzrN3/brKvt9wMf+MIuxt4Pz/O871JSjkYxREfRYggMl2DMU4hb1jzYjCqlUQy7yxcjmR8/hUlfkZKoA9DHVxWYu1vGu6UQKLwzImjzRTme+Esx4lQrsU8M5i4LLJaeSHfWn5fzfSKQtqEZTU035EQxCIIdNlt0Oju7YTCYoNMZoKm7Li/I4RiA0+mEy+WGx+OB1+uFydQFvcHIO1R1WSMvSArxen08RqOZj6qm5hrKKyrlBFExrK6+w9raeigbPO3tJsmoZMVQMdjtNyPdodC46usblcBQsdAOueJAWm2TciAphkI3TIGFpgrdsgFnHKjD2InGRh2qq+vlB7nd7ihMf78As7kbra16aDQNcoLCb1BsdwTBxl/uNn0H3yO6+jKh4pc5DLKjt9caGZtMLzXjfxHhB9GH3uwFmDMfQZ8+gebUYfRZD8ZGy11bq002imGq5BvuFX/BaNEebqs3MZj/Hq68FQg5SxzYnTkLU8YMR7amjiQTxOAv3sLTil+YPfMTgbIfmC79jsnirxgr+syBw+pPGCpYhy//LUfac15zaBJQDHfUHzB2NojpKztY0v7GYs0+Fir3o4DUPcL5C7d593qyn8GYPpMc0EhZEFNVO3hQu3toJi4EMXo6GOrSFgYL1uDIecNB5owALFnziUQxfggdGIuQ5v6lbd5BKagvtFNdWY/Rnj6Fc8daEoVi/CA69GFdONLPYkQQ7RmBBnKXYVUthrozx8fWljaeOBCNKhYQG/rO+PlokKBaioxNf3ISLan+xKEC2r3/hpZdCnLlhm6Z6iUfG3VIe2IwURgqFtkVaVf+BRoq2OAdIgztz9XjjkRixKIfZPzgWJwIosWn2yhidGmjfyEJx0hLPCC6a+LVJwwtsgyQw+oAF58jWH8AHjcQT442nqAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xt2X+0tTYRzGff+KfgpE8zZRN/EWFBVoBVpq02belpvuokOdZ2vuiknJNE3TjFVaIpLdQPrBglSsnBeIfoign4KS/pCnve/pnJ0dLQjOzqAvPDDGtu+H53ned1ta2v8xBIlK6RBERsowHijGdWchXBZNqqEIdlfOiVqYOI6pUEkqoeJA759XYf5WBXOLPq9NT1cbiu+MALT5tBIPw+UY9epS0ScCe7cDDkev6M76k0rWJwpkaGpFS8tVNaEIOM4NlytRNlsPzGYrjEYz9A1X1IyOwOMZhNfrhc/nRyAQQDAYhNXaDZPZwhyquaBXF0gKEgyGmCwWO4uqru4yKquq1QSiQ7C6+gZra+sxbTB1dlrFqAQYVYHc7muiO1Q0rsbG5lTA0CGxDvkOABkMLWpHJQxJgKGiJ0xaaPk7kjixUzboPQDUZbGhudmI2tpGtV0i8Pv9CTADAxzs9h60t5ug1zepCcTfQXJ3OM7Fbu4OUxfrET36KsV2sMw8kBt9fU4xNpVuasK+IvgLMYS+vEXYc+7DlDWJ1owR9DvjsdFy19cbku0SwXTZF9wu/YSxkj3c0G1iqOgtfIWvwOUvM8CenDlYs2cZZHvGaDJdIgiXbuFR1Q/MnfyOSMU3zJR/xVTpZ4yXfGSAI7oPGNauI1T0mkG6818w0CS4RHBT9w7jp6KYubiDZcNPLNXtY7F6PwGQukfhwsXbzL3evMewZM0mwyWC0Yoopmt2cLd+91BNno1i7EQ05tIWhrRr8OS/ZED27AgcuQtKukTYErpQDiHVnfPbzEEpUH+sU925D9CZNY3TR9qUgiJsEV16r4GX9LEgAYj2jAINFqzAqVmKuTPPYuvInFAqOsKikgPIRV8zcSYRiNMsi7GZjk2hLSOsnEsRw95fRcsuBfIVxE6Z5hmLjTpkSB8SHVLEJaErUlf+BDSs3WAOURjan0tHPUrCCMP/CqSL5XACEC0+PY0CjDFz7HdEisPww3+g8J8r0TXh6FMYWmQ5iOIw0okviMPJpQrIYSNdLJf8tf86vwD8UEVagq7qeAAAAABJRU5ErkJggg==",
     "wiki_name": "Ancient brew (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_brew#2_dose",
     "equipment": null,

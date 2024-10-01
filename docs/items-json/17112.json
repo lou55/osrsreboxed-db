@@ -1,7 +1,7 @@
 {
     "id": 17112,
     "name": "Diary",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-17",
     "duplicate": true,
     "examine": "Someone's Diary.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACa0lEQVR4Xu3WUUtUQRTAcechJIlkKTY02nBDJQ1XFyMkxALTciNNWzQMglIogyDoIegpiCDoQSGKHqQoiKKQioLoy534z3Duzl6uizZj7oMHDle9q/PznDNzb0vLXkQPIy6bIozMnj4mlcHOZkEZqZ4pNBPKyMLIcYuaLh9tBpSRxbNdAaio82dk+fwJuTVWTFC0rh7VOPl8MX8gFsrInfHuBPXh/eUkFcWVRake6JujRftZfkczEoYwcn+yN0H5ID8VRAUBkeDIC6c64oIeXDop9yZ6LCoNyUq/tRdLHVI41BYL5GYAEBja4M8QmcZwH5AeEZ25/d48BYWRR1f65WGlz1aHdrGQnkc+yp8jfyeCWbpdsi2jUgGoGkbnh5nQxRqB9H65K2cxK3eHLChgl9Uw6VYpaDOUgvgazLm+IzYDZsgkECrjt0oHNY1KV4n0MbUZ2nZkY/ztmwXyUYoZ7c3bjIrRVqXPlEYoqqSY/MHWf8UQ7vBTiJ6ugLaKAjTSfdhmIIaofzxwZbC1Yn61slBg2NZgcm37QjGESRZkcTDPrw/J02pJnswNyOOZ/gSYni2qA4YBjoQh3OsFf5j/WGEA/vyet7hn84MJkHuaVKlUaA8Z4Kxwb4SgqBQL0SpNvv/1syqrN4blxWLZVoz89HFa3r2tyJvXk7ZCUUG0gorQGqqgC/NzTbAgvm3MyY/v1+z1y+cZ+wzb3gvblkIfgPUJDqSi9KBcX5+yEIAbX6/agY4M2iwczB9qfbbR5rXVcXn1cuJ/YfxwMED+UcBQs+13AaThYGD8Fu4iSMPBaFvkd+bQ0A2wFzsbfwEVYcyWhU06bQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACi0lEQVR4Xu3W30sUURTA8b0PEUkUS7Gh0aYbJmm061KEhFRgWm2kZYuFQdAP6AcEQQ9BT0EEQQ8GUfQgRUEUhVQURP/cie8dzni8bdu6c7F56MBh1J2d+/GcM3emUPgf0cNJkrkIJ2cP7JBGrS8vKCfNg+U8oZycH9vpUdP17XlAOZk/NJABFXX+nFw7uksuH66kKFq3EtU+Ob9S2hgL5eT6xGCKevvmVJqK4siiVA/0pfGKP5fvaHKdWn+/z3CFVYaT21NDKcqCbCqICgIiwZHH9vamoPDqXYSTOyf2yK3J3R4VQlqlbe3xaq+Ut/TEAiUzAAgMbbAzRIYYPgekW0RfcUM6SxlBTu6dHpG7jWFfHdrFQrofWZSdI3sngrl6pepbRqUyDPUyRueHmdDF2oH08/pA0WNu3hj1IL3LuqjSMiZslYL+hFIQP4M5MrzNp52hVYJcCqEytlU6qCEqrBJpMTpD0TD29m0FsijFjA+VfEbFaKvCPaUdiiopprRpfbcYItn8FKK7K6BOUYDGBrf6zIghVj4eODLYWjFbrVYoMNzWYIo967JiCJcuyOJgHl8YlYfNqjyY3Sf3Z0ZSYDhbVAcMAxwJQySvF1yY/1hhAH7+mPO4R3O1FMhnmlSpWt6cZYBbRfJGCIpKsRCt0uT379+asnBxvzyZr/uKke/fTcvrVw15+WLKV0hB4dW7COdbQUVoDVXQhfm7JlgQn5dm5euXc/748cOMf4bpu1EkEPH7ixUJDqSidKNcXDzpIQCXPp3xAx0ZVCho/20qzA61Ptto89OFCXn+bDLm/Pw9LAyQ3QoYam776NXpJCwMjG3hPwFpWBhts+/M4blrGha2ZvPTSeQKEyt+AWzSCkphI3wDAAAAAElFTkSuQmCC",
     "wiki_name": "Diary (Horror from the Deep)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diary_(Horror_from_the_Deep)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 21535,
     "name": "Gold ore fragment",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": false,
     "examine": "A broken up piece of Gold ore.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xu2W30sUURTHvSzD4rAEURQlGCYqZZgt/UAqWbASQ2RREpZIEKwwkBCEIoQi+kEUBEaBkBAU9BAFPQRBD0EP0UPQW39A/8ipz7ncnR+7s+rMLr34hcMsO3fO/cy5937PtLVtKZWMBJFFTclj5MdqQX6/Lug1XTIL8fmJL99fZMmjMvLhvi8r19tTJLEgPEuOb898+bpig9+bz/fvgXtzebkzm5fni2GgcOmTkhqZL3vy8EpeHs/nFYocnx75Wiki+dmGik9sZOzEfqmMHJRr5SNydWKwAZiRyhlPLo16cnncU8CFKU/e3fW1Yh8fpIZyMnJ6oEOBZscGFGZhsliNeAWZmKuDWZzOy+pSu6zdcNXOBIMsUPlUj0yX+mR8qFtGivsULgyzPJPXpaYKbmJglip2+ZoA4mSBir27NYb690ppsFPhwkBuaQCLVqMpVYkrnjw+iZELJU/3zs2LYaCmKwkgrPiYRmMzye4L1p83DvZGdAzegulhfi2EQUb3BEvAZsVT3ixHfQm/+fLUl19rBfn50rpxFKypFTPqJRMncxocY8ySI+wmeXXLmt7b2/YaeIy9hwXwf+DQmcCMnD2aq8bseXuCcF4m5jdwLCmgALhJGctxZ6kdLFB/3m/LDoXdk7B2CepF8NzksKcnD1igqFbKXuZkjY1lS2duFopKstfYgxntgP6V07dkcwdLEh2THEn3M6lRMqNuPTXcq22FoK3w38zooTrjWy6jADTdc8e6NFy/+y8wxw/s0SZLXyP4DRCfKC0CSloqe881WsJ9ngBUfzxK+n9DMuo3HFVcOApm5HD3rmr3p1JAJQPZZ4PP4fj9dWX0iHOqaAUAcQ27bX/XToVyYOwfgGonM2oZtB+ueNIm7cPow1SHZuo8JNwS+jp3aADlwNg/SUC0HJzb9cWg9WxI1vb52OKNHFCQwEhPx/YIEPsHoPqTWHPkOwkwcuHa9ccmyq1zOKL3w9UBqHZMWPFcjcamVrCxWzRBGrXsbbe0rv4Cl0F9mNd7QoYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADN0lEQVR4Xu2WXWsTURCGcwjL0iUIoihaqK2lLVqpMfhBUUugaqmUElosBLEQsJUKRQoFSyko4geiIFQUChYEBS9EwQtB8ELwQrwQvPMH+EdG3jlMzjn7EZPdBLxwYNiQPTvn2Zk572wu999SmSLjWawtcRR93yrQr1cFvqYLpiE+PQ7o2/MscdgUvb8X0OaNLg5S7O1lD6+KNw2CZxHj69OAvmxqx+8UUIruXvXpds2nZysGyE19UlBFSxWPHiz69GjJZyjE+Pgw4EzBTbyWzGwsMJOnDlJ1/DBdrxyja9PFBmCKquc8ujLh0cKUx4DLsx69vRNwxj7cT5WlXM6USdHZkW4Gqk2OMMzyTKnuJrgGxMa4CszKnE9bq120fVNnW14yRZbENFDlzADNlYdoarSfxksHGM7O4Ma8z6VGFmRjwKxWdflskAwwMA1UGtzLPjq8n8rFHoazgaQ0ALOz0aashC3c0OFNFF0qe9w7a5cNkJ2RNsHEA7ibREFd2LaZ7gvUH29sesNdA22B6EH8OggDU9wTKAGaFZryekN6Q9+H3nx+EtDP7QL9eKHV2AZzPbMp1pLp03l2HGOIJY6wbPJyXYvem1v6ajRG34ME4H+j0JnAFJ0/nq977aI+QVBebIzfgENJAQoA2RRrcdxRaoEF1O93O7JDQe4RMFqCqNuNPjPm8ckDLKCQLclUyv7SwoayJYlbnNvPAwqZRK+hB205MOuaNsyvPL8lmltKEt402ePvR8FbskbBFKv17NggjxU4xgr+m584UocKZzADjLbkYIoBMHQvnOhjl3kXhe+4KTp5aB8PWcw1OH4DCJ8oAhR+KqOF+8G9J4MWLp8nAErOTlycpk2x3uCoQoVdMEVH+/fUpz8yBagwkB0LLp/DKcAUH3GcKowCAOFqq+1w326GEjD0D4Ci2VEsGRg/uEKTRD7cPRNN8cPIDoapaIg9EoZ6drEDSsDQPzaQHQ8jB8otc1FGT7SksaZlHx9beCMBMgEUDXTvdIDQPwCKZkfHgzjiOwlgiAXVbgEI5mpPdCNdMskOgKJrbPtbvCZMHrDdXWEau5kNwrEarc1gKd+2k/ZPwXTS/gBZLgL6mteWtQAAAABJRU5ErkJggg==",
     "wiki_name": "Gold ore fragment",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_ore_fragment",
     "equipment": null,

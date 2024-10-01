@@ -167239,19 +167239,19 @@
     },
     "29415": {
         "id": 29415,
-        "name": "Eclipse wine",
+        "name": "Eclipse red",
         "type": "normal",
         "duplicate": false
     },
     "29416": {
         "id": 29416,
-        "name": "Eclipse wine",
+        "name": "Eclipse red",
         "type": "noted",
         "duplicate": true
     },
     "29417": {
         "id": 29417,
-        "name": "Eclipse wine",
+        "name": "Eclipse red",
         "type": "placeholder",
         "duplicate": true
     },
@@ -169664,6 +169664,1878 @@
     "29839": {
         "id": 29839,
         "name": "Rax",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29840": {
+        "id": 29840,
+        "name": "Eclipse moon chestplate",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29841": {
+        "id": 29841,
+        "name": "Eclipse moon tassets",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29842": {
+        "id": 29842,
+        "name": "Eclipse moon helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29843": {
+        "id": 29843,
+        "name": "Blue moon chestplate",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29844": {
+        "id": 29844,
+        "name": "Blue moon tassets",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29845": {
+        "id": 29845,
+        "name": "Blue moon helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29846": {
+        "id": 29846,
+        "name": "Blood moon chestplate",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29847": {
+        "id": 29847,
+        "name": "Blood moon tassets",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29848": {
+        "id": 29848,
+        "name": "Blood moon helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29849": {
+        "id": 29849,
+        "name": "Blue moon spear",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29850": {
+        "id": 29850,
+        "name": "Dual macuahuitl",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29851": {
+        "id": 29851,
+        "name": "Eclipse atlatl",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29852": {
+        "id": 29852,
+        "name": "Atlatl dart",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29853": {
+        "id": 29853,
+        "name": "Clue scroll (easy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29854": {
+        "id": 29854,
+        "name": "Clue scroll (easy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29855": {
+        "id": 29855,
+        "name": "Clue scroll (elite)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29856": {
+        "id": 29856,
+        "name": "Clue scroll (elite)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29857": {
+        "id": 29857,
+        "name": "Clue scroll (medium)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29858": {
+        "id": 29858,
+        "name": "Clue scroll (medium)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29859": {
+        "id": 29859,
+        "name": "Clue scroll (hard)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29860": {
+        "id": 29860,
+        "name": "Casket (easy)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29861": {
+        "id": 29861,
+        "name": "Casket (medium)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29862": {
+        "id": 29862,
+        "name": "Casket (medium)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29863": {
+        "id": 29863,
+        "name": "Casket (medium)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29864": {
+        "id": 29864,
+        "name": "Casket (hard)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29867": {
+        "id": 29867,
+        "name": "Prince itzla arkan",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29868": {
+        "id": 29868,
+        "name": "Emissary hood",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29869": {
+        "id": 29869,
+        "name": "Emissary hood",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29870": {
+        "id": 29870,
+        "name": "Emissary robe top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29871": {
+        "id": 29871,
+        "name": "Emissary robe top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29872": {
+        "id": 29872,
+        "name": "Emissary robe bottom",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29873": {
+        "id": 29873,
+        "name": "Emissary robe bottom",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29874": {
+        "id": 29874,
+        "name": "Emissary sandals",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29875": {
+        "id": 29875,
+        "name": "Emissary sandals",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29876": {
+        "id": 29876,
+        "name": "Stone tablet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29877": {
+        "id": 29877,
+        "name": "Tower key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29878": {
+        "id": 29878,
+        "name": "Book",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29879": {
+        "id": 29879,
+        "name": "Poem",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29880": {
+        "id": 29880,
+        "name": "Scrap of paper",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29881": {
+        "id": 29881,
+        "name": "Scrap of paper",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29882": {
+        "id": 29882,
+        "name": "Scrap of paper",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29883": {
+        "id": 29883,
+        "name": "Completed note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29884": {
+        "id": 29884,
+        "name": "Bandages",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29885": {
+        "id": 29885,
+        "name": "Icon",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29886": {
+        "id": 29886,
+        "name": "Icon",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29887": {
+        "id": 29887,
+        "name": "Icon",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29888": {
+        "id": 29888,
+        "name": "Icon",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29889": {
+        "id": 29889,
+        "name": "Glacial temotli",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29890": {
+        "id": 29890,
+        "name": "Glacial temotli",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29891": {
+        "id": 29891,
+        "name": "Glacial temotli",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29892": {
+        "id": 29892,
+        "name": "Pendant of ates (inert)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29893": {
+        "id": 29893,
+        "name": "Pendant of ates",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29894": {
+        "id": 29894,
+        "name": "Pendant of ates",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29895": {
+        "id": 29895,
+        "name": "Frozen tear",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29896": {
+        "id": 29896,
+        "name": "Frozen tear",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29897": {
+        "id": 29897,
+        "name": "Icon",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29898": {
+        "id": 29898,
+        "name": "Test kebab",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29899": {
+        "id": 29899,
+        "name": "Test kebab",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29900": {
+        "id": 29900,
+        "name": "Varlamorian kebab",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29901": {
+        "id": 29901,
+        "name": "Varlamorian kebab",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29902": {
+        "id": 29902,
+        "name": "Varlamorian kebab",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29903": {
+        "id": 29903,
+        "name": "Tattered sails",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29904": {
+        "id": 29904,
+        "name": "Sails",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29905": {
+        "id": 29905,
+        "name": "Betty's notes",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29906": {
+        "id": 29906,
+        "name": "Storeroom key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29911": {
+        "id": 29911,
+        "name": "Prop sword",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29912": {
+        "id": 29912,
+        "name": "Butler's tray",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29913": {
+        "id": 29913,
+        "name": "Butler's tray",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29914": {
+        "id": 29914,
+        "name": "Butler's uniform",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29915": {
+        "id": 29915,
+        "name": "Butler's uniform",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29916": {
+        "id": 29916,
+        "name": "Butler's uniform",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29917": {
+        "id": 29917,
+        "name": "Butler's uniform",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29918": {
+        "id": 29918,
+        "name": "Butler's uniform",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29919": {
+        "id": 29919,
+        "name": "Butler's uniform",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29920": {
+        "id": 29920,
+        "name": "Costume needle",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29921": {
+        "id": 29921,
+        "name": "Costume needle",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29922": {
+        "id": 29922,
+        "name": "Case file",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29923": {
+        "id": 29923,
+        "name": "Chest key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29924": {
+        "id": 29924,
+        "name": "Chest key",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29925": {
+        "id": 29925,
+        "name": "Drinking flask",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29926": {
+        "id": 29926,
+        "name": "Threatening note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29927": {
+        "id": 29927,
+        "name": "Shipping contract",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29928": {
+        "id": 29928,
+        "name": "Wine labels",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29929": {
+        "id": 29929,
+        "name": "Ram mask",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29930": {
+        "id": 29930,
+        "name": "Wolf mask",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29931": {
+        "id": 29931,
+        "name": "Bird mask",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29932": {
+        "id": 29932,
+        "name": "Jaguar mask",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29933": {
+        "id": 29933,
+        "name": "Snake mask",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29934": {
+        "id": 29934,
+        "name": "Ram mask",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29935": {
+        "id": 29935,
+        "name": "Ram mask",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29936": {
+        "id": 29936,
+        "name": "Wolf mask",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29937": {
+        "id": 29937,
+        "name": "Wolf mask",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29938": {
+        "id": 29938,
+        "name": "Bird mask",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29939": {
+        "id": 29939,
+        "name": "Bird mask",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29940": {
+        "id": 29940,
+        "name": "Jaguar mask",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29941": {
+        "id": 29941,
+        "name": "Jaguar mask",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29942": {
+        "id": 29942,
+        "name": "Snake mask",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29943": {
+        "id": 29943,
+        "name": "Snake mask",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29944": {
+        "id": 29944,
+        "name": "Blackbird red",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29945": {
+        "id": 29945,
+        "name": "Blackbird red",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29946": {
+        "id": 29946,
+        "name": "Blackbird red",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29947": {
+        "id": 29947,
+        "name": "Chilhuac red",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29948": {
+        "id": 29948,
+        "name": "Chilhuac red",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29949": {
+        "id": 29949,
+        "name": "Chilhuac red",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29950": {
+        "id": 29950,
+        "name": "Principum red",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29951": {
+        "id": 29951,
+        "name": "Principum red",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29952": {
+        "id": 29952,
+        "name": "Ixcoztic white",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29953": {
+        "id": 29953,
+        "name": "Ixcoztic white",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29954": {
+        "id": 29954,
+        "name": "Ixcoztic white",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29955": {
+        "id": 29955,
+        "name": "Metztonalli white",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29956": {
+        "id": 29956,
+        "name": "Metztonalli white",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29957": {
+        "id": 29957,
+        "name": "Metztonalli white",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29958": {
+        "id": 29958,
+        "name": "Tonameyo white",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29959": {
+        "id": 29959,
+        "name": "Tonameyo white",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29960": {
+        "id": 29960,
+        "name": "Tonameyo white",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29961": {
+        "id": 29961,
+        "name": "Fortis ash white",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29962": {
+        "id": 29962,
+        "name": "Fortis ash white",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29963": {
+        "id": 29963,
+        "name": "Chichilihui ros\u00e9",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29964": {
+        "id": 29964,
+        "name": "Chichilihui ros\u00e9",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29965": {
+        "id": 29965,
+        "name": "Chichilihui ros\u00e9",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29966": {
+        "id": 29966,
+        "name": "Imperial ros\u00e9",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29967": {
+        "id": 29967,
+        "name": "Imperial ros\u00e9",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29968": {
+        "id": 29968,
+        "name": "Imperial ros\u00e9",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29969": {
+        "id": 29969,
+        "name": "Xochipaltic ros\u00e9",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29970": {
+        "id": 29970,
+        "name": "Xochipaltic ros\u00e9",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29971": {
+        "id": 29971,
+        "name": "Apprentice potion pack",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29972": {
+        "id": 29972,
+        "name": "Adept potion pack",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29973": {
+        "id": 29973,
+        "name": "Expert potion pack",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29974": {
+        "id": 29974,
+        "name": "Prescription goggles",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29975": {
+        "id": 29975,
+        "name": "Prescription goggles",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29976": {
+        "id": 29976,
+        "name": "Prescription goggles",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29977": {
+        "id": 29977,
+        "name": "Prescription goggles",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29978": {
+        "id": 29978,
+        "name": "Alchemist labcoat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29979": {
+        "id": 29979,
+        "name": "Alchemist labcoat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29980": {
+        "id": 29980,
+        "name": "Alchemist labcoat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29981": {
+        "id": 29981,
+        "name": "Alchemist labcoat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29982": {
+        "id": 29982,
+        "name": "Alchemist pants",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29983": {
+        "id": 29983,
+        "name": "Alchemist pants",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29984": {
+        "id": 29984,
+        "name": "Alchemist pants",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29985": {
+        "id": 29985,
+        "name": "Alchemist pants",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29986": {
+        "id": 29986,
+        "name": "Alchemist gloves",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29987": {
+        "id": 29987,
+        "name": "Alchemist gloves",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29988": {
+        "id": 29988,
+        "name": "Alchemist's amulet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29989": {
+        "id": 29989,
+        "name": "Alchemist's amulet",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29990": {
+        "id": 29990,
+        "name": "Alchemist's amulet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29991": {
+        "id": 29991,
+        "name": "Alchemist's amulet",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29992": {
+        "id": 29992,
+        "name": "Alchemist's amulet",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29993": {
+        "id": 29993,
+        "name": "Aldarium",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29994": {
+        "id": 29994,
+        "name": "Aldarium",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29995": {
+        "id": 29995,
+        "name": "Aldarium",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29996": {
+        "id": 29996,
+        "name": "Reagent pouch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29997": {
+        "id": 29997,
+        "name": "Reagent pouch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29998": {
+        "id": 29998,
+        "name": "Open reagent pouch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29999": {
+        "id": 29999,
+        "name": "Potion storage",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30000": {
+        "id": 30000,
+        "name": "Pre-pot device",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30001": {
+        "id": 30001,
+        "name": "Pre-pot device",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30002": {
+        "id": 30002,
+        "name": "Pre-pot device (disassembled)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30003": {
+        "id": 30003,
+        "name": "Pre-pot device (disassembled)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30004": {
+        "id": 30004,
+        "name": "Pre-pot device (disassembled)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30005": {
+        "id": 30005,
+        "name": "Mox paste",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30006": {
+        "id": 30006,
+        "name": "Mox paste",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30007": {
+        "id": 30007,
+        "name": "Aga paste",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30008": {
+        "id": 30008,
+        "name": "Aga paste",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30009": {
+        "id": 30009,
+        "name": "Lye paste",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30010": {
+        "id": 30010,
+        "name": "Lye paste",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30011": {
+        "id": 30011,
+        "name": "Mammoth-might mix",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30012": {
+        "id": 30012,
+        "name": "Mystic mana amalgam",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30013": {
+        "id": 30013,
+        "name": "Marley's moonlight",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30014": {
+        "id": 30014,
+        "name": "Alco-augmentator",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30015": {
+        "id": 30015,
+        "name": "Aqualux amalgam",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30016": {
+        "id": 30016,
+        "name": "Azure aura mix",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30017": {
+        "id": 30017,
+        "name": "Liplack liquor",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30018": {
+        "id": 30018,
+        "name": "Anti-leech lotion",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30019": {
+        "id": 30019,
+        "name": "Megalite liquid",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30020": {
+        "id": 30020,
+        "name": "Mixalot",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30021": {
+        "id": 30021,
+        "name": "Mammoth-might mix",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30022": {
+        "id": 30022,
+        "name": "Mystic mana amalgam",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30023": {
+        "id": 30023,
+        "name": "Marley's moonlight",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30024": {
+        "id": 30024,
+        "name": "Alco-augmentator",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30025": {
+        "id": 30025,
+        "name": "Aqualux amalgam",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30026": {
+        "id": 30026,
+        "name": "Azure aura mix",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30027": {
+        "id": 30027,
+        "name": "Liplack liquor",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30028": {
+        "id": 30028,
+        "name": "Anti-leech lotion",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30029": {
+        "id": 30029,
+        "name": "Megalite liquid",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30030": {
+        "id": 30030,
+        "name": "Mixalot",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30031": {
+        "id": 30031,
+        "name": "Digweed",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30032": {
+        "id": 30032,
+        "name": "Mixology lab notes",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30033": {
+        "id": 30033,
+        "name": "Mixology lab notes",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30035": {
+        "id": 30035,
+        "name": "Moonrise wines",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30036": {
+        "id": 30036,
+        "name": "Moonrise wines",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30037": {
+        "id": 30037,
+        "name": "Grape barrel",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30038": {
+        "id": 30038,
+        "name": "Termites",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30039": {
+        "id": 30039,
+        "name": "Termites",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30040": {
+        "id": 30040,
+        "name": "Colossal wyrm teleport scroll",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30041": {
+        "id": 30041,
+        "name": "Colossal wyrm teleport scroll",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30042": {
+        "id": 30042,
+        "name": "Calcified acorn",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30043": {
+        "id": 30043,
+        "name": "Calcified acorn",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30044": {
+        "id": 30044,
+        "name": "Graceful crafting kit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30045": {
+        "id": 30045,
+        "name": "Graceful hood",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30046": {
+        "id": 30046,
+        "name": "Graceful hood",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30047": {
+        "id": 30047,
+        "name": "Graceful hood",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30048": {
+        "id": 30048,
+        "name": "Graceful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30049": {
+        "id": 30049,
+        "name": "Graceful cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30050": {
+        "id": 30050,
+        "name": "Graceful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30051": {
+        "id": 30051,
+        "name": "Graceful top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30052": {
+        "id": 30052,
+        "name": "Graceful top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30053": {
+        "id": 30053,
+        "name": "Graceful top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30054": {
+        "id": 30054,
+        "name": "Graceful legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30055": {
+        "id": 30055,
+        "name": "Graceful legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30056": {
+        "id": 30056,
+        "name": "Graceful legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30057": {
+        "id": 30057,
+        "name": "Graceful gloves",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30058": {
+        "id": 30058,
+        "name": "Graceful gloves",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30059": {
+        "id": 30059,
+        "name": "Graceful gloves",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30060": {
+        "id": 30060,
+        "name": "Graceful boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30061": {
+        "id": 30061,
+        "name": "Graceful boots",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30062": {
+        "id": 30062,
+        "name": "Graceful boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30064": {
+        "id": 30064,
+        "name": "Tome of earth",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30065": {
+        "id": 30065,
+        "name": "Tome of earth",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30066": {
+        "id": 30066,
+        "name": "Tome of earth (empty)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30067": {
+        "id": 30067,
+        "name": "Tome of earth (empty)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30068": {
+        "id": 30068,
+        "name": "Soiled page",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30069": {
+        "id": 30069,
+        "name": "Soiled page",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30070": {
+        "id": 30070,
+        "name": "Dragon hunter wand",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30071": {
+        "id": 30071,
+        "name": "Dragon hunter wand",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30072": {
+        "id": 30072,
+        "name": "Dragon hunter wand",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30073": {
+        "id": 30073,
+        "name": "Hueycoatl hide coif",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30074": {
+        "id": 30074,
+        "name": "Hueycoatl hide coif",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30075": {
+        "id": 30075,
+        "name": "Hueycoatl hide coif",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30076": {
+        "id": 30076,
+        "name": "Hueycoatl hide body",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30077": {
+        "id": 30077,
+        "name": "Hueycoatl hide body",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30078": {
+        "id": 30078,
+        "name": "Hueycoatl hide body",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30079": {
+        "id": 30079,
+        "name": "Hueycoatl hide chaps",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30080": {
+        "id": 30080,
+        "name": "Hueycoatl hide chaps",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30081": {
+        "id": 30081,
+        "name": "Hueycoatl hide chaps",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30082": {
+        "id": 30082,
+        "name": "Hueycoatl hide vambraces",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30083": {
+        "id": 30083,
+        "name": "Hueycoatl hide vambraces",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30084": {
+        "id": 30084,
+        "name": "Hueycoatl hide vambraces",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30085": {
+        "id": 30085,
+        "name": "Hueycoatl hide",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30086": {
+        "id": 30086,
+        "name": "Hueycoatl hide",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30087": {
+        "id": 30087,
+        "name": "Hueycoatl hide",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30088": {
+        "id": 30088,
+        "name": "Huasca seed",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30089": {
+        "id": 30089,
+        "name": "Huasca seed",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30090": {
+        "id": 30090,
+        "name": "Huasca seed",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30091": {
+        "id": 30091,
+        "name": "Huasca seed",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30092": {
+        "id": 30092,
+        "name": "Huasca seed",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30093": {
+        "id": 30093,
+        "name": "Huasca seed",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30094": {
+        "id": 30094,
+        "name": "Grimy huasca",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30095": {
+        "id": 30095,
+        "name": "Grimy huasca",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30096": {
+        "id": 30096,
+        "name": "Grimy huasca",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30097": {
+        "id": 30097,
+        "name": "Huasca",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30098": {
+        "id": 30098,
+        "name": "Huasca",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30099": {
+        "id": 30099,
+        "name": "Huasca",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30100": {
+        "id": 30100,
+        "name": "Huasca potion (unf)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30101": {
+        "id": 30101,
+        "name": "Huasca potion (unf)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30102": {
+        "id": 30102,
+        "name": "Huasca potion (unf)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30103": {
+        "id": 30103,
+        "name": "Redberry antelope",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30104": {
+        "id": 30104,
+        "name": "Redberry antelope",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30105": {
+        "id": 30105,
+        "name": "Tooth half of key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30106": {
+        "id": 30106,
+        "name": "Tooth half of key",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30107": {
+        "id": 30107,
+        "name": "Loop half of key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30108": {
+        "id": 30108,
+        "name": "Loop half of key",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30109": {
+        "id": 30109,
+        "name": "Moon key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30110": {
+        "id": 30110,
+        "name": "Moon key",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30111": {
+        "id": 30111,
+        "name": "Helmet of the moon",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30112": {
+        "id": 30112,
+        "name": "Helmet of the moon",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30113": {
+        "id": 30113,
+        "name": "Nasty token",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30114": {
+        "id": 30114,
+        "name": "Nasty token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30115": {
+        "id": 30115,
+        "name": "Nasty token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30116": {
+        "id": 30116,
+        "name": "Nasty token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30117": {
+        "id": 30117,
+        "name": "Nasty token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30118": {
+        "id": 30118,
+        "name": "Nasty token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30119": {
+        "id": 30119,
+        "name": "Nasty token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30120": {
+        "id": 30120,
+        "name": "Nasty token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30121": {
+        "id": 30121,
+        "name": "Nasty token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30122": {
+        "id": 30122,
+        "name": "Nasty surprise",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30123": {
+        "id": 30123,
+        "name": "The hueycoatl",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30124": {
+        "id": 30124,
+        "name": "The hueycoatl",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30125": {
+        "id": 30125,
+        "name": "Prayer regeneration potion(4)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30126": {
+        "id": 30126,
+        "name": "Prayer regeneration potion(4)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30127": {
+        "id": 30127,
+        "name": "Prayer regeneration potion(4)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30128": {
+        "id": 30128,
+        "name": "Prayer regeneration potion(3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30129": {
+        "id": 30129,
+        "name": "Prayer regeneration potion(3)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30130": {
+        "id": 30130,
+        "name": "Prayer regeneration potion(3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30131": {
+        "id": 30131,
+        "name": "Prayer regeneration potion(2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30132": {
+        "id": 30132,
+        "name": "Prayer regeneration potion(2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30133": {
+        "id": 30133,
+        "name": "Prayer regeneration potion(2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30134": {
+        "id": 30134,
+        "name": "Prayer regeneration potion(1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30135": {
+        "id": 30135,
+        "name": "Prayer regeneration potion(1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30136": {
+        "id": 30136,
+        "name": "Prayer regeneration potion(1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30137": {
+        "id": 30137,
+        "name": "Goading potion(4)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30138": {
+        "id": 30138,
+        "name": "Goading potion(4)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30139": {
+        "id": 30139,
+        "name": "Goading potion(4)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30140": {
+        "id": 30140,
+        "name": "Goading potion(3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30141": {
+        "id": 30141,
+        "name": "Goading potion(3)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30142": {
+        "id": 30142,
+        "name": "Goading potion(3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30143": {
+        "id": 30143,
+        "name": "Goading potion(2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30144": {
+        "id": 30144,
+        "name": "Goading potion(2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30145": {
+        "id": 30145,
+        "name": "Goading potion(2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30146": {
+        "id": 30146,
+        "name": "Goading potion(1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30147": {
+        "id": 30147,
+        "name": "Goading potion(1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30148": {
+        "id": 30148,
+        "name": "Goading potion(1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30149": {
+        "id": 30149,
+        "name": "Aldarin teleport",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30150": {
+        "id": 30150,
+        "name": "Aldarin teleport",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30151": {
+        "id": 30151,
+        "name": "Bone squirrel",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30152": {
+        "id": 30152,
+        "name": "Huberte",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30153": {
+        "id": 30153,
+        "name": "Huberte",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30154": {
+        "id": 30154,
+        "name": "Moxi",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30155": {
+        "id": 30155,
+        "name": "Moxi",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30156": {
+        "id": 30156,
+        "name": "Butler's tray",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30157": {
+        "id": 30157,
+        "name": "Butler's tray",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30158": {
+        "id": 30158,
+        "name": "Butler's tray",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30159": {
+        "id": 30159,
+        "name": "Butler's tray",
         "type": "placeholder",
         "duplicate": true
     }

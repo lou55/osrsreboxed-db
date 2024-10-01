@@ -1,7 +1,7 @@
 {
     "id": 29085,
     "name": "Sulphur blades",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "Are these explosive?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKUlEQVR4Xu2W7UsUURTG3f+hLyIVKQmrsJjYy36IZUnSXsi1xJa2Mncz8SUhekMWoxdZs0KQtaJCwRATKSOIiqKov+zEc4fncufOTO3sTNGHLjzMfTk79zfnnHvuNjT8+y0h/vJb/+MtIQ/Lp2R+ul+pcjMns9f6lAixtjgsqwtDsvLovA+U/RGRwR0gQgGIsmGWH5yVp5Uzro0xxpotN1QoyIQszAx4oPAECEWgx7N5Wbw9qGzx9AOCvQn9dbMsn9ev1gdFIPTpHQI9v19QQLQNAsLvvmxMy/etO/Jj654CCgWDl/KrCYRN/YCqd09rIPT9gNarRRcQ+jUCJVxhwEZMboxtIIaA4Q0C2nwyEh8QvYQ5AhFkT3uLpJLNGgpA8JoN9ObZJQ0EhQJiXthA+HIAwSbZsl3BQLaH/IDevhh1A726ER0I81iHRwDSlWpVY/NEBgG9Wx6LFwiiZwBEGDOhg4AQ4g+rkxro2+tbtcKguYEIhfn03jY50r1PeWd/R1IDEQZ2fkCw+/hyql4gNCdh8XITCN6BZwZzGcmfzKo5lgYTCIfChGlv3amedQI5NQgesoHwYgClO9vU2KzQBMLc74BCFEXnyAcBIXfgnQv5Hg1k5o8NBJvdu5p0WYgFiFBYy6RTcvzwAR0uO6EJ5GzmfACT/9PalehAppewNjZ8QqpzE6oPOzuh6cnmHY0qTGbyEwhVukYYNOeEBQF1ZzqlUi5qIOYPPQLhJPZku1zewbVheqguIDuPsIaNRoeOqT7sOI88QThxCiGWBqyhsuPaiA3IzInswQ4pDBySpfnLaswQNTVuk77etL5KzCoOIFRpEygElANkhg1zTGIIST010q/HE6WcChNyhsebQoXG3473K+MaCDUoRB1yA0GYQ6iKhV65eO6oChkA52ZKCuz6pBM2yvzrAe9EBkKy2mEzN6TMBOcJQ07x2oB3YgWyTxvmGQIWPYhHnvcefkdbAG0slVxAqEGh65AdNhvIPPJ+QPQQbGMB8gubCYQ1u0ITiNcGwxURCM2bL36yKzRlA6EomkBUCKBamxeSMvPnLwL9qnkhvfrforWfjtQDngjaB40AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADR0lEQVR4Xs2W7UtUQRTGd/+HvohUpiSswrKJveyHWJYk7YVcS2xpK3M3E18SojdkMXqRNSsEWSsqFAwxkTKCqCiK+ssmnrk849zj3Np1b+GBh3vvzLk7v3vOmTMbiWx/iyq3XPP/3KLqcfGMmpno0SrdzqipG91ahFieG1BLs/1q8clFB5T8iJrBPSBCAYiSMAuPzqvnpXO+hfGMOSk/VFWQUTU72bsJCleAUAR6OpVVc3f7tC+uLiD429Df14rq68r1rUERCPeMDoFePsxpIPoGAeG9b6sT6uf6PfVr/YEGwhqJhgYtubowL+z8agJhURdQ+f5ZA4R7F9BKOe8Dwj2B5OrCor40YCEWN54lEFPA9AYBrT0bDA+IUcIYgQiyr7VJxWONBgpAiJoEevfiigGCqgJiXUggfDmA4BNr2qlhIBkhF9D7V0N+oDe3agfCOOYREYC0x5v1s70jg4A+LAyHCwQxMgAijF3QQUBI8aelMQP04+0dA1M1EKEwntzfoo51HNDROZiIGSDCwM8FBL/Pr8edQHL1APMKFj9uAyE6iExfJqWyp9N6jK3BBsKmsGFam3fr6xaBvB6ECEkg/DCAkm0t+tnu0ATC2N+A7KYoVxfmbfkgINQOonMp22mA7PqRQPDZu6fetIVQgAiFuVQyrk4ePWTSJQuaQJjjB7D4vyxfqx3IjhLmhgdOqfL0qL6HnyxoRrJxV51Ok138BEKXJkxFQNghQUAdqTZVKuYNEOuHEYGwEzvT7b7o4NiwI1RhdGAbQLKOMIeFhvpP6Hv4cRx1gnRiF0JsDZhDZ8exERqQXRPpwwmV6z2i5meu6memqL5uh+ruSpqjxO7iAEKXtoEIJVd3mAdkpw1jLGIIRT0+2GOeRwsZnSbUDLc3hQ6Nvx0fF0cMEHpQFX3IDwRhDKnK57rU5QvHdcoAOD1Z0GA3x7y0UfZfD0SnZiAUq0ybvSBlFzh3GGqKxwaiEyqQ3G0YZwrY9CBueZ57eI++AFqdL/iA0IOq7kMybRLI3vIuIEYIvqEAudJmA2FOdmgC8dhgumoEgm2uF5dkh6YkEJqiDURVARSJsK3/SRLQll0/oQBVahKyElhqw/c/mYR0Sb6zre032NhOKvwjITcAAAAASUVORK5CYII=",
     "wiki_name": "Sulphur blades",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sulphur_blades",
     "equipment": null,

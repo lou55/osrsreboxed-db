@@ -1,7 +1,7 @@
 {
     "id": 25472,
     "name": "Open silver coffin",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": false,
     "examine": "Can store up to 20 shade remains.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClElEQVR4Xu2WQU8TURSFmYVpatgYjQaJGGuAkBJbTSk0QZFgAa0p02LTwgiDBE2BBG2MC6zBhBBd4MIYFurShX/zmnMnt5150ynN9LVuuMlJm8x07tdzz3vzBgYu6qKkDPKr79VsXpof8ehp6nK/oQxKxOM+EFE22TcgxxE0VCH+A5ADsrf3gVKpDK2tbXsgio9uNYT7JkcivYRynDk8/EKF4roDUdpswFSe3GaJOw/GrvQKxhtauGLbux4IAYGmkgl6fP8GTY32xB3/6jn6/M3jjFu5zE1amR2mmfEojQ9f0g1k8NJVmwYJIBDyE41EdOfn/FUkcgcZYwIMlIxpA+ocRoQMCYhmoM5g3GFWQUQaQt0ZjLV4h2Uvx3wQovl7UXqYuN4N0PkwuA6IdiAQFsLy9BClJ66GBQqGwUhwbTsXY73O3/UBuEFwLys1FHZjbA0DkMW5uYYj7VzB7wUGo8TS72Jc/o1PBAg0QB5UCLcrEO6Dg4DB5piZvBYGqD1MPj0YCCOuCMh+cYyWllbIsnZ4XKFgauWJQBUygz4ItysAQZ4A/2Zjg9aLBd4Yq9X3YWCknJfmz19/+d2jNm4luFY1Rxm6vhmnly9WaceyqGKa/Jxa7agbIJTh2e7byb3/YExbr/YpnZ6lg4OP/P3tu0/dwqAM/tfIRJBLGJF7ZwYQnADIwsIzhtgql3XAoAwOJIRRoDmCDDhZxmrgj4+/8xGkXv/KwLu2rQtGyoECEISwQnBCDl7uN/rp6W8+oGWzzxkIn9qBACJQKhAg5KwDnZ39oXy+xDC53KpuGCmDIdwuIbgyMoDIqoQAZZqVRobUp2mqJpQK5G1q0MnJDz7o9xBGynFAoDC21k3Frb5VczzqFd31D4Cf9VrLNAM0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xu2WQU8TURSFmYVpatgYjQaJiDVASImtplSboEiwgNaUtti0MEKRoCmQoI1xgTWYEKILXBjDQl268G9ec+7kDm/edNrSvuKGm5y0mU57v5573pvX13de5yVlkV9nXifNizNDHj1NXDxrKIti0agPRJSOO0Dx4eFeQzmOoKEO8R+AHJDt7Q+USKRoeXnDA1F4dMMV7psYCvVybI4ze3tfKF9YcSCKay5M+clNlrhzb/SS65Bhl7yhhSuVypYHQkCgyXiMHt+9RpMjjjvGYfRs7H/+5nFGVSZ1nRanBunBWJjGBi+YBrJ46epNgwQQCPkJh0JufgwBtV5FIjXIGBNgoHjEGFD7MCJkSEAMA7UHo4ZZBxEZCHV7MPbcLVZlIeKDEM3cCdPD2NVugFrD4HNANAOBsBAW7g9Qcvxyp0DBMBgJPtvIRFivs7d9ACoI7mUlBjwbo96xSTWGAcjc9LTrSDNX8H2BwSix9NVxnRpIhxEBAg2QBx1CdQXCfXAQMNgcUxNXOnNHh1Bhssn+QBhxRUB2CqM0P79Itr3J4+rAHYtqpfFA5VP9PgjVFYAgT4B/s7pKK4U8b4zV6vtOYKSch+bPX3/52aM3biS4Vs2NMHR9LUovXyzRpm1TOZfj36nV9jsZlVqWZ7tvJnX/wZjWX+1QMjlFu7sf+f3bd5+6cUfK4n+NTAS5hBGpOzOA4ARAZmefMcR6qWQCBmVxICGMAs0RZMDJMtYDf3DwnY8g9fpXBt6qVEzBSDlQAIIQVghOyMFLfaIfHf3mA1o6/ZyB8NplbvSyGESgdCBAyFkHOj7+Q9lskWEymSXT7khZDKG6hODKyAAiqxICVC5XdjNkGEbqBEoH8rpg0eHhDz7o98gdtRwHBApja9zUuc9/vQclLrRqGnT9tPUPTKU0feM2ABAAAAAASUVORK5CYII=",
     "wiki_name": "Silver coffin (Open)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silver_coffin#Open",
     "equipment": {

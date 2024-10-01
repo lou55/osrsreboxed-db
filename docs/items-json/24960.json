@@ -1,7 +1,7 @@
 {
     "id": 24960,
     "name": "Fishing guild teleport",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-09-30",
     "duplicate": true,
     "examine": "A teleport to the Fishing Guild.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLUlEQVR4Xu3W2U4CMRQGYOfK+ChE4xbcogjGFTWIKyIiuCsirmiixgtv9K1r/mPOWA8daGfm0iZ/CFDtN+eUznR1/Y9Iw1PxJJbhqdlUipKZnKRMj49TpkZHKRPJJGVsaIgyMjhAGe7vpwz09lJiQHlqIZ1WSzMZP8tzsxR+j+8RE5qxQALWl0hEQXlqdX6+BYLPOGuLi37wnqEM1GERUZ5az2Z9kMTokJ7u7j8xwSKiPLWbz6vNlRVa0BYio8MYhfZhb2E/OaDMIFuIHm6lCeUM2s7l/LYFYT5fX1WzVmuJnIeLQvuwp7h1TiBgJEhCgjAmFFdaRzmD0DJumyvGBJOtCwVChZB2GB2LBIEQrpIzCHtIYhhkWigoci63DiCHk/sXZIP5esy0JAiEoHXYR84g096RC0iEBAWhnEF7G+tWFQoCySrp/wcXGgqETd0JZIqcI+fHBtIXk4u0+17ODbWH9rc26acv95G+YKd0AuEm6wTi+5ncS3JhU4IwfPI7gw52tqlt+gFpi2qHQXAOOYOqhQJVqR3KJYwJDToqFqlK3LqwKB2ig3BSO4FOSiWqErdOoqIEN1iA8ExkDbo+PqIq6a0DSg8/ovBTgS2WQXgmsgZ9PDXV1WH1T+v4lYESKYESooNwx7fE8PDU+/0doS4rFcpZuUxBOxFguYocoG3gjhgeP6i32xv10mio53rd/2k/XFyou/MzdXN6Qu1FgLe5gJAYHvjjuPM/4hnf87u0vLDtd9AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQElEQVR4Xu3XyU4CQRAGYOdkfAuuRoNoXDCIYlxRo6Ai7vuKuOCaqPHgRd+6zV+kJk3RA90zczGxkz8G6dDfdBU9Q0fH/4g0PBVPYhmemspmKblMhjKeTlPGhocpo4ODlJH+fspQqo8ykExS+np6KDGgPDU7MaHmJ3N+FqanKPwa7yMmNGOBBKy3uzsKylNLMzNNEPyPszI35wevGcpAHRYR5aliPu+DJEaHdHV2NsQEi4jy1GahoNYWF2lBW4iMDmMUyofeQj85oMwgW4geLqUJxaBUItEOVQeVlpf9sgVhvt/f1XOl0hQ5DxeF8qGnuHROIGAkSEKCMCYU77SOcgahZFw2V4wJJksXCoQdQlphdCwSBEJ4l5xB6CGJYZBpoaDIuVw6gPjkdgLZYH6eck0JAiEoHfrIGWTqHbmAREhQEMoZtL1atNqhIJDcJf1zcKGhQGjqdiBT5Bw5PzaQvphcpNX7cm6oHtpdX6OvvuwjfcF2aQfCTdYJxPcz2UtyYVOCMHzyO4P2N0pUNv2AtEW1wiA4h5xBh+Uy7VIrlEsYExp0vLVFu8SlC4vSIToIJ7UT6HRnh3aJSydRUYIbLEB4JrIG3Zwc0y7ppQNKDz+i8FOBLZZBeCayBn29PKvro8OG0vFfBkqkBEqIDsIdnzEWIAxPfT7UCHV1cEA539ujoJwIsLyLHKBt4I4YHnXUx/2deru9Va/Vqv/Vfry8VLWLc3V3dkrlRYC3uYCQGB7yp3D0RMDUB39AnJFr/InxC1/5+B1q/4N1AAAAAElFTkSuQmCC",
     "wiki_name": "Fishing guild teleport (tablet)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fishing_guild_teleport_(tablet)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 10064,
     "name": "Desert camo legs",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "These should make me harder to spot in desert areas.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xu3W3UtUQRjHcfdfKSTKsBLtBboJuurCFNMiU9M0M2xBNFMWRc2WLJFkszdZyRATKSOIiqKov2zqO4ffMufs7LpnPUUXDTyct9kzH595Zo41Nf9+Sxl/+J7/8ZYyDzNtZmGy1Ub2TouZHztvQ4iN5V6zvtRj1ha7PajoH7FneAASCpAiisk/uGKeZi+HBuaaZ9EIo2IhU2Zp6kIRiiMQhUAr85fM8kyH7cvRB6K/i/62nTFfNkerQwnEubIj0Iv7nRakvqVA/O7r1qT5sTNrfu7ctaBYGF6qv1ogBvWBcnMX7cvpy7kPtJnrC4E4rxCUCk0DCBU31wK56SfSnQfssRRo+8lAciBliXuA6NNyttb0ttWbzECdjVtdDTZ4RtaioLfPrxdARCyQ6iIK0mp6NN5onk0dt8eFkWMmN9FosumjZUHvVgfDoNfjewdxXxkCAWhxtMGsZJp2Bb3PDyULIphKgcAQwFZnTlgQ0dlcZ5+7GGru4/pwAfT9zXSlGFoY5KJ4uUBkBhDZyc+dtFMHqLv1sBf06VW6WhAtWDmsmFIgTRmgc2fqLIjobz/iBX3eGKkWFOxBZKgcSEUNSBkDNDtUXwTiNy4oxqYYLHkfiPCBQHANDNT8cDhDZCdRkFAEA7DjuqDpwaBmXt47VQDpXuIgN0scXdDt/mBlaXBCGRu7eigE2np8rQBil64QQwtWmA+kz4FADB4Fsfy5r8+IppjPhpuhqkDROtJmFwXx2eCaGuPI6pvoC+5puvhsJAYSivsM4IKoFw0uEMWtwhaIXdoFxUAFIN+0RUEMTL2cbtofAjFtFHdP8z57Tf8PazcLIPagGPtQGOROWxTEwFry2hY4Z7WBvdFRmwyIVbYbiFoKXhj8UyYQtWbf8ftTMtJ1MFlQdNq474IYXB9dYVT8wlI/LHkXxB4Uex/yTZsL4rwcSPsPfRMB+abNBfHM/bfEBdFP+08CIFqQ7t3CxbgRBbEpuiBFDFClrRip0P5Ddv4iqFwrRhbH/7a39guIljzEsg4hoAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs3WbUtUQRjG8d1vIoVEGWaiPUBvgl71whTLIlPTNDNsQTRTFkXNJEskMXsSJUNMpIwgKoqiPtnUfw7XOmecXXf1FA7cnKfZnd/ec8+cTaX2f0ubcISe//OWNo+zjWZ6uMHG1L16MzlwwYYQq3PtZmW2zSzPtAZQ/o/YMzwCCQVI4WOWHl0zz6euxgbmmmd+xFElIdNmduTiNhRHIAqBFiavmLmxJtuXYwhEfxf9YyNrvq317w4lEOfKjkCvHjZbkPrmA/G57+vD5tfmuPm9ed+CGKOqrMyGP7rXorTrVwvEoCHQ/MRl++X05TwEWpvviIE4F8gf3Wvp2DSAUHFzLZCbfiLTfMge84E2nnUlB1KWuAeIPvXnyk17Y6XJdlXYuNNSbYNnZM0HvX95MwciSgKpLnyQVtOTwRrzYuSEPU73HTfzQzVmKlNVEPRhsTsOeju4dxD3lSEQgGb6q81CtnZH0MelnmRBBFMpEBgC2OLYSQsimusq7HMXQ819XunNgX6+G81hSga5KL5cIDIDiOwsTZyyUweoteFoEPTlTSYI8kfP06KVw4rJB9KUATp/tsKCiM5Lx4Kgr6t9uwVFexAZKgRSUQNSxgCN91RuA/EZF+Ruiv7oXouWfAhEhEAguAYGarI3niGykyhIKIIB2HFd0Gh3VDOvH5zOgXQvcZCbJY4u6G5ntLI0OKGMDVw/EgOtP72RA7FLC1MUiBUWAul1IBCD+yCWP/f1GtEU89pwM1RkdmhbIL+OtNn5IF4bXFNjHFl9Qx3RPU0Xr43EQEJxnwFcEPWiwQWiuFXYArFLuyCh/NEDLQKFps0HMTD1cqb2YAzEtFHcbXUH7DX9Py3fzoHYg0rYh+Igd9p8EANryWtb4JzVBvZWU3kyIFbZTiBqKUp59KdMIGrNfsffV0lfy+FkQf60cd8FMbheusKo+IWlfljyLog9qOR9KDRtLojzQiDtP/RNBBSaNhfEM/dviQuin/afBEC0KN07hYtxwwexKbogRQmgVErbeqHwgW5o/yE7iYCKbT6yGKxiq+9/aj4yFP5n9nX7A9Kah1DhdIF6AAAAAElFTkSuQmCC",
     "wiki_name": "Desert camo legs (Inventory)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Desert_camo_legs#Inventory",
     "equipment": null,

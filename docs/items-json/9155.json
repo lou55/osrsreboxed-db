@@ -1,7 +1,7 @@
 {
     "id": 9155,
     "name": "Steel bolts",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Steel crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhElEQVR4Xu2VwU4CQQyG6Yn4QpxM0GhEJEEQcUGMIKIiImgQSdSDMQYegAeuqXVn2lk9zqyH/ZNJdia76bd/O20ul8m7AN2TFAV4elRHDZUqIOBmoSCAUgUEPDtu4EY+/wMAeHfRSwDWy2UH0IsAXyYTbNVqBubjee64A3h/2cf97a0wQPPRCBuVigFajMfYrFYVUC+KHMe8CvBgd8cAkRs2PYBvD9Nf6smbOOBhqWQAplcDtU865lWAt92uCf65WOCg0xHBXce8igtYpkcXOL9DjtmUehX/veuGDgwifd4FojbYrX67rQAfb67DwcyGQxWcinevWFRngWqH5I4G7s5yT/0pGAwVrwz+/jRzakWm06u4Xmh2/e0Gpy8IzGr1+r3cwemmL0BntjDnJ01sRXaYakDu3MFg6Hm9Xpo9LWp8ElCn05s4GN0k6sQSiByT+6BTnTox1Yd0jByJ9+RUfO5+7UnslF18FgPRVZew+tugSqYzZSCSvXX/BCiWTGemTJmMvgClwnQbQWHV+gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABn0lEQVR4Xu2W0UrCMRTG3ZX0Fj5CV14FFkVmgmlmakaaWZmZFmZCdRES+QA+8InPf2c7m3i5/YX8YMwzkP38zrfNRGIj71LkrsQoRRenJbKhYgVUtJNOL4C2U6nFHCOgosuzMm0lk38Aih6vW0uApVzOAfQiRe+DAdWKRQ0zfRtrdxjm6aZNR3u7Ys2bFI17PSrn8xpo0u9TpVCwgFrVquOYVyk6PtjXQHDDtEfR5/PQcswzULThSTarAYa3HatedsyrFD00m3rz78mEOo2G2Nx2zDNQFGDZHhlwBoJj3FLvQPj1rhtc8xq3L0h+OBvsVrtetwBf7u/CwYy6XWtzhPcwk7HWAmUHMk8Db47bWda4n4K5g/DKzb9eR1ZWMAc66lFe8HatcgMz2hfAHUWz2cdiuA+n2z679iIDc3VeoVrVPKYSEAM3t2d3DAw+z+c/usbAxScB7XZ6k/mfg5tYAsExWQd91XETIx/SMTjCNZzi9QBAUOQUDw4xA+GoS1j3217EYbVDu9zOgC6tkjl1awIUuSfbGTsQa61gNvq3+gUOycL0qO7WqgAAAABJRU5ErkJggg==",
     "wiki_name": "Steel bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_bolts#Unpoisoned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 10056,
     "name": "Wood camo legs",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "These should make me harder to spot in wooded areas.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xu3Wa2sTQRTG8eYzKIoKFiwoNWAlaKEQRbGg9I0Vr6goKiqKCKIopSheSvFGodQLKi1USi1FK4KoKIp+spH/LM9ydnaaZpNVfOHAYXdnJ9lfzsycTUfHv98qLh6x+3+8Vdyj4f3uwdA+H6M3Bt3Itb0+hJgZP+Wmx066qccnIqjwR7QNT0BCAVKEmMmHx93z0aOZB3PNvTCyqELIihu7eSCH4ghEIdDTkSNu/PYhP5ZjDMR4i/4+P+y+zl5tDSUQ58qOQC/vH/MgjV0MxOe+zQ25nwt33K+Fex5UCMOX6lcLxENjoIm7h/2XM5bzGGh24nQGxHmToEpmGkBocXMtkE0/0bN+hT8uBpp/drY8kLJEHyDG1Gtdbnd9o6t1r/Qx2N/jg3tkLQS9e3EuBRGFQFoXIUi7advmNW7HlrX+2LdpdXpsBHr/6nwW9OZ6+yD6lSEQRUAfJi+UCyKYyhCkbAEi+vu6/X2LYc19mr6Ugn68vdUshpYFWRRfHoLA7OrtTEGsqxjo8+vLrYJoyc5hxzQDGthZTUED26tR0JeZK62CkhpEhhqBtKg5ci1Qb3VVDsRnLKhAUUy2fAxExEAgdB0DkZ1SQUIRPICKa0ECaB1xTV0SqlSQzRJHCzq4p5bJCKGMhaC5J2dSEFW6SQwt2WExkF4HAunhFqSs6TWiKea1YTPUEihcRyp2IUjZYI2pX32aLl4bpYGEop8HWJBdLwKRJWVNIKq0BRVAJaDYtIUg7ar61q4cCOyGzmX+mvEfpy6mIGpQgTqUBdlpC0HaVcIIRD+o6rrl5YDYZUuBWEvJFyZ/ygRirQmlhV0aKJw2+i2Ih+ulK4wWv7CsH7a8BVGDCteh2LRZEOeNQKo/jC0FFJs2C+Ke/VtiQYxT/SkBREvSvVRYjI0QRFG0IEUBULMtj1So/pCdvwhq1PLIfPxv7bXfmIEDYe2hXacAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xs3WfUtUQRQG8N3PkBQVpCQktpCylCBsUSQU/pPSKxVJRUURQSSFiNGLSKUIYi9UKBhiImkEUVEU9ckmnhme67lnz6736igOHO7b7M5vz8ycu4XC5m9FZ4f1fN1b0Y0OnnTPB3p9jDzoccP9J3wQMTtx2c2M97npsUsGSv+INcMDiCiAGBoz9eKiezNyPjUwrvFMRxqVC1l040OnqlA4AsIg6NXwOTfx6Izvi6MFQn+J/r0w6H7O3VsdiiCcMzsEvXt2wYPYtxYIn/s1P+D+Lj12/5aeehDGaG9q8qFHVy2knb+aIAxqgSafnPVfjr44t0Bzk1dSIJwTpEdXrZiaBiC4uHFNkEw/om3PVn+sBVp4fS0eiFnCPYDQp1Judscqe125dZuPnq42H3iGrGnQ4tvrCQiRC8R1oUHcTQfbd7rD+3f5Y+e+HcmxHujz+xtp0Mf7awfhPjMERB7Ql6mbcUEITKUGMVsAIbo6W/1zicGa+zZzOwH9+fQwweQGSRS+XIOAOdrRmICwrizQ9w93TJAevUYLOwc7Jguo+0gpAXUfKpmgH7N3VwsKNQgZqgfiosYR1wR1lLZXgfAZCZJFUY+uWtjyFghhgYDgtQVCdqKCiEJgAFRcCSKA6wjXqEtERQXJLOEoQaePl1MZQTBjGjT/8moCQpUmJhMIO8wC8XVAEAeXIGaNrxFOMV4bMkMZs4O2DNLriMVOg5gNrDHe5z1OF14b0UBE4T4GkCC5XghClpg1glClJYgoPbrRAsiaNg3irqocaK4CAdvSuMVfo//X6VsJCDUoRx1Kg+S0aRB3FTEE4T5Qpd0NcUDYZSuBsJZCysOfMoKw1ojiwo4G0tOG+xKEwfnSJYaLn1isH2x5CUINyl2HrGmTIJzXA7H+oG8UkDVtEoRn8m+JBKEf608EEFpI90ohMTI0CEVRghg5QIUCy3q90EAZrD/IThRQ1qaRWbCM5b4b1DTSCv2ZTd3+A+KFTe1sw43hAAAAAElFTkSuQmCC",
     "wiki_name": "Wood camo legs (Inventory)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wood_camo_legs#Inventory",
     "equipment": null,

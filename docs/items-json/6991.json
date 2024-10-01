@@ -1,7 +1,7 @@
 {
     "id": 6991,
     "name": "Stone head",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-23",
     "duplicate": false,
     "examine": "A granite head shaped like the god Icthlarin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xu2Wf0uTYRSGfb+QUWA/sLAoG03JxJ8NkRYLyRhaWQyVoVQiFlIOJEEhECQQJIIIIoigMoQ+04nrPBz3uNr8Z+/xnx144OXd4Fy77/ucZ21trUq9Eql9k3I1apjI3MgFafydplYii7mLDRqeANDSeJe8vHulTtNEyqOddT5reoVfD8zGg0wdpZyBaPbm3jXZmsrq+bexMxCqVCa6Zftxr3yYH9Dno82Py1hTK5HnY5cUYmfmpnxaGJK92X5ZvnM5AghATsEOgV6/f13t2ize0GfUqtqUyJOBc/Ko/6wPEGoQaCDePexRqM+Lw5orAyoNnVcoFyCsQKX3T/vUNqB2S7f02YD4DlAuQNN9HdoQpcgPYKj15dnIIRD2OWWISjQfNAWKDGEbSgFnGXIcfSo0ZZpYkkwduSLok9nTUuw9E42+IxQ5YQ2gFKG26ftYHlQLvy3dlp+vxn2hyApqAAXMn62SHLydlv21Cfm1mlcoRyAqrAJT5ndlUs/+64J8X87pSiD8jlBhqsgRoSbcTN2PlTG1jeuFlUDwnaDC1JlKXCeoAgy2xWCAOgQ97KZYJSwC7OuLUc2QgZl9VbBUKgDFKtEQm2IwgMgUgGx2FyB2EyrFy9LAUIepA3i1cDVdIBahQbGbeLZtbXuK1cA7Fme+u90PiIuXxhzeFzKnoiDHJ7WqAqEOdqEK6hhUygC1lRzeX1hDZrhGzCaz0BEqAJk6TBWBJtxcvKjl+FfEqjYf/zutSq/+AuO/RzrJltDhAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUklEQVR4Xu2Wa0tVURCG3f/EX9AN7EJJSV7QJBMzTURUjoiKZFcOFZJYIhWiCVGQEAQhCCKCCBFEYBlBv2nimcW4V/t0zqezBoIGFmw2W+fxfd+ZZUPD/0pemRTfJK5aDTN5NHBOan9T18pkYehCjYY50InGxirf1LUyWRq5KC/GW6pAZTI/eN4LKPz1wLyd6aiilDMQzdYmWmXjVpeeysbOQKiyPtkmH+52y87jPn3+U6U8Yy5AT4ebFeLjvauy96Rfth/2yvLopQgqADlNWgj066l2tevdbKc+o5bZxLnfd0bu9J72UClTNQg0EO9vX1Go/YUbmisDKvefVSgXIKxApc0HPWobUFvla/psQHwDlAvQXE+TNkQp8gMYan1aHDgCwj7H5ZhpPmgKFBnCNpQCzjLkOPpUaMo0sSSZOnJF0Ke7Tsps96loaSafNKsQXtYAShFqm77d+etq4Zelm/Lt5YgvFFlBDaCA+bVRlp9v5uTw1aR8XxlTKEfrqLAKTJkf69N6DldL8nV5SFcC4XdViQCTI0JNuJm6g+fDahvXCyuB4DtBhakzlbhOUAUYbIvBAHUIethNsUpYBNjnZ4OaIQMz+3KwJBWAYpVoiE0xGEBkCkA2e8Kg50DsJlSKl6WBoQ5TB/BK6XJaIBahQbGbeLZtbXuK1cA7FudY2zE/IC5eGnN4X+o4HgU5P8AkB0Id7EIV1DGoGCA+xd9Up8qO7i+sITNcI2aTWZhwqooVgEwdpopAE24uXtRy/FfEqjIjxZPYpsoq5uNvp/gz/2z9BrZad/i2ZV3pAAAAAElFTkSuQmCC",
     "wiki_name": "Stone head (Icthlarin)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_head#Icthlarin",
     "equipment": null,

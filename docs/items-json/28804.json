@@ -1,7 +1,7 @@
 {
     "id": 28804,
     "name": "Bottle",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2024-02-21",
     "duplicate": false,
     "examine": "An empty bottle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACz0lEQVR4Xu3W2U9aURAHYE/tc2MbLVFbElcQEAEXxBUXFEVARRBZBEU2wVsUlyZNmvTBt/7PvzJDD15Tm/SBe+mDk0zu4/0yZ2bO6ep6Dc1C4M/sWAh8LVuRPxlBNGCEb6kfLtv7TqIEflzbGVVKjSF5MATT8LvOg75Vra0KdRAkEAxF8F2xcYUO/Z/h9RhUIF1RAtlsDoVCmatzW7Ag7Btk0KTdhQmLHWPjE3qiBC4uishkckils0gkMvBtBbG+sYOVVR8WFtcwOGjUC9Q8jru7eyhKDcXiJSKROAJ7h4jFM41jjMFqc6Cn54MeIIH4SRrp9BmyZxfIF0oolSp4fPyJqvKAZCqPnd0DTE/P69FHArlckQGVioJqVeFvpXKF43iqAdnH2rofS8sbmPeswmSyNNKqJUzwEV1dfeF8Aikt0MbmLla9W9xDbvcyzGYbjMYh9PUZ2o0SqF3XGSRRBKKkxibQbuAAW9vNxl5eaVZpdnYB5olJbUD1+m0Lpa6SBNFO8u+EsekLwLu2jcWlda4S9ZPB0A8h3rQT1ZwqylrtpoWiPSRB+/sxnjSqEvUSHdvMjIf3EoG6u99qA5IpR14N4j5qHBlVh47LPjXNfaQp6P7+gfMZ6DjZAlEPqUE0bZqBJOZvIOohNYiOi0DU1G0HqTEvgcLh6DOQ7B+603QDUVOfnp4jFks8A8mGtk06tQPV63f/BJITRuNOoNExszYg2kFq1EugbX+IQZ4FL4PokiVQb+/HdoMonlBy7NWgUOiIdxAtRdrSLpcbFusURkZNDGozRobAzU0TRXcYXbb0HopGE7yp6U1Ed5l7fgVO5xw/1IZHxrXCyGiiypdVnOcKSCaziBydYC8Y4WuDHmhzc4s8YVQdjTEyBMrlCs7O8/xapAeafH7QcU05Zrh3BgY+6QWiEK27jKpDTw+aLodj9jdCpq6h/nHHEK/xf8Qv5X6RxvJiONgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xu3X2U8aURQHYG/tc2MbLVFb4g4CIuKCuOKCogioCCKLoMgmOEVxadKkSR986//8K+dO7jhYbfowMzy0Jznhcb6c5d5LR8f/0C0Yfs+2BcPXih2Fk2HEgmb4l3rhdrxvJ4rhx7WTo8rpUaQOBmEZesdBroGBdqBk0LeaXalQG0EMoXAU3yUHr9Bh4DN8XpMCMrhtDLlcHsVihVfntmhDxN/PQRNON8ZtToyOjRuJYri4KCGbzSOdySGZzMK/FcL6xg5WVv1YWFxDf7/ZqNbJ7bi7u4ck1VEqXSIaTSC4d4h4IttsYxx2hwtdXR+MADEkTjLIZM6QO7tAoVhGuVzF4+NP1KQHpNIF7OweYHp6XpkjHUEM+XyJA6pVCbWaxH+r1SscJ9JNyD7W1gNYWt7AvHcVFoutmXY9B5zxFl1dfeH5BJIU0MbmLlZ9W3yGPJ5lWK0OmM2D6OkxaY1iqF83OEigCERJg02g3eABtrblwV5ekas0O7sA6/iEAtKwfQyNxq2CUldJgOhMCuxEsOkPwre2jcWldV4lmieTqReMvdGySvJWUdbrNwqKziEB2t+P802jKtEsUdtmZrz8XCJQZ+dbLav0BBIpVl4N4nPUbBlVh9rlnJzmc6Qr6P7+gWcL6DilgGiG1CDaNt1AAvMaiGZIDaJ2EYiGWnOQGvMSKBKJtYDE/NCdZhiIhvr09BzxeLIFJAbaMTGlH6jRuPsrkNgwWncCjYxa9QHRGaRGvQTaDoQ5yLvg4yC6ZAnU3f1RaxDFE0qsvRoUDh/xM4gORTql3W4PbPZJDI9YOEhgNARRMNzcyCi6w+iypfdQLJbkJzW9iegu88yvYGpqjj/UhobH9MKIkFGVyxrO80WkUjlEj06wF4rya4MeaHNzi3zDqDo6Y0QwVCpVnJ0X+GuRHmji+UHtmnTN8Nnp6/uk9dz8KZhyl1F16OlB2+VyzXKESAOqo47n/1hbEQZj5Hj+8bYg/sn4BUMWwRV0ha2EAAAAAElFTkSuQmCC",
     "wiki_name": "Bottle (Defender of Varrock)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bottle_(Defender_of_Varrock)",
     "equipment": null,

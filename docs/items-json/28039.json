@@ -1,7 +1,7 @@
 {
     "id": 28039,
     "name": "Dragon claws (cr)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": false,
     "examine": "A set of fighting claws.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmklEQVR4Xu2W32saQRDHs4QQDKKIoniioqLBXMglwdqE1BIofepDoVAo9KHQp0Kh0LdCX/t/T/OZZXTPnj9QrHlwYHFzd/vdz3xndsnR0SEOsddwkj32Ek7KpZK0Gw3ptlo6qpWK5E5P9wHldPN6raYDmPNeT74OuvLzcigfO63/CeWkGUU6+p3OdFwOh/LiOpHf17H8iM8VbgclzOoNp45QKkBwBoAv/a68bzXkzyiRX0ks3y8G+uxDu7kt1Awgf3amg76Y9YZTCAZAF4OBvLy5UajPvY68a0by+PAgr8ZjfZ7E8TZ95TRzGzQto1goTMFCoNtySUonJ3J7dSX3o5FCfeq29bs3k4m8vrtTKMq5MVA3n0+dGnoFKOb8hk4BQa9QKjbGGX5par7DJYOi+TeAcpKUilJ9EqMczBEyMAZzHONbNqJfvg37CvE2qisAzU0pgQIaMFy0dfO7Lggnk1pV4mJBIR7rNQVjbnD54+M5UTd1wSCANgBcNid5ZpBrQnkgSkZpQiCErF/opbSghzIIegsX+RtIKxVQOArwGkBOT8N9tSJRLqeCADHHHd6PK2UFzBbzUGyKDmtwEufSpfL7ZGukwp8c6w9EADJ7cYhM/3UnDL8hYAbFeqDSpfL32GKdpxdYy0eUyrIwwRB2iUgQflOSCjXMaUtwiZZfPKut03uDewhHgEXMYOdXZ4fvmRDKkrY95lcE4R2x5gtPi71bYfGC8FokZ+6gRaIrtLwj5oBlZYBriiwIv56Sm/6KchEeyE6COWI9ky7nJuFLFJZrRYIewoCsf8KMNrz25yJcv1TLu2BA2Isjdvw365+tw/87atZaudao9y7D19fcYb7+3bOzmEHs2R0LN3VnT72TFQbxLGAO8fzjL9JlBaRpsi73AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu2WwWsaQRTGM4QQDJIgEUVFEw0azIZogk0TUkug9NRDoVAo9FDoqVAo9Fbotf/3a34z/dxZu2pqSOzBBw8n686b3/vet2s2NtaxjpWGs/xcSTjbL5XsoNGwTqvls1IuW2F7exVQzh9eq1Z9AnN8dGSfex37ftq39+3WU0I5a9brPrvt9iRP+317NhzYz2Fi35JjD/cII8zzhvOKMCpAUAaAT92OvW017NdoYD8GiX096flr7w6aD4VKAYo7Oz7xReoN5yFIgE56PXt+fu6hPh617U2zbrc3N/bi8tJfHyTJQ3zlfOdKTEvu7e5OwGKgi/2Slba27OLszK5HIw/1oXPg73s1HtvLqysPxTjZNzw8/Feou3EUi5mnBq8AxZrPWCkg8Aqj4mCU4RNTcx8qCQrzL6GSs0Fpzyp3xRgHawoJjGSNYtzLQfjlS7/rIV7Xax4AczNKoIAGDBW1b/rUGeFsXK1YsrfrIW5rVQ/GWnDFzc1J0SC/m6ggCKAFgMpSkmuCvCdUAGJkjCYGopD8gpeyfghQgsBbqMjfQGpUQKEowNn9ueH803BdKVu9UPAFAWKNOnx/Wd73gCqWLRigOJQ67EFJlMuOKpxzLyB1xmaKACR5UYhO/1YnW0NggmI/UNlRhfdYWOeG89JyE6NSFyoYw+ark4Z8RdJUXENKq8HZjf3ZrNmSvDd4D6EIsBQT7IwiUxE8E0OpaZ0xp7GgiMwXPy36ToXmFMmJUIvmpA61aHRBY0ERKaCuBHjPIjMi7Gfkqr9gXEQA0pMgReSZeJxzisyJaSOHn6ewzo0AISD5J+5Iai0HlJo9Hfnc8QcVBIS8KKLHfzn/5Ee8f0Gt8O+opNW44nkvKPAYEeYrdVjH757pu58oUogVq6NwE3Vi70zf9cQhiJWrk4Yg/guYdUzFb89vQdpqiEpiAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon claws (cr)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_claws_(cr)",
     "equipment": {

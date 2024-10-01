@@ -1,7 +1,7 @@
 {
     "id": 25379,
     "name": "Dragon axe (or)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": true,
     "examine": "A very powerful axe in the colours of the Trailblazer League.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4Xu3X/UtaURgHcM/vYcTkSkaGDpN2QVGaFOkqrOlSpmKa02rhsqixt0ZEURt7J4LYaGNso41gxBiMMdj/992e53JMbdNteb0weuAL/uK5H55zznPVZPr/SqBxWlYCA7E4Bi8nEEymEEpPYjiT5YxO5RDOFzA+PdMqmEDvyCj6wmOccxcjHDU6wfH8hHoTSTzdTGL7Xgo7D9J6ojQMAdZuRrBxO4qtlQncX43h4VqcEQR48SSLvWdTeLWdaw1GQn6FeL2Tx/7zaRy8vNo6DHWksiu0NbuPJhn0dregP4YOby1GhkCEoe2Rnfn07ppeoCMMnZlKCOGoQzKEou4cvini28clPUDa1a7tDH1eWRpjYCWI8ng9waivB4vNBh3HSMhycZgjDzUhJFYnkEAgeomHHCG0hatzayHMDyeQxBCQzlM1qDb/VIInb/1FBIqFIe6YxBCebhsd7C8fFuCwmuF1KDy1Y6VFZO7crbNew/qTLwqkYz7M5QZwY36kDKI5RAebQIHeTp7a/VldB6QsrYPxiAelmSBWr4+XO0Qg1W5hkC+l86tDxuJwwqaqyCT83CE6TzQYCXQ0h+pt+4lKW9iptMHdaYbaZYbf0YGQW+HuyO2i4fh+bxaf90v4frisB+Y4xGtv51R34HdpagkefhJBHQk4z+j1sEalPZS2gRCDLotRECqBNsWKdpuN309Nnrp/W4JvTpfHyzG0KxTF5YLV3ccogyBUAh3ddsbI7hiKoY50+/w4OxTkH+2GYlyhC2UMwQzEmEw9/ef5b0vgSh6R2TljMVrJG2TYTTqt02pq/QA2hB5w+OHigwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4Xu2X/0taURjGvb+HERMlI5cOk3ZBpzQp0lVY06VMxTSn1cJlUWPfGhEb+8K+E0FstDG20UYwYgzGGOz/e7b3vRy9XQ1BvV4ae+ABEe85H57znkc1mf49SWjsjknCSDyB0ctJhFJphDOzGM/m2JNzeUQKRUzPL3QKTMLgxCSGIlPssxejbDk2w/b+BfUlU3j5IIXtR2nsPMnoCaXAEMDWzSju347h4cYMHm/G8XQrwRAE8OZFDnuv5vBuO88w5wYG2NrVWlQVRoDUg3i/U8D+63kcvL3aORhKRJ0KHc3us1kG+rhb1B+GhlcLI0xABEPHI5L59ulaBUi7WouqwtDMqEEIjhISJihK5/BDCb++rukBpFxtbTL0emNtigHVQOTn95IM9fNgtd1AtTACZL00zhZDTRACVicgCcHYJS45glA65KhvrUR4cwISMARI86QGqnVTkrh5xSLipqhN75eKY5yYgCF4um002D++rMBpM8PntHJrx8uryN652xrUUYB6kpCJ+7GUH8GN5YkKEPUQDTYBBQd7ubWHc20oyMYPKgkmol6UF0LYvD5dSYiAZIeFgfxp5aujJZjjVZ0Hi9MFuywjmwxwQjRPVIwEJHpIe+za1VqQsrDL2gVPrxlynxkBZw/CHiunI46LyvHz3iK+75fx+3BdD5haEJ+jm61O4Di3HYbKT0BQIkHXqZrNGlm7apNSNqVjIIhRt6UuiPYpnSShy2pDt93O30/q1u0wCEnim9Pn9bG1qWg/raOUja1uN2yeIYYyNJWefgfDiHQMSoUkcSL9/gDOjIX4R7uhMO7whQoMgRkIYzKdHj7Pf1uCVwqILi4ZC6NI11ZtTupbZDjMf500/QFmVHowNX5ZUAAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon axe (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_axe_(or)",
     "equipment": null,

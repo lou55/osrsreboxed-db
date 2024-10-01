@@ -1,7 +1,7 @@
 {
     "id": 24450,
     "name": "Twisted cane",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-01-16",
     "duplicate": true,
     "examine": "A cane of the twisted relic hunter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpUlEQVR4Xu3VX0sVQRjHcc+FL0CSLr3o1gu7sIteRUmR0V8qVIoIoihEiv6IZIUgZocKBUNMpIwgKoqiXtnEd5bf8uxzZj27e07RRQMPu2d3dudzZp55dmDg32+tkI7U/T/eWuHJ3LGwODsRY+H20TB/80gMITaXL4SNpfNh/em5BMr/iZ7hGUgoQAqPWXt8JrQXThUG5jf3fBRRtZCtsHTneAeKIxCFQKvzJ8PyvROxL8cUiP4W/X1nLnzdutEMJRDnmh2BXj46HUHqWwbiuW/bs+Hn7v3wa/dhBNXC8FL9a4EYNAVaeTCZgzhPgbZWLhZAnFcEtQrLwECANNUexOAgtLxloJ3nU/0DcW1yajBMnB2M5x6kmRSIWfOgdy+mcxBRC6S88KCx0dEYQjGQTei9QO9fzRRBb271Djp0cCzsHx7OQZpJuyPLQB/WLvcPxEBcPzw+HkH7hobib5/QZSDwnzau5qAfb+9WxdCKII8iLMomNP3KQJ9fX2sKomUD83IL4uXsMo/yIJbSg75sXm8KymoQM1QGKkPRj+c8iP4WVKMoZls+BSIsSJ+CbiD69RUkFMEAVFwG4Jx7FiWQX66+gewscbQg+imhLSoF2n52KQdRpStiaNkOS4H0ObAgWxAtyucPnw07Q41APo+0lQXitwWpgFqUlovPRt9AQnGdAQTivi2InAO0KIGo0hZUA5WBUstWFcR1i6L/x/UrOYgaVKMOFUF22SyII9ctxoJYLovqCUSydgNpy6dAyjXVqQMjI/HYM8gvG9ctyCe0ahXPqa8qeru9GI+AqEG161Bq2SzIb3kP0gzRlxpkZ6gRKLVsFsS9VEIT+mwwOwLZHKoJotGxe/j8UXgQRdGCFDVAVVsnUqH8YXb+Imiv1onsjP+tt/Yb9DZXUob1ZcAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xs3X3UsUURjH8d0L/wBJuhTp1gu9sIv+ipIio1cqLIoIoihEil5EskIQraVCwRATKSOIiqKov+zE9wy/2Weezqw7u1N44GFmZ87s89nz8gzbaOz91gzpSN3/560Zns4eDQszkzHm7xwJc7cOxxBiY+l8WF88F9aenU2g/I/oG56BhAKk8JjVJ6dDa/5kITGfueejiKqEbIbFu8f+QnEEohDo+dyJsHT/eOzLMQWiv0X/2J4N3zZv9oYSiHONjkCvHp+KIPUtA/Hc962Z8GvnQfi98yiCyDE+MhLDZ3ctG3b9aoFImgItP5zKQZynQJvLFwogzgXy2V1rFqaBRIA01B5EchCa3jLQ9ovp+kBcm5oeCJNnBuK5B2kkBWLUPOj9y0s5iKgE0rrwoLHR0RhCkcgu6E6gD68vF0Fvb/cPOjg+FvYPDeUgjaTdkWWgj6tX6gORiOuHJiYiaN/gYPzsF3QZCPzn9Ws56Oe7ezmmMsijCIuyC5p+ZaAvb64nQT57ScsS8+UWxJezyzzKg5hKD/q6caNXUFaDGKEyUBmKfjznQfS3IFsUfXbXsi2fAhEWpFfBbiD61QoSiiABFZcEnHPPogTy01UbyI4SRwuinxa0RaVAWysXcxBVWpiuQOyQFEivAwuyBdGi/PrhtWFHqMvRobVBfh1pKwvEZwtSAbUoTRevjdpAQnGdBAJx3xZEzgFalEBUaQsSymdPtAyUmrZuQVy3KPp/Wruag6hBFepQEWSnzYI4ct1iLIjpsqi+QCzW3UDa8imQ1prq1IHh4XjsG+SnjesW5Be0ahXPqa8qequ1EI+AqEGV61Bq2izIb3kP0gjRlxpkR6gnUGraLIh7qQVN6LXB6Ahk11BFEK39V6VT+PWj8CCKogUpKoAaDZX1TuGBNrR+GJ1aQN02j+wGq2j3/U/NI1Phn9nT7Q8+SaHeWteYsQAAAABJRU5ErkJggg==",
     "wiki_name": "Twisted cane",
     "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_cane",
     "equipment": null,

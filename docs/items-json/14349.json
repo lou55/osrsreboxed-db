@@ -1,7 +1,7 @@
 {
     "id": 14349,
     "name": "Dragon defender",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-05",
     "duplicate": true,
     "examine": "A defensive weapon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xu2Xy2sTURTGc5xHniamBoXuQmklSSEG0zYlTRPRxsaGYl+20qq0oQ1NKyJYpOADK4JFEIqK4EJciRsRN279E/yTPu+d6Uwn6TSRONd00Q++zcyZe373zLlnGJfrRATdHZcOUvJKGHFLnYTSQW75FEx7FYwxGA4lCKjVooT1gIJl5jkGNMlAOFTr59oSoTcabbE4oZDN4rZPB+JV4lDNn2lbhAs9PU0W11/VyOAghtNprO5X6ej4f1YzINIghlIpXMnlMDExo4EJrQ53vK/PJgFh4GISo5mM5lJpCun08H5cY6wj0nfPk/bHYpZEuvk9w4XCOFKpIVEgXITd2Sm8npvBm/lZ7C3c1F6LYQ5pOJMZRTI5IBZma3wM1xLxuor87g7gcciNe6xp+WnifcKrEov1i4ThIqzksg1JCN9qa/h13gev262ZA0WjveJhnpSv2yQhfFldMWEMoGAwZBPruBoTEJ4FFXxavnMI6Fwk8j+ArCI8ZzAPmTf8itbkOzfKWo/VLuctE9zOjouwF1bx6oyK7aCKqk/GEnPZ/ILr5kfecD5fNO0wFOFtl8eEqQVkTPkkRE5Zd0/4eX9TG4YHx15IhYgll7HLYB4xmLWAhEmPhDC5GhIRvm9UkUgknQawirDNZo0BU2EwZQbTXVcZPY6bnzyhME8tMEt+CUXV2i8HcT821/G1WtFOniAgwg6D+djlxtZpBfMMJmPC1Me9X1ywQDbed0yEz2c9GkyFfRYu2cIYOuq6YyI2Z1S8DKlYZM2cVITuvJV0mBcMZtorIy53GOYBg/nA+qbokUX3xN+I8C7sxlUTpqNik5jBHIOqcBHu+oX+FbSjYwVzIlv9AfeCb7+hZscAAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpUlEQVR4Xu2X22sTQRjFM+4tNxNbg0KfGkorSQppMG1T0jQRbWxsKKYXW2lV2tCGphURLFLwghXBIghFRfBBfBJfRHzx1T/BP+n4zW52u9nEpthdkwcPHAKzy3y/OfPNLHG5/otBc9ulgRQ8AsYVoZ1QGshNr4RZj4RJguFQfGyot9duqFarZNj0S1glLxDQDIFwKB3GZiCG/nC4RfQMuXQat7waEE+JQzmWzoW+viMm17ZqfGQEY8kk1mspOZQO11FATIUYTSRwOZPB9PScCuZoOtzRgYEmBRiGh+KYSKVUFwolJJNjta11JB1t9bzoYCRiFNLNn+nO5aaQSIzWgdgOsz9fwquFObxenMfB0g11W3RzSN2p1ATi8WGnUuFi2JmaxNVYtC6RXz1+PAoquEtNy08T7xOeSiQy6CQMF8NaJm0pwvC1uoGf573wKIpqDhQO9zsP87h4rUkRhs/rawaMDhQIBI136+exVY0wTwMSPq7ebgA6Fwr9CyCXywzzjGAekLd8ktrke9eLao9VL2VNN3gz2y6Ggy4ZL8/I2A3IqHhFrJCLxhdcMz/yurPZvGGboRjedLsNmKpfRMkrIHTq8NLjvz/ubauXoX7szbax0RkVF7FPMA8JZsMvYMYtoIu5LIUYvm1VEIvF68bNts78F2LYpbtGhykTTJFgekzJ6DDc/OTZnIZZDE9MMCs+AXn5sF/MMN+3N/GlUlZPnv7MOtsJxbBHMB+6FeyclrBIMKkaTP0WMLxbXjIgHU3n01m3ClOmz8JFC4z1XTNk4/MTi9E9I+NFUMYyNXNcar3yP43bIA3mOcHMekRExdYwDorhPsG8p77Ju0Wne+I4YnjbpeBKDcbBnjiO6CYmmA5IhYvhjq/+X0EbYXS1PZVGdRRMJ+g3RGbcs0Kp3hIAAAAASUVORK5CYII=",
     "wiki_name": "Dragon defender (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_defender#Normal",
     "equipment": null,

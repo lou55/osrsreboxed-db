@@ -1,7 +1,7 @@
 {
     "id": 1548,
     "name": "Key",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-09-23",
     "duplicate": false,
     "examine": "A green key from Melzar's Maze.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeUlEQVR4Xu2WsUvEMBjFG6SUlpJSWlLa4gkuLq6Ci4ODg6PDgYO7g3CD4Cg4CIKDcOAguDkJbv6Dn/elxDRNrtxwSW7ogzeUFL4fLy8hQTBpkhAB3d5EILvNNXuCUmHYWw3N974vKAlDbzJgrzXUny20PzNofw98QEmgYX8QaqeA9DXrUoeO2QHQZiD0OoPoJLYJNJ5K8cigfK54ufO7ApLLFMKj0BbQCMhDySEQpnxiHAxPnezTVrU+FRya35e9wUNvVetBkouE9yNfFDYGm2QGiY4jiM87GEspmESg+ZJXvzCWMz5LIJ1TVyAoczLo+FQcXycw5r5gUtWyhr2ZtaNrkg7St8NUUDpMekW7O2V1n6hQ1qXDCOMTAreKvVQuk1KBMBkEERC4Xn00/MHV/88iFDEOq94bno7yvTJ+h4fWy03+hytQy+7lJ446poZpBTSwDYQyQ2GxJUDfTtRtzRDKIYBJXYl1KK8ivDv8LeOmL5vIeV8mjeoPYASLGjArkiYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnklEQVR4Xu2WsUvEMBTGG6SUltJSrrS0xfNwcXFwEVwcHBxudBAc3B0EB8FRcBAEB+HAQXBzEtz8B5/3UnJtXtJ6SJs43AdvKGnzfv36JY3jbLSREAO1rIlBfJUoZQlKhsleCig/t21BNTDRZQzZcwHFewXV1xSq7x0bUA0QzQ9CtccOZjMTUN1AdMwAkNy0rwwArQcSXcTgHfpjAvW7MrnPIH3MebiT6wkE8xDcPXcsoB6Qu5RDIEz6kHEwXHXiBRBmQKBuV7BpcpuuGtMSIAPBdIMEpwHPR3IzURrTorP+UXoQb98D/6SGoS7QGQYUg/Kj2fpFYTj94wDC80hxhc4woPTOYPlH9fI15ooOBp3KFwVsTZulawSGgrTLoCsoFSY8i+o9ZbmftKGswIjCIwR+quwpV5yiswwoGQidQRABgeP5W8kPXO37RoRi2mb5a8ndka6Xhdfu7mj/JSG2ai5BLeqTn1jq6Bq65UTO2EAoPRQGWwC0y9hqE59Fzor+P0WfHkl1iCmUQQCdGM8OP8uYycs6Mp6X32UhL/9HP20ozQwFSkKrAAAAAElFTkSuQmCC",
     "wiki_name": "Key (green)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Key_(green)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 2367,
     "name": "Shield left half",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-08-20",
     "duplicate": true,
     "examine": "The left half of a dragon square shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu3W+0sUURTA8V1kCaN/ox/E0BRTw0ihNiii9/uJhYVRQRSFSNFDpBeC2IMKBUNMpIwgKoqi/rLbfu94xjN37iwzO1P0QxcOO3Pn7s5nz7lz75RK/34rG3/4rv/xVjaPRvebByN7bYzf2GPGru22IYi5yUEzO3HazDw+5UG5fyI3PAAJCpCEi5l+eMI8Hz8WuTHnXHMjisqELJuJmwdiKD6BSAjo6dgRM3n7kB3Lpw/EeI3+vjhqvs5fbQwlII4lOwJ6ef+4BcnYJBDf+7YwYn4u3TG/lu5ZUCYMPyr/WkDc1Aeauns4BHHsA81PnYmAOE4JKkfKwI1kcnOuQZJ+EFLeJNDis6HiQJIl+gTEuJ3VqhlaU7HHGkTWXNC7F+dCEJEJJPPCBfHPATFmx9YtZrCGAXRJoZJA71+dj4LeXM8Pop/rA3195uTqSggaTgH6MD1cLIiglFwHo0G6bD4QJf40ezEE/Xh7Ky2GFgVpFD8uIDAC4px+xiWBPr++3CiItvL0aBB9R5ezQ2zq7rbn+5qjIDLpgr7MXWkUFKxBZEiD6N/W328BQCRcEN9zQTwIGpRhUQweeRdE/+be3lh2iIPLx0kgslMoiHBLpUESGuSWqzCQoFwQx2SGoFy7mpvqghaenA1BrNIpMbTgCUsCSQhEMPUyRHbYNnSGGgLpstEvGdFZEUx11QpKg6RcbBuFgQgB6awQ22sBZqAWa5tKdpzeWAXEKq1BGVABKKlsggGiMT216KwE88gF8drxceZCCGINyrAORUG6bLKPUZqNXV2mp6PDbFjfbjrb2kx7a6tZ19JigzF6/uQG8ZQlgfQ7UFLItiHlKgzklo1+KQE3lLdJgqdL9j2+J2MB8chrEGtQ5nXIVzYN4rgeSM+fQkC+smkQ1/RriQbJtiHlygmixeeFLzRGhwtiUdQgiQygtC2OlNDz5y+C6rU4Mh7/W772G3MuDqMaqWd/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xs3W+0sUURQH8FlkCaM/wl/6QQxfmBpGCrVBEb3fTywsjAyiKESKHiK9EMQeVCgYYiJlBFFRFPWXnfZ7x+/smbN3lhl3Ci8cnLlzx/vZc+7cmSBY+60g/vBd/+etIE/GDsmj0QMuJm7tl/Eb+1wQMT81KHOT52T26VkPyv6IuuEhiCiAGBYz8/i0vJw4GZsY57hmI47KhCzI5O3DVSj8BYRB0PPx4zJ196gbi78+EMZr9M+lMfm+cH11KIJwzOwQ9PrhKQfi2CQQ7vuxOCq/l+/Jn+UHDoQ52puaXNjZTQvTzl9NECb1gabvH4tAOPaBFqbPx0A4JsjOblohVgZMxMWNcw1i+oFgeZNASy+G8gMxS+gjCOP2lEoytKHojjUIWbOgD68uRiBEJhDXhQXhlwOEMbt3bJfBMgagEYVKAn18cykOenezfhD6cX2gr0/OrC9GoOEUoE8zw/mCECglrgOjQbpsPhBK/GXuSgT69f5OhMkM0ij8c4KAIQjn6Me4JNDXt1e9IDt7Qqs8PRqEvhMr2UFs7e525wcb4yBk0oK+zV9bLSjcg5AhDUL/zv5+BwCEYUG4z4LwIGiQ3hTt7KaFj7wFoX9bb29VdhBHVo6TQMhOriCELZUGMTTIlis3EFEWhGNkBoFy7W1sqAlafHYhAmGXJiYVCE9IEohBCDG1MoTs4LWhM5QyO2gVkC4b+pkRnRViSusqKA1iufDayA2EIEhnBbGrHMAMlGNjQ+DG6RcrQdilNYgoO7unhaCkshEDiMb0lKOzGK4jC8Jnx+fZyxEIe1CGfSgO0mXjewyl2dLVJT0dHbK5vU06W1ulraVFNjU3u8AYvX7qBuEpSwLpb6Ck4GuD5coNZMuGfpYAE/JrEoGni+893MexAOGR1yDsQZn3IV/ZNAjHtUB6/eQC8pVNg3BNf5ZoEF8bLFedILTqdeELjdFhQdgUNYiRARQE3NZrhQXq0OsnF1DaZpFpsIzK2P/ULNIX9p413f4CvTJZL+rpM0UAAAAASUVORK5CYII=",
     "wiki_name": "Shield left half",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shield_left_half",
     "equipment": null,

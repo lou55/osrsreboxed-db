@@ -1,7 +1,7 @@
 {
     "id": 9776,
     "name": "Herblore hood",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "Herblore skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrklEQVR4Xt3WP0+EQBAFcAgh11lZ2VjZXHOJjY3FNRY2FiYWFn7/j4H7YB485vhzsAtnnGSiucj6Y2Z297Lsf0VedXmz6BDFS1EVzyFPxa1QAfFRVsV7yHPI17JBAXTcHZVX5dehKj8N9GYordJ+KMMQhCoRxCrt27oA+j40SRCrpLCAyp42Rxnmx1VIUQBZ+3ZoW36JAUQxqA4Sv6Ntj9lWqBGMb5XLDdtmoDkMhlpRaN1D8ioNVEfnRTGa/BwDfpcUJeeOH+CTbXMCxlDpjoGuOnoy17NxbM6bHgjJQ9LBEu06qQ4gmAfsHA9SDJMzpqgUoBqCt7vPrgcRw2OBn8Wh7ALF22EG5kBD1dFzCj+jQfZWQF0NIkZBzGiQbPFREAd6DoO18Dc4BtahBIQ3WwvifXcz0FBlkoOmZmgKpBiCsNbuIA9JCuIiDlRjmHpaT8HY/qQgjxmDIQMAp3z7/Xs9BpE3ixBkmLZVLi/uNiaej28XwoHQKlwhlgrx6bFsVcQOQ/RB9T+vF1uWw2usihSLyfWD6qCCi9foRXPbt6DFC8Y+Pxi+DUsj9vk/Er8L9IXt7A+k8QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0ElEQVR4Xt3XsU7DMBAGYEdR1I2JiYUuLF2KWFgYWBhYGJAYGHj/xwj+k/uTy8VpjO2kEiedWlWN++XOOYNz/yuqdsyrxYion+u2fvJ5rq+F8oiPpq3ffb76fGl6FECn3VFV23wd2uZTQG+C0lXaDyUYglAlglgl1brH43FrlAd9H/okiFXSMI9yD5tXSTA/pkIaBZC0j23bsErVHAOIxqA6SLxH2+7dVlVawNhWmWTbNqiSgNYw2NQahdbdFa9SoDp6v2iMTn6ODX5TFKXmjt3AZ3nMCVhClRsDY3X0ZO72xqmfNxMQkkPSwAoNS1UdQLAf8ORYkMYwucc0Kr9KVQ/B3d26eBAxHAv8TFD2VyJDDlDcHfbAGihUHT2n8JpXpWq4K6CiQcRoEDMbpB7xRRA39BoGa+E7GANpbVMg3FkqiOedASVUKREUqkxx0KU9dAmkMQRhrd1BFlIUxEUMqMMw9bS+BGP7i4IsZgmG9ABM+eHvb4VJA2ERggQztMrk7Gxj4vr8diEMCK3CESKpITYtlq3KeMIQU1D3407/hxqXoTWKgtj/mOzW0NVBBdNBiP60H0CyoP3WcoSvzwAhpi0Y7z42cq8PxLwVf4uU638BYIHCIxe9M7sAAAAASUVORK5CYII=",
     "wiki_name": "Herblore hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Herblore_hood",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 24361,
     "name": "Scroll box (beginner)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-10-28",
     "duplicate": false,
     "examine": "Contains a beginner clue scroll.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xt2X/0tTYRTGvf9DICIpKglLURc2J20tmbKmolvZXK3JMjObZaKZIrLsC5ORlqTMZElIZkZBJFRIvxQF/hD0Lz31nPXq1fr1fYUOHN577wb3w3Oe877nFhT8/2Hh7zywsNDud0t2tjRKhgOeg4KykL7Vi0dTA1h6cBOrc+NyPz4QxdULbabVstAXbcVk8jzmU0ksp4cF6E12Wq5nJ/uRGopjuPesKSgLsZAf8TMtqKksR0O1A776GgHafP4QrxdTWMmMilrGgOiVqopS1FdVorH2KIJeFzpPNeLjyyf4/DaHL+9XMXP7sjkgR9lhOB0Vok6z+xjaT7oR9nsQCfjw4cU8Pq0vYmF6EGP9Ed1QFo6UFEupqE6Tqw6BE/WiTleLV1bm1kYWi/du6IcpLy7aUcfjrBZ1WC6qQ5UIw2vm1PWYTiALpUWFog69Q9/QyEodQtmBWDZ2olYgj8uF43W1aG3276ijvGMHevcsLakVhiAL6TSWMhnk5uaQ6O7+pzrNTscfEI0w0VBIVBlLJrG+/BQbKyvoi8UEglAKaBdGa+S7qjMQQDgYFJD+eByDlxL4urVlHoZdpTZAvjwabMLP7W38+P4Na0tZeWYMhl1FmP0tTq+wdK9yOUljMNxvuAHub3GuxmHoGwLxaLC3OFdl5Nk7KV1Aqk0tFBce2gFiqagOjwcCcFVAWmHKS4rgrKqAr6FGpr9oR9OesYIAXBWQ5/d/tcEoAG7zo33n5HQe7AnJvSoVVwXE1ATDsGTc5GSnpj/OMJz2CDaUCEvJFBBTKwynPqrBlxPi7nCPTHocGzITV+SeU5+CcjvK9AKxVFSB6twfSciQToUIs/Z4ArmZEfmNQEyNMAwLkTafKER1FAgHdH5JsHxMPqO5NcMwLHQFvbh2sUOA7CAcPVXyE4fqGQHihx1NzcnODqGSXlKfNUaA2PK9kdNiaqrAF1MhgqikjwzAqMj7SO1BLB2NbQcjsEEgRv7I4Iu5H7HNFRgNbRjGHrvn2d7UG78A0+GyB9mONsQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xt2Y/0uTURTGvf9DICL5lYSlqAubk2ZLpqyp6FY2V2uyzMxmmWimiCz7wmSkJSmaLAnJzCiIggrpl6LAH4L+pSefs+5cq37K+wYdONy929j98Jzn3Pe8y8v7/0Ph1/xnodDucUp2tjRIBryufwWlkLjWi3tTA1i+cxVrc+NyPT4QwsUzbVarpdAXasVk7DTm4zGsJIYF6MXStLyenexHfCiC4d6TVkEphP0eRE60oLqiDPVVNrjrqgXozeO7eL4Yx2pyVNTid2tLSkxDKfFKZXkx6ior0FBzEL5GBzqPNeDd0wf48DKFj6/XMHP9vHVAttL9sNvKRZ1m5yG0H3Ui4HEh6HXj7ZN5vN9YxML0IMb6g6bLpnCgqFBKRXWaHLXwHqkTdbpaGmVlbm0uYfHWlYxChlRSKCssyKjjsleJOiwX1aFKhOFr5tTlsMmSKRQX5Is69A59QyNrdQiVDcSysRONArkcDhyurUFrsyejjvZONtCrRwlJg+VSArKQSGA5mURqbg7R7u7fqtNst/0wsUGYkN8vqozFYthYeYjN1VX0hcMCQSgNpGE0iAEYRrqrOr1eBHw+AemPRDB4LopPW1t/hMn9lT2KdFfpA5Cbh3xN+La9ja9fPmN9eUneswyGXUWY3BanV1i6Z6mUpGUwPG94AOa2OFfLYegbAvHWkN3iXLWRZ2/EM0C5v/KXsTvtFebvywCxVFSHtwcCcNVA2TB7DLRj3KIC2CvL4a6vlukv1NH001hBAK4ayLXzXWMwGoDH/GjfKbk7D/b45VqXiqsGYhqCYSgZNznZ6emPMwynPYINRQNSMg3ENArDqY9qcHNC3BzukUmPY0Ny4oJcc+rTUE5bqSkTM5SUiipQndsjURnSqRBh1u9PIDUzIp8RiGlQHYZCsM0tClEdDcIBnU8SLB+T79HchmEYCl2+Rlw62yFA2SAcPXXyEYfqGSyVDiUPdjQ1J7tsCJ30kn6ssQSILd8bPC6mpgrcmAoRRCd9ZEG5dKR9pM8glo7GzgYjsAXqZEf6lsGNeR6xzTUYDW2hOruR3iz3HwyjY2gmvgMUj/KKwAIqrgAAAABJRU5ErkJggg==",
     "wiki_name": "Scroll box (beginner)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Scroll_box_(beginner)",
     "equipment": null,

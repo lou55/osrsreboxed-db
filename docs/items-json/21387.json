@@ -1,7 +1,7 @@
 {
     "id": 21387,
     "name": "Master scroll book (empty)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-07-13",
     "duplicate": false,
     "examine": "I can store my teleport scrolls in this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdUlEQVR4Xu2W3WsTQRTFM0gokZAQIlva0JQ0JJIGGhv6YaFERSXYClZsi/jUl5ZSpA+++OiLCL74L189dzib6ThrNTuNRbxwSHayO/PLuXfuTqHwP240jFjdijDSaSaqWwBmpNeaVxFqpXHvb4FZZ/rtRZULBqgZgxkZDTsy6DZUIagZgxnZ7C/LsLek+h2oWrl4U2BGAUpzc3K6UZSjTlG//8otAlERwYw82ezK7oO2QgAGujh+pNeufCiMuVDl0p0YULZ2AEQoCEBZAjCcxH1JdQJVKRXyAhl5uNZSIBcKY5/O9uXr5etUuKYIBMEpQuWGGe+syrPtnqYMIhj+eRaMn0a6BHfm6+VpoYzs7fZTIB8qCwjjoR2I53PAIGzdEMp3KgSEMbYFd/fVq3dlManmgwHIy9GafrpQTIFfPxhDXYX6VHOhlgfIyMHjQSpCufXA9PjuEMh16e14Q4GmhEHYQn7zdF2BsBAbIXuPq1AhEwipmrxCpgrrztHzoQJBPpC7MBTqOwS6egr44zAKAIshH4rydx7H3b6D6/PDkXNWmipsqt692EqBCOXXU9aug1BHgMFWzwGDsC9PTB5yyQXyXWJvYhdn78kP1E40/x9PxrqA7xKAslxiB8ezEWAY9rzDhSEsEkpbyCXAwJ1IMIyrfQiAny9eaSoINGhVpd+syP1GRVYWytJMfnTiekl3VmQgu9MoNjkKTRBgnaTwE9SX9wdagxFhECatG8hObtMIYQdB3z4c6iehAAN3Ipx13DAybNdSbXXrzuQTMEIRDDAYjwzDsAsDKDy5/R0pc8EAFL4/Wlw3uQUj0PX3zywsmD/6T8V3jrnZkZmM74EAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiklEQVR4Xu2Wz2sTURDH85BQIiEhRLa0wdg0JBIDSQ1tVShRUQn+AFvainjyokgRD148ehHBi//y2O8s3+30+bbVzUvtwYEvyT5233zynXmTLZX+x0LDSapLEU567UR1CcCcDDrLKkKtt679K7DUmWF3VWXBAHXBYE6mk56M+y1VCOqCwZxsDW/IZHBd9SdQjWp5UWBOASpLS/JusyyHvbJ+P8stAlERwZw83OrLzkZXIQADHb26r9dWPhTWLFS1ciUGVNo7ACIUBKA8ARhO4r6kfgJVq5QUaGNtrSiUk7ujjgJZKKx9ff9cfnzay4RrikAQnCIUYQoCOZnduyWP7wy0ZBDB8MvzYPwy0iW4s9ysFi2Zk2c7wwzIh8oDwnroBOJ5whR0KO0bQvlOhYCwxrFgT1+zflVWk/p8MAB5MR3pp4ViCfz+wRr6KjSn2iuNU0B+tnPCye6DcSZC2X5geXx3CGRdej3bVKC53IET+49uKxAScRBy9liFGplAKBX/QgrDAOLwyUSBIB/IJoZCc4dA9i2gEAwAYDHkQ1H+yeO6nTu4/nAwzd6VCruDRG+ebmdAhPL7Ke/UQegjwOCozwGDSP88sXnIJQvku8TZxCnO2VOwVIxjoG6i9f/ydqYJfJcAlOcSJziejeAOI33fYWIISUJlC7kEGLgTCYZxeg4B8NvRSy0FgcadugzbNbnZqsn6SlXayfEkblb0ZFkgf+cCkZ40ikOOwhAEWC8p/Qb1/eOu9mB0d9g3EK5ZRggnCPr5+UA/CQUYuBPhXceGk0m3kWm73zSbn4ARimCAwbqFiQSESBMDyN/cgqFkFgxA/v3RgonzNrdgBDrr/mhx3uYWbOEwfxOxYX4Bpywbksy94L8AAAAASUVORK5CYII=",
     "wiki_name": "Master scroll book (Empty)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Master_scroll_book#Empty",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 26742,
     "name": "Koriff's coif (l)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-07-06",
     "duplicate": false,
     "examine": "Koriff the Crowd Pleaser's coif.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xt2W60uTYRjGfT9JEUYoihubWGSooSnmAc0EFTXFLA+JecrMzHSlmXlAzUPLMqQSkRKlJEKIiqKDJElC/9edv3s9i+1j7HXgAzfTdw+7f7vu63qeRUTsr2VJYIVt+QBmW2JkpD5a2kuipCLrYLigLNkYcsiHMac8bIv1A4UN5t2IUzanXfL1vkseX/EBhUkdS1b64mVnzi3bXrdsPXDLQmeseKqPhAOGZcn6gEN+zyeoSoABVJ19KHxAgBggPOTtrZHkxLjwAX0e9wG9HL8si0OXZLKrUtKTnOEDwjeAUKgz3V2lUNcuFvyF2lMwS9M1f7tWYR55LshoR7n0NRZJT8NZaa/OlbK8lL2EsjTqBgZlBppLVJ2mimxpqcwJgrIdbPdk7jmvxajutZepMvwPJGoZwMayLKkqTLMTylLfkCxGNN55TgsQRrgwUKfvA3SrqVg6avKlvjTTLiBLG65NtSoQo0IhxvZssEFBeDWeQjWgGZ9tQAAYJQzE0nCjNjUw7EEdnqFQd12hHHfH2gFlaXMKEBriE5TgPAISGNQBgmIPRuc1Ny0xlFC+caECHw7Q6mSz/Hhxx1/flzzy/kmXvJ5pUxWBZS+py0x2hRYGv2BcE+svz3tk+9WEHI6KCqhvi73yceG6Ju5AZKS/Uo85QgnEsjRNY7mp4i08pQoZqF/rU7LzZkb/3lodUSD23m0tVVPHRdty6VpyMyNJJvJOymxBunqGkZE4A/VzbUy2Vobk09MbCoS3MHWeI8YeIE/mCZnKT9NaHm1SIPzy1tshG3NXA4BQECBGbBtQf1ayKkTRECiUQiWAGBdApBDPMS6Azjhtivzg6RT1EIVRSRzNUcoAbS736zPiDxABAKg0IT7UUJYM56QGFNEGyg+0qw4pQzlSxuEIUJErzj4gVDJVnhgfAIQ6+IcxckRwnxkg9oYcyIDgJYomfHP8hI8A4WAEkCuEm96oYwuQASFtlAHCI/gGtcyPNnNVGJjKozYcjAaE84gyQL5Gvt9IpIu7rLY4w//8X4V8BTcIbmSpb0iXTQD/s4Ih99H6Ay0r7TgQfifpAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRElEQVR4Xt2W6UuUURTGfT9JEUYoig5uRYYabpgLmgkqaootLom5ZWZmOqWZuaDm0mQL0kJIhVISEURF0UZSFPR/nfydtzs548fe14kuHEZf78z5+ZznuXfCwv6vZUlghWzZAPNtUTLWGCmd5RFSnbs9VFCWvBiJk9cTHrneEe0H4nlWUpJW8DtcXJa8HPPI59l4+XA1Xm6esoGMOlsO83ggVn4sJMg3X4KsXUuQxe5o8dbtCp06q0Nx8vNWoqoEGEB1eTtCoQ7LHpcBwkO+/qOSmhwTOqB3kzbQo8mTcn/khEz31Ehmiid0QPgGEAp1ZntrFerM8eLfkd/S2FuarlsX6xXmhveYjHdVyUBzqfQ1HZLOugKpLEzbSihLo25gUGaotVzVaanOk7aa/CAo18HWT+a+I1qM6kpnpSrD70CilgFsrsyV2pIMN6Es9Q3JYkST3Ye1AGGEi0MN+neALrSUSdfRImmsyHHL7JY2XJlpVyBGhUKM7e5wk4LwajyFakAzPteAADBKGIgHo83a1MCwB3V4hkK9DSWyNyHajbFZ2pwChIb4BCU4j4AEBnWAoNiD0XktyEh2EsoeFyrw4QAtT7fKl4eX/PXpgVde3e6Rp3MdqiKw7CV1Oanx/rE5MDpL/YJxTazf3+uTb0+mZGdEREB9vN8vbxbPauK2hYf7K31PnNM+sjRNEwXp4ivJUoUM1PfVGfnxbE5/XlseUyD2Xm6vUFPHRP65dB0FOp+dIlOF+2W+OFM9w8hInIH6ujIha49H5O2dcwqEtzB1YVyU0+qwLPHm7JOZogytpfEWBcIvz31d8mLhdAAQCgLEiF0DGsxNVYUoGgKFUqgEEOMCiBTiOcYF0EGPHXnHgYYPpKmHKIxK4miOUgbo89KgPiP+ABEAgCoSY52MPMuS0fz0gCLaQPmB1tUhZShHyjgcASqNj/EDOaiSDYRKpqqSYwOAUAf/MEaOCO4zA8Rex4EMCF6iaMJ/jp/wESAcjAByhXDTG3VcATIgpI0yQHgE36CW+dJmrgoDU7PbhYPRgHAeUQbINqv9HYl0cZfVl2X7n5ty+GBkBTbY3MhS35Cujc83VvAn/vUKbrC5UTDkP7CcgvkFfjcoDoPu14oAAAAASUVORK5CYII=",
     "wiki_name": "Koriff's coif (Locked)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Koriff's_coif#Locked",
     "equipment": {

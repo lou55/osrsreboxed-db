@@ -1,7 +1,7 @@
 {
     "id": 26225,
     "name": "Ancient ceremonial mask",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-05",
     "duplicate": false,
     "examine": "A ceremonial mask dedicated to an ancient god.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xt2X30tTYRjHfa6GEoYkSUoTkyZqOIy1FDMHw5Ya6hrDdNlsDKEkxi5ExDSQKIguuuzKq/DCIJAYEUX/2je+z9s7jtk5eXHeE/TAwzlnz8Xz4fs+P961tJzZBDMzefD5e+QfmGBx8QHm5gp/AQqKhWqC/P0VzM8XA4AE8fiVgHioJigUHqpK/gkFfX1XA+KhmqBYfKQq+ScU9PcPBMRDNcHS0pqq5J9QMDh4LSAeqgmWlyuqkn9CwfBwMiAeqglWV9dVJf+EgpGR6wHxUE2w9nhDVfJPKBgdvRmFSoJSqaoK8emfTJBKjbsGMsXM7mLLn66hk+8TExn3QJzO09P3MDV1x5OIzz8Vsem09vbzrqDMyuAOy2ZnfyURBeT32NhtD5RxHltPT687IM4eroxcbkHV4pNAmcxdVY0AVMVCENLhPDI7zIJQFaploeism2TyhgJNTma10xKJIXR3X3YBZVYGj40q8XiYlGB0LxBB7LvjFWKOjWCcQ4TicVmV0ulbqgidxxXRcDRQ9P39d9h78RY7O68VqFx+0lwrhCGYYyDBwYcjVKs1tMZi6ru7b7C9/UqBOME5MG2sre0cYrFWl1CCw4/HmphuE29tvUS9vodK5VnzN3ZXYmAI8V6nFzXReml8/dE8NiYnHIH4ztZnMfOClkqPu4ShmUHI1rdA1rnfWMgWKDe7gM7Oi+6B2OJ2MFKpz1++47jxTYFqm8+xvlFHvriis6ij44J7ILY5VfJCHX1q4P3BIZ7WNlEqV/WCz2EYARDtNJRduJxLHIQE6uq6FC2Qnc6E4jcnMzuLxUx1Iqgfr52Eojp2Slt1IgciBN2qw+4iEIs5YhhrosvVqmMXqcP7z1nMXFXt/TnCf6tBRgCv/8f2E270CBQFDcjkAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xs2X30uTYRTHPVdDCUOSJMWpSRM1XMpaipmDYUsNdY1humw2hlASYxciYhpIFEQXXXblVXhhEEiMiKJ/7cT3PJzXJ+V96eJ9XjtweN/tGZwP3/PrWVPTPxvx7Gye8Tx7cgFGvLT0mOfnCwJ0q7fXByoyWOL8o1VeWCgGABHH49ejUpC4UHgiKgUB9fXdCDgP1YiLxaeikn9A4v7+gYDzUI14eXldVPIPSDw4eDPgPFQjXlmpiEr+AYmHh5MB56Ea8drahqjkH5B4ZGQs4DxUI15/tikq+QckHh2946l09jREIy6VqqIQnkFAqdSE67SZYkZ3oeXP15CtBPHkZMY9EKbzzMxDnp6+bwUCyGkR279Hp7W2XnaVNrMysMOy2TkPBID4PD5+z4IyjrR1dfW4UslMaKyMXG5R1MITQJnMA1ENAFBFIQDpcB6ZHaYgUAVqKRQcdZNM3hagqamsdFoiMcSdnd0u0mZWBtIGlZAeBAUY3AYCiL7bK8SJSkgbwDCHAIV0qUrp9F1RBI502cPRAYyagYIfHHzk/dcfeHf3nQCVy8+9tQIYgDmqHzXiw8/HXK3WuDkWE9/be887O28FCBMcA1PPWloucSzW7KJ+1IiPvpxIYLgG3t5+w/X6PlcqL73v0F2JgSGO95iLmiOVSOql8eO3lzYEBxyA8I7WRzHjgpZKT7iuITMI0foKpI79hkJWoNzcIre3X3WpDoykxXUwQqlv33/xSeOnANW2XvHGZp3zxVWZRW1tV9wDoc2hkg11/LXBnw6P+EVti0vlqlzwMQwjAIKdh9KFi7mEQQigjo5r0QLpdAYUPmMyo7NQzFDHrh/HQLC/oaCOTmlVJ4KCto0EAq7qoLsAhGKOWB01kuWq6ugite8/EcKomauq3p/tf6sXAKN2ekP8D2CMKUTYMH8Az11LdXv/Ip8AAAAASUVORK5CYII=",
     "wiki_name": "Ancient ceremonial mask",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_ceremonial_mask",
     "equipment": {

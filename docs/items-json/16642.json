@@ -1,7 +1,7 @@
 {
     "id": 16642,
     "name": "Ammonium nitrate",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": true,
     "examine": "An acrid chemical.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdklEQVR4Xu2UTUsCURSGvf/JhS1s0x9wmdvoYxlRGxHBPsXELM2sZAYxUxFJ1KYQQ9RKkdAg+j9vnTNEg9qqGSfiPnBgmDtwnns+xuGQSCQSyb9FYDJsQyAVDqOkqsgkEriMRDDndNopJlAvFtCsVVG5zqGQTrMYSR7v7tghJTDodvDy9IhuswmtVMLNVXZKC2fazvGEX0kFVykdjSK4tYklrxcLbreZUuNJf4rv76mVWrmMoqJAicXMbKPAgc+Hw0AAR9tBxPf3kAyFeIjp/frKMhY9Hsy7XBNSk/Fr9E2i0qvxE2STp8hfnPMA51JnPMR0RoIhvx8ba6tmJp+G4LWmYa3m87xVNLz0XM5k+IwEjWLUGqqmRVL6LDzc1tHSNLTv7zh4Pj7FSJBW3ihmcYUIwas97D1z9NttXnMSJLFGpcJyJGaxiBH91u+jEV4HAxbstVos1mk0uGozlDGii70Nhxj1+yxGP0ebZIyYvs4SiUTyp/gA9t9SfsHLZKgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABl0lEQVR4Xu2UzUoCYRSGZ+7ES2jhwha26QZc5jb6WUbURkSwXzExSzMrUcRMRSQxm0IMUStFQoPoft46Z5iY1KIfdSi+Bw4jfovvmXPeM5IkEAgEgn+LjP4yDBkRrxe5eByJUAgnPh8mzWYjxWSUshlULooonKWQiUZZjCT3NtaNkJLRbtTxcHeLRqUCJZfD+WlywAjHOs7eC2VMmEz8pC5F/X64V1cwa7dj2modplT/xYOKZDQhGqWSzyMbiyEWCLyNUT3/FTK2HQ7suFzYXXMjuLWJsMfDIab/l+bnMGOzYcpi6enAZ8I/Rt0kan08uI9k+ADp4yMOcCpyyCGmMxL0OJ1YXlzQCUiSJqCv3hu+icxrTWEtptO8VRRe+p1PJPiMBPViNBrq5vtuDQ01CzeXJVQVBbXrKy7Ox6sYCdLK68WGOJ6PkHm1O817rlatxmtOgiRWLhRYjsT0IiOS0VDf+rnbxWO7zYLNapXF6uUyd23EXelHW2eqp04H3VaLxejjOHYZPXqxMeTl6+izYriMQCD467wAv2t6ojiU3vUAAAAASUVORK5CYII=",
     "wiki_name": "Ammonium nitrate (Ammonium nitrate)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ammonium_nitrate#Ammonium_nitrate",
     "equipment": null,

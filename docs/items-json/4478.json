@@ -1,7 +1,7 @@
 {
     "id": 4478,
     "name": "Herb tea mix",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-28",
     "duplicate": false,
     "examine": "An unfinished herb tea made up of water, harralander, marrentill and guam.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4Xu2WwU5TQRSGmRchwUQWrnwBVi4MGwIqIiKCiICIICISRBABaRARpSIqKSGIQIiBIBpDYANRExc+0zHf1NNehoF2CrLiJH/a5k7v+e5/zpk7eXkncSRhJLOOJZLJhru7JdbTI897e+XFkz55+bTffr4aHJD48LBMxmL/Gy4Ngs42nvcKsIlnQxZqamREpsfGJDE+7nHvUKBpR1yAbHXt0kWpraiQ+qoquV1TI3dv1kl7Y0MuUCZVGjdJiCglZcSx2XhcFt6/k6VEQs4UFoZCGdsbboIQkXx+6q2sLy3Kysc5C8JvvjdUV4cD0RfITZSNFGZu8k0KZGbitWxvbMjawoJ163RBQQiUsU2qjYrtyE3sk8IoBPowOppq6G/Ly/ba9cvlYUBRECaHm+r0IBLxpLhAAkCiziDfpG19Xbeucc9T+fnZQJkUxH4gmWC4hvifgvQ/6LAP+WNrS1Y/zdtrTGFWQED4QDSRD8iF4T88EGXnc3lmRja/rMmfXz/l+8qKXU+PZgXkA9EyaEKfOwqLuAdOk3RjdVV+72zLzuam7SHWpcuYMYy3LK4DPnf0fzwIDuMO2wfThTtMWLqvsg6zB8RtVh+MukNCdYeNkc2Vvejz7Gxk2oLC7AJZnJ7eNco+IBeGxDQw5eL1w5r0izc4TAqE8VSgqBs+d6IwNLG6M9TVJX3323OFIYwFYSoUyHUp6pa6E4VRd3gflpeUSFlxca5ARjqamqSzudkLpFD7lQoYSqPNzJueveZKaWkuQEYetbZ65QIdVCrcoVwcNThycPRQsECo5G76+F6bdLW0HCh3qhQGdwBiDU633aqXOzdq7du9rrIyHIgmZCoGHnbaRsQdyqeKQrkuqrjGWgXCKaBwK/DYYazVNKOC4RgJOOUhkmiP+SD5zToFQXxHANHgAUCESb1/aEqmxHXLhXMBXUiEQzT2uaKicCBfg+5XSsBw0SfWIly6eqHsH0gQjIbZMzk6ytFy8plJlOoQINFI3gQoF0wnCempEhcRZWZnZlIp5RGAuKFPlzwj6aEtCqbvq+jaI3IlU7jJXJ3E8cZfX27ZCX1IL5YAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4Xu2WwU4UQRCG6RchYCIHT7wAJw+GCwEVERFBREBEEBEJIgiIEEREWRGVQDaIQIiBIBpD4AJREw8+U5mv19qdbXrZmQU9GCv5s7uZ3q5v/qrqmby8/3EsYSS7/kokko329spYX5886e+Xpw8H5NnQoP18/mhYYqOjMjM29qfhUiCouPmMV4BNPx6xULPj4zI3OSnzU1Me944EmnLEBQiry+fPSX1VlTTW1MiNujq5da1BOpubcoEyydK4SaKIUlJGHIvHYrL85rWszs/LqaKiqFDG9oabIIpIvjT7SrZWV2T93aIF4Tffm2prLVBxQUFYKGP7ArmJwkhhFmdeJkEWpl/I3va2bC4vW7dOFhZGccnYJtVGxXbkJvZJYRQCvZ2YSDb057U1e+3KhcooLpk0ECaHTXV6EIm4U1wgASBBZ5Bv0nY/bVnX2PNEfn4Yl0wSIhNINhiuIf6nIIN3u+xNft3dlY33S/YaUxjCJWMhfCCayAfkwvAfboiy87m2sCA7Hzfl5/dv8mV93a6nR0MB+UC0DJrQ547CIvbAaZJub2zIj/092d/ZsT3EOnUOmKxAvrK4Dvjc0f9xIziMOxwfTBfuMGHaVwqSBYYwB0DcZvXBqDskVHc4GDlcOYs+xOPJaQsJomHSQFbm5tJG2QfkwpCYBqZcPH5Yow/eiDCESYIwngoUdMPnThCGJlZ3Rnp6ZOBOZ64whLEgTIUCuS4F3VJ3gjDqDs/DyrIyqSgtDTNNvjDS1dIi3a2tXiCFylQqYCiNNjNPes6ai+XluQAZud/e7pULdFipcIdy8arBKwevHgqWGPXQkThNH9zukJ62tkPlTpXC4A5ArMHpjuuNcvNqvX26N1RXR3XJ2CZkKobvddtGxB3KpwpCuS6quMZaBcIpoHBLXzvczBnCWKtpRgXDMRLwlodIoj3mg+Q36xQE8R0BRINHdkmfPzQlU+K65cK5gC4kwiEa+3RJSXQgX4NmKiVguOgTaxEuXTpb8btUOZ1F5sDk6CgHy8lnNlEqFyQijEZiE6BcMJ0kpG+VuIgoMyczk0opjwEkFYkNUm96CuWC6fMquNZ1xd37SJHa9GBCX3JX7n7HGm4yV+76fyp+AY4NHHm6+xezAAAAAElFTkSuQmCC",
     "wiki_name": "Herb tea mix (Harralander, marrentill and guam)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Herb_tea_mix#Harralander,_marrentill_and_guam",
     "equipment": null,

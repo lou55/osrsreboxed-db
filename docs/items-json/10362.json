@@ -1,7 +1,7 @@
 {
     "id": 10362,
     "name": "Amulet of glory (t)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": false,
     "examine": "A very powerful dragonstone amulet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkElEQVR4Xu2W32tSYRjHz4OInEPYjShTmpiMqIstBuXASkf72UTRZWabm1mZsx+05iIYlEUwaDEh6qJgXlQXUTBYEAS7aHTT7a7273zjeQ9HPbaRv44Xoy88KC/P834/Ps97zqskHS4R9o+uqmocGR/Hcj6P92treP5oGXeupzE9NdVNMEImmRTGS7mcgPhSLmNvdxe/d3aw/W0Lmx8/YKNUwurKSg2UIXCEuStx0YGF+Xm8evpkn1HVh1onWyyd7hjh3o2M6A7D6A3/JcJRq7WJ/IZEWLydrTkfzYhgt9laqDtQhGJhCReGhlrclHDM6Wyx9i8R1p8V0efxtLEh4Xhvbxv1OhF6HI42NyOc8Hrb3KOizgB18Clrd/6d+EE6tQNEmBgOtlh7oAhul6uFTQnpRKKTo9LUChCJ+y06OdlkXUNq9pHlPEI2lWqipimRuECDfn+dgWpcXVO/89v85swMrsWiRgGxCKHRUcxenq5AnDP5RVgl9Y7iOy4eDteMyTAYTeoY+GxoME7JKYD4P9GlkYsYCwS6A1IbiyMWHRBH9Y7rAkzMHIVbcleiMGaBz+SrAPVJXgyY+ithIBQhaArg+10FPx8qeJuUBVAxpAJx2CQbBk2DleB82xHJCCjCp4wsTL5mFWzlFWw/UPA6IePWebOAOSWdFEC89qugiOB8n8dkLBB/vgzZ8SbmQPlqD97NygKIR/V4woL1iB0/7qswq1ELYqfNsMod7xJhM6eabMzJukPNgNwdHl/yrFmscQc5dyFgxoDLkA6xSJjw2akaqObcHQbSxsNj5bMV7jcMhkWiO6W4Huhzyon0GSuGvbIIDZy7YyCMJhLnQm9UHZ8WLyL1OYaqEaNGcv7rEOsPc+ijCs5yyU0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrElEQVR4Xu2WzWsTURTF5zGEYYLETUhogk1jKKKLthQ0hahJsZ82JCQ1xtimjVFjGj+wNhWhoFGEgpUWRBcKzUJdiEKhgiB0YXHjtiv/nSP3DTOTSSvNx0wW4oHDMC+X3F/OfZM3gvBvieFgd1R64/j4OJZLJbxbW8Ozh8u4fS2H6ampToIx5DMZ3nipWOQQn6tV/N7bw6/dXex83cbWh/fY3NjA6spKDZQlcAxzl1M8gYX5ebx88viAURk90NPDr7IkmZ0Yw93reZ4OwdQ2PMxUd9ThqAE0RQyLtwra/jA2PEwMLqfTTCCGSnkJ54eGDDD1VX8XwzGPxywghvWnFfT6/S3CkBiOd3ebB9TldrcBQ2I4EQhYA1T/aWPSn7LWv0NTu/M3I2GD2gFimBiOmAlDYvB5vS0AMeTSaTNHpaoVIMbPt8TkpNnpkJp9ZJV/8EI2awUMifEDNBIK8Qa167r1e/o3vzEzg6vJRBM/omkxREdHMXtpWoM4K4a4HYJyRtEZl4rFtDFZlE6tlDHQ3lBhPIKHA9E70cWRCxgLhw0gFsEYXycWRyQDEFk94zqSStKWgE/waS6PSQiKQQ2oVwigX+zTrIBZIoaIGMa3O3b8eGDHm4zMgSpRBYjsFJwYFAc1U73ziGAFFMPHvMybfCnYsV2yY+e+Ha/SMm6es3GYU8JJDkRrP8t2bqoP+kVtdPXf2oZ0ILq+iLrwOulG9UoX3s7KHIhG9WhCwnrche/3FJjVhITkgA0O2fSUGLaKSpPNOdmwqQmQ0qHxZc7Y+BolSLULYRv6vXpCpqdETWjv6CNQmlM6BKSOh8ZKeyvWZxkMifF0NlJGoE9ZD3KnHRgOyNwqOKVjIYwqxveFDqSs1ft5XK+xEEbV/kbqvb6+v8ZSNdKokZr/Mkt/AAULB3NmoVrkAAAAAElFTkSuQmCC",
     "wiki_name": "Amulet of glory (t) (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_glory_(t)#Uncharged",
     "equipment": {

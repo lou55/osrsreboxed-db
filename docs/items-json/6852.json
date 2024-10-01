@@ -1,7 +1,7 @@
 {
     "id": 6852,
     "name": "Puppet box",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-12-18",
     "duplicate": false,
     "examine": "A box for storing completed puppets.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xu3Xa0sCQRQG4F0kIgkjlCLBwkIFjSyhTDJUpKLwgxRFFyoKIYqKLhRBFAURQdBfnjy7nd3Z48zqeKmIDrzfVueZOTOzqmn/1dbSmZlfUTq7O51l+czwF4rPt5fORkIai4SdiUc1tlGKCYAdRZoYGQiTjHusyJEtQ20MBfEYCoKkks4c7U6ytZVoKygnRgVEMfhMEyB7aSmGB7lhKIh/ThGkG8sK/Q8OajVpBkSft/dWQ6Wzs8OUMQs6AEBlIPosxfCfUQZdVKaFIDoYblIZiLYYs1WOq4NgFnQgukllKWZHWCIWEO67pkBXRzMOEB1QlnTKzMn+FIuN+aWHYWc1oQ6CWfArRAenQQwE2gggPAQUpQy6OU5boHqrxEMwle1kdeB+x8nks7c+rg6CWbiBKILPweaEA0RRyiB4mwMIjynfNjq4KDBgOOQT3mEQACuB7s8zxpfyd02joGzaY0xGBEKUMujxck4KckMBBkGhYC8L+GtBENhjSqDn6+zXPrBvV7e2IQQDBwJBIpQy6OV23gDhMaWrJINg4A4bGvBaIAqDa0EJ9HqXM2YhAyGKQjDw2hGBMMqgt/u8A+TWNoqBlJci1YF7aiAQE9IwBkpn7w8F680uWyUZKD/nYaWFMSFIEYKls4+nogHCYyoC0bYBBAOgPl838/W2jMEyl5UH1WsbD1oujFogSIsYvrDfZugqyUCLuTDzervajRGVEwgRtQ1+DwGowxhZ1SLhX+0PgkSFuD9Un6nDS+NjAza6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu3X7ytDURgH8HtbkqVJRNQwYjWyWTHLZBIiL0TkR4hWi5Af0UpESUr5lw/PvZ675zw757rHNnnhqe+7u3s+5zzn3LtrWf9V07KFmz9RtiidTop8tucLRfPrZYveqCUGY3ISQ5bYXIkrgHVFuhgdCJNMhLzokVVDyxgOohgOgqSTcop7KbG+PFQNSsaYgDgGr0FQqq8vKKq8tBxDQX4YDqLXGYJsZ1mh/92dVkV+AuLX494KDDo7Sjuz4AMAVAfi13IM/Y0x6KIwrgTxwXCT6kC8xZjt1YQ5CGbBB+KbVJe5XK8Yjrcr992PQFfFCQnEB9Qlk3ZzcjAm4gNt2sOwuzZsDoJZ0BXig/MgBgJtBBAeAo4yBt0cZzzQd6tEIZjCTvJz4FbpZNLsb4yYg2AWfiCOoDncGpVAHGUMgrc5gPCY0rbxwVWBAWPRiPIZBgGwEejuPOvclD5rgoJymZAzGRUIUcagh8spLcgPBRgERbubRXtbJQgCe8wI9HSd+9oH5aerX9sQgoEDgSAVyhj0fDvtgPCY8lXSQTDwDOvqCHsgDoPHghHopTTjzEIHQhSHYOC1owJhjEGvd3kJ5Nc2joGsLg5+DtxUAYHA/RETGPR2P+u92XWrpAPlp0JiZX5ACaKQgBgoW7w/zjkgPKYqEG8bQDAAaok0ikizGsNHDFDuslLQd22joKXZfg8EqRLjlvtj+UuBr5IOtDATE+FwQ+0wtOSe808ZW9k2+D8EoJpjVEWBOiR81VIQv0fdS4es++qYVLWYDy+sjdWfovWXAAAAAElFTkSuQmCC",
     "wiki_name": "Puppet box (Empty)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Puppet_box#Empty",
     "equipment": null,

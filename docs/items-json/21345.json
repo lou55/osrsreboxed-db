@@ -1,7 +1,7 @@
 {
     "id": 21345,
     "name": "Superior mining gloves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-06-22",
     "duplicate": false,
     "examine": "These will help me mine Mithril and Adamantite. As well as improve mining Iron, Silver, Coal and Gold.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+0lEQVR4Xu3VUUvCUBQHcO9DD4IsRiOZQ6WJii40RZSBZYJSUSBIRSFRCEEQBEEPQR/+5LnrbHe3GRvZtQf/sCdl+3HOueemUptsoiwMlj/Kw6DRsKFWzYNtm1AsZME0ddD1DGhaWjWKQa9bg1arBI5ThHLZ4ijLMsAwtjlKOch169DpVCKrhCiFIAaDo4YPoioRCquEqLWAqG1UJWwdVglRykH9/j4HiW0jkEIMhsFweOCDxApRyxSCvB0jg+STpgDkQYonN5AfTsHsjSNBiuaHQWn6CPbFvQ/Kdo5hu9z8hiG4/IYg4iYXn9hhUL19gfLlE9iTOeydzcAaTHxQ2shFvHz5Q/Mmr4kEKAa12StUrp95lWRQ+EWM/4bt3G0dgl5rg2Y7vK20IsS9RVWl6yYmikH97o1XCUHYsmiQN18c5J6GQLgi5L31K5Dz8M6rRKBc/1wCMd5Of+C/QDtOl4NGo/aPILr/4oPmH6EKIQg/SCBspwxCMILwP3FACa6aAIQfLYyvloJwvhBEFeQVKlZDO0ueIfFCjgnCBKcEQdQSBOF8ySBxhjKWDVuaHhpqOmUiKGGVxISPsQjyh3pxyoymy+cn6VqQv5Yw3krgO2qxNKmdYrtW8JGk8bY4tksEYbvWgKGw0Pxgu9aIoQRb+h9gKCsZzE02+ZN8AgefAnOzRl3iAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xu2VzUvDQBTEuwcPQmkJBiWGWo3UUiP9oiiF+lFoUVEoiIpSRCkIgiAIHgT/+NG3+tLNmkhiceuhA0sPCd1fZt7OZjIzzWRMAvHLuASqVQ+VcgGe56C4sgTHsWBZWeRy86ahBHa2K2g01uH7RZRKroRyXRu2nZdQ9E59ddUUlEC7vYlWayPSJYIyCCSwv1cNgNglhiKXCGoqQBwbu0TRkUsEZRyo09mSQGpsDMQwxoC63XoApDrEkRl1JwpIP2kGgD5BiodXKHTP4Oz0I4EMzY/A+tk9vNPbAGipdYB8qfYNhsHj50dv89StLlC+fkLp/AHeYIS14yHc/UEANG8vR/x5/OJ502siBZRAZfiMjctH6ZIORM/Hbgj5jOJcbOzCqjSR83wZK1eE2lvsKl83CaEENm9epEsERJFFAdEvP3PaRyEgqgi9t+KAomMOScC/e5UuMdBy5yQERIviDAb+C2jB35ZAvV7zRyC+/5IDjd5CDhEQbchAFKcORMAERO8kAUpx1YyBaNOV/kUsEM0XAbGD0qFiOdRZ+gypF3JCINL4lBAQR0JANF86kDpDWdfDXM4KDTWfMhVIdUnfPVLqSVKXChQM9ccps2ttOT9payG+v36QCkfDLjvqozQ5TjUudZOkS98vpT5bnOJSgSiuX3/x5BKh+aG4pgjDGrf0P4BhTTCYf6V/BTPTNPUOIfBEZadvCP0AAAAASUVORK5CYII=",
     "wiki_name": "Superior mining gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Superior_mining_gloves",
     "equipment": {

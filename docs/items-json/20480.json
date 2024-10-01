@@ -1,7 +1,7 @@
 {
     "id": 20480,
     "name": "Void ranger helm (broken)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": true,
     "examine": "A broken ranger helm from the order of the Void Knights.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xu2W70sUURSG934SJTYkSVQyTDLM0Awzw0zDzMwwf2ZmppmZmWlmtphpFlEQ0b984rnD2b0zu+puO3c/eeDAftm5z7zve87cROKkvJSRo7tkFRz49sWCLM3OyrPJCXk0OCh93d1yrbVVLtTXy+lkshRQAciX9xuyvboqG6+W5M38fE6gM5WVPoECkD9f9+Xnzo58/7Qt+x82LRQqPX88JWNDQ9Lf0yPXr7bJpcZGqamullMVFT6gApBfu7vyI5WSg49bFgYoF2hieFju9fbKjfZ2udzUJOfr6nzYZuTvt4MQECBYtvl62dqlMPfv9Mntri651dkpbS0t1razVVVxq5QB+r23l7ZLgZbn5mx+XCAydKW52YdtmdwAg0IK9Hl93QYaIFXowd3+dKgvNjRYy87V1lrbysvKioUyNic0agBAp9bWbPNbFQJoamQkDaShxi4mDYUAKgLKhA4nuFsrKxaA1t0DyJPRUTtdwDBhahkKAaQgRQCZEAC2vHu5aCEOA2GyUOZmR0cIxlWmaCiaCcISIKIgDwcGbIhRhali1BWGIGMV2YkRigrAaEAILttYVcEeVCEzjDkwhBggzc/xUAWDZaCOa/aOTla+UAWqFdi2ODNjd41rF/a5vTA9HWr+g3KAZR8e7bzL2L3DxBFs8qRw7t5R23QZopLmKFmesP0fauSq4HqR/UYmfeVwwQh2FCpmIOowWbMho02mvACRkcIfZOzUeQFi10TfPp/GOi9AmhXdQboQyY1eN8gPwWY5spPIEnciL0B8QpguPqA69rocc4G51w8XJjYgRp+PLBPnquWCAVUiIMrYZRfNyFHNEgXKhYkViK8+h2Q/MAOBYixJN0+6k1iSMQJRxubo6fhYSAnyhWXsnKhKuTvWCnYSOSJP5MjjYfmW1zc+qYLqHyeaEseo4HMHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4Xu2W70sUURSGdz6JEhuSJCmZJhlm+CPMDDMNMzPDNDMzM83MzEwzs8VMs4iCiP7lE88dzu6du7PuLjuz9aEDB/bD7t5n3vc9Z24i8b9iKU+O7rKVf+DrZ4uyPDcnTx5Myb2RERns65NL7e1ytqFBjieT5YDyQT693ZSdtTXZfLEsrxYWQoFOVFeb73Y2NsYB5YP8+nwg33d35euHHTl4t2WgUOnpw2mZHB2Vof5+udzZIeebm+VUba0cq6qKQyUf5MfennxLpeTw/baBAcoGmhobk1sDA3Klq0sutLTImfr6tG0RquTJ7y+HASBAsGzr5YqxS2Fu3xiU6729cq2nRzra2oxtJ2tqolYpA/Rzfz9tlwKtzM+b/NhAZOhia2uWbRGolMkNMCikQB83NkygAVKF7twcSof6XFOTsex0XZ2xrbKiolSVPJMTGjUAoFPr66b5rAoBND0+ngbSUGMXk4ZCAJUA5QUOJ7jbq6sGgNbdA8ijiQkzXcAwYWoZCgGkIDZQkdZ5AQBsefN8yUDkAmGyUOZqd3cAxlbGhXJPzVN+dpggLAHCBbk7PGxCjCpMFaOuMAQZq8hOZFC+rJl3EiAEl22sqmAPqpAZxhwYQgyQ5ic/VJFgNlS+Zu/oZBUKVaRavm1Ls7Nm19h2YZ/dizMzgeY3KAdY9uHBxo0Cg+6ZvcPEEWzypHD23lHbdBmikuYoWZkwbQMpgN3uyTnKv164T0TrlcMGI9guVC4g96QiKihr5omyId0mU7EAkRH/kGC5kC4wUxcLELvGffpCGutiAdKs6A7ShUhu9LpBfgg2y5GdRJa4E8UCxCuE6eIFqmOvyzEMzL5+2DCRATH6vGSZOFstGwyoMgFRnll2bkaOapYoUDZMpEC89TlE/9CeJm0UY0naedKdxJKMEIjyTI4e358MQJAvLGPnuCqFdeZBIil/J5Ej8kSOwg7L1+6/lljhTxzTYYXVPwHxN+oPN3RhoAojF0sAAAAASUVORK5CYII=",
     "wiki_name": "Void ranger helm (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Void_ranger_helm#Broken",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 5934,
     "name": "Willow branch",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "A branch from a willow tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xu3W/2tPURzH8d3fpURkmlrSasokrfaD4if5yUQIEUIkJaK1LF/W8q3Vmi+hraY1azEpISL+sqPnub1u73vu+Xx87hfyg1Pv7rdz73l8zvvc9/10df37LXHxiF3/4y1xD0cPuPsj+31M3Bh249f2+RBifuqUm5s86WYfnYigwh9RG56ChAKkCDEzD467ZxNHcwNzzLUw8qhSyMRN3jxYQLEFohDoyfgRN3XrkO/LNgaiv0V/Wxp1XxauVkMJxL5mR6AX9455kPq2AnHf18UR92P5tvu5fNeDSmF4qH61QAwaA03fOZyB2I+BFqZP50DsdwhKcmlgIC1ujkMQg4NQemMgnrn09GxzIM0S52IgzaRAzJrF9HSv8FuBiFIgrYsQxOAhyC7oEMSzentW+u27l+fzoNfX64M4D0gozaR9IwGlAyVuc+8qvwX3fuZCsyACgAVpQXOP+rA/0L/W9W1anWHo+3HuUgb6/masUwwtD7IoHh6C7EwIs3NwQ4YR6NOry1VBtPTh/Pp2IFVogWIYgT7PX6kKSmsQM/Q7kOCAwAzt6PbHpNaC6G9BJYpi+rAYiLAg+m7fui6LwW3r/TnusyDgjYKEIhiAiqv0aPEKA5r7wnQ1BrKzxJYBhNnStyYreMK0Ai0+PpOBqNIdYmjpGxYDaQEzG6wVFu+uoY0+XXrFYyBmh8+GnaFKoHAdWYxmxUZshpSut8/PNQciOA9EGAbhui2a7GsmQxBV2oJKoFJQmDbOk6IqIF6CD7MXMxA1qEQdyoO0blgrgFT0GAioxcRAwGuDeMtagdhnAAaz/4EsSF96pasxkFCcG9474Pbs7s+BGDxMl0A8QyBeeQuiBpWuQ7G0KVWA6NMOZNdPI6AwbfocaBCuxRY0oc+G0lUTRCvWmFiE60cRgiiKFqQoAeq0FZEKu37+IqhdKyKL8b/Va78AHzQ7E418BjUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xs3W7UsUURTH8d33EURRZBhKhGCQEiH4IqhX0auMoqKiqKgoIoiiECl6EOkJQeyBCgVDTKSMICqKov6yG9+7/MYzx7vbzu4UXjjM7OydOR/PvXPWSmXlj2pIR+r7fz6q4fHIwfBw+ECMsZtDYfT6/hhCzE6cDjPjp8L0k5MJlP8j2obXQEIBUnjM1KMT4cXYsVxiPvOdjzyqELIaxm8dWobiCEQh0LPRo2HizuE4l2MKxHyL/rEwEr7NXWsNJRDnqo5Arx4cjyDNrQfivu/zw+HX4t3we/F+BJGjv6srhs/uRq3s+qsFImkKNHnvSAbiPAWamzyTA3EukM/uRjW3DCTS5uazB5EchJY3BeKZC8/PlQdSlbiWAqmSAlE1i+nsWBWPAhGFQNoXHkRyD7Ib2oN4Vnfn6nj88PpCHvT2RvsgrgMSSpW0byQgnkFs7V4Tj+A+Tl0sF0QAsCBtaO7RHM77eteHni1rMwxzP89czkA/393OMIVBFsXDPchWQphdA5syjEBf3lxJgnz2OqP2cP76RiB1aIFSGIG+zl5tFVTrQVTobyDBAYEZ3NkRP7O0FsR8C7JN0Wd3o/awFIiwIObu2L4hi4H+jfEa91kQ8FJBQhEkoONqebR5hQHNfX65SgPZKnEkgTDbetZlDU+YeqD5p2czEF1amKZAvDkpkDYw1WCvsHl3D26Oy6VXPAWiOvxs2Ao1WR3GEsjvI4tRVWykKqTlev/yfHkggutAhCEJ39umybkq6UF0aQsSymdPjBrILxvXWaJWQLwEn6YvZSB6UIE+lAdp37BXAKnpkQioxaRAwNsG8ZbVA3FOApLZ/4EsSL/0Wq7SQEJxbWhfX9i7pzcHIrlfLoF4hkC88hZEDyrch1LLpqUCxJxGILt/SgH5ZdPPgZLwXWpDE/rZ0HK1CWIs7zGp8PtH4UE0RQtSFABVKmrrjcIDbdj9Uwqo2eGRzWAVS3P/0/DIVPh7VvT4A2k4hZ9t2oWUAAAAAElFTkSuQmCC",
     "wiki_name": "Willow branch",
     "wiki_url": "https://oldschool.runescape.wiki/w/Willow_branch",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 16605,
     "name": "Glowing fungus",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-21",
     "duplicate": true,
     "examine": "A bizarre fungus. It glows with a pale blue light.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xu2V7UtTYRjGfT5JEEEQfZG+FApSWIaYgmUjaytDs2VqYzamzbnpnC5bzpd8a5aZmdPMxGFmU0QcIlqiDNebGER/0hX3fThbaZbQ2dmHvODhcMbg/Liv67qfhISYSWDrL3ESgQg4m0b5GWcwAXf7a9gaBlB+pwP6Mid0BeZ4QEmTqG0cQoW9B6XlbhToq3HxihG5eTeRlXNVTSgBT1cAFkcfjBVtKDa4kH+9Chd0BuScL0Jm9mWkpeciJTUjVlByLqRjd/lgrvaizORBUYmDLdJcKkX2uUKczszDiZM5OJaSjqQjyTh0OElJKAlg4s0cpgJBDI1Mwursh6mqiy26VmyHNt+Es5obbNGpDA1Sj5/B0eS0CMz+AweVAoqCBGYWMDu3hMm383g6MLbNoowsLVv0O5jExH3KAckg88F3CC6s8PPlWADd3kHUNbSwRSrBkASmZxcZZHFpDcvv17G0HGLI5z4/Wh/0/hUmJkAEs7IaxlroE1bXPvC7f2IWj/tG0Hi/Uy0YUhQotP4F4Y+bWA9v8CEbKeDtXf0wmFvUgJElIkCbX7+zbfQ+Nx8NeFOzl/fOzzAxBCIJng5liUBoatQ8CvezwfFIwFWAkXYQBVmGoDUwNj6NF6NTDON95ENzaw/q77bBanPFEkjg88a3CMS4f4YhfMMTDPKk/xV6eofR1tHHwa5xuGGurI0dDLWJIMiWrRA0FbKp8+EA54fssljrYbxtURpIskhu0E4Q1Cz6H+0h17122GoaYTLbUVJm4vtLISDBdaaJ7ARB9hBE9IMCDqcHlZY6GIyVKNLfglZXqASQ4Ab9CYKCS/Zs/5g01V/PP0lqEe0Uug52AnF7upX42G4k+Fqg3JBdco1lCGoQ5UQlGFmCFx7dT7R55bDSbqEGqQwjSzCQbBvB0G6JE4wswUAUarKKNm+cgUiCgVQM8W6kSH33tKf/Wz8Ac+/PVEd+pZsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xu2W7UtTYRjGfT5JEEEQfZFACgUpTENMwTLJ0jI0M1MbszFtvkzndNlyvuRbs8zMnGYmiplOEVFEtMQh2psYRH/SFfd9eKZtzhTPtj54wcPhvHDOj/u67vs5ISF+k4DnlSCJQATMdYN8DDKYgLX5A8prelD4sAU5BWakZ+qDAaVUorK2D0XGDuQXWpGZU4ZrN7VITr2HhKRbgYQSsLU5YTB1QVvUhFyNBRl3SnA1XYOkK9mIT7yB6NhkREbF+QtK5kJZRosD+jI7CnQ2ZOeZ2KKU6/lIvJyFC/GpOHc+CWciYxF2KgInToapCaUAjH6cwbhzDn0DYyg1d0NX0sYW3c41Ii1Dh0spd9mimLgURJ29iNMR0W6Yo8eO8ztiwsMPCrUF4pyax/TMIsYmZvGqZ8jLoriENLZoJ5jQ0CPqAUmQ2blPmJtf5uO7ISfa7b2oqmlgi/YKowrQ5PQCgywsurD0eQ2LS6sM+cYxgsannf+EUbE6JAWIYJZX1uFa/YYV1xc+HxmdxouuAdQ+ad0TjOpAq2s/sP51E2vrG7zIRgp4c1s3NPqGQMBICTfQ5s/fbBudz8xuBbyu3s5zZzuMylZ5SnB1KEsEQlWjzqNwv+4ddgd8JxiVgZQZREGWEDQGhoYn8XZwnGHszx2ob+xA9aMmlJZbvIA833gACXzf+OWGGB6ZYghH/yiDvOx+j47OfjS1dHGwK0xW6Isr/VUdwd1EEGSLJwRVhWxqfdbD+SG7DKXV0D4wqF0dxSLZQb4gqLPoOZpDlsfNKK+ohU5vRF6BjvcvlYAEtzNVxBcE2UMQWx8UMJltKDZUQaMtRnbOfaSlZ6kBJLiDdoOg4JI93vn4+y/A+/6+pXQRzRTaDnyBWG3tPj8mr21f2+/vU4K3BcoN2SXbWEJQB1FOfMH4SYIHHu1PNHllWGm2UAcFGEZKMJC0jWBotgQJRkowEIWarKLJK4E8nwygBAPtFuIgSJX2VVf/FcyhDrUH/QHUxQ0IR+Fv4gAAAABJRU5ErkJggg==",
     "wiki_name": "Glowing fungus",
     "wiki_url": "https://oldschool.runescape.wiki/w/Glowing_fungus",
     "equipment": null,

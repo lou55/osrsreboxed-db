@@ -1,7 +1,7 @@
 {
     "id": 3269,
     "name": "Storeroom key",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-05",
     "duplicate": false,
     "examine": "The key to the Troll storeroom.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB80lEQVR4Xs1X/UsCQRB1/4p+KyoqrMgUvyIxRc0wwaQ0ExP7ghCkEPr7J95M452XniK3ng8ed64L85x5OztGIoHDkHclRBgqZg5pQ0QZqhfPmPnUQdiiDHVqSWbrJkG1/EmYggy9PlwyB80s8/46TtXc8Z+oebQCQ6NegTnsXk343MjQXTlG5YsoC0PGUEqsQaxFn0mpnADCr36JM9atp1kcsobPH+0cC4NQa4Lgmf8mNvTzVqHxoMxPJcQjS045A4fhEuQS+zMCTHsGpUTGsN+i6UVQ9nx3QQDD5UL5kFGUzX//yhBB/p6QDH128uwlLdv8/StDAukxd7I0TW0JamotW8CCxBPuYw5fRPe2WBgyhqBuolRKZClAQZJ+pYrSX+495qDubVeOXNkLBGJOdxA3x700fXdTNHpM0LAVZ743Y9S/PQ1aCCB+UEFuYV7fzGagmDanCrMUzA8SUC9N9cZT1Vqn9YOZNDK9kyyYclmYyalBV8XTEbN2yA2udw56Sim9E54YLQ9osc0vAzEvROgsoxeihVa/CHKs1cT6hDh0YXy3xkw5N7EaGUKwhkEK75gA8b3FscELOeLqGVDLhuHrpSFCsGZxuPJCDI0sICjeMbwXktsuAWvvQZIp79Du3bVmyGmz+FdlFYhfNk7UBokJD79OX+bEXMSD2QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4Xs1Xa0sCURT0/oq+lRUVVmSJqZFYkWZUYFGaiYm9IIIogn7/ibmnWdfbWmF73QaG1d11z+ycuQ9TqdhhxD2TIIzsFRfln4gycrK3ZlnZXEhalJH2Ud6yeZiTo8qKFbSeTichysjtxbZl/6xkeX6wIfXy8qdLo+gFRp67u5ZPnZ2A142inFazUt3KWGFwDK3EOYj1mDNt1aCA8qW3bx3rnBSsOLiG7w+tshUGoZ5aamxmGGIU0CJG3u9q8tav2iMJ8XCJ7fQiCC0o5+YjCgxnBq2EY7jfY+hVUGl9NrJA2DG0C+2Do2hb1P0xQAV9nwl16LFdsVli20bfPza0EIc5XXLJKYGhZttiFqSZCA9z5CIzN2WFwTEUDROtIuFSjILUfpKi+ObuMAd5b6u2FDg3yNefoOEMFwnzrVuQ186mPF/m5Km5YXl/lpXe8eoXIbGICb91WJibmyjGKAQYDieFRRX7ju5Tx4AW5KLJbFzVBzNtjMV+ggkmMq5JHkL5W5hg1GBWxZFiJuwKoCs41xzMKfuFmSRcAdQZtAd0p/mJi+Faw70MF0RO9e4vPEKHNUPMI8RhFsY1OuX+0gMGKzGDDCE4h40UPmMHiOvcNrhP8AAd4swMyLZh83XTUCE4x82V+wQP0EDDBRTFZ2zed/PTQahVyEQDrk65m/awgAmKIXS0UVQCAqKgefH4/2kcfG1X4khCzAcqwDn5tXRbYwAAAABJRU5ErkJggg==",
     "wiki_name": "Storeroom key",
     "wiki_url": "https://oldschool.runescape.wiki/w/Storeroom_key",
     "equipment": null,

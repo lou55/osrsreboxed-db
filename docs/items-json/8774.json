@@ -1,7 +1,7 @@
 {
     "id": 8774,
     "name": "Steel kiteshield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A shield with the symbol of Varrock.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACa0lEQVR4Xt2WTUscQRCGnYMsszdRIipRVGIwBo3iVzAEvYWQQyAQCAFB0ICQEAQhIoIifhw8CIKHHAQPQg4BwV/Y8nTl3e1px0tmBhcLXtgdmO1n36rqqra2xxGJi588YCRuYmzMtQiUwcy8mnAvR0dbASrxMHOTk63gUuKmxsc9zPVhvRVcSjzMzVHdA/3ZTb1Lz4eHHwLKYF5PT2eAcOzFyIh7Njj4DypPlUTSgAmBLn6lPm24BBQa6u/3Gujr87oLWBjUYO4DOv1uUDgFmOBisKe9vV493d1eBaAS92Z2tgETA+2t1NzOsmnrq2nzi2njs0lgAioME7qDwn/841O71/rHpvSsZBgi645+nJanoOmylfftbu1DFkbOkLoQpiBQ4t7OzzfcAUa1RMchoKiZGETpqswdwQDBM75ziICQQKTYHd4pAGTu6HDBcAAFDSTddfyt1gBCIVBl7oRporP+7tfd+UbqDlZrHioPKHanMAzuqJDDmrnaSd3vTXMGIJQHJHeAKWHeNd0hPYKRzn6m/q4BILwMBVSZO8DEQByCKxoTIQx60tWVcadgIRNZd2IgDuFgjQZ9RsCU7s7iwkJmPCDNImrnZN1SJYgQJq4dnhUGimeWdLltQ1RtLhAABFOyO4TVD67Q2hKtTpvjDoMUgM6ODi/BxO6UUDuEpYw2BwLR5loxcIeJHl5+Fd07YdjuQwGTJhS6cx9QeCuXvPw3gZjoFLLcod2BCved2B1UIgxhhS0ghidAOCQoLWJ57vBuyUCELfThzsP1n7emqtMEVAEMcRdIUAAJSjACere0WBUQwQ//jx5h3ALzLhyX5KRxDQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChElEQVR4Xt2XzUtVQRiHPQu5nLuTJEnJNMkww48wMwyxXUSLIAgiCIQKBCUEwQihiD4WLQLBRYugRdBCEPwLJ56Zfue+ZzyCeuZwL73wAz1w7zw+875nxr6+/6MyFz/pYmVudnra9QhUgLk9N+tuTk31AlTmYe7MzxeW5sbGugWVuVszMx7m8HO7FyxlHuboS9sD/Xmfe0vXJya6ARVg7i4slIAwdmNy0l0bH/8HVZVGKitgLNDPndxvG5aAIldHR32ujIz4HAesDRpgTgL6vhGgMAWY4GKwy8PDPpeGhnxqQGXu3uJiARMDfVhrud0XIW+fh2w/C9l6GiIwAfGdTOc5JjTAWDvE/sWbT/p91h93omeJYaiyHX05I09DM2VrD/vdq0dlGJlh6yyMBYpXOkVlbmVpqbADjHqJiSNA0TMxiLarMTuCAYJn/M4iAiICUWI7fKa2HS0uGBagoYFkur6+bhVAxAI1ZsduE5N18LHt9rdy9+lly0NVAcV2asNgR41se+b3bu5+bAczAJEqINkBRufdOWGojh22RzDK3pvcv2sAsC9DATVmB5gYiEWwomPCwpCLg4MlOzUbmSrbiYFYhIV1NOhnAkxyO6vLy6Xjgegsone+rYetEoSFiXuHZ8nsxPn1LhyiGnOBACCYxHao0D9YYbQVRp0xxw4HKQAXBgZ8BBPbSdA7VNgyxhwIwpjrioEdTnT78mvovWMr3H1oYLaJWDsnAdm3cuLLfweIE51Glh3GHSh734ntkIR2qNDYAuLwBAhDgtJFrMoOn01oRxUu9PbOw+u/6pqqSRNQYjuq40CCAkhQghHQg/urTdhRxf8hnC4N2OmUvvysib/nrPUX3WNhZ8p1sJsAAAAASUVORK5CYII=",
     "wiki_name": "Steel kiteshield (Varrock)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Varrock)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 6209,
     "name": "Small fishing net",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": false,
     "examine": "Useful for catching small fish.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADV0lEQVR4Xu2WiW7aQBCG4xdomqMJYGMbjG/wBTY34U7StInUqsf7v8h0ZzY+oJVyh6jKSKO9bObzv7Oz7O2927vtzATYbHdmCCDAOmlS27Wr1Ob+qibA17ELNxMX5oFMvuw48H0aUPtl5Lwm2K0ysbuhyK+L7sZ4EBjkL6yaAMtRCNeTIgyf/3mewKzdoLnFMNhQqd9SYOzztc3fe5JxmHVbhRVTZzkOyQkgVGDetjOAq6ENfTZeJ3xuFHKl2pb0/FDXLHd+X/Zg3JQyFTD4D6ZQzAKi930DLsdeBjhoNjK4xFGfCpVvC/oqUmHi8y+eRzYFQ18ECnxmysSWSH1cD3UZ7LqYwfXYtvkmX3sklEAnB1u/dvhXkhZVuBxYEFoq5VHXa4BZPYaRp8GkY4GnlcA1FIhtBdYDXiYWHfMxUFyRxJaoTYGwnTMVep7Ov5y1A0fMtgX7Q79G3pBLNNdUj8GtidkHTCPtoUAcZurlBQ9BIqMCcVMjn/ly5tN+rhYqNWIwCBaw53FuEtYzOHRf5/PbUf9hea4UtwjHGDgdYzHsmCLlDwJ0rTLolX1w1RPqe4YMWvUUAosncat+CrXyAdhKGRz5iNbuASRQpcVg2P92FtCJwdOEbQqDnrQapAA65k3PqpDjGuYM9jEwQqTveI0yAZkqa9naHUDCVsnnQJgrCIPFDo80wp4FJpz3TBi08+fPuw6BUP64IqmGQdXSATk+Y2lViJ3inXenpQ+xU8CCpcUOQZes+EV2DS76Fs1hwKtJAEOm6CLWIXJ4zuCafwtWl06gxVSxqkfkOL4nSNH4dhSVmkUW3Ix96mMyIwyqsUx0CFhAnMd+26mzo85PnCUjyCG5KR+Do0mglD4+RJ2iFV8QqBCetbjUxdozZn89MH9wbpUYMGnxq8GsSxDoEsG0TRU6egm00ocMUDlNwR5txa/i/YTlURFu1W+ScqHNK7EpHfK2cNSbTNXYSMfPbpuQEUt4LAGq+AkMdl047PjPIgPceonGNTaPtemFYLYt30qDVeP0ekAPLIXUQrBXgkHj1wW2xcvTEPdpm/p2hfwZcuchxiGKQJaW/v+5HSv8RG6/+cKW55XdSIsgH0dmcbwTKwYXsos2n9uZCaBnx//N2JuC+Q/sD32HOGS/MlV2AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADeElEQVR4Xu2W6XLaMBDHwws0zdEEYoMNxjdgY8DchDtJ0yYz7fR4/xfZalfIFukRoAnJh+zMzuow1s9/rVYcHLzZm72YZWA9vpghQAaWcYVi281TTH2vloHPQx/uRz5MwwL5vOnB13FI8dPA2yfYSpmWv6bIj+v2Wr8XWuTPrFoG5oM63I1SmFDXKX6/imHSKFN71g/XVOpWNRgGfO7hG//DOMyyocOCqTMf1skJoK7BtOEmALd9F7qsv4z52KDOlWo46tND3bHc+XnTgWFFTVTAxb8xhVpsQfRuYMHNsJYA9irlBC72uKIP37yFiR/zly8iHUYB/+Jp5NJi6LNQg49MmZajUBvn62YB3JKSwHXYtgU2n9sRKkMnB2NQPP4tSWUVbnoO1B2d8qhdK4OdP4VBzYBR04GakQXf0qDlarDs8TIxa9q7QHFFYlelKIAwTpkKnZrJv5zFnqck24LtflAkLxeyNFbRT8EvKskHjCODIj8UGxmHGdfSgocgkXUBrYpBPgkKiY+7qVqo1IDBIFjInsexUb2UwKEHJh/fACjNFXmLsI8Liz4Ww6atUP4gQNvJgXlxCL5+Ru2aVQAjfw6hw5O4WjqHYu4IXC0HXuGE5jYAylClxcWw/eUypBODpwmjgEGPq2VSAB3zpuNckOMc5gy2cWGEEL+plXMEZOsssrlHgDIPSj4HwlxBGCx2eKQR9jK04apjQ6+RPn/V9giE8sdXSDVcVM8ekeMzjpGHlpemAML8Awgtrbwztpgodgg6Z8Uvcotw3XVoDBe8HYXQZ4rOWiZEHs8ZnAtWYCX1DKpMFSd/Qo59GeQRGGF8O2SlJpED98OA2pjMCINqzGMTQrYgjmO74ZXYUecnzikgyDG5XTgFz1BBy76X3ruVyXJmqBBeVrnUcu0Zsr8emD84togtGFX51WCXVAhNlWAatg5NMwtG9l0CqJ0LsC1sXc50z0U7Znkkwy26FVKu7vJKbKvHPEpHvcJUbVm8v8WW/dnkF8hgoh2xhMcSoCsfwGLXhceO/ySywC9lqV9k41ibngTmbyZvq1DLYtVYXA+0uKORWgj2rDDrxq8LjPLlaSmHtE1d94J8p9zZ3TiEDOQY4v/Pqq/xE7kHhbiJ7RPRLfOTmeSZLff3aOmC6+VDXLR7B5JNwJir47+npN7EXhUMt1cFs639AtF8dJqFwGSEAAAAAElFTkSuQmCC",
     "wiki_name": "Small fishing net (Evil Bob)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Small_fishing_net_(Evil_Bob)",
     "equipment": null,

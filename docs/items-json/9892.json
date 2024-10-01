@@ -1,7 +1,7 @@
 {
     "id": 9892,
     "name": "Mahogany fancy dress box",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "Mahogany fancy dress box.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xu3X70tTURgHcPcn9LIXFTEKllAtTI2GJi1WKmwym2PLrJVSRr8sG8u01GUtYzCWSUFCICZSvupFFEX9ZU9+z/qOc8+9s93dFb3owMPuvTve+7nPc87ZsaXl328+cQ6n7/9488niVFwKuQEVC9mY5O9GVRCxWroob4sjsvL8vAPKfAnP8AqIKIAYJubNs3OyvJCyPBjn+M4MK8oV0ifF6UEbCp+AMAhayiel9Cih+uLTCYT+OvrrxpR8XrvTGIogHDM7BL1+mlYg9q0Fwt99Wc/J981Z+bE5r0CuMLgp35ogPNQJVJ4bqoJw7ARaK2csIBzXCfJZyoAHcXDj3ATh4UCwvLVAGy9HmwdilnDNCcRMEoSsmaAPr8aqIIQrEMcFQfpg9BIW0Lt7v67/tllBOJ+8dkomrobl+uUTMp7plisjXZJJH5cLyU5JDbZLcqBNzkaPSOzMIemPHJRIzwEJdwekJ7RfQu1+6WzbK0eDe9S9mgK6f+u0ZG9EFOrm2EkFA2p0OKRQw4kOBQMq3hdUqN5wq4LpKIK+vZ+pF4NmBz2c7JPpiV6FMrMFlJktHYVMdR3bp1ANgtAqNccAxWc+F5W5bL9CmdnqOByoBlFm+ZAloBoEVdYgZIigwszWOvQgplC7d+5QsGCrX4UOQqZQPmYJKGYJKIJcLIqVKW+CivNbU382rlDIFkoY8O+ygRC4jiwBzuAgbxqo/GRIoZApPACZwoMBYKYYepZYOg5wzyAEQaXHCctb6xnRQx/g6KcPcNwLq3SdGLTKDDNBS4WkAjFLLBtnHge4PuuclgJmqCEQUbi2vJiqlo1jSZ91WApqrU966ZoKYpYAcspSPSiCXKAqIL1s6loxrUBmltyicC+sQS7WIStIRzUj8OPqGoRZZoK4pcCWAxstbCf0PRB2BAj81HDrgb7YqqD/x5Vx+bR62xvInG24roP0PRAxBLEvQOsvLllAWINcr0NOZdNBON4OxAyhb1NATmXTQfhO/69EB6EfQCyXRxCafTA6hTl+GCYIe2kdxHABqrfZkQx9/PxF0HbNjrTH/+at/QRH49YANtp+jgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPElEQVR4Xs3XbUtUQRQH8N2P0MteVIYUmFAapkaiSYalgoqmi2aWpZjRk2VipuVDlhkLYiYFCYGYSPmqF1EU9clO/mf5r+ceZ2WvewsHDnv37uzOb8+ZmZ2NxfZ+i4s/fK//8xaXudEWmR1pdjEz3CTTDxtdELEyf00+Jrtl+fUVD8p+iZzhKRBRADEs5sOry7I00xEYGM/xmo0gKhQyLsmx1m0oPALCIGhxOiHzz9pcXzz6QOiv0T/XR+X76oPdoQjCNbND0PuXnQ7EvplAeN+PtRH5vTEhfzamHAhjFOXlubCjm5ZKO781QRjUB1qYbE+DcO0DrS70BEC4JsiOblo8UAYMxMmN5xaEwYFgeTOB1t/2RgdilnDPB2ImCULWLOjLu740CBEKxHlBkJ6MuUQA9OmRuxcahOdDt87L4M0auX3jrAz0VEl/d6X0dJ6Rq4ly6WgtlURziVxqPClNF09IQ+1xqa0+JjVVBVJdcVQqSvOlvOSwnCo+5D4rEtDjexdk+E6tQ93tO+dgQPV2VThUV1uZgwHVUl/sUHU1hQ6mUQT9+jyexuwK9HSoXsYG6xzKZgsomy2NQqYqTx9xKB/Ijp6hpWqOCYrH6ZFGmRxucCibrbKignQQZcuHLAG1S1BqD0KGCJod39yHnjQ51MH9+xysuDDfhQYhUygfswQUswQUQXpTtKObllryFpSc2lz6Ey0OhWyhhAX5B7aBELiPLAHO4CSPDLTwot2hkCkMgExhYACYKYbOEkvHCZ4zCEHQ/PO2wLfWGdGhJzj66QmOz8IuTUxWIKwwC1qcTTgQs8SyceVxgutV59sKmKEss4O2BSIK95bmOtJl41zSqw5bQab9SZcuUhCzBJAvS9mgCCLKju5pKZAum7uX7HQgm6WwKHwW9qAQ+1AQpFFRBH5cQ4OwyiyIRwocOXDQwnFCn4FwIkDgp4ZHD/TFUQX9vy4PyLeV+7mB7GrDfQ3SZyBiCGJfgNbeXA+AsAeF3od8ZdMgXO8EYobQNxKQr2wahNf0vxINQj+AWK4cQWjbJ6Mv7PxhWBDO0hrECAGKxbit7xQWqEPPn0hA2TaLzAbL2Or7n5pF+sK+Z0+3v5HnIJsWXqrMAAAAAElFTkSuQmCC",
     "wiki_name": "Mahogany fancy dress box (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mahogany_fancy_dress_box_(flatpack)",
     "equipment": null,

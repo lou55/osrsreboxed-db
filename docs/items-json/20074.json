@@ -1,7 +1,7 @@
 {
     "id": 20074,
     "name": "Saradomin godsword ornament kit",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "Use on a Saradomin godsword to make it look fancier!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4XuXX+0uTURzHcR+iHxQRpChqpKjYMGVT0elw0415aSnmWt5vGWYXlUK6EhSKLKMIwYKgH/upv/Ib7+8423mepq7YFtSBD/6w5/Lie77nnMeqqn9jOOLOXxl5QNB/QfzN5yQUuCSJcGMlUXnERLwlB0gONmtWUh2SHr1aKZAj9+c69YVTw625v2R9OigvN/rlw/O4rKUDlQPNj1/TzCT9mkcLXXJ3fl7WFxdlY3lZHq6uypPVXhmNNJUTlZ8mMIuT7bJwKyVLt9OyMjMtwfZ2Cff0KIrsbkcUWyZQFsH00DP0S7THp71DI7c21MuVS7Vyvr5aaqrParUyO0M6tWUD0axMAQEUCzVogJFw52UFkjuzs5pn6316XxlQ2dVkVtFxMFCEaexoa5P9x1Gd2rKAzErywkB5YfQTKEA0fFlA9I9Z4qBsWCZz5ILR3HNTU9r0rx+E9doSo7JNzaopBNvbO3RVzN/SItOTk4pitZVhT3K0F+y9x4YBMhUD1dsZlPT4uAYQe1LJQRwHoArBANkVo0I3x8YklUxq3mwOlPoocbTsoAzM7NZbWy8UZB8hjT6fTIyM6EoDBohj5XTQab/nhqMPJF4YIG/FqBAYAgwQe9KvL8zv/qSuuqrANQVH9kAlBmVggOyKgWptatKVdj0e09wYTuhqcx8ljqTCtdLdUS8NvhqprTkjS/G64kHby926p3hhZsrs/ooNDCgqEY3K6NCQogC59yRHvuz3ar5mQtlsXiwexEoxKPL9MNsXgOyKgRrs788dtqAInyXEBvEMA/p2UGhKjx2O7KyFFGXDeKAdAwMSCYUURqiYQVFBL+qPQDQlKAMDRY7ebbpwVK2vq0tRNLUNA+Tekxy9n3zc3dAUiXJyJffCeJi3v9gYiYGZinEvyX+4uUHv394rHkRTEoMyMKpiVwwY/dMdCLhgTKW5j16zq0TA/BaIvYR4YYC8/cVUgSI0Ob/bFT55TypqOPopwblkw3jBj88RV8VAceIbiH19/qVFv/i44egnKSgvDFCh/jLXlhBhD0cOnsYUZWCgClUsv9eUHGEPR//XIifBTH+VEWKGI59eJTQGdRKsAiCGPQ2n5T8YPwGzp7oiKaCqtgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaklEQVR4Xt3X/UtTURgHcA/RD4oIUhQ28hUb5timbNOxTTfmS0sx1/L9ZRm2XlQK6ZWgUGQZRQgWBP3YT/2VT3yf8eyee7qbs3YNOvBFcLv3fnjOc865a2j4P4Yie/7JsAAB7yXydl+giL+N0tGOs0RZiOlUTxmQGenmrGd9lJu4xp8HOzvdRil6sBjkB86O9Zb/IptzAXpVGKaPL1K0kfOfHWhp6jpnPuPlPF4eoHtLS7S5skKFtTV6lM/T03yYJuJdbk6bNU3ArMz00/LtLK3eydH6/BwF+vspGgoxCtnbiTPWpSqVEJge9Az6JRHycO+gkXvbW+lqWzNdbG2kpsbzXK3i7ihPrWsgNCumAAEoGWnnAIZEg1cYiNxdWOA83xzi61yYttJqklVUCQYUgmn09fXRwZMET60LVVLllWTCgDJh6CegAELDuwJC/8gSB0qHFYvHNhiae3F2lpv+zcMof7fO01ZqaqwaJ9j+/pGtYt6eHpqbmWEUVpsLe5LiXtD3Hh0GkFQMqHAwQLmpKQ5A2JPqDsJxAJQTDCC9YqjQrclJymYynLdbsfJRYt75D4fisgMlMNmtt7dfMkg/Qjo8HpoeH+eVBhhAOFZOrlLNYMU3REwYQGbFUCFgEMAAwp70O0h/VVHU0thQaxVLByoiKIEBpFcMqN6uLl5pN1JJzs2xNK82OUrkntloMw36Wqnd00TNTedoNdXigHYcinbWBnlPMWEyZXp/JWMxRqUTCZoYHWUUQPY9SdHXgzDnWzFSytbl2kFYKYJCfhyV+gIgvWJAjQwPlw9boBC8liA6CPcQ0PdDa0prAu1uRBilw3BDPQIDJB6JMAxBxQSFCurThutMkP3ZjkNxUwIlMKCQ4/dbNhyqNjQwwCg0tQ4DyL4nKb4e+bRX4FjYqkOVS27CcDOzv7AxIgKTiuFaxHpxs4M+vLtfa5UUNyUiKIGhKnrFAEP/DPr9NhimUq5Dr+lVQoA5FQh7CWLCADL7C1MFFIImx+d6hc09SYfV3NR4lcC5pMPwgJ9f4raKAYUTXyD69+WhlR7s9L8KQ/ErKVAmDCCn/pLvOiFO8eBKQ9HhsySjBAaUU8Vkr3EBoQ/Fv7WQajDpLxNi3q0OQ9Hn12mOoKrBBGTepc7DmoaT4mJl7MPsh2oxr/3b8Qt7KQeb+NRJEwAAAABJRU5ErkJggg==",
     "wiki_name": "Saradomin godsword ornament kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_godsword_ornament_kit",
     "equipment": null,

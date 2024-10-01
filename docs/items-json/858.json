@@ -1,7 +1,7 @@
 {
     "id": 858,
     "name": "Yew shortbow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "A shortbow made out of yew, still effective.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xu3WXWsTQRTG8QYpix/JOy8ULwJWW6vVaiXaivWlEAxqrUrVUF8qhba+oNBCpdRStCCIiqLoJxv57/IkZ2cnIZtdxQsHDrvZnez8cubMZAcG/v1WceEI3f/jreIW50bc49mjcSzcOOKajaE4hNhcrrmNpbNu/elEAOX/iMLwBCQUIIWPWXty2r1cOJUamM/c8yONyoWsuKU7xzIojkAUAj1vjrnl+eNxX44hEP0t+vvOnPu6da0/lECcKzsCvX40HoPUtxOI733bnnU/d++5X7sPYlAuDA/VrxaIQUOg1fsnWiDOQ6Ct1XMpEOc9giqpaWAgFTeffRCDg9D0WpCdIqI0kLLEtRBImRSIrPGc+kTkGrXI3ZyM3O2LUXwNEJELpLrwQQzug2xBC8QzpkYH3cF9e4IZikFvrxcHcR2QUMqk+mjgkWrV1YYH43PV0Ie16XJBBAALsgUtCMH5maE2iL6fNq60QD/e3e0VQ0uDLErL1wf5GGrmZDUN+vxmpl8QLUk9g3UD2SkShqCQRw+lQV826/2Ckj2IDHUDhSCaOlbX8IE2iP4WlGNTTJZ8CETo4T5GNabsUNCH9ycrjOyUChKKUCYsxq6wq+NJVhSartJANks+hNAObTF8R0tdoO1n51sgdukeMbRkhfmgEMaGMGTLB5GdnRdTqQz1BRIqhJm/nPwVUC9gpsfCIE3X+1cXygWt3NrrFhuRa860IX6WwDC19p9eIHZpC8qBSkB22rj2sJ4FcN/u4p1AvHZ8XL/UArEH5diH0iCL4poG4Mh1iwmByE5hEKvMB+mVQiAGs+9AFkQ/O12lgfzVxnULsq8cwgikvoBY8hbEHpR7HwpNmwVx3g1k66cUUGjaLIh7oYIm6GfrpyCIll5NncKvH4UPYlO0IEUOUK8ti1TY+vmLoG4ti8zG/1as/QaQvirDOjuptQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xs3Wb0sUURQG8F1Chr6FH6G3vetF0YuFNM2yLGMzJfsjLC2VWWG1aGUIZikGCoaYSAlBVBRFfbITz1yemTNnzy477hReOOzsnbt7f3vuuXenVDr4rSx+ePf/eSvLwsygPJ8+Hcfc3X5p1PviIGJrqSqbi5dl4+Wog7I/omt4ABEFEMNi1l9clNW5C5mJ8R73bGRRuZBlWXx4pgmFV0AYBL1pDMvS7Nl4LF49EMZr9M/dGfm+fXt/KIJwzewQ9PbZSAzi2FYgfO7HzrT83nssf/aexiDMcaS3Nw47u2kh7fzVBGFSD7T85FwCwrUH2l6+kgHhmiA7u2nlzDJgIhY33lsQJgeCy6tBeokQhYGYJfR5IGaSIGQN31MbjaRejeTe1UgeXIviPoAQuUCsCwvC5BakC5ogfMf4UI+cOHrIzVAMen+nexD6ASKKmeQYTjxYqUh1oCe+Zg19Wp8sFoQAQIN0QROCwPWlvhSEsV82byagXx8eJZjcII3i9rUgi0HNnK9kQV/fTbkgO3uLFlKPydqB9BIRg0AhD53Mgr5t1fYLCmcQMtQO5EG4dNhdA8dTEMZrkD4U7eymhS3vgRD8cothjTE7KOhTx8IOQ3YKBRGFYCY0Ru+wWyMhKwwuV2EgnSULQfCE1hh8hludoJ3XYwkIpzQxHYGwcyzIw+ggBtmyIGRnd2U8k6EOs4OWgojyMLM3wl8B6gWYyWEfxOX6uDZRLOjV/cOyUI+kMZVCbJaAwdLqf3qCcEprEFF2dqcFkF429M3XmgG4r0/xViA8dnzeuJ6AcAblOIeyII1CHyfAK/o1xgMhO12DsMssiI8UBGEy/QykQRinl6swkN1t6Ncg/chBDEEcCxC2vAbhDMp9DnnLpkG4bgfS9VMIyFs2DcI9r6ARGKfrp0sQWvPB54WtH4YF4VDUIEYOUKnEY71dWKAOXT+FgDptFtkJlpGO/U/NIr2wnznQ7S/awnVP+0jKzwAAAABJRU5ErkJggg==",
     "wiki_name": "Yew shortbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yew_shortbow",
     "equipment": null,

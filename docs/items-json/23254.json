@@ -1,7 +1,7 @@
 {
     "id": 23254,
     "name": "Giant boot",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "Worn on head. Warning: Smelly.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqklEQVR4Xu3WTWsaURQG4MyiFEUiokQ0qMzIKH6gRowfxIgSa0yUamJtk4Y0rTS0JVDosrtCodsu+oNP+x45eh1riNYJFLzwMuMsvA/n3Ll3trY2w5ah0cNj+9CoUYpRNR+lck6n/XSE8skQZeO7HNzjeW3fpGYlYTdOo+5hlFplnQ5zfyZP+DnFVIBTyQT5Ks+zsR1OyvBRPOK1A6XRm056knYpQP26SScHBh0VI1QvhBmqwgACJuB1ktPxZN0ojd6fZTlXJyl6VgjQu16GcZfHSRocxWaAwAEmKFtAv+5M+jEy6OtlmL7f6AwCEFcgpaWoFiqFKqFlZshjD+jDIMeTA/TtegzCs5+fTM6jg1ANaVF9z8/3KkoFqe3Sg9v2gLA+EEyMRS0gQIFatH5sAmFovJgRgHBFpVAxrKFHBml0cVqg193iJPg9aO1Rt5Gh42pyZtOUDdMI+cjvddkLwnXYzs9gsDMLSHbwlBlkkNe99n1ovP2/PSvTda/E6Tezc5i/gcIBD/ncjnWBxhC1ItaoIJxhAkK7EoafQn4Xg9yup6uC5DDU5tojVTmtpWYClMAQdf8BCEcHQCtUaYqQ9lhRapsk0i45WFUQ3jCAVmjbdI2oCAS/cUWFUBEg0B41crqrkVceVVphYWs0enEwgxIIKgOI9fW2AuRzQw2qhIW9JGhcHYAEhaiVQnWAQTXUz4tFEFRHEvY7ace91KIeg25fVidRK6WuH7QL1bkPlI26KaVvTwJQ0OdYDnT7PEp35zH68ipBn4dxvv/YN/n5qGPQTdugq5ZO57UQdSpBPjIqaR8VE17KxzyMkKgYZPrmPnhoPCEmB0IFXDQjNGyEOcDgDBOMFSKZApaGqGP6B4IAoFfd5aAqVsz8xP8EuG9YJ1iUzdiMzfi/xm/JwMyaJbXN3AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xu3Wz2saQRQH8OyhFEUiomTRoGZXVlGDGjH+IEaUWGOiVBNjmzSkaaWhLYFCj70VCr320D/4td+R544TDda6Ofngy64LOh/ezM64sbEuR0qjxeN4adQoxamaj1E5Z9D+bpTyqTBlE9siuMfz2r5FzUrSaZxG3cMYtcoGHeb+Dp7URYrpoEglExJXfp6Nb4mkzQAlon4nUBq97exO0i4FqV+36OTApKNilOqFiIDKMICACfrd5HY9WzVKow9nWZHrkzS9KATpfS8jcFfHKRocxaeAwAHGKAbldnZWhdLo971FP0cmfbuK0I9bQ4AAxBVInlJ0C51ClzBlVtjnDOjjICcGB+j7zRiEZ78+WyJPDkI3eIrqe7q4l1EySJ4uI7TpDAjrA8HAWNQMAhSoeevHIRBKE4sZAQhXdAodwxp6YpBGl6cFetMtToLPg9YedRsZOq6mpjZN3jDNcIB0v8dZEK7Ddn4Kg52ZQbyDp62QAPm99j60ItB4+393VqabXkmk38w+wMwCRYI+CnhdqwKNIXJH1MggnGEMwnQlTZ3CukeAvJ7ny4LsA1GdHu7KaS09FaAYhsj7D0A4OgBa4viwETw9KkqeJg5PFx+sMghvGEBLTJu9RmQEgs+4okPoCBCYHjl8usvhVx5dWmJhazS6OJhCMQSdAUR9vVUA/92Qgy5hYf8jaNwdgBiFyJ1Cd4BBN+S/F/Mg6A4nortpy2sv6oVBd6+qk8idktcPpgvdeQyUjXkpbWxOAlAo4Fq0OyiN7l7G6P48Tl9fJ+nLMCHuP/Ut8XzUMem2bdJ1y6DzWpg6lZA4Miq7ASom/ZSP+wSCI2MQfmsX7A5KEwNicCBkwGUzSsNGRAQYnGGMUSEcBqiQBTFc9g8wAoBedVsEXVEx6sCzAEtA7LK//HCQWVEH/W/AY6UOMC/q99a1rnVJ9Qei2Q0stm4ywgAAAABJRU5ErkJggg==",
     "wiki_name": "Giant boot",
     "wiki_url": "https://oldschool.runescape.wiki/w/Giant_boot",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 2952,
     "name": "Wolfbane",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": false,
     "examine": "A silver dagger that can prevent werewolves changing form.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACT0lEQVR4Xs2X4UtTYRTGPci4LKKI/gTBIMFAhiloBLYPSQRZfSgVE7TUTFsWw0xbZRu2zHQuq9EYZjPGaITtQxghQfVB+tBf9HTPmV23ewU/3XP3wOHCe7mcH899zvveW1PjmgjJWAx8LV9bTS7b1lREeDY9jbWVV2XNCW/jcW9gHtweR3pp0eHOeirlDZDTCUJqft4bmJdPHiP75nXFq+Is5TMZbSBCdHISmUSiGtwh3B8bw7uFBZsThJW5OXzOZjWBCDf7ryERjdpCS1h6OiuQqjA9ly7uMeKle+xOMZ/XAiKcCwYRuTshI/7p/ar37twbGREXcul0BcyLRxFZ/1ooaAERhvv6pDGPeDGX22lMiE1NSZ4UjwjC1a4LmA2HpWnhw5rDHd4YvxeLGkCEzjMdMuK8t9hHnMPtnDbXRGgNBDA+OCCB5aa7E0TiGO/S7M6PzU23gQjH6uow0N0tGeER3/i47nCHj4jKgLsmQptRi8sHfAgdMmTEv33ZsNzhI4Pd4df4e2tLB+i0CdTl96HXhBo+6LNgeB96/nBG3KkMuKsiNPlqBeqsv+RUvwnFV3aHM8Xu/Pn1Uw/opFECCpp13l9y64oJ9N+d3b1ITWTBsDMMwy4NmnXLrORRvz4QwzQ3t1kwnCWGiR8xZE0dqLGxCQ0NJwSCiycuctiwAm5/wkUR6uuPIxBoLWteXuoitLd3eNXcLkJLy6nqgeHcVA2MhxmxixAeHd3j39wTEUI3rsthqXRy7yfCzJ2QfJoqffXtJ8LE0JAA/d3eVgf6B1Y2z1/OIHa6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaElEQVR4Xs2X4UtTYRTGPci4LKKI/gFBUEiwkGEKGoHtQxFBVh/KwgQtNdOWxjDTVtmGLbNcy2o0htmMMRph+xBGSFB9kD70Fz3dcy73cndX9Ome+cDhspfBefi9z3nfe+vqfBMhnUiAn+611fRzz5qKCI9mZ7G28kKaH2pokOfrZNL5ba2piHDnxgSyy888zQnrmYzLoJr+RoKQWVysDZ2nD+4j/+plxVZxloq5nDYdQnx6GrlUaifQIdweH8ebpSUPCcLKwgI+5vOadAjXBi4jFY97QktYfjgvJhXpEC6ePVM14m465WJRiw7hZDiM2NSkjPiHt6u1p3NrdFQoFLLZCjNP7sVk/XOppEdnpL9fGvOIlwsFacyVmJmRPNlXhAIdwoXe05iPRqVp6d1aFR0+GL+Wyxp0CCeO9ciI89niHXEOt3fafDRE6AyFMDE0KIHlpvYEcTExPqWZzrfNTb/pEJobGzHY1ycZ4RHfeL9eRYevCHfAfTXUZdTj3K4AInsMGfEvnzYcOnxlMB3exp9bW37TYRGOmoZ6gwFcMk2N7A44Zvgcenx3Tui4A+67obZAvZg6HrRIDZim+Ml0OFNM59eP7xp0WITDhmUobNapoEXrvGnIpmOfRQp0bJFjhsmwGaY0ZNZ1s9L7g1p0bJGYaW/vcsxwlthMcp8ha+qGWlvb0NJyUExw8cTF9hpOwFW3q6npAEKhTqe5u2wjSmZYhO7unqrmNTDCInR0HNHekn/Jys2OMePNiPcfiiJEx8acb/Oam4lcvSKXZeWrac1EmLsZkVdTpbe+/4kwOTwshn5vb6sb+gPwvTJZEbrBEwAAAABJRU5ErkJggg==",
     "wiki_name": "Wolfbane",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wolfbane",
     "equipment": {

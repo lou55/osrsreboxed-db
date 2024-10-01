@@ -1,7 +1,7 @@
 {
     "id": 25838,
     "name": "Parasitic egg",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-06-30",
     "duplicate": false,
     "examine": "Gross, only a nightmare would like this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6UlEQVR4Xu3W709SURgH8O5f0JrOVkgoBMjPy697AUXKSVlmTkHMVAQNhWzrTa9azeVgLJtjM5dztdCNJqn8j9/Oc9gFsda7A77wu51xGS/uZ895nnO4ceM6QiOhsa5EJMzpVQR7TFcBJWFpYAQrA6OY1Stw3OzvJkpCZjCKinURR7YlHJjmsK2fgLlP1w2UhNRgBEf2FGquNVQ9GVRcKewYpzHV7+s0SsKkQ8Wh7SVOnBnUvK9Q9a+h4k3jq20eH/WP4NObYey90wmUhAl7ADPyCKruNMecKRs4UbI4Dmbx3ZPC9v1neG+IQdYZRaMkxGxejkn6oqh5GMa/3gCp6zgOZVEJrKI0NIMt4xPW5CpHCQURJuGNYCHwEGe+LMfUg69RC+VQDW+goqziizOBguU53vY/4JMnFBSzhXl1FtVx1AM51NU86uFN1MJ51IZzvEo//BkUhqbx7t44IiaHKJCE0KCnDfRbzeE0mMf58BuGyfMK/QyuoSwvoOScxQfzU0TNbigGiwiUhDFLkINouwh0ykDnrDqnw2zLRhiIVWjPv4SyZwGfXQlsWac4SNZZxYDCd91toHPWOw3QJn4xzL6y0gaiaRyzeMSCJuyNhiZQKhhrgg4YhkD7gWXseRex607ys6rzINY/h4E0DtUMDtR0E1R2v+AgOiaEgUZ1Hg6aco81QZnQY3zjlUlhj62yj1WHNfWuqwGiQbD2GMSAqH8ug2hxkEKgZQ765JrhZxWBFIOziyD/MgpynB8LXQeVPEmU5CQK7gaITvSIycdBjl4h18ffIA21I89jh406gajhL4MEYCiNg/EyqOiIo8jurqJrjq0EB9F2aSBB1aG0QNrYc5At3kRdrE7UrIgGUdovVw4amkXRHufPWjMTnEByn0VUQ2tpgagaWlMTRtsq+r2DIIrEX6yhNAx9p+3UQL7btk5gtLQmbtIR5U1OnxdBgnvnX2n9HbkI0bbKfEvfaRCFXvi/dR2x+QO9Hnw5bU9yagAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xu3X/U9SURgH8O5f0JrOVkggBMjbvZeXewFFyklZZk5BzFQEDYVs65d+ajWXg7Fsjs1cztVCN5qk8j9+O+ewy1v2Wwds69nOgAG7nz3P95wL1679L64loL6uRAmY16sI9JmvAkrAsnEUq8YxzOkVOK8P9hIlID0UQdm2hGP7Mg7N89jRT8IyoOsFSkByKIxjRxJV9zoqchpldxK7phlMD3q7jRIw5VRxZH+OU1caVc8LVHzrKHtS+GxfwHv9A3j1Fpj6b3UDJWDS4cesNIqKmGKYc2UTp0oGJ4EMvspJ7Nx9greGKCSdiTdKQNTuYZiEN4KqTDC+jTpI3cBJMIOyfw3F4Vlsmx6RkKsMRb8nG408UALDxD1hLPrv49ybYZha4CWqwSwqoU2UlTV8csWRtz7F68F7bOdxBUXtIdadJXUCNX8WNTWHWmgL1VAO1ZEs69I3Xxr54Rm8uTOBsNnJCyQgOCS3gX6qWZwFcrgYeUUwOdah74F1lKRFFF1zeGd5jIhFhGKw8siRgHFrgIHouCjojIAuSHfORsjIRgmIdGjft4ySvIiP7ji2bdMMJOlsPLokIHRbbANdkOzUQVv4QTAHymobiO7GcavMFzTpqAeagpKBaAN0SDAUdOBfwb5nCXtigp1V3QeR/Bz5UzhS0zhUUw1QSXzGQPSY4AYa08kMNC2ON0Dp4EN8YZ1JYp+skpd0h4R6z10H0Y1g6zPwAdH8dILoYiCFglYY6IN7lp1VFKQYXD0E+VaQl2LsWOg5qCgnUJQSyIt1ED3Rw2YvAzn7udw+fgdpqF1pAbtkq1MQDXwnSMP8dRA9GDtBBWcMBXLvKrjnyYozEB2XBuLUHVpNkLbtGcgea6BauxOxKLxBtNpvrgw0PIeCI8aea2GmcAqSBqy8Aq1VE0S7oYWaYrRR0fe7CKIlsAtrKA1DX9NxaiDvTXsbhiOIVnPHTTkjLOT0sRXUmh3OGK2aP0daIdqoLDf0vEd1WWl/ny9fXexOs7SL/ml1fv6frl+j8aoZnZ/1IQAAAABJRU5ErkJggg==",
     "wiki_name": "Parasitic egg",
     "wiki_url": "https://oldschool.runescape.wiki/w/Parasitic_egg",
     "equipment": null,

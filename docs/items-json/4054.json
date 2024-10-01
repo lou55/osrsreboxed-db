@@ -1,7 +1,7 @@
 {
     "id": 4054,
     "name": "Barricade",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-13",
     "duplicate": true,
     "examine": "Use these to block enemy team movement.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xu3W30sUURTAcfcf6CkKk4qMEjMqggihQgip8MHMTMtKMqysMCSpZEn6IfYTQSyjQkERM7GNoDKKwug56KGn/pkb3zuc4cydq+7sTtFDFw4zO3Pc+ey5956xpOTfHxnjD9/9Pz4y5kG20dzrbbAxcPWg6e+ptyGIyaFTZnywzYw9POlBuT+iaHgAEhQgCRczev+4eTJwLPJgPnPPjSgqETJjBq8fjqE4ApEQ0OP+FjN044jN5egDka/Rn2ey5uPU5cJQAuJcqiOgZ3dbLUhyFwLxd5+me8187qb5mrttQYkwfKn8agHxUB9o+Faz/XJyOfeBpobbIyDO8wRlItMAQhY3n12QrJ9sc1VkSlzQzEhHeiCpEtdcEPkX6jaaa00BqLVmnakoWxZDvXp6JgQRiUCyLlwQ1fCBuuorLKi9ttycO7DB7N9eGgO9fn42CnpxpXgQ1wEJikqS39O4yTTtWmP6T2y15x371sdAb0Y70wURADSI3O8vR211qFJ3Q6WdMhdD7vvxiyHoy2xfvhhGFKRRfLkGkUd+39HNFnSoerX9zHUXNDfRVSiIEewUtvBiIHJ+5CbMz3ez5tf8nPk2cseMXwquu6APk92FgoIeRIWWApFDvmx5dhuVckHka1CCphhseR+IcEHkV1cuj/QgF0ReqiBBETyAjssDyN1dtcKuGw2iSm17y0NUqiBdJY4CIq9my0rTsmetPdcgepHe9oCmH50OQXTpPDGMYIf4QPJ+Iqd2W2lYBQ1iWjnSHAVEdXht6AoVBHLXkWxxujAVkG7sA1ElGiXngHhtpAYSFPfqdqyya6R+Z1kEICDgHJlKaZCA6NIalAAVgHzTxj06sfxy7vtA8vYnWD+subdj50MQPShBH4qC9LTJlMmDuE5v8oF0/ykaxC5bCCS/mIdxzQeS14Zs99RA7rRxXYN4+EIgyQXEltcgelDiPuSbNg3iXECCkuapK0RuKiDftGkQ9/S/JZwLiDy9fooEMYKFu1RojA4XRFPUIIkEoHxHHCmh189fBC024sh4/B/Fjd9vHirMe0F8kwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xs3WW0tUURTA8Zkv0FMUJpUZJWaUBBFChRBS4cNkZlpWkmF3DEkqkaSL2BVBLKNCYUTMxCaCyigKo+egh576Mjv++7CO+6zZozPOKdywOHvOWeP+zb6sYyKx/FvS+MP3/J+3pHnU22ge9DTYGLh+yPR3p2wIYmLotEkPtpmxx6c8KP0jioYHIEEBktCY0YcnzLOB45GB+cwzHVFUQcikGbx5JAvFFYiEgJ72t5ihW0dtLlcfiHwX/XW613yevLo0lIDoy+wI6MX9VguS3FwgvvdlqsfMZW6b75m7FsQY1WVlNvToqgXTLr9aQAzqAw3fabZ/nFz6PtDkcHsERF9AenTVkpFlACGbm88aJPunt7kqsiQaND3SER9IZol7GkT+pfrN5kZTAGqt3WAqSldkod48PxuCiIJAsi80iNnwgTpTFRbUXlduzh/cZA7sKMkCvX15Lgp6da14EPcBCYqZJL+7cYtp2r3O9J/cbvsd+zdmgd6NXogXRABwQeT+fD1qZ4dZ6mqotEumMeR+TF8OQd9m+kJMwSAXxR93QeSR33dsqwUdrllrP3Nfg2bHO70gPXqOFpwUjvBCIHJ+ZcbN7w8z5s/crPkxcs+krwT3NejTRNdSQUENYoYWA5FDvhx5ThszpUHkuyC3KOrRVQuOvA9EaBD5NZUrIzVIg8iLFSQoggGouAxA7p6qVXbfuCBmqW1feYiKFeTOElcBkVe7bbVp2bve9l0Qtcg99oCmnpwJQVRpweQF4oT4QPJ+IqeuuiScBRfEsnKlOAqI2eG14c5QnrNDmwfpfSRHnCrMDEg19oGYJQolfUC8NmIDCYpn9TvX2D2S2lUaAQgIOFeWUgokIKq0CxKUHt3TApBv2XhGJZZfznMfSN7+BPuHPfd+7GIIogYVUIeiIHfZZMlkIO5Tm3wgt/4UDeKU5QLJL2Yw7vlA8tqQ4x4bSC8b910Qg+cCSS4gjrwLogYVXId8y+aC6AtIUFI83RkiNxaQb9lcEM/cf0voC4g8d/8UCaIFG3excDFuaBBF0QVJFABKJKSsLxQa6Ia7f2IB5ds0Mh+sxHzuf2oa6Qv9nWXd/gK5InVY1UAn3AAAAABJRU5ErkJggg==",
     "wiki_name": "Barricade",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barricade",
     "equipment": null,

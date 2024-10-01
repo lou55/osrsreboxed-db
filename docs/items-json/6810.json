@@ -1,7 +1,7 @@
 {
     "id": 6810,
     "name": "Wyvern bonemeal",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-12-12",
     "duplicate": false,
     "examine": "A pot of crushed wyvern bones.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmUlEQVR4Xu2W30sUURTHvfggibSEouiiorFKLWhCSFFJ0g81ZJNQFwtFH4JFwcjwYSMsNJVA2HLxIcjF5/7Jb3zvctzTnTsLzszqiwfOw87OzPnM93zvvaep6Tqu49LDIDwbHm5Bg7VH3Xg73oX5sQ7MjrTjxZ1beJJJ4eHgzUaDmUBh/n7/uAefNzexs/UR2+vrWFlcwLfZAXx4lrb/Tw6lGqGawcbTNGayVRAWIRjVOd7/jp97uzj6umOhNtZW8XpqCqPZLLZf9uHLq34LzY8Y621LCspg63kv5u51YCTdal++8qALZ+UyKse/cFoq4eTwEAfFIj4VCljN5y3UQi5nlSpM9Nhnx/sTBCpO99mX82vZChagWvTK30rFQlEpArFthCKI9ljNV7HCWBD6grmX+z95jW1he6gi72V7CU4YKpm/32k/gGbPdN6IC2VsMRY/mBsMJK8TiAryPgESdQikFb3b3RofiIV/vPGnTyUBokoaiIuCHowBVDXz0fxtbxLIVUnaJkDiIQGisdOplqhQBqXFjDcFSoCoUljbNBCNPdAeA6iczwRSQ4lKYW1zgcTYbS3NF4UyOFkaCqQLplXytc0HRGNHAvr9bvg8fWBapbC2+YBo7EhAf5aHbWowDSdQ9drmA6KxYwHpdMHqtS0MiGdaYkA6RaWwtrlAMppcCZBWSI6OKwHSLZNVpoG4D0UEYtSH0kA+D2kgGepiA7EgC9PEPiCfqWWVEUhOewJxsBOgCDAMY1vBgizswrlA7rIXIM5CXGEJADFqp70L5u5Bsrpkp9bDXIJADD4cBAsbP/Qu7Rpa3uVWiBjmfGp0YfQZJger3n8SBtFRfTEhfG2SOUhgGgjihhSqztx6jibMJYL4ogaXNMg/SDjrtNWygnMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xu2X3UtUURTFPfQgiTiEoujgZ4yiA6YQUlhR9GGFTBLqUJLoQzAoKBk+jIRFlhIIUw4+BDX03D+5Yp3LdvacOXdo7p3RFzfsh7lz5+7fXWufc/a0tFzGZZx7GIRn08MtaLA+24vXMz1YnO7C/GQnHo9fw91UArdHOpoNZqoK8/PbO33Y29rC/s477G5sYHV5CZ/mh7H9MGm/fzCaaIZqBpv3k3iWDkBYhGBU5+TrF3w/+Izjj/sWanN9DS/m5nAjncbukwF8eD5oofkS0/3tjYIy2HnUj4WpLkwm2+zDV2/14E+xiNLJD/wuFHB6dITDfB7vczmsZbMWaimTsUrl7vXZ384MBkBTQ0NxoQzyTwfsw/m2tIIFqBZ75W+pZKGoFIFoG6EIontM+iomkLEg7AvmQaYyeY220B6qyHtpL8EJQyWzN7vtC7DZU91X49pmbDEWP1wYqUpeJxAV5H0CJOoQSCs60dsWVyVjC3976U+fSgJElTQQFwV7MAZQ0MzHi9e9SSBXJbFNgKSHBIiNnUy0RrXNoLCc8qZACRBVCrNNA7GxhzsDoAgqGRSzqarUUKJSmG0ukDR2e+uVelUyOH01WpUumFbJZ5sPiI0tQHWoZPBzZewsfWBapTDbfEBs7EhAv96M2dRgGk6gatnmA2JjxwLS6YLVsi0MiGdaw4B0ikphtrlAMppcCJBWSI6OCwHSlskq00DchyICMWpDaSBfD2kgGepiA7EgC7OJfUC+ppZVRiA57QnEwU6ABKZuIFrBgizswrlA7rIXIM5CXGE+ILfif0T5tHfB3D1IVpfs1HqYayAQIxjQXbCw8UPv0m5Dy7Mi2FUZwY/N2dTowugzTA5Wvf+4ILFgKiN4MCF8NskcJDBNBCmHqCXpztGEORcQN8qF9B/BxoL8Ays6HfAeAYzhAAAAAElFTkSuQmCC",
     "wiki_name": "Wyvern bonemeal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wyvern_bonemeal",
     "equipment": null,

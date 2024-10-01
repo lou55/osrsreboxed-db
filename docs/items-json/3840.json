@@ -1,7 +1,7 @@
 {
     "id": 3840,
     "name": "Holy book",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-17",
     "duplicate": false,
     "examine": "The holy book of Saradomin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4Xu3WT2sTQRgG8CzLMMyy9OrRg+jRYi89mEMOeqiHIkqEPVQIaCFgkUBAsSkGiQ011tCkUaJWigoeRMGDIHgQPIgHQfDgB/CLvO4zf7KzSbp216ZV6Asvm0vIL8+8Mzu53P9dDqn+J8qh9jVBjStcow4U5lCvIqhV5lQvcaoGnJYuMgu277hRkMvmrD47hJso0KGtG4I61wU1FznVLnNi7EKImNcdh6kujAEOd+aKg5AQQKb/BFOdp+AMo2KB0fxpl+Zm3awoh17WBPWrQg40QIwHYRep1Xo80kkwGzR9LBPIobd3vRiI8QUNCkYwO3WUVF6CCqdcmvJy2UCv73i0fUuBsGSMlzTKdDIuSkyBXHeGjh7JiHm/5g1AmCHGr2qQ3XHYMC4CIaU85dzjGmeGftfl0LtVj17dFnLJmCirlijTyTDMmRp6DXJnQ8CU/Jw/mWqGHPrY9iQICQHFxFKESsTZMANCSiqdhYVFucNSzJBDn7sefbivQBhqLiqyFcr0bmCBBlnphM+UM6RASAgzxEVVt0Il4mIwBbLTkad5+EyF+dr3ByCkxMVN3QaWhLNhSKk4kg6eqUFfHvr0qQNMzWoD2xk3gOmE4ukU0qfzfcunb099ieJePeodYaO4CLQH6fzY9gco7jWs3g1OoRTor9NBOWMg4zoJV92rdFBqd+G+s7Jyj5aXm+GPtsLGE50A0ziTDq4n5fOMZk64WdNBqYHGK6Ld3qL19Sfy6F9be0TNZo9WV7skvLbscVAcETjRcYnDFbdyicvDTy5b+nRQaslwMqtdY4a0LHEbG8+o292mzc3n8in8nu6ObBwTOETxh5By6RzTyzadBYNy6NebKfr5Qs/RmKE1OwiJITkkiDSBxYZASgAhpcFQZ0vHFL6oWvh9+c+j5bGHOEoPB2C9/oAajY5cVmDjQ50ZM1wRLgL29AyZ2QES6UU4+crQb/gUL9AslQRs6eQqetsHcqgniBlXcSB2KG4H5rqLq+o+g4ZLwXC7xFX3gDF2mdQOa3L1G923lxcLgBypAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4XtXWT2sTQRgG8CzLMMyy9OrRgujRai89mEMOeqiHIkqFHCoUtBCwSCCg2BaDxIaa1tCkUapGggoeRMGDIHgQPIgHQfDgB/CLvO4zf7KzTbrd3aa2vvCyuYT88sw7s5PL/d/lkOojUQ41bwqqXecadagwhzplQY0Sp+o8p0qR0+IVZsH+OW4Q5LJpqy/swB0o0KHubUGtW4LqC5yWr3Fi7HKAmNEdhakuDAHu7MwVBSEhgEzvBVOdp+J5RrMFRjPnXJqecrOiHHq9LGi7IuRAA8R4MehZajSeDnQczAZNnFCgM+PjaVAOvX/gRUCMz2lQcQCzW4dJ5SWocNalMS+XDfT2vke9uwqEJWN8XqNMx+PCxBTIdSfp+LEQkwLk0Mc1rw/CDDF+Q4PsjsJ24kIQUspTzj2pcWboE5dDH1Y9enNPyCVjoqRaokzHwzBnaug1yJ0KAGPyc/50qhly6HPTkyAkBBQTiyEqFmfDDAgpqXTm5hbkDksxQw59bXv0aV2BMNRclGUrlOkksKIGWekEz5QzpEBICDPERUW3QsXiIjAFstORp3nwTIX5vu33QUiJizu6DSwOZ8OQ0uxAOngmXCqUAn177NOXFjDLVhvY7rg+TCcUTaeQPp2fXZ9+PPclinvVsHeFDeJC0AjS+dXz+yju1axOglMoBdp3OihnCGRYx+Eqo0oHpXYX7jsrKw9paake/GgjaDzRMTCNM+ngelK6xGjylJs1HZQaaLwims0ubWw8k0f/2toTqtc7tLraJuE1ZQ+D4ojAiY5LHK645atcHn5y2dKng1JLhpNZ7RozpCWJ29x8Qe12j7a2Xsqn8Du6W7JxTOAQxR9CyvMXmV62iSzpoBz6826Mfr/SczRkaM0OQmJIDgkiTWCxIZASQEipP9TZ0jEVXi+Fvy3/ebg89hCH6eEArFYfUa3WkssKbHSoM6UTVvjl6P1XATt6hszsAIn0Qpx8Zeg3fIoXaLIyuL2BDZ1cWW/7ohzqfaezV8UBsUNxOzDXXVxVR5pOkhoGxO0SV90DTydJ2bBDx9h1pDCjqL+xs9p40HrWHwAAAABJRU5ErkJggg==",
     "wiki_name": "Holy book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Holy_book",
     "equipment": {

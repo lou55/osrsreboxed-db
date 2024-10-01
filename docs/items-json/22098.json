@@ -1,7 +1,7 @@
 {
     "id": 22098,
     "name": "Dragon metal shard",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "A badly damaged shard of dragon metal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xu3WyWsUQRTH8R6GQSLiyZMXT148JJCLgRAJiAcvrnHfiBJFEUEUJQQlaghuBEJcUEkgEmIIGhFERVH0Lyv72+2v87qmZpyeHsWDBY/eqqc+U+91dUfRv98qLhyh63+8VdyDsf3u3ujeJCav73ETV3cnIcTC9LCbnzrl5h6eDKD8P1EanoKEAqTwMbP3j7unk0dzA3PMNT/yqELIipu6MVSHYgtEIdDjicNuevxg0pdtCER/i/66POY+L15pDyUQ+5odgZ7fPZaA1LcRiPu+LI267yu33I+VOwmoEIYf1b8WiEFDoJnbhzIQ+yHQ4szpHIj9FkGVXBoYSMXNsQ9icBBKbyPQ8pORzoE0S5wLgTST3AuIWfNBb56dzUBEIZDqwgcxuA9SP+7bVI2SbQj09sW5POjVtfIgzgMSSjMpzJZalKF80LvZ850FEQAsiH703xwjdnZVs/BB9P0wfzEDfXt9s1UMLQ+yKH7cgixmcM0qyEfR9+PLS+2CaOniRYE2AnFdg++IMbsMhthoUgfo08LldkHpGsQMNQL5mN7u7gRkUdTS+ihFcY8FFVgU00feB2nGFPu6akkwMNvhdTU32N8fnCWhOgbiXG+tmgQDH1mbYjQj2/r6cscW5M9UaZBFbY1TA+ZAAEToOBTANvxCsUq3iKGlT5gPCqVNEHDaKkBon7WJ1PE0ch8z1BbIryOtvrwkVdg86sza9oGBZObYV5yIoydOsyA2ZaVAQnGex1cgrmsgYNQXMRKHag4Q11mlbVEXQKWgUNpCIC0HNpXUGqFj+r+fu5CBWIMKrEN5kE2bBbHlvF4pwAhba1qzSoN4yn4HYjD7DWRBqjX6dhTkp43zFqRvIIH03uM+9QW09OhMDsQaVHgdCqXNgthvBtIM0bcjoFDaLIhr9rPEguhn66ckiLb6xDQLv34UPohvaQtSFAC12uqRCls/fxHUrNUj6+N/K9d+AvWT9MAHdrqYAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xs3WyWsUQRTH8R6GQSLiyZMXc/HiIUouBkIkIB68uO8rUaIoIoiihBBxCcGNQIgLKglEQgxBI4KoKIr+ZeV8u/31vH7WxJnMKCl49FaV98mr6ppOkpXfSiEesef/vJXCw+H94f7Q3jTGbuwJo9d2pyHE7MRAmBk/HaYfnYqg/D/RMjwDCQVI4TFTD06EZ2PHCom55pmPIqopZCmMjxz4A8URiEKgJ6NHwsStQ2lfjjEQ/S3628Jw+DJ3dXkogThXdQR6ce94ClLfeiDGfZ0fCj8Wb4efi3dTEDm2dHam4bO7lpVd/7VAJI2BJu8czkGcx0Bzk2cKIM4F8tldKxWmgURa3Fx7EMlBaHrrgRaeDrYPpCpxLwZSJRkLiKp50Nvn53IQ0RRI68KDSO5B6se4DeUkPcZA716eL4JeX28dxH1AQqmSwmyqJDnKg95PXWgviABgQfSj/8YqYmdHOQ8Pou/HmUs56PubmzmmaZBF8cctyGL6V9VAHkXfT68uR0E+e52WbV4s0Hogniv5jipml8EQ683UAfo8e2W5oGwPokL1QB7T3dWVgiyKtbQ2yVCMsSC7KfrsrmWvvAepYop9HZU0SMxxYE0l9Pf2RqskVNtA3OuulNMg8dHVGUYV2dbTU7i2IF+plkEWtbU6NWAORkCErmMBbN1vFLu0MA2BeMM8KDZtgoDTUQFC5+xNTB1vI+OoUIPVodVAfh1p9+VHUgubV52qbe/rSyvHueJkNTZXp1kQO2UtgYTiPq+vQDxXImCsL2KwGlpzgHjOLm0XtVA+e6RloNi0xUDaDuxUstYIXdP/w/TFHMQe1MQ+VATZabMgjtzXTwowwq417Vktg3jL/gYimf0GsiCtNfq2FeSnjfsWpG8ggfS7xzj1BTT/+GwBxB7U9D4UmzYL4nwpkCpE37aAYtNmQTyznyUWRD+7floE0YobYL3w60fhQXxLW5CiCVCSaFtfKjzQhl0/bQE12jyyEayi1vc/NY+MhR+zotsvP6Y/WwkX+vcAAAAASUVORK5CYII=",
     "wiki_name": "Dragon metal shard",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_metal_shard",
     "equipment": null,

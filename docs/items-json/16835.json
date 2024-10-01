@@ -1,7 +1,7 @@
 {
     "id": 16835,
     "name": "Penguin bongos",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-01-29",
     "duplicate": true,
     "examine": "Small drums.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xu2V7UtTYRjGPX9DUZCkqNTXUnyFYQVWvoET35ZmU9PypXxlSGFq05KhprW0TGYqY9pajmFqpohmKSGG9cEv/TF3XPfhOR1Pm55Z9mkXXOw8r/fvfp77nIWFhRRSSAdJor3+p9JuflAAiS4ZzlJqyhkyJMZQcnxUEGv3lbyBdvOE2MgAgPJzaWESlZmS2Xguzk/c40OAyQtMufGKC3LiKC8rlowZ5xSjDWMM8xsa26i5Jo0sdZeptf4q3W9MpwfNmfyM/ruVF6m24gJDmc01eqEkKiuv44VaV5tTqarUwL9a9/eP0pDNRBPPzWTvKWKjjd+njwrJ1p5L1tZshsReTU3teoAkntj7MI86LFlsZKjHY2Nucg6X07vXt+i9q5Y+elpo4U09zU/d4bbPWUPeidsMhvnd3c+op2doPyiJrNZBstlecJbICn7Slc8GJCzaaiNIS0snuR1VHBQAahj0TY/eZGDs4XBMU3tH334wkEQDAw4aHnbyQmyAbMfsN8gxeF0x2sIARx+CiKzn5lZocXGNlpc/0/zCKvl8S+TxzJHL5aPxcQ+P9/a+OggGkpjc6fQqMDhmZPnhbRNbmzVORAChhlCobrccfHJyhoMvLX2i1dVNhvN6F3lMBwwk8WbISBy9GsgfjGukgoFejrg4GaPRRJ0FUfT4WjT1lcaQrSSan9F3LzeCLDkRVJRyQj8QNsaV2e3jNDu7/Ec9ABAnJ2BwZbg6ZG2xWDloIKC2vEgGyk86rh8IR4r7npqeVY4d9z4zs8D9OEGMiXFcL+bAWI+AaiBYC2RM0A0EyR9ELFRni0xFtl1FUUoAzGnOPk3FhpPKOvRjDuYLILTF/Oy4Y8EAQRIHEUBi80BADZnhSl2Idf6ARB1lnP8LIHW2eoBgkYgAwq8aqKSk8nBA6uMX1+YPqC49XFWoEn9/1ta+0ubmN9re/kG7uz9pa+u78uoHCQNJnLUAUteRP6DqK6c0b44MFthB6zeQtrADAQX55gQrGchfYfsDqko7ciDIf2EHAjpiGEjiLzWKEEWKgvyysU07O7tcoOvrW7SyssF/ov8BRkhbjIEcUkgh6dIv427xi8KjhaAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xu2W60tTcRjHPX9DUZDklXqbilcYVmDlDZx4W5pNTctLeWVIYWrTkqGmtbRMZipj2lqOYWqmiGYpIYb1wjf9MU98n/E7HY87utmFXuyBL+d3fz7P83vO2UJCgha0oB1mEu3VHzX14Yc5kOii7iylppwhXWI0JcdHBrD3QPMeoD48ITZcA9DbLi1MojJDMgvt4vzEPToCmHeDITdeVkFOHOVlxZI+45ws9CHMYX1DYxs116SRqe4StdZfoXuN6XS/OZPbGL9TeYFqK84zlNFY4y+URGXldbxRrWpjKlWV6vipVn//KA1ZDDTxzEjWniIW+ng+eVhIlvZcMrdmMyTOampqZ6CYiIiDoCRe2PsgjzpMWSxE6I/GxpxkHy6nt69u0jtHLX1wtdDC63qan7rNfY+9htwTtxgM67u7n1JPz9BBWZLIbB4ki+U5R4mooMdd+SxAQqKvFJy0tHSS01bFTgGghMHY9OgNBsYZNts0tXf0yRnSyJJEAwM2Gh6280YcgGjHrNfJNnhNFvpCAMcYnIio5+ZWaHFxjZaXP9H8wip5PEvkcs2Rw+Gh8XEXz/f2vjwMBiYxud3ulmGQZkT5/k0TSx01MiKAUEMoVKfT63xycoadLy19pNXVTYZzuxd5zg8YmMSHISKReiWQLxjHSAUDvRhxcDB6vYE6CyLp0dUo6iuNJktJFLcxdjc3jEw5YVSUcsKfYoZJfDCuzGodp9nZ5X31AEBkTsDgynB1iNpkMrNTLaC2vHAGyk867j8QUor7npqeldOOe5+ZWeBxZBBzYh7XizUQ9sOhEghSA+kT/AaCeT+I2KiMFpGKaLuKImUHWNOcfZqKdSflfRjHGqwXQOiL9dlxxwIBgknsRACJw7WAGjJD5boQ+3wBiTrKiPkNIGW0/gBBIhABhKcSqKSk8mhAyvSLa/MFVJceKhcqhO/P2toX2tz8Stvb32l39wdtbX2TX30BExAQohZAyjryBVR9+ZTqzVH/C9irAGFgv4DUha0FpH5zhFMtqT0eYl4gX4XtC6gqbT/QXzDfha0FdMSrCMQk/lKjCFGkKMjPG9u0s7PLBbq+vkUrKxv8I/oPYITtL0hf+kcwXlMXo5bU+4IWtP/BfgLzXjCuDdC9HQAAAABJRU5ErkJggg==",
     "wiki_name": "Penguin bongos",
     "wiki_url": "https://oldschool.runescape.wiki/w/Penguin_bongos",
     "equipment": null,

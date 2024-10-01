@@ -1,7 +1,7 @@
 {
     "id": 10504,
     "name": "Snowball",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-12-17",
     "duplicate": true,
     "examine": "Made from snow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4Xu2USUtCURiGvX8oKMKMBoOiRQuhoIVBVDZANNimpMwmQqEiKWkUQ8pKRJIGF2GEDSAilg0YYgO1sOhPvHGOpV650eY0EOeBCxe+A/d5v++7RybjcDgczr9DQPr5VZISbrsdG0uLGOvrlZDKlM2uMUVANBLBeTCI4PERPOsOTI+OoK2+XiTwIWvS69He0PCdUgJub26oFBHadW7CYjRC29qCqopykazX5cLy5CQGe7Soq6lmLSWd3LezDZvZjIHubpSXlOAhHkfs+iop5HZjZXYG4zod7SARZiQlHlN2csfCPH0vVSio7NTwEO3YvsdDaxMGA7qaNVSYmdBXyS/D4dQIScfIon/UyI6RbhJhZkIviURKSCo52avQ6QmVtVssMPb3o6OpEZVKJT2nUatRmJ/PTuj1+RnxaJR+lOzNptUqSv50f4+zQIDWiCwZGxEqKyqCrrMTtSoV8nJy2AndxWK4CIVw7PPRLjhtNlHyxNMjrR/s7aZkyciK5fJ3Ceb3kYCA3087sLW2ijmTSZQ8c5yZsgW5uaxFMhHo0pIdSd/OyYf8gYder6TsNwoRPmu/QK8DKVnxuR/lT0hwOBwOM94AilvXxDvv3AIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3ElEQVR4Xu2UWUsCYRSGnX/iL4iKKKOsoOiiC6GgiwJpD6L1pqR9IRQqipJ2DGknJGnxIoxoAxFpD0Msoy40+hNvnG/SnJrooq+VeeCDgTPMPOc9Z0alUlBQUFD4dwh4OT+KKGGzWrE4OYGepkYZqWjZ1zWuCPCenuLE7YZ7fw/2hXkMdnehUq+XCIRlTa2tqCoq+kopAddXV0yKhDaWl2A2GlFfUY6crEyJrGNlBVP9/WhrqEdhXi5vKfnOnetrsAwNoaWuDplaLW79fvguL0Qhmw0zI8PoNRhYgiTMSUo6ptedz4+Pses0jYbJDnR2sMS27HZW62tvR21ZKROmZ8Wq1Z+VEj7s/PzoKDJCSowWPVyjHaM0SZib0EMwGBGS65z2ynN4wGStZjOMzc2oLilGdno6u6+0oADJCQn8hB5DIfi9XvZS2pul6WlJ5/eBAI5dLlYjWRobCWWkpMBQU4N8nQ7xMTH8hG58Ppx5PNh3OlkKyxaLpPPg/R2rb29uRGRpZKmJic+LLB6S4SBECHDt7rIEVudmMWoySTqPHme0bFJcnESEk0wYgS0t7cjL31k89AXuOByyspzG9B5v4xdfJrDfgZzsFyQj5f3430rI3/eN/AoJBQWFv8oTtzr7m/mA2tUAAAAASUVORK5CYII=",
     "wiki_name": "Snowball",
     "wiki_url": "https://oldschool.runescape.wiki/w/Snowball",
     "equipment": null,

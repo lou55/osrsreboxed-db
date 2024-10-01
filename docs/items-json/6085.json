@@ -1,7 +1,7 @@
 {
     "id": 6085,
     "name": "Red dye bellows",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-19",
     "duplicate": false,
     "examine": "A large pair of ogre bellows filled with red dye.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoUlEQVR4Xu2V/WtSYRTH9/wQ4hiNmDS2YWMON5yxF9mc4twMX2pOckOr5csw0aSFNKRACqIiIggG/VJ/7onvkXPvY9YP3aveBjvwxec+93LPx+8557kTE9fhWCgalGOhKBSYpaDP0yeHoBTFNxdoY+V2n8LBOSeAFCXDixRdn2eHdDngUA8GghsiwKwuzpDfe4sm3TfGBaUoE1limMT2HXYIQqkAsjR/k7yzUzQ3MzkOIBMGQv9IDw2CjBTGHGcdCA6hX8YOAhcAchjz9QEBBiCeafd4QNAbgEHyXHzZAILgjgkyMpjey5FMBBiACBAk/QPgkcLIv9fLAoDjhJ8FKLkHIBl1E8rsNZvOKU6muyDlAUghudIHJOMOIMBJcpk2XRagFCeUpJJY9Di9atyTcgEIDj29v8ZQOATR4AKB8whwFs8ixS9GYkkuAPiVPXFHPxTxDEDkdNY/rtibnnJZAyofBlkA0+FkrbsGl9pPQvw84PZ3/Jwc0uEslguh6OzorqE/wemudSphepZf5zXKFvD1vl+DIBZhvr9O/VWXnSR9u7hHX9sJ1puzXWqcbDBcKhpgd0JrXvJ5PQxjA0RCcdLfBQhIrgHzrh6l80dbVDuJ0Gl2mwqZLcruBxnKRnn0UEZiERJ/eXnAwhouCcxFaYfOSwdUL8aomt+lUi7MwpQNDUhKAYDPL+L0sbXHwhr6+aFEl90ifWrn6G3rAXVqKWpXElw29Bf6qP9gtBXKgHjfjLELENYQ9n90M1wyAOMaDd0qbHLTo48wcUODedVs0PNqlepHPmo+XOaG7dYiLIEDMH6xh/uAwSRi8nAEmKe0rVDUKJcZ5vT4mPJ7CyxzQv5VtkJRpVgwYLKp5LBebDUUuV0uyqXTToPo8d+AXMfVi19AMYVBgHJlqwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xu2V7UtacRTH+70YYsRiJIsKVxkW5iiTMsUshw9bJtPQtuZDONHJGrKQDWSDsY0xBoNgb7Y/94zvkXO9XovhdV570YEv93cfuOdzv+ec352YuI2xhaJ+jS0U+T2z5HU5ejQmKEUR3wJtrt7vUcA7x0C+pSUroRTFAosU2phnh/QShywE6sBAcEMEmLXFGXI779Gk/Y5VZVOUDC4zTHT7ATsEoVQAWZ6/S87ZKZqbmbTCpS4MhP6RHjKCCMyIgLrjrAeCQ+iX60BGANNJABcAchh29QABBiCOabs1IOgNwCB5OrKiAUFwR0BGWJ7Oy5FMBBiACBAk/QPgkcLI1+vLAoBs1M0ClNwDkIx650M67+iXqVCcTO+ClAcgudhqD5CMO4AAJ8ll2vQyAaU4oSSVxKJniTXtnpQLQHDoxeN1hsImiAYXCOxHgDO5Fyl+MRJLcgHAUa6JO/pNEc8ARHZn/c8V16anbOaAiodeFsD0cLLWuwaXms/9/Dzg9nfcnBzSw0m5TDS8orOjh5qugtO71ioF6GVmg9com8fV+X8ZQUzD/HoXv1aXrRj9vHhEP5pR1vuzXaodbzJcPORhd/zrTnI5HQxjBBkQBqE4qVGAgOQcMB+rITo/2aLKcZBOU9uUS25Rat/LUMbymABBKC2xCIm/vzlgYQ2XBOaisEPnhQOq5sNUzuxSIR1gYcr0QMYsA4TSSgGAb68j9KWxx8Ia+vO5QJftPH1tpulD4wm1KnFqlqJcNvQX+kg2xiGckVAaxKd6mF2AsIZw/Xc7ySUDMM7R0I2cj5sefYSJ+28wb+s1elUuU/XIRfWnK9yw7UqQJXAAxhHXcB8wmERMHrYA2aWHhqkViwxzms1SZm+BJRMyqIZ0R1Epn9NgUvFY34vNyJhlgFBkt9konUhcCWJ82qK4MSDduDEgt/GP+AsIBthnRykYXwAAAABJRU5ErkJggg==",
     "wiki_name": "Red dye bellows",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_dye_bellows",
     "equipment": null,

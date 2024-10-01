@@ -1,7 +1,7 @@
 {
     "id": 28392,
     "name": "Satchel",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A small satchel of explosives.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqElEQVR4Xu2X/0sTYRzHPcZ+cAzHcGw0cWOOW2yLlqNzk6650dVyii7H0CLDBCmLviCFVEQQEUR/9FPvz+NzPj13u1OfoyD8wAuHu7v36/m+m5q6rH9WBlP/8xcKof70WpWTz5GXN0ywv32L2Bu3id1Ri3g0XGJ2s8zyuVSUUjy0b9cmhoKdjZvEeK1JjFYXifaNElt3rkchxEW+Hq2z54871PVqqBw8vNcgEA4GvTrRrM0TtlXWkTLYm/07LgcPbWZdK7qtFWGgv1Jzcewq0VuuEJ2WyepmnoBQvZK/qJTBPr687wphqBCEBzeuzlGQAEGC9mLJxWoUXVZvx9hGN8bMUpblMsmLSHEhcHTg0JxBiwtX0mxhPsPMYpZae1Z2N+Ps6VZcT+j4sO9KYZjQaqyW7lKMbTlxT6igWs55QCM6lskWChl9oZ+fRjRZhdC4H6cWq6FBQAjLX1sI/PjwgC/fEyF0/eEOF8IQnAUMNYQK+bS+0PfjIS11IYSVhu5XQ1XQG4JIhN4/u0tC395t8h3X4g8UQnJgGPlsyt2xtYTQO9gYsSOHCeG7SUAI92kLoXe+vF2jfUgIoaUQUkNVEC7IzSb1hbD/QObz6wHt1NgE0RNCSA4MIzIhyIi9CBsjhGaS03SuiTnxR/DvMF+iEMLcwaQWkxtHhyrkCZaYTSdcIhHCcEEGPYW/ODyxnGUhOTSQVEJfSD5cIYWTPUwI3/kBIe1lj2F6tdclIIXjA0J4OEIwsdFqNVyQmI67CCEucm4ZUfzmF09WCBwfOC7wcITIQnK4H3gOrteQkcugX4z4degnpAZPIkIhlEHnGYTkEAidvlUEhfG3j0GnHnLduUoNVYX8it/jLFfpJQFMvjaSCmo5f1NR8V4Xeak9J9fp8AZfd1n/Qf0CnbkW132UOA0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xu2X/2sSYRzHd8j9MJFEJko3pnNyhhq5SU5Hl1O6srmx2URascUajFrRF0YxKiKICKI/+qn35/G5PT6euvkc9cseeKF4d8/79Xz3Zmauyn8rBlN/+QcFof40q7n+98DLcJjg6PEd4rBXIw66VeJpZ5U55SyzktEgpXhoyymMDAV727eJ3maZ6G6sELXlDNtyb1Edy4uLOlJc5PvpFnu5X6euV0Pl4M6DEoFw0G4WiXJhgXAqWZ1eMti7o3sex08cVrmZ9lorwkBrveDhOnmiuZYj6lWbFW2LgFAxZ00rZbDPrx96QhgqBKHi0o15ChIgSFBbyXhUSmmPjbshtt0IMTuTYMl4ZBopLgROj12aM2hx6nqMLS3EmZ1OUGsvysGOyZ7vmgNCl5xPBjs7aXlSGCa0GqulsRpiu645FCrIZ5NDoBH1is2WUnF9od9fujRZhVCvZVKL1dBxQAjLX1sI/Pr0iC/fvhC6/mSPC2EILgKGGkIpK6Yv9POsQ0tdCGGlofvVUBX0hiAQoY8v7pPQjw87fMet8AqFkBw4CSsR9XZsLSH0DjZG7MiThHBtFBDCc9pC6J1v7zdpHxJCaCmE1FAVhAuScxF9Iew/kPn6tk07NTZB9IQQkgMnEZgQZMRehI0RQtcis3SuiTkxEPw3zJcghDB3MKnF5MbRoQoNBUvMxcIegQhhuCCDnsInDk8sZ1lIDh1LNKwvJB+ukMLJPkkI1/yAkPayxzC9OWwQkMLxASFUjhBMbLRaDReEZ00PIYR6hcwlhVD4w6+erRM4PnBcoHKEyEJyuB+oB/dryPDCHzToHyP+HfoJqcGjkIXUnCmKQecZhOQQCJ2/VZy3XgXXcF+7XuzfG0hRx39QyH8o+DPuWp5eEkCAvcSHcLCycS3nbyoqgQr5F7Xnhq/J+N8XcBkXIq7JqPdclWnKHyfkV1oHPGaTAAAAAElFTkSuQmCC",
     "wiki_name": "Satchel (Desert Treasure II)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Satchel_(Desert_Treasure_II)",
     "equipment": null,

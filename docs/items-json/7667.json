@@ -1,7 +1,7 @@
 {
     "id": 7667,
     "name": "Guthix balance(1)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-22",
     "duplicate": true,
     "examine": "A potion of harralander, red spiders eggs, garlic and silver dust.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xu3W/UsUQRgHcO+PCC1NPUNJS7zOrjtNvdPTfAs0tBQtpbOUJILoRUSKXkSyQhC1yNAwxERKKUSjKOove/I71zPMzs5dt3dr9EMDX25vd273s8/Mzl5W1r/fPGSO6fi+Nw89m+ii6fFzIlNjnTR5u0OEEauzl2llZpCWnw8YUPpNZAyPgxgFEEfHLD29SC+n+iwXxncc02NFOUJ6aOZetw2FT0A4DFqY7KXZBxdEX3yaQOivor9tTNCXtVvpoRiEba4Ogxaf9AsQ900Ewu++ro/Tj82H9HPzsQA5wuCkfNcMwkV1kHrX6Dv3qMcIWpuLWUDYThHksQwDEDy58V0Foe9oLEyx/tPU131KfE8E2nhx1T0QVwn7dNDK/F6l5gbofIdfgjCMOujDq2EJQhyBeF7oINy5CbQw3Utd7Sfk0JlAW69HrKB3dzMHYT9ACPqFQpUyFRVlVFpaTMXFXnFMB31cuuYuCMFQqqCWlnqKRmspEqmi8uNHqaSkiHJzc2wgVHNn5boEfX9/P1UMmhWkonByBvGQtbZGqb29kfLzcxMOGfruvr2RLggtfmJM0EQgHI9Ga6itLSri9ebL36CSOujz6s10QfE1CBX6EwjV4WC4DuZki/06CP1VkINFMX4yEwjhk6NfXW1wD9Iggwmdl3fIBkJ1XAUxCsEFsOKiHyY0Akww6BeTurDwsKzSvoDUKuETF0Cf6uoANTdHJAqPvc93jI4UFcgqqaD1+SEJwiqdIgYt/oSYQPw6QB9g1FRVnSS/v1zMo4KCPMrOPiBRqA5eG2qF0gLp8wj7cRzDc6YpLMIgVCwQ8Il5hCrxWsTDhdeGayBGMaipsU4EIN/U2aRBf4CwSqsgB6g4yDRsDNIvmizoj4dge3lUgrAGOViHrCB12NIBMSojEJ6yZKDwpysike1hkfrdEapZH6TgYg9VznRS2Z0G8l4K/L6gCxVikD5s2M/vL6RuM0bhrSGBw3boTR+VjTXK4zyh8cirIKxBjtch07AxCHeMbb6wHvyO1x/0dQVkGjYVhGPq3xJs82rOrw1UxwUQmv2uTVExanQQFkUVxHEASrXZkRx1/vxFULJmR9rzv2XWfgGMrRpEzmAWwQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXklEQVR4Xs2Wj0tTURTHtz8itDTdCiUtcc2WP1I3neavQENL0VKapSQRRD9EpOiHSFYIohYZGoaYSCmFZBRF/WUnv3ed693Z3dr0GR74svfePe+dzz3nvPPmcu1/c5NdtvU9Nzc9H22niZHzSuPDbTR2p1WJIZamrtDiZB8tvOi1QMlN7Bo8CsRQAGJJmPlnl+jVeHdMYJxjTSoWKi1IN03e74iDwi9AWAw0O9ZFUw8vKl/82oDgb0L/WB2lb8u3dwbFQDjm7DDQ3NMeBcS+iYBw3/eVEfq19oh+rz1RQIjh83iUZHRh0bTzrhkIQSWQuWv4Tj/utAItT0digHDMQDK6MHdMGQDBzY1zEwi+Q5EgRXrOUHfHaXWeCGj15TXngDhLuCaBFme2MjXdSxda/RoIZZRAH18PaCAoLSDuCwmEnduAZie6qL3lpC6dDWj9zWAs0Pt7uwfCdQBB8CsrK9EqLi6kgoI8ysvzqjUJ9Gn+urNAEEppAjU21lA4XEWhUDkVnThG+flHKCsrMw4I2fyyeEMD/fzwQMOkDWRC4eEMxCVragpTS0sd5eRkJSwZfDff3bQCyegJLPpgNGgiIKyHw5XU3BxW8npz9D3IpAT6unRrp0DRGYQM/QsI2WGhXAczM9R1CQR/E8gcijK6sOjDbEAQPxx+1VWlWyC1Wmjo7OxDcUDIjqNADAUhACYu/NDQEGBKS/2qqT2ewzpLewJkZgm/CACfiooANTSENBRee5/vOB09kquzZAKtzPRrIExphkkJCG+IDYg/B/ABjKny8lPk9xepPsrNzaaMjAMaCtnBZ8PMUIrZgW0DyT7CdayjPGfrg0oMhIwFAj7VR8gSzyIuFz4bjgExFAPV11UrAcg3fi6p4A8gTGkTiKFkdItFgWxlYyAZNJngj5dgY2FIA2EGpTGHYoHMsu0EiKF2BYS3LBlQ8PNVpdDGgFLN5iBVrvRR6VwnlUy2UeHdWvJeDvwtiQMZYiBZNlzn7xdUvRah4Hq/gsNx2dtuKhyu0+vc0HjlTSDMoLTnkK1sDIQd45gDS+E+nj/wdQTIVjYTCGvm3xIc8zTnzway4wAQLH7XNpkwpiQQhqIJxEoDyOXisZ5MEtCU2T+OAKVqEjIVWNa2738yCWmTvGdf2x/WsWTQK6K3BQAAAABJRU5ErkJggg==",
     "wiki_name": "Guthix balance (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guthix_balance#1_dose",
     "equipment": null,

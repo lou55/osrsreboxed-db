@@ -1,7 +1,7 @@
 {
     "id": 3189,
     "name": "Cleaning cloth",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-14",
     "duplicate": true,
     "examine": "A spirit soaked piece of silk which can be used to remove poison.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACz0lEQVR4Xu3WbU8TQRiFYfoL1WjUqPEFAiq+i4qIIAIWQdJAWkAkRSFNRUSMiVGj0egvG3NPPeuz02nTbVfjByc56XZ32rk68+xs+/r+/VZw8cSu//FWcE/GD7v5sUM+xdGDbvbWAR8hasvn3FbpjNtcPB1BhT+iZ3gDJBQgJcRUF065teKJ1MC851qYNCoTsuBKE0eaULwCUQRamT3ulqeO+r68xkD0t+ivu+Puc32kO5RAHGt2BHr2+KQHqW8rEJ/7sjPmvu8/dD/2ZzwoE4Yv1a8WiEFjoPL0sQTEcQxUL/enQBx3CCqkloGBVNy8D0EMDkLL2wq0uzqYH0izxLkYSDMpELMWgt6sDyUgkgmkughBDC6QLVCbVqC3G+fToJd3egdxHhB9pgfmkswOzicJgQTQu+rFfEGEpeR6cWgxAQB60F/0mTg7Ew2f+bB1OQF925vsFENLgyyKX8r1xUtltzC85OYulHwE1IxZHP1Z4o/bV7sF0X7XQwjSkq2OVN3T289T2RjdSkXLBehT7Ua3oMYexAy1AglVvVvzA4Or3NxwS9fWXOlK5ddgDYw+Y0EZNsXGLR8DkRDE4Cyfls7Gzk6uIKEIA7DjMoDqidqhhqgpcMwSs8WscT1XkJ0lXi2IvgKUr697QCz026kMJCB26Q4xtMYdFgPpcQBINcJMxKKCpw94Hht2hroChXWk3bcVRAiKnGLfvFdPQDw2cgMJxfkQYxEv7u/4bE++8qGv6odd2oIyoBqg2LIJBIAZ0MC1qdc+9Zk9V3+070M/3WEs8fvN4QTEHpRhH0qD7LJxrt1D1cbuPz2DuMvagRiAwTinZ5z2KVtrWq7cQOGycd6C7H8gYQRSX0Dc8hbEHpR5H4otmwVx3A5k6ycXUGzZLIhr9m+JBdHP1k+PIFpzkcYS1o8SgtgULUjJAOq0NSMVWz9/EdSuNSOb87/11n4CiYx5EmemIv4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xs3Wi04TQRQG4PZNeATfRI1GjRovEFDxiqiICCKtRbBpIK1cbFotadaKWGNi1Gg0+mRj/tn827OHs02XroZJ/rTsTnO+zpydkssd/pF3dqz7/3zk3Yu5E25l9rhPaeaYK9476kNEe/2ya1Uuumb5goHSX2JoeAgiCiBGYxqr591m6WysMP7GPZ04KhUy7yrzJ/eh8AoIQ9DL4hm3vnjKz8WrBcJ8if65O+e+B9MHQxGE91wdgl49P+dBnJsEwud+dGbd7+5T96db8CDUODIy4qOrqxEuO781QShqgapLpyMQ3lugoDoaA+E9Qbq6GvnYNqAQmxt/axCKA8HtTQLtboxnB+Iq4ZoF4koShFXToA/bExEISQViX2gQihMkG1QmCfSxfiUOevtgeBCuA4Q5S2PLUYrjK1E0EAHoU+NatiAEW4n7pYlyBADoyWjJZ/5SwQw+86V1IwL92luIMKlBEoVvivvl61W3Ornmlq9WfAjkikkc5mOLv+7cMkG6esLo9YMGccs2phtu6/7rWOozrVi4XQB9a08dFBSeQVihJBBRjYdtXxi42t26W7u96So3a/4eMfyMBMlDUVdXI3zkLRCiQSiO7ePWycjVyRREFIICOHFRgP2E3kEPoaeAwyphtbBquJ8pSK4SXiUIcwmo3tn2ACuY16mNRSCc0sQMBMITZoH4cwAQewQrYYUNjznA42dDrtCAq4PRA+k+4umbBCECTY5mbz4KIhB+NjIDEYXrGiMRbx53fHYW3vlgLvsHp7QEEaWrGyMEWdtGEABYARZuL773CQp7LnjW9cE8PmHY4s/NyQiEMyjFORQHyW3DtX4/qjLy/BkahKesHwgFUAzX+BvHc0r2GrcrM5DeNlyXIPk/EDEEcS5AeOQlCGdQ6nPI2jYJwvt+INk/mYCsbZMg3JP/lkgQ5sn+GRKEsb9Jrej+YTQIh6IEMSlAuRyP9X7RQBnZP5mABh0aOQiW6c39T0MjrejPHOrxF9OQw56fikKiAAAAAElFTkSuQmCC",
     "wiki_name": "Cleaning cloth",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cleaning_cloth",
     "equipment": null,

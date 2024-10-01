@@ -1,7 +1,7 @@
 {
     "id": 1298,
     "name": "Black longsword",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-12-08",
     "duplicate": true,
     "examine": "A razor sharp longsword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtklEQVR4Xu3V3WrUUBDA8V16saR46TsIXuib+IGioqKoqCgiSItSiuJHKdZqpaxVVLrYstSl1hXBj2pR9AHEC8HXGfknTJzMnmw3myheeGBINudkzy8zJye12r/f6hKOUP8fb3WZndwnMxN745i+skemxnfHoYj2/AlZmjsurbvHAij/EKXhCUhRgDQ8ZvHOUXk0fTgzMb/p85FFFULWZe7q/h4URyAaClqYOiTz1w/EYzmGQIy36E+rk/JxZWw4lII41+wo6MntIzFIx+aBuG+jMyFfujfka/dWDCqE4U/1qRXEpCFQ8+bBFMS5BfFfHFeaJzMgzgcE1TNlYCJd3Pz2ICYHoeW1IP4rajTi4+rD09WBNEtcC4E0kwoiaxbDuJePz6QgohBI14UHMbkH2QWtIMVY0KunZ7Og55fLg7gOSFGaSftGhjDE68Vz1YIIABbkF3QehrHvli6koM9r1wbF0LIgi9LX14P6YRT0fvnisCBasnkxWT+QLmiPIZMetN6+NCwo2YPI0GYgzaKCOHLNgxhvQQU2xeTpQiAiBPLZ8SDGVQpSFMEE7LhMwLnHgOY+X67KQDZLHC0ohMkDdR6cSkHs0gNiaMkbFgLp5wCQx7C+8kDg+WzYDA0F8utIPwchTB5Iy8VnozKQoujbuWNEZmca0l6OZP3tqHz/tiWTIZtJC2KXtqACqAQUKht927fWZNe2Ebl/L5KND6NxbAaixG9a51MQe1CBfSgLsmWjb6EZyc8fSVY0bLk8iOyUBvGWeRDXx8ca8qwVSXctyYp+MjyIe225KgP5stH3opNgmJDJLUj3Ku7jPxTEK29B7EGF96FQ2bhOP0/MeT+QXT+VgEJl06dmEvpAhED62dBylQTRfi/YfuHXj4YHsSlakEYB0KCtF6lh189fBPVrvcje+N/KtV+/0UxBUtFy2wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xs3V3WrUUBAH8Cy9WFK89AF6J3ihPolVFBUVRUVFEUFalFIUP0qxVitlW6VKF1uWutS6IvhRLYo+gHgh+Doj/xz+2ck4STfdKD0wJJtzsvPLnJOTKNr+rSZ+eP3/vNVkevyQTI0dTGLyxgGZGB1OgojW7BlZmjktzYenHJR9iL7hAUQUQAyLWXxwUp5OHs8kxm/02ciiSiFrMnPz8F8oHAFhEDQ/cUxmbx9JxuLogTBeo7+sjsvnlZGtoQjCOatD0LP7JxIQx+aBcN9Ge0y+de7I9869BIQc+4aGkrDZTQtl51MThKQeqHH3aArCuQbhv3BcaZzNgHBOkM1uWi0zDUjExY3fFoTkQHB6NQj/FdfryXH1yfnqQKwSrnkgVpIgVE1jMO71woUUhCgF4rqwICS3IL2gCSJGg948v5gFvbzePwjXASKKldRvpIdBvF28VC0IAYAG2QWdh8HYD0tXUtDXtVsppjRIo/j6WlARhqCPy1ddkM2e08LmhWRFIC5oi0ElLWi9dW2roLAHoUKbgVhFgnDENQvCeA3Sm6LNblp4Og+E8EC2OhaEcZWCiEIgAXZcJMC5xQCN++x0VQbSVcJRgzxMHqg9dy4FYZcmpicQ3hwPxM8BQBaD9ZUHAh6fDV2hHquD1gXZdcTPgYfJA3G68NmoDEQU+vbuGZDpqbq0lmNZfz8oP3/syFRIV1KDsEtrEFE2u9MCyJs29O3eGcn+XQPy+FEsG58Gk9gMhCl+17ycgrAHldiHsiA9beibb8Ty+1eoCkNPlwWhOn2D8JZZEK6PjtTlRTOWzlqoCj8ZFoR79XRVBrLThr5X7YBBQiTXIO5VuA//QRBeeQ3CHlR6H/KmDdfRjyfGeRFIr59KQN608amRBH1AeCB+NjhdfYLQugu2KOz6YVgQNkUNYpQARRG39aKwQB16/VQC6rVZZC9YRnfsf2oW6YW9Z1u3Pwnkls3ylp/LAAAAAElFTkSuQmCC",
     "wiki_name": "Black longsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_longsword",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1430,
     "name": "Adamant mace",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A spiky mace.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABGElEQVR4XuXUwQqCQBAG4PZYSCJJYpKCkhFJmVgUaBEEXboEvf+rTIw2tfoAswP98J/3Y3Z2B4P/iYJfjaZFpGUK+TWH6llxo/RJ/CBUZlAL0KtjjIP82Ifj4ygDhBgC6SgjIIS4gdu0uBWdsoN0TB8UrSOoX+emTCjVweggxFBZQZZjyQLZrg2O73RAOobKBiKMF3nNPgWLAJJdAlmVQXnff8sGIgxC8MVtLtvP4f2yRMF8FX5/aJwK4+H9KIhDC4rM6U3FSBTMvCFsV3YDMgihKFjGYzjkExmYMBjJmQxi1qmg6Yi6KnxVuMhiMHhVp8KVAUKMmEXGvRFzVYQRs8iiMLQ39WFqGtR+gIJ2B9OihGAoojBm8gbmVREslTwv7wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPUlEQVR4XuXUwUrDQBAG4O5RCQ3BYEiDSUkxUhraGGqpkCqC4MWL4Pu/yshkO83ueJXZAX/4bwn5mJ3NbPZ/YmBq0FhEs2+ge+tg+BqkUe4kJgiVQN1yKYGyALcuJjgor3M4fh51gBBDIBcVBISQtEjH9u+9V3GQi+GgalPB6ftlrNBNMx7GBSGGSiCBKRmIkkgXKE5jSPLEA7kYqhiIMFmVjftU3BewelxBO7Sw/3i6VAxEGITgjdu+7s4L7BcxIqC7dXn5Q+NU3I/z8rf/OAbqMoK+TbypCH2cx8Aiu4LdOh5BfCr8aYEYeKjncOhuQk6FYqAsrn9Nhj8lFIvZNP50+FOCUXZUeKtwkdVg8Kie+1THUSFGzSLj3qg5KsKouVUcExA07c3pcBt6OvYHqGh3MBalBENRhbGRxvwATrFUjdSp/icAAAAASUVORK5CYII=",
     "wiki_name": "Adamant mace",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_mace",
     "equipment": {

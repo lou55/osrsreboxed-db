@@ -1,7 +1,7 @@
 {
     "id": 1058,
     "name": "Red halloween mask",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-10-31",
     "duplicate": true,
     "examine": "Aaaarrrghhh ... I'm a monster.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADN0lEQVR4Xu3WQWsTQRQH8IQQQqX05MmLJy9eBBGk1EM9CPYSbTVVq2mpmkpErEVRSrSkWqo1NRCjDRpSWgk1BK0IbRVFrXjsxVO/znP/s33Lm92xZpOteHDgsZPdSeaXN28mCYX+/RYmc5ie73gLUy5zimbGe1VM3zlJU7dOqGBEtTBMi/khmp8dNKDcX6JluA1iFEAcbkzl8QUqTQ9oE+M1nrlDR/lChil/77QHhSsgHAx6PnWWCtl+NRZXEwjjJfpLPUOflm42h2IQ+pwdBr18dF6BeOzvQHjf59o4rS9P0vflBwrkC4MP5W/NIExqAhXvn3FA6JtAS8WLGgj9BkFhbRkwERc3nrlBmBwIXl4JwngG1edSwYEwkfrwpwV1dYM4kwxC1jBuNHXZQb19MeKAEL5AXBcSxBnKT2YdFCaSBc0gPB9JJrUMvStf0UGvbwcDqlUqdPfGqOpzJuWOxP3B/gQN9NnjGfS+kg4WhABAPc/lKD2kb2OORDxOvT09GgbZXFu85oC+vploFIOmgySKC3W1XqeHmYyafF8kpMXxo93U3dXlAX14db1ZEJr9bVEPbhB2GZ7F2yJ0JBahg9EIHbACmL1W7LFidyjkAX2sjjULss8gZGg70LldUYU6FrNhjAKowwXCeyTIx6FoF6oJhJCgpAVKWNFjodDvtlD7o3aWJAjZCRTEKAQmwImLcWMdMZUlgA5vYZAp9HcMJLOEqwSl2qMqM7x0AGHZAMKySVDt2SUHhFO6QQyavcNMIP45kKDhdhuDwkb9MAg4BiE7+NmQGWoK5K4j3JegtMhQX5sNY5B7ufCzERiIUbiPCQDiwkaWNjd/0mxugkqlGersPKRQbhBOaQnygbJBpmUzgZChjY0fKkvl8hMtOwzC+JX5qw4IZ5CPc0gHyWWTIFwxFjW0/m2N8vksLSwUtexw/bQMwi77EwiT8ZKtrtTVeVStzqni5i3PyxUYyL1suC9BKHT7Q73BYwHClpcgnEG+zyHTskkQ+vI/EE5xPjx5N/LYQECmZZMgPJN/SyQI42T9tAhC8y6BKSRGhhuEQ1GCOHyAGm1eJIesn78I2q55kd7431prvwB/oRIycuVwVAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADV0lEQVR4Xs3W0UtTURwH8DvGGIb41FMv+dJLL0UEIfZgD0G+WFpaWVOsNIzIpEhkJbPEstlgWY4aE41hMsoI1KKojB596cl/59f9ntvv+jtnR9t11/DAj3vdPfP32e/8ztkcZ/ePCNnD9nzHR4TSybM0MdyqYnzoDI3dPa2CEcVsD81lumlmssuCMj9E1XAPxCiAOExM4ellyo13aonxN56ZoaMCISOUeXCuDIUrIBwMejl2gbKpDjUXVxsI8yX6WylJX+bvbA/FINxzdRj0+sklBeK5m4Hwvq8Lw7S6OEo/Fx8pEHIcrq9XYWY3hld2/tQMQlIbaOrheR+EextofuqKBsI9g8zsxohoy4BE3Nx4ZoKQHAheXgnCfAaVpnvDAyGR+ufPs+pqgriSDELVMG+g95qPev+qzwchAoG4LySIK5QZTfkoJJINzSA870sktAp9yF/XQW/vhQNaKBTo/u0Bdc+VlDsSr3d1tFNnmzefQR8L/eGCEACo5+k09Xfr25ijvaWFWpubNQyquTJ30wd9fzfiYwKDJIobdblUosfJpEp+IOpocepEEzU1NpaBPr25ZQWZ2TcZ3qdFP5gg7DI8a6mJ0vF4lI7EonTIDWD2u7HPjb2OUwb6XBzcLsg7g1ChrUAX98QU6mTcgzEKoDoDhPdIkDwUzezG8BrVBkJIUMIFtbvR7KJw3+SiDsa8KkkQqhMqiFEIJMCJi3mDdXFVJYCO/cWgUrjfMZCsEq4S1FsbU5XhpQMIywYQlk2CFl5c9UE4pRlTEQg7zAbirwMJ6qn1MGhs9A+DgGMQqoOvDVmhCquDsQEy+wivS1C/qFBbjQdjkLlc+NoIDcQovI4EAHFjo0rr679pMj1CudwENTQcVSgThFNaghhlZrcMD2RbNhsIFVpb+6WqlM8/06rDIMxfmrnhg3AGBTiHdJBcNgnCFXPRQ6s/ViiTSdHs7JRWHe6fqkHYZf8CIRkv2fJSSZ1HxeK0am7e8rxcoYHMZcPrEoRG9/qgPHguQNjyEoQzKPA5ZFs2CcK9/A2EU5wPT96NPDcUkG3ZJAjP5M8SCcI82T9VgjDKl8AWEiPDBOFQlCCOACDH4WN9qzCBMmT/hAKqdJjISrAcG3P/0zCRtjDfs6vHH8mlXL6Z6vR2AAAAAElFTkSuQmCC",
     "wiki_name": "Red halloween mask",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_halloween_mask",
     "equipment": null,

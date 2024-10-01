@@ -1,7 +1,7 @@
 {
     "id": 13394,
     "name": "Gang meeting info",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": false,
     "examine": "Info about a planned gang meeting. It may be out of date.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAxElEQVR4Xu2RQQqDQAwA9ST9/wd8QP9oCaWIs2abzSZ0LQ7MqdWMyTTd/AfzFq+beXuua7gdURcIeiyLST5HnefLC3KG5Qcdw75SBmVojBGOQdoGuB1NhnQHZTlUUEOMUAbxDJaT1OwKYoBFBtChghpjhPJkkXYH8es1OVhzqCBHjJB3srQgbkeTz4UE1Qa0GhIUpTNG0DdEObRmWFCUHUHCHsWtWGTMT4Peg3eDggTb6RjAt3zec/5bMxx2pgXr/24uyAvVTVnAHWqRHQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA7klEQVR4Xu2XUQ6CQAxE4Yt4C47gkTmAd8RMDEGm291ubZUYXjJ/rn2Z1g+H4eI/GNf4uBnXx7KE5wOpPKH7PHukpNBtmkzhdxzn+vKEnGL5QkexJlIoI9tNGe7qKKQ1wO1oYREW4ukFvtsQTy+QL9SxLiCFeA2WldTS0Q7Qb8gaFuCcSqhzXUCuLDKd7QBfQzxYy6mEHOsCeStztAPaQtyOFn4XIlQb0JsQoag47wfoDXF4aC3OdkBuQzzNyC7FrVjCMj8Vwtv3BAkB2+pYYDvc/YBf3xMgBPjPngwLlIe6f2ESHlYKvylh/dxFiyc6JZuy8lvuvAAAAABJRU5ErkJggg==",
     "wiki_name": "Gang meeting info",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gang_meeting_info",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8180,
     "name": "Plant",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAt0lEQVR4Xu3TwQuCMBTH8Q2JCCTwElSUB5GBSJmXPFTUIehU//9f8+K9MSbDY40dfh94iJvgl6FKAQAApEJTuPIn/CI34brfv322E8/8nCbTF1R1c5lxXH3K5Tq81jIRYhwbsDdLyosZHR8LqvpMZnjbqIgxTFPZ2tPZ1Iraqw0yZx/E99Gj3NXFNJeMuqcLiRozpiWGow736KcyRdOuUXI6HJZE0KpU8i3xJBDE/K8f7gAAAETwBfP5UJhQP+FiAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAzElEQVR4Xu2TQQuCMBTHNyQikMBLUFEKIgORMi95KKlD0Km+/6d58d5jzEZHmx7eD/6oc7gf/02lBEEQBGEqaPBH/gQuZOOPu/fde/tjzuBoME0CeT2n9OWKU0zX9rmm4H2dZRT/KwPDAnuzhDiZwfG+gLyJKO2LpQLKIBrSitvZFAqqKwuZsxPC5wDb1YcbsIujTHmJoH5YkaANMVYIZVDqcGMZKxJUxqFhVypqB8Vcc6OhYZUqOkuYCQgh7tcfcau+GfncCIIgCEH5AJFramavc87eAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

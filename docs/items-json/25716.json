@@ -1,7 +1,7 @@
 {
     "id": 25716,
     "name": "Clan cloak",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-05-26",
     "duplicate": false,
     "examine": "Shows your clan's colours.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABv0lEQVR4XsXWz0rDQBAG8IYepFCShvypVghofQAPPoCl4KUXD4oXDwWLLRYVBA8eBEFfwCce99vxM2no0c4ODCyBsj++nSbb6fx7RbLZQSuS67Qvk35Pbi5KuZrmIVGRrMtUXg8yj7g8z2Vylshpby8UKpKnYdrYPJLP1ZFHZt1uCFTkj2pz40jeR1mIlHTjeR7Lx4hzo43nSMkQpJuyv6uhfB3mHvfijhBtiuGmq2LgZ+jNDTUGG2s855C3f7mjUtC6HPhjQd/liW+szdNhCkxnWSpmnsWyKGJLDEpBwLTTCYBB1SCmgwYGA20M0rcyMEyIILQxBlWD2ungyIKCOD/B07l3mKqqZD+OQ4JqDPrEgXBkx+OxFEVh/4m4zTQNYADBmpAgGCCYDgBpkvytDUE1hqDpbOZnJ0A6ikHjE9FMg0dnCFIMrxFIZ+HeMZydJgb3aBMQMAQtC/2CbwOZYPxX22FwnyGIc4Sk0Kbp8CoB0MMvhkdHnDkIDdDKAXgzBA6NNWbMAIPSNzJBzX4c6rUUbQhCKYp3ZDTWz41nxvcevYAxKfS2tSEIVaOaf/n68m6KYSmK/7KAkGYRsXvIDzd0sCzyq6jfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4ElEQVR4XsWXwUrDQBRFG7qQQkkakrRaIVTrB3ThB1gKbrpxobhxUbDYYlFBcOFCEPQH/OIxd563E4cumzcXLh0G2jnc95J5bbX2rsj8d1BF5ibtmmm3Y24v++Z6loeEisymn5q3o8xCXF3kZnqemEnnIBRUZJ4HqT18MhrZz6/1iYXM2u0QUJEtlQOSvY9htk3J7TcuOXiRx+ZzyL4RYx8pKQLJofRPOTDfx7mFe61KCBNGASjaHroueraH3qumRmNjjX02uQIMJECbfs+WBb7PE2us1dNhCkxn1ReYRRabZRFrwkACBBg/nQAwkANiOjBg0NCKfQPJWxkwTIhAcJB0COSng5IppwM5IPZP8HQeKpiyLM1hHO8E8r/VkBwMfFYBoWSn47EpikL/irjLJA3AAARrgtRhFIAEBhBMBwBpkmzXiuk4GALN5nPbOwHSERgYV0Q9DZbOB/J/YY8SGI4RSGdZvWPYO3UYzNEqQIAh0KqQG3wXkEK5Irm1KxjMMwRiHyEpWDUdjhIAevyDYekIpw4EA2hdAXAyBByMNXpMoVyQvJEJVPfTQMZSuA7k/0IDEijOyDDWL7U95blHBjAmBe9aKwJBDqr+yHN4V+ofXwLFp8wHUYah3D/RpkF+AeFw8K8+5N6+AAAAAElFTkSuQmCC",
     "wiki_name": "Clan cloak (Red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clan_cloak#Red",
     "equipment": {

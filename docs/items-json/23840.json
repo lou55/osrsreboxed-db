@@ -1,7 +1,7 @@
 {
     "id": 23840,
     "name": "Corrupted helm (basic)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A shiny helmet that provides a little protection from corrupted creatures.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xu2W0UuTYRTGfa+ke+leJMMMzTAjTDBMzAzTzMzMNDMzM83MhpFmYRMzk1xmNTaG2ZQxNtSWjI2RZsKISLwovOhveeI569MV0c32bTffgZe9F4Pz23Oe57xLSTHKKKP+LoU/T1JL4f6tbrQ1NqK6vByTj4eTCaUwb7Nh6E4vblxuxsnjJXgzNoZ7XV3JUEthwemEy27HsMmE601NKCkqgsNiwaO7fWiuq8PRgoJEQSkEFhfgc7ngdjhg7u9HS329AMxZrXgyMCCAVCwBQAprwSCC75fgc7vhfTcrI7t4tgaHDuTC83ZGfNTb3o4LZ6qRm52tJ5TC1/XPWA+F8HH5g4zn6YNBaV5bWYn9WVmiGn3EsdHop0pL9QJS+L6xgW/hsHhHgzF1duLSuVrxz96MDGnufP0Kzx4Ooa+jQ1Tak56uB5QSVaZHR7dh2JDeOV1WJv4h0NL8HGwTE7COj4tK9NKJY8XxBlJY8fvFsDNTL2AxmwWmtaFhG4ZeOZiTg2WPR4CpENPH79Ffu9PS4gkViTh/PVNln3wuDc9XVQnM4bw8HMnPlzuNPjv9UhQcvN2DnmttolIcV4CSRIV8PhkZG3IZ0riMt6bQvszM3w0j8NrIuDC5k2j6XampsUIprAYCAhFeXcGXtU8CRaWowtTIiOwgjobNGX8eKsPn5OaVFvEYleQ4Y4b5sbkpIASiQtw/vNNLNDdheDQAPhlMHY/mMaaMKsYIw1L4ubUlMdeAaGxNHRqbh0CEIQD3ET3TfbVV7jQzH9ydccZcOyoRiIebmSniiQYiCEdEz9DEhKqpqNAn8lSJ3vF7vfKYMmn/AuJm5pj4STgd37LIUuToCPU/IG5tQlGp4sJCvYBYSoCoUDSM9t9H8xFHRTBGXUcYrZTsFy5FxjzSUGuq3aNPQirhDY0yyqi41y8ZF6KWXbUFRwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xu2W30vTYRTGfa+ke+lakQwz/BFmhAmGiZlhmpmZmWZmZqaZmRhpFqaYmeQyK9kYZlNENsyWDMdIM0EiEi8KL/pbnnjOenWadNG+30mwB172HQzOZ895znm/ERFhhRXWVilsPjsqhXs3G1FTXo7C3FwMPuraSSiFCasVnbebcf1SJU4cy8Lrvj7cbWjYCbcUph0OTNps6GptxbWKCmRlZMBuseDhnRZUlpTgSFpaqKAU5t5Nwz05iSm7Hd1tbagqLRWA8ZERPG5vF0A6xt8mR0ebCaWw6PXC+34G7qkpuN6OScsunCnCweQkON+MSo6aa2tx/nQhkhISzHRJ4evSZyz5fPg4+0Ha8+R+hxQvzs/H/vh4cY05YtsY9JPZ2Wa5pPB9ZQXflpclOxqmtb4eF88WS372xsZKccerl3j6oBMtdXXi0p6YGDNcUuLKcG/vOgwLMjuncnIkPwSamRiHdWAAI/394hKzdPxoptEuKcx7PBLY0aHnsHR3C0x1Wdk6DLNyIDERs06nANMhTh9/x3ztjooy0iX/iPPfc6psg8+k4LmCAoE5lJKCw6mp8sygjw2/EAc7bjWh6WqNuKRXgAEuKZkon9stLWNBLkMGl+OtHdoXF/fbAT+8bhkXJncSQ78rMjJYlxQW5uYEYnlhHl8WPwkUnaILQz09soPYGhbn+PPQGV4nNy5XScboJNupHfpHlxR+rK4KCIHoEPcPn5klhpswPBqAVwanjkdnjFNGF4OEoRR+rq3JmGsgBlu7w2DzEIgwBOA+YmYar1TLM8PMC1e3MwgYrQ2XCMTDzcwp4gkEIghbxMwwxIQqysvbNPIGAFFKXGJ2PC6XXKactO2AuJnZJn4SLvAuMwhGy78U2TpC/Q2IW5tQdCozPd2oVm0nJUB0KBBGv/voHLFVBOOom+ROoJTsFy5Fjjm/bziw9TXWdBitPwvqooHfQwTjV8gLhhXW/65fQzXNmIJFSlIAAAAASUVORK5CYII=",
     "wiki_name": "Corrupted helm (basic)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_helm_(basic)",
     "equipment": {

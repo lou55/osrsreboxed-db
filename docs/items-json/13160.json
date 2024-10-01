@@ -1,7 +1,7 @@
 {
     "id": 13160,
     "name": "Book of darkness page set",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-19",
     "duplicate": true,
     "examine": "A set containing the four pages of the Ancient Book of Darkness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xu3X7WtSURwH8PmyN0X0vqEyYxlzk3LGzCaae0hQcZqpuc0ahRDRA8UYRW1j9MRorAcIGgRrGyP2qhdRFPWX/eJ7Lj853nv0PqjRiw58uXrv2fVzzz1P6+v794uL1FFd73lx0YulHD1bzIqsPcjQ6r20CCO2N+bp4/osbb2sKlD6h+gYroEYBRBHj/nwvELv1kpNP4zvuKZPM8oW0kXrD2cMKBwB4TDozWqRNh4XRF0cVSDUl9E/9pfo285dZygG4TO3DoPePy0LENdtBcLffd9bpF8HT+j3wYoA2cLgpvzU8pN1EhmEz9p50+Jqeg34no8dp+L0aYqeGaDpqJ9SsSHKJAKUS45QfjIorpVSIbqSHqW5bJhqM2O0UIjQjWJUHHHd7z4s7tV1UGzUR4mzgzQROanEAQYUIPXSeYHCeRmE2AJxv1CBwsNuigS9DRxgQAGEOmglxtyqxsVRCdq93xkITw7InUrIVnoGwpOjVfiHdj8dopinZgjOI+1APz8/sopBMYKKiX4BwisyAzFKDwp4jzgFoWjDdHP5UgOEjmoVhHQRpM1BaCE9CKPrem5YhEGvVpYbkUFcTwWyMSlqQ14FwtyCEVWe8ouYtRDX6zmoevGUiBmI63UVhOBcOekWcwsmwmvZgIgZiOsxKOg7Ku6FWdoiBkUbYe1A9fyIiBmI6+lBaCFHIEbJIMzI+k7dKvpO3RMQ1ix0VCt9qNUr45naIkoDya8N52YnPWKRBCgzPkC5uK8tCNfm00MiDAoNHhP3whxkYx5qBvHWlEFYQOOhfkqG3TQ15qHUOW8DWLhwgi5PaNMCjzB5lDkGYZS1AuHGWO2xpvEWhFd6XOOtB6YI1L9ZGe8eiFEyCAjeD/FeSMZgvWMMIPL2g0GYg2zPQ6rX1o1gU+YIpH9t6Nw4h439zmZNXJP/K8Fn7AwQ1ONNPeruvb5KX7bq9HX7thMQivHJVJExcvSg/bcLTSCODZDVYkRy0JIAoXX+IqhdMSKN+V86K38AqHVmWhIkKoYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xs3X7WtSURwHcH3ZmyJ636YyYxnTSTljZhPNPSSoOM3U3GaNQojogWKMorYxemI01gMEDYK1jRF71YsoivrLfvE9l587Ho96fYod+HLv7j3e+7nnnnPumcVy+IuV9NGd73mx0qvFFL1YSIqsPkrQyoO4CCO21ufo89oMbb4ualDqQ3QMN0CMAoijYj69LNCH1VzVjfE3zqmpRrWEtNLa4+kaFLaAcBj0biVL608zoi62OhDqy+hfe4v0Y/t+eygGYZ9bh0Efn+cFiOvWA+F3P3cX6M/+M/q7vyxAuIenv19EvbtSjGbnp5afrJPIIOzjmCmM/Brwdzp0krJTZyl4boCmgi6KhYYoEXFTKjpM6QmvOJeL+ehafIRmk34qTY/SfCZAt7JBscV5l+2ouFbXQaERJ0XOD9J44LQWBxhQgJRzFwUKx2UQ0hKI+4UO5PfYKOB1VHCAAQUQ6qCVGHOnGBZbLWjnYWcgPDkg9wq+ltIzEJ4crcI32vlyhEL2Uk1wHGkE+v31SQXTFigb6RMgvKJmIEapILfjmBak3r1OMYbpxtKVCggd1SwI6SLImIPQQioIo+tmyiPCoDfLS5XIIK6nA8mTonp3pRhDXgfC3IIRlZ90iTRrIa7Xc1Dx8hmRZiCu11UQgmP5qE3MLZgIbyTdIs1AXI9BXudxcS3M0owxBcIIawQqp4dFmoG4ngpCC5lsHZQDEKNkEGZktVPXi9qpewLCNwsd1UwfqvfKeKbGvnp3TTFA8mvDsZkJu/hIApQYG6BU2NkQhHNz8SERBvkGT4hrYQ5qYR6qBvHSlEH4gIZ9fRT122hy1E6xC44KMHPpFF0dN6YFHmHyKGsbhFFWD4QL42uPbxovQfhLj3O89MAUgfq3C2PdAzFKBgHB6yFeC8kYfO8YA4i8/GAQ5qCW5yHda+tGsChrC6S+NnRuHMPCfnujJM7J/5VgHysDBPV4UY+6u2+v07fNMn3futsOCKX2yXSRMXJU0N77+SoQpwWQxcLTeqOoQDloSYDQOl0BmS0q0gyWc1D3PxUVqYv6m0Nd/gHyebDmhkN/0AAAAABJRU5ErkJggg==",
     "wiki_name": "Book of darkness page set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_of_darkness_page_set",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 24470,
     "name": "Twisted relic hunter (t1) armour set",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-01-23",
     "duplicate": true,
     "examine": "A set containing Twisted boots, Twisted trousers, Twisted coat and Twisted hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQklEQVR4Xu2X20vUQRTH3SfppYgkSUlZZTfWFVel1g0vuey2XhJXWdcWtTUtKYSILhQiRReRbghiFwgSAjGRsJcesijqLzvxPT/Oj9n5jba/vUQPHfgy85szO/OZ25nZiop/3zxklslfdvPQ88UUPV0YZS3fHaGl20mWQGysztD7lWlaf5E1QOmDKBrcAhIoAIl0mHfPpujN8kROx/iGT1culCtID63cG3NAIQWISIBeLWVo9cE410VqAkJ9Ffr79iJ93bxVGJQAIS+zI0Bvn0wykNTdCwi/+7a1QD93HtKvnccM5AoGjcqo1ZEVIxUIeav8j+bJWQZ8p6N1lBk8ST2nfDTYE6ShaAuNxEOUSrRRur+dfRNDYbqQ7KCLoxGaHeukufEuuprp4RT+oPcgt1VyoGiHn+KnA9TX1WSEAxigADI/cYahUK4CQa6AZF+YgCKtXupqb7ThAAYoAKEOZklgrmdjnBqBPtwpDggjB8jNqbArlQ0II8es6B0eq662dbSqyuE3Af34eD9fGJgTKBOvZyAskd6h6EBlpaNMBQo1HioUCGYd07VH520gbFQdqDkQ4JlJ9vVRQ10d50PBYKmBrBiEGdKBcLqupFpZ6LjJ76f08DDL5/XykqEcknomIBdB0TryJiDEFpyoyYEgC50er6mxgXZ3PzEQwOCTemUHyp5rZqFjpOhcgJBXfVBJgSCUTSa8HFsQCC+PhijW3c2dIq8DoQw+8QtQu/8wt4UonScMzDph+wHNp9vsZUJeOq+vreVU9+tAmKGCgARKBUJExkaVDmVzyyaWVPWXFQh3FjaqBEKBQV6WD6n4TUsmkTpPKAtIXTaUTfc38CUJoJFeH6Vifho/eyIHaCbZYn8jLxKgcOAIt4UY5CIO5QLJ01SAcIHGwvWUiHhpoLPBBtAB5YSpp6xgIJyyvYDQMG573GnyBJGbHj55eiBEoP61qd7SAQmUCgQIeQ/JW0iFwX0nMABRnx8ChBjkOg6Zlq0UwqOsICB92bC5UYaH/ebaLPvUfyXI42UAoZ486lF36+Ul+rw+T182bhQCBHOOzCQVRpUOtP16LgdI5AIoX3NCijCTAMLs/EWg/cwJ6dR/K85+A+bHUpyCbdZ4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXklEQVR4Xs2X7UvTURTHt1fSmyKSJCXnJi7mxKnUNJymzOZD4pS5NbY105JCiOiBQqToQaQnBLEHCBICMZGwN73IpKi/7MT3jPPz7u5OtrmFB77c+7vn7nc+v/tw7p3NdvjNTmaZ/BU3O71eiNDL+QnW0sNxWrwfZgnE+so0fV6eorU3aQOU/hEHBs8ACRSARDrMp1cp+rCUyAqMZ/h0ZUMVBWmn5UeTOVAoASISoHeLcVp5EuO+KE1A6K9C/9paoJ8b90qDEiDUZXQE6OOLJANJ33xA+N3u5jz92X5Kf7efMxBitDU0sPTommWGXb5a/bKDSAVCHW0FwajTgOdofz3FR85S77kmGun10mh/K40P+CgSaqfoUAf7EqN+uhLupKsTXTQz2U2zsQDdjPdyCb/XeZTfVXag/k43DZz30GCg2QgHMEABZC5xgaHQrgJBRQHJujABdbU5KdDRaMEBDFAAQh+MksDcTge5NAJ9eXAwIHw5QO6m/EWpYkD4coyKHvBUTY2lk9XVOX4T0O+vjy2YkoDiAw4GwhTpAUVHqqpy2lQgX+MxI5AePY9ltunqs8sWEBaqDtTi8fDIhAcHyVVfz3Wf11tuoEwOwgjpQNhdNyJtLARudrspOjbGanI6ecrQDkk/E5CaFPXommW2vAkIuQU7KjnsZSHo6dpaC2hn5xsDAQw+6VdxoPSlFhYCo0RwAUJd9UFlBYLQlgw5ObcgEV6f8FGwp4eDoq4DoQ0+8QtQh/s4vwtZWmAKAsIO2w9oLtpuTRPqEtxRV8el7teBMEIFjg5sD0igVCBkZCxUCSiLWxaxlKq/okA4s7BQJREKDOoyfSjFb5oyydSo69ENlgFSpw1tU0MuPiQBNN7XRJGgm2IXz2QBTYdbrWfURQLk95zgdyEHFZGHsoHkaipAOECDfgeFupw03O2yAHRA2WHqLisZCLssHxBejNMeZ5pcQeSkh0+uHkgR6H8r1Vc+IIFSgQAh9yG5C6kwOO8EBiDq9UOAkIOKzkOmaSuHcCkrCUifNixutOFiv7E6wz71XwnquBlA6CeXevTdfHuNvq/N0Y/1O6UAwXK/zCQVRpUOtPV+NgtIVASQzSZpfT/pgKowkgDC6JQFqFDTIQuBFe31/U+mQ5qk/+ZQ2z8w2p0oxCi5WAAAAABJRU5ErkJggg==",
     "wiki_name": "Twisted relic hunter (t1) armour set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_relic_hunter_(t1)_armour_set",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 250,
     "name": "Guam leaf",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "A bitter green herb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xu3WvWsUQRjH8TuO+w+sbKxsbAQbG4s0FlYqioqKoqKgnShKCIovIfhGIMQXIiQghBiCBgQLURT9y8Z8Z+63PvPseN7ebcTCgYed293Z+dwzL7udzr9fuqEcpevbXrrh6cyx8Hj6aIy520fC7M3DMYRYXbgQ3syfDyvPzhVQ/k9MDE8goQApPGb5ydnwau501jG/ueYjRzVCdsP8neM1FEcgCoFezJ4KC/dOxHs5lkDcb9FfN2bC57Ub46EEoq7sCPT60ZkI0r2/A9Huy/p0+L55P/zYfBhBjTA8VP9aIDotgRYfnKxA1EugtcWLGYj6iKBuNgx0pMnNbw+icxAaXuo8g2saHuobLy+3B1KWOFcCKZNE7GRXJx13bB13pvr7pSsViGgE0rzwIDr3IGUhwxBAVN/di9cy0Ntbk4M4D0io+EA6HnQYg7qFKNoGEQxlDWQykAGIPSYM6Nu7u6NiKDnIorR8M9Cg495eBxgE5+O18UGUlH5WjAdVQ6NwmRAgi30TgdIeRIY8KD5Ec0adb3XW219GKGj3afV6BWqwKaYlXwLFB2gZe5BQB/oZZFtA2ugqjF09PksCUR8EbZlzrYBsltIDun8GGYxA688vVSB26RExlLTCSiC9nyqYncQW5IJ7eW3YDI0F8vOI8/FBZlVlExjQVD+FwTBcvDZaAwlVYdyml60sIAcHMfUL9GH5agZqgEogP2yxsX8V2Dlk41A/HmnD5slnx8eVaxWIPajBPpSDiNjQr64hWUodpU8OsjMxiFXmh02djBK0BUN2WgX5YeO8hoAO7TcQG6fee7TTvYBY8hbEHtR4H/LD5kHUh4GUIe5tBVQaNgvimv0ssSDus/NnQhClPi9KYTE2PIhN0YIUDUCjljpSYefPXwQNK3VkPf6XycpPaXuSxjtwcoUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyklEQVR4Xs3Wu2tUQRTH8V3C/gdWNqaxsVFsbCzSWFipKCoqioqCdqIoISg+QvBFIEQjCgkIIYagAcFCFEX/sjHfmf3dPXN2dt3r3kgGDndyHzmfPfO4t9Xa+a0dylG6vu2tHV7MnAzPpk/EmLt3PMzeORZDiNWFy+H9/KWw8vJiAeV/xNjwBBIKkMJjlp9fCG/mzmWJ+ZtrPnJULWQ7zN8/1YfiCEQh0OvZs2Hh4el4L8cSiPst+sfGTPi2dvvfUALRV3UEevf0fATp3kEgnvu+Ph1+bT4KvzefRBA5DkxOxvDZXUtl168WiKQl0OLjMxWIfgm0tnglA9EXyGd3rZ0NA4k0ufnbg0gOQsNLn//BNQ0P/Y2la82BVCXOlUCqJBERe1rpuGvruDv1P729XoGIWiDNCw8iuQepChmGAKL+3ol4LQN9uDs+iPOAhIoAEncTxqBvIYqmQQRD2QcyFcgAxD4TBvTz44MKUxtkUVq+GaibeGK/A3SD8/HaAJDPPqCl8rNiPKgaGoWrhABZHBwLlPYgKuRBEaA5o+RbySYOlREKnvu6eqsC2U3RZ3ctLfkSKGK0jD1IqMOdDLItIG10FcauHl8lgeh3g2eZc42AbJUiivgbyGAEWn91tQKxSwszEogVVgLp/VTB7CS2IBfcy2vDVmjE6tB6ID+POB8hZlVlExjQVCeFwTBcvDYaAwlVYdyml60sIEe6MdUDfV6+kYGE8tkLLYH8sMWH/avAziEbRzvxyDNsnnx2fFm5WYHYg2rsQzmIiBi/uoZUKf3y9MlBdcYGscr8sCnJKMGzYKhOoyA/bJzXEJDQfgOxceq9x3O6FxBL3oLYg2rvQ37YPIj+MJAqxL2NgErDZkFcs58lFsR9dv6MCaL1z4tSWIwND2JTtCBFDVCrpW19WHigDTt/GgGN2jxyFKyid+9/ah5ZCv/Mjm5/ALN/3VJEbOdKAAAAAElFTkSuQmCC",
     "wiki_name": "Guam leaf",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guam_leaf",
     "equipment": null,

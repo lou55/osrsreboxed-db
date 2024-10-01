@@ -1,7 +1,7 @@
 {
     "id": 13314,
     "name": "Blood money",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-10-29",
     "duplicate": true,
     "examine": "These can be taken to Deadman Nigel in Lumbridge.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiklEQVR4Xu2VsWobQRCG7xBCnDgkRESM5MJVXiBNGhduUqQNpEjhIkUKFy4MLly4cGFwkSIQSOHC4MKQIhBIEQikCKQILgyGFIY8zXq+W01utNJpT0GRDdHAIKG5m/3mn5lVkqxsZStb2b2y1MV9aZa6o24r6pNQIfDCwONAnSQJDqt+ZwFQqfu61p5IXA1UDbMAIC/zj0Hb/V7P3dUwL75/edh2H8XP+5l7/yAzQLNhSqDQa1mZ/OcgdzcCcymf39c80AeBORWYk55VKA40zWtClclR5dcI6JsAfR6p80ZgDjo2oVeT567leZ5DQZ4JIf4KyM4OB6AUv10IzLteVvy+kzfH5KetqHgmIIcSfy3xEGCa14BKi0p1djiEioHRuQmTznLeRz2cwmg5ClPQZqtRd57SolWqDEne9uItsP48a7qNRlLkAAYw2k7Lib9sN92jRllcBCq+8k+lOp0vDuP5T6Oh3+/4+FAOBIIYC4Gj8t6oMBZjV5R6lqlSlZYWlalKJOUw2saGqdwhEFcCceZnS+J9aS9xnPeJ0y6+A8asodSTP62rNL81DDSfWr1u2LYkedwcByLOQGucQ3TebNtwCuM5VYfWRYFIZC9EWqEb9kIOJKbVAz6tdSjFHPGObRsqoo7d0pDAWHkP2er1MmQ+yiFMi3jYOlWLdtC2cP6Ou/5aiICo+UPwMJF1BeK7BUIBva/YNNqGgvbCpChUrg2kCdQZam0Zq8+MWCXtba6DjZq6PXoPAcrvqMMW1gTCfPWayG7FK5MMgGlKcmh5k5f5Jn1uCxOMO9uDMgw4StqBVRXDjP/Q/P+XbhpwtIsbnYuP+VkyEOaVsn8LukFzzsiibbKddwjzn9ktSLMEMvvzOjsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACq0lEQVR4Xu2VsWsUURDGdzmOsMdx4TAYEgvTpA82aSxsLNIKFilSWFhYWAgpUlikCKRIERAsLIQUgoUgWAiBFIKFWAQEi4B/zXN++3by5t7t7tuEM7G4geGOm91533zfN++ybB7zmMc8/qvIXTpvLHK3v7iQzGlQMeCZAU8DGmVZedjG2lp1YPM7MwCVu9PlwVTjZkDNYBRQAH7l8DR/Xxm4P/eG7nx1WH7/enfgPkmeLBXu7Z3iElAKjAKazk4Rmv9YGboLAfNTPr8te0AfBcw7AXM4Dgx1AVSXHUGF5rDyuwJ0JoC+VOwcCZi9kZXBs8lzv+R5noNBnolBxIA6yDjpHQ6AKX77IGDejIvy9xfD/gT9yAqL7wXIa6k/l3oMoC47sJSXk6p3OISJAaO+iZu2Je/DHslgSA7DDPRwodfVT3kplTJDk+NxWgKbT4q+u9/Lyh6AARiyIzn17UHfrffCcAlQ6ZV/LNOpvziM5z9Xpt8d+fqqHAgIaiwECcuvqsFYjJfC1FbhmWrxU15OpizRlMOQjQ1TumNAXAnU8c8jqS+JvNRJ3qeOXHwHGF6Dqc1KulZA0Iyh+dTpdcN2pMmD/iQg6hha6xyifrOykQzGc8oO0iUB0cheiEihG/ZUDqSm0wO8TjqYwke8Y2WDRdixWwqYBkDhHrLT62WIP4IJ87IeS6dsIQeyxf47WPTXggXSAIbwh5BxI5sKiO8WEAzofcWmIRsM2guToWA5IZNGftlAE1OrZKw+HrFM2ttcjQ2buj16DwGU32GHLewIiPDTayO7Fc9MMwDUMcmhepPrX0tdJqSajLZGmmwPzGBwmLSGVRb1QOuVDr5pjrhBaOT/v3TTAIdc3OhcfPjHArqhCJumfwu6QVf0yOyiTdpryzKLiCW9VTD/Mv4C7/1B16RcaGAAAAAASUVORK5CYII=",
     "wiki_name": "Blood money",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blood_money",
     "equipment": null,

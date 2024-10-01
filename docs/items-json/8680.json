@@ -1,7 +1,7 @@
 {
     "id": 8680,
     "name": "Banner",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A banner with the symbol of Zamorak.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABAElEQVR4Xu2YSwrCMBCGzUpwIx5CQQXBohZBCqJSfOxEEMGbuHAhuNcDCV5sZCyVNJOS0CRQNT98lE4e8zXtqpXKd4eBPs7DIAqaGabDFqmlOJASn7goVsLgXK8SaDOKfI1x6MZF8UIqLAlh7Eh5IRW/LIQxlyqV0MW10ONWy5DWnndady4kyojIpBwIYRhpzjflZVGK59qwLpScUJ6I+Dp5GUcnVPKPugheSMV/CJ0kjXSxKGR+OimWpLyQKiUUyvuYkwYUcZ51IbqpPnStcRisJl3YRD3YzvqwWwRwWI4yHNchzMM2xOPOZ94+HrzH8Ir3WMdxa1Iq8IeDWJOjlxcp3GJf7GwLrgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABEUlEQVR4Xu2YzwqCQBCH3VPQJXoDLwUVREUlQQhRIf25RRBBb9KhQ9C9HijoxSYmMdYZRXN3wcoffIijzn6Oe9KyvjsC0mM8AtxeLcRkUGe1AANS9I2zoiUCTpUSgy/GiX5GObxxVrBXx7ZVpQqhNNEjVQgl8ctCGHWpXAmdTQvdr+UQQe1x43XjQlSGEiVlQAgj2OLyorIsSslcqtqF/AnFidDPKcsYmlDON3UWCqEk/kPoGLFQWjQKqU8nAHvR7hmiV0jDlAqhpIjYzezvCQ69T7sQbfoJ9FktQstxC9ZuGzbTLmznPdgvhiEOKwdmTgO8UfN9387rv67hEc+xjtd9UeXwN6fgDwdaiwInlGZKT6D/h6VgGoE5AAAAAElFTkSuQmCC",
     "wiki_name": "Banner (Zamorak)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Zamorak)",
     "equipment": {

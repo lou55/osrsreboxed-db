@@ -1,7 +1,7 @@
 {
     "id": 3800,
     "name": "Fremennik gloves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": true,
     "examine": "These will keep my hands warm!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu3WwUtUQRwH8Lc89tqpk5dOXroEXbp46OLBSyWFRUZRYVG3KBSRwkqkLAQxjQyFQEykjKBDFIX9ZdN+Z/Y7fmfeaDu+V3Rw4Mu+3TfP+Ti/mdktiv+/tUw6qft/vbXMi6nz5vnksM3sxDkz8+CsDRHrC9fNu/lrZu3l1QQq/idqwx2IKICYGLM6d8W8nr0cDIz3uBcnRGUhW2b+4YUKCq+AMAQtzVwyC9Mjti9eUyD0V/SPrSnzbeP+wVAE4ZqzQ9DKs1ELYt+9QHju++ak2dl+bH5tP7WgLAz+KP9rgjBoCrT45KIH4ToF2li8EYBw3SOoFZQBA3Fx430MwuBAsLy4ZlkUtLU81hyIs4TPUiDOJILny8G2Kc+0A9jHN7c8CMkCcV3EIAweg3RBW8xAB3O67VDIkIN9ens7BL0frw/C5wARxZlkHw8iSoJ7jYIQABQUL2gLOlWGKF4POBQwPz886hWDFoIUxe0bg4L1A1AiOkOZIDS3GDHYfqDkgj5RhjnpUgPkziDMUAzCPQVVFnQHUByvJgZlHIpuy8cgzphu5WT6y3QAawpkIZj2eLEmdpFPX2GKYxKgmgAh9kFMu64JLtT+3XKgrIjtf7RwKAaoLgindI8YNLfDKiCZfqJsGbrl4C4CyD8DFAOUzNCBQET5Ekj84hWkgrAb3aC7+bp+rxmQRx0pwhCEcshO0m967ETsyM+rdwJQBsqB4rLpN7gPUASxlN3TWEH42fFl7a4H4QzKOIdCkO42fMYB8OpR3Z3EsukMYXZqg7DL/gTCYH7WiOpc48xCPy1XY6C4bPhcQXpCE0MQ+wK0+epmAMIZlH0OpcqmIFzrdxh2l4J0/TQCSpVNQbinP0sUhH66fmqC0KLdtEcUo4lB+C2tICYD1GurIhldP/8QtF+rIqs5bPXabxsGu3gHbrkCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xs3Wu2tUQRgF8LtctrWysjFNGhvFxiaFjYWNDxQVFSWKCdqJooSg+AjBF4EQH0RJQAgxBI0IFmKI6F827pnZM3vm29m413uVDBz27t65zG+/eewWxc5vLZdP7v4/by33fPqUezp10mf27gk3c/u4DxEr8+Pu/dxlt/ziUgZlv0RteAARBRBjMUvPLro3s+eTgfEe92xSVCVky83dO92HwisgDEGvZs65+QdnfF+85kDor+it9Wn3ffXW36EIwjWrQ9DbJxc8iH0HgfDc5tqU+7nx0P3aeOxBGOPAyIiPHd20UHZ+a4IwaA608OhsBOE6B1pduJKAcE2QHd20VjINGIiLG+8tCIMDwenFNadFQeuvrzUHYpXwWQ7ESiJ4vjzSduWxdgL7tDgRQUglENeFBWFwC9IF7TFjHczhdkAhRwPs87vJFPThTn0QPgeIKFaSfSKIKAnuNQpCAFCQXdAedKhMUbweCyhgfny8HzGVQYri9rWgZP0AlIlWSEF29AEtLEYMth0ou6D3l2kOhtQAhTMIFbIg3FNQ34LuAIp9/bEgPRTt6KaFLW9BrJhu5WxGy3wAawrkISi7XayZXRSzp3DFXglQTYAQPwDKrmuCC3W0Nx2YVsT3310EFANUF4RTmpihQNg5fSApP1F+GrrTwV0EUHwGKAYoqdCQ1UHrgYiKUyCJi1eQCsJu9M9Jvq3cbAYUUbuKNARhOmQn6S89diJ25Jel6wmIKDt6pgWQnTb9BY8BiiBOZfc0VhD+dnxdvhFBOIMqnEMpSHcbPuMAeI2o7k7itGmFUJ3aIOyyP4EwWKwaUZ1rnFnop9PVGMhOGz5XkJ7QxBDEvgCtvbyagHAGVT6HctOmIFzrbxh2l4J0/TQCyk2bgnBP/5YoCP10/dQEoZndNCCK0VgQ/ksriKkAKgoe69vFAjW6fhoBDdsschgs0+v7n5pF5mKf2dHtN2UKBhPSlw/0AAAAAElFTkSuQmCC",
     "wiki_name": "Fremennik gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fremennik_gloves",
     "equipment": null,

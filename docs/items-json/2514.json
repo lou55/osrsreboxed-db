@@ -1,7 +1,7 @@
 {
     "id": 2514,
     "name": "Raw shrimps",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "I should try cooking this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu1W7UtTYRT3+ST9BVF9CBsmuPANWxs6dfjWTHxpNR1LWWvqmg1nMrZURpb4krYCwyyTsmQlgkUFERJUH6L60L/0q3Nud29O772+9AL7weHeyz3n9/yec885z83JySKLLP4bCGS2PYEWImlhV2sjXi/MYHU2gpXJMF7cGuXrHogTmHFaVBIITA5cgq++FN1VJxBsPoW5a/1sDyIBLF6/ivujA/wcDXpVcqZAqAyUdhxuNcLfWIaL1UVwmAoRsJ7EREc1xnzdLJS4Zod6+f7esJ+vytxxCCzdGMJIu0khSPCiCb9Uo0VJaORsBcbtZs42CaNs3ex3KXDHIfj7j/Y6VQZkqolfQv1udFot/AnpfuxcJaJdtXjiPYPliRCmB3syxGWEiAcQgcqgDJCEUt3I93OuesSutOBd2I6lvibOmgK/wNuHUTweDzLR3ZAP8+6GOGG6tzrIcQJ63VHmWR9sx4HcXC58u7FgO26BV/PTiE0Nc2dQEco7HOo+nyQs3dRC8qe6ayjKQ61eEpjulQTBHSC3KH02alMqcJolJPb903l8nfHh220/G5FrEyjgsRSzoLK8gyr8f5PK7UrXYY+DM9TvaOM0U+dQZ1F7G3SHsDbQxr5UvMrdI5ivsaJcwW8TJGHu9tMpRrOGOqevrgRt5fkw5R/WnCHamLLflkhdzFmp58zYDMc57eaCIzsg1+q/LdKzsRW50nvN2A2R4LZ+1GPlKb07LobUbTvbocD3OwEWREY1p50jI6TDNSEs9V3qswyBHwsjPIlpylN7U81t7a8Z0gGZOPUlo/ZOfk42mldTjpp48TeX6vZSEEHwbKEhSUfJxsoCNmKL+PB8CR/XlvFp/Rk+v4zhy5tV/iGLeLvQWmPiLtwHMTIEn/40JEkcHS2UCRIg/0pc7mhhIVazgYeeteTYfomRIRC4YOOJHXTZEXJ3ctZkMc1VRhZiMZSguryIbZ8FERK1Qv/NHlsTi6Gs1BnLWISpuDCppv4oNhf0XxKSxb+Dn7w9QPPpAW/yAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xu1W7UuTURTvfpL+gqg+pIkJGjrF1oavw7dm4kvWdJiylm/NhjMZmsrIEl/SLDDMMilLViJYVBAhQfUhqg/9S78653L3PHs29xLbh2A/ONznYWfn/J7fPefce+hQBhlk8N9AILqlBMkEkoldrY14t76EneUAtucn8PruNK8pICew1G1LMIDA/MhVeOpL0Ft1Gv7ms1i9Ocz2OODDxq0beDQ9wu8r/qEEY4ZBhP5oys5mM3pIyC+eaLXA21iKK9VFcFoL4LOfwVxnNWY8vUyUYi2PDfDzw0kvr0mQEti8PYapdmuIkNFDQnBS5Wc0SkpEAxfKMeuoZLWJGKl1Z9gVJ3YIgvd/eqA7AXUIMrnyk75/iXrd6LLbeAvpeeZiBVZ6avF86Dy25saxONqfOCH1BwogE8ZGdNKSKNWNel511SN4vQUfJxzYHGxi1eLEF/jwZAXPZv0c6MG4B2vuhlBAo3c8KLXUWph7gte90XYczsriwndY8mPFFni7tojgwiR3BhWh+sKx3ks6YkaLDU096U9111CUg9pCSTC6wgzBHaBalLaN2pQKnGYJkf30Yg0/ljz4ec/LRsGTIyjQZytmQqU5R0KEjF46yKCqXWmd7HOyQsPONpaZOoc6i9rbnHsUuyNt7EvFq7rHGFWD4HiN5WXx1NGg9pzM3X4uzGjWUOcM1pnQVpYHa96xCIViJxH8YfH9okBPTFl3RSEr02E+xbJX5h8PC55Ykn8go0d4ImO9HBQ8dk1F+sdF9EAEoxqRwQW39dN+O0/pWLEShOy2WF94MAR+3fcxITKqOaWi0TNJyMNVIxb+W/i7gsDv9SmexDTlqb2p5lJEiCAPSO26II3aW/+uN5pXC86aUPE3l+SmkhBB8GyhIUlHyf72OvaDG/j8ahNfdrfwde8lvr0J4vv7Hb6QBYZ60Fpj5S7Uk0khIYLg05+GJJGjo4WUIALqKnGts4WJ2CvNPPTsppPpIqMg4LvcwRPb73Jg3N3FqikyzVUWJmIzm1BdVsSW4q2KBq1W6N7c19HEZEiVOkspk7AWF4R80qiOBi1JZEEbiaSdjBH6xEYz+maQDvwBF9ieIrsWCIEAAAAASUVORK5CYII=",
     "wiki_name": "Raw shrimps (Tutorial Island) (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_shrimps_(Tutorial_Island)#Normal",
     "equipment": null,

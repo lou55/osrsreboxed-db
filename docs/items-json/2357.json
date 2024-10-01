@@ -1,7 +1,7 @@
 {
     "id": 2357,
     "name": "Gold bar",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "It's a bar of gold.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAxklEQVR4Xu3VsQ3CMBCF4VgoBRLLsAEFSzAJy4DEQFQsZHRBwfCcw87Fl6O4X3pNUuSTXaTrPM/720LMZ1aI1/M2mxFuGoNbCVWHuV92w5RPbB7mc/S8MU6OQVjCiWuLedzGqxT1wpyOfQaQYhaAEga3BCME8RgcAkoYAage8wtkguFATTE4BOCUMFSIh/3mPYRxOCUM9Q2qxSlhKB5UwilgqDoQh2uMGUs/QPx4aQoYbB5OGYOVcStisGmcEQZLOHzjeVY9AWDP4Wxp005kAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA1UlEQVR4Xu3VsQ3CMBCF4ViIAokhMgJsQMESTMIyIDEQFQsZGSsYnnM5++KLU/iXXpMi+WQX6bpWq7XajI1XLWPv1120SrhxDG4hVBrmedt/pnxieZjfueeFcXIMwgJOXFnM6+Gv8tD3EpTHXM7bCCDFzAAFDG4ORgiiMTgEcBgBKB0zBeIwiaA8DAUqisEhAKeEcRl7Om6+QxiFU8K4/kGpOCWMiwZxOAWMKw1E4QpjhsIPED/OTQHjCy/Kw6lgsBycOgbjcItisDFcNQw2QFaBadXoDQx3GWSSemWPAAAAAElFTkSuQmCC",
     "wiki_name": "Gold bar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_bar",
     "equipment": null,

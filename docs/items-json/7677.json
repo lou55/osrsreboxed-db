@@ -1,7 +1,7 @@
 {
     "id": 7677,
     "name": "Treasure stone",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "It knows where the treasure is.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xu2Wf0tUURCGPd9B+kPJMMlQQzPMDDMNMzPDNDMz80emZmaamQUREX3xE89c3t2517twr+4mhAPD2b337Jln3plzzjY1Xdj/bSGe9HOzEMdHRswfjY7aeG9w8LzggkGMDQ8byOMHYxXn+/2hoXinv/9fwYVUYMYnD8fj04mJlAMssFu9vY2CCxZc6uB85tmzyck4NzVlo1xgzLs7MGBgN7q66gUVLIBXJws0Pz2dcgBx/Y75t2/21QMoWECvDg3sgQi8MDMTX83OmvM568wjkTMChVSWUscD8U5Ab17M2+h/Q5lQBtX4fgagYIvkqaOGJsDm8nL89G4jft/bi3++Hccf+/vWM1daW+PVtrbY3dlZ6R9AT1m2cCJTqUMwAQHT19NjATWys359ObT3QF3v6LB3JPX6+dxpyhbi+uJiTXUEROZk/WFtrTKHZwQH6vfXoxQQ69FfzCsNtL2yUlMdXEEIzIia6i3eA8azyy0t8Vp7u81Rf5Fk9WwqZCF+fLtu8mbVAYAAKMNzsmZxgvEOGPqG7yRCvwiI9ZhPktVrppCFeLSzY2XLwvgmJTjBCLqxtGTOPNRDBd/UAFEuqV6ybEnJcBZWqVhEpQKCUdmvvlywQMCjAiC8AwZlcJUL1WmBkqd2UjayUtYKoN5hYXpEkATQPFxNDAyjyqVTu3TZOFdUNn5M1gqOYj8/H8Tj3d1KaaSKSuaBsuqgOglcam4uChVsO6tsQLEIwVEJV6b+XOKZP7l1lWTVoQdRtwQQFuLB1qYtCJQWI3ie5wFJHb5rx2pzJCCFYbBgZaFsfofoXPIOqP4bqVxSyKujfiwJIksam9KxpdlJOkvUDwTByVw3v+8frw7QJXdWniVnEqUDjLsLxXwpyJ6Acg8keGBLns61LNidxA3Ojjp8v22q0eyoxonsA+PqH69O9T92XSxpbhwgnM/85ZBqKicQ6h9Bljxvipp2ROK6KnCAGCklivmDkL5pAEyepQF13ngveV/V29KAVb+wxtpfMhGqQ3MSZZsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xu2We0sWQRSHne8g/aFkmmSY4SXMDPMSZmaGaWZm5iVTMzPNzIKIiL74xHOW33Z2XWvf3lcFaeAwe5md85zfOTOzdXX/2/luIR61M2shjg4Omt0fHrb+Tl/fWcEFgxgZGDCQB3dHUuN+qL8/3urpOS24kHFM//DeaHw0NpYxgAV2o7PzpOCCOZc6GNc8ezw+HmcmJqyXCYxxt3t7Dex6e3utoII58OrkgWYnJzMGIKbvGH+zu8uAupubq4EK5tCrQwF7IBzPTU3F59PTZlznjXEEUiVQyEQpdTwQ7wT08ums9f4b0oQyqMZ9FUDBJilSRwWNg/XFxfj+9Vr8srMTf34+jF93d61mLjU2xstNTfFaW1taP4AqbXlvf2nhSKRSB2cCAqaro8Mcqmdlff+4b++Butraau8I6sWTmX9JW4ir8/PHqiMgIifqtysr6Rie4RyoH58OMkDMR30xrmKgzaWlY9XB5ATH9Kip2uI9YDy72NAQr7S02BjVF0H+3ptKtRDfvVo1efPqAIADlOE5UTM5zngHDHXDPYFQLwJiPsYTpI6ZkiqFeLC1ZWnLw/gixTnOcLq2sGDGONRDBV/UAJEuqV5h2pKUYUysVDGJUgUEvaJffjZnjoBHBUB4BwzKYEoXqlMCFe7aSdqISlHLgWqHiakRQeJA4zAVMTD0Spd27YrTxr6itPExUcs5in37sBcPt7fT1EgVpcwD5dVBdQK4UF9fVqVgy1lpA4pJcI5KmCL1+xLP/M6toySvDjWIugIqrdLexrpNCJQmw3mRFQFJHe61YrU4EmUSmNJApIW0+RWifckboPo3UrqkkFdH9ehBSsLQksImdSxpVpL2EtUDTjAi18nv68erA7RWVoUgviV7EqkDjLMLxXwqiB6HMg8keGC1O1cBQwt2JnGCs6L232yaahQ7qrEje8eY6sero3/sKmHUkuLGAMK45pdDqimdQKh+BOn3mxrAqPmf9JAeFRhA9KQSxfxGSN2cAEzSsqsiC6j9xps/r2oOU9T+BCg7NZii5gGzsOeo/QKIdeObM1g1YQAAAABJRU5ErkJggg==",
     "wiki_name": "Treasure stone",
     "wiki_url": "https://oldschool.runescape.wiki/w/Treasure_stone",
     "equipment": null,

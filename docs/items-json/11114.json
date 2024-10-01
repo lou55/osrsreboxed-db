@@ -1,7 +1,7 @@
 {
     "id": 11114,
     "name": "Skills necklace",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-30",
     "duplicate": true,
     "examine": "You will need to recharge the necklace at the Legends Guild.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xu3W70tTURgH8I0hQxFHbDRsNFExyWDki8IgCF8IRYFK0sLKylg/oSjLGFZYyWglhtgPKhwEYiJlBL2Ioqi/7JHvuXznOWensetd0YsOPNy7nXN3Pvf8eM5CoX+/hMUdrvo/XsLyZOqoFPPDKgq3h2Tm5qAKIpbmz8rbudNSmh1zoOyXCAz3QEQBxLAxi49PysvCqNExPqPODhPlCxmWubsjFShcAWEQ9HzmuMxPH1NtcXWB0F5Hf1+dkq/LE5tDEYR7jg5Brx+dUCC2/R0Iz31bycvPtfvya+2hAvnC4Ef51gShUxdo4UFW1ekjgNBBywvjBgj3NYLCxjSgIy5ufLZBgAOE54YGEjKwf4vs622RTHeTgVp9kasfiKOE71wgPDM6mJRcdptcO5NSV3zu6dxAfXh1vgxC+AJxXdggdG6D0B4jcuhAvGLK8hfT0tXWqO4/vrlggt5NBgfhe4CIQlt0uDfTrO7RDtOHdsTO5julPRVV93UFITCVBKFdqjVa7oxtdBBRpeLOcjtgfry/VysGxQTpKG5fgpKJBgODdi7QjfHtxgj5BKF4awA/7gKhLh6LqCtTgw7CSOqg/r5YEJCXgzBCmwHhORvU3OS1JchHUvS2vAuE0EHsRF9jNojt6goiCoFOkHGrgbyOvGAbxJel68FB+ijhyrfGNmfSswPZundXc3lKkR5Wnp0rg5Cla8SgeDvMBdIzMiIZSUssEpemUItxZADD3ccpxrGhj9CmQPY6Ql1hokOKkx2yI7pb2hq6JRFpVaAj/XG1kwBCbiIGowMQjo26gYhCHTCITGOfE8RjgjuMoE+LlwyQD5QHck0b6nAMIHqiewwQzjEeH/p/IYCwCT6XLpdByEE+8pAJ0qcNdU/vdKnAaT5yMKFGBWsHgXquNYIwOoFB2GUuEL5D/fTVdrlyKqUW9thw0pgqgHhscLrqBrKnDd/zhL+VS0v28Fa1iL0f9jAEsS1A2PI6CDnIdx5yTRs7YWJkMCHqIH391AXkmjYdhDo7QxPEY4PTFRCEsvH21ULH6GGDkBR1EMMHqNZSiWTo6+cvgqqVSmRl/C/Byjq9Au4XIBzC4AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4Xs3W60tUQRgG8F0WWRRRYpcWW/KKSQaiHwqDIPwgFAUqSYaVlWJXKMoyFiusRLLEELtQoRCIiZQR9CGKov6yN545PMd3xlF23VM48HIuM8f57VzeMRbb/iUu/vDV//MSl2djJ2Qq12Ni8m63TNzuMkHE4uwFeT9zThamBzwo90cUDQ9ARAHEcDHzT8/I68l+q2M8o84NG1UQMi4z93vXoXAFhEHQy4lTMjt+0rTF1QdCe43+uTIm35dGtoYiCPccHYLePjltQGy7EQjf/VjOye/Vh/Jn9bEBoY/W2loTbu9OCYadv5ogdOoDzT3qM3V6BBAatDQ3aIFwT5Dbu1Pi1jSgIy5uPLsgwAHCd92daek8tEMOtlVIS1OZhVp5NRwdiKOEdz4Qvunvyshw3y65cT5rrnhublhDfXpzMQQhCgJxXbggdO6C0B4jcvRwat2U5S5XS2NNqbn//O6SDfowWjwI7wEiCm3R4YGWcnOPdpg+tCN2OtcgddmkuY8UhMBUEoR22apk2BnbaBBRC1N7w3bA/Pr4IMQUDNIobl+CMukSC4N2PtCtwd3WCGmQ2/sGJVgD+OM+EOpSlQlzZWrQIIykBnW0VxYDCnIQRmgrIHzngsrLgrYE6aTo9u6UYMv7QAgNYid6jbkgtosURBQCnSDjbgbCOwbbIL4t3iwepEcJV/5qbHMmPTeQrdv2lYdTivSw/GIoBCFLE5MXCDvEB9IZGZFJVEtlIiVlsQrryACGu49TjGNDj1Ceo4OyBnLXEeomR+plarRe9iRbpaakSdKJKgM63pEyOwkg5CZiMDoA4diIDEQU6oBBtJS2e0E8JrjDCPoyf8UCEeX27ikByDdtqMMxgGhO7rdAOMd4fOj/hQDCJvi6cDUEIQcVkIdskJ421D2/12gCp3nvkbQZFawdBOq51gjC6BQNwi7zgfAO9ePX6+Ta2axZ2AM9GWuqAOKxwemKDOROG97zhL8zXC19x3aaRRyshQBDENsChC2vQchBBech37SxEyZGBhOiBun1EwnIN20ahDo3QxPEY4PTVSQIZX329YXG6HBBSIoaxCgAFIsxrW8WLlCHXj+RgPItLjIfLGOt7X8qLtIX7jfbuvwFBxU4sn1Ftv0AAAAASUVORK5CYII=",
     "wiki_name": "Skills necklace (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skills_necklace#Uncharged",
     "equipment": null,

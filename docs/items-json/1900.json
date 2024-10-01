@@ -1,7 +1,7 @@
 {
     "id": 1900,
     "name": "2/3 chocolate cake",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "Someone has eaten a big chunk of this cake.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xu3X20sUURwH8FmGeehFiKTISKnYoi3aEmIJjIRYqJculpWVhYWFvkVRiBRdRLohiF2oUAjERMoIeoiiqL/sl985fHd+c+bssrMzRQ8d+LJzOev57Pmdueh5/34riDuu83+8FeTJ+Al5NHY8zOStYzJx42gYIuanh+Tt1EWZe3rBgbJ/RGa4AREFEGNjZh+fl5eTZ2MDYx/n7MRRqZAFmbp9MoHCJyAMQc8nzsj03VNhX3y6QOiv0d+XxuXrwvXWUARhm7ND0OuH50IQ+9YD4XvfFsfk5/I9+bX8IASlwuCP8lcThEFdoJn7p2sgbLtACzOXYiBsNwkqxMqAgbi4sW+D7PXDH2ODll4M5wfiLOEYQDagbZUXC49r0IdXV2ogJBWI60KDNKC9zZOO1Z50rfWkuD4eHGM07OObq3HQu5utg3CMg5c2eFLu8sN0b/alstWXnu3mE8ExhH0QwnIBYZ8IAohAeneYcL9R8LeA+fH+TrMYtCSIAA7OVMtR7HMagu/rGUoJQjNTjEsYn3pg5PCeZCobTbo7opTXRckAMpctZoigI3ujgbHtSiNQqd0scIJS3BTNJZ8AbfOlf18gfZX60WVyLe5cQdUtK7NT9GXwQBBmYL87nCV7ppBcQEitZCsgzFRfKZD+nYEMVwMZOWQCDMrZ0xmFJUO5imuikuEu3SQGzVxhNqh3kx+WBQMTNLjbZGBXIEMHgxBhBnLny/y12gy1BCIKx1AyBCCUDACWjmsLs4i++A4fF3je4VGDx0ZuIKJYMhtEDEqGfvrBStCn2ZEYKAXKgOyy6asNJUOwDSRmDiVlyWwQXjs+z43WQLgHpbgPxUH6asMxnHeBgMGVZYMwO5lBuMrqgezXUDt41KCfLlduILtsOM4SYEC+TSJ4I8A+QewL0OKzyzEQ7kGp70OusmkQthuB9PrJBeQqmwbhnP6vRIPQT6+fjCC05NpwRWN0bBDepTWISQFqtiWRjF4/fxHUqCWRyfxv2dpvhECQpLRH8ukAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xs2X20sVURTG5zDMQy9CJEVGacUpOkWaEIfASIgD9dLFsrKy0LCwtygKkaKLSDcEsQsVCoGYSBlBD1EU9Zet/Gb4Ztass8/hXKZwwcfs2bPH9Tvr25fR81Z/5MQt1/N/Hjl5Nn5KnoydDDV554RM3DoeihDz00PyfuqyzD2/5ICyP6Jp8AiIUACiLMzs04vyevJ8KjHu8cwqDVUXZE6m7p4ug8IVIBSBXk6ck+n7Z8KxuLqAMF5D/1wal+8LNxuDIhDarA6B3j6+EAJxbCUgvPdjcUx+Lz+QP8uPQiDk6OroCGWzm4jKzl9NICR1Ac08PBsDoe0CWpgZTgGhTSCb3UQuZQMScXLj3gLZ+cMfY4GWXo1kB8QqoQ9AFqBljZcS+zXQpzdXYyCoLiDOCw2kAVpbPGlb60n7ek/yG9NCH6XBPr+7lgb6cLtxIPQxeWGTJ53tfqjubb4Ud/jSsyu6QuiDOAYiWCZAuCcEAQgB9e6OxPtqwt8CzK+P92KYhoAIwORUqTORfaZB8L6ukAay2StEVGIsYVx1YujovnIVN0fqbkvUuSFRE0DRskWFCHRsf5IYbZeqARVaowlOIL0p2uwmoiVfBrTTl/4DgfQVK0vb5JrcmQKVtq9UJ+/L4KEg1MBBt1glWykoEyAotmwFCJXqKwTSvyeQkVIgo0ciAQZ29mxJRMtgV35dYhl2acLUBIQVZoF6t/qhLUhMoMGuSAN7Axk6HIQQGFtJ3+ZvxBWqsTqIBIhQ6INlEIBgGQBoHecWqoixeIfHBc47HDU4NjIDIhQts0CEgWUYpw9WAn2ZHU0BEcpmd0QEZG3Tqw2WQWgDEpWDpbTMAuGz4+vc9RgIe1Ad+1AaSK829OG5CwgwWFkWCNVpGgirrBKQ/Qy1wlGDcdquzICsbeinBUjIr0kIXwS4JxDHAmjxxZUUEPaguvchl20aCO1qQHr+ZALksk0D4Zn+r0QDYZyeP00CIcrnhksaRssC4VtaA1F1AHket/VqsoBaev5kAlRrWMhaYKlk7H8KC+mSfWdVx1/ORNswDapWaAAAAABJRU5ErkJggg==",
     "wiki_name": "Chocolate cake (2/3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chocolate_cake#2/3",
     "equipment": null,

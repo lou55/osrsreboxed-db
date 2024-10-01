@@ -1,7 +1,7 @@
 {
     "id": 19091,
     "name": "Lime",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-12-12",
     "duplicate": true,
     "examine": "A fresh lime.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbElEQVR4Xu3UsUsCURwHcN8UyaHIieKJyikqXnJmpBXS0NAQNDQEQUPQEAQNQdAQNARNgdDUEERDEA1BU/Tvfev7O95p0dg7Cd4Xvrzj7uA+fgdTKRsbGxubv4jCpDPJNEBh5XVBuvrWnQVKYfgSfXz00cPoPfxWPksYpbD00MbgqRPDpsul+CxBlEI4bmDxriUwon528Bxg+VGjjMMUOlc+ujd19G6b8VrSLwhPYtj+fVveMYxSaJyW0bmsIbj2ZS2iWCL0NTFckTUOqh2W4B97aJ5VZC3CuBghXIRIXd7newZRCt5uHuW9AqoHRYFxMX60fVGV6vWI1TUIYhSKWy68nQlMVjvyUD8pxyW0dV4VLH+EcZS7nkV+I4vCZk6ApW1XcGxlPzo1lDUMYhSyfQe5oQN3LSM4rkYYy2up+XWmo5BuzsMJ0jGMy+mTSJ4JgpjoDzDtz8U4NhNGJ+8lDNLR/8y/1cbGxuZ/5hOO9wsI+BWu3AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhUlEQVR4Xu2VvUvDQByGc5NYSkNJaWlCP9LSltbSD7FVKQ4ODoKDgyA4CA6C4CAIDoKD4CQITg6COAjiIDiJ/96r78VL09rRS5d74eEXkgv35A0klmViYmJi8h8RGDOXRAUEVt+XJGsf7XlICQzfgs1HX12MPjsT8FrMUgLLTw0MXpqhWBQ2xWsxSgl07qroPdSlGKWmGby2sPKspLSLCTSvfbRvK+je18K2JD8inJQh/ceGXKNZSqB65qF5VULrxpdtUYpQQh1Thi0S3tMrl3VJCZSO8vBPXNTOC7ItirExirARSip4nus0tiTg7mXg7WdRPMxJMTbGTRuXRYlqj7IK7S3lth24u2Mx2dqxi8qpF0LR+kVRyvIhNLbECDgbNjKbNrJbaSmY33GkHCkcBFOJEs0tMQJ2P4n0MAlnPSXl2BrFCI8lv+1QRrMQI5CoLSLZSoRibE5NSnLG0E40wQcw4S+EciTVCSbPxSxkWcFmkz/dKDG9rr9RG89ieq2JiYnJjHwD0OIjZ5QA9OIAAAAASUVORK5CYII=",
     "wiki_name": "Lime",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lime",
     "equipment": null,

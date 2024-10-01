@@ -1,7 +1,7 @@
 {
     "id": 6608,
     "name": "White longsword",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": true,
     "examine": "A razor sharp longsword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xu3VTWsTQRjA8YYeJKV48u5R8OI30VTFlioGlbZWNFCUSizGqiVY+wIlttKGlFRiGkptKVotikUv4ofw7Nd45L/hGWcnkzSbrOLBgYd9mZmd3z4zO9vT8++XhPjDV//HS0Lmpi7IbHYgiPz9lMzcOxeEIipL12RjMS3r81c9KPcluobXQYoCpOFiSs+vyMv8cGhgrqlzI4yKhEzI4sOLDSiOQDQUtDwzJEvTl4K2HH0g2tvoz1tT8rF6tzOUgjjX7Cho7dnlAKRtm4Ho96mWlS87j+XrztMAFAnDQ/WtFcSgPlDhyaABcW6DeBbHauF6CMR5m6BEaBoYSBc31y6IwUHo9NognlUuFILj1spIfCDNEvd8IM2kgsgazznc3zcZerM6akBEJJCuCxfE4C7IXtAK4hnb5bLsvq4Y0G5xLAzanOwexH1AitJM2l8k/YsLCyEMsVcajxdEALBB7oKmbz6blb1qNYSh7fuN2wZ0uJ1rF0MJg2yUfr4uSDETY6PytrYZwijow6tMpyBKffNisFYgXdC0HT4/YKaJTLqgg8pEp6D6HkSGjgJpFulTK5WCI/dcEO1tUIRNsf52PhDhA9GHRbxZLHpBtIsVpCiCAdhxGYBz2s8/ypnsgKafO12xgewscbRBtH2QyZjMaBZ9oNqLGwbELt0mhlL/wnwg/R0Aot14Om1+C6yvZiDw/DbsDHUEcteR/g6IoVRK1ubmDKYZSKeL30ZsIEVRd+ZkryyPJGVnsk++5fvlx0p/KEN2Jm0Qu7QNioCqg3zTRt3pEz1y9lSvrN5MyvfZ/iCOAjHF79ZvGRB7UIR9KAyyp4268p2k/CwdN1NnY3wgstM1iK/MBXF/evBYMFUHub7gWn8ZLoi+9nTFBnKnjTrFMCCD2yDdq+jHMxTEJ2+D2IMi70O+aeM+9bwx561A9vqJBeSbNn1rBqEOhA+kvw2dri5BlN8LtlW460fDBbEp2iCNCKB2SyNSw14/fxHUqjQiG+N/6a78Agkmb2n3Bp4jAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xs3VUWsTQRAH8At9kJTgk+/2TfBFP4mmKrZUMai0taKBolRiMVYtwZq2UGIrbbiSSkxCqSlFq0Wx6Iv4IXz2a4z895jN3LhJc81VujDcJbd787vZvT3PO/4tQe5wXT/ylqDi9GWayw2aKDxK0+zDiyYYUV26SRuLGVqfv+FA6YfoGR6AGAUQh8b4r67Tm8JIKDF+45qOMCoSMkGLT678g8IREA4GLc8O09LMVdMXRxcI/SX62+Y0fak9OByKQTjn6jBo7eU1A+K+7UAY97WRo+/NZ/Sj+cKAkOP8wIAJnV21oOz81AxCUheo9HzIgnAuQbgXjrXSrRAI5wzS2VVLhKYBiXhx47cGITkQPL0ShHtVSiVz3FwZjQ/EVcJ/LhBXkkGoGu6zv7trK/R+dcyCEJFAvC40CMk1SC5oBuEeW5UKbb+rWtB2eTwMqk/1DsL/ADGKKynfSIwvLyyEMIgdfyJeEAIACdILGmMLuRzt1GohDPp+2rhnQftbeYuJDJIofn01iDGT42P0oVEPYRj0+W3WCdLZ27Rg80KyTiBe0Og7cmnQThMqqUF71cnDgoI9CBU6CMRVxJiG75sj/tMg9JcguSnq7KoFT+cCIVwgjMEirpfLThD6xQpiFAIJsOMiAc7Rf/5p3lYHaIzT0xUbSFYJRwlC38fZrK0MV9EFary+bUHYpRnTFQhvjgvEnwOA0G8ik7GfBayvdiDg8dmQFeqyOmgtkF5H/DlADKfTtFYsWkw7EE8XPhuxgRiFa+dO99HyaJKaU/30s5Ci3yupUIVkJSUIu7QEMUpnd7QA5Jo2XDt7yqMLZ/po9U6Sfs2lTBwEwhR/XL9rQdiDIuxDYZCcNlyr3E/SH/+knTqJcYFQnZ5BeMs0CP/PDJ0wU7WX7ze/+ZOhQRgrpys2kJ42XGMMEiK5BPFehXG4B4PwyksQ9qDI+5Br2vA/ruOJcd4JJNdPLCDXtPFTIwmuAeEC8WeDp6tHEFprwXYKvX44NAibogRxRAB5Hm/rnUIDZcj1Ewuo26aR3WA5Wn3/U9NIV+gxx7r9BVMqufW5lmNtAAAAAElFTkSuQmCC",
     "wiki_name": "White longsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_longsword",
     "equipment": null,

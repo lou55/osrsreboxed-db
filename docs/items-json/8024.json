@@ -1,7 +1,7 @@
 {
     "id": 8024,
     "name": "Fencing ring",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABN0lEQVR4XtWX22rCQBRFZ56kIpFgUBoxYkWLWrxhrcV6AcH//6PTBo3VSSH7sG3UBQdElzPrIZqJMSes/L6+OVbeej3JLypzHytlz8spyMp+s8nay0qpWDxK7rC46ymCvJK5mGZoUotppxMd1gmrRgL/MFDQU6GQWswNTCZZOJ54I3eSz9zvJZMRE3MedPn+tefvfVKcX0P/iSIon1+ZIqji+4hIogiqBgEiksCXhpXnWg0RSRRBjTBERJJHDmrW64hIogh6iSJEJIH/Xn7uOa0WIpIogl7bbUQkUQT1u11EJFEE5XNivMMg8BZlZTQYICKJImg6HCIiiSLofTxCRBJF0MdkgogkiqDP2QwRSeBjjpWv+RwRSR45aL1YICKJImi7XCIiiSJot1ohIgl8VIaet69AdtA3T04b5aSGtAwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABS0lEQVR4XtWXbUsCQRRGZz5JIitLi9JKqyYZZvgSZoaZQdD//0e3bJt2m6XmuTxheuCC4HHmDKzuaswXVorX/46Vm9FI9hcV3MdKM4o+gma9XkgmsfK63YYOb6VRr39K/rD46xVBvxw+D4oa5tt0U1NZTDuXWb5O2jKSxPlAQSe1WmUxP9CNW3g3u438ce/5n3PjYqAgJ+Zy9cTslPfxK0oU15AvlgPZUQXt51umCDqNY0QkUQS1kgQRSX6+NDysnLXbiEiiCDpPU0QkOeagbqeDiCSKoIssQ0QS+Ofl/Z7T7yMiiSLoajBARBJF0PVwiIgkiiD3xBgQSQ4wCLxFWZmOx4hIogi6nUwQkUQRdDebIiKJIuh+PkdEEkXQw2KBiCTwY46Vx+USEUmOOehptUJEEkXQ83qNiCSKoJfNBhFJ4Edl6P/2HxAOegNnJ4u3QtSWdAAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

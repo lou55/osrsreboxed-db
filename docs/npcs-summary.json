@@ -44085,7 +44085,7 @@
     },
     "13297": {
         "id": 13297,
-        "name": "Curator"
+        "name": "Curator Herminius"
     },
     "13298": {
         "id": 13298,
@@ -45150,5 +45150,1365 @@
     "13684": {
         "id": 13684,
         "name": "Rax"
+    },
+    "13685": {
+        "id": 13685,
+        "name": "Amoxliatl"
+    },
+    "13686": {
+        "id": 13686,
+        "name": "Amoxliatl"
+    },
+    "13687": {
+        "id": 13687,
+        "name": "Amoxliatl"
+    },
+    "13689": {
+        "id": 13689,
+        "name": "Amoxliatl"
+    },
+    "13690": {
+        "id": 13690,
+        "name": "Prince Itzla Arkan"
+    },
+    "13691": {
+        "id": 13691,
+        "name": "Prince Itzla Arkan"
+    },
+    "13692": {
+        "id": 13692,
+        "name": "Prince Itzla Arkan"
+    },
+    "13693": {
+        "id": 13693,
+        "name": "Prince Itzla Arkan"
+    },
+    "13694": {
+        "id": 13694,
+        "name": "Servius, Teokan of Ralos"
+    },
+    "13695": {
+        "id": 13695,
+        "name": "Queen Zyanyi Arkan"
+    },
+    "13696": {
+        "id": 13696,
+        "name": "Kualti"
+    },
+    "13697": {
+        "id": 13697,
+        "name": "Kualti"
+    },
+    "13698": {
+        "id": 13698,
+        "name": "Kualti"
+    },
+    "13699": {
+        "id": 13699,
+        "name": "Kualti"
+    },
+    "13700": {
+        "id": 13700,
+        "name": "Felius"
+    },
+    "13701": {
+        "id": 13701,
+        "name": "Caritta"
+    },
+    "13702": {
+        "id": 13702,
+        "name": "Sergius"
+    },
+    "13703": {
+        "id": 13703,
+        "name": "Sergius"
+    },
+    "13704": {
+        "id": 13704,
+        "name": "Nova"
+    },
+    "13705": {
+        "id": 13705,
+        "name": "Nova"
+    },
+    "13706": {
+        "id": 13706,
+        "name": "Emissary Ascended"
+    },
+    "13707": {
+        "id": 13707,
+        "name": "Emissary Ascended"
+    },
+    "13708": {
+        "id": 13708,
+        "name": "Emissary Ascended"
+    },
+    "13709": {
+        "id": 13709,
+        "name": "Emissary Ascended"
+    },
+    "13710": {
+        "id": 13710,
+        "name": "Emissary Ascended"
+    },
+    "13711": {
+        "id": 13711,
+        "name": "Emissary Ascended"
+    },
+    "13712": {
+        "id": 13712,
+        "name": "Emissary Ascended"
+    },
+    "13713": {
+        "id": 13713,
+        "name": "Emissary Ascended"
+    },
+    "13714": {
+        "id": 13714,
+        "name": "Forebearer Janus"
+    },
+    "13715": {
+        "id": 13715,
+        "name": "Forebearer Fides"
+    },
+    "13716": {
+        "id": 13716,
+        "name": "Forebearer Fides"
+    },
+    "13717": {
+        "id": 13717,
+        "name": "Augur Metzli"
+    },
+    "13718": {
+        "id": 13718,
+        "name": "Furia Tullus"
+    },
+    "13719": {
+        "id": 13719,
+        "name": "Ennius Tullus"
+    },
+    "13720": {
+        "id": 13720,
+        "name": "Emissary Ascended"
+    },
+    "13721": {
+        "id": 13721,
+        "name": "Emissary Ascended"
+    },
+    "13722": {
+        "id": 13722,
+        "name": "Emissary Acolyte"
+    },
+    "13723": {
+        "id": 13723,
+        "name": "Emissary Acolyte"
+    },
+    "13724": {
+        "id": 13724,
+        "name": "Emissary Acolyte"
+    },
+    "13725": {
+        "id": 13725,
+        "name": "Emissary Acolyte"
+    },
+    "13726": {
+        "id": 13726,
+        "name": "Forebearer Vulcan"
+    },
+    "13727": {
+        "id": 13727,
+        "name": "Forebearer Vulcan"
+    },
+    "13728": {
+        "id": 13728,
+        "name": "Frost Nagua"
+    },
+    "13729": {
+        "id": 13729,
+        "name": "Emissary Ascended"
+    },
+    "13730": {
+        "id": 13730,
+        "name": "Emissary Ascended"
+    },
+    "13731": {
+        "id": 13731,
+        "name": "Forebearer Honos"
+    },
+    "13732": {
+        "id": 13732,
+        "name": "Emissary Acolyte"
+    },
+    "13733": {
+        "id": 13733,
+        "name": "Emissary Acolyte"
+    },
+    "13734": {
+        "id": 13734,
+        "name": "Emissary Acolyte"
+    },
+    "13735": {
+        "id": 13735,
+        "name": "Emissary Acolyte"
+    },
+    "13736": {
+        "id": 13736,
+        "name": "Emissary Acolyte"
+    },
+    "13737": {
+        "id": 13737,
+        "name": "Emissary Acolyte"
+    },
+    "13738": {
+        "id": 13738,
+        "name": "Emissary Chosen"
+    },
+    "13739": {
+        "id": 13739,
+        "name": "Emissary Chosen"
+    },
+    "13740": {
+        "id": 13740,
+        "name": "Emissary Chosen"
+    },
+    "13741": {
+        "id": 13741,
+        "name": "Emissary Chosen"
+    },
+    "13742": {
+        "id": 13742,
+        "name": "Emissary Chosen"
+    },
+    "13743": {
+        "id": 13743,
+        "name": "Emissary Chosen"
+    },
+    "13744": {
+        "id": 13744,
+        "name": "Emissary Ascended"
+    },
+    "13745": {
+        "id": 13745,
+        "name": "Emissary Ascended"
+    },
+    "13746": {
+        "id": 13746,
+        "name": "Emissary Ascended"
+    },
+    "13747": {
+        "id": 13747,
+        "name": "Emissary Ascended"
+    },
+    "13748": {
+        "id": 13748,
+        "name": "Emissary Ascended"
+    },
+    "13749": {
+        "id": 13749,
+        "name": "Emissary Ascended"
+    },
+    "13750": {
+        "id": 13750,
+        "name": "Emissary Ascended"
+    },
+    "13751": {
+        "id": 13751,
+        "name": "Emissary Ascended"
+    },
+    "13752": {
+        "id": 13752,
+        "name": "Emissary Forebearer"
+    },
+    "13753": {
+        "id": 13753,
+        "name": "Emissary Forebearer"
+    },
+    "13754": {
+        "id": 13754,
+        "name": "Emissary Forebearer"
+    },
+    "13755": {
+        "id": 13755,
+        "name": "Emissary Forebearer"
+    },
+    "13756": {
+        "id": 13756,
+        "name": "Emissary Forebearer"
+    },
+    "13757": {
+        "id": 13757,
+        "name": "Emissary Forebearer"
+    },
+    "13758": {
+        "id": 13758,
+        "name": "Emissary Chef"
+    },
+    "13759": {
+        "id": 13759,
+        "name": "Emissary Fisher"
+    },
+    "13760": {
+        "id": 13760,
+        "name": "Goat"
+    },
+    "13761": {
+        "id": 13761,
+        "name": "Goat"
+    },
+    "13762": {
+        "id": 13762,
+        "name": "Emissary Herder"
+    },
+    "13763": {
+        "id": 13763,
+        "name": "Emissary Acolyte"
+    },
+    "13764": {
+        "id": 13764,
+        "name": "Emissary Chosen"
+    },
+    "13765": {
+        "id": 13765,
+        "name": "Emissary Acolyte"
+    },
+    "13766": {
+        "id": 13766,
+        "name": "Forebearer Janus"
+    },
+    "13767": {
+        "id": 13767,
+        "name": "Emissary Ascended"
+    },
+    "13768": {
+        "id": 13768,
+        "name": "Emissary Ascended"
+    },
+    "13769": {
+        "id": 13769,
+        "name": "Emissary Ascended"
+    },
+    "13770": {
+        "id": 13770,
+        "name": "Prince Itzla Arkan"
+    },
+    "13771": {
+        "id": 13771,
+        "name": "Prince Itzla Arkan"
+    },
+    "13772": {
+        "id": 13772,
+        "name": "Prince Itzla Arkan"
+    },
+    "13773": {
+        "id": 13773,
+        "name": "Emissary Brawler"
+    },
+    "13774": {
+        "id": 13774,
+        "name": "Emissary Brawler"
+    },
+    "13775": {
+        "id": 13775,
+        "name": "Emissary Brawler"
+    },
+    "13776": {
+        "id": 13776,
+        "name": "Emissary Brawler"
+    },
+    "13777": {
+        "id": 13777,
+        "name": "Emissary Conjurer"
+    },
+    "13778": {
+        "id": 13778,
+        "name": "Emissary Conjurer"
+    },
+    "13779": {
+        "id": 13779,
+        "name": "Emissary"
+    },
+    "13780": {
+        "id": 13780,
+        "name": "Tenoch"
+    },
+    "13781": {
+        "id": 13781,
+        "name": "Silia"
+    },
+    "13782": {
+        "id": 13782,
+        "name": "Adrius"
+    },
+    "13783": {
+        "id": 13783,
+        "name": "Eleuia"
+    },
+    "13784": {
+        "id": 13784,
+        "name": "Prince Itzla Arkan"
+    },
+    "13785": {
+        "id": 13785,
+        "name": "Prince Itzla Arkan"
+    },
+    "13786": {
+        "id": 13786,
+        "name": "Prince Itzla Arkan"
+    },
+    "13787": {
+        "id": 13787,
+        "name": "Frost Nagua"
+    },
+    "13788": {
+        "id": 13788,
+        "name": "Frost Nagua"
+    },
+    "13789": {
+        "id": 13789,
+        "name": "Frost Crab"
+    },
+    "13790": {
+        "id": 13790,
+        "name": "Ice block"
+    },
+    "13791": {
+        "id": 13791,
+        "name": "Frost Crab"
+    },
+    "13792": {
+        "id": 13792,
+        "name": "Ice block"
+    },
+    "13793": {
+        "id": 13793,
+        "name": "Blue dragon"
+    },
+    "13794": {
+        "id": 13794,
+        "name": "Baby blue dragon"
+    },
+    "13795": {
+        "id": 13795,
+        "name": "Brutal blue dragon"
+    },
+    "13796": {
+        "id": 13796,
+        "name": "Ice giant"
+    },
+    "13797": {
+        "id": 13797,
+        "name": "Ice giant"
+    },
+    "13798": {
+        "id": 13798,
+        "name": "Ice spider"
+    },
+    "13799": {
+        "id": 13799,
+        "name": "Chilled jelly"
+    },
+    "13800": {
+        "id": 13800,
+        "name": "Cave crawler"
+    },
+    "13801": {
+        "id": 13801,
+        "name": "Cave crawler"
+    },
+    "13802": {
+        "id": 13802,
+        "name": "Ice warrior"
+    },
+    "13803": {
+        "id": 13803,
+        "name": "Hazelmere"
+    },
+    "13804": {
+        "id": 13804,
+        "name": "Emelio"
+    },
+    "13805": {
+        "id": 13805,
+        "name": "Emelio"
+    },
+    "13806": {
+        "id": 13806,
+        "name": "Lelia"
+    },
+    "13807": {
+        "id": 13807,
+        "name": "Alba"
+    },
+    "13808": {
+        "id": 13808,
+        "name": "Lucas"
+    },
+    "13809": {
+        "id": 13809,
+        "name": "Renata"
+    },
+    "13810": {
+        "id": 13810,
+        "name": "Vincens"
+    },
+    "13811": {
+        "id": 13811,
+        "name": "Colosseum Announcer"
+    },
+    "13812": {
+        "id": 13812,
+        "name": "Dire Wolf Alpha"
+    },
+    "13813": {
+        "id": 13813,
+        "name": "Dire Wolf"
+    },
+    "13814": {
+        "id": 13814,
+        "name": "Minotaur"
+    },
+    "13815": {
+        "id": 13815,
+        "name": "Minotaur"
+    },
+    "13816": {
+        "id": 13816,
+        "name": "Curator Haig Halen"
+    },
+    "13817": {
+        "id": 13817,
+        "name": "Thief"
+    },
+    "13818": {
+        "id": 13818,
+        "name": "Patzi"
+    },
+    "13819": {
+        "id": 13819,
+        "name": "Patzi"
+    },
+    "13820": {
+        "id": 13820,
+        "name": "Adala"
+    },
+    "13821": {
+        "id": 13821,
+        "name": "Adala"
+    },
+    "13822": {
+        "id": 13822,
+        "name": "Adala"
+    },
+    "13823": {
+        "id": 13823,
+        "name": "Adala"
+    },
+    "13824": {
+        "id": 13824,
+        "name": "Adala"
+    },
+    "13825": {
+        "id": 13825,
+        "name": "Constantinius"
+    },
+    "13826": {
+        "id": 13826,
+        "name": "Constantinius"
+    },
+    "13827": {
+        "id": 13827,
+        "name": "Cozyac"
+    },
+    "13828": {
+        "id": 13828,
+        "name": "Cozyac"
+    },
+    "13829": {
+        "id": 13829,
+        "name": "Xocotla"
+    },
+    "13830": {
+        "id": 13830,
+        "name": "Xocotla"
+    },
+    "13831": {
+        "id": 13831,
+        "name": "Pavo"
+    },
+    "13832": {
+        "id": 13832,
+        "name": "Pavo"
+    },
+    "13833": {
+        "id": 13833,
+        "name": "Head Butler"
+    },
+    "13834": {
+        "id": 13834,
+        "name": "Stradius"
+    },
+    "13835": {
+        "id": 13835,
+        "name": "Hutza"
+    },
+    "13836": {
+        "id": 13836,
+        "name": "Hutza"
+    },
+    "13837": {
+        "id": 13837,
+        "name": "Costumer"
+    },
+    "13838": {
+        "id": 13838,
+        "name": "Naiatli"
+    },
+    "13839": {
+        "id": 13839,
+        "name": "Clodius"
+    },
+    "13840": {
+        "id": 13840,
+        "name": "Wandering Guard"
+    },
+    "13842": {
+        "id": 13842,
+        "name": "Smart-looking dog"
+    },
+    "13843": {
+        "id": 13843,
+        "name": "Smart-looking dog"
+    },
+    "13844": {
+        "id": 13844,
+        "name": "Patzi"
+    },
+    "13845": {
+        "id": 13845,
+        "name": "Constantinius"
+    },
+    "13846": {
+        "id": 13846,
+        "name": "Cozyac"
+    },
+    "13847": {
+        "id": 13847,
+        "name": "Xocotla"
+    },
+    "13848": {
+        "id": 13848,
+        "name": "Pavo"
+    },
+    "13849": {
+        "id": 13849,
+        "name": "Stradius"
+    },
+    "13850": {
+        "id": 13850,
+        "name": "Hutza"
+    },
+    "13852": {
+        "id": 13852,
+        "name": "Butler"
+    },
+    "13854": {
+        "id": 13854,
+        "name": "Butler"
+    },
+    "13856": {
+        "id": 13856,
+        "name": "Butler"
+    },
+    "13858": {
+        "id": 13858,
+        "name": "Butler"
+    },
+    "13860": {
+        "id": 13860,
+        "name": "Butler"
+    },
+    "13862": {
+        "id": 13862,
+        "name": "Butler"
+    },
+    "13864": {
+        "id": 13864,
+        "name": "Butler"
+    },
+    "13866": {
+        "id": 13866,
+        "name": "Butler"
+    },
+    "13868": {
+        "id": 13868,
+        "name": "Butler"
+    },
+    "13870": {
+        "id": 13870,
+        "name": "Butler"
+    },
+    "13871": {
+        "id": 13871,
+        "name": "Villa Guard"
+    },
+    "13872": {
+        "id": 13872,
+        "name": "Man"
+    },
+    "13875": {
+        "id": 13875,
+        "name": "Cleaner"
+    },
+    "13876": {
+        "id": 13876,
+        "name": "Seer"
+    },
+    "13877": {
+        "id": 13877,
+        "name": "Cleaner"
+    },
+    "13878": {
+        "id": 13878,
+        "name": "Cleaner"
+    },
+    "13879": {
+        "id": 13879,
+        "name": "Cleaner"
+    },
+    "13880": {
+        "id": 13880,
+        "name": "Cleaner"
+    },
+    "13881": {
+        "id": 13881,
+        "name": "Cleaner"
+    },
+    "13882": {
+        "id": 13882,
+        "name": "Cleaner"
+    },
+    "13883": {
+        "id": 13883,
+        "name": "Citizen"
+    },
+    "13884": {
+        "id": 13884,
+        "name": "Citizen"
+    },
+    "13885": {
+        "id": 13885,
+        "name": "Citizen"
+    },
+    "13886": {
+        "id": 13886,
+        "name": "Citizen"
+    },
+    "13887": {
+        "id": 13887,
+        "name": "Citizen"
+    },
+    "13888": {
+        "id": 13888,
+        "name": "Citizen"
+    },
+    "13889": {
+        "id": 13889,
+        "name": "Citizen"
+    },
+    "13890": {
+        "id": 13890,
+        "name": "Citizen"
+    },
+    "13891": {
+        "id": 13891,
+        "name": "Citizen"
+    },
+    "13892": {
+        "id": 13892,
+        "name": "Citizen"
+    },
+    "13893": {
+        "id": 13893,
+        "name": "Citizen"
+    },
+    "13894": {
+        "id": 13894,
+        "name": "Citizen"
+    },
+    "13895": {
+        "id": 13895,
+        "name": "Citizen"
+    },
+    "13896": {
+        "id": 13896,
+        "name": "Citizen"
+    },
+    "13897": {
+        "id": 13897,
+        "name": "Citizen"
+    },
+    "13898": {
+        "id": 13898,
+        "name": "Citizen"
+    },
+    "13899": {
+        "id": 13899,
+        "name": "Citizen"
+    },
+    "13900": {
+        "id": 13900,
+        "name": "Citizen"
+    },
+    "13901": {
+        "id": 13901,
+        "name": "Citizen"
+    },
+    "13902": {
+        "id": 13902,
+        "name": "Child"
+    },
+    "13903": {
+        "id": 13903,
+        "name": "Child"
+    },
+    "13904": {
+        "id": 13904,
+        "name": "Vineyard worker"
+    },
+    "13905": {
+        "id": 13905,
+        "name": "Vineyard worker"
+    },
+    "13906": {
+        "id": 13906,
+        "name": "Vineyard worker"
+    },
+    "13907": {
+        "id": 13907,
+        "name": "Vineyard worker"
+    },
+    "13908": {
+        "id": 13908,
+        "name": "Vineyard foreman"
+    },
+    "13909": {
+        "id": 13909,
+        "name": "Well-dressed man"
+    },
+    "13910": {
+        "id": 13910,
+        "name": "Cabbage Farmer"
+    },
+    "13911": {
+        "id": 13911,
+        "name": "Nasty Nick"
+    },
+    "13912": {
+        "id": 13912,
+        "name": "Fishing spot"
+    },
+    "13913": {
+        "id": 13913,
+        "name": "Shopkeeper"
+    },
+    "13914": {
+        "id": 13914,
+        "name": "Faustus"
+    },
+    "13915": {
+        "id": 13915,
+        "name": "Toci"
+    },
+    "13916": {
+        "id": 13916,
+        "name": "Antonius"
+    },
+    "13917": {
+        "id": 13917,
+        "name": "Bartender"
+    },
+    "13920": {
+        "id": 13920,
+        "name": "Supervisor Lalo"
+    },
+    "13921": {
+        "id": 13921,
+        "name": "Supervisor Lalo"
+    },
+    "13922": {
+        "id": 13922,
+        "name": "Meztlan"
+    },
+    "13923": {
+        "id": 13923,
+        "name": "Clanila"
+    },
+    "13924": {
+        "id": 13924,
+        "name": "Tzatelli"
+    },
+    "13925": {
+        "id": 13925,
+        "name": "Juatil"
+    },
+    "13926": {
+        "id": 13926,
+        "name": "Alaxxi"
+    },
+    "13927": {
+        "id": 13927,
+        "name": "Kali"
+    },
+    "13928": {
+        "id": 13928,
+        "name": "Bartender"
+    },
+    "13929": {
+        "id": 13929,
+        "name": "Ichta"
+    },
+    "13930": {
+        "id": 13930,
+        "name": "Necto"
+    },
+    "13931": {
+        "id": 13931,
+        "name": "Banker"
+    },
+    "13932": {
+        "id": 13932,
+        "name": "Banker"
+    },
+    "13933": {
+        "id": 13933,
+        "name": "Guard"
+    },
+    "13934": {
+        "id": 13934,
+        "name": "Guard"
+    },
+    "13935": {
+        "id": 13935,
+        "name": "Guard"
+    },
+    "13936": {
+        "id": 13936,
+        "name": "Citizen"
+    },
+    "13937": {
+        "id": 13937,
+        "name": "Citizen"
+    },
+    "13938": {
+        "id": 13938,
+        "name": "Citizen"
+    },
+    "13939": {
+        "id": 13939,
+        "name": "Citizen"
+    },
+    "13940": {
+        "id": 13940,
+        "name": "Citizen"
+    },
+    "13941": {
+        "id": 13941,
+        "name": "Citizen"
+    },
+    "13942": {
+        "id": 13942,
+        "name": "Citizen"
+    },
+    "13943": {
+        "id": 13943,
+        "name": "Citizen"
+    },
+    "13944": {
+        "id": 13944,
+        "name": "Child"
+    },
+    "13945": {
+        "id": 13945,
+        "name": "Child"
+    },
+    "13946": {
+        "id": 13946,
+        "name": "Child"
+    },
+    "13947": {
+        "id": 13947,
+        "name": "Child"
+    },
+    "13948": {
+        "id": 13948,
+        "name": "Worker"
+    },
+    "13949": {
+        "id": 13949,
+        "name": "Worker"
+    },
+    "13950": {
+        "id": 13950,
+        "name": "Worker"
+    },
+    "13951": {
+        "id": 13951,
+        "name": "Worker"
+    },
+    "13952": {
+        "id": 13952,
+        "name": "Worker"
+    },
+    "13953": {
+        "id": 13953,
+        "name": "Worker"
+    },
+    "13954": {
+        "id": 13954,
+        "name": "Worker"
+    },
+    "13955": {
+        "id": 13955,
+        "name": "Worker"
+    },
+    "13956": {
+        "id": 13956,
+        "name": "Overseer Khougo"
+    },
+    "13957": {
+        "id": 13957,
+        "name": "Capybara"
+    },
+    "13958": {
+        "id": 13958,
+        "name": "Techichi"
+    },
+    "13959": {
+        "id": 13959,
+        "name": "Techichi"
+    },
+    "13960": {
+        "id": 13960,
+        "name": "Techichi"
+    },
+    "13961": {
+        "id": 13961,
+        "name": "Chiribaya"
+    },
+    "13962": {
+        "id": 13962,
+        "name": "Chiribaya"
+    },
+    "13963": {
+        "id": 13963,
+        "name": "Chiribaya"
+    },
+    "13964": {
+        "id": 13964,
+        "name": "Chiribaya"
+    },
+    "13965": {
+        "id": 13965,
+        "name": "Locke McScruff"
+    },
+    "13966": {
+        "id": 13966,
+        "name": "Woofson"
+    },
+    "13967": {
+        "id": 13967,
+        "name": "Scorpion"
+    },
+    "13968": {
+        "id": 13968,
+        "name": "Porcupine"
+    },
+    "13969": {
+        "id": 13969,
+        "name": "Shopkeeper"
+    },
+    "13970": {
+        "id": 13970,
+        "name": "Salius"
+    },
+    "13971": {
+        "id": 13971,
+        "name": "Salvager"
+    },
+    "13972": {
+        "id": 13972,
+        "name": "Salvager"
+    },
+    "13973": {
+        "id": 13973,
+        "name": "Salvager"
+    },
+    "13974": {
+        "id": 13974,
+        "name": "Salvager"
+    },
+    "13975": {
+        "id": 13975,
+        "name": "Salvager"
+    },
+    "13976": {
+        "id": 13976,
+        "name": "Salvager"
+    },
+    "13977": {
+        "id": 13977,
+        "name": "Salvager"
+    },
+    "13978": {
+        "id": 13978,
+        "name": "Chosen Aluinus"
+    },
+    "13979": {
+        "id": 13979,
+        "name": "Hugh"
+    },
+    "13980": {
+        "id": 13980,
+        "name": "Izel"
+    },
+    "13981": {
+        "id": 13981,
+        "name": "Worm Tongue"
+    },
+    "13982": {
+        "id": 13982,
+        "name": "Worm Tongue"
+    },
+    "13983": {
+        "id": 13983,
+        "name": "Construction Worker"
+    },
+    "13984": {
+        "id": 13984,
+        "name": "Antonia"
+    },
+    "13985": {
+        "id": 13985,
+        "name": "Antonia"
+    },
+    "13986": {
+        "id": 13986,
+        "name": "Guard"
+    },
+    "13987": {
+        "id": 13987,
+        "name": "Guard"
+    },
+    "13988": {
+        "id": 13988,
+        "name": "Guard"
+    },
+    "13989": {
+        "id": 13989,
+        "name": "Guard"
+    },
+    "13990": {
+        "id": 13990,
+        "name": "Guard"
+    },
+    "13991": {
+        "id": 13991,
+        "name": "Guard"
+    },
+    "13992": {
+        "id": 13992,
+        "name": "Guard"
+    },
+    "13993": {
+        "id": 13993,
+        "name": "Guard"
+    },
+    "13994": {
+        "id": 13994,
+        "name": "Guard"
+    },
+    "13995": {
+        "id": 13995,
+        "name": "Guard"
+    },
+    "13996": {
+        "id": 13996,
+        "name": "Taala"
+    },
+    "13997": {
+        "id": 13997,
+        "name": "Seer"
+    },
+    "13998": {
+        "id": 13998,
+        "name": "Chef"
+    },
+    "13999": {
+        "id": 13999,
+        "name": "Marla"
+    },
+    "14000": {
+        "id": 14000,
+        "name": "Guard"
+    },
+    "14001": {
+        "id": 14001,
+        "name": "Guard"
+    },
+    "14002": {
+        "id": 14002,
+        "name": "Viero"
+    },
+    "14003": {
+        "id": 14003,
+        "name": "Worker"
+    },
+    "14004": {
+        "id": 14004,
+        "name": "Worker"
+    },
+    "14005": {
+        "id": 14005,
+        "name": "Worker"
+    },
+    "14006": {
+        "id": 14006,
+        "name": "Worker"
+    },
+    "14007": {
+        "id": 14007,
+        "name": "Manauia"
+    },
+    "14008": {
+        "id": 14008,
+        "name": "Seer"
+    },
+    "14009": {
+        "id": 14009,
+        "name": "The Hueycoatl"
+    },
+    "14010": {
+        "id": 14010,
+        "name": "The Hueycoatl"
+    },
+    "14011": {
+        "id": 14011,
+        "name": "The Hueycoatl"
+    },
+    "14012": {
+        "id": 14012,
+        "name": "The Hueycoatl"
+    },
+    "14013": {
+        "id": 14013,
+        "name": "The Hueycoatl"
+    },
+    "14014": {
+        "id": 14014,
+        "name": "Hueycoatl tail"
+    },
+    "14015": {
+        "id": 14015,
+        "name": "Hueycoatl tail (broken)"
+    },
+    "14017": {
+        "id": 14017,
+        "name": "Hueycoatl body"
+    },
+    "14020": {
+        "id": 14020,
+        "name": "Bartender"
+    },
+    "14021": {
+        "id": 14021,
+        "name": "Shopkeeper"
+    },
+    "14022": {
+        "id": 14022,
+        "name": "Pilgrim"
+    },
+    "14023": {
+        "id": 14023,
+        "name": "Ezco, Teoki of Ranul"
+    },
+    "14024": {
+        "id": 14024,
+        "name": "Yolotli, Teoki of Ralos"
+    },
+    "14025": {
+        "id": 14025,
+        "name": "Worker"
+    },
+    "14029": {
+        "id": 14029,
+        "name": "Lucrezia"
+    },
+    "14030": {
+        "id": 14030,
+        "name": "Ercos"
+    },
+    "14031": {
+        "id": 14031,
+        "name": "Chasm Crawler"
+    },
+    "14032": {
+        "id": 14032,
+        "name": "Bone Squirrel"
+    },
+    "14033": {
+        "id": 14033,
+        "name": "Huberte"
+    },
+    "14034": {
+        "id": 14034,
+        "name": "Moxi"
+    },
+    "14036": {
+        "id": 14036,
+        "name": "Rod Fishing spot"
+    },
+    "14037": {
+        "id": 14037,
+        "name": "Fishing spot"
+    },
+    "14038": {
+        "id": 14038,
+        "name": "Fishing spot"
+    },
+    "14039": {
+        "id": 14039,
+        "name": "Fishing spot"
+    },
+    "14040": {
+        "id": 14040,
+        "name": "Fishing spot"
+    },
+    "14041": {
+        "id": 14041,
+        "name": "Fishing spot"
+    },
+    "14042": {
+        "id": 14042,
+        "name": "Bat"
+    },
+    "14043": {
+        "id": 14043,
+        "name": "Unicorn"
+    },
+    "14044": {
+        "id": 14044,
+        "name": "Bone Squirrel"
+    },
+    "14045": {
+        "id": 14045,
+        "name": "Huberte"
+    },
+    "14046": {
+        "id": 14046,
+        "name": "Moxi"
+    },
+    "14047": {
+        "id": 14047,
+        "name": "Gull"
     }
 }

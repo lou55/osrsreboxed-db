@@ -1,7 +1,7 @@
 {
     "id": 7651,
     "name": "Silver dust",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-22",
     "duplicate": true,
     "examine": "It's ground up silver.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xu3V304TQRQGcPooXPgU3HjHBQkUixYoWCh/hFprEIEgkSgSomJICIJRAwmGICGKMTFqNBp9smO+2Xzr2dmzpduuxgsnOel2drrz65kzsx0d/37LiR3W/T/ecrK5UpBHy/0uNpbysn67zwURR9vjcrhVloMnVw2U/yfahgcgogBi+Jj9xyPybGM4MjG+454fUVQqZE627g7EUPgEhEHQ7vqgbN+74sbi0wJhvEZ/O12RL8fzraEIwjWzQ9CLhyUH4tgkEH739WRZfpzdl59nDxwoFQYP5b8mCJNaoJ21YgjCtQU63qlEQLhuEpSLLAMmYnHjuw/C5EBweZNAp3tT2YGYJfRZIGaSIGTNB719Ph2CEKlArAsfhMl9kC7oRqB3L69FQa8X2wehHyCimEm9I5NA7/dnswUhANAgv6CTQBj78bAWgr6/WW0WgxYFaRQeboGCh/8OC/TpVb1VEFrwYEzWCMQT+vr4mIwVizJ8qV8u9/a6Ph/0+WiuVVBwBiFD54EwBuPv1OsONT06GssWAuM1KMWhGGx5C4QgyJ/QD2RpZKAgg/l8mLHMQEQhAMKYvu5uKfT0uAkx8cWuLrnQ2RmDMTLLkM4Sixe1MlkqueXBMuG6MjQUZgRQjNP1c/J0IgThlG4SgxbsEAvEAp6fmZGFatXVDa5vTk3KjYmKzJbLDqcxXGK8NnSGWgL5dcStzGVYW1yQ1VtzslSrOSAC/fiNzg5AeG1kBiIK/ZgAb+2kwmYmfRBOaQ1KgQpA1rL5INzXJzSuLRDGfziohiCcQSnOoShIL5sG8QzSGAsEeNsg7LLzQJgMfRaItcblygzkLxv6NQiT+8tFEMcChC2vQTiDUp9D1rJpEK4bgXT9ZAKylk2DcM8qaATG6fppE4QW385W+PXD8EE4FDWIkQLUbIsjGbp+/iKoUYsj4/G/tdd+AbzlZUahRnZ/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC50lEQVR4Xs3VXU8TURAG4PafwIX33nPjHRckUCxaoGChfAi11iACQSJRJETUkBD8iBpIMAQJUYyJUaPR6C8b857Nu52dni1duhpOMul297TzdM6c00zm/I+s+MP3/J+PrDxZycvmcr+LjaWcrN/pc0HEwfa47G+VZO/pNQ/K/oi24QGIKIAYFrP7eERebgxHEuM9ntmIohIhs7J1b6ABhVdAGAQ9Xx+U7ftX3Vy8+kCYr9E/j1fk++H82VAE4ZrVIej1o6IDcW4cCJ/7cbQsv08eyJ+Thw6EHBc7OlzY7GYEZeevJghJfaCdtUIIwrUPdLhTjoBwTZDNbkY2sgxIxObGewtCciC4vHGg4xdT6YFYJdzzgVhJglA1C/rwajoEIRKB2BcWhOQWpBu6Gejjm+tR0LvF9kG4DxBRrKTekXGgT7uz6YIQAGiQbeg4EOZ+2a+GoF/vV5PtMA3SKHy5DxScJfXwgb6+rXlBNnvMCL4YyZqBeELfGB+TsUJBhi/3y5XeXnfPgr4dzJ0VFJxBqNBpIMzB/Lu1mkNNj442VAuB+RqkD0Wb3Yxgy/tACIJsQhuo0shAXgZzubBiqYGIQgCEOX3d3ZLv6XEJkfhSV5dc6OxsgDFSq5CuEpsXvTJZLLrlwTLhujw0FFYEUMzT/XP0bCIE4ZQmpiUQdogPxAaen5mRhUrF9Q2ub01Nys2JssyWSg6nMVxi/G3oCrVYHYw6yPYRtzKXYW1xQVZvz8lSteqACNzHZ3R1AMLfRmogonAfCfCvHdfYrKQF4ZTWIKJsds8IQL5lsyA81yc0rn0gzP+8VwlBOIMSnENRkF42DeIZpDE+EOBtg7DLTgMhGe75QOw1LldqILtsuK9BSG6XiyDOBQhbXoNwBiU+h3zLpkG4bgbS/ZMKyLdsGoRnvoZGYJ7unzZBGI3b2Re2fxgWhENRgxgJQJkMj/VmYYE6dP+kAmp1WGQrWEZ97n8aFukL+5lzPf4CBviv0teYio4AAAAASUVORK5CYII=",
     "wiki_name": "Silver dust",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silver_dust",
     "equipment": null,

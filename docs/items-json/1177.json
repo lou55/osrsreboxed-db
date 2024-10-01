@@ -1,7 +1,7 @@
 {
     "id": 1177,
     "name": "Steel sq shield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A medium square shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACI0lEQVR4Xu3X2UsbURgF8BnmqS+CIEL1QRQsRAsWsS5oNKIxdcGl7rum7sYltRrUKiLSQv/pU84Mn3PnOtGRXMcH/eA+5CX8+M65k4llvc/bGRvFT+xj4+BHFlvLy1ibnUVDtYX6jxZqKi1UlVtxw2zkt7ewv76GjcVFrMxMY+H7BKZHRzExOIiRdBpD/X2oKIsFZuNkZwdHmxvYXV1Fdn4+FPStN4WBnh53Yy8M80BqXEtTk0VBfckkUp2dboxlH4zDbJzu7QXiEtDc+Dgmh4cxlsm4cemg7vZ2dLW2utvyYSXPw7iigHRMfW2tCZC3HTUuvT8ESaH17TAygoxh2j45gbjCQMX6Q5DxqAq5XCAu6U8UkGzncyJhAuRvR+JSQU/1hyBi/Ktf8njb0eOKCpLtfP3SZAJk4+Lw8B7EuPT+CEh9QhP0Atux0ZVwXJAeV9RCy3Y6WlrMgH4fHwXiUvsTBgqLy/+hLWn87ahxPafQguGVNwLidgQk1z1qoeUVhFsyguF2BCRx6YUWkP7KQRAxRBnBpBodXP/MB+KS/ug3LKzQhPAQZwTE7fBBqB610GEgPS6j2yGo2CGuuc5BU40T2h/B8LMR0L+rK/y9vMSf83PcFQq4PTvFza8TN0Ie9kpFCUj6Qwzfqw1gZPhFjx92ikdQ0h/BEGgQFGU8GG+doAjh4T+PmDHq2PclJ4oYRviKII63LT6TeF4Zo4507H3imf/i7gDnkx18SgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNklEQVR4Xu2XW0sbURSFZ5invggFKagPXsBCbEEpVi3eItHaGLFa661em0ZrNWqtjUFTi0ip4J9eZU3Y9cxxBkeyjYJu2A95+/Ktdc7MOM7jPJxxEb1VHxc7X7LYWF7G2twc2hoctNY5aHzmoP6pU20wF/tfN7D9eQ25xUWszM7g04cpzExMYCqdxvjICMaGU6itqQqYi4PNTeyt5/BtdRXZhYVQoHdDSbwdHPSN3TJYGciMa+njdCRQqr8fyd5eP8aaJ+pgLgpbW4G4BGh+chLTmQzej476cdlAAz096Ovq8m1dglU8V+OKA2TDtDY3+0AdTU2VQJXtmHHZ/SGQFNq2w8gIZMJUAOSi+7kXiCsMKKo/BDKjqhCG46KYzwfikv7EARI7LxMJnajEjsRlAl3XHwIRRo6+mh07rrhAYud1R7uOnePd3f9AjMvujwCZNzSBbsGOi76E5wPZccUttNh509mpY+fX971AXGZ/woDC4pIHrZodM66bFFpgeOTV7AiQHPe4hZZXEFpSsyNAEpddaAGyXzkIRBhCqcAkX3j4/WM/EJf0xz5hYYUmCJdwKlHRDi9Cc81ChwHZcanaIVDUEu5Vi4f2Ri+0PwLD3yp2Lk5OcF4q4e/REf4Uizg7LOD054EfIZe9MqEESPpDGL5XK9iRsb8cri47xRUo6Y/AEFDBzuXIP4taAeOpEyiCcPnloWgn/giYlJxQhGGEqnZuPmVbvJO4d2LHHjPGO4cx517BaM8/5MxBasWI2AUAAAAASUVORK5CYII=",
     "wiki_name": "Steel sq shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_sq_shield",
     "equipment": {

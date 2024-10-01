@@ -1,7 +1,7 @@
 {
     "id": 292,
     "name": "Dwarf",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "release_date": "2002-05-28",
@@ -24,7 +24,7 @@
     ],
     "slayer_monster": true,
     "slayer_level": 1,
-    "slayer_xp": 16.0,
+    "slayer_xp": 26.0,
     "slayer_masters": [
         "turael",
         "spria"

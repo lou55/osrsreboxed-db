@@ -1,7 +1,7 @@
 {
     "id": 10162,
     "name": "Black salamander",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "Slightly slimy and somewhat menacing.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeklEQVR4Xu3W4UvVYBTHce8rSfrfKoyMCiOlIokgkkLEqBTJCkEso0LBEBMpI4iKoqi/7JHvxm+dnXvu3O5W9KIHDnd399mej+c8O3Nk5N8fvRRH9PsfH730eH48rcydymL5zsm0NHsiCyF21i6l7dWLaevJZIDyf0RreA4SCpDCYzYfXUjPl8+VFuY7v/kooxohe2l14XQfik8gCoGeLZ1Na/fOZHP5jEDMt+jv+/Pp6+6t4VACcazsCPTy4fkMpLmDQFz3bW8u/Ty4n34dLGagRhhuqr9aIBaNQOsPJgoQxxFod32qBOK4JqhXKgMLaXPz3YNYHITKOwi0v3G5O5CyxLkIpEwKRNY86N2LKwWIaATSvvAgFvcgu6GrQO9fXS2D3txuD+I8IKGUSftEDgJ92LzWLYgAYEF+QwvEPSyGuZ+2rxegH2/v1sUwyiCL4uYRSBjmcf2x0dESirmfX98YFsTImxeLVYG0oTU/wgj0ZefmsKC8B5Gho0DMEULBd0prQcy3oAZNMb9ZBCIGgSzKg5jXKUgoggXouCzAcZQdrvPl6gxks8SnED4rwpDFCLT3dLoA0aVrYhj5ExaB9C+GRdQBkR1eGzZDQ4H8PlKzi1DCeJDKxWujM5BQnI8wx8fGCpAy6UF0aQtqgMpBUdkEAkDY7KgpRiAego9bMwWIHtSgD5VBtmycYwGhonJ5ENlpDeIpqwKxQH6zPJQdgbTXVK7OQL5snBeIBVncvsPUq7hOcwHxyFsQPahxH4rKZkEcV4Hs/ukEFJXNgvhN7zcP0mtD5WoJYvzeH1VhMTY8iKZoQYoGoLqjH6mw++cvgqpGP7I//o924xAu8lEw8mbmnAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xs3WfUsUURTH8d2/JOlF+BJ8JxVFhYVRUVFEEIUiUliJ9IQg9kCFgiEmokYQFUWhr+zGd4bf7JnTmWnGncILh52dvbPns+feObO93uEf/RRH9Pk/H/30bPZkejJzIouF6eNp/u6xLIRYX7qY1hYvpNXnkwHK/4ih4TlIKEAKj1l5ej69XpgoJeY9n/koo1oh+2nx3qk/ULwCUQj0cv5sWpo7nc3lNQIx36J/bs2m7xt3DoYSiGNVR6C3j89lIM2tAnHdj82ZtLf7IO3vPspA5BgfG8vCZ3cjL7t+tUAkjUDLD88UII4j0MbypRKIY4F8djf6pWUgkTY37z2I5CC0vFWgrVdXugOpSpyLQKqkQFTNg3beXC1ARCuQ9oUHkdyD7IauA318d60M+jA1PIjzgIRSJe0dWQX6tHK9WxABwIL8hhaI77AY5n5Zu1mAfm3fb3eHWZBF8eURSBjmcf2RkZESirlf398KQT57xcibF8nqQNrQmh9hBPq2fvugoLwHUaG/gZgjhIL3LK0FMd+CbFP02d3IvywCEVUgi/Ig5nUKEoogAR2XBBxH1eE6v1ydgWyVeBXCV0UYqhiBNl9cLkB0aWEagbhzIpD+YlhEExDV4bFhK9SwOowByO8jNbsIJYwHabl4bHQGEorzEebo6GgBUiU9iC5tQUL57MHIQdGyCQSAsNVRU4xA3ASfV28UIHpQiz5UBtll4xwJhIqWy4OoztAg7rI6EAnycueh6gikvabl6gzkl43zApGQ5PYZpl7FdZoLiFveguhBrftQtGwWxHEdyO6fTkDRslkQn+n55kF6bGi5hgQxBvujLizGhgfRFC1I0QLU66mt14UH2rD7pxNQ0+GRTbCKwdz/NDwyCn/NoR6/AXj2m7wsyIBFAAAAAElFTkSuQmCC",
     "wiki_name": "Black salamander",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_salamander",
     "equipment": null,

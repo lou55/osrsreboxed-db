@@ -1,7 +1,7 @@
 {
     "id": 947,
     "name": "Knife",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A dangerous looking knife.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xu3Va2sTQRTG8QY/il/DvvJVKdTEtE1pSuO1UhG1KoZQrbcQvLSFErXU0kKl1FK0IoiKougnG/nP8iyzk9k0m6ziCwcO2eye3fntmcsODf37rWDCEbr+x1vBPFssmyeNko1WvWiat07ZEGJ37azZWa2Z7eXZAMp/iYHhEUgoQAofs/V0xqy3phMd859rfiRRmZAFs3p3vAPFLxCFQC+aU2bt/qTN5TcEIt9Ffz9YNF/3bvaHEohjVUegV4+rFqTcNBD3fdtvmJ+HD8yvw0cWlAnDQ/XWAtFpCNR+WIlBHKsKLmivfS4B4rhHUCExDHSkyc1/HwQchIaX+0sjI2bpxkICdfDyYn4gVYlzIZAqKUx5dNTcuX4tAXq3MReDiEwgzQsfROc+SHncB0Thg95vXkqC3tweHMR5QEKpkuRw31SxaKNZr3fMoQ9b8/mCCAAuSBOae6ZPl2xQHR9D7qedKzHox9ulXjG0JMhF8fA00OzkhK3O8r2oMx/0+fXVfkG0aNnSWTeQdugzlYqZGS/H1aGSPujL7kK/oGgPokJHgcgRiOq0W60giHwXlGFTjB4WAhE+iPwL1aqtDsud/9zngsjLFSQUQQfsuHTAsaozMTZmNldWYpA/XLmB3Crx64LIPXH8mA3tOVQxBNp/fj4GsUv3iKFFKywE0gczBCLSQOTy2XAr1BfIn0ecFygN44M0XHw2cgMJxXk68EEcswLBuJV0QezSLigDKgKFhk2gEKYbiBf4uH05BrEHZdiHkiB32FxQqxF9qV1MCER1BgaxytJAXJ+v1exSTwNprmm4cgP5w8a1k8PDdkfmmM794RKIZwjEkndB7EGZ96HQsHE+ekiU0w3kzp9cQKFh01vTCdf0ffNB+mxouAYE0aIqHBX+/FH4IDZFF6TIAOq1dSIV7vz5i6BurRPZGf/bYO03FilaXwFjjLAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4Xs3Xe0sUURjH8V16I0JvoBeQf/WXCKZ5xRXtYoURlRXJYtlNli4qyHahRMEQEykjiIqiqFd24nuG3+yZxzPbrjuFBx52dubMPp95zmXYUunwt7KLR+z6P29l93R+0D2uDviozfW7xZsnfQixtXrGba5MuY2lyQjKPkTH8AQkFCCFxaw/mXAva+OZxHznmo0sqi1k2a3cGdqH4hOIQqDni2Nu9d6I78tnDET/EP1jd959275xMJRAHKs6Ar1+VPEg9c0Dcd/3nar7tXff/d576EHkONbV5cNmNy0pu55aIJLGQPUHoymIY1UhBG3Xz2ZAHAtks5tWzgwDiTS5+W5BwEFoeLl/oKfHLVyfzaB2X5wvDqQqcS4GUiWFGeztdbevXc2A3r+6kIKItkCaFxZEcgtSP+4DorCgD2sXs6C3tzoHcR6QUKokfbhvrL/fx+Lc3L459HF9plgQASAEaUJzz/ipAR9Ux2Lo+3nzcgr6+W4hxbQNClH8eB5ocmTYV2fpbpLMgr68uRIF2ew5LVm2JGsG0g59enTUTQwNptWhkhb0dWv2oKBkD6JCfwPRRyCqU6/VoiD6h6BwU7TZTUt+LAYiLIj+05WKrw7Lne/cF4LoVyhIKIIE7Lgk4FjVGe7rc2vLyynIDldhoLBKfIYg+h4/esSH9hyqGAPtPDuXgtilhWkJxMqJgfTCjIGIPBB9eW2EFWqxOrQGyM4jzguUh7EgDRevjcJAQnGeBBbEMSsQTFjJEMQuHYKEstkjLQHFhk2gGKYZiAf4tHEpBbEHtbEPZUHhsIWgWjV5U4eYGIjqdAxileWBuD4zNeWXeh5Ic03DVRjIDhvXTnR3+x2ZY5Lb4RKI3xCIJR+C2IPa3odiw8Z5rqtPM1A4fwoBxYZNT00Srun9ZkF6bWi4OgTRGn9VmoWdPwoLYlMMQYo2QKWStvVmYYFhhPOnEFCrzSJbwSoaff9Ts8hY2HsOdfsDYC2k6xC78+EAAAAASUVORK5CYII=",
     "wiki_name": "Knife",
     "wiki_url": "https://oldschool.runescape.wiki/w/Knife",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 3234,
     "name": "Symbol",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "An alchemy symbol{{^|No period}}",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4Xu3Wa2sUMRTG8e4nVFFcUfFWVPSdKEopitZSvFEo9YJKC0KppdiK4AtRLPrJUv4zPOszZ7PrZHYUXxg4ZDbJTn57ksns3Ny/XwYpH7n+P14G6eni8fR44VgVK3eOpuVbR6oQYmvtYnq3ej5tPjuXQcUfMTO8BgkFSBExG0/OplcrpxsT85m+GE1UEXKQVu+eGENRA1EI9GL5VFq7f7IaS50DMd7R33cX09ftm91QAnGt7Aj05tGZCqSxk0B879vOQvqx/yD93H9YgYow3FS/WiAmzYHWl4YjENc50Pb6pQaI65agQWMZmEibm88RxOQgtLyTQLsvL/cHUpboy4FodxBZE4Q+6r3XV0YgogikfeEg2i8Mh1XtIG+PIO/7+PZqE/T+dneQbqwQiky2Aam/F1DEOChO6KD4PQcdfLjXFkNpgoTyTGgf+cTUZLNNhgpBlBrAzaftI23oCPKlVN+XrRtdQfUZRIYiKG5UxkSQt3lGHVRwKNaPfA5EAOLmjoigiCGTvYKEInTiCkVfBClDBON7BXmWqB3EuEkgP6EB7TyfH4E4pVtiKPUTlgPpdeAZUvjyKTMKxvLa8Ax1AsV9pEcZkBCTIi4Xr43eQELRzgRdQJ82rjVABagalFs2B7VdMo3/vHl9BOIMKjiHmiBfNgdR0x4PS99r2j8zg3h6fgdiMtpyIO01LVdvoLhstDuIyfUfSBiBNBYQj7yDOIOKz6HcsjmIawdx/jjI908voNyyOYg+vd8iiHG+f2YEUX49LdPCMR4RxKHoIEUBqG0ZRyp8//xF0LQyjhyP/2W2cggxCSvztG4/6AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACh0lEQVR4Xs3W7WrUQBTG8d076SV4JyqKKyrWF1T0myhKKZaqpfhGodQXVFoQSi1FK4IfxKLolY38E57sk+NkTXajdOCQ7Mzsnl/PTCYdDA5/G6Z85Mb/eRump4sn0uOF40Ws3j2WVm4fLUKI7fWL6d3afNp6dj6Din/EzPASJBQgRcRsPjmXXq2eqSXmM2Mx6qhOyGFau3fyDxRXIAqBXqycTuvLp4q5XHMg5jv6+95i+rZzazqUQNyrOgK9eXS2AGluE4jvHewupJ/799Ov/YcFiBxH5uaKiNlDK8uuv1ogkuZAGw9GFYj7HGhn41INxL1AMXtow9oykEibm88RRHIQWt4m0N7LK/2BVCXGciD6HUTVBGGM68fXVysQ0QmkfeEg+i+MRsXVQd4fQT726e21Ouj9nelB+mGFUFSyDUjjvYAixkExoYPi9xz048NShekMEsoroX3kiblSzTYVclDM3tBKAD8+aR9pQ0eQL6XGvm7fnBZUnkFUKILiRmVOBHmfV9RBfijG7KGVj3wORADixx0RQRFDJXsFCUXoxBWKsQhShQjm9wryKnF1EPOaQH5CA9p9frkCcUoL0wrEE5ID6XXgFVL48qkyCuby2vAKtawObQyK+0iPMiAhmiIuF6+N3kBC0U+CaUCfN6/XQELF7JlWgnLL5qC2S6b5X7ZuVCDOoA7nUB3ky+YgrvTHw9L3mvbPzCCenr+BSEZfDqS9puXqDRSXjX4HkVz/AwkjkOYC4pF3EGdQ53Mot2wO4t5BnD8O8v3TCyi3bA5iTO+3CGKe758ZQbTx0zIpHOMRQRyKDlJ0AA0GOtYnRQR6+P7pBdS2RWQbrGI89z+1iMxF/M6hbr8Bew12f7RMsX4AAAAASUVORK5CYII=",
     "wiki_name": "Symbol (big book of bangs) (Brimstone)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Symbol_(big_book_of_bangs)#Brimstone",
     "equipment": null,

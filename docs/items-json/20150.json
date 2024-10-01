@@ -1,7 +1,7 @@
 {
     "id": 20150,
     "name": "Gilded chainbody",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "A series of connected metal rings plated in gold.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADN0lEQVR4Xu3WW2sTURAH8IawHDbkMwgiCCKI9EEFFRVUVMTerLVaK7VEbbGWYNGGqkSNqRqt9KZUSbES2lK0UhAVi6I++Oqzn2bs/yyzzO6ehGyyFR88MOztNPvrzJyTNDT8+yNG5jA9X/cRo8JIGz3MtOjI32im3FCTDkaUxntobuw8zT7uNqD8/0TdcAfEKIA4/Jjioy56nj/jeTGu8cwfXlQoZIzGbp0MoHAEhINB07nTNJ49pefiaAJhvkR/WRqhz/PXakMxCOecHQa9eHBWg3huORD+bnUxQ9+W79D35XsaFAqDD+X/mkF4qQk0ebfDBeHcBJqfvOAB4bxKUMxTBryImxvXfhBeDgSXtxxo6VkqOhBnCfcAkr1QKSTo7cxFF4QIBeK+8IN4NZ3bZdHRrXHavzkYezbFaefGODVuiHtQ715e8oIWrtcPwn0GIV4N2FToVjTRa1PrdouK/TaNdin6cT8RAK0U+6IFIVBKPE/ttahnt0Uzl20ablXUucOi9kaLplPONbIkQei3D3NXXNDXN7erxWB4QRKFD8fzvn0WpY8rGmpWxmOuU+mySdDH11drBWE4TYkVYwKlDyodAwcsN1vIEsrGveUHfSqlawU5exAyVA40fGQtG4eVLhkHeorP0VcoG4OwMiUoxKboLHkTCMGgm8eURpUGbVpI27qEyBJfc5YwF9mJFMQoBIOya30CFLIkS4csoblPbIvToS3rAJJZwpFBuSYHtJpNuIEs8flKJuHpn8WpXheEXbpKDIazwkwg/jrAnNEWpbOEfQeBTCFLfI0syf7B14bMUE0gfx/hvgQhS1w69BNKx72EFSfLha+NyECMwn3+TVNoUxqFHfnXk6Q+AsXXXDIGYZeWoBAoB2QqmwQ9bbc16mc+Sb+nkm5P8TWyxCD87Hg/2++CsAeF2Ie8IFk2CZrosPUSLxfYizAP2akbhFVWCYQXOB9WObhckYH8ZcN9BqG50ej8pYtNk/cq/B3PBQhLXoKwB4Xeh0xlkyCcVwLx/oO5kYBMZZMgPJM/SyQI83j/iQCEEewHU0iMDD8Im6IEcYQAVTuCSA7ZP38RVGkEkcH4P+obfwDBXxKJzSh5IwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWElEQVR4Xs2W7WvTUBTGW0oIKf0bZCIIIsjYBxVUVFBREffmnNM5maPqhlOKQ1emUrV2anWyN2VKh5OyjaGTgag4FPWDX/3sX3Pcc8PJTm5vS7NmsgMPyU1uen99zrkniUQ2fkTJLNP9dY8o5Yda6XG6WSl3q4myA41KDFEc7aaZkQs0/bTLAKX/iZrBXSCGAhBLhyk86aSXubO+hTHGPV1+qECQURq5c6oECkeAsBhoMnuGRjOn1VwcTUCYL6G/LQzR19kba4NiIJyzOwz06tE5BcRzywHhueX5NP1YvEc/Fx8oIKxRX1enpK+uhWs7/2sGwqImoPH77R4Qzk1As+MXfUA4ZyB9dS2ivjRgIS5ujHUgLA4ITm85oIUXyfCA2CVcA5CshUqSQO+nLnlAUCAgrgsdiHfT+d0WHdseowNbS7V3S4x2bY5Rw6aYD+rD68t+oLmbtQPhOgNBb/odynfZNNbjUEu9RYU+h4Y7bfr1MF4CtFToDRcIQipxP7nPou49Fk1dcWiwxaaOnRa1NVg0mXTHcEkCod4+zVz1gL6/u+vBBAaSUPhx3O/db1HqhE0DTbbxmO2wVdok0Oe314xA+uplwi1K7BgTUOqQrdR/0PLcgktIG9eWDvSlmForkNuD4FA5oMGjK24csVXKWKgpPkddIW0MhJ0pgWRT1FfXwt3yJiCIgW4ftxVU8bpDcylHpRAu8Zhdwly4EyoQQ0EMlFmpE0DBJZk6uITiPrkjRoe3rQOQdAlHBso2ukDLmbgnuMTnS+m4r37mJ3o8IHRphqkKCDvMBMSvA8wZbraVS+g7EJyCSzyGS7J+8NqQDlXpDmIVSK8jXJdAcIlTh3pC6riWsONkuvDaCA2IoXCdv2nyrbaCQkf+8yyhjoDiMaeMgdClJRBD6asbwgUypU0CPW9zFNTvXIL+TiS8muIxXGIgfHZ8nO7zgNCDAvQhP5BMmwQaa3fUFi8n9CLMgzs1A2GXVQLCAq7dlcXpCg1ITxuuMxCKG4XOL100Te5VeI7nAghbXgKhBwXuQ6a0SSCcVwLi/oO5oQCZ0iaBcE9+lkggzOP+EwIQorQeTJIwUjoQmqIEYgUAikS4rVeSDigl6ycUoGpDh6wGlrU69z+FDmmS/syGjn8Lcl0Vql6ZgAAAAABJRU5ErkJggg==",
     "wiki_name": "Gilded chainbody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_chainbody",
     "equipment": null,

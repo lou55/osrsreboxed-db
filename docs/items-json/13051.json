@@ -1,7 +1,7 @@
 {
     "id": 13051,
     "name": "Guthix armour set (sk)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu3X7UtTURwHcPcPFNH7ZA4XunA6ai5cy7E1dQ62MbfWtmazpBiElFGIFD0M6QlB7AEChUBMJHzViyiK+st+8T2X3+Xcc49zdw/Riw78uGfnHO/53HPvebCv799PLtKHrr7nyUWvVnP0YiUrYu1Bhhr30iIYsbNRo4/r87T9uqpBqQ/RMdwAMQogDhWz9bJC79dKlo7xG3VqWFGOkC5afzhnQ+EKCAeD3jaKtPG4INriqgOhvYz+sb9K33aX20MxCHkeHQZ9eF4WIG57GAh/931vhX4dPKHfB88EyBEGN+Wnlp+sk5BByBvlRyaX5TXgdz56iorJsxQ5N0jJiI9S0RHKxP2US4xRfjog6kqpIF1Nj9O1bIgW5iZosRCmW8WIuKLe5z4m7tV1UHTcS/HzQzQVHtbiAAMKkHrpokChXAYhHIH4u9CBQqNuCgc8Jg4woABCG4wSY5aqMXHVgj7d7wyEJwfkbiXoKHoGwpNjVNQOjwod6OfnR61ikOygYrxfgPCK5M7Syw0RsdqSCP6tA/k9x9sFIRnTdPPpZROED5VB3LGMkUEyrAsgYw3CCKkgzC6102agm7lRLcjBomhMeR0IawtmlNqpDNKheg6qzp4xO5fzujLkuwpCoKyccIu1BQvhjazf7FDO68qQZ1DAe0LcC6t0ixgkY4Y1A9XzY2aHcl5XhrwKwgi1BWKUDMKKjA8VneGKUL8Zruc2PQVhzyrP+ERntfSIDaN+6LpXxit1iygDJL82lM1PD4hNEqDM5CDlYl4qXDpNya1ZbQDLwaDg0ElxL6xBDtYhK4iPpgzCBhoL9lMi5KaZiQFKXfBYgFemhsUIYnZxdAzCLDsMhBtjt8eexkcQ3ulRx0cPLBFof7sy2T0Qo2QQEHwe4rOQjMF+xxhA5OMHg7AGOV6HdK+tG4FDWVsg9bXh40YZDva7mwuiTv6vBHmcDBBox4d6tN17c52+bNfp686ddkBI9ifThYyRQwXtv1u0gDgcgFpNdiQHRhIgjM5fBDVLdqQ9/qfO0h+7i37/U3OIYQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xs2X/WuSURTH9R8oot/bnMzYjOmknDGzieY2J6g4zaa5uRqFEKMWxRhFLzJ6YzDWCwQbBGONEfupH6Io6i878b1ynl2vV/PRx9iBL8997r0+53Pfzj3abMff7KSXrr3nZqfXaxl6uZoWWn+Your9pBBD7G6W6dPGPO28KWmg1EF0DV4DYigAsVSY7VdF+rA+V+cY72hTVQ9lCtJOG49mG6DwBAiLgd5V87T5JCf64qkDQn8Z+ufBGn3fW+kMioFQ5tlhoI8vCgKI+zYDwu9+7K/S78On9OfwuQCCD29/v5DqXbHatPOo5ZF1IxkIZdS1BSMvA96z4TOUj5+n0IVBiofclAiPUCrqoUxslLJTPtE2l/DT9eQYLaQDtDg7Tku5IN3Oh8QT7W7HCfEty4HCYy6KXhyiyeCwFg5ggAJIZe6ygEK9DASZAuJ9oQMKeB0U9DkNOIABCkDog1limOVSRDy1QJ8fdAeEkQPkXtFvSj0DwsgxK6rDf0kH9OvLYwOmI6B8tE8AYYlkZ8mVqlCkvCzE7zogj/OkFkj13sRqx3Tr2VUDCBuVgdixDCMDyWAWANViEGZIBcLpUp22ArqV8WqB5KCoelesduR1QIgtOFGqUxlIB9VzoNLMOcO5XNbVoWwpEIS6QswhYgsC4c20x3Aol3V1KDOQz3VKfAtRmmHaAsIJawVUyY4aDuWyrg5lFQgz1ObswI6AGEoGQkTGRoUzPCF1z3A79+kpEO6swrRbOCsnRxpg1I2uWzKO1Cir3jVWA5KXDXXzUwPikgRQamKQMhEX5a6cpfj2jFaAZTGQf+i0+BZikIk4VA/EqSkD4QKN+PsoFnDQ9PgAJS456wCvTQ6LGcTpYnUNhFPWDAgfxm2PO41TEL7p0capB0IE+t8pTlgHxFAyECA4H+JcSIbBfccwAJHTDwZCDDIdh3TLZoWQlHUEpC4bNjfqkNjvbS2KNvlfCcrIDCD046Qeffff3qCvOxX6tnu3EyBY48h0kmFkqUAH75fqgFgmgGw2DuutpALKwkwCCLNjCVC7pkK2A8s66vufTIXUSf3Nsba/BZ7Ji9TSnZoAAAAASUVORK5CYII=",
     "wiki_name": "Guthix armour set (sk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guthix_armour_set_(sk)",
     "equipment": null,

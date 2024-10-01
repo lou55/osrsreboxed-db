@@ -1,7 +1,7 @@
 {
     "id": 18910,
     "name": "Raw bird meat",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "This certainly needs cooking!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPklEQVR4Xu2U4UtTYRSHfb/7ZSDIGDUoFKZQKZZKmYmWmqENbWyMjTEzzaEOpwxSoiiSICIoiIj+1tOeczm32+RK7W5+ugd+7N67+77nOb9z3tvXF0ccccTxL+EkXJcaXtLM1Ssymk7L2NB1mRgelvTgoCQTCUn0918WlAdC8slMRqZHR2T25g2ZG7slC+Pjsnh7Qp5MTcm1ZFJSAwO9hPJASE7i5ck7snZ3WrIz92Tj/ozkHsxKcWFe8vNzes1zIIdSqV5AOb9yElnyytKiPF95LC/XVmV7dUWvq8tL+rz06KG+xxqc7CKUUweonCQkBGB/PSv1jXVf3KNa9ulfgIBTBAV1AcrphgZB4mYhH6rjfE7VyD3zIVmHY10DolI2JtHbSln1ulwK1WmpqHpVLPigOMvMRQRyaj/VftisysftLTnb2lRxf5HeVSsKzlr2wGWAOJERoJxW+mnnhXyp7ao+7+6oeHaRWIejOIvDDLed0khAtIAE3+sHqm8He6qve7VzMudwh3bhDvPD/BlIufWsWih0CuV0c4BI+Ou4IT+PDlU/Duu++J92WrtoFUAMNe2y03jaKujNUUPeN5tydnLSCZTTqmkRQAbS7pTNVhCIltmp4xcgg4nQNs8hAwq6YmCofcjtNNqpAwiXOPodggTDmyNzyoY7qKAzJGd2uKYY1gJI6/7MUuTwoEjQLkCCTpBU56XVMjv2fK0jtCks3LmvMiIxYMHEADHUuNIDkGAEvyNhan8vjjjiiOO/4jcVE4BfJec3VwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWklEQVR4Xu2U70tTYRTHfd77ZiDIGDUpFJZQKpZKmYmWmqGJNjbGxpia5jCHUwYpURRJEBEURER/62mfcznzeuVK7of04h74snvv7vOcz/me89yuriiiiCKKfwkn4brS8JKmrl+TwWRShvtvyujAgCR7eyUei0msu/uqoDwQko+lUjIxeEum7tyW6eEhmR0Zkbm7o/JsfFxuxOOS6OnpJJQHQnISL4zdk+X7E7Iy+UDWHk5K+tGU5GZnJDMzrdc8B7I/kegElGtUTiJLXpyfk43Fp/JqeUm2lhb1urQwr8/zTx7re6zByTZCOXWAyklCQgBer65IZW21Ie5ReeX5GUDAKYKC2gDldEODIHEtmwnVYSatqqZfNCBZh2MGNNTX1wqU00rZmETviwXV20I+VMf5nOpNLtsAxVlmrkUgp/ZT7af1knze2pSTzXUV9xfpQ6mo4KxlD1wGiBPZQtucVvpl+6V8K++ovu5sq3h2kViHoziLwwy3ndIWXHLaAhL8rOypfuztqr7vls/JnMMd2oU7zA/zZyCF+rNSNtusS043B4iEfw6r8vtgX/Vrv9IQ/9NOaxetAoihpl12Go/rBb07qMrHWk1Ojo6agXJaNS0CyECCTtls+YFomZ06fgEyGH/bLtk6zyED8rtiYCg45HYa7dQBhEscfT/IJWEsvDkyp2y4/fI7Q3Jmh2uKYS2AtM5mqUkQf3hQJAgKEL8TJNV5qbfMjj1f6xbaFBbu3FcZkRgwf2KAGGpcCYK0Ccbi9DsSJi/h2fsOgJyGP0GYgu8F94giiij+p/gL4x6rYb81nQEAAAAASUVORK5CYII=",
     "wiki_name": "Raw bird meat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_bird_meat",
     "equipment": null,

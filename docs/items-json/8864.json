@@ -1,7 +1,7 @@
 {
     "id": 8864,
     "name": "Five barrels",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-13",
     "duplicate": false,
     "examine": "To put on your head.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZklEQVR4XsWYYUsqURCGOx8i3A9JGEqKisp62bugJVlGJkWFdItLcLlwuRBE//8/TD5zGlekD0E4DhzcTiv7NO87c2bb2flyBHl5PNc17rfl1zSX2SjVNb/4KXfnmUyPe9JtHAr3rn97AxEU4t/8VPJ2XaGAeJoN5Pl6qNfDfsMLhuBBQQH+3o9klDZlknXkR2v3A8KWS0SQYbchWbMmN+O+ysQnknWPTCY3qKCykBUeDgQ/IyG+ARK58l5dkpJlbKMR5M/tiWaoVT3Q7OAl9iaDju6P87ZknZoHDBEzZEAYGB+xpyCLDAGWtqrbAyI7+AqgtFFVICTbChBmNg8BhK9GWVOvtwK0amog2CM7GNtJtlj2NMR6payVBQyZovLYMyBXY68vsmO9CR8Vv3ONoBB6VCw+yZKWvu+xQcS/HtmoMKSiH+EnMoVkTv4hgmYEiLfny3hsHMfjYx2odXTgARWWBmb8oMJmg1Qh14Hq1bIHEBF05Pj/cKYVN817yxnIgJiFnIAKyewMw0sGRFN0lMsiqGfIEueYNsW+debV5RrxoXiIdTUsackney4jx2cRVCI7OgCi/7C3BaACBrlYeIhjAyj2HaGCSmNjB8YmQ/a2sZ+UtNK4doKKfQgYGiOlz/UqEJXGPW5A9goEjGXIZAOIPuQuGxBkxqZFA6rsJ9oUnc0dgcgOsnGE4CtGD2Ccs2MR5P4skUo5+Xh40A7t6J3VKLoxwxhS2csiUjHGFvdsPIK8/p4sOzRDPTDmIeQCCOmc/tkQ1DecYRgaIGCs0siSAbkOaRiaxcOBAZBqI0tAAvPdIf8dLd4C5ZpBxtUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClUlEQVR4XsWYXWsTURCGey5EshcNJZLShCRNwkbWhSQG00aMQdFS/EAKIoggiP//P4x55nQ2y/FGcDMdOHR7SHefzPvOnNmenPxzBPn56VrXejaSj9tSdqtc1+3LZ/L+upDtciqT/hPhs+lfHyGCQny/fSHlqKdQQHzezeXuzUKvF7O+wiwvL3Wld2g4+NZBAb7drGSVD2RTjOXp8NF9RuJygwFkMelLMTiXt+uZysRPJJtcmEy2jh5BZSErPBwIfkdCfAMkcpXTnmQty9hRI8jXd881Q8PumWYHL7G3mY91f12OpBife8kWM2RAGBgfsacg+wwBlg+7FVB6h4bjbyCyg68AyvtdBUKyBwHCzOYhgPDVqhjo9YMA1U0NBHtkB2ObbOkdGo5Y9jTEXqetlQUMmaLy2DOgurHTuzQc9T4TF9mx3oSPbN+hymLEhwSF0KNi/5Msaen7HhtE/PbIRoUhFf0IP5EpJHPyDxE0I0D8vnsVj41lPD5SoOHFmQdUqAzM+EGF7ea5QqZAvW67ki69S8MRdOT48eFKK25bTqsZyICYhZyADpLZGYaXDIimWJfLydhBPUOWOMe0Kc5iZ64vJxiL+FA8xHq9aGnJZ4/jyOEMQwSVyI4OgOg/7Dn4Jo0DDHKx8BDHBlDsxwy6RFBpbOzA2GTI3jZOs5ZWGtdOULEPAUNjpPS5rgNRaXzGSbrDKxAwliGTDSD6kMnmAETE6iIzNi0aUOc006bobO4IRHaQjSMEXzF6AFPPjhMQEeTmKpNOO7s3b9AOXfeOK0wFsR/GkMpeFpGKMfbwmaNHkF9fNlWHZqgHxjyEXAAhndM/G4L6hjMMQwMEjFUaWTIg13czDM3i4cAASLWRJSCB+d8h/w92SDI0rKe43wAAAABJRU5ErkJggg==",
     "wiki_name": "Five barrels",
     "wiki_url": "https://oldschool.runescape.wiki/w/Five_barrels",
     "equipment": null,

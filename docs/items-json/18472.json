@@ -1,7 +1,7 @@
 {
     "id": 18472,
     "name": "Farmer's jacket",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-02-04",
     "duplicate": true,
     "examine": "This will help with farming.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xu2VfWvaYBTFE6QMg0RCgiEJGkyIIaYkGqpWWttKu5WWsv4x9v0/yt1zbnyisQ5qW+vYduAQa43+cu7Loyh/j1Sq+6hS6fquoMl8SGkWkNn5ckw4lb4+TOniOqPR2YCKcZfivE2D1GK7XvezwMofuX86p8VyVKUDoDDVKZua5PgKhXFMmq6Q7TiHhBKpPGXsxV1C55ennM7sKmKgPPdoWBgMlI0LBoLXaX2oRL/cDysDYjTxq9cSCNflzYDm35/JiyLqBQHb8/2PhFLpYjmoGTBx6tLtY0qTy5D/BgycXV3T4OyMLM+rUpJ+B9R6Wk6LLjuJSxfnfRqKNLRWgxbf+hUQbMcJl0wzTXLdNvV6BnXcJk+gbpzwPW+AUinyFPJthVPYdBA4DKebDXr6WTDQ7KbHkJySuMInmkap+HwUdSjoWwxnmhpp2snbgIbiKSUU3AusmrmnHgKa3/pcQgkik0J5JBBSsu0W6XpTNLhFLXHdE0qlPGzUoFxLIUt8KYzoH3+MOR1Mm2zwTSikiLL2BZAngHAfQHyRsGm19wFSqRg0GGgXFIzPPD6kPGFIBz30fDOvgKoVIBwmdgWEFREl3X1TUmk2bNSgaim1S6DR3KLJwhPv22w5YQADjCwXEkKJccQUs4SBbMd4LQxUB5IJSRhdU3j5weO5S2lh03I6qoAkDOxHYkl2W9WuysYhl6xttPYDwjRsl6v8gtX0dRQ+t/KpQ0ne4bMLMEgKk4gyAaTjaGRYzarp8T+Uq9mUh/Crtd5Ba5fvTxOzch62Ke7qFMQm2+vrDIKJMsRDoU+aYszRY2hylM9292ro12gNFTllWq6hVIsPlg/BR8pq6mRzfzCMVPmDMqGerfEGXm9hlSdMbnjAoLGR2oGApFQK3JZo+CY3O8wwq95DiTbH/sAwUmUiu4AwDOgZwKCXPglIqgTbXheAeucp/x7tBtrc8Nt3HFC7F6oEkuXcvuuA+j2QPG627ziwyg2/CSTTOQKM1GoHvThyjq4S7A+B+a9/VL8ADaA4V6EcQXMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xu2VfWvaUBTGE6QMg0RCgiEJmhqJIaZEDVUrrW2l3UpL2f4Y+/4f5ew+J95rFMdqV3WMHXiIL7n6y3PeNO3fCZ02ddLQ6e6xoMl8QFkekd36dEo4nT4/T+n6LqfRZZ+KcZuSYZP6mcPyg/axwMo/eXq9osVypNwBUC8zKZ/a5IUa9ZKEDFMj1/MOCSVcec1Zi8eUrm4u2J3ZbcxAw2FAg8JioHxcMBC0dutDQ9TL00AJEKNJqF5LIFyX932af/1GQRxTJ4pYQRh+JJRO18v+hgCTZD49vGQ0uenxe8BA+e0d9S8vyQkC5ZLUH0Ctu+WiaLPSpFRx1aWBcMNo1GjxpauAIDdJOWWGbZPvN6nTsajl17kDTeuMz7wDSqc40Ch0NXahqijyGM60a/T6o2Cg2X2HIdklcYXODIMycX8ctyjqOgxn2wYZxhkDjc7P94HSaSCeUkJBncjZENfUc0Tzh5BTKEGkU0iPBIJLrtsg06yLAneoIa57uqTTsFfbgPIdjRzxoxCsf/k+ZnfQbbLAq1BwEWntCqBAAOEcQELhsO0093FJp6JfY6BdUBDueXnOuMPgDmro2/1cAakRINRLXQWEERGn7X1d0mk2qG1AbbjULIFGc4cmi0B87rJkhwEMMDJdcAgpxoopZikDuZ6lHHqDS5tA0iEJYxoaDz9oPPcpK1xaTkcKSMJAYSyGZLuhZlU+7nHKmlZjv5ShG7bTVdq76r6WxntrOPUoHbZ4dwEGTqETkSaAtDyDLKeuih7fIV31ermE3wiEqG7sUuVhnaaprTTsNSlpmxQlNivomgyCjrLEQ6FO6qLNUWMocqTP9dcFvQeQpskDVZXfrKFir3TLtzQ1+CD5ELxSVl0ni/tdML+P8g+lQx3X4Am8nsI6d5ic8IBBYcO1PVP19pApjPyGKPg6FzvEMKvaQ4qqbX8gd7ajdGQXEJoBNQMY1NLB3NkO6Ra0PS4AJbf8EdzZjt1A1Qm/feKAsXugSiCZziM69GsgtW6Om7JywleBpDsngJGxmkFbK+dEMGVUO+7kMNWQIH8FzP84RvwEgxttYiIPvfMAAAAASUVORK5CYII=",
     "wiki_name": "Farmer's jacket",
     "wiki_url": "https://oldschool.runescape.wiki/w/Farmer's_jacket",
     "equipment": null,

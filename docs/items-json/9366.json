@@ -1,7 +1,7 @@
 {
     "id": 9366,
     "name": "Diamond bolts",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Diamond tipped Adamantite crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVUlEQVR4Xs2VO0sDQRDH3Y8hFoGIgg98BB8JqCGoiCBoISqIYB3rFCJopwh2USxEEAsVCQGLmC6k0o81Mjvs7czcWdx5ufiHI7eP2/3tf2Y2AwOpyIDuyVgcwMDl6Sn0EYoDGPh4eYH762sGRP3ym55JAxjotj/h9eEhaD/V63BzcZ4VVBiguFWEVqNh3786HWi9v8Pz3a1yrGeSAMu7KzCYHwzgKgcVO85heuiWgdJ2CWYqM3aD1cM1mNuYD2DWj9btOIcJu5WayA0EGC+N2w1w88mlyQAIxwtrBQFU3isrx6jfvycWhQoB8lP5AIK/I4yDxQcdlI7ROildEQamytOQm8gJAN7W41GOvT0+qisikYwN1ejcqFicu7GwuQBji2NiXDv23e1Cu9lkFZpYdHoeHgTU4RqeHQ4B8TnhCkyk6NP7ZI5qUx8Pn6tAV6F+XmwZu4g/PQHqtgZGR3lbV6hfP5Z+30yHa2hkSMzx49RGd+R3iUTu6GTWgDp82h10hoeP+hOJKom7IQHJQb8ZfaOTO5xfseVD4d2gBwF5/sgkpTY/AFaVBIwtA1dXZ/bBk7nFXJ8Ol3ZDj/+xqvzG6M7B/o6Awdxwfa6f/9NH3UUSMLbk5pgrro2JWa9fBu0oQFnS+nqILQ+DT61WDVzAX7QeN+Rz8PS6zYFktSUSnRQ35+Fyi3MA7OMO4vyUw8VFYP6d98kxB8Tdw/5wPmUmclS7l8Ld8xeRaxwIC6CPQE4EdVI9tuFycHpWRpIXKndLz8xQFDqdT3pWH+Rz6p8AOf0rmOT6AVMglA9lbnJsAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZElEQVR4Xs2VzytEURTHvT9DFjSi/Ighv6YwTUZSioVQUtasLaTYkbIbspCSBZKUBXaaFX/W4dzXue97zjyLud7MOHXzzr13zv3c7znnamvLxCKyM002BIjoeH+fWgiFABG93N3R5emp+853dfl5+6sGmQbgUX1/o/urK+/fVCp0dnTYLKhagKmlKXp9enLfnx8f9Pr4SLcX50axhpkGmFmdpfZcu4crbZTcOsI0UK2ICssFypfy7oC5zTKNLYx7mPmtebeOMLVqZWaxGgzQX+h3B/Dhg9ODHojXR8ujCqi4VjSKxbF07CCLU8UAuaGch8BvhhFYHqwgKiaQGT0REQ0Vh6lzoFMBoG/X0xR7uL42T0SQRS5VvWO9KjiqMbE4QX2TfWrdKvZVrdL787Pv0D8B8e0xPQxo09U90l0DhHtsBwYCpd9eijnNlzlMn3SgdGggDFvkgsjtBdD6FpgVRd92aCDQ74fZdHX0dKg9si4+q4O/CwZidWwxW0CbPqsOK4PpS9Jat8WdhGogIA9WUA4TAFvctr4CYJJUiBoyGBDrRxdp7OMFuKs0YN0W0cnJgRt8MwkmczZdVg27jsABQMnBrM7G+oqC4dqQOZnH//Rpb5EGrNv04Vwr4nNhVirH3k8D1C2tn4cAoASGx97ejlfBBfyRng/EPXx76yMQdlsAEFtSqJguCY4APIcK8v6M0xWbBMPAOGfXBAjV4/naevqjocz4F0e8M1bUqmffniRyUyzpOgHiBshMnRDDFO7ubLt0CZzd2yTTDyqq1TKVJHW2nloIpLv0XwCJCViLuux3C4H5Bm57Bs7X1iZfAAAAAElFTkSuQmCC",
     "wiki_name": "Diamond bolts",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_bolts",
     "equipment": null,

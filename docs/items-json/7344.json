@@ -1,7 +1,7 @@
 {
     "id": 7344,
     "name": "Black shield (h3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": false,
     "examine": "A shield with a heraldic design",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB90lEQVR4Xu3WT0sCURQF8BlkGCZCkSJRCSEoqBZBmzYt+gQtghYtgoIiIiIiISEJiTYRURQREUVE3/Plmdf13Xk+R2ecUSgvHMSN/Djvn5Y1mr89tlAZ+thitmiJhbIlliqZYcMkZnPMEVvNEGpljsMGirNFZUqBtpvZH3daqNX5jFhbHFhrsp0NzwmAaueuuL5yxeOD10K1wxLHyWYQAiEAVc9c0bh0/ZaWZ2QASxkn21n3Mj6IUKcnrg+qXyjQdKkkKuWyH4IljFPt7O4098yeIw4PHHF8JAMUls0E4jHhkIgoW5Ty7RiElg17CQEImE4gHRdsq+dRoDAMHX8ChaF4Q5Exk1mF0UGEwcbuFdQHBiPbwWbWMfzYA4MUC4U0QbIdWi6gKKZ2CMRRCWIwQZCO4qHl0kEcxU9XrI1MmIl8vmMIgqOOT0o3UEQMRoJ0gAmDVLOuH/pOtzWB+sZkPblEOsIEIgxS+0URyPSMxAJ1Wy7axBwEDMWEQWJgMLKhMBRh8Lo/P3kBzPub50cHxdjIfDq3xE8VgV5fJILn88MT31/y70gf7fAxo2i57u+8AAjt1HMyBKKGEsDQqHdMbycMhDRyci8lDtJva4Bub1wjiFCEQRLE0KiWAOIXII9+1FMEYdQjy58LfjmaYClhaPDjUTOafzY/BhO0gI5N3SMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xu3WQUsCQRgGYBdZlo1QpEhUQgkKqkPRpUuHfkGHoEOHoKCIiIhISEhCoktEFEVERBHR/5z8dnqdz3F2XXdXhfCDF/GyPrwzs2MqNZr/PZZQGfpYYraQEgullFgqp4cNk5itMVtsNwPU6hyHDRRnifKUAu00czBut1Br82mxvjiw1mQ7m67dBqpdOOLm2hFPj24L1QlLHCeboQBEIVD13BGNK8draWVGhmB9xsl2Nty0BwLq7NTxQPVLBZouFkW5VPICWMI41c7ebnPP7Nvi6NAWJ8cyhKJlM4F4TDhKjyhLFHOdGAqWjfYShUCE8QPpON7WcqUSFqVAQRgcf4CCULwhYEKCLDGZURgdBAxt7LCgGBga2Q5tZh3Djz1hKIV8PhJI/1Wfke1guQiFmNoBiKPCYCKDdBQPlksHcRQ/XZE2MjATuZxvAKGjTp9IN1DkdnSACUOpZhwv+I63NUCxMRlXLpGOMIGAodT+UACZrpEel4qm+3JhE3MQYRAThhKhHRrZUBAKGLrdX57dNszHu+tFB0XYyHz8W+KnCqC3V4ng+fp0xc+3/DsSox0+ZhSW6+HebQNRO/WsDEBoKAEMRt1jejtBIEojK/cSB+lPjzCdb2sC3d06RhBQwFASbAejWiIQfwHy6EddB+lPjTnqkuXXBX85mmB9aIcP/8sZLn3EyMEP9BL9GaNJcn4BF1/wth1M0QkAAAAASUVORK5CYII=",
     "wiki_name": "Black shield (h3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_shield_(h3)",
     "equipment": {

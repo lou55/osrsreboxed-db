@@ -1,7 +1,7 @@
 {
     "id": 28167,
     "name": "Clothes pouch blueprint",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": true,
     "examine": "A step-by-step guide to crafting your very own clothes pouch!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbklEQVR4Xu2X70sUQRjHvb8golAoEAwUKujwQEVEUBCCEDLsFxaJiW98J4oioljJYRmCXD8gSAjERMRXvYgkqb9s4jvL93jumZljZ3cVXzTwYXd2Znc+9+zMs3MtLRe/lIwfX/uZl5LZWhk3b5cfWKpLY2Zj4b6FEns7U+bb9qTZff/CI6V/RG7xRIhSECJa5uu75+ZzdaJhYNTRpmmUipIsme3Vh44UjhAhFPq48dTsrD+2fXH0CaG/lP59uGJ+7c9nk6IQzhkdCn3ZfGaF2DckhPtODpbNn+NX5u/xGysUJYOH8ldTCIP6hGqvn9SFcO4T2q+9bBDCeUqhUsNrwEAy1CH4ekNCh59mihFC/Up7b1OudvQ7giEgBKKEOC8odOla2Vy+XrH4ZHy03hh0aOscqkudfF/MLlQZfGS6B8Yt5f4xy52+UYfbPfcstyp3LTe7Ryxd5eE65yoUEqMcZU6P1tLKoISFatWqhVIhQnIZhVCSCYgVg6OOTlogL8UyCiU5CBHSQoyQrIfaeE1GjUIRSTFZ8iEhjRbQyHZIFSaEOeQDA8qjhlFjPbdQs+gwAr5XpdtZx/OQpVPKoCQrLI+QlpPziBHKJMQ9jl45XD36Wgj2lZO6cKEYZE6iUIRUIkQp1PkNk+hBNaHMjechB0XkIVdIfkilVJqPrP64ZhLCKpNCehCgZZpJSXIJSamiwB4IOSg6D0khpgBcx7YVW1Gcc3sLsKtEHeA+burR9+DDtPmxO2t+7s1lF5KvzSeENvmvRAqhHzf1BQihuKH2IWUkWgh7aSlEIoTSFleSIJIQQnTOUahZcSVd/pd85R/6zGQ5TLr56gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4Xs2Xb0tUQRTGdz+BiGGgICYkpNDmQoWIkCAIIahYKiZGRW96F4UioviPpVIEWUsQEgRRkfCVL0Ip7JNNPHN51rPnziz3n+KBH/fOztw9vz33ztzZXO72R964cfVfe+TN+vyo+To3YinNDpu1z0MWShxsvTH7m6/N3sa0Q0r/iNTigRClIES0zM9vU2anNFmVGG30aaqlYknmzebCi5AUjhAhFPq+NmG2lsbsWBxdQhgvpf+czJvzw0/JpCiEc1aHQrtfXlkhjvUJ4bqL4zlzebps/p2uWiHkeNTaatHZVQRl56+mEJK6hMor4xUhnLuEDstvq4RwTiGdXUW+6jYgkSy1D95en9DJj/fZCKHd0PKkJnfudYcEfUAIxBLic0GhuqaCqW8uWlwyLhrbekPcvf+sInVxNJNcqNj70nT1jFoK3cOWh08HQ3Q+fm7pKA5YHnT1W9oLfRVuVMgnRjnK/P21WJFJJVQulSyU8uGTcwnp7J4IHkDMGBx1daICeSmWUChYg1AhLcQKybavj5/JqlFILoo6u4pgyvuENFpAI/shlZkQniEXSCiPGlaN7dRCtarDCrhule5nG9+HVZoykYQww9IIaTn5HLFCEauDuBLiHkfPHM4e/ZkPjpUPdeZCcZBrEoUopbM7IhCiFNp8h0l0Uo1v5cb3YQ2KsQ6FheSLVEpFecnql2siIcwyKaSTAC1TS0qSSkhKZQX2QFiDYq9DUohLAD7HthVbUZxzewuwq0Qb4Dpu6jH2ePudOdv7YH4ffEwuJG+bSwh98l+JFMI4buozEEKES+1Cyki0EPbSUojEEMrluKzXQgtKUEkIoTqZCEUNLRlFllyNvaHQki70Nbc6/gNE367F8KoGNQAAAABJRU5ErkJggg==",
     "wiki_name": "Clothes pouch blueprint",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clothes_pouch_blueprint",
     "equipment": null,

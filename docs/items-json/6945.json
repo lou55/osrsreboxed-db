@@ -1,7 +1,7 @@
 {
     "id": 6945,
     "name": "Sandy hand",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-10",
     "duplicate": false,
     "examine": "A severed hand covered with sand.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADeElEQVR4Xu2U7UvTURTHvQyJetuLwIjwhUkIGr0Io6SJLZ2FrkxtZqKh2QNSWZNhuLCmFmahohKpSUVFhYUkRRQRZE9kzxFB/8tpnzvuz7Xmmtvs1Q4cdncfzvnc7zn3l5aWspQtqin52/+r/Zl8tS1N1q9dYXn26uURACN5UkxJXk6OZGVmyqqMDMlLt0lF0RrLXfYsy7flZ0rBupWyMTcjoicBSkl5cbHsdDqlpNAum5fYpKV6fdxe5chORC0le1wu2e92y9GmRrEHYADyNW0S/6EC6T6yJaKfa7FL77FCudhaJINtDhn2bpPL7cUy2uHUa621G2SvMyceMCUH9u2TEwcPiq/1uDgCMEB1Nm/WCU0ik2zsdKnlE53btV8/u8Pym11lMj1QKVOXduszXKyhPHchYEoGuvxyps0jF077LCDU4fYEJdHd8y7LSYrf7inXbuYne3dqB/L1tUZ5d/uYzFyt03OoNgcW1ZQM9fTI+EC/XOnrk7KlNg1FAEqBEiTlxk+GquXRYJUeP+irsJz/OMrg7EfNjw988vXRefnxbFB+PB+Wny9G5fCuLbFBGa9clq6BTLm4LUmfX3bLq4kGeTlWKy9Ga+TpyB4LEGfMHGPWUZXzJu6bm4fl/Z0T0lFfGguQMSXuAJAzoBLBTD8AQUBK8PZWi7y+0axLQjlIDqz5BYwzrHO+/+TWkP6JuY9CTWm56QmCkxQQ5Mc/3D8ls5NefVvgACU56hnlUAlVOccvascJgymrRCQi8aepTvn+5KJ8e9yre+LLdLd8fujXgAZOqxZwoEyf0cxcAEgu6a3PjwdKWf2CAiQkOUCMgeA/YAAyZp695gxgQABEgxOTOfZ7ahwLhZofiPIwT3BdqsAvYEAalVhnPHvPo8eoRYObkrGWFCBuBwSlCG1Qsx6qEo/AzNNHqMVrTaiPaGYAuCk9BNDfAZVu/HCVmOelAYiyQKEUfZQ0IJJGDqa0KuEqMc+zRy3OAtpeVzJPjJgs2Ijc2nxx5w8W7I1QlXhtRtFfMxMy3l4n/qZgg4efjtH+BEKl6MGU/hygaDgQ52/4gqqFn1qgzd2c78m/AwaTU2oextz+8N5LyIJJuDmJogdWurRj3lrpP1r1j71xWxCIHiBRc8W6KImCr47yjHhMyRbFlIbBAYueyJQn2p6k2H9LlLKUJWS/AUH8Ex0qFlYTAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADl0lEQVR4Xu2U20tUURSHPUhEvfYQGGE+mISg4kMYFSmmNhZeMq+pWGiaIZpmiOGI5SUxDRUVSU1KTCpMJCmkECGzIruHBP0vq/n2aZ/RcRwdnYTABYuzz95n7/Wt31r7+Plt27b9UzNkpW+pLQ8e6O8nkYf2Wh4SuMcNoDv3iRkSHhoqwUFBsj8gQMJ3+Eta7EHLU6KDLY+PCpLjEfvkSFiAW/cBlCHJCQmSarPJqZhoObbTX8oyIzfsGXEhm1HLkKyUFLmYnS3lRYUS7YAByF50VBovH5fmKyfc+u2yaGmriJGOyljpvh4nvTXx0l+bIAN1NrVWmXtYzttCNwJmyKW8PKkqKRF75VWJc8AA1VB8TAXUgXSwwfpEy4cbTit/eOuM5aNNSTLVlS6Td8+pPSR2ITnMGzBDupoa5eb1arlTb7eAUIfsOZRAT1pTLCcoPtaSrFzPj7elKgdy/kGhfBirkLn7+WoO1ZxgHs2QnpYWGerqlHvt7ZK0y19BcQClQAmCkvF0T6a86M5Q44n2NMt5x1EG53vU/Dxhl+8vWmXxdbcszvTKr9kBKT17Yn1Q2tN371BAulxkS9CZ/mx5O3xB3gzmyuxAjrzqy7IAccbMMWYdVdmvz303WiofH1dJXUGieo84cMAzlPmBIdkOIJtDJQ7T/QAEB1KC94/KZH6kWJWEchAcWP0EjD2ss7/z2skl/WM6sdYEcpqh5KYnOJyggCA//unZDVkYr1HZAgcowVFPK4dKqMo+nqi9QRjMsEpEIAJ/mWyQn9Md8uNlm+qJb1PN8vV5owLUcEo1hwOl+4xmJgEgSbKmIOovmFdmWP2CAgQkOECMgeAdMAAZM8+3eg9gQABEg3Mmc3xfnRPnLdTqQJSHeQ5XpXI8AQNSq8Q644Wn1WqMWjS4LhlrunSukVcx90BkBwSlWNqgen2pSlwCPU8foRa3dVN9RDMDQKb0EEArDzRU47uqxDw3DUCUBQql6CMv1dG2Eoig7rMzlCquKjHPtUct9gJam39qo0CY2Yhkrf+4qx9m9sZSlbhtWtHfc8MyVJsvjUVmg7s/Y01bDoRKng8z1O8ARV2B2D9iN1VbqbBX5syc/4lnIMwMTqm5GM7vXXtvU2YGIXMCmYevZoYq7WBNrnSWZyxLwEcwmAlEDxCoOC3CA5R56yhPX7VZMh9BuJqhYHDAPAdy/qN8qIo7W38gve7pG5/YlgXatv/J/gCpqksGvhCWVQAAAABJRU5ErkJggg==",
     "wiki_name": "Sandy hand",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sandy_hand",
     "equipment": null,

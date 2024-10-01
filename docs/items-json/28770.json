@@ -1,7 +1,7 @@
 {
     "id": 28770,
     "name": "Guardian horn",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-11-15",
     "duplicate": true,
     "examine": "A horn to call your loyal guardian.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2ElEQVR4Xu2UTStEURzG53Q7ne7tdm+a20xGRigiRVMyG2+hsBghoSjvbEhWFmQWotiJfAFFKV/AZ5DyCays7KzYPM7/TKdhEDODqPOrp7u65/7Oc/73hEIGg8Fg+HcwZPInYBh0fayURP+KFMOIW6KEOoRVgJRuNzdFwZDgFlryFmJY7xU4nbNVy32Oh07bRdJ2ihVjaJRClK8vwjDUwjHdxVXDKSnUI4VapVCTsFHLBfaHRaFiDPU8pEJNfa16hlSzhcl2juV+jvSoUO00CwcNUihucYQtC8udHBdLurG8YKpq2iE9aWHKx2IMPXUW5ls5tgcEjsZtnC84uFx1cL3h4nbHw8OBh6fzvg/e/xSmBLQM7ZJq13ndGkOTJ5CKupiN+9isCeNkxlYyN1su7vY8PB4HeDrtKFRGk5HSQlqqSoaOQKdUhuZkscJHuibAYUMUZ4kYLpNxXLVV4ra7GvcDjcXKEFkh+qAOiWkpkiFJOlr6s35QRpOVehndFgnS8JLMhBfGoh/BmrzD0kEMe5FyHEbjKt8oRDDVgB5wHRJ5T2YznJXJztm3k1lYS1DorqGQ0EuZ3UjZT4rkwtQNTBmTrVAzU16AWT/IkflVXv/yb2MwGAx58QxcYy5L9al2vQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+UlEQVR4Xu2Uy0ojQRiFUzRF0U3TjaRJMDLxBooiGASJGx1lFNRFREVUUPCuG0VcuVDMQhSc3aD4AgMOCPMCPoMIPoErV+5c6eZYf7WVmwoxUYnQHxx60/z19emqCoUCAgICAr4dDH4qAoZR28VGVbRSpBgm7Col1CuMEqR0u4UpC4YObiD5LJSoqytyIMP2oMDZkqlaHrIc9Jk2ukyrXDGGdilEKV6IYSzJMf+Lq4ZTUmhACnVLoYQw0cwFfo+LUsUYWnlIhZoqrnqGVKeB2Z8c68Mc6Umh2ukUFtqkUNzgCBsG1vs4/q/pxt4FU1XTF9KTBlPeFmMYaDGw3M2xPyJwMm3ifMXCxaaFqx0bNwcO7v84eDwfyrReXPMZmBLQMvSVVLtOfmtyAUcgFbWxGHex2xTG3wVTyVzv2bg9cvBw6uHxrLdUGY0vpYW0VIMM/QKdahnaJ6u1LtJNHo7bovjXEcNFVxyXPfW46W/E3Uh7uTJEVogW1CExLUUyJEm/lk7WJ8poslK50W2RIG1ekplxwlh1I9iSd1jai+Eo8gPH0biKFiqcXiJMNaA3uA6JvCazG87KZPbYx7STiz9YS1DorqGQUK7MYaTmhcgHy/j4Q5m6gSlTshVqZs7xsOh6eTKfKvKS/CNfmC8UyZLbwGspfD8gIKCSeAJ2pVlNEQlqHgAAAABJRU5ErkJggg==",
     "wiki_name": "Guardian horn",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guardian_horn",
     "equipment": null,

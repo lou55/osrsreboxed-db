@@ -1,7 +1,7 @@
 {
     "id": 26720,
     "name": "Bandos boots (or)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": false,
     "examine": "Some sturdy boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xu2W70sUYRDH3VdhSBKGYVKSYaJJovgTTS8u00w67TpOzeyySy4ljECCiKCI/u2Jz7PM7uyjHe0915twYLg77rvPfJ55ZubZjo4L+38skubum/+/70EWydDQbRkcvCUDA/3Ob/bfkL6+69Lbe016eq56QaJE6+u6u684D4CKpFJ5JsPDdxIoG+wsUCTl8tOM3gcLBtrfr8jY2IiMjt5NAjUDyqfPbZHUatUkgLofpKvrclIfFsjqNVtkqrPzUqtQkdTrL2Vvr5xxjmV9vSiFwoLMz09lMsQGgMJVz7GXSquytlaQYvFBqzBYJIeHr+TgYMe5BmkGxAZwq9/aeuJg0C8uzoQBjY/fS6DYfXOg+Jnz9AAtLc3J9PR4GNDs7ITbISnf2FhxIKSdnbI4hesDWa0FZ3PUUTDQ8VHtXCCcAvaB3jdeJ1rNDOvgkxP3w4FOTuqZIAARiF1nMxTr0XJkaB6vLDsgPttSQwTXIBQrdUFNEIAW9ucQQTlKgKif7epm0mGMCfRBbU9wrSHtHH4zV5gx2ZqI3H+aSdvy6MgmUEFAfkHbblGgNEAKpDOHjJFhCpoBGQzkw7BwHiD0AFH8AHHM6WTPbVkgOoQggABEEI7OXh3oFR49n+gtUMAFGyUw7NLV0f6CyxD1oEBpgBQIYGro5Lgotb05B9M2IHx3Z0tOP65I4+2SlEvxTFGgtNNSIIr/x9cN98y7N4tSeT7pMtUWIK6Cn99K8vnTqnxoFGT7xZQ8ejjijoRdc+MrEHq6kTHx6/umfDldk6PDZdmtzsj6ajypg4DsvcRMoWi1c/Q1g10rELPKPkNmgdRG4Jl0A7ktDqCvFCyuQ9EGIEsWyN70bELvM9ttLQNpl9m5wpXBcenitobsYATcXsSqD2p7MqJQ6nbY+XeZTva/0+e2yGWDBTkiXHeri9NlFsjq0fJbs3NWn9sidzTWber1HdkCqQbnO+D2PTyrb8kiB6BuM6Mv+dkAsR7dPwLC4oL9s/vm/+/7hbXHfgOmZI8/FR4gSQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xu2W70tTYRTHva/CkCQMw6Q0w0STluJPtLlYtmWjaWtMzWyZDVPCCCSICIro3z7xeS7n7tw7He0+9qLogcM29r3P+ZzznHOe29X1f/07K5D2llzJ/5PmtQIZHb0pIyM3ZGho0Nn1wWsyMHBV+vuvSF/f5YSTINImdb29l5x5QAVSrT6VsbFbEZR1ZoHuDQ+7z0rlSUyfBFOgUN/xCmR3tyqTk+MyMXE7ctQOqDN9xyuQer0WOVBLOunpuRjVhwWyes0WmeruvpD22ALZ338hOzuVmHEsa2t5yeWWZHFxJpYhAgAKUz3HXi4XpFjMST5/P9KnyFIgjcZL2dvbcqZO2gERAGb1GxuPHQz65eU5vyPLZO5EUETfHih85jQ9QNnsgszOZvyA5uenXISkvFRadSCknUjZnMJNAlmtBSc46sgb6OiwfioQRgEngd4dvIq0mhn2waan7voDHR/vx5wAhCOijmco1KPlyNA8Wl1xQHyeSw3hXJ1QrNQFNYEDWjg5h3DKUQJE/WzW1qMOY0yg92p7nGsNaefwm7nCjInXROD+00zalkdHNoFSoBRZCh3Y+rHdokDNiJtAOnPIGBmmoBmQ3kBJGDbuBAg9QBQ/QByzTnZvIDoEJ4AAhBOOzl4d6BUePZ/oLZDHBRtEMETp6mh3yWWIelCg5itFEwhgauj4KC/1nQUHc25A2PbWhpx8WJWDN1mplMOZokDNd6ImEMX//UvJPfP29bJUn027TJ0LEFfBj69l+fSxIO8PcrL5fEYePhh3R0LU3PgKhJ5uZEz8/LYun0+KcthYke3anKwVwkntBWTvJWYKRaudo68ZRK1AzCr7DJkFUhuBZzSAVEA6DDkCNtehaB2QJQtkb3qC0PvMdltqIO0yO1e4Mjgu3dzWkB2MgNuLWPVebU9GFErNDrvkXaaT/Xf0qYDIBhtyRJhGq5vTZRbI6tHyW7PTqu94Be5orNnU6zuyBVINxnfA7Xt4XJ9qBQ5AzWZGX/LjDkI9uj8ExAoL9ixrrYdWTXt9iqWbnGW++r9i/QKNO+Jl7hU5SAAAAABJRU5ErkJggg==",
     "wiki_name": "Bandos boots (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_boots_(or)",
     "equipment": {

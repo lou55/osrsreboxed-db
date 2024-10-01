@@ -1,7 +1,7 @@
 {
     "id": 6755,
     "name": "Journal",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-11-22",
     "duplicate": false,
     "examine": "Somebody's private journal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4Xu3X/0tTURgG8HsZ/dAQI5TFlCZL5siFSyElTFhIwijIKMRRjb5aFP0gEYKI9AWKIKL/+MRzTs+9733v3fSeTVfQCw/7SfjsOe891wXBvz2hcfkrJjTz5cDUSsEf1EhhoWlOFyLQzIRLDDt1XBrUaJai1BuTCneiQIeRoIWlC4loXDZQx3uS7SCLy+UoR8GYqXOBzeSYiycqNEuVZDvXrk/ZfNt/nko/nASNn/UCOYwEraxNR9GYXiGoVp8YDkjuz2qrYiNh/XA8UonyxqxU43aQtfUZG6JkeuE0qFQuqqU/9iRBrY2qDVEyvWCIBFVr502xeMZici51jGHW25cilE4/HJYfKLazvXkz7w6F5sZswYKI2rgza0E6R8EIQkNsx2OHkqD2Zs2CdDROA4mS7fAzN0aDdDROAwlCQ3J30A4+vUDI7ftzqWhcFhCgobTTmivYAHN3q56KxmUBCRpKOwQh9zrziWhcFpAgtgOEZzsYB3rwsJGZ4wABQjt4sgZsB+P2B6+H/Xcds/d222x1r6Rg/YBYaLTD/5dw39iX6sWxvBiMA+FW/nG4Y74fvLRX/9e9Z+bLhyc2nacLNoBqrLzV8aUAwn3j2Q7GHZl81Pk4Awfkz4+vza/Pb+xn99VV8+hFMwqvCgnCsVWq4z4YTGjajYK5ddntkV5aAHnHoDW0J6H8MmwJt/MA7XDwhy5sgEcjF1k+3rgAD3cfm0/vu/ZYgeVSD9BO1sQ4CcQOSSDa49HydcH3V853Vt7pDUSLwMlbOv7tdmqTBHKpuUPxb7aRjYMRNGKMHLb2f05ufgNggXMf8WAZzgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfklEQVR4XtXX7WvTUBQG8ITiB8uYyEalG3aroyuuss6BDtFBZTgoCk6UsaIW3xXFDyIyGDJ8AUUQ8T++8tzrk5ycpGmStm4eeOinwa/PPbnpPO//Ht+4HIvxzUrVM42K9xd1pDDftOdLAWhhxiWE/XNcHNRqV4I0W7MKN1Ggw0jQ6vqZSDQuGahTeKLtIBcvV4MMgzFzpzyb2SmXgijfrNei7Vy6Mmfz/eBpLGk4CZo+6UBri4t5UA4jQRub80E0ZlAIajRnxgOS+3O1U7ORsDQcj1SiJCYHyDcb9bAdZHNrwYYomUE4DapUy2rpM08U1Nmu2xAlMwiGSFC9cdqUyycshkudsaEQw2x1zwUonTQclh8otrO3cz3vDvnm2lLJgojavrVkQTrDYAShIbZTYIeioO5Ow4J0NE4DiZLt8DM3RoN0NE4DCUJDcnfQDj4zHhUmBCE37y7HonFJQIDG0k5nuWQDzO3dZiwalwQkaCztEITc6a1EonFJQILYDhAF28E40L37rcRkAQKEdvBkjdgOxu0PXg8Hb3tm/82e2e1fiMHSgFhotMPfS7hv7Ev17FTedjAOhFv55+EL8+Pjc3v1f9t/Yr5+eGTTe7xqA6jGylsdXwog3DcF28G4I5OPOh9n4ID89emV+f3ltf3sv1wzD561g/CqkCAcW60+XaQdjG+6rZK5cd7tkV5aAHnHoDW0J6H8MmwJt/MI7XDCn5dsgEcjF1k+3rgAD989NJ/f9+2xAsulHqGdcMI/jv7+JRA7JIFoj0fL1wXfXzleoNmGuGFAtAicvKX5v9tI7QybNCCXmjvE/9kmhkmaJCBBE28ny0jYkWPkHCvMOOYPNH22gCnr7koAAAAASUVORK5CYII=",
     "wiki_name": "Journal (Making History)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Journal_(Making_History)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6992,
     "name": "Stone head",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-23",
     "duplicate": false,
     "examine": "A granite head shaped like a camel.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfElEQVR4Xu2V/UtTYRTHff6BIBLEBMNEJZVMqeVIbbFUZiOV+ZbJyDBGitg7oiFJGlIhlBAEBUEQQRARRBD+IvT2X534nMuZl7F+aN15h+zA4T48d+x8nu/3nOdWVJSjHKGFk9ydEMPJUGeDlAiUk2SkXsa6mkoByEm87Yikoo1yOdZSGkB97XUKNN17vHSAsGumv01uDJ4KC4qiu3YBc2s4ork62bXXUE7qqg5IR32VJE4elUs9zTI70C6Lo52arEMBijRW63Sl461qFYk6mzNxn3V/y0DDA4oeO6x3D3bdTZ3WfHL1nGxciekaKGD5TXdzjbTUVuoBiqCgk6aaQ1qE/skkTsjyeFTVAYY+8sMAYQnoq/mEvL83GBSUk4bqg1m7GHWKAAMUMCiAagCR/IY98tm18wr0YXEoCCAPJtZaq81MMQBWJs7Io/RZTdY0tqnEE2D2AEbBrUyvvF4YULD/hHJZGG5lChoMvcPpKbg21a2Kkax5z76p8+J6n67f3k7Km5sXCoVy2jOMODmf7NATUxAYTv1yrl+LsaYgT5I9gwDMYA2yACAPhtsYm+gFfxPzpxTktO/uXNQnp2dN0i+fV0bk49KwNjPv2CMLBgIGVewCBAYruHNMHYp9eTCqxXl+eziuRbEJFb3C+fKfwuloA0PPAEPfYJVfHZoUBb4/nspTsKDC+cKDYWzts2BWWSObOliDKj83p4Mqni88IGyy0fWrg12ogyWos70+Ib+eZ4oJRDi9iblP/L1jY446NCl9s7MxKb+3ZosNROz2gV8d7LLPwNfVMfnxNL0XMLnhsurk2hUCjIWnFnYxXZ/up8KE8UegI12O/RN/AP59VNCZFRzUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnklEQVR4Xu2Va0tUURSG3X8giAIxwTRRSSUv1OiQ1sSkMjakMnnJZMgwhgzpHlIhSRekQighCAqCIIIgIogg+hJ0+1crnnVYM6czGTie5swHFyzOZs9w1rPfd619qqq2YisiCyfBnQjDyWhvk1QIlJN0rFEm+loUqLO+PkooJ8mO3ZKJN8upRFtlAA12NSjQ7MC+ygHCrrmhDrk4ciCqPqJowS5gLo/FNJen+8oN5aShept0N1ZLav8eOXmoVeaHu2RxvFeTdZmt84BizTU6Xdlku1pFos7qXNJn3XoZanhA8b279O7BrmuZHs2HZ47IyumEroEClv/0t9ZKW91OPYApGHzrJsJJS+0OLUL/5FKdcnMyruoAQx/5YYCwBPT5QkreXB8JC8pJU832vF2MOkWAAQoYFEA1gEj+wx75+OxRBXq7OBpGn3kwifY6bWaKAbA0dVDuZw9rsqaxTSWeALMHMAqu5QbkxYVhBdukSi4Pw61MQYOhdzg9Be/O9KtiJGt+Z9/UeXpuUNevrqTl5aVjpUI57RlGnFxId+uJKQgMp352fkiLsaYgT5I9gwDMYA2yBOs8GG5jbKIX/E3MSynIaV9fPa5PTs+apF8+LJ2QdzfGtJn5jT2yZCBgUMUuQGCwgjvH1KHYx9vjWpzn5zuTWhSbUNGzpjiB2QCQ09EGhp4Bhr7BKr86NCkKfHswU1QwWPhvGay6TngwjK19Fswqa2RTB2tQ5cfq7D+LBytsMDwgbLLR9auDXaiDJajz5d6U/HySywMF3xZSOL2JuU/8vWNjjjo0KX3zdWVafq3N/28gotAHfnWwyz4Dn5Yn5Puj7B92Bd8SahSKuLw6QbvKBlMcnlrYxXS9v5WJEsYLU8syUhh/hDjSW1Fy/AawYItKrBu0RwAAAABJRU5ErkJggg==",
     "wiki_name": "Stone head (Camel)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_head#Camel",
     "equipment": null,

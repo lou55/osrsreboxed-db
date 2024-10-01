@@ -1,7 +1,7 @@
 {
     "id": 7989,
     "name": "Big bass",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "Whopper! I should get this stuffed!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xu2U7UtTYRjGd/6BvkdEFFiUoSamhpqKmq+Y4nvaMp1OZsvp0kRraObypUzTNDExMXxBmSaalEUZpiZBf9KV173OXPOFjJPrwy748eyc59lz/577nE2n88UXr0eB5x0vRsFgnQX/kZTXhPYq6BQ6ZKn9uuAVIUZBu6nsV1H3wttC+0up39tr/sBxbtagL3Ar7GSn0E4yL0fielICLHlZWkgpuBkaAENYIIzhQTLyujDYH7mBZ5Dh74fks6cQ53cCUSePIfT4UUQHBSAtIhz5CbEwpKeICIU0kTFFXIA5MhiWqIuoiQ4V+JnwPucpqQ85j4Kgc8gKOC0j5WtjwtCcGInEsBBtZFicm9bHhqMx/hJsCREueE04R7iO6ylJOGdPjsbjW+V4VFGKlrJij0d5oCguAZ7wYVIU2lJjBBZR4X0VrnOnMy0Wg9mJ6LOa0V1lQpe5Qn4YdmMJmkv1B5FTpAALUoAb92TEozczQcau9DgM1de4XmTOE3dhrhvOS8Ho/bsYaayV9QN3qtBbXSly7l3blts1imzOoty0P+uKnPJlTrLAz8MN1t/gOlWU8DtjBWlw3Mj06MJ+7BpF7NlinpwnfJWfKpuPF6bL6CmzG1w7V6zRz1tEtjZlq8ebGzDVasNMWwum9RnS9j9hviRbCxlG2SEy+8SOuaftUoSnpthk0VVXx4jaRT6ixdIcrWQYBZMP7mHa3gRHRyvmezqx0NuFxefdWDLkQndE5zz91qiKqVBW1mgpw05QhCNF3g48E5YG+/DBmC9QhoXZCUqwK5R8X56H9TqjtkLshCpCiXdD/VgefoHlkSGsmK4JFCKUU8VExmrQUoZRRIKoEh9Hh4VPr0ewVn0TX2/rXUKqIMU4p7EMo7gkKEA+j49iZWIMX6bG5XGwC4QCquBqZdG/kGEUEXCXWJ2ZwJpjSvjWaMZGvUmgnHqt8Xvjme1/zvXZGWHjjQObC3P43mTFps2CHx0215ptDiWeRQ9dwBdf/jo/ARY0EwDPEuy6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xu2U/UtTURzGd/+Bfo+ILLAoQ5eYGmoqunzFFN/TVr5OZsvp0kRraObypUzTNLFhYkxFURNNyqIMU5OgP+mp56y7zTsnruYs8IGHs3vP2ff7Oc+596pUhzrUgUuC8s4BSsJwgxH/EJQTSB0Q4E8oTwnYgfyc0m7Hsh3IjylJ6NRX/IZyBXMCeYam5P95mvda9mJN2kKXxna7A7k763I0ridrYMzP9gWUhJLwYJRHhEAXqRYjr4tCg5AXcgaZQYFIOXsKCYEnEHPyGMKPH0WsOhjpUZEo0MSjPCNVgBCItXisf3G0EvRRF2CIDoUx5iLqYsOF+Zvmfc4TUht2HoXqc8gOPi1GwtfHRaA1KRpJEWG+gWFzFm2Mj0Rz4iWYNVEO85rmHM11XE9ImnOWlFg8vlWJR1VlaKu4qThKryQ5ALjDh8kx6EiLE2YT2bwvm+tc3Z0ej+GcJAyYDOit0aPHUCVeDIuuFK1lWm/gJNGADQnAwn2ZiejP0oixJyMBI411jgeZ87QrMNdZ81Mxdv8uRpvrxfqhOzXor60WcK6pOeF2lCSKsymLDmZfEbt8mZsizN/WJtM2c50MSvM/44XpmL2RpUjBsz08W5KgZ8TcOXf4qiBNFLcVZYhRCbOTuXb+pv31lhvtxQoYyv5NYVFGbWttwlS7GTMdbZjWZorY9+KF0pzddu2NJDeQuScWzD/tFE24a4JNFl91JEbLKfKIlspyfQVDSZh8cA/TlhbMdrVjoa8bi/09WHrei+XyPKiOqOy7/zXKYLIJK9b4EoZJEIQjQd4OPRNeHh7AB12BMGHYmEkQgqkQ8n1lPjYadA4gZfU/kCSSkEEI8W5kECvWF1gZHcGq/powgWjCyWACxlTuy3QoSUDQMsTHMavwp9ejWK8twdfbWgeQDEgwzvkYhpIcEASgP9vGsDoxji9TNnEcTIEmgAy4Vl28HzCUJABcIdZmJrA+OyX8rdmAzUa9MOHkax8/N0o5v5wbczPCm29msbU4j+8tJmyZjfjRZXaskb0P6TjlLO7+eVcCuFpZZ1+kbOp3gEP9L/oJS3tZP+lHU5YAAAAASUVORK5CYII=",
     "wiki_name": "Big bass",
     "wiki_url": "https://oldschool.runescape.wiki/w/Big_bass",
     "equipment": null,

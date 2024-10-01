@@ -1,7 +1,7 @@
 {
     "id": 29581,
     "name": "Tormented synapse",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-07-10",
     "duplicate": true,
     "examine": "Glowing hot and writhing in pain.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xu3W3U4TQRQHcHrV1MfQqGlrQEz0HbhBK5RaLJWPULSaGgJiai1WaIpAg2KtpiokkAoEtYbEoNFo9MmO/mdz1tnZae12V+OFk5zsR6c7vz1nZtqurn+/+Ugfus//ePPRam6AlrMREaXbF6g4e14EI+rrY7S1doU2y0kNSn0J13ADxCiAOFTMxkqCnpWGLQPjGp+pYUU5QvpoLT9oQ+EICAeDqsVLtF4YEn1x1IHQX0Z/2c/Rp52ZzlAMwjlnh0HPH1wWIO7bDITvfd7L0rfGffreWBQgRxg8lN+aQRhUB6osxEwQznWgncq4BYTzNkE+SxkwEE9uXKsgDA4El7cZaP/ppHcgzhLu6UCcSQbhGSrobS1lghCOQDwvVBAGV0HcT56wtasBG+rdiykraHfOPQj3AUIfgDiTuF5N+unxRECLQRxsXPMWhAAAn1fCx8UR/XB82X2SqpO/MLgvY4A/3Lphgr6+mW8Xg2YFySg8XLx9T9ACqp46YSIxh3SgD9uZTkFoxlzAw3Wg12fCVPuZFc7Ww5CBaRUf69Odgow9CBlqBjo810OvekMCUw4do+XgUbo+NkqpkREaj8dpNBaju1E/FWJGFON+8T0GOdgUjSWvAyEA4kl9cLabtk8HRbnuZDJ0K52m6amUmEf1mwFaSvhFYLKrGXIFYhQCIOy4XIbd3rDIFGBqiRpzR8SqwzlewhOQnCUcuWQoyVIuR+V78/RoccEEIYv4DvdD8MpjEHbpNjFoxsrRgfgvRnIoKqKUzdJKPk+F2RmRJRXEgfv42ZAz1BFInUe8xBODAyIAwtzhTGAvwlEGYbmjXPjZ8AzEKBWESYxr3jRxzplUQdilZZADlAHSlY1BwxcjFOnrM0vEIJzrQFgE7zfTJgh7kIN9yAqSyyaDuDQyRgdCdlyDsMpagaL9/eKIezoQ/2xwuTwDqWXDfQyCPhgQg6vlYhD3BWjvyYQFhD3I8T6kKxsPgjfGeSuQPH88AenKJoPwmW5CI9BPnj8uQWjGvvK7UOcPhwrCpiiDOByA2m12JIc8f/4iqFWzI+3xv7lrPwAYaTjem3Fs3gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADP0lEQVR4Xs3Wa08TQRQG4PZTU38F0aiBGi4m+h/4giKXCgJyCaBoMATE1AIiEJBLUEQ0qJBAEAgqhsSg0Wj0lx19Z/NuZw/TpqWrYZKTvc12nj1ndraRyMlvUXGH6/o/b1GZT9fJbKrWxPSDqzI1dMUEEVtLHbKxeFPWF9ocKP0QRcM9EFEAMTRmba5FXk03BwbGMa7pCKIKQkZlcbT+CApbQBgErUxdl6XxRtMXWxcI/W30j720fNsePB6KIOwzOwS9fnLDgNg3Gwj3fd9Nya/9x/J7f9KAMEZlSYkJPbpqXtr51ARhUBdoeSLpg7DvAm0vdwZA2CdIj65aNFAGDMTJjWMNwuBAsLzZQHsvu8MDMUs45wIxkwThNzTo42qPD0IUBOK80CAMrkHsZ0/Y1VvxI6hPb3qDoJ3h4kE4DxD6AMRM4ni+LSbPu+JODOJg7Xa4IAQAuL6cOGu26Ift2/LzstKdweC8jQH+cOOuD/r5YczHFAyyUfhx8/QVpQHQyoVzPhJzyAX6stnvBOnRszRvLuDHXaD3FxOy+jcrzNbTMg+TK75uDRwX5K1ByFA20OHlCnlXVWYwC2VnZLb0tNzpaJee1lbpbGqS9mRSRhpiMp70YqopZu4jyF4U9eiqea+8C4QAiJP64FK5bFaWmnI97O+X+319MtDbY+bR1r24zLTETGCy6wwVBSIKARBWXJZhpyphMgWYLtH+8Cnz1mEfDxEKyM4StiwZSjKTTsvCozF5Njnhg5BF3MN+CL55BGGVJiYvEN4QF4h/MdoaG0xMp1IyNzoq40ODJksaxMB5fDbsDOWZHbQMSM8jvuIt9XUmAMLcYSawFmFrg/C6o1z4bIQGIkqDMIlxzEUT+8ykBmGVtkFE6dEdzQO5ykZQ87Vaqa2u9ktEEPZdILwEn9f7fBDWoALWoSDILpsNYmlsjAuE7BQNwluWC9RQU2O2OOcC8bPBcoUG0mXDeQyCPhgQg+tyEcS+AO2+6AqAsAYVvA65ysZB8MTYzwWy508oIFfZbBCuuSY0Av3s+VMkCO3ol9oVev4wNAiLog1iFACKRLis5woNtMOeP6GA8m0amQ+Wken7n5pGukLfc6LbH2Jtg2ogaAS3AAAAAElFTkSuQmCC",
     "wiki_name": "Tormented synapse",
     "wiki_url": "https://oldschool.runescape.wiki/w/Tormented_synapse",
     "equipment": null,

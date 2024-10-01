@@ -1,7 +1,7 @@
 {
     "id": 10554,
     "name": "Penance gloves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-01-04",
     "duplicate": false,
     "examine": "These gloves seem unbelieveably light!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACN0lEQVR4Xu2Vz0sbQRTHMyzLsvkXPPQg7SEHxVLIQSk5tIhSirRYCNJCwBYCLSUgKBKoiFaKByHgoYeCB8GDIPTQs3/aK5+Zvt3ZZFKSQnYPzYMvsz9mdz77nffe1mrzmAdhJFflYeT2uC6/vtXlflD3wCqBM/J9L5Uf+6ncfEnl51cHxnh3qnClhpHLXppBXfdT6xYCsBKgwee0AHV1WFTJUEYuPqYZFOIYOD1HJUIZOe8mFooRnX1IMjDEPVQSlLEAJ7uJHHUS6b9z4tiHLAmGMBZgr+3Ue5PIp9exlbqFSgIycrDjILpbsbx/URSAOFc6DIu/XR8VkGzdPwJN21mNdDZjaT+LZaMZyXYrzsQ1BBTA0733D0i47Y+Te+7lamTPWyuRPX71NC4IONybAshVCCVKQ/ObGh0XcY37VAxzi1/sAHHo+ZPIjgg4FVATAhlbCeQB+6y9ZLjJkZR+4jKSrMVFjKwtRdYpwHypi/ncseFyACgW0N4BAE74jmgu5OU7vICRx48iC6UCTgFH5wfD2H0Gii8HjEXVMXWG+wAxcj6+yTko1GzkUrjwM4Uwlp499ktV+weLA6pAVA3nOBl+uZHGg5osL0aZFDA8PxguIf0kRCzuNzsFAo7r45udbuewJg6XjCEBpkDab9Ql3Jvh78BZHRLuAaPbxvaqS1qZM4MK6eGCg9L80i6sLs0I5m/hoDT5gdHKpCorACIclP4eFKwiGA0HRbKzhbhUMRAxnGPz+I/jN3tFPwLXUFneAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVUlEQVR4Xu2VPWsUURSG9zIMw+xfsDAQtEjhF0IKg6RQRBGRiEKQBAIqBCISCCgSSBA/kBRCwMIiYCFYCIEU1v60I8+9vDN3ZnfNTnDvNnvgZb525zz7no/t9WYxC8JZramHs1/v+vb7c9/+HPYjsKnAOfu2U9rR69J+7pV28jGAcTz+ILik4ezrdllB/dgtvVsIQJ5fmZtLCeXs8FXZgPr+tqnELjn7slVWUIhz4HSNEkI5O9gsPBRH9OlFUYEhnqFEUM4DvH9W2P5GYbvrQZzHkOqlBP3kPMDOatD2k8JePsq95BZK1NzO3jwNEJsPc3t+vykAcS6ROzUMydfuDApISndGd7puVmcb93JbvZXb3cXMHi/nlbiHgAK4I1AAGb72Ryl878GNzF8vX838+crNvCHgcK8DUJgQRpSFFi81Ni7iHs+ZGD6rX6zvIxy6fT3zRwScBNSYQM5PAn1AnbVL2kuOpowblyPNKqiQyNnSpcw7BVgsuTgWED0AFAm0OwDAidgR9YLGVwnqJM6uXcw8lAScAMcGos5A8csBI6kckzM8B4gj1/GSa78PKLS4UEtwdZlHhvP01DgeVe0PkgMqIKaGa5wcBbRwvmeX57NKAhx0dGSEhoybEJE8XnYCAo77Wnbtt6mcbY0JQ4RmHCbABKR9I5dwr+6nZih5W+3P/SOC1cOEe8CobJRXLmkyh0H9hxi0GV04F6DUX9rCcqljObpF2+KQJECp+YHRZDKVAmq/a8IRoPT3ILCJunN6BCianRLi0pTciePMozy5GOyxWaSJv4+7fhZCpMlOAAAAAElFTkSuQmCC",
     "wiki_name": "Penance gloves (Worn)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Penance_gloves#Worn",
     "equipment": {

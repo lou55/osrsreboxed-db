@@ -1,7 +1,7 @@
 {
     "id": 1134,
     "name": "Studded body",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "Those studs should provide a bit more protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4Xu3Xa2sTQRQG4AYpkiVsCAkJTUhKUtKQRoyGGgzES1Hwo4qiotaiYkURQRSlFMVLKd4olHpBJYVKqaFoRRAVRdFfdsw7y1lmdieym6TiBwcOu9nZbZ49M3My7ev791uA9KHrX/cWoEfTh+jB1EERszcO0My1/SIYsTx/mpbmJmjx8SkNyvkSXcMtEKMA4nBiGg9P0vPZ48oX4zP6nKGifCEDNHfzsAuFIyAcDHo6c4zmbx8R9+KoA+F+Gf19dZq+rlztDMUgnHN2GPTy/gkB4nvbgfDct+YU/Vy7Q7/W7gmQLwz+KL81g/Cl8lt6CQatLJxRQDj3CAoowwAET270FXIm5TIhyqQMSiaCFI9uVCJkbFCCUavPzvUOhCw5MflcvHUeE8GYaMQg0wySEex3gd69mLRBCF8gnhdOEDDFfMIOoDgAy6QilBwIUyIWsnEMev/qvAp6c717UGVzmkrFpBbEn2UYgkEfGhd6D9o+mqVtWwepXEopKBxxTYfFc1iRn5Yu2aAfb295xaCpIEbh+lh9mOrVIYGSs4UjY3EdASACQ4dnP7++3CkIzVqyC3ePKqB9YyMCtbOWt2H8xTqMnKEvy1c6BVk1CBlygnZU47R3V1FBtcsMsoaVh+dQFGWQj6JoLXkdSEZVt0SpXAy3AAk7SoUYFYaiYiVy8LLvKYhRCPRXNkVaoAEFw5/LI3GByqZNSifXASRnCUcrQylqNhoCgOHSRT4bocnxcYpFrTrUfHLWBqFKe8SgWStMB+Itxu5ahmqj1qrSBU90ZChsWnMIPxtyhjoCOecRrqN/T31QTGgnhDFcDrDCDKNfPIOfjZ6BGIW+WiUmJrQOJK801Cb88PIcQpWWQT5QFkg3bDIIE7sdBsPFOwEGfVy8aINQg3zUIRUkDxuDgMGSRzCGQVyDZBCjOgZhlbUDcXaAKQ2bYjvCIdcfgOS9UU9AzmHDdfTLGBkhB2/cImFrUstDhhrkuw7phg3XnRt1L4Ea1DVIN2wMwt4YffJ/JTjnao77eFOPe7sEobnfUhcyRg4nCEVRBnH4AHltbiQHMgkQsvMXQX9qbqQ7/rfu2m/0I102qKoKhAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTklEQVR4Xs3X+0uTURwG8I2QcIyNsbHhhvPGlLloNkwa2EUK+rGiqKgsKjKKCKIoRIouIt0QxC5UTDDERMoIoqIo6i/75nNentfznp3FboYHHt75Xjifnct3rz7fxm9+scd2fd2bX55MHJZH44dUpm4dlMkbB1SIWJg5K/PTZ2Tu6WkLyvwSDcMdEFEAMSam9PiUvJw64ekYf+OaGS+qJqRfpm8fKUPhCAhD0PPJ4zJz96i6F0cbCPfr6J/LE/J98Xp9KILwmaND0OuHJxWI91YC4bkfS+Pye+We/Fl5oEDoY6CzU8Xs3WjOsPNbE4RO9W9ZTQhanD3nAeEzQWbvRvN7pgEILm5c6+sOSXc6KOlUQJKJVolHN3sSDGzyhKjlFxeaB8IomZhMd3z1c0yFmGgkIKFQqwRaW8pAH16NuSCkJhDXhQkCJptJuAGKASydikiyLSyJWNDFEfTxzUUv6N3NxkGFre2SyyatIP6twxCCPpUuNR+0Y7BLtm/rkHwu5UHhiHM2LJ7Djvwyf8UF/Xp/x8XUDCIK50eGe2V4qEeh9NHCkVicRwBEMHV49uvbq1aQ2XuF5mzZ2fvHPKD9I/0KtauYcWHs2IbRR+jbwrV6QU4NwgiZoJ1Dcdm3O+tBVRoZjBp2Hp5DUdRBelE0ezeas+VtIB01NBCVfDa8Cki4yfXFpK8nqnYiw23fVBBRCK4XtkRWQW0eDP/O98cVqqs9JO3JdQDpo4SjM0IpWSqVFADTZUumKyJjo6MSizp1aOnZeReEKk1MVSDsMBuIrxh7imkpDjq7yhYudIxQOOSsIfxs6CNU5eigrYHMdYTzuL53uEMtaBNCDMsBdlgg0KKewc9G00BE4VqxEFML2gbSdxpqE354uYZQpXUQUWbvluaAbNOmg7CwK2EwXXwTIOjz3GUXhBpUQx3ygvRpIwgYbHmEGIJYg3QQUXWDsMsqgTg6wOR6Q+p1hNHrD0D6u1FTQOa04Tyu6xgdoYcvbpGws6j1KUMNqrkO2aYN580X9WqCGtQwyDZtBOHdGNf0/0rwmdUc9/GlHvc2CEIr/5a26Bg9JghFUQcxNYB8Ppb1f8UE6sFIAoTRaQqo2mYiq8Eya/f+p2YibTGf2dDtLz42p8LjgKfeAAAAAElFTkSuQmCC",
     "wiki_name": "Studded body",
     "wiki_url": "https://oldschool.runescape.wiki/w/Studded_body",
     "equipment": null,

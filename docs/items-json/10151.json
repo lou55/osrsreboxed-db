@@ -1,7 +1,7 @@
 {
     "id": 10151,
     "name": "Noose wand",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "A noose on a stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuUlEQVR4Xu3VyWsUQRTH8Qwignjx5EE8iRcV9ZiLXjyJQqIRt8hI3IIiihiUEBSXIbgRCHFBJYFIiCFoRBAVRdG/rORbxa95XVOz9HQrHix4VE93dfdnXlW97uv791vNpSN1/Y+3mns0MeQejB/0MXlj0DXGBnwIsTA94uanTrm5x/UEKv4TpeEBJBQgRYyZfXjSPZ88kXsxv7kWRx5VCFlzUzcPN6HogSgEeto45qZvH/Fj6VMgxlv09+UJ93XxWm8ogThWdgR6eX/YgzS2FYj7vi2Nu58rd9yvlXseVAjDQ/WvBeKlKdDM3aMZiOMUaHHmdA7EcZegWm4aeJEWN79jEC8HoeltBVp+dq46kLLEObsO4kwKRNZi0LsX5zMQUQikdRGDuHZozyY3dnyra5zd6UaHdmWwTqD3r0bzoDfXy4M4H2eo3r/BrV+7OkO1An2YvVAtiGAqWUNaRxbYLkOM/TR/KQP9eHurWwwtD7IoHh6DAAjEuFagz68v9wqihX/Nw9uBVKFHBnb4XiAyGYO+LFztFRR2DhnqBFIWlSF6zsUgxltQgaIYtnwKRKRAwnLvlb0bfW9BjKsUJBTBC6i4vIBjW6G598Duzb6Pp6sykM0SvQUxjnPaXcDCS0JY0NKTMxmIKt0lhhZ2WAqkz4EF2QotUH3/9myRE4zls2Ez1BMoXkfaygLxOwbZLLGe1q1Z5Y/5bFQGEorzpF8grtuiybHNJM8a7N/ie6q0BRVABVBq2oqAeM7wvm2+Z/zHuYsZiBpUoA7lQXbaLEhbPp6uOEPAS4NYrJ1A2vIpkNaatntloHjaOG9B8YJWreI+jQXElrcgalDhOpSaNgtKbXkLUoYYWwkoNW0WxLXUgib02dB0lQTRQh3pFPH6UcQgiqIFKQqAum3NSIVdP38R1K41I5vjfyvXfgMY4Wsvtm2D3wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2ElEQVR4Xs3WyWsUQRTH8RlEBPHiyYMIAfGiojnmohdPopBoxC0yEregiCIGJQTFZQhuBEJcUEkgEmIIGhFERVH0Lyv5dvPrvH5WT6YzraTgUb1Ud33m1dJTq63+Ug/xiN3/56UeHo/2h4cjh5IYu9kXmsO9SQgxOzEYZsZPh+knjQjK/4iO4SlIKEAKj5l6dCq8GDuZ65hz7vnIo0oh62H81pG/UNRAFAI9ax4PE3eOJm2pYyDaW/SPhdHwbe76ylACcazsCPTqwUACUtsiEM99nx8Jvxbvht+L9xMQfXR3dSXhe3clTbt+tUB0GgNN3juWgTiOgeYmz+RAHAvke3elnhsGOtLk5tyD6ByEhrcItPD8fHUgZYlrdh74TApE1jzo/csLGYgoBdK88CDuHd67JQyf2B6a53aHof7uDLYc6MProTzo7Y3OQVz3GWr0bAob16/NUEWgj1MXqwURDCVzSPPIAltliLafZy5noJ/vbmeY0iCL4uUeBEAg2hWBvry5EgX53gtK+qt5eSuQdujB3l1JLRCZ9KCvs9dWCkpXDhlaDqQsKkPUXPMg2luQ3RR9766kSz4GImIgYXn26r7NSW1BtKsUJBRBB+y4dMCx3aF59uCerUnth6sykM0StQXRjmtaXcB4XmFB80/PZiB2aWHaArFCYiB9DizI7tACNQ7szCY5QVs+GzZDbWaHsgTy80hLWSDOPchmifm0Yd2a5JjPRmUgobhO+gXivt00ObaZ5F19PduSml3agoTyvUdKCooNWxkQ7xnYvyOpaf9p+lIGYg8qsQ/lQXbYLEhL3g+XzxDwjkFM1uVAWvIxkOaalntlID9sXLcgP6G1V/Gc2gJiyVsQe1DpfSg2bBYUW/IWpAzRthJQbNgsiHuxCU3os6Hh6hBEyf8BKwo/fxQexKZoQYoSoFpN23qr8EAbdv5UAmq3eGQ7WMVS2/9UPDIW/plVXf4AYuW1uwEKwnEAAAAASUVORK5CYII=",
     "wiki_name": "Noose wand",
     "wiki_url": "https://oldschool.runescape.wiki/w/Noose_wand",
     "equipment": null,

@@ -1,0 +1,84 @@
+{
+    "id": 29850,
+    "name": "Dual macuahuitl",
+    "last_updated": "2024-10-01",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 3.628,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-09-11",
+    "duplicate": false,
+    "examine": "A brutal pair.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4Xu2W72uSURTHdxlDlAdFlA030vmIynQ4N6ZL2spYblghG7WxalRjxSjoN1EQBUFE1KsIgl70tn+hP+/0fO/tXO/zaLDNu/mmAwedO97zec75nnMdGflv1kxQrw/NBM3nc/Tuzjnaibq06WSoHTkzLChBFdelr48u0d1oXvrz7To93Jin+kzqH1DBSvaLOZapyiwWChrozW6Dnl6v0UGnSslYTCarTk8bCQWVMxntN1ZLtFbL2gITlB6PkJtyfEDctlQ8HgBS1WT/dNCUsdvNIq1UpiibitqBggNo04lJoC0nK5NMJZM9QKgm/MuDi/R+b1nqDt+B5srZYPyRTbWsUS5JGPZ2JKrbgMNNIFT025OWria846S9MyYp7jiDAKny42l/vrqsqwNH+blyJgzg0SY4x8qJXHKl3uAM5c91KOsK+vuzNeNp1aHsDMaa+Xj/gq4ktxZaY++t6qFN6WFpZsYrf9ITZ0K3qx8MYhmG4Vte7K1WmTITE9IHgGET1JhcpHqqSi93luS4Y/8Ahp+WwYMwiINuOMYKjAnEy3B1IUNOeNSDGvMl+7C/IqcKLUUVrzZyWjdWYFg/gIHjqYuJnLGdlSMOIw4gHvG58ZINzbCpJNAOdg/DLExUpEBN/TAMQ8MBg+1sSTMwQb/eduj352395PzUG8t53QJU78eLdd1ShjF1YwGGTR0IIUM7EDOmBUCmmKGZ1zfP6hhz3zBQ8ORjmKDdcpT252L0uBane1fmaK9doWvnC77tjFeeJgbGVWJJN2yCtoqOdEBBpKjA7fVZXxvwiusB/8etD2DLujGtO0HYLcWxkAbqJhJSX2gVKmN+xzKMMk6KRQeg3kRC7ptqKCwr2cpGaDbZjfOfZs0ErYS7t3M/GLwHUNuN9Imzal4i7+6qhbqJ+HNsYf/nHmB+oJ8VhzHVLq4CJ8ZlCZjUqLo2TNATrA5MtWX2LxA77qdiOtG3PScIAxNylPknJ64QjDhG28LP0KOa2tAY52Y1LZNjAQIIkDHnxKcpaEJuXuwetIjbhQXYu49OzfotuuDfp2ycOCjcocAM0/4AxlW143OSFlYAAAAASUVORK5CYII=",
+    "wiki_name": "Dual macuahuitl (Last Man Standing)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dual_macuahuitl_(Last_Man_Standing)",
+    "equipment": {
+        "attack_stab": 115,
+        "attack_slash": -4,
+        "attack_crush": 121,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 81,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

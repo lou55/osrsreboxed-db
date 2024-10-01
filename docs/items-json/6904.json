@@ -1,7 +1,7 @@
 {
     "id": 6904,
     "name": "Animals' bones",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-04",
     "duplicate": false,
     "examine": "Various animals' bones.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACl0lEQVR4Xu1XW2sTURDuPEleKkJfiogPUqRUhIJ4gaj4oBUq1lCViERrxWoN1VAt0SpBCY2UqhQrXigqwQsKtaLPCv1nI9+ZLueSs5uum2xL8YOlyWbOzHe+mTNn2tHxH4lALM+GAHFtZpSvjw2uknKJud/bDuL5+Zs8Pn6a8/ljPHBin0GKDKKpQVQBqcePLnmCE0/fvxChnvsuEYhfv7rNi4uT/OH9FH/5PB0a+NvXirI11ctm93Ams8Vj/08gnp29xs+f3eCXCxMGEeJSadgTxCRKXK2OcC6X5VODBz22sUH88MFF5fRJ7arjkJRSje/1758+3lOqLrwo8q2JnLGZ2JCFcHJn8pxRGy6IK5WCsXubMBR9Ojem0vj2TUkpDbW0rbvGCynOqbvnefTKSS4WzzRZJE6xBrUSfIeqaBP4awZHDeIdfGPDfX07o/1DYqQBOzs7fDja2ALxr59z6hRiPZRDe8Bj+xBiKyt1XlqqKuWaxNA7tHvNWiBrEQikUPRaYdePVs1+H4pYxquQY49ihlKoGaQNfUsrFddnIpBqD0iDWzsoBZDs7t6WJinier2sWgWK1g4cO0WtgFzAhcJx7unZbim0DmQCSOCgs6Oojx7Zq1KlT21biYU5t5UJujrU6929IwmpqIXSqaNtArQkdcQH9veGOCC1YxQwrhe/TctBXC7nndzLg+LF41cokQrNIJckui4uUXzG7R00vsbAMiGgVhp/axmIfyzXePn7jLoW0Gv0bORCVEUf0kOZzy4x7JT5g8iIiy6N2Xto6BD39+/izs5MxJq2Q3rQn9/v1L2GqQGjDA5HV9dWz6ZSIekGlAkAacZFGwx+UHHk8kBapFzYBMNP6LpA/nFIsX+tBanVzybHXzOHECHQxarBAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvklEQVR4Xu1WXUuUQRR2rmRvFMEbiUgIETEiIfqAreiiFIxssWQjtkzJssVaNNm0WIrFDbFCUvpAKpY+KDDFrgv8ZyeeOZ7dmXnfd3U/3l0vemDYd2fOzHnmOWfOTFPTf1QFRdz2BRTlFsbo7sTgDimXmPs/dChaXr5Pk5OXKR4/T/0XjxuklEG0bmBVQOr5s5v6+1hnp24yPj93vYR6bl9VUPTu7UNaW5umz59m6fu3+UDHP39ktK2pXjR6hCKRZh/7iqBocfEOvX51j1ZXpgwiilKpYR8nPMbKKcpmRykWi9KlwVNGf8VQ9PTJDb3oi9x4YUFxBqWk35wl41+/PNaqrrxJ0oOpmLGZssETscjM9LVCbtg5w3aZTKKwe9uZ0oq+XJrQYfzwPqWVhlpFW3eOLzg5Zx+N0NjtAUomrwSQKdrLHOSK/IeqKBP4NZ0jB9GHtbHh3t5DpUlBYoQBO7s6fGYXMgwJ0e+tJX0KMR/KoTyg2Wswse3tPK2vZ7VyMu6uu4PiDqXWlDB2wHPhCKSQ9KKwqYJJbC8btibsamyBjz2SGUohZxA21C1RyiVW1vplGWsoXR4QBjd3kAog2dHRZpEKGYry+bQuFUhaW+EyQlQ78AWcSFygrq4DFokGkBGwY6nsSOpzZ4/qUMmpDTlk3sXdEKFJVYd6Pd0HqyFVaiJX6iAb+xTVJHSKTp7oCXCo9I6RwLhe/G1smAQrIAMoSqfjTuy5IXnRRCHbidiFAr4kUXVxieIbt7cUPj8yUA25EiqpzY0cbfxa0NcCao28jbzys6qoQ8VHWSjE7JAFkYFyqNJ4ew8Nnaa+vsPU0hIJh5iblP6JyTXo75+P+l7DqwFPGRyO9vZWz6ZqTtIfrkN+ASDMuGjl4QcVR2/114eUV0mbYPAJrSNMcjihUr8aQsaLoIPRQOwrMnvFP5dTdeqbX4RPAAAAAElFTkSuQmCC",
     "wiki_name": "Animals' bones (1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Animals'_bones#1",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 928,
     "name": "Adamant arrow",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "Arrows with adamant heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA50lEQVR4Xu2TywrCMBBFE4qLuiu4ycIGLBRSQREEKwj5AXHhwv//kylpDHmJOzMD9sBQAoEebu4w9j9wsEMCDv25B7ETFKQ4DNcB5F5CIxoaQuN9hO7UzUNC6NZWsFXtPMhCVmazZm8R9GJbISeiLgqz2HE6B33ELrZPR780drHjdIwQcrHj7uTFLkou4OVQ+JZOcVKBJZ2QVGBJJyQVIJXOp3NRODzrVfZc6DLmawZRKJeRFcOSMXB41PbnTgYxHYcvMQGZEFJC9sniTUMjlnFblt4qSLxprtjprcLY/hBIJ4WUzO+YANSF19AUpL3GAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA/0lEQVR4Xu3TzQqCQBQF4Bmkhe2ENi5SSRA06AeCDAJfIFq06P3f5MZ1uowzg7Zy7kAeGCRI/DgehfifSFAniEioLhWkuzQElITm1kC+zyFJkx50KgpOlIT20UJ5LvsTBOieRbCts/4wgxRmsxbf7ajDDiJIfa05h222c+iO3MPW7XTvjnvYZjsIYh62uR172IjxCHIBhCOIRwxmvB3PEMzvduw7Zs7SzlSWdqZiAtzfXiPhFa+c18XUjsbgFY8Nsu+YMS4mjwRvO89YPZwwjO1Q9IhtDBNIiDGQ/T+PUa9s+KUxgkwMfWXsIMLQsBlBGLWfYTvMID3sIDDDzIH5APsTFYSyXyi7AAAAAElFTkSuQmCC",
     "wiki_name": "Adamant arrow (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_arrow#Unpoisoned",
     "equipment": null,

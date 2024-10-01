@@ -1,7 +1,7 @@
 {
     "id": 23343,
     "name": "3rd age druidic staff",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "A fabulously ancient gnarled staff as used by the druids of old.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4Xu3Va2sTQRTG8eYj+EahUksNBtJAbzStYkGCQlEElYqKiqKioIggilKK4qUUbxRKvaDQQqXUUrQgiIqi6Ccb+c/yxLOTTZtNVvGFA4edzM7u/HLmsm1t/37JueRIuv/HS849nhhzD8cP+Zi6edBNXj/gQ4jFmTNuYfq0m39yKgEV/omW4RFIKECKEDP36KR7MXU8NjC/uRdGHJUKmXPTtw7XoLgCUQj0bPKYm7lzxPflmgSiv0V/W5lwX5auNYcSiLqyI9CrByc8SH3rgXju6/K4+7F61/1cve9BqTC8VP9aIAZNAs3eO1oFUdcUxqcqFwNRbxCUi00DA2lx8zsEMTgITS913tGzq7cK6av0+aCeCUhZoi0JpEwSPJ/vz/vrlk0b3OBouSZDRCqQ1kUIYvAQZBe0zVDv1s2u1NnuSl3trjhcrAW9udE6iHZAQimTdkfy/NDeIbenXPSgbR0bfdv7uYvZgggAFhQuaIG6d3T7oF4YLPjrx4XLVdD3t7cbxVDiIIvS9g1BFrN/Z4/PDnXtMPp+en2lWRAlWoQMthYoaUGPDkeZsWcQfT8vXm0WFJ1BZGg9kF3QPFcZKPgIQfS3oBSHYrTlk0BEEoh2YZRZ3mGzkylIKIIBlmbP+gGoa4srQ+B4LpyuzEA2S1wtiH703zdSqmLqgZafnquCOKUbxFCiHZYE0gcTkKZGGDJUDwR+5fn5WIaaAoXriHYGoM9IT95jtL3rgTRd715eyA4kFO3c317qcpXy7wWsLQ/GZtKCOKUtKAUqAiVNG/fKxU4f1LlvT+h6IKb4w/ylKogzKMU5FAcJRTtZGSh0+Lq2vMUkgchOyyB2jwXRNra735VLUWYYgMHsJ8OCtNY0XZmBhKJNnwNNAQPaT4YwAvEOgdjyFsQZlPocCqdN7QJRXwtk108moHDaWC8WxL2kBU3os6HpahFEibbzehGuH0UI4lC0IEUKUKOlFqmw6+cvgtYqtcja+F9aK78An1BBc2tM7d0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4Xs3XfUsUURQG8N2P0D8FhqktLawD6yquFgmxFEgRVBgVFUVFQRFBFIVI0YtIbwhiLxQoGGIiJQRRURT1yU48d3hmz5y9s+24o3jhMHfv3Nn723Nfhs3lNn/Jiz9899e95OX5xJg8HT/mYuruUZm8fcQFEYszF2Rh+rzMvzjnQdkf0TY8BBEFEMNi5p6dlTdTp2MD4zPu2YijUiHzMn3veAMKV0AYBL2aPCUzD064vrj6QOiv0b9WJuTH0q21oQhCndkh6N2TMw7EvkkgPPdzeVz+rD6Uv6uPHQhjVLq7XdjRTQnTzl9NEAb1gWYfnYxAqHMK41OVj4FQJ8iObko+Ng0YiIsbny0IgwPB6UUd31He1xdBKrWKC9QzATFLaPOBmEkEni/0F9x1x7YtMjhabcgQIhWI68KCMLgF6QWtM9S3c7sEXR0S9HRIabjUCPpwp30Q2gEiipnUOxLPDx0ckgPVkgPt6tzq2j7PXc0WhABAg+yCJqh3T68L1IuDRXf9unA9Av3+eD/CpAZpFLevBWnM4b1llx3UucPQ99v7G16QHT2hhIsQgzUD+Rb06HCYGX0Goe/3xZtrBYVnEDL0P5Be0HiuNlB0YUHor0H6ULSjmxJueR8I4QOhnRhmFt+hs5MpiCgEBliavegGQJ1bnBkCDs/Z6coMpLOEqwahH/ofGgkiTBJo+eWlCIRTmpiWQNg5PhBfmABxaohBhpJAwK+8vhzLUIvZQamD7DpCOwZAn5FywWG4vZNAnK5Pb69kByIK7bi/O+iRWrW+gLnlgdGZ1CCc0hpElB3dU0KQb9pwr1rqcoE67usTOgmEKf4yfy0C4QxKcQ7FQUShHVkZKHa6Ore8xvhAyE7bIOweDULb2P5+qQZhZjAABtOvDA3iWuN0ZQYiCm18HXAKMKB+ZRBDEL6DIGx5DcIZlPocstPGdoJQbwbS6ycTkJ02rBcNwj3fgkbwtcHpahOEUv+r0izs+mFYEA5FDWKkAOVyPNabhQXq0OsnE1CrxSJbwTLqfTeoWKQv7DObuvwD6VSL/2OsNPsAAAAASUVORK5CYII=",
     "wiki_name": "3rd age druidic staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_druidic_staff",
     "equipment": null,

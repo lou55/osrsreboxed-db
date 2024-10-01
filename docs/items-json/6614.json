@@ -1,7 +1,7 @@
 {
     "id": 6614,
     "name": "White warhammer",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": true,
     "examine": "I don't think it's intended for joinery.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xu3V72uSURQH8In4dwS9CKIXoyBGUBREUL0o+z0zK105Zq6y/RCxzDnTzCEtW6PFBouxxqhFEBVFUX/Zie+9HD3P9ep89Cl60YWD+jxH78dz7r3PwMC/P3xkD9v9Pz58VM2eo0rmjIpSOkjFydMqGLE2H6XV2jVambtqQZl/om+4BjEKIA4Ts/zkCi2WLjsmxmfcM8OJcoX0Ue3B+RYUXgHhYNBCcZjm8xdVLl5tIORL9PfNLH1dn+gNxSC85+owaOlxWIE4tx0I3/u2kaGfWzP0a2tWgVxh8KP8rxmESW0g/tfIrRcuWUHr9ZgDhPddgnyONgDBixufTRDyl6pVqpdKjpaYoM0XN70DcZVwzQZarFQUqDaTp3I2S6f2+1tQ717GGyCEKxCvCxOEVrQDPXtUpLmHOQUqTE/R/bt3HNV6/2rUCXoz3T8I1wFiFCqJ/IVymZ7OFhSolMlQfnJCgaYSCUqNxlXOh+Uxb0EIACSIFzQqwhUCiCuUTiYVDjmfVpMN0I+3uW4xGE6QRKH0NhDaFI9EFIRblruXolvR66pyyPn8+navIAzde2zhTiA+GpB7Yq+f9u30041wmIrptGoVryPkfllL9QrSZxAqtB0IOcg/OxSgg7v9FAuFaDgYVK1CxXCPvyNBLg5FveVtIEQ70LFBPw3u0FsdqPGRWAODPE9BjEJgApy4mIC3fOiQrg7eA60nap5BnoJklfAqQbzlZXUAwnfkgQjQxvORBgindJcYDL3DbCB+PjEIuWPHAzS0q4mxgZCLx4asUE8gcx3hugm6cCDgqI4J4nbhseEZiFG4jgkk6MgejcEOBEZWUoJwSkuQC5QG2domQciLHm1WpxMI+R9XEg0QziAX55ATJNvGIOSMnww0nuiMsYFQnb5B2D3tQIyJHG4uZhPEa43b5RnIbBtvc7QKJzNjZLsYhFwGYctLEM4g1+eQrW08if4hn5q8HUiuH09AtrYxCJPgHhA2EPLk+ukThKErsF1IjAwThENRgjhcgLodrUgOuX7+IqjTaEW2xv/R3/gNmKRRjws0xCEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs3WbWsTQRAH8ISQz2HxhSC+qApSBEVBBPWFxufGGDWppjSmauxDCNGYpjExpgRrrMVKC5VSS9GKICqKop9s5L/H3M1tNzHXnNKF4dLLHPvLzO5eA4HtP4JkDtP3/3wEqVE4T/X8WRXVXIQq42dUMGJlNkHLzeu0NHPNgNJ/RM9wC8QogDh0zOLTqzRfveKaGH/jOz3cKE/IIDUfXtiEwhUQDgbNVQZptnRJ5eJqAiFfon+sF+jb6tjWUAzCZ64OgxaexBSIc9uB8Nz3tTz92pii3xvTCoQ59vb1qdBn14ZVdv7VDMKkJhD/auS2ypeNoNVW0gXCZwbps2sj6GoDELy48bcOQv5Co0GtatXVEh20/vKWfyCuEu6ZQPP1ugI1p0pUKxTo9IHQJtT7VykbhPAE4nWhg9CKdqDnjys086ioQOXJCXpw766rWh9eD7tBbyd7B+E+QIxCJZE/V6vRs+myAlXzeSqNjynQRDpN2eGUyvm4OOIvCAGABPGCRkW4QgBxhXKZjMIh5/Nyxgb9fFe0MZ5BEoXSm0BoUyoeVxBuWfF+lm4nbqjKIefLmztGkD57m2H1Hlu4E4iPBuSe3Bei/TtDdDMWo0oup1rF6wi5X1eyWwVZZxAq9DcQcpB/biBMh3aHKBmN0mAkolqFiuE7fkaC5KGoz64Na8ubQIh2oOP9IerfYW11oEaHkjYGeb6CGIXABDhxMQFv+ehhqzr4DDSujPEdJKuEqwTxlpfVAQjPyAMRoLUXQzYIpzRjugJh55hA/H5iEHJHToRpYJeDMYGQi9eGrFCX1cFwQPo6wn0ddPFg2FUdHcTtwmvDNxCjcB8TSNDRPRYGOxAYWUkJwiktQYzSZzcMC2RqmwQhL3HMqU4nEPI/LaVtEM4gD+eQGyTbxiDkjJ4K2290xphAqE7PIOyediDGxI84i1kH8VrjdvkG0tvG2xytwsnMGNkuBiGXQdjyEoQzyPM5ZGobT4IcBCZvB5LrxxeQqW0MwiT4DggTCHly/fQIwnD+L+4UEiNDB+FQlCAOD6BAgI/1TqEDZcj14wuo26Eju8FyOLn/aehIU+jPbOvxB+KonBvn6eF9AAAAAElFTkSuQmCC",
     "wiki_name": "White warhammer",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_warhammer",
     "equipment": null,

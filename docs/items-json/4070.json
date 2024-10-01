@@ -1,7 +1,7 @@
 {
     "id": 4070,
     "name": "Decorative armour",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-13",
     "duplicate": false,
     "examine": "Very decorative armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1UlEQVR4Xu3WMWsCMRQH8AshhByHRereqYuL4NLFwcXBxUFwcHBwcHBwEBwcHDoIDg4FoUMHoUOhH/P1/ZMLXq+u5pXSBw/uBeR+vORezLK/EYqup0goamWZz0YthVCKjFuRsXPOCWkz5OyR1h0JkCLrtpwbxiw4p4wZcfYZ1GVMIzXqArJu/aNLmW6nBDEm3zNkV6LW5dbNKqi+BGgbIG4ZOuRRvH1mXG5dsrOkaH9naduwtCoMzTmnuaEN13geO0M9q1NhEIqeayAg1iVo5LQsaMbdGTICoPj8JAHCFgE0YUTfBhC2DqCuEQItiktHImhgBUEA4LwAEGt0qyMBwnbhMOPlbZN5EM4QQKgTghDKzx5tBjyVH+lBZ/6QYziGtcST2hUnP6nDUMR07pWDEjXutWHaweiKc0DlBw/DZYo1mx8DlKd1IkwMRcdmOEcYhDhHny1HB15bll9eQpCiD355HYQ1MdA7v/yl6b59aVgDKM6mpKDzfQBhGEYQ1qqghMNR0VsFhKsjIvEvQKRDJ8Yg43URkWIgdAegeF1g7VUOhAhditdFrAHCfyIREDqC6wKACMIdF+v6L24cAbSrALCNvwKEM4Mag1IQhMBLY16r/+O28QXsC4mBM4EEwQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/0lEQVR4Xt2XoWtDMRDGE0IIeZSOsvrNzMxs1MxU1EzUVBQqJiYmKiYmChMVExOFiopBYWKiMDHYn3m7L3m312a1L4EdHPQCIT++u37XKvU/QtPxLBKa+kqF7CZZCEqT9U9k3QPnjIwdcw7JmKsAdH1+nhNKk/NLzmeGmXPeMcyEc8RAAwbp5lapAXJ+8UclZS5zqsQw1YpBXmqoRd26+z2oUQmgZQTxj1GhAMXts9O6dXGW0tsthKbViaNl19FTx9ID511l6ZlrfJ56S0NnfhXKoJKm1wQIEIsaaOLNAVB6u4U4BLpndcYMASD5fFMCCC0C0IwhRi4CoXUAGthCQPNOo4gA3bqCQADAvABAaqh1VQII7cIw4/FLqwIQZghAqDMCIXTwHmNv2ZUv6MyoMOQwx3iW2al9ZxucOpoi3HlYGyVq7LVxXmP0nV2EqtYBDMsUZ67aRFB2a1Eom0qbXpwjGCHm6Lvvac1nj/U3L2vLvvjxFAhnxYA++fG3nj/4puEMQOJNWYF2pxEIZihAONsHEnNMb7cQmj72gLA6BBK/AlKFMqikacswSFkXAnkMKL3dQuigDoBkXeDsvRwQIqok60JqAOE3UREgKIJ1AQABwo6TOtP8SESglz0AtDEFSm+1GA0QZgY1jLIgEKL5Lx8fP6wLACklD8vjaf2v4gffQbuuMf90cgAAAABJRU5ErkJggg==",
     "wiki_name": "Decorative armour (red platelegs)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Decorative_armour_(red_platelegs)",
     "equipment": {

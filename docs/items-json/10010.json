@@ -1,7 +1,7 @@
 {
     "id": 10010,
     "name": "Butterfly net",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "For catching butterflies...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfUlEQVR4Xu2V+0rDMBTGl5cRVFAUdYpjTrbRS9IyvDGGigiCCCIIPkCf/LjvhPQSOv9q0oD74KOlt/M7lyaDwVb/T4L+tjfpgC/5eenXxWXDbzcjX1Aa5Gs1bfj7cdbwz/Oc3u/GrqEEZ49AgFpGJyTTlNIkoSSO2XEUsXH/czmhj4crVy3UMPCTHNIqOSMpJQPZUAYMzwAeUHivQyhBi8khfxSZA0itYWADBSDbBs5Uq1Og2+lROcBKqdIMZLtWNbjj6kAaCJXJ87yEybKs1fXK4ejgjxN0Pz9mIDv4JjP0GgbnDioECc4ULbODbzKGGkngHQdAkIZCxnbwus2sAcbRL1+XhkILcWwzKlMUBdsxDFRtGSZomz1UBhLcBtMKG8IjCCTKITVBewKBBO9bFUx13TMIVK1BngO3Sa/QaFUQMNhQg4FR4wOGQYV6BhKUjvZ5iIOAiS72eIiDgJkNdxkEQL3DXJ/u8BAHAAPpIQ4EBtKLXyAwRkHBbNWqX2elxgYgFa/gAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmklEQVR4Xu2V6UrDQBSFO2/SX4IKbqhVLLXSluyhuFGKigiCCCIIPkCe/Npzh5tlSPvHZDKgBw4JJJn73SUzvd6//p4UbbY16YDP6Vnul/lFxa/XQ1tQGuRzOan462Fa8ffTjN5uR21DKc4egQC18I4pCkMKg4AC32f7nsfG84/FmN7vL9tqoYaBH6MBLYNTiqKIgUwoAcM7gAcUvmsQStF8vM+LInMAxSsYWKAAZFrgpFpY56DfbwJK0c3kMB/gOI5zM5DpUtVgqQ5gGgVCZdI0zWGSJKl1uXK4yh/XEAyk6G52xEBm8HVm6BUM7ssVMlf+hRRnipaZwdcZQ40k8E0LQJCGQsZm8LJl1gAjv3yD82NKQ6GFuNYZlcmyjN0yDFQcGRK0zhYqAylug7TChKgDaRVGhlSCdgQCKT63BKYIKGeUNRCo2IPqZsIiCKR3aLSqDsay9IHqDEw82mMYVEiAzLcsSVE43OUhLsN0BKTIO9/hIXYCZjrYZhAAdQ5zdbLFQ+wADKSH2BEYSG9+jsCInILRcgrGBf0AtmkK5XKj/MsAAAAASUVORK5CYII=",
     "wiki_name": "Butterfly net",
     "wiki_url": "https://oldschool.runescape.wiki/w/Butterfly_net",
     "equipment": {

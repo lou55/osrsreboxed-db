@@ -1,7 +1,7 @@
 {
     "id": 16017,
     "name": "Adamant shield (h1)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "A shield with a heraldic design",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0ElEQVR4Xu3VzUsCQRgG8F1kWFZECCKoDguKhRp+odghqCDoHnTo0KGDBw8eBA8ePHToLwg6dOhvnXx39t15Z51R90uhfOC5yo9nZkfLOuRvx+aye4/Na6cWb5xbvO0V9g0TmPoL441XFqJ6FQrbKU4FXb0x3hqxEHVTL/C75s5WE5jLZ7YC6owZ705YiFqFZY6zuXdiadcBjFP8CFeCDi9Ec8SZ13GK7yroocf7jwO/CMsYJ9ehIMedL7tYC6LV4aAxUTY/O7J8kIqZKSD82jr3HSMoilPX2joChOswd7JETFdAuA6C1qHoQrExx2WxTu0JMOPUoBQYiFyHOSMjCI+rddvOEyTWwfsDKOwmkOkepcBAVFAURYvHFQXpPv/EFznEND2/lVbFb7VbDQvL4Dr0UdwEiomBBJc5gqEgxED7U8cvRdH3KDWm7AbHtAUIMdDBzFFBmr+RRCDTcSFItw5goMO5iqKvcwIMRCxkQunWQQyCKAoxCS4yjXkl+KpMIMRcL2RTrkOjohBkwlCQW/rxiwtlgMHIP9ZN67ilr2W/gwpMLqDoa00xbukzKGD0oAwxGLkSvsrbNEcQRP7JYvHoohAKygmDgR+P20P+WX4B04LEbUJuJFIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6ElEQVR4Xu3WP2vCQBgG8AQ5QkSEQim0HRTFFrVoFEWHQlsodC906NChg4ODg+Dg4NChn6DQoUM/69U355t7c7nTmESF4gPPGn88lz9a1jH/OzaXPXhsXju3eOPS4u1S7tAwgam/Mt54YwGqW6GwveLCoJt3xlsjFqBu6zl+39zbagJz/cIiIG/MeGfCAlQUljnO5qUzS7sOYJz8Z7ASdHAlukOceR0n/xEGPXZ576nvF2EZ4+Q6FOS482UXa0G0Ohx0S5TNL04sHxTGzEIgfNq8B88IUnF0La9cjosSIFyHuZMlYhoB4ToIWoeiCyEmJsjmp0WxTu0ZMOPUoBQYiFyHOSMjCI+rdddOBFJ/1RCxDt4/gMJuApnuIx0mMUhF0eJxqSDd45/4Rg4wzZLfSqvit9qpBoVlcB36UtwESryOiqEgxEB7U8cvRdH3UWpM0V0dUwwQYqD9mRMGaT4jWx4VxHxcCNKtAxjoYB5G0bdzgnUgYiETSrcOYhBEUYhJcCPTmFeCp8oEQsxwIZtyHZowCkEmDAW5hV+/uFAGGIz8sG5axy18L/uzqsCoIPXqCRJ9W1OMW/haFTB6UIbrYORK+FaOUxWkXjVl5EcWi0enQihoB+vQ0L+c8bpDjAj+wDZVr3FMlvkD5M4Ask3rEZwAAAAASUVORK5CYII=",
     "wiki_name": "Adamant shield (h1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_shield_(h1)",
     "equipment": null,

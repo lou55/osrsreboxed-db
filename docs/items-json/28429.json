@@ -1,7 +1,7 @@
 {
     "id": 28429,
     "name": "Warning letter",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A letter written long ago.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/UlEQVR4Xu2Wy0tCQRjFm1W4alHQSlpECyOkopdQiGRpFvayMCQqKyqDkCKiB7QQhBZF0KpVf+oXZy7n3nE0iJw0yAMHr4PM97vfY5yuro7+h5R4/hNSMjs9In29PX8BSsnRbkZy2TkJhbq125wtJfv5lKymYzpLY9FBiQyFZSDcb4C1DE7J+eFanQu5eVlKTklsctgHbBGYkrODrPbJ3nKNzfXttbgk5kY14C9mzesd05ORbm17HVB8LhbSurwAdAym9OY0YWj0lW38jlD4vru9oN0kVJBybkgTptEa+orGOgGbhjE3hs2s5DcSvht9t9dWFmeaAQpguCGalbZLhnOJbrQW9NCP5ZXIhjKDrWdmfZtwaGLz2QEM5B2A7A0bjJkiGAKjJCYYziZHMJAH9F0os1SESSUmXMFAwZgTDIFsMBuKJWTGHAAFY84zxITiaH+VLbu/mgRS/sYIgoD2GWNDmGViZhxmB1LycFnQxz/fEm9sj7tdHkLA6B/YGdDH27W8P5fl6fFYyiebOjsMiE97zAmAJoaT8XFXMJTXQwR7rZbk5iKvs4bMIDiCEoAQMMbc4ajbqger3hd11nhJA0w8FvWNS9svwZgKJo9gKOddeUffgfg/VXsHapnqwSq3+3JV2tLHg4NR/6mCrMEvlVOdrTbBNBLhOuqo/foEUwmF4SvK3XEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHElEQVR4Xu2WSUsDQRCF7ZPk5EHBU1AQD4qIiltACcF9IcaVSBB33ECCIuICHgTBgyJ48uRPLXk9vJlOJWJ0JjGgDx4mjXR986q6M3V1//obMuK5JmRkZKhLmhobagHKyN7GrKykRyUWq7f+5bSMbGWnZGE6YVPq7W6Tjva4tMSbHbCqwRk52c0UObcyJjPjg5IY6PQBqwRm5Gg7bX2wOVdgd30tk5TUaI8FrGBq3uy4Huiot9brgOLnndy0bS8AIwYzdnOaMDTmShv/Ryh831ibsA4JFUTODWnClFrDXNFYJyD26WlttdaVypAp2Bh2U8kupXyX+q7X5ieHfSBdqQwFMNwQw0rrluFeokutcYZCpYOoNZRbbHF2xLcLhyF2P0cAA3kXIGdDgzEpgqEwWuKC4W6KCAbygMqFcltFmKlUf1QwUHDMCYZCGkxDsYVMLMQQU8Ex5x3iQvFof5aWnq+QQMbfGEVQUN8xGsJtE5PR6YQAgozcnuXs9c+nxBPr467bQwgY8wOHTIcy8v56IW9PeXm825f8wbJNhwXxVx9zAmCI4fFkX1TpUN4MEezl4VguT7M2NSSD4ihKAELAOObuUdc7/1jeZsVgDzc7NjW+pAEmmej2jZe2iNMplAsGEwztvM6v23cg/k6570AVgXEVPHEx2P3Vlpwfr9rrIYKj/n3p1ODn+0ObVkXb9ZVY2AX8NZhSqimYf1VTH0qtuuwdfmttAAAAAElFTkSuQmCC",
     "wiki_name": "Warning letter",
     "wiki_url": "https://oldschool.runescape.wiki/w/Warning_letter",
     "equipment": null,

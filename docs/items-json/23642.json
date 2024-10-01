@@ -1,7 +1,7 @@
 {
     "id": 23642,
     "name": "Blessed spirit shield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-11",
     "duplicate": false,
     "examine": "An ethereal shield that has been blessed with holy powers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4Xs2XbU8aURCFvf+lH/pmVVCXN3kVWHaLIAEM1lBCJTS2hpq01BQt/dr+6emeuRlYwDZVL7s9yYTswsKzZ+bcu2xsBCpFb7tFwuvyO/cQLvbXQ6Xo/F3lsUCKPn6o0ZfPbZpMuvRjOnwgmKKLiyMGuv+1C1L05jRPg4FDo9Ex1/X1KU2ngyXX/l5XV00GeiQMpKh4GKFPowa1W2muXq/Mro3HJzT9fk43Nz2afOsy6NdxZ6Vub/t06H2HARjR4t0CsFZL0Ek7y3C2vUeus09H1TjlcluUz+8wQLG4671nkV22qFDYMQm0LA3mujGGw48nky8WYEqlPSqX9/kVYDhvAEhcuUuKHQKQZT2lVOrlgjO6onwMdwwA6XT9+jm+44sUtwztyue2KR5/TgepTR9MdFY4Z2h+FJ2dFTjqGEr/DKG63loid199HaNWK8MwaJO0SgqtNAaEuCOul5d1ji6WAMD0+/ZsfuAW3MDw8hBL4dgrAzCQ4jUHyXFdiyoV3PnuDALOcIu8ajRSDAQ3HCfhfTbOZdsxymaNuANphwCEliDWiLdAlUpRdgbvCZC45DhJLgBi4A0AKU5Ns5nmVqFl74dVGg5dhgIMAOv1hAacDbGeIUC57oGJZIkUpdObHGvsPZiZTifHx3AN84M2HteT7JBO1zxREvOcl0BjQNnMFjsEAH+6HMfiVsmwo12yEMoCmEm/YocNwYj8MV89D9BY7BkDAAZtAhgijjVp9bq1Cs81DidI2qNhtrnVAcNAeh+DG+IK4NAq7GkBAymeLbQFABhmadMa5uZfpPiZCK0BBNokQ4w9LWAg5UU9xQAogfpzANYuvZ3IvIQ0wCL99+W/gcHc+FsVKgy2DWwhAJEKAWi+IuPJEMO7OMCBSf8g1ho4Axjs9JHIk6BBIL0CI9qYmeWNdfnTa9Z8J4c7IUH4NXcnZBC/QneF9RvVanR6OIwWfgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4XsWXW08aURSFPf/Ehz70ZkVQucpVYJgpcglgsIYSqqGxNdSkpaZo6Wv7p3dn7ZM9DIMlFoZxJTuEGWb4Zu21z4GtrUCl6H2vSHj1nvkP4WJ3rSpFFx8qDlBoe3uVeyn6/KlG3752aDLp0a/pcEUwRVdXJwwkMCsDvTvL0+WlSaNRg+v29oym00uPa8vr5qbFQGvCQIqKx2H6MmpSp53m6vfL7Np4fErTnxd0d9enyY8eg34fdxfq/n5Ax/Y9fIARzT8tAGu1BJ12sgxnGAdkmYd0Uo1TLrdL+fweAxSL+/a5KBnlKBUKew6Q9+4rSZ5M31CDWVaM4fDlyeSrOZhS6YDK5UN+BRiO+wC0LLyKHQJQNPqcUqnXc87oivB7uOMDkJ6uP7/HD0Apbhnalc+FKB5/SUepHRdMxCkc8yk/is7PCzzqCKU7Q6ievZbI01ffxqjdzjAM2iStkkIr13QH0kAYd4zr9XWdRxdLAGAGA8PJD9yCGwgvh1gK7+3ywR1I8ZqDybGsKFUqePJ9BwLOcIvsajZTDAQ3TDNhfzbOZRgxymZ9cQfSDgEILcFYY7wFqlSKsDM4J0DikmkmuQCIwPsApHhqWq00twot+zis0nBoMRRgAFivJzSgE2KdIUBZ1tHcZK0NlE7v8Fhj70Fmut0cv4dryA/a2Kgn2SE9XbOJkjHP2RPogzuQomxmlx0CgHu6TDPKrZKwo12yEMoCmEm/YYd9ckc0g5Cb6hvrYwCNxV4wAGDQJoBhxLEm+QyjNQ/iFn7XmDxB0h4NE+JWbwRmufQ+BjfEFcChVdjTfMrNY6U4W2gLABBmadMGcvMYKf5NhNYAAm2SEGNPC9ydRj3FACiBemgAvFduSHo7kbx4Axw4DP4t/AvG++kNS+fG3aonhcG2gS0EIFIBhxearcj4ZYjwugMcoDv6C7HWwBnAYKcPh58tBNh75QakV2CMNjLj3VgDBIFmOznc8UIEDAPN3PGCeD8ZoJ6kNQv6CxfT0xgPHsMUAAAAAElFTkSuQmCC",
     "wiki_name": "Blessed spirit shield (Last Man Standing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blessed_spirit_shield_(Last_Man_Standing)",
     "equipment": {

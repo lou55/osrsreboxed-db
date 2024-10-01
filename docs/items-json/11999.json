@@ -1,7 +1,7 @@
 {
     "id": 11999,
     "name": "Smoke battlestaff",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-04-10",
     "duplicate": true,
     "examine": "It gives a 10% accuracy and damage bonus for spells on the standard spellbook.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu3VXUtUQRzHcffSNyGYRAgh2IUKZgQGLl1oz0VFUVFsGUEWLSItPYj0hCD2QIGCIbZICcFSURR105voYi+kV9ALmPjO4XeYMzu6e3ZP0UUDf2Z3dmbnc2b+M6et7d8vOROO0O9/vOTMw6mD5v7kfhszxX1m+vqYDSGW586YpdnTZvHRqQDKf4iW4RFIKEAKH7Pw4KR5NnM8MTHf+c2PJCoVMmdmbx6qQVEDUQj0ZPqYmbt1xPaldoHC0N9Ff16dMh9XrjWHEojPWh2BXtw7YUHqC4ix27q6bAjFuE/lSfN17bb5tnbXglJheEo9tUBMGgLN3zkagxi7o6fHHB4dNfl83hQKBdu2Mn82AeJzg6BcYhuYSMnNdx8EHJC2l/G7BgZsXa1WTaVSibcpM5BWibYQSCsp0IH2dluvr6+bsZER+7m/t9fWgIhUIOWFD2JyH+QmNGN/FovmV6lktnZ2mp19fbZt9+BgYoUs6NWN1kG0AxJKK0kfxn0fH4+3Z++eYbOlo8Pm0/DQUPYgAoALCiU032kXTPFu6XIM+vK61CiGkgS5KB1fHyQw/QRyL0T6vn95pVkQJXoq/nwzkBKavi6IlfRBH5avNguK7iBWqB6IPvQnganpR5sPor8LSnEpRkc+BCJckJsfOtIhEPBMQUIRTMCNq1Xh1bC9uzuxZYzztyszkLtK1ExAH72jFMJsBCo/PheDuKUbxFCiExYC6Q2ufAHu3tAbgVid1afnEyvUFMjdNq0EFx01k9CvHkjb9eb5hexAtJX7++N3EjnEJPyu0yeQVtIHvV24mAClQEUgd9to4+rXSUoLon9l8VIM4g5KcQ8lQcqbHxMTttYEuoP87fJBwFsGkayhbaNNICbzXxkC6bWh7coM5J822l2Qn9C6qxinvoA48i6IOyj1PeRvmw8KHXkX5OZPJqDQtrkgfgslNKHXhrarRRAlunPqhZ8/Ch/EpeiCFClAjZZapMLNn78I2qzUImvjf2mt/AZKaUuTE0brkwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4Xs2WbUtUURDHd1/6JUSTCCEke+EKZgQKLr3QnouKoqLYMoIsWkRaehDpCUHsgQIFQ2yREoKloijsTV+iF/ti6RP0ASb+5/K/zpnO6l73Fg4M595z5uz87sycOZvJbH3JSlhD6/9csvJ44rA8HD/odKp4QCZvjjglxOLMOVmYPivzT84EoOxHNA0eAREKQFQLM/fotLyYOuk5xjvWrPpQiSCzMn37yF9QGAFCJdCzyRMyc+eYs8WoAQkDew39dXlCPi/d2BwUgfDM6BDo1YNTDoi2AMLeHR0dTgmFfV/K47K6cle+r9x3QFjb1dbm1Ho3EoWdX00gOA0Bzd47HgNh7+6uLjk6PCz5fF4KhYKbW5o97wHhmUDWu5GslwY4YnHj3QIBHEBML/bv7e11Y7ValUqlEqcpNSBGCXMhIEaSQIdaWtxYq9VkZGjIPee6u90IIGgiINaFBYJzC6QLGnt/FYvyu1SS7e3tsqenx83t6+vzIuSA3txqHgjzACIUIwkb7PsxOhqnZ//ggGxrbXX1NNDfnz4QFAAaKFTQeMc8wagfFq7GQN/elmKYxEAaisfXAhEYdgTSDRG2H19fCwJZ73Uk+ir8+HpALGjYaiBE0gJ9Wry+WaCoByFCGwHBBvYoYIyww5wFgr0G0k3RejcSHfkQEFQD6frgkQ4BATxVIEJB4QAdl1HB1bCzs9NLGfbZdKUGpKOEEQ5gwzuKSph6QOWnF2IgdGnCNASEExIC4g3OegG47tD1gBCd5ecXvQg1GB3IGpBOGyOBRocRTmC3ERDT9e7lpfSAMFfO5eI7CTUEJ1jn6SMQI2mB3s9d9oAIZb0HJALSacMcWj9PUlIg2Ffmr8RA6EEJ+pAPxLr5OTbmRjpgD7LpskAAbxoIxRpKG+YIBGf2yiAQrw2mKzUge9owr4FsQbNXYR9tAYQjr4HQgxL3IZs2CxQ68hpI108qQKG0aSCshQoaymuD6WoSCOL/j6mntn6oFghNUQNREwBlMmzr66kF1KrrJxWgRsVCNgJLXbP9T2IhQ2r3bGn5A5Rtlh9+wFIgAAAAAElFTkSuQmCC",
     "wiki_name": "Smoke battlestaff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Smoke_battlestaff",
     "equipment": null,

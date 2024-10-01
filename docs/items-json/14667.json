@@ -1,7 +1,7 @@
 {
     "id": 14667,
     "name": "Poison dagger(p++)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "The blade is covered with poison.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXElEQVR4Xu3VQStFQRQH8Huabrd7k41SUvQSC4qy8RaSBeVtfAbqvZX0smIlSVeSyMtCIr0slJedIspC+Q7KQr7IXzPHdefdZ2vOLPzrdGtmMb/OzJ0Jgj8PoTgiFA0hxKdd5lucdZgckpUgqB0iDCI00tSUV6B6rWpKGNSOsWumXPYH9I/h/A7yCuNVd7zCCG6VTifIMcZerBPjeKsIhwfx94JcRZBDjA5hYz0yqPMzhglidAjLSyG2NiMcHzHq5jqRwugQ5ucUatUQO9uMuryIcdtKcH+XWFvpNITKgsLqSojdNMJJI0c9PiR4fXH+qhNG+wJMlRTW6tEP6qrJqPc3pyDCYE+AyQGF2RFlFtaHfH+PUQJbxt2ZHmJMNiYA0SEM93J3FsdtkFgIE/0KlTFPMLo72bkpzgqEzF/0+dHtA4gxz0/ZxScaMs+EfiLym1g8ZN0x3sQrjEy+AL2LW6DllB4qAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABd0lEQVR4Xu3WQSsFURQH8DlN0zSTbJSS4kksKGTjLSQLytv4DNR7K+llxUqSRpLIy0IiyUKRnSLKQvkOykK+yF/3nu6bOzO2zp2Ff51e897i/jr3vHvH8/48hPw3jqIghOi0Q3/mfxVMCjGlnicqFReoLMQxiNBKEl2lAjUbdV2OQVmMXTPVanlANkYQVCqMyu+gUmEczY1KEfS/VWmKIGGMfUEWMcJzQzg8iPSCpvIg8e5srIcadX7GMIcYFcLyUoCtzRDHR4y6vYldYVQI83M+GvUAO9uMuryIcH8X4/EhtrZSNITago/VlQC7SYiTVop6forx/ib+ZkgY6fEwNeBjrRm2UddXjPr8EH3NIPR3eZjs8zE77OuF1ZDv7zHKbJngLHF3pgcZw4umR4CBiGGGurk7i2M2yPOEISaE8V4ftdEUIwyww90xc+MYo0L6X/T91ZnZKkdhzOsLH3yOu0P6mlBXhDmJHWJMqH3GOO6OnVJhONKYH4t/od9X43IFAAAAAElFTkSuQmCC",
     "wiki_name": "Poisoned dagger (unobtainable item) (Poison++)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Poisoned_dagger_(unobtainable_item)#Poison++",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 28427,
     "name": "Strange slider",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A small device with a slider in it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB8klEQVR4Xu2US0tCURSFu4OIRJQwEpUEkwoLpART6WWUlRj0LqkoMiRJ6IFJERLRQJHoRYNqEBFE1KifuGNtOXqrOzwawV2wBnI5nm+vs/euq9OlS5eufyGFtF1zlS5OjdvZB7OesoPuxlrDKZQcs9Nm2MZeDbvoLpemp3yG3q9zZbBIt6EWcApDxAMmWus3laHWh6yaYLvTnTTrM1YTTqGVASt70W9kMGFAaYEBCk7HOvjclM9Cgx6zLCiFlkMtfHEi0sZGAmo4fMPFarC3yxNaCDRTtMdCEW8ThTpM8oBm/M38TMkJN92f7dHnQ569MdrGYGqLNAGDc0gHQH1uozwg/CmaOhVt5+oFEHx1nOJkfoLBgMJZpNTrkgiESjHq6IvXi2MKel1sNRh+F7NJflIkhDNdDgNtL8doOuAgr9MgDwiVpicddDjfRR+3p9wfL8Ujei5kv0HdnOzws6KnkMpSdJiOknGaC7UynDQg9AAqRuV4Ooy3AENiAujxfJ+s5nrut5FuMyUWJqmQ2aLFASe128QKkKLSHsElqByJIQWkBjgBhsTEqKOJAYchQI+5WhpkAglVlpxWamIxAhhA+YME7x/0j8NSFSC1SmC48GdqmCzsHUxWpXeqCqNWJTU86e+9UzMQLVXg/hhEly5duqToC9ZGqT3MKyUYAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4Xu2U3yuDYRTH915I1trSZLEs20KjFoptmV8xLGp+EyLTsqywEEmSiy3Jr1zgQlISV/7Eo+9Zzzze3juPSb3f+l6s9bzP53yfc47FYsqUKVP/QhoZu+QqXJweqmVnJwJFh/0VpYbTKDVYS6t9NezFPi/dHmXoMbdDb1dHRbBYi7UUcBpDzIfstNRlL0It97gMwTYTTTTRbvtNOI0Woi72TIeNwYQBZQQGKDgz2sjnxtqd1B1wqILSaC5SzRcnYz42EpDh8B8ulsFeLw5pOlRF8VYnxYKVFGm0M1Brff1PoTQa76jiZ0oN++nuZIs+7nPslQEfg8kWaQIG55AOgDr9NnVA+CiaOh1v4OoFEHx5kOZk9GAwoHAWKbV5FQKhUow6+uLl/IDCQS9bBsPvs70UPykSwplmt5XW50YpEXJT0GNVB4RKMyNu2p1qpvebY+6P57N9esrvfYO6PtzgZ0VPIZXZeC/tp+ZpMlLHcMqA0AOoGJXj6TDeAgyJCaCH021yOcq43/pbHJScHqH8zhrNRD3UUFNYAQqAoMIewSWoHIkhBaQGOAGGxMSoo4kBhyFAj3mry1UCWSyFD30tOaPUxGIEMIBy2STvH/SP26kYSAgflOFwoT41TBb2DiZL9I6AUQ4kS58anlS/d2SQX4WRpU/tz0CMJEP8KYgpU6b+oz4B31jOgwOVwLsAAAAASUVORK5CYII=",
     "wiki_name": "Strange slider",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strange_slider",
     "equipment": null,

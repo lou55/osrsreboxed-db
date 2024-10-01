@@ -1,7 +1,7 @@
 {
     "id": 13985,
     "name": "Willow logs",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "Logs cut from a willow tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByElEQVR4Xu2WUUsCQRSF3YeQRPRFCBESExMSJB8ShKQiKgofoqCX/v/vuHEc7nr37My6226tDx44ILrO/ebM3KuNxlFHHZwiSbsWueJnvRMZ9JsyGjRlMjyVq3GrDqgoAbGYtWU+bW1dIRDHHjaKLuftLQi7IiBXBLuFsXMkYFPA7lEQICFXBBTJ891IXh8u5P1lIqtFJzYXVNtn7HMK1O00y0BF8rWZxl7fdL3FfCBsBUKilQIxlLV+zrZAJWCgJNDn22UKiov7jARxz0qmA4WB8hjA9v6gCXYdWUi7NrZAfHQ+WwidPdqd8PK6L7NprwhUFA8yOA+MHh+DqHUtnUfJIZkJFsn96nx7NHagKQy3vs6mUGE7m+ydY/gMKDd3AITim6dxvKDC2J2HQELjIHSsmUDfH7M4DQuE4fh4O0zsnu2DYJjCQLajLJBCAoyL7bPvzuUGQlEFwmtNx15s3zzymUF+BYRUGIg7LQ8QQ1hjTYDkGJTuUlsgpFM0IQawz2nL67+GPUCQg0JSMGJdLwdBIIbi9/VoYFecnUv8pfTEDiVgIXgNrlJC6d80m5J2YhriT5UcCQrzzxAsB6Wp1ATBqi2Now5fP7hm7+1el7izAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB40lEQVR4Xu2WUUsCQRSFnYeQJPRFCBFSExMSRB8ShKQiKgofoqCX/v/vuHHc7nr37My6q0sKeeCA6Dr3mzNzr1YqRx11cHKS9l4UFT9vnki7VZVeuyqDzqlc92v7gHIJiOnoTMbD2soKNOl2d4Xi2MNG0dn4bAXCLgkoKoLdwtg5ErApYPcoCJCQSwJy8nzXk9eHS3l/Gch8Wo/NBdX2GfucAjXq1d80t5KTr+Uw9uKm4S3mA2ErEBLdIaU0EENZ6+dsC6QwpQB9vl2loLi4z0gQ92zHdKAwUB4D2N4fNMG6Iwtp3cYWiI/OZwuhs0e7E55NWjIaNotAuXiQwXlg9PgYRK1r6TyyQ3IDmJP7+cXqaOxAUxhufZ1NocJ2Ntk7x/AZUNHcARCKL5/68YIKY3ceAgmNg9CxZlx0J98fozgNC4Th+HjbSeye7YNgmMJAtqMskEICjIttsu/O5QZCUQXCa03HXmzfPPKZQbYCQioMxJ2WB4ghrLEmQOygDALhUlsgpFM0IQawz2nL67+GjHRUERSSghHrYtYOAjEUv69HA0ftnXRGOlbpL/KxhRKwELyGFmdzda+SX0j/ptmUtBMZggvnLp5PyZGgMJsgeJWSFUFpKnuCYPnT4Kf+VAcD8u/1A4p5LxCHIcl+AAAAAElFTkSuQmCC",
     "wiki_name": "Willow logs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Willow_logs",
     "equipment": null,

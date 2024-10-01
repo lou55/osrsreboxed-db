@@ -1,7 +1,7 @@
 {
     "id": 24142,
     "name": "Rune defender (l)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-08-29",
     "duplicate": false,
     "examine": "A defensive weapon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABjUlEQVR4Xu2WzUvDQBDFu6ciiCAUi5EaWomBNhgrWhQptShFRVAQBBEEwZP//33kzbjNB23Z1CS7gg/mEhbmt/NmZtNo/E0pknBCig7OH6g3uisAVdkFFIMACNE9nRkkUtT0z2gjnBqcXUty2+DyiaH84fWKRAKjY/m5UiRg2UqlE/7AdI4zUTEUJCCwMumrVGXqhUlLQFCtRTBNL6ofKL7/pHDyIhXKwVgBimbvbNt+fMXJD8fPcwtrhoEk6V405slr+YM5CCYyC5aP0qVo+PjFiXd6Me2GIwZLkkliTCSqplcGqmm2ywpJ0dHtBydKdtKym8t3DVVs2xtJ+gaNjJt6/QvDBGkbS5PADG7euPywCH2z2eoYJjI5U0gChJvCqnZwQlvtriFM6VJcGW0VmnjbC2zBQIr601duSm2VVRhUB1ZhAWLMrcKgMhhbbZVFGCixynzEK5PAYMT1W5U/UbNkw67+Q6xNikfcEasgeRizD6Y1ybvjjFV6xB2AgcQqZ2Aq+EX4rZyC+ddCfQMIFBl8nBwnrgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABq0lEQVR4XtWW3UsCQRTFnScJIggkacP8iG1Bl9QoKUJKCqkICoIggiDoqf///caZ63XHUWNXd53pwDwIV+9vzpk7Y6n0P6WIlxdSdHTxRK3BQwaowjagNAiAsJpn4xSNFJXr57QVjVLUriTebXj1oqHq/ds/GjGMLHzuNRpLatcQ/yiDzTplgk1gar2ZtRw+B5lgiDI5V4YzFgy+U4hLpkwwuLUIphzEUyD7+wVJUffxm6LrN3bIgnECFI8/dWyH3Rvd/Hj4OnVuY3El4qYH8VBPXqXemYJgIk2w+ZW7FPWff3TjvVaX9qOBBhNXpDEmEq7JlQE3091lmaTo5P5LN0rupPmITDCBkqnMMUo+NzjI2GnQvpxpsKiJgEmMy+pWEMN07j60/YgI52a7UksZQa4wEANhp4iqGp7STrWZaddpalJKaWckKhzi3SDMBJOzFLVH7/pQSlROYeAOosIFiDF3CgNnMLYSlUMYKInKHnG7cgNiGIy4vFUOYSC+YeU2dg6DEbejsqs2KH4YzQfTIRC/O95EJSPuAQzEUXkDU8BfhHXlFQzLKxgf9Auk7mhVP1J7BwAAAABJRU5ErkJggg==",
     "wiki_name": "Rune defender (Locked)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_defender#Locked",
     "equipment": {

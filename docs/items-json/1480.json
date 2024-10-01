@@ -1,7 +1,7 @@
 {
     "id": 1480,
     "name": "Rock",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-03-03",
     "duplicate": false,
     "examine": "A chunk of rock.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA6klEQVR4Xu3U0QfCUBTH8U162EyTpdlGJEXFVFSiUlSKHnqI6CF6iOj/f/7lLFfXtuihu5jz5b5/nHvu1TSO4zgul+l4n7+nY9dzMGmVENZMCfYXoI77xsd14eE8dXEcV3AYViLgsmtj1razRr1A8pFx+4GDft3KCpXE3FY+LnMXp0k1mhSB1mEZTc9QjUpi4tORQaOGBdcuqkKlY8R04rtEINqlTmDCMgq/RqVjxHTEdYn9kZebXmFmGJqOuC4ZRNMhEGEU7FE66LENPl6XwCh8aUmUmI78uuIY2h9FICr+E397OI7juHz2BDCC6i/B+7t4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABA0lEQVR4Xu2U0QfCUBSHm/SwTJNNUyNLiopUVEalqBQ99BDRQ/QQ0f//fHKWo+tuo+auyPk4jzs+v/s7y2QYhmGYv0SD1/wcDbY9C/xmAbrVvCD2E0ENbusKXOZlOE0cOIxt2A/tQHDRMWHaMr8t9RQSR5TbDSzo14xvSYVlrssKnGcOHP1SkBQKrbpFaJT1tKXCMnI6otCoboBj5tKSipahdOQuoRB2qe3mwdCzqqWiZSgdei7qj1huvEL8vud5wcibExAvg+nQc4lCmA4KoQz1SJEMEi1037ixz0UydGkK0yHCUpSOeF2yDPZHcToi8p/4vUkhnRe0/NOR9zAMwzAJeADgHgnIzmzvJwAAAABJRU5ErkJggg==",
     "wiki_name": "Rock (elemental)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_(elemental)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 24276,
     "name": "Basilisk knight",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmklEQVR4Xu2V0YraQBSGM3ghiihiWIlixIRYsopbZbt2YUt3oTelUFroRaHQm9KL3rQvsC/Qp57Nd4aTjba4WaLbXnjgkMTJnPnmP/9EzzvGMY7x34Wxm6m/PXk4gNPAs37Ts+26S37j+YmhHAi5Cmt20LoHGnc8m/Sya0+hDg5m7NmwJgnMeuLugUEZIJMTl4MMzm8dHMwIiMJcxQ4IVcgiECoB1G64PABUps5sJiAKcz11cALjbwIVVVJ/bVesEMaul0v74vmZ5GpQk1yPHJwqtg0kKmWt7LTbtlGv7xPK5DCAbSQ+6jsoWoOxixmFoT3xfdtqNvcLtIiiPBXu8vxcWodStEUXBuJZHEtyH/T7+1bJ+We1WMh1Nh7bZRLLMzDXtMt3QO1Gww6zaxQENg1HdpzBBN2u7bZa+zpxJgchWUgyDEQljI1KeKaXLYwKQCTDoYCj0ji7Zwz1KqrkzExhdgsIu2fHr18uZEyBMLQu+vbmQhYGinnJZGJHg0EOXAkIFeZpKkUBoSUs9PnDjXiIcXwFLC378fW9Xc7jHEhTW1cZCBVOp1PZIT6gbQACxhgwtFRPU9qPCl4xf6hUGUhPFD6gGEAA/r79bm9/fZF2sihAqPbp3avCgiY3t564ikCEg+LoUgwAgK4u5tIGxqQlWfIu3ioC6fuMoyDHvzIQLaGoFsMLKMQ9bXiTXmbGXhVa5eapGrQYGA6EKl0Byn2DAEJyLYhiP799LEBsL+D8o3N1MxVhCLdDBeKZ4/t3CA0jijBPgR6eUzqMFFRTltulkffVPySAu+eUDldcgTj6fqfzQHEHzSdBgWjx7jmlYxMImDIK4R/+7xQI8++e86goGreMD4x8EhRGj/39H+w/ie0NlNnIMR4XdxLq/4CfHFyFAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACt0lEQVR4Xu2V0WoaURCGPXghiijiEllFjYoWo5goaWwgpQn0phRKC70oFHpTetGb9gXyAnnq0/1mmHW1qbHZNe2FA8Puevac851//llzuUMc4hD/XTi/nvbbk4cCnIQ5H5RyvlLQ5DeenxhKQchFJ++b5RVQt5rzw3p0rRvU3sGcP23lJYFZ9vQeGJQBcnik2YzggvLewZyAGMzVQIFQhUwCoRJAlaLmHqAidSYTATGY65HCCUywDpRUyfx1dnycFZTzy/ncPz87lVw085LLtsKZYptAolJUymql4ouFQpYquRgGsLXERw2FojQYO5n9TscfBYEvl0pZquT8rN+P0+Auz8+ldChFWWxjIJ4NBpLch41G1iqpfxazmVwn3a6fDwfyDMw15QoUqFIs+lZ07YehH3favhvBhLWar5XLccelVMnFICQbSXZCUQljoxKeqUcbowIQw1ZLwFGpG90zhnopVVIzszCnBYTTc+JXL2YyZkAY2jZ9c3MhGwPFvGGv59vNZgycQiU183Q8lkUBoSRs9On9jXiIcXwFLCX7/uWdn08HMZCllS41ECqcjEZyQnxA2QAEjDFgKKl107jRj71CbqqUGsg6Ch+wGEAA3t1+87c/P0s52RQgVPv49mViQxeb2zouJRChULQuiwEA0NXFVMrAmJQkSt7FW0kge59xFKT9UwNREha1xfACCnFPGV6PLyNjL+IyGYypQYmBoSFMaX33UaHfIICQ3BZEsR9fP8QQBmLJM8rZXDtMsmSPVElPaEA80773Qaw2cKII8wzovjnr++wcThY0U+52Sifvm39IALfP2Tl0cQOi9YNqNV58820NheaTYECUePucnWMdCJiHW1f9w/+dAWH+7XP+KlbGtdwuvZNPgsFY26/+YDOITfP+Gcbi90M8fJA9x+YB/ilMFvELr9lAEsAJHnoAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

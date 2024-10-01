@@ -1,7 +1,7 @@
 {
     "id": 11154,
     "name": "Dream potion",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-05-15",
     "duplicate": false,
     "examine": "Potion of Shared Dreaming. One dream for two!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xu2W60/aUBjG13kFkXERsAVaoLQVikABkQ6ZJEyNl0U3HZuXmM1pzNwli8kSkyVLliz7t5+d81am+GlfWr/4JG/SNGn76/Oe857n0aMHuS4Bd+94KP7x4TJzM9fXnkvA/loRh+sm3m+X0VVkrOayEAN+dKrJO6CuS8DFa2uoelkFlUScqiYm0F8x/sG6DCWg11ToI98OFoaq25Cx3s5ht6dTDcBvHHNFAv39oB3fjxepjjdLBMFhOdQNgOA2ENftlwv4cWJjq6MSCHdpcnzEa6DbEmAoEYIRZ6YQCU5iyjcG/+TYENTwM67JgcklQ1htZQkoGvIhGBgnKA9BuBwYLR0mIHk2CCkWQCzsJ5cC/rE7rXNVDowuh6GmQsgyoPTsNDk0AJqeGodvYhSjI4+9gHKA8mkHJiMGsZgXUVXiKEpR5ONP7geIt2t9PofnpoKOnkJLFVFTEjAJKgw5NO090NnLCtbMDJbnUniqSmhkZrFkJVHMRb10iEsgoM99C6c7ZRxuFGgWtdnMKWSiiEV83gPxRV2xNAI62ijixTVQgq0hvvWHZ5HrchyyGgbmqxqKZhZqPomUHEMsFkQoMOH1LBJoy1frBlp2EY26hlJJgcZ2W1oKo15I0CxygDyBcg7Wr2/rsBnQQkNHuazA0CUo6QjaFQnWXJxcFKN+t6EE/Dxr4+pdC5dHTYoeH/eqOGHZZ3+1gO1ung7ZGnPJUKJuAwn482kZv86X6JTnLg2gvrypUQzZ6WoE1DRFaMkw0vGA+0CXfQaxxyBe1XC6WcHhiol+18CWraJXY4OynERFZQlSj7uds1n+ObLJId4y7sz5bpWiKs/YPKTxKMKDGs9Bdlkip1wF+v2hg6uDFjnEW8ZbdcomNm8XT5ODsGabEszsjNst43Jc4kAXOxa17HithP0ec+iZTi1rFkQYsrOg/d7Mo8F8+d960IPuR38BVsm4IABtzkoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4Xu2X6UsbURTFM3VNjGkWkziTZbLNjMnE7MakMTWQqrgUbbVpXZDWKlK7UISCIBQKpf/26bw7TjTxQ/3y5kPxwCUbM+8358y7c+NwPIq7BAx/Y6PY4oOlp2Zu3tsuAftrORyu6/iwXUBHjmM1lYTodqFdigyBcpeAizflgeomZRTDIaqKGEZvRevDcoYS0K3LtMj3g4WB6tTiWG+lsNtVqSzwW8e4SKCrt+L4cbxIdbyZJwgGy6DYb6VEgl4tIPMzF5kntxa8Pmliq50mEObS5PiI3UAOx+3JBWiyn2DEmSn4PZOYco7BNTl2J6a7F8BVJkwq4sVqI0lAAa8THvc4Qd11xTYYJeYjoPisB1LQjaDPRS65XWP96IaP5CATRo37kI56kTSAYrPT5JAFND01DufEKEZHntgBZQJlYiZMQvRgMSOiJIeQkwLIhJ7eA+Ic2W1c6/MpvNBltNUoGmkRFTkMnaB8iHun7Qc6e1XEmp7A8lwUz9ISaolZLJUjyKUCdjrEJBDQl14ZpzsFHG5kqRe1jJ6TTQQQ9DvtB2I3dbGsENDRRg4vb4DCxj3Etr7Vi2zrQcyhck3DfElBTk8inYkgGg8iGPTA656414s4S6AtX6pqaDRzqFUV5PMyFGO3xSQfqtkw9SJzy3Pf9kzmg/XbuyqaBtBCTUWhIENTJcgxP1pFCeW5ELkoBly8oQT8PGvh6n0Dl0d1Gj0+7ZVwYsw++6tZbHcy9JCtGC5pcqAPxCk6AX8+L+PX+RI95ZlLFtTXtxUaQ3Y6CgHVdRFKxIdYyM0f6LJnQOwZEK8rON0s4nBFR6+jYauZRrdiNMpCBMW0MUGqof6czQ3o+qhJDrHImDPnuyUaVdmMzYY0NoqwQY3NQc2CRE5xBfr9sY2rgwY5xCJjUZ0aHZvFxaZJa1hr6hL05AzvyJhMlxjQxU6ZIjtey2O/azj0XKXI6lkRWty8oV329KPB/2P/Klu6tbXIQ2v4+Ef9l/oLoYXumtxSEAQAAAAASUVORK5CYII=",
     "wiki_name": "Dream potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dream_potion",
     "equipment": null,

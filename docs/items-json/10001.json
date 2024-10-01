@@ -1,7 +1,7 @@
 {
     "id": 10001,
     "name": "Hunter potion(3)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "3 doses of Hunter potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4Xu3W+0sUURQH8N2lf6F+KcwsijLKQFpztS1LNlcwl162RmJhS5Jb6T6a3S16iNgDSexBiYIlJlJGEBZFUX/Zqe+dznDnzt11Z3eMfujCYWfm3pn5zDl37qzP9+83P+lD17/mzU8P8yfovhETMZbtptHUcRGMmJ/sp7mJPpp9dF6DUh+iargJYhRAHCpm5sE5ej4Wt90Y++hTw45yhfTTxM2TDhR+AeFg0NPRHpq8fVqMxa8OhPEy+ttSnr4sjFSGYhC2OTsMejneK0A8thgI531dNOjH8h36uXxPgFxhcFF+agbhpipIfmqMnbp7RgtamLpgA2G7TJDfVgYgeHJjXwZhbLJ/Bw2c3Uq9sS1ivxho6dmAdyDOEo6poNePQyJ6ujZbIJRRBb17cckCIVyBeF6oIDy5DjQ9HqRTnTVW6XSg99MJO+hNpnoQjgOEwLh4vM+KaGeM2o50UHPosOhTQR9mLnsLQqCUMiidzlAyeY0SiUGKHOuiUEsb1e9ucICQzZW5Kxbo+9tb5WLQ7CAZhYsziEuWvWFQoVCgvQ2NRUuGsZ9eJSsFoZkXxgQtBkL/0NBVMowc5XJ5CgZbrXOQSRX0ef56pSBzDUKGVgMhOwjDMOhguN0qlwrCeBnkYlE0L6YDIVTQ8PAIpVJpymSy1BHtpqYDYQcI2fEUxCgEboAVl0HrIlERgUNHKdDcQoE9vzNUt030rQlIzhJ+GSRjygEtPrlogbBKl4lBM98QHYg/BypGBQW27yRfTa2FQnbw2ZAzVBFInUf8KpcE7Ws0QbV1YhyXC58Nz0CMwnEdxgHaVW+WbeMmMR4grNIyyAXKBOnKVhZof5MAyWXDnPs4O2iBsAa5WIfsILlsq4JawyZInkfrN4hzqgLhLSsJao/YQwYpb5onGWKQWjYc5++XDiZAwPzp5wmNV14GYQ1yvQ7pysYgPDG2+cZq8NvIYz0B6comg9An/y3BNq/m/NlAdjwAoTmfWhcyRg4VhEVRBnG4AJXbnEgOef78RVCp5kQ643+rrv0CPEAI1QO4qcsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
     "wiki_name": "Hunter potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hunter_potion#3_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 25163,
     "name": "Decorative boots",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-12-02",
     "duplicate": false,
     "examine": "Very decorative boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xu2UrW8bQRDFb3Vane5kuYpaVFIUElIpJCSgpKAkIFJAgEGAgUFApAMGBgGWDAIiWTLIXzudd7vvbm7tfpyd1lKUkUYGnt397XvvNsve6+2Wk9BHrwByP/LyMC4i1NHAnNQKARD+zhTsR5kbsP8G6OTxQyHzcWgCQamp9qTycqv9rcjlNM92AL4qpJPVSSFLBVrEJpQFui69XCjQ5wgEYPadzrwSnJP1SSnP2hZqFxCs++pzGWdZ+7+11ip5AFwAelIYAME2AqEJZO0CkFXSWgulbnT2u86ee2vvX5eTzcdOIeaI6qBxCOy6jEApOGehEq0FPNSkvempvyknLwoEKKgEy1K7AHSldgEI4JxLgWgZZ6nmQCBUlyMe9isg2ksgzKXWImuw68twdWy55iBaRktoGQ7K8/OekgSy1iI/sAtAn/ZThxWyRCgchEwwP8wEZqAScmSBqCRnz/zedqGclKO1FNVKinIuvrwXX0zE++vma4FVgEEmENKiWurcovkFfAqE+Sw/0z7dBwgwmwiziDB32rdNblKgcEBovj+0FDDID9fgER0IRJincOPyQUGmLRA2h/y7gOw6AvECAME8Qj0wRy5sWj0GGKhTziLQTbM5gHgAgcrRi7GYqnYWYx4ZGvgG6cbVc4SZa9cRCkDTnl34YnBAB7SJa5ElZA5rgsX8wjA7QB3CLCMQ7AJUVEmBaBfVAVAL06gDZQFUR5uDxbR34BtEq1YGyqikm9tg4oBtGKyNVqvFNj8H2BVv2VOpltxf9ezqgryO6+JFzFdJRWnXAUDcnJbNenZtw9hLxPwk7xXXpKf+oWAbZY8wTRYm7ebdpukFqGjdADHMe7w7aXWPHGFwW2ze35iZgzLxlW4v0YX5QJi0Orjtje17heCH8KPxOkPR7TX/vAAVgPhW8es6AgwrVXGXmu/1xusn/IXZ9/TNOv8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xu2UIW8bQRCFb3Vanc6yXEUtKmlISEirkJKCkoKSgEgBAQYBBgYBkQ4YGARYMgiIZMkgv3Y673afb27tSHeOE0ttRxoZeHb32/febZb9r7+3nIQ+egWQu6GX+1ERoY4G5qRSCIDwd6pgv8vcgL0boJOHD4XMRqEJBKUm2uOBlxvtn0UuZ3m2A/CgkE6WJ4UsFGgem1AW6Kr08l2BPkcgALNvdeZAcE5WJ6U8aVuoXUCw7qvPZZRlm/+ttVbJV8AFoEeFARBsIxCaQNYuAFklrbVQ6lpnf+nshbf2di4n64+NQswR1UHjENj1IwKl4JyFSrQW8FCT9n47Pe0K5eRZgQAFlWBZaheALtUuAAGccykQLeMs1ewJhGpyxMNeAqK9BMJcai2yBru+GHV6AqFcfRAtoyW0DAfl+UVLSQJZa5Ef2AWgT/upwwpZIhQOQiaYH2YCM1AJObJAVJKz535vu1BOyuFKisFSinImvrwTX4zF+6v6a4FVgEEmENJisNC5ef0L+BQI81l+rn22DxBg1hFmHmFutW/q3KRA4RMOzfeHlgIG+eEaPKI9gQjzGG5c3ivIZAOEzSH/LiC7jkC8AEAwj1AzR+nJL5QLmw4eAgzUKacR6LreHEA8gEDl8NlYTFUbizGPDNk3qINKuvHgKcLMtKsIBaBJyy58MTigAVrHtcgSMoc1wWJ+YZjt8ZURZhGBYBegokoKRLuoDoA2MLU6UBZAVbQ5WEx7e75BtGppoIxKurkNJg7YhsHaaLVabPOT2pWevqOoULxlS6VKcn/ZsqsJ8iquixcxXyUVpV2vAOLmtGzasmsbxl4i5id5r7imo10s2EbZI0ydhfFm8+aG6QWoaFUDMcz23ekJw2oeOcLgtti8fUNmDsrEV3pziSbMe6iyXfZQ2+2N7XuF4Ifwo/E6Q9HtNQcoK/X2xoAKQHyr+HW9CUy3aqu4W813rlTFo8L8E/UHv+Yaib5H5JkAAAAASUVORK5CYII=",
     "wiki_name": "Decorative boots (red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Decorative_boots_(red)",
     "equipment": {

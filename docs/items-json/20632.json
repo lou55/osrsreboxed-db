@@ -1,7 +1,7 @@
 {
     "id": 20632,
     "name": "Cape hanger",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzklEQVR4Xt2W3SvDURjH9yTJL62WRdqFWCYvpSTcEE0NKXE3K29RXi6EFC5cUCu5UcNKKY2kKcvbhSZlmNaa96a1ec3fYF4uvjpnKcm1c/Kt5/p8OufzPOdRqf5XCLGSIoS6Yj2y0jSyQBGajfnQqhPlAaopyoSSEC8P0ItbjUJDnGigL5F/qz8Pwec5QPD8HJeBAD7e3+Hd30fAewyPTREHdRsKIRwM4u31lQMyqLVxBSlarTgoVtFoVIZn+wrh+eFBNMT3EM58PrmA3JsbcgHZrFZk6/WyQBF2XS4kKcLa/WcI60sOpKWmygO0bJ9DVkaGDECx27GOjCA/J4eXYChC6PqKO9TX2SGDR8T/s42VFXRYLDJ4RLjw+7G6sICmxgYZPIr9+os2G9rNZhTk5YkEInjnkrA4mohhSwLMVfEoyY2DWlGJgiI83d3h9OSES806rbbKiGSNsGWf8BiJ8KWMST020I/y0lKRYhPuw2H4jw651INdXRwoXacTB8Q2Ro/bDcfsDLpbWmAsKxPZaYTIzQ32trcwPzXF5xBzKNdgEAfEhuKO04npiXF+Q/Umk8jWJw5jn5zEUE8Petta+SyqrqwQBcTCDv6t/mE+AeRzQl2LqxXjAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+0lEQVR4Xt2Xy0sbURSH5yAiDhIQQ0Vc+Aim+IBKKepGURKwlYLYXQzUKhasXUiVQnXRhUJAshGiBgqC2CJiQVHbhUQEU42EEB9tiYTER0v/BuNj8ZN7BwuObtx4Lv7grGZgPs58584ZTbtfIRilRAjPq2woyctWBYrw0lEBqyVTAlUWFnJDEZ49KYaeka4O0HHAgsf2NG6gS5FvqjsPIRxcQ2xnBz+jUZyfnSG0uopoaANBn84HtR+PIxGL4fTkRAIKqK+DOh5YrXxQolKp1LXXJlxi8onw7+joCgQjjAhhOxz+D2S+yhBCYHFBLSCfx4OHNhuXyOYQlufnkaUb465Alwhzn6eQl5urDtAX/zhKiopUADK64+nvR0VpqSxmjwjx37+kQz2vO1XwiOT3bGF6Gp1utwoeEXYjEcxMTKD1RYsKHhlf/UmfDx0uFx6Vl3MCEULjWZgcyMQHdwZcznRUl6XBomtcYhP+Hhxga3NTSi0mrcnpQE62sewzdInwJ5mUS5mQ+mPvO9TV1HCKTThMJBBZ/yGl7uvqkkAF+fl8QGJjDAYCmBobxZu2NjhqazknjZDc28PKtyV88nrlOSQcKrPb+YDEofh9dhYjQ4OyQ82NjZyjTxLGPzyM993deNv+Sp5FTxvquYBEzP9j7Au+pl0+3Fzm+26bCzQmcawc7sa0AAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

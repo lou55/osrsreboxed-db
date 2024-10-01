@@ -1,7 +1,7 @@
 {
     "id": 9043,
     "name": "Stone seal",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-17",
     "duplicate": true,
     "examine": "A seal. Made out of stone obviously.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu3WbUsUURTAcfcjhO+SkgQDNViCzCSThSUSk1bZNh9aNtqoKCKIIhEpehDpCUHsgQoFQ0ykjCAqiqI+2Y3/Hc5w5s7Vdnan6EUXDnt35+zOb+65c2abmv79kTH+8B3/4yNjHk4Xzf2pERuzk8Nm5lrBhiBW5k+b5blTZulRxYNyL6JheAASFCAJF7P4oGyezU5ETsx7jrkRRSVCZszcjeMxFK9AJAT0ZGbMzN86YXN59YHI1+hv69Pmy+rV+lACYi6rI6AX905akORuBuJ7X9emzI+N2+bnxl0LSoThR+WqBcRJfaCFO6MhiLkPtLpQjYCY1wjKRMrAiWRz894FcXIQUl7m/IYLWn96Nj2QrBKf+UDk6f3R1rYzhnr7/FwIIhKBZF+4IE7ugsjjO0NDh83gYN4MDORsdHbujqDevTwfBb2+3jiIzwEJipUkXxB7OjrCOdHa2hKi3i9eSBdEANAgcifGR2IgXmXe3LzN5n1cvhSCvr+5WSuGEQVpFFcqIPIqlVJkRQQi0d9/wOxo2W5zP726XC+IEWxO7hgfiGPV6rgZGx2OgNzo6dlr2tt32fzPK1fqBQU9iBXaClQuF2MAvYf6+vaHG5vvaFCCphjc8j4QAUhKVSod85aK97ncQZPNdtlc9lqqIEFJr2FlCoUjMYREPn/IdHdnbS4XkCpIr5J0YF+ZNKy3d1+IEdDa4zMhiC5dI4YR3GE+EMfcMrlz7ioplYBYHR4beoXqArn7iGOUyl0hDeKuclcHEI+N1ECC0uVy9470HHL0k15AdGkNSoAKQL6ycaxYPOoFERxnJV0Qfzs+LF0MQfSgBH0oCtJl4zO9ShKyiWkLLojVaRjEXbYZSJ5fAqPfCEZA5OlypQZyy8bnUgJpkAQdXDACklxA3PIaRA9K3Id8ZdMg5pxc/gW4IL1/UgH5yqZBHNN/SzSIPL1/GgQxglL8LjRGhwuiKWqQRAJQrSOOlND75y+CthpxZDz+j8bGL3t9GvcUqZdOAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xs3W/UsUQRgH8Ls/IfwtKU0w0IIryEwyOTgiMemU6/Kl46KLiiKCKAqRoheR3hDEXqhQMMREygiioijqL5v4zvKde/bZuePW28KBh5u7ffbmszOzz24qtfVb2vjDd/yft7R5Ml0wj6ZGbczeGjEzN/I2iFiZP2uW586YpadlD0pfRNPwAEQUQAyNWXxcMi9nJ0MD4zuO6QijYiHTZu72yQgKn4AwCHo+M27m756yufj0gZAv0T/Xp8331eubQxGEPmeHoNcPT1sQc2uBcN6PtSnze+Oe+bPxwIIwxr72dht6dNWCaedVE4RBfaCF+2MOhL4PtLpQCYHQJ0iPrlo6tAwYiJsb3zUIgwPB5UUf/6FB6y/OJwfiLOE3Hwh5cn90dOyMoD68uuBAiFgg7gsNwuAahDycMzx81AwN5czgYNZGd/fuEOrjm4th0LubzYPwO0BEYSaRT8Teri7XR7S1tTrUp8VLyYIQAEgQcicnRiMgfLLf0rLN5n1ZvuJAv97fcZjYIInClRKEvHK5GJoRQhgDA4fMjtbtNvfr26tekB69Rgs2J+4YHwjHKpUJMz42EgLp6O3dbzo7d9n8byvXNgsKahBmqB6oVCpEAHIP9fcfdBsb50iQLIp6dNWCW94HQgDEpSoWT3iXCt+z2cMmk9ljc7HXEgURxVqDmcnnj0UQjFzuiOnpydhcXECiIDlLrMC+ZZKwvr4DDkPQ2rNzDoQqTUxDINxhPhCO6WXSfdxVXCqCMDt4bMgZanB20KogvY9wDEulZ0iCcFfp2QEIj43EQETJ5dJ7hzUHOfJJTxCqtAQRpUf3tADkWzYcKxSOe0EIHMdMahBeOz4vXXYg1KAYdSgMksuG3+QsMbiJURY0CLPTNAh3WS0Qn1+Eod4QQxDy5HIlBtLLht+5BCyQCFRwYghiLkC45SUINSh2HfItmwShj8H5FqBBcv8kAvItmwThmHwtkSDkyf3TJAit+ipaLyRGhgahKEoQIwYolWJZrxcaKEPun0RAjTaNbATLqOb+p6aRvtDnbOn2F8WBZYO34T/cAAAAAElFTkSuQmCC",
     "wiki_name": "Stone seal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_seal",
     "equipment": null,

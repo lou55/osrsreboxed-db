@@ -1,7 +1,7 @@
 {
     "id": 19604,
     "name": "Unstrung light ballista",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-05-06",
     "duplicate": false,
     "examine": "Needs a suitably simian rope.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClElEQVR4Xu2U3WvaUBjG60UpiiiiGBJRUVGJDq1i00n9qNhq1TIF6RgMygZjYx8XG7vYn/8szxuOicaJLXRXeeDB5Kjn/N6vc3ISKFCgQP9SCIf9XxVCPpNB1jCgaxrSqRSSiQTisRiikYjYD7ULvM/PVgivTBPVUgkX50006/XNe7lQQPjsbOeAEHo9C7quYT4f4/HxAT3LQrfTwWWrJf9jUEdA7UbgmgA8nFnxrm+vuftMboeo1SoYDF6j2+0IDINhhhmAPwifQvjz6x1+/3jAz29rfP+8wtdPbzDsNTCbWBsglmoXyI3W9XI5lSwxQ+NxX8pNcAVzFNC4l8dkWMBsVBTf35awmpbFhPzwfuozgXgYwbtWDfObsWSBZW03GgLBIGgvzNFAfSuD625uC45gXz4uYJ3r8h3Xufb2vuoDpC875gaw1SyhbuY9AF4fVEgO4qHVUhJ3Qx2GFkYx55SDoO2GZveCIbAEWs8r8q6C4Cffae5DlwucRhemXEwjl1FlPygHiJvVqykUsjE0zTgS8aj8mQdKhq6ubMicjDr7ygtEUJrPNANgcJHIKcyyBkOPIxI+tcu375rwyQHi5s1aehMZN2GW+N16scDd6Fp6gzBsZgIRnocSkmu8sxQQ99HTEQGhjywX5fSQN7LVrIlBt2w3aAbL6VRgxv2+3CW1SkX6gkA8NJUMb/UH91GBCZANHIuq3xwlB0iZGfE2NaeHQCwZ7xNmQWWI8HXTEPB2I4uLlhOYAiIss83nZwGpHlCNqnrEa8LyOiAQszjqVXAzNG1wjnt2U3qWkxkiFD+fAETtjuVh7za09w7juhqOrBEVGHfaXkzbgOw9TqIafQKxTArqhWH2yZ/FbQcKFChQoCfrL4VSBeciQzv3AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu2U32vaUBzF9aEURRRRDImoVYkSHf7CppNGrdhq1TIFaRkMygZjYz8eNvawP//Mc7MbY+xcHGzsIQcOmmu89/P9dUOhQIECBfqVwjjsf6owCtkscpoGVVGQSaeRSiaRiMcRi0aF96G8wE/5jxXGM8NAtVzGeauJZr3uPOvFIiKnp+KA1tnZz0PCsCwTqqpgPh/j8fEelmmi1+3iot0W/2NQPqC8EWxNAB7OrLjX3WtuoMnNELVaBYPBc/R6XQHDYJhhBrAfxJ7C+P71Jb59vseXj2t8erfCh7cvMLQamE1MB4il8gJto916uZyKLDFD43FflJvgEsYX0NgqYDIsYjYqCd/dlLGa6sKEfP1qumcC8TCC98wa5tdjkQWWtdNoCAgGQbthfAP1zSyuevkdOIK9f7OA2VLFb1zn2sNddQ+QvugaDmC7WUbdKDgAbhPmIBAP4qHVcgq3QxWaEkEpb5eDoJ2GsukFTcASaD2viGcZBD/5THMfWi9yGrcweimDfNYu+wEYygbiZvVqGsVcHE0jgWQiJv7MA0WGLi83kHkx6uwrNxBBaX6nGQCDi0ZPYOgKNDWBaORkUz77mvAFxM2btYwTGTdhlvjberHA7ehK9AZh2MwEIjwPJSTXeGdJIO6jZqIChPZZLsruIXdkq1kTg56+adAsltOpgBn3++IuqVUqoi8IxEPTqchOf3AfGZgA2gDHY/Y7PmAoG0iaGXE3NaeHQCwZ7xNmQWaI8HVDE+CdRg7nbTswCURYZpvffZRKagske0A2quwRtwnL64BAzOLIquB6aGzAOe45p/QsJzNEKH4eAUTtjuXv7G1o9x3GdTkcOS0mYOS0HQEUCsn6+rEXkL3HSZSjTyCWSUJJmKOAjtUhQK//OsxT8mbRa+/7gQIFCvS/6Qd5cEIdzrtDZAAAAABJRU5ErkJggg==",
     "wiki_name": "Unstrung light ballista",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unstrung_light_ballista",
     "equipment": null,

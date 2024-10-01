@@ -1,7 +1,7 @@
 {
     "id": 25696,
     "name": "Mind core",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-04-14",
     "duplicate": false,
     "examine": "The corrupted core of a Mind Golem.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiklEQVR4Xu2U/0tTURiHPT+JEcZIijFKWlhoYiaWjZQxspYZ5jJttgwRISKIICKI/ve3Pef2uXt3Y+2LbfshX3g4x+O457mf95w7MXFeI6tgLcZaicRh7XPKmKRaIu8Pvtlp4+c4pVqJvHp+avs7H+3d/lc7Ofxhb3Y/jVoqxE09u89ObG/7Q5Q4rn+3oyYSG6JU0iLSyCIp0mJOWo1mGyU8BKkQEwA2hbsLJVtb2UzXEdupHkcx5o29L/a2KTYEqRA3gYVbq3b75r10vry4niaD1Nbjhm0/OUrXaFm9Kaa0ziiVtIi3FhKaKy61rYEkJOXTOmiKKa0BpUJ8aBYJsSlIRkiiWqm3pRXb2hQjLQ58n1Ih3VCwASJsyjyLhBbn19LknpYP2tIivdrvm9iHUEg34YEe2oSUXyvO3omjZMBL+NbpewU9CgXb3HjdEYREZb2Wwv8kw81Tu3zbJMWoG9lFKtjKUtk2Hr5o20yUSy8jJHI5l7fcpRkr5ItRjnWJAYlp9FKs6Ux1kaFCjP3+csVKq9UIch5kQCnRPp0rtUzyElRr9WJKqyehG9fm40ORAj56jx5s/QGyXkrrSGuUFOjlWCOxHmSoEFshKT54QBsBub/BppL1gkpcQqTVoxAV7MpMIbbFH1KBoNLLgpRGod/79vchowqWvzrb8Yz49HyK2UT9C0iI9g0gRCVSnQ6xJJWcRJWo5L2QpAcWmr6Yi9f6emEuwtmCrGRWVH97IeaJyEAyqhC/NSQFyHlBjyQl7IWYn1HEVyLF7QMOvJCoZJWihJTiP5RRJe0TCAoviZjS0jgEGVWwyckpuzA1HZGYT863laSGKKNqSfm0skKkMwIZlW5KN87rP6tfNx5NvhP+pCsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoklEQVR4Xu2U4UtTURjGPZ/ECGMkxRilLSw0sSWWjpQxspYZ5jLnbBkiQoggQUQQ/e9v93lPz9m7U5t3s7t98YUf53jUe373ec+5Y2NXNbRy0mak5SUO6ueBEUm1RT43vstJ69copdqJvH9zInvbp/Jp75scH/yU/Z2zYUs53dSy8/pYdre+qMRR84ccJlAsQynfIqQRQymkhTnSaiVtpHAGUk4TANgUPJ4vy8rSRliH2HbtSMUwb+1+lY+JWAZSTjcB8w+W5eH9J2FeWlgLyUBq80VLtl4ehjW0rJmIMa1LSvkW4a0JhWaLix1rgBKUsmk1EjGmNaCU04fGUAibAsoQStSqzY60tK2JGNLCge9TyoUNCTaACDbFPIZCC3MrIblXlUZHWkiv/ucmYo/SzEwaKRc2wQMtaBOk7Fpx+pGOlAFWwraO3yuQUsjJxvqHrkCIVNfqAfyOMrh5bJdtG6Uw8kZe0DYnS4sVWV9927EZqZTfKUjkZi4vuRtTUsgXVQ7rFANIjKOVwhrPFBPqkZLT2J+WqlJerimQs0AGMCW0j+eKLaM8BdlavhjTStEyJ/fuzOlDIQXw0Xv+bPMvIGuluA5pjpQCfDmsIbEU6aCctoJS+OABtBFArhfYlLJWkIlTCGmlSIfl5NZUQdtiDymBINOLgRRHwr+37U+Zji0n+dvTXc+ITc+mGCdqX4BCaF8f6djyUt0OMSWZHEWZKOWtEKUHFpq8ntNrfbcwq+BsgVgyFuXPVghz/83pu122nH5rkBSAnBW0UJLCVghzKzKgDMtL4fYBHHhCUcoyRQoxxUum8q/y7SMQJFYSYkyLYwYyLCfj4xNybWJSoZhNzrYVSWUow2pL2bRiIaQzBBmWvykXMSQZX/a29CL+v6v6n/UbOkiCyXMvIY0AAAAASUVORK5CYII=",
     "wiki_name": "Mind core",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mind_core",
     "equipment": null,

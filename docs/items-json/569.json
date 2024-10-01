@@ -1,7 +1,7 @@
 {
     "id": 569,
     "name": "Fire orb",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-18",
     "duplicate": false,
     "examine": "A magic glowing orb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkklEQVR4Xu3Uv0sCYRgHcA85DuU4EaVQUYdoMCIjzAw1DBMzwuyH2NBQg0NDQ9Af0BA0BkFDQ9DW0NQWNARNDUHQFjREQxAEDUHg9O1537erq/3uDN4vvPN9+D7PPR6PjIyMjIxdUSBeV0RBs17HfK3WLSgFy43GH5QrMPPDClaWFn+h5qpVp1A/iNlKhSNWW61vEMPMTJVRLhbtBgnEblDDdkDDpqFhTVdRyGb5xxmCtTI9WUIpn8d4JmMXSECOQj4c0NsL+jhoi0BtAi34VAymUhgdTmMil7Psj02Yx5iBu6iO64iOsx4/h7GWGGidQE2/iormxYjqtQthjYK3hIGnuIH7mI4bgp33+nEcFqiNL1CBQFGvxxlQZyiJD0K9EOqBULeEuiTUSViMjrWTdqYdFgKlouj0hfFuQZkj3Kd9GiNQvzPtmCFUMsBbso7PbGlAdRRjRuENMdBrQiw52yW24Ds0NhdALAof2XNcgK4ioiF2BlwCsYj7wv62C2rolM7AYchVkBnr8XMdIyMj87/zCdwk6TUPZDHBAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABr0lEQVR4Xu3Uv0sCYRgH8HuR41COE1EKFX9ANBiREWaGGoaJGWH2Q2xoqKGhoSHoD2gIGoOgoSFoa2hqCxqCpoYgaAsaoiEIgoYgcHp63vft8pRG3zuH9wu3Hfd++D7PvYoiIyMjIyMqBPjTEyFQr1ZhsVLpFRSB1VqtA+UIzDyYwNrKchtqoVy2C9VCzJdKDLHeaPyBKGZupgjFfJ69MxqPi0JxxIFPgz2vBjuGBhu6Crl0mh1OEbSV2ekCFLJZmEylRIE45NTvhmN8Dn1uBtpF0CaCltwqDCcSMD6ahKlMxrI/HNNlEIGXsAGPIR3ugjpc9nkYjLZEQVsIqntUKGkuGFNdbQgBGBoCn1EDXiMGPIV1uEfYVb8HzgIctf0LyiEo5FJEjcgaAs2RGHwj6h1Rz4h6QNQNos4DfHS0nWRHO51f6WIQlAhBcyAAXxaUOcIj3KcJBA3a044ZRMW8rCXr+MyWhtQWxiYQDWENUdBHlC853SW64Ps4NhvbsYawkb1FOOg2yBui14BDIBp+v9C/7RobusBr4MTvKEhR+MGty8+B/fk/gi9AGRkZYfkBWDALrJTqOc8AAAAASUVORK5CYII=",
     "wiki_name": "Fire orb",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fire_orb",
     "equipment": null,

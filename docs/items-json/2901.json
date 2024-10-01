@@ -1,7 +1,7 @@
 {
     "id": 2901,
     "name": "Grey hat",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": true,
     "examine": "A silly pointed hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOElEQVR4Xu3W+0tUQRTAcfcnSfpF+iFCMEwixNAMM8NMw8zM8JHvZ6VlFBVEUYgUPUR6IYg9qFAwxETKCKKiKOovO/Gd5Vznzo61d3eNfmjgsLuzs/d+9syZs5uV9e+PmPjD9/66j5g8HG+X+2NtJiavt8rE1RYTiliYPiXzUydk7tGQB+V+ibThcZCiAGm4mNkHA/Jssi90Y17znhthVCRkTKZudCSgeASioaAnEz0yfavLrOXRB2K9jf62PC5fFq+khlIQzzU7Cnpxr9+AdO1aID73dWlMfqzclp8rdw0oEoaL6rdWEDf1gWbudAcgnvtAizPDIRDPkwTFQtvAjbS4ee2C3PpZC7T89EzmQJol5lwQ6/eVl8vOoiLZlp9vXpM1F/T2+WgAIiKBtC5cEN/cBrF2uLdXelpbpaWhwaC2bN5s5l3Qu5dnw6DX19IHMQ9IUQrqO95mQHvLykyWNuXmJqDez57LLIhgK32ggY52aWtslLrqatlRWGiytDEnJ0Cx9uP8hQD0/c3NZDGMMMhGcXEFsa6zuVlO9/fLUFdnACotLg5qSbMD6NOrS6mCGKsnZi2Q2+jam5rkcE2N2Ta3jlj7eeFyqqB4DyJDfwKxhvXUkJ0he7v0MzYoQlOMH3kfiNCL25k52d1ttu5Yfb3UVlWZGtqQnR2AgGcUpChCEfsrKsz2UD9a0EcO1sqBykrZXlCwfiBFKWTPrlJTIwTNkOxoDwII1AbZoSC6dJIYRvyE2SDmbITG6OCgOV26XYCYVxBzYGkLF0eGzXU0QymBFMWcIsiAhm4Xp4ubU9CgFUSwjuxR9BkFKYIaIbi5NkQbxJbSg8BQU8zxOaDUGdfSTp0kKg7ybRsnyA7FATp6qM7cfHdJiWzNywu2TFGs0wzRgyL0oTDIPm3xC6wG31y3UmuMObBAALFdYFmvRR0ZxCnzgZjjCPNHi+PsAoHpdgICQ/Z478Pc+fRB7rYxb4P03yRB03SBGkuPR0IgelDkPuTbNhvEcxekzZPPaUNkbUZAvm2zQbxn/y2xQazTn5gMgBiJafeFjbHDBfFf2gZpRAAlOxKRGvr7RXb+Iuh3IxGZGP9HeuMXgSfnlNwgoisAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWUlEQVR4Xs3W+0tUQRQH8N2fJOkX6QcJwTSJEMNHmBlmGmZmho98u2qlZRQVRFGIFD1EeiGIPahQMMREygiipCjqLzvxncv37tzjbO7Vazhw2Luzc3c+95yZ2Y3Ftn6Liztcn296i8vTsXZ5PNpmYuJ2q4zfbDFBxPzUOZmbPCOzzwYdKP0QG4Z7IKIAYmjMzJN+eTXRF5gY7/GZjiAqFDIuk3c6VqHwCgiDoBfjPTJ1r8uMxasLhPE2+ufSmHxfuLE+FEG4ZnYIevMoYUAcmwqE+34sjsrv5fvyZ/mhAWGO0rw8E3p21by086kJwqQu0PSDbh+EaxdoYXooAMI1QXp21eKBMmAiLm681yC9flKBll5eiA7ELKFPgzD+UHm57CsslN25ueY9sqZBH1+P+CBEKBDXhQbhyW0Qxg719kpPa6u0NDQY1M7sbNOvQZ/eXgyC3t/aOAj9ABFFUN/pNgM6WFZmsrQjK2sV6vPMpWhBCJTSBervaJe2xkapq66WvQUFJkvbMzN9FMZ+nbvig359uOtjQoNsFL6cIIzrbG6W84mEDHZ1+qCSoiJ/LTE7AH17d80J0rOnaMkdkwqkD7r2piY5XlNjyqbXEcauzF9fL8g7g5ChtUAYg/FYQ3aG7HLxHhtkH4p6dtW8Le8CIfjldmbOdneb0p2qr5faqiqzhrZlZPggwCMFEYUg4nBFhSkP1g8X9ImjtXKkslL25OdvHogoQg6Ulpg1gsBhiOzwDAIQUBtkB0E4pYlJC4QdZoPQZyMYIwMDZnexXAChnyD0AYtj4erwkPkeZijN7KAlQUShjwhkgMFyYXdhcixooAlCYByyh0UfKYgIrBEEJueBaINQUpxBwGBNoQ/3AYp1hu/iSe2Vcs3mgVxlww6ygziATh6rM5PvLy6WXTk5fsmIwjhmCGdQiHMoCLJ3m/dEycCTs5RcY+gDFhCAUC5gMZ6LOjQIu8wFQh+2MP5oYTtrIGAsJ0DAIHv47Mvs5Y2DdNnQb4P4bxKBQ1MDGYvPhwMgnEGhzyFX2WwQrjWIhyfu44GIsZGAXGWzQfjM/ltigzCOPzERgNBWp90VNsYODcJ/aRvECAGKxXis/ys00A7+fiE7kYDSbRqZDpaRHPufmka6Qt+zpdtfyysyL9+npqsAAAAASUVORK5CYII=",
     "wiki_name": "Grey hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Grey_hat",
     "equipment": null,

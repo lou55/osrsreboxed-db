@@ -1,7 +1,7 @@
 {
     "id": 2960,
     "name": "Rotten food",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-13",
     "duplicate": true,
     "examine": "Erhhh! It stinks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xu3WyWsUQRTH8R6GXEQEQTzoIQcRQQRFhBwUFEQhl2jcd1FR0YMgijKEiEsIbgRCXFBJQAkxBI0IgqIo+peVfLv4zbyuruj0oniw4NE1XT1Tn36vuqaT5N9vDReP2Pgfbw33YGivu9caTGP0+m43cnVXGkJMj59yL8dOuqmHJyKo8CYqwz1IKECKEDN5/5h7OnokMzGfGQsjiyqEbLix4X05FEcgCoEejxxy4zcPpNdyjIG43qK/zg25zzNXyqEEoq/sCPT87tEUpGsXAvG9L7Mt933+lvsxfycFFcLwo7prgZg0Bpq4fbANoh8DzUyczoDodwlqZMrARFrcfA5BTA5C5V0INPfkbH0gZYlzMZAyKRBZC0Fvn51rg4hCIK2LEBQ+TWFwnb4Pgr5A716cz4JeX6sOYmxDXzONdRt9rFnvY/mKJB1/31rUBmb6kxfqBenut/Y33eYdTde3rek2bfE4YtXaJAUsXuJhFiWYQN/e3OgWQ8uChOI8iJ17etrBRJwDRJZ6Vydu6bIkPRIrezu4j68ulQXR/I+wQC1ImRFo+0AnU5SPLIHgCAgkfb77afpyWZDfg8iQQJxTFkAJpPJpHSlLAjHOuRBUYFP0j7wF2cwoE0KRITsGRDD6jMfWUGUQd6qMaM0AEcZOzBris8rJDWihVwYRnBs83uP69/uMgGFScBaqrAAIQVwvELt0lxiaf8IsSFmyoXINHO6sJS1qu54IsqanTRkqBQoXtt19tTEyocqlMpIVgr4yxgKvDSQU5/VOA0JZYX0IQlkJMqfNUlm1T1kBlAfFyiYQrxFcB4hJKQcISgdEIZAWtEDsQQX2oSzIls2Cwrc/goVPCKRtgLEPUxfLg3jKfgdiLdl3IAsSihLWCgrLxnkLsu9A+muJxeyjMxkQe1DhfShWNguiH4L0R6ynUdfWAoqVzYIYs68lFsR1gHizrAFEy6c9FhZjIwTxLm1BigKgblseqSCTgMjOXwT9quWR+fjfqrWfV3isCLugKE8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xs2WWWsUQRSFexjyIiII4oM+JCAiiKCIkAcFBVHISzTuu6io6IMgijIExSUENwIhLqgkoIQYgkYEQVEU/WUlX7Vn5vZNRWdpJQWHru6qnvv1ubdqKssWfquEtFLj/7xVwsPBveF+bSBq+PruMHR1V5QgJkdPhVcjJ8PEoxMJKP8RHYPnQIICSPIw4w+OhWfDRwqBuWfMqwjVEmQljNzYNweKKyCSgJ4MHQqjtw7EuVxTQMy30N9mBsOXqSvtQQmIvtwR0It7RyOQ5s4HxHtfp2vhx+zt8HP2bgQixoaenigf3bXcdn21gAiaAhq7c7AORD8FNDV2ugBEX0A+umuVQhoIpOLm3gMRHAildz6gmadnywOSSzxLAclJAeGaB3r3/FwdCLUEpLrwQH41eTFP7wNBX0DvX54vAr251jlQ/IHeatS6jbnWrM+1fEUWxz/UFtUBC/3xC+UC6eu39lXD5h3V0LutGjZtyeHQqrVZBFi8JAezUAIT0Pe3N+swLQMJiudA7NzTVReBeAYQLnWvzsLSZVm8opXdDbhPry8lgXz0eVr+IxSoBZIzAtre33CK9OESEFwBApI+736evNwuUL4H4ZCA4su/XQBKQEqf6kguCYhxnnkguyn66K7lS94CWWfkhKBwyI4BIjD6jKdqqGMgvlSOqGYAEYwNTA1xr3TyASr0joEQzwaOd4W+/bkjwBAUOAsqVwDwQMwXELu0YJoCYoVZILlkpXT1H27Ukora1hPCNa02OdSkO7QGkC9su/tqYySg0qU04gqiL8co8NKABMVznWmAkCvUh0BIK8I5bZZy1a4yQfnoiZYDpdImII4RzAOIoKQDCFIHiCQgFbSA2INa2IeKQDZtFsif/hCFjwSkbYCxjxMX2wdilf0NiFqyZyALJChSWCqQTxvPLZA9A+mvJaXpx2cKQOxBLe9DqbRZIPoeSH/EWo2aWwpQKm0WiDF7LLFAzAOIk2UJQLS5tqdkYaw8EGdpCyS1AJRl2tb/JA9ohZMA4U4pQM02D9kMrNSY+5+ah0zJv7Og2y+hfPaUXBs5GwAAAABJRU5ErkJggg==",
     "wiki_name": "Rotten food",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rotten_food",
     "equipment": null,

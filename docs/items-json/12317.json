@@ -1,7 +1,7 @@
 {
     "id": 12317,
     "name": "Pink elegant legs",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "A rather elegant pair of men's pink pantaloons.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xu2W2U8TYRTFnRgeIERDIBhqwCBBIiVUiSKEGiAFKkukUCsEkKUCBgVZlE0UBLECtSi7LE0QWQ2iBlEjmICguPUF+X+O3IszSY2vM32Qm3wP883D/eWec+7Mvn179X+UgH8fl5QAL083Pp7u+52Oi6AEjOQOo/uCDS2pzahJqIY5xgxThMkVQAJel73C04Jx9GX1wmKwoF5fj6uxZTBo0l0D9L76HZ6XzDlNqSKuHGnhaa4B6tbdRfvZOkwWTWAgux/t6e0MFHEoHD7u3kpCCdjoWoc1/g5elM4zkD1vDFZjF26da0S06hT8PHyVBVp/8ImnM22eYpjOjA5pSrojWgQe8FcWaM2yhoaocmkyZGiC67n4GMZjKQjxDoKHm4cSUAI2H31BR1wTqk4XSzAl2mK8LV/i1NFdpN8JBHgFKAP02bbBctF0KO5kZOPJTCzXfeApUeJINs1hjTJAPQltaI6pluSq1FVyspYblyXZDMF6qH1C5AYS8K3/K8dd9A9NozbxJjcnoNnLM7woc9WZLFuwb7CcUAIGkyzsH2osApGHgr0CGYgWJaWtLa0VcQHRfC8rUF/ifVhiGxhI3NC0e/w9VQxEe2koZ5Djn3w0HhrfUHmB1u6tcppIMkpZsSaH5VEdVOFj0wp7i+6LwrM5/mR2Gc29G3maRKv2BkNVRJj5G6ZWqXk3kZxN0df5Pj/MxOtAH6qXD8gx+lNqTNOoPVPGQNqgGGz2bnICSVIRiuQsjCqQD+jX3BYnTWxMUASUok6Gw+5wekdQtALI9DIBUQnYnt/GWLKVP64EVBN5hXfRj+HvbHpRNop/WlCinDBiCVjIGMO10kIU5mXBlHkeKXodSs2XkJ9jgtGQys9kagVgxBJQXJgrwYSpjzsBJelilYShErA0P49Rmw3NNdV/mgt4OTWJoc5O3K6qVB5o5c0iJgZ2/oHqRdPu/GdPT2PEalUahmpnJ62uYtZux8OWZglocXYGk0ODrgHacjgwPfwElsZGCWjh2QTG+/pcAUS1C+Hc/O/nvZKvfgOg6mZFjtrTUwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4Xu2X7UtTcRTH+xG+SKQQw3ChaWKSE2dSlrhQmbp8IB/WUtTU1jQszWapmaVpttKl5XOWgplODbOiR9JAy7KnvbH+n2+eU/ea0svuHVQHfi/ub7Dz4Xu+33O3dev+179RAr8/bikBby8PPl4b1q86boISuJ0/gI5D7WhMa0BVog2WWAvMUWYGigwMVBNK4HHZI9wtGkZ3ThfsmXbUGmtxIq4MmboM9wC9tL3A/ZLJVSpVxJcjPSLdPUAdhkto2V+D0aMj6M3tQUtGCwNFbYnA5g0+avpIYKHtLRwJF/GgdIqBhgoG4TC14fyBOsRodsPP01dNlQTeXn3D6jgtYwzTmnVNVsmwTY+gjf7qAs3b53FuX7msDBma4DoP34RpRypCfYLh6eGpxtgEFm+8x7X4epzeY5VhSvRWPC9/xqmju2i/SAR4B6ihksC79gUeF6lDcScjm3ZlY6bmFatEiaOx6bbq1AHqTGxGQ6xNHleloZKTNVM3I48tM8QI7eZQpYEEPvZ84LhL/iE1qpPOcnMCmjg2zosyX5vNYwvxDVHSRwJ9yXb2DzWWgMhDId5BDESLktLWnN6E+IAYvldQJYHupCuwx51jIGlD0+7x99IwEO2l/rw+jn/K9gTofMOUBZq/PMdpopFRyqy6PB6PZpMGr+tn2Vt0fzQil+NPZpfMvfbb/kD9iDwp0aQ/w1AVURZ+h2k1Wt5NNM76mFN8Xxhu5nVgDDMqpZKA684XuTGpUb23jIH0wbFY7FrkBNJIJSgaZ/G+IuWAvk4ucdKkxgRFQKnaFLiGXKs+IyhaAWR6hYCoBL5NfcNgioNfrgRUFX2cd9HngU9semlsFP/04CQZRiEgKoHprEGcLC1GcUEOzNkHkWo0oNRyBIV5Zpgy0/iZTK0CjFQC1uJ8GSZcu3MVULIhTk0YKoFnU1O4096Ohirbz1gLPBwbRX9rKy6crlTSN78rgdmnTzDSu/wbqPaHaek8djpx2+FQWx2q5Z00N4eJoSFcb2yQgZ5MjGO0v09tdagEllwuOAduwV5XJwNN3xvBcHe3O4CoVv6proxn7bPKJTX+tfna57+mvgMHsZWU6oeBcwAAAABJRU5ErkJggg==",
     "wiki_name": "Pink elegant legs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pink_elegant_legs",
     "equipment": {

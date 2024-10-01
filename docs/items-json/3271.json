@@ -1,7 +1,7 @@
 {
     "id": 3271,
     "name": "Compost bin",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-10-15",
     "duplicate": false,
     "examine": "A compost bin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDklEQVR4Xt2XUUtCQRBG3acgwhBFsUhJUcErGlKCmGEUkhRRCEUEUb33/x8nzl7muuYVenBXcGG4rWJz/Obb2TGT2Y1lJD22sowMOnkZ9goy7hdlclGSh+u63Ayr24Ay8vM5kZdZS55uGzK7qkmrmpXayYFUyvs2AkMZ+XjuLIULF1glY5O/3bfl/TFKAhhABt2ytGr5sEDAEIBpqH+GZ0fSj0phgebTpg2FAW56eWqBJoOKjM+PwwJRHhTBL4AoBOpQsqAw36+jpGTrIiiQq44bqIQ6UaMQFijN0O5xD+4fzPy3RMDgH4773SiYh+KrIk62GqhEBOzSRvrtnL278BDJ9ei7avWah2GBCI46UFo+ro6tKURSLlGewHzNuwmMvgZoAChjy1HM7a10aTd4DzDeW/bZxlcMRNJFWRZm1nA7OG3AXrjJYdjoioGYe0iCEiRy2wCqqEJus6TU3oBIBhBPEun4oXNRmkKeTp6RqJ61CbU7K6DrqTSFvAKpV1BFPeUqxB5ohaGsfM4bkHoFKFXMDTU2QdnshesTiCQogSrs044/e4D0fuMgeAHiH+MNVYi9Nkd+CukoArRraq9AfHPUAYS9a2odbbVcjCKUjM7uDUg9QtlIBBh/xwmNVYvXAGLYx9SegFhmaUok0TpDEzqweb5wYyVIRiKeqOH2IsB0+MfYHmHcFYP9L3Zg/QI3+VT7NaF7hQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKUlEQVR4Xt2XUUtCQRCF3acgopAkqUjNKEGjQkoQK4wiiiKKoIggqvf+/+PEt5ejq12pB3eFFobr9XKdrzNnZ6dC4X8sZ/kxk+Wss7ts3f2SnbRXrH9UttuzLTvvVmcB5ezrvW9P1w27v9i269O6NaqLVt9YsMrqvI/EUM7eHnZHIoSTSge1Wgoo55O/3DTt9a41CGAA6eytWqO+nBYIGAIwhfzTPVizdqucFujxcseHYIC7PN70QP1OxU4O19MCUR4UwS+ACAJ1KJlgEgA5+3zuDUo2KWamThiohDqt7VJaoDxDh9s9uX8w83iJgME/bPer3tBD429PeWVHBde8QCVCXToJULtZ9GcXHiK5tn6o1v7OUloggq0OlMrH0TEzhUjKIcoVmI/HvQGMvgM0K2XU5Xw5VopzP7p0GDwDjGejPpv6yoBIOhwvhmZWhB2cNuAP3MFmmOrKgJh7SIISJArbAKpIobBZUuoIvsqASAYQVxJp/NBclKdQpJ3nrLW16BOqOwsw9FSeQlGB5BVUkadChbgHWjCUlfeiAckrQEmxMGRsgrL5AzcmEElQAlW4z9v+3AOk842NEAWIH8YbUoh7NUf+FdIoAnRo6qhA/OWoAwj3oak12qpcjCKUjM4eDUgeoWwkAozPPCdQi+8AYtjH1JGAWG5kSiTRJEMTGtgiH7iZEiQjEVfUCHsRYBr+MbZgIgEVCtkP/xzSJkVUmHAp0V9i/N3f1jec4IzkKhMJsAAAAABJRU5ErkJggg==",
     "wiki_name": "Compost bin (unobtainable item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Compost_bin_(unobtainable_item)",
     "equipment": null,

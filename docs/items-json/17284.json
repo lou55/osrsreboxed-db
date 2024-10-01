@@ -1,7 +1,7 @@
 {
     "id": 17284,
     "name": "Medical gown",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-10-23",
     "duplicate": true,
     "examine": "Medical looking.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu2W4S/UcRzH/R5Zf47NlmaiSZImTZJJJGlJpJJJJIlJUiSVMZMwMzfpMmN2JDczUmttRms9sWbrkZ6/6/25fc/Xd3ftyh1P7rN9dh65197v9+f9vZCQ4AQnoGPB++74WLAPDMD2qgf9HR3obn2C9sZGtNTW4uGdKg+AAYW0MP56GPbBQQEa6OxET9tTdDQ14UVDg8Dx77b6egGsKy/HrStFgQKzMDU2hok3IxgdGsJwb68A9T5/JlB97e3y2dXSgs7mxwLYfK8GNaWlKMnPx8WsLH+CWXA6HJgeH8ek3Y4xmw0j/X0Y7OoSpfhJ+whHlQhFpWglbay6fg3FF/KQk56O1KQk/0FxHaNvXbb9yRGXSg297Ba1qJKCokoEokr3KyrEusvncnDmZKo/leK4/hlVYpaolFJJQSnrdKDqGyUoLSgQ6w5FR2N/RIS/wCyxjSoxS0olT9Z5Aio6n4vcjAxRivYdi4/fDpQrS7SN4VYqebLub0BUKTstDaeSk3E8IQGHD8T8L5SFmYkJuTalkmmdCcTz14EY7ktnsyXgp0+kICUxEUcOxiImMvJfoSx8WljA7OSkXBtVMq3TbfMEdLOwUCqA4c7LzHTbdjQuDrFRUdgXHu4rlIVvKyuYn3knllElBaV6SbeNQAy2CVR5tditkm4bc8Sg7wkN9R3o6/IyFmbfY256yg2lilK3TeXIBKotK5M+okregHyG+bm+ji9LS1h0Ot1QZpbMHOlALEc+I1RJb2wdaG9YmC9AFn5tbODH2prk5+P8vEARSM+SWQE6UGtdHR7drRYghnlrU6se8rmPLPH1++oqPi8uuoFUlvQciW0GkHpoqRDPnWr4+MXexgXEpWVU6cPcnNim50i9b8o2BcTngwoxzDzxbcKo2YTiKiBlm54j2qaA2Na07MHtSu398stsBdJXz5E6f/UrgG8ZW5oF6EcYNd6huHqOCMSmZnYYYp54AIA4rkswYcylOswOO2fzxAM6m2dqwujLjtkBGHO8g+0CjD5mwe0qTHCC43F+Ax7XNWfriLG0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLUlEQVR4Xu2W4S+VYRjGvZ+s/8KfkM2WZqJJkiZNkkkkaUmkkkkkiUlSJJUxkzAzJp3MmCExMye11ma01hdrtj7p+1XXc3af8/TsHJ10jj7k3u6974d37/vbdV33/bwBAdu1XX4tC557y8uCrbcXA8870dPaio6mh2ipq0NjVRXu3Sx3A+hXSAujLwZh6+tTQL1tbehsfoTW+no8ra1VcLxvrqlRgNUlJbh+Md9fYBYmR0Yw9nIIw/39GOzqUkBdTx4rqO6WFnVtb2xEW8MDBdhwuxKVRUUozMnBufR0X4JZmJ2YwNToKMZtNowMDGCopxt97e1KKV5pH+GoEqGoFK2kjeVXLqPgbDYyU1KQFB/vOyj2xPArh20/c8SmUv3POpRaVEmgqBKBqNKd0lJl3YXTmTh5LMl3Su0MCnK+jCoxS1RKVBIosU4HqrhaiKLcXGXd/ogI7AkN9RWYpWyjSsySqOTOOndA+WeykJWaqpSifYdjYv4GypEl2sZwi0rurNsIiCplJCfjeEICjsTG4sDeyM1CWZgeG1PTJiqZ1plAHH8diOE+fypDBfzE0UQkxsXh4L4oRIaF/SmUhfcLC5gZH1fTRpVM63Tb3AFdy8tTK4Dhzk5Lc9p2KDoaUeHh2B0S4i2Uhc/Ly5iffq0so0oCJXtJt41ADLYJVHapwKmSbhtzxKDvCAxUQI7h2bAsfFpawsLMG8xNTTqhZFHqtkmOTKCq4mK1j6iSJyCB+Q2QhW9ra/i4uAj77KwTysySmSMdiMuRxwhV0je2DrQrONgbdSx8X1/H19VVlZ938/MKikB6lswVoAM1VVfj/q0KBcQwy6bWd5q0V+rQ1y8rK/hgtzuBJEt6jpRtBpActFSI4041zA/LvRcwLAcQm5ZRpbdzc8o2PUdyvoltAsTjgwoxzBxxE2aT5YJiC5DYpueItgkQtzUtu3ujzHl++QCG9SuQ3nqOZPzlL4BnGbc0F6APYaQ8Q7H1HBGIm5rZYYg54l5Mz2bKMQkmjNlUh9nhzpER97E6rnK81DWmJoze3DF+hdHL9RHPYFsGY5apmvQ/gdFLAPQ2n9mu/6p+AJK2a+FCzA3UAAAAAElFTkSuQmCC",
     "wiki_name": "Medical gown",
     "wiki_url": "https://oldschool.runescape.wiki/w/Medical_gown",
     "equipment": null,

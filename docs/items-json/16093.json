@@ -1,7 +1,7 @@
 {
     "id": 16093,
     "name": "Amulet of magic (t)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": true,
     "examine": "An enchanted sapphire amulet of magic.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrElEQVR4Xu2W32uSYRTHPYi8TMQxki4W7ULoYi2wRTDBakE/hl24H7W2xWxmNIgtGxSJW6sop9Baq9laJYqM9QMThGAX0s2iqIu6D6I/oX9gV998nmfudYX6vKZvEH3hID6c55zPe97znucxGP4tEUqbblKT3p2eRioWw2omg88f3iOdTCIcDOJMX69egITkwkOsLD3Gq0QC2ecryGWzvyX/tLaGF0+f4NbVK+j3eNCgKPWAIsTn5rAwE0Zifp4DlX56Fe7E0SMlfP5IhJfxOAe5d/MGr1DlJKJSh10uCV/NIl6R4Pg4olNTkgmI91RHe7ukv7QIq+k0JgMBjJ3zaQhOiEUi2NPaqmGPlAjPZmcxfOokRr1eDcGJN7W9pUXDnooS1Tl7uh/HOzs1BiZcOu/HdptN476yIviHhnDI6awiKKG7q6uWnzzhXS4H38AAdjY3awwqquNoa9O4r6zU16Wt7IRIKMSrI79HSmL2sGbe1tQkGVx8AHWoDhPx8c/OpUarVSI4IZNK8TlVh+owEZ/Igz09sJjNEgmIT3JWncq+VYmwvPhI8nAU8OxY6XW7K/hWLeJXCnbFuDgyUiaJuAE8uHN7w6eUX01E/K7Dnvz6xOWihKoxmMVotN4gxRLNqlaBjQAb3k6Y+WtiVxIdYZgI32csHICZwcCGpAB6PSrT7DUVYX1JJGdmNDpgMO7etMBB2flUE4keKQCZTH1bYNjamEs3INqoSAf/TfkatsB8vCZeodF0AF6nSQ8owo/71nxCDxRlL8LdSh5uHzdr43DeBvNgu4TVH4aJ8GXSApNygVeBJWYw68v7+f/NXtIHhinfOykHvoXseOPfwXvla9DOzWg6JoD0g2ESQMwYjNq8xKHCbi3XkZpIALHkBZDCurqmu4pBfl3/r7+nnwsm4PrrL7x5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyElEQVR4Xt2X30tTYRjH9zLGcIyJNLowEhl0YQbTCBysMuiHrIv5o0wNl2uRENoSisY0K2pukJnlMquxMcR+sAaDwIvRjVHURd0H0Z/QP+DVtz3v29ncseU56+wEfuFh7OU97/M53/c5z3mPwbC9xFA5dFMp6b3paaTjcaxms/jy8QMyqRQioRDO9vXqBciQWniElaUneJ1MIvdiBflcblPyz2trePnsKW5fu4p+rxd1ZnMtoBgSc3NYmIkgOT/PgSSAtubmstgId/LY0bI58lWrFMOrRIKD3L91kzskB5FfITl1xO0uzpXP+Acx7khofByxqSmFd8x4TXW0t2sNxLCayWAyGMTYeb9CGBJDPBrFvpYW7YGez85i+PQpjPp8KhZnvKgdTU0qrtlSwp1zZ/pxorNThTskhssXAthpt2sLFBgawmGXSyUMiaG7q6v4yCu/rqIY3ufz8A8MYHdjo8pFhTvO1tYqbqSiStulznaGaDjM3dEQhiR6DxXzjoYGhUDiAZC7I59VpRhv//ReqrfZFCzOkE2neZ+qgTskxjvyYE8PrBaLIiDq5ORODWBIDMuLj8tejpUTCHh6rfR6PFvMrVqMHynoiHFpZOQvScQJ4OHdO3xOjdyRxPhZh+78xsSVYsKNQTCLsVgZSI1gJIliLblALcCOdxMWvk10JKmxK3Ix/JixcgAKg4GapAB6M1oqdt1g1pdEcgqj0QmDcW8xgoeU9idNJGpEAjKZ+spgaGzMrRsQ++1IB/9N++vKYD5dF1toNB2Ez2XiUPIVNBbDzwe2QkIvzOY2RLrNBbj9PGz1w4UYLIDtEaFPDTF8nbTCZL7IXaDEBLO+fID/L9aSPjCkQu2knfgeduBtYBevlW8hBw+j6bgA0g+GJIAoCEYqXgqCinjUHEc0kQCi5BKISC6AdHZH0uaPQGn8P8AIVUr8p7Ftq18S9kVjiuWlPgAAAABJRU5ErkJggg==",
     "wiki_name": "Amulet of magic (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_magic_(t)",
     "equipment": null,

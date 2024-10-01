@@ -1,7 +1,7 @@
 {
     "id": 18469,
     "name": "Seed box",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-02-04",
     "duplicate": true,
     "examine": "A handy box for carrying some seeds.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkUlEQVR4Xu3V0UvCUBQGcEcPYgxjIMgYKSkKU9E2xkpaRVCIj/0n9Rg91v994zuXo+cOnXM5pdgHB7Y9/bjfuVqrValS5U/GUus5aTTiZuKraDykORFKQ+az0QoT+H2a6bB3TJQJkRhAMON+V/lXl2WjNCQJJsapSAwgjBl0PJoSUCZkW0UMYUzPc2kOCNKQx2hqnEpWRRLTdds0Xrv1W5QJyapIYrgixgCCcVuOajkXRVAa8hRfG6eSVZHEcEWMAeTzY6ze33zlNG2anCgTkheTVRGfCqZ53lCNep0mB8hSz7fhRsyufQHk+2tGs6kinIjE5AQh+fZlU0WoYz7XEMyg6xmYwqDlfVy4Its+U8GoT6A0BsMrkRODaNDiLtpZkcQAgXeAZE0M2hMhYxEGg33aVhFjknBC3/CMUwGIF3h9kwpBZMxblq4oDBy1SCL6zrD0bToQREb/YfKguuVDrF5fEjoFxsirXWA/9o1lLDSeUR9A8kevZEQ61mp/uDrGHBkiYxmLfEKITOn7UaXK/80PuUDdaeQQ0/wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABo0lEQVR4Xu3V0UvCUBQGcEcPYogxEERGaYrCVNSNYUmrCArxsf+kHqPH+r9vfOdy9Nwx5822LNgHB+Zg+ON+Z1qplClT5l/GUds5ajTiauKraDykORJKQ5az0QYT+H2a6bD3mygTIjGAYMb9jvIvz4tGaUgcTIxTkRhAGDO48GgKQJmQXRUxhDE9r02DZ+fdbh4oDbmPpsapZFUkMZ12i8ZrNX96SiYkqyKJ4YoYAwim3XRV0z07BKUhD4u5cSpZFUkMV8QYQN7fxur1xVduo05jiTIhtpisivhUMI3TmqpVqzQW++Sox+swFbNvXwD5/JjRpFWEE5EYSxBity9pFaGO5VJDMIOOZ2AOBq1vFwdXVK+fqGDUJ1ASg+GVYIw1aHUT7a1IYoDAZ4BkTQxKIiwxiEMYDPZpV0WMicMJ3cM1TgUgXuDtm2RCkt9oEfMtS1YUBq5axRHdZ1jybcoJIqP/MHlQ3fpuoZ6fYjoFxshXO20/coDIOMZC4xr1ASR/9NIQOUNknM3+cHWMSYMkny4ojrHIR4TIFL4f38+fgZQpsydfGEUPpRDLTwEAAAAASUVORK5CYII=",
     "wiki_name": "Seed box (Closed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Seed_box#Closed",
     "equipment": null,

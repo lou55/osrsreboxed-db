@@ -1,7 +1,7 @@
 {
     "id": 15498,
     "name": "Strength mix(2)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": true,
     "examine": "Two doses of fishy strength potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xu3WS09TURAHcO6nUFoQbHkoFEilSLEPKG2hSIkLIKBiAQmSCJGQogIChmcpxETWxsTErbLXD0BcKD54BSwgoFigDwro9u+cU6iCKxMu1xgnmdw0aXp/nTPnnImK+ndCwM+UPARcssrR6EiCu139N6AEPB7R4ulDHfpbM6QGhZeJgZ48yEFPS7qUSycgLk6B2Nh4DmLZfUsFmTwWiYlnpUAJSEtTIzMzm2MeDWXjXlMq0tLVUKkk6SUBer0ReoMRBkMuDMY8GClzcvTQaLTSgPLzLcg3W2A2W3myzwzHqiYJyGYrQlHRRXR0dKKzswvNzS1UJRPU57KkALEQ+BIVF9sxNVXOl1DCXcZCgMlkht1eAu9aGe8nCTEsBFgsVgLZsbtdx/snOjpGKpSA7OwLvI++7VRie8sBl8ss1Q5jIfBtzvpnJ1SBUPAaXr4o5EiZLPa4UQLUag2s1gKqTj1lI6FuYsNbgrFnZigTko8fxA7CnVAZYe7i+24b9dAdBH02LHpscA8b+BVyTCgBKakZePf2KiGcBOon0ABlL4L+Uvg39Pjw3oL4eOXxgdhumpl2wO9zI+AfRjAwgq3gCD2HeZV8Gxlodeohl58SGyXwm3zseTk8nupfQEMEGkJoyx2p0tpqIuJPJ4gPYoffxMQVfFm9TqBBArkI5NoDDWIr4NirUgoaGjIRExMnFio8/+TmmjAzVYX1rwzUR6A+AvUTaICDQoE2BDYt8K0nYX5WAYUiUTyQTmfEq/EKzM9VYdPbRKAeAvUQqJdAfQQiWKD9AKi+XsOHOBFQ4fnnzevLWPlUg8312/BvdiHg66a+uR/JgK+DqlcXAbFhTaFMwomTsqNECdBqdXx3jY9XYmnBQRVy0kud1MCt9DyYix9reQ8xkCZLi+QzqqPEsAiPGewwZAPZAu2wDe+NQ1lHN34dPq/UUhUdKC8vhGdeya8SNuoeOWi/Qhw0X4PV5XAuL9XAM1eNudlqTE86MPnBgdHRUj5B5uXl8z8i0gQZbmo2/xQUFB5Iq/X3ZN/T6Qxi3v7hZWMvYjPQ4YzM1VTB/dk663yOWJj9YD/+p/k/xIsfQyiylaULdZoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xt2XWU9TURSFOb9CmaQWCspopdjWDgxtGQTiAxBQsYAESYRICDiAgGGeYiLPxsTEV+VdfwDxQVEZAxYQUGToQAF9Xe5zCoXiiyZtr7qTlZsmTe931977ntWQkP+nGA4leTFctoSjzhqLwRbl3wDF8HRYg+ePdehpThFA52QyqaA8beJAzx5p0dmYLGXrGKKi5IiMlAkgro7biQgLj4RCcVYKKIakJCVSU9UC5smAGg/qE5CUrERiomeWgtw6Br3eCL3BCIMhHQZjBowkrVYPlUojDVBWlhlZJjNMJosQ/8zhuGuSAOXm5iEv7xJaW9vQ1taOhoZGcikTyvNpUgDxYqJF+fkFmJoqES082DIOIwlQZqYJBQWFWF8rFvMkIQwvBrPZQkAF2NupFvMTGhohxcrzYlCrL4o5+r5bhp1tK/r7TVJtGC8m1pzPz667FG7Xdbx+lSMgw8Iig+0Sg1KpgsWSTe7UkOoI6hY21wsx+sKE6Ji4YLvExItw111MMPfwY+8+zdBduOy5WLTlYnDIII6QILnEEJ+Qgg/vrxFEEwH1EFAvqQsuRxEcm3pMfDRDJosOlktMbNPMtBUO+yCcjiG4nMPYdg3TdUi4ZN9MQXOTHuHhpwLtEhMn+ejLEthsFUeABghoAO7tQa9La6sKyE7HBNolJl5+4+NX8XX1BgH1EVA/AfXvA/Vh22nddyketbWpiIiICpRLnvyTnp6JmalybHzjQN0E1E1APQTUK4Dczvtwbplh34jF/KwccrkiUC4x6HRGvBkrxfxcObbW6wmok4A6CaiLgLoJiMCcLT5ANTUqEeIC4JIn/7x7ewUrnyuxtXEHjq12OO0dNDcPvXLaW8m9ai8QD2vy6FicOBnmTygGjUYntmtsrAxLC1ZyqIlu2kQD3ExXXy1+qhIzxIFUaRrEnUn0ts1PrfPEDP4y5IFsgTZsc/3mMVXTiV+NLytV5KIVJSU5sM1Hi6OER10/z9GhQwJovhKryx4tL1XCNleBudkKTE9aMTlhxchIkUiQGRlZ4kEClCA9Q83zT3Z2jo8sll/Fv6fTGXxOf78D8aflN+IZ6Li8uZocPMjWaRe0gYI5qKP/4X9PAYTx1MEN/kTHf+OfrZ/SXOegBY+R2gAAAABJRU5ErkJggg==",
     "wiki_name": "Strength mix (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strength_mix#2_dose",
     "equipment": null,

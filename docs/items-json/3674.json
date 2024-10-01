@@ -1,7 +1,7 @@
 {
     "id": 3674,
     "name": "Zamorak plateskirt",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-26",
     "duplicate": true,
     "examine": "Rune plateskirt in the colours of Zamorak.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4Xu3W/0sTYRwH8I1xxGQMBsPRxEbJhLloOVIMTIqKQqIssyz7goWFUYEkhUjRF5G+IYh9oULBEBMpI5CKoqi/7NO9n9vneO65Z253N6MfeuDN3e7Lntc+zz3PLhT691uY9NGdX/cWpifjvfRo7KjI5K0emhg9IsKIhelBmp86T3NPz2lQ6o8IDLdAjAKIo2JmH5+hl5OnHR3jM86pcaI8IcM0dfu4C4UtIBwGPZ/op+m7J8S12OpAuF5G/1gep2+LN/yhGIR9rg6DXj8cECC+thwI931fGqNfK/fo98oDAfKEwZfyr2YQOtWBZu6ftEHY14EWZy44QNivEhR2DAM64ocbnxkkl18XFbT8Yqh2IK4SjgGEa7KREGVKSZtJhqzES1FRH15dskGIJxA/FyoIQ8Ggwv4eyu/uplznPsq2d9Hm1g5qzBcp3ZynVFPOBfr45rIT9O5mcBCO43zrwd6yoIZcQQv6NDtcWxCCoSwHatrRSZlCmwChSsnGLTYKz9zn+as26Of7O9Vi0JwgGYVzxe4+gdm295AAtXQdoOaOPTZIrlIsmRL3APTl7XW/IDRrpmAKqyBgqgGhSon0JooYhrjv68KIX5C1BqFCMgjH08WdDowKwnMko+ozWXvGySAPi6I15cuBNm5vFxi5Ogzi50hGoUo1BzEK51JbizQa30AjZq7FDBo2M1TKoJmzdQadMtNn5ljUoMPRCBnRutqB5CoxqL6lICqBbdKsAKqDmSYnYQ4VtqieCsIqXSUGzZphlUAYnkogHk4VhAr5AsnDhuMNbbtsEBAMUjHrDkJwHDPMDygai7tAHlAWSB02BmGWAYJOZRA6Zgz21wJhDfKwDjlBjOIhYxA6YhB3zBgdiFG+QJhllUCY8gzC1OclgPcBwhaJJpLi9SQwSDdsQcJDhjXI8zqkGzYcx58kXkWxz6+3CFZy/iPGffwPj2uXnl2k1bkrwUC6YZNBOCe/lsggXAcQXuRqAEJzl1sXGSNHBeFdWgZxPICqbW4kB5UECNX5i6C1mhvpzv8WrP0BxiGQbH//CekAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xs3Wi0tTURwH8A25xGQMBsPRxGbJhLloOlIMTIqKQqIss/cDCwujAkkKkaKHSC8EsQcVCoaYSBlBVBRF/WW/7vfc/a7n/nbmnoYHvty7++B89jv3nHt9vvXf/GSO6fyaNz89Heujx6NHVCZu99L4yGEVRsxPDdDc5AWafXbegJJ/omK4A2IUQByJmXlyll5NnPZ0jN84J+NFlYT00+SdYzkobAHhMOjF+EmaundcXYutCYTrdfSvpTH6sXCzPBSDsM/VYdCbR2cUiK/NB8J9PxdH6c/yffq7/FCB0EdrY6OK7F00p+z8rxmETk2g6QcnXBD2TaCF6YseEPYZJHsXze8ZBnTEDzd+M0gvvykStPRysHogrhKOAYRrEjU+imcTsxPxOQllI1EfX192QUhJIH4uJAhDwaD0vl5K7eqhZNdeSnR00+a2TmpIZSjWnKJoUzIH9OntFS/o/a3KQTiO820H+vKC6pNpI+jzzFB1QQiGMh+oaXsXxdPtCoQqRRq2uCg8c1/nrrmg3x/uupiSQToK5zI9/Qqzbc9BBWrp3k/NnbtdkF6lYCSq7gHo27sbRpDsPU9zZgqmsAQBUwwIVQrHNlGNZan7vs8Plwty1iBUSAfheCyzw4ORIDxHOqounnBnnA7SF0XZu2jOlM8H2tjaoTB6dRjEz5GOQpWqDmIUzkW3ZmgktIGG7VwPWjRkZzCbATvnai06ZaffztGARYcCNWQFaqsH0qvEoLqWtKoEthG7AqgOZpqesD1U2KJ6EoRVmjFFgTDDCoEwPIVAPJwShAoVWR20FZA+bDhe377TBQHBIIlZcxCC45hh5YACwVAOiFGyd0NzQHLYGIRZBgg61UHomDHYXw2ENaiEdcgLYhQPGYPQEYO4Y8aYQIwqC4RZVgiEKc8gTH1eAngfIGyRQDiiPk8qBpmGrZLwkGENKnkdMg0bjuMliU9R7PPnLYKVnF/EuI/f8Lh28fkl+jJ7tTKQadh0EM7pnyU6CNcBhA+5KoDQcsttio7RI0H4ltZBnBJAPh8v66tFAvWgkgChOlUBFdskshgsZ+Xa/9Qk0hR5z7pu/wAQNNr4gIla6AAAAABJRU5ErkJggg==",
     "wiki_name": "Zamorak plateskirt",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_plateskirt",
     "equipment": null,

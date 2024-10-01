@@ -1,7 +1,7 @@
 {
     "id": 22226,
     "name": "Extended super antifire mix(1)",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-25",
     "duplicate": true,
     "examine": "One dose of fishy extended super anti-firebreath potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xu2W60uTARTGff+KcnN5XWrqdHO6zV1sblN3kb5b2Ic+hFTabNLSOU2nqdNp5Mw2ZzolC5IykXRRXvoQFREE0Z/ztHPGkCKIwO2N6MDDywsv249znnPJyfl3QsCRRA8B52xSXOk4jYlbyr8BSkAsqMXqrB4BT7XYQKkyEdDytA633QoxSycgP78IMlkBA5H8XZWQSGWQy8vFgBJQVaVEba2GYaLjGvRfrUCVQonKSlG8JMBgMMFgNMFobITRdBampHQ6A9RqrThATU1WNFmssFhsLHonOMqaKECtrXbY7Q709fng8w2gu9udzJIZSlWdGEAUApfI6XTB5Wrj8onYZRQCzGYLwzidTi6XiDAUAqxWWxLIxaUjY+fm5okFJUCjaWAfORxOflKX1dfrxAMiAPIPZae5pZUNTZASiSzbUAKUSjVstmYGIv9QhhobzdBq9SiRl2UfiPxCmUl3GJVtzf+ZgdR1Wl4hWYIScKaims3scBwBkZ6FvvIYUCrrUFBYkj0gau/m5hbOShqorY1a34Wl3k9QqepRXVMLqfRUpqEE3uS0IsjEaaCp3nWEvI8x6YnjydgXBNsPeH0UFsozD0TTmPZXut1nvRuY63+OsG+TtT3/DeHL71BTo0ZpaQXyZPmZgkrdP9RJ/s45BLpiCPdt4YF/B5HBXUSHEknRc5fLdt2+yFu/qChjWRKg15swem0VM54NLPiSfzy0h+XhA6yMHCIeeJvUIZYD+5hy78BzIYbu9ml0uLx8xGUAKnX/3Lu5jejAHtYC7/Fo7ANr/c7HHxS6kUDP+QgGL63ywVZcXIoTJyXHCSXwfKHuCg6sY35sCw9DbxCf2U8e9wes+MyRwoEXcLffR61awx1XVl55nDAUqTODhiEZOjKxw0A/KxZ8hcVgAneHn8J7cYXXCEEpFKrjB0pniIAWJxNYmn7NIojo5C4i4y+xML6NudFN9HSOMHxDg5GhMnTSpkxN9w8Nxd+JvtVodJyhDMBQpMpGQLQ2fiW+q5MZpMFJ32bhtqYf/1P9j8zFd0XTVtgUZVKzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xt2Xa0+ScRjG/X+KUiTxQGoqAqKAHAwBD4DrvTV70YvmKk3DRYpoiabiqaVmKuZpWVuuzLnUVh560aq1trbWx7nivhlprq3agKe6t2vP2J7Bb9d9JCXl/wmBA0keAmecMlxqOImBG5q/AUogHDJgacyEoLeYgdQKhVRQ0TQR0PywETdbVFKmTiAjIwtyuYKBSIGmQqTJ5FAq86WAEigq0qCkRM8wM/16dFwuQJFKg8LCaC0lOXUCZrMVZosVFksFLNbTsEZkNJqh0xmkAaqsdKDS7oDd7mTRZ4Ij1yQBqqmpRW2tC+3tfvj9nWhubom4ZINGWyoFEIXgFLndHng8dZy+WJcRjCRANpudYdxuN6dLQhgKAYfDGQHycOqosFNT06VoeQoBvb6c68jlcvOTuqyszChd/RAA1Q+5U1VdwwVNkGlp8mS7JKDR6OB0VjEQ1Q85VFFhg8FgQo4yL9kuCa4XcibWYZS25cAnBtKVGniFJMklgVMFxVzMLtcBEOnpyBceAxpNKRSZOclySXB7V1VVsysxoLo6an0P5to+QqstQ7G6BDLZiUS7JHiT04qgIo4BDbWtYMT3CIPeRTzu+4xQ/R6vj8xMZaJdEjyNaX/F2n3Mt4rxjmeY8K+xNia/YuLiW6jVOuTmFiBdnpEol6L3D3VSoHEcwaYwJtrXcT+wiemuLcx0b0dEzy1O29XaWd76WVkJc0nAZLKi98oSRr2rmPJHfrh7B/O39rDQs4/F4JuI9jEf3MVQyya858Jorh9Gg8fHR1wCXIreP3evb2CmcwfLwXd42PeetXL7ww8aubaN1rPT6LqwxAdbdnYujh1PiyeU4PlC3RXqXMFk3zoejLzG4uhu5LjfYy2OHmgi+Bwt9fdQotNzx+XlF35PW5xSFz0zaBhSQU8PbDLQUYVDLzEb2sadW0/gO7/Aa4SgVCptvOvowCECmh3cxtzwKxZBzAxuYbr/Bab6NzDeu4bWxh6GLy+3MFSCTtpoUdP9Q0PxV6J39XojOxTndMUimjYCorXxM/FdHXGQBie9e/i2jjNMLA7/h/89JRAmGrEf+BMd/Y5/Nr4B1QeL48zde1EAAAAASUVORK5CYII=",
     "wiki_name": "Extended super antifire mix (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Extended_super_antifire_mix#1_dose",
     "equipment": null,

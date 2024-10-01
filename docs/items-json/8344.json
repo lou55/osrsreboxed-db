@@ -1,7 +1,7 @@
 {
     "id": 8344,
     "name": "Celestial globe",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUElEQVR4Xu2VTWsTURSGO8uEYUJwMExKG4yoSAuhYqvFGiumWhrB+okUkVIpoiJCQQRRBBf9D64VF4pIl+5c+gsEd+JCcO3K1ZH3DO945iZmTNAEZA48zEcy931y7p2bsbG88sorr37LE/fOiAoinnx5E+hxxGKelH1fonJZ+fDMl69vKTb08iQoFFRkPAyVWqWigiPoVBwYlkoqYYHYx+e+rJ2dG5aUJ83ZfRqG7rhC4POrQNbPHx2e0GqrkRKqR1ECrvHZ66fF4Ql92wmkPV9Vzi2My4XmhHL55KRstOuys13ULv0jIS7QXyDsxaOCYtfOj/fV5D7WUTUsmOcGrnQ4BmXIZKWoIIznWCvLRyKZna7J93eB1Ku+HJgI5PbaieQ5XKfH/ePydEAOxMFcNq8syNSeQLl3/VRyjj0I0wautmrS2FuSQ/vLCsbieR9yXiqYQQQBYGu9JSvNqSSAfHrpy9zBXcqTO22Znw5THG/sTrE4E78AroUpr6sAYTDCcGQ4gSjD8R0GozsUsCwdjrKFugkQ++txdDtw/8ZSRwcAhChgwdrLFOomQFwBdwoebJ7p6ACAEAUs2DYyhfoRcKfg4c3ljg4A+5IQ7mGZQgznvPcS6DYFFgbbTdSCzzOFLp6eUTjvvcLxHdt+gvtuOHdzfIYjtgu8BBlCqHh/wL81sKE23P7634VbCYD9CesMMMdN71HxA9gENy4dS817r3BujIAi2CQf31rRt3MAEbfiAdDiu9cWE3BN0HqCV5+gE5DY3lr9GyJuccBByes/r5+kgaRsWEt9GgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACa0lEQVR4Xu2VTWsTURSGc5cJw4TgYJiUJjWiUlqIFRst1lgx1dII1vqBlCKlUkRFhIIIoghd9D90rbhQRLp059JfUOiudCG47qqrU94znPHMTZoxqU02c+BhZpKZ+z45985NKpVUUkkl1WkZsj/pU0HE0O43l499FjOUcxzycznm14ZDv7+LWM/LkJtOs8iA5zGlfJ4F+9CpINDLZllCA7Gtjw4t3K72SspQbfwMh6E7thDY+eLS0t3LfM/5oaHjljI0V69EhMq+H4JrfPd1LdM7oT+bLjUmCsydyQGarw0yD64XablRps31DHfpmIRkgf4FYZ/epRm9dvZ/FsLPsY4KXlo913VFwzGohBTzGQZhco61MnPJp/HREu39cKlccOjcoEvPF66Fz+E6Ou4/l+EBZSAZzGbl4SSNnHKZV49vhOfYgzBt4FG9RJXTWbpwNsdgLDnvQM5EgiVIQABYXarTbG0kDBC2PztUHT7BfHjRoIlRL8LVyskIU2PBC2BbqDItBQQJRhiOEi5AVMJxjwSjOyKgmb7os1CbhW9aCgj61+Nod+D1k+mmDgAIiYAGay9WqJWAYAvYU/Bm5VZTBwCERECDbSNWqBMBewrePp1p6gDQL4kge1iskITLvLcTaDUFGgnWm6gG38cK3bs5xsi8twvHPbr9Aj63w2U3x3c4YrvASxAjhAr2B/xbAx2qw/WvPyxcSwDsT1hnQHIgEyOUSgU3BA9gE1y+fyUy7+3CZWMEIoJN8v2zWX47bZFYGV1aDC1+uTgVgmsBrRfw6gvoBCTWV+eOJmKXFuuW/yJilx60G+zxkjpKHQDAZtxVaDGVzAAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

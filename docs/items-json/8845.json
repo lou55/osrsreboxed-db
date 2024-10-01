@@ -1,7 +1,7 @@
 {
     "id": 8845,
     "name": "Iron defender",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-13",
     "duplicate": false,
     "examine": "A defensive weapon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWUlEQVR4Xu2W7WoCMRBFzQtYpKJUqcVKLX6gtVirWGp/9f3faOTOEJLormSXzUehB/JHgnOSOzu7rdbfRJGsLFD0vlrRerGoIBXsAIpFIIS1nM08Cinqdbv0OBh47K2FnPbjbc1S8+n0RiGR0at8XyOImBufXVBk7jsdZwWWAsVi+lYiy9iICKSKZO7a7fhCP8cjfW42XPhSJonQ937PT55udDS+vrnIMkCKvozHLGQec+kvV+xyNY6i39OJbwQiz6MRvU4mVjEjhj16ZKDf/GZZJSQqFDF/XnZy+d0WKt5XG0Vfux03MmQQl18BO8bGEJnDdssnRUSIy3/e+OyphAjh+tHET8NhjNdDGW5UaOKHfj+VDFBXUSWX0W96RJVcxo4qoQwwUfk/4sEwUblTOBkyYQOM+joo7ptMogIy6rOK6vbHfDRMVBnIgCBv5brYn6DZkJXMP4WcAeeUDDlmvaoaAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABe0lEQVR4XtWW3W7CMAyFyQuA0NDQQGMwBBNj4mcCxsQEXO393yjTiWXiphSlpW2yI+Wiklt/8XGcNhr/U0rTikJKfy4Wejmf54CqbAPKgAAI62M280ik9GOno597PY/YQqLdbldLA/U+nd5IRDC88LwaDjNi7xB9lMCS9kkwgnlotxMrG74E3QLjqrgweKeSKklJMEBdg2k1mxcg9/2KpPT5cNBf67VJ7MIEATru9+bkcaOj8blytdllRUkno5EBssec+kuCpVfpUvr3dDIVAcjrYKDfxuNLVSQYYnhkoN/8ZlkukVVIYj+etkiCSSA37k4p/bPbmUYGDOySCa4lYTC2MSuugAjme7MxO4VFsMt/+JUKAxEQyo8mfun3E9eDTyKfGE8lrUITP3W7uWBKlkpZFRyGb3pYFRxGWhUQBrJWuUfcjaxB1io5hQPBQDRheRoHh0HfuFa5UTWKRn1UVvE/TnAYtioCGKiSW7mo7C9oBDCsqGBIUcHEoD+EfVsSlkHV4AAAAABJRU5ErkJggg==",
     "wiki_name": "Iron defender (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_defender#Normal",
     "equipment": {

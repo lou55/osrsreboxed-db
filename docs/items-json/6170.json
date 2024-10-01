@@ -1,7 +1,7 @@
 {
     "id": 6170,
     "name": "Circular hide",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-01",
     "duplicate": true,
     "examine": "A toughened chunk of dagannoth hide.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjUlEQVR4Xu3W/0sUQRjHce/vCTqMzCQzQerXiqKioqioKCKIohAp+iJSGYKYRoWCISZSRhAVRVF/2cR7ls/y7OzsuXO3Rj808LBzs3O3r51n9rnt6/v3W8vFI3Z+y1vLTU8ccU/GD/uYunPITd466EOIldlzbnnmrFt6diaCCm+iZ3gGEgqQIsQsPj3tXkydLFyYz5wLo4hKQrbczN2jJRRHIAqB5idPuNn7x/xcjjEQ8y36x/qE+7Z6szuUQPS1OgK9enzKgzS3CsT3vq+Nu18bD9zvjUcelIThR3XXAnHRGGju4XH/48ylHwOtzp0vgOjXBLUKaQChzc1nC7IpGB3d449VoPWFi82BtEqMCcS8oaGdPkZGdnvQ2NjeHBiC3r+8lIOIJJD2RQjizgExZ3Cw32OGh3d5EJ8BHdi/z0eI+vD6chH09nbvIMaFsSD6QgkUoj4uXmkWRFgMAUYrpJQJQ18pJMWfl6/loJ/v7tXF0IogoRgfGGiXVgeMBQkVgr68ud4tiJZtTJ6YzUDhCoUgob6u3OgWlNUgVkggxnb0by+B7CpVgVQOLCihKGaPfB2QXSUAXNjuoy0DqQoLZEMbWysUgjTWGEgogWwIFCuOdnVCEFW6JoaWPWGpoNiT1illXYFs2hhvt7flYUGxTR1GoyCiClT1lIUYqrQFJaAyUJi2GCisRTEQ3+O149PS1RxEDUqoQ0VQVdrs/um0Qo2AeMpiIP2xEpuBNI83g8ZAYdoY5z+JCzAvBhJEcwGtPb9QAFGDkutQLG0WRF8Xt0FV53u8bmhuI6BY2iyIc/a1hL7eDJgHSOnqEUQr33ksLMZGCOJd2oIUCaC6rYxU2P3zF0GdWhlZjv+tt/YH2QHFr9HOgCcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrUlEQVR4Xs3W8UsUQRQH8Lv/5H4POi+67PAy4chfKwoVlaJEo4hAlEKkqBSxFEG0okLBEBMxRYiUpNC/bOQ7y3d9++7tueut4sDj5uZmnc++mX1uLnfxW97ZYf1+5i3vZsbvuQ9jd31MvbrjJkdv+yBidf6RW5l76JZnHxgofRNNwwMQUQAxNGbpY7/7MtUbWRjf8ZuOKCoVMu/mXt+vQ+ETEAZBnyZ73PzbLj8XnxYI8yX638a4+7s2cjoUQegzOwR9m+7zIM6NA+G6/fUxd7D1zh1uTXgQ1mgpFHzo1VUL0s67JgiLWqCF993+j2Mu+hZobeFxBIQ+QXp11fKRbQCChxvfJUhuQUdHm/+MA218HswOxCxhjCDMq1Su+mhvv+5BtdqNEKhBv74OhSBEKhDPhQbhzgHCnNbWksdUq9c8CN8B6rx104dGbX9/EgX9fNk8COPESBD6RBGkUTtLT7MFISQGAQwzxC0jBn1uIbb4z8rzEPR/802ISQ0iCuPlcrEuO8BIEFEatPvjhQnSq8e04GDiiTkJpDOkQUTtrQ6fFhTUIGSIIIxdKV2uA8ksxYFYDiRIFkW9umrBI58EJLMEABaW5+jMQKzCBMngwWaGNIhjmYGIIkgGQVZxlNnRIFRpYhKB8ISlBVlPWqMtS5gdtGOQ3DaMF4uXwpAg61DryBSEiAPFPWUagyotQUTp1Y0WgPS2WSBdiywQrsNrx+/lZyEINShFHYqC4rZNnp9GGcoEhKfMAvEfK+IkEOfhzSAzkN42jON/EhbAPAtECOcCtL44EAGhBqWuQ9a2SRD6XFwGqjquw+sG52YCsrZNgvCbfC1Bn28GmAcQt6tJEFr9nVshMTI0CO/SEsRIAcrlWNYbhQbKkOcnE1DSppFJsIzjuefUNNIKfc2FbkcjFBBKLkpngAAAAABJRU5ErkJggg==",
     "wiki_name": "Circular hide",
     "wiki_url": "https://oldschool.runescape.wiki/w/Circular_hide",
     "equipment": null,

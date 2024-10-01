@@ -1,7 +1,7 @@
 {
     "id": 1197,
     "name": "Mithril kiteshield",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A large metal shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABv0lEQVR4Xu3VX0sCQRQF8F166kUQIsilFhON1tAUoh4k6imIHoK+/2eZOjMe5+444/4btQcP3CdFf565OybJKVGTKjP/IqkaXyWqyJI16qgwgxkOX/QANc/Pjgkrg0ajlR6glrcHh6Uqv7QYCRqPX3VbQK3uDwbzt0MQZnL3rlHPEzMWFh2XqkE/3A6HO8UjJKzcWhRcdTsSNJt9qfnjtx4XFgEXbkeCgPGBMIvFjx4X9jYlrlHC7bggYkIgOQDZPaud3e0Q5LZTBWqJQcrtVIGmD5+VoPKSN4ppB3cPUIS5INlOFagT5qJnMByiMD5QUXx4Qe5R2Ru9UUw71zdLPXn+pNuRKA7bqQKVL8tGMe1k2XyDIch9quRFyPGBOhwV8tfOYLoTFMLwhsYQxGbwWguQaUeC5JFJEAE4Jh4VMXKAabk3yBrUt0fmgnwYd3ckpuXeMKnqnSdbqKYguch4fwcQst0SQSGMRMlF7tiOjEX5QC7E1xAwuBYigRB7UwOEDw+1Q4zcoYjtMLYloOq0I0GR22FsSwC5j7RvOj7mdWJQ8q9CLrcLwuAH7BGEGNRmp8SfrQ+4ZwyDL6k7p+w/vyCdy2d0Wj5YAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xu3WzUtCQRQF8Pdo1UYQIkipp4lGGn5B1EKiVkG0CPr//5apO9NxjtcZ36da0IWzKu3XmftGk+R/Gp3UuPyKSc3wIjHjbvKDOirMYfr9RxtBzbKTY8I2QYPBykZQy+uDw1KTnXsMg4bDJ9uWoFa3B4OF2wFIMrp5saiHkYuHNY5LTacdbwfBTuEIAdtsrRFcfjsMmk7fzWz+YaNhDeDi7TBIMCGQZLH4tNGw5wlwpSbejgYBEwNxBIQ9m/d6RVG72wFIt5MH0phSIG4nDzS5e8sF8ZKXxkg7cvcICjAN4nbyQLUwZy2HQYCShEDj8WsQpI8KN3oJjIxr5/JqaZNl97YdRiFoJw/El2Wldrrd2RoDkH6q+CJEQqAaRyXz3U5nshMUw+CGlgCEZuRnlY5K2mEQHxmDAJBjwlEBwxEM7001UNsfmQaFMHp3GFNxbzCpaZ0mW6iyIF5k+f0KR8Wz3RJAMQyjeJFrtsPjUSGQhoQaEoxcCzXb4fE3tYDkzWPtAMM71GA7GN+SoIq0w6CG28H4lgSkH+lQaj7mRcah+KOCl1uDJPIP7KEdHoda7xR92IaAe2yHh78H784BMG7wh4pEv/bPzxeGlQes5u0rhAAAAABJRU5ErkJggg==",
     "wiki_name": "Mithril kiteshield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_kiteshield",
     "equipment": {

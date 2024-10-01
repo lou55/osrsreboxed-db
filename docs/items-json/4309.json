@@ -1,7 +1,7 @@
 {
     "id": 4309,
     "name": "Ham gloves",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-10-01",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-22",
     "duplicate": true,
     "examine": "HAM gloves as worn by the Humans Against Monsters group.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xu3W60sUURjH8V2GYehVLwqCoCJCAokKiS4gYdCF3tj9fsPCQqEXklRihZXYxRDELCoUAjGRMoJeRFHUX3bie5bf9szZ0XbcKXrRgYeZPXNm5zPnPM/ZLZX+/VZ22ZF1/Y+3shvuP+Ie9R3yMXTjoBvsPeBDiKnRDvd65IKbfHI+AxW+RMPwCkgoQIoQM/H4rHs+dDr1YD5zLYw0Khey7EZuH61BcQSiEGh88KQbHTjux3LMAjHeor/O9rvP09cWhxKIc82OQC8fnvEgjZ0PxH1fZvrc97m77sfcfQ/KheFL9dYC8dAs0Ni9E1UQ51mg6bGLKRDndYLKqWXgQUpuPocgHg5Cy8u5lsWCZp91FgfSLNGXBdJMEtz/INnrxpe0p2DvXlyugohcIOVFCOLhIcgmNPf2Jq3uVtLmUcPJPn+k//2rK2nQm+uNg+gHJJRmUmO4tyfZUUUNJrvdQLLLn3OtUBABwILChObeq/H2FOpmstOf08d1MN/e3qkXQ0uDLErlG4Js/nTFW1MBBKSdoZwgWiUZedhCoKyEPhdvdqfije5YvMFHZ7zFwxoAVfYgZigEcc2CwoQGA+Jw3Ozao/U+hLKgHJtipeRDkGbMlnJWANgfNfnYE63zwTkzVhiIPuUCyUmSkqxUjypIVaTYFq1ybdFa1xqt9gG0EBBBH9POW7IkwnHk7TviFj+GZSU4by4tdy3RSg/jCE4gduk6MbRKhYUgTT1vCoqcIE/o46gqAqR7mkrLPGxTtMLD7AwtCiQUfXpbBbMlEAHSgqjGykN/xaepnmJAQq0pLU2FQMyerST7S08lUpEfJrpSoByoCihcNvsLrgDFEgLSUmo3tiD+dnyc7K6C2INy7ENpkK02+vQAjowlT1TeKm07Q8xOwyCq7HcgHqZZI3FVRexZjLPLVRgoXDb6Lcju0MIIpLGAZp5eSoHYg3LvQ1nLZkGc298wqsuCbP4UAspaNgvimv1bYkGMs/nTIIiWrqb5wmJshCD+S1uQIgeo3laLVNj8+YughVotsjb+t8baTwZ85C4z8QNoAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xs2W+0sVQRTH97IsSz/1Q0EQVEZIIFEi0QMkDHrQL/Z+v7CwUOgHSSqxwkrsYQhiFhUKgZhIGUE/RFHUXzbxmcv3enZa7d7uFh74MrOzM5zPnDlndqNo6VvJ5Svv/T+3khvuP+oe9x32Grp5yA32HvQSxNRoh3szctFNPr2QAxVuom7wMpCgAJJCmIkn59yLoTMZxzzzLlQWqibIkhu5c+w3KFpAJAGND55yowMn/FzaPCDmW+hvs/3uy/T1v4MSEH1FR0CvHp31QJq7EBDrvs70uR9z99zPuQceCB/NDQ1eoffAymHXrgWE0zygsfsnK0D084Cmxy5lgOgLKPQeWClzDDhScvMcAuEcCB0vfR2LBZp93lkckKLEWB6QIolY/zDd58aXtWfA3r+8UgFCNQEpL0IgnIdANqFZ25u2uttpm4caTvf7lvEPr69mgd7eqB+IcYAEpUhqDmt70p0VqMF0jxtId/s+7woFQgBYoDChWXst2ZGBupXu8n3GeA/M93d3KzA1A1kolW8IZPOnK9mWESBA2ghZoND7AlZORpwtBpSX0OeTZnc62eyOJ5u8OpOtHqwOoPIdRIRCIN5ZoDChgQHiSNLk2uONXoKyQPZSDL0HVi75EEgRs6WcJwAOxI1ee+MNXvSJWGFAjCkXSE6SlGSlelRBqiJpe7zGtcXrXWu81gvQQoAQY4SdXXIkgqNl9x1Ji5/DsSL6TdFK1xKv9mC0wAmIW1owVQFROSGQQs9OgSInyBPGaFVFAGlNY7TCg22JV3kwG6Eqo4PNAwmKMe1WIloCQkBaIKqRZ6vPUz3FAAlqXbQ8IwERPVtJ9ktPJVKRHye6MkCCCr3nWBkoPDb7BZeA4ggB0lHqNrZA/HZ8muyuAHEH1XAPZYFstTEmB7TMJU9U3iptGyGiUzcQVfYnIJwpaiSuqog7i3n2uAoDCo+NcQtkb2jBCEhzAZp5djkDxB1U8z2Ud2wWiL79hlFdFsjmTyFAecdmgXhnf0ssEPNs/tQJhGWraSFZGKsQiH9pCyTVABRFutYXUwhoZfOnEKBqLYSsBlaan/ufLITMU7hmSdsvUIAuyZtIdOcAAAAASUVORK5CYII=",
     "wiki_name": "Ham gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ham_gloves",
     "equipment": null,
