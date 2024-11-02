@@ -115887,7 +115887,7 @@
         "id": 20406,
         "name": "Dragon scimitar",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "20407": {
         "id": 20407,
@@ -115947,7 +115947,7 @@
         "id": 20424,
         "name": "Black d'hide chaps",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "20425": {
         "id": 20425,
@@ -115983,7 +115983,7 @@
         "id": 20431,
         "name": "Ancient staff",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "20432": {
         "id": 20432,
@@ -116841,13 +116841,13 @@
         "id": 20576,
         "name": "3rd age robe top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "20577": {
         "id": 20577,
         "name": "3rd age robe",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "20578": {
         "id": 20578,
@@ -116871,7 +116871,7 @@
         "id": 20581,
         "name": "Mithril gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "20582": {
         "id": 20582,
@@ -154233,139 +154233,139 @@
         "id": 27157,
         "name": "Dragon knife",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27158": {
         "id": 27158,
         "name": "Mystic robe top (dark)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27159": {
         "id": 27159,
         "name": "Mystic robe bottom (dark)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27160": {
         "id": 27160,
         "name": "Mystic robe top (light)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27161": {
         "id": 27161,
         "name": "Mystic robe bottom (light)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27162": {
         "id": 27162,
         "name": "Wizard boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27163": {
         "id": 27163,
         "name": "Guthix halo",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27164": {
         "id": 27164,
         "name": "Zamorak halo",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27165": {
         "id": 27165,
         "name": "Saradomin halo",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27166": {
         "id": 27166,
         "name": "Ghostly hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27167": {
         "id": 27167,
         "name": "Ghostly robe",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27168": {
         "id": 27168,
         "name": "Ghostly robe",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27169": {
         "id": 27169,
         "name": "Berserker helm",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27170": {
         "id": 27170,
         "name": "Infinity boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27171": {
         "id": 27171,
         "name": "Tormented bracelet",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27172": {
         "id": 27172,
         "name": "Necklace of anguish",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27173": {
         "id": 27173,
         "name": "Amulet of torture",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27174": {
         "id": 27174,
         "name": "Elder chaos top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27175": {
         "id": 27175,
         "name": "Elder chaos robe",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27176": {
         "id": 27176,
         "name": "Elder chaos hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27177": {
         "id": 27177,
         "name": "Fremennik kilt",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27178": {
         "id": 27178,
         "name": "Spiked manacles",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27179": {
         "id": 27179,
         "name": "Rangers' tunic",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27180": {
         "id": 27180,
@@ -154389,25 +154389,25 @@
         "id": 27183,
         "name": "3rd age mage hat",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27184": {
         "id": 27184,
         "name": "Ancient godsword",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27185": {
         "id": 27185,
         "name": "Rune defender",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27186": {
         "id": 27186,
         "name": "Zaryte crossbow",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27187": {
         "id": 27187,
@@ -154437,19 +154437,19 @@
         "id": 27191,
         "name": "Unholy book",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27192": {
         "id": 27192,
         "name": "Opal dragon bolts (e)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27193": {
         "id": 27193,
         "name": "Ancestral robe top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27194": {
         "id": 27194,
@@ -154461,43 +154461,43 @@
         "id": 27195,
         "name": "Inquisitor's great helm",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27196": {
         "id": 27196,
         "name": "Inquisitor's hauberk",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27197": {
         "id": 27197,
         "name": "Inquisitor's plateskirt",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27198": {
         "id": 27198,
         "name": "Inquisitor's mace",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27199": {
         "id": 27199,
         "name": "3rd age range top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27200": {
         "id": 27200,
         "name": "3rd age range legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27201": {
         "id": 27201,
         "name": "3rd age range coif",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27202": {
         "id": 27202,
@@ -170593,31 +170593,31 @@
     },
     "30000": {
         "id": 30000,
-        "name": "Pre-pot device",
+        "name": "Chugging barrel",
         "type": "normal",
         "duplicate": false
     },
     "30001": {
         "id": 30001,
-        "name": "Pre-pot device",
+        "name": "Chugging barrel",
         "type": "placeholder",
         "duplicate": true
     },
     "30002": {
         "id": 30002,
-        "name": "Pre-pot device (disassembled)",
+        "name": "Chugging barrel (disassembled)",
         "type": "normal",
         "duplicate": false
     },
     "30003": {
         "id": 30003,
-        "name": "Pre-pot device (disassembled)",
+        "name": "Chugging barrel (disassembled)",
         "type": "noted",
         "duplicate": true
     },
     "30004": {
         "id": 30004,
-        "name": "Pre-pot device (disassembled)",
+        "name": "Chugging barrel (disassembled)",
         "type": "placeholder",
         "duplicate": true
     },
@@ -171536,6 +171536,888 @@
     "30159": {
         "id": 30159,
         "name": "Butler's tray",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30160": {
+        "id": 30160,
+        "name": "Picture map",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30161": {
+        "id": 30161,
+        "name": "Seed packets",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30162": {
+        "id": 30162,
+        "name": "Beige pumpkin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30163": {
+        "id": 30163,
+        "name": "White pumpkin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30164": {
+        "id": 30164,
+        "name": "Yellow pumpkin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30165": {
+        "id": 30165,
+        "name": "Orange pumpkin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30166": {
+        "id": 30166,
+        "name": "Red pumpkin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30167": {
+        "id": 30167,
+        "name": "Dark green pumpkin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30168": {
+        "id": 30168,
+        "name": "Powder grey pumpkin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30169": {
+        "id": 30169,
+        "name": "Beige pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30170": {
+        "id": 30170,
+        "name": "Beige pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30171": {
+        "id": 30171,
+        "name": "Beige pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30172": {
+        "id": 30172,
+        "name": "Beige pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30173": {
+        "id": 30173,
+        "name": "Beige pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30174": {
+        "id": 30174,
+        "name": "Beige pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30175": {
+        "id": 30175,
+        "name": "Beige pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30176": {
+        "id": 30176,
+        "name": "Beige pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30177": {
+        "id": 30177,
+        "name": "Beige pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30178": {
+        "id": 30178,
+        "name": "White pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30179": {
+        "id": 30179,
+        "name": "White pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30180": {
+        "id": 30180,
+        "name": "White pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30181": {
+        "id": 30181,
+        "name": "White pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30182": {
+        "id": 30182,
+        "name": "White pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30183": {
+        "id": 30183,
+        "name": "White pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30184": {
+        "id": 30184,
+        "name": "White pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30185": {
+        "id": 30185,
+        "name": "White pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30186": {
+        "id": 30186,
+        "name": "White pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30187": {
+        "id": 30187,
+        "name": "Yellow pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30188": {
+        "id": 30188,
+        "name": "Yellow pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30189": {
+        "id": 30189,
+        "name": "Yellow pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30190": {
+        "id": 30190,
+        "name": "Yellow pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30191": {
+        "id": 30191,
+        "name": "Yellow pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30192": {
+        "id": 30192,
+        "name": "Yellow pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30193": {
+        "id": 30193,
+        "name": "Yellow pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30194": {
+        "id": 30194,
+        "name": "Yellow pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30195": {
+        "id": 30195,
+        "name": "Yellow pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30196": {
+        "id": 30196,
+        "name": "Orange pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30197": {
+        "id": 30197,
+        "name": "Orange pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30198": {
+        "id": 30198,
+        "name": "Orange pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30199": {
+        "id": 30199,
+        "name": "Orange pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30200": {
+        "id": 30200,
+        "name": "Orange pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30201": {
+        "id": 30201,
+        "name": "Orange pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30202": {
+        "id": 30202,
+        "name": "Orange pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30203": {
+        "id": 30203,
+        "name": "Orange pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30204": {
+        "id": 30204,
+        "name": "Orange pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30205": {
+        "id": 30205,
+        "name": "Red pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30206": {
+        "id": 30206,
+        "name": "Red pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30207": {
+        "id": 30207,
+        "name": "Red pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30208": {
+        "id": 30208,
+        "name": "Red pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30209": {
+        "id": 30209,
+        "name": "Red pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30210": {
+        "id": 30210,
+        "name": "Red pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30211": {
+        "id": 30211,
+        "name": "Red pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30212": {
+        "id": 30212,
+        "name": "Red pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30213": {
+        "id": 30213,
+        "name": "Red pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30214": {
+        "id": 30214,
+        "name": "Dark green pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30215": {
+        "id": 30215,
+        "name": "Dark green pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30216": {
+        "id": 30216,
+        "name": "Dark green pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30217": {
+        "id": 30217,
+        "name": "Dark green pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30218": {
+        "id": 30218,
+        "name": "Dark green pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30219": {
+        "id": 30219,
+        "name": "Dark green pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30220": {
+        "id": 30220,
+        "name": "Dark green pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30221": {
+        "id": 30221,
+        "name": "Dark green pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30222": {
+        "id": 30222,
+        "name": "Dark green pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30223": {
+        "id": 30223,
+        "name": "Powder grey pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30224": {
+        "id": 30224,
+        "name": "Powder grey pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30225": {
+        "id": 30225,
+        "name": "Powder grey pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30226": {
+        "id": 30226,
+        "name": "Powder grey pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30227": {
+        "id": 30227,
+        "name": "Powder grey pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30228": {
+        "id": 30228,
+        "name": "Powder grey pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30229": {
+        "id": 30229,
+        "name": "Powder grey pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30230": {
+        "id": 30230,
+        "name": "Powder grey pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30231": {
+        "id": 30231,
+        "name": "Powder grey pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30232": {
+        "id": 30232,
+        "name": "Scarecrow shirt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30233": {
+        "id": 30233,
+        "name": "Scarecrow shirt",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30234": {
+        "id": 30234,
+        "name": "Halloween scarecrow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30235": {
+        "id": 30235,
+        "name": "Halloween scarecrow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30236": {
+        "id": 30236,
+        "name": "Scarecrow",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30237": {
+        "id": 30237,
+        "name": "Beige pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30238": {
+        "id": 30238,
+        "name": "Beige pumpkin (disgusted)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30239": {
+        "id": 30239,
+        "name": "Beige pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30240": {
+        "id": 30240,
+        "name": "Beige pumpkin (silly)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30241": {
+        "id": 30241,
+        "name": "Beige pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30242": {
+        "id": 30242,
+        "name": "Beige pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30243": {
+        "id": 30243,
+        "name": "Beige pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30244": {
+        "id": 30244,
+        "name": "Beige pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30245": {
+        "id": 30245,
+        "name": "Beige pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30246": {
+        "id": 30246,
+        "name": "Beige pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30247": {
+        "id": 30247,
+        "name": "Beige pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30248": {
+        "id": 30248,
+        "name": "White pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30249": {
+        "id": 30249,
+        "name": "White pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30250": {
+        "id": 30250,
+        "name": "White pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30251": {
+        "id": 30251,
+        "name": "White pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30252": {
+        "id": 30252,
+        "name": "White pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30253": {
+        "id": 30253,
+        "name": "White pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30254": {
+        "id": 30254,
+        "name": "White pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30255": {
+        "id": 30255,
+        "name": "White pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30256": {
+        "id": 30256,
+        "name": "White pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30257": {
+        "id": 30257,
+        "name": "Yellow pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30258": {
+        "id": 30258,
+        "name": "Yellow pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30259": {
+        "id": 30259,
+        "name": "Yellow pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30260": {
+        "id": 30260,
+        "name": "Yellow pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30261": {
+        "id": 30261,
+        "name": "Yellow pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30262": {
+        "id": 30262,
+        "name": "Yellow pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30263": {
+        "id": 30263,
+        "name": "Yellow pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30264": {
+        "id": 30264,
+        "name": "Yellow pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30265": {
+        "id": 30265,
+        "name": "Yellow pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30266": {
+        "id": 30266,
+        "name": "Orange pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30267": {
+        "id": 30267,
+        "name": "Orange pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30268": {
+        "id": 30268,
+        "name": "Orange pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30269": {
+        "id": 30269,
+        "name": "Orange pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30270": {
+        "id": 30270,
+        "name": "Orange pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30271": {
+        "id": 30271,
+        "name": "Orange pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30272": {
+        "id": 30272,
+        "name": "Orange pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30273": {
+        "id": 30273,
+        "name": "Orange pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30274": {
+        "id": 30274,
+        "name": "Orange pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30275": {
+        "id": 30275,
+        "name": "Red pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30276": {
+        "id": 30276,
+        "name": "Red pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30277": {
+        "id": 30277,
+        "name": "Red pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30278": {
+        "id": 30278,
+        "name": "Red pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30279": {
+        "id": 30279,
+        "name": "Red pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30280": {
+        "id": 30280,
+        "name": "Red pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30281": {
+        "id": 30281,
+        "name": "Red pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30282": {
+        "id": 30282,
+        "name": "Red pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30283": {
+        "id": 30283,
+        "name": "Red pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30284": {
+        "id": 30284,
+        "name": "Dark green pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30285": {
+        "id": 30285,
+        "name": "Dark green pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30286": {
+        "id": 30286,
+        "name": "Dark green pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30287": {
+        "id": 30287,
+        "name": "Dark green pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30288": {
+        "id": 30288,
+        "name": "Dark green pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30289": {
+        "id": 30289,
+        "name": "Dark green pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30290": {
+        "id": 30290,
+        "name": "Dark green pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30291": {
+        "id": 30291,
+        "name": "Dark green pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30292": {
+        "id": 30292,
+        "name": "Dark green pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30293": {
+        "id": 30293,
+        "name": "Powder grey pumpkin (disgusted)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30294": {
+        "id": 30294,
+        "name": "Powder grey pumpkin (silly)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30295": {
+        "id": 30295,
+        "name": "Powder grey pumpkin (evil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30296": {
+        "id": 30296,
+        "name": "Powder grey pumpkin (angry)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30297": {
+        "id": 30297,
+        "name": "Powder grey pumpkin (depressed)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30298": {
+        "id": 30298,
+        "name": "Powder grey pumpkin (shocked)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30299": {
+        "id": 30299,
+        "name": "Powder grey pumpkin (sad)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30300": {
+        "id": 30300,
+        "name": "Powder grey pumpkin (happy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30301": {
+        "id": 30301,
+        "name": "Powder grey pumpkin (laughing)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30302": {
+        "id": 30302,
+        "name": "Torva full helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30303": {
+        "id": 30303,
+        "name": "Torva platebody",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30304": {
+        "id": 30304,
+        "name": "Torva platelegs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30305": {
+        "id": 30305,
+        "name": "Arclight (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30306": {
+        "id": 30306,
+        "name": "Arclight (inactive)",
         "type": "placeholder",
         "duplicate": true
     }

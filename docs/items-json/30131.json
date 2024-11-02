@@ -1,7 +1,7 @@
 {
     "id": 30131,
     "name": "Prayer regeneration potion(2)",
-    "last_updated": "2024-10-01",
+    "last_updated": "2024-11-02",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-09-25",
     "duplicate": false,
     "examine": "2 doses of Prayer Regeneration potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZUlEQVR4Xt2X60uTYRjGfb6VLHPMFCfOUyqahzkPMzVUUjOPzOVh85w2tXmep2mIhEIYkWFFIPXFNKGYS8oydfkhkgjUDUHoa18r/4Qrn2fuVecBgvkOuuFCBmPvb9d13TfOxeX/GIKDcuoQ3FIFoThXgswUb8gihM6GIpgeT8HkWDJTR30YyhUBzoQiHMzz+4lorQ1FWYEfA5L6+/MNZe2MDWjinhzaqhAWnxP6RJBfoIRCUcq582Q4Ho0VwSjK9kVCQjKSktP5hCJQq6sPKS9ficysfKSmZUEqjeczup3t0jQyaTRNnHJyFbiakYP4+CQEh4TxC9TeoePU2toOrbYV2dcLcTkpDeGXouHjY+0ST0B0CKamXsFonMPsrBEGg5HFFROTwJWawvAKdLNOg97ePvT3DzDRuGJjE50BQ4egpaUNer1+V/1cf3iOyjYEvX36A6KRyeVXEBoazufK0yFobNSip6f3gGip6f2JiIzh2yXrlnV1dXMqU1WyY0lvkK3YPAERdnN0uq596maHsUhZynpEL3VklIyv2AiabjdzN6iz06qKyhqUlKi52GQyOR8uEVRX17HtamvrQJNID/X5BuQIipF4Nh2lZRVcbLTcUdGxp+0SwWLgFt76fce0xIQJnzmMiadw1+sxdB7D0Ii6USnUQuFWgWsCBVJcM0/TJYL3F9dglv3GWsgvrAb9hCnwB+YDzDD4rXKA4+IZjHq/YJB6z1G0eQydhksEBslXfIhbx3KhGVvKbWxmb8OS+ocBrodbARcCN/HG7wteShYZXN+FUdQLdafhEsF82BoWs8xYLrIcqU/pZsxL1zHnvxOnrwkPxZMMqEnUhzphpyNdIpj1/4aPyRswFVuOFYWlDr4LWOOABjwf7EQ2iFphO1xdBI6CIuybUxc+q47XUvYOkHyDA3oknsaQ5zi6PEbQIOqByl3jqOgIe9hKueVELeUdBhrxesZiaxbdQZV7CwrOqR3n0kq15UTZAz31ec22bdBzjDmUIcjnHHKIS7au2CLi3NkFottHe0ZPw4xkha0/haH9iTuT4kgY21j/C6RO0IfTTtkAKRh9vZBqZttI46KFvuFWsxuRw2GsY/1A228ucgCK/qWrT2Foke1BHA6zf/YesAdnL15Ajpr9D7aX/Xv/df4CCr4s+qc7ut4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xt2X3U9ScRjH/W1etFaWs3SKKGiAgPIqL/IyKZP5XkiJIkq+RCiJ7yJ220VbN22tq9ZVs+6U9Q9+4/kdz+F4wosaHLae7Tu2M3aez77f53kGTU3/RzFcV0OL4fVSP15O92A81AnXYGujoRh+fA7h+6cg1/6mGcsxfSOhmATz7aMf+TUTFud6OZBDp1MbSpgZEejrBx9yq0YeXwPmiWF2Lo5YLCG58+W9B9mUAfMTWni9QQSCj9WEYkgm039oZjaO8egsRiNROBweNaMrb1cmy5XJbEmamo5h7OkUPJ4ADEazukB7+4eS8vk95HJ5TEw+w0ggAovVDo1GmCWVgKgYzs9/olT6hcvLEi4uSjwup9MrDTXBqAq0vpFBoXCKs7N3XBSX2+1vBAwVw87OLorF4pXOpPlROSqxGAqnxWuiyHy+MEwmi5orT8WQzeZwclK4Jhpquj+DQ061XRK27OjoWNLi0go/lnSDxMFWCYjxm3N4eCTTMT+M8/EEnyO61EM2l1qxMWxtv5Vu0MGBoNTKKywsJKXYXC6fGi4xpNMbfLt2d/fh0nTA2vEAhrZWaO/dQWIxJcVGw22zu+vtEsPq8CCWHBbEbUbMWPoxae5DpK8HI71dHNDe1Q5Texv0rS0cso4uMaTcFuyEXHjjd2DTZ8ea14Zll5UDLthNeG41cMioUY8xQy/Ceg0HrYNLDAmHGeseG7b8ThxHfDgY9WIv7OGA20EnB5S7R3BhfTecmvZ6uCS4kyk7kys3r6aNMlB62Iqk04IX9gFMDOg5kKe7A+4rKOVb/7EEd6ihEkIugq0G5Nd2cZduNTfXCorxRtQ0H3JzKWFEIIpUDjTar0VAp+FAtI01io7xZiLMTaoG9ORRjxSbvfMhzOXtq5lLSgClaNjlQNPlcxA16CQg3f0WyaGauCSPRwlzExBFRnF13r1dSxixhF+B1JikhKNnNPi0jSJMJaKawwglvFD8z1VxjYDok4AIhgZZCVJzGHlVGlTglFIFpFrJGyul/O7f1m+KaJtCmGV49AAAAABJRU5ErkJggg==",
     "wiki_name": "Prayer regeneration potion (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prayer_regeneration_potion#2_dose",
     "equipment": null,

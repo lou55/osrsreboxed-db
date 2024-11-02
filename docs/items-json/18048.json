@@ -1,7 +1,7 @@
 {
     "id": 18048,
     "name": "Magical orb",
-    "last_updated": "2024-10-01",
+    "last_updated": "2024-11-02",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-10",
     "duplicate": true,
     "examine": "An ordinary looking magical scrying orb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xu2W604acRDF3TfxERoTL1HQ4rVeavFalaKEoCh4CYoGRQ31BloERCj10med7pntrH9x1bIKfrCTnC+Q7P4y58zM1tX9r/dRGj3Um5Tx8t1YjOJbW7QVidDy/DwFPJ5awxkvyqTTdH52RunTU9bB/j7FNjZobWmRgnNzNDsxQeNDQ9WG0iify7EuslnKZTKss2SSEru7ZqcEyjs+TmODg9WC0uhnoUDFy0tWIZ9n5S8u6PTkhI4SCUrE47SzuUnRtVVaCS7Qwqy3WlAa/SqVTJVExSJ3C9aljo/pUIfa39mm7WiU1peXKRwIcKY8Y2M0OjDwWrnS6Pb2lnVzc8O6vr42ha7BPuQoeXTIWQJUbD1CkVCIlvx+8k9P08zICI3091Ofy/USKI1+6yCQFdTV1RXbhxypQHvbMQMoHKYQgDwzepdGuUv9nZ0M9KG+3g7UHZAVlAr0I5V6FEhsQ5YGurrsAt2HsYJCnlSgk8OngbAGhrq7qdPhsGObNZAKBSBMmgr0fW/vWaBup9NOlx4HEglQ9jx9DwjbG0sSQDJpGH8Afe7tYSBHU1OlXfo3IFimTpnV6M97vzHQ5PAwA/V0tJtAFXSpMiDsInNB/t3a6oLEKQHQcF8vAzmbm2sDdHxwYOZIzsiiz0e+qSmacrvJ/amPej92UHtLS+VA2DUy4lbCtpZQwzJsazkhyFD5tpaxd7W1mTAVAcmJQCewc8rFp0O/ZRJqZAjdUe8ZjqxvcpK+frmzy0Z+pDS2BOcBAoB5x3ThN9wyfIrALgQaEyZWydlQt3RHa6ud7kjdfW6gE7BHrr1cfuQH3UF2+IY9M+6tjY12uyOlsSXICV4OqYAIM6zCZMGqjZUVc7LEKjXIzQ0NLwVCaWwJPsTQDQghBgx+Q5DN7axf+Mdg8JwX2FVeGmcEL4c92MpQeZDVEJfDCMgrwEhp3AlkBaMNmyD5/kFunto3rwiiltF2hBfnAZ3BVl4NBh98iNUAxijj4QYY8sI26Z2Ray7/1QRGLRXMCqKmMGqVA7wJxLusP1oKi9WonhupAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgElEQVR4Xu2WW08aURSFPf+EBIMQhCIEocglIEJASrlJEaSSCReBXuL/f9h17emG4zBFhpsPdifriYTzZa119pmTk//zMUbRqt5lzMNvb5usYrFG2WyRrq6yx4YzD+p0Bqx221St1qFSqU7X12VKpfIUi6UoHIkfGkpRrzdkdbsG6/7eoLu771T9+o2dKhSqlMuVllDh2KGgFD0+TqjfH7MeHkYswLVafarXu1SttqlcbtBN4QvHl0zmDgWlyDCmrMHgiQU4CC4hMh0K0eXzFcpkCtypy8ukBrUzmKLR6AcNh3OWYcz+ygSEWwLVbPa4S4BCydGndPqGEokMRaMJCoWi5Pd/2gVK0Xj8kwWoVbAlEAouLlUqrVcu2QGFXK5toBRNJr9YdmCAQmzo0TogPbYdgBQ9TX8vZAcGIPQJ5d4U6Pz8gs7O/NvEpmg2e17IDgwuWYHQoU2BHLqkaD5/ZtmBQQKkR7YpkNvtceqS6dA6KDO2KTskC3LtPnrZ3IFAmLzewALIgUuvO6QDCZQA6Ve/0ejZbu14PE2RyGcKBiPk8wXp9NTrHEgKLL2BdEA7INlFiG3dLvJ4fM6BZOdAct0hAbUr9Vvb2lpqR0A4TDayKXNLL5fjqjuIS/qzx7hkFB8o75a8YwJqdQdRybfRJlFtBSSfG/K6y2svgju4XVxmm6j2cLuso/hKQ/INpEPCHSdRuVzuXYEwiiOBE5B8JQJGdo/cKrjzLxj8zw5xWUfxwRDigeCM7g72zjoYAdkDjIxiJ9AV1gsIJE8FevMWjPUf9zCm7QCAKxBuFnqz5xu1+Zh/boLhnZKY5DbJb0eB0UcHs4M4Kow+VoB3gfiQ8wcqzblgcQ0chgAAAABJRU5ErkJggg==",
     "wiki_name": "Magical orb (Inactive)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magical_orb#Inactive",
     "equipment": null,

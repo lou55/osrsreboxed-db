@@ -45581,11 +45581,11 @@
     },
     "13793": {
         "id": 13793,
-        "name": "Blue dragon"
+        "name": "Brew'ma"
     },
     "13794": {
         "id": 13794,
-        "name": "Baby blue dragon"
+        "name": "Marika"
     },
     "13795": {
         "id": 13795,
@@ -46510,5 +46510,41 @@
     "14047": {
         "id": 14047,
         "name": "Gull"
+    },
+    "14103": {
+        "id": 14103,
+        "name": "Blue dragon"
+    },
+    "14104": {
+        "id": 14104,
+        "name": "Blue dragon"
+    },
+    "14105": {
+        "id": 14105,
+        "name": "Baby blue dragon"
+    },
+    "14106": {
+        "id": 14106,
+        "name": "Baby blue dragon"
+    },
+    "14107": {
+        "id": 14107,
+        "name": "Marika"
+    },
+    "14108": {
+        "id": 14108,
+        "name": "Postie Pete"
+    },
+    "14109": {
+        "id": 14109,
+        "name": "Ghost Cat"
+    },
+    "14110": {
+        "id": 14110,
+        "name": "Crow"
+    },
+    "14112": {
+        "id": 14112,
+        "name": "Stray dog"
     }
 }

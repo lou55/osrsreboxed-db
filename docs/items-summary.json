@@ -58017,11 +58017,11 @@
     },
     "30000": {
         "id": 30000,
-        "name": "Pre-pot device"
+        "name": "Chugging barrel"
     },
     "30002": {
         "id": 30002,
-        "name": "Pre-pot device (disassembled)"
+        "name": "Chugging barrel (disassembled)"
     },
     "30005": {
         "id": 30005,
@@ -58366,5 +58366,573 @@
     "30157": {
         "id": 30157,
         "name": "Butler's tray"
+    },
+    "30160": {
+        "id": 30160,
+        "name": "Picture map"
+    },
+    "30161": {
+        "id": 30161,
+        "name": "Seed packets"
+    },
+    "30162": {
+        "id": 30162,
+        "name": "Beige pumpkin"
+    },
+    "30163": {
+        "id": 30163,
+        "name": "White pumpkin"
+    },
+    "30164": {
+        "id": 30164,
+        "name": "Yellow pumpkin"
+    },
+    "30165": {
+        "id": 30165,
+        "name": "Orange pumpkin"
+    },
+    "30166": {
+        "id": 30166,
+        "name": "Red pumpkin"
+    },
+    "30167": {
+        "id": 30167,
+        "name": "Dark green pumpkin"
+    },
+    "30168": {
+        "id": 30168,
+        "name": "Powder grey pumpkin"
+    },
+    "30169": {
+        "id": 30169,
+        "name": "Beige pumpkin (disgusted)"
+    },
+    "30170": {
+        "id": 30170,
+        "name": "Beige pumpkin (silly)"
+    },
+    "30171": {
+        "id": 30171,
+        "name": "Beige pumpkin (evil)"
+    },
+    "30172": {
+        "id": 30172,
+        "name": "Beige pumpkin (angry)"
+    },
+    "30173": {
+        "id": 30173,
+        "name": "Beige pumpkin (depressed)"
+    },
+    "30174": {
+        "id": 30174,
+        "name": "Beige pumpkin (shocked)"
+    },
+    "30175": {
+        "id": 30175,
+        "name": "Beige pumpkin (sad)"
+    },
+    "30176": {
+        "id": 30176,
+        "name": "Beige pumpkin (happy)"
+    },
+    "30177": {
+        "id": 30177,
+        "name": "Beige pumpkin (laughing)"
+    },
+    "30178": {
+        "id": 30178,
+        "name": "White pumpkin (disgusted)"
+    },
+    "30179": {
+        "id": 30179,
+        "name": "White pumpkin (silly)"
+    },
+    "30180": {
+        "id": 30180,
+        "name": "White pumpkin (evil)"
+    },
+    "30181": {
+        "id": 30181,
+        "name": "White pumpkin (angry)"
+    },
+    "30182": {
+        "id": 30182,
+        "name": "White pumpkin (depressed)"
+    },
+    "30183": {
+        "id": 30183,
+        "name": "White pumpkin (shocked)"
+    },
+    "30184": {
+        "id": 30184,
+        "name": "White pumpkin (sad)"
+    },
+    "30185": {
+        "id": 30185,
+        "name": "White pumpkin (happy)"
+    },
+    "30186": {
+        "id": 30186,
+        "name": "White pumpkin (laughing)"
+    },
+    "30187": {
+        "id": 30187,
+        "name": "Yellow pumpkin (disgusted)"
+    },
+    "30188": {
+        "id": 30188,
+        "name": "Yellow pumpkin (silly)"
+    },
+    "30189": {
+        "id": 30189,
+        "name": "Yellow pumpkin (evil)"
+    },
+    "30190": {
+        "id": 30190,
+        "name": "Yellow pumpkin (angry)"
+    },
+    "30191": {
+        "id": 30191,
+        "name": "Yellow pumpkin (depressed)"
+    },
+    "30192": {
+        "id": 30192,
+        "name": "Yellow pumpkin (shocked)"
+    },
+    "30193": {
+        "id": 30193,
+        "name": "Yellow pumpkin (sad)"
+    },
+    "30194": {
+        "id": 30194,
+        "name": "Yellow pumpkin (happy)"
+    },
+    "30195": {
+        "id": 30195,
+        "name": "Yellow pumpkin (laughing)"
+    },
+    "30196": {
+        "id": 30196,
+        "name": "Orange pumpkin (disgusted)"
+    },
+    "30197": {
+        "id": 30197,
+        "name": "Orange pumpkin (silly)"
+    },
+    "30198": {
+        "id": 30198,
+        "name": "Orange pumpkin (evil)"
+    },
+    "30199": {
+        "id": 30199,
+        "name": "Orange pumpkin (angry)"
+    },
+    "30200": {
+        "id": 30200,
+        "name": "Orange pumpkin (depressed)"
+    },
+    "30201": {
+        "id": 30201,
+        "name": "Orange pumpkin (shocked)"
+    },
+    "30202": {
+        "id": 30202,
+        "name": "Orange pumpkin (sad)"
+    },
+    "30203": {
+        "id": 30203,
+        "name": "Orange pumpkin (happy)"
+    },
+    "30204": {
+        "id": 30204,
+        "name": "Orange pumpkin (laughing)"
+    },
+    "30205": {
+        "id": 30205,
+        "name": "Red pumpkin (disgusted)"
+    },
+    "30206": {
+        "id": 30206,
+        "name": "Red pumpkin (silly)"
+    },
+    "30207": {
+        "id": 30207,
+        "name": "Red pumpkin (evil)"
+    },
+    "30208": {
+        "id": 30208,
+        "name": "Red pumpkin (angry)"
+    },
+    "30209": {
+        "id": 30209,
+        "name": "Red pumpkin (depressed)"
+    },
+    "30210": {
+        "id": 30210,
+        "name": "Red pumpkin (shocked)"
+    },
+    "30211": {
+        "id": 30211,
+        "name": "Red pumpkin (sad)"
+    },
+    "30212": {
+        "id": 30212,
+        "name": "Red pumpkin (happy)"
+    },
+    "30213": {
+        "id": 30213,
+        "name": "Red pumpkin (laughing)"
+    },
+    "30214": {
+        "id": 30214,
+        "name": "Dark green pumpkin (disgusted)"
+    },
+    "30215": {
+        "id": 30215,
+        "name": "Dark green pumpkin (silly)"
+    },
+    "30216": {
+        "id": 30216,
+        "name": "Dark green pumpkin (evil)"
+    },
+    "30217": {
+        "id": 30217,
+        "name": "Dark green pumpkin (angry)"
+    },
+    "30218": {
+        "id": 30218,
+        "name": "Dark green pumpkin (depressed)"
+    },
+    "30219": {
+        "id": 30219,
+        "name": "Dark green pumpkin (shocked)"
+    },
+    "30220": {
+        "id": 30220,
+        "name": "Dark green pumpkin (sad)"
+    },
+    "30221": {
+        "id": 30221,
+        "name": "Dark green pumpkin (happy)"
+    },
+    "30222": {
+        "id": 30222,
+        "name": "Dark green pumpkin (laughing)"
+    },
+    "30223": {
+        "id": 30223,
+        "name": "Powder grey pumpkin (disgusted)"
+    },
+    "30224": {
+        "id": 30224,
+        "name": "Powder grey pumpkin (silly)"
+    },
+    "30225": {
+        "id": 30225,
+        "name": "Powder grey pumpkin (evil)"
+    },
+    "30226": {
+        "id": 30226,
+        "name": "Powder grey pumpkin (angry)"
+    },
+    "30227": {
+        "id": 30227,
+        "name": "Powder grey pumpkin (depressed)"
+    },
+    "30228": {
+        "id": 30228,
+        "name": "Powder grey pumpkin (shocked)"
+    },
+    "30229": {
+        "id": 30229,
+        "name": "Powder grey pumpkin (sad)"
+    },
+    "30230": {
+        "id": 30230,
+        "name": "Powder grey pumpkin (happy)"
+    },
+    "30231": {
+        "id": 30231,
+        "name": "Powder grey pumpkin (laughing)"
+    },
+    "30232": {
+        "id": 30232,
+        "name": "Scarecrow shirt"
+    },
+    "30234": {
+        "id": 30234,
+        "name": "Halloween scarecrow"
+    },
+    "30236": {
+        "id": 30236,
+        "name": "Scarecrow"
+    },
+    "30237": {
+        "id": 30237,
+        "name": "Beige pumpkin (disgusted)"
+    },
+    "30239": {
+        "id": 30239,
+        "name": "Beige pumpkin (silly)"
+    },
+    "30241": {
+        "id": 30241,
+        "name": "Beige pumpkin (evil)"
+    },
+    "30242": {
+        "id": 30242,
+        "name": "Beige pumpkin (angry)"
+    },
+    "30243": {
+        "id": 30243,
+        "name": "Beige pumpkin (depressed)"
+    },
+    "30244": {
+        "id": 30244,
+        "name": "Beige pumpkin (shocked)"
+    },
+    "30245": {
+        "id": 30245,
+        "name": "Beige pumpkin (sad)"
+    },
+    "30246": {
+        "id": 30246,
+        "name": "Beige pumpkin (happy)"
+    },
+    "30247": {
+        "id": 30247,
+        "name": "Beige pumpkin (laughing)"
+    },
+    "30248": {
+        "id": 30248,
+        "name": "White pumpkin (disgusted)"
+    },
+    "30249": {
+        "id": 30249,
+        "name": "White pumpkin (silly)"
+    },
+    "30250": {
+        "id": 30250,
+        "name": "White pumpkin (evil)"
+    },
+    "30251": {
+        "id": 30251,
+        "name": "White pumpkin (angry)"
+    },
+    "30252": {
+        "id": 30252,
+        "name": "White pumpkin (depressed)"
+    },
+    "30253": {
+        "id": 30253,
+        "name": "White pumpkin (shocked)"
+    },
+    "30254": {
+        "id": 30254,
+        "name": "White pumpkin (sad)"
+    },
+    "30255": {
+        "id": 30255,
+        "name": "White pumpkin (happy)"
+    },
+    "30256": {
+        "id": 30256,
+        "name": "White pumpkin (laughing)"
+    },
+    "30257": {
+        "id": 30257,
+        "name": "Yellow pumpkin (disgusted)"
+    },
+    "30258": {
+        "id": 30258,
+        "name": "Yellow pumpkin (silly)"
+    },
+    "30259": {
+        "id": 30259,
+        "name": "Yellow pumpkin (evil)"
+    },
+    "30260": {
+        "id": 30260,
+        "name": "Yellow pumpkin (angry)"
+    },
+    "30261": {
+        "id": 30261,
+        "name": "Yellow pumpkin (depressed)"
+    },
+    "30262": {
+        "id": 30262,
+        "name": "Yellow pumpkin (shocked)"
+    },
+    "30263": {
+        "id": 30263,
+        "name": "Yellow pumpkin (sad)"
+    },
+    "30264": {
+        "id": 30264,
+        "name": "Yellow pumpkin (happy)"
+    },
+    "30265": {
+        "id": 30265,
+        "name": "Yellow pumpkin (laughing)"
+    },
+    "30266": {
+        "id": 30266,
+        "name": "Orange pumpkin (disgusted)"
+    },
+    "30267": {
+        "id": 30267,
+        "name": "Orange pumpkin (silly)"
+    },
+    "30268": {
+        "id": 30268,
+        "name": "Orange pumpkin (evil)"
+    },
+    "30269": {
+        "id": 30269,
+        "name": "Orange pumpkin (angry)"
+    },
+    "30270": {
+        "id": 30270,
+        "name": "Orange pumpkin (depressed)"
+    },
+    "30271": {
+        "id": 30271,
+        "name": "Orange pumpkin (shocked)"
+    },
+    "30272": {
+        "id": 30272,
+        "name": "Orange pumpkin (sad)"
+    },
+    "30273": {
+        "id": 30273,
+        "name": "Orange pumpkin (happy)"
+    },
+    "30274": {
+        "id": 30274,
+        "name": "Orange pumpkin (laughing)"
+    },
+    "30275": {
+        "id": 30275,
+        "name": "Red pumpkin (disgusted)"
+    },
+    "30276": {
+        "id": 30276,
+        "name": "Red pumpkin (silly)"
+    },
+    "30277": {
+        "id": 30277,
+        "name": "Red pumpkin (evil)"
+    },
+    "30278": {
+        "id": 30278,
+        "name": "Red pumpkin (angry)"
+    },
+    "30279": {
+        "id": 30279,
+        "name": "Red pumpkin (depressed)"
+    },
+    "30280": {
+        "id": 30280,
+        "name": "Red pumpkin (shocked)"
+    },
+    "30281": {
+        "id": 30281,
+        "name": "Red pumpkin (sad)"
+    },
+    "30282": {
+        "id": 30282,
+        "name": "Red pumpkin (happy)"
+    },
+    "30283": {
+        "id": 30283,
+        "name": "Red pumpkin (laughing)"
+    },
+    "30284": {
+        "id": 30284,
+        "name": "Dark green pumpkin (disgusted)"
+    },
+    "30285": {
+        "id": 30285,
+        "name": "Dark green pumpkin (silly)"
+    },
+    "30286": {
+        "id": 30286,
+        "name": "Dark green pumpkin (evil)"
+    },
+    "30287": {
+        "id": 30287,
+        "name": "Dark green pumpkin (angry)"
+    },
+    "30288": {
+        "id": 30288,
+        "name": "Dark green pumpkin (depressed)"
+    },
+    "30289": {
+        "id": 30289,
+        "name": "Dark green pumpkin (shocked)"
+    },
+    "30290": {
+        "id": 30290,
+        "name": "Dark green pumpkin (sad)"
+    },
+    "30291": {
+        "id": 30291,
+        "name": "Dark green pumpkin (happy)"
+    },
+    "30292": {
+        "id": 30292,
+        "name": "Dark green pumpkin (laughing)"
+    },
+    "30293": {
+        "id": 30293,
+        "name": "Powder grey pumpkin (disgusted)"
+    },
+    "30294": {
+        "id": 30294,
+        "name": "Powder grey pumpkin (silly)"
+    },
+    "30295": {
+        "id": 30295,
+        "name": "Powder grey pumpkin (evil)"
+    },
+    "30296": {
+        "id": 30296,
+        "name": "Powder grey pumpkin (angry)"
+    },
+    "30297": {
+        "id": 30297,
+        "name": "Powder grey pumpkin (depressed)"
+    },
+    "30298": {
+        "id": 30298,
+        "name": "Powder grey pumpkin (shocked)"
+    },
+    "30299": {
+        "id": 30299,
+        "name": "Powder grey pumpkin (sad)"
+    },
+    "30300": {
+        "id": 30300,
+        "name": "Powder grey pumpkin (happy)"
+    },
+    "30301": {
+        "id": 30301,
+        "name": "Powder grey pumpkin (laughing)"
+    },
+    "30302": {
+        "id": 30302,
+        "name": "Torva full helm"
+    },
+    "30303": {
+        "id": 30303,
+        "name": "Torva platebody"
+    },
+    "30304": {
+        "id": 30304,
+        "name": "Torva platelegs"
+    },
+    "30305": {
+        "id": 30305,
+        "name": "Arclight (inactive)"
     }
 }

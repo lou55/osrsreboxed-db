@@ -1,7 +1,7 @@
 {
     "id": 2533,
     "name": "Ghost",
-    "last_updated": "2024-09-08",
+    "last_updated": "2024-11-02",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -28,7 +28,11 @@
     "slayer_monster": true,
     "slayer_level": 1,
     "slayer_xp": 75.0,
-    "slayer_masters": [],
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "mazchna"
+    ],
     "duplicate": true,
     "examine": "Eeek! A ghost!",
     "wiki_name": "Ghost (Level 76)",
@@ -44,7 +48,7 @@
     "magic_bonus": 0,
     "attack_ranged": 0,
     "ranged_bonus": 0,
-    "defence_stab": 0,
+    "defence_stab": 45,
     "defence_slash": 45,
     "defence_crush": 5,
     "defence_magic": -5,

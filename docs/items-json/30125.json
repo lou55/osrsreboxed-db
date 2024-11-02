@@ -1,7 +1,7 @@
 {
     "id": 30125,
     "name": "Prayer regeneration potion(4)",
-    "last_updated": "2024-10-01",
+    "last_updated": "2024-11-02",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2024-09-25",
     "duplicate": false,
     "examine": "4 doses of Prayer Regeneration potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xt2X7UtTYRjGfb5FoCi+oXOmlJZZNNM5c4ZKKabOmKamlqbpcsymZummIQWJ0QsZUkgiIaIJwVxWlmW2SvoSqJv+P1fez/Ect+O+BNsZdMMFchDPz99z3c80LOz/GAbfhHQYOhoOo7YiGSUFCTh9IirUUAxz4wWYGdPz9LZnoMmYGkooJsFMPc6DtfUoLlcd4kCalBSloYTOiECTD3WwNKfz4wtBnxgMVTUwGuslOy8eaNF5JQ3VZWrk5uqRry9WEoqhsbFlXyoNNSgpNaCwqBQajVbJo9vZLlMnj8lkllJeYcS58+XQavORlp6hLFBPb58Uq7UHFosVZRcu4kx+EY5nnoJKJXRJISAahtnZN3A6F7Gw4ITD4eTHlZWVK5WaYBQFam3rwMCADYODQzx0XNnZeaGAoWHo6rLCbrfvZlDqj8JHJQ7D2p1tbmjAZuehI9PpzuJYxkklV56GYaXSjbVb2z55qXoLW+wjNESalLTE8CF1Hb8svjD07JXqHYbjxtAa1QNjxFWlLDF8q/ZgrXvbJx+PrGNavYyR+AnciO5XyhLDUsY6fnRsCYa8gOj5nHoVTxKm0R0zjObIm0pY2rFz0c1h5FnK3IAj+TeeJ87hdswIt1QXcT2Ylhh/qavFg59mwZAPkGYDiyl/MKFyYCjuKbqi73JLVeGNwbK0s1llbg7jL59yNnixp5Le417cOLfUHtUXLEuMG/je4OH9oewD0m3yYs+oVzAaP8nXnyw1RZqDYYnhS7FbgvGXz/pNXuz5ZBeeJc5wS70x97mlSxHXAmlJ2CxadVfblk+8gZYL3VKxxxPnJUvmaBu3ZAivD5Qlxn97OYw8ZFAsNl2QtP50SZIluigDaEn4mKDt8ptdoK+lbqnYr5OWuCW6JPtjR7kluigrw+sCZ2kfiCy0gWKx6YKk9RctUY+KDpZLhgJiabXWI4W2jeJq2gtZFIst9ojuI7qLcg4UBBJGHOGvQHox3dZUchGOgOiZWGwRRuxNEGCEEX6g+D+X8CErQtHXVGzxo0MOEnAY79l7wR6cPIqA+BvvF8sj/95/nb8t/WCOksfqVgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACn0lEQVR4Xt2X0U9SURzHPa9tNZumI8RAhbiQAeGFG2BoJSMJHVqzzOW0ZDrcHc41hF57aOulrfXUemrWm7L+wW/+zu1crgd9aLsctn7bd2PCOJ99f58DODDwfwzD+fR1GHZeTuJ5aRwLOQ/u3bnebyiGn19y+PE5y3PwVsOrSqCfUMyG+f7JgLl1Gy+WbnGguN+vGspyRgB9+5hG7XWIr68PPjGUl1ZRqazZ7Xz9oGN3I4iVog+pVBaZ7LxKKIb19c2uPC2vYqFQRn6ugHhcV7m6s9tV3eWpVvfsLJYqePR4EbqeQTCkqQWqHxzaMc06ajUTxSfLuJ+ZQyQag9druaQIiIbh+PgX2u3fOD1t4+SkzdeVSKRsqQlGKdDW9g4ajSO0Wu95aF3JpNEPGBqG/X0TzWbzb1q2P4pXJYahMW/whhpHTR5aWTo9i7A2rfLK0zDsGQm8y6ftEFxJm0DG70V0dFhlS2efQYnIORgK/a0cmUJ+0oeY5waCw8q+aBlq2fPtUDaSESxHg3g4NY6Ed0RVS4wffJjXLwR6FgujEPRDHxtV1ZLlDgHJUJszUazFNRTDAe4RtaSNDPWyJcYPrT+YsYGcoefIIxJ7NjCmoiWGqhHvAhHZ1u9yIPKIxDZ8N3vZktWOmUt2gTiByKOV6RAXW7REcvegJYY36dil66LQ806xe9iSdbPoqhPQZSEgITZ5RC2R3KKlkHstMb4OGUAO+SXEpg9IZ0skt4stWVddBpBDQE6x6frLLU0MDbrXkgwgh6CdYouWSG7yyD94zW7IlZbIIRG6bXIISIgtPCIYWpfn6hU3YcRYvwLpYIoMR4+F2AJGeNMDGGusNxT/c3VaE0DkkfgJIoO4DuOczgEdODlKQC4a58Fy5Nf+6/wBdt+b2th8AZAAAAAASUVORK5CYII=",
     "wiki_name": "Prayer regeneration potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prayer_regeneration_potion#4_dose",
     "equipment": null,

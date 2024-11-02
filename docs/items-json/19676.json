@@ -1,7 +1,7 @@
 {
     "id": 19676,
     "name": "Arclight",
-    "last_updated": "2024-10-01",
+    "last_updated": "2024-11-02",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,9 +26,9 @@
     "release_date": "2016-06-09",
     "duplicate": true,
     "examine": "The magical sword 'Silverlight', enhanced with the blood of Agrith-Naar and ancient shards.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRUlEQVR4Xu2W2U5aURSGPZea3tcpqbGpWhEVFARUEKdqgqhRlDogKijTQRApMo9qsZeN9z5AX8DLvoFXfZ2/a2+c0NrECJxedCUr+8A5sL/zr3/vtevq/ofkIeDxNxIFAxGg0un4+PhujUOALxKBKxSCbszIgfrb2qSCEuCPxTiQN/wFnnBYSiABB/E4xONjHNxA3cJIACRges6MQDLJYcRoVFqYT+Z5BAkmQAoxIPZZolIJmFlYIJjUHYxpaVladcyWFURyOQ7EriWFOcnmEMnn79VZtkhXqkI2izOCCSYSBJYtg6kwUGmXLc/y+/lMBoVMCYjBFOjzQ++UP/+qEDC7uIiNz1Y4trbg2tnB26amMrh8Os1hlG/MKKRTyKeSyNEKqxqQxWbDqsWC02QCRZos5POiR6GARq9HlibOJuLob5jFSSbNgbbc7kqvrPLyrO/uQqc3QK3VQTGowvFhENHQIVLHEaRjUfQ2THEgBmNzuTBlmvtLeV8cpY4s7u3hSBShNRgQ9Lj5xCPUGIeGR6DSaDEwpMGH+lJ21o/yEp2fnnC1jvwiPA4HB2flfBXUytIS1ldXYV9fw+jkJPdLY3Mzhwq4XUiSKrGjEL4XvyITj3FQBqEzjvPne5RKyCnHxsext739+rItExDzy9qKBYbpaTS3tqKppYVn403qR0dx8e2csoiL8yJXguWAVgsZeatfrYZh3MgXQwVMTZ6xWmEjheZJqfcdHXdAcoWSjx3d3eiUydDV04MuGtk185OJXmR5cxPGmZlK70HlplbSG3+Uy6Ggcd9uh5tMHvR4IOvthayvD2NTZGqVCr+urzEyMXH3uwrBlKL0RwIWSK1Jk4mf9LxOJ9+HWG6Seu/a23kOaDQo0Fnn59VVGUjFYEohwLplJwOHIdJSDlJ69/YR9Pngp31GTwbuGxzkyqmHhznQj8vLSnjmuRCQS6UQDgTgIWXYRsc6d56aJlPtYUkZ3CkdwC7OzqoLlKJJDv1+rpDL6cAu+efpDizAxoDJxMO09KsKFKcDOVPoUPRRirxcfzbrvVpP71UsqGlSyVjZ8qxhUrLW8JwCVTLy4yi9NSvJhsPJe9pzQDWLW5/UoCQvixqV5N+P3xRreTdTGWbUAAAAAElFTkSuQmCC",
-    "wiki_name": "Arclight",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Arclight",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4XuWXaU8aURSGvR81tX6sS7VqgrXYKmqkVhTFXVt3XIsbKjAIIgoiO7Jolx/99tw7DCqSNCmMY9I3ObnMZebw5Gxzqar6v8VQvKOhGIbGLHghUAwT819xnU4LIENrq5ZQDDOLSzgLR+AJhWCZndUySjKMLxKB9/paREmJkAZRuoc5C4cxvbCoLczs8jIuEgkBxD9rDrO4viGniqLzImDOo1FRyBrCcDEBE0ilRHQ0h/lmXYd1d/dJdIrvVFl8pjBkb25wl8kImCxF6BmiI/9w8Z7r8FDA3NIU9sdiAiaTvAd6fH/FxDBoNqNDr38AxeA8OECGALIpGShHYByIp05FIIa5lRX4Tt341NeHNw0NeSiGNM0ZDpNJxJFNJuSVA61Z1QJi+H50hKXNTSTD14gELtHT3w/DwACkQEAAGWrmkEslC0DpeFwNIKVeGOySG+t7exgcHkEsdFUwDtJdM5WHiMHmcBRSpVgFgGRHH3t70a7T4V17u7C9kxOsbG/DOGQSpq+24H31iLDfd7f4mcsiGQmjy2CA3+3GDUXJaDLlwf5ZDObJSXwZHcU5RcU0Pk7OJWHNbW3YPjgUEYhSqnTVgwXjQKFzHy69HmytrkKy2wsHsTLanmGenG1vbGB/ZwcO6p63LS2igLmdSy74yOZX157Ui3F4GAbjZ3RRVM2WMbgIiDdBmSlj8Pov4Do7g42AjgmomZxxmIamJtTnLU61wy12FcSPTBpjMzMYnZ6GeWpKRNRssTxq+TKAuO6Lkdur2loBpMDUNzaio/MDdJ2dAurXbQ4JWoufqxCMLMWR7Ex2/rquDr1Go6gNN40Av/sUXT09wgJUNw8BHj9fcclA/Nh54fVic2kJHmptu80GfXc3hqj4eSfxjpTvVVXy8XNibh7SyTG8Lhf8Hg981NL8bS6+X1hAkK4rmqLSYuJHfdTu7vywW97awqnTIVYFgK/S/v6Da9XEEKd/CH6qD68kiXGQDAYfvQ4UIJt17XmAogQQ8PngcTpxRFHg6SudmlJ7FRcTA++GzjYpOmwl/3JIL7WnglSaK+VIgXhumD9AqnZvMydD2gAAAABJRU5ErkJggg==",
+    "wiki_name": "Arclight (Charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Arclight#Charged",
     "equipment": null,
     "weapon": null
 }

@@ -109,6 +109,7 @@
     "required": true,
     "nullable": false,
     "allowed": [
+      "aviansie",
       "demon",
       "dragon",
       "fiery",
