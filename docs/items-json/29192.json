@@ -1,7 +1,7 @@
 {
     "id": 29192,
     "name": "Sunlight moth mix (2)",
-    "last_updated": "2024-10-01",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 12,
     "highalch": 18,
     "weight": 0.02,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2024-03-20",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 29000,
     "name": "Eclipse atlatl",
-    "last_updated": "2024-10-01",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -49,7 +49,7 @@
     },
     "weapon": {
         "attack_speed": 4,
-        "weapon_type": "thrown",
+        "weapon_type": "bow",
         "stances": [
             {
                 "combat_style": "accurate",

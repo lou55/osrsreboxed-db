@@ -1,7 +1,7 @@
 {
     "id": 29911,
     "name": "Prop sword",
-    "last_updated": "2024-11-02",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -49,25 +49,32 @@
     },
     "weapon": {
         "attack_speed": 4,
-        "weapon_type": "blunt",
+        "weapon_type": "slash_sword",
         "stances": [
             {
-                "combat_style": "pound",
-                "attack_type": "crush",
+                "combat_style": "chop",
+                "attack_type": "slash",
                 "attack_style": "accurate",
                 "experience": "attack",
                 "boosts": null
             },
             {
-                "combat_style": "pummel",
-                "attack_type": "crush",
+                "combat_style": "slash",
+                "attack_type": "slash",
                 "attack_style": "aggressive",
                 "experience": "strength",
                 "boosts": null
             },
             {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
                 "combat_style": "block",
-                "attack_type": "crush",
+                "attack_type": "slash",
                 "attack_style": "defensive",
                 "experience": "defence",
                 "boosts": null

@@ -1,7 +1,7 @@
 {
     "id": 29589,
     "name": "Emberlight",
-    "last_updated": "2024-10-01",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -37,7 +37,7 @@
         "attack_ranged": 0,
         "defence_stab": 0,
         "defence_slash": 3,
-        "defence_crush": 0,
+        "defence_crush": 2,
         "defence_magic": 5,
         "defence_ranged": 0,
         "melee_strength": 13,

@@ -1,7 +1,7 @@
 {
     "id": 12642,
     "name": "Lumberyard teleport",
-    "last_updated": "2024-10-01",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 4,
     "highalch": 6,
     "weight": 0.0,
-    "buy_limit": 10000,
+    "buy_limit": 15000,
     "quest_item": false,
     "release_date": "2014-07-17",
     "duplicate": false,

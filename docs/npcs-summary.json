@@ -19299,17 +19299,9 @@
         "id": 5210,
         "name": "Katrine"
     },
-    "5211": {
-        "id": 5211,
-        "name": "Weaponsmaster"
-    },
     "5212": {
         "id": 5212,
         "name": "Straven"
-    },
-    "5213": {
-        "id": 5213,
-        "name": "Jonny the beard"
     },
     "5214": {
         "id": 5214,
@@ -34845,7 +34837,7 @@
     },
     "10476": {
         "id": 10476,
-        "name": "Leagues Assistant"
+        "name": "Shepherd Dog"
     },
     "10477": {
         "id": 10477,
@@ -41435,17 +41427,17 @@
         "id": 12591,
         "name": "The Leviathan"
     },
-    "12592": {
-        "id": 12592,
-        "name": "The Sage"
-    },
     "12593": {
         "id": 12593,
-        "name": "Leagues Assistant"
+        "name": "Corgi"
     },
     "12594": {
         "id": 12594,
         "name": "Jal-ImKot"
+    },
+    "12596": {
+        "id": 12596,
+        "name": "Yorkie"
     },
     "12597": {
         "id": 12597,
@@ -46546,5 +46538,237 @@
     "14112": {
         "id": 14112,
         "name": "Stray dog"
+    },
+    "14113": {
+        "id": 14113,
+        "name": "Armoured zombie"
+    },
+    "14114": {
+        "id": 14114,
+        "name": "Armoured zombie"
+    },
+    "14115": {
+        "id": 14115,
+        "name": "Armoured zombie"
+    },
+    "14116": {
+        "id": 14116,
+        "name": "Armoured zombie"
+    },
+    "14117": {
+        "id": 14117,
+        "name": "Armoured zombie"
+    },
+    "14118": {
+        "id": 14118,
+        "name": "Armoured zombie"
+    },
+    "14119": {
+        "id": 14119,
+        "name": "Armoured zombie"
+    },
+    "14120": {
+        "id": 14120,
+        "name": "Armoured zombie"
+    },
+    "14121": {
+        "id": 14121,
+        "name": "Armoured zombie"
+    },
+    "14122": {
+        "id": 14122,
+        "name": "Armoured zombie"
+    },
+    "14125": {
+        "id": 14125,
+        "name": "Golem guard"
+    },
+    "14126": {
+        "id": 14126,
+        "name": "Small scarab"
+    },
+    "14127": {
+        "id": 14127,
+        "name": "Zemouregal"
+    },
+    "14128": {
+        "id": 14128,
+        "name": "Sharathteerk"
+    },
+    "14129": {
+        "id": 14129,
+        "name": "Arrav"
+    },
+    "14130": {
+        "id": 14130,
+        "name": "Arrav"
+    },
+    "14131": {
+        "id": 14131,
+        "name": "Arrav"
+    },
+    "14132": {
+        "id": 14132,
+        "name": "Arrav"
+    },
+    "14133": {
+        "id": 14133,
+        "name": "Arrav"
+    },
+    "14135": {
+        "id": 14135,
+        "name": "Armoured zombie"
+    },
+    "14136": {
+        "id": 14136,
+        "name": "Armoured zombie"
+    },
+    "14137": {
+        "id": 14137,
+        "name": "Weaponsmaster"
+    },
+    "14138": {
+        "id": 14138,
+        "name": "Jonny the Beard"
+    },
+    "14139": {
+        "id": 14139,
+        "name": "Jonny the Beard"
+    },
+    "14140": {
+        "id": 14140,
+        "name": "Spinolyp"
+    },
+    "14141": {
+        "id": 14141,
+        "name": "Suspicious water"
+    },
+    "14144": {
+        "id": 14144,
+        "name": "The Sage"
+    },
+    "14145": {
+        "id": 14145,
+        "name": "League Navigator"
+    },
+    "14146": {
+        "id": 14146,
+        "name": "Black dragon"
+    },
+    "14148": {
+        "id": 14148,
+        "name": "Stray dog"
+    },
+    "14150": {
+        "id": 14150,
+        "name": "Unidentified dog"
+    },
+    "14152": {
+        "id": 14152,
+        "name": "Shepherd Dog"
+    },
+    "14154": {
+        "id": 14154,
+        "name": "Corgi"
+    },
+    "14156": {
+        "id": 14156,
+        "name": "Yorkie"
+    },
+    "14158": {
+        "id": 14158,
+        "name": "Stray dog"
+    },
+    "14160": {
+        "id": 14160,
+        "name": "Unidentified festive dog"
+    },
+    "14162": {
+        "id": 14162,
+        "name": "Sadie"
+    },
+    "14164": {
+        "id": 14164,
+        "name": "Sir Burrus"
+    },
+    "14166": {
+        "id": 14166,
+        "name": "Archibald"
+    },
+    "14168": {
+        "id": 14168,
+        "name": "Duke"
+    },
+    "14170": {
+        "id": 14170,
+        "name": "Kimba"
+    },
+    "14173": {
+        "id": 14173,
+        "name": "Cecilia"
+    },
+    "14175": {
+        "id": 14175,
+        "name": "Gertrude"
+    },
+    "14177": {
+        "id": 14177,
+        "name": "Hairdresser"
+    },
+    "14179": {
+        "id": 14179,
+        "name": "Sir Amik Varze"
+    },
+    "14181": {
+        "id": 14181,
+        "name": "Sarah"
+    },
+    "14182": {
+        "id": 14182,
+        "name": "Shepherd Dog"
+    },
+    "14183": {
+        "id": 14183,
+        "name": "Corgi"
+    },
+    "14184": {
+        "id": 14184,
+        "name": "Yorkie"
+    },
+    "14185": {
+        "id": 14185,
+        "name": "Stray dog"
+    },
+    "14186": {
+        "id": 14186,
+        "name": "Unidentified festive object"
+    },
+    "14187": {
+        "id": 14187,
+        "name": "Cecilia"
+    },
+    "14188": {
+        "id": 14188,
+        "name": "Gertrude"
+    },
+    "14189": {
+        "id": 14189,
+        "name": "Hairdresser"
+    },
+    "14190": {
+        "id": 14190,
+        "name": "Sir Amik Varze"
+    },
+    "14191": {
+        "id": 14191,
+        "name": "Sarah"
+    },
+    "14192": {
+        "id": 14192,
+        "name": "Party Pete"
+    },
+    "14193": {
+        "id": 14193,
+        "name": "Charlie the Tramp"
     }
 }

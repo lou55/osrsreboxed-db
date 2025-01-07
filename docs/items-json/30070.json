@@ -1,7 +1,7 @@
 {
     "id": 30070,
     "name": "Dragon hunter wand",
-    "last_updated": "2024-11-02",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 120000,
     "highalch": 180000,
     "weight": 2.0,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2024-09-25",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 25013,
     "name": "Trailblazer cane",
-    "last_updated": "2024-10-01",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -48,7 +48,7 @@
         "requirements": null
     },
     "weapon": {
-        "attack_speed": 5,
+        "attack_speed": 4,
         "weapon_type": "spiked",
         "stances": [
             {

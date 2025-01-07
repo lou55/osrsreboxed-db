@@ -89487,14 +89487,6 @@
         "id": 44935,
         "name": "Loot!"
     },
-    "44936": {
-        "id": 44936,
-        "name": "Loot!"
-    },
-    "44937": {
-        "id": 44937,
-        "name": "Loot!"
-    },
     "44940": {
         "id": 44940,
         "name": "Scrolls"
@@ -97939,14 +97931,6 @@
         "id": 50202,
         "name": "Stairs"
     },
-    "50203": {
-        "id": 50203,
-        "name": "Lever"
-    },
-    "50204": {
-        "id": 50204,
-        "name": "Lever"
-    },
     "50205": {
         "id": 50205,
         "name": "Lever"
@@ -98013,19 +97997,19 @@
     },
     "50267": {
         "id": 50267,
-        "name": "Decorations"
+        "name": "Mural"
     },
     "50268": {
         "id": 50268,
-        "name": "Decorations"
+        "name": "Mural"
     },
     "50269": {
         "id": 50269,
-        "name": "Decorations"
+        "name": "Mural"
     },
     "50270": {
         "id": 50270,
-        "name": "Decorations"
+        "name": "Mural"
     },
     "50271": {
         "id": 50271,
@@ -98054,22 +98038,6 @@
     "50291": {
         "id": 50291,
         "name": "Uninviting hole"
-    },
-    "50294": {
-        "id": 50294,
-        "name": "Blue tile"
-    },
-    "50295": {
-        "id": 50295,
-        "name": "Red tile"
-    },
-    "50296": {
-        "id": 50296,
-        "name": "Green tile"
-    },
-    "50297": {
-        "id": 50297,
-        "name": "Yellow tile"
     },
     "50298": {
         "id": 50298,
@@ -98429,15 +98397,11 @@
     },
     "50510": {
         "id": 50510,
-        "name": "Door"
+        "name": "Doors"
     },
     "50511": {
         "id": 50511,
-        "name": "Door"
-    },
-    "50512": {
-        "id": 50512,
-        "name": "Door"
+        "name": "Doors"
     },
     "50513": {
         "id": 50513,
@@ -98453,11 +98417,19 @@
     },
     "50517": {
         "id": 50517,
-        "name": "Metal door"
+        "name": "Metal doors"
     },
     "50518": {
         "id": 50518,
-        "name": "Metal door"
+        "name": "Metal doors"
+    },
+    "50519": {
+        "id": 50519,
+        "name": "Metal doors"
+    },
+    "50520": {
+        "id": 50520,
+        "name": "Metal doors"
     },
     "50521": {
         "id": 50521,
@@ -98515,13 +98487,13 @@
         "id": 50535,
         "name": "Table"
     },
+    "50536": {
+        "id": 50536,
+        "name": "Gate"
+    },
     "50537": {
         "id": 50537,
         "name": "Gate"
-    },
-    "50538": {
-        "id": 50538,
-        "name": "Pedestal"
     },
     "50539": {
         "id": 50539,
@@ -98566,10 +98538,6 @@
     "50579": {
         "id": 50579,
         "name": "Puddle"
-    },
-    "50583": {
-        "id": 50583,
-        "name": "Cave"
     },
     "50584": {
         "id": 50584,
@@ -106942,5 +106910,645 @@
     "55775": {
         "id": 55775,
         "name": "Mural"
+    },
+    "55777": {
+        "id": 55777,
+        "name": "Pedestal"
+    },
+    "55778": {
+        "id": 55778,
+        "name": "Venom pool"
+    },
+    "55779": {
+        "id": 55779,
+        "name": "Cave"
+    },
+    "55780": {
+        "id": 55780,
+        "name": "Rubble"
+    },
+    "55781": {
+        "id": 55781,
+        "name": "Rubble"
+    },
+    "55782": {
+        "id": 55782,
+        "name": "Rubble"
+    },
+    "55783": {
+        "id": 55783,
+        "name": "Rubble"
+    },
+    "55785": {
+        "id": 55785,
+        "name": "Stairs"
+    },
+    "55786": {
+        "id": 55786,
+        "name": "Stairs"
+    },
+    "55787": {
+        "id": 55787,
+        "name": "Mural"
+    },
+    "55788": {
+        "id": 55788,
+        "name": "Mural"
+    },
+    "55789": {
+        "id": 55789,
+        "name": "Mural"
+    },
+    "55790": {
+        "id": 55790,
+        "name": "Mural"
+    },
+    "55791": {
+        "id": 55791,
+        "name": "Mural"
+    },
+    "55792": {
+        "id": 55792,
+        "name": "Mural"
+    },
+    "55793": {
+        "id": 55793,
+        "name": "Mural"
+    },
+    "55794": {
+        "id": 55794,
+        "name": "Mural"
+    },
+    "55795": {
+        "id": 55795,
+        "name": "Mural"
+    },
+    "55796": {
+        "id": 55796,
+        "name": "Shelves"
+    },
+    "55797": {
+        "id": 55797,
+        "name": "Blue tile"
+    },
+    "55798": {
+        "id": 55798,
+        "name": "Red tile"
+    },
+    "55799": {
+        "id": 55799,
+        "name": "Green tile"
+    },
+    "55800": {
+        "id": 55800,
+        "name": "Yellow tile"
+    },
+    "55801": {
+        "id": 55801,
+        "name": "Blue tile"
+    },
+    "55802": {
+        "id": 55802,
+        "name": "Red tile"
+    },
+    "55803": {
+        "id": 55803,
+        "name": "Green tile"
+    },
+    "55804": {
+        "id": 55804,
+        "name": "Yellow tile"
+    },
+    "55807": {
+        "id": 55807,
+        "name": "Loot!"
+    },
+    "55808": {
+        "id": 55808,
+        "name": "Statue"
+    },
+    "55809": {
+        "id": 55809,
+        "name": "Statue"
+    },
+    "55810": {
+        "id": 55810,
+        "name": "Cavity"
+    },
+    "55811": {
+        "id": 55811,
+        "name": "Cavity"
+    },
+    "55812": {
+        "id": 55812,
+        "name": "Kalphite queen legs"
+    },
+    "55813": {
+        "id": 55813,
+        "name": "Acid pool"
+    },
+    "55814": {
+        "id": 55814,
+        "name": "The Cloister Bell"
+    },
+    "55815": {
+        "id": 55815,
+        "name": "Trophy pedestal"
+    },
+    "55816": {
+        "id": 55816,
+        "name": "Trophy pedestal"
+    },
+    "55817": {
+        "id": 55817,
+        "name": "Trophy pedestal"
+    },
+    "55818": {
+        "id": 55818,
+        "name": "Trophy pedestal"
+    },
+    "55819": {
+        "id": 55819,
+        "name": "Trophy pedestal"
+    },
+    "55820": {
+        "id": 55820,
+        "name": "Trophy pedestal"
+    },
+    "55821": {
+        "id": 55821,
+        "name": "Trophy pedestal"
+    },
+    "55822": {
+        "id": 55822,
+        "name": "Ornate trophy pedestal"
+    },
+    "55823": {
+        "id": 55823,
+        "name": "Ornate trophy pedestal"
+    },
+    "55824": {
+        "id": 55824,
+        "name": "Ornate trophy pedestal"
+    },
+    "55825": {
+        "id": 55825,
+        "name": "Ornate trophy pedestal"
+    },
+    "55826": {
+        "id": 55826,
+        "name": "Ornate trophy pedestal"
+    },
+    "55827": {
+        "id": 55827,
+        "name": "Ornate trophy pedestal"
+    },
+    "55828": {
+        "id": 55828,
+        "name": "Ornate trophy pedestal"
+    },
+    "55829": {
+        "id": 55829,
+        "name": "Trophy pedestal"
+    },
+    "55830": {
+        "id": 55830,
+        "name": "Trophy pedestal"
+    },
+    "55831": {
+        "id": 55831,
+        "name": "Trophy pedestal"
+    },
+    "55832": {
+        "id": 55832,
+        "name": "Trophy pedestal"
+    },
+    "55833": {
+        "id": 55833,
+        "name": "Trophy pedestal"
+    },
+    "55834": {
+        "id": 55834,
+        "name": "Trophy pedestal"
+    },
+    "55835": {
+        "id": 55835,
+        "name": "Trophy pedestal"
+    },
+    "55836": {
+        "id": 55836,
+        "name": "Ornate trophy pedestal"
+    },
+    "55837": {
+        "id": 55837,
+        "name": "Ornate trophy pedestal"
+    },
+    "55838": {
+        "id": 55838,
+        "name": "Ornate trophy pedestal"
+    },
+    "55839": {
+        "id": 55839,
+        "name": "Ornate trophy pedestal"
+    },
+    "55840": {
+        "id": 55840,
+        "name": "Ornate trophy pedestal"
+    },
+    "55841": {
+        "id": 55841,
+        "name": "Ornate trophy pedestal"
+    },
+    "55842": {
+        "id": 55842,
+        "name": "Ornate trophy pedestal"
+    },
+    "55843": {
+        "id": 55843,
+        "name": "Trophy pedestal"
+    },
+    "55844": {
+        "id": 55844,
+        "name": "Trophy pedestal"
+    },
+    "55845": {
+        "id": 55845,
+        "name": "Trophy pedestal"
+    },
+    "55846": {
+        "id": 55846,
+        "name": "Trophy pedestal"
+    },
+    "55847": {
+        "id": 55847,
+        "name": "Trophy pedestal"
+    },
+    "55848": {
+        "id": 55848,
+        "name": "Trophy pedestal"
+    },
+    "55849": {
+        "id": 55849,
+        "name": "Trophy pedestal"
+    },
+    "55850": {
+        "id": 55850,
+        "name": "Ornate trophy pedestal"
+    },
+    "55851": {
+        "id": 55851,
+        "name": "Ornate trophy pedestal"
+    },
+    "55852": {
+        "id": 55852,
+        "name": "Ornate trophy pedestal"
+    },
+    "55853": {
+        "id": 55853,
+        "name": "Ornate trophy pedestal"
+    },
+    "55854": {
+        "id": 55854,
+        "name": "Ornate trophy pedestal"
+    },
+    "55855": {
+        "id": 55855,
+        "name": "Ornate trophy pedestal"
+    },
+    "55856": {
+        "id": 55856,
+        "name": "Ornate trophy pedestal"
+    },
+    "55857": {
+        "id": 55857,
+        "name": "Banner stand"
+    },
+    "55858": {
+        "id": 55858,
+        "name": "Ornate banner stand"
+    },
+    "55859": {
+        "id": 55859,
+        "name": "Oak outfit stand"
+    },
+    "55860": {
+        "id": 55860,
+        "name": "Oak outfit stand"
+    },
+    "55861": {
+        "id": 55861,
+        "name": "Oak outfit stand"
+    },
+    "55862": {
+        "id": 55862,
+        "name": "Mahogany outfit stand"
+    },
+    "55863": {
+        "id": 55863,
+        "name": "Mahogany outfit stand"
+    },
+    "55864": {
+        "id": 55864,
+        "name": "Mahogany outfit stand"
+    },
+    "55865": {
+        "id": 55865,
+        "name": "Molten Sand"
+    },
+    "55866": {
+        "id": 55866,
+        "name": "Waystone"
+    },
+    "55867": {
+        "id": 55867,
+        "name": "Runestone basalt"
+    },
+    "55868": {
+        "id": 55868,
+        "name": "Runestone basalt"
+    },
+    "55869": {
+        "id": 55869,
+        "name": "Runestone basalt"
+    },
+    "55870": {
+        "id": 55870,
+        "name": "Runestone basalt"
+    },
+    "55871": {
+        "id": 55871,
+        "name": "Runestone basalt"
+    },
+    "55872": {
+        "id": 55872,
+        "name": "Runestone basalt"
+    },
+    "55873": {
+        "id": 55873,
+        "name": "Runestone basalt"
+    },
+    "55874": {
+        "id": 55874,
+        "name": "Info Board"
+    },
+    "55878": {
+        "id": 55878,
+        "name": "Rock"
+    },
+    "55879": {
+        "id": 55879,
+        "name": "Rock"
+    },
+    "55880": {
+        "id": 55880,
+        "name": "Rock"
+    },
+    "55881": {
+        "id": 55881,
+        "name": "Rock"
+    },
+    "55882": {
+        "id": 55882,
+        "name": "Archway"
+    },
+    "55883": {
+        "id": 55883,
+        "name": "Archway"
+    },
+    "55884": {
+        "id": 55884,
+        "name": "Archway"
+    },
+    "55885": {
+        "id": 55885,
+        "name": "Archway"
+    },
+    "55886": {
+        "id": 55886,
+        "name": "Archway"
+    },
+    "55887": {
+        "id": 55887,
+        "name": "Archway"
+    },
+    "55888": {
+        "id": 55888,
+        "name": "Archway"
+    },
+    "55889": {
+        "id": 55889,
+        "name": "Archway"
+    },
+    "55890": {
+        "id": 55890,
+        "name": "Waystone"
+    },
+    "55891": {
+        "id": 55891,
+        "name": "Waystone"
+    },
+    "55892": {
+        "id": 55892,
+        "name": "Waystone"
+    },
+    "55893": {
+        "id": 55893,
+        "name": "Waystone"
+    },
+    "55894": {
+        "id": 55894,
+        "name": "Waystone"
+    },
+    "55895": {
+        "id": 55895,
+        "name": "Waystone"
+    },
+    "55896": {
+        "id": 55896,
+        "name": "Waystone"
+    },
+    "55897": {
+        "id": 55897,
+        "name": "Waystone"
+    },
+    "55898": {
+        "id": 55898,
+        "name": "Waystone"
+    },
+    "55899": {
+        "id": 55899,
+        "name": "Waystone"
+    },
+    "55900": {
+        "id": 55900,
+        "name": "Waystone"
+    },
+    "55901": {
+        "id": 55901,
+        "name": "Portal"
+    },
+    "55902": {
+        "id": 55902,
+        "name": "Portal Nexus"
+    },
+    "55903": {
+        "id": 55903,
+        "name": "Spiritual Fairy Tree"
+    },
+    "55904": {
+        "id": 55904,
+        "name": "Rug"
+    },
+    "55905": {
+        "id": 55905,
+        "name": "Rug"
+    },
+    "55906": {
+        "id": 55906,
+        "name": "Rug"
+    },
+    "55907": {
+        "id": 55907,
+        "name": "Scrying pool"
+    },
+    "55908": {
+        "id": 55908,
+        "name": "Curtains"
+    },
+    "55909": {
+        "id": 55909,
+        "name": "Echoing flames"
+    },
+    "55913": {
+        "id": 55913,
+        "name": "Oak tree"
+    },
+    "55914": {
+        "id": 55914,
+        "name": "Tree"
+    },
+    "55915": {
+        "id": 55915,
+        "name": "Tree"
+    },
+    "55916": {
+        "id": 55916,
+        "name": "Snowy Bush"
+    },
+    "55919": {
+        "id": 55919,
+        "name": "Candy cane"
+    },
+    "55921": {
+        "id": 55921,
+        "name": "Candy cane"
+    },
+    "55923": {
+        "id": 55923,
+        "name": "Candy canes"
+    },
+    "55925": {
+        "id": 55925,
+        "name": "Candy canes"
+    },
+    "55927": {
+        "id": 55927,
+        "name": "Candy canes"
+    },
+    "55929": {
+        "id": 55929,
+        "name": "Candy canes"
+    },
+    "55931": {
+        "id": 55931,
+        "name": "Candy cane fence"
+    },
+    "55932": {
+        "id": 55932,
+        "name": "Candy cane fence"
+    },
+    "55933": {
+        "id": 55933,
+        "name": "Candy cane"
+    },
+    "55935": {
+        "id": 55935,
+        "name": "Candy cane"
+    },
+    "55937": {
+        "id": 55937,
+        "name": "Candy canes"
+    },
+    "55939": {
+        "id": 55939,
+        "name": "Candy cane"
+    },
+    "55941": {
+        "id": 55941,
+        "name": "Candy cane"
+    },
+    "55943": {
+        "id": 55943,
+        "name": "Candy cane"
+    },
+    "55944": {
+        "id": 55944,
+        "name": "Candy cane fence"
+    },
+    "55945": {
+        "id": 55945,
+        "name": "Candy cane Fence"
+    },
+    "55952": {
+        "id": 55952,
+        "name": "Decorated festive fireplace"
+    },
+    "55953": {
+        "id": 55953,
+        "name": "Wintumber tree"
+    },
+    "55954": {
+        "id": 55954,
+        "name": "Wintumber tree"
+    },
+    "55955": {
+        "id": 55955,
+        "name": "Sunflower"
+    },
+    "55956": {
+        "id": 55956,
+        "name": "Sunflowers"
+    },
+    "55957": {
+        "id": 55957,
+        "name": "Broken Sunflowers"
+    },
+    "55958": {
+        "id": 55958,
+        "name": "Broken Sunflowers"
+    },
+    "55959": {
+        "id": 55959,
+        "name": "Sunflowers"
+    },
+    "55963": {
+        "id": 55963,
+        "name": "Dog Burrow"
+    },
+    "55965": {
+        "id": 55965,
+        "name": "Candy cane crate"
+    },
+    "55966": {
+        "id": 55966,
+        "name": "Candy cane crate"
+    },
+    "55967": {
+        "id": 55967,
+        "name": "Broken candy canes"
+    },
+    "55968": {
+        "id": 55968,
+        "name": "Broken candy canes"
     }
 }

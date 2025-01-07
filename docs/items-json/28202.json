@@ -1,7 +1,7 @@
 {
     "id": 28202,
     "name": "Steel felling axe",
-    "last_updated": "2024-10-01",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -30,9 +30,9 @@
     "wiki_name": "Steel felling axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_felling_axe",
     "equipment": {
-        "attack_stab": -2,
-        "attack_slash": 8,
-        "attack_crush": 6,
+        "attack_stab": -3,
+        "attack_slash": 12,
+        "attack_crush": 9,
         "attack_magic": 0,
         "attack_ranged": 0,
         "defence_stab": 0,
@@ -40,7 +40,7 @@
         "defence_crush": 0,
         "defence_magic": 0,
         "defence_ranged": 0,
-        "melee_strength": 9,
+        "melee_strength": 14,
         "ranged_strength": 0,
         "magic_damage": 0,
         "prayer": 0,
@@ -48,7 +48,7 @@
         "requirements": null
     },
     "weapon": {
-        "attack_speed": 5,
+        "attack_speed": 7,
         "weapon_type": "axe",
         "stances": [
             {

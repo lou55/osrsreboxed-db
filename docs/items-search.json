@@ -19339,49 +19339,49 @@
     },
     "3337": {
         "id": 3337,
-        "name": "Myre snelm",
+        "name": "Pointed myre snelm",
         "type": "normal",
         "duplicate": false
     },
     "3338": {
         "id": 3338,
-        "name": "Myre snelm",
+        "name": "Pointed myre snelm",
         "type": "noted",
         "duplicate": true
     },
     "3339": {
         "id": 3339,
-        "name": "Blood'n'tar snelm",
+        "name": "Pointed blood'n'tar snelm",
         "type": "normal",
         "duplicate": false
     },
     "3340": {
         "id": 3340,
-        "name": "Blood'n'tar snelm",
+        "name": "Pointed blood'n'tar snelm",
         "type": "noted",
         "duplicate": true
     },
     "3341": {
         "id": 3341,
-        "name": "Ochre snelm",
+        "name": "Pointed ochre snelm",
         "type": "normal",
         "duplicate": false
     },
     "3342": {
         "id": 3342,
-        "name": "Ochre snelm",
+        "name": "Pointed ochre snelm",
         "type": "noted",
         "duplicate": true
     },
     "3343": {
         "id": 3343,
-        "name": "Bruise blue snelm",
+        "name": "Pointed bruise blue snelm",
         "type": "normal",
         "duplicate": false
     },
     "3344": {
         "id": 3344,
-        "name": "Bruise blue snelm",
+        "name": "Pointed bruise blue snelm",
         "type": "noted",
         "duplicate": true
     },
@@ -23523,7 +23523,7 @@
         "id": 4159,
         "name": "Leaf-bladed spear",
         "type": "normal",
-        "duplicate": false
+        "duplicate": true
     },
     "4160": {
         "id": 4160,
@@ -107095,25 +107095,25 @@
     },
     "18860": {
         "id": 18860,
-        "name": "Myre snelm",
+        "name": "Pointed myre snelm",
         "type": "placeholder",
         "duplicate": true
     },
     "18861": {
         "id": 18861,
-        "name": "Blood'n'tar snelm",
+        "name": "Pointed blood'n'tar snelm",
         "type": "placeholder",
         "duplicate": true
     },
     "18862": {
         "id": 18862,
-        "name": "Ochre snelm",
+        "name": "Pointed ochre snelm",
         "type": "placeholder",
         "duplicate": true
     },
     "18863": {
         "id": 18863,
-        "name": "Bruise blue snelm",
+        "name": "Pointed bruise blue snelm",
         "type": "placeholder",
         "duplicate": true
     },
@@ -142465,13 +142465,13 @@
     },
     "25104": {
         "id": 25104,
-        "name": "Crystal of memories",
+        "name": "Crystal of echoes",
         "type": "normal",
         "duplicate": false
     },
     "25105": {
         "id": 25105,
-        "name": "Crystal of memories",
+        "name": "Crystal of echoes",
         "type": "placeholder",
         "duplicate": true
     },
@@ -142501,37 +142501,37 @@
     },
     "25110": {
         "id": 25110,
-        "name": "Trailblazer axe",
+        "name": "Echo axe",
         "type": "normal",
         "duplicate": false
     },
     "25111": {
         "id": 25111,
-        "name": "Trailblazer axe",
+        "name": "Echo axe",
         "type": "placeholder",
         "duplicate": true
     },
     "25112": {
         "id": 25112,
-        "name": "Trailblazer pickaxe",
+        "name": "Echo pickaxe",
         "type": "normal",
         "duplicate": false
     },
     "25113": {
         "id": 25113,
-        "name": "Trailblazer pickaxe",
+        "name": "Echo pickaxe",
         "type": "placeholder",
         "duplicate": true
     },
     "25114": {
         "id": 25114,
-        "name": "Trailblazer harpoon",
+        "name": "Echo harpoon",
         "type": "normal",
         "duplicate": false
     },
     "25115": {
         "id": 25115,
-        "name": "Trailblazer harpoon",
+        "name": "Echo harpoon",
         "type": "placeholder",
         "duplicate": true
     },
@@ -171539,438 +171539,6 @@
         "type": "placeholder",
         "duplicate": true
     },
-    "30160": {
-        "id": 30160,
-        "name": "Picture map",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30161": {
-        "id": 30161,
-        "name": "Seed packets",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30162": {
-        "id": 30162,
-        "name": "Beige pumpkin",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30163": {
-        "id": 30163,
-        "name": "White pumpkin",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30164": {
-        "id": 30164,
-        "name": "Yellow pumpkin",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30165": {
-        "id": 30165,
-        "name": "Orange pumpkin",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30166": {
-        "id": 30166,
-        "name": "Red pumpkin",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30167": {
-        "id": 30167,
-        "name": "Dark green pumpkin",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30168": {
-        "id": 30168,
-        "name": "Powder grey pumpkin",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30169": {
-        "id": 30169,
-        "name": "Beige pumpkin (disgusted)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30170": {
-        "id": 30170,
-        "name": "Beige pumpkin (silly)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30171": {
-        "id": 30171,
-        "name": "Beige pumpkin (evil)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30172": {
-        "id": 30172,
-        "name": "Beige pumpkin (angry)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30173": {
-        "id": 30173,
-        "name": "Beige pumpkin (depressed)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30174": {
-        "id": 30174,
-        "name": "Beige pumpkin (shocked)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30175": {
-        "id": 30175,
-        "name": "Beige pumpkin (sad)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30176": {
-        "id": 30176,
-        "name": "Beige pumpkin (happy)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30177": {
-        "id": 30177,
-        "name": "Beige pumpkin (laughing)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30178": {
-        "id": 30178,
-        "name": "White pumpkin (disgusted)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30179": {
-        "id": 30179,
-        "name": "White pumpkin (silly)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30180": {
-        "id": 30180,
-        "name": "White pumpkin (evil)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30181": {
-        "id": 30181,
-        "name": "White pumpkin (angry)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30182": {
-        "id": 30182,
-        "name": "White pumpkin (depressed)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30183": {
-        "id": 30183,
-        "name": "White pumpkin (shocked)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30184": {
-        "id": 30184,
-        "name": "White pumpkin (sad)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30185": {
-        "id": 30185,
-        "name": "White pumpkin (happy)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30186": {
-        "id": 30186,
-        "name": "White pumpkin (laughing)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30187": {
-        "id": 30187,
-        "name": "Yellow pumpkin (disgusted)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30188": {
-        "id": 30188,
-        "name": "Yellow pumpkin (silly)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30189": {
-        "id": 30189,
-        "name": "Yellow pumpkin (evil)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30190": {
-        "id": 30190,
-        "name": "Yellow pumpkin (angry)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30191": {
-        "id": 30191,
-        "name": "Yellow pumpkin (depressed)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30192": {
-        "id": 30192,
-        "name": "Yellow pumpkin (shocked)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30193": {
-        "id": 30193,
-        "name": "Yellow pumpkin (sad)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30194": {
-        "id": 30194,
-        "name": "Yellow pumpkin (happy)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30195": {
-        "id": 30195,
-        "name": "Yellow pumpkin (laughing)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30196": {
-        "id": 30196,
-        "name": "Orange pumpkin (disgusted)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30197": {
-        "id": 30197,
-        "name": "Orange pumpkin (silly)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30198": {
-        "id": 30198,
-        "name": "Orange pumpkin (evil)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30199": {
-        "id": 30199,
-        "name": "Orange pumpkin (angry)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30200": {
-        "id": 30200,
-        "name": "Orange pumpkin (depressed)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30201": {
-        "id": 30201,
-        "name": "Orange pumpkin (shocked)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30202": {
-        "id": 30202,
-        "name": "Orange pumpkin (sad)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30203": {
-        "id": 30203,
-        "name": "Orange pumpkin (happy)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30204": {
-        "id": 30204,
-        "name": "Orange pumpkin (laughing)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30205": {
-        "id": 30205,
-        "name": "Red pumpkin (disgusted)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30206": {
-        "id": 30206,
-        "name": "Red pumpkin (silly)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30207": {
-        "id": 30207,
-        "name": "Red pumpkin (evil)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30208": {
-        "id": 30208,
-        "name": "Red pumpkin (angry)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30209": {
-        "id": 30209,
-        "name": "Red pumpkin (depressed)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30210": {
-        "id": 30210,
-        "name": "Red pumpkin (shocked)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30211": {
-        "id": 30211,
-        "name": "Red pumpkin (sad)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30212": {
-        "id": 30212,
-        "name": "Red pumpkin (happy)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30213": {
-        "id": 30213,
-        "name": "Red pumpkin (laughing)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30214": {
-        "id": 30214,
-        "name": "Dark green pumpkin (disgusted)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30215": {
-        "id": 30215,
-        "name": "Dark green pumpkin (silly)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30216": {
-        "id": 30216,
-        "name": "Dark green pumpkin (evil)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30217": {
-        "id": 30217,
-        "name": "Dark green pumpkin (angry)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30218": {
-        "id": 30218,
-        "name": "Dark green pumpkin (depressed)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30219": {
-        "id": 30219,
-        "name": "Dark green pumpkin (shocked)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30220": {
-        "id": 30220,
-        "name": "Dark green pumpkin (sad)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30221": {
-        "id": 30221,
-        "name": "Dark green pumpkin (happy)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30222": {
-        "id": 30222,
-        "name": "Dark green pumpkin (laughing)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30223": {
-        "id": 30223,
-        "name": "Powder grey pumpkin (disgusted)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30224": {
-        "id": 30224,
-        "name": "Powder grey pumpkin (silly)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30225": {
-        "id": 30225,
-        "name": "Powder grey pumpkin (evil)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30226": {
-        "id": 30226,
-        "name": "Powder grey pumpkin (angry)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30227": {
-        "id": 30227,
-        "name": "Powder grey pumpkin (depressed)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30228": {
-        "id": 30228,
-        "name": "Powder grey pumpkin (shocked)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30229": {
-        "id": 30229,
-        "name": "Powder grey pumpkin (sad)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30230": {
-        "id": 30230,
-        "name": "Powder grey pumpkin (happy)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "30231": {
-        "id": 30231,
-        "name": "Powder grey pumpkin (laughing)",
-        "type": "normal",
-        "duplicate": false
-    },
     "30232": {
         "id": 30232,
         "name": "Scarecrow shirt",
@@ -172418,6 +171986,480 @@
     "30306": {
         "id": 30306,
         "name": "Arclight (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30307": {
+        "id": 30307,
+        "name": "Elias' message",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30308": {
+        "id": 30308,
+        "name": "Mastaba key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30309": {
+        "id": 30309,
+        "name": "Mastaba key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30310": {
+        "id": 30310,
+        "name": "Base plans",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30311": {
+        "id": 30311,
+        "name": "Base key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30312": {
+        "id": 30312,
+        "name": "Canopic jar (oil)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30313": {
+        "id": 30313,
+        "name": "Canopic jar (oil and berries)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30314": {
+        "id": 30314,
+        "name": "Canopic jar (full)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30316": {
+        "id": 30316,
+        "name": "Code key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30317": {
+        "id": 30317,
+        "name": "Decoder strips",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30318": {
+        "id": 30318,
+        "name": "Mahjarrat notes (a-j)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30319": {
+        "id": 30319,
+        "name": "Mahjarrat notes (k-z)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30320": {
+        "id": 30320,
+        "name": "Arrav's axe",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30321": {
+        "id": 30321,
+        "name": "Zombie helmet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30322": {
+        "id": 30322,
+        "name": "Zombie helmet",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30323": {
+        "id": 30323,
+        "name": "Zombie helmet",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30324": {
+        "id": 30324,
+        "name": "Broken zombie helmet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30325": {
+        "id": 30325,
+        "name": "Broken zombie helmet",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30326": {
+        "id": 30326,
+        "name": "Broken zombie helmet",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30328": {
+        "id": 30328,
+        "name": "Dust",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30329": {
+        "id": 30329,
+        "name": "Dust",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30330": {
+        "id": 30330,
+        "name": "Dust",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30331": {
+        "id": 30331,
+        "name": "Raging echoes relic hunter (t1) armour set",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30332": {
+        "id": 30332,
+        "name": "Raging echoes relic hunter (t1) armour set",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30333": {
+        "id": 30333,
+        "name": "Raging echoes relic hunter (t1) armour set",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30334": {
+        "id": 30334,
+        "name": "Raging echoes relic hunter (t2) armour set",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30335": {
+        "id": 30335,
+        "name": "Raging echoes relic hunter (t2) armour set",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30336": {
+        "id": 30336,
+        "name": "Raging echoes relic hunter (t2) armour set",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30337": {
+        "id": 30337,
+        "name": "Raging echoes relic hunter (t3) armour set",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30338": {
+        "id": 30338,
+        "name": "Raging echoes relic hunter (t3) armour set",
+        "type": "noted",
+        "duplicate": true
+    },
+    "30339": {
+        "id": 30339,
+        "name": "Raging echoes relic hunter (t3) armour set",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30340": {
+        "id": 30340,
+        "name": "Crystal dagger (perfected)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30341": {
+        "id": 30341,
+        "name": "Crystal dagger (perfected)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30342": {
+        "id": 30342,
+        "name": "Infernal harpoon (or)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30343": {
+        "id": 30343,
+        "name": "Infernal harpoon (uncharged)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30345": {
+        "id": 30345,
+        "name": "Infernal pickaxe (or)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30346": {
+        "id": 30346,
+        "name": "Infernal pickaxe (uncharged)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30347": {
+        "id": 30347,
+        "name": "Infernal axe (or)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30348": {
+        "id": 30348,
+        "name": "Infernal axe (uncharged)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30349": {
+        "id": 30349,
+        "name": "Dragon harpoon (or)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30351": {
+        "id": 30351,
+        "name": "Dragon pickaxe (or)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30352": {
+        "id": 30352,
+        "name": "Dragon axe (or)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30353": {
+        "id": 30353,
+        "name": "Cabbage",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30354": {
+        "id": 30354,
+        "name": "Cabbage",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30355": {
+        "id": 30355,
+        "name": "Cabbage",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30356": {
+        "id": 30356,
+        "name": "Cabbage",
+        "type": "normal",
+        "duplicate": true
+    },
+    "30357": {
+        "id": 30357,
+        "name": "Forager's pouch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30358": {
+        "id": 30358,
+        "name": "Forager's pouch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30359": {
+        "id": 30359,
+        "name": "Leprechaun's vault",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30360": {
+        "id": 30360,
+        "name": "Leprechaun's vault",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30361": {
+        "id": 30361,
+        "name": "Banker's briefcase",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30362": {
+        "id": 30362,
+        "name": "Banker's briefcase",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30363": {
+        "id": 30363,
+        "name": "Clue compass",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30364": {
+        "id": 30364,
+        "name": "Clue compass",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30365": {
+        "id": 30365,
+        "name": "Pocket kingdom",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30366": {
+        "id": 30366,
+        "name": "Pocket kingdom",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30367": {
+        "id": 30367,
+        "name": "The dogsword",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30368": {
+        "id": 30368,
+        "name": "The dogsword",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30369": {
+        "id": 30369,
+        "name": "Sunlight spear",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30370": {
+        "id": 30370,
+        "name": "Sunlight spear",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30371": {
+        "id": 30371,
+        "name": "Devil's element",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30372": {
+        "id": 30372,
+        "name": "Devil's element",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30373": {
+        "id": 30373,
+        "name": "Drygore blowpipe (empty)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30374": {
+        "id": 30374,
+        "name": "Drygore blowpipe",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30375": {
+        "id": 30375,
+        "name": "Drygore blowpipe",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30376": {
+        "id": 30376,
+        "name": "Amulet of the monarchs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30377": {
+        "id": 30377,
+        "name": "Amulet of the monarchs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30378": {
+        "id": 30378,
+        "name": "Emperor ring",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30379": {
+        "id": 30379,
+        "name": "Emperor ring",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30380": {
+        "id": 30380,
+        "name": "Gloves of the damned",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30381": {
+        "id": 30381,
+        "name": "Gloves of the damned",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30382": {
+        "id": 30382,
+        "name": "Thousand-dragon ward",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30383": {
+        "id": 30383,
+        "name": "Thousand-dragon ward",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30384": {
+        "id": 30384,
+        "name": "Crystal blessing",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30385": {
+        "id": 30385,
+        "name": "Crystal blessing",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30386": {
+        "id": 30386,
+        "name": "Sunlit bracers",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30387": {
+        "id": 30387,
+        "name": "Sunlit bracers",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "30388": {
+        "id": 30388,
+        "name": "Thunder khopesh",
+        "type": "normal",
+        "duplicate": false
+    },
+    "30389": {
+        "id": 30389,
+        "name": "Thunder khopesh",
         "type": "placeholder",
         "duplicate": true
     }

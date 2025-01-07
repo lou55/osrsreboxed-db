@@ -1,7 +1,7 @@
 {
     "id": 23967,
     "name": "Crystal shards",
-    "last_updated": "2024-10-01",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -27,8 +27,8 @@
     "duplicate": true,
     "examine": "Shards of the finest crystal, used to craft items within the Gauntlet.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABAklEQVR4Xu3UMQrCMBSA4b4jOHbrETyKi+DiBRRRERVE3TyBleIgLlIcxFFnvdiTpLwmJlFaapsK+eEtVcvX11bPc7lctQhQPWIxwM5sjjVBAS5OMQc1fN82CjB+PDlGBjWDwBYqAQ13UTr5QWyjNIUDIyY7CLA9nvBp9fq/QJlB2a4YcBmf+TAMgbJfjDEdxKa7WvP5DBOYUbTnUwmIjf7m6RiaSkC0KbqVJgz9Lt/zZyz5D6KhE8vIwTZMj6sYFVIQwxIgeQvfQCVB5EzrFigChbc7bi7XMiEi/eQ6SMWI71ZWgpJvmUUM6x1kGUMBTg/HFKR+aqnabEdUK4zL5frHXlfcZwWykDIEAAAAAElFTkSuQmCC",
-    "wiki_name": "Crystal shards",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_shards",
+    "wiki_name": "Crystal shards (The Gauntlet)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_shards_(The_Gauntlet)",
     "equipment": null,
     "weapon": null
 }

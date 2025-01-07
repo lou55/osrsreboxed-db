@@ -1,7 +1,7 @@
 {
     "id": 24844,
     "name": "Ring of endurance (uncharged)",
-    "last_updated": "2024-10-01",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 25600,
     "highalch": 38400,
     "weight": 0.006,
-    "buy_limit": null,
+    "buy_limit": 5,
     "quest_item": false,
     "release_date": "2020-06-12",
     "duplicate": false,

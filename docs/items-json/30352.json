@@ -1,0 +1,84 @@
+{
+    "id": 30352,
+    "name": "Dragon axe (or)",
+    "last_updated": "2025-01-07",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 55000,
+    "lowalch": 22000,
+    "highalch": 33000,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-11-27",
+    "duplicate": false,
+    "examine": "A very powerful axe in the colours of the Trailblazer Reloaded League.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xt2X0YrTQBSGd65KS8lSLA1tSbJJSUoaabdlt11xEQRlQbwQRRRBEHwFL3wDX2PvfAxfwBfxKc72P8NJp7OpFk2a4g8/bdJ05ptzzpxOT07+bym674Nqe/JJktDDNGXPsox9QDBF3mDADoZDduT77DgMc99kE3oxFbDKpGFsEPjZJM0hXs6m9Op8xjDnZ2dse6QStA3zJInp6TgpBHl7sageZjwa5TAAMWEECDBvFvPqYVATdmRMKBPm/fIiB7JHKkmqEAbvZ96Qfr5r08L3GApAH1bLKoH0li6CuV6nMFvX1I/XLfr12eHryzCoMkKburFhrqKQX9O+S1+cBn3rNPge0mfWkN7ypTTLTd0UwcC4jns9un3epK9rKEQHxS3bHQ493ShX8zldL3Uq7Zn2lOKua8KYK0XNAABpwmffb5p8D0BSRwM3oCSa8sKQdonaX6RSpwowsEDIYJIKRAcpA4hETCIkdTQKMkpHcx5PxrBn20OKV14Msv0cHHW7vNsEymyMSBmiNE1X/wIE/Q7ElCLXafNuwyKkHwFItr+9MHuEvbX7y5tJfDelcXDJ9WQ2SAH69PiqHJjdUtTr+NTvRjTsxRQO9K85UoYIwUhdqZHZLZWDIDLmhCaACVERjJ4EMACRqNgTVgwhUnlXBkjsVX6s+JMU9xacc1C8tcM0Gw1ufh8fbfpIbTB9183PzkcBI2fm2mHgU8ehB51O/TDtVut4YCRNOC4cBYz8v6oZBtL/txAZHMoEyH7qwLr/O2Q/cXAJSF0wd192DQ7RZmCTAAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon axe (or) (Trailblazer Reloaded)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_axe_(or)#Trailblazer_Reloaded",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 38,
+        "attack_crush": 32,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axe",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

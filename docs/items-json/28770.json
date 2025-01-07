@@ -1,7 +1,7 @@
 {
     "id": 28770,
     "name": "Guardian horn",
-    "last_updated": "2024-10-01",
+    "last_updated": "2025-01-07",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,9 +26,9 @@
     "release_date": "2023-11-15",
     "duplicate": true,
     "examine": "A horn to call your loyal guardian.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+UlEQVR4Xu2Uy0ojQRiFUzRF0U3TjaRJMDLxBooiGASJGx1lFNRFREVUUPCuG0VcuVDMQhSc3aD4AgMOCPMCPoMIPoErV+5c6eZYf7WVmwoxUYnQHxx60/z19emqCoUCAgICAr4dDH4qAoZR28VGVbRSpBgm7Col1CuMEqR0u4UpC4YObiD5LJSoqytyIMP2oMDZkqlaHrIc9Jk2ukyrXDGGdilEKV6IYSzJMf+Lq4ZTUmhACnVLoYQw0cwFfo+LUsUYWnlIhZoqrnqGVKeB2Z8c68Mc6Umh2ukUFtqkUNzgCBsG1vs4/q/pxt4FU1XTF9KTBlPeFmMYaDGw3M2xPyJwMm3ifMXCxaaFqx0bNwcO7v84eDwfyrReXPMZmBLQMvSVVLtOfmtyAUcgFbWxGHex2xTG3wVTyVzv2bg9cvBw6uHxrLdUGY0vpYW0VIMM/QKdahnaJ6u1LtJNHo7bovjXEcNFVxyXPfW46W/E3Uh7uTJEVogW1CExLUUyJEm/lk7WJ8poslK50W2RIG1ekplxwlh1I9iSd1jai+Eo8gPH0biKFiqcXiJMNaA3uA6JvCazG87KZPbYx7STiz9YS1DorqGQUK7MYaTmhcgHy/j4Q5m6gSlTshVqZs7xsOh6eTKfKvKS/CNfmC8UyZLbwGspfD8gIKCSeAJ2pVlNEQlqHgAAAABJRU5ErkJggg==",
-    "wiki_name": "Guardian horn",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Guardian_horn",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHElEQVR4Xu2UUWvaUBiGey6GKCUihoiGxqYSg0YSExqttFmVrY524jqkrR2stJSuUsZWeld2ubHdbTf7C7vaj3yXc0KymJbNqRsO8sCLEcPHw3u+49JSTExMTMx/B4GXhYBALDso24NFkSKQKm0mtOVcTCHltxvNTBAY9X2s20M2rL66OuFAgp2UhvP0NpziIzRFB2a+AU0wZhUj0Gp70PXeHwi57yUkbCRLaMtdbEpt2IUW9JwFJatC4mQ8X7amFSMoqx1Uq09YU5NVT1BLiEyok6ygv1xn7ai8BjmjQEjlwSXS7LfLdOc3s+6FoKo8hF55DK3cYc9qaesXYgTqgzwTojJDrsmO7k2mi9tsDx/4AT4Lx/guvg5an6z5AMIEfBF5xUJRNIKMt+bezIQAPaWgxenYzbZwyjmBzCfhAF9zL/GtMJpWxseToikVbRYqU8hVkBfcY+DXWLJJnu2JkzaZzJHQxVm+j7fiMW6lU3xcu8IX5WZWGYp3bL6UIm+w0LZWChqT4jMSW1i6vPRmRWXey6N5yfh4Un7CjdG2FFeMLi+V6ZZ6eKYe4rB2gjPzCqPGDa5b71h8oej0KSFsucMLTmO5YjRRmZP6ZSDj79ic2gnjDTa1PRbD/UvYdAUd93Pb/R6WeWVf3xGZs4yHN5SgaQ5gG/vYcbNrHeDp+hD9xosxmb8qcpfxKx/NPxT5SbiB+xJ9PyYmZpH4AdjsZp3QvCarAAAAAElFTkSuQmCC",
+    "wiki_name": "Guardian horn (Trailblazer Reloaded League)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Guardian_horn_(Trailblazer_Reloaded_League)",
     "equipment": null,
     "weapon": null
 }
