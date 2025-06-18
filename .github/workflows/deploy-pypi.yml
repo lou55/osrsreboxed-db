@@ -2,6 +2,10 @@ name: Build and Deploy to PyPI
 
 on: push
 
+permissions:
+  id-token: write
+  contents: read
+
 jobs:
 
   build-and-publish:
