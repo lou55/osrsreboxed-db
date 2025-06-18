@@ -93,7 +93,7 @@ class Builder:
     def run(self):
         # Start processing every item!
         for item_id in self.all_items_cache_data:
-
+            try:
             # if int(item_id) < 25800:
             #     continue
 
@@ -133,7 +133,9 @@ class Builder:
                 builder.export_item_to_json()
             if self.validate:
                 builder.validate_item()
-
+        except Exception:
+                        print("Ran into issue parsing item.")
+                        print(traceback.format_exc())
         # Done processing, rejoice!
         print("Built.")
         exit(0)
